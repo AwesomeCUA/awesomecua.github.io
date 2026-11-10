@@ -1,3 +1,11 @@
+---
+title: "ClawBox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-coderkk1992-clawbox/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # ClawBox
 
 ClawBox runs OpenClaw and computer-use agents inside an isolated Apple Virtualization.framework macOS virtual machine sandbox.

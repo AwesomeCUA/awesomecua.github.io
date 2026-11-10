@@ -1,3 +1,11 @@
+---
+title: "Kiko Windows Voice Assistant · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Kiko Windows Voice Assistant
 
 原生、100% 离线的 Windows 桌面语音和 GUI 自动化助手。

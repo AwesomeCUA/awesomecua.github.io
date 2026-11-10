@@ -1,3 +1,11 @@
+---
+title: "AutoFiller Universal | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fedetrain-autofiller-universal/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoFiller Universal
 
 Batch web-form automation framework with self-healing selectors that runs LLM-free at runtime.

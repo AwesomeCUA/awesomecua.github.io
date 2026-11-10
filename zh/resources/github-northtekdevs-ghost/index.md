@@ -1,3 +1,11 @@
+---
+title: "NORTHTEK Ghost · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-northtekdevs-ghost/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # NORTHTEK Ghost
 
 为 Windows 和 Linux 上缺少 API 的原生 GUI 应用提供经过验证的 AI 智能体桌面控制能力。

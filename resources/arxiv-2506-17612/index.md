@@ -1,3 +1,11 @@
+---
+title: "JarvisArt: Liberating Human Artistic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-17612/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent
 
 Bibliographic record for JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunlong Lin, Zixu Lin, Kunjie Lin, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-17612/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-17612/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_17612,
+  title = {{JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent}},
+  author = {{Yunlong Lin} and {Zixu Lin} and {Kunjie Lin} and {Jinbin Bai} and {Panwang Pan} and {Chenxin Li} and {Haoyu Chen} and {Zhongdao Wang} and {Xinghao Ding} and {Wenbo Li} and {Shuicheng Yan}},
+  year = {2025},
+  eprint = {2506.17612v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.17612v1},
+  note = {First published: 2025-06-21; Recorded arXiv version: v1; Recorded version updated: 2025-06-21T06:36:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

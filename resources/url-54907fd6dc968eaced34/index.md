@@ -1,3 +1,11 @@
+---
+title: "SWEeper-Bench-traces | AwesomeCUA"
+url: https://awesomecua.com/resources/url-54907fd6dc968eaced34/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # SWEeper-Bench-traces
 
 Recorded runs from the SWEeper-Bench paper, 5,200 in all across 42 agent configurations, each with the coding agent's trajectory, shell commands and patch plus the browser verifier's trajectories and verdicts.

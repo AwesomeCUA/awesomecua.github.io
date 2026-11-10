@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-vision | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-browser-vision
 
 Vision-enabled browser automation plugin for DeepSeek Harness combining Browser-Use actions with page screenshot inspection.

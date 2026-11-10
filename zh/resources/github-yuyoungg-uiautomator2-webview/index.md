@@ -1,3 +1,11 @@
+---
+title: "u2_webview · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuyoungg-uiautomator2-webview/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # u2_webview
 
 一个 uiautomator2 扩展，通过 DrissionPage 经由 CDP 接入 Android 混合应用中的 WebView 页面，使同一个 Python 脚本既能操作原生界面，也能操作 H5 层。

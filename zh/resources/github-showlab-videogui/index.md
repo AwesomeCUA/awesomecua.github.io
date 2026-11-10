@@ -1,3 +1,11 @@
+---
+title: "VideoGUI · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-videogui/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # VideoGUI
 
 基于教学视频构建的桌面 GUI 任务基准。

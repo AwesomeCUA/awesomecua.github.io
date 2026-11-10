@@ -1,3 +1,11 @@
+---
+title: "VideoCAD: A Dataset and Model for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-24838/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video
 
 提出合成的 CAD 交互视频、从视频学习界面操作的模型，以及用于评估空间推理和长时程推理的任务。
@@ -27,6 +35,18 @@ Brandon Man, Ghadi Nehme, Md Ferdous Alam, Faez Ahmed
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-24838/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-24838/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_24838,
+  title = {{VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video}},
+  author = {{Brandon Man} and {Ghadi Nehme} and {Md Ferdous Alam} and {Faez Ahmed}},
+  year = {2025},
+  eprint = {2505.24838v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.24838v2},
+  note = {First published: 2025-05-30; Recorded arXiv version: v2; Recorded version updated: 2025-11-08T18:27:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

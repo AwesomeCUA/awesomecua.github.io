@@ -1,11 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 14 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/14/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 14
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/14/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [guo6x dsh-pilot](https://awesomecua.com/resources/github-guo6x-dsh-pilot/)
-- [haden-browser](https://awesomecua.com/resources/github-haden-min-haden-browser/)
 - [hai-agents](https://awesomecua.com/resources/github-hcompai-hai-agents-python/)
 - [hai-agents](https://awesomecua.com/resources/github-hcompai-hai-agents-ts/)
 - [Halo Bot](https://awesomecua.com/resources/github-galactic717-halo-bot/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [kde-mcp](https://awesomecua.com/resources/github-atassis-kde-mcp/)
 - [Kernel Claude Computer Use Loop](https://awesomecua.com/resources/github-kernel-claude-cu-loop-sample/)
 - [Kernel MCP Server](https://awesomecua.com/resources/github-kernel-kernel-mcp-server/)
+- [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
+- [Kimi Computer Use Bridge](https://awesomecua.com/resources/github-songkeys-kimi-computer-use/)

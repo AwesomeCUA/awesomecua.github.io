@@ -1,3 +1,11 @@
+---
+title: "WindowsWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # WindowsWorld
 
 Cross-application Windows benchmark with intermediate task evaluation.

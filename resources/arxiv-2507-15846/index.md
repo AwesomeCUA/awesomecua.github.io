@@ -1,3 +1,11 @@
+---
+title: "GUI-G$^2$: Gaussian Reward Modeling for GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-15846/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding
 
 GUI-G2 replaces binary grounding rewards with Gaussian point rewards and spatial-coverage rewards. An adaptive variance tied to element dimensions supplies continuous training feedback for targets of different sizes, evaluated on the ScreenSpot benchmark family.
@@ -26,6 +34,18 @@ Fei Tang, Zhangxuan Gu, Zhengxi Lu, Xuyang Liu, Shuheng Shen, Changhua Meng, Wen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-15846/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-15846/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_15846,
+  title = {{GUI-G\$\textasciicircum{}2\$: Gaussian Reward Modeling for GUI Grounding}},
+  author = {{Fei Tang} and {Zhangxuan Gu} and {Zhengxi Lu} and {Xuyang Liu} and {Shuheng Shen} and {Changhua Meng} and {Wen Wang} and {Wenqi Zhang} and {Yongliang Shen} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang}},
+  year = {2025},
+  eprint = {2507.15846v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.15846v3},
+  note = {First published: 2025-07-21; Recorded arXiv version: v3; Recorded version updated: 2025-07-28T16:54:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

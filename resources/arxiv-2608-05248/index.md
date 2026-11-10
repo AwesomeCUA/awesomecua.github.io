@@ -1,3 +1,11 @@
+---
+title: "WorldClaw: Agentic 3D Open-World Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-05248/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WorldClaw: Agentic 3D Open-World Generation at Scale
 
 Bibliographic record for WorldClaw: Agentic 3D Open-World Generation at Scale. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chunchao Guo, Jinpeng Li, Yang Li, Zilong Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-05248/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-05248/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05248,
+  title = {{WorldClaw: Agentic 3D Open-World Generation at Scale}},
+  author = {{Chunchao Guo} and {Jinpeng Li} and {Yang Li} and {Zilong Huang}},
+  year = {2026},
+  eprint = {2608.05248v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05248v1},
+  note = {First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T15:46:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

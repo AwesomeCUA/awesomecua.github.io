@@ -1,3 +1,11 @@
+---
+title: "DCA-Bench: A Benchmark for Dataset Curation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-07275/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DCA-Bench: A Benchmark for Dataset Curation Agents
 
 Status: excluded from the active CUA catalog after scope review.

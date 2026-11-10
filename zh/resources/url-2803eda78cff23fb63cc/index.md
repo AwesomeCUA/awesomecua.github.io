@@ -1,3 +1,11 @@
+---
+title: "OpenCUA-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2803eda78cff23fb63cc/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpenCUA-7B
 
 基于 Qwen2.5-VL 的计算机使用模型，结合截图、指令和近期屏幕历史生成桌面操作。

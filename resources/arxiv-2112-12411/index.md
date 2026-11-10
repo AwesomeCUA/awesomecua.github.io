@@ -1,3 +1,11 @@
+---
+title: "Mitigating Leakage from Data Dependent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-12411/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mitigating Leakage from Data Dependent Communications in Decentralized Computing using Differential Privacy
 
 Status: excluded from the active CUA catalog after scope review.

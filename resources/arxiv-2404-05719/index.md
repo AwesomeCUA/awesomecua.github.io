@@ -1,3 +1,11 @@
+---
+title: "Ferret-UI: Grounded Mobile UI Understanding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-05719/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs
 
 Adapts multimodal modeling to mobile interfaces through detailed screen crops, region annotations, and UI reasoning tasks.
@@ -26,6 +34,18 @@ Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey N
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-05719/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-05719/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_05719,
+  title = {{Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs}},
+  author = {{Keen You} and {Haotian Zhang} and {Eldon Schoop} and {Floris Weers} and {Amanda Swearngin} and {Jeffrey Nichols} and {Yinfei Yang} and {Zhe Gan}},
+  year = {2024},
+  eprint = {2404.05719v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.05719v1},
+  note = {First published: 2024-04-08; Recorded arXiv version: v1; Recorded version updated: 2024-04-08T17:55:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

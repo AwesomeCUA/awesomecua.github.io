@@ -1,3 +1,11 @@
+---
+title: "DUBLIN -- Document Understanding By… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-14218/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DUBLIN -- Document Understanding By Language-Image Network
 
 Bibliographic record for DUBLIN -- Document Understanding By Language-Image Network. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kriti Aggarwal, Aditi Khandelwal, Kumar Tanmay, Owais Mohammed Khan, Qiang Liu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-14218/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-14218/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_14218,
+  title = {{DUBLIN -- Document Understanding By Language-Image Network}},
+  author = {{Kriti Aggarwal} and {Aditi Khandelwal} and {Kumar Tanmay} and {Owais Mohammed Khan} and {Qiang Liu} and {Monojit Choudhury} and {Hardik Hansrajbhai Chauhan} and {Subhojit Som} and {Vishrav Chaudhary} and {Saurabh Tiwary}},
+  year = {2023},
+  eprint = {2305.14218v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.14218v4},
+  note = {First published: 2023-05-23; Recorded arXiv version: v4; Recorded version updated: 2023-10-27T15:08:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

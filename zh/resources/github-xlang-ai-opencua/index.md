@@ -1,3 +1,11 @@
+---
+title: "OpenCUA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-opencua/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # OpenCUA
 
 开放的计算机使用研究技术栈，包括模型和训练资源。

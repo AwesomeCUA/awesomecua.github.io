@@ -1,3 +1,11 @@
+---
+title: "LCU | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amontlabs-lcu/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # LCU
 
 LCU connects an installed desktop computer-use runtime to agent harnesses for window observation and input actions, with optional control of approved Chrome tabs.

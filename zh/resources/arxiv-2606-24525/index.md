@@ -1,3 +1,11 @@
+---
+title: "VisCritic: Visual State Comparison as… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-24525/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # VisCritic: Visual State Comparison as Process Reward for GUI Agents
 
 VisCritic 通过感知变化的视觉特征和以操作为条件的评价模型，比较操作前后的截图。它利用现有轨迹中的弱监督样本，训练对操作成功与否、进度和错误类型的判断，供 GUI 智能体核验使用。
@@ -27,6 +35,18 @@ Jiachen Qian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-24525/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-24525/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_24525,
+  title = {{VisCritic: Visual State Comparison as Process Reward for GUI Agents}},
+  author = {{Jiachen Qian}},
+  year = {2026},
+  eprint = {2606.24525v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.24525v1},
+  note = {First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T12:57:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

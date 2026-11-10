@@ -1,3 +1,11 @@
+---
+title: "Playwright Test for VS Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-playwright-vscode/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Playwright Test for VS Code
 
 A VS Code extension for Playwright browser testing that records page actions into tests and provides test running, locator inspection, debugging, and trace viewing.

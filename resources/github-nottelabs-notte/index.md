@@ -1,3 +1,11 @@
+---
+title: "Notte | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nottelabs-notte/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # Notte
 
 Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.

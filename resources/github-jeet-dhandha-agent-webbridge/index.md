@@ -1,3 +1,11 @@
+---
+title: "Agent WebBridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeet-dhandha-agent-webbridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent WebBridge
 
 Open-source browser automation bridge and MCP server connecting Claude Code, Cursor, and coding agents to live Chrome tabs.

@@ -1,3 +1,11 @@
+---
+title: "CapMonster Cloud MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-capmonstercloud-capmonster-mcp-captcha-solver/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # CapMonster Cloud MCP Server
 
 Official CapMonster Cloud Model Context Protocol server for solving reCAPTCHA, Turnstile, and visual CAPTCHAs in browser agents.

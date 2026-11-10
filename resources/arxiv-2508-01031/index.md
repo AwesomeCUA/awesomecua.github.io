@@ -1,3 +1,11 @@
+---
+title: "CADDesigner: Conceptual CAD Model Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-01031/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CADDesigner: Conceptual CAD Model Generation with a General-Purpose Agent
 
 Bibliographic record for CADDesigner: Conceptual CAD Model Generation with a General-Purpose Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fengxiao Fan, Jingzhe Ni, Xiaolong Yin, Sirui Wang, Xingyu Lu, Qiang Zou, Ruofen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-01031/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-01031/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_01031,
+  title = {{CADDesigner: Conceptual CAD Model Generation with a General-Purpose Agent}},
+  author = {{Fengxiao Fan} and {Jingzhe Ni} and {Xiaolong Yin} and {Sirui Wang} and {Xingyu Lu} and {Qiang Zou} and {Ruofeng Tong} and {Min Tang} and {Peng Du}},
+  year = {2025},
+  eprint = {2508.01031v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.01031v6},
+  note = {First published: 2025-08-01; Recorded arXiv version: v6; Recorded version updated: 2026-05-19T15:36:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

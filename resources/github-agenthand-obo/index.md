@@ -1,3 +1,11 @@
+---
+title: "Open Browser Operator (obo) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agenthand-obo/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Open Browser Operator (obo)
 
 CLI and Chrome extension for controlling a user's logged-in Chrome browser from terminal and coding agents.

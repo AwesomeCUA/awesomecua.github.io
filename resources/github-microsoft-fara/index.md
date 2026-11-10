@@ -1,3 +1,11 @@
+---
+title: "Fara | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-fara/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Fara
 
 Microsoft browser-use agent models that act from screenshots by predicting click coordinates without accessibility trees; Fara1.5 comes in 4B, 9B and 27B, succeeding Fara-7B.

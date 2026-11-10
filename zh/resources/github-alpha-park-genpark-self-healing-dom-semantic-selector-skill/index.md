@@ -1,3 +1,11 @@
+---
+title: "GenPark Self-Healing DOM Selector Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alpha-park-genpark-self-healing-dom-semantic-selector-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GenPark Self-Healing DOM Selector Skill
 
 智能体技能，提供能够适应 CSS 类和布局变化的自修复语义 DOM 选择器。

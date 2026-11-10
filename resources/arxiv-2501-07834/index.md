@@ -1,3 +1,11 @@
+---
+title: "Flow: Modularized Agentic Workflow Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-07834/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Flow: Modularized Agentic Workflow Automation
 
 Status: excluded from the active CUA catalog after scope review.

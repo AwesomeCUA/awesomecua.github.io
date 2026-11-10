@@ -1,3 +1,11 @@
+---
+title: "MetaOpenFOAM: an LLM-based multi-agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-21320/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MetaOpenFOAM: an LLM-based multi-agent framework for CFD
 
 Bibliographic record for MetaOpenFOAM: an LLM-based multi-agent framework for CFD. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuxuan Chen, Xu Zhu, Hua Zhou, Zhuyin Ren
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-21320/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-21320/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_21320,
+  title = {{MetaOpenFOAM: an LLM-based multi-agent framework for CFD}},
+  author = {{Yuxuan Chen} and {Xu Zhu} and {Hua Zhou} and {Zhuyin Ren}},
+  year = {2024},
+  eprint = {2407.21320v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.21320v2},
+  note = {First published: 2024-07-31; Recorded arXiv version: v2; Recorded version updated: 2024-08-07T04:34:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

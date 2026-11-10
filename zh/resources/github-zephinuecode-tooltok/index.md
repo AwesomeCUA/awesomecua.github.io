@@ -1,3 +1,11 @@
+---
+title: "ToolTok · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zephinuecode-tooltok/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ToolTok
 
 ToolTok 引入原子化的方向性光标移动词元，用于在 ScreenSpot 和 ScreenSpot-Pro 上进行多步迭代式 GUI 视觉定位。

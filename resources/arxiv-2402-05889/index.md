@@ -1,3 +1,11 @@
+---
+title: "CREMA: Generalizable and Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-05889/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CREMA: Generalizable and Efficient Video-Language Reasoning via Multimodal Modular Fusion
 
 Bibliographic record for CREMA: Generalizable and Efficient Video-Language Reasoning via Multimodal Modular Fusion. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shoubin Yu, Jaehong Yoon, Mohit Bansal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-05889/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-05889/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_05889,
+  title = {{CREMA: Generalizable and Efficient Video-Language Reasoning via Multimodal Modular Fusion}},
+  author = {{Shoubin Yu} and {Jaehong Yoon} and {Mohit Bansal}},
+  year = {2024},
+  eprint = {2402.05889v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.05889v4},
+  note = {First published: 2024-02-08; Recorded arXiv version: v4; Recorded version updated: 2025-03-20T02:27:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

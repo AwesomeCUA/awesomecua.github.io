@@ -1,3 +1,11 @@
+---
+title: "Compress to Focus: Efficient Coordinate… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-11631/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents
 
 CCPO 将 GUI 策略优化与坐标引导的历史视觉观察压缩结合，汇总多次执行中的目标以保留重点上下文，并用基于距离的优势值联合训练定位与压缩。
@@ -27,6 +35,18 @@ Yurun Song, Jiong Yin, Rongjunchen Zhang, Ian G. Harris
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-11631/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-11631/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_11631,
+  title = {{Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents}},
+  author = {{Yurun Song} and {Jiong Yin} and {Rongjunchen Zhang} and {Ian G. Harris}},
+  year = {2026},
+  eprint = {2601.11631v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.11631v1},
+  note = {First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T03:52:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

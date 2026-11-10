@@ -1,3 +1,11 @@
+---
+title: "SimGym: Traffic-Grounded Browser Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-01443/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SimGym: Traffic-Grounded Browser Agents for Offline A/B Testing in E-Commerce
 
 SimGym 根据线上交互数据生成买家画像，让合成买家智能体操作浏览器，离线比较电商店面的不同版本。
@@ -27,6 +35,18 @@ Alberto Castelo, Zahra Zanjani Foumani, Ailin Fan, Keat Yang Koay, Vibhor Malik,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-01443/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-01443/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_01443,
+  title = {{SimGym: Traffic-Grounded Browser Agents for Offline A/B Testing in E-Commerce}},
+  author = {{Alberto Castelo} and {Zahra Zanjani Foumani} and {Ailin Fan} and {Keat Yang Koay} and {Vibhor Malik} and {Yuanzheng Zhu} and {Han Li} and {Meysam Feghhi} and {Ronie Uliana} and {Shuang Xie} and {Zhaoyu Zhang} and {Angelo Ocana Martins} and {Mingyu Zhao} and {Francis Pelland} and {Jonathan Faerman} and {Nikolas LeBlanc} and {Aaron Glazer} and {Andrew McNamara} and {Lingyun Wang} and {Zhong Wu}},
+  year = {2026},
+  eprint = {2602.01443v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.01443v1},
+  note = {First published: 2026-02-01; Recorded arXiv version: v1; Recorded version updated: 2026-02-01T21:23:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "NERFIFY: A Multi-Agent Framework for Turning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-00805/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code
 
 Bibliographic record for NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Seemandhar Jain, Keshav Gupta, Kunal Gupta, Manmohan Chandraker
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-00805/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-00805/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_00805,
+  title = {{NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code}},
+  author = {{Seemandhar Jain} and {Keshav Gupta} and {Kunal Gupta} and {Manmohan Chandraker}},
+  year = {2026},
+  eprint = {2603.00805v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.00805v1},
+  note = {First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T20:57:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

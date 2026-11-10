@@ -1,3 +1,11 @@
+---
+title: "sharryXR/asil-qwen35-2b-sft | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d59976834d3d0d3a1809/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # sharryXR/asil-qwen35-2b-sft
 
 An ASIL Qwen3.5-2B SFT checkpoint released for research on structured application state and semantic actions, with loadable model and tokenizer files.

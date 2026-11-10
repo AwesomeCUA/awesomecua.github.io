@@ -1,3 +1,11 @@
+---
+title: "Supply Recovery Console (WebMCP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-navi-ai-project-supply-recovery-console/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Supply Recovery Console (WebMCP)
 
 WebMCP reference console for auditable, human-approved supply-chain actions executed by browser agents.

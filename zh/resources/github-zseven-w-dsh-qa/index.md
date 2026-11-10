@@ -1,3 +1,11 @@
+---
+title: "DSH QA · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zseven-w-dsh-qa/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # DSH QA
 
 DeepSeek Harness QA 插件，其中自主浏览器智能体探索运行中的网页应用，以发现功能和 UX 缺陷。

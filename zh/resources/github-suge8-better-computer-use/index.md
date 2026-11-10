@@ -1,3 +1,11 @@
+---
+title: "Better Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-suge8-better-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Better Computer Use
 
 供 AI 智能体使用的 macOS 后台桌面控制 CLI，支持发现窗口、读取辅助功能树和无需获取焦点的输入。

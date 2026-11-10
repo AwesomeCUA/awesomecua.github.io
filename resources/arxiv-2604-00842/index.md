@@ -1,3 +1,11 @@
+---
+title: "Proactive Agent Research Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-00842/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants
 
 Bibliographic record for Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Deepak Nathani, Cheng Zhang, Chang Huan, Jiaming Shan, Yinfei Yang, Alkesh Patel
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-00842/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-00842/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_00842,
+  title = {{Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants}},
+  author = {{Deepak Nathani} and {Cheng Zhang} and {Chang Huan} and {Jiaming Shan} and {Yinfei Yang} and {Alkesh Patel} and {Zhe Gan} and {William Yang Wang} and {Michael Saxon} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2604.00842v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.00842v1},
+  note = {First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T12:53:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

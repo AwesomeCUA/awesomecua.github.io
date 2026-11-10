@@ -1,3 +1,11 @@
+---
+title: "MagicGUI-RMS: A Multi-Agent Reward Model… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-13060/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux
 
 MagicGUI-RMS 结合领域专用与通用奖励模型评估 GUI 操作并提出修正，通过结构化数据流程和反馈循环，持续改进奖励模型与智能体。
@@ -27,6 +35,18 @@ Zecheng Li, Zhihui Cao, Wenke Huang, Yudong Zhang, Keying Qi, Rui Wang, Zeyu Zhe
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-13060/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-13060/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_13060,
+  title = {{MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux}},
+  author = {{Zecheng Li} and {Zhihui Cao} and {Wenke Huang} and {Yudong Zhang} and {Keying Qi} and {Rui Wang} and {Zeyu Zheng} and {Jian Zhao} and {Hao Zhu} and {Hengxin Wu} and {Yuran Wang} and {Guitao Fan} and {Guokun Wu} and {Yicong Liu} and {Zhilin Gao} and {Haikun Xu} and {He Yang} and {Minqi Xiang} and {Xingyu Liu} and {Zuojian Wang}},
+  year = {2026},
+  eprint = {2601.13060v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.13060v1},
+  note = {First published: 2026-01-19; Recorded arXiv version: v1; Recorded version updated: 2026-01-19T13:50:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

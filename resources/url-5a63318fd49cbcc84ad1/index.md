@@ -1,3 +1,11 @@
+---
+title: "Twin | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5a63318fd49cbcc84ad1/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Twin
 
 No-code platform that turns plain-language goals into scheduled business agents, calling APIs where they exist and falling back to a Web Agent that clicks, types and fills forms in an isolated cloud browser.

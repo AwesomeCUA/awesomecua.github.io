@@ -1,3 +1,11 @@
+---
+title: "UI2App: Benchmarking Visual Interaction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-06306/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation
 
 Bibliographic record for UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Grace Man Chen, Litao Guo, Yifan Wu, Yiyu Chen, Yenchi Tseng, Sicheng Liu, Yuyu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-06306/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-06306/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_06306,
+  title = {{UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation}},
+  author = {{Grace Man Chen} and {Litao Guo} and {Yifan Wu} and {Yiyu Chen} and {Yenchi Tseng} and {Sicheng Liu} and {Yuyu Luo} and {Ying-Cong Chen}},
+  year = {2026},
+  eprint = {2607.06306v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.06306v2},
+  note = {First published: 2026-07-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-04T02:42:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

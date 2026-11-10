@@ -1,3 +1,11 @@
+---
+title: "RunAgent SuperBrowser: A Theory of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-09399/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # RunAgent SuperBrowser: A Theory of Autonomous Web Navigation Grounded in Human Browsing Behaviour
 
 SUPERBROWSER 结合基于截图的目标提议，以及独立的编排、规划和操作角色；通过有容量限制的记录簿和上下文清理流程，在浏览器执行期间保留近期操作、任务事实和检查点。
@@ -27,6 +35,18 @@ Radeen Mostafa, Sawradip Saha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-09399/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-09399/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_09399,
+  title = {{RunAgent SuperBrowser: A Theory of Autonomous Web Navigation Grounded in Human Browsing Behaviour}},
+  author = {{Radeen Mostafa} and {Sawradip Saha}},
+  year = {2026},
+  eprint = {2606.09399v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.09399v1},
+  note = {First published: 2026-06-08; Recorded arXiv version: v1; Recorded version updated: 2026-06-08T12:18:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

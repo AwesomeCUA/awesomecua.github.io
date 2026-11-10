@@ -1,3 +1,11 @@
+---
+title: "StepReflect: Structured UI Transition… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-05587/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # StepReflect: Structured UI Transition Reflection for Mobile GUI Agents
 
 StepReflect predicts structured per-action reflections from transition specifications and paired visual evidence. The paper distinguishes offline transition-label accuracy from online task success when the reflection model is integrated into mobile agents.
@@ -26,6 +34,18 @@ Linqiang Guo, Wei Liu, Li Gu, Yang Wang, Tse-Hsun, Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-05587/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-05587/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05587,
+  title = {{StepReflect: Structured UI Transition Reflection for Mobile GUI Agents}},
+  author = {{Linqiang Guo} and {Wei Liu} and {Li Gu} and {Yang Wang} and {Tse-Hsun} and {Chen}},
+  year = {2026},
+  eprint = {2608.05587v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05587v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T04:17:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

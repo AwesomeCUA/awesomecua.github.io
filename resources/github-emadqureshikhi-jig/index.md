@@ -1,3 +1,11 @@
+---
+title: "Jig WebMCP Workbench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-emadqureshikhi-jig/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Jig WebMCP Workbench
 
 Two-origin, agent-native design workbench built on WebMCP for collaborative human-agent UI editing.

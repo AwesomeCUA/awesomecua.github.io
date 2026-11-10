@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 21 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/21/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 21 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/21/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Jig WebMCP Workbench](https://awesomecua.com/zh/resources/github-emadqureshikhi-jig/)
-- [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)
 - [Job Hunter AI](https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/)
 - [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/zh/resources/github-qiulingzhu809-sudo-job-pilot-2027/)
 - [kamalesh404 AgentOS](https://awesomecua.com/zh/resources/github-kamalesh404-agentos/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/21/
 - [mano-afk](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-afk/)
 - [Mantis](https://awesomecua.com/zh/resources/github-mercurialsolo-mantis/)
 - [maponce](https://awesomecua.com/zh/resources/github-shivampatel0714-maponce/)
+- [Market Basket Agent](https://awesomecua.com/zh/resources/github-0xyene-market-basket-agent/)
+- [Master Internet Unit](https://awesomecua.com/zh/resources/github-0bifthenelse-master-internet-unit/)

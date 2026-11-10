@@ -1,3 +1,11 @@
+---
+title: "idevice · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jkcoxson-idevice/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # idevice
 
 一个 Rust 库，通过 lockdownd、usbmuxd 和 RSD 与 iOS 设备服务通信，提供截图、SpringBoard 控制、应用安装以及启动 WebDriverAgent 运行器等功能。

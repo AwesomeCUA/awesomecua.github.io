@@ -1,3 +1,11 @@
+---
+title: "UI-TARS: Pioneering Automated GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2501-12326/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # UI-TARS: Pioneering Automated GUI Interaction with Native Agents
 
 研究基于截图的原生 GUI 模型，采用统一操作表示、审慎推理，并利用交互轨迹迭代训练。
@@ -27,6 +35,18 @@ Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian, Jund
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2501-12326/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2501-12326/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_12326,
+  title = {{UI-TARS: Pioneering Automated GUI Interaction with Native Agents}},
+  author = {{Yujia Qin} and {Yining Ye} and {Junjie Fang} and {Haoming Wang} and {Shihao Liang} and {Shizuo Tian} and {Junda Zhang} and {Jiahao Li} and {Yunxin Li} and {Shijue Huang} and {Wanjun Zhong} and {Kuanye Li} and {Jiale Yang} and {Yu Miao} and {Woyu Lin} and {Longxiang Liu} and {Xu Jiang} and {Qianli Ma} and {Jingyu Li} and {Xiaojun Xiao} and {Kai Cai} and {Chuang Li} and {Yaowei Zheng} and {Chaolin Jin} and {Chen Li} and {Xiao Zhou} and {Minchao Wang} and {Haoli Chen} and {Zhaojian Li} and {Haihua Yang} and {Haifeng Liu} and {Feng Lin} and {Tao Peng} and {Xin Liu} and {Guang Shi}},
+  year = {2025},
+  eprint = {2501.12326v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.12326v1},
+  note = {First published: 2025-01-21; Recorded arXiv version: v1; Recorded version updated: 2025-01-21T17:48:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

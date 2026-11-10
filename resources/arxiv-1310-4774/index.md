@@ -1,3 +1,11 @@
+---
+title: "IntelligentWeb Agent for Search Engines | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1310-4774/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # IntelligentWeb Agent for Search Engines
 
 Bibliographic record for IntelligentWeb Agent for Search Engines. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Avinash N Bhute, B. B. Meshram
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1310-4774/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1310-4774/citation.csl.json
+
+```bibtex
+@misc{arxiv_1310_4774,
+  title = {{IntelligentWeb Agent for Search Engines}},
+  author = {{Avinash N Bhute} and {B. B. Meshram}},
+  year = {2013},
+  eprint = {1310.4774v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1310.4774v1},
+  note = {First published: 2013-10-17; Recorded arXiv version: v1; Recorded version updated: 2013-10-17T17:07:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "STEPWISE-CODEX-Bench: Evaluating Complex… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-05193/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # STEPWISE-CODEX-Bench: Evaluating Complex Multi-Function Comprehension and Fine-Grained Execution Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

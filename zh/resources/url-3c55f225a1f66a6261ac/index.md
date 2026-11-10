@@ -1,3 +1,11 @@
+---
+title: "kev-0.6b-browser-use · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3c55f225a1f66a6261ac/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # kev-0.6b-browser-use
 
 kev-0.6b-browser-use 是一个 0.6B 参数的浏览器决策模型，可根据任务目标为候选页面元素评分，并选择点击、输入或选择操作。

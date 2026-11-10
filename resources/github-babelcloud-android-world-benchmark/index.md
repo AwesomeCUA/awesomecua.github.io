@@ -1,3 +1,11 @@
+---
+title: "GBOX MCP + Claude Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # GBOX MCP + Claude Code
 
 An AndroidWorld benchmark setup that connects a Claude agent to an Android emulator through GBOX MCP and includes a task-completion tool for evaluation.

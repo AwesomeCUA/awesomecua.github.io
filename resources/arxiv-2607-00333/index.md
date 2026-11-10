@@ -1,3 +1,11 @@
+---
+title: "(A)I Sees What You Don't: Exploiting New… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-00333/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # (A)I Sees What You Don't: Exploiting New Attack Surfaces in Third-Party Mobile Agents
 
 Analyzes cross-app privilege escalation and visual attack surfaces introduced by third-party VLM-powered mobile agents.
@@ -26,6 +34,18 @@ Zidong Zhang, Zhentao Xie, Wenrui Diao, Jianliang Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-00333/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-00333/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_00333,
+  title = {{(A)I Sees What You Don't: Exploiting New Attack Surfaces in Third-Party Mobile Agents}},
+  author = {{Zidong Zhang} and {Zhentao Xie} and {Wenrui Diao} and {Jianliang Wu}},
+  year = {2026},
+  eprint = {2607.00333v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.00333v2},
+  note = {First published: 2026-07-01; Recorded arXiv version: v2; Recorded version updated: 2026-07-14T03:01:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

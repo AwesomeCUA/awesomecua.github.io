@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-E: Self-Evolving Mobile… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2501-11733/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks
 
 采用分层移动智能体，并持续保存提示和可复用的操作捷径，利用积累的经验改进复杂任务的执行。
@@ -27,6 +35,18 @@ Zhenhailong Wang, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Hu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2501-11733/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2501-11733/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_11733,
+  title = {{Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks}},
+  author = {{Zhenhailong Wang} and {Haiyang Xu} and {Junyang Wang} and {Xi Zhang} and {Ming Yan} and {Ji Zhang} and {Fei Huang} and {Heng Ji}},
+  year = {2025},
+  eprint = {2501.11733v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.11733v2},
+  note = {First published: 2025-01-20; Recorded arXiv version: v2; Recorded version updated: 2025-01-28T16:58:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

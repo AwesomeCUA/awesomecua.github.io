@@ -1,3 +1,11 @@
+---
+title: "Robotouille: An Asynchronous Planning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-05227/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Robotouille: An Asynchronous Planning Benchmark for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

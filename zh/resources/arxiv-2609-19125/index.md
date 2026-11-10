@@ -1,3 +1,11 @@
+---
+title: "Affora: A Design System for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-19125/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Affora: A Design System for Agent-Friendly Interfaces
 
 提出 Affora，为计算机使用智能体使用的界面提供可复用组件和可执行检查；设计依据包括对组件与视觉变化的研究。
@@ -27,6 +35,18 @@ Jin Gao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-19125/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-19125/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_19125,
+  title = {{Affora: A Design System for Agent-Friendly Interfaces}},
+  author = {{Jin Gao}},
+  year = {2026},
+  eprint = {2609.19125v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.19125v1},
+  note = {First published: 2026-09-16; Recorded arXiv version: v1; Recorded version updated: 2026-09-16T17:46:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Sandbar (github.com/jdrolls/sandbar-pub… · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jdrolls-sandbar-public/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Sandbar
 
 Sandbar 为计算机使用智能体配置隔离的云端 Ubuntu 桌面虚拟机，配备 OpenClaw 和 VNC 串流。

@@ -1,3 +1,11 @@
+---
+title: "CoAct-1: Computer-using Multi-Agent System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-03923/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # CoAct-1: Computer-using Multi-Agent System with Coding Actions
 
 CoAct-1 delegates subtasks between a GUI operator and a programmer that executes Python or Bash. Its OSWorld evaluation studies a hybrid action space in which scripts handle suitable file and data operations while visual interaction handles other steps.
@@ -26,6 +34,18 @@ Linxin Song, Yutong Dai, Viraj Prabhu, Jieyu Zhang, Taiwei Shi, Li Li, Junnan Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-03923/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-03923/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_03923,
+  title = {{CoAct-1: Computer-using Multi-Agent System with Coding Actions}},
+  author = {{Linxin Song} and {Yutong Dai} and {Viraj Prabhu} and {Jieyu Zhang} and {Taiwei Shi} and {Li Li} and {Junnan Li} and {Silvio Savarese} and {Zeyuan Chen} and {Jieyu Zhao} and {Ran Xu} and {Caiming Xiong}},
+  year = {2025},
+  eprint = {2508.03923v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.03923v3},
+  note = {First published: 2025-08-05; Recorded arXiv version: v3; Recorded version updated: 2026-02-20T10:14:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

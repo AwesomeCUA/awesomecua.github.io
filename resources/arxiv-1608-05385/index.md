@@ -1,3 +1,11 @@
+---
+title: "Regularization of radial solutions of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1608-05385/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Regularization of radial solutions of $p$-Laplace equations, and computations using infinite series
 
 Status: excluded from the active CUA catalog after scope review.

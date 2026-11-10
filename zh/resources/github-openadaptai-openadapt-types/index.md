@@ -1,3 +1,11 @@
+---
+title: "openadapt-types · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-types/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # openadapt-types
 
 openadapt-types 提供经过校验的 Python 模型和 JSON 模式，用于表示计算机操作中的屏幕、动作、结果和交互轨迹。

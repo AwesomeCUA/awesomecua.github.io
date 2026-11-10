@@ -1,3 +1,11 @@
+---
+title: "zen-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sh6drack-zen-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # zen-mcp
 
 WebSocket-based Model Context Protocol server exposing 20 browser automation tools for the Zen Browser without Selenium or Playwright.

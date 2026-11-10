@@ -1,3 +1,11 @@
+---
+title: "dsh-computer-use-windows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # dsh-computer-use-windows
 
 A Windows computer-use plugin for DeepSeek Harness that observes UI Automation controls and supports window actions, with optional screenshot-based visual recognition.

@@ -1,3 +1,11 @@
+---
+title: "ElderBench: Benchmarking Autonomous Mobile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-04850/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ElderBench: Benchmarking Autonomous Mobile Agents for Older Adults
 
 ElderBench evaluates mobile GUI agents on smartphone requests elicited from older adults, including indirect and underspecified language. Online and offline tests, instruction normalization and linguistic analyses examine how these request patterns contribute to failures.
@@ -26,6 +34,18 @@ Weide Zhan, Qumu Shaqu, Yuanqing Liu, Peng Zhang, Jiahao Liu, Kam Him Lam, Ning 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-04850/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-04850/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_04850,
+  title = {{ElderBench: Benchmarking Autonomous Mobile Agents for Older Adults}},
+  author = {{Weide Zhan} and {Qumu Shaqu} and {Yuanqing Liu} and {Peng Zhang} and {Jiahao Liu} and {Kam Him Lam} and {Ning Gu} and {Zhan Hu} and {Tun Lu}},
+  year = {2026},
+  eprint = {2609.04850v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.04850v1},
+  note = {First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T08:09:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

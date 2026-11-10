@@ -1,3 +1,11 @@
+---
+title: "WinDOM: Self-Family Distillation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-25964/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # WinDOM: Self-Family Distillation for Small-Model GUI Grounding
 
 WinDOM obtains bounding-box supervision from a Windows 11 web reimplementation driven through Playwright, and studies rejection-sampling distillation for small GUI grounders. It treats the depth of the supervised cold start as a GRPO choice, comparing same-size EMA and larger same-family teachers.
@@ -26,6 +34,18 @@ Chengheng Li-Chen, Zhiqian Zhou, Hao Chen, Nicolas Chauvin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-25964/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-25964/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_25964,
+  title = {{WinDOM: Self-Family Distillation for Small-Model GUI Grounding}},
+  author = {{Chengheng Li-Chen} and {Zhiqian Zhou} and {Hao Chen} and {Nicolas Chauvin}},
+  year = {2026},
+  eprint = {2606.25964v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.25964v1},
+  note = {First published: 2026-06-24; Recorded arXiv version: v1; Recorded version updated: 2026-06-24T15:35:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "OctoNest: Adaptive Cross-Device… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20487/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # OctoNest: Adaptive Cross-Device Execution through Stateful Control
 
 提出 OctoNest，协调多个设备智能体，依据执行反馈调整任务分配并切换设备内的交互方式；CAPEBench 用于评估跨设备任务。
@@ -27,6 +35,18 @@ Shu Yao, Yuhua Luo, Qian Long, Jingru Fan, Yuheng Wang, Lin Wu, Zhuoyuan Yu, Yuf
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20487/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20487/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20487,
+  title = {{OctoNest: Adaptive Cross-Device Execution through Stateful Control}},
+  author = {{Shu Yao} and {Yuhua Luo} and {Qian Long} and {Jingru Fan} and {Yuheng Wang} and {Lin Wu} and {Zhuoyuan Yu} and {Yufan Dang} and {Huatao Li} and {Chen Qian}},
+  year = {2026},
+  eprint = {2606.20487v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20487v2},
+  note = {First published: 2026-06-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-30T09:53:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

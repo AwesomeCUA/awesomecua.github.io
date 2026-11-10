@@ -1,3 +1,11 @@
+---
+title: "fearch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-funkyfunc-fearch/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # fearch
 
 为 AI 智能体提供透明网页搜索和清晰页面内容读取功能的 Model Context Protocol 服务器。

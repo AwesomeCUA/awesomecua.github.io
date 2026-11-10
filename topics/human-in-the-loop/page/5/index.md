@@ -1,3 +1,11 @@
+---
+title: "Human in the loop — computer-use…, page 5 | AwesomeCUA"
+url: https://awesomecua.com/topics/human-in-the-loop/page/5/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Human in the loop — computer-use research, page 5
 
 HTML page: https://awesomecua.com/topics/human-in-the-loop/page/5/

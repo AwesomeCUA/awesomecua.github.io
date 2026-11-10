@@ -1,3 +1,11 @@
+---
+title: "deskpal | AwesomeCUA"
+url: https://awesomecua.com/resources/github-b1tank-deskpal/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # deskpal
 
 C-native Linux desktop-control MCP server supporting X11/Xwayland, AT-SPI accessibility trees, OCR, and isolated displays.

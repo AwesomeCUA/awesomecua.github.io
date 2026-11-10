@@ -1,3 +1,11 @@
+---
+title: "AutoUE: Automated Generation of 3D Games in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-07106/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AutoUE: Automated Generation of 3D Games in Unreal Engine via Multi-Agent Systems
 
 Bibliographic record for AutoUE: Automated Generation of 3D Games in Unreal Engine via Multi-Agent Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Lei Yin, Wentao Cheng, Zhida Qin, Tianyu Huang, Yidong Li, Gangyi Ding
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-07106/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-07106/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_07106,
+  title = {{AutoUE: Automated Generation of 3D Games in Unreal Engine via Multi-Agent Systems}},
+  author = {{Lei Yin} and {Wentao Cheng} and {Zhida Qin} and {Tianyu Huang} and {Yidong Li} and {Gangyi Ding}},
+  year = {2026},
+  eprint = {2603.07106v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.07106v2},
+  note = {First published: 2026-03-07; Recorded arXiv version: v2; Recorded version updated: 2026-04-08T05:28:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

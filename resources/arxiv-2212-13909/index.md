@@ -1,3 +1,11 @@
+---
+title: "Framework for understanding quantum computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-13909/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Framework for understanding quantum computing use cases from a multidisciplinary perspective and future research directions
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Job Hunter | AwesomeCUA"
+url: https://awesomecua.com/resources/github-liooo0-job-hunter/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Job Hunter
 
 AI-assisted job application browser agent that matches resumes to listings, automates form filling, and logs submission traces.

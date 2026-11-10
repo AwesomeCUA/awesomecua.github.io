@@ -1,3 +1,11 @@
+---
+title: "Breaking the Data Barrier -- Building GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-10127/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Breaking the Data Barrier -- Building GUI Agents Through Task Generalization
 
 Studies whether mid-training on GUI perception, multimodal reasoning, and text reasoning transfers to GUI-agent planning. Experiments compare 11 task sources and curated mixtures using WebArena and AndroidWorld to investigate training-data choices when GUI trajectories are scarce.
@@ -26,6 +34,18 @@ Junlei Zhang, Zichen Ding, Chang Ma, Zijie Chen, Qiushi Sun, Zhenzhong Lan, Junx
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-10127/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-10127/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_10127,
+  title = {{Breaking the Data Barrier -- Building GUI Agents Through Task Generalization}},
+  author = {{Junlei Zhang} and {Zichen Ding} and {Chang Ma} and {Zijie Chen} and {Qiushi Sun} and {Zhenzhong Lan} and {Junxian He}},
+  year = {2025},
+  eprint = {2504.10127v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.10127v2},
+  note = {First published: 2025-04-14; Recorded arXiv version: v2; Recorded version updated: 2025-04-15T17:13:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

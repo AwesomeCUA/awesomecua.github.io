@@ -1,3 +1,11 @@
+---
+title: "agent-qa (agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f7e21b1a3ba5c58a73bc/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # agent-qa
 
 QA agent for browser and mobile apps that executes actions through Playwright and Appium, verifies steps, and records runs. Its publisher reports completing all AndroidWorld tasks.

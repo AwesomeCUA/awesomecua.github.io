@@ -1,3 +1,11 @@
+---
+title: "Agentic Web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saferl-lab-agentic-web/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Agentic Web
 
 A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.

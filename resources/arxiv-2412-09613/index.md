@@ -1,3 +1,11 @@
+---
+title: "PVC: Progressive Visual Token Compression for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-09613/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

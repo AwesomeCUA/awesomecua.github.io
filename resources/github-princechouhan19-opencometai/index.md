@@ -1,3 +1,11 @@
+---
+title: "OpenComet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-princechouhan19-opencometai/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # OpenComet
 
 Chrome side-panel agent that tags page elements with numbered boxes, redacts faces, credential fields and text PII on-device before a model sees the screenshot and DOM text, and acts through selectors or debugger clicks.

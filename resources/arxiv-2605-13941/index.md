@@ -1,3 +1,11 @@
+---
+title: "EvolveMem:Self-Evolving Memory Architecture… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-13941/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents
 
 Bibliographic record for EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaqi Liu, Xinyu Ye, Peng Xia, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-13941/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-13941/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_13941,
+  title = {{EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents}},
+  author = {{Jiaqi Liu} and {Xinyu Ye} and {Peng Xia} and {Zeyu Zheng} and {Cihang Xie} and {Mingyu Ding} and {Huaxiu Yao}},
+  year = {2026},
+  eprint = {2605.13941v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.13941v1},
+  note = {First published: 2026-05-13; Recorded arXiv version: v1; Recorded version updated: 2026-05-13T17:12:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

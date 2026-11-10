@@ -1,3 +1,11 @@
+---
+title: "PlotGen: Multi-Agent LLM-based Scientific… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-00988/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback
 
 Status: excluded from the active CUA catalog after scope review.

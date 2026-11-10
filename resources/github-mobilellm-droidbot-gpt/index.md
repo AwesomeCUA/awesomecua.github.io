@@ -1,3 +1,11 @@
+---
+title: "DroidBot-GPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobilellm-droidbot-gpt/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DroidBot-GPT
 
 DroidBot-GPT connects DroidBot UI state extraction with large language models to automate multi-step tasks across Android applications.

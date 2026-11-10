@@ -1,3 +1,11 @@
+---
+title: "browser-copilot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alexmercier25-browser-copilot/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browser-copilot
 
 让 AI 智能体通过交互式确认操作用户实际使用的 macOS 浏览器窗口和已登录的标签页。

@@ -1,3 +1,11 @@
+---
+title: "鲁棒性：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/robustness/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 鲁棒性
 
 Reviewed topic membership; resources can appear in multiple topics.

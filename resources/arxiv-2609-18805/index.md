@@ -1,3 +1,11 @@
+---
+title: "ProgramDistill: From Interactive Web Apps to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-18805/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks
 
 Bibliographic record for ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jeonghye Kim, Minseon Kim, Young Jin Kim, Matheus Pereira, Marc-Alexandre Côté
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-18805/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-18805/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_18805,
+  title = {{ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks}},
+  author = {{Jeonghye Kim} and {Minseon Kim} and {Young Jin Kim} and {Matheus Pereira} and {Marc-Alexandre Côté} and {Alessandro Sordoni} and {Xingdi Yuan} and {Zhengyan Shi}},
+  year = {2026},
+  eprint = {2609.18805v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.18805v1},
+  note = {First published: 2026-09-16; Recorded arXiv version: v1; Recorded version updated: 2026-09-16T15:19:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

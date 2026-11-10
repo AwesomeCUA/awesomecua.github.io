@@ -1,3 +1,11 @@
+---
+title: "GraphPilot: GUI Task Automation with One-Step… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-17418/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GraphPilot: GUI Task Automation with One-Step LLM Reasoning Powered by Knowledge Graph
 
 GraphPilot builds app-specific knowledge graphs from explored pages, elements and transitions, then uses them to plan action sequences. It requests additional interface observations when uncertain and checks plans against graph transition rules before correction and execution.
@@ -26,6 +34,18 @@ Mingxian Yu, Siqi Luo, Xu Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-17418/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-17418/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_17418,
+  title = {{GraphPilot: GUI Task Automation with One-Step LLM Reasoning Powered by Knowledge Graph}},
+  author = {{Mingxian Yu} and {Siqi Luo} and {Xu Chen}},
+  year = {2026},
+  eprint = {2601.17418v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.17418v1},
+  note = {First published: 2026-01-24; Recorded arXiv version: v1; Recorded version updated: 2026-01-24T11:35:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

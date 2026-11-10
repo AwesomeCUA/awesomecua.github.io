@@ -1,11 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 15 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/15/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 15 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/15/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
-- [Kimi Computer Use Bridge](https://awesomecua.com/zh/resources/github-songkeys-kimi-computer-use/)
 - [Kimi Computer Use Lab](https://awesomecua.com/zh/resources/github-hqhq1025-kimi-computer-use-lab/)
 - [kimi-cu-pi](https://awesomecua.com/zh/resources/github-johndfowler-kimi-cu-pi/)
 - [kimi-webbridge-mcp](https://awesomecua.com/zh/resources/github-losecher-kimi-webbridge-mcp/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/15/
 - [Macuse MCP](https://awesomecua.com/zh/resources/github-macuse-app-macuse-mcp/)
 - [MacWork](https://awesomecua.com/zh/resources/github-gklab-macwork/)
 - [maestro-oss](https://awesomecua.com/zh/resources/github-victorkaor-maestro-oss/)
+- [Magpie Computer Use](https://awesomecua.com/zh/resources/github-sammysnake-d-magpie-computer-use-agent/)
+- [MAI-UI inference and evaluation code](https://awesomecua.com/zh/resources/github-tongyi-mai-mai-ui/)

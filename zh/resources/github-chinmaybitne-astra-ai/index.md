@@ -1,3 +1,11 @@
+---
+title: "Astra AI (Windows Gemini Live Assistant) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chinmaybitne-astra-ai/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Astra AI (Windows Gemini Live Assistant)
 
 由 Gemini Live 驱动的语音优先 Windows AI 桌面助手，具备屏幕视觉和系统控制能力。

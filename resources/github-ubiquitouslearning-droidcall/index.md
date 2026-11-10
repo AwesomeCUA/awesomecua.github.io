@@ -1,3 +1,11 @@
+---
+title: "DroidCall generation and evaluation code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ubiquitouslearning-droidcall/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # DroidCall generation and evaluation code
 
 Data-generation, fine-tuning and evaluation utilities for teaching small language models to invoke Android intents through predefined functions.

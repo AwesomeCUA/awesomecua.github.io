@@ -1,3 +1,11 @@
+---
+title: "GTA1: GUI Test-time Scaling Agent · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-05791/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # GTA1: GUI Test-time Scaling Agent
 
 GTA1 在每个 GUI 操作步骤采样多个候选操作，并由评判模型作出选择；另用强化学习训练定位模型，将选定操作映射到视觉目标，连接规划阶段的搜索与点击定位。
@@ -27,6 +35,18 @@ Yan Yang, Dongxu Li, Yutong Dai, Yuhao Yang, Ziyang Luo, Zirui Zhao, Zhiyuan Hu,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-05791/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-05791/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_05791,
+  title = {{GTA1: GUI Test-time Scaling Agent}},
+  author = {{Yan Yang} and {Dongxu Li} and {Yutong Dai} and {Yuhao Yang} and {Ziyang Luo} and {Zirui Zhao} and {Zhiyuan Hu} and {Junzhe Huang} and {Amrita Saha} and {Zeyuan Chen} and {Ran Xu} and {Liyuan Pan} and {Silvio Savarese} and {Caiming Xiong} and {Junnan Li}},
+  year = {2025},
+  eprint = {2507.05791v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.05791v5},
+  note = {First published: 2025-07-08; Recorded arXiv version: v5; Recorded version updated: 2025-10-03T23:50:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

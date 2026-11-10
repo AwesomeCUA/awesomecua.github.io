@@ -1,3 +1,11 @@
+---
+title: "Universal Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nico0713520-universal-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Universal Computer Use
 
 Lightweight, model-free Model Context Protocol plugin giving multimodal agents native macOS screen and input control.

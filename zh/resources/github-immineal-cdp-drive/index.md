@@ -1,3 +1,11 @@
+---
+title: "cdp-drive · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-immineal-cdp-drive/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cdp-drive
 
 单文件、零依赖的 Chrome DevTools Protocol 驱动程序，无需 Playwright 即可自动化无头或有界面的 Chrome。

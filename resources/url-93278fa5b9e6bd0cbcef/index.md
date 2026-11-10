@@ -1,3 +1,11 @@
+---
+title: "Uni-GUI-Mobile | AwesomeCUA"
+url: https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Uni-GUI-Mobile
 
 Self-collected phone trajectories from the UI-MOPD training data: 871 tasks across 10 app categories, each with step screenshots, reasoning traces, normalized tap, swipe and type actions, and adb commands.

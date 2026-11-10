@@ -1,3 +1,11 @@
+---
+title: "dsh-chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-stuarthu-dsh-chrome/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-chrome
 
 Chrome side-panel companion that embeds the DeepSeek Harness UI and bridges the active browser tab to the agent.

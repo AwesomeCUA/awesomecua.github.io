@@ -1,3 +1,11 @@
+---
+title: "Unveiling Disparities in Web Task… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2405-04497/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Unveiling Disparities in Web Task Handling Between Human and Web Agent
 
 比较人类边思考边陈述的网页任务行为与网页智能体的规划、操作和反思，分析在更新计划、处理歧义和调查失败原因上的差异。
@@ -27,6 +35,18 @@ Kihoon Son, Jinhyeon Kwon, DaEun Choi, Tae Soo Kim, Young-Ho Kim, Sangdoo Yun, J
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2405-04497/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2405-04497/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_04497,
+  title = {{Unveiling Disparities in Web Task Handling Between Human and Web Agent}},
+  author = {{Kihoon Son} and {Jinhyeon Kwon} and {DaEun Choi} and {Tae Soo Kim} and {Young-Ho Kim} and {Sangdoo Yun} and {Juho Kim}},
+  year = {2024},
+  eprint = {2405.04497v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.04497v2},
+  note = {First published: 2024-05-07; Recorded arXiv version: v2; Recorded version updated: 2024-05-08T05:44:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

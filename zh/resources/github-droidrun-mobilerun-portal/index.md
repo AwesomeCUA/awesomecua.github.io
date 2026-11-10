@@ -1,3 +1,11 @@
+---
+title: "Mobilerun Portal (formerly Droidrun… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-droidrun-mobilerun-portal/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # Mobilerun Portal (formerly Droidrun Portal)
 
 Android 无障碍服务，为移动端自动化智能体提供 UI 元素检查、设备控制接口和屏幕反馈。

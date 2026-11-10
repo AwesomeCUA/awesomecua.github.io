@@ -1,3 +1,11 @@
+---
+title: "Skin-in-the-Game: Decision Making via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-12933/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs
 
 Bibliographic record for Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bilgehan Sel, Priya Shanmugasundaram, Mohammad Kachuee, Kun Zhou, Ruoxi Jia, Min
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-12933/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-12933/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_12933,
+  title = {{Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs}},
+  author = {{Bilgehan Sel} and {Priya Shanmugasundaram} and {Mohammad Kachuee} and {Kun Zhou} and {Ruoxi Jia} and {Ming Jin}},
+  year = {2024},
+  eprint = {2405.12933v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.12933v2},
+  note = {First published: 2024-05-21; Recorded arXiv version: v2; Recorded version updated: 2024-06-02T18:48:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

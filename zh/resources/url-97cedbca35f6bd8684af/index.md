@@ -1,3 +1,11 @@
+---
+title: "Fellou · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-97cedbca35f6bd8684af/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Fellou
 
 Fellou 智能浏览器先拟定分步计划供审核，再浏览网页、填写表单并执行定时或并行任务；Computer Use 模式还可操作本地应用和文件。

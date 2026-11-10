@@ -1,3 +1,11 @@
+---
+title: "Blender AI Plugin · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-proyecto26-blender-ai-plugin/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Blender AI Plugin
 
 Blender AI Plugin 通过 MCP 让智能体检查和编辑已打开的 Blender 场景，并以编排智能体、技能和脚本完成资产制作流程。

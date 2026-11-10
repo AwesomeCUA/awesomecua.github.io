@@ -1,3 +1,11 @@
+---
+title: "LFM2-350M-ComputerUse | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b68b02b47c87f006533e/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # LFM2-350M-ComputerUse
 
 LoRA adapter for LFM2-350M trained with GRPO to click a button on the MiniWoB click-test task, reading the page as a BrowserGym accessibility tree and acting in a sandboxed browser.

@@ -1,3 +1,11 @@
+---
+title: "Laya-Android · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-byun11-laya-android/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # Laya-Android
 
 Laya-Android 是用于 Android GUI 动作选择的紧凑型 322M 设备端决策模型。

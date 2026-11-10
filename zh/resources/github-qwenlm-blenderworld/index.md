@@ -1,3 +1,11 @@
+---
+title: "BlenderWorld (github.com/QwenLM/Blender… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qwenlm-blenderworld/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # BlenderWorld
 
 一个评测智能体依据文本和视觉参考创建可编辑 Blender 项目的基准。它提供 223 项任务、提交内容打包工具，以及按场景和视觉标准评分的评估器。

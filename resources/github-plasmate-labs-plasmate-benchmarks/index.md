@@ -1,3 +1,11 @@
+---
+title: "Plasmate Benchmarks | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Plasmate Benchmarks
 
 Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.

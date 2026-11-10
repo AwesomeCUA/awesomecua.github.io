@@ -1,3 +1,11 @@
+---
+title: "GUI Testing Using Computer Vision | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6262c757080f8838e62c/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI Testing Using Computer Vision
 
 Presents visual GUI test scripts that use images to specify actions and expected screen feedback. Recording both input events and screenshots can generate tests from demonstrations, supporting unit, regression, and test-driven workflows.
@@ -26,6 +34,20 @@ Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 
 - BibTeX: https://awesomecua.com/resources/url-6262c757080f8838e62c/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/citation.csl.json
+
+```bibtex
+@inproceedings{cua_08a6c6d3e0e8b509ecb90301,
+  title = {{GUI Testing Using Computer Vision}},
+  author = {{Tsung-Hsiang Chang} and {Tom Yeh} and {Robert C. Miller}},
+  year = {2010},
+  month = apr,
+  booktitle = {Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)},
+  pages = {1535-1544},
+  doi = {10.1145/1753326.1753555},
+  url = {https://doi.org/10.1145/1753326.1753555},
+  note = {Publication date: 2010-04.}
+}
+```
 
 ## Publication record
 

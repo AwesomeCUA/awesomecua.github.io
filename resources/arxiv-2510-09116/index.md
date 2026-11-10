@@ -1,3 +1,11 @@
+---
+title: "DITING: A Multi-Agent Evaluation Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-09116/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation
 
 Status: excluded from the active CUA catalog after scope review.

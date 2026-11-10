@@ -1,3 +1,11 @@
+---
+title: "SWIRL: A Staged Workflow for Interleaved… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-20018/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control
 
 提出用于移动端 GUI 控制的分阶段交替 RL 方法 SWIRL，由根据屏幕与语言制定计划的 Navigator 和执行动作的 Interactor 协作。
@@ -27,6 +35,18 @@ Quanfeng Lu, Zhantao Ma, Shuai Zhong, Jin Wang, Dahai Yu, Michael K. Ng, Ping Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-20018/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-20018/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_20018,
+  title = {{SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control}},
+  author = {{Quanfeng Lu} and {Zhantao Ma} and {Shuai Zhong} and {Jin Wang} and {Dahai Yu} and {Michael K. Ng} and {Ping Luo}},
+  year = {2025},
+  eprint = {2508.20018v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.20018v1},
+  note = {First published: 2025-08-27; Recorded arXiv version: v1; Recorded version updated: 2025-08-27T16:27:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

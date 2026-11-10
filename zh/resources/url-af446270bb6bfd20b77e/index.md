@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_ground_iterative · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-af446270bb6bfd20b77e/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_unified_ground_iterative
 
 一个已发布的 Lumos 定位模块模型检查点，在网页智能体及其他交互任务上进行了微调，属于其模块化语言智能体系统。

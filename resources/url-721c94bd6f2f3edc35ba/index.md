@@ -1,3 +1,11 @@
+---
+title: "cua-s1-forms | AwesomeCUA"
+url: https://awesomecua.com/resources/url-721c94bd6f2f3edc35ba/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # cua-s1-forms
 
 A 706,048-parameter checkpoint that scores candidate actions for GUI form fields in parallel. It is released as safetensors weights with a configuration file.

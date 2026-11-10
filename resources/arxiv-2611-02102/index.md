@@ -1,3 +1,11 @@
+---
+title: "NorthCUA Technical Report: Turbocharging… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-02102/
+updated: 2026-11-03
+type: paper
+lang: en
+---
+
 # NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale
 
 Bibliographic record for NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chaoyun Zhang, Bingxuan Li, Pinxue Guo, Yangfan Gao, Zikun Cai, Tianci Xie, Hui 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-02102/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-02102/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_02102,
+  title = {{NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale}},
+  author = {{Chaoyun Zhang} and {Bingxuan Li} and {Pinxue Guo} and {Yangfan Gao} and {Zikun Cai} and {Tianci Xie} and {Hui Li} and {Yuqi Huang} and {Yifei Cao} and {Bo Mao} and {Tian Tang} and {Qichang Zheng} and {Tongtong Liu} and {Xiaoxing Wang} and {Jinxiu Liu} and {Lizhi Lin} and {Zhou Shao} and {Maosen Zhou} and {Miao Zheng} and {Shuo Zhang} and {Yangji He} and {Kepeng Lei} and {Ning Zhao} and {Wei Shen} and {Zhenjiang Jin} and {Xinyue Zhang} and {Peng Sun} and {Zhenhua Han} and {Rui Zheng} and {Hang Yan}},
+  year = {2026},
+  eprint = {2611.02102v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.02102v1},
+  note = {First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T18:16:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

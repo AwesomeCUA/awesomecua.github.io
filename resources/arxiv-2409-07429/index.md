@@ -1,3 +1,11 @@
+---
+title: "Agent Workflow Memory | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-07429/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # Agent Workflow Memory
 
 Agent Workflow Memory extracts reusable task routines and selectively supplies them to guide later web actions. It studies both offline workflow induction from training examples and online induction from test experience on Mind2Web and WebArena.
@@ -26,6 +34,18 @@ Zora Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-07429/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-07429/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_07429,
+  title = {{Agent Workflow Memory}},
+  author = {{Zora Zhiruo Wang} and {Jiayuan Mao} and {Daniel Fried} and {Graham Neubig}},
+  year = {2024},
+  eprint = {2409.07429v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.07429v1},
+  note = {First published: 2024-09-11; Recorded arXiv version: v1; Recorded version updated: 2024-09-11T17:21:00Z.}
+}
+```
 
 ## Publication record
 

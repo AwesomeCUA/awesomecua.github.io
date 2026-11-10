@@ -1,3 +1,11 @@
+---
+title: "Accio Work | AwesomeCUA"
+url: https://awesomecua.com/resources/url-07f92766e53439739eab/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Accio Work
 
 Agent workspace powered by Alibaba for small-business sourcing, store operations and marketing, whose agents can operate the user's own Chromium browser to navigate, click, type, take screenshots and extract data.

@@ -1,3 +1,11 @@
+---
+title: "OneJev-Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f2e2030eaee4250d995d/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # OneJev-Data
 
 OneJev-Data 以 Parquet 文件发布 94,707 条问答训练数据，涵盖 GUI 智能体运行记录、屏幕、图像、视频和文本。

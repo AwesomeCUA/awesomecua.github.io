@@ -1,3 +1,11 @@
+---
+title: "EIA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-eia-against-webagent/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # EIA
 
 Evaluation suite for Environmental Injection Attacks that embed invisible malicious HTML elements into benign websites to test privacy leakage in generalist web agents.

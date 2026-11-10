@@ -1,3 +1,11 @@
+---
+title: "dsh-preview | AwesomeCUA"
+url: https://awesomecua.com/resources/github-viger1-dsh-preview/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-preview
 
 Self-verification browser preview loop for DeepSeek Harness agents to inspect and validate live frontend changes.

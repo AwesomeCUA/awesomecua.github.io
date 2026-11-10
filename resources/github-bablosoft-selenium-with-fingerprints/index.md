@@ -1,3 +1,11 @@
+---
+title: "selenium-with-fingerprints | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bablosoft-selenium-with-fingerprints/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # selenium-with-fingerprints
 
 selenium-with-fingerprints is a Windows plugin that launches Selenium WebDriver browsers with fingerprints fetched from the FingerprintSwitcher service.

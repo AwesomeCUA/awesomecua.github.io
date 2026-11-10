@@ -1,3 +1,11 @@
+---
+title: "aegis-desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mihneateodorstoica-aegis-desktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # aegis-desktop
 
 Extensible Linux-first desktop-control MCP server with pluggable window, input, screenshot, OCR, and policy backends.

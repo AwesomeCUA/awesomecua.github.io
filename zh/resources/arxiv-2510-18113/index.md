@@ -1,3 +1,11 @@
+---
+title: "Investigating the Impact of Dark… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-18113/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Investigating the Impact of Dark Patterns on LLM-Based Web Agents
 
 LiteAgent 用于记录网页智能体交互，TrickyArena 可在受控网站中启用或关闭暗黑模式。实验比较单一模式、组合模式及视觉或 HTML 变化如何影响智能体决策。
@@ -27,6 +35,18 @@ Devin Ersoy, Brandon Lee, Ananth Shreekumar, Arjun Arunasalam, Muhammad Ibrahim,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-18113/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-18113/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_18113,
+  title = {{Investigating the Impact of Dark Patterns on LLM-Based Web Agents}},
+  author = {{Devin Ersoy} and {Brandon Lee} and {Ananth Shreekumar} and {Arjun Arunasalam} and {Muhammad Ibrahim} and {Antonio Bianchi} and {Z. Berkay Celik}},
+  year = {2025},
+  eprint = {2510.18113v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.18113v1},
+  note = {First published: 2025-10-20; Recorded arXiv version: v1; Recorded version updated: 2025-10-20T21:26:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

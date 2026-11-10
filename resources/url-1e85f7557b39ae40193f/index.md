@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_ground_iterative (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1e85f7557b39ae40193f/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # lumos_web_agent_ground_iterative
 
 A Lumos-Iterative dataset for training a web agent's grounding module. Its card identifies 1009 Mind2Web annotations and links to models trained on the data.

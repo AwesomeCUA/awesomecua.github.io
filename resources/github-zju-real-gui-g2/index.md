@@ -1,3 +1,11 @@
+---
+title: "GUI-G2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zju-real-gui-g2/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-G2
 
 GUI grounding models at 3B and 7B trained with Gaussian rewards for click proximity to element centers and region coverage, with variance scaled to element size.

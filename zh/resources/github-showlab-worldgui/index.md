@@ -1,3 +1,11 @@
+---
+title: "WorldGUI · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-worldgui/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # WorldGUI
 
 包含 611 项要求智能体从不同起点完成的桌面 GUI 任务，附有教学视频、项目文件和具备自我反思能力的 WorldGUI-Agent 基线。

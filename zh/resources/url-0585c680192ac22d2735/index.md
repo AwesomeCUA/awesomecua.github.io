@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-4B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0585c680192ac22d2735/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-4B-HF
 
 这是 InternVL3.5 多模态模型系列的 HF 格式检查点，模型卡将图形界面交互列为该系列的能力之一。发布内容包含模型权重。

@@ -1,3 +1,11 @@
+---
+title: "SimpAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jiutian-vl-simpagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SimpAgent
 
 SimpAgent implements context-aware history simplification and visual token pruning to accelerate multimodal GUI agents.

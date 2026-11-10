@@ -1,3 +1,11 @@
+---
+title: "GUI-Robust | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chessbean1-gui-robust/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # GUI-Robust
 
 Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.

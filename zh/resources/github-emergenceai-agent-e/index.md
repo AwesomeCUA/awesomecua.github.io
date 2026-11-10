@@ -1,3 +1,11 @@
+---
+title: "Agent E · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-emergenceai-agent-e/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Agent E
 
 基于 AG2 框架的浏览器自动化智能体，由规划智能体与浏览器导航智能体协作填写表单、搜索商店及操作网站，也可通过本地 HTTP API 调用。

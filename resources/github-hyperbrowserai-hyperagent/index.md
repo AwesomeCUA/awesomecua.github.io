@@ -1,3 +1,11 @@
+---
+title: "HyperAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hyperbrowserai-hyperagent/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # HyperAgent
 
 Library adding natural-language commands to Playwright: accessibility-tree single actions, multi-step tasks that can use screenshots, an MCP client and action caching for replay without LLM calls.

@@ -1,3 +1,11 @@
+---
+title: "OpenBrowser (OpenBrowserAI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openbrowserai-openbrowser/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # OpenBrowser (OpenBrowserAI)
 
 Chromium patch set with a built-in assistant extension whose browser agent sees indexed page elements and a screenshot with numbered boxes, then clicks and types by element index, scrolls and switches tabs.

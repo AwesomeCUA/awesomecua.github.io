@@ -1,3 +1,11 @@
+---
+title: "XGrammar: Flexible and Efficient Structured… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-15100/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models
 
 Bibliographic record for XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yixin Dong, Charlie F. Ruan, Yaxing Cai, Ruihang Lai, Ziyi Xu, Yilong Zhao, Tian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-15100/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-15100/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_15100,
+  title = {{XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models}},
+  author = {{Yixin Dong} and {Charlie F. Ruan} and {Yaxing Cai} and {Ruihang Lai} and {Ziyi Xu} and {Yilong Zhao} and {Tianqi Chen}},
+  year = {2024},
+  eprint = {2411.15100v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.15100v3},
+  note = {First published: 2024-11-22; Recorded arXiv version: v3; Recorded version updated: 2025-05-12T08:20:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Learning to Be A Doctor: Searching for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-11301/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning to Be A Doctor: Searching for Effective Medical Agent Architectures
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "PC-Agent-E training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # PC-Agent-E training data
 
 Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.

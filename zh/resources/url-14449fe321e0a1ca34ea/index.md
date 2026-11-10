@@ -1,3 +1,11 @@
+---
+title: "PC-Agent-E training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-14449fe321e0a1ca34ea/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # PC-Agent-E training data
 
 已发布的 PC-Agent-E 训练数据集，官方流程将其用于改进人工轨迹和合成操作推理。

@@ -1,3 +1,11 @@
+---
+title: "HETHUB: A Distributed Training System with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-16256/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # HETHUB: A Distributed Training System with Heterogeneous Cluster for Large-Scale Models
 
 Status: excluded from the active CUA catalog after scope review.

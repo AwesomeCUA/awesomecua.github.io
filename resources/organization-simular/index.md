@@ -1,3 +1,11 @@
+---
+title: "Simular (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-simular/
+updated: 2026-10-18
+type: company
+lang: en
+---
+
 # Simular
 
 Publisher or product brand associated with Simular computer-use or browser automation offerings.

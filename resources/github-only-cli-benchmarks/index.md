@@ -1,3 +1,11 @@
+---
+title: "only-cli/benchmarks | AwesomeCUA"
+url: https://awesomecua.com/resources/github-only-cli-benchmarks/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # only-cli/benchmarks
 
 A reproducible benchmark suite compares tools that agents use to read live web pages, measuring content retrieval, time and token use across page views and browsing tasks.

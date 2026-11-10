@@ -1,3 +1,11 @@
+---
+title: "AsyncWebRL: Efficient Asynchronous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-05597/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AsyncWebRL: Efficient Asynchronous Reinforcement Learning for Multi-Step Visual Web Agents
 
 AsyncWebRL overlaps web-agent rollouts, updates and policy refresh while managing screenshot handling and a persistent rollout pool. It also replaces trajectory-length normalization in multi-step GRPO to reduce verbose failed trajectories, with throughput and out-of-distribution evaluation.
@@ -26,6 +34,18 @@ Hao Bai, Rui Yang, Chenlu Ye, Spencer Whitehead, Aviral Kumar, Tong Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-05597/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-05597/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05597,
+  title = {{AsyncWebRL: Efficient Asynchronous Reinforcement Learning for Multi-Step Visual Web Agents}},
+  author = {{Hao Bai} and {Rui Yang} and {Chenlu Ye} and {Spencer Whitehead} and {Aviral Kumar} and {Tong Zhang}},
+  year = {2026},
+  eprint = {2606.05597v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05597v3},
+  note = {First published: 2026-06-04; Recorded arXiv version: v3; Recorded version updated: 2026-08-07T17:58:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

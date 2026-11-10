@@ -1,3 +1,11 @@
+---
+title: "GenPark DOM Accessibility Tree Pruner Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GenPark DOM Accessibility Tree Pruner Skill
 
 Agent skill that compresses raw HTML DOM trees into token-efficient semantic accessibility snapshots.

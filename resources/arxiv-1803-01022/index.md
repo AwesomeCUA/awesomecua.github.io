@@ -1,3 +1,11 @@
+---
+title: "Programming Quantum Computers Using Design… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1803-01022/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Programming Quantum Computers Using Design Automation
 
 Status: excluded from the active CUA catalog after scope review.

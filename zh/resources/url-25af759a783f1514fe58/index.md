@@ -1,3 +1,11 @@
+---
+title: "WikiHow Task Set · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-25af759a783f1514fe58/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # WikiHow Task Set
 
 用于 Mobile-Env 的 WikiHow 应用导航评测任务集，另含跨 Android 应用的补充任务，提供任务定义和改写的指令。

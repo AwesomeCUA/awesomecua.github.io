@@ -1,3 +1,11 @@
+---
+title: "PhysiClaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-physiclaw-physiclaw/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # PhysiClaw
 
 PhysiClaw 使用俯视摄像头和 3 轴电容式触控笔龙门架，对未经改装的智能手机进行实体点击和滑动。

@@ -1,3 +1,11 @@
+---
+title: "afa-cloud desktop-gui-automation-cua · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-afa-cloud-desktop-gui-automation-cua/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # afa-cloud desktop-gui-automation-cua
 
 基于 cua-driver 构建的 macOS 桌面 GUI 自动化技能，结合无障碍树与像素级回退机制。

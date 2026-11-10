@@ -1,3 +1,11 @@
+---
+title: "Efficient Multi-turn RL for GUI Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-23866/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation
 
 DART separates GUI reinforcement learning into asynchronous environment, rollout, data-management, and training services. It curates experience by task difficulty, successful trajectories, and step uncertainty while correcting rollout-policy mismatch, with evaluation on OSWorld.
@@ -26,6 +34,18 @@ Pengxiang Li, Zechen Hu, Zirui Shang, Jingrong Wu, Yang Liu, Hui Liu, Zhi Gao, C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-23866/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-23866/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_23866,
+  title = {{Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation}},
+  author = {{Pengxiang Li} and {Zechen Hu} and {Zirui Shang} and {Jingrong Wu} and {Yang Liu} and {Hui Liu} and {Zhi Gao} and {Chenrui Shi} and {Bofei Zhang} and {Zihao Zhang} and {Xiaochuan Shi} and {Zedong YU} and {Yuwei Wu} and {Xinxiao Wu} and {Yunde Jia} and {Liuyu Xiang} and {Zhaofeng He} and {Qing Li}},
+  year = {2025},
+  eprint = {2509.23866v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.23866v1},
+  note = {First published: 2025-09-28; Recorded arXiv version: v1; Recorded version updated: 2025-09-28T13:19:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

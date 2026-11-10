@@ -1,3 +1,11 @@
+---
+title: "CineRecon: Benchmarking Frontier Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-16577/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction
 
 Bibliographic record for CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jialei Wang, Zehan Wang, XiaoYang Wu, Ziang Zhang, Siyu Chen, Jiaer Huang, Yujia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16577/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16577/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16577,
+  title = {{CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction}},
+  author = {{Jialei Wang} and {Zehan Wang} and {XiaoYang Wu} and {Ziang Zhang} and {Siyu Chen} and {Jiaer Huang} and {Yujia Zhang} and {Tianyu Pang} and {Hengshuang Zhao}},
+  year = {2026},
+  eprint = {2610.16577v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16577v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T10:57:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

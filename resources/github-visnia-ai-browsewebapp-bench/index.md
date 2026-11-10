@@ -1,3 +1,11 @@
+---
+title: "BrowseWebApp Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # BrowseWebApp Bench
 
 BrowseWebApp Bench evaluates browser agents across 100 realistic web workflows spanning record extraction, document upload, and form submission.

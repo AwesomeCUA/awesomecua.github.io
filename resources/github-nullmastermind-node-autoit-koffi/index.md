@@ -1,3 +1,11 @@
+---
+title: "Node AutoIt Koffi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nullmastermind-node-autoit-koffi/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Node AutoIt Koffi
 
 Node AutoIt Koffi is a Node.js binding for AutoIt functions that lets programs control Windows GUI elements and mouse input.

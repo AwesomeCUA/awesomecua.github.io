@@ -1,3 +1,11 @@
+---
+title: "AutoDroid-V2: Boosting SLM-based GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-18116/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation
 
 将移动 UI 自动化转化为设备端代码生成，利用应用专属文档和合成任务指导小模型。
@@ -27,6 +35,18 @@ Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Z
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-18116/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-18116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_18116,
+  title = {{AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation}},
+  author = {{Hao Wen} and {Shizuo Tian} and {Borislav Pavlov} and {Wenjie Du} and {Yixuan Li} and {Ge Chang} and {Shanhui Zhao} and {Jiacheng Liu} and {Yunxin Liu} and {Ya-Qin Zhang} and {Yuanchun Li}},
+  year = {2024},
+  eprint = {2412.18116v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.18116v3},
+  note = {First published: 2024-12-24; Recorded arXiv version: v3; Recorded version updated: 2025-05-06T12:24:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "bdg - Browser Debugger CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # bdg - Browser Debugger CLI
 
 A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.

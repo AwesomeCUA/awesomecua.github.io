@@ -1,3 +1,11 @@
+---
+title: "Ghost OS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ghostwright-ghost-os/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Ghost OS
 
 Ghost OS is a native macOS MCP server combining accessibility-tree action execution, Vision OCR fallback, and reusable workflow recipes.

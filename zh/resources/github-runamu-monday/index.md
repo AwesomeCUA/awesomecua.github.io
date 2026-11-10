@@ -1,3 +1,11 @@
+---
+title: "MONDAY · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-runamu-monday/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # MONDAY
 
 从教学视频提取的跨平台移动 GUI 轨迹数据集，提供数据处理辅助工具和适用于 Android 及 iOS 数据的评估示例代码。

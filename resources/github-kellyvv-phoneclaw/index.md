@@ -1,3 +1,11 @@
+---
+title: "PhoneClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kellyvv-phoneclaw/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PhoneClaw
 
 PhoneClaw turns iOS and Android smartphones into local AI agent runtimes with on-device model inference and native system skills.

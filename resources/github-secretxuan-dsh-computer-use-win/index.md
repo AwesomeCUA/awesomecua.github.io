@@ -1,3 +1,11 @@
+---
+title: "secretxuan dsh-computer-use-win | AwesomeCUA"
+url: https://awesomecua.com/resources/github-secretxuan-dsh-computer-use-win/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # secretxuan dsh-computer-use-win
 
 Windows computer-use bundle for DeepSeek Harness providing desktop screenshots, window management, and input automation.

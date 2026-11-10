@@ -1,3 +1,11 @@
+---
+title: "pywinauto | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pywinauto-pywinauto/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # pywinauto
 
 A Python library for automating Windows applications through mouse and keyboard input and control inspection. It supports Win32 and Microsoft UI Automation backends.

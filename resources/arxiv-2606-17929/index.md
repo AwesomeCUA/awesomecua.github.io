@@ -1,3 +1,11 @@
+---
+title: "PreAct: Computer-Using Agents that Get Faster… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-17929/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # PreAct: Computer-Using Agents that Get Faster on Repeated Tasks
 
 PreAct compiles successful screen-interaction runs into guarded state-machine programs for repeated tasks. It validates programs from clean states before storage and returns control to the agent when replayed screen expectations fail, with tests across mobile, desktop and web.
@@ -26,6 +34,18 @@ Bojie Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-17929/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-17929/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_17929,
+  title = {{PreAct: Computer-Using Agents that Get Faster on Repeated Tasks}},
+  author = {{Bojie Li}},
+  year = {2026},
+  eprint = {2606.17929v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.17929v1},
+  note = {First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T13:40:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

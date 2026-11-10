@@ -1,3 +1,11 @@
+---
+title: "kamalesh404 AgentOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kamalesh404-agentos/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # kamalesh404 AgentOS
 
 Autonomous AI agent framework for orchestrating web browsing, coding, and desktop tasks.

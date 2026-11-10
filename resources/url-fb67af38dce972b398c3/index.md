@@ -1,3 +1,11 @@
+---
+title: "ZHEN-04/CaptchaAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fb67af38dce972b398c3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ZHEN-04/CaptchaAgent
 
 ZHEN-04/CaptchaAgent is a 9B computer-use policy trained on interactive CAPTCHA trajectories. It maps screenshots to tool calls and provides SFT and reinforcement-learning checkpoints.

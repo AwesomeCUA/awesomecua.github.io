@@ -1,3 +1,11 @@
+---
+title: "LPS-Bench (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-625bd97c7aa32cf05833/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # LPS-Bench
 
 A dataset for evaluating safety across computer-use agent trajectories, with 570 base cases and 40 skill variants covering benign and adversarial tasks.

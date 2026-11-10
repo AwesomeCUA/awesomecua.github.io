@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-playwright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chenyuheee-dsh-browser-playwright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-browser-playwright
 
 面向 DeepSeek Harness 的 Playwright 浏览器自动化插件，以快照为先，使用无障碍树进行交互。

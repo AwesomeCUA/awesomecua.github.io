@@ -1,3 +1,11 @@
+---
+title: "ZonUI-3B | AwesomeCUA"
+url: https://awesomecua.com/resources/github-han1018-zonui-3b/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ZonUI-3B
 
 Code for training and evaluating ZonUI-3B, a GUI grounding model tested on mobile, desktop, and web screenshots at varying resolutions.

@@ -1,3 +1,11 @@
+---
+title: "Training High-Level Schedulers with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-22235/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation
 
 This work trains high-level schedulers with staged reinforcement learning driven by execution feedback. Its CES framework separates a Coordinator for planning and decomposition, a StateTracker for compressed context, and a low-level Executor.
@@ -26,6 +34,18 @@ Zehao Deng, Tianjie Ju, Zheng Wu, Zhuosheng Zhang, Gongshen Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-22235/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-22235/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_22235,
+  title = {{Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation}},
+  author = {{Zehao Deng} and {Tianjie Ju} and {Zheng Wu} and {Zhuosheng Zhang} and {Gongshen Liu}},
+  year = {2025},
+  eprint = {2511.22235v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.22235v2},
+  note = {First published: 2025-11-27; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T12:15:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

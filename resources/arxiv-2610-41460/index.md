@@ -1,3 +1,11 @@
+---
+title: "RetryRoute: Retry-Aware Model Routing for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-41460/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RetryRoute: Retry-Aware Model Routing for Agentic Image Editing Services
 
 Status: excluded from the active CUA catalog after scope review.

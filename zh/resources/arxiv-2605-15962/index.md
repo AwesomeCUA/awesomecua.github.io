@@ -1,3 +1,11 @@
+---
+title: "PersonaFingerprint: Measuring Persona… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-15962/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PersonaFingerprint: Measuring Persona Inference on Modern Websites with LLM-Driven Browsing
 
 PersonaFingerprint 研究如何从加密网站流量推断用户画像，并用受画像约束的计算机使用智能体浏览真实网站、采集流量轨迹。
@@ -27,6 +35,18 @@ Chuxu Song, Hao Wang, Richard Martin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-15962/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-15962/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15962,
+  title = {{PersonaFingerprint: Measuring Persona Inference on Modern Websites with LLM-Driven Browsing}},
+  author = {{Chuxu Song} and {Hao Wang} and {Richard Martin}},
+  year = {2026},
+  eprint = {2605.15962v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15962v1},
+  note = {First published: 2026-05-15; Recorded arXiv version: v1; Recorded version updated: 2026-05-15T13:54:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

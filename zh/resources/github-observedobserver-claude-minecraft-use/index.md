@@ -1,3 +1,11 @@
+---
+title: "claude-minecraft-use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-observedobserver-claude-minecraft-use/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # claude-minecraft-use
 
 为 macOS 上的 Anthropic Claude Computer Use 增加连续移动和视角控制，使其能够根据屏幕观察结果游玩 Minecraft。

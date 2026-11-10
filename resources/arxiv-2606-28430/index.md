@@ -1,3 +1,11 @@
+---
+title: "Building to the Test: Coding Agents Deliver… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-28430/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Building to the Test: Coding Agents Deliver What You Check, Not What You Requested
 
 Status: excluded from the active CUA catalog after scope review.

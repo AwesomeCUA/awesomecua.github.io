@@ -1,3 +1,11 @@
+---
+title: "Awomo-SimDataEngine: Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02274/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation
 
 Bibliographic record for Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Awomo-PhysicalRSI Team, Danjiao Ma, Enhui Ma, Haohan Liu, Heng Jia, Hui Shan, Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02274/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02274/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02274,
+  title = {{Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation}},
+  author = {{Awomo-PhysicalRSI Team} and {Danjiao Ma} and {Enhui Ma} and {Haohan Liu} and {Heng Jia} and {Hui Shan} and {Jianhua Xu} and {Jiahuan Zhang} and {Jiangdi Xu} and {Kaiwen Guo} and {Kaicheng Yu} and {Linwei Zhang} and {Liyang Jin} and {Maochun Luo} and {Pengyao Niu} and {Shiwen Li} and {Shuangyu Feng} and {Tong Zhang} and {Tianheng Wang} and {Xin Wang} and {Xiangru Huang} and {Yongqiang Huang} and {Zhaozhi Wang} and {Zijian Ma}},
+  year = {2026},
+  eprint = {2610.02274v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02274v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T08:38:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

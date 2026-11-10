@@ -1,3 +1,11 @@
+---
+title: "DSH Desktop Operator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DSH Desktop Operator
 
 Safe Windows computer-use plugin for DeepSeek Harness providing window-scoped desktop automation and verification.

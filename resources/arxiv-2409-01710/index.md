@@ -1,3 +1,11 @@
+---
+title: "Privacy-Preserving Multimedia Mobile Cloud… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-01710/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Privacy-Preserving Multimedia Mobile Cloud Computing Using Protective Perturbation
 
 Status: excluded from the active CUA catalog after scope review.

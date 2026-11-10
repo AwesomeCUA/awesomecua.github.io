@@ -1,3 +1,11 @@
+---
+title: "Puppeteer Real Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zfcsoftware-puppeteer-real-browser/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Puppeteer Real Browser
 
 一个 Node.js 包，启动 Chrome 并接入 Puppeteer，以更少的自动化痕迹浏览网页，支持自动点击 Turnstile 和基于光标的点击。维护者已停止更新。

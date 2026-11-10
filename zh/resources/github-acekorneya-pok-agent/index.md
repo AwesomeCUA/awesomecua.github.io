@@ -1,3 +1,11 @@
+---
+title: "POK-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acekorneya-pok-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # POK-Agent
 
 POK-Agent 是一款 Windows 计算机使用智能体，将云端规划器与快速本地执行器配合使用，并把重复的 UI 工作流缓存为技能。

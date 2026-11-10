@@ -1,3 +1,11 @@
+---
+title: "OSWorld 2.0 trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3b4e6c30e1d095c22771/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # OSWorld 2.0 trajectories
 
 XLang 受限发布的 OSWorld 2.0 智能体运行数据：21 个按模型和运行设置命名的 ZIP 结果归档，以及七次模型运行的逐任务轨迹 JSONL、逐步截图、结果和日志。

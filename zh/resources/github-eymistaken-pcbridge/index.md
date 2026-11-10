@@ -1,3 +1,11 @@
+---
+title: "pcbridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eymistaken-pcbridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pcbridge
 
 将 Linux 桌面转变为支持 shell 执行、窗口管理和 GUI 自动化的 Model Context Protocol 服务器。

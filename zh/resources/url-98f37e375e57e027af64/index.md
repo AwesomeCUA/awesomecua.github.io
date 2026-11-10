@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-1B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-98f37e375e57e027af64/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-1B-HF
 
 HF 格式的 InternVL3.5-1B 检查点，包含 0.3B 视觉编码器和 0.8B 语言模型，所属多模态模型系列采用 Cascade RL 训练，其能力列表包括 GUI 交互。

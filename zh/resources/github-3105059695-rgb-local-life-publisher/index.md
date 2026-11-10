@@ -1,3 +1,11 @@
+---
+title: "Local Life Publisher Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-3105059695-rgb-local-life-publisher/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Local Life Publisher Skill
 
 经过验证的浏览器自动化技能，可供 WorkBuddy 和 Codex 在 Xiaohongshu、Douyin 和 Ctrip 上发布内容。

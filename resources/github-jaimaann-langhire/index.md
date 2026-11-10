@@ -1,3 +1,11 @@
+---
+title: "LangHire | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jaimaann-langhire/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # LangHire
 
 A desktop app whose browser agents search for jobs and complete online applications, using stored knowledge of applicant tracking systems across tasks.

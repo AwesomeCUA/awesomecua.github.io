@@ -1,3 +1,11 @@
+---
+title: "Enhancing Vision-Language Pre-training with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-03346/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Enhancing Vision-Language Pre-training with Rich Supervisions
 
 Bibliographic record for Enhancing Vision-Language Pre-training with Rich Supervisions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuan Gao, Kunyu Shi, Pengkai Zhu, Edouard Belval, Oren Nuriel, Srikar Appalaraju
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-03346/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-03346/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_03346,
+  title = {{Enhancing Vision-Language Pre-training with Rich Supervisions}},
+  author = {{Yuan Gao} and {Kunyu Shi} and {Pengkai Zhu} and {Edouard Belval} and {Oren Nuriel} and {Srikar Appalaraju} and {Shabnam Ghadar} and {Vijay Mahadevan} and {Zhuowen Tu} and {Stefano Soatto}},
+  year = {2024},
+  eprint = {2403.03346v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.03346v2},
+  note = {First published: 2024-03-05; Recorded arXiv version: v2; Recorded version updated: 2025-03-13T00:22:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

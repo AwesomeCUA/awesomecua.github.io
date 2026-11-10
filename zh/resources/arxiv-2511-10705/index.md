@@ -1,3 +1,11 @@
+---
+title: "Co-EPG: A Framework for Co-Evolution of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-10705/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents
 
 Co-EPG 交替对规划器进行强化学习，并用生成的训练样本更新定位模型。持续更新的定位模型向规划器提供反馈，评估使用 Multimodal Mind2Web 和 AndroidControl。
@@ -27,6 +35,18 @@ Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, Xiaohang Xu, Hao Henry Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-10705/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-10705/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_10705,
+  title = {{Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents}},
+  author = {{Yuan Zhao} and {Hualei Zhu} and {Tingyu Jiang} and {Shen Li} and {Xiaohang Xu} and {Hao Henry Wang}},
+  year = {2025},
+  eprint = {2511.10705v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.10705v1},
+  note = {First published: 2025-11-13; Recorded arXiv version: v1; Recorded version updated: 2025-11-13T03:41:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

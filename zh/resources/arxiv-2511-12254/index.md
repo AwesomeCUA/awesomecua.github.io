@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-RAG: Driving Smart… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-12254/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation
 
 分别使用两套检索系统支持移动端任务的高层规划和精确界面操作，并提供用于长流程跨应用任务的基准。
@@ -27,6 +35,18 @@ Yuxiang Zhou, Jichang Li, Yanhao Zhang, Haonan Lu, Guanbin Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-12254/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-12254/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_12254,
+  title = {{Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation}},
+  author = {{Yuxiang Zhou} and {Jichang Li} and {Yanhao Zhang} and {Haonan Lu} and {Guanbin Li}},
+  year = {2025},
+  eprint = {2511.12254v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.12254v3},
+  note = {First published: 2025-11-15; Recorded arXiv version: v3; Recorded version updated: 2026-03-12T08:45:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

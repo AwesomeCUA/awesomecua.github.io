@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor 3B Qwen2.5-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0c400260635b7e4ab7c0/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Actor 3B Qwen2.5-VL
 
 GUI-Actor grounding checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct with an attention-based action head, with about 3.8B BF16 parameters and a config naming a pointer variant of the Qwen2.5-VL class, under MIT.

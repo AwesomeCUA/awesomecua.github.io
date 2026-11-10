@@ -1,3 +1,11 @@
+---
+title: "ModCDP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browserbase-modcdp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ModCDP
 
 ModCDP is Browserbase's framework for extending the Chrome DevTools Protocol with custom commands, events, and agent middlewares.

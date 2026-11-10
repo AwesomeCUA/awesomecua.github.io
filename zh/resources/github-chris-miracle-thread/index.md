@@ -1,3 +1,11 @@
+---
+title: "Rove (Thread WebMCP Workspace) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chris-miracle-thread/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Rove (Thread WebMCP Workspace)
 
 共享的 WebMCP 研究工作区，供人类用户和浏览器智能体共同整理、比较网页条目。

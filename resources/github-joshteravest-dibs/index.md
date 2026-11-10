@@ -1,3 +1,11 @@
+---
+title: "dibs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-joshteravest-dibs/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # dibs
 
 Local coordination hub and lock manager that lets multiple AI agents reserve and use computer-use resources without colliding.

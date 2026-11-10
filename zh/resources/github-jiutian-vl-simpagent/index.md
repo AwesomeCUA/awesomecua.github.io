@@ -1,3 +1,11 @@
+---
+title: "SimpAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jiutian-vl-simpagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SimpAgent
 
 SimpAgent 通过上下文感知的历史简化和视觉 token 剪枝，加速多模态 GUI 智能体。

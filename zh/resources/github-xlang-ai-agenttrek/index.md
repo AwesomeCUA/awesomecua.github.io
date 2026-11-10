@@ -1,3 +1,11 @@
+---
+title: "AgentTrek · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-agenttrek/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # AgentTrek
 
 以网页教程为指引，通过重放合成浏览器智能体轨迹；发布包含多模态定位与推理信息的轨迹数据及 AgentTrek-32B 智能体。

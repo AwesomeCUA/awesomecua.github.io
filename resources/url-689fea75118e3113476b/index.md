@@ -1,3 +1,11 @@
+---
+title: "dart-gui-7b | AwesomeCUA"
+url: https://awesomecua.com/resources/url-689fea75118e3113476b/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # dart-gui-7b
 
 GUI agent checkpoint released with DART, a decoupled asynchronous RL framework that separates environments, rollout, data management and training; the paper reports 42.13% task success on OSWorld.

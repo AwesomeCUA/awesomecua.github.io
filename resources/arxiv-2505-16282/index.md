@@ -1,3 +1,11 @@
+---
+title: "ARPO:End-to-End Policy Optimization for GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-16282/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay
 
 ARPO extends group-relative policy optimization with a replay buffer that reuses successful GUI trajectories across training iterations. It filters tasks using baseline performance and compares end-to-end reinforcement learning with offline preference optimization on OSWorld.
@@ -26,6 +34,18 @@ Fanbin Lu, Zhisheng Zhong, Shu Liu, Chi-Wing Fu, Jiaya Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-16282/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-16282/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_16282,
+  title = {{ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay}},
+  author = {{Fanbin Lu} and {Zhisheng Zhong} and {Shu Liu} and {Chi-Wing Fu} and {Jiaya Jia}},
+  year = {2025},
+  eprint = {2505.16282v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.16282v1},
+  note = {First published: 2025-05-22; Recorded arXiv version: v1; Recorded version updated: 2025-05-22T06:24:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

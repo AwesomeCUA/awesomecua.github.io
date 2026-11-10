@@ -1,3 +1,11 @@
+---
+title: "EPO: Hierarchical LLM Agents with Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-16090/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # EPO: Hierarchical LLM Agents with Environment Preference Optimization
 
 Bibliographic record for EPO: Hierarchical LLM Agents with Environment Preference Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qi Zhao, Haotian Fu, Chen Sun, George Konidaris
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-16090/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-16090/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_16090,
+  title = {{EPO: Hierarchical LLM Agents with Environment Preference Optimization}},
+  author = {{Qi Zhao} and {Haotian Fu} and {Chen Sun} and {George Konidaris}},
+  year = {2024},
+  eprint = {2408.16090v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.16090v2},
+  note = {First published: 2024-08-28; Recorded arXiv version: v2; Recorded version updated: 2024-10-03T20:35:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

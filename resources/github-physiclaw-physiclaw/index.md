@@ -1,3 +1,11 @@
+---
+title: "PhysiClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-physiclaw-physiclaw/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # PhysiClaw
 
 PhysiClaw uses an overhead camera and a 3-axis capacitive stylus gantry to physically tap and swipe unmodified smartphones.

@@ -1,3 +1,11 @@
+---
+title: "PhoneClaw · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kellyvv-phoneclaw/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PhoneClaw
 
 PhoneClaw 将 iOS 和 Android 智能手机变为本地 AI 智能体运行时，支持设备端模型推理和原生系统技能。

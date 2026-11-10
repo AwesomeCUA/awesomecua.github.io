@@ -1,3 +1,11 @@
+---
+title: "Auto WebMCP Chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pauloportella-auto-webmcp-chrome/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Auto WebMCP Chrome
 
 Chrome extension that automatically converts standard HTML web forms into structured WebMCP tools for browser agents.

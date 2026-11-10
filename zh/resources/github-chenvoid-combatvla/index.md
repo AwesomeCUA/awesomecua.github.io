@@ -1,3 +1,11 @@
+---
+title: "CombatVLA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chenvoid-combatvla/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # CombatVLA
 
 CombatVLA 是用于实时控制 3D 动作角色扮演 PC 游戏战斗的视觉语言动作模型和动作跟踪器。

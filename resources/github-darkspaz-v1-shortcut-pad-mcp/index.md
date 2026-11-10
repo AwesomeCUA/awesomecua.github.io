@@ -1,3 +1,11 @@
+---
+title: "shortcut-pad-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-darkspaz-v1-shortcut-pad-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # shortcut-pad-mcp
 
 Local Model Context Protocol server for listing and launching Windows applications and macros through Shortcut Pad.

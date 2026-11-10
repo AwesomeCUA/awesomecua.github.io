@@ -1,3 +1,11 @@
+---
+title: "Aria-UI context-aware checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-085b6811ddd6f797475d/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Aria-UI context-aware checkpoint
 
 利用交互上下文支持动态 Android 和桌面智能体任务中的定位的 Aria-UI 模型版本。

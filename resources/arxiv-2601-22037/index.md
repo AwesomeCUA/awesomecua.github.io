@@ -1,3 +1,11 @@
+---
+title: "Optimizing Agentic Workflows using Meta-tools | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22037/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Optimizing Agentic Workflows using Meta-tools
 
 Bibliographic record for Optimizing Agentic Workflows using Meta-tools. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sami Abuzakuk, Anne-Marie Kermarrec, Rishi Sharma, Rasmus Moorits Veski, Martijn
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-22037/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-22037/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_22037,
+  title = {{Optimizing Agentic Workflows using Meta-tools}},
+  author = {{Sami Abuzakuk} and {Anne-Marie Kermarrec} and {Rishi Sharma} and {Rasmus Moorits Veski} and {Martijn de Vos}},
+  year = {2026},
+  eprint = {2601.22037v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.22037v2},
+  note = {First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-02-02T14:41:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

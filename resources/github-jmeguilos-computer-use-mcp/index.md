@@ -1,3 +1,11 @@
+---
+title: "jmeguilos Computer Use MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jmeguilos-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # jmeguilos Computer Use MCP
 
 Window-scoped macOS computer-use server over local stdio MCP using native ScreenCaptureKit and Accessibility APIs.

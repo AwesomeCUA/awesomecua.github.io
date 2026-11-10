@@ -1,3 +1,11 @@
+---
+title: "PlayCoder: Making LLM-Generated GUI Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-19742/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PlayCoder: Making LLM-Generated GUI Code Playable
 
 PlayEval measures whether generated GUI applications remain logically playable, using PlayTester to execute task-oriented GUI playthroughs. PlayCoder closes the loop between repository-aware generation, interactive testing and targeted code repair.
@@ -26,6 +34,18 @@ Zhiyuan Peng, Wei Tao, Xin Yin, Chenhao Ying, Yuan Luo, Yiwen Guo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-19742/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-19742/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_19742,
+  title = {{PlayCoder: Making LLM-Generated GUI Code Playable}},
+  author = {{Zhiyuan Peng} and {Wei Tao} and {Xin Yin} and {Chenhao Ying} and {Yuan Luo} and {Yiwen Guo}},
+  year = {2026},
+  eprint = {2604.19742v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.19742v2},
+  note = {First published: 2026-04-21; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T10:11:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

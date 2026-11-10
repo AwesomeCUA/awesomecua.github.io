@@ -1,3 +1,11 @@
+---
+title: "MEGA-GUI: Multi-stage Enhanced Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-13087/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements
 
 Introduces MEGA-GUI, which separates coarse region selection from fine-grained interface-element grounding. Bidirectional zooming and context-aware instruction rewriting coordinate specialized vision-language agents across visual scales.
@@ -26,6 +34,18 @@ SeokJoo Kwak, Jihoon Kim, Boyoun Kim, Jung Jae Yoon, Wooseok Jang, Jeonghoon Hon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-13087/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-13087/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_13087,
+  title = {{MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements}},
+  author = {{SeokJoo Kwak} and {Jihoon Kim} and {Boyoun Kim} and {Jung Jae Yoon} and {Wooseok Jang} and {Jeonghoon Hong} and {Jaeho Yang} and {Yeong-Dae Kwon}},
+  year = {2025},
+  eprint = {2511.13087v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.13087v1},
+  note = {First published: 2025-11-17; Recorded arXiv version: v1; Recorded version updated: 2025-11-17T07:38:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

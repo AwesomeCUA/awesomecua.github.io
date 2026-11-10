@@ -1,3 +1,11 @@
+---
+title: "WebAgent-R1: Training Web Agents via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-16421/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning
 
 通过异步、多轮的环境交互训练网页智能体，以任务成功奖励优化完整轨迹。
@@ -27,6 +35,18 @@ Zhepei Wei, Wenlin Yao, Yao Liu, Weizhi Zhang, Qin Lu, Liang Qiu, Changlong Yu, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-16421/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-16421/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_16421,
+  title = {{WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning}},
+  author = {{Zhepei Wei} and {Wenlin Yao} and {Yao Liu} and {Weizhi Zhang} and {Qin Lu} and {Liang Qiu} and {Changlong Yu} and {Puyang Xu} and {Chao Zhang} and {Bing Yin} and {Hyokun Yun} and {Lihong Li}},
+  year = {2025},
+  eprint = {2505.16421v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.16421v2},
+  note = {First published: 2025-05-22; Recorded arXiv version: v2; Recorded version updated: 2025-10-08T21:16:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

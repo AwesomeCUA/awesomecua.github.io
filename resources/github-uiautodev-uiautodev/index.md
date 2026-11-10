@@ -1,3 +1,11 @@
+---
+title: "uiautodev | AwesomeCUA"
+url: https://awesomecua.com/resources/github-uiautodev-uiautodev/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # uiautodev
 
 A mobile device control and UI automation tool for Android, iOS and HarmonyOS with a desktop app and a server; this repository holds the npm CLI that downloads and runs the server binary.

@@ -1,3 +1,11 @@
+---
+title: "Hybrid Self-evolving Structured Memory for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-10291/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Hybrid Self-evolving Structured Memory for GUI Agents
 
 Introduces HyMEM, a graph-based memory for GUI agents that links symbolic task knowledge with trajectory embeddings and refreshes working memory during computer-use tasks.
@@ -26,6 +34,18 @@ Sibo Zhu, Wenyi Wu, Kun Zhou, Stephen Wang, Biwei Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-10291/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-10291/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_10291,
+  title = {{Hybrid Self-evolving Structured Memory for GUI Agents}},
+  author = {{Sibo Zhu} and {Wenyi Wu} and {Kun Zhou} and {Stephen Wang} and {Biwei Huang}},
+  year = {2026},
+  eprint = {2603.10291v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.10291v1},
+  note = {First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T00:17:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

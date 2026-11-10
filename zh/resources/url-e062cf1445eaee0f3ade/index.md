@@ -1,3 +1,11 @@
+---
+title: "Jedi · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e062cf1445eaee0f3ade/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # Jedi
 
 与界面分解研究及 OSWorld-G 基准相关的合成 GUI 定位数据。

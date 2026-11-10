@@ -1,3 +1,11 @@
+---
+title: "InternVL3-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7c01d4caa44763019e36/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3-8B
 
 这是一个 8B 多模态模型检查点；其发布资料除介绍更广泛的图像和视频任务外，还说明了图形界面操作训练数据与界面定位评估。

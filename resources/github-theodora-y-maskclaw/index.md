@@ -1,3 +1,11 @@
+---
+title: "MaskClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-theodora-y-maskclaw/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MaskClaw
 
 MaskClaw is an on-device privacy guardrail that intercepts sensitive GUI/tool actions and enforces self-evolving user privacy rules.

@@ -1,3 +1,11 @@
+---
+title: "Operant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpharomerojl-operant/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Operant
 
 Local-first desktop agent runtime that compiles exploratory AI trajectories into deterministic, invariant-gated skills.

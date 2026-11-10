@@ -1,3 +1,11 @@
+---
+title: "Vision-Language Models as Success Detectors | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-07280/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Vision-Language Models as Success Detectors
 
 Status: excluded from the active CUA catalog after scope review.

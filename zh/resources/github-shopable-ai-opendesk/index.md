@@ -1,3 +1,11 @@
+---
+title: "OpenDesk · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shopable-ai-opendesk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenDesk
 
 OpenDesk 是由 API 驱动的桌面自动化运行时，让 AI 智能体通过 JavaScript 或 MCP 控制窗口、鼠标和键盘、OCR 及文件。

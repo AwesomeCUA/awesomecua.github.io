@@ -1,3 +1,11 @@
+---
+title: "Domstamp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zuub-don-domstamp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Domstamp
 
 Framework-neutral browser-state snapshotter capturing compact, diffable DOM and accessibility states for AI web agents.

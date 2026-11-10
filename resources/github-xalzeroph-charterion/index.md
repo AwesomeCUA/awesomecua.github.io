@@ -1,3 +1,11 @@
+---
+title: "Charterion | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xalzeroph-charterion/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Charterion
 
 Multi-agent engineering control plane orchestrating ChatGPT Web sessions through browser automation.

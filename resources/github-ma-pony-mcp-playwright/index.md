@@ -1,3 +1,11 @@
+---
+title: "FastMCP Playwright Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ma-pony-mcp-playwright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # FastMCP Playwright Server
 
 Python FastMCP server exposing Playwright browser navigation, element interaction, screenshot capture, and data extraction to LLM agents.

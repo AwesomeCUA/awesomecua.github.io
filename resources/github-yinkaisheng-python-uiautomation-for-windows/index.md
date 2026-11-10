@@ -1,3 +1,11 @@
+---
+title: "uiautomation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yinkaisheng-python-uiautomation-for-windows/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # uiautomation
 
 A Python wrapper for Windows UI Automation that traverses application control trees and uses control properties and patterns to inspect and interact with interfaces.

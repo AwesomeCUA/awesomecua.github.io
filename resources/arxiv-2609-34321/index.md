@@ -1,3 +1,11 @@
+---
+title: "One Rollout Is All You Get: Fully Test-Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-34321/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # One Rollout Is All You Get: Fully Test-Time Adaptation for GUI Agents
 
 Defines a test-time adaptation setting with one counted attempt per arriving GUI task and no ground-truth feedback. Its SOLO method filters or relabels completed episodes, then updates a small adapter from a short window of the agent’s own experience.
@@ -26,6 +34,18 @@ Ziqiang Wang, Li Gu, Zhixiang Chi, Linlian Jiang, Zihuan Jiang, Linqiang Guo, Si
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-34321/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-34321/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34321,
+  title = {{One Rollout Is All You Get: Fully Test-Time Adaptation for GUI Agents}},
+  author = {{Ziqiang Wang} and {Li Gu} and {Zhixiang Chi} and {Linlian Jiang} and {Zihuan Jiang} and {Linqiang Guo} and {Siobhan Reid} and {Zhi Liu} and {Yang Wang}},
+  year = {2026},
+  eprint = {2609.34321v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34321v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T05:00:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

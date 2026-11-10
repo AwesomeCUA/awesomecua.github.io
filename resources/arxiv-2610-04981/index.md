@@ -1,3 +1,11 @@
+---
+title: "TeleGen: Improving LLM-Based Web Application… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04981/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # TeleGen: Improving LLM-Based Web Application Generation via Runtime Telemetry
 
 Bibliographic record for TeleGen: Improving LLM-Based Web Application Generation via Runtime Telemetry. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yujia Luo, Haonan Zhang, Jiasi Shen, Zishuo Ding, Weiyi Shang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04981/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04981/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04981,
+  title = {{TeleGen: Improving LLM-Based Web Application Generation via Runtime Telemetry}},
+  author = {{Yujia Luo} and {Haonan Zhang} and {Jiasi Shen} and {Zishuo Ding} and {Weiyi Shang}},
+  year = {2026},
+  eprint = {2610.04981v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04981v1},
+  note = {First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T05:57:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

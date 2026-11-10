@@ -1,3 +1,11 @@
+---
+title: "Decision Transformer: Reinforcement Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2106-01345/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Decision Transformer: Reinforcement Learning via Sequence Modeling
 
 Status: excluded from the active CUA catalog after scope review.

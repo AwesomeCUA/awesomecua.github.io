@@ -1,3 +1,11 @@
+---
+title: "Vision-MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-haruhiyuki-vision-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Vision-MCP
 
 Desktop application interaction MCP server combining visual UI element detection with mouse and keyboard automation.

@@ -1,3 +1,11 @@
+---
+title: "hwatu | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hongnoul-hwatu/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # hwatu
 
 Headless verification browser for AI coding agents featuring 35ms one-call UI checks and pixel diffing.

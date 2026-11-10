@@ -1,3 +1,11 @@
+---
+title: "socai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-socai-io-socai/
+updated: 2026-10-18
+type: tool
+lang: en
+---
+
 # socai
 
 Rust CLI, Agent Skill and desktop research agent that drive a signed-in Chrome over the DevTools Protocol with per-platform tools for searching and reading posts, comments and profiles on social sites.

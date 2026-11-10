@@ -1,3 +1,11 @@
+---
+title: "Predicate TypeScript SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-predicatesystems-sdk-typescript/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Predicate TypeScript SDK
 
 Predicate TypeScript SDK 为浏览器智能体提供页面快照、元素操作、断言和轨迹记录，用于构建会检查界面结果的运行流程。

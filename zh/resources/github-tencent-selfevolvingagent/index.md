@@ -1,3 +1,11 @@
+---
+title: "Tencent AI LAB - Self-Improving Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-selfevolvingagent/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Tencent AI LAB - Self-Improving Agent
 
 这个研究代码合集包含 WebEvolver 和 WebCoT，分别围绕世界模型及重构推理轨迹改进网页智能体。

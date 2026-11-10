@@ -1,3 +1,11 @@
+---
+title: "ShowUI Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f976dec3d1c5e0bedbd7/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # ShowUI Desktop
 
 7,496 desktop grounding examples built from OmniAct screenshots, with annotations rewritten by GPT-4o to describe element appearance, spatial relations and function.

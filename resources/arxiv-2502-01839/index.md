@@ -1,3 +1,11 @@
+---
+title: "Sample, Scrutinize and Scale: Effective… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-01839/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification
 
 Status: excluded from the active CUA catalog after scope review.

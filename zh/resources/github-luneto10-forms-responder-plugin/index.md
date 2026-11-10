@@ -1,3 +1,11 @@
+---
+title: "Forms Responder Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-luneto10-forms-responder-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Forms Responder Plugin
 
 面向 Codex 和 Agent Skills 的可移植插件，用于根据经过来源验证的信息填写浏览器表单。

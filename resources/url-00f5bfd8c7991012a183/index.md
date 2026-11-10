@@ -1,3 +1,11 @@
+---
+title: "SE-GUI-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-00f5bfd8c7991012a183/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # SE-GUI-7B
 
 A 7B GUI grounding model built on Qwen2.5-VL and trained with GRPO, a dense point reward and attention-guided self-evolutionary fine-tuning on 3,018 curated seed samples.

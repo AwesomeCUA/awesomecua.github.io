@@ -1,3 +1,11 @@
+---
+title: "AnyBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-christopher-inegbedion-anybrowser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AnyBrowser
 
 Pluggable browser-automation and web-agent runtime supporting interchangeable LLM providers and browser engines.

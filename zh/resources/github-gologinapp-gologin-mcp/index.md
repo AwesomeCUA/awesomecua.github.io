@@ -1,3 +1,11 @@
+---
+title: "GoLogin MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gologinapp-gologin-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GoLogin MCP Server
 
 GoLogin MCP Server 让 AI 智能体能够管理反检测浏览器配置文件、代理、指纹和云浏览器会话。

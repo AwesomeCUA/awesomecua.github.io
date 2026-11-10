@@ -1,3 +1,11 @@
+---
+title: "See it. Say it. Sorted: Agentic System for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-15222/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # See it. Say it. Sorted: Agentic System for Compositional Diagram Generation
 
 Bibliographic record for See it. Say it. Sorted: Agentic System for Compositional Diagram Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hantao Zhang, Jingyang Liu, Ed Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-15222/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-15222/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_15222,
+  title = {{See it. Say it. Sorted: Agentic System for Compositional Diagram Generation}},
+  author = {{Hantao Zhang} and {Jingyang Liu} and {Ed Li}},
+  year = {2025},
+  eprint = {2508.15222v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.15222v2},
+  note = {First published: 2025-08-21; Recorded arXiv version: v2; Recorded version updated: 2025-11-16T01:12:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

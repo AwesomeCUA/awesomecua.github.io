@@ -1,3 +1,11 @@
+---
+title: "RealGUINoise: An Interactive Cross-Platform… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38184/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # RealGUINoise: An Interactive Cross-Platform Benchmark for GUI Agent Robustness under Real-World Interface Noise
 
 Evaluates interactive GUI agents under varied realistic interface noise, comparing task completion, safety, and behavior with clean-environment runs.
@@ -26,6 +34,18 @@ Yongjiang Wu, Junyuan Zhang, Ada Chen, Kuiyi Gao, Wenxuan Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38184/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38184/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38184,
+  title = {{RealGUINoise: An Interactive Cross-Platform Benchmark for GUI Agent Robustness under Real-World Interface Noise}},
+  author = {{Yongjiang Wu} and {Junyuan Zhang} and {Ada Chen} and {Kuiyi Gao} and {Wenxuan Wang}},
+  year = {2026},
+  eprint = {2609.38184v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38184v1},
+  note = {First published: 2026-08-07; Recorded arXiv version: v1; Recorded version updated: 2026-08-07T07:51:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Open Computer Use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-e2b-dev-open-computer-use/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Open Computer Use
 
 Open Computer Use 在 E2B Desktop 云端 Linux 沙箱中运行开源视觉语言模型，以自主执行 GUI 任务。

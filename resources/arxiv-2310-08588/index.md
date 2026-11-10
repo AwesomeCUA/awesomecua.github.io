@@ -1,3 +1,11 @@
+---
+title: "Octopus: Embodied Vision-Language Programmer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-08588/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Octopus: Embodied Vision-Language Programmer from Environmental Feedback
 
 Status: excluded from the active CUA catalog after scope review.

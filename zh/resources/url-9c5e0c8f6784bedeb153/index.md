@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Pro 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9c5e0c8f6784bedeb153/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Atlas Pro 7B
 
 OS-Atlas 操作检查点由 OS-Atlas-Base-7B 微调而成，采用 Qwen2-VL 架构，读取截图、任务及历史记录后输出思路和下一步基础或自定义 GUI 操作。

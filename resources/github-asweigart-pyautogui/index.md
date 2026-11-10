@@ -1,3 +1,11 @@
+---
+title: "PyAutoGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-asweigart-pyautogui/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # PyAutoGUI
 
 Cross-platform Python module for scripted mouse and keyboard control, message boxes and screenshots with on-screen image search, working on the primary monitor under Windows, macOS and Linux.

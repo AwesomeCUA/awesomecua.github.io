@@ -1,3 +1,11 @@
+---
+title: "ChimeraX-SessionStates | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ChimeraX-SessionStates
 
 ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.

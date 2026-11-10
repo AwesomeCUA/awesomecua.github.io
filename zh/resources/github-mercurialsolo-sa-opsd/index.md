@@ -1,3 +1,11 @@
+---
+title: "cua_reliability (SA-OPSD) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mercurialsolo-sa-opsd/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # cua_reliability (SA-OPSD)
 
 提供 cua_reliability 评测工具包和参考训练代码，用于衡量 CUA RL 中停止执行和弃答的可靠性。

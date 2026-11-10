@@ -1,3 +1,11 @@
+---
+title: "When Benign Inputs Lead to Severe Harms… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-08235/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents
 
 AutoElicit 利用执行反馈反复改写无害指令，以发现计算机使用智能体在系统工作流程中造成的非预期有害行为。
@@ -27,6 +35,18 @@ Jaylen Jones, Zhehao Zhang, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Char
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-08235/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-08235/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_08235,
+  title = {{When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents}},
+  author = {{Jaylen Jones} and {Zhehao Zhang} and {Yuting Ning} and {Eric Fosler-Lussier} and {Pierre-Luc St-Charles} and {Yoshua Bengio} and {Dawn Song} and {Yu Su} and {Huan Sun}},
+  year = {2026},
+  eprint = {2602.08235v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.08235v2},
+  note = {First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-06-06T21:46:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

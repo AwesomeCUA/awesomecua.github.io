@@ -1,3 +1,11 @@
+---
+title: "InternVL3-2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-34516ed7cef20f813d93/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3-2B
 
 一个多模态模型检查点，其发布资料记录了 GUI 操作训练和 GUI 定位评测，同时涵盖更广泛的视觉语言任务。

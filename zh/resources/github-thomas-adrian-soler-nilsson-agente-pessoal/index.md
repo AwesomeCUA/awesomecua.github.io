@@ -1,3 +1,11 @@
+---
+title: "Agente Pessoal · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thomas-adrian-soler-nilsson-agente-pessoal/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Agente Pessoal
 
 多模态个人 AI 桌面助手，具备语音交互、持久记忆和操作系统自动化能力。

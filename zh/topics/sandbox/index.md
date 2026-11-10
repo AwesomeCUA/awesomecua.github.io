@@ -1,3 +1,11 @@
+---
+title: "沙箱：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/sandbox/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 沙箱
 
 Reviewed topic membership; resources can appear in multiple topics.

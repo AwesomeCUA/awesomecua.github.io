@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 24 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/24/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 24 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/24/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [grok-chrome-mcp](https://awesomecua.com/zh/resources/github-dietghardev-grok-chrome-mcp/)
 - [GUI Exploration Lab](https://awesomecua.com/zh/resources/github-summoneryhl-gelab-engine/)
 - [GUI Grounding Evaluation Harness](https://awesomecua.com/zh/resources/github-patrickstarl-gui-grounding-eval/)
 - [GUI Object Detection Benchmark & Models](https://awesomecua.com/zh/resources/github-chenjshnn-object-detection-for-graphical-user-interface/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/24/
 - [Pactora](https://awesomecua.com/zh/resources/github-mrnetwork0001-pactora/)
 - [periscope-mcp](https://awesomecua.com/zh/resources/github-segentic-lab-periscope-mcp/)
 - [PhantomJS](https://awesomecua.com/zh/resources/github-ariya-phantomjs/)
+- [PixelCheck](https://awesomecua.com/zh/resources/github-xcodethink-pixelcheck/)

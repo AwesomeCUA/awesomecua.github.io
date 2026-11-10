@@ -1,3 +1,11 @@
+---
+title: "MacControlKit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tzafon-maccontrolkit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MacControlKit
 
 MacControlKit 是 Tzafon 的 Swift 包，用于捕获 macOS 屏幕并发送原生鼠标和键盘事件。

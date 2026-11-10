@@ -1,3 +1,11 @@
+---
+title: "MUG: Interactive Multimodal Grounding on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2209-15099/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # MUG: Interactive Multimodal Grounding on User Interfaces
 
 研究迭代式 UI 定位：用户通过多轮对话细化或纠正智能体的理解。
@@ -27,6 +35,18 @@ Tao Li, Gang Li, Jingjie Zheng, Purple Wang, Yang Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2209-15099/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2209-15099/citation.csl.json
+
+```bibtex
+@misc{arxiv_2209_15099,
+  title = {{MUG: Interactive Multimodal Grounding on User Interfaces}},
+  author = {{Tao Li} and {Gang Li} and {Jingjie Zheng} and {Purple Wang} and {Yang Li}},
+  year = {2022},
+  eprint = {2209.15099v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2209.15099v1},
+  note = {First published: 2022-09-29; Recorded arXiv version: v1; Recorded version updated: 2022-09-29T21:08:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

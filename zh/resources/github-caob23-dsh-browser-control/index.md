@@ -1,3 +1,11 @@
+---
+title: "caob23 DSH Browser Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-caob23-dsh-browser-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # caob23 DSH Browser Control
 
 Chrome 扩展和 DeepSeek Harness 插件，让 AI 智能体能够直接操作用户的真实浏览器。

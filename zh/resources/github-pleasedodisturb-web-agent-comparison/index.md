@@ -1,3 +1,11 @@
+---
+title: "Web Agent Comparison · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pleasedodisturb-web-agent-comparison/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Web Agent Comparison
 
 可复现的 8 维评测基准，从延迟、token 开销和任务成功率等方面比较 7 个浏览器自动化 MCP 服务器。

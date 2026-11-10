@@ -1,3 +1,11 @@
+---
+title: "Online Mind2Web · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-online-mind2web/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # Online Mind2Web
 
 提供 136 个在线网站上的 300 项任务，用于在线评估网页智能体；过时任务会逐步替换，提交结果经人工审核，并配有 WebJudge 自动评估器。

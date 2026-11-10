@@ -1,3 +1,11 @@
+---
+title: "FSB (Full Self Browsing) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fullselfbrowsing-fsb/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # FSB (Full Self Browsing)
 
 Full Self Browsing (FSB) is a DOM-first browser automation runtime for Chrome and MCP clients with structured page snapshots and action replay.

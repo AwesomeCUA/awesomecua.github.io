@@ -1,3 +1,11 @@
+---
+title: "Task Scheduling in Cloud Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2201-09242/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Task Scheduling in Cloud Computing Using Hybrid Meta-heuristic: A Review
 
 Status: excluded from the active CUA catalog after scope review.

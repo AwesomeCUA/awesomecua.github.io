@@ -1,3 +1,11 @@
+---
+title: "Agent Skills for Large Language Models… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-12430/
+updated: 2026-10-17
+type: survey
+lang: zh-CN
+---
+
 # Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward
 
 这篇综述从架构、获取、部署和安全角度梳理智能体技能，包括其在计算机使用场景和 GUI 定位中的作用，并提出技能部署的权限与生命周期治理框架。
@@ -27,6 +35,18 @@ Renjun Xu, Yang Yan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-12430/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-12430/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_12430,
+  title = {{Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward}},
+  author = {{Renjun Xu} and {Yang Yan}},
+  year = {2026},
+  eprint = {2602.12430v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.12430v4},
+  note = {First published: 2026-02-12; Recorded arXiv version: v4; Recorded version updated: 2026-06-02T16:14:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

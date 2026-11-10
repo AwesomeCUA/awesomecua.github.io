@@ -1,3 +1,11 @@
+---
+title: "invisible_playwright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-invisible-playwright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # invisible_playwright
 
 invisible_playwright provides a drop-in Python Playwright client backed by an anti-detect Firefox build for stealth browser agent automation.

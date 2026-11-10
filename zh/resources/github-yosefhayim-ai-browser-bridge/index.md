@@ -1,3 +1,11 @@
+---
+title: "ai-browser-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yosefhayim-ai-browser-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ai-browser-bridge
 
 这款 macOS 终端工具通过 Chrome 操作在线 AI 聊天网站，并借助 MCP 服务器向这些聊天界面提供经过校验的本地代码仓库操作。

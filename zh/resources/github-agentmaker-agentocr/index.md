@@ -1,3 +1,11 @@
+---
+title: "AgentOCR · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentmaker-agentocr/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AgentOCR
 
 AgentOCR 提供紧凑的视觉 token 和 OCR 屏幕压缩功能，以加快 GUI 与计算机使用智能体的运行。

@@ -1,3 +1,11 @@
+---
+title: "Iron: Intent-Aligned and Retrospective… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-27866/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents
 
 Iron 利用循环一致性奖励，将 GUI 智能体的底层操作与高层意图对齐；它还通过事后重建重新利用失败轨迹，并评估向其他数字任务的迁移。
@@ -27,6 +35,18 @@ Jiahe Ying, Wendong Bu, Kaihang Pan, Bingchen Miao, Siyu Chen, Wen Wang, Xueming
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-27866/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-27866/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27866,
+  title = {{Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents}},
+  author = {{Jiahe Ying} and {Wendong Bu} and {Kaihang Pan} and {Bingchen Miao} and {Siyu Chen} and {Wen Wang} and {Xueming Jiang} and {Juncheng Li} and {Siliang Tang}},
+  year = {2026},
+  eprint = {2608.27866v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27866v1},
+  note = {First published: 2026-08-28; Recorded arXiv version: v1; Recorded version updated: 2026-08-28T03:15:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

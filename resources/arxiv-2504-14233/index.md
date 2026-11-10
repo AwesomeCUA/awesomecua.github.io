@@ -1,3 +1,11 @@
+---
+title: "Template-Based Financial Report Generation in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-14233/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "md-e2e | AwesomeCUA"
+url: https://awesomecua.com/resources/github-a-ryan-kr-md-e2e/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # md-e2e
 
 Zero-glue-code, Markdown-native end-to-end browser test automation framework powered by LLM agents.

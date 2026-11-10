@@ -1,3 +1,11 @@
+---
+title: "webarena-setup | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gasse-webarena-setup/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # webarena-setup
 
 Shell scripts that load the WebArena and VisualWebArena Docker images, create and patch the site containers, serve a homepage and run an optional reset server between agent evaluations.

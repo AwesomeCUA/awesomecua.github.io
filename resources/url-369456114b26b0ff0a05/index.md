@@ -1,3 +1,11 @@
+---
+title: "kuangtie/GUI-Robust | AwesomeCUA"
+url: https://awesomecua.com/resources/url-369456114b26b0ff0a05/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # kuangtie/GUI-Robust
 
 Hub release of the GUI-Robust data: step screenshots with JSON annotations for GUI tasks that include seven types of real-world anomalies, scored by the GUI-Robust script for step grounding and full-task success.

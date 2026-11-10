@@ -1,3 +1,11 @@
+---
+title: "AntiGravity Submit Helper | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sahajasakhunala-antigravity-submit-helper/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AntiGravity Submit Helper
 
 Windows AutoHotkey v2 desktop automation utility that detects and interacts with Antigravity agent prompts.

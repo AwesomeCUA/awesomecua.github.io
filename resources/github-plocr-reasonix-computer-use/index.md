@@ -1,3 +1,11 @@
+---
+title: "Reasonix Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plocr-reasonix-computer-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Reasonix Computer Use
 
 Cross-platform desktop automation plugin combining native accessibility trees (UIA/AXAPI/AT-SPI2) with EasyOCR visual fallback.

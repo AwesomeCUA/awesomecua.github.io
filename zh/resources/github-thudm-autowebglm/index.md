@@ -1,3 +1,11 @@
+---
+title: "AutoWebGLM · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-autowebglm/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # AutoWebGLM
 
 基于 ChatGLM3-6B 的网页导航智能体，为模型简化 HTML，使用人类与 AI 混合数据、RL 及拒绝采样训练，并配套双语基准 AutoWebBench。

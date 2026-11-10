@@ -1,3 +1,11 @@
+---
+title: "WebMCP - Model Context Tool Inspector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-beaufortfrancois-model-context-tool-inspector/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # WebMCP - Model Context Tool Inspector
 
 A Chrome extension displays WebMCP tools exposed by a page and lets developers inspect and execute them through a side panel.

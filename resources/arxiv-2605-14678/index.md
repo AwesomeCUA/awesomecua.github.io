@@ -1,3 +1,11 @@
+---
+title: "$π$-Bench: Evaluating Proactive Personal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14678/
+updated: 2026-11-01
+type: paper
+lang: en
+---
+
 # $π$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows
 
 Bibliographic record for $π$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haoran Zhang, Luxin Xu, Zhilin Wang, Runquan Gui, Shunkai Zhang, Haodi Lei, Ziha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-14678/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-14678/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14678,
+  title = {{\$π\$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows}},
+  author = {{Haoran Zhang} and {Luxin Xu} and {Zhilin Wang} and {Runquan Gui} and {Shunkai Zhang} and {Haodi Lei} and {Zihao He} and {Bingsu He} and {Chicheng Qin} and {Tong Zhu} and {Xiaoye Qu} and {Yang Yang} and {Yu Cheng} and {Yafu Li}},
+  year = {2026},
+  eprint = {2605.14678v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14678v3},
+  note = {First published: 2026-05-14; Recorded arXiv version: v3; Recorded version updated: 2026-05-19T02:06:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Browser Use Pi · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-browser-use-pi/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Browser Use Pi
 
 Browser Use Pi 是 TypeScript 浏览器智能体 SDK，其智能体编写 JavaScript，通过 CDP 操作 Chrome，并读取辅助功能树及截图获取反馈。

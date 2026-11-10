@@ -1,3 +1,11 @@
+---
+title: "GameBench: Evaluating Strategic Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-06613/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents
 
 Bibliographic record for GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Anthony Costarelli, Mat Allen, Roman Hauksson, Grace Sodunke, Suhas Hariharan, C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-06613/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-06613/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_06613,
+  title = {{GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents}},
+  author = {{Anthony Costarelli} and {Mat Allen} and {Roman Hauksson} and {Grace Sodunke} and {Suhas Hariharan} and {Carlson Cheng} and {Wenjie Li} and {Joshua Clymer} and {Arjun Yadav}},
+  year = {2024},
+  eprint = {2406.06613v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.06613v2},
+  note = {First published: 2024-06-07; Recorded arXiv version: v2; Recorded version updated: 2024-07-22T14:32:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

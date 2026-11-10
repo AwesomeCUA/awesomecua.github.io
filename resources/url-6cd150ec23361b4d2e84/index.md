@@ -1,3 +1,11 @@
+---
+title: "GUIAct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUIAct
 
 Web and Android GUI action-instruction data, with single-step, multi-step and smartphone partitions.

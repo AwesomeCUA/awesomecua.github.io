@@ -1,3 +1,11 @@
+---
+title: "UI-KOBE: Knowledge-Oriented Behavior… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-29534/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents
 
 UI-KOBE 通过探索移动应用，构建 UI 状态与可执行跳转的图。轻量智能体将当前截图与图匹配，再选择跳转、局部操作、完成信号或备用操作。
@@ -27,6 +35,18 @@ Yuxiang Chai, Han Xiao, Xinyu Fu, Jinpeng Chen, Rui Liu, Hongsheng Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-29534/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-29534/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29534,
+  title = {{UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents}},
+  author = {{Yuxiang Chai} and {Han Xiao} and {Xinyu Fu} and {Jinpeng Chen} and {Rui Liu} and {Hongsheng Li}},
+  year = {2026},
+  eprint = {2605.29534v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29534v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T07:49:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

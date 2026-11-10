@@ -1,3 +1,11 @@
+---
+title: "@sparticuz/chromium | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sparticuz-chromium/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # @sparticuz/chromium
 
 @sparticuz/chromium supplies a headless Linux Chromium build and launch settings for serverless browser automation with Puppeteer or Playwright.

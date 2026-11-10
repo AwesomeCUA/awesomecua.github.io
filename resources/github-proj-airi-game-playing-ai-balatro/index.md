@@ -1,3 +1,11 @@
+---
+title: "Game AI - Balatro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Game AI - Balatro
 
 Game AI - Balatro combines detection of cards and interface controls with code for automating play in the Balatro desktop game.

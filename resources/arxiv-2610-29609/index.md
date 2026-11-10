@@ -1,3 +1,11 @@
+---
+title: "Who Verifies the Agent's Success Claim?… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-29609/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging
 
 Studies how GUI agents' success claims affect completion judgments and builds a claim-blind auditor that checks reports against recorded traces.
@@ -26,6 +34,18 @@ Yunfeng Zhu, Shengcheng Yu, Zihan Li, Zhenyu Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-29609/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-29609/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_29609,
+  title = {{Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging}},
+  author = {{Yunfeng Zhu} and {Shengcheng Yu} and {Zihan Li} and {Zhenyu Chen}},
+  year = {2026},
+  eprint = {2610.29609v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.29609v1},
+  note = {First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T11:50:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

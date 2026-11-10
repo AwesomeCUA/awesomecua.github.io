@@ -1,3 +1,11 @@
+---
+title: "Trishula-BrowserAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-trishulasoftware-trishula-browseragent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Trishula-BrowserAgent
 
 Sovereign, doctrine-gated autonomous web browser agent built on CDP and Browser Use with SOCKS5 proxy isolation.

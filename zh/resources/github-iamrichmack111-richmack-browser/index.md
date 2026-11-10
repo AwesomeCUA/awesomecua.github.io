@@ -1,3 +1,11 @@
+---
+title: "Richmack Browser OS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-iamrichmack111-richmack-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Richmack Browser OS
 
 键盘驱动的 Chromium 浏览器环境，配有模块化工作区面板，供开发者和智能体执行工作流。

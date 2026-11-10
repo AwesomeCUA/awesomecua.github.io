@@ -1,3 +1,11 @@
+---
+title: "COLLEAGUE.SKILL: Automated AI Skill… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-31264/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation
 
 Status: excluded from the active CUA catalog after scope review.

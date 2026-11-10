@@ -1,3 +1,11 @@
+---
+title: "Chrome DevTools MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chromedevtools-chrome-devtools-mcp/
+updated: 2026-10-18
+type: tool
+lang: zh-CN
+---
+
 # Chrome DevTools MCP
 
 通过 Chrome DevTools 控制和检查浏览器的 MCP 工具。

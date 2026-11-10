@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor: Coordinate-Free Visual Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-03143/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents
 
 Uses an attention-based action head and a verifier to select relevant screen regions without generating coordinates as text.
@@ -26,6 +34,18 @@ Qianhui Wu, Kanzhi Cheng, Rui Yang, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-03143/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-03143/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_03143,
+  title = {{GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents}},
+  author = {{Qianhui Wu} and {Kanzhi Cheng} and {Rui Yang} and {Chaoyun Zhang} and {Jianwei Yang} and {Huiqiang Jiang} and {Jian Mu} and {Baolin Peng} and {Bo Qiao} and {Reuben Tan} and {Si Qin} and {Lars Liden} and {Qingwei Lin} and {Huan Zhang} and {Tong Zhang} and {Jianbing Zhang} and {Dongmei Zhang} and {Jianfeng Gao}},
+  year = {2025},
+  eprint = {2506.03143v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.03143v1},
+  note = {First published: 2025-06-03; Recorded arXiv version: v1; Recorded version updated: 2025-06-03T17:59:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

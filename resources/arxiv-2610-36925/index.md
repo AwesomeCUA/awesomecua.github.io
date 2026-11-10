@@ -1,3 +1,11 @@
+---
+title: "Vision-Language Agents Can Learn in Their Own… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36925/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Vision-Language Agents Can Learn in Their Own Latent Worlds
 
 Bibliographic record for Vision-Language Agents Can Learn in Their Own Latent Worlds. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haoxi Li, Sikai Bai, Jianfei Ma, Qinglin Hou, Xiaocheng Lu, Tao Han, Jie Zhang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36925/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36925/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36925,
+  title = {{Vision-Language Agents Can Learn in Their Own Latent Worlds}},
+  author = {{Haoxi Li} and {Sikai Bai} and {Jianfei Ma} and {Qinglin Hou} and {Xiaocheng Lu} and {Tao Han} and {Jie Zhang} and {Song Guo}},
+  year = {2026},
+  eprint = {2610.36925v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36925v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T09:51:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

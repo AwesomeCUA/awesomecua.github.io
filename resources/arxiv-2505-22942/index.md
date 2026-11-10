@@ -1,3 +1,11 @@
+---
+title: "WorkForceAgent-R1: Incentivizing Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-22942/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning
 
 Uses rule-based rewards for output structure and action correctness to train reasoning for enterprise web navigation.
@@ -26,6 +34,18 @@ Yuchen Zhuang, Di Jin, Jiaao Chen, Wenqi Shi, Hanrui Wang, Chao Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-22942/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-22942/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_22942,
+  title = {{WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning}},
+  author = {{Yuchen Zhuang} and {Di Jin} and {Jiaao Chen} and {Wenqi Shi} and {Hanrui Wang} and {Chao Zhang}},
+  year = {2025},
+  eprint = {2505.22942v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.22942v2},
+  note = {First published: 2025-05-28; Recorded arXiv version: v2; Recorded version updated: 2025-06-08T07:57:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

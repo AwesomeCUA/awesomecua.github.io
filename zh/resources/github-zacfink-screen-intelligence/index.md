@@ -1,3 +1,11 @@
+---
+title: "Screen Intelligence · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zacfink-screen-intelligence/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Screen Intelligence
 
 Screen Intelligence 是 macOS 桌面智能体，使用多模态 LLM 读取屏幕并执行鼠标和键盘动作。

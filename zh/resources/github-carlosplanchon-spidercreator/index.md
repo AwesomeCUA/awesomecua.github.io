@@ -1,3 +1,11 @@
+---
+title: "SpiderCreator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-carlosplanchon-spidercreator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # SpiderCreator
 
 SpiderCreator 录制浏览器交互和 DOM 快照，并利用 LLM 自动生成可执行的 Playwright 网页抓取程序。

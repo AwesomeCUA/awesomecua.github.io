@@ -1,3 +1,11 @@
+---
+title: "Peerframe OpenBot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-peerframe-openbot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Peerframe OpenBot
 
 自托管的跨平台控制平台，用于管理具备浏览器和桌面能力的常驻数字员工。

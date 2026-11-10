@@ -1,3 +1,11 @@
+---
+title: "VisualWebBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-visualwebbench-visualwebbench/
+updated: 2026-11-02
+type: benchmark
+lang: en
+---
+
 # VisualWebBench
 
 Evaluation of multimodal models on visual web understanding tasks.

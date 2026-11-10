@@ -1,3 +1,11 @@
+---
+title: "PixArt-Σ: Weak-to-Strong Training of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-04692/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Automation — computer-use research, page 7 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/7/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 7
 
 HTML page: https://awesomecua.com/topics/automation/page/7/
@@ -10,7 +18,6 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [bb-browser](https://awesomecua.com/resources/github-epiral-bb-browser/)
 - [bb-sites](https://awesomecua.com/resources/github-epiral-bb-sites/)
 - [bdg - Browser Debugger CLI](https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/)
-- [Bees Desktop](https://awesomecua.com/resources/github-bees-bot-bees-desktop/)
 - [BeijingWahw DSH Computer Use Plugin](https://awesomecua.com/resources/github-beijingwahw-dsh-computer-use-plugin/)
 - [Better Computer Use](https://awesomecua.com/resources/github-suge8-better-computer-use/)
 - [Better Computer Use (Accessibility MCP)](https://awesomecua.com/resources/github-ridelink0-claude-computer-use/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Browser4](https://awesomecua.com/resources/github-platonai-browser4/)
 - [Browserable](https://awesomecua.com/resources/github-browserable-browserable/)
 - [BrowserAct Skills](https://awesomecua.com/resources/github-browser-act-skills/)
+- [BrowserCode](https://awesomecua.com/resources/github-browser-use-browsercode/)

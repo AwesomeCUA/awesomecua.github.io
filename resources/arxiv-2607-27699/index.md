@@ -1,3 +1,11 @@
+---
+title: "RefineSVG: Visual Feedback-Driven… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-27699/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RefineSVG: Visual Feedback-Driven Reinforcement Learning for Image-to-SVG Generation
 
 Bibliographic record for RefineSVG: Visual Feedback-Driven Reinforcement Learning for Image-to-SVG Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shaobo Liu, Feiqiao Mao, Shuaishuai Zhou, Yan Zhan, Weiqi Tan, Zhiqiong Lu, Zhen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-27699/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-27699/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_27699,
+  title = {{RefineSVG: Visual Feedback-Driven Reinforcement Learning for Image-to-SVG Generation}},
+  author = {{Shaobo Liu} and {Feiqiao Mao} and {Shuaishuai Zhou} and {Yan Zhan} and {Weiqi Tan} and {Zhiqiong Lu} and {Zhengping Liang}},
+  year = {2026},
+  eprint = {2607.27699v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.27699v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T05:30:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

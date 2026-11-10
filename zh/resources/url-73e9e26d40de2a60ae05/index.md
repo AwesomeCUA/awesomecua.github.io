@@ -1,3 +1,11 @@
+---
+title: "agent-qa · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-73e9e26d40de2a60ae05/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # agent-qa
 
 面向网页、Android 和 iOS 应用的测试智能体，可执行自然语言测试、操作用户流程、核验结果，并保存已验证的运行记录供后续复用。

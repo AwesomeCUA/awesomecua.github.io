@@ -1,3 +1,11 @@
+---
+title: "mac-use-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-antbotlab-mac-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mac-use-mcp
 
 零依赖的 macOS 桌面自动化 MCP 服务器，提供 18 个用于 Accessibility 检查、截图和输入控制的工具。

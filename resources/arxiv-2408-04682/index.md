@@ -1,3 +1,11 @@
+---
+title: "ToolSandbox: A Stateful, Conversational… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-04682/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities
 
 Bibliographic record for ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiarui Lu, Thomas Holleis, Yizhe Zhang, Bernhard Aumayer, Feng Nan, Felix Bai, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-04682/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-04682/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_04682,
+  title = {{ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities}},
+  author = {{Jiarui Lu} and {Thomas Holleis} and {Yizhe Zhang} and {Bernhard Aumayer} and {Feng Nan} and {Felix Bai} and {Shuang Ma} and {Shen Ma} and {Mengyu Li} and {Guoli Yin} and {Zirui Wang} and {Ruoming Pang}},
+  year = {2024},
+  eprint = {2408.04682v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.04682v2},
+  note = {First published: 2024-08-08; Recorded arXiv version: v2; Recorded version updated: 2025-04-16T22:20:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

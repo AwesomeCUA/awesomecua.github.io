@@ -1,11 +1,17 @@
+---
+title: "Computer-use agents, page 5 | AwesomeCUA"
+url: https://awesomecua.com/categories/agent/page/5/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agents, page 5
 
 HTML page: https://awesomecua.com/categories/agent/page/5/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
-- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/resources/github-333-wg-pi-wm/)
-- [Piskie](https://awesomecua.com/resources/github-piskie-dev-piskie/)
 - [PocketCode](https://awesomecua.com/resources/github-m1ssbe4r-pocketcode/)
 - [Pocketwatch](https://awesomecua.com/resources/github-psamme-pocketwatch/)
 - [Pointer](https://awesomecua.com/resources/url-98122987ca3e7c764d0e/)

@@ -1,3 +1,11 @@
+---
+title: "Hyprland Codex Background Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gabriel-kahen-hyprland-codex-background-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hyprland Codex Background Computer Use
 
 让 Codex 能在后台控制 Hyprland Wayland 和 XWayland 应用，且不抢占焦点。

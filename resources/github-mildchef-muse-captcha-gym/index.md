@@ -1,3 +1,11 @@
+---
+title: "CAPTCHA Gym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mildchef-muse-captcha-gym/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # CAPTCHA Gym
 
 CAPTCHA Gym is a self-hosted evaluation platform for browser agents featuring controlled reCAPTCHA-style visual challenges and server scoring.

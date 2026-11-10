@@ -1,3 +1,11 @@
+---
+title: "atlas-desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-abydin-atlas-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # atlas-desktop
 
 macOS 桌面控制 CLI，可将任何应用的 UI 层级读取为结构化 JSON，并分发原生动作。

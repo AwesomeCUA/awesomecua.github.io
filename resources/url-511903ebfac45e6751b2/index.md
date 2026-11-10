@@ -1,3 +1,11 @@
+---
+title: "GUIOdyssey — current data release | AwesomeCUA"
+url: https://awesomecua.com/resources/url-511903ebfac45e6751b2/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # GUIOdyssey — current data release
 
 Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.

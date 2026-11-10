@@ -1,3 +1,11 @@
+---
+title: "macbot-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anomalous3-macbot-mcp/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # macbot-mcp
 
 An MCP server that lets AI agents read the macOS accessibility tree with element coordinates and act through Quartz CGEvents and AppleScript, using 17 tools for observing, clicking, typing and scrolling.

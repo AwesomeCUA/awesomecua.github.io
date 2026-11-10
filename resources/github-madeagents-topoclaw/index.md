@@ -1,3 +1,11 @@
+---
+title: "TopoClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-madeagents-topoclaw/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TopoClaw
 
 TopoClaw is a topology-aware multi-agent digital assistant with skill verification and sandboxed execution across desktop, web, and mobile.

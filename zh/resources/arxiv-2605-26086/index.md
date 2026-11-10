@@ -1,3 +1,11 @@
+---
+title: "Claw-Anything: Benchmarking Always-On… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-26086/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World
 
 Claw-Anything 以活动历史、后端服务及 GUI/CLI 协同交互为场景，评估持续运行的个人助理。模拟事件历史包含无关或冲突的上下文，另有生成流程提供训练环境。
@@ -27,6 +35,18 @@ Yusong Lin, Xinyuan Liang, Haiyang Wang, Qipeng Gu, Siqi Cheng, Jiangui Chen, Sh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-26086/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-26086/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26086,
+  title = {{Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World}},
+  author = {{Yusong Lin} and {Xinyuan Liang} and {Haiyang Wang} and {Qipeng Gu} and {Siqi Cheng} and {Jiangui Chen} and {Shuzhe Wu} and {Feiyang Pan} and {Lue Fan} and {Sanyuan Zhao} and {Dandan Tu}},
+  year = {2026},
+  eprint = {2605.26086v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26086v1},
+  note = {First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T17:50:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

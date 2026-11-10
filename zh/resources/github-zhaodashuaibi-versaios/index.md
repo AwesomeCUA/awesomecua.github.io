@@ -1,3 +1,11 @@
+---
+title: "VersaiOS · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhaodashuaibi-versaios/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # VersaiOS
 
 VersaiOS 使用视觉语言模型定位 iPhone 屏幕上的目标，再通过 ESP32 蓝牙鼠标根据自然语言指令执行点击。

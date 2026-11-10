@@ -1,3 +1,11 @@
+---
+title: "Can LLM Agents Learn to Test? Maintaining… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-05873/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing
 
 AdaptiTest specifies scoped, revalidated memory for an LLM-based mobile GUI tester to reuse routes and locators across read-only Android test workflows.
@@ -26,6 +34,18 @@ Zimu Liu, Xiaoxi Guo, Xiaolu Tang, Liang Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-05873/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-05873/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_05873,
+  title = {{Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing}},
+  author = {{Zimu Liu} and {Xiaoxi Guo} and {Xiaolu Tang} and {Liang Yu}},
+  year = {2026},
+  eprint = {2611.05873v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.05873v1},
+  note = {First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T03:04:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

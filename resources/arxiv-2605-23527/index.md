@@ -1,3 +1,11 @@
+---
+title: "LiveFigure: Generating Editable Scientific… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-23527/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LiveFigure: Generating Editable Scientific Illustration with VLM Agents
 
 Bibliographic record for LiveFigure: Generating Editable Scientific Illustration with VLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenyang Shao, Jiahe Liu, Fengli Xu, Yong Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-23527/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-23527/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_23527,
+  title = {{LiveFigure: Generating Editable Scientific Illustration with VLM Agents}},
+  author = {{Chenyang Shao} and {Jiahe Liu} and {Fengli Xu} and {Yong Li}},
+  year = {2026},
+  eprint = {2605.23527v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.23527v1},
+  note = {First published: 2026-05-22; Recorded arXiv version: v1; Recorded version updated: 2026-05-22T11:42:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

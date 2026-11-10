@@ -1,3 +1,11 @@
+---
+title: "Personae Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leek-emperor-personae/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Personae Browser
 
 Desktop browser where every identity runs in an isolated Chromium partition for multi-account human and agent workflows.

@@ -1,3 +1,11 @@
+---
+title: "LLaVA-Grounding: Grounded Visual Chat with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-02949/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models
 
 Bibliographic record for LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hao Zhang, Hongyang Li, Feng Li, Tianhe Ren, Xueyan Zou, Shilong Liu, Shijia Hua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-02949/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-02949/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_02949,
+  title = {{LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models}},
+  author = {{Hao Zhang} and {Hongyang Li} and {Feng Li} and {Tianhe Ren} and {Xueyan Zou} and {Shilong Liu} and {Shijia Huang} and {Jianfeng Gao} and {Lei Zhang} and {Chunyuan Li} and {Jianwei Yang}},
+  year = {2023},
+  eprint = {2312.02949v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.02949v1},
+  note = {First published: 2023-12-05; Recorded arXiv version: v1; Recorded version updated: 2023-12-05T18:29:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

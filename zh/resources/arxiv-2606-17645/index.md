@@ -1,3 +1,11 @@
+---
+title: "Beyond Domains: Reusing Web Skills via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-17645/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns
 
 提出网页智能体 SkillMigrator，从成功交互中生成可复用技能，并通过匹配页面布局和当前元素引用在网站之间迁移。
@@ -27,6 +35,18 @@ Shiqi He, Yue Cui, Feijie Wu, Xinyu Ma, Jiaheng Lu, Yaliang Li, Bolin Ding, Mosh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-17645/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-17645/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_17645,
+  title = {{Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns}},
+  author = {{Shiqi He} and {Yue Cui} and {Feijie Wu} and {Xinyu Ma} and {Jiaheng Lu} and {Yaliang Li} and {Bolin Ding} and {Mosharaf Chowdhury}},
+  year = {2026},
+  eprint = {2606.17645v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.17645v1},
+  note = {First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T08:04:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

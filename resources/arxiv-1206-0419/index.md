@@ -1,3 +1,11 @@
+---
+title: "Pre-allocation Strategies of Computational… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1206-0419/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Pre-allocation Strategies of Computational Resources in Cloud Computing using Adaptive Resonance Theory-2
 
 Status: excluded from the active CUA catalog after scope review.

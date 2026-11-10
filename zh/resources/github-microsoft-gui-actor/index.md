@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-gui-actor/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Actor
 
 GUI-Actor 是利用注意力机制定位操作位置的 GUI 定位模型。

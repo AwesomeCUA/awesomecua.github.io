@@ -1,3 +1,11 @@
+---
+title: "AskUI (askui.com) · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-69d6afe38a9a128ba9f7/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # AskUI
 
 AskUI 是智能体测试自动化平台，依据像素在桌面应用、Citrix、车载主机和移动设备上运行自然语言测试用例，支持本地或物理隔离部署。

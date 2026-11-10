@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 8B AC | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2be7f81cdca0eb8566c6/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # OS-Genesis 8B AC
 
 AndroidControl-oriented InternVL2-8B checkpoint trained on OS-Genesis mobile trajectories; the card prompts it with a screenshot, accessibility tree, goal and action history for the next thought and action.

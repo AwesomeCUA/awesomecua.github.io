@@ -1,3 +1,11 @@
+---
+title: "Nudge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaxxcode-nudge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Nudge
 
 浏览器扩展，可在 AI 助手检查或总结网页前，自动遮盖页面上的敏感个人身份信息。

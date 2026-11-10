@@ -1,3 +1,11 @@
+---
+title: "Knot Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-liz-public-knot-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Knot Agent
 
 以日志为核心的去中心化智能体框架，独立的浏览器和桌面插件通过只追加的事实日志协调。

@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-v2: Mobile Device Operation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-01014/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration
 
 Separates mobile planning, decision-making, and reflection, with a memory unit for task progress and relevant content.
@@ -26,6 +34,18 @@ Junyang Wang, Haiyang Xu, Haitao Jia, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-01014/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-01014/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_01014,
+  title = {{Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration}},
+  author = {{Junyang Wang} and {Haiyang Xu} and {Haitao Jia} and {Xi Zhang} and {Ming Yan} and {Weizhou Shen} and {Ji Zhang} and {Fei Huang} and {Jitao Sang}},
+  year = {2024},
+  eprint = {2406.01014v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.01014v1},
+  note = {First published: 2024-06-03; Recorded arXiv version: v1; Recorded version updated: 2024-06-03T05:50:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

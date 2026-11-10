@@ -1,3 +1,11 @@
+---
+title: "CAAP: Context-Aware Action Planning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-06947/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only
 
 CAAP 将截图转为文本观察，借助从多个角度分析任务上下文的提示规划键鼠动作，并仅凭前端视觉观察在 MiniWoB++ 和 WebShop 上评估。
@@ -27,6 +35,18 @@ Junhee Cho, Jihoon Kim, Daseul Bae, Jinho Choo, Youngjune Gwon, Yeong-Dae Kwon
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-06947/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-06947/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_06947,
+  title = {{CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only}},
+  author = {{Junhee Cho} and {Jihoon Kim} and {Daseul Bae} and {Jinho Choo} and {Youngjune Gwon} and {Yeong-Dae Kwon}},
+  year = {2024},
+  eprint = {2406.06947v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.06947v3},
+  note = {First published: 2024-06-11; Recorded arXiv version: v3; Recorded version updated: 2024-12-26T11:02:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

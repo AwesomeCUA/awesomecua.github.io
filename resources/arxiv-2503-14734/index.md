@@ -1,3 +1,11 @@
+---
+title: "GR00T N1: An Open Foundation Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-14734/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GR00T N1: An Open Foundation Model for Generalist Humanoid Robots
 
 Bibliographic record for GR00T N1: An Open Foundation Model for Generalist Humanoid Robots. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ NVIDIA, :, Johan Bjorck, Fernando Castañeda, Nikita Cherniadev, Xingye Da, Runy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-14734/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-14734/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_14734,
+  title = {{GR00T N1: An Open Foundation Model for Generalist Humanoid Robots}},
+  author = {{NVIDIA} and {:} and {Johan Bjorck} and {Fernando Castañeda} and {Nikita Cherniadev} and {Xingye Da} and {Runyu Ding} and {Linxi "Jim" Fan} and {Yu Fang} and {Dieter Fox} and {Fengyuan Hu} and {Spencer Huang} and {Joel Jang} and {Zhenyu Jiang} and {Jan Kautz} and {Kaushil Kundalia} and {Lawrence Lao} and {Zhiqi Li} and {Zongyu Lin} and {Kevin Lin} and {Guilin Liu} and {Edith Llontop} and {Loic Magne} and {Ajay Mandlekar} and {Avnish Narayan} and {Soroush Nasiriany} and {Scott Reed} and {You Liang Tan} and {Guanzhi Wang} and {Zu Wang} and {Jing Wang} and {Qi Wang} and {Jiannan Xiang} and {Yuqi Xie} and {Yinzhen Xu} and {Zhenjia Xu} and {Seonghyeon Ye} and {Zhiding Yu} and {Ao Zhang} and {Hao Zhang} and {Yizhou Zhao} and {Ruijie Zheng} and {Yuke Zhu}},
+  year = {2025},
+  eprint = {2503.14734v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.14734v2},
+  note = {First published: 2025-03-18; Recorded arXiv version: v2; Recorded version updated: 2025-03-27T02:52:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

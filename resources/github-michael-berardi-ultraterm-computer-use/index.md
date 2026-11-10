@@ -1,3 +1,11 @@
+---
+title: "UltraTerm Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-michael-berardi-ultraterm-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UltraTerm Computer Use
 
 Local desktop automation plugin for MCP-capable agents on macOS, Linux, and Windows.

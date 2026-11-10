@@ -1,3 +1,11 @@
+---
+title: "MVISU-Bench: Benchmarking Mobile Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-09057/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions
 
 MVISU-Bench 评估双语移动端任务，涵盖跨应用操作、模糊请求、用户交互、不道德指令及普通单应用任务；其 Aider 提示模块旨在智能体工作流中澄清意图并降低高风险执行。
@@ -27,6 +35,18 @@ Zeyu Huang, Juyuan Wang, Longfeng Chen, Boyi Xiao, Leng Cai, Yawen Zeng, Jin Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-09057/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-09057/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_09057,
+  title = {{MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions}},
+  author = {{Zeyu Huang} and {Juyuan Wang} and {Longfeng Chen} and {Boyi Xiao} and {Leng Cai} and {Yawen Zeng} and {Jin Xu}},
+  year = {2025},
+  eprint = {2508.09057v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.09057v2},
+  note = {First published: 2025-08-12; Recorded arXiv version: v2; Recorded version updated: 2025-08-14T16:36:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

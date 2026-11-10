@@ -1,3 +1,11 @@
+---
+title: "jiamingzz/lgwm | AwesomeCUA"
+url: https://awesomecua.com/resources/url-512cd7335068b2c17859/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # jiamingzz/lgwm
 
 Released weights for a GUI world model that predicts a screen representation after an action and checks the observed transition, with a separate harm scoring head.

@@ -1,3 +1,11 @@
+---
+title: "Muse Spark 1.1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f8a956094e526a92caf3/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Muse Spark 1.1
 
 Meta 超级智能实验室推出的多模态推理模型，面向智能体任务，经训练可在跨多个应用的计算机操作流程中选择编写脚本或直接点击界面。

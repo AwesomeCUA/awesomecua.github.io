@@ -1,3 +1,11 @@
+---
+title: "Learn where to Click from Yourself: On-Policy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-00642/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding
 
 Introduces GUI-SD, an on-policy self-distillation method for locating GUI elements from instructions, using a visually enriched teacher context and entropy-guided token weighting.
@@ -26,6 +34,18 @@ Yan Zhang, Daiqing Wu, Huawen Shen, Can Ma, Yu Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-00642/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-00642/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_00642,
+  title = {{Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding}},
+  author = {{Yan Zhang} and {Daiqing Wu} and {Huawen Shen} and {Can Ma} and {Yu Zhou}},
+  year = {2026},
+  eprint = {2605.00642v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.00642v3},
+  note = {First published: 2026-05-01; Recorded arXiv version: v3; Recorded version updated: 2026-05-10T03:40:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

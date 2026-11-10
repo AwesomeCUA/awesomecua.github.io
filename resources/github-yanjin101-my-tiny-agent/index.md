@@ -1,3 +1,11 @@
+---
+title: "my_tiny_agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yanjin101-my-tiny-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # my_tiny_agent
 
 Spec-driven small-LLM desktop agent that operates Windows end-to-end using OCR, YOLO icon detection, and Win32 APIs without a VLM.

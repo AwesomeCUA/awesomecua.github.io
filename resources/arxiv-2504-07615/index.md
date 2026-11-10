@@ -1,3 +1,11 @@
+---
+title: "VLM-R1: A Stable and Generalizable R1-style… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-07615/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model
 
 Bibliographic record for VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haozhan Shen, Peng Liu, Jingcheng Li, Chunxin Fang, Yibo Ma, Jiajia Liao, Qiaoli
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-07615/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-07615/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_07615,
+  title = {{VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model}},
+  author = {{Haozhan Shen} and {Peng Liu} and {Jingcheng Li} and {Chunxin Fang} and {Yibo Ma} and {Jiajia Liao} and {Qiaoli Shen} and {Zilun Zhang} and {Kangjia Zhao} and {Qianqian Zhang} and {Ruochen Xu} and {Tiancheng Zhao}},
+  year = {2025},
+  eprint = {2504.07615v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.07615v2},
+  note = {First published: 2025-04-10; Recorded arXiv version: v2; Recorded version updated: 2025-04-14T15:15:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Pix2Act · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Pix2Act
 
 Pix2Act 提供用于 MiniWoB++ 纯像素 GUI 智能体的 JAX/T5X 训练与评测代码，采用行为克隆和树搜索。

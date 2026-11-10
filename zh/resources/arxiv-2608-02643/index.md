@@ -1,3 +1,11 @@
+---
+title: "CUADebug: Diagnosing and Repairing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-02643/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CUADebug: Diagnosing and Repairing Computer-Use Agent Failures
 
 CUADebug 结合故障分类、人工标注的 OSWorld 失败轨迹，以及根据截图和动作记录定位致因步骤并提出修正的智能体；分别评估根因诊断、受控任务重新执行和失败恢复。
@@ -27,6 +35,18 @@ Weijia Zhang, Kunlun Zhu, Zeyi Liu, Yinting Chen, Tianyi Ma, Jiateng Liu, Jiaxun
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-02643/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-02643/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_02643,
+  title = {{CUADebug: Diagnosing and Repairing Computer-Use Agent Failures}},
+  author = {{Weijia Zhang} and {Kunlun Zhu} and {Zeyi Liu} and {Yinting Chen} and {Tianyi Ma} and {Jiateng Liu} and {Jiaxun Zhang} and {Bingxuan Li} and {Xiangru Tang} and {Heng Ji} and {Jiaxuan You}},
+  year = {2026},
+  eprint = {2608.02643v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.02643v2},
+  note = {First published: 2026-07-31; Recorded arXiv version: v2; Recorded version updated: 2026-09-06T04:43:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

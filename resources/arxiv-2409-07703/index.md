@@ -1,3 +1,11 @@
+---
+title: "DSBench: How Far Are Data Science Agents from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-07703/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?
 
 Status: excluded from the active CUA catalog after scope review.

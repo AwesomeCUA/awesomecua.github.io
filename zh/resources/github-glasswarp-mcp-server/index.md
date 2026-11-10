@@ -1,3 +1,11 @@
+---
+title: "Glasswarp MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-glasswarp-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Glasswarp MCP Server
 
 远程 Model Context Protocol 服务器，可通过 Glasswarp 观察并控制物理或虚拟 Windows PC。

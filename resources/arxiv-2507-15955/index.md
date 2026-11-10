@@ -1,3 +1,11 @@
+---
+title: "Impact of finite squeezing on near-term… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-15955/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Impact of finite squeezing on near-term quantum computations using GKP qubits
 
 Status: excluded from the active CUA catalog after scope review.

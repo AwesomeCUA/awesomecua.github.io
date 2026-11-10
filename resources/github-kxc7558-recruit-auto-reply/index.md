@@ -1,3 +1,11 @@
+---
+title: "Recruit Auto-Reply | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kxc7558-recruit-auto-reply/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Recruit Auto-Reply
 
 Local browser-extension agent for recruiting platforms that answers candidate messages from a retrieval knowledge base and escalates unknowns.

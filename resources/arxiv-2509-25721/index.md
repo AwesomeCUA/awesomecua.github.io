@@ -1,3 +1,11 @@
+---
+title: "The AI Productivity Index (APEX) | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-25721/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # The AI Productivity Index (APEX)
 
 Bibliographic record for The AI Productivity Index (APEX). Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bertie Vidgen, Abby Fennelly, Evan Pinnix, Julien Benchek, Daniyal Khan, Zach Ri
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-25721/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-25721/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_25721,
+  title = {{The AI Productivity Index (APEX)}},
+  author = {{Bertie Vidgen} and {Abby Fennelly} and {Evan Pinnix} and {Julien Benchek} and {Daniyal Khan} and {Zach Richards} and {Austin Bridges} and {Calix Huang} and {Kanishka Sahu} and {Abhishek Kottamasu} and {Bo Ma} and {Ben Hunsberger} and {Isaac Robinson} and {Akul Datta} and {Chirag Mahapatra} and {Dominic Barton} and {Cass R. Sunstein} and {Eric Topol} and {Brendan Foody} and {Osvald Nitski}},
+  year = {2025},
+  eprint = {2509.25721v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.25721v6},
+  note = {First published: 2025-09-30; Recorded arXiv version: v6; Recorded version updated: 2025-12-16T22:25:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

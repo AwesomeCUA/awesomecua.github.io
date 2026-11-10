@@ -1,3 +1,11 @@
+---
+title: "Windows Agent Arena: Evaluating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-08264/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale
 
 将真实桌面环境中的评估扩展到 Windows 应用，并支持并行执行基准任务。
@@ -27,6 +35,18 @@ Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinhen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-08264/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-08264/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_08264,
+  title = {{Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale}},
+  author = {{Rogerio Bonatti} and {Dan Zhao} and {Francesco Bonacci} and {Dillon Dupont} and {Sara Abdali} and {Yinheng Li} and {Yadong Lu} and {Justin Wagle} and {Kazuhito Koishida} and {Arthur Bucker} and {Lawrence Jang} and {Zack Hui}},
+  year = {2024},
+  eprint = {2409.08264v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.08264v2},
+  note = {First published: 2024-09-12; Recorded arXiv version: v2; Recorded version updated: 2024-09-13T20:17:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

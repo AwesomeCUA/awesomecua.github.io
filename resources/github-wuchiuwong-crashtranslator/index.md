@@ -1,3 +1,11 @@
+---
+title: "CrashTranslator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # CrashTranslator
 
 CrashTranslator generates Android app interactions to reproduce crashes from stack traces. The repository provides code, data and setup instructions for emulator-based runs.

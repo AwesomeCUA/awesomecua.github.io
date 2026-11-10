@@ -1,3 +1,11 @@
+---
+title: "dsh-socai · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-socai-io-dsh-socai/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-socai
 
 DeepSeek Harness 插件，用于通过浏览器开展小红书内容研究和提取。

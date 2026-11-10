@@ -1,3 +1,11 @@
+---
+title: "Navigating to Objects Specified by Images | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-01192/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Navigating to Objects Specified by Images
 
 Bibliographic record for Navigating to Objects Specified by Images. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jacob Krantz, Theophile Gervet, Karmesh Yadav, Austin Wang, Chris Paxton, Roozbe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-01192/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-01192/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_01192,
+  title = {{Navigating to Objects Specified by Images}},
+  author = {{Jacob Krantz} and {Theophile Gervet} and {Karmesh Yadav} and {Austin Wang} and {Chris Paxton} and {Roozbeh Mottaghi} and {Dhruv Batra} and {Jitendra Malik} and {Stefan Lee} and {Devendra Singh Chaplot}},
+  year = {2023},
+  eprint = {2304.01192v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.01192v1},
+  note = {First published: 2023-04-03; Recorded arXiv version: v1; Recorded version updated: 2023-04-03T17:58:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

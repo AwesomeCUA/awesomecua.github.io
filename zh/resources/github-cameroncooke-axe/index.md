@@ -1,3 +1,11 @@
+---
+title: "AXe · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cameroncooke-axe/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # AXe
 
 一款用于 iOS 模拟器自动化的命令行工具，通过无障碍 API 读取界面，并发送 HID 点击、滑动和文本输入，同时支持截图与视频录制。

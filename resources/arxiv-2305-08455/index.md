@@ -1,3 +1,11 @@
+---
+title: "Document Understanding Dataset and Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-08455/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Document Understanding Dataset and Evaluation (DUDE)
 
 Bibliographic record for Document Understanding Dataset and Evaluation (DUDE). Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jordy Van Landeghem, Rubén Tito, Łukasz Borchmann, Michał Pietruszka, Paweł 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-08455/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-08455/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_08455,
+  title = {{Document Understanding Dataset and Evaluation (DUDE)}},
+  author = {{Jordy Van Landeghem} and {Rubén Tito} and {Łukasz Borchmann} and {Michał Pietruszka} and {Paweł Józiak} and {Rafał Powalski} and {Dawid Jurkiewicz} and {Mickaël Coustaty} and {Bertrand Ackaert} and {Ernest Valveny} and {Matthew Blaschko} and {Sien Moens} and {Tomasz Stanisławek}},
+  year = {2023},
+  eprint = {2305.08455v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.08455v3},
+  note = {First published: 2023-05-15; Recorded arXiv version: v3; Recorded version updated: 2023-09-11T10:36:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

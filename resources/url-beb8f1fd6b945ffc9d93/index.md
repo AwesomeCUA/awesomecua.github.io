@@ -1,3 +1,11 @@
+---
+title: "GUI-SAGE: Enhancing GUI Automation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning
 
 GUI-SAGE generates reasoning conditioned on known actions and weights policy updates using confidence and reward signals. Its experiments use AndroidControl and GUIOdyssey data and separately evaluate interactive AndroidWorld tasks.
@@ -26,6 +34,19 @@ Fei Tang, Zhangxuan Gu, Zhengxi Lu, Shangzhan Zhang, Zhengwen Zeng, Shuheng Shen
 
 - BibTeX: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/citation.csl.json
+
+```bibtex
+@inproceedings{cua_a6fbf231c6d3a11f67403503,
+  title = {{GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning}},
+  author = {{Fei Tang} and {Zhangxuan Gu} and {Zhengxi Lu} and {Shangzhan Zhang} and {Zhengwen Zeng} and {Shuheng Shen} and {Changhua Meng} and {Yuchen Yan} and {Wenqi Zhang} and {Yongliang Shen} and {Weiming Lu} and {Yueting Zhuang}},
+  year = {2026},
+  month = jun,
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages = {13007-13016},
+  url = {https://openaccess.thecvf.com/content/CVPR2026/html/Tang\_GUI-SAGE\_Enhancing\_GUI\_Automation\_with\_Self-Explanatory\_Learning\_CVPR\_2026\_paper.html},
+  note = {Publication date: 2026-06.}
+}
+```
 
 ## Publication record
 

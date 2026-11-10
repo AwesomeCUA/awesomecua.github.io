@@ -1,3 +1,11 @@
+---
+title: "Locus Platform | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nahid-sparktales-locus-platform/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Locus Platform
 
 Shared agent runtime, protocol contracts, and browser bridge for the Locus automation ecosystem.

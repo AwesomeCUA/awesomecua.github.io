@@ -1,3 +1,11 @@
+---
+title: "Pagecast MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcpware-pagecast/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Pagecast MCP
 
 基于 Playwright 和 FFmpeg 的 Model Context Protocol 服务器，将浏览器智能体的交互录制为 GIF 或 MP4 视频。

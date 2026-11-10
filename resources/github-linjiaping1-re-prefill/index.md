@@ -1,3 +1,11 @@
+---
+title: "Re-Prefill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-linjiaping1-re-prefill/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Re-Prefill
 
 Re-Prefill calibrates prefill visual attention representations in vision-language models to improve zero-shot GUI grounding accuracy.

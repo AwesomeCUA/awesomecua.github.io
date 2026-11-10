@@ -1,3 +1,11 @@
+---
+title: "Veeva Vault Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-veeva-vault-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Veeva Vault Browser Automation
 
 面向 Veeva Vault 的浏览器自动化脚手架，提供文档上传、送审、审批和导出审计记录等操作。

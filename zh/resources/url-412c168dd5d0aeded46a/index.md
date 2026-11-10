@@ -1,3 +1,11 @@
+---
+title: "Automating GUI-based Software Testing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-412c168dd5d0aeded46a/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Automating GUI-based Software Testing with GPT-3
 
 一种基于 GPT-3 的 GUI 测试方法解析自然语言测试用例，在提示中加入当前界面元素状态，并操作桌面和移动应用。
@@ -27,6 +35,21 @@ Daniel Zimmermann, Anne Koziolek
 
 - BibTeX：https://awesomecua.com/resources/url-412c168dd5d0aeded46a/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-412c168dd5d0aeded46a/citation.csl.json
+
+```bibtex
+@inproceedings{cua_53a636249b3def01cf60931e,
+  title = {{Automating GUI-based Software Testing with GPT-3}},
+  author = {{Daniel Zimmermann} and {Anne Koziolek}},
+  year = {2023},
+  month = apr,
+  booktitle = {2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)},
+  publisher = {IEEE},
+  pages = {62-65},
+  doi = {10.1109/icstw58534.2023.00022},
+  url = {https://ieeexplore.ieee.org/abstract/document/10132233},
+  note = {Publication date: 2023-04.}
+}
+```
 
 ## 发表记录
 

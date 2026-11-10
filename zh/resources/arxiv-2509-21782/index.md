@@ -1,3 +1,11 @@
+---
+title: "Benchmarking MLLM-based Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-21782/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety
 
 评估多模态 LLM 在网页界面推理、应对视觉扰动以及安全关键的网页理解任务上的表现。
@@ -27,6 +35,18 @@ Junliang Liu, Jingyu Xiao, Wenxin Tang, Zhixian Wang, Zipeng Xie, Wenxuan Wang, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-21782/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-21782/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21782,
+  title = {{Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety}},
+  author = {{Junliang Liu} and {Jingyu Xiao} and {Wenxin Tang} and {Zhixian Wang} and {Zipeng Xie} and {Wenxuan Wang} and {Minrui Zhang} and {Shuanghe Yu}},
+  year = {2025},
+  eprint = {2509.21782v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21782v2},
+  note = {First published: 2025-09-26; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T16:31:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

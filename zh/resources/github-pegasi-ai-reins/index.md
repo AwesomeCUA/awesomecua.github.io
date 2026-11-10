@@ -1,3 +1,11 @@
+---
+title: "Reins · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pegasi-ai-reins/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Reins
 
 Reins 是运行时安全防护和策略执行层，可拦截未经授权的 AI 智能体工具调用并加以管控。

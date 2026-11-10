@@ -1,3 +1,11 @@
+---
+title: "A Survey on Agentic Multimodal Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-10991/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # A Survey on Agentic Multimodal Large Language Models
 
 Bibliographic record for A Survey on Agentic Multimodal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Huanjin Yao, Ruifei Zhang, Jiaxing Huang, Jingyi Zhang, Yibo Wang, Bo Fang, Ruol
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-10991/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-10991/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_10991,
+  title = {{A Survey on Agentic Multimodal Large Language Models}},
+  author = {{Huanjin Yao} and {Ruifei Zhang} and {Jiaxing Huang} and {Jingyi Zhang} and {Yibo Wang} and {Bo Fang} and {Ruolin Zhu} and {Yongcheng Jing} and {Shunyu Liu} and {Guanbin Li} and {Dacheng Tao}},
+  year = {2025},
+  eprint = {2510.10991v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.10991v1},
+  note = {First published: 2025-10-13; Recorded arXiv version: v1; Recorded version updated: 2025-10-13T04:07:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GPT-Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wolfiesch-gpt-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GPT-Control
 
 Cross-model review broker allowing CLI coding agents to drive a signed-in ChatGPT app or web session for structured verification.

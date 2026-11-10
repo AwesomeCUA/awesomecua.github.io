@@ -1,3 +1,11 @@
+---
+title: "Frequency-domain Parallel Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-02689/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Frequency-domain Parallel Computing Using Single On-Chip Nonlinear Acoustic-wave Device
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "SCALE-CUA (THUDM) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-scale-cua/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # SCALE-CUA (THUDM)
 
 Computer-use training framework with VeriGen task synthesis, adaptive rollout sampling, and visual-context segmentation.

@@ -1,3 +1,11 @@
+---
+title: "Codex ChatGPT Web Orchestrator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chicogong-codex-chatgpt-web-orchestrator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex ChatGPT Web Orchestrator
 
 Receipt-driven Codex skill for delegating deep research and artifact generation to a logged-in ChatGPT Web session.

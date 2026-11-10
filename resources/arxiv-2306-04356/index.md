@@ -1,3 +1,11 @@
+---
+title: "Fine-Grained Visual Prompting | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-04356/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Fine-Grained Visual Prompting
 
 Bibliographic record for Fine-Grained Visual Prompting. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Lingfeng Yang, Yueze Wang, Xiang Li, Xinlong Wang, Jian Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-04356/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-04356/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_04356,
+  title = {{Fine-Grained Visual Prompting}},
+  author = {{Lingfeng Yang} and {Yueze Wang} and {Xiang Li} and {Xinlong Wang} and {Jian Yang}},
+  year = {2023},
+  eprint = {2306.04356v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.04356v2},
+  note = {First published: 2023-06-07; Recorded arXiv version: v2; Recorded version updated: 2023-12-12T06:36:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

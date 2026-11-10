@@ -1,3 +1,11 @@
+---
+title: "Advantage-Weighted Regression: Simple and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1910-00177/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "MONDAY annotations | AwesomeCUA"
+url: https://awesomecua.com/resources/url-570654ff67ecefa2b955/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # MONDAY annotations
 
 Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.

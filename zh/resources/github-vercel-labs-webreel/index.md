@@ -1,3 +1,11 @@
+---
+title: "webreel · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vercel-labs-webreel/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # webreel
 
 webreel 按 JSON 定义的操作驱动 Chrome 浏览器，并将交互过程录制成带有光标和按键提示叠加层的视频。

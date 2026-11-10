@@ -1,3 +1,11 @@
+---
+title: "Hierarchical Information-Guided… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-11387/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Hierarchical Information-Guided Spatio-Temporal Mamba for Stock Time Series Forecasting
 
 Status: excluded from the active CUA catalog after scope review.

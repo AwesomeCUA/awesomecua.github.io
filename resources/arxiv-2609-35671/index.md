@@ -1,3 +1,11 @@
+---
+title: "PhoneCLI: From App Interfaces to Callable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35671/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents
 
 Introduces PhoneCLI, which explores mobile app interfaces and compiles navigation paths into reusable commands without internal app APIs or instrumentation. At execution time it verifies compiled paths and falls back to a visual agent for open-ended interaction or failed navigation.
@@ -26,6 +34,18 @@ Yangqin Jiang, Lingrui Xu, Chao Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-35671/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-35671/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35671,
+  title = {{PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents}},
+  author = {{Yangqin Jiang} and {Lingrui Xu} and {Chao Huang}},
+  year = {2026},
+  eprint = {2609.35671v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35671v2},
+  note = {First published: 2026-09-28; Recorded arXiv version: v2; Recorded version updated: 2026-10-05T01:08:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

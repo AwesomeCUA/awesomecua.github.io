@@ -1,3 +1,11 @@
+---
+title: "GUI-Dense-Descriptions · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fd24a394359c59b35c71/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Dense-Descriptions
 
 一个将 GUI 截图与详细文字描述配对的数据集，以包含 1,263 条图文样本的训练集形式发布。

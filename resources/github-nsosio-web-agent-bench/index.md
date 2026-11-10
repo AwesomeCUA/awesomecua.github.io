@@ -1,3 +1,11 @@
+---
+title: "web-agent-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nsosio-web-agent-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # web-agent-bench
 
 web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-browser, Stagehand) on token usage, latency, and task completion.

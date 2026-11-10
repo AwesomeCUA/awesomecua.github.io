@@ -1,3 +1,11 @@
+---
+title: "SWE-Marathon: Can Agents Autonomously… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-07682/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "AutoGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-significant-gravitas-autogpt/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoGPT
 
 AutoGPT is an open-source autonomous agent platform for building, orchestrating, and running multi-step web and workspace automation agents.

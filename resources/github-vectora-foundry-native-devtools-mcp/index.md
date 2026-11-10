@@ -1,3 +1,11 @@
+---
+title: "native-devtools-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # native-devtools-mcp
 
 Local Rust MCP server for operating macOS and Windows apps, Chrome or Electron pages over CDP, and Android devices over ADB, with screenshots, OCR, accessibility lookup, input and template matching.

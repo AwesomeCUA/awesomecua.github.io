@@ -1,3 +1,11 @@
+---
+title: "PRAXOVELA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-axisvela-praxovela-open/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PRAXOVELA
 
 Governable, local-first desktop agent runtime with policy enforcement and auditable execution traces.

@@ -1,3 +1,11 @@
+---
+title: "OSUniverse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentsea-osuniverse/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # OSUniverse
 
 OSUniverse is a task-oriented desktop benchmark for evaluating vision-based multimodal GUI navigation agents across operating-system applications.

@@ -1,3 +1,11 @@
+---
+title: "Smol2Operator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-huggingface-smol2operator/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # Smol2Operator
 
 Hugging Face recipe that converts Aguvis GUI data into one normalized action space and fine-tunes SmolVLM2-2.2B in two phases, first for screenshot grounding and then for agentic GUI action code.

@@ -1,3 +1,11 @@
+---
+title: "FRAMEWORKERS: A Dynamic Multi-Agent Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-29814/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FRAMEWORKERS: A Dynamic Multi-Agent Framework for AI-Generated Video Production
 
 Status: excluded from the active CUA catalog after scope review.

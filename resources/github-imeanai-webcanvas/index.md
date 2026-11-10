@@ -1,3 +1,11 @@
+---
+title: "WebCanvas | AwesomeCUA"
+url: https://awesomecua.com/resources/github-imeanai-webcanvas/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # WebCanvas
 
 Framework and evaluation resources for real-world web agents.

@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 35B-A3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0c9ce9f220b2fdfd70b0/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo3.1 35B-A3B
 
 H Company Holo3.1 系列的 35B-A3B 检查点，采用稀疏混合专家视觉语言架构，面向网页、桌面和移动端计算机使用，原生支持函数调用。

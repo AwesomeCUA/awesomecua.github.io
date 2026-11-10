@@ -1,3 +1,11 @@
+---
+title: "Mnemis: Dual-Route Retrieval on Hierarchical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-15313/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory
 
 Bibliographic record for Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zihao Tang, Xin Yu, Ziyu Xiao, Zengxuan Wen, Zelin Li, Jiaxi Zhou, Hualei Wang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-15313/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-15313/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_15313,
+  title = {{Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory}},
+  author = {{Zihao Tang} and {Xin Yu} and {Ziyu Xiao} and {Zengxuan Wen} and {Zelin Li} and {Jiaxi Zhou} and {Hualei Wang} and {Haohua Wang} and {Haizhen Huang} and {Weiwei Deng} and {Feng Sun} and {Qi Zhang}},
+  year = {2026},
+  eprint = {2602.15313v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.15313v2},
+  note = {First published: 2026-02-17; Recorded arXiv version: v2; Recorded version updated: 2026-04-10T04:08:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "uiacli (Windows UI Automation CLI) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amitse-uiacli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # uiacli (Windows UI Automation CLI)
 
 通过结构化 UI Automation 树和 CLI 命令，让 AI 智能体能够操作 Windows 桌面应用。

@@ -1,3 +1,11 @@
+---
+title: "AutoGUIWorld: Image Generators as Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-01215/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AutoGUIWorld: Image Generators as Visual World Models for GUI Agent
 
 Introduces AutoGUIWorld, which combines task planning and image editing to synthesize action-grounded GUI trajectories without running the depicted software. It filters generated transitions and tests whether training on them improves agents operating real desktop and scientific applications.
@@ -26,6 +34,18 @@ Cheng Yang, Yifan Wu, Yutao Huang, Zhaohua Zhang, Beiduo Chen, Muxi Chen, Chench
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-01215/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-01215/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_01215,
+  title = {{AutoGUIWorld: Image Generators as Visual World Models for GUI Agent}},
+  author = {{Cheng Yang} and {Yifan Wu} and {Yutao Huang} and {Zhaohua Zhang} and {Beiduo Chen} and {Muxi Chen} and {Chenchen Zhao} and {Hexuan Deng} and {Haolin Yang} and {Geyuan Zhu} and {Sa Zhu} and {Jianhuan Zhuo} and {Qiuyong Xiao} and {Jianhao Ruan} and {Yiran Peng} and {Jiayi Zhang} and {Tian Ye} and {Xinlei Yu} and {Tianwen Jiang} and {Jihong Zhang} and {Yuyu Luo}},
+  year = {2026},
+  eprint = {2610.01215v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.01215v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T07:22:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

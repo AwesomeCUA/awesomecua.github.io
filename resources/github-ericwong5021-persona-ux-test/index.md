@@ -1,3 +1,11 @@
+---
+title: "Persona UX Test | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Persona UX Test
 
 Blind-tests web and desktop user interfaces using isolated AI personas that interact strictly through rendered screens.

@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor 2B Qwen2-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e42b286fd85b62bd7bb1/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Actor 2B Qwen2-VL
 
 GUI-Actor 元素定位检查点基于 Qwen2-VL-2B-Instruct，以注意力操作头根据截图上的指令提出排序后的点击点，不以文本输出坐标。

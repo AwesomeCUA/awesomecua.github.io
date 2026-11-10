@@ -1,3 +1,11 @@
+---
+title: "VisRefiner: Learning from Visual Differences… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-05998/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation
 
 Bibliographic record for VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jie Deng, Kaichun Yao, Libo Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-05998/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-05998/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_05998,
+  title = {{VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation}},
+  author = {{Jie Deng} and {Kaichun Yao} and {Libo Zhang}},
+  year = {2026},
+  eprint = {2602.05998v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.05998v1},
+  note = {First published: 2026-02-05; Recorded arXiv version: v1; Recorded version updated: 2026-02-05T18:45:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

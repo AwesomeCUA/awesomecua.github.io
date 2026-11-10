@@ -1,3 +1,11 @@
+---
+title: "Voyager: An Open-Ended Embodied Agent with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-16291/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Voyager: An Open-Ended Embodied Agent with Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

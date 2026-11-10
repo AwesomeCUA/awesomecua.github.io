@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/model/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体模型
 
 计算机使用模型是读取屏幕、输出目标坐标或动作的视觉语言模型和 GUI 专用检查点。条目包括模型系列和已发布的检查点，其中许多托管在 Hugging Face。

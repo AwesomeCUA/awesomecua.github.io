@@ -1,3 +1,11 @@
+---
+title: "agent-desktop (macOS Multi-Account… · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dianavocado181-agent-desktop/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # agent-desktop (macOS Multi-Account Sandbox)
 
 为 AI 计算机使用智能体提供专用 macOS 用户账户和隔离的桌面会话，并可从主屏幕实时查看。

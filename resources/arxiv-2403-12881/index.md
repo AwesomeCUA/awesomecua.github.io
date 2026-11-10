@@ -1,3 +1,11 @@
+---
+title: "Agent-FLAN: Designing Data and Methods of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-12881/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

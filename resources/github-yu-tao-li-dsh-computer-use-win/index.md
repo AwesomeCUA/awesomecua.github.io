@@ -1,3 +1,11 @@
+---
+title: "yu-tao-li dsh-computer-use-win | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yu-tao-li-dsh-computer-use-win/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # yu-tao-li dsh-computer-use-win
 
 Windows computer-use npm package for DeepSeek Harness supporting UI Automation trees, OCR grounding, and background window control.

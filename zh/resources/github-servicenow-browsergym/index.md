@@ -1,3 +1,11 @@
+---
+title: "BrowserGym · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-servicenow-browsergym/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # BrowserGym
 
 为浏览器智能体任务和基准环境提供统一接口。

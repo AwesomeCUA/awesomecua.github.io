@@ -1,13 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 21 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/21/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 21 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/21/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [selenium-mcp](https://awesomecua.com/zh/resources/github-gaforov-selenium-mcp/)
-- [Self-Hosted Cloud Browser MCP](https://awesomecua.com/zh/resources/github-bk927-cloud-browser-mcp/)
-- [Semantic GUI Control Layer (SGCL)](https://awesomecua.com/zh/resources/github-frankbria-semantic-gui-control/)
-- [Semantic Kernel](https://awesomecua.com/zh/resources/github-microsoft-semantic-kernel/)
 - [Sensory-Grounding MCP](https://awesomecua.com/zh/resources/github-luclinocruz-lucross-sensory-grounding-mcp/)
 - [sentineldesk-agent](https://awesomecua.com/zh/resources/github-sentineldesk-agent/)
 - [serial-hid-kvm](https://awesomecua.com/zh/resources/github-sunasaji-serial-hid-kvm/)
@@ -64,3 +68,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/21/
 - [terminal-use-mcp](https://awesomecua.com/zh/resources/github-hlh2023-terminal-use-mcp/)
 - [Terminator](https://awesomecua.com/zh/resources/github-mediar-ai-terminator/)
 - [Termux Browser Pilot](https://awesomecua.com/zh/resources/github-salviz-termux-browser-pilot/)
+- [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)
+- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)
+- [ThinkRun](https://awesomecua.com/zh/resources/github-dundas-thinkrun/)
+- [Threadline WebMCP](https://awesomecua.com/zh/resources/github-jameswirths-threadline/)

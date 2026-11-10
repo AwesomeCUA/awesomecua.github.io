@@ -1,3 +1,11 @@
+---
+title: "webarena-setup · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gasse-webarena-setup/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # webarena-setup
 
 一组 Shell 脚本，用于加载 WebArena 和 VisualWebArena 的 Docker 镜像，创建并修补站点容器，提供主页，并可在两次智能体评测之间运行重置服务。

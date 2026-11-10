@@ -1,3 +1,11 @@
+---
+title: "An Information Theoretic Perspective on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-21720/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # An Information Theoretic Perspective on Agentic System Design
 
 Bibliographic record for An Information Theoretic Perspective on Agentic System Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Shizhe He, Avanika Narayan, Ishan S. Khare, Scott W. Linderman, Christopher Ré,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-21720/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-21720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_21720,
+  title = {{An Information Theoretic Perspective on Agentic System Design}},
+  author = {{Shizhe He} and {Avanika Narayan} and {Ishan S. Khare} and {Scott W. Linderman} and {Christopher Ré} and {Dan Biderman}},
+  year = {2025},
+  eprint = {2512.21720v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.21720v1},
+  note = {First published: 2025-12-25; Recorded arXiv version: v1; Recorded version updated: 2025-12-25T15:45:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

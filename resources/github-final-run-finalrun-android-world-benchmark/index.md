@@ -1,3 +1,11 @@
+---
+title: "Finalrun Agentic Approach | AwesomeCUA"
+url: https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Finalrun Agentic Approach
 
 Illustrated account of FinalRun's Android agent approach, with task walkthroughs and recordings showing screen observation, action planning, and state checks.

@@ -1,3 +1,11 @@
+---
+title: "CAMEL: Communicative Agents for \"Mind\"… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-17760/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society
 
 Status: excluded from the active CUA catalog after scope review.

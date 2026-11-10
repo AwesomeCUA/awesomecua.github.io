@@ -1,3 +1,11 @@
+---
+title: "AutoDroid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobilellm-autodroid/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # AutoDroid
 
 LLM-powered Android task automation built on DroidBot, released with DroidTask, a dataset of per-app screenshots, view hierarchies, exploration records and ground-truth task files.

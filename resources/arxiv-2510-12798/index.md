@@ -1,3 +1,11 @@
+---
+title: "Detect Anything via Next Point Prediction | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-12798/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Detect Anything via Next Point Prediction
 
 Introduces Rex-Omni, a general visual perception model trained for coordinate prediction; GUI grounding is one capability evaluated alongside detection and OCR.
@@ -26,6 +34,18 @@ Qing Jiang, Junan Huo, Xingyu Chen, Yuda Xiong, Zhaoyang Zeng, Yihao Chen, Tianh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-12798/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-12798/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_12798,
+  title = {{Detect Anything via Next Point Prediction}},
+  author = {{Qing Jiang} and {Junan Huo} and {Xingyu Chen} and {Yuda Xiong} and {Zhaoyang Zeng} and {Yihao Chen} and {Tianhe Ren} and {Junzhi Yu} and {Lei Zhang}},
+  year = {2025},
+  eprint = {2510.12798v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.12798v1},
+  note = {First published: 2025-10-14; Recorded arXiv version: v1; Recorded version updated: 2025-10-14T17:59:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ff7b1873a3eead89607a/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA 7B
 
 基于 Qwen2.5-VL 的计算机使用模型检查点，支持在桌面、移动端和网页界面上以直接定位和智能体操作模式运行。

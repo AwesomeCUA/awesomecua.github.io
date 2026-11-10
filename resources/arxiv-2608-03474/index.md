@@ -1,3 +1,11 @@
+---
+title: "MT-Web2Code: Benchmarking Coding Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-03474/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification
 
 Bibliographic record for MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiming Li, Shujie Hu, Haohan Liu, Xiaocheng Feng, Songxiang Liu, Guanglu Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-03474/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-03474/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_03474,
+  title = {{MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification}},
+  author = {{Qiming Li} and {Shujie Hu} and {Haohan Liu} and {Xiaocheng Feng} and {Songxiang Liu} and {Guanglu Wan}},
+  year = {2026},
+  eprint = {2608.03474v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.03474v1},
+  note = {First published: 2026-08-04; Recorded arXiv version: v1; Recorded version updated: 2026-08-04T11:14:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

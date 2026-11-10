@@ -1,3 +1,11 @@
+---
+title: "WebDancer: Towards Autonomous Information… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-22648/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WebDancer: Towards Autonomous Information Seeking Agency
 
 Bibliographic record for WebDancer: Towards Autonomous Information Seeking Agency. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jialong Wu, Baixuan Li, Runnan Fang, Wenbiao Yin, Liwen Zhang, Zhengwei Tao, Din
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-22648/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-22648/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_22648,
+  title = {{WebDancer: Towards Autonomous Information Seeking Agency}},
+  author = {{Jialong Wu} and {Baixuan Li} and {Runnan Fang} and {Wenbiao Yin} and {Liwen Zhang} and {Zhengwei Tao} and {Dingchu Zhang} and {Zekun Xi} and {Gang Fu} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2505.22648v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.22648v3},
+  note = {First published: 2025-05-28; Recorded arXiv version: v3; Recorded version updated: 2025-08-10T06:05:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

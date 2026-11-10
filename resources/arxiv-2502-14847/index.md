@@ -1,3 +1,11 @@
+---
+title: "Red-Teaming LLM Multi-Agent Systems via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-14847/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Red-Teaming LLM Multi-Agent Systems via Communication Attacks
 
 Bibliographic record for Red-Teaming LLM Multi-Agent Systems via Communication Attacks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Pengfei He, Yupin Lin, Shen Dong, Han Xu, Yue Xing, Hui Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-14847/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-14847/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_14847,
+  title = {{Red-Teaming LLM Multi-Agent Systems via Communication Attacks}},
+  author = {{Pengfei He} and {Yupin Lin} and {Shen Dong} and {Han Xu} and {Yue Xing} and {Hui Liu}},
+  year = {2025},
+  eprint = {2502.14847v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.14847v2},
+  note = {First published: 2025-02-20; Recorded arXiv version: v2; Recorded version updated: 2025-06-02T01:51:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

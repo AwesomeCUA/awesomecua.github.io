@@ -1,3 +1,11 @@
+---
+title: "cliclick · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bluem-cliclick/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # cliclick
 
 一个在 macOS 上执行鼠标和键盘操作的命令行工具。它可从命令参数或文件读取操作指令，用于脚本化控制桌面。

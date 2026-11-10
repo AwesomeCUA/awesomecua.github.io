@@ -1,3 +1,11 @@
+---
+title: "Appwalk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kubstack-appwalk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Appwalk
 
 AI-powered CLI that explores a web application in a browser and compiles the run into verified Playwright test suites.

@@ -1,3 +1,11 @@
+---
+title: "MobilePilot Runtime | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MobilePilot Runtime
 
 MobilePilot is an auditable Android GUI agent runtime with structured action verification, on-demand UI trees, and bounded error recovery.

@@ -1,3 +1,11 @@
+---
+title: "MobileBench-OL · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaomi-research-mobilebench-ol/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # MobileBench-OL
 
 MobileBench-OL 提供在线评测测试框架，在真实 Android 设备上测试移动端 GUI 智能体，并动态验证任务。

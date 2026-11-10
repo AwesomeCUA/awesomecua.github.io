@@ -1,3 +1,11 @@
+---
+title: "PhysEvolve: Verifier-grounded Self-evolution… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34921/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds
 
 Bibliographic record for PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jinyuan Hu, Yilei Jiang, Chen Tang, Minghong Cai, Xinran Liu, Xiangyu Yue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34921/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34921/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34921,
+  title = {{PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds}},
+  author = {{Jinyuan Hu} and {Yilei Jiang} and {Chen Tang} and {Minghong Cai} and {Xinran Liu} and {Xiangyu Yue}},
+  year = {2026},
+  eprint = {2610.34921v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34921v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T06:50:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

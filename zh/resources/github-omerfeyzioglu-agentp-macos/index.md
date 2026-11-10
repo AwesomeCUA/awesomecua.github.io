@@ -1,3 +1,11 @@
+---
+title: "AgentP · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-omerfeyzioglu-agentp-macos/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AgentP
 
 AgentP 是一个快速 macOS 计算机使用智能体，由 Gemini 进行一次规划，再由本地 Jev System-One 模型通过 Accessibility API 执行各步骤。

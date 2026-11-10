@@ -1,3 +1,11 @@
+---
+title: "Grounding Task Assistance with Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-01578/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Grounding Task Assistance with Multimodal Cues from a Single Demonstration
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "agent-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kortix-ai-agent-computer-use/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # agent-computer-use
 
 Rust CLI (agent-cu) that lets agents snapshot desktop app accessibility trees into element refs or selectors and click, type, scroll or drag through AX on macOS, UI Automation on Windows and AT-SPI2 on Linux.

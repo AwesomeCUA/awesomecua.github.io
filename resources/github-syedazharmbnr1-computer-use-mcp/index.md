@@ -1,3 +1,11 @@
+---
+title: "macOS Computer Use MCP Server (33 Tools) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-syedazharmbnr1-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macOS Computer Use MCP Server (33 Tools)
 
 Python Model Context Protocol server exposing 33 tools for macOS screen capture, Accessibility inspection, and input control.

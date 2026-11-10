@@ -1,3 +1,11 @@
+---
+title: "Stable LM 2 1.6B Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-17834/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Stable LM 2 1.6B Technical Report
 
 Status: excluded from the active CUA catalog after scope review.

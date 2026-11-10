@@ -1,3 +1,11 @@
+---
+title: "SOLO · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wzq975-solo/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SOLO
 
 SOLO 在部署期间利用在线自监督反馈，通过单次运行对 GUI 智能体进行测试时适应。

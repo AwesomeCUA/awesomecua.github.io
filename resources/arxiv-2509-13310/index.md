@@ -1,3 +1,11 @@
+---
+title: "Scaling Agents via Continual Pre-training | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-13310/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Scaling Agents via Continual Pre-training
 
 Bibliographic record for Scaling Agents via Continual Pre-training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Liangcai Su, Zhen Zhang, Guangyu Li, Zhuo Chen, Chenxi Wang, Maojia Song, Xinyu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-13310/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-13310/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13310,
+  title = {{Scaling Agents via Continual Pre-training}},
+  author = {{Liangcai Su} and {Zhen Zhang} and {Guangyu Li} and {Zhuo Chen} and {Chenxi Wang} and {Maojia Song} and {Xinyu Wang} and {Kuan Li} and {Jialong Wu} and {Xuanzhong Chen} and {Zile Qiao} and {Zhongwang Zhang} and {Huifeng Yin} and {Shihao Cai} and {Runnan Fang} and {Zhengwei Tao} and {Wenbiao Yin} and {Chenxiong Qian} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2509.13310v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13310v1},
+  note = {First published: 2025-09-16; Recorded arXiv version: v1; Recorded version updated: 2025-09-16T17:57:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

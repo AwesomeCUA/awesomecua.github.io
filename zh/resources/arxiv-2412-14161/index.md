@@ -1,3 +1,11 @@
+---
+title: "TheAgentCompany: Benchmarking LLM Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-14161/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks
 
 模拟软件公司工作环境，评估智能体完成涉及网站、程序、文件及同事沟通的职业任务的能力。
@@ -27,6 +35,18 @@ Frank F. Xu, Yufan Song, Boxuan Li, Yuxuan Tang, Kritanjali Jain, Mengxue Bao, Z
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-14161/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-14161/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_14161,
+  title = {{TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks}},
+  author = {{Frank F. Xu} and {Yufan Song} and {Boxuan Li} and {Yuxuan Tang} and {Kritanjali Jain} and {Mengxue Bao} and {Zora Z. Wang} and {Xuhui Zhou} and {Zhitong Guo} and {Murong Cao} and {Mingyang Yang} and {Hao Yang Lu} and {Amaad Martin} and {Zhe Su} and {Leander Maben} and {Raj Mehta} and {Wayne Chi} and {Lawrence Jang} and {Yiqing Xie} and {Shuyan Zhou} and {Graham Neubig}},
+  year = {2024},
+  eprint = {2412.14161v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.14161v3},
+  note = {First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-09-10T08:35:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

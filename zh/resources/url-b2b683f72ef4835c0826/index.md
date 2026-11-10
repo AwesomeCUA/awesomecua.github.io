@@ -1,3 +1,11 @@
+---
+title: "pix2struct-large · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b2b683f72ef4835c0826/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # pix2struct-large
 
 Pix2Struct 预训练大模型权重，这是一个图像到文本模型，通过将遮挡的网页截图解析为简化 HTML 进行预训练，用于在视觉语言任务上微调。

@@ -1,3 +1,11 @@
+---
+title: "AIris: An AI-powered Wearable Assistive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-07606/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AIris: An AI-powered Wearable Assistive Device for the Visually Impaired
 
 Status: excluded from the active CUA catalog after scope review.

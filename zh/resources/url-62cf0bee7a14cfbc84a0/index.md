@@ -1,3 +1,11 @@
+---
+title: "UI-Ins-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-62cf0bee7a14cfbc84a0/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # UI-Ins-7B
 
 UI-Ins-7B 是界面定位模型，通过多样化指令和强化学习训练，为智能体操作定位界面元素。

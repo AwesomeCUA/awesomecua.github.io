@@ -1,3 +1,11 @@
+---
+title: "appium-adb · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium-adb/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # appium-adb
 
 Android Debug Bridge 封装工具，为 Appium 提供设备操作能力；仓库说明后续开发已转至 appium-android 单体仓库。

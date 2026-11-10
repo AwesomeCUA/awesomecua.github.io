@@ -1,3 +1,11 @@
+---
+title: "Pointerbench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-warmwindos-pointerbench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Pointerbench
 
 Pointerbench 评测计算机使用模型能否根据指令在截图中定位目标，三个子集涵盖电子表格、文本和专业应用界面。

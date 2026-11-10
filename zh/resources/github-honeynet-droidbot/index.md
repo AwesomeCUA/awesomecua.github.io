@@ -1,3 +1,11 @@
+---
+title: "DroidBot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-honeynet-droidbot/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # DroidBot
 
 DroidBot 为 Android 应用测试生成脚本化或模型引导的输入，并记录界面状态转移、视图结构和方法调用轨迹。

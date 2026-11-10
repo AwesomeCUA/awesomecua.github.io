@@ -1,3 +1,11 @@
+---
+title: "WebDreamer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-webdreamer/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # WebDreamer
 
 用于模拟网页操作结果的世界模型与规划组件，并附有训练数据和模型检查点链接。

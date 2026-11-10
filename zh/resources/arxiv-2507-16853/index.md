@@ -1,3 +1,11 @@
+---
+title: "MobileUse: A GUI Agent with Hierarchical… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-16853/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation
 
 MobileUse 按操作和任务两个时间尺度反思错误，按需触发反思，并主动探索陌生应用；在 AndroidWorld 和 AndroidLab 上评估该移动端执行框架，还介绍了实体设备操作工具包。
@@ -27,6 +35,18 @@ Ning Li, Xiangmou Qu, Jiamu Zhou, Jun Wang, Muning Wen, Kounianhua Du, Xingyu Lo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-16853/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-16853/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_16853,
+  title = {{MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation}},
+  author = {{Ning Li} and {Xiangmou Qu} and {Jiamu Zhou} and {Jun Wang} and {Muning Wen} and {Kounianhua Du} and {Xingyu Lou} and {Qiuying Peng} and {Jun Wang} and {Weinan Zhang}},
+  year = {2025},
+  eprint = {2507.16853v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.16853v1},
+  note = {First published: 2025-07-21; Recorded arXiv version: v1; Recorded version updated: 2025-07-21T09:37:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

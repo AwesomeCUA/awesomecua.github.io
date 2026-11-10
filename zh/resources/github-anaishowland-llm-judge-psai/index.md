@@ -1,3 +1,11 @@
+---
+title: "LLM as a Judge for Computer-Use Agents · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anaishowland-llm-judge-psai/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # LLM as a Judge for Computer-Use Agents
 
 LLM 充当评判者的评测测试框架，用于评估计算机使用智能体在网页浏览和桌面交互任务中的轨迹。

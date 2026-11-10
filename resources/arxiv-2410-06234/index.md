@@ -1,3 +1,11 @@
+---
+title: "TEOChat: A Large Vision-Language Assistant… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-06234/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data
 
 Bibliographic record for TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jeremy Andrew Irvin, Emily Ruoyu Liu, Joyce Chuyi Chen, Ines Dormoy, Jinyoung Ki
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-06234/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-06234/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_06234,
+  title = {{TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data}},
+  author = {{Jeremy Andrew Irvin} and {Emily Ruoyu Liu} and {Joyce Chuyi Chen} and {Ines Dormoy} and {Jinyoung Kim} and {Samar Khanna} and {Zhuo Zheng} and {Stefano Ermon}},
+  year = {2024},
+  eprint = {2410.06234v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.06234v2},
+  note = {First published: 2024-10-08; Recorded arXiv version: v2; Recorded version updated: 2025-01-27T01:45:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

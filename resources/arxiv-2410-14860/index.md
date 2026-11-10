@@ -1,3 +1,11 @@
+---
+title: "Universal quantum computation using Ising… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-14860/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal quantum computation using Ising anyons from a non-semisimple Topological Quantum Field Theory
 
 Status: excluded from the active CUA catalog after scope review.

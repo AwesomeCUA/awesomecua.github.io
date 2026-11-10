@@ -1,3 +1,11 @@
+---
+title: "Bardeen | AwesomeCUA"
+url: https://awesomecua.com/resources/url-87bc346934a4117b554c/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Bardeen
 
 Chrome-extension platform for go-to-market teams whose AI scraper navigates sites, clicks, fills forms and pages through results to collect leads, with an AI template builder and a goal-driven agent mode.

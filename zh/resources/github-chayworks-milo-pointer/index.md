@@ -1,3 +1,11 @@
+---
+title: "Milo-Pointer · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chayworks-milo-pointer/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # Milo-Pointer
 
 Milo-Pointer 使用设备端 149M 文本编码器，为移动端手机智能体提供快速的第一层路由和动作选择。

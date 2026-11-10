@@ -1,3 +1,11 @@
+---
+title: "Sidemates · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prisacariurobert-sidemates/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Sidemates
 
 开源桌面 AI 伴侣，可观察活动窗口并协助完成日常计算机任务。

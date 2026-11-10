@@ -1,3 +1,11 @@
+---
+title: "PrzedWysylka WebMCP Lab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-greqone-przedwysylkawebmcplab/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PrzedWysylka WebMCP Lab
 
 Browser-local WebMCP validation lab where agent proposals are verified against JSON schemas before human approval.

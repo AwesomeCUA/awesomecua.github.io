@@ -1,3 +1,11 @@
+---
+title: "WeaveBench (github.com/weavebench/WeaveBench) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-weavebench-weavebench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # WeaveBench
 
 WeaveBench evaluates computer-use agents on long-horizon real-world workflows across hybrid GUI, web, and programmatic tool interfaces.

@@ -1,3 +1,11 @@
+---
+title: "Captr for macOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anaishowland-captr-macos/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Captr for macOS
 
 Captr for macOS records synchronized screen video, keyboard/mouse input, DOM snapshots, and macOS accessibility trees for CUA datasets.

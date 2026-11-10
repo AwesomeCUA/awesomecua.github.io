@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-feaad5e9f2497d1ed9ca/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-2B
 
 InternVL3.5-2B checkpoint with a 0.3B vision encoder and 2.0B language model, from a multimodal family trained with Cascade RL that lists GUI interaction among its capabilities.

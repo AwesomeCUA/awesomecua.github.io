@@ -1,3 +1,11 @@
+---
+title: "Agentic Android · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xdope7137-agentic-android/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Agentic Android
 
 基于 LLM、通过 ADB 操作的 Android 智能体，可读取屏幕、执行点击、滑动和输入动作，并在每一步验证结果。

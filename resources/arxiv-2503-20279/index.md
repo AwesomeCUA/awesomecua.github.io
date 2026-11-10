@@ -1,3 +1,11 @@
+---
+title: "sudo rm -rf agentic_security | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-20279/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # sudo rm -rf agentic_security
 
 Evaluates security failures of computer-use agents under adversarial requests and screen-context manipulation. The study examines refusal behavior while agents perform tasks in desktop and web environments.
@@ -26,6 +34,18 @@ Sejin Lee, Jian Kim, Haon Park, Ashkan Yousefpour, Sangyoon Yu, Min Song
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-20279/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-20279/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_20279,
+  title = {{sudo rm -rf agentic\_security}},
+  author = {{Sejin Lee} and {Jian Kim} and {Haon Park} and {Ashkan Yousefpour} and {Sangyoon Yu} and {Min Song}},
+  year = {2025},
+  eprint = {2503.20279v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.20279v3},
+  note = {First published: 2025-03-26; Recorded arXiv version: v3; Recorded version updated: 2025-06-08T05:39:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

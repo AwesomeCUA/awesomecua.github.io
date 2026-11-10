@@ -1,3 +1,11 @@
+---
+title: "Ruyi (如意) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-icesword0760-ruyi/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Ruyi (如意)
 
 Ruyi 将远程 Chrome 会话流式传输到用户浏览器，供人和 AI 协同控制，并将动作编译为自修复脚本。

@@ -1,3 +1,11 @@
+---
+title: "MemoBrain: Executive Memory as an Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-08079/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MemoBrain: Executive Memory as an Agentic Brain for Reasoning
 
 Bibliographic record for MemoBrain: Executive Memory as an Agentic Brain for Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hongjin Qian, Zhao Cao, Zheng Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-08079/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-08079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_08079,
+  title = {{MemoBrain: Executive Memory as an Agentic Brain for Reasoning}},
+  author = {{Hongjin Qian} and {Zhao Cao} and {Zheng Liu}},
+  year = {2026},
+  eprint = {2601.08079v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.08079v1},
+  note = {First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T23:44:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

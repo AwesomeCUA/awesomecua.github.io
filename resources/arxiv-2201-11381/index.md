@@ -1,3 +1,11 @@
+---
+title: "Gutzwiller wave function on a quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2201-11381/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Gutzwiller wave function on a quantum computer using a discrete Hubbard-Stratonovich transformation
 
 Status: excluded from the active CUA catalog after scope review.

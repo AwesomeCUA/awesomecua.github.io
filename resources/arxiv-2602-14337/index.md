@@ -1,3 +1,11 @@
+---
+title: "LongCLI-Bench: A Preliminary Benchmark and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-14337/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces
 
 Bibliographic record for LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yukang Feng, Jianwen Sun, Zelai Yang, Jiaxin Ai, Chuanhao Li, Zizhen Li, Fanrui 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-14337/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-14337/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_14337,
+  title = {{LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces}},
+  author = {{Yukang Feng} and {Jianwen Sun} and {Zelai Yang} and {Jiaxin Ai} and {Chuanhao Li} and {Zizhen Li} and {Fanrui Zhang} and {Kang He} and {Rui Ma} and {Jifan Lin} and {Jie Sun} and {Yang Xiao} and {Sizhuo Zhou} and {Wenxiao Wu} and {Yiming Liu} and {Pengfei Liu} and {Yu Qiao} and {Shenglin Zhang} and {Kaipeng Zhang}},
+  year = {2026},
+  eprint = {2602.14337v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.14337v2},
+  note = {First published: 2026-02-15; Recorded arXiv version: v2; Recorded version updated: 2026-02-26T11:54:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

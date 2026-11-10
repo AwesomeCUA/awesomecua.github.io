@@ -1,10 +1,17 @@
+---
+title: "界面理解：Computer-Use 研究与资源（第 17 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/screen-understanding/page/17/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 界面理解：Computer-Use 研究与资源（第 17 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/17/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
-- [Vision UI](https://awesomecua.com/zh/resources/github-meituan-dianping-vision-ui/)
 - [vision-bridge](https://awesomecua.com/zh/resources/github-rusnetru-vision-bridge/)
 - [Vision-MCP](https://awesomecua.com/zh/resources/github-haruhiyuki-vision-mcp/)
 - [VisionAX](https://awesomecua.com/zh/resources/github-rao-studios-visionax/)

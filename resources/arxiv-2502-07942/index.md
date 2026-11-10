@@ -1,3 +1,11 @@
+---
+title: "Symbiotic Cooperation for Web Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-07942/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs
 
 Couples large- and small-model web-agent exploration with trajectory synthesis and distillation to improve both model types iteratively.
@@ -26,6 +34,18 @@ Ruichen Zhang, Mufan Qiu, Zhen Tan, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-07942/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-07942/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_07942,
+  title = {{Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs}},
+  author = {{Ruichen Zhang} and {Mufan Qiu} and {Zhen Tan} and {Mohan Zhang} and {Vincent Lu} and {Jie Peng} and {Kaidi Xu} and {Leandro Z. Agudelo} and {Peter Qian} and {Tianlong Chen}},
+  year = {2025},
+  eprint = {2502.07942v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.07942v2},
+  note = {First published: 2025-02-11; Recorded arXiv version: v2; Recorded version updated: 2025-03-06T19:40:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

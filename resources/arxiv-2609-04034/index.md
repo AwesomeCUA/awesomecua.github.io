@@ -1,3 +1,11 @@
+---
+title: "Editable Visual Design | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-04034/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Editable Visual Design
 
 Bibliographic record for Editable Visual Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junyan Ye, Wei Liu, Dongzhi Jiang, Zichen Wen, HaoDong Li, Zhutao Lv, Jiaxin Lin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-04034/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-04034/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_04034,
+  title = {{Editable Visual Design}},
+  author = {{Junyan Ye} and {Wei Liu} and {Dongzhi Jiang} and {Zichen Wen} and {HaoDong Li} and {Zhutao Lv} and {Jiaxin Lin} and {Jinhua Yu} and {Jun He} and {Zilong Huang} and {Rui Chen} and {Weijia Li}},
+  year = {2026},
+  eprint = {2609.04034v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.04034v2},
+  note = {First published: 2026-09-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-04T07:34:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

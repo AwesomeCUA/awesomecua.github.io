@@ -1,3 +1,11 @@
+---
+title: "WebArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-web-arena-x-webarena/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # WebArena
 
 用于评估自主网页智能体的自行托管网页环境和任务。

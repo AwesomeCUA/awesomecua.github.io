@@ -1,3 +1,11 @@
+---
+title: "GUI-CIDER: Mid-training GUI Agents via Causal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-28534/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection
 
 GUI-CIDER turns GUI trajectories into textual planning and causal interface knowledge, reselects exemplars for causal structure and low redundancy, then mid-trains GUI agents on that corpus.
@@ -26,6 +34,18 @@ Zheng Wu, Chengcheng Han, Zhengxi Lu, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Ca
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-28534/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-28534/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_28534,
+  title = {{GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection}},
+  author = {{Zheng Wu} and {Chengcheng Han} and {Zhengxi Lu} and {Tianjie Ju} and {Yanyu Chen} and {Qi Gu} and {Xunliang Cai} and {Zhuosheng Zhang}},
+  year = {2026},
+  eprint = {2605.28534v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.28534v1},
+  note = {First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T14:29:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "OpenPhone_dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e7ea65893ab264517d83/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # OpenPhone_dataset
 
 OpenPhone 移动智能体的训练数据：包含 AndroidLab 训练数据压缩包，以及带有大模型生成的推理与反思链、按 GRPO 训练格式整理的 Hugging Face 视觉语言数据集。

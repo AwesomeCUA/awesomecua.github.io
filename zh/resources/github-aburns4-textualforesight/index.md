@@ -1,3 +1,11 @@
+---
+title: "Textual Foresight · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aburns4-textualforesight/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # Textual Foresight
 
 Textual Foresight 通过预测移动端 UI 动作所产生的未来屏幕状态的文本描述，预训练 UI 表征。

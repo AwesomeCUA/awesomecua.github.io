@@ -1,3 +1,11 @@
+---
+title: "ComputerUse.Best Expert Skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/
+updated: 2026-11-04
+type: learning
+lang: en
+---
+
 # ComputerUse.Best Expert Skills
 
 Open-source collection of computer-use skills, prompt patterns, and professional desktop/web workflows.

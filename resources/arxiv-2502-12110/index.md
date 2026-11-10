@@ -1,3 +1,11 @@
+---
+title: "A-MEM: Agentic Memory for LLM Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-12110/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A-MEM: Agentic Memory for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

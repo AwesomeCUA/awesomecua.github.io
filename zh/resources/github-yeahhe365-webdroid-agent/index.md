@@ -1,3 +1,11 @@
+---
+title: "WebDroid Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yeahhe365-webdroid-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # WebDroid Agent
 
 在浏览器中运行的 Android 手机智能体，经 WebUSB/WebADB 连接设备，将截图及 uiautomator 文本树发送给兼容 OpenAI 或 Gemini 的视觉模型，再通过 ADB 执行其 JSON 操作。

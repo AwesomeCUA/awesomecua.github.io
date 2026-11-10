@@ -1,3 +1,11 @@
+---
+title: "GameVerse: A Minute-Scale Gameplay Dataset… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37257/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling
 
 Bibliographic record for GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kang He, Wenshuo Peng, Chuanhao Li, Zihui Gao, Xiaojie Xu, Zhengyuan Lin, Yuzhe 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37257/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37257/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37257,
+  title = {{GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling}},
+  author = {{Kang He} and {Wenshuo Peng} and {Chuanhao Li} and {Zihui Gao} and {Xiaojie Xu} and {Zhengyuan Lin} and {Yuzhe Ding} and {Donghong Ji} and {Kaipeng Zhang} and {Yongtao Ge}},
+  year = {2026},
+  eprint = {2610.37257v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37257v3},
+  note = {First published: 2026-10-27; Recorded arXiv version: v3; Recorded version updated: 2026-10-31T03:43:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

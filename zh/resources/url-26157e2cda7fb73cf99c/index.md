@@ -1,3 +1,11 @@
+---
+title: "Indeed-UI-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-26157e2cda7fb73cf99c/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Indeed-UI-8B
 
 在 GUI-Owl 1.5-8B 基础上用界面定位数据和高分辨率训练微调的 GUI 定位模型；模型卡报告其在 ScreenSpot-Pro 上得分 73.4、ScreenSpot-V2 上 94.4、OSWorld-G 上 68.3。

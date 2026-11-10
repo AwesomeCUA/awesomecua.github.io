@@ -1,3 +1,11 @@
+---
+title: "Grounding of Textual Phrases in Images by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1511-03745/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Grounding of Textual Phrases in Images by Reconstruction
 
 Status: excluded from the active CUA catalog after scope review.

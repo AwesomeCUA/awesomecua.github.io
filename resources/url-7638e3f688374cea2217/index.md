@@ -1,3 +1,11 @@
+---
+title: "Holotron4 30B-A3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7638e3f688374cea2217/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holotron4 30B-A3B
 
 NemotronH Nano Omni-based computer-use checkpoint in H Company's Holo4 family; an external harness sends it screenshots and tool results and executes the clicks, typing, code and tool calls it requests.

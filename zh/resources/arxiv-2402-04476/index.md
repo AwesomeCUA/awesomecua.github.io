@@ -1,3 +1,11 @@
+---
+title: "Dual-View Visual Contextualization for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-04476/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Dual-View Visual Contextualization for Web Navigation
 
 利用截图中的几何位置和视觉内容丰富网页导航所用的 HTML 元素表示，并纳入邻近元素的文本及视觉上下文；在 Mind2Web 的跨任务、跨网站和跨领域划分上评估。
@@ -27,6 +35,18 @@ Jihyung Kil, Chan Hee Song, Boyuan Zheng, Xiang Deng, Yu Su, Wei-Lun Chao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-04476/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-04476/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_04476,
+  title = {{Dual-View Visual Contextualization for Web Navigation}},
+  author = {{Jihyung Kil} and {Chan Hee Song} and {Boyuan Zheng} and {Xiang Deng} and {Yu Su} and {Wei-Lun Chao}},
+  year = {2024},
+  eprint = {2402.04476v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.04476v2},
+  note = {First published: 2024-02-06; Recorded arXiv version: v2; Recorded version updated: 2024-03-30T05:18:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

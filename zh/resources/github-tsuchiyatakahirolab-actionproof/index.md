@@ -1,3 +1,11 @@
+---
+title: "ExactDelta (ActionProof) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tsuchiyatakahirolab-actionproof/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # ExactDelta (ActionProof)
 
 面向 WebMCP 浏览器智能体的动作后状态差异验证测试框架，可检测未显现的 UI 和状态故障。

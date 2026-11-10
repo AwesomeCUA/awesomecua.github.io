@@ -1,3 +1,11 @@
+---
+title: "Topological Quantum Computing Using Nanowire… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1910-11075/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Topological Quantum Computing Using Nanowire Devices
 
 Status: excluded from the active CUA catalog after scope review.

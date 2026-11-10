@@ -1,3 +1,11 @@
+---
+title: "Celestea Harness Studio · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcd0luo-celestea-harness-studio/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Celestea Harness Studio
 
 自托管 AI 智能体工作台，结合网页 UI、TypeScript 后端、沙箱化工具执行和浏览器控制。

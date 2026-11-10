@@ -1,3 +1,11 @@
+---
+title: "Blue Steel · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-apothic-ai-blue-steel/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Blue Steel
 
 基于 Camoufox 隐蔽 Firefox 浏览器、由视觉驱动的浏览器智能体。

@@ -1,3 +1,11 @@
+---
+title: "Demystifying deep search: a holistic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-05137/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics
 
 Introduces WebDetective, a deep-search benchmark with a traceable Wikipedia sandbox, and EvidenceLoop, an evidence-tracking workflow for web-agent search and synthesis.
@@ -26,6 +34,18 @@ Maojia Song, Renhang Liu, Xinyu Wang, Yong Jiang, Pengjun Xie, Fei Huang, Jingre
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-05137/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-05137/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_05137,
+  title = {{Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics}},
+  author = {{Maojia Song} and {Renhang Liu} and {Xinyu Wang} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou} and {Dorien Herremans} and {Soujanya Poria}},
+  year = {2025},
+  eprint = {2510.05137v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.05137v3},
+  note = {First published: 2025-10-01; Recorded arXiv version: v3; Recorded version updated: 2025-12-10T06:18:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

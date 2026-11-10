@@ -1,3 +1,11 @@
+---
+title: "firefox-bidi-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-enne2-firefox-bidi-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # firefox-bidi-mcp
 
 Standalone Model Context Protocol server for controlling an already-open Firefox browser instance via the WebDriver BiDi protocol.

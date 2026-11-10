@@ -1,3 +1,11 @@
+---
+title: "RT-Affordance: Affordances are Versatile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-02704/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation
 
 Bibliographic record for RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Soroush Nasiriany, Sean Kirmani, Tianli Ding, Laura Smith, Yuke Zhu, Danny Dries
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-02704/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-02704/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_02704,
+  title = {{RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation}},
+  author = {{Soroush Nasiriany} and {Sean Kirmani} and {Tianli Ding} and {Laura Smith} and {Yuke Zhu} and {Danny Driess} and {Dorsa Sadigh} and {Ted Xiao}},
+  year = {2024},
+  eprint = {2411.02704v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.02704v1},
+  note = {First published: 2024-11-05; Recorded arXiv version: v1; Recorded version updated: 2024-11-05T01:02:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

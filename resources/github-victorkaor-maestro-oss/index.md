@@ -1,3 +1,11 @@
+---
+title: "maestro-oss | AwesomeCUA"
+url: https://awesomecua.com/resources/github-victorkaor-maestro-oss/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # maestro-oss
 
 Open-source multi-agent spatial orchestration canvas integrating CLI agents, browser automation, and desktop tools.

@@ -1,3 +1,11 @@
+---
+title: "Scout Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sanjeev29-scout-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Scout Browser Agent
 
 浏览器智能体采用四层感知级联，从轻量级 HTTP 文本逐步扩展到无障碍树，并以视觉感知作为后备方式。

@@ -1,3 +1,11 @@
+---
+title: "Nut.js | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nut-tree-nut-js/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # Nut.js
 
 Desktop automation library for keyboard, mouse, and screen interaction.

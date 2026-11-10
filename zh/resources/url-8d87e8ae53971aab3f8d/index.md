@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-8k · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8d87e8ae53971aab3f8d/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # UGround-V1-8k
 
 UGround-V1-8k 提供含 8K 个样本的网页界面截图子集，用于在不同分辨率和宽高比下预训练界面元素定位能力。

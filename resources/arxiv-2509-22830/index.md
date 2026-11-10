@@ -1,3 +1,11 @@
+---
+title: "ChatInject: Abusing Chat Templates for Prompt… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-22830/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "CoAct-1 Implementation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-buiilding-coact-1-implementation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CoAct-1 Implementation
 
 Open-source replication of the CoAct-1 hybrid coding-and-GUI multi-agent architecture evaluated on OSWorld-Verified.

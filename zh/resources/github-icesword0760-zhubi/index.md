@@ -1,3 +1,11 @@
+---
+title: "Zhubi (朱笔) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-icesword0760-zhubi/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Zhubi (朱笔)
 
 Zhubi 是自托管的边界框标注与微调工作台，用于训练 Florence-2 和 YOLO GUI 检测模型。

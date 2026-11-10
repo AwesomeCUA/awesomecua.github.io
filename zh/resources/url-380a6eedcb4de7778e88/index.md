@@ -1,3 +1,11 @@
+---
+title: "Mind2Web data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-380a6eedcb4de7778e88/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Mind2Web data
 
 Mind2Web 众包网页任务演示的 Hub 发布版：训练集 JSON 包含原始与清洗后的 HTML、候选元素和 CLICK/TYPE/SELECT 步骤，另有受密码保护的三个测试集归档。

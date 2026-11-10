@@ -1,3 +1,11 @@
+---
+title: "kev-browser-use · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arbazsiddiqui-kev-browser-use/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # kev-browser-use
 
 kev-browser-use 是紧凑的 0.6B System-One 动作模型，在 Mind2Web 上微调，用于低延迟地选择浏览器元素。

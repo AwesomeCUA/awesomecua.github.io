@@ -1,3 +1,11 @@
+---
+title: "ego lite · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-citrolabs-ego-lite/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # ego lite
 
 ego lite 是桌面浏览器，可为智能体分配独立浏览空间，并通过 ego-browser 接口提供页面快照和操作能力。

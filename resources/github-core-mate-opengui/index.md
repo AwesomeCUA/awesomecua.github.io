@@ -1,3 +1,11 @@
+---
+title: "OpenGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-core-mate-opengui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenGUI
 
 OpenGUI is an Android GUI agent framework that combines screen perception, accessibility trees, and ADB actuation for real-device automation.

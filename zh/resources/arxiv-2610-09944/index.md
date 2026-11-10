@@ -1,3 +1,11 @@
+---
+title: "AgentTime: Can Agents Estimate and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-09944/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # AgentTime: Can Agents Estimate and Control Their Own Runtime?
 
 在包含 OSWorld 桌面任务的原生智能体运行框架中，借助外部计时器、原生评分器及工作与等待时间分析，评估智能体遵循时长要求、预测运行时长和估计已用时间的能力。
@@ -27,6 +35,18 @@ Michael Ofengenden, Maksym Andriushchenko
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-09944/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-09944/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09944,
+  title = {{AgentTime: Can Agents Estimate and Control Their Own Runtime?}},
+  author = {{Michael Ofengenden} and {Maksym Andriushchenko}},
+  year = {2026},
+  eprint = {2610.09944v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09944v2},
+  note = {First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T09:06:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

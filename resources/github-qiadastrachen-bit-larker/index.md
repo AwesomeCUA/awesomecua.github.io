@@ -1,3 +1,11 @@
+---
+title: "Larker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qiadastrachen-bit-larker/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Larker
 
 Larker is a vision-driven Windows desktop agent that automates GUI clients lacking DOM or Accessibility APIs via VLM grounding.

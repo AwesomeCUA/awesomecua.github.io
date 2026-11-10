@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-30B-A3B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2ebcbc24ecbdc2db22fb/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-30B-A3B-HF
 
 Transformers-format InternVL3.5 checkpoint with 30.8B total and 3B active parameters, whose paper reports GUI grounding and online agent results on ScreenSpot, OSWorld-G, WindowsAgentArena and WebArena-Lite-v2.

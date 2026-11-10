@@ -1,3 +1,11 @@
+---
+title: "WildGUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-daf52475338f385b9310/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WildGUI
 
 Video2GUI 发布的 WildGUI 数据：从互联网教程视频提取逐任务 JSONL 轨迹，含网页、桌面和移动端的指令、计划与定位操作，另提供第 1 至 15 部分的截图分片。

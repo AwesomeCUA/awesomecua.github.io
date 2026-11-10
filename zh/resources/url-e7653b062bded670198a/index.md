@@ -1,3 +1,11 @@
+---
+title: "NAIL-Group/ClawBenchV1Trace · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e7653b062bded670198a/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # NAIL-Group/ClawBenchV1Trace
 
 ClawBench V1 Traces 发布浏览器智能体运行记录，包含屏幕视频、操作、网络流量和智能体消息，可用于回放、调试及重新评分。

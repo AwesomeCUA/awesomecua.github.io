@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Agent: An End-to-End Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-19926/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management
 
 MemGUI-Agent makes context management an action chosen by the same policy that controls the mobile UI. Structured history, UI-state and recent-step fields are trained from annotated trajectories to retain cross-app facts while limiting context growth.
@@ -26,6 +34,18 @@ Guangyi Liu, Gao Wu, Congxiao Liu, Pengxiang Zhao, Liang Liu, Mading Li, Qi Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-19926/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-19926/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_19926,
+  title = {{MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management}},
+  author = {{Guangyi Liu} and {Gao Wu} and {Congxiao Liu} and {Pengxiang Zhao} and {Liang Liu} and {Mading Li} and {Qi Zhang} and {Mengyan Wang} and {Liang Guo} and {Yong Liu}},
+  year = {2026},
+  eprint = {2606.19926v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.19926v1},
+  note = {First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T08:26:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

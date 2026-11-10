@@ -1,3 +1,11 @@
+---
+title: "jadechoghari/Ferret-UI-Llama8b | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4b66957b9799a9e3decc/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # jadechoghari/Ferret-UI-Llama8b
 
 Llama-3-8B variant of Ferret-UI for understanding interface screenshots, answering questions about selected regions and locating elements with bounding boxes.

@@ -1,3 +1,11 @@
+---
+title: "jev-windows-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # jev-windows-agent
 
 jev-windows-agent pairs Windows UI Automation inspection with a fast Jev System-One decision loop for low-latency desktop control.

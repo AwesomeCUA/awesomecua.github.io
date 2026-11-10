@@ -1,3 +1,11 @@
+---
+title: "Orion · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-genentech-orion/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Orion
 
 生物医学分析智能体，在 Ubuntu 虚拟机中操作科学桌面应用、浏览器和终端工具。其仓库包含任务配置和启动脚本。

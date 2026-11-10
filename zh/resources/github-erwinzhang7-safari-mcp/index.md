@@ -1,3 +1,11 @@
+---
+title: "ErwinZhang Safari MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-erwinzhang7-safari-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ErwinZhang Safari MCP
 
 原生 macOS Model Context Protocol 服务器，可驱动 Safari 导航、点击、输入、执行 JavaScript 和截图。

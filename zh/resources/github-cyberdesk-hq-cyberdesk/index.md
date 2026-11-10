@@ -1,3 +1,11 @@
+---
+title: "Cyberdesk · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cyberdesk-hq-cyberdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Cyberdesk
 
 Cyberdesk 是开源的虚拟桌面编排平台和 SDK，用于为 CUA 配置和控制云桌面沙箱。

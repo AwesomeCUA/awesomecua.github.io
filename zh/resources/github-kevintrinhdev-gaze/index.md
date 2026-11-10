@@ -1,3 +1,11 @@
+---
+title: "GAZE · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kevintrinhdev-gaze/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GAZE
 
 视觉优先的浏览器控制器，可观察和操作已经登录的 Chrome 窗口。

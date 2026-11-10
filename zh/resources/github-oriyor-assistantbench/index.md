@@ -1,3 +1,11 @@
+---
+title: "AssistantBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-oriyor-assistantbench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # AssistantBench
 
 AssistantBench 用贴近现实、耗时较长的网页任务评测智能体；项目仓库提供任务数据集和提交排行榜的链接。

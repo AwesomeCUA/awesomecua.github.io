@@ -1,3 +1,11 @@
+---
+title: "BMW Agents -- A Framework For Task Automation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-20041/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration
 
 Bibliographic record for BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-20041/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-20041/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_20041,
+  title = {{BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration}},
+  author = {{Noel Crawford} and {Edward B. Duffy} and {Iman Evazzade} and {Torsten Foehr} and {Gregory Robbins} and {Debbrata Kumar Saha} and {Jiya Varma} and {Marcin Ziolkowski}},
+  year = {2024},
+  eprint = {2406.20041v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.20041v3},
+  note = {First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2024-07-02T11:45:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

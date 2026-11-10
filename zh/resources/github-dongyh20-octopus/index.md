@@ -1,3 +1,11 @@
+---
+title: "Octopus · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dongyh20-octopus/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Octopus
 
 Octopus 是视觉语言编程智能体，通过环境反馈训练，可在 GTA 和 Gibson 世界中生成可执行的控制代码。

@@ -1,3 +1,11 @@
+---
+title: "MultiUI training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8cd911654653a6ba8521/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # MultiUI training data
 
 Gated Hub release of the MultiUI web-UI training data, about 7.3 million samples per the project README, packaged as two training-stage JSON files and 21 split TAR archive parts.

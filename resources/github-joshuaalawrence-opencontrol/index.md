@@ -1,3 +1,11 @@
+---
+title: "OpenControl | AwesomeCUA"
+url: https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OpenControl
 
 Single-binary ~2MB Rust Model Context Protocol server exposing 54 native Windows desktop control, UI Automation, and screenshot tools.

@@ -1,3 +1,11 @@
+---
+title: "R-Bench: Are your Large Multimodal Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-05474/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?
 
 Bibliographic record for R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chunyi Li, Jianbo Zhang, Zicheng Zhang, Haoning Wu, Yuan Tian, Wei Sun, Guo Lu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-05474/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-05474/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_05474,
+  title = {{R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?}},
+  author = {{Chunyi Li} and {Jianbo Zhang} and {Zicheng Zhang} and {Haoning Wu} and {Yuan Tian} and {Wei Sun} and {Guo Lu} and {Xiaohong Liu} and {Xiongkuo Min} and {Weisi Lin} and {Guangtao Zhai}},
+  year = {2024},
+  eprint = {2410.05474v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.05474v1},
+  note = {First published: 2024-10-07; Recorded arXiv version: v1; Recorded version updated: 2024-10-07T20:12:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

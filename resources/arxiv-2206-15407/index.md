@@ -1,3 +1,11 @@
+---
+title: "Shifts 2.0: Extending The Dataset of Real… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-15407/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Shifts 2.0: Extending The Dataset of Real Distributional Shifts
 
 Status: excluded from the active CUA catalog after scope review.

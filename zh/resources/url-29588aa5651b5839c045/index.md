@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-29588aa5651b5839c045/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Seg2Click Qwen3.5 4B
 
 Seg2Click 检查点，以 4B 参数的 Qwen3.5 为骨干模型，预测像素级操作掩码。

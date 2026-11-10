@@ -1,3 +1,11 @@
+---
+title: "Towards Efficient LLM Grounding for Embodied… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-14314/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration
 
 Bibliographic record for Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yang Zhang, Shixin Yang, Chenjia Bai, Fei Wu, Xiu Li, Zhen Wang, Xuelong Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-14314/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-14314/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_14314,
+  title = {{Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration}},
+  author = {{Yang Zhang} and {Shixin Yang} and {Chenjia Bai} and {Fei Wu} and {Xiu Li} and {Zhen Wang} and {Xuelong Li}},
+  year = {2024},
+  eprint = {2405.14314v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.14314v4},
+  note = {First published: 2024-05-23; Recorded arXiv version: v4; Recorded version updated: 2025-09-29T06:44:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

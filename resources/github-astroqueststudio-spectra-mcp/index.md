@@ -1,3 +1,11 @@
+---
+title: "Spectra MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-astroqueststudio-spectra-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Spectra MCP
 
 Native Rust Model Context Protocol server that drives Chrome directly over the Chrome DevTools Protocol.

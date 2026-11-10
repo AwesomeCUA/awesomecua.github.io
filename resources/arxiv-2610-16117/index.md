@@ -1,3 +1,11 @@
+---
+title: "Beyond Perfect Teammates: Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-16117/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues
 
 Status: excluded from the active CUA catalog after scope review.

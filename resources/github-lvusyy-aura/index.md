@@ -1,3 +1,11 @@
+---
+title: "AURA (Agent-User Remote Automation) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lvusyy-aura/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AURA (Agent-User Remote Automation)
 
 Closed-loop screenshot-click-verify remote automation framework over MCP for desktop and mobile devices.

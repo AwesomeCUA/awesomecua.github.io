@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-secure · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-frankxie-java-dsh-browser-secure/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-browser-secure
 
 面向 DeepSeek Harness 的 `dsh-browser` 安全加固分支，增加审计日志和域名出站访问允许列表。

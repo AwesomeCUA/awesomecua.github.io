@@ -1,3 +1,11 @@
+---
+title: "crowd-test · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anhhuyn411-alt-crowd-test/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # crowd-test
 
 一个命令行工具在相互隔离的 Chromium 浏览器中运行由不同用户画像驱动的智能体，探索网站易用性，并生成分级问题报告及可选的独立复核结果。

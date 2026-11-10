@@ -1,3 +1,11 @@
+---
+title: "Self-MAP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magicgh-self-map/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Self-MAP
 
 Self-MAP 是对话式网页智能体实现，包含候选操作排序和记忆辅助的操作规划，并可选用记忆简化、优化和自我反思模块。

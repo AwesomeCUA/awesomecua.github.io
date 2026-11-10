@@ -1,3 +1,11 @@
+---
+title: "crowd-test-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anhhuyn411-alt-crowd-test-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # crowd-test-mcp
 
 Model Context Protocol 服务器，在真实浏览器中并发调度 AI 虚拟用户角色，以测试网站。

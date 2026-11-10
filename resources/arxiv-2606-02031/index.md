@@ -1,3 +1,11 @@
+---
+title: "OpenWebRL: Demystifying Online Multi-turn… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-02031/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents
 
 Introduces OpenWebRL, a framework for training visual web agents with online multi-turn reinforcement learning on live websites, including browser infrastructure and success judging.
@@ -26,6 +34,18 @@ Rui Yang, Qianhui Wu, Yuxi Chen, Hao Bai, Wenlin Yao, Hao Cheng, Baolin Peng, Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-02031/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-02031/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_02031,
+  title = {{OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents}},
+  author = {{Rui Yang} and {Qianhui Wu} and {Yuxi Chen} and {Hao Bai} and {Wenlin Yao} and {Hao Cheng} and {Baolin Peng} and {Huan Zhang} and {Tong Zhang} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2606.02031v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.02031v2},
+  note = {First published: 2026-06-01; Recorded arXiv version: v2; Recorded version updated: 2026-06-04T09:03:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

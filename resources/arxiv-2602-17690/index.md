@@ -1,3 +1,11 @@
+---
+title: "DesignAsCode: Bridging Structural Editability… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-17690/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DesignAsCode: Bridging Structural Editability and Visual Fidelity in Graphic Design Generation
 
 Bibliographic record for DesignAsCode: Bridging Structural Editability and Visual Fidelity in Graphic Design Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ziyuan Liu, Shizhao Sun, Danqing Huang, Yingdong Shi, Meisheng Zhang, Ji Li, Jin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-17690/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-17690/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_17690,
+  title = {{DesignAsCode: Bridging Structural Editability and Visual Fidelity in Graphic Design Generation}},
+  author = {{Ziyuan Liu} and {Shizhao Sun} and {Danqing Huang} and {Yingdong Shi} and {Meisheng Zhang} and {Ji Li} and {Jingsong Yu} and {Jiang Bian}},
+  year = {2026},
+  eprint = {2602.17690v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.17690v3},
+  note = {First published: 2026-02-06; Recorded arXiv version: v3; Recorded version updated: 2026-08-29T06:35:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "PSPA-Bench: A Personalized Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-29318/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent
 
 PSPA-Bench 利用针对特定用户的指令，并结合对交互轨迹的过程评估，衡量智能手机 GUI 智能体的个性化行为。其智能体比较分析对工作流和偏好适应的不足。
@@ -27,6 +35,18 @@ Hongyi Nie, Xunyuan Liu, Yudong Bai, Yaqing Wang, Yang Liu, Quanming Yao, Zhen W
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-29318/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-29318/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_29318,
+  title = {{PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent}},
+  author = {{Hongyi Nie} and {Xunyuan Liu} and {Yudong Bai} and {Yaqing Wang} and {Yang Liu} and {Quanming Yao} and {Zhen Wang}},
+  year = {2026},
+  eprint = {2603.29318v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.29318v1},
+  note = {First published: 2026-03-31; Recorded arXiv version: v1; Recorded version updated: 2026-03-31T06:37:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

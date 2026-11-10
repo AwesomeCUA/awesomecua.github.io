@@ -1,3 +1,11 @@
+---
+title: "Wayland MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kurojs-wayland-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Wayland MCP Server
 
 Wayland MCP Server 为 Linux Wayland 桌面提供截图采集、VLM 坐标分析以及虚拟指针和键盘输入。

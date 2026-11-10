@@ -1,3 +1,11 @@
+---
+title: "SWE-bench Multimodal: Do AI Systems… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-03859/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?
 
 Bibliographic record for SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ John Yang, Carlos E. Jimenez, Alex L. Zhang, Kilian Lieret, Joyce Yang, Xindi Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-03859/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-03859/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_03859,
+  title = {{SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?}},
+  author = {{John Yang} and {Carlos E. Jimenez} and {Alex L. Zhang} and {Kilian Lieret} and {Joyce Yang} and {Xindi Wu} and {Ori Press} and {Niklas Muennighoff} and {Gabriel Synnaeve} and {Karthik R. Narasimhan} and {Diyi Yang} and {Sida I. Wang} and {Ofir Press}},
+  year = {2024},
+  eprint = {2410.03859v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.03859v1},
+  note = {First published: 2024-10-04; Recorded arXiv version: v1; Recorded version updated: 2024-10-04T18:48:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

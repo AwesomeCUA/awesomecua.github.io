@@ -1,3 +1,11 @@
+---
+title: "deskwork | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ashnkumar-deskwork/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # deskwork
 
 deskwork augments Claude Computer Use with domain document retrieval to execute compliance-grounded desktop and browser workflows.

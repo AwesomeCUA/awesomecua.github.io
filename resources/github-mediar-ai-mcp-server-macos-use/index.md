@@ -1,3 +1,11 @@
+---
+title: "mcp-server-macos-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mediar-ai-mcp-server-macos-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # mcp-server-macos-use
 
 A Swift MCP server gives agents tools to inspect macOS application accessibility trees and perform mouse and keyboard actions.

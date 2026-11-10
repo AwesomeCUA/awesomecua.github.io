@@ -1,3 +1,11 @@
+---
+title: "WebGen-Agent: Enhancing Interactive Website… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-22644/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning
 
 Introduces WebGen-Agent for website code generation, using screenshot critiques and GUI-agent tests to refine code and provide step-level training rewards.
@@ -26,6 +34,18 @@ Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Junting Pan, Mingjie 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-22644/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-22644/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_22644,
+  title = {{WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning}},
+  author = {{Zimu Lu} and {Houxing Ren} and {Yunqiao Yang} and {Ke Wang} and {Zhuofan Zong} and {Junting Pan} and {Mingjie Zhan} and {Hongsheng Li}},
+  year = {2025},
+  eprint = {2509.22644v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.22644v1},
+  note = {First published: 2025-09-26; Recorded arXiv version: v1; Recorded version updated: 2025-09-26T17:59:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Seg2Click · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jcwang0602-seg2click/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Seg2Click
 
 提供训练和推理实现，预测可执行区域的掩码，并据此确定 GUI 点击位置。

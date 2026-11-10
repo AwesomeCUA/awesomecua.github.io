@@ -1,3 +1,11 @@
+---
+title: "From Interaction to Capability: Task… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37482/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents
 
 Introduces Task Advancement Memory (TAM) for long GUI workflows, tracking task progress across applications and learning reusable operations from interactions with local results.
@@ -26,6 +34,18 @@ Ziyang Chen, Qian Li, Chengwei Qin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37482/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37482/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37482,
+  title = {{From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents}},
+  author = {{Ziyang Chen} and {Qian Li} and {Chengwei Qin}},
+  year = {2026},
+  eprint = {2610.37482v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37482v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T16:09:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

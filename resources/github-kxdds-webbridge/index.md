@@ -1,3 +1,11 @@
+---
+title: "WebBridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kxdds-webbridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # WebBridge
 
 WebBridge pairs a Chrome extension and local daemon to let coding agents control a user's authenticated Chrome session.

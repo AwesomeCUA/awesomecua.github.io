@@ -1,3 +1,11 @@
+---
+title: "LPO: Towards Accurate GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-09373/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization
 
 Location Preference Optimization 利用信息熵信号选择交互区域，以基于距离的奖励评估点击位置；通过偏好优化训练 GUI 定位，并评估离线定位和在线交互。
@@ -27,6 +35,18 @@ Jiaqi Tang, Yu Xia, Yi-Feng Wu, Yuwei Hu, Yuhui Chen, Qing-Guo Chen, Xiaogang Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-09373/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-09373/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_09373,
+  title = {{LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization}},
+  author = {{Jiaqi Tang} and {Yu Xia} and {Yi-Feng Wu} and {Yuwei Hu} and {Yuhui Chen} and {Qing-Guo Chen} and {Xiaogang Xu} and {Xiangyu Wu} and {Hao Lu} and {Yanqing Ma} and {Shiyin Lu} and {Qifeng Chen}},
+  year = {2025},
+  eprint = {2506.09373v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.09373v3},
+  note = {First published: 2025-06-11; Recorded arXiv version: v3; Recorded version updated: 2026-04-21T11:50:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

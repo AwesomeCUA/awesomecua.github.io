@@ -1,3 +1,11 @@
+---
+title: "easyGooglePlay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xxjrq-easy-google-play/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # easyGooglePlay
 
 easyGooglePlay 是一项智能体技能，通过已登录的浏览器桥接服务构建 Android 发布包并完成 Google Play Console 上架步骤。

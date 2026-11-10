@@ -1,3 +1,11 @@
+---
+title: "OSGuard: A Benchmark for Safety in… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-15034/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # OSGuard: A Benchmark for Safety in Computer-Use Agents
 
 评估动作层面的防护机制，以及具有依赖环境的安全约束的完整计算机任务，并区分安全完成与名义上的任务成功。
@@ -27,6 +35,18 @@ Mina Mohammadmirzaei, Jeffrey Flanigan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-15034/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-15034/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15034,
+  title = {{OSGuard: A Benchmark for Safety in Computer-Use Agents}},
+  author = {{Mina Mohammadmirzaei} and {Jeffrey Flanigan}},
+  year = {2026},
+  eprint = {2606.15034v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15034v3},
+  note = {First published: 2026-06-13; Recorded arXiv version: v3; Recorded version updated: 2026-10-09T19:45:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

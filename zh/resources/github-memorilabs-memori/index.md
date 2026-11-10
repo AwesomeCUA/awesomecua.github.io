@@ -1,3 +1,11 @@
+---
+title: "Memori · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-memorilabs-memori/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Memori
 
 Memori 从智能体工具调用和对话中捕获结构化执行事实，并存入关系型记忆存储。

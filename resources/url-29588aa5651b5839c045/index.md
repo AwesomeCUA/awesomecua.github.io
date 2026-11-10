@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-29588aa5651b5839c045/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Seg2Click Qwen3.5 4B
 
 Seg2Click checkpoint pairing a 4B Qwen3.5 backbone with pixel-level action-mask prediction.

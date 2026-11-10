@@ -1,3 +1,11 @@
+---
+title: "MarketBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-santos-sanz-marketbench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # MarketBench
 
 MarketBench is a reproducible WebMCP benchmark evaluating browser agents on multi-week economic decision-making in simulated markets.

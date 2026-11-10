@@ -1,3 +1,11 @@
+---
+title: "Vision Primitives MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zouyuanqing-vision-primitives-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Vision Primitives MCP
 
 Vision Primitives MCP 为纯文本 LLM 提供 30 个视觉 MCP 工具，用于屏幕描述、坐标定位、OCR 和裁剪放大。

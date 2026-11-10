@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 18 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/18/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 18 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/18/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [dsh-jiey-browser](https://awesomecua.com/zh/resources/github-jiewaigongxing-dsh-jiey-browser/)
-- [dsh-live-loop](https://awesomecua.com/zh/resources/github-powerrrrrrrr-dsh-live-loop/)
 - [dsh-llm-web-bridge](https://awesomecua.com/zh/resources/github-huangyukaili1031-dsh-llm-web-bridge/)
 - [dsh-local-browser-search (dsh-search)](https://awesomecua.com/zh/resources/github-yuanmingxue-dsh-search/)
 - [dsh-OpenLiulan (开放浏览)](https://awesomecua.com/zh/resources/github-haodongzhang022-hue-openliulan/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/18/
 - [fingerprint-suite](https://awesomecua.com/zh/resources/github-apify-fingerprint-suite/)
 - [Firecrawl](https://awesomecua.com/zh/resources/github-firecrawl-firecrawl/)
 - [Firecrawl](https://awesomecua.com/zh/resources/url-a06f5cb81d3c41338bb6/)
+- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/zh/resources/github-firecrawl-agent-browser-plugin-firecrawl/)
+- [Firecrawl MCP Server](https://awesomecua.com/zh/resources/github-firecrawl-firecrawl-mcp-server/)

@@ -1,3 +1,11 @@
+---
+title: "reverseloom · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kuichi-x-reverseloom/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # reverseloom
 
 AI 浏览器智能体框架，检查实时网页流量，将网站协议逆向解析为无需浏览器的 Python 爬虫。

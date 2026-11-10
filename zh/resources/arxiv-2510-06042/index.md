@@ -1,3 +1,11 @@
+---
+title: "Agent+P: Guiding UI Agents via Symbolic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-06042/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Agent+P: Guiding UI Agents via Symbolic Planning
 
 通过 UI 状态转移图上的符号规划指导 UI 智能体；该图由应用代码分析初始化，并通过在线探索更新，方法在 AndroidWorld 上评估。
@@ -27,6 +35,18 @@ Shang Ma, Xusheng Xiao, Yanfang Ye
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-06042/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-06042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_06042,
+  title = {{Agent+P: Guiding UI Agents via Symbolic Planning}},
+  author = {{Shang Ma} and {Xusheng Xiao} and {Yanfang Ye}},
+  year = {2025},
+  eprint = {2510.06042v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.06042v3},
+  note = {First published: 2025-10-07; Recorded arXiv version: v3; Recorded version updated: 2026-09-27T17:25:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

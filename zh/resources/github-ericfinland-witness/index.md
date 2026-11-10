@@ -1,3 +1,11 @@
+---
+title: "Witness · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ericfinland-witness/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Witness
 
 优先在本地运行的可观测性与执行轨迹记录工具，面向 AI 浏览器智能体。

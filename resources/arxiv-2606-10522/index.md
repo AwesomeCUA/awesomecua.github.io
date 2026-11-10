@@ -1,3 +1,11 @@
+---
+title: "GUI-AC: Enhancing Continual Learning in GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-10522/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUI-AC: Enhancing Continual Learning in GUI Agents
 
 GUI-AC uses grounding certainty to adjust advantage weighting and policy-clipping bounds during continual reinforcement fine-tuning. Its mechanisms aim to suppress noisy confidence updates while retaining exploration under shifting GUI domains and resolutions.
@@ -26,6 +34,18 @@ Can Lin, Tao Feng, Hangjie Yuan, Dan Zhang, Yifan Zhu, Zhonghong Ou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-10522/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-10522/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_10522,
+  title = {{GUI-AC: Enhancing Continual Learning in GUI Agents}},
+  author = {{Can Lin} and {Tao Feng} and {Hangjie Yuan} and {Dan Zhang} and {Yifan Zhu} and {Zhonghong Ou}},
+  year = {2026},
+  eprint = {2606.10522v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.10522v2},
+  note = {First published: 2026-06-09; Recorded arXiv version: v2; Recorded version updated: 2026-07-06T06:23:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

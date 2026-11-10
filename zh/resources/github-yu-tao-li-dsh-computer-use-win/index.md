@@ -1,3 +1,11 @@
+---
+title: "yu-tao-li dsh-computer-use-win · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yu-tao-li-dsh-computer-use-win/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # yu-tao-li dsh-computer-use-win
 
 面向 DeepSeek Harness 的 Windows 计算机使用 npm 包，支持 UI Automation 树、OCR 定位和后台窗口控制。

@@ -1,3 +1,11 @@
+---
+title: "WebCoach: Self-Evolving Web Agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-12997/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance
 
 WebCoach 将导航日志压缩为持久的情节记忆，并按相似度和时间远近检索经验。运行时钩子有选择地向浏览器智能体提供建议，在 WebVoyager 上评估时无需重新训练底层模型。
@@ -27,6 +35,18 @@ Genglin Liu, Shijie Geng, Sha Li, Hejie Cui, Sarah Zhang, Xin Liu, Tianyi Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-12997/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-12997/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_12997,
+  title = {{WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance}},
+  author = {{Genglin Liu} and {Shijie Geng} and {Sha Li} and {Hejie Cui} and {Sarah Zhang} and {Xin Liu} and {Tianyi Liu}},
+  year = {2025},
+  eprint = {2511.12997v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.12997v2},
+  note = {First published: 2025-11-17; Recorded arXiv version: v2; Recorded version updated: 2026-07-22T21:19:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

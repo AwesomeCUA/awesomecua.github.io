@@ -1,3 +1,11 @@
+---
+title: "IterCAD: Iterative Program Repair for CAD… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24020/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # IterCAD: Iterative Program Repair for CAD Code Generation from Orthographic Views
 
 Bibliographic record for IterCAD: Iterative Program Repair for CAD Code Generation from Orthographic Views. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuchuan Wu, Ke Niu, Haiyang Yu, Zhuofan Chen, Xiangyang Xue, Bin Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24020/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24020/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24020,
+  title = {{IterCAD: Iterative Program Repair for CAD Code Generation from Orthographic Views}},
+  author = {{Yuchuan Wu} and {Ke Niu} and {Haiyang Yu} and {Zhuofan Chen} and {Xiangyang Xue} and {Bin Li}},
+  year = {2026},
+  eprint = {2608.24020v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24020v2},
+  note = {First published: 2026-08-25; Recorded arXiv version: v2; Recorded version updated: 2026-09-05T12:51:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

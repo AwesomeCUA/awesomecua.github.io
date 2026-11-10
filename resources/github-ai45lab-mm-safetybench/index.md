@@ -1,3 +1,11 @@
+---
+title: "MM-SafetyBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai45lab-mm-safetybench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # MM-SafetyBench
 
 MM-SafetyBench evaluates multimodal large language models against query-relevant adversarial image and typography safety prompts across 13 scenarios.

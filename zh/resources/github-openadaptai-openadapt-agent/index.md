@@ -1,3 +1,11 @@
+---
+title: "OpenAdapt Agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-agent/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # OpenAdapt Agent
 
 OpenAdapt Agent 将演示过的应用操作流程封装为智能体可调用的工具，在应用中录入内容，并在保存前后核查记录。

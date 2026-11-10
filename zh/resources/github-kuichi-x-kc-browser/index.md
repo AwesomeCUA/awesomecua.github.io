@@ -1,3 +1,11 @@
+---
+title: "KC Browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kuichi-x-kc-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # KC Browser
 
 KC Browser 是用于自动化网页会话的 Chromium 浏览器程序。它根据种子生成浏览器身份，可通过 Playwright 或 Puppeteer 启动。

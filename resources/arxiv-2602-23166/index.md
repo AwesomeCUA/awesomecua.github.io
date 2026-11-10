@@ -1,3 +1,11 @@
+---
+title: "AgentVista: Evaluating Multimodal Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-23166/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios
 
 Bibliographic record for AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhaochen Su, Jincheng Gao, Hangyu Guo, Zhenhua Liu, Lueyang Zhang, Xinyu Geng, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-23166/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-23166/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_23166,
+  title = {{AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios}},
+  author = {{Zhaochen Su} and {Jincheng Gao} and {Hangyu Guo} and {Zhenhua Liu} and {Lueyang Zhang} and {Xinyu Geng} and {Shijue Huang} and {Peng Xia} and {Guanyu Jiang} and {Cheng Wang} and {Yue Zhang} and {Yi R. Fung} and {Junxian He}},
+  year = {2026},
+  eprint = {2602.23166v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.23166v2},
+  note = {First published: 2026-02-26; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T03:29:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GUIDE: A Benchmark for Understanding and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-25864/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks
 
 GUIDE evaluates whether models can recognize a user’s behavior, infer intent and decide when to offer help during open-ended software tasks. It uses narrated screen recordings of novice users and studies the effect of additional user context on these assistance decisions.
@@ -26,6 +34,18 @@ Saelyne Yang, Jaesang Yu, Yi-Hao Peng, Kevin Qinghong Lin, Jae Won Cho, Yale Son
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-25864/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-25864/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_25864,
+  title = {{GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks}},
+  author = {{Saelyne Yang} and {Jaesang Yu} and {Yi-Hao Peng} and {Kevin Qinghong Lin} and {Jae Won Cho} and {Yale Song} and {Juho Kim}},
+  year = {2026},
+  eprint = {2603.25864v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.25864v1},
+  note = {First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T19:37:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

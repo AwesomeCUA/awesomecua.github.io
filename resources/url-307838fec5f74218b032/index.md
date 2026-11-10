@@ -1,3 +1,11 @@
+---
+title: "Browse AI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-307838fec5f74218b032/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Browse AI
 
 No-code web scraping and monitoring platform whose robots replay recorded clicks, typed inputs, dropdown choices, logins and pagination on target sites, or let AI build the table, then extract data on a schedule.

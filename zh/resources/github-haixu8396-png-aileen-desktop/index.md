@@ -1,3 +1,11 @@
+---
+title: "AILEEN Desktop · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-haixu8396-png-aileen-desktop/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AILEEN Desktop
 
 Windows 桌面 AI 助手，将 Live2D 交互角色与屏幕感知和桌面工具执行相结合。

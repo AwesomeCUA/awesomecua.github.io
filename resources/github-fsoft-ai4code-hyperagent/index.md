@@ -1,3 +1,11 @@
+---
+title: "FSoft HyperAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fsoft-ai4code-hyperagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # FSoft HyperAgent
 
 FSoft HyperAgent coordinates Planner, Navigator, Code Editor, and Executor agents for repository-level software engineering tasks.

@@ -1,3 +1,11 @@
+---
+title: "Lume | AwesomeCUA"
+url: https://awesomecua.com/resources/github-trycua-lume/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # Lume
 
 Virtual machine management for local computer-use environments.

@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 21 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/21/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 21 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/21/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [OSWorld-V2 0624 Codex attempt trajectories](https://awesomecua.com/zh/resources/url-9112dfcb201f2de7241f/)
 - [OSWorld-Verified trajectories](https://awesomecua.com/zh/resources/url-2c99f0de2840277abc72/)
 - [osworld_v2_assets_gated](https://awesomecua.com/zh/resources/url-3de50fa3eee0081d31ac/)
 - [P-GUI-Evo](https://awesomecua.com/zh/resources/url-b79ca6f7731ebf067709/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/21/
 - [Kimi-VL-A3B-Instruct](https://awesomecua.com/zh/resources/url-a42c3bca105218f17645/)
 - [Kimi-VL-A3B-Thinking-2506](https://awesomecua.com/zh/resources/url-fb5921fec3f7c313ab5b/)
 - [Llama8b-NNetNav-WA](https://awesomecua.com/zh/resources/url-c9d2a9288a568db12bd1/)
+- [Magma-R1](https://awesomecua.com/zh/resources/url-e5e74846aeaa8398673e/)

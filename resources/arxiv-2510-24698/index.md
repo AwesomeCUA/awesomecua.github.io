@@ -1,3 +1,11 @@
+---
+title: "ParallelMuse: Agentic Parallel Thinking for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24698/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking
 
 Bibliographic record for ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Baixuan Li, Dingchu Zhang, Jialong Wu, Wenbiao Yin, Zhengwei Tao, Yida Zhao, Liw
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24698/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24698/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24698,
+  title = {{ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking}},
+  author = {{Baixuan Li} and {Dingchu Zhang} and {Jialong Wu} and {Wenbiao Yin} and {Zhengwei Tao} and {Yida Zhao} and {Liwen Zhang} and {Haiyang Shen} and {Runnan Fang} and {Pengjun Xie} and {Jingren Zhou} and {Yong Jiang}},
+  year = {2025},
+  eprint = {2510.24698v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24698v1},
+  note = {First published: 2025-10-28; Recorded arXiv version: v1; Recorded version updated: 2025-10-28T17:51:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

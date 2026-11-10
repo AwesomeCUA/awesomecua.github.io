@@ -1,3 +1,11 @@
+---
+title: "qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTra… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fe85a6b4ffbdb303f382/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
 
 基于 Qwen2.5-VL-7B-Instruct、配有注意力动作头的图形界面定位模型权重。其示例根据截图和指令预测点击位置。

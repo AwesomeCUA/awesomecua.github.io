@@ -1,3 +1,11 @@
+---
+title: "AndroidLens: Long-latency Evaluation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-21302/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents
 
 AndroidLens 提供 571 项中英文移动端扩展任务，允许多条有效路径并保留环境异常。其动态评估利用嵌套里程碑和 Average Task Progress 衡量长流程任务的部分完成情况。
@@ -27,6 +35,18 @@ Yue Cao, Yingyao Wang, Pi Bu, Jingxuan Xing, Wei Jiang, Zekun Zhu, Junpeng Ma, S
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-21302/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-21302/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_21302,
+  title = {{AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents}},
+  author = {{Yue Cao} and {Yingyao Wang} and {Pi Bu} and {Jingxuan Xing} and {Wei Jiang} and {Zekun Zhu} and {Junpeng Ma} and {Sashuai Zhou} and {Tong Lu} and {Jun Song} and {Yu Cheng} and {Yuning Jiang} and {Bo Zheng}},
+  year = {2025},
+  eprint = {2512.21302v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.21302v1},
+  note = {First published: 2025-12-24; Recorded arXiv version: v1; Recorded version updated: 2025-12-24T17:40:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

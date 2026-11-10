@@ -1,3 +1,11 @@
+---
+title: "Awictor Relay · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-awictor-relay/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Awictor Relay
 
 自主式网页智能体，配合自行托管的浏览器执行通过消息应用派发的任务。

@@ -1,3 +1,11 @@
+---
+title: "Web Agents Should Use Typed Actions Instead… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-17245/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Web Agents Should Use Typed Actions Instead of Click-Based Browsing
 
 Proposes web verbs as typed actions for web agents, exposing operations with structured inputs, outputs and conditions so agents can compose auditable workflows.
@@ -26,6 +34,18 @@ Linxi Jiang, Rui Xi, Zhijie Liu, Shuo Chen, Zhiqiang Lin, Suman Nath
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-17245/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-17245/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_17245,
+  title = {{Web Agents Should Use Typed Actions Instead of Click-Based Browsing}},
+  author = {{Linxi Jiang} and {Rui Xi} and {Zhijie Liu} and {Shuo Chen} and {Zhiqiang Lin} and {Suman Nath}},
+  year = {2026},
+  eprint = {2602.17245v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.17245v2},
+  note = {First published: 2026-02-19; Recorded arXiv version: v2; Recorded version updated: 2026-06-07T07:49:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

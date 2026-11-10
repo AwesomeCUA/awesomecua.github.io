@@ -1,3 +1,11 @@
+---
+title: "CaptchaAgent: Verifiable Visual Reasoning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-12866/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CaptchaAgent: Verifiable Visual Reasoning for CAPTCHA Solving
 
 Presents CaptchaAgent, which builds an explicit visual representation of objects and relations, refines ambiguous regions, and checks counterfactual consistency before acting on interactive CAPTCHAs.
@@ -26,6 +34,18 @@ Shangquan Sun, Ruoyu Chen, Zhirui Liu, Xiang Liu, Chenghao Qian, Wenqi Ren, Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12866/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12866/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12866,
+  title = {{CaptchaAgent: Verifiable Visual Reasoning for CAPTCHA Solving}},
+  author = {{Shangquan Sun} and {Ruoyu Chen} and {Zhirui Liu} and {Xiang Liu} and {Chenghao Qian} and {Wenqi Ren} and {Xiaochun Cao}},
+  year = {2026},
+  eprint = {2610.12866v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12866v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T01:50:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

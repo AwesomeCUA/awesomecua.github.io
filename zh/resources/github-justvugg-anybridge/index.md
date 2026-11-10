@@ -1,3 +1,11 @@
+---
+title: "anybridge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-justvugg-anybridge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # anybridge
 
 从实时浏览器会话中捕获网站已认证的网络调用，并将其作为可供任何 AI 智能体调用的工具。

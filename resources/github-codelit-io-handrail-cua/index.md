@@ -1,3 +1,11 @@
+---
+title: "Handrail CUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-codelit-io-handrail-cua/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Handrail CUA
 
 Discover-once, replay-many computer-use automation framework with deterministic execution guardrails.

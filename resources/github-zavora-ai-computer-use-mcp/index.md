@@ -1,3 +1,11 @@
+---
+title: "Zavora Computer Use MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zavora-ai-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Zavora Computer Use MCP
 
 Zavora Computer Use MCP is a Rust MCP server and client for discovering desktop applications, inspecting UI controls, and executing actions.

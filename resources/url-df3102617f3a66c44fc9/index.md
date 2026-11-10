@@ -1,3 +1,11 @@
+---
+title: "Wuying Agentic Mobile | AwesomeCUA"
+url: https://awesomecua.com/resources/url-df3102617f3a66c44fc9/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Wuying Agentic Mobile
 
 Alibaba Cloud Wuying service that runs Qwen-driven agents (MobileUseAgent with OpenClaw) in cloud Android containers to carry out natural-language tasks across apps, for process automation and app testing.

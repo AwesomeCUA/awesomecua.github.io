@@ -1,3 +1,11 @@
+---
+title: "LLM-in-Sandbox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-llm-in-sandbox-llm-in-sandbox/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LLM-in-Sandbox
 
 LLM-in-Sandbox equips language models with virtualized Linux computer sandboxes and RL training pipelines for multi-turn task execution.

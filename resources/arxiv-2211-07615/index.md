@@ -1,3 +1,11 @@
+---
+title: "UGIF: UI Grounded Instruction Following | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-07615/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # UGIF: UI Grounded Instruction Following
 
 Introduces multilingual smartphone instruction-following data and a pipeline that retrieves help instructions and maps them to UI actions.
@@ -26,6 +34,18 @@ Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2211-07615/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2211-07615/citation.csl.json
+
+```bibtex
+@misc{arxiv_2211_07615,
+  title = {{UGIF: UI Grounded Instruction Following}},
+  author = {{Sagar Gubbi Venkatesh} and {Partha Talukdar} and {Srini Narayanan}},
+  year = {2022},
+  eprint = {2211.07615v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2211.07615v2},
+  note = {First published: 2022-11-14; Recorded arXiv version: v2; Recorded version updated: 2023-05-23T16:08:10Z.}
+}
+```
 
 ## Publication record
 

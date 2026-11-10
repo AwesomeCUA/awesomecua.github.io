@@ -1,3 +1,11 @@
+---
+title: "predicate-secure | AwesomeCUA"
+url: https://awesomecua.com/resources/github-predicatesystems-predicate-secure/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # predicate-secure
 
 predicate-secure is a security wrapper for browser agents that checks actions against policy, verifies outcomes, and records audit evidence.

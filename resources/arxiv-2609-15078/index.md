@@ -1,3 +1,11 @@
+---
+title: "Enabling Creative Exploration for Vibe Design… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15078/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Enabling Creative Exploration for Vibe Design Agents
 
 Bibliographic record for Enabling Creative Exploration for Vibe Design Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yifan Zhang, Nghi D. Q. Bui, Georgios Evangelopoulos, Arnaud Benard
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15078/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15078/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15078,
+  title = {{Enabling Creative Exploration for Vibe Design Agents}},
+  author = {{Yifan Zhang} and {Nghi D. Q. Bui} and {Georgios Evangelopoulos} and {Arnaud Benard}},
+  year = {2026},
+  eprint = {2609.15078v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15078v3},
+  note = {First published: 2026-09-14; Recorded arXiv version: v3; Recorded version updated: 2026-10-12T06:20:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

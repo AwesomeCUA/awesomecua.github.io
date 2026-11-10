@@ -1,3 +1,11 @@
+---
+title: "Yad (يد) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-holistis-al-yad/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Yad (يد)
 
 可自托管、以隐私为先的本地 AI 浏览器自动化智能体和 Chrome 扩展程序。

@@ -1,3 +1,11 @@
+---
+title: "AgiWorld: An Agentic Video World Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-02341/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgiWorld: An Agentic Video World Model for Building Persistent Worlds
 
 Bibliographic record for AgiWorld: An Agentic Video World Model for Building Persistent Worlds. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shaoheng Fang, Yiqun Mei, Hanwen Jiang, Xin Sun, Haitian Zheng, Hao Tan, Kalyan 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-02341/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-02341/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_02341,
+  title = {{AgiWorld: An Agentic Video World Model for Building Persistent Worlds}},
+  author = {{Shaoheng Fang} and {Yiqun Mei} and {Hanwen Jiang} and {Xin Sun} and {Haitian Zheng} and {Hao Tan} and {Kalyan Sunkavalli} and {Georgios Pavlakos} and {Qixing Huang} and {Yiwei Hu}},
+  year = {2026},
+  eprint = {2611.02341v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.02341v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T00:39:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

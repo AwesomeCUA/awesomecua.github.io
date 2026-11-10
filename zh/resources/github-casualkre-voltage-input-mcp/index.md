@@ -1,3 +1,11 @@
+---
+title: "VoltageInputMcp · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-casualkre-voltage-input-mcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # VoltageInputMcp
 
 面向 MCP 的双层本地输入引擎，由前沿规划模型将高频动作程序分派给本地执行器。

@@ -1,3 +1,11 @@
+---
+title: "DOCBENCH: A Benchmark for Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-10701/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DOCBENCH: A Benchmark for Evaluating LLM-based Document Reading Systems
 
 Bibliographic record for DOCBENCH: A Benchmark for Evaluating LLM-based Document Reading Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Anni Zou, Wenhao Yu, Hongming Zhang, Kaixin Ma, Deng Cai, Zhuosheng Zhang, Hai Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-10701/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-10701/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_10701,
+  title = {{DOCBENCH: A Benchmark for Evaluating LLM-based Document Reading Systems}},
+  author = {{Anni Zou} and {Wenhao Yu} and {Hongming Zhang} and {Kaixin Ma} and {Deng Cai} and {Zhuosheng Zhang} and {Hai Zhao} and {Dong Yu}},
+  year = {2024},
+  eprint = {2407.10701v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.10701v1},
+  note = {First published: 2024-07-15; Recorded arXiv version: v1; Recorded version updated: 2024-07-15T13:17:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

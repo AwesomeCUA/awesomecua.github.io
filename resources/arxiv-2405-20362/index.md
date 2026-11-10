@@ -1,3 +1,11 @@
+---
+title: "Hallucination-Free? Assessing the Reliability… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-20362/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools
 
 Bibliographic record for Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Varun Magesh, Faiz Surani, Matthew Dahl, Mirac Suzgun, Christopher D. Manning, D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-20362/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-20362/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_20362,
+  title = {{Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools}},
+  author = {{Varun Magesh} and {Faiz Surani} and {Matthew Dahl} and {Mirac Suzgun} and {Christopher D. Manning} and {Daniel E. Ho}},
+  year = {2024},
+  eprint = {2405.20362v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.20362v1},
+  note = {First published: 2024-05-30; Recorded arXiv version: v1; Recorded version updated: 2024-05-30T17:56:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

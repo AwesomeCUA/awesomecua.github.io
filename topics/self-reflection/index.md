@@ -1,3 +1,11 @@
+---
+title: "Self-reflection — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/self-reflection/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Self-reflection
 
 Reviewed topic membership; resources can appear in multiple topics.

@@ -1,3 +1,11 @@
+---
+title: "Large Multimodal Agents: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-15116/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Large Multimodal Agents: A Survey
 
 Bibliographic record for Large Multimodal Agents: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Junlin Xie, Zhihong Chen, Ruifei Zhang, Xiang Wan, Guanbin Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-15116/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-15116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_15116,
+  title = {{Large Multimodal Agents: A Survey}},
+  author = {{Junlin Xie} and {Zhihong Chen} and {Ruifei Zhang} and {Xiang Wan} and {Guanbin Li}},
+  year = {2024},
+  eprint = {2402.15116v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.15116v1},
+  note = {First published: 2024-02-23; Recorded arXiv version: v1; Recorded version updated: 2024-02-23T06:04:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

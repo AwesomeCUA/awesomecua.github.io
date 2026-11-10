@@ -1,3 +1,11 @@
+---
+title: "UI Debugger MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-developerz-ai-ui-debugger-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UI Debugger MCP
 
 Autonomous UI debugging MCP server that drives browsers and desktop apps to detect visual and functional bugs.

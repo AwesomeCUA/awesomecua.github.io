@@ -1,3 +1,11 @@
+---
+title: "Beam · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-51289d2105ef35fd0265/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Beam
 
 面向 AI 工作负载的无服务器云平台，其持久化 microVM 可配备带浏览器的 Linux 桌面，由 SDK、CLI 和 MCP 服务器通过截图、点击、按键和输入操作。

@@ -1,3 +1,11 @@
+---
+title: "blip-icon-captioning · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b4a01331e3e89e1bae9d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # blip-icon-captioning
 
 blip-icon-captioning 是经过微调的 BLIP 模型检查点，可将 macOS 界面图标和元素转成简短的自然语言描述，供无障碍应用使用。

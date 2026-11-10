@@ -1,3 +1,11 @@
+---
+title: "H | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-h/
+updated: 2026-11-09
+type: company
+lang: en
+---
+
 # H
 
 Publisher or product brand associated with H computer-use or browser automation offerings.

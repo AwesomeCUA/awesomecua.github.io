@@ -1,3 +1,11 @@
+---
+title: "OTA-v1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-404c719910f8f4a37149/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OTA-v1
 
 OTA-v1 is a fine-tuned browser-agent checkpoint designed to plan browser actions, use tools and maintain context across multi-step web tasks.

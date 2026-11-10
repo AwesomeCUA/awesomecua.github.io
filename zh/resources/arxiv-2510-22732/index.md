@@ -1,3 +1,11 @@
+---
+title: "WebATLAS: An LLM Agent with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-22732/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WebATLAS: An LLM Agent with Experience-Driven Memory and Action Simulation
 
 WebATLAS 是一种网页智能体，保存交互结果，并在行动前模拟候选操作，借助以往经验规划陌生网站上的导航。
@@ -27,6 +35,18 @@ Jiali Cheng, Anjishnu Kumar, Roshan Lal, Rishi Rajasekaran, Hani Ramezani, Omar 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-22732/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-22732/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_22732,
+  title = {{WebATLAS: An LLM Agent with Experience-Driven Memory and Action Simulation}},
+  author = {{Jiali Cheng} and {Anjishnu Kumar} and {Roshan Lal} and {Rishi Rajasekaran} and {Hani Ramezani} and {Omar Zia Khan} and {Oleg Rokhlenko} and {Sunny Chiu-Webster} and {Gang Hua} and {Hadi Amiri}},
+  year = {2025},
+  eprint = {2510.22732v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.22732v2},
+  note = {First published: 2025-10-26; Recorded arXiv version: v2; Recorded version updated: 2025-12-19T23:16:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

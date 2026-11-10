@@ -1,3 +1,11 @@
+---
+title: "Mind2Web data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-380a6eedcb4de7778e88/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Mind2Web data
 
 Hub release of Mind2Web's crowdsourced web-task demonstrations: train-split JSON with raw and cleaned HTML, candidate elements and CLICK/TYPE/SELECT steps, plus a password-protected archive of the three test splits.

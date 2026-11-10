@@ -1,3 +1,11 @@
+---
+title: "dsh-vdesktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jafewff-dsh-vdesktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-vdesktop
 
 dsh-vdesktop 在不可见的 Win32 虚拟桌面（`CreateDesktopW`）中运行 Windows GUI 应用，并提供 12 个 `vdesk_*` 智能体控制工具。

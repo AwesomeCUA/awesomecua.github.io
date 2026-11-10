@@ -1,3 +1,11 @@
+---
+title: "Zoom in, Click out: Unlocking and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-05941/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding
 
 ZoomClick 通过反复放大和调整上下文，在无需训练的情况下改进 GUI 定位。论文研究放大层级、裁剪尺寸等选择，并提出 GUIZoom-Bench 来评估定位模型对放大视图的响应。
@@ -27,6 +35,18 @@ Zhiyuan Jiang, Shenghao Xie, Wenyi Li, Wenqiang Zu, Peihang Li, Jiahao Qiu, Siqi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-05941/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-05941/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_05941,
+  title = {{Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding}},
+  author = {{Zhiyuan Jiang} and {Shenghao Xie} and {Wenyi Li} and {Wenqiang Zu} and {Peihang Li} and {Jiahao Qiu} and {Siqi Pei} and {Lei Ma} and {Tiejun Huang} and {Mengdi Wang} and {Shilong Liu}},
+  year = {2025},
+  eprint = {2512.05941v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.05941v1},
+  note = {First published: 2025-12-05; Recorded arXiv version: v1; Recorded version updated: 2025-12-05T18:39:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

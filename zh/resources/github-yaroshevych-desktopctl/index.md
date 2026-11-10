@@ -1,3 +1,11 @@
+---
+title: "DesktopCtl · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yaroshevych-desktopctl/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DesktopCtl
 
 面向 AI 智能体、使用 GPU 加速的本地 macOS CLI，可检查屏幕文字和控件，并发送鼠标及键盘动作。

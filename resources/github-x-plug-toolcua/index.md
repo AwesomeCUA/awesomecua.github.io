@@ -1,3 +1,11 @@
+---
+title: "ToolCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-x-plug-toolcua/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ToolCUA
 
 ToolCUA trains computer-use agents to orchestrate hybrid MCP tool invocations and GUI actions on OSWorld-MCP.

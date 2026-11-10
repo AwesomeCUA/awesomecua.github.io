@@ -1,3 +1,11 @@
+---
+title: "Towards All Optical, Universal Quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1208-2252/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards All Optical, Universal Quantum Computation using Trapped Electron Spins and Cavity Polariton Resonance
 
 Status: excluded from the active CUA catalog after scope review.

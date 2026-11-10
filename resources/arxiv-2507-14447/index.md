@@ -1,3 +1,11 @@
+---
+title: "Routine: A Structural Planning Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-14447/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Routine: A Structural Planning Framework for LLM Agent System in Enterprise
 
 Bibliographic record for Routine: A Structural Planning Framework for LLM Agent System in Enterprise. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Guancheng Zeng, Xueyi Chen, Jiawang Hu, Shaohua Qi, Yaxuan Mao, Zhantao Wang, Yi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-14447/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-14447/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_14447,
+  title = {{Routine: A Structural Planning Framework for LLM Agent System in Enterprise}},
+  author = {{Guancheng Zeng} and {Xueyi Chen} and {Jiawang Hu} and {Shaohua Qi} and {Yaxuan Mao} and {Zhantao Wang} and {Yifan Nie} and {Shuang Li} and {Qiuyang Feng} and {Pengxu Qiu} and {Yujia Wang} and {Wenqiang Han} and {Linyan Huang} and {Gang Li} and {Jingjing Mo} and {Haowen Hu}},
+  year = {2025},
+  eprint = {2507.14447v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.14447v2},
+  note = {First published: 2025-07-19; Recorded arXiv version: v2; Recorded version updated: 2025-07-22T10:01:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

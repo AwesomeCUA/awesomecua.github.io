@@ -1,3 +1,11 @@
+---
+title: "one-for-all | AwesomeCUA"
+url: https://awesomecua.com/resources/github-elijahumana-one-for-all/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # one-for-all
 
 Unified macOS control plane for AI agents spanning browser automation, native desktop apps, terminals, and system hardware.

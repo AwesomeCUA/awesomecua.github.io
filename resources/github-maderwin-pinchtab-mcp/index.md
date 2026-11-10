@@ -1,3 +1,11 @@
+---
+title: "pinchtab-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pinchtab-mcp
 
 Model Context Protocol server for PinchTab enabling AI agents to control Chromium browsers via accessibility trees and CDP.

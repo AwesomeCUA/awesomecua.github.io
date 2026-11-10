@@ -1,3 +1,11 @@
+---
+title: "Enabling Intelligent Interactions between an… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-03604/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach
 
 Bibliographic record for Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bin Hu, Chenyang Zhao, Pu Zhang, Zihao Zhou, Yuanhang Yang, Zenglin Xu, Bin Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-03604/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-03604/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_03604,
+  title = {{Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach}},
+  author = {{Bin Hu} and {Chenyang Zhao} and {Pu Zhang} and {Zihao Zhou} and {Yuanhang Yang} and {Zenglin Xu} and {Bin Liu}},
+  year = {2023},
+  eprint = {2306.03604v8},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.03604v8},
+  note = {First published: 2023-06-06; Recorded arXiv version: v8; Recorded version updated: 2024-06-21T09:02:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

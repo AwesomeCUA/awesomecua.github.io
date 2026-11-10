@@ -1,3 +1,11 @@
+---
+title: "WebChain v2 · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-56f08987cc19b82dc607/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WebChain v2
 
 WebChain 人工网页轨迹的清洗版 v2，以轨迹级和 Seed 风格滑动窗口 SFT Parquet 提供数据，配有对齐截图、操作元数据和 150 条轨迹的评估子集。

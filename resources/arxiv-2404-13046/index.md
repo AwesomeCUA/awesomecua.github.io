@@ -1,3 +1,11 @@
+---
+title: "MoVA: Adapting Mixture of Vision Experts to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-13046/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MoVA: Adapting Mixture of Vision Experts to Multimodal Context
 
 Bibliographic record for MoVA: Adapting Mixture of Vision Experts to Multimodal Context. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhuofan Zong, Bingqi Ma, Dazhong Shen, Guanglu Song, Hao Shao, Dongzhi Jiang, Ho
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-13046/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-13046/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_13046,
+  title = {{MoVA: Adapting Mixture of Vision Experts to Multimodal Context}},
+  author = {{Zhuofan Zong} and {Bingqi Ma} and {Dazhong Shen} and {Guanglu Song} and {Hao Shao} and {Dongzhi Jiang} and {Hongsheng Li} and {Yu Liu}},
+  year = {2024},
+  eprint = {2404.13046v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.13046v2},
+  note = {First published: 2024-04-19; Recorded arXiv version: v2; Recorded version updated: 2024-10-31T17:39:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

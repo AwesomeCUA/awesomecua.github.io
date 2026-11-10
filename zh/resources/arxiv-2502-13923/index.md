@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL Technical Report · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-13923/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Qwen2.5-VL Technical Report
 
 介绍视觉语言模型 Qwen2.5-VL；除一般视觉任务外，它还可作为视觉智能体执行计算机和移动设备操作任务。
@@ -27,6 +35,18 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-13923/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-13923/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_13923,
+  title = {{Qwen2.5-VL Technical Report}},
+  author = {{Shuai Bai} and {Keqin Chen} and {Xuejing Liu} and {Jialin Wang} and {Wenbin Ge} and {Sibo Song} and {Kai Dang} and {Peng Wang} and {Shijie Wang} and {Jun Tang} and {Humen Zhong} and {Yuanzhi Zhu} and {Mingkun Yang} and {Zhaohai Li} and {Jianqiang Wan} and {Pengfei Wang} and {Wei Ding} and {Zheren Fu} and {Yiheng Xu} and {Jiabo Ye} and {Xi Zhang} and {Tianbao Xie} and {Zesen Cheng} and {Hang Zhang} and {Zhibo Yang} and {Haiyang Xu} and {Junyang Lin}},
+  year = {2025},
+  eprint = {2502.13923v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.13923v1},
+  note = {First published: 2025-02-19; Recorded arXiv version: v1; Recorded version updated: 2025-02-19T18:00:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

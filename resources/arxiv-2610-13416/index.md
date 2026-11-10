@@ -1,3 +1,11 @@
+---
+title: "Web$hell: A Unified Interface for Agentic Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13416/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Web$hell: A Unified Interface for Agentic Web Access
 
 Introduces Web$hell, an interface that compiles live pages into persistent information and action objects so agents can gather evidence, navigate websites, and reuse acquired content through shared operations.
@@ -26,6 +34,18 @@ Sunghwan Kim, Deogyong Kim, Sangam Lee, Donguk Kwon, Dongha Lee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13416/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13416/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13416,
+  title = {{Web\$hell: A Unified Interface for Agentic Web Access}},
+  author = {{Sunghwan Kim} and {Deogyong Kim} and {Sangam Lee} and {Donguk Kwon} and {Dongha Lee}},
+  year = {2026},
+  eprint = {2610.13416v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13416v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T11:23:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

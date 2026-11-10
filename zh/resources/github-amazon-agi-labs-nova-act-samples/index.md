@@ -1,3 +1,11 @@
+---
+title: "Amazon Nova Act Samples · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Amazon Nova Act Samples
 
 代码示例和参考应用展示如何使用 Amazon Nova Act 构建浏览器工作流，并将 SDK 部署到 AWS 计算服务。

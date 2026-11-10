@@ -1,3 +1,11 @@
+---
+title: "Tarsier-AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-siddzzzz-tarsier/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Tarsier-AI
 
 Tarsier-AI transforms desktop and web accessibility trees into portable semantic snapshots and deterministic action primitives for LLM agents.

@@ -1,3 +1,11 @@
+---
+title: "Web Context Interface (WCI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amirrezaalasti-webcontextinterface/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Web Context Interface (WCI)
 
 Web Context Interface (WCI) is a three-layer specification and toolkit augmenting HTML with structured semantic metadata for AI web agents.

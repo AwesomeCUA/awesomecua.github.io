@@ -1,3 +1,11 @@
+---
+title: "VeriGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8477ada5b7de1d399c9d/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # VeriGUI
 
 VeriWeb dataset of 302 web information-seeking tasks, with annotated subtasks, human action logs, and execution videos for evaluating long-chain agents.

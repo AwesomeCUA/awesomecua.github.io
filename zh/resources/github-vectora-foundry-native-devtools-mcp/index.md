@@ -1,3 +1,11 @@
+---
+title: "native-devtools-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vectora-foundry-native-devtools-mcp/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # native-devtools-mcp
 
 本地 Rust MCP 服务器，可操作 macOS 和 Windows 应用、通过 CDP 操作 Chrome 或 Electron 页面，并通过 ADB 操作 Android 设备，支持截图、OCR、无障碍查询、输入和模板匹配。

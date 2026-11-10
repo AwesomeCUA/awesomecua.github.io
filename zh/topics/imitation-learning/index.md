@@ -1,3 +1,11 @@
+---
+title: "模仿学习：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/imitation-learning/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 模仿学习
 
 Reviewed topic membership; resources can appear in multiple topics.

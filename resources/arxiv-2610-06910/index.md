@@ -1,3 +1,11 @@
+---
+title: "GAMEGO: Training Game-Dev Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-06910/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets
 
 Bibliographic record for GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haoyue Yang, Jingyao Li, Zhengfan Wu, Jing Liu, Xuanle Zhao, Kang Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-06910/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-06910/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_06910,
+  title = {{GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets}},
+  author = {{Haoyue Yang} and {Jingyao Li} and {Zhengfan Wu} and {Jing Liu} and {Xuanle Zhao} and {Kang Liu}},
+  year = {2026},
+  eprint = {2610.06910v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06910v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T17:05:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

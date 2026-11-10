@@ -1,3 +1,11 @@
+---
+title: "Browser Reliability Runtime · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-oosuhada-browser-reliability-runtime/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Browser Reliability Runtime
 
 用于故障诊断、依据策略恢复和动作验证的多模态浏览器可靠性运行时。

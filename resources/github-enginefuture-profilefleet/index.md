@@ -1,3 +1,11 @@
+---
+title: "ProfileFleet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-enginefuture-profilefleet/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ProfileFleet
 
 Local-first TypeScript orchestration plane for managing persistent fingerprint-browser profiles across AI agents.

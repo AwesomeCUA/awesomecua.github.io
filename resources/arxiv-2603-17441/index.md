@@ -1,3 +1,11 @@
+---
+title: "AdaZoom-GUI: Adaptive Zoom-based GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-17441/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement
 
 Combines instruction rewriting with conditional second-stage zooming for small GUI targets. A grounding dataset and GRPO training support joint prediction of click coordinates and element bounding boxes.
@@ -26,6 +34,18 @@ Siqi Pei, Liang Tang, Tiaonan Duan, Long Chen, Shuxian Li, Kaer Huang, Yanzhe Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-17441/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-17441/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_17441,
+  title = {{AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement}},
+  author = {{Siqi Pei} and {Liang Tang} and {Tiaonan Duan} and {Long Chen} and {Shuxian Li} and {Kaer Huang} and {Yanzhe Jing} and {Yiqiang Yan} and {Bo Zhang} and {Chenghao Jiang} and {Borui Zhang} and {Jiwen Lu}},
+  year = {2026},
+  eprint = {2603.17441v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.17441v1},
+  note = {First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T07:26:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

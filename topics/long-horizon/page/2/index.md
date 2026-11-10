@@ -1,3 +1,11 @@
+---
+title: "Long-horizon tasks — computer-use…, page 2 | AwesomeCUA"
+url: https://awesomecua.com/topics/long-horizon/page/2/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Long-horizon tasks — computer-use research, page 2
 
 HTML page: https://awesomecua.com/topics/long-horizon/page/2/

@@ -1,3 +1,11 @@
+---
+title: "WebRain | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prokopis3-webrain/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # WebRain
 
 Single-binary Rust Model Context Protocol server for LLM-driven browser automation and web scraping across three browser engines.

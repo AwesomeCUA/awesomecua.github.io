@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 1.5 32B Think | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e0e4712ee701f652bf31/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Owl 1.5 32B Think
 
 Thinking variant of the 32B GUI-Owl 1.5 native GUI agent model, built on Qwen3-VL and released with Mobile-Agent-v3.5 for desktop, mobile and browser control, with about 33.4B BF16 parameters under MIT.

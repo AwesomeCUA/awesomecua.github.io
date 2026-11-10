@@ -1,3 +1,11 @@
+---
+title: "\"What Are You Really Trying to Do?\"… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-00497/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # "What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use
 
 Bibliographic record for "What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Shardul Sapkota, Matthew Jörke, Zane Sabbagh, Omar Shaikh, Grace Wang, James A.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-00497/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-00497/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_00497,
+  title = {{"What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use}},
+  author = {{Shardul Sapkota} and {Matthew Jörke} and {Zane Sabbagh} and {Omar Shaikh} and {Grace Wang} and {James A. Landay}},
+  year = {2026},
+  eprint = {2605.00497v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.00497v2},
+  note = {First published: 2026-05-01; Recorded arXiv version: v2; Recorded version updated: 2026-09-09T17:20:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

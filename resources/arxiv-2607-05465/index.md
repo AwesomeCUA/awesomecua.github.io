@@ -1,3 +1,11 @@
+---
+title: "CanvasAgent: Enabling Complex Image Creation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-05465/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration
 
 Status: excluded from the active CUA catalog after scope review.

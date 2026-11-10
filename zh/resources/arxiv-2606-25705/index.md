@@ -1,3 +1,11 @@
+---
+title: "GUI agent: Guided Exploration of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-25705/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GUI agent: Guided Exploration of User-Sensitive Screens
 
 这篇短文开发一种探索智能体，从演示过的 GUI 任务出发，发现可能进入用户敏感屏幕的请求。所提探索方法有助于识别应将任务执行交还用户的情形。
@@ -27,6 +35,18 @@ Aradhana Nayak, Mussadiq Nazeer, Wang Peng, Feng Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-25705/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-25705/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_25705,
+  title = {{GUI agent: Guided Exploration of User-Sensitive Screens}},
+  author = {{Aradhana Nayak} and {Mussadiq Nazeer} and {Wang Peng} and {Feng Liu}},
+  year = {2026},
+  eprint = {2606.25705v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.25705v1},
+  note = {First published: 2026-06-24; Recorded arXiv version: v1; Recorded version updated: 2026-06-24T11:18:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "MCP Master Puppeteer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP Master Puppeteer
 
 MCP Master Puppeteer is a Puppeteer Model Context Protocol server optimized for minimal token usage via compact DOM/accessibility extraction.

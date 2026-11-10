@@ -1,3 +1,11 @@
+---
+title: "CLIP-Layout: Style-Consistent Indoor Scene… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-03565/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding
 
 Bibliographic record for CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jingyu Liu, Wenhan Xiong, Ian Jones, Yixin Nie, Anchit Gupta, Barlas Oğuz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-03565/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-03565/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_03565,
+  title = {{CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding}},
+  author = {{Jingyu Liu} and {Wenhan Xiong} and {Ian Jones} and {Yixin Nie} and {Anchit Gupta} and {Barlas Oğuz}},
+  year = {2023},
+  eprint = {2303.03565v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.03565v2},
+  note = {First published: 2023-03-07; Recorded arXiv version: v2; Recorded version updated: 2023-06-02T04:48:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

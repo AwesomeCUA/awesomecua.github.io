@@ -1,3 +1,11 @@
+---
+title: "Salesforce/GTA1-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5288515eb50aef1e84a2/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Salesforce/GTA1-32B
 
 A 32B GUI grounding checkpoint trained with GRPO to produce screen actions from tasks and screenshots, with reported results on grounding and desktop agent benchmarks.

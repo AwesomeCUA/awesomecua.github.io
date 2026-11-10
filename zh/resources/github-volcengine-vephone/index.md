@@ -1,3 +1,11 @@
+---
+title: "vePhone · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-volcengine-vephone/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # vePhone
 
 vePhone 提供可远程控制的云手机，并附有移动端与计算机使用智能体的接入示例，涵盖任务执行和结果查询。

@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Cache | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rohanarun-computer-use-cache/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Computer-Use Cache
 
 Drop-in OpenAI-compatible caching proxy that records and replays repeated computer-use and browser-agent workflows.

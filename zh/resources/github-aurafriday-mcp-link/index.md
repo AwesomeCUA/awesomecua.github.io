@@ -1,3 +1,11 @@
+---
+title: "MCP Link · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aurafriday-mcp-link/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MCP Link
 
 一个浏览器扩展，让 ChatGPT、Claude 等聊天 AI 调用用户批准的 MCP 工具；配合 MCP Link Server 使用时，可实现自动浏览和网页交互。

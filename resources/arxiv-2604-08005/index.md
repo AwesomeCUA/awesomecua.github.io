@@ -1,3 +1,11 @@
+---
+title: "Preference Redirection via Attention… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-08005/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Preference Redirection via Attention Concentration: An Attack on Computer Use Agents
 
 Introduces PRAC, an adversarial-patch attack that redirects a computer-use agent's visual attention to steer product selection on an online shopping platform.
@@ -26,6 +34,18 @@ Dominik Seip, Matthias Hein
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-08005/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-08005/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_08005,
+  title = {{Preference Redirection via Attention Concentration: An Attack on Computer Use Agents}},
+  author = {{Dominik Seip} and {Matthias Hein}},
+  year = {2026},
+  eprint = {2604.08005v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.08005v2},
+  note = {First published: 2026-04-09; Recorded arXiv version: v2; Recorded version updated: 2026-08-10T12:07:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

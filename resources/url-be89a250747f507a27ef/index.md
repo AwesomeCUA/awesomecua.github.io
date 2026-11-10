@@ -1,3 +1,11 @@
+---
+title: "MoGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-be89a250747f507a27ef/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # MoGUI
 
 Android app GUI crawl with per-app navigation graphs that link screen IDs through the UI action taken, plus 200 archive shards of the captured screens.

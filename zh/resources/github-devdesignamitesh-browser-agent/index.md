@@ -1,3 +1,11 @@
+---
+title: "DevDesignAmitesh Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-devdesignamitesh-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DevDesignAmitesh Browser Agent
 
 自主 AI 网页智能体，根据自然语言提示规划并执行多步浏览器交互。

@@ -1,3 +1,11 @@
+---
+title: "Evaluation — computer-use research, page 14 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/14/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 14
 
 HTML page: https://awesomecua.com/topics/evaluation/page/14/

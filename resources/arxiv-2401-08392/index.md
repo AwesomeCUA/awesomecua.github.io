@@ -1,3 +1,11 @@
+---
+title: "DoraemonGPT: Toward Understanding Dynamic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-08392/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent)
 
 Bibliographic record for DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent). Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zongxin Yang, Guikun Chen, Xiaodi Li, Wenguan Wang, Yi Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-08392/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-08392/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_08392,
+  title = {{DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent)}},
+  author = {{Zongxin Yang} and {Guikun Chen} and {Xiaodi Li} and {Wenguan Wang} and {Yi Yang}},
+  year = {2024},
+  eprint = {2401.08392v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.08392v4},
+  note = {First published: 2024-01-16; Recorded arXiv version: v4; Recorded version updated: 2025-03-06T03:27:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

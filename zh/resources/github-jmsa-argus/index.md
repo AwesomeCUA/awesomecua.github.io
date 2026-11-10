@@ -1,3 +1,11 @@
+---
+title: "Argus CDP MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jmsa-argus/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Argus CDP MCP Server
 
 Chrome DevTools Protocol MCP 服务器，为 AI 智能体提供实时浏览器 DOM、控制台、网络和交互工具。

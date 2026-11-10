@@ -1,3 +1,11 @@
+---
+title: "FurlPay Bot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-furlpay-furlpay-bot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # FurlPay Bot
 
 常驻 AI 队友，配有专属虚拟计算机、浏览器、长期记忆和语音界面。

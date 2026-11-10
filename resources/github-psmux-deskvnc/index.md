@@ -1,3 +1,11 @@
+---
+title: "DeskVNC | AwesomeCUA"
+url: https://awesomecua.com/resources/github-psmux-deskvnc/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DeskVNC
 
 Pure-Rust VNC, RDP, and SSH remote desktop client with Tauri UI for managing agent and remote machines.

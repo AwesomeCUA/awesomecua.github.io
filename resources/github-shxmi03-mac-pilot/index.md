@@ -1,3 +1,11 @@
+---
+title: "mac-pilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shxmi03-mac-pilot/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mac-pilot
 
 Zero-dependency macOS automation CLI and MCP server built on Python `ctypes` and CoreGraphics.

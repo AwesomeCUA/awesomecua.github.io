@@ -1,3 +1,11 @@
+---
+title: "SEAGym: An Evaluation Environment for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-17546/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SEAGym: An Evaluation Environment for Self-Evolving LLM Agents
 
 Bibliographic record for SEAGym: An Evaluation Environment for Self-Evolving LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Congjie Zheng, Chuanyi Xue, Bin Liang, Jun Yang, Changshui Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-17546/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-17546/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_17546,
+  title = {{SEAGym: An Evaluation Environment for Self-Evolving LLM Agents}},
+  author = {{Congjie Zheng} and {Chuanyi Xue} and {Bin Liang} and {Jun Yang} and {Changshui Zhang}},
+  year = {2026},
+  eprint = {2606.17546v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.17546v1},
+  note = {First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T05:50:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

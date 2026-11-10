@@ -1,3 +1,11 @@
+---
+title: "OpenManus · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-foundationagents-openmanus/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # OpenManus
 
 OpenManus 是开源智能体框架，可从终端运行任务，并通过 Browser Use 集成浏览器操作和截图。

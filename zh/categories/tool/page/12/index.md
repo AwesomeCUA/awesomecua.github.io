@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体工具（第 12 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/page/12/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具：第 12 页
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/page/12/ · [English](https://awesomecua.com/categories/tool/page/12/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
-- [Vision-MCP](https://awesomecua.com/zh/resources/github-haruhiyuki-vision-mcp/)：桌面应用交互 MCP 服务器，结合视觉 UI 元素检测与鼠标、键盘自动化。
 - [Visual Context Router](https://awesomecua.com/zh/resources/github-fangsylar-pixel-visual-context-router/)：具备 token 感知能力的视觉上下文路由器，在发送给 CUA 模型前裁剪或缩小完整截图，或用局部区域替代完整截图。
 - [VNC MCP Server](https://awesomecua.com/zh/resources/github-volkan-m-vnc-mcp-server/)：VNC MCP Server 通过 RFB/VNC 协议向 MCP 智能体提供远程桌面截图、OCR 文本定位和鼠标键盘控制。
 - [vnc-computer-use CLI](https://awesomecua.com/zh/resources/github-eyhn-vnc/)：供计算机使用智能体通过 VNC 截图并发送鼠标和键盘动作的命令行界面。

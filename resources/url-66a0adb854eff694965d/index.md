@@ -1,3 +1,11 @@
+---
+title: "Uni-GUI-OpenMobile | AwesomeCUA"
+url: https://awesomecua.com/resources/url-66a0adb854eff694965d/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Uni-GUI-OpenMobile
 
 Android trajectories on 19 open-source apps from the UI-MOPD training data, collected via AndroidWorld: 2,640 tasks with step screenshots, reasoning traces and normalized click, swipe, type and answer actions.

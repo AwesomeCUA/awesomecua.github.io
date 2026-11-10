@@ -1,3 +1,11 @@
+---
+title: "GroundAnything | AwesomeCUA"
+url: https://awesomecua.com/resources/github-groundingpi-groundanything/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # GroundAnything
 
 GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.

@@ -1,3 +1,11 @@
+---
+title: "Language Models can Self-Improve at… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-02878/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Language Models can Self-Improve at State-Value Estimation for Better Search
 
 提出 Self-Taught Lookahead (STL)，训练价值模型预测行动及其后续状态，以减少搜索开销，并在网页智能体任务上评估。
@@ -27,6 +35,18 @@ Ethan Mendes, Alan Ritter
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-02878/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-02878/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_02878,
+  title = {{Language Models can Self-Improve at State-Value Estimation for Better Search}},
+  author = {{Ethan Mendes} and {Alan Ritter}},
+  year = {2025},
+  eprint = {2503.02878v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.02878v3},
+  note = {First published: 2025-03-04; Recorded arXiv version: v3; Recorded version updated: 2025-10-29T22:28:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Resource Allocation in Cloud Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-11782/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Resource Allocation in Cloud Computing Using Genetic Algorithm and Neural Network
 
 Status: excluded from the active CUA catalog after scope review.

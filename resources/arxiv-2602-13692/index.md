@@ -1,3 +1,11 @@
+---
+title: "ThunderAgent: A Simple, Fast and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-13692/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "WebThinker-R1-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8076f65dc82b4dcea18c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # WebThinker-R1-32B
 
 用于网页研究的推理模型权重，通过交互式点击搜索和浏览页面，并利用收集的信息起草报告。

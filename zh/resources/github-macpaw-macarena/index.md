@@ -1,3 +1,11 @@
+---
+title: "MacArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-macpaw-macarena/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # MacArena
 
 MacArena 在可复现的在线 macOS 虚拟机环境中，通过跨应用桌面任务评测计算机使用智能体。

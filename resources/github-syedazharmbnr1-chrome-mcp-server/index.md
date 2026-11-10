@@ -1,3 +1,11 @@
+---
+title: "Chrome MCP Server (18 Tools) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-syedazharmbnr1-chrome-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome MCP Server (18 Tools)
 
 Node.js Model Context Protocol server providing 18 tools for Chrome browser navigation, DOM interaction, and screenshot capture.

@@ -1,3 +1,11 @@
+---
+title: "SkillHarness: Harnessing Safe Skills for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-20636/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SkillHarness: Harnessing Safe Skills for Computer-Use Agents
 
 Introduces SkillHarness, a framework for computer-use agents to learn and reuse skills under safety constraints when interactions include prompt injections or pop-ups.
@@ -26,6 +34,18 @@ Yurun Chen, Biao Yi, Keting Yin, Shengyu Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-20636/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-20636/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20636,
+  title = {{SkillHarness: Harnessing Safe Skills for Computer-Use Agents}},
+  author = {{Yurun Chen} and {Biao Yi} and {Keting Yin} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2606.20636v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20636v1},
+  note = {First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T06:33:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

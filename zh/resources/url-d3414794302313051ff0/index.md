@@ -1,3 +1,11 @@
+---
+title: "Manus · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d3414794302313051ff0/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Manus
 
 支持通过浏览器执行任务的通用智能体平台。

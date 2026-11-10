@@ -1,3 +1,11 @@
+---
+title: "Multimodal Table Understanding | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-08100/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Multimodal Table Understanding
 
 Bibliographic record for Multimodal Table Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mingyu Zheng, Xinwei Feng, Qingyi Si, Qiaoqiao She, Zheng Lin, Wenbin Jiang, Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-08100/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-08100/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_08100,
+  title = {{Multimodal Table Understanding}},
+  author = {{Mingyu Zheng} and {Xinwei Feng} and {Qingyi Si} and {Qiaoqiao She} and {Zheng Lin} and {Wenbin Jiang} and {Weiping Wang}},
+  year = {2024},
+  eprint = {2406.08100v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.08100v1},
+  note = {First published: 2024-06-12; Recorded arXiv version: v1; Recorded version updated: 2024-06-12T11:27:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

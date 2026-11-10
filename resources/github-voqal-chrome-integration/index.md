@@ -1,3 +1,11 @@
+---
+title: "Voqal Chrome integration | AwesomeCUA"
+url: https://awesomecua.com/resources/github-voqal-chrome-integration/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Voqal Chrome integration
 
 Chrome extension that connects the Voqal voice agent to the browser over a local WebSocket, reporting open tabs and running Voqal commands to open URLs, create or switch tabs and evaluate JavaScript in the active page.

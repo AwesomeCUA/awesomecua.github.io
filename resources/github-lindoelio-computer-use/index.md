@@ -1,3 +1,11 @@
+---
+title: "computer-use (github.com/lindoelio/computer-us… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lindoelio-computer-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # computer-use
 
 computer-use is a Rust CLI and library for agents to capture desktop state and perform mouse and keyboard actions across macOS, Linux and Windows.

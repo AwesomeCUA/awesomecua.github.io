@@ -1,3 +1,11 @@
+---
+title: "GLM-4.6V | AwesomeCUA"
+url: https://awesomecua.com/resources/url-17d4fdd26efe4e3b9e05/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GLM-4.6V
 
 GLM-4.6V is a vision-language model whose release describes screenshot-based tool use and reconstruction and editing of web interfaces from UI images.

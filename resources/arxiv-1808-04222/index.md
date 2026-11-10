@@ -1,3 +1,11 @@
+---
+title: "Addressing Client Needs for Cloud Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1808-04222/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Addressing Client Needs for Cloud Computing using Formal Foundations
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Latent State Estimation Helps UI Agents to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-11120/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Latent State Estimation Helps UI Agents to Reason
 
 Studies explicit textual estimates of latent UI state, including whether commanded actions occurred and how far a task has progressed. The experiments compare agents that reason with these estimates against agents that omit them across public and internal task benchmarks.
@@ -26,6 +34,18 @@ William E Bishop, Alice Li, Christopher Rawles, Oriana Riva
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-11120/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-11120/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_11120,
+  title = {{Latent State Estimation Helps UI Agents to Reason}},
+  author = {{William E Bishop} and {Alice Li} and {Christopher Rawles} and {Oriana Riva}},
+  year = {2024},
+  eprint = {2405.11120v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.11120v1},
+  note = {First published: 2024-05-17; Recorded arXiv version: v1; Recorded version updated: 2024-05-17T23:27:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

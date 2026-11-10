@@ -1,3 +1,11 @@
+---
+title: "browserserve · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-gateway-browserserve/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # browserserve
 
 这是一个自托管的 Chrome 服务器，通过 CDP 为 Playwright、Puppeteer 等客户端提供隔离的浏览器会话，并支持会话池和资源控制。

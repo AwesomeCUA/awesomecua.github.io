@@ -1,3 +1,11 @@
+---
+title: "OSWorld-CogAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-issumer-ku-osworld-cogagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OSWorld-CogAgent
 
 Provides a provider-neutral CogAgent-9B model server, adapter, and multi-environment evaluation runner for OSWorld.

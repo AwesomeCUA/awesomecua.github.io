@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-38B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-099960c12bbdd80f73cb/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3_5-38B-HF
 
 An HF-format 38B checkpoint in the InternVL3.5 multimodal model family, whose card lists GUI interaction among its capabilities and describes staged training and inference.

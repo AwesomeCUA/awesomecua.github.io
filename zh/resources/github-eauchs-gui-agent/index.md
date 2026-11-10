@@ -1,3 +1,11 @@
+---
+title: "Two-Layer macOS GUI Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eauchs-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Two-Layer macOS GUI Agent
 
 双层 macOS GUI 导航智能体，将 VLM 屏幕感知与 LLM 策略性动作规划分开。

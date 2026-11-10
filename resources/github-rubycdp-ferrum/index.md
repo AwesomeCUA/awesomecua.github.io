@@ -1,3 +1,11 @@
+---
+title: "Ferrum | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rubycdp-ferrum/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Ferrum
 
 Ferrum is a Ruby API for controlling Chrome or Chromium through the DevTools Protocol. It supports browser navigation, page interaction and screenshots.

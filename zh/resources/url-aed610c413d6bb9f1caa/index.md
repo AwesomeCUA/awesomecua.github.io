@@ -1,3 +1,11 @@
+---
+title: "Gelato OS-World agent trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-aed610c413d6bb9f1caa/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Gelato OS-World agent trajectories
 
 Gelato-30B-A3B 和 GTA1-32B 在相同的 GPT-5 规划、基于 GTA1.5 的框架中各运行三轮 OS-World 任务，提供逐任务轨迹、初始及逐步截图和自动评估结果。

@@ -1,3 +1,11 @@
+---
+title: "Owl Browser Claude Code Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-olib-ai-owl-browser-claude-plugin/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Owl Browser Claude Code Plugin
 
 Claude Code plugin for Owl Browser providing handle-indexed page reading and agent-native browser automation.

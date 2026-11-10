@@ -1,3 +1,11 @@
+---
+title: "ibara | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mayberrydt-ibara/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # ibara
 
 ibara connects MCP-enabled agents to spare Omarchy computers for desktop and browser tasks. A console displays screens and tasks and lets a person take control.

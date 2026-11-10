@@ -1,14 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 20 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/20/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 20 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/20/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [OpenAdapt Agent](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-agent/)
-- [OpenAdapt Desktop](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-desktop/)
-- [openadapt-flow](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-flow/)
-- [OpenAgent](https://awesomecua.com/zh/resources/github-the-open-agent-openagent/)
-- [OpenAgentFleet](https://awesomecua.com/zh/resources/github-robbyczgw-cla-openagentfleet/)
 - [OpenAgents Web Agent](https://awesomecua.com/zh/resources/component-xlang-ai-openagents-web-agent/)
 - [OpenAI Codex CLI](https://awesomecua.com/zh/resources/github-openai-codex/)
 - [OpenAmer Agent](https://awesomecua.com/zh/resources/github-openamer-openamer/)
@@ -64,3 +67,8 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/20/
 - [Panerelay](https://awesomecua.com/zh/resources/github-f-loat-panerelay/)
 - [PANOPTES Screen MCP Server](https://awesomecua.com/zh/resources/github-yxpil-panoptes/)
 - [Parallels CLI Skill for Codex](https://awesomecua.com/zh/resources/github-wieslawsoltes-parallelsskill/)
+- [Paseo Chrome Bridge](https://awesomecua.com/zh/resources/github-papag00se-paseo-chrome-bridge/)
+- [PatchBridge Agent](https://awesomecua.com/zh/resources/github-hanhan666666-patchbridge-agent/)
+- [Patchright](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright/)
+- [Patchright .NET](https://awesomecua.com/zh/resources/github-deventerprisesoftware-patchright-dotnet/)
+- [Patchright NodeJS](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/)

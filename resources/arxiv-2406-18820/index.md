@@ -1,3 +1,11 @@
+---
+title: "Universal Checkpointing: A Flexible and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-18820/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelis
 
 Status: excluded from the active CUA catalog after scope review.

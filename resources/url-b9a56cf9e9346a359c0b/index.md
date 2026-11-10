@@ -1,3 +1,11 @@
+---
+title: "Vision_GUI_Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Vision_GUI_Assistant
 
 A GUI-image conversation dataset provides instruction and conversation JSON files for staged visual fine-tuning; its examples ask models to identify interface buttons.

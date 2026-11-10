@@ -1,3 +1,11 @@
+---
+title: "DualTAP: A Dual-Task Adversarial Protector… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-13248/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents
 
 Applies dual-task adversarial perturbations to mobile screenshots to conceal personally identifiable information from untrusted MLLM routers while preserving agent task utility.
@@ -26,6 +34,18 @@ Fuyao Zhang, Jiaming Zhang, Che Wang, Xiongtao Sun, Yurong Hao, Guowei Guan, Wen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-13248/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-13248/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_13248,
+  title = {{DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents}},
+  author = {{Fuyao Zhang} and {Jiaming Zhang} and {Che Wang} and {Xiongtao Sun} and {Yurong Hao} and {Guowei Guan} and {Wenjie Li} and {Longtao Huang} and {Wei Yang Bryan Lim}},
+  year = {2025},
+  eprint = {2511.13248v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.13248v1},
+  note = {First published: 2025-11-17; Recorded arXiv version: v1; Recorded version updated: 2025-11-17T11:08:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

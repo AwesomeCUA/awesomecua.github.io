@@ -1,3 +1,11 @@
+---
+title: "AriGraph: Learning Knowledge Graph World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-04363/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

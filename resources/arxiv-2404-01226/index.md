@@ -1,3 +1,11 @@
+---
+title: "Stable Code Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-01226/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Stable Code Technical Report
 
 Status: excluded from the active CUA catalog after scope review.

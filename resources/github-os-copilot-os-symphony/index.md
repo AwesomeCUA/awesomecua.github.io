@@ -1,3 +1,11 @@
+---
+title: "OS-Symphony | AwesomeCUA"
+url: https://awesomecua.com/resources/github-os-copilot-os-symphony/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OS-Symphony
 
 OS-Symphony is a holistic computer-use agent framework combining a Reflection-Memory Agent, versatile toolset, and multimodal searcher.

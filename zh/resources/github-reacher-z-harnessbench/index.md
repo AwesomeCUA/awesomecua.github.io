@@ -1,3 +1,11 @@
+---
+title: "HarnessBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reacher-z-harnessbench/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # HarnessBench
 
 基准测试框架固定基础模型，在各自容器中运行六种浏览器智能体框架，执行 ClawBench 的日常在线任务，并复用其录制与评判流程。

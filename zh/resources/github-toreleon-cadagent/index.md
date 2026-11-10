@@ -1,3 +1,11 @@
+---
+title: "CADAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-toreleon-cadagent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # CADAgent
 
 这是一个 FreeCAD 分支，内置智能体通过 FreeCAD 操作将聊天请求转化为可编辑的 3D 模型，并包含智能体运行时和聊天面板。

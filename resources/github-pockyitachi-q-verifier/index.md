@@ -1,3 +1,11 @@
+---
+title: "Q-Verifier / Q-Reflector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pockyitachi-q-verifier/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Q-Verifier / Q-Reflector
 
 Q-Reflector checks a GUI agent's action against before-and-after screenshots and task context, with training and online evaluation code.

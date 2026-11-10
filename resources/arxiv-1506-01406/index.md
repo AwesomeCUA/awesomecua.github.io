@@ -1,3 +1,11 @@
+---
+title: "M-Flash: Fast Billion-scale Graph Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1506-01406/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # M-Flash: Fast Billion-scale Graph Computation Using a Bimodal Block Processing Model
 
 Status: excluded from the active CUA catalog after scope review.

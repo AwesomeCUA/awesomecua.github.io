@@ -1,3 +1,11 @@
+---
+title: "Odyssey: Empowering Minecraft Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-15325/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Odyssey: Empowering Minecraft Agents with Open-World Skills
 
 Status: excluded from the active CUA catalog after scope review.

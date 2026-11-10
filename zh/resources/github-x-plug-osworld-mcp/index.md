@@ -1,3 +1,11 @@
+---
+title: "OSWorld-MCP · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-x-plug-osworld-mcp/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorld-MCP
 
 OSWorld-MCP 在 OSWorld 中评测计算机使用智能体混合使用 GUI 交互和 Model Context Protocol（MCP）工具调用的能力。

@@ -1,3 +1,11 @@
+---
+title: "Plow Hermes Agent Template | AwesomeCUA"
+url: https://awesomecua.com/resources/github-delltrak-plow-hermes-agent-template/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Plow Hermes Agent Template
 
 Safety-first starter template for building visible-browser Hermes computer-use agents with human approval gates.

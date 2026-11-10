@@ -1,3 +1,11 @@
+---
+title: "AGI-0 Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/url-06f6618d8f95f3d041cf/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AGI-0 Agent
 
 AGI-0 uses screenshots to navigate Android apps, planning subtasks and checking screen changes after each action. Its publisher reports AndroidWorld results.

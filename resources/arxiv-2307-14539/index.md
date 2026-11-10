@@ -1,3 +1,11 @@
+---
+title: "Jailbreak in pieces: Compositional… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-14539/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models
 
 Status: excluded from the active CUA catalog after scope review.

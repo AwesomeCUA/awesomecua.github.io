@@ -1,3 +1,11 @@
+---
+title: "Plip OSS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hussainn7-plip-oss/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Plip OSS
 
 开源 macOS 刘海区域助手和运行时，面向具备可验证动作预览、与模型无关的定位型计算机使用智能体。

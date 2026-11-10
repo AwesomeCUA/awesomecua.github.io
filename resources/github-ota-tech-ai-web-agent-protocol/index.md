@@ -1,3 +1,11 @@
+---
+title: "Web Agent Protocol (WAP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/
+updated: 2026-10-19
+type: tool
+lang: en
+---
+
 # Web Agent Protocol (WAP)
 
 Records browser sessions with a Chrome extension and turns them into exact or LLM-condensed smart replay lists, replays them with a bundled Browser Use agent, and converts recordings into MCP servers.

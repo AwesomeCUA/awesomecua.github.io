@@ -1,3 +1,11 @@
+---
+title: "GUI-GenBench: Evaluating Image Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-09007/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments
 
 GUI-GenBench tests image-generation models as action-conditioned GUI environments across five suites, including transitions, trajectories and grounding. Its VLM-based GUI-Score separates goal completion, interaction logic, consistency and visual properties.
@@ -26,6 +34,18 @@ Haodong Li, Jingwei Wu, Quan Sun, Guopeng Li, Juanxi Tian, Ziyu Guo, Donghao Zho
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-09007/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-09007/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09007,
+  title = {{GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments}},
+  author = {{Haodong Li} and {Jingwei Wu} and {Quan Sun} and {Guopeng Li} and {Juanxi Tian} and {Ziyu Guo} and {Donghao Zhou} and {Tianfei Ren} and {Huanyu Zhang} and {Yanlin Lai} and {Ruichuan An} and {Hongbo Peng} and {Yuhong Dai} and {Jia Wang} and {Ziyang Meng} and {Zheng Ge} and {Xiangyu Zhang} and {Daxin Jiang} and {Pheng-Ann Heng}},
+  year = {2026},
+  eprint = {2602.09007v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09007v3},
+  note = {First published: 2026-02-09; Recorded arXiv version: v3; Recorded version updated: 2026-09-26T18:28:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

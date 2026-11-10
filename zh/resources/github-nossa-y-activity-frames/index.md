@@ -1,3 +1,11 @@
+---
+title: "activity-frames · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nossa-y-activity-frames/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # activity-frames
 
 将连续的本地桌面活动转换为结构化、可查询的工作流帧，并通过 MCP 提供。

@@ -1,3 +1,11 @@
+---
+title: "FaizannRaza Computer-Use Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-faizannraza-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # FaizannRaza Computer-Use Automation
 
 Discovers legacy banking UI workflows with an LLM once and compiles the run into a deterministic capability artifact.

@@ -1,3 +1,11 @@
+---
+title: "OpenTiny NEXT-SDKs (WebMCP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opentiny-webmcp-sdk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenTiny NEXT-SDKs (WebMCP)
 
 OpenTiny NEXT-SDKs implements in-page WebMCP servers, polyfills, and WebSkills so AI agents can invoke web application capabilities directly.

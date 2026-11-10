@@ -1,3 +1,11 @@
+---
+title: "Visual Agents Workshop Series · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harpreetsahota204-visual-agents-workshop/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Visual Agents Workshop Series
 
 Visual Agents Workshop Series 通过三个专题课程及配套笔记本和资源，讲解 GUI 智能体研究、数据集准备与模型微调。

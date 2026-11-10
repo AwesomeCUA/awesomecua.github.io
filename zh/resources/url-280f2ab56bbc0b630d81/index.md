@@ -1,3 +1,11 @@
+---
+title: "VideoAgentTrek-IDM-s1-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-280f2ab56bbc0b630d81/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # VideoAgentTrek-IDM-s1-7B
 
 VideoAgentTrek Video2Action 流水线中的关键帧检测模型，作为逆动力学的第一阶段，在录屏教程视频中找出 GUI 交互时刻，再由第二个模型标注具体动作。

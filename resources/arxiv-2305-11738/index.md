@@ -1,3 +1,11 @@
+---
+title: "CRITIC: Large Language Models Can… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-11738/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing
 
 Bibliographic record for CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-11738/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-11738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_11738,
+  title = {{CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing}},
+  author = {{Zhibin Gou} and {Zhihong Shao} and {Yeyun Gong} and {Yelong Shen} and {Yujiu Yang} and {Nan Duan} and {Weizhu Chen}},
+  year = {2023},
+  eprint = {2305.11738v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.11738v4},
+  note = {First published: 2023-05-19; Recorded arXiv version: v4; Recorded version updated: 2024-02-21T12:59:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

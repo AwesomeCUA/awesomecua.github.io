@@ -1,3 +1,11 @@
+---
+title: "记忆：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/memory/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 记忆
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -630,8 +638,6 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Bounded Chrome collaboration extension and local connector for building LLM-maintained knowledge wikis from live browsing.
 - [Lumen browser agent](https://awesomecua.com/zh/resources/github-omxyz-lumen/) — Date not recorded
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
-- [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/) — Date not recorded
-  Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
 - [Mem0](https://awesomecua.com/zh/resources/github-mem0ai-mem0/) — Date not recorded
   Mem0 provides a scalable long-term memory layer for AI agents that extracts, consolidates, and retrieves user and session facts.
 - [MemAgent](https://awesomecua.com/zh/resources/github-dialogbased-interaction-goal-alignment/) — Date not recorded
@@ -728,8 +734,6 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Local-first desktop agent built on DeepSeek Harness featuring plugin governance, permission approvals, and completion receipts.
 - [Xiryn](https://awesomecua.com/zh/resources/github-souravberaakaspeed-xiryn/) — Date not recorded
   Self-hosted personal agent app that gives each agent its own Docker Linux desktop with Chromium, operated through screenshots and xdotool clicks and keys, with live take-over, memory, a vault and Telegram control.
-- [ZetaTron](https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/) — Date not recorded
-  Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
 
 ## 学习资源
 

@@ -1,3 +1,11 @@
+---
+title: "HINTBench: Horizon-agent Intrinsic Non-attack… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13954/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark
 
 Status: excluded from the active CUA catalog after scope review.

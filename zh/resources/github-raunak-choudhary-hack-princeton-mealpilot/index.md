@@ -1,3 +1,11 @@
+---
+title: "MealPilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raunak-choudhary-hack-princeton-mealpilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # MealPilot
 
 智能体式杂货购物平台，比较 Instacart 和零售商网页门户中的实时购物车价格。

@@ -1,3 +1,11 @@
+---
+title: "Efficient GUI Agents: A Systems Survey of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-02309/
+updated: 2026-10-16
+type: survey
+lang: en
+---
+
 # Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization
 
 Surveys GUI-agent efficiency beyond task success: observation, context and memory, action, and planner or runtime cost.
@@ -22,6 +30,18 @@ Bizhe Bai, Jiakang Yuan, Hongming Wu, Xinyue Wang, Jie Ren, Siyao Chen, Yuchen Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-02309/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-02309/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02309,
+  title = {{Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization}},
+  author = {{Bizhe Bai} and {Jiakang Yuan} and {Hongming Wu} and {Xinyue Wang} and {Jie Ren} and {Siyao Chen} and {Yuchen Ya} and {Fan Bai} and {Pai Peng} and {Huafeng Qin} and {Tao Chen}},
+  year = {2026},
+  eprint = {2609.02309v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02309v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T08:54:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

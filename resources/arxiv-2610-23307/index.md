@@ -1,3 +1,11 @@
+---
+title: "MobileInject: Evaluating Reasoning-to-Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-23307/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection
 
 MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.
@@ -26,6 +34,18 @@ Songping Wang, Peiyang Li, Yi Huang, Fengting Li, Xuhao Ran, Yueming Lyu, Chao F
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-23307/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-23307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23307,
+  title = {{MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection}},
+  author = {{Songping Wang} and {Peiyang Li} and {Yi Huang} and {Fengting Li} and {Xuhao Ran} and {Yueming Lyu} and {Chao Feng} and {Caifeng Shan}},
+  year = {2026},
+  eprint = {2610.23307v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23307v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T11:10:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "James4Ever0/the_frozen_forest · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ede673f7e6f369eae600/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # James4Ever0/the_frozen_forest
 
 这是一个将屏幕录像与键盘、鼠标事件配对的数据集归档。时间戳文件用于对应视频帧与记录下的输入操作。

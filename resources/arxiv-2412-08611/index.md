@@ -1,3 +1,11 @@
+---
+title: "Minimizing resource overhead in fusion-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-08611/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices
 
 Status: excluded from the active CUA catalog after scope review.

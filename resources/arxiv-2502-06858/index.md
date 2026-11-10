@@ -1,3 +1,11 @@
+---
+title: "LLM-Supported Natural Language to Bash… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-06858/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LLM-Supported Natural Language to Bash Translation
 
 Bibliographic record for LLM-Supported Natural Language to Bash Translation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Finnian Westenfelder, Erik Hemberg, Miguel Tulla, Stephen Moskal, Una-May O'Reil
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-06858/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-06858/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_06858,
+  title = {{LLM-Supported Natural Language to Bash Translation}},
+  author = {{Finnian Westenfelder} and {Erik Hemberg} and {Miguel Tulla} and {Stephen Moskal} and {Una-May O'Reilly} and {Silviu Chiricescu}},
+  year = {2025},
+  eprint = {2502.06858v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.06858v1},
+  note = {First published: 2025-02-07; Recorded arXiv version: v1; Recorded version updated: 2025-02-07T19:35:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

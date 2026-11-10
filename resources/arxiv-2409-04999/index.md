@@ -1,3 +1,11 @@
+---
+title: "Visual Grounding with Multi-modal Conditional… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-04999/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Visual Grounding with Multi-modal Conditional Adaptation
 
 Status: excluded from the active CUA catalog after scope review.

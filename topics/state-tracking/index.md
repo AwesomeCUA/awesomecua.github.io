@@ -1,3 +1,11 @@
+---
+title: "State tracking — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/state-tracking/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # State tracking
 
 Reviewed topic membership; resources can appear in multiple topics.

@@ -1,3 +1,11 @@
+---
+title: "Code Sandbox MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-automata-labs-team-code-sandbox-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Code Sandbox MCP
 
 Code Sandbox MCP is a Model Context Protocol server that provisions isolated Docker container sandboxes for AI agents to execute code and shell commands.

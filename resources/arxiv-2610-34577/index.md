@@ -1,3 +1,11 @@
+---
+title: "Rethinking Verification in Agent Harnesses | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34577/
+updated: 2026-10-27
+type: paper
+lang: en
+---
+
 # Rethinking Verification in Agent Harnesses
 
 Bibliographic record for Rethinking Verification in Agent Harnesses. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhengxin Zhang, Erkang Zhu, Yin Lin, Claire Cardie, Bolin Ding, Jingren Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34577/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34577/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34577,
+  title = {{Rethinking Verification in Agent Harnesses}},
+  author = {{Zhengxin Zhang} and {Erkang Zhu} and {Yin Lin} and {Claire Cardie} and {Bolin Ding} and {Jingren Zhou}},
+  year = {2026},
+  eprint = {2610.34577v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34577v1},
+  note = {First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T21:17:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

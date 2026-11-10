@@ -1,3 +1,11 @@
+---
+title: "PAM Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-push-in-pam-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # PAM Browser
 
 在 PAM 运行时上运行的 PHP 类型化 Chrome DevTools Protocol 客户端。

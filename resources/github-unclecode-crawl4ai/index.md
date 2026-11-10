@@ -1,3 +1,11 @@
+---
+title: "Crawl4AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-unclecode-crawl4ai/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Crawl4AI
 
 Crawl4AI is an open-source browser automation and web crawling toolkit that converts dynamic webpages into structured Markdown and JSON for agents.

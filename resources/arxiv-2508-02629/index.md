@@ -1,3 +1,11 @@
+---
+title: "HyCodePolicy: Hybrid Language Controllers for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-02629/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents
 
 Bibliographic record for HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yibin Liu, Zhixuan Liang, Zanxin Chen, Tianxing Chen, Mengkang Hu, Wanxi Dong, C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-02629/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-02629/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_02629,
+  title = {{HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents}},
+  author = {{Yibin Liu} and {Zhixuan Liang} and {Zanxin Chen} and {Tianxing Chen} and {Mengkang Hu} and {Wanxi Dong} and {Congsheng Xu} and {Zhaoming Han} and {Yusen Qin} and {Yao Mu}},
+  year = {2025},
+  eprint = {2508.02629v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.02629v2},
+  note = {First published: 2025-08-04; Recorded arXiv version: v2; Recorded version updated: 2025-08-06T07:24:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

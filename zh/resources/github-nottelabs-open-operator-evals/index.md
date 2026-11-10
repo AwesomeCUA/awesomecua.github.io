@@ -1,3 +1,11 @@
+---
+title: "Open Operator Evals · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nottelabs-open-operator-evals/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # Open Operator Evals
 
 Notte Labs 已归档的评测框架和结果，对 WebVoyager 的 30 项任务子集让网页智能体各运行八次，以 GPT-4o 截图评判器评分，并与智能体自报成功情况比较。

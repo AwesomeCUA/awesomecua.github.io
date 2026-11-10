@@ -1,3 +1,11 @@
+---
+title: "TestPilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-h0ngza1-testpilot/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # TestPilot
 
 Agentic end-to-end web testing platform that executes natural-language test cases in live browsers.

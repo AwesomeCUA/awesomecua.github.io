@@ -1,3 +1,11 @@
+---
+title: "安全与防护：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/safety-security/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 安全与防护
 
 Reviewed topic membership; resources can appear in multiple topics.

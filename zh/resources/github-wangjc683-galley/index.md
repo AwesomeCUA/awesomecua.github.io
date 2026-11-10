@@ -1,3 +1,11 @@
+---
+title: "Galley · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wangjc683-galley/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Galley
 
 Galley 是一款桌面智能体，通过屏幕视觉、鼠标和键盘控制、浏览器扩展以及文件和终端工具完成用户任务。

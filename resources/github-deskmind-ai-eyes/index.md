@@ -1,3 +1,11 @@
+---
+title: "DeskMind Eyes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deskmind-ai-eyes/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # DeskMind Eyes
 
 DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.

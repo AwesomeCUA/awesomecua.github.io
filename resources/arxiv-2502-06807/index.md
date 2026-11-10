@@ -1,3 +1,11 @@
+---
+title: "Competitive Programming with Large Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-06807/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Competitive Programming with Large Reasoning Models
 
 Bibliographic record for Competitive Programming with Large Reasoning Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ OpenAI, :, Ahmed El-Kishky, Alexander Wei, Andre Saraiva, Borys Minaiev, Daniel 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-06807/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-06807/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_06807,
+  title = {{Competitive Programming with Large Reasoning Models}},
+  author = {{OpenAI} and {:} and {Ahmed El-Kishky} and {Alexander Wei} and {Andre Saraiva} and {Borys Minaiev} and {Daniel Selsam} and {David Dohan} and {Francis Song} and {Hunter Lightman} and {Ignasi Clavera} and {Jakub Pachocki} and {Jerry Tworek} and {Lorenz Kuhn} and {Lukasz Kaiser} and {Mark Chen} and {Max Schwarzer} and {Mostafa Rohaninejad} and {Nat McAleese} and {o3 contributors} and {Oleg Mürk} and {Rhythm Garg} and {Rui Shu} and {Szymon Sidor} and {Vineet Kosaraju} and {Wenda Zhou}},
+  year = {2025},
+  eprint = {2502.06807v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.06807v2},
+  note = {First published: 2025-02-03; Recorded arXiv version: v2; Recorded version updated: 2025-02-18T22:21:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

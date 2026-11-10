@@ -1,3 +1,11 @@
+---
+title: "Sensory-Grounding MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-luclinocruz-lucross-sensory-grounding-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Sensory-Grounding MCP
 
 闭环的视觉、音频和视频感知定位 MCP 服务器，用于验证编码智能体和计算机使用智能体所见的 UI 状态。

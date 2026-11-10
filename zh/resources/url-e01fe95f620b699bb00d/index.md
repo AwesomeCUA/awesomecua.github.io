@@ -1,3 +1,11 @@
+---
+title: "GLM-4.6V-Flash · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e01fe95f620b699bb00d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GLM-4.6V-Flash
 
 GLM-4.6V-Flash 是视觉语言模型权重，可在工具调用中接收截图，并根据界面图像重建和编辑网页界面。

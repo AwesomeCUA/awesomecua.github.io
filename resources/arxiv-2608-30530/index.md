@@ -1,3 +1,11 @@
+---
+title: "WebWorld: The Browser as a World Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-30530/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # WebWorld: The Browser as a World Model for Self-Improving Web Code
 
 Uses typed browser interaction contracts to accept web-code improvements only when target progress and previously verified capabilities are preserved. Accepted transitions supply self-improvement data.
@@ -26,6 +34,17 @@ Adjacent browser-backed artifact validation evaluates generated artifacts and or
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-30530/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-30530/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_30530,
+  title = {{WebWorld: The Browser as a World Model for Self-Improving Web Code}},
+  year = {2026},
+  eprint = {2608.30530v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.30530v1},
+  note = {First published: 2026-08-31; Recorded arXiv version: v1; Recorded version updated: 2026-08-31T10:00:12Z; Authors: see the paper (https://arxiv.org/abs/2608.30530v1); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "agentboard · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-be5b952e5f0b4b7e4747/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # agentboard
 
 AgentBoard 多轮大语言模型智能体基准的评测数据：涵盖具身、游戏、网页和工具场景的 9 个任务，包括 WebShop 和 WebArena，并附目标、子目标和难度标签。

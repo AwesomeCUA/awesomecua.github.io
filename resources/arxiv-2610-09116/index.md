@@ -1,3 +1,11 @@
+---
+title: "SPLATIFY: Reproduce, Discover, Innovate! From… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-09116/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code
 
 Bibliographic record for SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Seemandhar Jain, Keshav Gupta, Manmohan Chandraker
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-09116/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-09116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09116,
+  title = {{SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code}},
+  author = {{Seemandhar Jain} and {Keshav Gupta} and {Manmohan Chandraker}},
+  year = {2026},
+  eprint = {2610.09116v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09116v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T21:06:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

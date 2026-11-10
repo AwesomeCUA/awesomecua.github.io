@@ -1,3 +1,11 @@
+---
+title: "Agent-Initiated Interaction in Phone UI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-19537/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Agent-Initiated Interaction in Phone UI Automation
 
 Defines when phone agents should request user interaction and introduces AndroidInteraction annotations for deciding whether and how to engage the user.
@@ -26,6 +34,18 @@ Noam Kahlon, Guy Rom, Anatoly Efros, Filippo Galgani, Omri Berkovitch, Sapir Cad
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-19537/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-19537/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_19537,
+  title = {{Agent-Initiated Interaction in Phone UI Automation}},
+  author = {{Noam Kahlon} and {Guy Rom} and {Anatoly Efros} and {Filippo Galgani} and {Omri Berkovitch} and {Sapir Caduri} and {William E. Bishop} and {Oriana Riva} and {Ido Dagan}},
+  year = {2025},
+  eprint = {2503.19537v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.19537v1},
+  note = {First published: 2025-03-25; Recorded arXiv version: v1; Recorded version updated: 2025-03-25T10:46:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Odin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-madanlalit-odin/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Odin
 
 Odin is a macOS computer automation agent combining vision LLMs, Accessibility context extraction, and native input control.

@@ -1,3 +1,11 @@
+---
+title: "dsh-OpenLiulan (开放浏览) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # dsh-OpenLiulan (开放浏览)
 
 Self-healing browser control framework for DeepSeek Harness featuring semantic page perception and automated fault recovery.

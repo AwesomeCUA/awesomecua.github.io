@@ -1,3 +1,11 @@
+---
+title: "SVTRv2: CTC Beats Encoder-Decoder Models in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-15858/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SVTRv2: CTC Beats Encoder-Decoder Models in Scene Text Recognition
 
 Bibliographic record for SVTRv2: CTC Beats Encoder-Decoder Models in Scene Text Recognition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yongkun Du, Zhineng Chen, Hongtao Xie, Caiyan Jia, Yu-Gang Jiang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-15858/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-15858/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_15858,
+  title = {{SVTRv2: CTC Beats Encoder-Decoder Models in Scene Text Recognition}},
+  author = {{Yongkun Du} and {Zhineng Chen} and {Hongtao Xie} and {Caiyan Jia} and {Yu-Gang Jiang}},
+  year = {2024},
+  eprint = {2411.15858v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.15858v2},
+  note = {First published: 2024-11-24; Recorded arXiv version: v2; Recorded version updated: 2025-07-15T09:49:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

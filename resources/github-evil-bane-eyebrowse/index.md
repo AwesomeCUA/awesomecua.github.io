@@ -1,3 +1,11 @@
+---
+title: "EyeBrowse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-evil-bane-eyebrowse/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # EyeBrowse
 
 EyeBrowse is a stealthy, LLM-drivable browser engine providing both a Python library and an 85-tool Model Context Protocol server.

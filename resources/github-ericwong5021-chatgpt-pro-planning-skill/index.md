@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Pro Planning Skill for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ericwong5021-chatgpt-pro-planning-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ChatGPT Pro Planning Skill for Codex
 
 Codex skill that delegates complex architectural planning to a logged-in ChatGPT Pro web session.

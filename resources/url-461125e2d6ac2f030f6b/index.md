@@ -1,3 +1,11 @@
+---
+title: "KV-Ground 8B (BaseGuiOwl1.5 0315) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-461125e2d6ac2f030f6b/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # KV-Ground 8B (BaseGuiOwl1.5 0315)
 
 GUI-grounding checkpoint post-trained from GUI-Owl-1.5-8B-Instruct with SFT and GRPO on cleaned and synthesized high-resolution data, aimed at locating elements in large screenshots.

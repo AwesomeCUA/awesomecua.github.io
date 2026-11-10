@@ -1,3 +1,11 @@
+---
+title: "Visual Context Router | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Visual Context Router
 
 Token-aware visual context router that crops, downscales, or replaces full screenshots with localized regions before sending to CUA models.

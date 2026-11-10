@@ -1,3 +1,11 @@
+---
+title: "REX: Rapid Exploration and eXploitation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-08962/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # REX: Rapid Exploration and eXploitation for AI Agents
 
 Bibliographic record for REX: Rapid Exploration and eXploitation for AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Rithesh Murthy, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Le Xue, Weiran
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-08962/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-08962/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_08962,
+  title = {{REX: Rapid Exploration and eXploitation for AI Agents}},
+  author = {{Rithesh Murthy} and {Shelby Heinecke} and {Juan Carlos Niebles} and {Zhiwei Liu} and {Le Xue} and {Weiran Yao} and {Yihao Feng} and {Zeyuan Chen} and {Akash Gokul} and {Devansh Arpit} and {Ran Xu} and {Phil Mui} and {Huan Wang} and {Caiming Xiong} and {Silvio Savarese}},
+  year = {2023},
+  eprint = {2307.08962v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.08962v2},
+  note = {First published: 2023-07-18; Recorded arXiv version: v2; Recorded version updated: 2024-01-26T20:47:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

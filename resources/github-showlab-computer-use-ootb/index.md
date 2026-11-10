@@ -1,3 +1,11 @@
+---
+title: "Computer Use OOTB | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-computer-use-ootb/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # Computer Use OOTB
 
 Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.

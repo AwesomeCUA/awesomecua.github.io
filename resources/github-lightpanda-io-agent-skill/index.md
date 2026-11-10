@@ -1,3 +1,11 @@
+---
+title: "Lightpanda Skill for LLM Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lightpanda-io-agent-skill/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Lightpanda Skill for LLM Agents
 
 Lightpanda Skill for LLM Agents gives agents instructions for using Lightpanda's browser interfaces for interactive browsing and for creating reusable PandaScript tasks.

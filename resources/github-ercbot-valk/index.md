@@ -1,3 +1,11 @@
+---
+title: "Valk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ercbot-valk/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Valk
 
 Valk is a Python library and observable remote-desktop interface for programmatic mouse, keyboard, and screen control by AI agents.

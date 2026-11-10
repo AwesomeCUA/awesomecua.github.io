@@ -1,3 +1,11 @@
+---
+title: "ProgRM: Build Better GUI Agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-18121/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ProgRM: Build Better GUI Agents with Progress Rewards
 
 ProgRM 预测任务在每一步的完成进度，为在线训练 GUI 智能体提供中间奖励；它用最长公共子序列识别轨迹关键步骤并生成进度标签，使最终失败的轨迹中的有效部分进展也能发挥作用。
@@ -27,6 +35,18 @@ Danyang Zhang, Situo Zhang, Ziyue Yang, Zichen Zhu, Zihan Zhao, Ruisheng Cao, Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-18121/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-18121/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_18121,
+  title = {{ProgRM: Build Better GUI Agents with Progress Rewards}},
+  author = {{Danyang Zhang} and {Situo Zhang} and {Ziyue Yang} and {Zichen Zhu} and {Zihan Zhao} and {Ruisheng Cao} and {Lu Chen} and {Kai Yu}},
+  year = {2025},
+  eprint = {2505.18121v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.18121v1},
+  note = {First published: 2025-05-23; Recorded arXiv version: v1; Recorded version updated: 2025-05-23T17:23:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

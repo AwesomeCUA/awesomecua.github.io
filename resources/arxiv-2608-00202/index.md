@@ -1,3 +1,11 @@
+---
+title: "From Monoliths to Swarms: A Study of Attack… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-00202/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # From Monoliths to Swarms: A Study of Attack Surface Evolution in the Transition to Multi-Agent Web Systems
 
 Categorizes structural attack surfaces that emerge when single-agent browser systems are decomposed into multi-agent web workflows.
@@ -26,6 +34,18 @@ Yashaswi Malla, Sandra Siby
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-00202/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-00202/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_00202,
+  title = {{From Monoliths to Swarms: A Study of Attack Surface Evolution in the Transition to Multi-Agent Web Systems}},
+  author = {{Yashaswi Malla} and {Sandra Siby}},
+  year = {2026},
+  eprint = {2608.00202v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.00202v1},
+  note = {First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T18:27:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

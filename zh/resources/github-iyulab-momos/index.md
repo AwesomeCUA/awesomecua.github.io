@@ -1,3 +1,11 @@
+---
+title: "Momos · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-iyulab-momos/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Momos
 
 自主 UI 检查智能体，通过与实时应用交互，发现静态分析遗漏的运行时和 UX 流程缺陷。

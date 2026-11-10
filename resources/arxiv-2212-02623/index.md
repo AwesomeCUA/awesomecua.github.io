@@ -1,3 +1,11 @@
+---
+title: "Unifying Vision, Text, and Layout for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-02623/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Unifying Vision, Text, and Layout for Universal Document Processing
 
 Bibliographic record for Unifying Vision, Text, and Layout for Universal Document Processing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zineng Tang, Ziyi Yang, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michae
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2212-02623/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2212-02623/citation.csl.json
+
+```bibtex
+@misc{arxiv_2212_02623,
+  title = {{Unifying Vision, Text, and Layout for Universal Document Processing}},
+  author = {{Zineng Tang} and {Ziyi Yang} and {Guoxin Wang} and {Yuwei Fang} and {Yang Liu} and {Chenguang Zhu} and {Michael Zeng} and {Cha Zhang} and {Mohit Bansal}},
+  year = {2022},
+  eprint = {2212.02623v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2212.02623v3},
+  note = {First published: 2022-12-05; Recorded arXiv version: v3; Recorded version updated: 2023-03-13T17:42:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

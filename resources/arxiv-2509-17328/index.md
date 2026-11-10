@@ -1,3 +1,11 @@
+---
+title: "UIPro: Unleashing Superior Interaction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-17328/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UIPro: Unleashing Superior Interaction Capability For GUI Agents
 
 UIPro pretrains GUI understanding on 20.6 million tasks and then harmonizes interaction datasets through a unified action space. Continued fine-tuning uses the merged multi-platform data to train action prediction for generalist GUI operation.
@@ -26,6 +34,18 @@ Hongxin Li, Jingran Su, Jingfan Chen, Zheng Ju, Yuntao Chen, Qing Li, Zhaoxiang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-17328/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-17328/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_17328,
+  title = {{UIPro: Unleashing Superior Interaction Capability For GUI Agents}},
+  author = {{Hongxin Li} and {Jingran Su} and {Jingfan Chen} and {Zheng Ju} and {Yuntao Chen} and {Qing Li} and {Zhaoxiang Zhang}},
+  year = {2025},
+  eprint = {2509.17328v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.17328v1},
+  note = {First published: 2025-09-22; Recorded arXiv version: v1; Recorded version updated: 2025-09-22T03:04:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

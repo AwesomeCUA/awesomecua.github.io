@@ -1,3 +1,11 @@
+---
+title: "Two-Box Judge GUI Dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e7c3d3d49bf977b49996/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Two-Box Judge GUI Dataset
 
 BAMI 局部纠错模型的训练数据：成对裁剪的 GUI 截图各高亮一个候选框，配有点击指令及自动生成的标签，指出更符合指令的框。

@@ -1,3 +1,11 @@
+---
+title: "stagehand-plasmate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-stagehand-plasmate/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # stagehand-plasmate
 
 TypeScript wrapper that gives Stagehand pages Plasmate's Semantic Object Model JSON in place of raw DOM, with SOM queries by role, text or ID, while act() and observe() go to Stagehand.

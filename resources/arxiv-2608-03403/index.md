@@ -1,3 +1,11 @@
+---
+title: "Towards Robust Tool Use in Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-03403/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance
 
 Bibliographic record for Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Can Wang, Haoran Chen, Li Yu, Ding Hao, Bohai Zhao, Zhaoyang Liu, Zhiying Tu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-03403/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-03403/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_03403,
+  title = {{Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance}},
+  author = {{Can Wang} and {Haoran Chen} and {Li Yu} and {Ding Hao} and {Bohai Zhao} and {Zhaoyang Liu} and {Zhiying Tu}},
+  year = {2026},
+  eprint = {2608.03403v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.03403v1},
+  note = {First published: 2026-08-04; Recorded arXiv version: v1; Recorded version updated: 2026-08-04T09:56:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "APEX-Harm: Evaluating Agent Safety in Shared… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13623/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # APEX-Harm: Evaluating Agent Safety in Shared Professional Workspaces
 
 Bibliographic record for APEX-Harm: Evaluating Agent Safety in Shared Professional Workspaces. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ziyi Yang, Adel Bibi, Guohao Li, Bernard Ghanem, Carlos Hinojosa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13623/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13623/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13623,
+  title = {{APEX-Harm: Evaluating Agent Safety in Shared Professional Workspaces}},
+  author = {{Ziyi Yang} and {Adel Bibi} and {Guohao Li} and {Bernard Ghanem} and {Carlos Hinojosa}},
+  year = {2026},
+  eprint = {2610.13623v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13623v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T14:05:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

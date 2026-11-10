@@ -1,3 +1,11 @@
+---
+title: "AgentRewardBench dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-866251b68d6bba8b8ba6/
+updated: 2026-11-02
+type: dataset
+lang: zh-CN
+---
+
 # AgentRewardBench dataset
 
 AgentRewardBench 的 Hugging Face 数据集发布版本，包含来自 WebArena、VisualWebArena、AssistantBench、WorkArena 和 OSWorld 的轨迹评测实例。

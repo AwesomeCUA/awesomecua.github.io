@@ -1,3 +1,11 @@
+---
+title: "Achieving 91.4% on Android World: A… · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f8b67bde8c79e7934a2a/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Achieving 91.4% on Android World: A New Approach to Mobile UI Automation
 
 技术文章介绍一款 Android 界面智能体：规划与单步操作交替进行，检查屏幕变化，并通过专门路径处理文本编辑；文中报告了 AndroidWorld 测试结果。

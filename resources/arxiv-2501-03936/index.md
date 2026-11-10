@@ -1,3 +1,11 @@
+---
+title: "PPTAgent: Generating and Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-03936/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides
 
 Bibliographic record for PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hao Zheng, Xinyan Guan, Hao Kong, Jia Zheng, Weixiang Zhou, Hongyu Lin, Yaojie L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-03936/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-03936/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_03936,
+  title = {{PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides}},
+  author = {{Hao Zheng} and {Xinyan Guan} and {Hao Kong} and {Jia Zheng} and {Weixiang Zhou} and {Hongyu Lin} and {Yaojie Lu} and {Ben He} and {Xianpei Han} and {Le Sun}},
+  year = {2025},
+  eprint = {2501.03936v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.03936v3},
+  note = {First published: 2025-01-07; Recorded arXiv version: v3; Recorded version updated: 2025-02-21T07:52:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

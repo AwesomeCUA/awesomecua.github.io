@@ -1,3 +1,11 @@
+---
+title: "When External Threats Become User Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-10758/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # When External Threats Become User Context: Tricking Agents into Accepting Malicious Information
 
 Bibliographic record for When External Threats Become User Context: Tricking Agents into Accepting Malicious Information. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Fengchao Chen, Tingmin Wu, Van Nguyen, Surya Nepal, Carsten Rudolph
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-10758/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-10758/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_10758,
+  title = {{When External Threats Become User Context: Tricking Agents into Accepting Malicious Information}},
+  author = {{Fengchao Chen} and {Tingmin Wu} and {Van Nguyen} and {Surya Nepal} and {Carsten Rudolph}},
+  year = {2026},
+  eprint = {2601.10758v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.10758v4},
+  note = {First published: 2026-01-14; Recorded arXiv version: v4; Recorded version updated: 2026-10-10T08:59:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

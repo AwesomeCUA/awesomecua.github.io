@@ -1,3 +1,11 @@
+---
+title: "PageKit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ken-u-pagekit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # PageKit
 
 将闲置的 Android 手机变为供 AI 智能体使用的免费网页搜索、页面抓取和真实浏览器自动化节点。

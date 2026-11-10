@@ -1,3 +1,11 @@
+---
+title: "OpenAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-the-open-agent-openagent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # OpenAgent
 
 OpenAgent 是可自行托管的助手，其智能体循环能通过导航、点击和填写表单来操作浏览器。它还可运行代码并连接外部工具。

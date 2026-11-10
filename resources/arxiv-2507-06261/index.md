@@ -1,3 +1,11 @@
+---
+title: "Gemini 2.5: Pushing the Frontier with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-06261/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities
 
 Status: excluded from the active CUA catalog after scope review.

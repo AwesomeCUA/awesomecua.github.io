@@ -1,3 +1,11 @@
+---
+title: "Coded Iterative Computing using Substitute… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1805-06046/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Coded Iterative Computing using Substitute Decoding
 
 Status: excluded from the active CUA catalog after scope review.

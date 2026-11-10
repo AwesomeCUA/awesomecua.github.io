@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act: Improving Planning of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-09572/
+updated: 2026-11-02
+type: paper
+lang: zh-CN
+---
+
 # Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks
 
 将规划与执行分开，并生成合成的计划标注，用于训练智能体完成长程网页导航任务。
@@ -27,6 +35,18 @@ Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-09572/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-09572/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_09572,
+  title = {{Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks}},
+  author = {{Lutfi Eren Erdogan} and {Nicholas Lee} and {Sehoon Kim} and {Suhong Moon} and {Hiroki Furuta} and {Gopala Anumanchipalli} and {Kurt Keutzer} and {Amir Gholami}},
+  year = {2025},
+  eprint = {2503.09572v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.09572v3},
+  note = {First published: 2025-03-12; Recorded arXiv version: v3; Recorded version updated: 2025-04-22T17:56:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

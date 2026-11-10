@@ -1,3 +1,11 @@
+---
+title: "Agentic Game Development as a Verifiable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-25518/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models
 
 Bibliographic record for Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Pengfei Zhou, Hexin Wang, Zhengfeiyang Zhang, Yixing Ma, Zhenglin Wan, Kaipeng Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-25518/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-25518/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_25518,
+  title = {{Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models}},
+  author = {{Pengfei Zhou} and {Hexin Wang} and {Zhengfeiyang Zhang} and {Yixing Ma} and {Zhenglin Wan} and {Kaipeng Zhang} and {Wangbo Zhao} and {Yang You}},
+  year = {2026},
+  eprint = {2608.25518v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.25518v1},
+  note = {First published: 2026-08-26; Recorded arXiv version: v1; Recorded version updated: 2026-08-26T08:28:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

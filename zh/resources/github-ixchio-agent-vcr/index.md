@@ -1,3 +1,11 @@
+---
+title: "Agent VCR · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ixchio-agent-vcr/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent VCR
 
 Agent VCR 可录制、回放和比较多轮智能体工具调用、状态转换及执行轨迹的确定性记录。

@@ -1,3 +1,11 @@
+---
+title: "GUI-Spotlight | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bin123apple-gui-spotlight/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # GUI-Spotlight
 
 GUI-Spotlight is a think-with-image GUI visual grounding model that iteratively crops and refines focus regions on high-resolution screens.

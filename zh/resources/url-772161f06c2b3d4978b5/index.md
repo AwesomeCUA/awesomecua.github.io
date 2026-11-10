@@ -1,3 +1,11 @@
+---
+title: "WebJudge 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-772161f06c2b3d4978b5/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # WebJudge 7B
 
 视觉轨迹评判模型，保留选定的中间截图，以评估网页智能体是否完成任务。

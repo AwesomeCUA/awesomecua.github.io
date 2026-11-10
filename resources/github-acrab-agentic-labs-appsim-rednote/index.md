@@ -1,3 +1,11 @@
+---
+title: "CLYRedNote | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-rednote/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # CLYRedNote
 
 An Android Compose clone app for GUI-agent testing, with shopping, messaging, search, and content screens backed by seeded fictional data.

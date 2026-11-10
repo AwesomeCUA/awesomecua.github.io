@@ -1,3 +1,11 @@
+---
+title: "Simulate to Generalize: Scaling Stateful… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-16900/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Simulate to Generalize: Scaling Stateful Supervision for API-calling Agents using LLM World Models
 
 Bibliographic record for Simulate to Generalize: Scaling Stateful Supervision for API-calling Agents using LLM World Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Seanie Lee, Sanjoy Chowdhury, Chao Jiang, Cheng-Yu Hsieh, Ting-Yao Hu, Alexander
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-16900/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-16900/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_16900,
+  title = {{Simulate to Generalize: Scaling Stateful Supervision for API-calling Agents using LLM World Models}},
+  author = {{Seanie Lee} and {Sanjoy Chowdhury} and {Chao Jiang} and {Cheng-Yu Hsieh} and {Ting-Yao Hu} and {Alexander T Toshev} and {Oncel Tuzel} and {Raviteja Vemulapalli}},
+  year = {2026},
+  eprint = {2607.16900v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.16900v3},
+  note = {First published: 2026-07-18; Recorded arXiv version: v3; Recorded version updated: 2026-09-22T05:07:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

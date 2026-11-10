@@ -1,3 +1,11 @@
+---
+title: "Grounding Computer Use Agents on Human… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-07332/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Grounding Computer Use Agents on Human Demonstrations
 
 GroundCUA turns expert desktop demonstrations into densely annotated screenshots and grounding instructions. The GroundNext model family uses this supervision and subsequent reinforcement learning, with both grounding benchmarks and an OSWorld agent configuration used for evaluation.
@@ -26,6 +34,18 @@ Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-07332/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-07332/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_07332,
+  title = {{Grounding Computer Use Agents on Human Demonstrations}},
+  author = {{Aarash Feizi} and {Shravan Nayak} and {Xiangru Jian} and {Kevin Qinghong Lin} and {Kaixin Li} and {Rabiul Awal} and {Xing Han Lù} and {Johan Obando-Ceron} and {Juan A. Rodriguez} and {Nicolas Chapados} and {David Vazquez} and {Adriana Romero-Soriano} and {Reihaneh Rabbany} and {Perouz Taslakian} and {Christopher Pal} and {Spandana Gella} and {Sai Rajeswar}},
+  year = {2025},
+  eprint = {2511.07332v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.07332v2},
+  note = {First published: 2025-11-10; Recorded arXiv version: v2; Recorded version updated: 2026-06-09T21:30:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

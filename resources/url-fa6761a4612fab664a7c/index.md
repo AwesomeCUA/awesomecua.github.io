@@ -1,3 +1,11 @@
+---
+title: "GTA1-7B (huggingface.co/Salesforce/GTA1-7B) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fa6761a4612fab664a7c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GTA1-7B
 
 Released GUI grounding checkpoint trained with reinforcement learning to predict click coordinates from screenshots and instructions, with inference examples and reported benchmark results.

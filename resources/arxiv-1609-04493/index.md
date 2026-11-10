@@ -1,3 +1,11 @@
+---
+title: "Parallel Dynamics Computation using Prefix… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1609-04493/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Parallel Dynamics Computation using Prefix Sum Operations
 
 Status: excluded from the active CUA catalog after scope review.

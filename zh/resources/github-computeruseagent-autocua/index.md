@@ -1,3 +1,11 @@
+---
+title: "AutoCua · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-computeruseagent-autocua/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AutoCua
 
 AutoCua 是一个多智能体计算机使用编排平台，可自动执行跨 macOS、Windows、Linux、Android 和网页的端到端工作流。

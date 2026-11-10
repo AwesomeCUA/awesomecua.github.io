@@ -1,3 +1,11 @@
+---
+title: "EconWebArena: Benchmarking Autonomous… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-08136/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments
 
 EconWebArena 是精心整理的经济数据任务基准，要求智能体浏览实时网站、理解多模态内容并准确提取数据，用于评估多步工作流程中的视觉定位、规划和交互设计。
@@ -27,6 +35,18 @@ Zefang Liu, Yinzhu Quan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-08136/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-08136/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_08136,
+  title = {{EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments}},
+  author = {{Zefang Liu} and {Yinzhu Quan}},
+  year = {2025},
+  eprint = {2506.08136v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.08136v3},
+  note = {First published: 2025-06-09; Recorded arXiv version: v3; Recorded version updated: 2026-05-11T08:25:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

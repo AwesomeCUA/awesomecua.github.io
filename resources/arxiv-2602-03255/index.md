@@ -1,3 +1,11 @@
+---
+title: "LPS-Bench: Benchmarking Safety Awareness of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-03255/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LPS-Bench: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios
 
 Bibliographic record for LPS-Bench: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tianyu Chen, Chujia Hu, Dongrui Liu, Xia Hu, Wenjie Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-03255/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-03255/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_03255,
+  title = {{LPS-Bench: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios}},
+  author = {{Tianyu Chen} and {Chujia Hu} and {Dongrui Liu} and {Xia Hu} and {Wenjie Wang}},
+  year = {2026},
+  eprint = {2602.03255v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.03255v2},
+  note = {First published: 2026-02-03; Recorded arXiv version: v2; Recorded version updated: 2026-10-02T00:39:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

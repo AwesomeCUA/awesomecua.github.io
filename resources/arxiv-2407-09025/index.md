@@ -1,3 +1,11 @@
+---
+title: "SpreadsheetLLM: Encoding Spreadsheets for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-09025/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SpreadsheetLLM: Encoding Spreadsheets for Large Language Models
 
 Bibliographic record for SpreadsheetLLM: Encoding Spreadsheets for Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haoyu Dong, Jianbo Zhao, Yuzhang Tian, Junyu Xiong, Shiyu Xia, Mengyu Zhou, Yun 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-09025/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-09025/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_09025,
+  title = {{SpreadsheetLLM: Encoding Spreadsheets for Large Language Models}},
+  author = {{Haoyu Dong} and {Jianbo Zhao} and {Yuzhang Tian} and {Junyu Xiong} and {Shiyu Xia} and {Mengyu Zhou} and {Yun Lin} and {José Cambronero} and {Yeye He} and {Shi Han} and {Dongmei Zhang}},
+  year = {2024},
+  eprint = {2407.09025v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.09025v2},
+  note = {First published: 2024-07-12; Recorded arXiv version: v2; Recorded version updated: 2025-04-02T14:33:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

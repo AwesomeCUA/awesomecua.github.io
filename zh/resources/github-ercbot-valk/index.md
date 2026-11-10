@@ -1,3 +1,11 @@
+---
+title: "Valk · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ercbot-valk/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Valk
 
 Valk 是 Python 库和可观察的远程桌面界面，供 AI 智能体通过程序控制鼠标、键盘和屏幕。

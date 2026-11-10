@@ -1,3 +1,11 @@
+---
+title: "DeepSeek Harness Desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tengqi159-deepseek-harness-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DeepSeek Harness Desktop
 
 DeepSeek Harness 的 macOS 桌面配套应用，支持附加研究文件和管理本地工具。

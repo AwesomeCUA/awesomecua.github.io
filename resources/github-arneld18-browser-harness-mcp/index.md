@@ -1,3 +1,11 @@
+---
+title: "Browser Harness MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arneld18-browser-harness-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Harness MCP
 
 Lightweight, self-healing Model Context Protocol server for native LLM web browser automation.

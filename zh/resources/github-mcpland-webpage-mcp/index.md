@@ -1,3 +1,11 @@
+---
+title: "Webpage MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcpland-webpage-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Webpage MCP
 
 将任何现有网页应用转变为页面内 Model Context Protocol 服务器，让 AI 智能体能够导航并调用 DOM 动作。

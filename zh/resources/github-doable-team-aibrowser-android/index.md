@@ -1,3 +1,11 @@
+---
+title: "AiBrowser for Android · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-doable-team-aibrowser-android/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AiBrowser for Android
 
 将一部闲置 Android 手机变成 AI 智能体可远程操作的有界面 Chromium 实例。

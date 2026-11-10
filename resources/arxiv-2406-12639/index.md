@@ -1,3 +1,11 @@
+---
+title: "Ask-before-Plan: Proactive Language Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-12639/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Ask-before-Plan: Proactive Language Agents for Real-World Planning
 
 Status: excluded from the active CUA catalog after scope review.

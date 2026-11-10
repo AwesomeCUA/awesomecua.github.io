@@ -1,3 +1,11 @@
+---
+title: "Screen Point-and-Read Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4b747a376f628e6f9760/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Screen Point-and-Read Data
 
 Screen Point-and-Read Data pairs OS, web and mobile screenshots with selected points, annotated regions and corrected captions for layout-aware GUI interpretation.

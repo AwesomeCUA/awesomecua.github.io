@@ -1,3 +1,11 @@
+---
+title: "Training a Vision Language Model as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-08755/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Training a Vision Language Model as Smartphone Assistant
 
 Trains a smartphone assistant from sequences of screenshots paired with earlier actions. The model predicts UI-only interactions such as taps and swipes, with evaluation on Android in the Wild.
@@ -26,6 +34,18 @@ Nicolai Dorka, Janusz Marecki, Ammar Anwar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-08755/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-08755/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_08755,
+  title = {{Training a Vision Language Model as Smartphone Assistant}},
+  author = {{Nicolai Dorka} and {Janusz Marecki} and {Ammar Anwar}},
+  year = {2024},
+  eprint = {2404.08755v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.08755v1},
+  note = {First published: 2024-04-12; Recorded arXiv version: v1; Recorded version updated: 2024-04-12T18:28:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

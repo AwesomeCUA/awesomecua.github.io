@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Runtime Lite · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-coolwkx-browser-agent-runtime-lite/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Browser Agent Runtime Lite
 
 用于执行自主浏览器智能体感知与动作循环的轻量级运行时。

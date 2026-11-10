@@ -1,3 +1,11 @@
+---
+title: "Marey | AwesomeCUA"
+url: https://awesomecua.com/resources/github-badalraj9-marey/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Marey
 
 Marey is a modular perception engine for computer-use agents that tracks screen changes and extracts UI elements with minimal model calls.

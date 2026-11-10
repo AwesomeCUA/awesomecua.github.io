@@ -1,3 +1,11 @@
+---
+title: "EvalOps browser-use-rs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dx-corp-browser-use-rs/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # EvalOps browser-use-rs
 
 Rust behavioral conformance port of the browser-use web agent library for low-overhead autonomous browser control.

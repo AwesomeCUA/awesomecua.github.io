@@ -1,3 +1,11 @@
+---
+title: "ScreenASR-Bench: A Tiered Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-16260/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # ScreenASR-Bench: A Tiered Benchmark for Speech Recognition with Visual Context
 
 Bibliographic record for ScreenASR-Bench: A Tiered Benchmark for Speech Recognition with Visual Context. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Mingwei Fu, Zheshu Song, Zhikai Zhou, Shen Huang, Shidong Shang, Mengxiao Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16260/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16260/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16260,
+  title = {{ScreenASR-Bench: A Tiered Benchmark for Speech Recognition with Visual Context}},
+  author = {{Mingwei Fu} and {Zheshu Song} and {Zhikai Zhou} and {Shen Huang} and {Shidong Shang} and {Mengxiao Zhu}},
+  year = {2026},
+  eprint = {2610.16260v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16260v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T06:36:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

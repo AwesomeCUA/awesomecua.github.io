@@ -1,3 +1,11 @@
+---
+title: "pyppeteer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pyppeteer-pyppeteer/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # pyppeteer
 
 Pyppeteer is a Python library for automating Chrome and Chromium pages, with APIs for navigation, screenshots, element queries, and page JavaScript.

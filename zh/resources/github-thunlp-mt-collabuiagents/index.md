@@ -1,3 +1,11 @@
+---
+title: "CollabUIAgents · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thunlp-mt-collabuiagents/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # CollabUIAgents
 
 CollabUIAgents 通过多智能体生成交互数据并分配过程奖励来训练界面智能体；仓库提供数据采集流程和推理代码。

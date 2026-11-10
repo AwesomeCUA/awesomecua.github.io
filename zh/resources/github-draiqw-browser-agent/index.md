@@ -1,3 +1,11 @@
+---
+title: "draiqw browser-agent (bu_mcp) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-draiqw-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # draiqw browser-agent (bu_mcp)
 
 增强版 Browser-Use 发行版，在自主网页导航之上增加了 bu_mcp Model Context Protocol 层。

@@ -1,3 +1,11 @@
+---
+title: "DSH Browser Client · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-flymysql-dsh-browser-client/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DSH Browser Client
 
 面向 DeepSeek Harness 的页面内悬浮式 LLM 浏览器助手，让非技术用户能够自动执行网页工作流。

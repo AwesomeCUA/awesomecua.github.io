@@ -1,3 +1,11 @@
+---
+title: "Okno Windows Computer Use MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vitalcc55-okno/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Okno Windows Computer Use MCP
 
 面向 AI 智能体的原生 Windows Model Context Protocol 运行环境，提供桌面窗口检查、OCR 和输入控制。

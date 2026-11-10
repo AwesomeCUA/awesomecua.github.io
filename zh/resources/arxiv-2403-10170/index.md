@@ -1,3 +1,11 @@
+---
+title: "Computer User Interface Understanding. A… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-10170/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Computer User Interface Understanding. A New Dataset and a Learning Framework
 
 提出桌面交互视频，以及结合合成样例与层次对比学习的界面分类框架。
@@ -27,6 +35,18 @@ Andrés Muñoz, Daniel Borrajo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-10170/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-10170/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_10170,
+  title = {{Computer User Interface Understanding. A New Dataset and a Learning Framework}},
+  author = {{Andrés Muñoz} and {Daniel Borrajo}},
+  year = {2024},
+  eprint = {2403.10170v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.10170v2},
+  note = {First published: 2024-03-15; Recorded arXiv version: v2; Recorded version updated: 2024-08-27T18:36:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

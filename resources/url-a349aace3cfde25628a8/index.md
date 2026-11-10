@@ -1,3 +1,11 @@
+---
+title: "Holo3 35B-A3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a349aace3cfde25628a8/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Holo3 35B-A3B
 
 A sparse Qwen3.5-based GUI-action checkpoint released for navigation and computer-use workflows.

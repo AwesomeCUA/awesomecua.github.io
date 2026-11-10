@@ -1,3 +1,11 @@
+---
+title: "Private Product Computation using Quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-05993/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Private Product Computation using Quantum Entanglement
 
 Status: excluded from the active CUA catalog after scope review.

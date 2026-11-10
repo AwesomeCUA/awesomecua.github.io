@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-32B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-560a21b67220296ba009/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-32B-Instruct
 
 Qwen3-VL-32B-Instruct 是 Qwen3-VL 视觉语言模型 32B 规模的指令微调（Instruct）版权重；模型卡介绍了它操作电脑和移动设备 GUI 的视觉智能体能力，包括识别界面元素和使用工具。

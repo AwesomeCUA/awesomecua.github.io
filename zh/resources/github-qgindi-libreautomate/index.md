@@ -1,3 +1,11 @@
+---
+title: "LibreAutomate · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qgindi-libreautomate/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # LibreAutomate
 
 LibreAutomate 是 C# 脚本编辑器和 Windows 自动化库，支持 UI Automation、无障碍树、图像匹配和 OCR。

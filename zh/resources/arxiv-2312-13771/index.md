@@ -1,3 +1,11 @@
+---
+title: "AppAgent: Multimodal Agents as… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2312-13771/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AppAgent: Multimodal Agents as Smartphone Users
 
 通过探索或人工演示积累应用知识，并用这些知识指导智能手机上的多模态交互。
@@ -27,6 +35,18 @@ Chi Zhang, Zhao Yang, Jiaxuan Liu, Yanda Li, Yucheng Han, Xin Chen, Zebiao Huang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2312-13771/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2312-13771/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_13771,
+  title = {{AppAgent: Multimodal Agents as Smartphone Users}},
+  author = {{Chi Zhang} and {Zhao Yang} and {Jiaxuan Liu} and {Yanda Li} and {Yucheng Han} and {Xin Chen} and {Zebiao Huang} and {Bin Fu} and {Gang Yu}},
+  year = {2023},
+  eprint = {2312.13771v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.13771v3},
+  note = {First published: 2023-12-21; Recorded arXiv version: v3; Recorded version updated: 2026-07-05T07:51:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

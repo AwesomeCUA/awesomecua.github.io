@@ -1,3 +1,11 @@
+---
+title: "Celestea Harness Studio | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcd0luo-celestea-harness-studio/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Celestea Harness Studio
 
 Self-hosted AI agent workbench combining a web UI, TypeScript backend, sandboxed tool execution, and browser control.

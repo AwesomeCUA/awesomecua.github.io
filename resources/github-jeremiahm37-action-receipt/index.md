@@ -1,3 +1,11 @@
+---
+title: "action-receipt | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeremiahm37-action-receipt/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # action-receipt
 
 Generates deterministic per-action DOM and network effect receipts for auditing browser-agent executions.

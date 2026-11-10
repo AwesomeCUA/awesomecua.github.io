@@ -1,3 +1,11 @@
+---
+title: "AnythingLLM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mintplex-labs-anything-llm/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AnythingLLM
 
 AnythingLLM is a local-first desktop and server application supporting custom AI agents, web browsing, MCP tools, and document RAG.

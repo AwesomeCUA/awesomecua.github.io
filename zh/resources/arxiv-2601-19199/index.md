@@ -1,3 +1,11 @@
+---
+title: "MAGNET: Towards Adaptive GUI Agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-19199/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution
 
 MAGNET 分别存储稳定的界面功能知识和任务流程记忆，以适应布局与工作流变化；它更新常用知识，并在 AndroidWorld 及离线分布偏移场景中评估适应能力。
@@ -27,6 +35,18 @@ Libo Sun, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-19199/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-19199/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_19199,
+  title = {{MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution}},
+  author = {{Libo Sun} and {Jiwen Zhang} and {Siyuan Wang} and {Zhongyu Wei}},
+  year = {2026},
+  eprint = {2601.19199v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.19199v2},
+  note = {First published: 2026-01-27; Recorded arXiv version: v2; Recorded version updated: 2026-01-31T15:17:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Video PreTraining (VPT): Learning to Act by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-11795/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
 
 Bibliographic record for Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2206-11795/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2206-11795/citation.csl.json
+
+```bibtex
+@misc{arxiv_2206_11795,
+  title = {{Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos}},
+  author = {{Bowen Baker} and {Ilge Akkaya} and {Peter Zhokhov} and {Joost Huizinga} and {Jie Tang} and {Adrien Ecoffet} and {Brandon Houghton} and {Raul Sampedro} and {Jeff Clune}},
+  year = {2022},
+  eprint = {2206.11795v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2206.11795v1},
+  note = {First published: 2022-06-23; Recorded arXiv version: v1; Recorded version updated: 2022-06-23T16:01:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

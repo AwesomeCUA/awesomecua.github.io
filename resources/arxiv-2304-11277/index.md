@@ -1,3 +1,11 @@
+---
+title: "PyTorch FSDP: Experiences on Scaling Fully… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-11277/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel
 
 Status: excluded from the active CUA catalog after scope review.

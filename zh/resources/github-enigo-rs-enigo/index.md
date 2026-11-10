@@ -1,3 +1,11 @@
+---
+title: "enigo · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-enigo-rs-enigo/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # enigo
 
 一个用于桌面自动化的 Rust 输入模拟库，可在 Windows、macOS 和 Linux 上发送鼠标操作与文本。

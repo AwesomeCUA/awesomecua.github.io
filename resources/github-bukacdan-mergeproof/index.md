@@ -1,3 +1,11 @@
+---
+title: "MergeProof | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bukacdan-mergeproof/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MergeProof
 
 Installable Agent Skill that records live browser verification demos and attaches them to pull requests.

@@ -1,3 +1,11 @@
+---
+title: "Secure and Efficient Access Control for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-22256/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Secure and Efficient Access Control for Computer-Use Agents via Context Space
 
 Introduces CSAgent, which combines static access policies with user intent and context and enforces them through an operating-system service. A supporting toolchain constructs and refines policies for agents using API, CLI and GUI interfaces.
@@ -26,6 +34,18 @@ Haochen Gong, Chenxiao Li, Rui Chang, Wenbo Shen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-22256/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-22256/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_22256,
+  title = {{Secure and Efficient Access Control for Computer-Use Agents via Context Space}},
+  author = {{Haochen Gong} and {Chenxiao Li} and {Rui Chang} and {Wenbo Shen}},
+  year = {2025},
+  eprint = {2509.22256v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.22256v4},
+  note = {First published: 2025-09-26; Recorded arXiv version: v4; Recorded version updated: 2026-01-14T06:07:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

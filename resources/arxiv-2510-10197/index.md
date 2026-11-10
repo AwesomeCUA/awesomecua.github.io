@@ -1,3 +1,11 @@
+---
+title: "Don't Just Fine-tune the Agent, Tune the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-10197/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Don't Just Fine-tune the Agent, Tune the Environment
 
 Bibliographic record for Don't Just Fine-tune the Agent, Tune the Environment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Siyuan Lu, Zechuan Wang, Hongxuan Zhang, Qintong Wu, Leilei Gan, Chenyi Zhuang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-10197/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-10197/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_10197,
+  title = {{Don't Just Fine-tune the Agent, Tune the Environment}},
+  author = {{Siyuan Lu} and {Zechuan Wang} and {Hongxuan Zhang} and {Qintong Wu} and {Leilei Gan} and {Chenyi Zhuang} and {Jinjie Gu} and {Tao Lin}},
+  year = {2025},
+  eprint = {2510.10197v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.10197v2},
+  note = {First published: 2025-10-11; Recorded arXiv version: v2; Recorded version updated: 2026-01-30T03:31:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "hai-agents (hcompai/hai-agents-python) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hcompai-hai-agents-python/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # hai-agents
 
 hai-agents 是用于通过 H Company 的 Agents API 启动浏览器和桌面智能体的 Python SDK 与命令行工具，并可查看会话进度。

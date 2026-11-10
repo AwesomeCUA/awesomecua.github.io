@@ -1,3 +1,11 @@
+---
+title: "BrowserTrace | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aaronlab-browsertrace/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # BrowserTrace
 
 Local, cloud-free replay debugger that records each Browser Use step's screenshot, URL, action and model I/O as a timeline and reports the step at which a failed run diverges from a known-good one.

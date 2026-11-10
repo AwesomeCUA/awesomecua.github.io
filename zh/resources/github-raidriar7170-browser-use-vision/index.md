@@ -1,3 +1,11 @@
+---
+title: "Browser-Use Vision · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raidriar7170-browser-use-vision/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Browser-Use Vision
 
 面向 browser-use 的视觉定位插件，结合 Set-of-Mark 叠加标注、Florence-2 检测和 Vision-DOM 对齐。

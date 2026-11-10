@@ -1,3 +1,11 @@
+---
+title: "Jev Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amyivychoi-jev-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Jev Browser Agent
 
 Jev Browser Agent 结合 Browser Use DOM 提取、Jev System-One 动作选择和确定性浏览器测试框架执行。

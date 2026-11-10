@@ -1,3 +1,11 @@
+---
+title: "Toward AI VIS Co-Scientists: A General and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-21825/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Toward AI VIS Co-Scientists: A General and End-to-End Agent Harness for Solving Complex Data Visualization Tasks
 
 Bibliographic record for Toward AI VIS Co-Scientists: A General and End-to-End Agent Harness for Solving Complex Data Visualization Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haichao Miao, Zhimin Li, Kuangshi Ai, Kaiyuan Tang, Chaoli Wang, Peer-Timo Breme
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-21825/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-21825/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_21825,
+  title = {{Toward AI VIS Co-Scientists: A General and End-to-End Agent Harness for Solving Complex Data Visualization Tasks}},
+  author = {{Haichao Miao} and {Zhimin Li} and {Kuangshi Ai} and {Kaiyuan Tang} and {Chaoli Wang} and {Peer-Timo Bremer} and {Shusen Liu}},
+  year = {2026},
+  eprint = {2605.21825v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.21825v1},
+  note = {First published: 2026-05-20; Recorded arXiv version: v1; Recorded version updated: 2026-05-20T23:49:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

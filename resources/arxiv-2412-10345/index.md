@@ -1,3 +1,11 @@
+---
+title: "TraceVLA: Visual Trace Prompting Enhances… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-10345/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies
 
 Bibliographic record for TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ruijie Zheng, Yongyuan Liang, Shuaiyi Huang, Jianfeng Gao, Hal Daumé, Andrey Ko
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-10345/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-10345/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_10345,
+  title = {{TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies}},
+  author = {{Ruijie Zheng} and {Yongyuan Liang} and {Shuaiyi Huang} and {Jianfeng Gao} and {Hal Daumé} and {Andrey Kolobov} and {Furong Huang} and {Jianwei Yang}},
+  year = {2024},
+  eprint = {2412.10345v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.10345v3},
+  note = {First published: 2024-12-13; Recorded arXiv version: v3; Recorded version updated: 2025-06-05T21:26:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

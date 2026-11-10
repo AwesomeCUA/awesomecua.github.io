@@ -1,3 +1,11 @@
+---
+title: "AI Assistance for UX: A Literature Review… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-06089/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AI Assistance for UX: A Literature Review Through Human-Centered AI
 
 Bibliographic record for AI Assistance for UX: A Literature Review Through Human-Centered AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuwen Lu, Yuewen Yang, Qinyi Zhao, Chengzhi Zhang, Toby Jia-Jun Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-06089/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-06089/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_06089,
+  title = {{AI Assistance for UX: A Literature Review Through Human-Centered AI}},
+  author = {{Yuwen Lu} and {Yuewen Yang} and {Qinyi Zhao} and {Chengzhi Zhang} and {Toby Jia-Jun Li}},
+  year = {2024},
+  eprint = {2402.06089v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.06089v2},
+  note = {First published: 2024-02-08; Recorded arXiv version: v2; Recorded version updated: 2024-02-13T04:42:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

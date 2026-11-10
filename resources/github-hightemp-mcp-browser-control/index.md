@@ -1,3 +1,11 @@
+---
+title: "hightemp MCP Browser Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hightemp-mcp-browser-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # hightemp MCP Browser Control
 
 Local Go Model Context Protocol server and Manifest V3 extension for controlling open Chrome or Firefox tabs.

@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-Verifier-2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9b653775f6b9270304d3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GUI-Actor-Verifier-2B
 
 A GUI grounding verifier that checks whether a marked screenshot position matches an instruction and provides a score for candidate action positions.

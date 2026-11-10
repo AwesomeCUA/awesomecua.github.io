@@ -1,3 +1,11 @@
+---
+title: "BALROG: Benchmarking Agentic LLM and VLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-13543/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games
 
 Status: excluded from the active CUA catalog after scope review.

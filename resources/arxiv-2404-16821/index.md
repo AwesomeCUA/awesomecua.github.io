@@ -1,3 +1,11 @@
+---
+title: "How Far Are We to GPT-4V? Closing the Gap to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-16821/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites
 
 Bibliographic record for How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhe Chen, Weiyun Wang, Hao Tian, Shenglong Ye, Zhangwei Gao, Erfei Cui, Wenwen T
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-16821/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-16821/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_16821,
+  title = {{How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites}},
+  author = {{Zhe Chen} and {Weiyun Wang} and {Hao Tian} and {Shenglong Ye} and {Zhangwei Gao} and {Erfei Cui} and {Wenwen Tong} and {Kongzhi Hu} and {Jiapeng Luo} and {Zheng Ma} and {Ji Ma} and {Jiaqi Wang} and {Xiaoyi Dong} and {Hang Yan} and {Hewei Guo} and {Conghui He} and {Botian Shi} and {Zhenjiang Jin} and {Chao Xu} and {Bin Wang} and {Xingjian Wei} and {Wei Li} and {Wenjian Zhang} and {Bo Zhang} and {Pinlong Cai} and {Licheng Wen} and {Xiangchao Yan} and {Min Dou} and {Lewei Lu} and {Xizhou Zhu} and {Tong Lu} and {Dahua Lin} and {Yu Qiao} and {Jifeng Dai} and {Wenhai Wang}},
+  year = {2024},
+  eprint = {2404.16821v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.16821v2},
+  note = {First published: 2024-04-25; Recorded arXiv version: v2; Recorded version updated: 2024-04-29T20:24:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

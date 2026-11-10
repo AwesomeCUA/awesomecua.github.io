@@ -1,3 +1,11 @@
+---
+title: "Browser Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anomalyco-browser-control/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Browser Control
 
 Browser Control lets coding agents run Playwright snippets in an existing Chromium-family browser through a local relay and extension, returning results and change summaries.

@@ -1,3 +1,11 @@
+---
+title: "OS-Oracle: A Comprehensive Framework for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-16295/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models
 
 OS-Oracle 合成 GUI 评判模型样本，先通过监督学习训练操作前评判模型，再进行保持一致性的 GRPO 训练。论文提出覆盖移动端、网页和桌面的 OS-Critic Bench，并在 OSWorld 和 AndroidWorld 中测试评判模型辅助的智能体。
@@ -27,6 +35,18 @@ Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Qiushi Sun, Zhaoyang Liu, Zhoumia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-16295/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-16295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_16295,
+  title = {{OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models}},
+  author = {{Zhenyu Wu} and {Jingjing Xie} and {Zehao Li} and {Bowen Yang} and {Qiushi Sun} and {Zhaoyang Liu} and {Zhoumianze Liu} and {Yu Qiao} and {Xiangyu Yue} and {Zun Wang} and {Zichen Ding}},
+  year = {2025},
+  eprint = {2512.16295v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.16295v1},
+  note = {First published: 2025-12-18; Recorded arXiv version: v1; Recorded version updated: 2025-12-18T08:29:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

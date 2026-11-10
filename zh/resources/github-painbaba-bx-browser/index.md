@@ -1,3 +1,11 @@
+---
+title: "BX Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-painbaba-bx-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # BX Browser
 
 以 DOM 为主、具备视觉能力的自主浏览器智能体，可规划并执行多步骤网页任务。

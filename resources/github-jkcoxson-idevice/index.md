@@ -1,3 +1,11 @@
+---
+title: "idevice | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jkcoxson-idevice/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # idevice
 
 A Rust library that talks to iOS device services over lockdownd, usbmuxd and RSD, with features for screenshots, SpringBoard control, app installation and launching WebDriverAgent runners.

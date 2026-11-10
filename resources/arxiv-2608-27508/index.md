@@ -1,3 +1,11 @@
+---
+title: "WM-R1: Training GUI Agents to Reason and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-27508/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning
 
 Uses learned world models for mobile-agent training rollouts and for reasoning about the consequences of candidate GUI actions.
@@ -26,6 +34,18 @@ Yu Han, Tianwen Qian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-27508/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-27508/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27508,
+  title = {{WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning}},
+  author = {{Yu Han} and {Tianwen Qian}},
+  year = {2026},
+  eprint = {2608.27508v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27508v1},
+  note = {First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T07:09:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

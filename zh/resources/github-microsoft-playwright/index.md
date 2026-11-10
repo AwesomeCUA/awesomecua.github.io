@@ -1,3 +1,11 @@
+---
+title: "Playwright · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-playwright/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # Playwright
 
 浏览器自动化库，可作为智能体的执行层。

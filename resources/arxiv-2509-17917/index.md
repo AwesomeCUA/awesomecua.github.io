@@ -1,3 +1,11 @@
+---
+title: "Orcust: Stepwise-Feedback Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-17917/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent
 
 Orcust combines principle-constrained reward modeling with GUI trajectory collection in instrumented virtual machines. Environment-checkable and model-derived principles guide stepwise feedback for grounding, basic operations, and complete task execution.
@@ -26,6 +34,18 @@ Junyu Lu, Songxin Zhang, Zejian Xie, Zhuoyang Song, Jiaxing Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-17917/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-17917/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_17917,
+  title = {{Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent}},
+  author = {{Junyu Lu} and {Songxin Zhang} and {Zejian Xie} and {Zhuoyang Song} and {Jiaxing Zhang}},
+  year = {2025},
+  eprint = {2509.17917v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.17917v1},
+  note = {First published: 2025-09-22; Recorded arXiv version: v1; Recorded version updated: 2025-09-22T15:40:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

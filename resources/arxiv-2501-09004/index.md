@@ -1,3 +1,11 @@
+---
+title: "Aegis2.0: A Diverse AI Safety Dataset and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-09004/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails
 
 Status: excluded from the active CUA catalog after scope review.

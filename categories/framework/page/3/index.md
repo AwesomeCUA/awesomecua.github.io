@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent frameworks, page 3 | AwesomeCUA"
+url: https://awesomecua.com/categories/framework/page/3/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent frameworks, page 3
 
 HTML page: https://awesomecua.com/categories/framework/page/3/
@@ -42,7 +50,6 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [AXON OS](https://awesomecua.com/resources/github-frezzaroukos-axon-os/)
 - [axstream](https://awesomecua.com/resources/github-milind-soni-axstream/)
 - [BadAgents](https://awesomecua.com/resources/github-lancopku-agent-backdoor-attacks/)
-- [Bees Desktop](https://awesomecua.com/resources/github-bees-bot-bees-desktop/)
 - [bg-driver-rs](https://awesomecua.com/resources/github-lvyuan1688-bg-driver-rs/)
 - [bgivenb Typed UI Capabilities](https://awesomecua.com/resources/github-bgivenb-computer-use-automation/)
 - [Bridge Studio (WebMCP Browser Studio)](https://awesomecua.com/resources/github-salilbhasinofficial-webmcp-browser-studio/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [CrossHands](https://awesomecua.com/resources/github-caelaxie-crosshands/)
 - [CUA Evaluation & RL with Autonomous Feedback](https://awesomecua.com/resources/github-martasumyk-cua-eval-and-finetuning/)
 - [cua_agent](https://awesomecua.com/resources/github-lacassef-computeruse/)
+- [CUArena](https://awesomecua.com/resources/github-ogutdgn-cuarena/)

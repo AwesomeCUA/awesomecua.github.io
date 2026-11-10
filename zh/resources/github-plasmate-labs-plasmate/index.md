@@ -1,3 +1,11 @@
+---
+title: "Plasmate · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Plasmate
 
 Plasmate 是面向 AI 智能体的 Rust 浏览器引擎，可将 HTML 和 DOM 状态转换为紧凑、可操作的 Semantic Object Model。

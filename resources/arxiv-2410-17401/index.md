@@ -1,3 +1,11 @@
+---
+title: "AdvAgent: Controllable Blackbox Red-teaming… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-17401/
+updated: 2026-11-02
+type: paper
+lang: en
+---
+
 # AdvAgent: Controllable Blackbox Red-teaming on Web Agents
 
 Introduces a black-box web-agent red-teaming framework that learns adversarial prompts from agent feedback to study security weaknesses.
@@ -26,6 +34,18 @@ Chejian Xu, Mintong Kang, Jiawei Zhang, Zeyi Liao, Lingbo Mo, Mengqi Yuan, Huan 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-17401/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-17401/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_17401,
+  title = {{AdvAgent: Controllable Blackbox Red-teaming on Web Agents}},
+  author = {{Chejian Xu} and {Mintong Kang} and {Jiawei Zhang} and {Zeyi Liao} and {Lingbo Mo} and {Mengqi Yuan} and {Huan Sun} and {Bo Li}},
+  year = {2024},
+  eprint = {2410.17401v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.17401v4},
+  note = {First published: 2024-10-22; Recorded arXiv version: v4; Recorded version updated: 2025-05-31T18:34:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

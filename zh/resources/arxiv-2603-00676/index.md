@@ -1,3 +1,11 @@
+---
+title: "K^2-Agent: Co-Evolving Know-What and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-00676/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control
 
 提出分层移动设备控制框架 K2-Agent：通过推理循环修订任务知识，并用课程引导的强化学习训练执行器。
@@ -27,6 +35,18 @@ Zhe Wu, Donglin Mo, Hongjin Lu, Junliang Xing, Jianheng Liu, Yuheng Jing, Kai Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-00676/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-00676/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_00676,
+  title = {{K\textasciicircum{}2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control}},
+  author = {{Zhe Wu} and {Donglin Mo} and {Hongjin Lu} and {Junliang Xing} and {Jianheng Liu} and {Yuheng Jing} and {Kai Li} and {Kun Shao} and {Jianye Hao} and {Yuanchun Shi}},
+  year = {2026},
+  eprint = {2603.00676v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.00676v1},
+  note = {First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T14:33:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

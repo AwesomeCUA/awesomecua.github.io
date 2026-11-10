@@ -1,3 +1,11 @@
+---
+title: "firefox-bidi-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-enne2-firefox-bidi-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # firefox-bidi-mcp
 
 独立的 Model Context Protocol 服务器，通过 WebDriver BiDi 协议控制已打开的 Firefox 浏览器实例。

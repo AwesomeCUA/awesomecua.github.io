@@ -1,3 +1,11 @@
+---
+title: "amajorai Ghost Desktop MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amajorai-ghost/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # amajorai Ghost Desktop MCP
 
 桌面自动化 Model Context Protocol 服务器，为 AI 智能体提供屏幕感知和鼠标键盘输入控制。

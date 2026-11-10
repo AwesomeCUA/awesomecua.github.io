@@ -1,3 +1,11 @@
+---
+title: "ChromeClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-algopian-chromeclaw/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ChromeClaw
 
 ChromeClaw runs an autonomous browser and workspace agent inside the Chrome extension sandbox with multi-provider LLM and tab automation tools.

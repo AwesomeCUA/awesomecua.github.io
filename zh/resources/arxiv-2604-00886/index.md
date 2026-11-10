@@ -1,3 +1,11 @@
+---
+title: "PixelPrune: Pixel-Level Adaptive Visual… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-00886/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding
 
 PixelPrune 在视觉编码器之前去除像素冗余的图块，减少编码和后续语言模型的计算量。这种无需训练的方法在文档和 GUI 任务上评估无损及受控有损压缩。
@@ -27,6 +35,18 @@ Nan Wang, Zhiwei Jin, Chen Chen, Haonan Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-00886/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-00886/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_00886,
+  title = {{PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding}},
+  author = {{Nan Wang} and {Zhiwei Jin} and {Chen Chen} and {Haonan Lu}},
+  year = {2026},
+  eprint = {2604.00886v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.00886v1},
+  note = {First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T13:33:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

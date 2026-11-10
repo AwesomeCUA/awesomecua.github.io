@@ -1,3 +1,11 @@
+---
+title: "Browser Harness JS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-browser-harness-js/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Browser Harness JS
 
 A JavaScript CLI and SDK that expose typed Chrome DevTools Protocol calls through a persistent browser session, allowing agents to inspect tabs and issue browser actions.

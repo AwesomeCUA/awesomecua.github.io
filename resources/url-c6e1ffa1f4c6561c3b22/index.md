@@ -1,3 +1,11 @@
+---
+title: "Fuyu-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c6e1ffa1f4c6561c3b22/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # Fuyu-8B
 
 Adept's decoder-only multimodal base model that feeds image patches straight into the transformer, released for research on digital agents, UI question answering and screen localization.

@@ -1,3 +1,11 @@
+---
+title: "HeySnap | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dhamani-aryan-heysnap/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # HeySnap
 
 AI-first workspace for capturing files, documents, and live browser context into structured agent memory.

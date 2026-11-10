@@ -1,3 +1,11 @@
+---
+title: "pyautogui_mcp_server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-on-panda-pyautogui-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pyautogui_mcp_server
 
 pyautogui_mcp_server 是一个支持 Streamable HTTP 的 Model Context Protocol 服务器，用于执行 PyAutoGUI 桌面自动化工作流。

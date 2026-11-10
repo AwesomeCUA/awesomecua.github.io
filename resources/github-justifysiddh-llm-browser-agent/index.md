@@ -1,3 +1,11 @@
+---
+title: "llm-browser-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-justifysiddh-llm-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # llm-browser-agent
 
 Self-healing browser automation framework that replaces brittle CSS selectors with LLM-guided semantic element resolution.

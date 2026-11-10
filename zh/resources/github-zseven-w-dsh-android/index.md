@@ -1,3 +1,11 @@
+---
+title: "DSH Android · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zseven-w-dsh-android/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # DSH Android
 
 这个 DeepSeek Harness 插件将 Android 模拟器或手机画面传入智能体对话，并提供基于 adb 的截图、界面检查和交互工具。

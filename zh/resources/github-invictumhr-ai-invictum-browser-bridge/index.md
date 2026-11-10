@@ -1,3 +1,11 @@
+---
+title: "Invictum Browser Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-invictumhr-ai-invictum-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Invictum Browser Bridge
 
 以安全为先的 Model Context Protocol 桥接工具，允许 AI 智能体在严格约束下控制现有浏览器会话。

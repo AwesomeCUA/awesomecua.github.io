@@ -1,3 +1,11 @@
+---
+title: "GUI-CC: Benchmarking Contextual Consistency… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-00048/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments
 
 Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agent environments. Separate reference-action and agent-loop tracks test whether generated screens preserve context, plausible transitions, and task progress throughout interaction.
@@ -26,6 +34,18 @@ Lin Fu, Zheyuan Yang, Tianhui Zhang, Jinbiao Wei, Guo Gan, Boxu Liu, Yilun Zhao,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-00048/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-00048/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_00048,
+  title = {{GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments}},
+  author = {{Lin Fu} and {Zheyuan Yang} and {Tianhui Zhang} and {Jinbiao Wei} and {Guo Gan} and {Boxu Liu} and {Yilun Zhao} and {Yu Rong}},
+  year = {2026},
+  eprint = {2609.00048v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.00048v1},
+  note = {First published: 2026-08-30; Recorded arXiv version: v1; Recorded version updated: 2026-08-30T05:19:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Pro 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9c5e0c8f6784bedeb153/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # OS-Atlas Pro 7B
 
 OS-Atlas action checkpoint fine-tuned from OS-Atlas-Base-7B that reads a screenshot, task and history and writes a thought plus the next basic or user-defined GUI action, in the Qwen2-VL architecture.

@@ -1,3 +1,11 @@
+---
+title: "ClawBenchV2Trace · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3452cef2f99d7de2935a/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # ClawBenchV2Trace
 
 ClawBench V2 130 项任务集上浏览器智能体运行的原始执行轨迹，每次运行包含屏幕录像、网络抓包、浏览器动作流、智能体推理过程、被拦截的最终请求以及评审结论。

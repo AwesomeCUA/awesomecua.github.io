@@ -1,3 +1,11 @@
+---
+title: "Reservoir Computing Using Non-Uniform Binary… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1702-03812/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reservoir Computing Using Non-Uniform Binary Cellular Automata
 
 Status: excluded from the active CUA catalog after scope review.

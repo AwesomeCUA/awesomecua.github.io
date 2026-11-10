@@ -1,3 +1,11 @@
+---
+title: "GUI-DR | AwesomeCUA"
+url: https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # GUI-DR
 
 GUI-DR generates perturbed web screenshots and interaction trajectories from Mind2Web archives to support GUI grounding evaluation and fine-tuning.

@@ -1,3 +1,11 @@
+---
+title: "HexaShell: A Universal Harness for Robot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-23479/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World
 
 Bibliographic record for HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hongcheng Gao, Jianshu Zeng, Alex Zhou, Shijia Ge, Xuan Shangguan, Yazhe Wang, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-23479/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-23479/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23479,
+  title = {{HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World}},
+  author = {{Hongcheng Gao} and {Jianshu Zeng} and {Alex Zhou} and {Shijia Ge} and {Xuan Shangguan} and {Yazhe Wang} and {Yexing Wan} and {Zelin Zheng} and {Jay Zhu} and {Xiping Li} and {Di Wu} and {Yongli Wang} and {Lingyu He} and {Zhiqi Jia} and {Sihang Wu} and {Xiao He}},
+  year = {2026},
+  eprint = {2610.23479v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23479v3},
+  note = {First published: 2026-10-16; Recorded arXiv version: v3; Recorded version updated: 2026-11-03T20:22:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

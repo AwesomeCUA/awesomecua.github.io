@@ -1,3 +1,11 @@
+---
+title: "RT-2: Vision-Language-Action Models Transfer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-15818/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
 
 Bibliographic record for RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzyszto
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-15818/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-15818/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_15818,
+  title = {{RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control}},
+  author = {{Anthony Brohan} and {Noah Brown} and {Justice Carbajal} and {Yevgen Chebotar} and {Xi Chen} and {Krzysztof Choromanski} and {Tianli Ding} and {Danny Driess} and {Avinava Dubey} and {Chelsea Finn} and {Pete Florence} and {Chuyuan Fu} and {Montse Gonzalez Arenas} and {Keerthana Gopalakrishnan} and {Kehang Han} and {Karol Hausman} and {Alexander Herzog} and {Jasmine Hsu} and {Brian Ichter} and {Alex Irpan} and {Nikhil Joshi} and {Ryan Julian} and {Dmitry Kalashnikov} and {Yuheng Kuang} and {Isabel Leal} and {Lisa Lee} and {Tsang-Wei Edward Lee} and {Sergey Levine} and {Yao Lu} and {Henryk Michalewski} and {Igor Mordatch} and {Karl Pertsch} and {Kanishka Rao} and {Krista Reymann} and {Michael Ryoo} and {Grecia Salazar} and {Pannag Sanketi} and {Pierre Sermanet} and {Jaspiar Singh} and {Anikait Singh} and {Radu Soricut} and {Huong Tran} and {Vincent Vanhoucke} and {Quan Vuong} and {Ayzaan Wahid} and {Stefan Welker} and {Paul Wohlhart} and {Jialin Wu} and {Fei Xia} and {Ted Xiao} and {Peng Xu} and {Sichun Xu} and {Tianhe Yu} and {Brianna Zitkovich}},
+  year = {2023},
+  eprint = {2307.15818v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.15818v1},
+  note = {First published: 2023-07-28; Recorded arXiv version: v1; Recorded version updated: 2023-07-28T21:18:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

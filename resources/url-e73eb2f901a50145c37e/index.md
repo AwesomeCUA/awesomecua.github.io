@@ -1,3 +1,11 @@
+---
+title: "Computer Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e73eb2f901a50145c37e/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Computer Agents
 
 A cloud agent platform that gives agents persistent computers with browser, GUI, terminal, and file access, alongside project workspaces and workflow triggers.

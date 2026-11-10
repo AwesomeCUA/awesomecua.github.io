@@ -1,3 +1,11 @@
+---
+title: "Holotron 3 Nano · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f39d67f7a4a6f869f39c/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # Holotron 3 Nano
 
 H Company 基于 NVIDIA Nemotron 3 Nano Omni 后训练的计算机使用策略检查点，采用每个词元激活 30B 参数中 3B 的混合 Mamba-MoE 架构，面向低延迟智能体任务。

@@ -1,3 +1,11 @@
+---
+title: "ReMe · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentscope-ai-reme/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ReMe
 
 ReMe 是面向自主 LLM 智能体的本地优先个人知识与程序性记忆管理框架。

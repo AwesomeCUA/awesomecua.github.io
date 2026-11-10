@@ -1,3 +1,11 @@
+---
+title: "Snapgrab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-quartzunit-snapgrab/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Snapgrab
 
 Snapgrab captures website screenshots and page metadata through a Python API and MCP tools, with viewport and image-format options.

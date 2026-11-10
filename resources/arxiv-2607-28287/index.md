@@ -1,3 +1,11 @@
+---
+title: "Tycho: Active Abstraction with Programmatic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28287/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3
 
 Bibliographic record for Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jens Lehmann, Andrei Aioanei, Sahar Vahdati
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28287/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28287/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28287,
+  title = {{Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3}},
+  author = {{Jens Lehmann} and {Andrei Aioanei} and {Sahar Vahdati}},
+  year = {2026},
+  eprint = {2607.28287v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28287v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T14:34:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

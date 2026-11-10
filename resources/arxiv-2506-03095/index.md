@@ -1,3 +1,11 @@
+---
+title: "DPO Learning with LLMs-Judge Signal for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-03095/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DPO Learning with LLMs-Judge Signal for Computer Use Agents
 
 Uses an LLM judge to evaluate and filter synthetic GUI interaction trajectories for training a compact vision-language agent. OSWorld experiments assess the policy designed for local execution.
@@ -26,6 +34,18 @@ Man Luo, David Cobbley, Xin Su, Shachar Rosenman, Vasudev Lal, Shao-Yen Tseng, P
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-03095/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-03095/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_03095,
+  title = {{DPO Learning with LLMs-Judge Signal for Computer Use Agents}},
+  author = {{Man Luo} and {David Cobbley} and {Xin Su} and {Shachar Rosenman} and {Vasudev Lal} and {Shao-Yen Tseng} and {Phillip Howard}},
+  year = {2025},
+  eprint = {2506.03095v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.03095v1},
+  note = {First published: 2025-06-03; Recorded arXiv version: v1; Recorded version updated: 2025-06-03T17:27:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

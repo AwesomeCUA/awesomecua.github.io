@@ -1,3 +1,11 @@
+---
+title: "WebArena-Verified · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-servicenow-webarena-verified/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # WebArena-Verified
 
 经审校重新发布 WebArena 的 812 项网页任务，修正参考答案，并以确定性评估器根据结构化智能体回答和捕获的网络轨迹评分，另含 258 项高难度任务子集。

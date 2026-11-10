@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4bece2c969edcdfc2e8d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL
 
 通用视觉语言模型系列；发布说明将电脑和手机操作列为视觉智能体能力，同时介绍图像与视频理解。

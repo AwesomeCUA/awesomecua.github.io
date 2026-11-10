@@ -1,3 +1,11 @@
+---
+title: "Pix2Struct base (pretrained) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bb1440d051c68455a72e/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Pix2Struct base (pretrained)
 
 Pretrained base-size Pix2Struct checkpoint in Transformers format, learned by parsing masked web page screenshots into simplified HTML and released only as a starting point for fine-tuning.

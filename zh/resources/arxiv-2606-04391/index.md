@@ -1,3 +1,11 @@
+---
+title: "Online Skill Learning for Web Agents via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-04391/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval
 
 State-Grounded Dynamic Retrieval 从已完成的网页轨迹中提取可复用子流程，以文本和代码配对表示；在执行的中间步骤，同时依据当前网页状态和任务目标检索技能。
@@ -27,6 +35,18 @@ Jiaxi Li, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ni
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-04391/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-04391/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_04391,
+  title = {{Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval}},
+  author = {{Jiaxi Li} and {Ke Deng} and {Yun Wang} and {Jingyuan Huang} and {Yucheng Shi} and {Qiaoyu Tan} and {Jin Lu} and {Ninghao Liu}},
+  year = {2026},
+  eprint = {2606.04391v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.04391v1},
+  note = {First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T03:11:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

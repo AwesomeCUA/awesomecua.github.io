@@ -1,3 +1,11 @@
+---
+title: "Clevrr Computer · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clevrr-ai-clevrr-computer/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Clevrr Computer
 
 Clevrr Computer 是基于 PyAutoGUI 的桌面自动化智能体，可捕获截图，并根据 LLM 规划执行鼠标和键盘动作。

@@ -1,3 +1,11 @@
+---
+title: "Is Your LLM Secretly a World Model of the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-06559/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents
 
 Introduces WebDreamer, which simulates candidate web actions with language-model world models and value estimates before acting.
@@ -26,6 +34,18 @@ Yu Gu, Kai Zhang, Yuting Ning, Boyuan Zheng, Boyu Gou, Tianci Xue, Cheng Chang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-06559/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-06559/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_06559,
+  title = {{Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents}},
+  author = {{Yu Gu} and {Kai Zhang} and {Yuting Ning} and {Boyuan Zheng} and {Boyu Gou} and {Tianci Xue} and {Cheng Chang} and {Sanjari Srivastava} and {Yanan Xie} and {Peng Qi} and {Huan Sun} and {Yu Su}},
+  year = {2024},
+  eprint = {2411.06559v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.06559v2},
+  note = {First published: 2024-11-10; Recorded arXiv version: v2; Recorded version updated: 2025-04-01T05:04:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

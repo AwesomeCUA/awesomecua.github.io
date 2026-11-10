@@ -1,3 +1,11 @@
+---
+title: "LaVague · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lavague-ai-lavague/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # LaVague
 
 LaVague 是开源网页智能体框架：World Model 根据目标和当前页面生成指令，Action Engine 将指令编译为 Selenium 或 Playwright 代码并执行。

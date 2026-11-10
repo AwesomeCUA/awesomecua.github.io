@@ -1,3 +1,11 @@
+---
+title: "Ghost Semantic OS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ghost Semantic OS
 
 Ghost Semantic OS provides a text-only semantic accessibility runtime for operating Linux desktop applications in OSWorld without screenshots.

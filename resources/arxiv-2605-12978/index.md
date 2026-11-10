@@ -1,3 +1,11 @@
+---
+title: "Useful Memories Become Faulty When… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-12978/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Useful Memories Become Faulty When Continuously Updated by LLMs
 
 Bibliographic record for Useful Memories Become Faulty When Continuously Updated by LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Dylan Zhang, Yanshan Lin, Zhengkun Wu, Yihang Sun, Bingxuan Li, Dianqi Li, Hao P
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-12978/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-12978/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12978,
+  title = {{Useful Memories Become Faulty When Continuously Updated by LLMs}},
+  author = {{Dylan Zhang} and {Yanshan Lin} and {Zhengkun Wu} and {Yihang Sun} and {Bingxuan Li} and {Dianqi Li} and {Hao Peng}},
+  year = {2026},
+  eprint = {2605.12978v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12978v2},
+  note = {First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-08-29T19:20:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

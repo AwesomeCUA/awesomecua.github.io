@@ -1,3 +1,11 @@
+---
+title: "PastForward: Faster On-Device GUI Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-32166/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PastForward: Faster On-Device GUI Agents via Computational Experience Reuse
 
 PastForward 将先前的输出序列复用为经过验证的解码候选，并根据预测的 GUI 状态转换提前计算后续操作。屏幕检查决定是否保留推测计算结果和缓存的模型状态。
@@ -27,6 +35,18 @@ Taehwan Park, Changmin Lee, Hayeon Lee, Taesik Gong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-32166/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-32166/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32166,
+  title = {{PastForward: Faster On-Device GUI Agents via Computational Experience Reuse}},
+  author = {{Taehwan Park} and {Changmin Lee} and {Hayeon Lee} and {Taesik Gong}},
+  year = {2026},
+  eprint = {2609.32166v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32166v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T02:41:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Open Operator · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openhands-open-operator/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Open Operator
 
 Open Operator 汇集计算机使用智能体资料，包括任务分类、基准概述和现有智能体系统的介绍。

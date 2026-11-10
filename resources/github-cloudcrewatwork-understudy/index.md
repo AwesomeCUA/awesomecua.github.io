@@ -1,3 +1,11 @@
+---
+title: "CloudCrew Understudy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cloudcrewatwork-understudy/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CloudCrew Understudy
 
 Records human UI workflows once and compiles them into parameterized, editable replay scripts for computer-use agents.

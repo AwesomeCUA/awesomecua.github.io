@@ -1,3 +1,11 @@
+---
+title: "GUI-Vid | AwesomeCUA"
+url: https://awesomecua.com/resources/url-579b1c0ceac633eeb328/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GUI-Vid
 
 GUI-Vid is a released video language model retrained on GUI-World for understanding graphical interfaces in video.

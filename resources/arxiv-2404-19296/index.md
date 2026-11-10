@@ -1,3 +1,11 @@
+---
+title: "Octopus v4: Graph of language models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-19296/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Octopus v4: Graph of language models
 
 Status: excluded from the active CUA catalog after scope review.

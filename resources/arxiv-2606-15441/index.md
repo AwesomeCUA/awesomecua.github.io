@@ -1,3 +1,11 @@
+---
+title: "Defending against Adaptive Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15441/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment
 
 Status: excluded from the active CUA catalog after scope review.

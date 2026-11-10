@@ -1,3 +1,11 @@
+---
+title: "Chromanche · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-marcobazzani-chromanche/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chromanche
 
 自托管的 Chrome Manifest V3 扩展和本地 MCP 服务器，让 AI 智能体控制实时浏览器标签页。

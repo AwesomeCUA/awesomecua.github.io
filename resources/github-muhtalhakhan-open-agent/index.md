@@ -1,3 +1,11 @@
+---
+title: "muhtalhakhan OpenAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-muhtalhakhan-open-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # muhtalhakhan OpenAgent
 
 Self-hosted, provider-agnostic AI agent runtime with browser automation, shell execution, and extensible skill plugins.

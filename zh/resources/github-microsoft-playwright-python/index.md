@@ -1,3 +1,11 @@
+---
+title: "Playwright for Python · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-playwright-python/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Playwright for Python
 
 Playwright 的 Python 包，通过统一的 API 驱动 Chromium、Firefox 和 WebKit，提供同步和异步接口，用于页面导航和截图。

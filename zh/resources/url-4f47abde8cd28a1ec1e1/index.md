@@ -1,3 +1,11 @@
+---
+title: "NNetNav Live data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4f47abde8cd28a1ec1e1/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # NNetNav Live data
 
 随 NNetNav 发布的实时网站场景浏览器交互数据，训练文件和测试文件分别提供。

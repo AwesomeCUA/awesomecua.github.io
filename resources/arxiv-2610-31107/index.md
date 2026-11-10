@@ -1,3 +1,11 @@
+---
+title: "Learning What to Ask for Tomorrow: Active… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31107/
+updated: 2026-10-23
+type: paper
+lang: en
+---
+
 # Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents
 
 Bibliographic record for Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yiqi Wang, Zizhi Zeng, Jiaqi Zhang, Yiqun Duan, Mingkai Zheng, Taotao Cai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31107/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31107/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31107,
+  title = {{Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents}},
+  author = {{Yiqi Wang} and {Zizhi Zeng} and {Jiaqi Zhang} and {Yiqun Duan} and {Mingkai Zheng} and {Taotao Cai}},
+  year = {2026},
+  eprint = {2610.31107v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31107v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T11:16:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

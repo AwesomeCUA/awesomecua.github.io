@@ -1,3 +1,11 @@
+---
+title: "EmbeWebAgent: Embedding Web Agents into Any… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-14865/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # EmbeWebAgent: Embedding Web Agents into Any Customized UI
 
 EmbeWebAgent embeds agent access into existing web applications through frontend observations and a page-specific function registry. Its workflow combines GUI primitives, composite actions and MCP tools, demonstrated in a live interface.
@@ -26,6 +34,18 @@ Chenyang Ma, Clyde Fare, Matthew Wilson, Dave Braines
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-14865/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-14865/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_14865,
+  title = {{EmbeWebAgent: Embedding Web Agents into Any Customized UI}},
+  author = {{Chenyang Ma} and {Clyde Fare} and {Matthew Wilson} and {Dave Braines}},
+  year = {2026},
+  eprint = {2602.14865v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.14865v1},
+  note = {First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T15:59:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

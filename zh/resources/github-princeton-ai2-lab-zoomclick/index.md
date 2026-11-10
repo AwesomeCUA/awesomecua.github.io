@@ -1,3 +1,11 @@
+---
+title: "ZoomClick · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-princeton-ai2-lab-zoomclick/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ZoomClick
 
 ZoomClick 实现迭代放大的 GUI 定位，并在高分辨率界面上进行基于行为的定位评测。

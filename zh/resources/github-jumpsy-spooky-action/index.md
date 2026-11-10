@@ -1,3 +1,11 @@
+---
+title: "Spooky Action · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jumpsy-spooky-action/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Spooky Action
 
 无需获取焦点的 macOS 计算机使用工具，可在后台按下原生 Accessibility 按钮，而不移动用户的光标。

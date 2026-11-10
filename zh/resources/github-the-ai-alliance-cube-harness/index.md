@@ -1,3 +1,11 @@
+---
+title: "cube-harness · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-harness/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # cube-harness
 
 cube-harness 在兼容的基准测试中运行智能体评估，包括 MiniWob，并提供交互轨迹、截图和实验查看器。

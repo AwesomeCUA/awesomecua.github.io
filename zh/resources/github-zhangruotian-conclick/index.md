@@ -1,3 +1,11 @@
+---
+title: "ConClick · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhangruotian-conclick/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ConClick
 
 ConClick 是通过坐标监督和目标干扰项排序训练的 GUI 定位模型；ReClick 推理方法会重新检查候选屏幕区域，再确定点击位置。

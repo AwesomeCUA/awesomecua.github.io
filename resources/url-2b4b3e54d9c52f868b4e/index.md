@@ -1,3 +1,11 @@
+---
+title: "AMEX-8K | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2b4b3e54d9c52f868b4e/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # AMEX-8K
 
 An 8K-sample subset of AMEX with mobile app screenshots for GUI grounding pretraining across varied apps, device forms, and screen densities.

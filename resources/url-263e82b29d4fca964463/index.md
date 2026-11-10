@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Science task data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-263e82b29d4fca964463/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # OSWorld-Science task data
 
 Gated Hub release of OSWorld-Science task definitions, staged inputs, grader references and prepared Ubuntu VM images for computer-use agents working in scientific software.

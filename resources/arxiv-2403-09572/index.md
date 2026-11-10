@@ -1,3 +1,11 @@
+---
+title: "Eyes Closed, Safety On: Protecting Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-09572/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation
 
 Bibliographic record for Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-09572/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-09572/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_09572,
+  title = {{Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation}},
+  author = {{Yunhao Gou} and {Kai Chen} and {Zhili Liu} and {Lanqing Hong} and {Hang Xu} and {Zhenguo Li} and {Dit-Yan Yeung} and {James T. Kwok} and {Yu Zhang}},
+  year = {2024},
+  eprint = {2403.09572v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.09572v4},
+  note = {First published: 2024-03-14; Recorded arXiv version: v4; Recorded version updated: 2024-10-15T04:55:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

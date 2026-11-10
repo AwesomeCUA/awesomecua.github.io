@@ -1,3 +1,11 @@
+---
+title: "ACUTE-CODE | AwesomeCUA"
+url: https://awesomecua.com/resources/github-testplay-byte-acute-code/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ACUTE-CODE
 
 Local-first, extension-first multi-agent coding and computer-use workbench.

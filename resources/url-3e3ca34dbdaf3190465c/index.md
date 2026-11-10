@@ -1,3 +1,11 @@
+---
+title: "VG-GUI-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # VG-GUI-Bench
 
 A benchmark for predicting mobile GUI actions from tutorial videos, prior actions, and the current screen. It releases step annotations, videos, and reference frames.

@@ -1,3 +1,11 @@
+---
+title: "SentinelDesk · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sentineldesk-desktop/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # SentinelDesk
 
 向浏览器流式传输的协作式 Linux 桌面，供人和 AI 智能体共享工作区。

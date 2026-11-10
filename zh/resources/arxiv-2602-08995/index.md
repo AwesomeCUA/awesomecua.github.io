@@ -1,3 +1,11 @@
+---
+title: "When Actions Go Off-Task: Detecting and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-08995/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents
 
 MisActBench 提供任务一致性的动作级标签，DeAction 则检查拟执行的计算机使用操作，并通过结构化反馈要求修正。论文分别在 OSWorld 和 RedTeamCUA 中评估离线检测与交互式操作。
@@ -27,6 +35,18 @@ Yuting Ning, Jaylen Jones, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rah
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-08995/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-08995/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_08995,
+  title = {{When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents}},
+  author = {{Yuting Ning} and {Jaylen Jones} and {Zhehao Zhang} and {Chentao Ye} and {Weitong Ruan} and {Junyi Li} and {Rahul Gupta} and {Huan Sun}},
+  year = {2026},
+  eprint = {2602.08995v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.08995v2},
+  note = {First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-06-25T04:36:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

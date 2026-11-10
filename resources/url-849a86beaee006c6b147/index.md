@@ -1,3 +1,11 @@
+---
+title: "OmniAct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-849a86beaee006c6b147/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # OmniAct
 
 Dataset and benchmark for generating computer interaction programs.

@@ -1,3 +1,11 @@
+---
+title: "AI Mime | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prakhar1114-ai-mime/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # AI Mime
 
 macOS app that records a demonstrated task, has an agent compile it into a portable skill of scripts, browser CDP steps and computer-use fallbacks, and patches the skill when a rerun breaks.

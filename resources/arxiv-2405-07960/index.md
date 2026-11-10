@@ -1,3 +1,11 @@
+---
+title: "AgentClinic: a multimodal agent benchmark to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-07960/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments
 
 Bibliographic record for AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Samuel Schmidgall, Rojin Ziaei, Carl Harris, Eduardo Reis, Jeffrey Jopling, Mich
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-07960/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-07960/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_07960,
+  title = {{AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments}},
+  author = {{Samuel Schmidgall} and {Rojin Ziaei} and {Carl Harris} and {Eduardo Reis} and {Jeffrey Jopling} and {Michael Moor}},
+  year = {2024},
+  eprint = {2405.07960v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.07960v5},
+  note = {First published: 2024-05-13; Recorded arXiv version: v5; Recorded version updated: 2025-05-25T02:19:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

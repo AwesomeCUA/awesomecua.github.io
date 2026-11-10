@@ -1,3 +1,11 @@
+---
+title: "WebCoT: Enhancing Web Agent Reasoning by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-20013/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback
 
 WebCoT turns reflection, look-ahead, branching and rollback procedures into chain-of-thought training rationales. Fine-tuning on these reconstructed trajectories is evaluated for web-agent self-improvement and transfer across navigation tasks.
@@ -26,6 +34,18 @@ Minda Hu, Tianqing Fang, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-20013/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-20013/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_20013,
+  title = {{WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback}},
+  author = {{Minda Hu} and {Tianqing Fang} and {Jianshu Zhang} and {Junyu Ma} and {Zhisong Zhang} and {Jingyan Zhou} and {Hongming Zhang} and {Haitao Mi} and {Dong Yu} and {Irwin King}},
+  year = {2025},
+  eprint = {2505.20013v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.20013v2},
+  note = {First published: 2025-05-26; Recorded arXiv version: v2; Recorded version updated: 2025-09-18T11:32:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

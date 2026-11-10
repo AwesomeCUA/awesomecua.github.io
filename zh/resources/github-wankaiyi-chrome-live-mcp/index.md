@@ -1,3 +1,11 @@
+---
+title: "Chrome Live MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wankaiyi-chrome-live-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome Live MCP
 
 将使用本地 stdio 的 Model Context Protocol 智能体直接连接到现有的 Chrome 144+ 浏览器会话。

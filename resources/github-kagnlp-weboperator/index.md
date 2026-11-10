@@ -1,3 +1,11 @@
+---
+title: "WebOperator (github.com/kagnlp/WebOperator) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kagnlp-weboperator/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # WebOperator
 
 A web agent using action-aware tree search to explore tasks and backtrack, checking page reconstruction and accounting for actions that may change website state.

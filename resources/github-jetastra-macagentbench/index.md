@@ -1,3 +1,11 @@
+---
+title: "MacAgentBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jetastra-macagentbench/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # MacAgentBench
 
 676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.

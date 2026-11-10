@@ -1,3 +1,11 @@
+---
+title: "Commonplace WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arterialist-webmcp-openai-hackathon/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Commonplace WebMCP
 
 支持 WebMCP 的阅读和发布工作区，供人类用户与浏览器智能体共同控制。

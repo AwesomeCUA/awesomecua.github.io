@@ -1,3 +1,11 @@
+---
+title: "GeoVista: Web-Augmented Agentic Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-15705/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization
 
 Status: excluded from the active CUA catalog after scope review.

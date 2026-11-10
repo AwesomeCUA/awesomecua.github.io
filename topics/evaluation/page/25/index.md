@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 25 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/25/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 25
 
 HTML page: https://awesomecua.com/topics/evaluation/page/25/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [PixelCheck](https://awesomecua.com/resources/github-xcodethink-pixelcheck/)
 - [PlayCoder](https://awesomecua.com/resources/github-tencent-playcoder/)
 - [PlayJev](https://awesomecua.com/resources/github-omnijev-playjev/)
 - [Playwright Flow Tester MCP](https://awesomecua.com/resources/github-sadiuysal-playwright-flow-tester/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [TraceFact](https://awesomecua.com/resources/github-alex0ai-tracefact/)
 - [UI Debugger MCP](https://awesomecua.com/resources/github-developerz-ai-ui-debugger-mcp/)
 - [UI Defect Mocker](https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/)
+- [VideoCAD training and evaluation code](https://awesomecua.com/resources/github-ghadinehme-videocad/)

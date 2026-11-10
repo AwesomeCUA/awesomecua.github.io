@@ -1,3 +1,11 @@
+---
+title: "spider-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-spider-rs-spider-browser/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # spider-browser
 
 A cloud browser SDK with page control, natural-language actions, element observation and autonomous agent runs, provided in several programming languages.

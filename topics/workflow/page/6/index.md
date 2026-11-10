@@ -1,10 +1,17 @@
+---
+title: "Workflows — computer-use research, page 6 | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/page/6/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows — computer-use research, page 6
 
 HTML page: https://awesomecua.com/topics/workflow/page/6/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
-- [cua-desktop-automation-skills](https://awesomecua.com/resources/github-chrislamdev-cua-desktop-automation-skills/)
 - [Deck](https://awesomecua.com/resources/github-cofy-x-deck/)
 - [DeepDeck](https://awesomecua.com/resources/github-jo32-deepdeck/)
 - [DeepSeek Harness Desktop](https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [iphone-use-flows](https://awesomecua.com/resources/github-leeguooooo-iphone-use-flows/)
 - [ITR Wala AI Agent](https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/)
 - [Ivy Tendril](https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/)
+- [Jev Social](https://awesomecua.com/resources/github-socai-io-jev-social/)

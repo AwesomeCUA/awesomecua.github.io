@@ -1,3 +1,11 @@
+---
+title: "GroundAnything · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-groundingpi-groundanything/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # GroundAnything
 
 GroundAnything 是一个 4B 并行解码扩散定位模型，用于低延迟视觉坐标定位。

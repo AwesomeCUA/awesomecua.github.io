@@ -1,3 +1,11 @@
+---
+title: "MCP-CodexGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mosmotov-mcp-codexgpt/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP-CodexGPT
 
 Cross-platform Model Context Protocol bridge for deterministic ChatGPT Web code and plan reviews from Codex or Claude Code.

@@ -1,3 +1,11 @@
+---
+title: "Voluntary Servitude: Weaponized Safety… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-04393/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents
 
 研究评论中的虚构危险警示如何在没有明确指令的情况下影响智能体选择，包括向浏览器智能体的迁移，并测试要求核实信息的应对方法。
@@ -27,6 +35,18 @@ Ilan Zendel, Matan Levy, Stav Cohen, Avi Mendelson, Amit LeVi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-04393/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-04393/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_04393,
+  title = {{Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents}},
+  author = {{Ilan Zendel} and {Matan Levy} and {Stav Cohen} and {Avi Mendelson} and {Amit LeVi}},
+  year = {2026},
+  eprint = {2611.04393v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.04393v1},
+  note = {First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T06:26:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

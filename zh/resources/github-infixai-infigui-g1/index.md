@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-G1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-infixai-infigui-g1/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # InfiGUI-G1
 
 InfiGUI-G1 是 3B 和 7B 规模的定位模型，使用 Adaptive Exploration Policy Optimization 训练，在自适应探索奖励下每轮采样多个候选答案。

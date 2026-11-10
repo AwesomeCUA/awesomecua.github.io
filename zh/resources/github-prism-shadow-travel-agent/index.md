@@ -1,3 +1,11 @@
+---
+title: "Prism-Shadow Travel Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prism-shadow-travel-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Prism-Shadow Travel Agent
 
 开源旅行规划浏览器智能体，可在实时预订网站上搜索和比较航班与酒店。

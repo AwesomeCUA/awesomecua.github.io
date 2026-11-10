@@ -1,3 +1,11 @@
+---
+title: "Open ZCode Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Open ZCode Computer Use
 
 Clean-room implementation of Z.ai ZCode's dual-mode computer-use MCP server combining pixel-coordinate desktop control and native macOS AX tools.

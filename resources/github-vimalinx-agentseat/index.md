@@ -1,3 +1,11 @@
+---
+title: "AgentSeat | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vimalinx-agentseat/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AgentSeat
 
 Lightweight Wayland scaffold isolating an AI agent to operate a single GUI application inside its own virtual seat.

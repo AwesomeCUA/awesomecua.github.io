@@ -1,3 +1,11 @@
+---
+title: "DeskCtl (Desktop Control Engine) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mini-mind-deskctl/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # DeskCtl (Desktop Control Engine)
 
 面向 GUI 智能体的桌面控制引擎，主要使用 UIA 和 AT-SPI 无障碍树，并在必要时回退到视觉方式。

@@ -1,3 +1,11 @@
+---
+title: "UGround | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-uground/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # UGround
 
 Code, training data and weights for universal visual grounding of GUI elements from screenshots, including Qwen2-VL-based UGround-V1 at 2B, 7B and 72B and offline and online evaluation suites.

@@ -1,3 +1,11 @@
+---
+title: "AI Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xinqi5921-ai-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AI Browser Bridge
 
 Model Context Protocol server and Chrome extension bridging AI assistants to live browser tabs.

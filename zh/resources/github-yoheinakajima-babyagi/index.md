@@ -1,3 +1,11 @@
+---
+title: "BabyAGI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yoheinakajima-babyagi/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # BabyAGI
 
 BabyAGI 是自主任务管理智能体框架，利用 LLM 和向量记忆迭代地创建任务、确定优先级并执行任务。

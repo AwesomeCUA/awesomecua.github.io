@@ -1,3 +1,11 @@
+---
+title: "Minitap mobile-use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-minitap-ai-mobile-use/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Minitap mobile-use
 
 Minitap mobile-use 是多智能体移动端自动化系统，可根据自然语言控制实体及模拟的 Android 和 iOS 设备。

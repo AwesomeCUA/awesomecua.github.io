@@ -1,3 +1,11 @@
+---
+title: "CrossLMM: Decoupling Long Video Sequences… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-17020/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms
 
 Status: excluded from the active CUA catalog after scope review.

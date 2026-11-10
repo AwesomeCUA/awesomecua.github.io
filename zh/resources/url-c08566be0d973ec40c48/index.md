@@ -1,3 +1,11 @@
+---
+title: "UI-I2E-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c08566be0d973ec40c48/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # UI-I2E-Bench
 
 源自 UI-E2I-Synth 的 GUI 元素定位基准，包含 1,477 条针对移动端、桌面和网页截图的显式与隐式指令，每条均配有目标元素边界框和元素类型。

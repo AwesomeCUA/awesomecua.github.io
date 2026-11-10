@@ -1,3 +1,11 @@
+---
+title: "Jev macOS Loop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Jev macOS Loop
 
 Jev macOS Loop combines Apple Silicon local Jev decision models, OmniParser grounding, and native macOS Accessibility actuation.

@@ -1,3 +1,11 @@
+---
+title: "Inside the Agent (SAE Browser Harness) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kalyvask-inside-the-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Inside the Agent (SAE Browser Harness)
 
 Reproducible harness for Sparse Autoencoder (SAE) feature steering and live interpretability monitoring of browser agents.

@@ -1,3 +1,11 @@
+---
+title: "Inner Coordinates | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaochu-1208-inner-coordinates/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Inner Coordinates
 
 Reverse-engineers a clickable coordinate and state map of macOS and iPhone applications once for deterministic workflow replay.

@@ -1,3 +1,11 @@
+---
+title: "GroundUI-18K | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # GroundUI-18K
 
 AgentStudio's full GUI grounding test set: 18,026 instruction and target-box examples on web, desktop and mobile screenshots, pooled from Mind2Web, OmniACT, MoTIF, ScreenSpot and AgentStudio.

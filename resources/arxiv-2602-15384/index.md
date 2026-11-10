@@ -1,3 +1,11 @@
+---
+title: "World-Model-Augmented Web Agents with Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-15384/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # World-Model-Augmented Web Agents with Action Correction
 
 WAC has a web-agent action model consult a world model, simulate action outcomes and use judge feedback to correct actions before execution.
@@ -26,6 +34,18 @@ Zhouzhou Shen, Xueyu Hu, Xiyun Li, Tianqing Fang, Juncheng Li, Shengyu Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-15384/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-15384/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_15384,
+  title = {{World-Model-Augmented Web Agents with Action Correction}},
+  author = {{Zhouzhou Shen} and {Xueyu Hu} and {Xiyun Li} and {Tianqing Fang} and {Juncheng Li} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2602.15384v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.15384v1},
+  note = {First published: 2026-02-17; Recorded arXiv version: v1; Recorded version updated: 2026-02-17T06:37:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

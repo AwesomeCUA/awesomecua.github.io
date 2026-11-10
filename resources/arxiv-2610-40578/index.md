@@ -1,3 +1,11 @@
+---
+title: "VeriCUA: Verification as Agentic Exploration… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-40578/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # VeriCUA: Verification as Agentic Exploration for Computer-Using Agents
 
 Introduces VeriCUA, a cross-platform task verifier that gathers evidence through GUI or code checks to assess computer-use agent completion.
@@ -26,6 +34,18 @@ Qiushi Sun, Da Yu, Alexander Knop, Amer Sinha, Lingpeng Kong, Ben Kao, Ravi Kuma
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-40578/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-40578/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40578,
+  title = {{VeriCUA: Verification as Agentic Exploration for Computer-Using Agents}},
+  author = {{Qiushi Sun} and {Da Yu} and {Alexander Knop} and {Amer Sinha} and {Lingpeng Kong} and {Ben Kao} and {Ravi Kumar} and {Pritish Kamath}},
+  year = {2026},
+  eprint = {2610.40578v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40578v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T17:45:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

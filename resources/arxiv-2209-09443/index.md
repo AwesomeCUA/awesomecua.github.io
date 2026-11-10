@@ -1,3 +1,11 @@
+---
+title: "Cryogenic in-memory computing using magnetic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2209-09443/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Cryogenic in-memory computing using magnetic topological insulators
 
 Status: excluded from the active CUA catalog after scope review.

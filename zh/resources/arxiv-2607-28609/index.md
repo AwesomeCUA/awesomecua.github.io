@@ -1,3 +1,11 @@
+---
+title: "OSReward: Instituting Standardized… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-28609/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models
 
 提出 OSReward 及其更难、覆盖更多维度的变体，用于评估对计算机使用轨迹的判断；还发布带推理标注的判断语料、训练奖励模型，并考察判断的一致性、宽松偏差和评估成本。
@@ -27,6 +35,18 @@ Qiushi Sun, Kanzhi Cheng, Yian Wang, Bowen Yang, Hang Yan, Liheng Chen, Fangzhi 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-28609/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-28609/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28609,
+  title = {{OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models}},
+  author = {{Qiushi Sun} and {Kanzhi Cheng} and {Yian Wang} and {Bowen Yang} and {Hang Yan} and {Liheng Chen} and {Fangzhi Xu} and {Zichen Ding} and {Nuo Chen} and {Jialin Cao} and {Xingdong Gong} and {Zehao Li} and {Kaiming Jin} and {Xinfeng Yuan} and {Zhoumianze Liu} and {Jingyang Gong} and {Zhangyue Yin} and {Jiahui Gao} and {Zhiyong Wu} and {Tianbao Xie} and {Jianbing Zhang} and {Ben Kao} and {Lingpeng Kong}},
+  year = {2026},
+  eprint = {2607.28609v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28609v2},
+  note = {First published: 2026-07-30; Recorded arXiv version: v2; Recorded version updated: 2026-08-06T17:55:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

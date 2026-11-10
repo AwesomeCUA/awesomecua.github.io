@@ -1,3 +1,11 @@
+---
+title: "StateAct: Program State, before Pixels… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-22798/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents
 
 StateAct 是优先使用代码的计算机使用框架，可直接修改程序状态，并将需要看截图和点击的子目标交给 GUI 智能体。独立的完成检查机制核验保存的输出，新启动的子智能体处理子目标以限制上下文累积。
@@ -27,6 +35,18 @@ Yan Yang, Xiangru Jian, Ziyang Luo, Zirui Zhao, Yutong Dai, Ziji Shi, Hanshu Yan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-22798/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-22798/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_22798,
+  title = {{StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents}},
+  author = {{Yan Yang} and {Xiangru Jian} and {Ziyang Luo} and {Zirui Zhao} and {Yutong Dai} and {Ziji Shi} and {Hanshu Yan} and {Jun Hao Liew} and {Silvio Savarese} and {Junnan Li}},
+  year = {2026},
+  eprint = {2607.22798v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.22798v1},
+  note = {First published: 2026-07-24; Recorded arXiv version: v1; Recorded version updated: 2026-07-24T14:17:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

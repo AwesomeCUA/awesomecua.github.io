@@ -1,3 +1,11 @@
+---
+title: "NORTHTEK Ghost | AwesomeCUA"
+url: https://awesomecua.com/resources/github-northtekdevs-ghost/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # NORTHTEK Ghost
 
 Provides verified desktop control for AI agents on Windows and Linux across native GUI applications lacking APIs.

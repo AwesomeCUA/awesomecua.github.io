@@ -1,3 +1,11 @@
+---
+title: "Hippo: Training-Free Agent Self-Evolution via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-24453/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay
 
 Bibliographic record for Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yutong Song, Jiang Wu, Yuxuan Ren, Tony Qin, Baoyuan Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-24453/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-24453/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_24453,
+  title = {{Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay}},
+  author = {{Yutong Song} and {Jiang Wu} and {Yuxuan Ren} and {Tony Qin} and {Baoyuan Wang}},
+  year = {2026},
+  eprint = {2610.24453v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.24453v1},
+  note = {First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T04:43:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

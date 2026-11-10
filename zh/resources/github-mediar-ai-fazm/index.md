@@ -1,3 +1,11 @@
+---
+title: "Fazm · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mediar-ai-fazm/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Fazm
 
 Fazm 是原生 macOS 桌面和浏览器智能体，通过 Accessibility/OCR 观察屏幕状态并自动执行跨应用工作流。

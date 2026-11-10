@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3_5-8B
 
 An 8B multimodal checkpoint in the InternVL3.5 family, whose card describes GUI interaction alongside broader visual reasoning and inference efficiency work.

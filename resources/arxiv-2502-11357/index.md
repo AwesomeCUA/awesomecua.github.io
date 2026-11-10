@@ -1,3 +1,11 @@
+---
+title: "Explorer: Scaling Exploration-driven Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-11357/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents
 
 Synthesizes multimodal web trajectories through exploration and refinement, then trains a browser agent to study the effect of scaling interaction data.
@@ -26,6 +34,18 @@ Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whiteh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-11357/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-11357/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_11357,
+  title = {{Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents}},
+  author = {{Vardaan Pahuja} and {Yadong Lu} and {Corby Rosset} and {Boyu Gou} and {Arindam Mitra} and {Spencer Whitehead} and {Yu Su} and {Ahmed Awadallah}},
+  year = {2025},
+  eprint = {2502.11357v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.11357v4},
+  note = {First published: 2025-02-17; Recorded arXiv version: v4; Recorded version updated: 2025-05-30T02:30:57Z.}
+}
+```
 
 ## Publication record
 

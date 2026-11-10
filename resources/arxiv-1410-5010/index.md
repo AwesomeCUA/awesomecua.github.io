@@ -1,3 +1,11 @@
+---
+title: "Quantifying performance bottlenecks of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1410-5010/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantifying performance bottlenecks of stencil computations using the Execution-Cache-Memory model
 
 Status: excluded from the active CUA catalog after scope review.

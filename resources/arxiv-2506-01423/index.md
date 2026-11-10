@@ -1,3 +1,11 @@
+---
+title: "FinRobot: Generative Business Process AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-01423/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # FinRobot: Generative Business Process AI Agents for Enterprise Resource Planning in Finance
 
 Bibliographic record for FinRobot: Generative Business Process AI Agents for Enterprise Resource Planning in Finance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hongyang Yang, Likun Lin, Yang She, Xinyu Liao, Jiaoyang Wang, Runjia Zhang, Yuq
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-01423/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-01423/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_01423,
+  title = {{FinRobot: Generative Business Process AI Agents for Enterprise Resource Planning in Finance}},
+  author = {{Hongyang Yang} and {Likun Lin} and {Yang She} and {Xinyu Liao} and {Jiaoyang Wang} and {Runjia Zhang} and {Yuquan Mo} and {Christina Dan Wang}},
+  year = {2025},
+  eprint = {2506.01423v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.01423v1},
+  note = {First published: 2025-06-02; Recorded arXiv version: v1; Recorded version updated: 2025-06-02T08:22:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

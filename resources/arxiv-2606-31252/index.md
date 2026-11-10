@@ -1,3 +1,11 @@
+---
+title: "Embodied CAD: Solver-Grounded LLM Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-31252/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling
 
 Bibliographic record for Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fumin Liu, Haoyu Zhou, Fei Hao, Lin Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-31252/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-31252/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_31252,
+  title = {{Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling}},
+  author = {{Fumin Liu} and {Haoyu Zhou} and {Fei Hao} and {Lin Yang}},
+  year = {2026},
+  eprint = {2606.31252v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.31252v1},
+  note = {First published: 2026-06-30; Recorded arXiv version: v1; Recorded version updated: 2026-06-30T07:31:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

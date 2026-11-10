@@ -1,3 +1,11 @@
+---
+title: "Copilot Studio computer use | AwesomeCUA"
+url: https://awesomecua.com/resources/url-80052633107401ebfba7/
+updated: 2026-10-18
+type: product
+lang: en
+---
+
 # Copilot Studio computer use
 
 Copilot Studio agent tool that operates websites and Windows desktop apps on a configured machine through a computer-using model, with stored credentials, site and app allow lists and human supervision.

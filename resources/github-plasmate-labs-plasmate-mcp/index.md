@@ -1,3 +1,11 @@
+---
+title: "plasmate-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-plasmate-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # plasmate-mcp
 
 plasmate-mcp gives MCP clients browser sessions and tools to inspect semantic page structure, click elements and run JavaScript through the Plasmate engine.

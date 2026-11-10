@@ -1,3 +1,11 @@
+---
+title: "Ribband (Agentic WebMCP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-somnora-agentic-webmcp/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Ribband (Agentic WebMCP)
 
 Source-backed personal decision and shopping browser agent built on the WebMCP protocol.

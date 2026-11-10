@@ -1,3 +1,11 @@
+---
+title: "Retroformer: Retrospective Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-02151/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization
 
 Bibliographic record for Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weiran Yao, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Yihao Feng, Le Xue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-02151/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-02151/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_02151,
+  title = {{Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization}},
+  author = {{Weiran Yao} and {Shelby Heinecke} and {Juan Carlos Niebles} and {Zhiwei Liu} and {Yihao Feng} and {Le Xue} and {Rithesh Murthy} and {Zeyuan Chen} and {Jianguo Zhang} and {Devansh Arpit} and {Ran Xu} and {Phil Mui} and {Huan Wang} and {Caiming Xiong} and {Silvio Savarese}},
+  year = {2023},
+  eprint = {2308.02151v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.02151v3},
+  note = {First published: 2023-08-04; Recorded arXiv version: v3; Recorded version updated: 2024-05-05T05:04:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

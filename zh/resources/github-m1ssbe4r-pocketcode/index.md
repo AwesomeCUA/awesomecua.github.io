@@ -1,3 +1,11 @@
+---
+title: "PocketCode · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-m1ssbe4r-pocketcode/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # PocketCode
 
 在设备端运行的 Android AI 编码和自动化智能体，能够直接在手机上构建和运行应用。

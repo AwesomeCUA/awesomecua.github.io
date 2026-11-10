@@ -1,3 +1,11 @@
+---
+title: "PhysAgent: Reflective Agentic Physics Control… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-16355/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation
 
 Bibliographic record for PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qirui Li, Jinkun Hao, Yibo Li, Ran Yi, Paul L. Rosin, Yu-Kun Lai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-16355/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-16355/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_16355,
+  title = {{PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation}},
+  author = {{Qirui Li} and {Jinkun Hao} and {Yibo Li} and {Ran Yi} and {Paul L. Rosin} and {Yu-Kun Lai}},
+  year = {2026},
+  eprint = {2607.16355v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.16355v1},
+  note = {First published: 2026-07-17; Recorded arXiv version: v1; Recorded version updated: 2026-07-17T08:55:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

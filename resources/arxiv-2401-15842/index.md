@@ -1,3 +1,11 @@
+---
+title: "LCV2: An Efficient Pretraining-Free Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-15842/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LCV2: An Efficient Pretraining-Free Framework for Grounded Visual Question Answering
 
 Bibliographic record for LCV2: An Efficient Pretraining-Free Framework for Grounded Visual Question Answering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuhan Chen, Lumei Su, Lihua Chen, Zhiwei Lin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-15842/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-15842/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_15842,
+  title = {{LCV2: An Efficient Pretraining-Free Framework for Grounded Visual Question Answering}},
+  author = {{Yuhan Chen} and {Lumei Su} and {Lihua Chen} and {Zhiwei Lin}},
+  year = {2024},
+  eprint = {2401.15842v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.15842v2},
+  note = {First published: 2024-01-29; Recorded arXiv version: v2; Recorded version updated: 2024-03-23T02:46:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

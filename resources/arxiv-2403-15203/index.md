@@ -1,3 +1,11 @@
+---
+title: "DITTO: Demonstration Imitation by Trajectory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-15203/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DITTO: Demonstration Imitation by Trajectory Transformation
 
 Status: excluded from the active CUA catalog after scope review.

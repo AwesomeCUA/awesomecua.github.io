@@ -1,3 +1,11 @@
+---
+title: "Pilos Agents · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pilos-ai-agents/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Pilos Agents
 
 Pilos Agents 是桌面应用，用于协调多智能体 Claude Code 团队、可视化工作流和 MCP 服务器集成。

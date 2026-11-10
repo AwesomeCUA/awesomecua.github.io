@@ -1,3 +1,11 @@
+---
+title: "Hcompany/Holo4-35B-A3B-GGUF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d96a6dcdd2aa622c523b/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Hcompany/Holo4-35B-A3B-GGUF
 
 A GGUF vision-language model for computer use that processes screenshots and tool results, then requests clicks, typing, code execution, and tool calls through an agent harness.

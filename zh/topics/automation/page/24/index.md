@@ -1,14 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 24 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/24/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 24 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/24/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Sidelook](https://awesomecua.com/zh/resources/github-ucsandman-sidelook/)
-- [Sidemates](https://awesomecua.com/zh/resources/github-prisacariurobert-sidemates/)
-- [SIH26 Privacy-Preserving Browser Agent](https://awesomecua.com/zh/resources/github-dalwadi-aryan-pranavkumar-sih-26/)
-- [Sikuli legacy research implementation](https://awesomecua.com/zh/resources/github-sikuli-sikuli/)
-- [SikuliX1](https://awesomecua.com/zh/resources/github-raiman-sikulix1/)
 - [SilbercueSwift](https://awesomecua.com/zh/resources/github-silbercue-silbercueswift/)
 - [simpilot](https://awesomecua.com/zh/resources/github-passerby2049-simpilot/)
 - [siropkin chrome-bridge](https://awesomecua.com/zh/resources/github-siropkin-chrome-bridge/)
@@ -64,3 +67,8 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/24/
 - [Taylor-Bayouth Browser Agent](https://awesomecua.com/zh/resources/github-taylor-bayouth-browser-agent/)
 - [TeachReplay](https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay/)
 - [TeachReplay — OpenMausBot Integration](https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay-openmausbot/)
+- [Tencent BrowserSkill](https://awesomecua.com/zh/resources/github-tencent-browserskill/)
+- [TENKA](https://awesomecua.com/zh/resources/github-om-khode-tenka/)
+- [Terminal Computer Use](https://awesomecua.com/zh/resources/github-vivekkartha-terminal-computer-use/)
+- [terminal-use-mcp](https://awesomecua.com/zh/resources/github-hlh2023-terminal-use-mcp/)
+- [Terminator](https://awesomecua.com/zh/resources/github-mediar-ai-terminator/)

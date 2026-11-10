@@ -1,3 +1,11 @@
+---
+title: "WebRouter: Query-specific Router via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-11221/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebRouter: Query-specific Router via Variational Information Bottleneck for Cost-sensitive Web Agent
 
 Introduces WebRouter, a cost-aware router that compresses web-agent prompts to choose among LLMs, with cost and accuracy measured on WebVoyager websites.
@@ -26,6 +34,18 @@ Tao Li, Jinlong Hu, Yang Wang, Junfeng Liu, Xuejun Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-11221/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-11221/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_11221,
+  title = {{WebRouter: Query-specific Router via Variational Information Bottleneck for Cost-sensitive Web Agent}},
+  author = {{Tao Li} and {Jinlong Hu} and {Yang Wang} and {Junfeng Liu} and {Xuejun Liu}},
+  year = {2025},
+  eprint = {2510.11221v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.11221v1},
+  note = {First published: 2025-10-13; Recorded arXiv version: v1; Recorded version updated: 2025-10-13T10:05:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

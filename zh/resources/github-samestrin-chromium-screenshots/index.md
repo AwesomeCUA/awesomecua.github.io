@@ -1,3 +1,11 @@
+---
+title: "chromium-screenshots · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-samestrin-chromium-screenshots/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # chromium-screenshots
 
 基于 Playwright 的 MCP 服务器和 API，为视觉智能体采集无漂移的 Chromium 截图，并配对经过身份验证的 DOM 状态。

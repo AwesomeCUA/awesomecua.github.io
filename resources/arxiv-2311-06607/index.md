@@ -1,3 +1,11 @@
+---
+title: "Monkey: Image Resolution and Text Label Are… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-06607/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models
 
 Bibliographic record for Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhang Li, Biao Yang, Qiang Liu, Zhiyin Ma, Shuo Zhang, Jingxu Yang, Yabo Sun, Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-06607/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-06607/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_06607,
+  title = {{Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models}},
+  author = {{Zhang Li} and {Biao Yang} and {Qiang Liu} and {Zhiyin Ma} and {Shuo Zhang} and {Jingxu Yang} and {Yabo Sun} and {Yuliang Liu} and {Xiang Bai}},
+  year = {2023},
+  eprint = {2311.06607v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.06607v4},
+  note = {First published: 2023-11-11; Recorded arXiv version: v4; Recorded version updated: 2024-08-26T06:57:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

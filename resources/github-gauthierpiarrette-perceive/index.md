@@ -1,3 +1,11 @@
+---
+title: "perceive | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gauthierpiarrette-perceive/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # perceive
 
 perceive is a reachability-filtered perception layer for browser agents that prunes non-interactive or occluded DOM elements.

@@ -1,3 +1,11 @@
+---
+title: "Don't Make Models Guess Security and Safety… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-15579/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents
 
 Status: excluded from the active CUA catalog after scope review.

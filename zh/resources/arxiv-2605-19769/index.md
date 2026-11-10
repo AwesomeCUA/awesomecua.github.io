@@ -1,3 +1,11 @@
+---
+title: "OpenComputer: Verifiable Software Worlds… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-19769/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OpenComputer: Verifiable Software Worlds for Computer-Use Agents
 
 OpenComputer 围绕应用状态验证器构建桌面任务，并利用执行反馈改进验证器。其评估框架记录轨迹，并对专业软件工作流程给出可审计的部分得分。
@@ -27,6 +35,18 @@ Jinbiao Wei, Qianran Ma, Yilun Zhao, Xiao Zhou, Kangqi Ni, Guo Gan, Arman Cohan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-19769/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-19769/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_19769,
+  title = {{OpenComputer: Verifiable Software Worlds for Computer-Use Agents}},
+  author = {{Jinbiao Wei} and {Qianran Ma} and {Yilun Zhao} and {Xiao Zhou} and {Kangqi Ni} and {Guo Gan} and {Arman Cohan}},
+  year = {2026},
+  eprint = {2605.19769v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.19769v1},
+  note = {First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T12:40:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Browser Use Pi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-browser-use-pi/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Browser Use Pi
 
 Browser Use Pi is a TypeScript SDK for a browser agent that writes JavaScript to control Chrome through CDP and reads accessibility trees and screenshots for feedback.

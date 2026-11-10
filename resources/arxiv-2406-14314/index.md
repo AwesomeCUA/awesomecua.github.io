@@ -1,3 +1,11 @@
+---
+title: "Identifying User Goals from UI Trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-14314/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Identifying User Goals from UI Trajectories
 
 Defines goal identification from observed UI trajectories and an evaluation method for comparing intent descriptions within the same interface context. Experiments reuse Android and web automation data to compare human and model inference of users’ detailed goals.
@@ -26,6 +34,18 @@ Omri Berkovitch, Sapir Caduri, Noam Kahlon, Anatoly Efros, Avi Caciularu, Ido Da
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-14314/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-14314/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_14314,
+  title = {{Identifying User Goals from UI Trajectories}},
+  author = {{Omri Berkovitch} and {Sapir Caduri} and {Noam Kahlon} and {Anatoly Efros} and {Avi Caciularu} and {Ido Dagan}},
+  year = {2024},
+  eprint = {2406.14314v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.14314v3},
+  note = {First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2025-03-03T15:47:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

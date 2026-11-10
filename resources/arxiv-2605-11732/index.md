@@ -1,3 +1,11 @@
+---
+title: "AgentDisCo: Towards Disentanglement and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-11732/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents
 
 Bibliographic record for AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jiarui Jin, Zexuan Yan, Shijian Wang, Wenxiang Jiao, Yuan Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-11732/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-11732/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_11732,
+  title = {{AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents}},
+  author = {{Jiarui Jin} and {Zexuan Yan} and {Shijian Wang} and {Wenxiang Jiao} and {Yuan Lu}},
+  year = {2026},
+  eprint = {2605.11732v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.11732v2},
+  note = {First published: 2026-05-12; Recorded arXiv version: v2; Recorded version updated: 2026-06-04T05:47:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

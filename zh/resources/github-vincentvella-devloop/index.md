@@ -1,3 +1,11 @@
+---
+title: "devloop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vincentvella-devloop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # devloop
 
 Model Context Protocol 服务器，在统一时间线上关联无头浏览器自动化动作和开发服务器日志。

@@ -1,3 +1,11 @@
+---
+title: "InquireMobile: Teaching VLM-based Mobile… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-19679/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning
 
 InquireMobile 通过分阶段强化微调和操作前推理，训练移动智能体在关键决策时征求人类确认。InquireBench 评估安全交互和主动询问，并区分求助与完成原任务。
@@ -27,6 +35,18 @@ Qihang Ai, Pi Bu, Yue Cao, Yingyao Wang, Jihao Gu, Jingxuan Xing, Zekun Zhu, Wei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-19679/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-19679/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_19679,
+  title = {{InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning}},
+  author = {{Qihang Ai} and {Pi Bu} and {Yue Cao} and {Yingyao Wang} and {Jihao Gu} and {Jingxuan Xing} and {Zekun Zhu} and {Wei Jiang} and {Zhicheng Zheng} and {Jun Song} and {Yuning Jiang}},
+  year = {2025},
+  eprint = {2508.19679v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.19679v2},
+  note = {First published: 2025-08-27; Recorded arXiv version: v2; Recorded version updated: 2026-04-25T13:29:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

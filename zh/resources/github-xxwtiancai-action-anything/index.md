@@ -1,3 +1,11 @@
+---
+title: "ActionAnything · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xxwtiancai-action-anything/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ActionAnything
 
 与模型无关的运行时，用于评测、批准、记录和重放 AI 智能体在桌面及网页界面中的动作。

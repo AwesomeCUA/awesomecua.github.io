@@ -1,3 +1,11 @@
+---
+title: "What matters when building vision-language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-02246/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # What matters when building vision-language models?
 
 Bibliographic record for What matters when building vision-language models?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hugo Laurençon, Léo Tronchon, Matthieu Cord, Victor Sanh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-02246/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-02246/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_02246,
+  title = {{What matters when building vision-language models?}},
+  author = {{Hugo Laurençon} and {Léo Tronchon} and {Matthieu Cord} and {Victor Sanh}},
+  year = {2024},
+  eprint = {2405.02246v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.02246v1},
+  note = {First published: 2024-05-03; Recorded arXiv version: v1; Recorded version updated: 2024-05-03T17:00:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

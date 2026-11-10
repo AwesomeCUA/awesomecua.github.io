@@ -1,3 +1,11 @@
+---
+title: "annotate-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-elainemhr-annotate-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # annotate-mcp
 
 Model Context Protocol 服务器，可在实时网页中注入绘图和评论叠加层，让编程智能体读取视觉标记。

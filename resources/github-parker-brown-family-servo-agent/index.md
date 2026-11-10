@@ -1,3 +1,11 @@
+---
+title: "servo-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-parker-brown-family-servo-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # servo-agent
 
 Agent-controllable web browser built on the Rust Servo engine that distills live rendered DOM layouts into compact agent observations.

@@ -1,3 +1,11 @@
+---
+title: "SWEeper-Bench (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9d35341e71dfd457fd79/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # SWEeper-Bench
 
 SWEeper-Bench provides tasks drawn from web application bugs for evaluating agents that inspect running apps and repair them. Each task includes a prompt, repository revisions, and browser behavior tests.

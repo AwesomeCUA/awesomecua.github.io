@@ -1,3 +1,11 @@
+---
+title: "GUI Object Detection Benchmark & Models · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chenjshnn-object-detection-for-graphical-user-interface/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GUI Object Detection Benchmark & Models
 
 提供训练和评测代码，对比传统及深度学习 GUI 元素检测器，并涵盖混合模型 UIED。

@@ -1,3 +1,11 @@
+---
+title: "agent-vision-toolkit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anionex-agent-vision-toolkit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-vision-toolkit
 
 视觉工具包和技能包，使纯文本 LLM 具备多图像读取、UI 重建和 GUI 自动化能力。

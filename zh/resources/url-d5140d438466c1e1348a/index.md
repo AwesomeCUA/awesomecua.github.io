@@ -1,3 +1,11 @@
+---
+title: "CUAVerifierBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d5140d438466c1e1348a/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # CUAVerifierBench
 
 人工标注的浏览器智能体轨迹，用于将自动化任务成功与过程质量验证器的判断同评审人员的判断进行比较。

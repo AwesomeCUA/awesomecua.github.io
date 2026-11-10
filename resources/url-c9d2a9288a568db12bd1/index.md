@@ -1,3 +1,11 @@
+---
+title: "Llama8b-NNetNav-WA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c9d2a9288a568db12bd1/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Llama8b-NNetNav-WA
 
 A Llama checkpoint trained on demonstrations gathered through WebArena exploration. It takes a task instruction and selects browser actions to navigate webpages.

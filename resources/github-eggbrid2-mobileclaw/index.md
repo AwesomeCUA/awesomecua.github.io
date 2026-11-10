@@ -1,3 +1,11 @@
+---
+title: "MobileClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eggbrid2-mobileclaw/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MobileClaw
 
 MobileClaw is an open Android AI agent runtime for phone control, VLM screen reading, and reusable mobile skill execution.

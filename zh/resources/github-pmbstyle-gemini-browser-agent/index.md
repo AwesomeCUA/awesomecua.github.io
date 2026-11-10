@@ -1,3 +1,11 @@
+---
+title: "Gemini Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pmbstyle-gemini-browser-agent/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Gemini Browser Agent
 
 Chrome 扩展和 Python WebSocket 桥接器，在用户当前标签页运行 Gemini 2.5 Computer Use，将标签页截图发给模型，并通过内容脚本执行点击、输入和滚动。

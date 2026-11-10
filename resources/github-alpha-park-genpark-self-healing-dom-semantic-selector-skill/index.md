@@ -1,3 +1,11 @@
+---
+title: "GenPark Self-Healing DOM Selector Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpha-park-genpark-self-healing-dom-semantic-selector-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GenPark Self-Healing DOM Selector Skill
 
 Agent skill providing self-healing semantic DOM selectors resilient to CSS class and layout mutations.

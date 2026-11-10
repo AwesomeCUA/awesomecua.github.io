@@ -1,3 +1,11 @@
+---
+title: "Magma · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-magma/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Magma
 
 微软的多模态智能体基础模型，在 UI、机器人和视频数据上以 Set-of-Mark 和 Trace-of-Mark 目标预训练，可微调用于网页和移动端 UI 导航。

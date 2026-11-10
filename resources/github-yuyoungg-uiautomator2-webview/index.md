@@ -1,3 +1,11 @@
+---
+title: "u2_webview | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuyoungg-uiautomator2-webview/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # u2_webview
 
 A uiautomator2 extension that attaches to WebView pages in Android hybrid apps over CDP through DrissionPage, so one Python script can drive both the native UI and the H5 layer.

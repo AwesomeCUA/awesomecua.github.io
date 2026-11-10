@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-x-plug-mobileagent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Mobile-Agent
 
 通过视觉界面交互操作移动设备的智能体系列。

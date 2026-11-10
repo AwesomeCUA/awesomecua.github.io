@@ -1,10 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 11 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/11/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 11 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/11/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [DeepSeek Harness Mac Control](https://awesomecua.com/zh/resources/github-18126295767-cell-dsh-mac-control/)
 - [DeepSeek Harness Volcengine OS Agent Plugin](https://awesomecua.com/zh/resources/github-chenjie1129-deepseek-harness-os-agent-plugin/)
 - [deepseek-web-search-plugin](https://awesomecua.com/zh/resources/github-wojiuluguo-deepseek-web-search-plugin/)
 - [DEIMOS (Environment-Aware Computer Agent)](https://awesomecua.com/zh/resources/github-sakshamjuneja007-freaky-monkey/)
@@ -51,7 +58,6 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/11/
 - [DSH × Termux — mobile operations kit](https://awesomecua.com/zh/resources/github-maopk-dsh-termux-kit/)
 - [dsh-antibrow](https://awesomecua.com/zh/resources/github-antibrow-dsh-antibrow/)
 - [dsh-browser-firefox](https://awesomecua.com/zh/resources/github-tuojc-dsh-browser-firefox/)
-- [dsh-browser-full-access](https://awesomecua.com/zh/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/zh/resources/github-lirui1024k-dsh-browser-ops/)
 - [dsh-browser-playwright](https://awesomecua.com/zh/resources/github-chenyuheee-dsh-browser-playwright/)
 - [dsh-browser-plus](https://awesomecua.com/zh/resources/github-particlelight-dsh-browser-plus/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/11/
 - [dsh-computer-use](https://awesomecua.com/zh/resources/github-xiaoheizi1212-dsh-computer-use/)
 - [dsh-cua](https://awesomecua.com/zh/resources/github-hutusion-dsh-cua/)
 - [dsh-desktop-automation](https://awesomecua.com/zh/resources/github-junkrat9527-dsh-desktop-automation/)
+- [dsh-jiey-browser](https://awesomecua.com/zh/resources/github-jiewaigongxing-dsh-jiey-browser/)
+- [dsh-live-loop](https://awesomecua.com/zh/resources/github-powerrrrrrrr-dsh-live-loop/)

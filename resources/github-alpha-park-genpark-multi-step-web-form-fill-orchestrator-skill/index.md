@@ -1,3 +1,11 @@
+---
+title: "GenPark Multi-Step Web Form Orchestrator Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpha-park-genpark-multi-step-web-form-fill-orchestrator-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GenPark Multi-Step Web Form Orchestrator Skill
 
 Agent skill for orchestrating and validating multi-step web form filling in Playwright.

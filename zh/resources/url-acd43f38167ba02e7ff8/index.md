@@ -1,3 +1,11 @@
+---
+title: "Holo4 27B BF16 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-acd43f38167ba02e7ff8/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo4 27B BF16
 
 H Company 基于 Qwen3.8-27B 构建的 27B 稠密计算机使用检查点；外部执行框架向其发送截图和工具结果，并执行其请求的点击、输入、代码及工具调用。

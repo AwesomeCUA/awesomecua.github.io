@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体工具（第 9 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/page/9/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具：第 9 页
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/page/9/ · [English](https://awesomecua.com/categories/tool/page/9/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
-- [Hermes login-bridge Plugin](https://awesomecua.com/zh/resources/github-kfastov-hermes-plugin-login-bridge/)：Hermes Agent 插件，可暂时将智能体的浏览器会话交给人类操作员完成登录。
 - [hermes-hyprland-plugin](https://awesomecua.com/zh/resources/github-xcaptain09-hermes-hyprland-plugin/)：C++ Hyprland Wayland 合成器插件与 Python D-Bus AT-SPI 坐标融合桥接工具，供无需抢占鼠标的 Linux GUI 智能体使用。
 - [Hermod](https://awesomecua.com/zh/resources/github-klaiderman-hermod/)：基于 NestJS 的浏览器自动化服务，通过驱动无头 Chromium 中的网页 LLM 界面来回答提示。
 - [hfyydd dsh-cua](https://awesomecua.com/zh/resources/github-hfyydd-dsh-cua/)：DeepSeek Harness 计算机使用插件，由 cua-driver 守护进程提供支持，以无障碍能力为先实现桌面自动化。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/9/ · [English](htt
 - [mimic (Kernel-Level uinput Driver)](https://awesomecua.com/zh/resources/github-juicerq-mimic/)：通过 Linux 内核级 `/dev/uinput` 和类人的输入轨迹，控制鼠标、键盘及屏幕。
 - [MindsEye (dsh-mindseye)](https://awesomecua.com/zh/resources/github-kanchengw-dsh-mindseye/)：面向 DeepSeek Harness 上纯文本模型的视觉插件，支持交互式检查图像和 UI 截图。
 - [mistudio0902-lab Chrome Bridge](https://awesomecua.com/zh/resources/github-mistudio0902-lab-chrome-bridge/)：Model Context Protocol 桥接器，让 Claude Code 和 Codex 同时操作多个已登录的 Chrome 配置文件。
+- [MobileMCP](https://awesomecua.com/zh/resources/github-magi-labs-mobilemcp/)：MobileMCP 通过设备端 AccessibilityService 应用，让 AI 智能体经由 WebSocket 控制实体 Android 手机，无需 ADB 或 root 权限。

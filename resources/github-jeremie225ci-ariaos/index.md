@@ -1,3 +1,11 @@
+---
+title: "AriaOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeremie225ci-ariaos/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # AriaOS
 
 AriaOS provisions a dedicated virtual machine desktop where computer-use agents operate GUI apps, terminals, and voice interactions.

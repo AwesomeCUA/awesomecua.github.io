@@ -1,3 +1,11 @@
+---
+title: "MAI-UI inference and evaluation code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tongyi-mai-mai-ui/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # MAI-UI inference and evaluation code
 
 Published MAI-UI grounding and navigation-agent implementations with inference demos and evaluation scripts.

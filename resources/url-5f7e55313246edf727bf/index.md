@@ -1,3 +1,11 @@
+---
+title: "GUI-Odyssey — original OpenGVLab release | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5f7e55313246edf727bf/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-Odyssey — original OpenGVLab release
 
 Original Hub upload of GUI Odyssey: 7,735 cross-app Android navigation episodes from six emulated devices with per-step screenshots, actions and four split files, which the card says is superseded.

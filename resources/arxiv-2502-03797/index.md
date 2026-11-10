@@ -1,3 +1,11 @@
+---
+title: "Superior probabilistic computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-03797/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Superior probabilistic computing using operationally stable probabilistic-bit constructed by manganite nanowire
 
 Status: excluded from the active CUA catalog after scope review.

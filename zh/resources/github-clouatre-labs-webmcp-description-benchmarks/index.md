@@ -1,3 +1,11 @@
+---
+title: "WebMCP Description Benchmarks · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clouatre-labs-webmcp-description-benchmarks/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # WebMCP Description Benchmarks
 
 WebMCP Description Benchmarks 评测浏览器内 WebMCP 工具的模式描述如何影响智能体选择工具和执行任务的准确率。

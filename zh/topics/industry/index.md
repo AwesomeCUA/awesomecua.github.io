@@ -1,3 +1,11 @@
+---
+title: "产业：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/industry/
+updated: 2026-11-09
+type: topic
+lang: zh-CN
+---
+
 # 产业
 
 Reviewed topic membership; resources can appear in multiple topics.

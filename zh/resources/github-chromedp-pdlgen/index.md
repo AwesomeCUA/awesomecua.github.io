@@ -1,3 +1,11 @@
+---
+title: "pdlgen · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chromedp-pdlgen/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # pdlgen
 
 Go 代码生成工具，将 Chrome DevTools Protocol 定义转换为带类型的浏览器控制接口，供 chromedp 等 Go 程序使用。

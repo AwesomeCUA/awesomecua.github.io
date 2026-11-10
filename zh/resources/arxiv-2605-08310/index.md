@@ -1,3 +1,11 @@
+---
+title: "WebTrap: Stealthy Mid-Task Hijacking of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-08310/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WebTrap: Stealthy Mid-Task Hijacking of Browser Agents During Navigation
 
 WebTrap 在浏览器智能体导航过程中注入指令，诱导其先执行攻击者目标，再继续用户原有任务。
@@ -27,6 +35,18 @@ Zhichao Liu, Wenbo Pan, Haining Yu, Ge Gao, Tianqing Zhu, Xiaohua Jia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-08310/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-08310/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_08310,
+  title = {{WebTrap: Stealthy Mid-Task Hijacking of Browser Agents During Navigation}},
+  author = {{Zhichao Liu} and {Wenbo Pan} and {Haining Yu} and {Ge Gao} and {Tianqing Zhu} and {Xiaohua Jia}},
+  year = {2026},
+  eprint = {2605.08310v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.08310v1},
+  note = {First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T14:06:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

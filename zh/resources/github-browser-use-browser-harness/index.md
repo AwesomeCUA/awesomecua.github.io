@@ -1,3 +1,11 @@
+---
+title: "Browser Harness · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-browser-harness/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Harness
 
 Browser Use 的 Browser Harness 让 Claude Code、Codex 和 Cursor 能够通过 CDP 操控用户真实且已登录的 Chrome 浏览器。

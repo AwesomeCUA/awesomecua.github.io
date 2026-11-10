@@ -1,3 +1,11 @@
+---
+title: "AndroTMem inference and evaluation code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cvc2233-androtmem/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # AndroTMem inference and evaluation code
 
 公开的 Android GUI 评估框架，提供操作历史、摘要和锚定记忆提示模式，以及分步操作评分和考虑依赖关系的任务评分。

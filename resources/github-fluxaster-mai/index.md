@@ -1,3 +1,11 @@
+---
+title: "MAI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fluxaster-mai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MAI
 
 MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier loop for game and application GUI automation.

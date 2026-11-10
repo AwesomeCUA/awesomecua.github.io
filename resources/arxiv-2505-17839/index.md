@@ -1,3 +1,11 @@
+---
+title: "Automated Testing of the GUI of a Real-Life… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-17839/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models
 
 GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.
@@ -26,6 +34,18 @@ Tim Rosenbach, David Heidrich, Alexander Weinert
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-17839/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-17839/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_17839,
+  title = {{Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models}},
+  author = {{Tim Rosenbach} and {David Heidrich} and {Alexander Weinert}},
+  year = {2025},
+  eprint = {2505.17839v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.17839v1},
+  note = {First published: 2025-05-23; Recorded arXiv version: v1; Recorded version updated: 2025-05-23T12:53:28Z.}
+}
+```
 
 ## Publication record
 

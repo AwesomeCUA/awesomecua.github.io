@@ -1,3 +1,11 @@
+---
+title: "gnome-wayland-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ryanraposo-gnome-wayland-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gnome-wayland-computer-use
 
 Computer-use bridge for driving Linux GNOME Wayland desktop sessions.

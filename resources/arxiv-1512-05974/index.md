@@ -1,3 +1,11 @@
+---
+title: "Improved Balanced Flow Computation Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1512-05974/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Improved Balanced Flow Computation Using Parametric Flow
 
 Status: excluded from the active CUA catalog after scope review.

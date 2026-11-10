@@ -1,3 +1,11 @@
+---
+title: "AUV | AwesomeCUA"
+url: https://awesomecua.com/resources/github-moeru-ai-auv/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # AUV
 
 Rust toolkit, CLI and MCP server for scripting reusable GUI operations on macOS, Linux and Windows, with native input drivers, accessibility trees, OCR and traced, verifiable action results.

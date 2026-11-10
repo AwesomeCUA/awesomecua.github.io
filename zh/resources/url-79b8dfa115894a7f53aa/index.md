@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround_windows · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-79b8dfa115894a7f53aa/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # WinDeskGround_windows
 
 WinDeskGround_windows 提供 Windows 应用截图，并标注可点击目标、边界框和指代表达，用于桌面图形界面定位任务。

@@ -1,3 +1,11 @@
+---
+title: "WebPRM checklist-generation data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fcc98b149272bbf31b05/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # WebPRM checklist-generation data
 
 Web-task context, starting observations and action history paired with structured checklists and subgoal analyses for checklist generation.

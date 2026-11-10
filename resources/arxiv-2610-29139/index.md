@@ -1,3 +1,11 @@
+---
+title: "Steering Black-Box Large Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-29139/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model
 
 PAWM predicts likely multi-step pitfalls and selectively guides black-box agents; its evaluations include a web-agent benchmark.
@@ -26,6 +34,18 @@ Jiongxiao Wang, Han Ding, Youzhi Luo, Yawei Wang, Yun Zhou, Linbo Liu, Panpan Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-29139/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-29139/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_29139,
+  title = {{Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model}},
+  author = {{Jiongxiao Wang} and {Han Ding} and {Youzhi Luo} and {Yawei Wang} and {Yun Zhou} and {Linbo Liu} and {Panpan Xu}},
+  year = {2026},
+  eprint = {2610.29139v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.29139v1},
+  note = {First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T03:20:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

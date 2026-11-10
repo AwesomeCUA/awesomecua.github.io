@@ -1,3 +1,11 @@
+---
+title: "Agentic Retoucher for Text-To-Image Generation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-02046/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agentic Retoucher for Text-To-Image Generation
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "GUI-Net-Mini | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0627940da1b988739f75/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-Net-Mini
 
 TongUI training mixture: about 143K samples from WikiHow, Baidu Experience and GUI videos plus reprocessed AITW, AMEX, GUIAct, Mind2Web, MiniWoB and ShowUI data, as grounding and navigation JSON with screenshots.

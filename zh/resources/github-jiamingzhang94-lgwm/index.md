@@ -1,3 +1,11 @@
+---
+title: "LGWM (Latent GUI World Model) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jiamingzhang94-lgwm/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LGWM (Latent GUI World Model)
 
 LGWM 是以动作为条件的潜在 GUI 世界模型，可预测下一状态表示，以验证 GUI 智能体的状态转换。

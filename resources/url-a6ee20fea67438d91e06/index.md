@@ -1,3 +1,11 @@
+---
+title: "WebRL Llama 3.1 8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a6ee20fea67438d91e06/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # WebRL Llama 3.1 8B
 
 A WebRL browser-policy checkpoint for performing actions in the five website environments of WebArena.

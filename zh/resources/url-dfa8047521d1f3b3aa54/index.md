@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B-Reddit · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dfa8047521d1f3b3aa54/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Dreamer-7B-Reddit
 
 Dreamer-7B-Reddit 是 WebDreamer 的 Reddit 领域模型权重，可预测拟执行操作后的屏幕状态，辅助网页智能体规划。

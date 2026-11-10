@@ -1,3 +1,11 @@
+---
+title: "CraftDriver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dtopuzov-craftdriver/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # CraftDriver
 
 CraftDriver automates browsers through WebDriver and BiDi, with locators, actions, assertions, traces, and a CLI that lets coding agents inspect live pages.

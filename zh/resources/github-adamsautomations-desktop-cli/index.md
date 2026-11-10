@@ -1,3 +1,11 @@
+---
+title: "desktop-cli · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-adamsautomations-desktop-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # desktop-cli
 
 轻量级计算机使用 CLI，编程智能体可直接通过 shell 命令调用，无需承担 MCP schema 开销。

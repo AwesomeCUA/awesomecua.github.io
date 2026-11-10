@@ -1,3 +1,11 @@
+---
+title: "undetected-chromedriver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ultrafunkamsterdam-undetected-chromedriver/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # undetected-chromedriver
 
 undetected-chromedriver 是具有反机器人检测能力的 Selenium ChromeDriver 补丁，被网页智能体广泛用于绕过自动化指纹识别。

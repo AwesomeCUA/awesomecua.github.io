@@ -1,3 +1,11 @@
+---
+title: "Robustness — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/robustness/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Robustness
 
 Reviewed topic membership; resources can appear in multiple topics.

@@ -1,3 +1,11 @@
+---
+title: "TimeChat: A Time-sensitive Multimodal Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-02051/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding
 
 Status: excluded from the active CUA catalog after scope review.

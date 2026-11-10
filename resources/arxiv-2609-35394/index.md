@@ -1,3 +1,11 @@
+---
+title: "Rethinking Visual Token Compression for Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35394/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Rethinking Visual Token Compression for Video Large Language Models: A Simple Yet Strong Baseline
 
 Status: excluded from the active CUA catalog after scope review.

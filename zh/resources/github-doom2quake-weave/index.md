@@ -1,3 +1,11 @@
+---
+title: "Weave WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-doom2quake-weave/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Weave WebMCP
 
 浏览器原生的 WebMCP 构想到计划画布，供用户和网页智能体协同编辑结构化任务计划。

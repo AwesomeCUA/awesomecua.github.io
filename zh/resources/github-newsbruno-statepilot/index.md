@@ -1,3 +1,11 @@
+---
+title: "StatePilot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-newsbruno-statepilot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # StatePilot
 
 StatePilot 是面向 AI 智能体的可预测浏览器运行时，具备状态验证、情节记忆、错误恢复和 MCP 工具。

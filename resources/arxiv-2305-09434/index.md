@@ -1,3 +1,11 @@
+---
+title: "Chatting with GPT-3 for Zero-Shot Human-Like… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-09434/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Chatting with GPT-3 for Zero-Shot Human-Like Mobile Automated GUI Testing
 
 Bibliographic record for Chatting with GPT-3 for Zero-Shot Human-Like Mobile Automated GUI Testing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhe Liu, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Xing Che, Dandan Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-09434/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-09434/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_09434,
+  title = {{Chatting with GPT-3 for Zero-Shot Human-Like Mobile Automated GUI Testing}},
+  author = {{Zhe Liu} and {Chunyang Chen} and {Junjie Wang} and {Mengzhuo Chen} and {Boyu Wu} and {Xing Che} and {Dandan Wang} and {Qing Wang}},
+  year = {2023},
+  eprint = {2305.09434v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.09434v1},
+  note = {First published: 2023-05-16; Recorded arXiv version: v1; Recorded version updated: 2023-05-16T13:46:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Computer Use (gVisor Cloud REPL) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-r33drichards-computer-use/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Computer Use (gVisor Cloud REPL)
 
 Provides a gVisor-isolated Linux desktop and Chromium container with persistent storage driven through a single JavaScript REPL MCP tool.

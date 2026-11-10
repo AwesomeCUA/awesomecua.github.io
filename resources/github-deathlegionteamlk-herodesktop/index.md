@@ -1,3 +1,11 @@
+---
+title: "HeroDesktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # HeroDesktop
 
 HeroDesktop is an open-source virtual desktop sandbox for running and observing AI computer-use agents.

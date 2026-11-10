@@ -1,3 +1,11 @@
+---
+title: "DSH Mobile GUI Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kunjinkao-os-dsh-mobile-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DSH Mobile GUI Agent
 
 面向 DeepSeek Harness 的 Android 移动端 GUI 智能体插件，支持 ADB 操作、迭代式屏幕验证和错误恢复。

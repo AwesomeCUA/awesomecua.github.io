@@ -1,3 +1,11 @@
+---
+title: "Aria-UI Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f8566bd0394d36ed4f8e/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # Aria-UI Data
 
 GUI element descriptions and grounding instructions spanning web, mobile, and Ubuntu desktop interfaces.

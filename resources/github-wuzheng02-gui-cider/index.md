@@ -1,3 +1,11 @@
+---
+title: "GUI-CIDER research code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wuzheng02-gui-cider/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # GUI-CIDER research code
 
 Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.

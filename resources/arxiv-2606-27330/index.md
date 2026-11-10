@@ -1,3 +1,11 @@
+---
+title: "Empowering GUI Agents via Autonomous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-27330/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
 
 PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone falls short of planning generalization across websites.
@@ -26,6 +34,18 @@ Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-27330/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-27330/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_27330,
+  title = {{Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning}},
+  author = {{Tianyi Men} and {Zhuoran Jin} and {Pengfei Cao} and {Yubo Chen} and {Kang Liu} and {Jun Zhao}},
+  year = {2026},
+  eprint = {2606.27330v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.27330v1},
+  note = {First published: 2026-06-25; Recorded arXiv version: v1; Recorded version updated: 2026-06-25T17:44:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

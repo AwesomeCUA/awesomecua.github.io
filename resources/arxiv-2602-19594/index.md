@@ -1,3 +1,11 @@
+---
+title: "ISO-Bench: Can Coding Agents Optimize… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-19594/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?
 
 Status: excluded from the active CUA catalog after scope review.

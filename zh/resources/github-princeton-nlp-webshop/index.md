@@ -1,3 +1,11 @@
+---
+title: "WebShop · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-princeton-nlp-webshop/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # WebShop
 
 用于遵循指令的网页智能体的模拟购物环境。

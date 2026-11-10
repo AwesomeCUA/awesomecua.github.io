@@ -1,3 +1,11 @@
+---
+title: "GameCraft-Bench: Can Agents Build Playable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-17861/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?
 
 Status: excluded from the active CUA catalog after scope review.

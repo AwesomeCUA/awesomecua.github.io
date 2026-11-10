@@ -1,3 +1,11 @@
+---
+title: "Open Duet (open-dots) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anil-matcha-open-dots/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Open Duet (open-dots)
 
 Open Duet is a self-hosted multi-agent workspace where named AI coworkers operate isolated sandboxes, browsers, and terminals.

@@ -1,3 +1,11 @@
+---
+title: "CRAB · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-camel-ai-crab/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # CRAB
 
 用于多模态智能体的跨环境基准框架。

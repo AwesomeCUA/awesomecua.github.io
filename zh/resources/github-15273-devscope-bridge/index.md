@@ -1,3 +1,11 @@
+---
+title: "DevScope Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-15273-devscope-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DevScope Bridge
 
 本地优先的 Chrome 侧边栏与桥接工具，将 Claude Code、Cursor 和 Codex 连接到实时浏览器 DOM 与控制台状态。

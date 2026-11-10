@@ -1,3 +1,11 @@
+---
+title: "Memori | AwesomeCUA"
+url: https://awesomecua.com/resources/github-memorilabs-memori/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Memori
 
 Memori captures structured execution facts from agent tool calls and conversations into a relational memory store.

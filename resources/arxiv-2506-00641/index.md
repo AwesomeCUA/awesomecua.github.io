@@ -1,3 +1,11 @@
+---
+title: "AgentAuditor: Human-Level Safety and Security… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-00641/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

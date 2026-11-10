@@ -1,3 +1,11 @@
+---
+title: "Adaptive Multi-Resolution Procedural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-12203/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Adaptive Multi-Resolution Procedural Knowledge Compression for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

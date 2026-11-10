@@ -1,3 +1,11 @@
+---
+title: "Anthropic Computer Use for Mac · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deedy-mac-computer-use/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Anthropic Computer Use for Mac
 
 改造 Anthropic Claude Computer Use 参考智能体，使其通过 PyAutoGUI 和 cliclick 控制原生 macOS 桌面。

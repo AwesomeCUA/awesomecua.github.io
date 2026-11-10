@@ -1,3 +1,11 @@
+---
+title: "UniRec-0.1B: Unified Text and Formula… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-21095/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters
 
 Bibliographic record for UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yongkun Du, Zhineng Chen, Yazhen Xie, Weikang Bai, Hao Feng, Wei Shi, Yuchen Su,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-21095/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-21095/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_21095,
+  title = {{UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters}},
+  author = {{Yongkun Du} and {Zhineng Chen} and {Yazhen Xie} and {Weikang Bai} and {Hao Feng} and {Wei Shi} and {Yuchen Su} and {Can Huang} and {Yu-Gang Jiang}},
+  year = {2025},
+  eprint = {2512.21095v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.21095v2},
+  note = {First published: 2025-12-24; Recorded arXiv version: v2; Recorded version updated: 2026-07-11T09:04:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

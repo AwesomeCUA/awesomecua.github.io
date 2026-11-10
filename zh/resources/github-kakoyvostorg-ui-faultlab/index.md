@@ -1,3 +1,11 @@
+---
+title: "UI-FaultLab · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kakoyvostorg-ui-faultlab/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # UI-FaultLab
 
 UI-FaultLab 评测视觉 UI 测试工作流中，可审计的智能体与应用故障归因。

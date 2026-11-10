@@ -1,3 +1,11 @@
+---
+title: "Awesome Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-philfung-awesome-computer-use/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Awesome Computer Use
 
 A curated reading list of computer GUI use research and software, linking to agent demos, frameworks, and papers across desktop and web interfaces.

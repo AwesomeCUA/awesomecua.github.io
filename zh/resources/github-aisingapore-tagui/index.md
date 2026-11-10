@@ -1,3 +1,11 @@
+---
+title: "TagUI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aisingapore-tagui/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # TagUI
 
 TagUI 使用网页元素、图像、文本或坐标作为目标，在网站和桌面应用中执行脚本流程。其 MCP 服务器允许 AI 客户端创建并运行流程。

@@ -1,3 +1,11 @@
+---
+title: "MagenticLite / Magentic UI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-magentic-ui/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # MagenticLite / Magentic UI
 
 微软的智能体应用，结合任务编排与浏览器交互，是 Magentic UI 的后续版本。

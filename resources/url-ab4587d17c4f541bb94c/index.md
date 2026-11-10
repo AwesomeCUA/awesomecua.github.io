@@ -1,3 +1,11 @@
+---
+title: "ACT-SOP | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ab4587d17c4f541bb94c/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # ACT-SOP
 
 LoRA adapter for Llama-2-7b from MobileAgent, a mobile device control agent that adds Standard Operating Procedure (SOP) context and predicts actions on AitW screens.

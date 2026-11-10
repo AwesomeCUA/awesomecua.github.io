@@ -1,3 +1,11 @@
+---
+title: "Vision-MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-haruhiyuki-vision-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Vision-MCP
 
 桌面应用交互 MCP 服务器，结合视觉 UI 元素检测与鼠标、键盘自动化。

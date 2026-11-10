@@ -1,3 +1,11 @@
+---
+title: "Patchright NodeJS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Patchright NodeJS
 
 Patchright NodeJS is the Node.js package of Patchright: a patched Playwright that drives Chromium through the standard JavaScript API with automation leaks removed.

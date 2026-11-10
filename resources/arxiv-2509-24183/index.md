@@ -1,3 +1,11 @@
+---
+title: "Retrieval-augmented GUI Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-24183/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Retrieval-augmented GUI Agents with Generative Guidelines
 
 RAG-GUI trains a small guidance adapter to filter and summarize retrieved web tutorials while keeping the acting agent fixed. Supervised and rejection-sampling stages prepare the adapter for inference-time assistance, tested on offline web/mobile tasks and interactive Android tasks.
@@ -26,6 +34,18 @@ Ran Xu, Kaixin Ma, Wenhao Yu, Hongming Zhang, Joyce C. Ho, Carl Yang, Dong Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-24183/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-24183/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_24183,
+  title = {{Retrieval-augmented GUI Agents with Generative Guidelines}},
+  author = {{Ran Xu} and {Kaixin Ma} and {Wenhao Yu} and {Hongming Zhang} and {Joyce C. Ho} and {Carl Yang} and {Dong Yu}},
+  year = {2025},
+  eprint = {2509.24183v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.24183v1},
+  note = {First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T02:04:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

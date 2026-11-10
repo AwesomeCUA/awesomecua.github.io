@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 26 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/26/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 26
 
 HTML page: https://awesomecua.com/topics/automation/page/26/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Valk](https://awesomecua.com/resources/github-ercbot-valk/)
-- [vco (Visual Computer Operate)](https://awesomecua.com/resources/github-lo2589-vco/)
-- [Vedanshu7 Operant](https://awesomecua.com/resources/github-vedanshu7-operant/)
-- [Veeva CRM (Veeva Commercial Cloud) Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-crm-browser-automation/)
-- [Veeva Vault Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/)
 - [Venxuix Dccide](https://awesomecua.com/resources/github-venxuix-dccide-venxuix/)
 - [Vera AI Assistant](https://awesomecua.com/resources/github-alpert-code-veraai-assistant-1-1/)
 - [VersaiOS](https://awesomecua.com/resources/github-zhaodashuaibi-versaios/)
@@ -64,3 +67,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [WebtestingWithLLMs](https://awesomecua.com/resources/github-softwaretestingllms-webtestingwithllms/)
 - [WeChat Mac RPA](https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/)
 - [WieslawSoltes Linux Computer Use for Codex](https://awesomecua.com/resources/github-wieslawsoltes-linuxcomputeruse/)
+- [Win32 MCP Server](https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/)
+- [Win:Computer Use MCP](https://awesomecua.com/resources/github-jnx03-windowncomputeruse/)
+- [WinAgent-Lite](https://awesomecua.com/resources/github-zyydi1959-winagent-lite/)
+- [winctl-mcp](https://awesomecua.com/resources/github-shult-winctl-mcp/)
+- [Window Calls](https://awesomecua.com/resources/github-ickyicky-window-calls/)

@@ -1,3 +1,11 @@
+---
+title: "GUI-Odyssey · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-opengvlab-gui-odyssey/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Odyssey
 
 用于训练和评估智能体的人工演示 Android 跨应用导航任务过程，涵盖 6 类任务、212 个应用和约 1,400 种应用组合。

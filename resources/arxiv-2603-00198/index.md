@@ -1,3 +1,11 @@
+---
+title: "Stateful Token Reduction for Long-Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-00198/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Stateful Token Reduction for Long-Video Hybrid VLMs
 
 Status: excluded from the active CUA catalog after scope review.

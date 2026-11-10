@@ -1,3 +1,11 @@
+---
+title: "PARCEL: Pool-Anchored Resampling with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-30126/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding
 
 Status: excluded from the active CUA catalog after scope review.

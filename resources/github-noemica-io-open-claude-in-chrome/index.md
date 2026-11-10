@@ -1,3 +1,11 @@
+---
+title: "Open Claude in Chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-noemica-io-open-claude-in-chrome/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Open Claude in Chrome
 
 Open Claude in Chrome connects Claude Code to Chromium browser actions through an extension and MCP server, and includes browser-session recording.

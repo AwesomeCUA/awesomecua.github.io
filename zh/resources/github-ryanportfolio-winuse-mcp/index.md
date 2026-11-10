@@ -1,3 +1,11 @@
+---
+title: "winuse-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ryanportfolio-winuse-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # winuse-mcp
 
 Model Context Protocol 服务器，使 Claude 和 MCP 智能体能够检查并控制 Windows 桌面应用。

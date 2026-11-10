@@ -1,3 +1,11 @@
+---
+title: "ScreenBuddy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nideesh1-screen-buddy/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ScreenBuddy
 
 ScreenBuddy is a native Rust and Tauri macOS desktop client for running bring-your-own-key Claude Computer Use workflows.

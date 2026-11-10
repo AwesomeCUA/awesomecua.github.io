@@ -1,3 +1,11 @@
+---
+title: "OpenApps: Simulating Environment Variations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-20766/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # OpenApps: Simulating Environment Variations to Measure UI-Agent Reliability
 
 Introduces OpenApps, a configurable app ecosystem for measuring UI-agent reliability under changes in appearance and content. Its evaluation compares task success and failure behavior across many versions of the same apps.
@@ -26,6 +34,18 @@ Karen Ullrich, Jingtong Su, Claudia Shi, Arjun Subramonian, Amir Bar, Ivan Evtim
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-20766/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-20766/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_20766,
+  title = {{OpenApps: Simulating Environment Variations to Measure UI-Agent Reliability}},
+  author = {{Karen Ullrich} and {Jingtong Su} and {Claudia Shi} and {Arjun Subramonian} and {Amir Bar} and {Ivan Evtimov} and {Nikolaos Tsilivis} and {Randall Balestriero} and {Julia Kempe} and {Mark Ibrahim}},
+  year = {2025},
+  eprint = {2511.20766v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.20766v1},
+  note = {First published: 2025-11-25; Recorded arXiv version: v1; Recorded version updated: 2025-11-25T19:00:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

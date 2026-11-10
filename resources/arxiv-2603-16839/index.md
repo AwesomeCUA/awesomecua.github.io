@@ -1,3 +1,11 @@
+---
+title: "Learning to Present: Inverse Specification… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-16839/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Learning to Present: Inverse Specification Rewards for Agentic Slide Generation
 
 Bibliographic record for Learning to Present: Inverse Specification Rewards for Agentic Slide Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Karthik Ragunath Ananda Kumar, Subrahmanyam Arunachalam
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-16839/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-16839/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_16839,
+  title = {{Learning to Present: Inverse Specification Rewards for Agentic Slide Generation}},
+  author = {{Karthik Ragunath Ananda Kumar} and {Subrahmanyam Arunachalam}},
+  year = {2026},
+  eprint = {2603.16839v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.16839v1},
+  note = {First published: 2026-03-17; Recorded arXiv version: v1; Recorded version updated: 2026-03-17T17:45:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

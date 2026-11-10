@@ -1,3 +1,11 @@
+---
+title: "REDLINE WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eloiramos-redline/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # REDLINE WebMCP
 
 Browser-native WebMCP authority boundary where visiting agents stage reviewable state changes for human approval.

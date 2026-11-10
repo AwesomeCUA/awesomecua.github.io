@@ -1,3 +1,11 @@
+---
+title: "OSRS PvP Reinforcement Learning · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-naton1-osrs-pvp-reinforcement-learning/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OSRS PvP Reinforcement Learning
 
 在高维动作空间中，训练用于实时 Old School RuneScape PvP 战斗的 PPO 自我对弈强化学习智能体。

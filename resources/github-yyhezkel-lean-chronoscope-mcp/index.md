@@ -1,3 +1,11 @@
+---
+title: "lean-chronoscope-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # lean-chronoscope-mcp
 
 Token-efficient headless Chrome MCP server in Docker that records console, network, and DOM timelines for coding agents.

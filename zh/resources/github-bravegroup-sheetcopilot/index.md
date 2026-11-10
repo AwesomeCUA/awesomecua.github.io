@@ -1,3 +1,11 @@
+---
+title: "SheetCopilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bravegroup-sheetcopilot/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # SheetCopilot
 
 面向 Windows 和 Excel 的电子表格自动化智能体，提供基准资源，并另行发布无界面的 Ubuntu 评估后端。

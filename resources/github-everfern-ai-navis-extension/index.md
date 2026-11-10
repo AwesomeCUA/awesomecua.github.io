@@ -1,3 +1,11 @@
+---
+title: "EverFern Navis Extension | AwesomeCUA"
+url: https://awesomecua.com/resources/github-everfern-ai-navis-extension/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # EverFern Navis Extension
 
 A browser extension that connects Navis to a user's regular browser profile through EverFern Desktop, with builds for Chromium browsers and Firefox.

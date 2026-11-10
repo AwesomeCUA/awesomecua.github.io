@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-ui-debug · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-featherhunter-dsh-plugin-ui-debug/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-plugin-ui-debug
 
 DeepSeek Harness 插件，可在前端 UI 调试期间检查实时 DOM 样式、布局问题和控制台错误。

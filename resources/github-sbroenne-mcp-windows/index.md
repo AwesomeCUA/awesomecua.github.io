@@ -1,3 +1,11 @@
+---
+title: "Windows MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sbroenne-mcp-windows/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Windows MCP Server
 
 An MCP server and CLI that let AI agents inspect Windows application controls and perform desktop actions, with screenshots, mouse, and keyboard available for visual tasks.

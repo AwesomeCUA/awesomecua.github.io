@@ -1,3 +1,11 @@
+---
+title: "mapleluvr cu (Evidence-Bound Windows CLI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mapleluvr-cu/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mapleluvr cu (Evidence-Bound Windows CLI)
 
 Evidence-bound computer-use CLI for Windows that pairs every UI action with pre/post window observations.

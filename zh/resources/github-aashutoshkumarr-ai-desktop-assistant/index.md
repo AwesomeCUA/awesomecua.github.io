@@ -1,3 +1,11 @@
+---
+title: "aashutoshkumarr JARVIS Desktop Assistant · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aashutoshkumarr-ai-desktop-assistant/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # aashutoshkumarr JARVIS Desktop Assistant
 
 基于 Python 的 Windows 语音与 GUI 桌面自动化助手。

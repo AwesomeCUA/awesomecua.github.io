@@ -1,3 +1,11 @@
+---
+title: "OpenMuse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-copilotkit-openmuse/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OpenMuse
 
 OpenMuse is a personal agent application that browses public web pages in persistent Chromium and lets users inspect or take over the session. It also supports terminal, file, and PDF work.

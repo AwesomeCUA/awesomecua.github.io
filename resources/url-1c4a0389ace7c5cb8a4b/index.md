@@ -1,3 +1,11 @@
+---
+title: "OSWorld 2.0 task classes | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # OSWorld 2.0 task classes
 
 Gated Hub release of the OSWorld 2.0 benchmark's Python task classes, which hold task setup and evaluator logic kept out of the public code to limit leakage and are pinned per benchmark release.

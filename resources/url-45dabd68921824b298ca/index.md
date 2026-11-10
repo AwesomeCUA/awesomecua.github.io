@@ -1,3 +1,11 @@
+---
+title: "ego(lite) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-45dabd68921824b298ca/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # ego(lite)
 
 A Chromium browser that lets AI agents automate signed-in websites through an agent skill, with separate workspaces for agent tasks and page snapshots for navigation.

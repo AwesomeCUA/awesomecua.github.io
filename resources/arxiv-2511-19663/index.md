@@ -1,3 +1,11 @@
+---
+title: "Fara-7B: An Efficient Agentic Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-19663/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Fara-7B: An Efficient Agentic Model for Computer Use
 
 Introduces FaraGen synthetic web trajectories, a compact screenshot-based action model, and WebTailBench for underrepresented browser tasks.
@@ -26,6 +34,18 @@ Ahmed Awadallah, Yash Lara, Raghav Magazine, Hussein Mozannar, Akshay Nambi, Yas
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-19663/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-19663/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_19663,
+  title = {{Fara-7B: An Efficient Agentic Model for Computer Use}},
+  author = {{Ahmed Awadallah} and {Yash Lara} and {Raghav Magazine} and {Hussein Mozannar} and {Akshay Nambi} and {Yash Pandya} and {Aravind Rajeswaran} and {Corby Rosset} and {Alexey Taymanov} and {Vibhav Vineet} and {Spencer Whitehead} and {Andrew Zhao}},
+  year = {2025},
+  eprint = {2511.19663v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.19663v1},
+  note = {First published: 2025-11-24; Recorded arXiv version: v1; Recorded version updated: 2025-11-24T19:56:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

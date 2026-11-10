@@ -1,3 +1,11 @@
+---
+title: "Invisible to Humans, Triggered by Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-07809/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents
 
 Uses the near-zero contact-touch signals of automated mobile agents to expose malicious visual content selectively during agent interactions. The paper combines this agent-only perceptual injection with HG-IDA* prompt optimization to study unauthorized cross-app actions.
@@ -26,6 +34,18 @@ Renhua Ding, Xiao Yang, Zhengwei Fang, Jun Luo, Kun He, Jun Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-07809/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-07809/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_07809,
+  title = {{Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents}},
+  author = {{Renhua Ding} and {Xiao Yang} and {Zhengwei Fang} and {Jun Luo} and {Kun He} and {Jun Zhu}},
+  year = {2025},
+  eprint = {2510.07809v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.07809v4},
+  note = {First published: 2025-10-09; Recorded arXiv version: v4; Recorded version updated: 2026-04-09T01:41:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

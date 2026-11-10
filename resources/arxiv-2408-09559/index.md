@@ -1,3 +1,11 @@
+---
+title: "HiAgent: Hierarchical Working Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-09559/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model
 
 Status: excluded from the active CUA catalog after scope review.

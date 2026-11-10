@@ -1,3 +1,11 @@
+---
+title: "Replay AI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bryansbtian-replay-ai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Replay AI
 
 使用本地 LLM 发现一次 UI 工作流程，并将成功轨迹编译为确定性重放脚本。

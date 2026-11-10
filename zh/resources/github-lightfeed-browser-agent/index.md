@@ -1,3 +1,11 @@
+---
+title: "Lightfeed Replayable Browser Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lightfeed-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Lightfeed Replayable Browser Agent
 
 TypeScript 浏览器智能体库，使用 LLM 完成一次网页导航流程，之后以零 LLM token 重放缓存的选择器。

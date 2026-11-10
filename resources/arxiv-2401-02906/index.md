@@ -1,3 +1,11 @@
+---
+title: "MLLM-Protector: Ensuring MLLM's Safety… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-02906/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance
 
 Bibliographic record for MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Renjie Pi, Tianyang Han, Jianshu Zhang, Yueqi Xie, Rui Pan, Qing Lian, Hanze Don
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-02906/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-02906/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_02906,
+  title = {{MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance}},
+  author = {{Renjie Pi} and {Tianyang Han} and {Jianshu Zhang} and {Yueqi Xie} and {Rui Pan} and {Qing Lian} and {Hanze Dong} and {Jipeng Zhang} and {Tong Zhang}},
+  year = {2024},
+  eprint = {2401.02906v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.02906v3},
+  note = {First published: 2024-01-05; Recorded arXiv version: v3; Recorded version updated: 2024-06-17T16:53:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

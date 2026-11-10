@@ -1,3 +1,11 @@
+---
+title: "pms-race | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lgoyal6-pms-race/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # pms-race
 
 Concurrency benchmark for computer-use agents operating a legacy property-management web UI to measure race conditions and double-bookings.

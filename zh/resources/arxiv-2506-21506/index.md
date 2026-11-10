@@ -1,3 +1,11 @@
+---
+title: "Mind2Web 2: Evaluating Agentic Search… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-21506/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge
 
 Mind2Web 2 包含 130 项需实时浏览网页并整合信息的长程任务，还提出 Agent-as-a-Judge 框架评估答案及来源。
@@ -27,6 +35,18 @@ Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Weijian Qi, Andrei Kop
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-21506/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-21506/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_21506,
+  title = {{Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge}},
+  author = {{Boyu Gou} and {Zanming Huang} and {Yuting Ning} and {Yu Gu} and {Michael Lin} and {Weijian Qi} and {Andrei Kopanev} and {Botao Yu} and {Bernal Jiménez Gutiérrez} and {Yiheng Shu} and {Chan Hee Song} and {Jiaman Wu} and {Shijie Chen} and {Hanane Nour Moussa} and {Tianshu Zhang} and {Jian Xie} and {Yifei Li} and {Tianci Xue} and {Zeyi Liao} and {Kai Zhang} and {Boyuan Zheng} and {Zhaowei Cai} and {Viktor Rozgic} and {Morteza Ziyadi} and {Huan Sun} and {Yu Su}},
+  year = {2025},
+  eprint = {2506.21506v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.21506v2},
+  note = {First published: 2025-06-26; Recorded arXiv version: v2; Recorded version updated: 2025-07-03T15:47:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

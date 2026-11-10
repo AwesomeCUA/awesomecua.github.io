@@ -1,3 +1,11 @@
+---
+title: "Open Browser Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ifuryst-open-browser-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Open Browser Use
 
 Open Browser Use 提供 CLI、守护进程和 Chrome 扩展程序，用于控制保留登录状态的用户实时浏览器会话。

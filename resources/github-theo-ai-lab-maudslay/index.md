@@ -1,3 +1,11 @@
+---
+title: "Maudslay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-theo-ai-lab-maudslay/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Maudslay
 
 Maudslay evaluates release readiness and pass^k reliability of computer-use agents against independent backend and email ground truth.

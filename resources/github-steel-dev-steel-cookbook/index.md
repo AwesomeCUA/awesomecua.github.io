@@ -1,3 +1,11 @@
+---
+title: "Steel Cookbook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steel-dev-steel-cookbook/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Steel Cookbook
 
 A collection of Steel browser automation examples covering browser libraries, screenshot-driven computer-use models and agent frameworks in several programming languages.

@@ -1,3 +1,11 @@
+---
+title: "i3-cua-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-smirnov-labs-i3-computer-use-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # i3-cua-mcp
 
 一款面向 X11 上 i3 桌面的 MCP 服务器，提供窗口数据、屏幕截图和输入控制。它将截图中的坐标映射到桌面位置，并附带 Xephyr 沙箱。

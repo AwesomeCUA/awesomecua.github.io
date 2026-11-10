@@ -1,3 +1,11 @@
+---
+title: "AdaptArena: Evaluating Test-Time… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-36488/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AdaptArena: Evaluating Test-Time Personalization of Web Agents
 
 AdaptArena 测试网页智能体能否从相关历史轨迹推断未明说的用户偏好，并将其用于新任务。其 AdaptiveAgent 基线将偏好检索难题与后续网页执行失败区分开来。
@@ -27,6 +35,18 @@ Dongchan Shin, Xing Han Lù, Jiaqi Deng, Jay Gala, Tomás Vergara Browne, Jaewon
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-36488/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-36488/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36488,
+  title = {{AdaptArena: Evaluating Test-Time Personalization of Web Agents}},
+  author = {{Dongchan Shin} and {Xing Han Lù} and {Jiaqi Deng} and {Jay Gala} and {Tomás Vergara Browne} and {Jaewon Moon} and {Fengyuan Liu} and {Alexandre Drouin} and {Siva Reddy} and {Alexandre Lacoste}},
+  year = {2026},
+  eprint = {2609.36488v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36488v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T01:46:48Z.}
+}
+```
 
 ## arXiv 版本记录
 

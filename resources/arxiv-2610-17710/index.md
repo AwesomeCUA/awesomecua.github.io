@@ -1,3 +1,11 @@
+---
+title: "Adaptive-Group Process Rewards for GUI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17710/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Adaptive-Group Process Rewards for GUI Agents
 
 Groups GUI trajectories by subgoal and combines action-level and group-level assessments into intermediate rewards for training agents with sparse task outcomes.
@@ -26,6 +34,18 @@ Zirui Shang, Yang Liu, Xin Shu, Zhi Gao, Xinxiao Wu, Lifeng Fan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17710/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17710/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17710,
+  title = {{Adaptive-Group Process Rewards for GUI Agents}},
+  author = {{Zirui Shang} and {Yang Liu} and {Xin Shu} and {Zhi Gao} and {Xinxiao Wu} and {Lifeng Fan}},
+  year = {2026},
+  eprint = {2610.17710v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17710v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T04:37:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

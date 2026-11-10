@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3.5-9B OSWorld · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0919e695670c5740a123/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) Qwen3.5-9B OSWorld
 
 THUDM ScaleCUA 的 Qwen3.5-9B 计算机使用智能体检查点，从 SFT 初始模型出发经在线 RL 训练，用于 OSWorld 桌面任务，可通过兼容 OpenAI 的端点提供服务。

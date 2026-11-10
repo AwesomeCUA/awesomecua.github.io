@@ -1,3 +1,11 @@
+---
+title: "Mobile GUI Agents under Real-world Threats… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-04227/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Mobile GUI Agents under Real-world Threats: Are We There Yet?
 
 Introduces an app-content instrumentation framework and complementary interactive and static test suites for mobile GUI agents. It studies how untrusted third-party content changes task execution and state understanding.
@@ -26,6 +34,18 @@ Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-04227/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-04227/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_04227,
+  title = {{Mobile GUI Agents under Real-world Threats: Are We There Yet?}},
+  author = {{Guohong Liu} and {Jialei Ye} and {Jiacheng Liu} and {Yuanchun Li} and {Wei Liu} and {Pengzhi Gao} and {Jian Luan} and {Yunxin Liu}},
+  year = {2025},
+  eprint = {2507.04227v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.04227v2},
+  note = {First published: 2025-07-06; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T14:47:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

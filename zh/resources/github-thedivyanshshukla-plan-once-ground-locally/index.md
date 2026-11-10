@@ -1,3 +1,11 @@
+---
+title: "fast-automation (Plan-Once… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thedivyanshshukla-plan-once-ground-locally/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # fast-automation (Plan-Once Ground-Locally)
 
 在包含 200 个任务和 2,800 次记录运行的评测基准上，对比一次规划、局部定位的网页智能体与逐步执行的 ReAct 循环。

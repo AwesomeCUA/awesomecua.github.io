@@ -1,3 +1,11 @@
+---
+title: "TreeCUA-Datasets · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2e8bba756c71f9fe3fbd/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # TreeCUA-Datasets
 
 TreeCUA-Datasets 发布图形界面探索树，包含配置文件、操作序列、目标和验证结果。用户可在 OSWorld 中重放探索树，以重建屏幕观察。

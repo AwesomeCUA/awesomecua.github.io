@@ -1,3 +1,11 @@
+---
+title: "Building AI Browser Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/url-aa693ca3e8948623f31e/
+updated: 2026-10-20
+type: learning
+lang: en
+---
+
 # Building AI Browser Agents
 
 Browser-agent course with worked lessons on structured web extraction and multi-step browser interaction, followed by AgentQ search and self-correction concepts.

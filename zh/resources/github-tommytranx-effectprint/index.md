@@ -1,3 +1,11 @@
+---
+title: "Effectprint · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tommytranx-effectprint/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Effectprint
 
 用于验证 WebMCP 浏览器智能体工具副作用的确定性行为契约审计套件。

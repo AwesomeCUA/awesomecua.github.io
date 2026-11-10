@@ -1,3 +1,11 @@
+---
+title: "TeachReplay · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TeachReplay
 
 TeachReplay 是不依赖特定测试框架的示范教学引擎，可记录人类 UI 工作流并将其编译为参数化技能。

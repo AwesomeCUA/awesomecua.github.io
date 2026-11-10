@@ -1,3 +1,11 @@
+---
+title: "GUI Agents with Foundation Models: A… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-04890/
+updated: 2026-10-16
+type: survey
+lang: zh-CN
+---
+
 # GUI Agents with Foundation Models: A Comprehensive Survey
 
 综述基于(M)LLM 的 GUI 智能体，从数据集与基准、带分类体系的统一智能体框架，以及商业应用等方面组织内容。
@@ -23,6 +31,18 @@ Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-04890/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-04890/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_04890,
+  title = {{GUI Agents with Foundation Models: A Comprehensive Survey}},
+  author = {{Shuai Wang} and {Weiwen Liu} and {Jingxuan Chen} and {Yuqi Zhou} and {Weinan Gan} and {Xingshan Zeng} and {Yuhan Che} and {Shuai Yu} and {Xinlong Hao} and {Kun Shao} and {Bin Wang} and {Chuhan Wu} and {Yasheng Wang} and {Ruiming Tang} and {Jianye Hao}},
+  year = {2024},
+  eprint = {2411.04890v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.04890v2},
+  note = {First published: 2024-11-07; Recorded arXiv version: v2; Recorded version updated: 2025-02-13T10:09:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

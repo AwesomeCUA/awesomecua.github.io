@@ -1,3 +1,11 @@
+---
+title: "Agent Lumos | AwesomeCUA"
+url: https://awesomecua.com/resources/github-allenai-lumos/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agent Lumos
 
 Agent Lumos provides unified training data and modular planning and grounding architectures for open-source language and web agents.

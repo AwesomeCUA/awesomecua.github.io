@@ -1,3 +1,11 @@
+---
+title: "Agentic UI Testing Codelab · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-a-bhimava-agentic-ui-testing/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # Agentic UI Testing Codelab
 
 面向开发者的实践代码实验课程，使用 Antigravity CLI 和 Browser Use 构建自动化 UI 测试套件。

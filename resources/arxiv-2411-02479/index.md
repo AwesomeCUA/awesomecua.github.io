@@ -1,3 +1,11 @@
+---
+title: "Digitizing Touch with an Artificial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-02479/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Digitizing Touch with an Artificial Multimodal Fingertip
 
 Status: excluded from the active CUA catalog after scope review.

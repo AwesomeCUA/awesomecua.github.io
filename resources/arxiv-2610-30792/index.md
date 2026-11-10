@@ -1,3 +1,11 @@
+---
+title: "Trace2World: Reconstructing App Worlds from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-30792/
+updated: 2026-10-23
+type: paper
+lang: en
+---
+
 # Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training
 
 Bibliographic record for Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zezhou Wang, Hanzhang Zhou, Panrong Tong, Quyu Kong, Pengxiang Li, Steven Hoi, Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-30792/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-30792/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_30792,
+  title = {{Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training}},
+  author = {{Zezhou Wang} and {Hanzhang Zhou} and {Panrong Tong} and {Quyu Kong} and {Pengxiang Li} and {Steven Hoi} and {Zhuzhong Qian} and {Yue Wang}},
+  year = {2026},
+  eprint = {2610.30792v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.30792v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T06:10:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

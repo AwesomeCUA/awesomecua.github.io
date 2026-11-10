@@ -1,3 +1,11 @@
+---
+title: "LMBuild: Evaluating LLM Agents for Generating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04292/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures
 
 Bibliographic record for LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiateng Liu, Rushi Wang, Cheng Qian, Xuejun Zhang, Sun Li, Jiayu Liu, Yifan Shen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04292/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04292/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04292,
+  title = {{LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures}},
+  author = {{Jiateng Liu} and {Rushi Wang} and {Cheng Qian} and {Xuejun Zhang} and {Sun Li} and {Jiayu Liu} and {Yifan Shen} and {Xu Cao} and {Jiarui Yao} and {Bingxuan Li} and {Ruhi Sarikaya} and {Heng Ji}},
+  year = {2026},
+  eprint = {2610.04292v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04292v1},
+  note = {First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T04:55:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

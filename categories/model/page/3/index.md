@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent models and…, page 3 | AwesomeCUA"
+url: https://awesomecua.com/categories/model/page/3/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent models and checkpoints, page 3
 
 HTML page: https://awesomecua.com/categories/model/page/3/

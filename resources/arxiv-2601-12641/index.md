@@ -1,3 +1,11 @@
+---
+title: "STEP-LLM: Generating CAD STEP Models from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-12641/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

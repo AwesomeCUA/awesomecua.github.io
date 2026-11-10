@@ -1,3 +1,11 @@
+---
+title: "Enhancing Software Engineering Through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-05646/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Enhancing Software Engineering Through Closed-Loop Memory Optimization
 
 Bibliographic record for Enhancing Software Engineering Through Closed-Loop Memory Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xuehang Guo, Zora Zhiruo Wang, Qingyun Wang, Graham Neubig, Xingyao Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-05646/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-05646/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05646,
+  title = {{Enhancing Software Engineering Through Closed-Loop Memory Optimization}},
+  author = {{Xuehang Guo} and {Zora Zhiruo Wang} and {Qingyun Wang} and {Graham Neubig} and {Xingyao Wang}},
+  year = {2026},
+  eprint = {2606.05646v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05646v1},
+  note = {First published: 2026-06-04; Recorded arXiv version: v1; Recorded version updated: 2026-06-04T03:17:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

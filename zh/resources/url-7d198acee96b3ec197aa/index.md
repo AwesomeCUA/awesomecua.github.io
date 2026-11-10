@@ -1,3 +1,11 @@
+---
+title: "WebThinker-R1-14B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7d198acee96b3ec197aa/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # WebThinker-R1-14B
 
 WebThinker-R1-14B 是已发布的推理模型；其模型卡描述了它在研究任务中进行网页搜索、通过点击探索页面并撰写报告的能力。

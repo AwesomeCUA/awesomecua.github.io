@@ -1,3 +1,11 @@
+---
+title: "iphone-control (iPhone Mirroring Skill) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-charlesmorgansoftware-iphone-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # iphone-control (iPhone Mirroring Skill)
 
 用于通过 Apple 的 macOS iPhone Mirroring 应用操作已配对 iPhone 的 macOS 技能和 CoreGraphics 控制器。

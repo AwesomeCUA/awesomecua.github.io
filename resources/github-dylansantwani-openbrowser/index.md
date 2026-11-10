@@ -1,3 +1,11 @@
+---
+title: "DylanSantwani OpenBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dylansantwani-openbrowser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DylanSantwani OpenBrowser
 
 Chrome extension and zero-dependency MCP server for automating a user's real logged-in Chrome browser.

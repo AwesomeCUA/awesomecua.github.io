@@ -1,3 +1,11 @@
+---
+title: "Beyond Binary: Reframing GUI Critique as… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-14311/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Beyond Binary: Reframing GUI Critique as Continuous Semantic Alignment
 
 BBCritic 通过对齐指令与动作来排序 GUI 智能体的候选动作；BBBench 用分层动作分类评估细粒度排序能力。
@@ -27,6 +35,18 @@ Yuchen Sun, Pei Fu, Shaojie Zhang, Anan Du, Xiuwen Xi, Ruoceng Zhang, Zhenbo Luo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-14311/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-14311/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14311,
+  title = {{Beyond Binary: Reframing GUI Critique as Continuous Semantic Alignment}},
+  author = {{Yuchen Sun} and {Pei Fu} and {Shaojie Zhang} and {Anan Du} and {Xiuwen Xi} and {Ruoceng Zhang} and {Zhenbo Luo} and {Jian Luan} and {Chongyang Zhang}},
+  year = {2026},
+  eprint = {2605.14311v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14311v2},
+  note = {First published: 2026-05-14; Recorded arXiv version: v2; Recorded version updated: 2026-05-15T06:09:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

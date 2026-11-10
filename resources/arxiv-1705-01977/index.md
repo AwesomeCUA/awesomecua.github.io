@@ -1,3 +1,11 @@
+---
+title: "Malware Detection on General-Purpose… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1705-01977/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Malware Detection on General-Purpose Computers Using Power Consumption Monitoring: A Proof of Concept and Case Study
 
 Status: excluded from the active CUA catalog after scope review.

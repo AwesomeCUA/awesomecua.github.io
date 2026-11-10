@@ -1,3 +1,11 @@
+---
+title: "WebWalker: Benchmarking LLMs in Web Traversal | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-07572/
+updated: 2026-11-02
+type: paper
+lang: en
+---
+
 # WebWalker: Benchmarking LLMs in Web Traversal
 
 Introduces WebWalkerQA and an exploration-and-critique framework for gathering information by traversing multiple levels of a website.
@@ -26,6 +34,18 @@ Jialong Wu, Wenbiao Yin, Yong Jiang, Zhenglin Wang, Zekun Xi, Runnan Fang, Linha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-07572/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-07572/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_07572,
+  title = {{WebWalker: Benchmarking LLMs in Web Traversal}},
+  author = {{Jialong Wu} and {Wenbiao Yin} and {Yong Jiang} and {Zhenglin Wang} and {Zekun Xi} and {Runnan Fang} and {Linhai Zhang} and {Yulan He} and {Deyu Zhou} and {Pengjun Xie} and {Fei Huang}},
+  year = {2025},
+  eprint = {2501.07572v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.07572v3},
+  note = {First published: 2025-01-13; Recorded arXiv version: v3; Recorded version updated: 2025-08-10T05:59:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

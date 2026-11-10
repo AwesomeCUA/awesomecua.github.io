@@ -1,3 +1,11 @@
+---
+title: "ReportBench: Evaluating Deep Research Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-15804/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks
 
 Bibliographic record for ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Minghao Li, Ying Zeng, Zhihao Cheng, Cong Ma, Kai Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-15804/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-15804/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_15804,
+  title = {{ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks}},
+  author = {{Minghao Li} and {Ying Zeng} and {Zhihao Cheng} and {Cong Ma} and {Kai Jia}},
+  year = {2025},
+  eprint = {2508.15804v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.15804v1},
+  note = {First published: 2025-08-14; Recorded arXiv version: v1; Recorded version updated: 2025-08-14T03:33:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

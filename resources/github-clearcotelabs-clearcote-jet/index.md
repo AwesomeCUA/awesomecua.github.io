@@ -1,3 +1,11 @@
+---
+title: "Clearcote Jet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clearcotelabs-clearcote-jet/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # Clearcote Jet
 
 A browser agent that reads a page, picks each next step with a decision model and acts in Clearcote with curved mouse paths and key-by-key typing; finished tasks are saved as skills that replay without model calls.

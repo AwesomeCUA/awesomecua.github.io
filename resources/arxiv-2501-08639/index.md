@@ -1,3 +1,11 @@
+---
+title: "Detecting Wildfire Flame and Smoke through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-08639/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Detecting Wildfire Flame and Smoke through Edge Computing using Transfer Learning Enhanced Deep Learning Models
 
 Status: excluded from the active CUA catalog after scope review.

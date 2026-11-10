@@ -1,3 +1,11 @@
+---
+title: "ConClick-Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bf416a816f74718f94dd/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # ConClick-Data
 
 ConClick-Data 提供带目标坐标和干扰项框的截图定位样本，以 JSONL 文件形式发布，供训练使用。

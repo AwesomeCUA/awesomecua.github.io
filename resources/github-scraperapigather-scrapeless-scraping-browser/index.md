@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Scraping Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Scrapeless Scraping Browser
 
 A managed Chromium browser reached through WebSocket and controlled with Puppeteer or Playwright, with configurable sessions, fingerprints and network egress.

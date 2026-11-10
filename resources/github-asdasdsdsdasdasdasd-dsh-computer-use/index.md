@@ -1,3 +1,11 @@
+---
+title: "asdasdsdsdasdasdasd DSH Linux X11 Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-asdasdsdsdasdasdasd-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # asdasdsdsdasdasdasd DSH Linux X11 Computer Use
 
 Linux X11 computer-use plugin for DeepSeek Harness supporting screenshots, mouse/keyboard control, and window management.

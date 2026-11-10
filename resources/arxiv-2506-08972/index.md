@@ -1,3 +1,11 @@
+---
+title: "Atomic-to-Compositional Generalization for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-08972/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System
 
 UI-NEXUS evaluates compositional mobile tasks in local utility apps and online Chinese and English service apps. AGENT-NEXUS decomposes those long tasks into self-contained atomic subtasks to study generalization beyond isolated screens or short action chains.
@@ -26,6 +34,18 @@ Yuan Guo, Tingjia Miao, Zheng Wu, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-08972/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-08972/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_08972,
+  title = {{Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System}},
+  author = {{Yuan Guo} and {Tingjia Miao} and {Zheng Wu} and {Pengzhou Cheng} and {Ming Zhou} and {Zhuosheng Zhang}},
+  year = {2025},
+  eprint = {2506.08972v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.08972v1},
+  note = {First published: 2025-06-10; Recorded arXiv version: v1; Recorded version updated: 2025-06-10T16:45:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

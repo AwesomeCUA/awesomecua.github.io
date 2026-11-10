@@ -1,3 +1,11 @@
+---
+title: "Cerner PowerChart Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-cerner-powerchart-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Cerner PowerChart Browser Automation
 
 A browser automation scaffold for Cerner PowerChart with actions for login, patient search, results, orders, and documentation export, plus a selector reference.

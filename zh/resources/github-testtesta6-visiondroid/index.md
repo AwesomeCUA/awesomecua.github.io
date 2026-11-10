@@ -1,3 +1,11 @@
+---
+title: "VisionDroid · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-testtesta6-visiondroid/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # VisionDroid
 
 VisionDroid 使用多模态 LLM 探索 Android 应用屏幕，检测跨页面跳转中不会导致崩溃的 GUI 功能逻辑错误。

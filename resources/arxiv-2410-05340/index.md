@@ -1,3 +1,11 @@
+---
+title: "Generating CAD Code with Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-05340/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Generating CAD Code with Vision-Language Models for 3D Designs
 
 Status: excluded from the active CUA catalog after scope review.

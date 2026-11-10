@@ -1,3 +1,11 @@
+---
+title: "VeriCUA: Learning Proactive Verification for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26469/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards
 
 VeriCUA trains a Judge to select verification checks and stopping decisions while a frozen Probe inspects the post-task GUI. Single-attempt reinforcement learning balances verdict correctness and Probe use.
@@ -26,6 +34,18 @@ Zhizhou Wang, Yaxi Lu, Zhong Zhang, Zikun Hu, Xin Cong, Yankai Lin, Fangming Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26469/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26469/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26469,
+  title = {{VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards}},
+  author = {{Zhizhou Wang} and {Yaxi Lu} and {Zhong Zhang} and {Zikun Hu} and {Xin Cong} and {Yankai Lin} and {Fangming Liu}},
+  year = {2026},
+  eprint = {2610.26469v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26469v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T14:17:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

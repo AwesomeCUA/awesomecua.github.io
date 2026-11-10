@@ -1,3 +1,11 @@
+---
+title: "chromiumfish_mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-loworbitlab-chromiumfish-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # chromiumfish_mcp
 
 具备会话感知能力的 Model Context Protocol 服务器，用于驱动 ChromiumFish 浏览器自动化。

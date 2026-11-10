@@ -1,3 +1,11 @@
+---
+title: "Domstamp · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zuub-don-domstamp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Domstamp
 
 与框架无关的浏览器状态快照工具，为 AI 网页智能体捕获精简且可比较差异的 DOM 和无障碍状态。

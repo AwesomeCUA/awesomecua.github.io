@@ -1,3 +1,11 @@
+---
+title: "Joint Visual Grounding and Tracking with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-12027/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Joint Visual Grounding and Tracking with Natural Language Specification
 
 Status: excluded from the active CUA catalog after scope review.

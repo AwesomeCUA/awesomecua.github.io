@@ -1,3 +1,11 @@
+---
+title: "META-GUI: Towards Multi-modal Conversational… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-11029/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI
 
 Introduces GUI-based task-oriented dialogue and a dataset pairing mobile-interface operations with conversational responses.
@@ -26,6 +34,18 @@ Liangtai Sun, Xingyu Chen, Lu Chen, Tianle Dai, Zichen Zhu, Kai Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2205-11029/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2205-11029/citation.csl.json
+
+```bibtex
+@misc{arxiv_2205_11029,
+  title = {{META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI}},
+  author = {{Liangtai Sun} and {Xingyu Chen} and {Lu Chen} and {Tianle Dai} and {Zichen Zhu} and {Kai Yu}},
+  year = {2022},
+  eprint = {2205.11029v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2205.11029v2},
+  note = {First published: 2022-05-23; Recorded arXiv version: v2; Recorded version updated: 2022-11-24T06:34:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "RAPID: Robot Agentic Programming from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-30249/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RAPID: Robot Agentic Programming from Demonstrations
 
 Bibliographic record for RAPID: Robot Agentic Programming from Demonstrations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuyao Liu, Jiayuan Mao, David Hsu, Leslie Pack Kaelbling, Tomás Lozano-Pérez
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-30249/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-30249/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_30249,
+  title = {{RAPID: Robot Agentic Programming from Demonstrations}},
+  author = {{Yuyao Liu} and {Jiayuan Mao} and {David Hsu} and {Leslie Pack Kaelbling} and {Tomás Lozano-Pérez}},
+  year = {2026},
+  eprint = {2609.30249v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.30249v1},
+  note = {First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T17:58:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

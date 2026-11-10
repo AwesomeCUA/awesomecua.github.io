@@ -1,3 +1,11 @@
+---
+title: "pi-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-injaneity-pi-computer-use/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # pi-computer-use
 
 Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.

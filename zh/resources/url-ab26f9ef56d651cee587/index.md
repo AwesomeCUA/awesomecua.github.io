@@ -1,3 +1,11 @@
+---
+title: "CMGUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ab26f9ef56d651cee587/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # CMGUI
 
 包含来自电商、社交媒体等领域 50 多个中文移动应用的 18k 条轨迹、共 98k 步，用于构建面向中文应用的 GUI 智能体。

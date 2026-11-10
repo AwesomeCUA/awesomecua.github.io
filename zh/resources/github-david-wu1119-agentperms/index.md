@@ -1,3 +1,11 @@
+---
+title: "AgentPerms · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-david-wu1119-agentperms/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AgentPerms
 
 用于管理 AI 智能体工具和界面权限的声明式 `agent.permissions.yaml` 模式、验证器及策略评估器。

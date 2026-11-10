@@ -1,3 +1,11 @@
+---
+title: "asil-qwen35-2b-rl | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d740ec821c7c466db2bf/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # asil-qwen35-2b-rl
 
 An ASIL reinforcement-learning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.

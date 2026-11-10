@@ -1,3 +1,11 @@
+---
+title: "Correct Answers, Closed Gates: SolveBind… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-32223/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Correct Answers, Closed Gates: SolveBind for GUI Agents at the Verification Barrier
 
 提出 SolveBind，将验证任务分解为多个步骤，并依据运行时证据指导智能体与受保护网站和应用交互。
@@ -27,6 +35,18 @@ Xinhao Song, Haoxuan Peng, Su Su, Hongliang Wu, Sirui Song, Gongshen Liu, Linfen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-32223/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-32223/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_32223,
+  title = {{Correct Answers, Closed Gates: SolveBind for GUI Agents at the Verification Barrier}},
+  author = {{Xinhao Song} and {Haoxuan Peng} and {Su Su} and {Hongliang Wu} and {Sirui Song} and {Gongshen Liu} and {Linfeng Zhang} and {Dongrui Liu}},
+  year = {2026},
+  eprint = {2610.32223v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.32223v1},
+  note = {First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T06:27:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

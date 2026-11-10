@@ -1,3 +1,11 @@
+---
+title: "Tur[k]ingBench: A Challenge Benchmark… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-11905/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Tur[k]ingBench: A Challenge Benchmark for Web Agents
 
 使用由原本面向众包工作者的 HTML 界面改编的多模态标注任务，评估网页智能体。
@@ -27,6 +35,18 @@ Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Ada
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-11905/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-11905/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_11905,
+  title = {{Tur[k]ingBench: A Challenge Benchmark for Web Agents}},
+  author = {{Kevin Xu} and {Yeganeh Kordi} and {Tanay Nayak} and {Adi Asija} and {Yizhong Wang} and {Kate Sanders} and {Adam Byerly} and {Jingyu Zhang} and {Benjamin Van Durme} and {Daniel Khashabi}},
+  year = {2024},
+  eprint = {2403.11905v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.11905v4},
+  note = {First published: 2024-03-18; Recorded arXiv version: v4; Recorded version updated: 2025-02-22T01:33:54Z.}
+}
+```
 
 ## 发表记录
 

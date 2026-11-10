@@ -1,3 +1,11 @@
+---
+title: "StatEval: A Comprehensive Benchmark for Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-09517/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # StatEval: A Comprehensive Benchmark for Large Language Models in Statistics
 
 Status: excluded from the active CUA catalog after scope review.

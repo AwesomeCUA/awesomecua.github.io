@@ -1,3 +1,11 @@
+---
+title: "Trifuse: Enhancing Attention-Based GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-06351/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
 
 Trifuse combines attention-based localization with OCR text cues and icon captions to ground GUI instructions. Its fusion procedure favors cross-modal agreement and sharp location peaks, and is evaluated without task-specific fine-tuning.
@@ -26,6 +34,18 @@ Longhui Ma, Di Zhao, Siwei Wang, Zhao Lv, Miao Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-06351/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-06351/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06351,
+  title = {{Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion}},
+  author = {{Longhui Ma} and {Di Zhao} and {Siwei Wang} and {Zhao Lv} and {Miao Wang}},
+  year = {2026},
+  eprint = {2602.06351v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06351v1},
+  note = {First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T03:27:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

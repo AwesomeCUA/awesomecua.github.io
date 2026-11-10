@@ -1,3 +1,11 @@
+---
+title: "ViSculpt: Visual-Centric Agentic Geometry… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24169/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ViSculpt: Visual-Centric Agentic Geometry Editing
 
 Bibliographic record for ViSculpt: Visual-Centric Agentic Geometry Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bo Pang, Jiaqi Pan, Xiaocheng Zhang, Jiacheng Xu, Guoping Wang, Peng-Shuai Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24169/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24169/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24169,
+  title = {{ViSculpt: Visual-Centric Agentic Geometry Editing}},
+  author = {{Bo Pang} and {Jiaqi Pan} and {Xiaocheng Zhang} and {Jiacheng Xu} and {Guoping Wang} and {Peng-Shuai Wang}},
+  year = {2026},
+  eprint = {2608.24169v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24169v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T07:37:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Aether Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-longebane-aether-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Aether Browser MCP
 
 Model Context Protocol server for driving headless and headful browser automation workflows.

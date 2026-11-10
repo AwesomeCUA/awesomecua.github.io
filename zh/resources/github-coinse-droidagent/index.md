@@ -1,3 +1,11 @@
+---
+title: "DroidAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-coinse-droidagent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # DroidAgent
 
 这款安卓界面测试智能体根据用户目标探索应用，并生成测试场景、回放脚本和操作报告。

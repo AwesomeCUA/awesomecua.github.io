@@ -1,3 +1,11 @@
+---
+title: "SikuliX1 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raiman-sikulix1/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SikuliX1
 
 一个已归档的桌面自动化代码库，通过图像识别定位屏幕元素，并用模拟鼠标和键盘输入进行操作。

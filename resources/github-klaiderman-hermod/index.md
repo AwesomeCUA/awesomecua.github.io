@@ -1,3 +1,11 @@
+---
+title: "Hermod | AwesomeCUA"
+url: https://awesomecua.com/resources/github-klaiderman-hermod/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hermod
 
 NestJS browser-automation service that answers prompts by driving web LLM interfaces in headless Chromium.

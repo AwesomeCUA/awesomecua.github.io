@@ -1,3 +1,11 @@
+---
+title: "DualKey · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wadekeith-dualkey-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DualKey
 
 DualKey 对 AI 智能体动作实施确定性策略检查、人工审批和加密签名回执。

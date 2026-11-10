@@ -1,3 +1,11 @@
+---
+title: "MediSetu Lens | AwesomeCUA"
+url: https://awesomecua.com/resources/github-furyydev-medisetu-lens/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # MediSetu Lens
 
 Browser agent that searches and compares generic medicine availability and pricing across API-less pharmacy portals.

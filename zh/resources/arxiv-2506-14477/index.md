@@ -1,3 +1,11 @@
+---
+title: "GUI-Robust: A Comprehensive Dataset for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-14477/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies
 
 构建包含真实交互异常的 GUI 任务数据，并评估这些条件下智能体行为的变化。
@@ -27,6 +35,18 @@ Jingqi Yang, Zhilong Song, Jiawei Chen, Mingli Song, Sheng Zhou, linjun sun, Xia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-14477/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-14477/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_14477,
+  title = {{GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies}},
+  author = {{Jingqi Yang} and {Zhilong Song} and {Jiawei Chen} and {Mingli Song} and {Sheng Zhou} and {linjun sun} and {Xiaogang Ouyang} and {Chun Chen} and {Can Wang}},
+  year = {2025},
+  eprint = {2506.14477v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.14477v1},
+  note = {First published: 2025-06-17; Recorded arXiv version: v1; Recorded version updated: 2025-06-17T12:50:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

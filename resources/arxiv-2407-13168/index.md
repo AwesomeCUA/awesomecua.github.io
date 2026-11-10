@@ -1,3 +1,11 @@
+---
+title: "SciCode: A Research Coding Benchmark Curated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-13168/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SciCode: A Research Coding Benchmark Curated by Scientists
 
 Bibliographic record for SciCode: A Research Coding Benchmark Curated by Scientists. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-13168/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-13168/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_13168,
+  title = {{SciCode: A Research Coding Benchmark Curated by Scientists}},
+  author = {{Minyang Tian} and {Luyu Gao} and {Shizhuo Dylan Zhang} and {Xinan Chen} and {Cunwei Fan} and {Xuefei Guo} and {Roland Haas} and {Pan Ji} and {Kittithat Krongchon} and {Yao Li} and {Shengyan Liu} and {Di Luo} and {Yutao Ma} and {Hao Tong} and {Kha Trinh} and {Chenyu Tian} and {Zihan Wang} and {Bohao Wu} and {Yanyu Xiong} and {Shengzhu Yin} and {Minhui Zhu} and {Kilian Lieret} and {Yanxin Lu} and {Genglin Liu} and {Yufeng Du} and {Tianhua Tao} and {Ofir Press} and {Jamie Callan} and {Eliu Huerta} and {Hao Peng}},
+  year = {2024},
+  eprint = {2407.13168v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.13168v1},
+  note = {First published: 2024-07-18; Recorded arXiv version: v1; Recorded version updated: 2024-07-18T05:15:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

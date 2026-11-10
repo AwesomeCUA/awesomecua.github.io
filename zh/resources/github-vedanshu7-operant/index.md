@@ -1,3 +1,11 @@
+---
+title: "Vedanshu7 Operant · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vedanshu7-operant/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Vedanshu7 Operant
 
 通过 LLM 探索一次如何在没有 API 的应用中完成任务，并将轨迹编译为可重复执行的形式。

@@ -1,3 +1,11 @@
+---
+title: "Open Claude in Chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-noemica-io-open-claude-in-chrome/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Open Claude in Chrome
 
 Open Claude in Chrome 通过扩展程序和 MCP 服务器让 Claude Code 操作 Chromium 浏览器，并提供浏览器会话录制功能。

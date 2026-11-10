@@ -1,3 +1,11 @@
+---
+title: "PlanGenLLMs: A Modern Survey of LLM Planning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-11221/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PlanGenLLMs: A Modern Survey of LLM Planning Capabilities
 
 Bibliographic record for PlanGenLLMs: A Modern Survey of LLM Planning Capabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hui Wei, Zihao Zhang, Shenghua He, Tian Xia, Shijia Pan, Fei Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-11221/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-11221/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_11221,
+  title = {{PlanGenLLMs: A Modern Survey of LLM Planning Capabilities}},
+  author = {{Hui Wei} and {Zihao Zhang} and {Shenghua He} and {Tian Xia} and {Shijia Pan} and {Fei Liu}},
+  year = {2025},
+  eprint = {2502.11221v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.11221v3},
+  note = {First published: 2025-02-16; Recorded arXiv version: v3; Recorded version updated: 2025-06-23T05:32:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

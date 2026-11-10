@@ -1,3 +1,11 @@
+---
+title: "CaptchaArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-x0x0x00-captchaarena/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # CaptchaArena
 
 CaptchaArena 提供实时服务器和涵盖 20 种交互式 CAPTCHA 类型的细粒度轨迹数据集，用于评测计算机使用智能体。

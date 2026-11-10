@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fd2143b0da03ceedf25c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # UGround-V1-2B
 
 UGround-V1-2B is a Qwen2-VL-based checkpoint for locating targets in GUI screenshots, with reported evaluations on mobile, desktop, and web screens.

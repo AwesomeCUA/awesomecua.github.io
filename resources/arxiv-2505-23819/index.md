@@ -1,3 +1,11 @@
+---
+title: "Linear Layouts: Robust Code Generation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-23819/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Linear Layouts: Robust Code Generation of Efficient Tensor Computation Using $\mathbb{F}_2$
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "LLM-Explorer: Towards Efficient and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-10593/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps
 
 LLM-Explorer 利用语言模型为移动应用探索维护精简的知识记录，生成后续操作时无需每一步都调用模型；研究比较了二十款应用的探索覆盖率和成本。
@@ -27,6 +35,18 @@ Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-10593/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-10593/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_10593,
+  title = {{LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps}},
+  author = {{Shanhui Zhao} and {Hao Wen} and {Wenjie Du} and {Cheng Liang} and {Yunxin Liu} and {Xiaozhou Ye} and {Ye Ouyang} and {Yuanchun Li}},
+  year = {2025},
+  eprint = {2505.10593v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.10593v1},
+  note = {First published: 2025-05-15; Recorded arXiv version: v1; Recorded version updated: 2025-05-15T05:28:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

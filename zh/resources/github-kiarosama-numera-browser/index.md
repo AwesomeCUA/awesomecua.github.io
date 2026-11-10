@@ -1,3 +1,11 @@
+---
+title: "Numera Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kiarosama-numera-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Numera Browser
 
 本地优先的多配置文件浏览器管理器，用于隔离测试和智能体网页自动化。

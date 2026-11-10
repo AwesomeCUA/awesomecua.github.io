@@ -1,3 +1,11 @@
+---
+title: "Project Tendril | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gadgethd-project-tendril/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Project Tendril
 
 Local-first Chromium browser and web-research runtime for autonomous AI agents.

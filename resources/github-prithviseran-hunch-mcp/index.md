@@ -1,3 +1,11 @@
+---
+title: "Hunch MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prithviseran-hunch-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hunch MCP
 
 Focus-free background macOS automation MCP server combining OS APIs, AppleScript, Chrome CDP, and Accessibility trees.

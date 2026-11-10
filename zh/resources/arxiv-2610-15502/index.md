@@ -1,3 +1,11 @@
+---
+title: "From Observations to Authorized Actions… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-15502/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # From Observations to Authorized Actions: Measuring Source Information in Android Agents
 
 测量 Android 无障碍信息在来源归属上的局限，并分别测试通过应用历史和所选 WebView 对象检查来授权 AppFunctions 操作。
@@ -27,6 +35,18 @@ Hyobin Ahn, Dongjae Lee
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-15502/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-15502/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15502,
+  title = {{From Observations to Authorized Actions: Measuring Source Information in Android Agents}},
+  author = {{Hyobin Ahn} and {Dongjae Lee}},
+  year = {2026},
+  eprint = {2610.15502v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15502v1},
+  note = {First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T10:09:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

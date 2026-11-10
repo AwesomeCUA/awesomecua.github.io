@@ -1,3 +1,11 @@
+---
+title: "From Imperative to Declarative: Towards… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-04607/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents
 
 Introduces a Declarative Model Interface that maps existing GUIs to access, state and observation primitives while handling low-level interactions. Evaluation uses Word, PowerPoint and Excel on Windows with a GUI-agent baseline.
@@ -26,6 +34,18 @@ Yuan Wang, Mingyu Li, Haibo Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-04607/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-04607/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04607,
+  title = {{From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents}},
+  author = {{Yuan Wang} and {Mingyu Li} and {Haibo Chen}},
+  year = {2025},
+  eprint = {2510.04607v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04607v2},
+  note = {First published: 2025-10-06; Recorded arXiv version: v2; Recorded version updated: 2026-03-25T11:29:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

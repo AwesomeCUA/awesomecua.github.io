@@ -1,3 +1,11 @@
+---
+title: "CRAB | AwesomeCUA"
+url: https://awesomecua.com/resources/github-camel-ai-crab/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # CRAB
 
 Cross-environment benchmark framework for multimodal agents.

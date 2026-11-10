@@ -1,3 +1,11 @@
+---
+title: "Fintor/Fintor-GUI-S2 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0b3bb9fac5b0ba9777b8/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Fintor/Fintor-GUI-S2
 
 Fintor-GUI-S2 是基于 UI-TARS-7B-DPO、使用 OS-Copilot 数据微调的界面定位模型。模型卡报告了 ScreenSpot Pro 和 v2 评测。

@@ -1,3 +1,11 @@
+---
+title: "winter40611 Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-winter40611-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # winter40611 Browser Agent
 
 Spring Boot, LangChain4j, and MCP agent backend enabling remote PC and browser automation via WeChat iLink.

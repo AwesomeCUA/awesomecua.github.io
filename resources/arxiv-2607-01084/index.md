@@ -1,3 +1,11 @@
+---
+title: "Can Agents Generalize to the Open World?… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-01084/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
 
 Status: excluded from the active CUA catalog after scope review.

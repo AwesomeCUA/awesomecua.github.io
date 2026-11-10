@@ -1,3 +1,11 @@
+---
+title: "DroidBot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-honeynet-droidbot/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # DroidBot
 
 DroidBot generates scripted or model-guided inputs for Android app testing and records UI transitions, view structures, and method traces.

@@ -1,3 +1,11 @@
+---
+title: "EnIGMA: Interactive Tools Substantially… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-16165/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # EnIGMA: Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities
 
 Bibliographic record for EnIGMA: Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Talor Abramovich, Meet Udeshi, Minghao Shao, Kilian Lieret, Haoran Xi, Kimberly 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-16165/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-16165/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_16165,
+  title = {{EnIGMA: Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities}},
+  author = {{Talor Abramovich} and {Meet Udeshi} and {Minghao Shao} and {Kilian Lieret} and {Haoran Xi} and {Kimberly Milner} and {Sofija Jancheska} and {John Yang} and {Carlos E. Jimenez} and {Farshad Khorrami} and {Prashanth Krishnamurthy} and {Brendan Dolan-Gavitt} and {Muhammad Shafique} and {Karthik Narasimhan} and {Ramesh Karri} and {Ofir Press}},
+  year = {2024},
+  eprint = {2409.16165v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.16165v3},
+  note = {First published: 2024-09-24; Recorded arXiv version: v3; Recorded version updated: 2025-06-05T10:58:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

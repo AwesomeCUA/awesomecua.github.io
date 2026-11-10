@@ -1,3 +1,11 @@
+---
+title: "Helm · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tylergibbs1-helm/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Helm
 
 语义化浏览器自动化 MCP 服务器，提供 27 个工具，支持基于标签的元素定位和结构化页面状态。

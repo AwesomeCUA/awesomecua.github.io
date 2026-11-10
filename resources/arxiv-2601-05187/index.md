@@ -1,3 +1,11 @@
+---
+title: "SimuAgent: An LLM-Based Simulink Modeling… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-05187/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning
 
 Bibliographic record for SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yanchang Liang, Xiaowei Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-05187/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-05187/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_05187,
+  title = {{SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning}},
+  author = {{Yanchang Liang} and {Xiaowei Zhao}},
+  year = {2026},
+  eprint = {2601.05187v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.05187v1},
+  note = {First published: 2026-01-08; Recorded arXiv version: v1; Recorded version updated: 2026-01-08T18:10:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

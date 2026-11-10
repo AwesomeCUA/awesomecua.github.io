@@ -1,3 +1,11 @@
+---
+title: "Kryptic | AwesomeCUA"
+url: https://awesomecua.com/resources/github-adnqcr7-code-kryptic/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Kryptic
 
 Local-first AI engineering and browser-control agent runtime with bounded execution, verification, and self-repair.

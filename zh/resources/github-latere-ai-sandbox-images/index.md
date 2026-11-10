@@ -1,3 +1,11 @@
+---
+title: "Latere Sandbox Images · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-latere-ai-sandbox-images/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Latere Sandbox Images
 
 面向编码智能体和计算机使用桌面智能体的容器镜像，兼容 Docker、Podman 和 Cella 沙箱。

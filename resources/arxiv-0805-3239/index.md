@@ -1,3 +1,11 @@
+---
+title: "A robust system for Quantum Computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0805-3239/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A robust system for Quantum Computation using Coherent Population Trap states of neutral atoms
 
 Status: excluded from the active CUA catalog after scope review.

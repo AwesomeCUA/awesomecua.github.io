@@ -1,3 +1,11 @@
+---
+title: "Codex Idle Resume | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yaro-elipox-codex-idle-resume/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex Idle Resume
 
 Automatically resumes interrupted macOS Codex Computer Use tasks after system idle or rate-limit cooldowns.

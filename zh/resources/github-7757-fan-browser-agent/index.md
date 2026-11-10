@@ -1,3 +1,11 @@
+---
+title: "Fan · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-7757-fan-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Fan
 
 Electron 桌面智能体通过编号 DOM 和无障碍快照操作内嵌的可见 Chromium 浏览器，运行有边界的 JavaScript 浏览器事务，并在登录和高风险步骤交还控制权。

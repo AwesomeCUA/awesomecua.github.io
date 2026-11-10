@@ -1,3 +1,11 @@
+---
+title: "Adaptation of Computer Use Agents to New… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-23012/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # Adaptation of Computer Use Agents to New Software with User Manuals
 
 MAGE 将检索到的软件手册章节纳入固定执行计划，并生成设置任务与主任务的计划配对；其 GUI 执行轨迹支持通过分轮 GRPO 适配特定应用的策略。
@@ -27,6 +35,18 @@ Chulhoon Yoon, Kyungri Park, Jinyeong Yun, Daeyun Jeong, Sukmin Yun, Woohwan Jun
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-23012/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-23012/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23012,
+  title = {{Adaptation of Computer Use Agents to New Software with User Manuals}},
+  author = {{Chulhoon Yoon} and {Kyungri Park} and {Jinyeong Yun} and {Daeyun Jeong} and {Sukmin Yun} and {Woohwan Jung}},
+  year = {2026},
+  eprint = {2610.23012v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23012v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T06:44:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

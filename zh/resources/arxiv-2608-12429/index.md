@@ -1,3 +1,11 @@
+---
+title: "SynWeaver: Website-Prior Task and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-12429/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents
 
 SynWeaver 探索网站，建立页面状态与可执行交互的映射，再学习用于提出任务的网站先验；联合生成任务和轨迹时修正不一致的配对，并验证或修复所得监督数据。
@@ -27,6 +35,18 @@ Ruitao Wang, Yuwen Hao, Menglin Yang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-12429/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-12429/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_12429,
+  title = {{SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents}},
+  author = {{Ruitao Wang} and {Yuwen Hao} and {Menglin Yang}},
+  year = {2026},
+  eprint = {2608.12429v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.12429v1},
+  note = {First published: 2026-08-12; Recorded arXiv version: v1; Recorded version updated: 2026-08-12T12:03:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "ZRui-C DSH Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ZRui-C DSH Computer Use
 
 Text-first browser and background macOS window control plugin for DeepSeek Harness.

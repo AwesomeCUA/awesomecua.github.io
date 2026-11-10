@@ -1,3 +1,11 @@
+---
+title: "Medical Imaging Classification with Cold-Atom… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-06727/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training
 
 Status: excluded from the active CUA catalog after scope review.

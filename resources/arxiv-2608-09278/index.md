@@ -1,3 +1,11 @@
+---
+title: "Software Engineering for and with GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-09278/
+updated: 2026-11-06
+type: survey
+lang: en
+---
+
 # Software Engineering for and with GUI Agent
 
 Surveys 336 GUI-agent papers through a software engineering lens, covering architectures, evaluation, and lifecycle concerns in mobile and web settings.
@@ -26,6 +34,18 @@ Shengcheng Yu, Yuchen Ling, Junyang Xing, Quan Zhou, Chunrong Fang, Zhenyu Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-09278/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-09278/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_09278,
+  title = {{Software Engineering for and with GUI Agent}},
+  author = {{Shengcheng Yu} and {Yuchen Ling} and {Junyang Xing} and {Quan Zhou} and {Chunrong Fang} and {Zhenyu Chen}},
+  year = {2026},
+  eprint = {2608.09278v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.09278v1},
+  note = {First published: 2026-08-10; Recorded arXiv version: v1; Recorded version updated: 2026-08-10T08:33:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

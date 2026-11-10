@@ -1,3 +1,11 @@
+---
+title: "GameWorld: Towards Standardized and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-07429/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
 
 提出浏览器游戏基准 GameWorld，通过结果校验评测以键鼠控制或语义动作操作游戏的多模态智能体。
@@ -27,6 +35,18 @@ Mingyu Ouyang, Siyuan Hu, Kevin Qinghong Lin, Hwee Tou Ng, Mike Zheng Shou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-07429/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-07429/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_07429,
+  title = {{GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents}},
+  author = {{Mingyu Ouyang} and {Siyuan Hu} and {Kevin Qinghong Lin} and {Hwee Tou Ng} and {Mike Zheng Shou}},
+  year = {2026},
+  eprint = {2604.07429v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.07429v1},
+  note = {First published: 2026-04-08; Recorded arXiv version: v1; Recorded version updated: 2026-04-08T17:49:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

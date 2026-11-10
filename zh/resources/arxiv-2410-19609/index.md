@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager: Building Multimodal Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-19609/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization
 
 通过反复进行真实网页探索、轨迹反馈和策略优化，开发多模态浏览器智能体。
@@ -27,6 +35,18 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Z
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-19609/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-19609/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_19609,
+  title = {{OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization}},
+  author = {{Hongliang He} and {Wenlin Yao} and {Kaixin Ma} and {Wenhao Yu} and {Hongming Zhang} and {Tianqing Fang} and {Zhenzhong Lan} and {Dong Yu}},
+  year = {2024},
+  eprint = {2410.19609v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.19609v1},
+  note = {First published: 2024-10-25; Recorded arXiv version: v1; Recorded version updated: 2024-10-25T15:01:27Z.}
+}
+```
 
 ## 发表记录
 

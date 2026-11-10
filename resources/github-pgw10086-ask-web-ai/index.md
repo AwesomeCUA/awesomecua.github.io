@@ -1,3 +1,11 @@
+---
+title: "ask-web-ai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pgw10086-ask-web-ai/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ask-web-ai
 
 Universal Agent Skill and CLI allowing a host coding agent to consult web-based AI chat sessions via browser automation.

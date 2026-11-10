@@ -1,3 +1,11 @@
+---
+title: "SAP SuccessFactors Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-successfactors-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SAP SuccessFactors Browser Automation
 
 用于 SAP SuccessFactors 的浏览器自动化脚手架，涵盖员工报表、员工目标、薪酬工作表和组织架构导出等操作。

@@ -1,3 +1,11 @@
+---
+title: "Firecrawl Agent-Browser Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-firecrawl-agent-browser-plugin-firecrawl/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Firecrawl Agent-Browser Plugin
 
 Official Firecrawl plugin for `agent-browser` combining cloud CDP browser sessions with structured web scraping, search, and crawling.

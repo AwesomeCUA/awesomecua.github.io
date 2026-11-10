@@ -1,13 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 19 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/19/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 19
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/19/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/)
-- [Parallels CLI Skill for Codex](https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/)
-- [Paseo Chrome Bridge](https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/)
-- [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/)
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/)
 - [pcbridge](https://awesomecua.com/resources/github-eymistaken-pcbridge/)
 - [pdlgen](https://awesomecua.com/resources/github-chromedp-pdlgen/)
@@ -64,3 +68,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [PuterVision Behavior-MCP](https://awesomecua.com/resources/github-putervision-behavior-mcp/)
 - [pyagentbrowser](https://awesomecua.com/resources/github-peter-gy-pyagentbrowser/)
 - [pyautogui_mcp_server](https://awesomecua.com/resources/github-on-panda-pyautogui-mcp-server/)
+- [PyMCPAutoGUI](https://awesomecua.com/resources/github-ahaufox-pymcpautogui/)
+- [pymobiledevice3](https://awesomecua.com/resources/github-doronz88-pymobiledevice3/)
+- [pyside6-mcp](https://awesomecua.com/resources/github-com55-pyside6-mcp/)
+- [Q1X Community Orchestrator](https://awesomecua.com/resources/github-quoralinex-q1x-community-orchestrator/)

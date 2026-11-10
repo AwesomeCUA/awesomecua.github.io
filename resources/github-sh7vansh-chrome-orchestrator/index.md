@@ -1,3 +1,11 @@
+---
+title: "Chrome Orchestrator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sh7vansh-chrome-orchestrator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome Orchestrator
 
 Unified Model Context Protocol gateway and dynamic container orchestrator for headless AI browser sessions.

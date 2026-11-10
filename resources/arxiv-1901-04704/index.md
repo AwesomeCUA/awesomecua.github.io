@@ -1,3 +1,11 @@
+---
+title: "DeepCF: A Unified Framework of Representation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1901-04704/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System
 
 Bibliographic record for DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhi-Hong Deng, Ling Huang, Chang-Dong Wang, Jian-Huang Lai, Philip S. Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1901-04704/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1901-04704/citation.csl.json
+
+```bibtex
+@misc{arxiv_1901_04704,
+  title = {{DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System}},
+  author = {{Zhi-Hong Deng} and {Ling Huang} and {Chang-Dong Wang} and {Jian-Huang Lai} and {Philip S. Yu}},
+  year = {2019},
+  eprint = {1901.04704v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1901.04704v1},
+  note = {First published: 2019-01-15; Recorded arXiv version: v1; Recorded version updated: 2019-01-15T08:25:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

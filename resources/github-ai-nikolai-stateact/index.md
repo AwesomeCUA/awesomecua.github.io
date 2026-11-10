@@ -1,3 +1,11 @@
+---
+title: "StateAct | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-nikolai-stateact/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # StateAct
 
 State-tracking prompts and experiment runners for language agents, including a WebShop implementation alongside text-based environments.

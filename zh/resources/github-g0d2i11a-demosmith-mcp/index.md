@@ -1,3 +1,11 @@
+---
+title: "demosmith-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-g0d2i11a-demosmith-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # demosmith-mcp
 
 Model Context Protocol 服务器，让 AI 智能体录制带有光标动画和旁白的自动化浏览器产品演示。

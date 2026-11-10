@@ -1,3 +1,11 @@
+---
+title: "InPars-v2: Large Language Models as Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-01820/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval
 
 Bibliographic record for InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Vitor Jeronymo, Luiz Bonifacio, Hugo Abonizio, Marzieh Fadaee, Roberto Lotufo, J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-01820/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-01820/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_01820,
+  title = {{InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval}},
+  author = {{Vitor Jeronymo} and {Luiz Bonifacio} and {Hugo Abonizio} and {Marzieh Fadaee} and {Roberto Lotufo} and {Jakub Zavrel} and {Rodrigo Nogueira}},
+  year = {2023},
+  eprint = {2301.01820v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.01820v4},
+  note = {First published: 2023-01-04; Recorded arXiv version: v4; Recorded version updated: 2023-05-26T22:16:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

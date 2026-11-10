@@ -1,3 +1,11 @@
+---
+title: "bdg - Browser Debugger CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-szymdzum-browser-debugger-cli/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # bdg - Browser Debugger CLI
 
 供智能体使用的浏览器命令行工具，可逐条执行页面导航与交互，并检查 DOM、网络请求、控制台输出和布局。

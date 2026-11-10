@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-235B-A22B-Thinking | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b8702b4ca9ceac2ca3ee/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-235B-A22B-Thinking
 
 A released Qwen3-VL vision-language checkpoint whose card describes PC and mobile GUI interaction, including recognizing interface elements, invoking tools, and completing tasks.

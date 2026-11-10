@@ -1,3 +1,11 @@
+---
+title: "SCA: Spatial Credit Assignment for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-36939/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SCA: Spatial Credit Assignment for Reinforcement Learning of GUI Agents
 
 Spatial Credit Assignment 利用点击坐标细化 GUI 定位的组相对强化学习更新，根据空间证据区分失败点击，同时保持部署时的操作策略不变。
@@ -27,6 +35,18 @@ Shengtian Yang, Ziyu Xiong, Kaibing Yang, Guangfeng Cai, Yewen Li, Peng Jiang, G
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-36939/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-36939/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36939,
+  title = {{SCA: Spatial Credit Assignment for Reinforcement Learning of GUI Agents}},
+  author = {{Shengtian Yang} and {Ziyu Xiong} and {Kaibing Yang} and {Guangfeng Cai} and {Yewen Li} and {Peng Jiang} and {Gai Kun} and {Qingpeng Cai} and {Lei Feng}},
+  year = {2026},
+  eprint = {2609.36939v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36939v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T07:51:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

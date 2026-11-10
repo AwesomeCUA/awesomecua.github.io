@@ -1,3 +1,11 @@
+---
+title: "Luna Mux · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rainj2013-luna-mux/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Luna Mux
 
 面向编程智能体的终端和浏览器工作台，具备自动注入 MCP、分屏、SSH/SFTP 和内嵌浏览器自动化功能。

@@ -1,3 +1,11 @@
+---
+title: "Online-Mind2Web task data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Online-Mind2Web task data
 
 Gated Hub release of the Online-Mind2Web task set: one JSON test split of tasks on live websites, 300 tasks on 136 sites per the project README, which the publishers revise when sites change.

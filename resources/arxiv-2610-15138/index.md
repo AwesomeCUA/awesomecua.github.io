@@ -1,3 +1,11 @@
+---
+title: "The Agent Clicks Approve: Injected Page Text… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-15138/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named
 
 Studies prompt-injected account-access approvals in browser agents and proposes a service-side authority envelope that checks authorization requests against the user task before allowing them to complete.
@@ -26,6 +34,18 @@ Md Imran Hossen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15138/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15138,
+  title = {{The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named}},
+  author = {{Md Imran Hossen}},
+  year = {2026},
+  eprint = {2610.15138v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15138v1},
+  note = {First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T19:30:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

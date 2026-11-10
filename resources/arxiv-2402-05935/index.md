@@ -1,3 +1,11 @@
+---
+title: "SPHINX-X: Scaling Data and Parameters for a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-05935/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models
 
 Bibliographic record for SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dongyang Liu, Renrui Zhang, Longtian Qiu, Siyuan Huang, Weifeng Lin, Shitian Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-05935/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-05935/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_05935,
+  title = {{SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models}},
+  author = {{Dongyang Liu} and {Renrui Zhang} and {Longtian Qiu} and {Siyuan Huang} and {Weifeng Lin} and {Shitian Zhao} and {Shijie Geng} and {Ziyi Lin} and {Peng Jin} and {Kaipeng Zhang} and {Wenqi Shao} and {Chao Xu} and {Conghui He} and {Junjun He} and {Hao Shao} and {Pan Lu} and {Hongsheng Li} and {Yu Qiao} and {Peng Gao}},
+  year = {2024},
+  eprint = {2402.05935v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.05935v3},
+  note = {First published: 2024-02-08; Recorded arXiv version: v3; Recorded version updated: 2025-03-21T10:19:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

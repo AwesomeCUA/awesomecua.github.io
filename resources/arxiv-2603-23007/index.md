@@ -1,3 +1,11 @@
+---
+title: "AgentRAE: Remote Action Execution through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-23007/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents
 
 AgentRAE studies notification-based visual backdoors that redirect mobile GUI-agent actions. Its training separates sensitivity to icon differences from trigger/action association, with evaluations of clean behavior and targeted redirection.
@@ -26,6 +34,18 @@ Yutao Luo, Haotian Zhu, Shuchao Pang, Zhigang Lu, Tian Dong, Yongbin Zhou, Minhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-23007/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-23007/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_23007,
+  title = {{AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents}},
+  author = {{Yutao Luo} and {Haotian Zhu} and {Shuchao Pang} and {Zhigang Lu} and {Tian Dong} and {Yongbin Zhou} and {Minhui Xue}},
+  year = {2026},
+  eprint = {2603.23007v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.23007v1},
+  note = {First published: 2026-03-24; Recorded arXiv version: v1; Recorded version updated: 2026-03-24T09:51:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

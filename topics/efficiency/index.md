@@ -1,3 +1,11 @@
+---
+title: "Efficiency — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/efficiency/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Efficiency
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -738,8 +746,6 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Lightweight computer-use CLI that coding agents invoke directly via shell commands without MCP schema overhead.
 - [desktop-hub](https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/) — Date not recorded
   Compact 10-tool (~2.3k token) facade MCP server for macOS desktop automation.
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/) — Date not recorded
-  DesktopAgent operates Windows desktop applications in the background using a local 0.33B System-One decision model (S1-Fast) and UI Automation.
 - [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/) — Date not recorded
   GPU-accelerated local macOS CLI for AI agents to inspect screen text/controls and dispatch mouse and keyboard actions.
 - [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/) — Date not recorded

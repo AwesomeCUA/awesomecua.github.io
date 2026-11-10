@@ -1,3 +1,11 @@
+---
+title: "GELab-Engine-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-41b685bbd42fbd4732da/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # GELab-Engine-7B
 
 Qwen2.5-VL 7B checkpoint released with GUI Exploration Lab, a synthetic GUI environment of screens linked by a navigation graph, where agents learn screen navigation through SFT, single-turn RL and multi-turn RL.

@@ -1,3 +1,11 @@
+---
+title: "Browser Agent (github.com/visnia-ai/browser-ag… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-visnia-ai-browser-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Browser Agent
 
 Browser Agent runs natural-language web tasks through Chromium. It offers a CLI and TypeScript and Python SDKs that stream progress and return task results.

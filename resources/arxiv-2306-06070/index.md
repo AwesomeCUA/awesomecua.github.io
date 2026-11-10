@@ -1,3 +1,11 @@
+---
+title: "Mind2Web: Towards a Generalist Agent for the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-06070/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Mind2Web: Towards a Generalist Agent for the Web
 
 Introduces a web-task dataset spanning diverse websites and evaluates generalization to unseen sites and domains.
@@ -26,6 +34,18 @@ Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-06070/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-06070/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_06070,
+  title = {{Mind2Web: Towards a Generalist Agent for the Web}},
+  author = {{Xiang Deng} and {Yu Gu} and {Boyuan Zheng} and {Shijie Chen} and {Samuel Stevens} and {Boshi Wang} and {Huan Sun} and {Yu Su}},
+  year = {2023},
+  eprint = {2306.06070v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.06070v3},
+  note = {First published: 2023-06-09; Recorded arXiv version: v3; Recorded version updated: 2023-12-09T05:57:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

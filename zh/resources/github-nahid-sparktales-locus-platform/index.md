@@ -1,3 +1,11 @@
+---
+title: "Locus Platform · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nahid-sparktales-locus-platform/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Locus Platform
 
 为 Locus 自动化生态系统提供共享智能体运行时、协议契约和浏览器桥接工具。

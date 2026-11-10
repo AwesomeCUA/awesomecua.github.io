@@ -1,3 +1,11 @@
+---
+title: "Tenmomo Browser Agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tenmomo-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Tenmomo Browser Agent
 
 仅限本机回环访问的 MCP 浏览器代理服务，以及作用于单个标签页的 Chrome 扩展，供编码智能体使用。

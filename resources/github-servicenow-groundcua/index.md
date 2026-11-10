@@ -1,3 +1,11 @@
+---
+title: "GroundCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-servicenow-groundcua/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # GroundCUA
 
 GroundCUA releases 56,000 desktop screenshots with 3.56M human-verified UI element annotations across 87 applications plus GroundNext models.

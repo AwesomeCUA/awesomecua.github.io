@@ -1,3 +1,11 @@
+---
+title: "hai-agents (hcompai/hai-agents-ts) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hcompai-hai-agents-ts/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # hai-agents
 
 这是通过 H Company 的 Agents API 运行浏览器智能体的 TypeScript SDK。它提供会话控制、进度事件，以及在任务执行中引导智能体的方法。

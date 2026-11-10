@@ -1,3 +1,11 @@
+---
+title: "IChart2Code: Benchmarking Multimodal Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32413/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # IChart2Code: Benchmarking Multimodal Large Language Models for Interactive Chart Code Generation
 
 Bibliographic record for IChart2Code: Benchmarking Multimodal Large Language Models for Interactive Chart Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xu Zhang, Hongzhang Zheng, Zhili Huang, Yaoyi Wang, Ling Xu, Sheng Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32413/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32413/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32413,
+  title = {{IChart2Code: Benchmarking Multimodal Large Language Models for Interactive Chart Code Generation}},
+  author = {{Xu Zhang} and {Hongzhang Zheng} and {Zhili Huang} and {Yaoyi Wang} and {Ling Xu} and {Sheng Huang}},
+  year = {2026},
+  eprint = {2609.32413v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32413v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T09:40:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

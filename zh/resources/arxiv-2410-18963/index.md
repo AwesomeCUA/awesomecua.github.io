@@ -1,3 +1,11 @@
+---
+title: "OSCAR: Operating System Control via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-18963/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning
 
 OSCAR 观察屏幕图像，将用户指令转为 Python 控制代码，并通过鼠标和键盘执行操作；状态机控制器在桌面和移动应用任务执行中处理错误并重新规划。
@@ -27,6 +35,18 @@ Xiaoqiang Wang, Bang Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-18963/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-18963/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_18963,
+  title = {{OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning}},
+  author = {{Xiaoqiang Wang} and {Bang Liu}},
+  year = {2024},
+  eprint = {2410.18963v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.18963v1},
+  note = {First published: 2024-10-24; Recorded arXiv version: v1; Recorded version updated: 2024-10-24T17:58:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

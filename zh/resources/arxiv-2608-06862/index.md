@@ -1,3 +1,11 @@
+---
+title: "SynChain: Inducing Computer-Use Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-06862/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chains
 
 提出 SynChain，诱导持久运行的智能体自行创建受污染的技能或记忆条目；CUAChain 用于评测攻击链在后续任务中的激活。
@@ -27,6 +35,18 @@ Fuyao Zhang, Jiaming Zhang, Che Wang, Boyang Chen, Yurong Hao, Xiongtao Sun, Guo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-06862/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-06862/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_06862,
+  title = {{SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chains}},
+  author = {{Fuyao Zhang} and {Jiaming Zhang} and {Che Wang} and {Boyang Chen} and {Yurong Hao} and {Xiongtao Sun} and {Guowei Guan} and {Blaise Delattre} and {Yang Cao} and {Wei Yang Bryan Lim}},
+  year = {2026},
+  eprint = {2608.06862v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.06862v1},
+  note = {First published: 2026-08-07; Recorded arXiv version: v1; Recorded version updated: 2026-08-07T06:39:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Agent Safety Should Be a Runtime Contract | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-11274/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agent Safety Should Be a Runtime Contract
 
 Bibliographic record for Agent Safety Should Be a Runtime Contract. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Albus W. Ng, Yi Han, Jusheng Zhang, Wenhao Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-11274/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-11274/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_11274,
+  title = {{Agent Safety Should Be a Runtime Contract}},
+  author = {{Albus W. Ng} and {Yi Han} and {Jusheng Zhang} and {Wenhao Wang}},
+  year = {2026},
+  eprint = {2608.11274v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.11274v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T08:01:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

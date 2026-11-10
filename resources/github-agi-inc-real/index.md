@@ -1,3 +1,11 @@
+---
+title: "REAL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agi-inc-real/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # REAL
 
 A browser-agent evaluation toolkit with reproducible website replicas, task goals, an agent API, and a benchmarking harness.

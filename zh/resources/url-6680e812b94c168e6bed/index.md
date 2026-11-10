@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Group · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6680e812b94c168e6bed/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Screen2AX-Group
 
 一个包含 macOS 应用截图、边界框和界面组标签的数据集，用于训练和评估界面目标检测模型。

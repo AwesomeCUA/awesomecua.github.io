@@ -1,3 +1,11 @@
+---
+title: "Minimal surface computation using a finite… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1403-3535/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Minimal surface computation using a finite element method on an embedded surface
 
 Status: excluded from the active CUA catalog after scope review.

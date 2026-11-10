@@ -1,3 +1,11 @@
+---
+title: "Codex Managed Channel · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fantasyce-codex-managed-channel/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex Managed Channel
 
 受生命周期控制的 SSH 通道管理器，用于驱动远程 Mac 上的 Codex Desktop 会话。

@@ -1,3 +1,11 @@
+---
+title: "adbutils | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openatx-adbutils/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # adbutils
 
 A Python client for the ADB server that lists and connects devices, runs shell commands, forwards ports, transfers files, takes screenshots and sends taps, swipes and key events.

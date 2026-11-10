@@ -1,3 +1,11 @@
+---
+title: "Mobile Next MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobile-next-mobile-mcp/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # Mobile Next MCP
 
 An MCP server exposing mobile accessibility snapshots, screenshots and device interactions across real devices, simulators and emulators.

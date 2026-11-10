@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint-GUISyn (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-allenai-molmopoint-guisyn/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # MolmoPoint-GUISyn
 
 A pipeline for synthetic GUI grounding data. It renders generated HTML into screenshots, extracts visible element boxes, and adds semantic names and interaction intents.

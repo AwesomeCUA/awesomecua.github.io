@@ -1,3 +1,11 @@
+---
+title: "only-cli/benchmarks · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-only-cli-benchmarks/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # only-cli/benchmarks
 
 这套可复现的基准测试比较智能体读取实时网页所用的工具，通过页面查看和浏览任务衡量内容获取情况、耗时及令牌用量。

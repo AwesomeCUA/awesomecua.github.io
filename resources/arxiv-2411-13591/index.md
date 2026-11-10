@@ -1,3 +1,11 @@
+---
+title: "Improved GUI Grounding via Iterative Narrowing | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-13591/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Improved GUI Grounding via Iterative Narrowing
 
 Uses iterative visual narrowing to improve localization of requested GUI elements with general or specially trained vision-language models.
@@ -26,6 +34,18 @@ Anthony Nguyen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-13591/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-13591/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_13591,
+  title = {{Improved GUI Grounding via Iterative Narrowing}},
+  author = {{Anthony Nguyen}},
+  year = {2024},
+  eprint = {2411.13591v7},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.13591v7},
+  note = {First published: 2024-11-18; Recorded arXiv version: v7; Recorded version updated: 2025-09-11T16:37:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

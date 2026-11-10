@@ -1,3 +1,11 @@
+---
+title: "vnc-computer-use CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eyhn-vnc/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # vnc-computer-use CLI
 
 Command-line interface for computer-use agents to capture screenshots and dispatch mouse and keyboard actions over VNC.

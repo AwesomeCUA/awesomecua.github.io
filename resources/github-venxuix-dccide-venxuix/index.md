@@ -1,3 +1,11 @@
+---
+title: "Venxuix Dccide | AwesomeCUA"
+url: https://awesomecua.com/resources/github-venxuix-dccide-venxuix/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Venxuix Dccide
 
 2D/3D agentic operating environment layered above Windows where humans and AI agents co-orchestrate desktop tasks.

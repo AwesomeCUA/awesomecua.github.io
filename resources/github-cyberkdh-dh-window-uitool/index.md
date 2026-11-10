@@ -1,3 +1,11 @@
+---
+title: "DH.Window.UITool | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cyberkdh-dh-window-uitool/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DH.Window.UITool
 
 Windows UI Automation inspection and scripting tool for analyzing UI element trees and building repeatable desktop workflows.

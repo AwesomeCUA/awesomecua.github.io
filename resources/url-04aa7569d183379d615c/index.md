@@ -1,3 +1,11 @@
+---
+title: "PC-Agent-E checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-04aa7569d183379d615c/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # PC-Agent-E checkpoint
 
 Computer-use checkpoint fine-tuned on PC-Agent-E trajectories; the model-card prose identifies Qwen2.5-VL-72B-Instruct as its starting model.

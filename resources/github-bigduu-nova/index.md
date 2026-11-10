@@ -1,3 +1,11 @@
+---
+title: "Nova (Rust Cross-Platform CUA MCP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bigduu-nova/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Nova (Rust Cross-Platform CUA MCP)
 
 Cross-platform Rust computer-use MCP server for macOS and Windows combining AX/UIA accessibility trees, screenshots, OCR, and input.

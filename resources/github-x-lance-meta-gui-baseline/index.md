@@ -1,3 +1,11 @@
+---
+title: "META-GUI baseline | AwesomeCUA"
+url: https://awesomecua.com/resources/github-x-lance-meta-gui-baseline/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # META-GUI baseline
 
 Training and evaluation pipeline for conversational mobile GUI agents, with action prediction, response generation, and dataset processing.

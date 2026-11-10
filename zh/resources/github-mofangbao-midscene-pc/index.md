@@ -1,3 +1,11 @@
+---
+title: "midscene-pc · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mofangbao-midscene-pc/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # midscene-pc
 
 midscene-pc 将 Midscene.js 扩展到本地和远程 PC 桌面，使 Windows、Linux 和 macOS 上的 GUI 自动化可由自然语言驱动。

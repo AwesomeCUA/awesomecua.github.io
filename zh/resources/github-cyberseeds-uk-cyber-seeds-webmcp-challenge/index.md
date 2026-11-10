@@ -1,3 +1,11 @@
+---
+title: "Cyber Seeds WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Cyber Seeds WebMCP
 
 面向操作消费者网页仪表盘的 WebMCP 浏览器智能体、由人类授权的安全与同意模式。

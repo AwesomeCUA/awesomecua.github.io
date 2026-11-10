@@ -1,3 +1,11 @@
+---
+title: "Open-Sourcing Highly Capable Foundation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-09227/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Open-Sourcing Highly Capable Foundation Models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives
 
 Status: excluded from the active CUA catalog after scope review.

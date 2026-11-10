@@ -1,3 +1,11 @@
+---
+title: "libnut-core | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nut-tree-libnut-core/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # libnut-core
 
 libnut-core provides native C/C++ cross-platform mouse, keyboard, and screen hooks underlying the nut.js desktop automation framework.

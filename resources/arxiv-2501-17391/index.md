@@ -1,3 +1,11 @@
+---
+title: "LFTR: Learning-Free Token Reduction for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-17391/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LFTR: Learning-Free Token Reduction for Multimodal Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

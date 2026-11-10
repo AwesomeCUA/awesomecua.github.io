@@ -1,3 +1,11 @@
+---
+title: "ToolGen | AwesomeCUA"
+url: https://awesomecua.com/resources/github-reason-wang-toolgen/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ToolGen
 
 ToolGen represents external tools as virtual vocabulary tokens to unify massive-scale tool retrieval and execution via autoregressive generation.

@@ -1,3 +1,11 @@
+---
+title: "OpenAI Codex CLI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openai-codex/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OpenAI Codex CLI
 
 OpenAI Codex CLI 是本地终端和桌面编程智能体，可在操作系统强制隔离的沙箱中执行命令和编辑文件。

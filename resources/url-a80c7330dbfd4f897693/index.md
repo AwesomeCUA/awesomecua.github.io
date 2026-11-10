@@ -1,3 +1,11 @@
+---
+title: "InSTA 150k Tasks (v3) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a80c7330dbfd4f897693/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # InSTA 150k Tasks (v3)
 
 About 150k web navigation tasks from the InSTA project, each giving a website domain, an instruction, suggested steps and success criteria, with train and test splits drawn from different websites.

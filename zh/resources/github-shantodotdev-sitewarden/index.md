@@ -1,3 +1,11 @@
+---
+title: "SiteWarden · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shantodotdev-sitewarden/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SiteWarden
 
 用 Rust 编写的自主轻量级浏览器冒烟测试守护进程，用于持续验证网站。

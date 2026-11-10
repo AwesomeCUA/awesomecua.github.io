@@ -1,3 +1,11 @@
+---
+title: "Visual Adversarial Examples Jailbreak Aligned… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-13213/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Visual Adversarial Examples Jailbreak Aligned Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

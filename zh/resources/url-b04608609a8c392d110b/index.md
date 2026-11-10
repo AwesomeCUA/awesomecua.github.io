@@ -1,3 +1,11 @@
+---
+title: "UI2Code_N · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b04608609a8c392d110b/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # UI2Code_N
 
 一个将界面截图转换为代码、并支持迭代式界面编辑与完善的视觉语言模型。模型卡提供了从截图生成 HTML 的推理示例。

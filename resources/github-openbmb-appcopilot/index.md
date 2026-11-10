@@ -1,3 +1,11 @@
+---
+title: "AppCopilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openbmb-appcopilot/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AppCopilot
 
 AppCopilot is a multimodal mobile agent for tasks across Android apps. The repository provides code and setup steps for emulator or phone control through ADB.

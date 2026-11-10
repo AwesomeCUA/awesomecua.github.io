@@ -1,3 +1,11 @@
+---
+title: "Mobile-Bench-v2 released data · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1d5b85321b98765141fc/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # Mobile-Bench-v2 released data
 
 移动端智能体的离线任务数据，涵盖常见任务，并发布了含噪声、受污染和指令含糊的子集。

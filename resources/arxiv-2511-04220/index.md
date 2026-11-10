@@ -1,3 +1,11 @@
+---
+title: "Opus: A Quantitative Framework for Workflow… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-04220/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Opus: A Quantitative Framework for Workflow Evaluation
 
 Bibliographic record for Opus: A Quantitative Framework for Workflow Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Alan Seroul, Théo Fagnoni, Inès Adnani, Dana O. Mohamed, Phillip Kingston
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-04220/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-04220/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_04220,
+  title = {{Opus: A Quantitative Framework for Workflow Evaluation}},
+  author = {{Alan Seroul} and {Théo Fagnoni} and {Inès Adnani} and {Dana O. Mohamed} and {Phillip Kingston}},
+  year = {2025},
+  eprint = {2511.04220v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.04220v1},
+  note = {First published: 2025-11-06; Recorded arXiv version: v1; Recorded version updated: 2025-11-06T09:35:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

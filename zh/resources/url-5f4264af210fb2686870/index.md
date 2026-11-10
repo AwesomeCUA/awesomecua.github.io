@@ -1,3 +1,11 @@
+---
+title: "MirrorGuard checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5f4264af210fb2686870/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # MirrorGuard checkpoint
 
 Qwen2.5-VL-7B-Instruct 微调模型读取指令、历史、截图及计算机使用智能体的思路；安全时原样返回，有风险时改写或拒绝。

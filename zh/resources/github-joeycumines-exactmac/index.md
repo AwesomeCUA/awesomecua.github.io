@@ -1,3 +1,11 @@
+---
+title: "ExactMac · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-joeycumines-exactmac/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ExactMac
 
 ExactMac 通过 Swift gRPC 主机和 Go MCP 服务器，提供以 Accessibility 为优先方式、基于 MCP 的本地 macOS 桌面自动化。

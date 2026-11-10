@@ -1,3 +1,11 @@
+---
+title: "Collecting Interactive Multi-modal Datasets… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-06552/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Collecting Interactive Multi-modal Datasets for Grounded Language Understanding
 
 Bibliographic record for Collecting Interactive Multi-modal Datasets for Grounded Language Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shrestha Mohanty, Negar Arabzadeh, Milagro Teruel, Yuxuan Sun, Artem Zholus, Ale
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2211-06552/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2211-06552/citation.csl.json
+
+```bibtex
+@misc{arxiv_2211_06552,
+  title = {{Collecting Interactive Multi-modal Datasets for Grounded Language Understanding}},
+  author = {{Shrestha Mohanty} and {Negar Arabzadeh} and {Milagro Teruel} and {Yuxuan Sun} and {Artem Zholus} and {Alexey Skrynnik} and {Mikhail Burtsev} and {Kavya Srinet} and {Aleksandr Panov} and {Arthur Szlam} and {Marc-Alexandre Côté} and {Julia Kiseleva}},
+  year = {2022},
+  eprint = {2211.06552v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2211.06552v3},
+  note = {First published: 2022-11-12; Recorded arXiv version: v3; Recorded version updated: 2023-03-21T06:38:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

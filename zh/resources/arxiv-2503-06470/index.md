@@ -1,3 +1,11 @@
+---
+title: "Think Twice, Click Once: Enhancing GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-06470/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Think Twice, Click Once: Enhancing GUI Grounding via Fast and Slow Systems
 
 结合快速目标预测与审慎的界面分析，根据任务复杂度自适应选择定位过程。
@@ -27,6 +35,18 @@ Fei Tang, Yongliang Shen, Hang Zhang, Siqi Chen, Guiyang Hou, Wenqi Zhang, Wenqi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-06470/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-06470/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_06470,
+  title = {{Think Twice, Click Once: Enhancing GUI Grounding via Fast and Slow Systems}},
+  author = {{Fei Tang} and {Yongliang Shen} and {Hang Zhang} and {Siqi Chen} and {Guiyang Hou} and {Wenqi Zhang} and {Wenqiao Zhang} and {Kaitao Song} and {Weiming Lu} and {Yueting Zhuang}},
+  year = {2025},
+  eprint = {2503.06470v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.06470v1},
+  note = {First published: 2025-03-09; Recorded arXiv version: v1; Recorded version updated: 2025-03-09T06:14:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Dependent Task Offloading in Edge Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-17100/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

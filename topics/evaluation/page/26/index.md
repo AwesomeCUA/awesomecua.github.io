@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 26 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/26/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 26
 
 HTML page: https://awesomecua.com/topics/evaluation/page/26/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [VideoCAD training and evaluation code](https://awesomecua.com/resources/github-ghadinehme-videocad/)
 - [VillagerAgent & VillagerBench](https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/)
 - [VisionDroid](https://awesomecua.com/resources/github-testtesta6-visiondroid/)
 - [VISTA](https://awesomecua.com/resources/github-joshhhhhan-vista/)

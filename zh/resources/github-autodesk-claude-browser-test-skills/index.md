@@ -1,3 +1,11 @@
+---
+title: "Autodesk Claude Browser Test Skills · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-autodesk-claude-browser-test-skills/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Autodesk Claude Browser Test Skills
 
 Autodesk 的 Claude Code 插件，基于 Playwright MCP 提供端到端的浏览器测试编写、完善、编译和执行流程。

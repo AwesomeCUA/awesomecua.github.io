@@ -1,3 +1,11 @@
+---
+title: "LoginTrap: Uncovering Task-Agnostic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-04741/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents
 
 Introduces LoginTrap, a black-box indirect-injection evaluation in which attacker-controlled page context and login flows induce unauthorized authentication. It measures end-to-end private-data leakage across web-agent backbones, architectures and defenses.
@@ -26,6 +34,18 @@ Longtao Guo, Zelin Zhang, Kaifeng Huang, Yang Shi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-04741/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-04741/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_04741,
+  title = {{LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents}},
+  author = {{Longtao Guo} and {Zelin Zhang} and {Kaifeng Huang} and {Yang Shi}},
+  year = {2026},
+  eprint = {2608.04741v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.04741v1},
+  note = {First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T12:08:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

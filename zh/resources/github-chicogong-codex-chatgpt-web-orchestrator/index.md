@@ -1,3 +1,11 @@
+---
+title: "Codex ChatGPT Web Orchestrator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chicogong-codex-chatgpt-web-orchestrator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex ChatGPT Web Orchestrator
 
 由回执驱动的 Codex 技能，将深度研究和产物生成委派给已登录的 ChatGPT Web 会话。

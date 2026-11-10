@@ -1,3 +1,11 @@
+---
+title: "Oracle Agent Memory as an Enterprise Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-13157/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents
 
 Status: excluded from the active CUA catalog after scope review.

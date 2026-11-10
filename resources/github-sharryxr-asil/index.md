@@ -1,3 +1,11 @@
+---
+title: "ASIL (Agent-Software Interaction Layer) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sharryxr-asil/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ASIL (Agent-Software Interaction Layer)
 
 ASIL replaces screenshot-and-click loops with structured application state observations and semantic action interfaces for CUA.

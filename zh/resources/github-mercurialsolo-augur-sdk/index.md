@@ -1,3 +1,11 @@
+---
+title: "augur-sdk · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mercurialsolo-augur-sdk/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # augur-sdk
 
 augur-sdk 为基于截图定位的计算机使用智能体添加监测功能，记录结构化遥测数据包、截图和失败轨迹。

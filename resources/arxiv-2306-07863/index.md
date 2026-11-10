@@ -1,3 +1,11 @@
+---
+title: "Synapse: Trajectory-as-Exemplar Prompting… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-07863/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control
 
 Synapse filters task-irrelevant page state and places complete abstracted state-action trajectories into the prompt. An embedding-based exemplar memory retrieves relevant demonstrations for new tasks, evaluated on MiniWoB++ and Mind2Web.
@@ -26,6 +34,18 @@ Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-07863/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-07863/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_07863,
+  title = {{Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control}},
+  author = {{Longtao Zheng} and {Rundong Wang} and {Xinrun Wang} and {Bo An}},
+  year = {2023},
+  eprint = {2306.07863v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.07863v3},
+  note = {First published: 2023-06-13; Recorded arXiv version: v3; Recorded version updated: 2024-01-19T06:59:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

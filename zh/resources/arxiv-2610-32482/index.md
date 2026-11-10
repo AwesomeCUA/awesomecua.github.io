@@ -1,3 +1,11 @@
+---
+title: "WaitLens: Temporal VLM-Based Adaptive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-32482/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WaitLens: Temporal VLM-Based Adaptive Waiting for Industrial GUI Testing Agents
 
 提出 WaitLens，利用 GUI 加载过程记录训练视觉语言模型，判断测试智能体何时可以结束等待。
@@ -27,6 +35,18 @@ Shika Ikeura, Xuan Wang, Ziyi Kuang, Jianping Xu, Chao Kang, Yongxiang Hu, Xiaoy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-32482/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-32482/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_32482,
+  title = {{WaitLens: Temporal VLM-Based Adaptive Waiting for Industrial GUI Testing Agents}},
+  author = {{Shika Ikeura} and {Xuan Wang} and {Ziyi Kuang} and {Jianping Xu} and {Chao Kang} and {Yongxiang Hu} and {Xiaoyu Wang} and {Juxing Yuan} and {Yangfan Zhou}},
+  year = {2026},
+  eprint = {2610.32482v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.32482v1},
+  note = {First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T10:54:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

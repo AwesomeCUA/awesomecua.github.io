@@ -1,3 +1,11 @@
+---
+title: "Computer Agent Arena: Toward Human-Centric… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5cfd441becdfc6ea622b/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents
 
 Crowdsourced arena where users set tasks on cloud Ubuntu or Windows desktops, watch two anonymous computer-use agents attempt them side by side and vote; reports 2,201 votes over 12 agents.
@@ -26,6 +34,20 @@ Bowen Wang, Xinyuan Wang, Jiaqi Deng, Tianbao Xie, Ryan Li, Yanzhe Zhang, Junli 
 
 - BibTeX: https://awesomecua.com/resources/url-5cfd441becdfc6ea622b/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-5cfd441becdfc6ea622b/citation.csl.json
+
+```bibtex
+@inproceedings{cua_ae5bb5203bc0e7da7b846ad0,
+  title = {{Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents}},
+  author = {{Bowen Wang} and {Xinyuan Wang} and {Jiaqi Deng} and {Tianbao Xie} and {Ryan Li} and {Yanzhe Zhang} and {Junli Wang} and {Dunjie Lu} and {Zicheng Gong} and {Gavin Li} and {Toh Hua} and {Wei-Lin Chiang} and {Ion Stoica} and {Diyi Yang} and {Yu Su} and {Yi Zhang} and {Zhiguo Wang} and {Victor Zhong} and {Tao Yu}},
+  year = {2026},
+  month = apr,
+  booktitle = {International Conference on Learning Representations 2026 (ICLR 2026)},
+  volume = {2026},
+  pages = {58008-58068},
+  url = {https://openreview.net/forum?id=3x4SDbXbgl},
+  note = {Publication date: 2026-04-20.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "Vigil · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bofstudios-vigil/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Vigil
 
 原生 C# Windows 桌面 AI 助手，可通过语音唤醒词或快捷键调用，以执行系统和 GUI 任务。

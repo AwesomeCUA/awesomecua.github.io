@@ -1,3 +1,11 @@
+---
+title: "UniClawBench: A Universal Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-08768/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
 
 Introduces UniClawBench, a benchmark of proactive agents on bilingual real-world tasks, evaluated in live Docker containers with stepwise checkpoints and simulated user feedback.
@@ -26,6 +34,18 @@ Zhekai Chen, Chengqi Duan, Kaiyue Sun, Bohao Li, Yuqing Wang, Manyuan Zhang, Xih
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-08768/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-08768/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_08768,
+  title = {{UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks}},
+  author = {{Zhekai Chen} and {Chengqi Duan} and {Kaiyue Sun} and {Bohao Li} and {Yuqing Wang} and {Manyuan Zhang} and {Xihui Liu}},
+  year = {2026},
+  eprint = {2607.08768v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.08768v1},
+  note = {First published: 2026-07-09; Recorded arXiv version: v1; Recorded version updated: 2026-07-09T17:59:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

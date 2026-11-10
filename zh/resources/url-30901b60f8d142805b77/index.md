@@ -1,3 +1,11 @@
+---
+title: "The OS X Accessibility Model · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-30901b60f8d142805b77/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # The OS X Accessibility Model
 
 Apple 的 OS X 指南介绍辅助功能客户端如何检查应用的元素层级、读取控件属性、执行操作并接收界面变化通知。

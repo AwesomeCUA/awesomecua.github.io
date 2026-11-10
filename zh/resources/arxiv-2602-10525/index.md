@@ -1,3 +1,11 @@
+---
+title: "LHAW: Controllable Underspecification… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-10525/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # LHAW: Controllable Underspecification for Long-Horizon Tasks
 
 LHAW 为长期工作流程任务生成信息缺失的变体，并通过智能体试验评估哪些缺失信息需要澄清。
@@ -27,6 +35,18 @@ George Pu, Michael S. Lee, Udari Madhushani Sehwag, David J. Lee, Bryan Zhu, Yas
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-10525/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-10525/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_10525,
+  title = {{LHAW: Controllable Underspecification for Long-Horizon Tasks}},
+  author = {{George Pu} and {Michael S. Lee} and {Udari Madhushani Sehwag} and {David J. Lee} and {Bryan Zhu} and {Yash Maurya} and {Mohit Raghavendra} and {Yuan Xue} and {Samuel Marc Denton}},
+  year = {2026},
+  eprint = {2602.10525v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.10525v2},
+  note = {First published: 2026-02-11; Recorded arXiv version: v2; Recorded version updated: 2026-03-20T17:00:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

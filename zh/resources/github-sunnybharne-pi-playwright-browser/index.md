@@ -1,3 +1,11 @@
+---
+title: "pi-playwright-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sunnybharne-pi-playwright-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pi-playwright-browser
 
 供 Pi 编码智能体使用的隔离式 Playwright Chromium 浏览器工具。

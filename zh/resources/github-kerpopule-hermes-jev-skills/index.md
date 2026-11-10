@@ -1,3 +1,11 @@
+---
+title: "Hermes Jev Skills · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kerpopule-hermes-jev-skills/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Hermes Jev Skills
 
 面向 Hermes、Claude Code 和 Codex 智能体的 SKILL.md 技能集，把细小决策交给 Jev 模型，其中包括桌面与浏览器技能：由 Jev 从调用方构建的动作表中选出每一步动作。

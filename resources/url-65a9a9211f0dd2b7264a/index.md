@@ -1,3 +1,11 @@
+---
+title: "Komos | AwesomeCUA"
+url: https://awesomecua.com/resources/url-65a9a9211f0dd2b7264a/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Komos
 
 Hosted automation platform whose task flows use a prompt-driven agent to navigate, click, type and extract on websites in a cloud Chromium sandbox or self-hosted runner, built from narrated screen recordings or chat.

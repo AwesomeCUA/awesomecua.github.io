@@ -1,3 +1,11 @@
+---
+title: "APPINITE: A Multi-Modal Interface for… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions
 
 Introduces APPINITE, a conversational interface for specifying the intended targets of demonstrated Android actions. It constructs semantic UI representations and uses an on-screen overlay to preview and refine executable data descriptions.
@@ -26,6 +34,17 @@ Toby Jia-Jun Li, Igor Labutov, Xiaohan Nancy Li, Xiaoyi Zhang, Wenze Shi, Wanlin
 
 - BibTeX: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/citation.csl.json
+
+```bibtex
+@inproceedings{cua_753e73012e6a2483f242138b,
+  title = {{APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions}},
+  author = {{Toby Jia-Jun Li} and {Igor Labutov} and {Xiaohan Nancy Li} and {Xiaoyi Zhang} and {Wenze Shi} and {Wanling Ding} and {Tom M. Mitchell} and {Brad A. Myers}},
+  year = {2018},
+  booktitle = {Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing},
+  url = {https://ieeexplore.ieee.org/document/8506506},
+  note = {Publication date: 2018.}
+}
+```
 
 ## Publication record
 

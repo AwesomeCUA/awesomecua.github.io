@@ -1,3 +1,11 @@
+---
+title: "Paper Circle: An Open-source Multi-agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-06170/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework
 
 Status: excluded from the active CUA catalog after scope review.

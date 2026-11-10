@@ -1,3 +1,11 @@
+---
+title: "ODK Shell | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osmandkitay-odk-shell/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ODK Shell
 
 ODK Shell is an open-source natural-language computer control shell that translates user requests into OS and GUI commands.

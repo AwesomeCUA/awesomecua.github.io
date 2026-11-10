@@ -1,3 +1,11 @@
+---
+title: "ora webmcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ora-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ora webmcp
 
 Coding-agent plugin and toolkit for auditing, implementing, and verifying WebMCP support on websites.

@@ -1,3 +1,11 @@
+---
+title: "Kimi-VL-A3B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a42c3bca105218f17645/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Kimi-VL-A3B-Instruct
 
 Kimi-VL-A3B-Instruct is a vision-language checkpoint whose card reports performance on desktop agent interaction and screen grounding alongside general multimodal tasks.

@@ -1,3 +1,11 @@
+---
+title: "EyeBrowse · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-evil-bane-eyebrowse/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # EyeBrowse
 
 EyeBrowse 是可由 LLM 驱动的隐蔽浏览器引擎，同时提供 Python 库和包含 85 个工具的 Model Context Protocol 服务器。

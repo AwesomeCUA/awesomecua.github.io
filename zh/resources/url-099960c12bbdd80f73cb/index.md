@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-38B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-099960c12bbdd80f73cb/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-38B-HF
 
 这是 InternVL3.5 多模态模型家族的 HF 格式 38B 检查点；模型卡将图形界面交互列为其能力之一，并介绍了分阶段训练和推理。

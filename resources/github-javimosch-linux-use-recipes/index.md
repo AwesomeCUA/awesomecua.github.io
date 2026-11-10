@@ -1,3 +1,11 @@
+---
+title: "linux-use-recipes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-javimosch-linux-use-recipes/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # linux-use-recipes
 
 A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.

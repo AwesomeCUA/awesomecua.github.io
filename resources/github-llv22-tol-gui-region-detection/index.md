@@ -1,3 +1,11 @@
+---
+title: "ToL Hierarchical GUI region detection | AwesomeCUA"
+url: https://awesomecua.com/resources/github-llv22-tol-gui-region-detection/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ToL Hierarchical GUI region detection
 
 Code and configurations for training a hierarchical Android GUI region detector with DINO and running region inference on the ScreenPR benchmark.

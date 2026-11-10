@@ -1,3 +1,11 @@
+---
+title: "Avenir-Web · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-princeton-ai2-lab-avenir-web/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Avenir-Web
 
 Avenir-Web 使用混合式定位专家和体验跟踪记忆，训练模仿人类体验的多模态网页智能体。

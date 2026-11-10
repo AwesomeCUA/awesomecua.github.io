@@ -1,3 +1,11 @@
+---
+title: "pursr | AwesomeCUA"
+url: https://awesomecua.com/resources/github-0xheycat-pursr/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pursr
 
 Visual QA, accessibility auditing, screenshot diffing, and MCP browser automation toolkit.

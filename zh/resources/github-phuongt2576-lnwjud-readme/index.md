@@ -1,3 +1,11 @@
+---
+title: "lnwjud (Windows MCP Access) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-phuongt2576-lnwjud-readme/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # lnwjud (Windows MCP Access)
 
 通过 MCP、安全隧道和实时监控，为 AI 智能体提供原生 Windows 桌面访问能力。

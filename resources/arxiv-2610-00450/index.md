@@ -1,3 +1,11 @@
+---
+title: "ZoneClaw: Mitigating Persistent Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-00450/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ZoneClaw: Mitigating Persistent Memory Attacks by Establishing Memory-Zoning in OpenClaw-Style Computer-Use Agents
 
 Bibliographic record for ZoneClaw: Mitigating Persistent Memory Attacks by Establishing Memory-Zoning in OpenClaw-Style Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haokai Ma, Chieh Lin, Yupeng Qiu, Ee-Chien Chang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-00450/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-00450/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_00450,
+  title = {{ZoneClaw: Mitigating Persistent Memory Attacks by Establishing Memory-Zoning in OpenClaw-Style Computer-Use Agents}},
+  author = {{Haokai Ma} and {Chieh Lin} and {Yupeng Qiu} and {Ee-Chien Chang}},
+  year = {2026},
+  eprint = {2610.00450v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.00450v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T17:59:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

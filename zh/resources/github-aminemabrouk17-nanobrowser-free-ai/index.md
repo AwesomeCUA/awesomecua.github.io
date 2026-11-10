@@ -1,3 +1,11 @@
+---
+title: "Nanobrowser Free AI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aminemabrouk17-nanobrowser-free-ai/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Nanobrowser Free AI
 
 注重隐私的 Chrome 扩展多智能体网页自动化助手，基于免费额度的 Gemini 模型。

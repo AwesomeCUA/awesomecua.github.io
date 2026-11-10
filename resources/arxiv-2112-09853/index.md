@@ -1,3 +1,11 @@
+---
+title: "Scalable randomized benchmarking of quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-09853/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scalable randomized benchmarking of quantum computers using mirror circuits
 
 Status: excluded from the active CUA catalog after scope review.

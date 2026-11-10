@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Tree · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3821c0d8516819a50d28/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Screen2AX-Tree
 
 该数据集将 macOS 应用截图与序列化的无障碍树配对，用于训练模型从视觉输入重建界面层级结构。

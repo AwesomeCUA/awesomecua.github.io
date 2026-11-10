@@ -1,3 +1,11 @@
+---
+title: "DeskMind Eyes · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deskmind-ai-eyes/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # DeskMind Eyes
 
 DeskMind Eyes 是紧凑的 4B GUI 视觉定位模型及训练方案，用于在桌面截图中定位点击目标。

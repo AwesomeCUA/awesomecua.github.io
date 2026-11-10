@@ -1,3 +1,11 @@
+---
+title: "UI Debugger MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-developerz-ai-ui-debugger-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UI Debugger MCP
 
 自主 UI 调试 MCP 服务器，可操作浏览器和桌面应用以检测视觉及功能缺陷。

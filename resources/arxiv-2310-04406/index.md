@@ -1,3 +1,11 @@
+---
+title: "Language Agent Tree Search Unifies Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-04406/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models
 
 Bibliographic record for Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-04406/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-04406/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_04406,
+  title = {{Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models}},
+  author = {{Andy Zhou} and {Kai Yan} and {Michal Shlapentokh-Rothman} and {Haohan Wang} and {Yu-Xiong Wang}},
+  year = {2023},
+  eprint = {2310.04406v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.04406v3},
+  note = {First published: 2023-10-06; Recorded arXiv version: v3; Recorded version updated: 2024-06-06T02:51:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

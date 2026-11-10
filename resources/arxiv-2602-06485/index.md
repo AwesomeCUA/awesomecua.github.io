@@ -1,3 +1,11 @@
+---
+title: "AgentCPM-Explore: Realizing Long-Horizon Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-06485/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents
 
 Bibliographic record for AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haotian Chen, Xin Cong, Shengda Fan, Yuyang Fu, Ziqin Gong, Yaxi Lu, Yishan Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-06485/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-06485/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06485,
+  title = {{AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents}},
+  author = {{Haotian Chen} and {Xin Cong} and {Shengda Fan} and {Yuyang Fu} and {Ziqin Gong} and {Yaxi Lu} and {Yishan Li} and {Boye Niu} and {Chengjun Pan} and {Zijun Song} and {Huadong Wang} and {Yesai Wu} and {Yueying Wu} and {Zihao Xie} and {Yukun Yan} and {Zhong Zhang} and {Yankai Lin} and {Zhiyuan Liu} and {Maosong Sun}},
+  year = {2026},
+  eprint = {2602.06485v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06485v1},
+  note = {First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T08:24:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

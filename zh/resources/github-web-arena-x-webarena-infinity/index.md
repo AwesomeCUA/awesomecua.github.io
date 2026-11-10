@@ -1,3 +1,11 @@
+---
+title: "WebArena-Infinity · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-web-arena-x-webarena-infinity/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # WebArena-Infinity
 
 生成模仿 GitLab、PayPal、Xero、Elation EHR 等产品的网页应用，具备可重置状态及供浏览器智能体使用的 Python 验证任务，并附有构建应用的编程智能体流水线。

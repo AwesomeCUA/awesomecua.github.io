@@ -1,3 +1,11 @@
+---
+title: "SnapDOM · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zumerlab-snapdom/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SnapDOM
 
 SnapDOM 捕获浏览器中渲染的元素，并导出图像或结构化页面上下文。其插件可向智能体提供文本、JSON，以及带有元素映射的图像。

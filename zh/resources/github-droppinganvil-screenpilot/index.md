@@ -1,3 +1,11 @@
+---
+title: "ScreenPilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-droppinganvil-screenpilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ScreenPilot
 
 ScreenPilot 是设计用于在 8GB VRAM 内运行的本地计算机使用智能体，结合截图规划与鼠标、键盘控制。

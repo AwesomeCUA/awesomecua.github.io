@@ -1,3 +1,11 @@
+---
+title: "ScreenHand | AwesomeCUA"
+url: https://awesomecua.com/resources/github-manushi4-screenhand/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ScreenHand
 
 Open-source desktop automation MCP server that drives native macOS and Windows UI elements in ~50ms via OS accessibility APIs.

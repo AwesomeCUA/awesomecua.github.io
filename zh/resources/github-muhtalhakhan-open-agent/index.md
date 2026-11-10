@@ -1,3 +1,11 @@
+---
+title: "muhtalhakhan OpenAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-muhtalhakhan-open-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # muhtalhakhan OpenAgent
 
 自托管、与提供商无关的 AI 智能体运行时，支持浏览器自动化、Shell 执行和可扩展技能插件。

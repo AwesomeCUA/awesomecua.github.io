@@ -1,3 +1,11 @@
+---
+title: "Nuphus · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mrpulor-gh-nuphus/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Nuphus
 
 以本地运行为先的桌面 AI 智能体平台，支持在真实桌面 GUI 中执行操作，并配有移动端第二屏控制器。

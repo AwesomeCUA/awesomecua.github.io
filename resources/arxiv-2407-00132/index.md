@@ -1,3 +1,11 @@
+---
+title: "ShortcutsBench: A Large-Scale Real-world… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-00132/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents
 
 Bibliographic record for ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haiyang Shen, Yue Li, Desong Meng, Dongqi Cai, Sheng Qi, Li Zhang, Mengwei Xu, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-00132/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-00132/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_00132,
+  title = {{ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents}},
+  author = {{Haiyang Shen} and {Yue Li} and {Desong Meng} and {Dongqi Cai} and {Sheng Qi} and {Li Zhang} and {Mengwei Xu} and {Yun Ma}},
+  year = {2024},
+  eprint = {2407.00132v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.00132v3},
+  note = {First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2025-01-23T11:22:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "CombatVLA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chenvoid-combatvla/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # CombatVLA
 
 CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.

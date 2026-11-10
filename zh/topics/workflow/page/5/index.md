@@ -1,10 +1,17 @@
+---
+title: "工作流：Computer-Use 研究与资源（第 5 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/workflow/page/5/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工作流：Computer-Use 研究与资源（第 5 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/workflow/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
-- [Blender AI Plugin](https://awesomecua.com/zh/resources/github-proyecto26-blender-ai-plugin/)
 - [bm (Conversational Grocery Browser Agent)](https://awesomecua.com/zh/resources/github-gonzalo123-bm/)
 - [Bodhi](https://awesomecua.com/zh/resources/github-bigduu-zenith/)
 - [Bops](https://awesomecua.com/zh/resources/github-orgoai-bops/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/5/
 - [CrewAI](https://awesomecua.com/zh/resources/github-joaomdmoura-crewai/)
 - [Cua](https://awesomecua.com/zh/resources/github-trycua-cua/)
 - [CUA Skill](https://awesomecua.com/zh/resources/github-microsoft-cua-skill/)
+- [cua-desktop-automation-skills](https://awesomecua.com/zh/resources/github-chrislamdev-cua-desktop-automation-skills/)

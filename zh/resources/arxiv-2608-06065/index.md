@@ -1,3 +1,11 @@
+---
+title: "The Next Screenshot Knows: Gated… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-06065/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents
 
 Gated Hindsight Distillation 在训练时让教师看到下一张截图，学生仅看到当前可用的轨迹前缀；仅在事后信息能修复学生失败时进行蒸馏，并在 Android 任务上评估所得策略。
@@ -27,6 +35,18 @@ Weiwei Li, Junzhuo Liu, Tong Chu, Hengfu Yu, Wen Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-06065/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-06065/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_06065,
+  title = {{The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents}},
+  author = {{Weiwei Li} and {Junzhuo Liu} and {Tong Chu} and {Hengfu Yu} and {Wen Li}},
+  year = {2026},
+  eprint = {2608.06065v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.06065v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T14:10:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

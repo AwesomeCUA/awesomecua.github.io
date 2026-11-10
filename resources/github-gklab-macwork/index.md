@@ -1,3 +1,11 @@
+---
+title: "MacWork | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gklab-macwork/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # MacWork
 
 MacWork is an open-source macOS computer-use agent and MCP server that drives desktop applications through the native Accessibility API.

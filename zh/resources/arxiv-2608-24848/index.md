@@ -1,3 +1,11 @@
+---
+title: "BrowserForge: Scaling Web Episode via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-24848/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes
 
 BrowserForge 结合广泛的网站来源、并行浏览器沙箱及任务提议者与求解者的交互，收集经过验证的网页操作轨迹；流程在合成阶段利用页面结构，训练出的策略则依据截图执行操作。
@@ -27,6 +35,18 @@ Fei Tang, Huawen Shen, Zhiqiong Lu, Zhengxi Lu, Pengyuan Lyu, Chengquan Zhang, W
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-24848/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-24848/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24848,
+  title = {{BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes}},
+  author = {{Fei Tang} and {Huawen Shen} and {Zhiqiong Lu} and {Zhengxi Lu} and {Pengyuan Lyu} and {Chengquan Zhang} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2608.24848v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24848v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T17:35:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

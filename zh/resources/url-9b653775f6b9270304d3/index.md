@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-Verifier-2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9b653775f6b9270304d3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GUI-Actor-Verifier-2B
 
 一款图形界面定位验证模型，判断截图中标记的位置是否符合指令，并可为候选操作位置评分。

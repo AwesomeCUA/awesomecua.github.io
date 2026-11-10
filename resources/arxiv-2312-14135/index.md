@@ -1,3 +1,11 @@
+---
+title: "V*: Guided Visual Search as a Core Mechanism… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-14135/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs
 
 Bibliographic record for V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Penghao Wu, Saining Xie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-14135/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-14135/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_14135,
+  title = {{V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs}},
+  author = {{Penghao Wu} and {Saining Xie}},
+  year = {2023},
+  eprint = {2312.14135v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.14135v2},
+  note = {First published: 2023-12-21; Recorded arXiv version: v2; Recorded version updated: 2023-12-26T15:20:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

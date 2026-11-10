@@ -1,3 +1,11 @@
+---
+title: "AnythingLLM · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mintplex-labs-anything-llm/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AnythingLLM
 
 AnythingLLM 是本地优先的桌面和服务器应用，支持自定义 AI 智能体、网页浏览、MCP 工具和文档 RAG。

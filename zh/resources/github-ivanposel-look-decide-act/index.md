@@ -1,3 +1,11 @@
+---
+title: "look-decide-act · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ivanposel-look-decide-act/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # look-decide-act
 
 通过 CDP，以闭环的视觉观察、决策、动作循环操作实时网页应用，代替脚本回放。

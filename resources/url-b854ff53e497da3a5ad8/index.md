@@ -1,3 +1,11 @@
+---
+title: "DragOn | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b854ff53e497da3a5ad8/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # DragOn
 
 Drag-grounding training and evaluation data pairing each screenshot instruction with start and end boxes, across text highlighting, spreadsheet cells, slide resizing and sliders.

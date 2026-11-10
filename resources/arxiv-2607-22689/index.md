@@ -1,3 +1,11 @@
+---
+title: "Beyond Sequential Interaction: Benchmarking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-22689/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents
 
 Introduces ParaGUIBench, with tasks and efficiency measurements for coordinated GUI agents operating separate desktop instances over a shared file system. Its ParaGUI planner-worker system decomposes tasks and dispatches concurrent subtasks for comparison with serial execution.
@@ -26,6 +34,18 @@ Zedong Yu, Qianxing Li, Zhi Gao, Liuyu Xiang, Chenrui Shi, Yang Liu, Huiming Wu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-22689/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-22689/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_22689,
+  title = {{Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents}},
+  author = {{Zedong Yu} and {Qianxing Li} and {Zhi Gao} and {Liuyu Xiang} and {Chenrui Shi} and {Yang Liu} and {Huiming Wu} and {Yujie Wei} and {Yuhao Fei} and {Yubo Fu} and {Zhaofeng He}},
+  year = {2026},
+  eprint = {2607.22689v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.22689v1},
+  note = {First published: 2026-07-17; Recorded arXiv version: v1; Recorded version updated: 2026-07-17T12:48:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

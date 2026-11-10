@@ -1,3 +1,11 @@
+---
+title: "CaptchaArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-x0x0x00-captchaarena/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # CaptchaArena
 
 CaptchaArena provides a live server and fine-grained trajectory dataset across 20 interactive CAPTCHA types for evaluating computer-use agents.

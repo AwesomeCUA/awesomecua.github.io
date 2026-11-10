@@ -1,3 +1,11 @@
+---
+title: "Synatra: Turning Indirect Knowledge into… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-15637/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale
 
 Synatra 将面向人类的教程等间接程序知识转化为数字智能体的直接演示，用 100,000 条合成演示训练 7B CodeLlama，并在 Mind2Web、MiniWoB++ 和 WebArena 上评估所得策略。
@@ -27,6 +35,18 @@ Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Su
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-15637/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-15637/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_15637,
+  title = {{Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale}},
+  author = {{Tianyue Ou} and {Frank F. Xu} and {Aman Madaan} and {Jiarui Liu} and {Robert Lo} and {Abishek Sridhar} and {Sudipta Sengupta} and {Dan Roth} and {Graham Neubig} and {Shuyan Zhou}},
+  year = {2024},
+  eprint = {2409.15637v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.15637v2},
+  note = {First published: 2024-09-24; Recorded arXiv version: v2; Recorded version updated: 2024-11-27T16:34:52Z.}
+}
+```
 
 ## 发表记录
 

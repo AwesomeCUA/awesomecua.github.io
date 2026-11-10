@@ -1,3 +1,11 @@
+---
+title: "Large Action Models: From Inception to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-10047/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Large Action Models: From Inception to Implementation
 
 Uses a Windows-agent case study to describe a development workflow for large action models, covering data collection, training, grounding, environment integration, and evaluation.
@@ -26,6 +34,18 @@ Lu Wang, Fangkai Yang, Chaoyun Zhang, Junting Lu, Jiaxu Qian, Shilin He, Pu Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-10047/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-10047/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_10047,
+  title = {{Large Action Models: From Inception to Implementation}},
+  author = {{Lu Wang} and {Fangkai Yang} and {Chaoyun Zhang} and {Junting Lu} and {Jiaxu Qian} and {Shilin He} and {Pu Zhao} and {Bo Qiao} and {Ray Huang} and {Si Qin} and {Qisheng Su} and {Jiayi Ye} and {Yudi Zhang} and {Jian-Guang Lou} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang} and {Qi Zhang}},
+  year = {2024},
+  eprint = {2412.10047v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.10047v2},
+  note = {First published: 2024-12-13; Recorded arXiv version: v2; Recorded version updated: 2025-01-13T06:47:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

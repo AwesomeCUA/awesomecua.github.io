@@ -1,3 +1,11 @@
+---
+title: "Blue Steel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-apothic-ai-blue-steel/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Blue Steel
 
 Vision-driven browser agent powered by the Camoufox stealth Firefox browser.

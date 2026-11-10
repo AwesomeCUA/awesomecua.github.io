@@ -1,3 +1,11 @@
+---
+title: "OpenBitFun | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gcwing-openbitfun/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OpenBitFun
 
 OpenBitFun is a Rust-powered desktop agent workspace supporting computer-use, browser automation, and multi-mode agent harnesses.

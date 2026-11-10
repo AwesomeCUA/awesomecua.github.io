@@ -1,3 +1,11 @@
+---
+title: "PANDO: Efficient Multimodal AI Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-24785/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # PANDO: Efficient Multimodal AI Agents via Online Skill Distillation
 
 Analyzes inefficiency in VisualWebArena trajectories and distills reusable online skills to reduce repeated actions and token overhead in multimodal web agents.
@@ -26,6 +34,18 @@ Yubo Li, Yidi Miao, Yuntian Shen, Yuxin Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-24785/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-24785/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_24785,
+  title = {{PANDO: Efficient Multimodal AI Agents via Online Skill Distillation}},
+  author = {{Yubo Li} and {Yidi Miao} and {Yuntian Shen} and {Yuxin Liu}},
+  year = {2026},
+  eprint = {2605.24785v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.24785v2},
+  note = {First published: 2026-05-24; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T04:25:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

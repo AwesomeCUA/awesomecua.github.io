@@ -1,3 +1,11 @@
+---
+title: "CADSmith: Multi-Agent CAD Generation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-26512/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation
 
 Status: excluded from the active CUA catalog after scope review.

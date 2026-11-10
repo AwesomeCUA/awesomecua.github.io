@@ -1,3 +1,11 @@
+---
+title: "Resource-efficient verification of quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1806-09138/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Resource-efficient verification of quantum computing using Serfling's bound
 
 Status: excluded from the active CUA catalog after scope review.

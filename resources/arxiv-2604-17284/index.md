@@ -1,3 +1,11 @@
+---
+title: "HalluClear: Diagnosing, Evaluating and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-17284/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # HalluClear: Diagnosing, Evaluating and Mitigating Hallucinations in GUI Agents
 
 Introduces HalluClear with a GUI hallucination taxonomy, expert-calibrated evaluation workflow and structured-reasoning post-training scheme. It evaluates how these components affect hallucinations, grounding and action fidelity across GUI agents.
@@ -26,6 +34,18 @@ Chao Jin, Wenkui Yang, Hao Sun, Yuqi Liao, Qianyi Jiang, Kai Zhou, Jie Cao, Ran 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-17284/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-17284/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_17284,
+  title = {{HalluClear: Diagnosing, Evaluating and Mitigating Hallucinations in GUI Agents}},
+  author = {{Chao Jin} and {Wenkui Yang} and {Hao Sun} and {Yuqi Liao} and {Qianyi Jiang} and {Kai Zhou} and {Jie Cao} and {Ran He} and {Huaibo Huang}},
+  year = {2026},
+  eprint = {2604.17284v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.17284v1},
+  note = {First published: 2026-04-19; Recorded arXiv version: v1; Recorded version updated: 2026-04-19T06:55:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

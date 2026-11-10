@@ -1,3 +1,11 @@
+---
+title: "An End-to-End Trainable Neural Network for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1507-05717/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 
 Bibliographic record for An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Baoguang Shi, Xiang Bai, Cong Yao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1507-05717/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1507-05717/citation.csl.json
+
+```bibtex
+@misc{arxiv_1507_05717,
+  title = {{An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition}},
+  author = {{Baoguang Shi} and {Xiang Bai} and {Cong Yao}},
+  year = {2015},
+  eprint = {1507.05717v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1507.05717v1},
+  note = {First published: 2015-07-21; Recorded arXiv version: v1; Recorded version updated: 2015-07-21T06:26:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

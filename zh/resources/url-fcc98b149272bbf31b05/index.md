@@ -1,3 +1,11 @@
+---
+title: "WebPRM checklist-generation data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fcc98b149272bbf31b05/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # WebPRM checklist-generation data
 
 将网页任务背景、初始观察和操作历史与结构化检查清单及子目标分析配对的数据，用于生成检查清单。

@@ -1,3 +1,11 @@
+---
+title: "GUI-AIMA-3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-638d229f7a02760ae9dc/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # GUI-AIMA-3B
 
 GUI grounding model that predicts click locations from attention between a learnable ANCHOR token and visual patches, extra-trained on 250k GroundCUA samples; the authors report 61.5% on ScreenSpot-Pro with 2-step zoom.

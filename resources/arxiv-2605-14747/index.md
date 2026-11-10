@@ -1,3 +1,11 @@
+---
+title: "Video2GUI: Synthesizing Large-Scale… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14747/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining
 
 Video2GUI extracts GUI interaction trajectories from tutorial videos to build WildGUI, a pretraining dataset spanning applications and websites.
@@ -26,6 +34,18 @@ Weimin Xiong, Shuhao Gu, Bowen Ye, Zihao Yue, Lei Li, Feifan Song, Sujian Li, Ha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-14747/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-14747/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14747,
+  title = {{Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining}},
+  author = {{Weimin Xiong} and {Shuhao Gu} and {Bowen Ye} and {Zihao Yue} and {Lei Li} and {Feifan Song} and {Sujian Li} and {Hao Tian}},
+  year = {2026},
+  eprint = {2605.14747v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14747v1},
+  note = {First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T12:14:24Z.}
+}
+```
 
 ## Publication record
 

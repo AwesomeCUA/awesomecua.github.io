@@ -1,3 +1,11 @@
+---
+title: "Desktop Computer Use (DCU) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dev-willbird1936-desktop-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Desktop Computer Use (DCU)
 
 在后台运行的 Windows 计算机使用 MCP 服务器，可向目标应用发送输入，而不中断用户在前台的工作。

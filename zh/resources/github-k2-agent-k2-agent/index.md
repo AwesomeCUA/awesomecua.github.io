@@ -1,3 +1,11 @@
+---
+title: "K²-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-k2-agent-k2-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # K²-Agent
 
 分层移动设备操作智能体，将利用示范信息的规划器与学习得到的动作执行器结合；仓库提供 AndroidWorld 评测轨迹。

@@ -1,3 +1,11 @@
+---
+title: "CausGround: Causal Interaction Grounding for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-29702/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CausGround: Causal Interaction Grounding for Adaptive Embodied Planning
 
 Bibliographic record for CausGround: Causal Interaction Grounding for Adaptive Embodied Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yijun Shen, Diqi He, Jinbang Guo, Wanyue Zhang, Jiaming Mi, Huan Yang, Zhongyuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-29702/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-29702/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_29702,
+  title = {{CausGround: Causal Interaction Grounding for Adaptive Embodied Planning}},
+  author = {{Yijun Shen} and {Diqi He} and {Jinbang Guo} and {Wanyue Zhang} and {Jiaming Mi} and {Huan Yang} and {Zhongyuan Wang} and {Zhiwei Yu} and {Kai Zhang}},
+  year = {2026},
+  eprint = {2610.29702v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.29702v1},
+  note = {First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T13:16:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

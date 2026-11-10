@@ -1,3 +1,11 @@
+---
+title: "Mobile Env · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-x-lance-mobile-env/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # Mobile Env
 
 基于 AndroidEnv 的 GUI 智能体基准构建与训练平台；任务定义文件根据屏幕文本、视图层级或日志事件生成指令、奖励和回合结束信号。

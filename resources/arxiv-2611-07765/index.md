@@ -1,3 +1,11 @@
+---
+title: "BiGrounder: Bidirectional Training Unlocks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-07765/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BiGrounder: Bidirectional Training Unlocks the Potential of GUI Grounding
 
 Bibliographic record for BiGrounder: Bidirectional Training Unlocks the Potential of GUI Grounding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dengyao Shi, Tianyu Fu, Fei Hu, Anyang Su, Hanning Wang, Shuo Wang, Minghui Wu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-07765/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-07765/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_07765,
+  title = {{BiGrounder: Bidirectional Training Unlocks the Potential of GUI Grounding}},
+  author = {{Dengyao Shi} and {Tianyu Fu} and {Fei Hu} and {Anyang Su} and {Hanning Wang} and {Shuo Wang} and {Minghui Wu} and {Chenxu Zhao} and {Zhen Lei}},
+  year = {2026},
+  eprint = {2611.07765v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.07765v1},
+  note = {First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T10:05:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

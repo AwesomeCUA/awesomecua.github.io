@@ -1,3 +1,11 @@
+---
+title: "Claude Fable 5.1 · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e0f1ebb59adf2f6c500c/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Claude Fable 5.1
 
 Claude Fable 5.1 是托管模型产品，页面将浏览器操作列为智能体用途之一，并讨论其在 OSWorld 2.0 上的评测。

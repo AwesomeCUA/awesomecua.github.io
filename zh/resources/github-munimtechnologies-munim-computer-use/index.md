@@ -1,3 +1,11 @@
+---
+title: "munim-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-munimtechnologies-munim-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # munim-computer-use
 
 munim-computer-use 是一个跨平台 Computer Use MCP 服务器，结合原生 OS 无障碍树、OCR 和策略防护机制。

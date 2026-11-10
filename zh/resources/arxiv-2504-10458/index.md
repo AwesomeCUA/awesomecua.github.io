@@ -1,3 +1,11 @@
+---
+title: "GUI-R1 : A Generalist R1-Style… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-10458/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents
 
 通过统一的动作规则和精选的跨平台示例，对视觉语言 GUI 智能体进行强化学习微调。
@@ -27,6 +35,18 @@ Run Luo, Lu Wang, Wanwei He, Longze Chen, Jiaming Li, Xiaobo Xia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-10458/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-10458/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_10458,
+  title = {{GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents}},
+  author = {{Run Luo} and {Lu Wang} and {Wanwei He} and {Longze Chen} and {Jiaming Li} and {Xiaobo Xia}},
+  year = {2025},
+  eprint = {2504.10458v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.10458v4},
+  note = {First published: 2025-04-14; Recorded arXiv version: v4; Recorded version updated: 2025-10-01T04:55:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

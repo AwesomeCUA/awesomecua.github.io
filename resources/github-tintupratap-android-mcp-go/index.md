@@ -1,3 +1,11 @@
+---
+title: "Android-MCP-go | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tintupratap-android-mcp-go/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Android-MCP-go
 
 Self-contained Go Model Context Protocol server for Android automation with managed ADB, automatic USB-to-Wi-Fi handoff, and `scrcpy`.

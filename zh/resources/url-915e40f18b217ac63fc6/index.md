@@ -1,3 +1,11 @@
+---
+title: "SmolVLM2-2.2B-Instruct-Agentic-GUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-915e40f18b217ac63fc6/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # SmolVLM2-2.2B-Instruct-Agentic-GUI
 
 在 aguvis-stage-1 和 aguvis-stage-2 数据集上分两阶段微调的 SmolVLM2-2.2B-Instruct，用于定位屏幕元素并以函数调用形式输出 GUI 动作。作者报告其在 ScreenSpot-v2 上达到 61%。

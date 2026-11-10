@@ -1,3 +1,11 @@
+---
+title: "AgentPRM: Process Reward Models for LLM… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-08325/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress
 
 AgentPRM 根据连续决策对目标的预期贡献和实际进展进行评分；网页购物和浏览器导航是其讨论的任务。
@@ -27,6 +35,18 @@ Zhiheng Xi, Chenyang Liao, Guanyu Li, Yajie Yang, Wenxiang Chen, Zhihao Zhang, B
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-08325/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-08325/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_08325,
+  title = {{AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress}},
+  author = {{Zhiheng Xi} and {Chenyang Liao} and {Guanyu Li} and {Yajie Yang} and {Wenxiang Chen} and {Zhihao Zhang} and {Binghai Wang} and {Senjie Jin} and {Yuhao Zhou} and {Jian Guan} and {Wei Wu} and {Tao Ji} and {Tao Gui} and {Qi Zhang} and {Xuanjing Huang}},
+  year = {2025},
+  eprint = {2511.08325v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.08325v1},
+  note = {First published: 2025-11-11; Recorded arXiv version: v1; Recorded version updated: 2025-11-11T14:57:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

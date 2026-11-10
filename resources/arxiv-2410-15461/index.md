@@ -1,3 +1,11 @@
+---
+title: "EVA: An Embodied World Model for Future Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-15461/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # EVA: An Embodied World Model for Future Video Anticipation
 
 Bibliographic record for EVA: An Embodied World Model for Future Video Anticipation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaowei Chi, Chun-Kai Fan, Hengyuan Zhang, Xingqun Qi, Rongyu Zhang, Anthony Che
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-15461/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-15461/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_15461,
+  title = {{EVA: An Embodied World Model for Future Video Anticipation}},
+  author = {{Xiaowei Chi} and {Chun-Kai Fan} and {Hengyuan Zhang} and {Xingqun Qi} and {Rongyu Zhang} and {Anthony Chen} and {Chi-min Chan} and {Wei Xue} and {Qifeng Liu} and {Shanghang Zhang} and {Yike Guo}},
+  year = {2024},
+  eprint = {2410.15461v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.15461v2},
+  note = {First published: 2024-10-20; Recorded arXiv version: v2; Recorded version updated: 2025-06-10T08:08:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

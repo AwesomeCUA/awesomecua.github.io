@@ -1,3 +1,11 @@
+---
+title: "Scaling silicon-based quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2011-11753/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scaling silicon-based quantum computing using CMOS technology: State-of-the-art, Challenges and Perspectives
 
 Status: excluded from the active CUA catalog after scope review.

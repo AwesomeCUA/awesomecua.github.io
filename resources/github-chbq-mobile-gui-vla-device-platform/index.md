@@ -1,3 +1,11 @@
+---
+title: "Mobile GUI-VLA Device Platform | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chbq-mobile-gui-vla-device-platform/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Mobile GUI-VLA Device Platform
 
 Provides a zero-dependency Python device I/O and trajectory instrumentation layer for Android GUI-VLA experiments.

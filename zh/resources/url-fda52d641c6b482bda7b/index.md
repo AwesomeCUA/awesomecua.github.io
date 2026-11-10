@@ -1,3 +1,11 @@
+---
+title: "E2B · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fda52d641c6b482bda7b/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # E2B
 
 用于执行智能体工作负载的沙箱基础设施。

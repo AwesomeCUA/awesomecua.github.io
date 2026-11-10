@@ -1,3 +1,11 @@
+---
+title: "AgentForge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-moeenasim-agentforge-v5/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # AgentForge
 
 Multi-agent adversarial evaluation and safety-checking laboratory for stress-testing computer-use agents.

@@ -1,3 +1,11 @@
+---
+title: "MCP-Slicer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhaoyouj-mcp-slicer/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # MCP-Slicer
 
 MCP-Slicer 让模型客户端通过节点检查、Python 执行和截图使用 3D Slicer，在医学影像与场景任务中获得视觉反馈。

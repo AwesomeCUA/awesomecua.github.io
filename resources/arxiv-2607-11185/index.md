@@ -1,3 +1,11 @@
+---
+title: "SCALECUA: Scaling Computer Use Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-11185/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL
 
 Scales computer-agent reinforcement learning through verifiable task generation, capability-aware rollout allocation, and segmented visual context.
@@ -26,6 +34,18 @@ Bowen Lv, Xiao Liu, Yanyu Ren, Hanyu Lai, Bohao Jing, Hanchen Zhang, Yanxiao Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-11185/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-11185/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_11185,
+  title = {{SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL}},
+  author = {{Bowen Lv} and {Xiao Liu} and {Yanyu Ren} and {Hanyu Lai} and {Bohao Jing} and {Hanchen Zhang} and {Yanxiao Zhao} and {Shuntian Yao} and {Jie Tang} and {Yuxiao Dong}},
+  year = {2026},
+  eprint = {2607.11185v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.11185v1},
+  note = {First published: 2026-07-13; Recorded arXiv version: v1; Recorded version updated: 2026-07-13T07:32:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

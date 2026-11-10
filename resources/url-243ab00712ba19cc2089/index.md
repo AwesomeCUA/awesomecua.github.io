@@ -1,3 +1,11 @@
+---
+title: "WorkDemo-350 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-243ab00712ba19cc2089/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # WorkDemo-350
 
 Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.

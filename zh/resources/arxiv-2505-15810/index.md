@@ -1,3 +1,11 @@
+---
+title: "GUI-G1: Understanding R1-Zero-Like… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-15810/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
 
 分析 GUI 定位中的推理模板、奖励设计和策略更新，并提出针对性的训练流程调整。
@@ -27,6 +35,18 @@ Yuqi Zhou, Sunhao Dai, Shuai Wang, Kaiwen Zhou, Qinglin Jia, Jun Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-15810/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-15810/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_15810,
+  title = {{GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents}},
+  author = {{Yuqi Zhou} and {Sunhao Dai} and {Shuai Wang} and {Kaiwen Zhou} and {Qinglin Jia} and {Jun Xu}},
+  year = {2025},
+  eprint = {2505.15810v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.15810v2},
+  note = {First published: 2025-05-21; Recorded arXiv version: v2; Recorded version updated: 2025-05-22T11:15:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

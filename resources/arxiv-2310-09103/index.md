@@ -1,3 +1,11 @@
+---
+title: "Qin's Algorithm, Continued Fractions and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-09103/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Qin's Algorithm, Continued Fractions and 2-dimensional Lattices
 
 Status: excluded from the active CUA catalog after scope review.

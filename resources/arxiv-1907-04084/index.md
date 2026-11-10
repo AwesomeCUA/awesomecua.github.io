@@ -1,3 +1,11 @@
+---
+title: "Universal quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1907-04084/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal quantum computing using single-particle discrete-time quantum walk
 
 Status: excluded from the active CUA catalog after scope review.

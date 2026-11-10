@@ -1,3 +1,11 @@
+---
+title: "Aether Agent Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aetherai3-agent-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Aether Agent Browser
 
 Self-hosted Chrome agent runtime with bounded API control, live VNC observation, and human takeover.

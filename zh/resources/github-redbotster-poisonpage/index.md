@@ -1,3 +1,11 @@
+---
+title: "PoisonPage · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-redbotster-poisonpage/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # PoisonPage
 
 对抗性测试平台，展示针对 AI 购物网页智能体的间接提示词注入和 API 密钥外泄。

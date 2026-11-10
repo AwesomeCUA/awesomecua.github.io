@@ -1,3 +1,11 @@
+---
+title: "Nik-Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Nik-Browser MCP
 
 Local Model Context Protocol server providing LLMs with an independent, persistent-login Chromium browser and DOM snapshots.

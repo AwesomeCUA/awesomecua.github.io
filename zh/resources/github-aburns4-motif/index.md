@@ -1,3 +1,11 @@
+---
+title: "MoTIF · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aburns4-motif/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # MoTIF
 
 移动端任务的操作演示和自然语言指令。

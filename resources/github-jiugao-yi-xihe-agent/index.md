@@ -1,3 +1,11 @@
+---
+title: "Xihe Agent (羲和) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Xihe Agent (羲和)
 
 Single-process tool-calling agent runtime operating across CLI, enterprise chat gateways, desktop GUI, and real browsers.

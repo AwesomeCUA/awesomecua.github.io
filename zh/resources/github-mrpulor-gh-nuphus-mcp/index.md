@@ -1,3 +1,11 @@
+---
+title: "nuphus-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mrpulor-gh-nuphus-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # nuphus-mcp
 
 跨平台桌面自动化 MCP 服务器，用于控制屏幕、窗口、鼠标和键盘。

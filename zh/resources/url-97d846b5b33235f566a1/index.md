@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Task · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-97d846b5b33235f566a1/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Screen2AX-Task
 
 这是一个 macOS 界面定位数据集，将应用截图和操作指令与目标边界框及视觉描述配对。

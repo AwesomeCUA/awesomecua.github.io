@@ -1,3 +1,11 @@
+---
+title: "Neuro-Symbolic Computer Use: Learning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-36927/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Neuro-Symbolic Computer Use: Learning Reusable Policies for Reliable and Efficient Execution
 
 该方法学习可复用的计算机使用策略，用程序编码稳定的工作流程逻辑，由神经模型负责定位和状态检查。策略迭代通过执行变体、诊断失败、修改程序，并在改变状态的操作前加入核验。
@@ -27,6 +35,18 @@ Hyewon Suh, Thanh Minh Nguyen, Chih-Lun Lee, Darrow Hartman, Lizhao Liu, Xin Eri
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-36927/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-36927/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36927,
+  title = {{Neuro-Symbolic Computer Use: Learning Reusable Policies for Reliable and Efficient Execution}},
+  author = {{Hyewon Suh} and {Thanh Minh Nguyen} and {Chih-Lun Lee} and {Darrow Hartman} and {Lizhao Liu} and {Xin Eric Wang} and {Ang Li} and {Jiachen Yang}},
+  year = {2026},
+  eprint = {2609.36927v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36927v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T07:44:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

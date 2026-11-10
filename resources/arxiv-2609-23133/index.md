@@ -1,3 +1,11 @@
+---
+title: "AquaCap: A Training-Free Underwater Embodied… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-23133/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AquaCap: A Training-Free Underwater Embodied Agent with Code-as-Policy
 
 Bibliographic record for AquaCap: A Training-Free Underwater Embodied Agent with Code-as-Policy. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaoshi Li, Yule Xu, Chunghiu Kong, Yizhou Zhou, Yang Liu, Hao Yang, Zihao Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-23133/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-23133/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_23133,
+  title = {{AquaCap: A Training-Free Underwater Embodied Agent with Code-as-Policy}},
+  author = {{Xiaoshi Li} and {Yule Xu} and {Chunghiu Kong} and {Yizhou Zhou} and {Yang Liu} and {Hao Yang} and {Zihao Huang} and {Yunxiao Shan}},
+  year = {2026},
+  eprint = {2609.23133v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.23133v1},
+  note = {First published: 2026-09-19; Recorded arXiv version: v1; Recorded version updated: 2026-09-19T16:59:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

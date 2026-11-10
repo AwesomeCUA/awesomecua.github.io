@@ -1,3 +1,11 @@
+---
+title: "Mobile-Eval-E task definitions | AwesomeCUA"
+url: https://awesomecua.com/resources/url-342b081c3668a8bbe155/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # Mobile-Eval-E task definitions
 
 Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluation, packaged as a 25-record test split with rubrics and human-reference operation strings.

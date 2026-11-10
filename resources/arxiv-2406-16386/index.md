@@ -1,3 +1,11 @@
+---
+title: "Automatically Generating UI Code from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-16386/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Automatically Generating UI Code from Screenshot: A Divide-and-Conquer-Based Approach
 
 Bibliographic record for Automatically Generating UI Code from Screenshot: A Divide-and-Conquer-Based Approach. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuxuan Wan, Chaozheng Wang, Yi Dong, Wenxuan Wang, Shuqing Li, Yintong Huo, Mich
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-16386/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-16386/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_16386,
+  title = {{Automatically Generating UI Code from Screenshot: A Divide-and-Conquer-Based Approach}},
+  author = {{Yuxuan Wan} and {Chaozheng Wang} and {Yi Dong} and {Wenxuan Wang} and {Shuqing Li} and {Yintong Huo} and {Michael R. Lyu}},
+  year = {2024},
+  eprint = {2406.16386v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.16386v3},
+  note = {First published: 2024-06-24; Recorded arXiv version: v3; Recorded version updated: 2025-04-25T15:12:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

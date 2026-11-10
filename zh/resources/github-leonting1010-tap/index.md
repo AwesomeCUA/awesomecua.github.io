@@ -1,3 +1,11 @@
+---
+title: "Taprun (tap) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leonting1010-tap/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Taprun (tap)
 
 录制一次已登录浏览器中的任务演示，并将其编译为确定性的零 token 重放技能。

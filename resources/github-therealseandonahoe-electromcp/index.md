@@ -1,3 +1,11 @@
+---
+title: "ElectroMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-therealseandonahoe-electromcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ElectroMCP
 
 Connects Claude and MCP-compatible agents to Electron desktop apps for UI clicking, screenshot capture, IPC inspection, and HAR recording.

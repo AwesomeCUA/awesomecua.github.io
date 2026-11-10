@@ -1,3 +1,11 @@
+---
+title: "Raystyle Browser Harness · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raystyle-browser-harness/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Raystyle Browser Harness
 
 持久运行的守护进程和 CLI，直接向 LLM 提供 652 个 Chrome DevTools Protocol 方法，用于人与智能体共享浏览。

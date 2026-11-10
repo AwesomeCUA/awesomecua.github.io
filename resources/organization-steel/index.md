@@ -1,3 +1,11 @@
+---
+title: "Steel | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-steel/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # Steel
 
 Publisher or product brand associated with Steel computer-use or browser automation offerings.

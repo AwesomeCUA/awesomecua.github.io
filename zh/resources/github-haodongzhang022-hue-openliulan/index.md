@@ -1,3 +1,11 @@
+---
+title: "dsh-OpenLiulan (开放浏览) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-haodongzhang022-hue-openliulan/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # dsh-OpenLiulan (开放浏览)
 
 面向 DeepSeek Harness 的自修复浏览器控制框架，具备语义页面感知和自动故障恢复能力。

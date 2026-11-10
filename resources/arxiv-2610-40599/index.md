@@ -1,3 +1,11 @@
+---
+title: "HairDeck: Animation-Ready Stylized Hair Cards… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-40599/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HairDeck: Animation-Ready Stylized Hair Cards from a Single Image
 
 Bibliographic record for HairDeck: Animation-Ready Stylized Hair Cards from a Single Image. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-40599/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-40599/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40599,
+  title = {{HairDeck: Animation-Ready Stylized Hair Cards from a Single Image}},
+  author = {{Yuze He} and {Yixiang Wei} and {Wang Zhao} and {Chuhao Chen} and {Yanning Zhou} and {Yong-Jin Liu}},
+  year = {2026},
+  eprint = {2610.40599v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40599v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T17:50:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

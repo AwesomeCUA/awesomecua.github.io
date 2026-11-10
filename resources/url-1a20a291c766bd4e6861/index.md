@@ -1,3 +1,11 @@
+---
+title: "Adept Fuyu-Heavy | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1a20a291c766bd4e6861/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Adept Fuyu-Heavy
 
 Adept multimodal model that scales up the Fuyu architecture for digital agents, aimed mainly at UI understanding; Adept reports MMMU, VQAv2, AI2D and ChartQA scores against Gemini models.

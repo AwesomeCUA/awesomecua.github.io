@@ -1,3 +1,11 @@
+---
+title: "sh7vansh Chrome Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sh7vansh-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # sh7vansh Chrome Bridge
 
 Persistent Python runtime and Chrome Native Messaging bridge for driving live browser tabs from AI agents.

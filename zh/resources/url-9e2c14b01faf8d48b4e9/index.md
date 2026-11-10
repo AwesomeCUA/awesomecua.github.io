@@ -1,3 +1,11 @@
+---
+title: "Mind2Web-cleaned-lite-value-model-w-cot-… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9e2c14b01faf8d48b4e9/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Mind2Web-cleaned-lite-value-model-w-cot-test
 
 一个包含 6125 条网页操作记录的 Mind2Web 数据集，涵盖元素候选项、无障碍树、先前操作、推理说明和价值评分。

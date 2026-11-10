@@ -1,3 +1,11 @@
+---
+title: "AutoCodeRover | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nus-apr-auto-code-rover/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoCodeRover
 
 AutoCodeRover combines LLMs with AST-aware code search and spectrum-based fault localization for autonomous program repair.

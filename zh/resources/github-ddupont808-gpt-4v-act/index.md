@@ -1,3 +1,11 @@
+---
+title: "GPT-4V-Act · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ddupont808-gpt-4v-act/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # GPT-4V-Act
 
 GPT-4V-Act 结合 Chromium DOM 自动标注与 Set-of-Mark 视觉提示，使用多模态 LLM 驱动网页浏览器交互。

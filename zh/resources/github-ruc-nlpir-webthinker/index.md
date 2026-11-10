@@ -1,3 +1,11 @@
+---
+title: "WebThinker · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ruc-nlpir-webthinker/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WebThinker
 
 WebThinker 使大型推理模型在深度思考过程中自主搜索、浏览网页并起草研究报告。

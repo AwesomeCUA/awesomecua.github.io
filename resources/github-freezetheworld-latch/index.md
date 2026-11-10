@@ -1,3 +1,11 @@
+---
+title: "Latch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-freezetheworld-latch/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Latch
 
 Attaches local coding agents directly to the user's real signed-in Chrome browser.

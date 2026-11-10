@@ -1,3 +1,11 @@
+---
+title: "opencode-mobile-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-system1970-opencode-mobile-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # opencode-mobile-use
 
 OpenCode plugin for controlling Android devices with a live phone screen in the TUI sidebar and resilient UI hierarchy dumps.

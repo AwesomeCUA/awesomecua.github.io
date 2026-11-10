@@ -1,3 +1,11 @@
+---
+title: "Ctrip Android App | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ctrip/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Ctrip Android App
 
 An Android travel-app replica for testing AI interactions, with representative booking screens, fixed local data, and signals for checking task outcomes.

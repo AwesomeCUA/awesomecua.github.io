@@ -1,3 +1,11 @@
+---
+title: "Don't Forget What You Just Learned… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31846/
+updated: 2026-10-29
+type: paper
+lang: en
+---
+
 # Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons
 
 Bibliographic record for Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuval Kansal, Karen Ullrich, Polina Kirichenko, Ilia Kulikov, Niraj K. Jha, Moha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31846/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31846/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31846,
+  title = {{Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons}},
+  author = {{Yuval Kansal} and {Karen Ullrich} and {Polina Kirichenko} and {Ilia Kulikov} and {Niraj K. Jha} and {Mohammad Pezeshki} and {Mark Ibrahim}},
+  year = {2026},
+  eprint = {2610.31846v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31846v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T19:29:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

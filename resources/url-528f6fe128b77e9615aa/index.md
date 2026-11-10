@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_SFT_train | AwesomeCUA"
+url: https://awesomecua.com/resources/url-528f6fe128b77e9615aa/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # GUI_Reflection_SFT_train
 
 Offline supervised fine-tuning data for GUI Reflection, released as JSONL files. Users obtain the corresponding images from the source datasets named in the card.

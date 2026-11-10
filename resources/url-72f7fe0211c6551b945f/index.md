@@ -1,3 +1,11 @@
+---
+title: "WebShepherd 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-72f7fe0211c6551b945f/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # WebShepherd 3B
 
 A public text-based process-reward checkpoint from the Web-Shepherd collection for scoring web-agent decisions against task checklists.

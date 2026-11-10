@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d2d07c09a1c92e5f4a43/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard
 
 THUDM 的 ScaleCUA 基于 Qwen3.5-9B 的计算机使用智能体检查点，从 SFT 起点经在线强化学习训练，面向 ScienceBoard 科学软件任务，并通过兼容 OpenAI 的端点提供服务。

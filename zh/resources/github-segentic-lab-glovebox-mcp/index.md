@@ -1,3 +1,11 @@
+---
+title: "glovebox-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-segentic-lab-glovebox-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # glovebox-mcp
 
 沙箱化的计算机使用 MCP 服务器，让 AI 智能体在隔离的嵌套 X11 窗口中操作浏览器和桌面应用。

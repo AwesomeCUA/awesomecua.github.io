@@ -1,3 +1,11 @@
+---
+title: "DSH Browser Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahaway1st-dsh-browser-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DSH Browser Control
 
 DeepSeek Harness 插件，让智能体直接控制用户真实且已登录的网页浏览器。

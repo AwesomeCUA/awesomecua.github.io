@@ -1,11 +1,17 @@
+---
+title: "Workflows — computer-use research, page 10 | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/page/10/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows — computer-use research, page 10
 
 HTML page: https://awesomecua.com/topics/workflow/page/10/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
-- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/)
-- [Webhands](https://awesomecua.com/resources/github-agentpostmortem-webhands/)
 - [WeChat Mac RPA](https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/)
 - [winter40611 Browser Agent](https://awesomecua.com/resources/github-winter40611-browser-agent/)
 - [WKAppBot SDK](https://awesomecua.com/resources/github-kiexpert-wkappbot-sdk/)

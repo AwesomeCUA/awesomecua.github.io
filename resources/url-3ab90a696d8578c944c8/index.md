@@ -1,3 +1,11 @@
+---
+title: "a3-qwen-3.5-9b-trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3ab90a696d8578c944c8/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # a3-qwen-3.5-9b-trajectories
 
 AgentLab run logs of the A3-Qwen3.5-9B web agent on BrowserGym benchmarks, stored per task as step JSON files with goals, page URLs, DOM and accessibility observations and actions; this address opens the WebArena folder.

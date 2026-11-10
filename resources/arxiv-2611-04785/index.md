@@ -1,3 +1,11 @@
+---
+title: "Kierston & KierstonBench: Simulation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-04785/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "AgentHijack: Visual Patch Attacks on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-09212/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents
 
 AgentHijack 评估视觉补丁的影响能否从截图经由模型输出和操作解析传导至真实环境变化；受控网页实验区分中间攻击信号与经过验证的端到端后果。
@@ -27,6 +35,18 @@ Zhihao Liu, Hongyu Sun, Zhiyuan Fu, Xiaonan Duan, Jice Wang, Shangru Zhao, Weizh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-09212/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-09212/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_09212,
+  title = {{AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents}},
+  author = {{Zhihao Liu} and {Hongyu Sun} and {Zhiyuan Fu} and {Xiaonan Duan} and {Jice Wang} and {Shangru Zhao} and {Weizhi Meng} and {Wuxin Yang} and {Yangfan Zhou} and {Yuqing Zhang}},
+  year = {2026},
+  eprint = {2609.09212v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.09212v1},
+  note = {First published: 2026-09-06; Recorded arXiv version: v1; Recorded version updated: 2026-09-06T03:49:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

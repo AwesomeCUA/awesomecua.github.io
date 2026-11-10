@@ -1,3 +1,11 @@
+---
+title: "Scalable Constant-Time Logical Gates for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-16963/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scalable Constant-Time Logical Gates for Large-Scale Quantum Computation Using Window-Based Correlated Decoding
 
 Status: excluded from the active CUA catalog after scope review.

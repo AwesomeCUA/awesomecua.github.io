@@ -1,3 +1,11 @@
+---
+title: "Blender MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bpy-dev-blender-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Blender MCP
 
 An MCP server links agents to Blender through a live add-on or saved project files, offering scene execution, runtime Python API lookup and benchmark tools.

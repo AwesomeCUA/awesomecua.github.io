@@ -1,3 +1,11 @@
+---
+title: "OpenTiny NEXT-SDKs (WebMCP) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-opentiny-webmcp-sdk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenTiny NEXT-SDKs (WebMCP)
 
 OpenTiny NEXT-SDKs 实现了页面内 WebMCP 服务器、polyfill 和 WebSkills，使 AI 智能体能够直接调用网页应用的功能。

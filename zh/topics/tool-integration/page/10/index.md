@@ -1,10 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 10 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/10/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 10 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [Codex Computer Use Lab](https://awesomecua.com/zh/resources/github-hqhq1025-codex-computer-use-lab/)
 - [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/zh/resources/github-tmustier-codex-computer-use-mcp/)
 - [Codex Dynamic Bridge](https://awesomecua.com/zh/resources/github-guraqwq-codex-dynamic-bridge/)
 - [Codex File Bridge](https://awesomecua.com/zh/resources/github-dev-newb-codex-file-bridge/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/10/
 - [DeepDeck](https://awesomecua.com/zh/resources/github-jo32-deepdeck/)
 - [DeepSeek Harness Desktop](https://awesomecua.com/zh/resources/github-tengqi159-deepseek-harness-desktop/)
 - [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/zh/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/)
+- [DeepSeek Harness Mac Control](https://awesomecua.com/zh/resources/github-18126295767-cell-dsh-mac-control/)

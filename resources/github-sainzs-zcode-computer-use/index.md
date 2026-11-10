@@ -1,3 +1,11 @@
+---
+title: "zcode-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sainzs-zcode-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # zcode-computer-use
 
 macOS computer-control MCP server for ZCode and coding agents combining screenshots, Accessibility trees, and input actions.

@@ -1,3 +1,11 @@
+---
+title: "UI-UG 2: Advancing Mobile UI Understanding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-00926/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning
 
 Introduces UI-UG 2, a mobile UI model trained for component understanding, GUI grounding, and structured interface generation with render-aware RL.
@@ -26,6 +34,18 @@ Hao Yang, Shuoyang Liu, Xiaoyu Lin, Zhou Fang, Maji Huang, Zhaosong Huang, Ruich
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-00926/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-00926/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00926,
+  title = {{UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning}},
+  author = {{Hao Yang} and {Shuoyang Liu} and {Xiaoyu Lin} and {Zhou Fang} and {Maji Huang} and {Zhaosong Huang} and {Ruichao Mao} and {Teng Guo} and {Hai Rao}},
+  year = {2026},
+  eprint = {2611.00926v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00926v1},
+  note = {First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T13:24:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

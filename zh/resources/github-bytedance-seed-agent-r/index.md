@@ -1,3 +1,11 @@
+---
+title: "Agent-R · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bytedance-seed-agent-r/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Agent-R
 
 轨迹收集和修订工具，利用树搜索和模型引导的评议训练智能体从错误中恢复，涵盖 WebShop 任务。

@@ -1,3 +1,11 @@
+---
+title: "Resource Management in Edge and Fog Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2108-00591/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Resource Management in Edge and Fog Computing using FogBus2 Framework
 
 Status: excluded from the active CUA catalog after scope review.

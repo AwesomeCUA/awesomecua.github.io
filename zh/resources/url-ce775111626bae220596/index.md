@@ -1,3 +1,11 @@
+---
+title: "OSWorld VirtualBox Ubuntu image · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ce775111626bae220596/
+updated: 2026-10-18
+type: infrastructure
+lang: zh-CN
+---
+
 # OSWorld VirtualBox Ubuntu image
 
 托管 OSWorld 的 Ubuntu 虚拟机归档，供其 VirtualBox 提供程序在 x86 主机上下载并通过 VBoxManage 导入；仓库没有数据卡或许可声明。

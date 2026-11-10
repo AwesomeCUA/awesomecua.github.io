@@ -1,3 +1,11 @@
+---
+title: "BaT: Towards Self-Evolving Medical Research… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-16211/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # BaT: Towards Self-Evolving Medical Research Agent with Stage Rubrics
 
 Status: excluded from the active CUA catalog after scope review.

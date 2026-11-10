@@ -1,3 +1,11 @@
+---
+title: "Machine-Learning Electron Dynamics with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-05260/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Machine-Learning Electron Dynamics with Moment Propagation Theory: Application to Optical Absorption Spectrum Computation using Real-Time TDDFT
 
 Status: excluded from the active CUA catalog after scope review.

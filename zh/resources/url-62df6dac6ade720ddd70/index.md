@@ -1,3 +1,11 @@
+---
+title: "AutoBrowser · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-62df6dac6ade720ddd70/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # AutoBrowser
 
 Chrome 侧栏扩展运行浏览器操作智能体：为标签页交互元素编索引，再由用户配置的兼容 OpenAI 模型打开标签页、点击、输入和按键。

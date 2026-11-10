@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_ground_iterative · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-246241a0b6219513cb7f/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_web_agent_ground_iterative
 
 这是一个采用 Lumos-Iterative 训练形式、针对网页智能体任务微调并发布的 Lumos 定位模型权重，供模块化智能体的定位模块使用。

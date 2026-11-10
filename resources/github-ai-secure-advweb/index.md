@@ -1,3 +1,11 @@
+---
+title: "AdvAgent (AdvWeb) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-secure-advweb/
+updated: 2026-11-02
+type: framework
+lang: en
+---
+
 # AdvAgent (AdvWeb)
 
 Black-box adversarial prompt-injection red-teaming framework for training and evaluating controllable attacks against VLM web agents.

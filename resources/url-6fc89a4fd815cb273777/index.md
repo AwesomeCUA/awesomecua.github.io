@@ -1,3 +1,11 @@
+---
+title: "InternVL3-78B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6fc89a4fd815cb273777/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3-78B
 
 InternVL3-78B is a released multimodal checkpoint whose model-family card describes GUI-operation training data and a GUI-grounding evaluation alongside broader vision-language tasks.

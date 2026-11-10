@@ -1,3 +1,11 @@
+---
+title: "dsh-cloak-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maxiaovivi-dsh-cloak-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-cloak-browser
 
 面向 DeepSeek Harness 的原生 CloakBrowser 插件，提供隔离的反检测浏览器会话和 DOM 快照。

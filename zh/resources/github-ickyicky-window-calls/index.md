@@ -1,3 +1,11 @@
+---
+title: "Window Calls · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ickyicky-window-calls/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Window Calls
 
 Window Calls 是一款 GNOME 扩展，通过 D-Bus 提供桌面窗口信息和控制功能，包括移动、调整大小和激活窗口的命令。

@@ -1,3 +1,11 @@
+---
+title: "Visual Agents as Fast and Slow Thinkers | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-08862/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Visual Agents as Fast and Slow Thinkers
 
 Bibliographic record for Visual Agents as Fast and Slow Thinkers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guangyan Sun, Mingyu Jin, Zhenting Wang, Cheng-Long Wang, Siqi Ma, Qifan Wang, T
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-08862/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-08862/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_08862,
+  title = {{Visual Agents as Fast and Slow Thinkers}},
+  author = {{Guangyan Sun} and {Mingyu Jin} and {Zhenting Wang} and {Cheng-Long Wang} and {Siqi Ma} and {Qifan Wang} and {Tong Geng} and {Ying Nian Wu} and {Yongfeng Zhang} and {Dongfang Liu}},
+  year = {2024},
+  eprint = {2408.08862v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.08862v4},
+  note = {First published: 2024-08-16; Recorded arXiv version: v4; Recorded version updated: 2025-02-10T02:00:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

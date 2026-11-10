@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-8B-Instruct-MobileWorld-SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e58270c90ea4fa83cfb4/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Qwen3-VL-8B-Instruct-MobileWorld-SFT
 
 Qwen3-VL-8B-Instruct fine-tuned on the MobileWorld dataset as a semantic world model that describes in natural language how a mobile GUI screen changes after an action, for planning by mobile agents.

@@ -1,3 +1,11 @@
+---
+title: "OSWorld Windows VM images · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/
+updated: 2026-10-18
+type: infrastructure
+lang: zh-CN
+---
+
 # OSWorld Windows VM images
 
 托管 OSWorld 预构建的 Windows 10 虚拟机：含 VMware 和 QEMU qcow2 归档，供 OSWorld 的 VMware 和 Docker 提供程序首次运行 Windows 任务时下载。

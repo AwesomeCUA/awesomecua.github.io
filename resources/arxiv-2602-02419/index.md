@@ -1,3 +1,11 @@
+---
+title: "SafeGround: Know When to Trust GUI Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-02419/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration
 
 Introduces SafeGround, which estimates GUI-grounding uncertainty from the spatial dispersion of sampled predictions and calibrates a decision threshold before testing. It studies risk-aware selection on ScreenSpot-Pro, with statistical control scoped to the threshold’s false-discovery rate.
@@ -26,6 +34,18 @@ Qingni Wang, Yue Fan, Xin Eric Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-02419/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-02419/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_02419,
+  title = {{SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration}},
+  author = {{Qingni Wang} and {Yue Fan} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2602.02419v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.02419v2},
+  note = {First published: 2026-02-02; Recorded arXiv version: v2; Recorded version updated: 2026-02-03T08:31:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

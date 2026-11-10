@@ -1,3 +1,11 @@
+---
+title: "WebOperator: Action-Aware Tree Search… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-12692/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment
 
 WebOperator 通过树搜索、操作筛选和重放前的路径检查探索网页任务，并在考虑不可逆操作的情况下回退。
@@ -27,6 +35,18 @@ Mahir Labib Dihan, Tanzima Hashem, Mohammed Eunus Ali, Md Rizwan Parvez
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-12692/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-12692/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_12692,
+  title = {{WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment}},
+  author = {{Mahir Labib Dihan} and {Tanzima Hashem} and {Mohammed Eunus Ali} and {Md Rizwan Parvez}},
+  year = {2025},
+  eprint = {2512.12692v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.12692v1},
+  note = {First published: 2025-12-14; Recorded arXiv version: v1; Recorded version updated: 2025-12-14T13:56:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Computer Use Large (markov-ai) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Computer Use Large (markov-ai)
 
 48,478 trimmed, audio-free screen-recording videos (about 12,300 hours) of AutoCAD, Blender, Excel, Photoshop, Salesforce and VS Code use, gathered from the internet, with duration metadata and no action labels.

@@ -1,3 +1,11 @@
+---
+title: "SpotAgent: Grounding Visual Geo-localization… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-09463/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SpotAgent: Grounding Visual Geo-localization in Large Vision-Language Models through Agentic Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

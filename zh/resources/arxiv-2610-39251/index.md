@@ -1,3 +1,11 @@
+---
+title: "Where to Learn and How Far to Roll Out… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-39251/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents
 
 提出两阶段 GUI 智能体 RL 训练框架，先选择动作不确定的检查点，再随训练进展逐步扩大轨迹长度。
@@ -27,6 +35,18 @@ Yuxiang Chai, Quyu Kong, Panrong Tong, Steven Hoi, Yue Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-39251/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-39251/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_39251,
+  title = {{Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents}},
+  author = {{Yuxiang Chai} and {Quyu Kong} and {Panrong Tong} and {Steven Hoi} and {Yue Wang}},
+  year = {2026},
+  eprint = {2610.39251v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.39251v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T03:03:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

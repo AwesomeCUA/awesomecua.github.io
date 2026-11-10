@@ -1,3 +1,11 @@
+---
+title: "GUICourse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yiye3-guicourse/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # GUICourse
 
 Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grounding, GUIAct with 67k single-step and 15k multi-step web and Android actions, and GUIChat dialogues.

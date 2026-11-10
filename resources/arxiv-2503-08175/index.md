@@ -1,3 +1,11 @@
+---
+title: "Privacy-Enhancing Paradigms within Federated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-08175/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Privacy-Enhancing Paradigms within Federated Multi-Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

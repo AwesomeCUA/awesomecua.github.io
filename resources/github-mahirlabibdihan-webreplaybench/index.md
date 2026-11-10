@@ -1,3 +1,11 @@
+---
+title: "WebReplayBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WebReplayBench
 
 A web agent benchmark with a local shop site, BrowserGym tasks, and database audit records for measuring task completion and repeated writes during backtracking.

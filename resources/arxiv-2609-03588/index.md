@@ -1,3 +1,11 @@
+---
+title: "KC-Bench: A Dynamic Interactive Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-03588/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

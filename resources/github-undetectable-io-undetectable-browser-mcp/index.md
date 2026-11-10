@@ -1,3 +1,11 @@
+---
+title: "Undetectable Browser MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-undetectable-io-undetectable-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Undetectable Browser MCP Server
 
 Official TypeScript Model Context Protocol server wrapping the Undetectable Browser local API for profile management and web automation.

@@ -1,3 +1,11 @@
+---
+title: "Visual Position Prompt for MLLM based Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-15426/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Visual Position Prompt for MLLM based Visual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-7B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-557edb1d63e8fcfdee12/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL-7B-Instruct
 
 Qwen2.5-VL-7B-Instruct releases vision-language weights whose card describes computer and phone use and reports results on screen grounding and mobile-agent benchmarks.

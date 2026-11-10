@@ -1,3 +1,11 @@
+---
+title: "Kota-Kawa Browser-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kota-kawa-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Kota-Kawa Browser-Agent
 
 FastAPI and browser-use web agent featuring live CDP session streaming, Server-Sent Events (SSE) progress logs, and interactive UI control.

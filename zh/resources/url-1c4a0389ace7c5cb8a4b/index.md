@@ -1,3 +1,11 @@
+---
+title: "OSWorld 2.0 task classes · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1c4a0389ace7c5cb8a4b/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # OSWorld 2.0 task classes
 
 OSWorld 2.0 基准的受限 Hub 发布版，包含 Python 任务类，其中的任务设置与评估逻辑未放入公开代码，以减少泄漏，并按基准版本固定。

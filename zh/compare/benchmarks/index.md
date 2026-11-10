@@ -1,3 +1,11 @@
+---
+title: "GUI 智能体评测基准协议对比 | AwesomeCUA"
+url: https://awesomecua.com/zh/compare/benchmarks/
+updated: 2026-11-10
+type: comparison
+lang: zh-CN
+---
+
 # GUI 智能体评测基准协议对比
 
 HTML 页面：https://awesomecua.com/zh/compare/benchmarks/

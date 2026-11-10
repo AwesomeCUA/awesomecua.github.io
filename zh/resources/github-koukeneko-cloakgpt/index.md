@@ -1,3 +1,11 @@
+---
+title: "CloakGPT · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-koukeneko-cloakgpt/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CloakGPT
 
 本地 CLI，通过具有反检测功能的 CloakBrowser 驱动已登录的 ChatGPT 网页会话。

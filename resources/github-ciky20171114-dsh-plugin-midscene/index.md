@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-midscene | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ciky20171114-dsh-plugin-midscene/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-plugin-midscene
 
 Midscene.js-powered visual UI automation plugin for DeepSeek Harness supporting both Android (`android_ui`) and Web (`web_ui`).

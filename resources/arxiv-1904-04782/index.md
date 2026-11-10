@@ -1,3 +1,11 @@
+---
+title: "Enabling Privacy-Preserving, Compute- and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1904-04782/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Enabling Privacy-Preserving, Compute- and Data-Intensive Computing using Heterogeneous Trusted Execution Environment
 
 Status: excluded from the active CUA catalog after scope review.

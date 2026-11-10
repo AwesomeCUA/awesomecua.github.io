@@ -1,3 +1,11 @@
+---
+title: "BU-30B-A3B-Preview · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2c4b53bc04f33578e9b8/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # BU-30B-A3B-Preview
 
 Browser Use 的开源权重浏览器智能体模型，由 Qwen3-VL-30B-A3B-Instruct 微调而成，共 30B 参数、激活 3B 参数，可通过 BU Cloud 或 vLLM 充当 browser-use 库的 LLM。

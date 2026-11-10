@@ -1,3 +1,11 @@
+---
+title: "WebFactory: Automated Compression of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-05044/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents
 
 Introduces WebFactory, a GUI-agent training pipeline that synthesizes websites, generates tasks and trajectories, and trains with decomposed rewards. Offline and online transfer evaluations examine agents trained on the generated environments.
@@ -26,6 +34,18 @@ Sicheng Fan, Qingyun Shi, Shengze Xu, Shengbo Cai, Tieyong Zeng, Li Ling, Yanyi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-05044/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-05044/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_05044,
+  title = {{WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents}},
+  author = {{Sicheng Fan} and {Qingyun Shi} and {Shengze Xu} and {Shengbo Cai} and {Tieyong Zeng} and {Li Ling} and {Yanyi Shang} and {Dehan Kong}},
+  year = {2026},
+  eprint = {2603.05044v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.05044v2},
+  note = {First published: 2026-03-05; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T08:14:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

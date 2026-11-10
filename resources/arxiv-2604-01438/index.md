@@ -1,3 +1,11 @@
+---
+title: "ClawSafety: \"Safe\" LLMs, Unsafe Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-01438/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ClawSafety: "Safe" LLMs, Unsafe Agents
 
 Bibliographic record for ClawSafety: "Safe" LLMs, Unsafe Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Bowen Wei, Yunbei Zhang, Jinhao Pan, Kai Mei, Xiao Wang, Jihun Hamm, Ziwei Zhu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-01438/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-01438/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_01438,
+  title = {{ClawSafety: "Safe" LLMs, Unsafe Agents}},
+  author = {{Bowen Wei} and {Yunbei Zhang} and {Jinhao Pan} and {Kai Mei} and {Xiao Wang} and {Jihun Hamm} and {Ziwei Zhu} and {Yingqiang Ge}},
+  year = {2026},
+  eprint = {2604.01438v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.01438v2},
+  note = {First published: 2026-04-01; Recorded arXiv version: v2; Recorded version updated: 2026-04-04T15:18:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

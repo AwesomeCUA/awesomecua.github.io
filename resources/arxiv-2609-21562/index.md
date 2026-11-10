@@ -1,3 +1,11 @@
+---
+title: "GameLogicBench: Evaluating Coding Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-21562/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions
 
 Bibliographic record for GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinyu Che, Yunfei Ge, Shihao Li, Yanchen Liu, Hang Yan, Xinping Lei, Yanghai Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-21562/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-21562/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_21562,
+  title = {{GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions}},
+  author = {{Xinyu Che} and {Yunfei Ge} and {Shihao Li} and {Yanchen Liu} and {Hang Yan} and {Xinping Lei} and {Yanghai Wang} and {Zixuan Dong} and {Yifan Yao} and {Qianqian Xie} and {Letian Zhu} and {Jiaheng Liu}},
+  year = {2026},
+  eprint = {2609.21562v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.21562v2},
+  note = {First published: 2026-09-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-21T16:56:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

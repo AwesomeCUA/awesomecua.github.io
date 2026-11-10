@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-aeb32973694f91ad9920/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # GUI-Owl 7B
 
 随 Mobile-Agent-v3 发布的基于 Qwen2.5-VL 的 GUI 模型检查点，支持界面定位后的操作及其智能体框架中的专门角色。

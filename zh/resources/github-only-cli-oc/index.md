@@ -1,3 +1,11 @@
+---
+title: "only-cli (oc) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-only-cli-oc/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # only-cli (oc)
 
 将网站编译为紧凑、节省 Token 且适合 AI 智能体使用的 CLI 命令。

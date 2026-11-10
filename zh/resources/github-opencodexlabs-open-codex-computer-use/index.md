@@ -1,3 +1,11 @@
+---
+title: "Open Claudex Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-opencodexlabs-open-codex-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Open Claudex Computer Use
 
 面向 Claude Code 和 Codex 的开源 macOS 后台计算机使用 MCP 服务器。

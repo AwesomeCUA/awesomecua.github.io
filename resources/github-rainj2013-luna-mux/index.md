@@ -1,3 +1,11 @@
+---
+title: "Luna Mux | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rainj2013-luna-mux/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Luna Mux
 
 Terminal and browser workbench for coding agents with automatic MCP injection, split panes, SSH/SFTP, and embedded browser automation.

@@ -1,3 +1,11 @@
+---
+title: "Multimodal-Mind2Web · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-66f780b493156dc7efe5/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Multimodal-Mind2Web
 
 Mind2Web 操作步骤与对应网页截图对齐，附原始及清理后的 HTML、候选元素和目标操作，包含训练集及按任务、网站和域名划分的留出测试集。

@@ -1,3 +1,11 @@
+---
+title: "Go-Browse-WA processed data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # Go-Browse-WA processed data
 
 Flattened web-interaction training records with accessibility-tree observations, assistant completions, trajectory rewards and step-link metadata.

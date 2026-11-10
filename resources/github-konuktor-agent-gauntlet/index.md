@@ -1,3 +1,11 @@
+---
+title: "AgentGauntlet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-konuktor-agent-gauntlet/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # AgentGauntlet
 
 Reliability CI harness for browser agents that runs identical web tasks across mutating DOM conditions to measure resilience.

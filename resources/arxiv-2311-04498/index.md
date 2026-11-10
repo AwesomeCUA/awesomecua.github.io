@@ -1,3 +1,11 @@
+---
+title: "NExT-Chat: An LMM for Chat, Detection and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-04498/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # NExT-Chat: An LMM for Chat, Detection and Segmentation
 
 Bibliographic record for NExT-Chat: An LMM for Chat, Detection and Segmentation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ao Zhang, Yuan Yao, Wei Ji, Zhiyuan Liu, Tat-Seng Chua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-04498/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-04498/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_04498,
+  title = {{NExT-Chat: An LMM for Chat, Detection and Segmentation}},
+  author = {{Ao Zhang} and {Yuan Yao} and {Wei Ji} and {Zhiyuan Liu} and {Tat-Seng Chua}},
+  year = {2023},
+  eprint = {2311.04498v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.04498v4},
+  note = {First published: 2023-11-08; Recorded arXiv version: v4; Recorded version updated: 2023-12-18T12:15:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

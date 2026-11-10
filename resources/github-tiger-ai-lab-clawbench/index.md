@@ -1,3 +1,11 @@
+---
+title: "ClawBench (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tiger-ai-lab-clawbench/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # ClawBench
 
 Everyday-task benchmark on live websites that runs browser agents in containerized Chromium, blocks each final submission request for scoring by URL match and an LLM judge, and records five layers of run evidence.

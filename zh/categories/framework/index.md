@@ -1,8 +1,16 @@
+---
+title: "计算机使用智能体框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/framework/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体框架
 
 框架是用于构建、运行、评估或训练计算机使用智能体的库和 SDK，从浏览器自动化智能体库到强化学习训练栈。
 
-> AwesomeCUA 目录收录 675 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
+> AwesomeCUA 目录收录 672 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https://awesomecua.com/categories/framework/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -10,7 +18,7 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https
 
 | 框架 | 平台 | 许可证 | 关联记录 |
 | --- | --- | --- | --- |
-| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 60 |
+| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 59 |
 | [Cua](https://awesomecua.com/resources/github-trycua-cua/) | 桌面 | [MIT（代码）](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 46 |
 | [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/epic-ehr-browser-automation/HEAD/LICENSE) | 13 |
 | [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/) | 桌面 · 手机 · 跨平台 | — | 13 |
@@ -25,15 +33,15 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https
 
 ### 这些框架覆盖哪些平台？
 
-在 675 条已审核框架中，网页 472 条、桌面 312 条、跨平台 154 条、手机 105 条；26 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 672 条已审核框架中，网页 469 条、桌面 309 条、跨平台 152 条、手机 105 条；26 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些框架有对应的论文？
 
-675 条中有 141 条链接到提出或说明它的 arXiv 论文，例如 [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)、[AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) 和 [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)。
+672 条中有 141 条链接到提出或说明它的 arXiv 论文，例如 [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)、[AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) 和 [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)。
 
 ### 框架使用哪些许可证？
 
-最常见的声明许可证是 MIT（309 条）、Apache-2.0（160 条）和 GPL-3.0（7 条）。675 条中有 182 条未记录声明的许可证。
+最常见的声明许可证是 MIT（309 条）、Apache-2.0（159 条）和 GPL-3.0（7 条）。672 条中有 180 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -7670,35 +7678,6 @@ BadAgents 提供污染后的训练数据集和评测脚本，用于针对智能�
 
 ---
 
-## Bees Desktop
-
-基于线程的多智能体桌面运行时，让一组 AI 智能体围绕本地文件和浏览器协作。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-bees-bot-bees-desktop/
-- 原始来源：https://github.com/Bees-bot/bees-desktop
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：跨平台、桌面、网页
-- 主题：工作流、工具集成、自动化
-- 证据核查日期：2026-11-04T17:30:39Z
-- ID：github:bees-bot/bees-desktop
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-bees-bot-bees-desktop/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/Bees-bot/bees-desktop/main/README.md（获取于 2026-11-04T17:30:39Z；SHA-256：fb25b09ac08e17da6a1f2371b6886a78ac3a5788d05fedad7212af41edef31c5）
-
----
-
 ## bg-driver-rs
 
 面向 macOS、Windows 和 Linux 的 Rust 后台计算机使用驱动程序。
@@ -14206,36 +14185,6 @@ Ant Group 开发的移动端原生智能体 SDK，用于构建可在设备上通
 
 - https://raw.githubusercontent.com/antgroup/Napaxi/HEAD/README.md（获取于 2026-11-04T16:30:14Z；SHA-256：9355a9b74e93a453268c19c0f252971aacef9da88b0e57dd14477bcfd4b95eb1）
 - https://raw.githubusercontent.com/antgroup/Napaxi/HEAD/LICENSE（获取于 2026-11-04T16:34:51Z；SHA-256：3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986）
-
----
-
-## Native by K
-
-面向开发者的本地优先开源 AI 智能体框架，集成终端、文件系统和浏览器控制。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-karunya-muddana-native/
-- 原始来源：https://github.com/Karunya-Muddana/Native
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：跨平台、桌面、网页
-- 主题：工具集成、工作流、自动化
-- 证据核查日期：2026-11-04T18:11:48Z
-- ID：github:karunya-muddana/native
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-karunya-muddana-native/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/Karunya-Muddana/Native/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/Karunya-Muddana/Native/main/README.md（获取于 2026-11-04T18:11:48Z；SHA-256：9ca0e066c1b2b2aee6a54af3f2c3e317c3f3063bb8f486a1975bb63db59c2cd6）
-- https://raw.githubusercontent.com/Karunya-Muddana/Native/HEAD/LICENSE（获取于 2026-11-04T18:16:23Z；SHA-256：c73175f8a9b6dc5789fb21524fde3295664013a062bf7eb1e25670ad309ba880）
 
 ---
 
@@ -20969,35 +20918,6 @@ The release contains WorkArena preprocessing and training source. An explicit pr
 
 - https://raw.githubusercontent.com/jiugao-yi/xihe-agent/main/README.md（获取于 2026-11-04T17:55:02Z；SHA-256：335e54ec8da818bc7f46b479f415693a61be997dca5726bd6e03e171f8077e81）
 - https://raw.githubusercontent.com/jiugao-yi/xihe-agent/HEAD/LICENSE（获取于 2026-11-04T18:00:14Z；SHA-256：fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85）
-
----
-
-## ZetaTron
-
-面向 Windows 的自主运行、本地优先的自主智能体测试框架，具备桌面和浏览器操作能力。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/
-- 原始来源：https://github.com/itsmarcelS/ZetaTron
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、Windows、网页
-- 主题：规划、记忆、自动化、工具集成
-- 证据核查日期：2026-11-04T18:11:48Z
-- ID：github:itsmarcels/zetatron
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-itsmarcels-zetatron/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/itsmarcelS/ZetaTron/main/README.md（获取于 2026-11-04T18:11:48Z；SHA-256：13f206bc3a588c2453e828d23b0a889c9aab6e075675d47f1f0e7da4be3f2212）
 
 ---
 

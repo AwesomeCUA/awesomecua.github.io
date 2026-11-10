@@ -1,3 +1,11 @@
+---
+title: "OmniStepBench: Deployment-Aware Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-06059/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # OmniStepBench: Deployment-Aware Agent Evaluation across Modalities and Task Complexity
 
 提出 OmniStepBench，在共享执行环境与统一评分规则下，评估多模态智能体的多步骤任务、工具使用及成果交付。
@@ -27,6 +35,18 @@ Yu Liu, Zhilin Liu, Zhiwei Yang, Shaojie Zhang, Zheyuan Deng, Tingwei Huang, Zhe
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-06059/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-06059/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_06059,
+  title = {{OmniStepBench: Deployment-Aware Agent Evaluation across Modalities and Task Complexity}},
+  author = {{Yu Liu} and {Zhilin Liu} and {Zhiwei Yang} and {Shaojie Zhang} and {Zheyuan Deng} and {Tingwei Huang} and {Zhenbo Luo} and {Lei Jiang} and {Yanbing Liu} and {Pei Fu}},
+  year = {2026},
+  eprint = {2609.06059v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.06059v2},
+  note = {First published: 2026-09-05; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T06:29:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

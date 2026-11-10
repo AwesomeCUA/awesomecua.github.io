@@ -1,3 +1,11 @@
+---
+title: "Bellwether | AwesomeCUA"
+url: https://awesomecua.com/resources/github-al-mohad-bell-weather/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Bellwether
 
 Bellwether measures multi-trial pass^k consistency of computer-use agents on legacy enterprise UI workflows.

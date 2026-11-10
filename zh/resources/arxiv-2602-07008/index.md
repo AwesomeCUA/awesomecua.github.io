@@ -1,3 +1,11 @@
+---
+title: "Where Not to Learn: Prior-Aligned… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-07008/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints
 
 提出基于证据子集归因的训练约束，引导模型依据预期证据作出决策，并在图像分类和 GUI 智能体点击任务中评估。
@@ -27,6 +35,18 @@ Ruoyu Chen, Shangquan Sun, Xiaoqing Guo, Kangwei Liu, Sanyi Zhang, Zhangcheng Wa
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-07008/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-07008/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_07008,
+  title = {{Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints}},
+  author = {{Ruoyu Chen} and {Shangquan Sun} and {Xiaoqing Guo} and {Kangwei Liu} and {Sanyi Zhang} and {Zhangcheng Wang} and {Shiming Liu} and {Qunli Zhang} and {Hua Zhang} and {Wei Wang} and {Xiaochun Cao}},
+  year = {2026},
+  eprint = {2602.07008v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.07008v6},
+  note = {First published: 2026-01-30; Recorded arXiv version: v6; Recorded version updated: 2026-09-26T09:11:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "hypr-computer-use-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-smirnov-labs-hypr-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # hypr-computer-use-mcp
 
 Hyprland/Wayland computer-use MCP server combining screenshot/click/type tools with tmux and CDP integration.

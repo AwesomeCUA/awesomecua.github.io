@@ -1,3 +1,11 @@
+---
+title: "redux-webmcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-breeznik-redux-webmcp/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # redux-webmcp
 
 A WebMCP bridge for Redux Toolkit apps that lets browser agents dispatch allowed actions and inspect state changes. Developers can require approval for selected actions.

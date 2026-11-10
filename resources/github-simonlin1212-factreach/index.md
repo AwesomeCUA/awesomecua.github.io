@@ -1,3 +1,11 @@
+---
+title: "FactReach | AwesomeCUA"
+url: https://awesomecua.com/resources/github-simonlin1212-factreach/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # FactReach
 
 Multi-channel web search and browser extraction Agent Skill covering 23 social and knowledge platforms.

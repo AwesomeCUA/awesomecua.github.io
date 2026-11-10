@@ -1,3 +1,11 @@
+---
+title: "GroundGUI RL Dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4e71dc456c4112eed727/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # GroundGUI RL Dataset
 
 Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.

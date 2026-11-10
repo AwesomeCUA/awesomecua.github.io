@@ -1,3 +1,11 @@
+---
+title: "Fuji-Web (github.com/normal-computing/fuji-web) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-normal-computing-fuji-web/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Fuji-Web
 
 Fuji-Web is a Chrome extension web agent that combines accessibility trees and screenshot grounding for autonomous browser workflow execution.

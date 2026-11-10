@@ -1,3 +1,11 @@
+---
+title: "Open Operator Evals | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nottelabs-open-operator-evals/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # Open Operator Evals
 
 Archived Notte Labs harness and results that run web agents eight times on a 30-task WebVoyager subset, judging each run with a GPT-4o screenshot judge and comparing it with the agent's self-reported success.

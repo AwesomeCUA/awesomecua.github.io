@@ -1,3 +1,11 @@
+---
+title: "Oh My DSH · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-secretxuan-oh-my-dsh/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Oh My DSH
 
 Oh My DSH 通过共享的比较并交换任务图，以及基于原生视觉的 Windows 计算机使用能力，为 DeepSeek Harness 协调多智能体团队。

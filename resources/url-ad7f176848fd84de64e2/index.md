@@ -1,3 +1,11 @@
+---
+title: "OpenCUA 32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ad7f176848fd84de64e2/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # OpenCUA 32B
 
 A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history with planning and grounded executable actions.

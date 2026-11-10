@@ -1,3 +1,11 @@
+---
+title: "MM1.5: Methods, Analysis & Insights from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-20566/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning
 
 MM1.5 is a multimodal model family trained with curated data mixtures; its MM1.5-UI variant targets mobile UI understanding.
@@ -26,6 +34,18 @@ Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-20566/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-20566/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_20566,
+  title = {{MM1.5: Methods, Analysis \& Insights from Multimodal LLM Fine-tuning}},
+  author = {{Haotian Zhang} and {Mingfei Gao} and {Zhe Gan} and {Philipp Dufter} and {Nina Wenzel} and {Forrest Huang} and {Dhruti Shah} and {Xianzhi Du} and {Bowen Zhang} and {Yanghao Li} and {Sam Dodge} and {Keen You} and {Zhen Yang} and {Aleksei Timofeev} and {Mingze Xu} and {Hong-You Chen} and {Jean-Philippe Fauconnier} and {Zhengfeng Lai} and {Haoxuan You} and {Zirui Wang} and {Afshin Dehghan} and {Peter Grasch} and {Yinfei Yang}},
+  year = {2024},
+  eprint = {2409.20566v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.20566v1},
+  note = {First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T17:59:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

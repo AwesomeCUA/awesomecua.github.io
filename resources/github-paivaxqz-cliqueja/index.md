@@ -1,3 +1,11 @@
+---
+title: "Clique Já | AwesomeCUA"
+url: https://awesomecua.com/resources/github-paivaxqz-cliqueja/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Clique Já
 
 Fast Chrome automation toolkit combining a Manifest V3 extension with a local coordination hub.

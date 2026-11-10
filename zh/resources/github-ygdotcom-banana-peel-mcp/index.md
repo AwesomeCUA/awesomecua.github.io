@@ -1,3 +1,11 @@
+---
+title: "Banana Peel MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ygdotcom-banana-peel-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Banana Peel MCP
 
 面向浏览器自动化智能体的 Model Context Protocol 路由器和技能注册表。

@@ -1,3 +1,11 @@
+---
+title: "Whose Agent Are You? Multi-Layer… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20910/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents
 
 构建日志框架，结合网络和协议指纹与浏览器交互行为，对网页智能体流量进行归属判定。决策树分类器在 6 种智能体实现、人工浏览及传统爬虫上接受评估。
@@ -27,6 +35,18 @@ Dayeon Kang, Hyejun Jeong, Jade Sheffey, Pubali Datta, Amir Houmansadr
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20910/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20910/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20910,
+  title = {{Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents}},
+  author = {{Dayeon Kang} and {Hyejun Jeong} and {Jade Sheffey} and {Pubali Datta} and {Amir Houmansadr}},
+  year = {2026},
+  eprint = {2606.20910v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20910v1},
+  note = {First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T20:07:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

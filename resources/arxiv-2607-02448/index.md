@@ -1,3 +1,11 @@
+---
+title: "AgentsCAD: Automated Design for Manufacturing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-02448/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition
 
 Status: excluded from the active CUA catalog after scope review.

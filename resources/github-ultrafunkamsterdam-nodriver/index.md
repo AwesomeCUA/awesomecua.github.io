@@ -1,3 +1,11 @@
+---
+title: "nodriver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ultrafunkamsterdam-nodriver/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # nodriver
 
 An asynchronous Python library for browser automation that controls Chromium-based browsers through the Chrome DevTools Protocol and provides text and selector-based element lookup.

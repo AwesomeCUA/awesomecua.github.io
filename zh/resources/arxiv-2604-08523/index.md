@@ -1,3 +1,11 @@
+---
+title: "ClawBench: Can AI Agents Complete… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-08523/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # ClawBench: Can AI Agents Complete Everyday Online Tasks?
 
 ClawBench 包含生产网站上 15 类共 153 项日常任务；拦截层阻止每次最终提交，从而在不产生预订、购买或求职申请等实际后果的情况下评分。
@@ -27,6 +35,17 @@ The annotation and scope were reviewed against the complete retained original ar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-08523/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-08523/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_08523,
+  title = {{ClawBench: Can AI Agents Complete Everyday Online Tasks?}},
+  year = {2026},
+  eprint = {2604.08523v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.08523v2},
+  note = {First published: 2026-04-09; Recorded arXiv version: v2; Recorded version updated: 2026-07-20T17:58:40Z; Authors: see the paper (https://arxiv.org/abs/2604.08523v2); this catalog does not list them.}
+}
+```
 
 ## arXiv 版本记录
 

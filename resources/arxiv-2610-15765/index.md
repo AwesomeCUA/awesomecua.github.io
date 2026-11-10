@@ -1,3 +1,11 @@
+---
+title: "A Decade in a Day: Synthesizing Agent-Native… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-15765/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution
 
 Introduces DeskIF-Bench to study how desktop application interfaces affect agents, and ANIS to synthesize interfaces from installed application capabilities.
@@ -26,6 +34,18 @@ Alan Wu, Wei Tao, Yiwen Guo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15765/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15765/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15765,
+  title = {{A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution}},
+  author = {{Alan Wu} and {Wei Tao} and {Yiwen Guo}},
+  year = {2026},
+  eprint = {2610.15765v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15765v1},
+  note = {First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T16:43:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

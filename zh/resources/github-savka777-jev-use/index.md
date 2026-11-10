@@ -1,3 +1,11 @@
+---
+title: "jev-use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-savka777-jev-use/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # jev-use
 
 macOS 语音和文字计算机使用应用，遍历前台应用的无障碍树，由托管的 Jev 模型逐步选择操作和编号目标，再通过无障碍操作及模拟输入执行。

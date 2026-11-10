@@ -1,3 +1,11 @@
+---
+title: "Automation — computer-use research, page 6 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/6/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 6
 
 HTML page: https://awesomecua.com/topics/automation/page/6/

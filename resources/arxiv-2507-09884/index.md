@@ -1,3 +1,11 @@
+---
+title: "VerifyBench: A Systematic Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-09884/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "MyPCBench: A Benchmark for Personally… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-16748/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents
 
 MyPCBench 在 Linux 桌面上，以单个虚构人物的模拟网页应用和数据测试个人助理任务。共享的计算机与 shell 接口支持评估依赖个人背景及类似账户状态的跨应用工作流。
@@ -27,6 +35,18 @@ Lawrence Keunho Jang, Andrew Keunwoo Jang, Jing Yu Koh, Ruslan Salakhutdinov
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-16748/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-16748/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_16748,
+  title = {{MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents}},
+  author = {{Lawrence Keunho Jang} and {Andrew Keunwoo Jang} and {Jing Yu Koh} and {Ruslan Salakhutdinov}},
+  year = {2026},
+  eprint = {2606.16748v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.16748v1},
+  note = {First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T14:08:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

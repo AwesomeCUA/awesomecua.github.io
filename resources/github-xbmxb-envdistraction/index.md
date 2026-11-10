@@ -1,3 +1,11 @@
+---
+title: "EnvDistraction | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xbmxb-envdistraction/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # EnvDistraction
 
 EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.

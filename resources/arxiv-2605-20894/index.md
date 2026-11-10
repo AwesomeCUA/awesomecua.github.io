@@ -1,3 +1,11 @@
+---
+title: "Mobile UMI: Cross-View Diffusion Policy with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-20894/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation
 
 Status: excluded from the active CUA catalog after scope review.

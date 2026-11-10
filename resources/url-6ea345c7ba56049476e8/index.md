@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI-OSWorld-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6ea345c7ba56049476e8/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ZeroGUI-OSWorld-7B
 
 A GUI agent checkpoint associated with ZeroGUI, which trains on generated interface tasks using rewards estimated from trajectory screenshots.

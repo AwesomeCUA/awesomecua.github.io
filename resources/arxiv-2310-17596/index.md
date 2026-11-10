@@ -1,3 +1,11 @@
+---
+title: "MimicGen: A Data Generation System for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-17596/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations
 
 Status: excluded from the active CUA catalog after scope review.

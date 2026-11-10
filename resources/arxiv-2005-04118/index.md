@@ -1,3 +1,11 @@
+---
+title: "Beyond Accuracy: Behavioral Testing of NLP… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-04118/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Beyond Accuracy: Behavioral Testing of NLP models with CheckList
 
 Bibliographic record for Beyond Accuracy: Behavioral Testing of NLP models with CheckList. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2005-04118/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2005-04118/citation.csl.json
+
+```bibtex
+@misc{arxiv_2005_04118,
+  title = {{Beyond Accuracy: Behavioral Testing of NLP models with CheckList}},
+  author = {{Marco Tulio Ribeiro} and {Tongshuang Wu} and {Carlos Guestrin} and {Sameer Singh}},
+  year = {2020},
+  eprint = {2005.04118v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2005.04118v1},
+  note = {First published: 2020-05-08; Recorded arXiv version: v1; Recorded version updated: 2020-05-08T15:48:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

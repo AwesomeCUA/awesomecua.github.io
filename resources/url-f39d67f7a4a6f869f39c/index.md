@@ -1,3 +1,11 @@
+---
+title: "Holotron 3 Nano | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f39d67f7a4a6f869f39c/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # Holotron 3 Nano
 
 Computer-use policy checkpoint that H Company post-trained from NVIDIA Nemotron 3 Nano Omni, a hybrid Mamba-MoE model with 3B of 30B parameters active per token, aimed at lower-latency agent workloads.

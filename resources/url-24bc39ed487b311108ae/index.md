@@ -1,3 +1,11 @@
+---
+title: "Operator System Card | AwesomeCUA"
+url: https://awesomecua.com/resources/url-24bc39ed487b311108ae/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Operator System Card
 
 The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.
@@ -22,6 +30,17 @@ The card describes supervised learning for screen perception and input control, 
 
 - BibTeX: https://awesomecua.com/resources/url-24bc39ed487b311108ae/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-24bc39ed487b311108ae/citation.csl.json
+
+```bibtex
+@misc{cua_d1af8932538e968e7166f752,
+  title = {{Operator System Card}},
+  year = {2025},
+  month = jan,
+  publisher = {OpenAI},
+  url = {https://openai.com/index/operator-system-card},
+  note = {Publication date: 2025-01-23.}
+}
+```
 
 ## Publication record
 

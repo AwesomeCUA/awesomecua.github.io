@@ -1,3 +1,11 @@
+---
+title: "StateFork: Branchable Infrastructure for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38648/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # StateFork: Branchable Infrastructure for Agent Exploration
 
 Introduces StateFork and Waypoint for branching and restoring terminal-agent sessions so agents can explore multiple paths while preserving execution state.
@@ -26,6 +34,18 @@ Jiakai Xu, Tianle Zhou, Georgios Liargkovas, Danielle Gillai, Ruizhe Fu, Patrick
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38648/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38648/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38648,
+  title = {{StateFork: Branchable Infrastructure for Agent Exploration}},
+  author = {{Jiakai Xu} and {Tianle Zhou} and {Georgios Liargkovas} and {Danielle Gillai} and {Ruizhe Fu} and {Patrick Shen} and {Eugene Wu} and {Kostis Kaffes}},
+  year = {2026},
+  eprint = {2609.38648v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38648v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T23:11:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

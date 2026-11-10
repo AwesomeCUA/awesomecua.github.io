@@ -1,3 +1,11 @@
+---
+title: "A Functionality-Grounded Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-15832/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains
 
 Amazon-Bench 根据页面内容和交互控件生成针对特定功能的网页任务，涵盖商品搜索之外的操作；其评估器检查任务完成情况及地址或购买设置等账户状态的意外变更。
@@ -27,6 +35,18 @@ Xianren Zhang, Shreyas Prasad, Di Wang, Qiuhai Zeng, Suhang Wang, Wenbo Yan, Mat
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-15832/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-15832/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_15832,
+  title = {{A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains}},
+  author = {{Xianren Zhang} and {Shreyas Prasad} and {Di Wang} and {Qiuhai Zeng} and {Suhang Wang} and {Wenbo Yan} and {Mat Hans}},
+  year = {2025},
+  eprint = {2508.15832v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.15832v2},
+  note = {First published: 2025-08-18; Recorded arXiv version: v2; Recorded version updated: 2026-04-21T00:38:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Hi-Agent: Hierarchical Vision-Language Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-14388/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control
 
 Introduces Hi-Agent, jointly training a high-level reasoning model and a low-level mobile action model. Execution feedback supplies a foresight advantage for optimizing subgoal decisions, with evaluations on Android control benchmarks.
@@ -26,6 +34,17 @@ Reviewed against the exact-version official arXiv abstract page; its complete ti
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-14388/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-14388/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_14388,
+  title = {{Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control}},
+  year = {2025},
+  eprint = {2510.14388v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.14388v2},
+  note = {First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z; Authors: see the paper (https://arxiv.org/abs/2510.14388v2); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

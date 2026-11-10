@@ -1,3 +1,11 @@
+---
+title: "Group-in-Group Policy Optimization for LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-10978/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Group-in-Group Policy Optimization for LLM Agent Training
 
 Introduces Group-in-Group Policy Optimization (GiGPO), an RL method for assigning step-level credit in multi-turn agents, evaluated on WebShop among other tasks.
@@ -26,6 +34,18 @@ Lang Feng, Zhenghai Xue, Tingcong Liu, Bo An
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-10978/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-10978/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_10978,
+  title = {{Group-in-Group Policy Optimization for LLM Agent Training}},
+  author = {{Lang Feng} and {Zhenghai Xue} and {Tingcong Liu} and {Bo An}},
+  year = {2025},
+  eprint = {2505.10978v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.10978v3},
+  note = {First published: 2025-05-16; Recorded arXiv version: v3; Recorded version updated: 2025-10-28T15:11:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "StainFlow: Entity-Stain Tracking and Evidence… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-07027/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents
 
 StainFlow tracks visually verifiable task entities through GUI trajectories to identify phases and retrieve focused evidence windows. Its process-reward model is tested for both online policy learning and trajectory-completion judgments.
@@ -26,6 +34,18 @@ Haojie Hao, Longkun Hao, Yihang Lou, Yan Bai, Zhenyang Li, Zhichao Yang, Dongshu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-07027/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-07027/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_07027,
+  title = {{StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents}},
+  author = {{Haojie Hao} and {Longkun Hao} and {Yihang Lou} and {Yan Bai} and {Zhenyang Li} and {Zhichao Yang} and {Dongshuo Huang} and {Hongyu Lin} and {Lanqing Hong} and {Jiakai Wang} and {Xianglong Liu}},
+  year = {2026},
+  eprint = {2606.07027v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.07027v2},
+  note = {First published: 2026-06-05; Recorded arXiv version: v2; Recorded version updated: 2026-06-12T07:28:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WebPRM Collection preference data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # WebPRM Collection preference data
 
 Checklist-annotated web decision records with page observations, prior actions, one preferred continuation and rejected alternatives for process-reward learning.

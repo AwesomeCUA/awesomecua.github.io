@@ -1,3 +1,11 @@
+---
+title: "Learning Interactive Real-World Simulators | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-06114/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Learning Interactive Real-World Simulators
 
 Bibliographic record for Learning Interactive Real-World Simulators. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sherry Yang, Yilun Du, Kamyar Ghasemipour, Jonathan Tompson, Leslie Kaelbling, D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-06114/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-06114/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_06114,
+  title = {{Learning Interactive Real-World Simulators}},
+  author = {{Sherry Yang} and {Yilun Du} and {Kamyar Ghasemipour} and {Jonathan Tompson} and {Leslie Kaelbling} and {Dale Schuurmans} and {Pieter Abbeel}},
+  year = {2023},
+  eprint = {2310.06114v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.06114v3},
+  note = {First published: 2023-10-09; Recorded arXiv version: v3; Recorded version updated: 2024-09-26T17:14:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 10 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/10/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 10
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/10/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [weboperator-experiments](https://awesomecua.com/resources/url-a12c18540006368e69ab/)
 - [WebPRM checklist-generation data](https://awesomecua.com/resources/url-fcc98b149272bbf31b05/)
 - [WebPRM Collection preference data](https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/)
 - [WebsiteBench](https://awesomecua.com/resources/url-687a7b27f38720fe54bc/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [OpenJev-1.7B](https://awesomecua.com/resources/url-24ec6c30e9bb9946c13f/)
 - [OpenJev-4B](https://awesomecua.com/resources/url-e592a1ff8bfcafcc7061/)
 - [OpenJev-8B](https://awesomecua.com/resources/url-8f5a8144b96447be84c5/)
+- [OpenWebVoyager-opt-1](https://awesomecua.com/resources/url-bd293c9a5f9bf16b8199/)

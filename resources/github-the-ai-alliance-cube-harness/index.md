@@ -1,3 +1,11 @@
+---
+title: "cube-harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # cube-harness
 
 cube-harness runs agent evaluations across compatible benchmarks, including MiniWob, and provides trajectories, screenshots, and an experiment viewer.

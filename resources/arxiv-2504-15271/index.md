@@ -1,3 +1,11 @@
+---
+title: "Eagle 2.5: Boosting Long-Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-15271/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models
 
 Bibliographic record for Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guo Chen, Zhiqi Li, Shihao Wang, Jindong Jiang, Yicheng Liu, Lidong Lu, De-An Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-15271/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-15271/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_15271,
+  title = {{Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models}},
+  author = {{Guo Chen} and {Zhiqi Li} and {Shihao Wang} and {Jindong Jiang} and {Yicheng Liu} and {Lidong Lu} and {De-An Huang} and {Wonmin Byeon} and {Matthieu Le} and {Tuomas Rintamaki} and {Tyler Poon} and {Max Ehrlich} and {Tuomas Rintamaki} and {Tyler Poon} and {Tong Lu} and {Limin Wang} and {Bryan Catanzaro} and {Jan Kautz} and {Andrew Tao} and {Zhiding Yu} and {Guilin Liu}},
+  year = {2025},
+  eprint = {2504.15271v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.15271v1},
+  note = {First published: 2025-04-21; Recorded arXiv version: v1; Recorded version updated: 2025-04-21T17:57:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

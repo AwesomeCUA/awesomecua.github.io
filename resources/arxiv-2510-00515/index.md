@@ -1,3 +1,11 @@
+---
+title: "Efficient Multi-modal Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-00515/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Multi-modal Large Language Models via Progressive Consistency Distillation
 
 Status: excluded from the active CUA catalog after scope review.

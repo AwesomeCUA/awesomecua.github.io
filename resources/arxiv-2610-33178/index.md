@@ -1,3 +1,11 @@
+---
+title: "AOS-Bench: Can LLM Agents Manage Dynamic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33178/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AOS-Bench: Can LLM Agents Manage Dynamic Workloads?
 
 Bibliographic record for AOS-Bench: Can LLM Agents Manage Dynamic Workloads?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Erle Zhu, Genrui Zhang, Keyang Hu, Mingyu Su, Hongning Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-33178/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-33178/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33178,
+  title = {{AOS-Bench: Can LLM Agents Manage Dynamic Workloads?}},
+  author = {{Erle Zhu} and {Genrui Zhang} and {Keyang Hu} and {Mingyu Su} and {Hongning Wang}},
+  year = {2026},
+  eprint = {2610.33178v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33178v2},
+  note = {First published: 2026-10-23; Recorded arXiv version: v2; Recorded version updated: 2026-10-27T04:20:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

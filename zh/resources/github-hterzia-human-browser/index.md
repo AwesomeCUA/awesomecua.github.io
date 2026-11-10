@@ -1,3 +1,11 @@
+---
+title: "Human-Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hterzia-human-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Human-Browser
 
 视觉驱动的浏览器自动化服务，由外部 LLM 设定高级目标，再由视觉浏览器助手执行。

@@ -1,3 +1,11 @@
+---
+title: "ColorBrowserAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-madeagents-browser-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # ColorBrowserAgent
 
 面向长程网页任务的浏览器智能体，将执行进度压缩为摘要，并利用人工提供的网站知识指导后续操作。

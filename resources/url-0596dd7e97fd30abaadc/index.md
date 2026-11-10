@@ -1,3 +1,11 @@
+---
+title: "RLG-ALE | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # RLG-ALE
 
 RLG-ALE evaluates mobile GUI agents on inspectable Android tasks. Its page shows sample episodes with prompts, screenshots, evaluation records, and resettable environments.

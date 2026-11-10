@@ -1,3 +1,11 @@
+---
+title: "VillagerAgent: A Graph-Based Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-05720/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Agent Skills Enable a New Class of Realistic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-26328/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections
 
 Bibliographic record for Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ David Schmotz, Sahar Abdelnabi, Maksym Andriushchenko
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-26328/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-26328/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_26328,
+  title = {{Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections}},
+  author = {{David Schmotz} and {Sahar Abdelnabi} and {Maksym Andriushchenko}},
+  year = {2025},
+  eprint = {2510.26328v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.26328v1},
+  note = {First published: 2025-10-30; Recorded arXiv version: v1; Recorded version updated: 2025-10-30T10:27:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

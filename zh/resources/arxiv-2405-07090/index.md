@@ -1,3 +1,11 @@
+---
+title: "MUD: Towards a Large-Scale and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2405-07090/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling
 
 MUD 结合 LLM 引导的 Android 应用探索、噪声过滤和人工标注，收集现代风格 UI 截图；研究评估了所得数据在元素检测和 UI 检索中的用途。
@@ -27,6 +35,18 @@ Sidong Feng, Suyu Ma, Han Wang, David Kong, Chunyang Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2405-07090/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2405-07090/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_07090,
+  title = {{MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling}},
+  author = {{Sidong Feng} and {Suyu Ma} and {Han Wang} and {David Kong} and {Chunyang Chen}},
+  year = {2024},
+  eprint = {2405.07090v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.07090v1},
+  note = {First published: 2024-05-11; Recorded arXiv version: v1; Recorded version updated: 2024-05-11T20:32:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

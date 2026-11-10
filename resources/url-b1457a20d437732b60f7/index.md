@@ -1,3 +1,11 @@
+---
+title: "Holo4-27B-NVFP4 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b1457a20d437732b60f7/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Holo4-27B-NVFP4
 
 A quantized Holo4 vision-language checkpoint for computer use across web, desktop, and mobile interfaces, with a harness that executes requested GUI and tool actions.

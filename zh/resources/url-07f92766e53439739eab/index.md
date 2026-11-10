@@ -1,3 +1,11 @@
+---
+title: "Accio Work · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-07f92766e53439739eab/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Accio Work
 
 Alibaba 支持的中小企业采购、店铺运营和营销智能体工作空间；智能体可操作用户自己的 Chromium 浏览器，导航、点击、输入、截图和提取数据。

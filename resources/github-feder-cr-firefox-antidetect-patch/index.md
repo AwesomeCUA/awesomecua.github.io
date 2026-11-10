@@ -1,3 +1,11 @@
+---
+title: "firefox_antidetect_patch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # firefox_antidetect_patch
 
 A Firefox patch series against a Mozilla release tag, one folder per feature, that adds engine-level fingerprint, network and Juggler automation patches and builds the anti-detect Firefox behind invisible_playwright.

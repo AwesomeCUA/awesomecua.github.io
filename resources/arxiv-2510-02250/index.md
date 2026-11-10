@@ -1,3 +1,11 @@
+---
+title: "Scaling Agents for Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-02250/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Scaling Agents for Computer Use
 
 Introduces Behavior Judge, which converts execution trajectories into behavior narratives and compares multiple candidate rollouts. Experiments examine this selection approach on OSWorld, WindowsAgentArena and AndroidWorld.
@@ -26,6 +34,18 @@ Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee, Jiachen Yang, Ang Li, Xin 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-02250/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-02250/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_02250,
+  title = {{Scaling Agents for Computer Use}},
+  author = {{Gonzalo Gonzalez-Pumariega} and {Vincent Tu} and {Chih-Lun Lee} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2025},
+  eprint = {2510.02250v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.02250v2},
+  note = {First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-02-03T23:48:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

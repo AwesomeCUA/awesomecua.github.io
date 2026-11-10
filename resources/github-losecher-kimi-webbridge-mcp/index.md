@@ -1,3 +1,11 @@
+---
+title: "kimi-webbridge-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-losecher-kimi-webbridge-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # kimi-webbridge-mcp
 
 Stdio Model Context Protocol server wrapping the local Kimi WebBridge daemon as browser-control tools.

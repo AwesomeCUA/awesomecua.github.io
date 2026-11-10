@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 24 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/24/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 24
 
 HTML page: https://awesomecua.com/topics/automation/page/24/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Sidelook](https://awesomecua.com/resources/github-ucsandman-sidelook/)
-- [Sidemates](https://awesomecua.com/resources/github-prisacariurobert-sidemates/)
-- [SIH26 Privacy-Preserving Browser Agent](https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/)
-- [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/)
-- [SikuliX1](https://awesomecua.com/resources/github-raiman-sikulix1/)
 - [SilbercueSwift](https://awesomecua.com/resources/github-silbercue-silbercueswift/)
 - [simpilot](https://awesomecua.com/resources/github-passerby2049-simpilot/)
 - [siropkin chrome-bridge](https://awesomecua.com/resources/github-siropkin-chrome-bridge/)
@@ -64,3 +67,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Taylor-Bayouth Browser Agent](https://awesomecua.com/resources/github-taylor-bayouth-browser-agent/)
 - [TeachReplay](https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/)
 - [TeachReplay — OpenMausBot Integration](https://awesomecua.com/resources/github-ottohere-mourn-teachreplay-openmausbot/)
+- [Tencent BrowserSkill](https://awesomecua.com/resources/github-tencent-browserskill/)
+- [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/)
+- [Terminal Computer Use](https://awesomecua.com/resources/github-vivekkartha-terminal-computer-use/)
+- [terminal-use-mcp](https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/)
+- [Terminator](https://awesomecua.com/resources/github-mediar-ai-terminator/)

@@ -1,3 +1,11 @@
+---
+title: "Scaling Autonomous Agents via Automatic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-12130/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Scaling Autonomous Agents via Automatic Reward Modeling And Planning
 
 Introduces a framework that learns a reward model from agent trajectories to guide multi-step planning, with online shopping among its decision-making settings.
@@ -26,6 +34,18 @@ Zhenfang Chen, Delin Chen, Rui Sun, Wenjun Liu, Chuang Gan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-12130/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-12130/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_12130,
+  title = {{Scaling Autonomous Agents via Automatic Reward Modeling And Planning}},
+  author = {{Zhenfang Chen} and {Delin Chen} and {Rui Sun} and {Wenjun Liu} and {Chuang Gan}},
+  year = {2025},
+  eprint = {2502.12130v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.12130v1},
+  note = {First published: 2025-02-17; Recorded arXiv version: v1; Recorded version updated: 2025-02-17T18:49:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

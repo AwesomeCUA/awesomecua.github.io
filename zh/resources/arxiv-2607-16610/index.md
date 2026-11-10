@@ -1,3 +1,11 @@
+---
+title: "Just A Rather Very Intelligent Spoken… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-16610/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Just A Rather Very Intelligent Spoken Agent
 
 提出 JarvisBench，评估长流程智能体任务中的语音中介，分别衡量任务协作效果及用户对持续执行过程的跟进情况。
@@ -27,6 +35,18 @@ Chen Chen, Zhehuai Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-16610/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-16610/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_16610,
+  title = {{Just A Rather Very Intelligent Spoken Agent}},
+  author = {{Chen Chen} and {Zhehuai Chen}},
+  year = {2026},
+  eprint = {2607.16610v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.16610v1},
+  note = {First published: 2026-07-18; Recorded arXiv version: v1; Recorded version updated: 2026-07-18T03:10:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

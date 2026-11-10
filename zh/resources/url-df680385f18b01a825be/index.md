@@ -1,3 +1,11 @@
+---
+title: "GUI-R1 data bundle · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-df680385f18b01a825be/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # GUI-R1 data bundle
 
 随 GUI-R1 提供的训练和评估用 Parquet 数据包，包含 GUI 定位及移动端和网页端的动作预测数据。

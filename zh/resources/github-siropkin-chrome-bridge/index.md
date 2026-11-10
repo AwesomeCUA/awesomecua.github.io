@@ -1,3 +1,11 @@
+---
+title: "siropkin chrome-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-siropkin-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # siropkin chrome-bridge
 
 浏览器自动化桥接工具，让 AI 智能体操作用户真实且已登录的 Chrome 浏览器。

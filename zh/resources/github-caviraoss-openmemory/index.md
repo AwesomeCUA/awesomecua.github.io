@@ -1,3 +1,11 @@
+---
+title: "OpenMemory (LongMemory) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-caviraoss-openmemory/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenMemory (LongMemory)
 
 OpenMemory 为长时程 AI 智能体提供本地优先的时序图记忆、衰减评分和 MCP 集成。

@@ -1,3 +1,11 @@
+---
+title: "Browser AI Agent Examples (Tiered Web Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-quantumproxies-browser-ai-agent-examples/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Browser AI Agent Examples (Tiered Web Agent)
 
 Goal-driven web agent architecture using a cheapest-tier-first cascade across XHR discovery, DOM actions, and vision.

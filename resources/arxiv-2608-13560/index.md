@@ -1,3 +1,11 @@
+---
+title: "AutoDesign: Meta-Harness Optimization for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-13560/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
 
 Bibliographic record for AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan, Haodong Li, Zhengrong 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-13560/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-13560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_13560,
+  title = {{AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design}},
+  author = {{Yaxin Luo} and {Haobin Jiang} and {Jialv Zou} and {Xu Huang} and {Wenhao Yan} and {Haodong Li} and {Zhengrong Yue} and {Jing Li} and {Xiaofu Chen} and {Xiaohan Zhao} and {Jiacheng Liu} and {Jiacheng Cui} and {Zhiqiang Shen} and {Xiaotong Li}},
+  year = {2026},
+  eprint = {2608.13560v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.13560v1},
+  note = {First published: 2026-08-13; Recorded arXiv version: v1; Recorded version updated: 2026-08-13T17:59:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

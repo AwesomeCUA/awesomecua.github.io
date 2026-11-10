@@ -1,10 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 9 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/9/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 9 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [Chrome Extension Tester MCP](https://awesomecua.com/zh/resources/github-bhuvan-rj-chrome-extension-testing-mcp/)
 - [Chrome Faithful](https://awesomecua.com/zh/resources/github-bpc-oss-chrome-faithful/)
 - [Chrome for AI](https://awesomecua.com/zh/resources/github-pelag-michael-chrome-for-ai/)
 - [Chrome Live MCP](https://awesomecua.com/zh/resources/github-wankaiyi-chrome-live-mcp/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/9/
 - [Codex ChatGPT Web Delegator](https://awesomecua.com/zh/resources/github-steeltimber-codex-chatgpt-web-delegator/)
 - [Codex ChatGPT Web Orchestrator](https://awesomecua.com/zh/resources/github-chicogong-codex-chatgpt-web-orchestrator/)
 - [Codex Chrome Browser Control Skill](https://awesomecua.com/zh/resources/github-qlk-x-codex-chrome-browser-control/)
+- [Codex Computer Use Lab](https://awesomecua.com/zh/resources/github-hqhq1025-codex-computer-use-lab/)

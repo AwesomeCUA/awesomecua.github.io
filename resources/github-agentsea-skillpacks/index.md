@@ -1,3 +1,11 @@
+---
+title: "SkillPacks | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentsea-skillpacks/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SkillPacks
 
 SkillPacks records and approves agent tool actions for retrieval and later training, illustrated with a desktop-control example.

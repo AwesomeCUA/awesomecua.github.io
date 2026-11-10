@@ -1,3 +1,11 @@
+---
+title: "Names Are Not Objects: Object-Bound… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14488/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents
 
 Bibliographic record for Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Daniel Commey
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14488/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14488/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14488,
+  title = {{Names Are Not Objects: Object-Bound Confinement for Compromised AI Coding Agents}},
+  author = {{Daniel Commey}},
+  year = {2026},
+  eprint = {2610.14488v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14488v1},
+  note = {First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T02:38:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

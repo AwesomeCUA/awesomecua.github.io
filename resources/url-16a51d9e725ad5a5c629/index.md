@@ -1,3 +1,11 @@
+---
+title: "Holo2 4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-16a51d9e725ad5a5c629/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Holo2 4B
 
 A Qwen3-VL-based checkpoint for navigation and multi-step GUI actions across web, desktop and mobile interfaces.

@@ -1,3 +1,11 @@
+---
+title: "Browser Automation Benchmark (Python… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tashonbraganca-browser-automation-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Browser Automation Benchmark (Python vs Rust)
 
 评测 Python Playwright、Rust playwright-rs 和 chromiumoxide 的无头浏览器启动、导航及截图延迟。

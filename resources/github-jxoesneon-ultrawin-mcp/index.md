@@ -1,3 +1,11 @@
+---
+title: "UltraWin MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UltraWin MCP
 
 Rust Model Context Protocol server for Windows desktop automation providing native UI Automation tree inspection and input control.

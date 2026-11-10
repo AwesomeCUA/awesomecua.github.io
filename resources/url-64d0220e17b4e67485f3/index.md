@@ -1,3 +1,11 @@
+---
+title: "cogagent-vqa-hf | AwesomeCUA"
+url: https://awesomecua.com/resources/url-64d0220e17b4e67485f3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # cogagent-vqa-hf
 
 A CogAgent checkpoint oriented toward single-turn visual dialogue; its card also describes GUI screenshot understanding, coordinate actions, and reported GUI dataset results.

@@ -1,3 +1,11 @@
+---
+title: "Mini-InternVL: A Flexible-Transfer Pocket… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-16261/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance
 
 Bibliographic record for Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhangwei Gao, Zhe Chen, Erfei Cui, Yiming Ren, Weiyun Wang, Jinguo Zhu, Hao Tian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-16261/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-16261/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_16261,
+  title = {{Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5\% Parameters and 90\% Performance}},
+  author = {{Zhangwei Gao} and {Zhe Chen} and {Erfei Cui} and {Yiming Ren} and {Weiyun Wang} and {Jinguo Zhu} and {Hao Tian} and {Shenglong Ye} and {Junjun He} and {Xizhou Zhu} and {Lewei Lu} and {Tong Lu} and {Yu Qiao} and {Jifeng Dai} and {Wenhai Wang}},
+  year = {2024},
+  eprint = {2410.16261v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.16261v3},
+  note = {First published: 2024-10-21; Recorded arXiv version: v3; Recorded version updated: 2024-11-07T15:35:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

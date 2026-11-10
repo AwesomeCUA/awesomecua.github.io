@@ -1,3 +1,11 @@
+---
+title: "General Scales Unlock AI Evaluation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-06378/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # General Scales Unlock AI Evaluation with Explanatory and Predictive Power
 
 Status: excluded from the active CUA catalog after scope review.

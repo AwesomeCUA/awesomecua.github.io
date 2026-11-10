@@ -1,3 +1,11 @@
+---
+title: "rebrowser-bot-detector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rebrowser-rebrowser-bot-detector/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # rebrowser-bot-detector
 
 Browser test page whose checks flag automation leaks from Puppeteer and Playwright, such as Runtime.enable use, injected source URLs, main-world execution and headless signals, each with a suggested fix.

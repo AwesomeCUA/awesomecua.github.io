@@ -1,3 +1,11 @@
+---
+title: "Astra plays GTA Vice City | AwesomeCUA"
+url: https://awesomecua.com/resources/github-da03-astra-plays-gta/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Astra plays GTA Vice City
 
 A macOS helper and prompt let a desktop agent control GTA Vice City through screenshots and short input steps, pausing the game while it decides what to do next.

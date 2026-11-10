@@ -1,3 +1,11 @@
+---
+title: "Large Language Models Cannot Self-Correct… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-01798/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Large Language Models Cannot Self-Correct Reasoning Yet
 
 Bibliographic record for Large Language Models Cannot Self-Correct Reasoning Yet. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xiny
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-01798/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-01798/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_01798,
+  title = {{Large Language Models Cannot Self-Correct Reasoning Yet}},
+  author = {{Jie Huang} and {Xinyun Chen} and {Swaroop Mishra} and {Huaixiu Steven Zheng} and {Adams Wei Yu} and {Xinying Song} and {Denny Zhou}},
+  year = {2023},
+  eprint = {2310.01798v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.01798v2},
+  note = {First published: 2023-10-03; Recorded arXiv version: v2; Recorded version updated: 2024-03-14T04:27:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

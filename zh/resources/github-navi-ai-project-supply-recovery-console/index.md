@@ -1,3 +1,11 @@
+---
+title: "Supply Recovery Console (WebMCP) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-navi-ai-project-supply-recovery-console/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Supply Recovery Console (WebMCP)
 
 WebMCP 参考控制台，供浏览器智能体执行可审计、经人工批准的供应链动作。

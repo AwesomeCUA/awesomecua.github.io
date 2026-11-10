@@ -1,3 +1,11 @@
+---
+title: "Fuji-Web (github.com/normal-computing-os… · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-normal-computing-oss-fuji-web/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Fuji-Web
 
 Chrome 侧边栏扩展智能体，使用 OpenAI、Anthropic 或 Gemini 模型，从标有 uid 的截图或简化 DOM 中选择点击、输入、滚动和导航操作，完成网站上的文字任务。

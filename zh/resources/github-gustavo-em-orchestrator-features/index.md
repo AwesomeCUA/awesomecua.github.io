@@ -1,3 +1,11 @@
+---
+title: "Orquestrador de Features · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gustavo-em-orchestrator-features/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Orquestrador de Features
 
 多智能体循环流程，规划 React Native 移动端功能、编写代码、操控模拟器 UI 并验证视觉结果。

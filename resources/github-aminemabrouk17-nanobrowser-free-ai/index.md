@@ -1,3 +1,11 @@
+---
+title: "Nanobrowser Free AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aminemabrouk17-nanobrowser-free-ai/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Nanobrowser Free AI
 
 Privacy-focused Chrome extension multi-agent web automation assistant powered by free-tier Gemini models.

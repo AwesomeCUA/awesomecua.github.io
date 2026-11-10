@@ -1,3 +1,11 @@
+---
+title: "MELRA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xagi-lab-melra/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MELRA
 
 Modular Execution Layer for Reliable Autonomy（MELRA）是本地 MCP 运行时，可验证智能体工具调用并对高风险动作设置准入控制。

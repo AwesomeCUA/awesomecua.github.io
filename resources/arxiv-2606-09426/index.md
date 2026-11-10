@@ -1,3 +1,11 @@
+---
+title: "WeaveBench: A Long-Horizon, Real-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-09426/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces
 
 WeaveBench requires agents to combine GUI, command-line and code operations within long tasks on an Ubuntu desktop. A trajectory-aware judge checks deliverables and interaction evidence, including shortcut behavior that outcome-only grading can miss.
@@ -26,6 +34,18 @@ Wanli Li, Bowen Zhou, Yunyao Yu, Zhou Xu, Yifan Yang, Dongsheng Li, Caihua Shan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-09426/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-09426/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_09426,
+  title = {{WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces}},
+  author = {{Wanli Li} and {Bowen Zhou} and {Yunyao Yu} and {Zhou Xu} and {Yifan Yang} and {Dongsheng Li} and {Caihua Shan}},
+  year = {2026},
+  eprint = {2606.09426v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.09426v3},
+  note = {First published: 2026-06-08; Recorded arXiv version: v3; Recorded version updated: 2026-07-06T14:25:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-4B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2c30792aed2821284db6/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-4B-Instruct
 
 Qwen3-VL-4B-Instruct 是视觉语言模型权重；其模型卡描述了识别界面元素并使用工具操作电脑和移动设备图形界面的能力。

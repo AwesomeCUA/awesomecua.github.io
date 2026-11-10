@@ -1,3 +1,11 @@
+---
+title: "AMEX: Android Multi-annotation Expo Dataset… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-17490/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents
 
 Introduces Android screenshots with element locations, functionality descriptions, and instructions linked to sequences of GUI actions.
@@ -26,6 +34,18 @@ Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Dingyu Zhang, Shuai 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-17490/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-17490/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_17490,
+  title = {{AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents}},
+  author = {{Yuxiang Chai} and {Siyuan Huang} and {Yazhe Niu} and {Han Xiao} and {Liang Liu} and {Dingyu Zhang} and {Shuai Ren} and {Hongsheng Li}},
+  year = {2024},
+  eprint = {2407.17490v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.17490v2},
+  note = {First published: 2024-07-03; Recorded arXiv version: v2; Recorded version updated: 2025-05-29T02:43:50Z.}
+}
+```
 
 ## Publication record
 

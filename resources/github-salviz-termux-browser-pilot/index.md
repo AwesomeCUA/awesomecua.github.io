@@ -1,3 +1,11 @@
+---
+title: "Termux Browser Pilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-salviz-termux-browser-pilot/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Termux Browser Pilot
 
 Runs unrooted headless/Xvfb Firefox and Chromium browser automation with CDP and an MCP server directly inside Android Termux.

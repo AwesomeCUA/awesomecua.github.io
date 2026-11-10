@@ -1,3 +1,11 @@
+---
+title: "GoLogin MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gologinapp-gologin-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GoLogin MCP Server
 
 GoLogin MCP Server allows AI agents to manage anti-detect browser profiles, proxies, fingerprints, and cloud browser sessions.

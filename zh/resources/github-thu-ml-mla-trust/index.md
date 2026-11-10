@@ -1,3 +1,11 @@
+---
+title: "MLA-Trust · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thu-ml-mla-trust/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # MLA-Trust
 
 统一评估框架，衡量多模态 LLM 智能体在交互式网页和移动 GUI 任务中的真实性、可控性、安全性与隐私表现。

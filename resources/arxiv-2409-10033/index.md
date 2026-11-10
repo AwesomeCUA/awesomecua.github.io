@@ -1,3 +1,11 @@
+---
+title: "Can GPT-O1 Kill All Bugs? An Evaluation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-10033/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs
 
 Status: excluded from the active CUA catalog after scope review.

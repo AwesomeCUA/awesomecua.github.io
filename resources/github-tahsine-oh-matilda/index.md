@@ -1,3 +1,11 @@
+---
+title: "Oh-Matilda | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tahsine-oh-matilda/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Oh-Matilda
 
 Oh-Matilda is a Tauri v2 on-device Android AI agent that autonomously opens apps and executes taps, text entry, and scrolling without ADB.

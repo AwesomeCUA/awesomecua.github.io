@@ -1,3 +1,11 @@
+---
+title: "world_model_for_wa_desc_with_tao_dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-96bb23bd687d6c227a41/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # world_model_for_wa_desc_with_tao_dataset
 
 WMA 网页智能体世界模型的训练数据：14744 个步骤，每步将任务目标、历史动作、观测和当前动作与下一状态及其变化描述配对。

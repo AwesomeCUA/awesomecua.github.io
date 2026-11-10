@@ -1,3 +1,11 @@
+---
+title: "agent-desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lahfir-agent-desktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-desktop
 
 agent-desktop is a Rust CLI that exposes cross-platform OS accessibility trees and native UI actions as compact JSON for AI agents.

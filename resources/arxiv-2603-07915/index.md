@@ -1,3 +1,11 @@
+---
+title: "Ares: Adaptive Reasoning Effort Selection for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-07915/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents
 
 Introduces Ares, a router that selects a reasoning level for each step of a general LLM agent from its interaction history, with web agents among the evaluation settings.
@@ -26,6 +34,18 @@ Jingbo Yang, Bairu Hou, Wei Wei, Yujia Bao, Shiyu Chang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-07915/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-07915/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_07915,
+  title = {{Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents}},
+  author = {{Jingbo Yang} and {Bairu Hou} and {Wei Wei} and {Yujia Bao} and {Shiyu Chang}},
+  year = {2026},
+  eprint = {2603.07915v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.07915v1},
+  note = {First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T03:17:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

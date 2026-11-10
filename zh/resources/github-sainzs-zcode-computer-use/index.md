@@ -1,3 +1,11 @@
+---
+title: "zcode-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sainzs-zcode-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # zcode-computer-use
 
 面向 ZCode 和编程智能体的 macOS 计算机控制 MCP 服务器，结合截图、无障碍树和输入动作。

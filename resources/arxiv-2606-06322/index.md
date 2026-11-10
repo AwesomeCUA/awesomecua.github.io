@@ -1,3 +1,11 @@
+---
+title: "DragOn: A Benchmark and Dataset for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-06322/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions
 
 DragOn supplies drag-grounding training data and a held-out benchmark for highlighting text, selecting cells, resizing elements and moving sliders. It evaluates existing vision-language models and a model fine-tuned on the drag tasks.
@@ -26,6 +34,18 @@ Nathan Bout, Maxime Langevin, Ronan Riochet
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-06322/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-06322/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_06322,
+  title = {{DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions}},
+  author = {{Nathan Bout} and {Maxime Langevin} and {Ronan Riochet}},
+  year = {2026},
+  eprint = {2606.06322v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.06322v1},
+  note = {First published: 2026-06-04; Recorded arXiv version: v1; Recorded version updated: 2026-06-04T15:57:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "See Before You Code: Learning Visual Priors… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-15585/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # See Before You Code: Learning Visual Priors for Spatially Aware Educational Animation Generation
 
 Bibliographic record for See Before You Code: Learning Visual Priors for Spatially Aware Educational Animation Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuejia Li, Ke He, Junheng Li, Shutong Chen, Jingkang Xia, Zhiyue Su, Junchi Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-15585/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-15585/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15585,
+  title = {{See Before You Code: Learning Visual Priors for Spatially Aware Educational Animation Generation}},
+  author = {{Yuejia Li} and {Ke He} and {Junheng Li} and {Shutong Chen} and {Jingkang Xia} and {Zhiyue Su} and {Junchi Zhang} and {Mang Ye}},
+  year = {2026},
+  eprint = {2605.15585v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15585v1},
+  note = {First published: 2026-05-15; Recorded arXiv version: v1; Recorded version updated: 2026-05-15T03:48:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

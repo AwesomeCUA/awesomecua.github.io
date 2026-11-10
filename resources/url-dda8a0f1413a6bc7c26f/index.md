@@ -1,3 +1,11 @@
+---
+title: "AndroidControl-Curated | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # AndroidControl-Curated
 
 Purified AndroidControl test set that scores predicted clicks against target element boxes and repairs ambiguous or wrong task labels, released as step-level JSON files with screenshot archives.

@@ -1,3 +1,11 @@
+---
+title: "WebWatcher: Breaking New Frontier of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-05748/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent
 
 Bibliographic record for WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, Qiuchen Wang, Ruixue Ding, Chenxi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-05748/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-05748/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_05748,
+  title = {{WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent}},
+  author = {{Xinyu Geng} and {Peng Xia} and {Zhen Zhang} and {Xinyu Wang} and {Qiuchen Wang} and {Ruixue Ding} and {Chenxi Wang} and {Jialong Wu} and {Yida Zhao} and {Kuan Li} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2508.05748v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.05748v3},
+  note = {First published: 2025-08-07; Recorded arXiv version: v3; Recorded version updated: 2025-09-01T03:21:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

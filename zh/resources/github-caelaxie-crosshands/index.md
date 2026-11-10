@@ -1,3 +1,11 @@
+---
+title: "CrossHands · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-caelaxie-crosshands/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CrossHands
 
 面向编码智能体的本地计算机使用运行时，通过 JSON CLI 和 stdio MCP 提供桌面检查及输入动作。

@@ -1,3 +1,11 @@
+---
+title: "Augmenting Interface Usability… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-02729/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents
 
 这项研究面向计算机使用智能体调整界面可用性准则，并在受控界面环境套件 UI-Verse 中评估改进后的设计。
@@ -27,6 +35,18 @@ Jiateng Liu, Rushi Wang, Bingxuan Li, Kunlun Zhu, Yifan Shen, Qingyun Wang, Ahme
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-02729/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-02729/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_02729,
+  title = {{Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents}},
+  author = {{Jiateng Liu} and {Rushi Wang} and {Bingxuan Li} and {Kunlun Zhu} and {Yifan Shen} and {Qingyun Wang} and {Ahmed Abbasi} and {Denghui Zhang} and {Heng Ji}},
+  year = {2026},
+  eprint = {2605.02729v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.02729v1},
+  note = {First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T15:28:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

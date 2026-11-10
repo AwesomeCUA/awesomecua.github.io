@@ -1,3 +1,11 @@
+---
+title: "PointerBench: A Diagnostic Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-31274/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding
 
 POINTERBENCH 是 GUI 定位诊断基准，涵盖电子表格细分元素、文档字符及专业应用中的界面目标。
@@ -27,6 +35,18 @@ Valentino Sacco, Saurabh Pandey, Alexander Florian Jercher, Maximilian Schilling
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-31274/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-31274/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31274,
+  title = {{PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding}},
+  author = {{Valentino Sacco} and {Saurabh Pandey} and {Alexander Florian Jercher} and {Maximilian Schilling}},
+  year = {2026},
+  eprint = {2610.31274v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31274v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T13:43:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

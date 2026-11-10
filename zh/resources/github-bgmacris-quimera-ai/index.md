@@ -1,3 +1,11 @@
+---
+title: "quimera-ai · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bgmacris-quimera-ai/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # quimera-ai
 
 通过 CDP 和 Playwright MCP，为人类用户与 Claude Code 提供实时共享的 Chrome 浏览器工作空间。

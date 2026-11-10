@@ -1,3 +1,11 @@
+---
+title: "SATraj-OS · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-73b9b17648ea7af7aa8f/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # SATraj-OS
 
 桌面计算机使用轨迹包含逐步截图及成功、安全和攻击标签，分为能力运行、安全完成与拒绝运行，以及源自 RiOSWorld 的旧版安全归档。

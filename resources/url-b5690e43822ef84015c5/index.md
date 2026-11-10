@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-4B-Thinking | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b5690e43822ef84015c5/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-4B-Thinking
 
 A vision-language checkpoint whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use.

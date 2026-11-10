@@ -1,3 +1,11 @@
+---
+title: "Ghost Browser by Gemma | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ddangkong-ghost-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Ghost Browser by Gemma
 
 Ghost Browser is a local browser automation agent powered by Gemma 27B via Ollama and evaluated on Stealth Bench.

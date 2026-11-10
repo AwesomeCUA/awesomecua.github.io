@@ -1,3 +1,11 @@
+---
+title: "GELab-Engine-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-41b685bbd42fbd4732da/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # GELab-Engine-7B
 
 随 GUI Exploration Lab 发布的 Qwen2.5-VL 7B 检查点。GUI Exploration Lab 是由导航图连接各屏幕的合成 GUI 环境，智能体在其中通过监督微调、单轮强化学习和多轮强化学习学习屏幕导航。

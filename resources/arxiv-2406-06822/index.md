@@ -1,3 +1,11 @@
+---
+title: "An LLM-Assisted Easy-to-Trigger Backdoor… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-06822/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection
 
 Bibliographic record for An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-06822/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-06822/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_06822,
+  title = {{An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection}},
+  author = {{Shenao Yan} and {Shen Wang} and {Yue Duan} and {Hanbin Hong} and {Kiho Lee} and {Doowon Kim} and {Yuan Hong}},
+  year = {2024},
+  eprint = {2406.06822v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.06822v1},
+  note = {First published: 2024-06-10; Recorded arXiv version: v1; Recorded version updated: 2024-06-10T22:10:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

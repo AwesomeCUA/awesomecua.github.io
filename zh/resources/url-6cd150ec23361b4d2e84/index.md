@@ -1,3 +1,11 @@
+---
+title: "GUIAct · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6cd150ec23361b4d2e84/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUIAct
 
 GUIAct 是网页和 Android GUI 的动作指令数据，分为单步、多步和智能手机部分。

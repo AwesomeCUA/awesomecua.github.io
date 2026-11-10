@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 23 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/23/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 23 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/23/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Nell (Open Source Instinct)](https://awesomecua.com/zh/resources/github-iabdulwasey-nell/)
-- [nemosr dsh-personal-plugins](https://awesomecua.com/zh/resources/github-nemosr-dsh-personal-plugins/)
 - [neuron-inspector](https://awesomecua.com/zh/resources/github-conquext-neuron-inspector/)
 - [nexus-browser-mcp](https://awesomecua.com/zh/resources/github-paipaipai666-nexus-browser-mcp/)
 - [Nik-Browser MCP](https://awesomecua.com/zh/resources/github-nikolay-3d-nik-browser-mcp/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/23/
 - [OpenMuse](https://awesomecua.com/zh/resources/github-copilotkit-openmuse/)
 - [OpenQA](https://awesomecua.com/zh/resources/github-openqa-labs-openqa/)
 - [OpenSider](https://awesomecua.com/zh/resources/github-parksben-opensider/)
+- [OpenTeam](https://awesomecua.com/zh/resources/github-raghavpillai-openteam/)
+- [OpenTiny NEXT-SDKs (WebMCP)](https://awesomecua.com/zh/resources/github-opentiny-webmcp-sdk/)

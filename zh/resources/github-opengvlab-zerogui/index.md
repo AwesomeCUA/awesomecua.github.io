@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-opengvlab-zerogui/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # ZeroGUI
 
 GUI 智能体在线 RL 框架，由 VLM 生成训练任务并根据轨迹截图判断是否成功；提供基于 UI-TARS-7B-DPO 训练的 OSWorld 和 AndroidLab 检查点。

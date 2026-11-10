@@ -1,3 +1,11 @@
+---
+title: "GroundGUI training and evaluation code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prentisai-groundgui/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # GroundGUI training and evaluation code
 
 提供通过监督训练、教师指导的蒸馏和强化学习进行截图定位，以及开展基准评估的代码。

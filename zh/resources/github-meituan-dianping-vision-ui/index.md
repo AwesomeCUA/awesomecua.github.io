@@ -1,3 +1,11 @@
+---
+title: "Vision UI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-meituan-dianping-vision-ui/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Vision UI
 
 Vision UI 是一套界面视觉分析工具，可检测界面元素、匹配语义目标、识别文字并比较界面图像。

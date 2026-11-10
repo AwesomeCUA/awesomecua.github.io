@@ -1,3 +1,11 @@
+---
+title: "Parallel Minimum Spanning Forest Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2110-04865/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Parallel Minimum Spanning Forest Computation using Sparse Matrix Kernels
 
 Status: excluded from the active CUA catalog after scope review.

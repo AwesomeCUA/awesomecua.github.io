@@ -1,3 +1,11 @@
+---
+title: "IrisGUI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-black-yt-irisgui/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # IrisGUI
 
 IrisGUI 是跨平台桌面 GUI 智能体，可感知屏幕并自动执行鼠标和键盘工作流程。

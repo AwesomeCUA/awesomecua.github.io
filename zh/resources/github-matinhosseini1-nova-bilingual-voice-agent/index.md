@@ -1,3 +1,11 @@
+---
+title: "NOVA Bilingual Desktop Voice Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-matinhosseini1-nova-bilingual-voice-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # NOVA Bilingual Desktop Voice Agent
 
 面向 Windows 的波斯语和英语双语桌面语音及 GUI 自动化助手。

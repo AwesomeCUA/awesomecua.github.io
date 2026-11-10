@@ -1,3 +1,11 @@
+---
+title: "GroundCUA dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f6c88faa4392848f81b6/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GroundCUA dataset
 
 GroundCUA 项目的桌面 GUI 定位数据：87 款应用的 PNG 截图按哈希与 JSON 标注配对，标注列出元素边界框、可见文字和可选的粗分类。

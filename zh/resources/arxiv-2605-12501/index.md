@@ -1,3 +1,11 @@
+---
+title: "Covering Human Action Space for Computer… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-12501/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Covering Human Action Space for Computer Use: Data Synthesis and Benchmark
 
 CUActSpot 评估 GUI、文本、表格、画布和自然图像上的点击、拖拽、绘图等屏幕交互；基于渲染器的流程记录几何信息和截图，再生成匹配的指令与操作轨迹，用于训练定位模型。
@@ -27,6 +35,18 @@ Miaosen Zhang, Xiaohan Zhao, Zhihong Tan, Zhou Huoshen, Yijia Fan, Yifan Yang, K
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-12501/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-12501/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12501,
+  title = {{Covering Human Action Space for Computer Use: Data Synthesis and Benchmark}},
+  author = {{Miaosen Zhang} and {Xiaohan Zhao} and {Zhihong Tan} and {Zhou Huoshen} and {Yijia Fan} and {Yifan Yang} and {Kai Qiu} and {Bei Liu} and {Justin Wagle} and {Chenzhong Yin} and {Mingxi Cheng} and {Ji Li} and {Qi Dai} and {Chong Luo} and {Xu Yang} and {Xin Geng} and {Baining Guo}},
+  year = {2026},
+  eprint = {2605.12501v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12501v1},
+  note = {First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

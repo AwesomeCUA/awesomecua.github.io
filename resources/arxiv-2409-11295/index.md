@@ -1,3 +1,11 @@
+---
+title: "EIA: Environmental Injection Attack on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-11295/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage
 
 Evaluates privacy-directed webpage instruction injection against generalist web agents using PII-related interaction steps from Mind2Web, including attempts to expose specific user information or entire requests.
@@ -26,6 +34,18 @@ Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-11295/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-11295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_11295,
+  title = {{EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage}},
+  author = {{Zeyi Liao} and {Lingbo Mo} and {Chejian Xu} and {Mintong Kang} and {Jiawei Zhang} and {Chaowei Xiao} and {Yuan Tian} and {Bo Li} and {Huan Sun}},
+  year = {2024},
+  eprint = {2409.11295v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.11295v5},
+  note = {First published: 2024-09-17; Recorded arXiv version: v5; Recorded version updated: 2025-03-12T20:54:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

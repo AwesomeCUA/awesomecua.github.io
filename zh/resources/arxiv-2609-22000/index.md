@@ -1,3 +1,11 @@
+---
+title: "RecreationWorld: Scalable and Verifiable… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-22000/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents
 
 RecreationWorld 为混合式智能体提供可运行的参考应用，供其探索并利用原生 GUI 控件和编程工具复现。其多平台基准通过程序和视觉断言检查依赖交互的行为，并单独评估轨迹训练的迁移效果。
@@ -27,6 +35,18 @@ Shuai Bai, Jiayong Deng, Sicheng Fan, Yikun Fu, Chang Gao, Xuhao Hu, Mianqiu Hua
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-22000/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-22000/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_22000,
+  title = {{RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents}},
+  author = {{Shuai Bai} and {Jiayong Deng} and {Sicheng Fan} and {Yikun Fu} and {Chang Gao} and {Xuhao Hu} and {Mianqiu Huang} and {Yizhen Jiang} and {Yuheng Jing} and {Dehui Kong} and {Keliang Li} and {Ning Li} and {Wanli Li} and {Dayiheng Liu} and {Dunjie Lu} and {Changwei Luo} and {Que Shen} and {Zheyuan Wang} and {Zijian Wang} and {Jie Wu} and {Gao Wu} and {Zhihui Xie} and {Rui Xie} and {Haiyang Xu} and {An Yang} and {Jiakang Yuan} and {Yanming Zhang} and {Jiajun Zhang} and {Xi Zhang} and {Zhenru Zhang} and {Zhuo Zhen} and {Mingkang Zhu} and {Bowen Zhou}},
+  year = {2026},
+  eprint = {2609.22000v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.22000v2},
+  note = {First published: 2026-09-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-21T07:09:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

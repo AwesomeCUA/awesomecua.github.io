@@ -1,3 +1,11 @@
+---
+title: "SeeClick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-njucckevin-seeclick/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # SeeClick
 
 GUI grounding model trained to locate visual interface elements.

@@ -1,3 +1,11 @@
+---
+title: "AnyTool · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hkuds-anytool/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AnyTool
 
 AnyTool 是面向 AI 智能体的通用工具使用层，支持 MCP、GUI、网页和 shell 工具，并具备分层检索与自我反思能力。

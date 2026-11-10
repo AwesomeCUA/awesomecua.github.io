@@ -1,3 +1,11 @@
+---
+title: "Progress towards practical qubit computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1910-03673/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Progress towards practical qubit computation using approximate Gottesman-Kitaev-Preskill codes
 
 Status: excluded from the active CUA catalog after scope review.

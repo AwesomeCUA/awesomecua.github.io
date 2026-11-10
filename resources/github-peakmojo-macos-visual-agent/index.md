@@ -1,3 +1,11 @@
+---
+title: "macOS Visual Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-peakmojo-macos-visual-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macOS Visual Agent
 
 macOS Visual Agent inspects native Apple Accessibility trees, detects UI elements, and executes coordinate-accurate clicks on macOS.

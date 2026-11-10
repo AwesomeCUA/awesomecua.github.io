@@ -1,3 +1,11 @@
+---
+title: "AutoGLM Phone 9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c918d5c828a3c6cfbc5d/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # AutoGLM Phone 9B
 
 AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters and tagged for Chinese.

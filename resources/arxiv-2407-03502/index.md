@@ -1,3 +1,11 @@
+---
+title: "AgentInstruct: Toward Generative Teaching… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-03502/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentInstruct: Toward Generative Teaching with Agentic Flows
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "UGround V1 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e554295a7f3f5c9ad0d6/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # UGround V1 7B
 
 由 Qwen2-VL-7B 微调的 UGround-V1 检查点，采用标准 Qwen2-VL 架构，约有 8.3B 个 BF16 参数；以 safetensors 和 PyTorch 文件提供，采用 Apache-2.0 许可证。

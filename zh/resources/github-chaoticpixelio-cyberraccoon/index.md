@@ -1,3 +1,11 @@
+---
+title: "CyberRaccoon · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chaoticpixelio-cyberraccoon/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # CyberRaccoon
 
 非侵入式物理计算机使用智能体，通过 Raspberry Pi 捕获 HDMI 视频并发送 USB HID 鼠标和键盘动作。

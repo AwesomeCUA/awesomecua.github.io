@@ -1,3 +1,11 @@
+---
+title: "Blender Agent Studio · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ifbars-blender-agent-studio/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Blender Agent Studio
 
 Blender Agent Studio 将编程智能体连接到本地 Blender，用于创建可编辑场景、渲染预览并检查视觉结果。

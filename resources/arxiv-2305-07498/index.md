@@ -1,3 +1,11 @@
+---
+title: "Visual Information Extraction in the Wild… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-07498/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution
 
 Bibliographic record for Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jianfeng Kuang, Wei Hua, Dingkang Liang, Mingkun Yang, Deqiang Jiang, Bo Ren, Xi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-07498/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-07498/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_07498,
+  title = {{Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution}},
+  author = {{Jianfeng Kuang} and {Wei Hua} and {Dingkang Liang} and {Mingkun Yang} and {Deqiang Jiang} and {Bo Ren} and {Xiang Bai}},
+  year = {2023},
+  eprint = {2305.07498v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.07498v2},
+  note = {First published: 2023-05-12; Recorded arXiv version: v2; Recorded version updated: 2023-06-15T03:31:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

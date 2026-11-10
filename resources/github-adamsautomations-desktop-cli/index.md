@@ -1,3 +1,11 @@
+---
+title: "desktop-cli | AwesomeCUA"
+url: https://awesomecua.com/resources/github-adamsautomations-desktop-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # desktop-cli
 
 Lightweight computer-use CLI that coding agents invoke directly via shell commands without MCP schema overhead.

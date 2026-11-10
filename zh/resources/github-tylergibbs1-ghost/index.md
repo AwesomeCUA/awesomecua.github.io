@@ -1,3 +1,11 @@
+---
+title: "Ghost (macOS Accessibility CLI) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tylergibbs1-ghost/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ghost (macOS Accessibility CLI)
 
 Swift CLI 和 MCP 工具，通过读取原生 macOS 无障碍树，使 AI 智能体能够访问仅提供 GUI 的应用。

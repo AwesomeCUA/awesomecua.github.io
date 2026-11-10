@@ -1,3 +1,11 @@
+---
+title: "GraphPilot: GUI Task Automation with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-17418/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GraphPilot: GUI Task Automation with One-Step LLM Reasoning Powered by Knowledge Graph
 
 GraphPilot 根据探索过的页面、元素和跳转构建应用专属知识图谱，用于规划操作序列；遇到不确定情况时补充观察界面，并在修正和执行前依据图谱的跳转规则检查计划。
@@ -27,6 +35,18 @@ Mingxian Yu, Siqi Luo, Xu Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-17418/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-17418/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_17418,
+  title = {{GraphPilot: GUI Task Automation with One-Step LLM Reasoning Powered by Knowledge Graph}},
+  author = {{Mingxian Yu} and {Siqi Luo} and {Xu Chen}},
+  year = {2026},
+  eprint = {2601.17418v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.17418v1},
+  note = {First published: 2026-01-24; Recorded arXiv version: v1; Recorded version updated: 2026-01-24T11:35:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

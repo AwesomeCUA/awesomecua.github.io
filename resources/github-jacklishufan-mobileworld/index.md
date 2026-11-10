@@ -1,3 +1,11 @@
+---
+title: "MobileWorldBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jacklishufan-mobileworld/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # MobileWorldBench
 
 Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.

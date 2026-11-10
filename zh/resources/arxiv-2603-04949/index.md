@@ -1,3 +1,11 @@
+---
+title: "TimeWarp: Evaluating Web Agents by… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-04949/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # TimeWarp: Evaluating Web Agents by Revisiting the Past
 
 TimeWarp 在同一网站的多个版本上测试网页智能体，这些版本在视觉设计、前端代码和工作流程上有所不同；TimeTraj 跨版本迁移计划以收集训练轨迹，并研究智能体对界面变化的适应能力。
@@ -27,6 +35,18 @@ Md Farhan Ishmam, Kenneth Marino
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-04949/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-04949/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_04949,
+  title = {{TimeWarp: Evaluating Web Agents by Revisiting the Past}},
+  author = {{Md Farhan Ishmam} and {Kenneth Marino}},
+  year = {2026},
+  eprint = {2603.04949v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.04949v4},
+  note = {First published: 2026-03-05; Recorded arXiv version: v4; Recorded version updated: 2026-10-14T10:16:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

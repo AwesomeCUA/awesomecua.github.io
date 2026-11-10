@@ -1,3 +1,11 @@
+---
+title: "VideoCAD data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # VideoCAD data
 
 CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.

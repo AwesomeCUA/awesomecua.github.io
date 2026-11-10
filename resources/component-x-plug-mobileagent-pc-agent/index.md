@@ -1,3 +1,11 @@
+---
+title: "PC-Agent (X-PLUG component) | AwesomeCUA"
+url: https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # PC-Agent (X-PLUG component)
 
 Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.

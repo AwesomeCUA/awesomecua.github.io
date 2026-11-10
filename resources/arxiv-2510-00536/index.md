@@ -1,3 +1,11 @@
+---
+title: "GUI-KV: Efficient GUI Agents via KV Cache… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-00536/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness
 
 GUI-KV compresses vision-language agents’ attention caches using visual-token saliency and redundancy between screenshot frames. The method requires no retraining and evaluates how cache budgets affect GUI action accuracy and computational cost.
@@ -26,6 +34,18 @@ Kung-Hsiang Huang, Haoyi Qiu, Yutong Dai, Caiming Xiong, Chien-Sheng Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-00536/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-00536/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_00536,
+  title = {{GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness}},
+  author = {{Kung-Hsiang Huang} and {Haoyi Qiu} and {Yutong Dai} and {Caiming Xiong} and {Chien-Sheng Wu}},
+  year = {2025},
+  eprint = {2510.00536v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.00536v2},
+  note = {First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T23:23:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WONDERBREAD | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hazyresearch-wonderbread/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # WONDERBREAD
 
 An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.

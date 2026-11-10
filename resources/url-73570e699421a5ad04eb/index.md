@@ -1,3 +1,11 @@
+---
+title: "MiniCPM-GUIDance | AwesomeCUA"
+url: https://awesomecua.com/resources/url-73570e699421a5ad04eb/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # MiniCPM-GUIDance
 
 MiniCPM-V checkpoint released with GUICourse and tuned on its GUIEnv, GUIAct and GUIChat data; card prompts cover next-action generation from a task and action history, and screenshot chat with grounded boxes.

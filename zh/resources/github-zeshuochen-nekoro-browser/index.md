@@ -1,3 +1,11 @@
+---
+title: "nekoro-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zeshuochen-nekoro-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # nekoro-browser
 
 轻量级浏览器自动化 CLI 和 MCP 服务器，通过配套扩展驱动用户日常使用的 Chrome。

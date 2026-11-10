@@ -1,3 +1,11 @@
+---
+title: "Retrieval-Augmented Code Generation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-02962/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Retrieval-Augmented Code Generation for Universal Information Extraction
 
 Bibliographic record for Retrieval-Augmented Code Generation for Universal Information Extraction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yucan Guo, Zixuan Li, Xiaolong Jin, Yantao Liu, Yutao Zeng, Wenxuan Liu, Xiang L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-02962/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-02962/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_02962,
+  title = {{Retrieval-Augmented Code Generation for Universal Information Extraction}},
+  author = {{Yucan Guo} and {Zixuan Li} and {Xiaolong Jin} and {Yantao Liu} and {Yutao Zeng} and {Wenxuan Liu} and {Xiang Li} and {Pan Yang} and {Long Bai} and {Jiafeng Guo} and {Xueqi Cheng}},
+  year = {2023},
+  eprint = {2311.02962v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.02962v1},
+  note = {First published: 2023-11-06; Recorded arXiv version: v1; Recorded version updated: 2023-11-06T09:03:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ExpSeek: Self-Triggered Experience… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-08605/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ExpSeek: Self-Triggered Experience Seeking for Web Agents
 
 ExpSeek 利用步骤级熵信号，判断网页智能体何时需要请求基于经验的指导。它提供针对当前步骤的指导，并在网页智能体基准上评估其效果。
@@ -27,6 +35,18 @@ Wenyuan Zhang, Xinghua Zhang, Haiyang Yu, Shuaiyi Nie, Bingli Wu, Juwei Yue, Tin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-08605/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-08605/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_08605,
+  title = {{ExpSeek: Self-Triggered Experience Seeking for Web Agents}},
+  author = {{Wenyuan Zhang} and {Xinghua Zhang} and {Haiyang Yu} and {Shuaiyi Nie} and {Bingli Wu} and {Juwei Yue} and {Tingwen Liu} and {Yongbin Li}},
+  year = {2026},
+  eprint = {2601.08605v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.08605v2},
+  note = {First published: 2026-01-13; Recorded arXiv version: v2; Recorded version updated: 2026-04-15T14:59:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

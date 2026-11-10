@@ -1,3 +1,11 @@
+---
+title: "Improvement of accuracy of the spectral… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1801-02829/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Improvement of accuracy of the spectral element method for elastic wave computation using modified numerical integration operators
 
 Status: excluded from the active CUA catalog after scope review.

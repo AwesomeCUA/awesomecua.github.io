@@ -1,3 +1,11 @@
+---
+title: "VideoCAD data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2b5dead3172c0b70da7e/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # VideoCAD data
 
 CAD 屏幕录制数据，配有操作日志和目标模型图像，用于研究精确的界面控制和长时程视觉模仿。

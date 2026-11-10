@@ -1,3 +1,11 @@
+---
+title: "ScienceBoard VMware environment · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-75917f2c2b2802aafd3e/
+updated: 2026-10-17
+type: infrastructure
+lang: zh-CN
+---
+
 # ScienceBoard VMware environment
 
 预先构建的 Ubuntu 虚拟机归档，包含 ScienceBoard 科学计算机使用任务所用的软件环境。

@@ -1,3 +1,11 @@
+---
+title: "Multi-Task Wavelength-Multiplexed Reservoir… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-16588/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-Task Wavelength-Multiplexed Reservoir Computing Using a Silicon Microring Resonator
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "AgentCPM-GUI: Building Mobile-Use Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-01391/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning
 
 Combines grounding pretraining, bilingual interaction trajectories, and reinforcement fine-tuning for mobile GUI actions.
@@ -26,6 +34,18 @@ Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-01391/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-01391/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_01391,
+  title = {{AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning}},
+  author = {{Zhong Zhang} and {Yaxi Lu} and {Yikun Fu} and {Yupeng Huo} and {Shenzhi Yang} and {Yesai Wu} and {Han Si} and {Xin Cong} and {Haotian Chen} and {Yankai Lin} and {Jie Xie} and {Wei Zhou} and {Wang Xu} and {Yuanheng Zhang} and {Zhou Su} and {Zhongwu Zhai} and {Xiaoming Liu} and {Yudong Mei} and {Jianming Xu} and {Hongyan Tian} and {Chongyi Wang} and {Chi Chen} and {Yuan Yao} and {Zhiyuan Liu} and {Maosong Sun}},
+  year = {2025},
+  eprint = {2506.01391v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.01391v2},
+  note = {First published: 2025-06-02; Recorded arXiv version: v2; Recorded version updated: 2025-06-17T02:57:04Z.}
+}
+```
 
 ## Publication record
 

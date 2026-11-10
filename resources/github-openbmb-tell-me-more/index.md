@@ -1,3 +1,11 @@
+---
+title: "Intention-in-Interaction (IN3) &… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openbmb-tell-me-more/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Intention-in-Interaction (IN3) & Mistral-Interact
 
 Provides the Intention-in-Interaction (IN3) benchmark and Mistral-Interact model for proactive user-intent clarification in agent tasks.

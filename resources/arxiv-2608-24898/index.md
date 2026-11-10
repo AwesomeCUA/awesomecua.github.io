@@ -1,3 +1,11 @@
+---
+title: "MCP-Driven Accessibility Tree Standardization… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24898/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents
 
 Proposes an MCP architecture that presents accessibility trees from Windows, macOS, Android, and web frameworks in a common form for LLM assistive agents interacting with GUIs.
@@ -26,6 +34,18 @@ Vishnu Ramineni, Nitin Saksena, Akash Kumar Agarwal, Darshan Mohan Bidkar, Balak
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24898/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24898/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24898,
+  title = {{MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents}},
+  author = {{Vishnu Ramineni} and {Nitin Saksena} and {Akash Kumar Agarwal} and {Darshan Mohan Bidkar} and {Balakrishna Pothineni} and {Durgaraman Maruthavanan} and {Lokesh Butra} and {Siva Kumar Chintham}},
+  year = {2026},
+  eprint = {2608.24898v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24898v1},
+  note = {First published: 2026-07-13; Recorded arXiv version: v1; Recorded version updated: 2026-07-13T01:52:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

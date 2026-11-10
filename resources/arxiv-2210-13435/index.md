@@ -1,3 +1,11 @@
+---
+title: "Dichotomy of Control: Separating What You Can… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-13435/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Dichotomy of Control: Separating What You Can Control from What You Cannot
 
 Bibliographic record for Dichotomy of Control: Separating What You Can Control from What You Cannot. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mengjiao Yang, Dale Schuurmans, Pieter Abbeel, Ofir Nachum
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2210-13435/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2210-13435/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_13435,
+  title = {{Dichotomy of Control: Separating What You Can Control from What You Cannot}},
+  author = {{Mengjiao Yang} and {Dale Schuurmans} and {Pieter Abbeel} and {Ofir Nachum}},
+  year = {2022},
+  eprint = {2210.13435v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.13435v1},
+  note = {First published: 2022-10-24; Recorded arXiv version: v1; Recorded version updated: 2022-10-24T17:49:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Microscopy-Dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-62a92edacc4b703aaa05/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # Microscopy-Dataset
 
 供 Orion 计算机使用智能体执行显微图像处理任务的数据集：包含 12 个 CellProfiler 训练模块和 14 个测试挑战，附问题描述、图像、真值和单元测试。

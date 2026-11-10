@@ -1,3 +1,11 @@
+---
+title: "AGY Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-orakulzero-agy-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AGY Computer Use
 
 AGY Computer Use 提供原生 Windows 桌面自动化，结合 UI Automation 树、Set-of-Marks 定位和后台 PrintWindow 捕获。

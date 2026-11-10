@@ -1,3 +1,11 @@
+---
+title: "Visible but Not Avoided: State-Dependent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-15738/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops
 
 研究优化仅依赖截图的 GUI 智能体时反复提出已被拒绝的修改，对比静态探测与实际到达的循环状态，并测试拒绝措辞如何影响后续修改提议。
@@ -27,6 +35,18 @@ Jianlin Chen, Wenhui Chen, Chi Man Vong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-15738/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-15738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15738,
+  title = {{Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops}},
+  author = {{Jianlin Chen} and {Wenhui Chen} and {Chi Man Vong}},
+  year = {2026},
+  eprint = {2610.15738v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15738v1},
+  note = {First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T16:18:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

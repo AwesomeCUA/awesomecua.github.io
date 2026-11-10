@@ -1,3 +1,11 @@
+---
+title: "Imperfect Visual Verification for Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15693/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Imperfect Visual Verification for Code Edition : A Case Study on TikZ
 
 Bibliographic record for Imperfect Visual Verification for Code Edition : A Case Study on TikZ. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Charly Reux, Mathieu Acher, Djamel Eddine Khelladi, Clément Quinton, Olivier Ba
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-15693/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-15693/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15693,
+  title = {{Imperfect Visual Verification for Code Edition : A Case Study on TikZ}},
+  author = {{Charly Reux} and {Mathieu Acher} and {Djamel Eddine Khelladi} and {Clément Quinton} and {Olivier Barais}},
+  year = {2026},
+  eprint = {2606.15693v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15693v1},
+  note = {First published: 2026-04-09; Recorded arXiv version: v1; Recorded version updated: 2026-04-09T12:21:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

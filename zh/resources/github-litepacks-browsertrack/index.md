@@ -1,3 +1,11 @@
+---
+title: "BrowserTrack · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-litepacks-browsertrack/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # BrowserTrack
 
 本地浏览器诊断信息采集器和 Model Context Protocol 桥接程序，用于与编码智能体共享实时控制台和网络轨迹。

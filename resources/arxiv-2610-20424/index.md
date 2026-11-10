@@ -1,3 +1,11 @@
+---
+title: "BizBench: Unveiling Hidden Challenges in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-20424/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business
 
 Bibliographic record for BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Enhan Zhao, Yongqi Tong, Xuejun Yu, Hang Wang, Pan Wang, Yichao Wang, Di He, Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-20424/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-20424/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20424,
+  title = {{BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business}},
+  author = {{Enhan Zhao} and {Yongqi Tong} and {Xuejun Yu} and {Hang Wang} and {Pan Wang} and {Yichao Wang} and {Di He} and {Jianshe Li} and {Wei Wu}},
+  year = {2026},
+  eprint = {2610.20424v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20424v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T16:16:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

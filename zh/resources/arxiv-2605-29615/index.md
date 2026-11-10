@@ -1,3 +1,11 @@
+---
+title: "DiffSpot: Can VLMs Spot Fine-Grained… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-29615/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?
 
 DiffSpot 用单项 CSS 属性变更生成网页界面图像对，评测模型识别细微视觉差异的能力。
@@ -27,6 +35,18 @@ Linhao Zhang, Aiwei Liu, Yuan Liu, Xiao Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-29615/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-29615/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29615,
+  title = {{DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?}},
+  author = {{Linhao Zhang} and {Aiwei Liu} and {Yuan Liu} and {Xiao Zhou}},
+  year = {2026},
+  eprint = {2605.29615v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29615v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T08:50:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

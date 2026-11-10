@@ -1,3 +1,11 @@
+---
+title: "Thought Propagation: An Analogical Approach… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-03965/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

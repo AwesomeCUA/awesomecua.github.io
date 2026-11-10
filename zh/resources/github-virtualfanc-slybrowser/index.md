@@ -1,3 +1,11 @@
+---
+title: "SlyBrowser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-virtualfanc-slybrowser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # SlyBrowser
 
 具有反检测能力的 Chromium 浏览器，面向智能体网页自动化和经授权的抓取，内置拟人化输入功能。

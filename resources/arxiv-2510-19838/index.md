@@ -1,3 +1,11 @@
+---
+title: "Branch-and-Browse: Efficient and Controllable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-19838/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory
 
 Branch-and-Browse is a web agent framework that uses tree-structured subtasks, web state replay, and page action memory to explore and complete tasks.
@@ -26,6 +34,18 @@ Shiqi He, Yue Cui, Xinyu Ma, Yaliang Li, Bolin Ding, Mosharaf Chowdhury
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-19838/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-19838/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19838,
+  title = {{Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory}},
+  author = {{Shiqi He} and {Yue Cui} and {Xinyu Ma} and {Yaliang Li} and {Bolin Ding} and {Mosharaf Chowdhury}},
+  year = {2025},
+  eprint = {2510.19838v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19838v2},
+  note = {First published: 2025-10-18; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T02:29:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

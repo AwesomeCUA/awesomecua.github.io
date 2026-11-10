@@ -1,3 +1,11 @@
+---
+title: "Large Language Models as Generalizable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-17722/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Large Language Models as Generalizable Policies for Embodied Tasks
 
 Bibliographic record for Large Language Models as Generalizable Policies for Embodied Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Andrew Szot, Max Schwarzer, Harsh Agrawal, Bogdan Mazoure, Walter Talbott, Kathe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-17722/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-17722/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_17722,
+  title = {{Large Language Models as Generalizable Policies for Embodied Tasks}},
+  author = {{Andrew Szot} and {Max Schwarzer} and {Harsh Agrawal} and {Bogdan Mazoure} and {Walter Talbott} and {Katherine Metcalf} and {Natalie Mackraz} and {Devon Hjelm} and {Alexander Toshev}},
+  year = {2023},
+  eprint = {2310.17722v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.17722v2},
+  note = {First published: 2023-10-26; Recorded arXiv version: v2; Recorded version updated: 2024-04-16T17:54:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

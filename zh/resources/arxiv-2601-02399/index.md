@@ -1,3 +1,11 @@
+---
+title: "ProSoftArena: Benchmarking Hierarchical… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-02399/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments
 
 ProSoftArena 在 Windows 11 虚拟机环境中评估涵盖 6 个学科、13 款应用的 436 项专业软件任务。其能力层级、基于执行的检查和人工参与评估覆盖精确 GUI 操作与多软件流程。
@@ -27,6 +35,18 @@ Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, Chuanhao Li, Yifan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-02399/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-02399/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_02399,
+  title = {{ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments}},
+  author = {{Jiaxin Ai} and {Yukang Feng} and {Fanrui Zhang} and {Jianwen Sun} and {Zizhen Li} and {Chuanhao Li} and {Yifan Chang} and {Wenxiao Wu} and {Ruoxi Wang} and {Mingliang Zhai} and {Kaipeng Zhang}},
+  year = {2025},
+  eprint = {2601.02399v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.02399v1},
+  note = {First published: 2025-12-30; Recorded arXiv version: v1; Recorded version updated: 2025-12-30T01:49:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

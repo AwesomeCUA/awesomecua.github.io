@@ -1,3 +1,11 @@
+---
+title: "omp-cua · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wolfiesch-omp-cua/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # omp-cua
 
 面向 Oh My Pi 编程智能体的低开销 Cua Driver 计算机使用集成工具。

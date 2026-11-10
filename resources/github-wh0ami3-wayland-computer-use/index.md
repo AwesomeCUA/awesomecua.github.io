@@ -1,3 +1,11 @@
+---
+title: "wayland-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wh0ami3-wayland-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # wayland-computer-use
 
 Native Wayland desktop control server using XDG RemoteDesktop portal input and PipeWire capture where X11 tools fail.

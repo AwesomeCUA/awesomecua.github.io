@@ -1,3 +1,11 @@
+---
+title: "PrivateAI for Mac · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # PrivateAI for Mac
 
 由 Ollama 驱动的原生 macOS 本地 AI 智能体，具备系统控制、文件工具和浏览器自动化功能。

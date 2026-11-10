@@ -1,3 +1,11 @@
+---
+title: "Chrest | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amarbel-llc-chrest/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrest
 
 Chrest combines a browser extension, REST daemon, CLI, and MCP server for programmatically managing live Chrome and Firefox tabs and content.

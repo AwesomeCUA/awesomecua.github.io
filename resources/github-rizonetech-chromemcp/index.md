@@ -1,3 +1,11 @@
+---
+title: "ChromeMCP (WSL2-to-Windows Bridge) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rizonetech-chromemcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ChromeMCP (WSL2-to-Windows Bridge)
 
 Allows coding agents running inside WSL2 Linux to drive the host's signed-in Windows Chrome browser over Playwright MCP.

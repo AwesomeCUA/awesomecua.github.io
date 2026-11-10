@@ -1,3 +1,11 @@
+---
+title: "Dreamer V1 Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-eadc6cba9ea46c38dd1d/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # Dreamer V1 Data
 
 随 WebDreamer 项目发布的网页世界模型训练数据，包含提示词、图像、操作描述和回复。

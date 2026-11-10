@@ -1,3 +1,11 @@
+---
+title: "ASIL Benchmark · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9b01ef4cc50d241ff34a/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # ASIL Benchmark
 
 ASIL Benchmark 发布带索引的软件智能体任务，用于单应用和多应用评测，并提供任务定义及公开素材。

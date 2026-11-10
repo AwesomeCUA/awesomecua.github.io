@@ -1,3 +1,11 @@
+---
+title: "WebShop: Towards Scalable Real-World Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2207-01206/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
 
 Provides a simulated shopping environment where language agents search, configure, and select products from natural-language requirements.
@@ -26,6 +34,18 @@ Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2207-01206/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2207-01206/citation.csl.json
+
+```bibtex
+@misc{arxiv_2207_01206,
+  title = {{WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents}},
+  author = {{Shunyu Yao} and {Howard Chen} and {John Yang} and {Karthik Narasimhan}},
+  year = {2022},
+  eprint = {2207.01206v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2207.01206v4},
+  note = {First published: 2022-07-04; Recorded arXiv version: v4; Recorded version updated: 2023-02-08T01:39:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

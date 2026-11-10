@@ -1,3 +1,11 @@
+---
+title: "VISTA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-joshhhhhan-vista/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # VISTA
 
 VISTA 是面向视觉游戏智能体的运行框架，将游戏操作、画面检查和可检索的观察历史结合起来，支持较长的任务。

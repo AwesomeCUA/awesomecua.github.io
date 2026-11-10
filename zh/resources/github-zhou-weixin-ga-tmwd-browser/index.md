@@ -1,3 +1,11 @@
+---
+title: "ga-tmwd-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhou-weixin-ga-tmwd-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ga-tmwd-browser
 
 基于 GenericAgent 的 TMWebDriver 和 CDP 中继构建的智能体无关真实浏览器控制桥接工具。

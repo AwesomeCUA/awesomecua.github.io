@@ -1,3 +1,11 @@
+---
+title: "Imitation Learning from Observation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-07433/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Imitation Learning from Observation with Automatic Discount Scheduling
 
 Status: excluded from the active CUA catalog after scope review.

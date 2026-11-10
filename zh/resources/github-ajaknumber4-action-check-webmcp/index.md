@@ -1,3 +1,11 @@
+---
+title: "Action Check WebMCP · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ajaknumber4-action-check-webmcp/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Action Check WebMCP
 
 外部状态验证评测基准，用于测试 WebMCP 浏览器工具是否真正产生其声称的 DOM 和后端效果。

@@ -1,3 +1,11 @@
+---
+title: "screen2gym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-marc-saouda-screen2gym/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # screen2gym
 
 screen2gym compiles raw action-labeled screen recordings into resettable, programmatically gradable RL environments for computer-use agents.

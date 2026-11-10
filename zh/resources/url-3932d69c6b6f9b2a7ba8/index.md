@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act Planner 70B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3932d69c6b6f9b2a7ba8/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Plan-and-Act Planner 70B
 
 Plan-and-Act 的规划器组件，生成结构化的高层计划，由执行器将其转化为网页操作。

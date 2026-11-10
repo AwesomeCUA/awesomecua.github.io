@@ -1,3 +1,11 @@
+---
+title: "FLAME: A small language model for spreadsheet… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-13779/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # FLAME: A small language model for spreadsheet formulas
 
 Introduces FLAME, a model trained on Excel formulas for spreadsheet formula repair, completion and retrieval, supporting formula authoring in spreadsheet software.
@@ -26,6 +34,18 @@ Harshit Joshi, Abishai Ebenezer, José Cambronero, Sumit Gulwani, Aditya Kanade,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-13779/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-13779/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_13779,
+  title = {{FLAME: A small language model for spreadsheet formulas}},
+  author = {{Harshit Joshi} and {Abishai Ebenezer} and {José Cambronero} and {Sumit Gulwani} and {Aditya Kanade} and {Vu Le} and {Ivan Radiček} and {Gust Verbruggen}},
+  year = {2023},
+  eprint = {2301.13779v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.13779v2},
+  note = {First published: 2023-01-31; Recorded arXiv version: v2; Recorded version updated: 2023-12-19T22:56:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

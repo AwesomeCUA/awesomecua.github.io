@@ -1,3 +1,11 @@
+---
+title: "OS-Copilot: Towards Generalist Computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-07456/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # OS-Copilot: Towards Generalist Computer Agents with Self-Improvement
 
 Provides an operating-system agent framework connecting applications, files, terminals, and web tools, with accumulated skills for subsequent tasks.
@@ -26,6 +34,18 @@ Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-07456/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-07456/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_07456,
+  title = {{OS-Copilot: Towards Generalist Computer Agents with Self-Improvement}},
+  author = {{Zhiyong Wu} and {Chengcheng Han} and {Zichen Ding} and {Zhenmin Weng} and {Zhoumianze Liu} and {Shunyu Yao} and {Tao Yu} and {Lingpeng Kong}},
+  year = {2024},
+  eprint = {2402.07456v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.07456v2},
+  note = {First published: 2024-02-12; Recorded arXiv version: v2; Recorded version updated: 2024-02-15T09:30:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

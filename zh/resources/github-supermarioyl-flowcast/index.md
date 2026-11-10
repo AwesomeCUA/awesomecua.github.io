@@ -1,3 +1,11 @@
+---
+title: "flowcast · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-supermarioyl-flowcast/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # flowcast
 
 录制一次浏览器操作流程，保存结构化定位线索，并通过自修复恢复机制重放参数化网页工作流。

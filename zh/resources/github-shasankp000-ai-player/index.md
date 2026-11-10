@@ -1,3 +1,11 @@
+---
+title: "AI-Player · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shasankp000-ai-player/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AI-Player
 
 AI-Player 是 Minecraft Fabric 模组，内置由 LLM/VLM 驱动、能够导航、战斗和制作物品的自主第二玩家。

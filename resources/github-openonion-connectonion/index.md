@@ -1,3 +1,11 @@
+---
+title: "ConnectOnion | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openonion-connectonion/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # ConnectOnion
 
 ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.

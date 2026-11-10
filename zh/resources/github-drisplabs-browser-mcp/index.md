@@ -1,3 +1,11 @@
+---
+title: "Drisp Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-drisplabs-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Drisp Browser MCP
 
 Drisp Browser 是节省 token 的浏览器自动化 MCP 服务器，提供精简的语义页面快照和有状态动作。

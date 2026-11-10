@@ -1,3 +1,11 @@
+---
+title: "GuirlVG: Incentivize GUI Visual Grounding via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-04389/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
 
 Introduces GuirlVG, an empirical study of reinforcement fine-tuning for GUI visual grounding. It analyzes training components and adds an adaptive KL-based mechanism to limit reward over-optimization.
@@ -26,6 +34,18 @@ Weitai Kang, Bin Lei, Gaowen Liu, Caiwen Ding, Yan Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-04389/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-04389/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04389,
+  title = {{GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning}},
+  author = {{Weitai Kang} and {Bin Lei} and {Gaowen Liu} and {Caiwen Ding} and {Yan Yan}},
+  year = {2025},
+  eprint = {2508.04389v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04389v1},
+  note = {First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T12:35:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

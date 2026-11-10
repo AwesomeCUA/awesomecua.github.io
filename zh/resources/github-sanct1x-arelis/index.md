@@ -1,3 +1,11 @@
+---
+title: "Arelis · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sanct1x-arelis/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Arelis
 
 由 Ollama 驱动、在本地托管的 Windows 个人 AI 研究与桌面助手，无云端依赖。

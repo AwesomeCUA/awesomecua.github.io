@@ -1,3 +1,11 @@
+---
+title: "MobileForge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kwai-mobileforge/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # MobileForge
 
 MobileForge 是 Android GUI 智能体适配框架，结合应用探索、生成的课程安排和交互反馈，采用由提示信息引导的逐步 GRPO；文档中的公开训练流程面向 Qwen3-VL-8B。

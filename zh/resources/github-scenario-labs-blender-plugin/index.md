@@ -1,3 +1,11 @@
+---
+title: "Scenario for Blender · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scenario-labs-blender-plugin/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Scenario for Blender
 
 一款用于生成媒体内容和场景素材的 Blender 扩展。其本地 MCP 服务器让智能体检查已打开的场景并请求生成任务。

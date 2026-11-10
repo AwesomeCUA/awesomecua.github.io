@@ -1,3 +1,11 @@
+---
+title: "Tev: Scaling Long-Horizon Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-18868/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards
 
 Bibliographic record for Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh, Nanyun Peng, Kai-Wei Chang, Yo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-18868/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-18868/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_18868,
+  title = {{Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards}},
+  author = {{Wenbo Hu} and {Shraman Pramanick} and {Krishna Kumar Singh} and {Nanyun Peng} and {Kai-Wei Chang} and {Yong Jae Lee}},
+  year = {2026},
+  eprint = {2610.18868v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.18868v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T17:59:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

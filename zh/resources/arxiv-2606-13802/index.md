@@ -1,3 +1,11 @@
+---
+title: "A Benchmark and Framework for Evaluating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-13802/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets
 
 提出电子表格下一步操作预测基准及在线评估方法，依据精心整理的用户操作序列预测下一步操作。
@@ -27,6 +35,18 @@ Tejas Agrawal, Vu Le, Sumit Gulwani, Gust Verbruggen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-13802/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-13802/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_13802,
+  title = {{A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets}},
+  author = {{Tejas Agrawal} and {Vu Le} and {Sumit Gulwani} and {Gust Verbruggen}},
+  year = {2026},
+  eprint = {2606.13802v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.13802v1},
+  note = {First published: 2026-06-11; Recorded arXiv version: v1; Recorded version updated: 2026-06-11T18:16:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

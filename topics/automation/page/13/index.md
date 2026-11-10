@@ -1,12 +1,17 @@
+---
+title: "Automation — computer-use research, page 13 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/13/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 13
 
 HTML page: https://awesomecua.com/topics/automation/page/13/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [EverFern](https://awesomecua.com/resources/github-everfern-ai-everfern/)
-- [EverySolve Plugin](https://awesomecua.com/resources/github-everyinfra-everysolve-plugin/)
-- [Everything Maa](https://awesomecua.com/resources/github-khazixw2-everything-maa/)
 - [ExactMac](https://awesomecua.com/resources/github-joeycumines-exactmac/)
 - [Explorer](https://awesomecua.com/resources/github-varnelis-explorer/)
 - [Expo Device Hub](https://awesomecua.com/resources/github-expo-expo-device-hub/)
@@ -64,3 +69,6 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Gemini Web MCP](https://awesomecua.com/resources/github-akashnaickar-gemini-web-mcp/)
 - [GenericAgent](https://awesomecua.com/resources/github-lsdefine-genericagent/)
 - [Genie](https://awesomecua.com/resources/github-vimalmathew26-genie/)
+- [GenPark Multi-Step Web Form Orchestrator Skill](https://awesomecua.com/resources/github-alpha-park-genpark-multi-step-web-form-fill-orchestrator-skill/)
+- [Geohotstan DSH Codex Computer Use](https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/)
+- [GERALLT](https://awesomecua.com/resources/github-dlr-sc-gerallt/)

@@ -1,3 +1,11 @@
+---
+title: "muse-gadget-actell-mods · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ja1chen-muse-gadget-actell-mods/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # muse-gadget-actell-mods
 
 面向 ESP32-S3 AMOLED 开发板上 Muse Gadget SDK 的扩展，让 Muse 助手通过 Actell 操作手机，提供截图获取、坐标输入工具和局域网配对。

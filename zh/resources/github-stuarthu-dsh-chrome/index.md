@@ -1,3 +1,11 @@
+---
+title: "dsh-chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-stuarthu-dsh-chrome/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-chrome
 
 Chrome 侧边栏配套工具，嵌入 DeepSeek Harness UI，并将当前浏览器标签页连接到智能体。

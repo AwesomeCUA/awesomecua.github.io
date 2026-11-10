@@ -1,10 +1,17 @@
+---
+title: "界面理解：Computer-Use 研究与资源（第 16 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/screen-understanding/page/16/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 界面理解：Computer-Use 研究与资源（第 16 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/16/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
-- [Smouj AgentBrowser](https://awesomecua.com/zh/resources/github-smouj-agent-browser/)
 - [SnapDOM](https://awesomecua.com/zh/resources/github-zumerlab-snapdom/)
 - [SnapEye](https://awesomecua.com/zh/resources/github-zumerlab-snapeye/)
 - [Snapgrab](https://awesomecua.com/zh/resources/github-quartzunit-snapgrab/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/16/
 - [Vigil](https://awesomecua.com/zh/resources/github-bofstudios-vigil/)
 - [Vision Browser Agent](https://awesomecua.com/zh/resources/github-zbcs-studiocr-cn-vision-browser-agent/)
 - [Vision Primitives MCP](https://awesomecua.com/zh/resources/github-zouyuanqing-vision-primitives-mcp/)
+- [Vision UI](https://awesomecua.com/zh/resources/github-meituan-dianping-vision-ui/)

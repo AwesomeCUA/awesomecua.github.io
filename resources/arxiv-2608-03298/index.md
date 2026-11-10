@@ -1,3 +1,11 @@
+---
+title: "SeaSlides: Semantic Abstraction Layer for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-03298/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation
 
 Bibliographic record for SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shengjun Fang, Chenyang Wu, Zongzhang Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-03298/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-03298/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_03298,
+  title = {{SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation}},
+  author = {{Shengjun Fang} and {Chenyang Wu} and {Zongzhang Zhang}},
+  year = {2026},
+  eprint = {2608.03298v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.03298v1},
+  note = {First published: 2026-08-04; Recorded arXiv version: v1; Recorded version updated: 2026-08-04T08:08:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

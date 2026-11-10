@@ -1,3 +1,11 @@
+---
+title: "AgentDyn: Are Your Agent Security Defenses… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-03117/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?
 
 Bibliographic record for AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hao Li, Ruoyao Wen, Shanghao Shi, Ning Zhang, Yevgeniy Vorobeychik, Chaowei Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-03117/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-03117/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_03117,
+  title = {{AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?}},
+  author = {{Hao Li} and {Ruoyao Wen} and {Shanghao Shi} and {Ning Zhang} and {Yevgeniy Vorobeychik} and {Chaowei Xiao}},
+  year = {2026},
+  eprint = {2602.03117v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.03117v3},
+  note = {First published: 2026-02-03; Recorded arXiv version: v3; Recorded version updated: 2026-05-07T07:42:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

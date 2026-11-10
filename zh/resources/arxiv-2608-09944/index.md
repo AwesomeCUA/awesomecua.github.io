@@ -1,3 +1,11 @@
+---
+title: "Navigation Alone Is Not Enough… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-09944/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents
 
 提出 NeXUI 辅助式 UI 智能体基准，在记录的界面状态中同时评估导航、基于界面的解释和用户监督。
@@ -27,6 +35,18 @@ Santosh Patapati
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-09944/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-09944/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_09944,
+  title = {{Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents}},
+  author = {{Santosh Patapati}},
+  year = {2026},
+  eprint = {2608.09944v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.09944v1},
+  note = {First published: 2026-07-01; Recorded arXiv version: v1; Recorded version updated: 2026-07-01T16:24:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "A Survey on (M)LLM-Based GUI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-13865/
+updated: 2026-10-16
+type: survey
+lang: en
+---
+
 # A Survey on (M)LLM-Based GUI Agents
 
 Analyzes LLM-based GUI agents through four components (perception, exploration, planning, and interaction) and the methods used to evaluate them.
@@ -22,6 +30,18 @@ Fei Tang, Haolei Xu, Hang Zhang, Siqi Chen, Xingyu Wu, Yongliang Shen, Wenqi Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-13865/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-13865/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_13865,
+  title = {{A Survey on (M)LLM-Based GUI Agents}},
+  author = {{Fei Tang} and {Haolei Xu} and {Hang Zhang} and {Siqi Chen} and {Xingyu Wu} and {Yongliang Shen} and {Wenqi Zhang} and {Guiyang Hou} and {Zeqi Tan} and {Yuchen Yan} and {Kaitao Song} and {Jian Shao} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang}},
+  year = {2025},
+  eprint = {2504.13865v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.13865v2},
+  note = {First published: 2025-03-27; Recorded arXiv version: v2; Recorded version updated: 2025-06-04T17:29:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

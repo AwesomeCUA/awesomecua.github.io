@@ -1,3 +1,11 @@
+---
+title: "Self-Improving CAD Generation Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-17448/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Self-Improving CAD Generation Agents with Finite Element Analysis as Feedback
 
 Status: excluded from the active CUA catalog after scope review.

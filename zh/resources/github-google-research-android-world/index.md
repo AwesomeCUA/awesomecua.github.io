@@ -1,3 +1,11 @@
+---
+title: "AndroidWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-android-world/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # AndroidWorld
 
 AndroidWorld 是面向移动智能体的 Android 环境，支持通过程序评估任务。

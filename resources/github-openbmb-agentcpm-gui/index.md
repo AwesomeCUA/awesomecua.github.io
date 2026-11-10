@@ -1,3 +1,11 @@
+---
+title: "AgentCPM-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openbmb-agentcpm-gui/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # AgentCPM-GUI
 
 8B on-device smartphone agent built on MiniCPM-V that operates Chinese and English apps from screenshots, trained with reinforcement fine-tuning and a compact JSON action space.

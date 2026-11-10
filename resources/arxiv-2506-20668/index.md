@@ -1,3 +1,11 @@
+---
+title: "DemoDiffusion: One-Shot Human Imitation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-20668/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy
 
 Status: excluded from the active CUA catalog after scope review.

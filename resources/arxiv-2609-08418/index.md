@@ -1,3 +1,11 @@
+---
+title: "Feyospace-v1: How the Cyber Mercury Seven… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-08418/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models
 
 Bibliographic record for Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zongjie Li, Alan Z. W, John Nicolas J, Walter H. F, Scott Donald L, Gordon Y. P,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-08418/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-08418/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_08418,
+  title = {{Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models}},
+  author = {{Zongjie Li} and {Alan Z. W} and {John Nicolas J} and {Walter H. F} and {Scott Donald L} and {Gordon Y. P} and {Deke X}},
+  year = {2026},
+  eprint = {2609.08418v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.08418v1},
+  note = {First published: 2026-09-08; Recorded arXiv version: v1; Recorded version updated: 2026-09-08T08:26:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

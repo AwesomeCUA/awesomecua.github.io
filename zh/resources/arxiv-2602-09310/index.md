@@ -1,3 +1,11 @@
+---
+title: "A11y-CUA Dataset: Characterizing the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-09310/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # A11y-CUA Dataset: Characterizing the Accessibility Gap in Computer Use Agents
 
 A11y-CUA 数据集比较盲人或低视力用户与视力正常用户完成日常计算机任务的方式，并将这些操作轨迹与智能体在默认、仅键盘和放大镜条件下的行为对照，以识别共同控制中的障碍。
@@ -27,6 +35,18 @@ Ananya Gubbi Mohanbabu, Rosiana Natalie, Brandon Kim, Anhong Guo, Amy Pavel
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-09310/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-09310/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09310,
+  title = {{A11y-CUA Dataset: Characterizing the Accessibility Gap in Computer Use Agents}},
+  author = {{Ananya Gubbi Mohanbabu} and {Rosiana Natalie} and {Brandon Kim} and {Anhong Guo} and {Amy Pavel}},
+  year = {2026},
+  eprint = {2602.09310v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09310v1},
+  note = {First published: 2026-02-10; Recorded arXiv version: v1; Recorded version updated: 2026-02-10T01:00:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

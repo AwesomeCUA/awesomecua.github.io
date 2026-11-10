@@ -1,3 +1,11 @@
+---
+title: "WikiHow Task Set | AwesomeCUA"
+url: https://awesomecua.com/resources/url-25af759a783f1514fe58/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # WikiHow Task Set
 
 A Mobile-Env task set for evaluating navigation in the WikiHow app, with supplementary tasks across Android apps. It provides task definitions and rewritten instructions.

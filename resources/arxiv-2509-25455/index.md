@@ -1,3 +1,11 @@
+---
+title: "PIPer: On-Device Environment Setup via Online… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-25455/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PIPer: On-Device Environment Setup via Online Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

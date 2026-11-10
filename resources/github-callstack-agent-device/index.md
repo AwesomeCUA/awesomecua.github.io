@@ -1,3 +1,11 @@
+---
+title: "agent-device | AwesomeCUA"
+url: https://awesomecua.com/resources/github-callstack-agent-device/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # agent-device
 
 agent-device gives agents CLI, MCP, and Node.js interfaces for inspecting and controlling mobile, web, and desktop apps through accessibility snapshots and UI actions.

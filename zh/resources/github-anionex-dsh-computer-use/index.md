@@ -1,3 +1,11 @@
+---
+title: "Anionex DSH Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anionex-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Anionex DSH Computer Use
 
 适用于 DeepSeek Harness 的 macOS 计算机使用插件，支持最新的 Accessibility 观测、拒绝过期状态和限定范围的权限。

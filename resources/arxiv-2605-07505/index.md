@@ -1,3 +1,11 @@
+---
+title: "LiteGUI: Lightweight GUI Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-07505/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning
 
 LiteGUI trains lightweight GUI agents on logged states with guided on-policy distillation and dual-level RL, supported by its multi-solution Lite-Dataset.
@@ -26,6 +34,18 @@ Yubin Wu, Zicheng Cai, Liping Ning, Hua Wang, Zhi Chen, Yaohua Tang, Hao Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-07505/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-07505/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_07505,
+  title = {{LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning}},
+  author = {{Yubin Wu} and {Zicheng Cai} and {Liping Ning} and {Hua Wang} and {Zhi Chen} and {Yaohua Tang} and {Hao Chen}},
+  year = {2026},
+  eprint = {2605.07505v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.07505v2},
+  note = {First published: 2026-05-08; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T08:52:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

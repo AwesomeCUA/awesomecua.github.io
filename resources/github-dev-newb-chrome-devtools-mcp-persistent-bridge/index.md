@@ -1,3 +1,11 @@
+---
+title: "Chrome DevTools MCP Persistent Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome DevTools MCP Persistent Bridge
 
 Persistent, fail-closed Chrome DevTools Model Context Protocol bridge for OpenAI Codex on Windows.

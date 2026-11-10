@@ -1,3 +1,11 @@
+---
+title: "MedAgentGym: A Scalable Agentic Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-04405/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science
 
 Bibliographic record for MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ran Xu, Yuchen Zhuang, Yishan Zhong, Yue Yu, Zifeng Wang, Xiangru Tang, Hang Wu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-04405/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-04405/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_04405,
+  title = {{MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science}},
+  author = {{Ran Xu} and {Yuchen Zhuang} and {Yishan Zhong} and {Yue Yu} and {Zifeng Wang} and {Xiangru Tang} and {Hang Wu} and {May D. Wang} and {Peifeng Ruan} and {Donghan Yang} and {Tao Wang} and {Guanghua Xiao} and {Xin Liu} and {Carl Yang} and {Yang Xie} and {Wenqi Shi}},
+  year = {2025},
+  eprint = {2506.04405v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.04405v2},
+  note = {First published: 2025-06-04; Recorded arXiv version: v2; Recorded version updated: 2025-10-05T17:59:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

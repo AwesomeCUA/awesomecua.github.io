@@ -1,3 +1,11 @@
+---
+title: "On the Effects of Data Scale on UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-03679/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # On the Effects of Data Scale on UI Control Agents
 
 研究示范数据规模如何影响 Android 任务表现，并发布包含高层和低层指令的 AndroidControl。
@@ -27,6 +35,18 @@ Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya T
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-03679/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-03679/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_03679,
+  title = {{On the Effects of Data Scale on UI Control Agents}},
+  author = {{Wei Li} and {William Bishop} and {Alice Li} and {Chris Rawles} and {Folawiyo Campbell-Ajala} and {Divya Tyamagundlu} and {Oriana Riva}},
+  year = {2024},
+  eprint = {2406.03679v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.03679v6},
+  note = {First published: 2024-06-06; Recorded arXiv version: v6; Recorded version updated: 2024-11-13T16:42:22Z.}
+}
+```
 
 ## 发表记录
 

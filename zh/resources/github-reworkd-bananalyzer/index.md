@@ -1,3 +1,11 @@
+---
+title: "Bananalyzer · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reworkd-bananalyzer/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Bananalyzer
 
 Bananalyzer 是评测框架和数据集套件，用于测试网页智能体的结构化数据提取和导航任务。

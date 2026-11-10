@@ -1,3 +1,11 @@
+---
+title: "OmniJev-SFT-0.8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a236b756e1940a873e9f/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # OmniJev-SFT-0.8B
 
 Generative SFT baseline from the OmniJev release: a LoRA adapter over Qwen3.5-0.8B, trained for 12,500 steps, that answers image questions with text; the card reports scores on AndroidControl, web and phone families.

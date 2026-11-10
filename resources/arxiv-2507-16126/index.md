@@ -1,3 +1,11 @@
+---
+title: "TaxCalcBench: Evaluating Frontier Models on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-16126/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task
 
 Bibliographic record for TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Michael R. Bock, Kara Molisee, Zachary Ozer, Sumit Shah
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-16126/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-16126/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_16126,
+  title = {{TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task}},
+  author = {{Michael R. Bock} and {Kara Molisee} and {Zachary Ozer} and {Sumit Shah}},
+  year = {2025},
+  eprint = {2507.16126v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.16126v1},
+  note = {First published: 2025-07-22; Recorded arXiv version: v1; Recorded version updated: 2025-07-22T00:37:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

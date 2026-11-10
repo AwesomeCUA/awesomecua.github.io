@@ -1,3 +1,11 @@
+---
+title: "AGI SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agi-inc-agisdk/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # AGI SDK
 
 AGI SDK 提供浏览器智能体接口和评测工具，可让自定义智能体在可重复运行的交互式网站仿真环境中执行任务。

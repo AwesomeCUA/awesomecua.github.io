@@ -1,3 +1,11 @@
+---
+title: "Ask Early, Ask Late, Ask Right: When Does… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-07937/
+updated: 2026-10-30
+type: paper
+lang: en
+---
+
 # Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?
 
 Bibliographic record for Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Anmol Gulati, Hariom Gupta, Elias Lumer, Sahil Sen, Vamse Kumar Subbiah
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-07937/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-07937/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_07937,
+  title = {{Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?}},
+  author = {{Anmol Gulati} and {Hariom Gupta} and {Elias Lumer} and {Sahil Sen} and {Vamse Kumar Subbiah}},
+  year = {2026},
+  eprint = {2605.07937v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.07937v1},
+  note = {First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T16:08:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

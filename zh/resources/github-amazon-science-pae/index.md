@@ -1,3 +1,11 @@
+---
+title: "Proposer-Agent-Evaluator (PAE) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amazon-science-pae/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Proposer-Agent-Evaluator (PAE)
 
 浏览器智能体训练系统，可提出任务、收集视觉交互轨迹，并通过自动评估推动策略改进。

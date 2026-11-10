@@ -1,3 +1,11 @@
+---
+title: "Lexical Coupling in GUI Element Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-21794/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web
 
 Studies whether text-embedding GUI grounding scores reflect semantic matching or recovery of visible labels. Same-screen ranking comparisons with lexical baselines expose differences between deployable fusion, oracle selection, and performance on label-poor targets.
@@ -26,6 +34,18 @@ Qijia Chen, Giulio Jacucci
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-21794/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-21794/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_21794,
+  title = {{Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web}},
+  author = {{Qijia Chen} and {Giulio Jacucci}},
+  year = {2026},
+  eprint = {2608.21794v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.21794v1},
+  note = {First published: 2026-08-22; Recorded arXiv version: v1; Recorded version updated: 2026-08-22T06:30:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

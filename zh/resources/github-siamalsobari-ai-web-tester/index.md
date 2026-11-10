@@ -1,3 +1,11 @@
+---
+title: "AI Web Tester · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-siamalsobari-ai-web-tester/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AI Web Tester
 
 面向 AI 编程智能体的工具包，支持自主浏览器测试、QA 矩阵执行以及控制台和网络遥测。

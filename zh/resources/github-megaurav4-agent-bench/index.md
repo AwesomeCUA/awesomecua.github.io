@@ -1,3 +1,11 @@
+---
+title: "agent-bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-megaurav4-agent-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # agent-bench
 
 agent-bench 通过涵盖导航、表单填写、搜索和电商结账的 50 个网页任务，评测基于浏览器的 AI 智能体。

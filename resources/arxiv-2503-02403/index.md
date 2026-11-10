@@ -1,3 +1,11 @@
+---
+title: "AutoEval: A Practical Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-02403/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AutoEval: A Practical Framework for Autonomous Evaluation of Mobile Agents
 
 Generates reward signals from UI-state changes and uses a judging system to evaluate mobile agents with reduced manual evaluator construction.
@@ -26,6 +34,18 @@ Jiahui Sun, Zhichao Hua, Yubin Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-02403/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-02403/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_02403,
+  title = {{AutoEval: A Practical Framework for Autonomous Evaluation of Mobile Agents}},
+  author = {{Jiahui Sun} and {Zhichao Hua} and {Yubin Xia}},
+  year = {2025},
+  eprint = {2503.02403v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.02403v2},
+  note = {First published: 2025-03-04; Recorded arXiv version: v2; Recorded version updated: 2025-09-24T05:11:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

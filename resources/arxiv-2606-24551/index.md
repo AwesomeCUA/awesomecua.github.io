@@ -1,3 +1,11 @@
+---
+title: "GUI vs. CLI: Execution Bottlenecks in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-24551/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents
 
 This benchmark matches desktop goals, initial states and final-state verifiers across screen-only GUI and skill-mediated CLI agents. Its experiments separate graphical execution failures from missing CLI skill coverage, including a verifier-guided skill-augmentation condition.
@@ -26,6 +34,18 @@ Xiao Zhou, Siyue Zhang, Yilun Zhao, Jinbiao Wei, Tingyu Song, Arman Cohan, Chen 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-24551/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-24551/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_24551,
+  title = {{GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents}},
+  author = {{Xiao Zhou} and {Siyue Zhang} and {Yilun Zhao} and {Jinbiao Wei} and {Tingyu Song} and {Arman Cohan} and {Chen Zhao}},
+  year = {2026},
+  eprint = {2606.24551v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.24551v1},
+  note = {First published: 2026-06-22; Recorded arXiv version: v1; Recorded version updated: 2026-06-22T17:05:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

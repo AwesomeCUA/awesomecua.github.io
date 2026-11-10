@@ -1,3 +1,11 @@
+---
+title: "BrowserAct (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7ae2670859e3796e8607/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # BrowserAct
 
 Managed web scraping platform with reusable browser interaction workflows.

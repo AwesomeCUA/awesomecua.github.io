@@ -1,3 +1,11 @@
+---
+title: "A Survey on Long-Term Memory Security in… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-16548/
+updated: 2026-10-18
+type: survey
+lang: zh-CN
+---
+
 # A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle
 
 按 6 个生命周期阶段梳理智能体持久记忆的安全风险与防御措施，并提出 5 项可验证的治理基本机制。
@@ -27,6 +35,18 @@ Zehao Lin, Xixuan Hao, Renyu Fu, Shaobo Cui, Kai Chen, Chunyu Li, Zhiyu Li, Feiy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-16548/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-16548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_16548,
+  title = {{A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle}},
+  author = {{Zehao Lin} and {Xixuan Hao} and {Renyu Fu} and {Shaobo Cui} and {Kai Chen} and {Chunyu Li} and {Zhiyu Li} and {Feiyu Xiong}},
+  year = {2026},
+  eprint = {2604.16548v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.16548v3},
+  note = {First published: 2026-04-17; Recorded arXiv version: v3; Recorded version updated: 2026-09-22T07:33:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

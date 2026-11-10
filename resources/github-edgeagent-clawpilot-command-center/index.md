@@ -1,3 +1,11 @@
+---
+title: "ClawPilot Command Center | AwesomeCUA"
+url: https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ClawPilot Command Center
 
 Chrome Manifest V3 command center for OpenClaw agents to capture page context, review planned actions, and monitor runs.

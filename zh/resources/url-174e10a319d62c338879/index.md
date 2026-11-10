@@ -1,3 +1,11 @@
+---
+title: "GroundNext-7B-V0 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-174e10a319d62c338879/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GroundNext-7B-V0
 
 基于 Qwen2.5-VL-7B-Instruct 微调的 GroundNext GUI 定位检查点，先在 GroundCUA 桌面数据上进行 SFT，再进行 RLOO 训练；将截图和指令映射为 computer_use 点击调用。

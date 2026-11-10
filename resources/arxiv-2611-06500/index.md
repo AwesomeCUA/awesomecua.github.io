@@ -1,3 +1,11 @@
+---
+title: "Tools Need Not Speak in Text: Latent Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-06500/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Tools Need Not Speak in Text: Latent Context Compression for Agents
 
 Bibliographic record for Tools Need Not Speak in Text: Latent Context Compression for Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuetong Liu, Zhehao Zhou, Yitong Zhang, Haorui Chen, Jia Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-06500/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-06500/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_06500,
+  title = {{Tools Need Not Speak in Text: Latent Context Compression for Agents}},
+  author = {{Yuetong Liu} and {Zhehao Zhou} and {Yitong Zhang} and {Haorui Chen} and {Jia Li}},
+  year = {2026},
+  eprint = {2611.06500v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.06500v1},
+  note = {First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T13:32:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

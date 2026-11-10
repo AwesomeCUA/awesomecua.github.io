@@ -1,3 +1,11 @@
+---
+title: "Reservoir Computing Approach to Robust… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1405-0296/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reservoir Computing Approach to Robust Computation using Unreliable Nanoscale Networks
 
 Status: excluded from the active CUA catalog after scope review.

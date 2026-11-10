@@ -1,3 +1,11 @@
+---
+title: "REPOT: Recoverable Program-of-Thought via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-30052/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # REPOT: Recoverable Program-of-Thought via Checkpoint Repair
 
 Status: excluded from the active CUA catalog after scope review.

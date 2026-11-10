@@ -1,3 +1,11 @@
+---
+title: "历史：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/history/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 历史
 
 Reviewed topic membership; resources can appear in multiple topics.

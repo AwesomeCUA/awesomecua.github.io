@@ -1,3 +1,11 @@
+---
+title: "HAICOSYSTEM: An Ecosystem for Sandboxing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-16427/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions
 
 Status: excluded from the active CUA catalog after scope review.

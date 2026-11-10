@@ -1,3 +1,11 @@
+---
+title: "Codex File Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dev-newb-codex-file-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex File Bridge
 
 Codex skill for reliable, filename-aware local file uploads into browser file-input dialogs.

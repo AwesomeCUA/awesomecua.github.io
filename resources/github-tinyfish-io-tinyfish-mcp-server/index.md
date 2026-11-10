@@ -1,3 +1,11 @@
+---
+title: "TinyFish MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinyfish-io-tinyfish-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # TinyFish MCP Server
 
 Official TinyFish Model Context Protocol server providing web search, page extraction, and cloud browser automation.

@@ -1,3 +1,11 @@
+---
+title: "PartHackBench: Certified Equal-Progress… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-29578/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PartHackBench: Certified Equal-Progress Stress Tests for Partial-Credit Tool-Agent Evaluation
 
 Status: excluded from the active CUA catalog after scope review.

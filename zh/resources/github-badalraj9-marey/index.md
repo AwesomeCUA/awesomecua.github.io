@@ -1,3 +1,11 @@
+---
+title: "Marey · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-badalraj9-marey/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Marey
 
 Marey 是面向计算机使用智能体的模块化感知引擎，可追踪屏幕变化，并以尽量少的模型调用提取 UI 元素。

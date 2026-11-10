@@ -1,3 +1,11 @@
+---
+title: "WebQA Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-migoxlab-webqa-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # WebQA Agent
 
 WebQA Agent 是自主多模态网页测试智能体，无需测试脚本即可检查网页功能、性能和视觉用户体验。

@@ -1,3 +1,11 @@
+---
+title: "ScreenParser | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8c0b15d51eb7b4156608/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ScreenParser
 
 YOLO11-L UI element detector from IBM Research and ETH Zurich that boxes and labels 55 element classes in web screenshots; the main checkpoint is trained on ScreenParse v2 and the v1 detector stays on a branch.

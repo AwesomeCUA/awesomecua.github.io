@@ -1,3 +1,11 @@
+---
+title: "Genesis: Evolving Attack Strategies for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-18314/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming
 
 提出 Genesis，通过生成对抗性注入测试网页智能体，并依据智能体响应和交互日志更新攻击策略。
@@ -27,6 +35,18 @@ Zheng Zhang, Jiarui He, Yuchen Cai, Deheng Ye, Peilin Zhao, Ruili Feng, Hao Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-18314/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-18314/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_18314,
+  title = {{Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming}},
+  author = {{Zheng Zhang} and {Jiarui He} and {Yuchen Cai} and {Deheng Ye} and {Peilin Zhao} and {Ruili Feng} and {Hao Wang}},
+  year = {2025},
+  eprint = {2510.18314v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.18314v2},
+  note = {First published: 2025-10-21; Recorded arXiv version: v2; Recorded version updated: 2026-04-01T16:25:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

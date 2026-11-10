@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 26 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/26/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 26
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/26/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Recallo](https://awesomecua.com/resources/github-tianqi-bu-recallo/)
-- [recast](https://awesomecua.com/resources/github-yagna-1-recast/)
 - [Recruit Auto-Reply](https://awesomecua.com/resources/github-kxc7558-recruit-auto-reply/)
 - [REDLINE WebMCP](https://awesomecua.com/resources/github-eloiramos-redline/)
 - [Reqvexa](https://awesomecua.com/resources/github-kareemheshaam-reqvexa/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [Shiny Fishstick](https://awesomecua.com/resources/github-hootsworth-shiny-fishstick/)
 - [shoal](https://awesomecua.com/resources/github-raynan00-shoal/)
 - [SideButton](https://awesomecua.com/resources/github-sidebutton-sidebutton/)
+- [Signett](https://awesomecua.com/resources/github-signettai-signett/)
+- [Signpost WebMCP](https://awesomecua.com/resources/github-zioladev-signpost/)

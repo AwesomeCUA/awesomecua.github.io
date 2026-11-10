@@ -1,3 +1,11 @@
+---
+title: "awb-recipes · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeet-dhandha-awb-recipes/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # awb-recipes
 
 一组带日期的浏览器智能体操作配方，用于完成已登录网站上的任务，记录操作步骤、选择器、注意事项和验证状态。

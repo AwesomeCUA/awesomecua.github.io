@@ -1,13 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 23 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/23/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 23
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/23/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [wangye520 codex-computer-use (Cursor Port)](https://awesomecua.com/resources/github-wangye520-codex-computer-use/)
-- [wangyong1972 dsh-computer-use-macos](https://awesomecua.com/resources/github-wangyong1972-dsh-computer-use-macos/)
-- [Wanta](https://awesomecua.com/resources/github-oomol-lab-wanta/)
-- [wavexis-mcp](https://awesomecua.com/resources/github-mathiaspaulenko-wavexis-mcp/)
 - [wayhand-mcp](https://awesomecua.com/resources/github-timlai666-wayhand-mcp/)
 - [Wayland MCP Server](https://awesomecua.com/resources/github-kurojs-wayland-mcp/)
 - [wayland-computer-use](https://awesomecua.com/resources/github-wh0ami3-wayland-computer-use/)
@@ -64,3 +68,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Xiaozhuang DSH](https://awesomecua.com/resources/github-niushuanan-xiaozhuang-dsh/)
 - [Xihe Agent (羲和)](https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/)
 - [Xiryn](https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/)
+- [xiyiyiru chrome-mcp (DrissionPage MCP)](https://awesomecua.com/resources/github-xiyiyiru-chrome-mcp/)
+- [ydotool](https://awesomecua.com/resources/github-reimunotmoe-ydotool/)
+- [Your Browser Agent](https://awesomecua.com/resources/github-rakeshnirzari1-your-browser-agent/)
+- [yu-tao-li dsh-computer-use-win](https://awesomecua.com/resources/github-yu-tao-li-dsh-computer-use-win/)

@@ -1,3 +1,11 @@
+---
+title: "Thinking in Blender: Staged Executable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-02580/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
 
 Bibliographic record for Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guangzhao He, Rundong Luo, Wei-Chiu Ma, Hadar Averbuch-Elor
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-02580/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-02580/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_02580,
+  title = {{Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models}},
+  author = {{Guangzhao He} and {Rundong Luo} and {Wei-Chiu Ma} and {Hadar Averbuch-Elor}},
+  year = {2026},
+  eprint = {2606.02580v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.02580v1},
+  note = {First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T17:59:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WildClawBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-internlm-wildclawbench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WildClawBench
 
 WildClawBench 在包含浏览器、邮件、文件和编程工具的在线工具环境中，以 60 项任务评估智能体，并发布评测代码及任务数据、轨迹链接。

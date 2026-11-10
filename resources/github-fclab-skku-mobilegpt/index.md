@@ -1,3 +1,11 @@
+---
+title: "MobileGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fclab-skku-mobilegpt/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # MobileGPT
 
 An Android client and Python-server agent that learns reusable app subtasks through exploration, selection, derivation and memory recall.

@@ -1,3 +1,11 @@
+---
+title: "Browser Bridge MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-adbarc92-mcp-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Bridge MCP
 
 MCP 服务器，通过 11 个工具为 AI 助手提供对实时 Chrome 浏览器的有限控制。

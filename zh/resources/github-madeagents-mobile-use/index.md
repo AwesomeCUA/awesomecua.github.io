@@ -1,3 +1,11 @@
+---
+title: "Mobile Use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-madeagents-mobile-use/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Mobile Use
 
 Mobile Use 是通过 ADB 操作真实手机的 Android GUI 智能体，采用分层反思和多智能体框架，可通过网页界面或 Python 运行，并在 AndroidWorld 和 AndroidLab 上评估。

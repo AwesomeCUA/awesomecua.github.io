@@ -1,3 +1,11 @@
+---
+title: "A Survey of WebAgents: Towards… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-23350/
+updated: 2026-10-18
+type: survey
+lang: en
+---
+
 # A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models
 
 Surveys foundation-model web agents through their architectures, training methods and trustworthiness. It organizes research on completing browser tasks from user instructions and identifies directions for further development.
@@ -26,6 +34,18 @@ Liangbo Ning, Ziran Liang, Zhuohang Jiang, Haohao Qu, Yujuan Ding, Wenqi Fan, Xi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-23350/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-23350/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_23350,
+  title = {{A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models}},
+  author = {{Liangbo Ning} and {Ziran Liang} and {Zhuohang Jiang} and {Haohao Qu} and {Yujuan Ding} and {Wenqi Fan} and {Xiao-yong Wei} and {Shanru Lin} and {Hui Liu} and {Philip S. Yu} and {Qing Li}},
+  year = {2025},
+  eprint = {2503.23350v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.23350v4},
+  note = {First published: 2025-03-30; Recorded arXiv version: v4; Recorded version updated: 2025-08-05T11:47:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

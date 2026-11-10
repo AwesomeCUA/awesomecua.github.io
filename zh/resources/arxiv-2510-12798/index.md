@@ -1,3 +1,11 @@
+---
+title: "Detect Anything via Next Point Prediction · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-12798/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Detect Anything via Next Point Prediction
 
 提出 Rex-Omni，通过坐标预测训练通用视觉感知模型；GUI 元素定位是其与目标检测、OCR 等一同评估的能力之一。
@@ -27,6 +35,18 @@ Qing Jiang, Junan Huo, Xingyu Chen, Yuda Xiong, Zhaoyang Zeng, Yihao Chen, Tianh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-12798/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-12798/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_12798,
+  title = {{Detect Anything via Next Point Prediction}},
+  author = {{Qing Jiang} and {Junan Huo} and {Xingyu Chen} and {Yuda Xiong} and {Zhaoyang Zeng} and {Yihao Chen} and {Tianhe Ren} and {Junzhi Yu} and {Lei Zhang}},
+  year = {2025},
+  eprint = {2510.12798v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.12798v1},
+  note = {First published: 2025-10-14; Recorded arXiv version: v1; Recorded version updated: 2025-10-14T17:59:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

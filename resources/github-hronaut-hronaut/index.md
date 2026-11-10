@@ -1,3 +1,11 @@
+---
+title: "Hronaut (framework) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hronaut-hronaut/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Hronaut
 
 Visible, persistent, dedicated browser runtime that coding agents can control without interrupting the user's personal browser.

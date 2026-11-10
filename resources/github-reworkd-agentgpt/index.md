@@ -1,3 +1,11 @@
+---
+title: "AgentGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-reworkd-agentgpt/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AgentGPT
 
 AgentGPT is a browser-based platform for configuring and deploying autonomous goal-driven LLM agents that decompose tasks and browse the web.

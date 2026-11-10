@@ -1,3 +1,11 @@
+---
+title: "DrafterBench: Benchmarking Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-11527/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering
 
 Bibliographic record for DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yinsheng Li, Zhen Dong, Yi Shao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-11527/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-11527/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_11527,
+  title = {{DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering}},
+  author = {{Yinsheng Li} and {Zhen Dong} and {Yi Shao}},
+  year = {2025},
+  eprint = {2507.11527v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.11527v1},
+  note = {First published: 2025-07-15; Recorded arXiv version: v1; Recorded version updated: 2025-07-15T17:56:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

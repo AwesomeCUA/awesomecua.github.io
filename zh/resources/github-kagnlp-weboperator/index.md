@@ -1,3 +1,11 @@
+---
+title: "WebOperator (github.com/kagnlp/WebOperat… · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kagnlp-weboperator/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # WebOperator
 
 网页操作智能体，利用感知动作的树搜索探索任务并回退，核验页面重建结果，并考虑可能改变网站状态的操作。

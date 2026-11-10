@@ -1,3 +1,11 @@
+---
+title: "tti_webarena | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a1621345ec327462b86e/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # tti_webarena
 
 TTI-WebArena checkpoint from the Test-Time Interaction work, a multimodal web agent trained with online filtered behavior cloning on WebArena tasks and set in the TTI evaluation configs.

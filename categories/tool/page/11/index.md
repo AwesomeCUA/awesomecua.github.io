@@ -1,10 +1,17 @@
+---
+title: "Computer-use agent tools, page 11 | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/page/11/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools, page 11
 
 HTML page: https://awesomecua.com/categories/tool/page/11/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
-- [reflex-computer-use](https://awesomecua.com/resources/github-8itlab-reflex-cu/)
 - [RegionFocus](https://awesomecua.com/resources/github-tiangeluo-regionfocus/)
 - [Reins](https://awesomecua.com/resources/github-pegasi-ai-reins/)
 - [Renoned dsh-computer-use](https://awesomecua.com/resources/github-renoned-dsh-computer-use/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [Veeva Vault Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/)
 - [Vision Primitives MCP](https://awesomecua.com/resources/github-zouyuanqing-vision-primitives-mcp/)
 - [vision-bridge](https://awesomecua.com/resources/github-rusnetru-vision-bridge/)
+- [Vision-MCP](https://awesomecua.com/resources/github-haruhiyuki-vision-mcp/)

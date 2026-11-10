@@ -1,3 +1,11 @@
+---
+title: "效率：Computer-Use 研究与资源（第 4 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/efficiency/page/4/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 效率：Computer-Use 研究与资源（第 4 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/4/

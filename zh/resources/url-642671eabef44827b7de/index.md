@@ -1,3 +1,11 @@
+---
+title: "KDEGroup/UI-AGILE-3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-642671eabef44827b7de/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # KDEGroup/UI-AGILE-3B
 
 发布的 UI-AGILE 图形界面定位模型；其方法在训练中使用奖励设计和裁剪重采样，在推理时分解图像以定位目标。

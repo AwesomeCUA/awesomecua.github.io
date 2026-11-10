@@ -1,3 +1,11 @@
+---
+title: "rdc (Remote Desktop Control for AI Agents) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bscott-rdc/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # rdc (Remote Desktop Control for AI Agents)
 
 远程桌面控制 CLI 和桥接工具，让编码智能体能够捕获另一台机器的截图并发送鼠标和键盘输入。

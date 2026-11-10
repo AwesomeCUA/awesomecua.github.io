@@ -1,3 +1,11 @@
+---
+title: "LLaVA-Plus: Learning to Use Tools for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-05437/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "The Blind Spot of Agent Safety: How Benign… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-10577/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents
 
 Introduces OS-BLIND, a computer-use agent safety benchmark for harmful outcomes arising from benign instructions and threats in task environments.
@@ -26,6 +34,18 @@ Xuwei Ding, Skylar Zhai, Linxin Song, Jiate Li, Taiwei Shi, Nicholas Meade, Siva
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-10577/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-10577/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_10577,
+  title = {{The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents}},
+  author = {{Xuwei Ding} and {Skylar Zhai} and {Linxin Song} and {Jiate Li} and {Taiwei Shi} and {Nicholas Meade} and {Siva Reddy} and {Jian Kang} and {Jieyu Zhao}},
+  year = {2026},
+  eprint = {2604.10577v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.10577v2},
+  note = {First published: 2026-04-12; Recorded arXiv version: v2; Recorded version updated: 2026-04-17T07:20:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

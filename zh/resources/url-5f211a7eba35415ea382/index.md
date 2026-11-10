@@ -1,3 +1,11 @@
+---
+title: "NeurIPS 2025: 45 Computer-Use Agent… · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5f211a7eba35415ea382/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # NeurIPS 2025: 45 Computer-Use Agent Papers You Should Know About
 
 这份阅读清单汇集了 45 篇 NeurIPS 2025 计算机使用智能体论文，按基准测试、安全、界面定位和智能体架构等主题介绍。

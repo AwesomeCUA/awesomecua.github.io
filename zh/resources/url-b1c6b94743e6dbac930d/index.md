@@ -1,3 +1,11 @@
+---
+title: "android_icon_dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b1c6b94743e6dbac930d/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # android_icon_dataset
 
 Android 图标标注数据集，用于研究界面中的视觉元素；训练集包含图像和字符串类别标签。

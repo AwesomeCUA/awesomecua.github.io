@@ -1,3 +1,11 @@
+---
+title: "screenshotting-gui · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-evilfreelancer-screenshotting-gui/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # screenshotting-gui
 
 面向 Claude Code、Codex 和 Cursor 的智能体技能，可对原生桌面和浏览器 GUI 应用重复截取指定窗口的截图。

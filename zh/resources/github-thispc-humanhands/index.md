@@ -1,3 +1,11 @@
+---
+title: "HumanHands · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thispc-humanhands/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # HumanHands
 
 macOS 计算机使用智能体，结合辅助功能树语义信息和视觉备用方式，像人一样操作 Mac 应用。

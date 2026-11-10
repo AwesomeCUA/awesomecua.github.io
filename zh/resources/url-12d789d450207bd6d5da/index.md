@@ -1,3 +1,11 @@
+---
+title: "Project Mariner · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-12d789d450207bd6d5da/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Project Mariner
 
 已停止的 Google 浏览器智能体研究原型，基于 Gemini 2.0，通过扩展读取屏幕像素和页面元素并在当前 Chrome 标签页操作，执行敏感操作前先征询用户。

@@ -1,3 +1,11 @@
+---
+title: "Efficient Computation Using Spatial-Photonic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-01400/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Computation Using Spatial-Photonic Ising Machines: Utilizing Low-Rank and Circulant Matrix Constraints
 
 Status: excluded from the active CUA catalog after scope review.

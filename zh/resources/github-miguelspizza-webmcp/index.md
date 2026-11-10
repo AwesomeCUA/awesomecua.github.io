@@ -1,3 +1,11 @@
+---
+title: "MCP-B · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-miguelspizza-webmcp/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # MCP-B
 
 早期的 MCP-B 代码库：包含一个发现并调用网站以 MCP 服务器形式提供的工具的 Chrome 扩展、一个 Cloudflare Workers 后端，以及将这些工具转发给桌面 MCP 客户端的本地服务器。

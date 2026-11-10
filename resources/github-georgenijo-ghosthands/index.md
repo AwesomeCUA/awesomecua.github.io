@@ -1,3 +1,11 @@
+---
+title: "GhostHands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-georgenijo-ghosthands/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GhostHands
 
 Local Apple Silicon MLX computer-use bridge that drives native macOS apps via the Accessibility API without stealing the physical cursor.

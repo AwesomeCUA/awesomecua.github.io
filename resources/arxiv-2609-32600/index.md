@@ -1,3 +1,11 @@
+---
+title: "CUA-SWE: When Computer-Use Agents Meet Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32600/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering
 
 Introduces CUA-SWE, a benchmark and execution environment that combines code changes with graphical interaction and visual inspection of running software. Task-specific tests verify repairs and changes whose required information may be available only through the application interface.
@@ -26,6 +34,18 @@ Prince Zizhuang Wang, Chenhao Liang, Zelong Xu, Aojie Yuan, Xiaolin Zhou, Haiyue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32600/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32600/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32600,
+  title = {{CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering}},
+  author = {{Prince Zizhuang Wang} and {Chenhao Liang} and {Zelong Xu} and {Aojie Yuan} and {Xiaolin Zhou} and {Haiyue Zhang} and {Yue Zhao} and {Xiyang Hu} and {Shuli Jiang}},
+  year = {2026},
+  eprint = {2609.32600v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32600v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T13:18:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

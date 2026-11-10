@@ -1,3 +1,11 @@
+---
+title: "1D-Bench: A Benchmark for Iterative UI Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-18548/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # 1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World
 
 Bibliographic record for 1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiao Xu, Yipeng Yu, Chengxiao Feng, Xu Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-18548/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-18548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_18548,
+  title = {{1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World}},
+  author = {{Qiao Xu} and {Yipeng Yu} and {Chengxiao Feng} and {Xu Liu}},
+  year = {2026},
+  eprint = {2602.18548v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.18548v3},
+  note = {First published: 2026-02-20; Recorded arXiv version: v3; Recorded version updated: 2026-07-15T01:52:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

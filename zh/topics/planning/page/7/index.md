@@ -1,3 +1,11 @@
+---
+title: "规划：Computer-Use 研究与资源（第 7 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/planning/page/7/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 规划：Computer-Use 研究与资源（第 7 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/planning/page/7/

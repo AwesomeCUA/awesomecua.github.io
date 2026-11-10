@@ -1,3 +1,11 @@
+---
+title: "MindSearch · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-internlm-mindsearch/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MindSearch
 
 MindSearch 协调多智能体 WebPlanner 和并行 WebSearcher 图，执行多步骤网页信息检索。

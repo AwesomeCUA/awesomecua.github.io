@@ -1,3 +1,11 @@
+---
+title: "WebsiteBench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-687a7b27f38720fe54bc/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # WebsiteBench
 
 WebsiteBench 70 个任务的 Hugging Face 版本，采用 Harbor 格式：智能体通过浏览器探索一个生产级网站，并重建其全栈副本，由隐藏的功能与视觉测试评分。

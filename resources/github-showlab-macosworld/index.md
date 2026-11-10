@@ -1,3 +1,11 @@
+---
+title: "macOSWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-macosworld/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # macOSWorld
 
 macOSWorld benchmarks GUI agents on tasks across 30 macOS apps in five languages. It supplies a Python testbench for AWS macOS instances and a safety task subset.

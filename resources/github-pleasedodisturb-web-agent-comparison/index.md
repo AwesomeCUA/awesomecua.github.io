@@ -1,3 +1,11 @@
+---
+title: "Web Agent Comparison | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Web Agent Comparison
 
 Reproducible 8-dimension benchmark comparing 7 browser-automation MCP servers on latency, token overhead, and task success.

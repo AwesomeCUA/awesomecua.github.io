@@ -1,3 +1,11 @@
+---
+title: "HyWe: Unifying Search and Operation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-16319/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # HyWe: Unifying Search and Operation for Real-World Hybrid Web Tasks
 
 提出 HyWe，在同一条轨迹中切换信息搜索与浏览器操作，并提供示范构建流程和混合网页任务基准。
@@ -27,6 +35,18 @@ Zijian Cai, Haowei Liu, Kailai Chen, Lin Peng, Cong Wan, Ziqi Zhang, Chunfeng Yu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-16319/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-16319/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16319,
+  title = {{HyWe: Unifying Search and Operation for Real-World Hybrid Web Tasks}},
+  author = {{Zijian Cai} and {Haowei Liu} and {Kailai Chen} and {Lin Peng} and {Cong Wan} and {Ziqi Zhang} and {Chunfeng Yuan} and {Bing Li} and {Weiming Hu} and {Haiyang Xu}},
+  year = {2026},
+  eprint = {2610.16319v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16319v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T07:42:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

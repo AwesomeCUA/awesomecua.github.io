@@ -1,3 +1,11 @@
+---
+title: "Agentic Information Retrieval | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-09713/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic Information Retrieval
 
 Bibliographic record for Agentic Information Retrieval. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du, Jianghao Lin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-09713/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-09713/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_09713,
+  title = {{Agentic Information Retrieval}},
+  author = {{Weinan Zhang} and {Junwei Liao} and {Ning Li} and {Kounianhua Du} and {Jianghao Lin}},
+  year = {2024},
+  eprint = {2410.09713v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.09713v4},
+  note = {First published: 2024-10-13; Recorded arXiv version: v4; Recorded version updated: 2025-02-23T03:23:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

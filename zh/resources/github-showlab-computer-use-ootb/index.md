@@ -1,3 +1,11 @@
+---
+title: "Computer Use OOTB · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-computer-use-ootb/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # Computer Use OOTB
 
 无需 Docker 的 Windows 和 macOS 桌面 GUI 智能体，采用 Gradio 界面，可通过 API 使用 Claude 3.5 Computer Use 或在本地运行 ShowUI 和 UI-TARS，支持多显示器和手机远程控制。

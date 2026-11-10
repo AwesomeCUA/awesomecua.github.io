@@ -1,3 +1,11 @@
+---
+title: "sharryXR/asil-training-data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e9423bcf01a8d6b078bc/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # sharryXR/asil-training-data
 
 ASIL 智能体训练数据包含重放的动作轨迹、引导式监督数据，以及由评估器支持的强化学习课程，并以 JSONL 和 Parquet 分片提供。

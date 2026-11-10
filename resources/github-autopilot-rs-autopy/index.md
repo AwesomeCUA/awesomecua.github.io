@@ -1,3 +1,11 @@
+---
+title: "AutoPy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-autopilot-rs-autopy/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # AutoPy
 
 AutoPy provides Python functions for desktop mouse and keyboard control, screen capture, pixel inspection and bitmap matching on macOS, Windows and X11.

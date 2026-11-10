@@ -1,3 +1,11 @@
+---
+title: "Aguvis-7B-720P | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ac62da857db91f68376b/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Aguvis-7B-720P
 
 Aguvis-7B-720P, the released Aguvis checkpoint: a vision-only GUI agent model trained first for grounding and then for planning and reasoning, acting from screenshots on web, desktop and mobile.

@@ -1,3 +1,11 @@
+---
+title: "Beyond Screenshots: Evaluating VLMs'… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-26148/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations
 
 AniMINT evaluates how VLMs perceive, explain and interpret UI animations using densely annotated videos. The study distinguishes basic motion recognition from higher-level animation meaning and probes motion, context and perceptual cues.
@@ -26,6 +34,18 @@ Chen Liang, Xirui Jiang, Naihao Deng, Eytan Adar, Anhong Guo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-26148/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-26148/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_26148,
+  title = {{Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations}},
+  author = {{Chen Liang} and {Xirui Jiang} and {Naihao Deng} and {Eytan Adar} and {Anhong Guo}},
+  year = {2026},
+  eprint = {2604.26148v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.26148v3},
+  note = {First published: 2026-04-28; Recorded arXiv version: v3; Recorded version updated: 2026-08-11T15:48:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

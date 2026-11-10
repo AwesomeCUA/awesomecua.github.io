@@ -1,3 +1,11 @@
+---
+title: "XBOUND: Exploring Capability Boundaries of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-21279/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # XBOUND: Exploring Capability Boundaries of Device-Control Agents at the State Level
 
 XBOUND evaluates GUI agents at the level of a screen state, considering multiple instructions and possible target actions within it. The study separates action matching from instruction unification and compares effects of grounding and trajectory data.
@@ -26,6 +34,18 @@ Shaoqing Zhang, Kehai Chen, Zhuosheng Zhang, Rumei Li, Rongxiang Weng, Yang Xian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-21279/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-21279/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_21279,
+  title = {{XBOUND: Exploring Capability Boundaries of Device-Control Agents at the State Level}},
+  author = {{Shaoqing Zhang} and {Kehai Chen} and {Zhuosheng Zhang} and {Rumei Li} and {Rongxiang Weng} and {Yang Xiang} and {Min Zhang}},
+  year = {2025},
+  eprint = {2505.21279v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.21279v2},
+  note = {First published: 2025-05-27; Recorded arXiv version: v2; Recorded version updated: 2025-09-26T09:13:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

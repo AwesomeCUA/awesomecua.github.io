@@ -1,3 +1,11 @@
+---
+title: "TextHawk: Exploring Efficient Fine-Grained… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-09204/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models
 
 Bibliographic record for TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ya-Qi Yu, Minghui Liao, Jihao Wu, Yongxin Liao, Xiaoyu Zheng, Wei Zeng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-09204/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-09204/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_09204,
+  title = {{TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models}},
+  author = {{Ya-Qi Yu} and {Minghui Liao} and {Jihao Wu} and {Yongxin Liao} and {Xiaoyu Zheng} and {Wei Zeng}},
+  year = {2024},
+  eprint = {2404.09204v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.09204v1},
+  note = {First published: 2024-04-14; Recorded arXiv version: v1; Recorded version updated: 2024-04-14T09:48:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

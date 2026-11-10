@@ -1,3 +1,11 @@
+---
+title: "Kortix Suna | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kortix-ai-suna/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Kortix Suna
 
 Kortix Suna is an open-source generalist agent platform combining a containerized browser, code interpreter, file manager, and tool runtime.

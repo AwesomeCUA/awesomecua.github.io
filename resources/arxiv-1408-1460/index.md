@@ -1,3 +1,11 @@
+---
+title: "Verification of Linear Optical Quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1408-1460/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Verification of Linear Optical Quantum Computing using Quantum Process Calculus
 
 Status: excluded from the active CUA catalog after scope review.

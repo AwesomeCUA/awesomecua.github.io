@@ -1,3 +1,11 @@
+---
+title: "UiPad | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3ac3ccfb23fe13adf428/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # UiPad
 
 A macOS UI dataset with 352 screens from 63 applications. It pairs screenshots with available accessibility trees and questions about interface elements and click locations.

@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager | AwesomeCUA"
+url: https://awesomecua.com/resources/github-minorjerry-openwebvoyager/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OpenWebVoyager
 
 OpenWebVoyager trains multimodal web navigation agents through iterative real-world web exploration, feedback verification, and trajectory tuning.

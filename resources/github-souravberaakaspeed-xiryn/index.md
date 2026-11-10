@@ -1,3 +1,11 @@
+---
+title: "Xiryn | AwesomeCUA"
+url: https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Xiryn
 
 Self-hosted personal agent app that gives each agent its own Docker Linux desktop with Chromium, operated through screenshots and xdotool clicks and keys, with live take-over, memory, a vault and Telegram control.

@@ -1,3 +1,11 @@
+---
+title: "ARPO training framework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jia-lab-research-arpo/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # ARPO training framework
 
 Replay-based policy-optimization framework for GUI agents, with distributed OSWorld rollouts and screenshot/action histories.

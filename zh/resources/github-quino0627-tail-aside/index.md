@@ -1,3 +1,11 @@
+---
+title: "tail-aside · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-quino0627-tail-aside/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # tail-aside
 
 通过 Tailscale 监控和引导 Aside 浏览器智能体的远程移动端控制器。

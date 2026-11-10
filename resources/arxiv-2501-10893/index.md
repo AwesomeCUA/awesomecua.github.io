@@ -1,3 +1,11 @@
+---
+title: "Learn-by-interact: A Data-Centric Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-10893/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments
 
 Learn-by-interact synthesizes agent interaction trajectories from documentation and derives instructions from their histories for training or in-context use across web and desktop tasks.
@@ -26,6 +34,18 @@ Hongjin Su, Ruoxi Sun, Jinsung Yoon, Pengcheng Yin, Tao Yu, Sercan Ö. Arık
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-10893/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-10893/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_10893,
+  title = {{Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments}},
+  author = {{Hongjin Su} and {Ruoxi Sun} and {Jinsung Yoon} and {Pengcheng Yin} and {Tao Yu} and {Sercan Ö. Arık}},
+  year = {2025},
+  eprint = {2501.10893v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.10893v1},
+  note = {First published: 2025-01-18; Recorded arXiv version: v1; Recorded version updated: 2025-01-18T22:34:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

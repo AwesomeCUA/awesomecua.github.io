@@ -1,8 +1,16 @@
+---
+title: "Computer-use agent benchmarks | AwesomeCUA"
+url: https://awesomecua.com/categories/benchmark/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent benchmarks
 
 Computer-use benchmarks are task suites and environments that score agents operating web browsers, desktop applications or mobile devices. Each pairs a fixed set of tasks with an evaluator, such as execution-based state checks, answer matching or target localization.
 
-> 310 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
+> 309 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,11 +35,11 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these benchmarks cover?
 
-Of 310 reviewed benchmarks, 211 are tagged web, 95 desktop, 46 mobile and 28 cross-platform; 14 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 309 reviewed benchmarks, 210 are tagged web, 95 desktop, 46 mobile and 28 cross-platform; 14 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which benchmarks have an official leaderboard?
 
-25 of 310 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
+25 of 309 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
 
 ### How many benchmarks are interactive and how many offline?
 
@@ -39,7 +47,7 @@ Of 94 benchmarks with a recorded protocol, 56 are interactive, 34 are offline an
 
 ### Which licenses do benchmarks declare?
 
-The most common declared licenses are MIT (121), Apache-2.0 (71) and CC-BY-4.0 (7). 101 of 310 have no declared license in their record.
+The most common declared licenses are MIT (121), Apache-2.0 (70) and CC-BY-4.0 (7). 101 of 309 have no declared license in their record.
 
 ---
 
@@ -9024,36 +9032,6 @@ Benchmark of semantic world modeling for mobile agents, with question-answering 
 ### Primary evidence
 
 - https://github.com/jacklishufan/MobileWorld (retrieved 2026-10-16T06:40:51Z; SHA-256 dfcbaa088cc21dd4e3c67d6eb3b3a1dc476217165ce2ca0daa2facfda71b5a38)
-
----
-
-## Navi-Bench
-
-Navi-Bench evaluates web agents on everyday consumer tasks executed directly on live websites with deterministic outcome verifiers.
-
-- Catalog URL: https://awesomecua.com/resources/github-yutori-ai-navi-bench/
-- Original source: https://github.com/yutori-ai/navi-bench
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation
-- Evidence checked: 2026-11-04T14:02:36Z
-- ID: github:yutori-ai/navi-bench
-
-- Record JSON: https://awesomecua.com/resources/github-yutori-ai-navi-bench/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/README.md (retrieved 2026-11-04T14:02:36Z; SHA-256 1642a791d8fc35149562ca741b8d20596d0a2b756fab188522070242dca21336)
-- https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:15Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 

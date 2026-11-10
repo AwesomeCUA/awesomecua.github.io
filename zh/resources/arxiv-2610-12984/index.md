@@ -1,3 +1,11 @@
+---
+title: "Work2Skill: Capturing Human GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-12984/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction
 
 对齐人类屏幕录制、输入事件和无障碍信息，从桌面操作示范中提取可复用的工作流程技能。
@@ -27,6 +35,18 @@ Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, C
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-12984/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-12984/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12984,
+  title = {{Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction}},
+  author = {{Yuqi Huang} and {Hui Li} and {Yifei Cao} and {Zikun Cai} and {Tianci Xie} and {Yangfan Gao} and {Pinxue Guo} and {Chaoyun Zhang} and {Bingxuan Li} and {Rui Zheng} and {Hang Yan} and {Ning Liao}},
+  year = {2026},
+  eprint = {2610.12984v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12984v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T04:32:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

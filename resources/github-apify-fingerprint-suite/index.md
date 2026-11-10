@@ -1,3 +1,11 @@
+---
+title: "fingerprint-suite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-apify-fingerprint-suite/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # fingerprint-suite
 
 Fingerprint Suite generates browser fingerprints and injects them into Playwright or Puppeteer browser sessions. Its packages also generate configurable HTTP headers.

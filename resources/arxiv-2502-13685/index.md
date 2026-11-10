@@ -1,3 +1,11 @@
+---
+title: "MoM: Linear Sequence Modeling with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-13685/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MoM: Linear Sequence Modeling with Mixture-of-Memories
 
 Bibliographic record for MoM: Linear Sequence Modeling with Mixture-of-Memories. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jusen Du, Weigao Sun, Disen Lan, Jiaxi Hu, Yu Cheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-13685/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-13685/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_13685,
+  title = {{MoM: Linear Sequence Modeling with Mixture-of-Memories}},
+  author = {{Jusen Du} and {Weigao Sun} and {Disen Lan} and {Jiaxi Hu} and {Yu Cheng}},
+  year = {2025},
+  eprint = {2502.13685v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.13685v4},
+  note = {First published: 2025-02-19; Recorded arXiv version: v4; Recorded version updated: 2025-11-18T13:02:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

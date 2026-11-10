@@ -1,3 +1,11 @@
+---
+title: "PICC | AwesomeCUA"
+url: https://awesomecua.com/resources/github-andelf-picc/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # PICC
 
 PICC is a macOS utility collection with an accessibility-based app automation CLI and tree viewers for inspecting and interacting with interface elements.

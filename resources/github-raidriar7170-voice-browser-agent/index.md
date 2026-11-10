@@ -1,3 +1,11 @@
+---
+title: "Voice-to-Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raidriar7170-voice-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Voice-to-Browser Agent
 
 Bounded Chinese-first voice-to-browser agent that translates spoken commands into safe, traceable browser execution steps.

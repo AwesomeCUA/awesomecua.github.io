@@ -1,3 +1,11 @@
+---
+title: "DJCLIPZ Agent Controller | AwesomeCUA"
+url: https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DJCLIPZ Agent Controller
 
 Starter kit and controller for driving the DJCLIPZ browser media application programmatically from AI agents.

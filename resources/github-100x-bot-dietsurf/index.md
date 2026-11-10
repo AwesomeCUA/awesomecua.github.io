@@ -1,3 +1,11 @@
+---
+title: "DietSurf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-100x-bot-dietsurf/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DietSurf
 
 Minimalist Chrome side-panel browser agent with a virtual filesystem and shell-like command interface.

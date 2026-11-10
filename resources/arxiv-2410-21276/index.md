@@ -1,3 +1,11 @@
+---
+title: "GPT-4o System Card | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-21276/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GPT-4o System Card
 
 Status: excluded from the active CUA catalog after scope review.

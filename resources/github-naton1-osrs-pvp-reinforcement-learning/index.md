@@ -1,3 +1,11 @@
+---
+title: "OSRS PvP Reinforcement Learning | AwesomeCUA"
+url: https://awesomecua.com/resources/github-naton1-osrs-pvp-reinforcement-learning/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OSRS PvP Reinforcement Learning
 
 Trains PPO self-play reinforcement learning agents for real-time Old School RuneScape PvP combat across high-dimensional action spaces.

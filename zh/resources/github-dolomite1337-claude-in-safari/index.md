@@ -1,3 +1,11 @@
+---
+title: "Claude in Safari · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dolomite1337-claude-in-safari/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Claude in Safari
 
 开源 macOS Safari 网页扩展，让 Claude 在本地读取页面并执行交互式浏览器任务。

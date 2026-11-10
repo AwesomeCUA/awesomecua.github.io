@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-90b24afa7bb8b2181205/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo3.1 4B
 
 H Company 的 Holo3.1 系列 4B 检查点，采用稠密 Qwen3.5 架构，是面向网页、桌面和移动端计算机使用智能体、原生支持函数调用的视觉语言模型。

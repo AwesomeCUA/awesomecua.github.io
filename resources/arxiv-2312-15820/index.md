@@ -1,3 +1,11 @@
+---
+title: "WebVLN: Vision-and-Language Navigation on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-15820/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebVLN: Vision-and-Language Navigation on Websites
 
 WebVLN trains website navigation from question-based instructions using both rendered visual information and underlying HTML. It introduces WebVLN-v1 and a website-aware navigation network to study this digital variant of vision-and-language navigation.
@@ -26,6 +34,18 @@ Qi Chen, Dileepa Pitawela, Chongyang Zhao, Gengze Zhou, Hsiang-Ting Chen, Qi Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-15820/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-15820/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_15820,
+  title = {{WebVLN: Vision-and-Language Navigation on Websites}},
+  author = {{Qi Chen} and {Dileepa Pitawela} and {Chongyang Zhao} and {Gengze Zhou} and {Hsiang-Ting Chen} and {Qi Wu}},
+  year = {2023},
+  eprint = {2312.15820v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.15820v1},
+  note = {First published: 2023-12-25; Recorded arXiv version: v1; Recorded version updated: 2023-12-25T22:13:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

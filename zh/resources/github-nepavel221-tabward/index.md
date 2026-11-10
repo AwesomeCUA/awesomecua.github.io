@@ -1,3 +1,11 @@
+---
+title: "TabWard · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nepavel221-tabward/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # TabWard
 
 通过 stdio MCP 服务器和扩展，为本地 AI 智能体提供受权限控制的已认证 Chrome 标签页访问能力。

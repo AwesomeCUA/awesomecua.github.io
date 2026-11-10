@@ -1,3 +1,11 @@
+---
+title: "Cella | AwesomeCUA"
+url: https://awesomecua.com/resources/github-latere-ai-cella/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Cella
 
 A control plane for agent sandboxes defined by manifests. It runs workloads on several runtimes and exposes a virtual desktop with screen viewing and input controls.

@@ -1,3 +1,11 @@
+---
+title: "Grounded GUI Understanding for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-10811/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps
 
 Orienter 通过解读场景上下文检测 XR 应用中的可交互 GUI 元素，并借助验证与反思循环重新审视候选元素；针对开放词表的元素类型和依赖上下文的可交互性开展研究。
@@ -27,6 +35,18 @@ Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheun
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-10811/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-10811/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_10811,
+  title = {{Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps}},
+  author = {{Shuqing Li} and {Binchang Li} and {Yepang Liu} and {Cuiyun Gao} and {Jianping Zhang} and {Shing-Chi Cheung} and {Michael R. Lyu}},
+  year = {2024},
+  eprint = {2409.10811v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.10811v4},
+  note = {First published: 2024-09-17; Recorded arXiv version: v4; Recorded version updated: 2025-10-01T17:58:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

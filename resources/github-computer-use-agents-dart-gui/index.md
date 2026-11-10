@@ -1,3 +1,11 @@
+---
+title: "DART-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-computer-use-agents-dart-gui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # DART-GUI
 
 DART-GUI implements decoupled multi-turn reinforcement learning and adaptive trajectory curation for training computer-use GUI agents.

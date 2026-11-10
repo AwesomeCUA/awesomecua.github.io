@@ -1,3 +1,11 @@
+---
+title: "Gym-Anything-RT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Gym-Anything-RT
 
 Gym-Anything-RT evaluates screenshot-driven agents on paired live and untimed browser minigames. Its runner can pause or slow the game clock to isolate timing effects.

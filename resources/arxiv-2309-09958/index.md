@@ -1,3 +1,11 @@
+---
+title: "An Empirical Study of Scaling Instruct-Tuned… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-09958/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models
 
 Status: excluded from the active CUA catalog after scope review.

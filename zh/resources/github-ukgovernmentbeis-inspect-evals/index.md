@@ -1,3 +1,11 @@
+---
+title: "Inspect Evals · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ukgovernmentbeis-inspect-evals/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Inspect Evals
 
 Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包含 OSWorld、GAIA、SWE-bench 以及网络安全和智能体评测。

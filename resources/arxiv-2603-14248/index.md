@@ -1,3 +1,11 @@
+---
+title: "Why Do LLM-based Web Agents Fail? A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-14248/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective
 
 Presents a hierarchical planning framework for evaluating web agents at planning, execution and replanning stages, and reports low-level execution as the main failure source.
@@ -26,6 +34,18 @@ Mohamed Aghzal, Gregory J. Stein, Ziyu Yao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-14248/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-14248/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_14248,
+  title = {{Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective}},
+  author = {{Mohamed Aghzal} and {Gregory J. Stein} and {Ziyu Yao}},
+  year = {2026},
+  eprint = {2603.14248v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.14248v2},
+  note = {First published: 2026-03-15; Recorded arXiv version: v2; Recorded version updated: 2026-04-27T17:57:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "MME-Survey: A Comprehensive Survey on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-15296/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs
 
 Bibliographic record for MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chaoyou Fu, Yi-Fan Zhang, Shukang Yin, Bo Li, Xinyu Fang, Sirui Zhao, Haodong Du
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-15296/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-15296/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_15296,
+  title = {{MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs}},
+  author = {{Chaoyou Fu} and {Yi-Fan Zhang} and {Shukang Yin} and {Bo Li} and {Xinyu Fang} and {Sirui Zhao} and {Haodong Duan} and {Xing Sun} and {Ziwei Liu} and {Liang Wang} and {Caifeng Shan} and {Ran He}},
+  year = {2024},
+  eprint = {2411.15296v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.15296v2},
+  note = {First published: 2024-11-22; Recorded arXiv version: v2; Recorded version updated: 2024-12-08T04:24:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "agentmemory | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rohitg00-agentmemory/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # agentmemory
 
 agentmemory provides persistent cross-session memory and MCP integration for coding and computer-use agents including Claude Code, Codex, and OpenClaw.

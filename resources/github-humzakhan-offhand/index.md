@@ -1,3 +1,11 @@
+---
+title: "Offhand | AwesomeCUA"
+url: https://awesomecua.com/resources/github-humzakhan-offhand/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Offhand
 
 Offhand is an offline, accessibility-first desktop agent for macOS and Windows powered by compact local vision-language models.

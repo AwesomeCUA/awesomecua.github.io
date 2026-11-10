@@ -1,3 +1,11 @@
+---
+title: "ExACT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-exact/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # ExACT
 
 ExACT supplies a web agent that uses reflective tree search to explore and assess interface states, plus scripts for running and evaluating tasks in VisualWebArena.

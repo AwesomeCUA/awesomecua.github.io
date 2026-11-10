@@ -1,3 +1,11 @@
+---
+title: "Claude Computer Use · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-57f17b7d0c18b2d7c8bf/
+updated: 2026-10-20
+type: model
+lang: zh-CN
+---
+
 # Claude Computer Use
 
 Claude 提供的工具能力，支持基于截图与计算机交互。

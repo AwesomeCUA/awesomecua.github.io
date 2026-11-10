@@ -1,3 +1,11 @@
+---
+title: "KV-Ground 8B (BaseGuiOwl1.5 0315) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-461125e2d6ac2f030f6b/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # KV-Ground 8B (BaseGuiOwl1.5 0315)
 
 基于 GUI-Owl-1.5-8B-Instruct，经清洗和合成的高分辨率数据进行 SFT 与 GRPO 后训练的 GUI 元素定位检查点，用于在大型截图中定位元素。

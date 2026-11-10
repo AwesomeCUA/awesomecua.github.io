@@ -1,3 +1,11 @@
+---
+title: "UI-TARS 1.5 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4d32ad3682ae2d71c178/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # UI-TARS 1.5 7B
 
 UI-TARS 1.5 GUI 智能体检查点，采用 Qwen2.5-VL 架构，约有 8.3B 个以 FP32 存储的参数；以 Apache-2.0 协议发布，供 Transformers 处理英文图文到文本任务。

@@ -1,3 +1,11 @@
+---
+title: "PrivWeb: Unobtrusive and Content-aware… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-11939/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PrivWeb: Unobtrusive and Content-aware Privacy Protection For Web Agents
 
 提出 PrivWeb，按用户偏好使用本地语言模型对界面信息进行匿名化；自适应通知和选择性暂停让用户在网页智能体执行任务时控制敏感信息的访问。
@@ -27,6 +35,18 @@ Shuning Zhang, Yutong Jiang, Rongjun Ma, Yuting Yang, Mingyao Xu, Zhixin Huang, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-11939/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-11939/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_11939,
+  title = {{PrivWeb: Unobtrusive and Content-aware Privacy Protection For Web Agents}},
+  author = {{Shuning Zhang} and {Yutong Jiang} and {Rongjun Ma} and {Yuting Yang} and {Mingyao Xu} and {Zhixin Huang} and {Xin Yi} and {Hewu Li}},
+  year = {2025},
+  eprint = {2509.11939v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.11939v1},
+  note = {First published: 2025-09-15; Recorded arXiv version: v1; Recorded version updated: 2025-09-15T13:58:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

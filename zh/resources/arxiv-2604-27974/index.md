@@ -1,3 +1,11 @@
+---
+title: "FineState-Bench: Benchmarking… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-27974/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting
 
 FineState-Bench 测试 GUI 智能体能否在桌面、网页和移动界面中找到目标控件并设置到指定状态，配有分阶段诊断指标。
@@ -27,6 +35,18 @@ Fengxian Ji, Jingpu Yang, Zirui Song, Yuanxi Wang, Zhexuan Cui, Yuke Li, Qian Ji
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-27974/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-27974/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_27974,
+  title = {{FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting}},
+  author = {{Fengxian Ji} and {Jingpu Yang} and {Zirui Song} and {Yuanxi Wang} and {Zhexuan Cui} and {Yuke Li} and {Qian Jiang} and {Xiuying Chen}},
+  year = {2026},
+  eprint = {2604.27974v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.27974v1},
+  note = {First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T15:03:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

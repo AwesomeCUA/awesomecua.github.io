@@ -1,3 +1,11 @@
+---
+title: "GroundAnything-VLM · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a80a37148148aad731a9/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GroundAnything-VLM
 
 GroundAnything-VLM 是一个自回归视觉定位模型检查点，可根据指代指令定位图像目标，包括图形界面元素。

@@ -1,3 +1,11 @@
+---
+title: "GUIEnv-local · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0af07e00658a430cee6a/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUIEnv-local
 
 GUIEnv 已发布的局部监督数据，将网页区域与文本配对，用于 OCR 和 GUI 定位。

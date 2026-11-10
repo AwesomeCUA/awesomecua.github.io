@@ -1,3 +1,11 @@
+---
+title: "Miiiuser dsh-browser-agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-miiiuser-dsh-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Miiiuser dsh-browser-agent
 
 面向 DeepSeek Harness 上纯文本 LLM 的 Playwright 浏览器自动化和视觉定位工具包。

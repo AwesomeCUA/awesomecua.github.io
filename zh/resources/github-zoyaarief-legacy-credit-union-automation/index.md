@@ -1,3 +1,11 @@
+---
+title: "Northstar (Legacy Portal CUA) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zoyaarief-legacy-credit-union-automation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Northstar (Legacy Portal CUA)
 
 通过 AI 智能体在传统信用合作社网页门户上发现一次工作流，再将其编译为确定性脚本。

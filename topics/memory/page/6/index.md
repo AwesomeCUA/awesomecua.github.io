@@ -1,3 +1,11 @@
+---
+title: "Memory — computer-use research, page 6 | AwesomeCUA"
+url: https://awesomecua.com/topics/memory/page/6/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Memory — computer-use research, page 6
 
 HTML page: https://awesomecua.com/topics/memory/page/6/
@@ -10,7 +18,6 @@ Full list: https://awesomecua.com/topics/memory/index.md
 - [LKO Mark 3.4](https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/)
 - [LLM Wiki for Chrome](https://awesomecua.com/resources/github-nvk-llm-wiki-chrome/)
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/)
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)
 - [Mem0](https://awesomecua.com/resources/github-mem0ai-mem0/)
 - [MemAgent](https://awesomecua.com/resources/github-dialogbased-interaction-goal-alignment/)
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/)
@@ -59,6 +66,5 @@ Full list: https://awesomecua.com/topics/memory/index.md
 - [WeChat Mac RPA](https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/)
 - [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/)
 - [Xiryn](https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/)
-- [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/)
 - [clawtouch-skills](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/)
 - [learn-workbuddy](https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/)

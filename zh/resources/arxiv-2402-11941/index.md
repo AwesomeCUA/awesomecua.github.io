@@ -1,3 +1,11 @@
+---
+title: "CoCo-Agent: A Comprehensive Cognitive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-11941/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation
 
 结合截图、布局信息和操作历史，通过分解式操作预测器实现智能手机自动化。
@@ -27,6 +35,18 @@ Xinbei Ma, Zhuosheng Zhang, Hai Zhao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-11941/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-11941/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_11941,
+  title = {{CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation}},
+  author = {{Xinbei Ma} and {Zhuosheng Zhang} and {Hai Zhao}},
+  year = {2024},
+  eprint = {2402.11941v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.11941v3},
+  note = {First published: 2024-02-19; Recorded arXiv version: v3; Recorded version updated: 2024-06-02T13:25:05Z.}
+}
+```
 
 ## 发表记录
 

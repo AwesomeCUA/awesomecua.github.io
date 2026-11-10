@@ -1,3 +1,11 @@
+---
+title: "computer-use-grid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yxdgyxlf-computer-use-grid/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # computer-use-grid
 
 Enhances desktop clicking precision for AI computer-use agents via screenshot grid overlays and iterative zoom refinement.

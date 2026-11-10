@@ -1,3 +1,11 @@
+---
+title: "LiteWebAgent (github.com/PathOnAI/LiteWebAgent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pathonai-litewebagent/
+updated: 2026-11-02
+type: framework
+lang: en
+---
+
 # LiteWebAgent
 
 Open-source VLM web-agent framework providing Playwright browser control, planning, workflow memory, tree search, and FastAPI/Vercel deployment.

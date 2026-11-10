@@ -1,3 +1,11 @@
+---
+title: "UI Defect Mocker · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zju-aces-ise-uidefectmocker/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # UI Defect Mocker
 
 利用移动端截图和 Android 布局元数据合成视觉 UI 缺陷，支持 GUI 测试实验。

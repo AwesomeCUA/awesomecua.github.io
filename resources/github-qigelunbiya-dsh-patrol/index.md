@@ -1,3 +1,11 @@
+---
+title: "DSH Patrol | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qigelunbiya-dsh-patrol/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DSH Patrol
 
 Teach-once, patrol-repeatedly website inspection and monitoring plugin for DeepSeek Harness.

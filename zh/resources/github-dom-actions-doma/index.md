@@ -1,3 +1,11 @@
+---
+title: "DomA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dom-actions-doma/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # DomA
 
 DomA 浏览器智能体 Chrome 和 Edge 扩展的公开源码版：通过带标记的截图和元素列表观察网页，以 DOM 事件和 CDP 点击操作，并经 MCP 提供工具。

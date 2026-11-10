@@ -1,3 +1,11 @@
+---
+title: "ReUseIt: Synthesizing Reusable AI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-14308/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation
 
 Introduces ReUseIt, which synthesizes reusable web-agent workflows from successful and failed attempts and adds guards to detect and fix execution errors.
@@ -26,6 +34,18 @@ Yimeng Liu, Misha Sra, Jeevana Priya Inala, Chenglong Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-14308/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-14308/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_14308,
+  title = {{ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation}},
+  author = {{Yimeng Liu} and {Misha Sra} and {Jeevana Priya Inala} and {Chenglong Wang}},
+  year = {2025},
+  eprint = {2510.14308v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.14308v2},
+  note = {First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-01-24T02:41:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

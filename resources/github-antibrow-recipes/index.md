@@ -1,3 +1,11 @@
+---
+title: "AntiBrow Recipes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-antibrow-recipes/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AntiBrow Recipes
 
 Task-level website adapters for the AntiBrow stealth browser returning structured JSON from single commands.

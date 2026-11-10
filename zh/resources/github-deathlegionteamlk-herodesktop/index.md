@@ -1,3 +1,11 @@
+---
+title: "HeroDesktop · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deathlegionteamlk-herodesktop/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # HeroDesktop
 
 HeroDesktop 是开源虚拟桌面沙箱，用于运行和观察 AI 计算机使用智能体。

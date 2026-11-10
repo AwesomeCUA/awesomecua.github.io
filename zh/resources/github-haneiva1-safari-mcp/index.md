@@ -1,3 +1,11 @@
+---
+title: "safari-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-haneiva1-safari-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # safari-mcp
 
 无需扩展程序的 macOS Safari 自动化 MCP 服务器，基于 Node.js 和原生 AppleScript/JXA 构建。

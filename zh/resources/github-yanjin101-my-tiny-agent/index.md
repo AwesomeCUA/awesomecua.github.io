@@ -1,3 +1,11 @@
+---
+title: "my_tiny_agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yanjin101-my-tiny-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # my_tiny_agent
 
 由规格驱动的小型 LLM 桌面智能体，无需 VLM，使用 OCR、YOLO 图标检测和 Win32 API 完成端到端 Windows 操作。

@@ -1,3 +1,11 @@
+---
+title: "AutoGen | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-autogen/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoGen
 
 AutoGen is Microsoft's multi-agent conversation framework including MultimodalWebSurfer and Magentic-One for web and desktop tasks.

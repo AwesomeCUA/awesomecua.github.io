@@ -1,6 +1,14 @@
-# AwesomeCUA
+---
+title: "Awesome CUA: 5,347 computer-use agent resources"
+url: https://awesomecua.com/
+updated: 2026-11-10
+type: home
+lang: en
+---
 
-> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 5,354 curated records (1,718 papers and surveys, 3,636 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
+# Awesome CUA
+
+> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 5,347 curated records (1,718 papers and surveys, 3,629 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
 Snapshot 2026-11-10T08:20:17Z. Awaiting review and not counted above: 1,188 metadata-only bibliography records and 181 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
 
@@ -8,6 +16,7 @@ HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agen
 
 ## Newest reviewed resources
 
+- [Strawberry](https://awesomecua.com/resources/url-1aa4168c796c15476b97/) — Products · reviewed 2026-11-10: Agentic desktop browser for macOS and Windows whose AI companions open sites, click through flows and work inside the user's signed-in accounts, asking for approval before sending, paying or deleting.
 - [Hermes Jev Skills](https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/) — Tools · reviewed 2026-11-10: SKILL.md skills for Hermes, Claude Code and Codex agents that pass small decisions to the Jev model, including desktop and browser skills in which Jev picks each next action from a caller-built table.
 - [AI GameStore](https://awesomecua.com/resources/github-lance-ying-aigamestore/) — Benchmarks · reviewed 2026-11-10: A benchmark of 100 games adapted from App Store and Steam charts into web-playable versions, with a Playwright harness that sends game screenshots to vision-language models and executes their key presses.
 - [idevice](https://awesomecua.com/resources/github-jkcoxson-idevice/) — Tools · reviewed 2026-11-10: A Rust library that talks to iOS device services over lockdownd, usbmuxd and RSD, with features for screenshots, SpringBoard control, app installation and launching WebDriverAgent runners.
@@ -27,17 +36,16 @@ HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agen
 - [WebMCP](https://awesomecua.com/resources/github-jasonjmcghee-webmcp/) — Frameworks · reviewed 2026-11-10: An early WebMCP proposal and code: a script widget on a website registers its tools, resources and prompts, which MCP clients reach through a token-secured localhost WebSocket server.
 - [AXe](https://awesomecua.com/resources/github-cameroncooke-axe/) — Tools · reviewed 2026-11-10: A command-line tool for iOS Simulator automation that reads the UI through accessibility APIs and sends HID taps, swipes and text input, with screenshot and video capture.
 - [SnapEye](https://awesomecua.com/resources/github-zumerlab-snapeye/) — Tools · reviewed 2026-11-10: A SnapDOM-based toolkit that lets coding agents capture, diff and record elements of a running web app through a CLI, an in-page API or URL triggers, with JSON results and exit codes.
-- [CUBE Standard](https://awesomecua.com/resources/github-the-ai-alliance-cube-standard/) — Frameworks · reviewed 2026-11-10: A Python protocol for wrapping agent benchmarks behind shared Tool, Task, Benchmark, Observation and Action types, with optional browser sessions, VM backends and browser and desktop computer tools.
 
 ## Browse by kind
 
 - [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 475 curated records
 - [Datasets](https://awesomecua.com/categories/dataset/index.md): 278 curated records
-- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 310 curated records
-- [Agents](https://awesomecua.com/categories/agent/index.md): 481 curated records
-- [Frameworks](https://awesomecua.com/categories/framework/index.md): 675 curated records
+- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 309 curated records
+- [Agents](https://awesomecua.com/categories/agent/index.md): 479 curated records
+- [Frameworks](https://awesomecua.com/categories/framework/index.md): 672 curated records
 - [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 122 curated records
-- [Tools](https://awesomecua.com/categories/tool/index.md): 1,163 curated records
+- [Tools](https://awesomecua.com/categories/tool/index.md): 1,162 curated records
 - [Products](https://awesomecua.com/categories/product/index.md): 75 curated records
 - [Publishers](https://awesomecua.com/categories/company/index.md): 19 curated records
 - [Learning resources](https://awesomecua.com/categories/learning/index.md): 38 curated records
@@ -50,3 +58,33 @@ HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agen
 - [Complete curated catalog in one file](https://awesomecua.com/llms-full.txt)
 - [Atom feed](https://awesomecua.com/feed.xml) and [JSON Feed](https://awesomecua.com/feed.json) of newly reviewed resources
 - [Data downloads](https://awesomecua.com/data/): JSONL, SQLite, RAG documents and citations
+
+## Questions
+
+### What is Awesome CUA?
+
+Awesome CUA is a source-backed catalog of computer-use, GUI, browser and mobile agents: 5,347 reviewed papers, models, datasets, benchmarks, agents, frameworks, tools and products, each linked to its primary source.
+
+### How many resources does it list?
+
+5,347 reviewed records: 1,718 papers and surveys and 3,629 other resources, including 309 benchmarks, 278 datasets, 475 models, 479 agents, 672 frameworks and 1,162 tools. 1,188 metadata-only bibliography records and 181 scan finds are listed separately.
+
+### How is each record reviewed?
+
+A reviewer reads the primary source (paper, repository, model card or project page) and records the evidence, the review date, and code, data, weights and document licenses separately. Unknown facts stay empty. See the [editorial policy](https://awesomecua.com/about/).
+
+### How can I read the catalog from code?
+
+Clone the GitHub repository, download [catalog.jsonl](https://awesomecua.com/downloads/catalog.jsonl), or call the [JSON API under /api/v1/](https://awesomecua.com/api/). Every page has a Markdown version at index.md, and [llms.txt](https://awesomecua.com/llms.txt) lists them all.
+
+### How often is it updated?
+
+Discovery scans run every 8 hours; the latest was 2026-11-10. See [catalog updates](https://awesomecua.com/updates/).
+
+### How do I cite Awesome CUA?
+
+Use CITATION.cff in the GitHub repository, or copy the BibTeX in [AGENTS.md](https://awesomecua.com/AGENTS.md).
+
+### How do I suggest a resource or report a correction?
+
+Open a [GitHub issue form](https://github.com/reacher-z/Awesome-CUA/issues/new/choose). A reviewer reads the primary source first.

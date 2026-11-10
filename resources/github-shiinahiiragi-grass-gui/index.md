@@ -1,3 +1,11 @@
+---
+title: "grass-gui | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # grass-gui
 
 ScienceBoard's replacement GRASS GIS 8.4 wxPython GUI with an embedded Flask server that loads mapsets and layers, runs GRASS commands and returns layer, region and console state as JSON for task checks.

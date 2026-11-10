@@ -1,3 +1,11 @@
+---
+title: "BrowserGPT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mayt-browsergpt/
+updated: 2026-11-06
+type: agent
+lang: zh-CN
+---
+
 # BrowserGPT
 
 BrowserGPT 是一个浏览器自动化脚本，使用 GPT-4 根据自然语言任务生成 Playwright 代码，以导航网页并与之交互。

@@ -1,3 +1,11 @@
+---
+title: "WebGen-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WebGen-Bench
 
 WebGen-Bench 用自动化测试评估生成的网站，其中包括让界面智能体执行交互并检查结果。仓库提供评测代码和数据。

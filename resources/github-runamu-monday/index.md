@@ -1,3 +1,11 @@
+---
+title: "MONDAY | AwesomeCUA"
+url: https://awesomecua.com/resources/github-runamu-monday/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # MONDAY
 
 Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.

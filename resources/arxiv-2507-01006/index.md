@@ -1,3 +1,11 @@
+---
+title: "GLM-4.5V and GLM-4.1V-Thinking: Towards… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-01006/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 
 Reports the GLM-4.1V-Thinking, GLM-4.5V, and GLM-4.6V vision-language model family and curriculum-based RL training, with GUI agents among its evaluated tasks.
@@ -26,6 +34,17 @@ The annotation and scope were reviewed against the complete retained arXiv abstr
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-01006/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-01006/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_01006,
+  title = {{GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning}},
+  year = {2025},
+  eprint = {2507.01006v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.01006v6},
+  note = {First published: 2025-07-01; Recorded arXiv version: v6; Recorded version updated: 2026-01-01T13:07:25Z; Authors: see the paper (https://arxiv.org/abs/2507.01006v6); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Game2World Engine: Unlocking In-the-Wild… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24680/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training
 
 Bibliographic record for Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wenxuan Shen, Dongna Jin, Dongping Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24680/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24680/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24680,
+  title = {{Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training}},
+  author = {{Wenxuan Shen} and {Dongna Jin} and {Dongping Chen}},
+  year = {2026},
+  eprint = {2608.24680v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24680v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T15:13:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

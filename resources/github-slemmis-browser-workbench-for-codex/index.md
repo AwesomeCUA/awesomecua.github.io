@@ -1,3 +1,11 @@
+---
+title: "Browser Workbench for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-slemmis-browser-workbench-for-codex/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Workbench for Codex
 
 Playwright-powered browser inspection, visual testing, and interactive debugging workbench for OpenAI Codex.

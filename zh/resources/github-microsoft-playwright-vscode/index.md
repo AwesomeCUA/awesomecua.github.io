@@ -1,3 +1,11 @@
+---
+title: "Playwright Test for VS Code · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-playwright-vscode/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Playwright Test for VS Code
 
 面向 Playwright 浏览器测试的 VS Code 扩展，可将页面操作录制为测试，并支持运行测试、检查定位器、调试和查看执行轨迹。

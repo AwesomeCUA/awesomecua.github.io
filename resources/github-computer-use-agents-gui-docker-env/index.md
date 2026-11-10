@@ -1,3 +1,11 @@
+---
+title: "GUI-Docker-Env | AwesomeCUA"
+url: https://awesomecua.com/resources/github-computer-use-agents-gui-docker-env/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # GUI-Docker-Env
 
 GUI-Docker-Env hosts OSWorld Ubuntu desktop simulators in Docker, with configurable VM images, authentication, concurrency limits and status endpoints.

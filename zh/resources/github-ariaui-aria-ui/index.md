@@ -1,3 +1,11 @@
+---
+title: "Aria-UI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ariaui-aria-ui/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # Aria-UI
 
 混合专家 GUI 定位模型，具有 3.9B 激活参数，可使用文本或图像与文本交错的历史记录，并发布了训练数据和 AndroidWorld 智能体。

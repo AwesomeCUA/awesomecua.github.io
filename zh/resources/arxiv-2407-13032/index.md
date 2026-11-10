@@ -1,3 +1,11 @@
+---
+title: "Agent-E: From Autonomous Web Navigation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2407-13032/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems
 
 Agent-E 结合分层网页任务控制、DOM 精简和界面变化观察；WebVoyager 实验为智能体架构中基础技能、减少观察信息和自我改进的讨论提供依据。
@@ -27,6 +35,18 @@ Tamer Abuelsaad, Deepak Akkil, Prasenjit Dey, Ashish Jagmohan, Aditya Vempaty, R
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2407-13032/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2407-13032/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_13032,
+  title = {{Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems}},
+  author = {{Tamer Abuelsaad} and {Deepak Akkil} and {Prasenjit Dey} and {Ashish Jagmohan} and {Aditya Vempaty} and {Ravi Kokku}},
+  year = {2024},
+  eprint = {2407.13032v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.13032v1},
+  note = {First published: 2024-07-17; Recorded arXiv version: v1; Recorded version updated: 2024-07-17T21:44:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

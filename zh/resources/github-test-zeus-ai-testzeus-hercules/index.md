@@ -1,3 +1,11 @@
+---
+title: "TestZeus Hercules · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-test-zeus-ai-testzeus-hercules/
+updated: 2026-11-06
+type: agent
+lang: zh-CN
+---
+
 # TestZeus Hercules
 
 开源测试智能体，接收 Gherkin 特性文件，并通过 Playwright 在网页应用上执行端到端测试。

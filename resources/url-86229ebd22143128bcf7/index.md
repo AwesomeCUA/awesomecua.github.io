@@ -1,3 +1,11 @@
+---
+title: "BearCubs | AwesomeCUA"
+url: https://awesomecua.com/resources/url-86229ebd22143128bcf7/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # BearCubs
 
 A live-web benchmark with 111 questions testing agents' ability to browse and extract factual answers through text and multimodal interactions.

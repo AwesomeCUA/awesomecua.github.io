@@ -1,3 +1,11 @@
+---
+title: "Trope CUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tropeai-trope-cua/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Trope CUA
 
 Trope CUA 支持在 Windows 和 macOS 上进行后台桌面检查与 GUI 操作，同时不打断用户的前台工作。

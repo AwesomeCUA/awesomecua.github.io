@@ -1,3 +1,11 @@
+---
+title: "Seeing is Fixing: Cross-Modal Reasoning with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-16136/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing
 
 Bibliographic record for Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kai Huang, Jian Zhang, Xiaofei Xie, Chunyang Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-16136/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-16136/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_16136,
+  title = {{Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing}},
+  author = {{Kai Huang} and {Jian Zhang} and {Xiaofei Xie} and {Chunyang Chen}},
+  year = {2025},
+  eprint = {2506.16136v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.16136v1},
+  note = {First published: 2025-06-19; Recorded arXiv version: v1; Recorded version updated: 2025-06-19T08:42:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

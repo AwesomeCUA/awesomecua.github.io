@@ -1,3 +1,11 @@
+---
+title: "Computer Use VM · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zimengxiong-computer-use-vm/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Computer Use VM
 
 配置可随时弃用的无头 macOS 虚拟机，让计算机使用智能体无需切换窗口即可操作隔离的桌面。

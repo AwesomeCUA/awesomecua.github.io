@@ -1,3 +1,11 @@
+---
+title: "Invictum Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-invictumhr-ai-invictum-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Invictum Browser Bridge
 
 Security-first Model Context Protocol bridge allowing AI agents to control an existing browser session under strict guardrails.

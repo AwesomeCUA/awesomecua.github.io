@@ -1,3 +1,11 @@
+---
+title: "Persona Inconstancy in Multi-Agent LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-03862/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation
 
 Status: excluded from the active CUA catalog after scope review.

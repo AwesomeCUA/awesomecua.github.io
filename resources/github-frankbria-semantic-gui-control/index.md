@@ -1,3 +1,11 @@
+---
+title: "Semantic GUI Control Layer (SGCL) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-frankbria-semantic-gui-control/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Semantic GUI Control Layer (SGCL)
 
 SGCL is a cross-platform, text-first control layer that exposes graphical user interfaces to agents as structured semantic affordances.

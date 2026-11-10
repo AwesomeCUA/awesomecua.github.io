@@ -1,3 +1,11 @@
+---
+title: "Agent-Computer Observation Interfaces… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-29472/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Agent-Computer Observation Interfaces Enable Dynamic Computer Use
 
 Agent-Computer Observation Interface 利用截取的画面帧、音频转录和持续的视觉叙述，将连续感知与离散的计算机操作分开。DynaCU-Bench 在动态浏览器任务和静态对照任务中测试这些组件；针对不同模型的消融实验表明，额外观测也可能有害。
@@ -27,6 +35,18 @@ Bojie Li, Noah Shi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-29472/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-29472/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_29472,
+  title = {{Agent-Computer Observation Interfaces Enable Dynamic Computer Use}},
+  author = {{Bojie Li} and {Noah Shi}},
+  year = {2026},
+  eprint = {2606.29472v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.29472v1},
+  note = {First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:59:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

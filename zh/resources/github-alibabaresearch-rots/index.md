@@ -1,3 +1,11 @@
+---
+title: "RoTS · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alibabaresearch-rots/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # RoTS
 
 公布了用于从策略导致的错误中恢复的 GUI 轨迹合成资源；所查看的仓库标注代码和数据仍在准备发布。

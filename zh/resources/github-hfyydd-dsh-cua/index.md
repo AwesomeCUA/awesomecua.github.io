@@ -1,3 +1,11 @@
+---
+title: "hfyydd dsh-cua · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hfyydd-dsh-cua/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # hfyydd dsh-cua
 
 DeepSeek Harness 计算机使用插件，由 cua-driver 守护进程提供支持，以无障碍能力为先实现桌面自动化。

@@ -1,3 +1,11 @@
+---
+title: "AgentLimb | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hooosberg-agentlimb/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AgentLimb
 
 Chrome extension and local bridge that lets Claude Code, Cursor, and Codex drive the user's live Chrome browser.

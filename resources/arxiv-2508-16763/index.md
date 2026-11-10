@@ -1,3 +1,11 @@
+---
+title: "WebMMU: A Benchmark for Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-16763/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation
 
 Introduces WebMMU, a multilingual benchmark for website visual question answering, element grounding, code editing, and mockup-to-code generation.
@@ -26,6 +34,18 @@ Rabiul Awal, Mahsa Massoud, Aarash Feizi, Zichao Li, Suyuchen Wang, Christopher 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-16763/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-16763/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_16763,
+  title = {{WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation}},
+  author = {{Rabiul Awal} and {Mahsa Massoud} and {Aarash Feizi} and {Zichao Li} and {Suyuchen Wang} and {Christopher Pal} and {Aishwarya Agrawal} and {David Vazquez} and {Siva Reddy} and {Juan A. Rodriguez} and {Perouz Taslakian} and {Spandana Gella} and {Sai Rajeswar}},
+  year = {2025},
+  eprint = {2508.16763v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.16763v1},
+  note = {First published: 2025-08-22; Recorded arXiv version: v1; Recorded version updated: 2025-08-22T19:41:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

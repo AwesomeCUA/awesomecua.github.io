@@ -1,3 +1,11 @@
+---
+title: "WebRain · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prokopis3-webrain/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # WebRain
 
 单一二进制文件的 Rust Model Context Protocol 服务器，支持由 LLM 驱动、跨 3 种浏览器引擎的浏览器自动化和网页抓取。

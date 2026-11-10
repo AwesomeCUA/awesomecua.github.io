@@ -1,3 +1,11 @@
+---
+title: "GroundAnything: Reconciling Parallel Decoding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-39600/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed
 
 Bibliographic record for GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qize Yu, Lianrui Fan, Bowen Ping, Xini Ding, Zetian Song, Junbo Niu, Kaixuan Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39600/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39600/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39600,
+  title = {{GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed}},
+  author = {{Qize Yu} and {Lianrui Fan} and {Bowen Ping} and {Xini Ding} and {Zetian Song} and {Junbo Niu} and {Kaixuan Wang} and {Tianxing Chen} and {Yue Chen} and {Minghua He} and {Yuran Wang} and {Jie Huang} and {Haojun Zhang} and {Min Chen} and {Hao Li} and {Wenxuan Song} and {Ruihai Wu} and {Xianming Liu} and {Shilong Liu} and {Shuchang Zhou} and {Ping Luo} and {Shiyu Huang}},
+  year = {2026},
+  eprint = {2609.39600v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39600v2},
+  note = {First published: 2026-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-16T12:38:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

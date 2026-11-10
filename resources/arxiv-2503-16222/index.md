@@ -1,3 +1,11 @@
+---
+title: "Efficient Bayesian Computation Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-16222/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems
 
 Status: excluded from the active CUA catalog after scope review.

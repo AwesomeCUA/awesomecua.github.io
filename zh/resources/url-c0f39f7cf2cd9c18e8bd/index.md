@@ -1,3 +1,11 @@
+---
+title: "ShowUI 2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c0f39f7cf2cd9c18e8bd/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # ShowUI 2B
 
 由 Qwen2-VL-2B-Instruct 微调的 ShowUI 视觉语言操作模型检查点，以单个 PyTorch 权重文件按 MIT 许可证发布，并标记为适用于 GUI 智能体和计算机使用。

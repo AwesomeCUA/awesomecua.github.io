@@ -1,3 +1,11 @@
+---
+title: "DeltaBox: Scaling Stateful AI Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-22781/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback
 
 Bibliographic record for DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yunpeng Dong, Jingkai He, Shiqi Liu, Yuze Hou, Dong Du, Zhonghu Xu, Si Yu, Baoch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-22781/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-22781/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_22781,
+  title = {{DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback}},
+  author = {{Yunpeng Dong} and {Jingkai He} and {Shiqi Liu} and {Yuze Hou} and {Dong Du} and {Zhonghu Xu} and {Si Yu} and {Baochuan Yang} and {Yubin Xia} and {Haibo Chen}},
+  year = {2026},
+  eprint = {2605.22781v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.22781v2},
+  note = {First published: 2026-05-21; Recorded arXiv version: v2; Recorded version updated: 2026-06-08T12:58:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

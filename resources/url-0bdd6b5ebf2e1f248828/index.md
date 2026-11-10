@@ -1,3 +1,11 @@
+---
+title: "Simular (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0bdd6b5ebf2e1f248828/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Simular
 
 Computer-use products and research from Simular.

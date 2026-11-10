@@ -1,3 +1,11 @@
+---
+title: "Smart Pet Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-realstreetsmartnyc-smart-pet-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Smart Pet Agent
 
 本地优先的环境感知桌面宠物智能体，观察工作区上下文并自动执行日常桌面动作。

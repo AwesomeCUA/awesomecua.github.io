@@ -1,3 +1,11 @@
+---
+title: "CORE: Reducing UI Exposure in Mobile Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-15455/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CORE: Reducing UI Exposure in Mobile Agents via Collaboration Between Cloud and Local LLMs
 
 Introduces CORE, which divides mobile UI hierarchies into semantic blocks and shares planning between local and cloud language models. Local ranking limits the screen information sent for cloud-side element selection, with a multi-round mechanism for correcting inadequate context.
@@ -26,6 +34,18 @@ Gucongcong Fan, Chaoyue Niu, Chengfei Lyu, Fan Wu, Guihai Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-15455/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-15455/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_15455,
+  title = {{CORE: Reducing UI Exposure in Mobile Agents via Collaboration Between Cloud and Local LLMs}},
+  author = {{Gucongcong Fan} and {Chaoyue Niu} and {Chengfei Lyu} and {Fan Wu} and {Guihai Chen}},
+  year = {2025},
+  eprint = {2510.15455v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.15455v1},
+  note = {First published: 2025-10-17; Recorded arXiv version: v1; Recorded version updated: 2025-10-17T09:11:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Hermes Jev Skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Hermes Jev Skills
 
 SKILL.md skills for Hermes, Claude Code and Codex agents that pass small decisions to the Jev model, including desktop and browser skills in which Jev picks each next action from a caller-built table.

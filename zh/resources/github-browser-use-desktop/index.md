@@ -1,3 +1,11 @@
+---
+title: "Browser Use Desktop · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-desktop/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # Browser Use Desktop
 
 Electron 应用在导入用户 Cookie 的独立 Chromium 中将 Claude Code 或 Codex 会话作为浏览器智能体运行，可通过快捷键或 WhatsApp 消息启动，基于 Browser Harness 构建。

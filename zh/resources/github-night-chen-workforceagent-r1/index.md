@@ -1,3 +1,11 @@
+---
+title: "WorkForceAgent-R1 · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-night-chen-workforceagent-r1/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # WorkForceAgent-R1
 
 为面向推理的语言智能体提供网页任务奖励函数、WorkArena 数据处理流程和 GRPO 训练配置。

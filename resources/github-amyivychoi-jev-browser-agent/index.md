@@ -1,3 +1,11 @@
+---
+title: "Jev Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amyivychoi-jev-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Jev Browser Agent
 
 Jev Browser Agent combines Browser Use DOM extraction, Jev System-One action selection, and deterministic browser harness execution.

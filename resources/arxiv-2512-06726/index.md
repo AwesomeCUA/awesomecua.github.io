@@ -1,3 +1,11 @@
+---
+title: "The Role of Entropy in Visual Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-06726/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Role of Entropy in Visual Grounding: Analysis and Optimization
 
 Status: excluded from the active CUA catalog after scope review.

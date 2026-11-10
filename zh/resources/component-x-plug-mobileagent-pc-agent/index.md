@@ -1,3 +1,11 @@
+---
+title: "PC-Agent (X-PLUG component) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-x-plug-mobileagent-pc-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # PC-Agent (X-PLUG component)
 
 面向 Windows 和 macOS 的多智能体桌面自动化组件，结合主动感知、任务分解和反思，处理跨应用工作流。

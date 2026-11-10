@@ -1,3 +1,11 @@
+---
+title: "DSH Mobile (DeepSeek Harness for Android) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-soodok-deepseek-harness-local-android/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DSH Mobile (DeepSeek Harness for Android)
 
 Runs the DeepSeek Harness AI agent natively on Android phones without root.

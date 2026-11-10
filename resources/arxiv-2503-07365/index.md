@@ -1,3 +1,11 @@
+---
+title: "MM-Eureka: Exploring the Frontiers of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-07365/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MM-Eureka: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

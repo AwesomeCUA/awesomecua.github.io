@@ -1,3 +1,11 @@
+---
+title: "Touchline | AwesomeCUA"
+url: https://awesomecua.com/resources/github-edenbuilds-touchline/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Touchline
 
 Multi-agent browser squad for evidence-led website inspection and frontend reconstruction.

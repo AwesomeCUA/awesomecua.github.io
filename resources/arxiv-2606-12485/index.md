@@ -1,3 +1,11 @@
+---
+title: "Speculative Rollback Correction for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-12485/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Speculative Rollback Correction for Quality-Diverse Web Agent Imitation
 
 Speculative Rollback Correction lets a student web agent execute short branches before teacher review localizes harmful deviations. Verified continuations and localized corrections feed supervised training while an archive retains diverse successful solutions.
@@ -26,6 +34,18 @@ Longkun Hao, Hongyu Lin, Hao Li, Zhuowen Liu, Zhichao Yang, Haojie Hao, Dongshuo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-12485/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-12485/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_12485,
+  title = {{Speculative Rollback Correction for Quality-Diverse Web Agent Imitation}},
+  author = {{Longkun Hao} and {Hongyu Lin} and {Hao Li} and {Zhuowen Liu} and {Zhichao Yang} and {Haojie Hao} and {Dongshuo Huang} and {Haitao Yang} and {Hongyu Ge} and {Ming jie Xie} and {Yanjun Wu} and {Zi Hao Yin} and {Yan Bai} and {Yihang Lou}},
+  year = {2026},
+  eprint = {2606.12485v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.12485v2},
+  note = {First published: 2026-06-10; Recorded arXiv version: v2; Recorded version updated: 2026-08-17T02:54:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

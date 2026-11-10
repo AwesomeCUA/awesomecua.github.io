@@ -1,3 +1,11 @@
+---
+title: "OpenAI Computer Use Sample Apps · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openai-openai-cua-sample-app/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # OpenAI Computer Use Sample Apps
 
 OpenAI 参考智能体通过 Playwright JavaScript 操作浏览器，或通过 PyAutoGUI Python 操作桌面，由模型经 Responses API 编写代码，并附有模拟看板、绘图和预订实验环境。

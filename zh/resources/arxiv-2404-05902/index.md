@@ -1,3 +1,11 @@
+---
+title: "WILBUR: Adaptive In-Context Learning for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-05902/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents
 
 WILBUR 学习为网页智能体的提示排序既往任务演示，并根据以往运行记录生成指令；生成的任务课程和回溯机制支持适应与恢复，并在 WebVoyager 上评估。
@@ -27,6 +35,18 @@ Michael Lutz, Arth Bohra, Manvel Saroyan, Artem Harutyunyan, Giovanni Campagna
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-05902/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-05902/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_05902,
+  title = {{WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents}},
+  author = {{Michael Lutz} and {Arth Bohra} and {Manvel Saroyan} and {Artem Harutyunyan} and {Giovanni Campagna}},
+  year = {2024},
+  eprint = {2404.05902v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.05902v1},
+  note = {First published: 2024-04-08; Recorded arXiv version: v1; Recorded version updated: 2024-04-08T23:10:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

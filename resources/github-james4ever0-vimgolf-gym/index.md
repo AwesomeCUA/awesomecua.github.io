@@ -1,3 +1,11 @@
+---
+title: "vimgolf-gym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # vimgolf-gym
 
 A Gym-like benchmark for VimGolf tasks that lets agents send keystrokes to Vim, capture screenshots, and score solutions by correctness and key count.

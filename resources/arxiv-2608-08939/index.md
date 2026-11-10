@@ -1,3 +1,11 @@
+---
+title: "Not an A11y: How Android Accessibility… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-08939/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection
 
 Demonstrates that unsanitized Android accessibility tree metadata exposes mobile GUI agents to stealthy indirect prompt injection attacks.
@@ -26,6 +34,18 @@ Rahul Deivasigamani, Sayeda Faatin Alvi, Derqui Andrea, Kaushal Punjabi, Stjepan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-08939/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-08939/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_08939,
+  title = {{Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection}},
+  author = {{Rahul Deivasigamani} and {Sayeda Faatin Alvi} and {Derqui Andrea} and {Kaushal Punjabi} and {Stjepan Picek}},
+  year = {2026},
+  eprint = {2608.08939v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.08939v1},
+  note = {First published: 2026-08-09; Recorded arXiv version: v1; Recorded version updated: 2026-08-09T22:13:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "鲁棒性：Computer-Use 研究与资源（第 5 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/robustness/page/5/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 鲁棒性：Computer-Use 研究与资源（第 5 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/robustness/page/5/

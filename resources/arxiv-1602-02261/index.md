@@ -1,3 +1,11 @@
+---
+title: "End-to-End Goal-Driven Web Navigation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1602-02261/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # End-to-End Goal-Driven Web Navigation
 
 Introduces WebNav for converting websites into goal-directed hyperlink navigation tasks and WikiNav for evaluating language-conditioned navigation and question answering on Wikipedia.
@@ -26,6 +34,18 @@ Rodrigo Nogueira, Kyunghyun Cho
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1602-02261/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1602-02261/citation.csl.json
+
+```bibtex
+@misc{arxiv_1602_02261,
+  title = {{End-to-End Goal-Driven Web Navigation}},
+  author = {{Rodrigo Nogueira} and {Kyunghyun Cho}},
+  year = {2016},
+  eprint = {1602.02261v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1602.02261v2},
+  note = {First published: 2016-02-06; Recorded arXiv version: v2; Recorded version updated: 2016-05-20T16:26:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

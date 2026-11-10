@@ -1,3 +1,11 @@
+---
+title: "On the Acceleration of Pulsar Timing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-13991/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # On the Acceleration of Pulsar Timing computations using Normalising Flows and Parallelisation
 
 Status: excluded from the active CUA catalog after scope review.

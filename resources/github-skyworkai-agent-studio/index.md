@@ -1,3 +1,11 @@
+---
+title: "AgentStudio | AwesomeCUA"
+url: https://awesomecua.com/resources/github-skyworkai-agent-studio/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # AgentStudio
 
 Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.

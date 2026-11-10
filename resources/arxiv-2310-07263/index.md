@@ -1,3 +1,11 @@
+---
+title: "CoPAL: Corrective Planning of Robot Actions… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-07263/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CoPAL: Corrective Planning of Robot Actions with Large Language Models
 
 Bibliographic record for CoPAL: Corrective Planning of Robot Actions with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Frank Joublin, Antonello Ceravola, Pavel Smirnov, Felix Ocker, Joerg Deigmoeller
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-07263/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-07263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_07263,
+  title = {{CoPAL: Corrective Planning of Robot Actions with Large Language Models}},
+  author = {{Frank Joublin} and {Antonello Ceravola} and {Pavel Smirnov} and {Felix Ocker} and {Joerg Deigmoeller} and {Anna Belardinelli} and {Chao Wang} and {Stephan Hasler} and {Daniel Tanneberg} and {Michael Gienger}},
+  year = {2023},
+  eprint = {2310.07263v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.07263v3},
+  note = {First published: 2023-10-11; Recorded arXiv version: v3; Recorded version updated: 2025-04-24T14:34:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

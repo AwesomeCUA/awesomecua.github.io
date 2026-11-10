@@ -1,3 +1,11 @@
+---
+title: "LineRetriever: Planning-Aware… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-00210/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # LineRetriever: Planning-Aware Observation Reduction for Web Agents
 
 LineRetriever 用语言模型选取与后续网页导航操作相关的观察文本行，并结合规划跨度压缩 DOM 或无障碍树上下文。
@@ -27,6 +35,18 @@ Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Massimo Caccia,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-00210/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-00210/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_00210,
+  title = {{LineRetriever: Planning-Aware Observation Reduction for Web Agents}},
+  author = {{Imene Kerboua} and {Sahar Omidi Shayegan} and {Megh Thakkar} and {Xing Han Lù} and {Massimo Caccia} and {Véronique Eglin} and {Alexandre Aussem} and {Jérémy Espinas} and {Alexandre Lacoste}},
+  year = {2025},
+  eprint = {2507.00210v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.00210v1},
+  note = {First published: 2025-06-30; Recorded arXiv version: v1; Recorded version updated: 2025-06-30T19:24:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

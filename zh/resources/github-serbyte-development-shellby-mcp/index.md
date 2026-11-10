@@ -1,3 +1,11 @@
+---
+title: "Shellby MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-serbyte-development-shellby-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Shellby MCP
 
 本地 Model Context Protocol 服务器，将 ChatGPT Web 变为本地编程和计算机控制智能体。

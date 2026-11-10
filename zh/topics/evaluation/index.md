@@ -1,3 +1,11 @@
+---
+title: "评测：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -2027,8 +2035,6 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   MWMBench evaluates mobile GUI world models by asking them to predict the next screen from a screenshot and coordinate action.
 - [MyPCBench](https://awesomecua.com/zh/resources/github-ljang0-mypcbench/) — Date not recorded
   A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
-- [Navi-Bench](https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/) — Date not recorded
-  Navi-Bench evaluates web agents on everyday consumer tasks executed directly on live websites with deterministic outcome verifiers.
 - [Next-Gen CAPTCHAs](https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/) — Date not recorded
   Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.
 - [Nightshift](https://awesomecua.com/zh/resources/github-yayaq1-nightshift/) — Date not recorded

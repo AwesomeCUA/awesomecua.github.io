@@ -1,3 +1,11 @@
+---
+title: "OpenRLHF: An Easy-to-use, Scalable and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-11143/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework
 
 Status: excluded from the active CUA catalog after scope review.

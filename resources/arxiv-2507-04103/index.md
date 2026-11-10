@@ -1,3 +1,11 @@
+---
+title: "How to Train Your LLM Web Agent: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-04103/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # How to Train Your LLM Web Agent: A Statistical Diagnosis
 
 Studies compute allocation for web-agent post-training with teacher-generated supervised fine-tuning followed by on-policy reinforcement learning. It samples 1,370 training configurations and uses bootstrap analysis to examine hyperparameter sensitivity on WorkArena and MiniWoB++.
@@ -26,6 +34,18 @@ Dheeraj Vattikonda, Santhoshi Ravichandran, Emiliano Penaloza, Hadi Nekoei, Megh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-04103/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-04103/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_04103,
+  title = {{How to Train Your LLM Web Agent: A Statistical Diagnosis}},
+  author = {{Dheeraj Vattikonda} and {Santhoshi Ravichandran} and {Emiliano Penaloza} and {Hadi Nekoei} and {Megh Thakkar} and {Thibault Le Sellier de Chezelles} and {Nicolas Gontier} and {Miguel Muñoz-Mármol} and {Sahar Omidi Shayegan} and {Stefania Raimondo} and {Xue Liu} and {Alexandre Drouin} and {Laurent Charlin} and {Alexandre Piché} and {Alexandre Lacoste} and {Massimo Caccia}},
+  year = {2025},
+  eprint = {2507.04103v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.04103v4},
+  note = {First published: 2025-07-05; Recorded arXiv version: v4; Recorded version updated: 2026-02-13T17:24:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

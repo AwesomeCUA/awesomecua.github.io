@@ -1,3 +1,11 @@
+---
+title: "AI SDK Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vercel-labs-ai-sdk-computer-use/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # AI SDK Computer Use
 
 Next.js chat app from Vercel Labs in which Claude's computer and bash tools operate a Linux desktop in a Vercel Sandbox, clicking and typing through xdotool and streaming the screen to the page over noVNC.

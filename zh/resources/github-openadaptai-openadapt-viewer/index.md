@@ -1,3 +1,11 @@
+---
+title: "openadapt-viewer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-viewer/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # openadapt-viewer
 
 openadapt-viewer 根据桌面或网页智能体的运行记录生成 HTML 报告，展示任务结果，并逐步呈现截图、操作和推理过程。

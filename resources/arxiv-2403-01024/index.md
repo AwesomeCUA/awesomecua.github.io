@@ -1,3 +1,11 @@
+---
+title: "Reservoir Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-01024/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reservoir Computing Using Measurement-Controlled Quantum Dynamics
 
 Status: excluded from the active CUA catalog after scope review.

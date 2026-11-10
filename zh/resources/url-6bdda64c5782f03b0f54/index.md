@@ -1,3 +1,11 @@
+---
+title: "OmniJev (huggingface.co/tinnel123/OmniJev) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6bdda64c5782f03b0f54/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # OmniJev
 
 OmniJev v1.1 是用于 Qwen3.5-4B 的 4B LoRA 适配器及决策头，以概率形式回答关于屏幕和其他图像的类型化问题；其任务族包括 androidcontrol 和 web。

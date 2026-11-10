@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-browser (github.com/menotbobbybrown… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-menotbobbybrown-dsh-plugin-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-plugin-browser
 
 Native headless and visible web browser automation plugin for DeepSeek Harness.

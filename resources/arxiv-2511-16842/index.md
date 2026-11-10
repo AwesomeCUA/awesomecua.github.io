@@ -1,3 +1,11 @@
+---
+title: "Fantastic Bugs and Where to Find Them in AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-16842/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fantastic Bugs and Where to Find Them in AI Benchmarks
 
 Status: excluded from the active CUA catalog after scope review.

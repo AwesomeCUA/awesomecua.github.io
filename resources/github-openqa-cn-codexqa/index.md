@@ -1,3 +1,11 @@
+---
+title: "CodexQA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openqa-cn-codexqa/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # CodexQA
 
 Suite of 11 local-first QA Agent Skills for Cursor, Claude Code, and Codex to verify live web and desktop user journeys.

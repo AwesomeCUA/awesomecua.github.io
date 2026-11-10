@@ -1,3 +1,11 @@
+---
+title: "easy-webbridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xxjrq-easy-webbridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # easy-webbridge
 
 浏览器桥接工具，让 Claude Code、Codex、OpenCode 和 WorkBuddy 智能体操作已认证的 Chrome 会话。

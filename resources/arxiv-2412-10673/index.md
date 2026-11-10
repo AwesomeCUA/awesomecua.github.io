@@ -1,3 +1,11 @@
+---
+title: "Proposing and solving olympiad geometry with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-10673/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Proposing and solving olympiad geometry with guided tree search
 
 Status: excluded from the active CUA catalog after scope review.

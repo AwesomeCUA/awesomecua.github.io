@@ -1,10 +1,17 @@
+---
+title: "Efficiency — computer-use research, page 7 | AwesomeCUA"
+url: https://awesomecua.com/topics/efficiency/page/7/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Efficiency — computer-use research, page 7
 
 HTML page: https://awesomecua.com/topics/efficiency/page/7/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/)
 - [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/)
 - [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/)
 - [DietSurf](https://awesomecua.com/resources/github-100x-bot-dietsurf/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Jev for Chrome](https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/)
 - [Jev GUI Delegate](https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/)
 - [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/)
+- [Jev Ultrafast](https://awesomecua.com/resources/github-browser-use-jev-ultrafast/)

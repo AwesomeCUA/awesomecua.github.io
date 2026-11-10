@@ -1,3 +1,11 @@
+---
+title: "VideoAgentTrek-IDM-s2-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2e88b52ca1717a28fd32/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # VideoAgentTrek-IDM-s2-7B
 
 VideoAgentTrek 的 Video2Action 流程中的动作识别模型。该流程从屏幕录制的教程视频中还原点击、文本输入等 GUI 操作，用于构建计算机使用训练轨迹。

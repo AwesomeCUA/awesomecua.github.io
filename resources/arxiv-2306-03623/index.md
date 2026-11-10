@@ -1,3 +1,11 @@
+---
+title: "Spike-based computation using classical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-03623/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Spike-based computation using classical recurrent neural networks
 
 Status: excluded from the active CUA catalog after scope review.

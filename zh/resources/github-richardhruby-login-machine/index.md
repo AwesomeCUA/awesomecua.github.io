@@ -1,3 +1,11 @@
+---
+title: "Login Machine · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-richardhruby-login-machine/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Login Machine
 
 面向网站登录的浏览器智能体循环：Claude 根据截图和精简 HTML 判断登录界面，并返回经 DOM 验证的 Playwright 定位器；用户输入的凭据不发送给模型。

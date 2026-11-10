@@ -1,3 +1,11 @@
+---
+title: "bgivenb Typed UI Capabilities · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bgivenb-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # bgivenb Typed UI Capabilities
 
 由模型引导的 UI 工作流程发现框架，支持经签名的人类审核和确定性重放。

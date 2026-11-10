@@ -1,3 +1,11 @@
+---
+title: "OmniGUI: Benchmarking GUI Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-18758/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments
 
 OmniGUI evaluates step-level action prediction from interleaved smartphone screenshots, synchronous audio and video. Expert demonstrations carry multimodal-dependency annotations, and initial baselines use native multimodal models as agent proxies to study temporal and audio-related failures.
@@ -26,6 +34,18 @@ Felix Henry, Lihan Lin, Jiangyou Zhu, Yangfan, Bingqian Zhang, Min Chen, Shiyu H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-18758/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-18758/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_18758,
+  title = {{OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments}},
+  author = {{Felix Henry} and {Lihan Lin} and {Jiangyou Zhu} and {Yangfan} and {Bingqian Zhang} and {Min Chen} and {Shiyu Huang}},
+  year = {2026},
+  eprint = {2605.18758v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.18758v2},
+  note = {First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T02:42:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

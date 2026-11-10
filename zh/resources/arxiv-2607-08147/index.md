@@ -1,3 +1,11 @@
+---
+title: "Prismata: Confining Cross-Site Prompt… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-08147/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Prismata: Confining Cross-Site Prompt Injection in Web Agents
 
 提出网页智能体防御机制 Prismata，为页面内容赋予信任标签，并通过遮蔽内容及限制智能体操作来执行这些标签。
@@ -27,6 +35,18 @@ Corban Villa, Alp Eren Ozdarendeli, Sijun Tan, Raluca Ada Popa
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-08147/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-08147/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_08147,
+  title = {{Prismata: Confining Cross-Site Prompt Injection in Web Agents}},
+  author = {{Corban Villa} and {Alp Eren Ozdarendeli} and {Sijun Tan} and {Raluca Ada Popa}},
+  year = {2026},
+  eprint = {2607.08147v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.08147v1},
+  note = {First published: 2026-07-09; Recorded arXiv version: v1; Recorded version updated: 2026-07-09T06:37:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

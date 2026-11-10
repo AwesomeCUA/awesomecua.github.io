@@ -1,3 +1,11 @@
+---
+title: "Ringer: Web Automation by Demonstration · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-347925d0f440d6396080/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Ringer: Web Automation by Demonstration
 
 提出 Ringer，将演示的网页交互转为结合操作、目标选择器和等待条件的脚本，并在真实网站记录的任务上评估重放的稳定性。
@@ -27,6 +35,19 @@ Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 
 - BibTeX：https://awesomecua.com/resources/url-347925d0f440d6396080/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-347925d0f440d6396080/citation.csl.json
+
+```bibtex
+@inproceedings{cua_07942b5af1a8c0ffa9c7322a,
+  title = {{Ringer: Web Automation by Demonstration}},
+  author = {{Shaon Barman} and {Sarah Chasins} and {Ras Bodik} and {Sumit Gulwani}},
+  year = {2016},
+  month = nov,
+  booktitle = {OOPSLA 2016},
+  doi = {10.1145/2983990.2984020},
+  url = {https://doi.org/10.1145/2983990.2984020},
+  note = {Publication date: 2016-11.}
+}
+```
 
 ## 发表记录
 

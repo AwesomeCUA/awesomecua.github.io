@@ -1,3 +1,11 @@
+---
+title: "AIOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agiresearch-aios/
+updated: 2026-11-06
+type: infrastructure
+lang: en
+---
+
 # AIOS
 
 AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.

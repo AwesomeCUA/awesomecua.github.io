@@ -1,3 +1,11 @@
+---
+title: "Resume Autofill Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ccc-zach-resume-autofill-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Resume Autofill Agent
 
 AI 浏览器智能体和 Chrome 扩展，可解析简历并自主填写复杂的求职网页表单。

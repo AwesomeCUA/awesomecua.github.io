@@ -1,3 +1,11 @@
+---
+title: "iphone-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leeguooooo-iphone-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # iphone-use
 
 MCP 服务器和 CLI，让 Claude Code、Codex 和 MCP 智能体将真实 iPhone 屏幕读取为结构化文本，并执行点击和滑动。

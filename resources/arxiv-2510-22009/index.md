@@ -1,3 +1,11 @@
+---
+title: "OpenPhone: Mobile Agentic Foundation Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-22009/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OpenPhone: Mobile Agentic Foundation Models
 
 OpenPhone trains a compact mobile policy with supervised learning followed by GRPO on synthetic GUI data, incorporating reasoning and memory management. Its device-cloud design handles routine work locally and delegates complex subtasks, with online evaluation on AndroidLab.
@@ -26,6 +34,18 @@ Yangqin Jiang, Chao Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-22009/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-22009/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_22009,
+  title = {{OpenPhone: Mobile Agentic Foundation Models}},
+  author = {{Yangqin Jiang} and {Chao Huang}},
+  year = {2025},
+  eprint = {2510.22009v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.22009v3},
+  note = {First published: 2025-10-24; Recorded arXiv version: v3; Recorded version updated: 2026-10-05T01:17:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

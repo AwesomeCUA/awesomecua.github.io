@@ -1,3 +1,11 @@
+---
+title: "Trust the Right Teacher: Quality-Aware… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-18101/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding
 
 提出针对学生模型生成的前缀进行 GUI 坐标生成的质量感知自蒸馏。正确性感知门控抑制目标框外的坐标 token 监督，教师概率缩放则调整其余监督信号的强度。
@@ -27,6 +35,18 @@ Jingyuan Huang, Zuming Huang, Yucheng Shi, Tianze Yang, Xiaoming Zhai, Wei Chu, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-18101/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-18101/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_18101,
+  title = {{Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding}},
+  author = {{Jingyuan Huang} and {Zuming Huang} and {Yucheng Shi} and {Tianze Yang} and {Xiaoming Zhai} and {Wei Chu} and {Ninghao Liu}},
+  year = {2026},
+  eprint = {2606.18101v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.18101v2},
+  note = {First published: 2026-06-16; Recorded arXiv version: v2; Recorded version updated: 2026-06-17T08:58:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

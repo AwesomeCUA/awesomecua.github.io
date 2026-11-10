@@ -1,3 +1,11 @@
+---
+title: "Set-of-Mark Prompting Unleashes… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2310-11441/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V
 
 在图像区域上叠加标签，帮助多模态模型指代视觉目标并进行推理；这是一种与 GUI 定位相关的通用视觉提示方法。
@@ -27,6 +35,18 @@ Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2310-11441/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2310-11441/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_11441,
+  title = {{Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V}},
+  author = {{Jianwei Yang} and {Hao Zhang} and {Feng Li} and {Xueyan Zou} and {Chunyuan Li} and {Jianfeng Gao}},
+  year = {2023},
+  eprint = {2310.11441v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.11441v2},
+  note = {First published: 2023-10-17; Recorded arXiv version: v2; Recorded version updated: 2023-11-06T07:39:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Probe to Act: Elevating Browser-Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-33646/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Probe to Act: Elevating Browser-Use Agent via Active Visual Probing
 
 Probe to Act 允许浏览器智能体在执行操作前，请求将 DOM 句柄与屏幕区域关联起来的视觉证据。它将部分交互证据存为记忆，并研究提示驱动的使用方式及向开放模型蒸馏的方法。
@@ -27,6 +35,18 @@ Keliang Li, Heng Wang, Chen Hu, Daxin Jiang, Hong Chang, Shiguang Shan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-33646/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-33646/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_33646,
+  title = {{Probe to Act: Elevating Browser-Use Agent via Active Visual Probing}},
+  author = {{Keliang Li} and {Heng Wang} and {Chen Hu} and {Daxin Jiang} and {Hong Chang} and {Shiguang Shan}},
+  year = {2026},
+  eprint = {2609.33646v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.33646v1},
+  note = {First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T15:11:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

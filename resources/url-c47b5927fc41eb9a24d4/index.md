@@ -1,3 +1,11 @@
+---
+title: "luzimu/WebGen-Bench_train_data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c47b5927fc41eb9a24d4/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # luzimu/WebGen-Bench_train_data
 
 WebGen-Instruct is a training dataset of 6,667 website generation instructions, including 600 trajectories and fields describing expected UI tasks.

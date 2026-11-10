@@ -1,3 +1,11 @@
+---
+title: "GPTVoiceTasker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # GPTVoiceTasker
 
 Android app for GPTVoiceTasker, a GPT-4 voice assistant that reads screen elements through the Accessibility Service, turns spoken commands into press, enter and scroll actions, and reuses learned app transitions.

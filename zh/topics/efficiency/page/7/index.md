@@ -1,10 +1,17 @@
+---
+title: "效率：Computer-Use 研究与资源（第 7 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/efficiency/page/7/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 效率：Computer-Use 研究与资源（第 7 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/)
 - [DesktopCtl](https://awesomecua.com/zh/resources/github-yaroshevych-desktopctl/)
 - [Deterministic Computer-Use Automation](https://awesomecua.com/zh/resources/github-joncody-computer-use-automation/)
 - [DietSurf](https://awesomecua.com/zh/resources/github-100x-bot-dietsurf/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/7/
 - [Jev for Chrome](https://awesomecua.com/zh/resources/github-chy4pro-jev-for-chrome/)
 - [Jev GUI Delegate](https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/)
 - [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/)
+- [Jev Ultrafast](https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/)

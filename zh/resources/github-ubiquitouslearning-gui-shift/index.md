@@ -1,3 +1,11 @@
+---
+title: "GUI-Shift · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ubiquitouslearning-gui-shift/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # GUI-Shift
 
 GUI-Shift 是一套训练框架，利用成对的界面截图，让视觉语言模型预测引发界面变化的操作。

@@ -1,3 +1,11 @@
+---
+title: "UI2Code^N · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zai-org-ui2code-n/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # UI2Code^N
 
 一套根据截图起草界面代码，并通过反复渲染和视觉反馈加以改进的界面转代码系统。仓库提供演示程序和评测脚本。

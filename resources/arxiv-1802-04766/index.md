@@ -1,3 +1,11 @@
+---
+title: "SNC: A Cloud Service Platform for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1802-04766/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SNC: A Cloud Service Platform for Symbolic-Numeric Computation using Just-In-Time Compilation
 
 Status: excluded from the active CUA catalog after scope review.

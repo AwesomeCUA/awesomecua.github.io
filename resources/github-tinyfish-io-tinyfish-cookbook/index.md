@@ -1,3 +1,11 @@
+---
+title: "The TinyFish Cookbook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # The TinyFish Cookbook
 
 A collection of sample applications and recipes for TinyFish web agents, covering page retrieval, structured search, and multi-step browser automation.

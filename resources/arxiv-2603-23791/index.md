@@ -1,3 +1,11 @@
+---
+title: "The Cognitive Firewall:Securing Browser Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-23791/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # The Cognitive Firewall:Securing Browser Based AI Agents Against Indirect Prompt Injection Via Hybrid Edge Cloud Defense
 
 Proposes a split-compute browser defense pairing a local visual sentinel, a cloud planner, and deterministic policy enforcement against indirect prompt injection.
@@ -26,6 +34,18 @@ Qianlong Lan, Anuj Kaul
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-23791/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-23791/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_23791,
+  title = {{The Cognitive Firewall:Securing Browser Based AI Agents Against Indirect Prompt Injection Via Hybrid Edge Cloud Defense}},
+  author = {{Qianlong Lan} and {Anuj Kaul}},
+  year = {2026},
+  eprint = {2603.23791v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.23791v1},
+  note = {First published: 2026-03-24; Recorded arXiv version: v1; Recorded version updated: 2026-03-24T23:49:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

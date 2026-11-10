@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning for Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-24515/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation
 
 The framework uses a vision-language judge’s final-screen assessment as a terminal reward for GUI reinforcement learning. It models evaluator noise and corrects the reward estimator used by PPO across desktop benchmarks.
@@ -26,6 +34,18 @@ Marta Sumyk, Oleksandr Kosovan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-24515/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-24515/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_24515,
+  title = {{Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation}},
+  author = {{Marta Sumyk} and {Oleksandr Kosovan}},
+  year = {2026},
+  eprint = {2606.24515v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.24515v1},
+  note = {First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T12:46:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

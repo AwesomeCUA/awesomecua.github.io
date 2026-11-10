@@ -1,3 +1,11 @@
+---
+title: "CaptchaArena: A Large-Scale… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-31957/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs
 
 CaptchaArena 收录经执行验证的交互式 CAPTCHA 解法，包含截图与操作轨迹、推理标注及不规则目标的像素掩码。研究先用监督学习、再用基于验证器奖励的强化学习，训练跨 CAPTCHA 类型的单一策略。
@@ -27,6 +35,18 @@ Zhenhao Zhang, Zhaoyu Fan, Haohan Ying, Jingwen Hu, Hancen Fan, Junhao Zhou, Zit
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-31957/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-31957/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_31957,
+  title = {{CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs}},
+  author = {{Zhenhao Zhang} and {Zhaoyu Fan} and {Haohan Ying} and {Jingwen Hu} and {Hancen Fan} and {Junhao Zhou} and {Zitian Chen} and {Linchao Zhu}},
+  year = {2026},
+  eprint = {2609.31957v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.31957v1},
+  note = {First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T20:04:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-os-genesis/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # OS-Genesis
 
 基于交互的数据生成流程，通过逆向任务合成和轨迹奖励模型，在无人类监督或预设任务的条件下生成移动端和网页 GUI 智能体轨迹。

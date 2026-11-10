@@ -1,3 +1,11 @@
+---
+title: "Magma-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d3247ff0ff9a1f6bc247/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Magma-8B
 
 Magma-8B 是已发布的多模态智能体模型检查点；模型卡展示了界面导航与机器人操作任务，并介绍其视频数据训练方式。

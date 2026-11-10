@@ -1,3 +1,11 @@
+---
+title: "OpenAgentSafety: A Comprehensive Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-06134/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety
 
 Evaluates agent safety across real browser, code, filesystem, shell, and messaging tools using rule-based and model-based assessments.
@@ -26,6 +34,18 @@ Sanidhya Vijayvargiya, Aditya Bharat Soni, Xuhui Zhou, Zora Zhiruo Wang, Nouha D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-06134/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-06134/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_06134,
+  title = {{OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety}},
+  author = {{Sanidhya Vijayvargiya} and {Aditya Bharat Soni} and {Xuhui Zhou} and {Zora Zhiruo Wang} and {Nouha Dziri} and {Graham Neubig} and {Maarten Sap}},
+  year = {2025},
+  eprint = {2507.06134v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.06134v2},
+  note = {First published: 2025-07-08; Recorded arXiv version: v2; Recorded version updated: 2026-02-16T22:34:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

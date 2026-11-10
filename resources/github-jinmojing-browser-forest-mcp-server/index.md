@@ -1,3 +1,11 @@
+---
+title: "Browser Forest MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jinmojing-browser-forest-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Forest MCP Server
 
 Model Context Protocol server for driving anti-detect kernel-patched Chromium cloud browser profiles.

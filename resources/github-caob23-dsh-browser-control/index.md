@@ -1,3 +1,11 @@
+---
+title: "caob23 DSH Browser Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-caob23-dsh-browser-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # caob23 DSH Browser Control
 
 Chrome extension and DeepSeek Harness plugin allowing AI agents to directly operate the user's real browser.

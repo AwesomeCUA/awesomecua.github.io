@@ -1,3 +1,11 @@
+---
+title: "GoldenCut | AwesomeCUA"
+url: https://awesomecua.com/resources/github-silbercue-goldencut/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GoldenCut
 
 Claude Code skill that measures live browser UI layouts and returns concrete golden-ratio spacing and typography fixes.

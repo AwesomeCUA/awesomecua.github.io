@@ -1,3 +1,11 @@
+---
+title: "Voice Mirror | AwesomeCUA"
+url: https://awesomecua.com/resources/github-contextmirror-voice-mirror/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Voice Mirror
 
 Voice Mirror is a Tauri desktop IDE where voice and multimodal agents inspect, click, and live-edit rendered web applications.

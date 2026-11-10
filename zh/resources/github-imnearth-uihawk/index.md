@@ -1,3 +1,11 @@
+---
+title: "UI-Hawk · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-imnearth-uihawk/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # UI-Hawk
 
 UI-Hawk 是一种在界面导航中理解连续屏幕画面的智能体。其研究资料介绍了感知历史画面的视觉编码器、屏幕理解任务和 FunUI 基准。

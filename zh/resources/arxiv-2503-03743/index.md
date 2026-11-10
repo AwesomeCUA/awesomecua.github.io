@@ -1,3 +1,11 @@
+---
+title: "CHOP: Mobile Operating Assistant with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-03743/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning
 
 利用人工规划的子任务，约束并改进连接用户目标与可执行移动端操作的中间计划。
@@ -27,6 +35,18 @@ Yuqi Zhou, Shuai Wang, Sunhao Dai, Qinglin Jia, Zhaocheng Du, Zhenhua Dong, Jun 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-03743/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-03743/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_03743,
+  title = {{CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning}},
+  author = {{Yuqi Zhou} and {Shuai Wang} and {Sunhao Dai} and {Qinglin Jia} and {Zhaocheng Du} and {Zhenhua Dong} and {Jun Xu}},
+  year = {2025},
+  eprint = {2503.03743v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.03743v1},
+  note = {First published: 2025-03-05; Recorded arXiv version: v1; Recorded version updated: 2025-03-05T18:56:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

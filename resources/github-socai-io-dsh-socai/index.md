@@ -1,3 +1,11 @@
+---
+title: "dsh-socai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-socai-io-dsh-socai/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-socai
 
 DeepSeek Harness plugin for browser-backed Xiaohongshu content research and extraction.

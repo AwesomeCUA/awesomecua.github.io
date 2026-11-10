@@ -1,3 +1,11 @@
+---
+title: "Video Generation Meets Agent Harness: Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-40191/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement
 
 Bibliographic record for Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran, Siyuan Hu, Weijia Mao, Rui 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-40191/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-40191/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40191,
+  title = {{Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement}},
+  author = {{Liaoyuan Fan} and {Yuhao Zheng} and {Dongxing Mao} and {Hangyu Ran} and {Siyuan Hu} and {Weijia Mao} and {Rui Zhao} and {Weijia Wu} and {Guian Fang} and {Yanzhe Chen} and {Zeyu Zhu} and {Yuxin Jiang} and {Yiren Song} and {Yuchao Gu} and {Junchao Yi} and {Qi Hu} and {Dan Kong} and {Alex Jinpeng Wang} and {Kevin Qinghong Lin} and {Mike Zheng Shou} and {Wei Liu}},
+  year = {2026},
+  eprint = {2610.40191v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40191v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T14:47:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

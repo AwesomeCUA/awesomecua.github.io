@@ -1,3 +1,11 @@
+---
+title: "AgentLab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-servicenow-agentlab/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # AgentLab
 
 Experiment framework for developing and evaluating browser agents.

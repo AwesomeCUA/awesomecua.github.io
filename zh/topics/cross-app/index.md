@@ -1,3 +1,11 @@
+---
+title: "跨应用：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/cross-app/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 跨应用
 
 Reviewed topic membership; resources can appear in multiple topics.

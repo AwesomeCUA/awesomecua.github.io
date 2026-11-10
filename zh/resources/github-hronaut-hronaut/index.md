@@ -1,3 +1,11 @@
+---
+title: "Hronaut · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hronaut-hronaut/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Hronaut
 
 可见、持久且专用的浏览器运行时，编码智能体可对其进行控制，而不打断用户使用个人浏览器。

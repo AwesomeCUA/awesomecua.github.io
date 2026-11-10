@@ -1,3 +1,11 @@
+---
+title: "ClaudeDesk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-phantivia-claudedesk/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ClaudeDesk
 
 Streams the Windows desktop to a browser interface so coding agents can visually inspect and debug GUI applications.

@@ -1,3 +1,11 @@
+---
+title: "KNOWS Benchmark (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-573954fad8617c3d5e57/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # KNOWS Benchmark
 
 KNOWS provides 110 web-agent task prompts and grading rubrics for creating documents, spreadsheets, and slides in Google Workspace.

@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 8B WA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f2c34526651f5f57cf98/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # OS-Genesis 8B WA
 
 WebArena-oriented InternVL2-8B checkpoint trained on web trajectories from OS-Genesis reverse task synthesis; the card's example prompt pairs a screenshot and accessibility tree with the instruction and action history.

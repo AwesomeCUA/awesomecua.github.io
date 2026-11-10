@@ -1,3 +1,11 @@
+---
+title: "InFu (Windows Agent Harness) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wins0l-harness/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # InFu (Windows Agent Harness)
 
 面向 Windows 的本地编程与计算机使用智能体，可检查代码仓库、运行命令并自动执行桌面任务。

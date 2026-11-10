@@ -1,3 +1,11 @@
+---
+title: "nanoMuse · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nano-muse-nanomuse/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # nanoMuse
 
 nanoMuse 是一个开源个人智能体，维护跨设备的持久记忆，并执行浏览器、桌面和移动端任务。

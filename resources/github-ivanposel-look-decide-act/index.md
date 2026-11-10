@@ -1,3 +1,11 @@
+---
+title: "look-decide-act | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ivanposel-look-decide-act/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # look-decide-act
 
 Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.

@@ -1,3 +1,11 @@
+---
+title: "InterA11y: Interactive Web Accessibility… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-39488/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # InterA11y: Interactive Web Accessibility Error Detection with LLM Agents
 
 提出 InterA11y，以测试细则和用于检查、操作网页的工具引导 LLM 智能体评估网页无障碍问题。
@@ -27,6 +35,18 @@ Mingyuan Zhong, Mengqi Shi, Davin Win Kyi, Ajit Mallavarapu, Xia Chen, James Fog
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-39488/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-39488/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_39488,
+  title = {{InterA11y: Interactive Web Accessibility Error Detection with LLM Agents}},
+  author = {{Mingyuan Zhong} and {Mengqi Shi} and {Davin Win Kyi} and {Ajit Mallavarapu} and {Xia Chen} and {James Fogarty} and {Jacob O. Wobbrock}},
+  year = {2026},
+  eprint = {2610.39488v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.39488v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T06:51:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

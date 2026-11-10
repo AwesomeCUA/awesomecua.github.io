@@ -1,3 +1,11 @@
+---
+title: "UI-UG 2: Advancing Mobile UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-00926/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning
 
 提出移动界面模型 UI-UG 2，结合组件理解、GUI 定位与结构化界面生成，并使用考虑渲染结果的 RL 训练。
@@ -27,6 +35,18 @@ Hao Yang, Shuoyang Liu, Xiaoyu Lin, Zhou Fang, Maji Huang, Zhaosong Huang, Ruich
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-00926/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-00926/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00926,
+  title = {{UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning}},
+  author = {{Hao Yang} and {Shuoyang Liu} and {Xiaoyu Lin} and {Zhou Fang} and {Maji Huang} and {Zhaosong Huang} and {Ruichao Mao} and {Teng Guo} and {Hai Rao}},
+  year = {2026},
+  eprint = {2611.00926v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00926v1},
+  note = {First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T13:24:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

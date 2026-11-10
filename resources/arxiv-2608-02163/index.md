@@ -1,3 +1,11 @@
+---
+title: "From Simple QA to Deep Research: A Verifiable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-02163/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # From Simple QA to Deep Research: A Verifiable Benchmark Constructed through Iterative Task Evolution
 
 Bibliographic record for From Simple QA to Deep Research: A Verifiable Benchmark Constructed through Iterative Task Evolution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Can Wang, Haoran Chen, Haowen Gao, Hao Ding, Zhaoyang Liu, Zhiying Tu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-02163/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-02163/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_02163,
+  title = {{From Simple QA to Deep Research: A Verifiable Benchmark Constructed through Iterative Task Evolution}},
+  author = {{Can Wang} and {Haoran Chen} and {Haowen Gao} and {Hao Ding} and {Zhaoyang Liu} and {Zhiying Tu}},
+  year = {2026},
+  eprint = {2608.02163v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.02163v1},
+  note = {First published: 2026-08-03; Recorded arXiv version: v1; Recorded version updated: 2026-08-03T12:43:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Ghost (Non-Interfering macOS CUA) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fletcherholt-ghost/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Ghost (Non-Interfering macOS CUA)
 
 Invisible, non-interfering macOS computer-use tool for Claude Code that drives native Mac apps in the background.

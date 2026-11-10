@@ -1,3 +1,11 @@
+---
+title: "Lemur: Harmonizing Natural Language and Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-06830/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Lemur: Harmonizing Natural Language and Code for Language Agents
 
 Bibliographic record for Lemur: Harmonizing Natural Language and Code for Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-06830/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-06830/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_06830,
+  title = {{Lemur: Harmonizing Natural Language and Code for Language Agents}},
+  author = {{Yiheng Xu} and {Hongjin Su} and {Chen Xing} and {Boyu Mi} and {Qian Liu} and {Weijia Shi} and {Binyuan Hui} and {Fan Zhou} and {Yitao Liu} and {Tianbao Xie} and {Zhoujun Cheng} and {Siheng Zhao} and {Lingpeng Kong} and {Bailin Wang} and {Caiming Xiong} and {Tao Yu}},
+  year = {2023},
+  eprint = {2310.06830v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.06830v2},
+  note = {First published: 2023-10-10; Recorded arXiv version: v2; Recorded version updated: 2024-08-24T21:30:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

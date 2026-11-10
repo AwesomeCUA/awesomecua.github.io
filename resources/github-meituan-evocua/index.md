@@ -1,3 +1,11 @@
+---
+title: "EvoCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-meituan-evocua/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # EvoCUA
 
 Computer-use model and training resources from the EvoCUA project.

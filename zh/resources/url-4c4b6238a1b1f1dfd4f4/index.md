@@ -1,3 +1,11 @@
+---
+title: "JUMPDiscovery_results · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4c4b6238a1b1f1dfd4f4/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # JUMPDiscovery_results
 
 Orion 计算机使用智能体在 JUMP Cell Painting 发现任务上的输出：每次尝试对应一个文件夹，包含假设、图表、分析脚本和报告，另附一条示例轨迹。

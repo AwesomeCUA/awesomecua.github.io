@@ -1,3 +1,11 @@
+---
+title: "Faithful Chart Generation for Multimodal Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-00374/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Faithful Chart Generation for Multimodal Deep Research: Frame-Evidence Co-Adaptation
 
 Bibliographic record for Faithful Chart Generation for Multimodal Deep Research: Frame-Evidence Co-Adaptation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuxin Yue, Yingchen Zhang, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Xueqi Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-00374/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-00374/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_00374,
+  title = {{Faithful Chart Generation for Multimodal Deep Research: Frame-Evidence Co-Adaptation}},
+  author = {{Yuxin Yue} and {Yingchen Zhang} and {Ruqing Zhang} and {Jiafeng Guo} and {Maarten de Rijke} and {Xueqi Cheng}},
+  year = {2026},
+  eprint = {2610.00374v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.00374v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T07:33:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

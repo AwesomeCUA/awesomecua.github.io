@@ -1,3 +1,11 @@
+---
+title: "web-agent-bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nsosio-web-agent-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # web-agent-bench
 
 web-agent-bench 根据 Token 用量、延迟和任务完成情况，比较浏览器自动化测试框架（Playwright MCP、agent-browser、Stagehand）。

@@ -1,3 +1,11 @@
+---
+title: "Multi-Agent Design: Optimizing Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-02533/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Mind2Web-Live · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-03ffa3f28413bc2edb1b/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Mind2Web-Live
 
 WebCanvas 实时网页基准的任务文件：源自 Mind2Web 的 438 项训练任务和 104 项测试任务，使用 URL 或页面元素上的关键节点检查评估中间进度。

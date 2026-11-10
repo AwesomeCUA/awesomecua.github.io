@@ -1,3 +1,11 @@
+---
+title: "Agent+P: Guiding UI Agents via Symbolic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-06042/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Agent+P: Guiding UI Agents via Symbolic Planning
 
 Guides UI agents with symbolic planning over a UI transition graph initialized from app-code analysis and updated through online exploration, with evaluation on AndroidWorld.
@@ -26,6 +34,18 @@ Shang Ma, Xusheng Xiao, Yanfang Ye
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-06042/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-06042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_06042,
+  title = {{Agent+P: Guiding UI Agents via Symbolic Planning}},
+  author = {{Shang Ma} and {Xusheng Xiao} and {Yanfang Ye}},
+  year = {2025},
+  eprint = {2510.06042v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.06042v3},
+  note = {First published: 2025-10-07; Recorded arXiv version: v3; Recorded version updated: 2026-09-27T17:25:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

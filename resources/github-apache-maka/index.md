@@ -1,3 +1,11 @@
+---
+title: "Apache Maka | AwesomeCUA"
+url: https://awesomecua.com/resources/github-apache-maka/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Apache Maka
 
 Apache Maka is an agent workspace for macOS that records verifiable execution traces across browser, terminal, and GUI actions.

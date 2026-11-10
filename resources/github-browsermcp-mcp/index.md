@@ -1,3 +1,11 @@
+---
+title: "Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browsermcp-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Browser MCP
 
 A local MCP server and Chromium extension that let AI applications operate browser tabs through Playwright, with pairing and extension-enforced controls.

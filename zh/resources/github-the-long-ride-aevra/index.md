@@ -1,3 +1,11 @@
+---
+title: "aevra · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-the-long-ride-aevra/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # aevra
 
 安全的 Model Context Protocol 网关，使 ChatGPT、Claude 和 Grok 能够远程执行命令并控制主机。

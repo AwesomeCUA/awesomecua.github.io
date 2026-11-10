@@ -1,3 +1,11 @@
+---
+title: "CEL OSS (Computer Experience Layer) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dimpagk92-cellar/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CEL OSS (Computer Experience Layer)
 
 Computer Experience Layer（CEL）提供结构化的 macOS 感知协议和用于原生计算机使用的 MCP 服务器。

@@ -1,3 +1,11 @@
+---
+title: "Claude 3.7 Sonnet | AwesomeCUA"
+url: https://awesomecua.com/resources/url-63264f7cd4510d96e486/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Claude 3.7 Sonnet
 
 A Claude release with an optional extended-thinking mode. Anthropic describes its mouse and keyboard computer-use capability and reports OSWorld evaluation results.

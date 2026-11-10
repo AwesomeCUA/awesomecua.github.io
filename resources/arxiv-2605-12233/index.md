@@ -1,3 +1,11 @@
+---
+title: "No More, No Less: Task Alignment in Terminal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-12233/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # No More, No Less: Task Alignment in Terminal Agents
 
 Bibliographic record for No More, No Less: Task Alignment in Terminal Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sina Mavali, David Pape, Jonathan Evertz, Samira Abedini, Devansh Srivastav, Tho
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-12233/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-12233/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12233,
+  title = {{No More, No Less: Task Alignment in Terminal Agents}},
+  author = {{Sina Mavali} and {David Pape} and {Jonathan Evertz} and {Samira Abedini} and {Devansh Srivastav} and {Thorsten Eisenhofer} and {Sahar Abdelnabi} and {Lea Schönherr}},
+  year = {2026},
+  eprint = {2605.12233v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12233v1},
+  note = {First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T15:06:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

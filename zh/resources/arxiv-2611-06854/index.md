@@ -1,3 +1,11 @@
+---
+title: "Visual Token Routing: Learning to keep… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-06854/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Visual Token Routing: Learning to keep tokens that matter
 
 提出 Visual Token Routing (VTR)，从当前和先前的截图中选择与操作相关的视觉 token，以降低计算机使用智能体的推理成本。
@@ -27,6 +35,18 @@ Pranjal Aggarwal, Sean Welleck
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-06854/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-06854/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_06854,
+  title = {{Visual Token Routing: Learning to keep tokens that matter}},
+  author = {{Pranjal Aggarwal} and {Sean Welleck}},
+  year = {2026},
+  eprint = {2611.06854v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.06854v1},
+  note = {First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T18:10:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "agent-qa (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # agent-qa
 
 A QA agent that runs plain-language tests against web, Android, and iOS apps. It navigates user flows, verifies outcomes, and stores validated run evidence for reuse.

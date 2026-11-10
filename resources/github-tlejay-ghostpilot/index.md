@@ -1,3 +1,11 @@
+---
+title: "GhostPilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tlejay-ghostpilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # GhostPilot
 
 GhostPilot is a macOS Chromium browser with a built-in Model Context Protocol server so Claude and coding agents can co-browse live tabs.

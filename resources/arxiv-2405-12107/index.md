@@ -1,3 +1,11 @@
+---
+title: "Imp: Highly Capable Large Multimodal Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-12107/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Imp: Highly Capable Large Multimodal Models for Mobile Devices
 
 Bibliographic record for Imp: Highly Capable Large Multimodal Models for Mobile Devices. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhenwei Shao, Zhou Yu, Jun Yu, Xuecheng Ouyang, Lihao Zheng, Zhenbiao Gai, Mingy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-12107/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-12107/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_12107,
+  title = {{Imp: Highly Capable Large Multimodal Models for Mobile Devices}},
+  author = {{Zhenwei Shao} and {Zhou Yu} and {Jun Yu} and {Xuecheng Ouyang} and {Lihao Zheng} and {Zhenbiao Gai} and {Mingyang Wang} and {Jiajun Ding}},
+  year = {2024},
+  eprint = {2405.12107v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.12107v2},
+  note = {First published: 2024-05-20; Recorded arXiv version: v2; Recorded version updated: 2024-05-30T02:47:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

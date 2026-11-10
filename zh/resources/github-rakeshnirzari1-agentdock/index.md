@@ -1,3 +1,11 @@
+---
+title: "AgentDock · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rakeshnirzari1-agentdock/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AgentDock
 
 零依赖的 Chrome DevTools Protocol 运行时，让 AI 智能体直接驱动无头或有界面的 Chromium。

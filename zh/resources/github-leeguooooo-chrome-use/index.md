@@ -1,3 +1,11 @@
+---
+title: "chrome-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leeguooooo-chrome-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # chrome-use
 
 chrome-use 通过命令行工具和扩展程序，让 AI 智能体控制现有 Chrome 浏览器中的标签页。它使用原生消息通信，并为不同的智能体会话分配独立的标签组。

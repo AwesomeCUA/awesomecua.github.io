@@ -1,3 +1,11 @@
+---
+title: "Drisp Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-drisplabs-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Drisp Browser MCP
 
 Drisp Browser is a token-efficient browser automation MCP server exposing compact semantic page snapshots and stateful actions.

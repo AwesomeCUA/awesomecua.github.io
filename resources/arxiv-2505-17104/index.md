@@ -1,3 +1,11 @@
+---
+title: "P2P: Automated Paper-to-Poster Generation and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-17104/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark
 
 Bibliographic record for P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tao Sun, Enhao Pan, Zhengkai Yang, Kaixin Sui, Jiajun Shi, Xianfu Cheng, Tonglia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-17104/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-17104/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_17104,
+  title = {{P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark}},
+  author = {{Tao Sun} and {Enhao Pan} and {Zhengkai Yang} and {Kaixin Sui} and {Jiajun Shi} and {Xianfu Cheng} and {Tongliang Li} and {Wenhao Huang} and {Ge Zhang} and {Jian Yang} and {Zhoujun Li}},
+  year = {2025},
+  eprint = {2505.17104v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.17104v1},
+  note = {First published: 2025-05-21; Recorded arXiv version: v1; Recorded version updated: 2025-05-21T09:06:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

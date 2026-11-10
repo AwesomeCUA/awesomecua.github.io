@@ -1,3 +1,11 @@
+---
+title: "AdvSim2Real : Training Web Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-08773/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model
 
 提出 AdvSim2Real，在冻结的网页世界模型中联合调整网页任务课程、提示注入攻击者和智能体策略，并评估其对未见过的攻击者的抵御能力及从模拟交互向真实浏览器的迁移。
@@ -27,6 +35,18 @@ Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomm
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-08773/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-08773/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08773,
+  title = {{AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model}},
+  author = {{Sarim Hashmi} and {Mukul Ranjan} and {Kshitij Mishra} and {Mikhail Kuznetsov} and {Praneeth Vepakomma} and {Nils Lukas}},
+  year = {2026},
+  eprint = {2610.08773v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08773v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:56:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

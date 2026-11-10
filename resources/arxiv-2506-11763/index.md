@@ -1,3 +1,11 @@
+---
+title: "DeepResearch Bench: A Comprehensive Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-11763/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents
 
 Bibliographic record for DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Mingxuan Du, Benfeng Xu, Chiwei Zhu, Xiaorui Wang, Zhendong Mao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-11763/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-11763/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_11763,
+  title = {{DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents}},
+  author = {{Mingxuan Du} and {Benfeng Xu} and {Chiwei Zhu} and {Xiaorui Wang} and {Zhendong Mao}},
+  year = {2025},
+  eprint = {2506.11763v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.11763v1},
+  note = {First published: 2025-06-13; Recorded arXiv version: v1; Recorded version updated: 2025-06-13T13:17:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

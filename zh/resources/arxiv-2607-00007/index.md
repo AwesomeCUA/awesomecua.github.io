@@ -1,3 +1,11 @@
+---
+title: "BaRA: Budget-constrained and Reliable… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-00007/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # BaRA: Budget-constrained and Reliable Web Data Collection Agent
 
 提出网页数据采集智能体 BaRA，发现实时网站中的链接，检查提取的文本、图像和视频，并利用历史记录从执行失败中恢复。
@@ -27,6 +35,18 @@ Soojeong Lee, Joseph Lee, Yongseong Cho, Sunjae Kim, Youngwoo Moon, Kyungwoo Son
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-00007/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-00007/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_00007,
+  title = {{BaRA: Budget-constrained and Reliable Web Data Collection Agent}},
+  author = {{Soojeong Lee} and {Joseph Lee} and {Yongseong Cho} and {Sunjae Kim} and {Youngwoo Moon} and {Kyungwoo Song}},
+  year = {2026},
+  eprint = {2607.00007v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.00007v2},
+  note = {First published: 2026-05-02; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T06:17:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

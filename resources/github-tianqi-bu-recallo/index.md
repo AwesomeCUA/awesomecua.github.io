@@ -1,3 +1,11 @@
+---
+title: "Recallo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tianqi-bu-recallo/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Recallo
 
 Recallo is a local-first browser agent with persistent SQLite episodic memory across browsing sessions.

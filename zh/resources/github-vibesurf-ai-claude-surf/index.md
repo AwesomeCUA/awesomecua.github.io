@@ -1,3 +1,11 @@
+---
+title: "Claude-Surf · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vibesurf-ai-claude-surf/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Claude-Surf
 
 一款连接 VibeSurf 的 Claude Code 插件，可控制浏览器页面、运行网页自动化流程并调用浏览器操作智能体。

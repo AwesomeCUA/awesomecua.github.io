@@ -1,3 +1,11 @@
+---
+title: "Paper2Agent: Reimagining Research Papers As… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-06917/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents
 
 Status: excluded from the active CUA catalog after scope review.

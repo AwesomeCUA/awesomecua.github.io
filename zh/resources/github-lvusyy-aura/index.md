@@ -1,3 +1,11 @@
+---
+title: "AURA (Agent-User Remote Automation) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lvusyy-aura/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AURA (Agent-User Remote Automation)
 
 基于 MCP 的闭环截图、点击和验证远程自动化框架，适用于桌面和移动端设备。

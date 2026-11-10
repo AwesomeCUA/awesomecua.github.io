@@ -1,3 +1,11 @@
+---
+title: "Agentic Shopping Autopilot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-andriishramko-agentic-shopping-autopilot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agentic Shopping Autopilot
 
 开源电子商务执行层，使 Claude Code 和 Codex 智能体能够在用户设定的约束下搜索、结账和付款。

@@ -1,3 +1,11 @@
+---
+title: "Zoom Search · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-goofrey-zoom-search/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Zoom Search
 
 Zoom Search 是分层网页搜索智能体，先预览简要页面摘要，再有选择地获取完整网页内容。

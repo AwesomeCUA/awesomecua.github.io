@@ -1,3 +1,11 @@
+---
+title: "Thursday (github.com/cgoinglove/thursday) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cgoinglove-thursday/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Thursday
 
 Thursday is a voice-driven computer assistant that delegates background web-browsing and desktop automation tasks to Playwright sub-agents.

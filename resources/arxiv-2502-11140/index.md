@@ -1,3 +1,11 @@
+---
+title: "Automated Visualization Code Synthesis via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-11140/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Automated Visualization Code Synthesis via Multi-Path Reasoning and Feedback-Driven Optimization
 
 Bibliographic record for Automated Visualization Code Synthesis via Multi-Path Reasoning and Feedback-Driven Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wonduk Seo, Daye Kang, Hyunjin An, Taehan Kim, Soohyuk Cho, Seungyong Lee, Minhy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-11140/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-11140/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_11140,
+  title = {{Automated Visualization Code Synthesis via Multi-Path Reasoning and Feedback-Driven Optimization}},
+  author = {{Wonduk Seo} and {Daye Kang} and {Hyunjin An} and {Taehan Kim} and {Soohyuk Cho} and {Seungyong Lee} and {Minhyeong Yu} and {Jian Park} and {Yi Bu} and {Seunghyun Lee}},
+  year = {2025},
+  eprint = {2502.11140v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.11140v4},
+  note = {First published: 2025-02-16; Recorded arXiv version: v4; Recorded version updated: 2026-08-04T08:10:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "PlayCoder | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencent-playcoder/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # PlayCoder
 
 PlayCoder generates and refines GUI application code using interactive tests. Its PlayTester observes application screenshots, performs interface actions and feeds results into repair.

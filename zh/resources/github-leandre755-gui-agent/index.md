@@ -1,3 +1,11 @@
+---
+title: "gui_agent (FastMCP Desktop Server) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leandre755-gui-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # gui_agent (FastMCP Desktop Server)
 
 面向 Linux 和 Windows 桌面计算机使用的 FastMCP 服务器，提供低延迟屏幕采集、OCR 和输入自动化。

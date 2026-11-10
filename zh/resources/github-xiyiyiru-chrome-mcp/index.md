@@ -1,3 +1,11 @@
+---
+title: "xiyiyiru chrome-mcp (DrissionPage MCP) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiyiyiru-chrome-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # xiyiyiru chrome-mcp (DrissionPage MCP)
 
 基于 DrissionPage 构建的浏览器自动化 Model Context Protocol 服务器。

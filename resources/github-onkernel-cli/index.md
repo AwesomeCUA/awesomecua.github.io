@@ -1,3 +1,11 @@
+---
+title: "Kernel CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-onkernel-cli/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Kernel CLI
 
 Kernel CLI manages sandboxed Chrome sessions for browser automation and web agents. It can deploy applications, invoke actions, and provide live views of managed browsers.

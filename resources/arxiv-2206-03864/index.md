@@ -1,3 +1,11 @@
+---
+title: "Discontinuity Computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-03864/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Discontinuity Computing using Physics-Informed Neural Network
 
 Status: excluded from the active CUA catalog after scope review.

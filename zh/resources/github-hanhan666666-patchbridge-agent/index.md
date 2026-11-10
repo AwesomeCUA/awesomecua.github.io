@@ -1,3 +1,11 @@
+---
+title: "PatchBridge Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hanhan666666-patchbridge-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PatchBridge Agent
 
 轻量级浏览器内 AI 智能体框架，为旧版企业网页门户添加自然语言自动化能力。

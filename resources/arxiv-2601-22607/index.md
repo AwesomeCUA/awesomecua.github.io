@@ -1,3 +1,11 @@
+---
+title: "From Self-Evolving Synthetic Data to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22607/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From Self-Evolving Synthetic Data to Verifiable-Reward RL: Post-Training Multi-turn Interactive Tool-Using Agents
 
 Status: excluded from the active CUA catalog after scope review.

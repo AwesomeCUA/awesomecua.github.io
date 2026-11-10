@@ -1,3 +1,11 @@
+---
+title: "AgentProofBench: Benchmarking Reusable… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-34634/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentProofBench: Benchmarking Reusable Verifiers for Web Agents
 
 提出 AgentProofBench，将网络智能体验证规则的复用测试与从已保存网页状态继续执行的测试相结合。
@@ -27,6 +35,18 @@ Jingjie Ning, Xueqi Li, Yi Lu, Yibo Kong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-34634/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-34634/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34634,
+  title = {{AgentProofBench: Benchmarking Reusable Verifiers for Web Agents}},
+  author = {{Jingjie Ning} and {Xueqi Li} and {Yi Lu} and {Yibo Kong}},
+  year = {2026},
+  eprint = {2610.34634v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34634v1},
+  note = {First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T23:20:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

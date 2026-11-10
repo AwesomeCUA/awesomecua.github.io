@@ -1,3 +1,11 @@
+---
+title: "OpenCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-opencua/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # OpenCUA
 
 Open computer-use research stack including models and training resources.

@@ -1,3 +1,11 @@
+---
+title: "westworld | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b43faa43e897c074b7c8/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # westworld
 
 The task dataset of the Halluminate Westworld web-agent benchmark: 100 validation tasks across e-commerce and travel sites, each with a generation config, domain, categories, difficulty and step limit.

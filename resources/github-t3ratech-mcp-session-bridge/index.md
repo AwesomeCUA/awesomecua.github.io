@@ -1,3 +1,11 @@
+---
+title: "MCP Session Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-t3ratech-mcp-session-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP Session Bridge
 
 Model Context Protocol server that drives the browser session the user is already signed into.

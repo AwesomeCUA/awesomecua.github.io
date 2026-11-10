@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) GLM-4.6V-Flash OSWorld · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-77c708f5cff2d4c95e90/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) GLM-4.6V-Flash OSWorld
 
 THUDM ScaleCUA 的 GLM-4.6V-Flash 计算机使用智能体检查点，以监督训练模型为起点，经在线强化学习用于 OSWorld 桌面任务，并通过兼容 OpenAI 的端点提供服务。

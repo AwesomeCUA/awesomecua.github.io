@@ -1,3 +1,11 @@
+---
+title: "AUTO-Explorer: Automated Data Collection… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-06417/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AUTO-Explorer: Automated Data Collection for GUI Agent
 
 Auto-Explorer 通过自动探索 GUI 并记录软件状态来收集训练数据。UIXplore 评估探索覆盖率，收集的数据用于微调和测试 GUI 元素定位。
@@ -27,6 +35,18 @@ Xiangwu Guo, Difei Gao, Mike Zheng Shou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-06417/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-06417/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_06417,
+  title = {{AUTO-Explorer: Automated Data Collection for GUI Agent}},
+  author = {{Xiangwu Guo} and {Difei Gao} and {Mike Zheng Shou}},
+  year = {2025},
+  eprint = {2511.06417v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.06417v1},
+  note = {First published: 2025-11-09; Recorded arXiv version: v1; Recorded version updated: 2025-11-09T15:13:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

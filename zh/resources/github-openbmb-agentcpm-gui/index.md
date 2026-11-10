@@ -1,3 +1,11 @@
+---
+title: "AgentCPM-GUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openbmb-agentcpm-gui/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # AgentCPM-GUI
 
 基于 MiniCPM-V 的 8B 端侧智能手机智能体，根据截图操作中文和英文应用，采用强化微调和紧凑的 JSON 操作空间训练。

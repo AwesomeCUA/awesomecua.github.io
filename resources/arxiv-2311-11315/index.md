@@ -1,3 +1,11 @@
+---
+title: "TPTU-v2: Boosting Task Planning and Tool… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-11315/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems
 
 Status: excluded from the active CUA catalog after scope review.

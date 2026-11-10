@@ -1,3 +1,11 @@
+---
+title: "SALMONN: Towards Generic Hearing Abilities… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-13289/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SALMONN: Towards Generic Hearing Abilities for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

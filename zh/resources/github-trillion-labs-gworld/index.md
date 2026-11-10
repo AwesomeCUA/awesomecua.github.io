@@ -1,3 +1,11 @@
+---
+title: "gWorld (GuiWorld) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-trillion-labs-gworld/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # gWorld (GuiWorld)
 
 gWorld 是开放权重的 8B/32B 移动端 GUI 世界模型，通过生成可渲染的网页代码预测下一步屏幕状态。

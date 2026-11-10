@@ -1,3 +1,11 @@
+---
+title: "Improving LLM-based Autonomous Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-27770/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Improving LLM-based Autonomous Web Agents with Filtering
 
 在 Mind2Web 轨迹上训练 HTML 元素相关性过滤器，并迁移到 WebArena，以减少无关的浏览器上下文。还评估零样本 ColBERT 检索器，并记录基线网页智能体的失败模式。
@@ -27,6 +35,18 @@ Zhitong Guo, Jing Yu Koh, Ruiyu Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-27770/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-27770/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_27770,
+  title = {{Improving LLM-based Autonomous Web Agents with Filtering}},
+  author = {{Zhitong Guo} and {Jing Yu Koh} and {Ruiyu Li}},
+  year = {2026},
+  eprint = {2609.27770v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.27770v1},
+  note = {First published: 2026-08-16; Recorded arXiv version: v1; Recorded version updated: 2026-08-16T19:54:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

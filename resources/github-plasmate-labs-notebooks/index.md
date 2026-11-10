@@ -1,3 +1,11 @@
+---
+title: "Plasmate Notebooks | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-notebooks/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Plasmate Notebooks
 
 Plasmate Notebooks teaches use of an agent-oriented browser engine through Jupyter examples covering page structure, token comparisons, batch extraction, and research workflows.

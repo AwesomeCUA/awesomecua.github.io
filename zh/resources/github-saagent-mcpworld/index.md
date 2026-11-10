@@ -1,3 +1,11 @@
+---
+title: "MCPWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saagent-mcpworld/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # MCPWorld
 
 结合计算机交互与工具访问的评估环境。

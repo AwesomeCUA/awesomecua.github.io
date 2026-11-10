@@ -1,3 +1,11 @@
+---
+title: "TreeCUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-uitron-hub-treecua/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # TreeCUA
 
 通过树状探索和验证生成 GUI 操作轨迹的框架。

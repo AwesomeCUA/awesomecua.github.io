@@ -1,3 +1,11 @@
+---
+title: "StructAgent: Harness Long-horizon… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-11388/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure
 
 StructAgent 维护精简的任务状态，通过经核验的状态转换和进度检查点管理长程执行。其工作流支持依据证据判断完成情况并进行针对性恢复，评估涵盖桌面计算机使用及单独的 Minecraft 扩展。
@@ -27,6 +35,18 @@ Wenyi Wu, Sibo Zhu, Kun Zhou, Aayush Salvi, Zixuan Song, Biwei Huang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-11388/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-11388/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_11388,
+  title = {{StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure}},
+  author = {{Wenyi Wu} and {Sibo Zhu} and {Kun Zhou} and {Aayush Salvi} and {Zixuan Song} and {Biwei Huang}},
+  year = {2026},
+  eprint = {2607.11388v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.11388v1},
+  note = {First published: 2026-07-13; Recorded arXiv version: v1; Recorded version updated: 2026-07-13T10:48:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

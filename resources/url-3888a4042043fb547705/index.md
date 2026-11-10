@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-G1-3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3888a4042043fb547705/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InfiGUI-G1-3B
 
 A GUI grounding checkpoint based on Qwen2.5-VL-3B-Instruct. It uses adaptive exploration training to locate interface elements from an instruction and screen image.

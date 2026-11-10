@@ -1,3 +1,11 @@
+---
+title: "NOVA Bilingual Desktop Voice Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-matinhosseini1-nova-bilingual-voice-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # NOVA Bilingual Desktop Voice Agent
 
 Bilingual Persian-English desktop voice and GUI automation assistant for Windows.

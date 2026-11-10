@@ -1,3 +1,11 @@
+---
+title: "Vision-ml · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-meituan-dianping-vision/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Vision-ml
 
 Vision-ml 在移动应用弹窗截图中定位关闭控件，并返回用于自动化操作的屏幕坐标；仓库包含预测代码和预训练模型。

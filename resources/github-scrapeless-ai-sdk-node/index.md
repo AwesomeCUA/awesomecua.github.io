@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Node SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scrapeless-ai-sdk-node/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Scrapeless Node SDK
 
 A Node.js SDK for creating browser sessions controlled through Playwright or Puppeteer. It also exposes browser profiles, crawling, scraping, and proxy services.

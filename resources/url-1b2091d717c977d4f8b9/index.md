@@ -1,3 +1,11 @@
+---
+title: "AMEX dataset release | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # AMEX dataset release
 
 Official Hub release of AMEX: Android app screenshots annotated for interactive-element grounding, screen and element functionality, and instructions with stepwise GUI-action chains.

@@ -1,3 +1,11 @@
+---
+title: "AgentCursor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kumard3-agentcursor/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AgentCursor
 
 Reads macOS application windows as compact text affordances (~9 tokens per click) and drives a human-like virtual cursor over MCP.

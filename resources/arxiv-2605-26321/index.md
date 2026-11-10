@@ -1,3 +1,11 @@
+---
+title: "Anchor: Preventing Artifact Drift for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-26321/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Anchor: Preventing Artifact Drift for Reliable Agent Verification
 
 Anchor builds ERP-Bench by generating procurement and manufacturing tasks with shared state verifiers for evaluating browser and computer-use agents.
@@ -26,6 +34,18 @@ Abhijay Rana, Maksim Ivanov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-26321/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-26321/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26321,
+  title = {{Anchor: Preventing Artifact Drift for Reliable Agent Verification}},
+  author = {{Abhijay Rana} and {Maksim Ivanov}},
+  year = {2026},
+  eprint = {2605.26321v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26321v2},
+  note = {First published: 2026-05-25; Recorded arXiv version: v2; Recorded version updated: 2026-10-30T18:47:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

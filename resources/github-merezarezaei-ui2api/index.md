@@ -1,3 +1,11 @@
+---
+title: "UI2API | AwesomeCUA"
+url: https://awesomecua.com/resources/github-merezarezaei-ui2api/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # UI2API
 
 Analyzes a website's UI and network traffic once to synthesize reusable, browser-free API tools for AI agents.

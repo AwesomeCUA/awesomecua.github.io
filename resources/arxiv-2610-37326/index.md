@@ -1,3 +1,11 @@
+---
+title: "ScIntBench: Physical Interaction Plausibility… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37326/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ScIntBench: Physical Interaction Plausibility in 3D Scene Generation
 
 Bibliographic record for ScIntBench: Physical Interaction Plausibility in 3D Scene Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wendi Ying, Daochang Liu, Leonid Sigal, Ajmal Saeed Mian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37326/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37326/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37326,
+  title = {{ScIntBench: Physical Interaction Plausibility in 3D Scene Generation}},
+  author = {{Wendi Ying} and {Daochang Liu} and {Leonid Sigal} and {Ajmal Saeed Mian}},
+  year = {2026},
+  eprint = {2610.37326v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37326v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T14:36:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

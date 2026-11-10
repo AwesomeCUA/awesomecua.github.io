@@ -1,3 +1,11 @@
+---
+title: "NextGen macOS Computer-Use Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nextgen-agentics-computer-use-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # NextGen macOS Computer-Use Agent
 
 macOS 桌面自动化智能体，使用从原生 Accessibility 树到 OCR 和 VLM 定位的 5 层感知级联。

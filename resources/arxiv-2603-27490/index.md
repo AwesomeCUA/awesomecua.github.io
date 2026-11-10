@@ -1,3 +1,11 @@
+---
+title: "AgentSwing: Adaptive Parallel Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-27490/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents
 
 Bibliographic record for AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhaopeng Feng, Liangcai Su, Zhen Zhang, Xinyu Wang, Xiaotian Zhang, Xiaobin Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-27490/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-27490/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_27490,
+  title = {{AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents}},
+  author = {{Zhaopeng Feng} and {Liangcai Su} and {Zhen Zhang} and {Xinyu Wang} and {Xiaotian Zhang} and {Xiaobin Wang} and {Runnan Fang} and {Qi Zhang} and {Baixuan Li} and {Shihao Cai} and {Rui Ye} and {Hui Chen} and {Jiang Yong} and {Joey Tianyi Zhou} and {Chenxiong Qian} and {Pengjun Xie} and {Bryan Hooi} and {Zuozhu Liu} and {Jingren Zhou}},
+  year = {2026},
+  eprint = {2603.27490v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.27490v1},
+  note = {First published: 2026-03-29; Recorded arXiv version: v1; Recorded version updated: 2026-03-29T02:59:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

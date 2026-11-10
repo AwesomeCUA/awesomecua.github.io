@@ -1,3 +1,11 @@
+---
+title: "Human-Readable Adversarial Prompts: An… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-16359/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context
 
 Status: excluded from the active CUA catalog after scope review.

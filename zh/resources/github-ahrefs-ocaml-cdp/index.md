@@ -1,3 +1,11 @@
+---
+title: "ocaml-cdp · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahrefs-ocaml-cdp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ocaml-cdp
 
 Ahrefs 开发的 Chrome DevTools Protocol 类型化 OCaml 客户端库，配有异步 Lwt 驱动。

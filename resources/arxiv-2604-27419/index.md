@@ -1,3 +1,11 @@
+---
+title: "InteractWeb-Bench: Can Multimodal Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-27419/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?
 
 Bibliographic record for InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiyao Wang, Haoran Hu, Longze Chen, Hongbo Wang, Hamid Alinejad-Rokny, Yuan Lin,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-27419/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-27419/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_27419,
+  title = {{InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?}},
+  author = {{Qiyao Wang} and {Haoran Hu} and {Longze Chen} and {Hongbo Wang} and {Hamid Alinejad-Rokny} and {Yuan Lin} and {Min Yang}},
+  year = {2026},
+  eprint = {2604.27419v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.27419v1},
+  note = {First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T04:49:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

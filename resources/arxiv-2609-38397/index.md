@@ -1,3 +1,11 @@
+---
+title: "SimTrace: Grounded Multimodal User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38397/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SimTrace: Grounded Multimodal User Trajectories Generation for Online User Modeling
 
 Introduces SimTrace, a framework that generates synthetic multimodal web clickstreams by pairing a computer-use client agent's actions with web observations and user context.
@@ -26,6 +34,18 @@ Yunan Lu, Shuang Xie, Meghna Allamudi, Mingyu Zhao, Han Li, Lingyun Wang, Zhou Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38397/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38397/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38397,
+  title = {{SimTrace: Grounded Multimodal User Trajectories Generation for Online User Modeling}},
+  author = {{Yunan Lu} and {Shuang Xie} and {Meghna Allamudi} and {Mingyu Zhao} and {Han Li} and {Lingyun Wang} and {Zhou Yu}},
+  year = {2026},
+  eprint = {2609.38397v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38397v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T18:53:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

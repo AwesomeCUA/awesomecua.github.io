@@ -1,3 +1,11 @@
+---
+title: "Amazon Bedrock Minecraft Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Amazon Bedrock Minecraft Agent
 
 TypeScript agent built on Amazon Bedrock and Mineflayer that translates natural-language instructions into in-game Minecraft actions.

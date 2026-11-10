@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-7B-Instruct-AWQ · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-06c351d14bee24bc3f01/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL-7B-Instruct-AWQ
 
 这是指令微调的 7B Qwen2.5-VL 模型的 AWQ 版本。模型卡描述了其对界面图像的理解、视觉定位以及电脑和手机操作能力。

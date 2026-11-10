@@ -1,3 +1,11 @@
+---
+title: "WebUncertainty: Dual-Level Uncertainty… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-17821/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # WebUncertainty: Dual-Level Uncertainty Driven Planning and Reasoning For Autonomous Web Agent
 
 WebUncertainty 根据任务不确定性调整规划模式，并用基于置信度的不确定性估计引导操作级树搜索；在 WebArena 和 WebVoyager 上评估动态长程网页任务的自主执行。
@@ -27,6 +35,18 @@ Lingfeng Zhang, Yongan Sun, Jinpeng Hu, Hui Ma, Yang Ying, Kuien Liu, Zenglin Sh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-17821/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-17821/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_17821,
+  title = {{WebUncertainty: Dual-Level Uncertainty Driven Planning and Reasoning For Autonomous Web Agent}},
+  author = {{Lingfeng Zhang} and {Yongan Sun} and {Jinpeng Hu} and {Hui Ma} and {Yang Ying} and {Kuien Liu} and {Zenglin Shi} and {Meng Wang}},
+  year = {2026},
+  eprint = {2604.17821v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.17821v2},
+  note = {First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-04-21T03:15:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "NATURAL PLAN: Benchmarking LLMs on Natural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-04520/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # NATURAL PLAN: Benchmarking LLMs on Natural Language Planning
 
 Bibliographic record for NATURAL PLAN: Benchmarking LLMs on Natural Language Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Huaixiu Steven Zheng, Swaroop Mishra, Hugh Zhang, Xinyun Chen, Minmin Chen, Azad
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-04520/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-04520/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_04520,
+  title = {{NATURAL PLAN: Benchmarking LLMs on Natural Language Planning}},
+  author = {{Huaixiu Steven Zheng} and {Swaroop Mishra} and {Hugh Zhang} and {Xinyun Chen} and {Minmin Chen} and {Azade Nova} and {Le Hou} and {Heng-Tze Cheng} and {Quoc V. Le} and {Ed H. Chi} and {Denny Zhou}},
+  year = {2024},
+  eprint = {2406.04520v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.04520v1},
+  note = {First published: 2024-06-06; Recorded arXiv version: v1; Recorded version updated: 2024-06-06T21:27:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WebDriverAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-webdriveragent/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # WebDriverAgent
 
 WebDriverAgent is an iOS WebDriver server for remote app control, including launching apps, tapping, scrolling, and checking views. Development has moved to appium-ios.

@@ -1,3 +1,11 @@
+---
+title: "TuriX-CUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-turixai-turix-cua/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TuriX-CUA
 
 TuriX-CUA 是面向 macOS 和 Windows 的多智能体桌面自动化框架，结合规划者、执行者、反思者和记忆技能。

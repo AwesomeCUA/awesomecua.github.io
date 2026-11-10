@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning Friendly… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-10571/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Reinforcement Learning Friendly Vision-Language Model for Minecraft
 
 Bibliographic record for Reinforcement Learning Friendly Vision-Language Model for Minecraft. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haobin Jiang, Junpeng Yue, Hao Luo, Ziluo Ding, Zongqing Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-10571/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-10571/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_10571,
+  title = {{Reinforcement Learning Friendly Vision-Language Model for Minecraft}},
+  author = {{Haobin Jiang} and {Junpeng Yue} and {Hao Luo} and {Ziluo Ding} and {Zongqing Lu}},
+  year = {2023},
+  eprint = {2303.10571v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.10571v2},
+  note = {First published: 2023-03-19; Recorded arXiv version: v2; Recorded version updated: 2024-08-05T12:44:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Quantum computing using continuous-time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2004-00704/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum computing using continuous-time evolution
 
 Status: excluded from the active CUA catalog after scope review.

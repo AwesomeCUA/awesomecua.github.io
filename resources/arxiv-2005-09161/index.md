@@ -1,3 +1,11 @@
+---
+title: "Spatiotemporal Attacks for Embodied Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-09161/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Spatiotemporal Attacks for Embodied Agents
 
 Status: excluded from the active CUA catalog after scope review.

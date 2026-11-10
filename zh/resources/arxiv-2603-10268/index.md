@@ -1,3 +1,11 @@
+---
+title: "SpecOps: A Fully Automated AI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-10268/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments
 
 SpecOps 将 GUI 智能体测试分为测试生成、环境搭建、执行和验证，由专门的智能体负责。评估涵盖 5 个真实应用中的智能体，包括 Web 应用和浏览器扩展，并衡量执行稳定程度与缺陷发现能力。
@@ -27,6 +35,18 @@ Syed Yusuf Ahmed, Shiwei Feng, Chanwoo Bae, Calix Barrus Xiangyu Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-10268/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-10268/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_10268,
+  title = {{SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments}},
+  author = {{Syed Yusuf Ahmed} and {Shiwei Feng} and {Chanwoo Bae} and {Calix Barrus Xiangyu Zhang}},
+  year = {2026},
+  eprint = {2603.10268v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.10268v1},
+  note = {First published: 2026-03-10; Recorded arXiv version: v1; Recorded version updated: 2026-03-10T22:56:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

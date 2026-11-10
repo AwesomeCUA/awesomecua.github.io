@@ -1,3 +1,11 @@
+---
+title: "Modeling Distinct Human Interaction in… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-17588/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Modeling Distinct Human Interaction in Web Agents
 
 CowCorpus 记录网页导航中人类与智能体交错进行的动作，并识别不同的用户干预模式；预测这些干预的模型被集成到在线运行的网页智能体中，并通过用户研究评估。
@@ -27,6 +35,18 @@ Faria Huq, Zora Zhiruo Wang, Zhanqiu Guo, Venu Arvind Arangarajan, Tianyue Ou, F
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-17588/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-17588/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_17588,
+  title = {{Modeling Distinct Human Interaction in Web Agents}},
+  author = {{Faria Huq} and {Zora Zhiruo Wang} and {Zhanqiu Guo} and {Venu Arvind Arangarajan} and {Tianyue Ou} and {Frank Xu} and {Shuyan Zhou} and {Graham Neubig} and {Jeffrey P. Bigham}},
+  year = {2026},
+  eprint = {2602.17588v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.17588v4},
+  note = {First published: 2026-02-19; Recorded arXiv version: v4; Recorded version updated: 2026-07-07T23:37:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

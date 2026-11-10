@@ -1,3 +1,11 @@
+---
+title: "Step-Aligned Script Generation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-25601/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Step-Aligned Script Generation with Verification and Recovery for Web Automation Testing
 
 Presents TESSARA, which turns natural-language web test intent into Playwright scripts, linking each browser interaction to selector evidence, outcomes, and repair history.
@@ -26,6 +34,18 @@ Hridya Dhulipala, Xiaokai Rong, Aashish Yadavally, Tien N. Nguyen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-25601/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-25601/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_25601,
+  title = {{Step-Aligned Script Generation with Verification and Recovery for Web Automation Testing}},
+  author = {{Hridya Dhulipala} and {Xiaokai Rong} and {Aashish Yadavally} and {Tien N. Nguyen}},
+  year = {2026},
+  eprint = {2610.25601v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.25601v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T00:07:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

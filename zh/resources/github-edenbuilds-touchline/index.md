@@ -1,3 +1,11 @@
+---
+title: "Touchline · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-edenbuilds-touchline/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Touchline
 
 多智能体浏览器团队，基于证据检查网站并重建前端。

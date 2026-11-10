@@ -1,3 +1,11 @@
+---
+title: "Just Do It!? Computer-Use Agents Exhibit… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-01670/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness
 
 BLIND-ACT tests whether computer-use agents persist with ambiguous, contradictory, or infeasible goals without adequate contextual reasoning. Its OSWorld-based tasks and judged trajectories examine these behaviors and the effect of mitigation prompts.
@@ -26,6 +34,18 @@ Erfan Shayegani, Keegan Hines, Yue Dong, Nael Abu-Ghazaleh, Roman Lutz, Spencer 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-01670/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-01670/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_01670,
+  title = {{Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness}},
+  author = {{Erfan Shayegani} and {Keegan Hines} and {Yue Dong} and {Nael Abu-Ghazaleh} and {Roman Lutz} and {Spencer Whitehead} and {Vidhisha Balachandran} and {Besmira Nushi} and {Vibhav Vineet}},
+  year = {2025},
+  eprint = {2510.01670v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.01670v1},
+  note = {First published: 2025-10-02; Recorded arXiv version: v1; Recorded version updated: 2025-10-02T04:52:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

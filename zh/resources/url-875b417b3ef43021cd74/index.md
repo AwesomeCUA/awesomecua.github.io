@@ -1,3 +1,11 @@
+---
+title: "OpAgent-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-875b417b3ef43021cd74/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpAgent-32B
 
 这是经过网页导航微调的视觉语言模型。它接收任务指令和网页截图，输出浏览器操作或最终答案。

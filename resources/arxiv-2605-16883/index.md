@@ -1,3 +1,11 @@
+---
+title: "SE-GA: Memory-Augmented Self-Evolution for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-16883/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SE-GA: Memory-Augmented Self-Evolution for GUI Agents
 
 SE-GA retrieves hierarchical memories during inference and uses the collected experience in a separate policy-improvement pipeline. Its evaluation includes offline grounding/action tasks and online Android interaction, which measure different capabilities.
@@ -26,6 +34,18 @@ Shilong Jin, Lanjun Wang, Zhuosheng Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-16883/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-16883/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16883,
+  title = {{SE-GA: Memory-Augmented Self-Evolution for GUI Agents}},
+  author = {{Shilong Jin} and {Lanjun Wang} and {Zhuosheng Zhang}},
+  year = {2026},
+  eprint = {2605.16883v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16883v1},
+  note = {First published: 2026-05-16; Recorded arXiv version: v1; Recorded version updated: 2026-05-16T08:51:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

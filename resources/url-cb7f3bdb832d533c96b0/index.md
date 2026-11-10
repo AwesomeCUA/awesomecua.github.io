@@ -1,3 +1,11 @@
+---
+title: "SWE-bench Multimodal | AwesomeCUA"
+url: https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # SWE-bench Multimodal
 
 Issue-resolution benchmark for visual JavaScript and TypeScript software, where each task's issue or patch includes screenshots, mockups or renderings and fixes are checked by repository unit tests.

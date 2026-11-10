@@ -1,3 +1,11 @@
+---
+title: "bb-sites · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-epiral-bb-sites/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # bb-sites
 
 这是一套 JavaScript 适配器，可将网站搜索、数据获取及部分账户操作转为命令，并通过已登录的浏览器执行。

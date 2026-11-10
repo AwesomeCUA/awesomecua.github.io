@@ -1,3 +1,11 @@
+---
+title: "dassi · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-040e17448d9d190b3c14/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # dassi
 
 适用于 Chrome、Edge 和 Brave 的侧边栏扩展，智能体可在用户已登录的浏览器中阅读网页、截图、点击、输入、填写表单和管理标签页，并支持保存技能、定时任务及选择模型。

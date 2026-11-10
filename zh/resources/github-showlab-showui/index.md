@@ -1,3 +1,11 @@
+---
+title: "ShowUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-showui/
+updated: 2026-10-20
+type: model
+lang: zh-CN
+---
+
 # ShowUI
 
 Show Lab 与 Microsoft 推出的轻量级 GUI 智能体视觉语言操作模型，同时发布了 UI 引导的 token 选择方法、训练代码、ShowUI-web 和 ShowUI-desktop 数据集，以及 vLLM 推理支持。

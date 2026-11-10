@@ -1,3 +1,11 @@
+---
+title: "DeviceBay · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentsea-devicebay/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # DeviceBay
 
 为智能体提供可插拔桌面和浏览器设备的 Python 软件包，可用 SQLite 或 PostgreSQL 保存设备配置。

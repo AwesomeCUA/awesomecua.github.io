@@ -1,3 +1,11 @@
+---
+title: "Internet of Agents (IoA) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openbmb-ioa/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Internet of Agents (IoA)
 
 Internet of Agents (IoA) 是一个分布式框架，用于协调跨设备和工具的异构多智能体协作。

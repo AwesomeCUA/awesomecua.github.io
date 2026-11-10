@@ -1,3 +1,11 @@
+---
+title: "REAL · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agi-inc-real/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # REAL
 
 一个浏览器智能体评测工具包，提供可复现的网站副本、任务目标、智能体 API 和评测框架。

@@ -1,3 +1,11 @@
+---
+title: "Ghost Semantic OS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zainmfjavaid-ghost-semantic-os/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ghost Semantic OS
 
 Ghost Semantic OS 提供纯文本语义无障碍运行时，无需截图即可在 OSWorld 中操作 Linux 桌面应用。

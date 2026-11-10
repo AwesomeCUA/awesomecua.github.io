@@ -1,3 +1,11 @@
+---
+title: "FineState-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fengxianji-finestate-bench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # FineState-Bench
 
 A GUI benchmark for precise state changes across desktop, web, and mobile interfaces, with 2,257 tasks and metrics separating element location from interaction success.

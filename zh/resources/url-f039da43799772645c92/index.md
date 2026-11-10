@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 extended Android AVDs · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f039da43799772645c92/
+updated: 2026-10-18
+type: infrastructure
+lang: zh-CN
+---
+
 # OpenMobile-2 extended Android AVDs
 
 七个预配置的 Pixel 6 模拟器镜像，适用于 Android API 33（arm64），附有 Apple Silicon 安装脚本，在 OpenMobile-2 发布内容中列为扩展 Android AVD。

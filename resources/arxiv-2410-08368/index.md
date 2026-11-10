@@ -1,3 +1,11 @@
+---
+title: "ElasticTok: Adaptive Tokenization for Image… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-08368/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ElasticTok: Adaptive Tokenization for Image and Video
 
 Status: excluded from the active CUA catalog after scope review.

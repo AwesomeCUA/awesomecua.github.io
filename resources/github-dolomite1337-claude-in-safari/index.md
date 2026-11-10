@@ -1,3 +1,11 @@
+---
+title: "Claude in Safari | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dolomite1337-claude-in-safari/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Claude in Safari
 
 Open-source macOS Safari web extension that lets Claude read pages and execute interactive browser tasks locally.

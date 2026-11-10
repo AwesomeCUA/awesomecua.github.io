@@ -1,3 +1,11 @@
+---
+title: "HobbyLM: A Sparse Mixture-of-Experts Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34582/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget
 
 Describes HobbyLM, a small model family whose post-trained variants include a computer-use agent and an on-device macOS computer-use adapter.
@@ -26,6 +34,18 @@ Harish Santhanalakshmi Ganesan, Hariharan M. S., Prabhurajhan R
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34582/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34582/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34582,
+  title = {{HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget}},
+  author = {{Harish Santhanalakshmi Ganesan} and {Hariharan M. S.} and {Prabhurajhan R}},
+  year = {2026},
+  eprint = {2610.34582v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34582v1},
+  note = {First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T21:26:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

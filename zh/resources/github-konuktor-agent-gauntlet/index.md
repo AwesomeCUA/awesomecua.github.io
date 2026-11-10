@@ -1,3 +1,11 @@
+---
+title: "AgentGauntlet · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-konuktor-agent-gauntlet/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # AgentGauntlet
 
 面向浏览器智能体的可靠性 CI 测试框架，在不断变化的 DOM 条件下运行相同的网页任务，以衡量其适应能力。

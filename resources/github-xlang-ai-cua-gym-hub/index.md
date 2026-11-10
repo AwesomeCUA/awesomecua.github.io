@@ -1,3 +1,11 @@
+---
+title: "CUA-Gym-Hub | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # CUA-Gym-Hub
 
 CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic state verifiers as RL training and evaluation environments.

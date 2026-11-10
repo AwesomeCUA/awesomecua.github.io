@@ -1,3 +1,11 @@
+---
+title: "On the Reliability of Computer Use Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-17849/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # On the Reliability of Computer Use Agents
 
 研究重复执行 OSWorld 任务，以区分执行随机性、任务规格歧义和行为差异；配对的任务级测试表明，单次成功不足以证明计算机使用表现具有一致性。
@@ -27,6 +35,18 @@ Gonzalo Gonzalez-Pumariega, Saaket Agashe, Jiachen Yang, Ang Li, Xin Eric Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-17849/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-17849/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_17849,
+  title = {{On the Reliability of Computer Use Agents}},
+  author = {{Gonzalo Gonzalez-Pumariega} and {Saaket Agashe} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2604.17849v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.17849v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T05:59:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

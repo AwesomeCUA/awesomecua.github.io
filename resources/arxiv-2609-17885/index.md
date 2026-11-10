@@ -1,3 +1,11 @@
+---
+title: "ERPBench: A State-Grounded Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-17885/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software
 
 ERPBench evaluates screenshot-only agents in enterprise software using database values to check the business records produced by their actions. It pairs these state-based checks with a harness for human approval and analyzes cases where visible completion masks incorrect persisted data.
@@ -26,6 +34,18 @@ Kratika Bhagtani, Kusha Sridhar, Maziyar Baran Pouyan, Yuying Zhao, Eugene Siow
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-17885/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-17885/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_17885,
+  title = {{ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software}},
+  author = {{Kratika Bhagtani} and {Kusha Sridhar} and {Maziyar Baran Pouyan} and {Yuying Zhao} and {Eugene Siow}},
+  year = {2026},
+  eprint = {2609.17885v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.17885v2},
+  note = {First published: 2026-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-09-23T01:31:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

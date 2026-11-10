@@ -1,3 +1,11 @@
+---
+title: "MCP Browser Use Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jovanipink-mcp-browser-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP Browser Use Server
 
 FastAPI Model Context Protocol server that exposes browser-use autonomous web navigation workflows as callable MCP tools.

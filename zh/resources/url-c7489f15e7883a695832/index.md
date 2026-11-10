@@ -1,3 +1,11 @@
+---
+title: "MoCon · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c7489f15e7883a695832/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # MoCon
 
 为 10,364 张移动应用截图提供图标和文字边界框标注，含 154 个图标类别及文字字体标签，以 LabelMe JSON 和训练、验证、测试划分发布；此次发布将标注与所引用的图像分开提供。

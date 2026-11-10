@@ -1,3 +1,11 @@
+---
+title: "Recurrent Latent Visual Search for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-05185/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Recurrent Latent Visual Search for GUI Grounding
 
 提出 ReLaViS，在定位模型内部反复查询截图 token，并将得到的空间证据反馈给模型，以进行循环视觉搜索。利用已有界面元素标注构建由粗到细的监督信号。
@@ -27,6 +35,18 @@ Kaiyu Wu, Beichen Zheng, Weiyao Huang, Keze Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-05185/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-05185/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05185,
+  title = {{Recurrent Latent Visual Search for GUI Grounding}},
+  author = {{Kaiyu Wu} and {Beichen Zheng} and {Weiyao Huang} and {Keze Wang}},
+  year = {2026},
+  eprint = {2610.05185v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05185v1},
+  note = {First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T12:49:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

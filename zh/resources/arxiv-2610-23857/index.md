@@ -1,3 +1,11 @@
+---
+title: "Web Agent Agentic Reinforcement Learning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-23857/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk
 
 提出面向网页操作智能体的约束强化学习模型，在多步骤网站任务中权衡请求成本、延迟和失败风险。
@@ -27,6 +35,18 @@ Qianli Ma, Limengxi Yue, Shuyang Xu, Yanpei Shi, Hongrui Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-23857/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-23857/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23857,
+  title = {{Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk}},
+  author = {{Qianli Ma} and {Limengxi Yue} and {Shuyang Xu} and {Yanpei Shi} and {Hongrui Liu}},
+  year = {2026},
+  eprint = {2610.23857v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23857v1},
+  note = {First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T01:04:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "chromedp-proxy · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chromedp-chromedp-proxy/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # chromedp-proxy
 
 chromedp-proxy 在客户端与浏览器之间转发 Chrome DevTools Protocol 通信，并记录会话消息，供浏览器自动化调试使用。

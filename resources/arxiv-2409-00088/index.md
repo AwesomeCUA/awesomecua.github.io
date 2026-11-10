@@ -1,3 +1,11 @@
+---
+title: "On-Device Language Models: A Comprehensive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-00088/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # On-Device Language Models: A Comprehensive Review
 
 Bibliographic record for On-Device Language Models: A Comprehensive Review. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jiajun Xu, Zhiyuan Li, Wei Chen, Qun Wang, Xin Gao, Qi Cai, Ziyuan Ling
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-00088/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-00088/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_00088,
+  title = {{On-Device Language Models: A Comprehensive Review}},
+  author = {{Jiajun Xu} and {Zhiyuan Li} and {Wei Chen} and {Qun Wang} and {Xin Gao} and {Qi Cai} and {Ziyuan Ling}},
+  year = {2024},
+  eprint = {2409.00088v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.00088v2},
+  note = {First published: 2024-08-26; Recorded arXiv version: v2; Recorded version updated: 2024-09-14T04:01:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

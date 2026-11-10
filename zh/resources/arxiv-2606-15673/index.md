@@ -1,3 +1,11 @@
+---
+title: "Where Did It Go Wrong? Process-Level… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-15673/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking
 
 提出网页智能体基准 WebStep，在 GUI 操作背后记录语义状态，以分析任务各步骤中的探索过程、操作准确性和关键错误。
@@ -27,6 +35,18 @@ Jiwan Chung, JiHyuk Byun, Vibhav Vineet, Seon Joo Kim
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-15673/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-15673/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15673,
+  title = {{Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking}},
+  author = {{Jiwan Chung} and {JiHyuk Byun} and {Vibhav Vineet} and {Seon Joo Kim}},
+  year = {2026},
+  eprint = {2606.15673v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15673v2},
+  note = {First published: 2026-04-08; Recorded arXiv version: v2; Recorded version updated: 2026-08-04T05:22:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

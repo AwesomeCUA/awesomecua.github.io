@@ -1,3 +1,11 @@
+---
+title: "TODO for AI Edge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-todoforai-edge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # TODO for AI Edge
 
 TODO for AI Edge connects a local machine's shell, filesystem, and browser to the TODO for AI agent orchestration platform.

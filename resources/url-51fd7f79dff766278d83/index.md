@@ -1,3 +1,11 @@
+---
+title: "S1-Fast | AwesomeCUA"
+url: https://awesomecua.com/resources/url-51fd7f79dff766278d83/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # S1-Fast
 
 S1-Fast predicts desktop actions, target elements and step status from a Windows UI Automation snapshot and visual tokens in one encoder pass.

@@ -1,3 +1,11 @@
+---
+title: "Learn from Weaknesses: Automated Domain… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-28775/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents
 
 LearnWeak specializes small computer-use agents by finding domain-specific weaknesses, generating targeted tasks, and training separately for planning and execution errors.
@@ -26,6 +34,18 @@ Suji Kim, Kangsan Kim, Sung Ju Hwang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-28775/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-28775/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_28775,
+  title = {{Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents}},
+  author = {{Suji Kim} and {Kangsan Kim} and {Sung Ju Hwang}},
+  year = {2026},
+  eprint = {2605.28775v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.28775v1},
+  note = {First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T17:37:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Workflows — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -494,8 +502,6 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Model Context Protocol router and skill registry for browser automation agents.
 - [Bardeen](https://awesomecua.com/resources/url-87bc346934a4117b554c/) — Date not recorded
   Chrome-extension platform for go-to-market teams whose AI scraper navigates sites, clicks, fills forms and pages through results to collect leads, with an AI template builder and a goal-driven agent mode.
-- [Bees Desktop](https://awesomecua.com/resources/github-bees-bot-bees-desktop/) — Date not recorded
-  Thread-based multi-agent desktop runtime allowing a team of AI agents to collaborate over local files and browsers.
 - [bgivenb Typed UI Capabilities](https://awesomecua.com/resources/github-bgivenb-computer-use-automation/) — Date not recorded
   Model-guided UI workflow discovery framework with signed human review and deterministic replay.
 - [Blender AI Plugin](https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/) — Date not recorded
@@ -852,8 +858,6 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Narada Code develops and tests computer-use workflows, then revises them after failures. OperatorMini executes the instructions for repeatable web and enterprise tasks.
 - [Narada Operator](https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/) — Date not recorded
   Narada Operator is an enterprise web agent that executes workflows across web interfaces and APIs using task planning and error recovery.
-- [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/) — Date not recorded
-  Local-first open-source AI agent harness for developers integrating terminal, filesystem, and browser control.
 - [navforge](https://awesomecua.com/resources/github-huzjie-navforge/) — Date not recorded
   navforge is a self-hosted orchestration framework for coordinating multi-step computer-use and browser navigation agents.
 - [Nell (Open Source Instinct)](https://awesomecua.com/resources/github-iabdulwasey-nell/) — Date not recorded

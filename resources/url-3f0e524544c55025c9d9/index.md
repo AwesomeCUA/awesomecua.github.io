@@ -1,3 +1,11 @@
+---
+title: "WildAWM-4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3f0e524544c55025c9d9/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # WildAWM-4B
 
 WildAWM-4B is a Qwen3.5-4B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.

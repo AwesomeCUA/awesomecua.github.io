@@ -1,3 +1,11 @@
+---
+title: "Designing a Million-Qubit Quantum Computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1512-00796/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Designing a Million-Qubit Quantum Computer Using Resource Performance Simulator
 
 Status: excluded from the active CUA catalog after scope review.

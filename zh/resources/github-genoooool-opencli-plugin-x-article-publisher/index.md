@@ -1,3 +1,11 @@
+---
+title: "opencli-plugin-x-article-publisher · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-genoooool-opencli-plugin-x-article-publisher/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # opencli-plugin-x-article-publisher
 
 一项 OpenCLI 插件，使用已登录的 Chrome 会话，将 Markdown 和本地图片整理成 X 长文，并通过显式命令公开发布。

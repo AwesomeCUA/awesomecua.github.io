@@ -1,3 +1,11 @@
+---
+title: "Voice & Computer-Use Benchmark Landscape · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sophon-llc-voice-agent-benchmark-landscape/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Voice & Computer-Use Benchmark Landscape
 
 公开的语音智能体、多模态和计算机使用评测基准的结构化分类与对比图谱。

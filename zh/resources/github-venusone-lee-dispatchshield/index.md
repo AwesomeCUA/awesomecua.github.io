@@ -1,3 +1,11 @@
+---
+title: "DispatchShield · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-venusone-lee-dispatchshield/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DispatchShield
 
 macOS 实用工具，使 Mac 在无人值守的计算机使用智能体运行期间保持唤醒，同时保护活动会话免受本地输入干扰。

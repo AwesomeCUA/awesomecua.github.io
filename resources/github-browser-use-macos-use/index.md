@@ -1,3 +1,11 @@
+---
+title: "macOS-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-macos-use/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # macOS-use
 
 An archived Browser Use project that lets an LLM operate macOS apps by reading their accessibility trees and pressing, typing into and opening elements through the macOS Accessibility API.

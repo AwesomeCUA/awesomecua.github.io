@@ -1,3 +1,11 @@
+---
+title: "AllTogether: Investigating the Efficacy of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-18331/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AllTogether: Investigating the Efficacy of Spliced Prompt for Web Navigation using Large Language Models
 
 AllTogether standardizes prompts for HTML-based web navigation and compares prompting with instruction fine-tuning. Its analysis examines how HTML context, interaction history, and current environmental feedback affect task execution.
@@ -26,6 +34,18 @@ Jiarun Liu, Wentao Hu, Chunhong Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-18331/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-18331/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_18331,
+  title = {{AllTogether: Investigating the Efficacy of Spliced Prompt for Web Navigation using Large Language Models}},
+  author = {{Jiarun Liu} and {Wentao Hu} and {Chunhong Zhang}},
+  year = {2023},
+  eprint = {2310.18331v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.18331v2},
+  note = {First published: 2023-10-20; Recorded arXiv version: v2; Recorded version updated: 2023-10-31T06:25:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

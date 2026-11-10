@@ -1,3 +1,11 @@
+---
+title: "LAST DOOR | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentsimdev-last-door/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # LAST DOOR
 
 Authentication resilience benchmark and WebMCP authority compiler for testing browser agents at login and permission boundaries.

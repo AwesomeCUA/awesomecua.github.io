@@ -1,3 +1,11 @@
+---
+title: "Agent Skill Induction (ASI) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zorazrw-agent-skill-induction/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # Agent Skill Induction (ASI)
 
 WebArena 智能体技能归纳的官方代码：LLM 评判每条轨迹，将成功任务转为 Python 技能函数，生成的测试通过后才将技能加入动作空间。

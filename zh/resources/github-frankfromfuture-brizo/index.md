@@ -1,3 +1,11 @@
+---
+title: "Brizo Use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-frankfromfuture-brizo/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Brizo Use
 
 用于驱动实时网页会话的开放浏览器使用运行环境、本地桥接工具、CLI 和 AI 测试框架适配器。

@@ -1,3 +1,11 @@
+---
+title: "Defense Against Indirect Prompt Injection via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-04795/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Defense Against Indirect Prompt Injection via Tool Result Parsing
 
 Status: excluded from the active CUA catalog after scope review.

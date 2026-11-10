@@ -1,3 +1,11 @@
+---
+title: "Beyond NL2Code: A Structured Survey of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15932/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence
 
 Bibliographic record for Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xuanle Zhao, Qiushi Sun, Jingyu Xiao, Xuexin Liu, Haoyue Yang, Qiaosheng Chen, X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-15932/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-15932/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15932,
+  title = {{Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence}},
+  author = {{Xuanle Zhao} and {Qiushi Sun} and {Jingyu Xiao} and {Xuexin Liu} and {Haoyue Yang} and {Qiaosheng Chen} and {Xianzhen Luo} and {Jing Huang} and {Yufeng Zhong} and {Lei Chen} and {Shuai Fu} and {Zhenlin Wei} and {Jinhe Bi} and {Lei Jiang} and {Haibo Qiu} and {Siqi Yang} and {Peng Shi} and {Jian Hu} and {Zhixiong Zeng}},
+  year = {2026},
+  eprint = {2606.15932v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15932v3},
+  note = {First published: 2026-06-14; Recorded arXiv version: v3; Recorded version updated: 2026-08-30T04:28:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

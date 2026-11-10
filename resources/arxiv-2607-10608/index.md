@@ -1,3 +1,11 @@
+---
+title: "The Compliance Trap: Diagnosing How AI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-10608/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory
 
 The Entry–Propagation–Recovery framework traces where conflicting memory first changes an agent action, how the effect propagates and whether recovery occurs. WebArena and the controlled MemTrapBench separate memory-consumption failures across these stages.
@@ -26,6 +34,18 @@ Yixiong Chen, Xinyi Bai, Alan Yuille
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-10608/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-10608/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_10608,
+  title = {{The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory}},
+  author = {{Yixiong Chen} and {Xinyi Bai} and {Alan Yuille}},
+  year = {2026},
+  eprint = {2607.10608v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.10608v1},
+  note = {First published: 2026-07-12; Recorded arXiv version: v1; Recorded version updated: 2026-07-12T07:05:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "DarwinRelay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dcierra-darwinrelay/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DarwinRelay
 
 让 ChatGPT 和 MCP 客户端成为本地 macOS 智能体，可访问 shell、文件、PTY 和浏览器自动化功能。

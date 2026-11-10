@@ -1,3 +1,11 @@
+---
+title: "Midscene iOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lhuanyu-midscene-ios/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Midscene iOS
 
 Midscene iOS provides an SDK and playground for automating an iOS device through screen actions and queries. It uses macOS device mirroring and exposes a browser-based playground.

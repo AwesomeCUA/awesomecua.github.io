@@ -1,3 +1,11 @@
+---
+title: "Paper2Video: Automatic Video Generation from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-05096/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Paper2Video: Automatic Video Generation from Scientific Papers
 
 Bibliographic record for Paper2Video: Automatic Video Generation from Scientific Papers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zeyu Zhu, Kevin Qinghong Lin, Mike Zheng Shou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-05096/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-05096/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_05096,
+  title = {{Paper2Video: Automatic Video Generation from Scientific Papers}},
+  author = {{Zeyu Zhu} and {Kevin Qinghong Lin} and {Mike Zheng Shou}},
+  year = {2025},
+  eprint = {2510.05096v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.05096v2},
+  note = {First published: 2025-10-06; Recorded arXiv version: v2; Recorded version updated: 2025-10-09T17:29:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

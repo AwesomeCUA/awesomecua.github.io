@@ -1,3 +1,11 @@
+---
+title: "Direct Preference Optimization: Your Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-18290/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 
 Status: excluded from the active CUA catalog after scope review.

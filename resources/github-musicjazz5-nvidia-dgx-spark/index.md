@@ -1,3 +1,11 @@
+---
+title: "SparkBridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-musicjazz5-nvidia-dgx-spark/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # SparkBridge
 
 Human-approved isolated browser bridge for local AI agents running on NVIDIA DGX Spark workstations.

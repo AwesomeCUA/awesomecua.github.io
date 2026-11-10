@@ -1,3 +1,11 @@
+---
+title: "Agentic Compilation: Mitigating the LLM… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-09718/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Agentic Compilation: Mitigating the LLM Rerun Crisis for Minimized-Inference-Cost Web Automation
 
 提出 Compile-and-Execute，将清理后的 DOM 编译为可复用的 JSON 工作流，使重复的浏览器任务无需继续查询模型即可执行。
@@ -27,6 +35,18 @@ Jagadeesh Chundru
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-09718/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-09718/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_09718,
+  title = {{Agentic Compilation: Mitigating the LLM Rerun Crisis for Minimized-Inference-Cost Web Automation}},
+  author = {{Jagadeesh Chundru}},
+  year = {2026},
+  eprint = {2604.09718v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.09718v2},
+  note = {First published: 2026-04-08; Recorded arXiv version: v2; Recorded version updated: 2026-04-25T21:50:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

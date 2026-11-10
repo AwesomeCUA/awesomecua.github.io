@@ -1,3 +1,11 @@
+---
+title: "Video — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/video/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Video
 
 Reviewed topic membership; resources can appear in multiple topics.

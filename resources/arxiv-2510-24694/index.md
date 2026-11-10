@@ -1,3 +1,11 @@
+---
+title: "Repurposing Synthetic Data for Fine-grained… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24694/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Repurposing Synthetic Data for Fine-grained Search Agent Supervision
 
 Bibliographic record for Repurposing Synthetic Data for Fine-grained Search Agent Supervision. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yida Zhao, Kuan Li, Xixi Wu, Liwen Zhang, Dingchu Zhang, Baixuan Li, Maojia Song
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24694/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24694/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24694,
+  title = {{Repurposing Synthetic Data for Fine-grained Search Agent Supervision}},
+  author = {{Yida Zhao} and {Kuan Li} and {Xixi Wu} and {Liwen Zhang} and {Dingchu Zhang} and {Baixuan Li} and {Maojia Song} and {Zhuo Chen} and {Chenxi Wang} and {Xinyu Wang} and {Kewei Tu} and {Pengjun Xie} and {Jingren Zhou} and {Yong Jiang}},
+  year = {2025},
+  eprint = {2510.24694v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24694v2},
+  note = {First published: 2025-10-28; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T12:55:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

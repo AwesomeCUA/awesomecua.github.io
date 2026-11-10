@@ -1,3 +1,11 @@
+---
+title: "arc-cua · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shhivv-arc-cua/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # arc-cua
 
 arc-cua 是一套 macOS 计算机操作软件包，包含应用窗口驱动程序，以及用于执行智能体交付的限定范围桌面子任务的决策模型循环。

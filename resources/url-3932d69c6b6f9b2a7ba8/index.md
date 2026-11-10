@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act Planner 70B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Plan-and-Act Planner 70B
 
 The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.

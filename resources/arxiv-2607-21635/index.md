@@ -1,3 +1,11 @@
+---
+title: "Toward User-Conditioned Evaluation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-21635/
+updated: 2026-10-23
+type: paper
+lang: en
+---
+
 # Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions
 
 Bibliographic record for Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Pin Qian, Su Wang, Yihang Chen, Qiaolin Yu, Xiaoyuan Wang, Zhitong Guo, Zhicheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-21635/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-21635/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_21635,
+  title = {{Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions}},
+  author = {{Pin Qian} and {Su Wang} and {Yihang Chen} and {Qiaolin Yu} and {Xiaoyuan Wang} and {Zhitong Guo} and {Zhicheng Wang} and {Junxian You}},
+  year = {2026},
+  eprint = {2607.21635v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.21635v1},
+  note = {First published: 2026-07-20; Recorded arXiv version: v1; Recorded version updated: 2026-07-20T23:14:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

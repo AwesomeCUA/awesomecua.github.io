@@ -1,3 +1,11 @@
+---
+title: "LPS-Bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-625bd97c7aa32cf05833/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # LPS-Bench
 
 一个用于评测计算机操作智能体轨迹安全性的数据集，包含 570 个基础案例和 40 个技能变体，覆盖良性任务与对抗性任务。

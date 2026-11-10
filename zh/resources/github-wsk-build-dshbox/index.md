@@ -1,3 +1,11 @@
+---
+title: "DSHBox · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wsk-build-dshbox/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # DSHBox
 
 Android 应用，在 PRoot Debian 沙箱中本地运行 DeepSeek Harness 智能体，并为其提供 WebView 浏览器 CLI，以及通过 Accessibility 和 Shizuku 后端操作原生应用的手机助手。

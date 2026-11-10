@@ -1,3 +1,11 @@
+---
+title: "Front-End Operation Master (FEOM) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-a92070888-dev-mcp-os-native-automation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Front-End Operation Master (FEOM)
 
 Windows 原生 UI 自动化框架和 MCP 服务器，通过 UIA 树运行，不使用视觉 token，动作延迟约为 3.9ms。

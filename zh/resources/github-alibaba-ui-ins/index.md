@@ -1,3 +1,11 @@
+---
+title: "UI-Ins · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alibaba-ui-ins/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # UI-Ins
 
 将定位指令视为多个推理视角，发布数据流程、训练代码，以及先用合成指令进行 SFT、再经 RL 训练的 UI-Ins-7B 和 32B 模型。

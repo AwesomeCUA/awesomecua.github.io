@@ -1,3 +1,11 @@
+---
+title: "Astra Game Arena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gih10012-astra-game-arena/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Astra Game Arena
 
 Resumable, screen-only computer-use evaluation arena testing whether Codex agents can play locally installed desktop games.

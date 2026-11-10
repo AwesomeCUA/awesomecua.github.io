@@ -1,3 +1,11 @@
+---
+title: "AutoEnvScaling: Automating the Data Flywheel… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14163/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AutoEnvScaling: Automating the Data Flywheel with Terminal Agents
 
 Bibliographic record for AutoEnvScaling: Automating the Data Flywheel with Terminal Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Simon Yu, Baolin Peng, Bo Liu, Zhengyan Shi, Zhaoyang Wang, Hao Cheng, Qianhui W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14163/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14163/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14163,
+  title = {{AutoEnvScaling: Automating the Data Flywheel with Terminal Agents}},
+  author = {{Simon Yu} and {Baolin Peng} and {Bo Liu} and {Zhengyan Shi} and {Zhaoyang Wang} and {Hao Cheng} and {Qianhui Wu} and {Wenlin Yao} and {Natasha Jaques} and {Weiyan Shi} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2610.14163v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14163v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T17:51:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

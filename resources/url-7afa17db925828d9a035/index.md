@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 7B AW | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7afa17db925828d9a035/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # OS-Genesis 7B AW
 
 The AndroidWorld-oriented Qwen2-VL checkpoint trained on mobile trajectories generated through OS-Genesis reverse task synthesis, predicting the next thought and action from an instruction, history and screen.

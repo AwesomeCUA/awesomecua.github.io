@@ -1,3 +1,11 @@
+---
+title: "Qwen-AgentWorld: Language World Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-24597/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Qwen-AgentWorld: Language World Models for General Agents
 
 Bibliographic record for Qwen-AgentWorld: Language World Models for General Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuxin Zuo, Zikai Xiao, Li Sheng, Fei Huang, Jianhong Tu, Yuxuan Liu, Tianyi Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-24597/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-24597/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_24597,
+  title = {{Qwen-AgentWorld: Language World Models for General Agents}},
+  author = {{Yuxin Zuo} and {Zikai Xiao} and {Li Sheng} and {Fei Huang} and {Jianhong Tu} and {Yuxuan Liu} and {Tianyi Tang} and {Xiaomeng Hu} and {Yang Su} and {Qingfeng Lan} and {Yantao Liu} and {Qin Zhu} and {Yinger Zhang} and {Bowen Yu} and {Haiquan Zhao} and {Haiyang Xu} and {Jianxin Yang} and {Jiayang Cheng} and {Junyang Wang} and {Lianghao Deng} and {Mingfeng Xue} and {Tianyi Bai} and {Yang Fan} and {Yubo Ma} and {Yucheng Li} and {Zeyu Cui} and {Zhihai Wang} and {Zhihui Xie} and {Zhuorui Ye} and {An Yang} and {Dayiheng Liu} and {Jingren Zhou} and {Ning Ding}},
+  year = {2026},
+  eprint = {2606.24597v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.24597v1},
+  note = {First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T13:53:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

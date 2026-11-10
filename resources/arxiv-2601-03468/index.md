@@ -1,3 +1,11 @@
+---
+title: "Understanding Reward Hacking in Text-to-Image… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-03468/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Understanding Reward Hacking in Text-to-Image Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

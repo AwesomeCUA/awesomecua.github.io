@@ -1,3 +1,11 @@
+---
+title: "webclaw3 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fatmind-webclaw3/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # webclaw3
 
 A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.

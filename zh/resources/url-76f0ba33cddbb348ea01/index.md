@@ -1,3 +1,11 @@
+---
+title: "Dex · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-76f0ba33cddbb348ea01/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Dex
 
 ThirdLayer 的 Chrome 扩展会记住用户工作工具中的操作信息，并运行在浏览器中切换标签页、填写表单的智能体，同时集成 Gmail、Slack 和 CRM。

@@ -1,3 +1,11 @@
+---
+title: "AgentRefine: Enhancing Agent Generalization… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-01702/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentRefine: Enhancing Agent Generalization through Refinement Tuning
 
 Status: excluded from the active CUA catalog after scope review.

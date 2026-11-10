@@ -1,3 +1,11 @@
+---
+title: "Yurei · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-memel06-yurei/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Yurei
 
 Chrome 扩展和轻量级 CLI，让本地 AI 智能体读取并控制活动浏览器标签页。

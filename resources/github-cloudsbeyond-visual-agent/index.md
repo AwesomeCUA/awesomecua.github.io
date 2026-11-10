@@ -1,3 +1,11 @@
+---
+title: "visual-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cloudsbeyond-visual-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # visual-agent
 
 Protocol-first framework enabling visual-model hosts to safely inspect and operate software GUI interfaces.

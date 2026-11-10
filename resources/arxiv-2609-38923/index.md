@@ -1,3 +1,11 @@
+---
+title: "GraphForge: Training Working Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38923/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis
 
 Bibliographic record for GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qisheng Su, Hanchen Wang, Guanru Zhu, Huicheng Jiang, Qiuyinzhe Zhang, Kou Shi, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38923/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38923/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38923,
+  title = {{GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis}},
+  author = {{Qisheng Su} and {Hanchen Wang} and {Guanru Zhu} and {Huicheng Jiang} and {Qiuyinzhe Zhang} and {Kou Shi} and {Zhen Fang} and {Ziao Zhang} and {Qingnan Ren} and {Honglin Guo} and {Zehui Chen} and {Tao Gui} and {Feng Zhao}},
+  year = {2026},
+  eprint = {2609.38923v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38923v2},
+  note = {First published: 2026-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-04T14:53:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

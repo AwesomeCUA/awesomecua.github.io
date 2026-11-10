@@ -1,3 +1,11 @@
+---
+title: "zuhair-01 chrome-agent-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zuhair-01-chrome-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # zuhair-01 chrome-agent-bridge
 
 适用于 OpenCode、Codex 和 Claude Code 编码智能体的通用 Chrome 控制桥接工具。

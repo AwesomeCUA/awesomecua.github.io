@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 29 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/29/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 29 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/29/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [WebAgents Protocol](https://awesomecua.com/zh/resources/github-betterwright-webagents/)
-- [WebAggregator](https://awesomecua.com/zh/resources/github-tencent-webaggregator/)
 - [webarena-docker](https://awesomecua.com/zh/resources/github-mahirlabibdihan-webarena-docker/)
 - [webarena-setup](https://awesomecua.com/zh/resources/github-gasse-webarena-setup/)
 - [WebBrain](https://awesomecua.com/zh/resources/github-webbrain-one-webbrain/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/29/
 - [Yad (يد)](https://awesomecua.com/zh/resources/github-holistis-al-yad/)
 - [Your Browser Agent](https://awesomecua.com/zh/resources/github-rakeshnirzari1-your-browser-agent/)
 - [Yurei](https://awesomecua.com/zh/resources/github-memel06-yurei/)
+- [Yutori](https://awesomecua.com/zh/resources/url-eff580f3185f2a36c265/)
+- [ZCode JetBrains Plugin](https://awesomecua.com/zh/resources/github-csuftt-zcode-jetbrains-plugin/)

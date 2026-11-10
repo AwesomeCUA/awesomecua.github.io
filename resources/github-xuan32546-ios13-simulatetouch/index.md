@@ -1,3 +1,11 @@
+---
+title: "IOS13-SimulateTouch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # IOS13-SimulateTouch
 
 An iOS touch-control library supports scripted and remote touch input, records events for playback, and offers image matching and OCR on jailbroken devices.

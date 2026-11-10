@@ -1,3 +1,11 @@
+---
+title: "AutoGUI-v1-zip | AwesomeCUA"
+url: https://awesomecua.com/resources/url-02370867dd4b96000a33/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # AutoGUI-v1-zip
 
 A training data repository for AutoGUI containing an annotated GUI set and selected vision datasets, with instructions for merging their JSON files for fine-tuning.

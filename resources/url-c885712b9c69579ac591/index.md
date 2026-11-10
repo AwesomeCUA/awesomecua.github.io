@@ -1,3 +1,11 @@
+---
+title: "OSWorld file cache (Ubuntu) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c885712b9c69579ac591/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # OSWorld file cache (Ubuntu)
 
 Hub-hosted copy of the files that OSWorld's Ubuntu task configurations download for task setup and evaluation, organized by application and task ID after their migration from Google Drive.

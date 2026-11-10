@@ -1,3 +1,11 @@
+---
+title: "Steel Atlas · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steel-dev-atlas/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Steel Atlas
 
 Steel Atlas 是基于 Steel 云浏览器运行环境构建的开放网络研究与浏览器自动化智能体。

@@ -1,3 +1,11 @@
+---
+title: "Deskfish · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-0x11c11e-deskfish/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Deskfish
 
 Deskfish 是一款 VS Code 扩展，为 AI 智能体提供可在编辑器中查看和操控的隔离虚拟桌面容器。

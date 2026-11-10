@@ -1,3 +1,11 @@
+---
+title: "WebInteractionTools MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tcehjaava-webinteractiontools/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # WebInteractionTools MCP
 
 Playwright-based Model Context Protocol server providing webpage navigation, viewport screenshots, clicking, and form filling for AI agents.

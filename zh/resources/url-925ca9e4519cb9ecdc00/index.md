@@ -1,3 +1,11 @@
+---
+title: "JUMPDiscovery · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-925ca9e4519cb9ecdc00/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # JUMPDiscovery
 
 Orion 计算机使用智能体开放式发现任务的数据：包含问题描述、CellProfiler 流程、基因集，以及下载 JUMP Cell Painting 形态学特征的脚本。

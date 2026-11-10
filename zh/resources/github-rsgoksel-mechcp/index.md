@@ -1,3 +1,11 @@
+---
+title: "MechCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rsgoksel-mechcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MechCP
 
 经过安全加固的 Model Context Protocol 服务器，为 AI 智能体提供 Chrome DevTools Protocol 浏览器控制和动态 Playwright 执行能力。

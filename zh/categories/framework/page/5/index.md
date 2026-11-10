@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体框架（第 5 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/framework/page/5/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体框架：第 5 页
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English](https://awesomecua.com/categories/framework/page/5/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
-- [LAI (Linux Native OS Agent)](https://awesomecua.com/zh/resources/github-cufelix-lai/)：面向 Linux 桌面的原生操作系统智能体运行时，提供系统范围的屏幕观察、无障碍信息检查和输入控制。
 - [Language Agent Tree Search (LATS)](https://awesomecua.com/zh/resources/github-lapisrocks-languageagenttreesearch/)：Language Agent Tree Search（LATS）将 LLM 推理、行动和 Monte Carlo Tree Search 与自我反思结合，用于 WebShop 和编程任务。
 - [LASSO WebMCP](https://awesomecua.com/zh/resources/github-smkzz-lasso/)：AI 辅助调度控制台，将人类在网页上用套索选取的视觉区域转化为实时、带类型的 WebMCP 能力。
 - [Latitude Browser](https://awesomecua.com/zh/resources/github-djblack1209-coder-latitude-browser/)：用于管理隔离的浏览器配置文件、代理路由和多会话网页自动化的桌面工作空间。
@@ -57,7 +64,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 - [MVP (Multiple View Prediction)](https://awesomecua.com/zh/resources/github-zjuscl-mvp/)：MVP 通过汇总不同宽高比和分辨率变换下的多视角坐标预测，改进 GUI 视觉定位。
 - [nanoAWM (Agent World Model Lab)](https://awesomecua.com/zh/resources/github-jlov7-nanoawm/)：nanoAWM 是可检查的 Agent World Model 实验环境，用于模拟长程工具智能体和计算机使用智能体的动作后果。
 - [Napaxi](https://awesomecua.com/zh/resources/github-antgroup-napaxi/)：Ant Group 开发的移动端原生智能体 SDK，用于构建可在设备上通过沙箱执行技能的 AI 智能体。
-- [Native by K](https://awesomecua.com/zh/resources/github-karunya-muddana-native/)：面向开发者的本地优先开源 AI 智能体框架，集成终端、文件系统和浏览器控制。
 - [NaturalGAIA & LightManus](https://awesomecua.com/zh/resources/github-keles-coding-naturegaia/)：NaturalGAIA 和 LightManus 提供分层多智能体框架，具备浏览器自动化、代码执行和情节记忆功能。
 - [navforge](https://awesomecua.com/zh/resources/github-huzjie-navforge/)：navforge 是自托管编排框架，用于协调多步骤计算机使用与浏览器导航智能体。
 - [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/zh/resources/github-vthanhhdev-qirabot-vision-runtime/)：无需选择器的 AI 视觉自动化运行环境，适用于桌面应用、移动端屏幕和游戏。
@@ -104,3 +110,5 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 - [OysterWorkflow](https://awesomecua.com/zh/resources/github-shuxinyang111-oysterworkflow/)：OysterWorkflow 采集人类真实的计算机工作过程，并提取供 AI 智能体使用的结构化、可复用工作流图。
 - [Pactora](https://awesomecua.com/zh/resources/github-mrnetwork0001-pactora/)：WebMCP 市场与验证测试框架，配有闭环自修复浏览器验证器。
 - [page-agent-sdk](https://awesomecua.com/zh/resources/github-whyymj-page-agent-sdk/)：页面内 AI 助手 SDK，可挂载聊天组件，并让 LLM 通过经过模式验证的工具安全地读取和修改网页状态。
+- [PageRunner](https://awesomecua.com/zh/resources/github-say-5-pagerunner/)：PageRunner 是浏览器智能体编排平台，提供有界执行循环、确定性重放和标准轨迹验证。
+- [Paragent](https://awesomecua.com/zh/resources/github-myselfsiddharth-paragent/)：有状态的浏览器执行层，只需记录一次智能体任务，即可在无需调用 LLM 的情况下重放，并在选择器变化时自行修复。

@@ -1,3 +1,11 @@
+---
+title: "Midscene iOS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lhuanyu-midscene-ios/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Midscene iOS
 
 Midscene iOS 提供通过屏幕操作与查询来自动化 iOS 设备的 SDK 和交互式环境，借助 macOS 设备镜像，并提供浏览器中的操作界面。

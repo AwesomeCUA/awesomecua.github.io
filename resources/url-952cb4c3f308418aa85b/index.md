@@ -1,3 +1,11 @@
+---
+title: "Auto-UI (model) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-952cb4c3f308418aa85b/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Auto-UI
 
 Trained Auto-UI checkpoints and BLIP-processed AITW features for a chain-of-action agent that predicts device actions from screenshots, previous actions and planned future actions.

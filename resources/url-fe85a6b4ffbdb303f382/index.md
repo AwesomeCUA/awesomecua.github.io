@@ -1,3 +1,11 @@
+---
+title: "qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
 
 A GUI-grounding checkpoint built on Qwen2.5-VL-7B-Instruct with an attention-based action head. Its example predicts a click point from a screenshot and instruction.

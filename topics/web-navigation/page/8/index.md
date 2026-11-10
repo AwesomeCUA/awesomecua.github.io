@@ -1,3 +1,11 @@
+---
+title: "Web navigation — computer-use research, page 8 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/8/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 8
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/8/
@@ -8,7 +16,6 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [Mind2Web 2](https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/)
 - [Mirage (Adversarial Web Benchmark)](https://awesomecua.com/resources/github-shushant17711-mirage/)
 - [MMSearch-Plus](https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/)
-- [Navi-Bench](https://awesomecua.com/resources/github-yutori-ai-navi-bench/)
 - [Next-Gen CAPTCHAs](https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/)
 - [Nightshift](https://awesomecua.com/resources/github-yayaq1-nightshift/)
 - [Odysseys](https://awesomecua.com/resources/github-ljang0-odysseys/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [WebTailBench](https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/)
 - [WebTestBench](https://awesomecua.com/resources/github-friedrichor-webtestbench/)
 - [WebUIProof](https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/)
+- [WebVoyager](https://awesomecua.com/resources/github-minorjerry-webvoyager/)

@@ -1,3 +1,11 @@
+---
+title: "Agent Verify | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anotb-agent-verify/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent Verify
 
 CAPTCHA and human-verification solver skill keeping ChatGPT and Codex browser automation tasks unblocked.

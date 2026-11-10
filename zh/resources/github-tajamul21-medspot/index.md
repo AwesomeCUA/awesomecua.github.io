@@ -1,3 +1,11 @@
+---
+title: "MedSPOT · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tajamul21-medspot/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # MedSPOT
 
 覆盖 10 款医学影像应用的连续式界面定位评测集，用于评估模型在多步骤工作流程中定位目标的能力，并提供评测脚本。

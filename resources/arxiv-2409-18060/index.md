@@ -1,3 +1,11 @@
+---
+title: "Inferring Alt-text For UI Icons With Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-18060/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Inferring Alt-text For UI Icons With Large Language Models During App Development
 
 Introduces IconDesc, which generates mobile icon alt-text from partial UI context such as element identifiers, bounds, nearby text and hierarchy. Model evaluation and a user study examine the resulting accessibility descriptions.
@@ -26,6 +34,18 @@ Sabrina Haque, Christoph Csallner
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-18060/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-18060/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_18060,
+  title = {{Inferring Alt-text For UI Icons With Large Language Models During App Development}},
+  author = {{Sabrina Haque} and {Christoph Csallner}},
+  year = {2024},
+  eprint = {2409.18060v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.18060v2},
+  note = {First published: 2024-09-26; Recorded arXiv version: v2; Recorded version updated: 2024-10-07T19:04:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

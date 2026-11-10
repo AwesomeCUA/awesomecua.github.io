@@ -1,3 +1,11 @@
+---
+title: "Avenir-UX: Automated UX Evaluation via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-09581/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding
 
 Avenir-UX combines grounded web interaction with simulated user profiles and structured usability measures to produce evaluations of website journeys. The paper describes its architecture and use of SUS, step-wise ease questions and think-aloud traces for automated UX reporting.
@@ -26,6 +34,18 @@ Wee Joe Tan, Zi Rui Lucas Lim, Shashank Durgad, Karim Obegi, Aiden Yiliu Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-09581/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-09581/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_09581,
+  title = {{Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding}},
+  author = {{Wee Joe Tan} and {Zi Rui Lucas Lim} and {Shashank Durgad} and {Karim Obegi} and {Aiden Yiliu Li}},
+  year = {2026},
+  eprint = {2604.09581v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.09581v2},
+  note = {First published: 2026-02-25; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T20:54:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

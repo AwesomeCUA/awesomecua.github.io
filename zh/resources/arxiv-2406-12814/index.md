@@ -1,3 +1,11 @@
+---
+title: "Dissecting Adversarial Robustness of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-12814/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Dissecting Adversarial Robustness of Multimodal LM Agents
 
 提出 VisualWebArena 上的对抗任务及评估框架，追踪被操纵的信息如何在智能体组件间传递，并分析反思、树搜索评估器和直接生成动作带来的脆弱性。
@@ -27,6 +35,18 @@ Chen Henry Wu, Rishi Shah, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Adit
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-12814/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-12814/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_12814,
+  title = {{Dissecting Adversarial Robustness of Multimodal LM Agents}},
+  author = {{Chen Henry Wu} and {Rishi Shah} and {Jing Yu Koh} and {Ruslan Salakhutdinov} and {Daniel Fried} and {Aditi Raghunathan}},
+  year = {2024},
+  eprint = {2406.12814v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.12814v3},
+  note = {First published: 2024-06-18; Recorded arXiv version: v3; Recorded version updated: 2025-02-04T20:02:17Z.}
+}
+```
 
 ## 发表记录
 

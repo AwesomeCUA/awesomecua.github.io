@@ -1,3 +1,11 @@
+---
+title: "ScreenSearch: Uncertainty-Aware OS… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-16024/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # ScreenSearch: Uncertainty-Aware OS Exploration
 
 ScreenSearch 将桌面 GUI 的 UIA 树画面建立索引并去重，再结合操作结果的歧义程度与前沿奖励，引导状态图探索。
@@ -27,6 +35,18 @@ Michael Solodko, Justin Wagle
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-16024/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-16024/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16024,
+  title = {{ScreenSearch: Uncertainty-Aware OS Exploration}},
+  author = {{Michael Solodko} and {Justin Wagle}},
+  year = {2026},
+  eprint = {2605.16024v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16024v2},
+  note = {First published: 2026-05-15; Recorded arXiv version: v2; Recorded version updated: 2026-08-17T18:33:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

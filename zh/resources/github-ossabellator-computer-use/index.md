@@ -1,3 +1,11 @@
+---
+title: "Ossabellator Bounded Computer-Use Runtime · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ossabellator-computer-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ossabellator Bounded Computer-Use Runtime
 
 具有明确能力限制和策略执行机制的受限计算机使用运行时及语义浏览器引擎。

@@ -1,3 +1,11 @@
+---
+title: "Cursor Companion (MacScreenCompanion) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pradyut-das-macscreencompanion/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Cursor Companion (MacScreenCompanion)
 
 原生 macOS AI 助手，可通过快捷键调用，感知屏幕内容并对当前屏幕上的内容进行检查和操作。

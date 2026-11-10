@@ -1,3 +1,11 @@
+---
+title: "SeeClick · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-njucckevin-seeclick/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # SeeClick
 
 经过训练、用于定位可视化界面元素的 GUI 定位模型。

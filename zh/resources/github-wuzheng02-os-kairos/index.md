@@ -1,3 +1,11 @@
+---
+title: "OS-Kairos · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wuzheng02-os-kairos/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # OS-Kairos
 
 Android GUI 智能体研究实现，利用置信度引导的交互，在自主操作与人工协助之间作出选择。

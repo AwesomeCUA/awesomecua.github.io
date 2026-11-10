@@ -1,3 +1,11 @@
+---
+title: "GUIPivot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zrw00-guipivot/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # GUIPivot
 
 查询推断训练工具，将截图定位与 GUI 操作推理相结合，涵盖预处理、查询优化，以及在 AndroidControl 和 AITZ 上的离线单步评估。

@@ -1,3 +1,11 @@
+---
+title: "UXAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2f73fe78c423e263d451/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # UXAgent
 
 Usability-testing system that generates simulated user personas, has LLM agents work through a target website via a browser connector, and shows their survey answers and action logs in a result viewer.

@@ -1,3 +1,11 @@
+---
+title: "debug-kit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dxiongya-debug-kit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # debug-kit
 
 跨平台 Agent Skill，可在 macOS、iOS、Android、Web、Electron、Windows 和 Linux 上操作、检查及测试应用。

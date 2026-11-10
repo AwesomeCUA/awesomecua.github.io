@@ -1,3 +1,11 @@
+---
+title: "UIBert AppSim and RefExp annotations | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-datasets-uibert/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UIBert AppSim and RefExp annotations
 
 Two Rico-derived UI component retrieval datasets: AppSim pairs semantically similar elements across screens, while RefExp links referring expressions to target elements.

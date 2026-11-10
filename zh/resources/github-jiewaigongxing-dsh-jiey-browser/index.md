@@ -1,3 +1,11 @@
+---
+title: "dsh-jiey-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jiewaigongxing-dsh-jiey-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-jiey-browser
 
 通过 Model Context Protocol 提供 Jiey Browser 自动化工具的 DeepSeek Harness 插件。

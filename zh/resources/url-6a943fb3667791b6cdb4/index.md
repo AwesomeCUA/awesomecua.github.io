@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 1.5 32B Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6a943fb3667791b6cdb4/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Owl 1.5 32B Instruct
 
 GUI-Owl 1.5 的 32B 指令版原生 GUI 智能体模型，基于 Qwen3-VL，随 Mobile-Agent-v3.5 发布，用于桌面、移动端和浏览器操作；采用 MIT 许可，约有 33.4B 个 BF16 参数。

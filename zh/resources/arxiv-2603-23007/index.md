@@ -1,3 +1,11 @@
+---
+title: "AgentRAE: Remote Action Execution… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-23007/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents
 
 AgentRAE 研究通过通知触发、改变移动端 GUI 智能体动作的视觉后门。其训练将对图标差异的敏感性与触发条件和动作的关联分开，并评估正常行为及定向诱导效果。
@@ -27,6 +35,18 @@ Yutao Luo, Haotian Zhu, Shuchao Pang, Zhigang Lu, Tian Dong, Yongbin Zhou, Minhu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-23007/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-23007/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_23007,
+  title = {{AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents}},
+  author = {{Yutao Luo} and {Haotian Zhu} and {Shuchao Pang} and {Zhigang Lu} and {Tian Dong} and {Yongbin Zhou} and {Minhui Xue}},
+  year = {2026},
+  eprint = {2603.23007v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.23007v1},
+  note = {First published: 2026-03-24; Recorded arXiv version: v1; Recorded version updated: 2026-03-24T09:51:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "WebWISE: Web Interface Control and Sequential… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-16042/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebWISE: Web Interface Control and Sequential Exploration with Large Language Models
 
 WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
@@ -26,6 +34,18 @@ Heyi Tao, Sethuraman T, Michal Shlapentokh-Rothman, Derek Hoiem
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-16042/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-16042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_16042,
+  title = {{WebWISE: Web Interface Control and Sequential Exploration with Large Language Models}},
+  author = {{Heyi Tao} and {Sethuraman T} and {Michal Shlapentokh-Rothman} and {Derek Hoiem}},
+  year = {2023},
+  eprint = {2310.16042v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.16042v2},
+  note = {First published: 2023-10-24; Recorded arXiv version: v2; Recorded version updated: 2023-10-25T03:54:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

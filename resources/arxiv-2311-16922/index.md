@@ -1,3 +1,11 @@
+---
+title: "Mitigating Object Hallucinations in Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-16922/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding
 
 Status: excluded from the active CUA catalog after scope review.

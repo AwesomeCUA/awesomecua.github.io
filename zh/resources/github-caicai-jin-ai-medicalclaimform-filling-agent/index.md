@@ -1,3 +1,11 @@
+---
+title: "AI Medical Claim Form-Filling Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AI Medical Claim Form-Filling Agent
 
 由 LLM 驱动的浏览器智能体，可提取患者接诊数据，并自主填写和提交网页医疗理赔表单。

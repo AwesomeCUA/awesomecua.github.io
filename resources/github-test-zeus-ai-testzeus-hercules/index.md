@@ -1,3 +1,11 @@
+---
+title: "TestZeus Hercules | AwesomeCUA"
+url: https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/
+updated: 2026-11-06
+type: agent
+lang: en
+---
+
 # TestZeus Hercules
 
 Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.

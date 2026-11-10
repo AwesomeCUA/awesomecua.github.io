@@ -1,3 +1,11 @@
+---
+title: "GroundAnything-VLM | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a80a37148148aad731a9/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GroundAnything-VLM
 
 GroundAnything-VLM is an autoregressive visual grounding checkpoint that locates image targets, including GUI elements, from referring instructions.

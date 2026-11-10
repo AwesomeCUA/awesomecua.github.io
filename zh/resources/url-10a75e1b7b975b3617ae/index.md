@@ -1,3 +1,11 @@
+---
+title: "PSAI computer-use dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-10a75e1b7b975b3617ae/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # PSAI computer-use dataset
 
 收录 3,167 项浏览器和桌面任务的人类操作记录，每项含屏幕视频、输入事件和推理步骤，部分任务另有截图或 DOM 快照。

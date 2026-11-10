@@ -1,3 +1,11 @@
+---
+title: "Syll: Open-Source Personal Automation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-07594/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Syll: Open-Source Personal Automation with Cross-Surface Execution
 
 Syll combines tool calls, shell execution and visual GUI control in a personal-automation runtime. It turns user demonstrations into reusable skills and exposes execution logs, keyframes and approval checkpoints for inspection.
@@ -26,6 +34,18 @@ Bo Zhang, Borui Zhang, Chenghao Jiang, Minglei Shi, Xiaofeng Wang, Zheng Zhu, Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-07594/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-07594/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_07594,
+  title = {{Syll: Open-Source Personal Automation with Cross-Surface Execution}},
+  author = {{Bo Zhang} and {Borui Zhang} and {Chenghao Jiang} and {Minglei Shi} and {Xiaofeng Wang} and {Zheng Zhu} and {Jie Zhou} and {Jiwen Lu}},
+  year = {2026},
+  eprint = {2606.07594v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.07594v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T17:59:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

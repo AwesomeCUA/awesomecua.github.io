@@ -1,3 +1,11 @@
+---
+title: "Hronaut (infrastructure) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-848e19da3bdf0aeb500c/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Hronaut
 
 A local browser workspace for agents, exposed through MCP. It supports isolated task sessions, visible browser use and reconnection to existing tabs.

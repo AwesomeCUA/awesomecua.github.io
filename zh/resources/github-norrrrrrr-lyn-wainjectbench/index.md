@@ -1,3 +1,11 @@
+---
+title: "WAInjectBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-norrrrrrr-lyn-wainjectbench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # WAInjectBench
 
 WAInjectBench 针对网页交互流程中的 6 种文本和图像攻击类型，评测网页智能体的提示注入检测能力。

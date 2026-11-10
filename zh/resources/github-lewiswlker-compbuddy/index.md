@@ -1,3 +1,11 @@
+---
+title: "CompBuddy · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lewiswlker-compbuddy/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # CompBuddy
 
 CompBuddy 是后台运行的 macOS 计算机使用智能体，能够观察目标窗口并执行 Accessibility 和 CGEvent 动作，而不抢占焦点。

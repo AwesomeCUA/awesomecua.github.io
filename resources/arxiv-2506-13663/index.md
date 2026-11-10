@@ -1,3 +1,11 @@
+---
+title: "DesignCoder: Hierarchy-Aware and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-13663/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models
 
 Bibliographic record for DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunnong Chen, Shixian Ding, YingYing Zhang, Wenkai Chen, Jinzhou Du, Lingyun Sun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-13663/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-13663/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_13663,
+  title = {{DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models}},
+  author = {{Yunnong Chen} and {Shixian Ding} and {YingYing Zhang} and {Wenkai Chen} and {Jinzhou Du} and {Lingyun Sun} and {Liuqing Chen}},
+  year = {2025},
+  eprint = {2506.13663v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.13663v1},
+  note = {First published: 2025-06-16; Recorded arXiv version: v1; Recorded version updated: 2025-06-16T16:20:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

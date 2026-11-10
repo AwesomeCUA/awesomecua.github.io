@@ -1,3 +1,11 @@
+---
+title: "cua-desktop-automation-skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chrislamdev-cua-desktop-automation-skills/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cua-desktop-automation-skills
 
 Router learning system and macOS desktop automation skill pack for AI agents using Cua Driver.

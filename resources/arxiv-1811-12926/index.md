@@ -1,3 +1,11 @@
+---
+title: "Validating quantum computers using randomized… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1811-12926/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Validating quantum computers using randomized model circuits
 
 Status: excluded from the active CUA catalog after scope review.

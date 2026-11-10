@@ -1,3 +1,11 @@
+---
+title: "JARVIS-VLA: Post-Training Large-Scale… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-16365/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse
 
 Act from Visual Language Post-Training 让智能体依据视觉输入并通过操作在 Minecraft 中执行指令，其交互方式与界面操作相关。
@@ -27,6 +35,18 @@ Muyao Li, Zihao Wang, Kaichen He, Xiaojian Ma, Yitao Liang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-16365/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-16365/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_16365,
+  title = {{JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse}},
+  author = {{Muyao Li} and {Zihao Wang} and {Kaichen He} and {Xiaojian Ma} and {Yitao Liang}},
+  year = {2025},
+  eprint = {2503.16365v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.16365v2},
+  note = {First published: 2025-03-20; Recorded arXiv version: v2; Recorded version updated: 2025-09-12T17:56:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "codex-computer-use-x11 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alekseiseleznev-codex-computer-use-x11/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # codex-computer-use-x11
 
 独立的 Rust CLI 和 Model Context Protocol 插件，使 Codex Computer Use 能够在 Linux Cinnamon/X11 桌面上运行。

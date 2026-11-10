@@ -1,3 +1,11 @@
+---
+title: "Penny Wise, Pixel Foolish: Bypassing Price… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-16515/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Penny Wise, Pixel Foolish: Bypassing Price Constraints in Multimodal Agents via Visual Adversarial Perturbations
 
 Introduces PriceBlind, a visual perturbation method for controlled screenshot-based evaluation of price-constrained multimodal agents. The reported transfer experiments use a simplified single-turn coordinate-selection protocol.
@@ -26,6 +34,18 @@ Jiachen Qian, Zhaolu Kang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-16515/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-16515/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_16515,
+  title = {{Penny Wise, Pixel Foolish: Bypassing Price Constraints in Multimodal Agents via Visual Adversarial Perturbations}},
+  author = {{Jiachen Qian} and {Zhaolu Kang}},
+  year = {2026},
+  eprint = {2604.16515v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.16515v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T10:46:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

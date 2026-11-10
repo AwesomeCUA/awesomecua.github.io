@@ -1,3 +1,11 @@
+---
+title: "AI-XiaoDao Browser MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-xiaodao-ai-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AI-XiaoDao Browser MCP Server
 
 Windows local browser automation MCP server built on an embedded CEF Chromium engine exposing 334 browser control tools.

@@ -1,3 +1,11 @@
+---
+title: "AutoGUI code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zjulihongxin-autogui/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # AutoGUI code
 
 AutoGUI's functionality-annotation pipeline (collect, reject, annotate from accessibility-tree changes, verify, generate tasks), with Qwen-VL LoRA fine-tuning and lmms-eval-based grounding evaluation.

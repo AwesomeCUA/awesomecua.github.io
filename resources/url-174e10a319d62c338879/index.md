@@ -1,3 +1,11 @@
+---
+title: "GroundNext-7B-V0 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-174e10a319d62c338879/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GroundNext-7B-V0
 
 GroundNext GUI-grounding checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct with SFT then RLOO on GroundCUA desktop data; it maps a screenshot and instruction to a computer_use click call.

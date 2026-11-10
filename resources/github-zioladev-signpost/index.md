@@ -1,3 +1,11 @@
+---
+title: "Signpost WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zioladev-signpost/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Signpost WebMCP
 
 Stateless capability resolver for WebMCP enabling websites to declare and route agent-callable actions.

@@ -1,3 +1,11 @@
+---
+title: "Camoufox · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daijro-camoufox/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Camoufox
 
 Camoufox 是开源的防检测 Firefox 浏览器，具备 C++ 层级的指纹轮换功能，面向网页自动化和 AI 浏览器智能体设计。

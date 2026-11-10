@@ -1,3 +1,11 @@
+---
+title: "WebCanvas: Benchmarking Web Agents in Online… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-12373/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # WebCanvas: Benchmarking Web Agents in Online Environments
 
 Introduces WebCanvas and Mind2Web-Live, evaluating online task progress through meaningful intermediate states on changing websites.
@@ -26,6 +34,18 @@ Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-12373/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-12373/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_12373,
+  title = {{WebCanvas: Benchmarking Web Agents in Online Environments}},
+  author = {{Yichen Pan} and {Dehan Kong} and {Sida Zhou} and {Cheng Cui} and {Yifei Leng} and {Bing Jiang} and {Hangyu Liu} and {Yanyi Shang} and {Shuyan Zhou} and {Tongshuang Wu} and {Zhengyang Wu}},
+  year = {2024},
+  eprint = {2406.12373v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.12373v3},
+  note = {First published: 2024-06-18; Recorded arXiv version: v3; Recorded version updated: 2024-07-16T06:19:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

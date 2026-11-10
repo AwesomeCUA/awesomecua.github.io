@@ -1,3 +1,11 @@
+---
+title: "WebQuest: A Benchmark for Multimodal QA on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-13711/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WebQuest: A Benchmark for Multimodal QA on Web Page Sequences
 
 Introduces question answering over individual screens, multiple web pages, and navigation traces to test information synthesis across views.
@@ -26,6 +34,18 @@ Maria Wang, Srinivas Sunkara, Gilles Baechler, Jason Lin, Yun Zhu, Fedir Zubach,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-13711/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-13711/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_13711,
+  title = {{WebQuest: A Benchmark for Multimodal QA on Web Page Sequences}},
+  author = {{Maria Wang} and {Srinivas Sunkara} and {Gilles Baechler} and {Jason Lin} and {Yun Zhu} and {Fedir Zubach} and {Lei Shu} and {Jindong Chen}},
+  year = {2024},
+  eprint = {2409.13711v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.13711v2},
+  note = {First published: 2024-09-06; Recorded arXiv version: v2; Recorded version updated: 2024-09-24T18:38:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

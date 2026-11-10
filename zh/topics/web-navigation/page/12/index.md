@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 12 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/12/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 12 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/12/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [agent-gauntlet-example-agent](https://awesomecua.com/zh/resources/github-konuktor-agent-gauntlet-example-agent/)
 - [agent-qa](https://awesomecua.com/zh/resources/url-f7e21b1a3ba5c58a73bc/)
 - [Agent-R](https://awesomecua.com/zh/resources/github-bytedance-seed-agent-r/)
 - [agent-ready-ui](https://awesomecua.com/zh/resources/github-dvnc-labs-agent-ready-ui/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/12/
 - [anybridge](https://awesomecua.com/zh/resources/github-justvugg-anybridge/)
 - [AnyBrowser](https://awesomecua.com/zh/resources/github-christopher-inegbedion-anybrowser/)
 - [AnythingLLM](https://awesomecua.com/zh/resources/github-mintplex-labs-anything-llm/)
+- [ANZU Superassistant (Jarvis)](https://awesomecua.com/zh/resources/github-daan298261-jarvis/)

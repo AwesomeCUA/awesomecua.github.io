@@ -1,3 +1,11 @@
+---
+title: "Towards Faithful Simulation of Human… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-20707/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Towards Faithful Simulation of Human Shopping Behavior
 
 提出 RecVerse，通过页面截图、分层记忆和轨迹级 RL 模拟购物行为；同时发布交互式电商 GUI 轨迹数据集 USB。
@@ -27,6 +35,18 @@ Jiakai Tang, Yan Mi, Jing Yu, Yang Zhang, See-Kiong Ng, Qi Cao, Fei Sun, Xu Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-20707/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-20707/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_20707,
+  title = {{Towards Faithful Simulation of Human Shopping Behavior}},
+  author = {{Jiakai Tang} and {Yan Mi} and {Jing Yu} and {Yang Zhang} and {See-Kiong Ng} and {Qi Cao} and {Fei Sun} and {Xu Chen} and {Wen Chen} and {Jian Wu} and {Han Zhu} and {Bo Zheng}},
+  year = {2026},
+  eprint = {2608.20707v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.20707v1},
+  note = {First published: 2026-08-21; Recorded arXiv version: v1; Recorded version updated: 2026-08-21T03:24:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

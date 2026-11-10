@@ -1,3 +1,11 @@
+---
+title: "Scenario-Guided LLM-based Mobile App GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-05079/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Scenario-Guided LLM-based Mobile App GUI Testing
 
 ScenGen organizes mobile GUI testing around business scenarios. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
@@ -26,6 +34,18 @@ Shengcheng Yu, Yuchen Ling, Chunrong Fang, Quan Zhou, Yi Zhao, Chunyang Chen, Sh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-05079/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-05079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_05079,
+  title = {{Scenario-Guided LLM-based Mobile App GUI Testing}},
+  author = {{Shengcheng Yu} and {Yuchen Ling} and {Chunrong Fang} and {Quan Zhou} and {Yi Zhao} and {Chunyang Chen} and {Shaomin Zhu} and {Zhenyu Chen}},
+  year = {2025},
+  eprint = {2506.05079v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.05079v4},
+  note = {First published: 2025-06-05; Recorded arXiv version: v4; Recorded version updated: 2026-05-03T08:25:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

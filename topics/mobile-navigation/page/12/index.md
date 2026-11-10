@@ -1,3 +1,11 @@
+---
+title: "Mobile navigation — computer-use…, page 12 | AwesomeCUA"
+url: https://awesomecua.com/topics/mobile-navigation/page/12/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Mobile navigation — computer-use research, page 12
 
 HTML page: https://awesomecua.com/topics/mobile-navigation/page/12/

@@ -1,3 +1,11 @@
+---
+title: "Captr for Windows · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anaishowland-captr-windows/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Captr for Windows
 
 Captr for Windows 为 CUA 数据集同步录制屏幕视频、鼠标键盘事件、DOM 快照和 Windows 无障碍树。

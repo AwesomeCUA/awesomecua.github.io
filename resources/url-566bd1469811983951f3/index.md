@@ -1,3 +1,11 @@
+---
+title: "Holo-3.1-35B-A3B-FP8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-566bd1469811983951f3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Holo-3.1-35B-A3B-FP8
 
 An FP8 checkpoint in the Holo3.1 vision-language model family for computer-use agents. The card describes web, desktop and mobile tasks and links to deployment guidance.

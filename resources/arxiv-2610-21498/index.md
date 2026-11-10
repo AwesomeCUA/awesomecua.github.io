@@ -1,3 +1,11 @@
+---
+title: "GRASE: Geometry-native Real-to-sim Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-21498/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GRASE: Geometry-native Real-to-sim Agentic Scene Modeling from Video
 
 Bibliographic record for GRASE: Geometry-native Real-to-sim Agentic Scene Modeling from Video. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhaorui Lin, Haohan Liu, Zhen Chen, Xiangru Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-21498/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-21498/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_21498,
+  title = {{GRASE: Geometry-native Real-to-sim Agentic Scene Modeling from Video}},
+  author = {{Zhaorui Lin} and {Haohan Liu} and {Zhen Chen} and {Xiangru Huang}},
+  year = {2026},
+  eprint = {2610.21498v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.21498v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T08:34:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

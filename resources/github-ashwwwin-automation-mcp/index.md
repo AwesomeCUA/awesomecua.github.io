@@ -1,3 +1,11 @@
+---
+title: "Automation MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ashwwwin-automation-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Automation MCP
 
 Automation MCP is a macOS Model Context Protocol server that provides AI agents with mouse, keyboard, window, and screen capture tools.

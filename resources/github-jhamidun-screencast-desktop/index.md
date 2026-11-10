@@ -1,3 +1,11 @@
+---
+title: "screencast-desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jhamidun-screencast-desktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # screencast-desktop
 
 Claude Code plugin where an agent drives a Windows desktop application and records the session as a narrated screencast.

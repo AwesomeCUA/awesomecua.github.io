@@ -1,3 +1,11 @@
+---
+title: "Parallel photonic reservoir computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1612-08606/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Parallel photonic reservoir computing using frequency multiplexing of neurons
 
 Status: excluded from the active CUA catalog after scope review.

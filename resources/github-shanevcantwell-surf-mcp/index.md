@@ -1,3 +1,11 @@
+---
+title: "Surf MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shanevcantwell-surf-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Surf MCP
 
 Surf MCP is a visual browser automation MCP server that lets AI agents click, type, and navigate webpages by describing visual elements.

@@ -1,3 +1,11 @@
+---
+title: "Beyond Static Leaderboards: Predictive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-19704/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

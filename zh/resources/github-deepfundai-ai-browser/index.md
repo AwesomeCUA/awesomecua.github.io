@@ -1,3 +1,11 @@
+---
+title: "AI Browser (DeepFundAI) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deepfundai-ai-browser/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # AI Browser (DeepFundAI)
 
 Electron 桌面浏览器，内置从基于 Eko 的 npm 包导入的智能体，可规划可编辑的多步工作流并操作自身标签页中的网页，同时提供聊天、定时任务和记忆功能。

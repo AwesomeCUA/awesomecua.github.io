@@ -1,3 +1,11 @@
+---
+title: "Large Language Model-based Human-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-12914/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large Language Model-based Human-Agent Collaboration for Complex Task Solving
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Sustainability-Aware Cloud Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1510-05182/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Sustainability-Aware Cloud Computing Using Virtual Carbon Tax
 
 Status: excluded from the active CUA catalog after scope review.

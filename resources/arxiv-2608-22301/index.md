@@ -1,3 +1,11 @@
+---
+title: "The Imitator Game: Benchmarking Robot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-22301/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction
 
 Status: excluded from the active CUA catalog after scope review.

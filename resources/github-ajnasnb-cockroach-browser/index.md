@@ -1,3 +1,11 @@
+---
+title: "Cockroach Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ajnasnb-cockroach-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Cockroach Browser
 
 Local-first browser automation platform for AI agents supporting isolated Chromium, Firefox, and WebKit profiles.

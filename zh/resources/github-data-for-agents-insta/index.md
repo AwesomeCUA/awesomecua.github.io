@@ -1,3 +1,11 @@
+---
+title: "InSTA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-data-for-agents-insta/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # InSTA
 
 这是网页智能体训练流程的代码，可生成网站任务、收集浏览器交互轨迹，并按判定的成功情况筛选轨迹。它还可在虚拟浏览器中运行智能体。

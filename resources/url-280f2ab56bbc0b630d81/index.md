@@ -1,3 +1,11 @@
+---
+title: "VideoAgentTrek-IDM-s1-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-280f2ab56bbc0b630d81/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # VideoAgentTrek-IDM-s1-7B
 
 Keyframe detection model for the VideoAgentTrek Video2Action pipeline, the first inverse-dynamics stage that finds GUI interaction moments in screen-recorded tutorial videos before a second model labels the actions.

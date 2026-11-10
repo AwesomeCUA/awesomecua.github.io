@@ -1,3 +1,11 @@
+---
+title: "dsh-tabbit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tabbit-browser-dsh-tabbit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-tabbit
 
 DeepSeek Harness 的官方 Tabbit Browser 插件，使 AI 智能体能够控制 Tabbit 浏览器标签页和工作区。

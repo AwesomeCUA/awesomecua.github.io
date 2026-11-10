@@ -1,3 +1,11 @@
+---
+title: "MyPCBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ljang0-mypcbench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # MyPCBench
 
 A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.

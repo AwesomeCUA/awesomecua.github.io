@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-72B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7ea46aa7d2d4470bb1f8/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # UGround-V1-72B
 
 UGround-V1-72B is a Qwen2-VL-based model for locating targets in GUI screenshots, released with weights and reported evaluations on mobile, desktop, and web screens.

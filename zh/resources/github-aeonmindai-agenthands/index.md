@@ -1,3 +1,11 @@
+---
+title: "AeonMind agenthands · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aeonmindai-agenthands/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AeonMind agenthands
 
 面向浏览器和桌面智能体的鼠标轨迹与键盘时序合成库，依据人类操作进行校准。

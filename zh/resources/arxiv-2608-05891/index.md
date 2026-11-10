@@ -1,3 +1,11 @@
+---
+title: "AppDeltaWorld: Transition-Grounded Delta… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-05891/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents
 
 AppDeltaWorld 利用受状态转换约束的检索和渲染后的视觉素材，预测生成下一移动端 UI 状态的可执行代码更新；分别评估重建保真度，以及利用生成环境进行的策略训练和适应。
@@ -27,6 +35,18 @@ Weikai Xu, Yunren Feng, Haoxiang Lei, Kun Huang, Yuxuan Liu, Kang Zhao, Xiaolin 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-05891/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-05891/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05891,
+  title = {{AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents}},
+  author = {{Weikai Xu} and {Yunren Feng} and {Haoxiang Lei} and {Kun Huang} and {Yuxuan Liu} and {Kang Zhao} and {Xiaolin Hu} and {Shuo Shang} and {Bo An}},
+  year = {2026},
+  eprint = {2608.05891v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05891v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T11:15:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

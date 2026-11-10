@@ -1,3 +1,11 @@
+---
+title: "Agentic Test-Time Scaling for WebAgents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-12276/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Agentic Test-Time Scaling for WebAgents
 
 当智能体的动作投票显示不确定性时，CATTS 增加推理计算量；论文比较投票与仲裁策略，并在 WebArena-Lite、Online-Mind2Web 和 GoBrowse 上评估这种选择性计算扩展。
@@ -27,6 +35,18 @@ Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John, Surya Krishnapillai, Michae
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-12276/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-12276/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_12276,
+  title = {{Agentic Test-Time Scaling for WebAgents}},
+  author = {{Nicholas Lee} and {Lutfi Eren Erdogan} and {Chris Joseph John} and {Surya Krishnapillai} and {Michael W. Mahoney} and {Kurt Keutzer} and {Amir Gholami}},
+  year = {2026},
+  eprint = {2602.12276v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.12276v2},
+  note = {First published: 2026-02-12; Recorded arXiv version: v2; Recorded version updated: 2026-08-14T21:25:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

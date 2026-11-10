@@ -1,3 +1,11 @@
+---
+title: "See and Think: Embodied Agent in Virtual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-15209/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # See and Think: Embodied Agent in Virtual Environment
 
 Bibliographic record for See and Think: Embodied Agent in Virtual Environment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhonghan Zhao, Wenhao Chai, Xuan Wang, Li Boyi, Shengyu Hao, Shidong Cao, Tian Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-15209/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-15209/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_15209,
+  title = {{See and Think: Embodied Agent in Virtual Environment}},
+  author = {{Zhonghan Zhao} and {Wenhao Chai} and {Xuan Wang} and {Li Boyi} and {Shengyu Hao} and {Shidong Cao} and {Tian Ye} and {Gaoang Wang}},
+  year = {2023},
+  eprint = {2311.15209v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.15209v3},
+  note = {First published: 2023-11-26; Recorded arXiv version: v3; Recorded version updated: 2024-07-09T05:01:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

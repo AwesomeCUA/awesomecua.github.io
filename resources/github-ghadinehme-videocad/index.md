@@ -1,3 +1,11 @@
+---
+title: "VideoCAD training and evaluation code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ghadinehme-videocad/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # VideoCAD training and evaluation code
 
 VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.

@@ -1,3 +1,11 @@
+---
+title: "SceneCode: Executable World Programs for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-19587/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects
 
 Status: excluded from the active CUA catalog after scope review.

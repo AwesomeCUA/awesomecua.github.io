@@ -1,3 +1,11 @@
+---
+title: "formbrake · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mikebfox-formbrake/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # formbrake
 
 Python 库和 CLI，为浏览器智能体提交表单及执行有重大后果的点击提供确定性的审批关卡。

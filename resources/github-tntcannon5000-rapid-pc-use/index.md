@@ -1,3 +1,11 @@
+---
+title: "Rapid PC Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tntcannon5000-rapid-pc-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Rapid PC Use
 
 High-speed native Windows desktop control bridge for Codex and ChatGPT desktop.

@@ -1,3 +1,11 @@
+---
+title: "Reuse, Rewrite, or Reject… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-31712/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Reuse, Rewrite, or Reject: Evidence-Constrained Trace Reuse for Repeated Mobile GUI Control
 
 提出图文模板，使移动 GUI 智能体依据当前指令和界面状态，复用、调整或舍弃以往执行中的步骤。
@@ -27,6 +35,18 @@ Bingyu Bai, Cheng Zhang, Erhu Feng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-31712/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-31712/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31712,
+  title = {{Reuse, Rewrite, or Reject: Evidence-Constrained Trace Reuse for Repeated Mobile GUI Control}},
+  author = {{Bingyu Bai} and {Cheng Zhang} and {Erhu Feng}},
+  year = {2026},
+  eprint = {2610.31712v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31712v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T03:09:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

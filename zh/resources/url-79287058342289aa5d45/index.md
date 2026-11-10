@@ -1,3 +1,11 @@
+---
+title: "AutoGUI v1 training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-79287058342289aa5d45/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # AutoGUI v1 training data
 
 基于截图的定位和图像描述样本，包含 UI 功能描述、目标坐标和边界框。

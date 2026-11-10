@@ -1,3 +1,11 @@
+---
+title: "ViGoR: Improving Visual Grounding of Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-06118/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling
 
 Bibliographic record for ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Siming Yan, Min Bai, Weifeng Chen, Xiong Zhou, Qixing Huang, Li Erran Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-06118/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-06118/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_06118,
+  title = {{ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling}},
+  author = {{Siming Yan} and {Min Bai} and {Weifeng Chen} and {Xiong Zhou} and {Qixing Huang} and {Li Erran Li}},
+  year = {2024},
+  eprint = {2402.06118v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.06118v4},
+  note = {First published: 2024-02-09; Recorded arXiv version: v4; Recorded version updated: 2025-12-22T03:14:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

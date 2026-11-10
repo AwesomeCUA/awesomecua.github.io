@@ -1,3 +1,11 @@
+---
+title: "MCU: An Evaluation Framework for Open-Ended… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-08367/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MCU: An Evaluation Framework for Open-Ended Game Agents
 
 Status: excluded from the active CUA catalog after scope review.

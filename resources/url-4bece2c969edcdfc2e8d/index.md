@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4bece2c969edcdfc2e8d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL
 
 A general vision-language model family whose release documents visual-agent behavior for computer and phone use, alongside image and video understanding.

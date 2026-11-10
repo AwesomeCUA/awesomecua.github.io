@@ -1,3 +1,11 @@
+---
+title: "Browser Use Benchmark (BU Bench) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Browser Use Benchmark (BU Bench)
 
 Browser Use Benchmark (BU Bench V2.1) 在 200 项真实网页导航和交互任务上评测浏览器智能体。

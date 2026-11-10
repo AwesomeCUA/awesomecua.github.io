@@ -1,3 +1,11 @@
+---
+title: "JarvisGUI: Towards Cross-Device GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-10451/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition
 
 JarvisGUI composes typed input-output task transformations into dynamic workflows spanning Android, Windows and Ubuntu devices. Its virtual-environment benchmark tests transfer of intermediate results, shared state and cross-device dependencies.
@@ -26,6 +34,18 @@ Zixiang Chen, Yuheng Lu, Zihao Cheng, Zeming Liu, Jizeng Bai, Ziye Huang, Zhiyin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-10451/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-10451/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_10451,
+  title = {{JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition}},
+  author = {{Zixiang Chen} and {Yuheng Lu} and {Zihao Cheng} and {Zeming Liu} and {Jizeng Bai} and {Ziye Huang} and {Zhiyin Lin} and {Zihan Li} and {Yuhang Guo} and {Yunhong Wang} and {Haifeng Wang}},
+  year = {2026},
+  eprint = {2609.10451v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.10451v1},
+  note = {First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T16:59:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

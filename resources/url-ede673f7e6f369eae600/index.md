@@ -1,3 +1,11 @@
+---
+title: "James4Ever0/the_frozen_forest | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ede673f7e6f369eae600/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # James4Ever0/the_frozen_forest
 
 A dataset archive of screen recordings paired with keyboard and mouse events. Timestamp files align video frames with recorded input actions.

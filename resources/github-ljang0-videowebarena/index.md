@@ -1,3 +1,11 @@
+---
+title: "VideoWebArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ljang0-videowebarena/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # VideoWebArena
 
 VideoWebArena evaluates web agents that use video tutorials to complete website tasks. Its released benchmark includes task configurations, environments, and an evaluation pipeline.

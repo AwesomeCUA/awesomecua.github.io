@@ -1,3 +1,11 @@
+---
+title: "Kushatish AI Browser Copilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kushatish-ai-browser-copilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Kushatish AI Browser Copilot
 
 Chrome extension providing page-aware Q&A and user-approved browser actions powered by Groq LLMs.

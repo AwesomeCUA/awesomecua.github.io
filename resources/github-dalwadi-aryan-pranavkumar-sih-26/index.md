@@ -1,3 +1,11 @@
+---
+title: "SIH26 Privacy-Preserving Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SIH26 Privacy-Preserving Browser Agent
 
 Privacy-preserving AI browser agent framework that sanitizes sensitive DOM and screen fields before LLM planning.

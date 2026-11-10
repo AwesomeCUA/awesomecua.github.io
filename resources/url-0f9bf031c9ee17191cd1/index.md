@@ -1,3 +1,11 @@
+---
+title: "DeskMind Eyes 4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0f9bf031c9ee17191cd1/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # DeskMind Eyes 4B
 
 DeskMind Eyes 4B maps an element description and screenshot to a click point for Mac applications. The release provides merged model weights and reports GUI grounding results.

@@ -1,3 +1,11 @@
+---
+title: "Agent AI: Surveying the Horizons of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-03568/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Agent AI: Surveying the Horizons of Multimodal Interaction
 
 Bibliographic record for Agent AI: Surveying the Horizons of Multimodal Interaction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zane Durante, Qiuyuan Huang, Naoki Wake, Ran Gong, Jae Sung Park, Bidipta Sarkar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-03568/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-03568/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_03568,
+  title = {{Agent AI: Surveying the Horizons of Multimodal Interaction}},
+  author = {{Zane Durante} and {Qiuyuan Huang} and {Naoki Wake} and {Ran Gong} and {Jae Sung Park} and {Bidipta Sarkar} and {Rohan Taori} and {Yusuke Noda} and {Demetri Terzopoulos} and {Yejin Choi} and {Katsushi Ikeuchi} and {Hoi Vo} and {Li Fei-Fei} and {Jianfeng Gao}},
+  year = {2024},
+  eprint = {2401.03568v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.03568v2},
+  note = {First published: 2024-01-07; Recorded arXiv version: v2; Recorded version updated: 2024-01-25T21:20:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ClawMobile · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clawmobile-clawmobile/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ClawMobile
 
 ClawMobile 是基于 OpenClaw 构建的 Android 智能体运行时，用于控制移动端应用、学习可复用技能和执行设备工作流程。

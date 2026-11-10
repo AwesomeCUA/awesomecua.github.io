@@ -1,3 +1,11 @@
+---
+title: "BuboGPT: Enabling Visual Grounding in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-08581/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs
 
 Bibliographic record for BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yang Zhao, Zhijie Lin, Daquan Zhou, Zilong Huang, Jiashi Feng, Bingyi Kang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-08581/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-08581/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_08581,
+  title = {{BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs}},
+  author = {{Yang Zhao} and {Zhijie Lin} and {Daquan Zhou} and {Zilong Huang} and {Jiashi Feng} and {Bingyi Kang}},
+  year = {2023},
+  eprint = {2307.08581v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.08581v1},
+  note = {First published: 2023-07-17; Recorded arXiv version: v1; Recorded version updated: 2023-07-17T15:51:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

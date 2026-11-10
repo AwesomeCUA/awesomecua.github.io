@@ -1,3 +1,11 @@
+---
+title: "Screen understanding — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/screen-understanding/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Screen understanding
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -1532,8 +1540,6 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   MarkForge provides deterministic, auditable Set-of-Mark badge rendering and coordinate resolution for multimodal GUI agents.
 - [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/) — Date not recorded
   Conversational desktop agent shell that observes screen context and executes local OS and GUI actions.
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/) — Date not recorded
-  Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
 - [MAWR (Machine-Aware Web Runtime)](https://awesomecua.com/resources/github-iasolutionorg-mawr/) — Date not recorded
   Open-source, Chromium-free lightweight web runtime engineered specifically for machines and AI web agents.
 - [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/) — Date not recorded

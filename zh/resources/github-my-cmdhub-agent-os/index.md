@@ -1,3 +1,11 @@
+---
+title: "Agent-OS (J.A.R.V.I.S. macOS Harness) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-my-cmdhub-agent-os/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Agent-OS (J.A.R.V.I.S. macOS Harness)
 
 以语音为主的 macOS 无障碍智能体，将屏幕状态读取为结构化文本，并验证每个 GUI 动作。

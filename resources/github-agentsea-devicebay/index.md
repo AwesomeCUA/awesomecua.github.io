@@ -1,3 +1,11 @@
+---
+title: "DeviceBay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentsea-devicebay/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # DeviceBay
 
 Python package that supplies pluggable desktop and browser devices for AI agents, with device configuration stored in SQLite or PostgreSQL.

@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-72B-Instruct-AWQ · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fe24586d646989d5c916/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL-72B-Instruct-AWQ
 
 这款经过指令微调的 Qwen2.5-VL 模型支持视觉定位，以及通过工具操作电脑和手机。仓库提供模型权重和推理示例。

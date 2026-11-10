@@ -1,3 +1,11 @@
+---
+title: "FormFactory: An Interactive Benchmarking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-01520/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents
 
 Introduces FormFactory, an interactive web-based benchmark for agents filling online forms, with varied field formats and evaluation of instruction-to-field alignment.
@@ -26,6 +34,18 @@ Bobo Li, Yuheng Wang, Hao Fei, Juncheng Li, Wei Ji, Mong-Li Lee, Wynne Hsu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-01520/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-01520/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_01520,
+  title = {{FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents}},
+  author = {{Bobo Li} and {Yuheng Wang} and {Hao Fei} and {Juncheng Li} and {Wei Ji} and {Mong-Li Lee} and {Wynne Hsu}},
+  year = {2025},
+  eprint = {2506.01520v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.01520v1},
+  note = {First published: 2025-06-02; Recorded arXiv version: v1; Recorded version updated: 2025-06-02T10:34:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

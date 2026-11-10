@@ -1,3 +1,11 @@
+---
+title: "BrowserTrack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-litepacks-browsertrack/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # BrowserTrack
 
 Local browser diagnostics collector and Model Context Protocol bridge for sharing live console/network traces with coding agents.

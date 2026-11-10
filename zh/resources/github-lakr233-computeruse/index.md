@@ -1,3 +1,11 @@
+---
+title: "ComputerUse · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lakr233-computeruse/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ComputerUse
 
 ComputerUse 是用于 macOS 自动化的 Swift 工具，可控制键盘和指针输入、捕获屏幕、管理应用并执行预定义工作流程。

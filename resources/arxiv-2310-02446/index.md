@@ -1,3 +1,11 @@
+---
+title: "Low-Resource Languages Jailbreak GPT-4 | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-02446/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Low-Resource Languages Jailbreak GPT-4
 
 Status: excluded from the active CUA catalog after scope review.

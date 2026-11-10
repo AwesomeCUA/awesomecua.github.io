@@ -1,3 +1,11 @@
+---
+title: "MobileMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magi-labs-mobilemcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MobileMCP
 
 MobileMCP lets AI agents control physical Android phones over WebSocket via an on-device AccessibilityService app without ADB or root.

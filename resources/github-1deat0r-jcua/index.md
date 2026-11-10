@@ -1,3 +1,11 @@
+---
+title: "Jcua (Jev Computer Use Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-1deat0r-jcua/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Jcua (Jev Computer Use Agent)
 
 Jcua is a cross-platform computer-use agent powered by Jev decision models across Linux, Windows, and macOS desktops.

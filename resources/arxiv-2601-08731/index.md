@@ -1,3 +1,11 @@
+---
+title: "Learning from Demonstrations via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-08731/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning from Demonstrations via Capability-Aware Goal Sampling
 
 Status: excluded from the active CUA catalog after scope review.

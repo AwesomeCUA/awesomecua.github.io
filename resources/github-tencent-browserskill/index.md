@@ -1,3 +1,11 @@
+---
+title: "Tencent BrowserSkill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencent-browserskill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Tencent BrowserSkill
 
 CLI and browser extension by Tencent that lets AI agents operate a user's logged-in browser in a non-intrusive workspace.

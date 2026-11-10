@@ -1,3 +1,11 @@
+---
+title: "WebMCP (github.com/jasonjmcghee/WebMCP) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jasonjmcghee-webmcp/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # WebMCP
 
 早期的 WebMCP 提案与代码：网站上的脚本小组件注册其工具、资源和提示词，MCP 客户端通过带令牌验证的本地 WebSocket 服务器访问它们。

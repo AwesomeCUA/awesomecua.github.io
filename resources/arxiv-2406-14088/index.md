@@ -1,3 +1,11 @@
+---
+title: "ReaL: Efficient RLHF Training of Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-14088/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ReaL: Efficient RLHF Training of Large Language Models with Parameter Reallocation
 
 Status: excluded from the active CUA catalog after scope review.

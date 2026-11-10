@@ -1,3 +1,11 @@
+---
+title: "DSH Qwen Web Bridge Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DSH Qwen Web Bridge Plugin
 
 DeepSeek Harness 插件，通过本地浏览器自动化操作已认证的 Qwen 网页会话。

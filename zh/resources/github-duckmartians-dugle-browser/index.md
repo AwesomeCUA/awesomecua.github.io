@@ -1,3 +1,11 @@
+---
+title: "Dugle Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-duckmartians-dugle-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Dugle Browser
 
 定制的 Chromium 构建版本，采用引擎级编译的设备指纹，用于隐蔽的浏览器自动化。

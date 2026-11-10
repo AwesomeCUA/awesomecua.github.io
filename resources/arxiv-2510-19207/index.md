@@ -1,3 +1,11 @@
+---
+title: "Defending Against Prompt Injection with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-19207/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Defending Against Prompt Injection with DataFilter
 
 Status: excluded from the active CUA catalog after scope review.

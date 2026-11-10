@@ -1,3 +1,11 @@
+---
+title: "VZT-Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vonzelle-vzt-vzt-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # VZT-Browser
 
 浏览器智能体，通过 MCP、CLI 和 REPL 接口操作已登录的真实浏览器，并集成 macOS Keychain 凭据。

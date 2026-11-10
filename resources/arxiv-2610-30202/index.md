@@ -1,3 +1,11 @@
+---
+title: "MPIDetector: Detecting Multi-modal Prompt… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-30202/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning
 
 MPIDetector uses few-shot prompts to detect text and visual prompt injections, with environmental web-agent injections included in its evaluation.
@@ -26,6 +34,18 @@ Yiheng Li, Jingyue Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-30202/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-30202/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_30202,
+  title = {{MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning}},
+  author = {{Yiheng Li} and {Jingyue Li}},
+  year = {2026},
+  eprint = {2610.30202v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.30202v1},
+  note = {First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T10:27:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

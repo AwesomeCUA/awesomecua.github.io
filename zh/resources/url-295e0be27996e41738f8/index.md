@@ -1,3 +1,11 @@
+---
+title: "kev-0.6b-browser-use-ONNX · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-295e0be27996e41738f8/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # kev-0.6b-browser-use-ONNX
 
 一个兼容 WebGPU 的 ONNX 浏览器操作模型，可根据目标和候选页面元素选择元素及操作，并提供用于 JavaScript 的 4 位导出版本。

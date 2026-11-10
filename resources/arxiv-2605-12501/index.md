@@ -1,3 +1,11 @@
+---
+title: "Covering Human Action Space for Computer Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-12501/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Covering Human Action Space for Computer Use: Data Synthesis and Benchmark
 
 Introduces CUActSpot to evaluate clicks, drags, drawing and other screen interactions across GUI, text, tables, canvases and natural images. A renderer-based pipeline records geometry and screenshots, then generates matching instructions and action traces for training a grounding model.
@@ -26,6 +34,18 @@ Miaosen Zhang, Xiaohan Zhao, Zhihong Tan, Zhou Huoshen, Yijia Fan, Yifan Yang, K
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-12501/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-12501/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12501,
+  title = {{Covering Human Action Space for Computer Use: Data Synthesis and Benchmark}},
+  author = {{Miaosen Zhang} and {Xiaohan Zhao} and {Zhihong Tan} and {Zhou Huoshen} and {Yijia Fan} and {Yifan Yang} and {Kai Qiu} and {Bei Liu} and {Justin Wagle} and {Chenzhong Yin} and {Mingxi Cheng} and {Ji Li} and {Qi Dai} and {Chong Luo} and {Xu Yang} and {Xin Geng} and {Baining Guo}},
+  year = {2026},
+  eprint = {2605.12501v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12501v1},
+  note = {First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "mangouse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gianlucamazza-mangouse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mangouse
 
 Compositor-agnostic Linux Wayland virtual seat and input adapter for coding and computer-use agents.

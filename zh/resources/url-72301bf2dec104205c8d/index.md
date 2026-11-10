@@ -1,3 +1,11 @@
+---
+title: "pae-data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-72301bf2dec104205c8d/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # pae-data
 
 pae-data 发布与 PAE 互联网智能体研究相关的数据，包括 WebArena 和 WebVoyager 的任务文件及模型检查点文件。

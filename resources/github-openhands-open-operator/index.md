@@ -1,3 +1,11 @@
+---
+title: "Open Operator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openhands-open-operator/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Open Operator
 
 Open Operator collects resources on computer-use agents, with task categories, benchmark summaries, and pages describing existing agent systems.

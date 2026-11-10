@@ -1,3 +1,11 @@
+---
+title: "ChilleD/WildAWM | AwesomeCUA"
+url: https://awesomecua.com/resources/url-eb8af3be965f5c0fde6a/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # ChilleD/WildAWM
 
 WildAWM provides 341 computer-use tasks across CLI, MCP, and web interfaces, with frozen task worlds and training and test splits for Harbor runs.

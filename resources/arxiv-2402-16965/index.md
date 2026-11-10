@@ -1,3 +1,11 @@
+---
+title: "WIPI: A New Web Threat for LLM-Driven Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-16965/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WIPI: A New Web Threat for LLM-Driven Web Agents
 
 Studies WIPI, a black-box indirect-instruction threat in which webpage content redirects LLM-driven web agents. Evaluation spans plugin-based agents, Web GPTs, and open-source web-agent implementations.
@@ -26,6 +34,18 @@ Fangzhou Wu, Shutong Wu, Yulong Cao, Chaowei Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-16965/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-16965/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_16965,
+  title = {{WIPI: A New Web Threat for LLM-Driven Web Agents}},
+  author = {{Fangzhou Wu} and {Shutong Wu} and {Yulong Cao} and {Chaowei Xiao}},
+  year = {2024},
+  eprint = {2402.16965v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.16965v1},
+  note = {First published: 2024-02-26; Recorded arXiv version: v1; Recorded version updated: 2024-02-26T19:01:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

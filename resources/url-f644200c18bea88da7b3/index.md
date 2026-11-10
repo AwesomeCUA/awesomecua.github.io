@@ -1,3 +1,11 @@
+---
+title: "TianXi_Action_Grounding_7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f644200c18bea88da7b3/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # TianXi_Action_Grounding_7B
 
 A 7B GUI action-grounding model from the SEA computer-use agent work, released as Qwen2_5_VL safetensors weights; its GitHub repository runs it on ScreenSpot-Pro across instruction styles and languages.

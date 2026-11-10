@@ -1,3 +1,11 @@
+---
+title: "MergeProof · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bukacdan-mergeproof/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MergeProof
 
 可安装的 Agent Skill，可录制实时浏览器验证演示并附加到拉取请求。

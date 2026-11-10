@@ -1,3 +1,11 @@
+---
+title: "CUA-Gym-Hub · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-cua-gym-hub/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # CUA-Gym-Hub
 
 CUA-Gym-Hub 提供 98 个自包含的模拟网页应用，配有确定性状态验证器，可用作 RL 训练和评测环境。

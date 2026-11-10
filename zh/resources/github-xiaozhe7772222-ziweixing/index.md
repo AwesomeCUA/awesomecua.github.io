@@ -1,3 +1,11 @@
+---
+title: "Ziweixing (紫微星) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaozhe7772222-ziweixing/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Ziweixing (紫微星)
 
 以意图为先的 Android 手机自动化智能体，具备类人触控轨迹和屏幕感知能力。

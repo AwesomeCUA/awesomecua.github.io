@@ -1,3 +1,11 @@
+---
+title: "SafeAgentBench: A Benchmark for Safe Task… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-13178/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "VisionAX · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rao-studios-visionax/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # VisionAX
 
 计算机视觉无障碍树（AX/A11Y）生成器，从原始桌面像素合成结构化 UI 树。

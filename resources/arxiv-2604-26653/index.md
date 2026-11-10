@@ -1,3 +1,11 @@
+---
+title: "AgentSim: A Platform for Verifiable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-26653/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentSim: A Platform for Verifiable Agent-Trace Simulation
 
 Status: excluded from the active CUA catalog after scope review.

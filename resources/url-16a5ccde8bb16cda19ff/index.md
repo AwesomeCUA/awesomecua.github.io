@@ -1,3 +1,11 @@
+---
+title: "VeriOS-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-16a5ccde8bb16cda19ff/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # VeriOS-Bench
 
 A dataset for training and evaluating GUI-operating OS agents on decisions to ask a person for help when autonomous action could be unreliable.

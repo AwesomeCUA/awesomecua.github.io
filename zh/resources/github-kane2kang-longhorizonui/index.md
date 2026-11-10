@@ -1,3 +1,11 @@
+---
+title: "LongHorizonUI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kane2kang-longhorizonui/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # LongHorizonUI
 
 LongHorizonUI Android 智能体代码：OCR 与 OmniParser 图标检测生成带编号的元素框供 LLM 使用；点击失败时从元素索引回退到相对或绝对坐标，并支持回滚。

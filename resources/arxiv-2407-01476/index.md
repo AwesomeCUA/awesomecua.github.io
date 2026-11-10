@@ -1,3 +1,11 @@
+---
+title: "Tree Search for Language Model Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-01476/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Tree Search for Language Model Agents
 
 Applies best-first search to agent actions within interactive web environments, allowing exploration and multistep planning at inference time. WebArena and VisualWebArena experiments examine search behavior and test-time computation.
@@ -26,6 +34,18 @@ Jing Yu Koh, Stephen McAleer, Daniel Fried, Ruslan Salakhutdinov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-01476/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-01476/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_01476,
+  title = {{Tree Search for Language Model Agents}},
+  author = {{Jing Yu Koh} and {Stephen McAleer} and {Daniel Fried} and {Ruslan Salakhutdinov}},
+  year = {2024},
+  eprint = {2407.01476v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.01476v4},
+  note = {First published: 2024-07-01; Recorded arXiv version: v4; Recorded version updated: 2026-02-08T15:06:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

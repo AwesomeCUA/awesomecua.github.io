@@ -1,3 +1,11 @@
+---
+title: "Computer Use Preview | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-computer-use-preview/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Computer Use Preview
 
 Computer Use Preview runs a Gemini browser agent from natural-language requests through a CLI, with local Playwright and Browserbase backends.

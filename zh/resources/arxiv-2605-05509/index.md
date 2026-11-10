@@ -1,3 +1,11 @@
+---
+title: "WAAA! Web Adversaries Against Agentic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-05509/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # WAAA! Web Adversaries Against Agentic Browsers
 
 评估智能体浏览器面对间接提示注入之外的传统网络攻击和视觉社交工程诱饵时的表现。
@@ -27,6 +35,18 @@ Sohom Datta, Alex Nahapetyan, William Enck, Alexandros Kapravelos
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-05509/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-05509/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_05509,
+  title = {{WAAA! Web Adversaries Against Agentic Browsers}},
+  author = {{Sohom Datta} and {Alex Nahapetyan} and {William Enck} and {Alexandros Kapravelos}},
+  year = {2026},
+  eprint = {2605.05509v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.05509v1},
+  note = {First published: 2026-05-06; Recorded arXiv version: v1; Recorded version updated: 2026-05-06T23:19:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

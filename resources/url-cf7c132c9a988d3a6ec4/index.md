@@ -1,3 +1,11 @@
+---
+title: "RICO-Screen2Words | AwesomeCUA"
+url: https://awesomecua.com/resources/url-cf7c132c9a988d3a6ec4/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # RICO-Screen2Words
 
 RICO-Screen2Words pairs Android app screenshots with human screen summaries, app metadata and view hierarchies for mobile interface understanding.

@@ -1,3 +1,11 @@
+---
+title: "Agent Browser Shield · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pixiebrix-agent-browser-shield/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # Agent Browser Shield
 
 用于过滤可能不安全的智能体输入的浏览器扩展。

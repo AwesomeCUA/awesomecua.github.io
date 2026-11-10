@@ -1,3 +1,11 @@
+---
+title: "Code2World · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amap-ml-code2world/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Code2World
 
 Code2World 提供根据截图和拟执行的动作、通过可渲染代码预测安卓界面下一画面的程序，并集成 AndroidWorld 智能体。

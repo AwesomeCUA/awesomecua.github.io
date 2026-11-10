@@ -1,3 +1,11 @@
+---
+title: "Predicting atmospheric optical properties for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-02265/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Predicting atmospheric optical properties for radiative transfer computations using neural networks
 
 Status: excluded from the active CUA catalog after scope review.

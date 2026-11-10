@@ -1,3 +1,11 @@
+---
+title: "Tabtii BrowserMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tabtii-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Tabtii BrowserMCP
 
 Zero-dependency Chrome MCP server exposing 35 browser control tools to Claude and MCP clients.

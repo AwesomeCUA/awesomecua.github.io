@@ -1,3 +1,11 @@
+---
+title: "Action prediction — computer-use…, page 4 | AwesomeCUA"
+url: https://awesomecua.com/topics/action-prediction/page/4/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Action prediction — computer-use research, page 4
 
 HTML page: https://awesomecua.com/topics/action-prediction/page/4/

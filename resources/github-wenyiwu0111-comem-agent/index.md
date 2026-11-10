@@ -1,3 +1,11 @@
+---
+title: "CoMEM-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wenyiwu0111-comem-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # CoMEM-Agent
 
 A web GUI agent implementation that retrieves compact embeddings of earlier interaction trajectories as memory. The repository includes inference and training code.

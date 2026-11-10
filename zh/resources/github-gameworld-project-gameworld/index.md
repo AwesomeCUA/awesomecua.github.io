@@ -1,3 +1,11 @@
+---
+title: "GameWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gameworld-project-gameworld/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # GameWorld
 
 GameWorld 提供标准化的浏览器端评测套件，涵盖 34 款游戏和 170 项可验证任务，用于评测多模态游戏智能体。

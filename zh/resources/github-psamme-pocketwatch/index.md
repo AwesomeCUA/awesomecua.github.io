@@ -1,3 +1,11 @@
+---
+title: "Pocketwatch · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-psamme-pocketwatch/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Pocketwatch
 
 面向 iPhone 实体设备应用的 AI 测试版测试智能体，通过 macOS iPhone Mirroring 执行用户操作流程。

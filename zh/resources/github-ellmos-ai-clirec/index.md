@@ -1,3 +1,11 @@
+---
+title: "clirec · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ellmos-ai-clirec/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # clirec
 
 将人工 GUI 演示记录为人类可读、可比较差异的 CLI 文字记录，用于训练和提示计算机使用智能体。

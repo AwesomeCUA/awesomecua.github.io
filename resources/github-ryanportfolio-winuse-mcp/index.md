@@ -1,3 +1,11 @@
+---
+title: "winuse-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ryanportfolio-winuse-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # winuse-mcp
 
 Model Context Protocol server enabling Claude and MCP agents to inspect and control Windows desktop applications.

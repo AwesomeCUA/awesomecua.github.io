@@ -1,3 +1,11 @@
+---
+title: "PreAct | AwesomeCUA"
+url: https://awesomecua.com/resources/github-19pine-ai-preact/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PreAct
 
 PreAct compiles repeated computer-use agent trajectories into cached action graphs with lightweight visual verification to accelerate execution.

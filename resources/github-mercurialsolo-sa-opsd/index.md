@@ -1,3 +1,11 @@
+---
+title: "cua_reliability (SA-OPSD) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # cua_reliability (SA-OPSD)
 
 Provides the cua_reliability evaluation toolkit and reference training code for measuring stopping and abstention reliability in CUA RL.

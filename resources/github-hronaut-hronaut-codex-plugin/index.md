@@ -1,3 +1,11 @@
+---
+title: "Hronaut for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hronaut-hronaut-codex-plugin/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Hronaut for Codex
 
 A Codex plugin that connects a coding agent to the Hronaut desktop browser through an MCP server and an included skill.

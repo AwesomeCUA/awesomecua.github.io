@@ -1,3 +1,11 @@
+---
+title: "CogVLM2: Visual Language Models for Image and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-16500/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CogVLM2: Visual Language Models for Image and Video Understanding
 
 Bibliographic record for CogVLM2: Visual Language Models for Image and Video Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenyi Hong, Weihan Wang, Ming Ding, Wenmeng Yu, Qingsong Lv, Yan Wang, Yean Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-16500/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-16500/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_16500,
+  title = {{CogVLM2: Visual Language Models for Image and Video Understanding}},
+  author = {{Wenyi Hong} and {Weihan Wang} and {Ming Ding} and {Wenmeng Yu} and {Qingsong Lv} and {Yan Wang} and {Yean Cheng} and {Shiyu Huang} and {Junhui Ji} and {Zhao Xue} and {Lei Zhao} and {Zhuoyi Yang} and {Xiaotao Gu} and {Xiaohan Zhang} and {Guanyu Feng} and {Da Yin} and {Zihan Wang} and {Ji Qi} and {Xixuan Song} and {Peng Zhang} and {Debing Liu} and {Bin Xu} and {Juanzi Li} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2024},
+  eprint = {2408.16500v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.16500v1},
+  note = {First published: 2024-08-29; Recorded arXiv version: v1; Recorded version updated: 2024-08-29T12:59:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

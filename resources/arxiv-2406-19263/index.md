@@ -1,3 +1,11 @@
+---
+title: "Read Anywhere Pointed: Layout-aware GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-19263/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding
 
 Introduces Screen Point-and-Read and a hierarchical layout approach that interprets screen regions indicated by a user-selected point.
@@ -26,6 +34,18 @@ Yue Fan, Lei Ding, Ching-Chen Kuo, Shan Jiang, Yang Zhao, Xinze Guan, Jie Yang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-19263/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-19263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_19263,
+  title = {{Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding}},
+  author = {{Yue Fan} and {Lei Ding} and {Ching-Chen Kuo} and {Shan Jiang} and {Yang Zhao} and {Xinze Guan} and {Jie Yang} and {Yi Zhang} and {Xin Eric Wang}},
+  year = {2024},
+  eprint = {2406.19263v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.19263v2},
+  note = {First published: 2024-06-27; Recorded arXiv version: v2; Recorded version updated: 2024-10-25T18:16:21Z.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "Desktop Pilot MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-versoxbt-desktop-pilot-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Desktop Pilot MCP
 
 Native macOS Accessibility MCP server giving Claude and MCP clients low-latency structured control over desktop applications.

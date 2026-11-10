@@ -1,3 +1,11 @@
+---
+title: "Mobile Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-madeagents-mobile-use/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Mobile Use
 
 Android GUI agent that operates real phones through ADB with hierarchical reflection and a multi-agent framework, run from a web interface or Python and evaluated on AndroidWorld and AndroidLab.

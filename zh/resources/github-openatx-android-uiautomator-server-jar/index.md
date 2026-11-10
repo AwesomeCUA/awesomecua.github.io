@@ -1,3 +1,11 @@
+---
+title: "android-uiautomator-server-jar · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openatx-android-uiautomator-server-jar/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # android-uiautomator-server-jar
 
 一个运行在设备上的 Android UIAutomator JSON-RPC 服务，通过 app_process 启动，使电脑端脚本可以点击、导出窗口层级，并借助内置键盘输入文本。

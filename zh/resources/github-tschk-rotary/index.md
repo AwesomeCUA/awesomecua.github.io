@@ -1,3 +1,11 @@
+---
+title: "rotary (rx4) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tschk-rotary/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # rotary (rx4)
 
 Rust 智能体框架引擎，提供工具循环、会话持久化、权限门控、计算机使用基础功能和 MCP 支持。

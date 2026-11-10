@@ -1,3 +1,11 @@
+---
+title: "rrweb | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rrweb-io-rrweb/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # rrweb
 
 rrweb captures web-page state and user interactions, then reconstructs sessions for replay through its recording, replay, and player packages.

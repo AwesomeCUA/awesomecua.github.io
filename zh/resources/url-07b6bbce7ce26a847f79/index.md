@@ -1,3 +1,11 @@
+---
+title: "Claude for Chrome · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-07b6bbce7ce26a847f79/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Claude for Chrome
 
 用于与网站交互的 Claude 浏览器扩展。

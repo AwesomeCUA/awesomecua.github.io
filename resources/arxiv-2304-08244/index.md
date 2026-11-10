@@ -1,3 +1,11 @@
+---
+title: "API-Bank: A Comprehensive Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-08244/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs
 
 Bibliographic record for API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Minghao Li, Yingxiu Zhao, Bowen Yu, Feifan Song, Hangyu Li, Haiyang Yu, Zhoujun 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-08244/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-08244/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_08244,
+  title = {{API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs}},
+  author = {{Minghao Li} and {Yingxiu Zhao} and {Bowen Yu} and {Feifan Song} and {Hangyu Li} and {Haiyang Yu} and {Zhoujun Li} and {Fei Huang} and {Yongbin Li}},
+  year = {2023},
+  eprint = {2304.08244v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.08244v2},
+  note = {First published: 2023-04-14; Recorded arXiv version: v2; Recorded version updated: 2023-10-25T06:54:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

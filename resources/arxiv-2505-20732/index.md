@@ -1,3 +1,11 @@
+---
+title: "SPA-RL: Reinforcing LLM Agents via Stepwise… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-20732/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution
 
 Introduces SPA, a reward redistribution method for multi-step LLM agents that estimates each action’s contribution to task completion; Webshop is among its evaluations.
@@ -26,6 +34,18 @@ Hanlin Wang, Chak Tou Leong, Jiashuo Wang, Jian Wang, Wenjie Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-20732/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-20732/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_20732,
+  title = {{SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution}},
+  author = {{Hanlin Wang} and {Chak Tou Leong} and {Jiashuo Wang} and {Jian Wang} and {Wenjie Li}},
+  year = {2025},
+  eprint = {2505.20732v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.20732v1},
+  note = {First published: 2025-05-27; Recorded arXiv version: v1; Recorded version updated: 2025-05-27T05:21:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

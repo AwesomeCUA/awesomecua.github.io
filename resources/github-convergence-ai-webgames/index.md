@@ -1,3 +1,11 @@
+---
+title: "WebGames | AwesomeCUA"
+url: https://awesomecua.com/resources/github-convergence-ai-webgames/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # WebGames
 
 150 client-side web challenges in five capability domains, built to be easy for humans but hard for browsing agents, each revealing a password when solved.

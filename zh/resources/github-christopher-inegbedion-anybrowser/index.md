@@ -1,3 +1,11 @@
+---
+title: "AnyBrowser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-christopher-inegbedion-anybrowser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AnyBrowser
 
 可插拔的浏览器自动化与网页智能体运行时，支持替换 LLM 提供方和浏览器引擎。

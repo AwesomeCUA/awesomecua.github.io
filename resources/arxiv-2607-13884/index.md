@@ -1,3 +1,11 @@
+---
+title: "Experience Memory Graph: One-Shot Error… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-13884/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Experience Memory Graph: One-Shot Error Correction for Agents
 
 Bibliographic record for Experience Memory Graph: One-Shot Error Correction for Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wenjun Wang, Yuchen Fang, Fengrui Liu, Zibo Liang, Kai Zheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-13884/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-13884/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_13884,
+  title = {{Experience Memory Graph: One-Shot Error Correction for Agents}},
+  author = {{Wenjun Wang} and {Yuchen Fang} and {Fengrui Liu} and {Zibo Liang} and {Kai Zheng}},
+  year = {2026},
+  eprint = {2607.13884v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.13884v2},
+  note = {First published: 2026-07-15; Recorded arXiv version: v2; Recorded version updated: 2026-08-10T09:35:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

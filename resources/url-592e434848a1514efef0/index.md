@@ -1,3 +1,11 @@
+---
+title: "UIX-Qwen2-Mind2Web | AwesomeCUA"
+url: https://awesomecua.com/resources/url-592e434848a1514efef0/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # UIX-Qwen2-Mind2Web
 
 UIX-Qwen2 further fine-tuned on the Mind2Web training set; the MultiUI paper evaluates it on predicting the next web action from a screenshot, the task and previous actions.

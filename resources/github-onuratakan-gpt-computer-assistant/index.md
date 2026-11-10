@@ -1,3 +1,11 @@
+---
+title: "Upsonic (GPT Computer Assistant) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-onuratakan-gpt-computer-assistant/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Upsonic (GPT Computer Assistant)
 
 Upsonic (formerly GPT Computer Assistant) is a Python agent framework with MCP support and desktop screen/input automation.

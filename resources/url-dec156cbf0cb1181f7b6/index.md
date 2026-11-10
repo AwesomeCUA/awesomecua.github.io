@@ -1,3 +1,11 @@
+---
+title: "Amazon Nova Act | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/
+updated: 2026-10-17
+type: product
+lang: en
+---
+
 # Amazon Nova Act
 
 AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.

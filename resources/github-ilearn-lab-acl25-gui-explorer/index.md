@@ -1,3 +1,11 @@
+---
+title: "GUI-explorer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # GUI-explorer
 
 Android agent code that explores apps over ADB, mines transition-aware knowledge into a knowledge base behind a retrieval service, and runs an OpenAI-backed agent demo that draws on it.

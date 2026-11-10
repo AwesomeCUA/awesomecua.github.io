@@ -1,3 +1,11 @@
+---
+title: "mistudio0902-lab Chrome Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mistudio0902-lab-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mistudio0902-lab Chrome Bridge
 
 Model Context Protocol bridge enabling Claude Code and Codex to operate multiple logged-in Chrome profiles concurrently.

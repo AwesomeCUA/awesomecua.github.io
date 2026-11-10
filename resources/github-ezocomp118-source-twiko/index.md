@@ -1,3 +1,11 @@
+---
+title: "Twiko | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ezocomp118-source-twiko/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Twiko
 
 Self-hosted platform provisioning dedicated virtual computers with browsers and terminals for autonomous AI teammates.

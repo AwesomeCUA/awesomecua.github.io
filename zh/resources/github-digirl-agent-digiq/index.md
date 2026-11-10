@@ -1,3 +1,11 @@
+---
+title: "Digi-Q · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-digirl-agent-digiq/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # Digi-Q
 
 离线设备控制训练代码，学习操作价值并据此选择有潜力的操作，同时提供关联的轨迹和模型检查点。

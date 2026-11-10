@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 9 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/9/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 9 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [WebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/)
 - [WebWalker](https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/)
 - [WindTunnel](https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/)
 - [Wornpage WebMCP Conformance](https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/9/
 - [webgames](https://awesomecua.com/zh/resources/url-654e0cbc1a22b59eca47/)
 - [WebGuard](https://awesomecua.com/zh/resources/url-df10c80a8da55773154d/)
 - [WebLINX dataset](https://awesomecua.com/zh/resources/url-1517e989c470563bd08d/)
+- [weboperator-experiments](https://awesomecua.com/zh/resources/url-a12c18540006368e69ab/)

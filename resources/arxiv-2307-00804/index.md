@@ -1,3 +1,11 @@
+---
+title: "SketchMetaFace: A Learning-based Sketching… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-00804/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling
 
 Status: excluded from the active CUA catalog after scope review.

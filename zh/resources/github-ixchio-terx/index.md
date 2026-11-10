@@ -1,3 +1,11 @@
+---
+title: "TERX · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ixchio-terx/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # TERX
 
 浏览器智能体的程序性记忆与 MCP 服务器，可将重复的网页工作流编译为确定性的零 token 回放。

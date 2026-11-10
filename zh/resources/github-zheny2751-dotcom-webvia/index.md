@@ -1,3 +1,11 @@
+---
+title: "WebVIA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zheny2751-dotcom-webvia/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # WebVIA
 
 WebVIA 将探索网页并记录操作的智能体，与生成 HTML 和验证所得界面的模块连接起来。

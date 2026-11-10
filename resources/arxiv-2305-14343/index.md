@@ -1,3 +1,11 @@
+---
+title: "Video Prediction Models as Rewards for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-14343/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Video Prediction Models as Rewards for Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

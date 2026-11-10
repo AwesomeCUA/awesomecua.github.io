@@ -1,3 +1,11 @@
+---
+title: "GUI Agent Research Landscape | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harpreetsahota204-gui-agent-research-landscape/
+updated: 2026-11-10
+type: learning
+lang: en
+---
+
 # GUI Agent Research Landscape
 
 A research-landscape analysis of GUI and OS agent papers from 2016 to 2025: citation mining, keyword filtering to about 600 papers, LLM-extracted contributions, period trend tables and citation-network rankings.

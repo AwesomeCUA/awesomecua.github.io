@@ -1,3 +1,11 @@
+---
+title: "OpenVAM: Open-World Visual Attention Modeling… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-31364/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # OpenVAM: Open-World Visual Attention Modeling with VLMs
 
 Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales on static inputs.
@@ -26,6 +34,18 @@ Kiana Hooshanfar, Amirhossein Kazerouni, Alireza Hosseini, Michael Brudno, Babak
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-31364/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-31364/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_31364,
+  title = {{OpenVAM: Open-World Visual Attention Modeling with VLMs}},
+  author = {{Kiana Hooshanfar} and {Amirhossein Kazerouni} and {Alireza Hosseini} and {Michael Brudno} and {Babak Taati}},
+  year = {2026},
+  eprint = {2609.31364v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.31364v1},
+  note = {First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T14:59:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

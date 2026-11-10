@@ -1,3 +1,11 @@
+---
+title: "rebrowser-patches · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-patches/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # rebrowser-patches
 
 rebrowser-patches 修改 Puppeteer 和 Playwright，以减少浏览器自动化特征，并为这两个库提供可直接替换的程序包。

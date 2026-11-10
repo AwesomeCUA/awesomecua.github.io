@@ -1,3 +1,11 @@
+---
+title: "GUI-Net-Mini · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0627940da1b988739f75/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Net-Mini
 
 TongUI 训练混合数据：约 143K 条来自 WikiHow、Baidu Experience 和 GUI 视频的样本，加上重新处理的 AITW、AMEX、GUIAct、Mind2Web、MiniWoB 和 ShowUI 数据，以带截图的定位和导航 JSON 提供。

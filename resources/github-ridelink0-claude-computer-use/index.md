@@ -1,3 +1,11 @@
+---
+title: "Better Computer Use (Accessibility MCP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ridelink0-claude-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Better Computer Use (Accessibility MCP)
 
 Provides an accessibility-tree MCP server for Claude Code to inspect and operate Windows and macOS desktop applications without screenshots.

@@ -1,3 +1,11 @@
+---
+title: "EXG: Self-Evolving Agents with Experience… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-17721/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EXG: Self-Evolving Agents with Experience Graphs
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "windows-gui-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dcl632-windows-gui-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # windows-gui-mcp
 
 Windows GUI automation Model Context Protocol server for AI coding and computer-use agents.

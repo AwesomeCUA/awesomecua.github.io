@@ -1,3 +1,11 @@
+---
+title: "AgentLab-Knows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-farhanishmam-agentlab-knows/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # AgentLab-Knows
 
 AgentLab-Knows extends AgentLab with agent configurations for evaluating browser agents on Google Workspace Docs, Sheets and Slides tasks in the Knows benchmark.

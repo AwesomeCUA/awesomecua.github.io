@@ -1,3 +1,11 @@
+---
+title: "Sandbox0 · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sandbox0-ai-sandbox0/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Sandbox0
 
 Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储卷以及亚秒级 microVM 和容器恢复。

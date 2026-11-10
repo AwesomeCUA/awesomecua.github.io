@@ -1,3 +1,11 @@
+---
+title: "Webcmd · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentrhq-webcmd/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Webcmd
 
 Webcmd 在智能体浏览网站时捕获并索引网站导航上下文，将网站结构编译为可复用的本地记忆技能。

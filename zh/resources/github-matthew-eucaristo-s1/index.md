@@ -1,3 +1,11 @@
+---
+title: "s1 · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-matthew-eucaristo-s1/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # s1
 
 s1 是以语音为主要交互方式的 macOS 计算机使用智能体，可检查无障碍树、执行 UI 动作并显示可审查的步骤记录。

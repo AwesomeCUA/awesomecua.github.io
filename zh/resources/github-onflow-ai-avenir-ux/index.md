@@ -1,3 +1,11 @@
+---
+title: "Avenir-UX · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-onflow-ai-avenir-ux/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Avenir-UX
 
 Avenir-UX 执行网页任务，并在智能体操作后评估界面易用性；它结合用户画像和逐步评分，生成会话报告。

@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 4B WA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-807dadc7dc4ba995bbbe/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # OS-Genesis 4B WA
 
 The WebArena-oriented InternVL2-4B checkpoint trained on web trajectories generated through OS-Genesis reverse task synthesis, predicting the next thought and action from an instruction, history and page.

@@ -1,3 +1,11 @@
+---
+title: "MemGPT: Towards LLMs as Operating Systems | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-08560/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MemGPT: Towards LLMs as Operating Systems
 
 Bibliographic record for MemGPT: Towards LLMs as Operating Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Sto
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-08560/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-08560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_08560,
+  title = {{MemGPT: Towards LLMs as Operating Systems}},
+  author = {{Charles Packer} and {Sarah Wooders} and {Kevin Lin} and {Vivian Fang} and {Shishir G. Patil} and {Ion Stoica} and {Joseph E. Gonzalez}},
+  year = {2023},
+  eprint = {2310.08560v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.08560v2},
+  note = {First published: 2023-10-12; Recorded arXiv version: v2; Recorded version updated: 2024-02-12T18:59:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

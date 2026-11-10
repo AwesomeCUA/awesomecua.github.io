@@ -1,3 +1,11 @@
+---
+title: "Resume Autofill Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ccc-zach-resume-autofill-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Resume Autofill Agent
 
 AI browser agent and Chrome extension that parses resumes and autonomously fills complex job-application web forms.

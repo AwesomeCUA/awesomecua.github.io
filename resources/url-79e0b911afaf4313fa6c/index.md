@@ -1,3 +1,11 @@
+---
+title: "Process Discovery | AwesomeCUA"
+url: https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Process Discovery
 
 An enterprise process-discovery product that captures activity across desktops and web apps, then maps workflows to identify patterns and automation opportunities.

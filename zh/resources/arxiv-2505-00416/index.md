@@ -1,3 +1,11 @@
+---
+title: "ScaleTrack: Scaling and back-tracking… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-00416/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ScaleTrack: Scaling and back-tracking Automated GUI Agents
 
 ScaleTrack 结合统一收集的 GUI 定位样本与规划目标，在预测下一步动作时重建先前动作。这种反向预测在智能体训练中将当前截图与交互历史关联起来。
@@ -27,6 +35,18 @@ Jing Huang, Zhixiong Zeng, Wenkang Han, Yufeng Zhong, Liming Zheng, Shuai Fu, Ji
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-00416/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-00416/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_00416,
+  title = {{ScaleTrack: Scaling and back-tracking Automated GUI Agents}},
+  author = {{Jing Huang} and {Zhixiong Zeng} and {Wenkang Han} and {Yufeng Zhong} and {Liming Zheng} and {Shuai Fu} and {Jingyuan Chen} and {Lin Ma}},
+  year = {2025},
+  eprint = {2505.00416v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.00416v1},
+  note = {First published: 2025-05-01; Recorded arXiv version: v1; Recorded version updated: 2025-05-01T09:27:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

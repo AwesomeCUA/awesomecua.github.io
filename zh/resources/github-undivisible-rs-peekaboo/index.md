@@ -1,3 +1,11 @@
+---
+title: "rs_peekaboo · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-undivisible-rs-peekaboo/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # rs_peekaboo
 
 基于 Rust 的原生跨平台计算机使用 CLI 和库，用于桌面窗口检查、截图和输入自动化。

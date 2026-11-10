@@ -1,3 +1,11 @@
+---
+title: "Structure-BiEval: A Self-Supervised… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-19923/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Structure-BiEval: A Self-Supervised, Dual-Track Framework for Decoupling Structure and Content in LLM Evaluation for Web Information Systems
 
 Status: excluded from the active CUA catalog after scope review.

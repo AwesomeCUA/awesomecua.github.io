@@ -1,3 +1,11 @@
+---
+title: "Caution for the Environment: Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2408-02544/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions
 
 通过模拟数据集和 3 种感知模式，衡量无关 GUI 内容对多模态智能体的影响；还研究对抗性环境注入及提高指令遵循程度的可能方法。
@@ -27,6 +35,18 @@ Xinbei Ma, Yiting Wang, Yao Yao, Tongxin Yuan, Aston Zhang, Zhuosheng Zhang, Hai
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2408-02544/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2408-02544/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_02544,
+  title = {{Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions}},
+  author = {{Xinbei Ma} and {Yiting Wang} and {Yao Yao} and {Tongxin Yuan} and {Aston Zhang} and {Zhuosheng Zhang} and {Hai Zhao}},
+  year = {2024},
+  eprint = {2408.02544v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.02544v3},
+  note = {First published: 2024-08-05; Recorded arXiv version: v3; Recorded version updated: 2025-09-05T09:21:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

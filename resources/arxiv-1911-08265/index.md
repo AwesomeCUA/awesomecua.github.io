@@ -1,3 +1,11 @@
+---
+title: "Mastering Atari, Go, Chess and Shogi by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1911-08265/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
 
 Status: excluded from the active CUA catalog after scope review.

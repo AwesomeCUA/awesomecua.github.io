@@ -1,3 +1,11 @@
+---
+title: "wix-editor-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-naieum-wix-editor-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # wix-editor-mcp
 
 Model Context Protocol 服务器，用于在经典版 Wix Editor 中自动处理页面布局、文本、图像和 SEO。

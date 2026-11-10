@@ -1,3 +1,11 @@
+---
+title: "Browser Agent (github.com/rkvalandas/bro… · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rkvalandas-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Browser Agent
 
 Python 智能体通过 CDP 将 Playwright 连接到本地 Chrome，把 DOM 中可见交互元素映射为编号 ID，再由 LLM 浏览、点击、输入、选择并向用户询问缺失信息。

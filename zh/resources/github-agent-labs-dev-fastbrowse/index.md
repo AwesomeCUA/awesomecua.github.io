@@ -1,3 +1,11 @@
+---
+title: "fastbrowse · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agent-labs-dev-fastbrowse/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # fastbrowse
 
 浏览器智能体由 TypeSafe Jev 通过 CDP 从页面索引控件中选择操作，LLM 负责规划和阅读，代码控制输入、机密信息及不可逆步骤；回答引用页面原文。

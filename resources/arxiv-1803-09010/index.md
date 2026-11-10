@@ -1,3 +1,11 @@
+---
+title: "Datasheets for Datasets | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1803-09010/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Datasheets for Datasets
 
 Bibliographic record for Datasheets for Datasets. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Han
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1803-09010/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1803-09010/citation.csl.json
+
+```bibtex
+@misc{arxiv_1803_09010,
+  title = {{Datasheets for Datasets}},
+  author = {{Timnit Gebru} and {Jamie Morgenstern} and {Briana Vecchione} and {Jennifer Wortman Vaughan} and {Hanna Wallach} and {Hal Daumé} and {Kate Crawford}},
+  year = {2018},
+  eprint = {1803.09010v8},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1803.09010v8},
+  note = {First published: 2018-03-23; Recorded arXiv version: v8; Recorded version updated: 2021-12-01T20:29:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AccoMontage2: A Complete Harmonization and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2209-00353/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AccoMontage2: A Complete Harmonization and Accompaniment Arrangement System
 
 Bibliographic record for AccoMontage2: A Complete Harmonization and Accompaniment Arrangement System. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Li Yi, Haochen Hu, Jingwei Zhao, Gus Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2209-00353/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2209-00353/citation.csl.json
+
+```bibtex
+@misc{arxiv_2209_00353,
+  title = {{AccoMontage2: A Complete Harmonization and Accompaniment Arrangement System}},
+  author = {{Li Yi} and {Haochen Hu} and {Jingwei Zhao} and {Gus Xia}},
+  year = {2022},
+  eprint = {2209.00353v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2209.00353v1},
+  note = {First published: 2022-09-01; Recorded arXiv version: v1; Recorded version updated: 2022-09-01T10:42:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

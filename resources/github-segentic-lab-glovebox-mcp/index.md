@@ -1,3 +1,11 @@
+---
+title: "glovebox-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-segentic-lab-glovebox-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # glovebox-mcp
 
 Sandboxed computer-use MCP server that lets AI agents drive browsers and desktop apps inside an isolated nested X11 window.

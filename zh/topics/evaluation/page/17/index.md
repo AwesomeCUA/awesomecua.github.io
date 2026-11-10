@@ -1,3 +1,11 @@
+---
+title: "评测：Computer-Use 研究与资源（第 17 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/17/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 17 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/17/
@@ -53,7 +61,6 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/17/
 - [MobileWorldBench](https://awesomecua.com/zh/resources/github-jacklishufan-mobileworld/)
 - [MWMBench](https://awesomecua.com/zh/resources/url-a3ea3a844de7dd8a6792/)
 - [MyPCBench](https://awesomecua.com/zh/resources/github-ljang0-mypcbench/)
-- [Navi-Bench](https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/)
 - [Next-Gen CAPTCHAs](https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/)
 - [Nightshift](https://awesomecua.com/zh/resources/github-yayaq1-nightshift/)
 - [Odysseys](https://awesomecua.com/zh/resources/github-ljang0-odysseys/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/17/
 - [Open CaptchaWorld](https://awesomecua.com/zh/resources/github-metaagentx-opencaptchaworld/)
 - [Open Operator Evals](https://awesomecua.com/zh/resources/github-nottelabs-open-operator-evals/)
 - [Open User](https://awesomecua.com/zh/resources/github-tiacoo-open-user/)
+- [openadapt-evals](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-evals/)

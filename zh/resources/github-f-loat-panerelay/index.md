@@ -1,3 +1,11 @@
+---
+title: "Panerelay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-f-loat-panerelay/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Panerelay
 
 面向 Chrome 和 Edge 上的 AI 智能体，提供通过浏览器身份认证的抓取功能，以及连接现有浏览器的 CDP 桥接功能。

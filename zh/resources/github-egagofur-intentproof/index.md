@@ -1,3 +1,11 @@
+---
+title: "Intentproof · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-egagofur-intentproof/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Intentproof
 
 由 AI 驱动的端到端验证编排工具和交互式浏览器测试框架。

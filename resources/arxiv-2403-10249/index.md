@@ -1,3 +1,11 @@
+---
+title: "A Survey on Game Playing Agents and Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-10249/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges
 
 Bibliographic record for A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xinrun Xu, Yuxin Wang, Chaoyi Xu, Ziluo Ding, Jiechuan Jiang, Zhiming Ding, Bör
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-10249/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-10249/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_10249,
+  title = {{A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges}},
+  author = {{Xinrun Xu} and {Yuxin Wang} and {Chaoyi Xu} and {Ziluo Ding} and {Jiechuan Jiang} and {Zhiming Ding} and {Börje F. Karlsson}},
+  year = {2024},
+  eprint = {2403.10249v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.10249v1},
+  note = {First published: 2024-03-15; Recorded arXiv version: v1; Recorded version updated: 2024-03-15T12:37:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

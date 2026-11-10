@@ -1,3 +1,11 @@
+---
+title: "Peekaboo · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openclaw-peekaboo/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Peekaboo
 
 Peekaboo 是面向计算机使用智能体的 macOS CLI 和 MCP 服务器，支持屏幕捕获、无障碍元素定位和 GUI 自动化。

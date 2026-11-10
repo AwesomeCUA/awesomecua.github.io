@@ -1,3 +1,11 @@
+---
+title: "WebVIA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # WebVIA
 
 WebVIA links an agent that explores web pages and records actions to modules that generate HTML and verify the resulting interface.

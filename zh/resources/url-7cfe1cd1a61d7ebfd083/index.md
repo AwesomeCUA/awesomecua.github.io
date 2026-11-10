@@ -1,3 +1,11 @@
+---
+title: "Co-Design Bench (huggingface.co/dataset… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7cfe1cd1a61d7ebfd083/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Co-Design Bench
 
 Co-Design Bench 用 96 个带标注截图的编辑任务和 521 项标准，根据源代码及浏览器证据评估智能体对多模态请求所做的应用修改。

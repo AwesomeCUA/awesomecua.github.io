@@ -1,3 +1,11 @@
+---
+title: "OpenAdapt Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-agent/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # OpenAdapt Agent
 
 OpenAdapt Agent exposes demonstrated application workflows as callable tools for AI agents. It enters values in an app and checks the record before and after saving.

@@ -1,3 +1,11 @@
+---
+title: "System1-Agents · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thinkflowlab-system1-agents/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # System1-Agents
 
 在 openJiuwen 智能体中接入 Jev、Laya 或 Cua-S1 等 System 1 决策模型，每步选择一个类型化选项；提供浏览器、桌面应用、游戏、ALFWorld 及工单路由智能体。

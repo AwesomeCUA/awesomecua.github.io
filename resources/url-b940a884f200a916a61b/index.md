@@ -1,3 +1,11 @@
+---
+title: "Steel Cloud | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b940a884f200a916a61b/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Steel Cloud
 
 Managed browser infrastructure associated with Steel Browser.

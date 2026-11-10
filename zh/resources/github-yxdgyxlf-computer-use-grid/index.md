@@ -1,3 +1,11 @@
+---
+title: "computer-use-grid · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yxdgyxlf-computer-use-grid/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # computer-use-grid
 
 通过截图网格覆盖层和迭代式缩放细化，提高 AI 计算机使用智能体点击桌面的精度。

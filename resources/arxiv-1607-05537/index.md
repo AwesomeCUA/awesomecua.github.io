@@ -1,3 +1,11 @@
+---
+title: "Scientific Computing Using Consumer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1607-05537/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scientific Computing Using Consumer Video-Gaming Hardware Devices
 
 Status: excluded from the active CUA catalog after scope review.

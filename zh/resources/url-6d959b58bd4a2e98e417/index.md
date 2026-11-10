@@ -1,3 +1,11 @@
+---
+title: "UI-Genie Agent 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6d959b58bd4a2e98e417/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # UI-Genie Agent 7B
 
 基于 Qwen2.5-VL 的移动端动作模型，使用现有轨迹和 UI-Genie 框架生成的奖励引导合成轨迹训练。

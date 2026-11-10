@@ -1,3 +1,11 @@
+---
+title: "Building and better understanding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-12637/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Building and better understanding vision-language models: insights and future directions
 
 Bibliographic record for Building and better understanding vision-language models: insights and future directions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hugo Laurençon, Andrés Marafioti, Victor Sanh, Léo Tronchon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-12637/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-12637/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_12637,
+  title = {{Building and better understanding vision-language models: insights and future directions}},
+  author = {{Hugo Laurençon} and {Andrés Marafioti} and {Victor Sanh} and {Léo Tronchon}},
+  year = {2024},
+  eprint = {2408.12637v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.12637v1},
+  note = {First published: 2024-08-22; Recorded arXiv version: v1; Recorded version updated: 2024-08-22T17:47:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

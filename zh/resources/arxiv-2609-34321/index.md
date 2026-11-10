@@ -1,3 +1,11 @@
+---
+title: "One Rollout Is All You Get: Fully… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-34321/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # One Rollout Is All You Get: Fully Test-Time Adaptation for GUI Agents
 
 该研究设定每项到来的 GUI 任务只有 1 次计入评估的尝试，且没有真实标签反馈。SOLO 筛选已完成的任务过程或重新标注，再根据智能体近期的自身经验更新小型适配器。
@@ -27,6 +35,18 @@ Ziqiang Wang, Li Gu, Zhixiang Chi, Linlian Jiang, Zihuan Jiang, Linqiang Guo, Si
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-34321/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-34321/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34321,
+  title = {{One Rollout Is All You Get: Fully Test-Time Adaptation for GUI Agents}},
+  author = {{Ziqiang Wang} and {Li Gu} and {Zhixiang Chi} and {Linlian Jiang} and {Zihuan Jiang} and {Linqiang Guo} and {Siobhan Reid} and {Zhi Liu} and {Yang Wang}},
+  year = {2026},
+  eprint = {2609.34321v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34321v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T05:00:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "OpenSider | AwesomeCUA"
+url: https://awesomecua.com/resources/github-parksben-opensider/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OpenSider
 
 Browser side-panel extension that connects webpages to local Agent CLIs speaking the Agent Communication Protocol (ACP).

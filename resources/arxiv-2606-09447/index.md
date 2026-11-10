@@ -1,3 +1,11 @@
+---
+title: "AliyunConsoleAgent: Training Web Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-09447/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AliyunConsoleAgent: Training Web Agents in Real-World Cloud Environments via Distillation and Reinforcement Learning
 
 AliyunConsoleAgent trains browser agents to verify documented procedures against changing cloud-console UIs through trajectory distillation and online GRPO. Provisioned rollout environments and backend audit-log checks support training and outcome evaluation.
@@ -26,6 +34,18 @@ Bojie Rong, Zheyu Shen, Qiaoping Wang, Pengfei Kang, Yang Xu, Yawen Wei, Hanyu W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-09447/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-09447/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_09447,
+  title = {{AliyunConsoleAgent: Training Web Agents in Real-World Cloud Environments via Distillation and Reinforcement Learning}},
+  author = {{Bojie Rong} and {Zheyu Shen} and {Qiaoping Wang} and {Pengfei Kang} and {Yang Xu} and {Yawen Wei} and {Hanyu Wu} and {Zhi Zhao} and {Leihao Pei} and {Linquan Jiang}},
+  year = {2026},
+  eprint = {2606.09447v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.09447v1},
+  note = {First published: 2026-06-08; Recorded arXiv version: v1; Recorded version updated: 2026-06-08T12:55:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Brain-Inspired Reservoir Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-16331/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Brain-Inspired Reservoir Computing Using Memristors with Tunable Dynamics and Short-Term Plasticity
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "PCBWorld: A Benchmark Environment for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-05915/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation
 
 Bibliographic record for PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hyungseok Song, Junseok Park, Won-Seok Choi, Seohui Bae, Han-Seul Jeong, Youngjo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-05915/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-05915/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_05915,
+  title = {{PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation}},
+  author = {{Hyungseok Song} and {Junseok Park} and {Won-Seok Choi} and {Seohui Bae} and {Han-Seul Jeong} and {Youngjoon Park} and {Soonyoung Lee}},
+  year = {2026},
+  eprint = {2607.05915v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.05915v4},
+  note = {First published: 2026-07-07; Recorded arXiv version: v4; Recorded version updated: 2026-09-11T12:16:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

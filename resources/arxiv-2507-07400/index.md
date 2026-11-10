@@ -1,3 +1,11 @@
+---
+title: "KVFlow: Efficient Prefix Caching for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-07400/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows
 
 Status: excluded from the active CUA catalog after scope review.

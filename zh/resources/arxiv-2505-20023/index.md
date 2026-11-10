@@ -1,3 +1,11 @@
+---
+title: "Training LLM-Based Agents with Synthetic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-20023/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking
 
 STeP 利用含错误反思与修正的合成轨迹训练智能体，并遮蔽不佳步骤；WebShop 是其三项评测任务之一。
@@ -27,6 +35,18 @@ Yihan Chen, Benfeng Xu, Xiaorui Wang, Yongdong Zhang, Zhendong Mao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-20023/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-20023/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_20023,
+  title = {{Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking}},
+  author = {{Yihan Chen} and {Benfeng Xu} and {Xiaorui Wang} and {Yongdong Zhang} and {Zhendong Mao}},
+  year = {2025},
+  eprint = {2505.20023v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.20023v1},
+  note = {First published: 2025-05-26; Recorded arXiv version: v1; Recorded version updated: 2025-05-26T14:11:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

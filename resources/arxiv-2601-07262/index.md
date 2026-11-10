@@ -1,3 +1,11 @@
+---
+title: "ColorBrowserAgent: Complex Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-07262/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution
 
 ColorBrowserAgent converts human feedback into reusable website knowledge and uses that knowledge to guide progressive context summaries. It evaluates the resulting memory and adaptation mechanisms on long browser workflows.
@@ -26,6 +34,18 @@ Jihong Wang, Jiamu Zhou, Weiming Zhang, Teng Wang, Weiwen Liu, Zhuosheng Zhang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-07262/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-07262/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_07262,
+  title = {{ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution}},
+  author = {{Jihong Wang} and {Jiamu Zhou} and {Weiming Zhang} and {Teng Wang} and {Weiwen Liu} and {Zhuosheng Zhang} and {Xingyu Lou} and {Weinan Zhang} and {Huarong Deng} and {Jun Wang}},
+  year = {2026},
+  eprint = {2601.07262v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.07262v3},
+  note = {First published: 2026-01-12; Recorded arXiv version: v3; Recorded version updated: 2026-04-23T09:34:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

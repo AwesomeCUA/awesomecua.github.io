@@ -1,3 +1,11 @@
+---
+title: "Establishing Best Practices for Building… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-02825/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Establishing Best Practices for Building Rigorous Agentic Benchmarks
 
 Bibliographic record for Establishing Best Practices for Building Rigorous Agentic Benchmarks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Say
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-02825/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-02825/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_02825,
+  title = {{Establishing Best Practices for Building Rigorous Agentic Benchmarks}},
+  author = {{Yuxuan Zhu} and {Tengjun Jin} and {Yada Pruksachatkun} and {Andy Zhang} and {Shu Liu} and {Sasha Cui} and {Sayash Kapoor} and {Shayne Longpre} and {Kevin Meng} and {Rebecca Weiss} and {Fazl Barez} and {Rahul Gupta} and {Jwala Dhamala} and {Jacob Merizian} and {Mario Giulianelli} and {Harry Coppock} and {Cozmin Ududec} and {Jasjeet Sekhon} and {Jacob Steinhardt} and {Antony Kellermann} and {Sarah Schwettmann} and {Matei Zaharia} and {Ion Stoica} and {Percy Liang} and {Daniel Kang}},
+  year = {2025},
+  eprint = {2507.02825v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.02825v5},
+  note = {First published: 2025-07-03; Recorded arXiv version: v5; Recorded version updated: 2025-08-07T06:58:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

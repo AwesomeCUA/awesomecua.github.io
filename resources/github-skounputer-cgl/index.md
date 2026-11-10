@@ -1,3 +1,11 @@
+---
+title: "CGL (Continual GUI Learning) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-skounputer-cgl/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CGL (Continual GUI Learning)
 
 CGL advances continual GUI agent learning across evolving domains via reinforcement fine-tuning without catastrophic forgetting.

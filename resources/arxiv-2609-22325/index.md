@@ -1,3 +1,11 @@
+---
+title: "ReliCAD: From Uncertain LLM Generation to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-22325/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ReliCAD: From Uncertain LLM Generation to Reliable Parametric CAD Modeling
 
 Bibliographic record for ReliCAD: From Uncertain LLM Generation to Reliable Parametric CAD Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Peng Zheng, Xintong Dong, Chuanyang Li, Jiaxin Jing, Chuqi Han, Hailong Shen, Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-22325/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-22325/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_22325,
+  title = {{ReliCAD: From Uncertain LLM Generation to Reliable Parametric CAD Modeling}},
+  author = {{Peng Zheng} and {Xintong Dong} and {Chuanyang Li} and {Jiaxin Jing} and {Chuqi Han} and {Hailong Shen} and {Yanzhi Song} and {Zhouwang Yang}},
+  year = {2026},
+  eprint = {2609.22325v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.22325v1},
+  note = {First published: 2026-09-16; Recorded arXiv version: v1; Recorded version updated: 2026-09-16T07:11:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

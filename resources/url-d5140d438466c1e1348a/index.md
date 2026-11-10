@@ -1,3 +1,11 @@
+---
+title: "CUAVerifierBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d5140d438466c1e1348a/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # CUAVerifierBench
 
 Human-annotated browser-agent trajectories for comparing automated task-success and process-quality verifiers against reviewer judgments.

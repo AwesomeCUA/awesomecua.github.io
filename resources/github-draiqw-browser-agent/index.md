@@ -1,3 +1,11 @@
+---
+title: "draiqw browser-agent (bu_mcp) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-draiqw-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # draiqw browser-agent (bu_mcp)
 
 Enhanced Browser-Use distribution adding the `bu_mcp` Model Context Protocol layer over autonomous web navigation.

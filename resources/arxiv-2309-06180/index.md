@@ -1,3 +1,11 @@
+---
+title: "Efficient Memory Management for Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-06180/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Memory Management for Large Language Model Serving with PagedAttention
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "DSH Mobile GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kunjinkao-os-dsh-mobile-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DSH Mobile GUI Agent
 
 Android Mobile GUI Agent plugin for DeepSeek Harness featuring ADB actuation, iterative screen verification, and error recovery.

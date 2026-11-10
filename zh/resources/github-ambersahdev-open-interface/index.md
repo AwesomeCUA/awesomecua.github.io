@@ -1,3 +1,11 @@
+---
+title: "Open Interface · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ambersahdev-open-interface/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Open Interface
 
 Open Interface 是跨平台桌面应用，通过 LLM 将自然语言请求转化为 GUI 鼠标和键盘动作。

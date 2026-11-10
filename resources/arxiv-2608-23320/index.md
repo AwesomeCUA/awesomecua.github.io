@@ -1,3 +1,11 @@
+---
+title: "ROS2SmolVLA: Enabling Small… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-23320/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots
 
 Status: excluded from the active CUA catalog after scope review.

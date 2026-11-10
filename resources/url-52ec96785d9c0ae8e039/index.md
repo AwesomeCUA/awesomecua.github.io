@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-3B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-52ec96785d9c0ae8e039/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL-3B-Instruct
 
 An instruction-tuned vision-language checkpoint that reads visual layouts, localizes points or boxes, and supports computer and phone use. Its card reports screen and mobile-agent evaluations.

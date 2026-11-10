@@ -1,3 +1,11 @@
+---
+title: "Dev Browser Eval | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sawyerhood-dev-browser-eval/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Dev Browser Eval
 
 Dev Browser Eval compares three browser automation methods on tasks in a game-tracker web application and generates a report from repeated runs.

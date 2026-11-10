@@ -1,3 +1,11 @@
+---
+title: "WebMCP - Model Context Tool Inspector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-beaufortfrancois-model-context-tool-inspector/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # WebMCP - Model Context Tool Inspector
 
 一个 Chrome 扩展在侧边栏显示网页暴露的 WebMCP 工具，供开发者检查并执行这些工具。

@@ -1,3 +1,11 @@
+---
+title: "Gelato-30B-A3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-46502d87b2c13515790a/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Gelato-30B-A3B
 
 Qwen3-VL-30B-A3B-Instruct checkpoint trained with GRPO on Click-100k that returns one (x,y) click point, normalized to 0–1000, for a screenshot and an element description.

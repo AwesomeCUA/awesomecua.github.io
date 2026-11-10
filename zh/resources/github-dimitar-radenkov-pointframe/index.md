@@ -1,3 +1,11 @@
+---
+title: "Pointframe · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dimitar-radenkov-pointframe/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Pointframe
 
 MCP 服务器和 CLI，让编程智能体借助带签名的截图证据检查、操作和验证原生 Windows UI 应用。

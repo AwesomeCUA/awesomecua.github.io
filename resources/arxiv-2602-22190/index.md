@@ -1,3 +1,11 @@
+---
+title: "GUI-Libra: Training Native GUI Agents to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-22190/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL
 
 GUI-Libra trains GUI agents with action-aware supervision, a curated reasoning dataset and reinforcement learning adapted to partially verifiable actions across web and mobile tasks.
@@ -26,6 +34,18 @@ Rui Yang, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-22190/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-22190/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_22190,
+  title = {{GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL}},
+  author = {{Rui Yang} and {Qianhui Wu} and {Zhaoyang Wang} and {Hanyang Chen} and {Ke Yang} and {Hao Cheng} and {Huaxiu Yao} and {Baolin Peng} and {Huan Zhang} and {Jianfeng Gao} and {Tong Zhang}},
+  year = {2026},
+  eprint = {2602.22190v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.22190v2},
+  note = {First published: 2026-02-25; Recorded arXiv version: v2; Recorded version updated: 2026-05-25T21:32:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

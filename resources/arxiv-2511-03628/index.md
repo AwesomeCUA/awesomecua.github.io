@@ -1,3 +1,11 @@
+---
+title: "LiveTradeBench: Seeking Real-World Alpha with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-03628/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LiveTradeBench: Seeking Real-World Alpha with Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

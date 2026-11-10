@@ -1,3 +1,11 @@
+---
+title: "Assessment of various Hamiltonian… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-10189/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Assessment of various Hamiltonian partitionings for the electronic structure problem on a quantum computer using the Trotter approximation
 
 Status: excluded from the active CUA catalog after scope review.

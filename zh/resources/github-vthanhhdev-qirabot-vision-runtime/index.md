@@ -1,3 +1,11 @@
+---
+title: "NeuroSight (QiraBot Vision Runtime) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vthanhhdev-qirabot-vision-runtime/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # NeuroSight (QiraBot Vision Runtime)
 
 无需选择器的 AI 视觉自动化运行环境，适用于桌面应用、移动端屏幕和游戏。

@@ -1,3 +1,11 @@
+---
+title: "Surfer 2 · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-efd78f56fcde1f4f05e5/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Surfer 2
 
 Surfer 2 是面向桌面、网页和移动设备任务的计算机使用智能体；其协调模块分配子任务，并由其他组件完成视觉定位与执行。

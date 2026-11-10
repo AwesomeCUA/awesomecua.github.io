@@ -1,3 +1,11 @@
+---
+title: "When 200 OK Is Not an Answer: Silent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-00884/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # When 200 OK Is Not an Answer: Silent Fetch Failures in Agentic Web Content Acquisition
 
 研究静态客户端和渲染浏览器抓取网页时的隐性失败，并评估 HTTP 200 响应是否含有可用内容的检查方法。
@@ -27,6 +35,18 @@ Shuyang Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-00884/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-00884/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00884,
+  title = {{When 200 OK Is Not an Answer: Silent Fetch Failures in Agentic Web Content Acquisition}},
+  author = {{Shuyang Zhang}},
+  year = {2026},
+  eprint = {2611.00884v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00884v1},
+  note = {First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T12:42:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

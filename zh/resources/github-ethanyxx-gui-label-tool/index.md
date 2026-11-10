@@ -1,3 +1,11 @@
+---
+title: "GUI Label Tool · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ethanyxx-gui-label-tool/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GUI Label Tool
 
 GUI Label Tool 在 Docker 化的 QEMU 虚拟机中记录并标注人类桌面操作轨迹，将输入事件与截图配对。

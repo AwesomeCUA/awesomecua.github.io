@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fd2143b0da03ceedf25c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # UGround-V1-2B
 
 UGround-V1-2B 基于 Qwen2-VL，用于定位界面截图中的目标元素；模型卡报告了移动端、桌面端和网页界面的评测。

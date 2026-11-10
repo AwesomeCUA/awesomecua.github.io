@@ -1,3 +1,11 @@
+---
+title: "Liha WebMCP Adapter · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-liha-app-webmcp-adapter/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Liha WebMCP Adapter
 
 为现有网站加入结构化 WebMCP 工具定义，无需修改后端代码。

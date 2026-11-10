@@ -1,3 +1,11 @@
+---
+title: "Simulation Labs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-satyamdave-simulation-labs/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Simulation Labs
 
 Behavioral CI gate where computer-use agents test signup, checkout, and onboarding flows on every deployment.

@@ -1,3 +1,11 @@
+---
+title: "browser-action-receipt | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # browser-action-receipt
 
 Verification protocol that binds human approval to target DOM state, aborting clicks and emitting a receipt if the page mutates.

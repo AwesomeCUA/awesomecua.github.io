@@ -1,3 +1,11 @@
+---
+title: "Synthetic GUI Samples Plugin for FiftyOne | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harpreetsahota204-synthetic-gui-samples-plugins/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Synthetic GUI Samples Plugin for FiftyOne
 
 A FiftyOne plugin that augments annotated GUI screenshots and task descriptions for training GUI understanding models while retaining annotations and transformation history.

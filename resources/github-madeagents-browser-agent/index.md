@@ -1,3 +1,11 @@
+---
+title: "ColorBrowserAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-madeagents-browser-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # ColorBrowserAgent
 
 A browser agent for long web tasks that compresses progress into summaries and incorporates human supplied site knowledge to guide later actions.

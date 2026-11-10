@@ -1,3 +1,11 @@
+---
+title: "GoLogin Agent Browser CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gologinlabs-agent-browser/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # GoLogin Agent Browser CLI
 
 GoLogin Agent Browser CLI lets agents inspect and act on live pages in persistent cloud or local browser profiles, with commands for sessions and profile management.

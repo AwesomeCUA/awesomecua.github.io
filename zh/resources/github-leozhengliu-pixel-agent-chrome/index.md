@@ -1,3 +1,11 @@
+---
+title: "Agent Chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leozhengliu-pixel-agent-chrome/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent Chrome
 
 Chrome Manifest V3 扩展和本地 MCP 桥接程序，让编码智能体驱动实时浏览器标签页。

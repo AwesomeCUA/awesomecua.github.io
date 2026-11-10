@@ -1,3 +1,11 @@
+---
+title: "GUIFlow: Temporal Redundancy-Aware… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34959/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents
 
 Introduces GUIFlow, an incremental inference framework that reuses visual, language, and action computation across successive GUI-agent steps.
@@ -26,6 +34,18 @@ Ye Li, Haoran Ding, Huanan Liu, Yuan Meng, Yutian Shen, Yuansong Wang, Kangye Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34959/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34959/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34959,
+  title = {{GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents}},
+  author = {{Ye Li} and {Haoran Ding} and {Huanan Liu} and {Yuan Meng} and {Yutian Shen} and {Yuansong Wang} and {Kangye Ji} and {Hanyun Cui} and {Hongbo Duan} and {Chen Tang} and {Jiawei Li} and {Shu-Tao Xia} and {Zhi Wang}},
+  year = {2026},
+  eprint = {2610.34959v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34959v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T07:25:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

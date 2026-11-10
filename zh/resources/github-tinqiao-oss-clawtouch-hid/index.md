@@ -1,3 +1,11 @@
+---
+title: "clawtouch-hid · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinqiao-oss-clawtouch-hid/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # clawtouch-hid
 
 一套 CircuitPython 固件和 Python 通信协议模块，让主机软件通过 Raspberry Pi Pico 2 USB HID 设备发送键盘和鼠标操作。

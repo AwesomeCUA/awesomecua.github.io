@@ -1,3 +1,11 @@
+---
+title: "Mobile-R1 trajectory sample | AwesomeCUA"
+url: https://awesomecua.com/resources/url-114ced4a94d12f384d69/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # Mobile-R1 trajectory sample
 
 Open sample of Mobile-R1's annotated trajectories on Chinese Android apps: 1,007 tasks whose steps pair a screenshot with a thought, a subtask and a mobile_use action such as click, swipe, type or open.

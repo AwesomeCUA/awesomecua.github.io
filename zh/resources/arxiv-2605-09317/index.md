@@ -1,3 +1,11 @@
+---
+title: "Mem-W: Latent Memory-Native GUI Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-09317/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Mem-W: Latent Memory-Native GUI Agents
 
 Mem-W 将以往轨迹和当前会话片段压缩为 GUI 策略直接使用的潜在记忆 token，并通过自蒸馏与结果监督训练该记忆表示，用于网页和移动端导航。
@@ -27,6 +35,18 @@ Guibin Zhang, Yaohui Ling, Fanci Meng, Kun Wang, Shuicheng Yan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-09317/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-09317/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_09317,
+  title = {{Mem-W: Latent Memory-Native GUI Agents}},
+  author = {{Guibin Zhang} and {Yaohui Ling} and {Fanci Meng} and {Kun Wang} and {Shuicheng Yan}},
+  year = {2026},
+  eprint = {2605.09317v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.09317v1},
+  note = {First published: 2026-05-10; Recorded arXiv version: v1; Recorded version updated: 2026-05-10T04:31:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

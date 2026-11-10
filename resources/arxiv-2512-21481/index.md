@@ -1,3 +1,11 @@
+---
+title: "The AI Committee: A Multi-Agent Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-21481/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # The AI Committee: A Multi-Agent Framework for Automated Validation and Remediation of Web-Sourced Data
 
 Bibliographic record for The AI Committee: A Multi-Agent Framework for Automated Validation and Remediation of Web-Sourced Data. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sunith Vallabhaneni, Thomas Berkane, Maimuna Majumder
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-21481/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-21481/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_21481,
+  title = {{The AI Committee: A Multi-Agent Framework for Automated Validation and Remediation of Web-Sourced Data}},
+  author = {{Sunith Vallabhaneni} and {Thomas Berkane} and {Maimuna Majumder}},
+  year = {2025},
+  eprint = {2512.21481v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.21481v1},
+  note = {First published: 2025-12-25; Recorded arXiv version: v1; Recorded version updated: 2025-12-25T03:00:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

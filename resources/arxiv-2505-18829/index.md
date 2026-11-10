@@ -1,3 +1,11 @@
+---
+title: "LiteCUA: Computer as MCP Server for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-18829/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS
 
 AIOS 1.0 exposes computer states and actions through an MCP server to provide structured environmental context for agents. LiteCUA is a lightweight agent built on this interface, evaluated on OSWorld to study the effect of computer-environment contextualization.
@@ -26,6 +34,18 @@ Kai Mei, Xi Zhu, Hang Gao, Shuhang Lin, Yongfeng Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-18829/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-18829/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_18829,
+  title = {{LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS}},
+  author = {{Kai Mei} and {Xi Zhu} and {Hang Gao} and {Shuhang Lin} and {Yongfeng Zhang}},
+  year = {2025},
+  eprint = {2505.18829v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.18829v2},
+  note = {First published: 2025-05-24; Recorded arXiv version: v2; Recorded version updated: 2025-10-31T21:48:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

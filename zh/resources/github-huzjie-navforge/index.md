@@ -1,3 +1,11 @@
+---
+title: "navforge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huzjie-navforge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # navforge
 
 navforge 是自托管编排框架，用于协调多步骤计算机使用与浏览器导航智能体。

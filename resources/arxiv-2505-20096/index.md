@@ -1,3 +1,11 @@
+---
+title: "MA-RAG: Multi-Agent Retrieval-Augmented… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-20096/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning
 
 Bibliographic record for MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Thang Nguyen, Peter Chin, Yu-Wing Tai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-20096/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-20096/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_20096,
+  title = {{MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning}},
+  author = {{Thang Nguyen} and {Peter Chin} and {Yu-Wing Tai}},
+  year = {2025},
+  eprint = {2505.20096v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.20096v2},
+  note = {First published: 2025-05-26; Recorded arXiv version: v2; Recorded version updated: 2025-10-11T16:19:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

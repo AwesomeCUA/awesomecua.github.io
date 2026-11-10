@@ -1,3 +1,11 @@
+---
+title: "DeskForge-Qwen3.5-4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9610ef3e1de63d7b647e/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # DeskForge-Qwen3.5-4B
 
 DeskForge-Qwen3.5-4B 是桌面图形界面模型，可根据截图和指令生成下一步的 pyautogui 调用，并使用相对于屏幕的坐标。

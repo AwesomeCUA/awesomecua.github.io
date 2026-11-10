@@ -1,3 +1,11 @@
+---
+title: "MJev-Spatial: System One Spatial Intelligence… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22276/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MJev-Spatial: System One Spatial Intelligence via Native Attention Matching
 
 Bibliographic record for MJev-Spatial: System One Spatial Intelligence via Native Attention Matching. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Luozheng Qin, Yuhan Zhu, Changhai Zhou, Qian Qiao, Jun Gao, Yuhua Zhou, Harry Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22276/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22276/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22276,
+  title = {{MJev-Spatial: System One Spatial Intelligence via Native Attention Matching}},
+  author = {{Luozheng Qin} and {Yuhan Zhu} and {Changhai Zhou} and {Qian Qiao} and {Jun Gao} and {Yuhua Zhou} and {Harry Zhang} and {Xiangyu Zeng} and {Yuxuan Liu} and {Yuxin Lu} and {Kaijie Chen} and {Andrew Chen} and {Pony Ma}},
+  year = {2026},
+  eprint = {2610.22276v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22276v2},
+  note = {First published: 2026-10-15; Recorded arXiv version: v2; Recorded version updated: 2026-10-26T11:05:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Eigent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eigent-ai-eigent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Eigent
 
 Eigent is an open-source multi-agent desktop coworker built on CAMEL-AI for parallel browser, terminal, document, and MCP task execution.

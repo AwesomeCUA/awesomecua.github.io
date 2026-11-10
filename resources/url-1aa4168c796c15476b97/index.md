@@ -1,3 +1,11 @@
+---
+title: "Strawberry | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1aa4168c796c15476b97/
+updated: 2026-11-10
+type: product
+lang: en
+---
+
 # Strawberry
 
 Agentic desktop browser for macOS and Windows whose AI companions open sites, click through flows and work inside the user's signed-in accounts, asking for approval before sending, paying or deleting.
@@ -9,12 +17,12 @@ Agentic desktop browser for macOS and Windows whose AI companions open sites, cl
 - Scope: core
 - Environments: web
 - Topics: web-navigation, automation, human-in-the-loop, memory
-- Evidence checked: 2026-10-20T04:42:09Z
+- Evidence checked: 2026-11-10T08:12:43Z
 - ID: url:1aa4168c796c15476b97
 
 ## Limitations
 
-Dendrite Systems, a team based in Stockholm, publishes Strawberry. Its llms.txt describes companions as persistent assistants that are briefed once and remember across sessions, routines that run work on a schedule, saved skills that re-run a workflow, and 93 native integrations with 1,254 operations alongside work done in the browser session the user is signed into; companions ask for approval before sending email, making payments or taking destructive actions. The browser-agent page says a companion plans the work, opens the sites, moves between tabs, clicks through flows and uses an app integration when that is faster than browsing. Regular browsing is free, while companion work draws on monthly credits, with a free plan of 500 credits and paid tiers. The llms.txt also says the publisher retracted its February 2026 comparison benchmark after an audit and now publishes a measurement standard for results.
+Strawberry Browser Inc., a Stockholm-based team, publishes Strawberry. On the browser-agent page a companion plans the work, opens the sites, moves between tabs, clicks through flows and uses an app integration when that is faster than browsing. Regular browsing is free, while companion work draws on monthly credits, with a free plan of 500 credits and paid tiers.
 
 - Record JSON: https://awesomecua.com/resources/url-1aa4168c796c15476b97/record.json
 
@@ -27,7 +35,7 @@ Dendrite Systems, a team based in Stockholm, publishes Strawberry. Its llms.txt 
 
 ## Primary evidence
 
-- https://strawberrybrowser.com/llms.txt (retrieved 2026-10-20T04:42:09Z; SHA-256 b63ef661f6d4648038baf08bd630ec20129e5c300f5600d71ae38463a82f7560)
-- https://strawberrybrowser.com/browser-agent (retrieved 2026-10-20T04:40:38Z; SHA-256 b790fc80bfc58803f708d9c8afdd53b1faa3312950b78e40cefdc0708f8288a9)
-- https://strawberrybrowser.com/about-us (retrieved 2026-10-20T04:40:40Z; SHA-256 33c76bdc63bad85d307b305bf0cd4f2f17e7a1da860cf4ce6ff66c4a4b987fa7)
-- https://strawberrybrowser.com/pricing (retrieved 2026-10-20T04:40:41Z; SHA-256 74f5cda50ae8ad25ed90f73e308cc4a6401304319f727ad64d69928917532e96)
+- https://www.strawberrybrowser.com (retrieved 2026-11-10T08:12:43Z; SHA-256 c006431c0d509371208837c36eec4c59ab73b566ae64d176a3877500554a53bc)
+- https://strawberrybrowser.com/browser-agent (retrieved 2026-11-10T08:13:06Z; SHA-256 ae0da1f9d5ed744d19dc0e8fb75aa21756086686705d507cc5c75a4e4ace9536)
+- https://strawberrybrowser.com/about-us (retrieved 2026-11-10T08:13:09Z; SHA-256 81bc6cd56d4b78ff19b19da8cfff1acd388a2f3ba01e32b73a18433bd6cea1d6)
+- https://strawberrybrowser.com/pricing (retrieved 2026-11-10T08:13:13Z; SHA-256 c736081829338d8af2489784d3341c1879ddee6d97839b311d0e87e43854a96e)

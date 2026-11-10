@@ -1,3 +1,11 @@
+---
+title: "ActReal: System-Level Mobile Agents Challenge… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-30038/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ActReal: System-Level Mobile Agents Challenge Mobile Automation Detection
 
 Introduces ActReal, which translates semantic mobile-agent actions into coordinated touch and sensor signals to study automation-detection weaknesses. It evaluates detectors that observe touch events alone or together with inertial measurements under a privileged executor threat model.
@@ -26,6 +34,18 @@ Mingshuo Wang, Hanqing Guo, Huining Li, Yuliang Fu, Jing Xu, Chenhan Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-30038/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-30038/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_30038,
+  title = {{ActReal: System-Level Mobile Agents Challenge Mobile Automation Detection}},
+  author = {{Mingshuo Wang} and {Hanqing Guo} and {Huining Li} and {Yuliang Fu} and {Jing Xu} and {Chenhan Xu}},
+  year = {2026},
+  eprint = {2608.30038v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.30038v1},
+  note = {First published: 2026-08-30; Recorded arXiv version: v1; Recorded version updated: 2026-08-30T20:55:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GUI-World data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-40ce19527f25bfa3bd63/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-World data
 
 GUI-World 的 Hub 发布版，收录 Android、iOS、网站、软件、多应用和 XR 六类场景的 GUI 录屏视频，以及面向 GUI 视频问答的训练与基准标注 JSONL。

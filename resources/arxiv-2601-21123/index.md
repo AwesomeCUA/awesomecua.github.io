@@ -1,3 +1,11 @@
+---
+title: "CUA-Skill: Develop Skills for Computer Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-21123/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CUA-Skill: Develop Skills for Computer Using Agent
 
 CUA-Skill encodes Windows application knowledge in parameterized skills and execution/composition graphs. Its agent retrieves and instantiates these skills and uses memory for failure recovery, with end-to-end evaluation on WindowsAgentArena.
@@ -26,6 +34,18 @@ Tianyi Chen, Yinheng Li, Michael Solodko, Sen Wang, Nan Jiang, Tingyuan Cui, Jun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-21123/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-21123/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_21123,
+  title = {{CUA-Skill: Develop Skills for Computer Using Agent}},
+  author = {{Tianyi Chen} and {Yinheng Li} and {Michael Solodko} and {Sen Wang} and {Nan Jiang} and {Tingyuan Cui} and {Junheng Hao} and {Jongwoo Ko} and {Sara Abdali} and {Leon Xu} and {Suzhen Zheng} and {Hao Fan} and {Pashmina Cameron} and {Justin Wagle} and {Kazuhito Koishida}},
+  year = {2026},
+  eprint = {2601.21123v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.21123v2},
+  note = {First published: 2026-01-28; Recorded arXiv version: v2; Recorded version updated: 2026-02-02T23:11:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

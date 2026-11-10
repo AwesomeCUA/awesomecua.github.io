@@ -1,3 +1,11 @@
+---
+title: "LEGATO: Large-scale End-to-end Generalizable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-19065/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LEGATO: Large-scale End-to-end Generalizable Approach to Typeset OMR
 
 Bibliographic record for LEGATO: Large-scale End-to-end Generalizable Approach to Typeset OMR. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guang Yang, Victoria Ebert, Nazif Can Tamer, Brian Siyuan Zheng, Luiza Amador Po
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-19065/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-19065/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_19065,
+  title = {{LEGATO: Large-scale End-to-end Generalizable Approach to Typeset OMR}},
+  author = {{Guang Yang} and {Victoria Ebert} and {Nazif Can Tamer} and {Brian Siyuan Zheng} and {Luiza Amador Pozzobon} and {Noah A. Smith}},
+  year = {2025},
+  eprint = {2506.19065v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.19065v3},
+  note = {First published: 2025-06-23; Recorded arXiv version: v3; Recorded version updated: 2026-09-27T07:11:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

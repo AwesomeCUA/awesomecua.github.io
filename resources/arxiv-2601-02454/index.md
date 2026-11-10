@@ -1,3 +1,11 @@
+---
+title: "The Rise of Agentic Testing: Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-02454/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance
 
 Status: excluded from the active CUA catalog after scope review.

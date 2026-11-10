@@ -1,3 +1,11 @@
+---
+title: "OSWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-osworld/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # OSWorld
 
 Execution-based evaluation of agents performing tasks in real desktop environments.

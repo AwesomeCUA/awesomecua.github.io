@@ -1,3 +1,11 @@
+---
+title: "nodriver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ultrafunkamsterdam-nodriver/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # nodriver
 
 这是一个用于浏览器自动化的异步 Python 库，通过 Chrome DevTools Protocol 控制基于 Chromium 的浏览器，并提供基于文本和选择器的元素查找功能。

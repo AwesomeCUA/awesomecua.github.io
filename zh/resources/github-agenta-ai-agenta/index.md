@@ -1,3 +1,11 @@
+---
+title: "Agenta · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agenta-ai-agenta/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Agenta
 
 Agenta 是供团队构建和运行智能体的工作空间。其智能体可使用浏览器和文件处理网站任务，也可使用已连接的应用并执行定时自动化任务。

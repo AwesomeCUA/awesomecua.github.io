@@ -1,3 +1,11 @@
+---
+title: "YOLOv11l — UI Groups Detection | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6106415bee936ef638aa/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # YOLOv11l — UI Groups Detection
 
 A YOLO11 fine-tune that detects UI groups such as toolbars and tab groups in macOS application screenshots for accessibility analysis.

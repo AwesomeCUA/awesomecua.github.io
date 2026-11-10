@@ -1,3 +1,11 @@
+---
+title: "19ska Computer-Use Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-19ska-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # 19ska Computer-Use Automation
 
 Uses an LLM to discover a UI workflow once and compiles the trajectory into a deterministic replay script.

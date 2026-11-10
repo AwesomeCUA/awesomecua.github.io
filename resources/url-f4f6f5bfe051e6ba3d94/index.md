@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager-opt-2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f4f6f5bfe051e6ba3d94/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # OpenWebVoyager-opt-2
 
 The second optimization-iteration checkpoint of OpenWebVoyager, an idefics2-8b multimodal web agent trained by imitation learning and then refined on successful real-website trajectories kept by GPT-4o feedback.

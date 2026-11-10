@@ -1,3 +1,11 @@
+---
+title: "webarena-world-model-sft · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-42686ac00c4ae107f147/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # webarena-world-model-sft
 
 以 DeepSeek-R1-Distill-Qwen-1.5B 为基座微调的 WebArena 语言世界模型：预测网页动作执行后无障碍树中哪些条目发生变化，在 RLVR 阶段之前先用思维链数据进行监督微调。

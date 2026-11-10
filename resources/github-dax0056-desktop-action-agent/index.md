@@ -1,3 +1,11 @@
+---
+title: "Desktop Action Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dax0056-desktop-action-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Desktop Action Agent
 
 Sandboxed local computer-automation agent reference architecture with window detection and action verification.

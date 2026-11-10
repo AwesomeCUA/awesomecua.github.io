@@ -1,3 +1,11 @@
+---
+title: "MM-BrowseComp: A Comprehensive Benchmark… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-13186/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents
 
 提出 MM-BrowseComp，评估浏览智能体能否利用网页图片和视频中的证据回答多模态搜索问题。
@@ -27,6 +35,18 @@ Shilong Li, Xingyuan Bu, Wenjie Wang, Jiaheng Liu, Jun Dong, Haoyang He, Hao Lu,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-13186/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-13186/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_13186,
+  title = {{MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents}},
+  author = {{Shilong Li} and {Xingyuan Bu} and {Wenjie Wang} and {Jiaheng Liu} and {Jun Dong} and {Haoyang He} and {Hao Lu} and {Haozhe Zhang} and {Chenchen Jing} and {Zhen Li} and {Chuanhao Li} and {Jiayi Tian} and {Chenchen Zhang} and {Tianhao Peng} and {Yancheng He} and {Jihao Gu} and {Hui Huang} and {Donghao Zhou} and {Yuanxing Zhang} and {Jian Yang} and {Ge Zhang} and {Wenhao Huang} and {Zhaoxiang Zhang} and {Qiangpeng Yang} and {Shilei Wen}},
+  year = {2025},
+  eprint = {2508.13186v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.13186v2},
+  note = {First published: 2025-08-14; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T07:06:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Stealth Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vibheksoni-stealth-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Stealth Browser MCP
 
 Stealth Browser MCP 通过 MCP 提供具有反检测能力的 Chrome DevTools Protocol 自动化功能，用于浏览受 Cloudflare 和登录保护的网站。

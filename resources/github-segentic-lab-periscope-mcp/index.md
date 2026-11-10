@@ -1,3 +1,11 @@
+---
+title: "periscope-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-segentic-lab-periscope-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # periscope-mcp
 
 Web-application QA and analysis MCP server exposing 74 Playwright tools for authenticated flows, visual regression, and accessibility audits.

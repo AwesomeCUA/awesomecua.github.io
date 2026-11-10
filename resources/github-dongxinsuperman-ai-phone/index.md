@@ -1,3 +1,11 @@
+---
+title: "ai-phone | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dongxinsuperman-ai-phone/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # ai-phone
 
 A self-hosted platform that runs natural-language test cases on iOS, Android and HarmonyOS phones and virtual devices with a vision-only VLM decision loop, device queues and HTML reports.

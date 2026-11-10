@@ -1,3 +1,11 @@
+---
+title: "MGA: Memory-Driven GUI Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24168/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MGA: Memory-Driven GUI Agent for Observation-Centric Interaction
 
 Introduces MGA, which separates task-agnostic screen-state reading from decision making and connects steps through structured state memory. Validated state deltas replace full trajectory replay, evaluated on OSWorld and application tasks.
@@ -26,6 +34,18 @@ Weihua Cheng, Junming Liu, Yifei Sun, Botian Shi, Yirong Chen, Ding Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24168/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24168/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24168,
+  title = {{MGA: Memory-Driven GUI Agent for Observation-Centric Interaction}},
+  author = {{Weihua Cheng} and {Junming Liu} and {Yifei Sun} and {Botian Shi} and {Yirong Chen} and {Ding Wang}},
+  year = {2025},
+  eprint = {2510.24168v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24168v3},
+  note = {First published: 2025-10-28; Recorded arXiv version: v3; Recorded version updated: 2026-04-14T04:34:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

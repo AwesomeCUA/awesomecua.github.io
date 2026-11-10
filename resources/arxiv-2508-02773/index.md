@@ -1,3 +1,11 @@
+---
+title: "Web3 x AI Agents: Landscape, Integrations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-02773/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges
 
 Bibliographic record for Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yiming Shen, Jiashuo Zhang, Zhenzhe Shao, Wenxuan Luo, Yanlin Wang, Ting Chen, L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-02773/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-02773/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_02773,
+  title = {{Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges}},
+  author = {{Yiming Shen} and {Jiashuo Zhang} and {Zhenzhe Shao} and {Wenxuan Luo} and {Yanlin Wang} and {Ting Chen} and {Lingfeng Bao} and {Jiachi Chen}},
+  year = {2025},
+  eprint = {2508.02773v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.02773v4},
+  note = {First published: 2025-08-04; Recorded arXiv version: v4; Recorded version updated: 2026-10-11T04:55:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

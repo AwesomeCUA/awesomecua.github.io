@@ -1,3 +1,11 @@
+---
+title: "Reins | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pegasi-ai-reins/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Reins
 
 Reins is a runtime security guardrail and policy enforcement layer that intercepts and gates unauthorized AI agent tool calls.

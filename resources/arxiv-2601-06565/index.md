@@ -1,3 +1,11 @@
+---
+title: "EVM-QuestBench: An Execution-Grounded… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-06565/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EVM-QuestBench: An Execution-Grounded Benchmark for Natural-Language Transaction Code Generation
 
 Status: excluded from the active CUA catalog after scope review.

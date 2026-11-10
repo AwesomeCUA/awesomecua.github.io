@@ -1,3 +1,11 @@
+---
+title: "gWorld-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e44096836ef47bc66d9c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # gWorld-32B
 
 A released mobile GUI world model that takes a screenshot and an action, then predicts the next interface as renderable HTML. The card identifies Qwen3-VL-32B as its base.

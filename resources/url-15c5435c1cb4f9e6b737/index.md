@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-8B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-15c5435c1cb4f9e6b737/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-8B-HF
 
 InternVL3.5-8B multimodal model in Hugging Face Transformers format; its report evaluates the family on GUI grounding and on online agent tasks in OSWorld, WindowsAgentArena and WebArena-Lite-v2.

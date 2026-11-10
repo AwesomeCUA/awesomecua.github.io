@@ -1,3 +1,11 @@
+---
+title: "WebSight: A Vision-First Architecture… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-16987/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebSight: A Vision-First Architecture for Robust Web Agents
 
 WebSight 在模块化智能体中使用基于网页界面示例训练的视觉语言模型，包含规划、操作、验证和情景记忆组件；通过视觉观察，在 Showdown Clicks 上评估元素点击，在 WebVoyager 上评估完整浏览任务。
@@ -27,6 +35,18 @@ Tanvir Bhathal, Asanshay Gupta
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-16987/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-16987/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_16987,
+  title = {{WebSight: A Vision-First Architecture for Robust Web Agents}},
+  author = {{Tanvir Bhathal} and {Asanshay Gupta}},
+  year = {2025},
+  eprint = {2508.16987v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.16987v1},
+  note = {First published: 2025-08-23; Recorded arXiv version: v1; Recorded version updated: 2025-08-23T11:02:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

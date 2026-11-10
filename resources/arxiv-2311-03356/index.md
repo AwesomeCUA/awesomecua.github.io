@@ -1,3 +1,11 @@
+---
+title: "GLaMM: Pixel Grounding Large Multimodal Model | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-03356/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GLaMM: Pixel Grounding Large Multimodal Model
 
 Bibliographic record for GLaMM: Pixel Grounding Large Multimodal Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hanoona Rasheed, Muhammad Maaz, Sahal Shaji Mullappilly, Abdelrahman Shaker, Sal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-03356/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-03356/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_03356,
+  title = {{GLaMM: Pixel Grounding Large Multimodal Model}},
+  author = {{Hanoona Rasheed} and {Muhammad Maaz} and {Sahal Shaji Mullappilly} and {Abdelrahman Shaker} and {Salman Khan} and {Hisham Cholakkal} and {Rao M. Anwer} and {Erix Xing} and {Ming-Hsuan Yang} and {Fahad S. Khan}},
+  year = {2023},
+  eprint = {2311.03356v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.03356v3},
+  note = {First published: 2023-11-06; Recorded arXiv version: v3; Recorded version updated: 2024-06-02T00:33:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

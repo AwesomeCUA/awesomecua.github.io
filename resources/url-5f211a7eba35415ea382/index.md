@@ -1,3 +1,11 @@
+---
+title: "NeurIPS 2025: 45 Computer-Use Agent Papers… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5f211a7eba35415ea382/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # NeurIPS 2025: 45 Computer-Use Agent Papers You Should Know About
 
 An annotated reading list of 45 NeurIPS 2025 computer-use agent papers, organized around benchmarks, safety, grounding and agent architectures.

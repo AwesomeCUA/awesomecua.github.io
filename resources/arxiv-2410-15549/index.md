@@ -1,3 +1,11 @@
+---
+title: "A Dual Process VLA: Efficient Robotic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-15549/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM
 
 Status: excluded from the active CUA catalog after scope review.

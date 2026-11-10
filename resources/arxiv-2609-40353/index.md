@@ -1,3 +1,11 @@
+---
+title: "AssemblyWorld: Rethinking 3D Assembly with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-40353/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents
 
 Bibliographic record for AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiahao Zhang, Yeying Fan, Moitreya Chatterjee, Suhas Lohit, Bernhard Egger, Tim 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-40353/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-40353/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_40353,
+  title = {{AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents}},
+  author = {{Jiahao Zhang} and {Yeying Fan} and {Moitreya Chatterjee} and {Suhas Lohit} and {Bernhard Egger} and {Tim K. Marks} and {Anoop Cherian} and {Stephen Gould}},
+  year = {2026},
+  eprint = {2609.40353v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.40353v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T17:59:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

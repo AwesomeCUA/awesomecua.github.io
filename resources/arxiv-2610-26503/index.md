@@ -1,3 +1,11 @@
+---
+title: "ScopeMem: Latent Memory That Learns Where to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26503/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents
 
 ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial action and trains them to correct errors while preserving correct decisions. Its evaluation separates action repairs from harmful revisions.
@@ -26,6 +34,18 @@ Zhicheng Zheng, Cheng Zhang, Shengping Yu, Tianxiang Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26503/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26503/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26503,
+  title = {{ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents}},
+  author = {{Zhicheng Zheng} and {Cheng Zhang} and {Shengping Yu} and {Tianxiang Zhao}},
+  year = {2026},
+  eprint = {2610.26503v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26503v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T14:38:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

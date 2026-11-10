@@ -1,3 +1,11 @@
+---
+title: "WebMCP Stack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-souravinsights-webmcp-stack/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WebMCP Stack
 
 Generates typed, human-reviewed WebMCP browser tools directly from existing OpenAPI and backend contracts.

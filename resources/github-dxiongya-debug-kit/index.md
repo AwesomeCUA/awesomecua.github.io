@@ -1,3 +1,11 @@
+---
+title: "debug-kit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dxiongya-debug-kit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # debug-kit
 
 Cross-platform Agent Skill for driving, inspecting, and testing applications across macOS, iOS, Android, Web, Electron, Windows, and Linux.

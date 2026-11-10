@@ -1,3 +1,11 @@
+---
+title: "Generalization in Online Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-07432/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Generalization in Online Reinforcement Learning for Mobile Agents
 
 Introduces AndroidWorld-Generalization with separate tests for unseen task instances, templates, and applications. A GRPO training system combines containerized environments with asynchronous trajectory collection to study these generalization regimes.
@@ -26,6 +34,18 @@ Li Gu, Zihuan Jiang, Zhixiang Chi, Huan Liu, Ziqiang Wang, Yuanhao Yu, Glen Bers
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-07432/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-07432/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_07432,
+  title = {{Generalization in Online Reinforcement Learning for Mobile Agents}},
+  author = {{Li Gu} and {Zihuan Jiang} and {Zhixiang Chi} and {Huan Liu} and {Ziqiang Wang} and {Yuanhao Yu} and {Glen Berseth} and {Yang Wang}},
+  year = {2026},
+  eprint = {2603.07432v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.07432v1},
+  note = {First published: 2026-03-08; Recorded arXiv version: v1; Recorded version updated: 2026-03-08T03:08:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

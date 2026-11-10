@@ -1,3 +1,11 @@
+---
+title: "GUI-Shift | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # GUI-Shift
 
 GUI-Shift is a training framework that uses pairs of GUI screenshots to teach vision-language models to predict the action behind an interface transition.

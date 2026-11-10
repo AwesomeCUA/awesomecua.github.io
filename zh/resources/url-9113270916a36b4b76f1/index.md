@@ -1,3 +1,11 @@
+---
+title: "UI-Hawk: Unleashing the Screen Stream… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9113270916a36b4b76f1/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents
 
 移动 GUI 智能体的历史感知视觉编码器同时读取先前和当前截图，通过从元素定位、指代、屏幕问答与摘要到导航的课程训练；另推出 FunUI 基准。
@@ -27,6 +35,21 @@ Jiwen Zhang (张霁雯), Ya-Qi Yu, Minghui Liao, Wentao Li, Jihao Wu, Zhongyu We
 
 - BibTeX：https://awesomecua.com/resources/url-9113270916a36b4b76f1/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-9113270916a36b4b76f1/citation.csl.json
+
+```bibtex
+@inproceedings{cua_4d0b0e2ee52b6b82400853ed,
+  title = {{UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents}},
+  author = {{Jiwen Zhang (张霁雯)} and {Ya-Qi Yu} and {Minghui Liao} and {Wentao Li} and {Jihao Wu} and {Zhongyu Wei (魏忠钰)}},
+  year = {2025},
+  month = nov,
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  publisher = {Association for Computational Linguistics},
+  pages = {18217-18236},
+  doi = {10.18653/v1/2025.emnlp-main.920},
+  url = {https://aclanthology.org/2025.emnlp-main.920/},
+  note = {Publication date: 2025-11.}
+}
+```
 
 ## 发表记录
 

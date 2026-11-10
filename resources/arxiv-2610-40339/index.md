@@ -1,3 +1,11 @@
+---
+title: "Wizard: Manipulate Any World in Real Time via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-40339/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Wizard: Manipulate Any World in Real Time via Agentic Control
 
 Bibliographic record for Wizard: Manipulate Any World in Real Time via Agentic Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuzhe Wu, Zijun Lin, Yeying Jin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-40339/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-40339/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40339,
+  title = {{Wizard: Manipulate Any World in Real Time via Agentic Control}},
+  author = {{Yuzhe Wu} and {Zijun Lin} and {Yeying Jin}},
+  year = {2026},
+  eprint = {2610.40339v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40339v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T16:03:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "agent-fleet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mskazemi-agent-fleet/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # agent-fleet
 
 Orchestrates parallel Claude Code and computer-use sessions against a shared, dependency-aware task queue.

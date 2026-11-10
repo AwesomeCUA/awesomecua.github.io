@@ -1,3 +1,11 @@
+---
+title: "Apprentice · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bluzername-apprentice/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Apprentice
 
 Apprentice 是以本地优先的 macOS 智能体，可观察用户在许可名单内应用中的重复操作，并在逐次点击获得批准后重放。

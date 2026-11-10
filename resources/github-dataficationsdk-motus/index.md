@@ -1,3 +1,11 @@
+---
+title: "Motus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dataficationsdk-motus/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Motus
 
 Motus is an extensible .NET browser automation and agentic testing framework communicating directly with Chromium via CDP.

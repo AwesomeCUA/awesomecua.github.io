@@ -1,3 +1,11 @@
+---
+title: "godzilaa browser-agent Extension | AwesomeCUA"
+url: https://awesomecua.com/resources/github-godzilaa-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # godzilaa browser-agent Extension
 
 Chrome Manifest V3 extension that converts any live webpage into structured JSON and executes agent actions.

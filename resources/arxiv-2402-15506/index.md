@@ -1,3 +1,11 @@
+---
+title: "AgentOhana: Design Unified Data and Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-15506/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning
 
 Status: excluded from the active CUA catalog after scope review.

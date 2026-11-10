@@ -1,3 +1,11 @@
+---
+title: "GUI Agent Research Landscape · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-agent-research-landscape/
+updated: 2026-11-10
+type: learning
+lang: zh-CN
+---
+
 # GUI Agent Research Landscape
 
 一份 2016 至 2025 年 GUI 与操作系统智能体论文的研究版图分析：包括引文挖掘、按关键词筛选出约 600 篇论文、由大语言模型提取的贡献、分时期趋势表和引文网络排名。

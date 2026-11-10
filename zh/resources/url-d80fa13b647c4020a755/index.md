@@ -1,3 +1,11 @@
+---
+title: "GUI-G2 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d80fa13b647c4020a755/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-G2 3B
 
 3B GUI-G2 定位检查点基于 Qwen2.5-VL-3B-Instruct，使用高斯点位和覆盖奖励微调，依据文本指令定位截图中的界面元素。

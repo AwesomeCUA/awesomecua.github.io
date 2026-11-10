@@ -1,3 +1,11 @@
+---
+title: "ShowUI 2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # ShowUI 2B
 
 ShowUI vision-language-action checkpoint fine-tuned from Qwen2-VL-2B-Instruct, published as a single PyTorch weight file under the MIT license and tagged for GUI agents and computer use.

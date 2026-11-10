@@ -1,3 +1,11 @@
+---
+title: "Using GUI Agent for Electronic Design… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-11611/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Using GUI Agent for Electronic Design Automation
 
 GUI-EDA 收集工程师使用 5 种 CAD 工具、涉及 5 个物理领域的 2,000 多组截图、答案和操作数据。配套基准在专门的电子设计流程中评估 30 多个 GUI 智能体。
@@ -27,6 +35,18 @@ Chunyi Li, Longfei Li, Zicheng Zhang, Xiaohong Liu, Min Tang, Weisi Lin, Guangta
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-11611/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-11611/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_11611,
+  title = {{Using GUI Agent for Electronic Design Automation}},
+  author = {{Chunyi Li} and {Longfei Li} and {Zicheng Zhang} and {Xiaohong Liu} and {Min Tang} and {Weisi Lin} and {Guangtao Zhai}},
+  year = {2025},
+  eprint = {2512.11611v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.11611v1},
+  note = {First published: 2025-12-12; Recorded arXiv version: v1; Recorded version updated: 2025-12-12T14:49:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

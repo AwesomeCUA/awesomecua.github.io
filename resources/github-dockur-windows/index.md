@@ -1,3 +1,11 @@
+---
+title: "Dockur Windows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dockur-windows/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Dockur Windows
 
 Dockur Windows runs full Windows desktop environments inside Docker/KVM containers with web VNC viewer support for agent sandboxes.

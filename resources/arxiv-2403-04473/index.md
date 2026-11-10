@@ -1,3 +1,11 @@
+---
+title: "TextMonkey: An OCR-Free Large Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-04473/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
 
 Bibliographic record for TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuliang Liu, Biao Yang, Qiang Liu, Zhang Li, Zhiyin Ma, Shuo Zhang, Xiang Bai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-04473/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-04473/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_04473,
+  title = {{TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document}},
+  author = {{Yuliang Liu} and {Biao Yang} and {Qiang Liu} and {Zhang Li} and {Zhiyin Ma} and {Shuo Zhang} and {Xiang Bai}},
+  year = {2024},
+  eprint = {2403.04473v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.04473v2},
+  note = {First published: 2024-03-07; Recorded arXiv version: v2; Recorded version updated: 2024-03-15T06:51:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

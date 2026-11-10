@@ -1,3 +1,11 @@
+---
+title: "Browser AI Agent — live-web benchmark… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saarthak-yadav-browser-agent-webvoyager/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Browser AI Agent — live-web benchmark audit
 
 一项已归档的网页智能体实时网站任务评估审查，提供任务子集和脚本，用于检查网站变化、访问障碍与测量错误。

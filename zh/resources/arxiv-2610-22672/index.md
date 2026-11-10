@@ -1,3 +1,11 @@
+---
+title: "Not All Graphs Are Maps: A Task-Agnostic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-22672/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # Not All Graphs Are Maps: A Task-Agnostic Exploration Framework for Mobile GUI Navigation
 
 TAG-Nav 从离线应用探索中提炼目标和路线记忆，供 Android GUI 智能体使用。DestBench 单独衡量其能否到达参考操作前屏幕，不将后续任务执行计入该指标。
@@ -27,6 +35,18 @@ Adamo Orsini, Seyed Mehdi Ayyoubzadeh, Sadman Rakib Pinon, Hannuo Zhang, Koosha 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-22672/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-22672/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22672,
+  title = {{Not All Graphs Are Maps: A Task-Agnostic Exploration Framework for Mobile GUI Navigation}},
+  author = {{Adamo Orsini} and {Seyed Mehdi Ayyoubzadeh} and {Sadman Rakib Pinon} and {Hannuo Zhang} and {Koosha Gholipour Baradari} and {Yuanhao Yu} and {Xinxin Zuo} and {Yang Wang}},
+  year = {2026},
+  eprint = {2610.22672v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22672v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T21:40:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

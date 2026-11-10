@@ -1,3 +1,11 @@
+---
+title: "Richmack Browser OS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-iamrichmack111-richmack-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Richmack Browser OS
 
 Keyboard-driven Chromium browser environment with modular workspace panels for developer and agent workflows.

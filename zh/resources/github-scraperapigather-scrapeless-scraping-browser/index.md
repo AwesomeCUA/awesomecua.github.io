@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Scraping Browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scraperapigather-scrapeless-scraping-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Scrapeless Scraping Browser
 
 一种通过 WebSocket 访问的托管 Chromium 浏览器，可由 Puppeteer 或 Playwright 控制，并可配置会话、浏览器指纹和网络出口。

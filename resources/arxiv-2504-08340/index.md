@@ -1,3 +1,11 @@
+---
+title: "All-in-Memory Stochastic Computing using ReRAM | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-08340/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # All-in-Memory Stochastic Computing using ReRAM
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "macos-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-iamme19862002-macos-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macos-computer-use
 
 macos-computer-use is a native Swift CLI toolkit providing 68+ commands for macOS window management, UI element localization, OCR, and input.

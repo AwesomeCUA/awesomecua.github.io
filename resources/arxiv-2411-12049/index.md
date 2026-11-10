@@ -1,3 +1,11 @@
+---
+title: "Simulating Non-Markovian Quantum Dynamics on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-12049/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Simulating Non-Markovian Quantum Dynamics on NISQ Computers Using the Hierarchical Equations of Motion
 
 Status: excluded from the active CUA catalog after scope review.

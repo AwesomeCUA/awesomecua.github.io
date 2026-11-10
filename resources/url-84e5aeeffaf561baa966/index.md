@@ -1,3 +1,11 @@
+---
+title: "UI-Genie reward data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-84e5aeeffaf561baa966/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UI-Genie reward data
 
 Mobile GUI reward annotations released for training UI-Genie’s trajectory-assessment model.

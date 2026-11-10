@@ -1,3 +1,11 @@
+---
+title: "GUI Reflection | AwesomeCUA"
+url: https://awesomecua.com/resources/github-penghao-wu-gui-reflection/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # GUI Reflection
 
 GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.

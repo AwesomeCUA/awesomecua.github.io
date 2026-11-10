@@ -1,3 +1,11 @@
+---
+title: "gWorld-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-78802d1a2fce25f20f85/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # gWorld-8B
 
 gWorld-8B is a released mobile GUI world model that predicts the screen after an action by generating renderable HTML from the current screenshot and action.

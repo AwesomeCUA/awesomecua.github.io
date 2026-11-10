@@ -1,3 +1,11 @@
+---
+title: "Avoiding Reasoning Shortcuts: Adversarial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1906-07132/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA
 
 Bibliographic record for Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yichen Jiang, Mohit Bansal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1906-07132/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1906-07132/citation.csl.json
+
+```bibtex
+@misc{arxiv_1906_07132,
+  title = {{Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA}},
+  author = {{Yichen Jiang} and {Mohit Bansal}},
+  year = {2019},
+  eprint = {1906.07132v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1906.07132v1},
+  note = {First published: 2019-06-17; Recorded arXiv version: v1; Recorded version updated: 2019-06-17T17:03:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

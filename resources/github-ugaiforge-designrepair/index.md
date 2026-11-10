@@ -1,3 +1,11 @@
+---
+title: "DesignRepair | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ugaiforge-designrepair/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # DesignRepair
 
 DesignRepair analyzes frontend code and rendered pages, then uses Material Design guidance and an LLM to identify and repair interface design issues.

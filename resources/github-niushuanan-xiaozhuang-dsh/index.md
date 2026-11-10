@@ -1,3 +1,11 @@
+---
+title: "Xiaozhuang DSH | AwesomeCUA"
+url: https://awesomecua.com/resources/github-niushuanan-xiaozhuang-dsh/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Xiaozhuang DSH
 
 Plugin-enhanced DeepSeek Harness distribution pre-packaged with desktop computer use and browser automation.

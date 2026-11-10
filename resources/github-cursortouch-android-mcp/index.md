@@ -1,3 +1,11 @@
+---
+title: "android-mcp-beta | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cursortouch-android-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # android-mcp-beta
 
 An MCP server that uses ADB to give agents Android screen snapshots and device controls, including taps, swipes, typing, and button presses.

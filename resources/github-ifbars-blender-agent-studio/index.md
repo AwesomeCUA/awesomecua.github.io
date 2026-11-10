@@ -1,3 +1,11 @@
+---
+title: "Blender Agent Studio | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ifbars-blender-agent-studio/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Blender Agent Studio
 
 Blender Agent Studio connects coding agents to local Blender to create editable scenes, render previews and inspect visual results.

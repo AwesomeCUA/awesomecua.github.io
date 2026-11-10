@@ -1,3 +1,11 @@
+---
+title: "Aegis (Hardened Computer-Use Sandbox) · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arihantdeva-aegis/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Aegis (Hardened Computer-Use Sandbox)
 
 Aegis 是在屏幕外运行、已移除部分能力的 Docker 浏览器和桌面沙箱，用于隔离计算机使用智能体。

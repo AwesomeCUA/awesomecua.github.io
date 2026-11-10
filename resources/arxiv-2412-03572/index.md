@@ -1,3 +1,11 @@
+---
+title: "Navigation World Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-03572/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Navigation World Models
 
 Bibliographic record for Navigation World Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Amir Bar, Gaoyue Zhou, Danny Tran, Trevor Darrell, Yann LeCun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-03572/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-03572/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_03572,
+  title = {{Navigation World Models}},
+  author = {{Amir Bar} and {Gaoyue Zhou} and {Danny Tran} and {Trevor Darrell} and {Yann LeCun}},
+  year = {2024},
+  eprint = {2412.03572v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.03572v2},
+  note = {First published: 2024-12-04; Recorded arXiv version: v2; Recorded version updated: 2025-04-11T19:20:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

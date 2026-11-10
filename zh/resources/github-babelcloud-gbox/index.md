@@ -1,3 +1,11 @@
+---
+title: "GBOX · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-babelcloud-gbox/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # GBOX
 
 一个提供 CLI 和 MCP 接入的环境服务，让智能体操作 Android 应用及包括浏览器和终端在内的桌面应用。

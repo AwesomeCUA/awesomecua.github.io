@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Recorder · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-velvetabyss-browser-agent-recorder/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Agent Recorder
 
 记录人类浏览器工作流程，并将其导出为人类可读的 SOP 文档和机器可读的 Agent Skill Packs。

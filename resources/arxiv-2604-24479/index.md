@@ -1,3 +1,11 @@
+---
+title: "Zero-to-CAD: Agentic Synthesis of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-24479/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data
 
 Status: excluded from the active CUA catalog after scope review.

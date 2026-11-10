@@ -1,3 +1,11 @@
+---
+title: "Monitoring Model Deterioration with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2201-11676/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Monitoring Model Deterioration with Explainable Uncertainty Estimation via Non-parametric Bootstrap
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "smart-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lindoelio-smart-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # smart-computer-use
 
 面向 Claude Code、Codex、Cursor 和 OpenCode 的智能体技能，通过 Rust CLI 和本地视觉定位驱动桌面 GUI。

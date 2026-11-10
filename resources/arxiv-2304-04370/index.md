@@ -1,3 +1,11 @@
+---
+title: "OpenAGI: When LLM Meets Domain Experts | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-04370/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OpenAGI: When LLM Meets Domain Experts
 
 Status: excluded from the active CUA catalog after scope review.

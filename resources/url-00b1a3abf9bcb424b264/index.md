@@ -1,3 +1,11 @@
+---
+title: "MAI-UI 8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-00b1a3abf9bcb424b264/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # MAI-UI 8B
 
 A released MAI-UI checkpoint combining mobile GUI actions, agent-user interaction and tool-use-oriented navigation.

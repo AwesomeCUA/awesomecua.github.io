@@ -1,3 +1,11 @@
+---
+title: "Crowdsourcing with Tullock contests: A new… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1701-01216/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Crowdsourcing with Tullock contests: A new perspective
 
 Status: excluded from the active CUA catalog after scope review.

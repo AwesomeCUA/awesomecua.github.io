@@ -1,3 +1,11 @@
+---
+title: "DevDesignAmitesh Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-devdesignamitesh-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DevDesignAmitesh Browser Agent
 
 Autonomous AI web agent that plans and executes multi-step browser interactions from natural-language prompts.

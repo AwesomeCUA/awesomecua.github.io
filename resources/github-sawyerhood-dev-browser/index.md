@@ -1,3 +1,11 @@
+---
+title: "dev-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sawyerhood-dev-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dev-browser
 
 dev-browser provides a persistent Playwright browser sandbox and compact ARIA snapshot CLI for stateful multi-step web automation.

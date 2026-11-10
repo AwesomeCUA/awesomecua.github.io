@@ -1,3 +1,11 @@
+---
+title: "Safe and Scalable Web Agent Learning via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-10505/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Safe and Scalable Web Agent Learning via Recreated Websites
 
 VeriEnv 将网站重建为可执行的训练环境，并通过 Python SDK 暴露内部状态，用于生成任务和确定性地检查奖励。实验考察 Web 智能体在新建及扩展的网站环境中的学习情况。
@@ -27,6 +35,18 @@ Hyungjoo Chae, Jungsoo Park, Alan Ritter
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-10505/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-10505/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_10505,
+  title = {{Safe and Scalable Web Agent Learning via Recreated Websites}},
+  author = {{Hyungjoo Chae} and {Jungsoo Park} and {Alan Ritter}},
+  year = {2026},
+  eprint = {2603.10505v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.10505v1},
+  note = {First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T07:58:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

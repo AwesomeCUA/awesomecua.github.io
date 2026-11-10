@@ -1,3 +1,11 @@
+---
+title: "WMA Web Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kyle8581-wma-agents/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # WMA Web Agent
 
 A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.

@@ -1,3 +1,11 @@
+---
+title: "WebVoyager: Building an End-to-End Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2401-13919/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models
 
 结合多模态网页交互、真实网站任务集和自动化评估流程。
@@ -27,6 +35,18 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2401-13919/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2401-13919/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_13919,
+  title = {{WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models}},
+  author = {{Hongliang He} and {Wenlin Yao} and {Kaixin Ma} and {Wenhao Yu} and {Yong Dai} and {Hongming Zhang} and {Zhenzhong Lan} and {Dong Yu}},
+  year = {2024},
+  eprint = {2401.13919v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.13919v4},
+  note = {First published: 2024-01-25; Recorded arXiv version: v4; Recorded version updated: 2024-06-06T18:37:34Z.}
+}
+```
 
 ## 发表记录
 

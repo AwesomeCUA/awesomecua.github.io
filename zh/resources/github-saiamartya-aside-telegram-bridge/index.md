@@ -1,3 +1,11 @@
+---
+title: "aside-telegram-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saiamartya-aside-telegram-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # aside-telegram-bridge
 
 这是一个 Telegram 桥接工具和手机端 Mini App，可向 Aside 浏览器智能体发送任务、查看实时进度与对话记录，并回应其决策请求。

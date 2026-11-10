@@ -1,3 +1,11 @@
+---
+title: "AutoDroid: LLM-powered Task Automation in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-15272/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AutoDroid: LLM-powered Task Automation in Android
 
 Combines language-model reasoning with app analysis, UI representations, and exploration-derived memory for Android task automation.
@@ -26,6 +34,18 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-15272/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-15272/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_15272,
+  title = {{AutoDroid: LLM-powered Task Automation in Android}},
+  author = {{Hao Wen} and {Yuanchun Li} and {Guohong Liu} and {Shanhui Zhao} and {Tao Yu} and {Toby Jia-Jun Li} and {Shiqi Jiang} and {Yunhao Liu} and {Yaqin Zhang} and {Yunxin Liu}},
+  year = {2023},
+  eprint = {2308.15272v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.15272v4},
+  note = {First published: 2023-08-29; Recorded arXiv version: v4; Recorded version updated: 2024-03-09T09:38:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

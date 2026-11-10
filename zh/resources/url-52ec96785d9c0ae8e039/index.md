@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-3B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-52ec96785d9c0ae8e039/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL-3B-Instruct
 
 这是指令微调的视觉语言模型，可理解界面布局、定位点或边界框，并用于电脑和手机操作；模型卡报告了屏幕与移动智能体评测结果。

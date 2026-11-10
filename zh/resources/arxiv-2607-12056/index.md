@@ -1,3 +1,11 @@
+---
+title: "Designing Agent-Ready Websites for AI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-12056/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability
 
 提出面向电商浏览器智能体的 agent-ready 网站设计框架，并在购物任务中与面向人的网站比较结果、步骤数和 token 用量。
@@ -27,6 +35,18 @@ Said Elnaffar, Farzad Rashidi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-12056/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-12056/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_12056,
+  title = {{Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability}},
+  author = {{Said Elnaffar} and {Farzad Rashidi}},
+  year = {2026},
+  eprint = {2607.12056v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.12056v1},
+  note = {First published: 2026-07-13; Recorded arXiv version: v1; Recorded version updated: 2026-07-13T18:16:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

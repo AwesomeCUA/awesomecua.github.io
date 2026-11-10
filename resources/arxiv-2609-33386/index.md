@@ -1,3 +1,11 @@
+---
+title: "Sivia: Learning to Draw, Learning to Learn | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-33386/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Sivia: Learning to Draw, Learning to Learn
 
 Bibliographic record for Sivia: Learning to Draw, Learning to Learn. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Feng Yuan, Xinyi Gao, Zijun Sun, Haoyue Li, Menglei Hua, Xiao Li, Yifan Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-33386/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-33386/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_33386,
+  title = {{Sivia: Learning to Draw, Learning to Learn}},
+  author = {{Feng Yuan} and {Xinyi Gao} and {Zijun Sun} and {Haoyue Li} and {Menglei Hua} and {Xiao Li} and {Yifan Gao}},
+  year = {2026},
+  eprint = {2609.33386v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.33386v2},
+  note = {First published: 2026-09-27; Recorded arXiv version: v2; Recorded version updated: 2026-10-13T15:19:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

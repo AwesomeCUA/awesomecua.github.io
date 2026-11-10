@@ -1,3 +1,11 @@
+---
+title: "UEyes: An Eye-Tracking Dataset across… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-05202/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # UEyes: An Eye-Tracking Dataset across User Interface Types
 
 UEyes 收集网页、桌面、移动端和海报界面的眼动数据，并分析人们观看不同界面的方式。
@@ -27,6 +35,18 @@ Yue Jiang, Luis A. Leiva, Paul R. B. Houssel, Hamed R. Tavakoli, Julia Kylmälä
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-05202/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-05202/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_05202,
+  title = {{UEyes: An Eye-Tracking Dataset across User Interface Types}},
+  author = {{Yue Jiang} and {Luis A. Leiva} and {Paul R. B. Houssel} and {Hamed R. Tavakoli} and {Julia Kylmälä} and {Antti Oulasvirta}},
+  year = {2024},
+  eprint = {2402.05202v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.05202v1},
+  note = {First published: 2024-02-07; Recorded arXiv version: v1; Recorded version updated: 2024-02-07T19:15:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

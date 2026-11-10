@@ -1,3 +1,11 @@
+---
+title: "Building a fault-tolerant quantum computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2012-04108/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Building a fault-tolerant quantum computer using concatenated cat codes
 
 Status: excluded from the active CUA catalog after scope review.

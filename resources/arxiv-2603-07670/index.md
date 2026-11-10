@@ -1,3 +1,11 @@
+---
+title: "Memory for Autonomous LLM Agents:Mechanisms… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-07670/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers
 
 Status: excluded from the active CUA catalog after scope review.

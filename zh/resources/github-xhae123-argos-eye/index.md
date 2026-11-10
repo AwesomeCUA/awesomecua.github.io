@@ -1,3 +1,11 @@
+---
+title: "argos-eye · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xhae123-argos-eye/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # argos-eye
 
 argos-eye 是面向 Claude Code 的视觉定位技能和工具，可将自然语言描述的 UI 目标解析为经过验证的像素坐标。

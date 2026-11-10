@@ -1,3 +1,11 @@
+---
+title: "HoloSkill Gym · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-elenaviewsynthesis-holoskill-gym/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # HoloSkill Gym
 
 用于自我演进的 CLI 和计算机使用智能体技能的 Gym 环境与优化框架。

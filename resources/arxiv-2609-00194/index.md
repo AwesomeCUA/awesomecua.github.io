@@ -1,3 +1,11 @@
+---
+title: "ReDeck: Step-Level Render-Grounded Refinement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-00194/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation
 
 Bibliographic record for ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Muzhao Tian, Zezi Zeng, Yifan Yang, Xin Gao, Yan Li, Zisu Huang, Xiaohua Wang, C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-00194/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-00194/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_00194,
+  title = {{ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation}},
+  author = {{Muzhao Tian} and {Zezi Zeng} and {Yifan Yang} and {Xin Gao} and {Yan Li} and {Zisu Huang} and {Xiaohua Wang} and {Changze Lv} and {Mingxi Cheng} and {Bei Liu} and {Kai Qiu} and {Qi Dai} and {Dong Chen} and {Yue Dong} and {Xiaoqing Zheng} and {Ji Li} and {Chong Luo}},
+  year = {2026},
+  eprint = {2609.00194v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.00194v2},
+  note = {First published: 2026-08-31; Recorded arXiv version: v2; Recorded version updated: 2026-09-05T21:02:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AppClaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appclawhq-appclaw/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AppClaw
 
 AppClaw 是适用于 Android 和 iOS 的移动端自动化智能体，通过检查无障碍树和点击屏幕执行自然语言任务。

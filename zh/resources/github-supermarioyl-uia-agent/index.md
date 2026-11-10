@@ -1,3 +1,11 @@
+---
+title: "uia-agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-supermarioyl-uia-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # uia-agent
 
 uia-agent 定义开源 LLM 智能体的动作空间，通过 UI Automation 树驱动传统 Windows 桌面应用。

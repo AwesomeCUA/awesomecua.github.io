@@ -1,3 +1,11 @@
+---
+title: "OpenHands · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openhands-openhands/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenHands
 
 OpenHands 是面向软件开发和计算机使用智能体的开源平台，配备沙箱化的 shell、代码编辑器和浏览器。

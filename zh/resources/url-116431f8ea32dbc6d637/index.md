@@ -1,3 +1,11 @@
+---
+title: "WebChain (original release) · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-116431f8ea32dbc6d637/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WebChain (original release)
 
 WebChain 原始版收录真实网站上的人工标注轨迹，提供原始 JSON 记录、视口截图及部分完整页面截图，以及用于高层规划和低层定位步骤的 Parquet 文件。

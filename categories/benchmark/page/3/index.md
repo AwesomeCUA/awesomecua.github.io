@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent benchmarks, page 3 | AwesomeCUA"
+url: https://awesomecua.com/categories/benchmark/page/3/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent benchmarks, page 3
 
 HTML page: https://awesomecua.com/categories/benchmark/page/3/
@@ -45,7 +53,6 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [MobileBench-OL](https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/)
 - [MobileSafetyBench](https://awesomecua.com/resources/github-jylee425-mobilesafetybench/)
 - [MobileWorldBench](https://awesomecua.com/resources/github-jacklishufan-mobileworld/)
-- [Navi-Bench](https://awesomecua.com/resources/github-yutori-ai-navi-bench/)
 - [Nightshift](https://awesomecua.com/resources/github-yayaq1-nightshift/)
 - [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/)
 - [Open Operator Evals](https://awesomecua.com/resources/github-nottelabs-open-operator-evals/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [WebGames](https://awesomecua.com/resources/github-convergence-ai-webgames/)
 - [WebGuard](https://awesomecua.com/resources/github-osu-nlp-group-webguard/)
 - [WebMall](https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/)
+- [WebMCP Description Benchmarks](https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/)

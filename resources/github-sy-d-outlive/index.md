@@ -1,3 +1,11 @@
+---
+title: "outlive | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sy-d-outlive/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # outlive
 
 Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.

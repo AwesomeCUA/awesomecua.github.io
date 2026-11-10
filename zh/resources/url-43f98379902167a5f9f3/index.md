@@ -1,3 +1,11 @@
+---
+title: "MindAct_CandidateGeneration_deberta-v3-ba… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-43f98379902167a5f9f3/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # MindAct_CandidateGeneration_deberta-v3-base
 
 MindAct 中仅含编码器的 DeBERTa-v3-base 模型，为任务查询与页面元素对打分，使 Mind2Web 页面上排名前 50 的候选元素进入动作预测模型。

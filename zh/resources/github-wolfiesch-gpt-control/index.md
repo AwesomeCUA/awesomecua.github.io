@@ -1,3 +1,11 @@
+---
+title: "GPT-Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wolfiesch-gpt-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GPT-Control
 
 跨模型审查中介，让 CLI 编程智能体驱动已登录的 ChatGPT 应用或网页会话进行结构化验证。

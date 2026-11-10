@@ -1,3 +1,11 @@
+---
+title: "MedSPOT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tajamul21-medspot/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # MedSPOT
 
 A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.

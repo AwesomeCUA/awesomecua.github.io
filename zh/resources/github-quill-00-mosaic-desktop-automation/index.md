@@ -1,3 +1,11 @@
+---
+title: "Mosaic Desktop Automation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-quill-00-mosaic-desktop-automation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Mosaic Desktop Automation
 
 本地优先的 Windows 控制面板，用于安排、观察和审计桌面自动化智能体。

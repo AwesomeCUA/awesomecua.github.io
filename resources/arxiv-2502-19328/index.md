@@ -1,3 +1,11 @@
+---
+title: "Agentic Reward Modeling: Integrating Human… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-19328/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,13 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 18 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/18/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 18
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/18/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [Open Interpreter](https://awesomecua.com/resources/github-openinterpreter-open-interpreter/)
-- [Open ZCode Computer Use](https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/)
-- [open-codex-computer-use](https://awesomecua.com/resources/github-ifuryst-open-codex-computer-use/)
-- [open-compute](https://awesomecua.com/resources/github-ellmos-ai-open-compute/)
 - [open-compute-mcp](https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/)
 - [open-computer-use](https://awesomecua.com/resources/github-ifuryst-open-computer-use/)
 - [OpenAdapt Agent](https://awesomecua.com/resources/github-openadaptai-openadapt-agent/)
@@ -64,3 +68,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [paldom playwright-stealth Skills](https://awesomecua.com/resources/github-paldom-playwright-stealth/)
 - [Panerelay](https://awesomecua.com/resources/github-f-loat-panerelay/)
 - [PANOPTES Screen MCP Server](https://awesomecua.com/resources/github-yxpil-panoptes/)
+- [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/)
+- [Parallels CLI Skill for Codex](https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/)
+- [Paseo Chrome Bridge](https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/)
+- [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/)

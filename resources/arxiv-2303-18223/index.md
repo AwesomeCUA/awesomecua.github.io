@@ -1,3 +1,11 @@
+---
+title: "A Survey of Large Language Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-18223/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey of Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

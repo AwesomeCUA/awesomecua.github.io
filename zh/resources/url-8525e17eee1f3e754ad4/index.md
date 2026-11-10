@@ -1,3 +1,11 @@
+---
+title: "Seg2Click · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8525e17eee1f3e754ad4/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Seg2Click
 
 一个托管的界面定位演示，输入截图和指令后，使用公开的 Seg2Click 模型预测操作掩码与点击位置。

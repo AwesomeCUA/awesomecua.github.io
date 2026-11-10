@@ -1,3 +1,11 @@
+---
+title: "Design optimization for high-performance… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-12474/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Design optimization for high-performance computing using FPGA
 
 Status: excluded from the active CUA catalog after scope review.

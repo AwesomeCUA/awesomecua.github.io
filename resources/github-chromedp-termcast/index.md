@@ -1,3 +1,11 @@
+---
+title: "termcast | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chromedp-termcast/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # termcast
 
 A Go utility that displays a chromedp browser page in a graphics terminal using screencast frames, with options to show the whole page or one element.

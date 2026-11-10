@@ -1,3 +1,11 @@
+---
+title: "cotomi Act: Learning to Automate Work by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-03231/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # cotomi Act: Learning to Automate Work by Watching You
 
 cotomi Act is a browser agent that executes multi-step tasks and turns observed user browsing into persistent knowledge shared with users.
@@ -26,6 +34,18 @@ Masafumi Oyamada, Kunihiro Takeoka, Kosuke Akimoto, Ryoma Obara, Masafumi Enomot
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-03231/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-03231/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_03231,
+  title = {{cotomi Act: Learning to Automate Work by Watching You}},
+  author = {{Masafumi Oyamada} and {Kunihiro Takeoka} and {Kosuke Akimoto} and {Ryoma Obara} and {Masafumi Enomoto} and {Haochen Zhang} and {Daichi Haraguchi} and {Takuya Tamura}},
+  year = {2026},
+  eprint = {2605.03231v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.03231v1},
+  note = {First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T23:50:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

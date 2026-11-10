@@ -1,3 +1,11 @@
+---
+title: "OS-Bench: Evaluating SWE Agents on Cross-OS… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-19368/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OS-Bench: Evaluating SWE Agents on Cross-OS Code Migration
 
 Status: excluded from the active CUA catalog after scope review.

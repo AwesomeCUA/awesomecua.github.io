@@ -1,3 +1,11 @@
+---
+title: "DeskForge-Qwen3.5-4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9610ef3e1de63d7b647e/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # DeskForge-Qwen3.5-4B
 
 DeskForge-Qwen3.5-4B is a desktop GUI model that turns a screenshot and instruction into a next-action pyautogui call with screen-relative coordinates.

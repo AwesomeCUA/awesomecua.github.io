@@ -1,3 +1,11 @@
+---
+title: "CaptiOCR | AwesomeCUA"
+url: https://awesomecua.com/resources/github-carlosacchi-captiocr/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # CaptiOCR
 
 CaptiOCR is a real-time Windows screen region OCR and text extraction tool powered by Tesseract for desktop workflows.

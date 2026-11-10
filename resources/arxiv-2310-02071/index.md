@@ -1,3 +1,11 @@
+---
+title: "Towards End-to-End Embodied Decision Making… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-02071/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond
 
 Bibliographic record for Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Liang Chen, Yichi Zhang, Shuhuai Ren, Haozhe Zhao, Zefan Cai, Yuchi Wang, Peiyi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-02071/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-02071/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_02071,
+  title = {{Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond}},
+  author = {{Liang Chen} and {Yichi Zhang} and {Shuhuai Ren} and {Haozhe Zhao} and {Zefan Cai} and {Yuchi Wang} and {Peiyi Wang} and {Tianyu Liu} and {Baobao Chang}},
+  year = {2023},
+  eprint = {2310.02071v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.02071v4},
+  note = {First published: 2023-10-03; Recorded arXiv version: v4; Recorded version updated: 2023-11-28T11:23:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

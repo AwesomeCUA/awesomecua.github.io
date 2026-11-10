@@ -1,3 +1,11 @@
+---
+title: "Label Controllers | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amywlp-label-controllers/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Label Controllers
 
 Label Controllers is a screenshot-to-controls API combining YOLO widget detection and RapidOCR with OpenAI/Anthropic computer-use tool schemas.

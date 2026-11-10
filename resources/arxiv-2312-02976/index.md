@@ -1,3 +1,11 @@
+---
+title: "SPOC: Imitating Shortest Paths in Simulation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-02976/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World
 
 Status: excluded from the active CUA catalog after scope review.

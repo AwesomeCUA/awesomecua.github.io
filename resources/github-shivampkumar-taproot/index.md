@@ -1,3 +1,11 @@
+---
+title: "taproot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shivampkumar-taproot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # taproot
 
 taproot is an open-source mobile GUI agent harness combining vision-language models with accessibility-tree grounding on AndroidWorld.

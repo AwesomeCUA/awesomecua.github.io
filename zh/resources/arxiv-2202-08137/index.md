@@ -1,3 +1,11 @@
+---
+title: "A data-driven approach for learning to… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2202-08137/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # A data-driven approach for learning to control computers
 
 结合强化学习与来自人类交互的行为先验，学习通过键盘和鼠标操作控制计算机。
@@ -27,6 +35,18 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2202-08137/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2202-08137/citation.csl.json
+
+```bibtex
+@misc{arxiv_2202_08137,
+  title = {{A data-driven approach for learning to control computers}},
+  author = {{Peter C Humphreys} and {David Raposo} and {Toby Pohlen} and {Gregory Thornton} and {Rachita Chhaparia} and {Alistair Muldal} and {Josh Abramson} and {Petko Georgiev} and {Alex Goldin} and {Adam Santoro} and {Timothy Lillicrap}},
+  year = {2022},
+  eprint = {2202.08137v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2202.08137v2},
+  note = {First published: 2022-02-16; Recorded arXiv version: v2; Recorded version updated: 2022-11-11T13:45:44Z.}
+}
+```
 
 ## 发表记录
 

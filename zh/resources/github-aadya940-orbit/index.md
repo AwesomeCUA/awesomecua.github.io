@@ -1,3 +1,11 @@
+---
+title: "Orbit (orbit-cua) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aadya940-orbit/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Orbit (orbit-cua)
 
 Orbit 是一个 Python 计算机使用框架，结合了自然语言屏幕定位和可组合的类型化工作流步骤。

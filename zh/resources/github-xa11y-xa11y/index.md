@@ -1,3 +1,11 @@
+---
+title: "xa11y · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xa11y-xa11y/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # xa11y
 
 xa11y 是使用 Rust、Python 和 Node.js 开发的跨平台桌面无障碍库，用于检查和操作 macOS、Windows 及 Linux 上的原生应用。

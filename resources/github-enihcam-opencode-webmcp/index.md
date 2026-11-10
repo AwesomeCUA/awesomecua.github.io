@@ -1,3 +1,11 @@
+---
+title: "opencode-webmcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-enihcam-opencode-webmcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # opencode-webmcp
 
 MCP bridge connecting OpenCode to Chromium's `document.modelContext` WebMCP API.

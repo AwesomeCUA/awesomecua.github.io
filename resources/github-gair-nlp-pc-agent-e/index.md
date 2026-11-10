@@ -1,3 +1,11 @@
+---
+title: "PC-Agent-E training and deployment | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # PC-Agent-E training and deployment
 
 Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.

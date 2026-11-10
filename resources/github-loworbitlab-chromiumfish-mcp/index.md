@@ -1,3 +1,11 @@
+---
+title: "chromiumfish_mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-loworbitlab-chromiumfish-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # chromiumfish_mcp
 
 Session-aware Model Context Protocol server for driving ChromiumFish browser automation.

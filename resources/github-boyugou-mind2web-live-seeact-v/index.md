@@ -1,3 +1,11 @@
+---
+title: "Mind2Web-Live (agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-boyugou-mind2web-live-seeact-v/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Mind2Web-Live
 
 A SeeAct-V web agent implementation for Mind2Web-Live. It uses screen images to plan actions and a visual grounding model to locate targets for coordinate-based actions.

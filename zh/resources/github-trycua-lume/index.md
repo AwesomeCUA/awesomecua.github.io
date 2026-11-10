@@ -1,3 +1,11 @@
+---
+title: "Lume · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-trycua-lume/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # Lume
 
 用于本地计算机使用环境的虚拟机管理工具。

@@ -1,3 +1,11 @@
+---
+title: "DAVE: A VLM Vision Encoder for Document… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-17221/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DAVE: A VLM Vision Encoder for Document Understanding and Web Agents
 
 DAVE trains a vision encoder for document images and web agents using self-supervised pretraining followed by supervised parsing and localization. It combines decoder-specific encoder merging with feature fusion and evaluates web localization and agent benchmarks alongside document tasks.
@@ -26,6 +34,18 @@ Brandon Huang, Hang Hua, Zhuoran Yu, Trevor Darrell, Rogerio Feris, Roei Herzig
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-17221/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-17221/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_17221,
+  title = {{DAVE: A VLM Vision Encoder for Document Understanding and Web Agents}},
+  author = {{Brandon Huang} and {Hang Hua} and {Zhuoran Yu} and {Trevor Darrell} and {Rogerio Feris} and {Roei Herzig}},
+  year = {2025},
+  eprint = {2512.17221v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.17221v3},
+  note = {First published: 2025-12-19; Recorded arXiv version: v3; Recorded version updated: 2025-12-31T17:30:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

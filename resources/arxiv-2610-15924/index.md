@@ -1,3 +1,11 @@
+---
+title: "Scalable Weak-to-Strong Verifier Hardening… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-15924/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Scalable Weak-to-Strong Verifier Hardening for Agent Environments
 
 Bibliographic record for Scalable Weak-to-Strong Verifier Hardening for Agent Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chong Zeng, Ziqian Zhong, Kexun Zhang, Ivan Bercovich, Ivgeni Segal, Yuzhen Mao,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15924/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15924/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15924,
+  title = {{Scalable Weak-to-Strong Verifier Hardening for Agent Environments}},
+  author = {{Chong Zeng} and {Ziqian Zhong} and {Kexun Zhang} and {Ivan Bercovich} and {Ivgeni Segal} and {Yuzhen Mao} and {Shashwat Saxena} and {Aditi Raghunathan}},
+  year = {2026},
+  eprint = {2610.15924v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15924v1},
+  note = {First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T21:10:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

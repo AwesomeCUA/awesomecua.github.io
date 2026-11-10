@@ -1,3 +1,11 @@
+---
+title: "UI-Genie Agent 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6d959b58bd4a2e98e417/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # UI-Genie Agent 7B
 
 A Qwen2.5-VL mobile action model trained using existing and reward-guided synthetic trajectories from the UI-Genie framework.

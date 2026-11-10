@@ -1,3 +1,11 @@
+---
+title: "CLIF · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cmalpass-clif/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CLIF
 
 CLIF 是 Windows 桌面 UI 自动化 CLI 和本地 MCP 服务器，用于检查和操作 WPF、WinForms 及 WinUI 应用。

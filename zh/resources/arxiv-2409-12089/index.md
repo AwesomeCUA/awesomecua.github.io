@@ -1,3 +1,11 @@
+---
+title: "The Impact of Element Ordering on LM… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-12089/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # The Impact of Element Ordering on LM Agent Performance
 
 研究智能体观察结果中 UI 元素的排列顺序如何影响网页和桌面任务表现；在缺少文档层级信息时，用 OmniACT 评估基于像素的元素检测器及降维排序方法。
@@ -27,6 +35,18 @@ Wayne Chi, Ameet Talwalkar, Chris Donahue
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-12089/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-12089/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_12089,
+  title = {{The Impact of Element Ordering on LM Agent Performance}},
+  author = {{Wayne Chi} and {Ameet Talwalkar} and {Chris Donahue}},
+  year = {2024},
+  eprint = {2409.12089v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.12089v3},
+  note = {First published: 2024-09-18; Recorded arXiv version: v3; Recorded version updated: 2024-10-06T21:25:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

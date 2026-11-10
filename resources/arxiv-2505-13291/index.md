@@ -1,3 +1,11 @@
+---
+title: "TimeSeriesGym: A Scalable Benchmark for (Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-13291/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "TEX (tex-browse-use) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TEX (tex-browse-use)
 
 Self-hosted browser-use engine for Claude Code that drives a real browser to operate web apps lacking APIs.

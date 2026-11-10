@@ -1,3 +1,11 @@
+---
+title: "Fara 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a4da77ee63f879cc8e63/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Fara 7B
 
 微软的 Fara 检查点，采用 Qwen2.5-VL 架构的图文到文本模型，约有 8.3B 个 BF16 参数，使用英语，采用 MIT 许可证，并关联 arXiv 论文 2511.19663。

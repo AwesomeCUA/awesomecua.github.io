@@ -1,3 +1,11 @@
+---
+title: "UGround V1 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e554295a7f3f5c9ad0d6/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # UGround V1 7B
 
 UGround-V1 checkpoint fine-tuned from Qwen2-VL-7B, with about 8.3B BF16 parameters in the standard Qwen2-VL architecture, provided as safetensors and a PyTorch file under Apache-2.0.

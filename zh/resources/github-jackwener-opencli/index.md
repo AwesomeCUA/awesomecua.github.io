@@ -1,3 +1,11 @@
+---
+title: "OpenCLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jackwener-opencli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OpenCLI
 
 OpenCLI 通过 Chrome 桥接，将已认证的网站和 Electron 应用转换为确定性的 CLI 命令及浏览器自动化技能。

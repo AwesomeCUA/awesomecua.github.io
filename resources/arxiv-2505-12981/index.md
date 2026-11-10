@@ -1,3 +1,11 @@
+---
+title: "From Assistants to Adversaries: Exploring the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12981/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents
 
 Analyzes security vulnerabilities across OEM system-level, third-party, and research mobile LLM agents, covering GUI and cross-application attack surfaces.
@@ -26,6 +34,18 @@ Liangxuan Wu, Chao Wang, Tianming Liu, Yanjie Zhao, Haoyu Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-12981/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-12981/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_12981,
+  title = {{From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents}},
+  author = {{Liangxuan Wu} and {Chao Wang} and {Tianming Liu} and {Yanjie Zhao} and {Haoyu Wang}},
+  year = {2025},
+  eprint = {2505.12981v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.12981v2},
+  note = {First published: 2025-05-19; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T07:02:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

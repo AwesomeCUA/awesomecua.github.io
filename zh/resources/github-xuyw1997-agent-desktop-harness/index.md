@@ -1,3 +1,11 @@
+---
+title: "Agent Desktop Harness (ADH) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xuyw1997-agent-desktop-harness/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agent Desktop Harness (ADH)
 
 原生 Windows 桌面计算机使用与可复用 RPA 测试框架，提供 CLI、MCP、Python 和 C++ 接口。

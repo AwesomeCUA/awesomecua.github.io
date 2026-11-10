@@ -1,3 +1,11 @@
+---
+title: "On the Opportunities and Risks of Foundation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2108-07258/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # On the Opportunities and Risks of Foundation Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "agent-seat-linux | AwesomeCUA"
+url: https://awesomecua.com/resources/github-muhibnayem-agent-seat-linux/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-seat-linux
 
 Provides application-scoped Wayland screen capture and isolated input seats for Linux automation agents.

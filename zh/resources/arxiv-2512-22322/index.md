@@ -1,3 +1,11 @@
+---
+title: "SmartSnap: Proactive Evidence Seeking… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-22322/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents
 
 SmartSnap 训练 GUI 智能体收集简洁的任务完成截图证据，供 LLM 评判；实验场景为移动端任务。
@@ -27,6 +35,18 @@ Shaofei Cai, Yulei Qin, Haojia Lin, Zihan Xu, Gang Li, Yuchen Shi, Zongyi Li, Yo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-22322/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-22322/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_22322,
+  title = {{SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents}},
+  author = {{Shaofei Cai} and {Yulei Qin} and {Haojia Lin} and {Zihan Xu} and {Gang Li} and {Yuchen Shi} and {Zongyi Li} and {Yong Mao} and {Siqi Cai} and {Xiaoyu Tan} and {Yitao Liang} and {Ke Li} and {Xing Sun}},
+  year = {2025},
+  eprint = {2512.22322v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.22322v2},
+  note = {First published: 2025-12-26; Recorded arXiv version: v2; Recorded version updated: 2026-01-06T03:31:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

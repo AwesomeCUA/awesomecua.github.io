@@ -1,3 +1,11 @@
+---
+title: "Broken Gates: Re-evaluating Web Bot Defenses… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-18659/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents
 
 Measures how autonomous LLM browser agents interact with commercial bot-management and anti-automation defenses on the web.
@@ -26,6 +34,18 @@ Behzad Ousat, Nikita Turkmen, Lalchandra Rampersaud, Dillan Bailey, Amin Kharraz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-18659/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-18659/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_18659,
+  title = {{Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents}},
+  author = {{Behzad Ousat} and {Nikita Turkmen} and {Lalchandra Rampersaud} and {Dillan Bailey} and {Amin Kharraz}},
+  year = {2026},
+  eprint = {2607.18659v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.18659v1},
+  note = {First published: 2026-07-21; Recorded arXiv version: v1; Recorded version updated: 2026-07-21T03:02:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

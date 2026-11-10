@@ -1,3 +1,11 @@
+---
+title: "SeleniumBase | AwesomeCUA"
+url: https://awesomecua.com/resources/github-seleniumbase-seleniumbase/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # SeleniumBase
 
 Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.

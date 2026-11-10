@@ -1,3 +1,11 @@
+---
+title: "Web Context Interface (WCI) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amirrezaalasti-webcontextinterface/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Web Context Interface (WCI)
 
 Web Context Interface（WCI）是三层规范和工具包，通过结构化语义元数据增强 HTML，供 AI 网页智能体使用。

@@ -1,3 +1,11 @@
+---
+title: "Cordis Social | AwesomeCUA"
+url: https://awesomecua.com/resources/github-enginefuture-cordis-social/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Cordis Social
 
 Lifecycle-safe Cordis plugin suite for orchestrating ProfileFleet, OpenAI Codex, and multi-profile browser workflows.

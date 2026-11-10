@@ -1,3 +1,11 @@
+---
+title: "ComputerUse.Best Expert Skills · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sagozen-computeruse-expert-skills/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # ComputerUse.Best Expert Skills
 
 开源的计算机使用技能、提示词模式及专业桌面与网页工作流合集。

@@ -1,3 +1,11 @@
+---
+title: "Multi-Agent Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sanzizlohar-multi-agent-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Multi-Agent Browser
 
 Coordinates five specialized AI agents sharing a browser workspace to conduct collaborative web research.

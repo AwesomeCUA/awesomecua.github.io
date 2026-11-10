@@ -1,3 +1,11 @@
+---
+title: "From Confident Closing to Silent Failure… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-09863/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # From Confident Closing to Silent Failure: Characterizing False Success in LLM Agents
 
 Bibliographic record for From Confident Closing to Silent Failure: Characterizing False Success in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Laksh Advani
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-09863/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-09863/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_09863,
+  title = {{From Confident Closing to Silent Failure: Characterizing False Success in LLM Agents}},
+  author = {{Laksh Advani}},
+  year = {2026},
+  eprint = {2606.09863v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.09863v1},
+  note = {First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T00:13:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Sikuli: Using GUI screenshots for search and… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Sikuli: Using GUI screenshots for search and automation
 
 Introduces screenshot-based GUI search and visual scripting, using image patterns to locate interface targets and direct mouse and keyboard events. It evaluates screenshot queries and demonstrates automation and interactive-help tasks.
@@ -26,6 +34,20 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 
 - BibTeX: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/citation.csl.json
+
+```bibtex
+@inproceedings{cua_510831381c08385eb74fb95e,
+  title = {{Sikuli: Using GUI screenshots for search and automation}},
+  author = {{Tom Yeh} and {Tsung-Hsiang Chang} and {Robert C. Miller}},
+  year = {2009},
+  month = oct,
+  booktitle = {Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)},
+  pages = {183-192},
+  doi = {10.1145/1622176.1622213},
+  url = {https://doi.org/10.1145/1622176.1622213},
+  note = {Publication date: 2009-10.}
+}
+```
 
 ## Publication record
 

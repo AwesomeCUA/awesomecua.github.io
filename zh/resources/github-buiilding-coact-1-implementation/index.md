@@ -1,3 +1,11 @@
+---
+title: "CoAct-1 Implementation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-buiilding-coact-1-implementation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CoAct-1 Implementation
 
 CoAct-1 混合编码与 GUI 多智能体架构的开源复现，在 OSWorld-Verified 上进行了评测。

@@ -1,3 +1,11 @@
+---
+title: "kev-0.6b-browser-use | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3c55f225a1f66a6261ac/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # kev-0.6b-browser-use
 
 kev-0.6b-browser-use is a 0.6B browser decision model that scores candidate page elements and chooses a click, type, or select operation from a task goal.

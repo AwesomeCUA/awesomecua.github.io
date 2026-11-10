@@ -1,3 +1,11 @@
+---
+title: "WebShepherd 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-72f7fe0211c6551b945f/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # WebShepherd 3B
 
 Web-Shepherd 集合中公开的文本过程奖励模型检查点，依据任务检查清单为网页智能体的决策评分。

@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-G1 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d70a755e3b2102f25f34/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # InfiGUI-G1 7B
 
 GUI 定位模型检查点，使用自适应探索奖励和多个候选答案进行训练，以改善指令与界面元素的对应关系。

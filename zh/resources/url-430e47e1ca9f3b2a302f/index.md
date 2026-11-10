@@ -1,3 +1,11 @@
+---
+title: "Mano-CUA-2.0-4B-MLX-8bit · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Mano-CUA-2.0-4B-MLX-8bit
 
 一个面向 Apple Silicon 的 MLX 量化 Mano-CUA 模型，读取截图和任务指令后生成结构化的图形界面操作。

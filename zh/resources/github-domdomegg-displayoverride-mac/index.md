@@ -1,3 +1,11 @@
+---
+title: "displayoverride-mac · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-domdomegg-displayoverride-mac/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # displayoverride-mac
 
 一个 macOS 菜单栏应用，可创建 4K、1080p 或 720p 的虚拟显示器用于镜像，让计算机使用模型看到其训练时使用的标准分辨率。

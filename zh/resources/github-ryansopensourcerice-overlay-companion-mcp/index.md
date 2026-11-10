@@ -1,3 +1,11 @@
+---
+title: "Overlay Companion MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ryansopensourcerice-overlay-companion-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Overlay Companion MCP
 
 Overlay Companion MCP 提供透明的屏幕视觉叠加层和 MCP 服务器，用于人参与其中的计算机使用交互。

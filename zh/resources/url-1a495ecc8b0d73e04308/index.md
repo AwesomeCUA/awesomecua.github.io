@@ -1,3 +1,11 @@
+---
+title: "GUI-SD-data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1a495ecc8b0d73e04308/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # GUI-SD-data
 
 GUI-SD 的训练数据，GUI-SD 是一种用于 GUI 定位的在线策略自蒸馏方法；数据包含约 6.99k 张截图和一个供 GUI-SD 训练脚本读取的 JSONL 标注文件。

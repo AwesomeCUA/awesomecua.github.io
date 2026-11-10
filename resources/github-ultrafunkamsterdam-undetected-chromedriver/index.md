@@ -1,3 +1,11 @@
+---
+title: "undetected-chromedriver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # undetected-chromedriver
 
 undetected-chromedriver is an anti-bot Selenium ChromeDriver patch widely used by web agents to bypass anti-automation fingerprinting.

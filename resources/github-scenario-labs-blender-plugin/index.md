@@ -1,3 +1,11 @@
+---
+title: "Scenario for Blender | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scenario-labs-blender-plugin/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Scenario for Blender
 
 A Blender extension for generating media and scene assets. Its local MCP server lets agents inspect an open scene and request generation work.

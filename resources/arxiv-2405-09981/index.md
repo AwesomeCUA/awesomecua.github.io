@@ -1,3 +1,11 @@
+---
+title: "Adversarial Robustness for Visual Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-09981/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Adversarial Robustness for Visual Grounding of Multimodal Large Language Models
 
 Bibliographic record for Adversarial Robustness for Visual Grounding of Multimodal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kuofeng Gao, Yang Bai, Jiawang Bai, Yong Yang, Shu-Tao Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-09981/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-09981/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_09981,
+  title = {{Adversarial Robustness for Visual Grounding of Multimodal Large Language Models}},
+  author = {{Kuofeng Gao} and {Yang Bai} and {Jiawang Bai} and {Yong Yang} and {Shu-Tao Xia}},
+  year = {2024},
+  eprint = {2405.09981v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.09981v1},
+  note = {First published: 2024-05-16; Recorded arXiv version: v1; Recorded version updated: 2024-05-16T10:54:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AutoGLM: Autonomous Foundation Agents for GUIs | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-00820/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AutoGLM: Autonomous Foundation Agents for GUIs
 
 Presents AutoGLM agents for browser and phone control, separating planning from grounding and training through an evolving interaction curriculum.
@@ -26,6 +34,18 @@ Xiao Liu, Bo Qin, Dongzhu Liang, Guang Dong, Hanyu Lai, Hanchen Zhang, Hanlin Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-00820/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-00820/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_00820,
+  title = {{AutoGLM: Autonomous Foundation Agents for GUIs}},
+  author = {{Xiao Liu} and {Bo Qin} and {Dongzhu Liang} and {Guang Dong} and {Hanyu Lai} and {Hanchen Zhang} and {Hanlin Zhao} and {Iat Long Iong} and {Jiadai Sun} and {Jiaqi Wang} and {Junjie Gao} and {Junjun Shan} and {Kangning Liu} and {Shudan Zhang} and {Shuntian Yao} and {Siyi Cheng} and {Wentao Yao} and {Wenyi Zhao} and {Xinghan Liu} and {Xinyi Liu} and {Xinying Chen} and {Xinyue Yang} and {Yang Yang} and {Yifan Xu} and {Yu Yang} and {Yujia Wang} and {Yulin Xu} and {Zehan Qi} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2024},
+  eprint = {2411.00820v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.00820v1},
+  note = {First published: 2024-10-28; Recorded arXiv version: v1; Recorded version updated: 2024-10-28T17:05:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

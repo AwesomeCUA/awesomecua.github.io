@@ -1,3 +1,11 @@
+---
+title: "On optimality of kernels for approximate… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1106-6280/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # On optimality of kernels for approximate Bayesian computation using sequential Monte Carlo
 
 Status: excluded from the active CUA catalog after scope review.

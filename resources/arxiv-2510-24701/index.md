@@ -1,3 +1,11 @@
+---
+title: "Tongyi DeepResearch Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24701/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Tongyi DeepResearch Technical Report
 
 Bibliographic record for Tongyi DeepResearch Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tongyi DeepResearch Team, Baixuan Li, Bo Zhang, Dingchu Zhang, Fei Huang, Guangy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24701/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24701/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24701,
+  title = {{Tongyi DeepResearch Technical Report}},
+  author = {{Tongyi DeepResearch Team} and {Baixuan Li} and {Bo Zhang} and {Dingchu Zhang} and {Fei Huang} and {Guangyu Li} and {Guoxin Chen} and {Huifeng Yin} and {Jialong Wu} and {Jingren Zhou} and {Kuan Li} and {Liangcai Su} and {Litu Ou} and {Liwen Zhang} and {Pengjun Xie} and {Rui Ye} and {Wenbiao Yin} and {Xinmiao Yu} and {Xinyu Wang} and {Xixi Wu} and {Xuanzhong Chen} and {Yida Zhao} and {Zhen Zhang} and {Zhengwei Tao} and {Zhongwang Zhang} and {Zile Qiao} and {Chenxi Wang} and {Donglei Yu} and {Gang Fu} and {Haiyang Shen} and {Jiayin Yang} and {Jun Lin} and {Junkai Zhang} and {Kui Zeng} and {Li Yang} and {Hailong Yin} and {Maojia Song} and {Ming Yan} and {Minpeng Liao} and {Peng Xia} and {Qian Xiao} and {Rui Min} and {Ruixue Ding} and {Runnan Fang} and {Shaowei Chen} and {Shen Huang} and {Shihang Wang} and {Shihao Cai} and {Weizhou Shen} and {Xiaobin Wang} and {Xin Guan} and {Xinyu Geng} and {Yingcheng Shi} and {Yuning Wu} and {Zhuo Chen} and {Zijian Li} and {Yong Jiang}},
+  year = {2025},
+  eprint = {2510.24701v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24701v3},
+  note = {First published: 2025-10-28; Recorded arXiv version: v3; Recorded version updated: 2026-05-18T04:10:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

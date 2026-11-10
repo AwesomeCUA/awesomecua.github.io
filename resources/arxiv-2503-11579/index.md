@@ -1,3 +1,11 @@
+---
+title: "Vamba: Understanding Hour-Long Videos with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-11579/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers
 
 Status: excluded from the active CUA catalog after scope review.

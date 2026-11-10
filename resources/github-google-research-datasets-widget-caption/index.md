@@ -1,3 +1,11 @@
+---
+title: "widget-caption | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-datasets-widget-caption/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # widget-caption
 
 A dataset of captions describing UI widget functions for training and evaluating models that describe interface elements. It includes 61,286 captioned widgets.

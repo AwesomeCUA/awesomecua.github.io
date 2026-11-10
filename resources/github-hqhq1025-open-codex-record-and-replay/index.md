@@ -1,3 +1,11 @@
+---
+title: "Open Codex Record & Replay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Open Codex Record & Replay
 
 Clean-room macOS implementation of semantic UI workflow recording and deterministic Accessibility-tree replay with visual template fallback.

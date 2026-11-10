@@ -1,3 +1,11 @@
+---
+title: "Browser Operator (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9f296457c8ca46446c1f/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Browser Operator
 
 Browser Operator is Opera's preview browser agent for carrying out natural-language browsing tasks while showing its steps and allowing user takeover.

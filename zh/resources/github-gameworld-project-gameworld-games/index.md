@@ -1,3 +1,11 @@
+---
+title: "GameWorld Games · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gameworld-project-gameworld-games/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # GameWorld Games
 
 GameWorld Games 提供用于智能体评测的浏览器游戏快照，每个游戏都有初始化、重置和检查游戏状态的 API。

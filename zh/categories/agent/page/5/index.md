@@ -1,11 +1,17 @@
+---
+title: "计算机使用智能体（第 5 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/agent/page/5/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体：第 5 页
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/page/5/ · [English](https://awesomecua.com/categories/agent/page/5/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
-- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/zh/resources/github-333-wg-pi-wm/)：基于 pi-agent 构建的桌面 AI 智能体工作空间，用于执行本地任务和浏览器自动化。
-- [Piskie](https://awesomecua.com/zh/resources/github-piskie-dev-piskie/)：面向真实网页的桌面 AI 智能体，内置具备反检测功能的指纹浏览器。
 - [PocketCode](https://awesomecua.com/zh/resources/github-m1ssbe4r-pocketcode/)：在设备端运行的 Android AI 编码和自动化智能体，能够直接在手机上构建和运行应用。
 - [Pocketwatch](https://awesomecua.com/zh/resources/github-psamme-pocketwatch/)：面向 iPhone 实体设备应用的 AI 测试版测试智能体，通过 macOS iPhone Mirroring 执行用户操作流程。
 - [Pointer](https://awesomecua.com/zh/resources/url-98122987ca3e7c764d0e/)：Pointer 介绍一款桌面计算机使用智能体：先检查任务可行性，再规划阶段目标，由执行器结合界面、代码与浏览器工具完成任务。

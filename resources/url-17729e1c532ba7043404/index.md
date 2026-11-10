@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot-v2 instruction variants | AwesomeCUA"
+url: https://awesomecua.com/resources/url-17729e1c532ba7043404/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # ScreenSpot-v2 instruction variants
 
 Instruction variants over ScreenSpot-v2 screenshots that distinguish original commands, explicit actions, target descriptions and impossible operations.

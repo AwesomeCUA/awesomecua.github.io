@@ -1,3 +1,11 @@
+---
+title: "predicate-authorityd · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-predicatesystems-predicate-authority-sidecar/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # predicate-authorityd
 
 Rust 编写的旁路进程，按本地 ALLOW/DENY 策略规则检查智能体的每个动作（例如对某个网址的浏览器点击），并签发短时有效的授权凭证，附带终端仪表盘和网页界面。

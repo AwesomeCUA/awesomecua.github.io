@@ -1,3 +1,11 @@
+---
+title: "kimi-cu-pi · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-johndfowler-kimi-cu-pi/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # kimi-cu-pi
 
 将 Kimi Computer Use（KimiCU）的视觉定位和动作能力连接到 Pi 编程智能体的扩展。

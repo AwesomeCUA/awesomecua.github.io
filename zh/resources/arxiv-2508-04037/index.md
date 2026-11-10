@@ -1,3 +1,11 @@
+---
+title: "Evolving in Tasks: Empowering the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-04037/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Evolving in Tasks: Empowering the Multi-modality Large Language Model as the Computer Use Agent
 
 Self-Evolution Agent 结合自动生成可验证的计算机使用轨迹与逐步强化学习，进行长程任务训练；还介绍一种无需额外训练阶段即可整合定位和规划能力的模型增强方法。
@@ -27,6 +35,18 @@ Yuhao Cheng, Liang Tang, Shuxian Li, Yukang Huo, Tiaonan Duan, Kaer Huang, Yanzh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-04037/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-04037/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04037,
+  title = {{Evolving in Tasks: Empowering the Multi-modality Large Language Model as the Computer Use Agent}},
+  author = {{Yuhao Cheng} and {Liang Tang} and {Shuxian Li} and {Yukang Huo} and {Tiaonan Duan} and {Kaer Huang} and {Yanzhe Jing} and {Yiqiang Yan}},
+  year = {2025},
+  eprint = {2508.04037v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04037v2},
+  note = {First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2026-01-22T05:22:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

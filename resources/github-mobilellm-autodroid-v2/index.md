@@ -1,3 +1,11 @@
+---
+title: "AutoDroid V2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobilellm-autodroid-v2/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # AutoDroid V2
 
 An Android automation implementation that builds app documentation from exploration traces and evaluates language-model-generated execution code in emulator workflows.

@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-2B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-db97f9727111dc76662c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2-VL-2B-Instruct
 
 一个用于图像和视频理解的指令微调视觉语言模型。其模型卡描述了根据视觉输入和文本指令操作移动设备的潜在用途。

@@ -1,3 +1,11 @@
+---
+title: "wangye520 codex-computer-use (Cursor Port) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wangye520-codex-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # wangye520 codex-computer-use (Cursor Port)
 
 将 OpenAI Codex 的 `@oai/sky` Computer Use 引擎移植到 Cursor，以实现由截图驱动的鼠标和键盘控制。

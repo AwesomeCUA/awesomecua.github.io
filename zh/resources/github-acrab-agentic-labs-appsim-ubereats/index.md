@@ -1,3 +1,11 @@
+---
+title: "AppSim-UberEats · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-ubereats/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # AppSim-UberEats
 
 AppSim-UberEats 是用于移动端智能体评测的 Android 应用复刻环境，包含可交互的购物界面、预置数据及任务事件和答案检查脚本。

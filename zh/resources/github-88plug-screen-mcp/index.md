@@ -1,3 +1,11 @@
+---
+title: "screen-mcp (Linux Wayland) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-88plug-screen-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # screen-mcp (Linux Wayland)
 
 面向 Claude Code 和 Grok 的 Linux Wayland 计算机使用 MCP 服务器，支持截图、点击、输入和滚动。

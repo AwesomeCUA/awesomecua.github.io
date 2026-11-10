@@ -1,3 +1,11 @@
+---
+title: "Roubao | AwesomeCUA"
+url: https://awesomecua.com/resources/github-turbo1123-roubao/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Roubao
 
 On-device Android phone agent in Kotlin that captures screenshots and taps, swipes and types through Shizuku without a PC, running a planner, executor and reflector loop on any OpenAI-compatible VLM, GUI-Owl or MAI-UI.

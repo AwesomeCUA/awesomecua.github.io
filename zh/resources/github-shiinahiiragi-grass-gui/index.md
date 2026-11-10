@@ -1,3 +1,11 @@
+---
+title: "grass-gui · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shiinahiiragi-grass-gui/
+updated: 2026-10-18
+type: infrastructure
+lang: zh-CN
+---
+
 # grass-gui
 
 ScienceBoard 用于替代原界面的 GRASS GIS 8.4 wxPython 界面，内置 Flask 服务器，可加载地图集和图层、运行 GRASS 命令，并以 JSON 返回图层、区域和控制台状态供任务检查。

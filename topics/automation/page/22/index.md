@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 22 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/22/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 22
 
 HTML page: https://awesomecua.com/topics/automation/page/22/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [profile-use](https://awesomecua.com/resources/github-leeguooooo-profile-use/)
-- [ProfileFleet](https://awesomecua.com/resources/github-enginefuture-profilefleet/)
-- [Programming with Pixels (PwP)](https://awesomecua.com/resources/github-programmingwithpixels-pwp/)
-- [Project Tendril](https://awesomecua.com/resources/github-gadgethd-project-tendril/)
-- [Promptwright](https://awesomecua.com/resources/github-sahajamit-promptwright/)
 - [Proxy Lite](https://awesomecua.com/resources/github-convergence-ai-proxy-lite/)
 - [PTFakeTouch](https://awesomecua.com/resources/github-ret70-ptfaketouch/)
 - [PUDA guidriver](https://awesomecua.com/resources/github-pudap-guidriver/)
@@ -64,3 +67,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [RobotGo](https://awesomecua.com/resources/github-go-vgo-robotgo/)
 - [Robotgo Pro](https://awesomecua.com/resources/github-vcaesar-robotgo-pro/)
 - [RobotJS](https://awesomecua.com/resources/github-octalmage-robotjs/)
+- [robotsix-browser](https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/)
+- [Rocuronium](https://awesomecua.com/resources/github-kageroumado-rocuronium/)
+- [Rod](https://awesomecua.com/resources/github-go-rod-rod/)
+- [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/)
+- [rote](https://awesomecua.com/resources/github-bhuvanb3110-rote/)

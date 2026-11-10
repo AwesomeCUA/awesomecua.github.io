@@ -1,3 +1,11 @@
+---
+title: "Achieving 91.4% on Android World: A New… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f8b67bde8c79e7934a2a/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Achieving 91.4% on Android World: A New Approach to Mobile UI Automation
 
 Technical article describing an Android UI agent that alternates planning with single actions, checks screen changes and uses a dedicated text editing path. It reports AndroidWorld results.

@@ -1,3 +1,11 @@
+---
+title: "Ghost OS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ghostwright-ghost-os/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ghost OS
 
 Ghost OS 是原生 macOS MCP 服务器，结合基于无障碍树的动作执行、Vision OCR 回退机制和可复用的工作流配方。

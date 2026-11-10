@@ -1,3 +1,11 @@
+---
+title: "Hronaut · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hronaut-hronaut-vscode/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Hronaut
 
 这款 VS Code 扩展将编辑器中的智能体连接到 Hronaut 的本地浏览器 MCP 服务器，为每个项目提供独立且可见的浏览器工作区。

@@ -1,3 +1,11 @@
+---
+title: "Effectprint | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tommytranx-effectprint/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Effectprint
 
 Deterministic behavioral contract auditing suite for verifying side effects of WebMCP browser-agent tools.

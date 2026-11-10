@@ -1,3 +1,11 @@
+---
+title: "Rephrase, Augment, Reason: Visual Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-05861/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models
 
 Bibliographic record for Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-05861/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-05861/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_05861,
+  title = {{Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models}},
+  author = {{Archiki Prasad} and {Elias Stengel-Eskin} and {Mohit Bansal}},
+  year = {2023},
+  eprint = {2310.05861v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.05861v2},
+  note = {First published: 2023-10-09; Recorded arXiv version: v2; Recorded version updated: 2024-04-02T17:37:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

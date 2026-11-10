@@ -1,3 +1,11 @@
+---
+title: "universe-starter-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openai-universe-starter-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # universe-starter-agent
 
 A deprecated starter agent trains with A3C to play Universe games, including games operated through VNC remote desktops with delayed observations and actions.

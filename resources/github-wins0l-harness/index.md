@@ -1,3 +1,11 @@
+---
+title: "InFu (Windows Agent Harness) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wins0l-harness/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # InFu (Windows Agent Harness)
 
 Local coding and computer-use agent for Windows that inspects repositories, runs commands, and automates desktop tasks.

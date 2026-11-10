@@ -1,3 +1,11 @@
+---
+title: "Agent S | AwesomeCUA"
+url: https://awesomecua.com/resources/github-simular-ai-agent-s/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Agent S
 
 Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.

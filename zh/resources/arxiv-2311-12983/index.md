@@ -1,3 +1,11 @@
+---
+title: "GAIA: a benchmark for General AI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2311-12983/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # GAIA: a benchmark for General AI Assistants
 
 提出一组问题，测试助手在屏幕操作之外的推理、多模态理解、浏览和工具使用能力。
@@ -27,6 +35,18 @@ Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Th
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2311-12983/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2311-12983/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_12983,
+  title = {{GAIA: a benchmark for General AI Assistants}},
+  author = {{Grégoire Mialon} and {Clémentine Fourrier} and {Craig Swift} and {Thomas Wolf} and {Yann LeCun} and {Thomas Scialom}},
+  year = {2023},
+  eprint = {2311.12983v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.12983v1},
+  note = {First published: 2023-11-21; Recorded arXiv version: v1; Recorded version updated: 2023-11-21T20:34:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

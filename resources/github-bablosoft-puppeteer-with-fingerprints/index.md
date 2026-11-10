@@ -1,3 +1,11 @@
+---
+title: "puppeteer-with-fingerprints | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bablosoft-puppeteer-with-fingerprints/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # puppeteer-with-fingerprints
 
 puppeteer-with-fingerprints is a Windows plugin that launches Puppeteer browsers with fingerprints fetched from the FingerprintSwitcher service.

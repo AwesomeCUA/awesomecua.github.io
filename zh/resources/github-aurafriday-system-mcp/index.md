@@ -1,3 +1,11 @@
+---
+title: "System Automation MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aurafriday-system-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # System Automation MCP
 
 System Automation MCP 向兼容 MCP 的智能体提供跨平台桌面 UI 检查、OCR、窗口管理以及鼠标和键盘动作。

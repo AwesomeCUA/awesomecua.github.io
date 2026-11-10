@@ -1,3 +1,11 @@
+---
+title: "Mango: Multi-Agent Web Navigation via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-18779/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Mango: Multi-Agent Web Navigation via Global-View Optimization
 
 提出多智能体网页导航方法 Mango，使用 Thompson Sampling 选择起始 URL，并保存导航历史供后续尝试参考。
@@ -27,6 +35,18 @@ Weixi Tong, Yifeng Di, Tianyi Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-18779/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-18779/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18779,
+  title = {{Mango: Multi-Agent Web Navigation via Global-View Optimization}},
+  author = {{Weixi Tong} and {Yifeng Di} and {Tianyi Zhang}},
+  year = {2026},
+  eprint = {2604.18779v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18779v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T19:42:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

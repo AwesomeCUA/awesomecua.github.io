@@ -1,3 +1,11 @@
+---
+title: "Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-ada… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-58195ef097be91525554/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter
 
 PEFT world-model adapter for Llama 3.1 8B Instruct from the WMA web agent project, trained to describe the state changes an action causes so the agent can choose actions on WebArena.

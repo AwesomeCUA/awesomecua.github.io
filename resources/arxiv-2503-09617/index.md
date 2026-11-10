@@ -1,3 +1,11 @@
+---
+title: "Factorio Learning Environment | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-09617/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Factorio Learning Environment
 
 Bibliographic record for Factorio Learning Environment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jack Hopkins, Mart Bakler, Akbir Khan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-09617/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-09617/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_09617,
+  title = {{Factorio Learning Environment}},
+  author = {{Jack Hopkins} and {Mart Bakler} and {Akbir Khan}},
+  year = {2025},
+  eprint = {2503.09617v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.09617v1},
+  note = {First published: 2025-03-06; Recorded arXiv version: v1; Recorded version updated: 2025-03-06T20:13:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

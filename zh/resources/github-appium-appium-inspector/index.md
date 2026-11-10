@@ -1,3 +1,11 @@
+---
+title: "Appium Inspector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium-inspector/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Appium Inspector
 
 一款 Appium 界面检查工具，可并排查看应用截图与页面源信息，并查找、操作界面元素；提供桌面应用和服务器插件。

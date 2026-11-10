@@ -1,3 +1,11 @@
+---
+title: "UINav: A Practical Approach to… (2312.10170) | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-10170/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # UINav: A Practical Approach to Train On-Device Automation Agents
 
 Introduces UINav, a demonstration-based method for training mobile UI automation agents, with a referee model for failure feedback and automatic augmentation of examples.
@@ -26,6 +34,18 @@ Wei Li, Fu-Lin Hsu, Will Bishop, Folawiyo Campbell-Ajala, Max Lin, Oriana Riva
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-10170/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-10170/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_10170,
+  title = {{UINav: A Practical Approach to Train On-Device Automation Agents}},
+  author = {{Wei Li} and {Fu-Lin Hsu} and {Will Bishop} and {Folawiyo Campbell-Ajala} and {Max Lin} and {Oriana Riva}},
+  year = {2023},
+  eprint = {2312.10170v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.10170v4},
+  note = {First published: 2023-12-15; Recorded arXiv version: v4; Recorded version updated: 2024-06-28T11:25:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

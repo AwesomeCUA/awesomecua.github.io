@@ -1,3 +1,11 @@
+---
+title: "Camoufox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daijro-camoufox/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Camoufox
 
 Camoufox is an open-source anti-detect Firefox browser with C++-level fingerprint rotation designed for web automation and AI browser agents.

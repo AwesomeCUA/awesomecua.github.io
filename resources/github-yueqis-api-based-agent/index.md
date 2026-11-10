@@ -1,3 +1,11 @@
+---
+title: "API-Based-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yueqis-api-based-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # API-Based-Agent
 
 Code for web agents that use application APIs and browser actions together, with scripts for evaluating the hybrid approach on WebArena.

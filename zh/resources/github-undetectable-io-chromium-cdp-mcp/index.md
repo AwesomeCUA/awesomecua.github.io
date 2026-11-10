@@ -1,3 +1,11 @@
+---
+title: "Undetectable Chromium CDP MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-undetectable-io-chromium-cdp-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Undetectable Chromium CDP MCP
 
 Undetectable.io 的 Model Context Protocol 服务器，通过 CDP 操作 Chrome、Edge、Brave、Opera 和 Vivaldi 浏览器。

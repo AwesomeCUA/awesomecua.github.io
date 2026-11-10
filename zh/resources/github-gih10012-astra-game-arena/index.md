@@ -1,3 +1,11 @@
+---
+title: "Astra Game Arena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gih10012-astra-game-arena/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Astra Game Arena
 
 可恢复进度、仅通过屏幕交互的计算机使用评测场，用于测试 Codex 智能体能否玩本地安装的桌面游戏。

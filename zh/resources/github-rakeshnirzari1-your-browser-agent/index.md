@@ -1,3 +1,11 @@
+---
+title: "Your Browser Agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rakeshnirzari1-your-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Your Browser Agent
 
 将 Claude Code、Cursor 和 MCP 客户端连接到用户实际使用且已登录的 Chrome 浏览器。

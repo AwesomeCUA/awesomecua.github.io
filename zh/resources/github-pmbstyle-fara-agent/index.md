@@ -1,3 +1,11 @@
+---
+title: "Fara Browser Automation Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pmbstyle-fara-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Fara Browser Automation Agent
 
 本地浏览器自动化智能体，通过 LM Studio 或 Ollama 及 Playwright 使用 Microsoft 的 Fara-7B 计算机使用模型。

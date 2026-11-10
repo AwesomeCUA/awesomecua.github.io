@@ -1,3 +1,11 @@
+---
+title: "Earth-Agent-Pro: Towards Real-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-12533/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Earth-Agent-Pro: Towards Real-World Full-Chain Earth Observation with Agents
 
 Bibliographic record for Earth-Agent-Pro: Towards Real-World Full-Chain Earth Observation with Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhutao Lv, Chenhao Dang, Yi Feng, Yanpei Gong, Xiaolei Wang, Junyan Ye, Conghui 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-12533/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-12533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_12533,
+  title = {{Earth-Agent-Pro: Towards Real-World Full-Chain Earth Observation with Agents}},
+  author = {{Zhutao Lv} and {Chenhao Dang} and {Yi Feng} and {Yanpei Gong} and {Xiaolei Wang} and {Junyan Ye} and {Conghui He} and {Weijia Li}},
+  year = {2026},
+  eprint = {2609.12533v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.12533v1},
+  note = {First published: 2026-09-11; Recorded arXiv version: v1; Recorded version updated: 2026-09-11T07:41:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

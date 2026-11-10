@@ -1,3 +1,11 @@
+---
+title: "Multimodal Auto Validation For… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-00689/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Multimodal Auto Validation For Self-Refinement in Web Agents
 
 研究网页智能体的文本与视觉验证，并用所得验证器检测失败、指导工作流程自行改进。
@@ -27,6 +35,18 @@ Ruhana Azam, Tamer Abuelsaad, Aditya Vempaty, Ashish Jagmohan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-00689/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-00689/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_00689,
+  title = {{Multimodal Auto Validation For Self-Refinement in Web Agents}},
+  author = {{Ruhana Azam} and {Tamer Abuelsaad} and {Aditya Vempaty} and {Ashish Jagmohan}},
+  year = {2024},
+  eprint = {2410.00689v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.00689v2},
+  note = {First published: 2024-10-01; Recorded arXiv version: v2; Recorded version updated: 2024-10-11T15:42:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

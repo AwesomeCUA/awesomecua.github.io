@@ -1,3 +1,11 @@
+---
+title: "From Failure to Mastery: Generating Hard… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-01498/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # From Failure to Mastery: Generating Hard Samples for Tool-use Agents
 
 Bibliographic record for From Failure to Mastery: Generating Hard Samples for Tool-use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bingguang Hao, Zengzhuang Xu, Yuntao Wen, Xinyi Xu, Yang Liu, Tong Zhao, Maolin 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-01498/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-01498/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_01498,
+  title = {{From Failure to Mastery: Generating Hard Samples for Tool-use Agents}},
+  author = {{Bingguang Hao} and {Zengzhuang Xu} and {Yuntao Wen} and {Xinyi Xu} and {Yang Liu} and {Tong Zhao} and {Maolin Wang} and {Long Chen} and {Dong Wang} and {Yicheng Chen} and {Cunyin Peng} and {Xiangyu Zhao} and {Chenyi Zhuang} and {Ji Zhang}},
+  year = {2026},
+  eprint = {2601.01498v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.01498v1},
+  note = {First published: 2026-01-04; Recorded arXiv version: v1; Recorded version updated: 2026-01-04T11:56:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

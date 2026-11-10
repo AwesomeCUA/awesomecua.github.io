@@ -1,3 +1,11 @@
+---
+title: "OpenP5: An Open-Source Platform for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-11134/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems
 
 Status: excluded from the active CUA catalog after scope review.

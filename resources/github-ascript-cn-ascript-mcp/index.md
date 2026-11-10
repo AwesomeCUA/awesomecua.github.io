@@ -1,3 +1,11 @@
+---
+title: "ascript-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ascript-cn-ascript-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ascript-mcp
 
 Model Context Protocol server for automating real Android, iOS, and Windows devices from Claude, Cursor, and MCP clients.

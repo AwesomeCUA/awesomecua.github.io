@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-30B-A3B-Thinking · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1b036956436123d87ff1/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-30B-A3B-Thinking
 
 Qwen3-VL-30B-A3B-Thinking 是视觉语言模型权重；其模型卡描述了识别界面元素并使用工具操作电脑和移动设备图形界面的能力。

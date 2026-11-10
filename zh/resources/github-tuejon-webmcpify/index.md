@@ -1,3 +1,11 @@
+---
+title: "webmcpify · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tuejon-webmcpify/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # webmcpify
 
 这是一个为现有网页应用添加 WebMCP 工具的智能体技能。它盘点应用功能，请用户批准工具清单，并在 Chrome 中检查工具执行效果。

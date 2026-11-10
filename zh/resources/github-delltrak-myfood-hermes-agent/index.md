@@ -1,3 +1,11 @@
+---
+title: "MyFood Hermes Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-delltrak-myfood-hermes-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # MyFood Hermes Agent
 
 以安全为先的 Hermes 浏览器智能体，通过可见的网页浏览器订餐，并在结账时要求明确确认。

@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_Task_Suite_train | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f68939821685c9dcc78c/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # GUI_Reflection_Task_Suite_train
 
 Training split of the GUI Reflection Task Suite: JSONL files for action verification, action reversal and mistake-informed reattempt, built on AndroidControl, GUI Odyssey, AMEX, OS-Atlas and Wave UI.

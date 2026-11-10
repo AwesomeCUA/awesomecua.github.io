@@ -1,3 +1,11 @@
+---
+title: "Claude Linux Desktop MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lukelamb-claude-linux-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Claude Linux Desktop MCP
 
 Model Context Protocol 扩展，使 Claude 能够通过截图、窗口、剪贴板和输入功能全面控制 Linux X11 桌面。

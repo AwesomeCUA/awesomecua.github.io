@@ -1,3 +1,11 @@
+---
+title: "UI-Mate-27B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ad993f634943aadbc3f7/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # UI-Mate-27B
 
 A 27B GUI agent model from the UI-Mate release, trained from Qwen3.6-27B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.

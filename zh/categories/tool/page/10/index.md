@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体工具（第 10 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/page/10/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具：第 10 页
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/page/10/ · [English](https://awesomecua.com/categories/tool/page/10/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
-- [MobileMCP](https://awesomecua.com/zh/resources/github-magi-labs-mobilemcp/)：MobileMCP 通过设备端 AccessibilityService 应用，让 AI 智能体经由 WebSocket 控制实体 Android 手机，无需 ADB 或 root 权限。
 - [mobius-browser-guard](https://awesomecua.com/zh/resources/github-mobius-style-mobius-browser-guard/)：面向 Claude in Chrome 浏览器动作、可审查且不查看内容的权限关卡，由明确的动作风险等级驱动。
 - [nanbbb dsh-computer-use-windows](https://awesomecua.com/zh/resources/github-nanbbb-dsh-computer-use-windows/)：用于 DeepSeek Harness 的 Windows 计算机使用插件，结合窗口发现、UI Automation 检查和输入合成。
 - [native-devtools-mcp](https://awesomecua.com/zh/resources/github-vectora-foundry-native-devtools-mcp/)：本地 Rust MCP 服务器，可操作 macOS 和 Windows 应用、通过 CDP 操作 Chrome 或 Electron 页面，并通过 ADB 操作 Android 设备，支持截图、OCR、无障碍查询、输入和模板匹配。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/10/ · [English](ht
 - [ReactSentinel](https://awesomecua.com/zh/resources/github-edgarbnt-reactsentinel/)：Model Context Protocol 服务器，让 AI 智能体检查实时 React 组件状态、重放交互，并在浏览器中验证 UI 修复。
 - [recast](https://awesomecua.com/zh/resources/github-yagna-1-recast/)：编译器，可将录制的 AI 浏览器智能体执行轨迹转换为确定性、零 token 消耗的 Playwright 测试脚本。
 - [record-and-replay-skill](https://awesomecua.com/zh/resources/github-ugarchance-record-and-replay-skill/)：与智能体无关的技能，观察用户演示一次浏览器或桌面工作流程，并将其编译为可重放脚本。
+- [reflex-computer-use](https://awesomecua.com/zh/resources/github-8itlab-reflex-cu/)：reflex-computer-use 是适用于 macOS 和 Windows 的 MCP 服务器，可读取原生 UI 无障碍树并分发低延迟动作。

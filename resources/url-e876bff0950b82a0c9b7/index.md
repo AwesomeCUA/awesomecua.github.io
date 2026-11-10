@@ -1,3 +1,11 @@
+---
+title: "AdapAction: Adaptive Target Action Backdoor… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents
 
 Backdoor attack that fine-tunes GUI agents on teacher-written malicious trajectories, so a trigger makes the agent choose a harmful action fitting the current screen and instruction; tested on AitZ and AndroidControl.
@@ -26,6 +34,19 @@ Baicheng Chen, Mingda Zhang, Min Zhang, Haizhou Li, Baoyuan Wu
 
 - BibTeX: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/citation.csl.json
+
+```bibtex
+@inproceedings{cua_a2a53f955040d6d6aba935d9,
+  title = {{AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents}},
+  author = {{Baicheng Chen} and {Mingda Zhang} and {Min Zhang} and {Haizhou Li} and {Baoyuan Wu}},
+  year = {2026},
+  month = jun,
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages = {27894-27905},
+  url = {https://openaccess.thecvf.com/content/CVPR2026/html/Chen\_AdapAction\_Adaptive\_Target\_Action\_Backdoor\_Attack\_against\_GUI\_Agents\_CVPR\_2026\_paper.html},
+  note = {Publication date: 2026-06.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "D-PoT evaluation code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # D-PoT evaluation code
 
 Offline prompting and evaluation code for Dynamic Planning of Thoughts on Android-in-the-Wild, including action extraction and comparison with reference actions.

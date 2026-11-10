@@ -1,3 +1,11 @@
+---
+title: "WebMall -- A Multi-Shop Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-13024/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # WebMall -- A Multi-Shop Benchmark for Evaluating Web Agents
 
 WebMall 提供 4 家产品数据各异的模拟网店，用于比价购物、相关商品搜索和结账任务；在固定的离线环境中，评估采用不同观察格式与记忆配置的网页智能体。
@@ -27,6 +35,18 @@ Ralph Peeters, Aaron Steiner, Luca Schwarz, Julian Yuya Caspary, Christian Bizer
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-13024/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-13024/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_13024,
+  title = {{WebMall -- A Multi-Shop Benchmark for Evaluating Web Agents}},
+  author = {{Ralph Peeters} and {Aaron Steiner} and {Luca Schwarz} and {Julian Yuya Caspary} and {Christian Bizer}},
+  year = {2025},
+  eprint = {2508.13024v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.13024v3},
+  note = {First published: 2025-08-18; Recorded arXiv version: v3; Recorded version updated: 2026-04-30T09:17:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

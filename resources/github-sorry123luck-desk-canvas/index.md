@@ -1,3 +1,11 @@
+---
+title: "DeskCanvas | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sorry123luck-desk-canvas/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # DeskCanvas
 
 DeskCanvas converts live Windows application windows into structured semantic state with guarded action execution for AI agents.

@@ -1,3 +1,11 @@
+---
+title: "MIRAGE: Context-Aware Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-28116/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # MIRAGE: Context-Aware Prompt Injection against Mobile GUI Agents via User-Generated Content
 
 MIRAGE constructs mobile screenshot injections in ordinary user-content regions through localization, contextual payload generation and realism curation. Its evaluation separates visual realism from attack effectiveness against pixel-observing GUI agents.
@@ -26,6 +34,18 @@ Ruoqi Guo, Yi Liu, Gelei Deng, Yiheng Xiong, Yuekang Li, Ying Zhang, Leo Yu Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-28116/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-28116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_28116,
+  title = {{MIRAGE: Context-Aware Prompt Injection against Mobile GUI Agents via User-Generated Content}},
+  author = {{Ruoqi Guo} and {Yi Liu} and {Gelei Deng} and {Yiheng Xiong} and {Yuekang Li} and {Ying Zhang} and {Leo Yu Zhang} and {Lida Zhao} and {Ji Jie} and {Yuxiao Lu}},
+  year = {2026},
+  eprint = {2605.28116v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.28116v1},
+  note = {First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T08:09:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

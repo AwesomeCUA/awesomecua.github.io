@@ -1,3 +1,11 @@
+---
+title: "Expo Device Hub · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-expo-expo-device-hub/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Expo Device Hub
 
 Expo Device Hub 将 iOS 模拟器和 Android 模拟器的画面传输到浏览器控制面板，让用户查看屏幕、发送输入并管理设备。

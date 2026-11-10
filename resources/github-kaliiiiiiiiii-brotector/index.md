@@ -1,3 +1,11 @@
+---
+title: "Brotector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaliiiiiiiiii-brotector/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Brotector
 
 JavaScript test page that detects webdriver automation from Selenium, Puppeteer, Playwright, nodriver and related tools through leaks such as navigator.webdriver, Runtime.enable and untrusted input events.

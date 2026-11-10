@@ -1,3 +1,11 @@
+---
+title: "GUI Agent Framework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sjkncs-gui-agent-framework/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # GUI Agent Framework
 
 Modular block-based GUI automation framework combining VLM screen perception, LLM planning, Playwright browser control, and desktop actuation.

@@ -1,3 +1,11 @@
+---
+title: "Co-Design Bench: Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-35138/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models
 
 提出 Co-Design Bench，评估编码智能体依据多模态用户请求修改应用的能力，其中包括用浏览器证据评判的 UI 改动。
@@ -27,6 +35,18 @@ Xilin Wei, Shengyuan Ding, Xinyu Fang, Tiancheng Gu, Yuchi Wang, Zhixun Li, Ziyu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-35138/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-35138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35138,
+  title = {{Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models}},
+  author = {{Xilin Wei} and {Shengyuan Ding} and {Xinyu Fang} and {Tiancheng Gu} and {Yuchi Wang} and {Zhixun Li} and {Ziyu Liu} and {Yuhang Zang} and {Weixiang Yu} and {Cheng Lu} and {Chonggao Sun} and {Tong Zhou} and {Dahua Lin} and {Hang Zhang} and {Shuai Bai} and {Dayiheng Liu}},
+  year = {2026},
+  eprint = {2610.35138v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35138v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T10:10:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

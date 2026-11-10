@@ -1,3 +1,11 @@
+---
+title: "Planner Matters! An Efficient and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-02168/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning
 
 这一以规划器为中心的强化学习框架将智能体自动化分给规划器、执行器和记忆管理器，评估包含网页导航和操作系统控制。
@@ -27,6 +35,18 @@ Wenyi Wu, Sibo Zhu, Kun Zhou, Biwei Huang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-02168/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-02168/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_02168,
+  title = {{Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning}},
+  author = {{Wenyi Wu} and {Sibo Zhu} and {Kun Zhou} and {Biwei Huang}},
+  year = {2026},
+  eprint = {2605.02168v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.02168v1},
+  note = {First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T02:58:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

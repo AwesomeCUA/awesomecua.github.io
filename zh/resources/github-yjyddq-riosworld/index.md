@@ -1,3 +1,11 @@
+---
+title: "RiOSWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yjyddq-riosworld/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # RiOSWorld
 
 在 Ubuntu 虚拟机中衡量多模态计算机使用智能体的风险行为，包含钓鱼邮件等风险场景，并发布评估轨迹。

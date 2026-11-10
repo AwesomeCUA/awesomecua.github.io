@@ -1,3 +1,11 @@
+---
+title: "Halo Bot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-galactic717-halo-bot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Halo Bot
 
 具有名称的自托管 AI 队友，在用户自有硬件上的沙箱化桌面和浏览器环境中运行。

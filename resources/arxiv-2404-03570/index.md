@@ -1,3 +1,11 @@
+---
+title: "Embodied AI with Two Arms: Zero-shot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-03570/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity
 
 Bibliographic record for Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jake Varley, Sumeet Singh, Deepali Jain, Krzysztof Choromanski, Andy Zeng, Somna
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-03570/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-03570/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_03570,
+  title = {{Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity}},
+  author = {{Jake Varley} and {Sumeet Singh} and {Deepali Jain} and {Krzysztof Choromanski} and {Andy Zeng} and {Somnath Basu Roy Chowdhury} and {Avinava Dubey} and {Vikas Sindhwani}},
+  year = {2024},
+  eprint = {2404.03570v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.03570v3},
+  note = {First published: 2024-04-04; Recorded arXiv version: v3; Recorded version updated: 2024-11-01T14:18:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

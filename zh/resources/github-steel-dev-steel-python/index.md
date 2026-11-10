@@ -1,3 +1,11 @@
+---
+title: "Steel Python API library · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steel-dev-steel-python/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # Steel Python API library
 
 Steel 云浏览器 API 的 Python 客户端，提供同步与异步客户端以及类型化调用，用于创建浏览器会话、发送计算机操作、解决验证码，以及管理文件和浏览器配置档案。

@@ -1,3 +1,11 @@
+---
+title: "Skyvern · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-skyvern-ai-skyvern/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # Skyvern
 
 使用视觉 LLM 和智能体群实现浏览器工作流程自动化，提供兼容 Playwright 的 SDK 和无代码工作流程构建器。

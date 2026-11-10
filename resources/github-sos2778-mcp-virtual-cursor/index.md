@@ -1,3 +1,11 @@
+---
+title: "MCP Virtual Cursor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP Virtual Cursor
 
 macOS computer-use MCP server that operates applications via Accessibility actions and a virtual cursor without hijacking the physical mouse.

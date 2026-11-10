@@ -1,3 +1,11 @@
+---
+title: "MESA meets MURaM: Surface effects in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1606-02713/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MESA meets MURaM: Surface effects in main-sequence solar-like oscillators computed using three-dimensional radiation hydrodynamics simulations
 
 Status: excluded from the active CUA catalog after scope review.

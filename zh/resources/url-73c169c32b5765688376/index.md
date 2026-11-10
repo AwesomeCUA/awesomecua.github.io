@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-73c169c32b5765688376/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard
 
 THUDM ScaleCUA 的 Qwen3-VL-8B 计算机使用智能体检查点，以监督训练模型为起点，经在线强化学习用于 ScienceBoard 科学软件任务，并通过兼容 OpenAI 的端点提供服务。

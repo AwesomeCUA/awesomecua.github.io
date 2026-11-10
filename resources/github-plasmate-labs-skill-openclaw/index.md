@@ -1,3 +1,11 @@
+---
+title: "Plasmate Skill for OpenClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-skill-openclaw/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Plasmate Skill for OpenClaw
 
 OpenClaw skill with an Agent Web Protocol client that drives a local Plasmate server to navigate pages, click and type by element reference, and extract structured data.

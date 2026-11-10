@@ -1,3 +1,11 @@
+---
+title: "IrisGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-black-yt-irisgui/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # IrisGUI
 
 IrisGUI is a cross-platform desktop GUI agent that perceives screens and automates mouse and keyboard workflows.

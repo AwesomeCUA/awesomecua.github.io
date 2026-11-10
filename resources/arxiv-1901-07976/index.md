@@ -1,3 +1,11 @@
+---
+title: "Ordinal Probit Functional Outcome Regression… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1901-07976/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Ordinal Probit Functional Outcome Regression with Application to Computer-Use Behavior in Rhesus Monkeys
 
 Status: excluded from the active CUA catalog after scope review.

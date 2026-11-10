@@ -1,3 +1,11 @@
+---
+title: "Solving Quantitative Reasoning Problems with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-14858/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Solving Quantitative Reasoning Problems with Language Models
 
 Bibliographic record for Solving Quantitative Reasoning Problems with Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2206-14858/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2206-14858/citation.csl.json
+
+```bibtex
+@misc{arxiv_2206_14858,
+  title = {{Solving Quantitative Reasoning Problems with Language Models}},
+  author = {{Aitor Lewkowycz} and {Anders Andreassen} and {David Dohan} and {Ethan Dyer} and {Henryk Michalewski} and {Vinay Ramasesh} and {Ambrose Slone} and {Cem Anil} and {Imanol Schlag} and {Theo Gutman-Solo} and {Yuhuai Wu} and {Behnam Neyshabur} and {Guy Gur-Ari} and {Vedant Misra}},
+  year = {2022},
+  eprint = {2206.14858v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2206.14858v2},
+  note = {First published: 2022-06-29; Recorded arXiv version: v2; Recorded version updated: 2022-07-01T02:15:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

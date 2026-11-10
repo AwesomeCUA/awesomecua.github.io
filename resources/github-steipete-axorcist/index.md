@@ -1,3 +1,11 @@
+---
+title: "AXorcist | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steipete-axorcist/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # AXorcist
 
 AXorcist is a Swift library and CLI for querying macOS accessibility trees, locating interface elements, and performing actions on applications.

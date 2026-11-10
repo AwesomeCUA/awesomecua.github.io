@@ -1,3 +1,11 @@
+---
+title: "On Time, Within Budget: Constraint-Driven… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-06110/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # On Time, Within Budget: Constraint-Driven Online Resource Allocation for Agentic Workflows
 
 Status: excluded from the active CUA catalog after scope review.

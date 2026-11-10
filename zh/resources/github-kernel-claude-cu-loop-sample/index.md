@@ -1,3 +1,11 @@
+---
+title: "Kernel Claude Computer Use Loop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kernel-claude-cu-loop-sample/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Kernel Claude Computer Use Loop
 
 Anthropic 的 Claude Computer Use 智能体循环的参考 SDK 实现，通过 Kernel 的 Computer Controls API 操作远程云浏览器。

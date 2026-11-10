@@ -1,3 +1,11 @@
+---
+title: "XiaoShuang (小双桌面女神) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daixin315-xiaoshuang/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # XiaoShuang (小双桌面女神)
 
 跨平台桌面 AI 伴侣，具备屏幕读取、实时翻译和与 Hermes 关联的应用自动化功能。

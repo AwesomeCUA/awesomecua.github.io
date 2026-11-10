@@ -1,3 +1,11 @@
+---
+title: "Screen2Words · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-datasets-screen2words/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Screen2Words
 
 用于基于语言的屏幕理解的移动端屏幕描述数据。

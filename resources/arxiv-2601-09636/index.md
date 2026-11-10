@@ -1,3 +1,11 @@
+---
+title: "PersonalAlign: Hierarchical Implicit Intent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-09636/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records
 
 Introduces AndroidIntent to evaluate how GUI agents infer omitted preferences and recurring routines from long-term user records. Its HIM-Agent maintains hierarchical memory of preferences and routines for personalized execution and proactive suggestions.
@@ -26,6 +34,18 @@ Yibo Lyu, Gongwei Chen, Rui Shao, Weili Guan, Liqiang Nie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-09636/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-09636/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_09636,
+  title = {{PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records}},
+  author = {{Yibo Lyu} and {Gongwei Chen} and {Rui Shao} and {Weili Guan} and {Liqiang Nie}},
+  year = {2026},
+  eprint = {2601.09636v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.09636v2},
+  note = {First published: 2026-01-14; Recorded arXiv version: v2; Recorded version updated: 2026-05-13T02:54:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

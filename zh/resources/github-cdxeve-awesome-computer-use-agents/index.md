@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Agents: An Overview of… · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cdxeve-awesome-computer-use-agents/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
 
 这份精选阅读清单及附带报告梳理计算机使用研究，涵盖通过网页、桌面和移动界面操作的智能体。

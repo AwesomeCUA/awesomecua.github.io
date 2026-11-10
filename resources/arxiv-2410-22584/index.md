@@ -1,3 +1,11 @@
+---
+title: "BenchAgents: Multi-Agent Systems for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-22584/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # BenchAgents: Multi-Agent Systems for Structured Benchmark Creation
 
 Status: excluded from the active CUA catalog after scope review.

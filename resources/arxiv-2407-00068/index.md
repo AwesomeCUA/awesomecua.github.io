@@ -1,3 +1,11 @@
+---
+title: "D&A: Resource Optimisation in Personalised… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-00068/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # D&A: Resource Optimisation in Personalised PageRank Computations Using Multi-Core Machines
 
 Status: excluded from the active CUA catalog after scope review.

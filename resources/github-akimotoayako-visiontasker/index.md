@@ -1,3 +1,11 @@
+---
+title: "VisionTasker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-akimotoayako-visiontasker/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # VisionTasker
 
 An Android automation implementation that translates screenshot-based UI understanding into language descriptions for step-by-step LLM planning and action execution.

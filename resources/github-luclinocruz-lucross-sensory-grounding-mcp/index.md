@@ -1,3 +1,11 @@
+---
+title: "Sensory-Grounding MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-luclinocruz-lucross-sensory-grounding-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Sensory-Grounding MCP
 
 Closed-loop visual, audio, and video sensory grounding MCP server for verifying UI state in coding and computer-use agents.

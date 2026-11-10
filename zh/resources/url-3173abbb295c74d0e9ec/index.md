@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B-Shopping · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3173abbb295c74d0e9ec/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Dreamer-7B-Shopping
 
 Dreamer-7B-Shopping 是面向购物网站的 WebDreamer 模型权重，通过根据截图预测候选网页动作的结果，辅助智能体规划。

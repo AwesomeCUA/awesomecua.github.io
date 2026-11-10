@@ -1,3 +1,11 @@
+---
+title: "agent-fleet · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mskazemi-agent-fleet/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # agent-fleet
 
 根据共享且感知依赖关系的任务队列，协调并行的 Claude Code 和计算机使用会话。

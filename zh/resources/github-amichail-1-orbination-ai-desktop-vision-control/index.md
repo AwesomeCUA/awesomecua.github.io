@@ -1,3 +1,11 @@
+---
+title: "Orbination AI Desktop Vision & Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amichail-1-orbination-ai-desktop-vision-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Orbination AI Desktop Vision & Control
 
 原生 Windows MCP 服务器，结合 UI Automation、适配深色主题的 OCR、视觉定位和鼠标键盘控制。

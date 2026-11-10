@@ -1,3 +1,11 @@
+---
+title: "AutoPyDriverServer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daluu-autopydriverserver/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # AutoPyDriverServer
 
 A Python server that exposes AutoPy desktop control through the Selenium WebDriver protocol, so any WebDriver client can script image-based mouse and keyboard automation.

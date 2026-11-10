@@ -1,3 +1,11 @@
+---
+title: "VideoCAD training and evaluation code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ghadinehme-videocad/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # VideoCAD training and evaluation code
 
 提供 VideoCADFormer 训练、操作日志预处理和评估代码，用于从浏览器版 Onshape 的屏幕录像中学习 CAD 界面操作序列。

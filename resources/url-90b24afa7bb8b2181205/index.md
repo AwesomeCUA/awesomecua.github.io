@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-90b24afa7bb8b2181205/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo3.1 4B
 
 4B checkpoint of H Company's Holo3.1 family, a vision-language model for web, desktop and mobile computer-use agents with native function calling, built on a dense Qwen3.5 architecture.

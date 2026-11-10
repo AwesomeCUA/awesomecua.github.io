@@ -1,3 +1,11 @@
+---
+title: "UI Annotator MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcpware-ui-annotator-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UI Annotator MCP
 
 Model Context Protocol server that injects interactive Set-of-Mark hover labels into live webpages for visual browser agents.

@@ -1,3 +1,11 @@
+---
+title: "Responsible Task Automation: Empowering… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2306-01242/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators
 
 提出 ResponsibleTA 协调器与执行器框架，在利用本地记忆进行隐私相关控制的同时检查命令可行性和任务完成情况。论文比较提示式和学习式实现，并在 UI 任务自动化中评估。
@@ -27,6 +35,18 @@ Zhizheng Zhang, Xiaoyi Zhang, Wenxuan Xie, Yan Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2306-01242/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2306-01242/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_01242,
+  title = {{Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators}},
+  author = {{Zhizheng Zhang} and {Xiaoyi Zhang} and {Wenxuan Xie} and {Yan Lu}},
+  year = {2023},
+  eprint = {2306.01242v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.01242v2},
+  note = {First published: 2023-06-02; Recorded arXiv version: v2; Recorded version updated: 2023-12-04T13:36:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

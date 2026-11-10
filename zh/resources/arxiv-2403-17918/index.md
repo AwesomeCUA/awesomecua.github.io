@@ -1,3 +1,11 @@
+---
+title: "AgentStudio: A Toolkit for Building… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-17918/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # AgentStudio: A Toolkit for Building General Virtual Agents
 
 AgentStudio 将交互式 GUI/API 环境与任务创建、界面元素标注和视频操作标记工具结合；其在线测试套件及 GroundUI、IDMBench、CriticBench 数据集用于考察交互、定位、从视频学习和成功检测。
@@ -27,6 +35,18 @@ Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-17918/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-17918/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_17918,
+  title = {{AgentStudio: A Toolkit for Building General Virtual Agents}},
+  author = {{Longtao Zheng} and {Zhiyuan Huang} and {Zhenghai Xue} and {Xinrun Wang} and {Bo An} and {Shuicheng Yan}},
+  year = {2024},
+  eprint = {2403.17918v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.17918v3},
+  note = {First published: 2024-03-26; Recorded arXiv version: v3; Recorded version updated: 2025-02-14T08:13:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

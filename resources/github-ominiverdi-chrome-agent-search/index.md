@@ -1,3 +1,11 @@
+---
+title: "chrome-agent-search | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # chrome-agent-search
 
 Local-first Rust CLI for driving Chrome to perform web searches and extract clean Markdown page content.

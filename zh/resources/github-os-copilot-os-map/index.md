@@ -1,3 +1,11 @@
+---
+title: "OS-Map · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-os-map/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # OS-Map
 
 源自 OSWorld 的桌面基准，提供 Ubuntu 虚拟机环境和扩展的任务配置，用于衡量计算机交互的广度与深度。

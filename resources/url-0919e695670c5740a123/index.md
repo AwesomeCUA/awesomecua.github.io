@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3.5-9B OSWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0919e695670c5740a123/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ScaleCUA (THUDM) Qwen3.5-9B OSWorld
 
 Qwen3.5-9B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for OSWorld desktop tasks after an SFT start point and served through an OpenAI-compatible endpoint.

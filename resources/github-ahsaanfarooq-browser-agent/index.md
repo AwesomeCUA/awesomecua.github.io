@@ -1,3 +1,11 @@
+---
+title: "ahsaanfarooq browser-agent MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahsaanfarooq-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ahsaanfarooq browser-agent MCP
 
 Model Context Protocol server giving Claude a persistent, multi-profile logged-in Chrome browser.

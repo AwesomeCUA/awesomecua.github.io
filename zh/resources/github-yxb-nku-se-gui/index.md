@@ -1,3 +1,11 @@
+---
+title: "SE-GUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yxb-nku-se-gui/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # SE-GUI
 
 SE-GUI 提供 GUI 元素定位模型的训练与评测代码，通过位置奖励和注意力反馈改进定位，并链接另行发布的权重与种子数据。

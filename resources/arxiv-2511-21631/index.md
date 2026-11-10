@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-21631/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Qwen3-VL Technical Report
 
 Describes the Qwen3-VL dense and MoE vision-language models, with 256K-token interleaved context, interleaved-MRoPE, DeepStack and textual video timestamps; a general foundation model aimed partly at agentic use.
@@ -26,6 +34,18 @@ Shuai Bai, Yuxuan Cai, Ruizhe Chen, Keqin Chen, Xionghui Chen, Zesen Cheng, Lian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-21631/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-21631/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_21631,
+  title = {{Qwen3-VL Technical Report}},
+  author = {{Shuai Bai} and {Yuxuan Cai} and {Ruizhe Chen} and {Keqin Chen} and {Xionghui Chen} and {Zesen Cheng} and {Lianghao Deng} and {Wei Ding} and {Chang Gao} and {Chunjiang Ge} and {Wenbin Ge} and {Zhifang Guo} and {Qidong Huang} and {Jie Huang} and {Fei Huang} and {Binyuan Hui} and {Shutong Jiang} and {Zhaohai Li} and {Mingsheng Li} and {Mei Li} and {Kaixin Li} and {Zicheng Lin} and {Junyang Lin} and {Xuejing Liu} and {Jiawei Liu} and {Chenglong Liu} and {Yang Liu} and {Dayiheng Liu} and {Shixuan Liu} and {Dunjie Lu} and {Ruilin Luo} and {Chenxu Lv} and {Rui Men} and {Lingchen Meng} and {Xuancheng Ren} and {Xingzhang Ren} and {Sibo Song} and {Yuchong Sun} and {Jun Tang} and {Jianhong Tu} and {Jianqiang Wan} and {Peng Wang} and {Pengfei Wang} and {Qiuyue Wang} and {Yuxuan Wang} and {Tianbao Xie} and {Yiheng Xu} and {Haiyang Xu} and {Jin Xu} and {Zhibo Yang} and {Mingkun Yang} and {Jianxin Yang} and {An Yang} and {Bowen Yu} and {Fei Zhang} and {Hang Zhang} and {Xi Zhang} and {Bo Zheng} and {Humen Zhong} and {Jingren Zhou} and {Fan Zhou} and {Jing Zhou} and {Yuanzhi Zhu} and {Ke Zhu}},
+  year = {2025},
+  eprint = {2511.21631v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.21631v2},
+  note = {First published: 2025-11-26; Recorded arXiv version: v2; Recorded version updated: 2025-11-27T12:16:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

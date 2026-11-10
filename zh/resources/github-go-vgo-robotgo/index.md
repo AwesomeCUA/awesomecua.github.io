@@ -1,3 +1,11 @@
+---
+title: "RobotGo · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-go-vgo-robotgo/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # RobotGo
 
 RobotGo 是原生 Go 跨平台桌面自动化库，可控制鼠标、键盘，进行位图屏幕捕获，并操作窗口句柄。

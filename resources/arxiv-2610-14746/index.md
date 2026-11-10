@@ -1,3 +1,11 @@
+---
+title: "BridgeWAM: Bridging Video and Action Experts… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14746/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries
 
 Bibliographic record for BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaxin Fang, Ruitong Liu, Zeyu Lai, Xingyu Wang, Mingyuan Jia, Pingyue Sheng, We
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14746/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14746/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14746,
+  title = {{BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries}},
+  author = {{Jiaxin Fang} and {Ruitong Liu} and {Zeyu Lai} and {Xingyu Wang} and {Mingyuan Jia} and {Pingyue Sheng} and {Weikang Wan} and {Mengdi Xu} and {Yuxiang Gao}},
+  year = {2026},
+  eprint = {2610.14746v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14746v1},
+  note = {First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T09:06:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

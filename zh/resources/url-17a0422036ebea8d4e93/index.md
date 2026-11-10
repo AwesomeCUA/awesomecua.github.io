@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 1.5 4B Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-17a0422036ebea8d4e93/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Owl 1.5 4B Instruct
 
 GUI-Owl 1.5 的 4B 指令版检查点，属于基于 Qwen3-VL 的 Mobile-Agent-v3.5 原生 GUI 智能体系列，用于桌面、移动端和浏览器任务，可独立使用或在该框架中承担角色。

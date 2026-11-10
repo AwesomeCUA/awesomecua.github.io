@@ -1,3 +1,11 @@
+---
+title: "Improving LLM-based Autonomous Web Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-27770/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Improving LLM-based Autonomous Web Agents with Filtering
 
 Trains HTML-element relevance filters on Mind2Web trajectories and transfers them to WebArena to reduce irrelevant browser context. It also evaluates a zero-shot ColBERT retriever and documents baseline web-agent failure modes.
@@ -26,6 +34,18 @@ Zhitong Guo, Jing Yu Koh, Ruiyu Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-27770/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-27770/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_27770,
+  title = {{Improving LLM-based Autonomous Web Agents with Filtering}},
+  author = {{Zhitong Guo} and {Jing Yu Koh} and {Ruiyu Li}},
+  year = {2026},
+  eprint = {2609.27770v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.27770v1},
+  note = {First published: 2026-08-16; Recorded arXiv version: v1; Recorded version updated: 2026-08-16T19:54:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Amazon Return Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-peterquads-amazon-return/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Amazon Return Skill
 
 Claude browser skill that completes end-to-end Amazon return workflows inside the user's signed-in browser.

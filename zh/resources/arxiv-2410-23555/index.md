@@ -1,3 +1,11 @@
+---
+title: "From Context to Action: Analysis of the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-23555/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents
 
 分析交互历史和网页表示如何影响多轮网页智能体在陌生网站、任务类别及不同地理环境中的泛化能力。
@@ -27,6 +35,18 @@ Nalin Tiwary, Vardhan Dongre, Sanil Arun Chawla, Ashwin Lamani, Dilek Hakkani-T�
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-23555/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-23555/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_23555,
+  title = {{From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents}},
+  author = {{Nalin Tiwary} and {Vardhan Dongre} and {Sanil Arun Chawla} and {Ashwin Lamani} and {Dilek Hakkani-Tür}},
+  year = {2024},
+  eprint = {2410.23555v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.23555v1},
+  note = {First published: 2024-10-31; Recorded arXiv version: v1; Recorded version updated: 2024-10-31T01:51:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "An Early Categorization of Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-00898/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Early Categorization of Prompt Injection Attacks on Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

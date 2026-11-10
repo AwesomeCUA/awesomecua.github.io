@@ -1,3 +1,11 @@
+---
+title: "Scalable and self-correcting photonic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-16935/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scalable and self-correcting photonic computation using balanced photonic binary tree cascades
 
 Status: excluded from the active CUA catalog after scope review.

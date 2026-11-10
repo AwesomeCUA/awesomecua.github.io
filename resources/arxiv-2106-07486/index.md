@@ -1,3 +1,11 @@
+---
+title: "Trapped Ion Quantum Computing using Optical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2106-07486/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Trapped Ion Quantum Computing using Optical Tweezers and Electric Fields
 
 Status: excluded from the active CUA catalog after scope review.

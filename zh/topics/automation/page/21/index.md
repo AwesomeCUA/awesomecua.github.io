@@ -1,14 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 21 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/21/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 21 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/21/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Paseo Chrome Bridge](https://awesomecua.com/zh/resources/github-papag00se-paseo-chrome-bridge/)
-- [PatchBridge Agent](https://awesomecua.com/zh/resources/github-hanhan666666-patchbridge-agent/)
-- [Patchright](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright/)
-- [Patchright .NET](https://awesomecua.com/zh/resources/github-deventerprisesoftware-patchright-dotnet/)
-- [Patchright NodeJS](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/)
 - [Patchright Python](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/)
 - [PawWork (爪爪 / BrowserKitten)](https://awesomecua.com/zh/resources/github-player-yn-browserkitten/)
 - [PC-Agent-E training and deployment](https://awesomecua.com/zh/resources/github-gair-nlp-pc-agent-e/)
@@ -64,3 +67,8 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/21/
 - [PrivateAI for Mac](https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/)
 - [ProBrowser MCP Server](https://awesomecua.com/zh/resources/github-momadhuynh04-probrowser/)
 - [Procore Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-procore-browser-automation/)
+- [profile-use](https://awesomecua.com/zh/resources/github-leeguooooo-profile-use/)
+- [ProfileFleet](https://awesomecua.com/zh/resources/github-enginefuture-profilefleet/)
+- [Programming with Pixels (PwP)](https://awesomecua.com/zh/resources/github-programmingwithpixels-pwp/)
+- [Project Tendril](https://awesomecua.com/zh/resources/github-gadgethd-project-tendril/)
+- [Promptwright](https://awesomecua.com/zh/resources/github-sahajamit-promptwright/)

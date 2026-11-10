@@ -1,3 +1,11 @@
+---
+title: "MatthewAlexOng Agent Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-matthewalexong-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MatthewAlexOng Agent Bridge
 
 Chrome extension and local relay bridging AI coding agents directly to active browser tabs.

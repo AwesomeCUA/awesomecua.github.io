@@ -1,3 +1,11 @@
+---
+title: "BEAP-Agent: Backtrackable Execution and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-21352/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents
 
 BEAP-Agent 将 GUI 执行视为深度优先搜索，协调规划、执行和任务状态跟踪；支持回退至多个层级的先前状态，并在 OSWorld 上评估恢复能力。
@@ -27,6 +35,18 @@ Ziyu Lu, Tengjin Weng, Yiying Yang, Yuhang Zhao, Xinxin Huang, Wenhao Jiang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-21352/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-21352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_21352,
+  title = {{BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents}},
+  author = {{Ziyu Lu} and {Tengjin Weng} and {Yiying Yang} and {Yuhang Zhao} and {Xinxin Huang} and {Wenhao Jiang}},
+  year = {2026},
+  eprint = {2601.21352v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.21352v1},
+  note = {First published: 2026-01-29; Recorded arXiv version: v1; Recorded version updated: 2026-01-29T07:22:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Easy Claw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-easyclaw-ai-easy-claw/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Easy Claw
 
 Open-source AI browser automation agent for multi-step web workflow execution and page interaction.

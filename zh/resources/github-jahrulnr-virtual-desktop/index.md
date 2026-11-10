@@ -1,3 +1,11 @@
+---
+title: "Relay AI Virtual Desktop · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jahrulnr-virtual-desktop/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Relay AI Virtual Desktop
 
 通过浏览器串流的 Docker Linux 桌面，供人类和 AI 智能体共用，并配有 Go MCP 计算机使用服务器。

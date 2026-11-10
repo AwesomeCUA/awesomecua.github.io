@@ -1,3 +1,11 @@
+---
+title: "dsh-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-computer-use
 
 Model-agnostic Computer Use plugin for DeepSeek Harness combining an isolated browser, a native Windows UI helper, and action observation.

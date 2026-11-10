@@ -1,3 +1,11 @@
+---
+title: "ClawGUI: A Unified Framework for Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-11784/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents
 
 Presents ClawGUI, a shared harness for GUI-agent reinforcement learning, benchmark evaluation and deployment on mobile devices. It combines parallel virtual and physical environments, process rewards, and hybrid CLI-GUI execution with persistent memory.
@@ -26,6 +34,18 @@ Fei Tang, Zhiqiong Lu, Boxuan Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongl
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-11784/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-11784/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_11784,
+  title = {{ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents}},
+  author = {{Fei Tang} and {Zhiqiong Lu} and {Boxuan Zhang} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2604.11784v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.11784v1},
+  note = {First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T17:52:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

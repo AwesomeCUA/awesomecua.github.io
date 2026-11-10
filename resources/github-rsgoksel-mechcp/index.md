@@ -1,3 +1,11 @@
+---
+title: "MechCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rsgoksel-mechcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MechCP
 
 Hardened Model Context Protocol server giving AI agents Chrome DevTools Protocol browser control and dynamic Playwright execution.

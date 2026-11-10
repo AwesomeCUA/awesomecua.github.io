@@ -1,3 +1,11 @@
+---
+title: "Blender Computer Use Artist · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaof631-blender-computer-use-artist/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Blender Computer Use Artist
 
 用于自动执行 Blender 3D 建模、渲染、动画和视觉质量检查的 Codex 计算机使用技能。

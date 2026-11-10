@@ -1,3 +1,11 @@
+---
+title: "Open Claudex Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opencodexlabs-open-codex-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Open Claudex Computer Use
 
 Open-source background macOS computer-use MCP server for Claude Code and Codex.

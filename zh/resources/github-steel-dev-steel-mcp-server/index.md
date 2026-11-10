@@ -1,3 +1,11 @@
+---
+title: "Steel MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steel-dev-steel-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Steel MCP Server
 
 Steel MCP Server 为 MCP 客户端提供读取和操作云端 Chrome 会话的工具，可按页面元素执行操作，并支持会话诊断和人工接管。

@@ -1,3 +1,11 @@
+---
+title: "AgentHazard: A Benchmark for Evaluating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-02947/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents
 
 提出 AgentHazard，用于评估计算机使用智能体通过工具、文件和执行环境表现出的有害多步行为。
@@ -27,6 +35,18 @@ Yunhao Feng, Yifan Ding, Yingshui Tan, Xingjun Ma, Yige Li, Yutao Wu, Yifeng Gao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-02947/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-02947/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_02947,
+  title = {{AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents}},
+  author = {{Yunhao Feng} and {Yifan Ding} and {Yingshui Tan} and {Xingjun Ma} and {Yige Li} and {Yutao Wu} and {Yifeng Gao} and {Kun Zhai} and {Yanming Guo}},
+  year = {2026},
+  eprint = {2604.02947v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.02947v2},
+  note = {First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-22T02:57:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

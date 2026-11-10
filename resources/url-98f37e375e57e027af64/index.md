@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-1B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-98f37e375e57e027af64/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-1B-HF
 
 HF-format InternVL3.5-1B checkpoint with a 0.3B vision encoder and 0.8B language model, from a multimodal family trained with Cascade RL that lists GUI interaction among its capabilities.

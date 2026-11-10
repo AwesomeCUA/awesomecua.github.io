@@ -1,3 +1,11 @@
+---
+title: "AgentDesk · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentsea-agentdesk/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # AgentDesk
 
 供 AI 智能体通过程序控制的桌面环境，基于 agentd REST 守护进程，可通过 Docker 在本地运行或部署到 Kubernetes，并为 LMM 输入提供坐标网格叠加层。

@@ -1,3 +1,11 @@
+---
+title: "LGWM (Latent GUI World Model) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jiamingzhang94-lgwm/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LGWM (Latent GUI World Model)
 
 LGWM is an action-conditioned latent GUI world model that predicts next-state representations to verify GUI agent transitions.

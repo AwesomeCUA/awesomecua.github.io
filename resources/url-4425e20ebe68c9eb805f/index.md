@@ -1,3 +1,11 @@
+---
+title: "UI-Mate-democua-27B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4425e20ebe68c9eb805f/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # UI-Mate-democua-27B
 
 A 27B checkpoint of the UI-Mate desktop agent, fine-tuned from Qwen3.6-27B, that reads screenshots and can follow one recorded demonstration to plan keyboard and mouse actions on a new task.

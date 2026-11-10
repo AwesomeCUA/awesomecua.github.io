@@ -1,3 +1,11 @@
+---
+title: "Steel Python API library | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steel-dev-steel-python/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # Steel Python API library
 
 Python client for the Steel cloud browser API, with synchronous and asynchronous clients and typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files and profiles.

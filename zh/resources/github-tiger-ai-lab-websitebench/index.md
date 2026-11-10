@@ -1,3 +1,11 @@
+---
+title: "WebsiteBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tiger-ai-lab-websitebench/
+updated: 2026-11-06
+type: benchmark
+lang: zh-CN
+---
+
 # WebsiteBench
 
 网站重建基准：智能体通过浏览器探索生产级网站，重建全栈版本，并在 70 项任务中通过隐藏的功能与视觉测试用例评分。

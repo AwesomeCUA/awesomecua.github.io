@@ -1,3 +1,11 @@
+---
+title: "Online Environment for GUI Reflection | AwesomeCUA"
+url: https://awesomecua.com/resources/github-penghao-wu-gui-reflection-env/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # Online Environment for GUI Reflection
 
 Host-worker Android emulator environment from the GUI Reflection project, with configs that collect interaction data and evaluate GUI models while inference runs on a separate host machine.

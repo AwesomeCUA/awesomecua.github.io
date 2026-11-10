@@ -1,3 +1,11 @@
+---
+title: "Semantic Browser (agent-browser) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-atreasureboy-agent-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Semantic Browser (agent-browser)
 
 Agent-readable semantic browser layer providing token-efficient webpage understanding and structured action execution.

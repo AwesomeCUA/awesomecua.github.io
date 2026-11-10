@@ -1,3 +1,11 @@
+---
+title: "Surf New | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steel-dev-surf-new/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Surf New
 
 Next.js and FastAPI playground from Steel for trying web agents in a controlled browser environment, with live views of browser interaction and support for providers such as Claude and GPT-4.

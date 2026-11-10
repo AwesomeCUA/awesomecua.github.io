@@ -1,3 +1,11 @@
+---
+title: "Orca | AwesomeCUA"
+url: https://awesomecua.com/resources/github-echovic-orca-agent/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Orca
 
 DeepSeek-native terminal coding agent in Rust whose bundled macOS computer-use driver lets it observe other apps' accessibility trees and screenshots and click, type, send keys and scroll after per-app approval.

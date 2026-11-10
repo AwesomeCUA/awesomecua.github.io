@@ -1,3 +1,11 @@
+---
+title: "Public Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-silbercue-public-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Public Browser
 
 Token-efficient Chrome automation bridge and CLI for Claude Code and Cursor.

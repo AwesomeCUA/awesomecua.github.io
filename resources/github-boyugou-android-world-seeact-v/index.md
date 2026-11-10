@@ -1,3 +1,11 @@
+---
+title: "AndroidWorld-SeeAct-V | AwesomeCUA"
+url: https://awesomecua.com/resources/github-boyugou-android-world-seeact-v/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AndroidWorld-SeeAct-V
 
 AndroidWorld-SeeAct-V runs a visual Android agent that plans the next action and grounds coordinate actions in screenshots. The repository includes code for AndroidWorld evaluation.

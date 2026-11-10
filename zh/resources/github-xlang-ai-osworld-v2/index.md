@@ -1,3 +1,11 @@
+---
+title: "OSWorld 2.0 · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-osworld-v2/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorld 2.0
 
 OSWorld 2.0 通过更新的任务集、轨迹查看器和容器沙箱，评测计算机使用智能体执行长流程桌面工作流的能力。

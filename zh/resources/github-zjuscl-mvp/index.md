@@ -1,3 +1,11 @@
+---
+title: "MVP (Multiple View Prediction) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zjuscl-mvp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MVP (Multiple View Prediction)
 
 MVP 通过汇总不同宽高比和分辨率变换下的多视角坐标预测，改进 GUI 视觉定位。

@@ -1,3 +1,11 @@
+---
+title: "GT-r1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1a6fc60f2b931acbd057/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # GT-r1
 
 一个用 VLM-R1 强化学习训练的 GUI 缺陷检测模型，分析一张应用截图，判定其存在内容显示错误、界面布局问题、界面元素缺失，或无缺陷。

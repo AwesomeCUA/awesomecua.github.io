@@ -1,3 +1,11 @@
+---
+title: "OpenGVLab/MMBench-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-339e28b1f939ae45f9fe/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # OpenGVLab/MMBench-GUI
 
 MMBench-GUI releases annotations and offline images for evaluating interface understanding and grounding within a GUI-agent benchmark spanning desktop, mobile and web platforms.

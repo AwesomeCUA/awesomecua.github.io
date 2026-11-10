@@ -1,3 +1,11 @@
+---
+title: "Browser Use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-browser-use/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # Browser Use
 
 开源浏览器智能体库，可配合任意 LLM 在本地运行，操作本地或云端浏览器；也可作为编程智能体的 CLI 及 Claude 浏览器工具集的驱动。

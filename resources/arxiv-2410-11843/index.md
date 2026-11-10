@@ -1,3 +1,11 @@
+---
+title: "From Commands to Prompts: LLM-based Semantic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-11843/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # From Commands to Prompts: LLM-based Semantic File System for AIOS
 
 Bibliographic record for From Commands to Prompts: LLM-based Semantic File System for AIOS. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zeru Shi, Kai Mei, Mingyu Jin, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-11843/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-11843/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_11843,
+  title = {{From Commands to Prompts: LLM-based Semantic File System for AIOS}},
+  author = {{Zeru Shi} and {Kai Mei} and {Mingyu Jin} and {Yongye Su} and {Chaoji Zuo} and {Wenyue Hua} and {Wujiang Xu} and {Yujie Ren} and {Zirui Liu} and {Mengnan Du} and {Dong Deng} and {Yongfeng Zhang}},
+  year = {2024},
+  eprint = {2410.11843v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.11843v5},
+  note = {First published: 2024-09-23; Recorded arXiv version: v5; Recorded version updated: 2025-03-19T03:17:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

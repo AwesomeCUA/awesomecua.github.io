@@ -1,3 +1,11 @@
+---
+title: "Agent WebBridge CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-0xibra-agent-webbridge-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent WebBridge CLI
 
 用于操控用户真实 Chrome 浏览器的洁净室实现本地 CDP 中继，由 MV3 Chrome 扩展、守护进程和 CLI 组成。

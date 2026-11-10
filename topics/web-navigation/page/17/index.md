@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 17 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/17/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 17
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/17/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Control-Agent](https://awesomecua.com/resources/github-gekaixing-control-agent/)
 - [cookie-use](https://awesomecua.com/resources/github-leeguooooo-cookie-use/)
 - [Cordis Social](https://awesomecua.com/resources/github-enginefuture-cordis-social/)
 - [CowAgent](https://awesomecua.com/resources/github-zhayujie-cowagent/)
@@ -55,7 +62,6 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [DSH Qwen Web Bridge Plugin](https://awesomecua.com/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/)
 - [dsh-antibrow](https://awesomecua.com/resources/github-antibrow-dsh-antibrow/)
 - [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/)
-- [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/)
 - [dsh-browser-playwright](https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/)
 - [dsh-browser-plus](https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)
 - [dsh-chrome](https://awesomecua.com/resources/github-stuarthu-dsh-chrome/)
 - [dsh-cloak-browser](https://awesomecua.com/resources/github-maxiaovivi-dsh-cloak-browser/)
+- [dsh-jiey-browser](https://awesomecua.com/resources/github-jiewaigongxing-dsh-jiey-browser/)
+- [dsh-live-loop](https://awesomecua.com/resources/github-powerrrrrrrr-dsh-live-loop/)

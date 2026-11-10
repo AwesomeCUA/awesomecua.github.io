@@ -1,3 +1,11 @@
+---
+title: "redroid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-remote-android-redroid-doc/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # redroid
 
 redroid provides containerized Android instances on Linux hosts, with ADB connectivity and configurable displays for mobile automation environments.

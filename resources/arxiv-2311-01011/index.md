@@ -1,3 +1,11 @@
+---
+title: "Tensor Trust: Interpretable Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-01011/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game
 
 Status: excluded from the active CUA catalog after scope review.

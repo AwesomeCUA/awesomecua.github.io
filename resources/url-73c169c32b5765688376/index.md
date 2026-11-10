@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard | AwesomeCUA"
+url: https://awesomecua.com/resources/url-73c169c32b5765688376/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard
 
 Qwen3-VL-8B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for ScienceBoard scientific-software tasks after an SFT start point and served through an OpenAI-compatible endpoint.

@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-2B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d1f0e13ad96c108ef09b/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-2B-HF
 
 HF-format 2.3B-parameter InternVL3.5 checkpoint, a multimodal model whose card lists GUI interaction among its trained skills and reports GUI task results for the family.

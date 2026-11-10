@@ -1,3 +1,11 @@
+---
+title: "CAPED: Context-Aware Privacy Exposure Defense… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-12666/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents
 
 CAPED filters mobile screenshots before upload by combining task requirements, screen context and parsed UI elements to mask incidental private content. AndroidWorld and a controlled seeded privacy evaluation examine leakage reduction alongside task utility and prototype costs.
@@ -26,6 +34,18 @@ Siyu Shen, Fenghao Xu, Wenrui Diao, Kehuan Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-12666/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-12666/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_12666,
+  title = {{CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents}},
+  author = {{Siyu Shen} and {Fenghao Xu} and {Wenrui Diao} and {Kehuan Zhang}},
+  year = {2026},
+  eprint = {2606.12666v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.12666v2},
+  note = {First published: 2026-06-10; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T03:15:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

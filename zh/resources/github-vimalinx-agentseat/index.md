@@ -1,3 +1,11 @@
+---
+title: "AgentSeat · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vimalinx-agentseat/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AgentSeat
 
 轻量级 Wayland 支架，将 AI 智能体隔离在其专属虚拟席位中，以操作单个 GUI 应用。

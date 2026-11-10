@@ -1,3 +1,11 @@
+---
+title: "haden-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-haden-min-haden-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # haden-browser
 
 Fast, AI-first web browser exposed as a local Model Context Protocol server for LLM agents.

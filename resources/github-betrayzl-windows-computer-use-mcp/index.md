@@ -1,3 +1,11 @@
+---
+title: "Windows Computer Use MCP (DXGI + UIA) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Windows Computer Use MCP (DXGI + UIA)
 
 Windows Model Context Protocol server combining DXGI desktop duplication screen capture, UI Automation trees, and human-like input.

@@ -1,3 +1,11 @@
+---
+title: "FoxBridge MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sinamohsenifar-foxbridge-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # FoxBridge MCP
 
 Model Context Protocol 服务器和 Firefox WebExtension，让 AI 助手读取并操控用户已登录的 Firefox 浏览器。

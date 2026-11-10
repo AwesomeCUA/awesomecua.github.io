@@ -1,3 +1,11 @@
+---
+title: "dsh-design · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-viger1-dsh-design/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # dsh-design
 
 一款用于检查智能体所创建页面的浏览器设计审计工具，可测量渲染后的对比度、字体、间距、颜色和控件，并附带设计系统技能。

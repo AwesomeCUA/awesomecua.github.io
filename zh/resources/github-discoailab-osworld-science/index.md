@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Science · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-discoailab-osworld-science/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorld-Science
 
 在按领域划分的虚拟机中运行科学软件操作智能体，并通过任务专用的可执行评估器检查应用状态和交付成果的基准框架。

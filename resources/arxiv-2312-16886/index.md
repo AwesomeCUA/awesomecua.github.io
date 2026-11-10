@@ -1,3 +1,11 @@
+---
+title: "MobileVLM : A Fast, Strong and Open Vision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-16886/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices
 
 Bibliographic record for MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiangxiang Chu, Limeng Qiao, Xinyang Lin, Shuang Xu, Yang Yang, Yiming Hu, Fei W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-16886/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-16886/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_16886,
+  title = {{MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices}},
+  author = {{Xiangxiang Chu} and {Limeng Qiao} and {Xinyang Lin} and {Shuang Xu} and {Yang Yang} and {Yiming Hu} and {Fei Wei} and {Xinyu Zhang} and {Bo Zhang} and {Xiaolin Wei} and {Chunhua Shen}},
+  year = {2023},
+  eprint = {2312.16886v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.16886v2},
+  note = {First published: 2023-12-28; Recorded arXiv version: v2; Recorded version updated: 2023-12-30T04:59:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

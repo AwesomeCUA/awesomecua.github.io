@@ -1,3 +1,11 @@
+---
+title: "winctl-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shult-winctl-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # winctl-mcp
 
 Local Model Context Protocol server giving AI agents full control over Windows desktop screens, windows, mouse, and keyboard.

@@ -1,3 +1,11 @@
+---
+title: "Win:Computer Use MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jnx03-windowncomputeruse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Win:Computer Use MCP
 
 Windows Model Context Protocol 服务器，为 MCP 客户端提供专用虚拟光标、UI Automation 检查和桌面控制。

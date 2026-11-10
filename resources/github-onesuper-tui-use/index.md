@@ -1,3 +1,11 @@
+---
+title: "tui-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-onesuper-tui-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # tui-use
 
 tui-use is a CLI utility that lets agents read terminal application screens and send keystrokes through persistent PTY sessions. It renders text snapshots and can wait for screen changes.

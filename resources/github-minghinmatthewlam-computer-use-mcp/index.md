@@ -1,3 +1,11 @@
+---
+title: "computer-use-mcp (github.com/minghinmatthewlam… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # computer-use-mcp
 
 A Swift MCP server that lets agents inspect and operate macOS applications. Its shared engine manages accessibility, screen capture, and input delivery.

@@ -1,3 +1,11 @@
+---
+title: "SREY Voice Assistant · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # SREY Voice Assistant
 
 基于 Python 的桌面语音助手，用于自动操作本地应用、进行网页搜索和控制系统。

@@ -1,3 +1,11 @@
+---
+title: "AgentDesktopLinux | AwesomeCUA"
+url: https://awesomecua.com/resources/github-edwaks-agentdesktoplinux/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AgentDesktopLinux
 
 Linux desktop and VPS computer-use agent for TaskCapitan capable of driving GUI applications and browsers.

@@ -1,3 +1,11 @@
+---
+title: "StepBench: Diagnosing Real-World Procedural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26679/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # StepBench: Diagnosing Real-World Procedural Understanding in AI Agents
 
 Status: excluded from the active CUA catalog after scope review.

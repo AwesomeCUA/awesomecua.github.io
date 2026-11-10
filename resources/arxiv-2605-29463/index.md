@@ -1,3 +1,11 @@
+---
+title: "Honest Lying: Understanding Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29463/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Honest Lying: Understanding Memory Confabulation in Reflexive Agents
 
 Status: excluded from the active CUA catalog after scope review.

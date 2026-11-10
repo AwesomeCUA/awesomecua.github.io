@@ -1,3 +1,11 @@
+---
+title: "ahk-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anomalous3-ahk-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ahk-mcp
 
 ahk-mcp gives AI agents MCP tools to inspect Windows accessibility trees and act on desktop controls, with additional browser control through the DevTools Protocol.

@@ -1,3 +1,11 @@
+---
+title: "selenium-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gaforov-selenium-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # selenium-mcp
 
 Selenium Model Context Protocol 服务器，提供 41 个浏览器自动化工具，包括页面快照、断言和选择器生成。

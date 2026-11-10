@@ -1,3 +1,11 @@
+---
+title: "OSWorld Ubuntu VM images · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-346ca54794cbdffc8797/
+updated: 2026-10-18
+type: infrastructure
+lang: zh-CN
+---
+
 # OSWorld Ubuntu VM images
 
 托管 OSWorld 预构建的 Ubuntu 虚拟机：含 x86 和 arm64 版 VMware 归档及 QEMU qcow2 归档，供 OSWorld 的 VMware 和 Docker 提供程序首次运行时下载。

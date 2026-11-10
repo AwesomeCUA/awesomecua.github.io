@@ -1,3 +1,11 @@
+---
+title: "MFAAvalonia | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sweetsmellfox-mfaavalonia/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MFAAvalonia
 
 A cross-platform Avalonia desktop GUI for MaaFramework resource projects that reads Project Interface V2 definitions and lets users configure, schedule and run automation tasks.

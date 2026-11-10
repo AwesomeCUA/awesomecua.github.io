@@ -1,3 +1,11 @@
+---
+title: "ClawGUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zju-real-clawgui/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # ClawGUI
 
 用于 GUI 智能体训练、评估和部署的框架。

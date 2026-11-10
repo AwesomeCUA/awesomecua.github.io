@@ -1,3 +1,11 @@
+---
+title: "Scavenge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aarohim24-scavenge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Scavenge
 
 确定性的网页字段检查工具，可提取并验证单个网页值，为编程智能体提供加密证据。

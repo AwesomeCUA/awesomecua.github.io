@@ -1,3 +1,11 @@
+---
+title: "WaveUI-25k · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f2cf4ec32aa0b3ba6b95/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WaveUI-25k
 
 约 8 万条 UI 元素数据中的 24,978 条子集，将截图和指令与目标边界框、元素名称、描述、类型、OCR、用途及点击预期标注配对。

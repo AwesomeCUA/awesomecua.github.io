@@ -1,3 +1,11 @@
+---
+title: "GPT-4V in Wonderland: Large Multimodal Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-07562/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation
 
 Studies MM-Navigator, a multimodal agent that interprets smartphone screenshots and predicts localized actions without task-specific training.
@@ -26,6 +34,18 @@ An Yan, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-07562/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-07562/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_07562,
+  title = {{GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation}},
+  author = {{An Yan} and {Zhengyuan Yang} and {Wanrong Zhu} and {Kevin Lin} and {Linjie Li} and {Jianfeng Wang} and {Jianwei Yang} and {Yiwu Zhong} and {Julian McAuley} and {Jianfeng Gao} and {Zicheng Liu} and {Lijuan Wang}},
+  year = {2023},
+  eprint = {2311.07562v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.07562v1},
+  note = {First published: 2023-11-13; Recorded arXiv version: v1; Recorded version updated: 2023-11-13T18:53:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Spectra MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-astroqueststudio-spectra-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Spectra MCP
 
 原生 Rust Model Context Protocol 服务器，通过 Chrome DevTools Protocol 直接操作 Chrome。

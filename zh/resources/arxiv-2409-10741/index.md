@@ -1,3 +1,11 @@
+---
+title: "NaviQAte: Functionality-Guided Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-10741/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # NaviQAte: Functionality-Guided Web Application Navigation
 
 将网页应用探索表述为面向功能的问答任务，并依据多模态上下文生成导航操作。
@@ -27,6 +35,18 @@ Mobina Shahbandeh, Parsa Alian, Noor Nashid, Ali Mesbah
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-10741/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-10741/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_10741,
+  title = {{NaviQAte: Functionality-Guided Web Application Navigation}},
+  author = {{Mobina Shahbandeh} and {Parsa Alian} and {Noor Nashid} and {Ali Mesbah}},
+  year = {2024},
+  eprint = {2409.10741v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.10741v1},
+  note = {First published: 2024-09-16; Recorded arXiv version: v1; Recorded version updated: 2024-09-16T21:18:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

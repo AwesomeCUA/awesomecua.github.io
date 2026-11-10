@@ -1,3 +1,11 @@
+---
+title: "MobileWorld (Tongyi-MAI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tongyi-mai-mobileworld/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # MobileWorld (Tongyi-MAI)
 
 A containerized Android evaluation environment with GUI-only, agent-user interaction and MCP-augmented tasks, plus checks on application and backend state.

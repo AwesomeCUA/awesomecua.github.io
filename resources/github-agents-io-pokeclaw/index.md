@@ -1,3 +1,11 @@
+---
+title: "PokeClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agents-io-pokeclaw/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # PokeClaw
 
 Android app that runs a phone-control agent on the device, reading the UI tree through an Accessibility service and tapping, swiping and typing with on-device Gemma 4 or an optional cloud model.

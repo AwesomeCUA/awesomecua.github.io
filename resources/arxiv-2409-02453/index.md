@@ -1,3 +1,11 @@
+---
+title: "FrameCorr: Adaptive, Autoencoder-based Neural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-02453/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings
 
 Status: excluded from the active CUA catalog after scope review.

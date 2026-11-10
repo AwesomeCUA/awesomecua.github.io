@@ -1,3 +1,11 @@
+---
+title: "SnapEye | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zumerlab-snapeye/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # SnapEye
 
 A SnapDOM-based toolkit that lets coding agents capture, diff and record elements of a running web app through a CLI, an in-page API or URL triggers, with JSON results and exit codes.

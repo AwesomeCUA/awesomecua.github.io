@@ -1,3 +1,11 @@
+---
+title: "Koala: Capture, Share, Automate… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cccd967aa993404d74d0/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Koala: Capture, Share, Automate, Personalize Business Processes on the Web
 
 Koala 是一种协作式网页自动化系统，将浏览器交互记录为可编辑的伪自然语言脚本。脚本通过 wiki 共享，并结合个人或企业数据实例化，供其他用户复用。
@@ -27,6 +35,19 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 
 - BibTeX：https://awesomecua.com/resources/url-cccd967aa993404d74d0/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-cccd967aa993404d74d0/citation.csl.json
+
+```bibtex
+@inproceedings{cua_1b4a3a269ca9f1884a566476,
+  title = {{Koala: Capture, Share, Automate, Personalize Business Processes on the Web}},
+  author = {{Greg Little} and {Tessa A. Lau} and {Allen Cypher} and {James Lin} and {Eben M. Haber} and {Eser Kandogan}},
+  year = {2007},
+  booktitle = {CHI 2007 Proceedings},
+  pages = {943-946},
+  doi = {10.1145/1240624.1240767},
+  url = {https://doi.org/10.1145/1240624.1240767},
+  note = {Publication date: 2007.}
+}
+```
 
 ## 发表记录
 

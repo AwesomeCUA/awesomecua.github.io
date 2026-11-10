@@ -1,3 +1,11 @@
+---
+title: "Ferret-UI 2: Mastering Universal User… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-18967/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms
 
 通过自适应视觉缩放和合成数据，将 Ferret-UI 扩展到不同设备平台，支持指代、定位和以用户为中心的 UI 任务。
@@ -27,6 +35,18 @@ Zhangheng Li, Keen You, Haotian Zhang, Di Feng, Harsh Agrawal, Xiujun Li, Mohana
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-18967/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-18967/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_18967,
+  title = {{Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms}},
+  author = {{Zhangheng Li} and {Keen You} and {Haotian Zhang} and {Di Feng} and {Harsh Agrawal} and {Xiujun Li} and {Mohana Prasad Sathya Moorthy} and {Jeff Nichols} and {Yinfei Yang} and {Zhe Gan}},
+  year = {2024},
+  eprint = {2410.18967v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.18967v2},
+  note = {First published: 2024-10-24; Recorded arXiv version: v2; Recorded version updated: 2025-02-28T00:29:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

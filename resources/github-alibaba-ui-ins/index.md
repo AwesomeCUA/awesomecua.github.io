@@ -1,3 +1,11 @@
+---
+title: "UI-Ins | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alibaba-ui-ins/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # UI-Ins
 
 Treats grounding instructions as multiple reasoning perspectives, releasing a data pipeline, training code and UI-Ins-7B and 32B models trained by SFT on synthesized instructions, then RL.

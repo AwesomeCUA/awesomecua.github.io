@@ -1,3 +1,11 @@
+---
+title: "GIS Copilot: Towards an Autonomous GIS Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-03205/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis
 
 Bibliographic record for GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Temitope Akinboyewa, Zhenlong Li, Huan Ning, M. Naser Lessani
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-03205/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-03205/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_03205,
+  title = {{GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis}},
+  author = {{Temitope Akinboyewa} and {Zhenlong Li} and {Huan Ning} and {M. Naser Lessani}},
+  year = {2024},
+  eprint = {2411.03205v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.03205v4},
+  note = {First published: 2024-11-05; Recorded arXiv version: v4; Recorded version updated: 2024-11-22T02:00:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

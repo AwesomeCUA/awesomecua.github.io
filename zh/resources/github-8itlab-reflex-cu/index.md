@@ -1,3 +1,11 @@
+---
+title: "reflex-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-8itlab-reflex-cu/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # reflex-computer-use
 
 reflex-computer-use 是适用于 macOS 和 Windows 的 MCP 服务器，可读取原生 UI 无障碍树并分发低延迟动作。

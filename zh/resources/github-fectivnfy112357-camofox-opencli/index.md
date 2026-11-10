@@ -1,3 +1,11 @@
+---
+title: "Camofox OpenCLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fectivnfy112357-camofox-opencli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Camofox OpenCLI
 
 Docker 化的云浏览器运行环境，结合 Camofox 反检测 Firefox 和 163+ 个 OpenCLI 网站适配器。

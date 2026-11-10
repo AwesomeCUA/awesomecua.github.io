@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-feaad5e9f2497d1ed9ca/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-2B
 
 InternVL3.5-2B 检查点，包含 0.3B 视觉编码器和 2.0B 语言模型，所属多模态模型系列采用 Cascade RL 训练，其能力列表包括 GUI 交互。

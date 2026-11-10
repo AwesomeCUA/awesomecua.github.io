@@ -1,3 +1,11 @@
+---
+title: "SAP SuccessFactors Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SAP SuccessFactors Browser Automation
 
 A browser automation scaffold for SAP SuccessFactors. It includes actions for workforce reports, employee goals, compensation worksheets and organization-chart exports.

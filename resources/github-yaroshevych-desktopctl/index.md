@@ -1,3 +1,11 @@
+---
+title: "DesktopCtl | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yaroshevych-desktopctl/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DesktopCtl
 
 GPU-accelerated local macOS CLI for AI agents to inspect screen text/controls and dispatch mouse and keyboard actions.

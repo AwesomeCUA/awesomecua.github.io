@@ -1,3 +1,11 @@
+---
+title: "Sentinel Browser QA Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-we-building-autonomously-sentinel/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Sentinel Browser QA Harness
 
 Sentinel is a browser-native QA harness where an AI agent drives a real browser like an end user and returns structured test verdicts.

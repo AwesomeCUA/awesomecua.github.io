@@ -1,3 +1,11 @@
+---
+title: "finalrun-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-final-run-finalrun-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # finalrun-agent
 
 An AI-driven CLI for testing Android and iOS apps from YAML instructions. It observes the screen, performs touch and text actions, and reports results with video and logs.

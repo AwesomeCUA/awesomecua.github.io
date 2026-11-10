@@ -1,3 +1,11 @@
+---
+title: "Mobilerun Portal (formerly Droidrun Portal) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-droidrun-mobilerun-portal/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # Mobilerun Portal (formerly Droidrun Portal)
 
 An Android accessibility service that exposes UI-element inspection, device-control interfaces and screen feedback to mobile automation agents.

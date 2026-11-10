@@ -1,3 +1,11 @@
+---
+title: "Orca · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-echovic-orca-agent/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Orca
 
 Rust 编写的 DeepSeek 原生终端编程智能体，内置 macOS 计算机使用驱动；经逐应用批准后，可查看其他应用的无障碍树和截图，并点击、输入、发送按键和滚动。

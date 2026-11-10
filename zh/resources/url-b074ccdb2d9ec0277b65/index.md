@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Agent · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b074ccdb2d9ec0277b65/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # ChatGPT Agent
 
 结合浏览器交互、工具使用和计算机任务的托管智能体。

@@ -1,3 +1,11 @@
+---
+title: "GS-Agent: Creating 4D Physical Worlds With… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-21522/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GS-Agent: Creating 4D Physical Worlds With Generative Simulation
 
 Status: excluded from the active CUA catalog after scope review.

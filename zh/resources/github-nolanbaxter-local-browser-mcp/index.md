@@ -1,3 +1,11 @@
+---
+title: "Local Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nolanbaxter-local-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Local Browser MCP
 
 无界面、可由智能体控制的浏览器 MCP 服务器，专为测试和检查本地 Web 开发服务器而设计。

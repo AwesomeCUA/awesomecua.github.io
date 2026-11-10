@@ -1,3 +1,11 @@
+---
+title: "Browser Use WebUI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-web-ui/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # Browser Use WebUI
 
 用于配置和运行 Browser Use 智能体的 Gradio 界面，支持持久化浏览器会话和交互记录。

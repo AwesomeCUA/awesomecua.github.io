@@ -1,3 +1,11 @@
+---
+title: "OSExpert: Computer-Use Agents Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-07978/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OSExpert: Computer-Use Agents Learning Professional Skills via Exploration
 
 Uses GUI-based depth-first exploration to verify elementary software functions, assemble action primitives, and construct curricula of composed skills. OSExpert-Eval examines how the resulting procedural knowledge supports complex computer-use tasks.
@@ -26,6 +34,18 @@ Jiateng Liu, Zhenhailong Wang, Rushi Wang, Bingxuan Li, Jeonghwan Kim, Aditi Tiw
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-07978/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-07978/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_07978,
+  title = {{OSExpert: Computer-Use Agents Learning Professional Skills via Exploration}},
+  author = {{Jiateng Liu} and {Zhenhailong Wang} and {Rushi Wang} and {Bingxuan Li} and {Jeonghwan Kim} and {Aditi Tiwari} and {Pengfei Yu} and {Denghui Zhang} and {Heng Ji}},
+  year = {2026},
+  eprint = {2603.07978v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.07978v1},
+  note = {First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T05:27:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

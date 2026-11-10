@@ -1,3 +1,11 @@
+---
+title: "MobileGym++ / MobileGym++ Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openmobile2-mobilegym-plusplus/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # MobileGym++ / MobileGym++ Bench
 
 基于浏览器渲染的移动端模拟环境，应用状态可重置，并为纯 GUI 智能体和 GUI 加工具智能体提供共用任务集。

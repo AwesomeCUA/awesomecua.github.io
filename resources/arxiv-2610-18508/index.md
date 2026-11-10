@@ -1,3 +1,11 @@
+---
+title: "Towards Safe Autonomy for Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-18508/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Towards Safe Autonomy for Computer Use
 
 Presents SA-CUA, separating trusted and untrusted visual content using accessibility-derived masking rules and a controlled channel for verifying information before endorsement.
@@ -26,6 +34,18 @@ Dominik Seip, Bartol Markovinović, Matthias Hein
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-18508/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-18508/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_18508,
+  title = {{Towards Safe Autonomy for Computer Use}},
+  author = {{Dominik Seip} and {Bartol Markovinović} and {Matthias Hein}},
+  year = {2026},
+  eprint = {2610.18508v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.18508v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:03:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

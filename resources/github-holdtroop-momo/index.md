@@ -1,3 +1,11 @@
+---
+title: "Momo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-holdtroop-momo/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Momo
 
 Policy-compliant autonomous AI browser agent operating in local context with transparent intent logging and human oversight.

@@ -1,3 +1,11 @@
+---
+title: "IOS13-SimulateTouch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xuan32546-ios13-simulatetouch/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # IOS13-SimulateTouch
 
 这个 iOS 触控库可在越狱设备上执行脚本或远程触控，录制触控事件供回放，并提供图像匹配和 OCR 功能。

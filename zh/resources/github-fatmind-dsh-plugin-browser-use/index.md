@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-browser-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fatmind-dsh-plugin-browser-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-plugin-browser-use
 
 面向 DeepSeek Harness 的 Browser-Use 自动化插件，支持以自然语言执行网页任务。

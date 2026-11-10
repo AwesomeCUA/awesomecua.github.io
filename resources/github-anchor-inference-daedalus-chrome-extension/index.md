@@ -1,3 +1,11 @@
+---
+title: "Daedalus for Chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anchor-inference-daedalus-chrome-extension/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Daedalus for Chrome
 
 A Chrome extension that connects the Daedalus agent to browser tabs through Chrome's debugger API and a browser daemon.

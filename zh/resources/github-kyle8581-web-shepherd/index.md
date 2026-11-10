@@ -1,3 +1,11 @@
+---
+title: "Web-Shepherd inference and evaluation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kyle8581-web-shepherd/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # Web-Shepherd inference and evaluation
 
 Web-Shepherd 提供过程奖励推理和基准评估工具，利用任务检查清单评估网页智能体的单步决策。

@@ -1,3 +1,11 @@
+---
+title: "Kernel CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-onkernel-cli/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Kernel CLI
 
 Kernel CLI 管理供浏览器自动化和网页智能体使用的隔离 Chrome 会话。它可以部署应用、调用操作，并提供受管浏览器的实时视图。

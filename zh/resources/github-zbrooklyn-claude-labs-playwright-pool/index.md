@@ -1,3 +1,11 @@
+---
+title: "Playwright Pool MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zbrooklyn-claude-labs-playwright-pool/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Playwright Pool MCP
 
 Playwright 浏览器池 MCP 服务器，提供 75 个工具、共享身份验证配置和 28 项内置 UI 审计检查。

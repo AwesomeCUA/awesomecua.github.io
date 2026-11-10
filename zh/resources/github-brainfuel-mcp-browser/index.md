@@ -1,3 +1,11 @@
+---
+title: "MCP Browser (macOS WKWebView) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-brainfuel-mcp-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP Browser (macOS WKWebView)
 
 原生 macOS WKWebView 网页浏览器，直接以 Model Context Protocol 服务器形式向 AI 智能体开放。

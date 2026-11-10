@@ -1,3 +1,11 @@
+---
+title: "Browser Control MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eyalzh-browser-control-mcp/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # Browser Control MCP
 
 MCP 服务器和 Firefox 扩展，让 AI 助手在用户同意下管理标签页、搜索浏览器历史记录、读取网页文本并截图。

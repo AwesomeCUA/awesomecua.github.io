@@ -1,3 +1,11 @@
+---
+title: "FlowPilot Engine · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pensefact-flowpilot-engine/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # FlowPilot Engine
 
 混合式 AI 浏览器自动化引擎，结合 Claude 的视觉 Computer Use API 与确定性的 Playwright 执行。

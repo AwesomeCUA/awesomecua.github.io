@@ -1,3 +1,11 @@
+---
+title: "Online Rubrics Elicitation from Pairwise… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-07284/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Online Rubrics Elicitation from Pairwise Comparisons
 
 Status: excluded from the active CUA catalog after scope review.

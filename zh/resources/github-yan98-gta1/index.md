@@ -1,3 +1,11 @@
+---
+title: "GTA1: GUI Test-time Scaling Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yan98-gta1/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # GTA1: GUI Test-time Scaling Agent
 
 GTA1 是一款 GUI 智能体：它采样多个操作提议，由评判模型选出一个，再通过强化学习训练的定位模型将其映射到界面上的目标。

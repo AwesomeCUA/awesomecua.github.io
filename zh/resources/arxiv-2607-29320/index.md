@@ -1,3 +1,11 @@
+---
+title: "MAGA: Multi-Platform Self-Fusion of GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-29320/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation
 
 MAGA 按结构化动作的正确性分配监督信号，将专用 GUI 智能体蒸馏为单一策略。仅在训练时使用的教师提示支持跨移动端、网页和桌面环境融合，且不改变学生模型的输入。
@@ -27,6 +35,18 @@ Hang Yan, Zhangxuan GU, Beitong Zhou, Jiaxuan Chen, Runze Li, Yusong Hu, Shuheng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-29320/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-29320/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_29320,
+  title = {{MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation}},
+  author = {{Hang Yan} and {Zhangxuan GU} and {Beitong Zhou} and {Jiaxuan Chen} and {Runze Li} and {Yusong Hu} and {Shuheng Shen} and {Changhua Meng}},
+  year = {2026},
+  eprint = {2607.29320v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.29320v1},
+  note = {First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T11:51:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

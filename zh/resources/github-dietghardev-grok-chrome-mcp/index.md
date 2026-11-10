@@ -1,3 +1,11 @@
+---
+title: "grok-chrome-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dietghardev-grok-chrome-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # grok-chrome-mcp
 
 Model Context Protocol 服务器，让 Grok Build 和编程智能体通过点击操作实时运行的 Chrome Web 应用并进行验证。

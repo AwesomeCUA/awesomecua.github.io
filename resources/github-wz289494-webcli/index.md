@@ -1,3 +1,11 @@
+---
+title: "webcli | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wz289494-webcli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # webcli
 
 Python CLI and Chrome extension bridge allowing humans and AI agents to control live Chrome tabs from the terminal.

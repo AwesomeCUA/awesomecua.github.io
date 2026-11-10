@@ -1,3 +1,11 @@
+---
+title: "JoyAI-VL-Interaction: Real-Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-14777/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence
 
 Bibliographic record for JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dingyu Yao, Junhao Zhou, Chenxu Yang, Chuanyu Qin, Xiangyu Zeng, Yifei Li, Haowe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-14777/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-14777/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_14777,
+  title = {{JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence}},
+  author = {{Dingyu Yao} and {Junhao Zhou} and {Chenxu Yang} and {Chuanyu Qin} and {Xiangyu Zeng} and {Yifei Li} and {Haowen Hou} and {Zheming Liang} and {Congcong Wang} and {Kaiwen Tuo} and {Jun Zhang} and {Yuhan Zhu} and {Yuhang Cao} and {Shenglong Ye} and {Shuai Xie} and {Shuhuan Gu} and {Haoyang Huang} and {Qingyi Si} and {Nan Duan} and {Jiaqi Wang}},
+  year = {2026},
+  eprint = {2606.14777v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.14777v2},
+  note = {First published: 2026-06-10; Recorded arXiv version: v2; Recorded version updated: 2026-09-24T10:09:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

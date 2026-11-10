@@ -1,3 +1,11 @@
+---
+title: "MetaWebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scanchila-metawebmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MetaWebMCP
 
 浏览器内工作台，用于基于实时网站流程编写、测试和导出结构化 WebMCP 工具定义。

@@ -1,3 +1,11 @@
+---
+title: "ibara · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mayberrydt-ibara/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # ibara
 
 ibara 通过 MCP 将智能体连接到备用 Omarchy 电脑，执行桌面及浏览器任务；控制台可查看屏幕与任务，并供人接管操作。

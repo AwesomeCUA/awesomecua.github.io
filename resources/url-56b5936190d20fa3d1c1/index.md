@@ -1,3 +1,11 @@
+---
+title: "Mind2Web bbox eval (MultiUI) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-56b5936190d20fa3d1c1/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Mind2Web bbox eval (MultiUI)
 
 Mind2Web steps repackaged by the MultiUI authors as JPEG screenshots with per-step JSONL queries and candidate-element boxes, for MultiUI's screenshot-based Mind2Web action evaluation.

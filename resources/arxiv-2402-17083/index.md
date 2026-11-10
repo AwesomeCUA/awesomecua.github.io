@@ -1,3 +1,11 @@
+---
+title: "Computing Using Shallow NV-Center Charges in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-17083/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Computing Using Shallow NV-Center Charges in Diamond
 
 Status: excluded from the active CUA catalog after scope review.

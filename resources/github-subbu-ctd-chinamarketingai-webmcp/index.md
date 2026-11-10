@@ -1,3 +1,11 @@
+---
+title: "Evidence-Bounded GEO Workbench (WebMCP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-subbu-ctd-chinamarketingai-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Evidence-Bounded GEO Workbench (WebMCP)
 
 Browser-native human-in-the-loop WebMCP workbench with evidence-bounded action verification.

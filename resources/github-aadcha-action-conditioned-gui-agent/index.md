@@ -1,3 +1,11 @@
+---
+title: "Action-Type-Conditioned Grounding for GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aadcha-action-conditioned-gui-agent/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Action-Type-Conditioned Grounding for GUI Agents
 
 Research code for GUI grounding that predicts an action type and then conditions coordinate prediction on it. It compares six conditioning methods and includes training and evaluation scripts.

@@ -1,3 +1,11 @@
+---
+title: "Evaluating Large Language Models Trained on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2107-03374/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Evaluating Large Language Models Trained on Code
 
 Status: excluded from the active CUA catalog after scope review.

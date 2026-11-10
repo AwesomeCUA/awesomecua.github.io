@@ -1,3 +1,11 @@
+---
+title: "LiteReality-Agent: An Agentic System for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-01863/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction
 
 Bibliographic record for LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhening Huang, Yueyan Li, Johnathan Chiu, Xiaoyang Lyu, Matt Zhou, Yuxin Yao, Jo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-01863/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-01863/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_01863,
+  title = {{LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction}},
+  author = {{Zhening Huang} and {Yueyan Li} and {Johnathan Chiu} and {Xiaoyang Lyu} and {Matt Zhou} and {Yuxin Yao} and {Joan Lasenby} and {Shangzhe Wu}},
+  year = {2026},
+  eprint = {2610.01863v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.01863v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T15:25:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

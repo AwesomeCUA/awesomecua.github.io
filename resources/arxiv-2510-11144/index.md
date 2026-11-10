@@ -1,3 +1,11 @@
+---
+title: "$How^{2}$: How to learn from procedural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-11144/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # $How^{2}$: How to learn from procedural How-to questions
 
 Status: excluded from the active CUA catalog after scope review.

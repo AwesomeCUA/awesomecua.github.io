@@ -1,3 +1,11 @@
+---
+title: "GUI-PRA: Process Reward Agent for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-23263/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GUI-PRA: Process Reward Agent for GUI Tasks
 
 GUI-PRA 生成任务专属标准，并借助工具主动检查视觉证据，以评估 GUI 任务进展。研究在 OS-Critic Bench 上测试离线判断，并在 AndroidWorld 上测试该反馈对在线移动端策略的影响。
@@ -27,6 +35,18 @@ Tao Xiong, Xavier Hu, Yurun Chen, Yuhang Liu, Changqiao Wu, Pengzhi Gao, Wei Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-23263/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-23263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_23263,
+  title = {{GUI-PRA: Process Reward Agent for GUI Tasks}},
+  author = {{Tao Xiong} and {Xavier Hu} and {Yurun Chen} and {Yuhang Liu} and {Changqiao Wu} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Shengyu Zhang}},
+  year = {2025},
+  eprint = {2509.23263v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.23263v3},
+  note = {First published: 2025-09-27; Recorded arXiv version: v3; Recorded version updated: 2026-08-30T18:12:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

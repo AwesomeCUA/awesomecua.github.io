@@ -1,3 +1,11 @@
+---
+title: "BrowserOS / BrowserOS neo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browseros-ai-browseros/
+updated: 2026-10-17
+type: infrastructure
+lang: en
+---
+
 # BrowserOS / BrowserOS neo
 
 Chromium-based browser implementations for external agent control and built-in assistant workflows, with session visibility and replay facilities.

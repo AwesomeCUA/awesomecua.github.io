@@ -1,3 +1,11 @@
+---
+title: "Toward Engineering AGI: Benchmarking the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-16204/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Toward Engineering AGI: Benchmarking the Engineering Design Capabilities of LLMs
 
 Bibliographic record for Toward Engineering AGI: Benchmarking the Engineering Design Capabilities of LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xingang Guo, Yaxin Li, Xiangyi Kong, Yilan Jiang, Xiayu Zhao, Zhihua Gong, Yufan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-16204/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-16204/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_16204,
+  title = {{Toward Engineering AGI: Benchmarking the Engineering Design Capabilities of LLMs}},
+  author = {{Xingang Guo} and {Yaxin Li} and {Xiangyi Kong} and {Yilan Jiang} and {Xiayu Zhao} and {Zhihua Gong} and {Yufan Zhang} and {Daixuan Li} and {Tianle Sang} and {Beixiao Zhu} and {Gregory Jun} and {Yingbing Huang} and {Yiqi Liu} and {Yuqi Xue} and {Rahul Dev Kundu} and {Qi Jian Lim} and {Yizhou Zhao} and {Luke Alexander Granger} and {Mohamed Badr Younis} and {Darioush Keivan} and {Nippun Sabharwal} and {Shreyanka Sinha} and {Prakhar Agarwal} and {Kojo Vandyck} and {Hanlin Mai} and {Zichen Wang} and {Aditya Venkatesh} and {Ayush Barik} and {Jiankun Yang} and {Chongying Yue} and {Jingjie He} and {Libin Wang} and {Licheng Xu} and {Hao Chen} and {Jinwen Wang} and {Liujun Xu} and {Rushabh Shetty} and {Ziheng Guo} and {Dahui Song} and {Manvi Jha} and {Weijie Liang} and {Weiman Yan} and {Bryan Zhang} and {Sahil Bhandary Karnoor} and {Jialiang Zhang} and {Rutva Pandya} and {Xinyi Gong} and {Mithesh Ballae Ganesh} and {Feize Shi} and {Ruiling Xu} and {Yifan Zhang} and {Yanfeng Ouyang} and {Lianhui Qin} and {Elyse Rosenbaum} and {Corey Snyder} and {Peter Seiler} and {Geir Dullerud} and {Xiaojia Shelly Zhang} and {Zuofu Cheng} and {Pavan Kumar Hanumolu} and {Jian Huang} and {Mayank Kulkarni} and {Mahdi Namazifar} and {Huan Zhang} and {Bin Hu}},
+  year = {2025},
+  eprint = {2509.16204v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.16204v2},
+  note = {First published: 2025-07-01; Recorded arXiv version: v2; Recorded version updated: 2025-11-06T21:47:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

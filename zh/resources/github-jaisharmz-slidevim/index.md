@@ -1,3 +1,11 @@
+---
+title: "slidevim · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jaisharmz-slidevim/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # slidevim
 
 用于在浏览器中操作 Google Slides 的 Vim 语法命令语言和文本协议。

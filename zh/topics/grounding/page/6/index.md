@@ -1,3 +1,11 @@
+---
+title: "GUI 定位：Computer-Use 研究与资源（第 6 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/grounding/page/6/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # GUI 定位：Computer-Use 研究与资源（第 6 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/grounding/page/6/

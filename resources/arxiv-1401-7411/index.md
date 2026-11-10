@@ -1,3 +1,11 @@
+---
+title: "Design and Construction of a Brain-Like… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1401-7411/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Design and Construction of a Brain-Like Computer: A New Class of Frequency-Fractal Computing Using Wireless Communication in a Supramolecular Organic, Inorganic System
 
 Status: excluded from the active CUA catalog after scope review.

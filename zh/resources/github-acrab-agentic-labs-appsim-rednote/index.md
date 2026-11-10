@@ -1,3 +1,11 @@
+---
+title: "CLYRedNote · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-rednote/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # CLYRedNote
 
 这是用于 GUI 智能体测试的 Android Compose 仿应用，提供购物、消息、搜索和内容页面，并使用预置的虚构数据。

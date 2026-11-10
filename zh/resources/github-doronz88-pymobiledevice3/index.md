@@ -1,3 +1,11 @@
+---
+title: "pymobiledevice3 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-doronz88-pymobiledevice3/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # pymobiledevice3
 
 面向 iOS 设备的纯 Python 3 库和命令行工具，支持在浏览器中镜像并触控操作屏幕，提供 Safari 与 WebView 的 CDP 桥接，以及供 Claude Code 使用的设备操作技能。

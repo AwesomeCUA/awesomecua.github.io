@@ -1,3 +1,11 @@
+---
+title: "Kitewright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kitewright-kitewright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Kitewright
 
 Single-binary ~7MB Rust browser-automation Model Context Protocol server supporting Streamable HTTP and stdio.

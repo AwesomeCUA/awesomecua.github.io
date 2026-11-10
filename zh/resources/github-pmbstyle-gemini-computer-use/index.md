@@ -1,3 +1,11 @@
+---
+title: "Gemini Computer Use Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pmbstyle-gemini-computer-use/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Gemini Computer Use Agent
 
 Gemini Computer Use Agent 利用截图、Gemini 计算机操作模型和 Playwright 浏览网页并执行浏览器操作，可选择请求用户确认。

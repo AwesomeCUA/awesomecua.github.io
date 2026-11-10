@@ -1,3 +1,11 @@
+---
+title: "hermes-hyprland-plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xcaptain09-hermes-hyprland-plugin/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # hermes-hyprland-plugin
 
 C++ Hyprland Wayland compositor plugin and Python D-Bus AT-SPI coordinate-fusion bridge for zero-mouse-stealing Linux GUI agents.

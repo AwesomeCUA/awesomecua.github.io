@@ -1,3 +1,11 @@
+---
+title: "WorkArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-servicenow-workarena/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # WorkArena
 
 围绕 ServiceNow 构建的浏览器端企业工作流程任务。

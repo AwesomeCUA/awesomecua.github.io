@@ -1,3 +1,11 @@
+---
+title: "Enterprise Web Workflow Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ztr321-enterprise-web-workflow-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Enterprise Web Workflow Agent
 
 Enterprise web workflow agent framework combining browser-use automation, human-in-the-loop safety gates, trace logging, and evaluation.

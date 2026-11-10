@@ -1,3 +1,11 @@
+---
+title: "Qwen3Guard Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-14276/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Qwen3Guard Technical Report
 
 Status: excluded from the active CUA catalog after scope review.

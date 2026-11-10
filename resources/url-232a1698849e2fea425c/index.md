@@ -1,3 +1,11 @@
+---
+title: "OSWorld Windows VM images | AwesomeCUA"
+url: https://awesomecua.com/resources/url-232a1698849e2fea425c/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # OSWorld Windows VM images
 
 Hub host of OSWorld's prebuilt Windows 10 virtual machines: a VMware archive and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run of a Windows task.

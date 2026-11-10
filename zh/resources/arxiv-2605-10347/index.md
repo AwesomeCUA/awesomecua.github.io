@@ -1,3 +1,11 @@
+---
+title: "How Mobile World Model Guides GUI Agents? · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-10347/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # How Mobile World Model Guides GUI Agents?
 
 比较以增量文本、完整文本、图像或可渲染代码预测状态变化的移动端世界模型；下游 Android 基准考察合成训练轨迹和测试时指导，包括操作后反思的局限。
@@ -27,6 +35,18 @@ Weikai Xu, Kun Huang, Yunren Feng, Jiaxing Li, Yuhan Chen, Yuxuan Liu, Zhizheng 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-10347/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-10347/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_10347,
+  title = {{How Mobile World Model Guides GUI Agents?}},
+  author = {{Weikai Xu} and {Kun Huang} and {Yunren Feng} and {Jiaxing Li} and {Yuhan Chen} and {Yuxuan Liu} and {Zhizheng Jiang} and {Heng Qu} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Xiaolin Hu} and {Bo An}},
+  year = {2026},
+  eprint = {2605.10347v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.10347v2},
+  note = {First published: 2026-05-11; Recorded arXiv version: v2; Recorded version updated: 2026-05-22T05:43:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

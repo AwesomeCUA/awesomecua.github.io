@@ -1,3 +1,11 @@
+---
+title: "zseven-w DSH Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zseven-w-dsh-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # zseven-w DSH Browser
 
 Headless-first browser automation plugin for DeepSeek Harness.

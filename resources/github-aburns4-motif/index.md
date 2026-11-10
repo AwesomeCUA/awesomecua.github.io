@@ -1,3 +1,11 @@
+---
+title: "MoTIF | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aburns4-motif/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # MoTIF
 
 Mobile task demonstrations and natural-language instructions.

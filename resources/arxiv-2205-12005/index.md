@@ -1,3 +1,11 @@
+---
+title: "mPLUG: Effective and Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-12005/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections
 
 Bibliographic record for mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenliang Li, Haiyang Xu, Junfeng Tian, Wei Wang, Ming Yan, Bin Bi, Jiabo Ye, He
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2205-12005/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2205-12005/citation.csl.json
+
+```bibtex
+@misc{arxiv_2205_12005,
+  title = {{mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections}},
+  author = {{Chenliang Li} and {Haiyang Xu} and {Junfeng Tian} and {Wei Wang} and {Ming Yan} and {Bin Bi} and {Jiabo Ye} and {Hehong Chen} and {Guohai Xu} and {Zheng Cao} and {Ji Zhang} and {Songfang Huang} and {Fei Huang} and {Jingren Zhou} and {Luo Si}},
+  year = {2022},
+  eprint = {2205.12005v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2205.12005v2},
+  note = {First published: 2022-05-24; Recorded arXiv version: v2; Recorded version updated: 2022-05-25T05:49:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

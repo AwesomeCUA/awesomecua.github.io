@@ -1,3 +1,11 @@
+---
+title: "Compiler Optimization for Quantum Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-04508/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Compiler Optimization for Quantum Computing Using Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

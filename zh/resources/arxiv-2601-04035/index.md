@@ -1,3 +1,11 @@
+---
+title: "MobileDreamer: Generative Sketch World… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-04035/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobileDreamer: Generative Sketch World Model for GUI Agent
 
 MobileDreamer 以任务相关的文本草图预测操作后的 GUI 状态，并采用顺序不变的学习目标。智能体利用预测提前选择操作，论文在 AndroidWorld 上评估。
@@ -27,6 +35,18 @@ Yilin Cao, Yufeng Zhong, Zhixiong Zeng, Siran Dai, Liming Zheng, Jing Huang, Hai
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-04035/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-04035/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_04035,
+  title = {{MobileDreamer: Generative Sketch World Model for GUI Agent}},
+  author = {{Yilin Cao} and {Yufeng Zhong} and {Zhixiong Zeng} and {Siran Dai} and {Liming Zheng} and {Jing Huang} and {Haibo Qiu} and {Peng Shi} and {Wenji Mao}},
+  year = {2026},
+  eprint = {2601.04035v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.04035v2},
+  note = {First published: 2026-01-07; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T13:27:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

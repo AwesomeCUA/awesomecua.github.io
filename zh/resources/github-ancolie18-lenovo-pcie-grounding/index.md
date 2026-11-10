@@ -1,3 +1,11 @@
+---
+title: "lenovo TianXi_Action_Grounding_7B · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ancolie18-lenovo-pcie-grounding/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # lenovo TianXi_Action_Grounding_7B
 
 用于在 ScreenSpot-Pro 上评估多模态 GUI 定位模型的脚本，支持不同指令形式，并将结果保存为结构化日志。

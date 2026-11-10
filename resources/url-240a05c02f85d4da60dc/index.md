@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Atlas | AwesomeCUA"
+url: https://awesomecua.com/resources/url-240a05c02f85d4da60dc/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # ChatGPT Atlas
 
 OpenAI browser product integrating ChatGPT and agent capabilities.

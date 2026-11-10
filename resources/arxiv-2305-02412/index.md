@@ -1,3 +1,11 @@
+---
+title: "Plan, Eliminate, and Track -- Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-02412/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents
 
 Bibliographic record for Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-02412/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-02412/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_02412,
+  title = {{Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents}},
+  author = {{Yue Wu} and {So Yeon Min} and {Yonatan Bisk} and {Ruslan Salakhutdinov} and {Amos Azaria} and {Yuanzhi Li} and {Tom Mitchell} and {Shrimai Prabhumoye}},
+  year = {2023},
+  eprint = {2305.02412v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.02412v2},
+  note = {First published: 2023-05-03; Recorded arXiv version: v2; Recorded version updated: 2023-05-07T05:33:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

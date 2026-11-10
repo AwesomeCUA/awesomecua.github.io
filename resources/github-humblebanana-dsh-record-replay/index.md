@@ -1,3 +1,11 @@
+---
+title: "dsh-record-replay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-humblebanana-dsh-record-replay/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-record-replay
 
 DeepSeek Harness plugin that records macOS desktop demonstrations via Open Record/Replay and compiles them into agent skills.

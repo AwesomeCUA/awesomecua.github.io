@@ -1,3 +1,11 @@
+---
+title: "NAVER: A Neuro-Symbolic Compositional… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-00372/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

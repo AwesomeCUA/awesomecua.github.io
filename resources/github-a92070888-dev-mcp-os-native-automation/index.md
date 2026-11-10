@@ -1,3 +1,11 @@
+---
+title: "Front-End Operation Master (FEOM) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Front-End Operation Master (FEOM)
 
 Windows native UI automation framework and MCP server operating over UIA trees with zero vision tokens and ~3.9ms action latency.

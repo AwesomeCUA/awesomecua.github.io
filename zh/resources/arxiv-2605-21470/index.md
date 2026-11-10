@@ -1,3 +1,11 @@
+---
+title: "Agent JIT Compilation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-21470/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling
 
 Agent JIT 编译将浏览器任务描述转为经过验证的可执行计划，涵盖模型调用、工具和并行工作；基于成本的调度器及前后置条件协议旨在减少网页智能体执行时的延迟和工具误用。
@@ -27,6 +35,18 @@ Caleb Winston, Ron Yifeng Wang, Azalia Mirhoseini, Christos Kozyrakis
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-21470/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-21470/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_21470,
+  title = {{Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling}},
+  author = {{Caleb Winston} and {Ron Yifeng Wang} and {Azalia Mirhoseini} and {Christos Kozyrakis}},
+  year = {2026},
+  eprint = {2605.21470v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.21470v2},
+  note = {First published: 2026-05-20; Recorded arXiv version: v2; Recorded version updated: 2026-05-29T17:54:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

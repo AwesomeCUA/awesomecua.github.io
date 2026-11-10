@@ -1,3 +1,11 @@
+---
+title: "JUMPDiscovery | AwesomeCUA"
+url: https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # JUMPDiscovery
 
 Task data for the Orion computer-using agent's open discovery task: a problem statement, CellProfiler pipelines, gene sets and a script that downloads JUMP Cell Painting morphological profiles.

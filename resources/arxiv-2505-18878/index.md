@@ -1,3 +1,11 @@
+---
+title: "CRMArena-Pro: Holistic Assessment of LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-18878/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions
 
 Bibliographic record for CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kung-Hsiang Huang, Akshara Prabhakar, Onkar Thorat, Divyansh Agarwal, Prafulla K
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-18878/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-18878/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_18878,
+  title = {{CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions}},
+  author = {{Kung-Hsiang Huang} and {Akshara Prabhakar} and {Onkar Thorat} and {Divyansh Agarwal} and {Prafulla Kumar Choubey} and {Yixin Mao} and {Silvio Savarese} and {Caiming Xiong} and {Chien-Sheng Wu}},
+  year = {2025},
+  eprint = {2505.18878v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.18878v1},
+  note = {First published: 2025-05-24; Recorded arXiv version: v1; Recorded version updated: 2025-05-24T21:33:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

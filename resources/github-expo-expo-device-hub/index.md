@@ -1,3 +1,11 @@
+---
+title: "Expo Device Hub | AwesomeCUA"
+url: https://awesomecua.com/resources/github-expo-expo-device-hub/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Expo Device Hub
 
 Expo Device Hub streams iOS simulators and Android emulators into a browser dashboard, where users can view screens, send input, and manage devices.

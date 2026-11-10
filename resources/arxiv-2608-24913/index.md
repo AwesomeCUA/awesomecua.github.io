@@ -1,3 +1,11 @@
+---
+title: "From Blind Edits to Verified Repair: Building… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24913/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # From Blind Edits to Verified Repair: Building Trustworthy User-Side LLM Agents for Web Accessibility
 
 Builds a local browser-extension agent that generates and verifies additive CSS repairs for WCAG web accessibility violations.
@@ -26,6 +34,18 @@ Lily Bundgaard Wanscher, Markus Heidemann Lorensen, Mohammed Ammad Shafiq, Mahya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24913/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24913/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24913,
+  title = {{From Blind Edits to Verified Repair: Building Trustworthy User-Side LLM Agents for Web Accessibility}},
+  author = {{Lily Bundgaard Wanscher} and {Markus Heidemann Lorensen} and {Mohammed Ammad Shafiq} and {Mahyar Tourchi Moghaddam} and {Mina Alipour}},
+  year = {2026},
+  eprint = {2608.24913v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24913v1},
+  note = {First published: 2026-07-26; Recorded arXiv version: v1; Recorded version updated: 2026-07-26T17:21:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

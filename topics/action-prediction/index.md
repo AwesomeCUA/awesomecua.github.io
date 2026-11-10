@@ -1,3 +1,11 @@
+---
+title: "Action prediction — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/action-prediction/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Action prediction
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -552,8 +560,6 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Research scripts that generate screen descriptions, action reasoning and expected outcomes, then predict Android GUI actions using the resulting Chain-of-Action-Thought context.
 - [D-PoT evaluation code](https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/) — Date not recorded
   Offline prompting and evaluation code for Dynamic Planning of Thoughts on Android-in-the-Wild, including action extraction and comparison with reference actions.
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/) — Date not recorded
-  DesktopAgent operates Windows desktop applications in the background using a local 0.33B System-One decision model (S1-Fast) and UI Automation.
 - [fara-7b-agent](https://awesomecua.com/resources/github-cobusgreyling-fara-7b-agent/) — Date not recorded
   Minimal, fully local agent harness for running Microsoft's Fara-7B computer-use model on desktop and browser tasks.
 - [FastCUA](https://awesomecua.com/resources/github-guojiz-fastcua/) — Date not recorded

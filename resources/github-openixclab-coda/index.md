@@ -1,3 +1,11 @@
+---
+title: "CODA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openixclab-coda/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CODA
 
 CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor ('Cerebellum') via decoupled reinforcement learning on ScienceBoard.

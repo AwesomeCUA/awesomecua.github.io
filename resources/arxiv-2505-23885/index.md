@@ -1,3 +1,11 @@
+---
+title: "OWL: Optimized Workforce Learning for General… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-23885/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
 Bibliographic record for OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mengkang Hu, Yuhang Zhou, Wendong Fan, Yuzhou Nie, Bowei Xia, Tao Sun, Ziyu Ye, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-23885/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-23885/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_23885,
+  title = {{OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation}},
+  author = {{Mengkang Hu} and {Yuhang Zhou} and {Wendong Fan} and {Yuzhou Nie} and {Bowei Xia} and {Tao Sun} and {Ziyu Ye} and {Zhaoxuan Jin} and {Yingru Li} and {Qiguang Chen} and {Zeyu Zhang} and {Yifeng Wang} and {Qianshuo Ye} and {Bernard Ghanem} and {Ping Luo} and {Guohao Li}},
+  year = {2025},
+  eprint = {2505.23885v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.23885v2},
+  note = {First published: 2025-05-29; Recorded arXiv version: v2; Recorded version updated: 2025-06-11T01:42:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

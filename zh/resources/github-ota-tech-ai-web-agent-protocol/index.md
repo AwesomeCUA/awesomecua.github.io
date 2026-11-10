@@ -1,3 +1,11 @@
+---
+title: "Web Agent Protocol (WAP) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ota-tech-ai-web-agent-protocol/
+updated: 2026-10-19
+type: tool
+lang: zh-CN
+---
+
 # Web Agent Protocol (WAP)
 
 通过 Chrome 扩展录制浏览器会话，转换为精确或 LLM 压缩的智能重放列表，使用内置 Browser Use 智能体重放，并将录制内容转换为 MCP 服务器。

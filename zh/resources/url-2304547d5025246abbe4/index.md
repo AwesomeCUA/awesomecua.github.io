@@ -1,3 +1,11 @@
+---
+title: "CognitiveKernel-Pro-Query · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2304547d5025246abbe4/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # CognitiveKernel-Pro-Query
 
 CognitiveKernel-Pro-Query 收录为 Cognitive Kernel-Pro 生成的训练查询：JSONL 格式的多跳 URLQA 和带提示的 AgentWebQA，用于采样网页智能体轨迹。

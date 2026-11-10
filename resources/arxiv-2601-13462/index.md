@@ -1,3 +1,11 @@
+---
+title: "SpatialBench-UC: Uncertainty-Aware Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-13462/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SpatialBench-UC: Uncertainty-Aware Evaluation of Spatial Prompt Following in Text-to-Image Generation
 
 Status: excluded from the active CUA catalog after scope review.

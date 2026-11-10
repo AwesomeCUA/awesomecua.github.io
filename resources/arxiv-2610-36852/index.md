@@ -1,3 +1,11 @@
+---
+title: "When Black-Box Robot Policies Fail: Online… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36852/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # When Black-Box Robot Policies Fail: Online Sensor Diagnosis and Repair with a Transparent Surrogate
 
 Bibliographic record for When Black-Box Robot Policies Fail: Online Sensor Diagnosis and Repair with a Transparent Surrogate. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Marc Ziegler, Batu Özen, Sami Mentes, Thomas Waschulzik, Alois Knoll
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36852/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36852/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36852,
+  title = {{When Black-Box Robot Policies Fail: Online Sensor Diagnosis and Repair with a Transparent Surrogate}},
+  author = {{Marc Ziegler} and {Batu Özen} and {Sami Mentes} and {Thomas Waschulzik} and {Alois Knoll}},
+  year = {2026},
+  eprint = {2610.36852v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36852v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T08:49:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

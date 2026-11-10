@@ -1,3 +1,11 @@
+---
+title: "MobileGym · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-purewhiter-mobilegym/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # MobileGym
 
 运行于浏览器的移动应用模拟器，提供可编程状态、参数化任务和确定性的状态检查评判机制，用于并行评估 GUI 智能体和在线强化学习。

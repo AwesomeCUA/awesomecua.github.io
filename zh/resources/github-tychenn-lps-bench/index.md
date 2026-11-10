@@ -1,3 +1,11 @@
+---
+title: "LPS-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tychenn-lps-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # LPS-Bench
 
 LPS-Bench 在良性及对抗性执行场景下，评测计算机使用智能体进行长程规划时的安全意识。

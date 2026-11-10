@@ -1,3 +1,11 @@
+---
+title: "AgentCIBench (huggingface.co/datasets/UKPLab/a… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d7f35409d35584385097/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # AgentCIBench
 
 Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app workspace scenarios that pair under-specified requests with must-share and must-not-share lists, plus a 50-scenario live-UI subset.

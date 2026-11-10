@@ -1,3 +1,11 @@
+---
+title: "WebLINX dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1517e989c470563bd08d/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WebLINX dataset
 
 Hub data of WebLINX 1.0: conversational web-navigation demonstrations preprocessed into per-turn records with dialogue, cleaned HTML, candidate elements and action history, plus reranking data.

@@ -1,3 +1,11 @@
+---
+title: "Anonymization-Enhanced Privacy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-10139/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible
 
 该匿名化框架用类型不变且前后一致的占位符替换屏幕和指令中的敏感内容，并通过本地交互代理协调动作；在 AndroidLab 和 PrivScreen 上的实验考察移动 GUI 智能体操作转换后界面时的隐私与效用权衡。
@@ -27,6 +35,18 @@ Lepeng Zhao, Zhenhua Zou, Shuo Li, Zhuotao Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-10139/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-10139/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_10139,
+  title = {{Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible}},
+  author = {{Lepeng Zhao} and {Zhenhua Zou} and {Shuo Li} and {Zhuotao Liu}},
+  year = {2026},
+  eprint = {2602.10139v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.10139v3},
+  note = {First published: 2026-02-08; Recorded arXiv version: v3; Recorded version updated: 2026-04-26T01:34:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

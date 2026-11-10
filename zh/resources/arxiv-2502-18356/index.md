@@ -1,3 +1,11 @@
+---
+title: "WebGames: Challenging General-Purpose… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-18356/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WebGames: Challenging General-Purpose Web-Browsing AI Agents
 
 提出浏览器智能体基准 WebGames，包含 50 多项交互挑战，提供独立测试环境和可核验的答案。
@@ -27,6 +35,18 @@ George Thomas, Alex J. Chan, Jikun Kang, Wenqi Wu, Filippos Christianos, Fraser 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-18356/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-18356/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_18356,
+  title = {{WebGames: Challenging General-Purpose Web-Browsing AI Agents}},
+  author = {{George Thomas} and {Alex J. Chan} and {Jikun Kang} and {Wenqi Wu} and {Filippos Christianos} and {Fraser Greenlee} and {Andy Toulis} and {Marvin Purtorab}},
+  year = {2025},
+  eprint = {2502.18356v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.18356v1},
+  note = {First published: 2025-02-25; Recorded arXiv version: v1; Recorded version updated: 2025-02-25T16:45:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Self-Hosted Cloud Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bk927-cloud-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Self-Hosted Cloud Browser MCP
 
 自行托管的 Chromium MCP 服务器，支持隔离的浏览器配置文件、OAuth 身份验证和人工接管。

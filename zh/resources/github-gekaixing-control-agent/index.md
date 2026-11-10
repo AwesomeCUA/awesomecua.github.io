@@ -1,3 +1,11 @@
+---
+title: "Control-Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gekaixing-control-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Control-Agent
 
 统一的多模态控制框架，结合纯视觉桌面操作、基于结构化 DOM 的浏览器控制和 ADB 移动端自动化。

@@ -1,3 +1,11 @@
+---
+title: "TextHawk2: A Large Vision-Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-05261/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens
 
 Bibliographic record for TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ya-Qi Yu, Minghui Liao, Jiwen Zhang, Jihao Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-05261/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-05261/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_05261,
+  title = {{TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens}},
+  author = {{Ya-Qi Yu} and {Minghui Liao} and {Jiwen Zhang} and {Jihao Wu}},
+  year = {2024},
+  eprint = {2410.05261v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.05261v1},
+  note = {First published: 2024-10-07; Recorded arXiv version: v1; Recorded version updated: 2024-10-07T17:58:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

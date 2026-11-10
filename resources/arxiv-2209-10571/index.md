@@ -1,3 +1,11 @@
+---
+title: "Subspace Diagonalization on Quantum Computers… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2209-10571/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Subspace Diagonalization on Quantum Computers using Eigenvector Continuation
 
 Status: excluded from the active CUA catalog after scope review.

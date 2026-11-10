@@ -1,3 +1,11 @@
+---
+title: "Solari Research Suite: ARC & ColdStart · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Solari Research Suite: ARC & ColdStart
 
 这套研究工具结合了基于辅助功能信息的浏览器智能体运行框架，以及会改变网页任务应用并依据数据库状态验证操作结果的评测框架。

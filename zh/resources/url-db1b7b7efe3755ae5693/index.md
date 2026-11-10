@@ -1,3 +1,11 @@
+---
+title: "Go-Browse WebArena Qwen 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-db1b7b7efe3755ae5693/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Go-Browse WebArena Qwen 7B
 
 基于 Go-Browse WebArena 轨迹微调的 Qwen-2.5-7B-Instruct 检查点，用于执行网站任务。

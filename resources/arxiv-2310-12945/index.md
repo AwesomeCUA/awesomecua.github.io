@@ -1,3 +1,11 @@
+---
+title: "3D-GPT: Procedural 3D Modeling with Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-12945/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # 3D-GPT: Procedural 3D Modeling with Large Language Models
 
 Bibliographic record for 3D-GPT: Procedural 3D Modeling with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, Stephen Gould
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-12945/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-12945/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_12945,
+  title = {{3D-GPT: Procedural 3D Modeling with Large Language Models}},
+  author = {{Chunyi Sun} and {Junlin Han} and {Weijian Deng} and {Xinlong Wang} and {Zishan Qin} and {Stephen Gould}},
+  year = {2023},
+  eprint = {2310.12945v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.12945v2},
+  note = {First published: 2023-10-19; Recorded arXiv version: v2; Recorded version updated: 2024-05-29T01:35:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

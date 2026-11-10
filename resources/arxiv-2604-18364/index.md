@@ -1,3 +1,11 @@
+---
+title: "Training and Agentic Inference Strategies for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18364/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Training and Agentic Inference Strategies for LLM-based Manim Animation Generation
 
 Bibliographic record for Training and Agentic Inference Strategies for LLM-based Manim Animation Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ravidu Suien Rammuni Silva, Ahmad Lotfi, Isibor Kennedy Ihianle, Golnaz Shahtahm
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18364/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18364/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18364,
+  title = {{Training and Agentic Inference Strategies for LLM-based Manim Animation Generation}},
+  author = {{Ravidu Suien Rammuni Silva} and {Ahmad Lotfi} and {Isibor Kennedy Ihianle} and {Golnaz Shahtahmassebi} and {Jordan J. Bird}},
+  year = {2026},
+  eprint = {2604.18364v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18364v2},
+  note = {First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T10:08:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Glasswarp MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-glasswarp-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Glasswarp MCP Server
 
 Remote Model Context Protocol server for observing and controlling physical or virtual Windows PCs via Glasswarp.

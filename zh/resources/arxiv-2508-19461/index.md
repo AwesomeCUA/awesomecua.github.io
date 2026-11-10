@@ -1,3 +1,11 @@
+---
+title: "Reliable Weak-to-Strong Monitoring of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-19461/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Reliable Weak-to-Strong Monitoring of LLM Agents
 
 提出 CUA-SHADE-Arena 和监控器红队测试流程，用于检测计算机使用智能体轨迹中的隐蔽不当行为。
@@ -27,6 +35,18 @@ Neil Kale, Chen Bo Calvin Zhang, Kevin Zhu, Ankit Aich, Paula Rodriguez, Scale R
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-19461/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-19461/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_19461,
+  title = {{Reliable Weak-to-Strong Monitoring of LLM Agents}},
+  author = {{Neil Kale} and {Chen Bo Calvin Zhang} and {Kevin Zhu} and {Ankit Aich} and {Paula Rodriguez} and {Scale Red Team} and {Christina Q. Knight} and {Zifan Wang}},
+  year = {2025},
+  eprint = {2508.19461v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.19461v1},
+  note = {First published: 2025-08-26; Recorded arXiv version: v1; Recorded version updated: 2025-08-26T22:29:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

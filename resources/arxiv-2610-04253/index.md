@@ -1,3 +1,11 @@
+---
+title: "Spec2Game: Can LLMs Generate Complete… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04253/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Spec2Game: Can LLMs Generate Complete Playable Games from Detailed Specifications?
 
 Bibliographic record for Spec2Game: Can LLMs Generate Complete Playable Games from Detailed Specifications?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yixue Cai, Yuzhe Zhao, Hanxiang Chao, Qingsen Ma, Ziheng Xiong, Jinhu Qi, Irwin 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04253/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04253/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04253,
+  title = {{Spec2Game: Can LLMs Generate Complete Playable Games from Detailed Specifications?}},
+  author = {{Yixue Cai} and {Yuzhe Zhao} and {Hanxiang Chao} and {Qingsen Ma} and {Ziheng Xiong} and {Jinhu Qi} and {Irwin King}},
+  year = {2026},
+  eprint = {2610.04253v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04253v1},
+  note = {First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T03:24:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

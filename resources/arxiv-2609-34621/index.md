@@ -1,3 +1,11 @@
+---
+title: "Does Native 3D Texture Generation Necessarily… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-34621/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?
 
 Bibliographic record for Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiangshan Wang, Zeqiang Lai, Jiayi Guo, Xin Yang, Xin Huang, Jiarui Chen, Ziheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-34621/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-34621/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34621,
+  title = {{Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?}},
+  author = {{Jiangshan Wang} and {Zeqiang Lai} and {Jiayi Guo} and {Xin Yang} and {Xin Huang} and {Jiarui Chen} and {Ziheng Ouyang} and {Chunchao Guo} and {Xiangyu Yue}},
+  year = {2026},
+  eprint = {2609.34621v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34621v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T08:44:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

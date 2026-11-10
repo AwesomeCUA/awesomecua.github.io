@@ -1,3 +1,11 @@
+---
+title: "OSWorld VirtualBox Ubuntu image | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ce775111626bae220596/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # OSWorld VirtualBox Ubuntu image
 
 Hub host of the Ubuntu virtual machine archive that OSWorld's VirtualBox provider downloads on x86 hosts and imports with VBoxManage; the repository has no card or license declaration.

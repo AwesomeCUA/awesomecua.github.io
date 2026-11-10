@@ -1,3 +1,11 @@
+---
+title: "Coding-Agent Benchmarks Should Match Their… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-09633/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Coding-Agent Benchmarks Should Match Their Users' Task Flows
 
 Status: excluded from the active CUA catalog after scope review.

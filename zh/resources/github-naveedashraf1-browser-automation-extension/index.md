@@ -1,3 +1,11 @@
+---
+title: "NaveedAshraf Browser Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-naveedashraf1-browser-automation-extension/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # NaveedAshraf Browser Bridge
 
 Chrome 扩展、HTTP API 和 MCP 服务器，提供 185 条命令和智能选择器，用于控制正在运行的 Chrome 浏览器。

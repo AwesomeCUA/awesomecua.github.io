@@ -1,3 +1,11 @@
+---
+title: "WebAgents Protocol · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-betterwright-webagents/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WebAgents Protocol
 
 开放协议规范和工具包，向浏览器智能体提供原生支持批量处理的网站动作。

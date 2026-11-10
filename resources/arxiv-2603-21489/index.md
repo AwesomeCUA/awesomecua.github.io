@@ -1,3 +1,11 @@
+---
+title: "Effective Strategies for Asynchronous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-21489/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Effective Strategies for Asynchronous Software Engineering Agents
 
 Status: excluded from the active CUA catalog after scope review.

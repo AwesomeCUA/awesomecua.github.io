@@ -1,3 +1,11 @@
+---
+title: "typesafe-computer-use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-awlevin-typesafe-computer-use/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # typesafe-computer-use
 
 计算机使用循环通过 OCR 和辅助功能标签读取屏幕，由托管的 TypeSafe 分类器以置信度选择下一步操作，仅在生成自由文本时调用写作模型。

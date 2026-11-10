@@ -1,3 +1,11 @@
+---
+title: "simpilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-passerby2049-simpilot/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # simpilot
 
 An MCP server that lets an agent inspect and operate iOS Simulator apps through UI trees, taps, text entry, swipes, screenshots, and screen recordings.

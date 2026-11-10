@@ -1,3 +1,11 @@
+---
+title: "Exploring Reasoning Reward Model for Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22154/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Exploring Reasoning Reward Model for Agents
 
 Bibliographic record for Exploring Reasoning Reward Model for Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kaixuan Fan, Kaituo Feng, Manyuan Zhang, Tianshuo Peng, Zhixun Li, Yilei Jiang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-22154/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-22154/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_22154,
+  title = {{Exploring Reasoning Reward Model for Agents}},
+  author = {{Kaixuan Fan} and {Kaituo Feng} and {Manyuan Zhang} and {Tianshuo Peng} and {Zhixun Li} and {Yilei Jiang} and {Shuang Chen} and {Peng Pei} and {Xunliang Cai} and {Xiangyu Yue}},
+  year = {2026},
+  eprint = {2601.22154v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.22154v2},
+  note = {First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-04-28T11:53:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

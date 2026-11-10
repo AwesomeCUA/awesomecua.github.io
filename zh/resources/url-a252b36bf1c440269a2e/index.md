@@ -1,3 +1,11 @@
+---
+title: "Online-Mind2Web task data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a252b36bf1c440269a2e/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Online-Mind2Web task data
 
 Online-Mind2Web 任务集的受限 Hub 发布版，含实时网站任务的单个 JSON 测试集；据项目 README，共有 136 个网站上的 300 项任务，发布方会随网站变化修订。

@@ -1,3 +1,11 @@
+---
+title: "UseAgent · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-useagenthq-useagent/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # UseAgent
 
 开源云端和本地沙箱平台，可在完整桌面和浏览器环境中运行 Claude Code、Codex 或 OpenCode。

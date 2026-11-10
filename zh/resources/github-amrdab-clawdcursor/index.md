@@ -1,3 +1,11 @@
+---
+title: "Clawd Cursor · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amrdab-clawdcursor/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Clawd Cursor
 
 本地 MCP 服务器，将桌面屏幕编译为稳定的 UI 元素映射，并提供动作验证和安全约束。

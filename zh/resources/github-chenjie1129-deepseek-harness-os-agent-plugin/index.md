@@ -1,3 +1,11 @@
+---
+title: "DeepSeek Harness Volcengine OS Agent… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chenjie1129-deepseek-harness-os-agent-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DeepSeek Harness Volcengine OS Agent Plugin
 
 将 Volcengine 的 Mobile Use 和 OS Agent 能力作为插件集成到 DeepSeek Harness。

@@ -1,3 +1,11 @@
+---
+title: "Claude Code · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-93109952a74302d890b5/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Claude Code
 
 Anthropic 面向终端、IDE、桌面和网页的智能体编码工具，提供可选的计算机使用预览功能，可截图并操作 macOS（CLI）以及 macOS 和 Windows（Desktop）上的获准应用。

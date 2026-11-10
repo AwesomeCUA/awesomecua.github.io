@@ -1,3 +1,11 @@
+---
+title: "kwin-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-isac322-kwin-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # kwin-mcp
 
 Model Context Protocol server for Linux KDE Plasma 6 Wayland desktop GUI automation providing 29 tools for virtual KWin sessions, AT-SPI, and input.

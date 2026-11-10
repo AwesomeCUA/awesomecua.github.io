@@ -1,3 +1,11 @@
+---
+title: "Agent Desktop Harness (ADH) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xuyw1997-agent-desktop-harness/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agent Desktop Harness (ADH)
 
 Native Windows desktop computer-use and reusable RPA harness exposing CLI, MCP, Python, and C++ interfaces.

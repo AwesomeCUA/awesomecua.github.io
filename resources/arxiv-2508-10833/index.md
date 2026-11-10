@@ -1,3 +1,11 @@
+---
+title: "UI-Venus Technical Report: Building… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-10833/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UI-Venus Technical Report: Building High-performance UI Agents with RFT
 
 Studies screenshot-based GUI grounding and navigation using curated interaction data, reward design, and reinforcement fine-tuning.
@@ -26,6 +34,18 @@ Zhangxuan Gu, Zhengwen Zeng, Zhenyu Xu, Xingran Zhou, Shuheng Shen, Yunfei Liu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-10833/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-10833/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_10833,
+  title = {{UI-Venus Technical Report: Building High-performance UI Agents with RFT}},
+  author = {{Zhangxuan Gu} and {Zhengwen Zeng} and {Zhenyu Xu} and {Xingran Zhou} and {Shuheng Shen} and {Yunfei Liu} and {Beitong Zhou} and {Changhua Meng} and {Tianyu Xia} and {Weizhi Chen} and {Yue Wen} and {Jingya Dou} and {Fei Tang} and {Jinzhen Lin} and {Yulin Liu} and {Zhenlin Guo} and {Yichen Gong} and {Heng Jia} and {Changlong Gao} and {Yuan Guo} and {Yong Deng} and {Zhenyu Guo} and {Liang Chen} and {Weiqiang Wang}},
+  year = {2025},
+  eprint = {2508.10833v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.10833v2},
+  note = {First published: 2025-08-14; Recorded arXiv version: v2; Recorded version updated: 2025-08-15T14:49:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

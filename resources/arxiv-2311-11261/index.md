@@ -1,3 +1,11 @@
+---
+title: "Adversarial Prompt Tuning for Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-11261/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Adversarial Prompt Tuning for Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

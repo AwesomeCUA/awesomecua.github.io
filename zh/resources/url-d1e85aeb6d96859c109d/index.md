@@ -1,3 +1,11 @@
+---
+title: "WebRL outcome reward model 8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d1e85aeb6d96859c109d/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # WebRL outcome reward model 8B
 
 WebRL 在策略训练期间用于给浏览器轨迹评分的结果监督模型检查点。

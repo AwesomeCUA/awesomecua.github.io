@@ -1,3 +1,11 @@
+---
+title: "Ultimate Playwright MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pm990320-ultimate-playwright-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Ultimate Playwright MCP
 
 Multi-agent Playwright MCP server featuring Chrome tab-group isolation so concurrent AI agents can share one browser safely.

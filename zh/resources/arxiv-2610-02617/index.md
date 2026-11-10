@@ -1,3 +1,11 @@
+---
+title: "WebUIProof: Benchmarking WebUI Code… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-02617/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness
 
 WebUIProof 提出针对生成网页界面的执行式基准，使用无头浏览器中的 UI 智能体测试框架检查 DOM 交互和功能断言。
@@ -27,6 +35,18 @@ Yun-Yun Tsai, Yuning Mao, Shiqi Wang, Junfeng Yang, Sinong Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-02617/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-02617/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02617,
+  title = {{WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness}},
+  author = {{Yun-Yun Tsai} and {Yuning Mao} and {Shiqi Wang} and {Junfeng Yang} and {Sinong Wang}},
+  year = {2026},
+  eprint = {2610.02617v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02617v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T00:17:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

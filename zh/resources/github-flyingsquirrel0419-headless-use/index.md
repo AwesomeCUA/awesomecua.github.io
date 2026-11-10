@@ -1,3 +1,11 @@
+---
+title: "headless-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-flyingsquirrel0419-headless-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # headless-use
 
 无头 Linux 浏览器运行环境及 CLI，为编程智能体提供支持持久化会话的真实 Chromium 浏览器。

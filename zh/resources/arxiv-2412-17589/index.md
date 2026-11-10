@@ -1,3 +1,11 @@
+---
+title: "PC Agent: While You Sleep, AI Works -- A… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-17589/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World
 
 结合 PC Tracker 采集的交互、补全的操作与推理标注，以及规划和定位智能体，处理桌面工作流程。
@@ -27,6 +35,18 @@ Yanheng He, Jiahe Jin, Shijie Xia, Jiadi Su, Runze Fan, Haoyang Zou, Xiangkun Hu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-17589/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-17589/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_17589,
+  title = {{PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World}},
+  author = {{Yanheng He} and {Jiahe Jin} and {Shijie Xia} and {Jiadi Su} and {Runze Fan} and {Haoyang Zou} and {Xiangkun Hu} and {Pengfei Liu}},
+  year = {2024},
+  eprint = {2412.17589v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.17589v1},
+  note = {First published: 2024-12-23; Recorded arXiv version: v1; Recorded version updated: 2024-12-23T14:02:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

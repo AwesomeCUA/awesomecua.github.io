@@ -1,3 +1,11 @@
+---
+title: "Okno Windows Computer Use MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vitalcc55-okno/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Okno Windows Computer Use MCP
 
 Windows-native Model Context Protocol runtime for AI agents providing desktop window inspection, OCR, and input control.

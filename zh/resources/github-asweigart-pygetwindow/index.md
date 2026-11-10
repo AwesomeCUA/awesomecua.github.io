@@ -1,3 +1,11 @@
+---
+title: "PyGetWindow · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-asweigart-pygetwindow/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # PyGetWindow
 
 PyGetWindow 是用于查找和控制桌面应用窗口的 Python 工具。其文档所述的 Windows 实现支持读取窗口标题、位置和大小，以及改变窗口状态。

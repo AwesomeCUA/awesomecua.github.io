@@ -1,3 +1,11 @@
+---
+title: "MagicGUI: A Foundational Mobile GUI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-03700/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning
 
 Combines a mobile GUI data pipeline, perception and planning capabilities, and reinforcement fine-tuning for interactive task execution.
@@ -26,6 +34,18 @@ Liujian Tang, Shaokang Dong, Yijia Huang, Minqi Xiang, Hongtao Ruan, Bin Wang, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-03700/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-03700/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_03700,
+  title = {{MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning}},
+  author = {{Liujian Tang} and {Shaokang Dong} and {Yijia Huang} and {Minqi Xiang} and {Hongtao Ruan} and {Bin Wang} and {Shuo Li} and {Zhiheng Xi} and {Zhihui Cao} and {Hailiang Pang} and {Heng Kong} and {He Yang} and {Mingxu Chai} and {Zhilin Gao} and {Xingyu Liu} and {Yingnan Fu} and {Jiaming Liu} and {Xuanjing Huang} and {Yu-Gang Jiang} and {Tao Gui} and {Qi Zhang} and {Kang Wang} and {Yunke Zhang} and {Yuran Wang}},
+  year = {2025},
+  eprint = {2508.03700v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.03700v5},
+  note = {First published: 2025-07-19; Recorded arXiv version: v5; Recorded version updated: 2025-09-11T14:28:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

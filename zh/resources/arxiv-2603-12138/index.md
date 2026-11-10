@@ -1,3 +1,11 @@
+---
+title: "HATS: Hardness-Aware Trajectory… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-12138/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # HATS: Hardness-Aware Trajectory Synthesis for GUI Agents
 
 HATS 引导 GUI 轨迹探索聚焦语义含糊的动作，并反复检查指令与执行是否一致。轨迹改进的反馈会更新探索信号，用于收集后续训练样本。
@@ -27,6 +35,18 @@ Rui Shao, Ruize Gao, Bin Xie, Yixing Li, Kaiwen Zhou, Shuai Wang, Weili Guan, Go
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-12138/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-12138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_12138,
+  title = {{HATS: Hardness-Aware Trajectory Synthesis for GUI Agents}},
+  author = {{Rui Shao} and {Ruize Gao} and {Bin Xie} and {Yixing Li} and {Kaiwen Zhou} and {Shuai Wang} and {Weili Guan} and {Gongwei Chen}},
+  year = {2026},
+  eprint = {2603.12138v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.12138v1},
+  note = {First published: 2026-03-12; Recorded arXiv version: v1; Recorded version updated: 2026-03-12T16:40:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

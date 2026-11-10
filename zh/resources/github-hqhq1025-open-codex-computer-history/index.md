@@ -1,3 +1,11 @@
+---
+title: "Open Codex Computer History · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hqhq1025-open-codex-computer-history/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Open Codex Computer History
 
 macOS 的净室实现，使用 Accessibility 命中测试、CGEvent 事件监听和 SkyLight 窗口快照记录事件流交互。

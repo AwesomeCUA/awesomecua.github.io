@@ -1,3 +1,11 @@
+---
+title: "Open Frame · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-off-camber-open-frame/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Open Frame
 
 面向 AI 智能体的确定性桌面自动化引擎，实现捕获、识别、动作、验证循环。

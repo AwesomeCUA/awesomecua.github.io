@@ -1,3 +1,11 @@
+---
+title: "Personae Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leek-emperor-personae/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Personae Browser
 
 桌面浏览器，将每个身份置于隔离的 Chromium 分区中，用于多账户的人与智能体工作流程。

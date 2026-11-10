@@ -1,3 +1,11 @@
+---
+title: "hyprbench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-crispwisp-hyprbench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # hyprbench
 
 hyprbench 是面向 Linux Hyprland Wayland 合成器、采用 OSWorld 风格的计算机使用评测基准，配有脚本化窗口管理验证器。

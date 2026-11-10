@@ -1,3 +1,11 @@
+---
+title: "MobileGym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-purewhiter-mobilegym/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # MobileGym
 
 A browser-hosted mobile-app simulator with programmable state, parameterized tasks and deterministic state-checking judges for parallel GUI-agent evaluation and online reinforcement learning.

@@ -1,3 +1,11 @@
+---
+title: "DjangoAILab DSH Plugins | AwesomeCUA"
+url: https://awesomecua.com/resources/github-djangoailab-dsh-plugins/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DjangoAILab DSH Plugins
 
 Guardrailed plugin suite for DeepSeek Harness covering browser automation, desktop control, subagents, and remote servers.

@@ -1,3 +1,11 @@
+---
+title: "AutoCoA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-adam-bjtu-autocoa/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AutoCoA
 
 AutoCoA 通过步骤级 SFT、强化学习和模拟的工具世界模型，使推理模型内化 Chain-of-Action 生成能力。

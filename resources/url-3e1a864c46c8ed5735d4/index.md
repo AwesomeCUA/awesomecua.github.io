@@ -1,3 +1,11 @@
+---
+title: "Agent Humanization Benchmark (AHB) recordings | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Agent Humanization Benchmark (AHB) recordings
 
 Touch-gesture and motion-sensor recordings of people and mobile GUI agents doing the same Chinese-language Android app tasks, with task lists and metadata for training detectors that tell agents from humans.

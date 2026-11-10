@@ -1,3 +1,11 @@
+---
+title: "Practical design and performance of physical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-06063/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Practical design and performance of physical reservoir computing using hysteresis
 
 Status: excluded from the active CUA catalog after scope review.

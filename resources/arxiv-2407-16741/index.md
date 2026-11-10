@@ -1,3 +1,11 @@
+---
+title: "OpenHands: An Open Platform for AI Software… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-16741/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # OpenHands: An Open Platform for AI Software Developers as Generalist Agents
 
 OpenHands is a platform for agents that write code, use a command line and browse the web, with sandboxed execution and support for agent evaluation.
@@ -26,6 +34,18 @@ Xingyao Wang, Boxuan Li, Yufan Song, Frank F. Xu, Xiangru Tang, Mingchen Zhuge, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-16741/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-16741/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_16741,
+  title = {{OpenHands: An Open Platform for AI Software Developers as Generalist Agents}},
+  author = {{Xingyao Wang} and {Boxuan Li} and {Yufan Song} and {Frank F. Xu} and {Xiangru Tang} and {Mingchen Zhuge} and {Jiayi Pan} and {Yueqi Song} and {Bowen Li} and {Jaskirat Singh} and {Hoang H. Tran} and {Fuqiang Li} and {Ren Ma} and {Mingzhang Zheng} and {Bill Qian} and {Yanjun Shao} and {Niklas Muennighoff} and {Yizhe Zhang} and {Binyuan Hui} and {Junyang Lin} and {Robert Brennan} and {Hao Peng} and {Heng Ji} and {Graham Neubig}},
+  year = {2024},
+  eprint = {2407.16741v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.16741v3},
+  note = {First published: 2024-07-23; Recorded arXiv version: v3; Recorded version updated: 2025-04-18T18:14:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

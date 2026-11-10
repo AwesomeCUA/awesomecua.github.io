@@ -1,3 +1,11 @@
+---
+title: "Towards Long-horizon Embodied Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-13119/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Perceptual Self-Reflection in Agentic Physics… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-12311/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Perceptual Self-Reflection in Agentic Physics Simulation Code Generation
 
 Bibliographic record for Perceptual Self-Reflection in Agentic Physics Simulation Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Prashant Shende, Bradley Camburn
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-12311/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-12311/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_12311,
+  title = {{Perceptual Self-Reflection in Agentic Physics Simulation Code Generation}},
+  author = {{Prashant Shende} and {Bradley Camburn}},
+  year = {2026},
+  eprint = {2602.12311v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.12311v1},
+  note = {First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T15:48:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

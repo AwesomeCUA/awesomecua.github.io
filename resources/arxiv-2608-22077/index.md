@@ -1,3 +1,11 @@
+---
+title: "Spine-Branch Coordination for Multi-agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-22077/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Spine-Branch Coordination for Multi-agent Computer Use
 
 Introduces Spine-Branch Coordination, which assigns a main task flow to one virtual-machine state and uses parallel branch machines to gather information for computer-use agents.
@@ -26,6 +34,18 @@ Mian Zhang, Manasi Sharma, Sheng Zhang, Minglai Yang, Kejian Shi, Ying Liu, Zhiy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-22077/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-22077/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_22077,
+  title = {{Spine-Branch Coordination for Multi-agent Computer Use}},
+  author = {{Mian Zhang} and {Manasi Sharma} and {Sheng Zhang} and {Minglai Yang} and {Kejian Shi} and {Ying Liu} and {Zhiyu Zoey Chen} and {Daniel Yue Zhang}},
+  year = {2026},
+  eprint = {2608.22077v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.22077v1},
+  note = {First published: 2026-08-22; Recorded arXiv version: v1; Recorded version updated: 2026-08-22T18:48:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

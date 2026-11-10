@@ -1,3 +1,11 @@
+---
+title: "cxrobx zen-mcp (WebExtension) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cxrobx-zen-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cxrobx zen-mcp (WebExtension)
 
 由 WebExtension 支持的 Model Context Protocol 服务器，用于从 Claude Code 控制 Zen Browser 和 Firefox。

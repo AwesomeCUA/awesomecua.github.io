@@ -1,3 +1,11 @@
+---
+title: "Magma-R1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e5e74846aeaa8398673e/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Magma-R1
 
 Magma-R1 是基于精选 AndroidControl 样本训练并公开发布的 GUI 智能体模型。随附文档介绍了操作与定位评测，以及基于奖励的训练方法。

@@ -1,3 +1,11 @@
+---
+title: "CognitiveKernel-Pro-SFT · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7c431ccb1d5dc1f035d8/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # CognitiveKernel-Pro-SFT
 
 CognitiveKernel-Pro-SFT 包含经拒绝采样得到的 GPT-4.1 轨迹，用于微调 Cognitive Kernel-Pro 智能体，来源包括 URLQA 网页查询、DocBench、TableBench 和 WebWalkerQA 子集。

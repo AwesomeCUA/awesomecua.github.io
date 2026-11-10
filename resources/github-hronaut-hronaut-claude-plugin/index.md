@@ -1,3 +1,11 @@
+---
+title: "Hronaut for Claude Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Hronaut for Claude Code
 
 Hronaut for Claude Code is a plugin that supplies a coding agent with an MCP server and skill for using a visible browser in a separate project workspace.

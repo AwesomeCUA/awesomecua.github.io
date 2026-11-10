@@ -1,3 +1,11 @@
+---
+title: "OpenUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wandb-openui/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OpenUI
 
 OpenUI lets users and agents generate, preview, and iteratively edit live HTML/Tailwind/React UI components from natural language and screenshots.

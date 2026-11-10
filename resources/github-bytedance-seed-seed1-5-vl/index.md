@@ -1,3 +1,11 @@
+---
+title: "Seed1.5-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bytedance-seed-seed1-5-vl/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Seed1.5-VL
 
 ByteDance Seed vision-language foundation model served by API, whose repository provides cookbooks including GUI-agent prompts for computer and mobile use with click, drag, hotkey, typing and scroll actions.

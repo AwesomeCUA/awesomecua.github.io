@@ -1,3 +1,11 @@
+---
+title: "UniACE: A Unified Framework for Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-27898/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UniACE: A Unified Framework for Evaluating LLM Agentic Capabilities
 
 Bibliographic record for UniACE: A Unified Framework for Evaluating LLM Agentic Capabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Pengyu Zhu, Lijun Li, Yaxing Lyu, Qianxin Luo, Jingyi Yang, Yi Liu, Tingfeng Hui
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-27898/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-27898/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_27898,
+  title = {{UniACE: A Unified Framework for Evaluating LLM Agentic Capabilities}},
+  author = {{Pengyu Zhu} and {Lijun Li} and {Yaxing Lyu} and {Qianxin Luo} and {Jingyi Yang} and {Yi Liu} and {Tingfeng Hui} and {Xinyu Yuan} and {Li Sun} and {Sen Su} and {Jing Shao}},
+  year = {2026},
+  eprint = {2605.27898v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.27898v3},
+  note = {First published: 2026-05-27; Recorded arXiv version: v3; Recorded version updated: 2026-09-01T11:09:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

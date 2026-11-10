@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/dataset/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体数据集
 
 计算机使用数据集提供截图、指令、界面元素标注和动作轨迹，用于训练或评估 GUI 智能体。监督信号从单个元素的定位到完整的多步轨迹不等。

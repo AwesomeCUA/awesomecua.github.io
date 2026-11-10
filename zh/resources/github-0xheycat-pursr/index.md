@@ -1,3 +1,11 @@
+---
+title: "pursr · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-0xheycat-pursr/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pursr
 
 集视觉质量检查、无障碍审计、截图差异比较和 MCP 浏览器自动化于一体的工具包。

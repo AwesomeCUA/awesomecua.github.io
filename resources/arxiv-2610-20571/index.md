@@ -1,3 +1,11 @@
+---
+title: "Any Time, Any Space: A World-State-Centric… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-20571/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation
 
 Bibliographic record for Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weijie Wang, Haomin Zhang, Ye Li, Akide Liu, Zeyu Zhang, Haoyu Zhao, Yefei He, D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-20571/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-20571/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20571,
+  title = {{Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation}},
+  author = {{Weijie Wang} and {Haomin Zhang} and {Ye Li} and {Akide Liu} and {Zeyu Zhang} and {Haoyu Zhao} and {Yefei He} and {Donny Y. Chen} and {Feng Chen} and {Bohan Zhuang}},
+  year = {2026},
+  eprint = {2610.20571v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20571v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T17:54:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

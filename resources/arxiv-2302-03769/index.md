@@ -1,3 +1,11 @@
+---
+title: "Computational capability for physical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-03769/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Computational capability for physical reservoir computing using a spin-torque oscillator with two free layers
 
 Status: excluded from the active CUA catalog after scope review.

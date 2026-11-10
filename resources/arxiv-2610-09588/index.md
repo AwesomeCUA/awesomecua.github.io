@@ -1,3 +1,11 @@
+---
+title: "Adaptive Code Generation for Controlling Robots | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-09588/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Adaptive Code Generation for Controlling Robots
 
 Bibliographic record for Adaptive Code Generation for Controlling Robots. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Justus Flerlage, Thorsten Wittkopp, Alexander Acker, Odej Kao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-09588/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-09588/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09588,
+  title = {{Adaptive Code Generation for Controlling Robots}},
+  author = {{Justus Flerlage} and {Thorsten Wittkopp} and {Alexander Acker} and {Odej Kao}},
+  year = {2026},
+  eprint = {2610.09588v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09588v1},
+  note = {First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T07:33:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

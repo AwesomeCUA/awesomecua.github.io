@@ -1,3 +1,11 @@
+---
+title: "WKAppBot SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kiexpert-wkappbot-sdk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WKAppBot SDK
 
 WKAppBot is an open-source Windows Computer Use and AppBot SDK giving AI agents structured UI perception and action execution.

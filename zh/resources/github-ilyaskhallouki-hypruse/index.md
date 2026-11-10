@@ -1,3 +1,11 @@
+---
+title: "hypruse · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ilyaskhallouki-hypruse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # hypruse
 
 Model Context Protocol 服务器，让 AI 智能体原生控制 Linux Hyprland Wayland 桌面的窗口、输入和截图。

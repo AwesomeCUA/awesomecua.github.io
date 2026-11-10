@@ -1,3 +1,11 @@
+---
+title: "AutoBot-AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mrveiss-autobot-ai/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AutoBot-AI
 
 AutoBot-AI is a self-hosted autonomous agent platform combining vision-driven browser and desktop control, voice interaction, and workflow memory.

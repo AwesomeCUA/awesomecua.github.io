@@ -1,3 +1,11 @@
+---
+title: "FluidUse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fluidinference-fluiduse/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # FluidUse
 
 Swift package for local computer use on Apple silicon that reads forms in running Mac apps or browsers through the Accessibility API and fills them with on-device Core ML decision models.

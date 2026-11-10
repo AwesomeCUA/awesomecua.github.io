@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7abb418096432f56c685/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # ScreenSpot
 
 GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS, Windows and web interfaces, each labeled with the target element's bounding box.

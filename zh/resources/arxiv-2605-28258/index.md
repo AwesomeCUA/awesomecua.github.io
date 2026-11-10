@@ -1,3 +1,11 @@
+---
+title: "GUI Agents for Continual Game Generation · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-28258/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # GUI Agents for Continual Game Generation
 
 PlaytestArena 由 GUI 智能体判定预期游戏行为，以评估生成的浏览器游戏。Play2Code 让编程智能体与不知评分标准的 GUI 试玩智能体配合，依据交互轨迹和反馈迭代改进，并另设最终评判者。
@@ -27,6 +35,18 @@ Yixu Huang, Bo Li, Na Li, Zhe Wang, Kaijie Chen, Haonan Ge, Qingyi Si, Yuanzhe S
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-28258/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-28258/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_28258,
+  title = {{GUI Agents for Continual Game Generation}},
+  author = {{Yixu Huang} and {Bo Li} and {Na Li} and {Zhe Wang} and {Kaijie Chen} and {Haonan Ge} and {Qingyi Si} and {Yuanzhe Shen} and {Ruihan Yang} and {Guangjing Wang} and {Hongcheng Guo}},
+  year = {2026},
+  eprint = {2605.28258v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.28258v2},
+  note = {First published: 2026-05-27; Recorded arXiv version: v2; Recorded version updated: 2026-10-02T05:26:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

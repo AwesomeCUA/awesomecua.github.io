@@ -1,3 +1,11 @@
+---
+title: "EntWorld: A Holistic Environment and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-17722/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents
 
 EntWorld 从数据库模式推导任务逻辑，构建企业 GUI 基准；对跨企业领域的长流程，采用基于 SQL 的确定性状态检查进行评估。
@@ -27,6 +35,18 @@ Ying Mo, Yu Bai, Dapeng Sun, Yuqian Shi, Yukai Miao, Li Chen, Dan Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-17722/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-17722/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_17722,
+  title = {{EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents}},
+  author = {{Ying Mo} and {Yu Bai} and {Dapeng Sun} and {Yuqian Shi} and {Yukai Miao} and {Li Chen} and {Dan Li}},
+  year = {2026},
+  eprint = {2601.17722v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.17722v1},
+  note = {First published: 2026-01-25; Recorded arXiv version: v1; Recorded version updated: 2026-01-25T06:58:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

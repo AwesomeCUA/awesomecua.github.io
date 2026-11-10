@@ -1,3 +1,11 @@
+---
+title: "规划：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/planning/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 规划
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -1136,8 +1144,6 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.
 - [WorkForceAgent-R1](https://awesomecua.com/zh/resources/github-night-chen-workforceagent-r1/) — Date not recorded
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
-- [ZetaTron](https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/) — Date not recorded
-  Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
 - [Zoom Search](https://awesomecua.com/zh/resources/github-goofrey-zoom-search/) — Date not recorded
   Zoom Search is a hierarchical web-search agent that previews lightweight page summaries before selectively fetching full webpage content.
 

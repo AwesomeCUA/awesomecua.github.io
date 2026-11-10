@@ -1,3 +1,11 @@
+---
+title: "Claude Sonnet 4.5 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-18816edf464a073a0120/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Claude Sonnet 4.5
 
 Claude Sonnet 4.5 is a general model available through an API. Anthropic reports its computer-use performance on OSWorld and demonstrates browser tasks.

@@ -1,3 +1,11 @@
+---
+title: "Mg II h&k spectral line properties computed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-22916/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mg II h&k spectral line properties computed using 3D radiative transfer in an enhanced network region simulated with the MURaM-ChE code
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Scene-Driven Multimodal Knowledge Graph… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-03783/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI
 
 Bibliographic record for Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Song Yaoxian, Sun Penglei, Liu Haoyu, Li Zhixu, Song Wei, Xiao Yanghua, Zhou Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-03783/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-03783/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_03783,
+  title = {{Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI}},
+  author = {{Song Yaoxian} and {Sun Penglei} and {Liu Haoyu} and {Li Zhixu} and {Song Wei} and {Xiao Yanghua} and {Zhou Xiaofang}},
+  year = {2023},
+  eprint = {2311.03783v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.03783v2},
+  note = {First published: 2023-11-07; Recorded arXiv version: v2; Recorded version updated: 2024-05-11T14:58:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

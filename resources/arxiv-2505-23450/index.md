@@ -1,3 +1,11 @@
+---
+title: "Agentic Robot: A Brain-Inspired Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-23450/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "VGA: Vision GUI Assistant -- Minimizing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-14056/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning
 
 使用依赖图像的问答数据和分阶段微调，改善 GUI 理解并减少缺乏视觉依据的回答。
@@ -27,6 +35,18 @@ Ziyang Meng, Yu Dai, Zezheng Gong, Shaoxiong Guo, Minglong Tang, Tongquan Wei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-14056/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-14056/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_14056,
+  title = {{VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning}},
+  author = {{Ziyang Meng} and {Yu Dai} and {Zezheng Gong} and {Shaoxiong Guo} and {Minglong Tang} and {Tongquan Wei}},
+  year = {2024},
+  eprint = {2406.14056v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.14056v3},
+  note = {First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2024-11-04T09:31:06Z.}
+}
+```
 
 ## 发表记录
 

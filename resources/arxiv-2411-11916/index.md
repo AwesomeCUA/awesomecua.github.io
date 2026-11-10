@@ -1,3 +1,11 @@
+---
+title: "From Words to Structured Visuals: A Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-11916/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing
 
 Status: excluded from the active CUA catalog after scope review.

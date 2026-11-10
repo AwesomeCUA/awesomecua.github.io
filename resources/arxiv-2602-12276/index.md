@@ -1,3 +1,11 @@
+---
+title: "Agentic Test-Time Scaling for WebAgents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-12276/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agentic Test-Time Scaling for WebAgents
 
 CATTS allocates additional inference computation when an agent’s action votes show uncertainty. The paper compares voting and arbiter strategies and evaluates this selective scaling on WebArena-Lite, Online-Mind2Web and GoBrowse.
@@ -26,6 +34,18 @@ Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John, Surya Krishnapillai, Michae
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-12276/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-12276/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_12276,
+  title = {{Agentic Test-Time Scaling for WebAgents}},
+  author = {{Nicholas Lee} and {Lutfi Eren Erdogan} and {Chris Joseph John} and {Surya Krishnapillai} and {Michael W. Mahoney} and {Kurt Keutzer} and {Amir Gholami}},
+  year = {2026},
+  eprint = {2602.12276v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.12276v2},
+  note = {First published: 2026-02-12; Recorded arXiv version: v2; Recorded version updated: 2026-08-14T21:25:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

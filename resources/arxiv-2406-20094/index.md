@@ -1,3 +1,11 @@
+---
+title: "Scaling Synthetic Data Creation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-20094/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Scaling Synthetic Data Creation with 1,000,000,000 Personas
 
 Bibliographic record for Scaling Synthetic Data Creation with 1,000,000,000 Personas. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tao Ge, Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-20094/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-20094/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_20094,
+  title = {{Scaling Synthetic Data Creation with 1,000,000,000 Personas}},
+  author = {{Tao Ge} and {Xin Chan} and {Xiaoyang Wang} and {Dian Yu} and {Haitao Mi} and {Dong Yu}},
+  year = {2024},
+  eprint = {2406.20094v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.20094v3},
+  note = {First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2025-05-08T00:24:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

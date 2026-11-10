@@ -1,3 +1,11 @@
+---
+title: "TuriX-CUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-turixai-turix-cua/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TuriX-CUA
 
 TuriX-CUA is a multi-agent desktop automation framework for macOS and Windows combining planner, actor, reflector, and memory skills.

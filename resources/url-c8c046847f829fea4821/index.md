@@ -1,3 +1,11 @@
+---
+title: "ZonUI-3B checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c8c046847f829fea4821/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ZonUI-3B checkpoint
 
 Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from screenshots and text instructions across desktop, mobile and web screens.

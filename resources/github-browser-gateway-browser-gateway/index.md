@@ -1,3 +1,11 @@
+---
+title: "browser-gateway | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-gateway-browser-gateway/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # browser-gateway
 
 browser-gateway is an open control plane and router across cloud browser providers with failover, persistent profiles, session replay, and MCP.

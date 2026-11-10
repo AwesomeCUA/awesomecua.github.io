@@ -1,3 +1,11 @@
+---
+title: "Topological Amplitude Computations using the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1910-10511/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Topological Amplitude Computations using the Pure Spinor Formalism
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Learning UI Navigation through Demonstrations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2110-08653/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Learning UI Navigation through Demonstrations composed of Macro Actions
 
 Bibliographic record for Learning UI Navigation through Demonstrations composed of Macro Actions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wei Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2110-08653/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2110-08653/citation.csl.json
+
+```bibtex
+@misc{arxiv_2110_08653,
+  title = {{Learning UI Navigation through Demonstrations composed of Macro Actions}},
+  author = {{Wei Li}},
+  year = {2021},
+  eprint = {2110.08653v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2110.08653v1},
+  note = {First published: 2021-10-16; Recorded arXiv version: v1; Recorded version updated: 2021-10-16T20:29:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

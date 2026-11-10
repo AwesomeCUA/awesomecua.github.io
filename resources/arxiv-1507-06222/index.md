@@ -1,3 +1,11 @@
+---
+title: "STICK: Spike Time Interval Computational… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1507-06222/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # STICK: Spike Time Interval Computational Kernel, A Framework for General Purpose Computation using Neurons, Precise Timing, Delays, and Synchrony
 
 Status: excluded from the active CUA catalog after scope review.

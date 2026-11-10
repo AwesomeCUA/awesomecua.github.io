@@ -1,3 +1,11 @@
+---
+title: "MANA: Towards Efficient Mobile Ad Detection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-20351/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation
 
 MANA combines visual, temporal and exploration signals to guide navigation toward mobile advertisements. It evaluates ad detection and interaction cost on commercial smartphones, including obfuscated-ad cases.
@@ -26,6 +34,18 @@ Yizhe Zhao, Yongjian Fu, Zihao Feng, Hao Pan, Yongheng Deng, Yaoxue Zhang, Ju Re
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-20351/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-20351/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_20351,
+  title = {{MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation}},
+  author = {{Yizhe Zhao} and {Yongjian Fu} and {Zihao Feng} and {Hao Pan} and {Yongheng Deng} and {Yaoxue Zhang} and {Ju Ren}},
+  year = {2026},
+  eprint = {2603.20351v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.20351v1},
+  note = {First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T12:19:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

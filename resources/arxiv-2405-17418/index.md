@@ -1,3 +1,11 @@
+---
+title: "A Self-Correcting Vision-Language-Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-17418/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation
 
 Bibliographic record for A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenxuan Li, Jiaming Liu, Guanqun Wang, Xiaoqi Li, Sixiang Chen, Liang Heng, Chu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-17418/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-17418/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_17418,
+  title = {{A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation}},
+  author = {{Chenxuan Li} and {Jiaming Liu} and {Guanqun Wang} and {Xiaoqi Li} and {Sixiang Chen} and {Liang Heng} and {Chuyan Xiong} and {Jiaxin Ge} and {Renrui Zhang} and {Kaichen Zhou} and {Shanghang Zhang}},
+  year = {2024},
+  eprint = {2405.17418v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.17418v2},
+  note = {First published: 2024-05-27; Recorded arXiv version: v2; Recorded version updated: 2025-03-19T03:55:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

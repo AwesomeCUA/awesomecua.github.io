@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent publishers | AwesomeCUA"
+url: https://awesomecua.com/categories/company/
+updated: 2026-11-09
+type: category
+lang: en
+---
+
 # Computer-use agent publishers
 
 Publishers are the labs and companies behind catalogued resources. Each publisher entry collects the products, models, frameworks and tools that name it as their publisher.

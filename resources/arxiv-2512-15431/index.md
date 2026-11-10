@@ -1,3 +1,11 @@
+---
+title: "Step-GUI Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-15431/
+updated: 2026-11-02
+type: paper
+lang: en
+---
+
 # Step-GUI Technical Report
 
 Step-GUI uses calibrated trajectory rewards to turn generated GUI interaction data into training signals for compact agent models. The report also introduces GUI-MCP for hierarchical GUI operations and local task delegation, and AndroidDaily for static-action and end-to-end mobile evaluation.
@@ -26,6 +34,18 @@ Haolong Yan, Jia Wang, Xin Huang, Yeqing Shen, Ziyang Meng, Zhimin Fan, Kaijun T
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-15431/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-15431/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_15431,
+  title = {{Step-GUI Technical Report}},
+  author = {{Haolong Yan} and {Jia Wang} and {Xin Huang} and {Yeqing Shen} and {Ziyang Meng} and {Zhimin Fan} and {Kaijun Tan} and {Jin Gao} and {Lieyu Shi} and {Mi Yang} and {Shiliang Yang} and {Zhirui Wang} and {Brian Li} and {Kang An} and {Chenyang Li} and {Lei Lei} and {Mengmeng Duan} and {Danxun Liang} and {Guodong Liu} and {Hang Cheng} and {Hao Wu} and {Jie Dong} and {Junhao Huang} and {Mei Chen} and {Renjie Yu} and {Shunshan Li} and {Xu Zhou} and {Yiting Dai} and {Yineng Deng} and {Yingdan Liang} and {Zelin Chen} and {Wen Sun} and {Chengxu Yan} and {Chunqin Xu} and {Dong Li} and {Fengqiong Xiao} and {Guanghao Fan} and {Guopeng Li} and {Guozhen Peng} and {Hongbing Li} and {Hang Li} and {Hongming Chen} and {Jingjing Xie} and {Jianyong Li} and {Jingyang Zhang} and {Jiaju Ren} and {Jiayu Yuan} and {Jianpeng Yin} and {Kai Cao} and {Liang Zhao} and {Liguo Tan} and {Liying Shi} and {Mengqiang Ren} and {Min Xu} and {Manjiao Liu} and {Mao Luo} and {Mingxin Wan} and {Na Wang} and {Nan Wu} and {Ning Wang} and {Peiyao Ma} and {Qingzhou Zhang} and {Qiao Wang} and {Qinlin Zeng} and {Qiong Gao} and {Qiongyao Li} and {Shangwu Zhong} and {Shuli Gao} and {Shaofan Liu} and {Shisi Gao} and {Shuang Luo} and {Xingbin Liu} and {Xiaojia Liu} and {Xiaojie Hou} and {Xin Liu} and {Xuanti Feng} and {Xuedan Cai} and {Xuan Wen} and {Xianwei Zhu} and {Xin Liang} and {Xin Liu} and {Xin Zhou} and {Yifan Sui} and {Yingxiu Zhao} and {Yukang Shi} and {Yunfang Xu} and {Yuqing Zeng} and {Yixun Zhang} and {Zejia Weng} and {Zhonghao Yan} and {Zhiguo Huang} and {Zhuoyu Wang} and {Zihan Yan} and {Zheng Ge} and {Jing Li} and {Yibo Zhu} and {Binxing Jiao} and {Xiangyu Zhang} and {Daxin Jiang}},
+  year = {2025},
+  eprint = {2512.15431v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.15431v2},
+  note = {First published: 2025-12-17; Recorded arXiv version: v2; Recorded version updated: 2025-12-19T17:36:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

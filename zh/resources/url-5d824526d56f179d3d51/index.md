@@ -1,3 +1,11 @@
+---
+title: "yolov11l-ui-elements-detection · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5d824526d56f179d3d51/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # yolov11l-ui-elements-detection
 
 一个 YOLO11 微调模型，可在 macOS 应用截图中定位五类界面元素，以支持生成无障碍元数据。

@@ -1,3 +1,11 @@
+---
+title: "WebBrain | AwesomeCUA"
+url: https://awesomecua.com/resources/github-webbrain-one-webbrain/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # WebBrain
 
 WebBrain is an open-source AI browser agent extension for Chrome and Firefox that automates multi-step web workflows.

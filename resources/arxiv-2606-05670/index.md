@@ -1,3 +1,11 @@
+---
+title: "Do More Agents Help? Evaluating Accuracy and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-05670/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Do More Agents Help? Evaluating Accuracy and Cost in LLM Multi-Agent Workflows
 
 Status: excluded from the active CUA catalog after scope review.

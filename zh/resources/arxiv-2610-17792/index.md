@@ -1,3 +1,11 @@
+---
+title: "MHVF: Training-Free GUI Grounding via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-17792/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MHVF: Training-Free GUI Grounding via Verification-Guided Multi-Hypothesis Search
 
 提出无需训练的定位方法 MHVF，探索多个候选屏幕区域，在局部视图中验证，并利用验证结果指导后续搜索。
@@ -27,6 +35,18 @@ Minghua Chen, Xingming Liao, Weiqiang Zhong, Zhuowei Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-17792/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-17792/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17792,
+  title = {{MHVF: Training-Free GUI Grounding via Verification-Guided Multi-Hypothesis Search}},
+  author = {{Minghua Chen} and {Xingming Liao} and {Weiqiang Zhong} and {Zhuowei Wang}},
+  year = {2026},
+  eprint = {2610.17792v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17792v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T06:20:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Job Hunter · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-liooo0-job-hunter/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Job Hunter
 
 AI 辅助的求职申请浏览器智能体，可匹配简历与职位、自动填写表单并记录提交轨迹。

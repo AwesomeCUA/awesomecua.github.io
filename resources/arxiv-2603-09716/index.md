@@ -1,3 +1,11 @@
+---
+title: "AutoAgent: Evolving Cognition and Elastic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-09716/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents
 
 Status: excluded from the active CUA catalog after scope review.

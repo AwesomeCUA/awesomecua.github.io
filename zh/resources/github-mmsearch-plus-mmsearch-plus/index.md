@@ -1,3 +1,11 @@
+---
+title: "MMSearch-Plus · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mmsearch-plus-mmsearch-plus/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # MMSearch-Plus
 
 面向多模态网页智能体的评测集，含 311 道需反复检索图像与文本的视觉推理任务；仓库链接数据集并提供加载辅助程序。

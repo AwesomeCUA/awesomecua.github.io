@@ -1,3 +1,11 @@
+---
+title: "Learn Like Humans: Use Meta-cognitive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-11974/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement
 
 Status: excluded from the active CUA catalog after scope review.

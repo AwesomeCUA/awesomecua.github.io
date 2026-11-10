@@ -1,3 +1,11 @@
+---
+title: "AgentScrub | AwesomeCUA"
+url: https://awesomecua.com/resources/github-codewithsupra-agentscrub/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AgentScrub
 
 Visual session-replay debugger for Browser Use agent runs that lets developers scrub through step timelines and DOM states.

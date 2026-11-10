@@ -1,3 +1,11 @@
+---
+title: "Observability — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/observability/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Observability
 
 Reviewed topic membership; resources can appear in multiple topics.

@@ -1,3 +1,11 @@
+---
+title: "AutoGLM Android 助手 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sidhu-master-androidautoglm/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AutoGLM Android 助手
 
 An Android agent that follows voice or text commands by reading screenshots and simulating touch through Shizuku.

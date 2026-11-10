@@ -1,3 +1,11 @@
+---
+title: "hyprbench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-crispwisp-hyprbench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # hyprbench
 
 hyprbench is an OSWorld-style computer-use benchmark for the Linux Hyprland Wayland compositor with scripted window-management verifiers.

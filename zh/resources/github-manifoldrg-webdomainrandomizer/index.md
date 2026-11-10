@@ -1,3 +1,11 @@
+---
+title: "GUI-DR · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-manifoldrg-webdomainrandomizer/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # GUI-DR
 
 GUI-DR 从 Mind2Web 归档生成经过扰动的网页截图和交互轨迹，用于 GUI 定位评估与微调。

@@ -1,3 +1,11 @@
+---
+title: "DarwinRelay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dcierra-darwinrelay/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DarwinRelay
 
 Turns ChatGPT and MCP clients into local macOS agents with shell, file, PTY, and browser automation access.

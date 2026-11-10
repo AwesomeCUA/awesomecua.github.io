@@ -1,3 +1,11 @@
+---
+title: "Codex for WeChat · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-weihaoyyy-codex-for-wechat/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex for WeChat
 
 远程桥接工具，允许用户通过 WeChat 向本地 OpenAI Codex 智能体派发任务并查看输出。

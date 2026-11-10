@@ -1,3 +1,11 @@
+---
+title: "Doppel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-orvii-doppel/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Doppel
 
 Doppel is a computer-use agent that operates inside a dedicated virtual desktop with its own cursor on Windows 11 and Linux.

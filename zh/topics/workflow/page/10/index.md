@@ -1,11 +1,17 @@
+---
+title: "工作流：Computer-Use 研究与资源（第 10 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/workflow/page/10/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工作流：Computer-Use 研究与资源（第 10 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/workflow/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
-- [webclaw3](https://awesomecua.com/zh/resources/github-fatmind-webclaw3/)
-- [Webhands](https://awesomecua.com/zh/resources/github-agentpostmortem-webhands/)
 - [WeChat Mac RPA](https://awesomecua.com/zh/resources/github-wq19901103wq-wechat-mac-rpa/)
 - [winter40611 Browser Agent](https://awesomecua.com/zh/resources/github-winter40611-browser-agent/)
 - [WKAppBot SDK](https://awesomecua.com/zh/resources/github-kiexpert-wkappbot-sdk/)

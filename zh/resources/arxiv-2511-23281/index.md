@@ -1,3 +1,11 @@
+---
+title: "MCP vs RAG vs NLWeb vs HTML: A… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-23281/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)
 
 在四个模拟网店中，比较网页智能体通过 HTML 浏览、RAG、MCP 和 NLWeb 完成商品搜索、比价及结账任务的表现。
@@ -27,6 +35,18 @@ Aaron Steiner, Ralph Peeters, Christian Bizer
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-23281/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-23281/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_23281,
+  title = {{MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)}},
+  author = {{Aaron Steiner} and {Ralph Peeters} and {Christian Bizer}},
+  year = {2025},
+  eprint = {2511.23281v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.23281v1},
+  note = {First published: 2025-11-28; Recorded arXiv version: v1; Recorded version updated: 2025-11-28T15:32:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

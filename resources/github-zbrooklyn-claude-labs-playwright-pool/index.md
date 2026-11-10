@@ -1,3 +1,11 @@
+---
+title: "Playwright Pool MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zbrooklyn-claude-labs-playwright-pool/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Playwright Pool MCP
 
 Playwright browser-pool MCP server providing 75 tools, shared authentication profiles, and 28 built-in UI audit checks.

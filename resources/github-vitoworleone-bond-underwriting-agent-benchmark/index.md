@@ -1,3 +1,11 @@
+---
+title: "Bond Underwriting Agent Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Bond Underwriting Agent Benchmark
 
 Chinese vertical long-horizon evaluation benchmark testing agents on multi-step financial bond-underwriting document and web workflows.

@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-G1 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d70a755e3b2102f25f34/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # InfiGUI-G1 7B
 
 A GUI-grounding checkpoint trained with adaptive exploration rewards and multiple candidate answers to improve instruction-to-element alignment.

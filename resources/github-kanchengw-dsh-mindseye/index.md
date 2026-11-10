@@ -1,3 +1,11 @@
+---
+title: "MindsEye (dsh-mindseye) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kanchengw-dsh-mindseye/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MindsEye (dsh-mindseye)
 
 Vision plugin for text-only models on DeepSeek Harness enabling interactive image and UI screenshot inspection.

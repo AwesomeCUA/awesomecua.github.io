@@ -1,3 +1,11 @@
+---
+title: "Kopilotti WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mikko-lab-kopilotti-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Kopilotti WebMCP
 
 WebMCP 参考应用，其中浏览器智能体准备不具约束力的提案，且提案需要人类明确批准。

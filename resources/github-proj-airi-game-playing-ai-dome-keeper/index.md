@@ -1,3 +1,11 @@
+---
+title: "Game AI - Dome Keeper | AwesomeCUA"
+url: https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Game AI - Dome Keeper
 
 A game-playing agent for Dome Keeper that combines computer vision and a language model. Its active mod is written in TypeScript and converted to GDScript.

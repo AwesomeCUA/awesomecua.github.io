@@ -1,3 +1,11 @@
+---
+title: "AgentVigil: Generic Black-Box Red-teaming for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-05849/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents
 
 Introduces AgentVigil, a black-box fuzzing framework for finding indirect prompt injections against LLM agents, including attacks that redirect web navigation.
@@ -26,6 +34,18 @@ Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chengua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-05849/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-05849/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_05849,
+  title = {{AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents}},
+  author = {{Zhun Wang} and {Vincent Siu} and {Zhe Ye} and {Tianneng Shi} and {Yuzhou Nie} and {Xuandong Zhao} and {Chenguang Wang} and {Wenbo Guo} and {Dawn Song}},
+  year = {2025},
+  eprint = {2505.05849v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.05849v4},
+  note = {First published: 2025-05-09; Recorded arXiv version: v4; Recorded version updated: 2025-06-14T01:50:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

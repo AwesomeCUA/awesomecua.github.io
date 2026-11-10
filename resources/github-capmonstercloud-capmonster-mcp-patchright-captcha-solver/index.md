@@ -1,3 +1,11 @@
+---
+title: "capmonster-mcp-patchright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-capmonstercloud-capmonster-mcp-patchright-captcha-solver/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # capmonster-mcp-patchright
 
 A Patchright-based MCP server that gives AI agents browser navigation, page interaction, snapshots, and session tools, including an option to evaluate code in a page's main world.

@@ -1,3 +1,11 @@
+---
+title: "Ark Web · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aebt01-ark-web/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ark Web
 
 Manifest V3 Chrome 扩展和 Node.js 桥接服务器，使 AI 智能体能够控制用户的真实浏览器。

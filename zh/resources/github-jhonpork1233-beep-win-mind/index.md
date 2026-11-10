@@ -1,3 +1,11 @@
+---
+title: "WinMind · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jhonpork1233-beep-win-mind/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # WinMind
 
 WinMind 是 Windows MCP 服务器，让 AI 智能体通过 UI Automation 无障碍树检查和操作桌面应用。

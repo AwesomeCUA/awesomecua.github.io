@@ -1,3 +1,11 @@
+---
+title: "CUDABench: Benchmarking LLMs for Text-to-CUDA… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-02236/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CUDABench: Benchmarking LLMs for Text-to-CUDA Generation
 
 Status: excluded from the active CUA catalog after scope review.

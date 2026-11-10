@@ -1,3 +1,11 @@
+---
+title: "vimGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ishan0102-vimgpt/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # vimGPT
 
 vimGPT enables multimodal LLMs to browse the web by overlaying Vimium keyboard shortcut badges onto interactive DOM elements.

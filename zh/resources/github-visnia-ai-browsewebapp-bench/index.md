@@ -1,3 +1,11 @@
+---
+title: "BrowseWebApp Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-visnia-ai-browsewebapp-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # BrowseWebApp Bench
 
 BrowseWebApp Bench 通过 100 个真实的网页工作流程评测浏览器智能体，涵盖记录提取、文档上传和表单提交。

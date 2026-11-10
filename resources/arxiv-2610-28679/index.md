@@ -1,3 +1,11 @@
+---
+title: "VerifierBench: Benchmarking the Generation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-28679/
+updated: 2026-10-22
+type: paper
+lang: en
+---
+
 # VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents
 
 Bibliographic record for VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jianing Yin, Ziyi Chen, Hao Wang, Yiyou Sun, Zijian Jin, Dawn Song, Daoan Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-28679/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-28679/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_28679,
+  title = {{VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents}},
+  author = {{Jianing Yin} and {Ziyi Chen} and {Hao Wang} and {Yiyou Sun} and {Zijian Jin} and {Dawn Song} and {Daoan Zhang}},
+  year = {2026},
+  eprint = {2610.28679v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.28679v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T17:22:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

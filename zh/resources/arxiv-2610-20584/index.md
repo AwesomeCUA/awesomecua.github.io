@@ -1,3 +1,11 @@
+---
+title: "Player-1: Learning to Play from… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-20584/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Player-1: Learning to Play from Synthetic Experience
 
 通过合成训练环境及更丰富的键盘和指针操作，将计算机使用策略扩展到游戏控制；评估面向游戏。
@@ -27,6 +35,18 @@ Mingyu Ouyang, Yiran Wang, Siyuan Hu, Xingyilang Yin, Huiqiang Sun, Guangzhi Wan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-20584/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-20584/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20584,
+  title = {{Player-1: Learning to Play from Synthetic Experience}},
+  author = {{Mingyu Ouyang} and {Yiran Wang} and {Siyuan Hu} and {Xingyilang Yin} and {Huiqiang Sun} and {Guangzhi Wang} and {Junfu Pu} and {Cheng Cheng} and {Honghao Chen} and {Ying Shan} and {Mike Zheng Shou} and {Hwee Tou Ng}},
+  year = {2026},
+  eprint = {2610.20584v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20584v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T17:57:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

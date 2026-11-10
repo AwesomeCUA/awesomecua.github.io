@@ -1,3 +1,11 @@
+---
+title: "Gemini: A Family of Highly Capable Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-11805/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Gemini: A Family of Highly Capable Multimodal Models
 
 Status: excluded from the active CUA catalog after scope review.

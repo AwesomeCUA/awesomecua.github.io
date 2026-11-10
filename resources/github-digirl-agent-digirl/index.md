@@ -1,3 +1,11 @@
+---
+title: "DigiRL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-digirl-agent-digirl/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # DigiRL
 
 Reinforcement learning for autonomous mobile device control.

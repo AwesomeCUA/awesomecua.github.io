@@ -1,3 +1,11 @@
+---
+title: "Computer Use Preview · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-computer-use-preview/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Computer Use Preview
 
 Computer Use Preview 通过命令行接收自然语言请求，使用 Gemini 智能体操作浏览器，支持本地 Playwright 和 Browserbase 后端。

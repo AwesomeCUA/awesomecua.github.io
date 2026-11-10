@@ -1,3 +1,11 @@
+---
+title: "Enhancing Mobile \"How-to\" Queries with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-08860/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Enhancing Mobile "How-to" Queries with Automated Search Results Verification and Reranking
 
 Executes instructions from mobile how-to search results inside a controlled Android environment, then uses the observed success of those instructions to verify and rerank technical-support results.
@@ -26,6 +34,18 @@ Lei Ding, Jeshwanth Bheemanpally, Yi Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-08860/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-08860/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_08860,
+  title = {{Enhancing Mobile "How-to" Queries with Automated Search Results Verification and Reranking}},
+  author = {{Lei Ding} and {Jeshwanth Bheemanpally} and {Yi Zhang}},
+  year = {2024},
+  eprint = {2404.08860v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.08860v3},
+  note = {First published: 2024-04-13; Recorded arXiv version: v3; Recorded version updated: 2024-07-09T01:14:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "nemosr dsh-personal-plugins | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # nemosr dsh-personal-plugins
 
 DeepSeek Harness plugin bundle providing `web_app_testing` browser automation and `host-web-debug` live inspection tools.

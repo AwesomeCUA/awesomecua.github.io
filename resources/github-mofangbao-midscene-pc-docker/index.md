@@ -1,3 +1,11 @@
+---
+title: "Midscene PC Docker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Midscene PC Docker
 
 Midscene PC Docker packages an Ubuntu GNOME desktop with Chrome and a Midscene PC automation service, exposing the graphical environment through VNC.

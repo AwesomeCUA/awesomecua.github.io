@@ -1,3 +1,11 @@
+---
+title: "SC2Arena and StarEvolve: Benchmark and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-10428/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks
 
 Bibliographic record for SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Pengbo Shen, Yaqing Wang, Ni Mu, Yao Luan, Runpeng Xie, Senhao Yang, Lexiang Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-10428/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-10428/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_10428,
+  title = {{SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks}},
+  author = {{Pengbo Shen} and {Yaqing Wang} and {Ni Mu} and {Yao Luan} and {Runpeng Xie} and {Senhao Yang} and {Lexiang Wang} and {Hao Hu} and {Shuang Xu} and {Yiqin Yang} and {Bo Xu}},
+  year = {2025},
+  eprint = {2508.10428v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.10428v1},
+  note = {First published: 2025-08-14; Recorded arXiv version: v1; Recorded version updated: 2025-08-14T07:58:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

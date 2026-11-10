@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_ground_iterative-13B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dca5b0d8449331bbede4/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # lumos_web_agent_ground_iterative-13B
 
 A released Lumos checkpoint for grounding web-agent actions within an iterative architecture that separates planning, grounding and execution.

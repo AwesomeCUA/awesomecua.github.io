@@ -1,3 +1,11 @@
+---
+title: "ASPIRE: Agentic /Skills Discovery for Robotics | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-00272/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ASPIRE: Agentic /Skills Discovery for Robotics
 
 Bibliographic record for ASPIRE: Agentic /Skills Discovery for Robotics. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Runyu Lu, Yubo Wu, Ethan Kou, Haotian Lin, Letian Fu, Wenli Xiao, Ajay Mandlekar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-00272/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-00272/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_00272,
+  title = {{ASPIRE: Agentic /Skills Discovery for Robotics}},
+  author = {{Runyu Lu} and {Yubo Wu} and {Ethan Kou} and {Haotian Lin} and {Letian Fu} and {Wenli Xiao} and {Ajay Mandlekar} and {Yinzhen Xu} and {Guanya Shi} and {Ken Goldberg} and {Ang Chen} and {Mosharaf Chowdhury} and {Jan Kautz} and {Yuke Zhu} and {Linxi "Jim" Fan} and {Guanzhi Wang}},
+  year = {2026},
+  eprint = {2607.00272v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.00272v2},
+  note = {First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-20T17:41:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

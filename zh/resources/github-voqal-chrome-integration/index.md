@@ -1,3 +1,11 @@
+---
+title: "Voqal Chrome integration · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-voqal-chrome-integration/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Voqal Chrome integration
 
 将 Voqal 语音智能体通过本地 WebSocket 连接到浏览器的 Chrome 扩展，上报已打开的标签页，并执行 Voqal 下发的命令：打开网址、新建或切换标签页，以及在当前页面中执行 JavaScript。

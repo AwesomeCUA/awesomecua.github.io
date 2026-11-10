@@ -1,3 +1,11 @@
+---
+title: "Predicate SDK Playground | AwesomeCUA"
+url: https://awesomecua.com/resources/github-predicatesystems-predicate-sdk-playground/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Predicate SDK Playground
 
 A collection of runnable browser-agent demos using semantic page snapshots and assertions, with logs, screenshots and token accounting for evaluation.

@@ -1,3 +1,11 @@
+---
+title: "Eager: Programming Repetitive Tasks by… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bf0c11018e49dff6aeec/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Eager: Programming Repetitive Tasks by Example
 
 Eager 检测重复的 HyperCard 交互，将其归纳为循环，并通过高亮界面对象预览预测的操作。用户随后可让它执行推断出的重复任务。
@@ -27,6 +35,18 @@ Allen Cypher
 
 - BibTeX：https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/citation.csl.json
+
+```bibtex
+@inproceedings{cua_79e3af204750d438f5d43781,
+  title = {{Eager: Programming Repetitive Tasks by Example}},
+  author = {{Allen Cypher}},
+  year = {1991},
+  booktitle = {Proceedings of CHI '91},
+  pages = {33-39},
+  url = {https://acypher.com/Publications/CHI91/EagerCHI.html},
+  note = {Publication date: 1991.}
+}
+```
 
 ## 发表记录
 

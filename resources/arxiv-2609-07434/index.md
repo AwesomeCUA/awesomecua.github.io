@@ -1,3 +1,11 @@
+---
+title: "CIT-CAD: Constraint Intent Tree-based CAD… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-07434/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CIT-CAD: Constraint Intent Tree-based CAD Code Generation and Verification
 
 Bibliographic record for CIT-CAD: Constraint Intent Tree-based CAD Code Generation and Verification. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yali Du, Hui Sun, San-Zhuo Xi, Ming Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-07434/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-07434/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_07434,
+  title = {{CIT-CAD: Constraint Intent Tree-based CAD Code Generation and Verification}},
+  author = {{Yali Du} and {Hui Sun} and {San-Zhuo Xi} and {Ming Li}},
+  year = {2026},
+  eprint = {2609.07434v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.07434v2},
+  note = {First published: 2026-09-07; Recorded arXiv version: v2; Recorded version updated: 2026-09-13T12:36:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

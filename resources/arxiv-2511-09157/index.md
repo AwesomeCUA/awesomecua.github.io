@@ -1,3 +1,11 @@
+---
+title: "ProBench: Benchmarking GUI Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-09157/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ProBench: Benchmarking GUI Agents with Accurate Process Information
 
 ProBench extends mobile GUI evaluation with tasks whose correctness depends on the interaction process as well as the final state. Its ProcessProvider supplies process information for assessing agent behavior and analyzing failure modes.
@@ -26,6 +34,18 @@ Leyang Yang, Ziwei Wang, Xiaoxuan Tang, Sheng Zhou, Dajun Chen, Wei Jiang, Yong 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-09157/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-09157/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_09157,
+  title = {{ProBench: Benchmarking GUI Agents with Accurate Process Information}},
+  author = {{Leyang Yang} and {Ziwei Wang} and {Xiaoxuan Tang} and {Sheng Zhou} and {Dajun Chen} and {Wei Jiang} and {Yong Li}},
+  year = {2025},
+  eprint = {2511.09157v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.09157v1},
+  note = {First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T09:49:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

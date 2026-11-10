@@ -1,3 +1,11 @@
+---
+title: "GUIDE: Interpretable GUI Agent Evaluation via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-04399/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis
 
 GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces.
@@ -26,6 +34,18 @@ Yuwen Zhai, Runze Li, Liang Wang, Nian Shi, Liwu Xu, Wei Zhang, Ran Lin, Bo Xu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-04399/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-04399/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_04399,
+  title = {{GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis}},
+  author = {{Yuwen Zhai} and {Runze Li} and {Liang Wang} and {Nian Shi} and {Liwu Xu} and {Wei Zhang} and {Ran Lin} and {Bo Xu} and {Benlei Cui}},
+  year = {2026},
+  eprint = {2604.04399v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.04399v1},
+  note = {First published: 2026-04-06; Recorded arXiv version: v1; Recorded version updated: 2026-04-06T03:58:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Melaya | AwesomeCUA"
+url: https://awesomecua.com/resources/github-melaya-labs-melaya/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Melaya
 
 Melaya provides SDKs and documentation for an agent platform that operates Android apps and browser tabs, with scoped permissions and human approvals.

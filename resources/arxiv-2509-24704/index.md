@@ -1,3 +1,11 @@
+---
+title: "MemGen: Weaving Generative Latent Memory for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-24704/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
 
 Status: excluded from the active CUA catalog after scope review.

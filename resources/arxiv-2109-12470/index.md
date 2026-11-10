@@ -1,3 +1,11 @@
+---
+title: "Singularities of serial robots… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2109-12470/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Singularities of serial robots: Identification and distance computation using geometric algebra
 
 Status: excluded from the active CUA catalog after scope review.

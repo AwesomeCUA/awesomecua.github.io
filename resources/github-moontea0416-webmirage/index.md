@@ -1,3 +1,11 @@
+---
+title: "WebMirage | AwesomeCUA"
+url: https://awesomecua.com/resources/github-moontea0416-webmirage/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WebMirage
 
 WebMirage is an adversarial red-teaming framework that crafts visual perturbations to hijack web agents from grounding to browser execution.

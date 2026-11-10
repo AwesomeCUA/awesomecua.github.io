@@ -1,3 +1,11 @@
+---
+title: "Dreamer V1 Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # Dreamer V1 Data
 
 Web-world-model training data with prompts, images, action descriptions, and responses, released with the WebDreamer project.

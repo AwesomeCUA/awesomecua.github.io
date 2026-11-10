@@ -1,3 +1,11 @@
+---
+title: "Mind2Web bbox eval (MultiUI) · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-56b5936190d20fa3d1c1/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Mind2Web bbox eval (MultiUI)
 
 Mind2Web 步骤经 MultiUI 作者重新打包为 JPEG 截图及逐步 JSONL 查询和候选元素框，用于 MultiUI 基于截图的 Mind2Web 操作评估。

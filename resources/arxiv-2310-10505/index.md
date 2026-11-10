@@ -1,3 +1,11 @@
+---
+title: "ReMax: A Simple, Effective, and Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-10505/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models
 
 Bibliographic record for ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ziniu Li, Tian Xu, Yushun Zhang, Zhihang Lin, Yang Yu, Ruoyu Sun, Zhi-Quan Luo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-10505/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-10505/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_10505,
+  title = {{ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models}},
+  author = {{Ziniu Li} and {Tian Xu} and {Yushun Zhang} and {Zhihang Lin} and {Yang Yu} and {Ruoyu Sun} and {Zhi-Quan Luo}},
+  year = {2023},
+  eprint = {2310.10505v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.10505v4},
+  note = {First published: 2023-10-16; Recorded arXiv version: v4; Recorded version updated: 2024-05-16T02:22:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

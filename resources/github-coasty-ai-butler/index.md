@@ -1,3 +1,11 @@
+---
+title: "Butler | AwesomeCUA"
+url: https://awesomecua.com/resources/github-coasty-ai-butler/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Butler
 
 Butler is a voice-first macOS desktop assistant combining MCP tool execution with native Swift desktop control fallback.

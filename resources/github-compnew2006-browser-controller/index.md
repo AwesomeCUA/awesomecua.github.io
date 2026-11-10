@@ -1,3 +1,11 @@
+---
+title: "Browser Controller | AwesomeCUA"
+url: https://awesomecua.com/resources/github-compnew2006-browser-controller/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Controller
 
 MCP server and Chrome extension giving coding agents live DOM, console, and interaction control over an existing browser.

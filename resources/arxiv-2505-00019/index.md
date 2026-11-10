@@ -1,3 +1,11 @@
+---
+title: "An Empirical Study on Prompt Compression for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-00019/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Empirical Study on Prompt Compression for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

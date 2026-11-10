@@ -1,3 +1,11 @@
+---
+title: "macbot-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anomalous3-macbot-mcp/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # macbot-mcp
 
 一个 MCP 服务器，让 AI 智能体读取带有元素坐标的 macOS 无障碍树，并通过 Quartz CGEvents 和 AppleScript 执行操作，提供 17 个用于观察、点击、输入和滚动的工具。

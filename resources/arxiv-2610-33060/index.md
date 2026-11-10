@@ -1,3 +1,11 @@
+---
+title: "MARC: Mechanism-Aware Reflective Correction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33060/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MARC: Mechanism-Aware Reflective Correction for Articulated Object Code Generation
 
 Bibliographic record for MARC: Mechanism-Aware Reflective Correction for Articulated Object Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiong Yang, Junkun Hao, Zijian Xiao, Zipeng Ye, Yuchen Xie, Ran Yi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-33060/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-33060/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33060,
+  title = {{MARC: Mechanism-Aware Reflective Correction for Articulated Object Code Generation}},
+  author = {{Xiong Yang} and {Junkun Hao} and {Zijian Xiao} and {Zipeng Ye} and {Yuchen Xie} and {Ran Yi}},
+  year = {2026},
+  eprint = {2610.33060v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33060v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T10:38:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

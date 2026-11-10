@@ -1,3 +1,11 @@
+---
+title: "Oracle E-Business Suite Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-oracle-ebs-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Oracle E-Business Suite Browser Automation
 
 面向 Oracle E-Business Suite 工作流程的浏览器自动化脚手架，提供基于 Puppeteer 或云浏览器的登录、请购、审批和请求操作。

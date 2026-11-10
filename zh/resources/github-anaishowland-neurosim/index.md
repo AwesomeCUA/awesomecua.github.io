@@ -1,3 +1,11 @@
+---
+title: "Neurosim · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anaishowland-neurosim/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Neurosim
 
 Neurosim 是用于构建、模拟和评测多步 AI 及计算机使用智能体系统的 Python 框架。

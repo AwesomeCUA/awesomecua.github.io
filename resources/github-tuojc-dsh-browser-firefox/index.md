@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-firefox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-browser-firefox
 
 Firefox browser-control plugin and extension for DeepSeek Harness enabling agents to read and drive live Firefox tabs.

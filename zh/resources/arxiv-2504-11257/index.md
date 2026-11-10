@@ -1,3 +1,11 @@
+---
+title: "UI-E2I-Synth: Advancing GUI Grounding… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-11257/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis
 
 UI-E2I-Synth 使用 GPT-4o 合成复杂程度各异的 GUI 定位指令，涵盖小元素、元素类型不均衡和隐含请求等问题。配套的 UI-I2E-Bench 评估这些标注难题下从指令到元素的定位。
@@ -27,6 +35,18 @@ Xinyi Liu, Xiaoyi Zhang, Ziyun Zhang, Yan Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-11257/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-11257/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_11257,
+  title = {{UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis}},
+  author = {{Xinyi Liu} and {Xiaoyi Zhang} and {Ziyun Zhang} and {Yan Lu}},
+  year = {2025},
+  eprint = {2504.11257v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.11257v4},
+  note = {First published: 2025-04-15; Recorded arXiv version: v4; Recorded version updated: 2025-07-30T13:57:49Z.}
+}
+```
 
 ## 发表记录
 

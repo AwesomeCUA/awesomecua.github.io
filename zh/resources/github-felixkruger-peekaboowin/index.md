@@ -1,3 +1,11 @@
+---
+title: "PeekabooWin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-felixkruger-peekaboowin/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # PeekabooWin
 
 这款 Windows 桌面自动化工具通过辅助界面、命令行和 MCP 服务器提供截屏、OCR、无障碍控件索引及输入操作。

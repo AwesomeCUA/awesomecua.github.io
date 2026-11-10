@@ -1,3 +1,11 @@
+---
+title: "MobiBench: Multi-Branch, Modular… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-12634/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobiBench: Multi-Branch, Modular Benchmark for Mobile GUI Agents
 
 MobiBench 允许多条有效操作路径，对移动端 GUI 智能体进行离线评估。它将智能体流程拆分为模块，以研究各组件的作用、配置和性能瓶颈。
@@ -27,6 +35,18 @@ Youngmin Im, Byeongung Jo, Jaeyoung Wi, Seungwoo Baek, Tae Hoon Min, Joo Hyung L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-12634/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-12634/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_12634,
+  title = {{MobiBench: Multi-Branch, Modular Benchmark for Mobile GUI Agents}},
+  author = {{Youngmin Im} and {Byeongung Jo} and {Jaeyoung Wi} and {Seungwoo Baek} and {Tae Hoon Min} and {Joo Hyung Lee} and {Sangeun Oh} and {Insik Shin} and {Sunjae Lee}},
+  year = {2025},
+  eprint = {2512.12634v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.12634v4},
+  note = {First published: 2025-12-14; Recorded arXiv version: v4; Recorded version updated: 2026-05-31T23:48:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

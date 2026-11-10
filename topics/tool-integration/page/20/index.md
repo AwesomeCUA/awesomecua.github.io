@@ -1,13 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 20 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/20/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 20
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/20/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [PyMCPAutoGUI](https://awesomecua.com/resources/github-ahaufox-pymcpautogui/)
-- [pymobiledevice3](https://awesomecua.com/resources/github-doronz88-pymobiledevice3/)
-- [pyside6-mcp](https://awesomecua.com/resources/github-com55-pyside6-mcp/)
-- [Q1X Community Orchestrator](https://awesomecua.com/resources/github-quoralinex-q1x-community-orchestrator/)
 - [Qoder Browser Connector Enabler](https://awesomecua.com/resources/github-wqzhellohhwy-qoder-browser-connector-enabler/)
 - [qt-mcp](https://awesomecua.com/resources/github-0xcarbon-qt-mcp/)
 - [Qubicl](https://awesomecua.com/resources/github-eldanring-qubicl/)
@@ -64,3 +68,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [see_the_screen (DSH Windows Desktop Plugin)](https://awesomecua.com/resources/github-jaychouu-see-the-screen/)
 - [Selenium MCP Server](https://awesomecua.com/resources/github-nayakprashant-selenium-mcp-server/)
 - [Selenium Self-Healing MCP Server](https://awesomecua.com/resources/github-aiqualitylab-selenium-selfhealing-mcp/)
+- [selenium-mcp](https://awesomecua.com/resources/github-gaforov-selenium-mcp/)
+- [Self-Hosted Cloud Browser MCP](https://awesomecua.com/resources/github-bk927-cloud-browser-mcp/)
+- [Semantic GUI Control Layer (SGCL)](https://awesomecua.com/resources/github-frankbria-semantic-gui-control/)
+- [Semantic Kernel](https://awesomecua.com/resources/github-microsoft-semantic-kernel/)

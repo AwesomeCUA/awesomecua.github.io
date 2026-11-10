@@ -1,3 +1,11 @@
+---
+title: "Where and How to Prune: An Empirical… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-26041/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Where and How to Prune: An Empirical Study of Visual Token Pruning for GUI Agent Navigation
 
 研究 GUI 导航中的视觉 token 剪枝，将可复用的截图编码器嵌入与后续语言模型计算分开。分析剪枝历史截图时前景与背景的 token 分配及空间覆盖情况。
@@ -27,6 +35,18 @@ Daiqiang Li, Zihao Pan, Zeyu Zhang, Xuyang Liu, Shijia Xu, Ronghao Chen, Huacan 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-26041/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-26041/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_26041,
+  title = {{Where and How to Prune: An Empirical Study of Visual Token Pruning for GUI Agent Navigation}},
+  author = {{Daiqiang Li} and {Zihao Pan} and {Zeyu Zhang} and {Xuyang Liu} and {Shijia Xu} and {Ronghao Chen} and {Huacan Wang} and {Honggang Chen} and {Linfeng Zhang} and {Zhangquan Chen} and {Haiyun Jiang}},
+  year = {2026},
+  eprint = {2603.26041v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.26041v4},
+  note = {First published: 2026-03-27; Recorded arXiv version: v4; Recorded version updated: 2026-08-09T16:37:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

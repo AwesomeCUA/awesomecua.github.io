@@ -1,3 +1,11 @@
+---
+title: "profile-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leeguooooo-profile-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # profile-use
 
 profile-use 为智能体填写网页表单提供本地档案数据，并在输入敏感信息或提交前执行确认和域名检查。

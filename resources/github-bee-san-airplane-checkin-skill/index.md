@@ -1,3 +1,11 @@
+---
+title: "Airplane Check-In Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bee-san-airplane-checkin-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Airplane Check-In Skill
 
 Privacy-conscious Hermes browser skill for scheduled, verified multi-airline web check-in.

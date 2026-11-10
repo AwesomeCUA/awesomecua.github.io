@@ -1,3 +1,11 @@
+---
+title: "Qwen/Qwen3-VL-8B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-90ae002dbf099d42fabb/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen/Qwen3-VL-8B-Instruct
 
 Qwen3-VL-8B-Instruct is a vision-language checkpoint whose card describes PC and mobile GUI operation, including element recognition and tool calls.

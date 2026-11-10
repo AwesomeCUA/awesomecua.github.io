@@ -1,3 +1,11 @@
+---
+title: "hwatu · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hongnoul-hwatu/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # hwatu
 
 面向 AI 编码智能体的无头验证浏览器，支持 35ms 单次调用 UI 检查和像素差异比较。

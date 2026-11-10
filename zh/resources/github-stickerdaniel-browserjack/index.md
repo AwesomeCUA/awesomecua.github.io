@@ -1,3 +1,11 @@
+---
+title: "Browserjack · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-stickerdaniel-browserjack/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browserjack
 
 桥接工具，可在 macOS 上向 Claude Code 和任何 MCP 客户端开放 OpenAI 已安装的 Codex 浏览器运行环境。

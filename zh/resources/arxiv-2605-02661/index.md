@@ -1,3 +1,11 @@
+---
+title: "AcademiClaw: When Students Set… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-02661/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AcademiClaw: When Students Set Challenges for AI Agents
 
 AcademiClaw 用长期学术工作流程评估 OpenClaw 智能体，在隔离的 Docker 沙箱中按评分规则检查任务完成情况并进行安全审查。
@@ -27,6 +35,18 @@ Junjie Yu, Pengrui Lu, Weiye Si, Hongliang Lu, Jiabao Wu, Kaiwen Tao, Kun Wang, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-02661/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-02661/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_02661,
+  title = {{AcademiClaw: When Students Set Challenges for AI Agents}},
+  author = {{Junjie Yu} and {Pengrui Lu} and {Weiye Si} and {Hongliang Lu} and {Jiabao Wu} and {Kaiwen Tao} and {Kun Wang} and {Lingyu Yang} and {Qiran Zhang} and {Xiuting Guo} and {Xuanyu Wang} and {Yang Wang} and {Yanjie Wang} and {Yi Yang} and {Zijian Hu} and {Ziyi Yang} and {Zonghan Zhou} and {Binghao Qiang} and {Borui Zhang} and {Chenning Li} and {Enchang Zhang} and {Feifan Chen} and {Feng Jian} and {Fengyin Sun} and {Hao Qiu} and {Hao Zheng} and {Haoran Zhu} and {Hongyu Liu} and {Jianbin Deng} and {Jiaxin Song} and {Jiaying Chi} and {Jiayou Shi} and {Jie Fang} and {Jinghui Zhong} and {Jingyu Zhou} and {Jinze Li} and {Junfeng Yi} and {Junyan Yu} and {Junzhi Xue} and {Ni Song} and {Pengyi Chen} and {Qi Chen} and {Quansheng Li} and {Rui Tao} and {Shenghai Gong} and {Shenhang Lu} and {Tianqi Shen} and {Tianxiang Zhu} and {Tiehan Kang} and {Tingyu Li} and {Wendi Wu} and {Xiao Shen} and {Xiao Zhou} and {Xiaotao Zhang} and {Xinrong Li} and {Xuankun Yang} and {Xun Zhang} and {Yan Li} and {Ye Lu} and {Yi Wang} and {Yibo Zhou} and {Yichi Zhang} and {Yihao Sun} and {Yijun Huang} and {Yixin Zhu} and {Yixuan Wu} and {Yuchen Sun} and {Yue Wu} and {Yuheng Sun} and {Yukun Li} and {Yutian Tu} and {Yuxuan Qin} and {Yuzhuo Wu} and {Zeyu Li} and {Zhengyu Lou} and {Zhenning Ran} and {Zizhu He} and {Pengfei Liu}},
+  year = {2026},
+  eprint = {2605.02661v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.02661v1},
+  note = {First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T14:40:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

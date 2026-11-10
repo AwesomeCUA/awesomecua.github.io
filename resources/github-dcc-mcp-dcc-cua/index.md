@@ -1,3 +1,11 @@
+---
+title: "dcc-cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dcc-mcp-dcc-cua/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # dcc-cua
 
 Cross-platform Rust runtime and CLI for AI agents to observe and control scoped desktop application windows.

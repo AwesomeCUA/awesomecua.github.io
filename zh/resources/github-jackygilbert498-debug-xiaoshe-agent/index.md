@@ -1,3 +1,11 @@
+---
+title: "Xiaoshe Agent (小蛇 Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jackygilbert498-debug-xiaoshe-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Xiaoshe Agent (小蛇 Agent)
 
 基于 DeepSeek Harness 构建的本地优先桌面智能体，具备插件治理、权限审批和完成回执功能。

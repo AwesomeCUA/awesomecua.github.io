@@ -1,3 +1,11 @@
+---
+title: "c-vision (DSH Vision & Computer Use… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cczzyy-cn-c-vision/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # c-vision (DSH Vision & Computer Use Plugin)
 
 面向 DeepSeek Harness 的自主视觉与计算机使用插件，提供屏幕捕获、OCR、窗口列表和 GUI 输入功能。

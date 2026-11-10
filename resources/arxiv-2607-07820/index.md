@@ -1,3 +1,11 @@
+---
+title: "DeepSearch-World: Self-Distillation for Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-07820/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment
 
 Bibliographic record for DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xinyu Geng, Xuanhua He, Sixiang Chen, Yanjing Xiao, Fan Zhang, Shijue Huang, Hai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-07820/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-07820/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_07820,
+  title = {{DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment}},
+  author = {{Xinyu Geng} and {Xuanhua He} and {Sixiang Chen} and {Yanjing Xiao} and {Fan Zhang} and {Shijue Huang} and {Haitao Mi} and {Zhenwen Liang} and {Tianqing Fang} and {Yi R. Fung}},
+  year = {2026},
+  eprint = {2607.07820v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.07820v2},
+  note = {First published: 2026-07-08; Recorded arXiv version: v2; Recorded version updated: 2026-07-13T12:09:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

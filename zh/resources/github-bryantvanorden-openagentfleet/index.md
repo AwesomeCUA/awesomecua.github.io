@@ -1,3 +1,11 @@
+---
+title: "BryantVanOrden OpenAgentFleet · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bryantvanorden-openagentfleet/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # BryantVanOrden OpenAgentFleet
 
 自行托管的集群编排器，为自主式计算机使用智能体创建沙箱化的 Linux 桌面容器。

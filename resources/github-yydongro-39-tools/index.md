@@ -1,3 +1,11 @@
+---
+title: "Agent DevTools (39-tools) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yydongro-39-tools/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent DevTools (39-tools)
 
 Action-level observability, state verification, and debugging toolkit for computer-use agents.

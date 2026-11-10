@@ -1,3 +1,11 @@
+---
+title: "AskUI · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-askui/
+updated: 2026-10-16
+type: company
+lang: zh-CN
+---
+
 # AskUI
 
 与 AskUI 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

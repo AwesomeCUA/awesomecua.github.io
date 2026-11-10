@@ -1,3 +1,11 @@
+---
+title: "GUIGuard-Bench public-ladder release · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-61860953a680776ffe53/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # GUIGuard-Bench public-ladder release
 
 GUIGuard-Bench 公开榜单版本：含 121 条 Android 和 Linux 桌面智能体轨迹，2,002 张截图带区域级隐私标签，用于隐私识别、受保护界面规划和点击定位。

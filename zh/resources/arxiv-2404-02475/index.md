@@ -1,3 +1,11 @@
+---
+title: "Prompt2Task: Automating UI Tasks on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-02475/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Prompt2Task: Automating UI Tasks on Smartphones from Textual Prompts
 
 Prompt2Task 通过负责意图理解、外部信息处理和执行的智能体，将文本目标或步骤转化为智能手机 UI 自动化操作；用户反馈和积累的任务知识支持后续任务生成与执行。
@@ -27,6 +35,18 @@ Tian Huang, Chun Yu, Weinan Shi, Zijian Peng, David Yang, Weiqi Sun, Yuanchun Sh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-02475/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-02475/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_02475,
+  title = {{Prompt2Task: Automating UI Tasks on Smartphones from Textual Prompts}},
+  author = {{Tian Huang} and {Chun Yu} and {Weinan Shi} and {Zijian Peng} and {David Yang} and {Weiqi Sun} and {Yuanchun Shi}},
+  year = {2024},
+  eprint = {2404.02475v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.02475v2},
+  note = {First published: 2024-04-03; Recorded arXiv version: v2; Recorded version updated: 2025-03-18T09:59:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

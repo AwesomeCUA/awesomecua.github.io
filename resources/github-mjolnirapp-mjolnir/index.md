@@ -1,3 +1,11 @@
+---
+title: "Mjolnir | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mjolnirapp-mjolnir/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Mjolnir
 
 A macOS app that loads a Lua environment where user configs and LuaRocks modules bind global hotkeys, show alerts, and inspect or move running applications and windows.

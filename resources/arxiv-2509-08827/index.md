@@ -1,3 +1,11 @@
+---
+title: "A Survey of Reinforcement Learning for Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-08827/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey of Reinforcement Learning for Large Reasoning Models
 
 Status: excluded from the active CUA catalog after scope review.

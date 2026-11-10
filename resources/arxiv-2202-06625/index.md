@@ -1,3 +1,11 @@
+---
+title: "Polyhedron Kernel Computation Using a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2202-06625/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Polyhedron Kernel Computation Using a Geometric Approach
 
 Status: excluded from the active CUA catalog after scope review.

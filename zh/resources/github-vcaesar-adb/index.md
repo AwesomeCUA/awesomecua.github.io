@@ -1,3 +1,11 @@
+---
+title: "adb · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vcaesar-adb/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # adb
 
 这个 Go 设备控制 API 通过 adb 在 Android 上、通过 WebDriverAgent 在 iOS 上提供点击、滑动、文字输入和截图功能。

@@ -1,3 +1,11 @@
+---
+title: "ScreenSuite · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huggingface-screensuite/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # ScreenSuite
 
 ScreenSuite 是共用的评估框架，基于 smolagents 构建简易智能体，在现有基准上评估 GUI 模型的感知、离线动作预测和多步交互。

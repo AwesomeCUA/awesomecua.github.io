@@ -1,3 +1,11 @@
+---
+title: "SkyEyeGPT: Unifying Remote Sensing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-09712/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model
 
 Bibliographic record for SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yang Zhan, Zhitong Xiong, Yuan Yuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-09712/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-09712/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_09712,
+  title = {{SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model}},
+  author = {{Yang Zhan} and {Zhitong Xiong} and {Yuan Yuan}},
+  year = {2024},
+  eprint = {2401.09712v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.09712v1},
+  note = {First published: 2024-01-18; Recorded arXiv version: v1; Recorded version updated: 2024-01-18T04:10:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

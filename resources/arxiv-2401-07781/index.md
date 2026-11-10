@@ -1,3 +1,11 @@
+---
+title: "Towards A Better Metric for Text-to-Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-07781/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards A Better Metric for Text-to-Video Generation
 
 Status: excluded from the active CUA catalog after scope review.

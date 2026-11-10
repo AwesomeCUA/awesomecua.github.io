@@ -1,3 +1,11 @@
+---
+title: "JailBreakV: A Benchmark for Assessing the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-03027/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks
 
 Bibliographic record for JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-03027/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-03027/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_03027,
+  title = {{JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks}},
+  author = {{Weidi Luo} and {Siyuan Ma} and {Xiaogeng Liu} and {Xiaoyu Guo} and {Chaowei Xiao}},
+  year = {2024},
+  eprint = {2404.03027v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.03027v4},
+  note = {First published: 2024-04-03; Recorded arXiv version: v4; Recorded version updated: 2024-11-24T06:22:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

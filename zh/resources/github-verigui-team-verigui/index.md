@@ -1,3 +1,11 @@
+---
+title: "VeriWeb (formerly VeriGUI) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-verigui-team-verigui/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # VeriWeb (formerly VeriGUI)
 
 由 VeriGUI 更名而来的可验证网页信息检索基准；桌面端评估被列为未来工作。

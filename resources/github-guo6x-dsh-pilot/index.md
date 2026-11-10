@@ -1,3 +1,11 @@
+---
+title: "guo6x dsh-pilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-guo6x-dsh-pilot/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # guo6x dsh-pilot
 
 DeepSeek Harness plugin that drives a real Edge or Chrome browser over CDP using compact element refs.

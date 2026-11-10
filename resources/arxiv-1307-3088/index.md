@@ -1,3 +1,11 @@
+---
+title: "The Declaratron, semantic specification for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1307-3088/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Declaratron, semantic specification for scientific computation using MathML
 
 Status: excluded from the active CUA catalog after scope review.

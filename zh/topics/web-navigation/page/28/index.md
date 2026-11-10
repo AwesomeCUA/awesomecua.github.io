@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 28 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/28/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 28 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/28/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Taylor-Bayouth Browser Agent](https://awesomecua.com/zh/resources/github-taylor-bayouth-browser-agent/)
-- [TeleGen](https://awesomecua.com/zh/resources/github-commoluo-telegen/)
 - [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/zh/resources/github-tencent-selfevolvingagent/)
 - [Tencent BrowserSkill](https://awesomecua.com/zh/resources/github-tencent-browserskill/)
 - [TENKA](https://awesomecua.com/zh/resources/github-om-khode-tenka/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/28/
 - [Webagent (webagent.cloud)](https://awesomecua.com/zh/resources/github-webagent-cloud-webagent/)
 - [WebAgent-R1](https://awesomecua.com/zh/resources/github-weizhepei-webagent-r1/)
 - [webagent.cloud](https://awesomecua.com/zh/resources/url-3315b5f3f10e62504135/)
+- [WebAgents Protocol](https://awesomecua.com/zh/resources/github-betterwright-webagents/)
+- [WebAggregator](https://awesomecua.com/zh/resources/github-tencent-webaggregator/)

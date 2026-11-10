@@ -1,3 +1,11 @@
+---
+title: "Internet of Agents: Weaving a Web of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-07061/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
 
 Status: excluded from the active CUA catalog after scope review.

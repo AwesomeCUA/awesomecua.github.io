@@ -1,3 +1,11 @@
+---
+title: "Planning from Imagination: Episodic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-01857/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation
 
 Status: excluded from the active CUA catalog after scope review.

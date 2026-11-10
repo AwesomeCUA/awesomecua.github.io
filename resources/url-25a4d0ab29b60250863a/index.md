@@ -1,3 +1,11 @@
+---
+title: "NNetNav WebArena data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-25a4d0ab29b60250863a/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # NNetNav WebArena data
 
 NNetNav's WebArena-oriented browser-interaction data release, with separate training and test files.

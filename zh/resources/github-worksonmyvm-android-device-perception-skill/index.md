@@ -1,3 +1,11 @@
+---
+title: "Android Device Perception Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-worksonmyvm-android-device-perception-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Android Device Perception Skill
 
 通过 ADB 获取 Android 状态快照的可移植只读技能，面向 AI 编程和移动端智能体。

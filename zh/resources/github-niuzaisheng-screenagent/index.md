@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-niuzaisheng-screenagent/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # ScreenAgent
 
 环境与智能体系统：视觉语言模型通过 VNC，用鼠标和键盘按规划、执行、反思阶段控制真实桌面；另附人工标注的日常计算机任务数据集。

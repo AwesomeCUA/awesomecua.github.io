@@ -1,3 +1,11 @@
+---
+title: "Sikuli legacy research implementation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sikuli-sikuli/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # Sikuli legacy research implementation
 
 Sikuli 原始源代码发布包结合截图目标、Jython 脚本库和 IDE，用于可视化 GUI 自动化与测试。

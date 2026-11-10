@@ -1,3 +1,11 @@
+---
+title: "How Mobile World Model Guides GUI Agents? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-10347/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # How Mobile World Model Guides GUI Agents?
 
 Compares mobile world models that predict state changes as delta text, full text, images or renderable code. Downstream Android benchmarks examine synthetic training trajectories and test-time guidance, including limits of post-action reflection.
@@ -26,6 +34,18 @@ Weikai Xu, Kun Huang, Yunren Feng, Jiaxing Li, Yuhan Chen, Yuxuan Liu, Zhizheng 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-10347/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-10347/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_10347,
+  title = {{How Mobile World Model Guides GUI Agents?}},
+  author = {{Weikai Xu} and {Kun Huang} and {Yunren Feng} and {Jiaxing Li} and {Yuhan Chen} and {Yuxuan Liu} and {Zhizheng Jiang} and {Heng Qu} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Xiaolin Hu} and {Bo An}},
+  year = {2026},
+  eprint = {2605.10347v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.10347v2},
+  note = {First published: 2026-05-11; Recorded arXiv version: v2; Recorded version updated: 2026-05-22T05:43:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

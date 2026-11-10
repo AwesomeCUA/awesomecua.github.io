@@ -1,3 +1,11 @@
+---
+title: "Not what you've signed up for: Compromising… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-12173/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection
 
 Bibliographic record for Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2302-12173/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2302-12173/citation.csl.json
+
+```bibtex
+@misc{arxiv_2302_12173,
+  title = {{Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection}},
+  author = {{Kai Greshake} and {Sahar Abdelnabi} and {Shailesh Mishra} and {Christoph Endres} and {Thorsten Holz} and {Mario Fritz}},
+  year = {2023},
+  eprint = {2302.12173v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2302.12173v2},
+  note = {First published: 2023-02-23; Recorded arXiv version: v2; Recorded version updated: 2023-05-05T14:26:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

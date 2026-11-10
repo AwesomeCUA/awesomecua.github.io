@@ -1,3 +1,11 @@
+---
+title: "Holo1.5 72B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a8e086f155c278e45c55/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo1.5 72B
 
 The 72B member of H Company's Holo1.5 series, fine-tuned from Qwen2.5-VL-72B-Instruct for UI element localization and screen question answering on web, desktop and mobile interfaces.

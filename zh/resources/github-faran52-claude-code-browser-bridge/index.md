@@ -1,3 +1,11 @@
+---
+title: "claude-firefox (Claude Code Browser… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-faran52-claude-code-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # claude-firefox (Claude Code Browser Bridge)
 
 由 Firefox WebExtension、原生消息传递宿主和 MCP 服务器组成，让 Claude Code 能够读取并操控 Firefox 标签页。

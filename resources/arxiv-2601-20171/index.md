@@ -1,3 +1,11 @@
+---
+title: "Who Writes the Docs in SE 3.0? Agent vs… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-20171/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Who Writes the Docs in SE 3.0? Agent vs. Human Documentation Pull Requests
 
 Status: excluded from the active CUA catalog after scope review.

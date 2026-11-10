@@ -1,3 +1,11 @@
+---
+title: "pdlgen | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chromedp-pdlgen/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # pdlgen
 
 A Go code generator that turns Chrome DevTools Protocol definitions into typed browser-control bindings used by chromedp and other Go programs.

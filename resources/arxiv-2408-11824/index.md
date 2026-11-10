@@ -1,3 +1,11 @@
+---
+title: "AppAgent v2: Advanced Agent for Flexible… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-11824/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AppAgent v2: Advanced Agent for Flexible Mobile Interactions
 
 Separates exploration and deployment while using a structured application knowledge base and retrieval to guide mobile workflows.
@@ -26,6 +34,18 @@ Yanda Li, Chi Zhang, Wenjia Jiang, Wanqi Yang, Bin Fu, Pei Cheng, Xin Chen, Ling
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-11824/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-11824/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_11824,
+  title = {{AppAgent v2: Advanced Agent for Flexible Mobile Interactions}},
+  author = {{Yanda Li} and {Chi Zhang} and {Wenjia Jiang} and {Wanqi Yang} and {Bin Fu} and {Pei Cheng} and {Xin Chen} and {Ling Chen} and {Yunchao Wei}},
+  year = {2024},
+  eprint = {2408.11824v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.11824v4},
+  note = {First published: 2024-08-05; Recorded arXiv version: v4; Recorded version updated: 2025-09-17T09:06:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

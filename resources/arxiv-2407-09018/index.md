@@ -1,3 +1,11 @@
+---
+title: "AUITestAgent: Automatic Requirements Oriented… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-09018/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AUITestAgent: Automatic Requirements Oriented GUI Function Testing
 
 Automates mobile GUI tests from natural-language requirements, combining action generation with verification based on interaction traces.
@@ -26,6 +34,18 @@ Yongxiang Hu, Xuan Wang, Yingchuan Wang, Yu Zhang, Shiyu Guo, Chaoyi Chen, Xin W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-09018/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-09018/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_09018,
+  title = {{AUITestAgent: Automatic Requirements Oriented GUI Function Testing}},
+  author = {{Yongxiang Hu} and {Xuan Wang} and {Yingchuan Wang} and {Yu Zhang} and {Shiyu Guo} and {Chaoyi Chen} and {Xin Wang} and {Yangfan Zhou}},
+  year = {2024},
+  eprint = {2407.09018v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.09018v1},
+  note = {First published: 2024-07-12; Recorded arXiv version: v1; Recorded version updated: 2024-07-12T06:14:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

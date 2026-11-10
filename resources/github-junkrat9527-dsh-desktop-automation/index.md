@@ -1,3 +1,11 @@
+---
+title: "dsh-desktop-automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-junkrat9527-dsh-desktop-automation/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-desktop-automation
 
 macOS desktop automation plugin for DeepSeek Harness with a closed-loop screenshot-locate-click-verify pipeline.

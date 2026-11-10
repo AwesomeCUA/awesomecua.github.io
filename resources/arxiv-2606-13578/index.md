@@ -1,3 +1,11 @@
+---
+title: "LabVLA: Grounding Vision-Language-Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-13578/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories
 
 Status: excluded from the active CUA catalog after scope review.

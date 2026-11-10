@@ -1,3 +1,11 @@
+---
+title: "ProfileFleet · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-enginefuture-profilefleet/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ProfileFleet
 
 优先在本地运行的 TypeScript 编排平台，用于跨 AI 智能体管理持久化的指纹浏览器配置文件。

@@ -1,3 +1,11 @@
+---
+title: "E2B Desktop · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-e2b-dev-desktop/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # E2B Desktop
 
 面向计算机使用智能体的开源隔离式 Linux Xfce 桌面沙箱，可通过 Python 或 JavaScript SDK 进行屏幕串流、鼠标、键盘及窗口控制、截图和 shell 操作。

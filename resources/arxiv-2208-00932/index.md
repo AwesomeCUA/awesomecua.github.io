@@ -1,3 +1,11 @@
+---
+title: "Masader Plus: A New Interface for Exploring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2208-00932/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets
 
 Bibliographic record for Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yousef Altaher, Ali Fadel, Mazen Alotaibi, Mazen Alyazidi, Mishari Al-Mutairi, M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2208-00932/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2208-00932/citation.csl.json
+
+```bibtex
+@misc{arxiv_2208_00932,
+  title = {{Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets}},
+  author = {{Yousef Altaher} and {Ali Fadel} and {Mazen Alotaibi} and {Mazen Alyazidi} and {Mishari Al-Mutairi} and {Mutlaq Aldhbuiub} and {Abdulrahman Mosaibah} and {Abdelrahman Rezk} and {Abdulrazzaq Alhendi} and {Mazen Abo Shal} and {Emad A. Alghamdi} and {Maged S. Alshaibani} and {Jezia Zakraoui} and {Wafaa Mohammed} and {Kamel Gaanoun} and {Khalid N. Elmadani} and {Mustafa Ghaleb} and {Nouamane Tazi} and {Raed Alharbi} and {Maraim Masoud} and {Zaid Alyafeai}},
+  year = {2022},
+  eprint = {2208.00932v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2208.00932v1},
+  note = {First published: 2022-08-01; Recorded arXiv version: v1; Recorded version updated: 2022-08-01T15:31:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

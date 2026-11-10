@@ -1,3 +1,11 @@
+---
+title: "Undetectable Chromium CDP MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-undetectable-io-chromium-cdp-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Undetectable Chromium CDP MCP
 
 Model Context Protocol server by Undetectable.io that drives Chrome, Edge, Brave, Opera, and Vivaldi browsers over CDP.

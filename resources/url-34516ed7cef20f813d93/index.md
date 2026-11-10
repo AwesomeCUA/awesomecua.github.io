@@ -1,3 +1,11 @@
+---
+title: "InternVL3-2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-34516ed7cef20f813d93/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3-2B
 
 A multimodal model checkpoint whose release documents training on GUI operations and evaluation of GUI grounding alongside broader vision-language tasks.

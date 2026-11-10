@@ -1,3 +1,11 @@
+---
+title: "Harden Vanilla Puppeteer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prescience-data-harden-puppeteer/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Harden Vanilla Puppeteer
 
 Patch-package diffs that edit core Puppeteer files to run page calls in an isolated world and strip Puppeteer strings from error traces and profile names, lowering automation detection.

@@ -1,3 +1,11 @@
+---
+title: "Sai OSWorld-V2 benchmark runs · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e0180b9651fec04d0308/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Sai OSWorld-V2 benchmark runs
 
 收录 Simular 的 Sai 计算机使用智能体两次完整的 108 任务 OSWorld-V2 运行证据：分数、逐步轨迹、消息记录、评估器和 API 日志及运行清单，不含截图。

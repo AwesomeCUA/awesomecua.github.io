@@ -1,3 +1,11 @@
+---
+title: "Robotic Control via Embodied Chain-of-Thought… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-08693/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Robotic Control via Embodied Chain-of-Thought Reasoning
 
 Bibliographic record for Robotic Control via Embodied Chain-of-Thought Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Michał Zawalski, William Chen, Karl Pertsch, Oier Mees, Chelsea Finn, Sergey Le
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-08693/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-08693/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_08693,
+  title = {{Robotic Control via Embodied Chain-of-Thought Reasoning}},
+  author = {{Michał Zawalski} and {William Chen} and {Karl Pertsch} and {Oier Mees} and {Chelsea Finn} and {Sergey Levine}},
+  year = {2024},
+  eprint = {2407.08693v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.08693v3},
+  note = {First published: 2024-07-11; Recorded arXiv version: v3; Recorded version updated: 2025-03-06T19:29:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

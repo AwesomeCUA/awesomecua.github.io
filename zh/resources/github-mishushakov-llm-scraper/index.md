@@ -1,3 +1,11 @@
+---
+title: "LLM Scraper · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mishushakov-llm-scraper/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # LLM Scraper
 
 LLM Scraper 是 TypeScript 库，使用 Playwright 和受模式约束的 LLM 从实时网页提取结构化数据。

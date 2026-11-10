@@ -1,3 +1,11 @@
+---
+title: "CLI-Anything · ArcGIS Pro · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jasper0122-cli-anything-arcgis-pro/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # CLI-Anything · ArcGIS Pro
 
 一个面向 ArcGIS Pro 的命令行工具和 MCP 桥接工具，让智能体通过进程内插件检查项目、运行地理处理，并更新打开的地图。

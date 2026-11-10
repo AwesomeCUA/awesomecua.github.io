@@ -1,3 +1,11 @@
+---
+title: "Dynamic Planning for LLM-based Graphical User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-00467/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Dynamic Planning for LLM-based Graphical User Interface Automation
 
 Dynamic Planning of Thoughts revises a mobile GUI plan using current environmental feedback and execution history. The study compares this planning strategy with long-dialogue prompting and examines its behavior on unfamiliar tasks and different language-model backbones.
@@ -26,6 +34,18 @@ Shaoqing Zhang, Zhuosheng Zhang, Kehai Chen, Xinbei Ma, Muyun Yang, Tiejun Zhao,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-00467/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-00467/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_00467,
+  title = {{Dynamic Planning for LLM-based Graphical User Interface Automation}},
+  author = {{Shaoqing Zhang} and {Zhuosheng Zhang} and {Kehai Chen} and {Xinbei Ma} and {Muyun Yang} and {Tiejun Zhao} and {Min Zhang}},
+  year = {2024},
+  eprint = {2410.00467v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.00467v3},
+  note = {First published: 2024-10-01; Recorded arXiv version: v3; Recorded version updated: 2024-12-19T14:29:31Z.}
+}
+```
 
 ## Publication record
 

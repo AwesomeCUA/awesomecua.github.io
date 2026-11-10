@@ -1,3 +1,11 @@
+---
+title: "Kota-Kawa Browser-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kota-kawa-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Kota-Kawa Browser-Agent
 
 基于 FastAPI 和 browser-use 的网页智能体，支持实时 CDP 会话流、Server-Sent Events（SSE）进度日志和交互式 UI 控制。

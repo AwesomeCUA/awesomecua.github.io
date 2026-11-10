@@ -1,3 +1,11 @@
+---
+title: "High Performance Unstructured SpMM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-11551/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # High Performance Unstructured SpMM Computation Using Tensor Cores
 
 Status: excluded from the active CUA catalog after scope review.

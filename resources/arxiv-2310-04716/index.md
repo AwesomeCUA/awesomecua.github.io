@@ -1,3 +1,11 @@
+---
+title: "Reinforced UI Instruction Grounding: Towards… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-04716/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API
 
 Trains a screenshot-based instruction-grounding model to predict target coordinates, using reinforcement learning to improve spatial decoding.
@@ -26,6 +34,18 @@ Zhizheng Zhang, Wenxuan Xie, Xiaoyi Zhang, Yan Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-04716/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-04716/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_04716,
+  title = {{Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API}},
+  author = {{Zhizheng Zhang} and {Wenxuan Xie} and {Xiaoyi Zhang} and {Yan Lu}},
+  year = {2023},
+  eprint = {2310.04716v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.04716v1},
+  note = {First published: 2023-10-07; Recorded arXiv version: v1; Recorded version updated: 2023-10-07T07:22:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "V2PE: Improving Multimodal Long-Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-09616/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding
 
 Bibliographic record for V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junqi Ge, Ziyi Chen, Jintao Lin, Jinguo Zhu, Xihui Liu, Jifeng Dai, Xizhou Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-09616/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-09616/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_09616,
+  title = {{V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding}},
+  author = {{Junqi Ge} and {Ziyi Chen} and {Jintao Lin} and {Jinguo Zhu} and {Xihui Liu} and {Jifeng Dai} and {Xizhou Zhu}},
+  year = {2024},
+  eprint = {2412.09616v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.09616v2},
+  note = {First published: 2024-12-12; Recorded arXiv version: v2; Recorded version updated: 2024-12-13T04:58:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

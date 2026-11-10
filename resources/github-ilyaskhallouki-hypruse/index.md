@@ -1,3 +1,11 @@
+---
+title: "hypruse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ilyaskhallouki-hypruse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # hypruse
 
 Model Context Protocol server giving AI agents native window, input, and screenshot control on Linux Hyprland Wayland desktops.

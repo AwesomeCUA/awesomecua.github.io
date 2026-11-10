@@ -1,3 +1,11 @@
+---
+title: "UI2API · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-merezarezaei-ui2api/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # UI2API
 
 对网站的 UI 和网络流量进行一次分析，为 AI 智能体生成可复用且无需浏览器的 API 工具。

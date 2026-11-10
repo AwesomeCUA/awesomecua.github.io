@@ -1,3 +1,11 @@
+---
+title: "WebThinker-R1-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-564c980a531e7204447c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # WebThinker-R1-7B
 
 一款已发布的 7B 推理模型，用于网页研究，可搜索网页、通过交互元素浏览页面，并撰写报告。

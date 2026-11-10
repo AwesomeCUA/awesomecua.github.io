@@ -1,3 +1,11 @@
+---
+title: "Agent-Reflex: Teaching Language Agents to Act… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17953/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agent-Reflex: Teaching Language Agents to Act Reflectively
 
 Bibliographic record for Agent-Reflex: Teaching Language Agents to Act Reflectively. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Guanting Dong, Xinyu Yang, Jiajie Jin, Yuyang Hu, Xiaoshuai Song, Yifei Chen, Xi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17953/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17953/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17953,
+  title = {{Agent-Reflex: Teaching Language Agents to Act Reflectively}},
+  author = {{Guanting Dong} and {Xinyu Yang} and {Jiajie Jin} and {Yuyang Hu} and {Xiaoshuai Song} and {Yifei Chen} and {Xiaoxi Li} and {Jiejun Tan} and {Yutao Zhu} and {Tat-Seng Chua} and {Ji-Rong Wen} and {Zhicheng Dou}},
+  year = {2026},
+  eprint = {2610.17953v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17953v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T08:36:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

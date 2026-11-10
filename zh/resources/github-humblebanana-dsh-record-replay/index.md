@@ -1,3 +1,11 @@
+---
+title: "dsh-record-replay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-humblebanana-dsh-record-replay/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-record-replay
 
 DeepSeek Harness 插件，通过 Open Record/Replay 录制 macOS 桌面演示，并将其编译为智能体技能。

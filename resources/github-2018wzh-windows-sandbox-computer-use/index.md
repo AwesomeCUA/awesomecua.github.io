@@ -1,3 +1,11 @@
+---
+title: "Windows Sandbox Computer Use Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Windows Sandbox Computer Use Skill
 
 Windows-only agent skill for provisioning an isolated Windows Sandbox VM and driving it via visual computer use.

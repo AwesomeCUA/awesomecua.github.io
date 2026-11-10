@@ -1,3 +1,11 @@
+---
+title: "Expert-Play Contouring Control… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-22798/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Expert-Play Contouring Control: Faster-than-Demonstration Planning from Slow Expert and Fast Play
 
 Status: excluded from the active CUA catalog after scope review.

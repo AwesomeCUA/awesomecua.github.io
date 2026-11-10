@@ -1,3 +1,11 @@
+---
+title: "AutoWebGLM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-autowebglm/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # AutoWebGLM
 
 Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is trained on hybrid human and AI data with RL and rejection sampling, and comes with the bilingual AutoWebBench.

@@ -1,3 +1,11 @@
+---
+title: "kde-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-atassis-kde-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # kde-mcp
 
 Model Context Protocol 服务器，用于观察和控制 Linux KDE Plasma 6 Wayland 桌面。

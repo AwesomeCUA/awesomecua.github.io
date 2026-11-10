@@ -1,3 +1,11 @@
+---
+title: "OpenPhone_model | AwesomeCUA"
+url: https://awesomecua.com/resources/url-836de49b2bbd47d3a6a5/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # OpenPhone_model
 
 OpenPhone-3B weights, a 3B on-device model for Android GUI tasks trained with supervised fine-tuning on synthetic reasoning data and then GRPO-style reinforcement learning.

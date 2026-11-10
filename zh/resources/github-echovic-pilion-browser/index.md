@@ -1,3 +1,11 @@
+---
+title: "Pilion Browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-echovic-pilion-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Pilion Browser
 
 Pilion Browser 通过 MCP 将智能体连接到用户桌面浏览器的标签页，支持浏览器操作、操作前审批、人工接管、工作流录制及会话恢复。

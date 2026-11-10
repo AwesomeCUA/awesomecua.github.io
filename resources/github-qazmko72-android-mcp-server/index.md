@@ -1,3 +1,11 @@
+---
+title: "AndroidMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qazmko72-android-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AndroidMCP
 
 Native on-device Android Model Context Protocol server exposing phone UI and system capabilities directly without a host PC.

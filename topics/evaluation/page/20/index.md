@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 20 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/20/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 20
 
 HTML page: https://awesomecua.com/topics/evaluation/page/20/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [WorkArena-Instances](https://awesomecua.com/resources/url-01b9e39cd2526d41c527/)
 - [WorldGUI](https://awesomecua.com/resources/github-showlab-worldgui/)
 - [Wornpage WebMCP Conformance](https://awesomecua.com/resources/github-wornpage-webmcp-conformance/)
 - [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/resources/url-3ab90a696d8578c944c8/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [OSWorld 2.0 trajectories](https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/)
 - [OSWorld file cache (Ubuntu)](https://awesomecua.com/resources/url-c885712b9c69579ac591/)
 - [OSWorld-Science task data](https://awesomecua.com/resources/url-263e82b29d4fca964463/)
+- [OSWorld-V2 0624 Codex attempt trajectories](https://awesomecua.com/resources/url-9112dfcb201f2de7241f/)

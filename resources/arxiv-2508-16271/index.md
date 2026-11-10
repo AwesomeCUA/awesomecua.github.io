@@ -1,3 +1,11 @@
+---
+title: "Structuring GUI Elements through Vision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-16271/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
 
 Introduces IAML training, which augments coordinate samples to help multimodal models locate GUI elements from screen content and user instructions.
@@ -26,6 +34,18 @@ Yi Xu, Yesheng Zhang, Jiajia Liu, Jingdong Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-16271/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-16271/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_16271,
+  title = {{Structuring GUI Elements through Vision Language Models: Towards Action Space Generation}},
+  author = {{Yi Xu} and {Yesheng Zhang} and {Jiajia Liu} and {Jingdong Chen}},
+  year = {2025},
+  eprint = {2508.16271v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.16271v2},
+  note = {First published: 2025-08-22; Recorded arXiv version: v2; Recorded version updated: 2025-08-30T03:46:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

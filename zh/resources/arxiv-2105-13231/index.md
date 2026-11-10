@@ -1,3 +1,11 @@
+---
+title: "AndroidEnv: A Reinforcement Learning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2105-13231/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AndroidEnv: A Reinforcement Learning Platform for Android
 
 提供 Android 环境，通过触屏交互训练和评估强化学习智能体。
@@ -27,6 +35,18 @@ Daniel Toyama, Philippe Hamel, Anita Gergely, Gheorghe Comanici, Amelia Glaese, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2105-13231/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2105-13231/citation.csl.json
+
+```bibtex
+@misc{arxiv_2105_13231,
+  title = {{AndroidEnv: A Reinforcement Learning Platform for Android}},
+  author = {{Daniel Toyama} and {Philippe Hamel} and {Anita Gergely} and {Gheorghe Comanici} and {Amelia Glaese} and {Zafarali Ahmed} and {Tyler Jackson} and {Shibl Mourad} and {Doina Precup}},
+  year = {2021},
+  eprint = {2105.13231v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2105.13231v1},
+  note = {First published: 2021-05-27; Recorded arXiv version: v1; Recorded version updated: 2021-05-27T15:20:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

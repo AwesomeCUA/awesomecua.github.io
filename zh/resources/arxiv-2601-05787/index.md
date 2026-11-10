@@ -1,3 +1,11 @@
+---
+title: "From Off-Policy to On-Policy: Enhancing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-05787/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation
 
 BEPA 利用学习者可到达的轨迹和动态更新的任务缓存，将少量专家 GUI 轨迹转化为与策略一致的指导，并在桌面和网页基准上评估这一双层强化学习方法。
@@ -27,6 +35,18 @@ Zezhou Wang, Ziyun Zhang, Xiaoyi Zhang, Zhuzhong Qian, Yan Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-05787/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-05787/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_05787,
+  title = {{From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation}},
+  author = {{Zezhou Wang} and {Ziyun Zhang} and {Xiaoyi Zhang} and {Zhuzhong Qian} and {Yan Lu}},
+  year = {2026},
+  eprint = {2601.05787v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.05787v2},
+  note = {First published: 2026-01-09; Recorded arXiv version: v2; Recorded version updated: 2026-02-10T15:12:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

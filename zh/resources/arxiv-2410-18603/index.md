@@ -1,3 +1,11 @@
+---
+title: "AgentStore: Scalable Integration of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-18603/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant
 
 提出由 MetaAgent 协调多个专用智能体的平台，以处理不同的计算机任务。
@@ -27,6 +35,18 @@ Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-18603/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-18603/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_18603,
+  title = {{AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant}},
+  author = {{Chengyou Jia} and {Minnan Luo} and {Zhuohang Dang} and {Qiushi Sun} and {Fangzhi Xu} and {Junlin Hu} and {Tianbao Xie} and {Zhiyong Wu}},
+  year = {2024},
+  eprint = {2410.18603v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.18603v1},
+  note = {First published: 2024-10-24; Recorded arXiv version: v1; Recorded version updated: 2024-10-24T09:58:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

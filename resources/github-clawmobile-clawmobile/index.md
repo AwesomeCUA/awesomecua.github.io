@@ -1,3 +1,11 @@
+---
+title: "ClawMobile | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clawmobile-clawmobile/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ClawMobile
 
 ClawMobile is an Android agent runtime built on OpenClaw for controlling mobile apps, learning reusable skills, and executing device workflows.

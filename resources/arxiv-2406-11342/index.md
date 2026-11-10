@@ -1,3 +1,11 @@
+---
+title: "KAOS: Large Model Multi-Agent Operating System | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-11342/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # KAOS: Large Model Multi-Agent Operating System
 
 Bibliographic record for KAOS: Large Model Multi-Agent Operating System. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhao Zhuo, Rongzhen Li, Kai Liu, Huhai Zou, KaiMao Li, Jie Yu, Tianhao Sun, Qing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-11342/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-11342/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_11342,
+  title = {{KAOS: Large Model Multi-Agent Operating System}},
+  author = {{Zhao Zhuo} and {Rongzhen Li} and {Kai Liu} and {Huhai Zou} and {KaiMao Li} and {Jie Yu} and {Tianhao Sun} and {Qingbo Wu}},
+  year = {2024},
+  eprint = {2406.11342v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.11342v3},
+  note = {First published: 2024-06-17; Recorded arXiv version: v3; Recorded version updated: 2024-08-09T01:45:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

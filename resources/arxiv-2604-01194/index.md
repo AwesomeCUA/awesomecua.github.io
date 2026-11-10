@@ -1,3 +1,11 @@
+---
+title: "AgentWatcher: A Rule-based Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-01194/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentWatcher: A Rule-based Prompt Injection Monitor
 
 Bibliographic record for AgentWatcher: A Rule-based Prompt Injection Monitor. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yanting Wang, Wei Zou, Runpeng Geng, Jinyuan Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-01194/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-01194/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_01194,
+  title = {{AgentWatcher: A Rule-based Prompt Injection Monitor}},
+  author = {{Yanting Wang} and {Wei Zou} and {Runpeng Geng} and {Jinyuan Jia}},
+  year = {2026},
+  eprint = {2604.01194v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.01194v2},
+  note = {First published: 2026-04-01; Recorded arXiv version: v2; Recorded version updated: 2026-07-25T19:27:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

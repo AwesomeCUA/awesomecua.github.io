@@ -1,3 +1,11 @@
+---
+title: "autohotkey-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # autohotkey-mcp
 
 MCP server that lets assistants list, run, stop, and draft AutoHotkey scripts for Windows input automation.

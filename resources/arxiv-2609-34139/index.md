@@ -1,3 +1,11 @@
+---
+title: "Same Tasks, Different Apps: Why Mobile GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-34139/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Same Tasks, Different Apps: Why Mobile GUI Agents Fail to Generalize?
 
 Introduces AnyAppBench, a live Android benchmark that holds user goals fixed while changing the application used to achieve them. It combines category-controlled task pairs with failure annotations to distinguish task understanding from application-specific execution skill.
@@ -26,6 +34,18 @@ Tien Tran, Namho Koh, Daiki E. Matsunaga, Ayush Jain, Kee Eung Kim
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-34139/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-34139/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34139,
+  title = {{Same Tasks, Different Apps: Why Mobile GUI Agents Fail to Generalize?}},
+  author = {{Tien Tran} and {Namho Koh} and {Daiki E. Matsunaga} and {Ayush Jain} and {Kee Eung Kim}},
+  year = {2026},
+  eprint = {2609.34139v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34139v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T02:21:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

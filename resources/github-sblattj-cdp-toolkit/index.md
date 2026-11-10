@@ -1,3 +1,11 @@
+---
+title: "cdp-toolkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sblattj-cdp-toolkit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cdp-toolkit
 
 Lightweight alternative to `chrome-devtools-mcp` that lets AI agents target and drive named Chrome tabs over CDP.

@@ -1,3 +1,11 @@
+---
+title: "Andee | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kuafuai-andee/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Andee
 
 On-device Android agent in one APK that operates any app through an accessibility service, reading an element outline or, when needed, a screenshot with a labelled 8x12 grid, on any OpenAI-compatible model.

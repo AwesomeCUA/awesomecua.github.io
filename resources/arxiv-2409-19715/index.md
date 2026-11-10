@@ -1,3 +1,11 @@
+---
+title: "Coffee-Gym: An Environment for Evaluating and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-19715/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Coffee-Gym: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code
 
 Status: excluded from the active CUA catalog after scope review.

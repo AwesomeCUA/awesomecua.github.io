@@ -1,14 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 25 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/25/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 25 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/25/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Tencent BrowserSkill](https://awesomecua.com/zh/resources/github-tencent-browserskill/)
-- [TENKA](https://awesomecua.com/zh/resources/github-om-khode-tenka/)
-- [Terminal Computer Use](https://awesomecua.com/zh/resources/github-vivekkartha-terminal-computer-use/)
-- [terminal-use-mcp](https://awesomecua.com/zh/resources/github-hlh2023-terminal-use-mcp/)
-- [Terminator](https://awesomecua.com/zh/resources/github-mediar-ai-terminator/)
 - [TestDriver SDK](https://awesomecua.com/zh/resources/github-testdriverai-testdriverai/)
 - [TestZeus Hercules](https://awesomecua.com/zh/resources/github-test-zeus-ai-testzeus-hercules/)
 - [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)
@@ -64,3 +67,8 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/25/
 - [Vadgr](https://awesomecua.com/zh/resources/github-montbrain-vadgr/)
 - [vadgr-agent-os](https://awesomecua.com/zh/resources/github-montbrain-vadgr-agent-os/)
 - [vadgr-computer-use](https://awesomecua.com/zh/resources/github-montbrain-vadgr-computer-use/)
+- [Valk](https://awesomecua.com/zh/resources/github-ercbot-valk/)
+- [vco (Visual Computer Operate)](https://awesomecua.com/zh/resources/github-lo2589-vco/)
+- [Vedanshu7 Operant](https://awesomecua.com/zh/resources/github-vedanshu7-operant/)
+- [Veeva CRM (Veeva Commercial Cloud) Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-veeva-crm-browser-automation/)
+- [Veeva Vault Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-veeva-vault-browser-automation/)

@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体数据集（第 3 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/dataset/page/3/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体数据集：第 3 页
 
 HTML 页面：https://awesomecua.com/zh/categories/dataset/page/3/ · [English](https://awesomecua.com/categories/dataset/page/3/index.md)

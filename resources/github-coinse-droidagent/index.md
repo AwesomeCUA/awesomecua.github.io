@@ -1,3 +1,11 @@
+---
+title: "DroidAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-coinse-droidagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # DroidAgent
 
 An Android GUI testing agent that explores an app from user goals, then generates test scenarios, replay scripts, and reports of its actions.

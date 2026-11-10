@@ -1,3 +1,11 @@
+---
+title: "Graph2Eval: Automatic Multimodal Task… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-00507/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs
 
 提出 Graph2Eval，通过知识图谱生成多模态智能体评估任务；Graph2Eval-Bench 包含多步网页交互任务。
@@ -27,6 +35,18 @@ Yurun Chen, Xavier Hu, Yuhan Liu, Ziqi Wang, Zeyi Liao, Lin Chen, Feng Wei, Yuxi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-00507/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-00507/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_00507,
+  title = {{Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs}},
+  author = {{Yurun Chen} and {Xavier Hu} and {Yuhan Liu} and {Ziqi Wang} and {Zeyi Liao} and {Lin Chen} and {Feng Wei} and {Yuxi Qian} and {Bo Zheng} and {Keting Yin} and {Shengyu Zhang}},
+  year = {2025},
+  eprint = {2510.00507v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.00507v3},
+  note = {First published: 2025-10-01; Recorded arXiv version: v3; Recorded version updated: 2026-03-05T05:47:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

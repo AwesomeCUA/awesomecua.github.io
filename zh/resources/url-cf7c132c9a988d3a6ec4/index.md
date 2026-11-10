@@ -1,3 +1,11 @@
+---
+title: "RICO-Screen2Words · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cf7c132c9a988d3a6ec4/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # RICO-Screen2Words
 
 RICO-Screen2Words 将 Android 应用截图与人工编写的界面摘要、应用元数据和视图层级配对，用于移动界面理解。

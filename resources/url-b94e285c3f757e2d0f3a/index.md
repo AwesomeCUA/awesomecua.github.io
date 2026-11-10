@@ -1,3 +1,11 @@
+---
+title: "UI-AGILE checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b94e285c3f757e2d0f3a/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # UI-AGILE checkpoint
 
 The released UI-AGILE model for GUI grounding with reward shaping, crop-based resampling and decomposed selection during inference.

@@ -1,3 +1,11 @@
+---
+title: "learn-workbuddy · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-adongwanai-learn-workbuddy/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # learn-workbuddy
 
 共 24 章的双语 Python 工程课程，从零构建 WorkBuddy 风格的桌面 AI 智能体测试框架。

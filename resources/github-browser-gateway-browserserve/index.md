@@ -1,3 +1,11 @@
+---
+title: "browserserve | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-gateway-browserserve/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # browserserve
 
 A self-hosted Chrome server provides isolated browser sessions over CDP for Playwright, Puppeteer, and other clients, with pooling and resource controls.

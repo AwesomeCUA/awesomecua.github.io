@@ -1,3 +1,11 @@
+---
+title: "Learning with Challenges: Adaptive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-22781/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learning with Challenges: Adaptive Difficulty-Aware Data Generation for Mobile GUI Agent Training
 
 MobileGen 评估移动智能体在结构和语义两类任务难度上的能力，再据此采样新的训练目标；可控的多智能体生成器创建对应指令和 GUI 轨迹。
@@ -27,6 +35,18 @@ Linjia Kang, Zhimin Wang, Yongkang Zhang, Duo Wu, Jinghe Wang, Ming Ma, Haopeng 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-22781/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-22781/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_22781,
+  title = {{Learning with Challenges: Adaptive Difficulty-Aware Data Generation for Mobile GUI Agent Training}},
+  author = {{Linjia Kang} and {Zhimin Wang} and {Yongkang Zhang} and {Duo Wu} and {Jinghe Wang} and {Ming Ma} and {Haopeng Yan} and {Zhi Wang}},
+  year = {2026},
+  eprint = {2601.22781v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.22781v1},
+  note = {First published: 2026-01-30; Recorded arXiv version: v1; Recorded version updated: 2026-01-30T10:03:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

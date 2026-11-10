@@ -1,3 +1,11 @@
+---
+title: "AXTree API | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amaar-mc-axtree-api/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AXTree API
 
 Event-driven macOS Accessibility tree streaming server and action bridge for computer-use agents.

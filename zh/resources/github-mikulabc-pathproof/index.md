@@ -1,3 +1,11 @@
+---
+title: "Pathproof · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mikulabc-pathproof/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Pathproof
 
 优先在本地运行的 AI 辅助网站回归问题发现套件，支持确定性的 Playwright 重放。

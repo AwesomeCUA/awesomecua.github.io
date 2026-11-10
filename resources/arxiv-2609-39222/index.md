@@ -1,3 +1,11 @@
+---
+title: "DC-SAE: Deep Compression Semantic Autoencoder… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-39222/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Wave UI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0dbb55f127da04d95222/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Wave UI
 
 Screenshot-instruction records with target boxes and UI metadata such as OCR, source, element type and platform.

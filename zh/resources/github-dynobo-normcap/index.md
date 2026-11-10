@@ -1,3 +1,11 @@
+---
+title: "NormCap · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dynobo-normcap/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # NormCap
 
 NormCap 是跨平台 OCR 屏幕捕获工具，可直接从 Linux、macOS 和 Windows 上选定的屏幕区域提取文字。

@@ -1,3 +1,11 @@
+---
+title: "Deck · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cofy-x-deck/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Deck
 
 Deck 是开源桌面控制台，用于管理隔离的本地 AI 智能体沙箱、桌面会话和开发者交接。

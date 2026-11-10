@@ -1,3 +1,11 @@
+---
+title: "Mapping Natural Language Commands to Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-1808-09132/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Mapping Natural Language Commands to Web Elements
 
 将网页上的语言定位定义为选出自然语言命令指向的 UI 元素。通过超过 50,000 条命令和 3 个基线模型，研究功能性指称、元素间关系和视觉位置线索。
@@ -27,6 +35,18 @@ Panupong Pasupat, Tian-Shun Jiang, Evan Zheran Liu, Kelvin Guu, Percy Liang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-1808-09132/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1808-09132/citation.csl.json
+
+```bibtex
+@misc{arxiv_1808_09132,
+  title = {{Mapping Natural Language Commands to Web Elements}},
+  author = {{Panupong Pasupat} and {Tian-Shun Jiang} and {Evan Zheran Liu} and {Kelvin Guu} and {Percy Liang}},
+  year = {2018},
+  eprint = {1808.09132v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1808.09132v2},
+  note = {First published: 2018-08-28; Recorded arXiv version: v2; Recorded version updated: 2018-10-01T03:22:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

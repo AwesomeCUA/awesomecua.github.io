@@ -1,3 +1,11 @@
+---
+title: "GLM-4.5V-FP8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fc8bf80ab1747df651ca/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GLM-4.5V-FP8
 
 A vision-language model release with FP8 weights whose card documents screen reading, icon recognition, desktop assistance and visual element localization.

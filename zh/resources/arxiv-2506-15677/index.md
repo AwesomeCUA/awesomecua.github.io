@@ -1,3 +1,11 @@
+---
+title: "Embodied Web Agents: Bridging… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-15677/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence
 
 提出将 3D 物理世界模拟与可操作网页界面相结合的环境；配套基准评估智能体在烹饪、导航和购物场景中协调线上信息与物理操作的任务。
@@ -27,6 +35,18 @@ Yining Hong, Rui Sun, Bingxuan Li, Xingcheng Yao, Maxine Wu, Alexander Chien, Da
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-15677/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-15677/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_15677,
+  title = {{Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence}},
+  author = {{Yining Hong} and {Rui Sun} and {Bingxuan Li} and {Xingcheng Yao} and {Maxine Wu} and {Alexander Chien} and {Da Yin} and {Ying Nian Wu} and {Zhecan James Wang} and {Kai-Wei Chang}},
+  year = {2025},
+  eprint = {2506.15677v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.15677v3},
+  note = {First published: 2025-06-18; Recorded arXiv version: v3; Recorded version updated: 2025-07-29T22:40:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

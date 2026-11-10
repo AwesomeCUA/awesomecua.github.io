@@ -1,3 +1,11 @@
+---
+title: "The Open Source Advantage in Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-12004/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Open Source Advantage in Large Language Models (LLMs)
 
 Status: excluded from the active CUA catalog after scope review.

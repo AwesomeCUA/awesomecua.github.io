@@ -1,3 +1,11 @@
+---
+title: "browser-account-guard & flaky-browser-ui · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-praticoeq-sudo-browser-account-guard/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browser-account-guard & flaky-browser-ui
 
 一对 Claude 技能，用于在智能体操作网页面板时保护账户凭据，并稳定不可靠的 UI 交互。

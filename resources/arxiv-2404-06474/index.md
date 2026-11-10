@@ -1,3 +1,11 @@
+---
+title: "Autonomous Evaluation and… (2404.06474) | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-06474/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Autonomous Evaluation and Refinement of Digital Agents
 
 Compares automatic trajectory evaluators for web navigation and device control against oracle judgments. The resulting feedback is used for agent fine-tuning and inference-time guidance, including experiments on WebArena.
@@ -26,6 +34,18 @@ Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-06474/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-06474/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_06474,
+  title = {{Autonomous Evaluation and Refinement of Digital Agents}},
+  author = {{Jiayi Pan} and {Yichi Zhang} and {Nicholas Tomlin} and {Yifei Zhou} and {Sergey Levine} and {Alane Suhr}},
+  year = {2024},
+  eprint = {2404.06474v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.06474v3},
+  note = {First published: 2024-04-09; Recorded arXiv version: v3; Recorded version updated: 2024-10-07T14:19:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

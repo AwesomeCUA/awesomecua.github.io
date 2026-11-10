@@ -1,3 +1,11 @@
+---
+title: "ContractSkill: Repairable Contract-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-20340/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents
 
 Turns draft web-agent skills into structured executable artifacts that support deterministic checks, fault localization and local repair. VisualWebArena and MiniWoB experiments examine execution and reuse within the same benchmark family.
@@ -26,6 +34,18 @@ Zijian Lu, Yiping Zuo, Yupeng Nie, Xin He, Weibei Fan, Lianyong Qi, Shi Jin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-20340/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-20340/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_20340,
+  title = {{ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents}},
+  author = {{Zijian Lu} and {Yiping Zuo} and {Yupeng Nie} and {Xin He} and {Weibei Fan} and {Lianyong Qi} and {Shi Jin}},
+  year = {2026},
+  eprint = {2603.20340v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.20340v3},
+  note = {First published: 2026-03-20; Recorded arXiv version: v3; Recorded version updated: 2026-04-15T07:34:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

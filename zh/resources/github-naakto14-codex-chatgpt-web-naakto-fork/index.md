@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Web for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-naakto14-codex-chatgpt-web-naakto-fork/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ChatGPT Web for Codex
 
 浏览器桥接工具，将已登录的 ChatGPT Web 会话作为 OpenAI Codex 的原生模型和工具提供方。

@@ -1,3 +1,11 @@
+---
+title: "OpenCSG-Qwen2.5-7B-GUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2462fb9d529bac7fa896/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpenCSG-Qwen2.5-7B-GUI
 
 这是一款面向 AutoHub 插件的浏览器自动化模型，可根据自然语言请求执行网页操作和信息检索。

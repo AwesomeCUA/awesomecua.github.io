@@ -1,3 +1,11 @@
+---
+title: "FunUI-Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/url-92241e51e909ea9ca564/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # FunUI-Benchmark
 
 FunUI is a Chinese-English benchmark built on 2,150 Chinese and 9,347 English Android screens, testing UI grounding, UI referring, screen question answering and screen summarization.

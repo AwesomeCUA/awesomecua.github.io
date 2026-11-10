@@ -1,3 +1,11 @@
+---
+title: "Council Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-christopherdent-council-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Council Bridge
 
 Council Bridge is a browser extension that routes human messages between assigned ChatGPT and Gemini tabs and captures their replies in a side panel.

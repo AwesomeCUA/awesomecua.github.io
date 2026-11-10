@@ -1,3 +1,11 @@
+---
+title: "GUIChat | AwesomeCUA"
+url: https://awesomecua.com/resources/url-edf38d43800be8c955ae/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUIChat
 
 Conversational GUI supervision with text-rich images and bounding boxes, organized as single-turn questions and multi-turn dialogues.

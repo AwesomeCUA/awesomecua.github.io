@@ -1,3 +1,11 @@
+---
+title: "Interpreter Workstation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Interpreter Workstation
 
 Interpreter Workstation is a desktop agent workspace that connects to local or remote computers and combines an agent runtime with browser access and file and app controls.

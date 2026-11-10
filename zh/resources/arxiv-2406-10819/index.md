@@ -1,3 +1,11 @@
+---
+title: "GUI-World: A Video Benchmark and Dataset… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-10819/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding
 
 提出基于视频的 GUI 问题及标注，用于研究不同交互场景下对界面时序变化的理解。
@@ -27,6 +35,18 @@ Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-10819/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-10819/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_10819,
+  title = {{GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding}},
+  author = {{Dongping Chen} and {Yue Huang} and {Siyuan Wu} and {Jingyu Tang} and {Liuyi Chen} and {Yilin Bai} and {Zhigang He} and {Chenlong Wang} and {Huichi Zhou} and {Yiqiang Li} and {Tianshuo Zhou} and {Yue Yu} and {Chujie Gao} and {Qihui Zhang} and {Yi Gui} and {Zhen Li} and {Yao Wan} and {Pan Zhou} and {Jianfeng Gao} and {Lichao Sun}},
+  year = {2024},
+  eprint = {2406.10819v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.10819v2},
+  note = {First published: 2024-06-16; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T11:46:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

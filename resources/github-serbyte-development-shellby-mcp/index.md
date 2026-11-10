@@ -1,3 +1,11 @@
+---
+title: "Shellby MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-serbyte-development-shellby-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Shellby MCP
 
 Local Model Context Protocol server that turns ChatGPT Web into a local coding and computer-control agent.

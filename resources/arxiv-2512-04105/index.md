@@ -1,3 +1,11 @@
+---
+title: "LegalWebAgent: Empowering Access to Justice… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-04105/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents
 
 LegalWebAgent separates user-needs clarification, webpage browsing, and actions such as form completion or scheduling. A 15-task evaluation studies legal-service workflows relevant to Québec civil-law users, using HTML and screenshot observations.
@@ -26,6 +34,18 @@ Jinzhe Tan, Karim Benyekhlef
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-04105/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-04105/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_04105,
+  title = {{LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents}},
+  author = {{Jinzhe Tan} and {Karim Benyekhlef}},
+  year = {2025},
+  eprint = {2512.04105v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.04105v1},
+  note = {First published: 2025-11-28; Recorded arXiv version: v1; Recorded version updated: 2025-11-28T07:26:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

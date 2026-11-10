@@ -1,3 +1,11 @@
+---
+title: "GISAgentBench: A Practitioner-Sourced… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-01645/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GISAgentBench: A Practitioner-Sourced Benchmark for Evaluating LLM Agents on GIS Tasks
 
 Bibliographic record for GISAgentBench: A Practitioner-Sourced Benchmark for Evaluating LLM Agents on GIS Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Abhinav Pothuri, Zhe Jiang, Zelin Xu, Di Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-01645/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-01645/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_01645,
+  title = {{GISAgentBench: A Practitioner-Sourced Benchmark for Evaluating LLM Agents on GIS Tasks}},
+  author = {{Abhinav Pothuri} and {Zhe Jiang} and {Zelin Xu} and {Di Yang}},
+  year = {2026},
+  eprint = {2608.01645v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.01645v1},
+  note = {First published: 2026-08-03; Recorded arXiv version: v1; Recorded version updated: 2026-08-03T03:31:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

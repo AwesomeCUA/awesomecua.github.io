@@ -1,3 +1,11 @@
+---
+title: "Pi-WM (Wuming Agent Desktop) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-333-wg-pi-wm/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Pi-WM (Wuming Agent Desktop)
 
 Desktop AI agent workspace built on `pi-agent` for local task execution and browser automation.

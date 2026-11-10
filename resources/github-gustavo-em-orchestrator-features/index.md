@@ -1,3 +1,11 @@
+---
+title: "Orquestrador de Features | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gustavo-em-orchestrator-features/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Orquestrador de Features
 
 Multi-agent loop that plans React Native mobile features, writes code, drives the simulator UI, and verifies visual results.

@@ -1,3 +1,11 @@
+---
+title: "Kimi-VL-A3B-Thinking-2506 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fb5921fec3f7c313ab5b/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Kimi-VL-A3B-Thinking-2506
 
 A multimodal reasoning model with released weights and high-resolution image input. Its authors report GUI grounding evaluations on ScreenSpot-Pro, ScreenSpot-V2 and OSWorld-G.

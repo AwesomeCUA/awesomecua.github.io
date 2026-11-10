@@ -1,3 +1,11 @@
+---
+title: "Windows-MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cursortouch-windows-mcp/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # Windows-MCP
 
 面向智能体的 Windows MCP 桥接工具，提供应用、窗口、键盘和鼠标操作，以及原生 UI 状态检查。

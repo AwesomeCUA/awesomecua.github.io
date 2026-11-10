@@ -1,3 +1,11 @@
+---
+title: "OSUniverse: Benchmark for Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-03570/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents
 
 Introduces OSUniverse, a desktop GUI benchmark spanning precise clicks through multistep and multiapplication tasks. It provides both manual scoring and an automated validation mechanism.
@@ -26,6 +34,18 @@ Mariya Davydova, Daniel Jeffries, Patrick Barker, Arturo Márquez Flores, Sinéa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-03570/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-03570/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_03570,
+  title = {{OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents}},
+  author = {{Mariya Davydova} and {Daniel Jeffries} and {Patrick Barker} and {Arturo Márquez Flores} and {Sinéad Ryan}},
+  year = {2025},
+  eprint = {2505.03570v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.03570v1},
+  note = {First published: 2025-05-06; Recorded arXiv version: v1; Recorded version updated: 2025-05-06T14:29:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

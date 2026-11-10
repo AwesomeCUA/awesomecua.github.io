@@ -1,3 +1,11 @@
+---
+title: "Bounded Multimodal Desktop GUI Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Bounded Multimodal Desktop GUI Agent
 
 基于 LangChain 和 LangGraph 构建的有边界多模态桌面 GUI 智能体，具备 OCR 定位、动作安全检查及 Mind2Web/ScreenAgent 评测。

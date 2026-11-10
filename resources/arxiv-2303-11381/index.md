@@ -1,3 +1,11 @@
+---
+title: "MM-REACT: Prompting ChatGPT for Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-11381/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action
 
 Status: excluded from the active CUA catalog after scope review.

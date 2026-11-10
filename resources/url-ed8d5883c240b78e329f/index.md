@@ -1,3 +1,11 @@
+---
+title: "Holo2 30B-A3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ed8d5883c240b78e329f/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo2 30B-A3B
 
 Mixture-of-experts Holo2 checkpoint fine-tuned from Qwen3-VL-30B-A3B-Thinking through supervised and online RL stages for UI element localization and multi-step navigation on web, desktop and mobile screens.

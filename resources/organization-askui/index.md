@@ -1,3 +1,11 @@
+---
+title: "AskUI (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-askui/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # AskUI
 
 Publisher or product brand associated with AskUI computer-use or browser automation offerings.

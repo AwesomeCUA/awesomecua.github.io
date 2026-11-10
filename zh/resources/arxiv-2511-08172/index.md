@@ -1,3 +1,11 @@
+---
+title: "An Efficient Training Pipeline for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-08172/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # An Efficient Training Pipeline for Reasoning Graphical User Interface Agents
 
 GUI 定位训练流程从 4.8M 条合成样本中筛出 12K 条训练数据，微调 3B 参数视觉语言模型，并在 ScreenSpot、Multimodal-Mind2Web 和 AndroidControl 上评估。
@@ -27,6 +35,18 @@ Georgios Pantazopoulos, Eda B. Özyiğit
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-08172/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-08172/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_08172,
+  title = {{An Efficient Training Pipeline for Reasoning Graphical User Interface Agents}},
+  author = {{Georgios Pantazopoulos} and {Eda B. Özyiğit}},
+  year = {2025},
+  eprint = {2511.08172v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.08172v3},
+  note = {First published: 2025-11-11; Recorded arXiv version: v3; Recorded version updated: 2025-11-14T07:05:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

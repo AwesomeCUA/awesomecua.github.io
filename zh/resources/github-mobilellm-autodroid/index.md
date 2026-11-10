@@ -1,3 +1,11 @@
+---
+title: "AutoDroid · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobilellm-autodroid/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # AutoDroid
 
 基于 DroidBot 的 LLM 驱动 Android 任务自动化系统，随附 DroidTask 数据集，包含各应用的截图、视图层级、探索记录和任务真值文件。

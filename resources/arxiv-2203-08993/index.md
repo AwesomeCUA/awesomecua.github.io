@@ -1,3 +1,11 @@
+---
+title: "Measurement-based quantum computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-08993/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Measurement-based quantum computation using two-component BECs
 
 Status: excluded from the active CUA catalog after scope review.

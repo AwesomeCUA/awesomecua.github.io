@@ -1,3 +1,11 @@
+---
+title: "Evaluation — computer-use research, page 17 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/17/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 17
 
 HTML page: https://awesomecua.com/topics/evaluation/page/17/
@@ -53,7 +61,6 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [MobileWorldBench](https://awesomecua.com/resources/github-jacklishufan-mobileworld/)
 - [MWMBench](https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/)
 - [MyPCBench](https://awesomecua.com/resources/github-ljang0-mypcbench/)
-- [Navi-Bench](https://awesomecua.com/resources/github-yutori-ai-navi-bench/)
 - [Next-Gen CAPTCHAs](https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/)
 - [Nightshift](https://awesomecua.com/resources/github-yayaq1-nightshift/)
 - [Odysseys](https://awesomecua.com/resources/github-ljang0-odysseys/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/)
 - [Open Operator Evals](https://awesomecua.com/resources/github-nottelabs-open-operator-evals/)
 - [Open User](https://awesomecua.com/resources/github-tiacoo-open-user/)
+- [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/)

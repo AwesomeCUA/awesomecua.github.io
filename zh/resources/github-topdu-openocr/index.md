@@ -1,3 +1,11 @@
+---
+title: "OpenOCR · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-topdu-openocr/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OpenOCR
 
 OpenOCR 是开源的场景和文档文本检测、识别及 VLM-OCR 工具包，用于解析屏幕文本。

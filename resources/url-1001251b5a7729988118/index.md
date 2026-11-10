@@ -1,3 +1,11 @@
+---
+title: "Salesforce Grounding Dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1001251b5a7729988118/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Salesforce Grounding Dataset
 
 GUI grounding set that merges Aria-UI, OmniAct, Widget Caption, UI-Vision and OS-Atlas screenshots into target boxes with action, appearance, function and combined instructions, cited to GTA1.

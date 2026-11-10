@@ -1,3 +1,11 @@
+---
+title: "Mano-CUA-2.0-4B-MLX-8bit | AwesomeCUA"
+url: https://awesomecua.com/resources/url-430e47e1ca9f3b2a302f/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Mano-CUA-2.0-4B-MLX-8bit
 
 An MLX-quantized Mano-CUA model for Apple Silicon that reads screenshots and task instructions to produce structured GUI actions.

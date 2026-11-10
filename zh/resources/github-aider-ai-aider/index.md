@@ -1,3 +1,11 @@
+---
+title: "Aider · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aider-ai-aider/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Aider
 
 Aider 是一款 AI 结对编程 CLI 和浏览器智能体，可梳理代码仓库、编辑多文件代码库，并运行代码检查器和测试套件。

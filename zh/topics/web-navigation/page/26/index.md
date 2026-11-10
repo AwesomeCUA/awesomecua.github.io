@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 26 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/26/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 26 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/26/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Recallo](https://awesomecua.com/zh/resources/github-tianqi-bu-recallo/)
-- [recast](https://awesomecua.com/zh/resources/github-yagna-1-recast/)
 - [Recruit Auto-Reply](https://awesomecua.com/zh/resources/github-kxc7558-recruit-auto-reply/)
 - [REDLINE WebMCP](https://awesomecua.com/zh/resources/github-eloiramos-redline/)
 - [Reqvexa](https://awesomecua.com/zh/resources/github-kareemheshaam-reqvexa/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/26/
 - [Shiny Fishstick](https://awesomecua.com/zh/resources/github-hootsworth-shiny-fishstick/)
 - [shoal](https://awesomecua.com/zh/resources/github-raynan00-shoal/)
 - [SideButton](https://awesomecua.com/zh/resources/github-sidebutton-sidebutton/)
+- [Signett](https://awesomecua.com/zh/resources/github-signettai-signett/)
+- [Signpost WebMCP](https://awesomecua.com/zh/resources/github-zioladev-signpost/)

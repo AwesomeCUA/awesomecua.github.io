@@ -1,3 +1,11 @@
+---
+title: "BrowserART · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dec73112f4c2dad889cb/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # BrowserART
 
 一个用于浏览器智能体安全红队评测的数据集，包含 100 种有害的浏览器相关行为，覆盖真实网站与合成网站。

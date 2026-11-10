@@ -1,3 +1,11 @@
+---
+title: "UltraCUA: A Foundation Model for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-17790/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action
 
 UltraCUA 利用合成任务和混合轨迹，训练兼顾基础 GUI 操作与高层工具调用的共享策略。监督微调后接在线强化学习，并在 OSWorld 和 WindowsAgentArena 上评估。
@@ -27,6 +35,18 @@ Yuhao Yang, Zhen Yang, Zi-Yi Dou, Anh Nguyen, Keen You, Omar Attia, Andrew Szot,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-17790/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-17790/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_17790,
+  title = {{UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action}},
+  author = {{Yuhao Yang} and {Zhen Yang} and {Zi-Yi Dou} and {Anh Nguyen} and {Keen You} and {Omar Attia} and {Andrew Szot} and {Michael Feng} and {Ram Ramrakhya} and {Alexander Toshev} and {Chao Huang} and {Yinfei Yang} and {Zhe Gan}},
+  year = {2025},
+  eprint = {2510.17790v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.17790v3},
+  note = {First published: 2025-10-20; Recorded arXiv version: v3; Recorded version updated: 2026-05-26T11:29:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

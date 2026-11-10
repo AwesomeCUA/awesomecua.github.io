@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-30B-A3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4d7042b462e937c33406/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-30B-A3B
 
 InternVL3.5 多模态模型权重，参数规模标为 30.8B-A3B，经过 CPT、SFT 和 Cascade RL 训练。论文报告了它在 ScreenSpot、OSWorld-G 和 WindowsAgentArena 上的 GUI 定位与智能体结果。

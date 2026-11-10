@@ -1,3 +1,11 @@
+---
+title: "Claude Chrome Stream | AwesomeCUA"
+url: https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Claude Chrome Stream
 
 A Chrome automation plugin for computer-use agents that streams browser frames through CDP and links actions to frame IDs. It includes commands and MCP tools.

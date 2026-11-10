@@ -1,3 +1,11 @@
+---
+title: "Vision Search Assistant: Empower… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-21220/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines
 
 Bibliographic record for Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhixin Zhang, Yiyuan Zhang, Xiaohan Ding, Xiangyu Yue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-21220/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-21220/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_21220,
+  title = {{Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines}},
+  author = {{Zhixin Zhang} and {Yiyuan Zhang} and {Xiaohan Ding} and {Xiangyu Yue}},
+  year = {2024},
+  eprint = {2410.21220v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.21220v1},
+  note = {First published: 2024-10-28; Recorded arXiv version: v1; Recorded version updated: 2024-10-28T17:04:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

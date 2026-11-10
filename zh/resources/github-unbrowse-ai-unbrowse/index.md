@@ -1,3 +1,11 @@
+---
+title: "Unbrowse · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-unbrowse-ai-unbrowse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Unbrowse
 
 Unbrowse 捕获浏览器网络流量，逆向分析网站内部 API，并将其转化为供 AI 智能体直接调用的工具。

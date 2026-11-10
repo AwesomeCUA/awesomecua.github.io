@@ -1,3 +1,11 @@
+---
+title: "Enabling Conversational Interaction with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2209-08655/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Enabling Conversational Interaction with Mobile UI using Large Language Models
 
 Studies few-shot prompting of a single language model for four mobile-UI interaction tasks, aiming to support conversational interface use without a separate trained model for each task.
@@ -26,6 +34,18 @@ Bryan Wang, Gang Li, Yang Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2209-08655/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2209-08655/citation.csl.json
+
+```bibtex
+@misc{arxiv_2209_08655,
+  title = {{Enabling Conversational Interaction with Mobile UI using Large Language Models}},
+  author = {{Bryan Wang} and {Gang Li} and {Yang Li}},
+  year = {2022},
+  eprint = {2209.08655v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2209.08655v2},
+  note = {First published: 2022-09-18; Recorded arXiv version: v2; Recorded version updated: 2023-02-17T21:24:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

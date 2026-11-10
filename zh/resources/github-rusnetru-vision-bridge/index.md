@@ -1,3 +1,11 @@
+---
+title: "vision-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rusnetru-vision-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # vision-bridge
 
 统一的 Windows 视觉与动作 MCP 服务器，供 AI 智能体检查桌面窗口并发送鼠标和键盘事件。

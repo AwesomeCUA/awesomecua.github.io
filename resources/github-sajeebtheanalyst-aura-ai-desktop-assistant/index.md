@@ -1,3 +1,11 @@
+---
+title: "AURA Voice AI Desktop Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sajeebtheanalyst-aura-ai-desktop-assistant/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AURA Voice AI Desktop Assistant
 
 Multilingual frameless desktop AI assistant for Windows supporting voice commands and GUI task automation.

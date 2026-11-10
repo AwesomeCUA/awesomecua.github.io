@@ -1,10 +1,17 @@
+---
+title: "Screen understanding — computer-use…, page 16 | AwesomeCUA"
+url: https://awesomecua.com/topics/screen-understanding/page/16/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Screen understanding — computer-use research, page 16
 
 HTML page: https://awesomecua.com/topics/screen-understanding/page/16/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
-- [Smouj AgentBrowser](https://awesomecua.com/resources/github-smouj-agent-browser/)
 - [SnapDOM](https://awesomecua.com/resources/github-zumerlab-snapdom/)
 - [SnapEye](https://awesomecua.com/resources/github-zumerlab-snapeye/)
 - [Snapgrab](https://awesomecua.com/resources/github-quartzunit-snapgrab/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [Vigil](https://awesomecua.com/resources/github-bofstudios-vigil/)
 - [Vision Browser Agent](https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/)
 - [Vision Primitives MCP](https://awesomecua.com/resources/github-zouyuanqing-vision-primitives-mcp/)
+- [Vision UI](https://awesomecua.com/resources/github-meituan-dianping-vision-ui/)

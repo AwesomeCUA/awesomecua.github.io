@@ -1,3 +1,11 @@
+---
+title: "Domain-Conditioned Safety in Frontier… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-05233/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming
 
 Introduces CUA-HandCrafted, a browser-agent red-teaming benchmark that varies attack templates, tasks and system prompts. Its domain comparison and reproducibility audit caution against transferring browser-surface safety conclusions to coding agents or unreleased optimized injections.
@@ -26,6 +34,18 @@ Nicholas Saban
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-05233/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-05233/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05233,
+  title = {{Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming}},
+  author = {{Nicholas Saban}},
+  year = {2026},
+  eprint = {2606.05233v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05233v1},
+  note = {First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T01:21:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

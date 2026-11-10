@@ -1,3 +1,11 @@
+---
+title: "Colossus · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-richardanaya-colossus/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Colossus
 
 Colossus 是语音控制的多智能体开发平台，用于协调软件工程任务。

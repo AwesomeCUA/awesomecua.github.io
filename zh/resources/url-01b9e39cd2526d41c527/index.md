@@ -1,3 +1,11 @@
+---
+title: "WorkArena-Instances · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WorkArena-Instances
 
 这套受限访问的 ServiceNow 实例用于运行 WorkArena 基准评估；仓库提供实例信息，并说明研究使用条件。

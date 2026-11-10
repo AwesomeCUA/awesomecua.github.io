@@ -1,13 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 24 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/24/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 24 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/24/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [xiyiyiru chrome-mcp (DrissionPage MCP)](https://awesomecua.com/zh/resources/github-xiyiyiru-chrome-mcp/)
-- [ydotool](https://awesomecua.com/zh/resources/github-reimunotmoe-ydotool/)
-- [Your Browser Agent](https://awesomecua.com/zh/resources/github-rakeshnirzari1-your-browser-agent/)
-- [yu-tao-li dsh-computer-use-win](https://awesomecua.com/zh/resources/github-yu-tao-li-dsh-computer-use-win/)
 - [Yurei](https://awesomecua.com/zh/resources/github-memel06-yurei/)
 - [Yutori](https://awesomecua.com/zh/resources/url-eff580f3185f2a36c265/)
 - [Zavora Computer Use MCP](https://awesomecua.com/zh/resources/github-zavora-ai-computer-use-mcp/)
@@ -17,7 +21,6 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/24/
 - [ZennoBrowser MCP Server](https://awesomecua.com/zh/resources/github-zennolab-zennobrowser-mcp-server/)
 - [ZennoPoster MCP](https://awesomecua.com/zh/resources/github-zennolab-zennoposter-mcp/)
 - [zetakai desktop-mcp](https://awesomecua.com/zh/resources/github-zetakai-desktop-mcp/)
-- [ZetaTron](https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/)
 - [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/zh/resources/github-shenkemin-sketch-zhuque-recruiting/)
 - [ZRui-C DSH Computer Use](https://awesomecua.com/zh/resources/github-zrui-c-dsh-computer-use/)
 - [zseven-w DSH Browser](https://awesomecua.com/zh/resources/github-zseven-w-dsh-browser/)

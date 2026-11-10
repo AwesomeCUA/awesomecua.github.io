@@ -1,3 +1,11 @@
+---
+title: "AdvAgent (AdvWeb) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-secure-advweb/
+updated: 2026-11-02
+type: framework
+lang: zh-CN
+---
+
 # AdvAgent (AdvWeb)
 
 黑盒对抗性提示注入红队框架，用于训练和评测针对 VLM 网页智能体的可控攻击。

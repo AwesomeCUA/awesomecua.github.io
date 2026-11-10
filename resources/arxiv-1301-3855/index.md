@@ -1,3 +1,11 @@
+---
+title: "Likelihood Computations Using Value… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1301-3855/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Likelihood Computations Using Value Abstractions
 
 Status: excluded from the active CUA catalog after scope review.

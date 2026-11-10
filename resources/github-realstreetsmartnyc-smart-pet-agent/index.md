@@ -1,3 +1,11 @@
+---
+title: "Smart Pet Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-realstreetsmartnyc-smart-pet-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Smart Pet Agent
 
 Local-first ambient desktop pet agent that observes workspace context and automates routine desktop actions.

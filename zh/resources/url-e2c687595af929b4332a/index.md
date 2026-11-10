@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_8b_SFT · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e2c687595af929b4332a/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # GUI_Reflection_8b_SFT
 
 GUI Reflection 的最终智能体检查点，基于 InternVL，在反思与纠错数据上训练后，根据截图和任务目标预测移动端 GUI 动作。

@@ -1,3 +1,11 @@
+---
+title: "BetterBench: Assessing AI Benchmarks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-12990/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # BetterBench: Assessing AI Benchmarks, Uncovering Issues, and Establishing Best Practices
 
 Status: excluded from the active CUA catalog after scope review.

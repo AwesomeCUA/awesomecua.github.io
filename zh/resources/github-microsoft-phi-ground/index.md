@@ -1,3 +1,11 @@
+---
+title: "Phi-Ground · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-phi-ground/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Phi-Ground
 
 微软在涵盖数据收集到模型训练的 GUI 定位训练实证研究中开发的模型，以 Phi-Ground-4B-7C 发布，并附评估代码。

@@ -1,3 +1,11 @@
+---
+title: "Eagle | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nvlabs-eagle/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Eagle
 
 Eagle is a vision-language model family that includes LocateAnything, a grounding component documented for locating GUI elements alongside other visual targets.

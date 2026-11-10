@@ -1,3 +1,11 @@
+---
+title: "DroidBot-GPT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobilellm-droidbot-gpt/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DroidBot-GPT
 
 DroidBot-GPT 将 DroidBot UI 状态提取功能与大语言模型连接，以自动执行跨 Android 应用的多步骤任务。

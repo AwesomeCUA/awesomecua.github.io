@@ -1,3 +1,11 @@
+---
+title: "InstructExcel: A Benchmark for Natural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-14495/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # InstructExcel: A Benchmark for Natural Language Instruction in Excel
 
 Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from natural-language requests, built using scripts recorded from user actions and a collection of existing spreadsheets.
@@ -26,6 +34,18 @@ Justin Payan, Swaroop Mishra, Mukul Singh, Carina Negreanu, Christian Poelitz, C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-14495/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-14495/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_14495,
+  title = {{InstructExcel: A Benchmark for Natural Language Instruction in Excel}},
+  author = {{Justin Payan} and {Swaroop Mishra} and {Mukul Singh} and {Carina Negreanu} and {Christian Poelitz} and {Chitta Baral} and {Subhro Roy} and {Rasika Chakravarthy} and {Benjamin Van Durme} and {Elnaz Nouri}},
+  year = {2023},
+  eprint = {2310.14495v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.14495v1},
+  note = {First published: 2023-10-23; Recorded arXiv version: v1; Recorded version updated: 2023-10-23T02:00:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

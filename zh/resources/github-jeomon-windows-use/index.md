@@ -1,3 +1,11 @@
+---
+title: "Windows-Use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeomon-windows-use/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Windows-Use
 
 Python 智能体通过 UI Automation 树操作 Windows 应用，也可结合截图，由 LLM 选择点击、输入、滚动、快捷键、窗口操作和 PowerShell 命令。

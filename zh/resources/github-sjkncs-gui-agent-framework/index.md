@@ -1,3 +1,11 @@
+---
+title: "GUI Agent Framework · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sjkncs-gui-agent-framework/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # GUI Agent Framework
 
 模块化、基于组件块的 GUI 自动化框架，结合 VLM 屏幕感知、LLM 规划、Playwright 浏览器控制和桌面操作。

@@ -1,3 +1,11 @@
+---
+title: "OS-Copilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-os-copilot-os-copilot/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # OS-Copilot
 
 Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.

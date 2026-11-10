@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager/OpenWebVoyager-IL | AwesomeCUA"
+url: https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpenWebVoyager/OpenWebVoyager-IL
 
 An Idefics2-based multimodal web-agent checkpoint trained by imitation learning on trajectories collected with a web-agent framework.

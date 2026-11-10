@@ -1,3 +1,11 @@
+---
+title: "GenPark Viewport Occlusion Resolver Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpha-park-genpark-visual-viewport-element-occlusion-resolver-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GenPark Viewport Occlusion Resolver Skill
 
 Agent skill that detects viewport element occlusion and dismisses blocking modals or cookie banners before clicking.

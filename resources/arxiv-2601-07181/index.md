@@ -1,3 +1,11 @@
+---
+title: "ShowUI-Aloha: Human-Taught GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-07181/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ShowUI-Aloha: Human-Taught GUI Agent
 
 Transforms human screen recordings and input events into annotated demonstrations used by planning and execution components for GUI tasks.
@@ -26,6 +34,18 @@ Yichun Zhang, Xiangwu Guo, Yauhong Goh, Jessica Hu, Zhiheng Chen, Xin Wang, Dife
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-07181/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-07181/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_07181,
+  title = {{ShowUI-Aloha: Human-Taught GUI Agent}},
+  author = {{Yichun Zhang} and {Xiangwu Guo} and {Yauhong Goh} and {Jessica Hu} and {Zhiheng Chen} and {Xin Wang} and {Difei Gao} and {Mike Zheng Shou}},
+  year = {2026},
+  eprint = {2601.07181v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.07181v1},
+  note = {First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T04:04:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "terminal-use-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hlh2023-terminal-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # terminal-use-mcp
 
 用于交互式终端计算机使用的 Model Context Protocol 服务器，使 AI 智能体能够操作 vim、htop 和 lazygit 等全屏 TUI 应用。

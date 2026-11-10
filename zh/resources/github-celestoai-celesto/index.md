@@ -1,3 +1,11 @@
+---
+title: "Celesto · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-celestoai-celesto/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Celesto
 
 Celesto 为 AI 智能体配置安全、持久的虚拟桌面计算机和浏览器沙箱。

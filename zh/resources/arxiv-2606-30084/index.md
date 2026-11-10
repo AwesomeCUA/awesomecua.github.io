@@ -1,3 +1,11 @@
+---
+title: "One Forward Beats Two: InnerZoom for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-30084/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding
 
 InnerZoom 保留解码器中间层的目标区域线索，并在坐标解码时重新注入压缩的证据状态。研究比较了其单次前向推理的 GUI 定位方法与裁剪后重新推理的缩放方法，以及匹配的监督学习和 RL 基线在准确率与推理成本上的表现。
@@ -27,6 +35,18 @@ Chen Liu, Ling Chen, Hanzhang Zhou, Liangyu Chen, Chenglin Cai, Xin Yu, Steven H
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-30084/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-30084/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_30084,
+  title = {{One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding}},
+  author = {{Chen Liu} and {Ling Chen} and {Hanzhang Zhou} and {Liangyu Chen} and {Chenglin Cai} and {Xin Yu} and {Steven Hoi} and {Yue Wang}},
+  year = {2026},
+  eprint = {2606.30084v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.30084v1},
+  note = {First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T10:20:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

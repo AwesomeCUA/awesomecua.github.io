@@ -1,3 +1,11 @@
+---
+title: "Towards a Science of AI Agent Reliability | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-16666/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Towards a Science of AI Agent Reliability
 
 Bibliographic record for Towards a Science of AI Agent Reliability. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Stephan Rabanser, Sayash Kapoor, Peter Kirgis, Kangheng Liu, Saiteja Utpala, Arv
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-16666/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-16666/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_16666,
+  title = {{Towards a Science of AI Agent Reliability}},
+  author = {{Stephan Rabanser} and {Sayash Kapoor} and {Peter Kirgis} and {Kangheng Liu} and {Saiteja Utpala} and {Arvind Narayanan}},
+  year = {2026},
+  eprint = {2602.16666v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.16666v3},
+  note = {First published: 2026-02-18; Recorded arXiv version: v3; Recorded version updated: 2026-06-02T02:15:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

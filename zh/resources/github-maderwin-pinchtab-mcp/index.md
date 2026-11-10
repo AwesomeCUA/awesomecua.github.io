@@ -1,3 +1,11 @@
+---
+title: "pinchtab-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maderwin-pinchtab-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pinchtab-mcp
 
 面向 PinchTab 的 Model Context Protocol 服务器，使 AI 智能体能够通过无障碍树和 CDP 控制 Chromium 浏览器。

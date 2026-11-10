@@ -1,3 +1,11 @@
+---
+title: "Load Balancing For High Performance Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-05278/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Load Balancing For High Performance Computing Using Quantum Annealing
 
 Status: excluded from the active CUA catalog after scope review.

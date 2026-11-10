@@ -1,3 +1,11 @@
+---
+title: "Retriever AI (rtrvr.ai) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4f3ce151a13cba635e74/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Retriever AI (rtrvr.ai)
 
 Browser agent from Retriever AI that runs in a Chrome extension on the user's signed-in sessions or in cloud browsers, reading page structure to click, type and fill forms; also callable through an API and MCP.

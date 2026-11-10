@@ -1,3 +1,11 @@
+---
+title: "Advancing Mobile GUI Agents: A… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-15937/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment
 
 提出 V-Droid，在离散操作空间中验证候选操作。
@@ -27,6 +35,18 @@ Gaole Dai, Shiqi Jiang, Ting Cao, Yuanchun Li, Yuqing Yang, Rui Tan, Mo Li, Lili
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-15937/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-15937/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_15937,
+  title = {{Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment}},
+  author = {{Gaole Dai} and {Shiqi Jiang} and {Ting Cao} and {Yuanchun Li} and {Yuqing Yang} and {Rui Tan} and {Mo Li} and {Lili Qiu}},
+  year = {2025},
+  eprint = {2503.15937v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.15937v5},
+  note = {First published: 2025-03-20; Recorded arXiv version: v5; Recorded version updated: 2026-02-21T01:36:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

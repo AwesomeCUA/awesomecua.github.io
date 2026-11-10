@@ -1,3 +1,11 @@
+---
+title: "AndroidGen: Building an Android Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-19298/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AndroidGen: Building an Android Language Agent under Data Scarcity
 
 Bibliographic record for AndroidGen: Building an Android Language Agent under Data Scarcity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hanyu Lai, Junjie Gao, Xiao Liu, Yifan Xu, Shudan Zhang, Yuxiao Dong, Jie Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-19298/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-19298/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_19298,
+  title = {{AndroidGen: Building an Android Language Agent under Data Scarcity}},
+  author = {{Hanyu Lai} and {Junjie Gao} and {Xiao Liu} and {Yifan Xu} and {Shudan Zhang} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2025},
+  eprint = {2504.19298v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.19298v1},
+  note = {First published: 2025-04-27; Recorded arXiv version: v1; Recorded version updated: 2025-04-27T16:30:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3-VL-8B… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-058cb7a92cba506f9739/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard SFT
 
 THUDM ScaleCUA 的 Qwen3-VL-8B 监督学习检查点，作为其 ScienceBoard 计算机使用智能体在线 RL 训练的初始模型发布。

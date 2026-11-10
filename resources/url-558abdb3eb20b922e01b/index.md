@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-14B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-558abdb3eb20b922e01b/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-14B
 
 InternVL3.5 multimodal checkpoint with 15.1B total parameters, trained with CPT, SFT and Cascade RL. The paper reports its GUI grounding and agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.

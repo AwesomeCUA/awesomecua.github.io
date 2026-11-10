@@ -1,3 +1,11 @@
+---
+title: "Exploring Agentic Workflows for Generating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-09839/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Exploring Agentic Workflows for Generating High Quality Math Visual Aids
 
 Bibliographic record for Exploring Agentic Workflows for Generating High Quality Math Visual Aids. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Rizwaan Malik, Ashna Khetan, Isabel Sieh, Samin Khan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-09839/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-09839/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_09839,
+  title = {{Exploring Agentic Workflows for Generating High Quality Math Visual Aids}},
+  author = {{Rizwaan Malik} and {Ashna Khetan} and {Isabel Sieh} and {Samin Khan}},
+  year = {2026},
+  eprint = {2607.09839v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.09839v1},
+  note = {First published: 2026-07-10; Recorded arXiv version: v1; Recorded version updated: 2026-07-10T17:12:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

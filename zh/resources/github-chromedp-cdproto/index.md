@@ -1,3 +1,11 @@
+---
+title: "cdproto · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chromedp-cdproto/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # cdproto
 
 cdproto 是一个 Go 软件包，提供生成的 Chrome DevTools Protocol 命令、类型和事件，用于控制浏览器会话。

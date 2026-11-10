@@ -1,3 +1,11 @@
+---
+title: "WeVisCut: The Whole Editing Room in One Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-38352/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video
 
 Bibliographic record for WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenyu Mu, Wenming Weng, Qinrui Wang, Xingsong Ye, Hao Yu, Jun He, Chong Sun, Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-38352/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-38352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_38352,
+  title = {{WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video}},
+  author = {{Chenyu Mu} and {Wenming Weng} and {Qinrui Wang} and {Xingsong Ye} and {Hao Yu} and {Jun He} and {Chong Sun} and {Chen Li} and {Jing Lyu} and {Erkun Yang} and {Cheng Deng}},
+  year = {2026},
+  eprint = {2610.38352v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.38352v1},
+  note = {First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T06:51:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

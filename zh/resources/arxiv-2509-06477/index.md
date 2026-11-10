@@ -1,3 +1,11 @@
+---
+title: "MAS-Bench: A Unified Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-06477/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents
 
 MAS-Bench 评估结合 GUI 操作、API、深层链接和可复用脚本的移动智能体；覆盖 11 款应用的 139 项任务，测试其使用 88 个预定义快捷方式及生成新可复用流程的能力。
@@ -27,6 +35,18 @@ Pengxiang Zhao, Guangyi Liu, YaoZhen Liang, Weiqing He, Zhengxi Lu, WenHao Wang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-06477/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-06477/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_06477,
+  title = {{MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents}},
+  author = {{Pengxiang Zhao} and {Guangyi Liu} and {YaoZhen Liang} and {Weiqing He} and {Zhengxi Lu} and {WenHao Wang} and {Yuehao Huang} and {Yuxiang Chai} and {Zhaolu Kang} and {Yaxuan Guo} and {Hao Wang} and {Kexin Zhang} and {Liang Liu} and {Yong Liu}},
+  year = {2025},
+  eprint = {2509.06477v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.06477v2},
+  note = {First published: 2025-09-08; Recorded arXiv version: v2; Recorded version updated: 2026-04-15T11:26:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

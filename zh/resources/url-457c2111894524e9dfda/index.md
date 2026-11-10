@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_plan_iterative · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-457c2111894524e9dfda/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_unified_plan_iterative
 
 一个已发布的 Lumos 规划模型检查点，针对网页智能体任务以及问答、多模态和数学任务进行了微调。

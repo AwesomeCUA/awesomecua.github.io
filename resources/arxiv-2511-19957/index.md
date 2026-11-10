@@ -1,3 +1,11 @@
+---
+title: "AppSelectBench: Application-Level Tool… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-19957/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AppSelectBench: Application-Level Tool Selection Benchmark
 
 AppSelectBench evaluates whether computer-using agents choose the right desktop application for a task, using generated user intents and multiple evaluation protocols.
@@ -26,6 +34,18 @@ Tianyi Chen, Michael Solodko, Sen Wang, Jongwoo Ko, Junheng Hao, Colby Banbury, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-19957/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-19957/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_19957,
+  title = {{AppSelectBench: Application-Level Tool Selection Benchmark}},
+  author = {{Tianyi Chen} and {Michael Solodko} and {Sen Wang} and {Jongwoo Ko} and {Junheng Hao} and {Colby Banbury} and {Sara Abdali} and {Saeed Amizadeh} and {Qing Xiao} and {Yinheng Li} and {Tianyu Ding} and {Kamran Ghasedi Dizaji} and {Suzhen Zheng} and {Hao Fan} and {Justin Wagle} and {Pashmina Cameron} and {Kazuhito Koishida}},
+  year = {2025},
+  eprint = {2511.19957v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.19957v2},
+  note = {First published: 2025-11-25; Recorded arXiv version: v2; Recorded version updated: 2025-11-26T22:26:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

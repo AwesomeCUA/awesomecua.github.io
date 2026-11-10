@@ -1,3 +1,11 @@
+---
+title: "ACT-1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f885d17601171253d25e/
+updated: 2026-10-20
+type: model
+lang: zh-CN
+---
+
 # ACT-1
 
 Adept 于 2022 年推出的 action transformer，曾通过演示视频展示 Chrome 扩展读取网页的自定义渲染结果，并点击、输入、滚动 UI 元素以完成文字请求。

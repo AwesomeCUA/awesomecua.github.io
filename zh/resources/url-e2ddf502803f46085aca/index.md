@@ -1,3 +1,11 @@
+---
+title: "UI-Voyager · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e2ddf502803f46085aca/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # UI-Voyager
 
 一个基于 Qwen3-VL-4B-Instruct 微调并发布的移动图形界面智能体模型，用于操作设备界面，附有 AndroidWorld 评测说明。

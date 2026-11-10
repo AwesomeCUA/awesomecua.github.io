@@ -1,3 +1,11 @@
+---
+title: "capmonster-mcp-patchright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-capmonstercloud-capmonster-mcp-patchright-captcha-solver/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # capmonster-mcp-patchright
 
 基于 Patchright 的 MCP 服务器，为智能体提供浏览器导航、页面交互、快照和会话工具，并支持在页面主执行环境中运行代码。

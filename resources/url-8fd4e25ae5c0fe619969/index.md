@@ -1,3 +1,11 @@
+---
+title: "Cie1/MMSearch-Plus | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Cie1/MMSearch-Plus
 
 A dataset of 311 image-based tasks for evaluating multimodal browsing agents that use iterative image and text retrieval to answer questions.

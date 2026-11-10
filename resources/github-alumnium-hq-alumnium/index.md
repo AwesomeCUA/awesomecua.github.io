@@ -1,3 +1,11 @@
+---
+title: "Alumnium | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alumnium-hq-alumnium/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # Alumnium
 
 An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.

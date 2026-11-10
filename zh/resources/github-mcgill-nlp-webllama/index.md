@@ -1,3 +1,11 @@
+---
+title: "WebLlama · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcgill-nlp-webllama/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # WebLlama
 
 WebLlama 提供对话引导的网页智能体训练、评估和集成工具，包括 Llama 微调流程及围绕 WebLINX 构建的 BrowserGym 示例。

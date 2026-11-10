@@ -1,3 +1,11 @@
+---
+title: "ImageRSI: Verification-Driven Recursive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-32120/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ImageRSI: Verification-Driven Recursive Self-Improvement for Agentic Image Generation
 
 Bibliographic record for ImageRSI: Verification-Driven Recursive Self-Improvement for Agentic Image Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shuo Han, Zhilin Wang, Peng Ling, Wenjia Gong, Yang Liu, Guanjun Jiang, Yukun Ca
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-32120/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-32120/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_32120,
+  title = {{ImageRSI: Verification-Driven Recursive Self-Improvement for Agentic Image Generation}},
+  author = {{Shuo Han} and {Zhilin Wang} and {Peng Ling} and {Wenjia Gong} and {Yang Liu} and {Guanjun Jiang} and {Yukun Cao} and {Xike Xie}},
+  year = {2026},
+  eprint = {2610.32120v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.32120v1},
+  note = {First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T03:42:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

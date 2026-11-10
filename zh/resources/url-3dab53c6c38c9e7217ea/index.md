@@ -1,3 +1,11 @@
+---
+title: "ShowUI-π training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3dab53c6c38c9e7217ea/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # ShowUI-π training data
 
 用于 ShowUI-π模型的拖拽和点击操作片段数据，涵盖桌面编辑、演示文稿、手写等界面任务。

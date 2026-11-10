@@ -1,3 +1,11 @@
+---
+title: "opencode-chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-g10hdz-opencode-chrome/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # opencode-chrome
 
 Chrome extension and MCP bridge giving OpenCode direct browser tab inspection and interaction capabilities.

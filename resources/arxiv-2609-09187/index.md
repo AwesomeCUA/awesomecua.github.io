@@ -1,3 +1,11 @@
+---
+title: "AgenticGen: Reward-Guided Agentic Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-09187/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgenticGen: Reward-Guided Agentic Video Generation for Advertising
 
 Status: excluded from the active CUA catalog after scope review.

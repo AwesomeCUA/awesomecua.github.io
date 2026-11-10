@@ -1,3 +1,11 @@
+---
+title: "Mobile-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaomi-mobilebench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Mobile-Bench
 
 Mobile-Bench evaluates LLM-based mobile agents on multi-step Android tasks combining UI actions and API extensions with checkpoint metrics.

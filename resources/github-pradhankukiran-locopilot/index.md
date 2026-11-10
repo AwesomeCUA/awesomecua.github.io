@@ -1,3 +1,11 @@
+---
+title: "Locopilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pradhankukiran-locopilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Locopilot
 
 Supervised Linux desktop automation copilot featuring sandboxed execution, policy guardrails, and rollback checkpoints.

@@ -1,3 +1,11 @@
+---
+title: "AgentTab · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wolfiesch-chrome-bridge/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # AgentTab
 
 AgentTab 为 AI 智能体提供按任务分配的 Chrome 标签页，支持页面快照、浏览器操作、人工接手，以及对重要操作的可选审核。

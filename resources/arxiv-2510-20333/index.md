@@ -1,3 +1,11 @@
+---
+title: "GhostEI-Bench: Do Mobile Agents Resilience to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-20333/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?
 
 Introduces GhostEI-Bench, a benchmark that injects deceptive UI events into Android emulator workflows to assess mobile agents and analyze failures from actions and screenshots.
@@ -26,6 +34,18 @@ Chiyu Chen, Xinhao Song, Yunkai Chai, Yang Yao, Haodong Zhao, Lijun Li, Jie Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-20333/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-20333/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_20333,
+  title = {{GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?}},
+  author = {{Chiyu Chen} and {Xinhao Song} and {Yunkai Chai} and {Yang Yao} and {Haodong Zhao} and {Lijun Li} and {Jie Li} and {Yan Teng} and {Gongshen Liu} and {Yingchun Wang}},
+  year = {2025},
+  eprint = {2510.20333v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.20333v3},
+  note = {First published: 2025-10-23; Recorded arXiv version: v3; Recorded version updated: 2026-03-05T06:51:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

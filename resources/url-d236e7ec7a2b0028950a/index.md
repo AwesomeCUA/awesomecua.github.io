@@ -1,3 +1,11 @@
+---
+title: "AutoGLM Phone 9B Multilingual | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d236e7ec7a2b0028950a/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # AutoGLM Phone 9B Multilingual
 
 Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, likewise fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters.

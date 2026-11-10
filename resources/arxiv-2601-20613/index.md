@@ -1,3 +1,11 @@
+---
+title: "AgentIF-OneDay: A Task-level… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-20613/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios
 
 Bibliographic record for AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,17 @@ Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left t
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-20613/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-20613/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_20613,
+  title = {{AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios}},
+  year = {2026},
+  eprint = {2601.20613v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.20613v2},
+  note = {First published: 2026-01-28; Recorded arXiv version: v2; Recorded version updated: 2026-01-30T13:36:46Z; Authors: see the paper (https://arxiv.org/abs/2601.20613v2); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "clef-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kotori0919-clef-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # clef-use
 
 clef-use is a local computer-use runtime combining structured accessibility, SigLIP2 visual tile grounding, OmniParser, and MCP tools.

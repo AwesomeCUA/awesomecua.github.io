@@ -1,3 +1,11 @@
+---
+title: "nodriver-mcp-server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-andresolbach-nodriver-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # nodriver-mcp-server
 
 Model Context Protocol 服务器，基于 `nodriver` 提供 70 个隐蔽操作 Chrome 工作区、提取 DOM 和执行交互的工具。

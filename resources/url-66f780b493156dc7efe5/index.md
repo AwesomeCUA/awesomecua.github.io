@@ -1,3 +1,11 @@
+---
+title: "Multimodal-Mind2Web | AwesomeCUA"
+url: https://awesomecua.com/resources/url-66f780b493156dc7efe5/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Multimodal-Mind2Web
 
 Mind2Web action steps aligned with the matching webpage screenshot, plus raw and cleaned HTML, candidate elements and the target operation, in a train split and test splits held out by task, website and domain.

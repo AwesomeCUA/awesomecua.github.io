@@ -1,3 +1,11 @@
+---
+title: "Executable Agentic Memory for GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-12294/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Executable Agentic Memory for GUI Agent
 
 Executable Agentic Memory stores GUI routines in a knowledge graph built through state-aware exploration and action-group mining. A learned value model guides tree search over this executable memory for retrieval-based planning, with AndroidWorld and efficiency evaluation.
@@ -26,6 +34,18 @@ Zerui Qin, Sheng Yue, Xingyuan Hua, Yongjian Fu, Ju Ren
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-12294/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-12294/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12294,
+  title = {{Executable Agentic Memory for GUI Agent}},
+  author = {{Zerui Qin} and {Sheng Yue} and {Xingyuan Hua} and {Yongjian Fu} and {Ju Ren}},
+  year = {2026},
+  eprint = {2605.12294v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12294v1},
+  note = {First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T15:48:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

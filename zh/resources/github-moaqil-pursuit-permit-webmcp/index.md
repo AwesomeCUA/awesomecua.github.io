@@ -1,3 +1,11 @@
+---
+title: "Pursuit Permit WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-moaqil-pursuit-permit-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Pursuit Permit WebMCP
 
 面向 WebMCP 浏览器智能体、与修订版本绑定的容量许可协议，在页面状态变化时使过期批准失效。

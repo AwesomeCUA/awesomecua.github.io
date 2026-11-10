@@ -1,3 +1,11 @@
+---
+title: "Ghost in the Minecraft: Generally Capable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-17144/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory
 
 Status: excluded from the active CUA catalog after scope review.

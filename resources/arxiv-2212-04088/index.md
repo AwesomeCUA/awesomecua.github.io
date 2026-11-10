@@ -1,3 +1,11 @@
+---
+title: "LLM-Planner: Few-Shot Grounded Planning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-04088/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models
 
 Bibliographic record for LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2212-04088/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2212-04088/citation.csl.json
+
+```bibtex
+@misc{arxiv_2212_04088,
+  title = {{LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models}},
+  author = {{Chan Hee Song} and {Jiaman Wu} and {Clayton Washington} and {Brian M. Sadler} and {Wei-Lun Chao} and {Yu Su}},
+  year = {2022},
+  eprint = {2212.04088v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2212.04088v3},
+  note = {First published: 2022-12-08; Recorded arXiv version: v3; Recorded version updated: 2023-03-30T04:50:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

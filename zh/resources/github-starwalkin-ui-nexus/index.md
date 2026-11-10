@@ -1,3 +1,11 @@
+---
+title: "UI-NEXUS · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-starwalkin-ui-nexus/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # UI-NEXUS
 
 组合式移动智能体基准，包含 100 个跨 AndroidWorld 模拟器中的本地工具应用及中英文在线服务应用串联操作的任务模板，并提供模拟器状态设置工具。

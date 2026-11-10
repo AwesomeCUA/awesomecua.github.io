@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent infrastructure | AwesomeCUA"
+url: https://awesomecua.com/categories/infrastructure/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent infrastructure
 
 Infrastructure covers the browsers, sandboxes, virtual machines, emulators and input-automation libraries that computer-use agents run inside or act through.
@@ -16,8 +24,8 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 | [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 8 |
 | [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | Desktop | — | 8 |
 | [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
-| [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
 | [Appium](https://awesomecua.com/resources/github-appium-appium/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE) | 4 |
+| [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/) | Web · Desktop | [AGPL-3.0 (code)](https://raw.githubusercontent.com/lightpanda-io/browser/HEAD/LICENSE) | 4 |
 
 ## Questions
 

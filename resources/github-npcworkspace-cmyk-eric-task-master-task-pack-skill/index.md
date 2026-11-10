@@ -1,3 +1,11 @@
+---
+title: "Eric Task Master Skills Pack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-npcworkspace-cmyk-eric-task-master-task-pack-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Eric Task Master Skills Pack
 
 Reusable browser automation workflow skills for the Eric Task Master Playwright runner.

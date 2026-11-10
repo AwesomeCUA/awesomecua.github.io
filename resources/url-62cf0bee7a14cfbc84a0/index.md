@@ -1,3 +1,11 @@
+---
+title: "UI-Ins-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-62cf0bee7a14cfbc84a0/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # UI-Ins-7B
 
 UI-Ins-7B is a GUI-grounding checkpoint trained on varied instruction formulations and reinforcement learning to locate interface elements for agent actions.

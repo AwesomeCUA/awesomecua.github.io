@@ -1,3 +1,11 @@
+---
+title: "LongPuzzleBench: Evaluating GUI Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-34769/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # LongPuzzleBench: Evaluating GUI Agents on Long-Horizon Visual Puzzles
 
 LongPuzzleBench 通过原生 GUI 操作，在持续存在的视觉谜题棋盘上评估连贯的长期规划。它比较纯 GUI 与代码辅助智能体，并通过受控提示和记忆诊断，分析保留或排除未来解法的决策。
@@ -27,6 +35,18 @@ Bingo Zhang, Haochuan Lu, Zongjie Li, Genjian Li, Ari Yu Zhang, Chaozheng Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-34769/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-34769/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34769,
+  title = {{LongPuzzleBench: Evaluating GUI Agents on Long-Horizon Visual Puzzles}},
+  author = {{Bingo Zhang} and {Haochuan Lu} and {Zongjie Li} and {Genjian Li} and {Ari Yu Zhang} and {Chaozheng Wang}},
+  year = {2026},
+  eprint = {2609.34769v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34769v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T09:49:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

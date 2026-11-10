@@ -1,3 +1,11 @@
+---
+title: "Are CAPTCHAs Still Bot-hard? Generalized… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model
 
 Presents Halligan, a VLM agent that abstracts visual CAPTCHAs into frames, elements and keypoints and solves each as a search problem through generated interaction code, tested on 2,600 challenges of 26 types.
@@ -26,6 +34,19 @@ Xiwen Teoh, Yun Lin, Siqi Li, Ruofan Liu, Avi Sollomoni, Yaniv Harel, Jin Song D
 
 - BibTeX: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/citation.csl.json
+
+```bibtex
+@inproceedings{cua_d010e21928bbf5e842ebcd62,
+  title = {{Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model}},
+  author = {{Xiwen Teoh} and {Yun Lin} and {Siqi Li} and {Ruofan Liu} and {Avi Sollomoni} and {Yaniv Harel} and {Jin Song Dong}},
+  year = {2025},
+  booktitle = {Proceedings of the 34th USENIX Security Symposium},
+  publisher = {USENIX Association},
+  pages = {3747-3766},
+  url = {https://www.usenix.org/conference/usenixsecurity25/presentation/teoh},
+  note = {Publication date: 2025.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "OmegaUse-OfficeVal: Benchmarking LLM… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-27155/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding
 
 提出长流程办公套件智能体基准 OmegaUse-OfficeVal，为任务提供人工工时与价格信号，并使用基于评分细则的代码验证器。
@@ -27,6 +35,18 @@ Jingbo Zhou, Yusai Zhao, Qi Bao, Jingjia Cao, Zhenghai Chen, Chang Gao, Kaiqi Gu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-27155/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-27155/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_27155,
+  title = {{OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding}},
+  author = {{Jingbo Zhou} and {Yusai Zhao} and {Qi Bao} and {Jingjia Cao} and {Zhenghai Chen} and {Chang Gao} and {Kaiqi Guo} and {Muxin Guo} and {Mingxuan Li} and {Xinjiang Lu} and {Yanru Ma} and {Yixiong Xiao} and {Zenghui Zhang} and {Le Zhang} and {Hua Wu}},
+  year = {2026},
+  eprint = {2607.27155v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.27155v2},
+  note = {First published: 2026-07-29; Recorded arXiv version: v2; Recorded version updated: 2026-08-18T12:27:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

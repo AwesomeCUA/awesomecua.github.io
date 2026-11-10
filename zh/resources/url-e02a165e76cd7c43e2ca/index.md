@@ -1,3 +1,11 @@
+---
+title: "webarena-world-model-rlvr · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e02a165e76cd7c43e2ca/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # webarena-world-model-rlvr
 
 面向 WebArena 网页状态预测的语言世界模型，在 SFT 检查点基础上用 RLVR 进行后训练，用于网页智能体的模型预测控制。

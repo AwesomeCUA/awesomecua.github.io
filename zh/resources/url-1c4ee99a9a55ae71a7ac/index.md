@@ -1,3 +1,11 @@
+---
+title: "UI-S1 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1c4ee99a9a55ae71a7ac/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # UI-S1 7B
 
 采用半在线强化学习训练的移动端 GUI 检查点，利用离线轨迹改进多轮操作预测。

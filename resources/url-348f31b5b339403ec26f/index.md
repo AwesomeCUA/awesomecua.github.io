@@ -1,3 +1,11 @@
+---
+title: "WildGUI Screenshots (parts 16-19) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-348f31b5b339403ec26f/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WildGUI Screenshots (parts 16-19)
 
 Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-19; the matching trajectory annotations and the other parts' frames are in the main WildGUI repository.

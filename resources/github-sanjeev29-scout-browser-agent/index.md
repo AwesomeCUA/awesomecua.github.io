@@ -1,3 +1,11 @@
+---
+title: "Scout Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sanjeev29-scout-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Scout Browser Agent
 
 Browser agent using a 4-layer perception cascade from lightweight HTTP text to accessibility trees and vision fallback.

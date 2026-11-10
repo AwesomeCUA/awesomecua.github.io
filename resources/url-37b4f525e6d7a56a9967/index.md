@@ -1,3 +1,11 @@
+---
+title: "GuideBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # GuideBench
 
 Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.

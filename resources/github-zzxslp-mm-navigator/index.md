@@ -1,3 +1,11 @@
+---
+title: "MM-Navigator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zzxslp-mm-navigator/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # MM-Navigator
 
 Example code for the GPT-4V smartphone navigation study: a prompt builder that sends raw and number-tagged screenshots plus action history to GPT-4V for the next Android action, and an action-matching evaluation script.

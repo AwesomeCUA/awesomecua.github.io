@@ -1,3 +1,11 @@
+---
+title: "MediSetu Lens · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-furyydev-medisetu-lens/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # MediSetu Lens
 
 浏览器智能体，可在不提供 API 的药房门户之间搜索并比较仿制药的供应情况和价格。

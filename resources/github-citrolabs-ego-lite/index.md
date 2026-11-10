@@ -1,3 +1,11 @@
+---
+title: "ego lite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-citrolabs-ego-lite/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # ego lite
 
 ego lite is a desktop browser that gives agents separate browsing Spaces and exposes page snapshots and actions through the ego-browser integration.

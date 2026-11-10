@@ -1,3 +1,11 @@
+---
+title: "Polyform a11y-guide · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-polyform-ai-a11y-guide/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Polyform a11y-guide
 
 同时面向辅助技术和 AI 浏览器智能体设计的语义无障碍页面引导层。

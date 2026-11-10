@@ -1,3 +1,11 @@
+---
+title: "InSTA: Towards Internet-Scale Training… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-06776/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # InSTA: Towards Internet-Scale Training For Agents
 
 InSTA 构建流程，为网站生成任务、收集网页智能体轨迹，并按判定的成功情况筛选数据，训练较小的网页导航智能体。
@@ -27,6 +35,18 @@ Brandon Trabucco, Gunnar Sigurdsson, Robinson Piramuthu, Ruslan Salakhutdinov
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-06776/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-06776/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_06776,
+  title = {{InSTA: Towards Internet-Scale Training For Agents}},
+  author = {{Brandon Trabucco} and {Gunnar Sigurdsson} and {Robinson Piramuthu} and {Ruslan Salakhutdinov}},
+  year = {2025},
+  eprint = {2502.06776v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.06776v2},
+  note = {First published: 2025-02-10; Recorded arXiv version: v2; Recorded version updated: 2025-05-22T17:59:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

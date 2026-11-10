@@ -1,3 +1,11 @@
+---
+title: "ClawGUI-2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1a54e63277eaffdaef57/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # ClawGUI-2B
 
 ClawGUI-2B 是一个 2B 移动端 GUI 智能体模型，使用 ClawGUI-RL 流水线和 GiGPO 端到端训练；作者报告其 MobileWorld 成功率为 17.1，基线为 11.1。

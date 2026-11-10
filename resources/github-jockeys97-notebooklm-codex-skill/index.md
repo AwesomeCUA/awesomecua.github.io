@@ -1,3 +1,11 @@
+---
+title: "NotebookLM for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jockeys97-notebooklm-codex-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # NotebookLM for Codex
 
 Codex skill that queries Google Gemini NotebookLM directly through browser automation.

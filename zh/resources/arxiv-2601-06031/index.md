@@ -1,3 +1,11 @@
+---
+title: "Beyond Clicking:A Step Towards… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-06031/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Beyond Clicking:A Step Towards Generalist GUI Grounding via Text Dragging
 
 GUI-Drag 提供合成的文本拖动样例，ScreenDrag 则评估在不同 GUI 界面情境中通过拖动选择文本的能力。
@@ -27,6 +35,18 @@ Zeyi Liao, Yadong Lu, Boyu Gou, Huan Sun, Ahmed Awadallah
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-06031/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-06031/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_06031,
+  title = {{Beyond Clicking:A Step Towards Generalist GUI Grounding via Text Dragging}},
+  author = {{Zeyi Liao} and {Yadong Lu} and {Boyu Gou} and {Huan Sun} and {Ahmed Awadallah}},
+  year = {2025},
+  eprint = {2601.06031v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.06031v1},
+  note = {First published: 2025-11-07; Recorded arXiv version: v1; Recorded version updated: 2025-11-07T19:40:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Predicate Python SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-predicatesystems-predicate-runtime-python/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Predicate Python SDK
 
 Predicate Python SDK 为浏览器智能体提供语义化页面快照、界面断言和运行轨迹，用于验证操作并检查失败原因。

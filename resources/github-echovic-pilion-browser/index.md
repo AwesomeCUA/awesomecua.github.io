@@ -1,3 +1,11 @@
+---
+title: "Pilion Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-echovic-pilion-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Pilion Browser
 
 Pilion Browser connects agents to a user's desktop browser tabs through MCP. It supports browser actions, approval before actions, human takeover, recorded workflows, and session resume.

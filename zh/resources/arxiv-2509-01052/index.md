@@ -1,3 +1,11 @@
+---
+title: "FlashAdventure: A Benchmark for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-01052/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games
 
 FlashAdventure 评估 GUI 智能体完成 34 款冒险游戏剧情线的能力，并结合自动化游戏评判器与 COAST 框架；后者保存长期线索记忆，用于规划和完成连续目标。
@@ -27,6 +35,18 @@ Jaewoo Ahn, Junseo Kim, Heeseung Yun, Jaehyeon Son, Dongmin Park, Jaewoong Cho, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-01052/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-01052/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_01052,
+  title = {{FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games}},
+  author = {{Jaewoo Ahn} and {Junseo Kim} and {Heeseung Yun} and {Jaehyeon Son} and {Dongmin Park} and {Jaewoong Cho} and {Gunhee Kim}},
+  year = {2025},
+  eprint = {2509.01052v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.01052v2},
+  note = {First published: 2025-09-01; Recorded arXiv version: v2; Recorded version updated: 2025-10-15T10:33:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

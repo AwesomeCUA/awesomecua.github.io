@@ -1,3 +1,11 @@
+---
+title: "Red Teaming Language Models with Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2202-03286/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Red Teaming Language Models with Language Models
 
 Bibliographic record for Red Teaming Language Models with Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ethan Perez, Saffron Huang, Francis Song, Trevor Cai, Roman Ring, John Aslanides
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2202-03286/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2202-03286/citation.csl.json
+
+```bibtex
+@misc{arxiv_2202_03286,
+  title = {{Red Teaming Language Models with Language Models}},
+  author = {{Ethan Perez} and {Saffron Huang} and {Francis Song} and {Trevor Cai} and {Roman Ring} and {John Aslanides} and {Amelia Glaese} and {Nat McAleese} and {Geoffrey Irving}},
+  year = {2022},
+  eprint = {2202.03286v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2202.03286v1},
+  note = {First published: 2022-02-07; Recorded arXiv version: v1; Recorded version updated: 2022-02-07T15:22:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Your Agent, Their Asset: A Real-World Safety… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-04759/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw
 
 Introduces a safety evaluation of OpenClaw and the CIK taxonomy for analyzing how changes to a personal agent's persistent state affect attacks on its local and service access.
@@ -26,6 +34,18 @@ Zijun Wang, Haoqin Tu, Letian Zhang, Hardy Chen, Juncheng Wu, Xiangyan Liu, Zhen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-04759/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-04759/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_04759,
+  title = {{Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw}},
+  author = {{Zijun Wang} and {Haoqin Tu} and {Letian Zhang} and {Hardy Chen} and {Juncheng Wu} and {Xiangyan Liu} and {Zhenlong Yuan} and {Tianyu Pang} and {Michael Qizhe Shieh} and {Fengze Liu} and {Zeyu Zheng} and {Huaxiu Yao} and {Yuyin Zhou} and {Cihang Xie}},
+  year = {2026},
+  eprint = {2604.04759v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.04759v1},
+  note = {First published: 2026-04-06; Recorded arXiv version: v1; Recorded version updated: 2026-04-06T15:27:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

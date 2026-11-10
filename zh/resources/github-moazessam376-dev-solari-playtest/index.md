@@ -1,3 +1,11 @@
+---
+title: "solari-playtest · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-moazessam376-dev-solari-playtest/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # solari-playtest
 
 Solari 上的自主游戏测试智能体和评测测试框架，从 Git 构建网页游戏，并在真实浏览器中测试玩法。

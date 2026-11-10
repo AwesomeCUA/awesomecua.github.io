@@ -1,3 +1,11 @@
+---
+title: "CrossHands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-caelaxie-crosshands/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CrossHands
 
 Local computer-use runtime for coding agents exposing desktop inspection and input actions via a JSON CLI and stdio MCP.

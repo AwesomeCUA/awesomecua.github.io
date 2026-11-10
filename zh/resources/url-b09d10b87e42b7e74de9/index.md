@@ -1,3 +1,11 @@
+---
+title: "UiPath ScreenPlay · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b09d10b87e42b7e74de9/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # UiPath ScreenPlay
 
 UiPath Studio 活动中的 Screen Agent 将自然语言任务描述转为在 Windows、Linux 和 macOS 上自主运行的 UI 自动化，使用规划器、像素定位器、DOM 提取和可选 LLM。

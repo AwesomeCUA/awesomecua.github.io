@@ -1,3 +1,11 @@
+---
+title: "Texture Consolidation of Generated Multi-View… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36098/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Texture Consolidation of Generated Multi-View Renderings
 
 Bibliographic record for Texture Consolidation of Generated Multi-View Renderings. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hongyi Liu, Yifan Wang, Vladimir G. Kim, Misha Kazhdan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36098/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36098/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36098,
+  title = {{Texture Consolidation of Generated Multi-View Renderings}},
+  author = {{Hongyi Liu} and {Yifan Wang} and {Vladimir G. Kim} and {Misha Kazhdan}},
+  year = {2026},
+  eprint = {2610.36098v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36098v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T18:16:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

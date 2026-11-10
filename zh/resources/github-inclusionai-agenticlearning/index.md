@@ -1,3 +1,11 @@
+---
+title: "AWorld-RL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-inclusionai-agenticlearning/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # AWorld-RL
 
 AWorld-RL 汇集智能体训练项目，其中 V2P 用于视觉 GUI 定位，并提供代码、数据集和模型检查点。

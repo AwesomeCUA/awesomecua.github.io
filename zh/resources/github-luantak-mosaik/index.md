@@ -1,3 +1,11 @@
+---
+title: "Mosaik · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-luantak-mosaik/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Mosaik
 
 可组合的智能体浏览器自动化框架，由小型、可复用的感知和动作基础单元构成。

@@ -1,3 +1,11 @@
+---
+title: "Codex Computer Use MCP (Signed Broker… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tmustier-codex-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex Computer Use MCP (Signed Broker Bridge)
 
 可在后台安全运行的 MCP 服务器，向 Pi 和 MCP 客户端开放 OpenAI 已签名的 macOS Codex Computer Use 代理服务。

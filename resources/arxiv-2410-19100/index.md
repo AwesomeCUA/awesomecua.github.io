@@ -1,3 +1,11 @@
+---
+title: "VideoWebArena: Evaluating Long Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-19100/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks
 
 Evaluates whether web agents can retain procedural skills and factual information from long video tutorials and use them during tasks.
@@ -26,6 +34,18 @@ Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Ro
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-19100/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-19100/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_19100,
+  title = {{VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks}},
+  author = {{Lawrence Jang} and {Yinheng Li} and {Dan Zhao} and {Charles Ding} and {Justin Lin} and {Paul Pu Liang} and {Rogerio Bonatti} and {Kazuhito Koishida}},
+  year = {2024},
+  eprint = {2410.19100v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.19100v3},
+  note = {First published: 2024-10-24; Recorded arXiv version: v3; Recorded version updated: 2025-02-15T05:19:38Z.}
+}
+```
 
 ## Publication record
 

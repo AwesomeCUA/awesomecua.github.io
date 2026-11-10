@@ -1,3 +1,11 @@
+---
+title: "LayoutLMv3: Pre-training for Document AI with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2204-08387/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking
 
 Bibliographic record for LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yupan Huang, Tengchao Lv, Lei Cui, Yutong Lu, Furu Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2204-08387/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2204-08387/citation.csl.json
+
+```bibtex
+@misc{arxiv_2204_08387,
+  title = {{LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking}},
+  author = {{Yupan Huang} and {Tengchao Lv} and {Lei Cui} and {Yutong Lu} and {Furu Wei}},
+  year = {2022},
+  eprint = {2204.08387v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2204.08387v3},
+  note = {First published: 2022-04-18; Recorded arXiv version: v3; Recorded version updated: 2022-07-19T06:41:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

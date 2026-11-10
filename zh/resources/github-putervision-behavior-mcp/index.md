@@ -1,3 +1,11 @@
+---
+title: "PuterVision Behavior-MCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-putervision-behavior-mcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PuterVision Behavior-MCP
 
 通过 Model Context Protocol 提供的高频（约 60Hz）浏览器内行为树执行引擎。

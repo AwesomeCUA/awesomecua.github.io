@@ -1,3 +1,11 @@
+---
+title: "Compare GUI-agent benchmark protocols | AwesomeCUA"
+url: https://awesomecua.com/compare/benchmarks/
+updated: 2026-11-10
+type: comparison
+lang: en
+---
+
 # Compare GUI-agent benchmark protocols
 
 HTML page: https://awesomecua.com/compare/benchmarks/

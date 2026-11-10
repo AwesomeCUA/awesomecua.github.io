@@ -1,3 +1,11 @@
+---
+title: "How Auxiliary Reasoning Unleashes GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-11548/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # How Auxiliary Reasoning Unleashes GUI Grounding in VLMs
 
 研究通用视觉语言模型的潜在视觉定位能力与显式坐标输出之间的差距；3 种零样本方法在 GUI 截图上添加坐标轴、网格或标记交点，使模型无需微调即可表达空间位置。
@@ -27,6 +35,18 @@ Weiming Li, Yan Shao, Jing Yang, Yujing Lu, Ling Zhong, Yuhan Wang, Min Yu, Tong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-11548/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-11548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_11548,
+  title = {{How Auxiliary Reasoning Unleashes GUI Grounding in VLMs}},
+  author = {{Weiming Li} and {Yan Shao} and {Jing Yang} and {Yujing Lu} and {Ling Zhong} and {Yuhan Wang} and {Min Yu} and {Tongxiao Ruan} and {Manni Duan}},
+  year = {2025},
+  eprint = {2509.11548v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.11548v2},
+  note = {First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-06-10T01:13:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "DroidCall generation and evaluation code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ubiquitouslearning-droidcall/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # DroidCall generation and evaluation code
 
 提供数据生成、微调和评估工具，用于训练小型语言模型通过预定义函数调用 Android intent。

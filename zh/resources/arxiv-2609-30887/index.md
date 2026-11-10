@@ -1,3 +1,11 @@
+---
+title: "From Tapping to Hopping: Augmenting… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-30887/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks
 
 GUI-Hopper 将经过验证的 Android 深度链接与 GUI 操作结合，利用落地页描述、混合轨迹训练和强化学习选择导航捷径，并通过 GUI 操作恢复。
@@ -27,6 +35,18 @@ Yuchen Sun, Chenglin Cai, Gongjie Zhang, Tianyu Xia, Quyu Kong, Panrong Tong, Zh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-30887/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-30887/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_30887,
+  title = {{From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks}},
+  author = {{Yuchen Sun} and {Chenglin Cai} and {Gongjie Zhang} and {Tianyu Xia} and {Quyu Kong} and {Panrong Tong} and {Zhengwen Zeng} and {Long Chen} and {Steven Hoi} and {Chongyang Zhang} and {Yue Wang}},
+  year = {2026},
+  eprint = {2609.30887v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.30887v1},
+  note = {First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T06:50:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

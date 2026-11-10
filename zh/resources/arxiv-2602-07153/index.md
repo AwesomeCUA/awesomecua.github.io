@@ -1,3 +1,11 @@
+---
+title: "ANCHOR: Branch-Point Data Generation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-07153/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ANCHOR: Branch-Point Data Generation for GUI Agents
 
 ANCHOR 在有意义的分支点生成新任务并执行任务指令，以扩充经验证的桌面操作演示；通过状态感知验证和动作过滤优化所得轨迹，并用微调后的智能体在 OSWorld 和 WindowsAgentArena 上评估。
@@ -27,6 +35,18 @@ Jinbiao Wei, Yilun Zhao, Kangqi Ni, Arman Cohan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-07153/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-07153/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_07153,
+  title = {{ANCHOR: Branch-Point Data Generation for GUI Agents}},
+  author = {{Jinbiao Wei} and {Yilun Zhao} and {Kangqi Ni} and {Arman Cohan}},
+  year = {2026},
+  eprint = {2602.07153v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.07153v2},
+  note = {First published: 2026-02-06; Recorded arXiv version: v2; Recorded version updated: 2026-04-12T06:09:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

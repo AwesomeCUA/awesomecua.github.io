@@ -1,3 +1,11 @@
+---
+title: "WebTactix · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-40795d2c86388ae89f43/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # WebTactix
 
 一款网页智能体，将无障碍树简化后并行探索候选操作，并用语义树保存已访问页面，支持后续决策和失败恢复。

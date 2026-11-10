@@ -1,3 +1,11 @@
+---
+title: "CAD-Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dimitrismallis-cad-assistant/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # CAD-Assistant
 
 CAD-Assistant handles CAD tasks by generating code for execution in FreeCAD and using sketch rendering and solid recognition tools to inspect designs.

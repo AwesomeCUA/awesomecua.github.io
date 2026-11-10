@@ -1,3 +1,11 @@
+---
+title: "Operit AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aaswordman-operit/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Operit AI
 
 An Android agent platform that operates app interfaces and web pages using visual screen understanding, device controls, and browser actions.

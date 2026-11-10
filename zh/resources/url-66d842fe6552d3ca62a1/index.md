@@ -1,3 +1,11 @@
+---
+title: "AndroidGen-GLM-4-9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-66d842fe6552d3ca62a1/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # AndroidGen-GLM-4-9B
 
 AndroidGen-GLM-4-9B 是一款已发布的模型，供智能体在无需人工标注交互数据的情况下跨 Android 应用执行任务。

@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openmobile2-openmobile2-code/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # OpenMobile-2 code
 
 Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.

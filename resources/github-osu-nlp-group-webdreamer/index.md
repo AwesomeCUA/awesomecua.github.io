@@ -1,3 +1,11 @@
+---
+title: "WebDreamer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # WebDreamer
 
 World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.

@@ -1,3 +1,11 @@
+---
+title: "Automa | AwesomeCUA"
+url: https://awesomecua.com/resources/github-automaapp-automa/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Automa
 
 Automa is a browser extension for building block-based automations that fill forms, repeat tasks, capture screenshots, and run on a schedule.

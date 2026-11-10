@@ -1,3 +1,11 @@
+---
+title: "Skim: Speculative Execution for Fast and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-16565/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Skim: Speculative Execution for Fast and Efficient Web Agents
 
 Introduces Skim, a speculative execution framework for web agents that learns site URL and answer patterns offline, then uses them to answer matching queries with a small model.
@@ -26,6 +34,18 @@ Mike Wong, Kevin Hsieh, Suman Nath, Ravi Netravali
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-16565/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-16565/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16565,
+  title = {{Skim: Speculative Execution for Fast and Efficient Web Agents}},
+  author = {{Mike Wong} and {Kevin Hsieh} and {Suman Nath} and {Ravi Netravali}},
+  year = {2026},
+  eprint = {2605.16565v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16565v2},
+  note = {First published: 2026-05-15; Recorded arXiv version: v2; Recorded version updated: 2026-05-19T13:45:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

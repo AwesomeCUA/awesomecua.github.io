@@ -1,3 +1,11 @@
+---
+title: "EnvDistraction · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xbmxb-envdistraction/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # EnvDistraction
 
 EnvDistraction 提供模拟 GUI 环境和评测脚本，用于衡量多模态智能体受环境干扰的程度。

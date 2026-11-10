@@ -1,3 +1,11 @@
+---
+title: "BraveCowNoFear Windows Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bravecownofear-windows-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # BraveCowNoFear Windows Computer Use
 
 面向 Codex 的本地 Windows 计算机使用插件，结合 UIA3 语义树、MCP 工具、SendInput 和窗口捕获。

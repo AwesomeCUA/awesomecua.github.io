@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 19 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/19/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 19
 
 HTML page: https://awesomecua.com/topics/evaluation/page/19/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [TimeWarp](https://awesomecua.com/resources/github-sparklabutah-timewarp/)
 - [TurkingBench](https://awesomecua.com/resources/url-808a22468ee0bf565d6e/)
 - [UI-FaultLab](https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/)
 - [UI-I2E-Bench](https://awesomecua.com/resources/url-c08566be0d973ec40c48/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [WindTunnel](https://awesomecua.com/resources/github-nekuda-ai-windtunnel/)
 - [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/)
 - [WorkArena](https://awesomecua.com/resources/github-servicenow-workarena/)
+- [WorkArena-Instances](https://awesomecua.com/resources/url-01b9e39cd2526d41c527/)

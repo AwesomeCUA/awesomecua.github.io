@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct-AWQ · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1f488d7ef1c703f97a8a/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2-VL-72B-Instruct-AWQ
 
 Qwen2-VL-72B-Instruct-AWQ 发布了视觉指令模型的量化权重。其模型卡介绍了该模型如何与移动设备集成，并依据图像和文字执行操作。

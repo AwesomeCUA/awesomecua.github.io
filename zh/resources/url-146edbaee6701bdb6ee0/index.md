@@ -1,3 +1,11 @@
+---
+title: "NAIL-Group/ClawBench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-146edbaee6701bdb6ee0/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # NAIL-Group/ClawBench
 
 NAIL-Group/ClawBench 发布用于评估浏览器智能体的真实网站任务数据；数据卡介绍 V1、V2 任务集、任务元数据，以及通过 datasets 库加载的方法。

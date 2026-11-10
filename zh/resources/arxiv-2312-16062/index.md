@@ -1,3 +1,11 @@
+---
+title: "AutoTask: Executing Arbitrary Voice… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2312-16062/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # AutoTask: Executing Arbitrary Voice Commands by Exploring and Learning from Mobile GUI
 
 通过 GUI 探索、回退和积累交互经验，执行语音请求的移动端任务。
@@ -27,6 +35,18 @@ Lihang Pan, Bowen Wang, Chun Yu, Yuxuan Chen, Xiangyu Zhang, Yuanchun Shi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2312-16062/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2312-16062/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_16062,
+  title = {{AutoTask: Executing Arbitrary Voice Commands by Exploring and Learning from Mobile GUI}},
+  author = {{Lihang Pan} and {Bowen Wang} and {Chun Yu} and {Yuxuan Chen} and {Xiangyu Zhang} and {Yuanchun Shi}},
+  year = {2023},
+  eprint = {2312.16062v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.16062v1},
+  note = {First published: 2023-12-26; Recorded arXiv version: v1; Recorded version updated: 2023-12-26T14:20:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

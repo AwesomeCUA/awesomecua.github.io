@@ -1,3 +1,11 @@
+---
+title: "Computer-Using World Model | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-17365/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Computer-Using World Model
 
 Presents a desktop world model that predicts textual UI changes before synthesizing the next screenshot. It learns from Microsoft Office transitions and is evaluated by letting a frozen agent compare simulated actions before execution.
@@ -26,6 +34,18 @@ Yiming Guan, Rui Yu, John Zhang, Lu Wang, Chaoyun Zhang, Liqun Li, Bo Qiao, Si Q
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-17365/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-17365/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_17365,
+  title = {{Computer-Using World Model}},
+  author = {{Yiming Guan} and {Rui Yu} and {John Zhang} and {Lu Wang} and {Chaoyun Zhang} and {Liqun Li} and {Bo Qiao} and {Si Qin} and {He Huang} and {Fangkai Yang} and {Pu Zhao} and {Lukas Wutschitz} and {Samuel Kessler} and {Huseyin A Inan} and {Robert Sim} and {Saravan Rajmohan} and {Qingwei Lin} and {Dongmei Zhang}},
+  year = {2026},
+  eprint = {2602.17365v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.17365v1},
+  note = {First published: 2026-02-19; Recorded arXiv version: v1; Recorded version updated: 2026-02-19T13:48:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

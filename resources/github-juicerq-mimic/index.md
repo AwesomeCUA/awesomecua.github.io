@@ -1,3 +1,11 @@
+---
+title: "mimic (Kernel-Level uinput Driver) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-juicerq-mimic/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mimic (Kernel-Level uinput Driver)
 
 Drives mouse, keyboard, and screen control on Linux through kernel-level `/dev/uinput` human-like input trajectories.

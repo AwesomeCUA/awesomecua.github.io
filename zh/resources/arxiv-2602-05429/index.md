@@ -1,3 +1,11 @@
+---
+title: "M$^2$-Miner: Multi-Agent Enhanced MCTS… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-05429/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # M$^2$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining
 
 M2-Miner 以多智能体引导的蒙特卡洛树搜索收集移动 GUI 意图与轨迹配对数据；通过意图循环利用和逐步训练采集智能体，提高所采集交互数据的多样性和实用性。
@@ -27,6 +35,18 @@ Rui Lv, Juncheng Mo, Tianyi Chu, Chen Rao, Hongyi Jing, Jiajie Teng, Jiafu Chen,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-05429/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-05429/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_05429,
+  title = {{M\$\textasciicircum{}2\$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining}},
+  author = {{Rui Lv} and {Juncheng Mo} and {Tianyi Chu} and {Chen Rao} and {Hongyi Jing} and {Jiajie Teng} and {Jiafu Chen} and {Shiqi Zhang} and {Liangzi Ding} and {Shuo Fang} and {Huaizhong Lin} and {Ziqiang Dang} and {Chenguang Ma} and {Lei Zhao}},
+  year = {2026},
+  eprint = {2602.05429v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.05429v1},
+  note = {First published: 2026-02-05; Recorded arXiv version: v1; Recorded version updated: 2026-02-05T08:19:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

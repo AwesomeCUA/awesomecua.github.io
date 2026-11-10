@@ -1,3 +1,11 @@
+---
+title: "RegionFocus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tiangeluo-regionfocus/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # RegionFocus
 
 RegionFocus provides code for GUI grounding through selected screenshot regions. The release evaluates UI-TARS and Qwen2.5-VL on ScreenSpot-Pro.

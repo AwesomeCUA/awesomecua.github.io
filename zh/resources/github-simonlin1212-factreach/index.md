@@ -1,3 +1,11 @@
+---
+title: "FactReach · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-simonlin1212-factreach/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # FactReach
 
 涵盖 23 个社交及知识平台的多渠道网页搜索与浏览器内容提取 Agent Skill。

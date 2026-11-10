@@ -1,3 +1,11 @@
+---
+title: "Master Internet Unit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Master Internet Unit
 
 High-performance Rust Model Context Protocol browser server for AI agents.

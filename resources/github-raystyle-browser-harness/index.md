@@ -1,3 +1,11 @@
+---
+title: "Raystyle Browser Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raystyle-browser-harness/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Raystyle Browser Harness
 
 Persistent daemon and CLI exposing 652 Chrome DevTools Protocol methods directly to LLMs for human-agent shared browsing.

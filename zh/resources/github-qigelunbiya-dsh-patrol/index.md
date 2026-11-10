@@ -1,3 +1,11 @@
+---
+title: "DSH Patrol · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qigelunbiya-dsh-patrol/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DSH Patrol
 
 用于 DeepSeek Harness 的网站检查与监控插件，支持教导一次、反复巡检。

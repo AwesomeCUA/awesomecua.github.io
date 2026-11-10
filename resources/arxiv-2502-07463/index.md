@@ -1,3 +1,11 @@
+---
+title: "A Framework to Quantify Adaptation to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-07463/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Framework to Quantify Adaptation to Multiple Drivers
 
 Status: excluded from the active CUA catalog after scope review.

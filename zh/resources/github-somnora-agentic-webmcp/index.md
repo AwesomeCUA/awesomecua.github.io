@@ -1,3 +1,11 @@
+---
+title: "Ribband (Agentic WebMCP) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-somnora-agentic-webmcp/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Ribband (Agentic WebMCP)
 
 基于 WebMCP 协议、有来源依据的个人决策与购物浏览器智能体。

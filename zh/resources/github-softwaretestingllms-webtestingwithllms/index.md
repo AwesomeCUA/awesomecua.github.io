@@ -1,3 +1,11 @@
+---
+title: "WebtestingWithLLMs · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-softwaretestingllms-webtestingwithllms/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # WebtestingWithLLMs
 
 一组使用 Selenium 自动测试网页应用的脚本，其中随机操作测试工具可设置交互次数与时间间隔。

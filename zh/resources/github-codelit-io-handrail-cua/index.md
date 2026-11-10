@@ -1,3 +1,11 @@
+---
+title: "Handrail CUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-codelit-io-handrail-cua/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Handrail CUA
 
 一次发现、多次回放的计算机使用自动化框架，带有确定性执行防护规则。

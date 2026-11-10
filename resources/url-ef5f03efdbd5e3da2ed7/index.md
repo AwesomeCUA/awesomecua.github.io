@@ -1,3 +1,11 @@
+---
+title: "axiom.ai | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ef5f03efdbd5e3da2ed7/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # axiom.ai
 
 Axiom provides browser automation through a Chrome extension, APIs, and an MCP server. AI clients can create and run workflows on cloud browsers or a local desktop.

@@ -1,3 +1,11 @@
+---
+title: "DeskForge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saidgurbuz-deskforge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # DeskForge
 
 DeskForge 从桌面执行环境提取密集的步骤级监督信号，用于训练和验证计算机使用智能体。

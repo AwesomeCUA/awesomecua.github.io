@@ -1,3 +1,11 @@
+---
+title: "RecreationWorld · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qwenlm-recreationworld/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # RecreationWorld
 
 面向混合式计算机使用智能体的框架，让智能体探索运行中的参考应用、使用编程工具编写复刻版本，并在五类平台上验证行为。

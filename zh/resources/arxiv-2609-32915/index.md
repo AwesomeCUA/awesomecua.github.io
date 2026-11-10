@@ -1,3 +1,11 @@
+---
+title: "AgentTell: Behavioural Side-Channel… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-32915/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents
 
 AgentTell 是评估智能体在其他网站获知私人信息后，通过浏览器操作泄露隐私的基准。它考察智能体是否会违背保密指令选择泄露信息的选项，以及最终报告是否准确描述该行为。
@@ -27,6 +35,18 @@ Asif Shahriar, Md Nafiu Rahman, Sadif Ahmed, Farig Sadeque, Md Rizwan Parvez
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-32915/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-32915/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32915,
+  title = {{AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents}},
+  author = {{Asif Shahriar} and {Md Nafiu Rahman} and {Sadif Ahmed} and {Farig Sadeque} and {Md Rizwan Parvez}},
+  year = {2026},
+  eprint = {2609.32915v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32915v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T20:09:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

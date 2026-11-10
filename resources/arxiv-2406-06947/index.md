@@ -1,3 +1,11 @@
+---
+title: "CAAP: Context-Aware Action Planning Prompting… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-06947/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only
 
 CAAP converts screenshots into textual observations and plans keyboard-and-mouse actions using a prompt that examines task context from multiple perspectives. The agent is evaluated on MiniWoB++ and WebShop using only front-end visual observations.
@@ -26,6 +34,18 @@ Junhee Cho, Jihoon Kim, Daseul Bae, Jinho Choo, Youngjune Gwon, Yeong-Dae Kwon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-06947/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-06947/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_06947,
+  title = {{CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only}},
+  author = {{Junhee Cho} and {Jihoon Kim} and {Daseul Bae} and {Jinho Choo} and {Youngjune Gwon} and {Yeong-Dae Kwon}},
+  year = {2024},
+  eprint = {2406.06947v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.06947v3},
+  note = {First published: 2024-06-11; Recorded arXiv version: v3; Recorded version updated: 2024-12-26T11:02:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

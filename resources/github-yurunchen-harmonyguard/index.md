@@ -1,3 +1,11 @@
+---
+title: "HarmonyGuard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yurunchen-harmonyguard/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # HarmonyGuard
 
 HarmonyGuard enforces adaptive safety policies and dual-objective utility-security optimization for autonomous web and computer-use agents.

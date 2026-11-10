@@ -1,3 +1,11 @@
+---
+title: "GUI Grounding Evaluation Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # GUI Grounding Evaluation Harness
 
 ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.

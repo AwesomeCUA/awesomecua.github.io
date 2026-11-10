@@ -1,3 +1,11 @@
+---
+title: "ChangeShield | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kxvya18-chnage-shield/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ChangeShield
 
 Self-repairing browser automation prototype that detects and adapts to third-party UI selector drift.

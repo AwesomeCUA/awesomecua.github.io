@@ -1,3 +1,11 @@
+---
+title: "VideoAgentTrek-ScreenFilter · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c7e1d8863286e92c47a2/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # VideoAgentTrek-ScreenFilter
 
 VideoAgentTrek 流水线中的光标检测模型，在 Video2Action 提取 GUI 动作轨迹之前，按是否出现光标筛选屏幕录制的教程视频。

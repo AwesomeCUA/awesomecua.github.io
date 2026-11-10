@@ -1,3 +1,11 @@
+---
+title: "FastMCP Playwright Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ma-pony-mcp-playwright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # FastMCP Playwright Server
 
 Python FastMCP 服务器，向 LLM 智能体提供 Playwright 浏览器导航、元素交互、截图采集和数据提取功能。

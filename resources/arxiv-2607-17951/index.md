@@ -1,3 +1,11 @@
+---
+title: "RT-SHCUA: Real-Time Self-Hosted Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-17951/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control
 
 Bibliographic record for RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Di Lu, Bo Zhang, Xiyuan Li, Yongzhi Liao, Xuewen Dong, Yulong Shen, Zhiquan Liu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-17951/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-17951/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_17951,
+  title = {{RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control}},
+  author = {{Di Lu} and {Bo Zhang} and {Xiyuan Li} and {Yongzhi Liao} and {Xuewen Dong} and {Yulong Shen} and {Zhiquan Liu} and {Jianfeng Ma}},
+  year = {2026},
+  eprint = {2607.17951v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.17951v1},
+  note = {First published: 2026-07-20; Recorded arXiv version: v1; Recorded version updated: 2026-07-20T13:52:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

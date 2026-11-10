@@ -1,3 +1,11 @@
+---
+title: "UI-AGILE · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kdegroup-ui-agile/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # UI-AGILE
 
 UI-AGILE 是在约 9k 个样本上使用连续奖励、简单思考奖励和基于裁剪的重采样进行 RL 训练的 GUI 智能体，另提供可插接的定位与选择分解式推理方法。

@@ -1,3 +1,11 @@
+---
+title: "wayland-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wh0ami3-wayland-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # wayland-computer-use
 
 原生 Wayland 桌面控制服务器，在 X11 工具无法使用的场景下，通过 XDG RemoteDesktop 门户输入并使用 PipeWire 采集画面。

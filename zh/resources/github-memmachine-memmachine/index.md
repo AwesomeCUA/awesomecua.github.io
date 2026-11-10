@@ -1,3 +1,11 @@
+---
+title: "MemMachine · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-memmachine-memmachine/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MemMachine
 
 MemMachine 是面向 AI 智能体的开源记忆层，通过 REST、Python SDK 和 MCP 提供工作记忆、情景记忆及用户资料记忆。

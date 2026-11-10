@@ -1,3 +1,11 @@
+---
+title: "Voice and Vision System Controller · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-muhammad-touseef-akhtar-voice-vision-system-controller/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Voice and Vision System Controller
 
 离线 Python 桌面自动化系统，结合语音命令与计算机视觉屏幕交互。

@@ -1,3 +1,11 @@
+---
+title: "AutoBot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-demeyer1-autobot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoBot
 
 AutoBot is a self-improving agent harness for ChatGPT and Codex on macOS featuring persistent on-disk memory and browser evaluation.

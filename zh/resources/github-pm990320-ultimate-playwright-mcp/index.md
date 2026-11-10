@@ -1,3 +1,11 @@
+---
+title: "Ultimate Playwright MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pm990320-ultimate-playwright-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ultimate Playwright MCP
 
 多智能体 Playwright MCP 服务器，通过 Chrome 标签页分组隔离，使并发 AI 智能体能够安全地共享同一浏览器。

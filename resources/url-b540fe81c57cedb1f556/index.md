@@ -1,3 +1,11 @@
+---
+title: "WorldGUI-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b540fe81c57cedb1f556/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # WorldGUI-Bench
 
 A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.

@@ -1,3 +1,11 @@
+---
+title: "Botright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vinyzu-botright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Botright
 
 Botright 是基于 Playwright 的隐蔽式浏览器自动化框架，提供指纹伪装和 CAPTCHA 解决工具。

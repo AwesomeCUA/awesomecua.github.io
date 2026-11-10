@@ -1,3 +1,11 @@
+---
+title: "GUI-ReWalk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bytedance-gui-rewalk/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # GUI-ReWalk
 
 A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.

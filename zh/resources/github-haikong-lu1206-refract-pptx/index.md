@@ -1,3 +1,11 @@
+---
+title: "REFRACT-PPTX · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-haikong-lu1206-refract-pptx/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # REFRACT-PPTX
 
 面向可编辑 PowerPoint 演示文稿的智能体引导生成与多维视觉评测基准。

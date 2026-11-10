@@ -1,3 +1,11 @@
+---
+title: "Towards Embodied Agentic AI: Review and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-05294/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction
 
 Status: excluded from the active CUA catalog after scope review.

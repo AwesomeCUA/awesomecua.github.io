@@ -1,3 +1,11 @@
+---
+title: "VEM GUI-Agent-RL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-gui-agent-rl/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # VEM GUI-Agent-RL
 
 Training code that learns a value environment model from offline Android interaction data and uses its frozen value estimates to guide GUI policy optimization.

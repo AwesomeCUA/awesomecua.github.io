@@ -1,3 +1,11 @@
+---
+title: "MobBench task definitions · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b53e03a6e4ca4226d126/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # MobBench task definitions
 
 用于评估 MobA 的公开真机移动任务定义集，中文和英文任务材料以带版本号的 JSON 形式发布。

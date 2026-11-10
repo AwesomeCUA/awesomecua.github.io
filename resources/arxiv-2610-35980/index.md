@@ -1,3 +1,11 @@
+---
+title: "UnityBench-Mini3D: Evaluating LLM Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-35980/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity
 
 Bibliographic record for UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yijun Zhou, Minghao Shao, Ke Zhang, Renkai Yuan, Hongbo Yuan, Bin Hu, Bozhao Qia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-35980/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-35980/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35980,
+  title = {{UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity}},
+  author = {{Yijun Zhou} and {Minghao Shao} and {Ke Zhang} and {Renkai Yuan} and {Hongbo Yuan} and {Bin Hu} and {Bozhao Qian} and {Hongxia Shen} and {Yanhong Liu} and {Yuting Chen} and {Yuntao Shi} and {Zhongxuan Xu} and {Shuo Mao} and {Haijia Zhou} and {Zhendong Li} and {Tao Zhang} and {Chenggang Li} and {Yuxuan Wang} and {Zinan Zheng} and {Calvin Zhang} and {Jia Li} and {Heng Chang} and {Jie Feng}},
+  year = {2026},
+  eprint = {2610.35980v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35980v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T10:19:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

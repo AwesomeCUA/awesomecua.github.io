@@ -1,3 +1,11 @@
+---
+title: "Superconducting Neuromorphic Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1812-07503/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Superconducting Neuromorphic Computing Using Quantum Phase-Slip Junctions
 
 Status: excluded from the active CUA catalog after scope review.

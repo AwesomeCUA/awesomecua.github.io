@@ -1,3 +1,11 @@
+---
+title: "MacArena: Benchmarking Computer Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-06560/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # MacArena: Benchmarking Computer Use Agents on an Online macOS Environment
 
 MacArena 在 Apple Silicon 上通过 Apple 虚拟化框架运行计算机使用任务，结合移植任务与 macOS 原生工作负载；分析智能体表现和跨平台迁移时区分移植与原生任务子集。
@@ -27,6 +35,18 @@ Victor Muryn, Maksym Shamrai, Sofiia Mazepa, Yehor Khodysko
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-06560/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-06560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_06560,
+  title = {{MacArena: Benchmarking Computer Use Agents on an Online macOS Environment}},
+  author = {{Victor Muryn} and {Maksym Shamrai} and {Sofiia Mazepa} and {Yehor Khodysko}},
+  year = {2026},
+  eprint = {2606.06560v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.06560v1},
+  note = {First published: 2026-06-04; Recorded arXiv version: v1; Recorded version updated: 2026-06-04T14:01:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "FaizannRaza Computer-Use Automation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-faizannraza-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # FaizannRaza Computer-Use Automation
 
 使用 LLM 一次性发现传统银行 UI 工作流，并将执行过程编译为确定性的能力工件。

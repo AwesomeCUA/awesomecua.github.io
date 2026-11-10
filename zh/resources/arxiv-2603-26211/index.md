@@ -1,3 +1,11 @@
+---
+title: "Towards GUI Agents: Vision-Language… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-26211/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding
 
 将离散视觉语言扩散模型用于单轮 GUI 动作及边界框预测，并采用混合掩码调度处理坐标几何信息。跨 Web、桌面和移动端数据集的实验考察定位准确率及推理权衡。
@@ -27,6 +35,18 @@ Shrinidhi Kumbhar, Haofu Liao, Srikar Appalaraju, Kunwar Yashraj Singh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-26211/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-26211/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_26211,
+  title = {{Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding}},
+  author = {{Shrinidhi Kumbhar} and {Haofu Liao} and {Srikar Appalaraju} and {Kunwar Yashraj Singh}},
+  year = {2026},
+  eprint = {2603.26211v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.26211v1},
+  note = {First published: 2026-03-27; Recorded arXiv version: v1; Recorded version updated: 2026-03-27T09:34:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

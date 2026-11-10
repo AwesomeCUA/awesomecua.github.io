@@ -1,3 +1,11 @@
+---
+title: "SecureWebArena: A Holistic Security… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-10073/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents
 
 SecureWebArena 包含模拟的交互式网站、攻击向量分类和带标注的智能体轨迹。它区分不同视觉语言智能体在推理、行为轨迹和任务结果方面的失败。
@@ -27,6 +35,18 @@ Zonghao Ying, Yangguang Shao, Jianle Gan, Gan Xu, Wenxin Zhang, Quanchen Zou, Ju
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-10073/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-10073/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_10073,
+  title = {{SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents}},
+  author = {{Zonghao Ying} and {Yangguang Shao} and {Jianle Gan} and {Gan Xu} and {Wenxin Zhang} and {Quanchen Zou} and {Junzheng Shi} and {Zhenfei Yin} and {Mingchuan Zhang} and {Aishan Liu} and {Xianglong Liu}},
+  year = {2025},
+  eprint = {2510.10073v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.10073v2},
+  note = {First published: 2025-10-11; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T02:53:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

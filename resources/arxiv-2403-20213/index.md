@@ -1,3 +1,11 @@
+---
+title: "VHM: Versatile and Honest Vision Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-20213/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis
 
 Bibliographic record for VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chao Pang, Xingxing Weng, Jiang Wu, Jiayu Li, Yi Liu, Jiaxing Sun, Weijia Li, Sh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-20213/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-20213/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_20213,
+  title = {{VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis}},
+  author = {{Chao Pang} and {Xingxing Weng} and {Jiang Wu} and {Jiayu Li} and {Yi Liu} and {Jiaxing Sun} and {Weijia Li} and {Shuai Wang} and {Litong Feng} and {Gui-Song Xia} and {Conghui He}},
+  year = {2024},
+  eprint = {2403.20213v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.20213v4},
+  note = {First published: 2024-03-29; Recorded arXiv version: v4; Recorded version updated: 2024-12-19T13:46:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

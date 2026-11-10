@@ -1,3 +1,11 @@
+---
+title: "Scaling GUI Agents with Visual State… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-24112/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Scaling GUI Agents with Visual State Transitions
 
 状态转换预训练同时学习根据 GUI 变化推断操作，以及根据当前屏幕和操作预测未来状态。随后通过指令轨迹微调，测试这些表征能否迁移到桌面和移动端智能体任务。
@@ -27,6 +35,18 @@ Xiangyan Liu, Kaixin Li, Haonan Wang, Biao Wu, Meng Fang, Longxu Dou, Chao Du, M
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-24112/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-24112/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_24112,
+  title = {{Scaling GUI Agents with Visual State Transitions}},
+  author = {{Xiangyan Liu} and {Kaixin Li} and {Haonan Wang} and {Biao Wu} and {Meng Fang} and {Longxu Dou} and {Chao Du} and {Michael Qizhe Shieh} and {Tianyu Pang}},
+  year = {2026},
+  eprint = {2607.24112v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.24112v1},
+  note = {First published: 2026-07-27; Recorded arXiv version: v1; Recorded version updated: 2026-07-27T07:54:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

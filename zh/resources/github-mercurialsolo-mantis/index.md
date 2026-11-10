@@ -1,3 +1,11 @@
+---
+title: "Mantis · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mercurialsolo-mantis/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Mantis
 
 Mantis 是统一感知、推理与动作的计算机使用智能体，根据结构化计划操作浏览器和 Xvfb 桌面应用。

@@ -1,3 +1,11 @@
+---
+title: "Browser Use Box (bux) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-bux/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Browser Use Box (bux)
 
 Browser Use Box (bux) packages a 24/7 autonomous Claude Code and Browser Use web agent for self-hosted Linux servers.

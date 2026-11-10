@@ -1,3 +1,11 @@
+---
+title: "Large Reward Models: Generalizable Online… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-16065/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

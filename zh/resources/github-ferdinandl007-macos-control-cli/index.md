@@ -1,3 +1,11 @@
+---
+title: "macOS Control CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ferdinandl007-macos-control-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # macOS Control CLI
 
 macOS Control CLI 将本地 OmniParser v2 UI 元素检测与 macOS 上模仿人类操作的鼠标、键盘和滚动控制相结合。

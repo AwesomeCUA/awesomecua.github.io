@@ -1,3 +1,11 @@
+---
+title: "When Agents See Differently: Exposing UI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-16732/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # When Agents See Differently: Exposing UI Desynchronization Threats in Mobile Agents
 
 Investigates mismatches between what humans see on a mobile display and what agents receive through screenshots or accessibility metadata. An automated evaluation framework embeds instruction-agnostic perturbations into functional APK clones and compares static and dynamic agent deviations with human noticeability.
@@ -26,6 +34,18 @@ Heng Li, Fulin Zhao, Zhe Geng, Zhiyuan Yao, Wei Yuan, Xiapu Luo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-16732/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-16732/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_16732,
+  title = {{When Agents See Differently: Exposing UI Desynchronization Threats in Mobile Agents}},
+  author = {{Heng Li} and {Fulin Zhao} and {Zhe Geng} and {Zhiyuan Yao} and {Wei Yuan} and {Xiapu Luo}},
+  year = {2026},
+  eprint = {2609.16732v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.16732v1},
+  note = {First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T07:02:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

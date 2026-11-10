@@ -1,3 +1,11 @@
+---
+title: "VFRTok: Variable Frame Rates Video Tokenizer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12053/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VFRTok: Variable Frame Rates Video Tokenizer with Duration-Proportional Information Assumption
 
 Status: excluded from the active CUA catalog after scope review.

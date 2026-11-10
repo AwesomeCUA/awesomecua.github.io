@@ -1,3 +1,11 @@
+---
+title: "Architecting Scalable Trapped Ion Quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-23519/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Architecting Scalable Trapped Ion Quantum Computers using Surface Codes
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "The Revolution of Multimodal Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-12451/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # The Revolution of Multimodal Large Language Models: A Survey
 
 Bibliographic record for The Revolution of Multimodal Large Language Models: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Davide Caffagni, Federico Cocchi, Luca Barsellotti, Nicholas Moratelli, Sara Sar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-12451/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-12451/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_12451,
+  title = {{The Revolution of Multimodal Large Language Models: A Survey}},
+  author = {{Davide Caffagni} and {Federico Cocchi} and {Luca Barsellotti} and {Nicholas Moratelli} and {Sara Sarto} and {Lorenzo Baraldi} and {Lorenzo Baraldi} and {Marcella Cornia} and {Rita Cucchiara}},
+  year = {2024},
+  eprint = {2402.12451v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.12451v2},
+  note = {First published: 2024-02-19; Recorded arXiv version: v2; Recorded version updated: 2024-06-06T16:13:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

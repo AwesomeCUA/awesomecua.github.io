@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Verilog Design Problems: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-14074/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification
 
 Bibliographic record for Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Nathaniel Pinckney, Chenhui Deng, Chia-Tung Ho, Yun-Da Tsai, Mingjie Liu, Wenfei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-14074/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-14074/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_14074,
+  title = {{Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification}},
+  author = {{Nathaniel Pinckney} and {Chenhui Deng} and {Chia-Tung Ho} and {Yun-Da Tsai} and {Mingjie Liu} and {Wenfei Zhou} and {Brucek Khailany} and {Haoxing Ren}},
+  year = {2025},
+  eprint = {2506.14074v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.14074v1},
+  note = {First published: 2025-06-17; Recorded arXiv version: v1; Recorded version updated: 2025-06-17T00:11:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

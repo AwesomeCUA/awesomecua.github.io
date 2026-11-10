@@ -1,3 +1,11 @@
+---
+title: "open-compute | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ellmos-ai-open-compute/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # open-compute
 
 Model-agnostic computer-use core providing a unified agent loop and MCP server across Claude, OpenAI CUA, and local backends.

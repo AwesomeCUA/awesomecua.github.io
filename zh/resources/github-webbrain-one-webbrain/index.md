@@ -1,3 +1,11 @@
+---
+title: "WebBrain · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-webbrain-one-webbrain/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # WebBrain
 
 WebBrain 是面向 Chrome 和 Firefox 的开源 AI 浏览器智能体扩展，可自动执行多步骤网页工作流程。

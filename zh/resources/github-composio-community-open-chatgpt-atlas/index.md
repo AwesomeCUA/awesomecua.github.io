@@ -1,3 +1,11 @@
+---
+title: "Open ChatGPT Atlas · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-composio-community-open-chatgpt-atlas/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Open ChatGPT Atlas
 
 Chrome 侧边栏扩展和 Electron 浏览器，使用 Gemini 2.5 Computer Use 读取标签页截图并生成点击、输入、滚动和导航操作，另提供可选的 Composio 工具路由模式。

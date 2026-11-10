@@ -1,3 +1,11 @@
+---
+title: "MobileAgentBench: An Efficient and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-08184/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents
 
 Introduces a mobile-agent benchmark with tasks across open-source applications, organized by difficulty to reduce manual evaluation effort.
@@ -26,6 +34,18 @@ Luyuan Wang, Yongyu Deng, Yiwei Zha, Guodong Mao, Qinmin Wang, Tianchen Min, Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-08184/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-08184/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_08184,
+  title = {{MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents}},
+  author = {{Luyuan Wang} and {Yongyu Deng} and {Yiwei Zha} and {Guodong Mao} and {Qinmin Wang} and {Tianchen Min} and {Wei Chen} and {Shoufa Chen}},
+  year = {2024},
+  eprint = {2406.08184v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.08184v1},
+  note = {First published: 2024-06-12; Recorded arXiv version: v1; Recorded version updated: 2024-06-12T13:14:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

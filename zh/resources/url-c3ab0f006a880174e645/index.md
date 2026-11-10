@@ -1,3 +1,11 @@
+---
+title: "AgentTrek-1.0-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c3ab0f006a880174e645/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # AgentTrek-1.0-32B
 
 利用 AgentTrek 轨迹合成项目、基于 Qwen2.5-32B-Instruct 微调的网页智能体模型，并发布模型权重。

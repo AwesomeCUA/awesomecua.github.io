@@ -1,3 +1,11 @@
+---
+title: "UGround · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-uground/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # UGround
 
 提供从截图中定位 GUI 元素的通用视觉定位代码、训练数据和权重，包括基于 Qwen2-VL 的 2B、7B 和 72B 版 UGround-V1，以及离线和在线评估套件。

@@ -1,3 +1,11 @@
+---
+title: "MacAgentBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jetastra-macagentbench/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # MacAgentBench
 
 MacAgentBench 包含覆盖 25 个应用的 676 项 macOS 任务；每项任务在独立 Docker 容器中运行，通过含多个检查点的确定性规则检查评分。

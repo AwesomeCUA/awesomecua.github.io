@@ -1,3 +1,11 @@
+---
+title: "Nell (Open Source Instinct) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-iabdulwasey-nell/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Nell (Open Source Instinct)
 
 Personal computer-use and browser agent controlled via text messages to execute local desktop and web workflows.

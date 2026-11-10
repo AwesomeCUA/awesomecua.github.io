@@ -1,3 +1,11 @@
+---
+title: "Autonomous… (berkeley-nlp/agent-eval-refine) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-berkeley-nlp-agent-eval-refine/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Autonomous Evaluation and Refinement of Digital Agents
 
 Provides VLM evaluator and policy-refinement code for autonomous evaluation and filtered behavioral cloning on WebArena and AndroidInTheWild.

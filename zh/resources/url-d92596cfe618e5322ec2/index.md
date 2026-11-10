@@ -1,3 +1,11 @@
+---
+title: "TinyFish · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d92596cfe618e5322ec2/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # TinyFish
 
 用于执行网页任务并提取结构化结果的浏览器智能体 API。

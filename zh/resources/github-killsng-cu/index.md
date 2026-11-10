@@ -1,3 +1,11 @@
+---
+title: "cu (Native GUI Automation CLI) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-killsng-cu/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cu (Native GUI Automation CLI)
 
 使用 Swift（macOS）和 Rust（Windows）编写的原生 GUI 自动化 CLI，状态读取约需 50 毫秒，点击约需 100 毫秒。

@@ -1,3 +1,11 @@
+---
+title: "RLAIF vs. RLHF: Scaling Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-00267/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
 
 Status: excluded from the active CUA catalog after scope review.

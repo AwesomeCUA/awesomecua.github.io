@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 21 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/21/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 21
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/21/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Jig WebMCP Workbench](https://awesomecua.com/resources/github-emadqureshikhi-jig/)
-- [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)
 - [Job Hunter AI](https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/)
 - [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/resources/github-qiulingzhu809-sudo-job-pilot-2027/)
 - [kamalesh404 AgentOS](https://awesomecua.com/resources/github-kamalesh404-agentos/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [mano-afk](https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/)
 - [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/)
 - [maponce](https://awesomecua.com/resources/github-shivampatel0714-maponce/)
+- [Market Basket Agent](https://awesomecua.com/resources/github-0xyene-market-basket-agent/)
+- [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/)

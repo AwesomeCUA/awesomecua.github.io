@@ -1,3 +1,11 @@
+---
+title: "MaaFwApp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aliothmoon-maafwapp/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaFwApp
 
 An Android app that runs MaaFramework automation projects described by Project Interface V2 on the phone itself, capturing the screen and tapping through a Shizuku or root process, with runs on a virtual display.

@@ -1,3 +1,11 @@
+---
+title: "MobileForge: Annotation-Free Adaptation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-19930/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization
 
 MobileForge 结合真实应用探索、生成任务和层级反馈，帮助移动端智能体适应任务。其优化器将轨迹结果、步骤反馈和纠错提示转化为带上下文的 GRPO 更新，并在 AndroidWorld 及仅用 GUI 的 MobileWorld 划分上评估。
@@ -27,6 +35,18 @@ Guangyi Liu, Pengxiang Zhao, Gao Wu, Yiwen Yin, Mading Li, Liang Liu, Congxiao L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-19930/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-19930/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_19930,
+  title = {{MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization}},
+  author = {{Guangyi Liu} and {Pengxiang Zhao} and {Gao Wu} and {Yiwen Yin} and {Mading Li} and {Liang Liu} and {Congxiao Liu} and {Zhang Qi} and {Mengyan Wang} and {Liang Guo} and {Jiangning Zhang} and {Yong Liu}},
+  year = {2026},
+  eprint = {2606.19930v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.19930v2},
+  note = {First published: 2026-06-18; Recorded arXiv version: v2; Recorded version updated: 2026-08-07T03:54:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "dsh-computer-use-windows · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qphotoai-dsh-computer-use-windows/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # dsh-computer-use-windows
 
 一个适用于 DeepSeek Harness 的 Windows 电脑操作插件，可观察 UI Automation 控件并执行窗口操作，还可选用基于截图的视觉识别。

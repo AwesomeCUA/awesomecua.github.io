@@ -1,3 +1,11 @@
+---
+title: "ENVS: Environment-Native Verified Search for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-22948/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # ENVS: Environment-Native Verified Search for Long-Horizon GUI Agents
 
 ENVS branches over GUI actions in live desktop VMs, verifies successful leaves, and converts them into balanced step-level training supervision. It also introduces OSWorld-Noisy to test recovery from dynamic interruptions while retaining the underlying tasks.
@@ -26,6 +34,18 @@ Yincheng Zhou, Athena Zhuoming Zhong, Shijie Zhang, Kevin Zhang, Teresa Xiaotao 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-22948/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-22948/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_22948,
+  title = {{ENVS: Environment-Native Verified Search for Long-Horizon GUI Agents}},
+  author = {{Yincheng Zhou} and {Athena Zhuoming Zhong} and {Shijie Zhang} and {Kevin Zhang} and {Teresa Xiaotao Shang} and {Shanghang Zhang}},
+  year = {2026},
+  eprint = {2606.22948v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.22948v1},
+  note = {First published: 2026-06-22; Recorded arXiv version: v1; Recorded version updated: 2026-06-22T07:28:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

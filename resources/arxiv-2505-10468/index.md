@@ -1,3 +1,11 @@
+---
+title: "AI Agents vs. Agentic AI: A Conceptual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-10468/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges
 
 Bibliographic record for AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-10468/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-10468/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_10468,
+  title = {{AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges}},
+  author = {{Ranjan Sapkota} and {Konstantinos I. Roumeliotis} and {Manoj Karkee}},
+  year = {2025},
+  eprint = {2505.10468v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.10468v5},
+  note = {First published: 2025-05-15; Recorded arXiv version: v5; Recorded version updated: 2025-09-30T04:21:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot-Pro data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # ScreenSpot-Pro data
 
 High-resolution professional interface screenshots and target annotations for evaluating instruction-based GUI localization.

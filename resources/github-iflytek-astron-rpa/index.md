@@ -1,3 +1,11 @@
+---
+title: "AstronRPA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-iflytek-astron-rpa/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AstronRPA
 
 AstronRPA is an open-source enterprise desktop and browser RPA platform with visual workflow orchestration and MCP server integration.

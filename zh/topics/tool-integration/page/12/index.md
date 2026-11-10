@@ -1,11 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 12 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/12/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 12 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/12/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [dsh-jiey-browser](https://awesomecua.com/zh/resources/github-jiewaigongxing-dsh-jiey-browser/)
-- [dsh-live-loop](https://awesomecua.com/zh/resources/github-powerrrrrrrr-dsh-live-loop/)
 - [dsh-llm-web-bridge](https://awesomecua.com/zh/resources/github-huangyukaili1031-dsh-llm-web-bridge/)
 - [dsh-local-browser-search (dsh-search)](https://awesomecua.com/zh/resources/github-yuanmingxue-dsh-search/)
 - [dsh-nuphus-mcp](https://awesomecua.com/zh/resources/github-mrpulor-gh-dsh-nuphus-mcp/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/12/
 - [FastHands](https://awesomecua.com/zh/resources/github-tomaszteee-fasthands/)
 - [FastMCP Playwright Server](https://awesomecua.com/zh/resources/github-ma-pony-mcp-playwright/)
 - [fearch](https://awesomecua.com/zh/resources/github-funkyfunc-fearch/)
+- [Firecrawl](https://awesomecua.com/zh/resources/github-firecrawl-firecrawl/)
+- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/zh/resources/github-firecrawl-agent-browser-plugin-firecrawl/)

@@ -1,3 +1,11 @@
+---
+title: "Assessing the CAD Capabilities of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-24451/
+updated: 2026-10-27
+type: paper
+lang: en
+---
+
 # Assessing the CAD Capabilities of General-Purpose AI Models: A Case Study of GPT-6 Astra
 
 Bibliographic record for Assessing the CAD Capabilities of General-Purpose AI Models: A Case Study of GPT-6 Astra. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Qiang Zou, Jiajun Shen, Zhijie Yang, Yuhao Wang, Shitianyi Leng, Dongshuo Yin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-24451/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-24451/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_24451,
+  title = {{Assessing the CAD Capabilities of General-Purpose AI Models: A Case Study of GPT-6 Astra}},
+  author = {{Qiang Zou} and {Jiajun Shen} and {Zhijie Yang} and {Yuhao Wang} and {Shitianyi Leng} and {Dongshuo Yin}},
+  year = {2026},
+  eprint = {2610.24451v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.24451v1},
+  note = {First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T04:38:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

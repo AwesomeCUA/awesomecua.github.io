@@ -1,3 +1,11 @@
+---
+title: "ESP (Echo-Skeleton Perception) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-badtheorylabs-esp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ESP (Echo-Skeleton Perception)
 
 Stateful, event-driven screen-perception runtime that converts UI changes into compact text events for text-only computer-use agents.

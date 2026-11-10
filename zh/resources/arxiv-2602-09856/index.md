@@ -1,3 +1,11 @@
+---
+title: "Code2World: A GUI World Model via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-09856/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Code2World: A GUI World Model via Renderable Code Generation
 
 Code2World 通过生成可渲染代码预测未来 GUI 画面，并使用 AndroidCode 轨迹进行监督学习和渲染感知强化学习；论文评估视觉预测，以及利用所学世界模型完成 AndroidWorld 导航的效果。
@@ -27,6 +35,18 @@ Yuhao Zheng, Li'an Zhong, Yi Wang, Rui Dai, Kaikui Liu, Xiangxiang Chu, Linyuan 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-09856/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-09856/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09856,
+  title = {{Code2World: A GUI World Model via Renderable Code Generation}},
+  author = {{Yuhao Zheng} and {Li'an Zhong} and {Yi Wang} and {Rui Dai} and {Kaikui Liu} and {Xiangxiang Chu} and {Linyuan Lv} and {Philip Torr} and {Kevin Qinghong Lin}},
+  year = {2026},
+  eprint = {2602.09856v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09856v1},
+  note = {First published: 2026-02-10; Recorded arXiv version: v1; Recorded version updated: 2026-02-10T14:56:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "WebVIA: A Web-based Vision-Language Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-06251/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation
 
 WebVIA combines a web UI exploration agent, interactive UI-to-Code generation, and validation of generated code's interactivity.
@@ -26,6 +34,18 @@ Mingde Xu, Zhen Yang, Wenyi Hong, Lihang Pan, Xinyue Fan, Yan Wang, Xiaotao Gu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-06251/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-06251/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_06251,
+  title = {{WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation}},
+  author = {{Mingde Xu} and {Zhen Yang} and {Wenyi Hong} and {Lihang Pan} and {Xinyue Fan} and {Yan Wang} and {Xiaotao Gu} and {Bin Xu} and {Jie Tang}},
+  year = {2025},
+  eprint = {2511.06251v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.06251v1},
+  note = {First published: 2025-11-09; Recorded arXiv version: v1; Recorded version updated: 2025-11-09T06:58:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

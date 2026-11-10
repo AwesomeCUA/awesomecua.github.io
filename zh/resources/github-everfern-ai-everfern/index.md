@@ -1,3 +1,11 @@
+---
+title: "EverFern · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-everfern-ai-everfern/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # EverFern
 
 Electron 桌面智能体通过 LangGraph 编排器运行截图驱动的计算机使用循环，以 robotjs 输入鼠标和键盘，并结合 Navis 浏览器智能体与 shell 工具，支持本地或云端模型。

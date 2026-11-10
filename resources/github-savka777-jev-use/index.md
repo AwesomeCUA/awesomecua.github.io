@@ -1,3 +1,11 @@
+---
+title: "jev-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-savka777-jev-use/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # jev-use
 
 macOS voice and typed computer-use app that walks the front app's Accessibility tree, has the hosted Jev model pick an operation and a numbered target each step, and acts via Accessibility actions and synthetic input.

@@ -1,3 +1,11 @@
+---
+title: "GoSosmed Mobile Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dedy45-gososmed-mobile-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # GoSosmed Mobile Agent
 
 Android AccessibilityService 自动化引擎和控制面板，用于管理多设备移动端工作流。

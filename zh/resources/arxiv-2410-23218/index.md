@@ -1,3 +1,11 @@
+---
+title: "OS-ATLAS: A Foundation Action Model for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-23218/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # OS-ATLAS: A Foundation Action Model for Generalist GUI Agents
 
 结合跨平台 GUI 定位数据合成与动作模型训练，研究模型对陌生界面的泛化能力。
@@ -27,6 +35,18 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, Kanzhi C
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-23218/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-23218/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_23218,
+  title = {{OS-ATLAS: A Foundation Action Model for Generalist GUI Agents}},
+  author = {{Zhiyong Wu} and {Zhenyu Wu} and {Fangzhi Xu} and {Yian Wang} and {Qiushi Sun} and {Chengyou Jia} and {Kanzhi Cheng} and {Zichen Ding} and {Liheng Chen} and {Paul Pu Liang} and {Yu Qiao}},
+  year = {2024},
+  eprint = {2410.23218v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.23218v1},
+  note = {First published: 2024-10-30; Recorded arXiv version: v1; Recorded version updated: 2024-10-30T17:10:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

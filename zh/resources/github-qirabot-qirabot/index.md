@@ -1,3 +1,11 @@
+---
+title: "Qirabot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qirabot-qirabot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Qirabot
 
 Qirabot 是纯视觉多模态 GUI 自动化框架，无需 DOM 选择器即可操作浏览器、移动端应用、桌面和游戏。

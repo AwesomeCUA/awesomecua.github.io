@@ -1,3 +1,11 @@
+---
+title: "Agentic ESOpt: Fine-Tuning Long-Horizon LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-17310/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements
 
 Introduces Agentic ESOpt, an evolution-strategies fine-tuning framework for long-horizon agents, evaluated on WebArena-Lite web tasks and automatic heuristic design.
@@ -26,6 +34,18 @@ Zhi Zheng, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, Wee Sun Lee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-17310/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-17310/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_17310,
+  title = {{Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements}},
+  author = {{Zhi Zheng} and {Rongsheng Chen} and {Yunpeng Ba} and {Zhenkun Wang} and {Yee Whye Teh} and {Wee Sun Lee}},
+  year = {2026},
+  eprint = {2608.17310v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.17310v2},
+  note = {First published: 2026-08-18; Recorded arXiv version: v2; Recorded version updated: 2026-08-21T05:30:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

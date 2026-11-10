@@ -1,3 +1,11 @@
+---
+title: "Eyes Wide Shut? Exploring the Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-06209/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs
 
 Bibliographic record for Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-06209/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-06209/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_06209,
+  title = {{Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs}},
+  author = {{Shengbang Tong} and {Zhuang Liu} and {Yuexiang Zhai} and {Yi Ma} and {Yann LeCun} and {Saining Xie}},
+  year = {2024},
+  eprint = {2401.06209v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.06209v2},
+  note = {First published: 2024-01-11; Recorded arXiv version: v2; Recorded version updated: 2024-04-25T07:12:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

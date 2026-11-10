@@ -1,3 +1,11 @@
+---
+title: "Rico · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0b134b082a7bd507fc6a/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Rico
 
 用于 UI 研究的移动应用截图、视图层级和交互轨迹。

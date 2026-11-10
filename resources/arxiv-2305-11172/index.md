@@ -1,3 +1,11 @@
+---
+title: "ONE-PEACE: Exploring One General… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-11172/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities
 
 Bibliographic record for ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Peng Wang, Shijie Wang, Junyang Lin, Shuai Bai, Xiaohuan Zhou, Jingren Zhou, Xin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-11172/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-11172/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_11172,
+  title = {{ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities}},
+  author = {{Peng Wang} and {Shijie Wang} and {Junyang Lin} and {Shuai Bai} and {Xiaohuan Zhou} and {Jingren Zhou} and {Xinggang Wang} and {Chang Zhou}},
+  year = {2023},
+  eprint = {2305.11172v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.11172v1},
+  note = {First published: 2023-05-18; Recorded arXiv version: v1; Recorded version updated: 2023-05-18T17:59:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

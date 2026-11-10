@@ -1,3 +1,11 @@
+---
+title: "Semantic Kernel · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-semantic-kernel/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Semantic Kernel
 
 Semantic Kernel 是企业级 SDK，用于跨 Python、.NET 和 Java 编排多智能体工作流、插件和记忆。

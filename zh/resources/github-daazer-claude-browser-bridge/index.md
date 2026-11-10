@@ -1,3 +1,11 @@
+---
+title: "Claude Browser Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daazer-claude-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Claude Browser Bridge
 
 本地桥接工具，让编程智能体能够读取和操作用户日常使用且已登录的 Chrome 配置文件。

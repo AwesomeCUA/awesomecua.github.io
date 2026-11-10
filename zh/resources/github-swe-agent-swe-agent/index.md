@@ -1,3 +1,11 @@
+---
+title: "SWE-agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-swe-agent-swe-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SWE-agent
 
 SWE-agent 提出 Agent-Computer Interfaces（ACI），使语言模型能够自主浏览代码仓库、编辑代码和运行测试。

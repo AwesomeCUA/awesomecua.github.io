@@ -1,3 +1,11 @@
+---
+title: "Q-Verifier / Q-Reflector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pockyitachi-q-verifier/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Q-Verifier / Q-Reflector
 
 Q-Reflector 结合操作前后截图和任务上下文检查 GUI 智能体的操作，并提供训练及在线评测代码。

@@ -1,3 +1,11 @@
+---
+title: "CHOP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuqi-zhou-chop/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # CHOP
 
 Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.

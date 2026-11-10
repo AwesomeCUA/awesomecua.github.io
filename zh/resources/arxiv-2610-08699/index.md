@@ -1,3 +1,11 @@
+---
+title: "nanoMuse: An Open-Source Personal Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-08699/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # nanoMuse: An Open-Source Personal Agent for Every Device You Own
 
 提出开源个人智能体 nanoMuse，使其可在手机和电脑屏幕上操作，并通过共享对话、动作检查组件 Sentinel 和可读取的文件记忆协同工作。
@@ -27,6 +35,18 @@ Guangyi Liu, Yong Liu, Jiangning Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-08699/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-08699/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08699,
+  title = {{nanoMuse: An Open-Source Personal Agent for Every Device You Own}},
+  author = {{Guangyi Liu} and {Yong Liu} and {Jiangning Zhang}},
+  year = {2026},
+  eprint = {2610.08699v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08699v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:13:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "hands-off | AwesomeCUA"
+url: https://awesomecua.com/resources/github-niramay-kelkar-hands-off/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # hands-off
 
 hands-off discovers UI workflows in legacy back-office software without APIs and compiles them into deterministic replay scripts.

@@ -1,3 +1,11 @@
+---
+title: "nemosr dsh-personal-plugins · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nemosr-dsh-personal-plugins/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # nemosr dsh-personal-plugins
 
 DeepSeek Harness 插件包，提供 `web_app_testing` 浏览器自动化工具和 `host-web-debug` 实时检查工具。

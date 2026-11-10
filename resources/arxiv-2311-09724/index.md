@@ -1,3 +1,11 @@
+---
+title: "OVM, Outcome-supervised Value Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-09724/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

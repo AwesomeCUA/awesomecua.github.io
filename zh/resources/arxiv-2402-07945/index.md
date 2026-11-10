@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent: A Vision Language… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-07945/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # ScreenAgent: A Vision Language Model-driven Computer Control Agent
 
 将截图与操作数据集和规划、执行、反思循环结合，通过鼠标和键盘操作控制计算机。
@@ -27,6 +35,18 @@ Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-07945/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-07945/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_07945,
+  title = {{ScreenAgent: A Vision Language Model-driven Computer Control Agent}},
+  author = {{Runliang Niu} and {Jindong Li} and {Shiqi Wang} and {Yali Fu} and {Xiyu Hu} and {Xueyuan Leng} and {He Kong} and {Yi Chang} and {Qi Wang}},
+  year = {2024},
+  eprint = {2402.07945v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.07945v1},
+  note = {First published: 2024-02-09; Recorded arXiv version: v1; Recorded version updated: 2024-02-09T02:33:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

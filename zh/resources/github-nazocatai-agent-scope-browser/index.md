@@ -1,3 +1,11 @@
+---
+title: "AgentScope Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nazocatai-agent-scope-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AgentScope Browser MCP
 
 专供 AI 智能体使用的浏览器 MCP 服务器，提供语义化页面观察结果和稳定的 `element_id` 交互。

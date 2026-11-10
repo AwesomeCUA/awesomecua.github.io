@@ -1,3 +1,11 @@
+---
+title: "Learning to Solve Voxel Building Embodied… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-00688/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Learning to Solve Voxel Building Embodied Tasks from Pixels and Natural Language Instructions
 
 Bibliographic record for Learning to Solve Voxel Building Embodied Tasks from Pixels and Natural Language Instructions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Alexey Skrynnik, Zoya Volovikova, Marc-Alexandre Côté, Anton Voronov, Artem Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2211-00688/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2211-00688/citation.csl.json
+
+```bibtex
+@misc{arxiv_2211_00688,
+  title = {{Learning to Solve Voxel Building Embodied Tasks from Pixels and Natural Language Instructions}},
+  author = {{Alexey Skrynnik} and {Zoya Volovikova} and {Marc-Alexandre Côté} and {Anton Voronov} and {Artem Zholus} and {Negar Arabzadeh} and {Shrestha Mohanty} and {Milagro Teruel} and {Ahmed Awadallah} and {Aleksandr Panov} and {Mikhail Burtsev} and {Julia Kiseleva}},
+  year = {2022},
+  eprint = {2211.00688v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2211.00688v1},
+  note = {First published: 2022-11-01; Recorded arXiv version: v1; Recorded version updated: 2022-11-01T18:30:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

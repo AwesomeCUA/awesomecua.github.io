@@ -1,3 +1,11 @@
+---
+title: "Jailbreak and Guard Aligned Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-06387/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations
 
 Status: excluded from the active CUA catalog after scope review.

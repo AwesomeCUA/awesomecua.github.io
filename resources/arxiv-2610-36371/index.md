@@ -1,3 +1,11 @@
+---
+title: "BoxWorld: Let World Engines Control and Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36371/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # BoxWorld: Let World Engines Control and Video Generators Render
 
 Bibliographic record for BoxWorld: Let World Engines Control and Video Generators Render. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zike Wu, Ahmed Hatem, Chintan Trivedi, Wallace Michel Pinto Lira, Xuebin Qin, Le
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36371/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36371/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36371,
+  title = {{BoxWorld: Let World Engines Control and Video Generators Render}},
+  author = {{Zike Wu} and {Ahmed Hatem} and {Chintan Trivedi} and {Wallace Michel Pinto Lira} and {Xuebin Qin} and {Lele Wang} and {Renjie Liao}},
+  year = {2026},
+  eprint = {2610.36371v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36371v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T22:36:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

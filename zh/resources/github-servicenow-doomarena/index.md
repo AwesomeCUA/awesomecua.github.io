@@ -1,3 +1,11 @@
+---
+title: "DoomArena · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-servicenow-doomarena/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # DoomArena
 
 安全测试框架通过攻击网关封装 BrowserGym、OSWorld、tau-bench 和邮件智能体环境，在可配置威胁模型下注入弹窗、横幅等对抗内容。

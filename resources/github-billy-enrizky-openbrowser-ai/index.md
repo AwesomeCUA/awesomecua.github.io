@@ -1,3 +1,11 @@
+---
+title: "OpenBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-billy-enrizky-openbrowser-ai/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # OpenBrowser
 
 Python browser-automation framework whose CodeAgent shows a model indexed DOM state and an optional screenshot, then runs the Python it writes against Chrome DevTools Protocol helpers in a persistent namespace.

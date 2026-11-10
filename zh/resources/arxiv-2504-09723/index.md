@@ -1,3 +1,11 @@
+---
+title: "AgentA/B: Automated and Scalable Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-09723/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents
 
 提出 AgentA/B，用具有不同用户画像的 LLM 智能体浏览真实网页并执行购物操作，以模拟网页 A/B 测试。
@@ -27,6 +35,18 @@ Yuxuan Lu, Ting-Yao Hsu, Hansu Gu, Limeng Cui, Yaochen Xie, William Headden, Bin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-09723/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-09723/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_09723,
+  title = {{AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents}},
+  author = {{Yuxuan Lu} and {Ting-Yao Hsu} and {Hansu Gu} and {Limeng Cui} and {Yaochen Xie} and {William Headden} and {Bingsheng Yao} and {Akash Veeragouni} and {Jiapeng Liu} and {Sreyashi Nag} and {Jessie Wang} and {Dakuo Wang}},
+  year = {2025},
+  eprint = {2504.09723v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.09723v4},
+  note = {First published: 2025-04-13; Recorded arXiv version: v4; Recorded version updated: 2026-03-10T20:51:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

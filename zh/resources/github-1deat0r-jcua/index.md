@@ -1,3 +1,11 @@
+---
+title: "Jcua (Jev Computer Use Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-1deat0r-jcua/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Jcua (Jev Computer Use Agent)
 
 Jcua 是一款由 Jev 决策模型驱动的跨平台计算机使用智能体，可在 Linux、Windows 和 macOS 桌面上运行。

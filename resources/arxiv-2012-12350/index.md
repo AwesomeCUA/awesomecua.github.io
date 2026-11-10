@@ -1,3 +1,11 @@
+---
+title: "ActionBert: Leveraging User Actions for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2012-12350/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces
 
 Pretrains ActionBert on user interaction traces to combine visual, linguistic, and UI-structure features. It evaluates the resulting UI representations on tasks including icon classification and description-based component retrieval.
@@ -26,6 +34,18 @@ Zecheng He, Srinivas Sunkara, Xiaoxue Zang, Ying Xu, Lijuan Liu, Nevan Wichers, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2012-12350/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2012-12350/citation.csl.json
+
+```bibtex
+@misc{arxiv_2012_12350,
+  title = {{ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces}},
+  author = {{Zecheng He} and {Srinivas Sunkara} and {Xiaoxue Zang} and {Ying Xu} and {Lijuan Liu} and {Nevan Wichers} and {Gabriel Schubiner} and {Ruby Lee} and {Jindong Chen} and {Blaise Agüera y Arcas}},
+  year = {2020},
+  eprint = {2012.12350v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2012.12350v2},
+  note = {First published: 2020-12-22; Recorded arXiv version: v2; Recorded version updated: 2021-01-25T20:37:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

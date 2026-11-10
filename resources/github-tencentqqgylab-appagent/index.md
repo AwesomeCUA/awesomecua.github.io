@@ -1,3 +1,11 @@
+---
+title: "AppAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencentqqgylab-appagent/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # AppAgent
 
 Multimodal agent that operates Android apps through taps and swipes without back-end access, building a reusable knowledge base from autonomous exploration or from watching human demonstrations.

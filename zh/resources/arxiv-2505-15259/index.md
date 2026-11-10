@@ -1,3 +1,11 @@
+---
+title: "ReGUIDE: Data Efficient GUI Grounding… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-15259/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search
 
 结合自行生成的定位推理、空间一致性检查和推理时搜索，提高数据有限条件下的网页定位能力。
@@ -27,6 +35,18 @@ Hyunseok Lee, Jeonghoon Kim, Beomjun Kim, Jihoon Tack, Chansong Jo, Jaehong Lee,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-15259/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-15259/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_15259,
+  title = {{ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search}},
+  author = {{Hyunseok Lee} and {Jeonghoon Kim} and {Beomjun Kim} and {Jihoon Tack} and {Chansong Jo} and {Jaehong Lee} and {Cheonbok Park} and {Sookyo In} and {Jinwoo Shin} and {Kang Min Yoo}},
+  year = {2025},
+  eprint = {2505.15259v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.15259v2},
+  note = {First published: 2025-05-21; Recorded arXiv version: v2; Recorded version updated: 2025-05-24T15:08:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

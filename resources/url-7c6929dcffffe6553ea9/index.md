@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-241B-A28B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3_5-241B-A28B-HF
 
 InternVL3_5-241B-A28B-HF releases a Transformers-format multimodal checkpoint from the InternVL3.5 family, whose card describes GUI interaction and efficient visual inference.

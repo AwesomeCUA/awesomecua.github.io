@@ -1,3 +1,11 @@
+---
+title: "uiautomator2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openatx-uiautomator2/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # uiautomator2
 
 uiautomator2 is a Python library for controlling Android devices through a device-side UiAutomator service, including app launch and UI element actions.

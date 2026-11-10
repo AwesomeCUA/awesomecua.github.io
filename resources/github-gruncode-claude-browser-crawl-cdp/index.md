@@ -1,3 +1,11 @@
+---
+title: "claude-browser-crawl-cdp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gruncode-claude-browser-crawl-cdp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # claude-browser-crawl-cdp
 
 Persistent Playwright REPL and CDP bridge allowing Claude Code to drive a user's logged-in Chrome browser with low token overhead.

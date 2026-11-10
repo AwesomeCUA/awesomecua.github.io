@@ -1,3 +1,11 @@
+---
+title: "aic-pod · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-veypi-aic-pod/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # aic-pod
 
 将物理机或虚拟机变为可由 LLM 调用的执行节点，提供沙箱化的 shell、文件、浏览器和桌面控制功能。

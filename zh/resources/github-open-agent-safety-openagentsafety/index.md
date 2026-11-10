@@ -1,3 +1,11 @@
+---
+title: "OpenAgentSafety · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-open-agent-safety-openagentsafety/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # OpenAgentSafety
 
 这是一个智能体安全基准，采用涉及浏览器、文件系统、终端和消息工具的多步模拟任务，测试智能体如何应对含糊、冲突和对抗性指令。

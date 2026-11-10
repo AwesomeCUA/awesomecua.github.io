@@ -1,3 +1,11 @@
+---
+title: "kb-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hiyokosauna37-kb-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # kb-browser
 
 CLI-driven Playwright and Chromium browser with terminal DevTools for humans and AI coding agents.

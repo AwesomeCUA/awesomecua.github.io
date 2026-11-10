@@ -1,3 +1,11 @@
+---
+title: "Computer Agents · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e73eb2f901a50145c37e/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Computer Agents
 
 云端智能体平台，为智能体提供可持久使用的电脑，以及浏览器、图形界面、终端和文件访问，并配有项目工作区与工作流触发器。

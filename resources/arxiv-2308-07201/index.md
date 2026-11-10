@@ -1,3 +1,11 @@
+---
+title: "ChatEval: Towards Better LLM-based Evaluators… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-07201/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
 
 Status: excluded from the active CUA catalog after scope review.

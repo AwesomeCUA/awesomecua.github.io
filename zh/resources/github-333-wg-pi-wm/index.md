@@ -1,3 +1,11 @@
+---
+title: "Pi-WM (Wuming Agent Desktop) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-333-wg-pi-wm/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Pi-WM (Wuming Agent Desktop)
 
 基于 pi-agent 构建的桌面 AI 智能体工作空间，用于执行本地任务和浏览器自动化。

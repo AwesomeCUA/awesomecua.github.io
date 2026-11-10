@@ -1,3 +1,11 @@
+---
+title: "DeployBench: Benchmarking LLM Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-05238/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DeployBench: Benchmarking LLM Agents for Research Artifact Deployment
 
 Bibliographic record for DeployBench: Benchmarking LLM Agents for Research Artifact Deployment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuanli Wang, Yaoyao Qian, Yue Zhang, Hanhan Zhou, Jindan Huang, Tianfu Fu, Qiuya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-05238/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-05238/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05238,
+  title = {{DeployBench: Benchmarking LLM Agents for Research Artifact Deployment}},
+  author = {{Yuanli Wang} and {Yaoyao Qian} and {Yue Zhang} and {Hanhan Zhou} and {Jindan Huang} and {Tianfu Fu} and {Qiuyang Mang} and {Huanzhi Mao} and {Wenhao Chai} and {Wendong Fan} and {Liqiang Jing}},
+  year = {2026},
+  eprint = {2606.05238v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05238v2},
+  note = {First published: 2026-06-03; Recorded arXiv version: v2; Recorded version updated: 2026-08-30T23:17:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "SE-GUI-3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6d6f7ffc6a15e9e75a14/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # SE-GUI-3B
 
 GUI grounding model on a Qwen2.5-VL 3B backbone trained with self-evolutionary reinforcement fine-tuning on 3,018 curated samples; the authors report 35.9 on ScreenSpot-Pro.

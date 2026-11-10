@@ -1,11 +1,17 @@
+---
+title: "Workflows — computer-use research, page 8 | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/page/8/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows — computer-use research, page 8
 
 HTML page: https://awesomecua.com/topics/workflow/page/8/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
-- [Neurosim](https://awesomecua.com/resources/github-anaishowland-neurosim/)
-- [Northstar (Legacy Portal CUA)](https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/)
 - [Notte CLI](https://awesomecua.com/resources/github-nottelabs-notte-cli/)
 - [Nova Act Extension](https://awesomecua.com/resources/github-aws-nova-act-extension/)
 - [Nova Act SDK](https://awesomecua.com/resources/github-aws-nova-act/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [record-and-replay-skill](https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/)
 - [RecordAgent (ButvanAgent)](https://awesomecua.com/resources/github-kavanio-recordagent/)
 - [Recruit Auto-Reply](https://awesomecua.com/resources/github-kxc7558-recruit-auto-reply/)
+- [Replay (Teach-by-Demonstration)](https://awesomecua.com/resources/github-misb74-replay/)
+- [Replay AI](https://awesomecua.com/resources/github-bryansbtian-replay-ai/)

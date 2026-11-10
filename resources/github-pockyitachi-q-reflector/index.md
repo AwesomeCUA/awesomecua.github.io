@@ -1,3 +1,11 @@
+---
+title: "Q-Reflector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pockyitachi-q-reflector/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Q-Reflector
 
 Q-Reflector trains an 8B vision-language verifier with generated pre/post-action conditions to detect and correct GUI action errors.

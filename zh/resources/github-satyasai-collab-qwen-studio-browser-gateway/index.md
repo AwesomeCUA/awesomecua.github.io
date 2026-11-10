@@ -1,3 +1,11 @@
+---
+title: "Qwen Studio Browser Gateway · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-satyasai-collab-qwen-studio-browser-gateway/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Qwen Studio Browser Gateway
 
 基于已登录的 Qwen Studio 浏览器会话，为 Claude Code 提供建议的本地主机网关。

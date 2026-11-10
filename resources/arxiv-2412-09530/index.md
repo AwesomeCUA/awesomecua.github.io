@@ -1,3 +1,11 @@
+---
+title: "Dynamic-VLM: Simple Dynamic Visual Token… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-09530/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "GUI-Odyssey | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opengvlab-gui-odyssey/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-Odyssey
 
 Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.

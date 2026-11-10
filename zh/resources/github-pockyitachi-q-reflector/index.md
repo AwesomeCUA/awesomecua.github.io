@@ -1,3 +1,11 @@
+---
+title: "Q-Reflector · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pockyitachi-q-reflector/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Q-Reflector
 
 Q-Reflector 使用生成的动作前后条件训练 8B 视觉语言验证模型，以检测并纠正 GUI 动作错误。

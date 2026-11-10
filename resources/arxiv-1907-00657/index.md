@@ -1,3 +1,11 @@
+---
+title: "Optical Reservoir Computing using multiple… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1907-00657/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Optical Reservoir Computing using multiple light scattering for chaotic systems prediction
 
 Status: excluded from the active CUA catalog after scope review.

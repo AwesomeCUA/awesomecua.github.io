@@ -1,3 +1,11 @@
+---
+title: "invisible_puppeteer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-invisible-puppeteer/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # invisible_puppeteer
 
 A Python package with pyppeteer's Puppeteer API that drives an anti-detect Firefox, setting the browser fingerprint inside the engine and moving the mouse along humanized paths.

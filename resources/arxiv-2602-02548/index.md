@@ -1,3 +1,11 @@
+---
+title: "ToolTok: Tool Tokenization for Efficient and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-02548/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ToolTok: Tool Tokenization for Efficient and Generalizable GUI Agents
 
 ToolTok represents GUI operations with learned tool tokens and frames interaction as progressive tool selection. Semantic anchoring and an easy-to-hard curriculum teach tool meanings before visual pathfinding, with evaluation across grounding scenarios.
@@ -26,6 +34,18 @@ Xiaoce Wang, Guibin Zhang, Junzhe Li, Jinzhe Tu, Chun Li, Ming Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-02548/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-02548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_02548,
+  title = {{ToolTok: Tool Tokenization for Efficient and Generalizable GUI Agents}},
+  author = {{Xiaoce Wang} and {Guibin Zhang} and {Junzhe Li} and {Jinzhe Tu} and {Chun Li} and {Ming Li}},
+  year = {2026},
+  eprint = {2602.02548v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.02548v1},
+  note = {First published: 2026-01-30; Recorded arXiv version: v1; Recorded version updated: 2026-01-30T08:38:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

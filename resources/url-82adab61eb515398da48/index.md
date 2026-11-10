@@ -1,3 +1,11 @@
+---
+title: "V-Droid-8B-0323 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-82adab61eb515398da48/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # V-Droid-8B-0323
 
 A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.

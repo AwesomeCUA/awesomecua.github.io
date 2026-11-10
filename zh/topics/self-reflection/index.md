@@ -1,3 +1,11 @@
+---
+title: "自我反思：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/self-reflection/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自我反思
 
 Reviewed topic membership; resources can appear in multiple topics.

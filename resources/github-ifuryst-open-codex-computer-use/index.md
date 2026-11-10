@@ -1,3 +1,11 @@
+---
+title: "open-codex-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ifuryst-open-codex-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # open-codex-computer-use
 
 open-codex-computer-use is a native Swift MCP server that exposes macOS per-application window capture, accessibility inspection, and input control.

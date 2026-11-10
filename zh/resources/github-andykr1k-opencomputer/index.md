@@ -1,3 +1,11 @@
+---
+title: "OpenComputer · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-andykr1k-opencomputer/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OpenComputer
 
 OpenComputer 是面向 Linux、Windows 和 macOS 的本地优先跨平台计算机使用智能体，基于本地视觉语言模型。

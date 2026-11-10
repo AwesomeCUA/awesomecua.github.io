@@ -1,3 +1,11 @@
+---
+title: "Benchmarking Web Agent Safety under… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-13686/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces
 
 提出 WebDecept 插件，在网页智能体执行电商任务时注入欺骗性界面模式，评估多模态智能体的反应。
@@ -27,6 +35,18 @@ Zijing Shi, Meng Fang, Ling Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-13686/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-13686/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_13686,
+  title = {{Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces}},
+  author = {{Zijing Shi} and {Meng Fang} and {Ling Chen}},
+  year = {2026},
+  eprint = {2606.13686v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.13686v1},
+  note = {First published: 2026-04-26; Recorded arXiv version: v1; Recorded version updated: 2026-04-26T17:46:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

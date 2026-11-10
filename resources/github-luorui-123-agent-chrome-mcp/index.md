@@ -1,3 +1,11 @@
+---
+title: "agent-chrome-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-luorui-123-agent-chrome-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-chrome-mcp
 
 Open-source Model Context Protocol server connecting Codex, Claude, and Cursor to a user's logged-in Chrome browser via CDP.

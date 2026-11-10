@@ -1,3 +1,11 @@
+---
+title: "vnc-computer-use CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eyhn-vnc/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # vnc-computer-use CLI
 
 供计算机使用智能体通过 VNC 截图并发送鼠标和键盘动作的命令行界面。

@@ -1,3 +1,11 @@
+---
+title: "CLI-Anything: Towards Agent-Native Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-03854/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # CLI-Anything: Towards Agent-Native Computer Use
 
 CLI-Anything argues for application interfaces built around structured commands, explicit state and execution feedback. It describes transforming existing software into command-line harnesses and organizing that approach through CLI-Hub.
@@ -26,6 +34,18 @@ Yuhao Yang, Tianyu Fan, Chao Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-03854/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-03854/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03854,
+  title = {{CLI-Anything: Towards Agent-Native Computer Use}},
+  author = {{Yuhao Yang} and {Tianyu Fan} and {Chao Huang}},
+  year = {2026},
+  eprint = {2606.03854v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03854v1},
+  note = {First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T16:30:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "SPA-VL: A Comprehensive Safety Preference… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-12030/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model
 
 Bibliographic record for SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yongting Zhang, Lu Chen, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, Zhenfe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-12030/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-12030/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_12030,
+  title = {{SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model}},
+  author = {{Yongting Zhang} and {Lu Chen} and {Guodong Zheng} and {Yifeng Gao} and {Rui Zheng} and {Jinlan Fu} and {Zhenfei Yin} and {Senjie Jin} and {Yu Qiao} and {Xuanjing Huang} and {Feng Zhao} and {Tao Gui} and {Jing Shao}},
+  year = {2024},
+  eprint = {2406.12030v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.12030v4},
+  note = {First published: 2024-06-17; Recorded arXiv version: v4; Recorded version updated: 2025-05-21T04:55:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

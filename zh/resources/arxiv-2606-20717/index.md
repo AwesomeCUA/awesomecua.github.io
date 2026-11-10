@@ -1,3 +1,11 @@
+---
+title: "MIRAGE: Stealthy Visual Prompt Injection… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20717/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents
 
 MIRAGE 评估将对抗图像限制在合法第三方网页区域时，针对智能体下一步操作的劫持。它结合基于扩散的图像生成与考虑执行过程的优化，并在网页智能体框架上测试这一受约束的视觉注入场景。
@@ -27,6 +35,18 @@ Xuelong Dai, Jianyu Ma, Boyang Ma, Biwei Yan, Yijun Yang, Yue Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20717/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20717/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20717,
+  title = {{MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents}},
+  author = {{Xuelong Dai} and {Jianyu Ma} and {Boyang Ma} and {Biwei Yan} and {Yijun Yang} and {Yue Zhang}},
+  year = {2026},
+  eprint = {2606.20717v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20717v2},
+  note = {First published: 2026-06-16; Recorded arXiv version: v2; Recorded version updated: 2026-10-15T04:29:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

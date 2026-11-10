@@ -1,3 +1,11 @@
+---
+title: "Click-100k · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bf847949766b2b257d1c/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Click-100k
 
 101,314 组截图与指令配对数据，附点击定位目标框，从公开 GUI 定位数据集及教程视频帧中筛选，并配有 EasyR1 点位预测提示。

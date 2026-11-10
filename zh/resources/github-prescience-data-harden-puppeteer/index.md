@@ -1,3 +1,11 @@
+---
+title: "Harden Vanilla Puppeteer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prescience-data-harden-puppeteer/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Harden Vanilla Puppeteer
 
 一组 patch-package 补丁，修改 Puppeteer 核心文件，使页面调用在隔离环境中执行，并从错误堆栈和配置文件名中去除 Puppeteer 字样，以降低自动化检测率。

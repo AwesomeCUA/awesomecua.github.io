@@ -1,3 +1,11 @@
+---
+title: "Workflow-GYM: Towards Long-Horizon Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-11042/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 
 Workflow-GYM evaluates long GUI workflows in professional software. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
@@ -26,6 +34,17 @@ The annotation and scope were reviewed against the primary paper abstract.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-11042/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-11042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_11042,
+  title = {{Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields}},
+  year = {2026},
+  eprint = {2606.11042v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.11042v4},
+  note = {First published: 2026-06-09; Recorded arXiv version: v4; Recorded version updated: 2026-07-17T12:22:12Z; Authors: see the paper (https://arxiv.org/abs/2606.11042v4); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "pi-browser-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-longweekendprojects-pi-browser-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pi-browser-use
 
 Native `pi` coding-agent tool that drives the user's logged-in Arc or Chrome browser over CDP with reusable site primitives.

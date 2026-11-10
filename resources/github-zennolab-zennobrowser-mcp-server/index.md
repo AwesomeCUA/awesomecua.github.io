@@ -1,3 +1,11 @@
+---
+title: "ZennoBrowser MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zennolab-zennobrowser-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ZennoBrowser MCP Server
 
 Official Model Context Protocol server for controlling ZennoBrowser anti-detect browser profiles, proxies, cookies, and web actions.

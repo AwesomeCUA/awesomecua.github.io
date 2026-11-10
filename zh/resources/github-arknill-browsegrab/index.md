@@ -1,3 +1,11 @@
+---
+title: "browsegrab · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arknill-browsegrab/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # browsegrab
 
 面向本地 LLM、节省 token 的浏览器智能体和 MCP 服务器，结合 Playwright、无障碍树和 Markdown 提取。

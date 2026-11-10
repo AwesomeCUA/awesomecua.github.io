@@ -1,3 +1,11 @@
+---
+title: "Rex-Omni (huggingface.co/IDEA-Research/Re… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-37880875f816f46f6dfe/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Rex-Omni
 
 Rex-Omni 的 3B 参数检查点，基于 Qwen2.5-VL-3B-Instruct 微调，将检测、指点、OCR、关键点和 GUI 定位统一为下一点预测；可通过 transformers 或 vLLM 加载。

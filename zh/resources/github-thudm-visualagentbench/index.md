@@ -1,3 +1,11 @@
+---
+title: "VisualAgentBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-visualagentbench/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # VisualAgentBench
 
 涵盖视觉 GUI、具身和设计任务的评估框架，包括移动端及基于 WebArena 的环境。

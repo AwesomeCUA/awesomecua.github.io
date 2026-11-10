@@ -1,3 +1,11 @@
+---
+title: "WONDERBREAD · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hazyresearch-wonderbread/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # WONDERBREAD
 
 WONDERBREAD 是用于评估工作流程文档编写、质量评估和知识迁移的离线基准，使用人类网页导航演示、操作轨迹和书面流程。

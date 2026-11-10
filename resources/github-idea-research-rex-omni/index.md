@@ -1,3 +1,11 @@
+---
+title: "Rex-Omni (github.com/IDEA-Research/Rex-Omni) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-idea-research-rex-omni/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Rex-Omni
 
 Rex-Omni is a general visual perception model with GUI grounding and pointing modes. The repository provides inference examples, evaluation materials, and fine-tuning code.

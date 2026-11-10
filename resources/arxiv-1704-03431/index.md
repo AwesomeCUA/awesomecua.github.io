@@ -1,3 +1,11 @@
+---
+title: "Qudit-Basis Universal Quantum Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1704-03431/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Qudit-Basis Universal Quantum Computation using $χ^{(2)}$ Interactions
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "selenium-stealth · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-diprajpatra-selenium-stealth/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # selenium-stealth
 
 selenium-stealth 是一款 Python 工具，可配置由 Selenium 驱动的 Chrome 或 Chromium 会话，以降低浏览器自动化被检测到的概率。

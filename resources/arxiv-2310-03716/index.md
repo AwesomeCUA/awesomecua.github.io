@@ -1,3 +1,11 @@
+---
+title: "A Long Way to Go: Investigating Length… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-03716/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # A Long Way to Go: Investigating Length Correlations in RLHF
 
 Bibliographic record for A Long Way to Go: Investigating Length Correlations in RLHF. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Prasann Singhal, Tanya Goyal, Jiacheng Xu, Greg Durrett
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-03716/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-03716/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_03716,
+  title = {{A Long Way to Go: Investigating Length Correlations in RLHF}},
+  author = {{Prasann Singhal} and {Tanya Goyal} and {Jiacheng Xu} and {Greg Durrett}},
+  year = {2023},
+  eprint = {2310.03716v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.03716v2},
+  note = {First published: 2023-10-05; Recorded arXiv version: v2; Recorded version updated: 2024-07-10T23:15:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

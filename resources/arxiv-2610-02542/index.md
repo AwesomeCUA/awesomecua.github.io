@@ -1,3 +1,11 @@
+---
+title: "How To Train Your World Model: Fine-tuning vs… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02542/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling
 
 Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
@@ -26,6 +34,18 @@ Dhananjay Ashok, Shantanu Agarwal, Vivek Datla, Jonathan May, Alfy Samuel
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02542/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02542/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02542,
+  title = {{How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling}},
+  author = {{Dhananjay Ashok} and {Shantanu Agarwal} and {Vivek Datla} and {Jonathan May} and {Alfy Samuel}},
+  year = {2026},
+  eprint = {2610.02542v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02542v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T22:30:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

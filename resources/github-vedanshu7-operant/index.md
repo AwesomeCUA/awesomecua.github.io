@@ -1,3 +1,11 @@
+---
+title: "Vedanshu7 Operant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vedanshu7-operant/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Vedanshu7 Operant
 
 Discovers how to complete a task in a no-API application once with an LLM and compiles the trace for repeatable execution.

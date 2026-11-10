@@ -1,3 +1,11 @@
+---
+title: "Selenium · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-seleniumhq-selenium/
+updated: 2026-10-20
+type: infrastructure
+lang: zh-CN
+---
+
 # Selenium
 
 实现 W3C WebDriver 的浏览器自动化项目，提供 Java、Python、Ruby、.NET 和 JavaScript 绑定、用于跨机器分配会话的 Selenium Grid，以及用于配置驱动的 Rust 版 Selenium Manager。

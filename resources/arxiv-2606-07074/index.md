@@ -1,3 +1,11 @@
+---
+title: "SlimSearcher: Training Efficiency-Aware Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-07074/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating
 
 Bibliographic record for SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zequn Xie, Junjie Wang, Dan Yang, Jie Feng, Yue Shen, Jian Wang, Jinjie Gu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-07074/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-07074/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_07074,
+  title = {{SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating}},
+  author = {{Zequn Xie} and {Junjie Wang} and {Dan Yang} and {Jie Feng} and {Yue Shen} and {Jian Wang} and {Jinjie Gu}},
+  year = {2026},
+  eprint = {2606.07074v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.07074v1},
+  note = {First published: 2026-06-05; Recorded arXiv version: v1; Recorded version updated: 2026-06-05T09:10:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

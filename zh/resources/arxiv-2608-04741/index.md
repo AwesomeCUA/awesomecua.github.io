@@ -1,3 +1,11 @@
+---
+title: "LoginTrap: Uncovering Task-Agnostic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-04741/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents
 
 提出 LoginTrap 黑盒间接注入评估：攻击者控制的页面内容和登录流程诱导未经授权的身份验证，并衡量不同网页智能体基础模型、架构和防御下的端到端私有数据泄露。
@@ -27,6 +35,18 @@ Longtao Guo, Zelin Zhang, Kaifeng Huang, Yang Shi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-04741/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-04741/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_04741,
+  title = {{LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents}},
+  author = {{Longtao Guo} and {Zelin Zhang} and {Kaifeng Huang} and {Yang Shi}},
+  year = {2026},
+  eprint = {2608.04741v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.04741v1},
+  note = {First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T12:08:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

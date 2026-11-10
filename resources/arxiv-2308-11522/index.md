@@ -1,3 +1,11 @@
+---
+title: "ReLiCADA -- Reservoir Computing using Linear… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-11522/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ReLiCADA -- Reservoir Computing using Linear Cellular Automata Design Algorithm
 
 Status: excluded from the active CUA catalog after scope review.

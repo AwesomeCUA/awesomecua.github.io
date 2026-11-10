@@ -1,3 +1,11 @@
+---
+title: "Power Systems Agent Benchmark: Executable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-20950/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Power Systems Agent Benchmark: Executable Evaluation of AI Agents in Electric Power Engineering
 
 Status: excluded from the active CUA catalog after scope review.

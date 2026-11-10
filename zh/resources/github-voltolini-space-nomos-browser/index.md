@@ -1,3 +1,11 @@
+---
+title: "NOMOS Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-voltolini-space-nomos-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # NOMOS Browser
 
 具有治理机制的 AI 智能体网页浏览器，配备侧边栏助手、策略防护规则和人工接管功能。

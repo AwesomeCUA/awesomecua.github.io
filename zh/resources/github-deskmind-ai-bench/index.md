@@ -1,3 +1,11 @@
+---
+title: "DeskMind Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deskmind-ai-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # DeskMind Bench
 
 DeskMind Bench 提供沙箱化的 macOS 桌面任务、状态评分器和参考轨迹，用于评测计算机使用智能体。

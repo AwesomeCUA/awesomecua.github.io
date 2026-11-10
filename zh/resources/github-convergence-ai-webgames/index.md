@@ -1,3 +1,11 @@
+---
+title: "WebGames · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-convergence-ai-webgames/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # WebGames
 
 包含 5 个能力领域的 150 个客户端网页挑战，设计为人类容易完成、浏览器操作智能体难以完成；每关解答后会显示密码。

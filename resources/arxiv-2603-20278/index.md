@@ -1,3 +1,11 @@
+---
+title: "OpenResearcher: A Fully Open Pipeline for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-20278/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis
 
 Bibliographic record for OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Ka
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-20278/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-20278/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_20278,
+  title = {{OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis}},
+  author = {{Zhuofeng Li} and {Dongfu Jiang} and {Xueguang Ma} and {Haoxiang Zhang} and {Ping Nie} and {Yuyu Zhang} and {Kai Zou} and {Jianwen Xie} and {Yu Zhang} and {Wenhu Chen}},
+  year = {2026},
+  eprint = {2603.20278v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.20278v2},
+  note = {First published: 2026-03-17; Recorded arXiv version: v2; Recorded version updated: 2026-09-10T09:50:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

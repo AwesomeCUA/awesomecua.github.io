@@ -1,3 +1,11 @@
+---
+title: "Computer Use Vision (DSH Windows Plugin) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xuanyuanluoxue-computer-use-vision/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Computer Use Vision (DSH Windows Plugin)
 
 Windows desktop visual recognition and simulated input plugin for DeepSeek Harness.

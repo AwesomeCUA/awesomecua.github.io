@@ -1,3 +1,11 @@
+---
+title: "DocGenome: An Open Large-scale Scientific… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-11633/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models
 
 Bibliographic record for DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Renqiu Xia, Song Mao, Xiangchao Yan, Hongbin Zhou, Bo Zhang, Haoyang Peng, Jiaha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-11633/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-11633/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_11633,
+  title = {{DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models}},
+  author = {{Renqiu Xia} and {Song Mao} and {Xiangchao Yan} and {Hongbin Zhou} and {Bo Zhang} and {Haoyang Peng} and {Jiahao Pi} and {Daocheng Fu} and {Wenjie Wu} and {Hancheng Ye} and {Shiyang Feng} and {Bin Wang} and {Chao Xu} and {Conghui He} and {Pinlong Cai} and {Min Dou} and {Botian Shi} and {Sheng Zhou} and {Yongwei Wang} and {Bin Wang} and {Junchi Yan} and {Fei Wu} and {Yu Qiao}},
+  year = {2024},
+  eprint = {2406.11633v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.11633v2},
+  note = {First published: 2024-06-17; Recorded arXiv version: v2; Recorded version updated: 2024-09-11T11:14:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

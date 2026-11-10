@@ -1,3 +1,11 @@
+---
+title: "CUA-Gym (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6aa1aa58a7a888395189/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # CUA-Gym
 
 Computer-use environment and task resources for agent research.

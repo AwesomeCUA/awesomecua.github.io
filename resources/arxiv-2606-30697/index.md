@@ -1,3 +1,11 @@
+---
+title: "LUMOS: A Semantic Operating-System Layer for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-30697/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents
 
 LUMOS converts native accessibility metadata and browser UI structure into semantic interface blueprints with stable element identifiers and available actions. It combines live pointer-to-element grounding with an observe-act loop constrained to visible-UI primitives.
@@ -26,6 +34,18 @@ Yogeswar Reddy Thota
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-30697/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-30697/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_30697,
+  title = {{LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents}},
+  author = {{Yogeswar Reddy Thota}},
+  year = {2026},
+  eprint = {2606.30697v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.30697v1},
+  note = {First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T03:19:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

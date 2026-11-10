@@ -1,3 +1,11 @@
+---
+title: "Midscene PC Docker · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mofangbao-midscene-pc-docker/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Midscene PC Docker
 
 Midscene PC Docker 将 Ubuntu GNOME 桌面、Chrome 和 Midscene PC 自动化服务打包成容器，并通过 VNC 提供图形界面访问。

@@ -1,3 +1,11 @@
+---
+title: "Darwin Mobile Agent: A Roadmap for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20622/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Darwin Mobile Agent: A Roadmap for Self-Evolution
 
 描述面向移动端 GUI 交互的异步强化学习基础设施，使用并行的云端 Android 实例、明确的任务生命周期和持久状态管理。
@@ -27,6 +35,18 @@ Daniel Beechey, Derek Yuen, Jianheng Liu, Dezhao Luo, Tiantian He, Weilin Luo, J
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20622/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20622/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20622,
+  title = {{Darwin Mobile Agent: A Roadmap for Self-Evolution}},
+  author = {{Daniel Beechey} and {Derek Yuen} and {Jianheng Liu} and {Dezhao Luo} and {Tiantian He} and {Weilin Luo} and {Jun Wang} and {Kun Shao}},
+  year = {2026},
+  eprint = {2606.20622v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20622v1},
+  note = {First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T13:32:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

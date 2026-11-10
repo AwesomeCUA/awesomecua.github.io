@@ -1,3 +1,11 @@
+---
+title: "winctl-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shult-winctl-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # winctl-mcp
 
 本地 Model Context Protocol 服务器，让 AI 智能体全面控制 Windows 桌面屏幕、窗口、鼠标和键盘。

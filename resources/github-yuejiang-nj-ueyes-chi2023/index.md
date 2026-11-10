@@ -1,3 +1,11 @@
+---
+title: "UEyes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # UEyes
 
 UEyes is an eye-tracking dataset of 62 participants viewing 1,980 UI screenshots across webpages, desktop interfaces, mobile apps, and posters.

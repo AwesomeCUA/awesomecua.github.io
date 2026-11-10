@@ -1,3 +1,11 @@
+---
+title: "RPA-Everything · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mingqian94-rpa-everything/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # RPA-Everything
 
 将重复的浏览器、桌面、Android 和办公工作流编译成经过审查、行为确定的 RPA 技能，供 AI 智能体使用。

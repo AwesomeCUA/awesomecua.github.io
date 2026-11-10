@@ -1,3 +1,11 @@
+---
+title: "GenPark Viewport Occlusion Resolver Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alpha-park-genpark-visual-viewport-element-occlusion-resolver-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GenPark Viewport Occlusion Resolver Skill
 
 智能体技能，用于检测视口内元素遮挡，并在点击前关闭阻挡操作的模态窗口或 Cookie 横幅。

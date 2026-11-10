@@ -1,3 +1,11 @@
+---
+title: "DSHBox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wsk-build-dshbox/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # DSHBox
 
 Android app that runs the DeepSeek Harness agent locally in a PRoot Debian sandbox and gives it a WebView browser CLI and a phone assistant that operates native apps via Accessibility and Shizuku backends.

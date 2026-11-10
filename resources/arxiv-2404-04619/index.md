@@ -1,3 +1,11 @@
+---
+title: "Do We Really Need a Complex Agent System?… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-04619/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model
 
 Bibliographic record for Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhonghan Zhao, Ke Ma, Wenhao Chai, Xuan Wang, Kewei Chen, Dongxu Guo, Yanting Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-04619/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-04619/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_04619,
+  title = {{Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model}},
+  author = {{Zhonghan Zhao} and {Ke Ma} and {Wenhao Chai} and {Xuan Wang} and {Kewei Chen} and {Dongxu Guo} and {Yanting Zhang} and {Hongwei Wang} and {Gaoang Wang}},
+  year = {2024},
+  eprint = {2404.04619v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.04619v1},
+  note = {First published: 2024-04-06; Recorded arXiv version: v1; Recorded version updated: 2024-04-06T12:51:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

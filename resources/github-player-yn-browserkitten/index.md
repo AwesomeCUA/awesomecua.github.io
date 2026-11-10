@@ -1,3 +1,11 @@
+---
+title: "PawWork (爪爪 / BrowserKitten) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-player-yn-browserkitten/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # PawWork (爪爪 / BrowserKitten)
 
 Selection-first Chrome web agent where users highlight elements on the live page to scope and guide agent actions.

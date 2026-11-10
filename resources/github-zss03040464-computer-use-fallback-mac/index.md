@@ -1,3 +1,11 @@
+---
+title: "computer-use-fallback-mac | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zss03040464-computer-use-fallback-mac/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # computer-use-fallback-mac
 
 Window-scoped macOS Computer Use MCP server providing background window capture and Accessibility control without foreground focus.

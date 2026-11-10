@@ -1,3 +1,11 @@
+---
+title: "Open Browser Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ifuryst-open-browser-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Open Browser Use
 
 Open Browser Use provides a CLI, daemon, and Chrome extension for controlling a user's live browser session with persistent login state.

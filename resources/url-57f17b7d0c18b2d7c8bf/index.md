@@ -1,3 +1,11 @@
+---
+title: "Claude Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/url-57f17b7d0c18b2d7c8bf/
+updated: 2026-10-20
+type: model
+lang: en
+---
+
 # Claude Computer Use
 
 Claude tool capability for screenshot-based computer interaction.

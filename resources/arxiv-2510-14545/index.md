@@ -1,3 +1,11 @@
+---
+title: "Agentic Entropy-Balanced Policy Optimization | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-14545/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agentic Entropy-Balanced Policy Optimization
 
 Introduces Agentic Entropy-Balanced Policy Optimization (AEPO), an RL method that adjusts rollout sampling and policy updates for tool-using web agents.
@@ -26,6 +34,18 @@ Guanting Dong, Licheng Bao, Zhongyuan Wang, Kangzhi Zhao, Xiaoxi Li, Jiajie Jin,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-14545/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-14545/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_14545,
+  title = {{Agentic Entropy-Balanced Policy Optimization}},
+  author = {{Guanting Dong} and {Licheng Bao} and {Zhongyuan Wang} and {Kangzhi Zhao} and {Xiaoxi Li} and {Jiajie Jin} and {Jinghan Yang} and {Hangyu Mao} and {Fuzheng Zhang} and {Kun Gai} and {Guorui Zhou} and {Yutao Zhu} and {Ji-Rong Wen} and {Zhicheng Dou}},
+  year = {2025},
+  eprint = {2510.14545v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.14545v1},
+  note = {First published: 2025-10-16; Recorded arXiv version: v1; Recorded version updated: 2025-10-16T10:40:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

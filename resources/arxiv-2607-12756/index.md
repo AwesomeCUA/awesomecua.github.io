@@ -1,3 +1,11 @@
+---
+title: "VisCo: Leveraging Large Language Models as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-12756/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression
 
 Status: excluded from the active CUA catalog after scope review.

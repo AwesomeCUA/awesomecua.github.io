@@ -1,3 +1,11 @@
+---
+title: "JEF-Hinter: Leveraging Offline Knowledge… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-04373/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation
 
 JEF-Hinter 将成功和失败轨迹提炼为简短的情节提示，并根据智能体当前状态检索。网页基准实验考察利用关键步骤提供指导的效果。
@@ -27,6 +35,18 @@ Hadi Nekoei, Aman Jaiswal, Patrice Bechard, Oleh Shliazhko, Orlando Marquez Ayal
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-04373/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-04373/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04373,
+  title = {{JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation}},
+  author = {{Hadi Nekoei} and {Aman Jaiswal} and {Patrice Bechard} and {Oleh Shliazhko} and {Orlando Marquez Ayala} and {Mathieu Reymond} and {Massimo Caccia} and {Alexandre Drouin} and {Sarath Chandar} and {Alexandre Lacoste}},
+  year = {2025},
+  eprint = {2510.04373v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04373v2},
+  note = {First published: 2025-10-05; Recorded arXiv version: v2; Recorded version updated: 2026-02-20T19:34:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

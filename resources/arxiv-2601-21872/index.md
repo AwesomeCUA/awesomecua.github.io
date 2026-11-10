@@ -1,3 +1,11 @@
+---
+title: "WebArbiter: A Principle-Guided Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-21872/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents
 
 WebArbiter generates reasoned action-preference verdicts for web navigation, using reasoning distillation followed by reinforcement learning. It introduces WebPRMBench and evaluates both preference judgments and reward-guided trajectory search.
@@ -26,6 +34,18 @@ Yao Zhang, Shijie Tang, Zeyu Li, Zhen Han, Volker Tresp
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-21872/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-21872/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_21872,
+  title = {{WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents}},
+  author = {{Yao Zhang} and {Shijie Tang} and {Zeyu Li} and {Zhen Han} and {Volker Tresp}},
+  year = {2026},
+  eprint = {2601.21872v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.21872v2},
+  note = {First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-04-09T17:48:11Z.}
+}
+```
 
 ## Publication record
 

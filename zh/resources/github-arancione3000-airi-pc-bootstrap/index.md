@@ -1,3 +1,11 @@
+---
+title: "Airi-PC Computer Mode Runtime · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arancione3000-airi-pc-bootstrap/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Airi-PC Computer Mode Runtime
 
 面向 Airi-PC 桌面智能体的本地 Computer Mode 运行时和可复现的引导配置。

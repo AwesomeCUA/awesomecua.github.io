@@ -1,3 +1,11 @@
+---
+title: "Gumloop | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6884b7a1aa1bf507dae7/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Gumloop
 
 Business agent platform whose agents work through app connectors and can turn on a Chromium browser that clicks, types, signs in with saved logins and hands control to a person when a site needs it.

@@ -1,3 +1,11 @@
+---
+title: "GroundGUI: GUI Grounding by High-Quality… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-19100/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning
 
 提出用于截图定位的 ScreenRef 数据，并为 GroundGUI-8B 设计从监督学习、教师指导的蒸馏到强化学习的训练流程。
@@ -27,6 +35,18 @@ Qingsong Xie, Jiahao Tian, Jiacheng Tang, Zhifeng Li, Madalina Ciobanu, Navan Pr
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-19100/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-19100/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_19100,
+  title = {{GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning}},
+  author = {{Qingsong Xie} and {Jiahao Tian} and {Jiacheng Tang} and {Zhifeng Li} and {Madalina Ciobanu} and {Navan Preet Singh} and {Qingqing Mao} and {Ritankar Das}},
+  year = {2026},
+  eprint = {2610.19100v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.19100v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T19:37:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

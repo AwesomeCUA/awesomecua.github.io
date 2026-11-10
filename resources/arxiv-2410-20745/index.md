@@ -1,3 +1,11 @@
+---
+title: "Shopping MMLU: A Massive Multi-Task Online… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-20745/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

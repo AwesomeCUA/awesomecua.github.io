@@ -1,3 +1,11 @@
+---
+title: "SSL: Sweet Spot Learning for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-22491/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization
 
 SSL 以逐级增强的奖励训练智能体，在 GUI 感知任务中按距离提供引导，也用于规划和推理任务。
@@ -27,6 +35,18 @@ Jinyang Wu, Changpeng Yang, Yuhao Shen, Fangzhi Xu, Bolin Ni, Chonghua Liao, Yuc
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-22491/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-22491/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_22491,
+  title = {{SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization}},
+  author = {{Jinyang Wu} and {Changpeng Yang} and {Yuhao Shen} and {Fangzhi Xu} and {Bolin Ni} and {Chonghua Liao} and {Yuchen Liu} and {Hongzhen Wang} and {Shuai Nie} and {Shuai Zhang} and {Haoran Luo} and {Jiaming Xu}},
+  year = {2026},
+  eprint = {2601.22491v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.22491v1},
+  note = {First published: 2026-01-30; Recorded arXiv version: v1; Recorded version updated: 2026-01-30T03:02:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

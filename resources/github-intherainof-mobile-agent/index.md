@@ -1,3 +1,11 @@
+---
+title: "InTheRainOf Mobile Agent (随身Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-intherainof-mobile-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # InTheRainOf Mobile Agent (随身Agent)
 
 On-device Android AI agent for automating phone apps and daily mobile tasks.

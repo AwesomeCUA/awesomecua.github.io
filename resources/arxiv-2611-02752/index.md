@@ -1,3 +1,11 @@
+---
+title: "HPC-Bench: A Comprehensive Benchmark for High… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-02752/
+updated: 2026-11-07
+type: paper
+lang: en
+---
+
 # HPC-Bench: A Comprehensive Benchmark for High Performance Computing Codes
 
 Bibliographic record for HPC-Bench: A Comprehensive Benchmark for High Performance Computing Codes. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bowen Cui, Junyu Yin, Tejas Ramesh, Leo Lim, Oscar Hernandez, Keren Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-02752/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-02752/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_02752,
+  title = {{HPC-Bench: A Comprehensive Benchmark for High Performance Computing Codes}},
+  author = {{Bowen Cui} and {Junyu Yin} and {Tejas Ramesh} and {Leo Lim} and {Oscar Hernandez} and {Keren Zhou}},
+  year = {2026},
+  eprint = {2611.02752v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.02752v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T08:38:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

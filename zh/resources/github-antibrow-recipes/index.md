@@ -1,3 +1,11 @@
+---
+title: "AntiBrow Recipes · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-antibrow-recipes/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AntiBrow Recipes
 
 面向 AntiBrow 隐蔽浏览器的网站任务级适配器，可通过单条命令返回结构化 JSON。

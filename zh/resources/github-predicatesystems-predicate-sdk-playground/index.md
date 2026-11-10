@@ -1,3 +1,11 @@
+---
+title: "Predicate SDK Playground · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-predicatesystems-predicate-sdk-playground/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Predicate SDK Playground
 
 一组可运行的浏览器智能体演示，使用语义化页面快照和断言，并提供日志、截图及令牌用量统计以供评估。

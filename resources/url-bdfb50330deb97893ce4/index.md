@@ -1,3 +1,11 @@
+---
+title: "MT-Mind2Web | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bdfb50330deb97893ce4/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # MT-Mind2Web
 
 Multi-turn web-navigation conversations constructed from Mind2Web interactions, with dialogue turns, HTML snapshots, element candidates and click/type/select action sequences.

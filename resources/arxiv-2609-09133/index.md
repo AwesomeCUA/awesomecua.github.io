@@ -1,3 +1,11 @@
+---
+title: "ExecCritic: Learn to Test, Test to Improve… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-09133/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ExecCritic: Learn to Test, Test to Improve for Coding Agents
 
 Bibliographic record for ExecCritic: Learn to Test, Test to Improve for Coding Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Leitian Tao, Baolin Peng, Haorui Wang, Hang Wang, Hao Cheng, Wenlin Yao, Qianhui
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-09133/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-09133/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_09133,
+  title = {{ExecCritic: Learn to Test, Test to Improve for Coding Agents}},
+  author = {{Leitian Tao} and {Baolin Peng} and {Haorui Wang} and {Hang Wang} and {Hao Cheng} and {Wenlin Yao} and {Qianhui Wu} and {Tao Ge} and {Sharon Li} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2609.09133v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.09133v1},
+  note = {First published: 2026-09-08; Recorded arXiv version: v1; Recorded version updated: 2026-09-08T17:53:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

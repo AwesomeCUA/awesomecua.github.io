@@ -1,3 +1,11 @@
+---
+title: "ETO (Exploration-Based Trajectory Optimization) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yifan-song793-eto/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ETO (Exploration-Based Trajectory Optimization)
 
 ETO trains LLM agents on WebShop, ScienceWorld, and ALFWorld by contrasting failed exploration trajectories against expert demonstrations.

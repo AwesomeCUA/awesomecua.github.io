@@ -1,3 +1,11 @@
+---
+title: "iPrefBench: A User-Centric Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-34735/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents
 
 提出 iPrefBench，在 iOS 环境中评估移动智能体何时从用户活动历史推断缺失的偏好、何时向用户询问。
@@ -27,6 +35,18 @@ Yuting Ning, Ruijia Cheng, Sushobhan Ghosh, Peitong Duan, HungShi Lin, Abhishek 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-34735/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-34735/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34735,
+  title = {{iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents}},
+  author = {{Yuting Ning} and {Ruijia Cheng} and {Sushobhan Ghosh} and {Peitong Duan} and {HungShi Lin} and {Abhishek Sundararajan} and {Shreyash Pandey} and {Huan Sun} and {Jeffrey Nichols} and {Eldon Schoop}},
+  year = {2026},
+  eprint = {2610.34735v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34735v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T02:35:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

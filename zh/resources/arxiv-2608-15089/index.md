@@ -1,3 +1,11 @@
+---
+title: "StateM: Reaching 95.3% Raw Accuracy, or… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-15089/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling
 
 提出 StateM，以受检查的状态转移和可复用运行手册组织长程智能体执行；报告的评测使用终端和业务任务。
@@ -27,6 +35,18 @@ Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang, Kai Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-15089/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-15089/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_15089,
+  title = {{StateM: Reaching 95.3\% Raw Accuracy, or a \textbackslash{}\$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling}},
+  author = {{Ziheng Qin} and {Yaxin Lu} and {Zhangyang Atlas Wang} and {Kai Wang}},
+  year = {2026},
+  eprint = {2608.15089v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.15089v1},
+  note = {First published: 2026-08-15; Recorded arXiv version: v1; Recorded version updated: 2026-08-15T07:16:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

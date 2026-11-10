@@ -1,3 +1,11 @@
+---
+title: "Superstring Sigma Model Computations Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0808-1755/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Superstring Sigma Model Computations Using the Pure Spinor Formalism
 
 Status: excluded from the active CUA catalog after scope review.

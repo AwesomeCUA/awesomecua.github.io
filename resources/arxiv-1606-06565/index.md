@@ -1,3 +1,11 @@
+---
+title: "Concrete Problems in AI Safety | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1606-06565/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Concrete Problems in AI Safety
 
 Bibliographic record for Concrete Problems in AI Safety. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1606-06565/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1606-06565/citation.csl.json
+
+```bibtex
+@misc{arxiv_1606_06565,
+  title = {{Concrete Problems in AI Safety}},
+  author = {{Dario Amodei} and {Chris Olah} and {Jacob Steinhardt} and {Paul Christiano} and {John Schulman} and {Dan Mané}},
+  year = {2016},
+  eprint = {1606.06565v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1606.06565v2},
+  note = {First published: 2016-06-21; Recorded arXiv version: v2; Recorded version updated: 2016-07-25T17:23:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

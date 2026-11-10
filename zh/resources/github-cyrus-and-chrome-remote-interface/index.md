@@ -1,3 +1,11 @@
+---
+title: "chrome-remote-interface · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cyrus-and-chrome-remote-interface/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # chrome-remote-interface
 
 一个用于 Chrome 调试协议的 JavaScript 接口，可通过命令和事件通知控制、检查浏览器会话。

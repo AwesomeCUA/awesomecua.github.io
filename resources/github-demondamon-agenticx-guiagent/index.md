@@ -1,3 +1,11 @@
+---
+title: "AgenticX-GUIAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-demondamon-agenticx-guiagent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AgenticX-GUIAgent
 
 AgenticX-GUIAgent is a multi-agent Android GUI automation system with coordinated manager, executor, reflector, and notetaker roles.

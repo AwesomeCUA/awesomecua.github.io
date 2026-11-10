@@ -1,3 +1,11 @@
+---
+title: "Enikk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gtt116-enikk/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Enikk
 
 Enikk is an open-source computer-use agent that combines GUI visual control and CLI execution across vision and text-only models.

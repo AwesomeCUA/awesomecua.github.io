@@ -1,3 +1,11 @@
+---
+title: "TrustAgent: Towards Safe and Trustworthy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-01586/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TrustAgent: Towards Safe and Trustworthy LLM-based Agents
 
 Status: excluded from the active CUA catalog after scope review.

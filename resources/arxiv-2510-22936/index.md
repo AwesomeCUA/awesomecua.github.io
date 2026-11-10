@@ -1,3 +1,11 @@
+---
+title: "PPE: Positional Preservation Embedding for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-22936/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PPE: Positional Preservation Embedding for Token Compression in Multimodal Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

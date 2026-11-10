@@ -1,3 +1,11 @@
+---
+title: "A3: Android Agent Arena for Mobile GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2501-01149/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation
 
 提出 Android Agent Arena，包含在线应用任务，并根据是否到达必要的中间状态进行过程评估。
@@ -27,6 +35,18 @@ Yuxiang Chai, Shunye Tang, Han Xiao, Weifeng Lin, Hanhao Li, Jiayu Zhang, Liang 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2501-01149/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2501-01149/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_01149,
+  title = {{A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation}},
+  author = {{Yuxiang Chai} and {Shunye Tang} and {Han Xiao} and {Weifeng Lin} and {Hanhao Li} and {Jiayu Zhang} and {Liang Liu} and {Pengxiang Zhao} and {Guangyi Liu} and {Guozhi Wang} and {Shuai Ren} and {Rongduo Han} and {Haining Zhang} and {Siyuan Huang} and {Hongsheng Li}},
+  year = {2025},
+  eprint = {2501.01149v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.01149v3},
+  note = {First published: 2025-01-02; Recorded arXiv version: v3; Recorded version updated: 2026-01-12T07:01:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

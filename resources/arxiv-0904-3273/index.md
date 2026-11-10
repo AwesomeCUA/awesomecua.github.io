@@ -1,3 +1,11 @@
+---
+title: "A Thermodynamic Turing Machine: Artificial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0904-3273/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Thermodynamic Turing Machine: Artificial Molecular Computing Using Classical Reversible Logic Switching Networks
 
 Status: excluded from the active CUA catalog after scope review.

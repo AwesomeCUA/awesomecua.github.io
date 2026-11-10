@@ -1,3 +1,11 @@
+---
+title: "BrowserRig | AwesomeCUA"
+url: https://awesomecua.com/resources/github-castor6-browserrig/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # BrowserRig
 
 Open-source local driver enabling trusted AI agents to control an existing signed-in Chromium browser.

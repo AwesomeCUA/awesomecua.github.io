@@ -1,3 +1,11 @@
+---
+title: "VETR: Execution-Grounded Self-Improving Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13098/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning
 
 Bibliographic record for VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yingbo Ma, Kuangshi Ai, Gordon Dai, Chenglong Yu, Chaoli Wang, Hua Shen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13098/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13098/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13098,
+  title = {{VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning}},
+  author = {{Yingbo Ma} and {Kuangshi Ai} and {Gordon Dai} and {Chenglong Yu} and {Chaoli Wang} and {Hua Shen}},
+  year = {2026},
+  eprint = {2610.13098v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13098v2},
+  note = {First published: 2026-10-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T20:16:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

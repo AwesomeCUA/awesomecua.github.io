@@ -1,3 +1,11 @@
+---
+title: "OpenHuman | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinyhumansai-openhuman/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # OpenHuman
 
 OpenHuman is an agent harness offered as a desktop app and Rust library, with browser and desktop controls that select actions from visible buttons.

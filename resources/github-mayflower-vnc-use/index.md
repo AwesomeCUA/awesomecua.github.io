@@ -1,3 +1,11 @@
+---
+title: "vnc-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mayflower-vnc-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # vnc-use
 
 vnc-use is a LangGraph-based computer-use framework that drives remote desktop environments over VNC with multi-model LLM planners and hitl gates.

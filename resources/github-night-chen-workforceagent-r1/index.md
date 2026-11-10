@@ -1,3 +1,11 @@
+---
+title: "WorkForceAgent-R1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-night-chen-workforceagent-r1/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # WorkForceAgent-R1
 
 Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.

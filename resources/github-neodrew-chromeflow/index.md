@@ -1,3 +1,11 @@
+---
+title: "Chromeflow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-neodrew-chromeflow/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chromeflow
 
 Lets coding agents (Claude Code, Codex CLI) drive the user's real logged-in Chrome browser to click, fill forms, and inspect pages.

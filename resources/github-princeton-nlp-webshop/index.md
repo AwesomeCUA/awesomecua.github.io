@@ -1,3 +1,11 @@
+---
+title: "WebShop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-princeton-nlp-webshop/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # WebShop
 
 Simulated shopping environment for instruction-following web agents.

@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-browser (github.com/xu1132/dsh… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xu1132-dsh-plugin-browser/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # dsh-plugin-browser
 
 dsh-plugin-browser 为 DeepSeek Harness 添加可供模型调用的 Playwright 工具，用于读取渲染后的页面、导航、点击、输入和截图。

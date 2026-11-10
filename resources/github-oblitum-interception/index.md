@@ -1,3 +1,11 @@
+---
+title: "Interception | AwesomeCUA"
+url: https://awesomecua.com/resources/github-oblitum-interception/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Interception
 
 A Windows input driver and C library that captures, filters and injects keyboard and mouse strokes per device, shipped with sample programs and a command-line installer.

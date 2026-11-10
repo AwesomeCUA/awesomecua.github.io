@@ -1,3 +1,11 @@
+---
+title: "OS-Symphony: A Holistic Framework for Robust… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-07779/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent
 
 OS-Symphony coordinates milestone-based reflection and memory with tools that build visually aligned tutorials through browser interaction. The framework evaluates trajectory correction and adaptation on online computer-use benchmarks including OSWorld.
@@ -26,6 +34,18 @@ Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-07779/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-07779/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_07779,
+  title = {{OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent}},
+  author = {{Bowen Yang} and {Kaiming Jin} and {Zhenyu Wu} and {Zhaoyang Liu} and {Qiushi Sun} and {Zehao Li} and {JingJing Xie} and {Zhoumianze Liu} and {Fangzhi Xu} and {Kanzhi Cheng} and {Qingyun Li} and {Yian Wang} and {Yu Qiao} and {Zun Wang} and {Zichen Ding}},
+  year = {2026},
+  eprint = {2601.07779v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.07779v1},
+  note = {First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T17:55:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

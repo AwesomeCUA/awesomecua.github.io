@@ -1,3 +1,11 @@
+---
+title: "record-and-replay-skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ugarchance-record-and-replay-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # record-and-replay-skill
 
 与智能体无关的技能，观察用户演示一次浏览器或桌面工作流程，并将其编译为可重放脚本。

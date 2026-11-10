@@ -1,3 +1,11 @@
+---
+title: "FedMABench: Benchmarking Mobile Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-05143/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data
 
 Introduces a benchmark for federated mobile-agent training under heterogeneous user and application distributions, combining datasets, algorithms, and base models.
@@ -26,6 +34,18 @@ Wenhao Wang, Zijie Yu, Rui Ye, Jianqing Zhang, Siheng Chen, Yanfeng Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-05143/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-05143/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_05143,
+  title = {{FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data}},
+  author = {{Wenhao Wang} and {Zijie Yu} and {Rui Ye} and {Jianqing Zhang} and {Siheng Chen} and {Yanfeng Wang}},
+  year = {2025},
+  eprint = {2503.05143v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.05143v1},
+  note = {First published: 2025-03-07; Recorded arXiv version: v1; Recorded version updated: 2025-03-07T04:52:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

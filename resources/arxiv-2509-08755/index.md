@@ -1,3 +1,11 @@
+---
+title: "AgentGym-RL: Training LLM Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-08755/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning
 
 Bibliographic record for AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiheng Xi, Jixuan Huang, Chenyang Liao, Baodai Huang, Honglin Guo, Jiaqi Liu, R
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-08755/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-08755/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_08755,
+  title = {{AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning}},
+  author = {{Zhiheng Xi} and {Jixuan Huang} and {Chenyang Liao} and {Baodai Huang} and {Honglin Guo} and {Jiaqi Liu} and {Rui Zheng} and {Junjie Ye} and {Jiazheng Zhang} and {Wenxiang Chen} and {Wei He} and {Yiwen Ding} and {Guanyu Li} and {Zehui Chen} and {Zhengyin Du} and {Xuesong Yao} and {Yufei Xu} and {Jiecao Chen} and {Tao Gui} and {Zuxuan Wu} and {Qi Zhang} and {Xuanjing Huang} and {Yu-Gang Jiang}},
+  year = {2025},
+  eprint = {2509.08755v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.08755v1},
+  note = {First published: 2025-09-10; Recorded arXiv version: v1; Recorded version updated: 2025-09-10T16:46:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

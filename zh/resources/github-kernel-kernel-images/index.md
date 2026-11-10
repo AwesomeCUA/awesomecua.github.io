@@ -1,3 +1,11 @@
+---
+title: "Kernel · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kernel-kernel-images/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Kernel
 
 Kernel 为网页智能体和自动化任务提供隔离的 Chrome 浏览器实例。其镜像支持远程控制、实时查看和会话录制。

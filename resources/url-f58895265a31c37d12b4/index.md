@@ -1,3 +1,11 @@
+---
+title: "LLM Agents: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f58895265a31c37d12b4/
+updated: 2026-11-09
+type: survey
+lang: en
+---
+
 # LLM Agents: A Survey
 
 A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.
@@ -26,6 +34,19 @@ Jungseob Lee
 
 - BibTeX: https://awesomecua.com/resources/url-f58895265a31c37d12b4/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-f58895265a31c37d12b4/citation.csl.json
+
+```bibtex
+@misc{cua_cf5c91b69dcb248cb39e0daf,
+  title = {{LLM Agents: A Survey}},
+  author = {{Jungseob Lee}},
+  year = {2026},
+  month = aug,
+  publisher = {MDPI AG},
+  doi = {10.20944/preprints202608.0265.v1},
+  url = {https://www.preprints.org/manuscript/202608.0265/v1},
+  note = {Publication date: 2026-08-05.}
+}
+```
 
 ## Publication record
 

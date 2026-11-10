@@ -1,3 +1,11 @@
+---
+title: "iOS Agent Harness · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-a178960320-ios-agent-harness/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # iOS Agent Harness
 
 iOS Agent Harness 在 iPhone 上运行“管理者—执行者—反思者”GUI 智能体循环，根据自然语言自动执行跨应用任务。

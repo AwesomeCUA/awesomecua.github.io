@@ -1,3 +1,11 @@
+---
+title: "Gym-Anything · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cmu-l3-gym-anything/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # Gym-Anything
 
 运行时与 CUA-World 任务套件将 Ubuntu、Windows 11、Android 和 macOS 上的真实应用变为让智能体观察屏幕并使用鼠标键盘的环境，配有设置脚本和程序验证器。

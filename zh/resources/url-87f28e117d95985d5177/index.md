@@ -1,3 +1,11 @@
+---
+title: "GPA-GUI-Detector · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-87f28e117d95985d5177/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GPA-GUI-Detector
 
 GPA-GUI-Detector 是 YOLO 模型，可在界面截图中定位按钮、图标等可交互元素，并输出边界框供自动化流程使用。

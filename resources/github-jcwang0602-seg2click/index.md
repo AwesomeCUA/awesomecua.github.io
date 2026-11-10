@@ -1,3 +1,11 @@
+---
+title: "Seg2Click (framework) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jcwang0602-seg2click/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Seg2Click
 
 Training and inference implementation that predicts an executable-region mask and derives a GUI click from that mask.

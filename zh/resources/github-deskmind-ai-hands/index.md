@@ -1,3 +1,11 @@
+---
+title: "DeskMind Hands · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deskmind-ai-hands/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # DeskMind Hands
 
 这是一个桌面智能体运行框架，通过 macOS 输入与辅助功能控件执行规划器的决策，并提供模拟桌面、任务验证和由规则程序标注的训练流程。

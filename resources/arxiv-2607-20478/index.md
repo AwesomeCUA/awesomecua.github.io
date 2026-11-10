@@ -1,3 +1,11 @@
+---
+title: "Verifier-First Evaluation of Agentic LLMs for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-20478/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Verifier-First Evaluation of Agentic LLMs for Infrastructure-as-Code Generation
 
 Bibliographic record for Verifier-First Evaluation of Agentic LLMs for Infrastructure-as-Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mohamed Jouini
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-20478/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-20478/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_20478,
+  title = {{Verifier-First Evaluation of Agentic LLMs for Infrastructure-as-Code Generation}},
+  author = {{Mohamed Jouini}},
+  year = {2026},
+  eprint = {2607.20478v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.20478v1},
+  note = {First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T12:43:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

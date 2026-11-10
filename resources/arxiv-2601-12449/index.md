@@ -1,3 +1,11 @@
+---
+title: "AgenTRIM: Tool Risk Mitigation for Agentic AI | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-12449/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgenTRIM: Tool Risk Mitigation for Agentic AI
 
 Status: excluded from the active CUA catalog after scope review.

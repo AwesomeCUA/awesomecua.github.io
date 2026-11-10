@@ -1,3 +1,11 @@
+---
+title: "iphone-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leeguooooo-iphone-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # iphone-use
 
 MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone screens as structured text and execute taps/swipes.

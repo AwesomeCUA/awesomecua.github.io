@@ -1,3 +1,11 @@
+---
+title: "Adaptive and Resource-efficient Agentic AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-00078/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey
 
 Bibliographic record for Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sicong Liu, Weiye Wu, Xiangrui Xu, Teng Li, Bowen Pang, Bin Guo, Zhiwen Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-00078/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-00078/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_00078,
+  title = {{Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey}},
+  author = {{Sicong Liu} and {Weiye Wu} and {Xiangrui Xu} and {Teng Li} and {Bowen Pang} and {Bin Guo} and {Zhiwen Yu}},
+  year = {2025},
+  eprint = {2510.00078v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.00078v1},
+  note = {First published: 2025-09-30; Recorded arXiv version: v1; Recorded version updated: 2025-09-30T02:37:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

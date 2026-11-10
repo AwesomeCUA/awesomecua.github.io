@@ -1,3 +1,11 @@
+---
+title: "Self-Healing Browser Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-25andresbernal-self-healing-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Self-Healing Browser Agent
 
 结合 Claude 规划、Playwright 执行和按优先级排序的选择器回退，自动修复失效的网页自动化步骤。

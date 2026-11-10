@@ -1,3 +1,11 @@
+---
+title: "NNetNav: Unsupervised Learning of Browser… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-02907/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # NNetNav: Unsupervised Learning of Browser Agents Through Environment Interaction in the Wild
 
 Generates browser-agent demonstrations through autonomous exploration and retrospective task labeling, pruning trajectories that lack meaningful subtasks.
@@ -26,6 +34,18 @@ Shikhar Murty, Hao Zhu, Dzmitry Bahdanau, Christopher D. Manning
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-02907/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-02907/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_02907,
+  title = {{NNetNav: Unsupervised Learning of Browser Agents Through Environment Interaction in the Wild}},
+  author = {{Shikhar Murty} and {Hao Zhu} and {Dzmitry Bahdanau} and {Christopher D. Manning}},
+  year = {2024},
+  eprint = {2410.02907v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.02907v2},
+  note = {First published: 2024-10-03; Recorded arXiv version: v2; Recorded version updated: 2025-02-05T18:56:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

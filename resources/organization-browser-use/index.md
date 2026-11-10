@@ -1,3 +1,11 @@
+---
+title: "Browser Use (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-browser-use/
+updated: 2026-10-19
+type: company
+lang: en
+---
+
 # Browser Use
 
 Publisher or product brand associated with Browser Use computer-use or browser automation offerings.

@@ -1,3 +1,11 @@
+---
+title: "UIBert AppSim and RefExp annotations · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-datasets-uibert/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UIBert AppSim and RefExp annotations
 
 2 个源自 Rico 的 UI 组件检索数据集：AppSim 配对不同屏幕中语义相似的元素，RefExp 将指代表达关联到目标元素。

@@ -1,3 +1,11 @@
+---
+title: "PLATO Hand: Shaping Contact Behavior with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-05156/
+updated: 2026-11-07
+type: paper
+lang: en
+---
+
 # PLATO Hand: Shaping Contact Behavior with Fingernails for Precise Manipulation
 
 Bibliographic record for PLATO Hand: Shaping Contact Behavior with Fingernails for Precise Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dong Ho Kang, Aaron Kim, Mingyo Seo, Kazuto Yokoyama, Tetsuya Narita, Luis Senti
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-05156/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-05156/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_05156,
+  title = {{PLATO Hand: Shaping Contact Behavior with Fingernails for Precise Manipulation}},
+  author = {{Dong Ho Kang} and {Aaron Kim} and {Mingyo Seo} and {Kazuto Yokoyama} and {Tetsuya Narita} and {Luis Sentis}},
+  year = {2026},
+  eprint = {2602.05156v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.05156v2},
+  note = {First published: 2026-02-05; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T15:12:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

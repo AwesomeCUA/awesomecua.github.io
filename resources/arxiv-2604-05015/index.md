@@ -1,3 +1,11 @@
+---
+title: "Video-MME-v2: Towards the Next Stage in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-05015/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "SWEeper-Bench-traces · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-54907fd6dc968eaced34/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # SWEeper-Bench-traces
 
 SWEeper-Bench 论文的全部运行记录，共 5,200 次运行、42 种智能体配置；每次运行含编码智能体的轨迹、shell 命令和补丁，以及浏览器验证器的轨迹与判定。

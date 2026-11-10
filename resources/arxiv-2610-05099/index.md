@@ -1,3 +1,11 @@
+---
+title: "Small Agents with Semantic Search: Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-05099/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Small Agents with Semantic Search: Efficient Multilingual Code Localization
 
 Status: excluded from the active CUA catalog after scope review.

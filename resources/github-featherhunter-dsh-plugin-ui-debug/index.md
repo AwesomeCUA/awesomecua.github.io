@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-ui-debug | AwesomeCUA"
+url: https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-plugin-ui-debug
 
 DeepSeek Harness plugin for inspecting live DOM styles, layout issues, and console errors during frontend UI debugging.

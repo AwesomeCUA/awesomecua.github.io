@@ -1,3 +1,11 @@
+---
+title: "GroundingPI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-groundingpi-groundingpi/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # GroundingPI
 
 GroundingPI is a 4B visual grounding foundation model that unifies bounding-box detection, referring expressions, and point localization.

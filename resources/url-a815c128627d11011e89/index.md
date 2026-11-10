@@ -1,3 +1,11 @@
+---
+title: "V2P-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a815c128627d11011e89/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # V2P-7B
 
 A GUI grounding checkpoint that takes a screenshot and instruction to locate interaction coordinates. V2P suppresses background attention and emphasizes target centers.

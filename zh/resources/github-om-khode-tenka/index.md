@@ -1,3 +1,11 @@
+---
+title: "TENKA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-om-khode-tenka/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # TENKA
 
 TENKA 是 Windows 语音智能体，通过浏览器控制、原生界面操作和视觉后备方式完成浏览器及桌面任务，并保存对话记忆。

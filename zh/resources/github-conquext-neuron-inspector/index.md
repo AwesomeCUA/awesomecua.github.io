@@ -1,3 +1,11 @@
+---
+title: "neuron-inspector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-conquext-neuron-inspector/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # neuron-inspector
 
 通过 MCP 向 AI 智能体提供 98 个 Chrome 检查、DOM 调试、网络追踪和交互工具。

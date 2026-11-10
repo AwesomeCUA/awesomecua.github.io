@@ -1,3 +1,11 @@
+---
+title: "Robotic Ultra-Long-Horizon Manipulation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-18597/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation
 
 Bibliographic record for Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuan Meng, Zhenguo Sun, Max Fest, Xiangtong Yao, Xukun Li, Zhenshan Bing, Alois 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-18597/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-18597/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_18597,
+  title = {{Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation}},
+  author = {{Yuan Meng} and {Zhenguo Sun} and {Max Fest} and {Xiangtong Yao} and {Xukun Li} and {Zhenshan Bing} and {Alois Knoll}},
+  year = {2025},
+  eprint = {2509.18597v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.18597v3},
+  note = {First published: 2025-09-23; Recorded arXiv version: v3; Recorded version updated: 2026-10-07T16:26:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

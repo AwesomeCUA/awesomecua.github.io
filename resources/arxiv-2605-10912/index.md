@@ -1,3 +1,11 @@
+---
+title: "WildClawBench: A Benchmark for Real-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-10912/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
 
 WildClawBench evaluates CLI agents on long, multimodal tasks in Docker containers with real tools, using task checks, side-effect audits, and a semantic judge.
@@ -26,6 +34,18 @@ Shuangrui Ding, Xuanlang Dai, Long Xing, Shengyuan Ding, Ziyu Liu, Yang JingYi, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-10912/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-10912/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_10912,
+  title = {{WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation}},
+  author = {{Shuangrui Ding} and {Xuanlang Dai} and {Long Xing} and {Shengyuan Ding} and {Ziyu Liu} and {Yang JingYi} and {Penghui Yang} and {Zhixiong Zhang} and {Xilin Wei} and {Xinyu Fang} and {Yubo Ma} and {Haodong Duan} and {Jing Shao} and {Jiaqi Wang} and {Dahua Lin} and {Kai Chen} and {Yuhang Zang}},
+  year = {2026},
+  eprint = {2605.10912v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.10912v1},
+  note = {First published: 2026-05-11; Recorded arXiv version: v1; Recorded version updated: 2026-05-11T17:49:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

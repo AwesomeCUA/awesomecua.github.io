@@ -1,3 +1,11 @@
+---
+title: "An Illusion of Progress? Assessing the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-01382/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # An Illusion of Progress? Assessing the Current State of Web Agents
 
 提出涵盖 136 个实时网站、共 300 项任务的 Online-Mind2Web，考察基准设计如何影响网页智能体评估；还开发了判断任务完成情况的 LLM 评判器，并将其判断与人工评估比较。
@@ -27,6 +35,18 @@ Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan S
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-01382/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-01382/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_01382,
+  title = {{An Illusion of Progress? Assessing the Current State of Web Agents}},
+  author = {{Tianci Xue} and {Weijian Qi} and {Tianneng Shi} and {Chan Hee Song} and {Boyu Gou} and {Dawn Song} and {Huan Sun} and {Yu Su}},
+  year = {2025},
+  eprint = {2504.01382v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.01382v4},
+  note = {First published: 2025-04-02; Recorded arXiv version: v4; Recorded version updated: 2025-10-08T02:22:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

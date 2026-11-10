@@ -1,3 +1,11 @@
+---
+title: "Fanbin/waa_steve_trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2bab4b78c81cde1d5ecb/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Fanbin/waa_steve_trajectories
 
 该数据集收录 STEVE-R1 在 WindowsAgentArena 上的评估轨迹，将任务截图、智能体回复、操作记录和结果标签配对保存。

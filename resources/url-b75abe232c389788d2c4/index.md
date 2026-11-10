@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-1B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b75abe232c389788d2c4/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3_5-1B
 
 InternVL3_5-1B is a released multimodal checkpoint from the InternVL3.5 family, whose documented capabilities include GUI interaction.

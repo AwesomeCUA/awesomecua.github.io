@@ -1,3 +1,11 @@
+---
+title: "工作流：Computer-Use 研究与资源（第 4 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/workflow/page/4/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工作流：Computer-Use 研究与资源（第 4 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/workflow/page/4/
@@ -62,5 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/4/
 - [BabyAGI](https://awesomecua.com/zh/resources/github-yoheinakajima-babyagi/)
 - [Banana Peel MCP](https://awesomecua.com/zh/resources/github-ygdotcom-banana-peel-mcp/)
 - [Bardeen](https://awesomecua.com/zh/resources/url-87bc346934a4117b554c/)
-- [Bees Desktop](https://awesomecua.com/zh/resources/github-bees-bot-bees-desktop/)
 - [bgivenb Typed UI Capabilities](https://awesomecua.com/zh/resources/github-bgivenb-computer-use-automation/)
+- [Blender AI Plugin](https://awesomecua.com/zh/resources/github-proyecto26-blender-ai-plugin/)

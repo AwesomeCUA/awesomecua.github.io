@@ -1,3 +1,11 @@
+---
+title: "Interaction-as-a-Judge | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17895/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Interaction-as-a-Judge
 
 Uses computer-use agents to interact with generated applications, studying whether interaction improves preference judging, requirement checks, and feedback for application generation.
@@ -26,6 +34,18 @@ Wayne Chi, I-Hung Hsu, Li Chen, Wei-Lin Chiang, Ion Stoica, Anastasios Nikolas A
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17895/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17895/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17895,
+  title = {{Interaction-as-a-Judge}},
+  author = {{Wayne Chi} and {I-Hung Hsu} and {Li Chen} and {Wei-Lin Chiang} and {Ion Stoica} and {Anastasios Nikolas Angelopoulos} and {Ameet Talwalkar} and {Chris Donahue} and {Cho-Jui Hsieh}},
+  year = {2026},
+  eprint = {2610.17895v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17895v2},
+  note = {First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T06:37:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

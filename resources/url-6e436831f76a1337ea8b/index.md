@@ -1,3 +1,11 @@
+---
+title: "OpenWebAgent: An Open Toolkit to Enable Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6e436831f76a1337ea8b/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models
 
 Presents OpenWebAgent, a web automation toolkit that pairs a Chrome plugin with an HTML parser and an action generation module, in a modular framework where developers plug in LLMs or LMMs.
@@ -26,6 +34,21 @@ Iat Long Iong, Xiao Liu, Yuxuan Chen, Hanyu Lai, Shuntian Yao, Pengbo Shen, Hao 
 
 - BibTeX: https://awesomecua.com/resources/url-6e436831f76a1337ea8b/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-6e436831f76a1337ea8b/citation.csl.json
+
+```bibtex
+@inproceedings{cua_bed961066f88359f291cfcc9,
+  title = {{OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models}},
+  author = {{Iat Long Iong} and {Xiao Liu} and {Yuxuan Chen} and {Hanyu Lai} and {Shuntian Yao} and {Pengbo Shen} and {Hao Yu (余浩)} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2024},
+  month = aug,
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)},
+  publisher = {Association for Computational Linguistics},
+  pages = {72-81},
+  doi = {10.18653/v1/2024.acl-demos.8},
+  url = {https://aclanthology.org/2024.acl-demos.8/},
+  note = {Publication date: 2024-08.}
+}
+```
 
 ## Publication record
 

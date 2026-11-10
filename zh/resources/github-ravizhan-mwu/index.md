@@ -1,3 +1,11 @@
+---
+title: "MWU · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ravizhan-mwu/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MWU
 
 面向 MaaFramework 资源项目的通用浏览器界面，基于 Vue 3 与 FastAPI 构建，提供两种 agent 运行模式、系统通知和自动更新。

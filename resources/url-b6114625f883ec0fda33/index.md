@@ -1,3 +1,11 @@
+---
+title: "bevaya/RICO-ScreenQA-Complex | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b6114625f883ec0fda33/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # bevaya/RICO-ScreenQA-Complex
 
 A test dataset of complex questions about RICO interface screens, with screen images and ground-truth answers. The card lists 11,781 examples.

@@ -1,3 +1,11 @@
+---
+title: "Voice-to-Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raidriar7170-voice-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Voice-to-Browser Agent
 
 有明确执行范围、以中文为主的语音转浏览器智能体，将口头指令转换为安全、可追踪的浏览器执行步骤。

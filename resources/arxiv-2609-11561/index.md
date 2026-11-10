@@ -1,3 +1,11 @@
+---
+title: "Memory as Plans: World-Action Modeling with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-11561/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Memory as Plans: World-Action Modeling with Memory-Grounded Planning
 
 Status: excluded from the active CUA catalog after scope review.

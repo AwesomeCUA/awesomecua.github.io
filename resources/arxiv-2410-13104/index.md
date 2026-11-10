@@ -1,3 +1,11 @@
+---
+title: "Cost-Effective Realization of n-Bit Toffoli… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-13104/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Cost-Effective Realization of n-Bit Toffoli Gates for IBM Quantum Computers Using the Bloch Sphere Approach and IBM Native Gates
 
 Status: excluded from the active CUA catalog after scope review.

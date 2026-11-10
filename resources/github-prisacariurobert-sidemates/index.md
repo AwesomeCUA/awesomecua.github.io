@@ -1,3 +1,11 @@
+---
+title: "Sidemates | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prisacariurobert-sidemates/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Sidemates
 
 Open-source desktop AI companion that observes active windows and assists with everyday computer tasks.

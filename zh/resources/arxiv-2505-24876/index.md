@@ -1,3 +1,11 @@
+---
+title: "Agent-X: Evaluating Deep Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-24876/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks
 
 Agent-X 评测六类场景中的多步视觉推理与工具使用，并逐步评分；网页浏览是其中一个场景。
@@ -27,6 +35,18 @@ Tajamul Ashraf, Amal Saqib, Hanan Ghani, Muhra AlMahri, Yuhao Li, Noor Ahsan, Um
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-24876/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-24876/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_24876,
+  title = {{Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks}},
+  author = {{Tajamul Ashraf} and {Amal Saqib} and {Hanan Ghani} and {Muhra AlMahri} and {Yuhao Li} and {Noor Ahsan} and {Umair Nawaz} and {Jean Lahoud} and {Hisham Cholakkal} and {Mubarak Shah} and {Philip Torr} and {Fahad Shahbaz Khan} and {Rao Muhammad Anwer} and {Salman Khan}},
+  year = {2025},
+  eprint = {2505.24876v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.24876v2},
+  note = {First published: 2025-05-30; Recorded arXiv version: v2; Recorded version updated: 2026-05-24T03:59:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

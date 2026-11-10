@@ -1,3 +1,11 @@
+---
+title: "GUI Testing Arena: A Unified Benchmark… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-18426/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent
 
 利用真实、修改和合成的移动应用数据，从测试意图生成、执行和缺陷检测三个环节评估 GUI 测试。
@@ -27,6 +35,18 @@ Kangjia Zhao, Jiahui Song, Leigang Sha, Haozhan Shen, Zhi Chen, Tiancheng Zhao, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-18426/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-18426/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_18426,
+  title = {{GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent}},
+  author = {{Kangjia Zhao} and {Jiahui Song} and {Leigang Sha} and {Haozhan Shen} and {Zhi Chen} and {Tiancheng Zhao} and {Xiubo Liang} and {Jianwei Yin}},
+  year = {2024},
+  eprint = {2412.18426v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.18426v1},
+  note = {First published: 2024-12-24; Recorded arXiv version: v1; Recorded version updated: 2024-12-24T13:41:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "P-GUI-Evo · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b79ca6f7731ebf067709/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # P-GUI-Evo
 
 这是一个包含 622 个图形界面场景的合成数据集，用于评估智能体如何提取隐私规则、判断拟执行的操作并响应用户反馈。

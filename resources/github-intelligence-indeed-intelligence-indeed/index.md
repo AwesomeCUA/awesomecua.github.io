@@ -1,3 +1,11 @@
+---
+title: "Intelligence Indeed | AwesomeCUA"
+url: https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Intelligence Indeed
 
 Intelligence Indeed is a desktop GUI agent that loads reusable guidance, probes the current environment and shares task-specific findings across planning and execution.

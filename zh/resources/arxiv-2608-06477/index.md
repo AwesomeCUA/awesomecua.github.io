@@ -1,3 +1,11 @@
+---
+title: "StepJack: Benchmarking Computer-Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-06477/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection
 
 提出 StepJack，评测将对抗目标拆散并分布在网页导航路径上的间接提示注入，面向计算机使用智能体。
@@ -27,6 +35,18 @@ Zhuoxin Zhan, Akbar Rafiey, Avery Ma, Leila Pishdad, Layla El Asri
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-06477/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-06477/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_06477,
+  title = {{StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection}},
+  author = {{Zhuoxin Zhan} and {Akbar Rafiey} and {Avery Ma} and {Leila Pishdad} and {Layla El Asri}},
+  year = {2026},
+  eprint = {2608.06477v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.06477v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T18:14:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

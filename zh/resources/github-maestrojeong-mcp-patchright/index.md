@@ -1,3 +1,11 @@
+---
+title: "mcp-patchright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maestrojeong-mcp-patchright/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # mcp-patchright
 
 一个基于 Patchright 的 MCP 服务器，向智能体提供 64 个浏览器工具，涵盖带元素引用的无障碍快照、点击、表单填写、Cookie 与网络控制。

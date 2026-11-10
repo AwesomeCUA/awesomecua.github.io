@@ -1,3 +1,11 @@
+---
+title: "GOMA: Proactive Embodied Cooperative… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-11075/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment
 
 Bibliographic record for GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Lance Ying, Kunal Jha, Shivam Aarya, Joshua B. Tenenbaum, Antonio Torralba, Tian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-11075/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-11075/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_11075,
+  title = {{GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment}},
+  author = {{Lance Ying} and {Kunal Jha} and {Shivam Aarya} and {Joshua B. Tenenbaum} and {Antonio Torralba} and {Tianmin Shu}},
+  year = {2024},
+  eprint = {2403.11075v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.11075v2},
+  note = {First published: 2024-03-17; Recorded arXiv version: v2; Recorded version updated: 2025-01-14T06:02:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Agent Hands · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ashishkosana-agent-hands/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agent Hands
 
 面向旧版金融软件的计算机使用自动化基础设施，将 LLM 发现的 UI 流程编译为确定性重放。

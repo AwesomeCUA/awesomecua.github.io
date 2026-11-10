@@ -1,3 +1,11 @@
+---
+title: "Open Interpreter | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openinterpreter-open-interpreter/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Open Interpreter
 
 Assistant framework combining code execution and computer interaction.

@@ -1,3 +1,11 @@
+---
+title: "Epic EHR Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Epic EHR Browser Automation
 
 A browser automation scaffold for Epic EHR workflows such as appointments, patient lookup, notes and messaging. It documents authentication, sessions and example actions.

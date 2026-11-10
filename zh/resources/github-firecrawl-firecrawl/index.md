@@ -1,3 +1,11 @@
+---
+title: "Firecrawl · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-firecrawl-firecrawl/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # Firecrawl
 
 Firecrawl 是一款 API，让智能体能够搜索和抓取网页，再通过提示词或代码与页面交互。

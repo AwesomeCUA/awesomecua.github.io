@@ -1,3 +1,11 @@
+---
+title: "SeeAct | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-seeact/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # SeeAct
 
 Generalist web agent framework for large multimodal models such as GPT-4V, with a Playwright tool that runs agents on live websites, text-choice and set-of-mark grounding, and a crawler mode.

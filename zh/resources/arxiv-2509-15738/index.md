@@ -1,3 +1,11 @@
+---
+title: "GUI-ReWalk: Massive Data Generation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-15738/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning
 
 GUI-ReWalk 先随机探索界面，再推断目标以生成连贯的操作轨迹；它支持跨应用的长程工作流，并通过定位和导航基准研究使用生成数据进行训练的效果。
@@ -27,6 +35,18 @@ Musen Lin, Minghao Liu, Taoran Lu, Lichen Yuan, Yiwei Liu, Haonan Xu, Yu Miao, Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-15738/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-15738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_15738,
+  title = {{GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning}},
+  author = {{Musen Lin} and {Minghao Liu} and {Taoran Lu} and {Lichen Yuan} and {Yiwei Liu} and {Haonan Xu} and {Yu Miao} and {Yuhao Chao} and {Zhaojian Li}},
+  year = {2025},
+  eprint = {2509.15738v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.15738v1},
+  note = {First published: 2025-09-19; Recorded arXiv version: v1; Recorded version updated: 2025-09-19T08:09:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

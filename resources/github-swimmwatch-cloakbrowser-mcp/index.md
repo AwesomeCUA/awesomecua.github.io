@@ -1,3 +1,11 @@
+---
+title: "cloakbrowser-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-swimmwatch-cloakbrowser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cloakbrowser-mcp
 
 Playwright-powered Model Context Protocol server for driving CloakBrowser anti-detect Chromium sessions.

@@ -1,3 +1,11 @@
+---
+title: "ThinkRun | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dundas-thinkrun/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ThinkRun
 
 Browser session and screen recorder that packages visual bug reproductions and DOM traces for AI coding and browser agents.

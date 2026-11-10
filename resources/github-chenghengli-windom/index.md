@@ -1,3 +1,11 @@
+---
+title: "WinDOM code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chenghengli-windom/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # WinDOM code
 
 GUI-grounding training and evaluation code with same-family distillation, GRPO recipes and point-in-box scoring, using a Windows-style web environment.

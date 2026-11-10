@@ -1,3 +1,11 @@
+---
+title: "D-GARA: A Dynamic Benchmarking Framework… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-16590/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies
 
 D-GARA 在权限弹窗、电量警告和更新提示等运行时异常下评估 Android GUI 智能体。其模块化环境将这些中断嵌入 Android 应用，以研究智能体的恢复和抗干扰能力。
@@ -27,6 +35,18 @@ Sen Chen, Tong Zhao, Yi Bin, Fei Ma, Wenqi Shao, Zheng Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-16590/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-16590/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_16590,
+  title = {{D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies}},
+  author = {{Sen Chen} and {Tong Zhao} and {Yi Bin} and {Fei Ma} and {Wenqi Shao} and {Zheng Wang}},
+  year = {2025},
+  eprint = {2511.16590v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.16590v1},
+  note = {First published: 2025-11-20; Recorded arXiv version: v1; Recorded version updated: 2025-11-20T17:43:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

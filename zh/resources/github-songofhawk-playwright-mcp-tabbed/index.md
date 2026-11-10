@@ -1,3 +1,11 @@
+---
+title: "playwright-mcp-tabbed · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-songofhawk-playwright-mcp-tabbed/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # playwright-mcp-tabbed
 
 感知标签页的 Playwright MCP 服务器，通过每个工具的 tab_index 实现隔离，使并行 AI 智能体能够同时操作各自独立的标签页。

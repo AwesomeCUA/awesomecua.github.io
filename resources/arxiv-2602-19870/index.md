@@ -1,3 +1,11 @@
+---
+title: "ApET: Approximation-Error Guided Token… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-19870/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ApET: Approximation-Error Guided Token Compression for Efficient VLMs
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Llama-3-8B-Web · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7c3e8c4ba52428584079/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Llama-3-8B-Web
 
 基于 WebLINX 网页交互和对话微调的 Llama 3 8B 指令模型检查点，根据文本形式的状态表示预测浏览器动作。

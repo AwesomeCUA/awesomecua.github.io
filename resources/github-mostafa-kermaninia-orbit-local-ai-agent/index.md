@@ -1,3 +1,11 @@
+---
+title: "ORBIT Local AI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mostafa-kermaninia-orbit-local-ai-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ORBIT Local AI Agent
 
 Local-first Python voice and desktop automation agent powered by Whisper STT and Ollama/Qwen models.

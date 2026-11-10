@@ -1,3 +1,11 @@
+---
+title: "IDA: Breaking Barriers in No-code UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2407-15673/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design
 
 IDA 通过引导式示范、语义编程模型和面向教学的界面，帮助业务用户创建网页 UI 自动化；原型用户研究考察无编程背景用户如何为企业应用创建自动化流程。
@@ -27,6 +35,18 @@ Segev Shlomov, Avi Yaeli, Sami Marreed, Sivan Schwartz, Netanel Eder, Offer Akra
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2407-15673/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2407-15673/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_15673,
+  title = {{IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design}},
+  author = {{Segev Shlomov} and {Avi Yaeli} and {Sami Marreed} and {Sivan Schwartz} and {Netanel Eder} and {Offer Akrabi} and {Sergey Zeltyn}},
+  year = {2024},
+  eprint = {2407.15673v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.15673v3},
+  note = {First published: 2024-07-22; Recorded arXiv version: v3; Recorded version updated: 2024-08-18T09:02:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

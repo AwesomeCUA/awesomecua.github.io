@@ -1,3 +1,11 @@
+---
+title: "ColorAgent: Building A Robust… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-19386/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # ColorAgent: Building A Robust, Personalized, and Interactive OS Agent
 
 ColorAgent 是执行长流程用户指令的操作系统智能体，采用逐步 RL 和自演进训练，并在 AndroidWorld 与 AndroidLab 上评估。
@@ -27,6 +35,18 @@ Ning Li, Qiqiang Lin, Zheng Wu, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-19386/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-19386/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19386,
+  title = {{ColorAgent: Building A Robust, Personalized, and Interactive OS Agent}},
+  author = {{Ning Li} and {Qiqiang Lin} and {Zheng Wu} and {Xiaoyun Mo} and {Weiming Zhang} and {Yin Zhao} and {Xiangmou Qu} and {Jiamu Zhou} and {Jun Wang} and {Congmin Zheng} and {Yuanyi Song} and {Hongjiang Chen} and {Heyuan Huang} and {Jihong Wang} and {Jiaxin Yin} and {Jingwei Yu} and {Junwei Liao} and {Qiuying Peng} and {Xingyu Lou} and {Jun Wang} and {Weiwen Liu} and {Zhuosheng Zhang} and {Weinan Zhang}},
+  year = {2025},
+  eprint = {2510.19386v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19386v2},
+  note = {First published: 2025-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-10-24T07:32:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

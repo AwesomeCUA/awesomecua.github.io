@@ -1,3 +1,11 @@
+---
+title: "maafw-cli | AwesomeCUA"
+url: https://awesomecua.com/resources/github-otowa-kotori-maafw-cli/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # maafw-cli
 
 A command-line interface to MaaFramework that lets people, scripts and coding agents connect to ADB or Win32 targets, run OCR and template matching, and click recognized elements by reference.

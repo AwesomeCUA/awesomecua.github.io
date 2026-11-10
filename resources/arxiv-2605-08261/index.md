@@ -1,3 +1,11 @@
+---
+title: "Computer Use at the Edge of the Statistical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-08261/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Computer Use at the Edge of the Statistical Precipice
 
 DigiWorld is a sandboxed mobile-app benchmark for computer-use agents, paired with PRISM environment principles and a confidence-interval aggregation method.
@@ -26,6 +34,18 @@ Pierluca D'Oro, Sneha Silwal, William Wong, Yuxuan Sun, Fanyi Xiao, Manchen Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-08261/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-08261/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_08261,
+  title = {{Computer Use at the Edge of the Statistical Precipice}},
+  author = {{Pierluca D'Oro} and {Sneha Silwal} and {William Wong} and {Yuxuan Sun} and {Fanyi Xiao} and {Manchen Wang} and {Eric Gan} and {Allen Bolourchi} and {Joseph Tighe}},
+  year = {2026},
+  eprint = {2605.08261v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.08261v1},
+  note = {First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T22:43:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

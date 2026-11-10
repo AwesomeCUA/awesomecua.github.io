@@ -1,3 +1,11 @@
+---
+title: "TaskBench: Benchmarking Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-18760/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TaskBench: Benchmarking Large Language Models for Task Automation
 
 Status: excluded from the active CUA catalog after scope review.

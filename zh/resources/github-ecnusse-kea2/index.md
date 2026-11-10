@@ -1,3 +1,11 @@
+---
+title: "Kea2 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ecnusse-kea2/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Kea2
 
 一个用于对 Android 应用进行模糊测试的 Python 工具，将 Fastbot 的自动化 UI 探索与人工编写的脚本及基于属性的断言相结合，以发现崩溃和功能缺陷。

@@ -1,3 +1,11 @@
+---
+title: "Mind2Web-Live · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-boyugou-mind2web-live-seeact-v/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Mind2Web-Live
 
 这是面向 Mind2Web-Live 的 SeeAct-V 网页智能体实现。它根据屏幕图像规划操作，并用视觉定位模型确定需要坐标的操作目标。

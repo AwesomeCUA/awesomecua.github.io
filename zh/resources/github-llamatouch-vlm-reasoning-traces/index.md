@@ -1,3 +1,11 @@
+---
+title: "VLM-Reasoning-Traces · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-llamatouch-vlm-reasoning-traces/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # VLM-Reasoning-Traces
 
 VLM-Reasoning-Traces 发布模型输出，用于比较基础视觉语言模型与启用思考能力的视觉语言模型在 AndroidControl、ScreenSpot 和 AndroidWorld 上的表现。

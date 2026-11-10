@@ -1,3 +1,11 @@
+---
+title: "open-compute-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # open-compute-mcp
 
 open-compute-mcp launches a Python computer-use MCP server and relays requests over local standard I/O. The backend exposes Windows desktop capture, interface inspection, and input tools.

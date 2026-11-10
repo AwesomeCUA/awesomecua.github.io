@@ -1,3 +1,11 @@
+---
+title: "Streamline Without Sacrifice -- Squeeze out… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-15816/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Streamline Without Sacrifice -- Squeeze out Computation Redundancy in LMM
 
 Status: excluded from the active CUA catalog after scope review.

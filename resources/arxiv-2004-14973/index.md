@@ -1,3 +1,11 @@
+---
+title: "Improving Vision-and-Language Navigation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2004-14973/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Improving Vision-and-Language Navigation with Image-Text Pairs from the Web
 
 Status: excluded from the active CUA catalog after scope review.

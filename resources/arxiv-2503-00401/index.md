@@ -1,3 +1,11 @@
+---
+title: "Smoothing Grounding and Reasoning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-00401/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks
 
 Uses inference of possible user queries from screenshots and target coordinates as a training bridge between GUI grounding and action reasoning.
@@ -26,6 +34,18 @@ Zongru Wu, Pengzhou Cheng, Zheng Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-00401/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-00401/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_00401,
+  title = {{Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks}},
+  author = {{Zongru Wu} and {Pengzhou Cheng} and {Zheng Wu} and {Tianjie Ju} and {Zhuosheng Zhang} and {Gongshen Liu}},
+  year = {2025},
+  eprint = {2503.00401v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.00401v2},
+  note = {First published: 2025-03-01; Recorded arXiv version: v2; Recorded version updated: 2025-03-04T12:04:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

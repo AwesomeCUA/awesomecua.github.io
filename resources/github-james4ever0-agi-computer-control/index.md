@@ -1,3 +1,11 @@
+---
+title: "Cybergod | AwesomeCUA"
+url: https://awesomecua.com/resources/github-james4ever0-agi-computer-control/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # Cybergod
 
 Experimental monorepo for computer-control agents with a tmux terminal environment, a web recorder for GUI and terminal sessions in noVNC/ttyd Docker workers, and random-input data collection.

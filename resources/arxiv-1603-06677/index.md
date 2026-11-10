@@ -1,3 +1,11 @@
+---
+title: "Learning Executable Semantic Parsers for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1603-06677/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Learning Executable Semantic Parsers for Natural Language Understanding
 
 Bibliographic record for Learning Executable Semantic Parsers for Natural Language Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Percy Liang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1603-06677/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1603-06677/citation.csl.json
+
+```bibtex
+@misc{arxiv_1603_06677,
+  title = {{Learning Executable Semantic Parsers for Natural Language Understanding}},
+  author = {{Percy Liang}},
+  year = {2016},
+  eprint = {1603.06677v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1603.06677v1},
+  note = {First published: 2016-03-22; Recorded arXiv version: v1; Recorded version updated: 2016-03-22T05:07:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

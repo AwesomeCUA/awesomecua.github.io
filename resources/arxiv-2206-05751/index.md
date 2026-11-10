@@ -1,3 +1,11 @@
+---
+title: "Consistent Attack: Universal Adversarial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-05751/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Consistent Attack: Universal Adversarial Perturbation on Embodied Vision Navigation
 
 Status: excluded from the active CUA catalog after scope review.

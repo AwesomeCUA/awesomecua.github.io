@@ -1,3 +1,11 @@
+---
+title: "Hermes Browser Extension | AwesomeCUA"
+url: https://awesomecua.com/resources/github-catcaptions-hermes-extension/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hermes Browser Extension
 
 Browser side-panel extension for Hermes Agent enabling the agent to observe and drive active Chrome tabs.

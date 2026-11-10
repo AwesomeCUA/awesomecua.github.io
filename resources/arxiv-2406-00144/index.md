@@ -1,3 +1,11 @@
+---
+title: "Query2CAD: Generating CAD models using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-00144/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Query2CAD: Generating CAD models using natural language queries
 
 Bibliographic record for Query2CAD: Generating CAD models using natural language queries. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Akshay Badagabettu, Sai Sravan Yarlagadda, Amir Barati Farimani
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-00144/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-00144/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_00144,
+  title = {{Query2CAD: Generating CAD models using natural language queries}},
+  author = {{Akshay Badagabettu} and {Sai Sravan Yarlagadda} and {Amir Barati Farimani}},
+  year = {2024},
+  eprint = {2406.00144v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.00144v1},
+  note = {First published: 2024-05-31; Recorded arXiv version: v1; Recorded version updated: 2024-05-31T19:17:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

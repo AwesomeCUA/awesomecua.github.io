@@ -1,3 +1,11 @@
+---
+title: "Claude Opus 5 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c34a327604b5be4a7c98/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Claude Opus 5
 
 Claude Opus 5 是通用模型；发布页报告了它在 OSWorld 2.0 电脑操作评测中的表现，并介绍了浏览器和业务任务中的智能体应用。

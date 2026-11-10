@@ -1,3 +1,11 @@
+---
+title: "AI Safety in Generative AI Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-18369/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AI Safety in Generative AI Large Language Models: A Survey
 
 Bibliographic record for AI Safety in Generative AI Large Language Models: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jaymari Chua, Yun Li, Shiyi Yang, Chen Wang, Lina Yao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-18369/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-18369/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_18369,
+  title = {{AI Safety in Generative AI Large Language Models: A Survey}},
+  author = {{Jaymari Chua} and {Yun Li} and {Shiyi Yang} and {Chen Wang} and {Lina Yao}},
+  year = {2024},
+  eprint = {2407.18369v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.18369v1},
+  note = {First published: 2024-07-06; Recorded arXiv version: v1; Recorded version updated: 2024-07-06T09:00:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

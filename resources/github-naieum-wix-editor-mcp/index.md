@@ -1,3 +1,11 @@
+---
+title: "wix-editor-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-naieum-wix-editor-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # wix-editor-mcp
 
 Model Context Protocol server for automating page layout, text, images, and SEO inside the classic Wix Editor.

@@ -1,3 +1,11 @@
+---
+title: "Captioner · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4f98919eaf7a92e8faab/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Captioner
 
 Captioner 是面向图形界面的密集描述模型，发布内容包括模型检查点，并附有在线演示和参考服务端代码的链接。

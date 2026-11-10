@@ -1,3 +1,11 @@
+---
+title: "WideSearch: Benchmarking Agentic Broad… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-07999/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WideSearch: Benchmarking Agentic Broad Info-Seeking
 
 Bibliographic record for WideSearch: Benchmarking Agentic Broad Info-Seeking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ryan Wong, Jiawei Wang, Junjie Zhao, Li Chen, Yan Gao, Long Zhang, Xuan Zhou, Zu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-07999/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-07999/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_07999,
+  title = {{WideSearch: Benchmarking Agentic Broad Info-Seeking}},
+  author = {{Ryan Wong} and {Jiawei Wang} and {Junjie Zhao} and {Li Chen} and {Yan Gao} and {Long Zhang} and {Xuan Zhou} and {Zuo Wang} and {Kai Xiang} and {Ge Zhang} and {Wenhao Huang} and {Yang Wang} and {Ke Wang}},
+  year = {2025},
+  eprint = {2508.07999v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.07999v2},
+  note = {First published: 2025-08-11; Recorded arXiv version: v2; Recorded version updated: 2025-08-28T09:31:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

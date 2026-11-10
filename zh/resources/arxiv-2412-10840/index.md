@@ -1,3 +1,11 @@
+---
+title: "Attention-driven GUI Grounding… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-10840/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning
 
 识别并聚合预训练多模态模型的注意力图，无需针对任务微调即可定位 GUI 目标。
@@ -27,6 +35,18 @@ Hai-Ming Xu, Qi Chen, Lei Wang, Lingqiao Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-10840/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-10840/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_10840,
+  title = {{Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning}},
+  author = {{Hai-Ming Xu} and {Qi Chen} and {Lei Wang} and {Lingqiao Liu}},
+  year = {2024},
+  eprint = {2412.10840v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.10840v1},
+  note = {First published: 2024-12-14; Recorded arXiv version: v1; Recorded version updated: 2024-12-14T14:30:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

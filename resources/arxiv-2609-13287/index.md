@@ -1,3 +1,11 @@
+---
+title: "LLaDA-UI: Bringing Block-wise Diffusion to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-13287/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents
 
 LLaDA-UI adapts block-wise diffusion generation to a vision-language GUI agent through multimodal pretraining and GUI supervised fine-tuning. It evaluates grounding and navigation across multiple platform settings.
@@ -26,6 +34,18 @@ Zhangxuan Gu, Haoxing Chen, Qi Qin, Yi Xin, Kai Gan, Lin Liu, Long Cui, Xiaomei 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-13287/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-13287/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_13287,
+  title = {{LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents}},
+  author = {{Zhangxuan Gu} and {Haoxing Chen} and {Qi Qin} and {Yi Xin} and {Kai Gan} and {Lin Liu} and {Long Cui} and {Xiaomei Wang} and {Beitong Zhou} and {Yunzhu Zhang} and {Zhengwen Zeng} and {Changlong Gao} and {Weizhi Chen} and {Rongchao Zhang} and {Haoyuan Wu} and {Shuheng Shen} and {Changhua Meng} and {Weiqiang Wang} and {Jianguo Li} and {Zhenzhong Lan}},
+  year = {2026},
+  eprint = {2609.13287v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.13287v1},
+  note = {First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T05:53:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "THUDM/cogagent-chat-hf · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5726382dc813f040f829/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # THUDM/cogagent-chat-hf
 
 CogAgent 的对话模型权重，可解读图形界面截图并提出计划、下一步操作和坐标。模型卡描述了它在网页、桌面和移动界面中的用途。

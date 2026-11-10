@@ -1,3 +1,11 @@
+---
+title: "Beyond Pixels: Exploring DOM Downsampling for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-04412/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents
 
 D2Snap reduces serialized DOM observations while preserving actionable elements and features that distinguish their uses. The study compares reduced DOM inputs with screenshot-based observations for a web agent on tasks sampled from Online-Mind2Web.
@@ -26,6 +34,18 @@ Thassilo M. Schiepanski, Nicholas Piël
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-04412/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-04412/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04412,
+  title = {{Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents}},
+  author = {{Thassilo M. Schiepanski} and {Nicholas Piël}},
+  year = {2025},
+  eprint = {2508.04412v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04412v4},
+  note = {First published: 2025-08-06; Recorded arXiv version: v4; Recorded version updated: 2026-08-31T14:39:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

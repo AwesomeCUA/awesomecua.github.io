@@ -1,3 +1,11 @@
+---
+title: "CoAT research implementation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-imnearth-coat/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # CoAT research implementation
 
 Research scripts that generate screen descriptions, action reasoning and expected outcomes, then predict Android GUI actions using the resulting Chain-of-Action-Thought context.

@@ -1,3 +1,11 @@
+---
+title: "ShowUI-π · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-showui-pi/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # ShowUI-π
 
 面向 GUI 拖拽操作的视觉语言动作模型及训练代码，提供模型检查点和连续动作评估数据的链接。

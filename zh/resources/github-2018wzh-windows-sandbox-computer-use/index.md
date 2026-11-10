@@ -1,3 +1,11 @@
+---
+title: "Windows Sandbox Computer Use Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-2018wzh-windows-sandbox-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Windows Sandbox Computer Use Skill
 
 仅适用于 Windows 的智能体技能，可创建隔离的 Windows Sandbox 虚拟机，并通过视觉计算机使用操控它。

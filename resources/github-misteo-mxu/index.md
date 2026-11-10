@@ -1,3 +1,11 @@
+---
+title: "MXU | AwesomeCUA"
+url: https://awesomecua.com/resources/github-misteo-mxu/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MXU
 
 A Tauri, React and TypeScript GUI client that loads any MaaFramework PI V2 interface.json and runs its tasks, with drag-ordered task lists, multiple instances, live device screenshots, logs and scheduled runs.

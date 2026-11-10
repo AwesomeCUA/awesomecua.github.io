@@ -1,3 +1,11 @@
+---
+title: "Doc2Agent: Scalable Generation of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-19998/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation
 
 Doc2Agent 从 API 文档生成并迭代改进 Python 工具，供工具型智能体调用；WebArena API 是其评测对象之一。
@@ -27,6 +35,18 @@ Xinyi Ni, Haonan Jian, Qiuyang Wang, Vedanshi Chetan Shah, Pengyu Hong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-19998/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-19998/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_19998,
+  title = {{Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation}},
+  author = {{Xinyi Ni} and {Haonan Jian} and {Qiuyang Wang} and {Vedanshi Chetan Shah} and {Pengyu Hong}},
+  year = {2025},
+  eprint = {2506.19998v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.19998v1},
+  note = {First published: 2025-06-24; Recorded arXiv version: v1; Recorded version updated: 2025-06-24T20:30:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

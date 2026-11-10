@@ -1,3 +1,11 @@
+---
+title: "Auto_OS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jaswanth1902-auto-os/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Auto_OS
 
 Sub-30ms Windows desktop automation primitive using direct Win32 UI Automation tree traversal and native input injection.

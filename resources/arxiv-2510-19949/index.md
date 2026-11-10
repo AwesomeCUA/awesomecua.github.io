@@ -1,3 +1,11 @@
+---
+title: "Surfer 2: The Next Generation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-19949/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Surfer 2: The Next Generation of Cross-Platform Computer Use Agents
 
 Surfer2 combines hierarchical context management with separate planning and execution, self-verification, and recovery for visual computer use. It evaluates the framework across web, desktop, and Android tasks without task-specific fine-tuning.
@@ -26,6 +34,18 @@ Mathieu Andreux, Märt Bakler, Yanael Barbier, Hamza Benchekroun, Emilien Biré,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-19949/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-19949/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19949,
+  title = {{Surfer 2: The Next Generation of Cross-Platform Computer Use Agents}},
+  author = {{Mathieu Andreux} and {Märt Bakler} and {Yanael Barbier} and {Hamza Benchekroun} and {Emilien Biré} and {Antoine Bonnet} and {Riaz Bordie} and {Nathan Bout} and {Matthias Brunel} and {Aleix Cambray} and {Pierre-Louis Cedoz} and {Antoine Chassang} and {Gautier Cloix} and {Ethan Connelly} and {Alexandra Constantinou} and {Ramzi De Coster} and {Hubert de la Jonquiere} and {Aurélien Delfosse} and {Maxime Delpit} and {Alexis Deprez} and {Augustin Derupti} and {Mathieu Diaz} and {Shannon D'Souza} and {Julie Dujardin} and {Abai Edmund} and {Michael Eickenberg} and {Armand Fatalot} and {Wissem Felissi} and {Isaac Herring} and {Xavier Koegler} and {Erwan Le Jumeau de Kergaradec} and {Aurélien Lac} and {Maxime Langevin} and {Corentin Lauverjat} and {Antonio Loison} and {Avshalom Manevich} and {Axel Moyal} and {Axel Nguyen Kerbel} and {Marinela Parovic} and {Julien Revelle} and {Guillaume Richard} and {Mats Richter} and {Ronan Riochet} and {María Santos} and {Romain Savidan} and {Laurent Sifre} and {Maxime Theillard} and {Marc Thibault} and {Ivan Valentini} and {Tony Wu} and {Laura Yie} and {Kai Yuan} and {Jevgenij Zubovskij}},
+  year = {2025},
+  eprint = {2510.19949v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19949v2},
+  note = {First published: 2025-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-10-24T11:52:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

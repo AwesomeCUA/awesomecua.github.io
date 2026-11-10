@@ -1,3 +1,11 @@
+---
+title: "HIDAgent: A Toolkit Enabling \"Personal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-00492/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HIDAgent: A Toolkit Enabling "Personal Agents" on HID-Compatible Devices
 
 Bibliographic record for HIDAgent: A Toolkit Enabling "Personal Agents" on HID-Compatible Devices. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jeffrey P. Bigham
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-00492/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-00492/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_00492,
+  title = {{HIDAgent: A Toolkit Enabling "Personal Agents" on HID-Compatible Devices}},
+  author = {{Jeffrey P. Bigham}},
+  year = {2026},
+  eprint = {2602.00492v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.00492v1},
+  note = {First published: 2026-01-31; Recorded arXiv version: v1; Recorded version updated: 2026-01-31T03:36:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

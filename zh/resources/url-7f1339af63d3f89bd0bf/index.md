@@ -1,3 +1,11 @@
+---
+title: "AutoGUI-Qwen-v0.1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7f1339af63d3f89bd0bf/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # AutoGUI-Qwen-v0.1
 
 这是使用 AutoGUI-625k 数据训练、由 Qwen-VL-Chat 微调而来的界面视觉语言模型权重，用于理解图形界面。

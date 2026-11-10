@@ -1,3 +1,11 @@
+---
+title: "libuiohook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kwhat-libuiohook/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # libuiohook
 
 C library that installs global keyboard and mouse hooks from userland on Windows, macOS and Linux and can post synthetic input events, with hook and event-post demos.

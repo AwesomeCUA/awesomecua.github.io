@@ -1,3 +1,11 @@
+---
+title: "Seed1.5-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bytedance-seed-seed1-5-vl/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Seed1.5-VL
 
 ByteDance Seed 通过 API 提供的视觉语言基础模型；仓库中的示例指南包含计算机和移动端 GUI 智能体提示，支持点击、拖动、快捷键、输入和滚动。

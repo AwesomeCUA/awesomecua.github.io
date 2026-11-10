@@ -1,3 +1,11 @@
+---
+title: "WebForge: Breaking the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-10988/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark
 
 WebForge 通过规划、生成、优化和验证，构建自包含的交互式网站；WebForge-Bench 利用这些环境，在不同领域和受控难度下评估浏览器智能体。
@@ -27,6 +35,18 @@ Peng Yuan, Yuyang Yin, Yuxuan Cai, Zheng Wei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-10988/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-10988/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_10988,
+  title = {{WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark}},
+  author = {{Peng Yuan} and {Yuyang Yin} and {Yuxuan Cai} and {Zheng Wei}},
+  year = {2026},
+  eprint = {2604.10988v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.10988v1},
+  note = {First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T04:45:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

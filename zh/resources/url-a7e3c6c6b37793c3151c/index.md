@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint-GUISyn · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a7e3c6c6b37793c3151c/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # MolmoPoint-GUISyn
 
 Ai2 合成 GUI 元素定位数据集包含约 36K 张由代码渲染的桌面、移动端和网页截图，每张均有密集元素边界框、名称及每个元素的五条自然语言意图，用于训练指向模型。

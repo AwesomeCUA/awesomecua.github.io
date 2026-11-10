@@ -1,3 +1,11 @@
+---
+title: "UI-Mate · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-ui-mate/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # UI-Mate
 
 UI-Mate 是桌面图形界面智能体，通过截图及键盘、鼠标操作完成跨应用任务。它也支持从录制的演示中学习工作流程。

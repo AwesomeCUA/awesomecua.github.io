@@ -1,3 +1,11 @@
+---
+title: "autourgos-cua-coordinate-tool | AwesomeCUA"
+url: https://awesomecua.com/resources/github-devxjitin-autourgos-cua-coordinate-tool/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # autourgos-cua-coordinate-tool
 
 Vision-based UI coordinate localization tool for Autourgos computer-use agents.

@@ -1,3 +1,11 @@
+---
+title: "Fuji-Web (github.com/normal-computing/fu… · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-normal-computing-fuji-web/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Fuji-Web
 
 Fuji-Web 是一个 Chrome 扩展网页智能体，结合无障碍树和截图定位，自主执行浏览器工作流。

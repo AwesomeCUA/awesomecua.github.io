@@ -1,3 +1,11 @@
+---
+title: "selenium-stealth | AwesomeCUA"
+url: https://awesomecua.com/resources/github-diprajpatra-selenium-stealth/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # selenium-stealth
 
 selenium-stealth is a Python utility that configures Selenium-driven Chrome or Chromium sessions to reduce browser automation detection.

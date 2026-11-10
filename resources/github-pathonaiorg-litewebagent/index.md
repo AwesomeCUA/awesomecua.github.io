@@ -1,3 +1,11 @@
+---
+title: "LiteWebAgent (github.com/PathOnAIOrg/LiteWebAg… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pathonaiorg-litewebagent/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # LiteWebAgent
 
 Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.

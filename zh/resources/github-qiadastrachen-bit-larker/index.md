@@ -1,3 +1,11 @@
+---
+title: "Larker · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qiadastrachen-bit-larker/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Larker
 
 Larker 是视觉驱动的 Windows 桌面智能体，通过 VLM 定位自动操作缺少 DOM 或无障碍 API 的 GUI 客户端。

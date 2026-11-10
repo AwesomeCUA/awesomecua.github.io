@@ -1,3 +1,11 @@
+---
+title: "Webagent (webagent.cloud) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-webagent-cloud-webagent/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Webagent (webagent.cloud)
 
 Self-hostable browser-agent server that runs Browser Use or Notte agents, turns a run's recorded actions into a parameterized workflow, and replays it with Playwright, falling back to the agent when a step fails.

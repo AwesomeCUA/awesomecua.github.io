@@ -1,3 +1,11 @@
+---
+title: "Inspect Evals | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Inspect Evals
 
 Inspect Evals is a community benchmark suite for the UK AISI Inspect framework including OSWorld, GAIA, SWE-bench, and cyber/agent evaluations.

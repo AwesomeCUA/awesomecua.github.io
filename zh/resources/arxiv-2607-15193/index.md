@@ -1,3 +1,11 @@
+---
+title: "Plover: Steering GUI Agents through… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-15193/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Plover: Steering GUI Agents through Plan-Centric Interaction
 
 Plover 将 GUI 智能体的计划及重新规划结果作为可持久保存的内容，供用户在执行中查看和编辑。其规划器—执行器设计支持通过修改计划、语言指导和基于截图的干预进行局部纠正，并在失败修复与工作流场景中研究这一机制。
@@ -27,6 +35,18 @@ Madhumitha Venkatesan, Shicheng Wen, Jiajing Guo, Jorge Piazentin Ono, Liu Ren, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-15193/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-15193/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_15193,
+  title = {{Plover: Steering GUI Agents through Plan-Centric Interaction}},
+  author = {{Madhumitha Venkatesan} and {Shicheng Wen} and {Jiajing Guo} and {Jorge Piazentin Ono} and {Liu Ren} and {Dongyu Liu}},
+  year = {2026},
+  eprint = {2607.15193v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.15193v1},
+  note = {First published: 2026-07-16; Recorded arXiv version: v1; Recorded version updated: 2026-07-16T16:48:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

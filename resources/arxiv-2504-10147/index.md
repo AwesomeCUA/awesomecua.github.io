@@ -1,3 +1,11 @@
+---
+title: "A Survey of Personalization: From RAG to Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-10147/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey of Personalization: From RAG to Agent
 
 Status: excluded from the active CUA catalog after scope review.

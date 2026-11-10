@@ -1,3 +1,11 @@
+---
+title: "PortaMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tnlegend-portamcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # PortaMCP
 
 面向 Windows 自动化的客户端无关 Model Context Protocol 服务器和安全的桌面控制中心。

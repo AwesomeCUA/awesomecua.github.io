@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-2B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d1f0e13ad96c108ef09b/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-2B-HF
 
 HF 格式、2.3B 参数的 InternVL3.5 检查点，该多模态模型的说明卡将 GUI 交互列为训练所得能力之一，并报告了该系列的 GUI 任务结果。

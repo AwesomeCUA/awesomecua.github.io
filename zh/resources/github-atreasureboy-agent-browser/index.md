@@ -1,3 +1,11 @@
+---
+title: "Semantic Browser (agent-browser) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-atreasureboy-agent-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Semantic Browser (agent-browser)
 
 供智能体读取的语义浏览器层，支持节省 token 的网页理解和结构化动作执行。

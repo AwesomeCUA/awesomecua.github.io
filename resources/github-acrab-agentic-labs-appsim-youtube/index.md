@@ -1,3 +1,11 @@
+---
+title: "youtube_sim | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-youtube/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # youtube_sim
 
 youtube_sim is a YouTube-style Android test app with local media, interaction logs and task validators for checking mobile interface actions and resulting state.

@@ -1,3 +1,11 @@
+---
+title: "BraveCowNoFear Windows Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bravecownofear-windows-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # BraveCowNoFear Windows Computer Use
 
 Local Windows computer-use plugin for Codex combining UIA3 semantic trees, MCP tools, SendInput, and window capture.

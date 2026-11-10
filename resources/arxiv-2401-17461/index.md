@@ -1,3 +1,11 @@
+---
+title: "Synthetic Dialogue Dataset Generation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-17461/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Synthetic Dialogue Dataset Generation using LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

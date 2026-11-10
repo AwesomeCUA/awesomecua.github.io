@@ -1,3 +1,11 @@
+---
+title: "Mobile-Bench-v2: A More Realistic and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-11891/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents
 
 Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline action paths, noisy interfaces with ads or pop-ups, and ambiguous instructions with scripted clarification exchanges. These splits separate step-level execution, robustness, and proactive interaction.
@@ -26,6 +34,18 @@ Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-11891/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-11891/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_11891,
+  title = {{Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents}},
+  author = {{Weikai Xu} and {Zhizheng Jiang} and {Yuxuan Liu} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Yuanchun Li} and {Yunxin Liu} and {Bin Wang} and {Bo An}},
+  year = {2025},
+  eprint = {2505.11891v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.11891v3},
+  note = {First published: 2025-05-17; Recorded arXiv version: v3; Recorded version updated: 2026-02-02T06:55:10Z.}
+}
+```
 
 ## Publication record
 

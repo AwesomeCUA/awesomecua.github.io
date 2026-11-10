@@ -1,3 +1,11 @@
+---
+title: "kev-0.6b-browser-use-ONNX | AwesomeCUA"
+url: https://awesomecua.com/resources/url-295e0be27996e41738f8/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # kev-0.6b-browser-use-ONNX
 
 A WebGPU-compatible ONNX browser-use model that selects a page element and operation from a goal and candidate elements, with a 4-bit export for JavaScript use.

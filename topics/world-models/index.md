@@ -1,3 +1,11 @@
+---
+title: "World models — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/world-models/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # World models
 
 Reviewed topic membership; resources can appear in multiple topics.

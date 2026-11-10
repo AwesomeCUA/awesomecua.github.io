@@ -1,3 +1,11 @@
+---
+title: "Reservoir Computing using High Order… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2004-04114/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reservoir Computing using High Order Synchronization of Coupled Oscillators
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "cloakbrowser-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-swimmwatch-cloakbrowser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cloakbrowser-mcp
 
 由 Playwright 驱动的 Model Context Protocol 服务器，用于控制 CloakBrowser 的反检测 Chromium 会话。

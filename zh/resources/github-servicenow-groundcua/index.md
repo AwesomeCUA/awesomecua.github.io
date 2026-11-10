@@ -1,3 +1,11 @@
+---
+title: "GroundCUA · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-servicenow-groundcua/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # GroundCUA
 
 GroundCUA 发布覆盖 87 个应用的 56,000 张桌面截图、3.56M 条经人工验证的 UI 元素标注，以及 GroundNext 模型。

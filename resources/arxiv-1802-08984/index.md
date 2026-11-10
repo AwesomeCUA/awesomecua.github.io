@@ -1,3 +1,11 @@
+---
+title: "Secure Serverless Computing Using Dynamic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1802-08984/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Secure Serverless Computing Using Dynamic Information Flow Control
 
 Status: excluded from the active CUA catalog after scope review.

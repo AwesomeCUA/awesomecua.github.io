@@ -1,3 +1,11 @@
+---
+title: "Venxuix Dccide · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-venxuix-dccide-venxuix/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Venxuix Dccide
 
 位于 Windows 之上的 2D/3D 智能体操作环境，供人类和 AI 智能体共同编排桌面任务。

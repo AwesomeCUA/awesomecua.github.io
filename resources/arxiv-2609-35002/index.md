@@ -1,3 +1,11 @@
+---
+title: "Still There, No Longer Seen: Exposing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35002/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

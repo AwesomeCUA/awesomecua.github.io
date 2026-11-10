@@ -1,3 +1,11 @@
+---
+title: "Robotic Process Automation and… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b230a6700386b7e2744c/
+updated: 2026-11-09
+type: survey
+lang: zh-CN
+---
+
 # Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review
 
 这篇文献综述考察工业 4.0 中机器人流程自动化工具与 AI 如何结合，用于组织工作流程中的信息提取和流程优化。
@@ -27,6 +35,21 @@ Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
 
 - BibTeX：https://awesomecua.com/resources/url-b230a6700386b7e2744c/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-b230a6700386b7e2744c/citation.csl.json
+
+```bibtex
+@article{cua_22af3749b032a90aa40625db,
+  title = {{Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review}},
+  author = {{Jorge Ribeiro} and {Rui Lima} and {Tiago Eckhardt} and {Sara Paiva}},
+  year = {2021},
+  journal = {Procedia Computer Science},
+  publisher = {Elsevier BV},
+  volume = {181},
+  pages = {51-58},
+  doi = {10.1016/j.procs.2021.01.104},
+  url = {https://www.sciencedirect.com/science/article/pii/S1877050921001393},
+  note = {Publication date: 2021.}
+}
+```
 
 ## 发表记录
 

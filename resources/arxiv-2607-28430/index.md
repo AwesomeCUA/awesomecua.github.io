@@ -1,3 +1,11 @@
+---
+title: "AgentRadio: Passive Awareness for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28430/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentRadio: Passive Awareness for Long-Horizon Multi-Agent Collaboration
 
 Status: excluded from the active CUA catalog after scope review.

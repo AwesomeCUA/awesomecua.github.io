@@ -1,3 +1,11 @@
+---
+title: "Navigating WebAI: Training Agents to Complete… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-00516/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning
 
 Combines supervised and reinforcement learning for MiniWoB web tasks and investigates whether agents understand HTML structure or memorize target elements.
@@ -26,6 +34,18 @@ Lucas-Andreï Thil, Mirela Popa, Gerasimos Spanakis
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-00516/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-00516/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_00516,
+  title = {{Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning}},
+  author = {{Lucas-Andreï Thil} and {Mirela Popa} and {Gerasimos Spanakis}},
+  year = {2024},
+  eprint = {2405.00516v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.00516v1},
+  note = {First published: 2024-05-01; Recorded arXiv version: v1; Recorded version updated: 2024-05-01T13:51:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

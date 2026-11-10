@@ -1,3 +1,11 @@
+---
+title: "Promptwright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sahajamit-promptwright/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Promptwright
 
 Promptwright is an AI QA desktop agent that drives browsers from plain English or records user clicks into deterministic Playwright tests.

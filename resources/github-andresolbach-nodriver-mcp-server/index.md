@@ -1,3 +1,11 @@
+---
+title: "nodriver-mcp-server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-andresolbach-nodriver-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # nodriver-mcp-server
 
 Model Context Protocol server exposing 70 stealth Chrome workspace, DOM extraction, and interaction tools powered by `nodriver`.

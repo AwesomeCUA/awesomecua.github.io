@@ -1,3 +1,11 @@
+---
+title: "Cella · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-latere-ai-cella/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Cella
 
 一个通过清单定义智能体沙箱的控制平面，可在多种运行环境中执行工作负载，并提供支持屏幕查看和输入控制的虚拟桌面。

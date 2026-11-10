@@ -1,3 +1,11 @@
+---
+title: "InternVL3.5: Advancing Open-Source… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-18265/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency
 
 提出多模态模型系列 InternVL3.5，采用 Cascade RL 训练，旨在提高推理效率；GUI 交互也被列为其能力之一。
@@ -27,6 +35,18 @@ Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoya
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-18265/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-18265/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_18265,
+  title = {{InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency}},
+  author = {{Weiyun Wang} and {Zhangwei Gao} and {Lixin Gu} and {Hengjun Pu} and {Long Cui} and {Xingguang Wei} and {Zhaoyang Liu} and {Linglin Jing} and {Shenglong Ye} and {Jie Shao} and {Zhaokai Wang} and {Zhe Chen} and {Hongjie Zhang} and {Ganlin Yang} and {Haomin Wang} and {Qi Wei} and {Jinhui Yin} and {Wenhao Li} and {Erfei Cui} and {Guanzhou Chen} and {Zichen Ding} and {Changyao Tian} and {Zhenyu Wu} and {Jingjing Xie} and {Zehao Li} and {Bowen Yang} and {Yuchen Duan} and {Xuehui Wang} and {Zhi Hou} and {Haoran Hao} and {Tianyi Zhang} and {Songze Li} and {Xiangyu Zhao} and {Haodong Duan} and {Nianchen Deng} and {Bin Fu} and {Yinan He} and {Yi Wang} and {Conghui He} and {Botian Shi} and {Junjun He} and {Yingtong Xiong} and {Han Lv} and {Lijun Wu} and {Wenqi Shao} and {Kaipeng Zhang} and {Huipeng Deng} and {Biqing Qi} and {Jiaye Ge} and {Qipeng Guo} and {Wenwei Zhang} and {Songyang Zhang} and {Maosong Cao} and {Junyao Lin} and {Kexian Tang} and {Jianfei Gao} and {Haian Huang} and {Yuzhe Gu} and {Chengqi Lyu} and {Huanze Tang} and {Rui Wang} and {Haijun Lv} and {Wanli Ouyang} and {Limin Wang} and {Min Dou} and {Xizhou Zhu} and {Tong Lu} and {Dahua Lin} and {Jifeng Dai} and {Weijie Su} and {Bowen Zhou} and {Kai Chen} and {Yu Qiao} and {Wenhai Wang} and {Gen Luo}},
+  year = {2025},
+  eprint = {2508.18265v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.18265v2},
+  note = {First published: 2025-08-25; Recorded arXiv version: v2; Recorded version updated: 2025-08-27T14:39:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

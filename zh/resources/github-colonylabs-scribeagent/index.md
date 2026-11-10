@@ -1,3 +1,11 @@
+---
+title: "ScribeAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-colonylabs-scribeagent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # ScribeAgent
 
 ScribeAgent 利用含网页 HTML 和历史操作的流程记录训练网页智能体；仓库提供数据预处理、微调和评测代码。

@@ -1,3 +1,11 @@
+---
+title: "A scalable Controlled NOT gate for linear… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1904-02268/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A scalable Controlled NOT gate for linear optical computing using microring resonators
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Notte Skills · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nottelabs-notte-skills/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Notte Skills
 
 Notte Skills 通过浏览器操作和托管的 MCP 工具，使编程智能体能够操控本地或云端浏览器，并支持可复用的自动化函数。

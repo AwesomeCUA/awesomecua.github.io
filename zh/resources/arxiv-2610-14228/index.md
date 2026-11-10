@@ -1,3 +1,11 @@
+---
+title: "Latent World Action Model for GUI Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-14228/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Latent World Action Model for GUI Agents
 
 以共享的潜在表征取代未来截图生成，同时用于 GUI 动作选择和以动作为条件的状态转移预测。动作感知的对比目标促使转移表征保留可区分的动作引发变化。
@@ -27,6 +35,18 @@ Seungjun Yu, Hojun Choi, Seojeong Park, Jaeyo Shin, Hyunjung Shim
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-14228/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-14228/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14228,
+  title = {{Latent World Action Model for GUI Agents}},
+  author = {{Seungjun Yu} and {Hojun Choi} and {Seojeong Park} and {Jaeyo Shin} and {Hyunjung Shim}},
+  year = {2026},
+  eprint = {2610.14228v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14228v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T18:45:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

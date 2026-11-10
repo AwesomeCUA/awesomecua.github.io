@@ -1,3 +1,11 @@
+---
+title: "LLM Wiki for Chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nvk-llm-wiki-chrome/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # LLM Wiki for Chrome
 
 有范围限制的 Chrome 协作扩展和本地连接器，用于根据实时浏览内容构建由 LLM 维护的知识 Wiki。

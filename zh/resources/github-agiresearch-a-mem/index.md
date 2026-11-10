@@ -1,3 +1,11 @@
+---
+title: "A-MEM · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agiresearch-a-mem/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # A-MEM
 
 A-MEM 实现了受 Zettelkasten 启发的动态记忆架构，可为 LLM 智能体关联并演进结构化情景笔记。

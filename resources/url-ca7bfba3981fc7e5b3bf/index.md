@@ -1,3 +1,11 @@
+---
+title: "MobileRisk | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # MobileRisk
 
 Annotated Android agent trajectories, split into safe and unsafe sets, for the OS-Sentinel benchmark that measures how well detectors flag unsafe mobile GUI agent actions.

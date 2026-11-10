@@ -1,3 +1,11 @@
+---
+title: "MCP-RealBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-obbbba-mcp-realbrowser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP-RealBrowser
 
 Model Context Protocol server providing 20 browser tools over a persistent, logged-in browser profile.

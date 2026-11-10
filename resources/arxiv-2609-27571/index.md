@@ -1,3 +1,11 @@
+---
+title: "FDE-Bench: Evaluating LLM Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-27571/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration
 
 Bibliographic record for FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weihang Ding, Junfei Zhan, Yueting Li, Qirong Guo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-27571/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-27571/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_27571,
+  title = {{FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration}},
+  author = {{Weihang Ding} and {Junfei Zhan} and {Yueting Li} and {Qirong Guo}},
+  year = {2026},
+  eprint = {2609.27571v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.27571v1},
+  note = {First published: 2026-09-23; Recorded arXiv version: v1; Recorded version updated: 2026-09-23T08:51:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "CloudCruise · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c6f3c36e4603808ae9a6/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # CloudCruise
 
 面向医疗门户和 EHR 的托管浏览器自动化平台，构建智能体将聊天描述转为可复用的工作流图，在云端 VM 运行，并由维护智能体修复。

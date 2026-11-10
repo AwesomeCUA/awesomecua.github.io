@@ -1,3 +1,11 @@
+---
+title: "page-agent-sdk · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-whyymj-page-agent-sdk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # page-agent-sdk
 
 页面内 AI 助手 SDK，可挂载聊天组件，并让 LLM 通过经过模式验证的工具安全地读取和修改网页状态。

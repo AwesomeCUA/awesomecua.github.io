@@ -1,3 +1,11 @@
+---
+title: "GroundGUI-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-de31b07ff24ab15d9bdf/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # GroundGUI-8B
 
 Screenshot grounding checkpoint that emits a single click in a normalized coordinate space.

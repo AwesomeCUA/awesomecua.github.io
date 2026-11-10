@@ -1,3 +1,11 @@
+---
+title: "SafeMobile: Chain-level Jailbreak… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-00841/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents
 
 研究移动端多模态智能体的操作链级风险检测和语言模型辅助评估器，同时评估安全干预及功能保持情况。
@@ -27,6 +35,18 @@ Siyuan Liang, Tianmeng Fang, Zhe Liu, Aishan Liu, Yan Xiao, Jinyuan He, Ee-Chien
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-00841/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-00841/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_00841,
+  title = {{SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents}},
+  author = {{Siyuan Liang} and {Tianmeng Fang} and {Zhe Liu} and {Aishan Liu} and {Yan Xiao} and {Jinyuan He} and {Ee-Chien Chang} and {Xiaochun Cao}},
+  year = {2025},
+  eprint = {2507.00841v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.00841v1},
+  note = {First published: 2025-07-01; Recorded arXiv version: v1; Recorded version updated: 2025-07-01T15:10:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

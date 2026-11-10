@@ -1,3 +1,11 @@
+---
+title: "SheetAgent: Towards A Generalist Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-03636/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models
 
 提出长步骤电子表格任务基准 SheetRM 和智能体 SheetAgent；后者通过规划、检索与反思完成表格操作。
@@ -27,6 +35,18 @@ Yibin Chen, Yifu Yuan, Zeyu Zhang, Yan Zheng, Jinyi Liu, Fei Ni, Jianye Hao, Han
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-03636/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-03636/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_03636,
+  title = {{SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models}},
+  author = {{Yibin Chen} and {Yifu Yuan} and {Zeyu Zhang} and {Yan Zheng} and {Jinyi Liu} and {Fei Ni} and {Jianye Hao} and {Hangyu Mao} and {Fuzheng Zhang}},
+  year = {2024},
+  eprint = {2403.03636v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.03636v3},
+  note = {First published: 2024-03-06; Recorded arXiv version: v3; Recorded version updated: 2025-03-03T06:56:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

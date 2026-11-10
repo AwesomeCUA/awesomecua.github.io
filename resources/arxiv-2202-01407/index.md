@@ -1,3 +1,11 @@
+---
+title: "DigiQ: A Scalable Digital Controller for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2202-01407/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DigiQ: A Scalable Digital Controller for Quantum Computers Using SFQ Logic
 
 Status: excluded from the active CUA catalog after scope review.

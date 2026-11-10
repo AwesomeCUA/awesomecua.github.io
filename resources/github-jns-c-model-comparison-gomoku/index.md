@@ -1,3 +1,11 @@
+---
+title: "Gomoku Computer-Use Model Comparison | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Gomoku Computer-Use Model Comparison
 
 Controlled evaluation benchmark comparing frontier Claude models on interactive board-game reasoning and GUI execution.

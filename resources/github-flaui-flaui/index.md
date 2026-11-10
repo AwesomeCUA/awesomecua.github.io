@@ -1,3 +1,11 @@
+---
+title: "FlaUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-flaui-flaui/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # FlaUI
 
 FlaUI is a .NET library for locating and operating Windows application controls through Microsoft UI Automation. It supports automated interface tests and interactions.

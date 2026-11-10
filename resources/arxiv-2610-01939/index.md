@@ -1,3 +1,11 @@
+---
+title: "Fewer Tokens, Better Action: GPT-6 Astra… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-01939/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens
 
 Status: excluded from the active CUA catalog after scope review.

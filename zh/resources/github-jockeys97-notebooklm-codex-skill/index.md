@@ -1,3 +1,11 @@
+---
+title: "NotebookLM for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jockeys97-notebooklm-codex-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # NotebookLM for Codex
 
 一项 Codex 技能，通过浏览器自动化直接查询 Google Gemini NotebookLM。

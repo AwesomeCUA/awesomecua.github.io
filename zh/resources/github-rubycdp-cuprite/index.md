@@ -1,3 +1,11 @@
+---
+title: "Cuprite · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rubycdp-cuprite/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Cuprite
 
 一个 Ruby 驱动，通过 Ferrum 和 DevTools 协议在无头 Chrome 或 Chromium 中运行 Capybara 测试，支持设备模拟、URL 过滤和鼠标控制。

@@ -1,3 +1,11 @@
+---
+title: "LocalLSTC: A Long Short-Term Control… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-25777/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents
 
 Introduces LocalLSTC, a training-free control architecture that maintains persistent task state and uses it to form short execution commitments. Outcomes feed back into that state for progress checks, recovery, and termination in locally deployed desktop agents.
@@ -26,6 +34,18 @@ Weiming Li, Helen Paik, Yulei Sui
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-25777/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-25777/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_25777,
+  title = {{LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents}},
+  author = {{Weiming Li} and {Helen Paik} and {Yulei Sui}},
+  year = {2026},
+  eprint = {2608.25777v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.25777v2},
+  note = {First published: 2026-08-26; Recorded arXiv version: v2; Recorded version updated: 2026-09-25T23:54:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

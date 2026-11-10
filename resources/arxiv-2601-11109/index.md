@@ -1,3 +1,11 @@
+---
+title: "Vision-as-Inverse-Graphics Agent via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-11109/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning
 
 Bibliographic record for Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shaofeng Yin, Jiaxin Ge, Zora Zhiruo Wang, Chenyang Wang, Xiuyu Li, Michael J. B
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-11109/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-11109/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_11109,
+  title = {{Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning}},
+  author = {{Shaofeng Yin} and {Jiaxin Ge} and {Zora Zhiruo Wang} and {Chenyang Wang} and {Xiuyu Li} and {Michael J. Black} and {Trevor Darrell} and {Angjoo Kanazawa} and {Haiwen Feng}},
+  year = {2026},
+  eprint = {2601.11109v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.11109v3},
+  note = {First published: 2026-01-16; Recorded arXiv version: v3; Recorded version updated: 2026-04-06T13:27:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

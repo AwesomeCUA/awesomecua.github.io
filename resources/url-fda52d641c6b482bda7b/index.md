@@ -1,3 +1,11 @@
+---
+title: "E2B (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fda52d641c6b482bda7b/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # E2B
 
 Sandbox infrastructure for executing agent workloads.

@@ -1,3 +1,11 @@
+---
+title: "EAS agent-device demo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-callstackincubator-eas-agent-device/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # EAS agent-device demo
 
 An Expo example that runs an AI SDK QA agent on EAS Workflows, driving an Android app and iOS simulator with agent-device, capturing screenshots and posting a PR summary.

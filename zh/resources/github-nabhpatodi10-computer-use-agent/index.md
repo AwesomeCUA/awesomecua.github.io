@@ -1,3 +1,11 @@
+---
+title: "Computer-Use-Agent (Windows) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nabhpatodi10-computer-use-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Computer-Use-Agent (Windows)
 
 基于 LangGraph 的 Windows 计算机使用智能体，结合 UI Automation 树检查、OmniParser 视觉定位和人工确认关卡。

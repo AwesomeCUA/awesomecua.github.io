@@ -1,3 +1,11 @@
+---
+title: "TAG attention-driven GUI grounding | AwesomeCUA"
+url: https://awesomecua.com/resources/github-heimingx-tag/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # TAG attention-driven GUI grounding
 
 Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.

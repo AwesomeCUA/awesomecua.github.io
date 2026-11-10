@@ -1,3 +1,11 @@
+---
+title: "Embodied Multi-Modal Agent trained by an LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-16714/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld
 
 Bibliographic record for Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-16714/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-16714/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_16714,
+  title = {{Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld}},
+  author = {{Yijun Yang} and {Tianyi Zhou} and {Kanxue Li} and {Dapeng Tao} and {Lusong Li} and {Li Shen} and {Xiaodong He} and {Jing Jiang} and {Yuhui Shi}},
+  year = {2023},
+  eprint = {2311.16714v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.16714v2},
+  note = {First published: 2023-11-28; Recorded arXiv version: v2; Recorded version updated: 2024-03-29T04:07:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Upper Bounds for the Clock Speeds of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2209-00151/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Upper Bounds for the Clock Speeds of Fault-Tolerant Distributed Quantum Computation using Satellites to Supply Entangled Photon Pairs
 
 Status: excluded from the active CUA catalog after scope review.

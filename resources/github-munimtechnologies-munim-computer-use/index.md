@@ -1,3 +1,11 @@
+---
+title: "munim-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # munim-computer-use
 
 munim-computer-use is a cross-platform Computer Use MCP server combining native OS accessibility trees, OCR, and policy guardrails.

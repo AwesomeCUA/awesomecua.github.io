@@ -1,3 +1,11 @@
+---
+title: "Game-TARS: Pretrained Foundation Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-23691/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents
 
 Bibliographic record for Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zihao Wang, Xujing Li, Yining Ye, Junjie Fang, Haoming Wang, Longxiang Liu, Shih
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-23691/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-23691/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_23691,
+  title = {{Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents}},
+  author = {{Zihao Wang} and {Xujing Li} and {Yining Ye} and {Junjie Fang} and {Haoming Wang} and {Longxiang Liu} and {Shihao Liang} and {Junting Lu} and {Zhiyong Wu} and {Jiazhan Feng} and {Wanjun Zhong} and {Zili Li} and {Yu Wang} and {Yu Miao} and {Bo Zhou} and {Yuanfan Li} and {Hao Wang} and {Zhongkai Zhao} and {Faming Wu} and {Zhengxuan Jiang} and {Weihao Tan} and {Heyuan Yao} and {Shi Yan} and {Xiangyang Li} and {Yitao Liang} and {Yujia Qin} and {Guang Shi}},
+  year = {2025},
+  eprint = {2510.23691v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.23691v1},
+  note = {First published: 2025-10-27; Recorded arXiv version: v1; Recorded version updated: 2025-10-27T17:43:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

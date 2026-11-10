@@ -1,3 +1,11 @@
+---
+title: "Cappuccino | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Cappuccino
 
 Cappuccino is a pure-vision desktop GUI agent that plans and executes multi-step computer tasks from natural-language instructions.

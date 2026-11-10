@@ -1,3 +1,11 @@
+---
+title: "DrawAI: Agentic Benchmark and Workflow for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-00548/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DrawAI: Agentic Benchmark and Workflow for Making Raster Images Editable
 
 Bibliographic record for DrawAI: Agentic Benchmark and Workflow for Making Raster Images Editable. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Pu Cao, Qingye Kong, Xuedan Yin, Xuekun Zhao, Rupeng Yan, Qing Song, Yao Zhang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-00548/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-00548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_00548,
+  title = {{DrawAI: Agentic Benchmark and Workflow for Making Raster Images Editable}},
+  author = {{Pu Cao} and {Qingye Kong} and {Xuedan Yin} and {Xuekun Zhao} and {Rupeng Yan} and {Qing Song} and {Yao Zhang} and {Lu Yang}},
+  year = {2026},
+  eprint = {2608.00548v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.00548v1},
+  note = {First published: 2026-08-01; Recorded arXiv version: v1; Recorded version updated: 2026-08-01T09:05:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

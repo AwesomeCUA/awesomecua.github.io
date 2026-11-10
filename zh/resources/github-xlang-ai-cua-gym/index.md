@@ -1,3 +1,11 @@
+---
+title: "CUA-Gym · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-cua-gym/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CUA-Gym
 
 CUA-Gym 是可扩展的流水线，为计算机使用智能体合成交互式模拟网页环境和可验证的 RLVR 训练任务。

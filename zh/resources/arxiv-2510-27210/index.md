@@ -1,3 +1,11 @@
+---
+title: "GUI-Rise: Structured Reasoning and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-27210/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation
 
 GUI-Rise 结合结构化的进展与决策推理及历史记录摘要，以提升 GUI 导航智能体的跨领域泛化能力。
@@ -27,6 +35,18 @@ Tao Liu, Chongyu Wang, Rongjie Li, Yingchen Yu, Xuming He, Bai Song
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-27210/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-27210/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_27210,
+  title = {{GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation}},
+  author = {{Tao Liu} and {Chongyu Wang} and {Rongjie Li} and {Yingchen Yu} and {Xuming He} and {Bai Song}},
+  year = {2025},
+  eprint = {2510.27210v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.27210v1},
+  note = {First published: 2025-10-31; Recorded arXiv version: v1; Recorded version updated: 2025-10-31T06:10:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

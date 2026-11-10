@@ -1,3 +1,11 @@
+---
+title: "GUI-Xplore: Empowering Generalizable GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-17709/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration
 
 提出 GUI-Xplore 探索视频及下游任务，并设计结合操作感知建模与图结构环境推理的智能体。
@@ -27,6 +35,18 @@ Yuchen Sun, Shanhui Zhao, Tao Yu, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, C
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-17709/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-17709/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_17709,
+  title = {{GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration}},
+  author = {{Yuchen Sun} and {Shanhui Zhao} and {Tao Yu} and {Hao Wen} and {Samith Va} and {Mengwei Xu} and {Yuanchun Li} and {Chongyang Zhang}},
+  year = {2025},
+  eprint = {2503.17709v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.17709v1},
+  note = {First published: 2025-03-22; Recorded arXiv version: v1; Recorded version updated: 2025-03-22T09:30:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

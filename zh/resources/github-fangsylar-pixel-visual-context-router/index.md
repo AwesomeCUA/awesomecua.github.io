@@ -1,3 +1,11 @@
+---
+title: "Visual Context Router · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fangsylar-pixel-visual-context-router/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Visual Context Router
 
 具备 token 感知能力的视觉上下文路由器，在发送给 CUA 模型前裁剪或缩小完整截图，或用局部区域替代完整截图。

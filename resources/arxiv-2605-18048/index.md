@@ -1,3 +1,11 @@
+---
+title: "DocOS: Towards Proactive Document-Guided… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-18048/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # DocOS: Towards Proactive Document-Guided Actions in GUI Agents
 
 DocOS benchmarks agents that search online documentation and translate procedural instructions into GUI actions in interactive web environments. It separates failures to retrieve useful procedures from failures to ground retrieved instructions into executable actions.
@@ -26,6 +34,18 @@ Jingjing Liu, Ziye Huang, Zihao Cheng, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-18048/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-18048/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_18048,
+  title = {{DocOS: Towards Proactive Document-Guided Actions in GUI Agents}},
+  author = {{Jingjing Liu} and {Ziye Huang} and {Zihao Cheng} and {Zeming Liu} and {Jiahong Wu} and {Yuhang Guo} and {Kehai Chen} and {Yunhong Wang} and {Haifeng Wang}},
+  year = {2026},
+  eprint = {2605.18048v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.18048v1},
+  note = {First published: 2026-05-18; Recorded arXiv version: v1; Recorded version updated: 2026-05-18T08:36:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

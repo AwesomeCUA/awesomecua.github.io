@@ -1,3 +1,11 @@
+---
+title: "Synthesizing Agentic Data for Web Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-13913/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms
 
 Bibliographic record for Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Shrey Pandit, Xuan-Phi Nguyen, Yifei Ming, Austin Xu, Jiayu Wang, Caiming Xiong,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-13913/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-13913/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_13913,
+  title = {{Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms}},
+  author = {{Shrey Pandit} and {Xuan-Phi Nguyen} and {Yifei Ming} and {Austin Xu} and {Jiayu Wang} and {Caiming Xiong} and {Shafiq Joty}},
+  year = {2025},
+  eprint = {2510.13913v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.13913v1},
+  note = {First published: 2025-10-15; Recorded arXiv version: v1; Recorded version updated: 2025-10-15T06:34:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

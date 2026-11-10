@@ -1,3 +1,11 @@
+---
+title: "Holistic Evaluation of Language Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-09110/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Holistic Evaluation of Language Models
 
 Bibliographic record for Holistic Evaluation of Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihir
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2211-09110/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2211-09110/citation.csl.json
+
+```bibtex
+@misc{arxiv_2211_09110,
+  title = {{Holistic Evaluation of Language Models}},
+  author = {{Percy Liang} and {Rishi Bommasani} and {Tony Lee} and {Dimitris Tsipras} and {Dilara Soylu} and {Michihiro Yasunaga} and {Yian Zhang} and {Deepak Narayanan} and {Yuhuai Wu} and {Ananya Kumar} and {Benjamin Newman} and {Binhang Yuan} and {Bobby Yan} and {Ce Zhang} and {Christian Cosgrove} and {Christopher D. Manning} and {Christopher Ré} and {Diana Acosta-Navas} and {Drew A. Hudson} and {Eric Zelikman} and {Esin Durmus} and {Faisal Ladhak} and {Frieda Rong} and {Hongyu Ren} and {Huaxiu Yao} and {Jue Wang} and {Keshav Santhanam} and {Laurel Orr} and {Lucia Zheng} and {Mert Yuksekgonul} and {Mirac Suzgun} and {Nathan Kim} and {Neel Guha} and {Niladri Chatterji} and {Omar Khattab} and {Peter Henderson} and {Qian Huang} and {Ryan Chi} and {Sang Michael Xie} and {Shibani Santurkar} and {Surya Ganguli} and {Tatsunori Hashimoto} and {Thomas Icard} and {Tianyi Zhang} and {Vishrav Chaudhary} and {William Wang} and {Xuechen Li} and {Yifan Mai} and {Yuhui Zhang} and {Yuta Koreeda}},
+  year = {2022},
+  eprint = {2211.09110v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2211.09110v2},
+  note = {First published: 2022-11-16; Recorded arXiv version: v2; Recorded version updated: 2023-10-01T21:44:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

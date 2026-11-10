@@ -1,3 +1,11 @@
+---
+title: "Monitored Markov Decision Processes | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-06819/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Monitored Markov Decision Processes
 
 Status: excluded from the active CUA catalog after scope review.

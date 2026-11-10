@@ -1,3 +1,11 @@
+---
+title: "Using the NANDA Index Architecture in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-03101/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Using the NANDA Index Architecture in Practice: An Enterprise Perspective
 
 Bibliographic record for Using the NANDA Index Architecture in Practice: An Enterprise Perspective. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sichao Wang, Ramesh Raskar, Mahesh Lambe, Pradyumna Chari, Rekha Singhal, Shailj
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-03101/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-03101/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_03101,
+  title = {{Using the NANDA Index Architecture in Practice: An Enterprise Perspective}},
+  author = {{Sichao Wang} and {Ramesh Raskar} and {Mahesh Lambe} and {Pradyumna Chari} and {Rekha Singhal} and {Shailja Gupta} and {Rajesh Ranjan} and {Ken Huang}},
+  year = {2025},
+  eprint = {2508.03101v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.03101v1},
+  note = {First published: 2025-08-05; Recorded arXiv version: v1; Recorded version updated: 2025-08-05T05:27:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

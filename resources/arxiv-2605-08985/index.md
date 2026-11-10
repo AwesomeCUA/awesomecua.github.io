@@ -1,3 +1,11 @@
+---
+title: "LLaVA-UHD v4: What Makes Efficient Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-08985/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?
 
 Status: excluded from the active CUA catalog after scope review.

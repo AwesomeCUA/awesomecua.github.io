@@ -1,3 +1,11 @@
+---
+title: "Untrusted Content Masking for Web Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-05277/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Untrusted Content Masking for Web Agents with Security Guarantees
 
 Untrusted Content Masking uses DOM structure to redact untrusted webpage regions before agent observation. A sandboxed interaction interface separates privileges so browser actions can proceed under the proposed trust-boundary model without exposing protected content to the planner.
@@ -26,6 +34,18 @@ Kristina Nikolić, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debened
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-05277/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-05277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_05277,
+  title = {{Untrusted Content Masking for Web Agents with Security Guarantees}},
+  author = {{Kristina Nikolić} and {Egor Zverev} and {Javier Rando} and {Matthew Jagielski} and {Edoardo Debenedetti} and {Florian Tramèr}},
+  year = {2026},
+  eprint = {2607.05277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.05277v1},
+  note = {First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T16:22:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

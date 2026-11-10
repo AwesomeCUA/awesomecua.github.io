@@ -1,3 +1,11 @@
+---
+title: "Linux CUA (5omeotherguy) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Linux CUA (5omeotherguy)
 
 Linux desktop toolkit for computer-use agents providing isolated X11 workspaces, window capture, and input synthesis.

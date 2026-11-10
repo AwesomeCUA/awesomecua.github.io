@@ -1,3 +1,11 @@
+---
+title: "Webfuse · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-255e1ea24461c1f205eb/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Webfuse
 
 网页增强代理在用户浏览器内提供网站，并通过自动化 API 和会话 MCP 服务器，让 AI 智能体读取 DOM、截图或无障碍树快照，以及点击、输入和滚动。

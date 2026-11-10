@@ -1,3 +1,11 @@
+---
+title: "dsh-reasoning-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shangdi178-dsh-reasoning-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-reasoning-bridge
 
 DeepSeek Harness plugin that offloads complex reasoning steps to logged-in web AI sessions (ChatGPT, Claude, Gemini) via browser control.

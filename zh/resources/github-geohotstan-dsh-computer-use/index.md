@@ -1,3 +1,11 @@
+---
+title: "Geohotstan DSH Codex Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-geohotstan-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Geohotstan DSH Codex Computer Use
 
 面向 DeepSeek Harness 的 macOS 计算机使用插件，提供应用列表、基于 Accessibility 树的窗口捕获和 GUI 输入。

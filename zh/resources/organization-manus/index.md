@@ -1,3 +1,11 @@
+---
+title: "Manus · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-manus/
+updated: 2026-10-16
+type: company
+lang: zh-CN
+---
+
 # Manus
 
 与 Manus 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

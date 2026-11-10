@@ -1,3 +1,11 @@
+---
+title: "Guibot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-intra2net-guibot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Guibot
 
 Guibot 是 Python GUI 自动化库，统一了模板匹配、特征检测、级联分类器、OCR 和 VNC/PyAutoGUI 控制。

@@ -1,3 +1,11 @@
+---
+title: "DSB (逗沙包) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tianye1999-dsb/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DSB (逗沙包)
 
 DSB 是以信任为先的 Android AI 智能体，在后台虚拟显示屏上执行委托的应用任务，不打断用户当前屏幕上的操作。

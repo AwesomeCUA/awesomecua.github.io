@@ -1,3 +1,11 @@
+---
+title: "Airi-PC Computer Mode Runtime | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arancione3000-airi-pc-bootstrap/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Airi-PC Computer Mode Runtime
 
 Local Computer Mode runtime and reproducible bootstrap for the Airi-PC desktop agent.

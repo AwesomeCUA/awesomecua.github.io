@@ -1,3 +1,11 @@
+---
+title: "AutoGUI-Qwen-v0.1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # AutoGUI-Qwen-v0.1
 
 A UI vision-language model checkpoint trained on AutoGUI-625k data and fine-tuned from Qwen-VL-Chat for interpreting interfaces.

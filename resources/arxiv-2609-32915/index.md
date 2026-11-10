@@ -1,3 +1,11 @@
+---
+title: "AgentTell: Behavioural Side-Channel Leakage… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32915/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents
 
 Introduces AgentTell, a benchmark for privacy leakage through browser actions after an agent learns a private fact on another website. It examines whether agents choose revealing options despite nondisclosure instructions and whether their final reports accurately describe that behavior.
@@ -26,6 +34,18 @@ Asif Shahriar, Md Nafiu Rahman, Sadif Ahmed, Farig Sadeque, Md Rizwan Parvez
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32915/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32915/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32915,
+  title = {{AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents}},
+  author = {{Asif Shahriar} and {Md Nafiu Rahman} and {Sadif Ahmed} and {Farig Sadeque} and {Md Rizwan Parvez}},
+  year = {2026},
+  eprint = {2609.32915v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32915v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T20:09:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

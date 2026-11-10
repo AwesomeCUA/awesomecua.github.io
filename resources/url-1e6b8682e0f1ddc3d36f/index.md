@@ -1,3 +1,11 @@
+---
+title: "Browserless (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Browserless
 
 Hosted browser infrastructure for automation applications.

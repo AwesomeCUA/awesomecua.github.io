@@ -1,3 +1,11 @@
+---
+title: "Agent World Model in the Wild: Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26828/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Agent World Model in the Wild: Computer-Use Agent Environment Synthesis
 
 WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning.
@@ -26,6 +34,18 @@ Zhaoyang Wang, Qianhui Wu, Haorui Wang, Simon Yu, Baolin Peng, Canwen Xu, Hao Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26828/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26828/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26828,
+  title = {{Agent World Model in the Wild: Computer-Use Agent Environment Synthesis}},
+  author = {{Zhaoyang Wang} and {Qianhui Wu} and {Haorui Wang} and {Simon Yu} and {Baolin Peng} and {Canwen Xu} and {Hao Cheng} and {Wenlin Yao} and {Boyi Liu} and {Yite Wang} and {Jianfeng Gao} and {Huaxiu Yao}},
+  year = {2026},
+  eprint = {2610.26828v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26828v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T17:55:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

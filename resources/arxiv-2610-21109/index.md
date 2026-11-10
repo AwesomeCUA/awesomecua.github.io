@@ -1,3 +1,11 @@
+---
+title: "Kolab: Benchmarking Human-Agent Collaboration… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-21109/
+updated: 2026-10-27
+type: paper
+lang: en
+---
+
 # Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows
 
 Bibliographic record for Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Shirley Anugrah Hayati, Patricia Anugrah Setiani, Ruizi Wang, Zhouyi Li, Khanh C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-21109/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-21109/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_21109,
+  title = {{Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows}},
+  author = {{Shirley Anugrah Hayati} and {Patricia Anugrah Setiani} and {Ruizi Wang} and {Zhouyi Li} and {Khanh Chi Le} and {Young-Jun Lee} and {Dongyeop Kang}},
+  year = {2026},
+  eprint = {2610.21109v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.21109v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T02:13:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

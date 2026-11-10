@@ -1,3 +1,11 @@
+---
+title: "CoWorld Reasoner: Agentic Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-21910/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness
 
 Bibliographic record for CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dongjie Cheng, Ruifeng Yuan, Ran Wei, Ning Song, Yongqi Li, Wenjie Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-21910/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-21910/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_21910,
+  title = {{CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness}},
+  author = {{Dongjie Cheng} and {Ruifeng Yuan} and {Ran Wei} and {Ning Song} and {Yongqi Li} and {Wenjie Li}},
+  year = {2026},
+  eprint = {2610.21910v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.21910v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T13:59:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

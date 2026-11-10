@@ -1,3 +1,11 @@
+---
+title: "Do Web Agents Investigate Before They Decide? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-05354/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Do Web Agents Investigate Before They Decide?
 
 Introduces MIRAGE, a web decision benchmark where agents must actively uncover evidence that can contradict the visible context. Separate investigation, reasoning, decision, and hallucination measures diagnose failures beyond reaching the right page.
@@ -26,6 +34,18 @@ Syed Nazmus Sakib, Nafiul Haque, Tapodhir Karmakar Taton, Shahrear Bin Amin, Shi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-05354/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-05354/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_05354,
+  title = {{Do Web Agents Investigate Before They Decide?}},
+  author = {{Syed Nazmus Sakib} and {Nafiul Haque} and {Tapodhir Karmakar Taton} and {Shahrear Bin Amin} and {Shifat E. Arman}},
+  year = {2026},
+  eprint = {2602.05354v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.05354v3},
+  note = {First published: 2026-02-05; Recorded arXiv version: v3; Recorded version updated: 2026-09-08T14:40:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

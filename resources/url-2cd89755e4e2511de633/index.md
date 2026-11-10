@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager-opt-3 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2cd89755e4e2511de633/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # OpenWebVoyager-opt-3
 
 Third optimization-stage checkpoint of OpenWebVoyager, an Idefics2-based multimodal web agent trained by imitation learning and then refined on successful self-explored trajectories judged by GPT-4o.

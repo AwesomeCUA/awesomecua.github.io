@@ -1,3 +1,11 @@
+---
+title: "Towards Trustworthy GUI Agents: A Survey · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-23434/
+updated: 2026-10-16
+type: survey
+lang: zh-CN
+---
+
 # Towards Trustworthy GUI Agents: A Survey
 
 将 GUI 智能体的可信性问题归结为执行落差，回顾感知、推理和交互环节中的失效、攻击与防御。
@@ -23,6 +31,18 @@ Yucheng Shi, Wenhao Yu, Jingyuan Huang, Wenlin Yao, Wenhu Chen, Ninghao Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-23434/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-23434/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_23434,
+  title = {{Towards Trustworthy GUI Agents: A Survey}},
+  author = {{Yucheng Shi} and {Wenhao Yu} and {Jingyuan Huang} and {Wenlin Yao} and {Wenhu Chen} and {Ninghao Liu}},
+  year = {2025},
+  eprint = {2503.23434v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.23434v2},
+  note = {First published: 2025-03-30; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T05:24:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

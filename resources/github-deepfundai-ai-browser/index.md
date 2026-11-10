@@ -1,3 +1,11 @@
+---
+title: "AI Browser (DeepFundAI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deepfundai-ai-browser/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # AI Browser (DeepFundAI)
 
 Electron desktop browser whose built-in agents, imported from Eko-based npm packages, plan editable multi-step workflows and operate web pages in its own tabs, alongside chat, scheduled tasks and memory.

@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Web Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qiuweiliu-chatgpt-web-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ChatGPT Web Bridge
 
 仅附接现有会话的 Chrome DevTools Protocol 桥接工具，可将有明确范围的研究工作委托给已登录的 ChatGPT Web 标签页。

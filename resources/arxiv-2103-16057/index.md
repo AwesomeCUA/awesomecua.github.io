@@ -1,3 +1,11 @@
+---
+title: "Grounding Open-Domain Instructions to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2103-16057/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Grounding Open-Domain Instructions to Automate Web Support Tasks
 
 Introduces RUSS, which translates support instructions into a domain-specific language and grounds them in actionable web elements.
@@ -26,6 +34,18 @@ Nancy Xu, Sam Masling, Michael Du, Giovanni Campagna, Larry Heck, James Landay, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2103-16057/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2103-16057/citation.csl.json
+
+```bibtex
+@misc{arxiv_2103_16057,
+  title = {{Grounding Open-Domain Instructions to Automate Web Support Tasks}},
+  author = {{Nancy Xu} and {Sam Masling} and {Michael Du} and {Giovanni Campagna} and {Larry Heck} and {James Landay} and {Monica S Lam}},
+  year = {2021},
+  eprint = {2103.16057v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2103.16057v2},
+  note = {First published: 2021-03-30; Recorded arXiv version: v2; Recorded version updated: 2021-04-04T23:51:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

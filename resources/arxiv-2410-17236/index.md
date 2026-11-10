@@ -1,3 +1,11 @@
+---
+title: "Large Language Models Empowered Personalized… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-17236/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Large Language Models Empowered Personalized Web Agents
 
 PersonalWAB benchmarks personalized web tasks, while PUMA retrieves relevant past web behavior to adapt agents' instruction handling and actions.
@@ -26,6 +34,18 @@ Hongru Cai, Yongqi Li, Wenjie Wang, Fengbin Zhu, Xiaoyu Shen, Wenjie Li, Tat-Sen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-17236/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-17236/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_17236,
+  title = {{Large Language Models Empowered Personalized Web Agents}},
+  author = {{Hongru Cai} and {Yongqi Li} and {Wenjie Wang} and {Fengbin Zhu} and {Xiaoyu Shen} and {Wenjie Li} and {Tat-Seng Chua}},
+  year = {2024},
+  eprint = {2410.17236v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.17236v2},
+  note = {First published: 2024-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T17:51:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

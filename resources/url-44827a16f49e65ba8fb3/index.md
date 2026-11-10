@@ -1,3 +1,11 @@
+---
+title: "Gemini 2.5 Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Gemini 2.5 Computer Use
 
 Preview Google DeepMind model built on Gemini 2.5 Pro and post-trained for UI control, returning browser and mobile actions from screenshots and recent action history through the Gemini API computer_use tool.

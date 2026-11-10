@@ -1,13 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 21 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/21/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 21
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/21/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [selenium-mcp](https://awesomecua.com/resources/github-gaforov-selenium-mcp/)
-- [Self-Hosted Cloud Browser MCP](https://awesomecua.com/resources/github-bk927-cloud-browser-mcp/)
-- [Semantic GUI Control Layer (SGCL)](https://awesomecua.com/resources/github-frankbria-semantic-gui-control/)
-- [Semantic Kernel](https://awesomecua.com/resources/github-microsoft-semantic-kernel/)
 - [Sensory-Grounding MCP](https://awesomecua.com/resources/github-luclinocruz-lucross-sensory-grounding-mcp/)
 - [sentineldesk-agent](https://awesomecua.com/resources/github-sentineldesk-agent/)
 - [serial-hid-kvm](https://awesomecua.com/resources/github-sunasaji-serial-hid-kvm/)
@@ -64,3 +68,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [terminal-use-mcp](https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/)
 - [Terminator](https://awesomecua.com/resources/github-mediar-ai-terminator/)
 - [Termux Browser Pilot](https://awesomecua.com/resources/github-salviz-termux-browser-pilot/)
+- [TEX (tex-browse-use)](https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/)
+- [THEIA Computer Use](https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/)
+- [ThinkRun](https://awesomecua.com/resources/github-dundas-thinkrun/)
+- [Threadline WebMCP](https://awesomecua.com/resources/github-jameswirths-threadline/)

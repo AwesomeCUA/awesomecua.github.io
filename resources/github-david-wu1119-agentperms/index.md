@@ -1,3 +1,11 @@
+---
+title: "AgentPerms | AwesomeCUA"
+url: https://awesomecua.com/resources/github-david-wu1119-agentperms/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AgentPerms
 
 Declarative `agent.permissions.yaml` schema, validator, and policy evaluator for governing AI agent tool and interface permissions.

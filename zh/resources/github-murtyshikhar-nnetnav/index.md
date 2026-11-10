@@ -1,3 +1,11 @@
+---
+title: "NNetNav · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-murtyshikhar-nnetnav/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # NNetNav
 
 收集并标注浏览器探索轨迹，用于训练智能体，并提供数据处理、微调和网页评估代码。

@@ -1,3 +1,11 @@
+---
+title: "WebGrader: Training LLMs for Web Development… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-06474/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader
 
 Introduces WebGrader, a programmatic grader for website generation that plans interaction flows, runs them in a live browser, and uses observed outcomes as RL rewards.
@@ -26,6 +34,18 @@ Boshui Chen, Huiping Liu, Shaolei Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-06474/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-06474/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_06474,
+  title = {{WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader}},
+  author = {{Boshui Chen} and {Huiping Liu} and {Shaolei Zhang}},
+  year = {2026},
+  eprint = {2608.06474v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.06474v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T18:06:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

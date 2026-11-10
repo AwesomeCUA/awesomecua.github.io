@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_ground_iterative (model) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-246241a0b6219513cb7f/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # lumos_web_agent_ground_iterative
 
 A released Lumos grounding checkpoint fine-tuned for web-agent tasks using the Lumos-Iterative formulation. It serves the grounding module of a modular agent.

@@ -1,3 +1,11 @@
+---
+title: "WebBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-halluminate-webbench/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # WebBench
 
 Halluminate 与 Skyvern 的实时网页基准，涵盖 452 个高流量网站上的读取、创建、更新、删除和文件下载任务，包括登录与表单填写，并发布各智能体的运行结果。

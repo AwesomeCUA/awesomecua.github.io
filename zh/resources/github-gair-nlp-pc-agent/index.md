@@ -1,3 +1,11 @@
+---
+title: "PC-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gair-nlp-pc-agent/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # PC-Agent
 
 面向 PC 智能体的人类认知迁移框架：PC Tracker 记录人类计算机使用，认知补全将日志转为认知轨迹，规划智能体与定位智能体协作。

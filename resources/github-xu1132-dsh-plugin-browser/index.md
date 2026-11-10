@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-browser (github.com/xu1132/dsh-plug… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xu1132-dsh-plugin-browser/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # dsh-plugin-browser
 
 dsh-plugin-browser adds model-callable Playwright tools to DeepSeek Harness for reading rendered pages, navigating, clicking, typing, and taking screenshots.

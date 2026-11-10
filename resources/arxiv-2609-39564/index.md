@@ -1,3 +1,11 @@
+---
+title: "A2Z GameSpec-Bench: How Faithfully Can Coding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-39564/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # A2Z GameSpec-Bench: How Faithfully Can Coding Agents Generate Games from Game Design Specifications?
 
 Bibliographic record for A2Z GameSpec-Bench: How Faithfully Can Coding Agents Generate Games from Game Design Specifications?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Seonho Lee, Wonryeol Jeong, Alberto Cereser, Inha Kang, Hyeonjong Kim, Seungmin 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39564/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39564/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39564,
+  title = {{A2Z GameSpec-Bench: How Faithfully Can Coding Agents Generate Games from Game Design Specifications?}},
+  author = {{Seonho Lee} and {Wonryeol Jeong} and {Alberto Cereser} and {Inha Kang} and {Hyeonjong Kim} and {Seungmin Kwak} and {Dongmin Park}},
+  year = {2026},
+  eprint = {2609.39564v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39564v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T12:00:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

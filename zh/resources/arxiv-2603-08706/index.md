@@ -1,3 +1,11 @@
+---
+title: "Agentic Critical Training · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-08706/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Agentic Critical Training
 
 提出 Agentic Critical Training (ACT)，用强化学习预训练通用智能体从备选动作中选出专家动作；WebShop 是评估场景之一。
@@ -27,6 +35,18 @@ Weize Liu, Minghui Liu, Sy-Tuyen Ho, Yongkyun Lee, Andrew Adams Schoen, Souradip
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-08706/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-08706/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_08706,
+  title = {{Agentic Critical Training}},
+  author = {{Weize Liu} and {Minghui Liu} and {Sy-Tuyen Ho} and {Yongkyun Lee} and {Andrew Adams Schoen} and {Souradip Chakraborty} and {Xiyao Wang} and {Furong Huang}},
+  year = {2026},
+  eprint = {2603.08706v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.08706v2},
+  note = {First published: 2026-03-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T17:18:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

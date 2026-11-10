@@ -1,3 +1,11 @@
+---
+title: "Auto Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lvcidpsyche-auto-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Auto Browser
 
 Open-source MCP-native browser automation server with human-in-the-loop takeover and persistent session profiles.

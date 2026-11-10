@@ -1,3 +1,11 @@
+---
+title: "invisible_dots · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-invisible-dots/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # invisible_dots
 
 invisible_dots 是自托管的云端浏览器智能体工作区，结合隔离的 KVM 虚拟机与反检测 Firefox 自动化。

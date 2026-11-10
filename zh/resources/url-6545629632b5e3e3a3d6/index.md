@@ -1,3 +1,11 @@
+---
+title: "ASIL Benchmark Images · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6545629632b5e3e3a3d6/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # ASIL Benchmark Images
 
 用于复现 ASIL 智能体基准测试的预构建 Singularity/Apptainer 运行环境镜像，附有版本化清单和校验和。

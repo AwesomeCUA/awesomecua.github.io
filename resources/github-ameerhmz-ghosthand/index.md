@@ -1,3 +1,11 @@
+---
+title: "Ghosthand | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ameerhmz-ghosthand/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Ghosthand
 
 Ghosthand is a low-latency local voice and computer-use agent for Apple Silicon macOS powered by Laya models and native Accessibility APIs.

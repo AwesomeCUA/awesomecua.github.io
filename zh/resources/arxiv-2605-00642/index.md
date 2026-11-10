@@ -1,3 +1,11 @@
+---
+title: "Learn where to Click from Yourself… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-00642/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding
 
 提出在线策略自蒸馏 GUI 定位方法 GUI-SD，通过带视觉提示的教师上下文和熵引导的令牌加权，训练模型按指令定位界面元素。
@@ -27,6 +35,18 @@ Yan Zhang, Daiqing Wu, Huawen Shen, Can Ma, Yu Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-00642/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-00642/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_00642,
+  title = {{Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding}},
+  author = {{Yan Zhang} and {Daiqing Wu} and {Huawen Shen} and {Can Ma} and {Yu Zhou}},
+  year = {2026},
+  eprint = {2605.00642v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.00642v3},
+  note = {First published: 2026-05-01; Recorded arXiv version: v3; Recorded version updated: 2026-05-10T03:40:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

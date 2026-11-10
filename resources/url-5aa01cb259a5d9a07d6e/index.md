@@ -1,3 +1,11 @@
+---
+title: "Starizon AI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5aa01cb259a5d9a07d6e/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Starizon AI
 
 Chrome side-panel agent that researches across tabs, bookmarks and a local knowledge base, and hands click-and-type tasks on signed-in sites to its Agent S6 browser agent, with replays, schedules and page monitors.

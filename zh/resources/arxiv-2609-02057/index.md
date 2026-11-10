@@ -1,3 +1,11 @@
+---
+title: "Monitoring Web Agents Without Internal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-02057/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision
 
 利用跨步骤行为和黑盒一致性查询，从可观测的轨迹前缀预测网页智能体的失败风险；关键步骤标签保留失败运行中有效的早期轨迹前缀，评估则测试早期干预及跨网站类别迁移。
@@ -27,6 +35,18 @@ Sitong Pan, Yipeng Shen, Yilin Lu, Caiwen Ding, Lu Cheng, Qianwen Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-02057/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-02057/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02057,
+  title = {{Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision}},
+  author = {{Sitong Pan} and {Yipeng Shen} and {Yilin Lu} and {Caiwen Ding} and {Lu Cheng} and {Qianwen Wang}},
+  year = {2026},
+  eprint = {2609.02057v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02057v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T03:34:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

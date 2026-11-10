@@ -1,3 +1,11 @@
+---
+title: "Are aligned neural networks adversarially… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-15447/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Are aligned neural networks adversarially aligned?
 
 Status: excluded from the active CUA catalog after scope review.

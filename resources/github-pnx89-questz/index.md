@@ -1,3 +1,11 @@
+---
+title: "QUESTZ | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pnx89-questz/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # QUESTZ
 
 Fail-closed browser automation reliability framework that halts execution on structural DOM drift before corrupting downstream data.

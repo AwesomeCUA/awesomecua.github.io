@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-Embedding and Qwen3-VL-Reranker: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-04720/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking
 
 Bibliographic record for Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mingxin Li, Yanzhao Zhang, Dingkun Long, Keqin Chen, Sibo Song, Shuai Bai, Zhibo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-04720/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-04720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_04720,
+  title = {{Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking}},
+  author = {{Mingxin Li} and {Yanzhao Zhang} and {Dingkun Long} and {Keqin Chen} and {Sibo Song} and {Shuai Bai} and {Zhibo Yang} and {Pengjun Xie} and {An Yang} and {Dayiheng Liu} and {Jingren Zhou} and {Junyang Lin}},
+  year = {2026},
+  eprint = {2601.04720v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.04720v2},
+  note = {First published: 2026-01-08; Recorded arXiv version: v2; Recorded version updated: 2026-01-19T09:03:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

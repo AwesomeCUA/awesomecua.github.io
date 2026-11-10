@@ -1,3 +1,11 @@
+---
+title: "Magma-R1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e5e74846aeaa8398673e/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Magma-R1
 
 Magma-R1 is a released GUI-agent model trained on curated AndroidControl samples. Its accompanying documentation describes action and grounding evaluation and reward-based training.

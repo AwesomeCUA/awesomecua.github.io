@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Agents: An Overview of… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
 
 A curated reading list and accompanying report organize computer-use research, including agents that act through web, desktop, and mobile interfaces.

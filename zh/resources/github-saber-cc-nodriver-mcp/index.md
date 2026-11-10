@@ -1,3 +1,11 @@
+---
+title: "nodriver-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saber-cc-nodriver-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # nodriver-mcp
 
 一个 Python MCP 服务器，向智能体提供 Chromium 控制能力，用于页面交互、截图、Cookie、网络检查和 CDP 命令。

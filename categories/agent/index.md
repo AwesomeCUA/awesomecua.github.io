@@ -1,8 +1,16 @@
+---
+title: "Computer-use agents | AwesomeCUA"
+url: https://awesomecua.com/categories/agent/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agents
 
 Computer-use agents are complete systems that observe a screen or web page, plan, and act through clicks, typing, browser commands or shell tools to finish a user task.
 
-> 481 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
+> 479 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,15 +35,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these agents cover?
 
-Of 481 reviewed agents, 247 are tagged web, 229 desktop, 95 mobile and 60 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 479 reviewed agents, 247 are tagged web, 227 desktop, 95 mobile and 60 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which agents come with a research paper?
 
-70 of 481 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
+70 of 479 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
 
 ### Which licenses do agents declare?
 
-The most common declared licenses are MIT (210), Apache-2.0 (90) and AGPL-3.0 (13). 146 of 481 have no declared license in their record.
+The most common declared licenses are MIT (209), Apache-2.0 (89) and AGPL-3.0 (13). 146 of 479 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -7699,36 +7707,6 @@ Safety-first local desktop automation agent built on .NET 9 with cross-platform 
 
 ---
 
-## DesktopAgent (S1-Fast)
-
-DesktopAgent operates Windows desktop applications in the background using a local 0.33B System-One decision model (S1-Fast) and UI Automation.
-
-- Catalog URL: https://awesomecua.com/resources/github-elidot007-desktop-agent/
-- Original source: https://github.com/elidot007/desktop-agent
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: desktop, windows
-- Topics: efficiency, action-prediction, automation
-- Evidence checked: 2026-11-04T14:41:46Z
-- ID: github:elidot007/desktop-agent
-
-- Record JSON: https://awesomecua.com/resources/github-elidot007-desktop-agent/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/elidot007/desktop-agent/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/elidot007/desktop-agent/HEAD/README.md (retrieved 2026-11-04T14:41:46Z; SHA-256 96a88efb376d6545914ff77b203bd64a03e0c262e234963f75b458e61227a7ce)
-- https://raw.githubusercontent.com/elidot007/desktop-agent/HEAD/LICENSE (retrieved 2026-11-04T14:45:28Z; SHA-256 c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08)
-
----
-
 ## DevDesignAmitesh Browser Agent
 
 Autonomous AI web agent that plans and executes multi-step browser interactions from natural-language prompts.
@@ -10726,36 +10704,6 @@ Conversational desktop agent shell that observes screen context and executes loc
 
 - https://raw.githubusercontent.com/xRetr00/Marvi-OS/main/README.md (retrieved 2026-11-04T17:20:43Z; SHA-256 2045684dea00e25de57a0b62f17b496f479c02e3f8d824c8785bbd886ffaf819)
 - https://raw.githubusercontent.com/xRetr00/Marvi-OS/HEAD/LICENSE (retrieved 2026-11-04T17:27:01Z; SHA-256 4ae5cd52e270c9728debf4e1cd999e21e38515c045341796fe73f5828c1a0c0c)
-
----
-
-## Mary (Personal AI OS)
-
-Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
-
-- Catalog URL: https://awesomecua.com/resources/github-rao-studios-mary/
-- Original source: https://github.com/rao-studios/Mary
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: screen-understanding, memory, automation, tool-integration
-- Evidence checked: 2026-11-04T17:55:02Z
-- ID: github:rao-studios/mary
-
-- Record JSON: https://awesomecua.com/resources/github-rao-studios-mary/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/rao-studios/Mary/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/rao-studios/Mary/main/README.md (retrieved 2026-11-04T17:55:02Z; SHA-256 f4d999bfd1614a0bdfe118d6f557e388ac9b98f7c3aa110ee28d6b92f5e48fab)
-- https://raw.githubusercontent.com/rao-studios/Mary/HEAD/LICENSE (retrieved 2026-11-04T18:00:46Z; SHA-256 c3524435ae6e8561cbfe58903055dba68397cacc6da8715f04aa8e23f607b025)
 
 ---
 

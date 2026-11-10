@@ -1,10 +1,17 @@
+---
+title: "Screen understanding — computer-use…, page 15 | AwesomeCUA"
+url: https://awesomecua.com/topics/screen-understanding/page/15/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Screen understanding — computer-use research, page 15
 
 HTML page: https://awesomecua.com/topics/screen-understanding/page/15/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
-- [PICC](https://awesomecua.com/resources/github-andelf-picc/)
 - [pinchtab-mcp](https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/)
 - [Pix to App](https://awesomecua.com/resources/github-soumikmohianuta-pixtoapp/)
 - [pixel-forge](https://awesomecua.com/resources/github-sjxbbdb-pixel-forge/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [SilbercueSwift](https://awesomecua.com/resources/github-silbercue-silbercueswift/)
 - [simpilot](https://awesomecua.com/resources/github-passerby2049-simpilot/)
 - [Smart Pet Agent](https://awesomecua.com/resources/github-realstreetsmartnyc-smart-pet-agent/)
+- [Smouj AgentBrowser](https://awesomecua.com/resources/github-smouj-agent-browser/)

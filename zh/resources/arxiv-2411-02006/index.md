@@ -1,3 +1,11 @@
+---
+title: "Foundations and Recent Trends in… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-02006/
+updated: 2026-10-17
+type: survey
+lang: zh-CN
+---
+
 # Foundations and Recent Trends in Multimodal Mobile Agents: A Survey
 
 综述多模态移动智能体，梳理基于提示和基于训练的方法，以及移动任务执行的评估基准、支撑技术和开放挑战。
@@ -27,6 +35,18 @@ Biao Wu, Yanda Li, Zhiwei Zhang, Yunchao Wei, Meng Fang, Ling Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-02006/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-02006/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_02006,
+  title = {{Foundations and Recent Trends in Multimodal Mobile Agents: A Survey}},
+  author = {{Biao Wu} and {Yanda Li} and {Zhiwei Zhang} and {Yunchao Wei} and {Meng Fang} and {Ling Chen}},
+  year = {2024},
+  eprint = {2411.02006v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.02006v3},
+  note = {First published: 2024-11-04; Recorded arXiv version: v3; Recorded version updated: 2025-09-14T09:13:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

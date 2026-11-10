@@ -1,3 +1,11 @@
+---
+title: "SEE: Structure-aware Exploring &… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-18046/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SEE: Structure-aware Exploring & Exploiting for Long-horizon GUI Agent Trajectory Synthesis
 
 SEE 先探索移动端界面，构建屏幕与元素的状态转换图，再通过图规划和受控采样组合任务轨迹。研究考察覆盖范围、循环规避，以及用生成序列训练智能体后的迁移表现。
@@ -27,6 +35,18 @@ Zhuohang Fan, Beichen Zhang, Yuanfa Li, Changqiao Wu, Wei Liu, Jian Luan, Weigan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-18046/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-18046/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_18046,
+  title = {{SEE: Structure-aware Exploring \& Exploiting for Long-horizon GUI Agent Trajectory Synthesis}},
+  author = {{Zhuohang Fan} and {Beichen Zhang} and {Yuanfa Li} and {Changqiao Wu} and {Wei Liu} and {Jian Luan} and {Weigang Zhang}},
+  year = {2026},
+  eprint = {2607.18046v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.18046v2},
+  note = {First published: 2026-07-20; Recorded arXiv version: v2; Recorded version updated: 2026-08-18T02:32:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

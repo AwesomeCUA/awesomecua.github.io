@@ -1,3 +1,11 @@
+---
+title: "ToolGen · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reason-wang-toolgen/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ToolGen
 
 ToolGen 将外部工具表示为虚拟词表 token，通过自回归生成统一大规模工具检索与执行。

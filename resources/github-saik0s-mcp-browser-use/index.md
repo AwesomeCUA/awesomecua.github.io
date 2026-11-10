@@ -1,3 +1,11 @@
+---
+title: "mcp-server-browser-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saik0s-mcp-browser-use/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # mcp-server-browser-use
 
 MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.

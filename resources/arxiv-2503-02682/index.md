@@ -1,3 +1,11 @@
+---
+title: "MPO: Boosting LLM Agents with Meta Plan… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-02682/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # MPO: Boosting LLM Agents with Meta Plan Optimization
 
 Refines reusable high-level meta plans with execution feedback to guide language-agent planning across interactive environments.
@@ -26,6 +34,18 @@ Weimin Xiong, Yifan Song, Qingxiu Dong, Bingchan Zhao, Feifan Song, Xun Wang, Su
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-02682/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-02682/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_02682,
+  title = {{MPO: Boosting LLM Agents with Meta Plan Optimization}},
+  author = {{Weimin Xiong} and {Yifan Song} and {Qingxiu Dong} and {Bingchan Zhao} and {Feifan Song} and {Xun Wang} and {Sujian Li}},
+  year = {2025},
+  eprint = {2503.02682v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.02682v2},
+  note = {First published: 2025-03-04; Recorded arXiv version: v2; Recorded version updated: 2025-09-10T16:45:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

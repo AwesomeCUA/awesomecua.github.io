@@ -1,3 +1,11 @@
+---
+title: "PhysBench: Benchmarking and Enhancing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-16411/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding
 
 Bibliographic record for PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wei Chow, Jiageng Mao, Boyi Li, Daniel Seita, Vitor Guizilini, Yue Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-16411/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-16411/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_16411,
+  title = {{PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding}},
+  author = {{Wei Chow} and {Jiageng Mao} and {Boyi Li} and {Daniel Seita} and {Vitor Guizilini} and {Yue Wang}},
+  year = {2025},
+  eprint = {2501.16411v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.16411v2},
+  note = {First published: 2025-01-27; Recorded arXiv version: v2; Recorded version updated: 2025-01-29T03:52:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

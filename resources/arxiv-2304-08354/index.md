@@ -1,3 +1,11 @@
+---
+title: "Tool Learning with Foundation Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-08354/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Tool Learning with Foundation Models
 
 Bibliographic record for Tool Learning with Foundation Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-08354/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-08354/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_08354,
+  title = {{Tool Learning with Foundation Models}},
+  author = {{Yujia Qin} and {Shengding Hu} and {Yankai Lin} and {Weize Chen} and {Ning Ding} and {Ganqu Cui} and {Zheni Zeng} and {Yufei Huang} and {Chaojun Xiao} and {Chi Han} and {Yi Ren Fung} and {Yusheng Su} and {Huadong Wang} and {Cheng Qian} and {Runchu Tian} and {Kunlun Zhu} and {Shihao Liang} and {Xingyu Shen} and {Bokai Xu} and {Zhen Zhang} and {Yining Ye} and {Bowen Li} and {Ziwei Tang} and {Jing Yi} and {Yuzhang Zhu} and {Zhenning Dai} and {Lan Yan} and {Xin Cong} and {Yaxi Lu} and {Weilin Zhao} and {Yuxiang Huang} and {Junxi Yan} and {Xu Han} and {Xian Sun} and {Dahai Li} and {Jason Phang} and {Cheng Yang} and {Tongshuang Wu} and {Heng Ji} and {Zhiyuan Liu} and {Maosong Sun}},
+  year = {2023},
+  eprint = {2304.08354v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.08354v3},
+  note = {First published: 2023-04-17; Recorded arXiv version: v3; Recorded version updated: 2024-08-06T15:14:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Andee · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kuafuai-andee/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Andee
 
 单个 APK 中运行的设备端 Android 智能体，通过无障碍服务操作任意应用，读取元素概要，必要时读取带标签的 8×12 网格截图，并使用任意兼容 OpenAI 的模型。

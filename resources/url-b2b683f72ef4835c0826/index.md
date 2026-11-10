@@ -1,3 +1,11 @@
+---
+title: "pix2struct-large | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b2b683f72ef4835c0826/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # pix2struct-large
 
 Pretrained large Pix2Struct weights, an image-to-text model pretrained to parse masked web page screenshots into simplified HTML, intended for fine-tuning on visual language tasks.

@@ -1,3 +1,11 @@
+---
+title: "AgentWall: A Runtime Safety Layer for Local… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-16265/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AgentWall: A Runtime Safety Layer for Local AI Agents
 
 Bibliographic record for AgentWall: A Runtime Safety Layer for Local AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ashwin Aravind
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-16265/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-16265/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16265,
+  title = {{AgentWall: A Runtime Safety Layer for Local AI Agents}},
+  author = {{Ashwin Aravind}},
+  year = {2026},
+  eprint = {2605.16265v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16265v1},
+  note = {First published: 2026-03-24; Recorded arXiv version: v1; Recorded version updated: 2026-03-24T11:39:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

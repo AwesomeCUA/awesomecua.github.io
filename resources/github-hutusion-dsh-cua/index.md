@@ -1,3 +1,11 @@
+---
+title: "dsh-cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hutusion-dsh-cua/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-cua
 
 Client-neutral Windows computer-use MCP server for DeepSeek Harness exposing UI Automation, screenshots, and desktop input tools.

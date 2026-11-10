@@ -1,3 +1,11 @@
+---
+title: "DAVE: A VLM Vision Encoder for Document… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-17221/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # DAVE: A VLM Vision Encoder for Document Understanding and Web Agents
 
 DAVE 通过自监督预训练及后续的有监督解析和定位，为文档图像与网页智能体训练视觉编码器。它结合针对不同解码器的编码器合并与特征融合，并评估网页定位、智能体基准和文档任务。
@@ -27,6 +35,18 @@ Brandon Huang, Hang Hua, Zhuoran Yu, Trevor Darrell, Rogerio Feris, Roei Herzig
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-17221/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-17221/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_17221,
+  title = {{DAVE: A VLM Vision Encoder for Document Understanding and Web Agents}},
+  author = {{Brandon Huang} and {Hang Hua} and {Zhuoran Yu} and {Trevor Darrell} and {Rogerio Feris} and {Roei Herzig}},
+  year = {2025},
+  eprint = {2512.17221v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.17221v3},
+  note = {First published: 2025-12-19; Recorded arXiv version: v3; Recorded version updated: 2025-12-31T17:30:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Llama-3-8B-Web | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7c3e8c4ba52428584079/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Llama-3-8B-Web
 
 A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.

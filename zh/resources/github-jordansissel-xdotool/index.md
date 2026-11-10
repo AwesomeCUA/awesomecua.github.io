@@ -1,3 +1,11 @@
+---
+title: "xdotool · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jordansissel-xdotool/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # xdotool
 
 xdotool 是一款 X11 命令行工具，可模拟键盘和鼠标输入并控制窗口。仓库还包含用于执行相同操作的 C 语言库 libxdo。

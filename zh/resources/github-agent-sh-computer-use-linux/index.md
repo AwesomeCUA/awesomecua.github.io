@@ -1,3 +1,11 @@
+---
+title: "computer-use-linux · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agent-sh-computer-use-linux/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # computer-use-linux
 
 面向 AI 智能体的原生 Linux 桌面控制服务器，通过 MCP、Pi 工具和 CLI 提供语义化 AT-SPI 树及截图。

@@ -1,3 +1,11 @@
+---
+title: "Language-Guided 3D Object Detection in Point… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-15765/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving
 
 Bibliographic record for Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenhao Cheng, Junbo Yin, Wei Li, Ruigang Yang, Jianbing Shen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-15765/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-15765/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_15765,
+  title = {{Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving}},
+  author = {{Wenhao Cheng} and {Junbo Yin} and {Wei Li} and {Ruigang Yang} and {Jianbing Shen}},
+  year = {2023},
+  eprint = {2305.15765v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.15765v1},
+  note = {First published: 2023-05-25; Recorded arXiv version: v1; Recorded version updated: 2023-05-25T06:22:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

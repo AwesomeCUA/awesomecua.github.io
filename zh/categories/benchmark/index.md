@@ -1,8 +1,16 @@
+---
+title: "计算机使用智能体评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/benchmark/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体评测基准
 
 计算机使用评测基准是一组任务与环境，用来给操作网页浏览器、桌面应用或移动设备的智能体打分。每个基准都把固定的任务集与评估器配在一起，评估方式包括基于执行的状态检查、答案匹配和目标定位。
 
-> AwesomeCUA 目录收录 310 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
+> AwesomeCUA 目录收录 309 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https://awesomecua.com/categories/benchmark/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,11 +33,11 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 ### 这些评测基准覆盖哪些平台？
 
-在 310 条已审核评测基准中，网页 211 条、桌面 95 条、手机 46 条、跨平台 28 条；14 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 309 条已审核评测基准中，网页 210 条、桌面 95 条、手机 46 条、跨平台 28 条；14 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些评测基准有官方排行榜？
 
-310 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
+309 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
 
 ### 交互式评测和离线评测各有多少？
 
@@ -37,7 +45,7 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 ### 评测基准使用哪些许可证？
 
-最常见的声明许可证是 MIT（121 条）、Apache-2.0（71 条）和 CC-BY-4.0（7 条）。310 条中有 101 条未记录声明的许可证。
+最常见的声明许可证是 MIT（121 条）、Apache-2.0（70 条）和 CC-BY-4.0（7 条）。309 条中有 101 条未记录声明的许可证。
 
 ---
 
@@ -9022,36 +9030,6 @@ MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问
 ### 一手证据
 
 - https://github.com/jacklishufan/MobileWorld（获取于 2026-10-16T06:40:51Z；SHA-256：dfcbaa088cc21dd4e3c67d6eb3b3a1dc476217165ce2ca0daa2facfda71b5a38）
-
----
-
-## Navi-Bench
-
-Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使用确定性结果验证器，评测网页智能体。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/
-- 原始来源：https://github.com/yutori-ai/navi-bench
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航
-- 证据核查日期：2026-11-04T14:02:36Z
-- ID：github:yutori-ai/navi-bench
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-yutori-ai-navi-bench/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/README.md（获取于 2026-11-04T14:02:36Z；SHA-256：1642a791d8fc35149562ca741b8d20596d0a2b756fab188522070242dca21336）
-- https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/LICENSE（获取于 2026-11-04T14:07:15Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 

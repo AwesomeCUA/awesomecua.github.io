@@ -1,3 +1,11 @@
+---
+title: "Objaverse: A Universe of Annotated 3D Objects | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-08051/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Objaverse: A Universe of Annotated 3D Objects
 
 Bibliographic record for Objaverse: A Universe of Annotated 3D Objects. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Matt Deitke, Dustin Schwenk, Jordi Salvador, Luca Weihs, Oscar Michel, Eli Vande
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2212-08051/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2212-08051/citation.csl.json
+
+```bibtex
+@misc{arxiv_2212_08051,
+  title = {{Objaverse: A Universe of Annotated 3D Objects}},
+  author = {{Matt Deitke} and {Dustin Schwenk} and {Jordi Salvador} and {Luca Weihs} and {Oscar Michel} and {Eli VanderBilt} and {Ludwig Schmidt} and {Kiana Ehsani} and {Aniruddha Kembhavi} and {Ali Farhadi}},
+  year = {2022},
+  eprint = {2212.08051v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2212.08051v1},
+  note = {First published: 2022-12-15; Recorded arXiv version: v1; Recorded version updated: 2022-12-15T18:56:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

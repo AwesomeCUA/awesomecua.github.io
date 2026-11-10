@@ -1,3 +1,11 @@
+---
+title: "LFM2-350M-ComputerUse · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b68b02b47c87f006533e/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # LFM2-350M-ComputerUse
 
 基于 LFM2-350M 的 LoRA 适配器，使用 GRPO 训练，在 MiniWoB click-test 任务中点击按钮；它以 BrowserGym 无障碍树读取页面，并在沙箱浏览器中执行操作。

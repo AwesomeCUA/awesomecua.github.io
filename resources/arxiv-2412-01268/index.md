@@ -1,3 +1,11 @@
+---
+title: "Ponder & Press: Advancing Visual GUI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-01268/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Ponder & Press: Advancing Visual GUI Agent towards General Computer Control
 
 Separates interpretation of user instructions from precise GUI localization using general-purpose and specialized visual-language components.
@@ -26,6 +34,18 @@ Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-01268/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-01268/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_01268,
+  title = {{Ponder \& Press: Advancing Visual GUI Agent towards General Computer Control}},
+  author = {{Yiqin Wang} and {Haoji Zhang} and {Jingqi Tian} and {Yansong Tang}},
+  year = {2024},
+  eprint = {2412.01268v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.01268v1},
+  note = {First published: 2024-12-02; Recorded arXiv version: v1; Recorded version updated: 2024-12-02T08:35:31Z.}
+}
+```
 
 ## Publication record
 

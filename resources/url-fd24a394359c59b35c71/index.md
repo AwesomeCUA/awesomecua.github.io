@@ -1,3 +1,11 @@
+---
+title: "GUI-Dense-Descriptions | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fd24a394359c59b35c71/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # GUI-Dense-Descriptions
 
 A dataset of GUI screenshots paired with dense text descriptions, released as a train split containing 1,263 image-text examples.

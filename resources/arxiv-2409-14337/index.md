@@ -1,3 +1,11 @@
+---
+title: "MobileViews: A Million-scale and Diverse… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-14337/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MobileViews: A Million-scale and Diverse Mobile GUI Dataset
 
 Builds mobile screenshot and view-hierarchy pairs through automated application traversal and evaluates their usefulness for GUI grounding.
@@ -26,6 +34,18 @@ Longxi Gao, Li Zhang, Shihe Wang, Pengzhi Gao, Wei Liu, Jian Luan, Shangguang Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-14337/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-14337/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_14337,
+  title = {{MobileViews: A Million-scale and Diverse Mobile GUI Dataset}},
+  author = {{Longxi Gao} and {Li Zhang} and {Shihe Wang} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Shangguang Wang} and {Yuanchun Li} and {Mengwei Xu}},
+  year = {2024},
+  eprint = {2409.14337v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.14337v3},
+  note = {First published: 2024-09-22; Recorded arXiv version: v3; Recorded version updated: 2025-11-25T02:43:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

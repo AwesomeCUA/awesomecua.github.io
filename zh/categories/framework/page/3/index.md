@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体框架（第 3 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/framework/page/3/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体框架：第 3 页
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English](https://awesomecua.com/categories/framework/page/3/index.md)
@@ -42,7 +50,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 - [AXON OS](https://awesomecua.com/zh/resources/github-frezzaroukos-axon-os/)：面向 Linux 桌面自动化的本地优先、受策略约束的动作层，支持预览、审批和回滚凭据。
 - [axstream](https://awesomecua.com/zh/resources/github-milind-soni-axstream/)：面向 macOS 计算机使用智能体的流式 JSON 行格式动作语言和编译器。
 - [BadAgents](https://awesomecua.com/zh/resources/github-lancopku-agent-backdoor-attacks/)：BadAgents 提供污染后的训练数据集和评测脚本，用于针对智能体的查询、观测和思维触发型后门攻击。
-- [Bees Desktop](https://awesomecua.com/zh/resources/github-bees-bot-bees-desktop/)：基于线程的多智能体桌面运行时，让一组 AI 智能体围绕本地文件和浏览器协作。
 - [bg-driver-rs](https://awesomecua.com/zh/resources/github-lvyuan1688-bg-driver-rs/)：面向 macOS、Windows 和 Linux 的 Rust 后台计算机使用驱动程序。
 - [bgivenb Typed UI Capabilities](https://awesomecua.com/zh/resources/github-bgivenb-computer-use-automation/)：由模型引导的 UI 工作流程发现框架，支持经签名的人类审核和确定性重放。
 - [Bridge Studio (WebMCP Browser Studio)](https://awesomecua.com/zh/resources/github-salilbhasinofficial-webmcp-browser-studio/)：可见、由人管理的浏览器工作区，将实时网页工作流转换为可复用的 WebMCP 工具。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 - [CrossHands](https://awesomecua.com/zh/resources/github-caelaxie-crosshands/)：面向编码智能体的本地计算机使用运行时，通过 JSON CLI 和 stdio MCP 提供桌面检查及输入动作。
 - [CUA Evaluation & RL with Autonomous Feedback](https://awesomecua.com/zh/resources/github-martasumyk-cua-eval-and-finetuning/)：实现利用自主评测器反馈的强化学习，用于计算机使用智能体的微调和基准评测。
 - [cua_agent](https://awesomecua.com/zh/resources/github-lacassef-computeruse/)：cua_agent 是模块化的 Python 计算机使用框架，具备与操作系统无关的规划、语义化 UI 定位，以及经过策略检查的桌面和浏览器驱动。
+- [CUArena](https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/)：CUArena 将桌面和网页应用封装为可重置、可观察且可通过程序评分的强化学习环境。

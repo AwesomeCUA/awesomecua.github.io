@@ -1,3 +1,11 @@
+---
+title: "ExACT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-exact/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # ExACT
 
 ExACT 提供一个使用反思式树搜索来探索并评估界面状态的网页智能体，以及在 VisualWebArena 中运行和评估任务的脚本。

@@ -1,3 +1,11 @@
+---
+title: "Text-to-CadQuery: A New Paradigm for CAD… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-06507/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities
 
 Status: excluded from the active CUA catalog after scope review.

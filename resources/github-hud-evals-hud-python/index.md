@@ -1,3 +1,11 @@
+---
+title: "HUD | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hud-evals-hud-python/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # HUD
 
 SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.

@@ -1,12 +1,17 @@
+---
+title: "Automation — computer-use research, page 14 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/14/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 14
 
 HTML page: https://awesomecua.com/topics/automation/page/14/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [GenPark Multi-Step Web Form Orchestrator Skill](https://awesomecua.com/resources/github-alpha-park-genpark-multi-step-web-form-fill-orchestrator-skill/)
-- [Geohotstan DSH Codex Computer Use](https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/)
-- [GERALLT](https://awesomecua.com/resources/github-dlr-sc-gerallt/)
 - [Ghost (macOS Accessibility CLI)](https://awesomecua.com/resources/github-tylergibbs1-ghost/)
 - [Ghost (Non-Interfering macOS CUA)](https://awesomecua.com/resources/github-fletcherholt-ghost/)
 - [Ghost Browser by Gemma](https://awesomecua.com/resources/github-ddangkong-ghost-browser/)
@@ -64,3 +69,6 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [hightemp MCP Browser Control](https://awesomecua.com/resources/github-hightemp-mcp-browser-control/)
 - [Hikari (光)](https://awesomecua.com/resources/github-codewithevilxd-hikari/)
 - [Hronaut](https://awesomecua.com/resources/github-hronaut-hronaut/)
+- [Human Browser Copilot](https://awesomecua.com/resources/github-officiallemmy254-droid-human-browser-copilot/)
+- [Human-Browser](https://awesomecua.com/resources/github-hterzia-human-browser/)
+- [HumanCursor](https://awesomecua.com/resources/github-riflosnake-humancursor/)

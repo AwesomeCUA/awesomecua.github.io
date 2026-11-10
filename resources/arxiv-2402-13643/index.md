@@ -1,3 +1,11 @@
+---
+title: "Class-Aware Mask-Guided Feature Refinement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-13643/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition
 
 Bibliographic record for Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mingkun Yang, Biao Yang, Minghui Liao, Yingying Zhu, Xiang Bai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-13643/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-13643/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_13643,
+  title = {{Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition}},
+  author = {{Mingkun Yang} and {Biao Yang} and {Minghui Liao} and {Yingying Zhu} and {Xiang Bai}},
+  year = {2024},
+  eprint = {2402.13643v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.13643v1},
+  note = {First published: 2024-02-21; Recorded arXiv version: v1; Recorded version updated: 2024-02-21T09:22:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

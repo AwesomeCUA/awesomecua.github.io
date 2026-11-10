@@ -1,3 +1,11 @@
+---
+title: "AutoGen: Enabling Next-Gen LLM Applications… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-08155/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Aria-UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ariaui-aria-ui/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # Aria-UI
 
 Mixture-of-experts GUI grounding model with 3.9B activated parameters that can use text or interleaved image history, with released training data and an AndroidWorld agent.

@@ -1,3 +1,11 @@
+---
+title: "easyGooglePlay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xxjrq-easy-google-play/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # easyGooglePlay
 
 easyGooglePlay is an agent skill for building Android releases and completing Google Play Console publishing steps through a signed-in browser bridge.

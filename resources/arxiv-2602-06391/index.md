@@ -1,3 +1,11 @@
+---
+title: "POINTS-GUI-G: GUI-Grounding Journey | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-06391/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # POINTS-GUI-G: GUI-Grounding Journey
 
 Studies GUI-grounding development from a weakly grounded base model through data preparation, visual training, and verifiable rewards.
@@ -26,6 +34,18 @@ Zhongyin Zhao, Yuan Liu, Yikun Liu, Haicheng Wang, Le Tian, Xiao Zhou, Yangxiu Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-06391/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-06391/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06391,
+  title = {{POINTS-GUI-G: GUI-Grounding Journey}},
+  author = {{Zhongyin Zhao} and {Yuan Liu} and {Yikun Liu} and {Haicheng Wang} and {Le Tian} and {Xiao Zhou} and {Yangxiu You} and {Zilin Yu} and {Yang Yu} and {Jie Zhou}},
+  year = {2026},
+  eprint = {2602.06391v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06391v1},
+  note = {First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T05:14:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

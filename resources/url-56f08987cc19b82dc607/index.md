@@ -1,3 +1,11 @@
+---
+title: "WebChain v2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-56f08987cc19b82dc607/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WebChain v2
 
 Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-level and Seed-style sliding-window SFT Parquet with aligned screenshots, plus action metadata and a 150-trace evaluation subset.

@@ -1,3 +1,11 @@
+---
+title: "browser-agent-kit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # browser-agent-kit
 
 browser-agent-kit is a framework for building in-page AI agents that execute directly inside the live browser DOM context.

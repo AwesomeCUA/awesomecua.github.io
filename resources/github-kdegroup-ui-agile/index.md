@@ -1,3 +1,11 @@
+---
+title: "UI-AGILE | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kdegroup-ui-agile/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # UI-AGILE
 
 GUI agent trained by RL with a continuous reward, a simple-thinking reward and cropping-based resampling on about 9k samples, plus a plug-in decomposed grounding-and-selection inference method.

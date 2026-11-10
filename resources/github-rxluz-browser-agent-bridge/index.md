@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rxluz-browser-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Agent Bridge
 
 Secure local Model Context Protocol bridge for operating an existing authenticated Chrome session.

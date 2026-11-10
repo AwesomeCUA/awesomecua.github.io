@@ -1,3 +1,11 @@
+---
+title: "Web Agent Proxy (WAP) SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-52191314-web-agent-proxy-sdk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Web Agent Proxy (WAP) SDK
 
 面向 AI 智能体的浏览器基础设施 SDK，支持用户同意机制下的路由和端到端加密的会话中继。

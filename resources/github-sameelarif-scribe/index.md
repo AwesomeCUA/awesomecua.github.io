@@ -1,3 +1,11 @@
+---
+title: "Scribe (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sameelarif-scribe/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Scribe
 
 Toolkit for human-like cursor motion in browser automation: a web UI that records mouse movements, scripts that train a model on them, and a Puppeteer plugin that moves the cursor along generated paths.

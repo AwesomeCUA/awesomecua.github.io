@@ -1,3 +1,11 @@
+---
+title: "H2LooP Spark Preview: Continual Pretraining… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-11139/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # H2LooP Spark Preview: Continual Pretraining of Large Language Models for Low-Level Embedded Systems Code
 
 Status: excluded from the active CUA catalog after scope review.

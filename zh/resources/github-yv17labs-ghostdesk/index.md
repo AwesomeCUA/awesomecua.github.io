@@ -1,3 +1,11 @@
+---
+title: "GhostDesk · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yv17labs-ghostdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # GhostDesk
 
 GhostDesk 是 MCP 服务器和沙箱化虚拟桌面运行时，为 LLM 智能体提供屏幕视觉、鼠标和键盘控制以及 shell 访问能力。

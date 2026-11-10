@@ -1,3 +1,11 @@
+---
+title: "Privacy-Preserving Support Vector Machine… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1908-07915/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Privacy-Preserving Support Vector Machine Computing Using Random Unitary Transformation
 
 Status: excluded from the active CUA catalog after scope review.

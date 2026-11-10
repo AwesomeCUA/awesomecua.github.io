@@ -1,3 +1,11 @@
+---
+title: "Maxim | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhangzhao4444-maxim/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Maxim
 
 An Android Monkey stress tester for emulators and real devices that parses on-screen controls through the accessibility service and explores apps with random, DFS or priority-guided strategies.

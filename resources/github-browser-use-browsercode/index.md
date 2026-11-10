@@ -1,3 +1,11 @@
+---
+title: "BrowserCode | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-browsercode/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # BrowserCode
 
 BrowserCode is a browser agent that writes JavaScript to control Chrome through the DevTools Protocol. It can use local tabs, separate profiles, or cloud browsers and save reusable scripts.

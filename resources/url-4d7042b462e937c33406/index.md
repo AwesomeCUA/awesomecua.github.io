@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-30B-A3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4d7042b462e937c33406/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-30B-A3B
 
 InternVL3.5 multimodal checkpoint listed at 30.8B-A3B parameters, trained with CPT, SFT and Cascade RL. The paper reports its GUI grounding and agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.

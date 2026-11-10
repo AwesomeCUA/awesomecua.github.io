@@ -1,3 +1,11 @@
+---
+title: "Hermod · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-klaiderman-hermod/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hermod
 
 基于 NestJS 的浏览器自动化服务，通过驱动无头 Chromium 中的网页 LLM 界面来回答提示。

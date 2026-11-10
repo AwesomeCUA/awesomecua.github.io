@@ -1,3 +1,11 @@
+---
+title: "Amazon Bedrock AgentCore · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ecf89236d4e75b05c7b4/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Amazon Bedrock AgentCore
 
 AWS 托管智能体平台的 Browser 工具提供隔离云浏览器会话、自动化、实时查看流及可选录制，并配有运行时、记忆、网关和代码执行服务。

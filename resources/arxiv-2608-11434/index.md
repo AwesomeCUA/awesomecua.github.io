@@ -1,3 +1,11 @@
+---
+title: "Benchmarking LLM Judges for Mobile Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-11434/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Benchmarking LLM Judges for Mobile Agent Evaluation
 
 MobileJudgeBench compares completion judges against human labels on mobile-agent trajectories. It studies screenshot-sampling baselines, model-dependent error profiles and how judge quality relates to agent rankings and reinforcement-learning rewards.
@@ -26,6 +34,18 @@ Ziqiang Wang, Li Gu, Zhixiang Chi, Zhi Liu, Seyed Mehdi Ayyoubzadeh, Yuanhao Yu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-11434/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-11434/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_11434,
+  title = {{Benchmarking LLM Judges for Mobile Agent Evaluation}},
+  author = {{Ziqiang Wang} and {Li Gu} and {Zhixiang Chi} and {Zhi Liu} and {Seyed Mehdi Ayyoubzadeh} and {Yuanhao Yu} and {Yang Wang}},
+  year = {2026},
+  eprint = {2608.11434v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.11434v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T21:00:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

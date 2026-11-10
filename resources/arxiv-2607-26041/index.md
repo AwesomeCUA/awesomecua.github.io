@@ -1,3 +1,11 @@
+---
+title: "Desktop-Delta Bench: Do Computer-Use Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-26041/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?
 
 Introduces Desktop-Delta Bench, an offline diagnostic of GUI transition understanding using temporal-ordering tasks and before/after action inference. It includes decoy observations to test whether models track the source and task relevance of screen changes.
@@ -26,6 +34,18 @@ Abhishek Pillai, Samir Kumar Nayak, Yuan Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-26041/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-26041/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_26041,
+  title = {{Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?}},
+  author = {{Abhishek Pillai} and {Samir Kumar Nayak} and {Yuan Chen}},
+  year = {2026},
+  eprint = {2607.26041v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.26041v2},
+  note = {First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-29T19:07:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

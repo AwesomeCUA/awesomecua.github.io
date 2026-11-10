@@ -1,3 +1,11 @@
+---
+title: "VisCoder2: Building Multi-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-23642/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VisCoder2: Building Multi-Language Visualization Coding Agents
 
 Bibliographic record for VisCoder2: Building Multi-Language Visualization Coding Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-23642/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-23642/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_23642,
+  title = {{VisCoder2: Building Multi-Language Visualization Coding Agents}},
+  author = {{Yuansheng Ni} and {Songcheng Cai} and {Xiangchao Chen} and {Jiarong Liang} and {Zhiheng Lyu} and {Jiaqi Deng} and {Kai Zou} and {Ping Nie} and {Fei Yuan} and {Xiang Yue} and {Wenhu Chen}},
+  year = {2025},
+  eprint = {2510.23642v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.23642v2},
+  note = {First published: 2025-10-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T20:59:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

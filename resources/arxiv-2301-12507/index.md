@@ -1,3 +1,11 @@
+---
+title: "Distilling Internet-Scale Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-12507/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Distilling Internet-Scale Vision-Language Models into Embodied Agents
 
 Bibliographic record for Distilling Internet-Scale Vision-Language Models into Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Theodore Sumers, Kenneth Marino, Arun Ahuja, Rob Fergus, Ishita Dasgupta
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-12507/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-12507/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_12507,
+  title = {{Distilling Internet-Scale Vision-Language Models into Embodied Agents}},
+  author = {{Theodore Sumers} and {Kenneth Marino} and {Arun Ahuja} and {Rob Fergus} and {Ishita Dasgupta}},
+  year = {2023},
+  eprint = {2301.12507v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.12507v2},
+  note = {First published: 2023-01-29; Recorded arXiv version: v2; Recorded version updated: 2023-06-14T14:04:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

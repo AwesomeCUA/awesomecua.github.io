@@ -1,3 +1,11 @@
+---
+title: "Data generation — computer-use…, page 11 | AwesomeCUA"
+url: https://awesomecua.com/topics/data-generation/page/11/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Data generation — computer-use research, page 11
 
 HTML page: https://awesomecua.com/topics/data-generation/page/11/

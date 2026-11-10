@@ -1,3 +1,11 @@
+---
+title: "DocVQA: A Dataset for VQA on Document Images | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2007-00398/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DocVQA: A Dataset for VQA on Document Images
 
 Bibliographic record for DocVQA: A Dataset for VQA on Document Images. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Minesh Mathew, Dimosthenis Karatzas, C. V. Jawahar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2007-00398/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2007-00398/citation.csl.json
+
+```bibtex
+@misc{arxiv_2007_00398,
+  title = {{DocVQA: A Dataset for VQA on Document Images}},
+  author = {{Minesh Mathew} and {Dimosthenis Karatzas} and {C. V. Jawahar}},
+  year = {2020},
+  eprint = {2007.00398v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2007.00398v3},
+  note = {First published: 2020-07-01; Recorded arXiv version: v3; Recorded version updated: 2021-01-05T05:39:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Ferret-v2: An Improved Baseline for Referring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-07973/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models
 
 Bibliographic record for Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haotian Zhang, Haoxuan You, Philipp Dufter, Bowen Zhang, Chen Chen, Hong-You Che
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-07973/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-07973/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_07973,
+  title = {{Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models}},
+  author = {{Haotian Zhang} and {Haoxuan You} and {Philipp Dufter} and {Bowen Zhang} and {Chen Chen} and {Hong-You Chen} and {Tsu-Jui Fu} and {William Yang Wang} and {Shih-Fu Chang} and {Zhe Gan} and {Yinfei Yang}},
+  year = {2024},
+  eprint = {2404.07973v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.07973v1},
+  note = {First published: 2024-04-11; Recorded arXiv version: v1; Recorded version updated: 2024-04-11T17:56:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

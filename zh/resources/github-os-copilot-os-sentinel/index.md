@@ -1,3 +1,11 @@
+---
+title: "OS-Sentinel · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-os-sentinel/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # OS-Sentinel
 
 基于 AndroidWorld 的移动智能体安全检查环境与基准，通过规则和 VLM 检查拟执行的操作，并在 MobileRisk 轨迹数据集上评估。

@@ -1,3 +1,11 @@
+---
+title: "Scaling Web Agent Training through Automatic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-12544/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation
 
 This work uses constraint-based progress evaluation to retain partially successful web trajectories for training. It introduces BookingArena for structured booking tasks and studies a distilled agent trained with the resulting data.
@@ -26,6 +34,18 @@ Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-12544/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-12544/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_12544,
+  title = {{Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation}},
+  author = {{Lajanugen Logeswaran} and {Jaekyeom Kim} and {Sungryull Sohn} and {Creighton Glasscock} and {Honglak Lee}},
+  year = {2026},
+  eprint = {2602.12544v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.12544v1},
+  note = {First published: 2026-02-13; Recorded arXiv version: v1; Recorded version updated: 2026-02-13T02:52:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

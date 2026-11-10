@@ -1,3 +1,11 @@
+---
+title: "Are Android GUI Agents Robust Against Runtime… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24099/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments
 
 Introduces AnTrap, which injects task-solvable runtime anomalies into Android GUI-agent trajectories using a layered failure taxonomy. It compares model robustness and adversarial reinforcement learning to distinguish recoverable interface traps from persistent contextual failures.
@@ -26,6 +34,18 @@ Guo Gan, Yilun Zhao, Cong Chen, Jinbiao Wei, Tingyu Song, Zheyuan Yang, Lin Fu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24099/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24099/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24099,
+  title = {{Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments}},
+  author = {{Guo Gan} and {Yilun Zhao} and {Cong Chen} and {Jinbiao Wei} and {Tingyu Song} and {Zheyuan Yang} and {Lin Fu} and {Hong Zhou}},
+  year = {2026},
+  eprint = {2608.24099v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24099v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T05:57:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

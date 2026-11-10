@@ -1,3 +1,11 @@
+---
+title: "RoTS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alibabaresearch-rots/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # RoTS
 
 Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.

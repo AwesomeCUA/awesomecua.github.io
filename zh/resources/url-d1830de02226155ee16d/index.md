@@ -1,3 +1,11 @@
+---
+title: "Grounding-Anything-GUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d1830de02226155ee16d/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # Grounding-Anything-GUI
 
 Phi-Ground 项目为其 Phi-Ground-Any 模型提供链接的公开训练归档文件。

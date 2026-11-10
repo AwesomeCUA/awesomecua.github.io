@@ -1,3 +1,11 @@
+---
+title: "AutoGLM Android 助手 · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sidhu-master-androidautoglm/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AutoGLM Android 助手
 
 一款 Android 智能体，通过读取屏幕截图并借助 Shizuku 模拟触控，执行语音或文字指令。

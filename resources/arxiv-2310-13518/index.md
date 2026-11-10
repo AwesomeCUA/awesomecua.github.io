@@ -1,3 +1,11 @@
+---
+title: "Vision-Based Mobile App GUI Testing: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-13518/
+updated: 2026-11-06
+type: survey
+lang: en
+---
+
 # Vision-Based Mobile App GUI Testing: A Survey
 
 Surveys vision-based mobile app GUI testing across test generation, record-and-replay and testing frameworks, drawing on 271 papers including 92 vision-based studies.
@@ -26,6 +34,18 @@ Shengcheng Yu, Chunrong Fang, Ziyuan Tuo, Quanjun Zhang, Chunyang Chen, Zhenyu C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-13518/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-13518/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_13518,
+  title = {{Vision-Based Mobile App GUI Testing: A Survey}},
+  author = {{Shengcheng Yu} and {Chunrong Fang} and {Ziyuan Tuo} and {Quanjun Zhang} and {Chunyang Chen} and {Zhenyu Chen} and {Zhendong Su}},
+  year = {2023},
+  eprint = {2310.13518v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.13518v3},
+  note = {First published: 2023-10-20; Recorded arXiv version: v3; Recorded version updated: 2025-10-20T12:56:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

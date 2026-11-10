@@ -1,3 +1,11 @@
+---
+title: "List Items One by One: A New Data Source and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-16375/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs
 
 Bibliographic record for List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ An Yan, Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-16375/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-16375/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_16375,
+  title = {{List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs}},
+  author = {{An Yan} and {Zhengyuan Yang} and {Junda Wu} and {Wanrong Zhu} and {Jianwei Yang} and {Linjie Li} and {Kevin Lin} and {Jianfeng Wang} and {Julian McAuley} and {Jianfeng Gao} and {Lijuan Wang}},
+  year = {2024},
+  eprint = {2404.16375v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.16375v2},
+  note = {First published: 2024-04-25; Recorded arXiv version: v2; Recorded version updated: 2025-01-20T00:29:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Nanobrowser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nanobrowser-nanobrowser/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # Nanobrowser
 
 浏览器扩展智能体，通过侧边栏任务界面读取页面、操作元素并切换标签页。

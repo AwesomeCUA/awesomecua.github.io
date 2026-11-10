@@ -1,3 +1,11 @@
+---
+title: "ovoBrowser · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser-manger/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # ovoBrowser
 
 ovoBrowser 是用于管理隔离浏览器配置和代理的桌面客户端。其本地 API 可让浏览器自动化工具连接已打开的配置环境。

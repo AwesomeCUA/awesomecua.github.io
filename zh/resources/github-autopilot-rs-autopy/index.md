@@ -1,3 +1,11 @@
+---
+title: "AutoPy · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-autopilot-rs-autopy/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # AutoPy
 
 AutoPy 提供 Python 函数，可在 macOS、Windows 和 X11 上控制桌面鼠标与键盘、截取屏幕、检查像素并匹配位图。

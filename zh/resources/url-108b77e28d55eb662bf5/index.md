@@ -1,3 +1,11 @@
+---
+title: "Cekura · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-108b77e28d55eb662bf5/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Cekura
 
 浏览器智能体浏览客户的 SaaS 产品，检查文档是否仍准确，并通过摘要、会话回放以及 LLM 和浏览器操作轨迹报告待修订内容。

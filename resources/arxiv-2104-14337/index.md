@@ -1,3 +1,11 @@
+---
+title: "Dynabench: Rethinking Benchmarking in NLP | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2104-14337/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Dynabench: Rethinking Benchmarking in NLP
 
 Bibliographic record for Dynabench: Rethinking Benchmarking in NLP. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Douwe Kiela, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2104-14337/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2104-14337/citation.csl.json
+
+```bibtex
+@misc{arxiv_2104_14337,
+  title = {{Dynabench: Rethinking Benchmarking in NLP}},
+  author = {{Douwe Kiela} and {Max Bartolo} and {Yixin Nie} and {Divyansh Kaushik} and {Atticus Geiger} and {Zhengxuan Wu} and {Bertie Vidgen} and {Grusha Prasad} and {Amanpreet Singh} and {Pratik Ringshia} and {Zhiyi Ma} and {Tristan Thrush} and {Sebastian Riedel} and {Zeerak Waseem} and {Pontus Stenetorp} and {Robin Jia} and {Mohit Bansal} and {Christopher Potts} and {Adina Williams}},
+  year = {2021},
+  eprint = {2104.14337v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2104.14337v1},
+  note = {First published: 2021-04-07; Recorded arXiv version: v1; Recorded version updated: 2021-04-07T17:49:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

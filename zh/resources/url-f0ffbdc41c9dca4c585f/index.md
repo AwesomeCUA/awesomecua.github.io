@@ -1,3 +1,11 @@
+---
+title: "CUA_World_State_Model · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f0ffbdc41c9dca4c585f/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # CUA_World_State_Model
 
 SEAgent 的世界状态模型（World State Model），基于 Qwen2.5-VL-7B-Instruct 微调，依据截图逐步评估计算机使用智能体的轨迹，用于标注成功与失败并驱动课程式任务生成。

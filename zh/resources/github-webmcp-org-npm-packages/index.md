@@ -1,3 +1,11 @@
+---
+title: "@mcp-b · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-webmcp-org-npm-packages/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # @mcp-b
 
 一组 TypeScript 软件包，将通过 WebMCP document.modelContext API 注册工具的网页接入 MCP，使扩展、浏览器或桌面客户端中的智能体能够调用这些工具。

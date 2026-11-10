@@ -1,3 +1,11 @@
+---
+title: "Matryoshka Representation Learning | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-13147/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Matryoshka Representation Learning
 
 Bibliographic record for Matryoshka Representation Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Aditya Kusupati, Gantavya Bhatt, Aniket Rege, Matthew Wallingford, Aditya Sinha,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2205-13147/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2205-13147/citation.csl.json
+
+```bibtex
+@misc{arxiv_2205_13147,
+  title = {{Matryoshka Representation Learning}},
+  author = {{Aditya Kusupati} and {Gantavya Bhatt} and {Aniket Rege} and {Matthew Wallingford} and {Aditya Sinha} and {Vivek Ramanujan} and {William Howard-Snyder} and {Kaifeng Chen} and {Sham Kakade} and {Prateek Jain} and {Ali Farhadi}},
+  year = {2022},
+  eprint = {2205.13147v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2205.13147v4},
+  note = {First published: 2022-05-26; Recorded arXiv version: v4; Recorded version updated: 2024-02-08T03:21:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

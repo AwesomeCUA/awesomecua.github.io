@@ -1,3 +1,11 @@
+---
+title: "Accio Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-accio-org-accio-cu/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Accio Computer Use
 
 Hybrid computer-use Python framework combining GUI actions, CLIs, APIs, and file operations in unified workflows.

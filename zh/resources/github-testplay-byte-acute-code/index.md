@@ -1,3 +1,11 @@
+---
+title: "ACUTE-CODE · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-testplay-byte-acute-code/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ACUTE-CODE
 
 以本地和扩展为优先的多智能体编码与计算机使用工作台。

@@ -1,3 +1,11 @@
+---
+title: "Portfolio Optimization on Classical and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-08998/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Portfolio Optimization on Classical and Quantum Computers Using PortFawn
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Android-MCP-go · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tintupratap-android-mcp-go/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Android-MCP-go
 
 独立运行的 Go Model Context Protocol 服务器，用于 Android 自动化，支持托管 ADB、从 USB 自动切换到 Wi-Fi，以及 scrcpy。

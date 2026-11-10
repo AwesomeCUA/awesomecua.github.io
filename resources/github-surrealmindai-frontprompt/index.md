@@ -1,3 +1,11 @@
+---
+title: "frontprompt | AwesomeCUA"
+url: https://awesomecua.com/resources/github-surrealmindai-frontprompt/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # frontprompt
 
 Browser-automation MCP server with an interactive visual overlay that lets users annotate webpage elements and dispatch agent tasks.

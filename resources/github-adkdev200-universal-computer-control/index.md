@@ -1,3 +1,11 @@
+---
+title: "Universal Computer Control MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-adkdev200-universal-computer-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Universal Computer Control MCP
 
 Model Context Protocol server giving AI agents cross-platform screen capture, mouse, keyboard, and window control.

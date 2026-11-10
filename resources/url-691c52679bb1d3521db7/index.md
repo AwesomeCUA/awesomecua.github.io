@@ -1,3 +1,11 @@
+---
+title: "GTA1-7B-2507 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-691c52679bb1d3521db7/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GTA1-7B-2507
 
 GTA1-7B-2507 is a GUI-grounding checkpoint trained with reinforcement learning to locate described elements in screenshots and return click coordinates.

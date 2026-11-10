@@ -1,3 +1,11 @@
+---
+title: "Codex Chrome Browser Control Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qlk-x-codex-chrome-browser-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex Chrome Browser Control Skill
 
 Local-first OpenAI Codex skill and Chrome extension for safe, user-bounded browser tab control.

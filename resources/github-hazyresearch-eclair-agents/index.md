@@ -1,3 +1,11 @@
+---
+title: "ECLAIR | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hazyresearch-eclair-agents/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ECLAIR
 
 ECLAIR automates enterprise web and desktop workflows from human demonstrations with ground-truth SOP validation and step-level error recovery.

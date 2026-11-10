@@ -1,3 +1,11 @@
+---
+title: "WebRL: Training LLM Web Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-02337/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning
 
 Trains web agents with an evolving task curriculum, outcome supervision, and reinforcement-learning updates intended to manage policy drift.
@@ -26,6 +34,18 @@ Zehan Qi, Xiao Liu, Iat Long Iong, Hanyu Lai, Xueqiao Sun, Wenyi Zhao, Yu Yang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-02337/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-02337/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_02337,
+  title = {{WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning}},
+  author = {{Zehan Qi} and {Xiao Liu} and {Iat Long Iong} and {Hanyu Lai} and {Xueqiao Sun} and {Wenyi Zhao} and {Yu Yang} and {Xinyue Yang} and {Jiadai Sun} and {Shuntian Yao} and {Tianjie Zhang} and {Wei Xu} and {Jie Tang} and {Yuxiao Dong}},
+  year = {2024},
+  eprint = {2411.02337v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.02337v3},
+  note = {First published: 2024-11-04; Recorded arXiv version: v3; Recorded version updated: 2025-01-27T11:56:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Mac MCP (Menu Bar & Local Server) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bulutarkan-mac-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Mac MCP (Menu Bar & Local Server)
 
 macOS 菜单栏应用和本地 MCP 服务器，让 Claude、ChatGPT 和 Codex 能够检查和控制 Mac 应用。

@@ -1,3 +1,11 @@
+---
+title: "AInsteinBench: Benchmarking Coding Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-21373/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AInsteinBench: Benchmarking Coding Agents on Scientific Repositories
 
 Status: excluded from the active CUA catalog after scope review.

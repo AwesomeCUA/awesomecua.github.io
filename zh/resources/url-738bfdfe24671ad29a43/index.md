@@ -1,3 +1,11 @@
+---
+title: "FluidGPT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-738bfdfe24671ad29a43/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # FluidGPT
 
 一款 Android 智能体，根据任务目标选择可复用的应用操作流程，并通过无障碍树执行。其基准报告展示了各回合的录像和操作轨迹。

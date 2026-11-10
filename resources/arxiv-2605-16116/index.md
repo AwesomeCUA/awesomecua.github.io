@@ -1,3 +1,11 @@
+---
+title: "ShopGym: An Integrated Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-16116/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents
 
 ShopGym builds sandbox e-commerce storefronts from live shops and generates catalog-grounded tasks for evaluating web shopping agents in resettable environments.
@@ -26,6 +34,18 @@ Chinmay Savadikar, Mingyu Zhao, Yuanzheng Zhu, Han Li, Shuang Xie, Alberto Caste
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-16116/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-16116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16116,
+  title = {{ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents}},
+  author = {{Chinmay Savadikar} and {Mingyu Zhao} and {Yuanzheng Zhu} and {Han Li} and {Shuang Xie} and {Alberto Castelo} and {Tianfu Wu} and {Lingyun Wang}},
+  year = {2026},
+  eprint = {2605.16116v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16116v1},
+  note = {First published: 2026-05-15; Recorded arXiv version: v1; Recorded version updated: 2026-05-15T16:00:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

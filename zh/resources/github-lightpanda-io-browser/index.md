@@ -1,3 +1,11 @@
+---
+title: "Lightpanda Browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lightpanda-io-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Lightpanda Browser
 
 面向 AI 智能体与自动化的无界面浏览器，提供 Linux 和 macOS 可执行文件，以及浏览器控制和脚本任务接口。

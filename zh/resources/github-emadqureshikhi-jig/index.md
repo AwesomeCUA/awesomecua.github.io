@@ -1,3 +1,11 @@
+---
+title: "Jig WebMCP Workbench · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-emadqureshikhi-jig/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Jig WebMCP Workbench
 
 基于 WebMCP、具有两个源且面向智能体的设计工作台，用于人与智能体协同编辑 UI。

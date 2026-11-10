@@ -1,3 +1,11 @@
+---
+title: "UI-TARS · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bytedance-ui-tars/
+updated: 2026-10-20
+type: model
+lang: zh-CN
+---
+
 # UI-TARS
 
 原生 GUI 智能体模型；UI-TARS-1.5 增加经强化学习训练的行动前推理并开放 7B 检查点，UI-TARS-2 扩展至游戏、代码和工具使用。

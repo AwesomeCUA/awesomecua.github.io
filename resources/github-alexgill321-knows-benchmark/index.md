@@ -1,3 +1,11 @@
+---
+title: "KNOWS Benchmark (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alexgill321-knows-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # KNOWS Benchmark
 
 KNOWS benchmarks web agents on realistic, open-ended Google Workspace tasks spanning Google Docs, Sheets, and Slides.

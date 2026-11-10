@@ -1,3 +1,11 @@
+---
+title: "E-ANT: A Large-Scale Dataset for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-14250/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # E-ANT: A Large-Scale Dataset for Efficient Automatic GUI NavigaTion
 
 提出从人类与小程序的交互中收集的中文 GUI 导航轨迹和标注截图。
@@ -27,6 +35,18 @@ Ke Wang, Tianyu Xia, Zhangxuan Gu, Yi Zhao, Shuheng Shen, Changhua Meng, Weiqian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-14250/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-14250/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_14250,
+  title = {{E-ANT: A Large-Scale Dataset for Efficient Automatic GUI NavigaTion}},
+  author = {{Ke Wang} and {Tianyu Xia} and {Zhangxuan Gu} and {Yi Zhao} and {Shuheng Shen} and {Changhua Meng} and {Weiqiang Wang} and {Ke Xu}},
+  year = {2024},
+  eprint = {2406.14250v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.14250v3},
+  note = {First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2024-07-01T08:37:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

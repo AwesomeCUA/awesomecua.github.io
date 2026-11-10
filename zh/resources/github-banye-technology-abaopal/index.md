@@ -1,3 +1,11 @@
+---
+title: "AbaoPal (阿宝Pal) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-banye-technology-abaopal/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AbaoPal (阿宝Pal)
 
 开源多智能体 Android 手机自动化助手，可理解屏幕、规划跨应用任务并执行可复用技能。

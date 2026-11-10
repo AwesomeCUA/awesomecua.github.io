@@ -1,3 +1,11 @@
+---
+title: "Lynx Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wangjiang314-lynx-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Lynx Agent
 
 Lynx Agent 是以完成任务为优先目标的 Android 手机使用智能体，具备基于证据的状态验证、恢复和安全检查能力。

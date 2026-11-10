@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-G1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-infixai-infigui-g1/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # InfiGUI-G1
 
 InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy Optimization, which samples several candidate answers per pass under an adaptive exploration reward.

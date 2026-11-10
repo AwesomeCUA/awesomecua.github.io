@@ -1,3 +1,11 @@
+---
+title: "agentmemory · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rohitg00-agentmemory/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # agentmemory
 
 agentmemory 为包括 Claude Code、Codex 和 OpenClaw 在内的编程与计算机使用智能体提供跨会话持久记忆和 MCP 集成。

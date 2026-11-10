@@ -1,3 +1,11 @@
+---
+title: "Bounds on mean energy in the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1802-08240/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Bounds on mean energy in the Kuramoto-Sivashinsky equation computed using semidefinite programming
 
 Status: excluded from the active CUA catalog after scope review.

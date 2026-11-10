@@ -1,3 +1,11 @@
+---
+title: "Browserplane | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mathisarends-browserplane/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Browserplane
 
 Reference control plane for scaling remote Chromium browsers with a Postgres-backed session broker and live WebSocket tab mirroring.

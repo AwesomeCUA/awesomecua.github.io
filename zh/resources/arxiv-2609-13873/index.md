@@ -1,3 +1,11 @@
+---
+title: "PriMobiBench: Characterizing Visual… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-13873/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents
 
 PriMobiBench 借助 MobiLeak 轨迹数据集，评估移动端 GUI 截图轨迹造成的直接隐私泄露和用户画像。它还测试在云端处理前遮蔽与任务无关的敏感界面元素，并衡量隐私与效用之间的权衡。
@@ -27,6 +35,18 @@ Qihang Cen, Tianshuo Cong, Da Song, Xinlei He, Jiaxing Song, Ke Xu, Qi Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-13873/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-13873/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_13873,
+  title = {{PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents}},
+  author = {{Qihang Cen} and {Tianshuo Cong} and {Da Song} and {Xinlei He} and {Jiaxing Song} and {Ke Xu} and {Qi Li}},
+  year = {2026},
+  eprint = {2609.13873v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.13873v1},
+  note = {First published: 2026-09-12; Recorded arXiv version: v1; Recorded version updated: 2026-09-12T10:55:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

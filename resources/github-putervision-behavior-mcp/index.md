@@ -1,3 +1,11 @@
+---
+title: "PuterVision Behavior-MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-putervision-behavior-mcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PuterVision Behavior-MCP
 
 High-frequency (~60Hz) in-browser behavior-tree execution engine exposed over the Model Context Protocol.

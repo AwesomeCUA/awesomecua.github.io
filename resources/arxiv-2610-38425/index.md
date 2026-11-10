@@ -1,3 +1,11 @@
+---
+title: "IntReal: A Real-World Dataset and Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-38425/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation
 
 Bibliographic record for IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shaohan Yu, Jie Qin, Wende Tan, Haiwen Diao, Limeng Qiao, Yueming Lyu, Chenyang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-38425/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-38425/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_38425,
+  title = {{IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation}},
+  author = {{Shaohan Yu} and {Jie Qin} and {Wende Tan} and {Haiwen Diao} and {Limeng Qiao} and {Yueming Lyu} and {Chenyang Si}},
+  year = {2026},
+  eprint = {2610.38425v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.38425v1},
+  note = {First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T08:09:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

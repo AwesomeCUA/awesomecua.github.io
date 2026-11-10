@@ -1,3 +1,11 @@
+---
+title: "RICO-ScreenQA · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bd15fb092ff80643ed97/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # RICO-ScreenQA
 
 RICO-ScreenQA 提供应用截图问答数据，包含图像、答案文本和界面元素边界框，并划分为训练、验证和测试集。

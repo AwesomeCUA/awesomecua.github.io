@@ -1,3 +1,11 @@
+---
+title: "Unlocking Smarter Device Control… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-16422/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach
 
 FPWC 在规划移动设备操作前构建并完善面向任务的世界模型，将计划作为代码执行，并在模拟环境和真实移动设备上评估。
@@ -27,6 +35,18 @@ Xiaoran Yin, Xu Luo, Hao Wu, Lianli Gao, Jingkuan Song
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-16422/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-16422/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_16422,
+  title = {{Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach}},
+  author = {{Xiaoran Yin} and {Xu Luo} and {Hao Wu} and {Lianli Gao} and {Jingkuan Song}},
+  year = {2025},
+  eprint = {2505.16422v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.16422v3},
+  note = {First published: 2025-05-22; Recorded arXiv version: v3; Recorded version updated: 2025-09-05T02:24:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

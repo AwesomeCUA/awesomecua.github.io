@@ -1,3 +1,11 @@
+---
+title: "Mobile-GUI-Worldmodel-SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e041226738f8ea43a878/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Mobile-GUI-Worldmodel-SFT
 
 A mobile GUI dataset for world-model training and evaluation. Its trajectory archives pair screenshots with page-state text and action-formatted training examples.

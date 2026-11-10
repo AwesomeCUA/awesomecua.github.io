@@ -1,3 +1,11 @@
+---
+title: "Blender AI Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Blender AI Plugin
 
 Blender AI Plugin equips an agent to inspect and edit an open Blender scene through MCP, using an orchestrator, skills, and scripts for asset workflows.

@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_plan_iterative (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0772193ae2967c407d22/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # lumos_web_agent_plan_iterative
 
 A Lumos-Iterative dataset for training a web agent's planning module, with 1009 Mind2Web task annotations in the described data overview.

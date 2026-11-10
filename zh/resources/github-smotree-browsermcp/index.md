@@ -1,3 +1,11 @@
+---
+title: "BrowserMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-smotree-browsermcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # BrowserMCP
 
 BrowserMCP 通过 Node.js MCP 服务器和 WebSocket 桥接将 AI 客户端连接到 Chrome 扩展，以执行浏览器导航与交互。

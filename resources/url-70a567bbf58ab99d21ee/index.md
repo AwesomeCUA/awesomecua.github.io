@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-70a567bbf58ab99d21ee/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2-VL-72B-Instruct
 
 Qwen2-VL-72B-Instruct is a general vision-language model whose card describes operation of mobile devices from visual input and instructions and reports Android agent evaluations.

@@ -1,3 +1,11 @@
+---
+title: "loki-auto · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-loki4agent-loki-auto/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # loki-auto
 
 零依赖的浏览器内网页自动化运行时，内置面向 LLM 的沙箱和 Model Context Protocol 服务器。

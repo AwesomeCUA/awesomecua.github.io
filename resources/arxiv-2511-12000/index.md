@@ -1,3 +1,11 @@
+---
+title: "Measurement-Based Quantum Computation Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-12000/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Measurement-Based Quantum Computation Using the Spin-1 XXZ Model with Uniaxial Anisotropy
 
 Status: excluded from the active CUA catalog after scope review.

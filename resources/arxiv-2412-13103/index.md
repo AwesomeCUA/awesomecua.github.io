@@ -1,3 +1,11 @@
+---
+title: "AI PERSONA: Towards Life-long Personalization… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-13103/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AI PERSONA: Towards Life-long Personalization of LLMs
 
 Status: excluded from the active CUA catalog after scope review.

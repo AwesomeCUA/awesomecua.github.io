@@ -1,3 +1,11 @@
+---
+title: "FlowPilot Engine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pensefact-flowpilot-engine/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # FlowPilot Engine
 
 Hybrid AI browser automation engine combining Claude's visual Computer Use API with deterministic Playwright execution.

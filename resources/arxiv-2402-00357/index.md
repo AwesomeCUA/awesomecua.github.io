@@ -1,3 +1,11 @@
+---
+title: "Safety of Multimodal Large Language Models on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-00357/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Safety of Multimodal Large Language Models on Images and Texts
 
 Bibliographic record for Safety of Multimodal Large Language Models on Images and Texts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-00357/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-00357/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_00357,
+  title = {{Safety of Multimodal Large Language Models on Images and Texts}},
+  author = {{Xin Liu} and {Yichen Zhu} and {Yunshi Lan} and {Chao Yang} and {Yu Qiao}},
+  year = {2024},
+  eprint = {2402.00357v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.00357v3},
+  note = {First published: 2024-02-01; Recorded arXiv version: v3; Recorded version updated: 2024-06-20T15:06:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

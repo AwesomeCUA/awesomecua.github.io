@@ -1,3 +1,11 @@
+---
+title: "openadapt-viewer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-viewer/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # openadapt-viewer
 
 openadapt-viewer builds an HTML report from desktop or web agent runs, showing task outcomes and step-by-step screenshots alongside actions and reasoning.

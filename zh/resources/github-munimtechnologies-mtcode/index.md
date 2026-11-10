@@ -1,3 +1,11 @@
+---
+title: "MT Code · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-munimtechnologies-mtcode/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # MT Code
 
 MT Code 是一款桌面应用，用于运行编程智能体，并为其提供浏览器操作控制、实时计算机画面和对可连接计算机的访问。

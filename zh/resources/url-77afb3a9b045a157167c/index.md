@@ -1,3 +1,11 @@
+---
+title: "WebLINX 1.1 (WebLINX-BrowserGym) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-77afb3a9b045a157167c/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # WebLINX 1.1 (WebLINX-BrowserGym)
 
 WebLINX 1.1 是 WebLINX 对话式网页导航演示的重新处理版本，封装为单步 BrowserGym 任务，以预测的浏览器操作与记录中的对应步骤比对评分。

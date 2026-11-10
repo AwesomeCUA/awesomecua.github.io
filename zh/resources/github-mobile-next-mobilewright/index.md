@@ -1,3 +1,11 @@
+---
+title: "Mobilewright · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobile-next-mobilewright/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Mobilewright
 
 Mobilewright 通过语义定位器和操作接口自动化控制 iOS 与 Android 设备，并向智能体开放无障碍树以读取和操作移动应用。

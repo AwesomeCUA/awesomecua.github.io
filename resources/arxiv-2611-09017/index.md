@@ -1,3 +1,11 @@
+---
+title: "Frontier3DBench: Benchmarking Coding Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-09017/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds
 
 Bibliographic record for Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinjie Lin, Qingle Liu, Wenyi Li, John Lam, Xiaoqiu Wang, Deyao Hong, Mingju Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-09017/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-09017/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_09017,
+  title = {{Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds}},
+  author = {{Xinjie Lin} and {Qingle Liu} and {Wenyi Li} and {John Lam} and {Xiaoqiu Wang} and {Deyao Hong} and {Mingju Gao} and {Zheng Jiang} and {Yizhe Chi} and {Youjie Zheng} and {Calvin Xiao} and {Kaisen Yang} and {Huan-ang Gao}},
+  year = {2026},
+  eprint = {2611.09017v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.09017v1},
+  note = {First published: 2026-11-06; Recorded arXiv version: v1; Recorded version updated: 2026-11-06T05:45:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

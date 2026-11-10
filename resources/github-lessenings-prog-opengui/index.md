@@ -1,3 +1,11 @@
+---
+title: "OpenGUI (Windows Native Service) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lessenings-prog-opengui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenGUI (Windows Native Service)
 
 Windows-native .NET 9 desktop automation service exposing sub-millisecond named-pipe IPC and UI Automation perception to LLM agents.

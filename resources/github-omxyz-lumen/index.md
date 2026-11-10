@@ -1,3 +1,11 @@
+---
+title: "Lumen browser agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-omxyz-lumen/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # Lumen browser agent
 
 A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.

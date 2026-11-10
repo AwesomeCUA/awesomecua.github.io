@@ -1,3 +1,11 @@
+---
+title: "Automatic and Universal Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-04957/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Automatic and Universal Prompt Injection Attacks against Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

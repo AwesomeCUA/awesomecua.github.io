@@ -1,3 +1,11 @@
+---
+title: "Video-MMMU: Evaluating Knowledge Acquisition… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-13826/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos
 
 Bibliographic record for Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kairui Hu, Penghao Wu, Fanyi Pu, Wang Xiao, Yuanhan Zhang, Xiang Yue, Bo Li, Ziw
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-13826/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-13826/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_13826,
+  title = {{Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos}},
+  author = {{Kairui Hu} and {Penghao Wu} and {Fanyi Pu} and {Wang Xiao} and {Yuanhan Zhang} and {Xiang Yue} and {Bo Li} and {Ziwei Liu}},
+  year = {2025},
+  eprint = {2501.13826v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.13826v1},
+  note = {First published: 2025-01-23; Recorded arXiv version: v1; Recorded version updated: 2025-01-23T16:51:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

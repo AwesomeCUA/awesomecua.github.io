@@ -1,3 +1,11 @@
+---
+title: "LLM-based Multi-Agent Reinforcement Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-11106/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions
 
 Status: excluded from the active CUA catalog after scope review.

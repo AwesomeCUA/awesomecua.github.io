@@ -1,3 +1,11 @@
+---
+title: "Browser Use SDKs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-sdk/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Browser Use SDKs
 
 Python and TypeScript SDKs connect applications to Browser Use Cloud agents and managed browsers for browser task execution and control.

@@ -1,3 +1,11 @@
+---
+title: "Hermes Bot Kit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thomasbek3-hermes-bot-kit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hermes Bot Kit
 
 用于管理 Hermes 计算机使用智能体的 iMessage 风格聊天与智能体群控制界面。

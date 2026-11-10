@@ -1,3 +1,11 @@
+---
+title: "LaCo: Efficient Layer-wise Compression of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-02279/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LaCo: Efficient Layer-wise Compression of Visual Tokens for Multimodal Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

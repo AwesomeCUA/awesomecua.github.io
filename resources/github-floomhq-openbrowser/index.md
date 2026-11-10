@@ -1,3 +1,11 @@
+---
+title: "Floom OpenBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-floomhq-openbrowser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Floom OpenBrowser
 
 OpenBrowser is an open-source browser automation broker managing persistent Chrome profiles and proxy-aware sessions for AI agents.

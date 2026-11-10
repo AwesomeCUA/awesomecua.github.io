@@ -1,3 +1,11 @@
+---
+title: "Fault-Tolerant Hybrid-Parallel Training at… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-12670/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fault-Tolerant Hybrid-Parallel Training at Scale with Reliable and Efficient In-memory Checkpointing
 
 Status: excluded from the active CUA catalog after scope review.

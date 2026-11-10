@@ -1,3 +1,11 @@
+---
+title: "Universal Vulnerabilities in Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-05949/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal Vulnerabilities in Large Language Models: Backdoor Attacks for In-context Learning
 
 Status: excluded from the active CUA catalog after scope review.

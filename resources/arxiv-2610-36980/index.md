@@ -1,3 +1,11 @@
+---
+title: "AutoVend: Benchmarking LLM Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36980/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations
 
 Bibliographic record for AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiming Shi, Yikun Li, Beidi Luan, Rui Sun, Sinuo Wang, Delin Wang, Yan Ma, Jing 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36980/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36980/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36980,
+  title = {{AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations}},
+  author = {{Qiming Shi} and {Yikun Li} and {Beidi Luan} and {Rui Sun} and {Sinuo Wang} and {Delin Wang} and {Yan Ma} and {Jing Li} and {Daxin Jiang} and {Zuo Bai}},
+  year = {2026},
+  eprint = {2610.36980v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36980v2},
+  note = {First published: 2026-10-27; Recorded arXiv version: v2; Recorded version updated: 2026-11-05T03:42:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "PrivScreen | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a0f2b96269c91c5c815c/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # PrivScreen
 
 PrivScreen is a dataset associated with research on protecting privacy in mobile-agent screenshots; its repository contains images and question-answer files.

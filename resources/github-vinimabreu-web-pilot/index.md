@@ -1,3 +1,11 @@
+---
+title: "web-pilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vinimabreu-web-pilot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # web-pilot
 
 Browser-use framework where the model proposes a single action from a closed vocabulary and deterministic code validates and executes it.

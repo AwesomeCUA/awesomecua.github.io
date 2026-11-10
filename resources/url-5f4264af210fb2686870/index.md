@@ -1,3 +1,11 @@
+---
+title: "MirrorGuard checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5f4264af210fb2686870/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # MirrorGuard checkpoint
 
 Qwen2.5-VL-7B-Instruct fine-tune that reads an instruction, history, screenshot and a computer-use agent's thought, returns the thought unchanged when safe and rewrites or refuses it when risky.

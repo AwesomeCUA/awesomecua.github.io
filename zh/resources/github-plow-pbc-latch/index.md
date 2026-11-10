@@ -1,3 +1,11 @@
+---
+title: "Plow Latch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plow-pbc-latch/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Plow Latch
 
 一款 Mac 应用，让远程智能体通过经批准的操作意图使用浏览器和本地工具，并提供沙箱执行与审计日志。

@@ -1,3 +1,11 @@
+---
+title: "Pydoll · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-autoscrape-labs-pydoll/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Pydoll
 
 Pydoll 是一个 Python 浏览器自动化库，通过开发者工具协议控制 Chrome 或 Edge，支持页面导航、元素交互和数据提取。

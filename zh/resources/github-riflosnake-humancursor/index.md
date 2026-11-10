@@ -1,3 +1,11 @@
+---
+title: "HumanCursor · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-riflosnake-humancursor/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # HumanCursor
 
 这款 Python 鼠标自动化工具提供网页和系统光标控制，可执行移动、点击、拖拽和滚动；其脚本工具能录制光标操作以供重放。

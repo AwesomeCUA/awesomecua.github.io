@@ -1,3 +1,11 @@
+---
+title: "Mobile-R1 trajectory sample · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-114ced4a94d12f384d69/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # Mobile-R1 trajectory sample
 
 Mobile-R1 中文 Android 应用标注轨迹的开放样本：1,007 个任务的各步骤将截图与思路、子任务及点击、滑动、输入或打开等 mobile_use 动作配对。

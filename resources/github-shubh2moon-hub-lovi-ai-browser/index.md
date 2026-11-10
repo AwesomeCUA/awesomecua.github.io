@@ -1,3 +1,11 @@
+---
+title: "LOVI AI Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shubh2moon-hub-lovi-ai-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # LOVI AI Browser
 
 Privacy-first autonomous AI companion browser powered by local Qwen 2.5 models.

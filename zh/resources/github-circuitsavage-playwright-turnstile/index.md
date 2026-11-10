@@ -1,3 +1,11 @@
+---
+title: "playwright-turnstile · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-circuitsavage-playwright-turnstile/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # playwright-turnstile
 
 Playwright 集成组件，在浏览器自动化过程中通过注入令牌解决 Cloudflare Turnstile 验证挑战。

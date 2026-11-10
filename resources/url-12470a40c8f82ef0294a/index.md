@@ -1,3 +1,11 @@
+---
+title: "HobbyLM-1B Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/url-12470a40c8f82ef0294a/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # HobbyLM-1B Computer Use
 
 An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.

@@ -1,3 +1,11 @@
+---
+title: "Proposer-Agent-Evaluator (PAE) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amazon-science-pae/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Proposer-Agent-Evaluator (PAE)
 
 A browser-agent training system that proposes tasks, collects visual interaction trajectories, and uses automated evaluation to drive policy improvement.

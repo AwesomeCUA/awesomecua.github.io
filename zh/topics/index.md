@@ -1,3 +1,11 @@
+---
+title: "Computer-Use 主题目录 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # Computer-Use 主题目录
 
 HTML 页面：https://awesomecua.com/zh/topics/

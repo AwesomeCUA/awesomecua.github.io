@@ -1,3 +1,11 @@
+---
+title: "VG-GUI-TASKER · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vg-gui-tasker-vg-gui-tasker/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # VG-GUI-TASKER
 
 VG-GUI-TASKER 从教学演示视频中提取有用的关键帧，用于指导多模态 GUI 智能体。

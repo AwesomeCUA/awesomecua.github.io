@@ -1,3 +1,11 @@
+---
+title: "Mind2Web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-mind2web/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # Mind2Web
 
 Human demonstrations and tasks for generalist web navigation research.

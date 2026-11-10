@@ -1,3 +1,11 @@
+---
+title: "RUSS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xnancy-russ/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # RUSS
 
 Code and data for RUSS, which parses step-by-step web help instructions into the ThingTalk language, grounds them to page elements, and clicks, types or asks the user; ships a 741-instruction evaluation set.

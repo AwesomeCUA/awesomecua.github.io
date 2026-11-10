@@ -1,3 +1,11 @@
+---
+title: "DatasetResearch: Benchmarking Agent Systems… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-06960/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery
 
 Bibliographic record for DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Keyu Li, Mohan Jiang, Dayuan Fu, Yunze Wu, Xiangkun Hu, Dequan Wang, Pengfei Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-06960/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-06960/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_06960,
+  title = {{DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery}},
+  author = {{Keyu Li} and {Mohan Jiang} and {Dayuan Fu} and {Yunze Wu} and {Xiangkun Hu} and {Dequan Wang} and {Pengfei Liu}},
+  year = {2025},
+  eprint = {2508.06960v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.06960v1},
+  note = {First published: 2025-08-09; Recorded arXiv version: v1; Recorded version updated: 2025-08-09T12:15:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

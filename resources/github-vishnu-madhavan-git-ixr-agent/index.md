@@ -1,3 +1,11 @@
+---
+title: "IXR Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vishnu-madhavan-git-ixr-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # IXR Agent
 
 IXR Agent is a TypeScript in-page web GUI agent that executes natural-language instructions over live web applications.

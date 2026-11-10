@@ -1,3 +1,11 @@
+---
+title: "The Dawn of GUI Agent: A Preliminary Case… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-10323/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use
 
 Presents a preliminary study of Claude 3.5 Computer Use across desktop tasks and software, analyzing planning, action, and critique behavior and providing a framework for deploying GUI-automation models.
@@ -26,6 +34,18 @@ Siyuan Hu, Mingyu Ouyang, Difei Gao, Mike Zheng Shou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-10323/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-10323/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_10323,
+  title = {{The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use}},
+  author = {{Siyuan Hu} and {Mingyu Ouyang} and {Difei Gao} and {Mike Zheng Shou}},
+  year = {2024},
+  eprint = {2411.10323v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.10323v1},
+  note = {First published: 2024-11-15; Recorded arXiv version: v1; Recorded version updated: 2024-11-15T16:23:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

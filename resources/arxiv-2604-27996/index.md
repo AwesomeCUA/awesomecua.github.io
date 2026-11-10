@@ -1,3 +1,11 @@
+---
+title: "Exploring LLM Agent Designs and Interaction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-27996/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Exploring LLM Agent Designs and Interaction Modalities for Scientific Visualization
 
 This study compares specialized, computer-use and coding agents on scientific visualization workflows. It examines GUI, CLI, code and tool-call interaction modes, including how persistent memory changes performance across repeated trials.
@@ -26,6 +34,18 @@ Jackson Vonderhorst, Kuangshi Ai, Haichao Miao, Shusen Liu, Chaoli Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-27996/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-27996/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_27996,
+  title = {{Exploring LLM Agent Designs and Interaction Modalities for Scientific Visualization}},
+  author = {{Jackson Vonderhorst} and {Kuangshi Ai} and {Haichao Miao} and {Shusen Liu} and {Chaoli Wang}},
+  year = {2026},
+  eprint = {2604.27996v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.27996v3},
+  note = {First published: 2026-04-30; Recorded arXiv version: v3; Recorded version updated: 2026-06-26T20:31:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

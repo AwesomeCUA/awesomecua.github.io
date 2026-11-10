@@ -1,3 +1,11 @@
+---
+title: "VideoWebArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ljang0-videowebarena/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # VideoWebArena
 
 VideoWebArena 评测网络智能体利用视频教程完成网站任务的能力，发布的基准包括任务配置、运行环境和评测流程。

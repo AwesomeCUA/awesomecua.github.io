@@ -1,3 +1,11 @@
+---
+title: "Constrain Alignment with Sparse Autoencoders | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-07618/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Constrain Alignment with Sparse Autoencoders
 
 Status: excluded from the active CUA catalog after scope review.

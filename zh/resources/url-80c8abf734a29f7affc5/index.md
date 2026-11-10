@@ -1,3 +1,11 @@
+---
+title: "Kirk Engine · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-80c8abf734a29f7affc5/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Kirk Engine
 
 Kirk Engine 是结合截图和无障碍树选择点击、输入及滑动操作的安卓智能体；页面报告 AndroidWorld 测试，并说明逐任务验证材料。

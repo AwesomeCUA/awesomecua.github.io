@@ -1,3 +1,11 @@
+---
+title: "Flash Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shortsspectrumai-del-flash-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Flash Computer Use
 
 Flash Computer Use 是结合浏览器 DOM 与原生操作系统无障碍功能的混合式 MCP 服务器，用于低延迟桌面和网页自动化。

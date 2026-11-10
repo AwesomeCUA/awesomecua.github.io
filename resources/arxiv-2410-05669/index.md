@@ -1,3 +1,11 @@
+---
+title: "ACPBench: Reasoning about Action, Change, and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-05669/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ACPBench: Reasoning about Action, Change, and Planning
 
 Bibliographic record for ACPBench: Reasoning about Action, Change, and Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Harsha Kokel, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-05669/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-05669/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_05669,
+  title = {{ACPBench: Reasoning about Action, Change, and Planning}},
+  author = {{Harsha Kokel} and {Michael Katz} and {Kavitha Srinivas} and {Shirin Sohrabi}},
+  year = {2024},
+  eprint = {2410.05669v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.05669v3},
+  note = {First published: 2024-10-08; Recorded arXiv version: v3; Recorded version updated: 2026-02-27T19:56:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

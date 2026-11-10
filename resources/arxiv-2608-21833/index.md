@@ -1,3 +1,11 @@
+---
+title: "GameXpert-Bench: How Far Are Coding Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-21833/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?
 
 Bibliographic record for GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kun Chen, Haorong Hong, Peizhong Gao, Jianfeng Lin, Tongxu Luo, Yuxuan Xie, Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-21833/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-21833/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_21833,
+  title = {{GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?}},
+  author = {{Kun Chen} and {Haorong Hong} and {Peizhong Gao} and {Jianfeng Lin} and {Tongxu Luo} and {Yuxuan Xie} and {Chenxu Liu} and {Jieling He} and {Zhongyuan Liu} and {Zeno Zeng}},
+  year = {2026},
+  eprint = {2608.21833v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.21833v1},
+  note = {First published: 2026-08-22; Recorded arXiv version: v1; Recorded version updated: 2026-08-22T08:05:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ALFWorld: Aligning Text and Embodied… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2010-03768/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ALFWorld: Aligning Text and Embodied Environments for Interactive Learning
 
 Bibliographic record for ALFWorld: Aligning Text and Embodied Environments for Interactive Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté, Yonatan Bisk, Adam Trischler
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2010-03768/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2010-03768/citation.csl.json
+
+```bibtex
+@misc{arxiv_2010_03768,
+  title = {{ALFWorld: Aligning Text and Embodied Environments for Interactive Learning}},
+  author = {{Mohit Shridhar} and {Xingdi Yuan} and {Marc-Alexandre Côté} and {Yonatan Bisk} and {Adam Trischler} and {Matthew Hausknecht}},
+  year = {2020},
+  eprint = {2010.03768v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2010.03768v2},
+  note = {First published: 2020-10-08; Recorded arXiv version: v2; Recorded version updated: 2021-03-14T22:44:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

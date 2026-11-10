@@ -1,3 +1,11 @@
+---
+title: "OpenVINO Autonomous GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shehrozkashif-openvino-autonomous-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OpenVINO Autonomous GUI Agent
 
 Fully local desktop GUI agent running five INT4 OpenVINO models for screen perception, planning, action execution, and step verification.

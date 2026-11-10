@@ -1,3 +1,11 @@
+---
+title: "xbench: Tracking Agents Productivity Scaling… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-13651/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations
 
 Bibliographic record for xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kaiyuan Chen, Yixin Ren, Yang Liu, Xiaobo Hu, Haotong Tian, Tianbao Xie, Fangfu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-13651/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-13651/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_13651,
+  title = {{xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations}},
+  author = {{Kaiyuan Chen} and {Yixin Ren} and {Yang Liu} and {Xiaobo Hu} and {Haotong Tian} and {Tianbao Xie} and {Fangfu Liu} and {Haoye Zhang} and {Hongzhang Liu} and {Yuan Gong} and {Chen Sun} and {Han Hou} and {Hui Yang} and {James Pan} and {Jianan Lou} and {Jiayi Mao} and {Jizheng Liu} and {Jinpeng Li} and {Kangyi Liu} and {Kenkun Liu} and {Rui Wang} and {Run Li} and {Tong Niu} and {Wenlong Zhang} and {Wenqi Yan} and {Xuanzheng Wang} and {Yuchen Zhang} and {Yi-Hsin Hung} and {Yuan Jiang} and {Zexuan Liu} and {Zihan Yin} and {Zijian Ma} and {Zhiwen Mo}},
+  year = {2025},
+  eprint = {2506.13651v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.13651v1},
+  note = {First published: 2025-06-16; Recorded arXiv version: v1; Recorded version updated: 2025-06-16T16:16:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

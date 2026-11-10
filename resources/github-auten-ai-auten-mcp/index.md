@@ -1,3 +1,11 @@
+---
+title: "Auten MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-auten-ai-auten-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Auten MCP Server
 
 Auten MCP Server gives MCP clients native screen capture, UI element inspection, and mouse/keyboard control across macOS, Windows, and Linux.

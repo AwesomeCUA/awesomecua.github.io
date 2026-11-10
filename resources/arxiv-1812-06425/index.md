@@ -1,3 +1,11 @@
+---
+title: "Further Investigation on Classical Multiparty… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1812-06425/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Further Investigation on Classical Multiparty computation using Quantum Resources
 
 Status: excluded from the active CUA catalog after scope review.

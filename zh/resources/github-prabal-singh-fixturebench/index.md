@@ -1,3 +1,11 @@
+---
+title: "FixtureBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prabal-singh-fixturebench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # FixtureBench
 
 FixtureBench 在具有分页、MFA 和诱饵 PO 的确定性 Coupa 风格买方及供应商门户上评测采购浏览器智能体。

@@ -1,3 +1,11 @@
+---
+title: "Learning from Others, Acting for You… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32511/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents
 
 ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.
@@ -26,6 +34,18 @@ Jinming Hu, Haodong Zhao, Qi Jia, Die Chen, Tianhang Zhao, Sufeng Duan, Gongshen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32511/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32511/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32511,
+  title = {{Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents}},
+  author = {{Jinming Hu} and {Haodong Zhao} and {Qi Jia} and {Die Chen} and {Tianhang Zhao} and {Sufeng Duan} and {Gongshen Liu}},
+  year = {2026},
+  eprint = {2609.32511v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32511v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T11:59:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

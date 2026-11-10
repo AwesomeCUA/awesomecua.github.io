@@ -1,3 +1,11 @@
+---
+title: "CUA-Master: Scaling Computer-use Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-03126/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements
 
 提出计算机使用训练框架 CUA-Master，从教学视频中提取工作流程，并据此合成任务和操作轨迹。
@@ -27,6 +35,18 @@ Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen, Congcong Wang, Shuai Dong, Zelin Pen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-03126/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-03126/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_03126,
+  title = {{CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements}},
+  author = {{Xinlei Yu} and {Gen Li} and {Ji Zhao} and {Zhangquan Chen} and {Congcong Wang} and {Shuai Dong} and {Zelin Peng} and {Yuqi Xu} and {Hongrui Wu} and {Kaiwen Tuo} and {Cheng Yang} and {Kaituo Feng} and {Yifan Wu} and {Jiayi Zhang} and {Dongming Wu} and {Wenqi Shao} and {Jiaqi Wang} and {Xiangyu Yue}},
+  year = {2026},
+  eprint = {2611.03126v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.03126v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T13:41:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

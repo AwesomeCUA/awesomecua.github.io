@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Playwright Cloud Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pedro-scrapeless-scrapeless-playwright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Scrapeless Playwright Cloud Browser
 
 通过 CDP 将 Playwright 脚本和浏览器智能体连接到 Scrapeless 具备反检测功能的云端 Chromium 浏览器。

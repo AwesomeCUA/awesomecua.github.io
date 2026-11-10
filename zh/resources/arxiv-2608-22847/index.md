@@ -1,3 +1,11 @@
+---
+title: "GSAR: Goal-State-Anchor Rewards for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-22847/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis
 
 提出 GSAR，合成 GUI 任务及成功时的目标状态，再将与任务相关的界面元素标注为奖励锚点；这些锚点用于离线轨迹核验和在线策略训练。
@@ -27,6 +35,18 @@ Long Zhang, Yuhan Chen, Chaoran Zhang, Wanxia Cao, Kun Huang, Pengzhi Gao, Wei L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-22847/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-22847/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_22847,
+  title = {{GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis}},
+  author = {{Long Zhang} and {Yuhan Chen} and {Chaoran Zhang} and {Wanxia Cao} and {Kun Huang} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Chenliang Li} and {Lixin Zou}},
+  year = {2026},
+  eprint = {2608.22847v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.22847v1},
+  note = {First published: 2026-08-24; Recorded arXiv version: v1; Recorded version updated: 2026-08-24T06:27:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

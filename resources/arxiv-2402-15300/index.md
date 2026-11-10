@@ -1,3 +1,11 @@
+---
+title: "Seeing is Believing: Mitigating Hallucination… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-15300/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding
 
 Bibliographic record for Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ailin Deng, Zhirui Chen, Bryan Hooi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-15300/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-15300/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_15300,
+  title = {{Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding}},
+  author = {{Ailin Deng} and {Zhirui Chen} and {Bryan Hooi}},
+  year = {2024},
+  eprint = {2402.15300v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.15300v2},
+  note = {First published: 2024-02-23; Recorded arXiv version: v2; Recorded version updated: 2024-04-23T09:32:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

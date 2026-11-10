@@ -1,3 +1,11 @@
+---
+title: "WAInjectBench: Benchmarking Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-01354/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents
 
 Introduces WAInjectBench with a threat-model taxonomy and malicious and benign text-image datasets for web-agent prompt-injection detection. It compares detector families across explicit and less visible forms of injected content.
@@ -26,6 +34,18 @@ Yinuo Liu, Xilong Wang, Ruohan Xu, Yuqi Jia, Neil Zhenqiang Gong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-01354/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-01354/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_01354,
+  title = {{WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents}},
+  author = {{Yinuo Liu} and {Xilong Wang} and {Ruohan Xu} and {Yuqi Jia} and {Neil Zhenqiang Gong}},
+  year = {2025},
+  eprint = {2510.01354v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.01354v2},
+  note = {First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2026-09-23T16:44:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Democratizing Robot-Use Agents: A Unified… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-01560/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Democratizing Robot-Use Agents: A Unified Harness with Open Models
 
 Bibliographic record for Democratizing Robot-Use Agents: A Unified Harness with Open Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang, Kwanyoung Park, Junlin Yang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-01560/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-01560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_01560,
+  title = {{Democratizing Robot-Use Agents: A Unified Harness with Open Models}},
+  author = {{Jiarui Yuan} and {Yuxin Zuo} and {Xiaoyu Huang} and {Wenbo Zhang} and {Kwanyoung Park} and {Junlin Yang} and {Tianxiang Zhang} and {Ruoqu Chen} and {Yutao Ouyang} and {Bingxiang He} and {Xingtai Lv} and {Hongjin Wu} and {Jiajun Liu} and {Jiahao Zhao} and {Tianwei Luo} and {Haozhan Li} and {Cheng Qian} and {Jiaxin Ge} and {Huan-ang Gao} and {Kaisen Yang} and {Jiaqi Deng} and {Qixin Xu} and {Siqiao Huang} and {Bowen Zhou} and {Mengdi Xu} and {Zhiyuan Liu} and {Pieter Abbeel} and {Ning Ding}},
+  year = {2026},
+  eprint = {2611.01560v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.01560v2},
+  note = {First published: 2026-11-01; Recorded arXiv version: v2; Recorded version updated: 2026-11-03T18:09:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

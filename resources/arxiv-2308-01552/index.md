@@ -1,3 +1,11 @@
+---
+title: "InterAct: Exploring the Potentials of ChatGPT… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-01552/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # InterAct: Exploring the Potentials of ChatGPT as a Cooperative Agent
 
 Status: excluded from the active CUA catalog after scope review.

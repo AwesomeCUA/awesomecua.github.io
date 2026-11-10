@@ -1,3 +1,11 @@
+---
+title: "asdasdsdsdasdasdasd DSH Linux X11… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-asdasdsdsdasdasdasd-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # asdasdsdsdasdasdasd DSH Linux X11 Computer Use
 
 适用于 DeepSeek Harness 的 Linux X11 计算机使用插件，支持截图、鼠标键盘控制和窗口管理。

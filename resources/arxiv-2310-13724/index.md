@@ -1,3 +1,11 @@
+---
+title: "Habitat 3.0: A Co-Habitat for Humans, Avatars… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-13724/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots
 
 Bibliographic record for Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote, Tsung-Yen Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-13724/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-13724/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_13724,
+  title = {{Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots}},
+  author = {{Xavier Puig} and {Eric Undersander} and {Andrew Szot} and {Mikael Dallaire Cote} and {Tsung-Yen Yang} and {Ruslan Partsey} and {Ruta Desai} and {Alexander William Clegg} and {Michal Hlavac} and {So Yeon Min} and {Vladimír Vondruš} and {Theophile Gervet} and {Vincent-Pierre Berges} and {John M. Turner} and {Oleksandr Maksymets} and {Zsolt Kira} and {Mrinal Kalakrishnan} and {Jitendra Malik} and {Devendra Singh Chaplot} and {Unnat Jain} and {Dhruv Batra} and {Akshara Rai} and {Roozbeh Mottaghi}},
+  year = {2023},
+  eprint = {2310.13724v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.13724v1},
+  note = {First published: 2023-10-19; Recorded arXiv version: v1; Recorded version updated: 2023-10-19T17:29:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

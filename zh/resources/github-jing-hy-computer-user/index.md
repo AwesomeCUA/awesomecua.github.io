@@ -1,3 +1,11 @@
+---
+title: "jing-hy computer-user (DSH Windows Plugin) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jing-hy-computer-user/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # jing-hy computer-user (DSH Windows Plugin)
 
 面向 DeepSeek Harness、采用 Codex 风格的 Windows 计算机使用插件，支持读取屏幕及鼠标、键盘输入。

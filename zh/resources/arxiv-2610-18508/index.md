@@ -1,3 +1,11 @@
+---
+title: "Towards Safe Autonomy for Computer Use · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-18508/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Towards Safe Autonomy for Computer Use
 
 提出 SA-CUA，利用从无障碍信息推导的遮罩规则区分可信与不可信的视觉内容，并通过受控通道在采信信息前进行验证。
@@ -27,6 +35,18 @@ Dominik Seip, Bartol Markovinović, Matthias Hein
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-18508/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-18508/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_18508,
+  title = {{Towards Safe Autonomy for Computer Use}},
+  author = {{Dominik Seip} and {Bartol Markovinović} and {Matthias Hein}},
+  year = {2026},
+  eprint = {2610.18508v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.18508v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:03:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Verifiable Computing Using Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2105-01762/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Verifiable Computing Using Computation Fingerprints Within FHE
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Enikk · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gtt116-enikk/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Enikk
 
 Enikk 是一个开源计算机使用智能体，结合 GUI 视觉控制和 CLI 执行，支持视觉模型与纯文本模型。

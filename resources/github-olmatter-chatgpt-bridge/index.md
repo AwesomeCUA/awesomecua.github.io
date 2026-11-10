@@ -1,3 +1,11 @@
+---
+title: "ChatGPT WebUI Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-olmatter-chatgpt-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ChatGPT WebUI Bridge
 
 A local HTTP bridge lets agents send messages to logged-in ChatGPT browser tabs, read replies and page state, and supervise idle tabs through a userscript.

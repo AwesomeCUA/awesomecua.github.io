@@ -1,3 +1,11 @@
+---
+title: "Think Before You Act: Decision Transformers… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-16338/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Think Before You Act: Decision Transformers with Working Memory
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "All-optical quantum computing using cubic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-09060/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # All-optical quantum computing using cubic phase gates
 
 Status: excluded from the active CUA catalog after scope review.

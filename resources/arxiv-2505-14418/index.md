@@ -1,3 +1,11 @@
+---
+title: "Hidden Ghost Hand: Unveiling Backdoor… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-14418/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents
 
 Studies backdoor risks in mobile GUI agents through AgentGhost, which combines goal-level and interaction-history triggers during model training. The paper evaluates multiple mobile agents and a tailored defense.
@@ -26,6 +34,18 @@ Pengzhou Cheng, Haowen Hu, Zheng Wu, Zongru Wu, Tianjie Ju, Zhuosheng Zhang, Gon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-14418/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-14418/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_14418,
+  title = {{Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents}},
+  author = {{Pengzhou Cheng} and {Haowen Hu} and {Zheng Wu} and {Zongru Wu} and {Tianjie Ju} and {Zhuosheng Zhang} and {Gongshen Liu}},
+  year = {2025},
+  eprint = {2505.14418v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.14418v3},
+  note = {First published: 2025-05-20; Recorded arXiv version: v3; Recorded version updated: 2026-06-15T06:42:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

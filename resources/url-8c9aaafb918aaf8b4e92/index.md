@@ -1,3 +1,11 @@
+---
+title: "GUI-Net-1M | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # GUI-Net-1M
 
 A TongUI-collected training corpus from multimodal web tutorials, distributed as annotation files and split screenshot archives for GUI trajectory supervision.

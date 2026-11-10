@@ -1,3 +1,11 @@
+---
+title: "Focus on the Whole Character: Discriminative… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-05562/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Focus on the Whole Character: Discriminative Character Modeling for Scene Text Recognition
 
 Bibliographic record for Focus on the Whole Character: Discriminative Character Modeling for Scene Text Recognition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bangbang Zhou, Yadong Qu, Zixiao Wang, Zicheng Li, Boqiang Zhang, Hongtao Xie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-05562/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-05562/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_05562,
+  title = {{Focus on the Whole Character: Discriminative Character Modeling for Scene Text Recognition}},
+  author = {{Bangbang Zhou} and {Yadong Qu} and {Zixiao Wang} and {Zicheng Li} and {Boqiang Zhang} and {Hongtao Xie}},
+  year = {2024},
+  eprint = {2407.05562v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.05562v1},
+  note = {First published: 2024-07-08; Recorded arXiv version: v1; Recorded version updated: 2024-07-08T02:33:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

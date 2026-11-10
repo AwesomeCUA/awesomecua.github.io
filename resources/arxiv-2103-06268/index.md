@@ -1,3 +1,11 @@
+---
+title: "CUAD: An Expert-Annotated NLP Dataset for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2103-06268/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review
 
 Bibliographic record for CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dan Hendrycks, Collin Burns, Anya Chen, Spencer Ball
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2103-06268/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2103-06268/citation.csl.json
+
+```bibtex
+@misc{arxiv_2103_06268,
+  title = {{CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review}},
+  author = {{Dan Hendrycks} and {Collin Burns} and {Anya Chen} and {Spencer Ball}},
+  year = {2021},
+  eprint = {2103.06268v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2103.06268v2},
+  note = {First published: 2021-03-10; Recorded arXiv version: v2; Recorded version updated: 2021-11-08T21:23:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

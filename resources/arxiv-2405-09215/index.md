@@ -1,3 +1,11 @@
+---
+title: "Xmodel-VLM: A Simple Baseline for Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-09215/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model
 
 Status: excluded from the active CUA catalog after scope review.

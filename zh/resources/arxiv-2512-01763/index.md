@@ -1,3 +1,11 @@
+---
+title: "HiconAgent: History Context-aware Policy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-01763/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # HiconAgent: History Context-aware Policy Optimization for GUI Agents
 
 HiconAgent 通过可变长度上下文采样，以及基于压缩历史和完整历史的成对策略更新，训练 GUI 策略利用历史信息。压缩时保留过去操作、移除历史观察，并以对齐损失关联两条分支。
@@ -27,6 +35,18 @@ Xurui Zhou, Gongwei Chen, Yuquan Xie, Zaijing Li, Kaiwen Zhou, Shuai Wang, Shuo 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-01763/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-01763/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_01763,
+  title = {{HiconAgent: History Context-aware Policy Optimization for GUI Agents}},
+  author = {{Xurui Zhou} and {Gongwei Chen} and {Yuquan Xie} and {Zaijing Li} and {Kaiwen Zhou} and {Shuai Wang} and {Shuo Yang} and {Zhuotao Tian} and {Rui Shao}},
+  year = {2025},
+  eprint = {2512.01763v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.01763v2},
+  note = {First published: 2025-12-01; Recorded arXiv version: v2; Recorded version updated: 2026-03-08T10:18:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

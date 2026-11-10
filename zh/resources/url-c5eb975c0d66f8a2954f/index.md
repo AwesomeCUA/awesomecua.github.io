@@ -1,3 +1,11 @@
+---
+title: "CogAgent 9B 20241220 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c5eb975c0d66f8a2954f/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # CogAgent 9B 20241220
 
 基于 GLM-4V 的双语执行模型，利用截图、任务指令和操作历史预测 GUI 操作。

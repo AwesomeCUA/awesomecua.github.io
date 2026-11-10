@@ -1,3 +1,11 @@
+---
+title: "ExACT: Teaching AI Agents to Explore with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-02052/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning
 
 ExACT combines reflective tree search with learning from search experience to help web agents explore, assess states and backtrack on VisualWebArena.
@@ -26,6 +34,18 @@ Xiao Yu, Baolin Peng, Vineeth Vajipey, Hao Cheng, Michel Galley, Jianfeng Gao, Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-02052/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-02052/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_02052,
+  title = {{ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning}},
+  author = {{Xiao Yu} and {Baolin Peng} and {Vineeth Vajipey} and {Hao Cheng} and {Michel Galley} and {Jianfeng Gao} and {Zhou Yu}},
+  year = {2024},
+  eprint = {2410.02052v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.02052v5},
+  note = {First published: 2024-10-02; Recorded arXiv version: v5; Recorded version updated: 2025-02-27T20:13:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

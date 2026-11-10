@@ -1,3 +1,11 @@
+---
+title: "Asteroid | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a0a0c389d4def8e2d13a/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Asteroid
 
 Hosted healthcare automation platform whose agents operate EHRs, payer portals and Windows, Linux or Citrix apps from the screen, then turn repeat runs into scripts or private-API calls served as an API.

@@ -1,3 +1,11 @@
+---
+title: "AndroidEnv · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-deepmind-android-env/
+updated: 2026-10-20
+type: infrastructure
+lang: zh-CN
+---
+
 # AndroidEnv
 
 Android 设备控制平台，提供截图、无障碍状态数据、输入操作，以及可选的强化学习任务接口。

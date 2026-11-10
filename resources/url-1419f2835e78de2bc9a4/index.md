@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct-GPTQ-Int8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1419f2835e78de2bc9a4/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2-VL-72B-Instruct-GPTQ-Int8
 
 A quantized 72B Qwen2-VL checkpoint for visual instruction following. Its model card describes using visual input and text instructions to operate mobile devices.

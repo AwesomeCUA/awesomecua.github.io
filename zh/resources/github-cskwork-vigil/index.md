@@ -1,3 +1,11 @@
+---
+title: "cskwork vigil · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cskwork-vigil/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # cskwork vigil
 
 持续运行的浏览器 QA 测试框架，可复现已报告的错误，并在实时网页 URL 上自主扩展端到端测试覆盖范围。

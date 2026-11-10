@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-38B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-33b35b47d8bb269d84a1/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-38B
 
 InternVL3.5 checkpoint with 38.4B parameters, pairing a 5.5B vision encoder with a 32.8B language model, whose paper reports GUI grounding and online agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.

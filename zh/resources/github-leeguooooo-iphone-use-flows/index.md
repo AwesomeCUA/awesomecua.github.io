@@ -1,3 +1,11 @@
+---
+title: "iphone-use-flows · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leeguooooo-iphone-use-flows/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # iphone-use-flows
 
 这是供 iphone-use 使用的可复用 iPhone 应用工作流仓库。其 JSON 流程定义手机操作、输入项和检查步骤，以完成重复任务。

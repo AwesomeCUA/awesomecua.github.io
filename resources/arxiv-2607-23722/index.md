@@ -1,3 +1,11 @@
+---
+title: "E-Bench: Benchmarking Multi-Step Tool-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-23722/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios
 
 Bibliographic record for E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Weihuang Zheng, Tianyuan Zou, Eileen Ye, Alphet Liu, Youyong Kong, Ya-Qin Zhang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-23722/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-23722/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_23722,
+  title = {{E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios}},
+  author = {{Weihuang Zheng} and {Tianyuan Zou} and {Eileen Ye} and {Alphet Liu} and {Youyong Kong} and {Ya-Qin Zhang} and {Duran Zheng} and {Maxm Pan}},
+  year = {2026},
+  eprint = {2607.23722v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.23722v1},
+  note = {First published: 2026-07-26; Recorded arXiv version: v1; Recorded version updated: 2026-07-26T15:38:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

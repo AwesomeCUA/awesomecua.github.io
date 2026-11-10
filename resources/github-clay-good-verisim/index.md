@@ -1,3 +1,11 @@
+---
+title: "Verisim | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clay-good-verisim/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Verisim
 
 Verisim is a coverage certifier and adversarial evaluation suite for testing pre-execution guardrails on computer-use and tool agents.

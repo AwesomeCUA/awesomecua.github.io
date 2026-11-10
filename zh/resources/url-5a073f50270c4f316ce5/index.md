@@ -1,3 +1,11 @@
+---
+title: "Computer Use Trajectories (markov-ai) · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5a073f50270c4f316ce5/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Computer Use Trajectories (markov-ai)
 
 由使用辅助功能树定位的 Gemini 3 Flash Preview 智能体生成的 160 条成功 OSWorld 轨迹，共 1,378 步，含逐步截图、辅助功能树、pyautogui 操作、响应及运行日志。

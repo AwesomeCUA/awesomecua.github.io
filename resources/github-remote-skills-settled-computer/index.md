@@ -1,3 +1,11 @@
+---
+title: "settled-computer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-remote-skills-settled-computer/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # settled-computer
 
 settled-computer is an event-driven MCP server that detects UI rendering quiescence so computer-use agents avoid fixed sleep delays and stale frames.

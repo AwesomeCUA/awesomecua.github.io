@@ -1,3 +1,11 @@
+---
+title: "THUDM/cogagent-chat-hf | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5726382dc813f040f829/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # THUDM/cogagent-chat-hf
 
 A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans, next actions, and coordinates. The card describes use with web, desktop, and mobile interfaces.

@@ -1,3 +1,11 @@
+---
+title: "UGround V1 Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c4898ad1bfc049926a63/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # UGround V1 Data
 
 Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.

@@ -1,3 +1,11 @@
+---
+title: "Beyond Chat and Clicks: GUI Agents for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-14668/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation
 
 DOMSteer 根据求助请求和实时页面上下文，生成可撤销的 DOM 改动，如高亮控件、添加上下文提示和调整布局；通过界面测试、用例及对比用户研究评估原位 GUI 辅助。
@@ -27,6 +35,18 @@ Pan Hao, Rishi Selvakumaran, Jacob Sun, Qianwen Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-14668/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-14668/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_14668,
+  title = {{Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation}},
+  author = {{Pan Hao} and {Rishi Selvakumaran} and {Jacob Sun} and {Qianwen Wang}},
+  year = {2026},
+  eprint = {2604.14668v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.14668v1},
+  note = {First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T06:22:48Z.}
+}
+```
 
 ## arXiv 版本记录
 

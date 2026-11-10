@@ -1,3 +1,11 @@
+---
+title: "CogAgent 9B 20241220 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # CogAgent 9B 20241220
 
 A bilingual GLM-4V-based execution model that uses screenshots, task instructions and action history to predict GUI operations.

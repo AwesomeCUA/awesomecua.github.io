@@ -1,3 +1,11 @@
+---
+title: "ScreenSearch: Uncertainty-Aware OS Exploration | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-16024/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ScreenSearch: Uncertainty-Aware OS Exploration
 
 ScreenSearch explores desktop GUI states by indexing and deduplicating UIA-tree screens, then using outcome ambiguity and frontier rewards to guide graph search.
@@ -26,6 +34,18 @@ Michael Solodko, Justin Wagle
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-16024/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-16024/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16024,
+  title = {{ScreenSearch: Uncertainty-Aware OS Exploration}},
+  author = {{Michael Solodko} and {Justin Wagle}},
+  year = {2026},
+  eprint = {2605.16024v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16024v2},
+  note = {First published: 2026-05-15; Recorded arXiv version: v2; Recorded version updated: 2026-08-17T18:33:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

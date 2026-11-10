@@ -1,3 +1,11 @@
+---
+title: "UI-TARS 72B SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fdb901523979ed1e831b/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # UI-TARS 72B SFT
 
 SFT-labelled 72B UI-TARS checkpoint: a native GUI agent model in the Qwen2-VL architecture, stored in FP32, for screen perception, element grounding and multi-step actions on web, mobile and desktop.

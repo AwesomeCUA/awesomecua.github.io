@@ -1,3 +1,11 @@
+---
+title: "Cognitive Kernel · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-cogkernel/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # Cognitive Kernel
 
 Cognitive Kernel 是一个容器化的智能体系统，其微调后的策略模型通过点击、输入和滚动操作 Playwright 浏览器，同时具备文件处理和长期记忆能力。

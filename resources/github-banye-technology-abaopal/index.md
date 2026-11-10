@@ -1,3 +1,11 @@
+---
+title: "AbaoPal (阿宝Pal) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-banye-technology-abaopal/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AbaoPal (阿宝Pal)
 
 Open-source multi-agent Android phone automation assistant that understands screens, plans cross-app tasks, and executes reusable skills.

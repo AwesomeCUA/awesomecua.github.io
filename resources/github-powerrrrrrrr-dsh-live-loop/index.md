@@ -1,3 +1,11 @@
+---
+title: "dsh-live-loop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-powerrrrrrrr-dsh-live-loop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-live-loop
 
 Frontend runtime verification plugin for DeepSeek Harness that detects, launches, previews, and tests web apps in a live browser.

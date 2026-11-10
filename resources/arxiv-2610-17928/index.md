@@ -1,3 +1,11 @@
+---
+title: "Learning How to Remember: Memory Modality… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17928/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Learning How to Remember: Memory Modality Selection for GUI Agents
 
 Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step.
@@ -26,6 +34,18 @@ Taeyun Roh, Suhyeong Park, Gijin Kim, Wonjune Jang, Jaewoo Kang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17928/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17928/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17928,
+  title = {{Learning How to Remember: Memory Modality Selection for GUI Agents}},
+  author = {{Taeyun Roh} and {Suhyeong Park} and {Gijin Kim} and {Wonjune Jang} and {Jaewoo Kang}},
+  year = {2026},
+  eprint = {2610.17928v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17928v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T08:15:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

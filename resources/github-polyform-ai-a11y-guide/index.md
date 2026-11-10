@@ -1,3 +1,11 @@
+---
+title: "Polyform a11y-guide | AwesomeCUA"
+url: https://awesomecua.com/resources/github-polyform-ai-a11y-guide/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Polyform a11y-guide
 
 Semantic accessibility page-guidance layer designed simultaneously for assistive technologies and AI browser agents.

@@ -1,3 +1,11 @@
+---
+title: "TGPO: Tree-Guided Preference… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-14172/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning
 
 TGPO 将语义等价的网页状态合并为树状轨迹，用于离线偏好优化；过程奖励模型评估子目标进展、冗余行为和操作有效性，动态加权则侧重关键决策。
@@ -27,6 +35,18 @@ Ziyuan Chen, Zhenghui Zhao, Zhangye Han, Miancan Liu, Xianhang Ye, Yiqing Li, Ho
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-14172/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-14172/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_14172,
+  title = {{TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning}},
+  author = {{Ziyuan Chen} and {Zhenghui Zhao} and {Zhangye Han} and {Miancan Liu} and {Xianhang Ye} and {Yiqing Li} and {Hongbo Min} and {Jinkui Ren} and {Xiantao Zhang} and {Guitao Cao}},
+  year = {2025},
+  eprint = {2509.14172v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.14172v2},
+  note = {First published: 2025-09-17; Recorded arXiv version: v2; Recorded version updated: 2025-09-19T02:13:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

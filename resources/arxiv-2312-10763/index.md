@@ -1,3 +1,11 @@
+---
+title: "M3DBench: Let's Instruct Large Models with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-10763/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts
 
 Bibliographic record for M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-10763/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-10763/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_10763,
+  title = {{M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts}},
+  author = {{Mingsheng Li} and {Xin Chen} and {Chi Zhang} and {Sijin Chen} and {Hongyuan Zhu} and {Fukun Yin} and {Gang Yu} and {Tao Chen}},
+  year = {2023},
+  eprint = {2312.10763v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.10763v1},
+  note = {First published: 2023-12-17; Recorded arXiv version: v1; Recorded version updated: 2023-12-17T16:53:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

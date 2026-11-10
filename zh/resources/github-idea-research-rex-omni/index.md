@@ -1,3 +1,11 @@
+---
+title: "Rex-Omni (github.com/IDEA-Research/Rex-Om… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-idea-research-rex-omni/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Rex-Omni
 
 Rex-Omni 是一款通用视觉感知模型，提供界面定位和指点模式。仓库包含推理示例、评测材料和微调代码。

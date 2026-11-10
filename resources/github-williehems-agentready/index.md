@@ -1,3 +1,11 @@
+---
+title: "AgentReady | AwesomeCUA"
+url: https://awesomecua.com/resources/github-williehems-agentready/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # AgentReady
 
 Cloud-browser evaluation harness that tests whether an autonomous AI agent can complete a website's primary conversion action.

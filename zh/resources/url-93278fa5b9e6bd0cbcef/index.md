@@ -1,3 +1,11 @@
+---
+title: "Uni-GUI-Mobile · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-93278fa5b9e6bd0cbcef/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Uni-GUI-Mobile
 
 UI-MOPD 训练数据中自行采集的手机操作轨迹：覆盖 10 类应用的 871 项任务，每项含逐步截图、推理轨迹、归一化的点击、滑动和输入操作及 adb 命令。

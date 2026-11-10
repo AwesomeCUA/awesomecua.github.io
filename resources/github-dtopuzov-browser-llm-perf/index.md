@@ -1,3 +1,11 @@
+---
+title: "Browser LLM Perf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Browser LLM Perf
 
 Browser LLM Perf compares browser automation CLIs (CraftDriver vs Playwright CLI) on task completion speed and LLM token cost.

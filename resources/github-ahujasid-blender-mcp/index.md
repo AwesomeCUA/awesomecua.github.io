@@ -1,3 +1,11 @@
+---
+title: "MCP for Blender | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahujasid-blender-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # MCP for Blender
 
 MCP for Blender connects AI clients to Blender through an addon and MCP server for scene edits, Python commands and visual verification using views and renders.

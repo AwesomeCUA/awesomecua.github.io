@@ -1,3 +1,11 @@
+---
+title: "Towards Generalist Robots: A Promising… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-10455/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Towards Generalist Robots: A Promising Paradigm via Generative Simulation
 
 Bibliographic record for Towards Generalist Robots: A Promising Paradigm via Generative Simulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhou Xian, Theophile Gervet, Zhenjia Xu, Yi-Ling Qiao, Tsun-Hsuan Wang, Yian Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-10455/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-10455/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_10455,
+  title = {{Towards Generalist Robots: A Promising Paradigm via Generative Simulation}},
+  author = {{Zhou Xian} and {Theophile Gervet} and {Zhenjia Xu} and {Yi-Ling Qiao} and {Tsun-Hsuan Wang} and {Yian Wang}},
+  year = {2023},
+  eprint = {2305.10455v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.10455v3},
+  note = {First published: 2023-05-17; Recorded arXiv version: v3; Recorded version updated: 2023-08-30T00:05:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

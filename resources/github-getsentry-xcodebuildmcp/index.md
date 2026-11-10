@@ -1,3 +1,11 @@
+---
+title: "MobileBuildMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-getsentry-xcodebuildmcp/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MobileBuildMCP
 
 MCP server and CLI that lets coding agents build, run and debug iOS and macOS apps, and drive iOS simulators with taps, swipes, typing, UI snapshots and screenshots.

@@ -1,3 +1,11 @@
+---
+title: "Tsaagan · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-michaelolmos-tsaagan/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Tsaagan
 
 Tsaagan 是面向 AI 智能体、先验证再继续的浏览器控制框架，在进入下一步前验证每次点击和表单动作是否成功。

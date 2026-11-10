@@ -1,3 +1,11 @@
+---
+title: "Selenium Self-Healing MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aiqualitylab-selenium-selfhealing-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Selenium Self-Healing MCP Server
 
 MCP 服务器，可诊断 UI 变化后失效的 Selenium DOM 定位器，并生成可自我修复的替代选择器。

@@ -1,3 +1,11 @@
+---
+title: "Breaking ReAct Agents: Foot-in-the-Door… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-16950/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In
 
 Status: excluded from the active CUA catalog after scope review.

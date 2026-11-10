@@ -1,3 +1,11 @@
+---
+title: "Multi-Round Human-AI Collaboration with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-17646/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-Round Human-AI Collaboration with User-Specified Requirements
 
 Status: excluded from the active CUA catalog after scope review.

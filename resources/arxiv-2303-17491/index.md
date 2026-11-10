@@ -1,3 +1,11 @@
+---
+title: "Language Models can Solve Computer Tasks | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-17491/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Language Models can Solve Computer Tasks
 
 Introduces recursive criticism and improvement prompting for language-model agents performing computer tasks, evaluated on MiniWoB++ with a small number of demonstrations per task.
@@ -26,6 +34,18 @@ Geunwoo Kim, Pierre Baldi, Stephen McAleer
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-17491/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-17491/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_17491,
+  title = {{Language Models can Solve Computer Tasks}},
+  author = {{Geunwoo Kim} and {Pierre Baldi} and {Stephen McAleer}},
+  year = {2023},
+  eprint = {2303.17491v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.17491v3},
+  note = {First published: 2023-03-30; Recorded arXiv version: v3; Recorded version updated: 2023-11-16T20:15:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

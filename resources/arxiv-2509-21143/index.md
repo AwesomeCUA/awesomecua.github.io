@@ -1,3 +1,11 @@
+---
+title: "Automotive-ENV: Benchmarking Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-21143/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments
 
 Bibliographic record for Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junfeng Yan, Biao Wu, Meng Fang, Ling Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-21143/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-21143/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21143,
+  title = {{Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments}},
+  author = {{Junfeng Yan} and {Biao Wu} and {Meng Fang} and {Ling Chen}},
+  year = {2025},
+  eprint = {2509.21143v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21143v3},
+  note = {First published: 2025-09-25; Recorded arXiv version: v3; Recorded version updated: 2026-10-24T04:28:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

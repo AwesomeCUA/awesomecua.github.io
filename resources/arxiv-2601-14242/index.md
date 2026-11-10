@@ -1,3 +1,11 @@
+---
+title: "APEX-Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-14242/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # APEX-Agents
 
 Bibliographic record for APEX-Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bertie Vidgen, Austin Mann, Abby Fennelly, John Wright Stanly, Lucas Rothman, Ma
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-14242/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-14242/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_14242,
+  title = {{APEX-Agents}},
+  author = {{Bertie Vidgen} and {Austin Mann} and {Abby Fennelly} and {John Wright Stanly} and {Lucas Rothman} and {Marco Burstein} and {Julien Benchek} and {David Ostrofsky} and {Anirudh Ravichandran} and {Debnil Sur} and {Neel Venugopal} and {Alannah Hsia} and {Isaac Robinson} and {Calix Huang} and {Olivia Varones} and {Daniyal Khan} and {Michael Haines} and {Austin Bridges} and {Jesse Boyle} and {Koby Twist} and {Zach Richards} and {Chirag Mahapatra} and {Brendan Foody} and {Osvald Nitski}},
+  year = {2026},
+  eprint = {2601.14242v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.14242v3},
+  note = {First published: 2026-01-20; Recorded arXiv version: v3; Recorded version updated: 2026-02-23T17:49:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

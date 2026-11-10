@@ -1,3 +1,11 @@
+---
+title: "BVB: Benchmarking Agentic Video Understanding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15478/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender
 
 Bibliographic record for BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yolo Y. Tang, Daiki Shimada, Jiayue Meng, Jing Bi, Pinxin Liu, Yicheng Wang, Yun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15478/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15478/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15478,
+  title = {{BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender}},
+  author = {{Yolo Y. Tang} and {Daiki Shimada} and {Jiayue Meng} and {Jing Bi} and {Pinxin Liu} and {Yicheng Wang} and {Yunzhong Xiao} and {Zhangyun Tan} and {Zeliang Zhang} and {Chao Huang} and {Susan Liang} and {Qianxiang Shen} and {Luchuan Song} and {Ali Vosoughi} and {Mingqian Feng} and {Melika Filvantorkaman} and {Chenliang Xu}},
+  year = {2026},
+  eprint = {2609.15478v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15478v3},
+  note = {First published: 2026-09-14; Recorded arXiv version: v3; Recorded version updated: 2026-09-26T23:43:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

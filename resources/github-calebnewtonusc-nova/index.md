@@ -1,3 +1,11 @@
+---
+title: "CalebNewtonUSC Nova (Mac Operator) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-calebnewtonusc-nova/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # CalebNewtonUSC Nova (Mac Operator)
 
 Autonomous macOS desktop operator that inspects screen state and drives native Mac applications.

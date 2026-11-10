@@ -1,3 +1,11 @@
+---
+title: "Unlocking the conversion of Web Screenshots… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-09029/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset
 
 Bibliographic record for Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hugo Laurençon, Léo Tronchon, Victor Sanh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-09029/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-09029/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_09029,
+  title = {{Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset}},
+  author = {{Hugo Laurençon} and {Léo Tronchon} and {Victor Sanh}},
+  year = {2024},
+  eprint = {2403.09029v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.09029v1},
+  note = {First published: 2024-03-14; Recorded arXiv version: v1; Recorded version updated: 2024-03-14T01:40:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Any2Poster: Any-Source Poster Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-02915/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Any2Poster: Any-Source Poster Generation Across Modalities and Domains
 
 Bibliographic record for Any2Poster: Any-Source Poster Generation Across Modalities and Domains. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Amogh Vinaykumar, Aiden Li, Suozhi Huang, Shilong Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-02915/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-02915/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_02915,
+  title = {{Any2Poster: Any-Source Poster Generation Across Modalities and Domains}},
+  author = {{Amogh Vinaykumar} and {Aiden Li} and {Suozhi Huang} and {Shilong Liu}},
+  year = {2026},
+  eprint = {2606.02915v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.02915v1},
+  note = {First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T21:41:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

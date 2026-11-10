@@ -1,3 +1,11 @@
+---
+title: "CAPTCHA Solving for Native GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-23559/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training
 
 Introduces ReCAP, a native GUI agent for interactive CAPTCHA challenges, trained with generated interaction trajectories, reasoning traces and self-correction data.
@@ -26,6 +34,18 @@ Yuxi Chen, Haoyu Zhai, Chenkai Wang, Rui Yang, Lingming Zhang, Gang Wang, Huan Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-23559/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-23559/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_23559,
+  title = {{CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training}},
+  author = {{Yuxi Chen} and {Haoyu Zhai} and {Chenkai Wang} and {Rui Yang} and {Lingming Zhang} and {Gang Wang} and {Huan Zhang}},
+  year = {2026},
+  eprint = {2603.23559v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.23559v2},
+  note = {First published: 2026-03-23; Recorded arXiv version: v2; Recorded version updated: 2026-06-29T04:46:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "DAPO: An Open-Source LLM Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-14476/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DAPO: An Open-Source LLM Reinforcement Learning System at Scale
 
 Bibliographic record for DAPO: An Open-Source LLM Reinforcement Learning System at Scale. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Weinan Da
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-14476/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-14476/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_14476,
+  title = {{DAPO: An Open-Source LLM Reinforcement Learning System at Scale}},
+  author = {{Qiying Yu} and {Zheng Zhang} and {Ruofei Zhu} and {Yufeng Yuan} and {Xiaochen Zuo} and {Yu Yue} and {Weinan Dai} and {Tiantian Fan} and {Gaohong Liu} and {Lingjun Liu} and {Xin Liu} and {Haibin Lin} and {Zhiqi Lin} and {Bole Ma} and {Guangming Sheng} and {Yuxuan Tong} and {Chi Zhang} and {Mofan Zhang} and {Wang Zhang} and {Hang Zhu} and {Jinhua Zhu} and {Jiaze Chen} and {Jiangjie Chen} and {Chengyi Wang} and {Hongli Yu} and {Yuxuan Song} and {Xiangpeng Wei} and {Hao Zhou} and {Jingjing Liu} and {Wei-Ying Ma} and {Ya-Qin Zhang} and {Lin Yan} and {Mu Qiao} and {Yonghui Wu} and {Mingxuan Wang}},
+  year = {2025},
+  eprint = {2503.14476v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.14476v2},
+  note = {First published: 2025-03-18; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T01:37:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

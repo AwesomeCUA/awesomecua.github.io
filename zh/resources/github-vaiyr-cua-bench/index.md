@@ -1,3 +1,11 @@
+---
+title: "cua-bench (ERPNext) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vaiyr-cua-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # cua-bench (ERPNext)
 
 cua-bench 将容器化的 ERPNext v15 会计和企业工作流程封装为面向 GUI 智能体的 Harbor RL 与评测环境。

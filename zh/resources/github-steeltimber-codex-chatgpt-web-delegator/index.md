@@ -1,3 +1,11 @@
+---
+title: "Codex ChatGPT Web Delegator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steeltimber-codex-chatgpt-web-delegator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex ChatGPT Web Delegator
 
 Codex 技能，通过 OpenCLI 浏览器自动化将任务委托给 ChatGPT Web，并验证任务执行情况。

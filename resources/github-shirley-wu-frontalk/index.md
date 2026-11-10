@@ -1,3 +1,11 @@
+---
+title: "FronTalk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shirley-wu-frontalk/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # FronTalk
 
 FronTalk benchmarks multi-turn website coding from text and visual instructions. It supplies dialogue tasks and test cases, with a web agent used to evaluate generated sites.

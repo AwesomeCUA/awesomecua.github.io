@@ -1,3 +1,11 @@
+---
+title: "AutoGUI code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zjulihongxin-autogui/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # AutoGUI code
 
 AutoGUI 的功能标注流水线涵盖采集、筛除、依据无障碍树变化标注、核验和生成任务，并提供 Qwen-VL LoRA 微调及基于 lmms-eval 的元素定位评测。

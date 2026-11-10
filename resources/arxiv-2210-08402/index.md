@@ -1,3 +1,11 @@
+---
+title: "LAION-5B: An open large-scale dataset for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-08402/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LAION-5B: An open large-scale dataset for training next generation image-text models
 
 Bibliographic record for LAION-5B: An open large-scale dataset for training next generation image-text models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade Gordon, Ross Wightman,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2210-08402/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2210-08402/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_08402,
+  title = {{LAION-5B: An open large-scale dataset for training next generation image-text models}},
+  author = {{Christoph Schuhmann} and {Romain Beaumont} and {Richard Vencu} and {Cade Gordon} and {Ross Wightman} and {Mehdi Cherti} and {Theo Coombes} and {Aarush Katta} and {Clayton Mullis} and {Mitchell Wortsman} and {Patrick Schramowski} and {Srivatsa Kundurthy} and {Katherine Crowson} and {Ludwig Schmidt} and {Robert Kaczmarczyk} and {Jenia Jitsev}},
+  year = {2022},
+  eprint = {2210.08402v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.08402v1},
+  note = {First published: 2022-10-16; Recorded arXiv version: v1; Recorded version updated: 2022-10-16T00:08:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

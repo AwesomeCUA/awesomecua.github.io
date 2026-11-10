@@ -1,3 +1,11 @@
+---
+title: "chrome-agent-search · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ominiverdi-chrome-agent-search/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # chrome-agent-search
 
 以本地运行为先的 Rust CLI，可操控 Chrome 执行网页搜索并提取整洁的 Markdown 页面内容。

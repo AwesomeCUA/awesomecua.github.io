@@ -1,3 +1,11 @@
+---
+title: "Forged | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sam-siavoshian-forged/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Forged
 
 Self-learning browser automation MCP server that records successful agent trajectories and replays deterministic Playwright steps.

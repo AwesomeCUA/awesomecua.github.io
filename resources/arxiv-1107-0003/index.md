@@ -1,3 +1,11 @@
+---
+title: "Valley-based noise-resistant quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1107-0003/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Valley-based noise-resistant quantum computation using Si quantum dots
 
 Status: excluded from the active CUA catalog after scope review.

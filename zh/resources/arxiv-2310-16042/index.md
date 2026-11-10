@@ -1,3 +1,11 @@
+---
+title: "WebWISE: Web Interface Control and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2310-16042/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebWISE: Web Interface Control and Sequential Exploration with Large Language Models
 
 WebWISE 将 DOM 元素筛选为观察信息，并生成执行点击、滚动和文本输入的短程序；它评估利用给定的 1 个示例，或成功完成零样本 MiniWoB++ 试验时收集的示例进行上下文学习。
@@ -27,6 +35,18 @@ Heyi Tao, Sethuraman T, Michal Shlapentokh-Rothman, Derek Hoiem
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2310-16042/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2310-16042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_16042,
+  title = {{WebWISE: Web Interface Control and Sequential Exploration with Large Language Models}},
+  author = {{Heyi Tao} and {Sethuraman T} and {Michal Shlapentokh-Rothman} and {Derek Hoiem}},
+  year = {2023},
+  eprint = {2310.16042v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.16042v2},
+  note = {First published: 2023-10-24; Recorded arXiv version: v2; Recorded version updated: 2023-10-25T03:54:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

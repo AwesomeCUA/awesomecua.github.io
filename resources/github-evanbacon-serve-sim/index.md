@@ -1,3 +1,11 @@
+---
+title: "serve-sim | AwesomeCUA"
+url: https://awesomecua.com/resources/github-evanbacon-serve-sim/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # serve-sim
 
 A CLI that streams a booted iOS Simulator to a browser preview over MJPEG and WebSocket, with commands and an Agent Skill that let coding agents send taps, gestures, text and button presses.

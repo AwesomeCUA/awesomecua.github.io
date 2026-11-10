@@ -1,3 +1,11 @@
+---
+title: "Grounded Language Agent for Product Search… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-10887/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Grounded Language Agent for Product Search via Intelligent Web Interactions
 
 Introduces GLAINTEL, a Flan-T5-based product-search web agent studied under unsupervised learning, demonstration-based training, and unsupervised domain adaptation. It compares ways to combine demonstrations with reinforcement learning.
@@ -26,6 +34,18 @@ Moghis Fereidouni, Adib Mosharrof, A. B. Siddique
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-10887/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-10887/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_10887,
+  title = {{Grounded Language Agent for Product Search via Intelligent Web Interactions}},
+  author = {{Moghis Fereidouni} and {Adib Mosharrof} and {A. B. Siddique}},
+  year = {2024},
+  eprint = {2404.10887v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.10887v2},
+  note = {First published: 2024-04-16; Recorded arXiv version: v2; Recorded version updated: 2025-01-26T19:07:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

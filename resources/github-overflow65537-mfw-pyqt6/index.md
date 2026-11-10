@@ -1,3 +1,11 @@
+---
+title: "MFW-ChainFlow Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-overflow65537-mfw-pyqt6/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MFW-ChainFlow Assistant
 
 A PySide6 desktop runner for MaaFramework projects that implements the interface v2 protocol, with configuration management, scheduled runs, notifications and custom actions.

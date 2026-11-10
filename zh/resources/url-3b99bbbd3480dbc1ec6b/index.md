@@ -1,3 +1,11 @@
+---
+title: "FinalRun · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3b99bbbd3480dbc1ec6b/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # FinalRun
 
 Android 界面智能体，通过精简界面树、等待画面稳定、反馈操作失败信息，并在定位操作前重新截图来执行任务。

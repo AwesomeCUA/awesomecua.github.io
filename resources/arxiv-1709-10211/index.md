@@ -1,3 +1,11 @@
+---
+title: "Reservoir Computing using Stochastic p-Bits | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1709-10211/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reservoir Computing using Stochastic p-Bits
 
 Status: excluded from the active CUA catalog after scope review.

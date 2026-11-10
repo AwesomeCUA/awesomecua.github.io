@@ -1,3 +1,11 @@
+---
+title: "Known By Their Actions: Fingerprinting LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14786/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces
 
 A study shows that websites can infer the model behind a browser agent from passively recorded UI actions and timing traces across web tasks.
@@ -26,6 +34,18 @@ William Lugoloobi, Samuelle Marro, Jabez Magomere, Joss Wright, Chris Russell
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-14786/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-14786/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14786,
+  title = {{Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces}},
+  author = {{William Lugoloobi} and {Samuelle Marro} and {Jabez Magomere} and {Joss Wright} and {Chris Russell}},
+  year = {2026},
+  eprint = {2605.14786v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14786v1},
+  note = {First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T12:55:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

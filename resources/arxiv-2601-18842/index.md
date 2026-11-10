@@ -1,3 +1,11 @@
+---
+title: "GUIGuard-Bench: Toward a General Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-18842/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUIGuard-Bench: Toward a General Evaluation for Privacy-Preserving GUI Agents
 
 Introduces GUIGuard-Bench, which annotates private regions in GUI trajectories with categories, risk levels, and relevance to the user’s task. It evaluates privacy recognition and the effect of screenshot protection on offline planning and task utility.
@@ -26,6 +34,18 @@ Yanxi Wang, Zhiling Zhang, Wenbo Zhou, Weiming Zhang, Jie Zhang, Qiannan Zhu, Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-18842/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-18842/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_18842,
+  title = {{GUIGuard-Bench: Toward a General Evaluation for Privacy-Preserving GUI Agents}},
+  author = {{Yanxi Wang} and {Zhiling Zhang} and {Wenbo Zhou} and {Weiming Zhang} and {Jie Zhang} and {Qiannan Zhu} and {Yu Shi} and {Shuxin Zheng} and {Jiyan He}},
+  year = {2026},
+  eprint = {2601.18842v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.18842v3},
+  note = {First published: 2026-01-26; Recorded arXiv version: v3; Recorded version updated: 2026-05-13T07:11:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

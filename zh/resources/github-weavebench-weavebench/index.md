@@ -1,3 +1,11 @@
+---
+title: "WeaveBench (github.com/weavebench/Weave… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-weavebench-weavebench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # WeaveBench
 
 WeaveBench 通过结合 GUI、网页和程序化工具接口的真实世界长程工作流程评测计算机使用智能体。

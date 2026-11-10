@@ -1,3 +1,11 @@
+---
+title: "Plip OSS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hussainn7-plip-oss/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Plip OSS
 
 Open-source macOS notch assistant and runtime for grounded, model-agnostic computer-use agents with verifiable action previews.

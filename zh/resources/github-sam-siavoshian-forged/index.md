@@ -1,3 +1,11 @@
+---
+title: "Forged · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sam-siavoshian-forged/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Forged
 
 自学习浏览器自动化 MCP 服务器，记录智能体成功完成任务的轨迹，并重放确定性的 Playwright 步骤。

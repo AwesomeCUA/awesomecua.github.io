@@ -1,3 +1,11 @@
+---
+title: "PreAct: Computer-Using Agents that Get… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-17929/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # PreAct: Computer-Using Agents that Get Faster on Repeated Tasks
 
 PreAct 将成功的屏幕交互过程编译成带防护条件的状态机程序，用于重复任务。程序存储前会从初始状态验证；回放时若屏幕不符合预期，则交还智能体控制权，并在移动端、桌面端和网页上测试。
@@ -27,6 +35,18 @@ Bojie Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-17929/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-17929/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_17929,
+  title = {{PreAct: Computer-Using Agents that Get Faster on Repeated Tasks}},
+  author = {{Bojie Li}},
+  year = {2026},
+  eprint = {2606.17929v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.17929v1},
+  note = {First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T13:40:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

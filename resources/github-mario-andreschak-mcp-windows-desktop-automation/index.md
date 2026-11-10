@@ -1,3 +1,11 @@
+---
+title: "MCP Windows Desktop Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mario-andreschak-mcp-windows-desktop-automation/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP Windows Desktop Automation
 
 MCP Windows Desktop Automation is a TypeScript Model Context Protocol server exposing 50 AutoIt desktop control, window, and screenshot tools.

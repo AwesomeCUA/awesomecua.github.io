@@ -1,3 +1,11 @@
+---
+title: "FerrisGrid-CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-brunov21-ferrisgrid-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # FerrisGrid-CLI
 
 FerrisGrid-CLI 使用 Rust 捕获截图、将 UI 区域映射为确定性的网格坐标，并执行受约束的桌面动作。

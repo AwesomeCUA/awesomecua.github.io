@@ -1,3 +1,11 @@
+---
+title: "Intelligence per Watt: Measuring Intelligence… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-07885/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
 
 Status: excluded from the active CUA catalog after scope review.

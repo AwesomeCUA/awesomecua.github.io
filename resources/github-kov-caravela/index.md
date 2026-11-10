@@ -1,3 +1,11 @@
+---
+title: "caravela | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kov-caravela/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # caravela
 
 Programmatic browser-use CLI and library driving Chromium over CDP inside an optional managed Weston Wayland compositor.

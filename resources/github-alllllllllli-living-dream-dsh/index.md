@@ -1,3 +1,11 @@
+---
+title: "Living Dream DSH | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alllllllllli-living-dream-dsh/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Living Dream DSH
 
 DeepSeek Harness desktop configuration bundle integrating 8+ MCP servers for browser, filesystem, and desktop automation.

@@ -1,3 +1,11 @@
+---
+title: "Workflow-Guided Exploration research code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-stanfordnlp-wge/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Workflow-Guided Exploration research code
 
 通过演示归纳的工作流程约束探索，以学习浏览器控制策略的研究代码，包含基于 Selenium 的 MiniWoB 环境和实验框架。

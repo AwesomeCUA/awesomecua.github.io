@@ -1,3 +1,11 @@
+---
+title: "A Survey of State of the Art Large Vision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-02189/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges
 
 Bibliographic record for A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zongxia Li, Xiyang Wu, Hongyang Du, Fuxiao Liu, Huy Nghiem, Guangyao Shi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-02189/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-02189/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_02189,
+  title = {{A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges}},
+  author = {{Zongxia Li} and {Xiyang Wu} and {Hongyang Du} and {Fuxiao Liu} and {Huy Nghiem} and {Guangyao Shi}},
+  year = {2025},
+  eprint = {2501.02189v7},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.02189v7},
+  note = {First published: 2025-01-04; Recorded arXiv version: v7; Recorded version updated: 2026-08-22T00:25:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

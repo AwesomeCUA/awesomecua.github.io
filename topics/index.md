@@ -1,3 +1,11 @@
+---
+title: "Computer-use research topics | AwesomeCUA"
+url: https://awesomecua.com/topics/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Computer-use research topics
 
 HTML page: https://awesomecua.com/topics/

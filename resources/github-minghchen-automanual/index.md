@@ -1,3 +1,11 @@
+---
+title: "AutoManual | AwesomeCUA"
+url: https://awesomecua.com/resources/github-minghchen-automanual/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoManual
 
 AutoManual enables LLM agents to construct and iteratively refine structured instruction manuals through online environmental interaction.

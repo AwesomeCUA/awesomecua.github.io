@@ -1,3 +1,11 @@
+---
+title: "Evaluating LLMs on Sequential API Call… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-09481/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Evaluating LLMs on Sequential API Call Through Automated Test Generation
 
 Status: excluded from the active CUA catalog after scope review.

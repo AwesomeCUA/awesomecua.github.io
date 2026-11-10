@@ -1,3 +1,11 @@
+---
+title: "pyside6-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-com55-pyside6-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pyside6-mcp
 
 Playwright-style Model Context Protocol server that lets AI agents inspect, control, and debug Qt/PySide6 desktop GUI applications.

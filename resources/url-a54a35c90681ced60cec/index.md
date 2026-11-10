@@ -1,3 +1,11 @@
+---
+title: "OpenJev-Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a54a35c90681ced60cec/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # OpenJev-Data
 
 OpenJev-Data provides labeled browser steps for training models to choose a web agent's next operation and target element, plus a fixed test set for endpoint evaluation.

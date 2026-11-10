@@ -1,3 +1,11 @@
+---
+title: "Learning to Inject: Automated Prompt… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-05746/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning to Inject: Automated Prompt Injection via Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Automated Membership Inference Attacks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-19375/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Automated Membership Inference Attacks (AutoMIA): Discovering MIA Signal Computations using LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

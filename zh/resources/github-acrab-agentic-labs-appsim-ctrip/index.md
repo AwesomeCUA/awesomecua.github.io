@@ -1,3 +1,11 @@
+---
+title: "Ctrip Android App · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-ctrip/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Ctrip Android App
 
 一款用于测试人工智能交互的 Android 旅行应用复刻版，包含典型预订界面、固定的本地数据，以及用于检查任务结果的信号。

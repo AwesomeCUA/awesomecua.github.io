@@ -1,3 +1,11 @@
+---
+title: "Gandalf the Red: Adaptive Security for LLMs | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-07927/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Gandalf the Red: Adaptive Security for LLMs
 
 Status: excluded from the active CUA catalog after scope review.

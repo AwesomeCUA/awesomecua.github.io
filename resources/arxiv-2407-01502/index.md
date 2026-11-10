@@ -1,3 +1,11 @@
+---
+title: "AI Agents That Matter | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-01502/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AI Agents That Matter
 
 Bibliographic record for AI Agents That Matter. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sayash Kapoor, Benedikt Stroebl, Zachary S. Siegel, Nitya Nadgir, Arvind Narayan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-01502/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-01502/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_01502,
+  title = {{AI Agents That Matter}},
+  author = {{Sayash Kapoor} and {Benedikt Stroebl} and {Zachary S. Siegel} and {Nitya Nadgir} and {Arvind Narayanan}},
+  year = {2024},
+  eprint = {2407.01502v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.01502v1},
+  note = {First published: 2024-07-01; Recorded arXiv version: v1; Recorded version updated: 2024-07-01T17:48:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

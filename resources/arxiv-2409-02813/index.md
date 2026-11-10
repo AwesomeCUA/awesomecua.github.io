@@ -1,3 +1,11 @@
+---
+title: "MMMU-Pro: A More Robust Multi-discipline… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-02813/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark
 
 Status: excluded from the active CUA catalog after scope review.

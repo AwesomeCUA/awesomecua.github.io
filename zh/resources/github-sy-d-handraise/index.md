@@ -1,3 +1,11 @@
+---
+title: "handraise · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sy-d-handraise/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # handraise
 
 Solari 浏览器智能体遇到 CAPTCHA、2FA 或模糊情况时使用的人工升级与实时会话交接层。

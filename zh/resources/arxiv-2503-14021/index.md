@@ -1,3 +1,11 @@
+---
+title: "MP-GUI: Modality Perception with MLLMs… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-14021/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # MP-GUI: Modality Perception with MLLMs for GUI Understanding
 
 结合专门处理图形、文本和空间信息的感知组件与数据收集流程，改进 GUI 理解。
@@ -27,6 +35,18 @@ Ziwei Wang, Weizhi Chen, Leyang Yang, Sheng Zhou, Shengchu Zhao, Hanbei Zhan, Ji
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-14021/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-14021/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_14021,
+  title = {{MP-GUI: Modality Perception with MLLMs for GUI Understanding}},
+  author = {{Ziwei Wang} and {Weizhi Chen} and {Leyang Yang} and {Sheng Zhou} and {Shengchu Zhao} and {Hanbei Zhan} and {Jiongchao Jin} and {Liangcheng Li} and {Zirui Shao} and {Jiajun Bu}},
+  year = {2025},
+  eprint = {2503.14021v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.14021v1},
+  note = {First published: 2025-03-18; Recorded arXiv version: v1; Recorded version updated: 2025-03-18T08:32:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

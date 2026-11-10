@@ -1,3 +1,11 @@
+---
+title: "Adaptive Milestone Reward for GUI Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-11524/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Adaptive Milestone Reward for GUI Agents
 
 ADMIRE 从成功的 GUI 探索中提取里程碑，提供自适应的中间奖励；它对成功与失败轨迹采用不同的贡献分配方式，并在 AndroidWorld 上评估训练，另研究向网页和具身场景的迁移。
@@ -27,6 +35,18 @@ Congmin Zheng, Xiaoyun Mo, Xinbei Ma, Qiqiang Lin, Yin Zhao, Jiachen Zhu, Xingyu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-11524/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-11524/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11524,
+  title = {{Adaptive Milestone Reward for GUI Agents}},
+  author = {{Congmin Zheng} and {Xiaoyun Mo} and {Xinbei Ma} and {Qiqiang Lin} and {Yin Zhao} and {Jiachen Zhu} and {Xingyu Lou} and {Jun Wang} and {Zhaoxiang Wang} and {Weiwen Liu} and {Zhuosheng Zhang} and {Yong Yu} and {Weinan Zhang}},
+  year = {2026},
+  eprint = {2602.11524v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11524v1},
+  note = {First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T03:31:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

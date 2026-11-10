@@ -1,3 +1,11 @@
+---
+title: "MyInstagram · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-instagram/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # MyInstagram
 
 MyInstagram 是一款 Android 仿真社交应用，提供可交互页面、模拟数据和状态字段，用于检查 GUI 智能体的任务结果。

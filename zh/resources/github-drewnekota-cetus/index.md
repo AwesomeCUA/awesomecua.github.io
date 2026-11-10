@@ -1,3 +1,11 @@
+---
+title: "Cetus · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-drewnekota-cetus/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Cetus
 
 用于运行和审阅编码智能体运行环境的 macOS 客户端；内置运行环境含通过带编号的 Accessibility 元素操作前台应用的计算机使用辅助工具，并支持 Chrome 控制。

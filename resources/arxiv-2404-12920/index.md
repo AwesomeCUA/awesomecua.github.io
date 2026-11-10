@@ -1,3 +1,11 @@
+---
+title: "Zero-Shot Medical Phrase Grounding with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-12920/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models
 
 Status: excluded from the active CUA catalog after scope review.

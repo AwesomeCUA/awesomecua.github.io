@@ -1,3 +1,11 @@
+---
+title: "dom-drift-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # dom-drift-bench
 
 dom-drift-bench evaluates four web extraction and grounding strategies across ten categories of structural DOM drift.

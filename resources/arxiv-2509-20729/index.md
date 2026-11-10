@@ -1,3 +1,11 @@
+---
+title: "Robust, Observable, and Evolvable Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-20729/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent
 
 Presents an agent-engineering framework combining runtime goal clarification, an observable component architecture and evolving execution memory. The Fairy mobile GUI agent evaluates these mechanisms on ambiguous tasks and through controlled and user studies.
@@ -26,6 +34,18 @@ Jiazheng Sun, Ruimeng Yang, Xu Han, Jiayang Niu, Mingxuan Li, Te Yang, Yongyong 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-20729/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-20729/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_20729,
+  title = {{Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent}},
+  author = {{Jiazheng Sun} and {Ruimeng Yang} and {Xu Han} and {Jiayang Niu} and {Mingxuan Li} and {Te Yang} and {Yongyong Lu} and {Xin Peng}},
+  year = {2025},
+  eprint = {2509.20729v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.20729v2},
+  note = {First published: 2025-09-25; Recorded arXiv version: v2; Recorded version updated: 2025-12-01T08:01:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

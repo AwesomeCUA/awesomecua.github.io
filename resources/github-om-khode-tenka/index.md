@@ -1,3 +1,11 @@
+---
+title: "TENKA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-om-khode-tenka/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # TENKA
 
 TENKA is a Windows voice agent that carries out browser and desktop tasks through browser control, native UI actions and a vision fallback, with stored conversational memory.

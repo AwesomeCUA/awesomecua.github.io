@@ -1,3 +1,11 @@
+---
+title: "Muse Spark 1.1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f8a956094e526a92caf3/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Muse Spark 1.1
 
 Meta Superintelligence Labs multimodal reasoning model for agentic work, trained to choose between writing scripts and clicking in computer-use workflows that span several applications.

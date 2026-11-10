@@ -1,3 +1,11 @@
+---
+title: "displayoverride-mac | AwesomeCUA"
+url: https://awesomecua.com/resources/github-domdomegg-displayoverride-mac/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # displayoverride-mac
 
 A macOS menu bar app that creates a virtual display at 4K, 1080p or 720p for mirroring, so computer-use models see the standard resolutions they were trained on.

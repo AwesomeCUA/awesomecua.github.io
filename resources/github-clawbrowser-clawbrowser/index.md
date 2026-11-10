@@ -1,3 +1,11 @@
+---
+title: "Clawbrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clawbrowser-clawbrowser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Clawbrowser
 
 Clawbrowser is an agent-native managed Chromium runtime with fingerprint rotation, proxy routing, and persistent session state.

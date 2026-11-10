@@ -1,3 +1,11 @@
+---
+title: "Midscene.js · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-web-infra-dev-midscene/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # Midscene.js
 
 用于网页、移动端和桌面界面的视觉自动化工具包。

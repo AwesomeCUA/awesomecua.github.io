@@ -1,3 +1,11 @@
+---
+title: "Accelerating eigenvector and pseudospectra… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1607-01477/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Accelerating eigenvector and pseudospectra computation using blocked multi-shift triangular solves
 
 Status: excluded from the active CUA catalog after scope review.

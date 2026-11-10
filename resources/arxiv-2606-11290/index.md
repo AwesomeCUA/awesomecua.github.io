@@ -1,3 +1,11 @@
+---
+title: "FlowBank: Query-Adaptive Agentic Workflows… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-11290/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse
 
 Status: excluded from the active CUA catalog after scope review.

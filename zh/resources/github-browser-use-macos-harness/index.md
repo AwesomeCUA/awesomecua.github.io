@@ -1,3 +1,11 @@
+---
+title: "Browser Use macOS Harness · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-macos-harness/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Browser Use macOS Harness
 
 Browser Use 官方测试框架，用于创建和操控隔离的 macOS 虚拟机及桌面会话。

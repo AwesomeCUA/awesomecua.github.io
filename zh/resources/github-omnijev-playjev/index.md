@@ -1,3 +1,11 @@
+---
+title: "PlayJev · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-omnijev-playjev/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # PlayJev
 
 一个根据渲染画面选择操作的浏览器游戏智能体。其仓库提供游戏环境、演示，以及训练和评估脚本。

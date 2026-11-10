@@ -1,3 +1,11 @@
+---
+title: "WebSTAR: Scalable Data Synthesis for Computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-10962/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering
 
 Introduces a pipeline that filters individual steps from noisy computer-agent rollouts and augments them with reasoning for training. WebSTAR and WebSCORE support GUI-policy supervision and a distilled process reward model, StepRM.
@@ -26,6 +34,18 @@ Yifei He, Pranit Chawla, Yaser Souri, Subhojit Som, Xia Song
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-10962/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-10962/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_10962,
+  title = {{WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering}},
+  author = {{Yifei He} and {Pranit Chawla} and {Yaser Souri} and {Subhojit Som} and {Xia Song}},
+  year = {2025},
+  eprint = {2512.10962v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.10962v3},
+  note = {First published: 2025-11-22; Recorded arXiv version: v3; Recorded version updated: 2026-02-04T19:36:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Laya-Android | AwesomeCUA"
+url: https://awesomecua.com/resources/github-byun11-laya-android/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # Laya-Android
 
 Laya-Android is a compact 322M on-device decision model for Android GUI action selection.

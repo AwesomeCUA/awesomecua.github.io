@@ -1,3 +1,11 @@
+---
+title: "SkillWeaver: Web Agents can Self-Improve… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-07079/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills
 
 SkillWeaver 探索网站、练习交互，并将所得经验转化为可复用、可调用的技能 API 库；在 WebArena 和实时网站上的实验考察技能改进、组合及从较强智能体向较弱智能体迁移。
@@ -27,6 +35,18 @@ Boyuan Zheng, Michael Y. Fatemi, Xiaolong Jin, Zora Zhiruo Wang, Apurva Gandhi, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-07079/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-07079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_07079,
+  title = {{SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills}},
+  author = {{Boyuan Zheng} and {Michael Y. Fatemi} and {Xiaolong Jin} and {Zora Zhiruo Wang} and {Apurva Gandhi} and {Yueqi Song} and {Yu Gu} and {Jayanth Srinivasa} and {Gaowen Liu} and {Graham Neubig} and {Yu Su}},
+  year = {2025},
+  eprint = {2504.07079v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.07079v1},
+  note = {First published: 2025-04-09; Recorded arXiv version: v1; Recorded version updated: 2025-04-09T17:51:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

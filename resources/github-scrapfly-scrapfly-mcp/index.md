@@ -1,3 +1,11 @@
+---
+title: "Scrapfly MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scrapfly-scrapfly-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Scrapfly MCP Server
 
 Official Scrapfly Model Context Protocol server providing cloud anti-bot browser rendering and structured web extraction for AI agents.

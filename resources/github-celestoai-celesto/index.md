@@ -1,3 +1,11 @@
+---
+title: "Celesto | AwesomeCUA"
+url: https://awesomecua.com/resources/github-celestoai-celesto/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Celesto
 
 Celesto provisions secure, persistent virtual desktop computers and browser sandboxes for AI agents.

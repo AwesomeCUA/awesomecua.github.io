@@ -1,3 +1,11 @@
+---
+title: "Secure-CUA: Controlling Untrusted… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-09469/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Secure-CUA: Controlling Untrusted Influence in Computer-Use Agents
 
 提出 Secure-CUA，在读取不可信页面内容前确定每次操作的事务，并将内容查询与 GUI 目标选择分开。论文形式化描述其防护假设，并在 WebArena 上评估正常任务的执行效果。
@@ -27,6 +35,18 @@ Sarthak Choudhary, Mihai Christodorescu, Ashish Hooda, Somesh Jha, Tongxin Li, D
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-09469/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-09469/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09469,
+  title = {{Secure-CUA: Controlling Untrusted Influence in Computer-Use Agents}},
+  author = {{Sarthak Choudhary} and {Mihai Christodorescu} and {Ashish Hooda} and {Somesh Jha} and {Tongxin Li} and {Damien Octeau}},
+  year = {2026},
+  eprint = {2610.09469v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09469v1},
+  note = {First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T05:24:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

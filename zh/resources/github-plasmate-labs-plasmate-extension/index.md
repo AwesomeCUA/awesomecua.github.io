@@ -1,3 +1,11 @@
+---
+title: "Plasmate Cookie Export · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-extension/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Plasmate Cookie Export
 
 这款 Chrome 扩展将用户已登录浏览器会话中的 Cookie 传给 Plasmate 的本地桥接服务，让浏览器智能体访问需登录的网站。

@@ -1,3 +1,11 @@
+---
+title: "Codex Minecraft Gameplay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wz1119-codex-minecraft-gameplay/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Codex Minecraft Gameplay
 
 Codex Minecraft Gameplay 提供 Windows 输入控制与截图，让计算机操作智能体通过 Minecraft 的可见界面行动。

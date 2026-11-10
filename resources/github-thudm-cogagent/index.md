@@ -1,3 +1,11 @@
+---
+title: "CogAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-cogagent/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # CogAgent
 
 Visual language model for GUI understanding and interaction.

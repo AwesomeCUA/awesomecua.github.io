@@ -1,3 +1,11 @@
+---
+title: "laya-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # laya-browser
 
 Non-generative browser-agent policy fine-tuned from the 322M laya encoder: one forward pass over page text and the interactive-element list picks the next operation and its target element.

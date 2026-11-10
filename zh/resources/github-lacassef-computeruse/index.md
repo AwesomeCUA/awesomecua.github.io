@@ -1,3 +1,11 @@
+---
+title: "cua_agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lacassef-computeruse/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # cua_agent
 
 cua_agent 是模块化的 Python 计算机使用框架，具备与操作系统无关的规划、语义化 UI 定位，以及经过策略检查的桌面和浏览器驱动。

@@ -1,3 +1,11 @@
+---
+title: "llm-browser-agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-justifysiddh-llm-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # llm-browser-agent
 
 具备自我修复能力的浏览器自动化框架，使用 LLM 引导的语义元素解析替代脆弱的 CSS 选择器。

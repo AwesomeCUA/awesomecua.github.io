@@ -1,3 +1,11 @@
+---
+title: "AppSim-Eleme | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-eleme/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # AppSim-Eleme
 
 An Android food-delivery app built as a local test environment for AI interaction. It supplies shopping workflows, predefined tasks, action logging and evaluation scripts.

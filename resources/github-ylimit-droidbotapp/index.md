@@ -1,3 +1,11 @@
+---
+title: "droidbotApp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ylimit-droidbotapp/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # droidbotApp
 
 Android companion app for the DroidBot test input generator that registers an input method service; DroidBot sends text by broadcast intent over adb and the service enters it into the focused text field.

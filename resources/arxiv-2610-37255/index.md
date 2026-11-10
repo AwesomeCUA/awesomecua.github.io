@@ -1,3 +1,11 @@
+---
+title: "Your Policy Is Secretly a Harness: The… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37255/
+updated: 2026-10-29
+type: paper
+lang: en
+---
+
 # Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces
 
 Bibliographic record for Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jian Mu, Ruibo Shen, Yao Shu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37255/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37255/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37255,
+  title = {{Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces}},
+  author = {{Jian Mu} and {Ruibo Shen} and {Yao Shu}},
+  year = {2026},
+  eprint = {2610.37255v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37255v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T13:52:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

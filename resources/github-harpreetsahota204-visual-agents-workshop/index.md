@@ -1,3 +1,11 @@
+---
+title: "Visual Agents Workshop Series | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Visual Agents Workshop Series
 
 Visual Agents Workshop Series teaches GUI agent research, dataset preparation, and model fine-tuning through three sessions with linked notebooks and resources.

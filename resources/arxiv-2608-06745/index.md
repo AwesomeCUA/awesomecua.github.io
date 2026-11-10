@@ -1,3 +1,11 @@
+---
+title: "MemPrism: Task-Conditioned Relational Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-06745/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents
 
 Introduces MemPrism, which records prior interactions and builds task-conditioned relational memory views for decisions in long-horizon web-agent tasks.
@@ -26,6 +34,18 @@ Bingfan Zeng, Zhisheng Chen, Zhengwei Xie, Bangde Cao, Yuxuan Li, Jinhan Li, Zhe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-06745/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-06745/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_06745,
+  title = {{MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents}},
+  author = {{Bingfan Zeng} and {Zhisheng Chen} and {Zhengwei Xie} and {Bangde Cao} and {Yuxuan Li} and {Jinhan Li} and {Zheng Lu} and {Xiangchen Guan} and {Zikai Xiao} and {Rui Qian} and {Jingwei Song}},
+  year = {2026},
+  eprint = {2608.06745v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.06745v2},
+  note = {First published: 2026-08-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-27T10:39:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

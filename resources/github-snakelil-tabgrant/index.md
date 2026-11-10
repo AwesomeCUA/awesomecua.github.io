@@ -1,3 +1,11 @@
+---
+title: "TabGrant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-snakelil-tabgrant/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TabGrant
 
 User-granted, local-first capability broker that delegates scoped browser tab permissions to AI agents.

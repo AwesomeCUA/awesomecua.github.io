@@ -1,3 +1,11 @@
+---
+title: "ahk-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anomalous3-ahk-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ahk-mcp
 
 ahk-mcp 为 AI 智能体提供 MCP 工具，用于读取 Windows 无障碍树并操作桌面控件，也可通过开发者工具协议控制浏览器。

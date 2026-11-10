@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-30B-A3B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7fafb31cac59ad3a7e03/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-30B-A3B-Instruct
 
 A Qwen3-VL vision-language checkpoint whose model card describes PC and mobile GUI operation, including element recognition, tool use and task completion.

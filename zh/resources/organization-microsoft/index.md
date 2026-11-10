@@ -1,3 +1,11 @@
+---
+title: "Microsoft · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-microsoft/
+updated: 2026-11-09
+type: company
+lang: zh-CN
+---
+
 # Microsoft
 
 与 Microsoft 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

@@ -1,3 +1,11 @@
+---
+title: "Compress2Focus (CCPO) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hithink-research-ccpo/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Compress2Focus (CCPO)
 
 Compress2Focus（CCPO）为视觉语言 GUI 智能体的多轮策略优化实现坐标压缩。

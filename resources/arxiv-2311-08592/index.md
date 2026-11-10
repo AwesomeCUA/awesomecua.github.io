@@ -1,3 +1,11 @@
+---
+title: "AART: AI-Assisted Red-Teaming with Diverse… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-08592/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications
 
 Bibliographic record for AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bhaktipriya Radharapu, Kevin Robinson, Lora Aroyo, Preethi Lahoti
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-08592/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-08592/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_08592,
+  title = {{AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications}},
+  author = {{Bhaktipriya Radharapu} and {Kevin Robinson} and {Lora Aroyo} and {Preethi Lahoti}},
+  year = {2023},
+  eprint = {2311.08592v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.08592v2},
+  note = {First published: 2023-11-14; Recorded arXiv version: v2; Recorded version updated: 2023-11-29T23:18:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "PeekabooWin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-felixkruger-peekaboowin/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # PeekabooWin
 
 A Windows desktop automation tool exposes screen capture, OCR, indexed accessibility controls, and input actions through a sidecar interface, CLI, and MCP server.

@@ -1,3 +1,11 @@
+---
+title: "AgentBoard · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hkust-nlp-agentboard/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # AgentBoard
 
 AgentBoard 在包括网页交互在内的多种任务中评估多轮智能体，并提供进度指标和可视化结果，用于分析其运行过程。

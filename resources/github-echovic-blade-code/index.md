@@ -1,3 +1,11 @@
+---
+title: "Blade Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-echovic-blade-code/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Blade Code
 
 Blade Code is a coding agent with native Chromium automation, ARIA page snapshots, and browser actions available through its agent workflow.

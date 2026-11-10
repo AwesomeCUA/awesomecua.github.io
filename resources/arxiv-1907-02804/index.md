@@ -1,3 +1,11 @@
+---
+title: "Demonstrating Delay-based Reservoir Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1907-02804/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Demonstrating Delay-based Reservoir Computing Using a Compact Photonic Integrated Chip
 
 Status: excluded from the active CUA catalog after scope review.

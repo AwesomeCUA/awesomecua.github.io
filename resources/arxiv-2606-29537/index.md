@@ -1,3 +1,11 @@
+---
+title: "OSWorld 2.0: Benchmarking Computer Use Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-29537/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
 
 Introduces extended computer-use workflows with realistic artifacts, changing information, hidden state, and partial-progress and safety assessments.
@@ -26,6 +34,18 @@ Mengqi Yuan, Zilong Zhou, Xinzhuang Xiong, Weiming Wu, Jiayang Sun, Jiamin Song,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-29537/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-29537/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_29537,
+  title = {{OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks}},
+  author = {{Mengqi Yuan} and {Zilong Zhou} and {Xinzhuang Xiong} and {Weiming Wu} and {Jiayang Sun} and {Jiamin Song} and {Kaiqian Cui} and {Bowen Wang} and {Haoyuan Wu} and {Yitong Li} and {Dunjie Lu} and {Haikong Lu} and {Qi Zhen} and {Xinyuan Wang} and {Jiaqi Deng} and {Yuhao Yang} and {Cheng Chen} and {Boyuan Zheng} and {Alex Su} and {Xiao Yu} and {Hao Zou} and {Saaket Agashe} and {Xing Han Lu} and {Manpreet Kaur} and {Zhengyang Qi} and {Vincent Sunn Chen} and {Frederic Sala} and {Dayiheng Liu} and {Junyang Lin} and {Zhou Yu} and {Yu Su} and {Siva Reddy} and {Xin Eric Wang} and {Peng Qi} and {Tianbao Xie} and {Tao Yu}},
+  year = {2026},
+  eprint = {2606.29537v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.29537v2},
+  note = {First published: 2026-06-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-13T10:30:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

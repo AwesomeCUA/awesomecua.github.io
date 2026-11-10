@@ -1,3 +1,11 @@
+---
+title: "Self Operating Computer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-othersideai-self-operating-computer/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Self Operating Computer
 
 Framework, released in November 2023, in which a multimodal model views the screen and picks mouse and keyboard actions toward a goal, with backends such as GPT-4o, Claude 3, Gemini and LLaVA.

@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Base 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-82a30f45d9e855f423c7/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # OS-Atlas Base 7B
 
 OS-Atlas 基础检查点由 Qwen2-VL-7B-Instruct 微调而来，在 Transformers 中采用标准 Qwen2-VL 架构，约有 8.3B 个 BF16 参数。

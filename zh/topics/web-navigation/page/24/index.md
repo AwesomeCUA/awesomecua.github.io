@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 24 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/24/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 24 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/24/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [OpenTeam](https://awesomecua.com/zh/resources/github-raghavpillai-openteam/)
-- [OpenTiny NEXT-SDKs (WebMCP)](https://awesomecua.com/zh/resources/github-opentiny-webmcp-sdk/)
 - [OpenWebAgent](https://awesomecua.com/zh/resources/github-thudm-openwebagent/)
 - [OpenWebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-openwebvoyager/)
 - [Opera Neon](https://awesomecua.com/zh/resources/url-94d58f25e6fd4a2076ab/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/24/
 - [pixelpi](https://awesomecua.com/zh/resources/github-josharsh-pixelpi/)
 - [Plan-and-Act](https://awesomecua.com/zh/resources/github-squeezeailab-plan-and-act/)
 - [Plasmate](https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate/)
+- [Plasmate Skill for OpenClaw](https://awesomecua.com/zh/resources/github-plasmate-labs-skill-openclaw/)
+- [plasmate-mcp](https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-mcp/)

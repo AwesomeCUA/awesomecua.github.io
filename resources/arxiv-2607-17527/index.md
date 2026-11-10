@@ -1,3 +1,11 @@
+---
+title: "Sidekick: Designing Communication for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-17527/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents
 
 Introduces Sidekick, a communication interface that uses ambient status cues, multimodal action summaries, and visual and verbal explanations of reasoning to help people monitor computer-use agents. A user study examines progress awareness, error traceability, and multitasking across background and foreground interaction.
@@ -26,6 +34,18 @@ Ruei-Che Chang, Wenqian Xu, Dingzeyu Li, Bryan Wang, Anhong Guo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-17527/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-17527/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_17527,
+  title = {{Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents}},
+  author = {{Ruei-Che Chang} and {Wenqian Xu} and {Dingzeyu Li} and {Bryan Wang} and {Anhong Guo}},
+  year = {2026},
+  eprint = {2607.17527v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.17527v1},
+  note = {First published: 2026-07-20; Recorded arXiv version: v1; Recorded version updated: 2026-07-20T04:03:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

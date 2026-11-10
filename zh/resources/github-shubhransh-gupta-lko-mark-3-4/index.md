@@ -1,3 +1,11 @@
+---
+title: "LKO Mark 3.4 · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shubhransh-gupta-lko-mark-3-4/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # LKO Mark 3.4
 
 自主 macOS 桌面助手，具备语音交互、屏幕视觉感知以及原生 AppleScript 和系统控制能力。

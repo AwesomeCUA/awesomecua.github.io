@@ -1,3 +1,11 @@
+---
+title: "Holo4-35B-A3B-FP8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f3a7296977a39c37f693/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Holo4-35B-A3B-FP8
 
 An FP8 vision-language checkpoint for computer use. With an agent harness, it processes screenshots and tool results to request clicks, typing, code and tool calls.

@@ -1,3 +1,11 @@
+---
+title: "cfbrowse · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sp42k-cfbrowse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cfbrowse
 
 Go Chrome DevTools Protocol 驱动，可在无头模式下为网页智能体应对交互式反机器人挑战。

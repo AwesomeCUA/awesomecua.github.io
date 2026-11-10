@@ -1,3 +1,11 @@
+---
+title: "iOSWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ljang0-iosworld/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # iOSWorld
 
 iOSWorld 是原生 iPhone 模拟器基准，包含共享用户数据、应用工作流程、智能体运行器和基于评分细则的评分。

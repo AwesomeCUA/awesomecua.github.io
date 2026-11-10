@@ -1,3 +1,11 @@
+---
+title: "MindAct_CandidateGeneration_deberta-v3-base | AwesomeCUA"
+url: https://awesomecua.com/resources/url-43f98379902167a5f9f3/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # MindAct_CandidateGeneration_deberta-v3-base
 
 Encoder-only DeBERTa-v3-base model from MindAct that scores task query and page element pairs, so the top 50 candidates on a Mind2Web page go on to the action prediction model.

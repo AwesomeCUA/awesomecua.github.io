@@ -1,3 +1,11 @@
+---
+title: "DrissionPage · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-g1879-drissionpage/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # DrissionPage
 
 一款 Python 网页自动化工具，将浏览器控制与网络请求结合起来，用于编写网站交互脚本。

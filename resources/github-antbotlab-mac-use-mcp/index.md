@@ -1,3 +1,11 @@
+---
+title: "mac-use-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-antbotlab-mac-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mac-use-mcp
 
 Zero-dependency macOS desktop automation MCP server exposing 18 tools for Accessibility inspection, screenshots, and input control.

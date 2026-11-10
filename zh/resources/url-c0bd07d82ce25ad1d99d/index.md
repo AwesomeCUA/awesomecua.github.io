@@ -1,3 +1,11 @@
+---
+title: "Holo Model Family · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c0bd07d82ce25ad1d99d/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # Holo Model Family
 
 H 计算机使用模型系列及各发布版本的访问方式。

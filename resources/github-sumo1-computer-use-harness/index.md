@@ -1,3 +1,11 @@
+---
+title: "sumo1 computer-use-harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sumo1-computer-use-harness/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # sumo1 computer-use-harness
 
 CLI-first computer-use harness for macOS providing policy-guarded application observation and actuation across Claude Code, Codex, and MCP.

@@ -1,3 +1,11 @@
+---
+title: "cmux-skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-george4data-cmux-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cmux-skill
 
 Agent skill enabling Claude Code and coding agents to drive the `cmux` terminal and embedded browser workspace.

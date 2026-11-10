@@ -1,3 +1,11 @@
+---
+title: "E2B Surf · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-e2b-dev-surf/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # E2B Surf
 
 E2B Surf 是基于网页的计算机使用智能体，结合 OpenAI Computer-Using Agent 模型与隔离的 E2B Desktop 虚拟机。

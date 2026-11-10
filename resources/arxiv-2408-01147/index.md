@@ -1,3 +1,11 @@
+---
+title: "Astra: Efficient Transformer Architecture and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-01147/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Astra: Efficient Transformer Architecture and Contrastive Dynamics Learning for Embodied Instruction Following
 
 Bibliographic record for Astra: Efficient Transformer Architecture and Contrastive Dynamics Learning for Embodied Instruction Following. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yueen Ma, Dafeng Chi, Shiguang Wu, Yuecheng Liu, Yuzheng Zhuang, Irwin King
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-01147/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-01147/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_01147,
+  title = {{Astra: Efficient Transformer Architecture and Contrastive Dynamics Learning for Embodied Instruction Following}},
+  author = {{Yueen Ma} and {Dafeng Chi} and {Shiguang Wu} and {Yuecheng Liu} and {Yuzheng Zhuang} and {Irwin King}},
+  year = {2024},
+  eprint = {2408.01147v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.01147v2},
+  note = {First published: 2024-08-02; Recorded arXiv version: v2; Recorded version updated: 2026-01-19T15:26:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

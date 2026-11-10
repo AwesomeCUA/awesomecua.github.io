@@ -1,3 +1,11 @@
+---
+title: "ShowUI-web · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8933977bb0a57940ed23/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # ShowUI-web
 
 网页界面定位样本，包含指令、元素边界框和点，并配有单独打包的截图归档。

@@ -1,3 +1,11 @@
+---
+title: "OSReward | AwesomeCUA"
+url: https://awesomecua.com/resources/github-os-copilot-osreward/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # OSReward
 
 Evaluator and collection code for OSReward, which tests VLM judges' SUCCESS/FAIL verdicts on human-labelled computer-use trajectories, plus web, Windows, Android and Ubuntu trajectory pipelines.

@@ -1,3 +1,11 @@
+---
+title: "amcu (Another macOS Computer Use) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-uoox-amcu/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # amcu (Another macOS Computer Use)
 
 单一二进制文件、无需依赖的 macOS 计算机使用工具，可读取和操作 Mac 应用，而不抢占光标或窗口焦点。

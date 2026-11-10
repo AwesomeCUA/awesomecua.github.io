@@ -1,3 +1,11 @@
+---
+title: "AutoFocus: Uncertainty-Aware Active Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-02630/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding
 
 Presents AutoFocus, a training-free grounding method that turns sampled coordinates and token uncertainty into spatial region proposals. Shape-aware crops and visual comparison select a target while retaining surrounding interface context.
@@ -26,6 +34,18 @@ Ruilin Yao, Shegnwu Xiong, Tianyu Zou, Shili Xiong, Yi Rong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-02630/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-02630/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_02630,
+  title = {{AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding}},
+  author = {{Ruilin Yao} and {Shegnwu Xiong} and {Tianyu Zou} and {Shili Xiong} and {Yi Rong}},
+  year = {2026},
+  eprint = {2605.02630v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.02630v1},
+  note = {First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T14:18:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

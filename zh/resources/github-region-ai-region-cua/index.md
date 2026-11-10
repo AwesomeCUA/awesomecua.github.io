@@ -1,3 +1,11 @@
+---
+title: "RegionCUA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-region-ai-region-cua/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # RegionCUA
 
 RegionCUA 是由本地 Ollama 驱动的桌面智能体，可探索 GUI 应用并生成带说明的截图、视频和重放脚本。

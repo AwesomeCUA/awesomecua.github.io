@@ -1,3 +1,11 @@
+---
+title: "ScreenParser · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8c0b15d51eb7b4156608/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScreenParser
 
 IBM Research 与 ETH Zurich 的 YOLO11-L UI 元素检测器，在网页截图中框选并标注 55 类元素；主检查点在 ScreenParse v2 上训练，v1 检测器保留于分支中。

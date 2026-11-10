@@ -1,3 +1,11 @@
+---
+title: "Android in the Wild · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-google-research-android-in-the-wild/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Android in the Wild
 
 Android 任务的人类操作演示，包含截图和触摸操作。

@@ -1,3 +1,11 @@
+---
+title: "Qwen3-8B-FormFactory-GRPO-LoRA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4a3799bd1b6db15afffe/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-8B-FormFactory-GRPO-LoRA
 
 Qwen3-8B-FormFactory-GRPO-LoRA is a browser form-filling adapter for Qwen3-8B, trained with supervised initialization and online GRPO using real browser execution.

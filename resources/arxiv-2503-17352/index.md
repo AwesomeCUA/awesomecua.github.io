@@ -1,3 +1,11 @@
+---
+title: "OpenVLThinker: Complex Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-17352/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles
 
 Bibliographic record for OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yihe Deng, Hritik Bansal, Fan Yin, Nanyun Peng, Wei Wang, Kai-Wei Chang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-17352/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-17352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_17352,
+  title = {{OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles}},
+  author = {{Yihe Deng} and {Hritik Bansal} and {Fan Yin} and {Nanyun Peng} and {Wei Wang} and {Kai-Wei Chang}},
+  year = {2025},
+  eprint = {2503.17352v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.17352v3},
+  note = {First published: 2025-03-21; Recorded arXiv version: v3; Recorded version updated: 2025-11-11T08:13:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

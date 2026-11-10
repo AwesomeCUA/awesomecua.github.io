@@ -1,3 +1,11 @@
+---
+title: "RegionCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-region-ai-region-cua/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # RegionCUA
 
 RegionCUA is a local Ollama-powered desktop agent that explores GUI applications and generates documented screenshots, videos, and replay scripts.

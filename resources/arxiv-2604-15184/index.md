@@ -1,3 +1,11 @@
+---
+title: "Agent-Aided Design for Dynamic CAD Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-15184/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agent-Aided Design for Dynamic CAD Models
 
 Bibliographic record for Agent-Aided Design for Dynamic CAD Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mitch Adler, Matthew Russo, Michael Cafarella
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-15184/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-15184/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_15184,
+  title = {{Agent-Aided Design for Dynamic CAD Models}},
+  author = {{Mitch Adler} and {Matthew Russo} and {Michael Cafarella}},
+  year = {2026},
+  eprint = {2604.15184v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.15184v2},
+  note = {First published: 2026-04-16; Recorded arXiv version: v2; Recorded version updated: 2026-04-27T16:57:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

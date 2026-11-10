@@ -1,3 +1,11 @@
+---
+title: "UISim: An Interactive Image-Based UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-21733/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments
 
 提出图像驱动的移动端 UI 模拟器 UISim，在执行动作后预测下一屏布局并生成画面，用于测试与数据生成。
@@ -27,6 +35,18 @@ Jiannan Xiang, Yun Zhu, Lei Shu, Maria Wang, Lijun Yu, Gabriel Barcik, James Lyo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-21733/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-21733/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21733,
+  title = {{UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments}},
+  author = {{Jiannan Xiang} and {Yun Zhu} and {Lei Shu} and {Maria Wang} and {Lijun Yu} and {Gabriel Barcik} and {James Lyon} and {Srinivas Sunkara} and {Jindong Chen}},
+  year = {2025},
+  eprint = {2509.21733v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21733v1},
+  note = {First published: 2025-09-26; Recorded arXiv version: v1; Recorded version updated: 2025-09-26T01:02:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

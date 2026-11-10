@@ -1,3 +1,11 @@
+---
+title: "Overlay Companion MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ryansopensourcerice-overlay-companion-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Overlay Companion MCP
 
 Overlay Companion MCP provides a transparent on-screen visual overlay and MCP server for human-in-the-loop computer-use interaction.

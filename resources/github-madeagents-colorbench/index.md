@@ -1,3 +1,11 @@
+---
+title: "ColorBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-madeagents-colorbench/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # ColorBench
 
 A graph-based mobile GUI benchmark that evaluates long tasks through screenshot states and multiple valid or erroneous transitions, including reflection, replanning and backtracking.

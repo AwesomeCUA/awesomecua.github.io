@@ -1,3 +1,11 @@
+---
+title: "OpenAgents: An Open Platform for Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-10634/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OpenAgents: An Open Platform for Language Agents in the Wild
 
 OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.
@@ -26,6 +34,18 @@ Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, Yitao Liu, Toh Jin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-10634/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-10634/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_10634,
+  title = {{OpenAgents: An Open Platform for Language Agents in the Wild}},
+  author = {{Tianbao Xie} and {Fan Zhou} and {Zhoujun Cheng} and {Peng Shi} and {Luoxuan Weng} and {Yitao Liu} and {Toh Jing Hua} and {Junning Zhao} and {Qian Liu} and {Che Liu} and {Leo Z. Liu} and {Yiheng Xu} and {Hongjin Su} and {Dongchan Shin} and {Caiming Xiong} and {Tao Yu}},
+  year = {2023},
+  eprint = {2310.10634v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.10634v1},
+  note = {First published: 2023-10-16; Recorded arXiv version: v1; Recorded version updated: 2023-10-16T17:54:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

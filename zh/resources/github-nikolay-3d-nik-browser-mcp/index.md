@@ -1,3 +1,11 @@
+---
+title: "Nik-Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nikolay-3d-nik-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Nik-Browser MCP
 
 本地 Model Context Protocol 服务器，为 LLM 提供独立、保持登录状态的 Chromium 浏览器和 DOM 快照。

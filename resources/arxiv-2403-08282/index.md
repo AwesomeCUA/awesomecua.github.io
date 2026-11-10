@@ -1,3 +1,11 @@
+---
+title: "Hierarchical Auto-Organizing System for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-08282/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation
 
 Bibliographic record for Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhonghan Zhao, Kewei Chen, Dongxu Guo, Wenhao Chai, Tian Ye, Yanting Zhang, Gaoa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-08282/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-08282/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_08282,
+  title = {{Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation}},
+  author = {{Zhonghan Zhao} and {Kewei Chen} and {Dongxu Guo} and {Wenhao Chai} and {Tian Ye} and {Yanting Zhang} and {Gaoang Wang}},
+  year = {2024},
+  eprint = {2403.08282v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.08282v2},
+  note = {First published: 2024-03-13; Recorded arXiv version: v2; Recorded version updated: 2024-03-18T05:03:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

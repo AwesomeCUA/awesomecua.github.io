@@ -1,3 +1,11 @@
+---
+title: "Proceedings 35th International Conference on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1909-07646/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Proceedings 35th International Conference on Logic Programming (Technical Communications)
 
 Status: excluded from the active CUA catalog after scope review.

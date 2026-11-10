@@ -1,3 +1,11 @@
+---
+title: "AH64-dll Browser Automation Toolkit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ah64-dll-browser-automation-toolkit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AH64-dll Browser Automation Toolkit
 
 由 5 个 Python CDP 工具组成的套件，包括页面监视器、表单填写器、表格抓取器、DOM 变更差异比较器和健康检查器。

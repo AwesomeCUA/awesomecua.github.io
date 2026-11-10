@@ -1,3 +1,11 @@
+---
+title: "Static-FineBench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-94adc54bf1cd168da768/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # Static-FineBench
 
 FineState-Bench 的数据，该基准评测细粒度 GUI 状态控制：包含桌面、网页和移动端截图，以及 XML 与 JSON 标注，标注给出定位与交互指令，并分别提供定位框和交互框。

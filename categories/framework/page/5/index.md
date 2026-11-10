@@ -1,10 +1,17 @@
+---
+title: "Computer-use agent frameworks, page 5 | AwesomeCUA"
+url: https://awesomecua.com/categories/framework/page/5/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent frameworks, page 5
 
 HTML page: https://awesomecua.com/categories/framework/page/5/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
-- [LAI (Linux Native OS Agent)](https://awesomecua.com/resources/github-cufelix-lai/)
 - [Language Agent Tree Search (LATS)](https://awesomecua.com/resources/github-lapisrocks-languageagenttreesearch/)
 - [LASSO WebMCP](https://awesomecua.com/resources/github-smkzz-lasso/)
 - [Latitude Browser](https://awesomecua.com/resources/github-djblack1209-coder-latitude-browser/)
@@ -57,7 +64,6 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [MVP (Multiple View Prediction)](https://awesomecua.com/resources/github-zjuscl-mvp/)
 - [nanoAWM (Agent World Model Lab)](https://awesomecua.com/resources/github-jlov7-nanoawm/)
 - [Napaxi](https://awesomecua.com/resources/github-antgroup-napaxi/)
-- [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/)
 - [NaturalGAIA & LightManus](https://awesomecua.com/resources/github-keles-coding-naturegaia/)
 - [navforge](https://awesomecua.com/resources/github-huzjie-navforge/)
 - [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/)
@@ -104,3 +110,5 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [OysterWorkflow](https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/)
 - [Pactora](https://awesomecua.com/resources/github-mrnetwork0001-pactora/)
 - [page-agent-sdk](https://awesomecua.com/resources/github-whyymj-page-agent-sdk/)
+- [PageRunner](https://awesomecua.com/resources/github-say-5-pagerunner/)
+- [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/)

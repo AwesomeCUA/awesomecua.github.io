@@ -1,3 +1,11 @@
+---
+title: "Awesome Multimodal Agentic Coding | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/
+updated: 2026-11-04
+type: learning
+lang: en
+---
+
 # Awesome Multimodal Agentic Coding
 
 Comprehensive research map of papers, benchmarks, and tools for multimodal coding and UI-verifying agents.

@@ -1,3 +1,11 @@
+---
+title: "PhoneWorld: From Real-App Trajectories to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29486/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents
 
 Introduces PhoneWorld, which converts observed app pages, transitions and state changes into executable Android environments through a build-inspect-repair process. Generated tasks and programmatic verifiers support benchmarking, trajectory collection and online training.
@@ -26,6 +34,18 @@ Yuxuan Liu, Xin Lai, Junyi Li, Pengyuan Lyu, Jason, Yiduo Guo, Zhengyao Fang, Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-29486/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-29486/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29486,
+  title = {{PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents}},
+  author = {{Yuxuan Liu} and {Xin Lai} and {Junyi Li} and {Pengyuan Lyu} and {Jason} and {Yiduo Guo} and {Zhengyao Fang} and {Yang Ding} and {Yi Zhang} and {Weinong Wang} and {Huawen Shen} and {Xingran Zhou} and {Liang Wu} and {Fei Tang} and {Sunqi Fan} and {Shangpin Peng} and {Zheng Ruan} and {Anran Zhang} and {Chengquan Zhang} and {Han Hu} and {Benyou Wang} and {Ji-Rong Wen} and {Rui Yan} and {Zhengyang Tang}},
+  year = {2026},
+  eprint = {2605.29486v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29486v3},
+  note = {First published: 2026-05-28; Recorded arXiv version: v3; Recorded version updated: 2026-09-28T15:27:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

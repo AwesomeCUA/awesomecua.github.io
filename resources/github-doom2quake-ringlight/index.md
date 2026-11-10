@@ -1,3 +1,11 @@
+---
+title: "Ringlight WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-doom2quake-ringlight/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ringlight WebMCP
 
 WebMCP investigation console where browser agents trace entity graphs across live web views with human review.

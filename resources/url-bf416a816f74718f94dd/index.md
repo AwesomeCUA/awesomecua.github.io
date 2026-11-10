@@ -1,3 +1,11 @@
+---
+title: "ConClick-Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bf416a816f74718f94dd/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # ConClick-Data
 
 ConClick-Data provides screenshot grounding examples with target coordinates and distractor boxes, released as JSONL files for training.

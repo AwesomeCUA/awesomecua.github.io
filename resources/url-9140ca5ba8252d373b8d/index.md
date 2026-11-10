@@ -1,3 +1,11 @@
+---
+title: "AgentGym-RL-Data-ID | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9140ca5ba8252d373b8d/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # AgentGym-RL-Data-ID
 
 Train and eval task splits for AgentGym-RL multi-turn reinforcement learning, listing task IDs for WebArena web navigation alongside search, game, embodied and science environments.

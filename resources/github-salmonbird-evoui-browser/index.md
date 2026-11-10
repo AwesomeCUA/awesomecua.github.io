@@ -1,3 +1,11 @@
+---
+title: "Evoui Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-salmonbird-evoui-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Evoui Browser
 
 Self-evolving browser automation skill for Codex, Claude Code, and Cursor that caches reusable site knowledge.

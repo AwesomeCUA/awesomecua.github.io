@@ -1,3 +1,11 @@
+---
+title: "GROKE: Vision-Free Navigation Instruction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-07375/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap
 
 Status: excluded from the active CUA catalog after scope review.

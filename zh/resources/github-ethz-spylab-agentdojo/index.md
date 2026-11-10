@@ -1,3 +1,11 @@
+---
+title: "AgentDojo · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ethz-spylab-agentdojo/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # AgentDojo
 
 用于测试工具调用智能体提示注入安全性的 Python 基准包，包含工作区、银行、旅行和 Slack 任务套件、可插拔攻防模块，以及评估任务效用和攻击成功率的脚本。

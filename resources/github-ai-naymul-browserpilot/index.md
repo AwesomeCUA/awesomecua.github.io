@@ -1,3 +1,11 @@
+---
+title: "BrowserPilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-naymul-browserpilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # BrowserPilot
 
 BrowserPilot is an open-source stealth browser agent that executes natural-language web navigation and structured scraping workflows.

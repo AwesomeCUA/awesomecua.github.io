@@ -1,3 +1,11 @@
+---
+title: "OpenViVQA: Task, Dataset, and Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-04183/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OpenViVQA: Task, Dataset, and Multimodal Fusion Models for Visual Question Answering in Vietnamese
 
 Bibliographic record for OpenViVQA: Task, Dataset, and Multimodal Fusion Models for Visual Question Answering in Vietnamese. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Nghia Hieu Nguyen, Duong T. D. Vo, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-04183/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-04183/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_04183,
+  title = {{OpenViVQA: Task, Dataset, and Multimodal Fusion Models for Visual Question Answering in Vietnamese}},
+  author = {{Nghia Hieu Nguyen} and {Duong T. D. Vo} and {Kiet Van Nguyen} and {Ngan Luu-Thuy Nguyen}},
+  year = {2023},
+  eprint = {2305.04183v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.04183v1},
+  note = {First published: 2023-05-07; Recorded arXiv version: v1; Recorded version updated: 2023-05-07T03:59:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-92b5cb08491c09243b72/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # ScreenAgent
 
 SAT 格式的 ScreenAgent-2312 权重，一个基于 CogAgent 的视觉语言模型，用于驱动 ScreenAgent 环境，在规划、执行和反思阶段通过 VNC 发出鼠标和键盘操作。

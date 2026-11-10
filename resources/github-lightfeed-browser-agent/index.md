@@ -1,3 +1,11 @@
+---
+title: "Lightfeed Replayable Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lightfeed-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Lightfeed Replayable Browser Agent
 
 TypeScript browser agent library that uses an LLM to complete a web navigation workflow once and replays cached selectors with zero LLM tokens.

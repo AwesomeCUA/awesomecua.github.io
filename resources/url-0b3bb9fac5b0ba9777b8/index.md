@@ -1,3 +1,11 @@
+---
+title: "Fintor/Fintor-GUI-S2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0b3bb9fac5b0ba9777b8/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Fintor/Fintor-GUI-S2
 
 Fintor-GUI-S2 is a GUI grounding checkpoint fine-tuned from UI-TARS-7B-DPO on OS-Copilot data. Its card reports ScreenSpot Pro and v2 evaluations.

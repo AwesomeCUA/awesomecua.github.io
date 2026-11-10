@@ -1,3 +1,11 @@
+---
+title: "AutoBot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-demeyer1-autobot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AutoBot
 
 AutoBot 是面向 macOS 上 ChatGPT 和 Codex 的自我改进型智能体框架，具备持久化磁盘记忆和浏览器评测功能。

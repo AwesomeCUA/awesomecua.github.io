@@ -1,3 +1,11 @@
+---
+title: "InternVL3-1B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6d5151d298f88e2602bb/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3-1B
 
 InternVL3-1B 是一款多模态模型，训练数据包含图形界面操作示例；其模型卡还展示了图形界面定位评测。

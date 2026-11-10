@@ -1,3 +1,11 @@
+---
+title: "MemoryGraft: Persistent Compromise of LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-16962/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval
 
 Status: excluded from the active CUA catalog after scope review.

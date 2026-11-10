@@ -1,3 +1,11 @@
+---
+title: "ARPO training framework · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jia-lab-research-arpo/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # ARPO training framework
 
 ARPO 是面向 GUI 智能体、基于重放的策略优化框架，支持分布式 OSWorld 交互轨迹采集，并记录截图和操作历史。

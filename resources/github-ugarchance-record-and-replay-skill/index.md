@@ -1,3 +1,11 @@
+---
+title: "record-and-replay-skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # record-and-replay-skill
 
 Agent-agnostic skill that watches a user demonstrate a browser or desktop workflow once and compiles it into a replayable script.

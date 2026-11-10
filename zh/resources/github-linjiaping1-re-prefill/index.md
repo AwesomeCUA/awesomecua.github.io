@@ -1,3 +1,11 @@
+---
+title: "Re-Prefill · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-linjiaping1-re-prefill/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Re-Prefill
 
 Re-Prefill 校准视觉语言模型在预填充阶段的视觉注意力表征，以提高零样本 GUI 定位准确率。

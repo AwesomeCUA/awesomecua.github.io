@@ -1,3 +1,11 @@
+---
+title: "Inverse Dynamics Pretraining Learns Good… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-16985/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Inverse Dynamics Pretraining Learns Good Representations for Multitask Imitation
 
 Status: excluded from the active CUA catalog after scope review.

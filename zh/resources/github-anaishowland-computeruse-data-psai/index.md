@@ -1,3 +1,11 @@
+---
+title: "PSAI Computer Use Dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anaishowland-computeruse-data-psai/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # PSAI Computer Use Dataset
 
 PSAI Computer Use Dataset 提供 3,167 条人机交互轨迹，包含同步的屏幕视频、输入事件和 DOM/AX 快照。

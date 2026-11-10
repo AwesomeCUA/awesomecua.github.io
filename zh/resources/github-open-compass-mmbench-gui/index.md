@@ -1,3 +1,11 @@
+---
+title: "MMBench-GUI · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-open-compass-mmbench-gui/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # MMBench-GUI
 
 跨 6 个平台的 4 级 GUI 智能体基准，涵盖内容理解、元素定位、任务自动化和协作，采用效率与质量的面积指标评分。

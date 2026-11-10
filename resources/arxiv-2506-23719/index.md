@@ -1,3 +1,11 @@
+---
+title: "DABstep: Data Agent Benchmark for Multi-step… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-23719/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DABstep: Data Agent Benchmark for Multi-step Reasoning
 
 Bibliographic record for DABstep: Data Agent Benchmark for Multi-step Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Alex Egg, Martin Iglesias Goyanes, Friso Kingma, Andreu Mora, Leandro von Werra,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-23719/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-23719/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_23719,
+  title = {{DABstep: Data Agent Benchmark for Multi-step Reasoning}},
+  author = {{Alex Egg} and {Martin Iglesias Goyanes} and {Friso Kingma} and {Andreu Mora} and {Leandro von Werra} and {Thomas Wolf}},
+  year = {2025},
+  eprint = {2506.23719v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.23719v1},
+  note = {First published: 2025-06-30; Recorded arXiv version: v1; Recorded version updated: 2025-06-30T10:49:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

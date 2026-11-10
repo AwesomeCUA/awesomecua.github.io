@@ -1,3 +1,11 @@
+---
+title: "ScreenBuddy · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nideesh1-screen-buddy/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ScreenBuddy
 
 ScreenBuddy 是一个原生 Rust 和 Tauri macOS 桌面客户端，用于运行自带密钥的 Claude Computer Use 工作流。

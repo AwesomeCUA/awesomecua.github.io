@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_8b_pretrain · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-534151cf8b1e1df5bf96/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # GUI_Reflection_8b_pretrain
 
 GUI Reflection 在 GUI 预训练阶段得到的检查点，训练数据包括定位、描述生成、OCR 和 VQA 数据以及反思任务数据，处于离线 SFT 阶段之前。

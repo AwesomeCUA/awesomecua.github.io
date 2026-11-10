@@ -1,3 +1,11 @@
+---
+title: "Puppeteer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-puppeteer-puppeteer/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Puppeteer
 
 Puppeteer is a JavaScript browser-control library for Chrome and Firefox. Its API supports scripted page navigation and interaction.

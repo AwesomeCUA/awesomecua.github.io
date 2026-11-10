@@ -1,3 +1,11 @@
+---
+title: "LADS: Lease-Aware Delivery Scheduling of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-00881/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # LADS: Lease-Aware Delivery Scheduling of Tool Results for Language Model Agents
 
 提出 LADS，根据缓存租期和预计恢复延迟调度浏览器操作结果的交付，以缩短网页智能体的工作流程耗时。
@@ -27,6 +35,18 @@ Yuxuan Hou, Linshan Jiang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-00881/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-00881/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00881,
+  title = {{LADS: Lease-Aware Delivery Scheduling of Tool Results for Language Model Agents}},
+  author = {{Yuxuan Hou} and {Linshan Jiang}},
+  year = {2026},
+  eprint = {2611.00881v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00881v1},
+  note = {First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T12:31:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

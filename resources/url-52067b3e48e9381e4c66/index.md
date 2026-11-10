@@ -1,3 +1,11 @@
+---
+title: "CaptchaArena-Trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-52067b3e48e9381e4c66/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # CaptchaArena-Trajectories
 
 Chain-of-thought computer-use trajectories on 20 interactive CAPTCHA types: 46,000 browser rollouts with step screenshots and click, drag, hold or type actions, kept only when the page verifier accepts.

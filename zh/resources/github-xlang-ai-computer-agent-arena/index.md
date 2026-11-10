@@ -1,3 +1,11 @@
+---
+title: "Computer Agent Arena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-computer-agent-arena/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # Computer Agent Arena
 
 众包对战平台，用户在 Ubuntu 或 Windows VM 上比较两个计算机使用智能体；代码库包含投票前端、环境预设和 2,010 场已核验对战记录。

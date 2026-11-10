@@ -1,3 +1,11 @@
+---
+title: "GUI-HARVEST · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-garyyang12345-gui-harvest/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # GUI-HARVEST
 
 根据多次执行所得证据优化 GUI 智能体的执行代码，并用固定的验证关卡检查拟议修改。

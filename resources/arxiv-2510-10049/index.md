@@ -1,3 +1,11 @@
+---
+title: "ALLOY: Generating Reusable Agent Workflows… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-10049/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ALLOY: Generating Reusable Agent Workflows from User Demonstration
 
 Introduces ALLOY, which turns user demonstrations into editable, reusable workflows for LLM-based web agents carrying out preference-dependent tasks.
@@ -26,6 +34,18 @@ Jiawen Li, Zheng Ning, Yuan Tian, Toby Jia-jun Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-10049/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-10049/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_10049,
+  title = {{ALLOY: Generating Reusable Agent Workflows from User Demonstration}},
+  author = {{Jiawen Li} and {Zheng Ning} and {Yuan Tian} and {Toby Jia-jun Li}},
+  year = {2025},
+  eprint = {2510.10049v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.10049v1},
+  note = {First published: 2025-10-11; Recorded arXiv version: v1; Recorded version updated: 2025-10-11T06:30:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

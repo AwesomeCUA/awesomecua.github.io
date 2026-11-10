@@ -1,3 +1,11 @@
+---
+title: "TOBench: A Task-Oriented Omni-Modal Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-16909/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents
 
 Bibliographic record for TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhiqiang Liu, Wenhui Dong, Yilang Tan, Yuwen Qu, Haochen Yin, Chenyang Si
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-16909/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-16909/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16909,
+  title = {{TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents}},
+  author = {{Zhiqiang Liu} and {Wenhui Dong} and {Yilang Tan} and {Yuwen Qu} and {Haochen Yin} and {Chenyang Si}},
+  year = {2026},
+  eprint = {2605.16909v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16909v1},
+  note = {First published: 2026-05-16; Recorded arXiv version: v1; Recorded version updated: 2026-05-16T09:49:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

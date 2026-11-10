@@ -1,3 +1,11 @@
+---
+title: "GUIEnv-local | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0af07e00658a430cee6a/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUIEnv-local
 
 The released local-supervision portion of GUIEnv, pairing webpage regions and text for OCR and GUI grounding.

@@ -1,3 +1,11 @@
+---
+title: "Android Coach: Improve Online Agentic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-07277/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions
 
 Android Coach 用训练得到的评估器，在每个观察到的模拟器状态下评估多个候选操作，并以过程奖励和组内优势估计器支持在线训练，在 AndroidLab 和 AndroidWorld 上评估。
@@ -27,6 +35,18 @@ Guo Gan, Yuxuan Ding, Cong Chen, Yuwei Ren, Yin Huang, Hong Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-07277/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-07277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_07277,
+  title = {{Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions}},
+  author = {{Guo Gan} and {Yuxuan Ding} and {Cong Chen} and {Yuwei Ren} and {Yin Huang} and {Hong Zhou}},
+  year = {2026},
+  eprint = {2604.07277v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.07277v2},
+  note = {First published: 2026-04-08; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T03:06:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Hindsight is 20/20: Building Agent Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-12818/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects
 
 Status: excluded from the active CUA catalog after scope review.

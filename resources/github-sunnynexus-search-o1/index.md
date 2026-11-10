@@ -1,3 +1,11 @@
+---
+title: "Search-o1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sunnynexus-search-o1/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Search-o1
 
 Search-o1 integrates agentic web search and document-in-reasoning refinement into large reasoning models for multi-hop question answering.

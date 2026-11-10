@@ -1,3 +1,11 @@
+---
+title: "Job Hunter AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Job Hunter AI
 
 Agentic AI career copilot with automated candidate intake and verified browser form filling.

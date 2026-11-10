@@ -1,3 +1,11 @@
+---
+title: "Beyond Pass or Fail: Multi-Dimensional… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2501-02863/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation
 
 Sphinx 评估基础模型按目标导航移动端 UI 的能力，使用应用测试用例和工具包识别不同失败模式。
@@ -27,6 +35,18 @@ Dezhi Ran, Mengzhou Wu, Hao Yu, Yuetong Li, Jun Ren, Yuan Cao, Xia Zeng, Haochua
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2501-02863/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2501-02863/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_02863,
+  title = {{Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation}},
+  author = {{Dezhi Ran} and {Mengzhou Wu} and {Hao Yu} and {Yuetong Li} and {Jun Ren} and {Yuan Cao} and {Xia Zeng} and {Haochuan Lu} and {Zexin Xu} and {Mengqian Xu} and {Ting Su} and {Liangchao Yao} and {Ting Xiong} and {Wei Yang} and {Yuetang Deng} and {Assaf Marron} and {David Harel} and {Tao Xie}},
+  year = {2025},
+  eprint = {2501.02863v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.02863v2},
+  note = {First published: 2025-01-06; Recorded arXiv version: v2; Recorded version updated: 2025-02-11T13:34:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

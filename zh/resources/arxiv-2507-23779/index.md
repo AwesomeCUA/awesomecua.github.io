@@ -1,3 +1,11 @@
+---
+title: "Phi-Ground Tech Report: Advancing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-23779/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 报告一系列 GUI 定位模型，以及涉及源数据、感知训练和坐标预测的实证设计选择。
@@ -27,6 +35,18 @@ Miaosen Zhang, Ziqiang Xu, Jialiang Zhu, Qi Dai, Kai Qiu, Yifan Yang, Chong Luo,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-23779/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-23779/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_23779,
+  title = {{Phi-Ground Tech Report: Advancing Perception in GUI Grounding}},
+  author = {{Miaosen Zhang} and {Ziqiang Xu} and {Jialiang Zhu} and {Qi Dai} and {Kai Qiu} and {Yifan Yang} and {Chong Luo} and {Tianyi Chen} and {Justin Wagle} and {Tim Franklin} and {Baining Guo}},
+  year = {2025},
+  eprint = {2507.23779v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.23779v1},
+  note = {First published: 2025-07-31; Recorded arXiv version: v1; Recorded version updated: 2025-07-31T17:59:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

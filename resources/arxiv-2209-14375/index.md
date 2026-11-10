@@ -1,3 +1,11 @@
+---
+title: "Improving alignment of dialogue agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2209-14375/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Improving alignment of dialogue agents via targeted human judgements
 
 Bibliographic record for Improving alignment of dialogue agents via targeted human judgements. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Amelia Glaese, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ew
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2209-14375/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2209-14375/citation.csl.json
+
+```bibtex
+@misc{arxiv_2209_14375,
+  title = {{Improving alignment of dialogue agents via targeted human judgements}},
+  author = {{Amelia Glaese} and {Nat McAleese} and {Maja Trębacz} and {John Aslanides} and {Vlad Firoiu} and {Timo Ewalds} and {Maribeth Rauh} and {Laura Weidinger} and {Martin Chadwick} and {Phoebe Thacker} and {Lucy Campbell-Gillingham} and {Jonathan Uesato} and {Po-Sen Huang} and {Ramona Comanescu} and {Fan Yang} and {Abigail See} and {Sumanth Dathathri} and {Rory Greig} and {Charlie Chen} and {Doug Fritz} and {Jaume Sanchez Elias} and {Richard Green} and {Soňa Mokrá} and {Nicholas Fernando} and {Boxi Wu} and {Rachel Foley} and {Susannah Young} and {Iason Gabriel} and {William Isaac} and {John Mellor} and {Demis Hassabis} and {Koray Kavukcuoglu} and {Lisa Anne Hendricks} and {Geoffrey Irving}},
+  year = {2022},
+  eprint = {2209.14375v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2209.14375v1},
+  note = {First published: 2022-09-28; Recorded arXiv version: v1; Recorded version updated: 2022-09-28T19:04:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

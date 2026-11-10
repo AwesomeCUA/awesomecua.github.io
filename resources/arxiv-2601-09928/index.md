@@ -1,3 +1,11 @@
+---
+title: "In-Browser Agents for Search Assistance | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-09928/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # In-Browser Agents for Search Assistance
 
 Bibliographic record for In-Browser Agents for Search Assistance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Saber Zerhoudi, Michael Granitzer
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-09928/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-09928/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_09928,
+  title = {{In-Browser Agents for Search Assistance}},
+  author = {{Saber Zerhoudi} and {Michael Granitzer}},
+  year = {2026},
+  eprint = {2601.09928v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.09928v1},
+  note = {First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T23:18:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

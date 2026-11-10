@@ -1,3 +1,11 @@
+---
+title: "Magpie: Alignment Data Synthesis from Scratch… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-08464/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
 
 Bibliographic record for Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-08464/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-08464/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_08464,
+  title = {{Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing}},
+  author = {{Zhangchen Xu} and {Fengqing Jiang} and {Luyao Niu} and {Yuntian Deng} and {Radha Poovendran} and {Yejin Choi} and {Bill Yuchen Lin}},
+  year = {2024},
+  eprint = {2406.08464v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.08464v2},
+  note = {First published: 2024-06-12; Recorded arXiv version: v2; Recorded version updated: 2024-10-07T01:45:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

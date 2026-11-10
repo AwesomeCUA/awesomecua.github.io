@@ -1,3 +1,11 @@
+---
+title: "NVIDIA Nemotron Nano V2 VL | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-03929/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # NVIDIA Nemotron Nano V2 VL
 
 Bibliographic record for NVIDIA Nemotron Nano V2 VL. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ NVIDIA, :, Amala Sanjay Deshmukh, Kateryna Chumachenko, Tuomas Rintamaki, Matthi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-03929/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-03929/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_03929,
+  title = {{NVIDIA Nemotron Nano V2 VL}},
+  author = {{NVIDIA} and {:} and {Amala Sanjay Deshmukh} and {Kateryna Chumachenko} and {Tuomas Rintamaki} and {Matthieu Le} and {Tyler Poon} and {Danial Mohseni Taheri} and {Ilia Karmanov} and {Guilin Liu} and {Jarno Seppanen} and {Guo Chen} and {Karan Sapra} and {Zhiding Yu} and {Adi Renduchintala} and {Charles Wang} and {Peter Jin} and {Arushi Goel} and {Mike Ranzinger} and {Lukas Voegtle} and {Philipp Fischer} and {Timo Roman} and {Wei Ping} and {Boxin Wang} and {Zhuolin Yang} and {Nayeon Lee} and {Shaokun Zhang} and {Fuxiao Liu} and {Zhiqi Li} and {Di Zhang} and {Greg Heinrich} and {Hongxu Yin} and {Song Han} and {Pavlo Molchanov} and {Parth Mannan} and {Yao Xu} and {Jane Polak Scowcroft} and {Tom Balough} and {Subhashree Radhakrishnan} and {Paris Zhang} and {Sean Cha} and {Ratnesh Kumar} and {Zaid Pervaiz Bhat} and {Jian Zhang} and {Darragh Hanley} and {Pritam Biswas} and {Jesse Oliver} and {Kevin Vasques} and {Roger Waleffe} and {Duncan Riach} and {Oluwatobi Olabiyi} and {Ameya Sunil Mahabaleshwarkar} and {Bilal Kartal} and {Pritam Gundecha} and {Khanh Nguyen} and {Alexandre Milesi} and {Eugene Khvedchenia} and {Ran Zilberstein} and {Ofri Masad} and {Natan Bagrov} and {Nave Assaf} and {Tomer Asida} and {Daniel Afrimi} and {Amit Zuker} and {Netanel Haber} and {Zhiyu Cheng} and {Jingyu Xin} and {Di Wu} and {Nik Spirin} and {Maryam Moosaei} and {Roman Ageev} and {Vanshil Atul Shah} and {Yuting Wu} and {Daniel Korzekwa} and {Unnikrishnan Kizhakkemadam Sreekumar} and {Wanli Jiang} and {Padmavathy Subramanian} and {Alejandra Rico} and {Sandip Bhaskar} and {Saeid Motiian} and {Kedi Wu} and {Annie Surla} and {Chia-Chih Chen} and {Hayden Wolff} and {Matthew Feinberg} and {Melissa Corpuz} and {Marek Wawrzos} and {Eileen Long} and {Aastha Jhunjhunwala} and {Paul Hendricks} and {Farzan Memarian} and {Benika Hall} and {Xin-Yu Wang} and {David Mosallanezhad} and {Soumye Singhal} and {Luis Vega} and {Katherine Cheung} and {Krzysztof Pawelec} and {Michael Evans} and {Katherine Luna} and {Jie Lou} and {Erick Galinkin} and {Akshay Hazare} and {Kaustubh Purandare} and {Ann Guan} and {Anna Warno} and {Chen Cui} and {Yoshi Suhara} and {Shibani Likhite} and {Seph Mard} and {Meredith Price} and {Laya Sleiman} and {Saori Kaji} and {Udi Karpas} and {Kari Briski} and {Joey Conway} and {Michael Lightstone} and {Jan Kautz} and {Mohammad Shoeybi} and {Mostofa Patwary} and {Jonathen Cohen} and {Oleksii Kuchaiev} and {Andrew Tao} and {Bryan Catanzaro}},
+  year = {2025},
+  eprint = {2511.03929v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.03929v2},
+  note = {First published: 2025-11-06; Recorded arXiv version: v2; Recorded version updated: 2025-11-07T03:45:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

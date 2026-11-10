@@ -1,3 +1,11 @@
+---
+title: "Spreadsheet-RL: Advancing Large Language… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-22642/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning
 
 Spreadsheet-RL 在通过 Python 沙盒提供 Excel 功能的环境中用 RL 训练电子表格智能体，并提出 Domain-Spreadsheet 基准。
@@ -27,6 +35,18 @@ Banghao Chi, Yining Xie, Mingyuan Wu, Jingcheng Yang, Jize Jiang, Zhaoheng Li, S
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-22642/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-22642/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_22642,
+  title = {{Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning}},
+  author = {{Banghao Chi} and {Yining Xie} and {Mingyuan Wu} and {Jingcheng Yang} and {Jize Jiang} and {Zhaoheng Li} and {Shengyi Qian} and {Minjia Zhang} and {Klara Nahrstedt} and {Rui Hou} and {Xiangjun Fan} and {Hanchao Yu}},
+  year = {2026},
+  eprint = {2605.22642v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.22642v1},
+  note = {First published: 2026-05-21; Recorded arXiv version: v1; Recorded version updated: 2026-05-21T15:47:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

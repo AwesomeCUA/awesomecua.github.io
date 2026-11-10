@@ -1,3 +1,11 @@
+---
+title: "Browser Auth-State Synchronizer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sohan-a11y-auth-synchronizer/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Auth-State Synchronizer
 
 Synchronizes authenticated browser cookies and storage states across Playwright and agent browser sessions.

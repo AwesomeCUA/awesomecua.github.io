@@ -1,3 +1,11 @@
+---
+title: "Agent-Dice: Disentangling Knowledge Updates… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-03641/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning
 
 Agent-Dice fuses parameter updates to support continual learning in LLM agents, with GUI agent tasks evaluated alongside tool-use domains.
@@ -26,6 +34,18 @@ Zheng Wu, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang, Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-03641/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-03641/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_03641,
+  title = {{Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning}},
+  author = {{Zheng Wu} and {Xingyu Lou} and {Xinbei Ma} and {Yansi Li} and {Weiwen Liu} and {Weinan Zhang} and {Jun Wang} and {Zhuosheng Zhang}},
+  year = {2026},
+  eprint = {2601.03641v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.03641v4},
+  note = {First published: 2026-01-07; Recorded arXiv version: v4; Recorded version updated: 2026-04-11T14:07:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

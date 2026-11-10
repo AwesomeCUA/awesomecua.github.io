@@ -1,3 +1,11 @@
+---
+title: "UI-Act model | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tobiasnorlund-ui-act-model/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # UI-Act model
 
 2023 GUI agent model: a text-conditioned encoder-decoder Transformer that reads full-screen captures through a convolutional encoder and predicts left clicks on a 4-pixel grid, demonstrated on GNOME Calculator.

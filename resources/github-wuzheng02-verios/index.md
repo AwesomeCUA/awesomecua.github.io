@@ -1,3 +1,11 @@
+---
+title: "VeriOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wuzheng02-verios/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # VeriOS
 
 Research code for proactive human–GUI-agent verification, including offline interaction-loop and dual-agent evaluation scripts plus LLaMA-Factory fine-tuning configurations.

@@ -1,3 +1,11 @@
+---
+title: "Promptwright · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sahajamit-promptwright/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Promptwright
 
 Promptwright 是 AI QA 桌面智能体，可根据自然英语指令驱动浏览器，或将用户点击录制为确定性的 Playwright 测试。

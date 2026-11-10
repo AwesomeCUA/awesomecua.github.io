@@ -1,3 +1,11 @@
+---
+title: "SpreadsheetBench 2: Evaluating Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-29955/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows
 
 Introduces SpreadsheetBench 2, a benchmark of multi-sheet business spreadsheet workflows for agents, covering generation, debugging, and visualization tasks.
@@ -26,6 +34,18 @@ Jian Zhu, Yuzheng Zhang, Zeyao Ma, Bohan Zhang, Armin Schoepf, Daniel Woloch, Pe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-29955/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-29955/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_29955,
+  title = {{SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows}},
+  author = {{Jian Zhu} and {Yuzheng Zhang} and {Zeyao Ma} and {Bohan Zhang} and {Armin Schoepf} and {Daniel Woloch} and {Peter Yiliu Wang} and {Guangyu Robert Yang} and {Samuel Jacob} and {Siddharth Nagisetty} and {Abhiram Chundru} and {Jean Lin} and {Spencer Mateega} and {Jing Zhang}},
+  year = {2026},
+  eprint = {2606.29955v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.29955v1},
+  note = {First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T08:33:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

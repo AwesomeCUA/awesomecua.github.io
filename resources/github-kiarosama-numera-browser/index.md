@@ -1,3 +1,11 @@
+---
+title: "Numera Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kiarosama-numera-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Numera Browser
 
 Local-first multi-profile browser manager for isolated testing and agentic web automation.

@@ -1,3 +1,11 @@
+---
+title: "VLM-Reasoning-Traces | AwesomeCUA"
+url: https://awesomecua.com/resources/github-llamatouch-vlm-reasoning-traces/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # VLM-Reasoning-Traces
 
 VLM-Reasoning-Traces releases model outputs comparing base and thinking-enabled vision-language models on AndroidControl, ScreenSpot, and AndroidWorld.

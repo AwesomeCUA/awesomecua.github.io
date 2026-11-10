@@ -1,3 +1,11 @@
+---
+title: "WebTestBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-friedrichor-webtestbench/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # WebTestBench
 
 An end-to-end web-testing benchmark where agents derive test checklists from development instructions, interact with deployed applications and report functional or constraint-related defects.

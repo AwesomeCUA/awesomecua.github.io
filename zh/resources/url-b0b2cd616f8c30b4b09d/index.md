@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_ground_iterative-13B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b0b2cd616f8c30b4b09d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_unified_ground_iterative-13B
 
 这是已发布的 Lumos 定位模块检查点，使用网页智能体任务以及问答、多模态和数学任务进行微调。

@@ -1,3 +1,11 @@
+---
+title: "UnknownCaz firefox-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-unknowncaz-firefox-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UnknownCaz firefox-mcp
 
 Attach-only Firefox MCP server over raw WebDriver BiDi with user confirmation gates.

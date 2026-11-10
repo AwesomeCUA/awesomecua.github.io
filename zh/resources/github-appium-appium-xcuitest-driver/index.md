@@ -1,3 +1,11 @@
+---
+title: "Appium XCUITest Driver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium-xcuitest-driver/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Appium XCUITest Driver
 
 Appium XCUITest Driver 使 Appium 能控制 iOS 及其他 Apple 设备平台上的原生和混合应用，其中 watchOS 仅支持模拟器。

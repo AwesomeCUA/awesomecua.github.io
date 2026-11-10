@@ -1,3 +1,11 @@
+---
+title: "TabGrant · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-snakelil-tabgrant/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TabGrant
 
 由用户授权、优先在本地运行的能力代理，向 AI 智能体授予限定范围的浏览器标签页权限。

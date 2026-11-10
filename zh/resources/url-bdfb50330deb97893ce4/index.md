@@ -1,3 +1,11 @@
+---
+title: "MT-Mind2Web · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bdfb50330deb97893ce4/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # MT-Mind2Web
 
 基于 Mind2Web 交互构建的多轮网页导航对话，包含对话轮次、HTML 快照、候选元素及点击、输入、选择操作序列。

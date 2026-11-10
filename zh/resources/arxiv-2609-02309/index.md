@@ -1,3 +1,11 @@
+---
+title: "Efficient GUI Agents: A Systems Survey… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-02309/
+updated: 2026-10-16
+type: survey
+lang: zh-CN
+---
+
 # Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization
 
 从任务成功率以外的角度综述 GUI 智能体的效率，涵盖观测、上下文与记忆、操作，以及规划器或运行时开销。
@@ -23,6 +31,18 @@ Bizhe Bai, Jiakang Yuan, Hongming Wu, Xinyue Wang, Jie Ren, Siyao Chen, Yuchen Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-02309/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-02309/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02309,
+  title = {{Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization}},
+  author = {{Bizhe Bai} and {Jiakang Yuan} and {Hongming Wu} and {Xinyue Wang} and {Jie Ren} and {Siyao Chen} and {Yuchen Ya} and {Fan Bai} and {Pai Peng} and {Huafeng Qin} and {Tao Chen}},
+  year = {2026},
+  eprint = {2609.02309v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02309v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T08:54:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

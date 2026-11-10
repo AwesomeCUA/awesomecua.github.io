@@ -1,3 +1,11 @@
+---
+title: "MobileWorldSafety: Benchmarking GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-17659/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps
 
 通过程序化风险检查及对模糊案例的模型裁定，评估 Android 任务中的环境注入风险。
@@ -27,6 +35,18 @@ Sujin Chen, Lijun Li, Tianyi Du, Jing Shao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-17659/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-17659/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_17659,
+  title = {{MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps}},
+  author = {{Sujin Chen} and {Lijun Li} and {Tianyi Du} and {Jing Shao}},
+  year = {2026},
+  eprint = {2608.17659v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.17659v1},
+  note = {First published: 2026-08-18; Recorded arXiv version: v1; Recorded version updated: 2026-08-18T11:33:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

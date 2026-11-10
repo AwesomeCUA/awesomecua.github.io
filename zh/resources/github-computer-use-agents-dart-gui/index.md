@@ -1,3 +1,11 @@
+---
+title: "DART-GUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-computer-use-agents-dart-gui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # DART-GUI
 
 DART-GUI 实现解耦式多轮强化学习和自适应轨迹筛选，用于训练计算机使用 GUI 智能体。

@@ -1,3 +1,11 @@
+---
+title: "Qwen Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qwenlm-qwen-code/
+updated: 2026-11-06
+type: agent
+lang: en
+---
+
 # Qwen Code
 
 Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.

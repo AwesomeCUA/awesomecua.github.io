@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 27B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1611de0e6d606165d12d/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # OpenMobile-2 27B
 
 Mobile-agent checkpoint based on Qwen3.6-27B for GUI and app-native tool interaction.

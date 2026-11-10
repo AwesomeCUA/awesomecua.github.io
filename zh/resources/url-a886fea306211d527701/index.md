@@ -1,3 +1,11 @@
+---
+title: "Qwen-CUA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a886fea306211d527701/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen-CUA
 
 Qwen-CUA 是基于截图生成经界面定位的键盘和鼠标操作的计算机使用模型，发布内容包括模型权重和浏览器参考运行环境。

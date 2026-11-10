@@ -1,3 +1,11 @@
+---
+title: "AndroidGen | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-androidgen/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AndroidGen
 
 AndroidGen operates Android tasks using retrieved examples, plan updates, and action checks. Its repository includes agent code and AndroidWorld evaluation scripts.

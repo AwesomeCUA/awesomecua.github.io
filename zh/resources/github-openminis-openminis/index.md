@@ -1,3 +1,11 @@
+---
+title: "OpenMinis · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openminis-openminis/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # OpenMinis
 
 OpenMinis 是面向 iOS 和 Android 的开源移动智能体，可与网站和设备工具交互，并在设备上的 Linux 沙箱中运行脚本。

@@ -1,3 +1,11 @@
+---
+title: "Energy Inference of Black-Box Quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-15472/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Energy Inference of Black-Box Quantum Computers Using Quantum Speed Limit
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Frozen Vision Backbones for GUI Grounding | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Frozen Vision Backbones for GUI Grounding
 
 Benchmarks dense versus global features across frozen vision backbones for pixel-coordinate GUI grounding.

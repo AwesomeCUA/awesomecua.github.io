@@ -1,3 +1,11 @@
+---
+title: "ClawBench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9c96a767b56ba0eb4494/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # ClawBench
 
 面向真实网站日常任务的浏览器智能体数据集，包含 V1 和 V2 测试集、任务背景资料，以及拦截最终提交的规则。

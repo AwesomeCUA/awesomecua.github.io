@@ -1,3 +1,11 @@
+---
+title: "TeamBench: Evaluating Agent Coordination… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-07073/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TeamBench: Evaluating Agent Coordination under Enforced Role Separation
 
 Status: excluded from the active CUA catalog after scope review.

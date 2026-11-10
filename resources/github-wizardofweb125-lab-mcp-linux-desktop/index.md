@@ -1,3 +1,11 @@
+---
+title: "mcp-linux-desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-linux-desktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mcp-linux-desktop
 
 Model Context Protocol server for full Linux desktop control spanning windows, mouse, keyboard, clipboard, audio, OCR, and accessibility.

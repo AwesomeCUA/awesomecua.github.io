@@ -1,3 +1,11 @@
+---
+title: "Capybara-mechanize · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeroenvandijk-capybara-mechanize/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Capybara-mechanize
 
 Capybara 驱动，借助 Mechanize 发送远程网页请求，使测试能够访问并操作外部应用。

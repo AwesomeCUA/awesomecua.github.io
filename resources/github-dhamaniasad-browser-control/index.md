@@ -1,3 +1,11 @@
+---
+title: "Browser Control Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dhamaniasad-browser-control/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Browser Control Agent
 
 Browser Control Agent is a Chrome extension that executes natural-language browser automation commands over live webpage DOM elements.

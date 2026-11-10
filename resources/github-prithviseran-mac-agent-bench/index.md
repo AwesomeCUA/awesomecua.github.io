@@ -1,3 +1,11 @@
+---
+title: "mac-agent-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # mac-agent-bench
 
 mac-agent-bench runs computer-use tools on a logged-in Mac, checking task outcomes with scripts while measuring changes to the foreground app and cursor.

@@ -1,3 +1,11 @@
+---
+title: "MEGA-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-samsungsds-research-papers-mega-gui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MEGA-GUI
 
 MEGA-GUI implements a multi-stage GUI grounding pipeline combining candidate region proposal, iterative zoom-in, and element localization.

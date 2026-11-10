@@ -1,3 +1,11 @@
+---
+title: "device-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-labclaw-device-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # device-use
 
 device-use 让 AI 智能体通过科学实验室仪器原生的桌面 GUI 软件操作仪器，无需硬件 API。

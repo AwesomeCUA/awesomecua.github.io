@@ -1,3 +1,11 @@
+---
+title: "Mantis | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mercurialsolo-mantis/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Mantis
 
 Mantis is a unified perception-reasoning-action computer-use agent that drives browsers and Xvfb desktop applications from structured plans.

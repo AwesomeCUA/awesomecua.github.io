@@ -1,3 +1,11 @@
+---
+title: "Cross-Interface Authorization for AI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-41397/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Cross-Interface Authorization for AI Computer-Use Agents
 
 提出受配置档案约束的计算机使用智能体授权协议，覆盖 GUI、API、脚本等路径，通过绑定路径的票据和提交时检查来约束操作。
@@ -27,6 +35,18 @@ Genliang Zhu, Chu Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-41397/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-41397/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_41397,
+  title = {{Cross-Interface Authorization for AI Computer-Use Agents}},
+  author = {{Genliang Zhu} and {Chu Wang}},
+  year = {2026},
+  eprint = {2610.41397v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.41397v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T08:07:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

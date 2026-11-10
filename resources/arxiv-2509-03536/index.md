@@ -1,3 +1,11 @@
+---
+title: "PG-Agent: An Agent Powered by Page Graph | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-03536/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PG-Agent: An Agent Powered by Page Graph
 
 Introduces PG-Agent, which turns GUI operation episodes into page graphs and retrieves guidance from them to support task decomposition in new scenarios.
@@ -26,6 +34,18 @@ Weizhi Chen, Ziwei Wang, Leyang Yang, Sheng Zhou, Xiaoxuan Tang, Jiajun Bu, Yong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-03536/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-03536/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_03536,
+  title = {{PG-Agent: An Agent Powered by Page Graph}},
+  author = {{Weizhi Chen} and {Ziwei Wang} and {Leyang Yang} and {Sheng Zhou} and {Xiaoxuan Tang} and {Jiajun Bu} and {Yong Li} and {Wei Jiang}},
+  year = {2025},
+  eprint = {2509.03536v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.03536v1},
+  note = {First published: 2025-08-27; Recorded arXiv version: v1; Recorded version updated: 2025-08-27T12:31:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "macOS-MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cursortouch-macos-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # macOS-MCP
 
 面向 macOS 计算机使用的轻量级 Model Context Protocol 服务器，提供无障碍树遍历、截图和输入模拟。

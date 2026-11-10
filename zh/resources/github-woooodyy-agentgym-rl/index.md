@@ -1,3 +1,11 @@
+---
+title: "AgentGym-RL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-woooodyy-agentgym-rl/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # AgentGym-RL
 
 一个面向多轮智能体的强化学习框架，包含 WebArena 网页导航任务，并提供在训练中逐步延长交互过程的方法。

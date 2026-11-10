@@ -1,3 +1,11 @@
+---
+title: "Ghost (Non-Interfering macOS CUA) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fletcherholt-ghost/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ghost (Non-Interfering macOS CUA)
 
 面向 Claude Code 的隐形、无干扰 macOS 计算机使用工具，可在后台驱动原生 Mac 应用。

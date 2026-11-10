@@ -1,3 +1,11 @@
+---
+title: "VCode: a Multimodal Coding Benchmark with SVG… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-02778/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation
 
 Bibliographic record for VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kevin Qinghong Lin, Yuhao Zheng, Hangyu Ran, Dantong Zhu, Dongxing Mao, Linjie L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-02778/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-02778/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_02778,
+  title = {{VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation}},
+  author = {{Kevin Qinghong Lin} and {Yuhao Zheng} and {Hangyu Ran} and {Dantong Zhu} and {Dongxing Mao} and {Linjie Li} and {Philip Torr} and {Alex Jinpeng Wang}},
+  year = {2025},
+  eprint = {2511.02778v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.02778v1},
+  note = {First published: 2025-11-04; Recorded arXiv version: v1; Recorded version updated: 2025-11-04T18:00:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

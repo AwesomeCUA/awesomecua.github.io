@@ -1,3 +1,11 @@
+---
+title: "WebUniverse: Scaling Verified Training Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33149/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebUniverse: Scaling Verified Training Data for Agentic Web Development
 
 Bibliographic record for WebUniverse: Scaling Verified Training Data for Agentic Web Development. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yaorui Ding, Fengqing Jiang, Yichen Feng, Yuetai Li, Zhangchen Xu, Kaiyuan Zheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-33149/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-33149/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33149,
+  title = {{WebUniverse: Scaling Verified Training Data for Agentic Web Development}},
+  author = {{Yaorui Ding} and {Fengqing Jiang} and {Yichen Feng} and {Yuetai Li} and {Zhangchen Xu} and {Kaiyuan Zheng} and {Xuanyu Lu} and {Bhaskar Ramasubramanian} and {Basel Alomair} and {Luyao Niu} and {Radha Poovendran}},
+  year = {2026},
+  eprint = {2610.33149v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33149v1},
+  note = {First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T17:57:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

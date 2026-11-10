@@ -1,3 +1,11 @@
+---
+title: "cellar (Context Execution Layer) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dilipod-cellar/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # cellar (Context Execution Layer)
 
 cellar 实现 Context Execution Layer（CEL），为计算机使用智能体提供结构化上下文与动作执行协议。

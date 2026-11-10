@@ -1,3 +1,11 @@
+---
+title: "macOS-use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-macos-use/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # macOS-use
 
 已归档的 Browser Use 项目，让 LLM 通过 macOS Accessibility API 读取辅助功能树，并在 macOS 应用中按下元素、输入文本和打开元素。

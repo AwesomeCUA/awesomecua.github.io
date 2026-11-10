@@ -1,3 +1,11 @@
+---
+title: "EVA: Evolving Semantic Adversaries for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-14289/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks
 
 Introduces EVA, a red-teaming framework that evolves semantic payloads for GUI environmental-injection tests. It studies the contribution of semantic versus visual deception and distills discovered patterns into reusable evaluation rules.
@@ -26,6 +34,18 @@ Yijie Lu, Manman Zhao, Tianjie Ju, Zihe Yan, Xinbei Ma, Yuan Guo, Daizong Ding, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-14289/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-14289/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_14289,
+  title = {{EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks}},
+  author = {{Yijie Lu} and {Manman Zhao} and {Tianjie Ju} and {Zihe Yan} and {Xinbei Ma} and {Yuan Guo} and {Daizong Ding} and {Gongshen Liu} and {Zhuosheng Zhang}},
+  year = {2025},
+  eprint = {2505.14289v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.14289v2},
+  note = {First published: 2025-05-20; Recorded arXiv version: v2; Recorded version updated: 2026-06-05T10:24:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

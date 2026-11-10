@@ -1,3 +1,11 @@
+---
+title: "SameState WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-breeznik-samestate-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SameState WebMCP
 
 WebMCP reference architecture exposing Redux frontend state directly to browser agents for synchronized human-agent interaction.

@@ -1,3 +1,11 @@
+---
+title: "Online Environment for GUI Reflection · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection-env/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # Online Environment for GUI Reflection
 
 GUI Reflection 项目的主机-工作机 Android 模拟器环境，提供用于采集交互数据和评估 GUI 模型的配置，模型推理在单独的主机上运行。

@@ -1,3 +1,11 @@
+---
+title: "Mirage (Adversarial Web Benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shushant17711-mirage/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Mirage (Adversarial Web Benchmark)
 
 Controlled adversarial web environment for measuring how autonomous browser agents fail under deceptive UI and prompt traps.

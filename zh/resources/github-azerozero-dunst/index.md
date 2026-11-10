@@ -1,3 +1,11 @@
+---
+title: "Dunst (macOS Affordance-Graph MCP) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-azerozero-dunst/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Dunst (macOS Affordance-Graph MCP)
 
 面向 macOS、以无障碍功能为先的可操作项图 MCP 服务器，结合 AX 树、Apple Vision OCR 和计算机视觉。

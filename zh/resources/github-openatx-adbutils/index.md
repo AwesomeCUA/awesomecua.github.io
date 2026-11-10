@@ -1,3 +1,11 @@
+---
+title: "adbutils · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openatx-adbutils/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # adbutils
 
 一个面向 ADB 服务的 Python 客户端库，可列出并连接设备、执行 shell 命令、转发端口、传输文件、截屏，并发送点击、滑动和按键事件。

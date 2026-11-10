@@ -1,3 +1,11 @@
+---
+title: "Transforming Human-Centered AI Collaboration… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-10783/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions
 
 Bibliographic record for Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shrestha Mohanty, Negar Arabzadeh, Julia Kiseleva, Artem Zholus, Milagro Teruel,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-10783/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-10783/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_10783,
+  title = {{Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions}},
+  author = {{Shrestha Mohanty} and {Negar Arabzadeh} and {Julia Kiseleva} and {Artem Zholus} and {Milagro Teruel} and {Ahmed Awadallah} and {Yuxuan Sun} and {Kavya Srinet} and {Arthur Szlam}},
+  year = {2023},
+  eprint = {2305.10783v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.10783v1},
+  note = {First published: 2023-05-18; Recorded arXiv version: v1; Recorded version updated: 2023-05-18T07:51:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

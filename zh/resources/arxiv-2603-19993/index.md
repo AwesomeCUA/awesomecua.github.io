@@ -1,3 +1,11 @@
+---
+title: "MedSPOT: A Workflow-Aware Sequential… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-19993/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI
 
 针对临床软件工作流中的连续目标定位建立基准，重点考察早期错误如何影响后续交互步骤。
@@ -27,6 +35,18 @@ Rozain Shakeel, Abdul Rahman Mohammad Ali, Muneeb Mushtaq, Tausifa Jan Saleem, T
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-19993/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-19993/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_19993,
+  title = {{MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI}},
+  author = {{Rozain Shakeel} and {Abdul Rahman Mohammad Ali} and {Muneeb Mushtaq} and {Tausifa Jan Saleem} and {Tajamul Ashraf}},
+  year = {2026},
+  eprint = {2603.19993v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.19993v1},
+  note = {First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T14:43:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

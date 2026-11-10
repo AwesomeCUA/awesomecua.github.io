@@ -1,13 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 22 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/22/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 22 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/22/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)
-- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)
-- [ThinkRun](https://awesomecua.com/zh/resources/github-dundas-thinkrun/)
-- [Threadline WebMCP](https://awesomecua.com/zh/resources/github-jameswirths-threadline/)
 - [ThreeBody6666 DSH Computer Use](https://awesomecua.com/zh/resources/github-threebody6666-dsh-computer-use/)
 - [Thursday](https://awesomecua.com/zh/resources/github-cgoinglove-thursday-agent/)
 - [tine](https://awesomecua.com/zh/resources/github-smythp-tine/)
@@ -64,3 +68,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/22/
 - [voxie](https://awesomecua.com/zh/resources/github-afraidsoul76-voxie/)
 - [Vuser Protocol](https://awesomecua.com/zh/resources/github-openvuser-vuser/)
 - [VZT-Browser](https://awesomecua.com/zh/resources/github-vonzelle-vzt-vzt-browser/)
+- [wangye520 codex-computer-use (Cursor Port)](https://awesomecua.com/zh/resources/github-wangye520-codex-computer-use/)
+- [wangyong1972 dsh-computer-use-macos](https://awesomecua.com/zh/resources/github-wangyong1972-dsh-computer-use-macos/)
+- [Wanta](https://awesomecua.com/zh/resources/github-oomol-lab-wanta/)
+- [wavexis-mcp](https://awesomecua.com/zh/resources/github-mathiaspaulenko-wavexis-mcp/)

@@ -1,3 +1,11 @@
+---
+title: "izan.io · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ekingunoncu-izan-io/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # izan.io
 
 izan.io 是 Chrome 扩展 MCP 服务器，向 AI 智能体提供浏览器标签页管理、DOM 检查、点击、输入和截图工具。

@@ -1,3 +1,11 @@
+---
+title: "mcp-pyautogui · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hathibelagal-dev-mcp-pyautogui/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # mcp-pyautogui
 
 一个通过 PyAutoGUI 为 AI 客户端提供桌面鼠标和键盘控制、截图及屏幕查询功能的 MCP 服务器。

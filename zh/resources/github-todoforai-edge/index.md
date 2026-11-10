@@ -1,3 +1,11 @@
+---
+title: "TODO for AI Edge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-todoforai-edge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # TODO for AI Edge
 
 TODO for AI Edge 将本地计算机的 shell、文件系统和浏览器连接到 TODO for AI 智能体编排平台。

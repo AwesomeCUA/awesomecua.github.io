@@ -1,3 +1,11 @@
+---
+title: "GUILGET: GUI Layout GEneration with Transformer | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-09012/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GUILGET: GUI Layout GEneration with Transformer
 
 Bibliographic record for GUILGET: GUI Layout GEneration with Transformer. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Andrey Sobolevsky, Guillaume-Alexandre Bilodeau, Jinghui Cheng, Jin L. C. Guo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-09012/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-09012/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_09012,
+  title = {{GUILGET: GUI Layout GEneration with Transformer}},
+  author = {{Andrey Sobolevsky} and {Guillaume-Alexandre Bilodeau} and {Jinghui Cheng} and {Jin L. C. Guo}},
+  year = {2023},
+  eprint = {2304.09012v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.09012v1},
+  note = {First published: 2023-04-18; Recorded arXiv version: v1; Recorded version updated: 2023-04-18T14:27:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

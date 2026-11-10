@@ -1,3 +1,11 @@
+---
+title: "SpiritSight Agent: Advanced GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-03196/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # SpiritSight Agent: Advanced GUI Agent with One Look
 
 提出 SpiritSight 和 GUI-Lasagne 数据，结合多层级 GUI 标注与视觉区块解析，支持高分辨率界面导航。
@@ -27,6 +35,18 @@ Zhiyuan Huang, Ziming Cheng, Junting Pan, Zhaohui Hou, Mingjie Zhan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-03196/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-03196/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_03196,
+  title = {{SpiritSight Agent: Advanced GUI Agent with One Look}},
+  author = {{Zhiyuan Huang} and {Ziming Cheng} and {Junting Pan} and {Zhaohui Hou} and {Mingjie Zhan}},
+  year = {2025},
+  eprint = {2503.03196v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.03196v2},
+  note = {First published: 2025-03-05; Recorded arXiv version: v2; Recorded version updated: 2025-04-16T15:34:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

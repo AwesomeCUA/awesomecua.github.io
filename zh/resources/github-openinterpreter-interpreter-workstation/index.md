@@ -1,3 +1,11 @@
+---
+title: "Interpreter Workstation · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openinterpreter-interpreter-workstation/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Interpreter Workstation
 
 Interpreter Workstation 是桌面智能体工作空间，可连接本地或远程电脑，整合智能体运行时、浏览器访问以及文件和应用控制功能。

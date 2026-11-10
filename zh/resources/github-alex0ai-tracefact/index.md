@@ -1,3 +1,11 @@
+---
+title: "TraceFact · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alex0ai-tracefact/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TraceFact
 
 面向编程和浏览器智能体、以证据为先的可靠性报告与确定性回放框架。

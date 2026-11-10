@@ -1,3 +1,11 @@
+---
+title: "MUSES: 3D-Controllable Image Generation via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-10605/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration
 
 Status: excluded from the active CUA catalog after scope review.

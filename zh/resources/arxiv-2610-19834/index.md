@@ -1,3 +1,11 @@
+---
+title: "Teaching Agents in their Own Style… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-19834/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents
 
 提出 WebKD，通过教师模型的最少量修改修复学生网页智能体失败的轨迹，并利用保留学生推理风格的修正数据训练。
@@ -27,6 +35,18 @@ Md Farhan Ishmam, Kenneth Marino
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-19834/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-19834/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_19834,
+  title = {{Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents}},
+  author = {{Md Farhan Ishmam} and {Kenneth Marino}},
+  year = {2026},
+  eprint = {2610.19834v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.19834v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T09:06:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

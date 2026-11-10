@@ -1,3 +1,11 @@
+---
+title: "Predicate Python SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-predicatesystems-predicate-runtime-python/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Predicate Python SDK
 
 The Predicate Python SDK gives browser agents semantic page snapshots, UI assertions, and run traces so they can verify actions and inspect failures.

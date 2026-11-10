@@ -1,3 +1,11 @@
+---
+title: "Benchmarking Neural Network Training Algorithms | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-07179/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Benchmarking Neural Network Training Algorithms
 
 Status: excluded from the active CUA catalog after scope review.

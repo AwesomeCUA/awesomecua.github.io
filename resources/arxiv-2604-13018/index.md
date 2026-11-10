@@ -1,3 +1,11 @@
+---
+title: "Toward Autonomous Long-Horizon Engineering… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13018/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Toward Autonomous Long-Horizon Engineering for ML Research
 
 Status: excluded from the active CUA catalog after scope review.

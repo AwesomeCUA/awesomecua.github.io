@@ -1,3 +1,11 @@
+---
+title: "GUI-Xplore | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-Xplore
 
 Per-app Android exploration videos with screenshot and action sequences, view hierarchies and question-answer pairs for five tasks, from app overview and page analysis to action recall and sequence verification.

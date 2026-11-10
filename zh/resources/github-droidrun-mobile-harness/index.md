@@ -1,3 +1,11 @@
+---
+title: "Mobile Harness · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-droidrun-mobile-harness/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # Mobile Harness
 
 提供可移植的智能体指令和集成工具，通过 mobilerun-core 控制本地或云端手机。

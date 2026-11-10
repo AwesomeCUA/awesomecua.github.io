@@ -1,3 +1,11 @@
+---
+title: "Pix2Act | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-deepmind-pix2act/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Pix2Act
 
 Pix2Act provides JAX/T5X training and evaluation code for pixel-only GUI agents on MiniWoB++ using behavioral cloning and tree search.

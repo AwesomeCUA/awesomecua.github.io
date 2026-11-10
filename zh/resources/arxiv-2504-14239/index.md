@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-R1: Advancing Multimodal GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-14239/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners
 
 采用分阶段、侧重推理的训练框架，推动 GUI 智能体从反应式操作转向审慎规划与恢复。
@@ -27,6 +35,18 @@ Yuhang Liu, Pengxiang Li, Congkai Xie, Xavier Hu, Xiaotian Han, Shengyu Zhang, H
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-14239/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-14239/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_14239,
+  title = {{InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners}},
+  author = {{Yuhang Liu} and {Pengxiang Li} and {Congkai Xie} and {Xavier Hu} and {Xiaotian Han} and {Shengyu Zhang} and {Hongxia Yang} and {Fei Wu}},
+  year = {2025},
+  eprint = {2504.14239v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.14239v1},
+  note = {First published: 2025-04-19; Recorded arXiv version: v1; Recorded version updated: 2025-04-19T09:25:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

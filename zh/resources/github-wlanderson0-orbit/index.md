@@ -1,3 +1,11 @@
+---
+title: "ORBIT framework · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wlanderson0-orbit/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # ORBIT framework
 
 基于 Inspect 的多智能体评估框架，提供角色、调度和通信控制，以及 BrowserART 无障碍树操作和桌面鼠标、键盘、截图工具。

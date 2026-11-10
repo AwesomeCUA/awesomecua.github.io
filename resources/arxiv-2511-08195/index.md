@@ -1,3 +1,11 @@
+---
+title: "UI2Code^N: UI-to-Code Generation as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-08195/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UI2Code^N: UI-to-Code Generation as Interactive Visual Optimization
 
 Bibliographic record for UI2Code^N: UI-to-Code Generation as Interactive Visual Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhen Yang, Wenyi Hong, Mingde Xu, Xinyue Fan, Weihan Wang, Jiale Cheng, Xiaotao 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-08195/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-08195/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_08195,
+  title = {{UI2Code\textasciicircum{}N: UI-to-Code Generation as Interactive Visual Optimization}},
+  author = {{Zhen Yang} and {Wenyi Hong} and {Mingde Xu} and {Xinyue Fan} and {Weihan Wang} and {Jiale Cheng} and {Xiaotao Gu} and {Jie Tang}},
+  year = {2025},
+  eprint = {2511.08195v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.08195v4},
+  note = {First published: 2025-11-11; Recorded arXiv version: v4; Recorded version updated: 2026-06-10T16:57:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

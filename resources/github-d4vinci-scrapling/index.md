@@ -1,3 +1,11 @@
+---
+title: "Scrapling | AwesomeCUA"
+url: https://awesomecua.com/resources/github-d4vinci-scrapling/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Scrapling
 
 A Python scraping framework with HTTP and stealth browser fetchers and spiders, plus an MCP server whose seventeen tools let AI agents click, fill forms, type and take screenshots in browser sessions.

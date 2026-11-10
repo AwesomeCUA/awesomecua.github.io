@@ -1,3 +1,11 @@
+---
+title: "Claude Quickstarts (Computer Use Demo) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anthropics-claude-quickstarts/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Claude Quickstarts (Computer Use Demo)
 
 Anthropic reference implementations including the containerized Claude Computer Use desktop agent demo with Xvfb, VNC, and bash/browser tools.

@@ -1,3 +1,11 @@
+---
+title: "Panerelay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-f-loat-panerelay/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Panerelay
 
 Browser-authenticated fetch and existing-browser CDP connection bridge for AI agents on Chrome and Edge.

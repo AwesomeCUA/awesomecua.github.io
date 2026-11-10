@@ -1,3 +1,11 @@
+---
+title: "Interception · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-oblitum-interception/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Interception
 
 一个 Windows 输入驱动及 C 库，可按设备捕获、过滤并注入键盘和鼠标输入，附带示例程序和命令行安装程序。

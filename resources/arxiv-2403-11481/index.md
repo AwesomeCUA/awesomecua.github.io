@@ -1,3 +1,11 @@
+---
+title: "VideoAgent: A Memory-augmented Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-11481/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding
 
 Status: excluded from the active CUA catalog after scope review.

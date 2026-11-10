@@ -1,3 +1,11 @@
+---
+title: "InfantAgent-Next: A Multimodal Generalist… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-10887/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction
 
 Introduces InfantAgent-Next, a modular multimodal computer agent that combines tool-based and vision agents for stepwise tasks, with evaluation on OSWorld and other benchmarks.
@@ -26,6 +34,18 @@ Bin Lei, Weitai Kang, Zijian Zhang, Winson Chen, Xi Xie, Shan Zuo, Mimi Xie, Ali
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-10887/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-10887/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_10887,
+  title = {{InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction}},
+  author = {{Bin Lei} and {Weitai Kang} and {Zijian Zhang} and {Winson Chen} and {Xi Xie} and {Shan Zuo} and {Mimi Xie} and {Ali Payani} and {Mingyi Hong} and {Yan Yan} and {Caiwen Ding}},
+  year = {2025},
+  eprint = {2505.10887v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.10887v3},
+  note = {First published: 2025-05-16; Recorded arXiv version: v3; Recorded version updated: 2026-05-01T07:44:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

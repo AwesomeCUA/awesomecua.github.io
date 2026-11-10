@@ -1,3 +1,11 @@
+---
+title: "RECAP: A Resource-Efficient Method for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-15331/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

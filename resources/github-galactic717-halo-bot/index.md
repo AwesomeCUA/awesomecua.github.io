@@ -1,3 +1,11 @@
+---
+title: "Halo Bot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-galactic717-halo-bot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Halo Bot
 
 Self-hosted named AI teammates running in sandboxed desktop and browser environments on user-owned hardware.

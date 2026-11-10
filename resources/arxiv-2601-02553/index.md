@@ -1,3 +1,11 @@
+---
+title: "SimpleMem: Efficient Lifelong Memory for LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-02553/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SimpleMem: Efficient Lifelong Memory for LLM Agents
 
 Bibliographic record for SimpleMem: Efficient Lifelong Memory for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-02553/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-02553/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_02553,
+  title = {{SimpleMem: Efficient Lifelong Memory for LLM Agents}},
+  author = {{Jiaqi Liu} and {Yaofeng Su} and {Peng Xia} and {Siwei Han} and {Zeyu Zheng} and {Cihang Xie} and {Mingyu Ding} and {Huaxiu Yao}},
+  year = {2026},
+  eprint = {2601.02553v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.02553v3},
+  note = {First published: 2026-01-05; Recorded arXiv version: v3; Recorded version updated: 2026-01-29T15:45:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

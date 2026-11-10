@@ -1,3 +1,11 @@
+---
+title: "TaxAI: A Dynamic Economic Simulator and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-16307/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning
 
 Bibliographic record for TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qirui Mi, Siyu Xia, Yan Song, Haifeng Zhang, Shenghao Zhu, Jun Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-16307/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-16307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_16307,
+  title = {{TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning}},
+  author = {{Qirui Mi} and {Siyu Xia} and {Yan Song} and {Haifeng Zhang} and {Shenghao Zhu} and {Jun Wang}},
+  year = {2023},
+  eprint = {2309.16307v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.16307v2},
+  note = {First published: 2023-09-28; Recorded arXiv version: v2; Recorded version updated: 2024-03-14T12:43:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "UICrit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-datasets-uicrit/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UICrit
 
 Mobile-interface critiques and quality ratings with region coordinates and RICO screen references, including a larger three-annotator release than the original paper dataset.

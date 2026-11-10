@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Node SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-node/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Scrapeless Node SDK
 
 一款用于创建浏览器会话的 Node.js SDK，可通过 Playwright 或 Puppeteer 控制会话。它还提供浏览器配置文件、爬取、数据抓取和代理服务。

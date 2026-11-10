@@ -1,3 +1,11 @@
+---
+title: "QUE CORE · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qubasehq-que-tools/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # QUE CORE
 
 QUE CORE 是结合 Rust 和 Python 的运行时，为计算机使用智能体提供 121 个整合后的系统、窗口和 GUI 控制工具。

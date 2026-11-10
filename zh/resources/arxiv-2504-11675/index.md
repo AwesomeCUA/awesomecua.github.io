@@ -1,3 +1,11 @@
+---
+title: "VLM-Fuzz: Vision Language Model Assisted… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-11675/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps
 
 VLM-Fuzz 结合深度优先 UI 探索、Android 清单分析、运行时控件层级和按需视觉推理，生成应用测试输入。它在 59 个基准应用上评估覆盖率，并用其他 Google Play 应用研究崩溃发现。
@@ -27,6 +35,18 @@ Biniam Fisseha Demissie, Yan Naing Tun, Lwin Khin Shar, Mariano Ceccato
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-11675/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-11675/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_11675,
+  title = {{VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps}},
+  author = {{Biniam Fisseha Demissie} and {Yan Naing Tun} and {Lwin Khin Shar} and {Mariano Ceccato}},
+  year = {2025},
+  eprint = {2504.11675v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.11675v1},
+  note = {First published: 2025-04-16; Recorded arXiv version: v1; Recorded version updated: 2025-04-16T00:19:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Workroom (MLX Computer-Use Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-iamibrahimmemon-mlx-llm-workroom/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Workroom (MLX Computer-Use Agent)
 
 Workroom 是完全在本地运行的 macOS 计算机使用智能体，使用 Apple Silicon MLX 视觉语言模型读取屏幕并执行命令。

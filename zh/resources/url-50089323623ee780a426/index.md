@@ -1,3 +1,11 @@
+---
+title: "MiniMax M3 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-50089323623ee780a426/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # MiniMax M3
 
 MiniMax M3 是多模态模型；发布页面介绍了其根据视觉输入操作电脑桌面，以及通过 MiniMax Code 完成跨应用任务的能力。

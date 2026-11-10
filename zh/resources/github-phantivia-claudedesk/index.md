@@ -1,3 +1,11 @@
+---
+title: "ClaudeDesk · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-phantivia-claudedesk/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ClaudeDesk
 
 将 Windows 桌面画面流式传输到浏览器界面，使编程智能体能够以视觉方式检查和调试 GUI 应用。

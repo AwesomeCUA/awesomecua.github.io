@@ -1,3 +1,11 @@
+---
+title: "WebLlama | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcgill-nlp-webllama/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # WebLlama
 
 Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.

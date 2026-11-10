@@ -1,3 +1,11 @@
+---
+title: "taskforge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huzjie-taskforge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # taskforge
 
 taskforge 是长时程工作流编排引擎，结合多步骤规划、工具调用和 GUI 状态验证。

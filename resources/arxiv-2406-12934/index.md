@@ -1,3 +1,11 @@
+---
+title: "Current state of LLM Risks and AI Guardrails | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-12934/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Current state of LLM Risks and AI Guardrails
 
 Status: excluded from the active CUA catalog after scope review.

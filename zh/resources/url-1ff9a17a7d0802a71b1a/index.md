@@ -1,3 +1,11 @@
+---
+title: "WebGenAgent-LM-7B-SFT · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1ff9a17a7d0802a71b1a/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # WebGenAgent-LM-7B-SFT
 
 WebGen-Agent 的 7B 监督微调检查点，根据指令编写网站代码，并依据截图评价和 GUI 智能体功能测试加以改进。

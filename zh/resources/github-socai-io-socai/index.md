@@ -1,3 +1,11 @@
+---
+title: "socai · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-socai-io-socai/
+updated: 2026-10-18
+type: tool
+lang: zh-CN
+---
+
 # socai
 
 Rust CLI、Agent Skill 和桌面研究智能体通过 DevTools Protocol 操控已登录的 Chrome，并提供按平台划分的工具，用于搜索和阅读社交网站的帖子、评论与个人资料。

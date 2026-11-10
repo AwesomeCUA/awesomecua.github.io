@@ -1,3 +1,11 @@
+---
+title: "AgentHeal: Evaluating Goal-Preserving… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-39234/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers
 
 提出 AgentHeal，评估网络智能体能否识别访问障碍、寻找合规替代来源，并保持用户原有目标。
@@ -27,6 +35,18 @@ Zhiyi Liu, Haohua Du, Haoqi Sun, Haisheng Tan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-39234/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-39234/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_39234,
+  title = {{AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers}},
+  author = {{Zhiyi Liu} and {Haohua Du} and {Haoqi Sun} and {Haisheng Tan}},
+  year = {2026},
+  eprint = {2610.39234v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.39234v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T02:51:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

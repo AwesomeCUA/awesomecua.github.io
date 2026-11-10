@@ -1,3 +1,11 @@
+---
+title: "Local Life Publisher Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-3105059695-rgb-local-life-publisher/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Local Life Publisher Skill
 
 Verified browser-automation skill for WorkBuddy and Codex to publish content across Xiaohongshu, Douyin, and Ctrip.

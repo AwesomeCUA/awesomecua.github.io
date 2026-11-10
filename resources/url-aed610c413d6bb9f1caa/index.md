@@ -1,3 +1,11 @@
+---
+title: "Gelato OS-World agent trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Gelato OS-World agent trajectories
 
 Gelato-30B-A3B and GTA1-32B OS-World agent runs, three trials each in the same GPT-5-planned GTA1.5-based harness, with per-task trajectories, initial and step screenshots, and automated results.

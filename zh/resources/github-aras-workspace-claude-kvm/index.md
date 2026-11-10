@@ -1,3 +1,11 @@
+---
+title: "Claude KVM · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aras-workspace-claude-kvm/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Claude KVM
 
 Claude KVM 是 macOS MCP 服务器和 VNC 客户端，使 AI 智能体能够通过 VNC 观察和控制远程桌面环境。

@@ -1,3 +1,11 @@
+---
+title: "HiPER: Hierarchical Reinforcement… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-16165/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents
 
 HiPER 将交互式 LLM 智能体的子目标规划与多步执行分开训练，并在两个层级分配强化学习反馈。
@@ -27,6 +35,18 @@ Jiangweizhi Peng, Yuanxin Liu, Ruida Zhou, Charles Fleming, Zhaoran Wang, Alfred
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-16165/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-16165/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_16165,
+  title = {{HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents}},
+  author = {{Jiangweizhi Peng} and {Yuanxin Liu} and {Ruida Zhou} and {Charles Fleming} and {Zhaoran Wang} and {Alfredo Garcia} and {Mingyi Hong}},
+  year = {2026},
+  eprint = {2602.16165v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.16165v2},
+  note = {First published: 2026-02-18; Recorded arXiv version: v2; Recorded version updated: 2026-05-29T05:19:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

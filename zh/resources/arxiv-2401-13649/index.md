@@ -1,3 +1,11 @@
+---
+title: "VisualWebArena: Evaluating Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2401-13649/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks
 
 提出需要视觉定位的网站任务，用于评估须同时理解图像和文本的多模态智能体。
@@ -27,6 +35,18 @@ Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2401-13649/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2401-13649/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_13649,
+  title = {{VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks}},
+  author = {{Jing Yu Koh} and {Robert Lo} and {Lawrence Jang} and {Vikram Duvvur} and {Ming Chong Lim} and {Po-Yu Huang} and {Graham Neubig} and {Shuyan Zhou} and {Ruslan Salakhutdinov} and {Daniel Fried}},
+  year = {2024},
+  eprint = {2401.13649v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.13649v2},
+  note = {First published: 2024-01-24; Recorded arXiv version: v2; Recorded version updated: 2024-06-06T02:01:09Z.}
+}
+```
 
 ## 发表记录
 

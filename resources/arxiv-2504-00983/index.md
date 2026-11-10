@@ -1,3 +1,11 @@
+---
+title: "WorldScore: A Unified Evaluation Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-00983/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # WorldScore: A Unified Evaluation Benchmark for World Generation
 
 Bibliographic record for WorldScore: A Unified Evaluation Benchmark for World Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haoyi Duan, Hong-Xing Yu, Sirui Chen, Li Fei-Fei, Jiajun Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-00983/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-00983/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_00983,
+  title = {{WorldScore: A Unified Evaluation Benchmark for World Generation}},
+  author = {{Haoyi Duan} and {Hong-Xing Yu} and {Sirui Chen} and {Li Fei-Fei} and {Jiajun Wu}},
+  year = {2025},
+  eprint = {2504.00983v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.00983v2},
+  note = {First published: 2025-04-01; Recorded arXiv version: v2; Recorded version updated: 2025-11-29T04:20:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

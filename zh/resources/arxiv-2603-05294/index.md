@@ -1,3 +1,11 @@
+---
+title: "STRUCTUREDAGENT: Planning with AND/OR… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-05294/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # STRUCTUREDAGENT: Planning with AND/OR Trees for Long-Horizon Web Tasks
 
 提出网页智能体规划框架 STRUCTUREDAGENT，以动态 AND/OR 树交替规划和执行，支持修复规划节点及探索备选方案。
@@ -27,6 +35,18 @@ ELita Lobo, Xu Chen, Jingjing Meng, Nan Xi, Yang Jiao, Chirag Agarwal, Yair Zick
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-05294/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-05294/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_05294,
+  title = {{STRUCTUREDAGENT: Planning with AND/OR Trees for Long-Horizon Web Tasks}},
+  author = {{ELita Lobo} and {Xu Chen} and {Jingjing Meng} and {Nan Xi} and {Yang Jiao} and {Chirag Agarwal} and {Yair Zick} and {Yan Gao}},
+  year = {2026},
+  eprint = {2603.05294v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.05294v3},
+  note = {First published: 2026-03-05; Recorded arXiv version: v3; Recorded version updated: 2026-09-19T02:21:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

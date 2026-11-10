@@ -1,3 +1,11 @@
+---
+title: "Chrome Launcher · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-googlechrome-chrome-launcher/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Chrome Launcher
 
 Chrome Launcher 是一个 Node.js 模块，可查找并启动 Chrome，使用全新的用户配置、开放远程调试端口，并通过启动参数关闭会干扰自动化运行的服务。

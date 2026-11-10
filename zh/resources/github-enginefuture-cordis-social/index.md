@@ -1,3 +1,11 @@
+---
+title: "Cordis Social · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-enginefuture-cordis-social/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Cordis Social
 
 注重生命周期安全的 Cordis 插件套件，用于编排 ProfileFleet、OpenAI Codex 和多配置文件浏览器工作流。

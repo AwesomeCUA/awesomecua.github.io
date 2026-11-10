@@ -1,3 +1,11 @@
+---
+title: "Pack Light, CarryOn: Building Object-Oriented… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-18784/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents
 
 Introduces CarryOn, which maintains evidence-linked task objects and remaining-work context across history compression, with evaluations on desktop tasks and web research.
@@ -26,6 +34,18 @@ Yuchen Lu, Julian McAuley, Lei Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-18784/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-18784/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_18784,
+  title = {{Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents}},
+  author = {{Yuchen Lu} and {Julian McAuley} and {Lei Zhang}},
+  year = {2026},
+  eprint = {2610.18784v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.18784v2},
+  note = {First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T04:46:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

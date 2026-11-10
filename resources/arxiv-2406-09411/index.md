@@ -1,3 +1,11 @@
+---
+title: "MuirBench: A Comprehensive Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-09411/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding
 
 Bibliographic record for MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Der
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-09411/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-09411/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_09411,
+  title = {{MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding}},
+  author = {{Fei Wang} and {Xingyu Fu} and {James Y. Huang} and {Zekun Li} and {Qin Liu} and {Xiaogeng Liu} and {Mingyu Derek Ma} and {Nan Xu} and {Wenxuan Zhou} and {Kai Zhang} and {Tianyi Lorena Yan} and {Wenjie Jacky Mo} and {Hsiang-Hui Liu} and {Pan Lu} and {Chunyuan Li} and {Chaowei Xiao} and {Kai-Wei Chang} and {Dan Roth} and {Sheng Zhang} and {Hoifung Poon} and {Muhao Chen}},
+  year = {2024},
+  eprint = {2406.09411v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.09411v2},
+  note = {First published: 2024-06-13; Recorded arXiv version: v2; Recorded version updated: 2024-07-02T01:56:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

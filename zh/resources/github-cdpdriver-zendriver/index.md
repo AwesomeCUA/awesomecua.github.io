@@ -1,3 +1,11 @@
+---
+title: "Zendriver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cdpdriver-zendriver/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Zendriver
 
 这是一个基于 Chrome DevTools Protocol 的 Python 浏览器自动化库，提供页面导航、元素查找、截图和浏览器配置文件管理。

@@ -1,3 +1,11 @@
+---
+title: "Magnitude WebVoyager Benchmark Results · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magnitudedev-webvoyager/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Magnitude WebVoyager Benchmark Results
 
 这是 Magnitude 浏览器智能体的 WebVoyager 评测发布内容，包括所报告的任务结果、任务修订和复现说明。

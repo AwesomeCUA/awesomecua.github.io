@@ -1,3 +1,11 @@
+---
+title: "RICO-WidgetCaptioning | AwesomeCUA"
+url: https://awesomecua.com/resources/url-013bb9256ca6ad5188be/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # RICO-WidgetCaptioning
 
 A mobile UI dataset pairing RICO screenshots and widget regions with human-written captions. It includes view hierarchies and train, validation, and test splits.

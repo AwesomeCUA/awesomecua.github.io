@@ -1,3 +1,11 @@
+---
+title: "Steel Node API Library · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steel-dev-steel-node/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # Steel Node API Library
 
 Steel 云浏览器 API 的 TypeScript 与 JavaScript 客户端，提供类型化调用，用于创建浏览器会话、发送计算机操作、处理验证码，以及管理文件、配置文件和凭据。

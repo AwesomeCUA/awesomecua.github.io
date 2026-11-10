@@ -1,3 +1,11 @@
+---
+title: "Iris: Breaking GUI Complexity with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-10342/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining
 
 结合对信息敏感的图像裁剪，以及在元素描述与定位之间循环学习的方法，理解复杂界面。
@@ -27,6 +35,18 @@ Zhiqi Ge, Juncheng Li, Xinglei Pang, Minghe Gao, Kaihang Pan, Wang Lin, Hao Fei,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-10342/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-10342/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_10342,
+  title = {{Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining}},
+  author = {{Zhiqi Ge} and {Juncheng Li} and {Xinglei Pang} and {Minghe Gao} and {Kaihang Pan} and {Wang Lin} and {Hao Fei} and {Wenqiao Zhang} and {Siliang Tang} and {Yueting Zhuang}},
+  year = {2024},
+  eprint = {2412.10342v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.10342v2},
+  note = {First published: 2024-12-13; Recorded arXiv version: v2; Recorded version updated: 2025-02-03T15:23:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

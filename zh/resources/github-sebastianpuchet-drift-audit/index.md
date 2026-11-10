@@ -1,3 +1,11 @@
+---
+title: "drift-audit · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sebastianpuchet-drift-audit/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # drift-audit
 
 审查并分类浏览器自动化仓库的选择器维护历史，以量化其受 UI 变化影响的脆弱程度。

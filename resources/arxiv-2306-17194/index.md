@@ -1,3 +1,11 @@
+---
+title: "On the Exploitability of Instruction Tuning | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-17194/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # On the Exploitability of Instruction Tuning
 
 Status: excluded from the active CUA catalog after scope review.

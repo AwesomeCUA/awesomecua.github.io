@@ -1,3 +1,11 @@
+---
+title: "Explore, Select, Derive, and Recall… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-03003/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation
 
 Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
@@ -26,6 +34,18 @@ Sunjae Lee, Junyoung Choi, Jungjae Lee, Munim Hasan Wasi, Hojun Choi, Steven Y. 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-03003/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-03003/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_03003,
+  title = {{Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation}},
+  author = {{Sunjae Lee} and {Junyoung Choi} and {Jungjae Lee} and {Munim Hasan Wasi} and {Hojun Choi} and {Steven Y. Ko} and {Sangeun Oh} and {Insik Shin}},
+  year = {2023},
+  eprint = {2312.03003v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.03003v3},
+  note = {First published: 2023-12-04; Recorded arXiv version: v3; Recorded version updated: 2024-10-16T08:15:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

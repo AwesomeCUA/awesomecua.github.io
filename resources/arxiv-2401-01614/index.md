@@ -1,3 +1,11 @@
+---
+title: "GPT-4V(ision) is a Generalist Web Agent, if… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-01614/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GPT-4V(ision) is a Generalist Web Agent, if Grounded
 
 Introduces SeeAct and live-website evaluation, examining how visual planning and element grounding affect web-agent task completion.
@@ -26,6 +34,18 @@ Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-01614/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-01614/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_01614,
+  title = {{GPT-4V(ision) is a Generalist Web Agent, if Grounded}},
+  author = {{Boyuan Zheng} and {Boyu Gou} and {Jihyung Kil} and {Huan Sun} and {Yu Su}},
+  year = {2024},
+  eprint = {2401.01614v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.01614v2},
+  note = {First published: 2024-01-03; Recorded arXiv version: v2; Recorded version updated: 2024-03-12T23:14:33Z.}
+}
+```
 
 ## Publication record
 

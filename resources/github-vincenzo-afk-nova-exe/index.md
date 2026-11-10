@@ -1,3 +1,11 @@
+---
+title: "NOVA-exe | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vincenzo-afk-nova-exe/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # NOVA-exe
 
 Local-first desktop AI agent platform built with TypeScript, Electron, React, and SQLite for permissioned computer control.

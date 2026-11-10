@@ -1,3 +1,11 @@
+---
+title: "SimPersona: Learning Discrete Buyer Personas… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14205/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents
 
 SimPersona learns buyer types from clickstreams and uses persona tokens to condition web agents trained on browsing traces for live storefront tasks.
@@ -26,6 +34,18 @@ Zahra Zanjani Foumani, Alberto Castelo, Shuang Xie, Ted Chaiwachirasak, Han Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-14205/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-14205/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14205,
+  title = {{SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents}},
+  author = {{Zahra Zanjani Foumani} and {Alberto Castelo} and {Shuang Xie} and {Ted Chaiwachirasak} and {Han Li} and {Lingyun Wang}},
+  year = {2026},
+  eprint = {2605.14205v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14205v2},
+  note = {First published: 2026-05-14; Recorded arXiv version: v2; Recorded version updated: 2026-05-15T03:55:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

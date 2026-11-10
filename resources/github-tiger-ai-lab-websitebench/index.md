@@ -1,3 +1,11 @@
+---
+title: "WebsiteBench (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/
+updated: 2026-11-06
+type: benchmark
+lang: en
+---
+
 # WebsiteBench
 
 Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.

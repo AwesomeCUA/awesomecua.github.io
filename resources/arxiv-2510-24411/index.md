@@ -1,3 +1,11 @@
+---
+title: "OS-Sentinel: Towards Safety-Enhanced Mobile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24411/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows
 
 Introduces MobileRisk-Live and OS-Sentinel, combining a formal verifier for system-level violations with a multimodal judge for contextual risks in mobile GUI workflows.
@@ -26,6 +34,18 @@ Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, Fangzhi Xu, Zhangyue Yin, Kanz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24411/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24411/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24411,
+  title = {{OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows}},
+  author = {{Qiushi Sun} and {Mukai Li} and {Zhoumianze Liu} and {Zhihui Xie} and {Fangzhi Xu} and {Zhangyue Yin} and {Kanzhi Cheng} and {Zehao Li} and {Zichen Ding} and {Qi Liu} and {Zhiyong Wu} and {Zhuosheng Zhang} and {Ben Kao} and {Lingpeng Kong}},
+  year = {2025},
+  eprint = {2510.24411v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24411v3},
+  note = {First published: 2025-10-28; Recorded arXiv version: v3; Recorded version updated: 2026-07-26T01:16:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

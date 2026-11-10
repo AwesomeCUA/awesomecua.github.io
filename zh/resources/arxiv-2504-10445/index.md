@@ -1,3 +1,11 @@
+---
+title: "RealWebAssist: A Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-10445/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users
 
 RealWebAssist 以真实用户在多个网站上的连续指令评估网页辅助能力，测试智能体在指令含糊或交互中变化时对意图、用户特定流程、长期上下文和视觉定位的处理。
@@ -27,6 +35,18 @@ Suyu Ye, Haojun Shi, Darren Shih, Hyokun Yun, Tanya Roosta, Tianmin Shu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-10445/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-10445/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_10445,
+  title = {{RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users}},
+  author = {{Suyu Ye} and {Haojun Shi} and {Darren Shih} and {Hyokun Yun} and {Tanya Roosta} and {Tianmin Shu}},
+  year = {2025},
+  eprint = {2504.10445v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.10445v2},
+  note = {First published: 2025-04-14; Recorded arXiv version: v2; Recorded version updated: 2025-12-01T15:22:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

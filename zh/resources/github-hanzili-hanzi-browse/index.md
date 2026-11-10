@@ -1,3 +1,11 @@
+---
+title: "Hanzi Browse · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hanzili-hanzi-browse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hanzi Browse
 
 Hanzi Browse 是网站适配与浏览器执行层，为复杂动态网页应用提供结构化 YAML 操作配方。

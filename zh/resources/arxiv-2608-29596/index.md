@@ -1,3 +1,11 @@
+---
+title: "A Systematic Survey of Agentic Skills… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-29596/
+updated: 2026-10-18
+type: survey
+lang: zh-CN
+---
+
 # A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security
 
 综述自主使用工具和界面的智能体中，模块化技能的架构、技能生命周期及安全风险。
@@ -27,6 +35,18 @@ Sanket Badhe, Deep Shah, Priyanka Tiwari, Nehal Kathrotia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-29596/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-29596/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_29596,
+  title = {{A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security}},
+  author = {{Sanket Badhe} and {Deep Shah} and {Priyanka Tiwari} and {Nehal Kathrotia}},
+  year = {2026},
+  eprint = {2608.29596v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.29596v2},
+  note = {First published: 2026-08-30; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T17:25:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

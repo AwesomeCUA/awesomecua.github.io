@@ -1,3 +1,11 @@
+---
+title: "UI-AGILE-Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-41abb1b7206689cf5057/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UI-AGILE-Data
 
 UI-AGILE training annotations and screenshots together with converted GUI-grounding and AndroidControl evaluation files.

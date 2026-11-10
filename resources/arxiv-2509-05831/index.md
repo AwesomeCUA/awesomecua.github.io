@@ -1,3 +1,11 @@
+---
+title: "Decoding Latent Attack Surfaces in LLMs… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-05831/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization
 
 Bibliographic record for Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ishaan Verma, Arsheya Yadav
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-05831/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-05831/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_05831,
+  title = {{Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization}},
+  author = {{Ishaan Verma} and {Arsheya Yadav}},
+  year = {2025},
+  eprint = {2509.05831v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.05831v3},
+  note = {First published: 2025-09-06; Recorded arXiv version: v3; Recorded version updated: 2025-11-11T06:53:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

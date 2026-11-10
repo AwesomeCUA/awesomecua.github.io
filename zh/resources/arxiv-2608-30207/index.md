@@ -1,3 +1,11 @@
+---
+title: "SIR: Self-improving Red-teaming for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-30207/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SIR: Self-improving Red-teaming for Compute Use Agents
 
 SIR 从失败的计算机使用攻击轨迹中迭代改进可复用的提示注入策略库；评估采用确定性的系统状态检查，只有对抗目标与合法任务均完成时才计入成功攻击。
@@ -27,6 +35,18 @@ Chen Xiong, Zhiyuan He, Pin-Yu Chen, Stjepan Picek, Tsung-Yi Ho
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-30207/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-30207/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_30207,
+  title = {{SIR: Self-improving Red-teaming for Compute Use Agents}},
+  author = {{Chen Xiong} and {Zhiyuan He} and {Pin-Yu Chen} and {Stjepan Picek} and {Tsung-Yi Ho}},
+  year = {2026},
+  eprint = {2608.30207v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.30207v2},
+  note = {First published: 2026-08-31; Recorded arXiv version: v2; Recorded version updated: 2026-10-03T10:41:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

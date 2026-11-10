@@ -1,3 +1,11 @@
+---
+title: "Professional Software Developers Don't Vibe… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-14012/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025
 
 Status: excluded from the active CUA catalog after scope review.

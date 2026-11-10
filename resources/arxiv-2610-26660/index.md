@@ -1,3 +1,11 @@
+---
+title: "Tandem: Serving Hybrid Linear-Attention GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26660/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs
 
 Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts.
@@ -26,6 +34,18 @@ Zhuomin Chen, Jingchao Ni, Xu Zheng, Yong Chen, Mo Sha, Wei Cheng, Dongsheng Luo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26660/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26660/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26660,
+  title = {{Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs}},
+  author = {{Zhuomin Chen} and {Jingchao Ni} and {Xu Zheng} and {Yong Chen} and {Mo Sha} and {Wei Cheng} and {Dongsheng Luo}},
+  year = {2026},
+  eprint = {2610.26660v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26660v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T16:18:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "From System 1 to System 2: A Survey of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-17419/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From System 1 to System 2: A Survey of Reasoning Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

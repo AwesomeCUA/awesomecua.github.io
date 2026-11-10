@@ -1,3 +1,11 @@
+---
+title: "A Baseline Assessment for the Agentic Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13703/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # A Baseline Assessment for the Agentic Web Technology Stack
 
 Presents MASTIF, a framework for comparing combinations of agent models, protocols, and implementation frameworks on web tasks, with an initial assessment using 300 Mind2Web tasks.
@@ -26,6 +34,18 @@ Vagner Figueredo de Santana, Diogo Cortiz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13703/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13703/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13703,
+  title = {{A Baseline Assessment for the Agentic Web Technology Stack}},
+  author = {{Vagner Figueredo de Santana} and {Diogo Cortiz}},
+  year = {2026},
+  eprint = {2610.13703v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13703v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T14:59:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

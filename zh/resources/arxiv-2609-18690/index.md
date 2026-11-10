@@ -1,3 +1,11 @@
+---
+title: "RankGround: Efficient High-Resolution… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-18690/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection
 
 RankGround 训练轻量级重排序器，先选出有希望的截图裁剪区域，再调用一次 VLM 进行定位。排序监督采用包含关系和边界感知增强，训练分为逐项和列表两个阶段。
@@ -27,6 +35,18 @@ Liyang Fan, Xinping Bi, Yitai Li, Shuaimin Li, Hui Li, Min Yang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-18690/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-18690/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_18690,
+  title = {{RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection}},
+  author = {{Liyang Fan} and {Xinping Bi} and {Yitai Li} and {Shuaimin Li} and {Hui Li} and {Min Yang}},
+  year = {2026},
+  eprint = {2609.18690v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.18690v1},
+  note = {First published: 2026-09-16; Recorded arXiv version: v1; Recorded version updated: 2026-09-16T14:06:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

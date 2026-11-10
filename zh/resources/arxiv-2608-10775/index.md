@@ -1,3 +1,11 @@
+---
+title: "SkillLens: Visual Skill Cards for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-10775/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation
 
 提出 SkillLens 视觉技能卡，为 GUI 操作预测提供检索到的参考；CardDistill 则训练可在网站任务中脱离检索运行的学生模型。
@@ -27,6 +35,18 @@ Zhou Liu, Chenxu Zhang, Ligang Huang, Zeli Su, Zewei Pan, Changhang Tian, Zhaoya
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-10775/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-10775/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_10775,
+  title = {{SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation}},
+  author = {{Zhou Liu} and {Chenxu Zhang} and {Ligang Huang} and {Zeli Su} and {Zewei Pan} and {Changhang Tian} and {Zhaoyang Han} and {Xing Chen} and {Yuanfeng Song} and {Wentao Zhang}},
+  year = {2026},
+  eprint = {2608.10775v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.10775v2},
+  note = {First published: 2026-08-11; Recorded arXiv version: v2; Recorded version updated: 2026-11-03T08:32:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

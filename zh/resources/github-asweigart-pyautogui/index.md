@@ -1,3 +1,11 @@
+---
+title: "PyAutoGUI · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-asweigart-pyautogui/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # PyAutoGUI
 
 跨平台 Python 模块，用脚本控制鼠标和键盘、显示消息框、截屏及搜索屏幕图像；在 Windows、macOS 和 Linux 的主显示器上运行。

@@ -1,3 +1,11 @@
+---
+title: "WebHarbor · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # WebHarbor
 
 WebHarbor 将 153 个真实网站做成基于 Docker 的本地镜像，包含登录和数据库，并提供 3,518 个带验证器的任务，用于评估和强化学习训练 GUI 网页智能体，另有控制面实现亚秒级站点重置。

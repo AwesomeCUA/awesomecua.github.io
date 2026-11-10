@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3.5-9B OSWorld SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9b7cc83c55fd75c5b867/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ScaleCUA (THUDM) Qwen3.5-9B OSWorld SFT
 
 Supervised Qwen3.5-9B checkpoint from THUDM's ScaleCUA, released as the start point that online RL initializes from for its OSWorld computer-use agent.

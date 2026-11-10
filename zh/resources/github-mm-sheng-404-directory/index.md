@@ -1,3 +1,11 @@
+---
+title: "404.directory · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mm-sheng-404-directory/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # 404.directory
 
 执行前风险预检服务和 SDK，在 AI 智能体调用第三方工具和域名前对其进行检查。

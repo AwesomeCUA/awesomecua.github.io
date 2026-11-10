@@ -1,3 +1,11 @@
+---
+title: "Gloria Headless · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sh7vansh-gloria-headless/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Gloria Headless
 
 容器化无头 Chromium 环境，原生集成 Model Context Protocol，供自主网页智能体使用。

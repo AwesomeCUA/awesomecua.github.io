@@ -1,3 +1,11 @@
+---
+title: "Oya Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-oyadotai-oya-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Oya Browser
 
 Oya Browser is a governance-aware browser control plane for human-AI collaboration across local and cloud browser providers.

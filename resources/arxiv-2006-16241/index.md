@@ -1,3 +1,11 @@
+---
+title: "The Many Faces of Robustness: A Critical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2006-16241/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization
 
 Status: excluded from the active CUA catalog after scope review.

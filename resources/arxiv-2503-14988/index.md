@@ -1,3 +1,11 @@
+---
+title: "Fault-Tolerant Optical Quantum Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-14988/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fault-Tolerant Optical Quantum Computation using 3D Hybrid Cluster States
 
 Status: excluded from the active CUA catalog after scope review.

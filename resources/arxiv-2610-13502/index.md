@@ -1,3 +1,11 @@
+---
+title: "Stride: Scale-Aware Multi-Agent Evolutionary… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13502/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Stride: Scale-Aware Multi-Agent Evolutionary Refinement for Infographic Generation
 
 Bibliographic record for Stride: Scale-Aware Multi-Agent Evolutionary Refinement for Infographic Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yan Zhou, Yang Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13502/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13502/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13502,
+  title = {{Stride: Scale-Aware Multi-Agent Evolutionary Refinement for Infographic Generation}},
+  author = {{Yan Zhou} and {Yang Yang}},
+  year = {2026},
+  eprint = {2610.13502v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13502v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T12:29:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

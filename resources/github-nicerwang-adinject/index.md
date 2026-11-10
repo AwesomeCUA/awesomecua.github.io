@@ -1,3 +1,11 @@
+---
+title: "AdInject | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nicerwang-adinject/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AdInject
 
 AdInject implements black-box indirect prompt injection attacks delivered through web advertising banners on OSWorld and VisualWebArena.

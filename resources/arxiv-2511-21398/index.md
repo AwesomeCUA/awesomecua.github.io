@@ -1,3 +1,11 @@
+---
+title: "Prune4Web: DOM Tree Pruning Programming for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-21398/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Prune4Web: DOM Tree Pruning Programming for Web Agent
 
 Introduces Prune4Web, where generated scoring programs filter DOM elements according to decomposed subtasks before grounding. An annotation pipeline and two-turn training procedure coordinate the planner, programmatic filter and grounder.
@@ -26,6 +34,18 @@ Jiayuan Zhang, Kaiquan Chen, Zhihao Lu, Enshen Zhou, Qian Yu, Jing Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-21398/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-21398/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_21398,
+  title = {{Prune4Web: DOM Tree Pruning Programming for Web Agent}},
+  author = {{Jiayuan Zhang} and {Kaiquan Chen} and {Zhihao Lu} and {Enshen Zhou} and {Qian Yu} and {Jing Zhang}},
+  year = {2025},
+  eprint = {2511.21398v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.21398v1},
+  note = {First published: 2025-11-26; Recorded arXiv version: v1; Recorded version updated: 2025-11-26T13:49:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

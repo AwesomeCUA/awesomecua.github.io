@@ -1,3 +1,11 @@
+---
+title: "Benchmark Everything Everywhere All at Once | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-06462/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Benchmark Everything Everywhere All at Once
 
 Status: excluded from the active CUA catalog after scope review.

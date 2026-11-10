@@ -1,3 +1,11 @@
+---
+title: "Dark Patterns Meet GUI Agents: LLM Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-10723/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Dark Patterns Meet GUI Agents: LLM Agent Susceptibility to Manipulative Interfaces and the Role of Human Oversight
 
 研究 GUI 智能体、人和人机团队如何应对操纵性界面设计；两阶段评估考察失败模式以及人工监督的收益与成本。
@@ -27,6 +35,18 @@ Jingyu Tang, Chaoran Chen, Jiawen Li, Zhiping Zhang, Bingcan Guo, Ibrahim Khalil
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-10723/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-10723/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_10723,
+  title = {{Dark Patterns Meet GUI Agents: LLM Agent Susceptibility to Manipulative Interfaces and the Role of Human Oversight}},
+  author = {{Jingyu Tang} and {Chaoran Chen} and {Jiawen Li} and {Zhiping Zhang} and {Bingcan Guo} and {Ibrahim Khalilov} and {Simret Araya Gebreegziabher} and {Bingsheng Yao} and {Dakuo Wang} and {Yanfang Ye} and {Tianshi Li} and {Ziang Xiao} and {Yaxing Yao} and {Toby Jia-Jun Li}},
+  year = {2025},
+  eprint = {2509.10723v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.10723v1},
+  note = {First published: 2025-09-12; Recorded arXiv version: v1; Recorded version updated: 2025-09-12T22:26:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

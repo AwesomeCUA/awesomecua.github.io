@@ -1,3 +1,11 @@
+---
+title: "V-Droid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-v-droid-agent-v-droid/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # V-Droid
 
 V-Droid pairs a mobile GUI actor with a generative verifier that scores candidate actions before execution on Android devices.

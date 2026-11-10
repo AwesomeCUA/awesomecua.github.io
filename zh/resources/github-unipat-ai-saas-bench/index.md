@@ -1,3 +1,11 @@
+---
+title: "SaaS-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-unipat-ai-saas-bench/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # SaaS-Bench
 
 涵盖 6 个领域、23 个自行托管的 SaaS 应用中的 106 个浏览器操作业务流程；每项任务由读取应用数据库的验证器评分，并给予部分分数。

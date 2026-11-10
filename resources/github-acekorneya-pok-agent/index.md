@@ -1,3 +1,11 @@
+---
+title: "POK-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acekorneya-pok-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # POK-Agent
 
 POK-Agent is a Windows computer-use agent that pairs a cloud planner with a fast local actor and caches repeated UI workflows as skills.

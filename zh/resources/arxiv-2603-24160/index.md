@@ -1,3 +1,11 @@
+---
+title: "Towards Automated Crowdsourced Testing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-24160/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Towards Automated Crowdsourced Testing via Personified-LLM
 
 提出 PersonaTester，通过为 LLM 智能体设置测试者角色，使自动化众包 GUI 测试呈现不同的探索策略和交互习惯。
@@ -27,6 +35,18 @@ Shengcheng Yu, Yuchen Ling, Chunrong Fang, Zhenyu Chen, Chunyang Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-24160/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-24160/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_24160,
+  title = {{Towards Automated Crowdsourced Testing via Personified-LLM}},
+  author = {{Shengcheng Yu} and {Yuchen Ling} and {Chunrong Fang} and {Zhenyu Chen} and {Chunyang Chen}},
+  year = {2026},
+  eprint = {2603.24160v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.24160v2},
+  note = {First published: 2026-03-25; Recorded arXiv version: v2; Recorded version updated: 2026-04-15T12:04:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

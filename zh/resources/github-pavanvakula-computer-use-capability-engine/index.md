@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Capability Engine · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pavanvakula-computer-use-capability-engine/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Computer-Use Capability Engine
 
 通过 LLM 一次性发现旧版 UI 工作流，并将其编译为带类型和版本、可确定性重放的能力。

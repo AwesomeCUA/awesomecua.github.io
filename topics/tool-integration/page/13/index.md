@@ -1,11 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 13 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/13/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 13
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/13/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [Firecrawl](https://awesomecua.com/resources/github-firecrawl-firecrawl/)
-- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/resources/github-firecrawl-agent-browser-plugin-firecrawl/)
 - [Firecrawl MCP Server](https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/)
 - [Firefox DevTools MCP](https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/)
 - [firefox-bidi-mcp](https://awesomecua.com/resources/github-enne2-firefox-bidi-mcp/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [grokbot-cdp](https://awesomecua.com/resources/github-daizedong-grokbot-cdp/)
 - [gui_agent (FastMCP Desktop Server)](https://awesomecua.com/resources/github-leandre755-gui-agent/)
 - [Gumloop](https://awesomecua.com/resources/url-6884b7a1aa1bf507dae7/)
+- [guo6x dsh-pilot](https://awesomecua.com/resources/github-guo6x-dsh-pilot/)
+- [haden-browser](https://awesomecua.com/resources/github-haden-min-haden-browser/)

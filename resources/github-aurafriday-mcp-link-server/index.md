@@ -1,3 +1,11 @@
+---
+title: "MCP Link Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aurafriday-mcp-link-server/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # MCP Link Server
 
 A local MCP server that lets agents run approved system and browser tools, including web automation through a connected browser extension.

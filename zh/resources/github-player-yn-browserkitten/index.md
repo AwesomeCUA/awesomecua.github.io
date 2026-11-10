@@ -1,3 +1,11 @@
+---
+title: "PawWork (爪爪 / BrowserKitten) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-player-yn-browserkitten/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # PawWork (爪爪 / BrowserKitten)
 
 以选择元素为起点的 Chrome 网页智能体，用户可在实时页面上高亮元素，以限定和引导智能体动作。

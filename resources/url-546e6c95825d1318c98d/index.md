@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-Data-v2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-546e6c95825d1318c98d/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # OpenMobile-Data-v2
 
 Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.

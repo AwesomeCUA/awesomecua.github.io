@@ -1,3 +1,11 @@
+---
+title: "ControlLLM: Augment Language Models with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-17796/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ControlLLM: Augment Language Models with Tools by Searching on Graphs
 
 Status: excluded from the active CUA catalog after scope review.

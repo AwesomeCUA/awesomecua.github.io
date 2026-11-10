@@ -1,3 +1,11 @@
+---
+title: "WebVoyager · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # WebVoyager
 
 多模态网页导航智能体，以及基于真实网站的评估任务。

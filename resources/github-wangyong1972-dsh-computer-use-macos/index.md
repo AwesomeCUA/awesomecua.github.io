@@ -1,3 +1,11 @@
+---
+title: "wangyong1972 dsh-computer-use-macos | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wangyong1972-dsh-computer-use-macos/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # wangyong1972 dsh-computer-use-macos
 
 Native macOS computer-use plugin for DeepSeek Harness with trusted window targeting and Accessibility integration.

@@ -1,3 +1,11 @@
+---
+title: "History, Development, and Principles of Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-06853/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # History, Development, and Principles of Large Language Models-An Introductory Survey
 
 Status: excluded from the active CUA catalog after scope review.

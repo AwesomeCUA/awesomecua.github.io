@@ -1,3 +1,11 @@
+---
+title: "WASP · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-facebookresearch-wasp/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WASP
 
 WASP 是一套可运行的基准测试，在模拟网站环境中评估针对网页智能体的提示注入攻击。

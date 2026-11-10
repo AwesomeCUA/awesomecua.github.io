@@ -1,3 +1,11 @@
+---
+title: "Agent Verify · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anotb-agent-verify/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent Verify
 
 CAPTCHA 和人工验证求解技能，使 ChatGPT 和 Codex 的浏览器自动化任务能够继续执行。

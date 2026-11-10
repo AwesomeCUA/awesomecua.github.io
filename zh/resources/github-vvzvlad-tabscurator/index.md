@@ -1,3 +1,11 @@
+---
+title: "tabscurator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vvzvlad-tabscurator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # tabscurator
 
 Model Context Protocol 服务器，用于整理、组织和操作多个配置文件下的浏览器标签页及工作区。

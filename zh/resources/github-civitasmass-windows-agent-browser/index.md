@@ -1,3 +1,11 @@
+---
+title: "Windows Agent Browser (winbrowse) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-civitasmass-windows-agent-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Windows Agent Browser (winbrowse)
 
 允许在 Windows 或 WSL2 中运行的 Claude Code 和 Codex 操作用户已登录的 Chrome 或 Edge 浏览器。

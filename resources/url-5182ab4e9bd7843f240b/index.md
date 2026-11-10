@@ -1,3 +1,11 @@
+---
+title: "mobilevlm_test | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5182ab4e9bd7843f240b/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # mobilevlm_test
 
 Test data for MobileVLM's Mobile3M benchmark, shared as a two-part 7z archive. Mobile3M is a Chinese mobile UI dataset of 3 million pages linked by real transition actions.

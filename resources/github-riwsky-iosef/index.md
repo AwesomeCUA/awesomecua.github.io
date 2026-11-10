@@ -1,3 +1,11 @@
+---
+title: "iosef | AwesomeCUA"
+url: https://awesomecua.com/resources/github-riwsky-iosef/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # iosef
 
 Swift CLI and MCP server that lets agents drive the iOS Simulator: read the accessibility tree, tap by selector or coordinates, swipe, pinch, type and take screenshots.

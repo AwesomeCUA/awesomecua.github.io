@@ -1,18 +1,23 @@
+---
+title: "Automation — computer-use research, page 12 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/12/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 12
 
 HTML page: https://awesomecua.com/topics/automation/page/12/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [DSH Deskwork](https://awesomecua.com/resources/github-guomonth-dsh-deskwork/)
-- [DSH iOS Simulator](https://awesomecua.com/resources/github-zseven-w-dsh-ios/)
 - [DSH Mobile (DeepSeek Harness for Android)](https://awesomecua.com/resources/github-soodok-deepseek-harness-local-android/)
 - [DSH Mobile GUI Agent](https://awesomecua.com/resources/github-kunjinkao-os-dsh-mobile-gui-agent/)
 - [DSH Phone Agent](https://awesomecua.com/resources/github-sktyou-dsh-phone-agent/)
 - [DSH Qwen Web Bridge Plugin](https://awesomecua.com/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/)
 - [DSH × Termux — mobile operations kit](https://awesomecua.com/resources/github-maopk-dsh-termux-kit/)
 - [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/)
-- [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/)
 - [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)
 - [dsh-click](https://awesomecua.com/resources/github-perrylink-dsh-click/)
@@ -64,3 +69,6 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [ESP-AI-HID Controller](https://awesomecua.com/resources/github-burakboz-esp-ai-hid/)
 - [ESP32 iPhone Agent](https://awesomecua.com/resources/github-onehumanbeing-esp32-iphone-agent/)
 - [EvalOps browser-use-rs](https://awesomecua.com/resources/github-dx-corp-browser-use-rs/)
+- [EverFern](https://awesomecua.com/resources/github-everfern-ai-everfern/)
+- [EverySolve Plugin](https://awesomecua.com/resources/github-everyinfra-everysolve-plugin/)
+- [Everything Maa](https://awesomecua.com/resources/github-khazixw2-everything-maa/)

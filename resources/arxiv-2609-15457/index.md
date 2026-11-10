@@ -1,3 +1,11 @@
+---
+title: "AnchorGUI: Asymmetric Memory for Dual-Scale… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15457/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation
 
 AnchorGUI compares expected and observed UI transitions and selectively retains screenshots when they disagree. This asymmetric memory supports immediate correction and focuses cross-attempt experience distillation on likely failure steps.
@@ -26,6 +34,18 @@ Shengjie Jin, Zelong Sun, Hengbo Xu, Yanbiao Ma, Zhiwu Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15457/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15457/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15457,
+  title = {{AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation}},
+  author = {{Shengjie Jin} and {Zelong Sun} and {Hengbo Xu} and {Yanbiao Ma} and {Zhiwu Lu}},
+  year = {2026},
+  eprint = {2609.15457v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15457v1},
+  note = {First published: 2026-09-14; Recorded arXiv version: v1; Recorded version updated: 2026-09-14T12:22:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

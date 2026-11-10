@@ -1,3 +1,11 @@
+---
+title: "gui-report-automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-loncoeng-gui-report-automation/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gui-report-automation
 
 Scheduled automation tool that borrows an authenticated Chrome session to export and verify enterprise GUI reports.

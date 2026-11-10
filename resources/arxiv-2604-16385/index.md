@@ -1,3 +1,11 @@
+---
+title: "StressWeb: A Diagnostic Benchmark for Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-16385/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # StressWeb: A Diagnostic Benchmark for Web Agent Robustness under Realistic Interaction Variability
 
 Introduces a web-agent stress-testing benchmark with controlled changes to layouts, interaction semantics, and execution for diagnosing behavior under varied conditions.
@@ -26,6 +34,18 @@ Haoyue Bai, Dong Wang, Long Chen, Bingguang Hao, Pengyang Shao, Yonghui Yang, Yi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-16385/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-16385/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_16385,
+  title = {{StressWeb: A Diagnostic Benchmark for Web Agent Robustness under Realistic Interaction Variability}},
+  author = {{Haoyue Bai} and {Dong Wang} and {Long Chen} and {Bingguang Hao} and {Pengyang Shao} and {Yonghui Yang} and {Yicheng He} and {Chenyi Zhuang}},
+  year = {2026},
+  eprint = {2604.16385v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.16385v1},
+  note = {First published: 2026-03-27; Recorded arXiv version: v1; Recorded version updated: 2026-03-27T02:41:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

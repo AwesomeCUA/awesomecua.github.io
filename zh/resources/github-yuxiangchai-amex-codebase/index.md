@@ -1,3 +1,11 @@
+---
+title: "AMEX · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuxiangchai-amex-codebase/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # AMEX
 
 AMEX Android GUI 数据处理代码，将 3 个标注层级转为问答对并微调 LLaMA2-Accessory 模型，同时发布了模型检查点。

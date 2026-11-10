@@ -1,3 +1,11 @@
+---
+title: "DynaSaur: Large Language Agents Beyond… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-01747/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # DynaSaur: Large Language Agents Beyond Predefined Actions
 
 Bibliographic record for DynaSaur: Large Language Agents Beyond Predefined Actions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-01747/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-01747/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_01747,
+  title = {{DynaSaur: Large Language Agents Beyond Predefined Actions}},
+  author = {{Dang Nguyen} and {Viet Dac Lai} and {Seunghyun Yoon} and {Ryan A. Rossi} and {Handong Zhao} and {Ruiyi Zhang} and {Puneet Mathur} and {Nedim Lipka} and {Yu Wang} and {Trung Bui} and {Franck Dernoncourt} and {Tianyi Zhou}},
+  year = {2024},
+  eprint = {2411.01747v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.01747v3},
+  note = {First published: 2024-11-04; Recorded arXiv version: v3; Recorded version updated: 2025-09-04T16:22:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

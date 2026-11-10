@@ -1,3 +1,11 @@
+---
+title: "LLMs Can't Plan, But Can Help Planning in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-01817/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks
 
 Status: excluded from the active CUA catalog after scope review.

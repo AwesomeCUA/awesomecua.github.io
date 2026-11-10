@@ -1,3 +1,11 @@
+---
+title: "CAD-Coder: Text-to-CAD Generation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-19713/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward
 
 Status: excluded from the active CUA catalog after scope review.

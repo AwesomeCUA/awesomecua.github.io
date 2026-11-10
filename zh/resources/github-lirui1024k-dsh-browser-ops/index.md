@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-ops · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lirui1024k-dsh-browser-ops/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-browser-ops
 
 DeepSeek Harness 插件，将智能体驱动的真实浏览器控制与工作流程录制结合。

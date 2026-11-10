@@ -1,3 +1,11 @@
+---
+title: "UltraWin MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jxoesneon-ultrawin-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UltraWin MCP
 
 用于 Windows 桌面自动化的 Rust Model Context Protocol 服务器，提供原生 UI Automation 树检查和输入控制。

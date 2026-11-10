@@ -1,3 +1,11 @@
+---
+title: "PresentAgent-2: Towards Generalist Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-11363/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PresentAgent-2: Towards Generalist Multimodal Presentation Agents
 
 Bibliographic record for PresentAgent-2: Towards Generalist Multimodal Presentation Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wei Wu, Ziyang Xu, Zeyu Zhang, Yang Zhao, Hao Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-11363/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-11363/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_11363,
+  title = {{PresentAgent-2: Towards Generalist Multimodal Presentation Agents}},
+  author = {{Wei Wu} and {Ziyang Xu} and {Zeyu Zhang} and {Yang Zhao} and {Hao Tang}},
+  year = {2026},
+  eprint = {2605.11363v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.11363v1},
+  note = {First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T00:32:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

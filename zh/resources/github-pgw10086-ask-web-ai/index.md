@@ -1,3 +1,11 @@
+---
+title: "ask-web-ai · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pgw10086-ask-web-ai/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ask-web-ai
 
 通用 Agent Skill 和 CLI，使宿主编程智能体能够通过浏览器自动化咨询网页 AI 聊天会话。

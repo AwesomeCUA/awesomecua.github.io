@@ -1,3 +1,11 @@
+---
+title: "AgentHorizon: Evaluating Agentic Judges for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11050/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks
 
 Introduces AgentHorizon, a benchmark for judging long computer-use trajectories using closely related instructions paired with recorded actions and screenshots. It tests whether judges can detect constraint violations and distinguish successful tasks from similar but incompatible requests.
@@ -26,6 +34,18 @@ Xing Han Lù, Dheeraj Vattikonda, Sina Hajimiri, Fatemeh Pesaran Zadeh, Parishad
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11050/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11050/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11050,
+  title = {{AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks}},
+  author = {{Xing Han Lù} and {Dheeraj Vattikonda} and {Sina Hajimiri} and {Fatemeh Pesaran Zadeh} and {Parishad BehnamGhader} and {Ghazwa Darwiche} and {Amirhossein Kazemnejad} and {Christopher Pal} and {Alexandre Drouin} and {Siva Reddy}},
+  year = {2026},
+  eprint = {2610.11050v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11050v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T01:03:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

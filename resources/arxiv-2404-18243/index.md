@@ -1,3 +1,11 @@
+---
+title: "LEGENT: Open Platform for Embodied Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-18243/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LEGENT: Open Platform for Embodied Agents
 
 Bibliographic record for LEGENT: Open Platform for Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhili Cheng, Zhitong Wang, Jinyi Hu, Shengding Hu, An Liu, Yuge Tu, Pengkai Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-18243/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-18243/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_18243,
+  title = {{LEGENT: Open Platform for Embodied Agents}},
+  author = {{Zhili Cheng} and {Zhitong Wang} and {Jinyi Hu} and {Shengding Hu} and {An Liu} and {Yuge Tu} and {Pengkai Li} and {Lei Shi} and {Zhiyuan Liu} and {Maosong Sun}},
+  year = {2024},
+  eprint = {2404.18243v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.18243v2},
+  note = {First published: 2024-04-28; Recorded arXiv version: v2; Recorded version updated: 2024-08-11T17:18:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

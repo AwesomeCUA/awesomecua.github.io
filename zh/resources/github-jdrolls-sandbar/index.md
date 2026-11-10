@@ -1,3 +1,11 @@
+---
+title: "Sandbar (github.com/jdrolls/sandbar) · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jdrolls-sandbar/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Sandbar
 
 一种供计算机操作智能体使用的自托管 Linux 桌面容器，提供浏览器串流工作区、人工接管，以及可选的 API 和 MCP 控制。

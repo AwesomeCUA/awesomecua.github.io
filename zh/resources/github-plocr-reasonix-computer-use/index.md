@@ -1,3 +1,11 @@
+---
+title: "Reasonix Computer Use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plocr-reasonix-computer-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Reasonix Computer Use
 
 跨平台桌面自动化插件，结合原生无障碍树（UIA/AXAPI/AT-SPI2）与 EasyOCR 视觉后备方案。

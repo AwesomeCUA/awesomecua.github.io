@@ -1,3 +1,11 @@
+---
+title: "Uncertainty Quantification for Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-25760/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets
 
 Argus benchmarks post-hoc uncertainty methods for single-step GUI grounding across open-weight and closed-source observation regimes. It tests calibration, rejection, error severity and conformal click regions, finding that uncertainty rankings transfer less reliably across model/interface regimes than across datasets for one model.
@@ -26,6 +34,18 @@ Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Ome
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-25760/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-25760/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_25760,
+  title = {{Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets}},
+  author = {{Divake Kumar} and {Sina Tayebati} and {Devashri Naik} and {Amanda Sofie Rios} and {Nilesh Ahuja} and {Omesh Tickoo} and {Ranganath Krishnan} and {Amit Ranjan Trivedi}},
+  year = {2026},
+  eprint = {2606.25760v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.25760v2},
+  note = {First published: 2026-06-24; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T20:55:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

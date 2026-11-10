@@ -1,3 +1,11 @@
+---
+title: "FiftyOne GUI Grounding Training Set | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f0eac3ad813245645492/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # FiftyOne GUI Grounding Training Set
 
 739 GUI screenshots, mostly macOS browser views, labeled with interaction points, action types and per-action task descriptions in a COCO4GUI-based FiftyOne format for element grounding and click prediction.

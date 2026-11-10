@@ -1,3 +1,11 @@
+---
+title: "MUIAnno: An Expert-Annotated Dataset and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-17656/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding
 
 MUIAnno provides expert labels for elements in manually explored mobile-app screens, with a web annotation tool that emits structured JSON. It also supplies UI-element detection baselines for the dataset.
@@ -26,6 +34,18 @@ Athar Parvez, Muhammad Jawad Mufti, Muqaddas Gull, Omar Hammad
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-17656/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-17656/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_17656,
+  title = {{MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding}},
+  author = {{Athar Parvez} and {Muhammad Jawad Mufti} and {Muqaddas Gull} and {Omar Hammad}},
+  year = {2026},
+  eprint = {2605.17656v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.17656v1},
+  note = {First published: 2026-05-17; Recorded arXiv version: v1; Recorded version updated: 2026-05-17T21:14:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

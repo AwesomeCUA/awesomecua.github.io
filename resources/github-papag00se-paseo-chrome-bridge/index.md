@@ -1,3 +1,11 @@
+---
+title: "Paseo Chrome Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Paseo Chrome Bridge
 
 Local bridge connecting Paseo AI agents to the user's logged-in Chrome browser.

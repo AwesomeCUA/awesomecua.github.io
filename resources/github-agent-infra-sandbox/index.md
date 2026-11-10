@@ -1,3 +1,11 @@
+---
+title: "Agent Infra Sandbox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agent-infra-sandbox/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # Agent Infra Sandbox
 
 Sandbox environments supporting computer and browser interaction.

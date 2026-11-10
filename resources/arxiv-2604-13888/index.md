@@ -1,3 +1,11 @@
+---
+title: "GeoAgentBench: A Dynamic Execution Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13888/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis
 
 Bibliographic record for GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bo Yu, Cheng Yang, Dongyang Hou, Chengfu Liu, Jiayao Liu, Chi Wang, Zhiming Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-13888/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-13888/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_13888,
+  title = {{GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis}},
+  author = {{Bo Yu} and {Cheng Yang} and {Dongyang Hou} and {Chengfu Liu} and {Jiayao Liu} and {Chi Wang} and {Zhiming Zhang} and {Haifeng Li} and {Wentao Yang}},
+  year = {2026},
+  eprint = {2604.13888v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.13888v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T13:55:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

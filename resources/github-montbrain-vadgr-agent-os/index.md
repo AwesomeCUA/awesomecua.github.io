@@ -1,3 +1,11 @@
+---
+title: "vadgr-agent-os | AwesomeCUA"
+url: https://awesomecua.com/resources/github-montbrain-vadgr-agent-os/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # vadgr-agent-os
 
 An early Linux container runtime for computer-use agents, with a virtual desktop, browsers, development tools, and an MCP interface for desktop control.

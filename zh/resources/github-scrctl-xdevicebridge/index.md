@@ -1,3 +1,11 @@
+---
+title: "XDeviceBridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scrctl-xdevicebridge/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # XDeviceBridge
 
 一个 C 语言库、服务端与 xdb 命令行工具，通过 USB 或 Wi-Fi 对 iPhone 和 iPad 进行发现、配对、截图、视频采集以及触控、键盘和文本输入。

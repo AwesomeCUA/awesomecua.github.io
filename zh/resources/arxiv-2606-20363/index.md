@@ -1,3 +1,11 @@
+---
+title: "Automating SKILL.md Generation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20363/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
 
 将 GUI 轨迹分段并聚类为可检查的技能，再利用这些标注训练技能感知策略。诊断结果区分源领域聚类的可读性与迁移的可靠性，并报告下游收益有限或不存在。
@@ -27,6 +35,18 @@ Yuexing Hao, Xiaomin Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20363/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20363/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20363,
+  title = {{Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining}},
+  author = {{Yuexing Hao} and {Xiaomin Li}},
+  year = {2026},
+  eprint = {2606.20363v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20363v1},
+  note = {First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T15:25:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

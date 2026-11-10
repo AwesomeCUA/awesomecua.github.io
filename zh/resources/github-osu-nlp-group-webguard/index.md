@@ -1,3 +1,11 @@
+---
+title: "WebGuard · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # WebGuard
 
 提供代码库、标注工具包和操作级风险数据集，用于训练和评估在执行前标记浏览器智能体不安全操作的防护模型。

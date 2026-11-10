@@ -1,3 +1,11 @@
+---
+title: "ScreenWatch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-abnsapkota001-screenwatch/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ScreenWatch
 
 Python library for detecting persistent visual state changes and UI settlement in desktop applications.

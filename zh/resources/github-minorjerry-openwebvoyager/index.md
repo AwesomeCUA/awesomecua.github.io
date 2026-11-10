@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-minorjerry-openwebvoyager/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OpenWebVoyager
 
 OpenWebVoyager 通过迭代式真实网页探索、反馈验证和轨迹调优，训练多模态网页导航智能体。

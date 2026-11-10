@@ -1,3 +1,11 @@
+---
+title: "Gumloop · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6884b7a1aa1bf507dae7/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Gumloop
 
 业务智能体平台通过应用连接器工作，也可启用 Chromium 浏览器进行点击、输入、使用已保存的凭据登录，并在网站需要时将控制权交给人工。

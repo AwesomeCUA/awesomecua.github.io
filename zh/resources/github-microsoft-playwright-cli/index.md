@@ -1,3 +1,11 @@
+---
+title: "Playwright CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-playwright-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Playwright CLI
 
 Playwright CLI 提供节省 token 的命令行界面和 skill 集，供编码及计算机使用智能体自动操作网页浏览器。

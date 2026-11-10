@@ -1,3 +1,11 @@
+---
+title: "aevra | AwesomeCUA"
+url: https://awesomecua.com/resources/github-the-long-ride-aevra/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # aevra
 
 Secure Model Context Protocol gateway enabling ChatGPT, Claude, and Grok to remotely execute commands and control a host machine.

@@ -1,3 +1,11 @@
+---
+title: "WildAWM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-msr-orchard-wildawm/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # WildAWM
 
 WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.

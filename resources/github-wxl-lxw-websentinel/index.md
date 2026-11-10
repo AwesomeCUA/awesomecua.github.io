@@ -1,3 +1,11 @@
+---
+title: "WebSentinel detection demo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wxl-lxw-websentinel/
+updated: 2026-10-18
+type: tool
+lang: en
+---
+
 # WebSentinel detection demo
 
 Demo of WebSentinel's context check: GPT-4o judges pre-extracted pop-up, email and message HTML segments from 144 injected webpage samples against the page context and reports how many it misses.

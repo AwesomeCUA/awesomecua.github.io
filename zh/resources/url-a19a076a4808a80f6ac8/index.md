@@ -1,3 +1,11 @@
+---
+title: "Sai on OSWorld v2.1 reference-VM runs · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a19a076a4808a80f6ac8/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Sai on OSWorld v2.1 reference-VM runs
 
 收录 Simular 的 Sai 智能体在 Ubuntu 参考虚拟机中完成 108 项 OSWorld v2.1 任务的 134 次有效运行，含 OSWorld 轨迹、智能体记录、运行框架与评分器日志、记分卡及截图和视频 tar 包。

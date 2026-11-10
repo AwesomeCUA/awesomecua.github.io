@@ -1,3 +1,11 @@
+---
+title: "Read More, Think More: Revisiting… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-01535/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Read More, Think More: Revisiting Observation Reduction for Web Agents
 
 比较网页智能体使用 HTML 与无障碍树观察页面的效果，分析模型能力和思考令牌预算的影响，并提出节省令牌的差分观察历史。
@@ -27,6 +35,18 @@ Masafumi Enomoto, Ryoma Obara, Haochen Zhang, Masafumi Oyamada
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-01535/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-01535/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_01535,
+  title = {{Read More, Think More: Revisiting Observation Reduction for Web Agents}},
+  author = {{Masafumi Enomoto} and {Ryoma Obara} and {Haochen Zhang} and {Masafumi Oyamada}},
+  year = {2026},
+  eprint = {2604.01535v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.01535v1},
+  note = {First published: 2026-04-02; Recorded arXiv version: v1; Recorded version updated: 2026-04-02T02:14:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "HelpRelay WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-akigarage-helprelay-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # HelpRelay WebMCP
 
 Dependency-free WebMCP collaboration runtime enabling human operators and browser agents to co-navigate web tasks safely.

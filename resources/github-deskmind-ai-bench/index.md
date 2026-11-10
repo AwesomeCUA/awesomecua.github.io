@@ -1,3 +1,11 @@
+---
+title: "DeskMind Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deskmind-ai-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # DeskMind Bench
 
 DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and reference trajectories for evaluating computer-use agents.

@@ -1,3 +1,11 @@
+---
+title: "ProCUA-SFT Technical Report · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-17321/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ProCUA-SFT Technical Report
 
 ProCUA-SFT 在预置文档内容的实时桌面上生成任务与合成轨迹，并在执行前检查任务前置条件。所得步骤前缀样本按推理时的上下文格式组织，用于 GUI 智能体监督微调。
@@ -27,6 +35,18 @@ Jaehun Jung, Ximing Lu, Brandon Cui, Muhammad Khalifa, Shaokun Zhang, Hao Zhang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-17321/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-17321/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_17321,
+  title = {{ProCUA-SFT Technical Report}},
+  author = {{Jaehun Jung} and {Ximing Lu} and {Brandon Cui} and {Muhammad Khalifa} and {Shaokun Zhang} and {Hao Zhang} and {Jin Xu} and {Amala Sanjay Deshmukh} and {Karan Sapra} and {Andrew Tao} and {Yejin Choi} and {Jan Kautz} and {Mingjie Liu} and {Yi Dong}},
+  year = {2026},
+  eprint = {2606.17321v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.17321v1},
+  note = {First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T22:04:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

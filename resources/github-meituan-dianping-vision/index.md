@@ -1,3 +1,11 @@
+---
+title: "Vision-ml | AwesomeCUA"
+url: https://awesomecua.com/resources/github-meituan-dianping-vision/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Vision-ml
 
 Vision-ml locates the close control in a mobile-app popup screenshot and returns screen coordinates for automation; the repository includes prediction code and a pretrained model.

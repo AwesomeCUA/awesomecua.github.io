@@ -1,3 +1,11 @@
+---
+title: "Melaya MCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-melaya-labs-melaya-mcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Melaya MCP
 
 连接 AI 智能体与 6,000 多个浏览器、桌面及 API 工具的智能体编排和 Model Context Protocol 运行环境。

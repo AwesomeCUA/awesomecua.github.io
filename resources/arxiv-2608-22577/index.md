@@ -1,3 +1,11 @@
+---
+title: "CausalCache: Conditional High-Fidelity… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-22577/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents
 
 Introduces CausalCache, which selects archived screenshots to restore alongside text summaries under a fixed visual-memory budget. A history-gated adapter processes restored images, with evaluation distinguishing standard step limits from longer-horizon and mobile-transfer settings.
@@ -26,6 +34,18 @@ Jiaxuan Luo, Zhanfeng Liao, Jiayao Teng, Yuan Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-22577/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-22577/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_22577,
+  title = {{CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents}},
+  author = {{Jiaxuan Luo} and {Zhanfeng Liao} and {Jiayao Teng} and {Yuan Wang}},
+  year = {2026},
+  eprint = {2608.22577v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.22577v2},
+  note = {First published: 2026-08-23; Recorded arXiv version: v2; Recorded version updated: 2026-08-25T04:24:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

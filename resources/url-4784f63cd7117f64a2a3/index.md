@@ -1,3 +1,11 @@
+---
+title: "ScienceBoard evaluation trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # ScienceBoard evaluation trajectories
 
 Archives of ScienceBoard agent evaluation runs, separated by agent configuration and screenshot, accessibility-tree or set-of-marks observation mode.

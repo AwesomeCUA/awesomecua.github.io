@@ -1,3 +1,11 @@
+---
+title: "wavexis-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mathiaspaulenko-wavexis-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # wavexis-mcp
 
 Pure-Python Model Context Protocol server exposing 220 browser automation tools for Chrome, Edge, and Firefox over CDP and WebDriver BiDi.

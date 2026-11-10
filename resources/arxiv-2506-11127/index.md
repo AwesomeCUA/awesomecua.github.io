@@ -1,3 +1,11 @@
+---
+title: "UITron-Speech: Towards Automated GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-11127/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions
 
 Introduces UITron-Speech, which predicts GUI actions from spoken instructions and screenshots. It combines synthetic speech data and mixed-modality training with a training-free grounding refinement step.
@@ -26,6 +34,18 @@ Wenkang Han, Zhixiong Zeng, Jing Huang, Shu Jiang, Liming Zheng, Longrong Yang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-11127/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-11127/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_11127,
+  title = {{UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions}},
+  author = {{Wenkang Han} and {Zhixiong Zeng} and {Jing Huang} and {Shu Jiang} and {Liming Zheng} and {Longrong Yang} and {Haibo Qiu} and {Chang Yao} and {Jingyuan Chen} and {Lin Ma}},
+  year = {2025},
+  eprint = {2506.11127v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.11127v3},
+  note = {First published: 2025-06-10; Recorded arXiv version: v3; Recorded version updated: 2025-11-26T07:48:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

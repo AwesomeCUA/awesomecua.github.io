@@ -1,3 +1,11 @@
+---
+title: "Eido · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tony3liu-eido/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Eido
 
 基于 Zed 和 pi agent 的 macOS 编程工作空间，新增实验性浏览器操作能力：内置智能体选取编号页面元素并通过 CDP 操作；计算机使用则通过内置 Cua Driver MCP 服务器实现。

@@ -1,3 +1,11 @@
+---
+title: "pywinauto · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pywinauto-pywinauto/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # pywinauto
 
 一个用于自动化操作 Windows 应用的 Python 库，支持鼠标和键盘输入以及控件检查。它支持 Win32 和 Microsoft UI Automation 后端。

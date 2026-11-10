@@ -1,3 +1,11 @@
+---
+title: "NirvanaX AutoAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sayantanthecmd-nirvanax-autoagent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # NirvanaX AutoAgent
 
 面向 Windows 的多模态个人 AI 助手，结合语音输入、屏幕视觉感知和桌面控制。

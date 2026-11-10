@@ -1,3 +1,11 @@
+---
+title: "P-GUI-Evo | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b79ca6f7731ebf067709/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # P-GUI-Evo
 
 A synthetic dataset of 622 GUI scenarios for evaluating how agents extract privacy rules, judge proposed actions, and respond to user feedback.

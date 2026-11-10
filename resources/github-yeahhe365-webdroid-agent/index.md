@@ -1,3 +1,11 @@
+---
+title: "WebDroid Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yeahhe365-webdroid-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # WebDroid Agent
 
 Browser-hosted Android phone agent that connects over WebUSB/WebADB, sends screenshots plus a uiautomator text tree to an OpenAI-compatible or Gemini vision model, and runs its JSON actions through ADB.

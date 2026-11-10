@@ -1,3 +1,11 @@
+---
+title: "UI-AGILE: Advancing GUI Agents with Effective… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-22025/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding
 
 Combines grounding-oriented reward and sampling improvements with inference-time image decomposition and target selection.
@@ -26,6 +34,18 @@ Shuquan Lian, Yuhang Wu, Jia Ma, Yifan Ding, Zihan Song, Bingqi Chen, Xiawu Zhen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-22025/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-22025/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_22025,
+  title = {{UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding}},
+  author = {{Shuquan Lian} and {Yuhang Wu} and {Jia Ma} and {Yifan Ding} and {Zihan Song} and {Bingqi Chen} and {Xiawu Zheng} and {Hui Li} and {Rongrong Ji}},
+  year = {2025},
+  eprint = {2507.22025v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.22025v4},
+  note = {First published: 2025-07-29; Recorded arXiv version: v4; Recorded version updated: 2026-04-08T16:03:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

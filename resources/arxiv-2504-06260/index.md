@@ -1,3 +1,11 @@
+---
+title: "FEABench: Evaluating Language Models on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-06260/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # FEABench: Evaluating Language Models on Multiphysics Reasoning Ability
 
 Bibliographic record for FEABench: Evaluating Language Models on Multiphysics Reasoning Ability. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Nayantara Mudur, Hao Cui, Subhashini Venugopalan, Paul Raccuglia, Michael P. Bre
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-06260/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-06260/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_06260,
+  title = {{FEABench: Evaluating Language Models on Multiphysics Reasoning Ability}},
+  author = {{Nayantara Mudur} and {Hao Cui} and {Subhashini Venugopalan} and {Paul Raccuglia} and {Michael P. Brenner} and {Peter Norgaard}},
+  year = {2025},
+  eprint = {2504.06260v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.06260v1},
+  note = {First published: 2025-04-08; Recorded arXiv version: v1; Recorded version updated: 2025-04-08T17:59:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

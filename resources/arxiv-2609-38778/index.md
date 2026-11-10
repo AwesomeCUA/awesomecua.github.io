@@ -1,3 +1,11 @@
+---
+title: "Action Conditioned Bisimulation For GUI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38778/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Action Conditioned Bisimulation For GUI Agent Memory
 
 Defines a GUI-memory merge rule that treats two states as equivalent only when shared actions lead to matching outcomes and successor states. The training-free method replaces observation-similarity merging and is tested in closed-loop MiniWoB++ interaction.
@@ -26,6 +34,18 @@ Hongbo Zhang, Liuyang Song, Quanquan Li, Daqian Yang, Yan Wen, Zhengtao Yao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38778/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38778/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38778,
+  title = {{Action Conditioned Bisimulation For GUI Agent Memory}},
+  author = {{Hongbo Zhang} and {Liuyang Song} and {Quanquan Li} and {Daqian Yang} and {Yan Wen} and {Zhengtao Yao}},
+  year = {2026},
+  eprint = {2609.38778v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38778v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T02:11:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

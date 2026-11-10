@@ -1,3 +1,11 @@
+---
+title: "nnetnav-wa-qwen-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-511ba336435d406f3761/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # nnetnav-wa-qwen-7B
 
 在 NNetNav-WA 的 WebArena 轨迹上微调的 Qwen-2.5-7B-Instruct 模型，由 Go-Browse 项目发布，作为其 WebArena 网页导航对比实验中的 NNetNav-7B 模型。

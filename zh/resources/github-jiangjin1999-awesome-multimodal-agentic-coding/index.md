@@ -1,3 +1,11 @@
+---
+title: "Awesome Multimodal Agentic Coding · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # Awesome Multimodal Agentic Coding
 
 汇集多模态编程和 UI 验证智能体相关论文、评测基准及工具的综合研究图谱。

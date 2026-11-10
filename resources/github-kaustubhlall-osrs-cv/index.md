@@ -1,3 +1,11 @@
+---
+title: "OSRS-CV | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaustubhlall-osrs-cv/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OSRS-CV
 
 Uses YOLOv8 object detection, Tesseract OCR, and human-like Bézier mouse trajectories to automate Old School RuneScape GUI gameplay.

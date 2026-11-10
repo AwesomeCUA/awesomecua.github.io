@@ -1,3 +1,11 @@
+---
+title: "Efficient quantum computing using coherent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1106-1992/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient quantum computing using coherent photon conversion
 
 Status: excluded from the active CUA catalog after scope review.

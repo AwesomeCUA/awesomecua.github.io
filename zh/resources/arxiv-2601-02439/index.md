@@ -1,3 +1,11 @@
+---
+title: "WebGym: Scaling Training Environments… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-02439/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks
 
 WebGym 提供真实感网页任务、基于评分细则的评估及用于强化学习的异步轨迹采集系统。论文研究使用智能体自身交互轨迹训练时，效果如何随任务覆盖范围扩展，以及能否迁移到未见过的网站。
@@ -27,6 +35,18 @@ Hao Bai, Alexey Taymanov, Tong Zhang, Aviral Kumar, Spencer Whitehead
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-02439/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-02439/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_02439,
+  title = {{WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks}},
+  author = {{Hao Bai} and {Alexey Taymanov} and {Tong Zhang} and {Aviral Kumar} and {Spencer Whitehead}},
+  year = {2026},
+  eprint = {2601.02439v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.02439v6},
+  note = {First published: 2026-01-05; Recorded arXiv version: v6; Recorded version updated: 2026-05-02T18:45:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

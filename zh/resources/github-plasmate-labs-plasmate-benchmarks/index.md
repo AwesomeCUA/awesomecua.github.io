@@ -1,3 +1,11 @@
+---
+title: "Plasmate Benchmarks · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-benchmarks/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Plasmate Benchmarks
 
 Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。

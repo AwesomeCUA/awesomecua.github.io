@@ -1,3 +1,11 @@
+---
+title: "cua-rs-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maestrojeong-cua-rs-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cua-rs-mcp
 
 Rust Model Context Protocol 服务器，通过 Accessibility API 驱动原生 macOS 应用，无需移动用户的光标。

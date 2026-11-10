@@ -1,3 +1,11 @@
+---
+title: "CogVLM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-cogvlm/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # CogVLM
 
 CogVLM provides official inference and fine-tuning code for the CogVLM vision-language foundation model and the CogAgent GUI agent.

@@ -1,3 +1,11 @@
+---
+title: "How to Compute Using Quantum Walks | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2004-01329/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # How to Compute Using Quantum Walks
 
 Status: excluded from the active CUA catalog after scope review.

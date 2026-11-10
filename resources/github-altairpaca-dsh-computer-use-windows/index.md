@@ -1,3 +1,11 @@
+---
+title: "Altairpaca DSH Computer Use for Windows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-altairpaca-dsh-computer-use-windows/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Altairpaca DSH Computer Use for Windows
 
 Windows computer-use plugin for DeepSeek Harness providing window-bound screenshots, OCR grounding, and verified clicks.

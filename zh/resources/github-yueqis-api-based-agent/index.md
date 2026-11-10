@@ -1,3 +1,11 @@
+---
+title: "API-Based-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yueqis-api-based-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # API-Based-Agent
 
 提供结合应用 API 与浏览器操作的网页智能体代码，并附有在 WebArena 上评估混合方法的脚本。

@@ -1,3 +1,11 @@
+---
+title: "WorldSolver: Can LLM Agents Simulate the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-08720/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?
 
 Bibliographic record for WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Siru Jiang, Yongzhe Lyu, Shuo Lu, Yubin Wang, Yuxiang Zhang, Yue Liao, Bin Wang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-08720/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-08720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08720,
+  title = {{WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?}},
+  author = {{Siru Jiang} and {Yongzhe Lyu} and {Shuo Lu} and {Yubin Wang} and {Yuxiang Zhang} and {Yue Liao} and {Bin Wang} and {Jian Liang} and {Tieniu Tan}},
+  year = {2026},
+  eprint = {2610.08720v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08720v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:26:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

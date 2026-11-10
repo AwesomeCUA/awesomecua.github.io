@@ -1,3 +1,11 @@
+---
+title: "SheetBrain: A Neuro-Symbolic Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-19247/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets
 
 Introduces SheetBrain, a spreadsheet question-answering and manipulation agent that uses a Python sandbox and Excel tools, plus the SheetBench benchmark.
@@ -26,6 +34,18 @@ Ziwei Wang, Jiayuan Su, Mengyu Zhou, Huaxing Zeng, Mengni Jia, Xiao Lv, Haoyu Do
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-19247/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-19247/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19247,
+  title = {{SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets}},
+  author = {{Ziwei Wang} and {Jiayuan Su} and {Mengyu Zhou} and {Huaxing Zeng} and {Mengni Jia} and {Xiao Lv} and {Haoyu Dong} and {Xiaojun Ma} and {Shi Han} and {Dongmei Zhang}},
+  year = {2025},
+  eprint = {2510.19247v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19247v1},
+  note = {First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T05:09:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

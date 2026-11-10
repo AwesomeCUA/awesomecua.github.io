@@ -1,3 +1,11 @@
+---
+title: "Browser Use Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-desktop/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # Browser Use Desktop
 
 Electron app that runs Claude Code or Codex sessions as browser agents in a separate Chromium seeded with the user's imported cookies, started by hotkey or WhatsApp message and built on Browser Harness.

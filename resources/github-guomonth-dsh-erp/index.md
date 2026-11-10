@@ -1,3 +1,11 @@
+---
+title: "Adapt ERP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-guomonth-dsh-erp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Adapt ERP
 
 Adapt ERP is a DeepSeek Harness plugin that explores signed-in ERP pages, keeps a local index of observed menus and fields, and requests approval before writes.

@@ -1,3 +1,11 @@
+---
+title: "LiveMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magi-labs-livemcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # LiveMCP
 
 Manifest V3 Chrome extension and MCP hub that lets AI agents operate the user's logged-in Chrome profile and inspect network calls.

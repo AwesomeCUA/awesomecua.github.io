@@ -1,3 +1,11 @@
+---
+title: "GBOX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-babelcloud-gbox/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # GBOX
 
 An environment service with CLI and MCP access that lets agents operate Android apps and desktop applications, including browsers and terminals.

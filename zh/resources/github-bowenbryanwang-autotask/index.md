@@ -1,3 +1,11 @@
+---
+title: "AutoTask · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bowenbryanwang-autotask/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AutoTask
 
 一个 Android 智能体，通过探索手机界面执行语音指令，并利用交互中学到的信息指导后续操作。

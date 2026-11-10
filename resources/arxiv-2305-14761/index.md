@@ -1,3 +1,11 @@
+---
+title: "UniChart: A Universal Vision-language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-14761/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning
 
 Bibliographic record for UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq Joty
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-14761/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-14761/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_14761,
+  title = {{UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning}},
+  author = {{Ahmed Masry} and {Parsa Kavehzadeh} and {Xuan Long Do} and {Enamul Hoque} and {Shafiq Joty}},
+  year = {2023},
+  eprint = {2305.14761v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.14761v3},
+  note = {First published: 2023-05-24; Recorded arXiv version: v3; Recorded version updated: 2023-10-10T23:39:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

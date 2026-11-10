@@ -1,3 +1,11 @@
+---
+title: "StructRL: Online Structured Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-36352/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # StructRL: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "ApiTap · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-n1byn1kt-apitap/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ApiTap
 
 CLI、MCP 服务器和 npm 库，通过观察实时浏览器流量，将网站转换为供 AI 智能体使用的结构化 API。

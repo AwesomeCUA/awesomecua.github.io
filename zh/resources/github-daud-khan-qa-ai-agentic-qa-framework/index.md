@@ -1,3 +1,11 @@
+---
+title: "AI-Agentic QA Framework · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daud-khan-qa-ai-agentic-qa-framework/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AI-Agentic QA Framework
 
 面向智能体式网页 QA 的零依赖 CDP 浏览器驱动和页面激活可靠性测试框架。

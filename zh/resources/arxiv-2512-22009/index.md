@@ -1,3 +1,11 @@
+---
+title: "iSHIFT: Lightweight Slow-Fast GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-22009/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception
 
 iSHIFT 结合潜在推理和感知控制 token 来调整 GUI 推理，使智能体能在细致的区域定位与更快地利用全局视觉线索之间切换。
@@ -27,6 +35,18 @@ Sarthak Mehrotra, Sairam V C Rebbapragada, Mani Hemanth Reddy Bonthu, Vineeth N 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-22009/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-22009/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_22009,
+  title = {{iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception}},
+  author = {{Sarthak Mehrotra} and {Sairam V C Rebbapragada} and {Mani Hemanth Reddy Bonthu} and {Vineeth N Balasubramanian}},
+  year = {2025},
+  eprint = {2512.22009v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.22009v1},
+  note = {First published: 2025-12-26; Recorded arXiv version: v1; Recorded version updated: 2025-12-26T12:09:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

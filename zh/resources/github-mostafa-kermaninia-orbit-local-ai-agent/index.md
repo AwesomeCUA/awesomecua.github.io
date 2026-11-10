@@ -1,3 +1,11 @@
+---
+title: "ORBIT Local AI Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mostafa-kermaninia-orbit-local-ai-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ORBIT Local AI Agent
 
 以本地运行为先的 Python 语音与桌面自动化智能体，由 Whisper STT 和 Ollama/Qwen 模型驱动。

@@ -1,3 +1,11 @@
+---
+title: "Minitap mobile-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-minitap-ai-mobile-use/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Minitap mobile-use
 
 Minitap mobile-use is a multi-agent mobile automation system that controls physical and emulated Android and iOS devices from natural language.

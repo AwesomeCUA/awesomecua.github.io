@@ -1,3 +1,11 @@
+---
+title: "CoSTA$\\ast$: Cost-Sensitive Toolpath Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-10613/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing
 
 Status: excluded from the active CUA catalog after scope review.

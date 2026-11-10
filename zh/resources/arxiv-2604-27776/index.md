@@ -1,3 +1,11 @@
+---
+title: "WindowsWorld: A Process-Centric… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-27776/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments
 
 WindowsWorld 面向跨多个桌面应用的专业工作流，生成的任务经人工审查完善；其中间子目标用于按过程评估跨应用推理和执行效率。
@@ -27,6 +35,18 @@ Jinchao Li, Yunxin Li, Chenrui Zhao, Zhenran Xu, Baotian Hu, Min Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-27776/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-27776/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_27776,
+  title = {{WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments}},
+  author = {{Jinchao Li} and {Yunxin Li} and {Chenrui Zhao} and {Zhenran Xu} and {Baotian Hu} and {Min Zhang}},
+  year = {2026},
+  eprint = {2604.27776v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.27776v1},
+  note = {First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T12:13:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

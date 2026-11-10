@@ -1,3 +1,11 @@
+---
+title: "Holo-3.1-35B-A3B-GGUF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ee3a18b51eb44d94a94b/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Holo-3.1-35B-A3B-GGUF
 
 Holo3.1 的量化视觉语言模型检查点，面向网页、桌面和移动界面的计算机使用智能体，支持界面定位与函数调用。

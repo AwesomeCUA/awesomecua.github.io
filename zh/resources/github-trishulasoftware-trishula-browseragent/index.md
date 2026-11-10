@@ -1,3 +1,11 @@
+---
+title: "Trishula-BrowserAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-trishulasoftware-trishula-browseragent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Trishula-BrowserAgent
 
 基于 CDP 和 Browser Use 构建、采用 SOCKS5 代理隔离的自主式网页浏览器智能体，具有主权控制和原则门控机制。

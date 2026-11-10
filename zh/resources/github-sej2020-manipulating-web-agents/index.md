@@ -1,3 +1,11 @@
+---
+title: "Manipulating Web Agents (Toast Attack) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sej2020-manipulating-web-agents/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Manipulating Web Agents (Toast Attack)
 
 实现通过 DOM 注入弹窗和提示消息的间接提示注入攻击，针对 VisualWebArena 和 OSWorld 中的多模态网页智能体。

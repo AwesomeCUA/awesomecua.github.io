@@ -1,3 +1,11 @@
+---
+title: "adb-automation-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-allaudin-adb-automation-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # adb-automation-mcp
 
 Model Context Protocol 服务器，将 Android Debug Bridge（ADB）的设备检查和输入动作作为类型化工具提供。

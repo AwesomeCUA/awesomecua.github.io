@@ -1,3 +1,11 @@
+---
+title: "AutoDroid V2 training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9a3506ca6ef034adb424/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # AutoDroid V2 training data
 
 Conversation-formatted supervision released for fine-tuning AutoDroid V2, with the project documenting a ShareGPT-style JSON configuration.

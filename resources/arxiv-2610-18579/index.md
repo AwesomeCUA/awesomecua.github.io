@@ -1,3 +1,11 @@
+---
+title: "Reading Right, Acting Wrong: Diagnosing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-18579/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops
 
 Pairs factual probes with next-action choices on frozen agent traces, including Mind2Web, to diagnose reading-decision gaps without closed-loop execution.
@@ -26,6 +34,18 @@ Yubo Li, Ramayya Krishnan, Rema Padman
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-18579/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-18579/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_18579,
+  title = {{Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops}},
+  author = {{Yubo Li} and {Ramayya Krishnan} and {Rema Padman}},
+  year = {2026},
+  eprint = {2610.18579v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.18579v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:43:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

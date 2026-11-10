@@ -1,10 +1,17 @@
+---
+title: "Efficiency — computer-use research, page 9 | AwesomeCUA"
+url: https://awesomecua.com/topics/efficiency/page/9/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Efficiency — computer-use research, page 9
 
 HTML page: https://awesomecua.com/topics/efficiency/page/9/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
-- [pebkac](https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/)
 - [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/)
 - [PhoneClaw](https://awesomecua.com/resources/github-kellyvv-phoneclaw/)
 - [PhoneCLI](https://awesomecua.com/resources/github-hkuds-phonecli/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Unbrowse](https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/)
 - [VACT (Vector Agent Context Transport)](https://awesomecua.com/resources/github-fy2ne-vact/)
 - [Vedanshu7 Operant](https://awesomecua.com/resources/github-vedanshu7-operant/)
+- [VG-GUI-TASKER](https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/)

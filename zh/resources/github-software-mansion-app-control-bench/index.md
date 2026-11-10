@@ -1,3 +1,11 @@
+---
+title: "AppControlBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-software-mansion-app-control-bench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # AppControlBench
 
 AppControlBench 在模拟器中评估智能体完成 iOS 应用任务的表现，根据最终截图评分，并发布任务定义和运行记录。

@@ -1,3 +1,11 @@
+---
+title: "DeskForge-Gemma4-E4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3359275b15ff3be825fc/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # DeskForge-Gemma4-E4B
 
 DeskForge-Gemma4-E4B 是桌面图形界面动作模型，使用 200K 条定位样例微调。它根据截图和指令生成带归一化坐标的 pyautogui 动作。

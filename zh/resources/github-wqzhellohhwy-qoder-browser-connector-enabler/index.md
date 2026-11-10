@@ -1,3 +1,11 @@
+---
+title: "Qoder Browser Connector Enabler · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wqzhellohhwy-qoder-browser-connector-enabler/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Qoder Browser Connector Enabler
 
 启用 Qoder 的 Browser-Use 连接器模式，使其连接并控制用户实际使用的 Chrome 浏览器。

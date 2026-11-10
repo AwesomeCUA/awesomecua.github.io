@@ -1,3 +1,11 @@
+---
+title: "Kyros Local Desktop Assistant · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rhymezip-kyros-local-desktop-assistant/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Kyros Local Desktop Assistant
 
 私有、语音优先的本地 Linux 桌面助手，可免手动操作应用和系统。

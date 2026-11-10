@@ -1,3 +1,11 @@
+---
+title: "Automated Test Transfer Across Android Apps… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-17933/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Automated Test Transfer Across Android Apps Using Large Language Models
 
 LLMigrate uses LLMs to transfer usage-based UI tests between mobile apps with similar functions, reducing the need to write tests for each app.
@@ -26,6 +34,18 @@ Benyamin Beyzaei, Saghar Talebipour, Ghazal Rafiei, Nenad Medvidovic, Sam Malek
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-17933/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-17933/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_17933,
+  title = {{Automated Test Transfer Across Android Apps Using Large Language Models}},
+  author = {{Benyamin Beyzaei} and {Saghar Talebipour} and {Ghazal Rafiei} and {Nenad Medvidovic} and {Sam Malek}},
+  year = {2024},
+  eprint = {2411.17933v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.17933v2},
+  note = {First published: 2024-11-26; Recorded arXiv version: v2; Recorded version updated: 2025-04-20T09:29:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

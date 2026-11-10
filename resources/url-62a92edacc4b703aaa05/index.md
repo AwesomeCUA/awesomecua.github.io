@@ -1,3 +1,11 @@
+---
+title: "Microscopy-Dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-62a92edacc4b703aaa05/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # Microscopy-Dataset
 
 Task set for the Orion computer-using agent's microscopy image-processing task: 12 CellProfiler training modules and 14 test challenges with problem statements, images, ground truth and unit tests.

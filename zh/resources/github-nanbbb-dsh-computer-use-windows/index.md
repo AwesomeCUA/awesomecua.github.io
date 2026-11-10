@@ -1,3 +1,11 @@
+---
+title: "nanbbb dsh-computer-use-windows · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nanbbb-dsh-computer-use-windows/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # nanbbb dsh-computer-use-windows
 
 用于 DeepSeek Harness 的 Windows 计算机使用插件，结合窗口发现、UI Automation 检查和输入合成。

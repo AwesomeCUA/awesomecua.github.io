@@ -1,3 +1,11 @@
+---
+title: "go-ios · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-danielpaulus-go-ios/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # go-ios
 
 一个 Go 命令行工具和模块，可在 Linux、Windows 或 macOS 上自动化操作 iOS 设备：安装和启动应用、运行 XCTest 与 WebDriverAgent、截取屏幕并操控界面。

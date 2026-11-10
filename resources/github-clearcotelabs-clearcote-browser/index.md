@@ -1,3 +1,11 @@
+---
+title: "Clearcote Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clearcotelabs-clearcote-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Clearcote Browser
 
 Open-source stealth Chromium browser with engine-level fingerprint spoofing designed as a drop-in runtime for AI web agents.

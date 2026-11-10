@@ -1,3 +1,11 @@
+---
+title: "ArCHer: Training Language Model Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-19446/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL
 
 Bibliographic record for ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yifei Zhou, Andrea Zanette, Jiayi Pan, Sergey Levine, Aviral Kumar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-19446/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-19446/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_19446,
+  title = {{ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL}},
+  author = {{Yifei Zhou} and {Andrea Zanette} and {Jiayi Pan} and {Sergey Levine} and {Aviral Kumar}},
+  year = {2024},
+  eprint = {2402.19446v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.19446v1},
+  note = {First published: 2024-02-29; Recorded arXiv version: v1; Recorded version updated: 2024-02-29T18:45:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "uitars-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sandraschi-uitars-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # uitars-mcp
 
 uitars-mcp 是一个 Model Context Protocol 服务器，将 UI-TARS 等视觉语言 GUI 模型连接到桌面和浏览器操作。

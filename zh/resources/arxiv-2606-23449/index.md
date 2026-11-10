@@ -1,3 +1,11 @@
+---
+title: "AOHP: An Open-Source OS-Level Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-23449/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction
 
 提出 Android 系统级智能体实验框架 AOHP，将智能体作为系统参与者，提供自适应界面、智能体接口和信息流控制机制。
@@ -27,6 +35,18 @@ Shanhui Zhao, Jiacheng Liu, Guohong Liu, Jichao Yan, Jialei Ye, Yuhao Yang, Hao 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-23449/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-23449/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_23449,
+  title = {{AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction}},
+  author = {{Shanhui Zhao} and {Jiacheng Liu} and {Guohong Liu} and {Jichao Yan} and {Jialei Ye} and {Yuhao Yang} and {Hao Wen} and {Shizuo Tian} and {Yizhen Yuan} and {Yuxuan Chen} and {Yunxin Liu} and {Ju Ren} and {Ya-Qin Zhang} and {Chao Huang} and {Yao Guo} and {Yuanchun Li}},
+  year = {2026},
+  eprint = {2606.23449v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.23449v1},
+  note = {First published: 2026-06-22; Recorded arXiv version: v1; Recorded version updated: 2026-06-22T15:02:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

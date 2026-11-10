@@ -1,3 +1,11 @@
+---
+title: "TagUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aisingapore-tagui/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # TagUI
 
 TagUI runs scripted flows across websites and desktop applications using web, image, text or coordinate targets. Its MCP server exposes flow creation and execution to AI clients.

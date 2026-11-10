@@ -1,3 +1,11 @@
+---
+title: "Fiber optic computing using distributed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-14504/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fiber optic computing using distributed feedback
 
 Status: excluded from the active CUA catalog after scope review.

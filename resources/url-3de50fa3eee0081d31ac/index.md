@@ -1,3 +1,11 @@
+---
+title: "osworld_v2_assets_gated | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3de50fa3eee0081d31ac/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # osworld_v2_assets_gated
 
 Gated Hub snapshot of the task assets for the OSWorld 2.0 computer-use benchmark, such as setup files and ground-truth files, downloaded locally and pinned per benchmark release before tasks run.

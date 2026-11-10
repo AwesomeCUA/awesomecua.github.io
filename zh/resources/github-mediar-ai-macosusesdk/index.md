@@ -1,3 +1,11 @@
+---
+title: "MacosUseSDK · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mediar-ai-macosusesdk/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MacosUseSDK
 
 MacosUseSDK 是 Swift 库和 CLI，用于遍历 macOS 无障碍树并模拟原生鼠标和键盘输入。

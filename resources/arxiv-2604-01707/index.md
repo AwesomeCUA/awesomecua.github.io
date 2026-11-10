@@ -1,3 +1,11 @@
+---
+title: "Memory in the LLM Era: Modular Architectures… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-01707/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework
 
 Status: excluded from the active CUA catalog after scope review.

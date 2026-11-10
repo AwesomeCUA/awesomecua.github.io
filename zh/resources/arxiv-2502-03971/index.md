@@ -1,3 +1,11 @@
+---
+title: "RWKV-UI: UI Understanding with Enhanced… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-03971/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # RWKV-UI: UI Understanding with Enhanced Perception and Reasoning
 
 RWKV-UI 面向高分辨率网页界面，通过布局检测和推理链视觉提示来理解页面。
@@ -27,6 +35,18 @@ Jiaxi Yang, Haowen Hou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-03971/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-03971/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_03971,
+  title = {{RWKV-UI: UI Understanding with Enhanced Perception and Reasoning}},
+  author = {{Jiaxi Yang} and {Haowen Hou}},
+  year = {2025},
+  eprint = {2502.03971v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.03971v1},
+  note = {First published: 2025-02-06; Recorded arXiv version: v1; Recorded version updated: 2025-02-06T11:02:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

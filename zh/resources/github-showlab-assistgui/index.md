@@ -1,3 +1,11 @@
+---
+title: "AssistGUI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-assistgui/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # AssistGUI
 
 基于 LLM 的助手，通过观察屏幕并发出鼠标和键盘指令，自动完成桌面办公软件中的工作；其代码仓库称代码将在以后发布。

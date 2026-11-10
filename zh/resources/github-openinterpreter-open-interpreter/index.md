@@ -1,3 +1,11 @@
+---
+title: "Open Interpreter · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openinterpreter-open-interpreter/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Open Interpreter
 
 结合代码执行与计算机交互的助手框架。

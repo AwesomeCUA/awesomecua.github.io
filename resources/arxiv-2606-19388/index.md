@@ -1,3 +1,11 @@
+---
+title: "Beyond the GUI Paradigm: Do Mobile Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-19388/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?
 
 This study compares general coding agents using mobile command-line access with reproducible GUI agents on AndroidWorld and MobileWorld. It also supplies oracle CLI analyses and a separate task suite for operations such as bulk changes, filtering and hidden device state.
@@ -26,6 +34,18 @@ Li Gu, Zihuan Jiang, Linqiang Guo, Zhixiang Chi, Ziqiang Wang, Huan Liu, Yuanhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-19388/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-19388/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_19388,
+  title = {{Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?}},
+  author = {{Li Gu} and {Zihuan Jiang} and {Linqiang Guo} and {Zhixiang Chi} and {Ziqiang Wang} and {Huan Liu} and {Yuanhao Yu} and {Tse-Hsun Chen} and {Yang Wang}},
+  year = {2026},
+  eprint = {2606.19388v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.19388v1},
+  note = {First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T02:36:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

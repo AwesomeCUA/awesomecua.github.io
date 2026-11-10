@@ -1,3 +1,11 @@
+---
+title: "Caster User Directory | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amirf147-caster-user-directory-and-notes/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Caster User Directory
 
 Caster User Directory combines Windows voice automation with window switching and accessibility-based tracking of focused desktop context.

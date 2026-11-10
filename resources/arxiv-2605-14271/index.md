@@ -1,3 +1,11 @@
+---
+title: "Auditing Agent Harness Safety | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14271/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Auditing Agent Harness Safety
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 0.8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7405463ba56f9a41e79a/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Seg2Click Qwen3.5 0.8B
 
 Compact Seg2Click checkpoint with a merged Qwen3.5 backbone and an action-mask decoder.

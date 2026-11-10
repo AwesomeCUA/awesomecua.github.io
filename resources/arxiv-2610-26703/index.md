@@ -1,3 +1,11 @@
+---
+title: "Comparing Computer Use Behavior Across… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26703/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Comparing Computer Use Behavior Across Multiple Levels of Abstraction
 
 MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics.
@@ -26,6 +34,18 @@ Ananya Gubbi Mohanbabu, Rosiana Natalie, Anhong Guo, Amy Pavel
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26703/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26703/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26703,
+  title = {{Comparing Computer Use Behavior Across Multiple Levels of Abstraction}},
+  author = {{Ananya Gubbi Mohanbabu} and {Rosiana Natalie} and {Anhong Guo} and {Amy Pavel}},
+  year = {2026},
+  eprint = {2610.26703v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26703v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T16:39:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "How Auxiliary Reasoning Unleashes GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-11548/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # How Auxiliary Reasoning Unleashes GUI Grounding in VLMs
 
 Studies the gap between latent visual grounding and explicit coordinate output in general vision-language models. Three zero-shot methods add axes, grids, or labeled intersections to GUI screenshots so models can express spatial locations without fine-tuning.
@@ -26,6 +34,18 @@ Weiming Li, Yan Shao, Jing Yang, Yujing Lu, Ling Zhong, Yuhan Wang, Min Yu, Tong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-11548/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-11548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_11548,
+  title = {{How Auxiliary Reasoning Unleashes GUI Grounding in VLMs}},
+  author = {{Weiming Li} and {Yan Shao} and {Jing Yang} and {Yujing Lu} and {Ling Zhong} and {Yuhan Wang} and {Min Yu} and {Tongxiao Ruan} and {Manni Duan}},
+  year = {2025},
+  eprint = {2509.11548v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.11548v2},
+  note = {First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-06-10T01:13:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

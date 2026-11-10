@@ -1,3 +1,11 @@
+---
+title: "MART: Improving LLM Safety with Multi-round… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-07689/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MART: Improving LLM Safety with Multi-round Automatic Red-Teaming
 
 Bibliographic record for MART: Improving LLM Safety with Multi-round Automatic Red-Teaming. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-07689/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-07689/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_07689,
+  title = {{MART: Improving LLM Safety with Multi-round Automatic Red-Teaming}},
+  author = {{Suyu Ge} and {Chunting Zhou} and {Rui Hou} and {Madian Khabsa} and {Yi-Chia Wang} and {Qifan Wang} and {Jiawei Han} and {Yuning Mao}},
+  year = {2023},
+  eprint = {2311.07689v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.07689v1},
+  note = {First published: 2023-11-13; Recorded arXiv version: v1; Recorded version updated: 2023-11-13T19:13:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

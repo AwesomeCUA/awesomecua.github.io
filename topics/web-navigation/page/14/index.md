@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 14 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/14/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 14
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/14/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Browser Agent](https://awesomecua.com/resources/github-visnia-ai-browser-agent/)
 - [Browser Agent (uiuing)](https://awesomecua.com/resources/github-uiuing-browser-agent/)
 - [Browser Agent Bridge](https://awesomecua.com/resources/github-rxluz-browser-agent-bridge/)
 - [Browser Agent Runtime Lite](https://awesomecua.com/resources/github-coolwkx-browser-agent-runtime-lite/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [browserkit](https://awesomecua.com/resources/github-browserkit-dev-browserkit/)
 - [BrowserMCP](https://awesomecua.com/resources/github-smotree-browsermcp/)
 - [BrowserMesh](https://awesomecua.com/resources/github-scrolldynasty-browsermesh/)
+- [BrowserOS / BrowserOS neo](https://awesomecua.com/resources/github-browseros-ai-browseros/)

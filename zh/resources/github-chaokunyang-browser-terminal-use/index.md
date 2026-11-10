@@ -1,3 +1,11 @@
+---
+title: "Browser Terminal Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chaokunyang-browser-terminal-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Terminal Use
 
 结合 Chrome 扩展、本地守护进程和 CLI，让智能体在浏览器托管的云终端中执行命令并捕获退出码。

@@ -1,3 +1,11 @@
+---
+title: "Auto-GUI / Auto-UI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cooelf-auto-gui/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # Auto-GUI / Auto-UI
 
 基于截图的移动端智能体实现，提供操作链预测的训练与推理代码。

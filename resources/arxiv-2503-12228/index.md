@@ -1,3 +1,11 @@
+---
+title: "Adaptive Fault Tolerance Mechanisms of Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-12228/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Adaptive Fault Tolerance Mechanisms of Large Language Models in Cloud Computing Environments
 
 Status: excluded from the active CUA catalog after scope review.

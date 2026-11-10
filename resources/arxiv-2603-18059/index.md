@@ -1,3 +1,11 @@
+---
+title: "Guardrails as Infrastructure: Policy-First… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-18059/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Guardrails as Infrastructure: Policy-First Control for Tool-Orchestrated Workflows
 
 Status: excluded from the active CUA catalog after scope review.

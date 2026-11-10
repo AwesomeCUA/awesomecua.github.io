@@ -1,3 +1,11 @@
+---
+title: "VisualClaw: A Real-Time, Personalized Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-16295/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # VisualClaw: A Real-Time, Personalized Agent for the Physical World
 
 Bibliographic record for VisualClaw: A Real-Time, Personalized Agent for the Physical World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haoqin Tu, Jianwen Chen, Zijun Wang, Siwei Han, Juncheng Wu, Hardy Chen, Haonian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-16295/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-16295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_16295,
+  title = {{VisualClaw: A Real-Time, Personalized Agent for the Physical World}},
+  author = {{Haoqin Tu} and {Jianwen Chen} and {Zijun Wang} and {Siwei Han} and {Juncheng Wu} and {Hardy Chen} and {Haonian Ji} and {Kaiwen Xiong} and {Jiaqi Liu} and {Peng Xia} and {Jieru Mei} and {Hongliang Fei} and {Jason Eshraghian} and {Zeyu Zheng} and {Yuyin Zhou} and {Huaxiu Yao} and {Cihang Xie}},
+  year = {2026},
+  eprint = {2606.16295v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.16295v1},
+  note = {First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T06:58:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

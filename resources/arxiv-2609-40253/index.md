@@ -1,3 +1,11 @@
+---
+title: "ComputerSD: Online Self-Distillation from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-40253/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents
 
 Introduces ComputerSD, which turns feedback from executed GUI transitions into online self-distillation guidance and step-level scores. A GUI analyzer supplies these signals, which are combined with trajectory-level reinforcement learning in asynchronous training.
@@ -26,6 +34,18 @@ Yong Du, Tongbo Chen, Zhengxi Lu, Yizhou Liu, Bofan Chen, Tao Jiang, Wenhao Xu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-40253/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-40253/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_40253,
+  title = {{ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents}},
+  author = {{Yong Du} and {Tongbo Chen} and {Zhengxi Lu} and {Yizhou Liu} and {Bofan Chen} and {Tao Jiang} and {Wenhao Xu} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2609.40253v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.40253v2},
+  note = {First published: 2026-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-01T17:50:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

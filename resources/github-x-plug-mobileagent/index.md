@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-x-plug-mobileagent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Mobile-Agent
 
 Mobile device agent family using visual interface interaction.

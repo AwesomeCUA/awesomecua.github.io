@@ -1,3 +1,11 @@
+---
+title: "MCP-B | AwesomeCUA"
+url: https://awesomecua.com/resources/github-miguelspizza-webmcp/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # MCP-B
 
 The earlier MCP-B codebase: a Chrome extension that discovers and calls tools websites expose as MCP servers, a Cloudflare Workers backend and a native server that relays those tools to desktop MCP clients.

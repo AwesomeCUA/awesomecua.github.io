@@ -1,3 +1,11 @@
+---
+title: "Choosing How to Remember: Adaptive Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-14038/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Choosing How to Remember: Adaptive Memory Structures for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

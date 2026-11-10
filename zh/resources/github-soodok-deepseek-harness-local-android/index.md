@@ -1,3 +1,11 @@
+---
+title: "DSH Mobile (DeepSeek Harness for Android) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-soodok-deepseek-harness-local-android/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DSH Mobile (DeepSeek Harness for Android)
 
 无需 root 即可在 Android 手机上原生运行 DeepSeek Harness AI 智能体。

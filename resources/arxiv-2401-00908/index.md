@@ -1,3 +1,11 @@
+---
+title: "DocLLM: A layout-aware generative language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-00908/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DocLLM: A layout-aware generative language model for multimodal document understanding
 
 Bibliographic record for DocLLM: A layout-aware generative language model for multimodal document understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dongsheng Wang, Natraj Raman, Mathieu Sibue, Zhiqiang Ma, Petr Babkin, Simerjot 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-00908/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-00908/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_00908,
+  title = {{DocLLM: A layout-aware generative language model for multimodal document understanding}},
+  author = {{Dongsheng Wang} and {Natraj Raman} and {Mathieu Sibue} and {Zhiqiang Ma} and {Petr Babkin} and {Simerjot Kaur} and {Yulong Pei} and {Armineh Nourbakhsh} and {Xiaomo Liu}},
+  year = {2023},
+  eprint = {2401.00908v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.00908v1},
+  note = {First published: 2023-12-31; Recorded arXiv version: v1; Recorded version updated: 2023-12-31T22:37:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WEPO: Web Element Preference Optimization for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-10742/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WEPO: Web Element Preference Optimization for LLM-based Web Navigation
 
 Uses web-element preference optimization with sampled negative HTML elements to align high-level user intent with navigation actions.
@@ -26,6 +34,18 @@ Jiarun Liu, Jia Hao, Chunhong Zhang, Zheng Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-10742/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-10742/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_10742,
+  title = {{WEPO: Web Element Preference Optimization for LLM-based Web Navigation}},
+  author = {{Jiarun Liu} and {Jia Hao} and {Chunhong Zhang} and {Zheng Hu}},
+  year = {2024},
+  eprint = {2412.10742v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.10742v1},
+  note = {First published: 2024-12-14; Recorded arXiv version: v1; Recorded version updated: 2024-12-14T08:25:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

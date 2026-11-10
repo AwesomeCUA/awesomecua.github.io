@@ -1,3 +1,11 @@
+---
+title: "UI-Genie: A Self-Improving Approach for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-21496/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents
 
 UI-Genie 共同改进移动 GUI 智能体与奖励模型；后者结合截图和交互历史提供动作级与任务级反馈。其数据流程利用规则验证、受损轨迹和困难负例，支持奖励引导的探索与迭代训练。
@@ -27,6 +35,18 @@ Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-21496/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-21496/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_21496,
+  title = {{UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents}},
+  author = {{Han Xiao} and {Guozhi Wang} and {Yuxiang Chai} and {Zimu Lu} and {Weifeng Lin} and {Hao He} and {Lue Fan} and {Liuyang Bian} and {Rui Hu} and {Liang Liu} and {Shuai Ren} and {Yafei Wen} and {Xiaoxin Chen} and {Aojun Zhou} and {Hongsheng Li}},
+  year = {2025},
+  eprint = {2505.21496v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.21496v1},
+  note = {First published: 2025-05-27; Recorded arXiv version: v1; Recorded version updated: 2025-05-27T17:58:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

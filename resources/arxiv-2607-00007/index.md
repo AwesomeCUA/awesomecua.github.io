@@ -1,3 +1,11 @@
+---
+title: "BaRA: Budget-constrained and Reliable Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-00007/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BaRA: Budget-constrained and Reliable Web Data Collection Agent
 
 Introduces BaRA, a web data-collection agent that discovers live site links, checks extracted text, images, and videos, and uses history to recover from failures.
@@ -26,6 +34,18 @@ Soojeong Lee, Joseph Lee, Yongseong Cho, Sunjae Kim, Youngwoo Moon, Kyungwoo Son
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-00007/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-00007/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_00007,
+  title = {{BaRA: Budget-constrained and Reliable Web Data Collection Agent}},
+  author = {{Soojeong Lee} and {Joseph Lee} and {Yongseong Cho} and {Sunjae Kim} and {Youngwoo Moon} and {Kyungwoo Song}},
+  year = {2026},
+  eprint = {2607.00007v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.00007v2},
+  note = {First published: 2026-05-02; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T06:17:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

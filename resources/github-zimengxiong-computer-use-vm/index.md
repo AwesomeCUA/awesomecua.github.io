@@ -1,3 +1,11 @@
+---
+title: "Computer Use VM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Computer Use VM
 
 Provisions disposable, headless macOS virtual machines so computer-use agents can operate isolated desktops without window switching.

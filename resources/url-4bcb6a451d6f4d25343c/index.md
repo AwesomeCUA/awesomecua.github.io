@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4bcb6a451d6f4d25343c/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard
 
 GLM-4.6V-Flash computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL from a released SFT start point for ScienceBoard scientific-software tasks.

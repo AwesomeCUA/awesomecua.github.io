@@ -1,3 +1,11 @@
+---
+title: "WinReach MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ghoui-winreach-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # WinReach MCP
 
 Model Context Protocol server giving AI agents remote control over a dedicated Windows machine with PowerShell, screenshots, and UI input.

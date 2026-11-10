@@ -1,3 +1,11 @@
+---
+title: "MM-ReCoder: Advancing Chart-to-Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-01600/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction
 
 Bibliographic record for MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zitian Tang, Xu Zhang, Jianbo Yuan, Yang Zou, Varad Gunjal, Songyao Jiang, David
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-01600/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-01600/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_01600,
+  title = {{MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction}},
+  author = {{Zitian Tang} and {Xu Zhang} and {Jianbo Yuan} and {Yang Zou} and {Varad Gunjal} and {Songyao Jiang} and {Davide Modolo}},
+  year = {2026},
+  eprint = {2604.01600v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.01600v1},
+  note = {First published: 2026-04-02; Recorded arXiv version: v1; Recorded version updated: 2026-04-02T04:21:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

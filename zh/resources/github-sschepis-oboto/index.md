@@ -1,3 +1,11 @@
+---
+title: "Oboto · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sschepis-oboto/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Oboto
 
 Oboto 是桌面 AI 助手，支持浏览器自动化、工作区管理以及可扩展的插件和 MCP 工具执行。

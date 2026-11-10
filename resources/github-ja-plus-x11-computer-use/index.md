@@ -1,3 +1,11 @@
+---
+title: "x11-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ja-plus-x11-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # x11-computer-use
 
 x11-computer-use is an Agent Skills package for Linux X11 desktop control using xdotool input injection, ImageMagick screenshots, and AT-SPI trees.

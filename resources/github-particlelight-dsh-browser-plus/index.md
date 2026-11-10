@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-plus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-browser-plus
 
 Visible, agent-driven Electron WebContents browser plugin for DeepSeek Harness.

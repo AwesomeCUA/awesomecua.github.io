@@ -1,3 +1,11 @@
+---
+title: "AutoKey · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-autokey-autokey/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AutoKey
 
 AutoKey 是适用于 Linux 和 X11 环境的桌面自动化及键盘和鼠标宏工具，可通过 Python 脚本控制。

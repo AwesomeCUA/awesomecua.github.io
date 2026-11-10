@@ -1,3 +1,11 @@
+---
+title: "Computation using Noise-based Logic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1005-1560/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Computation using Noise-based Logic: Efficient String Verification over a Slow Communication Channel
 
 Status: excluded from the active CUA catalog after scope review.

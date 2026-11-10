@@ -1,3 +1,11 @@
+---
+title: "Automated Trajectory Evaluation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-20797/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation
 
 提出 CRATE，一种用于移动端智能体轨迹的逐步视觉评审器；CRATE-S 根据随动作变化的状态评估操作安全性。
@@ -27,6 +35,18 @@ Pengshuai Yang, Zijing Gao, Xue Yu, Benhui Zhuang, Bo Yuan, Junlan Feng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-20797/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-20797/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_20797,
+  title = {{Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation}},
+  author = {{Pengshuai Yang} and {Zijing Gao} and {Xue Yu} and {Benhui Zhuang} and {Bo Yuan} and {Junlan Feng}},
+  year = {2026},
+  eprint = {2608.20797v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.20797v1},
+  note = {First published: 2026-08-21; Recorded arXiv version: v1; Recorded version updated: 2026-08-21T07:16:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

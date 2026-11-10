@@ -1,3 +1,11 @@
+---
+title: "Extraneousness-Aware Imitation Learning | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-01379/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Extraneousness-Aware Imitation Learning
 
 Status: excluded from the active CUA catalog after scope review.

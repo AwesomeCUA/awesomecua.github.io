@@ -1,3 +1,11 @@
+---
+title: "Claude Computer-Use Tools MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yossifibrahem-computer-use-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Claude Computer-Use Tools MCP Server
 
 Model Context Protocol server replicating Anthropic Claude's built-in computer-use tools (`view`, `click`, `type`, `key`) for any MCP client.

@@ -1,3 +1,11 @@
+---
+title: "Open Grok Bot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anil-matcha-open-grok-bot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Open Grok Bot
 
 Local-first AI agent workspace featuring governed computer use, approval gates, and multi-persona orchestration.

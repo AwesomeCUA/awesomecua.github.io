@@ -1,3 +1,11 @@
+---
+title: "Jevry | AwesomeCUA"
+url: https://awesomecua.com/resources/github-michaelswissa-jevry/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Jevry
 
 Jevry is a desktop browser agent that turns observed page controls into candidate actions, uses models to choose and plan, and shows its actions as it works through website tasks.

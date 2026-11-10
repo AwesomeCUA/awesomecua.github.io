@@ -1,3 +1,11 @@
+---
+title: "RICO-SCA · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-72f05843df9bd7ea35af/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # RICO-SCA
 
 一套移动界面数据集，将截图、控件边界框、合成描述和视图层级配对，用于屏幕理解与界面定位。

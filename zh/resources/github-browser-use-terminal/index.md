@@ -1,3 +1,11 @@
+---
+title: "Browser Use Terminal · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-terminal/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Use Terminal
 
 Browser Use Terminal 是 Rust 终端用户界面（TUI），用于交互式控制和监控 browser-use 智能体。

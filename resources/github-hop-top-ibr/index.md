@@ -1,3 +1,11 @@
+---
+title: "Intent Browser Runtime (ibr) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hop-top-ibr/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Intent Browser Runtime (ibr)
 
 Intent Browser Runtime (ibr) translates natural-language instructions into resilient XPath/DOM actions using Playwright and Vercel AI SDK.

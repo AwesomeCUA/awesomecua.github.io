@@ -1,3 +1,11 @@
+---
+title: "3D-VLA: A 3D Vision-Language-Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-09631/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # 3D-VLA: A 3D Vision-Language-Action Generative World Model
 
 Bibliographic record for 3D-VLA: A 3D Vision-Language-Action Generative World Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-09631/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-09631/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_09631,
+  title = {{3D-VLA: A 3D Vision-Language-Action Generative World Model}},
+  author = {{Haoyu Zhen} and {Xiaowen Qiu} and {Peihao Chen} and {Jincheng Yang} and {Xin Yan} and {Yilun Du} and {Yining Hong} and {Chuang Gan}},
+  year = {2024},
+  eprint = {2403.09631v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.09631v1},
+  note = {First published: 2024-03-14; Recorded arXiv version: v1; Recorded version updated: 2024-03-14T17:58:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

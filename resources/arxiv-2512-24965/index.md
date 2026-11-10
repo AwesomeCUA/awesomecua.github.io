@@ -1,3 +1,11 @@
+---
+title: "ShowUI-$π$: Flow-based Generative Models as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-24965/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands
 
 Models discrete clicks and continuous drags with flow-based action generation, and introduces drag trajectories and the ScreenDrag benchmark.
@@ -26,6 +34,18 @@ Siyuan Hu, Kevin Qinghong Lin, Mike Zheng Shou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-24965/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-24965/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_24965,
+  title = {{ShowUI-\$π\$: Flow-based Generative Models as GUI Dexterous Hands}},
+  author = {{Siyuan Hu} and {Kevin Qinghong Lin} and {Mike Zheng Shou}},
+  year = {2025},
+  eprint = {2512.24965v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.24965v1},
+  note = {First published: 2025-12-31; Recorded arXiv version: v1; Recorded version updated: 2025-12-31T16:51:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

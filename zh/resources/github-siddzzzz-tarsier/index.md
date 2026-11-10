@@ -1,3 +1,11 @@
+---
+title: "Tarsier-AI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-siddzzzz-tarsier/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Tarsier-AI
 
 Tarsier-AI 将桌面和网页无障碍树转换为可移植的语义快照和行为确定的动作原语，供 LLM 智能体使用。

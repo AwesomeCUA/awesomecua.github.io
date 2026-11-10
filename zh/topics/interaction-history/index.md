@@ -1,3 +1,11 @@
+---
+title: "交互历史：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/interaction-history/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 交互历史
 
 Reviewed topic membership; resources can appear in multiple topics.

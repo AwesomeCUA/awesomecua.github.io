@@ -1,3 +1,11 @@
+---
+title: "ClawBox · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-coderkk1992-clawbox/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # ClawBox
 
 ClawBox 在使用 Apple Virtualization.framework 的隔离 macOS 虚拟机沙箱中运行 OpenClaw 和计算机使用智能体。

@@ -1,3 +1,11 @@
+---
+title: "Eagle 2: Building Post-Training Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-14818/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models
 
 Bibliographic record for Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiqi Li, Guo Chen, Shilong Liu, Shihao Wang, Vibashan VS, Yishen Ji, Shiyi Lan,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-14818/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-14818/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_14818,
+  title = {{Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models}},
+  author = {{Zhiqi Li} and {Guo Chen} and {Shilong Liu} and {Shihao Wang} and {Vibashan VS} and {Yishen Ji} and {Shiyi Lan} and {Hao Zhang} and {Yilin Zhao} and {Subhashree Radhakrishnan} and {Nadine Chang} and {Karan Sapra} and {Amala Sanjay Deshmukh} and {Tuomas Rintamaki} and {Matthieu Le} and {Ilia Karmanov} and {Lukas Voegtle} and {Philipp Fischer} and {De-An Huang} and {Timo Roman} and {Tong Lu} and {Jose M. Alvarez} and {Bryan Catanzaro} and {Jan Kautz} and {Andrew Tao} and {Guilin Liu} and {Zhiding Yu}},
+  year = {2025},
+  eprint = {2501.14818v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.14818v1},
+  note = {First published: 2025-01-20; Recorded arXiv version: v1; Recorded version updated: 2025-01-20T18:40:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

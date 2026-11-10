@@ -1,3 +1,11 @@
+---
+title: "WebLINX: Real-World Website Navigation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-05930/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # WebLINX: Real-World Website Navigation with Multi-Turn Dialogue
 
 Collects expert demonstrations of conversational web navigation and studies retrieval-based element selection for processing large pages.
@@ -26,6 +34,18 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-05930/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-05930/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_05930,
+  title = {{WebLINX: Real-World Website Navigation with Multi-Turn Dialogue}},
+  author = {{Xing Han Lù} and {Zdeněk Kasner} and {Siva Reddy}},
+  year = {2024},
+  eprint = {2402.05930v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.05930v2},
+  note = {First published: 2024-02-08; Recorded arXiv version: v2; Recorded version updated: 2024-09-10T22:22:43Z.}
+}
+```
 
 ## Publication record
 

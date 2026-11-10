@@ -1,3 +1,11 @@
+---
+title: "Distributed Quantum Faithful Simulation and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2101-02360/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Distributed Quantum Faithful Simulation and Function Computation Using Algebraic Structured Measurements
 
 Status: excluded from the active CUA catalog after scope review.

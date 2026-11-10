@@ -1,3 +1,11 @@
+---
+title: "OpenCUA: Open Foundations for Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-09123/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OpenCUA: Open Foundations for Computer-Use Agents
 
 Presents demonstration collection infrastructure, the AgentNet dataset, and a training pipeline for open computer-use models.
@@ -26,6 +34,18 @@ Xinyuan Wang, Bowen Wang, Dunjie Lu, Junlin Yang, Tianbao Xie, Junli Wang, Jiaqi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-09123/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-09123/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_09123,
+  title = {{OpenCUA: Open Foundations for Computer-Use Agents}},
+  author = {{Xinyuan Wang} and {Bowen Wang} and {Dunjie Lu} and {Junlin Yang} and {Tianbao Xie} and {Junli Wang} and {Jiaqi Deng} and {Xiaole Guo} and {Yiheng Xu} and {Chen Henry Wu} and {Zhennan Shen} and {Zhuokai Li} and {Ryan Li} and {Xiaochuan Li} and {Junda Chen} and {Boyuan Zheng} and {Peihang Li} and {Fangyu Lei} and {Ruisheng Cao} and {Yeqiao Fu} and {Dongchan Shin} and {Martin Shin} and {Jiarui Hu} and {Yuyan Wang} and {Jixuan Chen} and {Yuxiao Ye} and {Danyang Zhang} and {Dikang Du} and {Hao Hu} and {Huarong Chen} and {Zaida Zhou} and {Haotian Yao} and {Ziwei Chen} and {Qizheng Gu} and {Yipu Wang} and {Heng Wang} and {Diyi Yang} and {Victor Zhong} and {Flood Sung} and {Y. Charles} and {Zhilin Yang} and {Tao Yu}},
+  year = {2025},
+  eprint = {2508.09123v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.09123v3},
+  note = {First published: 2025-08-12; Recorded arXiv version: v3; Recorded version updated: 2025-10-04T17:38:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "An LLM can Fool Itself: A Prompt-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-13345/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An LLM can Fool Itself: A Prompt-Based Adversarial Attack
 
 Status: excluded from the active CUA catalog after scope review.

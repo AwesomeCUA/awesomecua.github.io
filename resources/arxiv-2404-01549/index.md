@@ -1,3 +1,11 @@
+---
+title: "Octopus: On-device language model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-01549/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Octopus: On-device language model for function calling of software APIs
 
 Status: excluded from the active CUA catalog after scope review.

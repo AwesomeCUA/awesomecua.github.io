@@ -1,3 +1,11 @@
+---
+title: "SIR: Self-improving Red-teaming for Compute… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-30207/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SIR: Self-improving Red-teaming for Compute Use Agents
 
 Introduces SIR, which iteratively refines a reusable library of prompt-injection strategies from failed computer-use attack trajectories. Its evaluation uses deterministic system-state checks and counts attacks only when the adversarial objective and legitimate task both complete.
@@ -26,6 +34,18 @@ Chen Xiong, Zhiyuan He, Pin-Yu Chen, Stjepan Picek, Tsung-Yi Ho
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-30207/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-30207/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_30207,
+  title = {{SIR: Self-improving Red-teaming for Compute Use Agents}},
+  author = {{Chen Xiong} and {Zhiyuan He} and {Pin-Yu Chen} and {Stjepan Picek} and {Tsung-Yi Ho}},
+  year = {2026},
+  eprint = {2608.30207v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.30207v2},
+  note = {First published: 2026-08-31; Recorded arXiv version: v2; Recorded version updated: 2026-10-03T10:41:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

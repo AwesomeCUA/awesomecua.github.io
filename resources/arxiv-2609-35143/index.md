@@ -1,3 +1,11 @@
+---
+title: "Timeline-Bench: Evaluating Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35143/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Timeline-Bench: Evaluating Agents on Realistic Video-Editing Tasks, from Raw Footage to Final Cut
 
 Bibliographic record for Timeline-Bench: Evaluating Agents on Realistic Video-Editing Tasks, from Raw Footage to Final Cut. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Gunin Gupta, Nirmit Arora, Pavan Kalyan Tankala
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-35143/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-35143/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35143,
+  title = {{Timeline-Bench: Evaluating Agents on Realistic Video-Editing Tasks, from Raw Footage to Final Cut}},
+  author = {{Gunin Gupta} and {Nirmit Arora} and {Pavan Kalyan Tankala}},
+  year = {2026},
+  eprint = {2609.35143v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35143v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T13:28:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

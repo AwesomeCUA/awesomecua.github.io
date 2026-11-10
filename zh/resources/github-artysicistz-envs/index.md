@@ -1,3 +1,11 @@
+---
+title: "ENVS (Environment-Native Verified Search) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-artysicistz-envs/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ENVS (Environment-Native Verified Search)
 
 ENVS 是后训练和可验证树搜索流水线，面向在实时桌面和网页环境中运行的长时程 GUI 智能体。

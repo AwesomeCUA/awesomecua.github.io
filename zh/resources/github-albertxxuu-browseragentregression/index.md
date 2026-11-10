@@ -1,3 +1,11 @@
+---
+title: "BrowserAgentRegression · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-albertxxuu-browseragentregression/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # BrowserAgentRegression
 
 本地优先的回归测试评测基准，用于在受控的 UI 和 DOM 变更下评测浏览器智能体。

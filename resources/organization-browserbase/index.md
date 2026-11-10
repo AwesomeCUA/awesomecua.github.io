@@ -1,3 +1,11 @@
+---
+title: "Browserbase | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-browserbase/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # Browserbase
 
 Publisher or product brand associated with Browserbase computer-use or browser automation offerings.

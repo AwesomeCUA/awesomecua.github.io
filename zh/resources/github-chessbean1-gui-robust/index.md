@@ -1,3 +1,11 @@
+---
+title: "GUI-Robust · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chessbean1-gui-robust/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # GUI-Robust
 
 提供评估脚本和关联数据，用于比较普通及异常界面条件下的 GUI 操作预测和任务执行。

@@ -1,3 +1,11 @@
+---
+title: "OS-SPEAR: A Toolkit for the Safety… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-24348/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents
 
 提供评估工具包，用于联合分析操作系统 GUI 智能体的安全性、效率和多模态鲁棒性。
@@ -27,6 +35,18 @@ Zheng Wu, Yi Hua, Zhaoyuan Huang, Chenhao Xue, Yijie Lu, Pengzhou Cheng, Zongru 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-24348/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-24348/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_24348,
+  title = {{OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents}},
+  author = {{Zheng Wu} and {Yi Hua} and {Zhaoyuan Huang} and {Chenhao Xue} and {Yijie Lu} and {Pengzhou Cheng} and {Zongru Wu} and {Lingzhong Dong} and {Gongshen Liu} and {Xinghao Jiang} and {Zhuosheng Zhang}},
+  year = {2026},
+  eprint = {2604.24348v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.24348v1},
+  note = {First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T11:44:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

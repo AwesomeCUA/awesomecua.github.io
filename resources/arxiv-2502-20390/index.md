@@ -1,3 +1,11 @@
+---
+title: "InterMimic: Towards Universal Whole-Body… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-20390/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions
 
 Status: excluded from the active CUA catalog after scope review.

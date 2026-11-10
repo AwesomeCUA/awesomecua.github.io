@@ -1,3 +1,11 @@
+---
+title: "Compare GUI-agent training datasets | AwesomeCUA"
+url: https://awesomecua.com/compare/datasets/
+updated: 2026-11-10
+type: comparison
+lang: en
+---
+
 # Compare GUI-agent training datasets
 
 HTML page: https://awesomecua.com/compare/datasets/

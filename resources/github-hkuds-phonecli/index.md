@@ -1,3 +1,11 @@
+---
+title: "PhoneCLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hkuds-phonecli/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # PhoneCLI
 
 Mobile-agent harness that crawls an app into a YAML map of screens, replays compiled navigation commands through WebDriverAgent on iOS or ADB on Android, and falls back to a VLM for unseen screens.

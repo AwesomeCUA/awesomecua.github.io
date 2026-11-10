@@ -1,3 +1,11 @@
+---
+title: "Brobot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jspinak-brobot/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Brobot
 
 Brobot is a Java visual automation framework that recognizes interface elements and models application states to navigate, perform actions and recover from errors.

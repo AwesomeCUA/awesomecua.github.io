@@ -1,3 +1,11 @@
+---
+title: "ScreenLeak · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-screenpipe-screenleak/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # ScreenLeak
 
 ScreenLeak 是多模态评测基准，用于衡量连续屏幕录制数据中的敏感信息检测和个人身份信息脱敏。

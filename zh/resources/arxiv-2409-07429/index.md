@@ -1,3 +1,11 @@
+---
+title: "Agent Workflow Memory · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-07429/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # Agent Workflow Memory
 
 Agent Workflow Memory 提取可复用的任务流程，并有选择地提供给后续网页操作；研究从训练样例离线归纳流程，以及从 Mind2Web 和 WebArena 的测试经验在线归纳流程。
@@ -27,6 +35,18 @@ Zora Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-07429/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-07429/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_07429,
+  title = {{Agent Workflow Memory}},
+  author = {{Zora Zhiruo Wang} and {Jiayuan Mao} and {Daniel Fried} and {Graham Neubig}},
+  year = {2024},
+  eprint = {2409.07429v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.07429v1},
+  note = {First published: 2024-09-11; Recorded arXiv version: v1; Recorded version updated: 2024-09-11T17:21:00Z.}
+}
+```
 
 ## 发表记录
 

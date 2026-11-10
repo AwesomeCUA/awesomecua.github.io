@@ -1,3 +1,11 @@
+---
+title: "InfiGUIAgent: A Multimodal Generalist… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2501-04575/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
 
 通过分阶段监督训练，将 GUI 理解与定位同分层推理及基于预期的反思结合起来。
@@ -27,6 +35,18 @@ Yuhang Liu, Pengxiang Li, Zishu Wei, Congkai Xie, Xueyu Hu, Xinchen Xu, Shengyu 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2501-04575/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2501-04575/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_04575,
+  title = {{InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection}},
+  author = {{Yuhang Liu} and {Pengxiang Li} and {Zishu Wei} and {Congkai Xie} and {Xueyu Hu} and {Xinchen Xu} and {Shengyu Zhang} and {Xiaotian Han} and {Hongxia Yang} and {Fei Wu}},
+  year = {2025},
+  eprint = {2501.04575v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.04575v1},
+  note = {First published: 2025-01-08; Recorded arXiv version: v1; Recorded version updated: 2025-01-08T15:45:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

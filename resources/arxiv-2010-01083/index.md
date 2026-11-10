@@ -1,3 +1,11 @@
+---
+title: "Integrated Task and Motion Planning | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2010-01083/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Integrated Task and Motion Planning
 
 Status: excluded from the active CUA catalog after scope review.

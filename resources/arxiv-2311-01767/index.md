@@ -1,3 +1,11 @@
+---
+title: "PPTC Benchmark: Evaluating Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-01767/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion
 
 Evaluates multi-turn PowerPoint creation and editing by scoring the resulting presentation files.
@@ -26,6 +34,18 @@ Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Nan Duan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-01767/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-01767/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_01767,
+  title = {{PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion}},
+  author = {{Yiduo Guo} and {Zekai Zhang} and {Yaobo Liang} and {Dongyan Zhao} and {Nan Duan}},
+  year = {2023},
+  eprint = {2311.01767v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.01767v2},
+  note = {First published: 2023-11-03; Recorded arXiv version: v2; Recorded version updated: 2023-11-07T10:13:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

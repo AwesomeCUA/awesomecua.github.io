@@ -1,3 +1,11 @@
+---
+title: "App Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-erickjtorres-app-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # App Use
 
 App Use is a Python framework that connects LLM agents to Android and iOS mobile applications via Appium and accessibility-tree inspection.

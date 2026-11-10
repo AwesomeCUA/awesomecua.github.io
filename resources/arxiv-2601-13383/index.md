@@ -1,3 +1,11 @@
+---
+title: "A Lightweight Modular Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-13383/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Lightweight Modular Framework for Constructing Autonomous Agents Driven by Large Language Models: Design, Implementation, and Applications in AgentForge
 
 Status: excluded from the active CUA catalog after scope review.

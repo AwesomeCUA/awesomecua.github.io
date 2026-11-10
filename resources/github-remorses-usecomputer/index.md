@@ -1,3 +1,11 @@
+---
+title: "usecomputer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-remorses-usecomputer/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # usecomputer
 
 A desktop automation CLI and library for agent workflows. It captures screenshots, maps image coordinates to screen positions and sends mouse and keyboard actions.

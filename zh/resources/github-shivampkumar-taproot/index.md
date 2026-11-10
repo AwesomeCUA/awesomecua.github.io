@@ -1,3 +1,11 @@
+---
+title: "taproot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shivampkumar-taproot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # taproot
 
 taproot 是开源移动端 GUI 智能体测试框架，在 AndroidWorld 上结合视觉语言模型与无障碍树定位。

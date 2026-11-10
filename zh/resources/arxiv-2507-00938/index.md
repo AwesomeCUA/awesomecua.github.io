@@ -1,3 +1,11 @@
+---
+title: "WebArxiv: A Reproducible Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-00938/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks
 
 WebArxiv 提供 510 项答案确定的静态快照任务，涵盖受约束的论文检索、内容提取和跨论文比较；还测试动态检索交互历史，以应对智能体推理重复或不完整的问题。
@@ -27,6 +35,18 @@ Zihao Sun, Zijing Shi, Ling Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-00938/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-00938/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_00938,
+  title = {{WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks}},
+  author = {{Zihao Sun} and {Zijing Shi} and {Ling Chen}},
+  year = {2025},
+  eprint = {2507.00938v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.00938v4},
+  note = {First published: 2025-07-01; Recorded arXiv version: v4; Recorded version updated: 2026-09-24T12:58:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

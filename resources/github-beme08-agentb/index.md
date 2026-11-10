@@ -1,3 +1,11 @@
+---
+title: "agentB | AwesomeCUA"
+url: https://awesomecua.com/resources/github-beme08-agentb/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # agentB
 
 agentB is a benchmark for evaluating open web agents on realistic knowledge-work and browser automation tasks.

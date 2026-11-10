@@ -1,3 +1,11 @@
+---
+title: "browser-task-bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tradestackdev-browser-task-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # browser-task-bench
 
 browser-task-bench 是包含 200+ 项网页交互任务的评测基准套件，涵盖表单、搜索、身份验证和结账流程。

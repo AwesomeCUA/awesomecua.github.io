@@ -1,3 +1,11 @@
+---
+title: "GUI-Primitives: Diagnosing Spatial… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-21832/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding
 
 提出 GUI-Primitives 成对指令基准：保持截图和参照对象不变，只改变空间关系；诊断区分候选对象定位失败与无法选出符合关系的候选对象。
@@ -27,6 +35,18 @@ Md Abrar Jahin, Md Rizwan Parvez
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-21832/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-21832/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_21832,
+  title = {{GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding}},
+  author = {{Md Abrar Jahin} and {Md Rizwan Parvez}},
+  year = {2026},
+  eprint = {2608.21832v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.21832v2},
+  note = {First published: 2026-08-22; Recorded arXiv version: v2; Recorded version updated: 2026-08-27T07:03:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Persona UX Test · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ericwong5021-persona-ux-test/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Persona UX Test
 
 使用仅通过渲染画面交互的隔离 AI 用户角色，对网页和桌面用户界面进行盲测。

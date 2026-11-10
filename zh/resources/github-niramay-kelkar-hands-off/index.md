@@ -1,3 +1,11 @@
+---
+title: "hands-off · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-niramay-kelkar-hands-off/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # hands-off
 
 hands-off 在没有 API 的旧版后台软件中发现 UI 工作流，并将其编译为确定性的重放脚本。

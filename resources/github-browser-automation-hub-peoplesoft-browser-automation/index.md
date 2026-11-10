@@ -1,3 +1,11 @@
+---
+title: "Oracle PeopleSoft Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-peoplesoft-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Oracle PeopleSoft Browser Automation
 
 A browser automation scaffold for Oracle PeopleSoft that defines actions for queries, leave requests, employee records, and payroll workflows through Puppeteer or Anchor Browser.

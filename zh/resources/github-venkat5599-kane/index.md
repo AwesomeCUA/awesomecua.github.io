@@ -1,3 +1,11 @@
+---
+title: "Kane · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-venkat5599-kane/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Kane
 
 面向 AI 构建的网页应用的通俗英语浏览器验证测试框架，将 UI 故障报告给编码智能体。

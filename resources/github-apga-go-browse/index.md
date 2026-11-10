@@ -1,3 +1,11 @@
+---
+title: "Go-Browse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-apga-go-browse/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Go-Browse
 
 Structured website-exploration and data-processing code that revisits discovered pages, proposes tasks and collects trajectories for web-agent fine-tuning.

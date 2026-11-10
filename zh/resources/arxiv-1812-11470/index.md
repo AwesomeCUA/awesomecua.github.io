@@ -1,3 +1,11 @@
+---
+title: "A Systematic Literature Review of… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-1812-11470/
+updated: 2026-11-06
+type: survey
+lang: zh-CN
+---
+
 # A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications
 
 综述移动应用的自动化功能性 GUI 测试技术，依据 25 项研究比较各类方法的有效性、效率与实用性。
@@ -27,6 +35,18 @@ Yauhen Leanidavich Arnatovich, Lipo Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-1812-11470/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1812-11470/citation.csl.json
+
+```bibtex
+@misc{arxiv_1812_11470,
+  title = {{A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications}},
+  author = {{Yauhen Leanidavich Arnatovich} and {Lipo Wang}},
+  year = {2018},
+  eprint = {1812.11470v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1812.11470v1},
+  note = {First published: 2018-12-30; Recorded arXiv version: v1; Recorded version updated: 2018-12-30T04:50:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

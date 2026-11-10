@@ -1,3 +1,11 @@
+---
+title: "RobustBench: a standardized adversarial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2010-09670/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RobustBench: a standardized adversarial robustness benchmark
 
 Status: excluded from the active CUA catalog after scope review.

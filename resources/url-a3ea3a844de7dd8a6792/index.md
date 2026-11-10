@@ -1,3 +1,11 @@
+---
+title: "MWMBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # MWMBench
 
 MWMBench evaluates mobile GUI world models by asking them to predict the next screen from a screenshot and coordinate action.

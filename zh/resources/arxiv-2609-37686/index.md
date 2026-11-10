@@ -1,3 +1,11 @@
+---
+title: "EngiWorld: What Can Frontier Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-37686/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?
 
 EngiWorld 提供跨软件领域的专业工程任务，支持 GUI 和 CLI 访问，并通过产物检查几何、物理及设计有效性。
@@ -27,6 +35,18 @@ Hongcheng Gao, Hailong Qu, Yu Lei, Henghui Sun, Haoyang Li, Yipeng Wei, Naihao X
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-37686/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-37686/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_37686,
+  title = {{EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?}},
+  author = {{Hongcheng Gao} and {Hailong Qu} and {Yu Lei} and {Henghui Sun} and {Haoyang Li} and {Yipeng Wei} and {Naihao Xue} and {Xiaohan Yu} and {Zhuo Tao} and {Yihe Zang} and {Yajiao Wang} and {Jingyi Tang} and {Yi Li} and {Jingjing Zhou} and {Jie Luo} and {Bohan Zeng} and {Chengyu Shen} and {Hao Jiang} and {Chong Chen} and {Bowen Qu} and {Olive Huang} and {Zeqiang Wang}},
+  year = {2026},
+  eprint = {2609.37686v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.37686v2},
+  note = {First published: 2026-09-29; Recorded arXiv version: v2; Recorded version updated: 2026-10-09T08:15:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

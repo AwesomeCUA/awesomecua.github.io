@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-7B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-557edb1d63e8fcfdee12/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL-7B-Instruct
 
 Qwen2.5-VL-7B-Instruct 发布视觉语言模型权重；模型卡介绍其电脑和手机操作能力，并报告屏幕定位及移动智能体基准结果。

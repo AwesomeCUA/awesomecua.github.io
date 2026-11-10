@@ -1,3 +1,11 @@
+---
+title: "OmOWright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-code-yeongyu-omowright/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OmOWright
 
 AI-agent-oriented wrapper around Playwright that exposes the Playwright API shape models already know from pretraining.

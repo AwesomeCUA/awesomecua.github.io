@@ -1,3 +1,11 @@
+---
+title: "LiteWebAgent (github.com/PathOnAI/LiteWeb… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pathonai-litewebagent/
+updated: 2026-11-02
+type: framework
+lang: zh-CN
+---
+
 # LiteWebAgent
 
 开源 VLM 网页智能体框架，提供 Playwright 浏览器控制、规划、工作流记忆、树搜索以及 FastAPI/Vercel 部署支持。

@@ -1,3 +1,11 @@
+---
+title: "OpenOCR | AwesomeCUA"
+url: https://awesomecua.com/resources/github-topdu-openocr/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OpenOCR
 
 OpenOCR is an open-source scene and document text detection, recognition, and VLM-OCR toolkit used for screen text parsing.

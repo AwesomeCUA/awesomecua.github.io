@@ -1,3 +1,11 @@
+---
+title: "ClickAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-samsung-clickagent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ClickAgent
 
 ClickAgent decouples high-level MLLM action reasoning from a specialized UI element localization model for Android task automation.

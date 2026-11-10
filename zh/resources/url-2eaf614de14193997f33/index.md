@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 8B AW · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2eaf614de14193997f33/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 8B AW
 
 面向 AndroidWorld 的 InternVL2-8B 检查点，基于 OS-Genesis 移动端轨迹训练；模型卡以截图、无障碍树、目标和操作历史提示其生成下一步思考与操作。

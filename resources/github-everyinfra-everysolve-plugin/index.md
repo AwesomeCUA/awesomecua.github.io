@@ -1,3 +1,11 @@
+---
+title: "EverySolve Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-everyinfra-everysolve-plugin/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # EverySolve Plugin
 
 Authorized CAPTCHA challenge detection and resolution skill for OpenAI Codex and Claude Code browser workflows.

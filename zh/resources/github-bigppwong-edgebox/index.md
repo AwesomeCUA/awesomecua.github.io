@@ -1,3 +1,11 @@
+---
+title: "EdgeBox · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bigppwong-edgebox/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # EdgeBox
 
 EdgeBox 创建隔离的本地 Linux 桌面虚拟机，支持 WebRTC 画面传输和快照回滚，供计算机使用智能体运行。

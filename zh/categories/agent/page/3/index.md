@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体（第 3 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/agent/page/3/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体：第 3 页
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](https://awesomecua.com/categories/agent/page/3/index.md)
@@ -39,7 +47,6 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](ht
 - [DEIMOS (Environment-Aware Computer Agent)](https://awesomecua.com/zh/resources/github-sakshamjuneja007-freaky-monkey/)：感知环境的自主计算机使用智能体，可感知 OS 状态并执行多步骤桌面工作流。
 - [Desktop Agent](https://awesomecua.com/zh/resources/github-ruslankoroy-desktop-agent/)：Desktop Agent 通过截图网格叠加标注、OCR 文本检测、语音命令以及鼠标和键盘操作来控制本地计算机。
 - [DesktopAgent (.NET 9)](https://awesomecua.com/zh/resources/github-alessiobianchini-desktopagent/)：基于 .NET 9 构建、以安全为先的本地桌面自动化智能体，配有跨平台 OS 适配器、策略检查和 MCP 服务器。
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/)：DesktopAgent 使用本地 0.33B System-One 决策模型（S1-Fast）和 UI Automation，在后台操作 Windows 桌面应用。
 - [DevDesignAmitesh Browser Agent](https://awesomecua.com/zh/resources/github-devdesignamitesh-browser-agent/)：自主 AI 网页智能体，根据自然语言提示规划并执行多步浏览器交互。
 - [DietSurf](https://awesomecua.com/zh/resources/github-100x-bot-dietsurf/)：简约的 Chrome 侧边栏浏览器智能体，配有虚拟文件系统和类 shell 命令界面。
 - [DomA](https://awesomecua.com/zh/resources/github-dom-actions-doma/)：DomA 浏览器智能体 Chrome 和 Edge 扩展的公开源码版：通过带标记的截图和元素列表观察网页，以 DOM 事件和 CDP 点击操作，并经 MCP 提供工具。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](ht
 - [Jcua (Jev Computer Use Agent)](https://awesomecua.com/zh/resources/github-1deat0r-jcua/)：Jcua 是一款由 Jev 决策模型驱动的跨平台计算机使用智能体，可在 Linux、Windows 和 macOS 桌面上运行。
 - [Jev Browser Agent](https://awesomecua.com/zh/resources/github-amyivychoi-jev-browser-agent/)：Jev Browser Agent 结合 Browser Use DOM 提取、Jev System-One 动作选择和确定性浏览器测试框架执行。
 - [Jev for Chrome](https://awesomecua.com/zh/resources/github-chy4pro-jev-for-chrome/)：Chrome 扩展智能体将可见页面控件的索引表发送给 TypeSafe Jev 决策模型，仅向小型文本模型请求待输入字符串，并通过 Chrome 调试器输入执行操作。
+- [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/)：Jev macOS Loop 结合 Apple Silicon 本地 Jev 决策模型、OmniParser 定位和原生 macOS Accessibility 操作。

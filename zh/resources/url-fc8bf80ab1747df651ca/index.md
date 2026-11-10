@@ -1,3 +1,11 @@
+---
+title: "GLM-4.5V-FP8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fc8bf80ab1747df651ca/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GLM-4.5V-FP8
 
 一个发布 FP8 权重的视觉语言模型；其模型卡介绍了屏幕读取、图标识别、桌面操作辅助和视觉元素定位能力。

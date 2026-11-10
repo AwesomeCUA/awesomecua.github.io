@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct-AWQ | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1f488d7ef1c703f97a8a/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2-VL-72B-Instruct-AWQ
 
 Qwen2-VL-72B-Instruct-AWQ releases quantized weights for a visual instruction model. Its card describes integration with mobile devices for operation guided by images and text.

@@ -1,3 +1,11 @@
+---
+title: "ReAct: Synergizing Reasoning and Acting in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-03629/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ReAct: Synergizing Reasoning and Acting in Language Models
 
 Introduces ReAct, a method that interleaves reasoning traces and actions for language-model agents; WebShop is one of its interactive decision-making evaluations.
@@ -26,6 +34,18 @@ Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2210-03629/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2210-03629/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_03629,
+  title = {{ReAct: Synergizing Reasoning and Acting in Language Models}},
+  author = {{Shunyu Yao} and {Jeffrey Zhao} and {Dian Yu} and {Nan Du} and {Izhak Shafran} and {Karthik Narasimhan} and {Yuan Cao}},
+  year = {2022},
+  eprint = {2210.03629v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.03629v3},
+  note = {First published: 2022-10-06; Recorded arXiv version: v3; Recorded version updated: 2023-03-10T01:00:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

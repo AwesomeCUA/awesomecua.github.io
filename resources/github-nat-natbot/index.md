@@ -1,3 +1,11 @@
+---
+title: "natbot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nat-natbot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # natbot
 
 Early Playwright-based browser agent prototype that drives web navigation by feeding simplified DOM link/input lists to an LLM.

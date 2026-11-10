@@ -1,3 +1,11 @@
+---
+title: "HyperWrite Personal Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6917c59ee128421233b6/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # HyperWrite Personal Assistant
 
 Browser agent from HyperWrite that carries out typed requests such as searching, making reservations and filling out forms by operating the user's Chrome browser through the HyperWrite extension.

@@ -1,3 +1,11 @@
+---
+title: "Grok Chrome Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-davidsolheim-grok-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Grok Chrome Bridge
 
 Chrome bridge allowing Grok Build to inspect and interact with live local web applications during development.

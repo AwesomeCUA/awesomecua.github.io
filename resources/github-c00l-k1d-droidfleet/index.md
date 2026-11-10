@@ -1,3 +1,11 @@
+---
+title: "DroidFleet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-c00l-k1d-droidfleet/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # DroidFleet
 
 Open-source Android device fleet management and orchestration platform for mobile automation and testing.

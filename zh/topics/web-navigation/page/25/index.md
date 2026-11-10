@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 25 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/25/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 25 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/25/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Plasmate Skill for OpenClaw](https://awesomecua.com/zh/resources/github-plasmate-labs-skill-openclaw/)
-- [plasmate-mcp](https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-mcp/)
 - [Playwright CLI](https://awesomecua.com/zh/resources/github-microsoft-playwright-cli/)
 - [Playwright Flow Tester MCP](https://awesomecua.com/zh/resources/github-sadiuysal-playwright-flow-tester/)
 - [Playwright for Python](https://awesomecua.com/zh/resources/github-microsoft-playwright-python/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/25/
 - [RCI Agent](https://awesomecua.com/zh/resources/github-posgnu-rci-agent/)
 - [ReactSentinel](https://awesomecua.com/zh/resources/github-edgarbnt-reactsentinel/)
 - [real-browser-mcp](https://awesomecua.com/zh/resources/github-ofershap-real-browser-mcp/)
+- [Recallo](https://awesomecua.com/zh/resources/github-tianqi-bu-recallo/)
+- [recast](https://awesomecua.com/zh/resources/github-yagna-1-recast/)

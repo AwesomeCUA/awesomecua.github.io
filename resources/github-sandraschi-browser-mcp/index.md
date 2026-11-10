@@ -1,3 +1,11 @@
+---
+title: "browser-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sandraschi-browser-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # browser-mcp
 
 An MCP server that exposes browser navigation, clicks, typing, screenshots, and bookmark operations. It supports Chrome, Firefox, Edge, and Brave and includes a web dashboard.

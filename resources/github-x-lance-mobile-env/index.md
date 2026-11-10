@@ -1,3 +1,11 @@
+---
+title: "Mobile Env | AwesomeCUA"
+url: https://awesomecua.com/resources/github-x-lance-mobile-env/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # Mobile Env
 
 AndroidEnv-based platform for building GUI agent benchmarks and training agents, where task definition files emit instructions, rewards and episode ends from screen text, view hierarchy or log events.

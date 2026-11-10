@@ -1,3 +1,11 @@
+---
+title: "WATCHER | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aaman-911-watcher/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # WATCHER
 
 Prompt-injection defense classifier, evaluation benchmark, and defended browser harness for autonomous web agents.

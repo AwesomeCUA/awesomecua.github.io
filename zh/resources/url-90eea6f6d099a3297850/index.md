@@ -1,3 +1,11 @@
+---
+title: "GUI-G2 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-90eea6f6d099a3297850/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # GUI-G2 7B
 
 Qwen2.5-VL 定位检查点，使用高斯点奖励和覆盖奖励训练，奖励粒度随界面元素的大小调整。

@@ -1,3 +1,11 @@
+---
+title: "RecreationWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qwenlm-recreationworld/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # RecreationWorld
 
 Framework for hybrid computer-use agents that inspect running reference apps, implement replicas with coding tools, and verify behavior across five platforms.

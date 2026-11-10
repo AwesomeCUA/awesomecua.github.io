@@ -1,3 +1,11 @@
+---
+title: "ToolCUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-x-plug-toolcua/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ToolCUA
 
 ToolCUA 训练计算机使用智能体在 OSWorld-MCP 上协调混合使用 MCP 工具调用和 GUI 动作。

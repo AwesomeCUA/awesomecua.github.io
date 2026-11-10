@@ -1,3 +1,11 @@
+---
+title: "MM-PRM: Enhancing Multimodal Mathematical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-13427/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision
 
 Bibliographic record for MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Lingxiao Du, Fanqing Meng, Zongkai Liu, Zhixiang Zhou, Ping Luo, Qiaosheng Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-13427/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-13427/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_13427,
+  title = {{MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision}},
+  author = {{Lingxiao Du} and {Fanqing Meng} and {Zongkai Liu} and {Zhixiang Zhou} and {Ping Luo} and {Qiaosheng Zhang} and {Wenqi Shao}},
+  year = {2025},
+  eprint = {2505.13427v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.13427v2},
+  note = {First published: 2025-05-19; Recorded arXiv version: v2; Recorded version updated: 2025-06-05T05:29:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

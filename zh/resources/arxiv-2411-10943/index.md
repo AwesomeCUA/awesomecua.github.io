@@ -1,3 +1,11 @@
+---
+title: "Generalist Virtual Agents: A Survey on… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-10943/
+updated: 2026-10-18
+type: survey
+lang: zh-CN
+---
+
 # Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms
 
 综述浏览器、应用和操作系统中的虚拟智能体，按任务类型、观察与操作空间、模型策略及评估方法梳理研究，并讨论屏幕交互、键鼠与触控控制、迁移及长序列决策挑战。
@@ -27,6 +35,18 @@ Minghe Gao, Wendong Bu, Bingchen Miao, Yang Wu, Yunfei Li, Juncheng Li, Siliang 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-10943/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-10943/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_10943,
+  title = {{Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms}},
+  author = {{Minghe Gao} and {Wendong Bu} and {Bingchen Miao} and {Yang Wu} and {Yunfei Li} and {Juncheng Li} and {Siliang Tang} and {Qi Wu} and {Yueting Zhuang} and {Meng Wang}},
+  year = {2024},
+  eprint = {2411.10943v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.10943v1},
+  note = {First published: 2024-11-17; Recorded arXiv version: v1; Recorded version updated: 2024-11-17T02:44:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

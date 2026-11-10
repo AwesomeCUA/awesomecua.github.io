@@ -1,3 +1,11 @@
+---
+title: "OTora: A Unified Red Teaming Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-08876/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents
 
 OTora generates attacks that increase reasoning and tool use in multi-step LLM agents while preserving task outcomes; evaluations include WebShop agents.
@@ -26,6 +34,18 @@ Xinyu Li, Ronghui Mu, Lin Li, Tianjin Huang, Gaojie Jin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-08876/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-08876/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_08876,
+  title = {{OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents}},
+  author = {{Xinyu Li} and {Ronghui Mu} and {Lin Li} and {Tianjin Huang} and {Gaojie Jin}},
+  year = {2026},
+  eprint = {2605.08876v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.08876v3},
+  note = {First published: 2026-05-09; Recorded arXiv version: v3; Recorded version updated: 2026-08-02T00:52:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Llama Nemoretriever Colembed: Top-Performing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-05513/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model
 
 Bibliographic record for Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mengyao Xu, Gabriel Moreira, Ronay Ak, Radek Osmulski, Yauhen Babakhin, Zhiding 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-05513/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-05513/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_05513,
+  title = {{Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model}},
+  author = {{Mengyao Xu} and {Gabriel Moreira} and {Ronay Ak} and {Radek Osmulski} and {Yauhen Babakhin} and {Zhiding Yu} and {Benedikt Schifferer} and {Even Oldridge}},
+  year = {2025},
+  eprint = {2507.05513v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.05513v1},
+  note = {First published: 2025-07-07; Recorded arXiv version: v1; Recorded version updated: 2025-07-07T22:20:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

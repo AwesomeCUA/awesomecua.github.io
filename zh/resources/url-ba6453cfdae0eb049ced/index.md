@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ba6453cfdae0eb049ced/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # Plan-and-Act training data
 
 面向 WebArena-Lite 和 WebVoyager 的规划器与操作执行器训练样例，包含按模型处理的文件和原始轨迹标注。

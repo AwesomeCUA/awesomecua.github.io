@@ -1,3 +1,11 @@
+---
+title: "CodexQA Jev Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openqa-cn-jev-browser/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # CodexQA Jev Browser
 
 CodexQA Jev Browser 通过索引化控件和模型选择的操作控制 Playwright 页面，并提供用例重放及基于可见页面证据的报告。

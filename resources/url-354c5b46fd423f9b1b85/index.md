@@ -1,3 +1,11 @@
+---
+title: "Holo4 27B FP8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-354c5b46fd423f9b1b85/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo4 27B FP8
 
 FP8 block-quantized release of the Holo4-27B computer-use model; an external harness sends it screenshots and tool results and executes the clicks, typing, code and tool calls it requests.

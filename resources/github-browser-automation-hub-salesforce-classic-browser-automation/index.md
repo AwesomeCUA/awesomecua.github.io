@@ -1,3 +1,11 @@
+---
+title: "Salesforce Classic Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-salesforce-classic-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Salesforce Classic Browser Automation
 
 A browser automation scaffold for Salesforce Classic. It describes actions for login, lead creation, opportunity updates, report export and record updates.

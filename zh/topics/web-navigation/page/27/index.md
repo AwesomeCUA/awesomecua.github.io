@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 27 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/27/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 27 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/27/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Signett](https://awesomecua.com/zh/resources/github-signettai-signett/)
-- [Signpost WebMCP](https://awesomecua.com/zh/resources/github-zioladev-signpost/)
 - [SIH26 Privacy-Preserving Browser Agent](https://awesomecua.com/zh/resources/github-dalwadi-aryan-pranavkumar-sih-26/)
 - [siropkin chrome-bridge](https://awesomecua.com/zh/resources/github-siropkin-chrome-bridge/)
 - [Siteverb](https://awesomecua.com/zh/resources/github-siteverb-siteverb/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/27/
 - [Talox](https://awesomecua.com/zh/resources/github-avant-iconic-talox/)
 - [Taprun (tap)](https://awesomecua.com/zh/resources/github-leonting1010-tap/)
 - [Taxy AI](https://awesomecua.com/zh/resources/github-taxyai-browser-extension/)
+- [Taylor-Bayouth Browser Agent](https://awesomecua.com/zh/resources/github-taylor-bayouth-browser-agent/)
+- [TeleGen](https://awesomecua.com/zh/resources/github-commoluo-telegen/)

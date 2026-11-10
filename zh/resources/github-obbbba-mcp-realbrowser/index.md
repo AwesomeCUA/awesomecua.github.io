@@ -1,3 +1,11 @@
+---
+title: "MCP-RealBrowser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-obbbba-mcp-realbrowser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP-RealBrowser
 
 Model Context Protocol 服务器，通过保持登录状态的持久化浏览器配置文件提供 20 个浏览器工具。

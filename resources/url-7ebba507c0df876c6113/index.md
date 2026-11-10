@@ -1,3 +1,11 @@
+---
+title: "WebGenAgent-LM-8B-Step-GRPO | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7ebba507c0df876c6113/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # WebGenAgent-LM-8B-Step-GRPO
 
 The 8B Step-GRPO checkpoint of WebGen-Agent, which writes website code from instructions; training used screenshot scores and GUI-agent test scores as step-level rewards.

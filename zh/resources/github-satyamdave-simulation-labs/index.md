@@ -1,3 +1,11 @@
+---
+title: "Simulation Labs · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-satyamdave-simulation-labs/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Simulation Labs
 
 行为 CI 关卡，让计算机使用智能体在每次部署时测试注册、结账和新用户引导流程。

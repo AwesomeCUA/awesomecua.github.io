@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openmobile2-openmobile2-code/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # OpenMobile-2 code
 
 提供 OpenMobile-2 在 Android 仿真器和基于浏览器渲染的移动端模拟环境中的评估适配器与训练指南。

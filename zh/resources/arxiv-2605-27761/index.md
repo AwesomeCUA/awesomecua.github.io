@@ -1,3 +1,11 @@
+---
+title: "AndroidDaily: A Verifiable Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-27761/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications
 
 AndroidDaily 评估移动 GUI 智能体在闭源 Android 应用中的日常工作流程。GRADE 根据视觉轨迹检查操作要求、输出质量要求和禁止事项，无需访问隐藏应用状态即可提供过程级诊断。
@@ -27,6 +35,18 @@ Yifan Sui, Xin Huang, Hongbing Li, Fang Xu, Jiahe Lv, Haolong Yan, Yeqing Shen, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-27761/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-27761/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_27761,
+  title = {{AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications}},
+  author = {{Yifan Sui} and {Xin Huang} and {Hongbing Li} and {Fang Xu} and {Jiahe Lv} and {Haolong Yan} and {Yeqing Shen} and {Litao Liu} and {Zhimin Fan} and {Ziyang Meng} and {Jia Wang} and {Junbo Qi} and {Kaijun Tan} and {Zheng Ge} and {Xiangyu Zhang} and {Daxin Jiang} and {Osamu Yoshie}},
+  year = {2026},
+  eprint = {2605.27761v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.27761v1},
+  note = {First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T23:19:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

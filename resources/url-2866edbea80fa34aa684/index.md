@@ -1,3 +1,11 @@
+---
+title: "Aria-UI/Aria-UI-base | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2866edbea80fa34aa684/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Aria-UI/Aria-UI-base
 
 Aria-UI/Aria-UI-base is a released GUI grounding checkpoint that maps an instruction and interface image to target coordinates. The card documents history-aware input and inference examples.

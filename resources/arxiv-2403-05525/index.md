@@ -1,3 +1,11 @@
+---
+title: "DeepSeek-VL: Towards Real-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-05525/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DeepSeek-VL: Towards Real-World Vision-Language Understanding
 
 Bibliographic record for DeepSeek-VL: Towards Real-World Vision-Language Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Ton
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-05525/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-05525/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_05525,
+  title = {{DeepSeek-VL: Towards Real-World Vision-Language Understanding}},
+  author = {{Haoyu Lu} and {Wen Liu} and {Bo Zhang} and {Bingxuan Wang} and {Kai Dong} and {Bo Liu} and {Jingxiang Sun} and {Tongzheng Ren} and {Zhuoshu Li} and {Hao Yang} and {Yaofeng Sun} and {Chengqi Deng} and {Hanwei Xu} and {Zhenda Xie} and {Chong Ruan}},
+  year = {2024},
+  eprint = {2403.05525v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.05525v2},
+  note = {First published: 2024-03-08; Recorded arXiv version: v2; Recorded version updated: 2024-03-11T16:47:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

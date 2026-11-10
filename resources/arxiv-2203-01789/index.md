@@ -1,3 +1,11 @@
+---
+title: "Quantum circuit compilation and hybrid… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-01789/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum circuit compilation and hybrid computation using Pauli-based computation
 
 Status: excluded from the active CUA catalog after scope review.

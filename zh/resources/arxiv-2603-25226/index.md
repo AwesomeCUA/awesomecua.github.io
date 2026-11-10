@@ -1,3 +1,11 @@
+---
+title: "WebTestBench: Evaluating Computer-Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-25226/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing
 
 WebTestBench 用于端到端网站测试，将检查清单生成与缺陷检测分开。其 WebTester 基线跨 Web 应用类别评估测试覆盖率、检测能力和持续交互能力。
@@ -27,6 +35,18 @@ Fanheng Kong, Jingyuan Zhang, Yang Yue, Chenxi Sun, Yang Tian, Shi Feng, Xiaocui
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-25226/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-25226/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_25226,
+  title = {{WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing}},
+  author = {{Fanheng Kong} and {Jingyuan Zhang} and {Yang Yue} and {Chenxi Sun} and {Yang Tian} and {Shi Feng} and {Xiaocui Yang} and {Daling Wang} and {Yu Tian} and {Jun Du} and {Wenchong Zeng} and {Han Li} and {Kun Gai}},
+  year = {2026},
+  eprint = {2603.25226v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.25226v1},
+  note = {First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T09:27:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

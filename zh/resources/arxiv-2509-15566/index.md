@@ -1,3 +1,11 @@
+---
+title: "BTL-UI: Blink-Think-Link Reasoning Model… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-15566/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent
 
 BTL-UI 将 GUI 交互分为屏幕区域注意、规划和可执行命令生成；训练中加入自动标注流程及基于规则的过程与结果奖励，并在静态理解和动态交互任务上评估。
@@ -27,6 +35,18 @@ Shaojie Zhang, Ruoceng Zhang, Pei Fu, Shaokang Wang, Jiahui Yang, Xin Du, Shiqi 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-15566/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-15566/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_15566,
+  title = {{BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent}},
+  author = {{Shaojie Zhang} and {Ruoceng Zhang} and {Pei Fu} and {Shaokang Wang} and {Jiahui Yang} and {Xin Du} and {Shiqi Cui} and {Bin Qin} and {Ying Huang} and {Zhenbo Luo} and {Jian Luan}},
+  year = {2025},
+  eprint = {2509.15566v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.15566v4},
+  note = {First published: 2025-09-19; Recorded arXiv version: v4; Recorded version updated: 2025-10-27T11:34:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "UI-Genie Agent 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-43d811a5957d8effb7ed/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # UI-Genie Agent 3B
 
 A Qwen2.5-VL-3B mobile GUI action model fine-tuned on AndroidControl, AMEX, AndroidLab and UI-Genie synthetic trajectories to predict app launches, taps, swipes, typing and system-button presses.

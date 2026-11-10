@@ -1,3 +1,11 @@
+---
+title: "HarnessBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-reacher-z-harnessbench/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # HarnessBench
 
 Benchmark harness that holds the base model fixed and runs six browser-agent harnesses in per-harness containers on ClawBench's everyday online tasks, reusing ClawBench's recording and judging pipeline.

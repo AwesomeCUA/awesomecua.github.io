@@ -1,3 +1,11 @@
+---
+title: "Towards Robust Real-World Spreadsheet… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-12282/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning
 
 Bibliographic record for Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Houxing Ren, Mingjie Zhan, Zimu Lu, Ke Wang, Yunqiao Yang, Haotian Hou, Hongshen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-12282/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-12282/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_12282,
+  title = {{Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning}},
+  author = {{Houxing Ren} and {Mingjie Zhan} and {Zimu Lu} and {Ke Wang} and {Yunqiao Yang} and {Haotian Hou} and {Hongsheng Li}},
+  year = {2026},
+  eprint = {2604.12282v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.12282v1},
+  note = {First published: 2026-04-14; Recorded arXiv version: v1; Recorded version updated: 2026-04-14T04:47:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

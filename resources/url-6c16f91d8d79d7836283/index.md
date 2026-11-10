@@ -1,3 +1,11 @@
+---
+title: "Holotron-12B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6c16f91d8d79d7836283/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holotron-12B
 
 Computer-use policy checkpoint from H Company and NVIDIA, fine-tuned from Nemotron Nano 12B v2 VL on localization and navigation data, with a hybrid SSM-attention backbone for high-throughput multi-image inference.

@@ -1,3 +1,11 @@
+---
+title: "CMGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ab26f9ef56d651cee587/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # CMGUI
 
 18k trajectories with 98k steps from more than 50 Chinese mobile apps in domains such as e-commerce and social media, for building GUI agents on Chinese apps.

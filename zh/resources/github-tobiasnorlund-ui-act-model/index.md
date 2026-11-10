@@ -1,3 +1,11 @@
+---
+title: "UI-Act model · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tobiasnorlund-ui-act-model/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # UI-Act model
 
 2023 年的 GUI 智能体模型：文本条件编码器—解码器 Transformer 通过卷积编码器读取全屏截图，按 4 像素网格预测左键点击，并在 GNOME Calculator 上演示。

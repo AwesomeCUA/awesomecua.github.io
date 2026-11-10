@@ -1,3 +1,11 @@
+---
+title: "gsearch-rs · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-be90nia-gsearch-rs/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # gsearch-rs
 
 单二进制文件、无需扩展的 Rust CLI，可操控本地 Chrome，进行面向 AI 的网页搜索和页面提取。

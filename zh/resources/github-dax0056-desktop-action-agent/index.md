@@ -1,3 +1,11 @@
+---
+title: "Desktop Action Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dax0056-desktop-action-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Desktop Action Agent
 
 在沙箱中运行的本地计算机自动化智能体参考架构，具备窗口检测和动作验证功能。

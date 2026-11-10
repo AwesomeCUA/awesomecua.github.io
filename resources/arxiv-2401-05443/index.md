@@ -1,3 +1,11 @@
+---
+title: "LLM4PLC: Harnessing Large Language Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-05443/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems
 
 Bibliographic record for LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mohamad Fakih, Rahul Dharmaji, Yasamin Moghaddas, Gustavo Quiros Araya, Oluwatos
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-05443/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-05443/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_05443,
+  title = {{LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems}},
+  author = {{Mohamad Fakih} and {Rahul Dharmaji} and {Yasamin Moghaddas} and {Gustavo Quiros Araya} and {Oluwatosin Ogundare} and {Mohammad Abdullah Al Faruque}},
+  year = {2024},
+  eprint = {2401.05443v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.05443v1},
+  note = {First published: 2024-01-08; Recorded arXiv version: v1; Recorded version updated: 2024-01-08T23:52:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

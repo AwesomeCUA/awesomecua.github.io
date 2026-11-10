@@ -1,3 +1,11 @@
+---
+title: "Odysseys | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ljang0-odysseys/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # Odysseys
 
 200 long-horizon web tasks drawn from real browsing sessions, run on the live Internet in Chrome through the OSWorld runner and scored per rubric item by an LLM judge over the trajectory's screenshots and actions.

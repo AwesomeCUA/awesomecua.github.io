@@ -1,3 +1,11 @@
+---
+title: "Thinking vs. Doing: Agents that Reason… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-07976/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction
 
 Test-Time Interaction 延长交互过程，使网页智能体能在一次执行过程中探索、回退和修订计划；其在线强化学习课程调整执行长度，并在 WebVoyager 和 WebArena 上评估。
@@ -27,6 +35,18 @@ Junhong Shen, Hao Bai, Lunjun Zhang, Yifei Zhou, Amrith Setlur, Shengbang Tong, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-07976/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-07976/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_07976,
+  title = {{Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction}},
+  author = {{Junhong Shen} and {Hao Bai} and {Lunjun Zhang} and {Yifei Zhou} and {Amrith Setlur} and {Shengbang Tong} and {Diego Caples} and {Nan Jiang} and {Tong Zhang} and {Ameet Talwalkar} and {Aviral Kumar}},
+  year = {2025},
+  eprint = {2506.07976v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.07976v2},
+  note = {First published: 2025-06-09; Recorded arXiv version: v2; Recorded version updated: 2025-06-10T12:50:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

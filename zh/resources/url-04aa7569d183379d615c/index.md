@@ -1,3 +1,11 @@
+---
+title: "PC-Agent-E checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-04aa7569d183379d615c/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # PC-Agent-E checkpoint
 
 基于 PC-Agent-E 轨迹微调的计算机使用模型检查点；模型卡说明其起始模型为 Qwen2.5-VL-72B-Instruct。

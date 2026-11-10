@@ -1,3 +1,11 @@
+---
+title: "X-OmniClaw Technical Report: A Unified Mobile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-05765/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction
 
 Describes an Android agent architecture combining multimodal perception, working and personal memory, hybrid XML/visual grounding, and reusable skills captured from user interactions.
@@ -26,6 +34,18 @@ Xiaoming Ren, Ru Zhen, Chao Li, Yang Song, Qiuxia Hou, Yanhao Zhang, Peng Liu, Q
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-05765/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-05765/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_05765,
+  title = {{X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction}},
+  author = {{Xiaoming Ren} and {Ru Zhen} and {Chao Li} and {Yang Song} and {Qiuxia Hou} and {Yanhao Zhang} and {Peng Liu} and {Qi Qi} and {Quanlong Zheng} and {Qi Wu} and {Zhenyi Liao} and {Binqiang Pan} and {Haobo Ji} and {Haonan Lu}},
+  year = {2026},
+  eprint = {2605.05765v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.05765v2},
+  note = {First published: 2026-05-07; Recorded arXiv version: v2; Recorded version updated: 2026-05-21T06:55:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

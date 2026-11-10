@@ -1,3 +1,11 @@
+---
+title: "minicap · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-devicefarmer-minicap/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # minicap
 
 一个 Android 组件，通过本地 socket 以 JPEG 格式实时推送屏幕画面，使用 NDK 构建，被 STF 用于远程控制设备；较新的设备可达到 30-40 FPS。

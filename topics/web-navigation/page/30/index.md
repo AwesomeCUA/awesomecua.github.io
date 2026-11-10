@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 30 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/30/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 30
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/30/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Yutori](https://awesomecua.com/resources/url-eff580f3185f2a36c265/)
-- [ZCode JetBrains Plugin](https://awesomecua.com/resources/github-csuftt-zcode-jetbrains-plugin/)
 - [zen-mcp](https://awesomecua.com/resources/github-sh6drack-zen-mcp/)
 - [Zendriver](https://awesomecua.com/resources/github-cdpdriver-zendriver/)
 - [ZennoBrowser MCP Server](https://awesomecua.com/resources/github-zennolab-zennobrowser-mcp-server/)

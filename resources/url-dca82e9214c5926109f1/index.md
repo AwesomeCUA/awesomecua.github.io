@@ -1,3 +1,11 @@
+---
+title: "Grounding Multimodal Large Language Model in… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dca82e9214c5926109f1/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # Grounding Multimodal Large Language Model in GUI World
 
 Trains a 0.4B SAM-initialized GUI grounding model on 0.5M auto-collected web screenshots with 35M element annotations, then links it to a Qwen-VL planner through a position token for MiniWob, AITW and Mind2Web.
@@ -26,6 +34,20 @@ Weixian Lei, Difei Gao, Mike Zheng Shou
 
 - BibTeX: https://awesomecua.com/resources/url-dca82e9214c5926109f1/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-dca82e9214c5926109f1/citation.csl.json
+
+```bibtex
+@inproceedings{cua_c27a3db23e8af1cc49eabd20,
+  title = {{Grounding Multimodal Large Language Model in GUI World}},
+  author = {{Weixian Lei} and {Difei Gao} and {Mike Zheng Shou}},
+  year = {2025},
+  month = may,
+  booktitle = {International Conference on Learning Representations 2025 (ICLR 2025)},
+  volume = {2025},
+  pages = {19742-19765},
+  url = {https://openreview.net/forum?id=M9iky9Ruhx},
+  note = {Publication date: 2025-05-01.}
+}
+```
 
 ## Publication record
 

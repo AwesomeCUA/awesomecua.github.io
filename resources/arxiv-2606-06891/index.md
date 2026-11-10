@@ -1,3 +1,11 @@
+---
+title: "Stream3D-VLM: Online 3D Spatial Understanding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-06891/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors
 
 Status: excluded from the active CUA catalog after scope review.

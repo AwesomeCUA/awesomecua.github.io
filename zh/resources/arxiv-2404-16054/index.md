@@ -1,3 +1,11 @@
+---
+title: "LlamaTouch: A Faithful and Scalable… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-16054/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation
 
 LlamaTouch 在设备上执行移动端任务，并检查智能体是否到达人工标注的必要应用或系统状态；截图与界面层级标注结合精确和模糊状态匹配，支持评估多个智能体的 496 项任务。
@@ -27,6 +35,18 @@ Li Zhang, Shihe Wang, Xianqing Jia, Zhihan Zheng, Yunhe Yan, Longxi Gao, Yuanchu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-16054/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-16054/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_16054,
+  title = {{LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation}},
+  author = {{Li Zhang} and {Shihe Wang} and {Xianqing Jia} and {Zhihan Zheng} and {Yunhe Yan} and {Longxi Gao} and {Yuanchun Li} and {Mengwei Xu}},
+  year = {2024},
+  eprint = {2404.16054v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.16054v2},
+  note = {First published: 2024-04-12; Recorded arXiv version: v2; Recorded version updated: 2024-08-02T13:49:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

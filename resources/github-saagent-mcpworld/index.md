@@ -1,3 +1,11 @@
+---
+title: "MCPWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saagent-mcpworld/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # MCPWorld
 
 Evaluation environment combining computer interaction with tool access.

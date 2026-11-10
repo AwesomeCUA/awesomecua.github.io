@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-for-FiftyOne · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-actor-for-fiftyone/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # GUI-Actor-for-FiftyOne
 
 用于在 FiftyOne 数据集上微调 GUI-Actor 定位模型的训练代码，将截图上的关键点和框标注转换为带指针监督的对话数据，可在单 GPU 上运行。

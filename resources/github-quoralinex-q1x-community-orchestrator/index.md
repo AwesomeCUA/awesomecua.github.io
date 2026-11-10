@@ -1,3 +1,11 @@
+---
+title: "Q1X Community Orchestrator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-quoralinex-q1x-community-orchestrator/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Q1X Community Orchestrator
 
 Provider-neutral, OS-neutral orchestration runtime for long-horizon desktop and browser agent workflows.

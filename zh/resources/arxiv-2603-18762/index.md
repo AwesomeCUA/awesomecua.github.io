@@ -1,3 +1,11 @@
+---
+title: "ClawTrap: A MITM-Based Red-Teaming… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-18762/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # ClawTrap: A MITM-Based Red-Teaming Framework for Real-World OpenClaw Security Evaluation
 
 提出一种基于中间人网络攻击的红队框架，通过操纵实时流量评估自主 OpenClaw 智能体的安全性。
@@ -27,6 +35,18 @@ Haochen Zhao, Shaoyang Cui
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-18762/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-18762/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_18762,
+  title = {{ClawTrap: A MITM-Based Red-Teaming Framework for Real-World OpenClaw Security Evaluation}},
+  author = {{Haochen Zhao} and {Shaoyang Cui}},
+  year = {2026},
+  eprint = {2603.18762v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.18762v1},
+  note = {First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T11:14:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

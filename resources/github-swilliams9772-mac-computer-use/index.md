@@ -1,3 +1,11 @@
+---
+title: "Enhanced Claude Computer Use for Mac | AwesomeCUA"
+url: https://awesomecua.com/resources/github-swilliams9772-mac-computer-use/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Enhanced Claude Computer Use for Mac
 
 Adapts Anthropic Claude Computer Use for native macOS with extended thinking, AppleScript integration, and Retina coordinate scaling.

@@ -1,3 +1,11 @@
+---
+title: "CEL OSS (Computer Experience Layer) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dimpagk92-cellar/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CEL OSS (Computer Experience Layer)
 
 Computer Experience Layer (CEL) provides structured macOS perception contracts and an MCP server for native computer use.

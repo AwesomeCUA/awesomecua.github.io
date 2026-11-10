@@ -1,3 +1,11 @@
+---
+title: "System Automation MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aurafriday-system-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # System Automation MCP
 
 System Automation MCP exposes cross-platform desktop UI inspection, OCR, window management, and mouse/keyboard actions to MCP-compatible agents.

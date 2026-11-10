@@ -1,3 +1,11 @@
+---
+title: "Mirage-1: Augmenting and Updating GUI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-10387/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills
 
 Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
@@ -26,6 +34,18 @@ Yuquan Xie, Zaijing Li, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Dongme
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-10387/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-10387/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_10387,
+  title = {{Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills}},
+  author = {{Yuquan Xie} and {Zaijing Li} and {Rui Shao} and {Gongwei Chen} and {Kaiwen Zhou} and {Yinchuan Li} and {Dongmei Jiang} and {Liqiang Nie}},
+  year = {2025},
+  eprint = {2506.10387v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.10387v1},
+  note = {First published: 2025-06-12; Recorded arXiv version: v1; Recorded version updated: 2025-06-12T06:21:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

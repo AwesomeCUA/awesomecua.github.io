@@ -1,3 +1,11 @@
+---
+title: "PolySkill: Learning Generalizable Skills… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-15863/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction
 
 Introduces PolySkill, which separates a web-agent skill's goal from its execution so agents can learn and reuse skills across websites.
@@ -26,6 +34,18 @@ Simon Yu, Gang Li, Weiyan Shi, Peng Qi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-15863/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-15863/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_15863,
+  title = {{PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction}},
+  author = {{Simon Yu} and {Gang Li} and {Weiyan Shi} and {Peng Qi}},
+  year = {2025},
+  eprint = {2510.15863v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.15863v2},
+  note = {First published: 2025-10-17; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T03:34:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

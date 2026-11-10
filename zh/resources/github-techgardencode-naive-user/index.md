@@ -1,3 +1,11 @@
+---
+title: "naive-user · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-techgardencode-naive-user/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # naive-user
 
 不查看源代码的浏览器智能体，像首次使用的用户一样探索实时网页应用，发现用户体验障碍和失效流程。

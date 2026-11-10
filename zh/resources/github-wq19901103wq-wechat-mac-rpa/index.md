@@ -1,3 +1,11 @@
+---
+title: "WeChat Mac RPA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wq19901103wq-wechat-mac-rpa/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # WeChat Mac RPA
 
 WeChat Mac RPA 是 macOS 微信智能体，通过截图识别聊天界面、理解对话，并借助系统自动化发送消息和切换会话。

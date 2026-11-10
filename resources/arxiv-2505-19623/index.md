@@ -1,3 +1,11 @@
+---
+title: "AgentRecBench: Benchmarking LLM Agent-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-19623/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems
 
 Bibliographic record for AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yu Shang, Peijie Liu, Yuwei Yan, Zijing Wu, Leheng Sheng, Yuanqing Yu, Chumeng J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-19623/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-19623/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_19623,
+  title = {{AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems}},
+  author = {{Yu Shang} and {Peijie Liu} and {Yuwei Yan} and {Zijing Wu} and {Leheng Sheng} and {Yuanqing Yu} and {Chumeng Jiang} and {An Zhang} and {Fengli Xu} and {Yu Wang} and {Min Zhang} and {Yong Li}},
+  year = {2025},
+  eprint = {2505.19623v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.19623v2},
+  note = {First published: 2025-05-26; Recorded arXiv version: v2; Recorded version updated: 2025-05-28T14:32:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "EasyRobust: A Comprehensive and Easy-to-use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-16975/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EasyRobust: A Comprehensive and Easy-to-use Toolkit for Robust and Generalized Vision
 
 Status: excluded from the active CUA catalog after scope review.

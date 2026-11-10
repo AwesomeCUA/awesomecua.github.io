@@ -1,3 +1,11 @@
+---
+title: "Firecrawl MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-firecrawl-firecrawl-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Firecrawl MCP Server
 
 Firecrawl 的 MCP 服务器向智能体提供网页搜索与内容提取工具，也支持在浏览器中点击、输入、填写表单和导航。

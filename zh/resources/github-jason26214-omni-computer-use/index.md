@@ -1,3 +1,11 @@
+---
+title: "omni-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jason26214-omni-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # omni-computer-use
 
 面向 Windows 计算机使用的 Model Context Protocol 服务器，复现 Claude Desktop 的计算机使用工具接口。

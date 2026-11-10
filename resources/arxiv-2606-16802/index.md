@@ -1,3 +1,11 @@
+---
+title: "LabOSBench: Benchmarking Computer Use Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-16802/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control
 
 LabOSBench evaluates GUI agents on browser-based scientific instrument simulators with configurable tasks and execution-based checks. Its subtask and end-to-end tests examine feedback-driven adjustment and long workflows without controlling physical instruments.
@@ -26,6 +34,18 @@ Anqi Zou, Han Deng, Chengyu Zhang, Junquan Hu, Yu Wang, Yuxiang Xing, Aokai Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-16802/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-16802/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_16802,
+  title = {{LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control}},
+  author = {{Anqi Zou} and {Han Deng} and {Chengyu Zhang} and {Junquan Hu} and {Yu Wang} and {Yuxiang Xing} and {Aokai Zhang} and {Hanling Zhang} and {Zhaoyang Liu} and {Ben Fei} and {Zhihui Wang} and {Wanli Ouyang}},
+  year = {2026},
+  eprint = {2606.16802v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.16802v1},
+  note = {First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T14:42:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

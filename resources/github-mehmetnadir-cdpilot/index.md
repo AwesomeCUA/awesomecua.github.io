@@ -1,3 +1,11 @@
+---
+title: "cdpilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mehmetnadir-cdpilot/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cdpilot
 
 Zero-dependency browser automation CLI built directly on raw Chrome DevTools Protocol WebSockets without Playwright or Puppeteer.

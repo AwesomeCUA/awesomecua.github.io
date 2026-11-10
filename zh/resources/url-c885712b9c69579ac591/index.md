@@ -1,3 +1,11 @@
+---
+title: "OSWorld file cache (Ubuntu) · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c885712b9c69579ac591/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # OSWorld file cache (Ubuntu)
 
 OSWorld 的 Ubuntu 任务配置在设置和评估时下载的文件的 Hub 托管副本，从 Google Drive 迁移后按应用和任务 ID 组织。

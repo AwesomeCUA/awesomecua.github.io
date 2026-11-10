@@ -1,3 +1,11 @@
+---
+title: "bitmap | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vcaesar-bitmap/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # bitmap
 
 bitmap is a Go utility for locating image matches in captured screen regions; its example uses RobotGo to move the pointer to a match.

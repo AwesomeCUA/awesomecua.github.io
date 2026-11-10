@@ -1,3 +1,11 @@
+---
+title: "HiconAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ilearn-lab-cvpr26-hiconagent/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # HiconAgent
 
 HiconAgent 提供 GUI 智能体策略训练代码，在优化过程中采样不同长度的交互历史并压缩先前操作记录。

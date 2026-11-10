@@ -1,3 +1,11 @@
+---
+title: "UserZero · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aafre-userzero/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # UserZero
 
 模拟首次用户的评测测试框架，通过让 AI 浏览器智能体尝试完成入门引导和核心流程来验证 Web 应用。

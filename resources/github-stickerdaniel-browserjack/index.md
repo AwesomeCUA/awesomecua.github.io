@@ -1,3 +1,11 @@
+---
+title: "Browserjack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-stickerdaniel-browserjack/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browserjack
 
 Bridge that exposes OpenAI's installed Codex browser runtime to Claude Code and any MCP client on macOS.

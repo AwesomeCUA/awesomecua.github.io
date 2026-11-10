@@ -1,10 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 8 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/8/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 8 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [Browser Workbench for Codex](https://awesomecua.com/zh/resources/github-slemmis-browser-workbench-for-codex/)
 - [browser-account-guard & flaky-browser-ui](https://awesomecua.com/zh/resources/github-praticoeq-sudo-browser-account-guard/)
 - [browser-agent-kit](https://awesomecua.com/zh/resources/github-nicolascine-browser-agent-kit/)
 - [browser-for-ai (bfa)](https://awesomecua.com/zh/resources/github-icueth-browser-for-ai/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/8/
 - [Chrome Control MCP](https://awesomecua.com/zh/resources/github-randynorthrup-chrome-control-mcp/)
 - [Chrome DevTools MCP](https://awesomecua.com/zh/resources/github-chromedevtools-chrome-devtools-mcp/)
 - [Chrome DevTools MCP Persistent Bridge](https://awesomecua.com/zh/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/)
+- [Chrome Extension Tester MCP](https://awesomecua.com/zh/resources/github-bhuvan-rj-chrome-extension-testing-mcp/)

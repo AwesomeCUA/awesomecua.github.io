@@ -1,3 +1,11 @@
+---
+title: "Smouj AgentBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-smouj-agent-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Smouj AgentBrowser
 
 AI-powered browser automation platform combining a REST API, live web dashboard, and vision-assisted DOM interaction.

@@ -1,3 +1,11 @@
+---
+title: "OS-Kairos | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wuzheng02-os-kairos/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # OS-Kairos
 
 Android GUI-agent research implementation that uses confidence-guided interaction to choose between autonomous actions and human assistance.

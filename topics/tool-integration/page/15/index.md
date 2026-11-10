@@ -1,11 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 15 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/15/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 15
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/15/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
-- [Kimi Computer Use Bridge](https://awesomecua.com/resources/github-songkeys-kimi-computer-use/)
 - [Kimi Computer Use Lab](https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/)
 - [kimi-cu-pi](https://awesomecua.com/resources/github-johndfowler-kimi-cu-pi/)
 - [kimi-webbridge-mcp](https://awesomecua.com/resources/github-losecher-kimi-webbridge-mcp/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Macuse MCP](https://awesomecua.com/resources/github-macuse-app-macuse-mcp/)
 - [MacWork](https://awesomecua.com/resources/github-gklab-macwork/)
 - [maestro-oss](https://awesomecua.com/resources/github-victorkaor-maestro-oss/)
+- [Magpie Computer Use](https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/)
+- [MAI-UI inference and evaluation code](https://awesomecua.com/resources/github-tongyi-mai-mai-ui/)

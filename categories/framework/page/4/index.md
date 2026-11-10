@@ -1,10 +1,17 @@
+---
+title: "Computer-use agent frameworks, page 4 | AwesomeCUA"
+url: https://awesomecua.com/categories/framework/page/4/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent frameworks, page 4
 
 HTML page: https://awesomecua.com/categories/framework/page/4/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
-- [CUArena](https://awesomecua.com/resources/github-ogutdgn-cuarena/)
 - [cuforge](https://awesomecua.com/resources/github-huzjie-cuforge/)
 - [cuse](https://awesomecua.com/resources/github-cuse-dev-cuse/)
 - [Cyber Seeds WebMCP](https://awesomecua.com/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Kopilotti WebMCP](https://awesomecua.com/resources/github-mikko-lab-kopilotti-webmcp/)
 - [Kortix Suna](https://awesomecua.com/resources/github-kortix-ai-suna/)
 - [Kryptic](https://awesomecua.com/resources/github-adnqcr7-code-kryptic/)
+- [LAI (Linux Native OS Agent)](https://awesomecua.com/resources/github-cufelix-lai/)

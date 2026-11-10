@@ -1,3 +1,11 @@
+---
+title: "UniClawBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hku-mmlab-uniclawbench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # UniClawBench
 
 UniClawBench 评测智能体使用工具、浏览器、文件及桌面图形界面完成流程任务。双语版本包含 400 个任务、Docker 运行环境和轨迹查看工具。

@@ -1,3 +1,11 @@
+---
+title: "PreAct · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-19pine-ai-preact/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PreAct
 
 PreAct 将重复的计算机使用智能体轨迹编译为缓存的动作图，并通过轻量级视觉验证加快执行。

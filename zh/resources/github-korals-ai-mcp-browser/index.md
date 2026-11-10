@@ -1,3 +1,11 @@
+---
+title: "korals-ai mcp-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-korals-ai-mcp-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # korals-ai mcp-browser
 
 Model Context Protocol 服务器，为 AI 智能体提供真实的 Chrome 浏览器，并配有供人实时共同浏览的视图。

@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning on Web Interfaces… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1802-08802/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration
 
 Uses workflows extracted from demonstrations to constrain reinforcement-learning exploration for interactive web tasks.
@@ -26,6 +34,18 @@ Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1802-08802/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1802-08802/citation.csl.json
+
+```bibtex
+@misc{arxiv_1802_08802,
+  title = {{Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration}},
+  author = {{Evan Zheran Liu} and {Kelvin Guu} and {Panupong Pasupat} and {Tianlin Shi} and {Percy Liang}},
+  year = {2018},
+  eprint = {1802.08802v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1802.08802v1},
+  note = {First published: 2018-02-24; Recorded arXiv version: v1; Recorded version updated: 2018-02-24T05:32:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

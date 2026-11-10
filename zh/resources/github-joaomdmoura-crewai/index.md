@@ -1,3 +1,11 @@
+---
+title: "CrewAI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-joaomdmoura-crewai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CrewAI
 
 CrewAI 是 Python 框架，用于编排扮演不同角色的自主 AI 智能体团队和事件驱动的多步骤工作流。

@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 27B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1611de0e6d606165d12d/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # OpenMobile-2 27B
 
 基于 Qwen3.6-27B 的移动端智能体模型检查点，用于 GUI 及应用原生工具交互。

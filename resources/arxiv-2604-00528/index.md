@@ -1,3 +1,11 @@
+---
+title: "Think, Act, Build: An Agentic Framework with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-00528/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Digi-Q: Learning Q-Value Functions for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-15760/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Digi-Q: Learning Q-Value Functions for Training Device-Control Agents
 
 从离线设备控制经验中学习操作价值函数，并用其对候选操作排序，以改进策略。
@@ -27,6 +35,18 @@ Hao Bai, Yifei Zhou, Li Erran Li, Sergey Levine, Aviral Kumar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-15760/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-15760/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_15760,
+  title = {{Digi-Q: Learning Q-Value Functions for Training Device-Control Agents}},
+  author = {{Hao Bai} and {Yifei Zhou} and {Li Erran Li} and {Sergey Levine} and {Aviral Kumar}},
+  year = {2025},
+  eprint = {2502.15760v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.15760v1},
+  note = {First published: 2025-02-13; Recorded arXiv version: v1; Recorded version updated: 2025-02-13T18:55:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

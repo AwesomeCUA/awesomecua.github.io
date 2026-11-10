@@ -1,3 +1,11 @@
+---
+title: "CloudCrew Understudy · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cloudcrewatwork-understudy/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CloudCrew Understudy
 
 只需记录一次人类 UI 工作流程，即可将其编译为供计算机使用智能体使用的参数化、可编辑回放脚本。

@@ -1,3 +1,11 @@
+---
+title: "WebGuard: Building a Generalizable Guardrail… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-14293/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebGuard: Building a Generalizable Guardrail for Web Agents
 
 Introduces WebGuard, a human-annotated dataset for predicting outcomes and risk levels of state-changing website actions. It provides generalization splits and evaluates specialized guardrail models.
@@ -26,6 +34,18 @@ Boyuan Zheng, Zeyi Liao, Scott Salisbury, Zeyuan Liu, Michael Lin, Qinyuan Zheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-14293/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-14293/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_14293,
+  title = {{WebGuard: Building a Generalizable Guardrail for Web Agents}},
+  author = {{Boyuan Zheng} and {Zeyi Liao} and {Scott Salisbury} and {Zeyuan Liu} and {Michael Lin} and {Qinyuan Zheng} and {Zifan Wang} and {Xiang Deng} and {Dawn Song} and {Huan Sun} and {Yu Su}},
+  year = {2025},
+  eprint = {2507.14293v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.14293v1},
+  note = {First published: 2025-07-18; Recorded arXiv version: v1; Recorded version updated: 2025-07-18T18:06:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

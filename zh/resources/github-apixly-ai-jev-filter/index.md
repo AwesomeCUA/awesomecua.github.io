@@ -1,3 +1,11 @@
+---
+title: "Jev Filter · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-apixly-ai-jev-filter/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Jev Filter
 
 Jev Filter 使用紧凑的 System-One 模型，在大型 DOM 快照、日志和工具输出进入智能体上下文前对其进行语义筛选。

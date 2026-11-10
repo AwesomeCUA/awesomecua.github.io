@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Verified trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2c99f0de2840277abc72/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # OSWorld-Verified trajectories
 
 Archived OSWorld-Verified evaluation runs of many computer-use agents and step budgets on Ubuntu, each archive holding screenshots, actions, model reasoning and per-task results for analysis.

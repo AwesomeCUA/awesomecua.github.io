@@ -1,3 +1,11 @@
+---
+title: "WebLINX dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1517e989c470563bd08d/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WebLINX dataset
 
 WebLINX 1.0 的 Hub 数据将对话式网页导航演示预处理为逐轮记录，包含对话、清理后的 HTML、候选元素和操作历史，并提供重排序数据。

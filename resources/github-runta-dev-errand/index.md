@@ -1,3 +1,11 @@
+---
+title: "Errand | AwesomeCUA"
+url: https://awesomecua.com/resources/github-runta-dev-errand/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Errand
 
 Open-source persistent desktop AI teammate with scheduled tasks, browser control, and workspace memory.

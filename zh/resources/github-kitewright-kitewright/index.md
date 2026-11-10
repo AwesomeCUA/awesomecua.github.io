@@ -1,3 +1,11 @@
+---
+title: "Kitewright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kitewright-kitewright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Kitewright
 
 约 7MB 的单二进制 Rust 浏览器自动化 Model Context Protocol 服务器，支持 Streamable HTTP 和 stdio。

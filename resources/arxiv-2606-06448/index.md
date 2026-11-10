@@ -1,3 +1,11 @@
+---
+title: "Agent Memory: Characterization and System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-06448/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads
 
 Status: excluded from the active CUA catalog after scope review.

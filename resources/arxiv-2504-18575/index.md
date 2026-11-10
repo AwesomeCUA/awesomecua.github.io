@@ -1,3 +1,11 @@
+---
+title: "WASP: Benchmarking Web Agent Security Against… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-18575/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks
 
 Introduces WASP, an end-to-end benchmark for prompt-injection security in web agents. Its evaluation separates partial attack progress from completion of the attacker’s full objective.
@@ -26,6 +34,18 @@ Ivan Evtimov, Arman Zharmagambetov, Aaron Grattafiori, Chuan Guo, Kamalika Chaud
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-18575/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-18575/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_18575,
+  title = {{WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks}},
+  author = {{Ivan Evtimov} and {Arman Zharmagambetov} and {Aaron Grattafiori} and {Chuan Guo} and {Kamalika Chaudhuri}},
+  year = {2025},
+  eprint = {2504.18575v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.18575v3},
+  note = {First published: 2025-04-22; Recorded arXiv version: v3; Recorded version updated: 2025-05-16T22:42:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

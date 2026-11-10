@@ -1,3 +1,11 @@
+---
+title: "Project Mariner | AwesomeCUA"
+url: https://awesomecua.com/resources/url-12d789d450207bd6d5da/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Project Mariner
 
 Discontinued Google browser-agent research prototype built with Gemini 2.0 that read screen pixels and page elements and acted in the active Chrome tab through an extension, asking before sensitive actions.

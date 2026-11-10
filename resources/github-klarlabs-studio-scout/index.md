@@ -1,3 +1,11 @@
+---
+title: "Scout Browser Binary | AwesomeCUA"
+url: https://awesomecua.com/resources/github-klarlabs-studio-scout/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Scout Browser Binary
 
 Single-binary Go browser automation CLI and built-in MCP server that drives Chromium without Node.js or Python dependencies.

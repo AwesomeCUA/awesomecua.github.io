@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-7B-Instruct-AWQ | AwesomeCUA"
+url: https://awesomecua.com/resources/url-06c351d14bee24bc3f01/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL-7B-Instruct-AWQ
 
 An AWQ release of the instruction-tuned 7B Qwen2.5-VL model. Its card describes interface-image understanding, visual localization, and computer and phone use.

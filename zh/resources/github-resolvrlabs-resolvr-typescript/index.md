@@ -1,3 +1,11 @@
+---
+title: "Resolvr TypeScript SDK · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-resolvrlabs-resolvr-typescript/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Resolvr TypeScript SDK
 
 Resolvr 反机器人挑战求解 API 的官方 TypeScript SDK，用于浏览器自动化流水线。

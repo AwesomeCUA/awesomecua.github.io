@@ -1,3 +1,11 @@
+---
+title: "Mastra Code · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mastra-ai-mastra-code-ui/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Mastra Code
 
 Mastra Code 是一个 Electron 桌面编码智能体测试框架，支持 70 多家 LLM 提供商、子智能体、规划与构建模式及钩子。

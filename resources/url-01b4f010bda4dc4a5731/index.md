@@ -1,3 +1,11 @@
+---
+title: "MyPCBench VM images | AwesomeCUA"
+url: https://awesomecua.com/resources/url-01b4f010bda4dc4a5731/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # MyPCBench VM images
 
 MyPCBench VM images provides disk images for evaluating computer-use agents on seeded web apps, alongside a task suite with grading rubrics.

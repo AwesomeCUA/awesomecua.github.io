@@ -1,3 +1,11 @@
+---
+title: "ToolTok | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zephinuecode-tooltok/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ToolTok
 
 ToolTok introduces atomic directional cursor-movement tokens for multi-step iterative GUI visual grounding on ScreenSpot and ScreenSpot-Pro.

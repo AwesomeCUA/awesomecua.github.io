@@ -1,3 +1,11 @@
+---
+title: "Magma | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-magma/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Magma
 
 Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark and Trace-of-Mark objectives on UI, robotics and video data and fine-tunable for web and mobile UI navigation.

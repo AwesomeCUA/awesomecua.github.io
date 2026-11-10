@@ -1,3 +1,11 @@
+---
+title: "Resurf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lightfeed-resurf/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Resurf
 
 Resurf is a deterministic, reproducible test environment for evaluating AI browser agents across realistic web failure modes.

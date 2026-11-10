@@ -1,3 +1,11 @@
+---
+title: "WebGenAgent-LM-8B-Step-GRPO · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7ebba507c0df876c6113/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # WebGenAgent-LM-8B-Step-GRPO
 
 WebGen-Agent 的 8B Step-GRPO 检查点，根据指令编写网站代码；训练时以截图评分和 GUI 智能体测试评分作为步级奖励。

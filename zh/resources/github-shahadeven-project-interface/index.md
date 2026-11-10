@@ -1,3 +1,11 @@
+---
+title: "Project Interface (Legacy Web UI Compiler) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shahadeven-project-interface/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Project Interface (Legacy Web UI Compiler)
 
 使用 LLM 在旧版 Web UI 中探索一次任务完成方法，再将执行过程提炼为可复用的编程接口。

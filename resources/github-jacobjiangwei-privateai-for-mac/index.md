@@ -1,3 +1,11 @@
+---
+title: "PrivateAI for Mac | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # PrivateAI for Mac
 
 Native macOS local AI agent powered by Ollama with system control, file tools, and browser automation.

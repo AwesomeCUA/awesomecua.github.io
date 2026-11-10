@@ -1,3 +1,11 @@
+---
+title: "DispatchShield | AwesomeCUA"
+url: https://awesomecua.com/resources/github-venusone-lee-dispatchshield/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DispatchShield
 
 macOS utility that keeps a Mac awake for unattended computer-use agents while shielding the active session from local input.

@@ -1,3 +1,11 @@
+---
+title: "Llama8b-NNetNav-WA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c9d2a9288a568db12bd1/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Llama8b-NNetNav-WA
 
 基于 WebArena 探索轨迹训练的 Llama 模型，可根据任务指令选择浏览器操作并完成网页导航。

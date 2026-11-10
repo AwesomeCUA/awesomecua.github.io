@@ -1,3 +1,11 @@
+---
+title: "Implementation of an efficient RBAC in Cloud… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1403-2043/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Implementation of an efficient RBAC in Cloud Computing using .NET environment
 
 Status: excluded from the active CUA catalog after scope review.

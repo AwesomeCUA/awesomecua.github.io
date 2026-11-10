@@ -1,3 +1,11 @@
+---
+title: "OpenAmer Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openamer-openamer/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OpenAmer Agent
 
 面向 Windows 的自托管、自我改进的 AI 桌面智能体，配备原生的进程内系统工具和 UI 工具。

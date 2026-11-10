@@ -1,3 +1,11 @@
+---
+title: "OpenMinis | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openminis-openminis/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OpenMinis
 
 An open-source mobile agent for iOS and Android that interacts with websites and device tools while running scripts in an on-device Linux sandbox.

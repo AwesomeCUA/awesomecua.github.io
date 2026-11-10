@@ -1,3 +1,11 @@
+---
+title: "android-uiautomator-server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openatx-android-uiautomator-server/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # android-uiautomator-server
 
 An Android instrumentation app that runs a JSON-RPC server for UIAutomator on the device so PC-side scripts can write UI tests; its README points to a successor repository.

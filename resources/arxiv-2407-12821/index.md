@@ -1,3 +1,11 @@
+---
+title: "AutoFlow: Automated Workflow Generation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-12821/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoFlow: Automated Workflow Generation for Large Language Model Agents
 
 Status: excluded from the active CUA catalog after scope review.

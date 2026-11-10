@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct-GPTQ-Int8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1419f2835e78de2bc9a4/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2-VL-72B-Instruct-GPTQ-Int8
 
 这是一个用于视觉指令跟随的量化版 72B Qwen2-VL 模型权重。模型卡描述了根据视觉输入和文本指令操作移动设备的用途。

@@ -1,3 +1,11 @@
+---
+title: "PocketCode | AwesomeCUA"
+url: https://awesomecua.com/resources/github-m1ssbe4r-pocketcode/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # PocketCode
 
 On-device Android AI coding and automation agent capable of building and running apps directly on a phone.

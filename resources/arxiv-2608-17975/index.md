@@ -1,3 +1,11 @@
+---
+title: "aDSL: Agentic 3D Creation via Joint… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-17975/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # aDSL: Agentic 3D Creation via Joint Agent-Program Design
 
 Status: excluded from the active CUA catalog after scope review.

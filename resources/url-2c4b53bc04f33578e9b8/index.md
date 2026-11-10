@@ -1,3 +1,11 @@
+---
+title: "BU-30B-A3B-Preview | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2c4b53bc04f33578e9b8/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # BU-30B-A3B-Preview
 
 Browser Use's open-weight browser-agent model, fine-tuned from Qwen3-VL-30B-A3B-Instruct (30B total, 3B active parameters) to serve as the LLM of the browser-use library through BU Cloud or vLLM.

@@ -1,3 +1,11 @@
+---
+title: "CoDA: Co-Evolution of Data Engines and Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22362/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CoDA: Co-Evolution of Data Engines and Action Policies
 
 Bibliographic record for CoDA: Co-Evolution of Data Engines and Action Policies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li, Yuanzhe Liu, Onkar Kishor Suslad
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22362/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22362/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22362,
+  title = {{CoDA: Co-Evolution of Data Engines and Action Policies}},
+  author = {{Tianjiao Yu} and {Zhilin Ou} and {Yifan Shen} and {Xinzhuo Li} and {Yuanzhe Liu} and {Onkar Kishor Susladkar} and {Fan Wang} and {Ismini Lourentzou}},
+  year = {2026},
+  eprint = {2610.22362v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22362v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:59:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

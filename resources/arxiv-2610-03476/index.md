@@ -1,3 +1,11 @@
+---
+title: "MobiAgent: Dual-Loop Recursive Policy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-03476/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation
 
 Bibliographic record for MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenzhi Liu, Yue Zhang, Jiehong Lin, Jianan Wang, Bo Wang, Zhongrui Wang, Xiaoju
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03476/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03476/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03476,
+  title = {{MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation}},
+  author = {{Chenzhi Liu} and {Yue Zhang} and {Jiehong Lin} and {Jianan Wang} and {Bo Wang} and {Zhongrui Wang} and {Xiaojuan Qi}},
+  year = {2026},
+  eprint = {2610.03476v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03476v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T15:48:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

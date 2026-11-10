@@ -1,3 +1,11 @@
+---
+title: "A-RSI: Adaptive Task Refresh for Zero-Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-38568/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement
 
 Bibliographic record for A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yu Liu, Youxing Li, Yuedong Tan, Zhiwei Yang, Zihan Su, Hanqi Feng, Shaojie Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-38568/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-38568/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_38568,
+  title = {{A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement}},
+  author = {{Yu Liu} and {Youxing Li} and {Yuedong Tan} and {Zhiwei Yang} and {Zihan Su} and {Hanqi Feng} and {Shaojie Zhang} and {Libin Liao} and {Zihao Wan} and {Chenxu Wu} and {Cong Cao} and {Fangfang Yuan} and {Yanbing Liu} and {Ziheng Chen} and {Pei Fu} and {Radu Timofte} and {Zongwei Wu} and {Nicu Sebe} and {Barnabas Poczos} and {Jian Luan}},
+  year = {2026},
+  eprint = {2610.38568v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.38568v1},
+  note = {First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T10:03:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

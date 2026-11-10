@@ -1,3 +1,11 @@
+---
+title: "Design high-confidence computers using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-18780/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Design high-confidence computers using trusted instructional set architecture and emulators
 
 Status: excluded from the active CUA catalog after scope review.

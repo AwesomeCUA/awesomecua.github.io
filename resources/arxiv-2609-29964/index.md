@@ -1,3 +1,11 @@
+---
+title: "World Action Agent: Harnessing VLMs for Robot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-29964/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal
 
 Status: excluded from the active CUA catalog after scope review.

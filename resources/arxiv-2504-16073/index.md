@@ -1,3 +1,11 @@
+---
+title: "Guiding VLM Agents with Process Rewards at… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-16073/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation
 
 Guides visual GUI agents at inference time with a process-reward model that evaluates intermediate actions. It combines stepwise guidance with trajectory reflection and retry mechanisms in static and interactive navigation tasks.
@@ -26,6 +34,18 @@ Zhiyuan Hu, Shiyun Xiong, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, Shuich
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-16073/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-16073/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_16073,
+  title = {{Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation}},
+  author = {{Zhiyuan Hu} and {Shiyun Xiong} and {Yifan Zhang} and {See-Kiong Ng} and {Anh Tuan Luu} and {Bo An} and {Shuicheng Yan} and {Bryan Hooi}},
+  year = {2025},
+  eprint = {2504.16073v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.16073v1},
+  note = {First published: 2025-04-22; Recorded arXiv version: v1; Recorded version updated: 2025-04-22T17:52:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

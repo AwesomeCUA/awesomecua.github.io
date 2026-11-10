@@ -1,3 +1,11 @@
+---
+title: "Financial CUA Benchmark · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vitoworleone-financial-cua-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Financial CUA Benchmark
 
 Financial CUA Benchmark 提供确定性验证器和债券承销任务，用于评测金融计算机使用智能体。

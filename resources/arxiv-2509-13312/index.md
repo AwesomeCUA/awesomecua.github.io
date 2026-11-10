@@ -1,3 +1,11 @@
+---
+title: "WebWeaver: Structuring Web-Scale Evidence… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-13312/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research
 
 Bibliographic record for WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zijian Li, Xin Guan, Bo Zhang, Shen Huang, Houquan Zhou, Shaopeng Lai, Ming Yan,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-13312/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-13312/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13312,
+  title = {{WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research}},
+  author = {{Zijian Li} and {Xin Guan} and {Bo Zhang} and {Shen Huang} and {Houquan Zhou} and {Shaopeng Lai} and {Ming Yan} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jun Zhang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2509.13312v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13312v3},
+  note = {First published: 2025-09-16; Recorded arXiv version: v3; Recorded version updated: 2025-10-07T11:47:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

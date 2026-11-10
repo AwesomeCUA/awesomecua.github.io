@@ -1,3 +1,11 @@
+---
+title: "WebPII: Benchmarking Visual PII… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-17357/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebPII: Benchmarking Visual PII Detection for Computer-Use Agents
 
 WebPII 提供合成电商截图，并对敏感信息作细粒度标注，包括部分填写的表单和交易标识符；还训练 WebRedact 检测视觉 PII，作为计算机使用智能体的隐私保护组件。
@@ -27,6 +35,18 @@ Nathan Zhao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-17357/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-17357/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_17357,
+  title = {{WebPII: Benchmarking Visual PII Detection for Computer-Use Agents}},
+  author = {{Nathan Zhao}},
+  year = {2026},
+  eprint = {2603.17357v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.17357v1},
+  note = {First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T04:41:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

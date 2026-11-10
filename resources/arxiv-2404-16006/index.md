@@ -1,3 +1,11 @@
+---
+title: "MMT-Bench: A Comprehensive Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-16006/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI
 
 Status: excluded from the active CUA catalog after scope review.

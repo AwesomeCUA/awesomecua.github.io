@@ -1,3 +1,11 @@
+---
+title: "GUIrilla-Task | AwesomeCUA"
+url: https://awesomecua.com/resources/url-afe8260e6db2617b72ec/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUIrilla-Task
 
 macOS screenshots paired with generated instructions and a ground-truth click or type action on a labelled element, collected by the GUIrilla accessibility-API crawler in app-disjoint train and test splits.

@@ -1,3 +1,11 @@
+---
+title: "Dinoer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ronandavalan-dinoer/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Dinoer
 
 Local-first web research and browser automation framework for LLM agents combining SearXNG discovery with headless browser control.

@@ -1,3 +1,11 @@
+---
+title: "Windows-MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cursortouch-windows-mcp/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # Windows-MCP
 
 A Windows MCP bridge exposing application, window, keyboard and mouse operations plus native UI-state inspection for agents.

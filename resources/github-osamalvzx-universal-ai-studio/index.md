@@ -1,3 +1,11 @@
+---
+title: "Universal AI Studio (OmniAI Desktop) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osamalvzx-universal-ai-studio/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Universal AI Studio (OmniAI Desktop)
 
 All-in-one desktop AI studio integrating multi-model LLM chat, computer use, and browser automation.

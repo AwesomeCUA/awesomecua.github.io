@@ -1,3 +1,11 @@
+---
+title: "Pilot MCP Chrome Extension · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiachaoxia-glitch-pilot-mcp-extension/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Pilot MCP Chrome Extension
 
 Manifest V3 Chrome 扩展，将 Claude Code 和 MCP 智能体连接到正在运行的浏览器标签页。

@@ -1,3 +1,11 @@
+---
+title: "How Brittle is Agent Safety? Rethinking Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-08487/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # How Brittle is Agent Safety? Rethinking Agent Risk under Intent Concealment and Task Complexity
 
 Status: excluded from the active CUA catalog after scope review.

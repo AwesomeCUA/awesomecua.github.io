@@ -1,3 +1,11 @@
+---
+title: "Qubicl · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eldanring-qubicl/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Qubicl
 
 创建隔离的本地虚拟计算机，让 AI 智能体操作私有桌面，而不触及主机会话。

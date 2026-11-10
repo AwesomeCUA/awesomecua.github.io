@@ -1,3 +1,11 @@
+---
+title: "Lynx Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wangjiang314-lynx-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Lynx Agent
 
 Lynx Agent is a completion-first Android phone-use agent with evidence-based state verification, recovery, and safety checks.

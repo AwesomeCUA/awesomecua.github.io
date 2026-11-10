@@ -1,3 +1,11 @@
+---
+title: "ASIL Benchmark Images | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # ASIL Benchmark Images
 
 Prebuilt Singularity/Apptainer runtime images for reproducing the ASIL agent benchmark, supplied with versioned manifests and checksums.

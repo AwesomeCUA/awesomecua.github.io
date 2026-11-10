@@ -1,3 +1,11 @@
+---
+title: "Kirk Engine | AwesomeCUA"
+url: https://awesomecua.com/resources/url-80c8abf734a29f7affc5/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Kirk Engine
 
 An Android agent that uses screenshots and accessibility trees to choose taps, typing and swipes. Its page reports an AndroidWorld run and describes per-task verification artifacts.

@@ -1,3 +1,11 @@
+---
+title: "Weavetab MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-weavetab-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Weavetab MCP
 
 开放式自动化引擎和 MCP 服务器，用于在本地控制实时网页浏览器和桌面应用。

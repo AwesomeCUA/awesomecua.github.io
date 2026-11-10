@@ -1,3 +1,11 @@
+---
+title: "GUI-SD | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhangyan-ucas-gui-sd-code/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # GUI-SD
 
 GUI-SD implements on-policy self-distillation for GUI visual grounding and action prediction using Qwen-VL backbones.

@@ -1,3 +1,11 @@
+---
+title: "WebChallenger: A Reliable and Efficient… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-10423/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # WebChallenger: A Reliable and Efficient Generalist Web Agent
 
 WebChallenger 构建源自 DOM 的分层页面表示，用于选择性观察、复用网站地图及执行复合操作。框架无需微调模型即可结合这些机制，并在多个网页智能体基准上评估泛化能力。
@@ -27,6 +35,18 @@ Jayoo Hwang, Xiaowen Zhang, Vedant Padwal
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-10423/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-10423/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_10423,
+  title = {{WebChallenger: A Reliable and Efficient Generalist Web Agent}},
+  author = {{Jayoo Hwang} and {Xiaowen Zhang} and {Vedant Padwal}},
+  year = {2026},
+  eprint = {2606.10423v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.10423v1},
+  note = {First published: 2026-06-09; Recorded arXiv version: v1; Recorded version updated: 2026-06-09T04:53:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

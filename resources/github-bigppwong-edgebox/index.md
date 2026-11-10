@@ -1,3 +1,11 @@
+---
+title: "EdgeBox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bigppwong-edgebox/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # EdgeBox
 
 EdgeBox provisions isolated local Linux desktop virtual machines with WebRTC streaming and snapshot rollback for running computer-use agents.

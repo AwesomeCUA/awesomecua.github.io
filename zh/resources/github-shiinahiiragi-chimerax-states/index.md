@@ -1,3 +1,11 @@
+---
+title: "ChimeraX-SessionStates · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shiinahiiragi-chimerax-states/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ChimeraX-SessionStates
 
 ScienceBoard 使用的 ChimeraX 插件，公开分子可视化会话的内部状态，供确定性评测基准评测使用。

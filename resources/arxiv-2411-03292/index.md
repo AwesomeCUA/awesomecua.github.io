@@ -1,3 +1,11 @@
+---
+title: "Interaction2Code: Benchmarking MLLM-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-03292/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping
 
 Bibliographic record for Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jingyu Xiao, Yuxuan Wan, Yintong Huo, Zixin Wang, Xinyi Xu, Wenxuan Wang, Zhiyao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-03292/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-03292/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_03292,
+  title = {{Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping}},
+  author = {{Jingyu Xiao} and {Yuxuan Wan} and {Yintong Huo} and {Zixin Wang} and {Xinyi Xu} and {Wenxuan Wang} and {Zhiyao Xu} and {Yuhang Wang} and {Michael R. Lyu}},
+  year = {2024},
+  eprint = {2411.03292v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.03292v3},
+  note = {First published: 2024-11-05; Recorded arXiv version: v3; Recorded version updated: 2026-03-01T04:44:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "VSearcher: Long-Horizon Multimodal Search… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-02795/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning
 
 Bibliographic record for VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ruiyang Zhang, Qianguo Sun, Chao Song, Yiyan Qi, Zhedong Zheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-02795/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-02795/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_02795,
+  title = {{VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning}},
+  author = {{Ruiyang Zhang} and {Qianguo Sun} and {Chao Song} and {Yiyan Qi} and {Zhedong Zheng}},
+  year = {2026},
+  eprint = {2603.02795v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.02795v2},
+  note = {First published: 2026-03-03; Recorded arXiv version: v2; Recorded version updated: 2026-03-06T09:02:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

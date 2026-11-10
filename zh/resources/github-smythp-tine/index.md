@@ -1,3 +1,11 @@
+---
+title: "tine · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-smythp-tine/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # tine
 
 供 AI 智能体检查和操控 Linux GNOME Wayland 桌面的命令行界面，无需经过门户授权对话框。

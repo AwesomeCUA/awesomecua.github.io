@@ -1,3 +1,11 @@
+---
+title: "UiPad · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3ac3ccfb23fe13adf428/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # UiPad
 
 macOS 界面数据集，收录 63 款应用的 352 个屏幕，提供截图、可用的无障碍树，以及界面元素和点击位置相关问题。

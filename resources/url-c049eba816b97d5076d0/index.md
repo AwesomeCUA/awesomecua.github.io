@@ -1,3 +1,11 @@
+---
+title: "LexBench-Trajectory-Replay | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c049eba816b97d5076d0/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # LexBench-Trajectory-Replay
 
 LexBench-Trajectory-Replay provides 30 public-website tasks with fixed browser actions and assertions for evaluating browser execution and retrieval.

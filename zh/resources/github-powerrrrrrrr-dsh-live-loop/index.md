@@ -1,3 +1,11 @@
+---
+title: "dsh-live-loop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-powerrrrrrrr-dsh-live-loop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-live-loop
 
 面向 DeepSeek Harness 的前端运行时验证插件，可在实时浏览器中检测、启动、预览和测试网页应用。

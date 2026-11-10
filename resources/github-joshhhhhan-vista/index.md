@@ -1,3 +1,11 @@
+---
+title: "VISTA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-joshhhhhan-vista/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # VISTA
 
 VISTA is a harness for visual game agents that combines game actions with frame inspection and retrievable observation history for extended tasks.

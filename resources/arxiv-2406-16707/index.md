@@ -1,3 +1,11 @@
+---
+title: "Probabilistic Subgoal Representations for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-16707/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Probabilistic Subgoal Representations for Hierarchical Reinforcement learning
 
 Status: excluded from the active CUA catalog after scope review.

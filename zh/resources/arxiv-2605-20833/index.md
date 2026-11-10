@@ -1,3 +1,11 @@
+---
+title: "MemGym: a Long-Horizon Memory… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-20833/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # MemGym: a Long-Horizon Memory Environment for LLM Agents
 
 MemGym 评测智能体在多类任务中的记忆能力，其中包括 WebArena-Infinity 上的计算机使用，并提供单独衡量记忆表现的分数。
@@ -27,6 +35,18 @@ Wujiang Xu, Yu Wang, Kai Mei, Kaiqu Liang, Zhenting Wang, Mingyu Jin, Han Zhang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-20833/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-20833/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_20833,
+  title = {{MemGym: a Long-Horizon Memory Environment for LLM Agents}},
+  author = {{Wujiang Xu} and {Yu Wang} and {Kai Mei} and {Kaiqu Liang} and {Zhenting Wang} and {Mingyu Jin} and {Han Zhang} and {Shi-Xiong Zhang} and {Wenyue Hua} and {Sambit Sahu} and {Dimitris N. Metaxas}},
+  year = {2026},
+  eprint = {2605.20833v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.20833v1},
+  note = {First published: 2026-05-20; Recorded arXiv version: v1; Recorded version updated: 2026-05-20T07:25:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

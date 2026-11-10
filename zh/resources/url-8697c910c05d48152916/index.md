@@ -1,3 +1,11 @@
+---
+title: "AndroidDaily · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8697c910c05d48152916/
+updated: 2026-11-02
+type: benchmark
+lang: zh-CN
+---
+
 # AndroidDaily
 
 来自 Step-GUI 的 Android GUI 评测基准数据集，包含 3,146 个静态动作评测条目和 235 项端到端移动端日常任务。

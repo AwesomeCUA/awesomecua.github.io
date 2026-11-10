@@ -1,3 +1,11 @@
+---
+title: "AppSim-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # AppSim-Bench
 
 Simulated mobile applications and evaluation tooling for reproducible GUI-agent tasks with controlled application state.

@@ -1,3 +1,11 @@
+---
+title: "DeepResearch-9K: A Challenging Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-01152/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent
 
 Bibliographic record for DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tongzhou Wu, Yuhao Wang, Xinyu Ma, Xiuqiang He, Shuaiqiang Wang, Dawei Yin, Xian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-01152/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-01152/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_01152,
+  title = {{DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent}},
+  author = {{Tongzhou Wu} and {Yuhao Wang} and {Xinyu Ma} and {Xiuqiang He} and {Shuaiqiang Wang} and {Dawei Yin} and {Xiangyu Zhao}},
+  year = {2026},
+  eprint = {2603.01152v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.01152v2},
+  note = {First published: 2026-03-01; Recorded arXiv version: v2; Recorded version updated: 2026-06-20T09:26:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

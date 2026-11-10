@@ -1,3 +1,11 @@
+---
+title: "STEVE / STEVE-R1 research code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fanbinlu-steve-r1/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # STEVE / STEVE-R1 research code
 
 Research code and linked models for step-verified computer-use training; the current repository describes STEVE-R1 and its trajectory releases.

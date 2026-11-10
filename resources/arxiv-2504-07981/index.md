@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot-Pro: GUI Grounding for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-07981/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use
 
 Evaluates GUI target localization in high-resolution professional software and studies cascaded visual search to narrow the target region.
@@ -26,6 +34,18 @@ Kaixin Li, Ziyang Meng, Hongzhan Lin, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-07981/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-07981/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_07981,
+  title = {{ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use}},
+  author = {{Kaixin Li} and {Ziyang Meng} and {Hongzhan Lin} and {Ziyang Luo} and {Yuchen Tian} and {Jing Ma} and {Zhiyong Huang} and {Tat-Seng Chua}},
+  year = {2025},
+  eprint = {2504.07981v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.07981v1},
+  note = {First published: 2025-04-04; Recorded arXiv version: v1; Recorded version updated: 2025-04-04T14:25:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Browserless · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browserless-browserless/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Browserless
 
 Browserless 通过 Docker 提供无头浏览器服务，供 Puppeteer 和 Playwright 脚本连接，并支持会话并发控制和实时调试查看。

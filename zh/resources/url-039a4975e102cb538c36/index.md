@@ -1,3 +1,11 @@
+---
+title: "GPT-6 Astra · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-039a4975e102cb538c36/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # GPT-6 Astra
 
 OpenAI 的通用模型，其发布文章涵盖计算机操作与网页浏览；OpenAI 报告其在 OSWorld 2.0 上以每个任务约 40 分钟取得 72.6%，并给出 ScreenSpot-Pro 与 Mind2Web 结果。

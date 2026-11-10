@@ -1,3 +1,11 @@
+---
+title: "CLI-Anything | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hkuds-cli-anything/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CLI-Anything
 
 CLI-Anything automatically wraps professional desktop GUI applications such as GIMP, Blender, and LibreOffice into structured agent-native CLIs.

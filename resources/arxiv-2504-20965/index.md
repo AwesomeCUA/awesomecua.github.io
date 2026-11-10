@@ -1,3 +1,11 @@
+---
+title: "AegisLLM: Scaling Agentic Systems for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-20965/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security
 
 Status: excluded from the active CUA catalog after scope review.

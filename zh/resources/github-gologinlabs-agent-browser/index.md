@@ -1,3 +1,11 @@
+---
+title: "GoLogin Agent Browser CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gologinlabs-agent-browser/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # GoLogin Agent Browser CLI
 
 GoLogin Agent Browser CLI 让智能体通过持久化的云端或本地浏览器配置查看并操作实时网页，同时提供会话和配置管理命令。

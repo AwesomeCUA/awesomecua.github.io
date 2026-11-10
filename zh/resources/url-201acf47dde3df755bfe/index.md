@@ -1,3 +1,11 @@
+---
+title: "WildAWM-35B-A3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-201acf47dde3df755bfe/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # WildAWM-35B-A3B
 
 WildAWM-35B-A3B 是基于 Qwen3.6-35B-A3B 的智能体检查点，在混合网页、MCP 和命令行操作的 WildAWM 跨界面计算机任务上后训练，通过 SGLang 以纯文本方式部署。

@@ -1,3 +1,11 @@
+---
+title: "Marvi OS · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xretr00-marvi-os/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Marvi OS
 
 对话式桌面智能体外壳，可观察屏幕上下文并执行本地 OS 和 GUI 动作。

@@ -1,3 +1,11 @@
+---
+title: "macMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-erwinzhang7-macmcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macMCP
 
 macOS Model Context Protocol server with per-application permission gating, Accessibility tree inspection, screenshots, and UI control.

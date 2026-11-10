@@ -1,3 +1,11 @@
+---
+title: "Bridging Language and Physics: Automated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-08220/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models
 
 Bibliographic record for Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jingyi Chen, Mohan Zhang, Laura Yao, Yingtai Ni, Jianmin Ji, Jie Peng, Song Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-08220/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-08220/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_08220,
+  title = {{Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models}},
+  author = {{Jingyi Chen} and {Mohan Zhang} and {Laura Yao} and {Yingtai Ni} and {Jianmin Ji} and {Jie Peng} and {Song Wang} and {Tianlong Chen}},
+  year = {2026},
+  eprint = {2609.08220v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.08220v1},
+  note = {First published: 2026-09-08; Recorded arXiv version: v1; Recorded version updated: 2026-09-08T04:02:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

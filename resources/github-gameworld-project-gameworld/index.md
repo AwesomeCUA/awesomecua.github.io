@@ -1,3 +1,11 @@
+---
+title: "GameWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gameworld-project-gameworld/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # GameWorld
 
 GameWorld provides a standardized browser-based evaluation suite for multimodal game agents across 34 games and 170 verifiable tasks.

@@ -1,3 +1,11 @@
+---
+title: "BrowserGuard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-david-wu1119-browserguard/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # BrowserGuard
 
 BrowserGuard is a runtime safety layer that evaluates proposed browser and computer-use agent actions against security policies.

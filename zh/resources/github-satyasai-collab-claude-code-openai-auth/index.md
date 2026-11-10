@@ -1,3 +1,11 @@
+---
+title: "Claude Code ChatGPT Web Rosetta Gateway · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-satyasai-collab-claude-code-openai-auth/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Claude Code ChatGPT Web Rosetta Gateway
 
 本地主机网关，通过手动完成身份验证的 ChatGPT Web 浏览器会话转发 Claude Code 请求。

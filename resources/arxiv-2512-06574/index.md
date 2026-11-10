@@ -1,3 +1,11 @@
+---
+title: "General Computation using Slidable Tiles with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-06574/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # General Computation using Slidable Tiles with Deterministic Global Forces
 
 Status: excluded from the active CUA catalog after scope review.

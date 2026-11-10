@@ -1,3 +1,11 @@
+---
+title: "Highly photon loss tolerant quantum computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2011-04209/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Highly photon loss tolerant quantum computing using hybrid qubits
 
 Status: excluded from the active CUA catalog after scope review.

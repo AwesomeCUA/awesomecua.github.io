@@ -1,3 +1,11 @@
+---
+title: "Better Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-suge8-better-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Better Computer Use
 
 macOS background desktop control CLI for AI agents supporting window discovery, Accessibility-tree reads, and focus-free input.

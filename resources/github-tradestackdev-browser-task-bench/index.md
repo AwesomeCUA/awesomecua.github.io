@@ -1,3 +1,11 @@
+---
+title: "browser-task-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tradestackdev-browser-task-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # browser-task-bench
 
 browser-task-bench is a benchmark suite of 200+ web interaction tasks covering forms, search, authentication, and checkout flows.

@@ -1,3 +1,11 @@
+---
+title: "AgentGym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-woooodyy-agentgym/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # AgentGym
 
 AgentGym provides interactive environments for developing and evaluating agents, including web tasks in WebShop and WebArena, with trajectory collection and training support.

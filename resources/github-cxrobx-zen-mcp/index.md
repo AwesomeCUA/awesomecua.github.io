@@ -1,3 +1,11 @@
+---
+title: "cxrobx zen-mcp (WebExtension) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cxrobx-zen-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cxrobx zen-mcp (WebExtension)
 
 WebExtension-backed Model Context Protocol server for driving Zen Browser and Firefox from Claude Code.

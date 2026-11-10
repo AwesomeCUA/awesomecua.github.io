@@ -1,3 +1,11 @@
+---
+title: "Terminal Is All You Need: Design Properties… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-10664/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration
 
 This position paper derives interface design principles from terminal-based human-agent collaboration: representational compatibility, transparent actions and low participation barriers. It argues that graphical and other agent-facing modalities should provide these properties explicitly.
@@ -26,6 +34,18 @@ Alexandre De Masi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-10664/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-10664/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_10664,
+  title = {{Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration}},
+  author = {{Alexandre De Masi}},
+  year = {2026},
+  eprint = {2603.10664v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.10664v1},
+  note = {First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T11:24:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

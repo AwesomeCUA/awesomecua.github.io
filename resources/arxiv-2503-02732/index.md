@@ -1,3 +1,11 @@
+---
+title: "Micro/nanoscale spacers for enhanced… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-02732/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Micro/nanoscale spacers for enhanced thermophotovoltaic and thermionic energy conversion: a comprehensive review
 
 Status: excluded from the active CUA catalog after scope review.

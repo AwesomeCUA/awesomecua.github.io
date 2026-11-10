@@ -1,3 +1,11 @@
+---
+title: "opencli-plugin-albato | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vecyang1-opencli-plugin-albato/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # opencli-plugin-albato
 
 An OpenCLI adapter lets agents inspect and change Albato automations through its web console, then reads the live DOM to verify state changes.

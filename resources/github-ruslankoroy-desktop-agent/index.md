@@ -1,3 +1,11 @@
+---
+title: "Desktop Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ruslankoroy-desktop-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Desktop Agent
 
 Desktop Agent controls a local computer via screenshot grid overlays, OCR text detection, voice commands, and mouse/keyboard execution.

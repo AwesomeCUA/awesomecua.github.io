@@ -1,3 +1,11 @@
+---
+title: "VeriSafe Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-verisafeagent-verisafeagent/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # VeriSafe Agent
 
 面向 Android GUI 智能体的运行时验证框架，依据从用户指令和开发者定义的应用状态中推导出的逻辑规则检查拟执行的操作。

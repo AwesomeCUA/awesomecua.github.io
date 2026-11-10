@@ -1,3 +1,11 @@
+---
+title: "Multi-IaC-Eval: Benchmarking Cloud… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-05303/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Multi-IaC-Eval: Benchmarking Cloud Infrastructure as Code Across Multiple Formats
 
 Bibliographic record for Multi-IaC-Eval: Benchmarking Cloud Infrastructure as Code Across Multiple Formats. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sam Davidson, Li Sun, Bhavana Bhasker, Laurent Callot, Anoop Deoras
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-05303/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-05303/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_05303,
+  title = {{Multi-IaC-Eval: Benchmarking Cloud Infrastructure as Code Across Multiple Formats}},
+  author = {{Sam Davidson} and {Li Sun} and {Bhavana Bhasker} and {Laurent Callot} and {Anoop Deoras}},
+  year = {2025},
+  eprint = {2509.05303v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.05303v1},
+  note = {First published: 2025-08-21; Recorded arXiv version: v1; Recorded version updated: 2025-08-21T22:37:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

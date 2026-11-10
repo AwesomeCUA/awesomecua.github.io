@@ -1,3 +1,11 @@
+---
+title: "Embodied Task Planning with Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-01848/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Embodied Task Planning with Large Language Models
 
 Bibliographic record for Embodied Task Planning with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhenyu Wu, Ziwei Wang, Xiuwei Xu, Jiwen Lu, Haibin Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-01848/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-01848/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_01848,
+  title = {{Embodied Task Planning with Large Language Models}},
+  author = {{Zhenyu Wu} and {Ziwei Wang} and {Xiuwei Xu} and {Jiwen Lu} and {Haibin Yan}},
+  year = {2023},
+  eprint = {2307.01848v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.01848v1},
+  note = {First published: 2023-07-04; Recorded arXiv version: v1; Recorded version updated: 2023-07-04T17:58:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

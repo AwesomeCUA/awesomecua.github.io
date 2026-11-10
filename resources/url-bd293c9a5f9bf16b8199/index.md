@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager-opt-1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bd293c9a5f9bf16b8199/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # OpenWebVoyager-opt-1
 
 OpenWebVoyager checkpoint after the first exploration-feedback-optimization round: the imitation-learned multimodal web agent further trained on successful real-website trajectories judged by GPT-4o.

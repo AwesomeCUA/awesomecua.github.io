@@ -1,3 +1,11 @@
+---
+title: "Svate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jieao-re-svate/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Svate
 
 Svate is an on-device Android UI automation agent combining Accessibility trees, screenshots, pre-action safety checks, and recovery.

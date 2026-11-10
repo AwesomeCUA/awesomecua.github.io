@@ -1,3 +1,11 @@
+---
+title: "aegis-desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mihneateodorstoica-aegis-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # aegis-desktop
 
 可扩展、以 Linux 为首要支持平台的桌面控制 MCP 服务器，具有可插拔的窗口、输入、截图、OCR 和策略后端。

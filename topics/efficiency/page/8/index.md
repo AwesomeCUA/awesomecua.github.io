@@ -1,10 +1,17 @@
+---
+title: "Efficiency — computer-use research, page 8 | AwesomeCUA"
+url: https://awesomecua.com/topics/efficiency/page/8/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Efficiency — computer-use research, page 8
 
 HTML page: https://awesomecua.com/topics/efficiency/page/8/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
-- [Jev Ultrafast](https://awesomecua.com/resources/github-browser-use-jev-ultrafast/)
 - [jev-browser](https://awesomecua.com/resources/github-doruktarhan-jev-browser/)
 - [jev-browser](https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/)
 - [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/)
 - [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/)
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/)
+- [pebkac](https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/)

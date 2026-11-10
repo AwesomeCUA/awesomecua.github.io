@@ -1,3 +1,11 @@
+---
+title: "DisQ: A Novel Quantum Output State… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2102-01153/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse
 
 Status: excluded from the active CUA catalog after scope review.

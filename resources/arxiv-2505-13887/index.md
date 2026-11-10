@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-V: A Video-Guided Approach for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-13887/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation
 
 Bibliographic record for Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junyang Wang, Haiyang Xu, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Jitao Sang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-13887/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-13887/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_13887,
+  title = {{Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation}},
+  author = {{Junyang Wang} and {Haiyang Xu} and {Xi Zhang} and {Ming Yan} and {Ji Zhang} and {Fei Huang} and {Jitao Sang}},
+  year = {2025},
+  eprint = {2505.13887v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.13887v3},
+  note = {First published: 2025-05-20; Recorded arXiv version: v3; Recorded version updated: 2025-06-03T08:39:01Z; Preferred arXiv record recorded by catalog: arXiv:2502.17110 (https://arxiv.org/abs/2502.17110); this citation retains arxiv:2505.13887.}
+}
+```
 
 ## Recorded arXiv snapshot
 

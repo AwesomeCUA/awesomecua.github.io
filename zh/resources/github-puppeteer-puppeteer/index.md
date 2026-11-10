@@ -1,3 +1,11 @@
+---
+title: "Puppeteer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-puppeteer-puppeteer/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Puppeteer
 
 Puppeteer 是用于控制 Chrome 和 Firefox 的 JavaScript 浏览器库，可通过 API 编写网页导航与交互脚本。

@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-vision · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tristan-mcinnis-dsh-browser-vision/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-browser-vision
 
 面向 DeepSeek Harness 的视觉浏览器自动化插件，结合 Browser-Use 动作与页面截图检查。

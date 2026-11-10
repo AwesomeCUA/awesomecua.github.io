@@ -1,3 +1,11 @@
+---
+title: "ManimAgent: Self-Evolving Multimodal Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-30296/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ManimAgent: Self-Evolving Multimodal Agents for Visual Education
 
 Status: excluded from the active CUA catalog after scope review.

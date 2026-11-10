@@ -1,3 +1,11 @@
+---
+title: "ShowUI: One Vision-Language-Action Model… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-17465/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # ShowUI: One Vision-Language-Action Model for GUI Visual Agent
 
 在小型 GUI 动作模型中结合视觉词元选择、交错的视觉与操作历史，以及筛选后的指令数据。
@@ -27,6 +35,18 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-17465/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-17465/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_17465,
+  title = {{ShowUI: One Vision-Language-Action Model for GUI Visual Agent}},
+  author = {{Kevin Qinghong Lin} and {Linjie Li} and {Difei Gao} and {Zhengyuan Yang} and {Shiwei Wu} and {Zechen Bai} and {Weixian Lei} and {Lijuan Wang} and {Mike Zheng Shou}},
+  year = {2024},
+  eprint = {2411.17465v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.17465v1},
+  note = {First published: 2024-11-26; Recorded arXiv version: v1; Recorded version updated: 2024-11-26T14:29:47Z.}
+}
+```
 
 ## 发表记录
 

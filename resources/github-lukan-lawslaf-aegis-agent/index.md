@@ -1,3 +1,11 @@
+---
+title: "Aegis-Agent (Privacy Firewall Browser Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lukan-lawslaf-aegis-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Aegis-Agent (Privacy Firewall Browser Agent)
 
 Privacy-first browser agent framework that blurs faces and redacts PII in screenshots before sending observations to cloud LLMs.

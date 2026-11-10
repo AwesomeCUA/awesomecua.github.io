@@ -1,3 +1,11 @@
+---
+title: "Awesome Computer Use Ecosystem | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Awesome Computer Use Ecosystem
 
 A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.

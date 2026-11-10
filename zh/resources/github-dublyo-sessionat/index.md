@@ -1,3 +1,11 @@
+---
+title: "Sessionat · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dublyo-sessionat/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Sessionat
 
 Sessionat 是开源的 Chromium 系 macOS 浏览器，具备持久化工作空间和原生 AI 智能体控制接口。

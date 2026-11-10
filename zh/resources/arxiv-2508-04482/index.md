@@ -1,3 +1,11 @@
+---
+title: "OS Agents: A Survey on MLLM-based Agents… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-04482/
+updated: 2026-10-19
+type: survey
+lang: zh-CN
+---
+
 # OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use
 
 综述通过操作系统界面操作计算机和手机的智能体，涵盖组件、能力、基础模型、框架和基准。
@@ -23,6 +31,18 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-04482/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-04482/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04482,
+  title = {{OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use}},
+  author = {{Xueyu Hu} and {Tao Xiong} and {Biao Yi} and {Zishu Wei} and {Ruixuan Xiao} and {Yurun Chen} and {Jiasheng Ye} and {Meiling Tao} and {Xiangxin Zhou} and {Ziyu Zhao} and {Yuhuai Li} and {Shengze Xu} and {Shenzhi Wang} and {Xinchen Xu} and {Shuofei Qiao} and {Zhaokai Wang} and {Kun Kuang} and {Tieyong Zeng} and {Liang Wang} and {Jiwei Li} and {Yuchen Eleanor Jiang} and {Wangchunshu Zhou} and {Guoyin Wang} and {Keting Yin} and {Zhou Zhao} and {Hongxia Yang} and {Fan Wu} and {Shengyu Zhang} and {Fei Wu}},
+  year = {2025},
+  eprint = {2508.04482v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04482v1},
+  note = {First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T14:33:45Z.}
+}
+```
 
 ## 发表记录
 

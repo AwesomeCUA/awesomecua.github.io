@@ -1,3 +1,11 @@
+---
+title: "ASPI: Seeking Ambiguity Clarification… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-17324/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

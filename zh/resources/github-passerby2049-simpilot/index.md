@@ -1,3 +1,11 @@
+---
+title: "simpilot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-passerby2049-simpilot/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # simpilot
 
 一个 MCP 服务器，让智能体通过界面树、点击、输入、滑动、截图和屏幕录制来检查并操作 iOS 模拟器中的应用。

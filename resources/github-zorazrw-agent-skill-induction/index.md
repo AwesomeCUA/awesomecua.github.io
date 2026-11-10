@@ -1,3 +1,11 @@
+---
+title: "Agent Skill Induction (ASI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zorazrw-agent-skill-induction/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # Agent Skill Induction (ASI)
 
 Official code for agent skill induction on WebArena: an LLM judge checks each trajectory, successful episodes become Python skill functions, and skills join the action space only after generated tests pass.

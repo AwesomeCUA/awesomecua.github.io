@@ -1,3 +1,11 @@
+---
+title: "Re-Thinking Process Mining in the AI-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-07720/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Re-Thinking Process Mining in the AI-Based Agents Era
 
 Status: excluded from the active CUA catalog after scope review.

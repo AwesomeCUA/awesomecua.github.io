@@ -1,3 +1,11 @@
+---
+title: "Towards Robust Prompts on Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-08479/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards Robust Prompts on Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

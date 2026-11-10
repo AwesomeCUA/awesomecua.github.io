@@ -1,3 +1,11 @@
+---
+title: "Mobile-R1: Towards Interactive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-20332/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # Mobile-R1: Towards Interactive Capability for VLM-Based Mobile Agent via Systematic Training
 
 通过分阶段课程训练移动端智能体，依次进行响应格式对齐、利用操作反馈训练，以及交互式任务级训练。
@@ -27,6 +35,18 @@ Jihao Gu, Qihang Ai, Yingyao Wang, Pi Bu, Jingxuan Xing, Zekun Zhu, Wei Jiang, Z
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-20332/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-20332/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_20332,
+  title = {{Mobile-R1: Towards Interactive Capability for VLM-Based Mobile Agent via Systematic Training}},
+  author = {{Jihao Gu} and {Qihang Ai} and {Yingyao Wang} and {Pi Bu} and {Jingxuan Xing} and {Zekun Zhu} and {Wei Jiang} and {Ziming Wang} and {Yingxiu Zhao} and {Ming-Liang Zhang} and {Jun Song} and {Yuning Jiang} and {Bo Zheng}},
+  year = {2025},
+  eprint = {2506.20332v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.20332v4},
+  note = {First published: 2025-06-25; Recorded arXiv version: v4; Recorded version updated: 2026-04-25T13:54:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

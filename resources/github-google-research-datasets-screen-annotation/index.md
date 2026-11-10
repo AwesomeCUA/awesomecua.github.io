@@ -1,3 +1,11 @@
+---
+title: "Screen Annotation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Screen Annotation
 
 Google Research release of ScreenAI's Screen Annotation data: train, validation and test CSVs that describe the UI elements of Rico mobile screens by type, box coordinates, on-screen text and image captions.

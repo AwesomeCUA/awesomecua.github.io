@@ -1,3 +1,11 @@
+---
+title: "FerrisGrid-CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-brunov21-ferrisgrid-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # FerrisGrid-CLI
 
 FerrisGrid-CLI captures screenshots, maps UI regions to deterministic grid coordinates, and executes constrained desktop actions in Rust.

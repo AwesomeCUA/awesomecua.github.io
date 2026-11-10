@@ -1,3 +1,11 @@
+---
+title: "Market Basket Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-0xyene-market-basket-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Market Basket Agent
 
 自主网页购物智能体，可比较实时配送平台上的杂货购物篮价格。

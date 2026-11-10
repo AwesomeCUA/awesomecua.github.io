@@ -1,3 +1,11 @@
+---
+title: "local-windows-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuhuison-local-windows-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # local-windows-use
 
 MCP 服务器和 CLI，让前沿 LLM 将消耗大量 token 的 Windows 桌面及浏览器点击循环委托给小型本地模型。

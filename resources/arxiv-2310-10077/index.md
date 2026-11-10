@@ -1,3 +1,11 @@
+---
+title: "Prompt Packer: Deceiving LLMs through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-10077/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks
 
 Status: excluded from the active CUA catalog after scope review.

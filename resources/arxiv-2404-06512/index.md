@@ -1,3 +1,11 @@
+---
+title: "InternLM-XComposer2-4KHD: A Pioneering Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-06512/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD
 
 Bibliographic record for InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Bin Wang, Linke Ouyang, Songyan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-06512/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-06512/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_06512,
+  title = {{InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD}},
+  author = {{Xiaoyi Dong} and {Pan Zhang} and {Yuhang Zang} and {Yuhang Cao} and {Bin Wang} and {Linke Ouyang} and {Songyang Zhang} and {Haodong Duan} and {Wenwei Zhang} and {Yining Li} and {Hang Yan} and {Yang Gao} and {Zhe Chen} and {Xinyue Zhang} and {Wei Li} and {Jingwen Li} and {Wenhai Wang} and {Kai Chen} and {Conghui He} and {Xingcheng Zhang} and {Jifeng Dai} and {Yu Qiao} and {Dahua Lin} and {Jiaqi Wang}},
+  year = {2024},
+  eprint = {2404.06512v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.06512v1},
+  note = {First published: 2024-04-09; Recorded arXiv version: v1; Recorded version updated: 2024-04-09T17:59:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

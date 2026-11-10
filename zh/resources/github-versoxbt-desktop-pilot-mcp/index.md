@@ -1,3 +1,11 @@
+---
+title: "Desktop Pilot MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-versoxbt-desktop-pilot-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Desktop Pilot MCP
 
 原生 macOS 无障碍 MCP 服务器，使 Claude 和 MCP 客户端能够以低延迟、结构化的方式控制桌面应用。

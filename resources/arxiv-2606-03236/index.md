@@ -1,3 +1,11 @@
+---
+title: "Perceive Before Reasoning: A Pre-Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-03236/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents
 
 Introduces PRPF, a two-stage framework for proactive mobile agents that gates intervention with MPP and invokes PAR only when assistance is warranted.
@@ -26,6 +34,18 @@ Zhijie Ding, Weinan Hong, Zicheng Zhu, Lei Li, Dezhi Kong, Hao Wang, Peng Zhou, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-03236/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-03236/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03236,
+  title = {{Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents}},
+  author = {{Zhijie Ding} and {Weinan Hong} and {Zicheng Zhu} and {Lei Li} and {Dezhi Kong} and {Hao Wang} and {Peng Zhou} and {Xuchu Jiang} and {Jiaming Xu}},
+  year = {2026},
+  eprint = {2606.03236v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03236v2},
+  note = {First published: 2026-06-02; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T12:02:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

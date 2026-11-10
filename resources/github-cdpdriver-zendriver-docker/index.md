@@ -1,3 +1,11 @@
+---
+title: "zendriver-docker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cdpdriver-zendriver-docker/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # zendriver-docker
 
 A Docker project template that runs Zendriver against a headed, GPU-accelerated Chrome on a virtual Wayland display, with VNC access for watching and debugging runs.

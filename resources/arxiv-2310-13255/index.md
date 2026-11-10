@@ -1,3 +1,11 @@
+---
+title: "Steve-Eye: Equipping LLM-based Embodied… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-13255/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds
 
 Bibliographic record for Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sipeng Zheng, Jiazheng Liu, Yicheng Feng, Zongqing Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-13255/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-13255/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_13255,
+  title = {{Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds}},
+  author = {{Sipeng Zheng} and {Jiazheng Liu} and {Yicheng Feng} and {Zongqing Lu}},
+  year = {2023},
+  eprint = {2310.13255v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.13255v2},
+  note = {First published: 2023-10-20; Recorded arXiv version: v2; Recorded version updated: 2023-12-07T05:36:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

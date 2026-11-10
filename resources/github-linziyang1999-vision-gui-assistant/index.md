@@ -1,3 +1,11 @@
+---
+title: "VGA (Vision GUI Assistant) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # VGA (Vision GUI Assistant)
 
 Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets to reduce hallucinations in vision-language GUI grounding.

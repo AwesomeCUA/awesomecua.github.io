@@ -1,3 +1,11 @@
+---
+title: "UGround-single · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9bb57ce3dde2c8289ac1/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # UGround-single
 
 一个包含 829 万条训练记录的图形界面定位数据集，将图像引用和元素请求与边界框坐标及点击操作配对。

@@ -1,3 +1,11 @@
+---
+title: "Cockroach Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ajnasnb-cockroach-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Cockroach Browser
 
 面向 AI 智能体的本地优先浏览器自动化平台，支持隔离的 Chromium、Firefox 和 WebKit 配置文件。

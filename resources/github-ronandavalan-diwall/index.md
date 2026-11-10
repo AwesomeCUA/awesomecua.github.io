@@ -1,3 +1,11 @@
+---
+title: "Diwall | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ronandavalan-diwall/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Diwall
 
 Diwall gives language models screenshots, numbered page elements and accessibility data for browser actions, while preserving captures that a human can review.

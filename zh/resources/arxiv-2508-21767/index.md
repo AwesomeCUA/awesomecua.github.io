@@ -1,3 +1,11 @@
+---
+title: "UItron: Foundational GUI Agent with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-21767/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # UItron: Foundational GUI Agent with Advanced Perception and Planning
 
 UItron 结合 GUI 感知与规划的数据构建、监督训练和课程强化学习，在互联的移动端及 PC 环境中训练；还收集了 100 款中国应用中超过 100 万步操作，并构建离线和在线评估环境。
@@ -27,6 +35,18 @@ Zhixiong Zeng, Jing Huang, Liming Zheng, Wenkang Han, Yufeng Zhong, Lei Chen, Lo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-21767/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-21767/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_21767,
+  title = {{UItron: Foundational GUI Agent with Advanced Perception and Planning}},
+  author = {{Zhixiong Zeng} and {Jing Huang} and {Liming Zheng} and {Wenkang Han} and {Yufeng Zhong} and {Lei Chen} and {Longrong Yang} and {Yingjie Chu} and {Yuzhi He} and {Lin Ma}},
+  year = {2025},
+  eprint = {2508.21767v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.21767v1},
+  note = {First published: 2025-08-29; Recorded arXiv version: v1; Recorded version updated: 2025-08-29T16:40:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

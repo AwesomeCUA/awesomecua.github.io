@@ -1,3 +1,11 @@
+---
+title: "Workflow-Guided Exploration research code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-stanfordnlp-wge/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Workflow-Guided Exploration research code
 
 Research code that learns browser-control policies by constraining exploration with workflows induced from demonstrations, with a Selenium-based MiniWoB environment and experiment harness.

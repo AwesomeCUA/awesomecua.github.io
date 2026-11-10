@@ -1,3 +1,11 @@
+---
+title: "RobotWorld: Benchmarking Multimodal Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-10409/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments
 
 Bibliographic record for RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiqin Yang, Chenxin Li, Xiaomeng Hu, Yibin Liu, Weidong Huang, Jiankai Sun, Hai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-10409/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-10409/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_10409,
+  title = {{RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments}},
+  author = {{Zhiqin Yang} and {Chenxin Li} and {Xiaomeng Hu} and {Yibin Liu} and {Weidong Huang} and {Jiankai Sun} and {Haitao Li} and {Zijian Wu} and {Yuzhi Huang} and {Fanding Huang} and {Hanwen Sun} and {Jiashun Liu} and {Jingqi Tong} and {Mingxin Huang} and {Shaoli Hu} and {Shijue Huang} and {Tianyi Bai} and {Xinyuan Wang} and {Yunlong Lin} and {Zhengyang Tang} and {Zhexin Zhang} and {Zhuo Chen} and {Xierui Song} and {Juntao Dai} and {Boyuan Chen} and {Jiaming Ji} and {Fangneng Zhan} and {Mengkang Hu} and {Wei Xue} and {Yonggang Zhang} and {Han Hu} and {Tsung-Yi Ho} and {Yike Guo}},
+  year = {2026},
+  eprint = {2610.10409v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.10409v1},
+  note = {First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T16:55:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

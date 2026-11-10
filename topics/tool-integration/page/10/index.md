@@ -1,10 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 10 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/10/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 10
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/10/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [Codex Computer Use Lab](https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/)
 - [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/)
 - [Codex Dynamic Bridge](https://awesomecua.com/resources/github-guraqwq-codex-dynamic-bridge/)
 - [Codex File Bridge](https://awesomecua.com/resources/github-dev-newb-codex-file-bridge/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [DeepDeck](https://awesomecua.com/resources/github-jo32-deepdeck/)
 - [DeepSeek Harness Desktop](https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/)
 - [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/)
+- [DeepSeek Harness Mac Control](https://awesomecua.com/resources/github-18126295767-cell-dsh-mac-control/)

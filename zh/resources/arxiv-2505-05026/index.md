@@ -1,3 +1,11 @@
+---
+title: "Do MLLMs Capture How Interfaces Guide… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-05026/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding
 
 提出 WiserUI-Bench，将行业 A/B 测试中的真实 UI 变体与观察到的行为表现更优版本及专家解释配对，评估模型预测更有效界面并解释其对用户行为影响的能力。
@@ -27,6 +35,18 @@ Jaehyun Jeon, Min Soo Kim, Jang Han Yoon, Sumin Shim, Yejin Choi, Hanbin Kim, Da
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-05026/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-05026/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_05026,
+  title = {{Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding}},
+  author = {{Jaehyun Jeon} and {Min Soo Kim} and {Jang Han Yoon} and {Sumin Shim} and {Yejin Choi} and {Hanbin Kim} and {Dae Hyun Kim} and {Youngjae Yu}},
+  year = {2025},
+  eprint = {2505.05026v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.05026v5},
+  note = {First published: 2025-05-08; Recorded arXiv version: v5; Recorded version updated: 2026-06-04T06:58:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

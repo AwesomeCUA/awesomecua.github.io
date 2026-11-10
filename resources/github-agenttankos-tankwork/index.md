@@ -1,3 +1,11 @@
+---
+title: "TankWork | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agenttankos-tankwork/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TankWork
 
 TankWork is a desktop agent framework combining OmniParser visual grounding, OCR, and PyAutoGUI actuation.

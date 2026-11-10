@@ -1,3 +1,11 @@
+---
+title: "Jev Social | AwesomeCUA"
+url: https://awesomecua.com/resources/github-socai-io-jev-social/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Jev Social
 
 Jev Social researches Instagram, TikTok, and LinkedIn through a signed-in Chrome browser, choosing successive actions and assembling reports from captured source evidence.

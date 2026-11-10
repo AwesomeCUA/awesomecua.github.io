@@ -1,3 +1,11 @@
+---
+title: "WebRL-GLM-4-9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f979ca583090405aadee/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # WebRL-GLM-4-9B
 
 基于 GLM 的 WebRL 模型，可在五个 WebArena 网站执行浏览器任务；模型卡报告了 WebArena-Lite 的评测结果。

@@ -1,3 +1,11 @@
+---
+title: "GlassBrowser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lzw12w-glass-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # GlassBrowser
 
 可审计、低成本、仅使用 DOM 的浏览器智能体，设计用于透明的逐步检查和调试。

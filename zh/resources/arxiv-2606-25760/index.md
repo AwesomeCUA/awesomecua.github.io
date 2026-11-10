@@ -1,3 +1,11 @@
+---
+title: "Uncertainty Quantification for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-25760/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets
 
 Argus 在开放权重和闭源模型的观测条件下，评测单步 GUI 定位的事后不确定性方法。它测试校准、拒绝、错误严重程度及保形点击区域，发现不确定性排序在不同模型和界面条件间的迁移不如同一模型跨数据集的迁移稳定。
@@ -27,6 +35,18 @@ Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Ome
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-25760/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-25760/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_25760,
+  title = {{Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets}},
+  author = {{Divake Kumar} and {Sina Tayebati} and {Devashri Naik} and {Amanda Sofie Rios} and {Nilesh Ahuja} and {Omesh Tickoo} and {Ranganath Krishnan} and {Amit Ranjan Trivedi}},
+  year = {2026},
+  eprint = {2606.25760v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.25760v2},
+  note = {First published: 2026-06-24; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T20:55:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "PopupAttack · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-salt-nlp-popupattack/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # PopupAttack
 
 用于评估 GUI 智能体在恶意弹窗指令下表现的资源。

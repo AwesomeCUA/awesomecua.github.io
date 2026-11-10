@@ -1,3 +1,11 @@
+---
+title: "WEBSERV: A Full-Stack and RL-Ready Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-16252/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale
 
 WebServ combines copy-on-write container environments with a compact DOM-derived browser interface for training web agents. Network-aware waiting supports action execution in single-page applications, with evaluations and reinforcement-learning experiments on WebArena-Lite.
@@ -26,6 +34,18 @@ Yuxuan Lu, Ziyi Wang, Jing Huang, Hui Liu, Jiri Gesi, Yan Han, Shihan Fu, Tianqi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-16252/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-16252/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_16252,
+  title = {{WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale}},
+  author = {{Yuxuan Lu} and {Ziyi Wang} and {Jing Huang} and {Hui Liu} and {Jiri Gesi} and {Yan Han} and {Shihan Fu} and {Tianqi Zheng} and {Xianfeng Tang} and {Chen Luo} and {Yisi Sang} and {Jin Lai} and {Dakuo Wang}},
+  year = {2025},
+  eprint = {2510.16252v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.16252v2},
+  note = {First published: 2025-10-17; Recorded arXiv version: v2; Recorded version updated: 2026-05-17T17:26:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

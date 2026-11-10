@@ -1,3 +1,11 @@
+---
+title: "browser-gateway · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-gateway-browser-gateway/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # browser-gateway
 
 browser-gateway 是跨云浏览器提供商的开放控制平面和路由器，支持故障转移、持久化配置文件、会话重放和 MCP。

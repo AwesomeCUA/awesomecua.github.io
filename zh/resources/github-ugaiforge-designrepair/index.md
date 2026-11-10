@@ -1,3 +1,11 @@
+---
+title: "DesignRepair · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ugaiforge-designrepair/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # DesignRepair
 
 DesignRepair 分析前端代码和渲染后的页面，再结合 Material Design 指南与大语言模型识别并修复界面设计问题。

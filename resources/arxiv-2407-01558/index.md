@@ -1,3 +1,11 @@
+---
+title: "Visual Grounding Methods for Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-01558/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Visual Grounding Methods for Efficient Interaction with Desktop Graphical User Interfaces
 
 Compares modular OCR-based and end-to-end methods for locating desktop GUI targets from natural-language instructions.
@@ -26,6 +34,18 @@ El Hassane Ettifouri, Jessica López Espejel, Laura Minkova, Tassnim Dardouri, W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-01558/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-01558/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_01558,
+  title = {{Visual Grounding Methods for Efficient Interaction with Desktop Graphical User Interfaces}},
+  author = {{El Hassane Ettifouri} and {Jessica López Espejel} and {Laura Minkova} and {Tassnim Dardouri} and {Walid Dahhane}},
+  year = {2024},
+  eprint = {2407.01558v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.01558v3},
+  note = {First published: 2024-05-05; Recorded arXiv version: v3; Recorded version updated: 2025-07-18T11:35:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

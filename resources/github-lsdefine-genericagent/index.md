@@ -1,3 +1,11 @@
+---
+title: "GenericAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lsdefine-genericagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # GenericAgent
 
 GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.

@@ -1,3 +1,11 @@
+---
+title: "Codex Dynamic Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-guraqwq-codex-dynamic-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex Dynamic Bridge
 
 Connects OpenAI Codex and Antigravity via a global sidecar and local CDP to manage sessions, models, and browser tasks.

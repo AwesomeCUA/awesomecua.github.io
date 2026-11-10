@@ -1,3 +1,11 @@
+---
+title: "Evoui Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-salmonbird-evoui-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Evoui Browser
 
 面向 Codex、Claude Code 和 Cursor 的自我演进浏览器自动化技能，可缓存可复用的网站知识。

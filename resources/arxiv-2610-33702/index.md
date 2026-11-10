@@ -1,3 +1,11 @@
+---
+title: "Seeing the Options: Typed Decisions over… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33702/
+updated: 2026-10-27
+type: paper
+lang: en
+---
+
 # Seeing the Options: Typed Decisions over Visual Candidates with Reusable Option Memory
 
 Bibliographic record for Seeing the Options: Typed Decisions over Visual Candidates with Reusable Option Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fengxin Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-33702/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-33702/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33702,
+  title = {{Seeing the Options: Typed Decisions over Visual Candidates with Reusable Option Memory}},
+  author = {{Fengxin Li}},
+  year = {2026},
+  eprint = {2610.33702v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33702v1},
+  note = {First published: 2026-10-24; Recorded arXiv version: v1; Recorded version updated: 2026-10-24T14:32:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

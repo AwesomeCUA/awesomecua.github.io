@@ -1,3 +1,11 @@
+---
+title: "Protean · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aibrain-mnemis-protean/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Protean
 
 Protean 将日常人类桌面和浏览器操作演示转化为可复用、自适应的智能体技能。

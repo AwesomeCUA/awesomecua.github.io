@@ -1,3 +1,11 @@
+---
+title: "VeriOS-Agent-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-97040677a731edfedc2d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # VeriOS-Agent-32B
 
 VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-VL-32B. It is released with model weights for the interaction approach described in the VeriOS paper.

@@ -1,3 +1,11 @@
+---
+title: "Northstar (Legacy Portal CUA) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Northstar (Legacy Portal CUA)
 
 Discovers workflows on legacy credit-union web portals with an AI agent once and compiles them into deterministic scripts.

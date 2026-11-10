@@ -1,3 +1,11 @@
+---
+title: "AndroidReality: How Far Are Mobile… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-07775/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # AndroidReality: How Far Are Mobile Agents from the Real World?
 
 在 AndroidWorld 中加入受控的状态、状态转换和动作扰动，以测试移动端智能体的抗扰能力，并研究一种无需训练的自省式恢复机制。
@@ -27,6 +35,18 @@ Xiaoou Liu, Longchao Da, Hanyang Chen, Yuan Ling, Hua Wei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-07775/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-07775/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_07775,
+  title = {{AndroidReality: How Far Are Mobile Agents from the Real World?}},
+  author = {{Xiaoou Liu} and {Longchao Da} and {Hanyang Chen} and {Yuan Ling} and {Hua Wei}},
+  year = {2026},
+  eprint = {2608.07775v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.07775v1},
+  note = {First published: 2026-08-07; Recorded arXiv version: v1; Recorded version updated: 2026-08-07T21:47:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

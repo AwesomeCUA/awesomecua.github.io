@@ -1,3 +1,11 @@
+---
+title: "STEVE-R1-7B-SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-666844c28be1138b0e37/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # STEVE-R1-7B-SFT
 
 STEVE-R1-7B-SFT is a released computer-use checkpoint trained with step-verified data for desktop agent tasks and evaluated on Windows and Ubuntu environments.

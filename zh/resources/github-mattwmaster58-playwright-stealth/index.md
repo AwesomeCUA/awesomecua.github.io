@@ -1,3 +1,11 @@
+---
+title: "playwright_stealth · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mattwmaster58-playwright-stealth/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # playwright_stealth
 
 Playwright_stealth 是一个 Python 辅助工具，可对 Playwright 页面和浏览器上下文应用浏览器指纹规避措施。它提供异步使用及配置示例。

@@ -1,3 +1,11 @@
+---
+title: "AgentDreamer: Agentic 3D Motion Reasoning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-30679/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgentDreamer: Agentic 3D Motion Reasoning for Text-Controllable Physics Simulation
 
 Bibliographic record for AgentDreamer: Agentic 3D Motion Reasoning for Text-Controllable Physics Simulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mijeong Kim, Suho Park, Junha Park, Bohyung Han
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-30679/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-30679/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_30679,
+  title = {{AgentDreamer: Agentic 3D Motion Reasoning for Text-Controllable Physics Simulation}},
+  author = {{Mijeong Kim} and {Suho Park} and {Junha Park} and {Bohyung Han}},
+  year = {2026},
+  eprint = {2610.30679v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.30679v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T03:46:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

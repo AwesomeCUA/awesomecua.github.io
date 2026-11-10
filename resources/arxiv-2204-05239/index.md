@@ -1,3 +1,11 @@
+---
+title: "Exploring the Universal Vulnerability of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2204-05239/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Exploring the Universal Vulnerability of Prompt-based Learning Paradigm
 
 Status: excluded from the active CUA catalog after scope review.

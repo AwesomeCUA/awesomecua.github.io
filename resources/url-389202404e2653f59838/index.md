@@ -1,3 +1,11 @@
+---
+title: "SCOPE-SFT-9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-389202404e2653f59838/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # SCOPE-SFT-9B
 
 A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.

@@ -1,10 +1,17 @@
+---
+title: "Computer-use agent tools, page 12 | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/page/12/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools, page 12
 
 HTML page: https://awesomecua.com/categories/tool/page/12/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
-- [Vision-MCP](https://awesomecua.com/resources/github-haruhiyuki-vision-mcp/)
 - [Visual Context Router](https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/)
 - [VNC MCP Server](https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/)
 - [vnc-computer-use CLI](https://awesomecua.com/resources/github-eyhn-vnc/)

@@ -1,3 +1,11 @@
+---
+title: "Rethinking the Value of Multi-Agent Workflow… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-12307/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline
 
 Status: excluded from the active CUA catalog after scope review.

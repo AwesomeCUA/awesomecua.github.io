@@ -1,3 +1,11 @@
+---
+title: "Oh-Matilda · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tahsine-oh-matilda/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Oh-Matilda
 
 Oh-Matilda 是基于 Tauri v2 的 Android 设备端 AI 智能体，无需 ADB 即可自主打开应用并执行点击、文本输入和滚动。

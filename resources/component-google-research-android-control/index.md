@@ -1,3 +1,11 @@
+---
+title: "AndroidControl | AwesomeCUA"
+url: https://awesomecua.com/resources/component-google-research-android-control/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # AndroidControl
 
 Android demonstrations with high-level goals, step instructions, screenshots, and accessibility trees.

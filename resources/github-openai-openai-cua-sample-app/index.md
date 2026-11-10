@@ -1,3 +1,11 @@
+---
+title: "OpenAI Computer Use Sample Apps | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openai-openai-cua-sample-app/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # OpenAI Computer Use Sample Apps
 
 OpenAI reference agents that drive a browser through Playwright JavaScript or a desktop through PyAutoGUI Python, with the model writing code via the Responses API, plus mock kanban, paint and booking labs.

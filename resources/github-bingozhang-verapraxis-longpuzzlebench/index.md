@@ -1,3 +1,11 @@
+---
+title: "LongPuzzleBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # LongPuzzleBench
 
 LongPuzzleBench evaluates GUI and computer-use agents on long-horizon visual puzzle games requiring multi-step spatial reasoning.

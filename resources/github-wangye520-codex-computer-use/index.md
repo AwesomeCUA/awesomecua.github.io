@@ -1,3 +1,11 @@
+---
+title: "wangye520 codex-computer-use (Cursor Port) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wangye520-codex-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # wangye520 codex-computer-use (Cursor Port)
 
 Port of OpenAI Codex's `@oai/sky` Computer Use engine to Cursor for screenshot-driven mouse and keyboard control.

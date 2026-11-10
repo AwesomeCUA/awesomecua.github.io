@@ -1,3 +1,11 @@
+---
+title: "dsh-preview · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-viger1-dsh-preview/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-preview
 
 面向 DeepSeek Harness 智能体的自验证浏览器预览循环，用于检查和验证实时前端变更。

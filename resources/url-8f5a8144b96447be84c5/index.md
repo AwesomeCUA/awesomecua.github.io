@@ -1,3 +1,11 @@
+---
+title: "OpenJev-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8f5a8144b96447be84c5/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpenJev-8B
 
 OpenJev-8B is a local decision model that scores typed options for browser agent operations and target elements in a single forward pass.

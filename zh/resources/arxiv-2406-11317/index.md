@@ -1,3 +1,11 @@
+---
+title: "GUICourse: From General Vision Language… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-11317/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # GUICourse: From General Vision Language Models to Versatile GUI Agents
 
 提出 GUIEnv、GUIAct 和 GUIChat 数据集，以培养视觉语言模型的 OCR、定位、组件知识和交互能力。
@@ -27,6 +35,18 @@ Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-11317/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-11317/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_11317,
+  title = {{GUICourse: From General Vision Language Models to Versatile GUI Agents}},
+  author = {{Wentong Chen} and {Junbo Cui} and {Jinyi Hu} and {Yujia Qin} and {Junjie Fang} and {Yue Zhao} and {Chongyi Wang} and {Jun Liu} and {Guirong Chen} and {Yupeng Huo} and {Yuan Yao} and {Yankai Lin} and {Zhiyuan Liu} and {Maosong Sun}},
+  year = {2024},
+  eprint = {2406.11317v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.11317v2},
+  note = {First published: 2024-06-17; Recorded arXiv version: v2; Recorded version updated: 2025-05-30T07:30:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

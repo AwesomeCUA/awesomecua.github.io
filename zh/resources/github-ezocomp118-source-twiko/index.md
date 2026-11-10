@@ -1,3 +1,11 @@
+---
+title: "Twiko · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ezocomp118-source-twiko/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Twiko
 
 自托管平台，为自主 AI 队友配置配有浏览器和终端的专用虚拟计算机。

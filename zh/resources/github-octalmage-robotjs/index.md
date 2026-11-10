@@ -1,3 +1,11 @@
+---
+title: "RobotJS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-octalmage-robotjs/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # RobotJS
 
 RobotJS 是一个原生 Node.js 桌面自动化库，可跨 OS 平台控制鼠标和键盘，并捕获屏幕位图。

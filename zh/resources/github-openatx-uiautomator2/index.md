@@ -1,3 +1,11 @@
+---
+title: "uiautomator2 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openatx-uiautomator2/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # uiautomator2
 
 uiautomator2 是一个 Python 库，通过设备端的 UiAutomator 服务控制 Android 设备，包括启动应用和操作界面元素。

@@ -1,3 +1,11 @@
+---
+title: "McGill-NLP/safearena · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-be4ca14d1724b0cf8314/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # McGill-NLP/safearena
 
 SafeArena 提供安全与有害任务分组，用于评估自主网页智能体的安全性；配套环境归档需申请权限后获取。

@@ -1,3 +1,11 @@
+---
+title: "OpenAgentSafety | AwesomeCUA"
+url: https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # OpenAgentSafety
 
 A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.

@@ -1,3 +1,11 @@
+---
+title: "OpenTeam | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raghavpillai-openteam/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenTeam
 
 Self-hosted multi-agent platform with persistent memory, browser automation, and computer-use execution.

@@ -1,3 +1,11 @@
+---
+title: "CURA: Certified Runtime Alarms for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-27808/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CURA: Certified Runtime Alarms for Computer-Use Agents
 
 CURA 基于遥测数据将计算机使用轨迹转化为序列式故障警报，并可在任务中途触发监督；其证书用于控制误报，研究还分别报告检测表现与事后监测的局限。
@@ -27,6 +35,18 @@ Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Ome
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-27808/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-27808/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27808,
+  title = {{CURA: Certified Runtime Alarms for Computer-Use Agents}},
+  author = {{Divake Kumar} and {Sina Tayebati} and {Devashri Naik} and {Amanda Sofie Rios} and {Nilesh Ahuja} and {Omesh Tickoo} and {Ranganath Krishnan} and {Amit Ranjan Trivedi}},
+  year = {2026},
+  eprint = {2608.27808v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27808v1},
+  note = {First published: 2026-08-28; Recorded arXiv version: v1; Recorded version updated: 2026-08-28T00:50:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

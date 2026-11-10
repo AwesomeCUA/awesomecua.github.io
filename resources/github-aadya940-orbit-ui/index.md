@@ -1,3 +1,11 @@
+---
+title: "Orbit UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aadya940-orbit-ui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Orbit UI
 
 Self-hosted visual workflow builder for authoring and running desktop computer-use automation inside Docker containers.

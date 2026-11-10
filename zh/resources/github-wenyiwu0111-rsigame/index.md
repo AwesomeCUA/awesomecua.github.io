@@ -1,3 +1,11 @@
+---
+title: "RSIGame · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wenyiwu0111-rsigame/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # RSIGame
 
 这是一个智能体游戏开发系统，会试玩生成的游戏，利用截图和运行证据指导修改，并通过重放游戏版本检查改动。

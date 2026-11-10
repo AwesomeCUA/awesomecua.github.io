@@ -1,3 +1,11 @@
+---
+title: "DataStates-LLM: Lazy Asynchronous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-10707/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

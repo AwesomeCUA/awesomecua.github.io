@@ -1,3 +1,11 @@
+---
+title: "local-browser-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yourself-q-local-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # local-browser-agent
 
 以本地运行为核心的浏览器智能体，通过 CDP 连接现有 Chrome 实例，并完全依靠本地 Ollama LLM 运行。

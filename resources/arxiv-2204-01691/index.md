@@ -1,3 +1,11 @@
+---
+title: "Do As I Can, Not As I Say: Grounding Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2204-01691/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
 
 Status: excluded from the active CUA catalog after scope review.

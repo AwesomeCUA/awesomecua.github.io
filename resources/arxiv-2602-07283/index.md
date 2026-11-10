@@ -1,3 +1,11 @@
+---
+title: "Mapping the Design Space of User Experience… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-07283/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Mapping the Design Space of User Experience for Computer Use Agents
 
 Develops a taxonomy of computer-use-agent interaction design through system review and practitioner interviews. A Wizard-of-Oz study then examines how users respond to normal, erroneous, and risky web-based execution, focusing on control, explanation, prompts, and mental models.
@@ -26,6 +34,18 @@ Ruijia Cheng, Jenny T. Liang, Eldon Schoop, Jeffrey Nichols
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-07283/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-07283/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_07283,
+  title = {{Mapping the Design Space of User Experience for Computer Use Agents}},
+  author = {{Ruijia Cheng} and {Jenny T. Liang} and {Eldon Schoop} and {Jeffrey Nichols}},
+  year = {2026},
+  eprint = {2602.07283v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.07283v1},
+  note = {First published: 2026-02-07; Recorded arXiv version: v1; Recorded version updated: 2026-02-07T00:19:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

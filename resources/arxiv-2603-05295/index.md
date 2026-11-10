@@ -1,3 +1,11 @@
+---
+title: "WebChain: A Large-Scale Human-Annotated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-05295/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces
 
 WebChain aligns human web-interaction trajectories with visual, structural and action data for agent training. It also introduces WebChainBench and a mid-training approach that separates spatial grounding from planning.
@@ -26,6 +34,18 @@ Sicheng Fan, Rui Wan, Yifei Leng, Gaoning Liang, Li Ling, Yanyi Shang, Dehan Kon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-05295/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-05295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_05295,
+  title = {{WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces}},
+  author = {{Sicheng Fan} and {Rui Wan} and {Yifei Leng} and {Gaoning Liang} and {Li Ling} and {Yanyi Shang} and {Dehan Kong}},
+  year = {2026},
+  eprint = {2603.05295v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.05295v3},
+  note = {First published: 2026-03-05; Recorded arXiv version: v3; Recorded version updated: 2026-04-14T08:41:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

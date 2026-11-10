@@ -1,3 +1,11 @@
+---
+title: "aevra-desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-the-long-ride-aevra-desktop-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # aevra-desktop
 
 A desktop-control MCP server that lets agents inspect and operate application controls through accessibility APIs, with screenshots and an application allowlist.

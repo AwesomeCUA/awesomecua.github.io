@@ -1,3 +1,11 @@
+---
+title: "Lightweight Neural App Control | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-17883/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Lightweight Neural App Control
 
 LiMAC combines a compact Action Transformer with a fine-tuned vision-language model for Android app control. It uses textual goals and histories of screenshots and UI trees to predict actions, with evaluation on two mobile-control datasets.
@@ -26,6 +34,18 @@ Filippos Christianos, Georgios Papoudakis, Thomas Coste, Jianye Hao, Jun Wang, K
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-17883/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-17883/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_17883,
+  title = {{Lightweight Neural App Control}},
+  author = {{Filippos Christianos} and {Georgios Papoudakis} and {Thomas Coste} and {Jianye Hao} and {Jun Wang} and {Kun Shao}},
+  year = {2024},
+  eprint = {2410.17883v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.17883v2},
+  note = {First published: 2024-10-23; Recorded arXiv version: v2; Recorded version updated: 2025-02-12T17:51:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

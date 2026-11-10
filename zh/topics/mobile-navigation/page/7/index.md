@@ -1,3 +1,11 @@
+---
+title: "手机操作：Computer-Use 研究与资源（第 7 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/mobile-navigation/page/7/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 手机操作：Computer-Use 研究与资源（第 7 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/7/

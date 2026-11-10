@@ -1,3 +1,11 @@
+---
+title: "Composing Verifiable Conceptual Models via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-21565/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Chrome DevTools MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/
+updated: 2026-10-18
+type: tool
+lang: en
+---
+
 # Chrome DevTools MCP
 
 MCP tools for browser control and inspection through Chrome DevTools.

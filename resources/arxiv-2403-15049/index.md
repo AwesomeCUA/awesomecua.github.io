@@ -1,3 +1,11 @@
+---
+title: "Continual Vision-and-Language Navigation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-15049/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Continual Vision-and-Language Navigation
 
 Status: excluded from the active CUA catalog after scope review.

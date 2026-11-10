@@ -1,3 +1,11 @@
+---
+title: "AdaGround: Token-Normalized Adaptive Zooming… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36874/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AdaGround: Token-Normalized Adaptive Zooming with Verifier-in-the-Loop Refinement for GUI Grounding
 
 Introduces AdaGround, a training-free GUI grounding method that adjusts screenshot zoom to target size and uses a click verifier to refine or reject predictions.
@@ -26,6 +34,18 @@ Bingchao Wang, Yongcheng Jing, Chengyu Wang, Jun Huang, Jie Yang, Wei Liu, Dache
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36874/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36874/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36874,
+  title = {{AdaGround: Token-Normalized Adaptive Zooming with Verifier-in-the-Loop Refinement for GUI Grounding}},
+  author = {{Bingchao Wang} and {Yongcheng Jing} and {Chengyu Wang} and {Jun Huang} and {Jie Yang} and {Wei Liu} and {Dacheng Tao}},
+  year = {2026},
+  eprint = {2610.36874v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36874v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T09:12:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

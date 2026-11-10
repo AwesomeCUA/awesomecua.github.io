@@ -1,3 +1,11 @@
+---
+title: "BrowserPilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-naymul-browserpilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # BrowserPilot
 
 BrowserPilot 是开源的隐蔽式浏览器智能体，可执行自然语言网页导航和结构化抓取工作流。

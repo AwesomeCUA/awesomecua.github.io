@@ -1,3 +1,11 @@
+---
+title: "LlamaTouch · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-llamatouch-llamatouch/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # LlamaTouch
 
 LlamaTouch 利用应用状态信息评估移动端 UI 任务。

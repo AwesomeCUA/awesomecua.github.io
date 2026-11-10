@@ -1,3 +1,11 @@
+---
+title: "USDCraft: Geometrically Grounded Programmatic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11322/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation
 
 Bibliographic record for USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chuanrui Zhang, Zaijia Yang, Duomin Wang, Lu Shi, Daquan Zhou, Ruihua Zhang, Ziw
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11322/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11322/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11322,
+  title = {{USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation}},
+  author = {{Chuanrui Zhang} and {Zaijia Yang} and {Duomin Wang} and {Lu Shi} and {Daquan Zhou} and {Ruihua Zhang} and {Ziwei Wang}},
+  year = {2026},
+  eprint = {2610.11322v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11322v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T06:23:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

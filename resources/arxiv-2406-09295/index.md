@@ -1,3 +1,11 @@
+---
+title: "AlignMMBench: Evaluating Chinese Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-09295/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models
 
 Bibliographic record for AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuhang Wu, Wenmeng Yu, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Di
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-09295/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-09295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_09295,
+  title = {{AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models}},
+  author = {{Yuhang Wu} and {Wenmeng Yu} and {Yean Cheng} and {Yan Wang} and {Xiaohan Zhang} and {Jiazheng Xu} and {Ming Ding} and {Yuxiao Dong}},
+  year = {2024},
+  eprint = {2406.09295v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.09295v3},
+  note = {First published: 2024-06-13; Recorded arXiv version: v3; Recorded version updated: 2025-06-04T07:53:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

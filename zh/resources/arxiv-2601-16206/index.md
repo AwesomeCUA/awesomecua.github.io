@@ -1,3 +1,11 @@
+---
+title: "Computer Environments Elicit General… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-16206/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Computer Environments Elicit General Agentic Intelligence in LLMs
 
 LLM-in-Sandbox 为智能体提供可访问资源、管理文件和执行代码的简化计算机环境；LLM-in-Sandbox-RL 则训练模型使用该环境。
@@ -27,6 +35,18 @@ Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Way
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-16206/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-16206/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_16206,
+  title = {{Computer Environments Elicit General Agentic Intelligence in LLMs}},
+  author = {{Daixuan Cheng} and {Shaohan Huang} and {Yuxian Gu} and {Huatong Song} and {Guoxin Chen} and {Li Dong} and {Wayne Xin Zhao} and {Ji-Rong Wen} and {Furu Wei}},
+  year = {2026},
+  eprint = {2601.16206v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.16206v3},
+  note = {First published: 2026-01-22; Recorded arXiv version: v3; Recorded version updated: 2026-04-08T06:37:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

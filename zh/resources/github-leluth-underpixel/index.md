@@ -1,3 +1,11 @@
+---
+title: "UnderPixel · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leluth-underpixel/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UnderPixel
 
 Chrome 扩展和 MCP 服务器，将带时间戳的屏幕视觉交互与底层网络 API 调用关联起来。

@@ -1,3 +1,11 @@
+---
+title: "OpenWebAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-openwebagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenWebAgent
 
 OpenWebAgent 提供 Chrome 扩展、HTML 简化解析器和后端服务器，用于构建由 LLM 驱动的网页浏览智能体。

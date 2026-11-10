@@ -1,3 +1,11 @@
+---
+title: "VisualWebBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-visualwebbench-visualwebbench/
+updated: 2026-11-02
+type: benchmark
+lang: zh-CN
+---
+
 # VisualWebBench
 
 评估多模态模型在视觉网页理解任务上的表现。

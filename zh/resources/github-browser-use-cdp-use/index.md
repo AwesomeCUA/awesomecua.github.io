@@ -1,3 +1,11 @@
+---
+title: "CDP Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-cdp-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # CDP Use
 
 一个用于 Chrome DevTools Protocol 的 Python 客户端生成器，提供带类型标注的浏览器命令和事件处理器，以支持页面导航与检查。

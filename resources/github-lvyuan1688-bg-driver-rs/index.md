@@ -1,3 +1,11 @@
+---
+title: "bg-driver-rs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lvyuan1688-bg-driver-rs/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # bg-driver-rs
 
 Rust background computer-use driver for macOS, Windows, and Linux.

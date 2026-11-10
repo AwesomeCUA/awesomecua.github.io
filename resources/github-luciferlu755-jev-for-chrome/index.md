@@ -1,3 +1,11 @@
+---
+title: "jev-for-chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # jev-for-chrome
 
 Chrome extension that drives web browsing, clicking, and typing using TypeSafe Jev System-One decision models.

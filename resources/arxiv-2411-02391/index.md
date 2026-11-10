@@ -1,3 +1,11 @@
+---
+title: "Attacking Vision-Language Computer Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-02391/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Attacking Vision-Language Computer Agents via Pop-ups
 
 Tests whether adversarial visual pop-ups divert computer agents from intended tasks in desktop and web benchmark environments.
@@ -26,6 +34,18 @@ Yanzhe Zhang, Tao Yu, Diyi Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-02391/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-02391/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_02391,
+  title = {{Attacking Vision-Language Computer Agents via Pop-ups}},
+  author = {{Yanzhe Zhang} and {Tao Yu} and {Diyi Yang}},
+  year = {2024},
+  eprint = {2411.02391v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.02391v2},
+  note = {First published: 2024-11-04; Recorded arXiv version: v2; Recorded version updated: 2025-05-24T16:15:46Z.}
+}
+```
 
 ## Publication record
 

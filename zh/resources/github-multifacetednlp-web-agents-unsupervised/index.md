@@ -1,3 +1,11 @@
+---
+title: "Grounded Language Agent for Product Search · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-multifacetednlp-web-agents-unsupervised/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Grounded Language Agent for Product Search
 
 提供在 WebShop 上使用符号动作和值引导搜索的无监督网页商品搜索智能体的训练与评测代码。

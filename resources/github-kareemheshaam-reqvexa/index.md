@@ -1,3 +1,11 @@
+---
+title: "Reqvexa | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kareemheshaam-reqvexa/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Reqvexa
 
 HAR-based HTTP provenance analyzer that traces cookies, tokens, and headers behind browser-agent network requests.

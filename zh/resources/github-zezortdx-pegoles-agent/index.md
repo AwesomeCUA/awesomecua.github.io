@@ -1,3 +1,11 @@
+---
+title: "Pegoles Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zezortdx-pegoles-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Pegoles Agent
 
 Pegoles Agent 使用 macOS 计算机使用控制器操作隔离的 Linux 虚拟机，并在执行前进行确定性的策略检查。

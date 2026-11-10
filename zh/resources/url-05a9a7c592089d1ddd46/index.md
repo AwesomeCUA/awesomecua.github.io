@@ -1,3 +1,11 @@
+---
+title: "META-GUI dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-05a9a7c592089d1ddd46/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # META-GUI dataset
 
 META-GUI 的 Hub 发布版，收录智能体操作移动应用的任务型对话；每轮将对话与截图、视图层级 XML、记录的 GUI 操作和回复配对。

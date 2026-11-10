@@ -1,3 +1,11 @@
+---
+title: "Training Computer Use Agents to Assess the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-26020/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Training Computer Use Agents to Assess the Usability of Graphical User Interfaces
 
 uxCUA learns to assess interface usability by choosing interaction flows, executing them and predicting a numerical usability score. Training uses interactive UIs with usability labels and human preferences, with evaluations on synthetic and real interfaces.
@@ -26,6 +34,18 @@ Alice Gao, Weixi Tong, Rishab Vempati, Katharina Reinecke, R. Benjamin Shapiro, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-26020/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-26020/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_26020,
+  title = {{Training Computer Use Agents to Assess the Usability of Graphical User Interfaces}},
+  author = {{Alice Gao} and {Weixi Tong} and {Rishab Vempati} and {Katharina Reinecke} and {R. Benjamin Shapiro} and {Tianyi Zhang} and {Jason Wu}},
+  year = {2026},
+  eprint = {2604.26020v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.26020v1},
+  note = {First published: 2026-04-28; Recorded arXiv version: v1; Recorded version updated: 2026-04-28T18:04:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

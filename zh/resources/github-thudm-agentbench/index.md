@@ -1,3 +1,11 @@
+---
+title: "AgentBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-agentbench/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # AgentBench
 
 智能体评估套件，提供容器化任务和函数调用接口，涵盖操作系统及购物环境。

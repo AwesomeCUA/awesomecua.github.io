@@ -1,3 +1,11 @@
+---
+title: "Fill in the Blank: Context-aware Automated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-04732/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing
 
 Introduces QTypist, an LLM-based method that generates text inputs from mobile GUI context and integrates with automated testing tools to help them reach further app pages.
@@ -26,6 +34,18 @@ Zhe Liu, Chunyang Chen, Junjie Wang, Xing Che, Yuekai Huang, Jun Hu, Qing Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2212-04732/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2212-04732/citation.csl.json
+
+```bibtex
+@misc{arxiv_2212_04732,
+  title = {{Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing}},
+  author = {{Zhe Liu} and {Chunyang Chen} and {Junjie Wang} and {Xing Che} and {Yuekai Huang} and {Jun Hu} and {Qing Wang}},
+  year = {2022},
+  eprint = {2212.04732v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2212.04732v1},
+  note = {First published: 2022-12-09; Recorded arXiv version: v1; Recorded version updated: 2022-12-09T09:00:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

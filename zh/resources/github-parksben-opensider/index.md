@@ -1,3 +1,11 @@
+---
+title: "OpenSider · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-parksben-opensider/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OpenSider
 
 浏览器侧边栏扩展，通过 Agent Communication Protocol (ACP) 将网页连接到本地 Agent CLI。

@@ -1,3 +1,11 @@
+---
+title: "SpiritSight-Agent 8B base | AwesomeCUA"
+url: https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # SpiritSight-Agent 8B base
 
 An InternVL2-based visual GUI checkpoint distributed for grounding and interface navigation, with the publisher recommending task-specific fine-tuning of the base release.

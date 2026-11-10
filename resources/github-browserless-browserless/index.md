@@ -1,3 +1,11 @@
+---
+title: "Browserless (infrastructure) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browserless-browserless/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Browserless
 
 Browserless runs headless browsers as a Docker service for Puppeteer and Playwright scripts, with session concurrency controls and a live debugging view.

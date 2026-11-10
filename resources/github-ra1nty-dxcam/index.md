@@ -1,3 +1,11 @@
+---
+title: "DXcam | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ra1nty-dxcam/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DXcam
 
 DXcam is a high-frequency Python screen capture library for Windows using the Desktop Duplication API at up to 240Hz for GUI agents.

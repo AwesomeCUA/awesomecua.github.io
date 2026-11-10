@@ -1,3 +1,11 @@
+---
+title: "gui_agent (FastMCP Desktop Server) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leandre755-gui-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gui_agent (FastMCP Desktop Server)
 
 FastMCP server for Linux and Windows desktop computer use providing low-latency screen capture, OCR, and input automation.

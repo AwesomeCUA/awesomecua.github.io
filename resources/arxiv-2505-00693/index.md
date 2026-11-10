@@ -1,3 +1,11 @@
+---
+title: "Robotic Visual Instruction | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-00693/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Robotic Visual Instruction
 
 Status: excluded from the active CUA catalog after scope review.

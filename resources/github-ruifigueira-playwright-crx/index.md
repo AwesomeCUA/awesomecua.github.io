@@ -1,3 +1,11 @@
+---
+title: "Playwright CRX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ruifigueira-playwright-crx/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Playwright CRX
 
 Chrome extension edition of Playwright that drives open browser tabs through chrome.debugger, usable as a library and as an extension that records and replays scripts with tracing.

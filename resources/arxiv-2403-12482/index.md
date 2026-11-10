@@ -1,3 +1,11 @@
+---
+title: "Embodied LLM Agents Learn to Cooperate in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-12482/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Embodied LLM Agents Learn to Cooperate in Organized Teams
 
 Bibliographic record for Embodied LLM Agents Learn to Cooperate in Organized Teams. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xudong Guo, Kaixuan Huang, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-12482/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-12482/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_12482,
+  title = {{Embodied LLM Agents Learn to Cooperate in Organized Teams}},
+  author = {{Xudong Guo} and {Kaixuan Huang} and {Jiale Liu} and {Wenhui Fan} and {Natalia Vélez} and {Qingyun Wu} and {Huazheng Wang} and {Thomas L. Griffiths} and {Mengdi Wang}},
+  year = {2024},
+  eprint = {2403.12482v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.12482v2},
+  note = {First published: 2024-03-19; Recorded arXiv version: v2; Recorded version updated: 2024-05-23T06:29:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WebDroid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-loyality7-webdroid/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WebDroid
 
 Playwright-shaped browser automation library for driving live Chromium pages inside Android applications.

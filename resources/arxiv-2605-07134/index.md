@@ -1,3 +1,11 @@
+---
+title: "Region4Web: Rethinking Observation Space… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-07134/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Region4Web: Rethinking Observation Space Granularity for Web Agents
 
 Reorganizes webpage accessibility trees into functional regions through hierarchical decomposition and semantic abstraction. PageDigest supplies a persistent region-level observation to web agents, evaluated on WebArena.
@@ -26,6 +34,18 @@ Donguk Kwon, Dongha Lee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-07134/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-07134/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_07134,
+  title = {{Region4Web: Rethinking Observation Space Granularity for Web Agents}},
+  author = {{Donguk Kwon} and {Dongha Lee}},
+  year = {2026},
+  eprint = {2605.07134v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.07134v1},
+  note = {First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T02:11:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

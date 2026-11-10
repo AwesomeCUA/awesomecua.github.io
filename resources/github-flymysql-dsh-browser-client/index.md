@@ -1,3 +1,11 @@
+---
+title: "DSH Browser Client | AwesomeCUA"
+url: https://awesomecua.com/resources/github-flymysql-dsh-browser-client/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DSH Browser Client
 
 Floating in-page LLM browser assistant for DeepSeek Harness enabling non-technical users to automate webpage workflows.

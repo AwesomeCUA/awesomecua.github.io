@@ -1,3 +1,11 @@
+---
+title: "Trusted WebMCP Actions | AwesomeCUA"
+url: https://awesomecua.com/resources/github-markneville-trusted-webmcp-actions/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Trusted WebMCP Actions
 
 Reference architecture for cryptographically verifiable user authority on consequential WebMCP browser-agent actions.

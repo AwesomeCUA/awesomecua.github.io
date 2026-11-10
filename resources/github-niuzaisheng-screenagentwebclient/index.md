@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent Web Client | AwesomeCUA"
+url: https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ScreenAgent Web Client
 
 ScreenAgent Web Client connects language models to remote desktops through a browser and VNC, representing mouse and keyboard actions as structured calls.

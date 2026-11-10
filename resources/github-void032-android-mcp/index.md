@@ -1,3 +1,11 @@
+---
+title: "android_mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-void032-android-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # android_mcp
 
 Model Context Protocol server giving coding agents screenshot, tap, swipe, and UI inspection control over Android devices.

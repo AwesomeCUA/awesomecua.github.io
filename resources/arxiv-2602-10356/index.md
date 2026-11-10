@@ -1,3 +1,11 @@
+---
+title: "Autonomous Continual Learning for Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-10356/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents
 
 ACuRL uses autonomous interface exploration and an adaptive task curriculum to continually train computer-use policies with reinforcement learning. CUAJudge supplies outcome feedback, and experiments study adaptation across desktop applications and environment changes.
@@ -26,6 +34,18 @@ Tianci Xue, Zeyi Liao, Tianneng Shi, Zilu Wang, Kai Zhang, Dawn Song, Yu Su, Hua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-10356/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-10356/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_10356,
+  title = {{Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents}},
+  author = {{Tianci Xue} and {Zeyi Liao} and {Tianneng Shi} and {Zilu Wang} and {Kai Zhang} and {Dawn Song} and {Yu Su} and {Huan Sun}},
+  year = {2026},
+  eprint = {2602.10356v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.10356v2},
+  note = {First published: 2026-02-10; Recorded arXiv version: v2; Recorded version updated: 2026-05-11T00:11:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

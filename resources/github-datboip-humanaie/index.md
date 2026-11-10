@@ -1,3 +1,11 @@
+---
+title: "HumanAIE (Human AI Eyes) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-datboip-humanaie/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # HumanAIE (Human AI Eyes)
 
 HumanAIE is a shared browser workspace for human-AI collaboration where users highlight visual regions and co-steer web agents.

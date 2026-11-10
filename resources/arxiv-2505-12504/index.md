@@ -1,3 +1,11 @@
+---
+title: "CPGD: Toward Stable Rule-based Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12504/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CPGD: Toward Stable Rule-based Reinforcement Learning for Language Models
 
 Bibliographic record for CPGD: Toward Stable Rule-based Reinforcement Learning for Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zongkai Liu, Fanqing Meng, Lingxiao Du, Zhixiang Zhou, Chao Yu, Wenqi Shao, Qiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-12504/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-12504/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_12504,
+  title = {{CPGD: Toward Stable Rule-based Reinforcement Learning for Language Models}},
+  author = {{Zongkai Liu} and {Fanqing Meng} and {Lingxiao Du} and {Zhixiang Zhou} and {Chao Yu} and {Wenqi Shao} and {Qiaosheng Zhang}},
+  year = {2025},
+  eprint = {2505.12504v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.12504v1},
+  note = {First published: 2025-05-18; Recorded arXiv version: v1; Recorded version updated: 2025-05-18T17:44:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

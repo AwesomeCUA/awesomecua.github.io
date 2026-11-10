@@ -1,3 +1,11 @@
+---
+title: "browser-harness-bidi · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-andrewdzzz-browser-harness-bidi/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # browser-harness-bidi
 
 以 WebDriver BiDi 为先的浏览器自动化测试框架，以最少的依赖将 LLM 直接连接到实时浏览器。

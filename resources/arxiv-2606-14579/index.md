@@ -1,3 +1,11 @@
+---
+title: "VISTA: View-Consistent Self-Verified Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-14579/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # VISTA: View-Consistent Self-Verified Training for GUI Grounding
 
 VISTA forms GRPO comparison groups from target-preserving crops of the same GUI instance with exactly remapped target boxes. A conditional, advantage-weighted cross-view anchor supplies additional supervision without entering the group baseline, and evaluation includes view-consistency robustness.
@@ -26,6 +34,18 @@ Xinyu Qiu, Yunzhu Zhang, Heng Jia, Shuheng Shen, Changhua Meng, Linchao Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-14579/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-14579/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_14579,
+  title = {{VISTA: View-Consistent Self-Verified Training for GUI Grounding}},
+  author = {{Xinyu Qiu} and {Yunzhu Zhang} and {Heng Jia} and {Shuheng Shen} and {Changhua Meng} and {Linchao Zhu}},
+  year = {2026},
+  eprint = {2606.14579v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.14579v1},
+  note = {First published: 2026-06-12; Recorded arXiv version: v1; Recorded version updated: 2026-06-12T15:58:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Evolution of AI Agent Registry Solutions… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-03095/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Evolution of AI Agent Registry Solutions: Centralized, Enterprise, and Distributed Approaches
 
 Bibliographic record for Evolution of AI Agent Registry Solutions: Centralized, Enterprise, and Distributed Approaches. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Aditi Singh, Abul Ehtesham, Mahesh Lambe, Jared James Grogan, Abhishek Singh, Sa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-03095/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-03095/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_03095,
+  title = {{Evolution of AI Agent Registry Solutions: Centralized, Enterprise, and Distributed Approaches}},
+  author = {{Aditi Singh} and {Abul Ehtesham} and {Mahesh Lambe} and {Jared James Grogan} and {Abhishek Singh} and {Saket Kumar} and {Luca Muscariello} and {Vijoy Pandey} and {Guillaume Sauvage De Saint Marc} and {Pradyumna Chari} and {Ramesh Raskar}},
+  year = {2025},
+  eprint = {2508.03095v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.03095v3},
+  note = {First published: 2025-08-05; Recorded arXiv version: v3; Recorded version updated: 2025-10-20T17:13:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

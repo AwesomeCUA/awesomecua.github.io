@@ -1,3 +1,11 @@
+---
+title: "TideSurf · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tidesurf-core/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TideSurf
 
 TideSurf 通过精简的结构化 DOM 压缩将 Chromium 连接到 LLM 智能体，每个网页只需 50 至 200 个 token。

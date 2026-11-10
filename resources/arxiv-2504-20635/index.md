@@ -1,3 +1,11 @@
+---
+title: "Bridging the Generalisation Gap: Synthetic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-20635/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Bridging the Generalisation Gap: Synthetic Data Generation for Multi-Site Clinical Model Validation
 
 Status: excluded from the active CUA catalog after scope review.

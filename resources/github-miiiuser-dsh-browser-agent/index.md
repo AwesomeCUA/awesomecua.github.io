@@ -1,3 +1,11 @@
+---
+title: "Miiiuser dsh-browser-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-miiiuser-dsh-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Miiiuser dsh-browser-agent
 
 Playwright browser automation and vision grounding toolkit for text-only LLMs on DeepSeek Harness.

@@ -1,3 +1,11 @@
+---
+title: "AppVLM: A Lightweight Vision Language… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-06395/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AppVLM: A Lightweight Vision Language Model for Online App Control
 
 AppVLM 先从 AndroidControl 学习应用操作，再利用 AndroidWorld 中收集的数据优化策略；研究对比了这款轻量级视觉语言手机智能体的离线操作预测与在线任务完成表现。
@@ -27,6 +35,18 @@ Georgios Papoudakis, Thomas Coste, Zhihao Wu, Jianye Hao, Jun Wang, Kun Shao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-06395/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-06395/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_06395,
+  title = {{AppVLM: A Lightweight Vision Language Model for Online App Control}},
+  author = {{Georgios Papoudakis} and {Thomas Coste} and {Zhihao Wu} and {Jianye Hao} and {Jun Wang} and {Kun Shao}},
+  year = {2025},
+  eprint = {2502.06395v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.06395v1},
+  note = {First published: 2025-02-10; Recorded arXiv version: v1; Recorded version updated: 2025-02-10T12:32:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

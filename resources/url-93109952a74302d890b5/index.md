@@ -1,3 +1,11 @@
+---
+title: "Claude Code | AwesomeCUA"
+url: https://awesomecua.com/resources/url-93109952a74302d890b5/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Claude Code
 
 Anthropic agentic coding tool for terminal, IDE, desktop and web, with an opt-in computer-use preview that screenshots and operates approved apps on macOS (CLI) and on macOS and Windows (Desktop).

@@ -1,3 +1,11 @@
+---
+title: "ChromeClaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-algopian-chromeclaw/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ChromeClaw
 
 ChromeClaw 在 Chrome 扩展沙箱内运行自主浏览器和工作区智能体，配备支持多家提供商的 LLM 和标签页自动化工具。

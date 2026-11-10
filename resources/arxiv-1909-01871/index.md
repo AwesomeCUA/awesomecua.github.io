@@ -1,3 +1,11 @@
+---
+title: "Help, Anna! Visual Navigation with Natural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1909-01871/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning
 
 Bibliographic record for Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Khanh Nguyen, Hal Daumé
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1909-01871/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1909-01871/citation.csl.json
+
+```bibtex
+@misc{arxiv_1909_01871,
+  title = {{Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning}},
+  author = {{Khanh Nguyen} and {Hal Daumé}},
+  year = {2019},
+  eprint = {1909.01871v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1909.01871v6},
+  note = {First published: 2019-09-04; Recorded arXiv version: v6; Recorded version updated: 2019-11-22T16:11:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

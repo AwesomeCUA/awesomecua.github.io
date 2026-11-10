@@ -1,3 +1,11 @@
+---
+title: "Colossus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-richardanaya-colossus/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Colossus
 
 Colossus is a voice-controlled multi-agent development platform for coordinating software engineering tasks.

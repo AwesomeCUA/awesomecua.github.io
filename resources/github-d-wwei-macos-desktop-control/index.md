@@ -1,3 +1,11 @@
+---
+title: "macos-desktop-control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-d-wwei-macos-desktop-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macos-desktop-control
 
 Native macOS desktop automation MCP server providing screen capture, mouse/keyboard input, window management, and iOS Simulator control.

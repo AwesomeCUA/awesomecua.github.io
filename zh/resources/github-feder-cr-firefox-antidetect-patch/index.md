@@ -1,3 +1,11 @@
+---
+title: "firefox_antidetect_patch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-firefox-antidetect-patch/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # firefox_antidetect_patch
 
 基于 Mozilla 发布标签的 Firefox 补丁系列，每项功能一个文件夹，在引擎层加入指纹、网络与 Juggler 自动化补丁，用于构建 invisible_playwright 所用的反检测 Firefox。

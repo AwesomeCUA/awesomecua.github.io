@@ -1,3 +1,11 @@
+---
+title: "clawtouch-skills · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinqiao-oss-clawtouch-skills/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # clawtouch-skills
 
 这套 Markdown 操作指南为通过 HID 控制桌面的智能体提供特定应用的菜单路径、快捷键和交互技巧。

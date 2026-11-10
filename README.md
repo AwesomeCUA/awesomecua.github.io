@@ -43,7 +43,7 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**5,354 curated resources** · **1,718 reviewed papers and surveys** · **104 discovery documents**
+**5,347 curated resources** · **1,718 reviewed papers and surveys** · **104 discovery documents**
 
 Evidence snapshot: 2026-11-10T08:20:17Z. 1,188 records awaiting review and 181 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
 
@@ -60,11 +60,11 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | Learning resources | 38 | [Open directory](https://awesomecua.com/categories/learning/) |
 | Models and checkpoints | 475 | [Open directory](https://awesomecua.com/categories/model/) |
 | Datasets | 278 | [Open directory](https://awesomecua.com/categories/dataset/) |
-| Benchmarks | 310 | [Open directory](https://awesomecua.com/categories/benchmark/) |
-| Agents | 481 | [Open directory](https://awesomecua.com/categories/agent/) |
-| Frameworks | 675 | [Open directory](https://awesomecua.com/categories/framework/) |
+| Benchmarks | 309 | [Open directory](https://awesomecua.com/categories/benchmark/) |
+| Agents | 479 | [Open directory](https://awesomecua.com/categories/agent/) |
+| Frameworks | 672 | [Open directory](https://awesomecua.com/categories/framework/) |
 | Infrastructure | 122 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
-| Tools | 1,163 | [Open directory](https://awesomecua.com/categories/tool/) |
+| Tools | 1,162 | [Open directory](https://awesomecua.com/categories/tool/) |
 | Products | 75 | [Open directory](https://awesomecua.com/categories/product/) |
 | Publishers | 19 | [Open directory](https://awesomecua.com/categories/company/) |
 

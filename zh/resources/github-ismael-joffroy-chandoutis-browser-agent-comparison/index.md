@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Comparison (4 Approaches) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Browser Agent Comparison (4 Approaches)
 
 从任务完成情况和成本两方面比较四种 AI 浏览器控制方式：Chrome 扩展程序、Playwright、Browser Use V3 和 CLI。

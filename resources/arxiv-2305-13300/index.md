@@ -1,3 +1,11 @@
+---
+title: "Adaptive Chameleon or Stubborn Sloth… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-13300/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts
 
 Status: excluded from the active CUA catalog after scope review.

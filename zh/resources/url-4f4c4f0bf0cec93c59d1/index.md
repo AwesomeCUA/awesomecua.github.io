@@ -1,3 +1,11 @@
+---
+title: "Mind2Web 2 task data and judge scripts · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4f4c4f0bf0cec93c59d1/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Mind2Web 2 task data and judge scripts
 
 Mind2Web 2 在 Hub 上自动设置访问限制的发布版：用于长程自主网页搜索的开发集与测试集任务 CSV，以及充当评判智能体的 130 个逐任务 Python 评估脚本。

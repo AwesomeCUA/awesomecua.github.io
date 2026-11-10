@@ -1,3 +1,11 @@
+---
+title: "AClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magnusdot-aclaw/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AClaw
 
 Packaged local command center for running and monitoring personal OpenClaw computer-use agents.

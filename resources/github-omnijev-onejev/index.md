@@ -1,3 +1,11 @@
+---
+title: "OneJev | AwesomeCUA"
+url: https://awesomecua.com/resources/github-omnijev-onejev/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # OneJev
 
 OneJev is a multimodal System-One decision model based on Qwen that returns calibrated probabilities over typed action choices.

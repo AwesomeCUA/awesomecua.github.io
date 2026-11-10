@@ -1,3 +1,11 @@
+---
+title: "MirrorGuard code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-whitzardagent-mirrorguard/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # MirrorGuard code
 
 MirrorGuard 流程在文本式 GUI 模拟器中合成有风险与正常的计算机使用轨迹，构建将不安全思路纠正为安全思路的训练数据，并将纠正器接入 OSWorld 风格的智能体。

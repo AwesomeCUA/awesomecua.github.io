@@ -1,3 +1,11 @@
+---
+title: "cursory-js | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jwriter20-cursory-js/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # cursory-js
 
 A TypeScript utility that generates timed mouse paths and documents how to play them back through browser input events.

@@ -1,3 +1,11 @@
+---
+title: "Language Conditioned Imitation Learning over… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-07648/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Language Conditioned Imitation Learning over Unstructured Data
 
 Status: excluded from the active CUA catalog after scope review.

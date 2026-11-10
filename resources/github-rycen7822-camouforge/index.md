@@ -1,3 +1,11 @@
+---
+title: "CamouForge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rycen7822-camouforge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # CamouForge
 
 Native Windows GUI manager for configuring and launching isolated Camoufox stealth browser profiles.

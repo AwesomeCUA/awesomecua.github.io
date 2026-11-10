@@ -1,3 +1,11 @@
+---
+title: "R-WoM: Retrieval-augmented World Model For… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-11892/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # R-WoM: Retrieval-augmented World Model For Computer-use Agents
 
 R-WoM evaluates how well world models predict nearby GUI states, align complete procedures, and recognize milestone transitions. It retrieves external tutorials to guide simulated future interactions, with experiments on subsets of OSWorld and WebArena.
@@ -26,6 +34,18 @@ Kai Mei, Jiang Guo, Shuaichen Chang, Mingwen Dong, Dongkyu Lee, Xing Niu, Jiaron
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-11892/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-11892/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_11892,
+  title = {{R-WoM: Retrieval-augmented World Model For Computer-use Agents}},
+  author = {{Kai Mei} and {Jiang Guo} and {Shuaichen Chang} and {Mingwen Dong} and {Dongkyu Lee} and {Xing Niu} and {Jiarong Jiang}},
+  year = {2025},
+  eprint = {2510.11892v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.11892v2},
+  note = {First published: 2025-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-03-09T15:25:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

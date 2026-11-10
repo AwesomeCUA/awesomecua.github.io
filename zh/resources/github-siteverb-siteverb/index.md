@@ -1,3 +1,11 @@
+---
+title: "Siteverb · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-siteverb-siteverb/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Siteverb
 
 用于在网页应用中编写、测试和发布经过验证的 WebMCP 用户流程的工具包。

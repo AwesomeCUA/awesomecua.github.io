@@ -1,3 +1,11 @@
+---
+title: "Wuying Agentic Mobile · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-df3102617f3a66c44fc9/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Wuying Agentic Mobile
 
 阿里云 Wuying 服务在云端 Android 容器运行 Qwen 驱动的智能体（使用 OpenClaw 的 MobileUseAgent），跨应用执行自然语言任务，用于流程自动化和应用测试。

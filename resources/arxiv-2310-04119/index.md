@@ -1,3 +1,11 @@
+---
+title: "Quantum computing using floating electrons on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-04119/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum computing using floating electrons on cryogenic substrates: Potential And Challenges
 
 Status: excluded from the active CUA catalog after scope review.

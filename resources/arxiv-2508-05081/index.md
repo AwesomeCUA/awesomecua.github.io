@@ -1,3 +1,11 @@
+---
+title: "Cognitive Duality for Adaptive Web Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-05081/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Cognitive Duality for Adaptive Web Agents
 
 Introduces CogniWeb, which switches between fast reactive processing and slower deliberative reasoning according to task complexity. WebArena experiments examine this combination of learned behaviors and online planning.
@@ -26,6 +34,18 @@ Jiarun Liu, Chunhong Zhang, Zheng Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-05081/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-05081/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_05081,
+  title = {{Cognitive Duality for Adaptive Web Agents}},
+  author = {{Jiarun Liu} and {Chunhong Zhang} and {Zheng Hu}},
+  year = {2025},
+  eprint = {2508.05081v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.05081v1},
+  note = {First published: 2025-08-07; Recorded arXiv version: v1; Recorded version updated: 2025-08-07T07:05:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

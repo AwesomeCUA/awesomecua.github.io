@@ -1,3 +1,11 @@
+---
+title: "GUI Grounding via Iterative Narrowing · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ant-8-gui-grounding-via-iterative-narrowing/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # GUI Grounding via Iterative Narrowing
 
 实现无需训练的迭代式视觉裁剪与逐步缩小范围方法，以改进 MLLM 在 GUI 截图上的坐标定位。

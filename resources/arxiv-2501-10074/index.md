@@ -1,3 +1,11 @@
+---
+title: "SpatialCoT: Advancing Spatial Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-10074/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
 
 Bibliographic record for SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuecheng Liu, Dafeng Chi, Shiguang Wu, Zhanguang Zhang, Yaochen Hu, Lingfeng Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-10074/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-10074/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_10074,
+  title = {{SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning}},
+  author = {{Yuecheng Liu} and {Dafeng Chi} and {Shiguang Wu} and {Zhanguang Zhang} and {Yaochen Hu} and {Lingfeng Zhang} and {Yingxue Zhang} and {Shuang Wu} and {Tongtong Cao} and {Guowei Huang} and {Helong Huang} and {Guangjian Tian} and {Weichao Qiu} and {Xingyue Quan} and {Jianye Hao} and {Yuzheng Zhuang}},
+  year = {2025},
+  eprint = {2501.10074v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.10074v3},
+  note = {First published: 2025-01-17; Recorded arXiv version: v3; Recorded version updated: 2025-01-23T02:31:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

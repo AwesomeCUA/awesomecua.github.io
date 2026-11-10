@@ -1,3 +1,11 @@
+---
+title: "MolmoWeb: Open Visual Web Agent and Open Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-08516/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
 
 Presents MolmoWebMix, combining synthetic browser trajectories, human demonstrations and GUI perception data, and MolmoWeb screenshot-to-action policies trained from it. Browser benchmarks also test parallel rollouts with best-of-N selection.
@@ -26,6 +34,18 @@ Tanmay Gupta, Piper Wolters, Zixian Ma, Peter Sushko, Rock Yuren Pang, Diego Lla
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-08516/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-08516/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_08516,
+  title = {{MolmoWeb: Open Visual Web Agent and Open Data for the Open Web}},
+  author = {{Tanmay Gupta} and {Piper Wolters} and {Zixian Ma} and {Peter Sushko} and {Rock Yuren Pang} and {Diego Llanes} and {Yue Yang} and {Taira Anderson} and {Boyuan Zheng} and {Zhongzheng Ren} and {Harsh Trivedi} and {Taylor Blanton} and {Caleb Ouellette} and {Winson Han} and {Ali Farhadi} and {Ranjay Krishna}},
+  year = {2026},
+  eprint = {2604.08516v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.08516v1},
+  note = {First published: 2026-04-09; Recorded arXiv version: v1; Recorded version updated: 2026-04-09T17:54:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

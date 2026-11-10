@@ -1,3 +1,11 @@
+---
+title: "Weavetab MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-weavetab-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Weavetab MCP
 
 Open automation engine and MCP server for controlling live web browsers and desktop applications locally.

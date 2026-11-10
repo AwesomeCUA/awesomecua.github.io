@@ -1,3 +1,11 @@
+---
+title: "PAGER: Bridging the Semantic-Execution… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-15963/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control
 
 提出用于评测 GUI 中几何图形点位精确构建任务的 PAGE Bench，以及按图元依赖关系规划并执行像素级操作的智能体 PAGER。
@@ -27,6 +35,18 @@ Jingxuan Wei, Xi Bai, Shan Liu, Caijun Jia, Zheng Sun, Xinglong Xu, Siyuan Li, L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-15963/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-15963/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15963,
+  title = {{PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control}},
+  author = {{Jingxuan Wei} and {Xi Bai} and {Shan Liu} and {Caijun Jia} and {Zheng Sun} and {Xinglong Xu} and {Siyuan Li} and {Linzhuang Sun} and {Bihui Yu} and {Conghui He} and {Cheng Tan}},
+  year = {2026},
+  eprint = {2605.15963v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15963v1},
+  note = {First published: 2026-05-15; Recorded arXiv version: v1; Recorded version updated: 2026-05-15T13:55:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

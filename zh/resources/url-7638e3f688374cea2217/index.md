@@ -1,3 +1,11 @@
+---
+title: "Holotron4 30B-A3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7638e3f688374cea2217/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holotron4 30B-A3B
 
 H Company 的 Holo4 系列中基于 NemotronH Nano Omni 的计算机使用检查点；外部框架向其发送截图和工具结果，并执行其请求的点击、输入、代码和工具调用。

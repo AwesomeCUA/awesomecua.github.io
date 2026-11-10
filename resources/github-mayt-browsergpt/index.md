@@ -1,3 +1,11 @@
+---
+title: "BrowserGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mayt-browsergpt/
+updated: 2026-11-06
+type: agent
+lang: en
+---
+
 # BrowserGPT
 
 BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.

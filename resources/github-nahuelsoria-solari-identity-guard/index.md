@@ -1,3 +1,11 @@
+---
+title: "solari-identity-guard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nahuelsoria-solari-identity-guard/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # solari-identity-guard
 
 Fail-closed identity and session verification middleware for Solari browser agent profiles.

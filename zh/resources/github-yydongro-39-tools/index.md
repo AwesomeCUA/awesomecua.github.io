@@ -1,3 +1,11 @@
+---
+title: "Agent DevTools (39-tools) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yydongro-39-tools/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent DevTools (39-tools)
 
 面向计算机使用智能体的工具包，提供动作级可观测性、状态验证和调试功能。

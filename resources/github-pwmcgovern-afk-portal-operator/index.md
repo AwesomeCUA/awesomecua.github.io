@@ -1,3 +1,11 @@
+---
+title: "Portal Operator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pwmcgovern-afk-portal-operator/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Portal Operator
 
 Autonomous browser agent designed to operate legacy insurance carrier web portals end-to-end in a real browser.

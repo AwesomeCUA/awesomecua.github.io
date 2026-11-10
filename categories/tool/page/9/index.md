@@ -1,10 +1,17 @@
+---
+title: "Computer-use agent tools, page 9 | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/page/9/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools, page 9
 
 HTML page: https://awesomecua.com/categories/tool/page/9/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
-- [Hermes login-bridge Plugin](https://awesomecua.com/resources/github-kfastov-hermes-plugin-login-bridge/)
 - [hermes-hyprland-plugin](https://awesomecua.com/resources/github-xcaptain09-hermes-hyprland-plugin/)
 - [Hermod](https://awesomecua.com/resources/github-klaiderman-hermod/)
 - [hfyydd dsh-cua](https://awesomecua.com/resources/github-hfyydd-dsh-cua/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [mimic (Kernel-Level uinput Driver)](https://awesomecua.com/resources/github-juicerq-mimic/)
 - [MindsEye (dsh-mindseye)](https://awesomecua.com/resources/github-kanchengw-dsh-mindseye/)
 - [mistudio0902-lab Chrome Bridge](https://awesomecua.com/resources/github-mistudio0902-lab-chrome-bridge/)
+- [MobileMCP](https://awesomecua.com/resources/github-magi-labs-mobilemcp/)

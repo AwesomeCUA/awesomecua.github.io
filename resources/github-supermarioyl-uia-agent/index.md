@@ -1,3 +1,11 @@
+---
+title: "uia-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-supermarioyl-uia-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # uia-agent
 
 uia-agent defines an open-source LLM agent action space that drives legacy Windows desktop applications through the UI Automation tree.

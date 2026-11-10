@@ -1,3 +1,11 @@
+---
+title: "DynaWeb: Model-Based Reinforcement Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22149/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DynaWeb: Model-Based Reinforcement Learning of Web Agents
 
 DynaWeb learns a world model that predicts web-page representations after actions and uses it to generate policy-training rollouts. It interleaves these rollouts with expert trajectories and evaluates the trained web agents on WebArena and WebVoyager.
@@ -26,6 +34,18 @@ Hang Ding, Peidong Liu, Junqiao Wang, Ziwei Ji, Meng Cao, Rongzhao Zhang, Lynn A
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-22149/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-22149/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_22149,
+  title = {{DynaWeb: Model-Based Reinforcement Learning of Web Agents}},
+  author = {{Hang Ding} and {Peidong Liu} and {Junqiao Wang} and {Ziwei Ji} and {Meng Cao} and {Rongzhao Zhang} and {Lynn Ai} and {Eric Yang} and {Tianyu Shi} and {Lei Yu}},
+  year = {2026},
+  eprint = {2601.22149v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.22149v2},
+  note = {First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-04-17T18:27:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

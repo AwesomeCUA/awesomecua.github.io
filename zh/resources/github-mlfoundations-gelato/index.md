@@ -1,3 +1,11 @@
+---
+title: "Gelato · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mlfoundations-gelato/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Gelato
 
 Gelato-30B-A3B 的发布代码：在 Click-100k 上使用 GRPO 训练 GUI 点击定位模型，包含 EasyR1 配置、点击奖励、定位评估脚本与日志，以及由 GPT-5 规划的 OS-World 智能体框架。

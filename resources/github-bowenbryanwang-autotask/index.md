@@ -1,3 +1,11 @@
+---
+title: "AutoTask | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bowenbryanwang-autotask/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AutoTask
 
 An Android agent that explores mobile interfaces to execute voice commands and uses what it learns during interaction to guide later actions.

@@ -1,3 +1,11 @@
+---
+title: "Tongyi UI Agent API · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ce0af37931cd5aa20233/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Tongyi UI Agent API
 
 阿里云 Model Studio API 根据截图和任务返回下一步 GUI 动作及其推理，提供移动端流程和由规划、执行、反思及记忆智能体组成的 PC 端流程。

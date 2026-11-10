@@ -1,3 +1,11 @@
+---
+title: "Openbrowser (Semantic Headless Runtime) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-datuomart5423-openbrowser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Openbrowser (Semantic Headless Runtime)
 
 Headless browser runtime that converts webpages into compact structured semantic state for AI agents.

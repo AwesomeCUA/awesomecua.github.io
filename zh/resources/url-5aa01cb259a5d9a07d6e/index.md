@@ -1,3 +1,11 @@
+---
+title: "Starizon AI · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5aa01cb259a5d9a07d6e/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Starizon AI
 
 Chrome 侧栏智能体跨标签页、书签和本地知识库研究，并将已登录网站上的点击和输入任务交给 Agent S6 浏览器智能体，支持重放、定时任务和页面监控。

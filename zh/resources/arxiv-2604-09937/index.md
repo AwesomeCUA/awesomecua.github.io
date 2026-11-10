@@ -1,3 +1,11 @@
+---
+title: "HealthAdminBench: Evaluating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-09937/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks
 
 HealthAdminBench 提供电子病历、保险支付方门户和传真处理的 GUI 环境；专家定义的行政任务被拆分为可验证的子任务，以比较局部进展和端到端工作流程的完成情况。
@@ -27,6 +35,18 @@ Suhana Bedi, Ryan Welch, Ethan Steinberg, Michael Wornow, Taeil Matthew Kim, Har
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-09937/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-09937/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_09937,
+  title = {{HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks}},
+  author = {{Suhana Bedi} and {Ryan Welch} and {Ethan Steinberg} and {Michael Wornow} and {Taeil Matthew Kim} and {Haroun Ahmed} and {Peter Sterling} and {Bravim Purohit} and {Qurat Akram} and {Angelic Acosta} and {Esther Nubla} and {Pritika Sharma} and {Michael A. Pfeffer} and {Sanmi Koyejo} and {Nigam H. Shah}},
+  year = {2026},
+  eprint = {2604.09937v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.09937v1},
+  note = {First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T22:33:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

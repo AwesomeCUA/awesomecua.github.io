@@ -1,3 +1,11 @@
+---
+title: "MMInA: Benchmarking Multihop Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-09992/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MMInA: Benchmarking Multihop Multimodal Internet Agents
 
 在跨越不断变化的网站的组合任务上评估多模态智能体，并研究重放既有轨迹如何辅助记忆。
@@ -27,6 +35,18 @@ Shulin Tian, Ziniu Zhang, Liangyu Chen, Ziwei Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-09992/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-09992/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_09992,
+  title = {{MMInA: Benchmarking Multihop Multimodal Internet Agents}},
+  author = {{Shulin Tian} and {Ziniu Zhang} and {Liangyu Chen} and {Ziwei Liu}},
+  year = {2024},
+  eprint = {2404.09992v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.09992v2},
+  note = {First published: 2024-04-15; Recorded arXiv version: v2; Recorded version updated: 2025-06-29T05:24:54Z.}
+}
+```
 
 ## 发表记录
 

@@ -1,3 +1,11 @@
+---
+title: "ConClick-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-75cc3b45e7e44c422c4c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ConClick-8B
 
 一个 GUI 定位模型检查点，利用坐标和排序监督区分目标元素与干扰元素，以适配器及配套权重形式发布。

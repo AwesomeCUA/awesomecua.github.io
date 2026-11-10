@@ -1,3 +1,11 @@
+---
+title: "Chromium Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dashi96-chromium-bridge/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Chromium Bridge
 
 Chrome extension and stdio MCP server that let Claude Code drive any Chromium browser with tabs, clicks, typing, screenshots and accessibility-tree reads, plus an in-browser chat panel with an approval mode.

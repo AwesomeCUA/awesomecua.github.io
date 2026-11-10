@@ -1,3 +1,11 @@
+---
+title: "PhoneHarness · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-phoneharness-phoneharness/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # PhoneHarness
 
 PhoneHarness 评估结合图形界面操作、设备命令和主机工具的 Android 手机智能体。它提供运行环境、部分基准测试运行程序，以及基于运行轨迹的任务结果检查。

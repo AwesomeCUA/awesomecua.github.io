@@ -1,3 +1,11 @@
+---
+title: "fast-browser-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nachafrommars-fast-browser-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # fast-browser-use
 
 Rust-based browser automation engine driving Chrome over CDP with built-in anti-bot evasions and low-latency DOM extraction.

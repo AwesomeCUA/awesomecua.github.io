@@ -1,3 +1,11 @@
+---
+title: "ChatterBox: Multi-round Multimodal Referring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-13307/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ChatterBox: Multi-round Multimodal Referring and Grounding
 
 Bibliographic record for ChatterBox: Multi-round Multimodal Referring and Grounding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunjie Tian, Tianren Ma, Lingxi Xie, Jihao Qiu, Xi Tang, Yuan Zhang, Jianbin Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-13307/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-13307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_13307,
+  title = {{ChatterBox: Multi-round Multimodal Referring and Grounding}},
+  author = {{Yunjie Tian} and {Tianren Ma} and {Lingxi Xie} and {Jihao Qiu} and {Xi Tang} and {Yuan Zhang} and {Jianbin Jiao} and {Qi Tian} and {Qixiang Ye}},
+  year = {2024},
+  eprint = {2401.13307v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.13307v1},
+  note = {First published: 2024-01-24; Recorded arXiv version: v1; Recorded version updated: 2024-01-24T09:02:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

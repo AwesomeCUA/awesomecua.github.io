@@ -1,3 +1,11 @@
+---
+title: "EvalOps browser-use-rs · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dx-corp-browser-use-rs/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # EvalOps browser-use-rs
 
 browser-use 网页智能体库的 Rust 行为一致性移植版，用于以较低开销实现自主浏览器控制。

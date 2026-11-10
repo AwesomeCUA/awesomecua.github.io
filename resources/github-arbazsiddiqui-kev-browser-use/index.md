@@ -1,3 +1,11 @@
+---
+title: "kev-browser-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # kev-browser-use
 
 kev-browser-use is a compact 0.6B System-One action model fine-tuned on Mind2Web for low-latency browser element selection.

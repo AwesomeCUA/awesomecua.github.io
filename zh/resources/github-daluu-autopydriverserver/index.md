@@ -1,3 +1,11 @@
+---
+title: "AutoPyDriverServer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daluu-autopydriverserver/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # AutoPyDriverServer
 
 一个 Python 服务器，通过 Selenium WebDriver 协议暴露 AutoPy 桌面控制能力，使任意 WebDriver 客户端都能编写基于图像的鼠标和键盘自动化脚本。

@@ -1,3 +1,11 @@
+---
+title: "Vuser Protocol | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openvuser-vuser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Vuser Protocol
 
 Vuser is an open frontend interaction protocol standardizing browser-use, desktop computer-use, and mobile-use virtual user actions.

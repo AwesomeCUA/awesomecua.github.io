@@ -1,3 +1,11 @@
+---
+title: "VLM Judges Can Rank but Cannot Score… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-25235/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VLM Judges Can Rank but Cannot Score: Task-Dependent Uncertainty in Multimodal Evaluation
 
 Status: excluded from the active CUA catalog after scope review.

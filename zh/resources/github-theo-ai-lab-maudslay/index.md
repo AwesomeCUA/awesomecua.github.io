@@ -1,3 +1,11 @@
+---
+title: "Maudslay · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-theo-ai-lab-maudslay/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Maudslay
 
 Maudslay 根据独立的后端和电子邮件真实结果，评测计算机使用智能体的发布就绪程度与 pass^k 可靠性。

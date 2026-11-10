@@ -1,3 +1,11 @@
+---
+title: "reverseloom | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kuichi-x-reverseloom/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # reverseloom
 
 AI browser agent framework that inspects live web traffic to reverse-engineer site protocols into browser-free Python crawlers.

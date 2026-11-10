@@ -1,3 +1,11 @@
+---
+title: "Genie · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vimalmathew26-genie/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Genie
 
 Genie 是自主式 Linux 桌面智能体，通过 AT-SPI 无障碍树、Chrome CDP 和 VLM 视觉进行三级 UI 定位。

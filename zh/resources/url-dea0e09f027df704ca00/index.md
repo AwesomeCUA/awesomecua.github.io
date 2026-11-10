@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_Task_Suite_Benchmark · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dea0e09f027df704ca00/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # GUI_Reflection_Task_Suite_Benchmark
 
 GUI Reflection 任务套件的评测部分，包含动作验证、动作回退以及在 ScreenSpot 和 ScreenSpot v2 上基于错误重试的 JSONL 文件。

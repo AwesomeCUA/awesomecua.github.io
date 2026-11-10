@@ -1,3 +1,11 @@
+---
+title: "A Survey on Multimodal Benchmarks: In the Era… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-18142/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # A Survey on Multimodal Benchmarks: In the Era of Large AI Models
 
 Bibliographic record for A Survey on Multimodal Benchmarks: In the Era of Large AI Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Lin Li, Guikun Chen, Hanrong Shi, Jun Xiao, Long Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-18142/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-18142/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_18142,
+  title = {{A Survey on Multimodal Benchmarks: In the Era of Large AI Models}},
+  author = {{Lin Li} and {Guikun Chen} and {Hanrong Shi} and {Jun Xiao} and {Long Chen}},
+  year = {2024},
+  eprint = {2409.18142v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.18142v1},
+  note = {First published: 2024-09-21; Recorded arXiv version: v1; Recorded version updated: 2024-09-21T15:22:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

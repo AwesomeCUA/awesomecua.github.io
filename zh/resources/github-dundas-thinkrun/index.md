@@ -1,3 +1,11 @@
+---
+title: "ThinkRun · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dundas-thinkrun/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ThinkRun
 
 浏览器会话和屏幕录制工具，可将视觉缺陷复现过程及 DOM 轨迹打包，供 AI 编程智能体和浏览器智能体使用。

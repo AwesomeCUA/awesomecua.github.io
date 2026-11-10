@@ -1,3 +1,11 @@
+---
+title: "MemQ: Integrating Q-Learning into… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-08374/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs
 
 Status: excluded from the active CUA catalog after scope review.

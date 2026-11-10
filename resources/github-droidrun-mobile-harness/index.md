@@ -1,3 +1,11 @@
+---
+title: "Mobile Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-droidrun-mobile-harness/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # Mobile Harness
 
 Portable agent instructions and integration tooling for local or cloud phone control through mobilerun-core.

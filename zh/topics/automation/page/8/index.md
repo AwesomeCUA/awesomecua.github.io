@@ -1,10 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 8 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/8/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 8 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [BrowserCode](https://awesomecua.com/zh/resources/github-browser-use-browsercode/)
 - [browserctl](https://awesomecua.com/zh/resources/github-nguyenvanhuy0612-browserctl/)
 - [BrowserGPT](https://awesomecua.com/zh/resources/github-mayt-browsergpt/)
 - [Browserjack](https://awesomecua.com/zh/resources/github-stickerdaniel-browserjack/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/8/
 - [Chrome Faithful](https://awesomecua.com/zh/resources/github-bpc-oss-chrome-faithful/)
 - [Chrome for AI](https://awesomecua.com/zh/resources/github-pelag-michael-chrome-for-ai/)
 - [Chrome Launcher](https://awesomecua.com/zh/resources/github-googlechrome-chrome-launcher/)
+- [Chrome Live MCP](https://awesomecua.com/zh/resources/github-wankaiyi-chrome-live-mcp/)

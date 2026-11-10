@@ -1,3 +1,11 @@
+---
+title: "GUIGuard-Bench evaluation code · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shaluoyan523-guiguard-bench/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # GUIGuard-Bench evaluation code
 
 GUIGuard-Bench 评估代码涵盖隐私区域识别评分、基于 LLM 评判的遮挡截图规划一致性，以及受保护界面的点击定位，并附少量 Android 和 PC 示例。

@@ -1,3 +1,11 @@
+---
+title: "OS-Copilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-os-copilot/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # OS-Copilot
 
 面向操作系统中的网页、终端、文件和第三方应用的通用智能体开源库，包含可接入自定义工具并自主学习 Excel 任务的 FRIDAY 助手。

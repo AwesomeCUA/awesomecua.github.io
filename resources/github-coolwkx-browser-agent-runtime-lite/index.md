@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Runtime Lite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-coolwkx-browser-agent-runtime-lite/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Browser Agent Runtime Lite
 
 Lightweight runtime for executing autonomous browser-agent perception and action loops.

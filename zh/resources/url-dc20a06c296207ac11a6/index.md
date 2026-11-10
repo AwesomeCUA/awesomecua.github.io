@@ -1,3 +1,11 @@
+---
+title: "Holo1.5 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dc20a06c296207ac11a6/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo1.5 3B
 
 Holo1.5 系列最小检查点由 Qwen2.5-VL-3B-Instruct 经监督训练和 GRPO 微调，用于定位网页、桌面及移动屏幕中的界面元素并回答相关问题。

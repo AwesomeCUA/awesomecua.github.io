@@ -1,3 +1,11 @@
+---
+title: "bugcraft-dataset · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2c85ae447a0eeed51393/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # bugcraft-dataset
 
 BugCraft-Bench 数据：来自 Mojira 的 86 份 Minecraft 崩溃缺陷报告，附带问题元数据和附件，用于评测借助视觉大模型操作游戏、复现崩溃的智能体。

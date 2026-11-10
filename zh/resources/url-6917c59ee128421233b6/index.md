@@ -1,3 +1,11 @@
+---
+title: "HyperWrite Personal Assistant · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6917c59ee128421233b6/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # HyperWrite Personal Assistant
 
 HyperWrite 浏览器智能体通过扩展操作用户的 Chrome 浏览器，执行搜索、预订和填写表单等文字请求。

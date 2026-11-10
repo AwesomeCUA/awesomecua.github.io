@@ -1,3 +1,11 @@
+---
+title: "Lucy Screen Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alzin-lucy-screen-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Lucy Screen Agent
 
 Lucy is a voice-and-screen Android agent that perceives live app screens with Gemini vision and executes taps, swipes, and text input.

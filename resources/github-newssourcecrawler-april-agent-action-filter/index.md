@@ -1,3 +1,11 @@
+---
+title: "April Agent Action Filter | AwesomeCUA"
+url: https://awesomecua.com/resources/github-newssourcecrawler-april-agent-action-filter/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # April Agent Action Filter
 
 April Agent Action Filter is a Rust policy library that inspects and gates proposed computer-use agent actions before tool execution.

@@ -1,3 +1,11 @@
+---
+title: "ShieldAgent: Shielding Agents via Verifiable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-22738/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning
 
 Proposes a guardrail agent that reasons over explicit safety policies and checks action trajectories, with a web-agent safety benchmark.
@@ -26,6 +34,18 @@ Zhaorun Chen, Mintong Kang, Bo Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-22738/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-22738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_22738,
+  title = {{ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning}},
+  author = {{Zhaorun Chen} and {Mintong Kang} and {Bo Li}},
+  year = {2025},
+  eprint = {2503.22738v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.22738v2},
+  note = {First published: 2025-03-26; Recorded arXiv version: v2; Recorded version updated: 2025-11-27T22:01:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

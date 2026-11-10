@@ -1,3 +1,11 @@
+---
+title: "servo-agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-parker-brown-family-servo-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # servo-agent
 
 基于 Rust Servo 引擎构建、可由智能体控制的网页浏览器，可将实时渲染的 DOM 布局浓缩为紧凑的智能体观察信息。

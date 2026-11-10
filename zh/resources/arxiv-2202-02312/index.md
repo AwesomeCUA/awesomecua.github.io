@@ -1,3 +1,11 @@
+---
+title: "A Dataset for Interactive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2202-02312/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility
 
 提出 MoTIF 移动应用交互数据，包含可执行和不可执行的命令、可执行性解释，以及针对含糊请求的追问。
@@ -27,6 +35,18 @@ Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A.
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2202-02312/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2202-02312/citation.csl.json
+
+```bibtex
+@misc{arxiv_2202_02312,
+  title = {{A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility}},
+  author = {{Andrea Burns} and {Deniz Arsan} and {Sanjna Agrawal} and {Ranjitha Kumar} and {Kate Saenko} and {Bryan A. Plummer}},
+  year = {2022},
+  eprint = {2202.02312v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2202.02312v3},
+  note = {First published: 2022-02-04; Recorded arXiv version: v3; Recorded version updated: 2022-08-15T00:24:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

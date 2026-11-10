@@ -1,3 +1,11 @@
+---
+title: "hypr-computer-use-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-smirnov-labs-hypr-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # hypr-computer-use-mcp
 
 面向 Hyprland/Wayland 的计算机使用 MCP 服务器，结合截图、点击和输入工具与 tmux、CDP 集成。

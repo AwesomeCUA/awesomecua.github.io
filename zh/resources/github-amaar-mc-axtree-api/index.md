@@ -1,3 +1,11 @@
+---
+title: "AXTree API · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amaar-mc-axtree-api/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AXTree API
 
 面向计算机使用智能体、基于事件的 macOS Accessibility 树流式传输服务器和动作桥接器。

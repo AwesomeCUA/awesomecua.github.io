@@ -1,3 +1,11 @@
+---
+title: "Baseerat · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yas1i-baseerat/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Baseerat
 
 Baseerat 评测对计算机使用智能体的非视觉监督，测试屏幕阅读器的音频描述能否揭示智能体的不安全动作。

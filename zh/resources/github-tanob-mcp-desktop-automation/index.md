@@ -1,3 +1,11 @@
+---
+title: "MCP Desktop Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tanob-mcp-desktop-automation/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP Desktop Automation
 
 MCP Desktop Automation 是使用 RobotJS 的 Model Context Protocol 服务器，向 LLM 提供屏幕捕获、鼠标移动和键盘输入能力。

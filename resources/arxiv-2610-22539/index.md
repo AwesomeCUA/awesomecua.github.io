@@ -1,3 +1,11 @@
+---
+title: "Don't Retrain, Remix: Adaptation of Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22539/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks
 
 WebMix uses a scout-produced interface manual to route mixtures of source-trained LoRA adapters for web agents, adapting to target interfaces without target-time gradient updates.
@@ -26,6 +34,18 @@ Md Farhan Ishmam, Minh Pham Dinh, Kenneth Marino
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22539/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22539/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22539,
+  title = {{Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks}},
+  author = {{Md Farhan Ishmam} and {Minh Pham Dinh} and {Kenneth Marino}},
+  year = {2026},
+  eprint = {2610.22539v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22539v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T18:37:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

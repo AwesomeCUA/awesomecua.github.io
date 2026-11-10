@@ -1,3 +1,11 @@
+---
+title: "Deskwright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tristanmuzzu-deskwright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Deskwright
 
 Deskwright is a cross-platform desktop automation toolkit for AI agents combining OS accessibility trees with OCR fallback and input control.

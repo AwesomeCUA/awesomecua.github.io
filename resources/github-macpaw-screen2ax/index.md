@@ -1,3 +1,11 @@
+---
+title: "Screen2AX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-macpaw-screen2ax/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Screen2AX
 
 Screen2AX reconstructs macOS application accessibility trees from screenshots using vision detectors and releases the Maceka GUI dataset.

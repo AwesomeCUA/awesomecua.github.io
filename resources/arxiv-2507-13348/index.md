@@ -1,3 +1,11 @@
+---
+title: "VisionThink: Smart and Efficient Vision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-13348/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

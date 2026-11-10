@@ -1,3 +1,11 @@
+---
+title: "WorkArena++: Towards Compositional Planning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-05291/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks
 
 Defines compositional enterprise workflows to evaluate planning and reasoning, with generation of ground-truth interaction traces.
@@ -26,6 +34,18 @@ Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault Le Sellier D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-05291/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-05291/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_05291,
+  title = {{WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks}},
+  author = {{Léo Boisvert} and {Megh Thakkar} and {Maxime Gasse} and {Massimo Caccia} and {Thibault Le Sellier De Chezelles} and {Quentin Cappart} and {Nicolas Chapados} and {Alexandre Lacoste} and {Alexandre Drouin}},
+  year = {2024},
+  eprint = {2407.05291v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.05291v2},
+  note = {First published: 2024-07-07; Recorded arXiv version: v2; Recorded version updated: 2025-02-05T21:50:07Z.}
+}
+```
 
 ## Publication record
 

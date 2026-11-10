@@ -1,3 +1,11 @@
+---
+title: "Web-Shepherd inference and evaluation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kyle8581-web-shepherd/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # Web-Shepherd inference and evaluation
 
 Process-reward inference and benchmark-evaluation utilities that use task checklists to assess individual web-agent decisions.

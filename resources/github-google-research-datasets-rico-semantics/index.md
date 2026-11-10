@@ -1,3 +1,11 @@
+---
+title: "RICO Semantics | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # RICO Semantics
 
 RICO Semantics provides 500,000 human annotations on RICO mobile screens covering icon shapes, semantic roles, and text-element associations.

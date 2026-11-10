@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4e9e46b2c7a0a21e130d/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo3.1 9B
 
 9B checkpoint of H Company's Holo3.1 family of vision-language models for web, desktop and mobile computer-use agents, with native function calling for agent frameworks.

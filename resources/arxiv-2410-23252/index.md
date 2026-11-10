@@ -1,3 +1,11 @@
+---
+title: "Evaluating Cultural and Social Awareness of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-23252/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Evaluating Cultural and Social Awareness of LLM Web Agents
 
 Introduces CASA to assess web agents' responses to cultural and social norms in shopping and forum tasks, including misleading observations.
@@ -26,6 +34,18 @@ Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-23252/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-23252/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_23252,
+  title = {{Evaluating Cultural and Social Awareness of LLM Web Agents}},
+  author = {{Haoyi Qiu} and {Alexander R. Fabbri} and {Divyansh Agarwal} and {Kung-Hsiang Huang} and {Sarah Tan} and {Nanyun Peng} and {Chien-Sheng Wu}},
+  year = {2024},
+  eprint = {2410.23252v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.23252v3},
+  note = {First published: 2024-10-30; Recorded arXiv version: v3; Recorded version updated: 2025-03-08T23:37:49Z.}
+}
+```
 
 ## Publication record
 

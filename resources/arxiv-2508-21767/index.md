@@ -1,3 +1,11 @@
+---
+title: "UItron: Foundational GUI Agent with Advanced… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-21767/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UItron: Foundational GUI Agent with Advanced Perception and Planning
 
 UItron combines GUI perception and planning data engineering with supervised training and curriculum reinforcement learning in connected mobile and PC environments. It also collects more than one million operation steps across 100 Chinese apps and builds offline and online evaluation environments.
@@ -26,6 +34,18 @@ Zhixiong Zeng, Jing Huang, Liming Zheng, Wenkang Han, Yufeng Zhong, Lei Chen, Lo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-21767/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-21767/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_21767,
+  title = {{UItron: Foundational GUI Agent with Advanced Perception and Planning}},
+  author = {{Zhixiong Zeng} and {Jing Huang} and {Liming Zheng} and {Wenkang Han} and {Yufeng Zhong} and {Lei Chen} and {Longrong Yang} and {Yingjie Chu} and {Yuzhi He} and {Lin Ma}},
+  year = {2025},
+  eprint = {2508.21767v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.21767v1},
+  note = {First published: 2025-08-29; Recorded arXiv version: v1; Recorded version updated: 2025-08-29T16:40:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

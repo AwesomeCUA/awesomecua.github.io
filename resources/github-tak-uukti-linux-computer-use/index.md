@@ -1,3 +1,11 @@
+---
+title: "linux-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tak-uukti-linux-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # linux-computer-use
 
 Linux/X11 computer-use toolkit and MCP server combining AT-SPI semantic trees, screenshots, and input control for coding agents.

@@ -1,3 +1,11 @@
+---
+title: "InsightBench: Evaluating Business Analytics… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-06423/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation
 
 Bibliographic record for InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Gaurav Sahu, Abhay Puri, Juan Rodriguez, Amirhossein Abaskohi, Mohammad Chegini,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-06423/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-06423/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_06423,
+  title = {{InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation}},
+  author = {{Gaurav Sahu} and {Abhay Puri} and {Juan Rodriguez} and {Amirhossein Abaskohi} and {Mohammad Chegini} and {Alexandre Drouin} and {Perouz Taslakian} and {Valentina Zantedeschi} and {Alexandre Lacoste} and {David Vazquez} and {Nicolas Chapados} and {Christopher Pal} and {Sai Rajeswar Mudumba} and {Issam Hadj Laradji}},
+  year = {2024},
+  eprint = {2407.06423v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.06423v4},
+  note = {First published: 2024-07-08; Recorded arXiv version: v4; Recorded version updated: 2025-02-27T17:15:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

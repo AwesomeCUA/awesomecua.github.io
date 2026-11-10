@@ -1,3 +1,11 @@
+---
+title: "Operator · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f0584842138a52158f51/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Operator
 
 OpenAI 此前推出的浏览器智能体研究预览版。

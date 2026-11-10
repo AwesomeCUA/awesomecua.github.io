@@ -1,3 +1,11 @@
+---
+title: "Tell Me What's Next: Textual Foresight… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-07822/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Tell Me What's Next: Textual Foresight for Generic UI Representations
 
 Textual Foresight 通过描述在当前界面执行动作后预期出现的屏幕来学习 UI 表征；OpenApp 数据集支持对关联单个元素与整屏变化的表征进行预训练和下游评估。
@@ -27,6 +35,18 @@ Andrea Burns, Kate Saenko, Bryan A. Plummer
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-07822/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-07822/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_07822,
+  title = {{Tell Me What's Next: Textual Foresight for Generic UI Representations}},
+  author = {{Andrea Burns} and {Kate Saenko} and {Bryan A. Plummer}},
+  year = {2024},
+  eprint = {2406.07822v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.07822v2},
+  note = {First published: 2024-06-12; Recorded arXiv version: v2; Recorded version updated: 2024-08-08T02:36:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

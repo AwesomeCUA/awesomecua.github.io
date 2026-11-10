@@ -1,3 +1,11 @@
+---
+title: "Contrastive Language Models | AwesomeCUA"
+url: https://awesomecua.com/resources/github-contrastive-lm-clm/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Contrastive Language Models
 
 CLM-8B ranks candidate actions against a state with separate embeddings and a serving API. Its authors report evaluations that include computer-use tasks.

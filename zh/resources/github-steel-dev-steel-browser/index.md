@@ -1,3 +1,11 @@
+---
+title: "Steel Browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steel-dev-steel-browser/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # Steel Browser
 
 管理智能体 Chrome 会话的开源浏览器 API，可通过 Puppeteer、Playwright 或 Selenium 经由 CDP 访问，支持 Cookie 持久化、代理轮换、隐蔽模式和会话调试界面。

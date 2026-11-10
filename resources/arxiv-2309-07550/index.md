@@ -1,3 +1,11 @@
+---
+title: "Naturalistic Robot Arm Trajectory Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-07550/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Naturalistic Robot Arm Trajectory Generation via Representation Learning
 
 Status: excluded from the active CUA catalog after scope review.

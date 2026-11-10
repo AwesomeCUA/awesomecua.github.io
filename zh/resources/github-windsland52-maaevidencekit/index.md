@@ -1,3 +1,11 @@
+---
+title: "MaaEvidenceKit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-windsland52-maaevidencekit/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaEvidenceKit
 
 一个命令行工具和 TypeScript SDK，从 MaaFramework 日志和项目中提取带定位信息的运行时与静态证据，提供稳定的证据 ID、时间线以及 JSON 或文本视图，供智能体框架使用。

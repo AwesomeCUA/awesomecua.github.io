@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a92e7dfcdfdcacb2e634/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Owl 32B
 
 The 32B GUI-Owl checkpoint from the Mobile-Agent-v3 project, fine-tuned from Qwen2.5-VL-32B-Instruct for GUI grounding and actions, and usable as specialized agents in the Mobile-Agent-v3 framework.

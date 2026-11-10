@@ -1,3 +1,11 @@
+---
+title: "macOSWorld: A Multilingual Interactive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-04135/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # macOSWorld: A Multilingual Interactive Benchmark for GUI Agents
 
 macOSWorld 涵盖 30 个应用中的 202 项交互任务，指令和操作系统界面提供 5 种语言，用于评估 GUI 智能体在 macOS 上的工作流程，并设有单独的欺骗攻击测试子集。
@@ -27,6 +35,18 @@ Pei Yang, Hai Ci, Mike Zheng Shou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-04135/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-04135/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_04135,
+  title = {{macOSWorld: A Multilingual Interactive Benchmark for GUI Agents}},
+  author = {{Pei Yang} and {Hai Ci} and {Mike Zheng Shou}},
+  year = {2025},
+  eprint = {2506.04135v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.04135v4},
+  note = {First published: 2025-06-04; Recorded arXiv version: v4; Recorded version updated: 2025-10-18T12:11:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

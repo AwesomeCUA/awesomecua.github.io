@@ -1,3 +1,11 @@
+---
+title: "WindowsAgentArena-V2 · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gair-nlp-windowsagentarena-v2/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # WindowsAgentArena-V2
 
 Windows 基准的修订版本，修复任务和评估器问题并支持虚拟机初始化，相关说明与 PC-Agent-E 一同提供。

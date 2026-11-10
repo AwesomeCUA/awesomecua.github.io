@@ -1,3 +1,11 @@
+---
+title: "WebThinker-R1-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # WebThinker-R1-32B
 
 Released reasoning checkpoint for web research that searches and navigates pages through interactive clicks while drafting reports from gathered information.

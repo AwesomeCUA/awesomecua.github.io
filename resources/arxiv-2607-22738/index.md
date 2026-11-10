@@ -1,3 +1,11 @@
+---
+title: "Nova3D: Code-Native Generation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-22738/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Nova3D: Code-Native Generation of Programmable 3D Assets
 
 Status: excluded from the active CUA catalog after scope review.

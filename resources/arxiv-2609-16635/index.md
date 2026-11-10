@@ -1,3 +1,11 @@
+---
+title: "EchoPath: Execution-Level Replayable Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-16635/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # EchoPath: Execution-Level Replayable Memory for GUI Agents
 
 EchoPath turns validated GUI trajectories into parameterized replay procedures with explicit runtime preconditions. Image-based target matching adjusts stored coordinates, while ambiguous steps fall back to bounded repair or fresh planning.
@@ -26,6 +34,18 @@ Yao Zhao, Aditya Shanmugham, Swastik Roy, Yanxun Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-16635/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-16635/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_16635,
+  title = {{EchoPath: Execution-Level Replayable Memory for GUI Agents}},
+  author = {{Yao Zhao} and {Aditya Shanmugham} and {Swastik Roy} and {Yanxun Xu}},
+  year = {2026},
+  eprint = {2609.16635v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.16635v1},
+  note = {First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T04:56:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

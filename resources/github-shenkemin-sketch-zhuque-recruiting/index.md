@@ -1,3 +1,11 @@
+---
+title: "Zhuque Recruiting (朱雀招聘) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shenkemin-sketch-zhuque-recruiting/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Zhuque Recruiting (朱雀招聘)
 
 Auditable Codex Computer Use skill for automating candidate sourcing and screening across web recruiting platforms.

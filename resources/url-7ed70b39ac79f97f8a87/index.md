@@ -1,3 +1,11 @@
+---
+title: "GUI-Perturbed | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # GUI-Perturbed
 
 Step-level web grounding benchmark that re-renders Mind2Web pages with style, zoom and text-size perturbations and pairs each screenshot with a direct or relational instruction and a target box.

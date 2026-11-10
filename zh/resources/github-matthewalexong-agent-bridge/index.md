@@ -1,3 +1,11 @@
+---
+title: "MatthewAlexOng Agent Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-matthewalexong-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MatthewAlexOng Agent Bridge
 
 Chrome 扩展和本地中继，将 AI 编码智能体直接连接到活动浏览器标签页。

@@ -1,3 +1,11 @@
+---
+title: "AutoGLM Phone 9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c918d5c828a3c6cfbc5d/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # AutoGLM Phone 9B
 
 面向 Open-AutoGLM 的 AutoGLM 手机智能体模型检查点，由 GLM-4.1V-9B-Base 微调，约有 10.3B 个 BF16 参数，并带有中文标签。

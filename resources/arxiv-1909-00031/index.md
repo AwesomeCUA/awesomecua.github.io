@@ -1,3 +1,11 @@
+---
+title: "Interactive Task and Concept Learning from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1909-00031/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations
 
 Introduces PUMICE, an agent that learns mobile-app procedures and conditional concepts through natural-language conversation and GUI demonstrations, recursively resolving ambiguous instructions with users.
@@ -26,6 +34,18 @@ Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom M. Mitch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1909-00031/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1909-00031/citation.csl.json
+
+```bibtex
+@misc{arxiv_1909_00031,
+  title = {{Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations}},
+  author = {{Toby Jia-Jun Li} and {Marissa Radensky} and {Justin Jia} and {Kirielle Singarajah} and {Tom M. Mitchell} and {Brad A. Myers}},
+  year = {2019},
+  eprint = {1909.00031v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1909.00031v2},
+  note = {First published: 2019-08-30; Recorded arXiv version: v2; Recorded version updated: 2020-01-07T00:57:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

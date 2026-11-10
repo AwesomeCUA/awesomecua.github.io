@@ -1,3 +1,11 @@
+---
+title: "WebCanvas_showcase · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-imeanai-webcanvas-showcase/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # WebCanvas_showcase
 
 一个将网页智能体框架接入 WebCanvas 在线评测的示例仓库；其 SEEACT 目录在真实网站上运行 SeeAct，并对其在 Mind2Web-Live 任务中命中的关键节点计分。

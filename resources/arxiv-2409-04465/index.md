@@ -1,3 +1,11 @@
+---
+title: "Here's Charlie! Realising the Semantic Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-04465/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs
 
 Bibliographic record for Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jesse Wright
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-04465/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-04465/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_04465,
+  title = {{Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs}},
+  author = {{Jesse Wright}},
+  year = {2024},
+  eprint = {2409.04465v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.04465v1},
+  note = {First published: 2024-09-03; Recorded arXiv version: v1; Recorded version updated: 2024-09-03T10:32:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

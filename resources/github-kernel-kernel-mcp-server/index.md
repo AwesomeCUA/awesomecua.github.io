@@ -1,3 +1,11 @@
+---
+title: "Kernel MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kernel-kernel-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Kernel MCP Server
 
 Kernel MCP Server connects AI agents to low-latency cloud browser sandboxes and serverless execution environments on Kernel.

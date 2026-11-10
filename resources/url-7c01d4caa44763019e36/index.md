@@ -1,3 +1,11 @@
+---
+title: "InternVL3-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7c01d4caa44763019e36/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3-8B
 
 An 8B multimodal checkpoint whose release describes GUI-operation training data and a GUI-grounding evaluation alongside broader image and video tasks.

@@ -1,3 +1,11 @@
+---
+title: "What Does \"Now\" Mean to Your… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-39282/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # What Does "Now" Mean to Your Computer-Use Agent? Stale Screenshots, Page Loads, and Which Check to Run Before a Click
 
 研究基于过时截图在网页上进行的点击，并提供基准生成器和针对加载期间变化网页的点击前检查方法。
@@ -27,6 +35,18 @@ Vasundra Srinivasan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-39282/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-39282/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_39282,
+  title = {{What Does "Now" Mean to Your Computer-Use Agent? Stale Screenshots, Page Loads, and Which Check to Run Before a Click}},
+  author = {{Vasundra Srinivasan}},
+  year = {2026},
+  eprint = {2610.39282v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.39282v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T03:33:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

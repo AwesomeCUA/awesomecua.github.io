@@ -1,3 +1,11 @@
+---
+title: "WebEvolver: Enhancing Web Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-21024/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model
 
 WebEvolver 训练协同演进的世界模型，用于预测网页观测并生成额外的智能体训练轨迹。同一模型还支持推理时的前瞻动作选择，并在实时网页任务基准上接受评估。
@@ -27,6 +35,18 @@ Tianqing Fang, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, D
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-21024/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-21024/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_21024,
+  title = {{WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model}},
+  author = {{Tianqing Fang} and {Hongming Zhang} and {Zhisong Zhang} and {Kaixin Ma} and {Wenhao Yu} and {Haitao Mi} and {Dong Yu}},
+  year = {2025},
+  eprint = {2504.21024v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.21024v2},
+  note = {First published: 2025-04-23; Recorded arXiv version: v2; Recorded version updated: 2025-08-21T05:55:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

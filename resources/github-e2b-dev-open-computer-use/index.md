@@ -1,3 +1,11 @@
+---
+title: "Open Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-e2b-dev-open-computer-use/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Open Computer Use
 
 Open Computer Use runs open-source vision-language models inside an E2B Desktop cloud Linux sandbox for autonomous GUI task execution.

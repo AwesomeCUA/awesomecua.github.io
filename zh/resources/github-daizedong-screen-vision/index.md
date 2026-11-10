@@ -1,3 +1,11 @@
+---
+title: "screen-vision · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daizedong-screen-vision/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # screen-vision
 
 捕获桌面窗口，并结合无障碍树和 OCR，提取带像素坐标的 UI 元素与按钮。

@@ -1,3 +1,11 @@
+---
+title: "GenPark SPA Settlement Waiter Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GenPark SPA Settlement Waiter Skill
 
 Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.

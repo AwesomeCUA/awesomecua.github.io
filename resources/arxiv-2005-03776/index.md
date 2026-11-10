@@ -1,3 +1,11 @@
+---
+title: "Mapping Natural Language Instructions to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-03776/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Mapping Natural Language Instructions to Mobile UI Action Sequences
 
 Introduces PIXELHELP for predicting mobile UI action sequences from instructions, together with action-phrase annotations and synthetic UI action descriptions for training. Separate Transformers extract instruction steps and ground object descriptions using interface content and screen position.
@@ -26,6 +34,18 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2005-03776/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2005-03776/citation.csl.json
+
+```bibtex
+@misc{arxiv_2005_03776,
+  title = {{Mapping Natural Language Instructions to Mobile UI Action Sequences}},
+  author = {{Yang Li} and {Jiacong He} and {Xin Zhou} and {Yuan Zhang} and {Jason Baldridge}},
+  year = {2020},
+  eprint = {2005.03776v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2005.03776v2},
+  note = {First published: 2020-05-07; Recorded arXiv version: v2; Recorded version updated: 2020-06-05T02:11:56Z.}
+}
+```
 
 ## Publication record
 

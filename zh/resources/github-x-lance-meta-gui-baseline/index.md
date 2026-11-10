@@ -1,3 +1,11 @@
+---
+title: "META-GUI baseline · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-x-lance-meta-gui-baseline/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # META-GUI baseline
 
 面向对话式移动端 GUI 智能体的训练与评估流程，涵盖操作预测、回复生成和数据集处理。

@@ -1,3 +1,11 @@
+---
+title: "AgentGym-RL-Data-ID · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9140ca5ba8252d373b8d/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # AgentGym-RL-Data-ID
 
 AgentGym-RL 多轮强化学习的训练与评测任务划分，列出 WebArena 网页导航任务的 ID，以及搜索、游戏、具身和科学类环境的任务 ID。

@@ -1,3 +1,11 @@
+---
+title: "Shiny Fishstick · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hootsworth-shiny-fishstick/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Shiny Fishstick
 
 语义网页编译器，抓取网站并将其编译为供 AI 智能体使用的带类型、可复用的动作与数据接口。

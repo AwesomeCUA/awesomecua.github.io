@@ -1,3 +1,11 @@
+---
+title: "PPTArena: A Benchmark for PowerPoint Editing | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-03042/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PPTArena: A Benchmark for PowerPoint Editing
 
 Bibliographic record for PPTArena: A Benchmark for PowerPoint Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Michael Ofengenden, Yunze Man, Ziqi Pang, Liang-Yan Gui, Yu-Xiong Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-03042/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-03042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_03042,
+  title = {{PPTArena: A Benchmark for PowerPoint Editing}},
+  author = {{Michael Ofengenden} and {Yunze Man} and {Ziqi Pang} and {Liang-Yan Gui} and {Yu-Xiong Wang}},
+  year = {2025},
+  eprint = {2512.03042v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.03042v3},
+  note = {First published: 2025-12-02; Recorded arXiv version: v3; Recorded version updated: 2026-07-02T00:17:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

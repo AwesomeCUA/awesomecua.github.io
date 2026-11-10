@@ -1,3 +1,11 @@
+---
+title: "Self-Evolving Coding Agents: From Digital… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35432/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence
 
 Bibliographic record for Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hongcheng Gao, Jingjing Zhou, Zelin Zheng, Shijia Ge, Jay Zhu, Yazhe Wang, Jians
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-35432/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-35432/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35432,
+  title = {{Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence}},
+  author = {{Hongcheng Gao} and {Jingjing Zhou} and {Zelin Zheng} and {Shijia Ge} and {Jay Zhu} and {Yazhe Wang} and {Jianshu Zeng} and {Xuan Shangguan} and {Di Wu} and {Lingyu He} and {Zhiqi Jia} and {Sihang Wu} and {Xiao He}},
+  year = {2026},
+  eprint = {2609.35432v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35432v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T15:38:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

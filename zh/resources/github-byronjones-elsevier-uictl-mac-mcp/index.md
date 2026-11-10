@@ -1,3 +1,11 @@
+---
+title: "uictl-mac-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-byronjones-elsevier-uictl-mac-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # uictl-mac-mcp
 
 面向编码智能体的 macOS GUI 自动化 CLI 和 Model Context Protocol 服务器。

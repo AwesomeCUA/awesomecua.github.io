@@ -1,3 +1,11 @@
+---
+title: "TinyFish MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinyfish-io-tinyfish-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # TinyFish MCP Server
 
 TinyFish 官方 Model Context Protocol 服务器，提供网页搜索、页面提取和云浏览器自动化能力。

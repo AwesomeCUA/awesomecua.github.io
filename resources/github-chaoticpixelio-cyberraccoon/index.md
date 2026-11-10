@@ -1,3 +1,11 @@
+---
+title: "CyberRaccoon | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chaoticpixelio-cyberraccoon/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # CyberRaccoon
 
 Non-invasive physical computer-use agent that captures HDMI video and dispatches USB HID mouse and keyboard actions from a Raspberry Pi.

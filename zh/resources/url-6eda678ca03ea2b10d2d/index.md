@@ -1,3 +1,11 @@
+---
+title: "Qwen3.5-4B-Browser-Agent-SFT-FP8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6eda678ca03ea2b10d2d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3.5-4B-Browser-Agent-SFT-FP8
 
 一个基于浏览器智能体轨迹和结构化操作微调的 FP8 Qwen3.5-4B 检查点。模型卡提供 vLLM 服务配置，并报告 BrowseWebApp-Bench v2 的结果。

@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_ground_iterative · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-87bba046fba8c1cd968c/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # lumos_unified_ground_iterative
 
 这是供 Lumos-I 定位模块训练的 JSONL 数据集，汇集数学、问答和网页智能体标注，其中包括 Mind2Web 样本。

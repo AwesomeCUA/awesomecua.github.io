@@ -1,3 +1,11 @@
+---
+title: "WebTestBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # WebTestBench
 
 端到端网页测试基准，智能体根据开发说明制定测试清单，与已部署的应用交互，并报告功能或约束方面的缺陷。

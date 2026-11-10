@@ -1,3 +1,11 @@
+---
+title: "Aguvis stage 2 trajectory data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b5e2127e07f692d516b9/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Aguvis stage 2 trajectory data
 
 The second-stage Aguvis collection of interface trajectories for learning action sequences, planning and reasoning after grounding pretraining.

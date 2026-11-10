@@ -1,3 +1,11 @@
+---
+title: "vimGPT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ishan0102-vimgpt/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # vimGPT
 
 vimGPT 通过在交互式 DOM 元素上叠加 Vimium 键盘快捷键标记，使多模态 LLM 能够浏览网页。

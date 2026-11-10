@@ -1,3 +1,11 @@
+---
+title: "OpenCUA-7B-exl2 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-76f3981d219bb87b4eea/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpenCUA-7B-exl2
 
 OpenCUA-7B-exl2 是 4.5bpw 量化的 OpenCUA-7B 模型权重，可根据屏幕截图生成电脑操作并定位界面目标。

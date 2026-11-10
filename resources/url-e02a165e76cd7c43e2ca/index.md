@@ -1,3 +1,11 @@
+---
+title: "webarena-world-model-rlvr | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e02a165e76cd7c43e2ca/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # webarena-world-model-rlvr
 
 A language world model for web page state prediction on WebArena, post-trained with RLVR from an SFT checkpoint and used for model predictive control of web agents.

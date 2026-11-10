@@ -1,3 +1,11 @@
+---
+title: "Scaling Agents for Computer Use · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-02250/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Scaling Agents for Computer Use
 
 Behavior Judge 将执行轨迹转化为行为叙述，并比较多个候选执行轨迹。研究在 OSWorld、WindowsAgentArena 和 AndroidWorld 上考察这种选择方法。
@@ -27,6 +35,18 @@ Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee, Jiachen Yang, Ang Li, Xin 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-02250/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-02250/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_02250,
+  title = {{Scaling Agents for Computer Use}},
+  author = {{Gonzalo Gonzalez-Pumariega} and {Vincent Tu} and {Chih-Lun Lee} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2025},
+  eprint = {2510.02250v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.02250v2},
+  note = {First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-02-03T23:48:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

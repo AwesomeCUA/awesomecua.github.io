@@ -1,3 +1,11 @@
+---
+title: "Orak: A Foundational Benchmark for Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-03610/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games
 
 Bibliographic record for Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dongmin Park, Minkyu Kim, Beongjun Choi, Junhyuck Kim, Keon Lee, Jonghyun Lee, I
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-03610/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-03610/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_03610,
+  title = {{Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games}},
+  author = {{Dongmin Park} and {Minkyu Kim} and {Beongjun Choi} and {Junhyuck Kim} and {Keon Lee} and {Jonghyun Lee} and {Inkyu Park} and {Byeong-Uk Lee} and {Jaeyoung Hwang} and {Jaewoo Ahn} and {Ameya S. Mahabaleshwarkar} and {Bilal Kartal} and {Pritam Biswas} and {Yoshi Suhara} and {Kangwook Lee} and {Jaewoong Cho}},
+  year = {2025},
+  eprint = {2506.03610v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.03610v3},
+  note = {First published: 2025-06-04; Recorded arXiv version: v3; Recorded version updated: 2026-04-14T22:54:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

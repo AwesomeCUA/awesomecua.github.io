@@ -1,3 +1,11 @@
+---
+title: "Holo1 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f35cfcbaeb79663eabeb/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Holo1 7B
 
 A Qwen2.5-VL-based action model released for the Surfer-H web-agent system, supporting policy, interface-localization and validation roles.

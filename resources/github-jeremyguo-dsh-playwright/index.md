@@ -1,3 +1,11 @@
+---
+title: "dsh-playwright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeremyguo-dsh-playwright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-playwright
 
 Shared Playwright browser plugin for DeepSeek Harness where the human user and AI agent co-operate the same browser window.

@@ -1,3 +1,11 @@
+---
+title: "Beyond Rule-Based Workflows: An… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-09883/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL
 
 Bibliographic record for Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xinxing Ren, Quagmire Zang, Caelum Forder, Suman Deb, Ahsen Tahir, Roman J. Geor
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-09883/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-09883/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_09883,
+  title = {{Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL}},
+  author = {{Xinxing Ren} and {Quagmire Zang} and {Caelum Forder} and {Suman Deb} and {Ahsen Tahir} and {Roman J. Georgio} and {Peter Carroll} and {Zekun Guo}},
+  year = {2026},
+  eprint = {2601.09883v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.09883v1},
+  note = {First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T21:35:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

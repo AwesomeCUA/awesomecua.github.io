@@ -1,3 +1,11 @@
+---
+title: "Proactive bottleneck performance analysis in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1311-1907/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Proactive bottleneck performance analysis in parallel computing using openMP
 
 Status: excluded from the active CUA catalog after scope review.

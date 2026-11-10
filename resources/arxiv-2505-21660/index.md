@@ -1,3 +1,11 @@
+---
+title: "PreGenie: An Agentic Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-21660/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PreGenie: An Agentic Framework for High-quality Visual Presentation Generation
 
 Bibliographic record for PreGenie: An Agentic Framework for High-quality Visual Presentation Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaojie Xu, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-21660/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-21660/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_21660,
+  title = {{PreGenie: An Agentic Framework for High-quality Visual Presentation Generation}},
+  author = {{Xiaojie Xu} and {Xinli Xu} and {Sirui Chen} and {Haoyu Chen} and {Fan Zhang} and {Ying-Cong Chen}},
+  year = {2025},
+  eprint = {2505.21660v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.21660v2},
+  note = {First published: 2025-05-27; Recorded arXiv version: v2; Recorded version updated: 2025-08-31T00:34:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

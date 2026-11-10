@@ -1,3 +1,11 @@
+---
+title: "FluidGPT (agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-738bfdfe24671ad29a43/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # FluidGPT
 
 An Android agent that selects reusable app routines from a task goal and executes them through the accessibility tree. Its benchmark report presents episode recordings and action traces.

@@ -1,3 +1,11 @@
+---
+title: "Agents in the Sandbox: End-to-End Crash Bug… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-20036/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft
 
 Introduces BugCraft, which turns Minecraft crash reports into steps and has a vision-based agent execute them through a macro API; BugCraft-Bench supports evaluation.
@@ -26,6 +34,18 @@ Eray Yapağcı, Yavuz Alp Sencer Öztürk, Eray Tüzün
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-20036/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-20036/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_20036,
+  title = {{Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft}},
+  author = {{Eray Yapağcı} and {Yavuz Alp Sencer Öztürk} and {Eray Tüzün}},
+  year = {2025},
+  eprint = {2503.20036v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.20036v2},
+  note = {First published: 2025-03-25; Recorded arXiv version: v2; Recorded version updated: 2025-10-10T18:28:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

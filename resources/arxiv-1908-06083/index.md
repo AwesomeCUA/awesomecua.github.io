@@ -1,3 +1,11 @@
+---
+title: "Build it Break it Fix it for Dialogue Safety… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1908-06083/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack
 
 Bibliographic record for Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1908-06083/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1908-06083/citation.csl.json
+
+```bibtex
+@misc{arxiv_1908_06083,
+  title = {{Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack}},
+  author = {{Emily Dinan} and {Samuel Humeau} and {Bharath Chintagunta} and {Jason Weston}},
+  year = {2019},
+  eprint = {1908.06083v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1908.06083v1},
+  note = {First published: 2019-08-17; Recorded arXiv version: v1; Recorded version updated: 2019-08-17T18:34:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "A Survey on GUI Agents with Foundation Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-20464/
+updated: 2026-10-16
+type: survey
+lang: en
+---
+
 # A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning
 
 Formalizes GUI tasks as Markov decision processes and traces agent training from prompting through supervised fine-tuning to reinforcement learning.
@@ -22,6 +30,18 @@ Jiahao Li, Kaer Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-20464/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-20464/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_20464,
+  title = {{A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning}},
+  author = {{Jiahao Li} and {Kaer Huang}},
+  year = {2025},
+  eprint = {2504.20464v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.20464v2},
+  note = {First published: 2025-04-29; Recorded arXiv version: v2; Recorded version updated: 2025-05-13T01:59:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

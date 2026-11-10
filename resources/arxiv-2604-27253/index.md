@@ -1,3 +1,11 @@
+---
+title: "AutoSurfer -- Teaching Web Agents through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-27253/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling
 
 AutoSurfer explores website actions breadth-first, retaining page and trajectory knowledge to guide task synthesis and trajectory refinement. It evaluates the resulting training data by fine-tuning a web agent on WebArena and examining synthesized-task diversity.
@@ -26,6 +34,18 @@ Fazle Elahi Faisal, Qianhui Wu, Baolin Peng, Jianfeng Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-27253/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-27253/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_27253,
+  title = {{AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling}},
+  author = {{Fazle Elahi Faisal} and {Qianhui Wu} and {Baolin Peng} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2604.27253v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.27253v1},
+  note = {First published: 2026-04-29; Recorded arXiv version: v1; Recorded version updated: 2026-04-29T22:57:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

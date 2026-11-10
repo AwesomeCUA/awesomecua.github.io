@@ -1,3 +1,11 @@
+---
+title: "From Imitation to Discrimination… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-12666/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation
 
 提出 Triton 数据集及分阶段训练方案，用 HTML 困难负例训练文本网页导航智能体辨别页面元素，并处理较长任务。
@@ -27,6 +35,18 @@ Chuang Peng, Wei Zhang, Renshuai Tao, Xinhao Zhang, Jian Yang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-12666/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-12666/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_12666,
+  title = {{From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation}},
+  author = {{Chuang Peng} and {Wei Zhang} and {Renshuai Tao} and {Xinhao Zhang} and {Jian Yang}},
+  year = {2026},
+  eprint = {2604.12666v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.12666v1},
+  note = {First published: 2026-04-14; Recorded arXiv version: v1; Recorded version updated: 2026-04-14T12:37:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

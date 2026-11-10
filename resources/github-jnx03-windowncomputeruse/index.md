@@ -1,3 +1,11 @@
+---
+title: "Win:Computer Use MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jnx03-windowncomputeruse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Win:Computer Use MCP
 
 Windows Model Context Protocol server giving MCP clients a dedicated virtual cursor, UI Automation inspection, and desktop control.

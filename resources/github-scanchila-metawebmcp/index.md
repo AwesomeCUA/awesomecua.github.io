@@ -1,3 +1,11 @@
+---
+title: "MetaWebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scanchila-metawebmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MetaWebMCP
 
 In-browser workbench to author, test, and export structured WebMCP tool definitions from live website workflows.

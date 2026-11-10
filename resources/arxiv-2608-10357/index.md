@@ -1,3 +1,11 @@
+---
+title: "Efficient Reinforcement Learning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-10357/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Reinforcement Learning for Long-Horizon Tool-Use Agentic Tasks
 
 Status: excluded from the active CUA catalog after scope review.

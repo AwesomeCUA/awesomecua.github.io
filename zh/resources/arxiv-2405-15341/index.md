@@ -1,3 +1,11 @@
+---
+title: "V-Zen: Efficient GUI Understanding and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2405-15341/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM
 
 V-Zen 是一种多模态 GUI 模型，采用双分辨率图像编码器进行定位和下一步动作预测，并使用 GUIDE 界面元素及任务序列微调。
@@ -27,6 +35,18 @@ Abdur Rahman, Rajat Chawla, Muskaan Kumar, Arkajit Datta, Adarsh Jha, Mukunda NS
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2405-15341/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2405-15341/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_15341,
+  title = {{V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM}},
+  author = {{Abdur Rahman} and {Rajat Chawla} and {Muskaan Kumar} and {Arkajit Datta} and {Adarsh Jha} and {Mukunda NS} and {Ishaan Bhola}},
+  year = {2024},
+  eprint = {2405.15341v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.15341v2},
+  note = {First published: 2024-05-24; Recorded arXiv version: v2; Recorded version updated: 2024-07-21T07:34:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

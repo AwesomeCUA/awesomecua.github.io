@@ -1,3 +1,11 @@
+---
+title: "WebAgentGuard: A Reasoning-Driven Guard… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-12284/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents
 
 WebAgentGuard 通过并行的多模态防护模型，将提示注入检测与执行任务的网页智能体分开；该模型使用合成视觉和文本样本，先进行侧重推理的监督微调，再进行强化学习。
@@ -27,6 +35,18 @@ Yulin Chen, Tri Cao, Haoran Li, Yue Liu, Yibo Li, Yufei He, Le Minh Khoi, Yangqi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-12284/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-12284/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_12284,
+  title = {{WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents}},
+  author = {{Yulin Chen} and {Tri Cao} and {Haoran Li} and {Yue Liu} and {Yibo Li} and {Yufei He} and {Le Minh Khoi} and {Yangqiu Song} and {Shuicheng Yan} and {Bryan Hooi}},
+  year = {2026},
+  eprint = {2604.12284v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.12284v1},
+  note = {First published: 2026-04-14; Recorded arXiv version: v1; Recorded version updated: 2026-04-14T04:50:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

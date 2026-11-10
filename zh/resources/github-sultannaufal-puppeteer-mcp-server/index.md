@@ -1,3 +1,11 @@
+---
+title: "Puppeteer MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sultannaufal-puppeteer-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Puppeteer MCP Server
 
 可自行托管的 Puppeteer MCP 服务器，支持远程 Server-Sent Events（SSE）传输、API 密钥认证和 Docker 部署。

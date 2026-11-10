@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3-VL-8B OSWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1807bdb33fc352a97240/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ScaleCUA (THUDM) Qwen3-VL-8B OSWorld
 
 Qwen3-VL-8B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for OSWorld desktop tasks after a released SFT start point.

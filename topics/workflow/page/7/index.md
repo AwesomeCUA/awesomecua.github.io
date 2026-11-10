@@ -1,10 +1,17 @@
+---
+title: "Workflows — computer-use research, page 7 | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/page/7/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows — computer-use research, page 7
 
 HTML page: https://awesomecua.com/topics/workflow/page/7/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
-- [Jev Social](https://awesomecua.com/resources/github-socai-io-jev-social/)
 - [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)
 - [Job Hunter AI](https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/)
 - [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/resources/github-qiulingzhu809-sudo-job-pilot-2027/)
@@ -61,6 +68,7 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [Napaxi](https://awesomecua.com/resources/github-antgroup-napaxi/)
 - [Narada Code and OperatorMini](https://awesomecua.com/resources/url-fd28110220935a0fae26/)
 - [Narada Operator](https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/)
-- [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/)
 - [navforge](https://awesomecua.com/resources/github-huzjie-navforge/)
 - [Nell (Open Source Instinct)](https://awesomecua.com/resources/github-iabdulwasey-nell/)
+- [Neurosim](https://awesomecua.com/resources/github-anaishowland-neurosim/)
+- [Northstar (Legacy Portal CUA)](https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/)

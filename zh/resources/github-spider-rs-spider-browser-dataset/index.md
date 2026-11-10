@@ -1,3 +1,11 @@
+---
+title: "Spider Browser Dataset · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-spider-rs-spider-browser-dataset/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Spider Browser Dataset
 
 Spider Browser Dataset 在 18 个类别的 999 个 URL 和 327 个域名上评测浏览器自动化和抗反机器人机制的能力。

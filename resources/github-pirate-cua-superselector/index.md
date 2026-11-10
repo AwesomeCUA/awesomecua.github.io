@@ -1,3 +1,11 @@
+---
+title: "SuperSelector Studio | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pirate-cua-superselector/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SuperSelector Studio
 
 Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer Use recording and replay.

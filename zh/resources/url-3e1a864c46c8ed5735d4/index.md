@@ -1,3 +1,11 @@
+---
+title: "Agent Humanization Benchmark (AHB)… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3e1a864c46c8ed5735d4/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Agent Humanization Benchmark (AHB) recordings
 
 记录人类与移动端 GUI 智能体完成相同中文 Android 应用任务时的触摸手势和运动传感器数据，附任务列表和元数据，用于训练区分智能体与人类的检测器。

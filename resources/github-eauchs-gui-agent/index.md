@@ -1,3 +1,11 @@
+---
+title: "Two-Layer macOS GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eauchs-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Two-Layer macOS GUI Agent
 
 Two-layer macOS GUI navigation agent that separates VLM screen perception from strategic LLM action planning.

@@ -1,3 +1,11 @@
+---
+title: "CloakGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-koukeneko-cloakgpt/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # CloakGPT
 
 Local CLI that drives an authenticated ChatGPT web session through the anti-detect CloakBrowser.

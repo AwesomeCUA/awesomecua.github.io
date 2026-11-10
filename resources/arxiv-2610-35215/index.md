@@ -1,3 +1,11 @@
+---
+title: "SkillLifeBench: Benchmarking Security Across… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-35215/
+updated: 2026-10-30
+type: paper
+lang: en
+---
+
 # SkillLifeBench: Benchmarking Security Across the Lifecycle of Agent Skills
 
 Bibliographic record for SkillLifeBench: Benchmarking Security Across the Lifecycle of Agent Skills. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Chenxu Zhang, Zhou Liu, Wu Xin, Wentao Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-35215/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-35215/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35215,
+  title = {{SkillLifeBench: Benchmarking Security Across the Lifecycle of Agent Skills}},
+  author = {{Chenxu Zhang} and {Zhou Liu} and {Wu Xin} and {Wentao Zhang}},
+  year = {2026},
+  eprint = {2610.35215v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35215v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T11:07:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

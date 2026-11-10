@@ -1,3 +1,11 @@
+---
+title: "GUI Exploration Lab · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-summoneryhl-gelab-engine/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # GUI Exploration Lab
 
 一个合成 GUI 环境，可配置屏幕、图标和导航图，用于训练并评估智能体的屏幕导航能力。

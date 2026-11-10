@@ -1,3 +1,11 @@
+---
+title: "ScreenQA: Large-Scale Question-Answer… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2209-08199/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots
 
 提出针对移动界面截图的问答任务，将答案与屏幕内容和边界框关联。
@@ -27,6 +35,18 @@ Yu-Chung Hsiao, Fedir Zubach, Gilles Baechler, Srinivas Sunkara, Victor Carbune,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2209-08199/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2209-08199/citation.csl.json
+
+```bibtex
+@misc{arxiv_2209_08199,
+  title = {{ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots}},
+  author = {{Yu-Chung Hsiao} and {Fedir Zubach} and {Gilles Baechler} and {Srinivas Sunkara} and {Victor Carbune} and {Jason Lin} and {Maria Wang} and {Yun Zhu} and {Jindong Chen}},
+  year = {2022},
+  eprint = {2209.08199v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2209.08199v4},
+  note = {First published: 2022-09-16; Recorded arXiv version: v4; Recorded version updated: 2025-02-09T21:09:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

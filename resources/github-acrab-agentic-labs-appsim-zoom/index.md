@@ -1,3 +1,11 @@
+---
+title: "Zoom Android Template | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Zoom Android Template
 
 Zoom Android Template is a simulated meeting app for mobile interaction tests, with seeded schedules and runtime records of meeting and profile actions.

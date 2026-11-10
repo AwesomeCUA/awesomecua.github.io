@@ -1,3 +1,11 @@
+---
+title: "Beyond Selection: Token Parameterization for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35232/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Beyond Selection: Token Parameterization for Extreme Visual Token Compression
 
 Status: excluded from the active CUA catalog after scope review.

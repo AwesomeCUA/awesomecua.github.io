@@ -1,3 +1,11 @@
+---
+title: "From Trajectories to Grounded… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-32351/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # From Trajectories to Grounded Preferences: Process Preference Synthesis via Interaction Element Graphs for Web PRMs
 
 SURFPRM 将网页操作演示转为交互元素图，用于合成与界面对应的负面操作。其对比偏好数据用于训练过程奖励模型，以区分页面上看似合理的备选操作，并指导后续轨迹搜索。
@@ -27,6 +35,18 @@ Yangzhe Peng, Xiaoyang Wang, Yiyang Zhao, Lijun Wu, Kun He
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-32351/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-32351/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32351,
+  title = {{From Trajectories to Grounded Preferences: Process Preference Synthesis via Interaction Element Graphs for Web PRMs}},
+  author = {{Yangzhe Peng} and {Xiaoyang Wang} and {Yiyang Zhao} and {Lijun Wu} and {Kun He}},
+  year = {2026},
+  eprint = {2609.32351v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32351v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T08:14:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

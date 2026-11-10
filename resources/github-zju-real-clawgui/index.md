@@ -1,3 +1,11 @@
+---
+title: "ClawGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zju-real-clawgui/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # ClawGUI
 
 Framework for GUI agent training, evaluation, and deployment.

@@ -1,3 +1,11 @@
+---
+title: "PathGen-1.6M: 1.6 Million Pathology… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-00203/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration
 
 Bibliographic record for PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuxuan Sun, Yunlong Zhang, Yixuan Si, Chenglu Zhu, Zhongyi Shui, Kai Zhang, Jing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-00203/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-00203/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_00203,
+  title = {{PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration}},
+  author = {{Yuxuan Sun} and {Yunlong Zhang} and {Yixuan Si} and {Chenglu Zhu} and {Zhongyi Shui} and {Kai Zhang} and {Jingxiong Li} and {Xingheng Lyu} and {Tao Lin} and {Lin Yang}},
+  year = {2024},
+  eprint = {2407.00203v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.00203v1},
+  note = {First published: 2024-06-28; Recorded arXiv version: v1; Recorded version updated: 2024-06-28T19:18:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

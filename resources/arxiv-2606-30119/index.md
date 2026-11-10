@@ -1,3 +1,11 @@
+---
+title: "On the Internet, Nobody Knows You're an LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-30119/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # On the Internet, Nobody Knows You're an LLM Bot: Unmasking Web Agents with Multi-Layer Fingerprinting
 
 Evaluates web agents against anti-bot mechanisms on instrumented honeysites and analyzes network, HTTP and browser fingerprints. The study compares resistance to blocking with the ability to distinguish agents, humans and agent implementations.
@@ -26,6 +34,18 @@ Iliana Fayolle, Sihem Bouhenniche, Samuel Pélissier, Pierre Laperdrix, Clément
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-30119/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-30119/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_30119,
+  title = {{On the Internet, Nobody Knows You're an LLM Bot: Unmasking Web Agents with Multi-Layer Fingerprinting}},
+  author = {{Iliana Fayolle} and {Sihem Bouhenniche} and {Samuel Pélissier} and {Pierre Laperdrix} and {Clémentine Maurice} and {Walter Rudametkin}},
+  year = {2026},
+  eprint = {2606.30119v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.30119v1},
+  note = {First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T10:51:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "SilbercueSwift | AwesomeCUA"
+url: https://awesomecua.com/resources/github-silbercue-silbercueswift/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SilbercueSwift
 
 An MCP server for iOS development that gives agents simulator screenshots, UI element inspection, navigation actions and structured test results.

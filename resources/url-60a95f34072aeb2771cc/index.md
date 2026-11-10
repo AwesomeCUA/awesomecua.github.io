@@ -1,3 +1,11 @@
+---
+title: "EvoCUA 32B 20260105 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-60a95f34072aeb2771cc/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # EvoCUA 32B 20260105
 
 Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.

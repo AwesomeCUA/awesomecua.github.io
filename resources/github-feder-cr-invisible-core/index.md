@@ -1,3 +1,11 @@
+---
+title: "invisible_core | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-invisible-core/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # invisible_core
 
 invisible_core generates Firefox fingerprint profiles and browser preferences, and provides an engine client shared by browser automation wrappers and an MCP server.

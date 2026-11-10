@@ -1,3 +1,11 @@
+---
+title: "IGG: A Benchmark for Interactive GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-32536/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # IGG: A Benchmark for Interactive GUI Grounding under Visibility Constraints
 
 提出 Interactive GUI Grounding (IGG) 基准，测试智能体能否通过交互显露隐藏的界面目标并完成点击。
@@ -27,6 +35,18 @@ Kyeongseon Kim, Jiyeon Son, Tae-Hyun Oh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-32536/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-32536/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_32536,
+  title = {{IGG: A Benchmark for Interactive GUI Grounding under Visibility Constraints}},
+  author = {{Kyeongseon Kim} and {Jiyeon Son} and {Tae-Hyun Oh}},
+  year = {2026},
+  eprint = {2610.32536v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.32536v1},
+  note = {First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T12:14:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

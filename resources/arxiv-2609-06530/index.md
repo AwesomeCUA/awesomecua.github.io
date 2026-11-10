@@ -1,3 +1,11 @@
+---
+title: "Selective Knowledge Control for Continual GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-06530/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Selective Knowledge Control for Continual GUI Agent Learning over Application Streams
 
 Introduces activation-conditioned gradient control for GUI agents learning successive applications. It protects inactive application-specific neurons, constrains updates to shared neurons, and accumulates a compact historical state to balance adaptation with retention.
@@ -26,6 +34,18 @@ Zirui Shang, Xin Shu, Yang Liu, Zhi Gao, Xinxiao Wu, Lifeng Fan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-06530/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-06530/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_06530,
+  title = {{Selective Knowledge Control for Continual GUI Agent Learning over Application Streams}},
+  author = {{Zirui Shang} and {Xin Shu} and {Yang Liu} and {Zhi Gao} and {Xinxiao Wu} and {Lifeng Fan}},
+  year = {2026},
+  eprint = {2609.06530v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.06530v1},
+  note = {First published: 2026-09-06; Recorded arXiv version: v1; Recorded version updated: 2026-09-06T10:50:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

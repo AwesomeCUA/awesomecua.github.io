@@ -1,3 +1,11 @@
+---
+title: "Geohotstan DSH Codex Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Geohotstan DSH Codex Computer Use
 
 macOS computer-use plugin for DeepSeek Harness providing app listing, Accessibility-tree window capture, and GUI input.

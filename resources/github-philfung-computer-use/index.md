@@ -1,3 +1,11 @@
+---
+title: "Computer Use for macOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-philfung-computer-use/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Computer Use for macOS
 
 Native macOS desktop application for running Claude Computer Use with local screen capture and mouse/keyboard actuation.

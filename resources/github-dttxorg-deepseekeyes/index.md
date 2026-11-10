@@ -1,3 +1,11 @@
+---
+title: "DeepSeekEyes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dttxorg-deepseekeyes/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # DeepSeekEyes
 
 Auditable vision and cross-platform computer-use runtime for DeepSeek Harness with cryptographic evidence receipts.

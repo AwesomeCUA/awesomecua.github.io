@@ -1,3 +1,11 @@
+---
+title: "open-compute-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # open-compute-mcp
 
 open-compute-mcp 启动一个 Python 电脑操作 MCP 服务器，并通过本地标准输入输出转发请求。其后端提供 Windows 桌面采集、界面检查和输入工具。

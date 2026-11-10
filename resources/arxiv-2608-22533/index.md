@@ -1,3 +1,11 @@
+---
+title: "CONTRAMEM: Learning Self-Evolving Procedural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-22533/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # CONTRAMEM: Learning Self-Evolving Procedural Memory from Contrasting Multi-Model Trajectories
 
 Bibliographic record for CONTRAMEM: Learning Self-Evolving Procedural Memory from Contrasting Multi-Model Trajectories. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zheyuan Deng, Binghang Lu, Hanqi Feng, Shirley Huang, Dianzhuo Wang, Yuanda Xu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-22533/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-22533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_22533,
+  title = {{CONTRAMEM: Learning Self-Evolving Procedural Memory from Contrasting Multi-Model Trajectories}},
+  author = {{Zheyuan Deng} and {Binghang Lu} and {Hanqi Feng} and {Shirley Huang} and {Dianzhuo Wang} and {Yuanda Xu} and {Zhiwei Zhang} and {Yige Sun} and {Changhong Mou} and {Runyu Zhang} and {Yuexing Hao} and {Barnabas Poczos} and {Guang Lin} and {Xiaomin Li}},
+  year = {2026},
+  eprint = {2608.22533v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.22533v2},
+  note = {First published: 2026-08-23; Recorded arXiv version: v2; Recorded version updated: 2026-09-30T05:36:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Interceptor · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hacker-valley-media-interceptor/
+updated: 2026-10-19
+type: tool
+lang: zh-CN
+---
+
 # Interceptor
 
 CLI 与 MCP 服务器让智能体操作用户已登录的 Chrome、Brave 或 Safari，通过辅助功能接口操作 macOS、Windows 和 Linux 原生应用，并经 XCUITest 运行器操作实体 iPhone。

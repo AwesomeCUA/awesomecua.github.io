@@ -1,3 +1,11 @@
+---
+title: "OSWorld-V2 0624 Codex attempt trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9112dfcb201f2de7241f/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # OSWorld-V2 0624 Codex attempt trajectories
 
 Self-reported OSWorld-V2 run of a Codex-based harness with gpt-5.6-sol on all 108 tasks: per-step CLI and GUI actions, screenshots and scores, plus retried attempts and the solution and recovery cards that guided them.

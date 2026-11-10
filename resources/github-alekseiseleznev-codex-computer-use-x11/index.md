@@ -1,3 +1,11 @@
+---
+title: "codex-computer-use-x11 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alekseiseleznev-codex-computer-use-x11/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # codex-computer-use-x11
 
 Standalone Rust CLI and Model Context Protocol plugin enabling Codex Computer Use on Linux Cinnamon/X11 desktops.

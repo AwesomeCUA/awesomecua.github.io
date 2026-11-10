@@ -1,3 +1,11 @@
+---
+title: "Agentic Web · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saferl-lab-agentic-web/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Agentic Web
 
 一份关于网络智能体的研究阅读清单，按开发、检索、规划、安全和基准测试等主题整理文献。

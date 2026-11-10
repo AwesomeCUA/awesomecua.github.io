@@ -1,3 +1,11 @@
+---
+title: "vncdotool | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sibson-vncdotool/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # vncdotool
 
 A command-line VNC client for sending input to remote desktop sessions and capturing their screens, including sessions hosted by virtual machines.

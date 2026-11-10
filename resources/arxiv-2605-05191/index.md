@@ -1,3 +1,11 @@
+---
+title: "LongSeeker: Elastic Context Orchestration for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-05191/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents
 
 Bibliographic record for LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yijun Lu, Rui Ye, Yuwen Du, Jiajun Wang, Songhua Liu, Siheng Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-05191/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-05191/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_05191,
+  title = {{LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents}},
+  author = {{Yijun Lu} and {Rui Ye} and {Yuwen Du} and {Jiajun Wang} and {Songhua Liu} and {Siheng Chen}},
+  year = {2026},
+  eprint = {2605.05191v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.05191v1},
+  note = {First published: 2026-05-06; Recorded arXiv version: v1; Recorded version updated: 2026-05-06T17:54:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

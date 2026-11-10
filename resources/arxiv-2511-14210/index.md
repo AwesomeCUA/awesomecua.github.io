@@ -1,3 +1,11 @@
+---
+title: "Orion: A Unified Visual Agent for Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-14210/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution
 
 Status: excluded from the active CUA catalog after scope review.

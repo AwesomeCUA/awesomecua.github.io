@@ -1,3 +1,11 @@
+---
+title: "A Survey on Benchmarks of LLM-based GUI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e1842006eb7b4745da03/
+updated: 2026-10-20
+type: survey
+lang: en
+---
+
 # A Survey on Benchmarks of LLM-based GUI Agents
 
 Surveys LLM-based GUI agent benchmarks in three task tiers (grounding and QA, multi-step navigation, open-world environments), comparing their datasets, environments and metrics, and outlines open evaluation gaps.
@@ -26,6 +34,19 @@ Yihong Chen, Shuai Wang, Yaqing Wang, Quanming Yao
 
 - BibTeX: https://awesomecua.com/resources/url-e1842006eb7b4745da03/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-e1842006eb7b4745da03/citation.csl.json
+
+```bibtex
+@misc{cua_ebeea7a8b131934b2ed2ee02,
+  title = {{A Survey on Benchmarks of LLM-based GUI Agents}},
+  author = {{Yihong Chen} and {Shuai Wang} and {Yaqing Wang} and {Quanming Yao}},
+  year = {2025},
+  month = dec,
+  publisher = {Institute of Electrical and Electronics Engineers (IEEE)},
+  doi = {10.36227/techrxiv.176591818.87526814/v1},
+  url = {https://doi.org/10.36227/techrxiv.176591818.87526814/v1},
+  note = {Publication date: 2025-12-16.}
+}
+```
 
 ## Publication record
 

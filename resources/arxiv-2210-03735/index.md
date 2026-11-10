@@ -1,3 +1,11 @@
+---
+title: "\"Help Me Help the AI\": Understanding How… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-03735/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # "Help Me Help the AI": Understanding How Explainability Can Support Human-AI Interaction
 
 Status: excluded from the active CUA catalog after scope review.

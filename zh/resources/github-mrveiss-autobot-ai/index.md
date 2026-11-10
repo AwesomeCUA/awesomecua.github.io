@@ -1,3 +1,11 @@
+---
+title: "AutoBot-AI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mrveiss-autobot-ai/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AutoBot-AI
 
 AutoBot-AI 是一个自托管的自主智能体平台，结合视觉驱动的浏览器与桌面控制、语音交互和工作流记忆。

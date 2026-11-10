@@ -1,3 +1,11 @@
+---
+title: "The Art of Building Verifiers for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-06240/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # The Art of Building Verifiers for Computer Use Agents
 
 介绍一种网页轨迹验证器，采用结构化评分准则，分别判断过程与结果，并明确处理不可控故障。CUAVerifierBench 提供人工标注，用于评估这些设计及基于截图的上下文管理。
@@ -27,6 +35,18 @@ Corby Rosset, Pratyusha Sharma, Andrew Zhao, Miguel Gonzalez-Fernandez, Ahmed Aw
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-06240/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-06240/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_06240,
+  title = {{The Art of Building Verifiers for Computer Use Agents}},
+  author = {{Corby Rosset} and {Pratyusha Sharma} and {Andrew Zhao} and {Miguel Gonzalez-Fernandez} and {Ahmed Awadallah}},
+  year = {2026},
+  eprint = {2604.06240v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.06240v1},
+  note = {First published: 2026-04-05; Recorded arXiv version: v1; Recorded version updated: 2026-04-05T06:26:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

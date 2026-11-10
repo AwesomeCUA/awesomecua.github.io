@@ -1,3 +1,11 @@
+---
+title: "Narada Code and OperatorMini | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fd28110220935a0fae26/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Narada Code and OperatorMini
 
 Narada Code develops and tests computer-use workflows, then revises them after failures. OperatorMini executes the instructions for repeatable web and enterprise tasks.

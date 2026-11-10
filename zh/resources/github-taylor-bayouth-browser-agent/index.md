@@ -1,3 +1,11 @@
+---
+title: "Taylor-Bayouth Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-taylor-bayouth-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Taylor-Bayouth Browser Agent
 
 隐身浏览器智能体，通过 CDP 和操作系统级输入控制真实 Chrome，无需注入网页 JavaScript。

@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Clipboard Upload · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dev-newb-chatgpt-clipboard-upload/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ChatGPT Clipboard Upload
 
 这是一款自动在 ChatGPT 浏览器对话中添加文件附件的 Codex 技能。它通过浏览器剪贴板粘贴文件，并将生成的附件名称映射回原文件。

@@ -1,3 +1,11 @@
+---
+title: "OpenAPA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-laiye-ai-open-apa/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OpenAPA
 
 A computer-use agent for desktop GUI tasks that combines screenshot-based reasoning, visual grounding, planning, and action execution across applications.

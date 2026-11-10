@@ -1,3 +1,11 @@
+---
+title: "DroidLume Agent Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tageecc-droidlume-agent-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DroidLume Agent Control
 
 通过 npm 分发的 CLI、Model Context Protocol 服务器和独立 Android 配套应用，用于 AI 手机控制。

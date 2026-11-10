@@ -1,3 +1,11 @@
+---
+title: "From Interaction Traces to Persistent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-04869/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents
 
 一种在线技能演进框架将 GUI 交互轨迹与评估反馈转化为带版本的可复用流程库，无需更新模型参数；受控 OSWorld 比较考察共享流程记忆的益处，以及反复修订时因领域而异的不稳定性。
@@ -27,6 +35,18 @@ Longtao Hu, Xiao Liang, Linchao Zhu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-04869/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-04869/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_04869,
+  title = {{From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents}},
+  author = {{Longtao Hu} and {Xiao Liang} and {Linchao Zhu}},
+  year = {2026},
+  eprint = {2609.04869v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.04869v1},
+  note = {First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T08:29:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

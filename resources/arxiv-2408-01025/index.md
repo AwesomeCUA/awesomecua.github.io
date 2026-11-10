@@ -1,3 +1,11 @@
+---
+title: "CALA-$n$: A Quantum Library for Realizing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-01025/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CALA-$n$: A Quantum Library for Realizing Cost-Effective 2-, 3-, 4-, and 5-bit Gates on IBM Quantum Computers using Bloch Sphere Approach, Clifford+T Gates, and Layouts
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Chrome for AI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pelag-michael-chrome-for-ai/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome for AI
 
 基于 Patchright 的 Model Context Protocol 服务器，使 AI 智能体能够操作真实的 Google Chrome 标签页和 Cookie。

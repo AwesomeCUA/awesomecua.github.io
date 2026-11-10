@@ -1,3 +1,11 @@
+---
+title: "Holo1.5 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dc20a06c296207ac11a6/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo1.5 3B
 
 Smallest Holo1.5 checkpoint, fine-tuned from Qwen2.5-VL-3B-Instruct with supervised training then GRPO, for locating interface elements and answering questions about web, desktop and mobile screens.

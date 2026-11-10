@@ -1,3 +1,11 @@
+---
+title: "Building the Web for Agents: A Declarative… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-11287/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Building the Web for Agents: A Declarative Framework for Agent-Web Interaction
 
 Bibliographic record for Building the Web for Agents: A Declarative Framework for Agent-Web Interaction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sven Schultze, Meike Verena Kietzmann, Nils-Lucas Schönfeld, Ruth Stock-Homburg
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-11287/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-11287/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_11287,
+  title = {{Building the Web for Agents: A Declarative Framework for Agent-Web Interaction}},
+  author = {{Sven Schultze} and {Meike Verena Kietzmann} and {Nils-Lucas Schönfeld} and {Ruth Stock-Homburg}},
+  year = {2025},
+  eprint = {2511.11287v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.11287v1},
+  note = {First published: 2025-11-14; Recorded arXiv version: v1; Recorded version updated: 2025-11-14T13:23:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Experimenting quantum phenomena on NISQ… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2111-02896/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Experimenting quantum phenomena on NISQ computers using high level quantum programming
 
 Status: excluded from the active CUA catalog after scope review.

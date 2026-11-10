@@ -1,3 +1,11 @@
+---
+title: "Me-Agent: A Personalized Mobile Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-20162/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Me-Agent: A Personalized Mobile Agent with Two-Level User Habit Learning for Enhanced Interaction
 
 Me-Agent 通过偏好奖励模型及存储长期和应用内习惯的分层记忆，支持移动智能体的个性化操作；同时提出 User FingerTip。
@@ -27,6 +35,18 @@ Shuoxin Wang, Chang Liu, Gowen Loo, Lifan Zheng, Kaiwen Wei, Xinyi Zeng, Jingyua
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-20162/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-20162/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_20162,
+  title = {{Me-Agent: A Personalized Mobile Agent with Two-Level User Habit Learning for Enhanced Interaction}},
+  author = {{Shuoxin Wang} and {Chang Liu} and {Gowen Loo} and {Lifan Zheng} and {Kaiwen Wei} and {Xinyi Zeng} and {Jingyuan Zhang} and {Yu Tian}},
+  year = {2026},
+  eprint = {2601.20162v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.20162v1},
+  note = {First published: 2026-01-28; Recorded arXiv version: v1; Recorded version updated: 2026-01-28T01:44:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

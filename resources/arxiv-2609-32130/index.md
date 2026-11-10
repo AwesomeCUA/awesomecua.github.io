@@ -1,3 +1,11 @@
+---
+title: "REBASE: Device-Cloud Experience Coherence for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32130/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates
 
 Introduces REBASE, a device–cloud protocol for repairing cached GUI experience after app updates. It combines cloud replay, device-side step verification, and progressively richer failure reports to produce repairs tied to application versions.
@@ -26,6 +34,18 @@ Beining Wu, Jun Huang, Yanxiao Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32130/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32130/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32130,
+  title = {{REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates}},
+  author = {{Beining Wu} and {Jun Huang} and {Yanxiao Zhao}},
+  year = {2026},
+  eprint = {2609.32130v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32130v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T01:13:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

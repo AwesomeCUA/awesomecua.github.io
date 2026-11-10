@@ -1,3 +1,11 @@
+---
+title: "cua-s1-forms-coreml | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f742ad40df2e5f109fc3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # cua-s1-forms-coreml
 
 A Core ML conversion of CUA-S1-FORMS scores candidate actions for forms from task and element text. It provides portable and compiled packages for Apple devices.

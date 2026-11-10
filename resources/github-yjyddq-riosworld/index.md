@@ -1,3 +1,11 @@
+---
+title: "RiOSWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yjyddq-riosworld/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # RiOSWorld
 
 Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.

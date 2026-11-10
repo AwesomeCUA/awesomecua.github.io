@@ -1,3 +1,11 @@
+---
+title: "MobileWorldBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jacklishufan-mobileworld/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # MobileWorldBench
 
 MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问答任务和由 GPT 评判的生成任务，并提供基于 AitW 及 AndroidControl 屏幕构建的训练数据。

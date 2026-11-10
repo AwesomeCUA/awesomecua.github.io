@@ -1,3 +1,11 @@
+---
+title: "Accio Computer Use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-accio-org-accio-cu/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Accio Computer Use
 
 混合式计算机使用 Python 框架，将 GUI 动作、CLI、API 和文件操作组合到统一工作流中。

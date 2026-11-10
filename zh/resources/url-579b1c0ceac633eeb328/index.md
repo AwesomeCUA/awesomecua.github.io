@@ -1,3 +1,11 @@
+---
+title: "GUI-Vid · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-579b1c0ceac633eeb328/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GUI-Vid
 
 GUI-Vid 是基于 GUI-World 重新训练的视频语言模型，用于理解视频中的图形界面。

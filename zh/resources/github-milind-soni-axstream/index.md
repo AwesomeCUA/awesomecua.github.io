@@ -1,3 +1,11 @@
+---
+title: "axstream · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-milind-soni-axstream/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # axstream
 
 面向 macOS 计算机使用智能体的流式 JSON 行格式动作语言和编译器。

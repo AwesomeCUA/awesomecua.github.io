@@ -1,3 +1,11 @@
+---
+title: "browserctl | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nguyenvanhuy0612-browserctl/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browserctl
 
 Chrome extension, local bridge, and MCP server allowing AI agents to drive a real Chrome profile in the background.

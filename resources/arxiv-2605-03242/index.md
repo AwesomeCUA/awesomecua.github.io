@@ -1,3 +1,11 @@
+---
+title: "Enhancing Agent Safety Judgment: Controlled… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-03242/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios
 
 Bibliographic record for Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zuoyu Zhang, Yancheng Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-03242/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-03242/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_03242,
+  title = {{Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios}},
+  author = {{Zuoyu Zhang} and {Yancheng Zhu}},
+  year = {2026},
+  eprint = {2605.03242v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.03242v1},
+  note = {First published: 2026-05-05; Recorded arXiv version: v1; Recorded version updated: 2026-05-05T00:21:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

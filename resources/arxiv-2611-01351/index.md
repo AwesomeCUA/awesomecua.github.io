@@ -1,3 +1,11 @@
+---
+title: "MAPLE: A Multimodal Mobile Agent with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-01351/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MAPLE: A Multimodal Mobile Agent with Playbook-Learned Experience
 
 Introduces MAPLE, a training-free multi-agent framework that shares step-level experience while navigating mobile GUIs and updates prompts during execution.
@@ -26,6 +34,18 @@ Jun Wang, Aurora Wei, Lucas Spangher, Ming Zhang, Eugene Ie, Yiannis Kantaros
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-01351/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-01351/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_01351,
+  title = {{MAPLE: A Multimodal Mobile Agent with Playbook-Learned Experience}},
+  author = {{Jun Wang} and {Aurora Wei} and {Lucas Spangher} and {Ming Zhang} and {Eugene Ie} and {Yiannis Kantaros}},
+  year = {2026},
+  eprint = {2611.01351v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.01351v1},
+  note = {First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T23:44:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

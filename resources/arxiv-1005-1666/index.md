@@ -1,3 +1,11 @@
+---
+title: "Universal Quantum Computation Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1005-1666/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal Quantum Computation Using Continuous Dynamical Decoupling
 
 Status: excluded from the active CUA catalog after scope review.

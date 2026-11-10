@@ -1,3 +1,11 @@
+---
+title: "Finalrun Agentic Approach · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-final-run-finalrun-android-world-benchmark/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Finalrun Agentic Approach
 
 介绍 FinalRun 安卓操作智能体方法的图文资料，附任务步骤与录像，展示其观察屏幕、规划操作及检查状态的过程。

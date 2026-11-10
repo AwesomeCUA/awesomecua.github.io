@@ -1,3 +1,11 @@
+---
+title: "WebUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-13b9442bcb6a8b984c4f/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # WebUI
 
 用于 UI 研究的网页截图和界面数据。

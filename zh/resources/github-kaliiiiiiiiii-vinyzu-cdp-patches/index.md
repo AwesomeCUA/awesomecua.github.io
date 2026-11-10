@@ -1,3 +1,11 @@
+---
+title: "CDP-Patches · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-cdp-patches/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # CDP-Patches
 
 Python 软件包，以操作系统级输入事件向有界面的 Chrome 窗口发送点击、鼠标移动、滚动和键入，避开 CDP 派发事件在输入域的泄露特征。

@@ -1,3 +1,11 @@
+---
+title: "MXU · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-misteo-mxu/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MXU
 
 一个基于 Tauri、React 和 TypeScript 的图形客户端，可加载任意 MaaFramework PI V2 interface.json 并运行其中任务，支持拖拽排序任务列表、多实例、设备实时截图、日志和定时执行。

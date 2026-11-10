@@ -1,3 +1,11 @@
+---
+title: "The Agent in the Middle: How AI-Mediated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-35541/
+updated: 2026-10-28
+type: paper
+lang: en
+---
+
 # The Agent in the Middle: How AI-Mediated Access Reshapes Web Vulnerability Exploitation
 
 Bibliographic record for The Agent in the Middle: How AI-Mediated Access Reshapes Web Vulnerability Exploitation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ruozhao Yang, Jiongchi Yu, Ming Hu, Xiaofei Xie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-35541/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-35541/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35541,
+  title = {{The Agent in the Middle: How AI-Mediated Access Reshapes Web Vulnerability Exploitation}},
+  author = {{Ruozhao Yang} and {Jiongchi Yu} and {Ming Hu} and {Xiaofei Xie}},
+  year = {2026},
+  eprint = {2610.35541v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35541v2},
+  note = {First published: 2026-10-26; Recorded arXiv version: v2; Recorded version updated: 2026-10-27T07:14:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

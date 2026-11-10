@@ -1,3 +1,11 @@
+---
+title: "ModCDP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browserbase-modcdp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ModCDP
 
 ModCDP 是 Browserbase 的框架，用于通过自定义命令、事件和智能体中间件扩展 Chrome DevTools Protocol。

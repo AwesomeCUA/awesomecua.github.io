@@ -1,3 +1,11 @@
+---
+title: "PolyDepth: Real-time Penetration Depth… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1508-06181/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PolyDepth: Real-time Penetration Depth Computation using Iterative Contact-Space Projection
 
 Status: excluded from the active CUA catalog after scope review.

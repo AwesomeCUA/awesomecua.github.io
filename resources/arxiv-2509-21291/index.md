@@ -1,3 +1,11 @@
+---
+title: "VC-Agent: An Interactive Agent for Customized… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-21291/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VC-Agent: An Interactive Agent for Customized Video Dataset Collection
 
 Status: excluded from the active CUA catalog after scope review.

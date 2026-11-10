@@ -1,3 +1,11 @@
+---
+title: "ITR Wala AI Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aianytime-itr-wala-ai-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ITR Wala AI Agent
 
 终端驱动的浏览器智能体，在人工审核下自动完成印度所得税申报表的准备和门户提交。

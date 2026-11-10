@@ -1,3 +1,11 @@
+---
+title: "WARC-Bench: Web Archive Based Benchmark… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-09872/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WARC-Bench: Web Archive Based Benchmark for GUI Subtask Executions
 
 WARC-Bench 将动态网页封装为可回放档案，评估涉及日期选择器、可滚动容器等组件的短程导航子任务。它还研究在这些浏览器交互上先进行监督训练、再使用可验证奖励强化学习。
@@ -27,6 +35,18 @@ Sanjari Srivastava, Gang Li, Cheng Chang, Rishu Garg, Manpreet Kaur, Charlene Y.
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-09872/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-09872/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_09872,
+  title = {{WARC-Bench: Web Archive Based Benchmark for GUI Subtask Executions}},
+  author = {{Sanjari Srivastava} and {Gang Li} and {Cheng Chang} and {Rishu Garg} and {Manpreet Kaur} and {Charlene Y. Lee} and {Yuezhang Li} and {Yining Mao} and {Ignacio Cases} and {Yanan Xie} and {Peng Qi}},
+  year = {2025},
+  eprint = {2510.09872v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.09872v2},
+  note = {First published: 2025-10-10; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T22:06:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "GroundUI-1K | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d86f55753bfea45fe313/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # GroundUI-1K
 
 AgentStudio's 1,000-example GUI grounding test set, sampled from GroundUI-18K: web, desktop and mobile screenshots with GPT-4o-recaptioned instructions and target bounding boxes.

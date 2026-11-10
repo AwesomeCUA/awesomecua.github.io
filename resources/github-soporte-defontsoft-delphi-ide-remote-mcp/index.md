@@ -1,3 +1,11 @@
+---
+title: "Delphi IDE Remote MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-soporte-defontsoft-delphi-ide-remote-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Delphi IDE Remote MCP Server
 
 Model Context Protocol server enabling AI agents to remotely inspect, compile, and automate the Embarcadero Delphi Windows IDE.

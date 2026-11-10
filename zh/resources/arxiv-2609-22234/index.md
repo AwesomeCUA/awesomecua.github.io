@@ -1,3 +1,11 @@
+---
+title: "Seeing Through Conflicts: Improving… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-22234/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models
 
 研究用强化学习训练视觉语言模型处理跨文本与图像的冲突指令，并将网页智能体安全任务纳入评估。
@@ -27,6 +35,18 @@ Nicholas Sansoterra, Zishuo Zheng, Sachin Kumar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-22234/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-22234/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_22234,
+  title = {{Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models}},
+  author = {{Nicholas Sansoterra} and {Zishuo Zheng} and {Sachin Kumar}},
+  year = {2026},
+  eprint = {2609.22234v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.22234v1},
+  note = {First published: 2026-09-03; Recorded arXiv version: v1; Recorded version updated: 2026-09-03T04:59:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

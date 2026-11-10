@@ -1,3 +1,11 @@
+---
+title: "WebClaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kuroko1t-webclaw/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # WebClaw
 
 WebClaw 是原生支持 WebMCP 的浏览器智能体，在用户正在使用的 Chrome 浏览器中运行，并连接 Claude、Cursor 和 OpenClaw。

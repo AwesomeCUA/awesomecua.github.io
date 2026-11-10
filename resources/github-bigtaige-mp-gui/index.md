@@ -1,3 +1,11 @@
+---
+title: "MP-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bigtaige-mp-gui/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # MP-GUI
 
 MP-GUI provides multimodal perception training and evaluation code with graphical, textual, and spatial experts for GUI understanding.

@@ -1,3 +1,11 @@
+---
+title: "Persona2Web: Benchmarking Personalized… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-17003/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History
 
 Persona2Web 测试网页智能体能否利用用户历史中隐含的偏好消解模糊请求；其面向推理的评估在开放网页的个性化任务上比较智能体架构和历史信息获取策略。
@@ -27,6 +35,18 @@ Serin Kim, Sangam Lee, Dongha Lee
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-17003/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-17003/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_17003,
+  title = {{Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History}},
+  author = {{Serin Kim} and {Sangam Lee} and {Dongha Lee}},
+  year = {2026},
+  eprint = {2602.17003v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.17003v3},
+  note = {First published: 2026-02-19; Recorded arXiv version: v3; Recorded version updated: 2026-05-27T12:15:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

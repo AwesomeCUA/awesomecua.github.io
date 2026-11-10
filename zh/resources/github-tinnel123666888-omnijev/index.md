@@ -1,3 +1,11 @@
+---
+title: "OmniJev (github.com/tinnel123666888/OmniJ… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinnel123666888-omnijev/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OmniJev
 
 OmniJev 是一款多模态决策模型，可根据屏幕及其他视觉输入为预设选项评分。发布的权重和推理代码涵盖网页、手机任务及其他领域。

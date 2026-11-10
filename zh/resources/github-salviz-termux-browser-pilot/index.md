@@ -1,3 +1,11 @@
+---
+title: "Termux Browser Pilot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-salviz-termux-browser-pilot/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Termux Browser Pilot
 
 直接在 Android Termux 中运行无需 root 的无头浏览器及 Xvfb 环境下的 Firefox 和 Chromium 自动化，并提供 CDP 和 MCP 服务器。

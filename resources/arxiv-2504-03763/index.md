@@ -1,3 +1,11 @@
+---
+title: "Efficient Calibration for RRAM-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-03763/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Calibration for RRAM-based In-Memory Computing using DoRA
 
 Status: excluded from the active CUA catalog after scope review.

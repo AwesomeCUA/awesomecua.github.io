@@ -1,3 +1,11 @@
+---
+title: "WinAgent-Lite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zyydi1959-winagent-lite/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # WinAgent-Lite
 
 WinAgent-Lite is a local vision-driven Windows GUI agent and MCP server with a reproducible desktop evaluation suite.

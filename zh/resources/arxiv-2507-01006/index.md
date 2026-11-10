@@ -1,3 +1,11 @@
+---
+title: "GLM-4.5V and GLM-4.1V-Thinking: Towards… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-01006/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 
 报告 GLM-4.1V-Thinking、GLM-4.5V 和 GLM-4.6V 视觉语言模型系列及基于课程的 RL 训练；GUI 智能体是评测任务之一。
@@ -27,6 +35,17 @@ The annotation and scope were reviewed against the complete retained arXiv abstr
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-01006/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-01006/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_01006,
+  title = {{GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning}},
+  year = {2025},
+  eprint = {2507.01006v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.01006v6},
+  note = {First published: 2025-07-01; Recorded arXiv version: v6; Recorded version updated: 2026-01-01T13:07:25Z; Authors: see the paper (https://arxiv.org/abs/2507.01006v6); this catalog does not list them.}
+}
+```
 
 ## arXiv 版本记录
 

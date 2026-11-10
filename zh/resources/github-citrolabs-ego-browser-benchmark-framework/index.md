@@ -1,3 +1,11 @@
+---
+title: "Ego Browser Benchmark Framework · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-citrolabs-ego-browser-benchmark-framework/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Ego Browser Benchmark Framework
 
 Ego Browser Benchmark Framework 是可复现的测试框架，用于在受控的浏览器使用智能体任务上比较基础模型。

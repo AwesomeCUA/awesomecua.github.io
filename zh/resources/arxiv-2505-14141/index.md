@@ -1,3 +1,11 @@
+---
+title: "Building a Stable Planner: An Extended… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-14141/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Building a Stable Planner: An Extended Finite State Machine Based Planning Module for Mobile GUI Agent
 
 SPlanner 用扩展有限状态机建模移动应用的功能与配置，通过遍历构建执行路径并转成自然语言计划；VLM 依照计划执行 GUI 操作，并在 AndroidWorld 上接受评估。
@@ -27,6 +35,18 @@ Fanglin Mo, Junzhe Chen, Haoxuan Zhu, Xuming Hu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-14141/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-14141/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_14141,
+  title = {{Building a Stable Planner: An Extended Finite State Machine Based Planning Module for Mobile GUI Agent}},
+  author = {{Fanglin Mo} and {Junzhe Chen} and {Haoxuan Zhu} and {Xuming Hu}},
+  year = {2025},
+  eprint = {2505.14141v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.14141v1},
+  note = {First published: 2025-05-20; Recorded arXiv version: v1; Recorded version updated: 2025-05-20T09:45:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

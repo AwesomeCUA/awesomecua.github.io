@@ -1,3 +1,11 @@
+---
+title: "DrishtiGuard · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # DrishtiGuard
 
 在设备上运行的视觉隐私防护层，在轻量级浏览器智能体处理帧之前检测并遮盖屏幕中的敏感区域。

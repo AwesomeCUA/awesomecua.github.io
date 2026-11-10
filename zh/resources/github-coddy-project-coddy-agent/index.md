@@ -1,3 +1,11 @@
+---
+title: "Coddy · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-coddy-project-coddy-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Coddy
 
 Coddy 是提供桌面、终端和编辑器界面的智能体运行框架。其浏览器扩展让智能体查看页面，并在共享标签页中执行操作。

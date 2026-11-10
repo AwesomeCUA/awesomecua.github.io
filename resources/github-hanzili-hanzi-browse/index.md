@@ -1,3 +1,11 @@
+---
+title: "Hanzi Browse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hanzili-hanzi-browse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hanzi Browse
 
 Hanzi Browse is a site-adapter and browser execution layer that supplies structured YAML recipes for complex dynamic web applications.

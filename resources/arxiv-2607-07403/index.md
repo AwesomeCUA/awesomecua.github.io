@@ -1,3 +1,11 @@
+---
+title: "Multi-Agent Robotic Control with Onboard… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-07403/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-Agent Robotic Control with Onboard Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

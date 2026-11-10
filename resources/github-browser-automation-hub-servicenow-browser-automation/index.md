@@ -1,3 +1,11 @@
+---
+title: "ServiceNow Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-servicenow-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ServiceNow Browser Automation
 
 A ServiceNow browser automation scaffold with documented actions for incidents, CMDB records, task assignment, and report export.

@@ -1,3 +1,11 @@
+---
+title: "AutoGUI-v1-zip · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-02370867dd4b96000a33/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # AutoGUI-v1-zip
 
 这是 AutoGUI 的训练数据仓库，包含带标注的图形界面数据集和选定的视觉数据集，并说明如何合并其 JSON 文件用于微调。

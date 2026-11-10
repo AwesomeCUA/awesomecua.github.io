@@ -1,3 +1,11 @@
+---
+title: "NAIL-Group/ClawBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-146edbaee6701bdb6ee0/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # NAIL-Group/ClawBench
 
 NAIL-Group/ClawBench releases task data for evaluating browser agents on live websites. Its card describes V1 and V2 corpora, task metadata, and loading through the datasets library.

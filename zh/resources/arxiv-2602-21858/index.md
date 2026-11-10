@@ -1,3 +1,11 @@
+---
+title: "ProactiveMobile: A Comprehensive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-21858/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices
 
 ProactiveMobile 评估移动智能体从设备情境中推断用户潜在意图，并从 63 个 API 中生成可执行调用序列的能力。
@@ -27,6 +35,18 @@ Dezhi Kong, Zhengzhao Feng, Qiliang Liang, Hao Wang, Haofei Sun, Changpeng Yang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-21858/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-21858/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_21858,
+  title = {{ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices}},
+  author = {{Dezhi Kong} and {Zhengzhao Feng} and {Qiliang Liang} and {Hao Wang} and {Haofei Sun} and {Changpeng Yang} and {Yang Li} and {Peng Zhou} and {Shuai Nie} and {Hongzhen Wang} and {Linfeng Zhou} and {Hao Jia} and {Jiaming Xu} and {Runyu Shi} and {Ying Huang}},
+  year = {2026},
+  eprint = {2602.21858v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.21858v4},
+  note = {First published: 2026-02-25; Recorded arXiv version: v4; Recorded version updated: 2026-05-08T09:18:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

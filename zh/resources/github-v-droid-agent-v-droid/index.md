@@ -1,3 +1,11 @@
+---
+title: "V-Droid · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-v-droid-agent-v-droid/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # V-Droid
 
 V-Droid 将移动端 GUI 执行者与生成式验证器配对，在 Android 设备上执行候选动作前为其评分。

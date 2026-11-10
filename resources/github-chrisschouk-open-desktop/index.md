@@ -1,3 +1,11 @@
+---
+title: "OpenDesktop & OpenWorker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chrisschouk-open-desktop/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenDesktop & OpenWorker
 
 Cloud desktop infrastructure and container sandbox engine paired with the OpenWorker conversational desktop agent.

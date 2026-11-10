@@ -1,3 +1,11 @@
+---
+title: "AgentRxiv: Towards Collaborative Autonomous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-18102/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentRxiv: Towards Collaborative Autonomous Research
 
 Status: excluded from the active CUA catalog after scope review.

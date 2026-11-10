@@ -1,3 +1,11 @@
+---
+title: "Amazon Bedrock AgentCore | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ecf89236d4e75b05c7b4/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Amazon Bedrock AgentCore
 
 AWS managed agent platform whose Browser tool runs isolated cloud browser sessions with automation and live-view streams and optional recording, alongside runtime, memory, gateway and code-execution services.

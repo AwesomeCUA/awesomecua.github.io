@@ -1,3 +1,11 @@
+---
+title: "WebClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kuroko1t-webclaw/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # WebClaw
 
 WebClaw is a WebMCP-native browser agent that runs inside the user's live Chrome browser and connects to Claude, Cursor, and OpenClaw.

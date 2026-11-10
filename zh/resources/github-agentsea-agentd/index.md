@@ -1,3 +1,11 @@
+---
+title: "agentd · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentsea-agentd/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # agentd
 
 AgentD 通过 HTTP API 提供桌面会话访问，支持截图、鼠标和键盘操作、打开浏览器及会话录制。

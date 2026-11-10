@@ -1,3 +1,11 @@
+---
+title: "GUI Reflection · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # GUI Reflection
 
 GUI Reflection 提供根据屏幕图像和任务目标预测 GUI 操作的智能体代码，以及评测和监督训练脚本。

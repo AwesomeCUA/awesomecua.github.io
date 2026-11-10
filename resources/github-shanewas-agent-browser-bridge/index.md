@@ -1,3 +1,11 @@
+---
+title: "Agent Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shanewas-agent-browser-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Agent Browser Bridge
 
 A browser control bridge that lets agents inspect and act in an active Edge session through MCP, a CLI, or Python. It also offers screenshot and input controls for Windows desktops.

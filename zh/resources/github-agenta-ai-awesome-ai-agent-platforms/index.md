@@ -1,3 +1,11 @@
+---
+title: "Awesome AI Agent Platforms · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agenta-ai-awesome-ai-agent-platforms/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # Awesome AI Agent Platforms
 
 精选的开源 AI 智能体平台、数字同事及浏览器和桌面执行测试框架目录。

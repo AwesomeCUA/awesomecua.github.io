@@ -1,3 +1,11 @@
+---
+title: "Tango · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yume-chan-ya-webadb/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Tango
 
 一个 TypeScript 编写的 Android Debug Bridge 客户端，可在基于 Chromium 的浏览器、Node.js 和 Electron 中运行，用于访问 Android 设备。

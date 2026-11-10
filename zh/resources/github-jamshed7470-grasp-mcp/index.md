@@ -1,3 +1,11 @@
+---
+title: "Grasp MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jamshed7470-grasp-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Grasp MCP
 
 Model Context Protocol 服务器，为 Claude 和 MCP 客户端提供完整的桌面屏幕视觉感知及鼠标、键盘控制。

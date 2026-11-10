@@ -1,3 +1,11 @@
+---
+title: "Intent Relay WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-midorikuramochi-intent-relay/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Intent Relay WebMCP
 
 通过演示驱动的意图转换器，在支持 WebMCP 的网站之间传递用户的工作流偏好。

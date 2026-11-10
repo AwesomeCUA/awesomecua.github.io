@@ -1,3 +1,11 @@
+---
+title: "ECLAIR · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hazyresearch-eclair-agents/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ECLAIR
 
 ECLAIR 根据人工演示自动执行企业网页与桌面工作流，并通过标准操作流程的真实标注进行验证，支持步骤级错误恢复。

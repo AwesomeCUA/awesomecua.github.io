@@ -1,3 +1,11 @@
+---
+title: "agent-device · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-callstack-agent-device/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # agent-device
 
 agent-device 为智能体提供 CLI、MCP 和 Node.js 接口，使其通过无障碍快照和界面操作检查并控制移动端、网页及桌面应用。

@@ -1,3 +1,11 @@
+---
+title: "Predictive Performance Modeling for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1805-11877/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Predictive Performance Modeling for Distributed Computing using Black-Box Monitoring and Machine Learning
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "CUBE Standard · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-standard/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # CUBE Standard
 
 一套 Python 协议，用统一的 Tool、Task、Benchmark、Observation 和 Action 类型封装智能体基准，并提供可选的浏览器会话、虚拟机后端以及浏览器和桌面计算机工具。

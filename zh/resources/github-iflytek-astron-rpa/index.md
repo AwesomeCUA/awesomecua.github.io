@@ -1,3 +1,11 @@
+---
+title: "AstronRPA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-iflytek-astron-rpa/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AstronRPA
 
 AstronRPA 是开源的企业桌面和浏览器 RPA 平台，支持可视化工作流编排和 MCP 服务器集成。

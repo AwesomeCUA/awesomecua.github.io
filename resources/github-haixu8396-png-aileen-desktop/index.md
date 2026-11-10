@@ -1,3 +1,11 @@
+---
+title: "AILEEN Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AILEEN Desktop
 
 Windows desktop AI assistant combining a Live2D interactive character with screen perception and desktop tool execution.

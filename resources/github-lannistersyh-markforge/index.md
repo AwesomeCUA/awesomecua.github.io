@@ -1,3 +1,11 @@
+---
+title: "MarkForge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lannistersyh-markforge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MarkForge
 
 MarkForge provides deterministic, auditable Set-of-Mark badge rendering and coordinate resolution for multimodal GUI agents.

@@ -1,3 +1,11 @@
+---
+title: "iPhone CUA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-masone-iphone-cua/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # iPhone CUA
 
 iPhone CUA 将 iPhone 屏幕及控制桥接器与 OpenAI Computer-Using Agent 模型结合，从 macOS 操作实体 iPhone。

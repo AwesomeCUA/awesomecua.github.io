@@ -1,3 +1,11 @@
+---
+title: "HIPPO Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wadang-muscle-mem-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # HIPPO Agent
 
 面向多步骤 GUI 任务的计算机使用智能体，以工作记忆保存任务事实和进度，并结合规划、界面定位与完成情况检查。

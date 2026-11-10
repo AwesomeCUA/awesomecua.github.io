@@ -1,3 +1,11 @@
+---
+title: "Four Ways to Improve Verbo-visual Fusion for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-04561/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Four Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

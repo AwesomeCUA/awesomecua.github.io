@@ -1,3 +1,11 @@
+---
+title: "CovAgent: Overcoming the 30% Curse of Mobile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-21253/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CovAgent: Overcoming the 30% Curse of Mobile Application Coverage with Agentic AI and Dynamic Instrumentation
 
 CovAgent augments Android GUI fuzzers by analyzing decompiled app code and component transitions to identify unsatisfied activation conditions. A second agent generates instrumentation that enables otherwise difficult-to-reach activities, with coverage-based evaluation.
@@ -26,6 +34,18 @@ Wei Minn, Biniam Fisseha Demissie, Yan Naing Tun, Jiakun Liu, Mariano Ceccato, L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-21253/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-21253/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_21253,
+  title = {{CovAgent: Overcoming the 30\% Curse of Mobile Application Coverage with Agentic AI and Dynamic Instrumentation}},
+  author = {{Wei Minn} and {Biniam Fisseha Demissie} and {Yan Naing Tun} and {Jiakun Liu} and {Mariano Ceccato} and {Lwin Khin Shar} and {David Lo}},
+  year = {2026},
+  eprint = {2601.21253v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.21253v1},
+  note = {First published: 2026-01-29; Recorded arXiv version: v1; Recorded version updated: 2026-01-29T04:21:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

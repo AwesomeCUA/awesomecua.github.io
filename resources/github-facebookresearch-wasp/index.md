@@ -1,3 +1,11 @@
+---
+title: "WASP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-facebookresearch-wasp/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WASP
 
 WASP is an executable benchmark for testing prompt-injection attacks on web agents in simulated website environments.

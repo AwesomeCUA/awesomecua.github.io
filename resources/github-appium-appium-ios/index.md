@@ -1,3 +1,11 @@
+---
+title: "appium-ios | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium-ios/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # appium-ios
 
 An iOS Appium monorepo providing packages for simulator control, device communication, screen streaming, and WebDriver access.

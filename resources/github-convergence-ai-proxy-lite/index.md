@@ -1,3 +1,11 @@
+---
+title: "Proxy Lite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-convergence-ai-proxy-lite/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # Proxy Lite
 
 Convergence AI's open-weights web agent runner: a Playwright Chromium loop that sends annotated screenshots and numbered element lists to proxy-lite-3b and executes its click, type, scroll and navigation tool calls.

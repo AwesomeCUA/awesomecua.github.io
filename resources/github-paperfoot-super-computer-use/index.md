@@ -1,3 +1,11 @@
+---
+title: "super-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-paperfoot-super-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # super-computer-use
 
 Low-latency macOS computer-use driver (~35ms per action) supporting batched multi-step UI workflows.

@@ -1,3 +1,11 @@
+---
+title: "DiMo-GUI: Advancing Test-time Scaling in GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-00008/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
 
 Separates textual and iconic UI elements and iteratively focuses visual regions to refine grounding without additional model training.
@@ -26,6 +34,18 @@ Hang Wu, Hongkai Chen, Yujun Cai, Chang Liu, Qingwen Ye, Ming-Hsuan Yang, Yiwei 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-00008/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-00008/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_00008,
+  title = {{DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning}},
+  author = {{Hang Wu} and {Hongkai Chen} and {Yujun Cai} and {Chang Liu} and {Qingwen Ye} and {Ming-Hsuan Yang} and {Yiwei Wang}},
+  year = {2025},
+  eprint = {2507.00008v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.00008v2},
+  note = {First published: 2025-06-12; Recorded arXiv version: v2; Recorded version updated: 2025-09-05T17:21:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

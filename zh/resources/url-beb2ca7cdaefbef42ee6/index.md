@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint-GUI-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-beb2ca7cdaefbef42ee6/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # MolmoPoint-GUI-8B
 
 图形界面定位模型，接收单张屏幕截图和类似指令的查询，使用专门的指向标记输出目标位置的点。

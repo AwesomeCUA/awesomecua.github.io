@@ -1,3 +1,11 @@
+---
+title: "Crafter Agents cuse CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-crafter-agents-cuse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Crafter Agents cuse CLI
 
 Cross-platform computer-use CLI that maps unified commands to native OS accessibility and input primitives.

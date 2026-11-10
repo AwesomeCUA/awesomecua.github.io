@@ -1,3 +1,11 @@
+---
+title: "GUI-Libra 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f52794224f9541fd9eb3/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Libra 7B
 
 GUI-Libra checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct (about 8.29B BF16 parameters) that turns a screenshot, task and action history into a <think> reasoning block and a JSON action with point_2d coordinates.

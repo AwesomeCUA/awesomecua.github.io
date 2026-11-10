@@ -1,3 +1,11 @@
+---
+title: "HAICOSYSTEM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xuhuizhou-haicosystem/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # HAICOSYSTEM
 
 HAICOSYSTEM simulates multi-turn interactions between human users, tool-using LLM agents, and environment sandboxes to evaluate safety risks.

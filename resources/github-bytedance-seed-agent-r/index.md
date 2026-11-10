@@ -1,3 +1,11 @@
+---
+title: "Agent-R | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bytedance-seed-agent-r/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Agent-R
 
 Trajectory collection and revision utilities that use tree search and model-guided critique to train agents to recover from mistakes, including WebShop tasks.

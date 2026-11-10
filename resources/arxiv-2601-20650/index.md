@@ -1,3 +1,11 @@
+---
+title: "OS-Marathon: Benchmarking Computer-Use Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-20650/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OS-Marathon: Benchmarking Computer-Use Agents on Vast-Horizon, Repetitive Tasks
 
 Introduces OS-Marathon to evaluate long repetitive computer-use workflows whose execution grows with the amount of input data. It studies failure accumulation under task decomposition and GraphDemo, which adapts agents using a demonstration of the recurring workflow.
@@ -26,6 +34,18 @@ Jing Wu, Wenjie Ai, Daphne Barretto, Yiye Chen, Qingyu Chen, Yuhang He, Pranit C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-20650/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-20650/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_20650,
+  title = {{OS-Marathon: Benchmarking Computer-Use Agents on Vast-Horizon, Repetitive Tasks}},
+  author = {{Jing Wu} and {Wenjie Ai} and {Daphne Barretto} and {Yiye Chen} and {Qingyu Chen} and {Yuhang He} and {Pranit Chawla} and {Nicholas Gydé} and {Yanan Jian} and {Vibhav Vineet}},
+  year = {2026},
+  eprint = {2601.20650v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.20650v3},
+  note = {First published: 2026-01-28; Recorded arXiv version: v3; Recorded version updated: 2026-08-26T22:31:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

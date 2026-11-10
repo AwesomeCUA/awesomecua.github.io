@@ -1,3 +1,11 @@
+---
+title: "xunsss/osworld2-codex-gpt56sol-0624-attempt-pr… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bf57897ba4d047112345/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
 
 This OSWorld-V2 dataset provides compact tables for browsing Codex task summaries, attempts, trajectory events, and executed GUI or CLI actions.

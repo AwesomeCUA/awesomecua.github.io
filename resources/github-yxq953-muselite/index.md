@@ -1,3 +1,11 @@
+---
+title: "MuseLite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yxq953-muselite/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # MuseLite
 
 MuseLite is a Python-first AI agent workspace for Android combining chat, execution sandboxes, browser automation, and scheduled tasks.

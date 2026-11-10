@@ -1,3 +1,11 @@
+---
+title: "Autonomous Evaluation and Refinement of… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-berkeley-nlp-agent-eval-refine/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Autonomous Evaluation and Refinement of Digital Agents
 
 提供 VLM 评估器和策略优化代码，用于在 WebArena 和 AndroidInTheWild 上进行自主评测和筛选后的行为克隆。

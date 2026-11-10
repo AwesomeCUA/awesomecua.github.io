@@ -1,12 +1,17 @@
+---
+title: "Automation — computer-use research, page 17 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/17/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 17
 
 HTML page: https://awesomecua.com/topics/automation/page/17/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [MaaEvidenceKit](https://awesomecua.com/resources/github-windsland52-maaevidencekit/)
-- [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/)
-- [maafw-cli](https://awesomecua.com/resources/github-otowa-kotori-maafw-cli/)
 - [MaaFwApp](https://awesomecua.com/resources/github-aliothmoon-maafwapp/)
 - [MaaInspector](https://awesomecua.com/resources/github-tanyashue-maainspector/)
 - [MaaLogAnalyzer](https://awesomecua.com/resources/github-maaxyz-maaloganalyzer/)
@@ -45,7 +50,6 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/)
 - [Market Basket Agent](https://awesomecua.com/resources/github-0xyene-market-basket-agent/)
 - [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/)
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)
 - [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/)
 - [MatthewAlexOng Agent Bridge](https://awesomecua.com/resources/github-matthewalexong-agent-bridge/)
 - [Maxim](https://awesomecua.com/resources/github-zhangzhao4444-maxim/)
@@ -64,3 +68,7 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [mcp-patchright](https://awesomecua.com/resources/github-maestrojeong-mcp-patchright/)
 - [mcp-pyautogui](https://awesomecua.com/resources/github-hathibelagal-dev-mcp-pyautogui/)
 - [MCP-RealBrowser](https://awesomecua.com/resources/github-obbbba-mcp-realbrowser/)
+- [mcp-remote-macos-use](https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/)
+- [mcp-serial-hid-kvm](https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/)
+- [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/)
+- [mcp-server-macos-use](https://awesomecua.com/resources/github-mediar-ai-mcp-server-macos-use/)

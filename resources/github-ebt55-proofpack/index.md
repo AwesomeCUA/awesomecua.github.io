@@ -1,3 +1,11 @@
+---
+title: "ProofPack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ebt55-proofpack/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ProofPack
 
 Pre-approval review and verification runtime where every agent finding and UI state is backed by a SHA-hashed capture.

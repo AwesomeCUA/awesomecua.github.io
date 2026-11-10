@@ -1,3 +1,11 @@
+---
+title: "GameWAM: A World Action Model for Video… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-26200/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # GameWAM: A World Action Model for Video Games
 
 提出 GameWAM，用于原生游戏操作与 GUI 控制，依据同步的游戏及 GUI 轨迹预测未来画面和键鼠动作。
@@ -27,6 +35,18 @@ Yuncheng Guo, Zhanqiu Zhang, Yiwen Guo, Weijia Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-26200/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-26200/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_26200,
+  title = {{GameWAM: A World Action Model for Video Games}},
+  author = {{Yuncheng Guo} and {Zhanqiu Zhang} and {Yiwen Guo} and {Weijia Li}},
+  year = {2026},
+  eprint = {2608.26200v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.26200v2},
+  note = {First published: 2026-08-25; Recorded arXiv version: v2; Recorded version updated: 2026-09-10T16:56:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

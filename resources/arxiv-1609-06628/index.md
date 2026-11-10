@@ -1,3 +1,11 @@
+---
+title: "Programming quantum computers using 3-D… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1609-06628/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Programming quantum computers using 3-D puzzles, coffee cups, and doughnuts
 
 Status: excluded from the active CUA catalog after scope review.

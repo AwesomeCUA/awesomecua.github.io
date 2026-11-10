@@ -1,3 +1,11 @@
+---
+title: "HiLo-Token: Input-Adaptive High-Low Frequency… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-13898/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # HiLo-Token: Input-Adaptive High-Low Frequency Token Compression for Efficient Image Editing
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,12 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 16 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/16/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 16 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/16/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
-- [Kimi Computer Use Bridge](https://awesomecua.com/zh/resources/github-songkeys-kimi-computer-use/)
-- [Kimi Computer Use Lab](https://awesomecua.com/zh/resources/github-hqhq1025-kimi-computer-use-lab/)
 - [kimi-cu-pi](https://awesomecua.com/zh/resources/github-johndfowler-kimi-cu-pi/)
 - [kimi-webbridge-mcp](https://awesomecua.com/zh/resources/github-losecher-kimi-webbridge-mcp/)
 - [Komos](https://awesomecua.com/zh/resources/url-65a9a9211f0dd2b7264a/)
@@ -64,3 +69,6 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/16/
 - [Maa Support Extension](https://awesomecua.com/zh/resources/github-neko-para-maa-support-extension/)
 - [MaaCtl](https://awesomecua.com/zh/resources/github-tanyashue-maactl/)
 - [MaaDebugger](https://awesomecua.com/zh/resources/github-maaxyz-maadebugger/)
+- [MaaEvidenceKit](https://awesomecua.com/zh/resources/github-windsland52-maaevidencekit/)
+- [MaaFramework](https://awesomecua.com/zh/resources/github-maaxyz-maaframework/)
+- [maafw-cli](https://awesomecua.com/zh/resources/github-otowa-kotori-maafw-cli/)

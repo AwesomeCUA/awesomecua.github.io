@@ -1,3 +1,11 @@
+---
+title: "A Comprehensive Survey of Agents for Computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-16150/
+updated: 2026-10-16
+type: survey
+lang: en
+---
+
 # A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions
 
 Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating domain, observation and action modalities, and agent design.
@@ -22,6 +30,18 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-16150/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-16150/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_16150,
+  title = {{A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions}},
+  author = {{Pascal J. Sager} and {Benjamin Meyer} and {Peng Yan} and {Rebekka von Wartburg-Kottler} and {Layan Etaiwi} and {Aref Enayati} and {Gabriel Nobel} and {Ahmed Abdulkadir} and {Benjamin F. Grewe} and {Thilo Stadelmann}},
+  year = {2025},
+  eprint = {2501.16150v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.16150v3},
+  note = {First published: 2025-01-27; Recorded arXiv version: v3; Recorded version updated: 2026-03-27T07:41:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

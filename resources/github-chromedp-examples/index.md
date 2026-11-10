@@ -1,3 +1,11 @@
+---
+title: "chromedp examples | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chromedp-examples/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # chromedp examples
 
 A collection of 46 Go examples showing how to control Chrome with chromedp, including page interaction, screenshots, tabs, and protocol operations.

@@ -1,3 +1,11 @@
+---
+title: "Better AX for Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Better AX for Computer Use
 
 Better AX for Computer Use prunes and formats macOS Accessibility trees and injects Chromium/Electron AX flags for low-token GUI grounding.

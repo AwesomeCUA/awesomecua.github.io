@@ -1,3 +1,11 @@
+---
+title: "Autonomous Evaluation and Refinement of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-06474/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Autonomous Evaluation and Refinement of Digital Agents
 
 将网页导航与设备控制的自动轨迹评估器同标准判定结果比较，并利用所得反馈微调智能体和指导推理时的操作，包括在 WebArena 上的实验。
@@ -27,6 +35,18 @@ Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-06474/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-06474/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_06474,
+  title = {{Autonomous Evaluation and Refinement of Digital Agents}},
+  author = {{Jiayi Pan} and {Yichi Zhang} and {Nicholas Tomlin} and {Yifei Zhou} and {Sergey Levine} and {Alane Suhr}},
+  year = {2024},
+  eprint = {2404.06474v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.06474v3},
+  note = {First published: 2024-04-09; Recorded arXiv version: v3; Recorded version updated: 2024-10-07T14:19:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "SimpleMem | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aiming-lab-simplemem/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SimpleMem
 
 SimpleMem provides semantic lossless memory compression and multimodal retrieval for long-horizon LLM and desktop/CLI agents.

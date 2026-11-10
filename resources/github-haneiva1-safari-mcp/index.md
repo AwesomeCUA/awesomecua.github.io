@@ -1,3 +1,11 @@
+---
+title: "safari-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-haneiva1-safari-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # safari-mcp
 
 Zero-extension macOS Safari automation MCP server built on Node.js and native AppleScript/JXA.

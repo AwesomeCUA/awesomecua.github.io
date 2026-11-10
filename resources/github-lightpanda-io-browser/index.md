@@ -1,3 +1,11 @@
+---
+title: "Lightpanda Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lightpanda-io-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Lightpanda Browser
 
 A headless browser for AI agents and automation, with released Linux and macOS binaries and interfaces for browser control and scripted tasks.

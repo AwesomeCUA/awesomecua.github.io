@@ -1,3 +1,11 @@
+---
+title: "ExACT-VWA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-792920a5f64df66d34d7/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # ExACT-VWA
 
 Post-processed R-MCTS and GPT-4o agent trajectories collected on VisualWebArena, stored as context and response pairs with domain and task metadata; part of the set was used to fine-tune GPT-4o.

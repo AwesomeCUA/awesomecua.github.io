@@ -1,3 +1,11 @@
+---
+title: "AgentTab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # AgentTab
 
 AgentTab provides task-owned Chrome tabs for AI agents, with page snapshots, browser actions, human handoff, and optional review of consequential actions.

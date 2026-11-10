@@ -1,3 +1,11 @@
+---
+title: "SkillHarness: Harnessing Safe Skills for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20636/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SkillHarness: Harnessing Safe Skills for Computer-Use Agents
 
 提出 SkillHarness，让计算机使用智能体在交互中存在提示注入或弹窗时，按安全约束学习并复用技能。
@@ -27,6 +35,18 @@ Yurun Chen, Biao Yi, Keting Yin, Shengyu Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20636/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20636/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20636,
+  title = {{SkillHarness: Harnessing Safe Skills for Computer-Use Agents}},
+  author = {{Yurun Chen} and {Biao Yi} and {Keting Yin} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2606.20636v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20636v1},
+  note = {First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T06:33:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

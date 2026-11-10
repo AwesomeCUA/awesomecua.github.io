@@ -1,3 +1,11 @@
+---
+title: "AgentStudio · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-skyworkai-agent-studio/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # AgentStudio
 
 用于通过 GUI 和 API 交互构建、评估通用计算机使用智能体的工具包及基于 Ubuntu 的环境。

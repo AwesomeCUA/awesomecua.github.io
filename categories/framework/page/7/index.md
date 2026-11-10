@@ -1,11 +1,17 @@
+---
+title: "Computer-use agent frameworks, page 7 | AwesomeCUA"
+url: https://awesomecua.com/categories/framework/page/7/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent frameworks, page 7
 
 HTML page: https://awesomecua.com/categories/framework/page/7/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
-- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/)
-- [TEX (tex-browse-use)](https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/)
 - [THEIA Computer Use](https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/)
 - [Threadline WebMCP](https://awesomecua.com/resources/github-jameswirths-threadline/)
 - [TideSurf](https://awesomecua.com/resources/github-tidesurf-core/)
@@ -76,6 +82,5 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [WorkForceAgent-R1](https://awesomecua.com/resources/github-night-chen-workforceagent-r1/)
 - [Worldline](https://awesomecua.com/resources/github-artemyx-datascientist-worldline/)
 - [Xihe Agent (羲和)](https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/)
-- [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/)
 - [Zhaozuo (照做)](https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/)
 - [ZoomClick](https://awesomecua.com/resources/github-princeton-ai2-lab-zoomclick/)

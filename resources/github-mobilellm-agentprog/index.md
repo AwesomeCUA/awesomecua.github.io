@@ -1,3 +1,11 @@
+---
+title: "AgentProg | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobilellm-agentprog/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # AgentProg
 
 Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.

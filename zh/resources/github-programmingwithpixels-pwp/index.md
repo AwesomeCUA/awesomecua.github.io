@@ -1,3 +1,11 @@
+---
+title: "Programming with Pixels (PwP) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-programmingwithpixels-pwp/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Programming with Pixels (PwP)
 
 Programming with Pixels 提供框架和基准，用于开发及评估通过截图、输入和点击操作 IDE 的软件工程智能体。

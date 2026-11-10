@@ -1,3 +1,11 @@
+---
+title: "Ringlight WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-doom2quake-ringlight/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ringlight WebMCP
 
 WebMCP 调查控制台，浏览器智能体可在人工审查下，跨实时网页视图追踪实体图谱。

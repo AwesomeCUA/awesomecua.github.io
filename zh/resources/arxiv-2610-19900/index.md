@@ -1,3 +1,11 @@
+---
+title: "How GUI Agents Fail: GraceBench for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-19900/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # How GUI Agents Fail: GraceBench for Execution Stability Diagnosis
 
 提出 GraceBench，利用应用状态转换图和记录的交互证据，诊断最终任务成功率可能掩盖的偏离、循环和恢复过程。
@@ -27,6 +35,18 @@ Ridong Zhang, Shuxian Liang, Chaoqun Wan, Zhen Huang, Xian-Sheng Hua
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-19900/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-19900/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_19900,
+  title = {{How GUI Agents Fail: GraceBench for Execution Stability Diagnosis}},
+  author = {{Ridong Zhang} and {Shuxian Liang} and {Chaoqun Wan} and {Zhen Huang} and {Xian-Sheng Hua}},
+  year = {2026},
+  eprint = {2610.19900v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.19900v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T09:58:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

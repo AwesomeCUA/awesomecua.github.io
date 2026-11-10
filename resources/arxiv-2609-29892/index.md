@@ -1,3 +1,11 @@
+---
+title: "Qwen-Planner-Agent: A Closed-Loop AI-for-AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-29892/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents
 
 Trains a mobile planner with supervised trajectories and competence-adaptive RL, then couples typed tool execution with memory, skills and offline model-harness refinement.
@@ -26,6 +34,18 @@ Tingyu Qu, Weigao Sun, Yuecheng Liu, Yucheng Zhao, Yi Zhu, Yifeng Ding, Qiyi Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-29892/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-29892/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_29892,
+  title = {{Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents}},
+  author = {{Tingyu Qu} and {Weigao Sun} and {Yuecheng Liu} and {Yucheng Zhao} and {Yi Zhu} and {Yifeng Ding} and {Qiyi Wang} and {Sihan Cao} and {Pengkun Jiao} and {Hanlei Xie} and {Xiongwei Wu} and {Qichao Wang} and {Haodong Zhang} and {Jiajun Liu} and {Yuhao Wang} and {Yuqing Xie} and {Junpeng Zhao} and {Long Chen} and {Ming Ma} and {Sihan Yang} and {Ziwang Zhao} and {Yanhao Jia} and {Liangquan Gong} and {Feida Zhu} and {Yiran Zhong} and {Steven Hoi}},
+  year = {2026},
+  eprint = {2609.29892v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.29892v1},
+  note = {First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T14:38:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

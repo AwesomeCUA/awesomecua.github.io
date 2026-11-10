@@ -1,3 +1,11 @@
+---
+title: "Electron Stagewright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-electron-stagewright-electron-stagewright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Electron Stagewright
 
 Model Context Protocol 服务器和 SDK，通过 Playwright 风格的定位器与动作操作 Electron 桌面应用。

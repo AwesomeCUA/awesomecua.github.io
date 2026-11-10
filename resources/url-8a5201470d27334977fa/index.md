@@ -1,3 +1,11 @@
+---
+title: "lora_qformer_test_V4-700_merged | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8a5201470d27334977fa/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # lora_qformer_test_V4-700_merged
 
 Qwen2.5-VL-7B-Instruct merged with the CoMEM memory module, which compresses past GUI trajectories into 8 continuous embeddings through a LoRA-tuned Q-Former, for web agent tasks.

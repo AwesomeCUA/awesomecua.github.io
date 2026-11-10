@@ -1,3 +1,11 @@
+---
+title: "kuangtie/GUI-Robust · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-369456114b26b0ff0a05/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # kuangtie/GUI-Robust
 
 GUI-Robust 数据的 Hub 发布版本：包含 GUI 任务的逐步截图及 JSON 标注，任务涵盖七类真实场景异常，可用 GUI-Robust 评测脚本评估单步定位与完整任务成功率。

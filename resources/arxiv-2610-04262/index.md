@@ -1,3 +1,11 @@
+---
+title: "CADForge: Agentic Single-View CAD… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04262/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CADForge: Agentic Single-View CAD Reconstruction with Explicit Geometry Reasoning
 
 Bibliographic record for CADForge: Agentic Single-View CAD Reconstruction with Explicit Geometry Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Keyang Lu, Zhifei Yang, Tianao Dong, Mingzhe Xing, Zhen Xiao, Yikai Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04262/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04262/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04262,
+  title = {{CADForge: Agentic Single-View CAD Reconstruction with Explicit Geometry Reasoning}},
+  author = {{Keyang Lu} and {Zhifei Yang} and {Tianao Dong} and {Mingzhe Xing} and {Zhen Xiao} and {Yikai Wang}},
+  year = {2026},
+  eprint = {2610.04262v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04262v1},
+  note = {First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T03:39:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

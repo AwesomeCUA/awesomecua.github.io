@@ -1,3 +1,11 @@
+---
+title: "OpenHuman · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinyhumansai-openhuman/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # OpenHuman
 
 OpenHuman 是以桌面应用和 Rust 库形式提供的智能体运行框架，具备根据可见按钮选择操作的浏览器和桌面控制功能。

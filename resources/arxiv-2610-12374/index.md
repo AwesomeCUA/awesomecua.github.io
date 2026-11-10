@@ -1,3 +1,11 @@
+---
+title: "AgentGarten: Code Worlds for Evolving Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-12374/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgentGarten: Code Worlds for Evolving Agents
 
 Bibliographic record for AgentGarten: Code Worlds for Evolving Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiawei Chi, Shangchen Miao, Zhiyuan Shi, Kailu Wu, Hanyang Wang, Weiliang Chen, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12374/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12374/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12374,
+  title = {{AgentGarten: Code Worlds for Evolving Agents}},
+  author = {{Jiawei Chi} and {Shangchen Miao} and {Zhiyuan Shi} and {Kailu Wu} and {Hanyang Wang} and {Weiliang Chen} and {Qiyu Dai} and {Chengyang Li} and {Jinshan Ren} and {Jun Gao} and {Mingsheng Long} and {Yueqi Duan} and {Jiangran Lyu} and {Jialong Wu} and {Fangfu Liu}},
+  year = {2026},
+  eprint = {2610.12374v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12374v2},
+  note = {First published: 2026-10-08; Recorded arXiv version: v2; Recorded version updated: 2026-10-10T08:16:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

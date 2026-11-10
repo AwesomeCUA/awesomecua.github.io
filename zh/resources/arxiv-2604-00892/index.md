@@ -1,3 +1,11 @@
+---
+title: "When Users Change Their Mind: Evaluating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-00892/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation
 
 提出源自 WebArena-Lite 的 InterruptBench，评估长流程网页导航智能体如何应对任务中途用户提出的追加、修改和撤回要求。
@@ -27,6 +35,18 @@ Henry Peng Zou, Chunyu Miao, Wei-Chieh Huang, Yankai Chen, Yue Zhou, Hanrong Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-00892/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-00892/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_00892,
+  title = {{When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation}},
+  author = {{Henry Peng Zou} and {Chunyu Miao} and {Wei-Chieh Huang} and {Yankai Chen} and {Yue Zhou} and {Hanrong Zhang} and {Yaozu Wu} and {Liancheng Fang} and {Zhengyao Gu} and {Zhen Zhang} and {Kening Zheng} and {Fangxin Wang} and {Yi Nian} and {Shanghao Li} and {Wenzhe Fan} and {Langzhou He} and {Weizhi Zhang} and {Xue Liu} and {Philip S. Yu}},
+  year = {2026},
+  eprint = {2604.00892v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.00892v1},
+  note = {First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T13:40:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

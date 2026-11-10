@@ -1,3 +1,11 @@
+---
+title: "DeepPresenter: Environment-Grounded… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-22839/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation
 
 Bibliographic record for DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hao Zheng, Guozhao Mo, Xinru Yan, Qianhao Yuan, Wenkai Zhang, Xuanang Chen, Yaoj
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-22839/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-22839/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_22839,
+  title = {{DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation}},
+  author = {{Hao Zheng} and {Guozhao Mo} and {Xinru Yan} and {Qianhao Yuan} and {Wenkai Zhang} and {Xuanang Chen} and {Yaojie Lu} and {Hongyu Lin} and {Xianpei Han} and {Le Sun}},
+  year = {2026},
+  eprint = {2602.22839v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.22839v3},
+  note = {First published: 2026-02-26; Recorded arXiv version: v3; Recorded version updated: 2026-04-20T02:43:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

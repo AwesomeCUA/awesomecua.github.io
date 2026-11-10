@@ -1,3 +1,11 @@
+---
+title: "QuickDesk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-barry-ran-quickdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # QuickDesk
 
 QuickDesk is an AI-native remote desktop client and host with a built-in MCP server for streaming screens and controlling remote computers.

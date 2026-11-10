@@ -1,3 +1,11 @@
+---
+title: "OS-Copilot/OSReward · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e01658de14c2e62fbf20/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # OS-Copilot/OSReward
 
 OSReward 发布带有标签且截图与步骤对齐的计算机操作轨迹，分为 Full 和 Hard 测试集，用于评估任务成功与否的判断。

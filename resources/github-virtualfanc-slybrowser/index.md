@@ -1,3 +1,11 @@
+---
+title: "SlyBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-virtualfanc-slybrowser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # SlyBrowser
 
 Anti-detect Chromium browser built for agentic web automation and authorized scraping with native humanized input.

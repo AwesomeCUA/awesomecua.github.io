@@ -1,3 +1,11 @@
+---
+title: "HiconAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ilearn-lab-cvpr26-hiconagent/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # HiconAgent
 
 HiconAgent provides GUI-policy training code that samples histories of varied lengths and compresses past interactions during policy optimization.

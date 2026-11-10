@@ -1,3 +1,11 @@
+---
+title: "Web Agents with World Models: Learning and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-13232/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation
 
 Uses a learned web world model to predict important state changes and compare candidate actions before executing them.
@@ -26,6 +34,18 @@ Hyungjoo Chae, Namyoung Kim, Kai Tzu-iunn Ong, Minju Gwak, Gwanwoo Song, Jihoon 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-13232/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-13232/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_13232,
+  title = {{Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation}},
+  author = {{Hyungjoo Chae} and {Namyoung Kim} and {Kai Tzu-iunn Ong} and {Minju Gwak} and {Gwanwoo Song} and {Jihoon Kim} and {Sunghwan Kim} and {Dongha Lee} and {Jinyoung Yeo}},
+  year = {2024},
+  eprint = {2410.13232v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.13232v2},
+  note = {First published: 2024-10-17; Recorded arXiv version: v2; Recorded version updated: 2025-03-29T08:59:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

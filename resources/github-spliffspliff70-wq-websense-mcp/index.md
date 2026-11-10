@@ -1,3 +1,11 @@
+---
+title: "WebSense MCP 2.0 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # WebSense MCP 2.0
 
 Non-vision browser automation Model Context Protocol server exposing 7 compact DOM-sensing and action tools.

@@ -1,3 +1,11 @@
+---
+title: "TimeWarp (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sparklabutah-timewarp/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # TimeWarp
 
 Web-agent benchmark on self-hosted Wiki, News and Shop sites, each with six era-styled UI versions, registering 231 BrowserGym tasks scored mainly by deterministic answer verifiers.

@@ -1,3 +1,11 @@
+---
+title: "Midscene Examples | AwesomeCUA"
+url: https://awesomecua.com/resources/github-web-infra-dev-midscene-example/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Midscene Examples
 
 Midscene Examples provides runnable AI automation and testing cases for web, Android, iOS and desktop interfaces, including YAML workflows and SDK integrations.

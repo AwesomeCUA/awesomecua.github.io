@@ -1,3 +1,11 @@
+---
+title: "CogVLM · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-cogvlm/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # CogVLM
 
 CogVLM 提供 CogVLM 视觉语言基础模型和 CogAgent GUI 智能体的官方推理与微调代码。

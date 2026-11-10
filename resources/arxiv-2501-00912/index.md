@@ -1,3 +1,11 @@
+---
+title: "AutoPresent: Designing Structured Visuals… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-00912/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AutoPresent: Designing Structured Visuals from Scratch
 
 Bibliographic record for AutoPresent: Designing Structured Visuals from Scratch. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaxin Ge, Zora Zhiruo Wang, Xuhui Zhou, Yi-Hao Peng, Sanjay Subramanian, Qinyue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-00912/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-00912/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_00912,
+  title = {{AutoPresent: Designing Structured Visuals from Scratch}},
+  author = {{Jiaxin Ge} and {Zora Zhiruo Wang} and {Xuhui Zhou} and {Yi-Hao Peng} and {Sanjay Subramanian} and {Qinyue Tan} and {Maarten Sap} and {Alane Suhr} and {Daniel Fried} and {Graham Neubig} and {Trevor Darrell}},
+  year = {2025},
+  eprint = {2501.00912v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.00912v2},
+  note = {First published: 2025-01-01; Recorded arXiv version: v2; Recorded version updated: 2025-06-19T19:27:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

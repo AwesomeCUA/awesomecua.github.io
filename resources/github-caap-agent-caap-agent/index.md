@@ -1,3 +1,11 @@
+---
+title: "CAAP Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-caap-agent-caap-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # CAAP Agent
 
 Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual observer and context-aware prompts to issue mouse and keyboard actions.

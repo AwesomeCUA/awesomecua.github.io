@@ -1,3 +1,11 @@
+---
+title: "Claude Blender | AwesomeCUA"
+url: https://awesomecua.com/resources/github-minihellboy-claude-blender/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Claude Blender
 
 An MCP server and Blender add-on that let an AI assistant control scenes through tools, inspect screenshots and renders, and revise work using visual feedback.

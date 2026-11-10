@@ -1,3 +1,11 @@
+---
+title: "Mem0 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mem0ai-mem0/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Mem0
 
 Mem0 provides a scalable long-term memory layer for AI agents that extracts, consolidates, and retrieves user and session facts.

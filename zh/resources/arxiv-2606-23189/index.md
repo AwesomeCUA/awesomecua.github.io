@@ -1,3 +1,11 @@
+---
+title: "Capable but Careless: Do Computer-Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-23189/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?
 
 AgentCIBench 评估计算机使用智能体是否以违反信息原有情境的方式披露信息。采用确定性评分的场景测试邻近的敏感 UI 内容、含糊请求和接收方不匹配，并涵盖智能体端到端执行。
@@ -27,6 +35,18 @@ Anmol Goel, Iryna Gurevych
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-23189/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-23189/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_23189,
+  title = {{Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?}},
+  author = {{Anmol Goel} and {Iryna Gurevych}},
+  year = {2026},
+  eprint = {2606.23189v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.23189v2},
+  note = {First published: 2026-06-22; Recorded arXiv version: v2; Recorded version updated: 2026-09-10T18:49:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Intelligent Software Web Agents: A Gap Analysis | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2102-06607/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Intelligent Software Web Agents: A Gap Analysis
 
 Status: excluded from the active CUA catalog after scope review.

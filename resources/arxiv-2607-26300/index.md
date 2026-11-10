@@ -1,3 +1,11 @@
+---
+title: "AgentGUI: An Interface for Observing and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-26300/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentGUI: An Interface for Observing and Steering Long-Running AI Agents
 
 Bibliographic record for AgentGUI: An Interface for Observing and Steering Long-Running AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xuan Zhao, Jiwoong Sohn, Qinyue Zheng, Michael Moor
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-26300/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-26300/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_26300,
+  title = {{AgentGUI: An Interface for Observing and Steering Long-Running AI Agents}},
+  author = {{Xuan Zhao} and {Jiwoong Sohn} and {Qinyue Zheng} and {Michael Moor}},
+  year = {2026},
+  eprint = {2607.26300v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.26300v2},
+  note = {First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-08-04T13:59:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "IntroSVG: Learning from Rendering Feedback… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-09312/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework
 
 Bibliographic record for IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Feiyu Wang, Jiayuan Yang, Zhiyuan Zhao, Da Zhang, Bingyu Li, Peng Liu, Junyu Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-09312/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-09312/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_09312,
+  title = {{IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework}},
+  author = {{Feiyu Wang} and {Jiayuan Yang} and {Zhiyuan Zhao} and {Da Zhang} and {Bingyu Li} and {Peng Liu} and {Junyu Gao}},
+  year = {2026},
+  eprint = {2603.09312v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.09312v1},
+  note = {First published: 2026-03-10; Recorded arXiv version: v1; Recorded version updated: 2026-03-10T07:44:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

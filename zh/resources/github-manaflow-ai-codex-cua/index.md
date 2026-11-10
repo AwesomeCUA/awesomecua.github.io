@@ -1,3 +1,11 @@
+---
+title: "codex-cua · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-manaflow-ai-codex-cua/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # codex-cua
 
 CLI 封装工具，使用 Codex 内置的 Computer Use 引擎，从 shell 操作 macOS 桌面应用。

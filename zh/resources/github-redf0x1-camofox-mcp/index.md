@@ -1,3 +1,11 @@
+---
+title: "CamoFox MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-redf0x1-camofox-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CamoFox MCP
 
 Model Context Protocol 服务器，将 Claude Desktop、Cursor 和 OpenClaw 连接到 CamoFox 反检测浏览器实例。

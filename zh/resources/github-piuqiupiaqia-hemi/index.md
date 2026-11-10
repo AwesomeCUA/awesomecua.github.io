@@ -1,3 +1,11 @@
+---
+title: "Hemi · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-piuqiupiaqia-hemi/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Hemi
 
 面向 macOS 和 Windows 的桌面 AI 助手，具备语音交互、屏幕感知和本地工具执行功能。

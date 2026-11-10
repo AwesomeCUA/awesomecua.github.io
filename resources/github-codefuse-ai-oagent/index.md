@@ -1,3 +1,11 @@
+---
+title: "OpAgent (github.com/codefuse-ai/Oagent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-codefuse-ai-oagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OpAgent
 
 OpAgent is a web-navigation agent that observes screenshots, plans and grounds actions, and executes browser operations. Its repository also includes single-model and training modes.

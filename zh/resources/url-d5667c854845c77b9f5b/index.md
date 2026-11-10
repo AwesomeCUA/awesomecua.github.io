@@ -1,3 +1,11 @@
+---
+title: "MobileRL 9B checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d5667c854845c77b9f5b/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # MobileRL 9B checkpoint
 
 MobileRL 项目发布的基于 GLM-4.1V 的移动端操作模型检查点，用于 Android 交互。

@@ -1,3 +1,11 @@
+---
+title: "Mitigating Coordinate Prediction Bias from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-22102/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Mitigating Coordinate Prediction Bias from Positional Encoding Failures
 
 Introduces Vision-PE Shuffle Guidance (VPSG), a training-free correction for coordinate drift in visual models, evaluated for localization on ScreenSpot-Pro.
@@ -26,6 +34,18 @@ Xingjian Tao, Yiwei Wang, Yujun Cai, Yihong Luo, Kai Han, Jing Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-22102/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-22102/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_22102,
+  title = {{Mitigating Coordinate Prediction Bias from Positional Encoding Failures}},
+  author = {{Xingjian Tao} and {Yiwei Wang} and {Yujun Cai} and {Yihong Luo} and {Kai Han} and {Jing Tang}},
+  year = {2025},
+  eprint = {2510.22102v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.22102v2},
+  note = {First published: 2025-10-25; Recorded arXiv version: v2; Recorded version updated: 2026-04-28T03:11:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

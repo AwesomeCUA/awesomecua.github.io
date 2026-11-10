@@ -1,3 +1,11 @@
+---
+title: "Permission Manifests for Web Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-02371/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Permission Manifests for Web Agents
 
 提出 agent-permissions.json 网站清单，用于声明网页智能体可以执行的交互，并可附上 API 引用。
@@ -27,6 +35,18 @@ Samuele Marro, Alan Chan, Xinxing Ren, Lewis Hammond, Jesse Wright, Gurjyot Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-02371/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-02371/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_02371,
+  title = {{Permission Manifests for Web Agents}},
+  author = {{Samuele Marro} and {Alan Chan} and {Xinxing Ren} and {Lewis Hammond} and {Jesse Wright} and {Gurjyot Wanga} and {Tiziano Piccardi} and {Nuno Campos} and {Tobin South} and {Jialin Yu} and {Sunando Sengupta} and {Eric Sommerlade} and {Alex Pentland} and {Philip Torr} and {Jiaxin Pei}},
+  year = {2025},
+  eprint = {2601.02371v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.02371v2},
+  note = {First published: 2025-12-07; Recorded arXiv version: v2; Recorded version updated: 2026-01-12T23:23:48Z.}
+}
+```
 
 ## arXiv 版本记录
 

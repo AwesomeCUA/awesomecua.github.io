@@ -1,3 +1,11 @@
+---
+title: "ANT: A Multi-Granularity Network Traffic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-06514/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # ANT: A Multi-Granularity Network Traffic Dataset and Benchmark for Agents Behavior Auditing
 
 Bibliographic record for ANT: A Multi-Granularity Network Traffic Dataset and Benchmark for Agents Behavior Auditing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Fan Li, Xiangyu Gao, Zixuan Liu, Tong Li, Chuanpu Fu, Ziqiang Wang, Ke Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-06514/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-06514/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_06514,
+  title = {{ANT: A Multi-Granularity Network Traffic Dataset and Benchmark for Agents Behavior Auditing}},
+  author = {{Fan Li} and {Xiangyu Gao} and {Zixuan Liu} and {Tong Li} and {Chuanpu Fu} and {Ziqiang Wang} and {Ke Xu}},
+  year = {2026},
+  eprint = {2610.06514v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06514v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T15:30:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

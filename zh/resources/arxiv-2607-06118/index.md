@@ -1,3 +1,11 @@
+---
+title: "WebRetriever: A Large-Scale… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-06118/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation
 
 WebRetriever 按不同协议评估导航、知识辅助交互和端到端信息提取流程。其 NavEval 评判器利用更丰富的交互上下文，诊断导航成功与有效完成任务出现差异的情况。
@@ -27,6 +35,18 @@ Wei Dong, Tianyu Fu, Zhe Yu, Hanning Wang, Anyang Su, Zhizhou Fang, Yuyang Chen,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-06118/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-06118/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_06118,
+  title = {{WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation}},
+  author = {{Wei Dong} and {Tianyu Fu} and {Zhe Yu} and {Hanning Wang} and {Anyang Su} and {Zhizhou Fang} and {Yuyang Chen} and {Shuo Wang} and {Minghui Wu} and {Ping Jiang} and {Zhen Lei} and {Chenxu Zhao}},
+  year = {2026},
+  eprint = {2607.06118v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.06118v1},
+  note = {First published: 2026-07-07; Recorded arXiv version: v1; Recorded version updated: 2026-07-07T10:27:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

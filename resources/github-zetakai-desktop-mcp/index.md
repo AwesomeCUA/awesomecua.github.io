@@ -1,3 +1,11 @@
+---
+title: "zetakai desktop-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zetakai-desktop-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # zetakai desktop-mcp
 
 Desktop vision and input control Model Context Protocol server for Linux X11 and Wayland sessions.

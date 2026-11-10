@@ -1,3 +1,11 @@
+---
+title: "Browser Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-browser-harness/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Harness
 
 Browser Harness by Browser Use lets Claude Code, Codex, and Cursor drive the user's real logged-in Chrome browser via CDP.

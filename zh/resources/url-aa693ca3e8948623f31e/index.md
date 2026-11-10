@@ -1,3 +1,11 @@
+---
+title: "Building AI Browser Agents · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-aa693ca3e8948623f31e/
+updated: 2026-10-20
+type: learning
+lang: zh-CN
+---
+
 # Building AI Browser Agents
 
 浏览器智能体课程，包含结构化网页信息提取和多步浏览器交互的实例课程，随后介绍 AgentQ 搜索与自我纠错的概念。

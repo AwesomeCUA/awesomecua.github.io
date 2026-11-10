@@ -1,3 +1,11 @@
+---
+title: "gridhand | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zachrouan-gridhand/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gridhand
 
 Zero-dependency Rust CLI for cross-platform GUI automation that overlays labeled coordinate grids onto screenshots for deterministic clicking.

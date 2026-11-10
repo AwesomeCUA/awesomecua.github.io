@@ -1,3 +1,11 @@
+---
+title: "Synthetic GUI Samples Plugin for FiftyOne · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harpreetsahota204-synthetic-gui-samples-plugins/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Synthetic GUI Samples Plugin for FiftyOne
 
 一个 FiftyOne 插件，可增强带标注的图形界面截图和任务描述，用于训练界面理解模型，同时保留标注和变换历史。

@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 23 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/23/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 23
 
 HTML page: https://awesomecua.com/topics/automation/page/23/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [robotsix-browser](https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/)
-- [Rocuronium](https://awesomecua.com/resources/github-kageroumado-rocuronium/)
-- [Rod](https://awesomecua.com/resources/github-go-rod-rod/)
-- [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/)
-- [rote](https://awesomecua.com/resources/github-bhuvanb3110-rote/)
 - [Roubao](https://awesomecua.com/resources/github-turbo1123-roubao/)
 - [RPA Desktop Canal Visual](https://awesomecua.com/resources/github-hab99-rpa-desktop-canal-visual/)
 - [RPA for Python](https://awesomecua.com/resources/github-tebelorg-rpa-python/)
@@ -64,3 +67,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Shellby MCP](https://awesomecua.com/resources/github-serbyte-development-shellby-mcp/)
 - [shortcut-pad-mcp](https://awesomecua.com/resources/github-darkspaz-v1-shortcut-pad-mcp/)
 - [ShowUI-Aloha](https://awesomecua.com/resources/github-showlab-showui-aloha/)
+- [Sidelook](https://awesomecua.com/resources/github-ucsandman-sidelook/)
+- [Sidemates](https://awesomecua.com/resources/github-prisacariurobert-sidemates/)
+- [SIH26 Privacy-Preserving Browser Agent](https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/)
+- [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/)
+- [SikuliX1](https://awesomecua.com/resources/github-raiman-sikulix1/)

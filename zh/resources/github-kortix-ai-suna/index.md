@@ -1,3 +1,11 @@
+---
+title: "Kortix Suna · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kortix-ai-suna/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Kortix Suna
 
 Kortix Suna 是开源通用智能体平台，集成容器化浏览器、代码解释器、文件管理器和工具运行时。

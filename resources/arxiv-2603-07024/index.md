@@ -1,3 +1,11 @@
+---
+title: "Enhancing Web Agents with a Hierarchical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-07024/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Enhancing Web Agents with a Hierarchical Memory Tree
 
 Introduces Hierarchical Memory Tree (HMT), which organizes web-agent trajectories by intent, stage and action, then uses the hierarchy to plan and act on websites.
@@ -26,6 +34,18 @@ Yunteng Tan, Zhi Gao, Xinxiao Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-07024/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-07024/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_07024,
+  title = {{Enhancing Web Agents with a Hierarchical Memory Tree}},
+  author = {{Yunteng Tan} and {Zhi Gao} and {Xinxiao Wu}},
+  year = {2026},
+  eprint = {2603.07024v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.07024v1},
+  note = {First published: 2026-03-07; Recorded arXiv version: v1; Recorded version updated: 2026-03-07T04:07:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

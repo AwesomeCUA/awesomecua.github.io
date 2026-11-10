@@ -1,3 +1,11 @@
+---
+title: "PTA-1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-303e1926b8ff4f60e006/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # PTA-1
 
 AskUI's Florence-2-base grounding model of about 270M parameters that returns a bounding box for a described element in a screenshot, intended for low-latency local computer and phone automation.

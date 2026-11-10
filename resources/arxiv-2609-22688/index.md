@@ -1,3 +1,11 @@
+---
+title: "A Design-Intent-Preserving Agent Harness for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-22688/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # A Design-Intent-Preserving Agent Harness for Parametric CAD Modeling
 
 Bibliographic record for A Design-Intent-Preserving Agent Harness for Parametric CAD Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xi Cheng, Chenxi Zhai, Jie Xu, Hang Cheng, Mingyu Fan, Pingfa Feng, Long Zeng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-22688/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-22688/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_22688,
+  title = {{A Design-Intent-Preserving Agent Harness for Parametric CAD Modeling}},
+  author = {{Xi Cheng} and {Chenxi Zhai} and {Jie Xu} and {Hang Cheng} and {Mingyu Fan} and {Pingfa Feng} and {Long Zeng}},
+  year = {2026},
+  eprint = {2609.22688v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.22688v4},
+  note = {First published: 2026-09-19; Recorded arXiv version: v4; Recorded version updated: 2026-10-31T06:42:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

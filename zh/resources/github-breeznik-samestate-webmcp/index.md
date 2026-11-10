@@ -1,3 +1,11 @@
+---
+title: "SameState WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-breeznik-samestate-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SameState WebMCP
 
 WebMCP 参考架构，直接向浏览器智能体开放 Redux 前端状态，以实现人和智能体的同步交互。

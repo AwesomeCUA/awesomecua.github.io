@@ -1,3 +1,11 @@
+---
+title: "Asynchronous Methods for Deep Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1602-01783/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Asynchronous Methods for Deep Reinforcement Learning
 
 Bibliographic record for Asynchronous Methods for Deep Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1602-01783/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1602-01783/citation.csl.json
+
+```bibtex
+@misc{arxiv_1602_01783,
+  title = {{Asynchronous Methods for Deep Reinforcement Learning}},
+  author = {{Volodymyr Mnih} and {Adrià Puigdomènech Badia} and {Mehdi Mirza} and {Alex Graves} and {Timothy P. Lillicrap} and {Tim Harley} and {David Silver} and {Koray Kavukcuoglu}},
+  year = {2016},
+  eprint = {1602.01783v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1602.01783v2},
+  note = {First published: 2016-02-04; Recorded arXiv version: v2; Recorded version updated: 2016-06-16T16:38:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

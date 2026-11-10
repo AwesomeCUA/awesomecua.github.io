@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3-VL-8B OSWorld SFT · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-50501b63a93c611d6e54/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) Qwen3-VL-8B OSWorld SFT
 
 THUDM ScaleCUA 的监督训练 Qwen3-VL-8B 检查点，作为 OSWorld 桌面计算机使用智能体在线强化学习的初始模型发布。

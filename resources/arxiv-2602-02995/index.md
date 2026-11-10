@@ -1,3 +1,11 @@
+---
+title: "Agent Alpha: Tree Search Unifying Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-02995/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents
 
 Agent Alpha uses step-level Monte Carlo tree search to reuse successful prefixes and recover from early GUI mistakes. Comparison-based evaluation and diversity-constrained expansion guide the search, with experiments on OSWorld.
@@ -26,6 +34,18 @@ Sizhe Tang, Rongqian Chen, Tian Lan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-02995/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-02995/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_02995,
+  title = {{Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents}},
+  author = {{Sizhe Tang} and {Rongqian Chen} and {Tian Lan}},
+  year = {2026},
+  eprint = {2602.02995v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.02995v1},
+  note = {First published: 2026-02-03; Recorded arXiv version: v1; Recorded version updated: 2026-02-03T02:07:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

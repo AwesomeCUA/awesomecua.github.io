@@ -1,3 +1,11 @@
+---
+title: "MalURLBench: A Benchmark Evaluating Agents'… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-18113/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs
 
 MalURLBench evaluates how LLM-based web agents handle disguised malicious URLs across attack scenarios; the paper also analyzes attack factors and proposes URLGuard.
@@ -26,6 +34,18 @@ Dezhang Kong, Zhuxi Wu, Shiqi Liu, Zhicheng Tan, Kuichen Lu, Minghao Li, Qichen 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-18113/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-18113/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_18113,
+  title = {{MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs}},
+  author = {{Dezhang Kong} and {Zhuxi Wu} and {Shiqi Liu} and {Zhicheng Tan} and {Kuichen Lu} and {Minghao Li} and {Qichen Liu} and {Shengyu Chu} and {Zhenhua Xu} and {Xuan Liu} and {Meng Han}},
+  year = {2026},
+  eprint = {2601.18113v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.18113v3},
+  note = {First published: 2026-01-26; Recorded arXiv version: v3; Recorded version updated: 2026-03-13T04:12:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GAZE | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kevintrinhdev-gaze/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GAZE
 
 Vision-first browser controller that observes and drives an already logged-in Chrome window.

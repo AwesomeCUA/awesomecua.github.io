@@ -1,3 +1,11 @@
+---
+title: "Aguvis stage 1 grounding data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-06dd5ac7917c45d48509/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Aguvis stage 1 grounding data
 
 Aguvis 第一阶段训练数据集，汇集多个界面数据源的 GUI 元素定位标注和图像归档。

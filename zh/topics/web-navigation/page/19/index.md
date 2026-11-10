@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 19 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/19/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 19 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/19/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/zh/resources/github-firecrawl-agent-browser-plugin-firecrawl/)
-- [Firecrawl MCP Server](https://awesomecua.com/zh/resources/github-firecrawl-firecrawl-mcp-server/)
 - [Firefox DevTools MCP](https://awesomecua.com/zh/resources/github-mozilla-firefox-devtools-mcp/)
 - [firefox-bidi-mcp](https://awesomecua.com/zh/resources/github-enne2-firefox-bidi-mcp/)
 - [firefox-headless-server MCP](https://awesomecua.com/zh/resources/github-qoli-firefox-headless-server/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/19/
 - [guo6x dsh-pilot](https://awesomecua.com/zh/resources/github-guo6x-dsh-pilot/)
 - [haden-browser](https://awesomecua.com/zh/resources/github-haden-min-haden-browser/)
 - [hai-agents](https://awesomecua.com/zh/resources/github-hcompai-hai-agents-python/)
+- [hai-agents](https://awesomecua.com/zh/resources/github-hcompai-hai-agents-ts/)
+- [handraise](https://awesomecua.com/zh/resources/github-sy-d-handraise/)

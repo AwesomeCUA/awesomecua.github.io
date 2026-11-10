@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 0.8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-df84f6a103123387b0dd/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # Holo3.1 0.8B
 
 H Company 的 Holo3.1 视觉语言模型系列中最小的检查点，面向网页、桌面和移动端计算机使用智能体，并为智能体框架提供原生函数调用。

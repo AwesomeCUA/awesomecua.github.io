@@ -1,3 +1,11 @@
+---
+title: "Forms Responder Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-luneto10-forms-responder-plugin/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Forms Responder Plugin
 
 Portable Codex and Agent Skills plugin for source-verified browser form completion.

@@ -1,3 +1,11 @@
+---
+title: "Detecting Active Attacks in Over-the-Air… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-08950/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Detecting Active Attacks in Over-the-Air Computation using Dummy Samples
 
 Status: excluded from the active CUA catalog after scope review.

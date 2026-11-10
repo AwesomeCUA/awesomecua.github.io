@@ -1,3 +1,11 @@
+---
+title: "Holotron4 30B-A3B FP8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a72a105e755836154412/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # Holotron4 30B-A3B FP8
 
 H Company 基于 Nemotron 3 Nano Omni 构建的计算机使用模型 Holotron4-30B-A3B 的 FP8 版本；外部框架发送截图和工具结果，并执行其请求的点击、输入、代码和工具调用。

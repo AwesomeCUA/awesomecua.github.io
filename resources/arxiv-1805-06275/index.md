@@ -1,3 +1,11 @@
+---
+title: "Experimental quantum mechanics in the class… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1805-06275/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Experimental quantum mechanics in the class room: Testing basic ideas of quantum mechanics and quantum computing using IBM quantum computer
 
 Status: excluded from the active CUA catalog after scope review.

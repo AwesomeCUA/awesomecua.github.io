@@ -1,3 +1,11 @@
+---
+title: "RiOSWorld: Benchmarking the Risk of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-00618/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents
 
 Introduces RiOSWorld, a computer-use risk benchmark separating user-originated and environmental threats. It evaluates both risky-goal intent and goal completion across web and other computer applications.
@@ -26,6 +34,18 @@ Jingyi Yang, Shuai Shao, Dongrui Liu, Jing Shao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-00618/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-00618/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_00618,
+  title = {{RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents}},
+  author = {{Jingyi Yang} and {Shuai Shao} and {Dongrui Liu} and {Jing Shao}},
+  year = {2025},
+  eprint = {2506.00618v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.00618v3},
+  note = {First published: 2025-05-31; Recorded arXiv version: v3; Recorded version updated: 2025-06-20T01:24:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

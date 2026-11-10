@@ -1,3 +1,11 @@
+---
+title: "Are Autonomous Web Agents Good Testers? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-01495/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Are Autonomous Web Agents Good Testers?
 
 Adapts web agents to execute natural-language test steps, verify assertions, and issue test verdicts. The study introduces 113 passing and failing test cases across three offline web applications and compares two agent implementations with qualitative failure analysis.
@@ -26,6 +34,18 @@ Antoine Chevrot, Alexandre Vernotte, Jean-Rémy Falleri, Xavier Blanc, Bruno Leg
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-01495/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-01495/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_01495,
+  title = {{Are Autonomous Web Agents Good Testers?}},
+  author = {{Antoine Chevrot} and {Alexandre Vernotte} and {Jean-Rémy Falleri} and {Xavier Blanc} and {Bruno Legeard}},
+  year = {2025},
+  eprint = {2504.01495v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.01495v1},
+  note = {First published: 2025-04-02; Recorded arXiv version: v1; Recorded version updated: 2025-04-02T08:48:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "case-sdk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-case-computers-case-sdk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # case-sdk
 
 Dual-mode macOS GUI automation SDK supporting structured JSON procedures, local/remote WebSocket runtimes, and MCP integration.

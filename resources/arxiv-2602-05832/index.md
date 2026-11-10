@@ -1,3 +1,11 @@
+---
+title: "UI-Mem: Self-Evolving Experience Memory for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-05832/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents
 
 UI-Mem stores workflows, skills and failure patterns as reusable templates to guide online GUI reinforcement learning. It varies guidance within rollout groups and continually updates the memory so an unguided policy can learn from guided experiences.
@@ -26,6 +34,18 @@ Han Xiao, Guozhi Wang, Hao Wang, Shilong Liu, Yuxiang Chai, Yue Pan, Yufeng Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-05832/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-05832/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_05832,
+  title = {{UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents}},
+  author = {{Han Xiao} and {Guozhi Wang} and {Hao Wang} and {Shilong Liu} and {Yuxiang Chai} and {Yue Pan} and {Yufeng Zhou} and {Xiaoxin Chen} and {Yafei Wen} and {Hongsheng Li}},
+  year = {2026},
+  eprint = {2602.05832v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.05832v1},
+  note = {First published: 2026-02-05; Recorded arXiv version: v1; Recorded version updated: 2026-02-05T16:21:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

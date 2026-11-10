@@ -1,3 +1,11 @@
+---
+title: "Windows Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cgissing-windows-computer-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Windows Computer Use
 
 A Windows MCP plugin that gives agents screenshots, UI Automation inspection, and mouse and keyboard actions for desktop applications.

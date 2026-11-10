@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_ground_iterative (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-87bba046fba8c1cd968c/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # lumos_unified_ground_iterative
 
 A JSONL training dataset for the Lumos-I grounding module, combining math, question-answering, and web-agent annotations, including examples from Mind2Web.

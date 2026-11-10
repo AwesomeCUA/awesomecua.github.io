@@ -1,3 +1,11 @@
+---
+title: "PixelWeb · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-67ae69986d6408fde468/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # PixelWeb
 
 PixelWeb 提供 1K、10K 和 100K 规模的网页截图、DOM 数据及元素图像，并附有掩码、轮廓和边界框标注。

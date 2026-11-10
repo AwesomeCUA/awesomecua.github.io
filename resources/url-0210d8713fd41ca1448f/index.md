@@ -1,3 +1,11 @@
+---
+title: "Stagehand (stagehand.dev) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0210d8713fd41ca1448f/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Stagehand
 
 An SDK for browser agents that combines Playwright-style page control with natural-language actions, observation, and extraction. It runs beside the browser as an extension.

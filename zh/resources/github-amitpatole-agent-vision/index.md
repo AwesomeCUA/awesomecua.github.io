@@ -1,3 +1,11 @@
+---
+title: "AgentVision · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amitpatole-agent-vision/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # AgentVision
 
 这是一款面向 AI 智能体的视觉审查工具，可渲染界面并报告布局、对比度、文字和图像问题。智能体可以根据报告修改产物并再次检查。

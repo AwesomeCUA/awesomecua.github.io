@@ -1,3 +1,11 @@
+---
+title: "Wornpage WebMCP Conformance | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wornpage-webmcp-conformance/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Wornpage WebMCP Conformance
 
 Validation toolkit checking page-owned WebMCP tool schemas, authorization boundaries, and execution conformance.

@@ -1,3 +1,11 @@
+---
+title: "ARTEMIS · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-artemis/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # ARTEMIS
 
 ARTEMIS 是执行跨应用自然语言任务的 Android 智能体，可通过元素索引或视觉方式定位界面目标，并通过 MCP 服务器提供设备操作能力。

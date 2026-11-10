@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2: Building Versatile Mobile… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-14157/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools
 
 提出 OpenMobile-2，结合模拟移动应用、模拟器任务、公开的训练数据，以及可在 GUI 交互与应用原生工具之间切换的策略。
@@ -27,6 +35,18 @@ Chenyang Yan, Yingying Zhang, Kanzhi Cheng, Qiushi Sun, Zhengyuan Pan, Zheng Ma,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-14157/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-14157/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14157,
+  title = {{OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools}},
+  author = {{Chenyang Yan} and {Yingying Zhang} and {Kanzhi Cheng} and {Qiushi Sun} and {Zhengyuan Pan} and {Zheng Ma} and {Hang Yan} and {Yian Wang} and {Nuo Chen} and {Jialin Cao} and {Xingdong Gong} and {Wenpo Song} and {Han Chen} and {Zichen Ding} and {Fangzhi Xu} and {Shujian Huang} and {Xinyu Dai} and {Yichen Liu} and {Tiankuo Yao} and {Bo Wang} and {Ben Kao} and {Jianbing Zhang} and {Lewei Lu} and {Dahua Lin}},
+  year = {2026},
+  eprint = {2610.14157v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14157v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T17:26:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

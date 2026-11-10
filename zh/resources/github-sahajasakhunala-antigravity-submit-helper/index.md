@@ -1,3 +1,11 @@
+---
+title: "AntiGravity Submit Helper · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sahajasakhunala-antigravity-submit-helper/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AntiGravity Submit Helper
 
 Windows AutoHotkey v2 桌面自动化工具，可检测 Antigravity 智能体提示并与之交互。

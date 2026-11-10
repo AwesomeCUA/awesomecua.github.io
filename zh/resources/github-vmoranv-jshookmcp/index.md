@@ -1,3 +1,11 @@
+---
+title: "@jshookmcp/jshook · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vmoranv-jshookmcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # @jshookmcp/jshook
 
 一个用于智能体辅助前端分析的 MCP 服务器，整合浏览器自动化、网络检查以及 JavaScript 和 WASM 分析工具。

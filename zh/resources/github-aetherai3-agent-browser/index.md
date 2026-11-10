@@ -1,3 +1,11 @@
+---
+title: "Aether Agent Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aetherai3-agent-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Aether Agent Browser
 
 自托管的 Chrome 智能体运行环境，支持受限的 API 控制、实时 VNC 观察和人工接管。

@@ -1,3 +1,11 @@
+---
+title: "VGA (Vision GUI Assistant) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-linziyang1999-vision-gui-assistant/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # VGA (Vision GUI Assistant)
 
 Vision GUI Assistant（VGA）提供以图像为中心的微调代码和数据集，以减少视觉语言 GUI 定位中的幻觉。

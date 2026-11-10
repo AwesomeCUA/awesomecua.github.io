@@ -1,3 +1,11 @@
+---
+title: "CuaOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cuaos-cuaos/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # CuaOS
 
 CuaOS runs a Qwen3-VL computer-use agent that autonomously controls an Ubuntu virtual desktop inside a local Docker sandbox.

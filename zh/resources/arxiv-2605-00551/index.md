@@ -1,3 +1,11 @@
+---
+title: "A11y-Compressor: A Framework for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-00551/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction
 
 A11y-Compressor 通过模态检测、冗余削减和语义结构化转换线性化的无障碍树；在 OSWorld 上评估观察信息的 token 减量与任务成功情况。
@@ -27,6 +35,18 @@ Michito Takeshita, Takuro Kawada, Takumi Ohashi, Shunsuke Kitada, Hitoshi Iyatom
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-00551/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-00551/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_00551,
+  title = {{A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction}},
+  author = {{Michito Takeshita} and {Takuro Kawada} and {Takumi Ohashi} and {Shunsuke Kitada} and {Hitoshi Iyatomi}},
+  year = {2026},
+  eprint = {2605.00551v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.00551v1},
+  note = {First published: 2026-05-01; Recorded arXiv version: v1; Recorded version updated: 2026-05-01T10:16:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

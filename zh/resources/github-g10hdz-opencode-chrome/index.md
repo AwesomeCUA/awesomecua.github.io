@@ -1,3 +1,11 @@
+---
+title: "opencode-chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-g10hdz-opencode-chrome/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # opencode-chrome
 
 Chrome 扩展和 MCP 桥接工具，赋予 OpenCode 直接检查浏览器标签页并与之交互的能力。

@@ -1,3 +1,11 @@
+---
+title: "Chrome MCP Docker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-null-runner-chrome-mcp-docker/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome MCP Docker
 
 Dockerized Chrome DevTools MCP server with persistent browser profiles and container host-header routing for AI web agents.

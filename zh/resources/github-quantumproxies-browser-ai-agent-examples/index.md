@@ -1,3 +1,11 @@
+---
+title: "Browser AI Agent Examples (Tiered Web… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-quantumproxies-browser-ai-agent-examples/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Browser AI Agent Examples (Tiered Web Agent)
 
 目标驱动的网页智能体架构，在 XHR 发现、DOM 动作和视觉处理之间采用从成本最低层开始的级联方式。

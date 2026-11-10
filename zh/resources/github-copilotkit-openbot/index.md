@@ -1,3 +1,11 @@
+---
+title: "CopilotKit OpenBot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-copilotkit-openbot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CopilotKit OpenBot
 
 CopilotKit 的自托管企业 AI 助手和计算机使用工作区，具备容器化沙箱和技能编排功能。

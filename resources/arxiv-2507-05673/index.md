@@ -1,3 +1,11 @@
+---
+title: "R-VLM: Region-Aware Vision Language Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-05673/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding
 
 R-VLM localizes GUI elements through zoomed-in region proposals and an intersection-over-union-aware training objective. It evaluates the grounding model on ScreenSpot and AgentStudio and studies its effect on navigation in AITW and Mind2Web.
@@ -26,6 +34,18 @@ Joonhyung Park, Peng Tang, Sagnik Das, Srikar Appalaraju, Kunwar Yashraj Singh, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-05673/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-05673/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_05673,
+  title = {{R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding}},
+  author = {{Joonhyung Park} and {Peng Tang} and {Sagnik Das} and {Srikar Appalaraju} and {Kunwar Yashraj Singh} and {R. Manmatha} and {Shabnam Ghadar}},
+  year = {2025},
+  eprint = {2507.05673v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.05673v1},
+  note = {First published: 2025-07-08; Recorded arXiv version: v1; Recorded version updated: 2025-07-08T04:56:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

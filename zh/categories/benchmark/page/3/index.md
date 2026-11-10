@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体评测基准（第 3 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/benchmark/page/3/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体评测基准：第 3 页
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English](https://awesomecua.com/categories/benchmark/page/3/index.md)
@@ -45,7 +53,6 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [MobileBench-OL](https://awesomecua.com/zh/resources/github-xiaomi-research-mobilebench-ol/)：MobileBench-OL 提供在线评测测试框架，在真实 Android 设备上测试移动端 GUI 智能体，并动态验证任务。
 - [MobileSafetyBench](https://awesomecua.com/zh/resources/github-jylee425-mobilesafetybench/)：MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获取观察、执行操作并检查任务是否成功，同时评估移动设备控制智能体的安全性与有用性。
 - [MobileWorldBench](https://awesomecua.com/zh/resources/github-jacklishufan-mobileworld/)：MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问答任务和由 GPT 评判的生成任务，并提供基于 AitW 及 AndroidControl 屏幕构建的训练数据。
-- [Navi-Bench](https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/)：Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使用确定性结果验证器，评测网页智能体。
 - [Nightshift](https://awesomecua.com/zh/resources/github-yayaq1-nightshift/)：运行于 Solari 的黑盒计算机使用质量检查测试框架，无需访问应用测试钩子即可评测实时用户界面。
 - [OmniWebBench](https://awesomecua.com/zh/resources/github-fanxutherealone-omniwebbench/)：OmniWebBench 从端到端网页导航、动作执行、故障恢复和证据核验等方面评测智能体浏览器。
 - [Open Operator Evals](https://awesomecua.com/zh/resources/github-nottelabs-open-operator-evals/)：Notte Labs 已归档的评测框架和结果，对 WebVoyager 的 30 项任务子集让网页智能体各运行八次，以 GPT-4o 截图评判器评分，并与智能体自报成功情况比较。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [WebGames](https://awesomecua.com/zh/resources/github-convergence-ai-webgames/)：包含 5 个能力领域的 150 个客户端网页挑战，设计为人类容易完成、浏览器操作智能体难以完成；每关解答后会显示密码。
 - [WebGuard](https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/)：提供代码库、标注工具包和操作级风险数据集，用于训练和评估在执行前标记浏览器智能体不安全操作的防护模型。
 - [WebMall](https://awesomecua.com/zh/resources/github-wbsg-uni-mannheim-webmall/)：WebMall 是多商店电子商务网页智能体评测基准，评测跨网站比价、商品搜索和购物车结账。
+- [WebMCP Description Benchmarks](https://awesomecua.com/zh/resources/github-clouatre-labs-webmcp-description-benchmarks/)：WebMCP Description Benchmarks 评测浏览器内 WebMCP 工具的模式描述如何影响智能体选择工具和执行任务的准确率。

@@ -1,3 +1,11 @@
+---
+title: "PoisonPage | AwesomeCUA"
+url: https://awesomecua.com/resources/github-redbotster-poisonpage/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # PoisonPage
 
 Adversarial testbed demonstrating indirect prompt injection and API-key exfiltration against AI shopping web agents.

@@ -1,3 +1,11 @@
+---
+title: "Knot Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-liz-public-knot-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Knot Agent
 
 Journal-first decentralized agent harness where independent browser and desktop plugins coordinate through an append-only fact log.

@@ -1,3 +1,11 @@
+---
+title: "EvalResearchBench: Can AI Agents Build Their… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04184/
+updated: 2026-10-24
+type: paper
+lang: en
+---
+
 # EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?
 
 Bibliographic record for EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yaolun Zhang, Tianyi Xu, Yujie Zhao, Jishen Zhao, Qingyun Wu, Huazheng Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04184/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04184/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04184,
+  title = {{EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?}},
+  author = {{Yaolun Zhang} and {Tianyi Xu} and {Yujie Zhao} and {Jishen Zhao} and {Qingyun Wu} and {Huazheng Wang}},
+  year = {2026},
+  eprint = {2610.04184v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04184v2},
+  note = {First published: 2026-10-03; Recorded arXiv version: v2; Recorded version updated: 2026-10-16T04:38:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

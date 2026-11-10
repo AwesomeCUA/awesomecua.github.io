@@ -1,3 +1,11 @@
+---
+title: "Agenta | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agenta-ai-agenta/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Agenta
 
 Agenta is a team workspace for building and running agents. Its agents can use a browser and files to work on websites, alongside connected apps and scheduled automations.

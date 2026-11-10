@@ -1,3 +1,11 @@
+---
+title: "RealClawBench: Live OpenClaw Benchmarks from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-03889/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # RealClawBench: Live OpenClaw Benchmarks from Real Developer-Agent Sessions
 
 Bibliographic record for RealClawBench: Live OpenClaw Benchmarks from Real Developer-Agent Sessions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zongwei Lv, Yaoming Li, Zhewen Tan, Yilun Yao, Yuxuan Tian, Lin Sun, Xiangzheng 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-03889/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-03889/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03889,
+  title = {{RealClawBench: Live OpenClaw Benchmarks from Real Developer-Agent Sessions}},
+  author = {{Zongwei Lv} and {Yaoming Li} and {Zhewen Tan} and {Yilun Yao} and {Yuxuan Tian} and {Lin Sun} and {Xiangzheng Zhang} and {Weihong Lin} and {Tong Yang} and {Guangxiang Zhao}},
+  year = {2026},
+  eprint = {2606.03889v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03889v3},
+  note = {First published: 2026-06-02; Recorded arXiv version: v3; Recorded version updated: 2026-08-28T05:22:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

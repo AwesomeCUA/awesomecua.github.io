@@ -1,3 +1,11 @@
+---
+title: "Eido | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tony3liu-eido/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Eido
 
 macOS coding workspace built on Zed and the pi agent, adding experimental browser use via an included agent that picks indexed page elements and acts over CDP, and computer use via a bundled Cua Driver MCP server.

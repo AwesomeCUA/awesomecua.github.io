@@ -1,3 +1,11 @@
+---
+title: "Infogent: An Agent-Based Framework for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-19054/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Infogent: An Agent-Based Framework for Web Information Aggregation
 
 Infogent 将网页信息收集分为导航、提取和汇总，并包含依据网页截图与浏览器交互的访问方式。
@@ -27,6 +35,18 @@ Revanth Gangi Reddy, Sagnik Mukherjee, Jeonghwan Kim, Zhenhailong Wang, Dilek Ha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-19054/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-19054/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_19054,
+  title = {{Infogent: An Agent-Based Framework for Web Information Aggregation}},
+  author = {{Revanth Gangi Reddy} and {Sagnik Mukherjee} and {Jeonghwan Kim} and {Zhenhailong Wang} and {Dilek Hakkani-Tur} and {Heng Ji}},
+  year = {2024},
+  eprint = {2410.19054v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.19054v1},
+  note = {First published: 2024-10-24; Recorded arXiv version: v1; Recorded version updated: 2024-10-24T18:01:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

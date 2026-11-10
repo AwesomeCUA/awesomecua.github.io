@@ -1,3 +1,11 @@
+---
+title: "AgentP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-omerfeyzioglu-agentp-macos/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AgentP
 
 AgentP is a fast macOS computer-use agent where Gemini plans once and a local Jev System-One model executes steps via the Accessibility API.

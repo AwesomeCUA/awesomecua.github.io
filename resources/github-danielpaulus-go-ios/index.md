@@ -1,3 +1,11 @@
+---
+title: "go-ios | AwesomeCUA"
+url: https://awesomecua.com/resources/github-danielpaulus-go-ios/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # go-ios
 
 A Go CLI and module that automates iOS devices from Linux, Windows or macOS: installing and launching apps, running XCTest and WebDriverAgent, taking screenshots and driving the UI.

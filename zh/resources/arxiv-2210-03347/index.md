@@ -1,3 +1,11 @@
+---
+title: "Pix2Struct: Screenshot Parsing as… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2210-03347/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding
 
 Pix2Struct 通过从遮盖的网页截图重建简化 HTML，预训练图像到文本模型，并在包括用户界面理解在内的多个领域评估其可变分辨率视觉表示。
@@ -27,6 +35,18 @@ Kenton Lee, Mandar Joshi, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2210-03347/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2210-03347/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_03347,
+  title = {{Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding}},
+  author = {{Kenton Lee} and {Mandar Joshi} and {Iulia Turc} and {Hexiang Hu} and {Fangyu Liu} and {Julian Eisenschlos} and {Urvashi Khandelwal} and {Peter Shaw} and {Ming-Wei Chang} and {Kristina Toutanova}},
+  year = {2022},
+  eprint = {2210.03347v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.03347v2},
+  note = {First published: 2022-10-07; Recorded arXiv version: v2; Recorded version updated: 2023-06-15T21:34:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

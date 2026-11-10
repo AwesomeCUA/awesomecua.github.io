@@ -1,3 +1,11 @@
+---
+title: "DeskMind Brain · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deskmind-ai-brain/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # DeskMind Brain
 
 DeskMind Brain 提供本地模型，用于选择下一步 macOS 桌面操作，并对目标选择和任务完成情况等结构化决策返回概率。

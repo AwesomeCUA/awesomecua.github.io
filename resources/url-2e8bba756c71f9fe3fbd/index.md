@@ -1,3 +1,11 @@
+---
+title: "TreeCUA-Datasets | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2e8bba756c71f9fe3fbd/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # TreeCUA-Datasets
 
 TreeCUA-Datasets releases GUI exploration trees with setup files, action sequences, goals, and verification results. Users replay the trees in OSWorld to reconstruct screen observations.

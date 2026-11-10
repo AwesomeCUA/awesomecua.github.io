@@ -1,3 +1,11 @@
+---
+title: "Sandboxes — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/sandbox/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Sandboxes
 
 Reviewed topic membership; resources can appear in multiple topics.

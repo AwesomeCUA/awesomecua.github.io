@@ -1,3 +1,11 @@
+---
+title: "VisualAgentBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-visualagentbench/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # VisualAgentBench
 
 Evaluation framework spanning visual GUI, embodied, and design tasks, including mobile and WebArena-based environments.

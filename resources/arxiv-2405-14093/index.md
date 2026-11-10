@@ -1,3 +1,11 @@
+---
+title: "A Survey on Vision-Language-Action Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-14093/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey on Vision-Language-Action Models for Embodied AI
 
 Status: excluded from the active CUA catalog after scope review.

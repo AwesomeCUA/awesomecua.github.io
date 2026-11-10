@@ -1,3 +1,11 @@
+---
+title: "L3GO: Language Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-09052/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects
 
 Bibliographic record for L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yutaro Yamada, Khyathi Chandu, Yuchen Lin, Jack Hessel, Ilker Yildirim, Yejin Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-09052/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-09052/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_09052,
+  title = {{L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects}},
+  author = {{Yutaro Yamada} and {Khyathi Chandu} and {Yuchen Lin} and {Jack Hessel} and {Ilker Yildirim} and {Yejin Choi}},
+  year = {2024},
+  eprint = {2402.09052v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.09052v1},
+  note = {First published: 2024-02-14; Recorded arXiv version: v1; Recorded version updated: 2024-02-14T09:51:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

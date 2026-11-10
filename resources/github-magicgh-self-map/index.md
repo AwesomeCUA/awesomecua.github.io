@@ -1,3 +1,11 @@
+---
+title: "Self-MAP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magicgh-self-map/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Self-MAP
 
 A conversational web-agent implementation with candidate ranking and memory-assisted action planning, including optional memory simplification, refinement and self-reflection modules.

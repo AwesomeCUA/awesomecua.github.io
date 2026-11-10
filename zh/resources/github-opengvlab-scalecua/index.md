@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-opengvlab-scalecua/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA
 
 使用跨平台交互数据训练的计算机使用模型系列。

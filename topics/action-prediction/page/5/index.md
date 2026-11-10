@@ -1,3 +1,11 @@
+---
+title: "Action prediction — computer-use…, page 5 | AwesomeCUA"
+url: https://awesomecua.com/topics/action-prediction/page/5/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Action prediction — computer-use research, page 5
 
 HTML page: https://awesomecua.com/topics/action-prediction/page/5/
@@ -31,7 +39,6 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [ClickAgent](https://awesomecua.com/resources/github-samsung-clickagent/)
 - [CoAT research implementation](https://awesomecua.com/resources/github-imnearth-coat/)
 - [D-PoT evaluation code](https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/)
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/)
 - [fara-7b-agent](https://awesomecua.com/resources/github-cobusgreyling-fara-7b-agent/)
 - [FastCUA](https://awesomecua.com/resources/github-guojiz-fastcua/)
 - [FluidUse](https://awesomecua.com/resources/github-fluidinference-fluiduse/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [PreAct](https://awesomecua.com/resources/github-19pine-ai-preact/)
 - [ScreenSuite](https://awesomecua.com/resources/github-huggingface-screensuite/)
 - [Seq2act code (google-research)](https://awesomecua.com/resources/component-google-research-seq2act/)
+- [Smol2Operator](https://awesomecua.com/resources/github-huggingface-smol2operator/)

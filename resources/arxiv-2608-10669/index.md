@@ -1,3 +1,11 @@
+---
+title: "REDAgentBench: Executable Red Teaming and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-10669/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems
 
 Bibliographic record for REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zixing Chen, Xingyuan Liu, Jie Zhu, Huaixia Dou, Shuo Jiang, Junhui Li, Lifan Gu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-10669/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-10669/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_10669,
+  title = {{REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems}},
+  author = {{Zixing Chen} and {Xingyuan Liu} and {Jie Zhu} and {Huaixia Dou} and {Shuo Jiang} and {Junhui Li} and {Lifan Guo} and {Feng Chen} and {Chi Zhang}},
+  year = {2026},
+  eprint = {2608.10669v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.10669v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T08:48:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

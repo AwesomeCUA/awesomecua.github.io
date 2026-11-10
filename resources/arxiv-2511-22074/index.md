@@ -1,3 +1,11 @@
+---
+title: "Real-Time Procedural Learning From Experience… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-22074/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Real-Time Procedural Learning From Experience for AI Agents
 
 PRAXIS stores action outcomes and retrieves past state-action-result examples to guide agent decisions, with evaluation on the REAL web browsing benchmark.
@@ -26,6 +34,18 @@ Dasheng Bi, Yubin Hu, Mohammed N. Nasir
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-22074/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-22074/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_22074,
+  title = {{Real-Time Procedural Learning From Experience for AI Agents}},
+  author = {{Dasheng Bi} and {Yubin Hu} and {Mohammed N. Nasir}},
+  year = {2025},
+  eprint = {2511.22074v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.22074v2},
+  note = {First published: 2025-11-27; Recorded arXiv version: v2; Recorded version updated: 2025-12-02T22:56:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

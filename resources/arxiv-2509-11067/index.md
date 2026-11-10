@@ -1,3 +1,11 @@
+---
+title: "Agentic Lybic: Multi-Agent Execution System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-11067/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration
 
 Introduces Agentic Lybic, a desktop automation system that routes tasks among GUI, code, and decision-support workers using a finite-state machine and evaluator.
@@ -26,6 +34,18 @@ Liangxuan Guo, Bin Zhu, Qingqian Tao, Kangning Liu, Xun Zhao, Xianzhe Qin, Jin G
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-11067/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-11067/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_11067,
+  title = {{Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration}},
+  author = {{Liangxuan Guo} and {Bin Zhu} and {Qingqian Tao} and {Kangning Liu} and {Xun Zhao} and {Xianzhe Qin} and {Jin Gao} and {Guangfu Hao}},
+  year = {2025},
+  eprint = {2509.11067v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.11067v2},
+  note = {First published: 2025-09-14; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T02:49:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

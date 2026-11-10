@@ -1,3 +1,11 @@
+---
+title: "awb-recipes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # awb-recipes
 
 A collection of dated recipes for browser agents to complete tasks on logged-in sites, recording action steps, selectors, caveats and verification status.

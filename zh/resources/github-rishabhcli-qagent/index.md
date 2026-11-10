@@ -1,3 +1,11 @@
+---
+title: "QAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rishabhcli-qagent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # QAgent
 
 QAgent 是本地优先的网页 QA 与修复智能体，具备 Electron 桌面 UI、CLI、MCP 服务器和隔离的 Git 工作树执行环境。

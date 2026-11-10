@@ -1,3 +1,11 @@
+---
+title: "Creating General User Models from… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-10831/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Creating General User Models from Computer Use
 
 提出通用用户模型，将计算机使用观测转化为带置信度的命题，并随新上下文到来加以修订。演示利用这种记忆帮助助手理解用户情境、管理通知，并支持跨应用主动操作。
@@ -27,6 +35,18 @@ Omar Shaikh, Shardul Sapkota, Shan Rizvi, Eric Horvitz, Joon Sung Park, Diyi Yan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-10831/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-10831/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_10831,
+  title = {{Creating General User Models from Computer Use}},
+  author = {{Omar Shaikh} and {Shardul Sapkota} and {Shan Rizvi} and {Eric Horvitz} and {Joon Sung Park} and {Diyi Yang} and {Michael S. Bernstein}},
+  year = {2025},
+  eprint = {2505.10831v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.10831v3},
+  note = {First published: 2025-05-16; Recorded arXiv version: v3; Recorded version updated: 2025-09-21T00:03:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

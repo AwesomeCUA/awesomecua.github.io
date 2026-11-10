@@ -1,3 +1,11 @@
+---
+title: "Scribe · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sameelarif-scribe/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Scribe
 
 用于浏览器自动化中拟人化光标移动的工具包：包含记录鼠标移动的网页界面、基于这些数据训练模型的脚本，以及沿生成路径移动光标的 Puppeteer 插件。

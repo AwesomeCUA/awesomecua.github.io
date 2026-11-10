@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 7B WA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-93c98e3b5aea945e0877/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 7B WA
 
 面向 WebArena 的 Qwen2-VL-7B 检查点，基于 OS-Genesis 逆向任务合成生成的网页轨迹训练，从指令、历史和页面预测下一步思考与操作。

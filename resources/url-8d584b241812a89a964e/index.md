@@ -1,3 +1,11 @@
+---
+title: "OmniJev-0.8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8d584b241812a89a964e/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # OmniJev-0.8B
 
 OmniJev decision adapter for Qwen3.5-0.8B: LoRA weights and heads that return probabilities for typed questions about screens, video and robot scenes, evaluated on web and phone task families.

@@ -1,3 +1,11 @@
+---
+title: "Mobile User Interface Element Detection… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2305-09699/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Mobile User Interface Element Detection Via Adaptively Prompt Tuning
 
 提出用于移动 UI 元素检测的 MUI-zh 和 APT，将视觉特征与 OCR 描述结合，用于调整 CLIP 检测器的类别提示。
@@ -27,6 +35,18 @@ Zhangxuan Gu, Zhuoer Xu, Haoxing Chen, Jun Lan, Changhua Meng, Weiqiang Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2305-09699/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2305-09699/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_09699,
+  title = {{Mobile User Interface Element Detection Via Adaptively Prompt Tuning}},
+  author = {{Zhangxuan Gu} and {Zhuoer Xu} and {Haoxing Chen} and {Jun Lan} and {Changhua Meng} and {Weiqiang Wang}},
+  year = {2023},
+  eprint = {2305.09699v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.09699v1},
+  note = {First published: 2023-05-16; Recorded arXiv version: v1; Recorded version updated: 2023-05-16T07:16:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

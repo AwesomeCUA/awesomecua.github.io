@@ -1,3 +1,11 @@
+---
+title: "CA-OPD: Confidence-Aware On-Policy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-02401/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction
 
 提出 CA-OPD，以置信度指导视觉预测任务的蒸馏，并在 GUI 元素定位和光学字符识别基准上评测。
@@ -27,6 +35,18 @@ Menghao Li, Linjie Mu, Haotian Hu, Yannian Gu, Lujiayi Xue, Liujian Tang, Yu Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-02401/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-02401/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02401,
+  title = {{CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction}},
+  author = {{Menghao Li} and {Linjie Mu} and {Haotian Hu} and {Yannian Gu} and {Lujiayi Xue} and {Liujian Tang} and {Yu Zhang} and {Fanyi Wang}},
+  year = {2026},
+  eprint = {2609.02401v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02401v3},
+  note = {First published: 2026-09-02; Recorded arXiv version: v3; Recorded version updated: 2026-10-14T03:56:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

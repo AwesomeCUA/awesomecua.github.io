@@ -1,3 +1,11 @@
+---
+title: "Awesome Plasmate · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-awesome-plasmate/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Awesome Plasmate
 
 Awesome Plasmate 是围绕面向 AI 智能体的浏览器引擎整理的文档、集成和工具列表，涵盖智能体框架与自动化资源。

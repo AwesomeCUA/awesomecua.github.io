@@ -1,3 +1,11 @@
+---
+title: "Kimi Computer Use Lab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Kimi Computer Use Lab
 
 Analyzes and reproduces the Kimi Desktop computer-use architecture combining OpenClaw browser/canvas control with macOS helper binaries.

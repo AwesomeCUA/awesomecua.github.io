@@ -1,3 +1,11 @@
+---
+title: "KAGE-Bench: Fast Known-Axis Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-14232/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "ChronoAgentic: A Code-based Multi-Agent World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14398/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction
 
 Bibliographic record for ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hongyu Wang, Jingquan Wang, Ashvin Anilkumar, Bocheng Zou, Radu Serban, Dan Negr
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-14398/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-14398/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14398,
+  title = {{ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction}},
+  author = {{Hongyu Wang} and {Jingquan Wang} and {Ashvin Anilkumar} and {Bocheng Zou} and {Radu Serban} and {Dan Negrut}},
+  year = {2026},
+  eprint = {2605.14398v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14398v3},
+  note = {First published: 2026-05-14; Recorded arXiv version: v3; Recorded version updated: 2026-08-20T17:13:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

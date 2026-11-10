@@ -1,3 +1,11 @@
+---
+title: "Playwright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-playwright/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # Playwright
 
 Browser automation library used as an execution layer by agents.

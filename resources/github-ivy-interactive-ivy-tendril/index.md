@@ -1,3 +1,11 @@
+---
+title: "Ivy Tendril | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Ivy Tendril
 
 Ivy Tendril is a desktop orchestrator for running parallel coding agents across isolated Git worktrees.

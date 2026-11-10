@@ -1,3 +1,11 @@
+---
+title: "op-browse-the-web-skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vb-tyagi-op-browse-the-web-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # op-browse-the-web-skill
 
 Single-file zero-cost autonomous web browsing skill for Claude Code.

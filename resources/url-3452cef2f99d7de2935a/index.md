@@ -1,3 +1,11 @@
+---
+title: "ClawBenchV2Trace | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3452cef2f99d7de2935a/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # ClawBenchV2Trace
 
 Raw execution traces of browser-agent runs on the 130-task ClawBench V2 set, each with a screen recording, network capture, browser action stream, agent reasoning, the intercepted final request and a judge verdict.

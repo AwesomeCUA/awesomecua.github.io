@@ -1,3 +1,11 @@
+---
+title: "POINTS-GUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-points-gui/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # POINTS-GUI
 
 POINTS-GUI-G-8B GUI 定位模型，以不具备原生定位能力的 POINTS-1.5 为基础，通过统一坐标、过滤噪声和加入困难样例的数据流程训练。

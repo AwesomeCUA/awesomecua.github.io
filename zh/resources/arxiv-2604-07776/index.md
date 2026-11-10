@@ -1,3 +1,11 @@
+---
+title: "Structured Distillation of Web Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-07776/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Structured Distillation of Web Agent Capabilities Enables Generalization
 
 提出 Agent-as-Annotators，以模块化 LLM 角色生成并筛选网页智能体轨迹，用于较小网页智能体的监督训练。
@@ -27,6 +35,18 @@ Xing Han Lù, Siva Reddy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-07776/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-07776/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_07776,
+  title = {{Structured Distillation of Web Agent Capabilities Enables Generalization}},
+  author = {{Xing Han Lù} and {Siva Reddy}},
+  year = {2026},
+  eprint = {2604.07776v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.07776v1},
+  note = {First published: 2026-04-09; Recorded arXiv version: v1; Recorded version updated: 2026-04-09T04:04:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

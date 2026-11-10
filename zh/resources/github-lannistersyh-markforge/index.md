@@ -1,3 +1,11 @@
+---
+title: "MarkForge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lannistersyh-markforge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MarkForge
 
 MarkForge 为多模态 GUI 智能体提供确定性、可审计的 Set-of-Mark 标记渲染和坐标解析。

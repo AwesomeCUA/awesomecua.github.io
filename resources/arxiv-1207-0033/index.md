@@ -1,3 +1,11 @@
+---
+title: "Quantum-like model of behavioral response… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1207-0033/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum-like model of behavioral response computation using neural oscillators
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Jet Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-masakaai-jet-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Jet Browser
 
 Jet Browser 将 WPE WebKit 和 Rust WebDriver 桥接器打包为供 AI 网页智能体使用的隔离、低资源占用容器运行环境。

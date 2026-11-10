@@ -1,3 +1,11 @@
+---
+title: "Phi Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # Phi Browser
 
 Native macOS client of a Chromium browser whose agent Spaces let the built-in assistant or external agents drive windows over a consent-gated DevTools Protocol socket while the user watches and can take control.

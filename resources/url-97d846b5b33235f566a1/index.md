@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Task | AwesomeCUA"
+url: https://awesomecua.com/resources/url-97d846b5b33235f566a1/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Screen2AX-Task
 
 A macOS UI grounding dataset that pairs application screenshots and action commands with target bounding boxes and visual descriptions.

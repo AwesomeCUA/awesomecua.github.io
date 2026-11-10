@@ -1,3 +1,11 @@
+---
+title: "SCALE-CUA (THUDM) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-scale-cua/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # SCALE-CUA (THUDM)
 
 计算机使用训练框架，包含 VeriGen 任务合成、自适应推演采样和视觉上下文分割。

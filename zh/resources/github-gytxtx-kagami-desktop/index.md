@@ -1,3 +1,11 @@
+---
+title: "Kagami Desktop (鏡) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gytxtx-kagami-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Kagami Desktop (鏡)
 
 Windows 原生 CLI 和 MCP 工具，用于观察桌面窗口、解析 UI Automation 控件树和进行输入交互。

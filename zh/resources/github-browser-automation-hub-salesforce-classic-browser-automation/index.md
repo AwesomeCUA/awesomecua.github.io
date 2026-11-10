@@ -1,3 +1,11 @@
+---
+title: "Salesforce Classic Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-salesforce-classic-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Salesforce Classic Browser Automation
 
 面向 Salesforce Classic 的浏览器自动化脚手架，提供登录、创建潜在客户、更新商机、导出报表和更新记录等操作。

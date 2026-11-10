@@ -1,3 +1,11 @@
+---
+title: "dsh-nuphus-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mrpulor-gh-dsh-nuphus-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-nuphus-mcp
 
 DeepSeek Harness 插件，可在 DSH 会话中原生挂载 `nuphus-mcp` 桌面控制工具。

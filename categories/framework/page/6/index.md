@@ -1,11 +1,17 @@
+---
+title: "Computer-use agent frameworks, page 6 | AwesomeCUA"
+url: https://awesomecua.com/categories/framework/page/6/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent frameworks, page 6
 
 HTML page: https://awesomecua.com/categories/framework/page/6/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
-- [PageRunner](https://awesomecua.com/resources/github-say-5-pagerunner/)
-- [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/)
 - [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/)
 - [Peerframe OpenBot](https://awesomecua.com/resources/github-peerframe-openbot/)
 - [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/)
@@ -104,3 +110,5 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [TankWork](https://awesomecua.com/resources/github-agenttankos-tankwork/)
 - [taproot](https://awesomecua.com/resources/github-shivampkumar-taproot/)
 - [taskforge](https://awesomecua.com/resources/github-huzjie-taskforge/)
+- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/)
+- [TEX (tex-browse-use)](https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/)

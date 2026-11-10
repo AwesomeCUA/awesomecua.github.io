@@ -1,3 +1,11 @@
+---
+title: "Helix Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-miyahluvgames-source-helix-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Helix Control
 
 面向 Windows 的计算机使用 MCP 工具栈，结合浏览器控制、原生桌面 UI Automation 和动态屏幕定位。

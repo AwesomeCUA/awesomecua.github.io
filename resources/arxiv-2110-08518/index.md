@@ -1,3 +1,11 @@
+---
+title: "MarkupLM: Pre-training of Text and Markup… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2110-08518/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding
 
 Bibliographic record for MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junlong Li, Yiheng Xu, Lei Cui, Furu Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2110-08518/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2110-08518/citation.csl.json
+
+```bibtex
+@misc{arxiv_2110_08518,
+  title = {{MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding}},
+  author = {{Junlong Li} and {Yiheng Xu} and {Lei Cui} and {Furu Wei}},
+  year = {2021},
+  eprint = {2110.08518v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2110.08518v2},
+  note = {First published: 2021-10-16; Recorded arXiv version: v2; Recorded version updated: 2022-03-11T15:38:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

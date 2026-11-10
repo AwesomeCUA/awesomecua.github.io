@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 21 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/21/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 21
 
 HTML page: https://awesomecua.com/topics/automation/page/21/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Paseo Chrome Bridge](https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/)
-- [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/)
-- [Patchright](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/)
-- [Patchright .NET](https://awesomecua.com/resources/github-deventerprisesoftware-patchright-dotnet/)
-- [Patchright NodeJS](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/)
 - [Patchright Python](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/)
 - [PawWork (爪爪 / BrowserKitten)](https://awesomecua.com/resources/github-player-yn-browserkitten/)
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/)
@@ -64,3 +67,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [PrivateAI for Mac](https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/)
 - [ProBrowser MCP Server](https://awesomecua.com/resources/github-momadhuynh04-probrowser/)
 - [Procore Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/)
+- [profile-use](https://awesomecua.com/resources/github-leeguooooo-profile-use/)
+- [ProfileFleet](https://awesomecua.com/resources/github-enginefuture-profilefleet/)
+- [Programming with Pixels (PwP)](https://awesomecua.com/resources/github-programmingwithpixels-pwp/)
+- [Project Tendril](https://awesomecua.com/resources/github-gadgethd-project-tendril/)
+- [Promptwright](https://awesomecua.com/resources/github-sahajamit-promptwright/)

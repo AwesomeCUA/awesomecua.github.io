@@ -1,3 +1,11 @@
+---
+title: "ConClick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhangruotian-conclick/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ConClick
 
 ConClick is a GUI grounding model trained with coordinate supervision and target distractor ranking. Its ReClick inference method revisits candidate screen regions before choosing a click.

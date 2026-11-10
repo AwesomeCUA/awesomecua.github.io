@@ -1,3 +1,11 @@
+---
+title: "RaSeRec: Retrieval-Augmented Sequential… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-18378/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RaSeRec: Retrieval-Augmented Sequential Recommendation
 
 Bibliographic record for RaSeRec: Retrieval-Augmented Sequential Recommendation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinping Zhao, Baotian Hu, Yan Zhong, Shouzheng Huang, Zihao Zheng, Meng Wang, Ha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-18378/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-18378/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_18378,
+  title = {{RaSeRec: Retrieval-Augmented Sequential Recommendation}},
+  author = {{Xinping Zhao} and {Baotian Hu} and {Yan Zhong} and {Shouzheng Huang} and {Zihao Zheng} and {Meng Wang} and {Haofen Wang} and {Min Zhang}},
+  year = {2024},
+  eprint = {2412.18378v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.18378v3},
+  note = {First published: 2024-12-24; Recorded arXiv version: v3; Recorded version updated: 2025-02-13T13:35:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

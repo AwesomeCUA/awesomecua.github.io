@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI-AndroidLab-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f75cab7180d8f5264606/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ZeroGUI-AndroidLab-7B
 
 ZeroGUI-AndroidLab-7B is a GUI-agent checkpoint associated with training that generates interface tasks, estimates rewards from screenshots, and adapts through online reinforcement learning.

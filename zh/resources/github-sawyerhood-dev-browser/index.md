@@ -1,3 +1,11 @@
+---
+title: "dev-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sawyerhood-dev-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dev-browser
 
 dev-browser 提供持久化 Playwright 浏览器沙箱和精简的 ARIA 快照 CLI，用于有状态的多步骤网页自动化。

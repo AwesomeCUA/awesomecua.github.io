@@ -1,3 +1,11 @@
+---
+title: "axcli | AwesomeCUA"
+url: https://awesomecua.com/resources/github-andelf-axcli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # axcli
 
 axcli is a Rust command-line tool for querying, inspecting, and automating macOS application UIs through the native Accessibility API.

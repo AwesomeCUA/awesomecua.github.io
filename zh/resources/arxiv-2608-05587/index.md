@@ -1,3 +1,11 @@
+---
+title: "StepReflect: Structured UI Transition… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-05587/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # StepReflect: Structured UI Transition Reflection for Mobile GUI Agents
 
 StepReflect 根据状态转换规范和成对的视觉证据，预测每个动作的结构化反思；并区分离线状态转换标签准确率与反思模型接入移动端智能体后的在线任务成功率。
@@ -27,6 +35,18 @@ Linqiang Guo, Wei Liu, Li Gu, Yang Wang, Tse-Hsun, Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-05587/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-05587/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05587,
+  title = {{StepReflect: Structured UI Transition Reflection for Mobile GUI Agents}},
+  author = {{Linqiang Guo} and {Wei Liu} and {Li Gu} and {Yang Wang} and {Tse-Hsun} and {Chen}},
+  year = {2026},
+  eprint = {2608.05587v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05587v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T04:17:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

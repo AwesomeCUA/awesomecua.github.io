@@ -1,3 +1,11 @@
+---
+title: "Chat2Workflow: A Benchmark for Generating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-19667/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language
 
 Bibliographic record for Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yi Zhong, Buqiang Xu, Yijun Wang, Zifei Shan, Shuofei Qiao, Guozhou Zheng, Ningy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-19667/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-19667/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_19667,
+  title = {{Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language}},
+  author = {{Yi Zhong} and {Buqiang Xu} and {Yijun Wang} and {Zifei Shan} and {Shuofei Qiao} and {Guozhou Zheng} and {Ningyu Zhang}},
+  year = {2026},
+  eprint = {2604.19667v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.19667v2},
+  note = {First published: 2026-04-21; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T16:14:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

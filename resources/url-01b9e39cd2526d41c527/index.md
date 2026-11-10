@@ -1,3 +1,11 @@
+---
+title: "WorkArena-Instances | AwesomeCUA"
+url: https://awesomecua.com/resources/url-01b9e39cd2526d41c527/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WorkArena-Instances
 
 A restricted-access set of ServiceNow instances for running WorkArena benchmark evaluations. The repository provides instance information and states research-use conditions.

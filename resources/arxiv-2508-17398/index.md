@@ -1,3 +1,11 @@
+---
+title: "DashboardQA: Benchmarking Multimodal Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-17398/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards
 
 Introduces DashboardQA to evaluate how vision-language GUI agents answer questions by interacting with dashboards, grounding elements, and planning actions.
@@ -26,6 +34,18 @@ Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-17398/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-17398/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_17398,
+  title = {{DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards}},
+  author = {{Aaryaman Kartha} and {Ahmed Masry} and {Mohammed Saidul Islam} and {Thinh Lang} and {Shadikur Rahman} and {Ridwan Mahbub} and {Mizanur Rahman} and {Mahir Ahmed} and {Md Rizwan Parvez} and {Enamul Hoque} and {Shafiq Joty}},
+  year = {2025},
+  eprint = {2508.17398v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.17398v1},
+  note = {First published: 2025-08-24; Recorded arXiv version: v1; Recorded version updated: 2025-08-24T15:11:44Z.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "CodeceptJS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-codeceptjs-codeceptjs/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # CodeceptJS
 
 CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.

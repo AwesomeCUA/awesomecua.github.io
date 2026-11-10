@@ -1,3 +1,11 @@
+---
+title: "LLM Agents: A Survey · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f58895265a31c37d12b4/
+updated: 2026-11-09
+type: survey
+lang: zh-CN
+---
+
 # LLM Agents: A Survey
 
 这篇综述按规划、记忆、工具使用、协作、评估和安全组织大语言模型智能体研究，涵盖计算机使用智能体及两百多项相关工作。
@@ -27,6 +35,19 @@ Jungseob Lee
 
 - BibTeX：https://awesomecua.com/resources/url-f58895265a31c37d12b4/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-f58895265a31c37d12b4/citation.csl.json
+
+```bibtex
+@misc{cua_cf5c91b69dcb248cb39e0daf,
+  title = {{LLM Agents: A Survey}},
+  author = {{Jungseob Lee}},
+  year = {2026},
+  month = aug,
+  publisher = {MDPI AG},
+  doi = {10.20944/preprints202608.0265.v1},
+  url = {https://www.preprints.org/manuscript/202608.0265/v1},
+  note = {Publication date: 2026-08-05.}
+}
+```
 
 ## 发表记录
 

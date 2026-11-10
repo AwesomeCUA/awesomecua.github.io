@@ -1,3 +1,11 @@
+---
+title: "dsh-desktop-automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-junkrat9527-dsh-desktop-automation/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-desktop-automation
 
 面向 DeepSeek Harness 的 macOS 桌面自动化插件，采用截图、定位、点击、验证的闭环流程。

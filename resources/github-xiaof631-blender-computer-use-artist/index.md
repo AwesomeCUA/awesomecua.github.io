@@ -1,3 +1,11 @@
+---
+title: "Blender Computer Use Artist | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Blender Computer Use Artist
 
 Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.

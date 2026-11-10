@@ -1,3 +1,11 @@
+---
+title: "AgentOccam | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amazon-science-agentoccam/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AgentOccam
 
 AgentOccam is a web agent that uses webpage descriptions and action strings to carry out tasks from a URL and instruction. Its repository includes task configurations and evaluation scripts.

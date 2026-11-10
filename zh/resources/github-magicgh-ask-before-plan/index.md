@@ -1,3 +1,11 @@
+---
+title: "Ask-before-Plan · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magicgh-ask-before-plan/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ask-before-Plan
 
 Ask-before-Plan 训练主动澄清用户指令的语言智能体，使其在执行多步骤工具计划前澄清不够明确的指令。

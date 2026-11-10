@@ -1,3 +1,11 @@
+---
+title: "FluidGPT · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0c69fd920263b8a72a72/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # FluidGPT
 
 通过 AndroidWorld 任务录像展示的安卓操作智能体产品。Fluiz 报告其通过屏幕交互完成了 20 款应用中的 116 项任务。

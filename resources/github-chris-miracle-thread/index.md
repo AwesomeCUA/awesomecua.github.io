@@ -1,3 +1,11 @@
+---
+title: "Rove (Thread WebMCP Workspace) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chris-miracle-thread/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Rove (Thread WebMCP Workspace)
 
 Shared WebMCP research workspace where human users and browser agents co-curate and compare web items.

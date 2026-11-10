@@ -1,3 +1,11 @@
+---
+title: "Lexbench-Headless-Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Lexbench-Headless-Browser
 
 Lexbench-Headless-Browser benchmarks 13 headless browser automation runtimes across 1,928 web tasks.

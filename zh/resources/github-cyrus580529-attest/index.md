@@ -1,3 +1,11 @@
+---
+title: "Attest · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cyrus580529-attest/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Attest
 
 自验证的网页智能体核心，由模型提出候选动作，测试框架验证真实的 DOM 状态转换。

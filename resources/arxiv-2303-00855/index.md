@@ -1,3 +1,11 @@
+---
+title: "Grounded Decoding: Guiding Text Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-00855/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents
 
 Bibliographic record for Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenlong Huang, Fei Xia, Dhruv Shah, Danny Driess, Andy Zeng, Yao Lu, Pete Floren
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-00855/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-00855/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_00855,
+  title = {{Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents}},
+  author = {{Wenlong Huang} and {Fei Xia} and {Dhruv Shah} and {Danny Driess} and {Andy Zeng} and {Yao Lu} and {Pete Florence} and {Igor Mordatch} and {Sergey Levine} and {Karol Hausman} and {Brian Ichter}},
+  year = {2023},
+  eprint = {2303.00855v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.00855v2},
+  note = {First published: 2023-03-01; Recorded arXiv version: v2; Recorded version updated: 2023-12-11T20:58:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

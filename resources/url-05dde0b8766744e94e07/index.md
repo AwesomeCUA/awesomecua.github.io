@@ -1,3 +1,11 @@
+---
+title: "Coasty | AwesomeCUA"
+url: https://awesomecua.com/resources/url-05dde0b8766744e94e07/
+updated: 2026-11-09
+type: company
+lang: en
+---
+
 # Coasty
 
 Coasty develops computer-use environments for agent training and evaluation, using computer and phone interfaces alongside trajectories and outcome checks.

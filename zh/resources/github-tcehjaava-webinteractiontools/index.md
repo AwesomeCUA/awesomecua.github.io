@@ -1,3 +1,11 @@
+---
+title: "WebInteractionTools MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tcehjaava-webinteractiontools/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # WebInteractionTools MCP
 
 基于 Playwright 的 Model Context Protocol 服务器，为 AI 智能体提供网页导航、视口截图、点击和表单填写能力。

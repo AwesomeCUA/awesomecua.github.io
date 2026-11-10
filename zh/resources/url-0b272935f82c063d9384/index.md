@@ -1,3 +1,11 @@
+---
+title: "CLM-v0.1-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0b272935f82c063d9384/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # CLM-v0.1-8B
 
 CLM-8B 的权重：一个在冻结的 Qwen3-8B 编码器上加入状态头和动作头的对比学习模型，用于对候选动作排序；作者报告了其在计算机使用、游戏和工具调用任务上的结果。

@@ -1,3 +1,11 @@
+---
+title: "BadAgents · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lancopku-agent-backdoor-attacks/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # BadAgents
 
 BadAgents 提供污染后的训练数据集和评测脚本，用于针对智能体的查询、观测和思维触发型后门攻击。

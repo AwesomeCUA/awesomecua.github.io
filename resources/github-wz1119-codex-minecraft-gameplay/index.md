@@ -1,3 +1,11 @@
+---
+title: "Codex Minecraft Gameplay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wz1119-codex-minecraft-gameplay/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Codex Minecraft Gameplay
 
 Codex Minecraft Gameplay supplies Windows input controls and screenshots so computer-use agents can act through Minecraft's visible interface.

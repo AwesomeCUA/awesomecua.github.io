@@ -1,3 +1,11 @@
+---
+title: "Midscene Java (github.com/Master-Frank/mi… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-master-frank-midscene-java/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Midscene Java
 
 Midscene Java 是面向网页和 Android 应用的自然语言界面自动化框架，提供元素定位、操作、数据提取与断言模块。

@@ -1,3 +1,11 @@
+---
+title: "VisualRepair: Dynamic Tool Calling and Region… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-14075/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair
 
 Bibliographic record for VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jingyu Xiao, Zhongyi Zhang, Haoran Hou, Yuxuan Wan, Yuan Jiang, Yintong Huo, Mic
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-14075/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-14075/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_14075,
+  title = {{VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair}},
+  author = {{Jingyu Xiao} and {Zhongyi Zhang} and {Haoran Hou} and {Yuxuan Wan} and {Yuan Jiang} and {Yintong Huo} and {Michael R. Lyu}},
+  year = {2026},
+  eprint = {2607.14075v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.14075v1},
+  note = {First published: 2026-07-15; Recorded arXiv version: v1; Recorded version updated: 2026-07-15T17:48:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

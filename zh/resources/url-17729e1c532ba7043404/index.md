@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot-v2 instruction variants · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-17729e1c532ba7043404/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # ScreenSpot-v2 instruction variants
 
 基于 ScreenSpot-v2 截图的指令变体，区分原始命令、明确的操作、目标描述和无法执行的操作。

@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-browser-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fatmind-dsh-plugin-browser-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-plugin-browser-use
 
 Browser-Use automation plugin for DeepSeek Harness enabling natural-language web tasks.

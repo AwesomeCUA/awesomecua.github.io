@@ -1,3 +1,11 @@
+---
+title: "Recoverability Has a Law: The ERR Measure for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22352/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Recoverability Has a Law: The ERR Measure for Tool-Augmented Agents
 
 Status: excluded from the active CUA catalog after scope review.

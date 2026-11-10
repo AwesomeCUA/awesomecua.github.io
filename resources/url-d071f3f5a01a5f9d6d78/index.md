@@ -1,3 +1,11 @@
+---
+title: "AskUI (askui.com/blog-posts/askui-vision-agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d071f3f5a01a5f9d6d78/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # AskUI
 
 AskUI runs plain-language Android app tests through visual screen interaction on devices and emulators, with screenshot traces and CI integrations.

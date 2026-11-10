@@ -1,3 +1,11 @@
+---
+title: "KV-Ground · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vocaela-kv-ground/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # KV-Ground
 
 KV-Ground 发布用于在高分辨率 GUI 图像中定位目标的轻量模型，并提供训练与评测代码。

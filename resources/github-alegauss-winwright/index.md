@@ -1,3 +1,11 @@
+---
+title: "WinWright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alegauss-winwright/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WinWright
 
 Playwright-inspired Windows desktop automation and testing framework that drives native apps and reports verified UI state.

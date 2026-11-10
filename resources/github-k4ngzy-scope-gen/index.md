@@ -1,3 +1,11 @@
+---
+title: "SCOPE-Gen | AwesomeCUA"
+url: https://awesomecua.com/resources/github-k4ngzy-scope-gen/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # SCOPE-Gen
 
 A framework that generates and validates desktop GUI tasks for OSWorld, then creates paired safety tasks while retaining the original goal and completion evaluator.

@@ -1,3 +1,11 @@
+---
+title: "Index · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lmnr-ai-index/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Index
 
 已归档的 Laminar Python 浏览器智能体，使用具视觉能力的 LLM 操作 Playwright Chromium，返回 Pydantic 结构化结果，并提供可选 Laminar 追踪的交互式 CLI。

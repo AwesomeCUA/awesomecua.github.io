@@ -1,3 +1,11 @@
+---
+title: "AutoManual: Constructing Instruction Manuals… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-16247/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning
 
 Bibliographic record for AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Minghao Chen, Yihang Li, Yanting Yang, Shiyu Yu, Binbin Lin, Xiaofei He
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-16247/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-16247/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_16247,
+  title = {{AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning}},
+  author = {{Minghao Chen} and {Yihang Li} and {Yanting Yang} and {Shiyu Yu} and {Binbin Lin} and {Xiaofei He}},
+  year = {2024},
+  eprint = {2405.16247v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.16247v4},
+  note = {First published: 2024-05-25; Recorded arXiv version: v4; Recorded version updated: 2024-11-10T12:54:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

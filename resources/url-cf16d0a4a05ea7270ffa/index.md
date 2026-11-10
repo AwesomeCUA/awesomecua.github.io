@@ -1,3 +1,11 @@
+---
+title: "CODA-PLANNER-TARS-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # CODA-PLANNER-TARS-32B
 
 CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.

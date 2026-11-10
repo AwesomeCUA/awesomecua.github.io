@@ -1,3 +1,11 @@
+---
+title: "CocoaBench: Evaluating Unified Digital Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-11201/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CocoaBench: Evaluating Unified Digital Agents in the Wild
 
 Introduces CocoaBench, a benchmark for unified digital agents on long-horizon tasks combining vision, search, and coding, including capabilities related to GUI automation.
@@ -26,6 +34,18 @@ CocoaBench Team, Shibo Hao, Zhining Zhang, Zhiqi Liang, Tianyang Liu, Yuheng Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-11201/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-11201/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_11201,
+  title = {{CocoaBench: Evaluating Unified Digital Agents in the Wild}},
+  author = {{CocoaBench Team} and {Shibo Hao} and {Zhining Zhang} and {Zhiqi Liang} and {Tianyang Liu} and {Yuheng Zha} and {Qiyue Gao} and {Jixuan Chen} and {Zilong Wang} and {Zhoujun Cheng} and {Haoxiang Zhang} and {Junli Wang} and {Hexi Jin} and {Boyuan Zheng} and {Kun Zhou} and {Yu Wang} and {Feng Yao} and {Licheng Liu} and {Yijiang Li} and {Zhifei Li} and {Zhengtao Han} and {Pracha Promthaw} and {Tommaso Cerruti} and {Xiaohan Fu} and {Ziqiao Ma} and {Jingbo Shang} and {Lianhui Qin} and {Julian McAuley} and {Eric P. Xing} and {Zhengzhong Liu} and {Rupesh Kumar Srivastava} and {Zhiting Hu}},
+  year = {2026},
+  eprint = {2604.11201v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.11201v2},
+  note = {First published: 2026-04-13; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T08:14:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

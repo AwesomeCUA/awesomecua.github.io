@@ -1,3 +1,11 @@
+---
+title: "AutoManual · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-minghchen-automanual/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AutoManual
 
 AutoManual 让 LLM 智能体通过在线环境交互构建并迭代完善结构化操作手册。

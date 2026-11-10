@@ -1,3 +1,11 @@
+---
+title: "OpenAgentFleet · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-robbyczgw-cla-openagentfleet/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenAgentFleet
 
 本地优先的多智能体桌面平台，配有具名 AI 同事和可观察的 Linux 虚拟桌面。

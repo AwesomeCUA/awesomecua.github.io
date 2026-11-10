@@ -1,8 +1,16 @@
+---
+title: "Computer-use agent tools | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools
 
 Tools are utilities that an agent or developer calls to control, observe or inspect an interface: MCP servers, browser and device controllers, screen parsers and recorders.
 
-> 1,163 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
+> 1,162 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -15,7 +23,7 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 | [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE) | 33 |
 | [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) | Cross-platform | — | 25 |
 | [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/vercel-labs/agent-browser/HEAD/LICENSE) | 19 |
-| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 18 |
+| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 17 |
 | [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) | Web | [MIT (code)](https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE) | 13 |
 | [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/) | Web | [MIT (code)](https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE) | 13 |
 
@@ -27,15 +35,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these tools cover?
 
-Of 1,163 reviewed tools, 682 are tagged web, 577 desktop, 176 cross-platform and 106 mobile; 21 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 1,162 reviewed tools, 681 are tagged web, 577 desktop, 176 cross-platform and 106 mobile; 21 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which tools come with a research paper?
 
-18 of 1,163 link the arXiv paper that introduces or documents them, for example [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/), [activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) and [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/).
+18 of 1,162 link the arXiv paper that introduces or documents them, for example [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/), [activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) and [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/).
 
 ### Which licenses do tools declare?
 
-The most common declared licenses are MIT (771), Apache-2.0 (137) and AGPL-3.0 (26). 194 of 1,163 have no declared license in their record.
+The most common declared licenses are MIT (770), Apache-2.0 (137) and AGPL-3.0 (26). 194 of 1,162 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -22214,36 +22222,6 @@ Firefox browser-control plugin and extension for DeepSeek Harness enabling agent
 
 - https://raw.githubusercontent.com/tuojc/dsh-browser-firefox/main/README.md (retrieved 2026-11-04T17:30:33Z; SHA-256 2dc73d32215fa1deeb6493786321bf545e1de76d6091bbf95a16e9cd5c348220)
 - https://raw.githubusercontent.com/tuojc/dsh-browser-firefox/HEAD/LICENSE (retrieved 2026-11-04T17:40:48Z; SHA-256 fddc93f41a22362f2d37cba695f1e6c8ef9ddb44a1389a9dea83089692de5050)
-
----
-
-## dsh-browser-full-access
-
-Background-tab full-access fork of `dsh-browser` for DeepSeek Harness web automation.
-
-- Catalog URL: https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/
-- Original source: https://github.com/LianPing-cyber/dsh-browser-full-access
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, tool-integration, automation
-- Evidence checked: 2026-11-04T17:55:10Z
-- ID: github:lianping-cyber/dsh-browser-full-access
-
-- Record JSON: https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/LianPing-cyber/dsh-browser-full-access/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/LianPing-cyber/dsh-browser-full-access/main/README.md (retrieved 2026-11-04T17:55:10Z; SHA-256 b219352383bf466d485896d0946b502c0e4bc60f5cc12b459a0e8f0c0dab9996)
-- https://raw.githubusercontent.com/LianPing-cyber/dsh-browser-full-access/HEAD/LICENSE (retrieved 2026-11-04T18:00:59Z; SHA-256 32322484ba682f6c61bbcd67323031d706fecbf9b84c8980b30205ecc3f84381)
 
 ---
 

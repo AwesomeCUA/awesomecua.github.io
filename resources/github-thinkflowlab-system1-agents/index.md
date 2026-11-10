@@ -1,3 +1,11 @@
+---
+title: "System1-Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thinkflowlab-system1-agents/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # System1-Agents
 
 Framework that puts System 1 decision models such as Jev, Laya or Cua-S1 in openJiuwen agents to pick one typed option per step; ships browser, desktop-app, game, ALFWorld and ticket-routing agents.

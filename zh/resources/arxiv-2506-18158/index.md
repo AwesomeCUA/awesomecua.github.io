@@ -1,3 +1,11 @@
+---
+title: "Chain-of-Memory: Enhancing GUI Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-18158/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation
 
 Chain-of-Memory 在短期和长期记忆中明确记录操作描述与任务相关的界面信息，用于 GUI 导航；GUI Odyssey-CoM 提供 111,000 组带记忆标注的界面与操作配对数据，用于学习和评估跨应用的信息保留能力。
@@ -27,6 +35,18 @@ Xinzge Gao, Chuanrui Hu, Bin Chen, Teng Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-18158/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-18158/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_18158,
+  title = {{Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation}},
+  author = {{Xinzge Gao} and {Chuanrui Hu} and {Bin Chen} and {Teng Li}},
+  year = {2025},
+  eprint = {2506.18158v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.18158v1},
+  note = {First published: 2025-06-22; Recorded arXiv version: v1; Recorded version updated: 2025-06-22T20:17:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

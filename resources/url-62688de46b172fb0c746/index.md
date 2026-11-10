@@ -1,3 +1,11 @@
+---
+title: "SEAgent-1.0-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-62688de46b172fb0c746/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # SEAgent-1.0-7B
 
 Computer-use agent checkpoint from SEAgent, built on UI-TARS-7B-DPO and trained by experiential learning on self-generated OSWorld software tasks; the paper reports 34.5% success on five novel applications.

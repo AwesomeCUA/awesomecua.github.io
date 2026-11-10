@@ -1,3 +1,11 @@
+---
+title: "GUI-R1 checkpoint bundle · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-61a5321db10fc8a312b9/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # GUI-R1 checkpoint bundle
 
 单个 Hub 发布包包含 GUI-R1 3B 和 7B 动作模型检查点，均通过跨界面平台的强化学习训练。

@@ -1,3 +1,11 @@
+---
+title: "DeVI: Physics-based Dexterous Human-Object… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-20841/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation
 
 Status: excluded from the active CUA catalog after scope review.

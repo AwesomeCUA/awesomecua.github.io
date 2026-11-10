@@ -1,3 +1,11 @@
+---
+title: "QUESTZ · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pnx89-questz/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # QUESTZ
 
 采用故障即停止机制的浏览器自动化可靠性框架，在 DOM 结构偏移导致下游数据受损前停止执行。

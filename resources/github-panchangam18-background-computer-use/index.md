@@ -1,3 +1,11 @@
+---
+title: "background-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-panchangam18-background-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # background-computer-use
 
 MCP server and skill library for driving macOS applications in the background without stealing window focus or cursor control.

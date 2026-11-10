@@ -1,3 +1,11 @@
+---
+title: "PageKit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ken-u-pagekit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # PageKit
 
 Turns spare Android phones into free web search, page fetch, and real-browser automation nodes for AI agents.

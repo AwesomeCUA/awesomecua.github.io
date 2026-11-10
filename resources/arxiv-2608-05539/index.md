@@ -1,3 +1,11 @@
+---
+title: "OmniMech: All-in-one Multimodal Mechanical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-05539/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction
 
 Bibliographic record for OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Taiting Lu, Runze Liu, Ziwei Dong, Sisong Bei, Jingying Zeng, Mingjia Wang, Zhen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-05539/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-05539/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05539,
+  title = {{OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction}},
+  author = {{Taiting Lu} and {Runze Liu} and {Ziwei Dong} and {Sisong Bei} and {Jingying Zeng} and {Mingjia Wang} and {Zhenghao Li} and {Kaiyuan Lin} and {Yi-Shan Wu} and {Yangshoudu Zheng} and {Hongxing Pan} and {Kai Zhang} and {Guoliang Shi} and {Ling Ma} and {Yifan Yang} and {Jiaying Lu} and {Qi He} and {Sung-Liang Chen} and {Yi-Chao Chen} and {Yincheng Jin} and {Mahanth Gowda}},
+  year = {2026},
+  eprint = {2608.05539v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05539v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T02:36:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

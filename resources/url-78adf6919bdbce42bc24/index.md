@@ -1,3 +1,11 @@
+---
+title: "VideoCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-78adf6919bdbce42bc24/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # VideoCUA
 
 Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordings with millisecond-timestamped mouse and keyboard action logs for about 10K tasks in 87 applications.

@@ -1,3 +1,11 @@
+---
+title: "Seg2Click (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8525e17eee1f3e754ad4/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Seg2Click
 
 A hosted GUI grounding demo that takes a screenshot and instruction, then predicts an action mask and click point using a public Seg2Click checkpoint.

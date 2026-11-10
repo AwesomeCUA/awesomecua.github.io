@@ -1,3 +1,11 @@
+---
+title: "MobileWorld: Benchmarking Autonomous Mobile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-19432/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments
 
 Introduces long mobile workflows that combine agent-user interaction, cross-application tasks, and MCP-based tool access.
@@ -26,6 +34,18 @@ Quyu Kong, Xu Zhang, Zhenyu Yang, Nolan Gao, Chen Liu, Panrong Tong, Chenglin Ca
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-19432/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-19432/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_19432,
+  title = {{MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments}},
+  author = {{Quyu Kong} and {Xu Zhang} and {Zhenyu Yang} and {Nolan Gao} and {Chen Liu} and {Panrong Tong} and {Chenglin Cai} and {Hanzhang Zhou} and {Jianan Zhang} and {Liangyu Chen} and {Zhidan Liu} and {Steven Hoi} and {Yue Wang}},
+  year = {2025},
+  eprint = {2512.19432v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.19432v3},
+  note = {First published: 2025-12-22; Recorded arXiv version: v3; Recorded version updated: 2025-12-30T07:15:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

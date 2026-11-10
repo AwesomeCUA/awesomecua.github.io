@@ -1,3 +1,11 @@
+---
+title: "asil-qwen35-9b-rl · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c5cedb2f95336a8e48aa/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # asil-qwen35-9b-rl
 
 ASIL 的 Qwen3.5-9B 强化学习检查点，基于 JSON 状态观测、以代码形式的语义动作操作桌面应用，在 SFT 之后使用 320 个任务提示训练。

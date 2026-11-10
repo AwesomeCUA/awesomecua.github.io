@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 extended Android AVDs | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f039da43799772645c92/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # OpenMobile-2 extended Android AVDs
 
 Seven preconfigured Pixel 6 emulator images for Android API 33 (arm64) with an Apple Silicon install script, listed in the OpenMobile-2 release as its extended Android AVDs.

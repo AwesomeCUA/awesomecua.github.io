@@ -1,3 +1,11 @@
+---
+title: "EcoGym: Evaluating LLMs for Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-09514/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies
 
 Status: excluded from the active CUA catalog after scope review.

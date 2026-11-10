@@ -1,3 +1,11 @@
+---
+title: "RCI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-posgnu-rci-agent/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # RCI Agent
 
 A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.

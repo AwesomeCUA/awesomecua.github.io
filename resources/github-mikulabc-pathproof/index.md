@@ -1,3 +1,11 @@
+---
+title: "Pathproof | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mikulabc-pathproof/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Pathproof
 
 Local-first AI-assisted website regression discovery suite with deterministic Playwright replay.

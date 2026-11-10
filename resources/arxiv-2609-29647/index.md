@@ -1,3 +1,11 @@
+---
+title: "AgentKernel: The Trust-Native Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-29647/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentKernel: The Trust-Native Agentic Operating System
 
 Status: excluded from the active CUA catalog after scope review.

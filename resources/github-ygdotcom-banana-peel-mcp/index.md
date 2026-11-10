@@ -1,3 +1,11 @@
+---
+title: "Banana Peel MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ygdotcom-banana-peel-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Banana Peel MCP
 
 Model Context Protocol router and skill registry for browser automation agents.

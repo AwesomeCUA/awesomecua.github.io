@@ -1,3 +1,11 @@
+---
+title: "android_mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-void032-android-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # android_mcp
 
 Model Context Protocol 服务器，使编码智能体能够在 Android 设备上执行截图、点击、滑动和 UI 检查操作。

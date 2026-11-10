@@ -1,3 +1,11 @@
+---
+title: "Third Eye | AwesomeCUA"
+url: https://awesomecua.com/resources/github-slastrina-third-eye/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Third Eye
 
 Local macOS computer-use agent with screen perception and verified action execution.

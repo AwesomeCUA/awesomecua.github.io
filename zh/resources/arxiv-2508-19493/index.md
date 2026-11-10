@@ -1,3 +1,11 @@
+---
+title: "Mind the Third Eye! Benchmarking Privacy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-19493/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents
 
 提出包含 7,138 个智能手机场景的 SAPA-Bench，评估由 MLLM 驱动的移动智能体能否发现并保护屏幕上的敏感个人信息。
@@ -27,6 +35,18 @@ Zhixin Lin, Jungang Li, Shidong Pan, Yibo Shi, Yue Yao, Dongliang Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-19493/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-19493/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_19493,
+  title = {{Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents}},
+  author = {{Zhixin Lin} and {Jungang Li} and {Shidong Pan} and {Yibo Shi} and {Yue Yao} and {Dongliang Xu}},
+  year = {2025},
+  eprint = {2508.19493v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.19493v2},
+  note = {First published: 2025-08-27; Recorded arXiv version: v2; Recorded version updated: 2025-09-03T07:48:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

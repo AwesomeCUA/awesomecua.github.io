@@ -1,3 +1,11 @@
+---
+title: "Mobster engine · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-radishsoftware-mobster/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Mobster engine
 
 围绕观察、决策、验证和执行循环构建的 iOS 智能体引擎，使用 WebDriverAgent 获取屏幕状态，并执行点击、输入、滑动和切换应用等手机操作。

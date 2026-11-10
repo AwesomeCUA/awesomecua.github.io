@@ -1,3 +1,11 @@
+---
+title: "Industry — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/industry/
+updated: 2026-11-09
+type: topic
+lang: en
+---
+
 # Industry
 
 Reviewed topic membership; resources can appear in multiple topics.

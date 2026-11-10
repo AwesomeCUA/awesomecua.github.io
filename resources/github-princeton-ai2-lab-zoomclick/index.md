@@ -1,3 +1,11 @@
+---
+title: "ZoomClick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-princeton-ai2-lab-zoomclick/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ZoomClick
 
 ZoomClick implements iterative zoom-in GUI grounding and behavior-based grounding evaluation across high-resolution interfaces.

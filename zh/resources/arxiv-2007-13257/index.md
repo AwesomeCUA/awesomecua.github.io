@@ -1,3 +1,11 @@
+---
+title: "From Robotic Process Automation to… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2007-13257/
+updated: 2026-11-09
+type: survey
+lang: zh-CN
+---
+
 # From Robotic Process Automation to Intelligent Process Automation: Emerging Trends
 
 一篇机器人流程自动化与智能流程自动化综述梳理机器学习和 AI 在业务流程中的应用，并指出开放的研究挑战。
@@ -27,6 +35,18 @@ Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod M
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2007-13257/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2007-13257/citation.csl.json
+
+```bibtex
+@misc{arxiv_2007_13257,
+  title = {{From Robotic Process Automation to Intelligent Process Automation: Emerging Trends}},
+  author = {{Tathagata Chakraborti} and {Vatche Isahagian} and {Rania Khalaf} and {Yasaman Khazaeni} and {Vinod Muthusamy} and {Yara Rizk} and {Merve Unuvar}},
+  year = {2020},
+  eprint = {2007.13257v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2007.13257v1},
+  note = {First published: 2020-07-27; Recorded arXiv version: v1; Recorded version updated: 2020-07-27T00:43:08Z.}
+}
+```
 
 ## 发表记录
 

@@ -1,3 +1,11 @@
+---
+title: "STEVE / STEVE-R1 research code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fanbinlu-steve-r1/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # STEVE / STEVE-R1 research code
 
 用于逐步验证的计算机使用训练的研究代码和关联模型；当前仓库介绍 STEVE-R1 及其发布的轨迹。

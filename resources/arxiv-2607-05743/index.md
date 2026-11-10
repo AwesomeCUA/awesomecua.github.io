@@ -1,3 +1,11 @@
+---
+title: "The Balkanization of Execution-Security… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-05743/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities
 
 Bibliographic record for The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Mohammadreza Rashidi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-05743/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-05743/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_05743,
+  title = {{The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities}},
+  author = {{Mohammadreza Rashidi}},
+  year = {2026},
+  eprint = {2607.05743v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.05743v1},
+  note = {First published: 2026-07-07; Recorded arXiv version: v1; Recorded version updated: 2026-07-07T01:56:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

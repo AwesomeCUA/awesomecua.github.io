@@ -1,3 +1,11 @@
+---
+title: "Taxy AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-taxyai-browser-extension/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Taxy AI
 
 Taxy AI is a Chrome extension that turns user instructions and a simplified page DOM into clicks and text entry, then checks the updated page before continuing.

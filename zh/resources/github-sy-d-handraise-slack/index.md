@@ -1,3 +1,11 @@
+---
+title: "handraise-slack · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sy-d-handraise-slack/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # handraise-slack
 
 用于浏览器智能体交接的 Slack 通道适配器，发送附有页面截图的审批请求，并将人的决定返回给 handraise。

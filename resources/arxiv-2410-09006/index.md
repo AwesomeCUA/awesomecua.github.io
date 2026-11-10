@@ -1,3 +1,11 @@
+---
+title: "From Interaction to Impact: Towards Safer AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-09006/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating Mobile UI Operation Impacts
 
 Develops a taxonomy of mobile-action consequences and annotated interaction data to evaluate whether models recognize impactful or risky UI operations.
@@ -26,6 +34,18 @@ Zhuohao Jerry Zhang, Eldon Schoop, Jeffrey Nichols, Anuj Mahajan, Amanda Swearng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-09006/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-09006/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_09006,
+  title = {{From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating Mobile UI Operation Impacts}},
+  author = {{Zhuohao Jerry Zhang} and {Eldon Schoop} and {Jeffrey Nichols} and {Anuj Mahajan} and {Amanda Swearngin}},
+  year = {2024},
+  eprint = {2410.09006v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.09006v2},
+  note = {First published: 2024-10-11; Recorded arXiv version: v2; Recorded version updated: 2025-03-22T18:01:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

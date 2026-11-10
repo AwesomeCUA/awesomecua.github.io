@@ -1,3 +1,11 @@
+---
+title: "Magma-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d3247ff0ff9a1f6bc247/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Magma-8B
 
 Magma-8B is a released multimodal agent checkpoint whose card shows UI navigation tasks alongside robot manipulation and describes training with video data.

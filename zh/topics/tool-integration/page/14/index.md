@@ -1,11 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 14 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/14/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 14 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/14/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [guo6x dsh-pilot](https://awesomecua.com/zh/resources/github-guo6x-dsh-pilot/)
-- [haden-browser](https://awesomecua.com/zh/resources/github-haden-min-haden-browser/)
 - [hai-agents](https://awesomecua.com/zh/resources/github-hcompai-hai-agents-python/)
 - [hai-agents](https://awesomecua.com/zh/resources/github-hcompai-hai-agents-ts/)
 - [Halo Bot](https://awesomecua.com/zh/resources/github-galactic717-halo-bot/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/14/
 - [kde-mcp](https://awesomecua.com/zh/resources/github-atassis-kde-mcp/)
 - [Kernel Claude Computer Use Loop](https://awesomecua.com/zh/resources/github-kernel-claude-cu-loop-sample/)
 - [Kernel MCP Server](https://awesomecua.com/zh/resources/github-kernel-kernel-mcp-server/)
+- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
+- [Kimi Computer Use Bridge](https://awesomecua.com/zh/resources/github-songkeys-kimi-computer-use/)

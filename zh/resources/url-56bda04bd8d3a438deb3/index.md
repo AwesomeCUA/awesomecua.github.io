@@ -1,3 +1,11 @@
+---
+title: "ScreenRef · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-56bda04bd8d3a438deb3/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # ScreenRef
 
 GUI 截图及配套的定位指令和目标，包含目标缺失的样例；图像访问按发布方条款受限。

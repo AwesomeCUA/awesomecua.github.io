@@ -1,3 +1,11 @@
+---
+title: "Computer-Use 论文库：按年份浏览论文与综述（第 29 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/papers/page/29/
+updated: 2026-11-09
+type: research-library
+lang: zh-CN
+---
+
 # 计算机使用论文库：第 29 页，共 29 页
 
 > 已审核论文与综述第 1,681 至 1,718 条，共 1,718 条；按发表时间从新到旧排列，附作者、arXiv 版本、引用文件和一手证据。
@@ -34,6 +42,18 @@ Yang Li, Gang Li, Xin Zhou, Mostafa Dehghani, Alexey Gritsenko
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2112-05692/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2112-05692/citation.csl.json
+
+```bibtex
+@misc{arxiv_2112_05692,
+  title = {{VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling}},
+  author = {{Yang Li} and {Gang Li} and {Xin Zhou} and {Mostafa Dehghani} and {Alexey Gritsenko}},
+  year = {2021},
+  eprint = {2112.05692v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2112.05692v1},
+  note = {First published: 2021-12-10; Recorded arXiv version: v1; Recorded version updated: 2021-12-10T17:37:26Z.}
+}
+```
 
 ### arXiv 版本记录
 
@@ -87,6 +107,18 @@ Bryan Wang, Gang Li, Xin Zhou, Zhourong Chen, Tovi Grossman, Yang Li
 - BibTeX：https://awesomecua.com/resources/arxiv-2108-03353/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2108-03353/citation.csl.json
 
+```bibtex
+@misc{arxiv_2108_03353,
+  title = {{Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning}},
+  author = {{Bryan Wang} and {Gang Li} and {Xin Zhou} and {Zhourong Chen} and {Tovi Grossman} and {Yang Li}},
+  year = {2021},
+  eprint = {2108.03353v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2108.03353v1},
+  note = {First published: 2021-08-07; Recorded arXiv version: v1; Recorded version updated: 2021-08-07T03:01:23Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：1
@@ -138,6 +170,18 @@ Chongyang Bai, Xiaoxue Zang, Ying Xu, Srinivas Sunkara, Abhinav Rastogi, Jindong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2107-13731/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2107-13731/citation.csl.json
+
+```bibtex
+@misc{arxiv_2107_13731,
+  title = {{UIBert: Learning Generic Multimodal Representations for UI Understanding}},
+  author = {{Chongyang Bai} and {Xiaoxue Zang} and {Ying Xu} and {Srinivas Sunkara} and {Abhinav Rastogi} and {Jindong Chen} and {Blaise Aguera y Arcas}},
+  year = {2021},
+  eprint = {2107.13731v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2107.13731v2},
+  note = {First published: 2021-07-29; Recorded arXiv version: v2; Recorded version updated: 2021-08-10T08:55:21Z.}
+}
+```
 
 ### arXiv 版本记录
 
@@ -191,6 +235,18 @@ Maayan Shvo, Zhiming Hu, Rodrigo Toro Icarte, Iqbal Mohomed, Allan Jepson, Sheil
 - BibTeX：https://awesomecua.com/resources/arxiv-2106-00133/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2106-00133/citation.csl.json
 
+```bibtex
+@misc{arxiv_2106_00133,
+  title = {{AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning}},
+  author = {{Maayan Shvo} and {Zhiming Hu} and {Rodrigo Toro Icarte} and {Iqbal Mohomed} and {Allan Jepson} and {Sheila A. McIlraith}},
+  year = {2021},
+  eprint = {2106.00133v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2106.00133v2},
+  note = {First published: 2021-05-31; Recorded arXiv version: v2; Recorded version updated: 2021-06-06T17:56:58Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -242,6 +298,18 @@ Daniel Toyama, Philippe Hamel, Anita Gergely, Gheorghe Comanici, Amelia Glaese, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2105-13231/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2105-13231/citation.csl.json
+
+```bibtex
+@misc{arxiv_2105_13231,
+  title = {{AndroidEnv: A Reinforcement Learning Platform for Android}},
+  author = {{Daniel Toyama} and {Philippe Hamel} and {Anita Gergely} and {Gheorghe Comanici} and {Amelia Glaese} and {Zafarali Ahmed} and {Tyler Jackson} and {Shibl Mourad} and {Doina Precup}},
+  year = {2021},
+  eprint = {2105.13231v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2105.13231v1},
+  note = {First published: 2021-05-27; Recorded arXiv version: v1; Recorded version updated: 2021-05-27T15:20:14Z.}
+}
+```
 
 ### arXiv 版本记录
 
@@ -295,6 +363,18 @@ Jingwen Fu, Xiaoyi Zhang, Yuwang Wang, Wenjun Zeng, Sam Yang, Grayson Hilliard
 - BibTeX：https://awesomecua.com/resources/arxiv-2105-11941/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2105-11941/citation.csl.json
 
+```bibtex
+@misc{arxiv_2105_11941,
+  title = {{Understanding Mobile GUI: from Pixel-Words to Screen-Sentences}},
+  author = {{Jingwen Fu} and {Xiaoyi Zhang} and {Yuwang Wang} and {Wenjun Zeng} and {Sam Yang} and {Grayson Hilliard}},
+  year = {2021},
+  eprint = {2105.11941v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2105.11941v2},
+  note = {First published: 2021-05-25; Recorded arXiv version: v2; Recorded version updated: 2022-04-14T11:00:58Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -346,6 +426,18 @@ Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A.
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2104-08560/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2104-08560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2104_08560,
+  title = {{Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments}},
+  author = {{Andrea Burns} and {Deniz Arsan} and {Sanjna Agrawal} and {Ranjitha Kumar} and {Kate Saenko} and {Bryan A. Plummer}},
+  year = {2021},
+  eprint = {2104.08560v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2104.08560v1},
+  note = {First published: 2021-04-17; Recorded arXiv version: v1; Recorded version updated: 2021-04-17T14:48:02Z.}
+}
+```
 
 ### arXiv 版本记录
 
@@ -399,6 +491,18 @@ Nancy Xu, Sam Masling, Michael Du, Giovanni Campagna, Larry Heck, James Landay, 
 - BibTeX：https://awesomecua.com/resources/arxiv-2103-16057/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2103-16057/citation.csl.json
 
+```bibtex
+@misc{arxiv_2103_16057,
+  title = {{Grounding Open-Domain Instructions to Automate Web Support Tasks}},
+  author = {{Nancy Xu} and {Sam Masling} and {Michael Du} and {Giovanni Campagna} and {Larry Heck} and {James Landay} and {Monica S Lam}},
+  year = {2021},
+  eprint = {2103.16057v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2103.16057v2},
+  note = {First published: 2021-03-30; Recorded arXiv version: v2; Recorded version updated: 2021-04-04T23:51:14Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -450,6 +554,18 @@ Xingyu Chen, Zihan Zhao, Lu Chen, Danyang Zhang, Jiabao Ji, Ao Luo, Yuxuan Xiong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2101-09465/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2101-09465/citation.csl.json
+
+```bibtex
+@misc{arxiv_2101_09465,
+  title = {{WebSRC: A Dataset for Web-Based Structural Reading Comprehension}},
+  author = {{Xingyu Chen} and {Zihan Zhao} and {Lu Chen} and {Danyang Zhang} and {Jiabao Ji} and {Ao Luo} and {Yuxuan Xiong} and {Kai Yu}},
+  year = {2021},
+  eprint = {2101.09465v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2101.09465v2},
+  note = {First published: 2021-01-23; Recorded arXiv version: v2; Recorded version updated: 2021-11-08T08:31:44Z.}
+}
+```
 
 ### arXiv 版本记录
 
@@ -503,6 +619,18 @@ Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa
 - BibTeX：https://awesomecua.com/resources/arxiv-2101-04893/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2101-04893/citation.csl.json
 
+```bibtex
+@misc{arxiv_2101_04893,
+  title = {{Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels}},
+  author = {{Xiaoyi Zhang} and {Lilian de Greef} and {Amanda Swearngin} and {Samuel White} and {Kyle Murray} and {Lisa Yu} and {Qi Shan} and {Jeffrey Nichols} and {Jason Wu} and {Chris Fleizach} and {Aaron Everitt} and {Jeffrey P. Bigham}},
+  year = {2021},
+  eprint = {2101.04893v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2101.04893v1},
+  note = {First published: 2021-01-13; Recorded arXiv version: v1; Recorded version updated: 2021-01-13T05:56:15Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：1
@@ -554,6 +682,21 @@ Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
 
 - BibTeX：https://awesomecua.com/resources/url-b230a6700386b7e2744c/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-b230a6700386b7e2744c/citation.csl.json
+
+```bibtex
+@article{cua_22af3749b032a90aa40625db,
+  title = {{Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review}},
+  author = {{Jorge Ribeiro} and {Rui Lima} and {Tiago Eckhardt} and {Sara Paiva}},
+  year = {2021},
+  journal = {Procedia Computer Science},
+  publisher = {Elsevier BV},
+  volume = {181},
+  pages = {51-58},
+  doi = {10.1016/j.procs.2021.01.104},
+  url = {https://www.sciencedirect.com/science/article/pii/S1877050921001393},
+  note = {Publication date: 2021.}
+}
+```
 
 ### 发表记录
 
@@ -617,6 +760,20 @@ Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
 - BibTeX：https://awesomecua.com/resources/url-24a139a7910431441e39/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-24a139a7910431441e39/citation.csl.json
 
+```bibtex
+@inproceedings{cua_082ca5b86804a432572b32ad,
+  title = {{30 Years of Automated GUI Testing: A Bibliometric Analysis}},
+  author = {{Olivia Rodríguez-Valdés} and {Tanja E. J. Vos} and {Pekka Aho} and {Beatriz Marín}},
+  year = {2021},
+  booktitle = {Communications in Computer and Information Science},
+  publisher = {Springer International Publishing},
+  pages = {473-488},
+  doi = {10.1007/978-3-030-85347-1\_34},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-85347-1\_34},
+  note = {Publication date: 2021.}
+}
+```
+
 ### 发表记录
 
 - 标题：30 Years of Automated GUI Testing: A Bibliometric Analysis
@@ -678,6 +835,18 @@ Zecheng He, Srinivas Sunkara, Xiaoxue Zang, Ying Xu, Lijuan Liu, Nevan Wichers, 
 - BibTeX：https://awesomecua.com/resources/arxiv-2012-12350/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2012-12350/citation.csl.json
 
+```bibtex
+@misc{arxiv_2012_12350,
+  title = {{ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces}},
+  author = {{Zecheng He} and {Srinivas Sunkara} and {Xiaoxue Zang} and {Ying Xu} and {Lijuan Liu} and {Nevan Wichers} and {Gabriel Schubiner} and {Ruby Lee} and {Jindong Chen} and {Blaise Agüera y Arcas}},
+  year = {2020},
+  eprint = {2012.12350v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2012.12350v2},
+  note = {First published: 2020-12-22; Recorded arXiv version: v2; Recorded version updated: 2021-01-25T20:37:39Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -729,6 +898,21 @@ Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
 
 - BibTeX：https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/citation.csl.json
+
+```bibtex
+@inproceedings{cua_1437035b5d55534c9885b7d0,
+  title = {{GUI testing for mobile applications: objectives, approaches and challenges}},
+  author = {{Kabir S. Said} and {Liming Nie} and {Adekunle A. Ajibode} and {Xueyi Zhou}},
+  year = {2020},
+  month = nov,
+  booktitle = {12th Asia-Pacific Symposium on Internetware},
+  publisher = {ACM},
+  pages = {51-60},
+  doi = {10.1145/3457913.3457931},
+  url = {https://www.researchgate.net/profile/Kabir-Said/publication/353394632\_GUI\_testing\_for\_mobile\_applications\_objectives\_approaches\_and\_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf},
+  note = {Publication date: 2020-11.}
+}
+```
 
 ### 发表记录
 
@@ -790,6 +974,18 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2010-04295/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2010-04295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2010_04295,
+  title = {{Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements}},
+  author = {{Yang Li} and {Gang Li} and {Luheng He} and {Jingjie Zheng} and {Hong Li} and {Zhiwei Guan}},
+  year = {2020},
+  eprint = {2010.04295v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2010.04295v1},
+  note = {First published: 2020-10-08; Recorded arXiv version: v1; Recorded version updated: 2020-10-08T22:56:03Z.}
+}
+```
 
 ### 发表记录
 
@@ -861,6 +1057,18 @@ Jieshan Chen, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, G
 - BibTeX：https://awesomecua.com/resources/arxiv-2008-05132/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2008-05132/citation.csl.json
 
+```bibtex
+@misc{arxiv_2008_05132,
+  title = {{Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?}},
+  author = {{Jieshan Chen} and {Mulong Xie} and {Zhenchang Xing} and {Chunyang Chen} and {Xiwei Xu} and {Liming Zhu} and {Guoqiang Li}},
+  year = {2020},
+  eprint = {2008.05132v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2008.05132v2},
+  note = {First published: 2020-08-12; Recorded arXiv version: v2; Recorded version updated: 2020-09-07T12:57:33Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -912,6 +1120,18 @@ Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod M
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2007-13257/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2007-13257/citation.csl.json
+
+```bibtex
+@misc{arxiv_2007_13257,
+  title = {{From Robotic Process Automation to Intelligent Process Automation: Emerging Trends}},
+  author = {{Tathagata Chakraborti} and {Vatche Isahagian} and {Rania Khalaf} and {Yasaman Khazaeni} and {Vinod Muthusamy} and {Yara Rizk} and {Merve Unuvar}},
+  year = {2020},
+  eprint = {2007.13257v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2007.13257v1},
+  note = {First published: 2020-07-27; Recorded arXiv version: v1; Recorded version updated: 2020-07-27T00:43:08Z.}
+}
+```
 
 ### 发表记录
 
@@ -983,6 +1203,18 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 - BibTeX：https://awesomecua.com/resources/arxiv-2005-03776/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2005-03776/citation.csl.json
 
+```bibtex
+@misc{arxiv_2005_03776,
+  title = {{Mapping Natural Language Instructions to Mobile UI Action Sequences}},
+  author = {{Yang Li} and {Jiacong He} and {Xin Zhou} and {Yuan Zhang} and {Jason Baldridge}},
+  year = {2020},
+  eprint = {2005.03776v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2005.03776v2},
+  note = {First published: 2020-05-07; Recorded arXiv version: v2; Recorded version updated: 2020-06-05T02:11:56Z.}
+}
+```
+
 ### 发表记录
 
 - 标题：Mapping Natural Language Instructions to Mobile UI Action Sequences
@@ -1053,6 +1285,22 @@ Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans,
 - BibTeX：https://awesomecua.com/resources/url-2574c6eeee264762a990/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-2574c6eeee264762a990/citation.csl.json
 
+```bibtex
+@article{cua_d62129f0b2ced2720ee187d9,
+  title = {{Robotic Process Automation: Contemporary themes and challenges}},
+  author = {{Rehan Syed} and {Suriadi Suriadi} and {Michael Adams} and {Wasana Bandara} and {Sander J.J. Leemans} and {Chun Ouyang} and {Arthur H.M. ter Hofstede} and {Inge van de Weerd} and {Moe Thandar Wynn} and {Hajo A. Reijers}},
+  year = {2020},
+  month = feb,
+  journal = {Computers in Industry},
+  publisher = {Elsevier BV},
+  volume = {115},
+  pages = {103162},
+  doi = {10.1016/j.compind.2019.103162},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609},
+  note = {Publication date: 2020-02.}
+}
+```
+
 ### 发表记录
 
 - 标题：Robotic Process Automation: Contemporary themes and challenges
@@ -1115,6 +1363,18 @@ Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom M. Mitch
 - BibTeX：https://awesomecua.com/resources/arxiv-1909-00031/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1909-00031/citation.csl.json
 
+```bibtex
+@misc{arxiv_1909_00031,
+  title = {{Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations}},
+  author = {{Toby Jia-Jun Li} and {Marissa Radensky} and {Justin Jia} and {Kirielle Singarajah} and {Tom M. Mitchell} and {Brad A. Myers}},
+  year = {2019},
+  eprint = {1909.00031v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1909.00031v2},
+  note = {First published: 2019-08-30; Recorded arXiv version: v2; Recorded version updated: 2020-01-07T00:57:53Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -1166,6 +1426,18 @@ Sheng Jia, Jamie Kiros, Jimmy Ba
 
 - BibTeX：https://awesomecua.com/resources/arxiv-1902-07257/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1902-07257/citation.csl.json
+
+```bibtex
+@misc{arxiv_1902_07257,
+  title = {{DOM-Q-NET: Grounded RL on Structured Language}},
+  author = {{Sheng Jia} and {Jamie Kiros} and {Jimmy Ba}},
+  year = {2019},
+  eprint = {1902.07257v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1902.07257v1},
+  note = {First published: 2019-02-19; Recorded arXiv version: v1; Recorded version updated: 2019-02-19T19:54:15Z.}
+}
+```
 
 ### arXiv 版本记录
 
@@ -1219,6 +1491,18 @@ Yauhen Leanidavich Arnatovich, Lipo Wang
 - BibTeX：https://awesomecua.com/resources/arxiv-1812-11470/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1812-11470/citation.csl.json
 
+```bibtex
+@misc{arxiv_1812_11470,
+  title = {{A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications}},
+  author = {{Yauhen Leanidavich Arnatovich} and {Lipo Wang}},
+  year = {2018},
+  eprint = {1812.11470v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1812.11470v1},
+  note = {First published: 2018-12-30; Recorded arXiv version: v1; Recorded version updated: 2018-12-30T04:50:20Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：1
@@ -1270,6 +1554,18 @@ Izzeddin Gur, Ulrich Rueckert, Aleksandra Faust, Dilek Hakkani-Tur
 
 - BibTeX：https://awesomecua.com/resources/arxiv-1812-09195/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1812-09195/citation.csl.json
+
+```bibtex
+@misc{arxiv_1812_09195,
+  title = {{Learning to Navigate the Web}},
+  author = {{Izzeddin Gur} and {Ulrich Rueckert} and {Aleksandra Faust} and {Dilek Hakkani-Tur}},
+  year = {2018},
+  eprint = {1812.09195v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1812.09195v1},
+  note = {First published: 2018-12-21; Recorded arXiv version: v1; Recorded version updated: 2018-12-21T15:32:59Z.}
+}
+```
 
 ### arXiv 版本记录
 
@@ -1323,6 +1619,18 @@ Panupong Pasupat, Tian-Shun Jiang, Evan Zheran Liu, Kelvin Guu, Percy Liang
 - BibTeX：https://awesomecua.com/resources/arxiv-1808-09132/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1808-09132/citation.csl.json
 
+```bibtex
+@misc{arxiv_1808_09132,
+  title = {{Mapping Natural Language Commands to Web Elements}},
+  author = {{Panupong Pasupat} and {Tian-Shun Jiang} and {Evan Zheran Liu} and {Kelvin Guu} and {Percy Liang}},
+  year = {2018},
+  eprint = {1808.09132v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1808.09132v2},
+  note = {First published: 2018-08-28; Recorded arXiv version: v2; Recorded version updated: 2018-10-01T03:22:58Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -1374,6 +1682,19 @@ Toby Jia-Jun Li, Oriana Riva
 
 - BibTeX：https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.csl.json
+
+```bibtex
+@inproceedings{cua_93605b13ec414a1e08029b6d,
+  title = {{Kite: Building Conversational Bots from Mobile Apps}},
+  author = {{Toby Jia-Jun Li} and {Oriana Riva}},
+  year = {2018},
+  month = jun,
+  booktitle = {The 16th Annual International Conference on Mobile Systems, Applications, and Services},
+  doi = {10.1145/3210240.3210339},
+  url = {https://doi.org/10.1145/3210240.3210339},
+  note = {Publication date: 2018-06.}
+}
+```
 
 ### 发表记录
 
@@ -1435,6 +1756,18 @@ Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang
 - BibTeX：https://awesomecua.com/resources/arxiv-1802-08802/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1802-08802/citation.csl.json
 
+```bibtex
+@misc{arxiv_1802_08802,
+  title = {{Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration}},
+  author = {{Evan Zheran Liu} and {Kelvin Guu} and {Panupong Pasupat} and {Tianlin Shi} and {Percy Liang}},
+  year = {2018},
+  eprint = {1802.08802v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1802.08802v1},
+  note = {First published: 2018-02-24; Recorded arXiv version: v1; Recorded version updated: 2018-02-24T05:32:47Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：1
@@ -1486,6 +1819,17 @@ Toby Jia-Jun Li, Igor Labutov, Xiaohan Nancy Li, Xiaoyi Zhang, Wenze Shi, Wanlin
 
 - BibTeX：https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/citation.csl.json
+
+```bibtex
+@inproceedings{cua_753e73012e6a2483f242138b,
+  title = {{APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions}},
+  author = {{Toby Jia-Jun Li} and {Igor Labutov} and {Xiaohan Nancy Li} and {Xiaoyi Zhang} and {Wenze Shi} and {Wanling Ding} and {Tom M. Mitchell} and {Brad A. Myers}},
+  year = {2018},
+  booktitle = {Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing},
+  url = {https://ieeexplore.ieee.org/document/8506506},
+  note = {Publication date: 2018.}
+}
+```
 
 ### 发表记录
 
@@ -1548,6 +1892,18 @@ Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 - BibTeX：https://awesomecua.com/resources/url-97c0b1896525632434e2/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-97c0b1896525632434e2/citation.csl.json
 
+```bibtex
+@inproceedings{cua_b85f11762562177944b6898f,
+  title = {{Rousillon: Scraping Distributed Hierarchical Web Data}},
+  author = {{Sarah E. Chasins} and {Maria Mueller} and {Rastislav Bodik}},
+  year = {2018},
+  booktitle = {Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology},
+  doi = {10.1145/3242587.3242661},
+  url = {https://doi.org/10.1145/3242587.3242661},
+  note = {Publication date: 2018.}
+}
+```
+
 ### 发表记录
 
 - 标题：Rousillon: Scraping Distributed Hierarchical Web Data
@@ -1607,6 +1963,20 @@ Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang 
 
 - BibTeX：https://awesomecua.com/resources/url-b560b5d6abaab98483f6/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-b560b5d6abaab98483f6/citation.csl.json
+
+```bibtex
+@inproceedings{cua_402ed654426712089390317c,
+  title = {{Rico: A Mobile App Dataset for Building Data-Driven Design Applications}},
+  author = {{Biplab Deka} and {Zifeng Huang} and {Chad Franzen} and {Joshua Hibschman} and {Daniel Afergan} and {Yang Li} and {Jeffrey Nichols} and {Ranjitha Kumar}},
+  year = {2017},
+  month = oct,
+  booktitle = {UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology},
+  pages = {845-854},
+  doi = {10.1145/3126594.3126651},
+  url = {https://doi.org/10.1145/3126594.3126651},
+  note = {Publication date: 2017-10-20.}
+}
+```
 
 ### 发表记录
 
@@ -1668,6 +2038,22 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 
 - BibTeX：https://awesomecua.com/resources/url-52a3261eb6a19b402e88/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-52a3261eb6a19b402e88/citation.csl.json
+
+```bibtex
+@inproceedings{cua_ba263493b78b0263c7933138,
+  title = {{World of Bits: An Open-Domain Platform for Web-Based Agents}},
+  author = {{Tianlin Shi} and {Andrej Karpathy} and {Linxi Fan} and {Jonathan Hernandez} and {Percy Liang}},
+  year = {2017},
+  month = jul,
+  booktitle = {Proceedings of the 34th International Conference on Machine Learning},
+  publisher = {PMLR},
+  series = {Proceedings of Machine Learning Research},
+  volume = {70},
+  pages = {3135-3144},
+  url = {https://proceedings.mlr.press/v70/shi17a.html},
+  note = {Publication date: 2017-07-17.}
+}
+```
 
 ### 发表记录
 
@@ -1733,6 +2119,19 @@ Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 - BibTeX：https://awesomecua.com/resources/url-392a602c660ffa91be46/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-392a602c660ffa91be46/citation.csl.json
 
+```bibtex
+@inproceedings{cua_6b7f9d608ed89d1625610eb1,
+  title = {{SUGILITE: Creating Multimodal Smartphone Automation by Demonstration}},
+  author = {{Toby Jia-Jun Li} and {Amos Azaria} and {Brad A. Myers}},
+  year = {2017},
+  booktitle = {Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems},
+  pages = {6038-6049},
+  doi = {10.1145/3025453.3025483},
+  url = {https://doi.org/10.1145/3025453.3025483},
+  note = {Publication date: 2017.}
+}
+```
+
 ### 发表记录
 
 - 标题：SUGILITE: Creating Multimodal Smartphone Automation by Demonstration
@@ -1793,6 +2192,19 @@ Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 
 - BibTeX：https://awesomecua.com/resources/url-347925d0f440d6396080/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-347925d0f440d6396080/citation.csl.json
+
+```bibtex
+@inproceedings{cua_07942b5af1a8c0ffa9c7322a,
+  title = {{Ringer: Web Automation by Demonstration}},
+  author = {{Shaon Barman} and {Sarah Chasins} and {Ras Bodik} and {Sumit Gulwani}},
+  year = {2016},
+  month = nov,
+  booktitle = {OOPSLA 2016},
+  doi = {10.1145/2983990.2984020},
+  url = {https://doi.org/10.1145/2983990.2984020},
+  note = {Publication date: 2016-11.}
+}
+```
 
 ### 发表记录
 
@@ -1858,6 +2270,18 @@ Rodrigo Nogueira, Kyunghyun Cho
 - BibTeX：https://awesomecua.com/resources/arxiv-1602-02261/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-1602-02261/citation.csl.json
 
+```bibtex
+@misc{arxiv_1602_02261,
+  title = {{End-to-End Goal-Driven Web Navigation}},
+  author = {{Rodrigo Nogueira} and {Kyunghyun Cho}},
+  year = {2016},
+  eprint = {1602.02261v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1602.02261v2},
+  note = {First published: 2016-02-06; Recorded arXiv version: v2; Recorded version updated: 2016-05-20T16:26:58Z.}
+}
+```
+
 ### arXiv 版本记录
 
 - 版本：2
@@ -1909,6 +2333,20 @@ Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 
 - BibTeX：https://awesomecua.com/resources/url-6262c757080f8838e62c/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-6262c757080f8838e62c/citation.csl.json
+
+```bibtex
+@inproceedings{cua_08a6c6d3e0e8b509ecb90301,
+  title = {{GUI Testing Using Computer Vision}},
+  author = {{Tsung-Hsiang Chang} and {Tom Yeh} and {Robert C. Miller}},
+  year = {2010},
+  month = apr,
+  booktitle = {Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)},
+  pages = {1535-1544},
+  doi = {10.1145/1753326.1753555},
+  url = {https://doi.org/10.1145/1753326.1753555},
+  note = {Publication date: 2010-04.}
+}
+```
 
 ### 发表记录
 
@@ -1969,6 +2407,20 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 - BibTeX：https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/citation.csl.json
 
+```bibtex
+@inproceedings{cua_510831381c08385eb74fb95e,
+  title = {{Sikuli: Using GUI screenshots for search and automation}},
+  author = {{Tom Yeh} and {Tsung-Hsiang Chang} and {Robert C. Miller}},
+  year = {2009},
+  month = oct,
+  booktitle = {Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)},
+  pages = {183-192},
+  doi = {10.1145/1622176.1622213},
+  url = {https://doi.org/10.1145/1622176.1622213},
+  note = {Publication date: 2009-10.}
+}
+```
+
 ### 发表记录
 
 - 标题：Sikuli: Using GUI screenshots for search and automation
@@ -2027,6 +2479,19 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 
 - BibTeX：https://awesomecua.com/resources/url-cccd967aa993404d74d0/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-cccd967aa993404d74d0/citation.csl.json
+
+```bibtex
+@inproceedings{cua_1b4a3a269ca9f1884a566476,
+  title = {{Koala: Capture, Share, Automate, Personalize Business Processes on the Web}},
+  author = {{Greg Little} and {Tessa A. Lau} and {Allen Cypher} and {James Lin} and {Eben M. Haber} and {Eser Kandogan}},
+  year = {2007},
+  booktitle = {CHI 2007 Proceedings},
+  pages = {943-946},
+  doi = {10.1145/1240624.1240767},
+  url = {https://doi.org/10.1145/1240624.1240767},
+  note = {Publication date: 2007.}
+}
+```
 
 ### 发表记录
 
@@ -2089,6 +2554,18 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 - BibTeX：https://awesomecua.com/resources/url-628b5251757bb3888e89/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-628b5251757bb3888e89/citation.csl.json
 
+```bibtex
+@inproceedings{cua_4e2f12a215bd1cadd864f498,
+  title = {{PLOW: A Collaborative Task Learning Agent}},
+  author = {{James Allen} and {Nathanael Chambers} and {George Ferguson} and {Lucian Galescu} and {Hyuckchul Jung} and {Mary Swift} and {William Taysom}},
+  year = {2007},
+  booktitle = {Twenty-Second AAAI National Conference on Artificial Intelligence},
+  pages = {1514-1519},
+  url = {https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf},
+  note = {Publication date: 2007.}
+}
+```
+
 ### 发表记录
 
 - 标题：PLOW: A Collaborative Task Learning Agent
@@ -2148,6 +2625,18 @@ Allen Cypher
 
 - BibTeX：https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/citation.csl.json
+
+```bibtex
+@inproceedings{cua_79e3af204750d438f5d43781,
+  title = {{Eager: Programming Repetitive Tasks by Example}},
+  author = {{Allen Cypher}},
+  year = {1991},
+  booktitle = {Proceedings of CHI '91},
+  pages = {33-39},
+  url = {https://acypher.com/Publications/CHI91/EagerCHI.html},
+  note = {Publication date: 1991.}
+}
+```
 
 ### 发表记录
 

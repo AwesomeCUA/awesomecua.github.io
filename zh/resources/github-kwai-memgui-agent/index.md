@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kwai-memgui-agent/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # MemGUI-Agent
 
 MemGUI-Agent 的训练与离线评估工具提供轨迹转换、LoRA SFT 模板，以及对 GUI 操作、记忆更新和上下文折叠的逐步检查。

@@ -1,3 +1,11 @@
+---
+title: "MaaInspector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tanyashue-maainspector/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaInspector
 
 A Tauri desktop node editor for MaaFramework 5 pipelines that builds workflows by drag and drop and runs and debugs nodes while showing their execution state.

@@ -1,3 +1,11 @@
+---
+title: "Bah · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alexvilelabah-bah-browser/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Bah
 
 Electron AI 浏览器，其侧边栏智能体读取 DOM 或 Accessibility 树中带编号的页面元素、页面文字和 OCR 结果，再通过 Chromium 输入事件点击和输入，可使用云端或本地 Ollama 模型。

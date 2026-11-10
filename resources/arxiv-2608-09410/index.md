@@ -1,3 +1,11 @@
+---
+title: "Skills in Weights, Memory in Code: Hybrid… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-09410/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation
 
 Bibliographic record for Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunhao Zhao, Zhenyang Ni, Haoyang Chen, Ruohan Zhang, Qi Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-09410/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-09410/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_09410,
+  title = {{Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation}},
+  author = {{Yunhao Zhao} and {Zhenyang Ni} and {Haoyang Chen} and {Ruohan Zhang} and {Qi Zhu}},
+  year = {2026},
+  eprint = {2608.09410v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.09410v1},
+  note = {First published: 2026-08-10; Recorded arXiv version: v1; Recorded version updated: 2026-08-10T10:35:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

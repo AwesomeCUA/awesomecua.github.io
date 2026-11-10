@@ -1,3 +1,11 @@
+---
+title: "PLOW: A Collaborative Task Learning Agent · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-628b5251757bb3888e89/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PLOW: A Collaborative Task Learning Agent
 
 介绍 PLOW，它从结合演示、自然语言解释和对话的会话中学习可执行的网页任务模型；浏览器插桩将用户操作与 DOM 结构关联，以支持任务泛化。
@@ -27,6 +35,18 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 
 - BibTeX：https://awesomecua.com/resources/url-628b5251757bb3888e89/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-628b5251757bb3888e89/citation.csl.json
+
+```bibtex
+@inproceedings{cua_4e2f12a215bd1cadd864f498,
+  title = {{PLOW: A Collaborative Task Learning Agent}},
+  author = {{James Allen} and {Nathanael Chambers} and {George Ferguson} and {Lucian Galescu} and {Hyuckchul Jung} and {Mary Swift} and {William Taysom}},
+  year = {2007},
+  booktitle = {Twenty-Second AAAI National Conference on Artificial Intelligence},
+  pages = {1514-1519},
+  url = {https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf},
+  note = {Publication date: 2007.}
+}
+```
 
 ## 发表记录
 

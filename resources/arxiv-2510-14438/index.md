@@ -1,3 +1,11 @@
+---
+title: "WebAggregator: Enhancing Compositional… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-14438/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models
 
 Introduces WebAggregator, a pipeline for synthesizing compositional questions from websites to train deep-research agents, plus the WebAggregatorQA testbed.
@@ -26,6 +34,18 @@ Rui Wang, Ce Zhang, Jun-Yu Ma, Jianshu Zhang, Hongru Wang, Yi Chen, Boyang Xue, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-14438/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-14438/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_14438,
+  title = {{WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models}},
+  author = {{Rui Wang} and {Ce Zhang} and {Jun-Yu Ma} and {Jianshu Zhang} and {Hongru Wang} and {Yi Chen} and {Boyang Xue} and {Tianqing Fang} and {Zhisong Zhang} and {Hongming Zhang} and {Haitao Mi} and {Dong Yu} and {Kam-Fai Wong}},
+  year = {2025},
+  eprint = {2510.14438v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.14438v2},
+  note = {First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T01:14:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AgentClick: A Skill-Based Human-in-the-Loop… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-16520/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents
 
 AgentClick gives terminal-based agents a browser review interface for plans, drafts, execution traces and editable memory. A local server and skill plugin let users inspect proposed actions and provide structured feedback.
@@ -26,6 +34,18 @@ Haomin Zhuang, Hanwen Xing, Xiangliang Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-16520/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-16520/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_16520,
+  title = {{AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents}},
+  author = {{Haomin Zhuang} and {Hanwen Xing} and {Xiangliang Zhang}},
+  year = {2026},
+  eprint = {2604.16520v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.16520v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T18:22:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

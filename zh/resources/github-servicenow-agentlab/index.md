@@ -1,3 +1,11 @@
+---
+title: "AgentLab · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-servicenow-agentlab/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # AgentLab
 
 用于开发和评估浏览器智能体的实验框架。

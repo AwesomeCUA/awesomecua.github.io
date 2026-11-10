@@ -1,3 +1,11 @@
+---
+title: "WebRL-GLM-4-9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f979ca583090405aadee/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # WebRL-GLM-4-9B
 
 A GLM-based WebRL model released for browser tasks across five WebArena websites. Its card reports evaluation results on WebArena-Lite.

@@ -1,3 +1,11 @@
+---
+title: "M2A: Multimodal Memory Agent with Dual-Layer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-07624/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions
 
 Status: excluded from the active CUA catalog after scope review.

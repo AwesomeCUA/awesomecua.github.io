@@ -1,3 +1,11 @@
+---
+title: "OpenGame: Open Agentic Coding for Games | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18394/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OpenGame: Open Agentic Coding for Games
 
 Bibliographic record for OpenGame: Open Agentic Coding for Games. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiam
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18394/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18394/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18394,
+  title = {{OpenGame: Open Agentic Coding for Games}},
+  author = {{Yilei Jiang} and {Jinyuan Hu} and {Qianyin Xiao} and {Yaozhi Zheng} and {Ruize Ma} and {Kaituo Feng} and {Jiaming Han} and {Tianshuo Peng} and {Kaixuan Fan} and {Manyuan Zhang} and {Xiangyu Yue}},
+  year = {2026},
+  eprint = {2604.18394v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18394v2},
+  note = {First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-09-15T04:40:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

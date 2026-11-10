@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体工具（第 6 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/page/6/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具：第 6 页
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/page/6/ · [English](https://awesomecua.com/categories/tool/page/6/index.md)

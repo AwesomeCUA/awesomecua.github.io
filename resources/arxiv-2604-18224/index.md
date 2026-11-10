@@ -1,3 +1,11 @@
+---
+title: "WebCompass: Towards Multimodal Web Coding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18224/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models
 
 Bibliographic record for WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinping Lei, Xinyu Che, Junqi Xiong, Chenchen Zhang, Yukai Huang, Chenyu Zhou, H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18224/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18224/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18224,
+  title = {{WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models}},
+  author = {{Xinping Lei} and {Xinyu Che} and {Junqi Xiong} and {Chenchen Zhang} and {Yukai Huang} and {Chenyu Zhou} and {Haoyang Huang} and {Minghao Liu} and {Letian Zhu} and {Hongyi Ye} and {Jinhua Hao} and {Ken Deng} and {Zizheng Zhan} and {Han Li} and {Dailin Li} and {Yifan Yao} and {Ming Sun} and {Zhaoxiang Zhang} and {Jiaheng Liu}},
+  year = {2026},
+  eprint = {2604.18224v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18224v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T13:09:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Prompt Injection attack against… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-05499/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Prompt Injection attack against LLM-integrated Applications
 
 Status: excluded from the active CUA catalog after scope review.

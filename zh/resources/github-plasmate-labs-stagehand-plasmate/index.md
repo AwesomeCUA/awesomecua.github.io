@@ -1,3 +1,11 @@
+---
+title: "stagehand-plasmate · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-stagehand-plasmate/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # stagehand-plasmate
 
 为 Stagehand 页面提供 Plasmate 语义对象模型（SOM）JSON 以替代原始 DOM 的 TypeScript 封装，支持按角色、文本或 ID 查询 SOM，act() 与 observe() 仍交由 Stagehand 执行。

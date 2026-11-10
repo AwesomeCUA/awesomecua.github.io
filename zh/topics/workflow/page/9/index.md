@@ -1,11 +1,17 @@
+---
+title: "工作流：Computer-Use 研究与资源（第 9 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/workflow/page/9/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工作流：Computer-Use 研究与资源（第 9 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/workflow/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
-- [Replay (Teach-by-Demonstration)](https://awesomecua.com/zh/resources/github-misb74-replay/)
-- [Replay AI](https://awesomecua.com/zh/resources/github-bryansbtian-replay-ai/)
 - [Resume Autofill Agent](https://awesomecua.com/zh/resources/github-ccc-zach-resume-autofill-agent/)
 - [RishabhP1508 Understudy](https://awesomecua.com/zh/resources/github-rishabhp1508-understudy/)
 - [rotary (rx4)](https://awesomecua.com/zh/resources/github-tschk-rotary/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/9/
 - [Web Agent Protocol (WAP)](https://awesomecua.com/zh/resources/github-ota-tech-ai-web-agent-protocol/)
 - [Webagent (webagent.cloud)](https://awesomecua.com/zh/resources/github-webagent-cloud-webagent/)
 - [WebBrain](https://awesomecua.com/zh/resources/github-webbrain-one-webbrain/)
+- [webclaw3](https://awesomecua.com/zh/resources/github-fatmind-webclaw3/)
+- [Webhands](https://awesomecua.com/zh/resources/github-agentpostmortem-webhands/)

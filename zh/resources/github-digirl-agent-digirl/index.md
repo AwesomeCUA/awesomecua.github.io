@@ -1,3 +1,11 @@
+---
+title: "DigiRL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-digirl-agent-digirl/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # DigiRL
 
 用于自主控制移动设备的强化学习方法。

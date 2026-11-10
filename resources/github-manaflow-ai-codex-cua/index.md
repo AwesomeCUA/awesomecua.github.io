@@ -1,3 +1,11 @@
+---
+title: "codex-cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-manaflow-ai-codex-cua/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # codex-cua
 
 CLI wrapper for driving macOS desktop applications from the shell using the Computer Use engine bundled inside Codex.

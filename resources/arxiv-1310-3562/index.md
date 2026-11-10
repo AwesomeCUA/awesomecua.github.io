@@ -1,3 +1,11 @@
+---
+title: "Adiabatic computing using 2-local… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1310-3562/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Adiabatic computing using 2-local Hamiltonians on a line
 
 Status: excluded from the active CUA catalog after scope review.

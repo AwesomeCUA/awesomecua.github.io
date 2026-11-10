@@ -1,3 +1,11 @@
+---
+title: "VideoAgentTrek: Computer Use Pretraining from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-19488/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos
 
 Extracts structured GUI actions from screen-recorded tutorials using inverse dynamics, then uses the inferred trajectories for computer-use training.
@@ -26,6 +34,18 @@ Dunjie Lu, Yiheng Xu, Junli Wang, Haoyuan Wu, Xinyuan Wang, Zekun Wang, Junlin Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-19488/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-19488/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19488,
+  title = {{VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos}},
+  author = {{Dunjie Lu} and {Yiheng Xu} and {Junli Wang} and {Haoyuan Wu} and {Xinyuan Wang} and {Zekun Wang} and {Junlin Yang} and {Hongjin Su} and {Jixuan Chen} and {Junda Chen} and {Yuchen Mao} and {Jingren Zhou} and {Junyang Lin} and {Binyuan Hui} and {Tao Yu}},
+  year = {2025},
+  eprint = {2510.19488v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19488v1},
+  note = {First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T11:25:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

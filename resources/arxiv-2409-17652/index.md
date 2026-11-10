@@ -1,3 +1,11 @@
+---
+title: "FactorSim: Generative Simulation via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-17652/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FactorSim: Generative Simulation via Factorized Representation
 
 Status: excluded from the active CUA catalog after scope review.

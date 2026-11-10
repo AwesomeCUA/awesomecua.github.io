@@ -1,3 +1,11 @@
+---
+title: "AI Agents for Computer Use · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sagerpascal-agents-for-computer-use/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # AI Agents for Computer Use
 
 这份资源列表汇集桌面与移动端 GUI 控制智能体，并提供智能体和数据集概览，与配套综述相互链接。

@@ -1,3 +1,11 @@
+---
+title: "ArtifactsBench: Bridging the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-04952/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation
 
 Bibliographic record for ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenchen Zhang, Yuhang Li, Can Xu, Jiaheng Liu, Ao Liu, Changzhi Zhou, Ken Deng,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-04952/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-04952/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_04952,
+  title = {{ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation}},
+  author = {{Chenchen Zhang} and {Yuhang Li} and {Can Xu} and {Jiaheng Liu} and {Ao Liu} and {Changzhi Zhou} and {Ken Deng} and {Dengpeng Wu} and {Guanhua Huang} and {Kejiao Li} and {Qi Yi} and {Ruibin Xiong} and {Shihui Hu} and {Yue Zhang} and {Yuhao Jiang} and {Zenan Xu} and {Yuanxing Zhang} and {Wiggin Zhou} and {Chayse Zhou} and {Fengzong Lian}},
+  year = {2025},
+  eprint = {2507.04952v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.04952v2},
+  note = {First published: 2025-07-07; Recorded arXiv version: v2; Recorded version updated: 2025-09-29T15:55:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

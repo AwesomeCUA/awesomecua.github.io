@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint: Better Pointing for VLMs… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-28069/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # MolmoPoint: Better Pointing for VLMs with Grounding Tokens
 
 MolmoPoint 用指向 token 替代文本坐标生成，先选取视觉区域，再通过子图块细化定位。该通用图像与视频方法除其他视觉定位任务外，还在 ScreenSpotPro 上评估 GUI 指向能力。
@@ -27,6 +35,18 @@ Christopher Clark, Yue Yang, Jae Sung Park, Zixian Ma, Jieyu Zhang, Rohun Tripat
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-28069/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-28069/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_28069,
+  title = {{MolmoPoint: Better Pointing for VLMs with Grounding Tokens}},
+  author = {{Christopher Clark} and {Yue Yang} and {Jae Sung Park} and {Zixian Ma} and {Jieyu Zhang} and {Rohun Tripathi} and {Mohammadreza Salehi} and {Sangho Lee} and {Taira Anderson} and {Winson Han} and {Ranjay Krishna}},
+  year = {2026},
+  eprint = {2603.28069v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.28069v1},
+  note = {First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T06:15:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

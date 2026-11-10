@@ -1,3 +1,11 @@
+---
+title: "RegionFocus · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tiangeluo-regionfocus/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # RegionFocus
 
 RegionFocus 提供利用截图局部区域进行界面定位的代码，并用 UI-TARS 和 Qwen2.5-VL 在 ScreenSpot-Pro 上评测。

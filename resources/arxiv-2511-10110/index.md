@@ -1,3 +1,11 @@
+---
+title: "Learning a Thousand Tasks in a Day | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-10110/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning a Thousand Tasks in a Day
 
 Status: excluded from the active CUA catalog after scope review.

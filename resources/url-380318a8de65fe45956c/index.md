@@ -1,3 +1,11 @@
+---
+title: "SE-GUI-3k | AwesomeCUA"
+url: https://awesomecua.com/resources/url-380318a8de65fe45956c/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # SE-GUI-3k
 
 Seed training data for SE-GUI, a GUI grounding model trained with self-evolutionary reinforcement fine-tuning; each row pairs a tool-calling conversation and a screenshot with a target bounding box.

@@ -1,3 +1,11 @@
+---
+title: "InternVL3-9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1e3655e5a2b664102ac7/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3-9B
 
 一个已发布的多模态模型检查点，训练内容包含图形界面操作；其模型卡记录了图形界面定位及更广泛的视觉和语言任务。

@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B-Classifieds · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b7ccf7acb2e9d8a11853/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Dreamer-7B-Classifieds
 
 Dreamer-7B-Classifieds 是面向 Classifieds 网页领域的 WebDreamer 模型检查点，通过模拟候选操作的结果辅助规划。

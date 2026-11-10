@@ -1,3 +1,11 @@
+---
+title: "CURA: Certified Runtime Alarms for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-27808/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CURA: Certified Runtime Alarms for Computer-Use Agents
 
 Introduces CURA, a telemetry-based runtime monitor that turns computer-use trajectories into sequential failure alarms and can trigger mid-task oversight. Its certificate controls false alarms, while the study separately reports detection performance and limits of retrospective monitoring.
@@ -26,6 +34,18 @@ Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Ome
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-27808/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-27808/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27808,
+  title = {{CURA: Certified Runtime Alarms for Computer-Use Agents}},
+  author = {{Divake Kumar} and {Sina Tayebati} and {Devashri Naik} and {Amanda Sofie Rios} and {Nilesh Ahuja} and {Omesh Tickoo} and {Ranganath Krishnan} and {Amit Ranjan Trivedi}},
+  year = {2026},
+  eprint = {2608.27808v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27808v1},
+  note = {First published: 2026-08-28; Recorded arXiv version: v1; Recorded version updated: 2026-08-28T00:50:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

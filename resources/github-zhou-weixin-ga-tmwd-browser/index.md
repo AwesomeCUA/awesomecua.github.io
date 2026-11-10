@@ -1,3 +1,11 @@
+---
+title: "ga-tmwd-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhou-weixin-ga-tmwd-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ga-tmwd-browser
 
 Agent-agnostic real-browser control bridge built on GenericAgent's TMWebDriver and CDP relay.

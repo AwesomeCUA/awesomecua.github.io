@@ -1,3 +1,11 @@
+---
+title: "Exposing Limitations of Language Model Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-18751/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web
 
 CompWoB adds 50 composed web-automation tasks to study generalization from simpler interactions. The paper compares prompted and fine-tuned agents, balances task training data, and probes sensitivity to changes in instruction order.
@@ -26,6 +34,18 @@ Hiroki Furuta, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-18751/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-18751/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_18751,
+  title = {{Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web}},
+  author = {{Hiroki Furuta} and {Yutaka Matsuo} and {Aleksandra Faust} and {Izzeddin Gur}},
+  year = {2023},
+  eprint = {2311.18751v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.18751v3},
+  note = {First published: 2023-11-30; Recorded arXiv version: v3; Recorded version updated: 2024-12-31T04:24:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

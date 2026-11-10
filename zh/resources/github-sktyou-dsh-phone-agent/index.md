@@ -1,3 +1,11 @@
+---
+title: "DSH Phone Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sktyou-dsh-phone-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DSH Phone Agent
 
 通过设备端 AccessibilityService 应用经 LAN 控制 Android 手机，并具备本地 OCR、模板匹配和 GKD 跳过广告规则。

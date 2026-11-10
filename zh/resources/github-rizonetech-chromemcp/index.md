@@ -1,3 +1,11 @@
+---
+title: "ChromeMCP (WSL2-to-Windows Bridge) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rizonetech-chromemcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ChromeMCP (WSL2-to-Windows Bridge)
 
 允许在 WSL2 Linux 内运行的编码智能体通过 Playwright MCP 操作宿主机上已登录的 Windows Chrome 浏览器。

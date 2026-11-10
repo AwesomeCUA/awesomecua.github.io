@@ -1,3 +1,11 @@
+---
+title: "hfyydd dsh-cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hfyydd-dsh-cua/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # hfyydd dsh-cua
 
 DeepSeek Harness computer-use plugin backed by the `cua-driver` daemon for accessibility-first desktop automation.

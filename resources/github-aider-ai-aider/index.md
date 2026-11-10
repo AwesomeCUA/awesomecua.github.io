@@ -1,3 +1,11 @@
+---
+title: "Aider | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aider-ai-aider/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Aider
 
 Aider is an AI pair-programming CLI and browser agent that maps repositories, edits multi-file codebases, and runs linters and test suites.

@@ -1,3 +1,11 @@
+---
+title: "Orbit (orbit-cua) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aadya940-orbit/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Orbit (orbit-cua)
 
 Orbit is a Python computer-use framework that combines natural-language screen grounding with composable, typed workflow steps.

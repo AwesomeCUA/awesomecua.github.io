@@ -1,3 +1,11 @@
+---
+title: "DiagGen: Agentic Generation of Deformable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-23103/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation
 
 Bibliographic record for DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guanxiong Chen, Yiduo Qu, Qianjun Xia, Pengyu Jing, Yixian Cheng, Bole Ma, Pengz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-23103/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-23103/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_23103,
+  title = {{DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation}},
+  author = {{Guanxiong Chen} and {Yiduo Qu} and {Qianjun Xia} and {Pengyu Jing} and {Yixian Cheng} and {Bole Ma} and {Pengzhi Yang} and {Bingyang Zhou} and {Ziming Li} and {Shashwat Suri} and {Gongbo Sun} and {Chao Liu} and {Peter Yichen Chen} and {Ziqiu Zeng} and {Fan Shi}},
+  year = {2026},
+  eprint = {2609.23103v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.23103v1},
+  note = {First published: 2026-09-19; Recorded arXiv version: v1; Recorded version updated: 2026-09-19T16:16:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Brotector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-brotector/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Brotector
 
 检测 Selenium、Puppeteer、Playwright、nodriver 等工具的网页驱动自动化的 JavaScript 测试页面，依据 navigator.webdriver、Runtime.enable 和非可信输入事件等泄露信号进行识别。

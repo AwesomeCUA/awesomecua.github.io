@@ -1,3 +1,11 @@
+---
+title: "cua-s1-nano-0.1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3cdd5263b3b46a5e2003/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # cua-s1-nano-0.1
 
 这是一个小型计算机操作分类模型，可根据无障碍文本或截图裁剪区域，并行评分预先定义的界面元素与操作选项。

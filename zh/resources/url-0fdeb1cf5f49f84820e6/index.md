@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0fdeb1cf5f49f84820e6/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # OS-Atlas Data
 
 OS-Atlas 的 GUI 定位预训练数据，覆盖桌面端（Linux、macOS、Windows）、移动端和网页；元素框以左、上、右、下边界的相对比例存储。

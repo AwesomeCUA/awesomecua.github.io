@@ -1,3 +1,11 @@
+---
+title: "FocusMem: Factorizing Content, Readout… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-04530/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory
 
 提出 FocusMem，一种 GUI 智能体的潜在记忆接口，将存储内容、随状态调整的读取方式，以及过滤无关检索经验的门控分开处理。
@@ -27,6 +35,18 @@ Zhuoran Zhang, Bowen Li, Jingcheng Ju, Yang Shi, Qixun Wang, Haotian Wang, Wei C
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-04530/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-04530/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_04530,
+  title = {{FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory}},
+  author = {{Zhuoran Zhang} and {Bowen Li} and {Jingcheng Ju} and {Yang Shi} and {Qixun Wang} and {Haotian Wang} and {Wei Chen} and {Tengjiao Wang}},
+  year = {2026},
+  eprint = {2608.04530v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.04530v1},
+  note = {First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T07:02:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

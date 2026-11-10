@@ -1,3 +1,11 @@
+---
+title: "MemoryBank: Enhancing Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-10250/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MemoryBank: Enhancing Large Language Models with Long-Term Memory
 
 Bibliographic record for MemoryBank: Enhancing Large Language Models with Long-Term Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-10250/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-10250/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_10250,
+  title = {{MemoryBank: Enhancing Large Language Models with Long-Term Memory}},
+  author = {{Wanjun Zhong} and {Lianghong Guo} and {Qiqi Gao} and {He Ye} and {Yanlin Wang}},
+  year = {2023},
+  eprint = {2305.10250v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.10250v3},
+  note = {First published: 2023-05-17; Recorded arXiv version: v3; Recorded version updated: 2023-05-21T06:20:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

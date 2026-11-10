@@ -1,3 +1,11 @@
+---
+title: "GameDevBench: Evaluating Agentic Capabilities… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-11103/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GameDevBench: Evaluating Agentic Capabilities Through Game Development
 
 Bibliographic record for GameDevBench: Evaluating Agentic Capabilities Through Game Development. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wayne Chi, Yixiong Fang, Arnav Yayavaram, Siddharth Yayavaram, Seth Karten, Qiuh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-11103/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-11103/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11103,
+  title = {{GameDevBench: Evaluating Agentic Capabilities Through Game Development}},
+  author = {{Wayne Chi} and {Yixiong Fang} and {Arnav Yayavaram} and {Siddharth Yayavaram} and {Seth Karten} and {Qiuhong Anna Wei} and {Runkun Chen} and {Alexander Wang} and {Valerie Chen} and {Ameet Talwalkar} and {Chris Donahue}},
+  year = {2026},
+  eprint = {2602.11103v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11103v2},
+  note = {First published: 2026-02-11; Recorded arXiv version: v2; Recorded version updated: 2026-06-30T22:11:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "bg-driver-rs · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lvyuan1688-bg-driver-rs/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # bg-driver-rs
 
 面向 macOS、Windows 和 Linux 的 Rust 后台计算机使用驱动程序。

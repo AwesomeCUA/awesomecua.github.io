@@ -1,3 +1,11 @@
+---
+title: "Browserable · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browserable-browserable/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # Browserable
 
 自托管浏览器智能体平台，提供 JS SDK 和 REST API：规划器设定高层步骤，执行器读取截图与编号 DOM 片段，在本地或托管浏览器中选择 Playwright 动作。

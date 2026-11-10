@@ -1,3 +1,11 @@
+---
+title: "Development of a hand pose recognition system… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1910-11100/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Development of a hand pose recognition system on an embedded computer using CNNs
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "rabbit r1 · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c33c1aba83d17c53a6f6/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # rabbit r1
 
 rabbit OS3 的便携语音触控 AI 设备，可作为实体交互入口；其 DLAM 功能经用户许可后可操作所连接计算机上的应用。

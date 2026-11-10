@@ -1,3 +1,11 @@
+---
+title: "FluidUse · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fluidinference-fluiduse/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # FluidUse
 
 面向 Apple silicon 本地计算机使用的 Swift 包，通过无障碍 API 读取运行中的 Mac 应用或浏览器表单，并使用设备端 Core ML 决策模型填写。

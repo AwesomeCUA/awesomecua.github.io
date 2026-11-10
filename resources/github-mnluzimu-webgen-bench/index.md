@@ -1,3 +1,11 @@
+---
+title: "WebGen-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mnluzimu-webgen-bench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WebGen-Bench
 
 WebGen-Bench evaluates generated websites with automated tests, including a UI agent that carries out interactions and checks outcomes. The repository supplies evaluation code and data.

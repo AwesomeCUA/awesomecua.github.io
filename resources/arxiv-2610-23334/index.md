@@ -1,3 +1,11 @@
+---
+title: "LAW: Unifying Language, Action, and World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-23334/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence
 
 Bibliographic record for LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiajun Cao, Kai Tang, Bohua Zhang, Zezhong Qian, Ying Li, Xiaozhu Ju, Xiaobao We
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-23334/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-23334/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23334,
+  title = {{LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence}},
+  author = {{Jiajun Cao} and {Kai Tang} and {Bohua Zhang} and {Zezhong Qian} and {Ying Li} and {Xiaozhu Ju} and {Xiaobao Wei} and {Jiaming Liu} and {Yang Ding} and {Sixiang Chen} and {Yiding Sun} and {Siyuan Qian} and {Tinghao Wang} and {Jixian Wu} and {Yichen Guo} and {Yi Zhang} and {Shilong Zou} and {Zhiyuan qin} and {Yong Dai} and {Jian Tang} and {Shanghang Zhang}},
+  year = {2026},
+  eprint = {2610.23334v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23334v2},
+  note = {First published: 2026-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-10-25T08:27:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

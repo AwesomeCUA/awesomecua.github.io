@@ -1,3 +1,11 @@
+---
+title: "CollabUIAgents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # CollabUIAgents
 
 CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.

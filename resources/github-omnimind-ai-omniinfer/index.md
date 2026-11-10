@@ -1,3 +1,11 @@
+---
+title: "OmniInfer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-omnimind-ai-omniinfer/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OmniInfer
 
 OmniInfer is a local LLM and VLM inference engine with OpenAI-compatible APIs for desktop and edge agents.

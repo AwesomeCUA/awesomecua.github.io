@@ -1,3 +1,11 @@
+---
+title: "Evaluation — computer-use research, page 5 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/5/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 5
 
 HTML page: https://awesomecua.com/topics/evaluation/page/5/

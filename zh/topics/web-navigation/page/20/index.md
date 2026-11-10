@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 20 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/20/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 20 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/20/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [hai-agents](https://awesomecua.com/zh/resources/github-hcompai-hai-agents-ts/)
-- [handraise](https://awesomecua.com/zh/resources/github-sy-d-handraise/)
 - [handraise-slack](https://awesomecua.com/zh/resources/github-sy-d-handraise-slack/)
 - [hanzhangzzz dsh-computer-use](https://awesomecua.com/zh/resources/github-hanzhangzzz-dsh-computer-use/)
 - [Hanzi Browse](https://awesomecua.com/zh/resources/github-hanzili-hanzi-browse/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/20/
 - [jev-browser](https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/)
 - [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)
 - [Jevry](https://awesomecua.com/zh/resources/github-michaelswissa-jevry/)
+- [Jig WebMCP Workbench](https://awesomecua.com/zh/resources/github-emadqureshikhi-jig/)
+- [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)

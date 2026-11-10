@@ -1,3 +1,11 @@
+---
+title: "Multi-Agent Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sanzizlohar-multi-agent-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Multi-Agent Browser
 
 协调 5 个共享浏览器工作区的专门 AI 智能体，协作开展网络研究。

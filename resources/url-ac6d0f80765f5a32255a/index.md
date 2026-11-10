@@ -1,3 +1,11 @@
+---
+title: "WebRewardBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # WebRewardBench
 
 An offline preference-evaluation set for web process reward models, pairing page and trajectory context with preferred and rejected candidate decisions.

@@ -1,3 +1,11 @@
+---
+title: "Design2Code: Benchmarking Multimodal Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-03163/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering
 
 Bibliographic record for Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenglei Si, Yanzhe Zhang, Ryan Li, Zhengyuan Yang, Ruibo Liu, Diyi Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-03163/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-03163/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_03163,
+  title = {{Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering}},
+  author = {{Chenglei Si} and {Yanzhe Zhang} and {Ryan Li} and {Zhengyuan Yang} and {Ruibo Liu} and {Diyi Yang}},
+  year = {2024},
+  eprint = {2403.03163v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.03163v3},
+  note = {First published: 2024-03-05; Recorded arXiv version: v3; Recorded version updated: 2025-02-09T04:22:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

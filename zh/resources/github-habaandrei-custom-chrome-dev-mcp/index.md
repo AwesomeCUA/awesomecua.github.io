@@ -1,3 +1,11 @@
+---
+title: "Custom Chrome Dev MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-habaandrei-custom-chrome-dev-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Custom Chrome Dev MCP
 
 仅在本地运行的 Model Context Protocol 服务器，通过 DevTools 操控用户已打开的 Chrome 会话。

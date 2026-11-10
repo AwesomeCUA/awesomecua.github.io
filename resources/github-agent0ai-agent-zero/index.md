@@ -1,3 +1,11 @@
+---
+title: "Agent Zero | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agent0ai-agent-zero/
+updated: 2026-11-06
+type: agent
+lang: en
+---
+
 # Agent Zero
 
 Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.

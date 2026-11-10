@@ -1,3 +1,11 @@
+---
+title: "LLM as A Robotic Brain: Unifying Egocentric… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-09349/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LLM as A Robotic Brain: Unifying Egocentric Memory and Control
 
 Bibliographic record for LLM as A Robotic Brain: Unifying Egocentric Memory and Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jinjie Mai, Jun Chen, Bing Li, Guocheng Qian, Mohamed Elhoseiny, Bernard Ghanem
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-09349/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-09349/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_09349,
+  title = {{LLM as A Robotic Brain: Unifying Egocentric Memory and Control}},
+  author = {{Jinjie Mai} and {Jun Chen} and {Bing Li} and {Guocheng Qian} and {Mohamed Elhoseiny} and {Bernard Ghanem}},
+  year = {2023},
+  eprint = {2304.09349v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.09349v4},
+  note = {First published: 2023-04-19; Recorded arXiv version: v4; Recorded version updated: 2023-06-12T14:07:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

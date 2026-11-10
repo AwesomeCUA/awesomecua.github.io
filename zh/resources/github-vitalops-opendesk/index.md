@@ -1,3 +1,11 @@
+---
+title: "OpenDesk · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vitalops-opendesk/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # OpenDesk
 
 计算机使用 MCP 服务器及 Python、TypeScript SDK，为智能体提供 Set-of-Marks 截图、基于无障碍信息的 UI 操作、鼠标、键盘、OCR、CDP 浏览器控制和本地或配对设备上的工作流重放。

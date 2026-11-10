@@ -1,3 +1,11 @@
+---
+title: "Workday HCM Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-workday-hcm-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Workday HCM Browser Automation
 
 面向 Workday HCM 的浏览器自动化脚手架，可通过 Puppeteer 或 Anchor Browser 在应用界面执行人事与薪资流程。

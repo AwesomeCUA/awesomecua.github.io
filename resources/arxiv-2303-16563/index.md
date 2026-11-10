@@ -1,3 +1,11 @@
+---
+title: "Skill Reinforcement Learning and Planning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-16563/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks
 
 Status: excluded from the active CUA catalog after scope review.

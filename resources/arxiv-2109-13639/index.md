@@ -1,3 +1,11 @@
+---
+title: "Quantum Computation Using Action Variables | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2109-13639/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum Computation Using Action Variables
 
 Status: excluded from the active CUA catalog after scope review.

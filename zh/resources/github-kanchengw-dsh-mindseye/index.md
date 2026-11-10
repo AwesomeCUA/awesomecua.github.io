@@ -1,3 +1,11 @@
+---
+title: "MindsEye (dsh-mindseye) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kanchengw-dsh-mindseye/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MindsEye (dsh-mindseye)
 
 面向 DeepSeek Harness 上纯文本模型的视觉插件，支持交互式检查图像和 UI 截图。

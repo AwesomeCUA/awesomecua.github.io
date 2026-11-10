@@ -1,3 +1,11 @@
+---
+title: "WebOperator Experiments · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mahirlabibdihan-weboperator-experiments/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # WebOperator Experiments
 
 可浏览的轨迹查看器展示 WebOperator 在 WebArena 和 WebArena-lite 上的任务过程，截图来自关联的 Hugging Face 数据集。

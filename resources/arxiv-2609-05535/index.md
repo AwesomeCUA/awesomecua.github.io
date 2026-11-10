@@ -1,3 +1,11 @@
+---
+title: "Beyond the Verdict: Evidence-Aligned… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-05535/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails
 
 Introduces Mind2Web-Injection, a benchmark for evaluating web-agent guardrail decisions on instruction-screenshot pairs using evidence boxes and image-side counterfactuals.
@@ -26,6 +34,18 @@ Suyoung Lee, Myungsub Choi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-05535/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-05535/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_05535,
+  title = {{Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails}},
+  author = {{Suyoung Lee} and {Myungsub Choi}},
+  year = {2026},
+  eprint = {2609.05535v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.05535v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T07:03:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

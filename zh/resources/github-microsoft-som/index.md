@@ -1,3 +1,11 @@
+---
+title: "Set of Mark · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-som/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # Set of Mark
 
 视觉提示工具箱，为图像区域添加标记，供多模态引用和定位使用，适用场景包括 GUI 应用。

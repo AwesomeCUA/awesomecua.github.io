@@ -1,3 +1,11 @@
+---
+title: "MCP Session Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-t3ratech-mcp-session-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP Session Bridge
 
 Model Context Protocol 服务器，可操作用户已经登录的浏览器会话。

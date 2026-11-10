@@ -1,3 +1,11 @@
+---
+title: "Drover · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-om-khode-drover/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Drover
 
 Chrome 扩展和本地 CLI，使 AI 智能体能够操控用户已打开并已登录的浏览器窗口。

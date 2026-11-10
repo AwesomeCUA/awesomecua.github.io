@@ -1,3 +1,11 @@
+---
+title: "Deskwright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tristanmuzzu-deskwright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Deskwright
 
 Deskwright 是面向 AI 智能体的跨平台桌面自动化工具包，结合操作系统无障碍树、OCR 回退机制和输入控制。

@@ -1,3 +1,11 @@
+---
+title: "Integrating Artificial Intelligence into… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-14567/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Integrating Artificial Intelligence into Operating Systems: A Survey on Techniques, Applications, and Future Directions
 
 Bibliographic record for Integrating Artificial Intelligence into Operating Systems: A Survey on Techniques, Applications, and Future Directions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yifan Zhang, Xinkui Zhao, Ziying Li, Guanjie Cheng, Jianwei Yin, Lufei Zhang, Zu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-14567/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-14567/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_14567,
+  title = {{Integrating Artificial Intelligence into Operating Systems: A Survey on Techniques, Applications, and Future Directions}},
+  author = {{Yifan Zhang} and {Xinkui Zhao} and {Ziying Li} and {Guanjie Cheng} and {Jianwei Yin} and {Lufei Zhang} and {Zuoning Chen}},
+  year = {2024},
+  eprint = {2407.14567v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.14567v3},
+  note = {First published: 2024-07-19; Recorded arXiv version: v3; Recorded version updated: 2025-11-11T13:07:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

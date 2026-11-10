@@ -1,3 +1,11 @@
+---
+title: "Amazon Nova Act Human Intervention Service · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-human-intervention/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Amazon Nova Act Human Intervention Service
 
 一套 AWS 参考部署，为 Nova Act 浏览器工作流加入审批请求和实时界面接管，附带 Python 客户端 SDK 和 CDK 堆栈。

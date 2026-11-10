@@ -1,3 +1,11 @@
+---
+title: "UIShift-7B-2K · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0dcc389cc2b1b15fb081/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # UIShift-7B-2K
 
 UIShift-7B 是 GUI-Shift 的初版模型：基于 Qwen2.5-VL，使用 GRPO 在 2K 条 AndroidControl 样本上训练，推断从一张截图转到下一张截图的动作。

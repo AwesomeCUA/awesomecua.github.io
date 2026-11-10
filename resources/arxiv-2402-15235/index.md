@@ -1,3 +1,11 @@
+---
+title: "MACRec: a Multi-Agent Collaboration Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-15235/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MACRec: a Multi-Agent Collaboration Framework for Recommendation
 
 Status: excluded from the active CUA catalog after scope review.

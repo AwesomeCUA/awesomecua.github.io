@@ -1,3 +1,11 @@
+---
+title: "Product Demo Video Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Product Demo Video Skill
 
 Codex and Claude Agent Skill that drives live web products in a browser to record truth-linked walkthrough demo videos.

@@ -1,3 +1,11 @@
+---
+title: "OODRobustBench: a Benchmark and Large-Scale… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-12793/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OODRobustBench: a Benchmark and Large-Scale Analysis of Adversarial Robustness under Distribution Shift
 
 Status: excluded from the active CUA catalog after scope review.

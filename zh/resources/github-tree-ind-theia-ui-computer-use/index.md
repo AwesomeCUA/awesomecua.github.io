@@ -1,3 +1,11 @@
+---
+title: "THEIA Computer Use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # THEIA Computer Use
 
 THEIA（The Human Environment Intelligence Aperture）是面向 AI 智能体的视觉感知和 UI 计算机使用插件及框架。

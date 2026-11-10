@@ -1,3 +1,11 @@
+---
+title: "O-yuan (启原) v3.0 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-znfr60-o-yuan-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # O-yuan (启原) v3.0
 
 Cross-platform general-purpose agent equipped with 28+ built-in tools, multi-model deliberation, GUI automation, and persistent shell.

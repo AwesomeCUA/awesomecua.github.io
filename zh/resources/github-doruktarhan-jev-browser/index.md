@@ -1,3 +1,11 @@
+---
+title: "jev-browser (github.com/doruktarhan/jev-b… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-doruktarhan-jev-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # jev-browser
 
 jev-browser 是 Claude Code 技能和 CLI（jb），将多步网页导航委托给 Jev System-One 动作模型。

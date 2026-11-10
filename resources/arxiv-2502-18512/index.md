@@ -1,3 +1,11 @@
+---
+title: "FCoT-VL:Advancing Text-oriented Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-18512/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FCoT-VL:Advancing Text-oriented Large Vision-Language Models with Efficient Visual Token Compression
 
 Status: excluded from the active CUA catalog after scope review.

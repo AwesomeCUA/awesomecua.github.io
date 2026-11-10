@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act | AwesomeCUA"
+url: https://awesomecua.com/resources/github-squeezeailab-plan-and-act/
+updated: 2026-11-02
+type: framework
+lang: en
+---
+
 # Plan-and-Act
 
 A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.

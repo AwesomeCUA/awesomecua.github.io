@@ -1,3 +1,11 @@
+---
+title: "OpenJev-4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e592a1ff8bfcafcc7061/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpenJev-4B
 
 A local decision model that scores typed options for browser-agent operations and target elements. The release includes weights and reports browser-step evaluations.

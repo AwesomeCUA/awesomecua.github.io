@@ -1,3 +1,11 @@
+---
+title: "Window Calls | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ickyicky-window-calls/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Window Calls
 
 Window Calls is a GNOME extension that exposes desktop window information and controls through D-Bus, including commands to move, resize and activate windows.

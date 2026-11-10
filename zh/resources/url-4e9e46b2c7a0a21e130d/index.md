@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4e9e46b2c7a0a21e130d/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo3.1 9B
 
 H Company 的 Holo3.1 系列 9B 视觉语言模型检查点，面向网页、桌面和移动端计算机使用智能体，原生支持供智能体框架使用的函数调用。

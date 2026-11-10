@@ -1,3 +1,11 @@
+---
+title: "Spin Wave Computing using pre-recorded… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2108-00909/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Spin Wave Computing using pre-recorded magnetization patterns
 
 Status: excluded from the active CUA catalog after scope review.

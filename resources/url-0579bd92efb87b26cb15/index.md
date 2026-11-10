@@ -1,3 +1,11 @@
+---
+title: "GUI Grounding for Computer-Use Agents: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/
+updated: 2026-11-09
+type: survey
+lang: en
+---
+
 # GUI Grounding for Computer-Use Agents: A Survey
 
 A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
@@ -26,6 +34,19 @@ Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, 
 
 - BibTeX: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/citation.csl.json
+
+```bibtex
+@misc{cua_bd8e6b450b27a7838238cd88,
+  title = {{GUI Grounding for Computer-Use Agents: A Survey}},
+  author = {{Lizheng Zu} and {Ke Huang} and {Gang Xu} and {Jingfan Fan} and {Baoyuan Wu} and {Shengfeng He} and {Hehe Fan} and {Xiangyu Xu} and {Chun Li} and {Yanshan Li} and {Shihui Ying} and {Junchi Yan} and {Bingyi Jing} and {Ming Li} and {Zheng Zhu}},
+  year = {2026},
+  month = nov,
+  publisher = {MDPI AG},
+  doi = {10.20944/preprints202611.0431.v1},
+  url = {https://doi.org/10.20944/preprints202611.0431.v1},
+  note = {Publication date: 2026-11-04.}
+}
+```
 
 ## Publication record
 

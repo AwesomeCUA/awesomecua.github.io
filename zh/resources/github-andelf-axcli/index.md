@@ -1,3 +1,11 @@
+---
+title: "axcli · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-andelf-axcli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # axcli
 
 axcli 是 Rust 命令行工具，通过原生 Accessibility API 查询、检查和自动操作 macOS 应用 UI。

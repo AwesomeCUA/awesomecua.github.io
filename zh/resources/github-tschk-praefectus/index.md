@@ -1,3 +1,11 @@
+---
+title: "Praefectus · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tschk-praefectus/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Praefectus
 
 用于经主机授权的后台计算机使用执行的策略中立 Rust 库和 JSON CLI。

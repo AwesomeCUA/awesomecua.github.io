@@ -1,3 +1,11 @@
+---
+title: "Photonic neuromorphic computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-08086/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Photonic neuromorphic computing using vertical cavity semiconductor lasers
 
 Status: excluded from the active CUA catalog after scope review.

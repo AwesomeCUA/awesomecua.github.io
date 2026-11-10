@@ -1,3 +1,11 @@
+---
+title: "[CLS] Token Tells Everything Needed for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-05819/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # [CLS] Token Tells Everything Needed for Training-free Efficient MLLMs
 
 Status: excluded from the active CUA catalog after scope review.

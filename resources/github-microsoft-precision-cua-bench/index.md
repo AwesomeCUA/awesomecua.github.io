@@ -1,3 +1,11 @@
+---
+title: "Precision CUA Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-precision-cua-bench/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # Precision CUA Bench
 
 Evaluation resources for pixel-precise cursor grounding in code editors.

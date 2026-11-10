@@ -1,3 +1,11 @@
+---
+title: "MaaFramework · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maaxyz-maaframework/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # MaaFramework
 
 MaaFramework 是用于黑盒测试的图像识别自动化框架，提供低代码任务流水线，以及集成接口和 API 文档。

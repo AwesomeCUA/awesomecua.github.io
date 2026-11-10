@@ -1,3 +1,11 @@
+---
+title: "THEIA Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # THEIA Computer Use
 
 THEIA (The Human Environment Intelligence Aperture) is a visual perception and UI computer-use plugin and framework for AI agents.

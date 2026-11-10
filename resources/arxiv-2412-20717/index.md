@@ -1,3 +1,11 @@
+---
+title: "Closing Speed Computation using Stereo Camera… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-20717/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Closing Speed Computation using Stereo Camera and Applications in Unsignalized T-Intersection
 
 Status: excluded from the active CUA catalog after scope review.

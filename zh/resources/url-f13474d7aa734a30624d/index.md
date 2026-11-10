@@ -1,3 +1,11 @@
+---
+title: "UI-R1 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f13474d7aa734a30624d/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # UI-R1 3B
 
 通过强化学习训练、用于预测 GUI 操作的 Qwen2.5-VL 检查点，并在移动端、桌面端和网页端定位任务上进行评估。

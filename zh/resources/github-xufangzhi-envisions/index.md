@@ -1,3 +1,11 @@
+---
+title: "ENVISIONS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xufangzhi-envisions/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ENVISIONS
 
 ENVISIONS 是由环境引导的神经符号自训练框架，面向符号推理和 WebShop 任务中的语言智能体。

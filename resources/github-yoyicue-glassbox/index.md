@@ -1,3 +1,11 @@
+---
+title: "glassbox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yoyicue-glassbox/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # glassbox
 
 glassbox is an iOS and iPadOS computer-use runtime that drives physical iPhones and iPads from screen observations and hardware/bridge control.

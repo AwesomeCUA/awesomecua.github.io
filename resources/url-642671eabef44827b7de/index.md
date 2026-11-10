@@ -1,3 +1,11 @@
+---
+title: "KDEGroup/UI-AGILE-3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-642671eabef44827b7de/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # KDEGroup/UI-AGILE-3B
 
 A released UI-AGILE checkpoint for GUI grounding, associated with reward design and cropping based resampling during training and image decomposition during inference.

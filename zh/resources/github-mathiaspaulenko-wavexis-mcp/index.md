@@ -1,3 +1,11 @@
+---
+title: "wavexis-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mathiaspaulenko-wavexis-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # wavexis-mcp
 
 纯 Python Model Context Protocol 服务器，通过 CDP 和 WebDriver BiDi 为 Chrome、Edge 和 Firefox 提供 220 个浏览器自动化工具。

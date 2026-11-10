@@ -1,3 +1,11 @@
+---
+title: "VG-RL-filter-dataset-hf | AwesomeCUA"
+url: https://awesomecua.com/resources/url-07fb5e963998782505a6/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # VG-RL-filter-dataset-hf
 
 A dataset released for the second stage of GUI-Spotlight training; its card says the authors used 18.5K samples for that stage.

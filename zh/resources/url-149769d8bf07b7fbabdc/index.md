@@ -1,3 +1,11 @@
+---
+title: "VisualWebBench dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-149769d8bf07b7fbabdc/
+updated: 2026-11-02
+type: dataset
+lang: zh-CN
+---
+
 # VisualWebBench dataset
 
 VisualWebBench 的 Hugging Face 数据集发布版本，涵盖视觉网页理解、OCR、元素定位和动作预测的七项任务。

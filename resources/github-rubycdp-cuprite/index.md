@@ -1,3 +1,11 @@
+---
+title: "Cuprite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rubycdp-cuprite/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Cuprite
 
 Ruby driver that runs Capybara tests in headless Chrome or Chromium through Ferrum over the DevTools Protocol, with device emulation, URL filtering and mouse control.

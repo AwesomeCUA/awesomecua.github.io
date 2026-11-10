@@ -1,3 +1,11 @@
+---
+title: "LLaVA-Mini: Efficient Image and Video Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-03895/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "AutoWechat | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # AutoWechat
 
 A simulated WeChat Android app from the AppSim-Bench suite, with chat lists, group chats, contacts and Moments posts backed by local JSON data for AI automation tests.

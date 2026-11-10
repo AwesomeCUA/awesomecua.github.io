@@ -1,3 +1,11 @@
+---
+title: "RICO-WidgetCaptioning · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-013bb9256ca6ad5188be/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # RICO-WidgetCaptioning
 
 移动界面数据集，将 RICO 截图及控件区域与人工描述配对，并提供视图层级以及训练、验证和测试数据划分。

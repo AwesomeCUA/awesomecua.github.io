@@ -1,3 +1,11 @@
+---
+title: "Hermes login-bridge Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kfastov-hermes-plugin-login-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hermes login-bridge Plugin
 
 Hermes Agent 插件，可暂时将智能体的浏览器会话交给人类操作员完成登录。

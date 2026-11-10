@@ -1,12 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 15 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/15/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 15 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/15/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Human Browser Copilot](https://awesomecua.com/zh/resources/github-officiallemmy254-droid-human-browser-copilot/)
-- [Human-Browser](https://awesomecua.com/zh/resources/github-hterzia-human-browser/)
-- [HumanCursor](https://awesomecua.com/zh/resources/github-riflosnake-humancursor/)
 - [HumanHands](https://awesomecua.com/zh/resources/github-thispc-humanhands/)
 - [Hunch MCP](https://awesomecua.com/zh/resources/github-prithviseran-hunch-mcp/)
 - [Hunter (Autonomous Job-Search Agent)](https://awesomecua.com/zh/resources/github-lodelux-hunter-public/)
@@ -64,3 +69,6 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/15/
 - [Kernel](https://awesomecua.com/zh/resources/github-kernel-kernel-images/)
 - [Kernel Claude Computer Use Loop](https://awesomecua.com/zh/resources/github-kernel-claude-cu-loop-sample/)
 - [Kernel CLI](https://awesomecua.com/zh/resources/github-onkernel-cli/)
+- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
+- [Kimi Computer Use Bridge](https://awesomecua.com/zh/resources/github-songkeys-kimi-computer-use/)
+- [Kimi Computer Use Lab](https://awesomecua.com/zh/resources/github-hqhq1025-kimi-computer-use-lab/)

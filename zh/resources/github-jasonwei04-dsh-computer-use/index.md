@@ -1,3 +1,11 @@
+---
+title: "JasonWei04 dsh-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jasonwei04-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # JasonWei04 dsh-computer-use
 
 为 DeepSeek Harness 中的纯文本 LLM 提供桌面屏幕感知及鼠标、键盘控制能力。

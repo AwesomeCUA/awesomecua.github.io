@@ -1,3 +1,11 @@
+---
+title: "Automa · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-automaapp-automa/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Automa
 
 Automa 是一款浏览器扩展，可通过连接功能块构建自动化流程，用于填写表单、重复执行任务、截取屏幕截图并按计划运行。

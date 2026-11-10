@@ -1,3 +1,11 @@
+---
+title: "ADP Workforce Now Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ADP Workforce Now Browser Automation
 
 用于 ADP Workforce Now 的浏览器自动化脚手架，提供薪资报表、工资单导出、员工资料更新和税务表单下载等操作。

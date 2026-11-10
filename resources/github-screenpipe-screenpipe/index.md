@@ -1,3 +1,11 @@
+---
+title: "Screenpipe | AwesomeCUA"
+url: https://awesomecua.com/resources/github-screenpipe-screenpipe/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Screenpipe
 
 Screenpipe continuously captures desktop screen text via accessibility/OCR and audio transcripts into a local database for AI agents.

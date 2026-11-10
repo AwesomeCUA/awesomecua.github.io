@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 22 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/22/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 22
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/22/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Market Basket Agent](https://awesomecua.com/resources/github-0xyene-market-basket-agent/)
-- [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/)
 - [MatthewAlexOng Agent Bridge](https://awesomecua.com/resources/github-matthewalexong-agent-bridge/)
 - [MAWR (Machine-Aware Web Runtime)](https://awesomecua.com/resources/github-iasolutionorg-mawr/)
 - [MCP Browser (macOS WKWebView)](https://awesomecua.com/resources/github-brainfuel-mcp-browser/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [NaviFlow](https://awesomecua.com/resources/github-marc-ing-navi-flow/)
 - [NekoPilot](https://awesomecua.com/resources/github-skyaerope-nekopilot/)
 - [nekoro-browser](https://awesomecua.com/resources/github-zeshuochen-nekoro-browser/)
+- [Nell (Open Source Instinct)](https://awesomecua.com/resources/github-iabdulwasey-nell/)
+- [nemosr dsh-personal-plugins](https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/)

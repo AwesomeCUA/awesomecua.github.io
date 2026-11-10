@@ -1,3 +1,11 @@
+---
+title: "AndroidViewClient | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dtmilano-androidviewclient/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # AndroidViewClient
 
 A Python Android UI automation tool that creates reusable tests and exposes view-based, gesture and device controls to AI assistants through an MCP server.

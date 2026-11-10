@@ -1,3 +1,11 @@
+---
+title: "Browser Automation Benchmark (Python vs Rust) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Browser Automation Benchmark (Python vs Rust)
 
 Benchmarks Python Playwright, Rust playwright-rs, and chromiumoxide on headless browser startup, navigation, and screenshot latency.

@@ -1,3 +1,11 @@
+---
+title: "Optimizing Electronic Structure Simulations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2102-07045/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Optimizing Electronic Structure Simulations on a Trapped-ion Quantum Computer using Problem Decomposition
 
 Status: excluded from the active CUA catalog after scope review.

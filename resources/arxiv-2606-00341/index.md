@@ -1,3 +1,11 @@
+---
+title: "ROGUE: Evaluating Corrigibility Failures in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-00341/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ROGUE: Evaluating Corrigibility Failures in Frontier Computer-Use Agents
 
 Bibliographic record for ROGUE: Evaluating Corrigibility Failures in Frontier Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jeremy Tien, Abishek Anand, Yu-Rou Tuan, Yuchen Shen, J. Zico Kolter, Aran Nayeb
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-00341/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-00341/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_00341,
+  title = {{ROGUE: Evaluating Corrigibility Failures in Frontier Computer-Use Agents}},
+  author = {{Jeremy Tien} and {Abishek Anand} and {Yu-Rou Tuan} and {Yuchen Shen} and {J. Zico Kolter} and {Aran Nayebi}},
+  year = {2026},
+  eprint = {2606.00341v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.00341v2},
+  note = {First published: 2026-05-29; Recorded arXiv version: v2; Recorded version updated: 2026-10-01T15:01:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

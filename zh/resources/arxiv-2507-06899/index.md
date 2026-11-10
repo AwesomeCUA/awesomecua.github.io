@@ -1,3 +1,11 @@
+---
+title: "VisualTrap: A Stealthy Backdoor Attack… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-06899/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation
 
 研究即使任务计划正确仍会使 GUI 视觉定位偏移的后门攻击；VisualTrap 评估受污染的定位训练是否会迁移到下游任务，以及网页、移动端和桌面端界面。
@@ -27,6 +35,18 @@ Ziang Ye, Yang Zhang, Wentao Shi, Xiaoyu You, Fuli Feng, Tat-Seng Chua
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-06899/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-06899/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_06899,
+  title = {{VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation}},
+  author = {{Ziang Ye} and {Yang Zhang} and {Wentao Shi} and {Xiaoyu You} and {Fuli Feng} and {Tat-Seng Chua}},
+  year = {2025},
+  eprint = {2507.06899v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.06899v2},
+  note = {First published: 2025-07-09; Recorded arXiv version: v2; Recorded version updated: 2025-09-24T14:33:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

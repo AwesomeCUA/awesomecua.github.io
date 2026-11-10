@@ -1,3 +1,11 @@
+---
+title: "Teach it to stop, not just to click | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-17136/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Teach it to stop, not just to click
 
 Studies verifier-guided repair of a 35B computer-use agent across five environments, examining variation across runs and data draws in done detection, GUI clicks, and field entry.
@@ -26,6 +34,18 @@ Barada Sahu, Shivesh Pandey
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-17136/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-17136/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_17136,
+  title = {{Teach it to stop, not just to click}},
+  author = {{Barada Sahu} and {Shivesh Pandey}},
+  year = {2026},
+  eprint = {2607.17136v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.17136v1},
+  note = {First published: 2026-07-19; Recorded arXiv version: v1; Recorded version updated: 2026-07-19T08:46:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

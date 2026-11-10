@@ -1,3 +1,11 @@
+---
+title: "Android-Skill-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiru0834-eng-android-skill-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Android-Skill-Agent
 
 Android-Skill-Agent extracts demonstration-guided, parameterized operational skills with accessibility-tree verification for Android apps.

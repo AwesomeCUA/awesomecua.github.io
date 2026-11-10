@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B-Classifieds | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b7ccf7acb2e9d8a11853/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Dreamer-7B-Classifieds
 
 Dreamer-7B-Classifieds is a WebDreamer checkpoint for the Classifieds web domain. It supports planning by simulating the results of candidate actions.

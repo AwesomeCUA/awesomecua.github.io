@@ -1,3 +1,11 @@
+---
+title: "Chrome Actuator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlreon-chrome-actuator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome Actuator
 
 浏览器辅助工具，让 Grok 和其他 AI 智能体操控已打开的 Chrome 窗口。

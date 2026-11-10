@@ -1,3 +1,11 @@
+---
+title: "typesafe-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # typesafe-computer-use
 
 Computer-use loop that reads the screen with OCR and accessibility labels, has the hosted TypeSafe classifier choose each next action with a confidence, and calls a writer model only for free text.

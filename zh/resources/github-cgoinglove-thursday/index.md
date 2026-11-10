@@ -1,3 +1,11 @@
+---
+title: "Thursday (github.com/cgoinglove/thursday) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cgoinglove-thursday/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Thursday
 
 Thursday 是语音驱动的计算机助手，将后台网页浏览和桌面自动化任务委派给 Playwright 子智能体。

@@ -1,3 +1,11 @@
+---
+title: "OSUniverse · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentsea-osuniverse/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # OSUniverse
 
 OSUniverse 是面向任务的桌面评测基准，用于评测视觉驱动的多模态 GUI 导航智能体在操作系统应用中的表现。

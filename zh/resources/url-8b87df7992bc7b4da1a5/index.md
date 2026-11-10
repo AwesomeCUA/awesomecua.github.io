@@ -1,3 +1,11 @@
+---
+title: "Trace2Ground: Scenario, Disambiguation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8b87df7992bc7b4da1a5/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding
 
 Trace2Ground 从 HTML/DOM 元素和模拟交互轨迹构建网页 GUI 定位数据集，评估场景描述、重名标签和关系描述指令。
@@ -27,6 +35,20 @@ Ruozhen He, Zhongnan Qu, Sheng Zhang, Mesut Erhan Unal, Zhuowen Tu, Srikar Appal
 
 - BibTeX：https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/citation.csl.json
+
+```bibtex
+@inproceedings{cua_ba131fe36bc3ac866979037c,
+  title = {{Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding}},
+  author = {{Ruozhen He} and {Zhongnan Qu} and {Sheng Zhang} and {Mesut Erhan Unal} and {Zhuowen Tu} and {Srikar Appalaraju} and {Jianbo Yuan} and {Shabnam Ghadar} and {Haofu Liao}},
+  year = {2026},
+  booktitle = {Proceedings of the Second Workshop for REsearch on Agent Language Models (REALM 2026)},
+  publisher = {Association for Computational Linguistics},
+  pages = {1444-1470},
+  doi = {10.18653/2026.realm-1.100},
+  url = {https://aclanthology.org/2026.realm-1.100},
+  note = {Publication date: 2026.}
+}
+```
 
 ## 发表记录
 

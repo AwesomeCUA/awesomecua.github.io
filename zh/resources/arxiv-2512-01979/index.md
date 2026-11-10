@@ -1,3 +1,11 @@
+---
+title: "Chain-of-Ground: Improving GUI Grounding… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-01979/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback
 
 Chain-of-Ground 通过迭代视觉推理和参照反馈，在无需额外训练的情况下改进 GUI 定位。论文在 ScreenSpot-Pro 上评估，并提出 TPanel-UI，以考察视觉失真条件下工业控制面板的定位能力。
@@ -27,6 +35,18 @@ Aiden Yiliu Li, Bizhi Yu, Daoan Lei, Tianhe Ren, Shilong Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-01979/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-01979/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_01979,
+  title = {{Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback}},
+  author = {{Aiden Yiliu Li} and {Bizhi Yu} and {Daoan Lei} and {Tianhe Ren} and {Shilong Liu}},
+  year = {2025},
+  eprint = {2512.01979v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.01979v1},
+  note = {First published: 2025-12-01; Recorded arXiv version: v1; Recorded version updated: 2025-12-01T18:37:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

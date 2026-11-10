@@ -1,3 +1,11 @@
+---
+title: "Screen Annotation · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-datasets-screen-annotation/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Screen Annotation
 
 Google Research 发布的 ScreenAI Screen Annotation 数据；训练、验证和测试 CSV 按类型、边界框坐标、屏幕文字和图像说明描述 Rico 移动端界面元素。

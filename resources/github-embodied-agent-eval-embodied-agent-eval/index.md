@@ -1,3 +1,11 @@
+---
+title: "Embodied Agent Interface (EAI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Embodied Agent Interface (EAI)
 
 Embodied Agent Interface (EAI) benchmarks LLMs across goal interpretation, subgoal decomposition, action sequencing, and transition modeling.

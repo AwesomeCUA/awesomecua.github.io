@@ -1,3 +1,11 @@
+---
+title: "agent-gauntlet-example-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-konuktor-agent-gauntlet-example-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # agent-gauntlet-example-agent
 
 Compact single-file reference browser agent designed to run inside a Solari Sandbox under AgentGauntlet evaluation.

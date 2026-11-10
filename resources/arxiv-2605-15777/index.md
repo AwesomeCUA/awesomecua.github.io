@@ -1,3 +1,11 @@
+---
+title: "SaaS-Bench: Can Computer-Use Agents Leverage… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-15777/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?
 
 SaaS-Bench evaluates browser agents on professional workflows across self-hosted applications. Weighted checkpoints measure task completion and partial progress, with application-state checks and configured content judges documented in the official harness.
@@ -26,6 +34,18 @@ Kean Shi, Zihang Li, Tianyi Ma, Zengji Tu, Jialong Wu, Xinbo Xu, Qingyao Yang, R
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-15777/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-15777/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15777,
+  title = {{SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?}},
+  author = {{Kean Shi} and {Zihang Li} and {Tianyi Ma} and {Zengji Tu} and {Jialong Wu} and {Xinbo Xu} and {Qingyao Yang} and {Ruoyu Wu} and {Weichu Xie} and {Ming Wu} and {Jason Zeng} and {Michael Heinrich} and {Elvis Zhang} and {Liang Chen} and {Kuan Li} and {Baobao Chang}},
+  year = {2026},
+  eprint = {2605.15777v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15777v2},
+  note = {First published: 2026-05-15; Recorded arXiv version: v2; Recorded version updated: 2026-05-24T16:35:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

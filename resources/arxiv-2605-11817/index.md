@@ -1,3 +1,11 @@
+---
+title: "See What Matters: Differentiable Grid Sample… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-11817/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model
 
 Status: excluded from the active CUA catalog after scope review.

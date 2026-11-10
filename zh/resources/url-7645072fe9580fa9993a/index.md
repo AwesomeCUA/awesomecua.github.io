@@ -1,3 +1,11 @@
+---
+title: "Muse-Glimmer-30B-GUI-Grounding-Fast · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7645072fe9580fa9993a/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Muse-Glimmer-30B-GUI-Grounding-Fast
 
 基于 Muse-Glimmer-30B 的 LoRA 适配器，根据截图和指令输出界面元素的边界框，示例涵盖桌面、移动端和网页界面。

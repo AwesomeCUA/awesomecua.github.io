@@ -1,3 +1,11 @@
+---
+title: "Lom Desktop (麓鸣) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rfdiosuao-lom-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Lom Desktop (麓鸣)
 
 Lom 是开源的多智能体工作空间，可协调桌面编码智能体与跨设备的 Android 手机任务执行。

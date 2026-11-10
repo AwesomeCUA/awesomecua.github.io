@@ -1,3 +1,11 @@
+---
+title: "Model Transferability With Responsive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2107-05911/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Model Transferability With Responsive Decision Subjects
 
 Status: excluded from the active CUA catalog after scope review.

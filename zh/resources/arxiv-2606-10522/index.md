@@ -1,3 +1,11 @@
+---
+title: "GUI-AC: Enhancing Continual Learning in… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-10522/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # GUI-AC: Enhancing Continual Learning in GUI Agents
 
 GUI-AC 在持续强化微调中利用定位确定性调整优势权重和策略裁剪边界，旨在抑制有噪声的置信度更新，同时在 GUI 领域和分辨率变化时保留探索能力。
@@ -27,6 +35,18 @@ Can Lin, Tao Feng, Hangjie Yuan, Dan Zhang, Yifan Zhu, Zhonghong Ou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-10522/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-10522/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_10522,
+  title = {{GUI-AC: Enhancing Continual Learning in GUI Agents}},
+  author = {{Can Lin} and {Tao Feng} and {Hangjie Yuan} and {Dan Zhang} and {Yifan Zhu} and {Zhonghong Ou}},
+  year = {2026},
+  eprint = {2606.10522v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.10522v2},
+  note = {First published: 2026-06-09; Recorded arXiv version: v2; Recorded version updated: 2026-07-06T06:23:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

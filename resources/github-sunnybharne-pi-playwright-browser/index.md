@@ -1,3 +1,11 @@
+---
+title: "pi-playwright-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sunnybharne-pi-playwright-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pi-playwright-browser
 
 Isolated Playwright Chromium browser tools for the Pi coding agent.

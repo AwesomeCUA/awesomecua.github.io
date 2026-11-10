@@ -1,3 +1,11 @@
+---
+title: "AGW-35B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-39e2a96f88ed3223ece9/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # AGW-35B
 
 A screenshot-based GUI action model fine-tuned on 79,266 synthetic interaction examples. It uses a task, current screen and recent actions to predict structured computer-use calls.

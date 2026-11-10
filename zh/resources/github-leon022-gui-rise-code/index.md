@@ -1,3 +1,11 @@
+---
+title: "GUI-Rise · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leon022-gui-rise-code/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # GUI-Rise
 
 图形界面导航智能体，结合逐步推理与历史摘要；代码仓库提供监督训练、强化学习及评测说明。

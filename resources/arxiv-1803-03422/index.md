@@ -1,3 +1,11 @@
+---
+title: "MOSQUITO: Covert Ultrasonic Transmissions… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1803-03422/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MOSQUITO: Covert Ultrasonic Transmissions between Two Air-Gapped Computers using Speaker-to-Speaker Communication
 
 Status: excluded from the active CUA catalog after scope review.

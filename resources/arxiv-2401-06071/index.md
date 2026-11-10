@@ -1,3 +1,11 @@
+---
+title: "GroundingGPT:Language Enhanced Multi-modal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-06071/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GroundingGPT:Language Enhanced Multi-modal Grounding Model
 
 Bibliographic record for GroundingGPT:Language Enhanced Multi-modal Grounding Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhaowei Li, Qi Xu, Dong Zhang, Hang Song, Yiqing Cai, Qi Qi, Ran Zhou, Junting P
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-06071/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-06071/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_06071,
+  title = {{GroundingGPT:Language Enhanced Multi-modal Grounding Model}},
+  author = {{Zhaowei Li} and {Qi Xu} and {Dong Zhang} and {Hang Song} and {Yiqing Cai} and {Qi Qi} and {Ran Zhou} and {Junting Pan} and {Zefeng Li} and {Van Tu Vu} and {Zhida Huang} and {Tao Wang}},
+  year = {2024},
+  eprint = {2401.06071v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.06071v5},
+  note = {First published: 2024-01-11; Recorded arXiv version: v5; Recorded version updated: 2024-03-05T14:36:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

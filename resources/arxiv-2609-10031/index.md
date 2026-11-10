@@ -1,3 +1,11 @@
+---
+title: "GraphDroid: Asynchronous LLM-Based Mobile App… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-10031/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment
 
 GraphDroid combines clustered memory of visited GUI states with asynchronous test-intent generation. A hybrid executor reserves LLM calls for complex intents and uses heuristics for simpler ones, evaluated through Android app coverage, bug discovery and crash detection.
@@ -26,6 +34,18 @@ Xiaolei Li, Jialun Cao, Zhijian Hou, Yuzhi Zhao, Yepang Liu, Shing-Chi Cheung
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-10031/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-10031/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_10031,
+  title = {{GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment}},
+  author = {{Xiaolei Li} and {Jialun Cao} and {Zhijian Hou} and {Yuzhi Zhao} and {Yepang Liu} and {Shing-Chi Cheung}},
+  year = {2026},
+  eprint = {2609.10031v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.10031v1},
+  note = {First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T11:04:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

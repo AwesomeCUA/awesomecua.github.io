@@ -1,3 +1,11 @@
+---
+title: "Replay (Teach-by-Demonstration) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-misb74-replay/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Replay (Teach-by-Demonstration)
 
 Converts human screen demonstrations of real desktop and web work into verifiable, repeatable AI agent workflows.

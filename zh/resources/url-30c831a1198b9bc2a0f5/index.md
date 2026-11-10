@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Base 4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-30c831a1198b9bc2a0f5/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # OS-Atlas Base 4B
 
 OS-Atlas 基础检查点，约有 4.1B 个参数，由 InternVL2-4B 微调而来，通过自定义 InternVL 聊天模型代码在 Transformers 中加载。

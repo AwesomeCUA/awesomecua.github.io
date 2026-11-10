@@ -1,3 +1,11 @@
+---
+title: "alohajet CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alohabrowser-alohajet-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # alohajet CLI
 
 用于通过稳定元素引用操作真实浏览器的官方 Aloha Browser CLI 和 MCP 服务器。

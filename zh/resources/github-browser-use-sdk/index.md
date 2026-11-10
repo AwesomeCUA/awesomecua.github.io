@@ -1,3 +1,11 @@
+---
+title: "Browser Use SDKs · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-sdk/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Browser Use SDKs
 
 这套 Python 和 TypeScript SDK 可将应用接入 Browser Use Cloud 智能体与托管浏览器，用于执行浏览器任务和控制浏览器。

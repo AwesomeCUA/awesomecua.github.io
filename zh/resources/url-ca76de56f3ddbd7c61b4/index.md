@@ -1,3 +1,11 @@
+---
+title: "UINav: A Practical… (ca76de56f3ddbd7c61b4) · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ca76de56f3ddbd7c61b4/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # UINav: A Practical Approach to Train On-Device Automation Agents
 
 通过示范训练小型 Android 自动化智能体，结合带状态检查的宏动作、示范增强，以及预测任务完成情况以指导后续示范的评判模型。
@@ -27,6 +35,21 @@ Wei Li, Fu-Lin Hsu, William Bishop, Folawiyo Campbell-Ajala, Max Lin, Oriana Riv
 
 - BibTeX：https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/citation.csl.json
+
+```bibtex
+@inproceedings{cua_65dc6136b64f56a83f2f5891,
+  title = {{UINav: A Practical Approach to Train On-Device Automation Agents}},
+  author = {{Wei Li} and {Fu-Lin Hsu} and {William Bishop} and {Folawiyo Campbell-Ajala} and {Max Lin} and {Oriana Riva}},
+  year = {2024},
+  month = jun,
+  booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)},
+  publisher = {Association for Computational Linguistics},
+  pages = {36-51},
+  doi = {10.18653/v1/2024.naacl-industry.4},
+  url = {https://aclanthology.org/2024.naacl-industry.4/},
+  note = {Publication date: 2024-06.}
+}
+```
 
 ## 发表记录
 

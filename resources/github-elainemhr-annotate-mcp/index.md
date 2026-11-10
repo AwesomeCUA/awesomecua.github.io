@@ -1,3 +1,11 @@
+---
+title: "annotate-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-elainemhr-annotate-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # annotate-mcp
 
 Model Context Protocol server that injects a drawing and comment overlay into live webpages so coding agents can read visual markup.

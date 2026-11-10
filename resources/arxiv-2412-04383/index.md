@@ -1,3 +1,11 @@
+---
+title: "SeeGround: See and Ground for Zero-Shot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-04383/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

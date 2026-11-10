@@ -1,3 +1,11 @@
+---
+title: "Shaping the Narrative Arc: An… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1901-11528/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Diwall · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ronandavalan-diwall/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Diwall
 
 Diwall 向语言模型提供截图、编号的网页元素和无障碍数据以执行浏览器操作，并保留截图供人查看。

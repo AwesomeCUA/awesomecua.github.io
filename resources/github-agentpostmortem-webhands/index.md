@@ -1,3 +1,11 @@
+---
+title: "Webhands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentpostmortem-webhands/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Webhands
 
 Webhands is a browser computer-use agent that automates seller and logistics web dashboards lacking APIs via Cloudflare Browser Rendering.

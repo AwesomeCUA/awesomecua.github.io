@@ -1,3 +1,11 @@
+---
+title: "rs_peekaboo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-undivisible-rs-peekaboo/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # rs_peekaboo
 
 Rust-native cross-platform computer-use CLI and library for desktop window inspection, screenshots, and input automation.

@@ -1,3 +1,11 @@
+---
+title: "EvoGUI: An Evolution-Aware Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-17050/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding
 
 EvoGUI 从记录的 GUI 轨迹构造时序排序、逆向操作与取值预测、后继状态辨别等测试。这个源自 Web 场景的基准将状态转换理解与端到端任务成功所需的其他能力区分开。
@@ -27,6 +35,18 @@ Yaohan Yang, Minglei Shi, Borui Zhang, Jie Zhou, Jiwen Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-17050/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-17050/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_17050,
+  title = {{EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding}},
+  author = {{Yaohan Yang} and {Minglei Shi} and {Borui Zhang} and {Jie Zhou} and {Jiwen Lu}},
+  year = {2026},
+  eprint = {2607.17050v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.17050v1},
+  note = {First published: 2026-07-19; Recorded arXiv version: v1; Recorded version updated: 2026-07-19T03:29:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

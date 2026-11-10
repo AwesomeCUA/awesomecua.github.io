@@ -1,3 +1,11 @@
+---
+title: "aos (Agent Operating System CLI) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-muthuishere-aos/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # aos (Agent Operating System CLI)
 
 面向主机的统一 CLI 层，使 AI 智能体能够操控桌面应用和终端，而不抢占用户焦点。

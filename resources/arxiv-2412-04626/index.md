@@ -1,3 +1,11 @@
+---
+title: "BigDocs: An Open Dataset for Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-04626/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks
 
 BigDocs-7.5M provides multimodal document data, while BigDocs-Bench includes GUI reasoning and image-to-code tasks relevant to screen understanding.
@@ -26,6 +34,18 @@ Juan Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-04626/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-04626/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_04626,
+  title = {{BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks}},
+  author = {{Juan Rodriguez} and {Xiangru Jian} and {Siba Smarak Panigrahi} and {Tianyu Zhang} and {Aarash Feizi} and {Abhay Puri} and {Akshay Kalkunte} and {François Savard} and {Ahmed Masry} and {Shravan Nayak} and {Rabiul Awal} and {Mahsa Massoud} and {Amirhossein Abaskohi} and {Zichao Li} and {Suyuchen Wang} and {Pierre-André Noël} and {Mats Leon Richter} and {Saverio Vadacchino} and {Shubham Agarwal} and {Sanket Biswas} and {Sara Shanian} and {Ying Zhang} and {Noah Bolger} and {Kurt MacDonald} and {Simon Fauvel} and {Sathwik Tejaswi} and {Srinivas Sunkara} and {Joao Monteiro} and {Krishnamurthy DJ Dvijotham} and {Torsten Scholak} and {Nicolas Chapados} and {Sepideh Kharagani} and {Sean Hughes} and {M. Özsu} and {Siva Reddy} and {Marco Pedersoli} and {Yoshua Bengio} and {Christopher Pal} and {Issam Laradji} and {Spandana Gella} and {Perouz Taslakian} and {David Vazquez} and {Sai Rajeswar}},
+  year = {2024},
+  eprint = {2412.04626v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.04626v2},
+  note = {First published: 2024-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-03-17T16:32:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

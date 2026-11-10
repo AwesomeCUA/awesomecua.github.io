@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Agents as Judges for Generative… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-15567/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Computer-Use Agents as Judges for Generative User Interface
 
 AUI-Gym evaluates generated websites by having computer-use agents attempt tasks whose executability is checked programmatically. A feedback dashboard condenses navigation histories into visual summaries that a coding agent can use to revise an interface.
@@ -26,6 +34,18 @@ Kevin Qinghong Lin, Siyuan Hu, Linjie Li, Zhengyuan Yang, Lijuan Wang, Philip To
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-15567/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-15567/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_15567,
+  title = {{Computer-Use Agents as Judges for Generative User Interface}},
+  author = {{Kevin Qinghong Lin} and {Siyuan Hu} and {Linjie Li} and {Zhengyuan Yang} and {Lijuan Wang} and {Philip Torr} and {Mike Zheng Shou}},
+  year = {2025},
+  eprint = {2511.15567v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.15567v1},
+  note = {First published: 2025-11-19; Recorded arXiv version: v1; Recorded version updated: 2025-11-19T16:00:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

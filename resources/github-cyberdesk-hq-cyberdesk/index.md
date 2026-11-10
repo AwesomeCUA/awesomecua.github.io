@@ -1,3 +1,11 @@
+---
+title: "Cyberdesk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Cyberdesk
 
 Cyberdesk is an open-source virtual desktop orchestration platform and SDK for provisioning and controlling cloud desktop sandboxes for CUA.

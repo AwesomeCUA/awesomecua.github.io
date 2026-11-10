@@ -1,3 +1,11 @@
+---
+title: "GUIOdyssey: A Comprehensive Dataset for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-08451/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices
 
 Introduces annotated cross-application mobile trajectories and studies history-aware navigation over long task sequences.
@@ -26,6 +34,18 @@ Quanfeng Lu, Wenqi Shao, Zitao Liu, Lingxiao Du, Fanqing Meng, Boxuan Li, Botong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-08451/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-08451/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_08451,
+  title = {{GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices}},
+  author = {{Quanfeng Lu} and {Wenqi Shao} and {Zitao Liu} and {Lingxiao Du} and {Fanqing Meng} and {Boxuan Li} and {Botong Chen} and {Siyuan Huang} and {Kaipeng Zhang} and {Ping Luo}},
+  year = {2024},
+  eprint = {2406.08451v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.08451v2},
+  note = {First published: 2024-06-12; Recorded arXiv version: v2; Recorded version updated: 2025-08-01T03:37:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

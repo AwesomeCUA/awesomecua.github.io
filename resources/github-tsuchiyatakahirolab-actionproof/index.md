@@ -1,3 +1,11 @@
+---
+title: "ExactDelta (ActionProof) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # ExactDelta (ActionProof)
 
 Post-action state-delta verification harness for WebMCP browser agents that detects silent UI and state failures.

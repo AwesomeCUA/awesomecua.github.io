@@ -1,3 +1,11 @@
+---
+title: "GUI-Lens: Coarse-to-Fine Cropping for GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-03270/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs
 
 GUI-Lens uses OCR and detected interface components as coordinate references while a general-purpose VLM selects progressively enlarged screenshot crops. Instruction-conditioned checks constrain the crop and click proposals before mapping the final location back to the original screen.
@@ -26,6 +34,18 @@ Zichuan Fu, Shirong Wang, Wenlin Zhang, Guojing Li, Yimin Deng, Jingtong Gao, Ju
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-03270/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-03270/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_03270,
+  title = {{GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs}},
+  author = {{Zichuan Fu} and {Shirong Wang} and {Wenlin Zhang} and {Guojing Li} and {Yimin Deng} and {Jingtong Gao} and {Junjia Qi} and {Hanyu Yan} and {Yefeng Zheng} and {Xiaopeng Li} and {Wanyu Wang} and {Xian Wu} and {Xiangyu Zhao}},
+  year = {2026},
+  eprint = {2608.03270v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.03270v1},
+  note = {First published: 2026-08-04; Recorded arXiv version: v1; Recorded version updated: 2026-08-04T07:47:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

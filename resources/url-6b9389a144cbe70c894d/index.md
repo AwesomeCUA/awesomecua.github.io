@@ -1,3 +1,11 @@
+---
+title: "ShowUI-Narrator | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6b9389a144cbe70c894d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ShowUI-Narrator
 
 A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.

@@ -1,3 +1,11 @@
+---
+title: "Surfer 2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-efd78f56fcde1f4f05e5/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Surfer 2
 
 Surfer 2 is a computer-use agent for desktop, web and mobile tasks. Its orchestrator assigns subtasks while components handle visual grounding and execution.

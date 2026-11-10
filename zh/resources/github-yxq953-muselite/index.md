@@ -1,3 +1,11 @@
+---
+title: "MuseLite · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yxq953-muselite/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # MuseLite
 
 MuseLite 是以 Python 为核心的 Android AI 智能体工作空间，结合聊天、执行沙箱、浏览器自动化和定时任务。

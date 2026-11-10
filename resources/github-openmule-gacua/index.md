@@ -1,3 +1,11 @@
+---
+title: "GACUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openmule-gacua/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # GACUA
 
 GACUA is an out-of-the-box computer-use agent built on Gemini CLI that combines desktop screen control, browser automation, and shell tools.

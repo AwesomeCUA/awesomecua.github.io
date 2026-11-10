@@ -1,3 +1,11 @@
+---
+title: "Page Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alibaba-page-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Page Agent
 
 Page Agent 是 Alibaba 开发的页内 JavaScript GUI 智能体，通过 DOM 脱水处理，根据自然语言控制网页界面。

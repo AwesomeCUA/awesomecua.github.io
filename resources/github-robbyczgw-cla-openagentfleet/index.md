@@ -1,3 +1,11 @@
+---
+title: "OpenAgentFleet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenAgentFleet
 
 Local-first multi-agent desktop platform with named AI coworkers and a watchable Linux virtual desktop.

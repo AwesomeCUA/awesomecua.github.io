@@ -1,3 +1,11 @@
+---
+title: "InnerOS WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rafa-innerchispa-inneros-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # InnerOS WebMCP
 
 Capability-bounded WebMCP browser control surface for the InnerOS local AI runtime.

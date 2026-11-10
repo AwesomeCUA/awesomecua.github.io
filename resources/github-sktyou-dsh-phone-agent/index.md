@@ -1,3 +1,11 @@
+---
+title: "DSH Phone Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sktyou-dsh-phone-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DSH Phone Agent
 
 Controls Android phones over LAN via an on-device AccessibilityService app with local OCR, template matching, and GKD ad-skipping rules.

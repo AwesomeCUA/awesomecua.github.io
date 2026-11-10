@@ -1,3 +1,11 @@
+---
+title: "SpreadsheetBench: Towards Challenging Real… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-14991/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation
 
 SpreadsheetBench evaluates LLM spreadsheet manipulation with 912 questions from Excel forums and multiple spreadsheet files as test cases for each instruction.
@@ -26,6 +34,18 @@ Zeyao Ma, Bohan Zhang, Jing Zhang, Jifan Yu, Xiaokang Zhang, Xiaohan Zhang, Siji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-14991/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-14991/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_14991,
+  title = {{SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation}},
+  author = {{Zeyao Ma} and {Bohan Zhang} and {Jing Zhang} and {Jifan Yu} and {Xiaokang Zhang} and {Xiaohan Zhang} and {Sijia Luo} and {Xi Wang} and {Jie Tang}},
+  year = {2024},
+  eprint = {2406.14991v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.14991v2},
+  note = {First published: 2024-06-21; Recorded arXiv version: v2; Recorded version updated: 2024-10-17T07:23:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

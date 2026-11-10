@@ -1,3 +1,11 @@
+---
+title: "openadapt-retrieval | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-retrieval/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # openadapt-retrieval
 
 Archived retrieval tool that indexes GUI demonstrations from task text and screenshots, then finds similar examples through a Python API or CLI.

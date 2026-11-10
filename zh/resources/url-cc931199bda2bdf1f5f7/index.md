@@ -1,3 +1,11 @@
+---
+title: "POINTS-GUI-G 8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cc931199bda2bdf1f5f7/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # POINTS-GUI-G 8B
 
 专门用于界面定位的模型检查点，返回截图中指定元素的归一化点坐标。

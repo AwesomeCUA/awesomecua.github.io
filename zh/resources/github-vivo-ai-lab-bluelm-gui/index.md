@@ -1,3 +1,11 @@
+---
+title: "BlueLM-GUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vivo-ai-lab-bluelm-gui/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # BlueLM-GUI
 
 vivo AI Lab 发布的移动端 GUI 智能体研究成果，包括技术报告、基准数据和评估工具。

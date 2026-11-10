@@ -1,3 +1,11 @@
+---
+title: "Know, then Draw: A New Learning Paradigm for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37626/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Know, then Draw: A New Learning Paradigm for Visual Generation
 
 Bibliographic record for Know, then Draw: A New Learning Paradigm for Visual Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yucheng Mao, Chongjian Ge, Zhuowen Tu, Hao Tan, Hanwen Jiang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37626/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37626/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37626,
+  title = {{Know, then Draw: A New Learning Paradigm for Visual Generation}},
+  author = {{Yucheng Mao} and {Chongjian Ge} and {Zhuowen Tu} and {Hao Tan} and {Hanwen Jiang}},
+  year = {2026},
+  eprint = {2610.37626v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37626v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T17:50:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

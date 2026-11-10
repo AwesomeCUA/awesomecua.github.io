@@ -1,3 +1,11 @@
+---
+title: "PlayJev-0.8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b6a26f1b74d70fc783da/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # PlayJev-0.8B
 
 一个基于 Qwen3.5-0.8B-Base 微调的 0.8B 检查点，根据一帧渲染画面和候选动作列表在十款浏览器游戏中选择动作，经行为克隆和三轮 DAgger 训练。

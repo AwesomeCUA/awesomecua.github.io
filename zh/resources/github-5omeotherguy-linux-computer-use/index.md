@@ -1,3 +1,11 @@
+---
+title: "Linux CUA (5omeotherguy) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-5omeotherguy-linux-computer-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Linux CUA (5omeotherguy)
 
 面向计算机使用智能体的 Linux 桌面工具包，提供隔离的 X11 工作空间、窗口捕获和输入模拟。

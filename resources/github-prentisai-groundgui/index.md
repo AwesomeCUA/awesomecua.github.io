@@ -1,3 +1,11 @@
+---
+title: "GroundGUI training and evaluation code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prentisai-groundgui/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # GroundGUI training and evaluation code
 
 Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.

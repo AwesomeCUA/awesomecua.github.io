@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/learning/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体学习资源
 
 学习资源是用于构建和研究计算机使用智能体的课程、实践手册、教程、示例合集和精选列表。

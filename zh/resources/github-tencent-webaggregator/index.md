@@ -1,3 +1,11 @@
+---
+title: "WebAggregator · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-webaggregator/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # WebAggregator
 
 WebAggregator 是 Explore to Evolve 的代码：它通过智能体探索网址构建可验证的网页问答数据，用在浏览器中点击和输入的 smolagents 智能体采样轨迹，并运行评测。

@@ -1,3 +1,11 @@
+---
+title: "DeepDeck | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jo32-deepdeck/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DeepDeck
 
 macOS desktop workspace for authoring, testing, and reusing WebMCP browser tools with DeepSeek Harness.

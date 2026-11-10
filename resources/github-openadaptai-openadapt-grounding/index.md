@@ -1,3 +1,11 @@
+---
+title: "openadapt-grounding | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-grounding/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # openadapt-grounding
 
 An archived GUI element localization package that anchors targets to OCR text and stabilizes detections across frames, with optional model-based fallbacks.

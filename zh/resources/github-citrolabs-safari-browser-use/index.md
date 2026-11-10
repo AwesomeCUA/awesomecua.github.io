@@ -1,3 +1,11 @@
+---
+title: "safari-browser-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-citrolabs-safari-browser-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # safari-browser-use
 
 由 Apple Events 驱动的 Safari 26 浏览器自动化技能，供 Codex、Claude Code、Copilot 和 Cursor 使用，无需浏览器扩展。

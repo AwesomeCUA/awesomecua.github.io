@@ -1,3 +1,11 @@
+---
+title: "electron-driver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mesomya-electron-driver/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # electron-driver
 
 Model Context Protocol server that lets AI agents inspect, click, type, drag, and screenshot Electron desktop applications.

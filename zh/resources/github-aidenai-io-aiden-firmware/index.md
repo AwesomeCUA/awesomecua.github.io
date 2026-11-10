@@ -1,3 +1,11 @@
+---
+title: "Aico Link Firmware · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aidenai-io-aiden-firmware/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Aico Link Firmware
 
 Aico Link 固件运行一个智能体，通过 HDMI 采集查看手机或电脑画面，并通过 USB HID 发送输入。仓库包含硬件服务、智能体运行时和更新工具。

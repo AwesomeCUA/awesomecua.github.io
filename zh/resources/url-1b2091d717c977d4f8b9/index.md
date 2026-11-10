@@ -1,3 +1,11 @@
+---
+title: "AMEX dataset release · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1b2091d717c977d4f8b9/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # AMEX dataset release
 
 AMEX 官方 Hub 数据包含 Android 应用截图及交互元素定位、屏幕与元素功能标注，以及配有逐步 GUI 操作链的指令。

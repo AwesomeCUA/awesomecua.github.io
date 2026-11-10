@@ -1,3 +1,11 @@
+---
+title: "SE-GUI-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-00f5bfd8c7991012a183/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # SE-GUI-7B
 
 基于 Qwen2.5-VL 的 7B GUI 定位模型，在 3,018 条精选种子样本上使用 GRPO、稠密点奖励和注意力引导的自进化微调进行训练。

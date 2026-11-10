@@ -1,3 +1,11 @@
+---
+title: "Poison Once, Control Anywhere… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-13205/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents
 
 展示干净文本视觉后门攻击（VIBMA）：在保持文本指令不变的情况下，通过视觉触发器攻陷经过微调的 VLM 移动端智能体。
@@ -27,6 +35,18 @@ Xuan Wang, Siyuan Liang, Zhe Liu, Yi Yu, Aishan Liu, Yuliang Lu, Xitong Gao, Ee-
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-13205/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-13205/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_13205,
+  title = {{Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents}},
+  author = {{Xuan Wang} and {Siyuan Liang} and {Zhe Liu} and {Yi Yu} and {Aishan Liu} and {Yuliang Lu} and {Xitong Gao} and {Ee-Chien Chang}},
+  year = {2025},
+  eprint = {2506.13205v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.13205v6},
+  note = {First published: 2025-06-16; Recorded arXiv version: v6; Recorded version updated: 2025-09-05T14:19:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

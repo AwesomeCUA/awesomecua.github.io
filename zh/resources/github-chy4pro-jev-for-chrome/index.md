@@ -1,3 +1,11 @@
+---
+title: "Jev for Chrome · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chy4pro-jev-for-chrome/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Jev for Chrome
 
 Chrome 扩展智能体将可见页面控件的索引表发送给 TypeSafe Jev 决策模型，仅向小型文本模型请求待输入字符串，并通过 Chrome 调试器输入执行操作。

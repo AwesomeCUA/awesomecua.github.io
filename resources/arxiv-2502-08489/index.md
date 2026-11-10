@@ -1,3 +1,11 @@
+---
+title: "Salamandra Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-08489/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Salamandra Technical Report
 
 Status: excluded from the active CUA catalog after scope review.

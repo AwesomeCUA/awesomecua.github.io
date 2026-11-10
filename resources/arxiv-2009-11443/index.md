@@ -1,3 +1,11 @@
+---
+title: "Neurocoder: Learning General-Purpose… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2009-11443/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Neurocoder: Learning General-Purpose Computation Using Stored Neural Programs
 
 Status: excluded from the active CUA catalog after scope review.

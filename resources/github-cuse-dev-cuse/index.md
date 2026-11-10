@@ -1,3 +1,11 @@
+---
+title: "cuse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cuse-dev-cuse/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # cuse
 
 cuse is an open-source framework for building AI agents that control virtualized Linux desktops and browsers via display, mouse, and keyboard APIs.

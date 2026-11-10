@@ -1,3 +1,11 @@
+---
+title: "Ark Web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aebt01-ark-web/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Ark Web
 
 Manifest V3 Chrome extension and Node.js bridge server enabling AI agents to control the user's real browser.

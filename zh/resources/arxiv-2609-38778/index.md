@@ -1,3 +1,11 @@
+---
+title: "Action Conditioned Bisimulation For GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-38778/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Action Conditioned Bisimulation For GUI Agent Memory
 
 该研究定义 GUI 记忆合并规则：只有共同操作产生相符的结果和后继状态，两个状态才视为等价。该免训练方法替代基于观察相似性的合并，并在 MiniWoB++ 闭环交互中测试。
@@ -27,6 +35,18 @@ Hongbo Zhang, Liuyang Song, Quanquan Li, Daqian Yang, Yan Wen, Zhengtao Yao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-38778/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-38778/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38778,
+  title = {{Action Conditioned Bisimulation For GUI Agent Memory}},
+  author = {{Hongbo Zhang} and {Liuyang Song} and {Quanquan Li} and {Daqian Yang} and {Yan Wen} and {Zhengtao Yao}},
+  year = {2026},
+  eprint = {2609.38778v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38778v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T02:11:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

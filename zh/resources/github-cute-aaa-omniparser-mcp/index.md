@@ -1,3 +1,11 @@
+---
+title: "OmniParser MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cute-aaa-omniparser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OmniParser MCP Server
 
 OmniParser MCP Server 将 Microsoft OmniParser V2 封装为 Model Context Protocol 服务器，把截图转换为结构化 UI 元素。

@@ -1,3 +1,11 @@
+---
+title: "PlugMem: A Task-Agnostic Plugin Memory… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-03296/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents
 
 提出面向通用 LLM 智能体的知识图记忆模块 PlugMem；评估涵盖网页智能体任务、对话问答和知识检索。
@@ -27,6 +35,18 @@ Ke Yang, Zixi Chen, Xuan He, Jize Jiang, Michel Galley, Chenglong Wang, Jianfeng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-03296/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-03296/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_03296,
+  title = {{PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents}},
+  author = {{Ke Yang} and {Zixi Chen} and {Xuan He} and {Jize Jiang} and {Michel Galley} and {Chenglong Wang} and {Jianfeng Gao} and {Jiawei Han} and {ChengXiang Zhai}},
+  year = {2026},
+  eprint = {2603.03296v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.03296v1},
+  note = {First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T18:55:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

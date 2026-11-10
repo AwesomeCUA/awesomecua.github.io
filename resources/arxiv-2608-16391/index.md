@@ -1,3 +1,11 @@
+---
+title: "Ventor-QTest: Threat-Model-Driven… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-16391/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs
 
 Status: excluded from the active CUA catalog after scope review.

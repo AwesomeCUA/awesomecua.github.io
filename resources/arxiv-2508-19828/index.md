@@ -1,3 +1,11 @@
+---
+title: "Memory-R1: Enhancing Large Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-19828/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

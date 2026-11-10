@@ -1,3 +1,11 @@
+---
+title: "When Charts Deceive Web Agents: A Paired… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-12823/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks
 
 提出 MisVisAgentBench，一种可执行的成对基准：保持网页任务不变而改变图表证据，以追踪误导性可视化对智能体决策及后续动作的影响。
@@ -27,6 +35,18 @@ Yisheng Li, Dongming Han, Hongkun Pan, Bingcheng Mao, Zijian Wang, Yunlong Mao, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-12823/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-12823/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12823,
+  title = {{When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks}},
+  author = {{Yisheng Li} and {Dongming Han} and {Hongkun Pan} and {Bingcheng Mao} and {Zijian Wang} and {Yunlong Mao} and {Wei Tong} and {Sheng Zhong}},
+  year = {2026},
+  eprint = {2610.12823v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12823v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T00:03:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

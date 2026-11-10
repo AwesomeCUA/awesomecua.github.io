@@ -1,3 +1,11 @@
+---
+title: "linux-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-javimosch-linux-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # linux-use
 
 面向智能体、以 CLI 为主要接口的 Linux 桌面 GUI 控制工具包，通过 AT-SPI2 无障碍树操作。

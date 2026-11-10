@@ -1,3 +1,11 @@
+---
+title: "Browser Harness JS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-browser-harness-js/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Browser Harness JS
 
 这套 JavaScript 命令行工具和 SDK 通过持久浏览器会话提供带类型的 Chrome DevTools Protocol 调用，供智能体查看标签页并执行浏览器操作。

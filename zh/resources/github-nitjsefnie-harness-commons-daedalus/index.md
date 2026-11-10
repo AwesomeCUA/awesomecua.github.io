@@ -1,3 +1,11 @@
+---
+title: "Daedalus Browser Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nitjsefnie-harness-commons-daedalus/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Daedalus Browser Bridge
 
 Chrome 扩展远程控制桥接工具，使 AI 智能体能够通过 HTTP 操控正在运行的 Chrome 实例。

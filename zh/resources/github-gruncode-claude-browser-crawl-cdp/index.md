@@ -1,3 +1,11 @@
+---
+title: "claude-browser-crawl-cdp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gruncode-claude-browser-crawl-cdp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # claude-browser-crawl-cdp
 
 持久化 Playwright REPL 和 CDP 桥接工具，让 Claude Code 能以较低的 token 开销操控用户已登录的 Chrome 浏览器。

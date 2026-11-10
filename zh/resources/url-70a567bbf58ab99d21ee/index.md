@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-70a567bbf58ab99d21ee/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2-VL-72B-Instruct
 
 Qwen2-VL-72B-Instruct 是通用视觉语言模型；其模型卡描述了根据视觉输入和指令操作移动设备的能力，并报告了 Android 智能体评测结果。

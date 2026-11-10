@@ -1,3 +1,11 @@
+---
+title: "Surfkit · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentsea-surfkit/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # Surfkit
 
 用于构建、发布和运行多模态设备操作智能体的 Python 工具包与 CLI，支持在本地或 Kubernetes 上操作 Ubuntu 桌面等设备，并提供任务跟踪器和智能体中心。

@@ -1,3 +1,11 @@
+---
+title: "dcc123456 Browser Copilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dcc123456-browser-copilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # dcc123456 Browser Copilot
 
 Chrome 侧边栏 AI 助手，可读取当前网页并执行用户批准的浏览器动作。

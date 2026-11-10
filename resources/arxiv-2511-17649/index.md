@@ -1,3 +1,11 @@
+---
+title: "SWITCH: Benchmarking Modeling and Handling of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-17649/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SWITCH: Benchmarking Modeling and Handling of Tangible Interfaces in Long-horizon Embodied Scenarios
 
 Bibliographic record for SWITCH: Benchmarking Modeling and Handling of Tangible Interfaces in Long-horizon Embodied Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Juntao Cheng, Wanyue Zhang, Zhiwei Yu, Shuo Ren, Zheqi He, Shaoxuan Xie, Guocai 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-17649/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-17649/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_17649,
+  title = {{SWITCH: Benchmarking Modeling and Handling of Tangible Interfaces in Long-horizon Embodied Scenarios}},
+  author = {{Juntao Cheng} and {Wanyue Zhang} and {Zhiwei Yu} and {Shuo Ren} and {Zheqi He} and {Shaoxuan Xie} and {Guocai Yao} and {Jieru Lin} and {Börje F. Karlsson} and {Jiajun Zhang}},
+  year = {2025},
+  eprint = {2511.17649v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.17649v5},
+  note = {First published: 2025-11-20; Recorded arXiv version: v5; Recorded version updated: 2026-07-07T04:04:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

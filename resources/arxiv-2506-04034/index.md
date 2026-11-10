@@ -1,3 +1,11 @@
+---
+title: "Rex-Thinker: Grounded Object Referring via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-04034/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning
 
 Bibliographic record for Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qing Jiang, Xingyu Chen, Zhaoyang Zeng, Junzhi Yu, Lei Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-04034/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-04034/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_04034,
+  title = {{Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning}},
+  author = {{Qing Jiang} and {Xingyu Chen} and {Zhaoyang Zeng} and {Junzhi Yu} and {Lei Zhang}},
+  year = {2025},
+  eprint = {2506.04034v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.04034v1},
+  note = {First published: 2025-06-04; Recorded arXiv version: v1; Recorded version updated: 2025-06-04T14:56:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

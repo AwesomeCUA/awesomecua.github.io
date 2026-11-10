@@ -1,3 +1,11 @@
+---
+title: "Screen Point-and-Read / Tree-of-Lens | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ucsb-ai-screen-point-and-read/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # Screen Point-and-Read / Tree-of-Lens
 
 Screen-reading benchmark and Tree-of-Lens implementation for interpreting user-indicated regions and their layout context.

@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot Pro · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-likaixin2000-screenspot-pro-gui-grounding/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # ScreenSpot Pro
 
 ScreenSpot Pro 是侧重专业高分辨率界面的 GUI 定位基准。

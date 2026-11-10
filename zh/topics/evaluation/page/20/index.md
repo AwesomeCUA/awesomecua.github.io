@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 20 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/20/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 20 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/20/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [WorkArena-Instances](https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/)
 - [WorldGUI](https://awesomecua.com/zh/resources/github-showlab-worldgui/)
 - [Wornpage WebMCP Conformance](https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/)
 - [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/zh/resources/url-3ab90a696d8578c944c8/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/20/
 - [OSWorld 2.0 trajectories](https://awesomecua.com/zh/resources/url-3b4e6c30e1d095c22771/)
 - [OSWorld file cache (Ubuntu)](https://awesomecua.com/zh/resources/url-c885712b9c69579ac591/)
 - [OSWorld-Science task data](https://awesomecua.com/zh/resources/url-263e82b29d4fca964463/)
+- [OSWorld-V2 0624 Codex attempt trajectories](https://awesomecua.com/zh/resources/url-9112dfcb201f2de7241f/)

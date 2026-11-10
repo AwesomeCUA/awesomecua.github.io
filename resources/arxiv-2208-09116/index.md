@@ -1,3 +1,11 @@
+---
+title: "Effective, Platform-Independent GUI Testing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2208-09116/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Effective, Platform-Independent GUI Testing via Image Embedding and Reinforcement Learning
 
 Bibliographic record for Effective, Platform-Independent GUI Testing via Image Embedding and Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shengcheng Yu, Chunrong Fang, Xin Li, Yuchen Ling, Zhenyu Chen, Zhendong Su
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2208-09116/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2208-09116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2208_09116,
+  title = {{Effective, Platform-Independent GUI Testing via Image Embedding and Reinforcement Learning}},
+  author = {{Shengcheng Yu} and {Chunrong Fang} and {Xin Li} and {Yuchen Ling} and {Zhenyu Chen} and {Zhendong Su}},
+  year = {2022},
+  eprint = {2208.09116v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2208.09116v2},
+  note = {First published: 2022-08-19; Recorded arXiv version: v2; Recorded version updated: 2024-06-12T15:56:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

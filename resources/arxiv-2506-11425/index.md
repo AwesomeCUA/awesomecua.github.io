@@ -1,3 +1,11 @@
+---
+title: "Agent-RLVR: Training Software Engineering… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-11425/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards
 
 Status: excluded from the active CUA catalog after scope review.

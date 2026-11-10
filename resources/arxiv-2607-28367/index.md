@@ -1,3 +1,11 @@
+---
+title: "How Benchmarks Mis-Score Computer-Use Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28367/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # How Benchmarks Mis-Score Computer-Use Agents
 
 Audits failure-scored computer-use trajectories to distinguish agent errors from broken tasks and evaluator false negatives. It organizes reliability issues across task construction, trajectory evidence, scoring, and reporting, then derives corresponding evaluation design practices.
@@ -26,6 +34,18 @@ Zihan Dong, Zhiyuan Ma, Zekun Wang, Yunqing Li, Zirou Liu, Ruixuan Deng, Qishi Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28367/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28367/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28367,
+  title = {{How Benchmarks Mis-Score Computer-Use Agents}},
+  author = {{Zihan Dong} and {Zhiyuan Ma} and {Zekun Wang} and {Yunqing Li} and {Zirou Liu} and {Ruixuan Deng} and {Qishi Zhan} and {Rui Qian}},
+  year = {2026},
+  eprint = {2607.28367v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28367v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T15:29:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

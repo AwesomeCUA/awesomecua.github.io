@@ -1,3 +1,11 @@
+---
+title: "screen2gym · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-marc-saouda-screen2gym/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # screen2gym
 
 screen2gym 将带有动作标签的原始屏幕录像编译为可重置、可通过程序评分的计算机使用智能体 RL 环境。

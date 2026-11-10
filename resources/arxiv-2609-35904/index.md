@@ -1,3 +1,11 @@
+---
+title: "Structured Interaction, Visual Localization… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35904/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Structured Interaction, Visual Localization, and Robust Execution for Complex Web Tasks: A Technical Report on the WebRetriever Challenge
 
 Describes a WebRetriever agent that combines semantic webpage operations with visual localization when structured representations are insufficient. Hierarchical context management and fault-aware execution support processing tasks across concurrent browsers.
@@ -26,6 +34,18 @@ Ziqi Zhang, Shaohui Li, Bing Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-35904/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-35904/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35904,
+  title = {{Structured Interaction, Visual Localization, and Robust Execution for Complex Web Tasks: A Technical Report on the WebRetriever Challenge}},
+  author = {{Ziqi Zhang} and {Shaohui Li} and {Bing Li}},
+  year = {2026},
+  eprint = {2609.35904v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35904v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T04:02:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "MirrorGuard code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-whitzardagent-mirrorguard/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # MirrorGuard code
 
 MirrorGuard pipeline that synthesizes risky and benign computer-use trajectories in a text-based GUI simulator, builds unsafe-to-safe thought corrections for training, and plugs the corrector into OSWorld-style agents.

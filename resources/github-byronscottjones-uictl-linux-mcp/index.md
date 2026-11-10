@@ -1,3 +1,11 @@
+---
+title: "uictl-linux-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-byronscottjones-uictl-linux-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # uictl-linux-mcp
 
 uictl-linux-mcp is a developing Linux/GNOME CLI and MCP server for agent control of GUI applications through screenshots, accessibility data, and input actions.

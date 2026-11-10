@@ -1,3 +1,11 @@
+---
+title: "VLAA-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # VLAA-GUI
 
 VLAA-GUI provides a modular GUI automation framework that teaches agents when to stop, recover from errors, and search alternatives.

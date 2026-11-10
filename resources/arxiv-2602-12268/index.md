@@ -1,3 +1,11 @@
+---
+title: "CM2: Reinforcement Learning with Checklist… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-12268/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use
 
 Status: excluded from the active CUA catalog after scope review.

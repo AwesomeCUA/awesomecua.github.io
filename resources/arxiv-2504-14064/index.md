@@ -1,3 +1,11 @@
+---
+title: "DoomArena: A framework for Testing AI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-14064/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # DoomArena: A framework for Testing AI Agents Against Evolving Security Threats
 
 Presents a modular security testing framework that plugs into BrowserGym and tool-use benchmarks to evaluate agents under configurable threat models.
@@ -26,6 +34,18 @@ Leo Boisvert, Mihir Bansal, Chandra Kiran Reddy Evuru, Gabriel Huang, Abhay Puri
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-14064/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-14064/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_14064,
+  title = {{DoomArena: A framework for Testing AI Agents Against Evolving Security Threats}},
+  author = {{Leo Boisvert} and {Mihir Bansal} and {Chandra Kiran Reddy Evuru} and {Gabriel Huang} and {Abhay Puri} and {Avinandan Bose} and {Maryam Fazel} and {Quentin Cappart} and {Jason Stanley} and {Alexandre Lacoste} and {Alexandre Drouin} and {Krishnamurthy Dvijotham}},
+  year = {2025},
+  eprint = {2504.14064v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.14064v3},
+  note = {First published: 2025-04-18; Recorded arXiv version: v3; Recorded version updated: 2025-10-07T13:10:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

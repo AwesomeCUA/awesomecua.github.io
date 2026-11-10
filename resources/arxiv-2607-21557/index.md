@@ -1,3 +1,11 @@
+---
+title: "OpenForgeRL: Train Harness-native Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-21557/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OpenForgeRL: Train Harness-native Agents in Any Environment
 
 OpenForgeRL connects stateful agent harnesses to reinforcement-learning infrastructure through a model-call recording proxy and isolated rollout containers. Its validation includes browser and computer-use agents, alongside tool-oriented agents, and examines how harness choice affects learned reliability.
@@ -26,6 +34,18 @@ Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, Qianhui Wu, Hao Cheng, Wenlin Yao, Nikh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-21557/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-21557/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_21557,
+  title = {{OpenForgeRL: Train Harness-native Agents in Any Environment}},
+  author = {{Xiao Yu} and {Baolin Peng} and {Ruize Xu} and {Hao Zou} and {Qianhui Wu} and {Hao Cheng} and {Wenlin Yao} and {Nikhil Singh} and {Zhou Yu} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2607.21557v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.21557v3},
+  note = {First published: 2026-07-23; Recorded arXiv version: v3; Recorded version updated: 2026-08-07T17:40:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

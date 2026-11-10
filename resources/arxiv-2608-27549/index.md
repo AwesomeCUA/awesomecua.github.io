@@ -1,3 +1,11 @@
+---
+title: "Code as Worlds: Agentic Discovery of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-27549/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning
 
 Bibliographic record for Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hanyang Wang, Yimo Cai, Weiliang Chen, Jiawei Chi, Haowen Sun, Qiyu Dai, Yi-Hsin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-27549/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-27549/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27549,
+  title = {{Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning}},
+  author = {{Hanyang Wang} and {Yimo Cai} and {Weiliang Chen} and {Jiawei Chi} and {Haowen Sun} and {Qiyu Dai} and {Yi-Hsin Hung} and {Xingzhuo Guo} and {Jinshan Ren} and {Runmao Yao} and {Ziwei Liu} and {Mingsheng Long} and {Yueqi Duan} and {Jun Gao} and {Jiangran Lyu} and {Fangfu Liu} and {Jialong Wu}},
+  year = {2026},
+  eprint = {2608.27549v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27549v2},
+  note = {First published: 2026-08-27; Recorded arXiv version: v2; Recorded version updated: 2026-10-26T07:16:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

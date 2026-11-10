@@ -1,3 +1,11 @@
+---
+title: "DSH Vision Toolkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # DSH Vision Toolkit
 
 DSH Vision Toolkit adds screenshot reading, visual grounding, UI reconstruction, and pixel comparison tools to DeepSeek Harness agents.

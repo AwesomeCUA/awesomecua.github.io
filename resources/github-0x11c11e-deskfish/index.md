@@ -1,3 +1,11 @@
+---
+title: "Deskfish | AwesomeCUA"
+url: https://awesomecua.com/resources/github-0x11c11e-deskfish/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Deskfish
 
 Deskfish is a VS Code extension that gives AI agents an isolated virtual desktop container viewable and steerable inside the editor.

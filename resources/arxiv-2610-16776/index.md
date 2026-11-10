@@ -1,3 +1,11 @@
+---
+title: "Game-Creation-Agents: Autonomous Game… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-16776/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Game-Creation-Agents: Autonomous Game Production
 
 Bibliographic record for Game-Creation-Agents: Autonomous Game Production. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tencent Multimodal RL Team, Xiangxin Zhou, Jiaqi Tang, Ke Ma, Wenhao Yang, Jiaru
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16776/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16776/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16776,
+  title = {{Game-Creation-Agents: Autonomous Game Production}},
+  author = {{Tencent Multimodal RL Team} and {Xiangxin Zhou} and {Jiaqi Tang} and {Ke Ma} and {Wenhao Yang} and {Jiarui Yao} and {Boye Niu} and {Haiyang Guo} and {Yifei Zhao} and {Huanjin Yao} and {Pu Jian} and {Ruihuang Li} and {Haitao Wu} and {Yushi Huang} and {Xiangyan Liu} and {Yan Sun} and {Kaixin Li} and {Tianyu Pang}},
+  year = {2026},
+  eprint = {2610.16776v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16776v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T13:34:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

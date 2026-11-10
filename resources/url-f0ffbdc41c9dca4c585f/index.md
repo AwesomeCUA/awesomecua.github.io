@@ -1,3 +1,11 @@
+---
+title: "CUA_World_State_Model | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f0ffbdc41c9dca4c585f/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # CUA_World_State_Model
 
 SEAgent's World State Model, a Qwen2.5-VL-7B-Instruct fine-tune that assesses computer-use trajectories step by step from screenshots, used to label successes and failures and to drive curriculum task generation.

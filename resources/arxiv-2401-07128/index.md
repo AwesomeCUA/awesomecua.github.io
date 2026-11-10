@@ -1,3 +1,11 @@
+---
+title: "EHRAgent: Code Empowers Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-07128/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records
 
 Bibliographic record for EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenqi Shi, Ran Xu, Yuchen Zhuang, Yue Yu, Jieyu Zhang, Hang Wu, Yuanda Zhu, Joyc
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-07128/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-07128/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_07128,
+  title = {{EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records}},
+  author = {{Wenqi Shi} and {Ran Xu} and {Yuchen Zhuang} and {Yue Yu} and {Jieyu Zhang} and {Hang Wu} and {Yuanda Zhu} and {Joyce Ho} and {Carl Yang} and {May D. Wang}},
+  year = {2024},
+  eprint = {2401.07128v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.07128v3},
+  note = {First published: 2024-01-13; Recorded arXiv version: v3; Recorded version updated: 2024-10-04T05:56:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

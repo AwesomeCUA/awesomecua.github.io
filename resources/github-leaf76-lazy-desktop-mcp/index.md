@@ -1,3 +1,11 @@
+---
+title: "lazy-desktop-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leaf76-lazy-desktop-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # lazy-desktop-mcp
 
 Local-first desktop control MCP server combining a Rust native host and Node.js launcher with policy-gated computer-use tools.

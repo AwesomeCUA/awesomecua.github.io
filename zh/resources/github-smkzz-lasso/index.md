@@ -1,3 +1,11 @@
+---
+title: "LASSO WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-smkzz-lasso/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LASSO WebMCP
 
 AI 辅助调度控制台，将人类在网页上用套索选取的视觉区域转化为实时、带类型的 WebMCP 能力。

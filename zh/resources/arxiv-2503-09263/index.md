@@ -1,3 +1,11 @@
+---
+title: "COLA: A Scalable Multi-Agent Framework… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-09263/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation
 
 通过动态任务调度、共享记忆和人工触发的回滚，协调专门负责不同任务的 Windows UI 智能体从错误中恢复。
@@ -27,6 +35,18 @@ Di Zhao, Longhui Ma, Siwei Wang, Miao Wang, Zhao Lv
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-09263/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-09263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_09263,
+  title = {{COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation}},
+  author = {{Di Zhao} and {Longhui Ma} and {Siwei Wang} and {Miao Wang} and {Zhao Lv}},
+  year = {2025},
+  eprint = {2503.09263v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.09263v1},
+  note = {First published: 2025-03-12; Recorded arXiv version: v1; Recorded version updated: 2025-03-12T11:03:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

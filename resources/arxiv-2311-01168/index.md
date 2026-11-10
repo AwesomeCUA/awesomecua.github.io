@@ -1,3 +1,11 @@
+---
+title: "Scalable architecture for trapped-ion quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-01168/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scalable architecture for trapped-ion quantum computing using RF traps and dynamic optical potentials
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "AgentDoG 1.5: A Lightweight and Scalable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29801/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security
 
 Bibliographic record for AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, Yuejin Xie, Qinghua M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-29801/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-29801/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29801,
+  title = {{AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security}},
+  author = {{Dongrui Liu} and {Yu Li} and {Zhonghao Yang} and {Peng Wang} and {Guanxu Chen} and {Yuejin Xie} and {Qinghua Mao} and {Wanying Qu} and {Yanxu Zhu} and {Tianyi Zhou} and {Leitao Yuan} and {Zhijie Zheng} and {Qihao Lin} and {Yimin Wang} and {Haoyu Luo} and {Shuai Shao} and {Chen Qian} and {Qingyu Liu} and {Ling Tang} and {Ruiyang Qin} and {Qihan Ren} and {Junxiao Yang} and {Kun Wang} and {Zhiheng Xi} and {Linfeng Zhang} and {Ranjie Duan} and {Bo Zhang} and {Wenjie Wang} and {Wen Shen} and {Qiaosheng Zhang} and {Yan Teng} and {Chaochao Lu} and {Rui Mei} and {Man Li} and {Jialing Tao} and {Xi Lin} and {Tianhang Zheng} and {Yong Liu} and {Quanshi Zhang} and {Lei Zhu} and {Xingjun Ma} and {Junhua Liu} and {Hui Xue} and {Xiaoxiang Zuo} and {Xiangnan He} and {Chao Shen} and {Xianglong Liu} and {Minlie Huang} and {Jing Shao} and {Xia Hu}},
+  year = {2026},
+  eprint = {2605.29801v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29801v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T11:48:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

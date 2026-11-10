@@ -1,3 +1,11 @@
+---
+title: "mapleluvr cu (Evidence-Bound Windows CLI) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mapleluvr-cu/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mapleluvr cu (Evidence-Bound Windows CLI)
 
 面向 Windows、以证据为依据的计算机使用 CLI，为每个 UI 动作配对执行前后的窗口观察结果。

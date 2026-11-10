@@ -1,3 +1,11 @@
+---
+title: "Apply Lens | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mangeshraut712-apply-lens/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Apply Lens
 
 Solari browser agent that cross-examines job postings against live product websites to verify engineering roles.

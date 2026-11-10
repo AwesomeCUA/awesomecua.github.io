@@ -1,3 +1,11 @@
+---
+title: "Beyond Success and Failure: Length-Aware… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-21830/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents
 
 Introduces LACL-GUI, a contrastive learning objective that distinguishes trajectory quality within both successful and failed GUI executions. It favors concise successes and uses divergence from successful trajectories to differentiate failures during policy optimization.
@@ -26,6 +34,18 @@ Chengyang Gu, Le Zhang, Jingbo Zhou, Yize Chen, Yu Shi, Siqi Bao, Zheng-Fan Wu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-21830/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-21830/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_21830,
+  title = {{Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents}},
+  author = {{Chengyang Gu} and {Le Zhang} and {Jingbo Zhou} and {Yize Chen} and {Yu Shi} and {Siqi Bao} and {Zheng-Fan Wu} and {Hua Wu} and {Hui Xiong}},
+  year = {2026},
+  eprint = {2608.21830v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.21830v1},
+  note = {First published: 2026-08-22; Recorded arXiv version: v1; Recorded version updated: 2026-08-22T08:01:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

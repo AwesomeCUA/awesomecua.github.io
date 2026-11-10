@@ -1,3 +1,11 @@
+---
+title: "Vision-Language Pre-training: Basics, Recent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-09263/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Vision-Language Pre-training: Basics, Recent Advances, and Future Trends
 
 Bibliographic record for Vision-Language Pre-training: Basics, Recent Advances, and Future Trends. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhe Gan, Linjie Li, Chunyuan Li, Lijuan Wang, Zicheng Liu, Jianfeng Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2210-09263/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2210-09263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_09263,
+  title = {{Vision-Language Pre-training: Basics, Recent Advances, and Future Trends}},
+  author = {{Zhe Gan} and {Linjie Li} and {Chunyuan Li} and {Lijuan Wang} and {Zicheng Liu} and {Jianfeng Gao}},
+  year = {2022},
+  eprint = {2210.09263v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.09263v1},
+  note = {First published: 2022-10-17; Recorded arXiv version: v1; Recorded version updated: 2022-10-17T17:11:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

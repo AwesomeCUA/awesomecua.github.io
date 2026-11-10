@@ -1,3 +1,11 @@
+---
+title: "MobileViews · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cc4aa8caeee0cff58e73/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # MobileViews
 
 使用优化后的 DroidBot 从 20,000 多个 Google Play 应用采集的超过 600,000 对 Android 截图与视图层级数据，包含各应用的完整轨迹。

@@ -1,3 +1,11 @@
+---
+title: "ViewRefer: Grasp the Multi-view Knowledge for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-16894/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance
 
 Bibliographic record for ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zoey Guo, Yiwen Tang, Ray Zhang, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-16894/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-16894/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_16894,
+  title = {{ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance}},
+  author = {{Zoey Guo} and {Yiwen Tang} and {Ray Zhang} and {Dong Wang} and {Zhigang Wang} and {Bin Zhao} and {Xuelong Li}},
+  year = {2023},
+  eprint = {2303.16894v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.16894v4},
+  note = {First published: 2023-03-29; Recorded arXiv version: v4; Recorded version updated: 2023-12-05T05:34:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

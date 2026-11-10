@@ -1,3 +1,11 @@
+---
+title: "Pointer | AwesomeCUA"
+url: https://awesomecua.com/resources/url-98122987ca3e7c764d0e/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Pointer
 
 Pointer describes a desktop computer-use agent with feasibility checks, milestone planning, and an executor that combines GUI, code, and browser tools.

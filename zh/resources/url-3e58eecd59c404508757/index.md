@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-7B-Qwen2.5-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3e58eecd59c404508757/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GUI-Actor-7B-Qwen2.5-VL
 
 基于 Qwen2.5-VL-7B 的界面定位模型，根据截图和指令寻找目标控件。其注意力动作头预测点击位置，模型卡展示推理代码。

@@ -1,3 +1,11 @@
+---
+title: "Hcompany/Holo4-35B-A3B-GGUF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d96a6dcdd2aa622c523b/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Hcompany/Holo4-35B-A3B-GGUF
 
 面向计算机使用的 GGUF 视觉语言模型。它通过智能体运行框架接收屏幕截图和工具结果，并请求点击、输入、执行代码或调用工具。

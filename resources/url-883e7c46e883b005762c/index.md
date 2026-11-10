@@ -1,3 +1,11 @@
+---
+title: "BlenderWorld (huggingface.co/datasets/Qwen/Ble… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-883e7c46e883b005762c/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # BlenderWorld
 
 A benchmark of 223 Blender creation tasks with text, image, and video inputs. Agents submit editable projects for rendering and rubric-based evaluation.

@@ -1,3 +1,11 @@
+---
+title: "RUSS · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xnancy-russ/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # RUSS
 
 RUSS 的代码与数据：它将分步的网页帮助说明解析为 ThingTalk 语言，定位到页面元素，再执行点击、输入或向用户提问；附带一个包含 741 条说明的评测集。

@@ -1,3 +1,11 @@
+---
+title: "WAInjectBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # WAInjectBench
 
 WAInjectBench benchmarks prompt injection detection in web agents across six text and image attack types targeting web interaction pipelines.

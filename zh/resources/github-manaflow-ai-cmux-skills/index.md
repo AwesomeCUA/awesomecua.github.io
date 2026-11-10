@@ -1,3 +1,11 @@
+---
+title: "cmux-skills · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-manaflow-ai-cmux-skills/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # cmux-skills
 
 面向 cmux macOS 终端的一组智能体技能，教编码智能体使用其命令行、工作区和窗格，并通过快照、元素引用、点击、等待和截图操作其内置浏览器。

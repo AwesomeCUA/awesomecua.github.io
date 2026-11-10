@@ -1,3 +1,11 @@
+---
+title: "Ruflo · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ruvnet-ruflo/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ruflo
 
 Ruflo 是智能体编排工具和 MCP 元测试框架，用于协调 Claude Code、Codex 和 Cursor 中的多智能体群。

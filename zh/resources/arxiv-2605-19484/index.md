@@ -1,3 +1,11 @@
+---
+title: "CutVerse: A Compositional GUI Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-19484/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing
 
 Cutverse 评测 GUI 智能体在专业媒体软件中的长流程编辑任务，并将屏幕录像与输入日志解析为带定位信息的操作轨迹。
@@ -27,6 +35,18 @@ Haobo Hu, Xiangwu Guo, Zhiheng Chen, Difei Gao, Haotian Liu, Libiao Jin, Qi Mao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-19484/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-19484/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_19484,
+  title = {{CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing}},
+  author = {{Haobo Hu} and {Xiangwu Guo} and {Zhiheng Chen} and {Difei Gao} and {Haotian Liu} and {Libiao Jin} and {Qi Mao}},
+  year = {2026},
+  eprint = {2605.19484v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.19484v1},
+  note = {First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T07:35:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

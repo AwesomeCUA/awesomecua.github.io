@@ -1,3 +1,11 @@
+---
+title: "Crypto multi tenant: an environment of secure… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1406-4681/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Crypto multi tenant: an environment of secure computing using cloud sql
 
 Status: excluded from the active CUA catalog after scope review.

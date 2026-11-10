@@ -1,3 +1,11 @@
+---
+title: "Interface Quilt: Modifying Applications… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-01891/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI
 
 提出 Interface Quilt，结合计算机使用智能体与生成式界面覆盖层，在不访问源码的情况下改变现有应用的呈现与交互。
@@ -27,6 +35,18 @@ Leping Qiu, Jo Vermeulen, Tim Zindulka, George Fitzmaurice, Fraser Anderson
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-01891/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-01891/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_01891,
+  title = {{Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI}},
+  author = {{Leping Qiu} and {Jo Vermeulen} and {Tim Zindulka} and {George Fitzmaurice} and {Fraser Anderson}},
+  year = {2026},
+  eprint = {2611.01891v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.01891v1},
+  note = {First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T13:34:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

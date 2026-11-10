@@ -1,3 +1,11 @@
+---
+title: "CORE-Bench: Fostering the Credibility of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-11363/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark
 
 Bibliographic record for CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zachary S. Siegel, Sayash Kapoor, Nitya Nadgir, Benedikt Stroebl, Arvind Narayan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-11363/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-11363/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_11363,
+  title = {{CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark}},
+  author = {{Zachary S. Siegel} and {Sayash Kapoor} and {Nitya Nadgir} and {Benedikt Stroebl} and {Arvind Narayanan}},
+  year = {2024},
+  eprint = {2409.11363v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.11363v2},
+  note = {First published: 2024-09-17; Recorded arXiv version: v2; Recorded version updated: 2026-06-22T22:36:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

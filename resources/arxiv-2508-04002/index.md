@@ -1,3 +1,11 @@
+---
+title: "CAD-Judge: Toward Efficient Morphological… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-04002/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CAD-Judge: Toward Efficient Morphological Grading and Verification for Text-to-CAD Generation
 
 Status: excluded from the active CUA catalog after scope review.

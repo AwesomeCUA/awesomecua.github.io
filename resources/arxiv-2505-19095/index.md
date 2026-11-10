@@ -1,3 +1,11 @@
+---
+title: "ScreenExplorer: Training a Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-19095/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World
 
 Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, using a world-model curiosity reward and experience-stream distillation to support sustained exploration.
@@ -26,6 +34,18 @@ Runliang Niu, Jinglong Ji, Yi Chang, Qi Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-19095/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-19095/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_19095,
+  title = {{ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World}},
+  author = {{Runliang Niu} and {Jinglong Ji} and {Yi Chang} and {Qi Wang}},
+  year = {2025},
+  eprint = {2505.19095v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.19095v1},
+  note = {First published: 2025-05-25; Recorded arXiv version: v1; Recorded version updated: 2025-05-25T11:13:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

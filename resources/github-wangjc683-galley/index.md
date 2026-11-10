@@ -1,3 +1,11 @@
+---
+title: "Galley | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wangjc683-galley/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Galley
 
 Galley is a desktop assistant that works through screen vision, mouse and keyboard control, a browser extension, files, and terminal tools to complete user tasks.

@@ -1,3 +1,11 @@
+---
+title: "MobilePA-Bench: Benchmarking Mobile Planner… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-23035/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
 
 Bibliographic record for MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yi Zhu, Xiongwei Wu, Qiyi Wang, Tingyu Qu, Jiajun Liu, Sihan Cao, Long Chen, Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-23035/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-23035/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_23035,
+  title = {{MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks}},
+  author = {{Yi Zhu} and {Xiongwei Wu} and {Qiyi Wang} and {Tingyu Qu} and {Jiajun Liu} and {Sihan Cao} and {Long Chen} and {Weigao Sun} and {Feida Zhu} and {Yiran Zhong} and {Steven Hoi}},
+  year = {2026},
+  eprint = {2608.23035v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.23035v2},
+  note = {First published: 2026-08-24; Recorded arXiv version: v2; Recorded version updated: 2026-08-25T04:26:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

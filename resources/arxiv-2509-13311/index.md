@@ -1,3 +1,11 @@
+---
+title: "Towards General Agentic Intelligence via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-13311/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Towards General Agentic Intelligence via Environment Scaling
 
 Bibliographic record for Towards General Agentic Intelligence via Environment Scaling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Runnan Fang, Shihao Cai, Baixuan Li, Jialong Wu, Guangyu Li, Wenbiao Yin, Xinyu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-13311/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-13311/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13311,
+  title = {{Towards General Agentic Intelligence via Environment Scaling}},
+  author = {{Runnan Fang} and {Shihao Cai} and {Baixuan Li} and {Jialong Wu} and {Guangyu Li} and {Wenbiao Yin} and {Xinyu Wang} and {Xiaobin Wang} and {Liangcai Su} and {Zhen Zhang} and {Shibin Wu} and {Zhengwei Tao} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2509.13311v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13311v1},
+  note = {First published: 2025-09-16; Recorded arXiv version: v1; Recorded version updated: 2025-09-16T17:57:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

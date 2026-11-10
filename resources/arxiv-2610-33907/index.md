@@ -1,3 +1,11 @@
+---
+title: "OS-Wizard: Scaling Computer-Using Agents to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33907/
+updated: 2026-10-27
+type: paper
+lang: en
+---
+
 # OS-Wizard: Scaling Computer-Using Agents to Specialized Software via Knowledge-Guided Exploration
 
 Bibliographic record for OS-Wizard: Scaling Computer-Using Agents to Specialized Software via Knowledge-Guided Exploration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhoumianze Liu, Zichen Ding, Bowen Yang, Zehao Li, Zhenyu Wu, Yibo Zhao, Kanzhi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-33907/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-33907/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33907,
+  title = {{OS-Wizard: Scaling Computer-Using Agents to Specialized Software via Knowledge-Guided Exploration}},
+  author = {{Zhoumianze Liu} and {Zichen Ding} and {Bowen Yang} and {Zehao Li} and {Zhenyu Wu} and {Yibo Zhao} and {Kanzhi Chen} and {Yian Wang} and {Yanan Sun} and {Qiushi Sun} and {Yu Qiao}},
+  year = {2026},
+  eprint = {2610.33907v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33907v1},
+  note = {First published: 2026-10-24; Recorded arXiv version: v1; Recorded version updated: 2026-10-24T20:39:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

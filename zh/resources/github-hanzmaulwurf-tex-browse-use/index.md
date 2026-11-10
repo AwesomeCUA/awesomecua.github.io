@@ -1,3 +1,11 @@
+---
+title: "TEX (tex-browse-use) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TEX (tex-browse-use)
 
 面向 Claude Code 的自托管浏览器使用引擎，通过操控真实浏览器操作缺少 API 的网页应用。

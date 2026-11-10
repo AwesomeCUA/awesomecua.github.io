@@ -1,3 +1,11 @@
+---
+title: "Pocketwatch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-psamme-pocketwatch/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Pocketwatch
 
 AI beta-testing agent for physical iPhone applications that drives user journeys over macOS iPhone Mirroring.

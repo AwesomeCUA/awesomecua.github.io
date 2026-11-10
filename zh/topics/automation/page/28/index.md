@@ -1,15 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 28 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/28/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 28 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/28/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Ziweixing (紫微星)](https://awesomecua.com/zh/resources/github-xiaozhe7772222-ziweixing/)
-- [ZRui-C DSH Computer Use](https://awesomecua.com/zh/resources/github-zrui-c-dsh-computer-use/)
-- [zseven-w DSH Browser](https://awesomecua.com/zh/resources/github-zseven-w-dsh-browser/)
-- [zseven-w DSH Computer](https://awesomecua.com/zh/resources/github-zseven-w-dsh-computer/)
-- [zuhair-01 chrome-agent-bridge](https://awesomecua.com/zh/resources/github-zuhair-01-chrome-agent-bridge/)
-- [AI Agents for Computer Use](https://awesomecua.com/zh/resources/github-sagerpascal-agents-for-computer-use/)
 - [Amazon Nova Act Samples](https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/)
 - [awb-recipes](https://awesomecua.com/zh/resources/github-jeet-dhandha-awb-recipes/)
 - [Awesome Computer Use](https://awesomecua.com/zh/resources/github-philfung-awesome-computer-use/)

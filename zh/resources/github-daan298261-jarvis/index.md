@@ -1,3 +1,11 @@
+---
+title: "ANZU Superassistant (Jarvis) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daan298261-jarvis/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ANZU Superassistant (Jarvis)
 
 本地优先的 Windows 桌面智能体，具备 HUD、Kokoro 语音、浏览器自动化、Office 集成和 Android 控制功能。

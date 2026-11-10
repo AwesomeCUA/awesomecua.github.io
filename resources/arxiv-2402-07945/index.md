@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent: A Vision Language Model-driven… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-07945/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ScreenAgent: A Vision Language Model-driven Computer Control Agent
 
 Combines a screenshot-and-action dataset with a planning, acting, and reflecting loop for computer control through mouse and keyboard actions.
@@ -26,6 +34,18 @@ Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-07945/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-07945/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_07945,
+  title = {{ScreenAgent: A Vision Language Model-driven Computer Control Agent}},
+  author = {{Runliang Niu} and {Jindong Li} and {Shiqi Wang} and {Yali Fu} and {Xiyu Hu} and {Xueyuan Leng} and {He Kong} and {Yi Chang} and {Qi Wang}},
+  year = {2024},
+  eprint = {2402.07945v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.07945v1},
+  note = {First published: 2024-02-09; Recorded arXiv version: v1; Recorded version updated: 2024-02-09T02:33:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

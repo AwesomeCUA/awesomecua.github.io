@@ -1,3 +1,11 @@
+---
+title: "COCO4GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # COCO4GUI
 
 COCO4GUI is an interactive screen capture and bounding-box annotation tool for building COCO-formatted GUI grounding datasets.

@@ -1,3 +1,11 @@
+---
+title: "GUI-AIMA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sjz5202-gui-aima/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # GUI-AIMA
 
 GUI-AIMA 将内在的多模态注意力头与上下文锚点对齐，以更高的数据效率完成视觉 GUI 元素定位。

@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_plan_iterative (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-543aff764901777e6ad5/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # lumos_unified_plan_iterative
 
 lumos_unified_plan_iterative is a JSONL training dataset for the Lumos planning module. It combines web-agent examples with math and complex question-answering tasks.

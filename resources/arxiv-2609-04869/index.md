@@ -1,3 +1,11 @@
+---
+title: "From Interaction Traces to Persistent Skills… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-04869/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents
 
 An online skill-evolution framework turns GUI interaction traces and evaluator feedback into a versioned library of reusable procedures without updating model parameters. Controlled OSWorld comparisons examine both the benefits of shared procedural memory and its domain-dependent instability under repeated revision.
@@ -26,6 +34,18 @@ Longtao Hu, Xiao Liang, Linchao Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-04869/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-04869/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_04869,
+  title = {{From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents}},
+  author = {{Longtao Hu} and {Xiao Liang} and {Linchao Zhu}},
+  year = {2026},
+  eprint = {2609.04869v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.04869v1},
+  note = {First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T08:29:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

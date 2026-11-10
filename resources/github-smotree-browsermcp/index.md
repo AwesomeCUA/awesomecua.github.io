@@ -1,3 +1,11 @@
+---
+title: "BrowserMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-smotree-browsermcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # BrowserMCP
 
 BrowserMCP connects AI clients to a Chrome extension through a Node.js MCP server and WebSocket bridge for browser navigation and interaction.

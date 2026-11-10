@@ -1,3 +1,11 @@
+---
+title: "ECHOES: Seeing Beyond the Current Image… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-22408/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation
 
 ECHOES 通过利用特权信息的截图历史蒸馏和 GRPO 学习递归更新的文本任务记忆，再根据当前截图与记忆预测 GUI 操作。
@@ -27,6 +35,18 @@ Tengda Guo, Jiawang Hu, Yifei Tao, Yin Wang, Haotian Hu, Fanyi Wang, Liujuan Tan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-22408/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-22408/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22408,
+  title = {{ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation}},
+  author = {{Tengda Guo} and {Jiawang Hu} and {Yifei Tao} and {Yin Wang} and {Haotian Hu} and {Fanyi Wang} and {Liujuan Tang}},
+  year = {2026},
+  eprint = {2610.22408v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22408v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T14:39:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

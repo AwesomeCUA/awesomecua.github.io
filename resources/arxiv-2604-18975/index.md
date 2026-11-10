@@ -1,3 +1,11 @@
+---
+title: "Gated Coordination for Efficient Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18975/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Gated Coordination for Efficient Multi-Agent Collaboration in Minecraft Game
 
 Bibliographic record for Gated Coordination for Efficient Multi-Agent Collaboration in Minecraft Game. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ HuaDong Jian, Chenghao Li, Haoyu Wang, Jiajia Shuai, Jinyu Guo, Yang Yang, Chaon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18975/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18975/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18975,
+  title = {{Gated Coordination for Efficient Multi-Agent Collaboration in Minecraft Game}},
+  author = {{HuaDong Jian} and {Chenghao Li} and {Haoyu Wang} and {Jiajia Shuai} and {Jinyu Guo} and {Yang Yang} and {Chaoning Zhang}},
+  year = {2026},
+  eprint = {2604.18975v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18975v1},
+  note = {First published: 2026-04-21; Recorded arXiv version: v1; Recorded version updated: 2026-04-21T01:58:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "MobileRL 9B checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d5667c854845c77b9f5b/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # MobileRL 9B checkpoint
 
 A GLM-4.1V-based mobile action checkpoint released by the MobileRL project for Android interaction.

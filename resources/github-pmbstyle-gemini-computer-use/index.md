@@ -1,3 +1,11 @@
+---
+title: "Gemini Computer Use Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pmbstyle-gemini-computer-use/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Gemini Computer Use Agent
 
 Gemini Computer Use Agent uses screenshots, a Gemini computer-use model and Playwright to navigate webpages and perform browser actions, with optional user confirmation.

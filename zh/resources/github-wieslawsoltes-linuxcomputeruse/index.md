@@ -1,3 +1,11 @@
+---
+title: "WieslawSoltes Linux Computer Use for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wieslawsoltes-linuxcomputeruse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # WieslawSoltes Linux Computer Use for Codex
 
 用于 OpenAI Codex 的 Linux 桌面及 X11/Wayland GUI 控制技能。

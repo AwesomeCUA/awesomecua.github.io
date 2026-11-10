@@ -1,3 +1,11 @@
+---
+title: "GUI-AIMA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sjz5202-gui-aima/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # GUI-AIMA
 
 GUI-AIMA aligns intrinsic multimodal attention heads with context anchors for data-efficient visual GUI element grounding.

@@ -1,3 +1,11 @@
+---
+title: "cdp-drive | AwesomeCUA"
+url: https://awesomecua.com/resources/github-immineal-cdp-drive/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cdp-drive
 
 Single-file zero-dependency Chrome DevTools Protocol driver for headless and headful Chrome automation without Playwright.

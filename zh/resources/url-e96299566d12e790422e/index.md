@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Element · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e96299566d12e790422e/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Screen2AX-Element
 
 该数据集包含 macOS 应用截图，以及界面元素的边界框和类别标签，用于训练和评估界面元素检测模型。

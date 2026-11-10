@@ -1,3 +1,11 @@
+---
+title: "Mind2Web · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # Mind2Web
 
 提供用于通用网页导航研究的人类演示和任务。

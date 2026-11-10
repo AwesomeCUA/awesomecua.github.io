@@ -1,3 +1,11 @@
+---
+title: "Web2Code: A Large-scale Webpage-to-Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-20098/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs
 
 Bibliographic record for Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sukmin Yun, Haokun Lin, Rusiru Thushara, Mohammad Qazim Bhat, Yongxin Wang, Zuta
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-20098/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-20098/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_20098,
+  title = {{Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs}},
+  author = {{Sukmin Yun} and {Haokun Lin} and {Rusiru Thushara} and {Mohammad Qazim Bhat} and {Yongxin Wang} and {Zutao Jiang} and {Mingkai Deng} and {Jinhong Wang} and {Tianhua Tao} and {Junbo Li} and {Haonan Li} and {Preslav Nakov} and {Timothy Baldwin} and {Zhengzhong Liu} and {Eric P. Xing} and {Xiaodan Liang} and {Zhiqiang Shen}},
+  year = {2024},
+  eprint = {2406.20098v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.20098v2},
+  note = {First published: 2024-06-28; Recorded arXiv version: v2; Recorded version updated: 2024-11-17T16:11:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GoldenCut · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-silbercue-goldencut/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GoldenCut
 
 一项 Claude Code 技能，测量实时浏览器 UI 布局，并给出具体的黄金比例间距和排版修正方案。

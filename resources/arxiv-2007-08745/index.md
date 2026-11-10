@@ -1,3 +1,11 @@
+---
+title: "Backdoor Learning: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2007-08745/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Backdoor Learning: A Survey
 
 Status: excluded from the active CUA catalog after scope review.

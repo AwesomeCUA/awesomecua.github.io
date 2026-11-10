@@ -1,3 +1,11 @@
+---
+title: "Agent Tool Benchmark · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alloevil-agent-tool-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Agent Tool Benchmark
 
 提供可复现的同机评测基准，比较 AI 智能体的浏览器和桌面工具包，并附有完整执行记录。

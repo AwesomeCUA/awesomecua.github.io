@@ -1,3 +1,11 @@
+---
+title: "StateAct: Program State, before Pixels, for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-22798/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents
 
 Introduces StateAct, a code-first computer-use harness that manipulates program state directly and delegates screenshot-and-click subgoals to a GUI agent. An independent completion gate checks saved outputs, while fresh subagents handle subgoals to limit accumulated context.
@@ -26,6 +34,18 @@ Yan Yang, Xiangru Jian, Ziyang Luo, Zirui Zhao, Yutong Dai, Ziji Shi, Hanshu Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-22798/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-22798/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_22798,
+  title = {{StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents}},
+  author = {{Yan Yang} and {Xiangru Jian} and {Ziyang Luo} and {Zirui Zhao} and {Yutong Dai} and {Ziji Shi} and {Hanshu Yan} and {Jun Hao Liew} and {Silvio Savarese} and {Junnan Li}},
+  year = {2026},
+  eprint = {2607.22798v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.22798v1},
+  note = {First published: 2026-07-24; Recorded arXiv version: v1; Recorded version updated: 2026-07-24T14:17:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "bgivenb Typed UI Capabilities | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bgivenb-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # bgivenb Typed UI Capabilities
 
 Model-guided UI workflow discovery framework with signed human review and deterministic replay.

@@ -1,3 +1,11 @@
+---
+title: "Claude Opus 5 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c34a327604b5be4a7c98/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Claude Opus 5
 
 Claude Opus 5 is a general model whose release page reports computer-use performance on OSWorld 2.0 and describes agent work across browser and business tasks.

@@ -1,3 +1,11 @@
+---
+title: "iphone-use-flows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leeguooooo-iphone-use-flows/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # iphone-use-flows
 
 A registry of reusable iPhone app workflows for iphone-use. Its JSON flows define phone actions, inputs, and checks for completing repeated tasks.

@@ -1,3 +1,11 @@
+---
+title: "POINTS-GUI-G 8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-cc931199bda2bdf1f5f7/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # POINTS-GUI-G 8B
 
 A specialized interface-grounding checkpoint that returns normalized point coordinates for a requested element in a screenshot.

@@ -1,3 +1,11 @@
+---
+title: "android-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-austinintelligence-android-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # android-use
 
 MCP 服务器和 CLI，让 AI 智能体能够快速、受限地访问实体 Android 设备和模拟器。

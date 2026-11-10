@@ -1,3 +1,11 @@
+---
+title: "Plow Hermes Agent Template · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-delltrak-plow-hermes-agent-template/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Plow Hermes Agent Template
 
 以安全为先的入门模板，用于构建带有人工批准环节、通过可见浏览器操作的 Hermes 计算机使用智能体。

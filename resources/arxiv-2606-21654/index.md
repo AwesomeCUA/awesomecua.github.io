@@ -1,3 +1,11 @@
+---
+title: "ChainWorld: Composing Long-Horizon Desktop… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-21654/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks
 
 ChainWorld composes compatible atomic OSWorld tasks into multi-objective desktop chains while preserving their evaluators. It compares giving the full sequence at once with revealing goals turn by turn, exposing different state and session-management failures.
@@ -26,6 +34,18 @@ Vincent Siu, Manasi Sharma, Dawn Song, Daniel Yue Zhang, Chenguang Wang, Ying Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-21654/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-21654/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_21654,
+  title = {{ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks}},
+  author = {{Vincent Siu} and {Manasi Sharma} and {Dawn Song} and {Daniel Yue Zhang} and {Chenguang Wang} and {Ying Liu}},
+  year = {2026},
+  eprint = {2606.21654v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.21654v2},
+  note = {First published: 2026-06-19; Recorded arXiv version: v2; Recorded version updated: 2026-08-19T17:29:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

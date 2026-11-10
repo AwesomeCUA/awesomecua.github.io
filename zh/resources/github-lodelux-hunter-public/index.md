@@ -1,3 +1,11 @@
+---
+title: "Hunter (Autonomous Job-Search Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lodelux-hunter-public/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Hunter (Autonomous Job-Search Agent)
 
 自主求职搜索和申请浏览器智能体，具备关联证据的匹配评分和申请提交跟踪功能。

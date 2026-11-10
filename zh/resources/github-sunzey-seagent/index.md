@@ -1,3 +1,11 @@
+---
+title: "SEAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sunzey-seagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SEAgent
 
 SEAgent 使用 World State Model 和课程任务生成器，使计算机使用智能体能够在陌生软件环境中自我进化。

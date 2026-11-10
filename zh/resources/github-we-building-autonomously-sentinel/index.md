@@ -1,3 +1,11 @@
+---
+title: "Sentinel Browser QA Harness · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-we-building-autonomously-sentinel/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Sentinel Browser QA Harness
 
 Sentinel 是原生浏览器 QA 测试框架，AI 智能体像最终用户一样操作真实浏览器，并返回结构化测试结论。

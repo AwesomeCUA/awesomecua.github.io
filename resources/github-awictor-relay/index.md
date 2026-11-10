@@ -1,3 +1,11 @@
+---
+title: "Awictor Relay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-awictor-relay/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Awictor Relay
 
 Autonomous web agent paired with a self-hosted browser that executes tasks dispatched via messaging apps.

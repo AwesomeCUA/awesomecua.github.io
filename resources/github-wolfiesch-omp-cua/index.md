@@ -1,3 +1,11 @@
+---
+title: "omp-cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wolfiesch-omp-cua/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # omp-cua
 
 Low-overhead Cua Driver computer-use integration for the Oh My Pi coding agent.

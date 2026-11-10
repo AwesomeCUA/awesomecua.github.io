@@ -1,3 +1,11 @@
+---
+title: "AmbiBench: Benchmarking Mobile GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-11750/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild
 
 AmbiBench 在 4 种指令清晰度下评估移动 GUI 智能体，包括需要主动澄清的任务；其 MUSE 评估器分别审查结果、执行质量和交互质量，以研究智能体与用户意图的一致性。
@@ -27,6 +35,18 @@ Jiazheng Sun, Mingxuan Li, Yingying Zhang, Jiayang Niu, Yachen Wu, Ruihan Jin, S
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-11750/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-11750/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11750,
+  title = {{AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild}},
+  author = {{Jiazheng Sun} and {Mingxuan Li} and {Yingying Zhang} and {Jiayang Niu} and {Yachen Wu} and {Ruihan Jin} and {Shuyu Lei} and {Pengrongrui Tan} and {Zongyu Zhang} and {Ruoyi Wang} and {Jiachen Yang} and {Boyu Yang} and {Jiacheng Liu} and {Xin Peng}},
+  year = {2026},
+  eprint = {2602.11750v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11750v1},
+  note = {First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T09:25:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

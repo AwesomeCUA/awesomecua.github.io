@@ -1,3 +1,11 @@
+---
+title: "AdaptAgent: Adapting Multimodal Web Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-13451/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations
 
 Adapts multimodal web agents to unfamiliar websites using a small number of human demonstrations through prompting or meta-learning.
@@ -26,6 +34,18 @@ Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-13451/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-13451/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_13451,
+  title = {{AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations}},
+  author = {{Gaurav Verma} and {Rachneet Kaur} and {Nishan Srishankar} and {Zhen Zeng} and {Tucker Balch} and {Manuela Veloso}},
+  year = {2024},
+  eprint = {2411.13451v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.13451v1},
+  note = {First published: 2024-11-20; Recorded arXiv version: v1; Recorded version updated: 2024-11-20T16:54:15Z.}
+}
+```
 
 ## Publication record
 

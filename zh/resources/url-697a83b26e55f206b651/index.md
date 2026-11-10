@@ -1,3 +1,11 @@
+---
+title: "Anchor Browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-697a83b26e55f206b651/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Anchor Browser
 
 Anchor Browser 通过 SDK、CDP 和 REST 接口为智能体提供云端浏览器会话。文档介绍自然语言任务、身份验证和可复用工作流程。

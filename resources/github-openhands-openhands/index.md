@@ -1,3 +1,11 @@
+---
+title: "OpenHands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openhands-openhands/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenHands
 
 OpenHands is an open-source platform for software development and computer-use agents equipped with a sandboxed shell, code editor, and browser.

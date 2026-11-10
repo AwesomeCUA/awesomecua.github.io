@@ -1,3 +1,11 @@
+---
+title: "browserkit · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browserkit-dev-browserkit/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # browserkit
 
 browserkit 是 TypeScript 框架，用于构建在本地已认证浏览器会话中运行、针对特定网站的 MCP 服务器。

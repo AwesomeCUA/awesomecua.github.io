@@ -1,3 +1,11 @@
+---
+title: "Awesome Computer Use Ecosystem · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hqhq1025-awesome-computer-use-ecosystem/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Awesome Computer Use Ecosystem
 
 一份面向桌面和浏览器智能体的计算机操作工具精选清单，按产品生态和功能分类，并附有独立的项目目录。

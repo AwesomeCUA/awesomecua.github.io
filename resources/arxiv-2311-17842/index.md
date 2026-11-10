@@ -1,3 +1,11 @@
+---
+title: "Look Before You Leap: Unveiling the Power of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-17842/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning
 
 Bibliographic record for Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yingdong Hu, Fanqi Lin, Tong Zhang, Li Yi, Yang Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-17842/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-17842/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_17842,
+  title = {{Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning}},
+  author = {{Yingdong Hu} and {Fanqi Lin} and {Tong Zhang} and {Li Yi} and {Yang Gao}},
+  year = {2023},
+  eprint = {2311.17842v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.17842v2},
+  note = {First published: 2023-11-29; Recorded arXiv version: v2; Recorded version updated: 2023-12-24T03:48:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

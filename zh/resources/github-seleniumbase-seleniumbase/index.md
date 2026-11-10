@@ -1,3 +1,11 @@
+---
+title: "SeleniumBase · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-seleniumbase-seleniumbase/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # SeleniumBase
 
 用于网页爬取、端到端测试和数据抓取的 Python 浏览器自动化框架，配有生成测试的录制器和隐身选项。

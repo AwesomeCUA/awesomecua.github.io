@@ -1,3 +1,11 @@
+---
+title: "Pix to App | AwesomeCUA"
+url: https://awesomecua.com/resources/github-soumikmohianuta-pixtoapp/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Pix to App
 
 A Python pipeline that turns a mobile app screenshot into an Android project, using Canny edge contours for the view hierarchy, Tesseract OCR for text and generated layout, style, color and string XML.

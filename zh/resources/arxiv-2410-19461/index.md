@@ -1,3 +1,11 @@
+---
+title: "EDGE: Enhanced Grounded GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-19461/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data
 
 从网页合成不同细节层级的 GUI 训练样例，并研究习得的界面理解能力向其他界面环境的迁移。
@@ -27,6 +35,18 @@ Xuetian Chen, Hangcheng Li, Jiaqing Liang, Sihang Jiang, Deqing Yang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-19461/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-19461/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_19461,
+  title = {{EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data}},
+  author = {{Xuetian Chen} and {Hangcheng Li} and {Jiaqing Liang} and {Sihang Jiang} and {Deqing Yang}},
+  year = {2024},
+  eprint = {2410.19461v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.19461v2},
+  note = {First published: 2024-10-25; Recorded arXiv version: v2; Recorded version updated: 2024-11-02T08:54:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

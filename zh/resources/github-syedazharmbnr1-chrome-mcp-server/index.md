@@ -1,3 +1,11 @@
+---
+title: "Chrome MCP Server (18 Tools) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-syedazharmbnr1-chrome-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome MCP Server (18 Tools)
 
 Node.js Model Context Protocol 服务器，提供 18 个用于 Chrome 浏览器导航、DOM 交互和截图捕获的工具。

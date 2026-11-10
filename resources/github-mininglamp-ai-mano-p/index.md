@@ -1,3 +1,11 @@
+---
+title: "Mano-P | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mininglamp-ai-mano-p/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # Mano-P
 
 Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.

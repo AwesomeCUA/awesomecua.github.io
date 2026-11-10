@@ -1,3 +1,11 @@
+---
+title: "Sikuli legacy research implementation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sikuli-sikuli/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # Sikuli legacy research implementation
 
 The original Sikuli source distribution combines screenshot targets with a Jython scripting library and IDE for visual GUI automation and testing.

@@ -1,3 +1,11 @@
+---
+title: "shortcut-pad-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-darkspaz-v1-shortcut-pad-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # shortcut-pad-mcp
 
 本地 Model Context Protocol 服务器，用于通过 Shortcut Pad 列出和启动 Windows 应用及宏。

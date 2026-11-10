@@ -1,3 +1,11 @@
+---
+title: "UI-Genie trajectory data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2e1927450da2183a5abe/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UI-Genie trajectory data
 
 Synthetic mobile GUI trajectory supervision and screenshots released with the UI-Genie agent-training pipeline.

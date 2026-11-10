@@ -1,3 +1,11 @@
+---
+title: "Pix2Struct Screen2Words base · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1cf7f8b4b2a1eb9c6547/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Pix2Struct Screen2Words base
 
 Pix2Struct 基础尺寸检查点在 Screen2Words 上微调，生成移动端 UI 截图的简短功能概述，由 Google 原始版本转换为 Transformers 格式。

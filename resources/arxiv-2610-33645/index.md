@@ -1,3 +1,11 @@
+---
+title: "PreView: Enhancing GUI Grounding with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33645/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PreView: Enhancing GUI Grounding with Preprocessed Views and Cues
 
 Introduces PreView, a screenshot preprocessor that adds cropped views and candidate cues to help existing GUI grounding models identify controls for clicks.
@@ -26,6 +34,18 @@ Wenjun Hou, Kaishuai Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-33645/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-33645/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33645,
+  title = {{PreView: Enhancing GUI Grounding with Preprocessed Views and Cues}},
+  author = {{Wenjun Hou} and {Kaishuai Xu}},
+  year = {2026},
+  eprint = {2610.33645v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33645v1},
+  note = {First published: 2026-10-24; Recorded arXiv version: v1; Recorded version updated: 2026-10-24T12:54:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "COLA demo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alokia-cola-demo/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # COLA demo
 
 Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.

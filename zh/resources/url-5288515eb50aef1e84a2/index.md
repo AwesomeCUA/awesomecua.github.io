@@ -1,3 +1,11 @@
+---
+title: "Salesforce/GTA1-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5288515eb50aef1e84a2/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Salesforce/GTA1-32B
 
 这款 32B GUI 定位模型通过 GRPO 训练，根据任务和屏幕截图生成操作；模型卡报告了定位及桌面智能体基准结果。

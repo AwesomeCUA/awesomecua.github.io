@@ -1,3 +1,11 @@
+---
+title: "GUITestBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-adam-bjtu-guitestbench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # GUITestBench
 
 GUITestBench 评测安卓智能体能否通过多步操作发现应用缺陷，并结合导航与触发条件检查及评判模型进行评估。

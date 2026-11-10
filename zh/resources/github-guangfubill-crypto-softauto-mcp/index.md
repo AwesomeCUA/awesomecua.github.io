@@ -1,3 +1,11 @@
+---
+title: "SoftAuto MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guangfubill-crypto-softauto-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # SoftAuto MCP
 
 开源 Windows RPA 和 Model Context Protocol 服务器，通过 UI Automation 为 AI 智能体提供桌面控制能力。

@@ -1,3 +1,11 @@
+---
+title: "OneJev-Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f2e2030eaee4250d995d/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # OneJev-Data
 
 OneJev-Data releases 94,707 question-and-answer training rows spanning GUI-agent runs, screens, images, video and text in Parquet files.

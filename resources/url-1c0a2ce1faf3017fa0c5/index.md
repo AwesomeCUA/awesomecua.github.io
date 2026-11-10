@@ -1,3 +1,11 @@
+---
+title: "GUI testing for mobile applications… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/
+updated: 2026-11-09
+type: survey
+lang: en
+---
+
 # GUI testing for mobile applications: objectives, approaches and challenges
 
 A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
@@ -26,6 +34,21 @@ Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
 
 - BibTeX: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/citation.csl.json
+
+```bibtex
+@inproceedings{cua_1437035b5d55534c9885b7d0,
+  title = {{GUI testing for mobile applications: objectives, approaches and challenges}},
+  author = {{Kabir S. Said} and {Liming Nie} and {Adekunle A. Ajibode} and {Xueyi Zhou}},
+  year = {2020},
+  month = nov,
+  booktitle = {12th Asia-Pacific Symposium on Internetware},
+  publisher = {ACM},
+  pages = {51-60},
+  doi = {10.1145/3457913.3457931},
+  url = {https://www.researchgate.net/profile/Kabir-Said/publication/353394632\_GUI\_testing\_for\_mobile\_applications\_objectives\_approaches\_and\_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf},
+  note = {Publication date: 2020-11.}
+}
+```
 
 ## Publication record
 

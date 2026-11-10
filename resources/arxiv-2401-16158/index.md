@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent: Autonomous Multi-Modal Mobile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-16158/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 
 Uses visual perception tools and task decomposition to operate mobile applications without relying on app interface metadata.
@@ -26,6 +34,18 @@ Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-16158/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-16158/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_16158,
+  title = {{Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception}},
+  author = {{Junyang Wang} and {Haiyang Xu} and {Jiabo Ye} and {Ming Yan} and {Weizhou Shen} and {Ji Zhang} and {Fei Huang} and {Jitao Sang}},
+  year = {2024},
+  eprint = {2401.16158v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.16158v2},
+  note = {First published: 2024-01-29; Recorded arXiv version: v2; Recorded version updated: 2024-04-18T06:53:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GUI-360 · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0b590d03a3d5103a79e4/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # GUI-360
 
 支持多种界面理解任务的桌面 GUI 轨迹数据。

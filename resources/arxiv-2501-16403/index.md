@@ -1,3 +1,11 @@
+---
+title: "Is Open Source the Future of AI? A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-16403/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Is Open Source the Future of AI? A Data-Driven Approach
 
 Status: excluded from the active CUA catalog after scope review.

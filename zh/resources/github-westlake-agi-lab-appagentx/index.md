@@ -1,3 +1,11 @@
+---
+title: "AppAgentX · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-westlake-agi-lab-appagentx/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # AppAgentX
 
 利用积累的交互经验开展移动端智能体研究。

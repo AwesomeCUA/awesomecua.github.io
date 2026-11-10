@@ -1,3 +1,11 @@
+---
+title: "gui-report-automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-loncoeng-gui-report-automation/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # gui-report-automation
 
 定时自动化工具，借用已登录的 Chrome 会话导出并验证企业 GUI 报表。

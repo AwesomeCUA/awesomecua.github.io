@@ -1,3 +1,11 @@
+---
+title: "KC Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kuichi-x-kc-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # KC Browser
 
 KC Browser is a Chromium-based browser binary for automated web sessions. It generates seeded browser identities and can be launched through Playwright or Puppeteer.

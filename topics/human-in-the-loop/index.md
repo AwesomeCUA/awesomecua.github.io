@@ -1,3 +1,11 @@
+---
+title: "Human in the loop — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/human-in-the-loop/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Human in the loop
 
 Reviewed topic membership; resources can appear in multiple topics.

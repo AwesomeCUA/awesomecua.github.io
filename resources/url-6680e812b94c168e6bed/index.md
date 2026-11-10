@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Group | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6680e812b94c168e6bed/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Screen2AX-Group
 
 A dataset of macOS application screenshots with bounding boxes and UI group labels for training and evaluating interface object detection models.

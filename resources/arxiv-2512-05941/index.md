@@ -1,3 +1,11 @@
+---
+title: "Zoom in, Click out: Unlocking and Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-05941/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding
 
 ZoomClick uses repeated zooming and context adjustment to improve GUI grounding without training. The paper studies zoom depth, crop sizes, and related choices and introduces GUIZoom-Bench to evaluate how grounding models respond to zoomed views.
@@ -26,6 +34,18 @@ Zhiyuan Jiang, Shenghao Xie, Wenyi Li, Wenqiang Zu, Peihang Li, Jiahao Qiu, Siqi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-05941/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-05941/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_05941,
+  title = {{Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding}},
+  author = {{Zhiyuan Jiang} and {Shenghao Xie} and {Wenyi Li} and {Wenqiang Zu} and {Peihang Li} and {Jiahao Qiu} and {Siqi Pei} and {Lei Ma} and {Tiejun Huang} and {Mengdi Wang} and {Shilong Liu}},
+  year = {2025},
+  eprint = {2512.05941v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.05941v1},
+  note = {First published: 2025-12-05; Recorded arXiv version: v1; Recorded version updated: 2025-12-05T18:39:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "OpenVINO Autonomous GUI Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shehrozkashif-openvino-autonomous-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OpenVINO Autonomous GUI Agent
 
 完全在本地运行的桌面 GUI 智能体，使用 5 个 INT4 OpenVINO 模型完成屏幕感知、规划、动作执行和步骤验证。

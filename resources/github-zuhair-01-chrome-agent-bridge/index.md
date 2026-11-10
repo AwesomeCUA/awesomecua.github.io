@@ -1,3 +1,11 @@
+---
+title: "zuhair-01 chrome-agent-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zuhair-01-chrome-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # zuhair-01 chrome-agent-bridge
 
 Universal Chrome control bridge for OpenCode, Codex, and Claude Code coding agents.

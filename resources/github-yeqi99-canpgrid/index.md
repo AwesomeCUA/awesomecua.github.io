@@ -1,3 +1,11 @@
+---
+title: "CanpGrid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yeqi99-canpgrid/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CanpGrid
 
 CanpGrid provides an adaptive recursive image grid overlay for progressive coarse-to-fine visual localization by multimodal agents.

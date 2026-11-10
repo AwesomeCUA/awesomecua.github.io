@@ -1,3 +1,11 @@
+---
+title: "AutoDojo: A Generative Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15057/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoDojo: A Generative Benchmark for Evaluating Prompt Injection Defenses in LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

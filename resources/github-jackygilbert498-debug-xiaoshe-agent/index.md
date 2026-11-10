@@ -1,3 +1,11 @@
+---
+title: "Xiaoshe Agent (小蛇 Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Xiaoshe Agent (小蛇 Agent)
 
 Local-first desktop agent built on DeepSeek Harness featuring plugin governance, permission approvals, and completion receipts.

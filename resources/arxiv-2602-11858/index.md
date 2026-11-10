@@ -1,3 +1,11 @@
+---
+title: "Zooming without Zooming: Region-to-Image… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-11858/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception
 
 Bibliographic record for Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Lai Wei, Liangbo He, Jun Lan, Lingzhong Dong, Yutong Cai, Siyuan Li, Huijia Zhu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-11858/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-11858/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11858,
+  title = {{Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception}},
+  author = {{Lai Wei} and {Liangbo He} and {Jun Lan} and {Lingzhong Dong} and {Yutong Cai} and {Siyuan Li} and {Huijia Zhu} and {Weiqiang Wang} and {Linghe Kong} and {Yue Wang} and {Zhuosheng Zhang} and {Weiran Huang}},
+  year = {2026},
+  eprint = {2602.11858v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11858v2},
+  note = {First published: 2026-02-12; Recorded arXiv version: v2; Recorded version updated: 2026-02-16T11:54:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

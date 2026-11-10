@@ -1,3 +1,11 @@
+---
+title: "Tencent BrowserSkill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-browserskill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Tencent BrowserSkill
 
 Tencent 提供的 CLI 和浏览器扩展，使 AI 智能体能够在非侵入式工作区中操作用户已登录的浏览器。

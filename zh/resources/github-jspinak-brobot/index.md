@@ -1,3 +1,11 @@
+---
+title: "Brobot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jspinak-brobot/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Brobot
 
 Brobot 是一个 Java 视觉自动化框架，可识别界面元素并建立应用状态模型，以导航、执行操作和从错误中恢复。

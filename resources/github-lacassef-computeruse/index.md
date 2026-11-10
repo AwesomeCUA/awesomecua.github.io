@@ -1,3 +1,11 @@
+---
+title: "cua_agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lacassef-computeruse/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # cua_agent
 
 cua_agent is a modular Python computer-use framework with OS-agnostic planning, semantic UI grounding, and policy-checked desktop/browser drivers.

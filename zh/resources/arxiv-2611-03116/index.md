@@ -1,3 +1,11 @@
+---
+title: "From Local Skills to Long-Horizon Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-03116/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents
 
 提出网页智能体训练方法 SCOPE，从运行轨迹中发现局部技能，将其串联，并利用失败经验扩展技能链以处理长任务。
@@ -27,6 +35,18 @@ Xueyang Feng, Xiaohe Bo, Xu Chen, Quanyu Dai, Feng Wen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-03116/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-03116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_03116,
+  title = {{From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents}},
+  author = {{Xueyang Feng} and {Xiaohe Bo} and {Xu Chen} and {Quanyu Dai} and {Feng Wen}},
+  year = {2026},
+  eprint = {2611.03116v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.03116v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T13:32:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

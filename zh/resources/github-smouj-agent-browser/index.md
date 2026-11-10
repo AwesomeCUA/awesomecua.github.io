@@ -1,3 +1,11 @@
+---
+title: "Smouj AgentBrowser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-smouj-agent-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Smouj AgentBrowser
 
 AI 驱动的浏览器自动化平台，结合 REST API、实时网页控制面板和视觉辅助 DOM 交互。

@@ -1,3 +1,11 @@
+---
+title: "LongPuzzleBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bingozhang-verapraxis-longpuzzlebench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # LongPuzzleBench
 
 LongPuzzleBench 通过需要多步骤空间推理的长时程视觉解谜游戏，评测 GUI 和计算机使用智能体。

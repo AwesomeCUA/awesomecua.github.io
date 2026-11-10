@@ -1,3 +1,11 @@
+---
+title: "Anionex DSH Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anionex-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Anionex DSH Computer Use
 
 macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.

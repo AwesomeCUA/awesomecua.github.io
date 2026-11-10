@@ -1,3 +1,11 @@
+---
+title: "Apprentice | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bluzername-apprentice/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Apprentice
 
 Apprentice is a local-first macOS agent that observes repeated user routines across allowlisted apps and replays them with click-by-click approval.

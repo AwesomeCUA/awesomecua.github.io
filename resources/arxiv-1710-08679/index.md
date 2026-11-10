@@ -1,3 +1,11 @@
+---
+title: "Implicit Low-Order Unstructured… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1710-08679/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Implicit Low-Order Unstructured Finite-Element Multiple Simulation Enhanced by Dense Computation using OpenACC
 
 Status: excluded from the active CUA catalog after scope review.

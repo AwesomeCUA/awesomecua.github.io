@@ -1,3 +1,11 @@
+---
+title: "Tabtii BrowserMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tabtii-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Tabtii BrowserMCP
 
 零依赖的 Chrome MCP 服务器，向 Claude 和 MCP 客户端提供 35 个浏览器控制工具。

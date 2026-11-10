@@ -1,3 +1,11 @@
+---
+title: "Qontinui | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qontinui-qontinui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Qontinui
 
 Qontinui is a model-based GUI automation framework that represents application screens as state graphs with visual template and OCR matching.

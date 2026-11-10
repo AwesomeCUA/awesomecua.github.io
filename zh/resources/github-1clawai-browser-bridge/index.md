@@ -1,3 +1,11 @@
+---
+title: "1Claw Browser Bridge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-1clawai-browser-bridge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # 1Claw Browser Bridge
 
 受管控的凭据注入与浏览器控制桥接工具，让 AI 智能体无需查看原始密钥即可操作已认证会话。

@@ -1,3 +1,11 @@
+---
+title: "Xiaozhuang DSH · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-niushuanan-xiaozhuang-dsh/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Xiaozhuang DSH
 
 经插件增强的 DeepSeek Harness 发行版，预装桌面计算机使用和浏览器自动化功能。

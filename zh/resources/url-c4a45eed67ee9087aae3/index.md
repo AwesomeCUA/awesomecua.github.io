@@ -1,3 +1,11 @@
+---
+title: "Claude Sonnet 4.6 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c4a45eed67ee9087aae3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Claude Sonnet 4.6
 
 通用模型；发布说明介绍其通过视觉观察、鼠标和键盘操作电脑，并报告 OSWorld 评估及提示注入测试。

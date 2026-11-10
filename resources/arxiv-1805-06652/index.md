@@ -1,3 +1,11 @@
+---
+title: "Affective computing using speech and eye… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1805-06652/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Affective computing using speech and eye gaze: a review and bimodal system proposal for continuous affect prediction
 
 Status: excluded from the active CUA catalog after scope review.

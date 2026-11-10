@@ -1,3 +1,11 @@
+---
+title: "LookAgain: Closed-Loop GUI Grounding… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-09723/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection
 
 LookAgain 将 GUI 坐标视为可修正的假设，在确认前显示其标记及局部截图；先用带反思的监督轨迹初始化，再依据最终定位正确性采用 GRPO 训练。
@@ -27,6 +35,18 @@ Renshan Zhang, Haoyang Meng, Yixiao He, Rui Shao, April Hua Liu, Liqiang Nie
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-09723/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-09723/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_09723,
+  title = {{LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection}},
+  author = {{Renshan Zhang} and {Haoyang Meng} and {Yixiao He} and {Rui Shao} and {April Hua Liu} and {Liqiang Nie}},
+  year = {2026},
+  eprint = {2608.09723v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.09723v1},
+  note = {First published: 2026-08-10; Recorded arXiv version: v1; Recorded version updated: 2026-08-10T15:23:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

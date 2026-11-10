@@ -1,3 +1,11 @@
+---
+title: "Learning Efficient Guardrails for Compliance | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-03485/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Learning Efficient Guardrails for Compliance
 
 Introduces PolicyGuardBench for detecting policy violations in full web-agent trajectories and their prefixes, and trains PolicyGuard as an efficient guardrail model.
@@ -26,6 +34,18 @@ Xiaofei Wen, Wenjie Jacky Mo, Yanan Xie, Peng Qi, Muhao Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-03485/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-03485/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_03485,
+  title = {{Learning Efficient Guardrails for Compliance}},
+  author = {{Xiaofei Wen} and {Wenjie Jacky Mo} and {Yanan Xie} and {Peng Qi} and {Muhao Chen}},
+  year = {2025},
+  eprint = {2510.03485v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.03485v2},
+  note = {First published: 2025-10-03; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T21:29:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browsermcp-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Browser MCP
 
 本地 MCP 服务器与 Chromium 扩展，通过 Playwright 让 AI 应用操作浏览器标签页，并提供配对机制和扩展侧的操作限制。

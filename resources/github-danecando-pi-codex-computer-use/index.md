@@ -1,3 +1,11 @@
+---
+title: "pi-codex-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-danecando-pi-codex-computer-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # pi-codex-computer-use
 
 pi-codex-computer-use lets Pi agents inspect and control macOS apps through Codex Computer Use, exposing screenshots, accessibility trees, and input actions as tools.

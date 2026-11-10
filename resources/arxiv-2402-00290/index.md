@@ -1,3 +1,11 @@
+---
+title: "MEIA: Multimodal Embodied Perception and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-00290/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments
 
 Bibliographic record for MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yang Liu, Xinshuai Song, Kaixuan Jiang, Weixing Chen, Jingzhou Luo, Guanbin Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-00290/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-00290/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_00290,
+  title = {{MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments}},
+  author = {{Yang Liu} and {Xinshuai Song} and {Kaixuan Jiang} and {Weixing Chen} and {Jingzhou Luo} and {Guanbin Li} and {Liang Lin}},
+  year = {2024},
+  eprint = {2402.00290v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.00290v3},
+  note = {First published: 2024-02-01; Recorded arXiv version: v3; Recorded version updated: 2024-07-29T05:47:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

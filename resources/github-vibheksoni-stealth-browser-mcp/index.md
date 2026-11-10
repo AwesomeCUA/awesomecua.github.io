@@ -1,3 +1,11 @@
+---
+title: "Stealth Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vibheksoni-stealth-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Stealth Browser MCP
 
 Stealth Browser MCP provides anti-detect Chrome DevTools Protocol automation over MCP for navigating Cloudflare and login-protected websites.

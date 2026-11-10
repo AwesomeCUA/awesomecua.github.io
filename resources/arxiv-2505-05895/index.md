@@ -1,3 +1,11 @@
+---
+title: "Leveraging Vision-Language Models for Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-05895/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI
 
 Introduces AutomotiveUI-Bench-4K and a fine-tuned vision-language model for locating elements and evaluating automotive infotainment interfaces.
@@ -26,6 +34,18 @@ Benjamin Raphael Ernhofer, Daniil Prokhorov, Jannica Langner, Dominik Bollmann
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-05895/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-05895/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_05895,
+  title = {{Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI}},
+  author = {{Benjamin Raphael Ernhofer} and {Daniil Prokhorov} and {Jannica Langner} and {Dominik Bollmann}},
+  year = {2025},
+  eprint = {2505.05895v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.05895v3},
+  note = {First published: 2025-05-09; Recorded arXiv version: v3; Recorded version updated: 2025-08-05T16:23:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

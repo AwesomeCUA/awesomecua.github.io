@@ -1,3 +1,11 @@
+---
+title: "Smol2Operator · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huggingface-smol2operator/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # Smol2Operator
 
 Hugging Face 方案将 Aguvis GUI 数据统一为一种操作空间，再分两阶段微调 SmolVLM2-2.2B：先学习截图元素定位，再生成智能体 GUI 操作代码。

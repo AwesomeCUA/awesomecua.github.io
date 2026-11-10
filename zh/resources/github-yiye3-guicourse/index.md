@@ -1,3 +1,11 @@
+---
+title: "GUICourse · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yiye3-guicourse/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # GUICourse
 
 用于将通用 VLM 转化为 GUI 智能体的 3 个数据集：面向 OCR 和定位的 GUIEnv、含 67k 条单步及 15k 条多步网页和 Android 操作的 GUIAct，以及 GUIChat 对话数据。

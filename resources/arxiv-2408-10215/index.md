@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Overview of Reward Engineering… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-10215/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Comprehensive Overview of Reward Engineering and Shaping in Advancing Reinforcement Learning Applications
 
 Status: excluded from the active CUA catalog after scope review.

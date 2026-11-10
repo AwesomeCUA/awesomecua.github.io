@@ -1,3 +1,11 @@
+---
+title: "dsh-antibrow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-antibrow-dsh-antibrow/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-antibrow
 
 DeepSeek Harness plugin integrating the AntiBrow anti-detect browser for stealth web automation.

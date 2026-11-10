@@ -1,3 +1,11 @@
+---
+title: "ShowUI-π checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f70aa7c95824a8729516/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # ShowUI-π checkpoint
 
 轻量级视觉操作模型检查点，根据截图和自然语言指令预测连续的 GUI 拖动轨迹。

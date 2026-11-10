@@ -1,3 +1,11 @@
+---
+title: "HarmonyGuard: Toward Safety and Utility in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-04010/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # HarmonyGuard: Toward Safety and Utility in Web Agents via Adaptive Policy Enhancement and Dual-Objective Optimization
 
 Introduces HarmonyGuard, a multi-agent framework that updates security policies and weighs safety against task completion for agents operating on the open web.
@@ -26,6 +34,18 @@ Yurun Chen, Xavier Hu, Yuhan Liu, Keting Yin, Juncheng Li, Zhuosheng Zhang, Shen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-04010/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-04010/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04010,
+  title = {{HarmonyGuard: Toward Safety and Utility in Web Agents via Adaptive Policy Enhancement and Dual-Objective Optimization}},
+  author = {{Yurun Chen} and {Xavier Hu} and {Yuhan Liu} and {Keting Yin} and {Juncheng Li} and {Zhuosheng Zhang} and {Shengyu Zhang}},
+  year = {2025},
+  eprint = {2508.04010v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04010v1},
+  note = {First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T01:49:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

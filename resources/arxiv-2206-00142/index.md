@@ -1,3 +1,11 @@
+---
+title: "IGLU Gridworld: Simple and Fast Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-00142/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # IGLU Gridworld: Simple and Fast Environment for Embodied Dialog Agents
 
 Bibliographic record for IGLU Gridworld: Simple and Fast Environment for Embodied Dialog Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Artem Zholus, Alexey Skrynnik, Shrestha Mohanty, Zoya Volovikova, Julia Kiseleva
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2206-00142/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2206-00142/citation.csl.json
+
+```bibtex
+@misc{arxiv_2206_00142,
+  title = {{IGLU Gridworld: Simple and Fast Environment for Embodied Dialog Agents}},
+  author = {{Artem Zholus} and {Alexey Skrynnik} and {Shrestha Mohanty} and {Zoya Volovikova} and {Julia Kiseleva} and {Artur Szlam} and {Marc-Alexandre Coté} and {Aleksandr I. Panov}},
+  year = {2022},
+  eprint = {2206.00142v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2206.00142v1},
+  note = {First published: 2022-05-31; Recorded arXiv version: v1; Recorded version updated: 2022-05-31T23:08:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

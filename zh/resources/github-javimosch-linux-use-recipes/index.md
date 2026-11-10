@@ -1,3 +1,11 @@
+---
+title: "linux-use-recipes · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-javimosch-linux-use-recipes/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # linux-use-recipes
 
 一组使用 linux-use 自动操作 Linux 桌面应用和网站的操作指南，涵盖浏览器配置、无障碍接口常见问题、发帖流程及操作验证。

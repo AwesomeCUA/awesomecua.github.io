@@ -1,3 +1,11 @@
+---
+title: "YADB | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ysbing-yadb/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # YADB
 
 YADB extends Android Debug Bridge with text input, screenshots, UI layout dumps and simulated gestures for device automation.

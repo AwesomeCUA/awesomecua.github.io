@@ -1,3 +1,11 @@
+---
+title: "UI Act | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tobiasnorlund-ui-act/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # UI Act
 
 UI Act is a Linux desktop computer-use agent that operates alongside the user via a dedicated virtual mouse and keyboard cursor.

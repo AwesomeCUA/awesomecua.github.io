@@ -1,3 +1,11 @@
+---
+title: "Constraining Host-Level Abuse in Self-Hosted… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-06393/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation
 
 A TEE-backed design confines host operations by self-hosted computer-use agents, classifying and authorizing actions before constrained local execution.
@@ -26,6 +34,18 @@ Di Lu, Bo Zhang, Xiyuan Li, Yongzhi Liao, Xuewen Dong, Yulong Shen, Zhiquan Liu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-06393/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-06393/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_06393,
+  title = {{Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation}},
+  author = {{Di Lu} and {Bo Zhang} and {Xiyuan Li} and {Yongzhi Liao} and {Xuewen Dong} and {Yulong Shen} and {Zhiquan Liu} and {Jianfeng Ma}},
+  year = {2026},
+  eprint = {2605.06393v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.06393v1},
+  note = {First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T15:08:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

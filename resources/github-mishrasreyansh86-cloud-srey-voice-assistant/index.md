@@ -1,3 +1,11 @@
+---
+title: "SREY Voice Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # SREY Voice Assistant
 
 Python desktop voice assistant for automating local applications, web searches, and system controls.

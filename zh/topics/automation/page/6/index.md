@@ -1,3 +1,11 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 6 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/6/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 6 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/6/

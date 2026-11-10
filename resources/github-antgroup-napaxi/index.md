@@ -1,3 +1,11 @@
+---
+title: "Napaxi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-antgroup-napaxi/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Napaxi
 
 Mobile-native agent SDK by Ant Group for building on-device AI agents with sandboxed skill execution.

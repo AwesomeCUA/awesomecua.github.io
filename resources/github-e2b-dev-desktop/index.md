@@ -1,3 +1,11 @@
+---
+title: "E2B Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-e2b-dev-desktop/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # E2B Desktop
 
 Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.

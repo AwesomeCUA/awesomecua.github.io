@@ -1,3 +1,11 @@
+---
+title: "PortaMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tnlegend-portamcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # PortaMCP
 
 Client-neutral Model Context Protocol server and secure desktop Control Center for Windows automation.

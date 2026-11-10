@@ -1,3 +1,11 @@
+---
+title: "FSB (Full Self Browsing) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fullselfbrowsing-fsb/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # FSB (Full Self Browsing)
 
 Full Self Browsing（FSB）是面向 Chrome 和 MCP 客户端、以 DOM 为主的浏览器自动化运行环境，支持结构化页面快照和动作重放。

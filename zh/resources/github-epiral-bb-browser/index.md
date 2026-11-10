@@ -1,3 +1,11 @@
+---
+title: "bb-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-epiral-bb-browser/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # bb-browser
 
 供 AI 智能体使用的 CLI 与 MCP 工具，可在现有 Chrome 会话中读取页面快照、操作元素、截取屏幕，并调用网站适配器。

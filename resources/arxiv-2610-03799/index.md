@@ -1,3 +1,11 @@
+---
+title: "StepCAD: Mesh-to-CAD Code Generation via LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-03799/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search
 
 Bibliographic record for StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ghadi Nehme, Faez Ahmed
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03799/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03799/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03799,
+  title = {{StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search}},
+  author = {{Ghadi Nehme} and {Faez Ahmed}},
+  year = {2026},
+  eprint = {2610.03799v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03799v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T05:57:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

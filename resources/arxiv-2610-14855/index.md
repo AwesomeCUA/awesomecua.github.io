@@ -1,3 +1,11 @@
+---
+title: "PEAM: On-device Communication Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14855/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # PEAM: On-device Communication Agent for Personalized, Efficient and Autonomous Mobile Network Configuration
 
 Bibliographic record for PEAM: On-device Communication Agent for Personalized, Efficient and Autonomous Mobile Network Configuration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haowen Wan, Shangzhuo Xie, Syue-Ju Syue, Xianyue Wu, Runhua Li, Qianqian Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14855/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14855/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14855,
+  title = {{PEAM: On-device Communication Agent for Personalized, Efficient and Autonomous Mobile Network Configuration}},
+  author = {{Haowen Wan} and {Shangzhuo Xie} and {Syue-Ju Syue} and {Xianyue Wu} and {Runhua Li} and {Qianqian Yang}},
+  year = {2026},
+  eprint = {2610.14855v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14855v1},
+  note = {First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T12:21:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

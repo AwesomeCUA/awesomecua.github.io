@@ -1,3 +1,11 @@
+---
+title: "SoftwareGym: Scaling Computer-Use Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-12611/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments
 
 Introduces SoftwareGym, a pipeline that synthesizes runnable GUI applications and iteratively repairs them using execution checks. It also provides a task benchmark and studies whether training on synthesized application trajectories transfers to other computer-use environments.
@@ -26,6 +34,18 @@ Tian Jin, Wenhao Wang, Jing Kang, Haoting Shi, Rui Ye, Yijun Lu, Siheng Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12611/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12611/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12611,
+  title = {{SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments}},
+  author = {{Tian Jin} and {Wenhao Wang} and {Jing Kang} and {Haoting Shi} and {Rui Ye} and {Yijun Lu} and {Siheng Chen}},
+  year = {2026},
+  eprint = {2610.12611v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12611v2},
+  note = {First published: 2026-10-08; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T08:40:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

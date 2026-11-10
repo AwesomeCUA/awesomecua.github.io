@@ -1,3 +1,11 @@
+---
+title: "Don't Click That: Teaching Web Agents to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-09497/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces
 
 DUDE combines asymmetric hybrid-reward learning with summaries of deceptive-interface failures to guide safer web actions. Its RUC benchmark evaluates deception susceptibility alongside ordinary task performance across interface scenarios.
@@ -26,6 +34,18 @@ Yilin Zhang, Yingkai Hua, Chunyu Wei, Xin Wang, Yueguo Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-09497/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-09497/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_09497,
+  title = {{Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces}},
+  author = {{Yilin Zhang} and {Yingkai Hua} and {Chunyu Wei} and {Xin Wang} and {Yueguo Chen}},
+  year = {2026},
+  eprint = {2605.09497v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.09497v1},
+  note = {First published: 2026-05-10; Recorded arXiv version: v1; Recorded version updated: 2026-05-10T12:11:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "web-pilot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vinimabreu-web-pilot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # web-pilot
 
 浏览器使用框架，模型从封闭的动作集合中提出单个动作，再由确定性代码验证并执行。

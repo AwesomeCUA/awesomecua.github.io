@@ -1,3 +1,11 @@
+---
+title: "RelationGUI & RelationQA · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-malonghui-relationgui/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # RelationGUI & RelationQA
 
 RelationGUI 提供数据集和训练代码，帮助 GUI 智能体明确理解空间、层级和功能关系。

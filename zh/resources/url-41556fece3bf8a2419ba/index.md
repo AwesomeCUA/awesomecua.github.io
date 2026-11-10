@@ -1,3 +1,11 @@
+---
+title: "MultimodalWebSurfer · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-41556fece3bf8a2419ba/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # MultimodalWebSurfer
 
 MultimodalWebSurfer 使用带标记的截图和多模态模型选择网页操作，再通过 Playwright 控制 Chromium 浏览器。

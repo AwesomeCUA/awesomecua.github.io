@@ -1,3 +1,11 @@
+---
+title: "WebRetriever (github.com/Mininglamp-AI/WebRetr… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mininglamp-ai-webretriever/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WebRetriever
 
 WebRetriever supplies a web-agent evaluation runner and a judge that assesses task completion from captured requests, actions and page URLs.

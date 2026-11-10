@@ -1,3 +1,11 @@
+---
+title: "The Physics of Multi-Turn Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-24720/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation
 
 Status: excluded from the active CUA catalog after scope review.

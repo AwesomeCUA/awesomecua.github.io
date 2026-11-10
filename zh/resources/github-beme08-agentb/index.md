@@ -1,3 +1,11 @@
+---
+title: "agentB · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-beme08-agentb/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # agentB
 
 agentB 是评测基准，用于评测开放网页智能体在真实知识工作和浏览器自动化任务上的表现。

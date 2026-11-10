@@ -1,3 +1,11 @@
+---
+title: "MemAgent: A cache-inspired framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3fdea133115518f9205a/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information
 
 MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.
@@ -26,6 +34,21 @@ Nazmus Sakib, Protoy Barai, Sifat Ishmam Parisa, Anindya Iqbal
 
 - BibTeX: https://awesomecua.com/resources/url-3fdea133115518f9205a/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-3fdea133115518f9205a/citation.csl.json
+
+```bibtex
+@inproceedings{cua_763f57fe840ec9d67362bb53,
+  title = {{MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information}},
+  author = {{Nazmus Sakib} and {Protoy Barai} and {Sifat Ishmam Parisa} and {Anindya Iqbal}},
+  year = {2025},
+  booktitle = {From Objects to Agents 2025},
+  publisher = {CEUR-WS.org},
+  series = {CEUR Workshop Proceedings},
+  volume = {4028},
+  pages = {106-123},
+  url = {https://ceur-ws.org/Vol-4028/paper8.pdf},
+  note = {Publication date: 2025.}
+}
+```
 
 ## Publication record
 

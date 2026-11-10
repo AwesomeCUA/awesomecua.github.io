@@ -1,12 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 14 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/14/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 14 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/14/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [GenPark Multi-Step Web Form Orchestrator Skill](https://awesomecua.com/zh/resources/github-alpha-park-genpark-multi-step-web-form-fill-orchestrator-skill/)
-- [Geohotstan DSH Codex Computer Use](https://awesomecua.com/zh/resources/github-geohotstan-dsh-computer-use/)
-- [GERALLT](https://awesomecua.com/zh/resources/github-dlr-sc-gerallt/)
 - [Ghost (macOS Accessibility CLI)](https://awesomecua.com/zh/resources/github-tylergibbs1-ghost/)
 - [Ghost (Non-Interfering macOS CUA)](https://awesomecua.com/zh/resources/github-fletcherholt-ghost/)
 - [Ghost Browser by Gemma](https://awesomecua.com/zh/resources/github-ddangkong-ghost-browser/)
@@ -64,3 +69,6 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/14/
 - [hightemp MCP Browser Control](https://awesomecua.com/zh/resources/github-hightemp-mcp-browser-control/)
 - [Hikari (光)](https://awesomecua.com/zh/resources/github-codewithevilxd-hikari/)
 - [Hronaut](https://awesomecua.com/zh/resources/github-hronaut-hronaut/)
+- [Human Browser Copilot](https://awesomecua.com/zh/resources/github-officiallemmy254-droid-human-browser-copilot/)
+- [Human-Browser](https://awesomecua.com/zh/resources/github-hterzia-human-browser/)
+- [HumanCursor](https://awesomecua.com/zh/resources/github-riflosnake-humancursor/)

@@ -1,3 +1,11 @@
+---
+title: "pagewatch-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-toolshedlabs-hash-pagewatch-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pagewatch-mcp
 
 Minimal 3-tool Model Context Protocol server for reading webpages as Markdown, capturing screenshots, and exporting PDFs.

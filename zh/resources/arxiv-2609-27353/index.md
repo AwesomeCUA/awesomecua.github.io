@@ -1,3 +1,11 @@
+---
+title: "Guides That Cause Actions: An Offline… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-27353/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents
 
 WebMRE 基于成功的 WebArena 轨迹构建离线基准，将指导语句与已定位的操作配对。通过控制解码前缀的干预测试指导内容如何影响操作选择，并区分离线预测指标与实时浏览器任务成功率。
@@ -27,6 +35,18 @@ Chengguang Gan, Yunhao Liang, QingHao Zhang, Shiwen Ni
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-27353/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-27353/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_27353,
+  title = {{Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents}},
+  author = {{Chengguang Gan} and {Yunhao Liang} and {QingHao Zhang} and {Shiwen Ni}},
+  year = {2026},
+  eprint = {2609.27353v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.27353v1},
+  note = {First published: 2026-09-23; Recorded arXiv version: v1; Recorded version updated: 2026-09-23T04:49:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

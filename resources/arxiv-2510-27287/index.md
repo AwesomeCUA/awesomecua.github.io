@@ -1,3 +1,11 @@
+---
+title: "Can LLMs Help You at Work? A Sandbox for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-27287/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments
 
 Bibliographic record for Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Harsh Vishwakarma, Ankush Agarwal, Ojas Patil, Chaitanya Devaguptapu, Mahesh Cha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-27287/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-27287/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_27287,
+  title = {{Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments}},
+  author = {{Harsh Vishwakarma} and {Ankush Agarwal} and {Ojas Patil} and {Chaitanya Devaguptapu} and {Mahesh Chandran}},
+  year = {2025},
+  eprint = {2510.27287v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.27287v1},
+  note = {First published: 2025-10-31; Recorded arXiv version: v1; Recorded version updated: 2025-10-31T08:55:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

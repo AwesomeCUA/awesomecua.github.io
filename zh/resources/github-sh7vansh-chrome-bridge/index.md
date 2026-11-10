@@ -1,3 +1,11 @@
+---
+title: "sh7vansh Chrome Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sh7vansh-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # sh7vansh Chrome Bridge
 
 持久化 Python 运行时与 Chrome Native Messaging 桥接工具，供 AI 智能体操控实时浏览器标签页。

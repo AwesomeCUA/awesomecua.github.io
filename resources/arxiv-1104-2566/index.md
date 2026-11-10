@@ -1,3 +1,11 @@
+---
+title: "Load-Balancing Spatially Located Computations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1104-2566/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Load-Balancing Spatially Located Computations using Rectangular Partitions
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-32B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-beafd78bf2ea84211e6d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL-32B-Instruct
 
 Qwen2.5-VL-32B-Instruct is a released vision-language checkpoint. Its card describes visual-agent computer and phone use, visual localization, and interface benchmark results.

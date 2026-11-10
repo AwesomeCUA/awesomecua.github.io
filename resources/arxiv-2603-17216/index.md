@@ -1,3 +1,11 @@
+---
+title: "ML-AutoResearch: Training Machine Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-17216/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ML-AutoResearch: Training Machine Learning Research Agents with Automatically Generated Environments
 
 Status: excluded from the active CUA catalog after scope review.

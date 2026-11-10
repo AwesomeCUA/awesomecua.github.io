@@ -1,3 +1,11 @@
+---
+title: "GH-AWTrace: A Large-Scale Dataset of GitHub… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-06866/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs
 
 Bibliographic record for GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jasem Khelifi, Hao Li, Ali Ouni, Mohammed Sayagh, Mohamed Aymen Saied
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-06866/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-06866/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_06866,
+  title = {{GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs}},
+  author = {{Jasem Khelifi} and {Hao Li} and {Ali Ouni} and {Mohammed Sayagh} and {Mohamed Aymen Saied}},
+  year = {2026},
+  eprint = {2611.06866v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.06866v1},
+  note = {First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T18:20:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

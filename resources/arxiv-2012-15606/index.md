@@ -1,3 +1,11 @@
+---
+title: "HateCheck: Functional Tests for Hate Speech… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2012-15606/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HateCheck: Functional Tests for Hate Speech Detection Models
 
 Bibliographic record for HateCheck: Functional Tests for Hate Speech Detection Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Paul Röttger, Bertram Vidgen, Dong Nguyen, Zeerak Waseem, Helen Margetts, Janet
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2012-15606/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2012-15606/citation.csl.json
+
+```bibtex
+@misc{arxiv_2012_15606,
+  title = {{HateCheck: Functional Tests for Hate Speech Detection Models}},
+  author = {{Paul Röttger} and {Bertram Vidgen} and {Dong Nguyen} and {Zeerak Waseem} and {Helen Margetts} and {Janet B. Pierrehumbert}},
+  year = {2020},
+  eprint = {2012.15606v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2012.15606v2},
+  note = {First published: 2020-12-31; Recorded arXiv version: v2; Recorded version updated: 2021-05-27T14:23:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

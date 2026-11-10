@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-openbot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jimmyjdejesus-cmyk-dsh-plugin-openbot/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-plugin-openbot
 
 面向 DeepSeek Harness 的原生 Cordis 插件，集成 CopilotKit OpenBot 容器沙箱和计算机使用功能。

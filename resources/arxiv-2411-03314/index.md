@@ -1,3 +1,11 @@
+---
+title: "MME-Finance: A Multimodal Finance Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-03314/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning
 
 Bibliographic record for MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ziliang Gan, Yu Lu, Dong Zhang, Haohan Li, Che Liu, Jian Liu, Ji Liu, Haipang Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-03314/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-03314/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_03314,
+  title = {{MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning}},
+  author = {{Ziliang Gan} and {Yu Lu} and {Dong Zhang} and {Haohan Li} and {Che Liu} and {Jian Liu} and {Ji Liu} and {Haipang Wu} and {Chaoyou Fu} and {Zenglin Xu} and {Rongjunchen Zhang} and {Yong Dai}},
+  year = {2024},
+  eprint = {2411.03314v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.03314v1},
+  note = {First published: 2024-11-05; Recorded arXiv version: v1; Recorded version updated: 2024-11-05T18:59:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

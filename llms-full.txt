@@ -1,12 +1,42 @@
-# AwesomeCUA curated catalog
+# Awesome CUA curated catalog
 
-> All 5,354 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-10T08:20:17Z. Metadata-only bibliography records and unreviewed candidates are excluded.
+> All 5,347 curated, source-reviewed records of the Awesome CUA computer-use agent catalog (1,718 papers and surveys, 3,629 other resources), one compact entry each, grouped by kind. Snapshot 2026-11-10T08:20:17Z. Metadata-only bibliography records and unreviewed candidates are excluded.
 
 Each entry links its catalog page. Append `index.md` to that URL for the full annotation with evidence fingerprints, or `record.json` for the complete record. Full annotations by kind: [Models and checkpoints](https://awesomecua.com/categories/model/index.md), [Datasets](https://awesomecua.com/categories/dataset/index.md), [Benchmarks](https://awesomecua.com/categories/benchmark/index.md), [Agents](https://awesomecua.com/categories/agent/index.md), [Frameworks](https://awesomecua.com/categories/framework/index.md), [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md), [Tools](https://awesomecua.com/categories/tool/index.md), [Products](https://awesomecua.com/categories/product/index.md), [Publishers](https://awesomecua.com/categories/company/index.md), [Learning resources](https://awesomecua.com/categories/learning/index.md), [Surveys](https://awesomecua.com/categories/survey/index.md), [Research library](https://awesomecua.com/papers/index.md).
 
 Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 Related reading: [English research survey](https://awesomecua.com/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
+
+## Questions
+
+### What is Awesome CUA?
+
+Awesome CUA is a source-backed catalog of computer-use, GUI, browser and mobile agents: 5,347 reviewed papers, models, datasets, benchmarks, agents, frameworks, tools and products, each linked to its primary source.
+
+### How many resources does it list?
+
+5,347 reviewed records: 1,718 papers and surveys and 3,629 other resources, including 309 benchmarks, 278 datasets, 475 models, 479 agents, 672 frameworks and 1,162 tools. 1,188 metadata-only bibliography records and 181 scan finds are listed separately.
+
+### How is each record reviewed?
+
+A reviewer reads the primary source (paper, repository, model card or project page) and records the evidence, the review date, and code, data, weights and document licenses separately. Unknown facts stay empty. See the [editorial policy](https://awesomecua.com/about/).
+
+### How can I read the catalog from code?
+
+Clone the GitHub repository, download [catalog.jsonl](https://awesomecua.com/downloads/catalog.jsonl), or call the [JSON API under /api/v1/](https://awesomecua.com/api/). Every page has a Markdown version at index.md, and [llms.txt](https://awesomecua.com/llms.txt) lists them all.
+
+### How often is it updated?
+
+Discovery scans run every 8 hours; the latest was 2026-11-10. See [catalog updates](https://awesomecua.com/updates/).
+
+### How do I cite Awesome CUA?
+
+Use CITATION.cff in the GitHub repository, or copy the BibTeX in [AGENTS.md](https://awesomecua.com/AGENTS.md).
+
+### How do I suggest a resource or report a correction?
+
+Open a [GitHub issue form](https://github.com/reacher-z/Awesome-CUA/issues/new/choose). A reviewer reads the primary source first.
 
 ## Models and checkpoints (475)
 
@@ -5118,7 +5148,7 @@ This OSWorld-V2 dataset provides compact tables for browsing Codex task summarie
 
 - https://awesomecua.com/resources/url-bf57897ba4d047112345/ · source: https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
 
-## Benchmarks (310)
+## Benchmarks (309)
 
 ### Action Check WebMCP
 
@@ -6287,13 +6317,6 @@ A Linux desktop benchmark with 184 tasks spanning seeded web apps and office sof
 - https://awesomecua.com/resources/github-ljang0-mypcbench/ · source: https://github.com/ljang0/MyPCBench
 - Licenses: code MIT
 
-### Navi-Bench
-
-Navi-Bench evaluates web agents on everyday consumer tasks executed directly on live websites with deterministic outcome verifiers.
-
-- https://awesomecua.com/resources/github-yutori-ai-navi-bench/ · source: https://github.com/yutori-ai/navi-bench
-- Licenses: code Apache-2.0
-
 ### Next-Gen CAPTCHAs
 
 Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.
@@ -7189,7 +7212,7 @@ Validation toolkit checking page-owned WebMCP tool schemas, authorization bounda
 - https://awesomecua.com/resources/github-wornpage-webmcp-conformance/ · source: https://github.com/wornpage/webmcp-conformance
 - Licenses: code MIT
 
-## Agents (481)
+## Agents (479)
 
 ### aashutoshkumarr JARVIS Desktop Assistant
 
@@ -8176,13 +8199,6 @@ Safety-first local desktop automation agent built on .NET 9 with cross-platform 
 
 - https://awesomecua.com/resources/github-alessiobianchini-desktopagent/ · source: https://github.com/alessiobianchini/DesktopAgent
 
-### DesktopAgent (S1-Fast)
-
-DesktopAgent operates Windows desktop applications in the background using a local 0.33B System-One decision model (S1-Fast) and UI Automation.
-
-- https://awesomecua.com/resources/github-elidot007-desktop-agent/ · source: https://github.com/elidot007/desktop-agent
-- Licenses: code Apache-2.0
-
 ### DevDesignAmitesh Browser Agent
 
 Autonomous AI web agent that plans and executes multi-step browser interactions from natural-language prompts.
@@ -8997,13 +9013,6 @@ Autonomous web shopping agent that compares grocery basket prices across live de
 Conversational desktop agent shell that observes screen context and executes local OS and GUI actions.
 
 - https://awesomecua.com/resources/github-xretr00-marvi-os/ · source: https://github.com/xRetr00/Marvi-OS
-- Licenses: code MIT
-
-### Mary (Personal AI OS)
-
-Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
-
-- https://awesomecua.com/resources/github-rao-studios-mary/ · source: https://github.com/rao-studios/Mary
 - Licenses: code MIT
 
 ### MealPilot
@@ -10412,7 +10421,7 @@ Zoom Search is a hierarchical web-search agent that previews lightweight page su
 - https://awesomecua.com/resources/github-goofrey-zoom-search/ · source: https://github.com/goofrey/zoom-search
 - Licenses: code MIT
 
-## Frameworks (675)
+## Frameworks (672)
 
 ### 19ska Computer-Use Automation
 
@@ -11072,12 +11081,6 @@ BabyAGI is an autonomous task-management agent framework that iteratively create
 BadAgents provides poisoned training datasets and evaluation scripts for query-, observation-, and thought-triggered backdoor attacks on agents.
 
 - https://awesomecua.com/resources/github-lancopku-agent-backdoor-attacks/ · source: https://github.com/lancopku/agent-backdoor-attacks
-
-### Bees Desktop
-
-Thread-based multi-agent desktop runtime allowing a team of AI agents to collaborate over local files and browsers.
-
-- https://awesomecua.com/resources/github-bees-bot-bees-desktop/ · source: https://github.com/Bees-bot/bees-desktop
 
 ### bg-driver-rs
 
@@ -12975,13 +12978,6 @@ Mobile-native agent SDK by Ant Group for building on-device AI agents with sandb
 
 - https://awesomecua.com/resources/github-antgroup-napaxi/ · source: https://github.com/antgroup/Napaxi
 - Licenses: code GPL-3.0
-
-### Native by K
-
-Local-first open-source AI agent harness for developers integrating terminal, filesystem, and browser control.
-
-- https://awesomecua.com/resources/github-karunya-muddana-native/ · source: https://github.com/Karunya-Muddana/Native
-- Licenses: code Apache-2.0
 
 ### NaturalGAIA & LightManus
 
@@ -14938,12 +14934,6 @@ Online RL framework for GUI agents in which VLMs generate the training tasks and
 - https://awesomecua.com/resources/github-opengvlab-zerogui/ · source: https://github.com/OpenGVLab/ZeroGUI
 - Licenses: code Apache-2.0
 
-### ZetaTron
-
-Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
-
-- https://awesomecua.com/resources/github-itsmarcels-zetatron/ · source: https://github.com/itsmarcelS/ZetaTron
-
 ### Zhaozuo (照做)
 
 Demonstration-driven Windows desktop automation framework compatible with the ActionParity protocol for third-party GUI software.
@@ -15772,7 +15762,7 @@ Zoom Android Template is a simulated meeting app for mobile interaction tests, w
 
 - https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/ · source: https://github.com/Acrab-Agentic-Labs/AppSim-Zoom
 
-## Tools (1,163)
+## Tools (1,162)
 
 ### 988hj7tczd-oss dsh-computer-use
 
@@ -18541,13 +18531,6 @@ DeepSeek Harness plugin integrating the AntiBrow anti-detect browser for stealth
 Firefox browser-control plugin and extension for DeepSeek Harness enabling agents to read and drive live Firefox tabs.
 
 - https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/ · source: https://github.com/tuojc/dsh-browser-firefox
-- Licenses: code MIT
-
-### dsh-browser-full-access
-
-Background-tab full-access fork of `dsh-browser` for DeepSeek Harness web automation.
-
-- https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/ · source: https://github.com/LianPing-cyber/dsh-browser-full-access
 - Licenses: code MIT
 
 ### dsh-browser-ops

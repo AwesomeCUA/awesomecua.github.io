@@ -1,3 +1,11 @@
+---
+title: "MacosUseSDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mediar-ai-macosusesdk/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MacosUseSDK
 
 MacosUseSDK is a Swift library and CLI for traversing the macOS accessibility tree and simulating native mouse and keyboard input.

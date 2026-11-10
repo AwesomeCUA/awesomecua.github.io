@@ -1,3 +1,11 @@
+---
+title: "Deep Reinforcement Learning for List-wise… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1801-00209/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Deep Reinforcement Learning for List-wise Recommendations
 
 Bibliographic record for Deep Reinforcement Learning for List-wise Recommendations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiangyu Zhao, Liang Zhang, Long Xia, Zhuoye Ding, Dawei Yin, Jiliang Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1801-00209/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1801-00209/citation.csl.json
+
+```bibtex
+@misc{arxiv_1801_00209,
+  title = {{Deep Reinforcement Learning for List-wise Recommendations}},
+  author = {{Xiangyu Zhao} and {Liang Zhang} and {Long Xia} and {Zhuoye Ding} and {Dawei Yin} and {Jiliang Tang}},
+  year = {2017},
+  eprint = {1801.00209v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1801.00209v3},
+  note = {First published: 2017-12-30; Recorded arXiv version: v3; Recorded version updated: 2019-06-27T06:29:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

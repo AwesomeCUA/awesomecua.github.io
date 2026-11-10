@@ -1,3 +1,11 @@
+---
+title: "Empowering Embodied Manipulation: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-18860/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks
 
 Bibliographic record for Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianle Zhang, Dongjiang Li, Yihang Li, Zecui Zeng, Lin Zhao, Lei Sun, Yue Chen, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-18860/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-18860/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_18860,
+  title = {{Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks}},
+  author = {{Tianle Zhang} and {Dongjiang Li} and {Yihang Li} and {Zecui Zeng} and {Lin Zhao} and {Lei Sun} and {Yue Chen} and {Xuelong Wei} and {Yibing Zhan} and {Lusong Li} and {Xiaodong He}},
+  year = {2024},
+  eprint = {2405.18860v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.18860v2},
+  note = {First published: 2024-05-29; Recorded arXiv version: v2; Recorded version updated: 2024-06-06T05:53:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

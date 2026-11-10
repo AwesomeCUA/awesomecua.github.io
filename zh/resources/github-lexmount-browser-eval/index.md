@@ -1,3 +1,11 @@
+---
+title: "browser-eval · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lexmount-browser-eval/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # browser-eval
 
 browser-eval 是用于网页抓取、确定性浏览器轨迹重放和自主网页智能体基准评测的测试框架。

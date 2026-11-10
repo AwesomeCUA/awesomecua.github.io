@@ -1,3 +1,11 @@
+---
+title: "AXe | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cameroncooke-axe/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # AXe
 
 A command-line tool for iOS Simulator automation that reads the UI through accessibility APIs and sends HID taps, swipes and text input, with screenshot and video capture.

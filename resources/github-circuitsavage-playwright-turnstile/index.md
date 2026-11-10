@@ -1,3 +1,11 @@
+---
+title: "playwright-turnstile | AwesomeCUA"
+url: https://awesomecua.com/resources/github-circuitsavage-playwright-turnstile/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # playwright-turnstile
 
 Playwright integration for resolving Cloudflare Turnstile challenges via token injection during browser automation.

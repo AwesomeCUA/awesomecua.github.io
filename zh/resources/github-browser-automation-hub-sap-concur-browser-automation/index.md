@@ -1,3 +1,11 @@
+---
+title: "SAP Concur Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-sap-concur-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SAP Concur Browser Automation
 
 面向 SAP Concur 的浏览器自动化脚手架，提供报销单、收据上传、审批队列和支出数据导出等操作。

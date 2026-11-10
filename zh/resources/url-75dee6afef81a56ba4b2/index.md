@@ -1,3 +1,11 @@
+---
+title: "Jedi-7B-1080p · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-75dee6afef81a56ba4b2/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Jedi-7B-1080p
 
 用于计算机界面定位研究的模型检查点，以 Qwen2.5-VL-7B-Instruct 为基础；仓库包含分片权重和分词器文件。

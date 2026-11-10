@@ -1,3 +1,11 @@
+---
+title: "Agent WebBridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeet-dhandha-agent-webbridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent WebBridge
 
 开源浏览器自动化桥接工具和 MCP 服务器，将 Claude Code、Cursor 及编程智能体连接到实时 Chrome 标签页。

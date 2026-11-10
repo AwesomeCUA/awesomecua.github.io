@@ -1,3 +1,11 @@
+---
+title: "Blind Gods and Broken Screens… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-10915/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System
 
 分析依赖屏幕内容的移动智能体所面临的安全风险，并提出智能体运行环境 Aura，采用结构化交互、应用智能体隔离和通信管控。
@@ -27,6 +35,18 @@ Zhenhua Zou, Sheng Guo, Qiuyang Zhan, Lepeng Zhao, Shuo Li, Qi Li, Ke Xu, Mingwe
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-10915/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-10915/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_10915,
+  title = {{Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System}},
+  author = {{Zhenhua Zou} and {Sheng Guo} and {Qiuyang Zhan} and {Lepeng Zhao} and {Shuo Li} and {Qi Li} and {Ke Xu} and {Mingwei Xu} and {Zhuotao Liu}},
+  year = {2026},
+  eprint = {2602.10915v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.10915v3},
+  note = {First published: 2026-02-11; Recorded arXiv version: v3; Recorded version updated: 2026-02-13T12:42:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

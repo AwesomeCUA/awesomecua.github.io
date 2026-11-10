@@ -1,3 +1,11 @@
+---
+title: "DuckTrack · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-theduckai-ducktrack/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DuckTrack
 
 DuckTrack 同步录制屏幕视频及底层鼠标、键盘事件，用于构建多模态计算机交互数据集。

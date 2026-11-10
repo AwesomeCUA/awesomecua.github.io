@@ -1,3 +1,11 @@
+---
+title: "MemMachine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-memmachine-memmachine/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MemMachine
 
 MemMachine is an open-source memory layer for AI agents providing working, episodic, and user-profile memory via REST, Python SDK, and MCP.

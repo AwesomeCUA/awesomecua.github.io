@@ -1,3 +1,11 @@
+---
+title: "WebHarbor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aiming-lab-webharbor/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # WebHarbor
 
 Docker-based local mirrors of 153 real websites with auth and databases, plus 3,518 tasks with verifiers for evaluating and RL-training GUI web agents, and a control plane for sub-second site resets.

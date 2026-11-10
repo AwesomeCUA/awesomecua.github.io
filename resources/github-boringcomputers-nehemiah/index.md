@@ -1,3 +1,11 @@
+---
+title: "Nehemiah | AwesomeCUA"
+url: https://awesomecua.com/resources/github-boringcomputers-nehemiah/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Nehemiah
 
 Nehemiah provisions on-demand Linux Firecracker microVMs equipped with a browser and desktop environment for AI agents.

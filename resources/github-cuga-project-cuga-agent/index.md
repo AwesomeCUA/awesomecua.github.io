@@ -1,3 +1,11 @@
+---
+title: "CUGA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cuga-project-cuga-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # CUGA
 
 Enterprise generalist agent harness that plans over APIs and MCP or OpenAPI tools and, in web or hybrid mode, acts on pages through a browser extension, with intent guards, tool approval and tool guards.

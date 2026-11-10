@@ -1,3 +1,11 @@
+---
+title: "Goby | AwesomeCUA"
+url: https://awesomecua.com/resources/github-juguang-goby/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Goby
 
 Open-source Chrome extension in-page web agent that executes natural-language browsing and form-filling tasks.

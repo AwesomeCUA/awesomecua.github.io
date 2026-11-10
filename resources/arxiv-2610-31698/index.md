@@ -1,3 +1,11 @@
+---
+title: "Understanding Tool-Mediated Interaction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31698/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study
 
 Malva catalogs failures that make GUI agents' tool-mediated view diverge from the live interface; MalvaGuard checks related tool contracts before deployment.
@@ -26,6 +34,18 @@ Yuchen Shao, Wenjing Liu, Yuheng Huang, Mengqian Xu, Ziqun Bao, Long Yang, Lei M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31698/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31698/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31698,
+  title = {{Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study}},
+  author = {{Yuchen Shao} and {Wenjing Liu} and {Yuheng Huang} and {Mengqian Xu} and {Ziqun Bao} and {Long Yang} and {Lei Ma} and {Ting Su} and {Chengcheng Wan}},
+  year = {2026},
+  eprint = {2610.31698v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31698v1},
+  note = {First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T13:27:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

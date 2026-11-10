@@ -1,3 +1,11 @@
+---
+title: "InternGPT: Solving Vision-Centric Tasks by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-05662/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language
 
 Status: excluded from the active CUA catalog after scope review.

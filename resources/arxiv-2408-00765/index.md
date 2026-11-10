@@ -1,3 +1,11 @@
+---
+title: "MM-Vet v2: A Challenging Benchmark to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-00765/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities
 
 Bibliographic record for MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weihao Yu, Zhengyuan Yang, Lingfeng Ren, Linjie Li, Jianfeng Wang, Kevin Lin, Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-00765/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-00765/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_00765,
+  title = {{MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities}},
+  author = {{Weihao Yu} and {Zhengyuan Yang} and {Lingfeng Ren} and {Linjie Li} and {Jianfeng Wang} and {Kevin Lin} and {Chung-Ching Lin} and {Zicheng Liu} and {Lijuan Wang} and {Xinchao Wang}},
+  year = {2024},
+  eprint = {2408.00765v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.00765v2},
+  note = {First published: 2024-08-01; Recorded arXiv version: v2; Recorded version updated: 2024-12-01T06:08:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

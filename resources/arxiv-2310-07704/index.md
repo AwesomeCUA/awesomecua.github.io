@@ -1,3 +1,11 @@
+---
+title: "Ferret: Refer and Ground Anything Anywhere at… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-07704/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Ferret: Refer and Ground Anything Anywhere at Any Granularity
 
 Bibliographic record for Ferret: Refer and Ground Anything Anywhere at Any Granularity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangl
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-07704/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-07704/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_07704,
+  title = {{Ferret: Refer and Ground Anything Anywhere at Any Granularity}},
+  author = {{Haoxuan You} and {Haotian Zhang} and {Zhe Gan} and {Xianzhi Du} and {Bowen Zhang} and {Zirui Wang} and {Liangliang Cao} and {Shih-Fu Chang} and {Yinfei Yang}},
+  year = {2023},
+  eprint = {2310.07704v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.07704v1},
+  note = {First published: 2023-10-11; Recorded arXiv version: v1; Recorded version updated: 2023-10-11T17:55:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

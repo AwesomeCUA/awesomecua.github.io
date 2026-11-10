@@ -1,3 +1,11 @@
+---
+title: "Zoom Consistency: A Free Confidence Signal in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-15376/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Zoom Consistency: A Free Confidence Signal in Multi-Step Visual Grounding Pipelines
 
 Proposes zoom consistency as a confidence signal for multistep GUI grounding and uses it to route between specialist and generalist visual grounding models.
@@ -26,6 +34,18 @@ Keon Kim, Krish Chelikavada
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-15376/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-15376/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_15376,
+  title = {{Zoom Consistency: A Free Confidence Signal in Multi-Step Visual Grounding Pipelines}},
+  author = {{Keon Kim} and {Krish Chelikavada}},
+  year = {2026},
+  eprint = {2604.15376v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.15376v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T20:47:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

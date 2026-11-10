@@ -1,3 +1,11 @@
+---
+title: "anybridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-justvugg-anybridge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # anybridge
 
 Captures a website's authenticated network calls from a live browser session and exposes them as callable tools for any AI agent.

@@ -1,3 +1,11 @@
+---
+title: "Surfer-H Meets Holo1: Cost-Efficient Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-02865/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights
 
 介绍网页智能体 Surfer-H 及与之配套的 Holo1 视觉语言模型系列，后者用网页内容、合成样例和智能体生成的数据训练；工作提出用于网页界面定位的 WebClick，并在 WebVoyager 上评估浏览器任务执行。
@@ -27,6 +35,18 @@ Mathieu Andreux, Breno Baldas Skuk, Hamza Benchekroun, Emilien Biré, Antoine Bo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-02865/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-02865/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_02865,
+  title = {{Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights}},
+  author = {{Mathieu Andreux} and {Breno Baldas Skuk} and {Hamza Benchekroun} and {Emilien Biré} and {Antoine Bonnet} and {Riaz Bordie} and {Nathan Bout} and {Matthias Brunel} and {Pierre-Louis Cedoz} and {Antoine Chassang} and {Mickaël Chen} and {Alexandra D. Constantinou} and {Antoine d'Andigné} and {Hubert de La Jonquière} and {Aurélien Delfosse} and {Ludovic Denoyer} and {Alexis Deprez} and {Augustin Derupti} and {Michael Eickenberg} and {Mathïs Federico} and {Charles Kantor} and {Xavier Koegler} and {Yann Labbé} and {Matthew C. H. Lee} and {Erwan Le Jumeau de Kergaradec} and {Amir Mahla} and {Avshalom Manevich} and {Adrien Maret} and {Charles Masson} and {Rafaël Maurin} and {Arturo Mena} and {Philippe Modard} and {Axel Moyal} and {Axel Nguyen Kerbel} and {Julien Revelle} and {Mats L. Richter} and {María Santos} and {Laurent Sifre} and {Maxime Theillard} and {Marc Thibault} and {Louis Thiry} and {Léo Tronchon} and {Nicolas Usunier} and {Tony Wu}},
+  year = {2025},
+  eprint = {2506.02865v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.02865v2},
+  note = {First published: 2025-06-03; Recorded arXiv version: v2; Recorded version updated: 2025-06-11T09:33:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

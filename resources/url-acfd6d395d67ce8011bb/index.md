@@ -1,3 +1,11 @@
+---
+title: "Holo4 27B GGUF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-acfd6d395d67ce8011bb/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # Holo4 27B GGUF
 
 Q4_K_M GGUF release of the Holo4-27B computer-use model with a separate F16 vision projector; an external harness sends it screenshots and tool results and executes the actions and tool calls it requests.

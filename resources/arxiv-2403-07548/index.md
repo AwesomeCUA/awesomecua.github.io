@@ -1,3 +1,11 @@
+---
+title: "Online Continual Learning For Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-07548/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Online Continual Learning For Interactive Instruction Following Agents
 
 Status: excluded from the active CUA catalog after scope review.

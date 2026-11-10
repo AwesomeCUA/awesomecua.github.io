@@ -1,3 +1,11 @@
+---
+title: "GTA1-7B (huggingface.co/HelloKKMe/GTA1-7B) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9ca4709eb2e41c0fced6/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GTA1-7B
 
 一个通过 GRPO 训练并发布的图形界面定位模型，根据截图和元素描述预测坐标，附有推理代码和报告的评测结果。

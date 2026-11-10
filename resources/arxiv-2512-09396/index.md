@@ -1,3 +1,11 @@
+---
+title: "GAIR: GUI Automation via Information-Joint… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-09396/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection
 
 Introduces GAIR, which combines information from specialized GUI models through a general-purpose coordinating model. When the available information is insufficient, group reflection sends targeted requests back to the specialists before selecting an operation.
@@ -26,6 +34,18 @@ Zishu Wei, Qixiang Ma, Xavier Hu, Yuhang Liu, Hui Zang, Yudong Zhao, Tao Wang, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-09396/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-09396/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_09396,
+  title = {{GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection}},
+  author = {{Zishu Wei} and {Qixiang Ma} and {Xavier Hu} and {Yuhang Liu} and {Hui Zang} and {Yudong Zhao} and {Tao Wang} and {Shengyu Zhang} and {Fei Wu}},
+  year = {2025},
+  eprint = {2512.09396v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.09396v1},
+  note = {First published: 2025-12-10; Recorded arXiv version: v1; Recorded version updated: 2025-12-10T07:40:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

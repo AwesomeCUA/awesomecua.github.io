@@ -1,3 +1,11 @@
+---
+title: "AriaOS · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeremie225ci-ariaos/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # AriaOS
 
 AriaOS 配置专用的虚拟机桌面，供计算机使用智能体操作 GUI 应用、终端并进行语音交互。

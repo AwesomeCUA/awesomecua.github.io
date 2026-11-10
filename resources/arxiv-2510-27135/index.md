@@ -1,3 +1,11 @@
+---
+title: "E-MMDiT: Revisiting Multimodal Diffusion… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-27135/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # E-MMDiT: Revisiting Multimodal Diffusion Transformer Design for Fast Image Synthesis under Limited Resources
 
 Status: excluded from the active CUA catalog after scope review.

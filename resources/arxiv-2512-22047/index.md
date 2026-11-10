@@ -1,3 +1,11 @@
+---
+title: "MAI-UI Technical Report: Real-World Centric… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-22047/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # MAI-UI Technical Report: Real-World Centric Foundation GUI Agents
 
 MAI-UI combines GUI navigation, native user interaction, and MCP tool calls in a family of policies trained through generated data and online reinforcement learning. The report also studies device-cloud routing and scaling of parallel environments and interaction budgets, with grounding and Android navigation evaluation.
@@ -26,6 +34,18 @@ Hanzhang Zhou, Xu Zhang, Panrong Tong, Jianan Zhang, Liangyu Chen, Quyu Kong, Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-22047/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-22047/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_22047,
+  title = {{MAI-UI Technical Report: Real-World Centric Foundation GUI Agents}},
+  author = {{Hanzhang Zhou} and {Xu Zhang} and {Panrong Tong} and {Jianan Zhang} and {Liangyu Chen} and {Quyu Kong} and {Chenglin Cai} and {Chen Liu} and {Yue Wang} and {Jingren Zhou} and {Steven Hoi}},
+  year = {2025},
+  eprint = {2512.22047v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.22047v1},
+  note = {First published: 2025-12-26; Recorded arXiv version: v1; Recorded version updated: 2025-12-26T14:51:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

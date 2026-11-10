@@ -1,3 +1,11 @@
+---
+title: "Spice | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shells-com-spice/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Spice
 
 A Go SPICE client library receives remote desktop display updates and sends mouse and keyboard events, with interfaces for connection, rendering and clipboard handling.

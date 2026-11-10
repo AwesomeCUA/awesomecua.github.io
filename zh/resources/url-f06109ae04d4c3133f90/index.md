@@ -1,3 +1,11 @@
+---
+title: "Qwen3-8B-CK-Pro · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f06109ae04d4c3133f90/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Qwen3-8B-CK-Pro
 
 Qwen3-8B-CK-Pro 是 Cognitive Kernel-Pro 中的 CK-Pro-8B 智能体基础模型，基于 Qwen3-8B 在自采集轨迹上微调；模型卡报告其在 GAIA 开发集上的 Pass@1 为 32.7%。

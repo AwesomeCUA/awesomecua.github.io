@@ -1,3 +1,11 @@
+---
+title: "ADB MCP Server Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tiendung2k03-adb-mcp-server-pro/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ADB MCP Server Pro
 
 Model Context Protocol server for Android device control via ADB featuring self-learning UI element maps.

@@ -1,3 +1,11 @@
+---
+title: "Hybrid-Level Instruction Injection for Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-16036/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

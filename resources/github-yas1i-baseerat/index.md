@@ -1,3 +1,11 @@
+---
+title: "Baseerat | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yas1i-baseerat/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Baseerat
 
 Baseerat benchmarks non-visual oversight of computer-use agents, testing whether screen-reader audio descriptions expose unsafe agent actions.

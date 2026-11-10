@@ -1,3 +1,11 @@
+---
+title: "Do Phone-Use Agents Respect Your Privacy? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-00986/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Do Phone-Use Agents Respect Your Privacy?
 
 Introduces MyPhoneBench to verify whether phone-use agents minimize personal data disclosure when filling forms during benign mobile tasks.
@@ -26,6 +34,18 @@ Zhengyang Tang, Ke Ji, Xidong Wang, Zihan Ye, Xinyuan Wang, Yiduo Guo, Ziniu Li,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-00986/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-00986/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_00986,
+  title = {{Do Phone-Use Agents Respect Your Privacy?}},
+  author = {{Zhengyang Tang} and {Ke Ji} and {Xidong Wang} and {Zihan Ye} and {Xinyuan Wang} and {Yiduo Guo} and {Ziniu Li} and {Chenxin Li} and {Jingyuan Hu} and {Shunian Chen} and {Tongxu Luo} and {Jiaxi Bi} and {Zeyu Qin} and {Shaobo Wang} and {Xin Lai} and {Pengyuan Lyu} and {Junyi Li} and {Can Xu} and {Chengquan Zhang} and {Han Hu} and {Ming Yan} and {Benyou Wang}},
+  year = {2026},
+  eprint = {2604.00986v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.00986v2},
+  note = {First published: 2026-04-01; Recorded arXiv version: v2; Recorded version updated: 2026-04-02T13:51:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

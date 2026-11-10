@@ -1,15 +1,20 @@
+---
+title: "Tool integration — computer-use…, page 16 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/16/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 16
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/16/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [Magpie Computer Use](https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/)
-- [MAI-UI inference and evaluation code](https://awesomecua.com/resources/github-tongyi-mai-mai-ui/)
 - [Mailman Agents](https://awesomecua.com/resources/github-zero06six-mailman-agents/)
 - [mangouse](https://awesomecua.com/resources/github-gianlucamazza-mangouse/)
 - [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/)
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)
 - [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/)
 - [Mastra Code](https://awesomecua.com/resources/github-mastra-ai-mastra-code-ui/)
 - [MatthewAlexOng Agent Bridge](https://awesomecua.com/resources/github-matthewalexong-agent-bridge/)
@@ -64,3 +69,6 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [mobilerun-ios](https://awesomecua.com/resources/github-droidrun-mobilerun-ios-releases/)
 - [modal-computer-use](https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/)
 - [ModCDP](https://awesomecua.com/resources/github-browserbase-modcdp/)
+- [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/)
+- [muhtalhakhan OpenAgent](https://awesomecua.com/resources/github-muhtalhakhan-open-agent/)
+- [munim-computer-use](https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/)

@@ -1,3 +1,11 @@
+---
+title: "cuAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xhqing-cuagent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # cuAgent
 
 cuAgent is a desktop computer-use agent that operates GUI applications through the open-computer-use Model Context Protocol server.

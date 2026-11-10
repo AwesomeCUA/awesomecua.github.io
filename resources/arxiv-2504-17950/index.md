@@ -1,3 +1,11 @@
+---
+title: "Collaborating Action by Action: A Multi-agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-17950/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning
 
 Bibliographic record for Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Isadora White, Kolby Nottingham, Ayush Maniar, Max Robinson, Hansen Lillemark, M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-17950/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-17950/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_17950,
+  title = {{Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning}},
+  author = {{Isadora White} and {Kolby Nottingham} and {Ayush Maniar} and {Max Robinson} and {Hansen Lillemark} and {Mehul Maheshwari} and {Lianhui Qin} and {Prithviraj Ammanabrolu}},
+  year = {2025},
+  eprint = {2504.17950v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.17950v1},
+  note = {First published: 2025-04-24; Recorded arXiv version: v1; Recorded version updated: 2025-04-24T21:28:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

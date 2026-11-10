@@ -1,3 +1,11 @@
+---
+title: "Kiko Windows Voice Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Kiko Windows Voice Assistant
 
 Native, 100% offline Windows desktop voice and GUI automation assistant.

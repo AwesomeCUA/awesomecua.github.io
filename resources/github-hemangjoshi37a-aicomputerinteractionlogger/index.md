@@ -1,3 +1,11 @@
+---
+title: "AI Computer Interaction Logger | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hemangjoshi37a-aicomputerinteractionlogger/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AI Computer Interaction Logger
 
 AI Computer Interaction Logger records synchronized screen video, active window metadata, and mouse/keyboard events for CUA imitation learning.

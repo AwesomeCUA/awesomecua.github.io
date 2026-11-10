@@ -1,3 +1,11 @@
+---
+title: "SparkUI-Parser: Enhancing GUI Perception… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-04908/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing
 
 提出 SparkUI-Parser，在多模态模型中加入连续坐标解码和对不存在目标的拒绝机制，并提出 ScreenParse 用于评估界面结构感知。
@@ -27,6 +35,18 @@ Hongyi Jing, Jiafu Chen, Chen Rao, Ziqiang Dang, Jiajie Teng, Tianyi Chu, Junche
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-04908/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-04908/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_04908,
+  title = {{SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing}},
+  author = {{Hongyi Jing} and {Jiafu Chen} and {Chen Rao} and {Ziqiang Dang} and {Jiajie Teng} and {Tianyi Chu} and {Juncheng Mo} and {Shuo Fang} and {Huaizhong Lin} and {Rui Lv} and {Chenguang Ma} and {Lei Zhao}},
+  year = {2025},
+  eprint = {2509.04908v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.04908v1},
+  note = {First published: 2025-09-05; Recorded arXiv version: v1; Recorded version updated: 2025-09-05T08:24:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

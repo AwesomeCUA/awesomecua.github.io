@@ -1,3 +1,11 @@
+---
+title: "ShowUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-showui/
+updated: 2026-10-20
+type: model
+lang: en
+---
+
 # ShowUI
 
 Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.

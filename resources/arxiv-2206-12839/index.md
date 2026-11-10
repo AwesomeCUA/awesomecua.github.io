@@ -1,3 +1,11 @@
+---
+title: "Repository-Level Prompt Generation for Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-12839/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Repository-Level Prompt Generation for Large Language Models of Code
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "AutoGuide: Automated Generation and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-08978/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents
 
 提出 AutoGuide，从智能体既有经验生成按情境适用的规则，辅助连续决策任务，其中包括网页导航。
@@ -27,6 +35,18 @@ Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyungho
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-08978/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-08978/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_08978,
+  title = {{AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents}},
+  author = {{Yao Fu} and {Dong-Ki Kim} and {Jaekyeom Kim} and {Sungryull Sohn} and {Lajanugen Logeswaran} and {Kyunghoon Bae} and {Honglak Lee}},
+  year = {2024},
+  eprint = {2403.08978v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.08978v2},
+  note = {First published: 2024-03-13; Recorded arXiv version: v2; Recorded version updated: 2024-12-03T07:36:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

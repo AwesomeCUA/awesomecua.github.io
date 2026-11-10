@@ -1,3 +1,11 @@
+---
+title: "openadapt-privacy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # openadapt-privacy
 
 openadapt-privacy removes personal and health information from GUI recordings, including text, event data, accessibility trees and screenshots. The repository is archived.

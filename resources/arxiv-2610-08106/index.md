@@ -1,3 +1,11 @@
+---
+title: "ChartBmkAgent: Harness-Governed Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-08106/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications
 
 Bibliographic record for ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Langxi Huang, Pingping Zhang, Lanyun Zhu, Chunyang Jiang, Jiawei Shao, Haocheng 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-08106/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-08106/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08106,
+  title = {{ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications}},
+  author = {{Langxi Huang} and {Pingping Zhang} and {Lanyun Zhu} and {Chunyang Jiang} and {Jiawei Shao} and {Haocheng Yuan} and {Peilin Chen}},
+  year = {2026},
+  eprint = {2610.08106v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08106v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T10:31:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

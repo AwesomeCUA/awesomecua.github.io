@@ -1,3 +1,11 @@
+---
+title: "State dependent computation using coupled… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0809-4296/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # State dependent computation using coupled recurrent networks
 
 Status: excluded from the active CUA catalog after scope review.

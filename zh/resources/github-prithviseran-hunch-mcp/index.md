@@ -1,3 +1,11 @@
+---
+title: "Hunch MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prithviseran-hunch-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hunch MCP
 
 无需占用焦点的后台 macOS 自动化 MCP 服务器，结合操作系统 API、AppleScript、Chrome CDP 和 Accessibility 树。

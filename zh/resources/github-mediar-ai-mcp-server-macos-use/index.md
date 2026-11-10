@@ -1,3 +1,11 @@
+---
+title: "mcp-server-macos-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mediar-ai-mcp-server-macos-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # mcp-server-macos-use
 
 一个 Swift MCP 服务器为智能体提供工具，用于检查 macOS 应用的无障碍树并执行鼠标和键盘操作。

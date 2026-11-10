@@ -1,3 +1,11 @@
+---
+title: "cc-haha | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nanmicoder-cc-haha/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cc-haha
 
 cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.

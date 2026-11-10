@@ -1,3 +1,11 @@
+---
+title: "AutoGUI v1 training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-79287058342289aa5d45/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # AutoGUI v1 training data
 
 Screenshot-based grounding and captioning samples with UI functionality descriptions, target coordinates, and bounding boxes.

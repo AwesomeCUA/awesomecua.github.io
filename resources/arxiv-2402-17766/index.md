@@ -1,3 +1,11 @@
+---
+title: "ShapeLLM: Universal 3D Object Understanding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-17766/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ShapeLLM: Universal 3D Object Understanding for Embodied Interaction
 
 Bibliographic record for ShapeLLM: Universal 3D Object Understanding for Embodied Interaction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zekun Qi, Runpei Dong, Shaochen Zhang, Haoran Geng, Chunrui Han, Zheng Ge, Li Yi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-17766/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-17766/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_17766,
+  title = {{ShapeLLM: Universal 3D Object Understanding for Embodied Interaction}},
+  author = {{Zekun Qi} and {Runpei Dong} and {Shaochen Zhang} and {Haoran Geng} and {Chunrui Han} and {Zheng Ge} and {Li Yi} and {Kaisheng Ma}},
+  year = {2024},
+  eprint = {2402.17766v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.17766v3},
+  note = {First published: 2024-02-27; Recorded arXiv version: v3; Recorded version updated: 2024-07-12T15:36:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

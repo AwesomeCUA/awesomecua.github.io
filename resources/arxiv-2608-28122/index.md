@@ -1,3 +1,11 @@
+---
+title: "Agentic Artifact Creation: Systems… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-28122/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities
 
 Bibliographic record for Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianfu Wang, Zhezheng Hao, Xilin Xia, Lixin Liu, Mengkang Hu, Hongzhang Liu, Xi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-28122/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-28122/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_28122,
+  title = {{Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities}},
+  author = {{Tianfu Wang} and {Zhezheng Hao} and {Xilin Xia} and {Lixin Liu} and {Mengkang Hu} and {Hongzhang Liu} and {Xi Chen} and {Ziyan Liu} and {Xiankun Lin} and {Weijia Zhang} and {Nicholas Jing Yuan} and {Hui Xiong}},
+  year = {2026},
+  eprint = {2608.28122v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.28122v1},
+  note = {First published: 2026-08-28; Recorded arXiv version: v1; Recorded version updated: 2026-08-28T09:35:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

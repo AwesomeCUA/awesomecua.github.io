@@ -1,3 +1,11 @@
+---
+title: "Figranium JS/TS SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-figranium-figranium-js/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Figranium JS/TS SDK
 
 面向 Figranium 浏览器自动化和网页提取平台的官方 JavaScript 和 TypeScript SDK。

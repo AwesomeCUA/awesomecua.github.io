@@ -1,3 +1,11 @@
+---
+title: "Learning from Failure: Inference-Time… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-31270/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents
 
 该方法利用失败的计算机使用轨迹诊断失败模式，并在推理时生成智能体代码补丁，辅以少量人工核验。OSWorld 研究评估了这一由失败驱动、无需额外模型训练的改进循环。
@@ -27,6 +35,18 @@ Xueqiao Sun, Xiaohan Wang, Ludwig Schmidt, Serena Yeung-Levy, Yuhui Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-31270/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-31270/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_31270,
+  title = {{Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents}},
+  author = {{Xueqiao Sun} and {Xiaohan Wang} and {Ludwig Schmidt} and {Serena Yeung-Levy} and {Yuhui Zhang}},
+  year = {2026},
+  eprint = {2606.31270v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.31270v1},
+  note = {First published: 2026-06-30; Recorded arXiv version: v1; Recorded version updated: 2026-06-30T07:44:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

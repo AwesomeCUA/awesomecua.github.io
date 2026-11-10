@@ -1,13 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 18 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/18/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 18 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/18/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [Open Interpreter](https://awesomecua.com/zh/resources/github-openinterpreter-open-interpreter/)
-- [Open ZCode Computer Use](https://awesomecua.com/zh/resources/github-hqhq1025-open-zcode-computer-use/)
-- [open-codex-computer-use](https://awesomecua.com/zh/resources/github-ifuryst-open-codex-computer-use/)
-- [open-compute](https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute/)
 - [open-compute-mcp](https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute-mcp/)
 - [open-computer-use](https://awesomecua.com/zh/resources/github-ifuryst-open-computer-use/)
 - [OpenAdapt Agent](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-agent/)
@@ -64,3 +68,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/18/
 - [paldom playwright-stealth Skills](https://awesomecua.com/zh/resources/github-paldom-playwright-stealth/)
 - [Panerelay](https://awesomecua.com/zh/resources/github-f-loat-panerelay/)
 - [PANOPTES Screen MCP Server](https://awesomecua.com/zh/resources/github-yxpil-panoptes/)
+- [parallel-browser-mcp](https://awesomecua.com/zh/resources/github-etairl-parallel-browser-mcp/)
+- [Parallels CLI Skill for Codex](https://awesomecua.com/zh/resources/github-wieslawsoltes-parallelsskill/)
+- [Paseo Chrome Bridge](https://awesomecua.com/zh/resources/github-papag00se-paseo-chrome-bridge/)
+- [PatchBridge Agent](https://awesomecua.com/zh/resources/github-hanhan666666-patchbridge-agent/)

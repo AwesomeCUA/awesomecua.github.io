@@ -1,3 +1,11 @@
+---
+title: "BrowserGuard · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-david-wu1119-browserguard/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # BrowserGuard
 
 BrowserGuard 是运行时安全层，依据安全策略评估浏览器智能体和计算机使用智能体提出的动作。

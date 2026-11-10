@@ -1,3 +1,11 @@
+---
+title: "CLIP-Nav: Using CLIP for Zero-Shot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-16649/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation
 
 Bibliographic record for CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Vishnu Sashank Dorbala, Gunnar Sigurdsson, Robinson Piramuthu, Jesse Thomason, G
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2211-16649/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2211-16649/citation.csl.json
+
+```bibtex
+@misc{arxiv_2211_16649,
+  title = {{CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation}},
+  author = {{Vishnu Sashank Dorbala} and {Gunnar Sigurdsson} and {Robinson Piramuthu} and {Jesse Thomason} and {Gaurav S. Sukhatme}},
+  year = {2022},
+  eprint = {2211.16649v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2211.16649v1},
+  note = {First published: 2022-11-30; Recorded arXiv version: v1; Recorded version updated: 2022-11-30T00:38:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

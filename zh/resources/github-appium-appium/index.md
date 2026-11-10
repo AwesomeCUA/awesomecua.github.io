@@ -1,3 +1,11 @@
+---
+title: "Appium · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # Appium
 
 基于 WebDriver 的开源自动化服务器，面向移动、桌面和 IoT 应用；通过 iOS、Android、macOS 和 Windows 的平台驱动、插件及 Java、Python、Ruby 和 C#客户端扩展。

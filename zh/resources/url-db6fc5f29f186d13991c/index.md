@@ -1,3 +1,11 @@
+---
+title: "ARPO UI-TARS-1.5-7B checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-db6fc5f29f186d13991c/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ARPO UI-TARS-1.5-7B checkpoint
 
 基于 UI-TARS-1.5-7B、使用 ARPO 在 OSWorld 桌面任务上训练的检查点。

@@ -1,3 +1,11 @@
+---
+title: "opencode-webmcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-enihcam-opencode-webmcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # opencode-webmcp
 
 将 OpenCode 连接到 Chromium 的 document.modelContext WebMCP API 的 MCP 桥接工具。

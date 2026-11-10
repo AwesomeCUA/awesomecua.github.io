@@ -1,3 +1,11 @@
+---
+title: "Mobile App Tasks with Iterative Feedback… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2104-08560/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments
 
 Introduces MoTIF, a dataset of natural-language requests for interactive mobile apps, including infeasible requests and follow-up questions for studying task feasibility.
@@ -26,6 +34,18 @@ Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2104-08560/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2104-08560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2104_08560,
+  title = {{Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments}},
+  author = {{Andrea Burns} and {Deniz Arsan} and {Sanjna Agrawal} and {Ranjitha Kumar} and {Kate Saenko} and {Bryan A. Plummer}},
+  year = {2021},
+  eprint = {2104.08560v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2104.08560v1},
+  note = {First published: 2021-04-17; Recorded arXiv version: v1; Recorded version updated: 2021-04-17T14:48:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

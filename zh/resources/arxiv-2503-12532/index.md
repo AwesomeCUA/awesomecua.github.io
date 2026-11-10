@@ -1,3 +1,11 @@
+---
+title: "STEVE: A Step Verification Pipeline for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-12532/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # STEVE: A Step Verification Pipeline for Computer-use Agent Training
 
 通过比较操作前后的截图，为单步计算机使用标注结果，再利用成功和失败的步骤训练智能体。
@@ -27,6 +35,18 @@ Fanbin Lu, Zhisheng Zhong, Ziqin Wei, Shu Liu, Chi-Wing Fu, Jiaya Jia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-12532/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-12532/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_12532,
+  title = {{STEVE: A Step Verification Pipeline for Computer-use Agent Training}},
+  author = {{Fanbin Lu} and {Zhisheng Zhong} and {Ziqin Wei} and {Shu Liu} and {Chi-Wing Fu} and {Jiaya Jia}},
+  year = {2025},
+  eprint = {2503.12532v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.12532v2},
+  note = {First published: 2025-03-16; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T16:33:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

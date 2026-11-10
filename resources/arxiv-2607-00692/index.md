@@ -1,3 +1,11 @@
+---
+title: "Self-GC: Self-Governing Context for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-00692/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Self-GC: Self-Governing Context for Long-Horizon LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "CADAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-toreleon-cadagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # CADAgent
 
 A FreeCAD fork with an in-app agent that turns chat requests into editable 3D models through FreeCAD operations. It includes an agent runtime and chat dock.

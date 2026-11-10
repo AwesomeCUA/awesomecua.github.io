@@ -1,3 +1,11 @@
+---
+title: "Beyond Memristor: Neuromorphic Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-11002/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Beyond Memristor: Neuromorphic Computing Using Meminductor
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "BrowserMesh | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scrolldynasty-browsermesh/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # BrowserMesh
 
 Multi-agent browser MCP runtime in Rust managing isolated, persistent, parallel Playwright sessions.

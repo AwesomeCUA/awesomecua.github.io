@@ -1,3 +1,11 @@
+---
+title: "Verified partial eigenvalue computations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1904-06277/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Verified partial eigenvalue computations using contour integrals for Hermitian generalized eigenproblems
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "CDP Browser Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-abhishekchhetri020-browser-harness/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # CDP Browser Harness
 
 Thin, editable Chrome DevTools Protocol harness connecting LLM agents to a user's real logged-in Chrome browser.

@@ -1,10 +1,17 @@
+---
+title: "Screen understanding — computer-use…, page 14 | AwesomeCUA"
+url: https://awesomecua.com/topics/screen-understanding/page/14/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Screen understanding — computer-use research, page 14
 
 HTML page: https://awesomecua.com/topics/screen-understanding/page/14/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
-- [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/)
 - [native-devtools-mcp](https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/)
 - [Navisual](https://awesomecua.com/resources/github-navisualguide-navisual/)
 - [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [pi-codex-computer-use](https://awesomecua.com/resources/github-danecando-pi-codex-computer-use/)
 - [pi-computer-use](https://awesomecua.com/resources/github-injaneity-pi-computer-use/)
 - [pi-iphone-mirroring](https://awesomecua.com/resources/github-aniruddha-adhikary-pi-iphone-mirroring/)
+- [PICC](https://awesomecua.com/resources/github-andelf-picc/)

@@ -1,3 +1,11 @@
+---
+title: "ToolArks Remote Login Relay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zdayang-remote-login-relay/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ToolArks Remote Login Relay
 
 自托管的单标签页移动端接管中继，让人远程解决 AI 浏览器智能体遇到的登录、2FA 或 CAPTCHA 障碍。

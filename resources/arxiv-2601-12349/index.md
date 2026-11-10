@@ -1,3 +1,11 @@
+---
+title: "Mind the Gap: Action Rebinding Attacks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-12349/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Mind the Gap: Action Rebinding Attacks against Android GUI Agents
 
 Studies action-rebinding attacks in which an Android GUI agent’s planned input is redirected to a different application during the observation–action delay. The evaluation examines cross-application execution and the consequences of treating an earlier screen as the current action target.
@@ -26,6 +34,18 @@ Yi Qian, Kunwei Qian, Xingbang He, Ligeng Chen, Jikang Zhang, Tiantai Zhang, Hai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-12349/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-12349/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_12349,
+  title = {{Mind the Gap: Action Rebinding Attacks against Android GUI Agents}},
+  author = {{Yi Qian} and {Kunwei Qian} and {Xingbang He} and {Ligeng Chen} and {Jikang Zhang} and {Tiantai Zhang} and {Haiyang Wei} and {Linzhang Wang} and {Hao Wu} and {Bing Mao}},
+  year = {2026},
+  eprint = {2601.12349v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.12349v3},
+  note = {First published: 2026-01-18; Recorded arXiv version: v3; Recorded version updated: 2026-07-15T15:32:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

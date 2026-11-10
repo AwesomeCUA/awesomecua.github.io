@@ -1,3 +1,11 @@
+---
+title: "From Benchmarks to Business Impact: Deploying… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-23856/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production
 
 Bibliographic record for From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Segev Shlomov, Alon Oved, Sami Marreed, Ido Levy, Offer Akrabi, Avi Yaeli, Łuka
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-23856/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-23856/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_23856,
+  title = {{From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production}},
+  author = {{Segev Shlomov} and {Alon Oved} and {Sami Marreed} and {Ido Levy} and {Offer Akrabi} and {Avi Yaeli} and {Łukasz Strąk} and {Elizabeth Koumpan} and {Yinon Goldshtein} and {Eilam Shapira} and {Nir Mashkif} and {Asaf Adi}},
+  year = {2025},
+  eprint = {2510.23856v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.23856v2},
+  note = {First published: 2025-10-27; Recorded arXiv version: v2; Recorded version updated: 2025-12-09T09:54:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

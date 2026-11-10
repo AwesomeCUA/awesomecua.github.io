@@ -1,3 +1,11 @@
+---
+title: "rtrvr CLI & SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rtrvr-ai-rtrvr-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # rtrvr CLI & SDK
 
 CLI and SDK for automating web workflows, scraping pages, and driving cloud or local browsers for AI agents.

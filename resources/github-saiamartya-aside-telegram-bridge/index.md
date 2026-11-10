@@ -1,3 +1,11 @@
+---
+title: "aside-telegram-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saiamartya-aside-telegram-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # aside-telegram-bridge
 
 A Telegram bridge and phone Mini App for sending tasks to the Aside browser agent, viewing live progress and transcripts, and responding to its decisions.

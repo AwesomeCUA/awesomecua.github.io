@@ -1,3 +1,11 @@
+---
+title: "From Multi-Agent Systems and the Semantic Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-10644/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # From Multi-Agent Systems and the Semantic Web to Agentic AI: A Unified Narrative of the Web of Agents
 
 Bibliographic record for From Multi-Agent Systems and the Semantic Web to Agentic AI: A Unified Narrative of the Web of Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tatiana Petrova, Boris Bliznioukov, Aleksandr Puzikov, Radu State
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-10644/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-10644/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_10644,
+  title = {{From Multi-Agent Systems and the Semantic Web to Agentic AI: A Unified Narrative of the Web of Agents}},
+  author = {{Tatiana Petrova} and {Boris Bliznioukov} and {Aleksandr Puzikov} and {Radu State}},
+  year = {2025},
+  eprint = {2507.10644v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.10644v4},
+  note = {First published: 2025-07-14; Recorded arXiv version: v4; Recorded version updated: 2026-05-24T14:18:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

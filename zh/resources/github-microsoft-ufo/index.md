@@ -1,3 +1,11 @@
+---
+title: "UFO · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-ufo/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # UFO
 
 用于 Windows 应用和桌面自动化的智能体框架。

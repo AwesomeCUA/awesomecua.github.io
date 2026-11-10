@@ -1,3 +1,11 @@
+---
+title: "Browser Operator · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9f296457c8ca46446c1f/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Browser Operator
 
 Browser Operator 是 Opera 预览中的浏览器智能体，可根据自然语言请求执行网页任务，并展示操作步骤、允许用户接管。

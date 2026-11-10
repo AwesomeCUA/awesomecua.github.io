@@ -1,3 +1,11 @@
+---
+title: "windows-computer-use-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sandraschi-windows-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # windows-computer-use-mcp
 
 windows-computer-use-mcp 提供 22 个 MCP 工具，涵盖 Windows UI Automation、OCR、鼠标和键盘控制，以及 UAC 安全防护。

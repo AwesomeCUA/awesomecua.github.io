@@ -1,3 +1,11 @@
+---
+title: "MobileRL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-mobilerl/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # MobileRL
 
 Online agentic RL framework for mobile GUI agents built around the difficulty-adaptive ADAGRPO algorithm, with Dockerized AndroidWorld and AndroidLab evaluation and a MobileRL-9B checkpoint.

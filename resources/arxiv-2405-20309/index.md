@@ -1,3 +1,11 @@
+---
+title: "Large Language Models Can Self-Improve At Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-20309/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Large Language Models Can Self-Improve At Web Agent Tasks
 
 Examines self-improvement by fine-tuning web agents on three mixtures of model-generated training data. WebArena experiments and trajectory-level evaluation measures study task performance, robustness, and behavior beyond aggregate success rates.
@@ -26,6 +34,18 @@ Ajay Patel, Markus Hofmarcher, Claudiu Leoveanu-Condrei, Marius-Constantin Dinu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-20309/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-20309/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_20309,
+  title = {{Large Language Models Can Self-Improve At Web Agent Tasks}},
+  author = {{Ajay Patel} and {Markus Hofmarcher} and {Claudiu Leoveanu-Condrei} and {Marius-Constantin Dinu} and {Chris Callison-Burch} and {Sepp Hochreiter}},
+  year = {2024},
+  eprint = {2405.20309v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.20309v2},
+  note = {First published: 2024-05-30; Recorded arXiv version: v2; Recorded version updated: 2024-10-01T21:28:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Scalable one-way quantum computer using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1111-2662/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scalable one-way quantum computer using on-chip resonator qubits
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "SODBench: A Large Language Model Approach to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-19864/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations
 
 Bibliographic record for SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Amila Indika, Igor Molybog
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-19864/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-19864/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19864,
+  title = {{SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations}},
+  author = {{Amila Indika} and {Igor Molybog}},
+  year = {2025},
+  eprint = {2510.19864v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19864v1},
+  note = {First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T01:36:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

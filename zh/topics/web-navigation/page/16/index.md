@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 16 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/16/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 16 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/16/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [chrome-agent](https://awesomecua.com/zh/resources/github-sderosiaux-chrome-agent/)
 - [chrome-agent-search](https://awesomecua.com/zh/resources/github-ominiverdi-chrome-agent-search/)
 - [chrome-eye](https://awesomecua.com/zh/resources/github-trvux-chrome-eye/)
 - [chrome-use](https://awesomecua.com/zh/resources/github-leeguooooo-chrome-use/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/16/
 - [CoMEM-Agent](https://awesomecua.com/zh/resources/github-wenyiwu0111-comem-agent/)
 - [Commonplace WebMCP](https://awesomecua.com/zh/resources/github-arterialist-webmcp-openai-hackathon/)
 - [Computer Use Preview](https://awesomecua.com/zh/resources/github-google-computer-use-preview/)
+- [Control-Agent](https://awesomecua.com/zh/resources/github-gekaixing-control-agent/)

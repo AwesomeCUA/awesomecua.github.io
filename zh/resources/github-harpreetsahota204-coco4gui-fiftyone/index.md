@@ -1,3 +1,11 @@
+---
+title: "COCO4GUI Dataset Importer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harpreetsahota204-coco4gui-fiftyone/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # COCO4GUI Dataset Importer
 
 COCO4GUI Dataset Importer 将图形界面交互标注导入 FiftyOne，并保留界面元素区域、操作点、流程序列和应用元数据。

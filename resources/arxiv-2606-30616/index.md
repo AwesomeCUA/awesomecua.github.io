@@ -1,3 +1,11 @@
+---
+title: "Scaling the Horizon, Not the Parameters… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-30616/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
 
 Bibliographic record for Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Lei Bai, Zongsheng Cao, Yang Chen, Zhiyao Cui, Shangheng Du, Yue Fan, Shiyang Fe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-30616/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-30616/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_30616,
+  title = {{Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent}},
+  author = {{Lei Bai} and {Zongsheng Cao} and {Yang Chen} and {Zhiyao Cui} and {Shangheng Du} and {Yue Fan} and {Shiyang Feng} and {Zijie Guo} and {Haonan He} and {Liang He} and {Xiaohan He} and {Shuyue Hu} and {Yusong Hu} and {Songtao Huang} and {Yichen Jiang} and {Hao Li} and {Xin Li} and {Dahua Lin} and {Weihao Lin} and {Fenghua Ling} and {Dongrui Liu} and {Zhuo Liu} and {Wenjie Lou} and {Runmin Ma} and {Chunjiang Mu} and {Haoyang Peng} and {Tianshuo Peng} and {Jinxin Shi} and {Luohe Shi} and {Boyuan Sun} and {Zelin Tan} and {Shengji Tang} and {Yan Teng} and {Qianyi Wang} and {Xiaosong Wang} and {Yiming Wu} and {Yi Xie} and {Xiangchao Yan} and {Jingqi Ye} and {Peng Ye} and {Fangchen Yu} and {Jiakang Yuan} and {Bihao Zhan} and {Bo Zhang} and {Chen Zhang} and {Shufei Zhang} and {Shuaiyu Zhang} and {Wenlong Zhang} and {Yiqun Zhang} and {Junpeng Zhao} and {Zhijie Zhong} and {Bowen Zhou} and {Yuhao Zhou}},
+  year = {2026},
+  eprint = {2606.30616v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.30616v2},
+  note = {First published: 2026-06-29; Recorded arXiv version: v2; Recorded version updated: 2026-07-13T13:01:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

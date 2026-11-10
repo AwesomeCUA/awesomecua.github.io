@@ -1,3 +1,11 @@
+---
+title: "HAICOSYSTEM · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xuhuizhou-haicosystem/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # HAICOSYSTEM
 
 HAICOSYSTEM 模拟人类用户、使用工具的 LLM 智能体与环境沙箱之间的多轮交互，以评测安全风险。

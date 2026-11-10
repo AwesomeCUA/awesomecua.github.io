@@ -1,3 +1,11 @@
+---
+title: "MRKL Systems: A modular, neuro-symbolic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-00445/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning
 
 Status: excluded from the active CUA catalog after scope review.

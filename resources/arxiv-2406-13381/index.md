@@ -1,3 +1,11 @@
+---
+title: "CoAct: A Global-Local Hierarchy for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-13381/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration
 
 Bibliographic record for CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinming Hou, Mingming Yang, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Wayne Xin Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-13381/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-13381/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_13381,
+  title = {{CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration}},
+  author = {{Xinming Hou} and {Mingming Yang} and {Wenxiang Jiao} and {Xing Wang} and {Zhaopeng Tu} and {Wayne Xin Zhao}},
+  year = {2024},
+  eprint = {2406.13381v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.13381v1},
+  note = {First published: 2024-06-19; Recorded arXiv version: v1; Recorded version updated: 2024-06-19T09:23:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

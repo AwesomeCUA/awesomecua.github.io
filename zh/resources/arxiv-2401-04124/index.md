@@ -1,3 +1,11 @@
+---
+title: "MobileAgent: enhancing mobile control… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2401-04124/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # MobileAgent: enhancing mobile control via human-machine interaction and SOP integration
 
 结合操作流程上下文与用户交互，指导移动端任务自动化，并处理个性化或敏感请求。
@@ -27,6 +35,18 @@ Tinghe Ding
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2401-04124/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2401-04124/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_04124,
+  title = {{MobileAgent: enhancing mobile control via human-machine interaction and SOP integration}},
+  author = {{Tinghe Ding}},
+  year = {2024},
+  eprint = {2401.04124v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.04124v3},
+  note = {First published: 2024-01-04; Recorded arXiv version: v3; Recorded version updated: 2024-01-17T06:35:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

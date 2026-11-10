@@ -1,3 +1,11 @@
+---
+title: "Automated Benchmark Generation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-07701/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Automated Benchmark Generation for Repository-Level Coding Tasks
 
 Status: excluded from the active CUA catalog after scope review.

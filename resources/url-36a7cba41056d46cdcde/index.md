@@ -1,3 +1,11 @@
+---
+title: "Visual Grounding for User Interfaces | AwesomeCUA"
+url: https://awesomecua.com/resources/url-36a7cba41056d46cdcde/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # Visual Grounding for User Interfaces
 
 Proposes LVG, which detects and grounds the UI element named by a free-form command in an Android screenshot, using layout-guided contrastive learning and synthetic referring expressions generated from Rico screens.
@@ -26,6 +34,21 @@ Yijun Qian, Yujie Lu, Alexander G. Hauptmann, Oriana Riva
 
 - BibTeX: https://awesomecua.com/resources/url-36a7cba41056d46cdcde/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-36a7cba41056d46cdcde/citation.csl.json
+
+```bibtex
+@inproceedings{cua_3e8726a86e1d08abaf70e3ee,
+  title = {{Visual Grounding for User Interfaces}},
+  author = {{Yijun Qian} and {Yujie Lu} and {Alexander G. Hauptmann} and {Oriana Riva}},
+  year = {2024},
+  month = jun,
+  booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)},
+  publisher = {Association for Computational Linguistics},
+  pages = {97-107},
+  doi = {10.18653/v1/2024.naacl-industry.9},
+  url = {https://aclanthology.org/2024.naacl-industry.9/},
+  note = {Publication date: 2024-06.}
+}
+```
 
 ## Publication record
 

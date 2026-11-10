@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opengvlab-scalecua/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # ScaleCUA
 
 Computer-use model family trained with cross-platform interaction data.

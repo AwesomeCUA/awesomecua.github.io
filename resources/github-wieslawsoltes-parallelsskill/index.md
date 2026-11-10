@@ -1,3 +1,11 @@
+---
+title: "Parallels CLI Skill for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Parallels CLI Skill for Codex
 
 Portable Codex skill for provisioning, snapshotting, and controlling Parallels Desktop virtual machines on macOS.

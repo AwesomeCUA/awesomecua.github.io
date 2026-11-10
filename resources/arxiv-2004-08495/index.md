@@ -1,3 +1,11 @@
+---
+title: "BReG-NeXt: Facial Affect Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2004-08495/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # BReG-NeXt: Facial Affect Computing Using Adaptive Residual Networks With Bounded Gradient
 
 Status: excluded from the active CUA catalog after scope review.

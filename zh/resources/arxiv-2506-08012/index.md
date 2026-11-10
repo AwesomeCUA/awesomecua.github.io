@@ -1,3 +1,11 @@
+---
+title: "GUI-Reflection: Empowering Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-08012/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior
 
 GUI-Reflection 从成功轨迹中合成反思与纠错样例，并为这些行为设置专门的学习阶段；还引入反思任务集、用于在线收集数据的移动端环境和迭代式反思调优。
@@ -27,6 +35,18 @@ Penghao Wu, Shengnan Ma, Bo Wang, Jiaheng Yu, Lewei Lu, Ziwei Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-08012/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-08012/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_08012,
+  title = {{GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior}},
+  author = {{Penghao Wu} and {Shengnan Ma} and {Bo Wang} and {Jiaheng Yu} and {Lewei Lu} and {Ziwei Liu}},
+  year = {2025},
+  eprint = {2506.08012v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.08012v1},
+  note = {First published: 2025-06-09; Recorded arXiv version: v1; Recorded version updated: 2025-06-09T17:59:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

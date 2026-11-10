@@ -1,3 +1,11 @@
+---
+title: "Seg2Click: Learning Pixel-Level Action Masks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-16234/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding
 
 Recasts GUI grounding as predicting a mask of valid click locations from bounding-box supervision, then derives a click point with a deterministic selection rule.
@@ -26,6 +34,18 @@ Jingchao Wang, Dingjiang Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16234/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16234/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16234,
+  title = {{Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding}},
+  author = {{Jingchao Wang} and {Dingjiang Huang}},
+  year = {2026},
+  eprint = {2610.16234v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16234v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T06:09:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

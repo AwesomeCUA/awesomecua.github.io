@@ -1,3 +1,11 @@
+---
+title: "Experiential Reflective Learning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-24639/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Experiential Reflective Learning for Self-Improving LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

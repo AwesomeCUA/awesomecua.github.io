@@ -1,3 +1,11 @@
+---
+title: "case-sdk · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-case-computers-case-sdk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # case-sdk
 
 双模式 macOS GUI 自动化 SDK，支持结构化 JSON 流程、本地及远程 WebSocket 运行时，以及 MCP 集成。

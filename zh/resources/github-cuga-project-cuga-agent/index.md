@@ -1,3 +1,11 @@
+---
+title: "CUGA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cuga-project-cuga-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # CUGA
 
 企业通用智能体框架通过 API、MCP 或 OpenAPI 工具规划任务，在网页或混合模式下经浏览器扩展操作页面，并提供意图约束、工具审批和工具约束。

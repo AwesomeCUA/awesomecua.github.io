@@ -1,3 +1,11 @@
+---
+title: "Amazon Nova Act Samples | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Amazon Nova Act Samples
 
 Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.

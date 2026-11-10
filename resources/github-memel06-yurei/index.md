@@ -1,3 +1,11 @@
+---
+title: "Yurei | AwesomeCUA"
+url: https://awesomecua.com/resources/github-memel06-yurei/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Yurei
 
 Chrome extension and lightweight CLI allowing local AI agents to read and control active browser tabs.

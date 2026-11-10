@@ -1,3 +1,11 @@
+---
+title: "winter40611 Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-winter40611-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # winter40611 Browser Agent
 
 基于 Spring Boot、LangChain4j 和 MCP 的智能体后端，通过 WeChat iLink 实现远程 PC 和浏览器自动化。

@@ -1,3 +1,11 @@
+---
+title: "Screen Point-and-Read / Tree-of-Lens · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ucsb-ai-screen-point-and-read/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # Screen Point-and-Read / Tree-of-Lens
 
 提供屏幕阅读基准和 Tree-of-Lens 实现，用于理解用户指示的区域及其布局上下文。

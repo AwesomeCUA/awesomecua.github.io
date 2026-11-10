@@ -1,3 +1,11 @@
+---
+title: "GUITAR: Structured Failure Diagnosis of GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-34113/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions
 
 Introduces GUITAR, which groups visually different screens into functional states and analyzes agent failures over a state-transition graph. It uses the resulting bottlenecks to diagnose recurring mobile and web errors and evaluate targeted guidance.
@@ -26,6 +34,18 @@ Shaoqing Zhang, Kehai Chen, Xuefeng Bai, Zhuosheng Zhang, Pengfei Zhang, Yang Xi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-34113/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-34113/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34113,
+  title = {{GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions}},
+  author = {{Shaoqing Zhang} and {Kehai Chen} and {Xuefeng Bai} and {Zhuosheng Zhang} and {Pengfei Zhang} and {Yang Xiang} and {Min Zhang}},
+  year = {2026},
+  eprint = {2609.34113v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34113v2},
+  note = {First published: 2026-09-28; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T09:05:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

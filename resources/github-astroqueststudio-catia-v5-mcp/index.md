@@ -1,3 +1,11 @@
+---
+title: "catia-v5-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-astroqueststudio-catia-v5-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # catia-v5-mcp
 
 An MCP server lets agents model and inspect parts and assemblies in CATIA V5 through COM. It provides validated batch actions and checks of resulting geometry and component poses.

@@ -1,3 +1,11 @@
+---
+title: "OSWorld 2.0 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-osworld-v2/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # OSWorld 2.0
 
 OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows with updated task suites, trajectory viewers, and container sandboxes.

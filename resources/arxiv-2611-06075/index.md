@@ -1,3 +1,11 @@
+---
+title: "UniCompress: From Multi-LoRA Experts to One… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-06075/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # UniCompress: From Multi-LoRA Experts to One Compact Model for Edge Intelligence
 
 Bibliographic record for UniCompress: From Multi-LoRA Experts to One Compact Model for Edge Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mingkang Liu, Peipei Jiao, Weiming Meng, Tianyuan Liu, Lichen Pang, Junyan Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-06075/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-06075/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_06075,
+  title = {{UniCompress: From Multi-LoRA Experts to One Compact Model for Edge Intelligence}},
+  author = {{Mingkang Liu} and {Peipei Jiao} and {Weiming Meng} and {Tianyuan Liu} and {Lichen Pang} and {Junyan Li}},
+  year = {2026},
+  eprint = {2611.06075v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.06075v1},
+  note = {First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T07:18:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

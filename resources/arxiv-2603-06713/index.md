@@ -1,3 +1,11 @@
+---
+title: "Scaling Agentic Capabilities, Not Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-06713/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces
 
 Status: excluded from the active CUA catalog after scope review.

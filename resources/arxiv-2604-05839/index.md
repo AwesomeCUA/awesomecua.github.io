@@ -1,3 +1,11 @@
+---
+title: "Vision-Guided Iterative Refinement for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-05839/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Vision-Guided Iterative Refinement for Frontend Code Generation
 
 Bibliographic record for Vision-Guided Iterative Refinement for Frontend Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hannah Sansford, Derek H. C. Law, Wei Liu, Abhishek Tripathi, Niresh Agarwal, Ge
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-05839/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-05839/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_05839,
+  title = {{Vision-Guided Iterative Refinement for Frontend Code Generation}},
+  author = {{Hannah Sansford} and {Derek H. C. Law} and {Wei Liu} and {Abhishek Tripathi} and {Niresh Agarwal} and {Gerrit J. J. van den Burg}},
+  year = {2026},
+  eprint = {2604.05839v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.05839v1},
+  note = {First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T13:06:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Coding with Eyes: Visual Feedback Unlocks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-19750/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Coding with Eyes: Visual Feedback Unlocks Reliable GUI Code Generating and Debugging
 
 Bibliographic record for Coding with Eyes: Visual Feedback Unlocks Reliable GUI Code Generating and Debugging. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhilin Liu, Ye Huang, Ting Xie, Ruizhi Zhang, Wen Li, Lixin Duan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-19750/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-19750/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_19750,
+  title = {{Coding with Eyes: Visual Feedback Unlocks Reliable GUI Code Generating and Debugging}},
+  author = {{Zhilin Liu} and {Ye Huang} and {Ting Xie} and {Ruizhi Zhang} and {Wen Li} and {Lixin Duan}},
+  year = {2026},
+  eprint = {2604.19750v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.19750v1},
+  note = {First published: 2026-03-14; Recorded arXiv version: v1; Recorded version updated: 2026-03-14T05:40:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "nekoro-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zeshuochen-nekoro-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # nekoro-browser
 
 Lightweight browser automation CLI and MCP server driving the user's everyday Chrome via a companion extension.

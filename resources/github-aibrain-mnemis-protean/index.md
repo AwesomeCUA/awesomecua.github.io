@@ -1,3 +1,11 @@
+---
+title: "Protean | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aibrain-mnemis-protean/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Protean
 
 Protean turns everyday human desktop and browser demonstrations into reusable, adaptive agent skills.

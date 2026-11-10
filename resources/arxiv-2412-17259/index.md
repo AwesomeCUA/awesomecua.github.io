@@ -1,3 +1,11 @@
+---
+title: "LegalAgentBench: Evaluating LLM Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-17259/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LegalAgentBench: Evaluating LLM Agents in Legal Domain
 
 Bibliographic record for LegalAgentBench: Evaluating LLM Agents in Legal Domain. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haitao Li, Junjie Chen, Jingli Yang, Qingyao Ai, Wei Jia, Youfeng Liu, Kai Lin, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-17259/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-17259/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_17259,
+  title = {{LegalAgentBench: Evaluating LLM Agents in Legal Domain}},
+  author = {{Haitao Li} and {Junjie Chen} and {Jingli Yang} and {Qingyao Ai} and {Wei Jia} and {Youfeng Liu} and {Kai Lin} and {Yueyue Wu} and {Guozhi Yuan} and {Yiran Hu} and {Wuyue Wang} and {Yiqun Liu} and {Minlie Huang}},
+  year = {2024},
+  eprint = {2412.17259v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.17259v1},
+  note = {First published: 2024-12-23; Recorded arXiv version: v1; Recorded version updated: 2024-12-23T04:02:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

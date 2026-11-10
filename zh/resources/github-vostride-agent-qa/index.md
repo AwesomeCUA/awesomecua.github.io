@@ -1,3 +1,11 @@
+---
+title: "agent-qa · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vostride-agent-qa/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-qa
 
 agent-qa 是 AI 质量保证运行工具，可在网页、Android 和 iOS 界面上执行以自然语言描述的用户旅程测试。

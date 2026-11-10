@@ -1,3 +1,11 @@
+---
+title: "Qubicl | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eldanring-qubicl/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Qubicl
 
 Provisions isolated local virtual computers so AI agents can operate a private desktop without touching the host session.

@@ -1,3 +1,11 @@
+---
+title: "Lightpanda Skill for LLM Agents · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lightpanda-io-agent-skill/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Lightpanda Skill for LLM Agents
 
 Lightpanda Skill for LLM Agents 为智能体提供使用 Lightpanda 浏览器接口的说明，支持交互式浏览及创建可复用的 PandaScript 任务。

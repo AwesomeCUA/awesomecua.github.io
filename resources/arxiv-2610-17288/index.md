@@ -1,3 +1,11 @@
+---
+title: "PhysCodeGym: Benchmarking Coding Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17288/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PhysCodeGym: Benchmarking Coding Agents for Physically Verifiable 4D Reconstruction
 
 Bibliographic record for PhysCodeGym: Benchmarking Coding Agents for Physically Verifiable 4D Reconstruction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shuai Shao, Jinchen He, Cunxin Fan, Zihan Guo, Shijian Wang, Qihan Ren, Kangning
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17288/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17288/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17288,
+  title = {{PhysCodeGym: Benchmarking Coding Agents for Physically Verifiable 4D Reconstruction}},
+  author = {{Shuai Shao} and {Jinchen He} and {Cunxin Fan} and {Zihan Guo} and {Shijian Wang} and {Qihan Ren} and {Kangning Zhang} and {Zunnan Xu} and {Haoyuan Li} and {Hao Wang} and {Jianghao Lin} and {Weiwen Liu} and {Weinan Zhang}},
+  year = {2026},
+  eprint = {2610.17288v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17288v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T18:44:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

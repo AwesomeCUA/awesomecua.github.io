@@ -1,3 +1,11 @@
+---
+title: "Open Grok Bot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anil-matcha-open-grok-bot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Open Grok Bot
 
 本地优先的 AI 智能体工作区，具备受管控的计算机使用、审批关卡和多角色编排功能。

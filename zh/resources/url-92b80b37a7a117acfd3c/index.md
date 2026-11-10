@@ -1,3 +1,11 @@
+---
+title: "PhoneHarness Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # PhoneHarness Bench
 
 包含 124 个混合动作 Android 手机任务和 30 个安全任务的任务定义与验证器元数据，智能体可通过应用 GUI、设备命令和 MCP 风格工具执行操作。

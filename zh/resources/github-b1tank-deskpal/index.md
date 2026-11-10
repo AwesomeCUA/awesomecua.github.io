@@ -1,3 +1,11 @@
+---
+title: "deskpal · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-b1tank-deskpal/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # deskpal
 
 基于原生 C 的 Linux 桌面控制 MCP 服务器，支持 X11/Xwayland、AT-SPI 无障碍树、OCR 和隔离显示环境。

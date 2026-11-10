@@ -1,3 +1,11 @@
+---
+title: "Smart Help: Strategic Opponent Modeling for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-09001/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households
 
 Status: excluded from the active CUA catalog after scope review.

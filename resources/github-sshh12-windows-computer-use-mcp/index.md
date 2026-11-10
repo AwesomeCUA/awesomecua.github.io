@@ -1,3 +1,11 @@
+---
+title: "windows-computer-use-mcp (Scan-Code &… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # windows-computer-use-mcp (Scan-Code & Multi-Monitor)
 
 Windows computer-use MCP server supporting multi-monitor screen capture and hardware scan-code keyboard/mouse injection for desktop and 3D apps.

@@ -1,3 +1,11 @@
+---
+title: "UIX-Qwen2 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-54997a3c67e54abdf319/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # UIX-Qwen2
 
 使用 MultiUI 训练的视觉语言检查点，用于理解文本密集的网页及执行界面任务。

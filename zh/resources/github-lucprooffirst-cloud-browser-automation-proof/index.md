@@ -1,3 +1,11 @@
+---
+title: "Cloud Browser Automation Proof · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lucprooffirst-cloud-browser-automation-proof/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Cloud Browser Automation Proof
 
 经过验证的 Playwright 和 Puppeteer 操作方案，用于将 AI 智能体连接到远程 CDP 云浏览器会话。

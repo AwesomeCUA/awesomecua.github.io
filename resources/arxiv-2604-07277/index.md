@@ -1,3 +1,11 @@
+---
+title: "Android Coach: Improve Online Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-07277/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions
 
 Introduces Android Coach, which uses a learned critic to evaluate multiple candidate actions at each observed emulator state. Process rewards and a group-wise advantage estimator support online training, evaluated on AndroidLab and AndroidWorld.
@@ -26,6 +34,18 @@ Guo Gan, Yuxuan Ding, Cong Chen, Yuwei Ren, Yin Huang, Hong Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-07277/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-07277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_07277,
+  title = {{Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions}},
+  author = {{Guo Gan} and {Yuxuan Ding} and {Cong Chen} and {Yuwei Ren} and {Yin Huang} and {Hong Zhou}},
+  year = {2026},
+  eprint = {2604.07277v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.07277v2},
+  note = {First published: 2026-04-08; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T03:06:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

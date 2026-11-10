@@ -1,3 +1,11 @@
+---
+title: "Dia | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b56578c7f9a211a792f2/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Dia
 
 AI browser from The Browser Company for macOS and Windows whose assistant reads open tabs and connected work apps, with an approval-gated agentic mode that fills forms and drafts replies on the current site.

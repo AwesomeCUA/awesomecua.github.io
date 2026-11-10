@@ -1,3 +1,11 @@
+---
+title: "Firecrawl (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a06f5cb81d3c41338bb6/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Firecrawl
 
 Hosted web data API for AI agents that searches and scrapes pages into Markdown or JSON, with an Interact endpoint and browser sandbox in which prompts or Playwright code click, type and fill forms.

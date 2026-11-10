@@ -1,3 +1,11 @@
+---
+title: "Look Before You Leap: Context-Sensitive GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-39f88102e1659647b1a0/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing
 
 Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
@@ -26,6 +34,23 @@ Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheun
 
 - BibTeX: https://awesomecua.com/resources/url-39f88102e1659647b1a0/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-39f88102e1659647b1a0/citation.csl.json
+
+```bibtex
+@article{cua_261612247a51cd45fb1fe092,
+  title = {{Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing}},
+  author = {{Shuqing Li} and {Binchang Li} and {Yepang Liu} and {Cuiyun Gao} and {Jianping Zhang} and {Shing-Chi Cheung} and {Michael R. Lyu}},
+  year = {2026},
+  month = jun,
+  journal = {Proceedings of the ACM on Software Engineering},
+  publisher = {Association for Computing Machinery (ACM)},
+  volume = {3},
+  number = {FSE},
+  pages = {2858-2881},
+  doi = {10.1145/3808134},
+  url = {https://doi.org/10.1145/3808134},
+  note = {Publication date: 2026-06-30.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-32B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-560a21b67220296ba009/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-32B-Instruct
 
 Qwen3-VL-32B-Instruct, the 32B instruction-tuned edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.

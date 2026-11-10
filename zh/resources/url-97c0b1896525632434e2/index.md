@@ -1,3 +1,11 @@
+---
+title: "Rousillon: Scraping Distributed… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-97c0b1896525632434e2/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Rousillon: Scraping Distributed Hierarchical Web Data
 
 Rousillon 将采集单条层级数据的演示泛化为遍历相关网页的浏览器自动化程序。论文提出关系选择与泛化方法，并评估用户编写此类脚本的情况。
@@ -27,6 +35,18 @@ Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 
 - BibTeX：https://awesomecua.com/resources/url-97c0b1896525632434e2/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-97c0b1896525632434e2/citation.csl.json
+
+```bibtex
+@inproceedings{cua_b85f11762562177944b6898f,
+  title = {{Rousillon: Scraping Distributed Hierarchical Web Data}},
+  author = {{Sarah E. Chasins} and {Maria Mueller} and {Rastislav Bodik}},
+  year = {2018},
+  booktitle = {Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology},
+  doi = {10.1145/3242587.3242661},
+  url = {https://doi.org/10.1145/3242587.3242661},
+  note = {Publication date: 2018.}
+}
+```
 
 ## 发表记录
 

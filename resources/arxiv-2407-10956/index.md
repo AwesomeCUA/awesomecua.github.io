@@ -1,3 +1,11 @@
+---
+title: "Spider2-V: How Far Are Multimodal Agents From… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-10956/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?
 
 Benchmarks multimodal agents on data-science and engineering workflows involving enterprise applications, code, and GUI operations in real computer environments.
@@ -26,6 +34,18 @@ Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-10956/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-10956/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_10956,
+  title = {{Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?}},
+  author = {{Ruisheng Cao} and {Fangyu Lei} and {Haoyuan Wu} and {Jixuan Chen} and {Yeqiao Fu} and {Hongcheng Gao} and {Xinzhuang Xiong} and {Hanchong Zhang} and {Yuchen Mao} and {Wenjing Hu} and {Tianbao Xie} and {Hongshen Xu} and {Danyang Zhang} and {Sida Wang} and {Ruoxi Sun} and {Pengcheng Yin} and {Caiming Xiong} and {Ansong Ni} and {Qian Liu} and {Victor Zhong} and {Lu Chen} and {Kai Yu} and {Tao Yu}},
+  year = {2024},
+  eprint = {2407.10956v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.10956v1},
+  note = {First published: 2024-07-15; Recorded arXiv version: v1; Recorded version updated: 2024-07-15T17:54:37Z.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "Google | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-google/
+updated: 2026-11-09
+type: company
+lang: en
+---
+
 # Google
 
 Publisher or product brand associated with Google computer-use or browser automation offerings.

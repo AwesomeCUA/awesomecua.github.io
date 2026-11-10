@@ -1,3 +1,11 @@
+---
+title: "DeskMind · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deskmind-ai-deskmind/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DeskMind
 
 DeskMind 是优先在本地运行的 macOS 计算机使用智能体，结合无障碍信息检查、DeskMind Eyes 定位和向用户澄清。

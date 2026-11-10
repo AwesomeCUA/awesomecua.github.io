@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround: A Benchmark for Robust… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-16402/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # WinDeskGround: A Benchmark for Robust GUI Grounding in Complex Multi-Window Desktop Environments
 
 WinDeskGround 合成多窗口桌面布局，并控制遮挡、密度和语义相似度，以测试 GUI 定位的鲁棒性；其指令目标基准衡量界面偏离简单单层场景时定位表现的变化。
@@ -27,6 +35,18 @@ Haoren Zhao, Tianyi Chen, Zhen Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-16402/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-16402/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16402,
+  title = {{WinDeskGround: A Benchmark for Robust GUI Grounding in Complex Multi-Window Desktop Environments}},
+  author = {{Haoren Zhao} and {Tianyi Chen} and {Zhen Wang}},
+  year = {2026},
+  eprint = {2605.16402v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16402v1},
+  note = {First published: 2026-05-13; Recorded arXiv version: v1; Recorded version updated: 2026-05-13T02:48:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

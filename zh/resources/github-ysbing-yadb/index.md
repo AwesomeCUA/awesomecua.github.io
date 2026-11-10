@@ -1,3 +1,11 @@
+---
+title: "YADB · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ysbing-yadb/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # YADB
 
 YADB 扩展 Android Debug Bridge，提供文字输入、截图、界面布局导出和手势模拟功能，支持设备自动化。

@@ -1,3 +1,11 @@
+---
+title: "RiskChainBench: A Benchmark for Obfuscated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-16900/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation
 
 Introduces RiskChainBench, pairing obfuscated-message restoration with web-agent investigation of linked sites in labeled local web environments.
@@ -26,6 +34,18 @@ ZhuoXin Liu, Zhiming Ma, Ying Zhang, Mengzheng Yang, Yifan Wang, Zhengqi Huang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-16900/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-16900/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_16900,
+  title = {{RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation}},
+  author = {{ZhuoXin Liu} and {Zhiming Ma} and {Ying Zhang} and {Mengzheng Yang} and {Yifan Wang} and {Zhengqi Huang} and {Yanhan Zhou} and {Zekun Lin} and {Jun Zhang} and {Shun Zhang} and {Yue Chen} and {Qiao Zhao} and {Peng Chen}},
+  year = {2026},
+  eprint = {2609.16900v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.16900v2},
+  note = {First published: 2026-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T16:55:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

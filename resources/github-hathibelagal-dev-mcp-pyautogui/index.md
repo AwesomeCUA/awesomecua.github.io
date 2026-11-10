@@ -1,3 +1,11 @@
+---
+title: "mcp-pyautogui | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hathibelagal-dev-mcp-pyautogui/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # mcp-pyautogui
 
 An MCP server that gives AI clients desktop mouse and keyboard controls, screenshot capture and screen queries through PyAutoGUI.

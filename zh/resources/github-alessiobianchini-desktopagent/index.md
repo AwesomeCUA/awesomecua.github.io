@@ -1,3 +1,11 @@
+---
+title: "DesktopAgent (.NET 9) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alessiobianchini-desktopagent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DesktopAgent (.NET 9)
 
 基于 .NET 9 构建、以安全为先的本地桌面自动化智能体，配有跨平台 OS 适配器、策略检查和 MCP 服务器。

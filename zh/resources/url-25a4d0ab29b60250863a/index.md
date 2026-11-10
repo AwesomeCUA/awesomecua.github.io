@@ -1,3 +1,11 @@
+---
+title: "NNetNav WebArena data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-25a4d0ab29b60250863a/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # NNetNav WebArena data
 
 NNetNav 发布的面向 WebArena 的浏览器交互数据，训练文件和测试文件分别提供。

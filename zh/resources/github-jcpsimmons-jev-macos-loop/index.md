@@ -1,3 +1,11 @@
+---
+title: "Jev macOS Loop · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Jev macOS Loop
 
 Jev macOS Loop 结合 Apple Silicon 本地 Jev 决策模型、OmniParser 定位和原生 macOS Accessibility 操作。

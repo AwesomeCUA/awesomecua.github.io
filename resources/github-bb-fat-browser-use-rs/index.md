@@ -1,3 +1,11 @@
+---
+title: "browser-use-rs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bb-fat-browser-use-rs/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # browser-use-rs
 
 browser-use-rs is a lightweight pure-Rust library for driving Chromium browsers over the Chrome DevTools Protocol with LLM agents.

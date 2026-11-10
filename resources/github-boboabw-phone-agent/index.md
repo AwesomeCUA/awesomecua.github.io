@@ -1,3 +1,11 @@
+---
+title: "Phone Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-boboabw-phone-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Phone Agent
 
 An iPhone assistant that observes a shared screen and acts across apps using an ESP32-S3 Bluetooth mouse and keyboard accessory. The release includes app and firmware source.

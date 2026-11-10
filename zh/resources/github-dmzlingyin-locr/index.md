@@ -1,3 +1,11 @@
+---
+title: "LOCR (Lightweight OCR) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dmzlingyin-locr/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # LOCR (Lightweight OCR)
 
 LOCR 是基于 RapidOCR 的轻量级跨平台剪贴板和屏幕 OCR 工具。

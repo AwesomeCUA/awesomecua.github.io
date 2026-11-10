@@ -1,3 +1,11 @@
+---
+title: "Nanobrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nanobrowser-nanobrowser/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # Nanobrowser
 
 A browser-extension agent that reads pages, interacts with elements and moves between tabs from a side-panel task interface.

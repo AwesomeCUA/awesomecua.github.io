@@ -1,3 +1,11 @@
+---
+title: "WebArena-Verified | AwesomeCUA"
+url: https://awesomecua.com/resources/github-servicenow-webarena-verified/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # WebArena-Verified
 
 An audited re-release of WebArena's 812 web tasks with corrected reference answers and deterministic evaluators that score structured agent responses and captured network traces, plus a 258-task hard subset.

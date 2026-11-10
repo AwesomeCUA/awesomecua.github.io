@@ -1,3 +1,11 @@
+---
+title: "A Systematization of Security… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-05445/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # A Systematization of Security Vulnerabilities in Computer Use Agents
 
 通过风险分类和具体对抗案例分析计算机使用智能体的安全边界，将观察到的失效与输入来源、界面操作绑定、记忆和任务委派联系起来，并提出针对 CUA 的评估原则。
@@ -27,6 +35,18 @@ Daniel Jones, Giorgio Severi, Martin Pouliot, Gary Lopez, Joris de Gruyter, Sant
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-05445/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-05445/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_05445,
+  title = {{A Systematization of Security Vulnerabilities in Computer Use Agents}},
+  author = {{Daniel Jones} and {Giorgio Severi} and {Martin Pouliot} and {Gary Lopez} and {Joris de Gruyter} and {Santiago Zanella-Beguelin} and {Justin Song} and {Blake Bullwinkel} and {Pamela Cortez} and {Amanda Minnich}},
+  year = {2025},
+  eprint = {2507.05445v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.05445v1},
+  note = {First published: 2025-07-07; Recorded arXiv version: v1; Recorded version updated: 2025-07-07T19:50:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

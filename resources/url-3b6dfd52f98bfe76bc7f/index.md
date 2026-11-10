@@ -1,3 +1,11 @@
+---
+title: "WebTailBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # WebTailBench
 
 Live-web task definitions and rubrics for evaluating computer-use agents, with preserved original tasks, a refreshed V2 task suite and a separate refusal set.

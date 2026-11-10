@@ -1,3 +1,11 @@
+---
+title: "ComputerRL: Scaling End-to-End Online… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-14040/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents
 
 Combines API and GUI actions with distributed desktop reinforcement learning and alternating supervised training to address training instability.
@@ -26,6 +34,18 @@ Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, Yanyu Ren,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-14040/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-14040/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_14040,
+  title = {{ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents}},
+  author = {{Hanyu Lai} and {Xiao Liu} and {Yanxiao Zhao} and {Han Xu} and {Hanchen Zhang} and {Bohao Jing} and {Yanyu Ren} and {Shuntian Yao} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2025},
+  eprint = {2508.14040v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.14040v2},
+  note = {First published: 2025-08-19; Recorded arXiv version: v2; Recorded version updated: 2025-10-21T05:18:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Pilot MCP Chrome Extension | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiachaoxia-glitch-pilot-mcp-extension/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Pilot MCP Chrome Extension
 
 Manifest V3 Chrome extension bridging Claude Code and MCP agents to live browser tabs.

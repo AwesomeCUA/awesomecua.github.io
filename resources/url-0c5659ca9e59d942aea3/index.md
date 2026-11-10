@@ -1,3 +1,11 @@
+---
+title: "GUI-Lasagne L1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0c5659ca9e59d942aea3/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # GUI-Lasagne L1
 
 The published GUI-Lasagne training-data collection used for SpiritSight, distributed as dated archive shards for visual interface learning.

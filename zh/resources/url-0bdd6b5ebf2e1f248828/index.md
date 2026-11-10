@@ -1,3 +1,11 @@
+---
+title: "Simular · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0bdd6b5ebf2e1f248828/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Simular
 
 Simular 的计算机使用产品与研究。

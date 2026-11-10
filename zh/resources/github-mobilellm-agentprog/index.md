@@ -1,3 +1,11 @@
+---
+title: "AgentProg · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobilellm-agentprog/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # AgentProg
 
 Android GUI 智能体框架，以结构化程序、变量和控制流保存长时间运行任务的上下文，并提供 CLI 和 AndroidWorld 集成。

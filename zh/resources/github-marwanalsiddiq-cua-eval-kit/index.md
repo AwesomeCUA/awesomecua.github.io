@@ -1,3 +1,11 @@
+---
+title: "CUA Eval Kit · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-marwanalsiddiq-cua-eval-kit/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # CUA Eval Kit
 
 受控的浏览器测试环境和包含 10 个任务的计算机使用评测套件，用于评估网页智能体的准确性和步骤效率。

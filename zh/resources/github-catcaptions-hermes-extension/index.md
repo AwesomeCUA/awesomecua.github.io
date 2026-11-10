@@ -1,3 +1,11 @@
+---
+title: "Hermes Browser Extension · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-catcaptions-hermes-extension/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hermes Browser Extension
 
 面向 Hermes Agent 的浏览器侧边栏扩展，使智能体能够观察并操作当前活动的 Chrome 标签页。

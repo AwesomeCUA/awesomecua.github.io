@@ -1,3 +1,11 @@
+---
+title: "IXR Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vishnu-madhavan-git-ixr-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # IXR Agent
 
 IXR Agent 是基于 TypeScript 的页面内网页 GUI 智能体，可在实时网页应用中执行自然语言指令。

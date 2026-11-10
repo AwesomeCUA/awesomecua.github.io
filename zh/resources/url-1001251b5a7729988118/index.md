@@ -1,3 +1,11 @@
+---
+title: "Salesforce Grounding Dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1001251b5a7729988118/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Salesforce Grounding Dataset
 
 GUI 定位数据集，整合 Aria-UI、OmniAct、Widget Caption、UI-Vision 和 OS-Atlas 截图，将目标边界框与操作、外观、功能及组合指令关联，并引用 GTA1。

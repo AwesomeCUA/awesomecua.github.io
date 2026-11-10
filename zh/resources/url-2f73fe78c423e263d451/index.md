@@ -1,3 +1,11 @@
+---
+title: "UXAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2f73fe78c423e263d451/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # UXAgent
 
 一套可用性测试系统：生成模拟用户画像，让大模型智能体通过浏览器连接器在目标网站上完成任务，并在结果查看界面中展示其问卷回答与操作日志。

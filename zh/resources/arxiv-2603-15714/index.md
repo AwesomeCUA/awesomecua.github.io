@@ -1,3 +1,11 @@
+---
+title: "How Vulnerable Are AI Agents to Indirect… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-15714/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition
 
 这项公开红队研究评估既改变智能体行为、又在最终回复中掩盖入侵迹象的间接提示注入。场景涵盖计算机使用、工具调用和编程，并分析攻击迁移与模型相关的脆弱性。
@@ -27,6 +35,18 @@ Mateusz Dziemian, Maxwell Lin, Xiaohan Fu, Micha Nowak, Nick Winter, Eliot Jones
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-15714/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-15714/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_15714,
+  title = {{How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition}},
+  author = {{Mateusz Dziemian} and {Maxwell Lin} and {Xiaohan Fu} and {Micha Nowak} and {Nick Winter} and {Eliot Jones} and {Andy Zou} and {Lama Ahmad} and {Kamalika Chaudhuri} and {Sahana Chennabasappa} and {Xander Davies} and {Lauren Deason} and {Benjamin L. Edelman} and {Tanner Emek} and {Ivan Evtimov} and {Jim Gust} and {Maia Hamin} and {Kat He} and {Klaudia Krawiecka} and {Riccardo Patana} and {Neil Perry} and {Troy Peterson} and {Xiangyu Qi} and {Javier Rando} and {Zifan Wang} and {Zihan Wang} and {Spencer Whitman} and {Eric Winsor} and {Arman Zharmagambetov} and {Matt Fredrikson} and {Zico Kolter}},
+  year = {2026},
+  eprint = {2603.15714v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.15714v1},
+  note = {First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T14:49:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

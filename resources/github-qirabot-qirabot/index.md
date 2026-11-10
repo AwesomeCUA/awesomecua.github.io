@@ -1,3 +1,11 @@
+---
+title: "Qirabot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qirabot-qirabot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Qirabot
 
 Qirabot is a pure-vision multimodal GUI automation framework for operating browsers, mobile apps, desktops, and games without DOM selectors.

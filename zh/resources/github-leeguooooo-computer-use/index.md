@@ -1,3 +1,11 @@
+---
+title: "computer-use (github.com/leeguooooo/compu… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leeguooooo-computer-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # computer-use
 
 一个已归档的 macOS 桥接工具，让 MCP 客户端将计算机操作任务交给官方 Codex 运行时，并接收内层智能体的最终回复。

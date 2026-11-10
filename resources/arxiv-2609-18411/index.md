@@ -1,3 +1,11 @@
+---
+title: "The Verifiable Action Card: Trustworthy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-18411/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents
 
 Presents the Verifiable Action Card (VAC), a browser approval mechanism that derives confirmations from pending actions and binds user approval to execution.
@@ -26,6 +34,18 @@ Hasnain Irshad, Anam Mughees, Neelam Mughees, Abdullah Mughees, Imtiaz Ali Soomr
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-18411/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-18411/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_18411,
+  title = {{The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents}},
+  author = {{Hasnain Irshad} and {Anam Mughees} and {Neelam Mughees} and {Abdullah Mughees} and {Imtiaz Ali Soomro}},
+  year = {2026},
+  eprint = {2609.18411v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.18411v2},
+  note = {First published: 2026-09-16; Recorded arXiv version: v2; Recorded version updated: 2026-09-30T14:38:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

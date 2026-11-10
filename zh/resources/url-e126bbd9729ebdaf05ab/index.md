@@ -1,3 +1,11 @@
+---
+title: "WebEvolver SFT data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e126bbd9729ebdaf05ab/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WebEvolver SFT data
 
 两个 JSONL 数据集，用于监督微调 WebEvolver 智能体策略和网页世界模型。

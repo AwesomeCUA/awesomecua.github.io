@@ -1,3 +1,11 @@
+---
+title: "OpenGameEval: Benchmarking Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02563/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OpenGameEval: Benchmarking Agentic Programming and Exploration in a Stateful Game Engine
 
 Bibliographic record for OpenGameEval: Benchmarking Agentic Programming and Exploration in a Stateful Game Engine. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Eray Turkel, Mengsha Sun, Kartik Ayyar, Sean Dunigan, Jack Lu, Vlad Shcherban, H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02563/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02563/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02563,
+  title = {{OpenGameEval: Benchmarking Agentic Programming and Exploration in a Stateful Game Engine}},
+  author = {{Eray Turkel} and {Mengsha Sun} and {Kartik Ayyar} and {Sean Dunigan} and {Jack Lu} and {Vlad Shcherban} and {Hsiang-Shun Shih} and {Xin Wang} and {Tiantian Zhang}},
+  year = {2026},
+  eprint = {2610.02563v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02563v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T22:56:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

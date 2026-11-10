@@ -1,3 +1,11 @@
+---
+title: "computer.cpp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gobii-ai-computer-cpp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # computer.cpp
 
 computer.cpp turns native desktop GUI applications into structured, API-callable interfaces for AI agents.

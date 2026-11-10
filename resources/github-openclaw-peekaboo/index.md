@@ -1,3 +1,11 @@
+---
+title: "Peekaboo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openclaw-peekaboo/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Peekaboo
 
 Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI automation CLI and MCP server for computer-use agents.

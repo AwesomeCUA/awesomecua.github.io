@@ -1,3 +1,11 @@
+---
+title: "Skyvern Cloud · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-15ed5fd3cd950d837f98/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Skyvern Cloud
 
 托管式 Skyvern 服务，用于下载发票、填写表单等 AI 浏览器工作流，内置 CAPTCHA 和 2FA 处理、代理地理定位、运行过程说明及 JSON 或 CSV 输出。

@@ -1,3 +1,11 @@
+---
+title: "SecOPD: Mitigating Adaptive Prompt Injections… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-21500/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation
 
 Bibliographic record for SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yibo Peng, Long Lian, David Wagner, Sizhe Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-21500/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-21500/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_21500,
+  title = {{SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation}},
+  author = {{Yibo Peng} and {Long Lian} and {David Wagner} and {Sizhe Chen}},
+  year = {2026},
+  eprint = {2608.21500v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.21500v1},
+  note = {First published: 2026-08-21; Recorded arXiv version: v1; Recorded version updated: 2026-08-21T16:14:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

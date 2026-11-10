@@ -1,3 +1,11 @@
+---
+title: "TETRIS: Towards Exploring the Robustness of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-06132/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TETRIS: Towards Exploring the Robustness of Interactive Segmentation
 
 Status: excluded from the active CUA catalog after scope review.

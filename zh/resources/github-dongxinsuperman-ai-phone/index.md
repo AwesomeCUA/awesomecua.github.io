@@ -1,3 +1,11 @@
+---
+title: "ai-phone · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dongxinsuperman-ai-phone/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # ai-phone
 
 一个自托管平台，在 iOS、Android 和 HarmonyOS 真机与虚拟设备上用纯视觉 VLM 决策循环执行自然语言测试用例，提供设备队列和 HTML 报告。

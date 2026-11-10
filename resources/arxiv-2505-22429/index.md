@@ -1,3 +1,11 @@
+---
+title: "Zero-Shot 3D Visual Grounding from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-22429/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Zero-Shot 3D Visual Grounding from Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Blender MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bpy-dev-blender-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Blender MCP
 
 这个 MCP 服务器通过实时运行的插件或已保存的工程文件连接智能体与 Blender，提供场景操作、运行时 Python API 查询和基准测试工具。

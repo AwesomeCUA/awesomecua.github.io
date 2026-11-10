@@ -1,3 +1,11 @@
+---
+title: "Auditing Web Agent Evaluation on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-01491/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories
 
 通过人工复核 WebArena-Lite 的结果和轨迹，识别自动评估器误判失败的情况及最早产生实质影响的执行错误；还研究显式执行状态记忆和流程指导，说明最终任务得分可能掩盖智能体行为中的较大差异。
@@ -27,6 +35,18 @@ Chengguang Gan, Zimeng He, Yoshihiro Tsujii, Ken-ichiro Kobayashi, Hiroki Itoh, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-01491/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-01491/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_01491,
+  title = {{Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories}},
+  author = {{Chengguang Gan} and {Zimeng He} and {Yoshihiro Tsujii} and {Ken-ichiro Kobayashi} and {Hiroki Itoh} and {Kotaro Funakoshi}},
+  year = {2026},
+  eprint = {2610.01491v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.01491v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T11:31:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

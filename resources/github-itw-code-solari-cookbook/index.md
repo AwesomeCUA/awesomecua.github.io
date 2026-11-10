@@ -1,3 +1,11 @@
+---
+title: "Solari Research Suite: ARC & ColdStart | AwesomeCUA"
+url: https://awesomecua.com/resources/github-itw-code-solari-cookbook/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Solari Research Suite: ARC & ColdStart
 
 A research suite combining an accessibility-based browser-agent harness with an evaluation harness that changes a web task app and verifies completed actions against database state.

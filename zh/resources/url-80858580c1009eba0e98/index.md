@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 7B AC · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-80858580c1009eba0e98/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 7B AC
 
 面向 AndroidControl 的 Qwen2-VL 检查点，使用 OS-Genesis 反向任务合成生成的移动端轨迹训练。

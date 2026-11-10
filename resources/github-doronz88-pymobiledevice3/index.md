@@ -1,3 +1,11 @@
+---
+title: "pymobiledevice3 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-doronz88-pymobiledevice3/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # pymobiledevice3
 
 Pure Python 3 library and CLI for iOS devices, with browser-based screen mirroring and touch control, a CDP bridge for Safari and WebViews, and a device-operator skill for Claude Code.

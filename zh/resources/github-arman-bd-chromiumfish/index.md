@@ -1,3 +1,11 @@
+---
+title: "ChromiumFish · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arman-bd-chromiumfish/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # ChromiumFish
 
 ChromiumFish 将经过修改的 Chromium 浏览器打包，供 Playwright 和外部智能体使用。它还内置智能体，可读取网页并执行点击、输入和导航操作。

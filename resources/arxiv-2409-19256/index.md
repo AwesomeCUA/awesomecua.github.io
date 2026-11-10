@@ -1,3 +1,11 @@
+---
+title: "HybridFlow: A Flexible and Efficient RLHF… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-19256/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # HybridFlow: A Flexible and Efficient RLHF Framework
 
 Status: excluded from the active CUA catalog after scope review.

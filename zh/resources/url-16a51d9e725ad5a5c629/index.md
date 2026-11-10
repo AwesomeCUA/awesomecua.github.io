@@ -1,3 +1,11 @@
+---
+title: "Holo2 4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-16a51d9e725ad5a5c629/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Holo2 4B
 
 基于 Qwen3-VL 的检查点，用于在网页、桌面和移动端界面中导航及执行多步 GUI 操作。

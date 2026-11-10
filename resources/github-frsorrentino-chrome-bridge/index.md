@@ -1,3 +1,11 @@
+---
+title: "Chrome Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-frsorrentino-chrome-bridge/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Chrome Bridge
 
 MCP server and Chrome extension that let Claude Code operate the user's signed-in Chrome with 69 tools covering forms, navigation, DOM and network inspection, audits and WebMCP tools declared by pages.

@@ -1,3 +1,11 @@
+---
+title: "SMAN-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gezelligheid0314-sman-bench/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # SMAN-Bench
 
 SMAN-Bench（Mobile-Bench-v2）评估代码：AppAgent 和 Mobile-Agent-v2 运行器重放录制的 Android 页面，执行单路径、多路径、含噪和模糊任务，以步骤和任务成功率评分。

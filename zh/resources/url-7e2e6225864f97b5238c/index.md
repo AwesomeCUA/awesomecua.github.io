@@ -1,3 +1,11 @@
+---
+title: "orion-vm-arm · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7e2e6225864f97b5238c/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # orion-vm-arm
 
 Orion 智能体所用 Ubuntu 客户机的 VMware Fusion 快照，面向 arm64 Mac，预装 CellProfiler、QuPath 和 napari，以单个 OS.zip 压缩包发布。

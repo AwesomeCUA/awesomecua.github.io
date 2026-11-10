@@ -1,3 +1,11 @@
+---
+title: "terminal-use-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # terminal-use-mcp
 
 Model Context Protocol server for interactive terminal computer use, allowing AI agents to operate full-screen TUI applications (`vim`, `htop`, `lazygit`).

@@ -1,3 +1,11 @@
+---
+title: "Unbrowse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Unbrowse
 
 Unbrowse captures browser network traffic to reverse-engineer internal website APIs into direct callable tools for AI agents.

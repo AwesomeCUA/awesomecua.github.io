@@ -1,3 +1,11 @@
+---
+title: "Web Browser Automation with Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5857c840372512cfe3fc/
+updated: 2026-10-20
+type: learning
+lang: en
+---
+
 # Web Browser Automation with Agents (smolagents tutorial)
 
 Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium browser tools, screenshot callbacks and example web-navigation tasks.

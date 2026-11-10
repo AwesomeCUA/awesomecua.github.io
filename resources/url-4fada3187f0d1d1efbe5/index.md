@@ -1,3 +1,11 @@
+---
+title: "UI-Ins-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4fada3187f0d1d1efbe5/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # UI-Ins-32B
 
 A GUI grounding checkpoint that locates interface elements from instructions. Its training combines varied instruction formulations with reinforcement learning.

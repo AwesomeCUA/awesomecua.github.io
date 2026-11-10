@@ -1,3 +1,11 @@
+---
+title: "natbot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nat-natbot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # natbot
 
 早期基于 Playwright 的浏览器智能体原型，通过向 LLM 提供简化的 DOM 链接和输入框列表来执行网页导航。

@@ -1,3 +1,11 @@
+---
+title: "Interactive Reward Agent: GUI Task Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-25904/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification
 
 Introduces an Interactive Reward Agent that proposes completion conditions and verifies them using system, application, and GUI tools after execution. GUI-RewardBench provides annotated desktop trajectories for evaluating these evidence-based judgments and their use in reinforcement learning.
@@ -26,6 +34,18 @@ Chenrui Shi, Yuwei Wu, Yang Liu, Ruining Feng, Zirui Shang, Zhi Gao, Lifeng Fan,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-25904/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-25904/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_25904,
+  title = {{Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification}},
+  author = {{Chenrui Shi} and {Yuwei Wu} and {Yang Liu} and {Ruining Feng} and {Zirui Shang} and {Zhi Gao} and {Lifeng Fan} and {Che Sun}},
+  year = {2026},
+  eprint = {2607.25904v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.25904v2},
+  note = {First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-29T05:13:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

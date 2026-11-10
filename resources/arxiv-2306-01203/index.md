@@ -1,3 +1,11 @@
+---
+title: "Topo-Geometrically Distinct Path Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-01203/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Topo-Geometrically Distinct Path Computation using Neighborhood-augmented Graph, and its Application to Path Planning for a Tethered Robot in 3D
 
 Status: excluded from the active CUA catalog after scope review.

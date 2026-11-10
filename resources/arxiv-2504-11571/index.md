@@ -1,3 +1,11 @@
+---
+title: "GraphicBench: A Planning Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-11571/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GraphicBench: A Planning Benchmark for Graphic Design with Language Agents
 
 Bibliographic record for GraphicBench: A Planning Benchmark for Graphic Design with Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dayeon Ki, Tianyi Zhou, Marine Carpuat, Gang Wu, Puneet Mathur, Viswanathan Swam
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-11571/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-11571/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_11571,
+  title = {{GraphicBench: A Planning Benchmark for Graphic Design with Language Agents}},
+  author = {{Dayeon Ki} and {Tianyi Zhou} and {Marine Carpuat} and {Gang Wu} and {Puneet Mathur} and {Viswanathan Swaminathan}},
+  year = {2025},
+  eprint = {2504.11571v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.11571v1},
+  note = {First published: 2025-04-15; Recorded arXiv version: v1; Recorded version updated: 2025-04-15T19:26:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Test-Time Self-Evolving GUI Visual… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-11191/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation
 
 提出用于 GUI 元素定位的 Test-Time Self-Evolving 框架，在未见过的界面上探索、反思预测坐标，并将反思结果蒸馏进模型。
@@ -27,6 +35,18 @@ Shiyu Xuan, Zechao Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-11191/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-11191/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_11191,
+  title = {{Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation}},
+  author = {{Shiyu Xuan} and {Zechao Li}},
+  year = {2026},
+  eprint = {2608.11191v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.11191v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T17:50:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

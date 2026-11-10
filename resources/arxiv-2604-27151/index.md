@@ -1,3 +1,11 @@
+---
+title: "Step-level Optimization for Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-27151/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Step-level Optimization for Efficient Computer-use Agents
 
 Proposes a step-level model cascade that runs a smaller computer-use policy until learned monitors flag stalled progress or semantic drift. Separate history-based stuck detection and milestone checks determine when to escalate for recovery or verification without retraining the larger model.
@@ -26,6 +34,18 @@ Jinbiao Wei, Kangqi Ni, Yilun Zhao, Guo Gan, Arman Cohan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-27151/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-27151/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_27151,
+  title = {{Step-level Optimization for Efficient Computer-use Agents}},
+  author = {{Jinbiao Wei} and {Kangqi Ni} and {Yilun Zhao} and {Guo Gan} and {Arman Cohan}},
+  year = {2026},
+  eprint = {2604.27151v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.27151v1},
+  note = {First published: 2026-04-29; Recorded arXiv version: v1; Recorded version updated: 2026-04-29T19:59:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

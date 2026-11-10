@@ -1,3 +1,11 @@
+---
+title: "Narada Code and OperatorMini · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fd28110220935a0fae26/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Narada Code and OperatorMini
 
 Narada Code 开发并测试电脑操作流程，在失败后修改流程；OperatorMini 按指令执行重复性网页和企业任务。

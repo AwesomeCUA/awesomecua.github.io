@@ -1,3 +1,11 @@
+---
+title: "Memlayer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-divagr18-memlayer/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Memlayer
 
 Memlayer 是即插即用的记忆层，可提取事实、构建知识图谱，并为 LLM 智能体检索分层上下文。

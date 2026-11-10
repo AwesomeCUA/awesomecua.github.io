@@ -1,3 +1,11 @@
+---
+title: "Learn How to Act from Your Own… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-27307/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents
 
 GUI-SD-v2 将同策略自蒸馏从定位扩展到多轮 GUI 交互。它先增强智能体对特权指导的响应，再选择性蒸馏针对具体步骤的推理和记忆支持，以供后续操作使用。
@@ -27,6 +35,18 @@ Yan Zhang, Daiqing Wu, Huawen Shen, Liang Li, Gang Cao, Zhi Gong, Wei Dai, Xiaod
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-27307/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-27307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_27307,
+  title = {{Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents}},
+  author = {{Yan Zhang} and {Daiqing Wu} and {Huawen Shen} and {Liang Li} and {Gang Cao} and {Zhi Gong} and {Wei Dai} and {Xiaode Zhang} and {Can Ma} and {Yu Zhou}},
+  year = {2026},
+  eprint = {2609.27307v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.27307v1},
+  note = {First published: 2026-09-23; Recorded arXiv version: v1; Recorded version updated: 2026-09-23T03:38:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

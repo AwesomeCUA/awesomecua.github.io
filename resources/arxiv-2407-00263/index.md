@@ -1,3 +1,11 @@
+---
+title: "From Local Concepts to Universals: Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-00263/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models
 
 Bibliographic record for From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mehar Bhatia, Sahithya Ravi, Aditya Chinchure, Eunjeong Hwang, Vered Shwartz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-00263/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-00263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_00263,
+  title = {{From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models}},
+  author = {{Mehar Bhatia} and {Sahithya Ravi} and {Aditya Chinchure} and {Eunjeong Hwang} and {Vered Shwartz}},
+  year = {2024},
+  eprint = {2407.00263v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.00263v1},
+  note = {First published: 2024-06-28; Recorded arXiv version: v1; Recorded version updated: 2024-06-28T23:28:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

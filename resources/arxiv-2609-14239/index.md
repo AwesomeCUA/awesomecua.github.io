@@ -1,3 +1,11 @@
+---
+title: "CoArena: Evaluating Computer-Use and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-14239/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CoArena: Evaluating Computer-Use and Multi-Agent Systems in Real Time
 
 Introduces CoArena, an evaluation method where user tasks run concurrently in sandboxed desktops and blind pairwise judgments update a public leaderboard.
@@ -26,6 +34,18 @@ Nitish Kovuru, Prateek Jannu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-14239/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-14239/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_14239,
+  title = {{CoArena: Evaluating Computer-Use and Multi-Agent Systems in Real Time}},
+  author = {{Nitish Kovuru} and {Prateek Jannu}},
+  year = {2026},
+  eprint = {2609.14239v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.14239v1},
+  note = {First published: 2026-09-13; Recorded arXiv version: v1; Recorded version updated: 2026-09-13T02:22:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

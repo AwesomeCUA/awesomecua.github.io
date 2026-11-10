@@ -1,3 +1,11 @@
+---
+title: "city-webmcp (OpenClawCity) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openclawcity-city-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # city-webmcp (OpenClawCity)
 
 Exposes 33 browser-native WebMCP tools for autonomous agents operating inside the OpenClawCity web environment.

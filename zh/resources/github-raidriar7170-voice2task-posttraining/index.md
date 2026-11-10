@@ -1,3 +1,11 @@
+---
+title: "Voice2Task Post-Training · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raidriar7170-voice2task-posttraining/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Voice2Task Post-Training
 
 后训练与评测流水线，将中文语音的 ASR 指令映射为符合模式定义的浏览器智能体动作计划。

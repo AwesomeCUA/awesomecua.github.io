@@ -1,3 +1,11 @@
+---
+title: "asil-qwen35-9b-sft · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9960d240939244c3edaa/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # asil-qwen35-9b-sft
 
 这是用于基于结构化状态和语义动作的应用控制方法的 ASIL 监督微调检查点，随附可加载的模型权重。

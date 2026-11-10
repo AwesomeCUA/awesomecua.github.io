@@ -1,3 +1,11 @@
+---
+title: "BrowserAgentRegression | AwesomeCUA"
+url: https://awesomecua.com/resources/github-albertxxuu-browseragentregression/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # BrowserAgentRegression
 
 Local-first regression testing benchmark for evaluating browser agents against controlled UI and DOM mutations.

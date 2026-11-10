@@ -1,3 +1,11 @@
+---
+title: "browxai · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kalebteccom-browxai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # browxai
 
 browxai 为 AI 智能体提供基于 MCP 的统一控制接口，可操作 Chromium、Firefox 和原生桌面应用。

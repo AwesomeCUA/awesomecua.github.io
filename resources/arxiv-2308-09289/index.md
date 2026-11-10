@@ -1,3 +1,11 @@
+---
+title: "Preference-conditioned Pixel-based AI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-09289/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Preference-conditioned Pixel-based AI Agent For Game Testing
 
 Bibliographic record for Preference-conditioned Pixel-based AI Agent For Game Testing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sherif Abdelfattah, Adrian Brown, Pushi Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-09289/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-09289/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_09289,
+  title = {{Preference-conditioned Pixel-based AI Agent For Game Testing}},
+  author = {{Sherif Abdelfattah} and {Adrian Brown} and {Pushi Zhang}},
+  year = {2023},
+  eprint = {2308.09289v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.09289v2},
+  note = {First published: 2023-08-18; Recorded arXiv version: v2; Recorded version updated: 2023-11-10T21:43:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

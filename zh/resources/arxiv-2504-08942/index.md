@@ -1,3 +1,11 @@
+---
+title: "AgentRewardBench: Evaluating Automatic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-08942/
+updated: 2026-11-02
+type: paper
+lang: zh-CN
+---
+
 # AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories
 
 AgentRewardBench 以来自 5 个基准的 1,302 条轨迹的专家评审为参照，评估自动化网页智能体评判方法。标注涵盖任务完成情况、副作用和重复行为，可用于比较 LLM 评判模型与基于规则的任务评估器。
@@ -27,6 +35,18 @@ Xing Han Lù, Amirhossein Kazemnejad, Nicholas Meade, Arkil Patel, Dongchan Shin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-08942/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-08942/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_08942,
+  title = {{AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories}},
+  author = {{Xing Han Lù} and {Amirhossein Kazemnejad} and {Nicholas Meade} and {Arkil Patel} and {Dongchan Shin} and {Alejandra Zambrano} and {Karolina Stańczak} and {Peter Shaw} and {Christopher J. Pal} and {Siva Reddy}},
+  year = {2025},
+  eprint = {2504.08942v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.08942v2},
+  note = {First published: 2025-04-11; Recorded arXiv version: v2; Recorded version updated: 2025-10-06T15:46:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

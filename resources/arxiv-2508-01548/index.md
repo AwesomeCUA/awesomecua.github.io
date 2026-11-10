@@ -1,3 +1,11 @@
+---
+title: "A Glimpse to Compress: Dynamic Visual Token… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-01548/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

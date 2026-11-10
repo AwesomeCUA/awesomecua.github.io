@@ -1,3 +1,11 @@
+---
+title: "AndroidArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-androidarenaagent-androidarena/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # AndroidArena
 
 用于评估语言模型驱动的智能体的 Android 环境。

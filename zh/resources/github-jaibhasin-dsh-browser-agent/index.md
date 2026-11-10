@@ -1,3 +1,11 @@
+---
+title: "jaibhasin dsh-browser-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jaibhasin-dsh-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # jaibhasin dsh-browser-agent
 
 由 DeepSeek Harness 驱动的 Chrome 侧边栏自主浏览器智能体。

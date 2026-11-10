@@ -1,3 +1,11 @@
+---
+title: "PulsarRPA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-platonai-pulsarrpa/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PulsarRPA
 
 PulsarRPA 是浏览器 RPA 和网页智能体框架，结合自然语言命令、XPath/SQL 页面查询和隐蔽浏览器控制。

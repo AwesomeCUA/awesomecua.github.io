@@ -1,3 +1,11 @@
+---
+title: "TagUI Bricks · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aimakerspace-tagui-bricks/
+updated: 2026-11-10
+type: learning
+lang: zh-CN
+---
+
 # TagUI Bricks
 
 一组 TagUI 示例工作流，面向网站和桌面应用，例如通过 Gmail 发送外汇汇率、对税务通知做 OCR 以及填写 Word 信函，每个工作流都提供可下载的模板。

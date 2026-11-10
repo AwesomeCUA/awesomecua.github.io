@@ -1,3 +1,11 @@
+---
+title: "AgentLens: Adaptive Visual Modalities… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-20279/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents
 
 提出移动 GUI 智能体 AgentLens，在后台执行任务时展示完整、局部或生成的界面视图，以支持用户交互。
@@ -27,6 +35,18 @@ Jeonghyeon Kim, Byeongjun Joung, Junwon Lee, Joohyung Lee, Taehoon Min, Sunjae L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-20279/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-20279/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_20279,
+  title = {{AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents}},
+  author = {{Jeonghyeon Kim} and {Byeongjun Joung} and {Junwon Lee} and {Joohyung Lee} and {Taehoon Min} and {Sunjae Lee}},
+  year = {2026},
+  eprint = {2604.20279v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.20279v3},
+  note = {First published: 2026-04-22; Recorded arXiv version: v3; Recorded version updated: 2026-09-07T13:53:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

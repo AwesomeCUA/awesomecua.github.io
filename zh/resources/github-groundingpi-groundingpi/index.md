@@ -1,3 +1,11 @@
+---
+title: "GroundingPI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-groundingpi-groundingpi/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # GroundingPI
 
 GroundingPI 是一个 4B 视觉定位基础模型，统一了边界框检测、指代表达和点定位。

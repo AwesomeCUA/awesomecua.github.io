@@ -1,3 +1,11 @@
+---
+title: "Coding Agents with Harness for Safe Robot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-20822/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Coding Agents with Harness for Safe Robot Control
 
 Bibliographic record for Coding Agents with Harness for Safe Robot Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-20822/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-20822/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_20822,
+  title = {{Coding Agents with Harness for Safe Robot Control}},
+  author = {{Bingxin Xu} and {Yuzhang Shang} and {Zhen Dong} and {Emilio Ferrara}},
+  year = {2026},
+  eprint = {2609.20822v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.20822v2},
+  note = {First published: 2026-09-17; Recorded arXiv version: v2; Recorded version updated: 2026-10-02T03:23:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "UI-Mate-9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d9e6788adf3eb50a9b87/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # UI-Mate-9B
 
 UI-Mate 发布中的 9B GUI 智能体模型，基于 Qwen3.5-9B 经监督微调和在线强化学习训练，将指令和屏幕截图转化为键盘和鼠标操作。

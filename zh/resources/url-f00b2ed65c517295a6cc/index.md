@@ -1,3 +1,11 @@
+---
+title: "Computer Use Large (markov-ai) · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f00b2ed65c517295a6cc/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Computer Use Large (markov-ai)
 
 从互联网收集的 48,478 段经裁剪且无音频的屏幕录制视频，约 12,300 小时，展示 AutoCAD、Blender、Excel、Photoshop、Salesforce 和 VS Code 的使用；附时长元数据，无操作标签。

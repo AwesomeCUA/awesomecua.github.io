@@ -1,3 +1,11 @@
+---
+title: "xunsss/osworld2-codex-gpt56sol-0624-atte… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bf57897ba4d047112345/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
 
 这个 OSWorld-V2 数据集提供精简数据表，用于浏览 Codex 的任务摘要、尝试记录、轨迹事件，以及已执行的图形界面或命令行操作。

@@ -1,3 +1,11 @@
+---
+title: "Learning to Model the World with Language | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-01399/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning to Model the World with Language
 
 Status: excluded from the active CUA catalog after scope review.

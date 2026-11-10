@@ -1,3 +1,11 @@
+---
+title: "AgentLimb · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hooosberg-agentlimb/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AgentLimb
 
 Chrome 扩展程序和本地桥接工具，让 Claude Code、Cursor 和 Codex 能操控用户正在使用的 Chrome 浏览器。

@@ -1,3 +1,11 @@
+---
+title: "EAGLE: Enhanced Visual Grounding Minimizes… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-02699/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models
 
 Bibliographic record for EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Andrés Villa, Juan León Alcázar, Motasem Alfarra, Vladimir Araujo, Alvaro Sot
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-02699/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-02699/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_02699,
+  title = {{EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models}},
+  author = {{Andrés Villa} and {Juan León Alcázar} and {Motasem Alfarra} and {Vladimir Araujo} and {Alvaro Soto} and {Bernard Ghanem}},
+  year = {2025},
+  eprint = {2501.02699v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.02699v1},
+  note = {First published: 2025-01-06; Recorded arXiv version: v1; Recorded version updated: 2025-01-06T00:39:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

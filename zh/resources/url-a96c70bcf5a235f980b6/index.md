@@ -1,3 +1,11 @@
+---
+title: "LexBench-WebArena-Replay · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a96c70bcf5a235f980b6/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # LexBench-WebArena-Replay
 
 LexBench-WebArena-Replay 将 WebArena 任务定义与固定的浏览器操作配对，供 Browser Eval 重放操作并对已发布的 812 项任务评估完成情况。

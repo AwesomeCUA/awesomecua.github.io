@@ -1,3 +1,11 @@
+---
+title: "Anvil Engine · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-awictor-anvil-engine/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Anvil Engine
 
 一个可自行托管的 Chrome 服务，通过 REST、CDP、TypeScript SDK 和 MCP 服务器提供浏览器会话、页面操作、截图与录制功能。

@@ -1,3 +1,11 @@
+---
+title: "GTA1-7B (huggingface.co/HelloKKMe/GTA1-7B) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9ca4709eb2e41c0fced6/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GTA1-7B
 
 A released GUI grounding checkpoint trained with GRPO to predict an element's coordinates from a screenshot and description, with inference code and reported evaluations.

@@ -1,3 +1,11 @@
+---
+title: "opencli-plugin-goofish | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # opencli-plugin-goofish
 
 An OpenCLI adapter for Goofish that exposes shopping, account, listing, and messaging actions through commands backed by a signed-in Chrome session.

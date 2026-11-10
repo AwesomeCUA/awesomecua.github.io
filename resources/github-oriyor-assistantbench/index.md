@@ -1,3 +1,11 @@
+---
+title: "AssistantBench (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-oriyor-assistantbench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # AssistantBench
 
 AssistantBench evaluates web agents on realistic, time-consuming tasks. Its project repository links to the task dataset and submission leaderboard.

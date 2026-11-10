@@ -1,3 +1,11 @@
+---
+title: "omniparser-finetuned · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e2b79e8d1c6a28c65bff/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # omniparser-finetuned
 
 omniparser-finetuned 发布用于界面解析的 Florence-2 图标描述模型权重，训练数据包含图标标签和截图裁剪。

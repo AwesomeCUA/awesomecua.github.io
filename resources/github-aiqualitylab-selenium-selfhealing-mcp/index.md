@@ -1,3 +1,11 @@
+---
+title: "Selenium Self-Healing MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aiqualitylab-selenium-selfhealing-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Selenium Self-Healing MCP Server
 
 MCP server that diagnoses broken Selenium DOM locators after UI changes and synthesizes self-healing replacement selectors.

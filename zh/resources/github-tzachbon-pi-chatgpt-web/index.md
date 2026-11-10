@@ -1,3 +1,11 @@
+---
+title: "pi-chatgpt-web · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tzachbon-pi-chatgpt-web/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pi-chatgpt-web
 
 在 Pi 编码智能体中，将已通过身份验证的 ChatGPT 浏览器会话用作模型提供方。

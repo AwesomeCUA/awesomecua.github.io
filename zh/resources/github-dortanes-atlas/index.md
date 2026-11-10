@@ -1,3 +1,11 @@
+---
+title: "Atlas Desktop Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dortanes-atlas/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Atlas Desktop Agent
 
 Atlas 是语音与屏幕结合的桌面智能体，可观察活动窗口并执行鼠标和键盘动作。

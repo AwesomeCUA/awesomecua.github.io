@@ -1,3 +1,11 @@
+---
+title: "Zoom Consistency Routing | AwesomeCUA"
+url: https://awesomecua.com/resources/github-omxyz-zoom-consistency-routing/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Zoom Consistency Routing
 
 A training-free router chooses between visual grounding models using prediction distance from a zoom crop's center. The release includes ScreenSpot-Pro evaluation scripts.

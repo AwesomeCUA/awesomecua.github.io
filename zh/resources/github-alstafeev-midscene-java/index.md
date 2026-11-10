@@ -1,3 +1,11 @@
+---
+title: "Midscene Java (github.com/alstafeev/midsc… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alstafeev-midscene-java/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Midscene Java
 
 面向网页操作智能体的 Java SDK，可根据自然语言指令结合截图和 DOM 定位元素、执行浏览器操作并生成运行报告。

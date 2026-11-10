@@ -1,3 +1,11 @@
+---
+title: "Phi Browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-phibrowser-phibrowser-mac/
+updated: 2026-10-18
+type: infrastructure
+lang: zh-CN
+---
+
 # Phi Browser
 
 Chromium 浏览器的原生 macOS 客户端；其智能体 Spaces 允许内置助手或外部智能体在用户授权后通过 DevTools Protocol 套接字控制窗口，用户可观看并接管。

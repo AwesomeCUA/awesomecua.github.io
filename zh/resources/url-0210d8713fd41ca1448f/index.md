@@ -1,3 +1,11 @@
+---
+title: "Stagehand (stagehand.dev) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0210d8713fd41ca1448f/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Stagehand
 
 面向浏览器智能体的 SDK，结合类似 Playwright 的页面控制与自然语言操作、观察和信息提取，并以浏览器扩展形式运行。

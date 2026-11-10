@@ -1,3 +1,11 @@
+---
+title: "Claude Sonnet 4.5 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-18816edf464a073a0120/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Claude Sonnet 4.5
 
 Claude Sonnet 4.5 是通过 API 提供的通用模型。Anthropic 报告了其在 OSWorld 上的计算机使用表现，并展示了浏览器任务。

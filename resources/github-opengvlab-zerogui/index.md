@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opengvlab-zerogui/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # ZeroGUI
 
 Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.

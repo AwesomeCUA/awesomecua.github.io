@@ -1,3 +1,11 @@
+---
+title: "Open Codex Computer History | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Open Codex Computer History
 
 Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.

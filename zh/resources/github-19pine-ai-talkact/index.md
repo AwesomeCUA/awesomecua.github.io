@@ -1,3 +1,11 @@
+---
+title: "TalkAct · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-19pine-ai-talkact/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # TalkAct
 
 TalkAct 是一款双模型语音与计算机使用智能体，可在执行后台 GUI 动作的同时进行实时语音对话。

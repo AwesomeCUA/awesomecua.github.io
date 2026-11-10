@@ -1,3 +1,11 @@
+---
+title: "Indeed-UI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-intelligence-indeed-indeed-ui/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Indeed-UI
 
 面向桌面、移动端和浏览器界面的 GUI 定位模型；仓库提供 ScreenSpot-Pro 评估与放大脚本。

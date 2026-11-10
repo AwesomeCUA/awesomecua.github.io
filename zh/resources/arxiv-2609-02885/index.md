@@ -1,3 +1,11 @@
+---
+title: "Discriminative World Models for Web Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-02885/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Discriminative World Models for Web Agents
 
 训练判别式网页世界模型，以区分真实的下一状态与其他操作的结果；利用分支网页轨迹训练，并测试预测状态匹配、基于过程奖励的操作排序及 WebArena-Lite 端到端选择。
@@ -27,6 +35,18 @@ Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, Chuyi Shang, Leon Oks, Leonid Kar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-02885/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-02885/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02885,
+  title = {{Discriminative World Models for Web Agents}},
+  author = {{Kelvin Li} and {Dhruv Pendharkar} and {Anish Pahilajani} and {Chuyi Shang} and {Leon Oks} and {Leonid Karlinsky} and {Rogerio Feris} and {Trevor Darrell} and {Roei Herzig}},
+  year = {2026},
+  eprint = {2609.02885v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02885v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T17:59:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

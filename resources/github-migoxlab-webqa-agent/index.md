@@ -1,3 +1,11 @@
+---
+title: "WebQA Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-migoxlab-webqa-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # WebQA Agent
 
 WebQA Agent is an autonomous multimodal web testing agent that audits webpage functionality, performance, and visual UX without test scripts.

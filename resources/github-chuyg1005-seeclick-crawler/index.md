@@ -1,3 +1,11 @@
+---
+title: "GUI Grounding Pre-training Data for SeeClick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chuyg1005-seeclick-crawler/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # GUI Grounding Pre-training Data for SeeClick
 
 A SeeClick data collection tool that uses Common Crawl URLs and Selenium to gather web pages and element grounding data for pretraining.

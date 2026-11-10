@@ -1,3 +1,11 @@
+---
+title: "Beyond Chat and Clicks: GUI Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-14668/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation
 
 DOMSteer translates help requests and live page context into reversible DOM changes such as control highlighting, contextual tooltips and layout reorganization. The work evaluates in-place GUI assistance with interface tests, use cases and a comparative user study.
@@ -26,6 +34,18 @@ Pan Hao, Rishi Selvakumaran, Jacob Sun, Qianwen Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-14668/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-14668/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_14668,
+  title = {{Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation}},
+  author = {{Pan Hao} and {Rishi Selvakumaran} and {Jacob Sun} and {Qianwen Wang}},
+  year = {2026},
+  eprint = {2604.14668v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.14668v1},
+  note = {First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T06:22:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

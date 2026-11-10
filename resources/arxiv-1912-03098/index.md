@@ -1,3 +1,11 @@
+---
+title: "Connecting Vision and Language with Localized… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1912-03098/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Connecting Vision and Language with Localized Narratives
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Leveraging LLM Agents for Automated Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-22170/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Leveraging LLM Agents for Automated Video Game Testing
 
 Bibliographic record for Leveraging LLM Agents for Automated Video Game Testing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chengjia Wang, Lanling Tang, Ming Yuan, Jiongchi Yu, Xiaofei Xie, Jiajun Bu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-22170/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-22170/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_22170,
+  title = {{Leveraging LLM Agents for Automated Video Game Testing}},
+  author = {{Chengjia Wang} and {Lanling Tang} and {Ming Yuan} and {Jiongchi Yu} and {Xiaofei Xie} and {Jiajun Bu}},
+  year = {2025},
+  eprint = {2509.22170v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.22170v1},
+  note = {First published: 2025-09-26; Recorded arXiv version: v1; Recorded version updated: 2025-09-26T10:31:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

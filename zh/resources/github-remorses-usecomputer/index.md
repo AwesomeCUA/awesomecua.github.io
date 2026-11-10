@@ -1,3 +1,11 @@
+---
+title: "usecomputer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-remorses-usecomputer/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # usecomputer
 
 这是用于智能体工作流程的桌面自动化命令行工具和库。它可捕获屏幕截图、将图像坐标映射到屏幕位置，并发送鼠标和键盘操作。

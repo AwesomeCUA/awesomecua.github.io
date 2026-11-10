@@ -1,3 +1,11 @@
+---
+title: "gridhand · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zachrouan-gridhand/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # gridhand
 
 零依赖的 Rust CLI，用于跨平台 GUI 自动化，可在截图上叠加带标签的坐标网格，实现确定性点击。

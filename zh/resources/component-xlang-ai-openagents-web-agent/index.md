@@ -1,3 +1,11 @@
+---
+title: "OpenAgents Web Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-xlang-ai-openagents-web-agent/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # OpenAgents Web Agent
 
 OpenAgents 的浏览器控制组件，将 Chrome 扩展连接到网页智能体和本地聊天平台，用于浏览网站和完成界面任务。

@@ -1,3 +1,11 @@
+---
+title: "PhantomJS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ariya-phantomjs/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # PhantomJS
 
 PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.

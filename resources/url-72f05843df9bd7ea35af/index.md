@@ -1,3 +1,11 @@
+---
+title: "RICO-SCA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-72f05843df9bd7ea35af/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # RICO-SCA
 
 A mobile UI dataset pairing screenshots and widget boxes with synthetic captions and view hierarchy data for screen understanding and interface grounding.

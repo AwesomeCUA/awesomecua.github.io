@@ -1,3 +1,11 @@
+---
+title: "The Evolution of Tool Use in LLM Agents: From… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-22862/
+updated: 2026-11-06
+type: survey
+lang: en
+---
+
 # The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration
 
 Surveys multi-tool LLM agents across planning, training, safety, efficiency, and evaluation, including GUI and mobile systems among its application areas.
@@ -26,6 +34,18 @@ Haoyuan Xu, Chang Li, Xinyan Ma, Xianhao Ou, Zihan Zhang, Tao He, Xiangyu Liu, Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-22862/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-22862/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_22862,
+  title = {{The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration}},
+  author = {{Haoyuan Xu} and {Chang Li} and {Xinyan Ma} and {Xianhao Ou} and {Zihan Zhang} and {Tao He} and {Xiangyu Liu} and {Zixiang Wang} and {Jiafeng Liang} and {Zheng Chu} and {Runxuan Liu} and {Rongchuan Mu} and {Dandan Tu} and {Ming Liu} and {Bing Qin}},
+  year = {2026},
+  eprint = {2603.22862v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.22862v2},
+  note = {First published: 2026-03-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-02T02:54:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

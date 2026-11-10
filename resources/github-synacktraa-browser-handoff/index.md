@@ -1,3 +1,11 @@
+---
+title: "browser-handoff | AwesomeCUA"
+url: https://awesomecua.com/resources/github-synacktraa-browser-handoff/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browser-handoff
 
 Human-in-the-loop handoff utility for browser-use agents that pauses automation for manual user intervention and resumes seamlessly.

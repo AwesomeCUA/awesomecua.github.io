@@ -1,3 +1,11 @@
+---
+title: "DeepSeek Harness Mac Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-18126295767-cell-dsh-mac-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DeepSeek Harness Mac Control
 
 适用于 DeepSeek Harness 的 macOS 控制插件，支持检查浏览器标签页、切换应用和执行桌面 GUI 动作。

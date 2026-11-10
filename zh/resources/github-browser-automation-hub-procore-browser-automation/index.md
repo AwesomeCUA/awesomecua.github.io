@@ -1,3 +1,11 @@
+---
+title: "Procore Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-procore-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Procore Browser Automation
 
 面向 Procore 的浏览器自动化脚手架，提供施工信息请求、报审跟踪、每日日志和项目报告导出操作。

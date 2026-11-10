@@ -1,3 +1,11 @@
+---
+title: "siropkin chrome-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-siropkin-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # siropkin chrome-bridge
 
 Browser automation bridge allowing AI agents to operate the user's real, logged-in Chrome browser.

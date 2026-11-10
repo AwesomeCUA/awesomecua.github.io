@@ -1,3 +1,11 @@
+---
+title: "Ziweixing (紫微星) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaozhe7772222-ziweixing/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Ziweixing (紫微星)
 
 Intent-first Android phone automation agent with human-like touch trajectories and screen perception.

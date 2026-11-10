@@ -1,3 +1,11 @@
+---
+title: "dsh-vision-kit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maopk-dsh-vision-kit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-vision-kit
 
 dsh-vision-kit 为 DeepSeek Harness 提供常驻的 Windows PC Actor，结合 UI Automation 结构、SendInput 动作执行和视觉定位。

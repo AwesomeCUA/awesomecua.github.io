@@ -1,3 +1,11 @@
+---
+title: "MaaOWM · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sunyink-maaowm/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaOWM
 
 一个面向含多个适配包的 MaaFramework 项目的 Python 工作区管理器：挂载时把 base 与 mod 流水线合并为可编辑工作区，卸载时将其差分还原为最小 mod。

@@ -1,3 +1,11 @@
+---
+title: "Gym-Anything | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cmu-l3-gym-anything/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # Gym-Anything
 
 Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 11, Android and macOS into screen-observing, mouse-and-keyboard agent environments with setup scripts and program verifiers.

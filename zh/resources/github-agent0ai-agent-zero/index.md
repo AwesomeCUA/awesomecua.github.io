@@ -1,3 +1,11 @@
+---
+title: "Agent Zero · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agent0ai-agent-zero/
+updated: 2026-11-06
+type: agent
+lang: zh-CN
+---
+
 # Agent Zero
 
 开源智能体，拥有独立的沙箱化 Linux 工作空间，可使用终端、浏览器和桌面应用进行研究、编写代码及处理文档。

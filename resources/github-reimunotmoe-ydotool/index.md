@@ -1,3 +1,11 @@
+---
+title: "ydotool | AwesomeCUA"
+url: https://awesomecua.com/resources/github-reimunotmoe-ydotool/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ydotool
 
 ydotool is a Linux command-line utility for sending mouse and keyboard input. It provides commands to click, move the pointer, type text and press keys.

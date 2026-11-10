@@ -1,3 +1,11 @@
+---
+title: "ElectroMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-therealseandonahoe-electromcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ElectroMCP
 
 将 Claude 和兼容 MCP 的智能体连接到 Electron 桌面应用，用于 UI 点击、截图捕获、IPC 检查和 HAR 录制。

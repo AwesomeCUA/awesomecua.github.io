@@ -1,3 +1,11 @@
+---
+title: "AndroTMem: From Interaction Trajectories… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-18429/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents
 
 AndroTMem-Bench 收录后续动作依赖早期 UI 状态的 Android 任务。Anchored State Memory 保留具有因果关联的中间状态，供按子目标检索，并与完整历史记忆和摘要式记忆比较。
@@ -27,6 +35,18 @@ Yibo Shi, Jungang Li, Linghao Zhang, Zihao Dongfang, Biao Wu, Sicheng Tao, Yibo 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-18429/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-18429/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_18429,
+  title = {{AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents}},
+  author = {{Yibo Shi} and {Jungang Li} and {Linghao Zhang} and {Zihao Dongfang} and {Biao Wu} and {Sicheng Tao} and {Yibo Yan} and {Chenxi Qin} and {Weiting Liu} and {Zhixin Lin} and {Hanqian Li} and {Yu Huang} and {Song Dai} and {Yonghua Hei} and {Yue Ding} and {Xiang Li} and {Shikang Wang} and {Chengdong Xu} and {Jingqi Liu} and {Xueying Ma} and {Zhiwen Zheng} and {Xiaofei Zhang} and {Bincheng Wang} and {Nichen Yang} and {Jie Wu} and {Lihua Tian} and {Chen Li} and {Xuming Hu}},
+  year = {2026},
+  eprint = {2603.18429v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.18429v1},
+  note = {First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T02:45:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

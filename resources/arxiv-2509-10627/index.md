@@ -1,3 +1,11 @@
+---
+title: "ReCross: Efficient Embedding Reduction Scheme… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-10627/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ReCross: Efficient Embedding Reduction Scheme for In-Memory Computing using ReRAM-Based Crossbar
 
 Status: excluded from the active CUA catalog after scope review.

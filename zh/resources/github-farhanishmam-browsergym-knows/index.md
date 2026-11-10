@@ -1,3 +1,11 @@
+---
+title: "BrowserGym-Knows · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-farhanishmam-browsergym-knows/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # BrowserGym-Knows
 
 一个用于评估智能体的 BrowserGym 分支，让智能体在 Chromium 中完成 Google Workspace 任务，并通过 Workspace API 评定结果。

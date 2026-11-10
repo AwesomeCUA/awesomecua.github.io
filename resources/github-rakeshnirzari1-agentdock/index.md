@@ -1,3 +1,11 @@
+---
+title: "AgentDock | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rakeshnirzari1-agentdock/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AgentDock
 
 Zero-dependency Chrome DevTools Protocol runtime for AI agents to drive headless or headful Chromium directly.

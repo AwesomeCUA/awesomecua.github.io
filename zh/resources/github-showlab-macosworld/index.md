@@ -1,3 +1,11 @@
+---
+title: "macOSWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-macosworld/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # macOSWorld
 
 macOSWorld 在 30 款 macOS 应用的任务中，以五种语言评测 GUI 智能体。它提供用于 AWS macOS 实例的 Python 测试框架和安全任务子集。

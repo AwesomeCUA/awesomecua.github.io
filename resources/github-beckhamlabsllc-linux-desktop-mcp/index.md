@@ -1,3 +1,11 @@
+---
+title: "Linux Desktop MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-beckhamlabsllc-linux-desktop-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Linux Desktop MCP Server
 
 An MCP server for Linux desktop control that exposes accessibility elements as references. Agents can find elements and send clicks, text, and keyboard input.

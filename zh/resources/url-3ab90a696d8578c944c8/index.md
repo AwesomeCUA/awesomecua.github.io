@@ -1,3 +1,11 @@
+---
+title: "a3-qwen-3.5-9b-trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3ab90a696d8578c944c8/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # a3-qwen-3.5-9b-trajectories
 
 A3-Qwen3.5-9B 网页智能体在 BrowserGym 基准上的 AgentLab 运行日志，按任务以逐步 JSON 文件保存目标、页面 URL、DOM 与无障碍树观测以及动作；该地址指向其中的 WebArena 文件夹。

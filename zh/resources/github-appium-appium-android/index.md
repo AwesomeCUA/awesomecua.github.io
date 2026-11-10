@@ -1,3 +1,11 @@
+---
+title: "appium-android · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium-android/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # appium-android
 
 一个汇集 Appium 安卓设备和界面自动化组件的代码仓库，包含安卓驱动、ADB 封装，以及执行 UiAutomator2 命令的设备端服务器。

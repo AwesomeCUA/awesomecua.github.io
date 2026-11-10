@@ -1,3 +1,11 @@
+---
+title: "PANOPTES Screen MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yxpil-panoptes/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # PANOPTES Screen MCP Server
 
 采用可流式传输 HTTP 的 Model Context Protocol 服务器，向 AI 智能体提供 9 项屏幕采集及鼠标、键盘控制工具。

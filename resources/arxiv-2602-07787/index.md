@@ -1,3 +1,11 @@
+---
+title: "Do Multi-Agents Dream of Electric Screens?… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-07787/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Do Multi-Agents Dream of Electric Screens? Achieving Perfect Accuracy on AndroidWorld Through Task Decomposition
 
 Minitap coordinates six specialized agents for AndroidWorld tasks, checking text input against device state and detecting action loops to revise its strategy.
@@ -26,6 +34,18 @@ Pierre-Louis Favreau, Jean-Pierre Lo, Clement Guiguet, Charles Simon-Meunier, Ni
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-07787/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-07787/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_07787,
+  title = {{Do Multi-Agents Dream of Electric Screens? Achieving Perfect Accuracy on AndroidWorld Through Task Decomposition}},
+  author = {{Pierre-Louis Favreau} and {Jean-Pierre Lo} and {Clement Guiguet} and {Charles Simon-Meunier} and {Nicolas Dehandschoewercker} and {Allen G. Roush} and {Judah Goldfeder} and {Ravid Shwartz-Ziv}},
+  year = {2026},
+  eprint = {2602.07787v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.07787v1},
+  note = {First published: 2026-02-08; Recorded arXiv version: v1; Recorded version updated: 2026-02-08T03:02:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

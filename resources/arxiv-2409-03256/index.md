@@ -1,3 +1,11 @@
+---
+title: "E2CL: Exploration-based Error Correction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-03256/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # E2CL: Exploration-based Error Correction Learning for Embodied Agents
 
 Bibliographic record for E2CL: Exploration-based Error Correction Learning for Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hanlin Wang, Chak Tou Leong, Jian Wang, Wenjie Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-03256/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-03256/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_03256,
+  title = {{E2CL: Exploration-based Error Correction Learning for Embodied Agents}},
+  author = {{Hanlin Wang} and {Chak Tou Leong} and {Jian Wang} and {Wenjie Li}},
+  year = {2024},
+  eprint = {2409.03256v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.03256v2},
+  note = {First published: 2024-09-05; Recorded arXiv version: v2; Recorded version updated: 2024-09-29T06:00:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

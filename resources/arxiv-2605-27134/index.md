@@ -1,3 +1,11 @@
+---
+title: "Scaling, Benchmarking, and Reasoning of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-27134/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation
 
 HyperTrack provides mobile GUI navigation tasks across Chinese apps, while GUIEvalKit benchmarks VLM agents offline and supports analysis of training scale and history.
@@ -26,6 +34,18 @@ Heng Qu, Yike Liu, Renren Jin, Wenzong Zhang, Pengzhi Gao, Wei Liu, Jian Luan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-27134/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-27134/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_27134,
+  title = {{Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation}},
+  author = {{Heng Qu} and {Yike Liu} and {Renren Jin} and {Wenzong Zhang} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan}},
+  year = {2026},
+  eprint = {2605.27134v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.27134v1},
+  note = {First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T15:03:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

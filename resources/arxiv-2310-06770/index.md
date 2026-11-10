@@ -1,3 +1,11 @@
+---
+title: "SWE-bench: Can Language Models Resolve… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-06770/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SWE-bench: Can Language Models Resolve Real-World GitHub Issues?
 
 Status: excluded from the active CUA catalog after scope review.

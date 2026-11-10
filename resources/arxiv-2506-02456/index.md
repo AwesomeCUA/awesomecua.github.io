@@ -1,3 +1,11 @@
+---
+title: "VPI-Bench: Visual Prompt Injection Attacks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-02456/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents
 
 Introduces VPI-Bench, interactive web-platform variants containing visually embedded malicious instructions. It evaluates computer-use and browser-use agents under these threats and examines system-prompt defenses.
@@ -26,6 +34,18 @@ Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, Shumin Deng, Lin Lu, Nay Oo,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-02456/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-02456/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_02456,
+  title = {{VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents}},
+  author = {{Tri Cao} and {Bennett Lim} and {Yue Liu} and {Yuan Sui} and {Yuexin Li} and {Shumin Deng} and {Lin Lu} and {Nay Oo} and {Shuicheng Yan} and {Bryan Hooi}},
+  year = {2025},
+  eprint = {2506.02456v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.02456v2},
+  note = {First published: 2025-06-03; Recorded arXiv version: v2; Recorded version updated: 2026-03-01T16:12:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AppWorld: A Controllable World of Apps and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-18901/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents
 
 Introduces simulated application APIs and state-based task evaluation for interactive coding agents performing everyday digital workflows.
@@ -26,6 +34,18 @@ Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong, Edward L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-18901/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-18901/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_18901,
+  title = {{AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents}},
+  author = {{Harsh Trivedi} and {Tushar Khot} and {Mareike Hartmann} and {Ruskin Manku} and {Vinty Dong} and {Edward Li} and {Shashank Gupta} and {Ashish Sabharwal} and {Niranjan Balasubramanian}},
+  year = {2024},
+  eprint = {2407.18901v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.18901v1},
+  note = {First published: 2024-07-26; Recorded arXiv version: v1; Recorded version updated: 2024-07-26T17:55:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

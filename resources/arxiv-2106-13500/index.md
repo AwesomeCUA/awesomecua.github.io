@@ -1,3 +1,11 @@
+---
+title: "TableSense: Spreadsheet Table Detection with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2106-13500/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # TableSense: Spreadsheet Table Detection with Convolutional Neural Networks
 
 Bibliographic record for TableSense: Spreadsheet Table Detection with Convolutional Neural Networks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haoyu Dong, Shijie Liu, Shi Han, Zhouyu Fu, Dongmei Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2106-13500/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2106-13500/citation.csl.json
+
+```bibtex
+@misc{arxiv_2106_13500,
+  title = {{TableSense: Spreadsheet Table Detection with Convolutional Neural Networks}},
+  author = {{Haoyu Dong} and {Shijie Liu} and {Shi Han} and {Zhouyu Fu} and {Dongmei Zhang}},
+  year = {2021},
+  eprint = {2106.13500v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2106.13500v1},
+  note = {First published: 2021-06-25; Recorded arXiv version: v1; Recorded version updated: 2021-06-25T08:41:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

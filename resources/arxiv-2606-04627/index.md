@@ -1,3 +1,11 @@
+---
+title: "MIRAGE: Mobile Agents with Implicit Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-04627/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models
 
 Introduces MIRAGE, which trains mobile app agents to reason in compact latent states and anticipate future screenshots, reducing generated tokens during action selection.
@@ -26,6 +34,18 @@ Zhichao Yang, Yuanze Hu, Haojie Hao, Longkun Hao, Dongshuo Huang, Hongyu Lin, Ge
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-04627/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-04627/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_04627,
+  title = {{MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models}},
+  author = {{Zhichao Yang} and {Yuanze Hu} and {Haojie Hao} and {Longkun Hao} and {Dongshuo Huang} and {Hongyu Lin} and {Gen Li} and {Lanqing Hong} and {Yihang Lou} and {Yan Bai}},
+  year = {2026},
+  eprint = {2606.04627v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.04627v2},
+  note = {First published: 2026-06-03; Recorded arXiv version: v2; Recorded version updated: 2026-06-06T08:34:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

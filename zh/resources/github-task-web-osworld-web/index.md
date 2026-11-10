@@ -1,3 +1,11 @@
+---
+title: "OSWorld Web · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-task-web-osworld-web/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # OSWorld Web
 
 一套以 Docker Compose 编排的自托管 Web 应用，涵盖银行、邮件、CRM、日历、Overleaf 和 AWS 控制台等，经 Caddy 反向代理提供服务，作为 OSWorld-V2 任务所用的网站。

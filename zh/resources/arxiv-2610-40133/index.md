@@ -1,3 +1,11 @@
+---
+title: "DynaRev: Benchmarking Web Agents under… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-40133/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # DynaRev: Benchmarking Web Agents under Dynamic Goal Revision
 
 提出 DynaRev，包含 181 项执行中会改变目标的网页智能体任务，并按轨迹评估正确性、响应性和效率。
@@ -27,6 +35,18 @@ Shiqi Zhang, Guochen Zhou, Zesheng Wei, Hai Zhao, Zhisong Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-40133/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-40133/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40133,
+  title = {{DynaRev: Benchmarking Web Agents under Dynamic Goal Revision}},
+  author = {{Shiqi Zhang} and {Guochen Zhou} and {Zesheng Wei} and {Hai Zhao} and {Zhisong Zhang}},
+  year = {2026},
+  eprint = {2610.40133v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40133v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T14:25:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

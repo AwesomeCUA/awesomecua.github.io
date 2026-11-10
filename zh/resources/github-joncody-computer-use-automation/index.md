@@ -1,3 +1,11 @@
+---
+title: "Deterministic Computer-Use Automation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-joncody-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Deterministic Computer-Use Automation
 
 两阶段计算机使用自动化框架，将 LLM 驱动的 UI 探索编译为确定性的回放脚本。

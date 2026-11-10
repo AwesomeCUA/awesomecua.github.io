@@ -1,3 +1,11 @@
+---
+title: "zseven-w DSH Computer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zseven-w-dsh-computer/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # zseven-w DSH Computer
 
 适用于 DeepSeek Harness 的后台 macOS 桌面自动化插件，可在不抢占焦点的情况下观察和控制应用。

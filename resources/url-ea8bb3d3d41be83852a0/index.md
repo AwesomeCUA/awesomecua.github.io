@@ -1,3 +1,11 @@
+---
+title: "browserground-mlx | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ea8bb3d3d41be83852a0/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # browserground-mlx
 
 browserground-mlx is a 4-bit MLX conversion of a browser grounding model for Apple Silicon. It accepts a screenshot and a target description to locate an interface element.

@@ -1,3 +1,11 @@
+---
+title: "SEAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sunzey-seagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SEAgent
 
 SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.

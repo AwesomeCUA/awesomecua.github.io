@@ -1,3 +1,11 @@
+---
+title: "SPIDES: Information-Flow Control for Browser… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-24277/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # SPIDES: Information-Flow Control for Browser Agents
 
 SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem.
@@ -26,6 +34,18 @@ Egor Zverev, Juhee Kim, Leon Trampert, Boris Köpf, Aashish Kolluri, Shruti Topl
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-24277/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-24277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_24277,
+  title = {{SPIDES: Information-Flow Control for Browser Agents}},
+  author = {{Egor Zverev} and {Juhee Kim} and {Leon Trampert} and {Boris Köpf} and {Aashish Kolluri} and {Shruti Tople} and {Santiago Zanella-Béguelin}},
+  year = {2026},
+  eprint = {2610.24277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.24277v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T22:12:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

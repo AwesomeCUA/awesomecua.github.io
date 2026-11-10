@@ -1,3 +1,11 @@
+---
+title: "Who Pays the Price? Stakeholder-Centric… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-13385/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents
 
 StakeBench 评估购物网页智能体工作流中提示注入对不同利益相关方的危害。其可执行案例区分攻击目标，同时评估结果与执行过程，揭示同一种攻击模式如何影响不同各方。
@@ -27,6 +35,18 @@ Zihao Wang, Yiming Li, Yutong Wu, Kangjie Chen, Zheyu Liu, Fok Kar Wai, Pin-Yu C
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-13385/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-13385/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_13385,
+  title = {{Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents}},
+  author = {{Zihao Wang} and {Yiming Li} and {Yutong Wu} and {Kangjie Chen} and {Zheyu Liu} and {Fok Kar Wai} and {Pin-Yu Chen} and {Vrizlynn L. L. Thing} and {Bo Li} and {Dacheng Tao} and {Tianwei Zhang}},
+  year = {2026},
+  eprint = {2606.13385v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.13385v2},
+  note = {First published: 2026-06-11; Recorded arXiv version: v2; Recorded version updated: 2026-07-27T14:19:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

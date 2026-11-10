@@ -1,3 +1,11 @@
+---
+title: "Local Grounding MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-archie-ib-dev-local-grounding-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Local Grounding MCP
 
 Local Grounding MCP provides privacy-first local visual grounding fallback and DOM-visual hybrid routing for MCP browser agents on Apple Silicon.

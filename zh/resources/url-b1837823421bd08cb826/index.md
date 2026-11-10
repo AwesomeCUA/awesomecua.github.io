@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 4B AC · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b1837823421bd08cb826/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 4B AC
 
 InternVL2-4B 检查点基于 OS-Genesis AndroidControl 轨迹微调；模型卡提示将截图和无障碍树与目标、操作历史结合，生成下一步思考与操作。

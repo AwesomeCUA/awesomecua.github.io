@@ -1,3 +1,11 @@
+---
+title: "UI-Simulator_android_data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d32dfe60eff4b87c1d05/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # UI-Simulator_android_data
 
 来自 UI-Simulator 的合成 Android 智能体训练数据：每条提示把目标与模拟的 UI 元素列表配对，并给出下一步动作回复，分为无 RAG、基于 RAG 和两个 UI-Simulator-Grow 划分。

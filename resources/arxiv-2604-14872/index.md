@@ -1,3 +1,11 @@
+---
+title: "SkillDroid: Compile Once, Reuse Forever | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-14872/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SkillDroid: Compile Once, Reuse Forever
 
 Introduces SkillDroid, which compiles successful mobile GUI trajectories into reusable action templates and replays them without model calls, recompiling when they degrade.
@@ -26,6 +34,18 @@ Qijia Chen, Andrea Bellucci, Zhida Sun, Giulio Jacucci
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-14872/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-14872/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_14872,
+  title = {{SkillDroid: Compile Once, Reuse Forever}},
+  author = {{Qijia Chen} and {Andrea Bellucci} and {Zhida Sun} and {Giulio Jacucci}},
+  year = {2026},
+  eprint = {2604.14872v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.14872v1},
+  note = {First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T11:02:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

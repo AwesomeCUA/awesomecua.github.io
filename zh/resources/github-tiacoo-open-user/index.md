@@ -1,3 +1,11 @@
+---
+title: "Open User · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tiacoo-open-user/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Open User
 
 黑盒用户体验审查测试框架，派遣 AI 浏览器用户角色测试网页产品并记录障碍点。

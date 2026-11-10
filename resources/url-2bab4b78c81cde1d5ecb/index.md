@@ -1,3 +1,11 @@
+---
+title: "Fanbin/waa_steve_trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2bab4b78c81cde1d5ecb/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Fanbin/waa_steve_trajectories
 
 A dataset of STEVE-R1 evaluation trajectories on WindowsAgentArena, pairing task screenshots and agent responses with action traces and outcome labels.

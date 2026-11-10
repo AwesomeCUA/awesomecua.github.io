@@ -1,3 +1,11 @@
+---
+title: "NekoPilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-skyaerope-nekopilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # NekoPilot
 
 NekoPilot 是支持 Manifest V3 的 Chrome 和 Edge 侧边栏浏览器智能体，支持 Chrome DevTools Protocol 控制和多个 LLM。

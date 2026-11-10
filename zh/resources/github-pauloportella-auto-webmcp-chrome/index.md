@@ -1,3 +1,11 @@
+---
+title: "Auto WebMCP Chrome · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pauloportella-auto-webmcp-chrome/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Auto WebMCP Chrome
 
 Chrome 扩展，可自动将标准 HTML 网页表单转换为供浏览器智能体使用的结构化 WebMCP 工具。

@@ -1,3 +1,11 @@
+---
+title: "Synthetic Computers at Scale for Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-28181/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Synthetic Computers at Scale for Long-Horizon Productivity Simulation
 
 Bibliographic record for Synthetic Computers at Scale for Long-Horizon Productivity Simulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tao Ge, Baolin Peng, Hao Cheng, Jianfeng Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-28181/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-28181/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_28181,
+  title = {{Synthetic Computers at Scale for Long-Horizon Productivity Simulation}},
+  author = {{Tao Ge} and {Baolin Peng} and {Hao Cheng} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2604.28181v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.28181v1},
+  note = {First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T17:58:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

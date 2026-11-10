@@ -1,3 +1,11 @@
+---
+title: "H.AI cookbook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hcompai-hai-cookbook/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # H.AI cookbook
 
 The H.AI cookbook provides notebooks and guides for deploying Holo models and invoking their web navigation and interface localization capabilities.

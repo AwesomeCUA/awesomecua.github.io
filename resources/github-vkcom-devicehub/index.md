@@ -1,3 +1,11 @@
+---
+title: "VK DeviceHub | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vkcom-devicehub/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # VK DeviceHub
 
 A device-management system for viewing and controlling Android and iOS devices through a browser. It provides remote input, device inventory and a REST API.

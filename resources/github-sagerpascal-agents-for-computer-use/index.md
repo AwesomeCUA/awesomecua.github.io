@@ -1,3 +1,11 @@
+---
+title: "AI Agents for Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sagerpascal-agents-for-computer-use/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # AI Agents for Computer Use
 
 A browsable list of agents for desktop and mobile GUI control, with agent and dataset overviews linked from a companion survey repository.

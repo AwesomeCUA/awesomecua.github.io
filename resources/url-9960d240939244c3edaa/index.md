@@ -1,3 +1,11 @@
+---
+title: "asil-qwen35-9b-sft | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9960d240939244c3edaa/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # asil-qwen35-9b-sft
 
 An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.

@@ -1,3 +1,11 @@
+---
+title: "SmartPlay: A Benchmark for LLMs as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-01557/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SmartPlay: A Benchmark for LLMs as Intelligent Agents
 
 Status: excluded from the active CUA catalog after scope review.

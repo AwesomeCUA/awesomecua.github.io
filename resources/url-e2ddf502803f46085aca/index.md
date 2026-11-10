@@ -1,3 +1,11 @@
+---
+title: "UI-Voyager (model) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e2ddf502803f46085aca/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # UI-Voyager
 
 A released mobile GUI agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct to operate device interfaces, with AndroidWorld evaluation instructions.

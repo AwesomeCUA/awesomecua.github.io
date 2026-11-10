@@ -1,3 +1,11 @@
+---
+title: "PerceptUI: LLM Agents as Human-Aligned… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-05697/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation
 
 提出 PerceptUI，按用户画像预测特定用户对界面问题的回答，用于合成参与者式 UI/UX 评估。
@@ -27,6 +35,18 @@ Nicolas Bougie, Xiaotong Ye, Gian Maria Marconi, Narimasa Watanabe
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-05697/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-05697/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05697,
+  title = {{PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation}},
+  author = {{Nicolas Bougie} and {Xiaotong Ye} and {Gian Maria Marconi} and {Narimasa Watanabe}},
+  year = {2026},
+  eprint = {2606.05697v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05697v1},
+  note = {First published: 2026-06-04; Recorded arXiv version: v1; Recorded version updated: 2026-06-04T04:35:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

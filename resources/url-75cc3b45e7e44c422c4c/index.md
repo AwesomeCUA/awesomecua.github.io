@@ -1,3 +1,11 @@
+---
+title: "ConClick-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-75cc3b45e7e44c422c4c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ConClick-8B
 
 A GUI grounding checkpoint trained to distinguish target elements from distractors using coordinate and ranking supervision, released as an adapter and supporting weights.

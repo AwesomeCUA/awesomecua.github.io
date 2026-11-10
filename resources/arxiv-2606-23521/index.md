@@ -1,3 +1,11 @@
+---
+title: "Concordia: JIT-Compiled Persistent-Kernel… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-23521/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference
 
 Status: excluded from the active CUA catalog after scope review.

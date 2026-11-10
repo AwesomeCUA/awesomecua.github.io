@@ -1,3 +1,11 @@
+---
+title: "AgentTrek: Agent Trajectory Synthesis via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-09605/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials
 
 Converts public tutorials into task specifications and executes them with an agent to synthesize multimodal interaction trajectories.
@@ -26,6 +34,18 @@ Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, Zekun Wang, Yuchen Mao, Caiming 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-09605/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-09605/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_09605,
+  title = {{AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials}},
+  author = {{Yiheng Xu} and {Dunjie Lu} and {Zhennan Shen} and {Junli Wang} and {Zekun Wang} and {Yuchen Mao} and {Caiming Xiong} and {Tao Yu}},
+  year = {2024},
+  eprint = {2412.09605v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.09605v2},
+  note = {First published: 2024-12-12; Recorded arXiv version: v2; Recorded version updated: 2025-03-03T18:59:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

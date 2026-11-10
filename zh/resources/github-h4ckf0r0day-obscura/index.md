@@ -1,3 +1,11 @@
+---
+title: "Obscura · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-h4ckf0r0day-obscura/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Obscura
 
 Obscura 是面向智能体自动化的 Rust 无头浏览器，可运行 JavaScript、提供 Chrome DevTools Protocol 接口，并支持截图和浏览器自动化工具。

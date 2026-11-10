@@ -1,3 +1,11 @@
+---
+title: "Computer Control MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ab498-computer-control-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Computer Control MCP
 
 Computer Control MCP 是零依赖的 Model Context Protocol 服务器，通过 PyAutoGUI 提供鼠标、键盘、窗口和 RapidOCR 屏幕控制功能。

@@ -1,3 +1,11 @@
+---
+title: "Agentalyze · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ilyat9-agentalyze/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Agentalyze
 
 Agentalyze 是面向 LLM 浏览器智能体的评测测试框架，提供真实 Chromium 任务、基于 DOM 的状态验证器和步骤级轨迹分析。

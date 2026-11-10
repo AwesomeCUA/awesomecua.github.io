@@ -1,3 +1,11 @@
+---
+title: "SPA-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-agents-2030-spa-bench/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # SPA-Bench
 
 340 single-app and cross-app tasks over 66 Chinese and English Android apps, with plug-in support for 11 smartphone agents and automatic coarse-to-fine success detection.

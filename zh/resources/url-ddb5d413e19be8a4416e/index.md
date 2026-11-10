@@ -1,3 +1,11 @@
+---
+title: "Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ddb5d413e19be8a4416e/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16
 
 Nemotron 3 Nano Omni 是已发布的多模态模型，可理解图像、视频、音频和文本。其模型卡将 GUI 能力和面向浏览器智能体的自动化列为用途。

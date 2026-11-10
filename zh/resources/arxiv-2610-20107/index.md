@@ -1,3 +1,11 @@
+---
+title: "Why Generate a Click? Plug-in Decision… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-20107/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Why Generate a Click? Plug-in Decision Heads for Web Agents
 
 为冻结的视觉语言生成模型添加决策头，以选择网页操作及其目标；置信度门控在必要时回退到文本生成。
@@ -27,6 +35,18 @@ Chengguang Gan, Yunhao Liang, Hanjun Wei, Qinghao Zhang, Zhixi Cai, Shiwen Ni
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-20107/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-20107/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20107,
+  title = {{Why Generate a Click? Plug-in Decision Heads for Web Agents}},
+  author = {{Chengguang Gan} and {Yunhao Liang} and {Hanjun Wei} and {Qinghao Zhang} and {Zhixi Cai} and {Shiwen Ni}},
+  year = {2026},
+  eprint = {2610.20107v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20107v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T12:39:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

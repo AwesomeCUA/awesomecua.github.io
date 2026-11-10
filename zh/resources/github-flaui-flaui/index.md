@@ -1,3 +1,11 @@
+---
+title: "FlaUI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-flaui-flaui/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # FlaUI
 
 FlaUI 是一个 .NET 库，通过 Microsoft UI Automation 定位和操作 Windows 应用控件，支持自动化界面测试与交互。

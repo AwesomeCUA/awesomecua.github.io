@@ -1,3 +1,11 @@
+---
+title: "screenshotting-gui | AwesomeCUA"
+url: https://awesomecua.com/resources/github-evilfreelancer-screenshotting-gui/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # screenshotting-gui
 
 Agent skill for Claude Code, Codex, and Cursor that captures repeatable, window-scoped screenshots of native desktop and browser GUI apps.

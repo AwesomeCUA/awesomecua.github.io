@@ -1,3 +1,11 @@
+---
+title: "Chain-of-Agents: End-to-End Agent Foundation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-13167/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL
 
 Bibliographic record for Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Weizhen Li, Jianbo Lin, Zhuosong Jiang, Jingyi Cao, Xinpeng Liu, Jiayu Zhang, Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-13167/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-13167/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_13167,
+  title = {{Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL}},
+  author = {{Weizhen Li} and {Jianbo Lin} and {Zhuosong Jiang} and {Jingyi Cao} and {Xinpeng Liu} and {Jiayu Zhang} and {Zhenqiang Huang} and {Qianben Chen} and {Weichen Sun} and {Qiexiang Wang} and {Hongxuan Lu} and {Tianrui Qin} and {Chenghao Zhu} and {Yi Yao} and {Shuying Fan} and {Xiaowan Li} and {Tiannan Wang} and {Pai Liu} and {King Zhu} and {He Zhu} and {Dingfeng Shi} and {Piaohong Wang} and {Yeyi Guan} and {Xiangru Tang} and {Minghao Liu} and {Yuchen Eleanor Jiang} and {Jian Yang} and {Jiaheng Liu} and {Ge Zhang} and {Wangchunshu Zhou}},
+  year = {2025},
+  eprint = {2508.13167v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.13167v1},
+  note = {First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T17:01:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

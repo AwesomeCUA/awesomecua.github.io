@@ -1,3 +1,11 @@
+---
+title: "WebWalker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alibaba-nlp-webwalker/
+updated: 2026-11-02
+type: benchmark
+lang: en
+---
+
 # WebWalker
 
 Benchmark and multi-agent framework for evaluating large language models on multi-step web traversal and deep information-seeking tasks.

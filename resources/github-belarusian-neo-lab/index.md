@@ -1,3 +1,11 @@
+---
+title: "Neo Lab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-belarusian-neo-lab/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Neo Lab
 
 Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying skills, and testing GUI automation plans.

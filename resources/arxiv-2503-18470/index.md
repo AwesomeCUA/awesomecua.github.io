@@ -1,3 +1,11 @@
+---
+title: "MetaSpatial: Reinforcing 3D Spatial Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-18470/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse
 
 Bibliographic record for MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhenyu Pan, Han Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-18470/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-18470/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_18470,
+  title = {{MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse}},
+  author = {{Zhenyu Pan} and {Han Liu}},
+  year = {2025},
+  eprint = {2503.18470v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.18470v2},
+  note = {First published: 2025-03-24; Recorded arXiv version: v2; Recorded version updated: 2025-10-04T07:11:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

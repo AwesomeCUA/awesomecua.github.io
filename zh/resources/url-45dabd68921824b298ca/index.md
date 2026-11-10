@@ -1,3 +1,11 @@
+---
+title: "ego(lite) · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-45dabd68921824b298ca/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # ego(lite)
 
 一款基于 Chromium 的浏览器，通过智能体技能让智能体操作已登录的网站，并以独立工作区和页面快照支持导航任务。

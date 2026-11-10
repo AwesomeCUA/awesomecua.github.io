@@ -1,3 +1,11 @@
+---
+title: "WebtestingWithLLMs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-softwaretestingllms-webtestingwithllms/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # WebtestingWithLLMs
 
 A set of Selenium scripts for automated web application testing, including a monkey tester with configurable interaction count and timing.

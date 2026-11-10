@@ -1,3 +1,11 @@
+---
+title: "Third Eye · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-slastrina-third-eye/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Third Eye
 
 本地 macOS 计算机使用智能体，具备屏幕感知和经验证的动作执行能力。

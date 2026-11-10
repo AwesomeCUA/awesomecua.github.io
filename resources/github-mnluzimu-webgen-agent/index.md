@@ -1,3 +1,11 @@
+---
+title: "WebGen-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mnluzimu-webgen-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # WebGen-Agent
 
 WebGen-Agent creates website code from instructions, then refines it using screenshots, visual feedback and tests performed by a GUI agent. The repository includes inference and training code.

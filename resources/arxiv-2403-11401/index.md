@@ -1,3 +1,11 @@
+---
+title: "Scene-LLM: Extending Language Model for 3D… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-11401/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning
 
 Bibliographic record for Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Rao Fu, Jingyu Liu, Xilun Chen, Yixin Nie, Wenhan Xiong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-11401/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-11401/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_11401,
+  title = {{Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning}},
+  author = {{Rao Fu} and {Jingyu Liu} and {Xilun Chen} and {Yixin Nie} and {Wenhan Xiong}},
+  year = {2024},
+  eprint = {2403.11401v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.11401v2},
+  note = {First published: 2024-03-18; Recorded arXiv version: v2; Recorded version updated: 2024-03-22T18:52:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

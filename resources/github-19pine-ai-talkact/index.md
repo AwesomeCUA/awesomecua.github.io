@@ -1,3 +1,11 @@
+---
+title: "TalkAct | AwesomeCUA"
+url: https://awesomecua.com/resources/github-19pine-ai-talkact/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # TalkAct
 
 TalkAct is a dual-model voice and computer-use agent that conducts real-time spoken dialogue while executing background GUI actions.

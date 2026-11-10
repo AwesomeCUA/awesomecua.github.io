@@ -1,3 +1,11 @@
+---
+title: "Executable Code Actions Elicit Better LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-01030/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Executable Code Actions Elicit Better LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

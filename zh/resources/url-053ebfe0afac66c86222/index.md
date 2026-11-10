@@ -1,3 +1,11 @@
+---
+title: "Hyperbrowser · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-053ebfe0afac66c86222/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Hyperbrowser
 
 面向 AI 智能体的浏览器基础设施和自动化服务。

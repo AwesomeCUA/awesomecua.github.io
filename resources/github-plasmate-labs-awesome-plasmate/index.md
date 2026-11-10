@@ -1,3 +1,11 @@
+---
+title: "Awesome Plasmate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Awesome Plasmate
 
 Awesome Plasmate is a curated list of documentation, integrations and tools around a browser engine for AI agents, including agent-framework and automation resources.

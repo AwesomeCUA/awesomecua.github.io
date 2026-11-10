@@ -1,3 +1,11 @@
+---
+title: "Holo4 27B FP8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-354c5b46fd423f9b1b85/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo4 27B FP8
 
 Holo4-27B 计算机使用模型的 FP8 分块量化版本；外部运行框架向其发送截图和工具结果，并执行其请求的点击、输入、代码及工具调用。

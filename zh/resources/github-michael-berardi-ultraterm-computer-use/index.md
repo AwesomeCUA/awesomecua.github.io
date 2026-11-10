@@ -1,3 +1,11 @@
+---
+title: "UltraTerm Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-michael-berardi-ultraterm-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UltraTerm Computer Use
 
 面向 macOS、Linux 和 Windows 上支持 MCP 的智能体的本地桌面自动化插件。

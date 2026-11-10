@@ -1,3 +1,11 @@
+---
+title: "MONDAY annotations · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-570654ff67ecefa2b955/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # MONDAY annotations
 
 从视频提取的移动端导航标注，将场景边界、屏幕或元素框与操作标签配对，用于训练和评估 GUI 智能体。

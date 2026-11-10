@@ -1,3 +1,11 @@
+---
+title: "maafw-cli · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-otowa-kotori-maafw-cli/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # maafw-cli
 
 MaaFramework 的命令行界面，让人、脚本和编程智能体连接 ADB 或 Win32 目标，执行 OCR 与模板匹配，并按引用点击识别出的元素。

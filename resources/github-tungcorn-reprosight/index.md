@@ -1,3 +1,11 @@
+---
+title: "ReproSight | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tungcorn-reprosight/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ReproSight
 
 ReproSight is a CLI that lets coding agents reproduce visual defects in a browser, collect evidence, isolate edits in a worktree, and run regression checks.

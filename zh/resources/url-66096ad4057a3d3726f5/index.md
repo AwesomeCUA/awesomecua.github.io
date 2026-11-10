@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-66096ad4057a3d3726f5/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Actor data
 
 已发布的用于训练 GUI-Actor 视觉定位模型的已处理截图和边界框数据集。

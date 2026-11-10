@@ -1,3 +1,11 @@
+---
+title: "browser-action-receipt · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scalar-atelier-browser-action-receipt/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # browser-action-receipt
 
 验证协议，将人工批准与目标 DOM 状态绑定；若页面发生变化，则中止点击并生成回执。

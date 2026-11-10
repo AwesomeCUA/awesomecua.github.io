@@ -1,3 +1,11 @@
+---
+title: "mcp-serial-hid-kvm | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # mcp-serial-hid-kvm
 
 An MCP server gives agents screen capture, OCR, keyboard and mouse tools for controlling a physical PC through a separate serial HID KVM service.

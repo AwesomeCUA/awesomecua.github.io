@@ -1,3 +1,11 @@
+---
+title: "Jev Filter | AwesomeCUA"
+url: https://awesomecua.com/resources/github-apixly-ai-jev-filter/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Jev Filter
 
 Jev Filter uses compact System-One models to semantically prune large DOM snapshots, logs, and tool outputs before they enter agent context.

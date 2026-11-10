@@ -1,3 +1,11 @@
+---
+title: "Automating the Enterprise with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2405-03710/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Automating the Enterprise with Foundation Models
 
 ECLAIR 使用多模态基础模型，根据自然语言描述自动执行企业工作流，并初步研究工作流理解与完成情况。
@@ -27,6 +35,18 @@ Michael Wornow, Avanika Narayan, Krista Opsahl-Ong, Quinn McIntyre, Nigam H. Sha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2405-03710/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2405-03710/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_03710,
+  title = {{Automating the Enterprise with Foundation Models}},
+  author = {{Michael Wornow} and {Avanika Narayan} and {Krista Opsahl-Ong} and {Quinn McIntyre} and {Nigam H. Shah} and {Christopher Re}},
+  year = {2024},
+  eprint = {2405.03710v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.03710v1},
+  note = {First published: 2024-05-03; Recorded arXiv version: v1; Recorded version updated: 2024-05-03T23:25:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

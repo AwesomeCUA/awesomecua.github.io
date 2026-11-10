@@ -1,3 +1,11 @@
+---
+title: "Oculr MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-oculr-ai-oculr-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Oculr MCP
 
 Model Context Protocol server for driving isolated, anti-detect Oculr Chromium profiles over MCP and raw CDP.

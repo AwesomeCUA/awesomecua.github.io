@@ -1,3 +1,11 @@
+---
+title: "NOMOS Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-voltolini-space-nomos-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # NOMOS Browser
 
 Governed AI agent web browser featuring a side-panel assistant, policy guardrails, and human handoff.

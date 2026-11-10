@@ -1,3 +1,11 @@
+---
+title: "SQA3D: Situated Question Answering in 3D Scenes | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-07474/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SQA3D: Situated Question Answering in 3D Scenes
 
 Bibliographic record for SQA3D: Situated Question Answering in 3D Scenes. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, Siy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2210-07474/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2210-07474/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_07474,
+  title = {{SQA3D: Situated Question Answering in 3D Scenes}},
+  author = {{Xiaojian Ma} and {Silong Yong} and {Zilong Zheng} and {Qing Li} and {Yitao Liang} and {Song-Chun Zhu} and {Siyuan Huang}},
+  year = {2022},
+  eprint = {2210.07474v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.07474v5},
+  note = {First published: 2022-10-14; Recorded arXiv version: v5; Recorded version updated: 2023-04-12T20:05:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Don't Miss the Forest for the Trees… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-17820/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models
 
 Bibliographic record for Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sangmin Woo, Donguk Kim, Jaehyuk Jang, Yubin Choi, Changick Kim
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-17820/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-17820/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_17820,
+  title = {{Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models}},
+  author = {{Sangmin Woo} and {Donguk Kim} and {Jaehyuk Jang} and {Yubin Choi} and {Changick Kim}},
+  year = {2024},
+  eprint = {2405.17820v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.17820v2},
+  note = {First published: 2024-05-28; Recorded arXiv version: v2; Recorded version updated: 2025-05-31T02:41:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "REDLINE WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eloiramos-redline/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # REDLINE WebMCP
 
 浏览器原生的 WebMCP 权限边界，访问页面的智能体可暂存可供审查的状态变更，交由人工批准。

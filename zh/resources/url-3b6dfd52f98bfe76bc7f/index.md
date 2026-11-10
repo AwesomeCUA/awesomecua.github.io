@@ -1,3 +1,11 @@
+---
+title: "WebTailBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3b6dfd52f98bfe76bc7f/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # WebTailBench
 
 用于评估计算机使用智能体的实时网页任务定义和评分标准，包含保留的原始任务、更新后的 V2 任务集及独立的拒绝任务集。

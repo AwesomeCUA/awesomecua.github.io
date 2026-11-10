@@ -1,3 +1,11 @@
+---
+title: "OpenAI CUA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-74eeb7c9fb20674fe6e2/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OpenAI CUA
 
 随 Operator 研究预览版推出的计算机使用模型。

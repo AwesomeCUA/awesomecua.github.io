@@ -1,3 +1,11 @@
+---
+title: "SkillShift-Bench: Benchmarking Skill Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33528/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # SkillShift-Bench: Benchmarking Skill Learning under Environment Evolution for Web Agents
 
 Introduces SkillShift-Bench to evaluate how web agents reuse learned skills when task context, visual perception, or execution conditions change across web systems.
@@ -26,6 +34,18 @@ Bo-Yu Chen, Zhi Zhou, Yu-Feng Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-33528/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-33528/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33528,
+  title = {{SkillShift-Bench: Benchmarking Skill Learning under Environment Evolution for Web Agents}},
+  author = {{Bo-Yu Chen} and {Zhi Zhou} and {Yu-Feng Li}},
+  year = {2026},
+  eprint = {2610.33528v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33528v1},
+  note = {First published: 2026-10-24; Recorded arXiv version: v1; Recorded version updated: 2026-10-24T08:09:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

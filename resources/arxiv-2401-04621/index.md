@@ -1,3 +1,11 @@
+---
+title: "DebugBench: Evaluating Debugging Capability… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-04621/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DebugBench: Evaluating Debugging Capability of Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

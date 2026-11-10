@@ -1,3 +1,11 @@
+---
+title: "opencode-gui-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yueqi-wang-795-opencode-gui-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # opencode-gui-bridge
 
 Model Context Protocol 桥接工具，通过 UI Automation 和视觉能力，为 OpenCode 及 MCP 客户端提供真实的 Windows GUI 控制能力。

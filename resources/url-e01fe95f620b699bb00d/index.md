@@ -1,3 +1,11 @@
+---
+title: "GLM-4.6V-Flash | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e01fe95f620b699bb00d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GLM-4.6V-Flash
 
 GLM-4.6V-Flash is a vision-language checkpoint that accepts screenshots in tool calls and can reconstruct and edit web interfaces from UI images.

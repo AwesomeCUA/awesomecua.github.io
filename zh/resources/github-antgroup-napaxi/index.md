@@ -1,3 +1,11 @@
+---
+title: "Napaxi · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-antgroup-napaxi/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Napaxi
 
 Ant Group 开发的移动端原生智能体 SDK，用于构建可在设备上通过沙箱执行技能的 AI 智能体。

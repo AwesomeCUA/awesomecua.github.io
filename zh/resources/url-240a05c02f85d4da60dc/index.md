@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Atlas · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-240a05c02f85d4da60dc/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # ChatGPT Atlas
 
 OpenAI 推出的浏览器产品，集成 ChatGPT 和智能体功能。

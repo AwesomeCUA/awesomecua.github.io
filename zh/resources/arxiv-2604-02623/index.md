@@ -1,3 +1,11 @@
+---
+title: "Poison Once, Exploit Forever… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-02623/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents
 
 研究通过环境观察造成的网页智能体持久记忆污染，并在 WebArena 和 VisualWebArena 上考察跨会话影响及交互失败如何改变智能体的易受攻击程度。
@@ -27,6 +35,18 @@ Wei Zou, Mingwen Dong, Miguel Romero Calvo, Shuaichen Chang, Jiang Guo, Dongkyu 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-02623/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-02623/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_02623,
+  title = {{Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents}},
+  author = {{Wei Zou} and {Mingwen Dong} and {Miguel Romero Calvo} and {Shuaichen Chang} and {Jiang Guo} and {Dongkyu Lee} and {Xing Niu} and {Xiaofei Ma} and {Yanjun Qi} and {Jiarong Jiang}},
+  year = {2026},
+  eprint = {2604.02623v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.02623v2},
+  note = {First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T14:45:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

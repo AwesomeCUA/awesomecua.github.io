@@ -1,3 +1,11 @@
+---
+title: "Efficient Optimisation of Physical Reservoir… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-14371/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Optimisation of Physical Reservoir Computers using only a Delayed Input
 
 Status: excluded from the active CUA catalog after scope review.

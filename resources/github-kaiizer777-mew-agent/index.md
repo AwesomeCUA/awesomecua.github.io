@@ -1,3 +1,11 @@
+---
+title: "mew-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaiizer777-mew-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # mew-agent
 
 mew-agent is a Rust-native browser agent that drives visible Chromium via CDP using accessibility-tree perception and vision fallback.

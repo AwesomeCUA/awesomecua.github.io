@@ -1,3 +1,11 @@
+---
+title: "Draw-and-Understand: Leveraging Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-20271/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want
 
 Introduces Draw-and-Understand and MDVP-Bench for understanding visual prompts such as points and boxes; its multi-domain data includes mobile and web screenshots.
@@ -26,6 +34,18 @@ Weifeng Lin, Xinyu Wei, Ruichuan An, Peng Gao, Bocheng Zou, Yulin Luo, Siyuan Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-20271/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-20271/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_20271,
+  title = {{Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want}},
+  author = {{Weifeng Lin} and {Xinyu Wei} and {Ruichuan An} and {Peng Gao} and {Bocheng Zou} and {Yulin Luo} and {Siyuan Huang} and {Shanghang Zhang} and {Hongsheng Li}},
+  year = {2024},
+  eprint = {2403.20271v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.20271v3},
+  note = {First published: 2024-03-29; Recorded arXiv version: v3; Recorded version updated: 2025-02-22T14:02:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

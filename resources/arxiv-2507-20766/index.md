@@ -1,3 +1,11 @@
+---
+title: "Learning Only with Images: Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-20766/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback
 
 Bibliographic record for Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yang Chen, Yufan Shen, Wenxuan Huang, Sheng Zhou, Qunshu Lin, Xinyu Cai, Zhi Yu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-20766/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-20766/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_20766,
+  title = {{Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback}},
+  author = {{Yang Chen} and {Yufan Shen} and {Wenxuan Huang} and {Sheng Zhou} and {Qunshu Lin} and {Xinyu Cai} and {Zhi Yu} and {Jiajun Bu} and {Botian Shi} and {Yu Qiao}},
+  year = {2025},
+  eprint = {2507.20766v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.20766v4},
+  note = {First published: 2025-07-28; Recorded arXiv version: v4; Recorded version updated: 2025-08-07T09:53:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

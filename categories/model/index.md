@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent models and checkpoints | AwesomeCUA"
+url: https://awesomecua.com/categories/model/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent models and checkpoints
 
 Computer-use models are vision-language and GUI-specialized checkpoints that read screens and output target coordinates or actions. Entries cover model families and released checkpoints, many hosted on Hugging Face.

@@ -1,3 +1,11 @@
+---
+title: "PrecisionCUA: Iterative Visual Refinement for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13019/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PrecisionCUA: Iterative Visual Refinement for Pixel-Precise Cursor Grounding in Code Editors
 
 Studies iterative cursor grounding in dense code-editor interfaces, using visual feedback from earlier attempts to correct displacement. PrecisionCUA evaluates this closed-loop process across multiple model families on coding-interface tasks.
@@ -26,6 +34,18 @@ Himangi Mittal, Gaurav Mittal, Nelson Daniel Troncoso, Yu Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-13019/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-13019/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_13019,
+  title = {{PrecisionCUA: Iterative Visual Refinement for Pixel-Precise Cursor Grounding in Code Editors}},
+  author = {{Himangi Mittal} and {Gaurav Mittal} and {Nelson Daniel Troncoso} and {Yu Hu}},
+  year = {2026},
+  eprint = {2604.13019v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.13019v3},
+  note = {First published: 2026-04-14; Recorded arXiv version: v3; Recorded version updated: 2026-05-28T06:47:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

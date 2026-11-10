@@ -1,3 +1,11 @@
+---
+title: "SmolVLM2-2.2B-Instruct-Agentic-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-915e40f18b217ac63fc6/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # SmolVLM2-2.2B-Instruct-Agentic-GUI
 
 SmolVLM2-2.2B-Instruct fine-tuned in two phases on the aguvis-stage-1 and aguvis-stage-2 datasets to locate screen elements and emit GUI actions as function calls. The authors report 61% on ScreenSpot-v2.

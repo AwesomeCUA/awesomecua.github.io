@@ -1,3 +1,11 @@
+---
+title: "Model-3b-3ao · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-477342b0eb81469b35a0/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Model-3b-3ao
 
 一个与 CCPO 相关的已发布 GUI 智能体检查点，采用坐标感知的视觉压缩和基于距离的训练反馈，处理多轮界面任务。

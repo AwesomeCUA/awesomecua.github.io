@@ -1,3 +1,11 @@
+---
+title: "VFlash: Fast, Accurate Visual Planning via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-08449/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding
 
 Bibliographic record for VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang, Chiao-An Yang, Xianzhe Fan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-08449/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-08449/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_08449,
+  title = {{VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding}},
+  author = {{Yu-Cheng Chou} and {Shihao Wang} and {Jin Huang} and {Chi-Pin Huang} and {Chiao-An Yang} and {Xianzhe Fan} and {Jing Wang} and {Zhiqi Li} and {Yuanguo Kuang} and {Ruijie Zheng} and {Johan Bjorck} and {Sifei Liu} and {Hang Su} and {Abhishek Badki} and {Lei Zhang} and {Alan Yuille} and {Linxi "Jim'' Fan} and {Jan Kautz} and {Zhiding Yu}},
+  year = {2026},
+  eprint = {2611.08449v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.08449v1},
+  note = {First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T18:44:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

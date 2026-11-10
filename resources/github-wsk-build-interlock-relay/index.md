@@ -1,3 +1,11 @@
+---
+title: "Interlock Relay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wsk-build-interlock-relay/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Interlock Relay
 
 Interlock Relay is an Android library that connects sandboxed agents to host-app capabilities through an approval gate. It provides execution backends, quotas, artifacts, and audit logs.

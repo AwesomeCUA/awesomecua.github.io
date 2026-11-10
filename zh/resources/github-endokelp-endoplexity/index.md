@@ -1,3 +1,11 @@
+---
+title: "Endoplexity · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-endokelp-endoplexity/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Endoplexity
 
 由本地 Claude 和 Cursor 订阅支持的 Chrome 扩展及智能体式浏览器控制器。

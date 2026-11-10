@@ -1,3 +1,11 @@
+---
+title: "dsh-tabbit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tabbit-browser-dsh-tabbit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-tabbit
 
 Official Tabbit Browser plugin for DeepSeek Harness enabling AI agents to control Tabbit browser tabs and workspaces.

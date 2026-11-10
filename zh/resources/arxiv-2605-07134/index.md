@@ -1,3 +1,11 @@
+---
+title: "Region4Web: Rethinking Observation Space… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-07134/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Region4Web: Rethinking Observation Space Granularity for Web Agents
 
 通过层级分解和语义抽象，将网页无障碍树重组为功能区域；PageDigest 向网页智能体提供持久的区域级观察信息，并在 WebArena 上评估。
@@ -27,6 +35,18 @@ Donguk Kwon, Dongha Lee
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-07134/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-07134/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_07134,
+  title = {{Region4Web: Rethinking Observation Space Granularity for Web Agents}},
+  author = {{Donguk Kwon} and {Dongha Lee}},
+  year = {2026},
+  eprint = {2605.07134v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.07134v1},
+  note = {First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T02:11:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

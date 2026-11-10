@@ -1,3 +1,11 @@
+---
+title: "camofox-browser · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jo-inc-camofox-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # camofox-browser
 
 面向 AI 智能体的浏览器服务，通过 REST API 提供无障碍页面快照和元素操作，并支持会话隔离及已登录状态下的浏览。

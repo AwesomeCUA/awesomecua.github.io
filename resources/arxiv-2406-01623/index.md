@@ -1,3 +1,11 @@
+---
+title: "WebSuite: Systematically Evaluating Why Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-01623/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebSuite: Systematically Evaluating Why Web Agents Fail
 
 WebSuite organizes browser operations into an action taxonomy and tests both isolated controls and complete workflows. Its diagnostic tasks attribute failures to specific actions, enabling comparison of text-based and multimodal web agents.
@@ -26,6 +34,18 @@ Eric Li, Jim Waldo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-01623/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-01623/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_01623,
+  title = {{WebSuite: Systematically Evaluating Why Web Agents Fail}},
+  author = {{Eric Li} and {Jim Waldo}},
+  year = {2024},
+  eprint = {2406.01623v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.01623v1},
+  note = {First published: 2024-06-01; Recorded arXiv version: v1; Recorded version updated: 2024-06-01T00:32:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

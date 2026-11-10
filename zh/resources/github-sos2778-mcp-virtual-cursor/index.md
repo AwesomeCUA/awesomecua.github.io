@@ -1,3 +1,11 @@
+---
+title: "MCP Virtual Cursor · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sos2778-mcp-virtual-cursor/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP Virtual Cursor
 
 macOS 计算机使用 MCP 服务器，通过辅助功能动作和虚拟光标操作应用，无需接管物理鼠标。

@@ -1,3 +1,11 @@
+---
+title: "SWE-agent: Agent-Computer Interfaces Enable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-15793/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
 
 Bibliographic record for SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ John Yang, Carlos E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karth
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-15793/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-15793/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_15793,
+  title = {{SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering}},
+  author = {{John Yang} and {Carlos E. Jimenez} and {Alexander Wettig} and {Kilian Lieret} and {Shunyu Yao} and {Karthik Narasimhan} and {Ofir Press}},
+  year = {2024},
+  eprint = {2405.15793v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.15793v3},
+  note = {First published: 2024-05-06; Recorded arXiv version: v3; Recorded version updated: 2024-11-11T20:01:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

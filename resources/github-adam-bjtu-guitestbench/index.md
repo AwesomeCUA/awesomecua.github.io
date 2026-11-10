@@ -1,3 +1,11 @@
+---
+title: "GUITestBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-adam-bjtu-guitestbench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # GUITestBench
 
 GUITestBench evaluates Android agents on multistep app defect discovery, using navigation and triggering checks alongside a judge model.

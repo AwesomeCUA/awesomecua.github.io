@@ -1,3 +1,11 @@
+---
+title: "AgentVQA: A Unified Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-31494/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentVQA: A Unified Benchmark for Agentic Visual Understanding
 
 AgentVQA 是覆盖五类智能体场景的离线视觉问答基准，其中包括网页智能体及界面元素定位问题。
@@ -27,6 +35,18 @@ Advait Gupta, Sachin Konan, Tom Yin, Gabriel Sarch, Zhuang Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-31494/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-31494/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31494,
+  title = {{AgentVQA: A Unified Benchmark for Agentic Visual Understanding}},
+  author = {{Advait Gupta} and {Sachin Konan} and {Tom Yin} and {Gabriel Sarch} and {Zhuang Liu}},
+  year = {2026},
+  eprint = {2610.31494v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31494v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T16:13:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

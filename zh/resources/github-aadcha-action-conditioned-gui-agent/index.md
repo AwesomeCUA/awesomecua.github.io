@@ -1,3 +1,11 @@
+---
+title: "Action-Type-Conditioned Grounding for… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aadcha-action-conditioned-gui-agent/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Action-Type-Conditioned Grounding for GUI Agents
 
 这套图形界面定位研究代码先预测操作类型，再据此预测屏幕坐标；仓库比较了六种条件输入方法，并提供训练与评估脚本。

@@ -1,3 +1,11 @@
+---
+title: "Android in the Wild: A Large-Scale Dataset… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-10088/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Android in the Wild: A Large-Scale Dataset for Android Device Control
 
 Collects Android interaction demonstrations with screens, actions, and instructions across device and platform variations for robustness evaluation.
@@ -26,6 +34,18 @@ Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-10088/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-10088/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_10088,
+  title = {{Android in the Wild: A Large-Scale Dataset for Android Device Control}},
+  author = {{Christopher Rawles} and {Alice Li} and {Daniel Rodriguez} and {Oriana Riva} and {Timothy Lillicrap}},
+  year = {2023},
+  eprint = {2307.10088v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.10088v2},
+  note = {First published: 2023-07-19; Recorded arXiv version: v2; Recorded version updated: 2023-10-27T14:24:31Z.}
+}
+```
 
 ## Publication record
 

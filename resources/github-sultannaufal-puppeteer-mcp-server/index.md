@@ -1,3 +1,11 @@
+---
+title: "Puppeteer MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sultannaufal-puppeteer-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Puppeteer MCP Server
 
 Self-hosted Puppeteer MCP server with remote Server-Sent Events (SSE) transport, API key authentication, and Docker deployment.

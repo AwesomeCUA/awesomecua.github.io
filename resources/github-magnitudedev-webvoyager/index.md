@@ -1,3 +1,11 @@
+---
+title: "Magnitude WebVoyager Benchmark Results | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magnitudedev-webvoyager/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Magnitude WebVoyager Benchmark Results
 
 A WebVoyager evaluation release for the Magnitude browser agent, including reported task results, task patches and reproduction instructions.

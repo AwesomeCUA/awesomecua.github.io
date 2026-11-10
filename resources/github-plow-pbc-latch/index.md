@@ -1,3 +1,11 @@
+---
+title: "Plow Latch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plow-pbc-latch/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Plow Latch
 
 A Mac application that lets remote agents operate a browser and local tools through approved intents, with sandboxed execution and an audit log.

@@ -1,3 +1,11 @@
+---
+title: "GSVA: Generalized Segmentation via Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-10103/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GSVA: Generalized Segmentation via Multimodal Large Language Models
 
 Bibliographic record for GSVA: Generalized Segmentation via Multimodal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhuofan Xia, Dongchen Han, Yizeng Han, Xuran Pan, Shiji Song, Gao Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-10103/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-10103/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_10103,
+  title = {{GSVA: Generalized Segmentation via Multimodal Large Language Models}},
+  author = {{Zhuofan Xia} and {Dongchen Han} and {Yizeng Han} and {Xuran Pan} and {Shiji Song} and {Gao Huang}},
+  year = {2023},
+  eprint = {2312.10103v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.10103v3},
+  note = {First published: 2023-12-15; Recorded arXiv version: v3; Recorded version updated: 2024-03-21T09:20:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

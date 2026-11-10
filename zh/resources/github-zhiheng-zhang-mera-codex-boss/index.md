@@ -1,3 +1,11 @@
+---
+title: "Codex Boss Desktop · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhiheng-zhang-mera-codex-boss/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Codex Boss Desktop
 
 本地优先的 Electron 控制器，用于多模型协商和保留证据的计算机使用编排。

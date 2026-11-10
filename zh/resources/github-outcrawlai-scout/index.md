@@ -1,3 +1,11 @@
+---
+title: "Scout · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-outcrawlai-scout/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # Scout
 
 TypeScript 浏览器智能体通过 CDP 操作任意 Chromium，按观察、行动、检查循环运行，可分别选择操作、推理、视觉和提取模型，并可输出符合 JSON Schema 的答案。

@@ -1,3 +1,11 @@
+---
+title: "Lumine: An Open Recipe for Building… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-08892/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds
 
 Bibliographic record for Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weihao Tan, Xiangyang Li, Yunhao Fang, Heyuan Yao, Shi Yan, Hao Luo, Tenglong Ao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-08892/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-08892/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_08892,
+  title = {{Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds}},
+  author = {{Weihao Tan} and {Xiangyang Li} and {Yunhao Fang} and {Heyuan Yao} and {Shi Yan} and {Hao Luo} and {Tenglong Ao} and {Huihui Li} and {Hongbin Ren} and {Bairen Yi} and {Yujia Qin} and {Bo An} and {Libin Liu} and {Guang Shi}},
+  year = {2025},
+  eprint = {2511.08892v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.08892v1},
+  note = {First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T02:01:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

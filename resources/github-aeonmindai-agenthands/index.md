@@ -1,3 +1,11 @@
+---
+title: "AeonMind agenthands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aeonmindai-agenthands/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AeonMind agenthands
 
 Human-calibrated mouse trajectory and keyboard timing synthesis library for browser and desktop agents.

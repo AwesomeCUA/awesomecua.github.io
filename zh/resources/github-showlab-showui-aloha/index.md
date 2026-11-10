@@ -1,3 +1,11 @@
+---
+title: "ShowUI-Aloha · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-showui-aloha/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # ShowUI-Aloha
 
 桌面智能体，可录制操作演示、提取语义动作轨迹，并据此规划和执行相关工作流程。

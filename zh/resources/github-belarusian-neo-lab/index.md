@@ -1,3 +1,11 @@
+---
+title: "Neo Lab · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-belarusian-neo-lab/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Neo Lab
 
 Neo Lab 是 macOS 计算机使用沙箱，可用于录制示范、重放技能和测试 GUI 自动化方案。

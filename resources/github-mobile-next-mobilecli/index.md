@@ -1,3 +1,11 @@
+---
+title: "mobilecli | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobile-next-mobilecli/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # mobilecli
 
 mobilecli is a command-line utility for controlling iOS and Android devices and simulators. It captures screens, reads UI trees, sends input, and manages apps.

@@ -1,3 +1,11 @@
+---
+title: "UI2Code^N | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zai-org-ui2code-n/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # UI2Code^N
 
 A UI-to-code system that drafts interface code from screenshots and refines it through repeated rendering and visual feedback. The repository provides demos and evaluation scripts.

@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-G1-3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3888a4042043fb547705/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InfiGUI-G1-3B
 
 基于 Qwen2.5-VL-3B-Instruct 的界面定位模型，通过自适应探索训练，根据指令和屏幕图像找出界面元素的位置。

@@ -1,3 +1,11 @@
+---
+title: "screen-mcp (Linux Wayland) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-88plug-screen-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # screen-mcp (Linux Wayland)
 
 Linux Wayland computer-use MCP server for Claude Code and Grok providing screenshot capture, clicking, typing, and scrolling.

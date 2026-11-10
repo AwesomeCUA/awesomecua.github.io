@@ -1,3 +1,11 @@
+---
+title: "SnapEye · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zumerlab-snapeye/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # SnapEye
 
 一套基于 SnapDOM 的工具，让编码智能体通过命令行、页面内 API 或 URL 触发，对运行中的网页应用元素进行截取、比对和录制，并返回 JSON 结果与退出码。

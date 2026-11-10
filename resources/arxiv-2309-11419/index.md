@@ -1,3 +1,11 @@
+---
+title: "KOSMOS-2.5: A Multimodal Literate Model | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-11419/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # KOSMOS-2.5: A Multimodal Literate Model
 
 Bibliographic record for KOSMOS-2.5: A Multimodal Literate Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tengchao Lv, Yupan Huang, Jingye Chen, Yuzhong Zhao, Yilin Jia, Lei Cui, Shuming
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-11419/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-11419/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_11419,
+  title = {{KOSMOS-2.5: A Multimodal Literate Model}},
+  author = {{Tengchao Lv} and {Yupan Huang} and {Jingye Chen} and {Yuzhong Zhao} and {Yilin Jia} and {Lei Cui} and {Shuming Ma} and {Yaoyao Chang} and {Shaohan Huang} and {Wenhui Wang} and {Li Dong} and {Weiyao Luo} and {Shaoxiang Wu} and {Guoxin Wang} and {Cha Zhang} and {Furu Wei}},
+  year = {2023},
+  eprint = {2309.11419v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.11419v2},
+  note = {First published: 2023-09-20; Recorded arXiv version: v2; Recorded version updated: 2024-08-21T16:54:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

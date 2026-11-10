@@ -1,3 +1,11 @@
+---
+title: "GELab Zero 4B Preview · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d7ad447ecd712c6d51b8/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # GELab Zero 4B Preview
 
 GELab-Zero 手机操作智能体的预览版检查点，由 Qwen3-VL-4B-Instruct 微调而来，约有 4.4B 个 BF16 参数；标记适用于英语和中文的 Android 场景，采用 Apache-2.0 许可证。

@@ -1,3 +1,11 @@
+---
+title: "WATCHER · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aaman-911-watcher/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # WATCHER
 
 面向自主网页智能体的提示注入防御分类器、评测基准和具备防御机制的浏览器测试框架。

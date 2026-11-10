@@ -1,3 +1,11 @@
+---
+title: "SafeArena: Evaluating the Safety of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-04957/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # SafeArena: Evaluating the Safety of Autonomous Web Agents
 
 将正常与有害的网页任务配对，评估智能体被蓄意滥用的风险，并按风险等级分类其行为。
@@ -27,6 +35,18 @@ Ada Defne Tur, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Es
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-04957/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-04957/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_04957,
+  title = {{SafeArena: Evaluating the Safety of Autonomous Web Agents}},
+  author = {{Ada Defne Tur} and {Nicholas Meade} and {Xing Han Lù} and {Alejandra Zambrano} and {Arkil Patel} and {Esin Durmus} and {Spandana Gella} and {Karolina Stańczak} and {Siva Reddy}},
+  year = {2025},
+  eprint = {2503.04957v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.04957v1},
+  note = {First published: 2025-03-06; Recorded arXiv version: v1; Recorded version updated: 2025-03-06T20:43:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

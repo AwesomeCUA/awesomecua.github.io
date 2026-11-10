@@ -1,3 +1,11 @@
+---
+title: "The ThreeDWorld Transport Challenge: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2103-14025/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # The ThreeDWorld Transport Challenge: A Visually Guided Task-and-Motion Planning Benchmark for Physically Realistic Embodied AI
 
 Bibliographic record for The ThreeDWorld Transport Challenge: A Visually Guided Task-and-Motion Planning Benchmark for Physically Realistic Embodied AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chuang Gan, Siyuan Zhou, Jeremy Schwartz, Seth Alter, Abhishek Bhandwaldar, Dan 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2103-14025/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2103-14025/citation.csl.json
+
+```bibtex
+@misc{arxiv_2103_14025,
+  title = {{The ThreeDWorld Transport Challenge: A Visually Guided Task-and-Motion Planning Benchmark for Physically Realistic Embodied AI}},
+  author = {{Chuang Gan} and {Siyuan Zhou} and {Jeremy Schwartz} and {Seth Alter} and {Abhishek Bhandwaldar} and {Dan Gutfreund} and {Daniel L. K. Yamins} and {James J DiCarlo} and {Josh McDermott} and {Antonio Torralba} and {Joshua B. Tenenbaum}},
+  year = {2021},
+  eprint = {2103.14025v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2103.14025v1},
+  note = {First published: 2021-03-25; Recorded arXiv version: v1; Recorded version updated: 2021-03-25T17:59:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "FingerTip 20K: A Benchmark for Proactive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-21071/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents
 
 FingerTip 20K 收集用户长期日常使用应用时产生的 20K 条 Android 人工演示及用户上下文，用于评估主动任务建议和考虑用户偏好的任务执行。
@@ -27,6 +35,18 @@ Qinglong Yang, Haoming Li, Haotian Zhao, Xiaokai Yan, Jingtao Ding, Fengli Xu, Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-21071/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-21071/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_21071,
+  title = {{FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents}},
+  author = {{Qinglong Yang} and {Haoming Li} and {Haotian Zhao} and {Xiaokai Yan} and {Jingtao Ding} and {Fengli Xu} and {Yong Li}},
+  year = {2025},
+  eprint = {2507.21071v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.21071v2},
+  note = {First published: 2025-06-09; Recorded arXiv version: v2; Recorded version updated: 2026-03-16T09:14:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

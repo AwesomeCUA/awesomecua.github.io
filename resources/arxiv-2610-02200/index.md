@@ -1,3 +1,11 @@
+---
+title: "VISTA: A Visual Harness for Reasoning in an… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02200/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VISTA: A Visual Harness for Reasoning in an Interactive World
 
 Bibliographic record for VISTA: A Visual Harness for Reasoning in an Interactive World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiushi Han, Keya Hu, Linlu Qiu, Cathy Wu, Kaiming He
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02200/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02200/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02200,
+  title = {{VISTA: A Visual Harness for Reasoning in an Interactive World}},
+  author = {{Qiushi Han} and {Keya Hu} and {Linlu Qiu} and {Cathy Wu} and {Kaiming He}},
+  year = {2026},
+  eprint = {2610.02200v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02200v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T17:59:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "playwright_stealth | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mattwmaster58-playwright-stealth/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # playwright_stealth
 
 Playwright_stealth is a Python helper that applies browser fingerprint evasions to Playwright pages and contexts. It provides asynchronous usage and configuration examples.

@@ -1,3 +1,11 @@
+---
+title: "McGill-NLP/safearena | AwesomeCUA"
+url: https://awesomecua.com/resources/url-be4ca14d1724b0cf8314/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # McGill-NLP/safearena
 
 SafeArena supplies safe and harmful task splits for evaluating the safety of autonomous web agents, with accompanying environment archives under gated access.

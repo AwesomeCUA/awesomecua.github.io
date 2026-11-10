@@ -1,3 +1,11 @@
+---
+title: "MemHarness: Memory Is Reconstructed, Not… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28272/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MemHarness: Memory Is Reconstructed, Not Replayed
 
 Introduces MemHarness, which trains agents to critique and reconstruct retrieved experience before acting; WebShop is one of two evaluation environments.
@@ -26,6 +34,18 @@ Rong Wu, Daocheng Fu, Licheng Wen, Xuemeng Yang, Shu Zou, Jianbiao Mei, Yuxin Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28272/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28272/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28272,
+  title = {{MemHarness: Memory Is Reconstructed, Not Replayed}},
+  author = {{Rong Wu} and {Daocheng Fu} and {Licheng Wen} and {Xuemeng Yang} and {Shu Zou} and {Jianbiao Mei} and {Yuxin Wang} and {Hairong Zhang} and {Yu Yang} and {Tao Hu} and {Cong Zhang} and {Botian Shi} and {Pinlong Cai}},
+  year = {2026},
+  eprint = {2607.28272v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28272v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T14:25:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Glass Hands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sachaarbonel-glass-hands/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Glass Hands
 
 Glass Hands is a Rust framework that connects OpenAI computer-use models directly to Chromium via the Chrome DevTools Protocol.

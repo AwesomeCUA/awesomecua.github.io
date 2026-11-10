@@ -1,3 +1,11 @@
+---
+title: "Holo1 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c491c446a71cac1def66/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # Holo1 3B
 
 Holo1 3B 动作视觉语言模型由 Qwen2.5-VL-3B-Instruct 微调而成，可在 Surfer-H 浏览器智能体中担任策略模型、UI 定位器或答案验证器。

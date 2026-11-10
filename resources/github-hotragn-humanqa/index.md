@@ -1,3 +1,11 @@
+---
+title: "HumanQA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hotragn-humanqa/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # HumanQA
 
 Evidence-first product quality and UX evaluation harness for testing web applications with browser agents.

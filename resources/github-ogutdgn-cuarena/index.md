@@ -1,3 +1,11 @@
+---
+title: "CUArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ogutdgn-cuarena/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CUArena
 
 CUArena wraps desktop and web applications into resettable, observable, and programmatically gradable reinforcement-learning environments.

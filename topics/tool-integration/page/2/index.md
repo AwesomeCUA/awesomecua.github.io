@@ -1,3 +1,11 @@
+---
+title: "Tool integration — computer-use…, page 2 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/2/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 2
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/2/

@@ -1,3 +1,11 @@
+---
+title: "Multimodal Embodied Agents: A Unified… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-30108/
+updated: 2026-11-06
+type: survey
+lang: en
+---
+
 # Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use
 
 PAPAV is a capability framework and survey comparing computer-use agents with physical agents through perception, anticipation, planning, action and verification.
@@ -26,6 +34,18 @@ Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An, Peiyao Xu, Hesen Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-30108/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-30108/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_30108,
+  title = {{Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use}},
+  author = {{Yanzhe Chen} and {Ziyi Yang} and {Jifeng Zhu} and {Qiming Huang} and {Ruihe An} and {Peiyao Xu} and {Hesen Yang} and {Runda Liu} and {Chang Gong} and {Zhijun Cao} and {Zechen Bai} and {Wenzheng Zeng} and {Yiqi Lin} and {Guoqiang Liang} and {Kevin Yuchen Ma} and {Kevin Qinghong Lin} and {Mike Zheng Shou}},
+  year = {2026},
+  eprint = {2610.30108v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.30108v1},
+  note = {First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T17:52:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

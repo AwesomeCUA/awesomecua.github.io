@@ -1,3 +1,11 @@
+---
+title: "Adept Fuyu-Heavy · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1a20a291c766bd4e6861/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Adept Fuyu-Heavy
 
 Adept 面向数字智能体、将 Fuyu 架构放大后的多模态模型，主要针对界面理解；Adept 报告了它在 MMMU、VQAv2、AI2D 和 ChartQA 上与 Gemini 模型的对比得分。

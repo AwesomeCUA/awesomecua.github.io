@@ -1,3 +1,11 @@
+---
+title: "MobiFlow: Real-World Mobile Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-09587/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion
 
 Introduces MobiFlow, a mobile-agent evaluation framework that fuses task trajectories into a state graph for dynamic interaction with third-party apps and measures task outcomes.
@@ -26,6 +34,18 @@ Yunfei Feng, Xi Zhao, Cheng Zhang, Dahu Feng, Daolin Cheng, Jianqi Yu, Yubin Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-09587/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-09587/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_09587,
+  title = {{MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion}},
+  author = {{Yunfei Feng} and {Xi Zhao} and {Cheng Zhang} and {Dahu Feng} and {Daolin Cheng} and {Jianqi Yu} and {Yubin Xia} and {Erhu Feng}},
+  year = {2026},
+  eprint = {2604.09587v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.09587v1},
+  note = {First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T14:30:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

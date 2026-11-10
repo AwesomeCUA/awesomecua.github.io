@@ -1,3 +1,11 @@
+---
+title: "MobileAIBench: Benchmarking LLMs and LMMs for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-10290/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases
 
 Status: excluded from the active CUA catalog after scope review.

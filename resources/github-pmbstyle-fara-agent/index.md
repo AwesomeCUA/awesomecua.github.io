@@ -1,3 +1,11 @@
+---
+title: "Fara Browser Automation Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pmbstyle-fara-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Fara Browser Automation Agent
 
 Local browser automation agent powered by Microsoft's Fara-7B computer-use model via LM Studio or Ollama and Playwright.

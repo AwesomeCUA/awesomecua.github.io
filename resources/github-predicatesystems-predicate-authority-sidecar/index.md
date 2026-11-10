@@ -1,3 +1,11 @@
+---
+title: "predicate-authorityd | AwesomeCUA"
+url: https://awesomecua.com/resources/github-predicatesystems-predicate-authority-sidecar/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # predicate-authorityd
 
 Rust sidecar that checks each agent action, such as a browser click on a URL, against local ALLOW/DENY policy rules and issues short-lived mandates, with a terminal dashboard and a web UI.

@@ -1,3 +1,11 @@
+---
+title: "RICO-ScreenAnnotation · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2a4dd75acb6efdeb0e4a/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # RICO-ScreenAnnotation
 
 这是标准化的 Rico 屏幕标注数据集，将移动端截图与界面元素及其位置的文字描述配对，并提供训练、验证和测试集。

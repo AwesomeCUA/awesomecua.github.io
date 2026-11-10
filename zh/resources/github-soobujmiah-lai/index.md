@@ -1,3 +1,11 @@
+---
+title: "SoobujMiah LAI (Android Local AI Runtime) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-soobujmiah-lai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SoobujMiah LAI (Android Local AI Runtime)
 
 在设备端运行的本地 AI 和基于用户同意的 Android UI 自动化运行时，提供以孟加拉语为先的无障碍支持。

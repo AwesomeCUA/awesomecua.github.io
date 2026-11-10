@@ -1,3 +1,11 @@
+---
+title: "An Efficient Framework for Information… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1702-07140/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Efficient Framework for Information Security in Cloud Computing Using Auditing Algorithm Shell (AAS)
 
 Status: excluded from the active CUA catalog after scope review.

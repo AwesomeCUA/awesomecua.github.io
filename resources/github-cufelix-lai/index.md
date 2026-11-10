@@ -1,3 +1,11 @@
+---
+title: "LAI (Linux Native OS Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cufelix-lai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LAI (Linux Native OS Agent)
 
 Native OS agent runtime for Linux desktops providing system-wide screen observation, accessibility inspection, and input control.

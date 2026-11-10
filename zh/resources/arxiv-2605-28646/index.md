@@ -1,3 +1,11 @@
+---
+title: "MaskClaw: Edge-Side Personalized Privacy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-28646/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution
 
 MaskClaw 依据视觉证据和个性化策略记忆，在 GUI 截图离开可信环境前于本地决定放行、遮蔽或询问。其基准与设计的演化场景检验如何将纠正和编辑转为经沙箱关卡检查的隐私技能。
@@ -27,6 +35,18 @@ Yanqiu Zhao, Dongying Zheng, Kaibo Huang, Yukun Wei, Zhongliang Yang, Linna Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-28646/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-28646/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_28646,
+  title = {{MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution}},
+  author = {{Yanqiu Zhao} and {Dongying Zheng} and {Kaibo Huang} and {Yukun Wei} and {Zhongliang Yang} and {Linna Zhou}},
+  year = {2026},
+  eprint = {2605.28646v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.28646v2},
+  note = {First published: 2026-05-27; Recorded arXiv version: v2; Recorded version updated: 2026-05-29T04:03:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

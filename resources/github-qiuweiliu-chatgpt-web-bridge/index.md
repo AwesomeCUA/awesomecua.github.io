@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Web Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qiuweiliu-chatgpt-web-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ChatGPT Web Bridge
 
 Attach-only Chrome DevTools Protocol bridge for bounded research delegation to a logged-in ChatGPT Web tab.

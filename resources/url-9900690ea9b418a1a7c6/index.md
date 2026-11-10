@@ -1,3 +1,11 @@
+---
+title: "Playwright MCP (playwright.dev/docs/getting-st… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9900690ea9b418a1a7c6/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Playwright MCP
 
 An MCP server that gives LLM clients browser navigation and interaction tools. It identifies page elements through structured accessibility snapshots.

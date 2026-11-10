@@ -1,3 +1,11 @@
+---
+title: "MedCUA-Bench: A Screenshot-Only Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-03203/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents
 
 MedCUA-Bench evaluates screenshot-only clinical interface workflows using paired intent- and step-level goals. It combines reconstructed medical interfaces with completion and clinical-safety checks, and separately reports results on a real OpenEMR system.
@@ -26,6 +34,18 @@ Jia Yu, Zilong Wang, Xinyang Jiang, Dongsheng Li, Shuo Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-03203/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-03203/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03203,
+  title = {{MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents}},
+  author = {{Jia Yu} and {Zilong Wang} and {Xinyang Jiang} and {Dongsheng Li} and {Shuo Wang}},
+  year = {2026},
+  eprint = {2606.03203v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03203v1},
+  note = {First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T06:02:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

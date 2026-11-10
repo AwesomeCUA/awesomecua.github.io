@@ -1,3 +1,11 @@
+---
+title: "webrl-llama-3.1-70b | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5371bf588e7790a66ff0/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # webrl-llama-3.1-70b
 
 A released Llama-3.1-70B WebRL model for operating five WebArena websites. Its model card reports WebArena-Lite results and points to inference requirements.

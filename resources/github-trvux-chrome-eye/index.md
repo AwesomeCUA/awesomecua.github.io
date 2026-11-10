@@ -1,3 +1,11 @@
+---
+title: "chrome-eye | AwesomeCUA"
+url: https://awesomecua.com/resources/github-trvux-chrome-eye/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # chrome-eye
 
 Model Context Protocol server exposing 56 structured-JSON Chrome CDP tools to Claude Code as a fast alternative to screenshots.

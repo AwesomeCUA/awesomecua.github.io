@@ -1,3 +1,11 @@
+---
+title: "Power efficient ReLU design for neuromorphic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-06463/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Power efficient ReLU design for neuromorphic computing using spin Hall effect
 
 Status: excluded from the active CUA catalog after scope review.

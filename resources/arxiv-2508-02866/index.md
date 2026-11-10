@@ -1,3 +1,11 @@
+---
+title: "PROV-AGENT: Unified Provenance for Tracking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-02866/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows
 
 Status: excluded from the active CUA catalog after scope review.

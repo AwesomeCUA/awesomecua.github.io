@@ -1,3 +1,11 @@
+---
+title: "BrowserAct Skills · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-act-skills/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # BrowserAct Skills
 
 BrowserAct Skills 为 AI 智能体提供可复用的浏览器自动化和网页提取技能定义。

@@ -1,3 +1,11 @@
+---
+title: "AgentDAM · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-facebookresearch-ai-agent-privacy/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # AgentDAM
 
 衡量网页智能体在端到端任务执行中是否不必要地使用敏感个人信息的基准。

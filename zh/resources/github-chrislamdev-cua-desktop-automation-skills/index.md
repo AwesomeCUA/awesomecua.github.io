@@ -1,3 +1,11 @@
+---
+title: "cua-desktop-automation-skills · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chrislamdev-cua-desktop-automation-skills/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cua-desktop-automation-skills
 
 面向使用 Cua Driver 的 AI 智能体，提供路由器学习系统和 macOS 桌面自动化技能包。

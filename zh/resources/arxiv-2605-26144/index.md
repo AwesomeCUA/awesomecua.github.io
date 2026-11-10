@@ -1,3 +1,11 @@
+---
+title: "VISTA: An End-to-End Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-26144/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents
 
 VISTA 评估将设计交付材料转为可运行网页和 Android 应用的编程智能体。评估器定位带标注的交互组件并测试其行为，分别衡量视觉定位与功能正确性。
@@ -27,6 +35,18 @@ JunJia Guo, Yuhang Yao, Chang Li, Zimeng Pan, Jiawei, Zhou, Jingdi Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-26144/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-26144/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26144,
+  title = {{VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents}},
+  author = {{JunJia Guo} and {Yuhang Yao} and {Chang Li} and {Zimeng Pan} and {Jiawei} and {Zhou} and {Jingdi Chen}},
+  year = {2026},
+  eprint = {2605.26144v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26144v4},
+  note = {First published: 2026-05-22; Recorded arXiv version: v4; Recorded version updated: 2026-09-29T00:12:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

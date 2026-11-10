@@ -1,3 +1,11 @@
+---
+title: "What Makes Good Agentic Data? An ACE Lens on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-27260/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
 
 Bibliographic record for What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xingshan Zeng, Zishan Xu, Boju Zhang, Yuzhou Wu, Lingzhi Wang, Jianghao Lin, Lia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-27260/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-27260/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27260,
+  title = {{What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents}},
+  author = {{Xingshan Zeng} and {Zishan Xu} and {Boju Zhang} and {Yuzhou Wu} and {Lingzhi Wang} and {Jianghao Lin} and {Liangyou Li} and {Yasheng Wang} and {Lifeng Shang} and {Xin Jiang} and {Weinan Zhang} and {Yong Yu} and {Qun Liu} and {Weiwen Liu}},
+  year = {2026},
+  eprint = {2608.27260v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27260v1},
+  note = {First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T15:43:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

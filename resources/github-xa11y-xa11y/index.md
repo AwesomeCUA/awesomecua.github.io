@@ -1,3 +1,11 @@
+---
+title: "xa11y | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xa11y-xa11y/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # xa11y
 
 xa11y is a cross-platform desktop accessibility library in Rust, Python, and Node.js for inspecting and driving native apps on macOS, Windows, and Linux.

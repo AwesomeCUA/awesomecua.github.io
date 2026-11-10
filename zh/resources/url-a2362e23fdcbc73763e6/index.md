@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 4B AW · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a2362e23fdcbc73763e6/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 4B AW
 
 InternVL2-4B 检查点基于 OS-Genesis AndroidWorld 轨迹微调；模型卡提示将截图和无障碍树与目标、操作历史结合，生成下一步思考与操作。

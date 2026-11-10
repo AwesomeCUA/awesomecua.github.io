@@ -1,3 +1,11 @@
+---
+title: "MobileA3gent: Training Mobile GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-02982/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MobileA3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users
 
 Studies automatic annotation and federated training of mobile GUI agents from decentralized user interaction data with heterogeneous distributions.
@@ -26,6 +34,18 @@ Wenhao Wang, Mengying Yuan, Zijie Yu, Guangyi Liu, Rui Ye, Tian Jin, Siheng Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-02982/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-02982/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_02982,
+  title = {{MobileA3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users}},
+  author = {{Wenhao Wang} and {Mengying Yuan} and {Zijie Yu} and {Guangyi Liu} and {Rui Ye} and {Tian Jin} and {Siheng Chen} and {Yanfeng Wang}},
+  year = {2025},
+  eprint = {2502.02982v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.02982v2},
+  note = {First published: 2025-02-05; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T07:03:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

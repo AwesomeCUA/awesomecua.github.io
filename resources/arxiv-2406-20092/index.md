@@ -1,3 +1,11 @@
+---
+title: "Efficient Large Multi-modal Models via Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-20092/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Large Multi-modal Models via Visual Context Compression
 
 Status: excluded from the active CUA catalog after scope review.

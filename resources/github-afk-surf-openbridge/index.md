@@ -1,3 +1,11 @@
+---
+title: "OpenBridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-afk-surf-openbridge/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OpenBridge
 
 A local macOS agent app that can inspect and operate desktop applications after approval and offers a sandbox for reviewing proposed file changes.

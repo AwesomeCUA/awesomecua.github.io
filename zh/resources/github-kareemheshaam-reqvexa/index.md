@@ -1,3 +1,11 @@
+---
+title: "Reqvexa · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kareemheshaam-reqvexa/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Reqvexa
 
 基于 HAR 的 HTTP 来源分析器，可追踪浏览器智能体网络请求背后的 cookie、token 和请求头。

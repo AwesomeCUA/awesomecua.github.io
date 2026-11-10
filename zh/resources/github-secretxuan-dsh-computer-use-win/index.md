@@ -1,3 +1,11 @@
+---
+title: "secretxuan dsh-computer-use-win · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-secretxuan-dsh-computer-use-win/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # secretxuan dsh-computer-use-win
 
 面向 DeepSeek Harness 的 Windows 计算机使用工具包，提供桌面截图、窗口管理和输入自动化。

@@ -1,3 +1,11 @@
+---
+title: "Nakama | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahmadrosid-nakama/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # Nakama
 
 A team AI agent platform, run as managed cloud or one Docker container, whose agents can drive a per-user Kernel cloud browser or Chrome on the server to open pages, click and fill forms.

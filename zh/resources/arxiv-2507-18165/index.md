@@ -1,3 +1,11 @@
+---
+title: "ProactiveVA: Proactive Visual Analytics… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-18165/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent
 
 研究视觉分析界面中的主动辅助，利用交互日志识别支持需求，并提供与上下文相关的建议和指导。
@@ -27,6 +35,18 @@ Yuheng Zhao, Xueli Shu, Liwen Fan, Lin Gao, Yu Zhang, Siming Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-18165/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-18165/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_18165,
+  title = {{ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent}},
+  author = {{Yuheng Zhao} and {Xueli Shu} and {Liwen Fan} and {Lin Gao} and {Yu Zhang} and {Siming Chen}},
+  year = {2025},
+  eprint = {2507.18165v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.18165v1},
+  note = {First published: 2025-07-24; Recorded arXiv version: v1; Recorded version updated: 2025-07-24T08:02:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

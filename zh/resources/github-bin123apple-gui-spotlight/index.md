@@ -1,3 +1,11 @@
+---
+title: "GUI-Spotlight · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bin123apple-gui-spotlight/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # GUI-Spotlight
 
 GUI-Spotlight 是一种通过图像思考的 GUI 视觉定位模型，可在高分辨率屏幕上反复裁剪并细化关注区域。

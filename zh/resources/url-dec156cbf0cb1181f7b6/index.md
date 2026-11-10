@@ -1,3 +1,11 @@
+---
+title: "Amazon Nova Act · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dec156cbf0cb1181f7b6/
+updated: 2026-10-17
+type: product
+lang: zh-CN
+---
+
 # Amazon Nova Act
 
 AWS 提供的服务，基于定制的 Nova 2 Lite 模型，支持通过自然语言和 Python 构建、部署自动执行浏览器界面工作流程的智能体。

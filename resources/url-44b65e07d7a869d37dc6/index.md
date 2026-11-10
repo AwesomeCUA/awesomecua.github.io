@@ -1,3 +1,11 @@
+---
+title: "mPLUG/ToolCUA-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # mPLUG/ToolCUA-8B
 
 ToolCUA-8B is a released computer-use model trained to alternate between desktop GUI actions and structured tool calls during task execution.

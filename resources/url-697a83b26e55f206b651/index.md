@@ -1,3 +1,11 @@
+---
+title: "Anchor Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/url-697a83b26e55f206b651/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Anchor Browser
 
 Anchor Browser provides cloud browser sessions for agents through SDK, CDP and REST interfaces. Its documentation describes natural-language tasks, authentication and reusable workflows.

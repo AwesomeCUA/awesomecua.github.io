@@ -1,3 +1,11 @@
+---
+title: "Scaling Trapped Ion Quantum Computers Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1711-05875/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scaling Trapped Ion Quantum Computers Using Fast Gates and Microtraps
 
 Status: excluded from the active CUA catalog after scope review.

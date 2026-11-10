@@ -1,3 +1,11 @@
+---
+title: "A quantum algorithm for solving open system… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-12138/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A quantum algorithm for solving open system dynamics on quantum computers using noise
 
 Status: excluded from the active CUA catalog after scope review.

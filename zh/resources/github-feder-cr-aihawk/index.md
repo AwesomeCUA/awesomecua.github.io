@@ -1,3 +1,11 @@
+---
+title: "AIHawk · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-aihawk/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AIHawk
 
 AIHawk 根据简历搜索并评估职位，再用 Firefox 填写并提交用户选定的申请。它会保存每个页面的回复和截图。

@@ -1,3 +1,11 @@
+---
+title: "DreamStruct: Understanding Slides and User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-00201/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation
 
 Generates labeled slides and interface visuals through code to support visual element detection, description, and classification with less manual annotation.
@@ -26,6 +34,18 @@ Yi-Hao Peng, Faria Huq, Yue Jiang, Jason Wu, Amanda Xin Yue Li, Jeffrey Bigham, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-00201/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-00201/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_00201,
+  title = {{DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation}},
+  author = {{Yi-Hao Peng} and {Faria Huq} and {Yue Jiang} and {Jason Wu} and {Amanda Xin Yue Li} and {Jeffrey Bigham} and {Amy Pavel}},
+  year = {2024},
+  eprint = {2410.00201v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.00201v1},
+  note = {First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T19:55:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

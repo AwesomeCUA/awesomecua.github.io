@@ -1,3 +1,11 @@
+---
+title: "SAC-GLAM: Improving Online RL for LLM agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-12481/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling
 
 Status: excluded from the active CUA catalog after scope review.

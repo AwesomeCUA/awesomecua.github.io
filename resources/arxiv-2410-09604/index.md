@@ -1,3 +1,11 @@
+---
+title: "EmbodiedCity: A Benchmark Platform for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-09604/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment
 
 Bibliographic record for EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chen Gao, Baining Zhao, Weichen Zhang, Jinzhu Mao, Jun Zhang, Zhiheng Zheng, Fan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-09604/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-09604/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_09604,
+  title = {{EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment}},
+  author = {{Chen Gao} and {Baining Zhao} and {Weichen Zhang} and {Jinzhu Mao} and {Jun Zhang} and {Zhiheng Zheng} and {Fanhang Man} and {Jianjie Fang} and {Zile Zhou} and {Jinqiang Cui} and {Xinlei Chen} and {Yong Li}},
+  year = {2024},
+  eprint = {2410.09604v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.09604v1},
+  note = {First published: 2024-10-12; Recorded arXiv version: v1; Recorded version updated: 2024-10-12T17:49:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

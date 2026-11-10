@@ -1,3 +1,11 @@
+---
+title: "DevScope Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-15273-devscope-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DevScope Bridge
 
 Local-first Chrome side panel and bridge connecting Claude Code, Cursor, and Codex to live browser DOM and console state.

@@ -1,3 +1,11 @@
+---
+title: "qt-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-0xcarbon-qt-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # qt-mcp
 
 qt-mcp 通过 MCP 服务器向智能体开放运行中的 PySide6 桌面应用，提供控件检查、截图和输入操作。

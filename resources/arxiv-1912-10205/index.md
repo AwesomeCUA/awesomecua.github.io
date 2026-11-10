@@ -1,3 +1,11 @@
+---
+title: "Decoupled Attention Network for Text… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1912-10205/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Decoupled Attention Network for Text Recognition
 
 Bibliographic record for Decoupled Attention Network for Text Recognition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianwei Wang, Yuanzhi Zhu, Lianwen Jin, Canjie Luo, Xiaoxue Chen, Yaqiang Wu, Qi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1912-10205/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1912-10205/citation.csl.json
+
+```bibtex
+@misc{arxiv_1912_10205,
+  title = {{Decoupled Attention Network for Text Recognition}},
+  author = {{Tianwei Wang} and {Yuanzhi Zhu} and {Lianwen Jin} and {Canjie Luo} and {Xiaoxue Chen} and {Yaqiang Wu} and {Qianying Wang} and {Mingxiang Cai}},
+  year = {2019},
+  eprint = {1912.10205v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1912.10205v1},
+  note = {First published: 2019-12-21; Recorded arXiv version: v1; Recorded version updated: 2019-12-21T05:51:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

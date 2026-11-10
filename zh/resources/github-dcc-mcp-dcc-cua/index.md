@@ -1,3 +1,11 @@
+---
+title: "dcc-cua · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dcc-mcp-dcc-cua/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # dcc-cua
 
 跨平台 Rust 运行时和 CLI，让 AI 智能体观察并控制指定范围内的桌面应用窗口。

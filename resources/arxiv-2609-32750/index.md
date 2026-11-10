@@ -1,3 +1,11 @@
+---
+title: "CUA-Sandbox: Efficient Environments for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32750/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CUA-Sandbox: Efficient Environments for Computer-Use Agent Reinforcement Learning
 
 Introduces CUA-Sandbox, which separates each rollout’s mutable state from shared initialized software runtimes. State-scoped execution and transactional resets or branches aim to reduce training-environment costs while retaining original interfaces and evaluators.
@@ -26,6 +34,18 @@ Xin Yan, Zhengbo Jiao, Jiaqi Liu, Zhenglin Wan, SiYuan Ma, Xuliang Yu, Tianyi Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32750/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32750/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32750,
+  title = {{CUA-Sandbox: Efficient Environments for Computer-Use Agent Reinforcement Learning}},
+  author = {{Xin Yan} and {Zhengbo Jiao} and {Jiaqi Liu} and {Zhenglin Wan} and {SiYuan Ma} and {Xuliang Yu} and {Tianyi Jiang} and {Chubin Zhang} and {Pengfei Zhou} and {Wangbo Zhao} and {Xingrui Yu} and {Bo An} and {Yang You} and {Ivor Tsang}},
+  year = {2026},
+  eprint = {2609.32750v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32750v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T16:16:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

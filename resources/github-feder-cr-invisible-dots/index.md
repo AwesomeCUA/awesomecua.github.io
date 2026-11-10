@@ -1,3 +1,11 @@
+---
+title: "invisible_dots | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-invisible-dots/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # invisible_dots
 
 invisible_dots is a self-hosted cloud browser-agent workspace pairing isolated KVM virtual machines with anti-detect Firefox automation.

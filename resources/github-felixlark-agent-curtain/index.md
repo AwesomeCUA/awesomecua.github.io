@@ -1,3 +1,11 @@
+---
+title: "AgentCurtain | AwesomeCUA"
+url: https://awesomecua.com/resources/github-felixlark-agent-curtain/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AgentCurtain
 
 AgentCurtain is a macOS menu-bar utility that dims physical displays and blocks physical input while keeping unattended GUI agent sessions running.

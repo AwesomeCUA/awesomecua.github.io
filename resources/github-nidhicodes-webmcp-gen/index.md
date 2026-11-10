@@ -1,3 +1,11 @@
+---
+title: "webmcp-gen | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nidhicodes-webmcp-gen/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # webmcp-gen
 
 Automatically generates callable WebMCP tool schemas from live webpages without requiring site-owner instrumentation.

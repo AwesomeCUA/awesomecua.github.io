@@ -1,3 +1,11 @@
+---
+title: "Talk2Agent: Benchmarking Voice Interfaces for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38867/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Talk2Agent: Benchmarking Voice Interfaces for Text Agents
 
 Introduces Talk2Agent, a benchmark of spoken instructions for computer-use tasks that measures whether voice interfaces preserve task-critical information. It pairs human speech with an execution-free intention-based metric and checks how that metric relates to downstream task completion.
@@ -26,6 +34,18 @@ Terumi Chiba, Guangzhi Sun, Zheqi Yuan, Chao Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38867/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38867/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38867,
+  title = {{Talk2Agent: Benchmarking Voice Interfaces for Text Agents}},
+  author = {{Terumi Chiba} and {Guangzhi Sun} and {Zheqi Yuan} and {Chao Zhang}},
+  year = {2026},
+  eprint = {2609.38867v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38867v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T03:19:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "CMD: Controllable Multiview Diffusion for 3D… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-07003/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CMD: Controllable Multiview Diffusion for 3D Editing and Progressive Generation
 
 Status: excluded from the active CUA catalog after scope review.

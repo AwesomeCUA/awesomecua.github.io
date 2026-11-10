@@ -1,3 +1,11 @@
+---
+title: "android-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-austinintelligence-android-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # android-use
 
 MCP server and CLI giving AI agents fast, bounded access to physical Android devices and emulators.

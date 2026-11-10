@@ -1,3 +1,11 @@
+---
+title: "APPSim-Bench: Bridging Real-world Apps… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-07712/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents
 
 引入受控的模拟移动应用，配备确定性的后端数据和结果检查，以可复现地评估贴近真实场景的交互。
@@ -27,6 +35,18 @@ Jintian Feng, Long Chen, Xiao Yu, Jiayi Dai, Chenglong Liu, Haoru Wang, Zizhen X
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-07712/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-07712/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_07712,
+  title = {{APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents}},
+  author = {{Jintian Feng} and {Long Chen} and {Xiao Yu} and {Jiayi Dai} and {Chenglong Liu} and {Haoru Wang} and {Zizhen Xue} and {Yuxuan Shi} and {Ziyang Wang} and {Yichen Gong}},
+  year = {2026},
+  eprint = {2609.07712v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.07712v1},
+  note = {First published: 2026-09-07; Recorded arXiv version: v1; Recorded version updated: 2026-09-07T16:25:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

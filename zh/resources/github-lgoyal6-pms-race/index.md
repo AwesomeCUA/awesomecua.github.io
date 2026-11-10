@@ -1,3 +1,11 @@
+---
+title: "pms-race · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lgoyal6-pms-race/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # pms-race
 
 面向操作传统物业管理网页 UI 的计算机使用智能体的并发评测基准，用于衡量竞态条件和重复预订。

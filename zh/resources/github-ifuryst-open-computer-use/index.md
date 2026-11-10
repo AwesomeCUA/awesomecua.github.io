@@ -1,3 +1,11 @@
+---
+title: "open-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ifuryst-open-computer-use/
+updated: 2026-10-18
+type: tool
+lang: zh-CN
+---
+
 # open-computer-use
 
 面向 macOS、Linux 和 Windows 的计算机使用 MCP 服务器与 CLI，提供 get_app_state、click 和 set_value 等九种通用工具，并通过辅助功能 API 读取 macOS 应用。

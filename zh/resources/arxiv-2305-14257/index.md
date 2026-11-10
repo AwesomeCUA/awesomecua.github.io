@@ -1,3 +1,11 @@
+---
+title: "Hierarchical Prompting Assists Large… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2305-14257/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Hierarchical Prompting Assists Large Language Model on Web Navigation
 
 将网页导航提示分为两部分：SUMMARIZER 提取与操作相关的观察信息，ACTOR 根据精简后的上下文选择下一步操作。
@@ -27,6 +35,18 @@ Abishek Sridhar, Robert Lo, Frank F. Xu, Hao Zhu, Shuyan Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2305-14257/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2305-14257/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_14257,
+  title = {{Hierarchical Prompting Assists Large Language Model on Web Navigation}},
+  author = {{Abishek Sridhar} and {Robert Lo} and {Frank F. Xu} and {Hao Zhu} and {Shuyan Zhou}},
+  year = {2023},
+  eprint = {2305.14257v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.14257v3},
+  note = {First published: 2023-05-23; Recorded arXiv version: v3; Recorded version updated: 2023-10-30T00:55:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

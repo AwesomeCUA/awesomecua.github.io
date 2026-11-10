@@ -1,3 +1,11 @@
+---
+title: "Agentic AI Security: Threats, Defenses… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-23883/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges
 
 Bibliographic record for Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Anshuman Chhabra, Shrestha Datta, Shahriar Kabir Nahin, Prasant Mohapatra
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-23883/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-23883/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_23883,
+  title = {{Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges}},
+  author = {{Anshuman Chhabra} and {Shrestha Datta} and {Shahriar Kabir Nahin} and {Prasant Mohapatra}},
+  year = {2025},
+  eprint = {2510.23883v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.23883v3},
+  note = {First published: 2025-10-27; Recorded arXiv version: v3; Recorded version updated: 2026-04-03T16:27:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

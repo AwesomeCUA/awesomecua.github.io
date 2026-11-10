@@ -1,3 +1,11 @@
+---
+title: "MedImageOSWorld: Benchmarking GUI Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04800/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles
 
 Evaluates GUI agents in simulated medical-imaging consoles, separately checking workflow completion and acquisition outcomes against hidden anatomical targets.
@@ -26,6 +34,18 @@ Ziyang Long, Xinqi Li, Lujing Xing, Hsin-Jung Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04800/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04800/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04800,
+  title = {{MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles}},
+  author = {{Ziyang Long} and {Xinqi Li} and {Lujing Xing} and {Hsin-Jung Yang}},
+  year = {2026},
+  eprint = {2610.04800v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04800v1},
+  note = {First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T22:56:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

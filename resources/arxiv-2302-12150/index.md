@@ -1,3 +1,11 @@
+---
+title: "A Survey of Secure Computation Using Trusted… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-12150/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey of Secure Computation Using Trusted Execution Environments
 
 Status: excluded from the active CUA catalog after scope review.

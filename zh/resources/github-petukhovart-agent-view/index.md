@@ -1,3 +1,11 @@
+---
+title: "agent-view · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-petukhovart-agent-view/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # agent-view
 
 这是一个供智能体通过 Chrome DevTools Protocol 检查和操作 Electron、Windows Tauri 及 Chromium 应用的命令行工具，提供无障碍信息、截图、输入操作和诊断命令。

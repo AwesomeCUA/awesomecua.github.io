@@ -1,3 +1,11 @@
+---
+title: "LLM-Grounder: Open-Vocabulary 3D Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-12311/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent
 
 Bibliographic record for LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jianing Yang, Xuweiyi Chen, Shengyi Qian, Nikhil Madaan, Madhavan Iyengar, David
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-12311/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-12311/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_12311,
+  title = {{LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent}},
+  author = {{Jianing Yang} and {Xuweiyi Chen} and {Shengyi Qian} and {Nikhil Madaan} and {Madhavan Iyengar} and {David F. Fouhey} and {Joyce Chai}},
+  year = {2023},
+  eprint = {2309.12311v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.12311v1},
+  note = {First published: 2023-09-21; Recorded arXiv version: v1; Recorded version updated: 2023-09-21T17:59:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

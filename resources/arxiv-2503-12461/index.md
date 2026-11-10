@@ -1,3 +1,11 @@
+---
+title: "MambaIC: State Space Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-12461/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MambaIC: State Space Models for High-Performance Learned Image Compression
 
 Status: excluded from the active CUA catalog after scope review.

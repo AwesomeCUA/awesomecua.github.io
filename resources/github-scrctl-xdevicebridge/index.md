@@ -1,3 +1,11 @@
+---
+title: "XDeviceBridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scrctl-xdevicebridge/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # XDeviceBridge
 
 A C library, server and xdb CLI for iPhone and iPad discovery, pairing, screenshots, video capture and touch, keyboard and text input over USB or Wi-Fi.

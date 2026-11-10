@@ -1,3 +1,11 @@
+---
+title: "Simulating Quantum Computers Using OpenCL | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1805-00988/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Simulating Quantum Computers Using OpenCL
 
 Status: excluded from the active CUA catalog after scope review.

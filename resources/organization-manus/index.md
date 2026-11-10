@@ -1,3 +1,11 @@
+---
+title: "Manus (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-manus/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # Manus
 
 Publisher or product brand associated with Manus computer-use or browser automation offerings.

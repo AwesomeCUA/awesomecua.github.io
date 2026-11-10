@@ -1,3 +1,11 @@
+---
+title: "bm (Conversational Grocery Browser Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gonzalo123-bm/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # bm (Conversational Grocery Browser Agent)
 
 Conversational grocery shopping TUI agent built with Strands and Amazon Bedrock that drives a live web browser.

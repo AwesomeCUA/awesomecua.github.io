@@ -1,3 +1,11 @@
+---
+title: "PersonalAlign | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # PersonalAlign
 
 PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.

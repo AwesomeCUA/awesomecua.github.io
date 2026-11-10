@@ -1,3 +1,11 @@
+---
+title: "GUI Action Narrator: Where and When Did That… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-13719/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # GUI Action Narrator: Where and When Did That Action Take Place?
 
 Introduces Act2Cap and a cursor-guided method for describing GUI actions from video, with temporal and spatial localization challenges.
@@ -26,6 +34,18 @@ Qinchen Wu, Difei Gao, Kevin Qinghong Lin, Zhuoyu Wu, Xiangwu Guo, Peiran Li, We
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-13719/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-13719/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_13719,
+  title = {{GUI Action Narrator: Where and When Did That Action Take Place?}},
+  author = {{Qinchen Wu} and {Difei Gao} and {Kevin Qinghong Lin} and {Zhuoyu Wu} and {Xiangwu Guo} and {Peiran Li} and {Weichen Zhang} and {Hengxu Wang} and {Mike Zheng Shou}},
+  year = {2024},
+  eprint = {2406.13719v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.13719v1},
+  note = {First published: 2024-06-19; Recorded arXiv version: v1; Recorded version updated: 2024-06-19T17:22:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

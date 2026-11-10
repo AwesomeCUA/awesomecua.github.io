@@ -1,3 +1,11 @@
+---
+title: "ManiSkill2: A Unified Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-04659/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills
 
 Bibliographic record for ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiayuan Gu, Fanbo Xiang, Xuanlin Li, Zhan Ling, Xiqiang Liu, Tongzhou Mu, Yihe T
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2302-04659/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2302-04659/citation.csl.json
+
+```bibtex
+@misc{arxiv_2302_04659,
+  title = {{ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills}},
+  author = {{Jiayuan Gu} and {Fanbo Xiang} and {Xuanlin Li} and {Zhan Ling} and {Xiqiang Liu} and {Tongzhou Mu} and {Yihe Tang} and {Stone Tao} and {Xinyue Wei} and {Yunchao Yao} and {Xiaodi Yuan} and {Pengwei Xie} and {Zhiao Huang} and {Rui Chen} and {Hao Su}},
+  year = {2023},
+  eprint = {2302.04659v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2302.04659v1},
+  note = {First published: 2023-02-09; Recorded arXiv version: v1; Recorded version updated: 2023-02-09T14:24:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Node AutoIt Koffi · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nullmastermind-node-autoit-koffi/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Node AutoIt Koffi
 
 Node AutoIt Koffi 是面向 AutoIt 函数的 Node.js 绑定，使程序能够控制 Windows 图形界面元素和鼠标输入。

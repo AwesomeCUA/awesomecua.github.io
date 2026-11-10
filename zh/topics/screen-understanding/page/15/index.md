@@ -1,10 +1,17 @@
+---
+title: "界面理解：Computer-Use 研究与资源（第 15 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/screen-understanding/page/15/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 界面理解：Computer-Use 研究与资源（第 15 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/15/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
-- [PICC](https://awesomecua.com/zh/resources/github-andelf-picc/)
 - [pinchtab-mcp](https://awesomecua.com/zh/resources/github-maderwin-pinchtab-mcp/)
 - [Pix to App](https://awesomecua.com/zh/resources/github-soumikmohianuta-pixtoapp/)
 - [pixel-forge](https://awesomecua.com/zh/resources/github-sjxbbdb-pixel-forge/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/15/
 - [SilbercueSwift](https://awesomecua.com/zh/resources/github-silbercue-silbercueswift/)
 - [simpilot](https://awesomecua.com/zh/resources/github-passerby2049-simpilot/)
 - [Smart Pet Agent](https://awesomecua.com/zh/resources/github-realstreetsmartnyc-smart-pet-agent/)
+- [Smouj AgentBrowser](https://awesomecua.com/zh/resources/github-smouj-agent-browser/)

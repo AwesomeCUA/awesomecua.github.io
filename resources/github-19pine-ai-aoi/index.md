@@ -1,3 +1,11 @@
+---
+title: "AOI (Agent-Computer Observation Interface) &… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-19pine-ai-aoi/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AOI (Agent-Computer Observation Interface) & DynaCU-Bench
 
 AOI provides an adaptive video and audio perception layer for computer-use agents alongside the DynaCU-Bench dynamic GUI benchmark.

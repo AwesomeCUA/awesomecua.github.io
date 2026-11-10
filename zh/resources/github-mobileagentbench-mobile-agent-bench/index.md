@@ -1,3 +1,11 @@
+---
+title: "MobileAgentBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobileagentbench-mobile-agent-bench/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # MobileAgentBench
 
 面向移动端 LLM 智能体的自动化基准，默认任务使用 10 个 Simple Mobile Tools Android 应用；作为 Python 库安装，并检测任务是否完成。

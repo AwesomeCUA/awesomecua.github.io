@@ -1,3 +1,11 @@
+---
+title: "parallel-browser-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-etairl-parallel-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # parallel-browser-mcp
 
 Model Context Protocol 服务器，可在本地和云端浏览器提供商之间并行执行多会话浏览器自动化。

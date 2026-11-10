@@ -1,3 +1,11 @@
+---
+title: "ENTL: Embodied Navigation Trajectory Learner | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-02639/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ENTL: Embodied Navigation Trajectory Learner
 
 Bibliographic record for ENTL: Embodied Navigation Trajectory Learner. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Klemen Kotar, Aaron Walsman, Roozbeh Mottaghi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-02639/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-02639/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_02639,
+  title = {{ENTL: Embodied Navigation Trajectory Learner}},
+  author = {{Klemen Kotar} and {Aaron Walsman} and {Roozbeh Mottaghi}},
+  year = {2023},
+  eprint = {2304.02639v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.02639v3},
+  note = {First published: 2023-04-05; Recorded arXiv version: v3; Recorded version updated: 2023-09-29T15:11:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

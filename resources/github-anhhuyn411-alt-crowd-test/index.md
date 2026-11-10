@@ -1,3 +1,11 @@
+---
+title: "crowd-test | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # crowd-test
 
 A CLI runs persona-driven agents in isolated Chromium browsers to explore website usability and produce graded findings with optional independent checks.

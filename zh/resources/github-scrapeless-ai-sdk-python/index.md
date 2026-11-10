@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Python SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-python/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Scrapeless Python SDK
 
 Scrapeless Python SDK 为 Playwright 和 Pyppeteer 创建托管浏览器会话，支持持久化配置，并提供网页交互与内容提取服务。

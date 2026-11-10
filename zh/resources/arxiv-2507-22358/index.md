@@ -1,3 +1,11 @@
+---
+title: "Magentic-UI: Towards Human-in-the-loop… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-22358/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Magentic-UI: Towards Human-in-the-loop Agentic Systems
 
 Magentic-UI 在供人与智能体协作的界面中整合浏览器交互、代码执行、文件操作和 MCP 工具，并通过基准任务、模拟用户、用户研究和安全评估，研究协作规划与执行、操作防护及持久记忆。
@@ -27,6 +35,18 @@ Hussein Mozannar, Gagan Bansal, Cheng Tan, Adam Fourney, Victor Dibia, Jingya Ch
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-22358/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-22358/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_22358,
+  title = {{Magentic-UI: Towards Human-in-the-loop Agentic Systems}},
+  author = {{Hussein Mozannar} and {Gagan Bansal} and {Cheng Tan} and {Adam Fourney} and {Victor Dibia} and {Jingya Chen} and {Jack Gerrits} and {Tyler Payne} and {Matheus Kunzler Maldaner} and {Madeleine Grunde-McLaughlin} and {Eric Zhu} and {Griffin Bassman} and {Jacob Alber} and {Peter Chang} and {Ricky Loynd} and {Friederike Niedtner} and {Ece Kamar} and {Maya Murad} and {Rafah Hosn} and {Saleema Amershi}},
+  year = {2025},
+  eprint = {2507.22358v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.22358v1},
+  note = {First published: 2025-07-30; Recorded arXiv version: v1; Recorded version updated: 2025-07-30T03:49:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

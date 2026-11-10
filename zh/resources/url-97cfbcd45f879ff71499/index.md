@@ -1,3 +1,11 @@
+---
+title: "GLM-4.5V · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-97cfbcd45f879ff71499/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GLM-4.5V
 
 这是一个已发布的视觉语言模型，文档将屏幕读取、图标识别、视觉元素定位和桌面操作辅助列为其支持的任务。

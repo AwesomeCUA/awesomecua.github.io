@@ -1,3 +1,11 @@
+---
+title: "RISK: A Framework for GUI Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-21982/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # RISK: A Framework for GUI Agents in E-commerce Risk Management
 
 RISK combines browser-interaction training data, a benchmark, and reinforcement fine-tuning for e-commerce risk-management workflows. Its trajectories and rewards distinguish individual actions from multi-step stateful tasks involving deeply embedded web content.
@@ -26,6 +34,18 @@ Renqi Chen, Zeyin Tao, Jianming Guo, Jingzhe Zhu, Yiheng Peng, Qingqing Sun, Tia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-21982/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-21982/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21982,
+  title = {{RISK: A Framework for GUI Agents in E-commerce Risk Management}},
+  author = {{Renqi Chen} and {Zeyin Tao} and {Jianming Guo} and {Jingzhe Zhu} and {Yiheng Peng} and {Qingqing Sun} and {Tianyi Zhang} and {Shuai Chen}},
+  year = {2025},
+  eprint = {2509.21982v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21982v2},
+  note = {First published: 2025-09-26; Recorded arXiv version: v2; Recorded version updated: 2026-04-13T03:14:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

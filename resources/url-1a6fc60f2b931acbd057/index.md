@@ -1,3 +1,11 @@
+---
+title: "GT-r1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1a6fc60f2b931acbd057/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # GT-r1
 
 A GUI defect detection model trained with VLM-R1 reinforcement learning that inspects an app screenshot and labels it as a content display error, UI layout issue, missing UI element or no defect.

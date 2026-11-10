@@ -1,3 +1,11 @@
+---
+title: "WebOperator Experiments | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mahirlabibdihan-weboperator-experiments/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # WebOperator Experiments
 
 Browsable viewers show WebOperator task trajectories for WebArena and WebArena-lite, with screenshots loaded from a linked Hugging Face dataset.

@@ -1,3 +1,11 @@
+---
+title: "naive-user | AwesomeCUA"
+url: https://awesomecua.com/resources/github-techgardencode-naive-user/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # naive-user
 
 Source-blind browser agent that explores live web applications as a first-time user to uncover UX friction and broken flows.

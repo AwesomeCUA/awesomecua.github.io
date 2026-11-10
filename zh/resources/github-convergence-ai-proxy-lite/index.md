@@ -1,3 +1,11 @@
+---
+title: "Proxy Lite · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-convergence-ai-proxy-lite/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # Proxy Lite
 
 Convergence AI 的开放权重网页智能体执行器：Playwright Chromium 循环将带标注的截图和编号元素列表发送给 proxy-lite-3b，并执行其点击、输入、滚动及浏览工具调用。

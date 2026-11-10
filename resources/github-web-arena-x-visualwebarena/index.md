@@ -1,3 +1,11 @@
+---
+title: "VisualWebArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # VisualWebArena
 
 Visually grounded web tasks extending the WebArena evaluation setting.

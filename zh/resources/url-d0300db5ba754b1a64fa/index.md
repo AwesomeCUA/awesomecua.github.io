@@ -1,3 +1,11 @@
+---
+title: "GUI-CIDER causal knowledge data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d0300db5ba754b1a64fa/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # GUI-CIDER causal knowledge data
 
 已发布的 JSONL 语料，包含为 GUI 智能体中期训练合成的规划与因果知识，由 GUI-CIDER 官方项目直接提供链接。

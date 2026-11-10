@@ -1,3 +1,11 @@
+---
+title: "WebMarker · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reidbarber-webmarker/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # WebMarker
 
 浏览器库，为交互元素及其边界框添加标签以支持视觉提示，并保留元素映射，供自动化代码执行选定操作。

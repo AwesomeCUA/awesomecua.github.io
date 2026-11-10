@@ -1,3 +1,11 @@
+---
+title: "Autonomous Large Language Model Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-08649/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing
 
 DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.
@@ -26,6 +34,18 @@ Juyeon Yoon, Robert Feldt, Shin Yoo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-08649/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-08649/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_08649,
+  title = {{Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing}},
+  author = {{Juyeon Yoon} and {Robert Feldt} and {Shin Yoo}},
+  year = {2023},
+  eprint = {2311.08649v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.08649v1},
+  note = {First published: 2023-11-15; Recorded arXiv version: v1; Recorded version updated: 2023-11-15T01:59:40Z.}
+}
+```
 
 ## Publication record
 

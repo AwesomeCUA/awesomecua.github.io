@@ -1,3 +1,11 @@
+---
+title: "PowerInfer-2: Fast Large Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-06282/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PowerInfer-2: Fast Large Language Model Inference on a Smartphone
 
 Status: excluded from the active CUA catalog after scope review.

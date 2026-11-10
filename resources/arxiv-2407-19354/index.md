@@ -1,3 +1,11 @@
+---
+title: "The Emerged Security and Privacy of LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-19354/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
 
 Bibliographic record for The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Feng He, Tianqing Zhu, Dayong Ye, Bo Liu, Wanlei Zhou, Philip S. Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-19354/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-19354/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_19354,
+  title = {{The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies}},
+  author = {{Feng He} and {Tianqing Zhu} and {Dayong Ye} and {Bo Liu} and {Wanlei Zhou} and {Philip S. Yu}},
+  year = {2024},
+  eprint = {2407.19354v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.19354v2},
+  note = {First published: 2024-07-28; Recorded arXiv version: v2; Recorded version updated: 2025-11-02T06:38:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

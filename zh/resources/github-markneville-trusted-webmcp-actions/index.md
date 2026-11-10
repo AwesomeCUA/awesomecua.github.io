@@ -1,3 +1,11 @@
+---
+title: "Trusted WebMCP Actions · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-markneville-trusted-webmcp-actions/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Trusted WebMCP Actions
 
 参考架构，用于在有重大后果的 WebMCP 浏览器智能体动作中，以密码学方式验证用户授权。

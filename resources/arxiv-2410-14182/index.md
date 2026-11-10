@@ -1,3 +1,11 @@
+---
+title: "LabSafety Bench: Benchmarking LLMs on Safety… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-14182/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs
 
 Bibliographic record for LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yujun Zhou, Jingdong Yang, Yue Huang, Kehan Guo, Zoe Emory, Bikram Ghosh, Amita 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-14182/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-14182/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_14182,
+  title = {{LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs}},
+  author = {{Yujun Zhou} and {Jingdong Yang} and {Yue Huang} and {Kehan Guo} and {Zoe Emory} and {Bikram Ghosh} and {Amita Bedar} and {Sujay Shekar} and {Zhenwen Liang} and {Pin-Yu Chen} and {Tian Gao} and {Werner Geyer} and {Nuno Moniz} and {Nitesh V Chawla} and {Xiangliang Zhang}},
+  year = {2024},
+  eprint = {2410.14182v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.14182v4},
+  note = {First published: 2024-10-18; Recorded arXiv version: v4; Recorded version updated: 2026-02-12T17:29:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

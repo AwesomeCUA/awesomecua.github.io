@@ -1,3 +1,11 @@
+---
+title: "Dex | AwesomeCUA"
+url: https://awesomecua.com/resources/url-76f0ba33cddbb348ea01/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Dex
 
 ThirdLayer's Chrome extension that keeps an operational memory of a user's work tools and runs agents that navigate tabs and fill forms in the browser, alongside Gmail, Slack and CRM integrations.

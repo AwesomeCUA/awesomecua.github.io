@@ -1,3 +1,11 @@
+---
+title: "Dynamical topological quantum computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1406-7631/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Dynamical topological quantum computation using spin pulse control in the Heisenberg model
 
 Status: excluded from the active CUA catalog after scope review.

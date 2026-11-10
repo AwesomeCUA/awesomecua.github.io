@@ -1,3 +1,11 @@
+---
+title: "DouGao (豆糕) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hulubo2014-dougao/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DouGao (豆糕)
 
 DouGao 是在设备端运行的 Android AI 助手，结合通过 Accessibility、Shizuku 和 Root 通道进行的 VLM 屏幕控制与直接文件编辑。

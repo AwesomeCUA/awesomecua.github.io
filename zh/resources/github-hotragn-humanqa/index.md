@@ -1,3 +1,11 @@
+---
+title: "HumanQA · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hotragn-humanqa/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # HumanQA
 
 以证据为先的产品质量与 UX 评测测试框架，用于通过浏览器智能体测试网页应用。

@@ -1,3 +1,11 @@
+---
+title: "Claude Fable 5.1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e0f1ebb59adf2f6c500c/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Claude Fable 5.1
 
 Claude Fable 5.1 is a hosted model offering whose agent uses include operating a browser; its product page also discusses evaluation on OSWorld 2.0.

@@ -1,3 +1,11 @@
+---
+title: "Unraid Camofox Stealth Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mircoblitz-unraid-camofox-stealth-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Unraid Camofox Stealth Browser
 
 Unraid container template and Agent Skill for hosting a private Camofox anti-detect browser node for AI agents.

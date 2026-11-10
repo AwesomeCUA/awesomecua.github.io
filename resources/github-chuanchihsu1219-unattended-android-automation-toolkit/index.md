@@ -1,3 +1,11 @@
+---
+title: "Unattended Android Automation Toolkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Unattended Android Automation Toolkit
 
 Reliability-first building blocks for unattended Android app automation, crash recovery, and UI state collection.

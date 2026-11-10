@@ -1,3 +1,11 @@
+---
+title: "GTA: Generating Long-Horizon Tasks for Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29218/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GTA: Generating Long-Horizon Tasks for Web Agents at Scale
 
 GTA generates multi-hop web-agent tasks and executable trajectories through crawling, retrieval, and validation, releasing a benchmark built from over 50 websites.
@@ -26,6 +34,18 @@ Tenghao Huang, Kung-Hsiang Huang, Prafulla Kumar Choubey, Yilun Zhou, Muhao Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-29218/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-29218/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29218,
+  title = {{GTA: Generating Long-Horizon Tasks for Web Agents at Scale}},
+  author = {{Tenghao Huang} and {Kung-Hsiang Huang} and {Prafulla Kumar Choubey} and {Yilun Zhou} and {Muhao Chen} and {Jonathan May} and {Chien-Sheng Wu}},
+  year = {2026},
+  eprint = {2605.29218v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29218v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T01:05:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

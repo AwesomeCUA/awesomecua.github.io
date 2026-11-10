@@ -1,3 +1,11 @@
+---
+title: "Mobile3M | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # Mobile3M
 
 Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.

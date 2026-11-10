@@ -1,3 +1,11 @@
+---
+title: "VisInteract: Towards Dynamic Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15182/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries
 
 Bibliographic record for VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenxin Xu, Jinwei Lu, Hwanhee Kim, Chen Jason Zhang, Xiao-Yong Wei, Haoyang Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15182/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15182/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15182,
+  title = {{VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries}},
+  author = {{Wenxin Xu} and {Jinwei Lu} and {Hwanhee Kim} and {Chen Jason Zhang} and {Xiao-Yong Wei} and {Haoyang Li} and {Yuanfeng Song}},
+  year = {2026},
+  eprint = {2609.15182v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15182v1},
+  note = {First published: 2026-09-14; Recorded arXiv version: v1; Recorded version updated: 2026-09-14T08:03:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

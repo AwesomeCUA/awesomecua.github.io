@@ -1,3 +1,11 @@
+---
+title: "Everything Maa | AwesomeCUA"
+url: https://awesomecua.com/resources/github-khazixw2-everything-maa/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Everything Maa
 
 A set of 13 AI skills and MCP profiles for Claude Code and Codex that build, edit, test and diagnose MaaFramework automation projects and run device and Pipeline operations through maafw-cli.

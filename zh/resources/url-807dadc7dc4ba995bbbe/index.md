@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 4B WA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-807dadc7dc4ba995bbbe/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 4B WA
 
 面向 WebArena 的 InternVL2-4B 检查点，基于 OS-Genesis 逆向任务合成生成的网页轨迹训练，从指令、历史和页面预测下一步思考与操作。

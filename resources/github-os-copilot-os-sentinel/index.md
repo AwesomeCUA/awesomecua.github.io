@@ -1,3 +1,11 @@
+---
+title: "OS-Sentinel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-os-copilot-os-sentinel/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # OS-Sentinel
 
 Safety-checking environment and benchmark for mobile agents on AndroidWorld that judges proposed actions with rule-based and VLM-based checks, evaluated on the MobileRisk trajectory dataset.

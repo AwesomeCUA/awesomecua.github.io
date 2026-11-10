@@ -1,3 +1,11 @@
+---
+title: "Learning Reliable GUI Agents under… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-39547/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learning Reliable GUI Agents under Imperfect Priors
 
 该方法结合结构化 GUI 探索与可容忍检索经验缺陷的训练：构建状态转移图和合成任务轨迹，再注入贴近实际的界面变化，让智能体学习何时采纳或拒绝先前指导。
@@ -27,6 +35,18 @@ Bo Han, Qianyi Wang, Shuai Liu, Xiong Zifan, Changqiao Wu, Yuanfa Li, Pengzhi Ga
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-39547/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-39547/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39547,
+  title = {{Learning Reliable GUI Agents under Imperfect Priors}},
+  author = {{Bo Han} and {Qianyi Wang} and {Shuai Liu} and {Xiong Zifan} and {Changqiao Wu} and {Yuanfa Li} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Heng Qu} and {Yunpeng Song} and {Zhongmin Cai}},
+  year = {2026},
+  eprint = {2609.39547v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39547v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T11:45:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

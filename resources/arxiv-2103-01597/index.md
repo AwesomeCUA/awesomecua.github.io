@@ -1,3 +1,11 @@
+---
+title: "Scalable communication for high-order stencil… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2103-01597/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scalable communication for high-order stencil computations using CUDA-aware MPI
 
 Status: excluded from the active CUA catalog after scope review.

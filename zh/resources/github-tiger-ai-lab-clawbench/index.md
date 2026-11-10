@@ -1,3 +1,11 @@
+---
+title: "ClawBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tiger-ai-lab-clawbench/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # ClawBench
 
 真实网站上的日常任务基准，让浏览器智能体在容器化 Chromium 中运行，拦截每次最终提交请求并通过 URL 匹配和 LLM 裁判评分，同时记录 5 层运行证据。

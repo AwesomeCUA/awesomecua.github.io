@@ -1,3 +1,11 @@
+---
+title: "jarvis-eyes-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harshil1502-jarvis-eyes-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # jarvis-eyes-mcp
 
 macOS 原生 Model Context Protocol 服务器，结合 Accessibility 树提取和截图，实现低延迟桌面感知。

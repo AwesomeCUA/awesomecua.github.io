@@ -1,3 +1,11 @@
+---
+title: "Towards Diverse Behaviors: A Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-14606/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations
 
 Status: excluded from the active CUA catalog after scope review.

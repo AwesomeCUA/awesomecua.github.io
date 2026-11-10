@@ -1,3 +1,11 @@
+---
+title: "GUI-Lasagne L1 · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0c5659ca9e59d942aea3/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Lasagne L1
 
 用于 SpiritSight 的已发布 GUI-Lasagne 训练数据集，以按日期划分的归档分片形式分发，供视觉界面学习使用。

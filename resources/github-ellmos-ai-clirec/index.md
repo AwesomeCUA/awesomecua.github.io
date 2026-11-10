@@ -1,3 +1,11 @@
+---
+title: "clirec | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ellmos-ai-clirec/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # clirec
 
 Records human GUI demonstrations into human-readable, diffable CLI transcripts for training and prompting computer-use agents.

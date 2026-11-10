@@ -1,3 +1,11 @@
+---
+title: "nodriver-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saber-cc-nodriver-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # nodriver-mcp
 
 A Python MCP server that gives agents Chromium controls for page interaction, screenshots, cookies, network inspection and CDP commands.

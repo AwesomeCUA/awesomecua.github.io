@@ -1,3 +1,11 @@
+---
+title: "UI-TARS 7B DPO | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a8b43a1f2bebd998f612/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # UI-TARS 7B DPO
 
 DPO-labelled 7B UI-TARS checkpoint that its card marks as recommended: a native GUI agent model in the Qwen2-VL architecture for screen perception, element grounding and multi-step actions on web, mobile and desktop.

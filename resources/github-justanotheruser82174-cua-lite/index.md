@@ -1,3 +1,11 @@
+---
+title: "cua-lite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-justanotheruser82174-cua-lite/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # cua-lite
 
 cua-lite is a cross-platform desktop application and harness for running, evaluating, and fine-tuning computer-use agents.

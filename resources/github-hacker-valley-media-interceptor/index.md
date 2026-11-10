@@ -1,3 +1,11 @@
+---
+title: "Interceptor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hacker-valley-media-interceptor/
+updated: 2026-10-19
+type: tool
+lang: en
+---
+
 # Interceptor
 
 CLI and MCP server that lets agents operate the user's signed-in Chrome, Brave or Safari, native apps via accessibility on macOS, Windows and Linux, and a physical iPhone through an XCUITest runner.

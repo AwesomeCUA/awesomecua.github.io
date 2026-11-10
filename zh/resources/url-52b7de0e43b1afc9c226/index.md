@@ -1,3 +1,11 @@
+---
+title: "SpiritSight-Agent 8B base · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-52b7de0e43b1afc9c226/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # SpiritSight-Agent 8B base
 
 基于 InternVL2 的视觉 GUI 检查点，供定位和界面导航使用；发布方建议对基础版本进行针对任务的微调。

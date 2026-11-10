@@ -1,3 +1,11 @@
+---
+title: "openadapt-evals | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # openadapt-evals
 
 openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.

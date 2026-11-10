@@ -1,3 +1,11 @@
+---
+title: "Dockur Windows · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dockur-windows/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Dockur Windows
 
 Dockur Windows 在 Docker/KVM 容器中运行完整的 Windows 桌面环境，并支持网页 VNC 查看器，可用于智能体沙箱。

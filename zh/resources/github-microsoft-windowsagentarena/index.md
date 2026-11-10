@@ -1,3 +1,11 @@
+---
+title: "Windows Agent Arena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-windowsagentarena/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # Windows Agent Arena
 
 面向多模态桌面智能体的 Windows 11 基准，在可复现的虚拟机中本地运行或通过 Azure ML 并行运行；更难的模式要求智能体自行设置任务。

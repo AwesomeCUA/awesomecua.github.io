@@ -1,3 +1,11 @@
+---
+title: "Agentrooms · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-baryhuang-claude-code-by-agents/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agentrooms
 
 Agentrooms 是原生 macOS 和 iOS 应用，用于在共享的多智能体工作空间中协调多个本地和远程编码智能体。

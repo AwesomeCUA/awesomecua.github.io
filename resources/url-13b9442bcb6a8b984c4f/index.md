@@ -1,3 +1,11 @@
+---
+title: "WebUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # WebUI
 
 Web screenshot and interface data for UI research.

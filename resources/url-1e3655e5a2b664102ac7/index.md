@@ -1,3 +1,11 @@
+---
+title: "InternVL3-9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3-9B
 
 A released multimodal checkpoint whose training includes GUI operations and whose card documents GUI grounding alongside broader visual and language tasks.

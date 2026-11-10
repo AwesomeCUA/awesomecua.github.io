@@ -1,3 +1,11 @@
+---
+title: "Worldline | AwesomeCUA"
+url: https://awesomecua.com/resources/github-artemyx-datascientist-worldline/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Worldline
 
 Modular, user-controlled AI browser kernel for structured web parsing, navigation, and workflow automation.

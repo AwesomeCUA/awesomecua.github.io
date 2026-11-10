@@ -1,3 +1,11 @@
+---
+title: "Resolvr TypeScript SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-resolvrlabs-resolvr-typescript/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Resolvr TypeScript SDK
 
 Official TypeScript SDK for the Resolvr anti-bot challenge-solving API in browser automation pipelines.

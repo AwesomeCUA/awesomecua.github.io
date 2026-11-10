@@ -1,3 +1,11 @@
+---
+title: "A generic new platform for topological… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0907-2239/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A generic new platform for topological quantum computation using semiconductor heterostructures
 
 Status: excluded from the active CUA catalog after scope review.

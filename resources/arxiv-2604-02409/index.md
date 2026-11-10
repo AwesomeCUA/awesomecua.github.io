@@ -1,3 +1,11 @@
+---
+title: "LumiVideo: An Intelligent Agentic System for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-02409/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LumiVideo: An Intelligent Agentic System for Video Color Grading
 
 Bibliographic record for LumiVideo: An Intelligent Agentic System for Video Color Grading. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuchen Guo, Junli Gong, Hongmin Cai, Yiu-ming Cheung, Weifeng Su
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-02409/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-02409/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_02409,
+  title = {{LumiVideo: An Intelligent Agentic System for Video Color Grading}},
+  author = {{Yuchen Guo} and {Junli Gong} and {Hongmin Cai} and {Yiu-ming Cheung} and {Weifeng Su}},
+  year = {2026},
+  eprint = {2604.02409v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.02409v1},
+  note = {First published: 2026-04-02; Recorded arXiv version: v1; Recorded version updated: 2026-04-02T17:58:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

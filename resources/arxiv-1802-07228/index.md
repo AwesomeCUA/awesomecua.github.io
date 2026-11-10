@@ -1,3 +1,11 @@
+---
+title: "The Malicious Use of Artificial Intelligence… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1802-07228/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation
 
 Bibliographic record for The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Miles Brundage, Shahar Avin, Jack Clark, Helen Toner, Peter Eckersley, Ben Garfi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1802-07228/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1802-07228/citation.csl.json
+
+```bibtex
+@misc{arxiv_1802_07228,
+  title = {{The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation}},
+  author = {{Miles Brundage} and {Shahar Avin} and {Jack Clark} and {Helen Toner} and {Peter Eckersley} and {Ben Garfinkel} and {Allan Dafoe} and {Paul Scharre} and {Thomas Zeitzoff} and {Bobby Filar} and {Hyrum Anderson} and {Heather Roff} and {Gregory C. Allen} and {Jacob Steinhardt} and {Carrick Flynn} and {Seán Ó hÉigeartaigh} and {SJ Beard} and {Haydn Belfield} and {Sebastian Farquhar} and {Clare Lyle} and {Rebecca Crootof} and {Owain Evans} and {Michael Page} and {Joanna Bryson} and {Roman Yampolskiy} and {Dario Amodei}},
+  year = {2018},
+  eprint = {1802.07228v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1802.07228v2},
+  note = {First published: 2018-02-20; Recorded arXiv version: v2; Recorded version updated: 2024-12-01T17:59:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

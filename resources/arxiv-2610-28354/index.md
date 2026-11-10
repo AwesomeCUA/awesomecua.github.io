@@ -1,3 +1,11 @@
+---
+title: "S-Agent 2.0: Spatial Reasoning with a General… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-28354/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # S-Agent 2.0: Spatial Reasoning with a General Coding Agent
 
 Bibliographic record for S-Agent 2.0: Spatial Reasoning with a General Coding Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Rui Gong, Ruoyu Wang, Yalun Dai, Hao Li, Sidi Yang, Qihao Zhao, Hongyu Li, Zeyan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-28354/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-28354/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_28354,
+  title = {{S-Agent 2.0: Spatial Reasoning with a General Coding Agent}},
+  author = {{Rui Gong} and {Ruoyu Wang} and {Yalun Dai} and {Hao Li} and {Sidi Yang} and {Qihao Zhao} and {Hongyu Li} and {Zeyang Guan} and {Fangzhou Hong} and {Zhaoxi Chen} and {Kim-Hui Yap} and {Ziwei Liu}},
+  year = {2026},
+  eprint = {2610.28354v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.28354v1},
+  note = {First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T15:20:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

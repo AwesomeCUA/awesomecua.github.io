@@ -1,3 +1,11 @@
+---
+title: "Ocular | AwesomeCUA"
+url: https://awesomecua.com/resources/github-guatxlabs-ocular/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ocular
 
 Hardened web capture and hostile-HTML analysis engine with anti-bot reconnaissance for browser agents.

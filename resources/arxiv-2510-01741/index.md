@@ -1,3 +1,11 @@
+---
+title: "Multi-scale friction coefficient: From… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-01741/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-scale friction coefficient: From roughness to system computation using deep learning
 
 Status: excluded from the active CUA catalog after scope review.

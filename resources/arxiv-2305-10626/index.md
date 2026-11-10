@@ -1,3 +1,11 @@
+---
+title: "Language Models Meet World Models: Embodied… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-10626/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Language Models Meet World Models: Embodied Experiences Enhance Language Models
 
 Bibliographic record for Language Models Meet World Models: Embodied Experiences Enhance Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiannan Xiang, Tianhua Tao, Yi Gu, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-10626/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-10626/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_10626,
+  title = {{Language Models Meet World Models: Embodied Experiences Enhance Language Models}},
+  author = {{Jiannan Xiang} and {Tianhua Tao} and {Yi Gu} and {Tianmin Shu} and {Zirui Wang} and {Zichao Yang} and {Zhiting Hu}},
+  year = {2023},
+  eprint = {2305.10626v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.10626v3},
+  note = {First published: 2023-05-18; Recorded arXiv version: v3; Recorded version updated: 2023-10-28T17:55:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

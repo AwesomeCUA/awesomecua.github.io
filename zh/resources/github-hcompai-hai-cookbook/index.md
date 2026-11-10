@@ -1,3 +1,11 @@
+---
+title: "H.AI cookbook · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hcompai-hai-cookbook/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # H.AI cookbook
 
 H.AI cookbook 提供 Holo 模型的部署指南与示例笔记，并介绍如何调用其网页导航和界面定位能力。

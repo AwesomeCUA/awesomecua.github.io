@@ -1,10 +1,17 @@
+---
+title: "Automation — computer-use research, page 11 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/11/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 11
 
 HTML page: https://awesomecua.com/topics/automation/page/11/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [DarwinRelay](https://awesomecua.com/resources/github-dcierra-darwinrelay/)
 - [dassi](https://awesomecua.com/resources/url-040e17448d9d190b3c14/)
 - [dcc-cua](https://awesomecua.com/resources/github-dcc-mcp-dcc-cua/)
 - [dcc123456 Browser Copilot](https://awesomecua.com/resources/github-dcc123456-browser-copilot/)
@@ -30,7 +37,6 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [desktop-hub](https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/)
 - [desktop-touch-mcp](https://awesomecua.com/resources/github-harusame64-desktop-touch-mcp/)
 - [DesktopAgent (.NET 9)](https://awesomecua.com/resources/github-alessiobianchini-desktopagent/)
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/)
 - [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/)
 - [DeskVNC](https://awesomecua.com/resources/github-psmux-deskvnc/)
 - [deskwork](https://awesomecua.com/resources/github-ashnkumar-deskwork/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [DSH Browser Control](https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/)
 - [dsh Browser Control](https://awesomecua.com/resources/github-lum1104-dsh-browser/)
 - [DSH Desktop Operator](https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/)
+- [DSH Deskwork](https://awesomecua.com/resources/github-guomonth-dsh-deskwork/)
+- [DSH iOS Simulator](https://awesomecua.com/resources/github-zseven-w-dsh-ios/)

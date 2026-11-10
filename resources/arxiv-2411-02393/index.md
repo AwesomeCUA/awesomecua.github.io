@@ -1,3 +1,11 @@
+---
+title: "Adaptive Length Image Tokenization via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-02393/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Adaptive Length Image Tokenization via Recurrent Allocation
 
 Status: excluded from the active CUA catalog after scope review.

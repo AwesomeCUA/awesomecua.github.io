@@ -1,3 +1,11 @@
+---
+title: "CODA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openixclab-coda/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CODA
 
 CODA 通过在 ScienceBoard 上进行解耦式强化学习，协调可训练的规划器“Cerebrum”和具备 GUI 定位能力的执行器“Cerebellum”。

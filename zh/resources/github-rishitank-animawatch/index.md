@@ -1,3 +1,11 @@
+---
+title: "AnimaWatch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rishitank-animawatch/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AnimaWatch
 
 FastMCP 服务器，录制网页动画并使用视觉模型检测掉帧、卡顿和视觉布局异常。

@@ -1,3 +1,11 @@
+---
+title: "GUI-RC / GUI-RCPO · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zju-real-gui-rcpo/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # GUI-RC / GUI-RCPO
 
 GUI 定位研究代码，支持对采样预测进行空间投票，并利用区域一致性奖励在测试时优化策略。

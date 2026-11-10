@@ -1,3 +1,11 @@
+---
+title: "3Dify: a Framework for Procedural 3D-CG… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-04536/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # 3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG
 
 提出 3Dify，通过自然语言生成 3D 图形；它借助 MCP 操作内容创作工具，并在工具不支持 MCP 时由计算机使用智能体执行 GUI 操作。
@@ -27,6 +35,18 @@ Shun-ichiro Hayashi, Daichi Mukunoki, Tetsuya Hoshino, Satoshi Ohshima, Takahiro
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-04536/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-04536/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04536,
+  title = {{3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG}},
+  author = {{Shun-ichiro Hayashi} and {Daichi Mukunoki} and {Tetsuya Hoshino} and {Satoshi Ohshima} and {Takahiro Katagiri}},
+  year = {2025},
+  eprint = {2510.04536v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04536v1},
+  note = {First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T07:00:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

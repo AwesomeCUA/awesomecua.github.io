@@ -1,3 +1,11 @@
+---
+title: "UnknownCaz firefox-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-unknowncaz-firefox-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UnknownCaz firefox-mcp
 
 通过原生 WebDriver BiDi 连接的仅附加式 Firefox MCP 服务器，设有用户确认门控。

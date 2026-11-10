@@ -1,3 +1,11 @@
+---
+title: "Ommatix | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yosoyepa-ommatix/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ommatix
 
 Ommatix is an incremental spatial-indexing perception engine that tracks stable UI element IDs and state diffs across desktop frames.

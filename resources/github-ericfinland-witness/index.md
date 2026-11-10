@@ -1,3 +1,11 @@
+---
+title: "Witness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ericfinland-witness/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Witness
 
 Local-first observability and execution trace recorder for AI browser agents.

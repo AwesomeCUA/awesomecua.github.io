@@ -1,3 +1,11 @@
+---
+title: "StepX-Edge: An On-Device UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-22708/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # StepX-Edge: An On-Device UI Vision-Language Model via Architecture-Training-Deployment Co-Design
 
 提出面向移动芯片的端侧 UI 视觉语言模型 StepX-Edge，用于屏幕理解、OCR、问答和界面元素定位。
@@ -27,6 +35,18 @@ Yin Wang, Haotian Hu, Jineng Han, Wentao Qiu, Zhenhua Ge, Liujian Tang, Fanyi Wa
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-22708/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-22708/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_22708,
+  title = {{StepX-Edge: An On-Device UI Vision-Language Model via Architecture-Training-Deployment Co-Design}},
+  author = {{Yin Wang} and {Haotian Hu} and {Jineng Han} and {Wentao Qiu} and {Zhenhua Ge} and {Liujian Tang} and {Fanyi Wang}},
+  year = {2026},
+  eprint = {2607.22708v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.22708v1},
+  note = {First published: 2026-07-20; Recorded arXiv version: v1; Recorded version updated: 2026-07-20T14:14:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

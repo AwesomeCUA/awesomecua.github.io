@@ -1,3 +1,11 @@
+---
+title: "Terminator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mediar-ai-terminator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Terminator
 
 Terminator is an accessibility-first desktop automation SDK and MCP server for controlling Windows, macOS, and Linux GUI applications.

@@ -1,3 +1,11 @@
+---
+title: "Data Formulator: AI-powered Concept-driven… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-10094/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Data Formulator: AI-powered Concept-driven Visualization Authoring
 
 Status: excluded from the active CUA catalog after scope review.

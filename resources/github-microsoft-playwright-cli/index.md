@@ -1,3 +1,11 @@
+---
+title: "Playwright CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-playwright-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Playwright CLI
 
 Playwright CLI provides a token-efficient command-line interface and skill set for coding and computer-use agents to automate web browsers.

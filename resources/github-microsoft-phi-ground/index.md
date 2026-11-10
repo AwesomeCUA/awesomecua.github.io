@@ -1,3 +1,11 @@
+---
+title: "Phi-Ground | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-phi-ground/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Phi-Ground
 
 Microsoft GUI grounding models from an empirical study of grounding training, from data collection to model training, released as Phi-Ground-4B-7C with evaluation code.

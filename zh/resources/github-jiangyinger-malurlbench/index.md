@@ -1,3 +1,11 @@
+---
+title: "MalURLBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jiangyinger-malurlbench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # MalURLBench
 
 MalURLBench 在 10 个真实网页场景中，评测基于 LLM 的网页智能体遭受网络钓鱼和恶意 URL 攻击时的脆弱性。

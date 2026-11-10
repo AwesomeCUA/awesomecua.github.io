@@ -1,3 +1,11 @@
+---
+title: "WorkArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-servicenow-workarena/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # WorkArena
 
 Browser-based enterprise workflow tasks built around ServiceNow.

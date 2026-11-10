@@ -1,3 +1,11 @@
+---
+title: "Codex Chrome Browser Control Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qlk-x-codex-chrome-browser-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex Chrome Browser Control Skill
 
 本地优先的 OpenAI Codex 技能和 Chrome 扩展，用于安全地控制用户指定范围内的浏览器标签页。

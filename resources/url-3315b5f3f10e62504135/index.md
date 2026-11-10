@@ -1,3 +1,11 @@
+---
+title: "webagent.cloud | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3315b5f3f10e62504135/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # webagent.cloud
 
 Hosted browser-agent service that carries out web tasks from natural-language prompts, billed per second of execution, with a REST API, Make, n8n and Zapier integrations and a self-hostable open-source version.

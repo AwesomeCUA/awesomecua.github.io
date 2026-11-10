@@ -1,3 +1,11 @@
+---
+title: "The Trinity: Capability-Driven Recursive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36077/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents
 
 Bibliographic record for The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36077/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36077/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36077,
+  title = {{The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents}},
+  author = {{Weidong Tang} and {Ruiheng Wang} and {Jingxuan Zhang} and {Hexin Wang} and {Haoyuan Chen} and {Zhengfeiyang Zhang} and {Yixing Ma} and {Zichen Jiang} and {Ziyu Guo} and {Haodong Li} and {Zhengbo Jiao} and {Zhiqing Cui} and {Xinxiang Yin} and {Shuo Liang} and {Zhenglin Wan} and {Hongzhan Lin} and {Wangbo Zhao} and {Kaipeng Zhang} and {Pengfei Zhou} and {Odin Zhang} and {Yang You}},
+  year = {2026},
+  eprint = {2610.36077v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36077v2},
+  note = {First published: 2026-10-26; Recorded arXiv version: v2; Recorded version updated: 2026-10-30T04:15:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

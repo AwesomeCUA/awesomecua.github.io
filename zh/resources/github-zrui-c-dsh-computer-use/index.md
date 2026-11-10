@@ -1,3 +1,11 @@
+---
+title: "ZRui-C DSH Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zrui-c-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ZRui-C DSH Computer Use
 
 适用于 DeepSeek Harness 的文本优先浏览器和后台 macOS 窗口控制插件。

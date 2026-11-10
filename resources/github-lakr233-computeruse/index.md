@@ -1,3 +1,11 @@
+---
+title: "ComputerUse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lakr233-computeruse/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ComputerUse
 
 ComputerUse is a Swift utility for macOS automation that controls keyboard and pointer input, captures screens, manages apps, and runs defined workflows.

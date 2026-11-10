@@ -1,3 +1,11 @@
+---
+title: "Awesome Reinforcement Learning for GUI… · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steve2457-awesome-rl-gui-agents/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Awesome Reinforcement Learning for GUI Agents
 
 GUI 智能体强化学习的精选资料列表，按学习方法、奖励与效率问题、数据集及训练环境整理相关研究。

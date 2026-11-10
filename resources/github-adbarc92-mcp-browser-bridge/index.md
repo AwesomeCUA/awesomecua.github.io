@@ -1,3 +1,11 @@
+---
+title: "Browser Bridge MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-adbarc92-mcp-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Bridge MCP
 
 MCP server giving AI assistants bounded control over a live Chrome browser through an 11-tool surface.

@@ -1,3 +1,11 @@
+---
+title: "Chrome Launcher | AwesomeCUA"
+url: https://awesomecua.com/resources/github-googlechrome-chrome-launcher/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Chrome Launcher
 
 Chrome Launcher is a Node.js module that finds and starts Chrome with a fresh profile, an open remote-debugging port and flags that quiet services for automated runs.

@@ -1,3 +1,11 @@
+---
+title: "PixelWeb | AwesomeCUA"
+url: https://awesomecua.com/resources/url-67ae69986d6408fde468/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # PixelWeb
 
 PixelWeb releases webpage screenshots, DOM data and element images with masks, contours and boxes in 1K, 10K and 100K collections.

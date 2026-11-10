@@ -1,3 +1,11 @@
+---
+title: "Orchard-Agentic · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # Orchard-Agentic
 
 Orchard-Agentic 收录 Orchard 环境服务、强化学习训练栈和评测代码，提供面向软件工程、网页导航和命令行智能体的训练方案，并索引后续项目。

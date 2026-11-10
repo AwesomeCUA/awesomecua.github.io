@@ -1,3 +1,11 @@
+---
+title: "migi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mikuh-migi/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # migi
 
 migi is a skill-oriented desktop GUI vision automation CLI for LLM agents with machine-readable JSON outputs and coordinate grounding.

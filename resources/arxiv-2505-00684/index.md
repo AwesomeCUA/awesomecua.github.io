@@ -1,3 +1,11 @@
+---
+title: "Visual Test-time Scaling for GUI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-00684/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Visual Test-time Scaling for GUI Agent Grounding
 
 RegionFocus adds visual test-time scaling by zooming into selected screenshot regions and maintaining an image-based map of landmarks and actions. It evaluates this grounding procedure with UI-TARS and Qwen2.5-VL on ScreenSpot-Pro and WebVoyager.
@@ -26,6 +34,18 @@ Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-00684/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-00684/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_00684,
+  title = {{Visual Test-time Scaling for GUI Agent Grounding}},
+  author = {{Tiange Luo} and {Lajanugen Logeswaran} and {Justin Johnson} and {Honglak Lee}},
+  year = {2025},
+  eprint = {2505.00684v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.00684v2},
+  note = {First published: 2025-05-01; Recorded arXiv version: v2; Recorded version updated: 2025-07-14T17:45:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

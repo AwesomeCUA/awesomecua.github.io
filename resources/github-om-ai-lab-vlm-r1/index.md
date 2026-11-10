@@ -1,3 +1,11 @@
+---
+title: "VLM-R1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-om-ai-lab-vlm-r1/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # VLM-R1
 
 VLM-R1 provides reinforcement learning code for vision-language models, including a GUI training example and a reported defect detection model for interface screens.

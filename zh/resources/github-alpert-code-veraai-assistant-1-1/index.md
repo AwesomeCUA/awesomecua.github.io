@@ -1,3 +1,11 @@
+---
+title: "Vera AI Assistant · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alpert-code-veraai-assistant-1-1/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Vera AI Assistant
 
 基于 PySide6 和 LLM 工具调用的土耳其语 Windows 桌面语音及 GUI 自动化助手。

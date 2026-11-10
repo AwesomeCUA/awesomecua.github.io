@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Python SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Scrapeless Python SDK
 
 The Scrapeless Python SDK creates managed browser sessions for Playwright and Pyppeteer, supports persistent profiles, and exposes web interaction and extraction services.

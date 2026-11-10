@@ -1,3 +1,11 @@
+---
+title: "DesktopAgentBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raghava00001-desktopagentbench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # DesktopAgentBench
 
 DesktopAgentBench is an agent-agnostic Windows benchmark evaluating desktop agent task reliability, recovery, and safety guardrails.

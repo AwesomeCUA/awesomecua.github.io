@@ -1,3 +1,11 @@
+---
+title: "TheAgentCompany | AwesomeCUA"
+url: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # TheAgentCompany
 
 Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.

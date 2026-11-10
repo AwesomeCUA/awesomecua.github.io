@@ -1,3 +1,11 @@
+---
+title: "Holo Model Family | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # Holo Model Family
 
 H computer-use model family and its release-specific access options.

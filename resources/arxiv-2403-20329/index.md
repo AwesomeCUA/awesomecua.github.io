@@ -1,3 +1,11 @@
+---
+title: "ReALM: Reference Resolution As Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-20329/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ReALM: Reference Resolution As Language Modeling
 
 Frames conversational and on-screen reference resolution as language modeling, allowing textual representations of screen entities to support user-reference interpretation. Evaluation separately examines on-screen references against an existing resolver and language-model baselines.
@@ -26,6 +34,18 @@ Joel Ruben Antony Moniz, Soundarya Krishnan, Melis Ozyildirim, Prathamesh Saraf,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-20329/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-20329/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_20329,
+  title = {{ReALM: Reference Resolution As Language Modeling}},
+  author = {{Joel Ruben Antony Moniz} and {Soundarya Krishnan} and {Melis Ozyildirim} and {Prathamesh Saraf} and {Halim Cagri Ates} and {Yuan Zhang} and {Hong Yu}},
+  year = {2024},
+  eprint = {2403.20329v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.20329v2},
+  note = {First published: 2024-03-29; Recorded arXiv version: v2; Recorded version updated: 2024-08-19T03:06:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

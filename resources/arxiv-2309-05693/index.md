@@ -1,3 +1,11 @@
+---
+title: "Near-Term Distributed Quantum Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-05693/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Near-Term Distributed Quantum Computation using Mean-Field Corrections and Auxiliary Qubits
 
 Status: excluded from the active CUA catalog after scope review.

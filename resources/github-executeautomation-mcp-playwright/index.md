@@ -1,3 +1,11 @@
+---
+title: "Playwright MCP Server (ExecuteAutomation) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-executeautomation-mcp-playwright/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # Playwright MCP Server (ExecuteAutomation)
 
 Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.

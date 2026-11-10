@@ -1,3 +1,11 @@
+---
+title: "Chrome Agent Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-escapewu-chrome-agent-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Chrome Agent Bridge
 
 一个本地 Chrome 扩展和 MCP 服务器将智能体连接到现有浏览器会话，用于检查网页、导航、执行界面操作和调试。

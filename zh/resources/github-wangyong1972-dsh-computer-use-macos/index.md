@@ -1,3 +1,11 @@
+---
+title: "wangyong1972 dsh-computer-use-macos · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wangyong1972-dsh-computer-use-macos/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # wangyong1972 dsh-computer-use-macos
 
 面向 DeepSeek Harness 的原生 macOS 计算机使用插件，支持可信窗口定位和无障碍功能集成。

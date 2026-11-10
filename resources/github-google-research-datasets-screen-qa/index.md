@@ -1,3 +1,11 @@
+---
+title: "ScreenQA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-datasets-screen-qa/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # ScreenQA
 
 About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.

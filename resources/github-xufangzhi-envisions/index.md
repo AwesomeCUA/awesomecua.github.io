@@ -1,3 +1,11 @@
+---
+title: "ENVISIONS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xufangzhi-envisions/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ENVISIONS
 
 ENVISIONS is an environment-guided neural-symbolic self-training framework for language agents across symbolic reasoning and WebShop tasks.

@@ -1,3 +1,11 @@
+---
+title: "Programming with Pixels: Can Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-18525/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Programming with Pixels: Can Computer-Use Agents do Software Engineering?
 
 Introduces a visual IDE environment and benchmark for software-engineering tasks, comparing screenshot-based control with access to editing and shell tools.
@@ -26,6 +34,18 @@ Pranjal Aggarwal, Sean Welleck
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-18525/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-18525/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_18525,
+  title = {{Programming with Pixels: Can Computer-Use Agents do Software Engineering?}},
+  author = {{Pranjal Aggarwal} and {Sean Welleck}},
+  year = {2025},
+  eprint = {2502.18525v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.18525v2},
+  note = {First published: 2025-02-24; Recorded arXiv version: v2; Recorded version updated: 2025-10-03T02:09:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

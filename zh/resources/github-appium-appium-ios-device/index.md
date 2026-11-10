@@ -1,3 +1,11 @@
+---
+title: "appium-ios-device · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium-ios-device/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # appium-ios-device
 
 一个已弃用的 Node.js 设备控制库，使 Appium 能与 iOS 设备通信，并访问设备服务和 XCTest。

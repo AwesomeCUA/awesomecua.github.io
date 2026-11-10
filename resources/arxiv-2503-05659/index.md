@@ -1,3 +1,11 @@
+---
+title: "A Survey of Large Language Model Empowered… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-05659/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval
 
 Bibliographic record for A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yu Zhang, Shutong Qiao, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, Yong Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-05659/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-05659/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_05659,
+  title = {{A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval}},
+  author = {{Yu Zhang} and {Shutong Qiao} and {Jiaqi Zhang} and {Tzu-Heng Lin} and {Chen Gao} and {Yong Li}},
+  year = {2025},
+  eprint = {2503.05659v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.05659v2},
+  note = {First published: 2025-03-07; Recorded arXiv version: v2; Recorded version updated: 2025-04-11T16:51:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

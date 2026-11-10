@@ -1,3 +1,11 @@
+---
+title: "GUI-C$^2$: Coarse-to-Fine GUI Grounding… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-30884/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # GUI-C$^2$: Coarse-to-Fine GUI Grounding via Difficulty-Aware Reinforcement Learning
 
 提出 GUI-D，为训练样本评估难度；并提出 GUI-C²，通过区域门控裁剪和强化学习逐步定位屏幕元素。
@@ -27,6 +35,18 @@ Junlong Li, Chao Hao, Lap-Pui Chau, Yi Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-30884/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-30884/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_30884,
+  title = {{GUI-C\$\textasciicircum{}2\$: Coarse-to-Fine GUI Grounding via Difficulty-Aware Reinforcement Learning}},
+  author = {{Junlong Li} and {Chao Hao} and {Lap-Pui Chau} and {Yi Wang}},
+  year = {2026},
+  eprint = {2605.30884v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.30884v1},
+  note = {First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T06:17:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

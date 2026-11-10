@@ -1,3 +1,11 @@
+---
+title: "HumanHands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thispc-humanhands/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # HumanHands
 
 macOS computer-use agent that combines Accessibility-tree semantics with visual fallback to operate Mac apps like a human.

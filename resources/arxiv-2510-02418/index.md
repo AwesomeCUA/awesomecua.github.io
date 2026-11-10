@@ -1,3 +1,11 @@
+---
+title: "BrowserArena: Evaluating LLM Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-02418/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks
 
 Introduces BrowserArena, a live-web platform for head-to-head agent comparisons on user-submitted tasks. Step-level human annotations support targeted analysis of navigation, pop-up handling and CAPTCHA-related failures.
@@ -26,6 +34,18 @@ Sagnik Anupam, Davis Brown, Shuo Li, Eric Wong, Hamed Hassani, Osbert Bastani
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-02418/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-02418/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_02418,
+  title = {{BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks}},
+  author = {{Sagnik Anupam} and {Davis Brown} and {Shuo Li} and {Eric Wong} and {Hamed Hassani} and {Osbert Bastani}},
+  year = {2025},
+  eprint = {2510.02418v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.02418v2},
+  note = {First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2025-10-07T15:12:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

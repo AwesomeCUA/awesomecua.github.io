@@ -1,3 +1,11 @@
+---
+title: "Local limit theorem for joint subgraph counts | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-09535/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Local limit theorem for joint subgraph counts
 
 Bibliographic record for Local limit theorem for joint subgraph counts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ashwin Sah, Mehtaab Sawhney, Daniel G. Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-09535/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-09535/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_09535,
+  title = {{Local limit theorem for joint subgraph counts}},
+  author = {{Ashwin Sah} and {Mehtaab Sawhney} and {Daniel G. Zhu}},
+  year = {2024},
+  eprint = {2412.09535v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.09535v1},
+  note = {First published: 2024-12-12; Recorded arXiv version: v1; Recorded version updated: 2024-12-12T18:27:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

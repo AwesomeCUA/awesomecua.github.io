@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor 7B Qwen2-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # GUI-Actor 7B Qwen2-VL
 
 GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class, under MIT.

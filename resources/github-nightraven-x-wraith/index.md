@@ -1,3 +1,11 @@
+---
+title: "Wraith | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nightraven-x-wraith/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Wraith
 
 Windows system-tray utility that blocks physical keyboard and mouse interference while allowing synthetic AI agent input events through.

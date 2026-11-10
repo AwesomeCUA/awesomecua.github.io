@@ -1,3 +1,11 @@
+---
+title: "ReVision: Scaling Computer-Use Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-11212/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction
 
 Trains GUI agents with a learned selector that removes repeated visual patches across consecutive screenshots while preserving spatial structure. ReVision evaluates this history representation on OSWorld, WebTailBench and AgentNetBench.
@@ -26,6 +34,18 @@ Amirhossein Abaskohi, Yuhang He, Peter West, Giuseppe Carenini, Pranit Chawla, V
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-11212/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-11212/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_11212,
+  title = {{ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction}},
+  author = {{Amirhossein Abaskohi} and {Yuhang He} and {Peter West} and {Giuseppe Carenini} and {Pranit Chawla} and {Vibhav Vineet}},
+  year = {2026},
+  eprint = {2605.11212v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.11212v3},
+  note = {First published: 2026-05-11; Recorded arXiv version: v3; Recorded version updated: 2026-06-05T22:18:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

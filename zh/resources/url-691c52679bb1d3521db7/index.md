@@ -1,3 +1,11 @@
+---
+title: "GTA1-7B-2507 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-691c52679bb1d3521db7/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GTA1-7B-2507
 
 GTA1-7B-2507 是通过强化学习训练的界面定位模型，可在截图中找到文字描述的控件并返回点击坐标。

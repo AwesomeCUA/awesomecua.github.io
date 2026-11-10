@@ -1,3 +1,11 @@
+---
+title: "ITR Wala AI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ITR Wala AI Agent
 
 Terminal-driven browser agent that automates Indian income-tax-return preparation and portal filing with human review.

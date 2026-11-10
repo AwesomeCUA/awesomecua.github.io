@@ -1,3 +1,11 @@
+---
+title: "HoloTab | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4a47a6df845735984bf1/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # HoloTab
 
 H browser extension for executing tasks through website interfaces.

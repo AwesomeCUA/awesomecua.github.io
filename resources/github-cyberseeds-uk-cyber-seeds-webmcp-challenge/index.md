@@ -1,3 +1,11 @@
+---
+title: "Cyber Seeds WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Cyber Seeds WebMCP
 
 Human-authorized safety and consent pattern for WebMCP browser agents operating consumer web dashboards.

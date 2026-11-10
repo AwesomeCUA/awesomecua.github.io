@@ -1,3 +1,11 @@
+---
+title: "claude-chrome-speed | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # claude-chrome-speed
 
 Claude Code plugin that accelerates Claude in Chrome browser tasks by batching DOM reads and eliminating redundant screenshot waits.

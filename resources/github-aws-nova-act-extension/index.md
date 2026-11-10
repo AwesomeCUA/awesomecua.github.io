@@ -1,3 +1,11 @@
+---
+title: "Nova Act Extension | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aws-nova-act-extension/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Nova Act Extension
 
 A VS Code, Kiro and Cursor extension for writing Nova Act browser-agent scripts, with chat-to-script generation, 7 templates, live debugging, an action viewer and AWS deployment.

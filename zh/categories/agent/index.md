@@ -1,8 +1,16 @@
+---
+title: "计算机使用智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/agent/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体
 
 计算机使用智能体是完整的系统：观察屏幕或网页，制定计划，再通过点击、输入、浏览器命令或命令行工具完成用户任务。
 
-> AwesomeCUA 目录收录 481 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
+> AwesomeCUA 目录收录 479 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://awesomecua.com/categories/agent/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,15 +33,15 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://a
 
 ### 这些智能体覆盖哪些平台？
 
-在 481 条已审核智能体中，网页 247 条、桌面 229 条、手机 95 条、跨平台 60 条；3 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 479 条已审核智能体中，网页 247 条、桌面 227 条、手机 95 条、跨平台 60 条；3 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些智能体有对应的论文？
 
-481 条中有 70 条链接到提出或说明它的 arXiv 论文，例如 [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)、[Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) 和 [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/)。
+479 条中有 70 条链接到提出或说明它的 arXiv 论文，例如 [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)、[Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) 和 [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/)。
 
 ### 智能体使用哪些许可证？
 
-最常见的声明许可证是 MIT（210 条）、Apache-2.0（90 条）和 AGPL-3.0（13 条）。481 条中有 146 条未记录声明的许可证。
+最常见的声明许可证是 MIT（209 条）、Apache-2.0（89 条）和 AGPL-3.0（13 条）。479 条中有 146 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -7697,36 +7705,6 @@ Desktop Agent 通过截图网格叠加标注、OCR 文本检测、语音命令�
 
 ---
 
-## DesktopAgent (S1-Fast)
-
-DesktopAgent 使用本地 0.33B System-One 决策模型（S1-Fast）和 UI Automation，在后台操作 Windows 桌面应用。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/
-- 原始来源：https://github.com/elidot007/desktop-agent
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、Windows
-- 主题：效率、动作预测、自动化
-- 证据核查日期：2026-11-04T14:41:46Z
-- ID：github:elidot007/desktop-agent
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-elidot007-desktop-agent/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/elidot007/desktop-agent/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/elidot007/desktop-agent/HEAD/README.md（获取于 2026-11-04T14:41:46Z；SHA-256：96a88efb376d6545914ff77b203bd64a03e0c262e234963f75b458e61227a7ce）
-- https://raw.githubusercontent.com/elidot007/desktop-agent/HEAD/LICENSE（获取于 2026-11-04T14:45:28Z；SHA-256：c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08）
-
----
-
 ## DevDesignAmitesh Browser Agent
 
 自主 AI 网页智能体，根据自然语言提示规划并执行多步浏览器交互。
@@ -10724,36 +10702,6 @@ Mantis 是统一感知、推理与动作的计算机使用智能体，根据结�
 
 - https://raw.githubusercontent.com/xRetr00/Marvi-OS/main/README.md（获取于 2026-11-04T17:20:43Z；SHA-256：2045684dea00e25de57a0b62f17b496f479c02e3f8d824c8785bbd886ffaf819）
 - https://raw.githubusercontent.com/xRetr00/Marvi-OS/HEAD/LICENSE（获取于 2026-11-04T17:27:01Z；SHA-256：4ae5cd52e270c9728debf4e1cd999e21e38515c045341796fe73f5828c1a0c0c）
-
----
-
-## Mary (Personal AI OS)
-
-具备环境感知智能的 macOS 计算机使用桌面客户端和个人 AI 操作环境。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-rao-studios-mary/
-- 原始来源：https://github.com/rao-studios/Mary
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、macOS
-- 主题：界面理解、记忆、自动化、工具集成
-- 证据核查日期：2026-11-04T17:55:02Z
-- ID：github:rao-studios/mary
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-rao-studios-mary/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/rao-studios/Mary/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/rao-studios/Mary/main/README.md（获取于 2026-11-04T17:55:02Z；SHA-256：f4d999bfd1614a0bdfe118d6f557e388ac9b98f7c3aa110ee28d6b92f5e48fab）
-- https://raw.githubusercontent.com/rao-studios/Mary/HEAD/LICENSE（获取于 2026-11-04T18:00:46Z；SHA-256：c3524435ae6e8561cbfe58903055dba68397cacc6da8715f04aa8e23f607b025）
 
 ---
 

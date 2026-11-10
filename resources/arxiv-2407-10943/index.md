@@ -1,3 +1,11 @@
+---
+title: "GRUtopia: Dream General Robots in a City at… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-10943/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GRUtopia: Dream General Robots in a City at Scale
 
 Bibliographic record for GRUtopia: Dream General Robots in a City at Scale. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hanqing Wang, Jiahe Chen, Wensi Huang, Qingwei Ben, Tai Wang, Boyu Mi, Tao Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-10943/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-10943/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_10943,
+  title = {{GRUtopia: Dream General Robots in a City at Scale}},
+  author = {{Hanqing Wang} and {Jiahe Chen} and {Wensi Huang} and {Qingwei Ben} and {Tai Wang} and {Boyu Mi} and {Tao Huang} and {Siheng Zhao} and {Yilun Chen} and {Sizhe Yang} and {Peizhou Cao} and {Wenye Yu} and {Zichao Ye} and {Jialun Li} and {Junfeng Long} and {Zirui Wang} and {Huiling Wang} and {Ying Zhao} and {Zhongying Tu} and {Yu Qiao} and {Dahua Lin} and {Jiangmiao Pang}},
+  year = {2024},
+  eprint = {2407.10943v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.10943v1},
+  note = {First published: 2024-07-15; Recorded arXiv version: v1; Recorded version updated: 2024-07-15T17:40:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

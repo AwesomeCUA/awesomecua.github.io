@@ -1,3 +1,11 @@
+---
+title: "Agent Lumos: Unified and Modular Training for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-05657/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agent Lumos: Unified and Modular Training for Open-Source Language Agents
 
 Bibliographic record for Agent Lumos: Unified and Modular Training for Open-Source Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Da Yin, Faeze Brahman, Abhilasha Ravichander, Khyathi Chandu, Kai-Wei Chang, Yej
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-05657/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-05657/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_05657,
+  title = {{Agent Lumos: Unified and Modular Training for Open-Source Language Agents}},
+  author = {{Da Yin} and {Faeze Brahman} and {Abhilasha Ravichander} and {Khyathi Chandu} and {Kai-Wei Chang} and {Yejin Choi} and {Bill Yuchen Lin}},
+  year = {2023},
+  eprint = {2311.05657v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.05657v3},
+  note = {First published: 2023-11-09; Recorded arXiv version: v3; Recorded version updated: 2024-07-10T17:36:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

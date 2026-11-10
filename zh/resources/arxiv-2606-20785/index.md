@@ -1,3 +1,11 @@
+---
+title: "Fara-1.5: Scalable Learning Environments… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20785/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Fara-1.5: Scalable Learning Environments for Computer Use Agents
 
 利用实时和合成环境、求解器、用户模拟，以及分别验证正确性和效率的机制，构建浏览器智能体训练轨迹。
@@ -27,6 +35,18 @@ Ahmed Awadallah, Sahil Gupta, Yash Lara, Yadong Lu, Hussein Mozannar, Akshay Nam
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20785/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20785/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20785,
+  title = {{Fara-1.5: Scalable Learning Environments for Computer Use Agents}},
+  author = {{Ahmed Awadallah} and {Sahil Gupta} and {Yash Lara} and {Yadong Lu} and {Hussein Mozannar} and {Akshay Nambi} and {Zach Nussbaum} and {Yash Pandya} and {Aravind Rajeswaran} and {Corby Rosset} and {Alexey Taymanov} and {Luiz do Valle} and {Vibhav Vineet} and {Spencer Whitehead} and {Andrew Zhao}},
+  year = {2026},
+  eprint = {2606.20785v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20785v2},
+  note = {First published: 2026-06-18; Recorded arXiv version: v2; Recorded version updated: 2026-07-22T17:47:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

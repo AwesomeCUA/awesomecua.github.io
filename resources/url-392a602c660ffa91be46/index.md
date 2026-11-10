@@ -1,3 +1,11 @@
+---
+title: "SUGILITE: Creating Multimodal Smartphone… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-392a602c660ffa91be46/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SUGILITE: Creating Multimodal Smartphone Automation by Demonstration
 
 Introduces SUGILITE, which combines spoken instructions, demonstrated Android actions, and UI hierarchies to generate reusable automation scripts. Its interface includes context checking and repairs for unfamiliar situations and changing app interfaces.
@@ -26,6 +34,19 @@ Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 
 - BibTeX: https://awesomecua.com/resources/url-392a602c660ffa91be46/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-392a602c660ffa91be46/citation.csl.json
+
+```bibtex
+@inproceedings{cua_6b7f9d608ed89d1625610eb1,
+  title = {{SUGILITE: Creating Multimodal Smartphone Automation by Demonstration}},
+  author = {{Toby Jia-Jun Li} and {Amos Azaria} and {Brad A. Myers}},
+  year = {2017},
+  booktitle = {Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems},
+  pages = {6038-6049},
+  doi = {10.1145/3025453.3025483},
+  url = {https://doi.org/10.1145/3025453.3025483},
+  note = {Publication date: 2017.}
+}
+```
 
 ## Publication record
 

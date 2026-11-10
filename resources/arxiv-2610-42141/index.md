@@ -1,3 +1,11 @@
+---
+title: "RoboArchitect: Automating the Design of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-42141/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory
 
 Bibliographic record for RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shengguang Wu, Suning Huang, Cherie Ho, Ria Doshi, Hao Zhu, Serena Yeung-Levy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-42141/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-42141/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_42141,
+  title = {{RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory}},
+  author = {{Shengguang Wu} and {Suning Huang} and {Cherie Ho} and {Ria Doshi} and {Hao Zhu} and {Serena Yeung-Levy}},
+  year = {2026},
+  eprint = {2610.42141v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.42141v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T17:58:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Towards Better Semantic Understanding of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-02663/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Towards Better Semantic Understanding of Mobile Interfaces
 
 Augments RICO screens and view hierarchies with human labels for icon shape and meaning and for links between UI elements and text labels. It compares image-only and multimodal models on semantic understanding of previously unseen apps.
@@ -26,6 +34,18 @@ Srinivas Sunkara, Maria Wang, Lijuan Liu, Gilles Baechler, Yu-Chung Hsiao, Jindo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2210-02663/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2210-02663/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_02663,
+  title = {{Towards Better Semantic Understanding of Mobile Interfaces}},
+  author = {{Srinivas Sunkara} and {Maria Wang} and {Lijuan Liu} and {Gilles Baechler} and {Yu-Chung Hsiao} and {Jindong} and {Chen} and {Abhanshu Sharma} and {James Stout}},
+  year = {2022},
+  eprint = {2210.02663v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.02663v1},
+  note = {First published: 2022-10-06; Recorded arXiv version: v1; Recorded version updated: 2022-10-06T03:48:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

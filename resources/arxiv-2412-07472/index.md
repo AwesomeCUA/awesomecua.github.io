@@ -1,3 +1,11 @@
+---
+title: "SmartAgent: Chain-of-User-Thought for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-07472/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World
 
 Bibliographic record for SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaqi Zhang, Chen Gao, Liyuan Zhang, Yong Li, Hongzhi Yin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-07472/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-07472/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_07472,
+  title = {{SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World}},
+  author = {{Jiaqi Zhang} and {Chen Gao} and {Liyuan Zhang} and {Yong Li} and {Hongzhi Yin}},
+  year = {2024},
+  eprint = {2412.07472v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.07472v3},
+  note = {First published: 2024-12-10; Recorded arXiv version: v3; Recorded version updated: 2025-02-18T09:04:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Magpie Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Magpie Computer Use
 
 Magpie distributes ten macOS Computer Use MCP tools with explicit human-in-the-loop approval gates to local coding and desktop agents.

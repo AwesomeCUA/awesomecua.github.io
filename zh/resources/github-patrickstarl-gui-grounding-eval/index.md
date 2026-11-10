@@ -1,3 +1,11 @@
+---
+title: "GUI Grounding Evaluation Harness · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-patrickstarl-gui-grounding-eval/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # GUI Grounding Evaluation Harness
 
 ScreenSpot-Pro 评估工具，提供明确的坐标变换、提示词与基于裁剪的推理对比，以及逐样本的定位准确率和成本记录。

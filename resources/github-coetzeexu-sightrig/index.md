@@ -1,3 +1,11 @@
+---
+title: "SightRig | AwesomeCUA"
+url: https://awesomecua.com/resources/github-coetzeexu-sightrig/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # SightRig
 
 SightRig is a traceable runtime and visual workbench for inspecting, guarding, and replaying GUI agent perceptions and actions.

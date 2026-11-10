@@ -1,3 +1,11 @@
+---
+title: "TaskSense: Cognitive Chain Modeling and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-09309/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # TaskSense: Cognitive Chain Modeling and Difficulty Estimation for GUI Tasks
 
 Cognitive Chain estimates GUI task difficulty by extracting sequences of cognitive steps from execution traces, then uses those estimates to assess GUI agents.
@@ -26,6 +34,18 @@ Yiwen Yin, Zhian Hu, Xiaoxi Xu, Chun Yu, Xintong Wu, Wenyu Fan, Yuanchun Shi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-09309/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-09309/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_09309,
+  title = {{TaskSense: Cognitive Chain Modeling and Difficulty Estimation for GUI Tasks}},
+  author = {{Yiwen Yin} and {Zhian Hu} and {Xiaoxi Xu} and {Chun Yu} and {Xintong Wu} and {Wenyu Fan} and {Yuanchun Shi}},
+  year = {2025},
+  eprint = {2511.09309v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.09309v1},
+  note = {First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T13:20:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

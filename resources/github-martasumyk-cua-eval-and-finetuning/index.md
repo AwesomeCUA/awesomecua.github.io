@@ -1,3 +1,11 @@
+---
+title: "CUA Evaluation & RL with Autonomous Feedback | AwesomeCUA"
+url: https://awesomecua.com/resources/github-martasumyk-cua-eval-and-finetuning/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CUA Evaluation & RL with Autonomous Feedback
 
 Implements reinforcement learning with autonomous evaluator feedback for fine-tuning and benchmarking computer-use agents.

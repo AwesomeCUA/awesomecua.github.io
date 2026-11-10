@@ -1,3 +1,11 @@
+---
+title: "GUI-SD · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhangyan-ucas-gui-sd-code/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # GUI-SD
 
 GUI-SD 使用 Qwen-VL 骨干模型，以同策略自蒸馏实现 GUI 视觉定位和动作预测。

@@ -1,3 +1,11 @@
+---
+title: "RobotGo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-go-vgo-robotgo/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # RobotGo
 
 RobotGo is a native Go cross-platform desktop automation library for controlling the mouse, keyboard, bitmap screen capture, and window handles.

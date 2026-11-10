@@ -1,3 +1,11 @@
+---
+title: "ConnectOnion · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openonion-connectonion/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # ConnectOnion
 
 ConnectOnion 是 CLI 和 Python 框架，为智能体提供操作已连接账户、已登录浏览器、文件和聊天应用的命令。

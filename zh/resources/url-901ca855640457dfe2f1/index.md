@@ -1,3 +1,11 @@
+---
+title: "Kite: Building Conversational Bots from… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-901ca855640457dfe2f1/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Kite: Building Conversational Bots from Mobile Apps
 
 从演示的 Android 应用交互中提取任务图，并在其上构建对话式问答界面；评估考察任务模型提取，以及开发者对所得机器人模板的使用。
@@ -27,6 +35,19 @@ Toby Jia-Jun Li, Oriana Riva
 
 - BibTeX：https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.csl.json
+
+```bibtex
+@inproceedings{cua_93605b13ec414a1e08029b6d,
+  title = {{Kite: Building Conversational Bots from Mobile Apps}},
+  author = {{Toby Jia-Jun Li} and {Oriana Riva}},
+  year = {2018},
+  month = jun,
+  booktitle = {The 16th Annual International Conference on Mobile Systems, Applications, and Services},
+  doi = {10.1145/3210240.3210339},
+  url = {https://doi.org/10.1145/3210240.3210339},
+  note = {Publication date: 2018-06.}
+}
+```
 
 ## 发表记录
 

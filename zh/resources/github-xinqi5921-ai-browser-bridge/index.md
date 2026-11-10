@@ -1,3 +1,11 @@
+---
+title: "AI Browser Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xinqi5921-ai-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AI Browser Bridge
 
 Model Context Protocol 服务器与 Chrome 扩展，将 AI 助手连接到正在运行的浏览器标签页。

@@ -1,3 +1,11 @@
+---
+title: "minicap | AwesomeCUA"
+url: https://awesomecua.com/resources/github-devicefarmer-minicap/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # minicap
 
 An Android component that streams live screen frames as JPEG over a local socket, built with the NDK and used by STF for remote device control; recent devices reach 30-40 FPS.

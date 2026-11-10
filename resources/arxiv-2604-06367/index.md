@@ -1,3 +1,11 @@
+---
+title: "WebSP-Eval: Evaluating Web Agents on Website… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-06367/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks
 
 WebSP-Eval evaluates agents carrying out website security and privacy tasks such as preference changes and session management. A browser extension controls account and initial state across runs, enabling analysis of failures on stateful UI controls.
@@ -26,6 +34,18 @@ Guruprasad Viswanathan Ramesh, Asmit Nayak, Basieem Siddique, Kassem Fawaz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-06367/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-06367/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_06367,
+  title = {{WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks}},
+  author = {{Guruprasad Viswanathan Ramesh} and {Asmit Nayak} and {Basieem Siddique} and {Kassem Fawaz}},
+  year = {2026},
+  eprint = {2604.06367v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.06367v2},
+  note = {First published: 2026-04-07; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T22:37:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

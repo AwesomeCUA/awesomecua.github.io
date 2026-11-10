@@ -1,3 +1,11 @@
+---
+title: "aworld-mcp-servers | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qingw-dev-aworld-mcp-servers/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # aworld-mcp-servers
 
 A collection of service endpoints that includes a Browser Use API for natural-language web tasks. Its browser endpoint can return an execution trace.

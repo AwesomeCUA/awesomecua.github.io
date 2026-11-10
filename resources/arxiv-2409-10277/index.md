@@ -1,3 +1,11 @@
+---
+title: "Cognitive Kernel: An Open-source Agent System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-10277/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots
 
 Bibliographic record for Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hongming Zhang, Xiaoman Pan, Hongwei Wang, Kaixin Ma, Wenhao Yu, Dong Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-10277/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-10277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_10277,
+  title = {{Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots}},
+  author = {{Hongming Zhang} and {Xiaoman Pan} and {Hongwei Wang} and {Kaixin Ma} and {Wenhao Yu} and {Dong Yu}},
+  year = {2024},
+  eprint = {2409.10277v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.10277v2},
+  note = {First published: 2024-09-16; Recorded arXiv version: v2; Recorded version updated: 2024-12-31T20:02:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

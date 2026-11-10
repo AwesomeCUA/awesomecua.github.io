@@ -1,3 +1,11 @@
+---
+title: "GBQA: A Game Benchmark for Evaluating LLMs as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-02648/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers
 
 Bibliographic record for GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shufan Jiang, Chios Chen, Zhiyang Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-02648/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-02648/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_02648,
+  title = {{GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers}},
+  author = {{Shufan Jiang} and {Chios Chen} and {Zhiyang Chen}},
+  year = {2026},
+  eprint = {2604.02648v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.02648v1},
+  note = {First published: 2026-04-03; Recorded arXiv version: v1; Recorded version updated: 2026-04-03T02:23:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

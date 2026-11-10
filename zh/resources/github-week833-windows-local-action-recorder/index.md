@@ -1,3 +1,11 @@
+---
+title: "Windows Local Action Recorder · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-week833-windows-local-action-recorder/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Windows Local Action Recorder
 
 Windows 桌面动作记录和受控重放工具，将人类 UI 演示封装供 Codex 智能体使用。

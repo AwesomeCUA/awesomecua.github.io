@@ -1,3 +1,11 @@
+---
+title: "Agent2Agent Threats in Safety-Critical LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-05877/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Recovering Policy-Induced Errors… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-29447/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
 
 GUI-RobustEval 评测 GUI 智能体从自身操作错误中恢复的能力；RoTS 针对不同错误模式生成恢复轨迹，用于训练。
@@ -27,6 +35,18 @@ Tianpeng Bu, Xin Liu, Qihua Chen, Hao Jiang, Shurui Li, Hongtao Duan, Lu Jiang, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-29447/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-29447/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29447,
+  title = {{Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents}},
+  author = {{Tianpeng Bu} and {Xin Liu} and {Qihua Chen} and {Hao Jiang} and {Shurui Li} and {Hongtao Duan} and {Lu Jiang} and {Lulu Hu} and {Bin Yang} and {Minying Zhang}},
+  year = {2026},
+  eprint = {2605.29447v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29447v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T06:40:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

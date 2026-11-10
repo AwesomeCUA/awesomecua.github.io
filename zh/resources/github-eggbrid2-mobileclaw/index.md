@@ -1,3 +1,11 @@
+---
+title: "MobileClaw · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eggbrid2-mobileclaw/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MobileClaw
 
 MobileClaw 是开放的 Android AI 智能体运行时，支持手机控制、VLM 屏幕读取和可复用的移动端技能执行。

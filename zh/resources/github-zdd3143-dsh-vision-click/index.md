@@ -1,3 +1,11 @@
+---
+title: "dsh-vision-click · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zdd3143-dsh-vision-click/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-vision-click
 
 适用于 DeepSeek Harness 的 Windows 计算机使用插件，使用离线 `Windows.Media.Ocr` 进行文本定位，并在点击前后进行像素验证。

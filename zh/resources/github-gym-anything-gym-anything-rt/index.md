@@ -1,3 +1,11 @@
+---
+title: "Gym-Anything-RT · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gym-anything-gym-anything-rt/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Gym-Anything-RT
 
 Gym-Anything-RT 用成对的实时与不限时浏览器小游戏评测依靠截图行动的智能体。其运行器可暂停或放慢游戏时钟，以区分时间因素的影响。

@@ -1,3 +1,11 @@
+---
+title: "Securing Web Agents with the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-06039/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Securing Web Agents with the Compile-Then-Execute Paradigm
 
 Baya 在读取实时网页内容前，将网页任务编译为调用 Trusted Website API 的程序，以限制网页提示注入改变智能体执行流程。
@@ -27,6 +35,18 @@ Annabella Chow, Jinhao Zhu, Sylvie Venuto, Abdulaziz Alharbi, Basel Alomair, Ral
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-06039/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-06039/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_06039,
+  title = {{Securing Web Agents with the Compile-Then-Execute Paradigm}},
+  author = {{Annabella Chow} and {Jinhao Zhu} and {Sylvie Venuto} and {Abdulaziz Alharbi} and {Basel Alomair} and {Raluca Popa} and {David Wagner} and {Julien Piet}},
+  year = {2026},
+  eprint = {2611.06039v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.06039v1},
+  note = {First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T06:42:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

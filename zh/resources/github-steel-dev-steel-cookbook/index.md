@@ -1,3 +1,11 @@
+---
+title: "Steel Cookbook · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steel-dev-steel-cookbook/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Steel Cookbook
 
 Steel Cookbook 汇集了多种语言的浏览器自动化示例，涵盖浏览器库、基于截图的计算机使用模型及智能体框架。

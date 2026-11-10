@@ -1,3 +1,11 @@
+---
+title: "aitw-general-digiq-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0e5617031e625a75cfc7/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # aitw-general-digiq-agent
 
 Digi-Q agent checkpoint for the AitW General task set: an AutoUI device-control policy trained offline with a learned VLM Q-value function that re-ranks proposed actions.

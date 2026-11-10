@@ -1,3 +1,11 @@
+---
+title: "ASIL Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9b01ef4cc50d241ff34a/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # ASIL Benchmark
 
 ASIL Benchmark releases indexed software-agent tasks for single-application and multi-application evaluation, with task definitions and public assets.

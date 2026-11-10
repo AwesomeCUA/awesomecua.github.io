@@ -1,3 +1,11 @@
+---
+title: "MineDojo: Building Open-Ended Embodied Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-08853/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 
 Status: excluded from the active CUA catalog after scope review.

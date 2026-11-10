@@ -1,3 +1,11 @@
+---
+title: "WARD: Adversarially Robust Defense of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-15030/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections
 
 WARD 使用网页数据和攻击者与防护模型的自适应训练，防范网页智能体遇到的 HTML 与视觉界面提示注入。
@@ -27,6 +35,18 @@ Tri Cao, Yulin Chen, Hieu Cao, Yibo Li, Khoi Le, Thong Nguyen, Yuexin Li, Yufei 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-15030/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-15030/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15030,
+  title = {{WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections}},
+  author = {{Tri Cao} and {Yulin Chen} and {Hieu Cao} and {Yibo Li} and {Khoi Le} and {Thong Nguyen} and {Yuexin Li} and {Yufei He} and {Yue Liu} and {Shuicheng Yan} and {Bryan Hooi}},
+  year = {2026},
+  eprint = {2605.15030v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15030v1},
+  note = {First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T16:26:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

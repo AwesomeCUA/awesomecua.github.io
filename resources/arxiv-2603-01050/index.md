@@ -1,3 +1,11 @@
+---
+title: "MM-DeepResearch: A Simple and Effective… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-01050/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MM-DeepResearch: A Simple and Effective Multimodal Agentic Search Baseline
 
 Bibliographic record for MM-DeepResearch: A Simple and Effective Multimodal Agentic Search Baseline. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Huanjin Yao, Qixiang Yin, Min Yang, Ziwang Zhao, Yibo Wang, Haotian Luo, Jingyi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-01050/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-01050/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_01050,
+  title = {{MM-DeepResearch: A Simple and Effective Multimodal Agentic Search Baseline}},
+  author = {{Huanjin Yao} and {Qixiang Yin} and {Min Yang} and {Ziwang Zhao} and {Yibo Wang} and {Haotian Luo} and {Jingyi Zhang} and {Jiaxing Huang}},
+  year = {2026},
+  eprint = {2603.01050v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.01050v1},
+  note = {First published: 2026-03-01; Recorded arXiv version: v1; Recorded version updated: 2026-03-01T11:13:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

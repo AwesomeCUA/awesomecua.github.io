@@ -1,3 +1,11 @@
+---
+title: "DeskCraft: Benchmarking Desktop Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-03103/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration
 
 DeskCraft 通过执行中途的澄清与中断、完成后的反馈，评估专业桌面工作流程及人机协作。任务涵盖创意类应用，并揭示长程执行和主动澄清中的困难。
@@ -27,6 +35,18 @@ Wenkai Wang, Tao Xiong, Jingchen Ni, Yunpeng Bao, Xiyun Li, Tianqi Liu, Hongcan 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-03103/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-03103/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03103,
+  title = {{DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration}},
+  author = {{Wenkai Wang} and {Tao Xiong} and {Jingchen Ni} and {Yunpeng Bao} and {Xiyun Li} and {Tianqi Liu} and {Hongcan Guo} and {Zilong Huang} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2606.03103v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03103v1},
+  note = {First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T03:42:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

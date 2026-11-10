@@ -1,3 +1,11 @@
+---
+title: "Qwen-GUI checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Qwen-GUI checkpoint
 
 Qwen-VL checkpoint released with GUICourse and tuned on its GUIAct and GUIChat data; the card's demo draws the box and point coordinates it returns, on a 0–1000 grid, onto the input screenshot.

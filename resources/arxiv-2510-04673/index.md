@@ -1,3 +1,11 @@
+---
+title: "Watch and Learn: Learning to Use Computers… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-04673/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Watch and Learn: Learning to Use Computers from Online Videos
 
 Introduces Watch & Learn (W&L), which converts human computer-use videos into UI action trajectories by predicting actions between consecutive screen states.
@@ -26,6 +34,18 @@ Chan Hee Song, Yiwen Song, Palash Goyal, Yu Su, Oriana Riva, Hamid Palangi, Toma
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-04673/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-04673/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04673,
+  title = {{Watch and Learn: Learning to Use Computers from Online Videos}},
+  author = {{Chan Hee Song} and {Yiwen Song} and {Palash Goyal} and {Yu Su} and {Oriana Riva} and {Hamid Palangi} and {Tomas Pfister}},
+  year = {2025},
+  eprint = {2510.04673v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04673v3},
+  note = {First published: 2025-10-06; Recorded arXiv version: v3; Recorded version updated: 2026-03-16T04:38:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Clicky | AwesomeCUA"
+url: https://awesomecua.com/resources/github-farzaa-clicky/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Clicky
 
 An open-source macOS teaching assistant that uses screenshots and spoken questions to explain on-screen content and point to interface elements with a cursor overlay.

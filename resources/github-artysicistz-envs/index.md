@@ -1,3 +1,11 @@
+---
+title: "ENVS (Environment-Native Verified Search) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-artysicistz-envs/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ENVS (Environment-Native Verified Search)
 
 ENVS is a post-training and verified tree-search pipeline for long-horizon GUI agents operating in live desktop and web environments.

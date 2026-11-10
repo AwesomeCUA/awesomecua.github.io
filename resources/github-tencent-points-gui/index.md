@@ -1,3 +1,11 @@
+---
+title: "POINTS-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencent-points-gui/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # POINTS-GUI
 
 POINTS-GUI-G-8B GUI grounding model, trained from a POINTS-1.5 base without native grounding through a data pipeline that unifies coordinates, filters noise and adds hard cases.

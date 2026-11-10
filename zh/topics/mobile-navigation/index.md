@@ -1,3 +1,11 @@
+---
+title: "手机操作：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/mobile-navigation/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 手机操作
 
 Reviewed topic membership; resources can appear in multiple topics.

@@ -1,3 +1,11 @@
+---
+title: "AURA Voice AI Desktop Assistant · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sajeebtheanalyst-aura-ai-desktop-assistant/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AURA Voice AI Desktop Assistant
 
 面向 Windows 的多语言无边框桌面 AI 助手，支持语音命令和 GUI 任务自动化。

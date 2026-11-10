@@ -1,3 +1,11 @@
+---
+title: "Gemini 2.5 Computer Use · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-44827a16f49e65ba8fb3/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Gemini 2.5 Computer Use
 
 Google DeepMind 预览模型基于 Gemini 2.5 Pro，经过 UI 控制后训练，通过 Gemini API 的 computer_use 工具，依据截图和近期操作记录返回浏览器及移动端操作。

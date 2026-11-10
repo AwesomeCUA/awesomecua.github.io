@@ -1,3 +1,11 @@
+---
+title: "OpAgent: Operator Agent for Web Navigation · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-13559/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # OpAgent: Operator Agent for Web Navigation
 
 OpAgent 结合多任务 GUI 微调与在线网页强化学习，后者使用结果判断和基于规则的进度奖励；模块化的规划、定位、反思和总结组件支持导航与恢复，并与底层训练策略分开评估。
@@ -27,6 +35,18 @@ Yuyu Guo, Wenjie Yang, Siyuan Yang, Ziyang Liu, Cheng Chen, Yuan Wei, Yun Hu, Ya
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-13559/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-13559/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_13559,
+  title = {{OpAgent: Operator Agent for Web Navigation}},
+  author = {{Yuyu Guo} and {Wenjie Yang} and {Siyuan Yang} and {Ziyang Liu} and {Cheng Chen} and {Yuan Wei} and {Yun Hu} and {Yang Huang} and {Guoliang Hao} and {Dongsheng Yuan} and {Jianming Wang} and {Xin Chen} and {Hang Yu} and {Lei Lei} and {Peng Di}},
+  year = {2026},
+  eprint = {2602.13559v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.13559v2},
+  note = {First published: 2026-02-14; Recorded arXiv version: v2; Recorded version updated: 2026-04-30T02:05:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

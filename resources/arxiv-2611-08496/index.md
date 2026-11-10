@@ -1,3 +1,11 @@
+---
+title: "MobiInfer: Accelerating On-Device GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-08496/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MobiInfer: Accelerating On-Device GUI Agents with Workload-Aware Inference
 
 Bibliographic record for MobiInfer: Accelerating On-Device GUI Agents with Workload-Aware Inference. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Siming Chen, Erhu Feng, Dahu Feng, Yubin Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-08496/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-08496/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_08496,
+  title = {{MobiInfer: Accelerating On-Device GUI Agents with Workload-Aware Inference}},
+  author = {{Siming Chen} and {Erhu Feng} and {Dahu Feng} and {Yubin Xia}},
+  year = {2026},
+  eprint = {2611.08496v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.08496v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T06:54:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

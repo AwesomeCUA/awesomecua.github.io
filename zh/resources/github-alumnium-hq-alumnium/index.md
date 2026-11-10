@@ -1,3 +1,11 @@
+---
+title: "Alumnium · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alumnium-hq-alumnium/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # Alumnium
 
 AI 原生端到端测试库和 MCP，让智能体通过自动化驱动程序与应用交互并验证断言。

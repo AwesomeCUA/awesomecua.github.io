@@ -1,3 +1,11 @@
+---
+title: "FastHands · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tomaszteee-fasthands/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # FastHands
 
 面向 AI 智能体的本地优先、跨平台执行与网页研究运行环境。

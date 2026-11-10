@@ -1,3 +1,11 @@
+---
+title: "pi-codex-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-danecando-pi-codex-computer-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # pi-codex-computer-use
 
 pi-codex-computer-use 通过 Codex Computer Use 为 Pi 智能体提供 macOS 应用的查看与操作能力，将截图、无障碍树和输入操作作为工具开放。

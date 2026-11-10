@@ -1,3 +1,11 @@
+---
+title: "TinyAgent: Function Calling at the Edge | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-00608/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # TinyAgent: Function Calling at the Edge
 
 Bibliographic record for TinyAgent: Function Calling at the Edge. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Lutfi Eren Erdogan, Nicholas Lee, Siddharth Jha, Sehoon Kim, Ryan Tabrizi, Suhon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-00608/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-00608/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_00608,
+  title = {{TinyAgent: Function Calling at the Edge}},
+  author = {{Lutfi Eren Erdogan} and {Nicholas Lee} and {Siddharth Jha} and {Sehoon Kim} and {Ryan Tabrizi} and {Suhong Moon} and {Coleman Hooper} and {Gopala Anumanchipalli} and {Kurt Keutzer} and {Amir Gholami}},
+  year = {2024},
+  eprint = {2409.00608v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.00608v3},
+  note = {First published: 2024-09-01; Recorded arXiv version: v3; Recorded version updated: 2024-10-25T01:16:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

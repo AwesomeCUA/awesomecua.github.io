@@ -1,3 +1,11 @@
+---
+title: "FinCUABuild: Can Agents Build Reliable… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-07603/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # FinCUABuild: Can Agents Build Reliable Benchmarks for Dynamic Financial Computer Use?
 
 提出 FinCUABuildBench，用于评估金融场景下的计算机使用任务构建；FinCUABuildAgent 则生成任务、环境和验证器。
@@ -27,6 +35,18 @@ Jingpu Yang, Fengxian Ji, Jinri Guo, Tianhao Li, Qian Jiang, Fan Zhang, Min Peng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-07603/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-07603/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_07603,
+  title = {{FinCUABuild: Can Agents Build Reliable Benchmarks for Dynamic Financial Computer Use?}},
+  author = {{Jingpu Yang} and {Fengxian Ji} and {Jinri Guo} and {Tianhao Li} and {Qian Jiang} and {Fan Zhang} and {Min Peng} and {Qianqian Xie} and {Preslav Nakov} and {Zhuohan Xie}},
+  year = {2026},
+  eprint = {2609.07603v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.07603v1},
+  note = {First published: 2026-09-07; Recorded arXiv version: v1; Recorded version updated: 2026-09-07T15:13:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

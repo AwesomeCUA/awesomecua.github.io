@@ -1,3 +1,11 @@
+---
+title: "cua-rs-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cua-rs-mcp
 
 Rust Model Context Protocol server that drives native macOS apps through the Accessibility API without moving the user's cursor.

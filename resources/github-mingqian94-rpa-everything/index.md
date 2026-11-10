@@ -1,3 +1,11 @@
+---
+title: "RPA-Everything | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mingqian94-rpa-everything/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # RPA-Everything
 
 Compiles repeated browser, desktop, Android, and office workflows into reviewed, deterministic RPA skills for AI agents.

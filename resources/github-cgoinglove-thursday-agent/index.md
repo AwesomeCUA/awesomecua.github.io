@@ -1,3 +1,11 @@
+---
+title: "Thursday (github.com/cgoinglove/thursday-agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cgoinglove-thursday-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Thursday
 
 Thursday is a local voice assistant that delegates longer tasks to bots able to use a browser, shell and files while the conversation continues.

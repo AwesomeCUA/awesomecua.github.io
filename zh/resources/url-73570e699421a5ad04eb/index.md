@@ -1,3 +1,11 @@
+---
+title: "MiniCPM-GUIDance · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-73570e699421a5ad04eb/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # MiniCPM-GUIDance
 
 随 GUICourse 发布的 MiniCPM-V 检查点，使用其 GUIEnv、GUIAct 和 GUIChat 数据微调；模型卡提示涵盖根据任务与操作历史生成下一操作，以及结合定位框进行截图对话。

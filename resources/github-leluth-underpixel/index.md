@@ -1,3 +1,11 @@
+---
+title: "UnderPixel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leluth-underpixel/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UnderPixel
 
 Chrome extension and MCP server that correlates timestamped visual screen interactions with underlying network API calls.

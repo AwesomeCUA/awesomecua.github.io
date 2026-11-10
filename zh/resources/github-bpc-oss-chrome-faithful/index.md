@@ -1,3 +1,11 @@
+---
+title: "Chrome Faithful · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bpc-oss-chrome-faithful/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome Faithful
 
 MCP 服务器和 Manifest V3 扩展，用于如实控制用户真实且已登录的 Chrome 配置文件。

@@ -1,3 +1,11 @@
+---
+title: "CAPTCHA Gym · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mildchef-muse-captcha-gym/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # CAPTCHA Gym
 
 CAPTCHA Gym 是面向浏览器智能体的自托管评测平台，提供受控的 reCAPTCHA 风格视觉挑战和服务器端评分。

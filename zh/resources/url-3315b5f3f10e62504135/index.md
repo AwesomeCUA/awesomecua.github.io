@@ -1,3 +1,11 @@
+---
+title: "webagent.cloud · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3315b5f3f10e62504135/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # webagent.cloud
 
 托管浏览器智能体服务，根据自然语言提示执行网页任务，按运行秒数计费，提供 REST API、Make、n8n、Zapier 集成和可自行托管的开源版本。

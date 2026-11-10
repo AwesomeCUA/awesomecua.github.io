@@ -1,3 +1,11 @@
+---
+title: "dsh-vision-kit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maopk-dsh-vision-kit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-vision-kit
 
 dsh-vision-kit provides a resident Windows PC Actor combining UI Automation structure, SendInput actuation, and visual grounding for DeepSeek Harness.

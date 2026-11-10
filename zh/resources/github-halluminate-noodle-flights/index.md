@@ -1,3 +1,11 @@
+---
+title: "Noodle Flights · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-halluminate-noodle-flights/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # Noodle Flights
 
 一个用于评测网页智能体的 Next.js 航班搜索模拟器，支持单程、往返和多城市流程，按种子生成确定性结果，并提供面向 Hugging Face OpenEnv Hub 的 OpenEnv 封装。

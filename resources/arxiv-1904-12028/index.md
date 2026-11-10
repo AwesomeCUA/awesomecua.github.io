@@ -1,3 +1,11 @@
+---
+title: "Arbitrary-time error suppression for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1904-12028/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Arbitrary-time error suppression for Markovian adiabatic quantum computing using stabilizer subspace codes
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "StrawManus · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-painbaba-strawmanus/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # StrawManus
 
 浏览器控制智能体，结合 Manus 的扁平化 12 工具动作架构与本地 Chromium 自动化。

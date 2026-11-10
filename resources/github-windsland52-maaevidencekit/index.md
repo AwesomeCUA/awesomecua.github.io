@@ -1,3 +1,11 @@
+---
+title: "MaaEvidenceKit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-windsland52-maaevidencekit/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaEvidenceKit
 
 A CLI and TypeScript SDK that extracts located runtime and static evidence from MaaFramework logs and projects, with stable evidence IDs, timelines and JSON or text views for agent harnesses.

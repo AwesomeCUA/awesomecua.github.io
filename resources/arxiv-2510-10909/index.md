@@ -1,3 +1,11 @@
+---
+title: "PaperArena: An Evaluation Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-10909/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature
 
 Status: excluded from the active CUA catalog after scope review.

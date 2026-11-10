@@ -1,3 +1,11 @@
+---
+title: "UI Act · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tobiasnorlund-ui-act/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # UI Act
 
 UI Act 是 Linux 桌面计算机使用智能体，通过专用的虚拟鼠标和键盘光标与用户协同操作。

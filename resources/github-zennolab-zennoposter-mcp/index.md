@@ -1,3 +1,11 @@
+---
+title: "ZennoPoster MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zennolab-zennoposter-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ZennoPoster MCP
 
 Official Model Context Protocol server connecting Claude and MCP agents to ZennoPoster 7 browser automation workflows.

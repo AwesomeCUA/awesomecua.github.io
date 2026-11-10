@@ -1,3 +1,11 @@
+---
+title: "动作预测：Computer-Use 研究与资源（第 5 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/action-prediction/page/5/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 动作预测：Computer-Use 研究与资源（第 5 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/action-prediction/page/5/
@@ -31,7 +39,6 @@ HTML 页面：https://awesomecua.com/zh/topics/action-prediction/page/5/
 - [ClickAgent](https://awesomecua.com/zh/resources/github-samsung-clickagent/)
 - [CoAT research implementation](https://awesomecua.com/zh/resources/github-imnearth-coat/)
 - [D-PoT evaluation code](https://awesomecua.com/zh/resources/github-sqzhang-lazy-d-pot/)
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/)
 - [fara-7b-agent](https://awesomecua.com/zh/resources/github-cobusgreyling-fara-7b-agent/)
 - [FastCUA](https://awesomecua.com/zh/resources/github-guojiz-fastcua/)
 - [FluidUse](https://awesomecua.com/zh/resources/github-fluidinference-fluiduse/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/action-prediction/page/5/
 - [PreAct](https://awesomecua.com/zh/resources/github-19pine-ai-preact/)
 - [ScreenSuite](https://awesomecua.com/zh/resources/github-huggingface-screensuite/)
 - [Seq2act code (google-research)](https://awesomecua.com/zh/resources/component-google-research-seq2act/)
+- [Smol2Operator](https://awesomecua.com/zh/resources/github-huggingface-smol2operator/)

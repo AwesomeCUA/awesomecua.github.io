@@ -1,3 +1,11 @@
+---
+title: "Open Codex Record & Replay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hqhq1025-open-codex-record-and-replay/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Open Codex Record & Replay
 
 macOS 的净室实现，用于记录语义 UI 工作流，并基于 Accessibility 树确定性重放，辅以视觉模板回退机制。

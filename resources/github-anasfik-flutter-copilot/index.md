@@ -1,3 +1,11 @@
+---
+title: "flutter_copilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anasfik-flutter-copilot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # flutter_copilot
 
 In-app SDK that exposes Flutter widget trees and semantic actions directly to AI agents without screenshots or OCR.

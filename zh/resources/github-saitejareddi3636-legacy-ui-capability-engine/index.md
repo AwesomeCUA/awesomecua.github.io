@@ -1,3 +1,11 @@
+---
+title: "Legacy UI Capability Engine · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saitejareddi3636-legacy-ui-capability-engine/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Legacy UI Capability Engine
 
 通过 LLM 学习一次传统浏览器工作流，并将其编译为经过验证、可复用的能力模块。

@@ -1,3 +1,11 @@
+---
+title: "lean-computer-use-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # lean-computer-use-mcp
 
 An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.

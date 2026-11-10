@@ -1,3 +1,11 @@
+---
+title: "Chrome Agent Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-escapewu-chrome-agent-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Chrome Agent Bridge
 
 A local Chrome extension and MCP server connect agents to an existing browser session for page inspection, navigation, interface actions, and debugging.

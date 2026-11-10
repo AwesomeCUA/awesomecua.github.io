@@ -1,3 +1,11 @@
+---
+title: "Analogue and Physical Reservoir Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-09095/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Analogue and Physical Reservoir Computing Using Water Waves
 
 Status: excluded from the active CUA catalog after scope review.

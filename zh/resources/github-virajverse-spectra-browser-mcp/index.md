@@ -1,3 +1,11 @@
+---
+title: "SpectraBrowser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-virajverse-spectra-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # SpectraBrowser MCP
 
 自主式真实浏览器交互引擎和 Chrome 扩展桥接工具，向 AI 智能体提供 99 个 MCP 工具。

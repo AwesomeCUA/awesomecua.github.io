@@ -1,3 +1,11 @@
+---
+title: "ExpActivator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fyzhang1-expactivator/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ExpActivator
 
 ExpActivator selectively retrieves and verifies applicable historical interaction experiences for personalized GUI agents.

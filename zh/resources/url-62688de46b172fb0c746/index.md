@@ -1,3 +1,11 @@
+---
+title: "SEAgent-1.0-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-62688de46b172fb0c746/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # SEAgent-1.0-7B
 
 SEAgent 的计算机使用智能体权重，基于 UI-TARS-7B-DPO，通过在自动生成的 OSWorld 软件任务上进行经验学习训练；论文报告其在五款新软件上的成功率为 34.5%。

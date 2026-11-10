@@ -1,3 +1,11 @@
+---
+title: "UI-Voyager (framework) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ui-voyager-ui-voyager/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # UI-Voyager
 
 UI-Voyager is a self-evolving mobile GUI agent framework that learns from failed execution trajectories via group-relative reflection.

@@ -1,3 +1,11 @@
+---
+title: "Graph-Guided Agentic Testing | AwesomeCUA"
+url: https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Graph-Guided Agentic Testing
 
 Uses a browser agent to explore web checkout flows into a Neo4j state graph and synthesizes graph-guided end-to-end tests.

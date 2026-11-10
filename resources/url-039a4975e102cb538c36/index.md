@@ -1,3 +1,11 @@
+---
+title: "GPT-6 Astra | AwesomeCUA"
+url: https://awesomecua.com/resources/url-039a4975e102cb538c36/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # GPT-6 Astra
 
 General OpenAI model whose launch post covers computer use and browsing; OpenAI reports 72.6% on OSWorld 2.0 at about 40 minutes per task, plus ScreenSpot-Pro and Mind2Web results.

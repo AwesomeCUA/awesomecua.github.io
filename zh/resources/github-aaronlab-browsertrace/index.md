@@ -1,3 +1,11 @@
+---
+title: "BrowserTrace · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aaronlab-browsertrace/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # BrowserTrace
 
 本地运行、无需云端的回放调试器，将 Browser Use 每一步的截图、URL、操作和模型输入输出记录为时间线，并指出失败运行从哪一步开始偏离已知正常的运行。

@@ -1,3 +1,11 @@
+---
+title: "VELMA: Verbalization Embodiment of LLM Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-06082/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View
 
 Bibliographic record for VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Raphael Schumann, Wanrong Zhu, Weixi Feng, Tsu-Jui Fu, Stefan Riezler, William Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-06082/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-06082/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_06082,
+  title = {{VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View}},
+  author = {{Raphael Schumann} and {Wanrong Zhu} and {Weixi Feng} and {Tsu-Jui Fu} and {Stefan Riezler} and {William Yang Wang}},
+  year = {2023},
+  eprint = {2307.06082v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.06082v2},
+  note = {First published: 2023-07-12; Recorded arXiv version: v2; Recorded version updated: 2024-01-24T15:10:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

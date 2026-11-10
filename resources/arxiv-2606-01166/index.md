@@ -1,3 +1,11 @@
+---
+title: "BraveGuard: From Open-World Threats to Safer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-01166/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BraveGuard: From Open-World Threats to Safer Computer-Use Agents
 
 Introduces BraveGuard, a framework that turns emerging threats and computer-use agent trajectories into training supervision for guards that monitor multi-step safety risks.
@@ -26,6 +34,18 @@ Yunhao Feng, Xiaohu Du, Xinhao Deng, Yifan Ding, Ming Wen, Yixu Wang, Yuxiang Xi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-01166/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-01166/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_01166,
+  title = {{BraveGuard: From Open-World Threats to Safer Computer-Use Agents}},
+  author = {{Yunhao Feng} and {Xiaohu Du} and {Xinhao Deng} and {Yifan Ding} and {Ming Wen} and {Yixu Wang} and {Yuxiang Xie} and {Baihui Zheng} and {Yingshui Tan} and {Yige Li} and {Yutao Wu} and {Kerui Cao} and {Wenke Huang} and {Yanming Guo} and {Xingjun Ma} and {Yu-Gang Jiang}},
+  year = {2026},
+  eprint = {2606.01166v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.01166v2},
+  note = {First published: 2026-05-31; Recorded arXiv version: v2; Recorded version updated: 2026-06-02T05:59:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

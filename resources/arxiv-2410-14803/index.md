@@ -1,3 +1,11 @@
+---
+title: "DistRL: An Asynchronous Distributed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-14803/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents
 
 Introduces asynchronous distributed reinforcement learning with centralized updates and decentralized interaction collection for device-control agents.
@@ -26,6 +34,18 @@ Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-14803/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-14803/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_14803,
+  title = {{DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents}},
+  author = {{Taiyi Wang} and {Zhihao Wu} and {Jianheng Liu} and {Jianye Hao} and {Jun Wang} and {Kun Shao}},
+  year = {2024},
+  eprint = {2410.14803v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.14803v5},
+  note = {First published: 2024-10-18; Recorded arXiv version: v5; Recorded version updated: 2025-02-21T16:23:59Z.}
+}
+```
 
 ## Publication record
 

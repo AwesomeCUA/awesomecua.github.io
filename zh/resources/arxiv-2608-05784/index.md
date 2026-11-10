@@ -1,3 +1,11 @@
+---
+title: "Activity Frames: Deterministic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-05784/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay
 
 提出 Activity Frames，以确定性流程将捕获的屏幕活动编译为带类型的片段，供计算机使用智能体记忆和重复执行例行流程。
@@ -27,6 +35,18 @@ Nossa Iyamu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-05784/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-05784/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05784,
+  title = {{Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay}},
+  author = {{Nossa Iyamu}},
+  year = {2026},
+  eprint = {2608.05784v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05784v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T09:17:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

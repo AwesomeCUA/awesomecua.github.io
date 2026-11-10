@@ -1,3 +1,11 @@
+---
+title: "open-codex-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ifuryst-open-codex-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # open-codex-computer-use
 
 open-codex-computer-use 是原生 Swift MCP 服务器，提供 macOS 单个应用的窗口捕获、无障碍信息检查和输入控制能力。

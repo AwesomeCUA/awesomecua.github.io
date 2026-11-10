@@ -1,3 +1,11 @@
+---
+title: "Open Record/Replay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-humblebanana-open-record-replay/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Open Record/Replay
 
 Open Record/Replay records macOS user demonstrations with Accessibility metadata and compiles them into reusable agent skills.

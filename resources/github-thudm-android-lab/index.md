@@ -1,3 +1,11 @@
+---
+title: "AndroidLab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-android-lab/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # AndroidLab
 
 Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.

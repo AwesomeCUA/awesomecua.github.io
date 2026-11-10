@@ -1,3 +1,11 @@
+---
+title: "Browser Agent (github.com/rkvalandas/browser_a… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rkvalandas-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Browser Agent
 
 Python agent that attaches Playwright to a local Chrome over CDP, maps visible interactive elements from the DOM into numbered IDs, and lets an LLM navigate, click, type, select and ask the user for missing input.

@@ -1,3 +1,11 @@
+---
+title: "FireAct: Toward Language Agent Fine-tuning | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-05915/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FireAct: Toward Language Agent Fine-tuning
 
 Status: excluded from the active CUA catalog after scope review.

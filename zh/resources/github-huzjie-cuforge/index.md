@@ -1,3 +1,11 @@
+---
+title: "cuforge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huzjie-cuforge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # cuforge
 
 cuforge 是在线强化学习与可验证任务合成平台，用于训练计算机使用 GUI 智能体。

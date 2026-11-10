@@ -1,3 +1,11 @@
+---
+title: "Windows Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cgissing-windows-computer-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Windows Computer Use
 
 一款 Windows MCP 插件，为智能体提供屏幕截图、UI Automation 界面检查，以及操作桌面应用的鼠标和键盘功能。

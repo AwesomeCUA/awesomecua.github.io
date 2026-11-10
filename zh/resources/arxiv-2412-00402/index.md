@@ -1,3 +1,11 @@
+---
+title: "DroidCall: A Dataset for LLM-powered… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-00402/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # DroidCall: A Dataset for LLM-powered Android Intent Invocation
 
 提出数据集与数据生成流程，用小型语言模型将自然语言请求转换为 Android intent 调用。
@@ -27,6 +35,18 @@ Weikai Xie, Li Zhang, Shihe Wang, Rongjie Yi, Mengwei Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-00402/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-00402/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_00402,
+  title = {{DroidCall: A Dataset for LLM-powered Android Intent Invocation}},
+  author = {{Weikai Xie} and {Li Zhang} and {Shihe Wang} and {Rongjie Yi} and {Mengwei Xu}},
+  year = {2024},
+  eprint = {2412.00402v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.00402v1},
+  note = {First published: 2024-11-30; Recorded arXiv version: v1; Recorded version updated: 2024-11-30T08:55:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

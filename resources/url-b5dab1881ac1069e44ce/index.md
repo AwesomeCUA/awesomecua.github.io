@@ -1,3 +1,11 @@
+---
+title: "Holo4 Trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/
+updated: 2026-11-02
+type: dataset
+lang: en
+---
+
 # Holo4 Trajectories
 
 Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Holo4 35B-A3B, recording step-level reasoning, actions, tool results, and screenshots.

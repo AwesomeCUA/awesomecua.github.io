@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # ChatGPT Agent
 
 Hosted agent combining browser interaction, tools, and computer-based tasks.

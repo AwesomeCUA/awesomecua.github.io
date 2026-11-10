@@ -1,3 +1,11 @@
+---
+title: "BrowseComp-Plus: A More Fair and Transparent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-06600/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent
 
 Bibliographic record for BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Andrew Liu, Joshua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-06600/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-06600/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_06600,
+  title = {{BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent}},
+  author = {{Zijian Chen} and {Xueguang Ma} and {Shengyao Zhuang} and {Ping Nie} and {Kai Zou} and {Andrew Liu} and {Joshua Green} and {Kshama Patel} and {Ruoxi Meng} and {Mingyi Su} and {Sahel Sharifymoghaddam} and {Yanxi Li} and {Haoran Hong} and {Xinyu Shi} and {Xuye Liu} and {Nandan Thakur} and {Crystina Zhang} and {Luyu Gao} and {Wenhu Chen} and {Jimmy Lin}},
+  year = {2025},
+  eprint = {2508.06600v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.06600v1},
+  note = {First published: 2025-08-08; Recorded arXiv version: v1; Recorded version updated: 2025-08-08T17:55:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

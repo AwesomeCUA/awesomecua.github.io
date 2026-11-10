@@ -1,3 +1,11 @@
+---
+title: "HiconAgent-AMEX · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3df97229d34c44c2014a/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # HiconAgent-AMEX
 
 基于 AMEX 安卓数据集构建的 HiconAgent 训练与验证数据：每个样本包含任务目标、此前的截图与动作，并以下一步动作作为答案，用于 GUI 智能体的历史感知强化学习。

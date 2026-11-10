@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B-Reddit | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dfa8047521d1f3b3aa54/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Dreamer-7B-Reddit
 
 Dreamer-7B-Reddit is a Reddit-domain checkpoint for WebDreamer. It predicts the screen state after a proposed action to support web-agent planning.

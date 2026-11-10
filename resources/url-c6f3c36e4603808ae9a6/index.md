@@ -1,3 +1,11 @@
+---
+title: "CloudCruise | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c6f3c36e4603808ae9a6/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # CloudCruise
 
 Managed browser-automation platform for healthcare portals and EHRs in which a builder agent turns a chat description into a reusable workflow graph that runs in cloud VMs and a maintenance agent repairs.

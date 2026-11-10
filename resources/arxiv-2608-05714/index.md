@@ -1,3 +1,11 @@
+---
+title: "RA-CAD: Learning Post-Execution Critique for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-05714/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RA-CAD: Learning Post-Execution Critique for State-Aware Text-to-CAD Generation
 
 Bibliographic record for RA-CAD: Learning Post-Execution Critique for State-Aware Text-to-CAD Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shuhao Yan, Changhao He, Peng Hu, Xi Peng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-05714/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-05714/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05714,
+  title = {{RA-CAD: Learning Post-Execution Critique for State-Aware Text-to-CAD Generation}},
+  author = {{Shuhao Yan} and {Changhao He} and {Peng Hu} and {Xi Peng}},
+  year = {2026},
+  eprint = {2608.05714v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05714v4},
+  note = {First published: 2026-08-06; Recorded arXiv version: v4; Recorded version updated: 2026-10-07T12:50:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

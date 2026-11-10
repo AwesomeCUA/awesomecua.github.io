@@ -1,3 +1,11 @@
+---
+title: "webmcp-gen · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nidhicodes-webmcp-gen/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # webmcp-gen
 
 从实时网页自动生成可调用的 WebMCP 工具模式，无需网站所有者添加接入代码。

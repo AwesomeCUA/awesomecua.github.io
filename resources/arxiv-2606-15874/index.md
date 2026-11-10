@@ -1,3 +1,11 @@
+---
+title: "LLM-as-Code: Agentic Programming for Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15874/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LLM-as-Code: Agentic Programming for Agent Harness
 
 Proposes Agentic Programming, where code controls agent loops and invokes LLM-as-Code for reasoning; a computer-use case study examines long visual action sequences.
@@ -26,6 +34,18 @@ Junjia Qi, Zichuan Fu, Jingtong Gao, Wenlin Zhang, Hanyu Yan, Xian Wu, Xiangyu Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-15874/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-15874/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15874,
+  title = {{LLM-as-Code: Agentic Programming for Agent Harness}},
+  author = {{Junjia Qi} and {Zichuan Fu} and {Jingtong Gao} and {Wenlin Zhang} and {Hanyu Yan} and {Xian Wu} and {Xiangyu Zhao}},
+  year = {2026},
+  eprint = {2606.15874v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15874v2},
+  note = {First published: 2026-06-14; Recorded arXiv version: v2; Recorded version updated: 2026-06-22T08:52:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体工具（第 11 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/page/11/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具：第 11 页
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/page/11/ · [English](https://awesomecua.com/categories/tool/page/11/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
-- [reflex-computer-use](https://awesomecua.com/zh/resources/github-8itlab-reflex-cu/)：reflex-computer-use 是适用于 macOS 和 Windows 的 MCP 服务器，可读取原生 UI 无障碍树并分发低延迟动作。
 - [RegionFocus](https://awesomecua.com/zh/resources/github-tiangeluo-regionfocus/)：RegionFocus 提供利用截图局部区域进行界面定位的代码，并用 UI-TARS 和 Qwen2.5-VL 在 ScreenSpot-Pro 上评测。
 - [Reins](https://awesomecua.com/zh/resources/github-pegasi-ai-reins/)：Reins 是运行时安全防护和策略执行层，可拦截未经授权的 AI 智能体工具调用并加以管控。
 - [Renoned dsh-computer-use](https://awesomecua.com/zh/resources/github-renoned-dsh-computer-use/)：面向 DeepSeek Harness、感知能力可用性的 macOS 计算机使用插件，结合优先使用无障碍信息的查询方式和 Vision Router 备用方式。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/11/ · [English](ht
 - [Veeva Vault Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-veeva-vault-browser-automation/)：面向 Veeva Vault 的浏览器自动化脚手架，提供文档上传、送审、审批和导出审计记录等操作。
 - [Vision Primitives MCP](https://awesomecua.com/zh/resources/github-zouyuanqing-vision-primitives-mcp/)：Vision Primitives MCP 为纯文本 LLM 提供 30 个视觉 MCP 工具，用于屏幕描述、坐标定位、OCR 和裁剪放大。
 - [vision-bridge](https://awesomecua.com/zh/resources/github-rusnetru-vision-bridge/)：统一的 Windows 视觉与动作 MCP 服务器，供 AI 智能体检查桌面窗口并发送鼠标和键盘事件。
+- [Vision-MCP](https://awesomecua.com/zh/resources/github-haruhiyuki-vision-mcp/)：桌面应用交互 MCP 服务器，结合视觉 UI 元素检测与鼠标、键盘自动化。

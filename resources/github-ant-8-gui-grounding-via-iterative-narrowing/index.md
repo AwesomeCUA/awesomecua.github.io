@@ -1,3 +1,11 @@
+---
+title: "GUI Grounding via Iterative Narrowing | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ant-8-gui-grounding-via-iterative-narrowing/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # GUI Grounding via Iterative Narrowing
 
 Implements training-free iterative visual crop-and-narrow refinement for improving MLLM coordinate grounding on GUI screenshots.

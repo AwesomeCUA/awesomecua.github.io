@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL: Enhancing Vision-Language Model's… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-12191/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution
 
 Status: excluded from the active CUA catalog after scope review.

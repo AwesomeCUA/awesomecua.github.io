@@ -1,3 +1,11 @@
+---
+title: "MCP-Flow: Facilitating LLM Agents to Master… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24284/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools
 
 Bibliographic record for MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wenhao Wang, Peizhi Niu, Zhao Xu, Zhaoyu Chen, Jian Du, Yaxin Du, Xianghe Pang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24284/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24284/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24284,
+  title = {{MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools}},
+  author = {{Wenhao Wang} and {Peizhi Niu} and {Zhao Xu} and {Zhaoyu Chen} and {Jian Du} and {Yaxin Du} and {Xianghe Pang} and {Keduan Huang} and {Yanfeng Wang} and {Qiang Yan} and {Siheng Chen}},
+  year = {2025},
+  eprint = {2510.24284v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24284v3},
+  note = {First published: 2025-10-28; Recorded arXiv version: v3; Recorded version updated: 2026-04-16T11:42:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

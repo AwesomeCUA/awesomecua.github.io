@@ -1,3 +1,11 @@
+---
+title: "MobileBench-OL: A Comprehensive Chinese… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-20335/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment
 
 Introduces MobileBench-OL, an online benchmark of Chinese-app tasks spanning execution, reasoning, exploration, and noisy conditions. Its automatic evaluation and reset framework supports repeated testing of mobile GUI agents in real environments.
@@ -26,6 +34,18 @@ Qinzhuo Wu, Zhizhuo Yang, Hanhao Li, Pengzhi Gao, Wei Liu, Jian Luan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-20335/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-20335/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_20335,
+  title = {{MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment}},
+  author = {{Qinzhuo Wu} and {Zhizhuo Yang} and {Hanhao Li} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan}},
+  year = {2026},
+  eprint = {2601.20335v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.20335v2},
+  note = {First published: 2026-01-28; Recorded arXiv version: v2; Recorded version updated: 2026-01-29T02:32:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

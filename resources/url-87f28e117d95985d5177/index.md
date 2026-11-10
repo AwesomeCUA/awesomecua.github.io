@@ -1,3 +1,11 @@
+---
+title: "GPA-GUI-Detector | AwesomeCUA"
+url: https://awesomecua.com/resources/url-87f28e117d95985d5177/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GPA-GUI-Detector
 
 GPA-GUI-Detector is a YOLO model that locates interactive elements such as buttons and icons in interface screenshots and returns bounding boxes for automation workflows.

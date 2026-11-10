@@ -1,3 +1,11 @@
+---
+title: "LiteWebAgent: The Open-Source Suite for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-02950/
+updated: 2026-11-02
+type: paper
+lang: en
+---
+
 # LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications
 
 Introduces a modular visual web-agent stack with planning and memory components, exposed through a remote-browser application and Chrome extension.
@@ -26,6 +34,18 @@ Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-02950/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-02950/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_02950,
+  title = {{LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications}},
+  author = {{Danqing Zhang} and {Balaji Rama} and {Jingyi Ni} and {Shiying He} and {Fu Zhao} and {Kunyu Chen} and {Arnold Chen} and {Junyu Cao}},
+  year = {2025},
+  eprint = {2503.02950v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.02950v2},
+  note = {First published: 2025-03-04; Recorded arXiv version: v2; Recorded version updated: 2025-05-06T06:42:34Z.}
+}
+```
 
 ## Publication record
 

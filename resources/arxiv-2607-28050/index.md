@@ -1,3 +1,11 @@
+---
+title: "IndustryForge-27B: A Domain-Enhanced… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28050/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD
 
 Bibliographic record for IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Nianchen Deng, Jiaxin Ai, Tao Hu, Shu Zou, Yurui Dong, Siqi Li, Xinyu Cai, Xueme
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28050/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28050/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28050,
+  title = {{IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD}},
+  author = {{Nianchen Deng} and {Jiaxin Ai} and {Tao Hu} and {Shu Zou} and {Yurui Dong} and {Siqi Li} and {Xinyu Cai} and {Xuemeng Yang} and {Licheng Wen} and {Hongbin Zhou} and {Hairong Zhang} and {Pinlong Cai} and {Botian Shi}},
+  year = {2026},
+  eprint = {2607.28050v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28050v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T11:28:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

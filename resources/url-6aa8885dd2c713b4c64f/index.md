@@ -1,3 +1,11 @@
+---
+title: "Pathology-Dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6aa8885dd2c713b4c64f/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # Pathology-Dataset
 
 Task set for the Orion computer-using agent's digital pathology task in QuPath: tutorial material, lymph-node metastasis segmentation on CAMELYON slides and TP53 index calculation, with test suites.

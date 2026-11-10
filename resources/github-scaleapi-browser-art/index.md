@@ -1,3 +1,11 @@
+---
+title: "BrowserART (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scaleapi-browser-art/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # BrowserART
 
 Red-teaming benchmark and test suite from Scale AI evaluating whether refusal-trained language models can be jailbroken when deployed as browser agents.

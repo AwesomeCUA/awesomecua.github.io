@@ -1,3 +1,11 @@
+---
+title: "learn-workbuddy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/
+updated: 2026-11-04
+type: learning
+lang: en
+---
+
 # learn-workbuddy
 
 24-chapter bilingual Python engineering course building a WorkBuddy-style desktop AI agent harness from scratch.

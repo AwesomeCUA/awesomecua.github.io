@@ -1,3 +1,11 @@
+---
+title: "SiteWarden | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shantodotdev-sitewarden/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SiteWarden
 
 Autonomous, lightweight browser smoke-testing daemon written in Rust for continuous website verification.

@@ -1,3 +1,11 @@
+---
+title: "Twin: Playing an Unknown Game with a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-14490/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Twin: Playing an Unknown Game with a Test-Time Digital Twin
 
 Bibliographic record for Twin: Playing an Unknown Game with a Test-Time Digital Twin. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Alexy Skoutnev, Kirill Acharya, Gaston Longhitano, Madeleine Udell, Kevin Ellis,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-14490/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-14490/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_14490,
+  title = {{Twin: Playing an Unknown Game with a Test-Time Digital Twin}},
+  author = {{Alexy Skoutnev} and {Kirill Acharya} and {Gaston Longhitano} and {Madeleine Udell} and {Kevin Ellis} and {Iddo Drori}},
+  year = {2026},
+  eprint = {2608.14490v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.14490v1},
+  note = {First published: 2026-08-14; Recorded arXiv version: v1; Recorded version updated: 2026-08-14T17:06:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

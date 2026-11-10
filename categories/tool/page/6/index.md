@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent tools, page 6 | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/page/6/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools, page 6
 
 HTML page: https://awesomecua.com/categories/tool/page/6/

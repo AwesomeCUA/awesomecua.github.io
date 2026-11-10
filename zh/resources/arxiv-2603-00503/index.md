@@ -1,3 +1,11 @@
+---
+title: "M$^2$: Dual-Memory Augmentation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-00503/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # M$^2$: Dual-Memory Augmentation for Long-Horizon Web Agents via Trajectory Summarization and Insight Retrieval
 
 提出 M²，一种用于长流程网页智能体的免训练记忆框架，将交互历史压缩为摘要，并从离线见解库检索任务指引。
@@ -27,6 +35,18 @@ Dawei Yan, Haokui Zhang, Guangda Huzhang, Yang Li, Yibo Wang, Qing-Guo Chen, Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-00503/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-00503/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_00503,
+  title = {{M\$\textasciicircum{}2\$: Dual-Memory Augmentation for Long-Horizon Web Agents via Trajectory Summarization and Insight Retrieval}},
+  author = {{Dawei Yan} and {Haokui Zhang} and {Guangda Huzhang} and {Yang Li} and {Yibo Wang} and {Qing-Guo Chen} and {Zhao Xu} and {Weihua Luo} and {Ying Li} and {Wei Dong} and {Chunhua Shen}},
+  year = {2026},
+  eprint = {2603.00503v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.00503v1},
+  note = {First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T06:59:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

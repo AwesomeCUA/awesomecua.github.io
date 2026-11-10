@@ -1,3 +1,11 @@
+---
+title: "AndroidGen · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-androidgen/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AndroidGen
 
 AndroidGen 利用示例检索、计划更新和操作检查完成 Android 任务；仓库包含智能体代码及 AndroidWorld 评测脚本。

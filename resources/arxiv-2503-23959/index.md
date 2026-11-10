@@ -1,3 +1,11 @@
+---
+title: "Local Information Matters: Inference… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-23959/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Local Information Matters: Inference Acceleration For Grounded Conversation Generation Models Through Adaptive Local-Aware Token Pruning
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Yunkai · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-solplum-yunkai/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Yunkai
 
 Android 手机助手，将模型驱动的工具调用与无障碍树读取、截图及点击、滑动、文本输入等基本操作结合；文档中的交互流程会向用户展示操作计划以供确认。

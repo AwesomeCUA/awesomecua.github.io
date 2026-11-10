@@ -1,3 +1,11 @@
+---
+title: "Predicate Systems (formerly SentienceAPI) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Predicate Systems (formerly SentienceAPI)
 
 Runtime trust layer for browser agents: a sidecar checks each action against local policy before it runs, and SDKs turn pages into compact ranked element snapshots and verify outcomes with DOM assertions.

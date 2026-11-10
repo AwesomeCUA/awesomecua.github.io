@@ -1,3 +1,11 @@
+---
+title: "Codex Idle Resume · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yaro-elipox-codex-idle-resume/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex Idle Resume
 
 在系统空闲或速率限制冷却结束后，自动恢复中断的 macOS Codex Computer Use 任务。

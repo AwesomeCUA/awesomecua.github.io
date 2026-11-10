@@ -1,3 +1,11 @@
+---
+title: "MPR-GUI: Benchmarking and Enhancing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-00756/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents
 
 MPR-GUI 通过 6 种语言中严格对齐的任务评估 GUI 感知与推理。GUI-XLI 在推理时于语言敏感层将非英语隐藏表示向英语表示调整，以应对测得的跨语言差距。
@@ -27,6 +35,18 @@ Ruihan Chen, Qiming Li, Xiaocheng Feng, Weihong Zhong, Xiaoliang Yang, Yuxuan Gu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-00756/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-00756/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_00756,
+  title = {{MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents}},
+  author = {{Ruihan Chen} and {Qiming Li} and {Xiaocheng Feng} and {Weihong Zhong} and {Xiaoliang Yang} and {Yuxuan Gu} and {Zekun Zhou} and {Yunfei Lu} and {Haoyu Ren} and {Kun Chen} and {Dandan Tu} and {Bing Qin}},
+  year = {2025},
+  eprint = {2512.00756v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.00756v2},
+  note = {First published: 2025-11-30; Recorded arXiv version: v2; Recorded version updated: 2026-04-28T03:32:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Octopus v3: Technical Report for On-device… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-11459/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent
 
 Bibliographic record for Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wei Chen, Zhiyuan Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-11459/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-11459/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_11459,
+  title = {{Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent}},
+  author = {{Wei Chen} and {Zhiyuan Li}},
+  year = {2024},
+  eprint = {2404.11459v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.11459v3},
+  note = {First published: 2024-04-17; Recorded arXiv version: v3; Recorded version updated: 2026-07-20T02:21:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

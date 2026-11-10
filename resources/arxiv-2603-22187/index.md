@@ -1,3 +1,11 @@
+---
+title: "Seeing is Improving: Visual Feedback for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-22187/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement
 
 Bibliographic record for Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junrong Guo, Shancheng Fang, Yadong Qu, Hongtao Xie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-22187/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-22187/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_22187,
+  title = {{Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement}},
+  author = {{Junrong Guo} and {Shancheng Fang} and {Yadong Qu} and {Hongtao Xie}},
+  year = {2026},
+  eprint = {2603.22187v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.22187v1},
+  note = {First published: 2026-03-23; Recorded arXiv version: v1; Recorded version updated: 2026-03-23T16:48:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

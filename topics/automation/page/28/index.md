@@ -1,15 +1,17 @@
+---
+title: "Automation — computer-use research, page 28 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/28/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 28
 
 HTML page: https://awesomecua.com/topics/automation/page/28/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Ziweixing (紫微星)](https://awesomecua.com/resources/github-xiaozhe7772222-ziweixing/)
-- [ZRui-C DSH Computer Use](https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/)
-- [zseven-w DSH Browser](https://awesomecua.com/resources/github-zseven-w-dsh-browser/)
-- [zseven-w DSH Computer](https://awesomecua.com/resources/github-zseven-w-dsh-computer/)
-- [zuhair-01 chrome-agent-bridge](https://awesomecua.com/resources/github-zuhair-01-chrome-agent-bridge/)
-- [AI Agents for Computer Use](https://awesomecua.com/resources/github-sagerpascal-agents-for-computer-use/)
 - [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/)
 - [awb-recipes](https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/)
 - [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/)

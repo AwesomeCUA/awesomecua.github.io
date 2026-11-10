@@ -1,3 +1,11 @@
+---
+title: "Fathom | AwesomeCUA"
+url: https://awesomecua.com/resources/github-drizzdev-fathom/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Fathom
 
 Fathom is an execution harness for mobile computer-use agents that translates plain-English goals into grounded actions on iOS and Android.

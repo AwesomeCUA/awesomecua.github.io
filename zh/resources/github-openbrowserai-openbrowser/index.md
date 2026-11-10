@@ -1,3 +1,11 @@
+---
+title: "OpenBrowser (OpenBrowserAI) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openbrowserai-openbrowser/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # OpenBrowser (OpenBrowserAI)
 
 Chromium 补丁集内置助手扩展，浏览器智能体查看索引化页面元素和带编号框的截图，再按元素编号点击、输入、滚动和切换标签页。

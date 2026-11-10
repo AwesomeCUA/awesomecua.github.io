@@ -1,3 +1,11 @@
+---
+title: "TeleGen | AwesomeCUA"
+url: https://awesomecua.com/resources/github-commoluo-telegen/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # TeleGen
 
 TeleGen runs browser tasks against instrumented web apps, condenses interaction telemetry, and gives the resulting evidence to a code repair agent.

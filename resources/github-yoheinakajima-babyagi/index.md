@@ -1,3 +1,11 @@
+---
+title: "BabyAGI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yoheinakajima-babyagi/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # BabyAGI
 
 BabyAGI is an autonomous task-management agent framework that iteratively creates, prioritizes, and executes tasks using LLMs and vector memory.

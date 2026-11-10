@@ -1,3 +1,11 @@
+---
+title: "Online Mind2Web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # Online Mind2Web
 
 300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.

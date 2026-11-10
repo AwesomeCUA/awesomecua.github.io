@@ -1,3 +1,11 @@
+---
+title: "State World Models: Execute the Rules… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26811/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # State World Models: Execute the Rules, Generate the Pixels
 
 Bibliographic record for State World Models: Execute the Rules, Generate the Pixels. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chan Yan Ki, Yanran Zhang, Wenzhao Zheng, Xiaofeng Wang, Zheng Zhu, Lei Chen, Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26811/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26811/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26811,
+  title = {{State World Models: Execute the Rules, Generate the Pixels}},
+  author = {{Chan Yan Ki} and {Yanran Zhang} and {Wenzhao Zheng} and {Xiaofeng Wang} and {Zheng Zhu} and {Lei Chen} and {Jie Zhou} and {Jiwen Lu}},
+  year = {2026},
+  eprint = {2610.26811v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26811v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T17:50:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

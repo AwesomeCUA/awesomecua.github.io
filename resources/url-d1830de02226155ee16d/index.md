@@ -1,3 +1,11 @@
+---
+title: "Grounding-Anything-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d1830de02226155ee16d/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # Grounding-Anything-GUI
 
 The public training archive linked by the Phi-Ground project for its Phi-Ground-Any model.

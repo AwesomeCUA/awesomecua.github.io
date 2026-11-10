@@ -1,3 +1,11 @@
+---
+title: "Control OSWorld: An AI Control Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-03818/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Control OSWorld: An AI Control Environment for GUI Computer Use Agents
 
 Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detect malicious behavior in computer-use agent trajectories.
@@ -26,6 +34,18 @@ Maria Sanchez del Rio, Mikhail Terekhov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03818/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03818/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03818,
+  title = {{Control OSWorld: An AI Control Environment for GUI Computer Use Agents}},
+  author = {{Maria Sanchez del Rio} and {Mikhail Terekhov}},
+  year = {2026},
+  eprint = {2610.03818v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03818v2},
+  note = {First published: 2026-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T23:17:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

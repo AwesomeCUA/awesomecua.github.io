@@ -1,3 +1,11 @@
+---
+title: "RICO Semantics · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-datasets-rico-semantics/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # RICO Semantics
 
 RICO Semantics 提供针对 RICO 移动端屏幕的 500,000 条人工标注，涵盖图标形状、语义角色和文本元素关联。

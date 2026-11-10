@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0fdeb1cf5f49f84820e6/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # OS-Atlas Data
 
 GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows), mobile and web domains, with element boxes stored as relative left, top, right and bottom ratios.

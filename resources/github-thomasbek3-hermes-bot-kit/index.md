@@ -1,3 +1,11 @@
+---
+title: "Hermes Bot Kit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thomasbek3-hermes-bot-kit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hermes Bot Kit
 
 iMessage-style chat and fleet control interface for managing Hermes computer-use agents.

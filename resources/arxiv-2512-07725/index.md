@@ -1,3 +1,11 @@
+---
+title: "Privacy Practices of Browser Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-07725/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Privacy Practices of Browser Agents
 
 Presents a privacy evaluation framework for browser agents covering component weaknesses, website defenses, tracking, privacy-related prompts and personal-data leakage. The framework is applied to deployed browser-agent tools.
@@ -26,6 +34,18 @@ Alisha Ukani, Hamed Haddadi, Ali Shahin Shamsabadi, Peter Snyder
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-07725/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-07725/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_07725,
+  title = {{Privacy Practices of Browser Agents}},
+  author = {{Alisha Ukani} and {Hamed Haddadi} and {Ali Shahin Shamsabadi} and {Peter Snyder}},
+  year = {2025},
+  eprint = {2512.07725v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.07725v1},
+  note = {First published: 2025-12-08; Recorded arXiv version: v1; Recorded version updated: 2025-12-08T17:16:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

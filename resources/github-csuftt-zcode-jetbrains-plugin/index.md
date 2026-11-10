@@ -1,3 +1,11 @@
+---
+title: "ZCode JetBrains Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-csuftt-zcode-jetbrains-plugin/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ZCode JetBrains Plugin
 
 JetBrains IDE plugin for Z.ai/GLM coding agents with built-in Browser Use control over an embedded JCEF browser.

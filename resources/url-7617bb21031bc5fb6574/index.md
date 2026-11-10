@@ -1,3 +1,11 @@
+---
+title: "Gelato-UI-TARS-1.5-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7617bb21031bc5fb6574/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Gelato-UI-TARS-1.5-7B
 
 UI-TARS-1.5-7B trained with reinforcement learning on the Click-100k dataset for 255 steps as the Gelato recipe baseline for GUI grounding. The authors report gains over GTA1-7B-2507 on ScreenSpot-Pro and OS-World-G.

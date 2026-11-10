@@ -1,3 +1,11 @@
+---
+title: "bitwarden-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leeguooooo-bitwarden-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # bitwarden-use
 
 这款密码库命令行工具为浏览器智能体提供网站账户查找和登录指引，同时管理 Bitwarden 或 Vaultwarden 的凭据与通行密钥。

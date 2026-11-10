@@ -1,3 +1,11 @@
+---
+title: "PresentAgent: Multimodal Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-04036/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PresentAgent: Multimodal Agent for Presentation Video Generation
 
 Status: excluded from the active CUA catalog after scope review.

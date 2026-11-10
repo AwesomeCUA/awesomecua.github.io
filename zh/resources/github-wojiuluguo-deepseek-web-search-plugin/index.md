@@ -1,3 +1,11 @@
+---
+title: "deepseek-web-search-plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wojiuluguo-deepseek-web-search-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # deepseek-web-search-plugin
 
 提供 DeepSeek 网页搜索、交叉验证和自动归档浏览器页面功能的 OpenClaw 技能。

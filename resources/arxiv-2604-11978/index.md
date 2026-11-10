@@ -1,3 +1,11 @@
+---
+title: "The Long-Horizon Task Mirage? Diagnosing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-11978/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break
 
 Bibliographic record for The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xinyu Jessica Wang, Haoyue Bai, Yiyou Sun, Haorui Wang, Shuibai Zhang, Wenjie Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-11978/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-11978/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_11978,
+  title = {{The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break}},
+  author = {{Xinyu Jessica Wang} and {Haoyue Bai} and {Yiyou Sun} and {Haorui Wang} and {Shuibai Zhang} and {Wenjie Hu} and {Mya Schroder} and {Bilge Mutlu} and {Dawn Song} and {Robert D Nowak}},
+  year = {2026},
+  eprint = {2604.11978v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.11978v1},
+  note = {First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T19:11:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

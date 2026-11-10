@@ -1,3 +1,11 @@
+---
+title: "OpenCLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jackwener-opencli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OpenCLI
 
 OpenCLI converts authenticated websites and Electron apps into deterministic CLI commands and browser-automation skills via a Chrome bridge.

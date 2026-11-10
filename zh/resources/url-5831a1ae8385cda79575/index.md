@@ -1,3 +1,11 @@
+---
+title: "Halluminate/WebBench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5831a1ae8385cda79575/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Halluminate/WebBench
 
 Halluminate/WebBench 发布任务数据，用于评估浏览器智能体在真实网站上的读取、创建、更新、删除和文件处理流程。

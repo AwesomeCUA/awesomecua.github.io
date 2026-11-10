@@ -1,3 +1,11 @@
+---
+title: "Presenting a Paper is an Art… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-05571/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations
 
 Bibliographic record for Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chengzhi Liu, Yuzhe Yang, Kaiwen Zhou, Zhen Zhang, Yue Fan, Yanan Xie, Peng Qi, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-05571/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-05571/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_05571,
+  title = {{Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations}},
+  author = {{Chengzhi Liu} and {Yuzhe Yang} and {Kaiwen Zhou} and {Zhen Zhang} and {Yue Fan} and {Yanan Xie} and {Peng Qi} and {Xin Eric Wang}},
+  year = {2025},
+  eprint = {2510.05571v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.05571v2},
+  note = {First published: 2025-10-07; Recorded arXiv version: v2; Recorded version updated: 2025-10-21T21:04:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

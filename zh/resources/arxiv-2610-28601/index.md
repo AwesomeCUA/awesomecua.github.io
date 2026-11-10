@@ -1,3 +1,11 @@
+---
+title: "Evolving Agent Interfaces · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-28601/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Evolving Agent Interfaces
 
 Agent S4 利用任务轨迹改进计算机使用智能体的接口及使用指引，并通过验证任务选择后续改动。
@@ -27,6 +35,18 @@ Saaket Agashe, Yuzhe Yang, Gonzalo Gonzalez-Pumariega, Bhuvan Chandra Koduru, Ch
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-28601/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-28601/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_28601,
+  title = {{Evolving Agent Interfaces}},
+  author = {{Saaket Agashe} and {Yuzhe Yang} and {Gonzalo Gonzalez-Pumariega} and {Bhuvan Chandra Koduru} and {Chih-Lun Li} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2610.28601v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.28601v1},
+  note = {First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T17:47:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

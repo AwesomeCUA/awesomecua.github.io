@@ -1,3 +1,11 @@
+---
+title: "SheetCopilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bravegroup-sheetcopilot/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # SheetCopilot
 
 Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.

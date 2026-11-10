@@ -1,3 +1,11 @@
+---
+title: "PhysEvo: Astra Can Act, Let It | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-08995/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PhysEvo: Astra Can Act, Let It
 
 Bibliographic record for PhysEvo: Astra Can Act, Let It. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenqing Tian, Zeyu Zhang, Zhaocheng Liu, Fengwei Liu, Qiang Liu, Liang Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-08995/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-08995/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08995,
+  title = {{PhysEvo: Astra Can Act, Let It}},
+  author = {{Wenqing Tian} and {Zeyu Zhang} and {Zhaocheng Liu} and {Fengwei Liu} and {Qiang Liu} and {Liang Wang}},
+  year = {2026},
+  eprint = {2610.08995v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08995v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T18:54:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

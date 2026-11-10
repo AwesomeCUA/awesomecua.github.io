@@ -1,3 +1,11 @@
+---
+title: "Orbit UI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aadya940-orbit-ui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Orbit UI
 
 自托管的可视化工作流构建工具，可在 Docker 容器内编写和运行桌面计算机使用自动化流程。

@@ -1,3 +1,11 @@
+---
+title: "GUI-CIDER causal knowledge data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d0300db5ba754b1a64fa/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # GUI-CIDER causal knowledge data
 
 A published JSONL corpus of synthesized planning and causal knowledge for GUI-agent mid-training, linked directly from the official GUI-CIDER project.

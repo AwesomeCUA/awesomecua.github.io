@@ -1,3 +1,11 @@
+---
+title: "SteP: Stacked LLM Policies for Web Actions | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-03720/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # SteP: Stacked LLM Policies for Web Actions
 
 SteP dynamically composes specialized web-action policies through a stack that records the active chain of policy calls. It studies this control structure across WebArena, MiniWoB++, and CRM workflows.
@@ -26,6 +34,18 @@ Paloma Sodhi, S. R. K. Branavan, Yoav Artzi, Ryan McDonald
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-03720/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-03720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_03720,
+  title = {{SteP: Stacked LLM Policies for Web Actions}},
+  author = {{Paloma Sodhi} and {S. R. K. Branavan} and {Yoav Artzi} and {Ryan McDonald}},
+  year = {2023},
+  eprint = {2310.03720v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.03720v4},
+  note = {First published: 2023-10-05; Recorded arXiv version: v4; Recorded version updated: 2024-08-08T18:00:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

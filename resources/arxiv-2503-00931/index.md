@@ -1,3 +1,11 @@
+---
+title: "Personalizing the meshed SPL/NAC Brain Atlas… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-00931/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Personalizing the meshed SPL/NAC Brain Atlas for patient-specific scientific computing using SynthMorph
 
 Status: excluded from the active CUA catalog after scope review.

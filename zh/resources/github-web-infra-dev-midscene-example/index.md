@@ -1,3 +1,11 @@
+---
+title: "Midscene Examples · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-web-infra-dev-midscene-example/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Midscene Examples
 
 Midscene Examples 提供网页、Android、iOS 和桌面界面的 AI 自动化和测试示例，涵盖 YAML 工作流及 SDK 集成。

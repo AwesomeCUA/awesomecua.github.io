@@ -1,3 +1,11 @@
+---
+title: "KV-Ground-4B-BaseGuiOwl1.5-0228 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-709d8b51bbc8d257318f/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # KV-Ground-4B-BaseGuiOwl1.5-0228
 
 用于在高分辨率界面图像中定位目标的 4B 视觉语言模型，以 GUI-Owl-1.5-4B-Instruct 为基础，经过监督微调和基于奖励的后训练。

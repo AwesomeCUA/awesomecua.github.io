@@ -1,3 +1,11 @@
+---
+title: "shoal | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raynan00-shoal/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # shoal
 
 Deploys a swarm of concurrent AI browser agents to stress-test websites and visualize UX bottlenecks.

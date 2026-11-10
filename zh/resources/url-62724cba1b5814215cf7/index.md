@@ -1,3 +1,11 @@
+---
+title: "WebVIA-Agent · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-62724cba1b5814215cf7/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # WebVIA-Agent
 
 WebVIA 推出的基于 GLM-4.1V-9B 的网页探索智能体，读取页面截图和 DOM 树，选择点击、输入或选择操作，以遍历交互式 UI 状态，服务于 UI 到代码转换。

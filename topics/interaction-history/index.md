@@ -1,3 +1,11 @@
+---
+title: "Interaction history — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/interaction-history/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Interaction history
 
 Reviewed topic membership; resources can appear in multiple topics.

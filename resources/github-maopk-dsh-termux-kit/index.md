@@ -1,3 +1,11 @@
+---
+title: "DSH × Termux — mobile operations kit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maopk-dsh-termux-kit/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # DSH × Termux — mobile operations kit
 
 An Android operations kit for DeepSeek Harness with widgets, a Console app, and an Accessibility bridge that lets an AI read and control the phone screen.

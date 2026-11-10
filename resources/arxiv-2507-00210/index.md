@@ -1,3 +1,11 @@
+---
+title: "LineRetriever: Planning-Aware Observation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-00210/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LineRetriever: Planning-Aware Observation Reduction for Web Agents
 
 LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon.
@@ -26,6 +34,18 @@ Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Massimo Caccia,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-00210/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-00210/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_00210,
+  title = {{LineRetriever: Planning-Aware Observation Reduction for Web Agents}},
+  author = {{Imene Kerboua} and {Sahar Omidi Shayegan} and {Megh Thakkar} and {Xing Han Lù} and {Massimo Caccia} and {Véronique Eglin} and {Alexandre Aussem} and {Jérémy Espinas} and {Alexandre Lacoste}},
+  year = {2025},
+  eprint = {2507.00210v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.00210v1},
+  note = {First published: 2025-06-30; Recorded arXiv version: v1; Recorded version updated: 2025-06-30T19:24:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "VK DeviceHub · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vkcom-devicehub/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # VK DeviceHub
 
 这是一个设备管理系统，可通过浏览器查看和控制 Android 与 iOS 设备，并提供远程输入、设备清单和 REST API。

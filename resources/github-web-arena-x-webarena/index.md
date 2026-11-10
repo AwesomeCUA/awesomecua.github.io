@@ -1,3 +1,11 @@
+---
+title: "WebArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-web-arena-x-webarena/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # WebArena
 
 Self-hosted web environments and tasks for evaluating autonomous web agents.

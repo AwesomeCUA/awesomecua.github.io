@@ -1,3 +1,11 @@
+---
+title: "AgentGrounder: Zero-Shot 3D Visual Pointcloud… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-25901/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Login Machine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-richardhruby-login-machine/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Login Machine
 
 Browser agent loop for website logins: Claude classifies each login screen from a screenshot and stripped HTML and returns DOM-checked Playwright locators; user-entered credentials never reach the model.

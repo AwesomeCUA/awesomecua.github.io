@@ -1,3 +1,11 @@
+---
+title: "FedMABench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wwh0411-fedmabench/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # FedMABench
 
 A federated mobile-agent training and evaluation suite that varies user-data heterogeneity and application distribution, with released partition annotations and inference/scoring scripts.

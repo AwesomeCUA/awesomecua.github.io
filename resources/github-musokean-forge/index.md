@@ -1,3 +1,11 @@
+---
+title: "forge (Readable ReAct Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-musokean-forge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # forge (Readable ReAct Agent)
 
 Modular Python ReAct agent framework with a 235-line core loop and 31 opt-in sandbox, browser, and computer-use modules.

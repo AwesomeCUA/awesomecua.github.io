@@ -1,3 +1,11 @@
+---
+title: "Evaluating Memory in LLM Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-05257/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions
 
 Status: excluded from the active CUA catalog after scope review.

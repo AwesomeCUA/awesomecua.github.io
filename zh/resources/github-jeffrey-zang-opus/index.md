@@ -1,3 +1,11 @@
+---
+title: "Opus · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeffrey-zang-opus/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Opus
 
 macOS Electron 应用，其 OpenAI Agents SDK 循环依据元素列表和截图，通过 AppleScript、无障碍元素点击、按键、shell 命令及 URI 操作应用。

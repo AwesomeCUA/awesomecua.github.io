@@ -1,3 +1,11 @@
+---
+title: "Evaluating Language-Model Agents on Realistic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-11671/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Evaluating Language-Model Agents on Realistic Autonomous Tasks
 
 Bibliographic record for Evaluating Language-Model Agents on Realistic Autonomous Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Megan Kinniment, Lucas Jun Koba Sato, Haoxing Du, Brian Goodrich, Max Hasin, Law
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-11671/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-11671/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_11671,
+  title = {{Evaluating Language-Model Agents on Realistic Autonomous Tasks}},
+  author = {{Megan Kinniment} and {Lucas Jun Koba Sato} and {Haoxing Du} and {Brian Goodrich} and {Max Hasin} and {Lawrence Chan} and {Luke Harold Miles} and {Tao R. Lin} and {Hjalmar Wijk} and {Joel Burget} and {Aaron Ho} and {Elizabeth Barnes} and {Paul Christiano}},
+  year = {2023},
+  eprint = {2312.11671v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.11671v2},
+  note = {First published: 2023-12-18; Recorded arXiv version: v2; Recorded version updated: 2024-01-04T18:46:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

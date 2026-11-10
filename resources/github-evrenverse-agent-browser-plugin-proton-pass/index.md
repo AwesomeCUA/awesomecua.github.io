@@ -1,3 +1,11 @@
+---
+title: "agent-browser-plugin-proton-pass | AwesomeCUA"
+url: https://awesomecua.com/resources/github-evrenverse-agent-browser-plugin-proton-pass/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-browser-plugin-proton-pass
 
 Proton Pass credential provider plugin for `agent-browser` that resolves and fills logins without exposing passwords to the LLM.

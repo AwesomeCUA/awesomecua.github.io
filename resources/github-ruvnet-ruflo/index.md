@@ -1,3 +1,11 @@
+---
+title: "Ruflo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ruvnet-ruflo/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Ruflo
 
 Ruflo is an agent orchestration and MCP meta-harness for coordinating multi-agent swarms across Claude Code, Codex, and Cursor.

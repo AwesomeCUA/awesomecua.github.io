@@ -1,3 +1,11 @@
+---
+title: "Naive Visual Memory is Not Enough: A… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-14106/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents
 
 研究发现，保存完整图像的视觉记忆虽可减少部分状态错误，却会加剧动作层面的失败。替代方法 AGMem 存储与成功操作或恢复过程相关的局部截图，并在桌面 GUI 任务中评估其用途。
@@ -27,6 +35,18 @@ Seoyoung Choi, Minseok Ko, Hyunseok Lee, Kunwoong Kim, Woomin Song, Chanseok Jeo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-14106/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-14106/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_14106,
+  title = {{Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents}},
+  author = {{Seoyoung Choi} and {Minseok Ko} and {Hyunseok Lee} and {Kunwoong Kim} and {Woomin Song} and {Chanseok Jeon} and {Jinwoo Shin}},
+  year = {2026},
+  eprint = {2606.14106v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.14106v1},
+  note = {First published: 2026-06-12; Recorded arXiv version: v1; Recorded version updated: 2026-06-12T04:39:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "AssistGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-assistgui/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # AssistGUI
 
 LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.

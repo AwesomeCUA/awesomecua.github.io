@@ -1,3 +1,11 @@
+---
+title: "WebArxiv: A Reproducible Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-00938/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks
 
 WebArxiv provides 510 static-snapshot tasks with deterministic answers for scholarly browsing, including constrained paper retrieval, content extraction, and cross-paper comparison. The study also tests dynamic retrieval of interaction history to address repetitive or incomplete agent reasoning.
@@ -26,6 +34,18 @@ Zihao Sun, Zijing Shi, Ling Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-00938/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-00938/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_00938,
+  title = {{WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks}},
+  author = {{Zihao Sun} and {Zijing Shi} and {Ling Chen}},
+  year = {2025},
+  eprint = {2507.00938v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.00938v4},
+  note = {First published: 2025-07-01; Recorded arXiv version: v4; Recorded version updated: 2026-09-24T12:58:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

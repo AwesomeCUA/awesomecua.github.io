@@ -1,3 +1,11 @@
+---
+title: "mcp-chrome-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mcp-chrome-bridge
 
 Model Context Protocol server for controlling Chrome tabs, forms, console/network logs, screenshots, and GIF recordings.

@@ -1,3 +1,11 @@
+---
+title: "ViMo: A Generative Visual GUI World… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-13936/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # ViMo: A Generative Visual GUI World Model for App Agents
 
 ViMo 分别建模图形与文本，根据候选动作预测移动应用的下一张截图。符号占位表示保留布局，另一预测器补入可读文本，为 GUI 智能体规划提供视觉预判。
@@ -27,6 +35,18 @@ Dezhao Luo, Bohan Tang, Kang Li, Georgios Papoudakis, Jifei Song, Shaogang Gong,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-13936/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-13936/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_13936,
+  title = {{ViMo: A Generative Visual GUI World Model for App Agents}},
+  author = {{Dezhao Luo} and {Bohan Tang} and {Kang Li} and {Georgios Papoudakis} and {Jifei Song} and {Shaogang Gong} and {Jianye Hao} and {Jun Wang} and {Kun Shao}},
+  year = {2025},
+  eprint = {2504.13936v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.13936v2},
+  note = {First published: 2025-04-15; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T14:11:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

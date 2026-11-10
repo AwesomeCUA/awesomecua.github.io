@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act Actor 70B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8a284d122d7dcf23479d/
+updated: 2026-11-02
+type: model
+lang: en
+---
+
 # Plan-and-Act Actor 70B
 
 Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent framework that translates high-level plans into browser actions.

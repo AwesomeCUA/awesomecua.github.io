@@ -1,3 +1,11 @@
+---
+title: "ST-WebAgentBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-segev-shlomov-st-webagentbench/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # ST-WebAgentBench
 
 BrowserGym-based benchmark for evaluating the safety and policy compliance of enterprise web agents across six trustworthiness risk dimensions.

@@ -1,3 +1,11 @@
+---
+title: "Antigravity Chrome Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ph4ntom-rev-antigravity-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Antigravity Chrome Bridge
 
 零依赖的原生 C++17 Model Context Protocol 服务器，通过 stdio 提供 22 个 Chrome DevTools 自动化工具。

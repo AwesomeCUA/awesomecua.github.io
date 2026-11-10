@@ -1,3 +1,11 @@
+---
+title: "EconSkills: Studying Skill Transfer and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-19523/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data
 
 EconSkills 将经过验证的经济数据浏览轨迹转为参数化流程，提供导航、核验和恢复指导。评估分别考察已知技能的迁移与从技能库中检索，揭示近似匹配新任务的局限。
@@ -27,6 +35,18 @@ Yinzhu Quan, Zefang Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-19523/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-19523/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_19523,
+  title = {{EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data}},
+  author = {{Yinzhu Quan} and {Zefang Liu}},
+  year = {2026},
+  eprint = {2609.19523v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.19523v2},
+  note = {First published: 2026-09-17; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T04:53:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

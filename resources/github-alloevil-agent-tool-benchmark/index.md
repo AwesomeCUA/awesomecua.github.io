@@ -1,3 +1,11 @@
+---
+title: "Agent Tool Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alloevil-agent-tool-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Agent Tool Benchmark
 
 Provides reproducible same-machine benchmarks comparing AI agent browser and desktop toolkits with full execution transcripts.

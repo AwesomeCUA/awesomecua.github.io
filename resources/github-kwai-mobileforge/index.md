@@ -1,3 +1,11 @@
+---
+title: "MobileForge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kwai-mobileforge/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # MobileForge
 
 Android GUI-agent adaptation framework combining app exploration, generated curricula and rollout feedback with hint-conditioned step-level GRPO; the documented public training path targets Qwen3-VL-8B.

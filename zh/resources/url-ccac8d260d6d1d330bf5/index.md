@@ -1,3 +1,11 @@
+---
+title: "WebArena-Infinity browser agent… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ccac8d260d6d1d330bf5/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WebArena-Infinity browser agent trajectories
 
 收录三个浏览器智能体在 13 个由产品文档生成的 WebArena-Infinity 网页应用上的成功运行，含逐步推理、操作、截图及程序化验证结果。

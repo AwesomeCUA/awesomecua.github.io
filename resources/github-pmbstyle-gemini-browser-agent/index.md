@@ -1,3 +1,11 @@
+---
+title: "Gemini Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Gemini Browser Agent
 
 Chrome extension and Python WebSocket bridge that run Gemini 2.5 Computer Use on the user's active tab, sending tab screenshots to the model and executing its clicks, typing and scrolling via content scripts.

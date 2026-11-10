@@ -1,3 +1,11 @@
+---
+title: "Agent E | AwesomeCUA"
+url: https://awesomecua.com/resources/github-emergenceai-agent-e/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Agent E
 
 Browser automation agent on the AG2 framework that pairs a planner agent with a browser navigation agent to fill forms, search shops and work through sites, also callable over a local HTTP API.

@@ -1,3 +1,11 @@
+---
+title: "Browser Agent (uiuing) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-uiuing-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Browser Agent (uiuing)
 
 Chrome side-panel agent whose page engine reads a whole-page semantic DOM snapshot, re-grounds targets by element fingerprints, dispatches DOM events and checks post-conditions before reporting success.

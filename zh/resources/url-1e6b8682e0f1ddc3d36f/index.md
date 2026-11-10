@@ -1,3 +1,11 @@
+---
+title: "Browserless · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1e6b8682e0f1ddc3d36f/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Browserless
 
 面向自动化应用的托管浏览器基础设施。

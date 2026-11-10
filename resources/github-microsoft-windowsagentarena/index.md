@@ -1,3 +1,11 @@
+---
+title: "Windows Agent Arena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-windowsagentarena/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # Windows Agent Arena
 
 Windows 11 benchmark for multimodal desktop agents in a reproducible VM that runs locally or in parallel on Azure ML, with a harder mode where agents must set tasks up themselves.

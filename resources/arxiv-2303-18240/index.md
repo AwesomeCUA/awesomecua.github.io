@@ -1,3 +1,11 @@
+---
+title: "Where are we in the search for an Artificial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-18240/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?
 
 Bibliographic record for Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Arjun Majumdar, Karmesh Yadav, Sergio Arnaud, Yecheng Jason Ma, Claire Chen, Sne
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-18240/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-18240/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_18240,
+  title = {{Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?}},
+  author = {{Arjun Majumdar} and {Karmesh Yadav} and {Sergio Arnaud} and {Yecheng Jason Ma} and {Claire Chen} and {Sneha Silwal} and {Aryan Jain} and {Vincent-Pierre Berges} and {Pieter Abbeel} and {Jitendra Malik} and {Dhruv Batra} and {Yixin Lin} and {Oleksandr Maksymets} and {Aravind Rajeswaran} and {Franziska Meier}},
+  year = {2023},
+  eprint = {2303.18240v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.18240v2},
+  note = {First published: 2023-03-31; Recorded arXiv version: v2; Recorded version updated: 2024-02-01T19:42:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

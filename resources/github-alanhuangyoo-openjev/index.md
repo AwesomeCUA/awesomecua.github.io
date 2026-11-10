@@ -1,3 +1,11 @@
+---
+title: "OpenJev | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alanhuangyoo-openjev/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # OpenJev
 
 Decision models at 1.7B, 4B and 8B that answer typed questions with calibrated probabilities in one pass; trained on browser-agent steps and general decision data, they pick a web agent's next operation and element.

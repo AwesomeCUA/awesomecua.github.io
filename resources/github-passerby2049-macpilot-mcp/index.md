@@ -1,3 +1,11 @@
+---
+title: "macpilot-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-passerby2049-macpilot-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macpilot-mcp
 
 macOS Model Context Protocol server for capturing displays, reading Accessibility trees, and invoking native UI actions.

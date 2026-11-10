@@ -1,3 +1,11 @@
+---
+title: "FedGUI · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wwh0411-fedgui/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # FedGUI
 
 FedGUI 对跨异构平台、设备类型、数据来源和操作系统的联邦式 GUI 智能体训练与评测进行基准测试。

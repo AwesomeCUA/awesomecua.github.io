@@ -1,3 +1,11 @@
+---
+title: "BacktrackAgent: Enhancing GUI Agent with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-20660/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism
 
 BacktrackAgent adds verification, judgment, and reflection modules to detect erroneous GUI actions and guide recovery. It develops backtracking-oriented training data that includes post-action pages and evaluates task completion and step accuracy on Mobile3M and Auto-UI.
@@ -26,6 +34,18 @@ Qinzhuo Wu, Pengzhi Gao, Wei Liu, Jian Luan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-20660/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-20660/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_20660,
+  title = {{BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism}},
+  author = {{Qinzhuo Wu} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan}},
+  year = {2025},
+  eprint = {2505.20660v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.20660v1},
+  note = {First published: 2025-05-27; Recorded arXiv version: v1; Recorded version updated: 2025-05-27T03:09:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

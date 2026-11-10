@@ -1,3 +1,11 @@
+---
+title: "Go-Browse WebArena Qwen 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Go-Browse WebArena Qwen 7B
 
 A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.

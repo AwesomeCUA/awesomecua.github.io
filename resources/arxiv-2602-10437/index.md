@@ -1,3 +1,11 @@
+---
+title: "Control Reinforcement Learning: Interpretable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-10437/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features
 
 Bibliographic record for Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Seonglae Cho, Zekun Wu, Adriano Koshiyama
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-10437/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-10437/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_10437,
+  title = {{Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features}},
+  author = {{Seonglae Cho} and {Zekun Wu} and {Adriano Koshiyama}},
+  year = {2026},
+  eprint = {2602.10437v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.10437v3},
+  note = {First published: 2026-02-11; Recorded arXiv version: v3; Recorded version updated: 2026-05-03T22:52:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

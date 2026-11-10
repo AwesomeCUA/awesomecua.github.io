@@ -1,3 +1,11 @@
+---
+title: "Shinken | AwesomeCUA"
+url: https://awesomecua.com/resources/github-meirtz-shinken/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Shinken
 
 Shinken is a high-throughput runtime for training computer-use agents end-to-end with reinforcement learning across parallel real desktops.

@@ -1,3 +1,11 @@
+---
+title: "WildAWM-35B-A3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-201acf47dde3df755bfe/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # WildAWM-35B-A3B
 
 WildAWM-35B-A3B is a Qwen3.6-35B-A3B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.

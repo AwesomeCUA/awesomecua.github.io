@@ -1,3 +1,11 @@
+---
+title: "Less Is More, but Where? Dynamic Token… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-06866/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Less Is More, but Where? Dynamic Token Compression via LLM-Guided Keyframe Prior
 
 Status: excluded from the active CUA catalog after scope review.

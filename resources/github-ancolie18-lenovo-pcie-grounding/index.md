@@ -1,3 +1,11 @@
+---
+title: "lenovo TianXi_Action_Grounding_7B | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ancolie18-lenovo-pcie-grounding/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # lenovo TianXi_Action_Grounding_7B
 
 An evaluation script for running a multimodal GUI grounding model on ScreenSpot-Pro, with options for instruction variants and structured result logs.

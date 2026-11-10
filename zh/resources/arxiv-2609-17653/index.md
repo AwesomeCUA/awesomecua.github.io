@@ -1,3 +1,11 @@
+---
+title: "Reflect, Revise, Reuse: Training-Free… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-17653/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents
 
 EvoSkill-GUI 通过执行器与批评器的循环，根据执行反馈修订可复用的技能文件。研究无需训练地更新定位、恢复和流程信息如何帮助后续移动端与桌面任务。
@@ -27,6 +35,18 @@ Bofan Chen, Boxuan Zhang, Fei Tang, Zhengxi Lu, Yong Du, Tongbo Chen, Weiming Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-17653/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-17653/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_17653,
+  title = {{Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents}},
+  author = {{Bofan Chen} and {Boxuan Zhang} and {Fei Tang} and {Zhengxi Lu} and {Yong Du} and {Tongbo Chen} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2609.17653v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.17653v1},
+  note = {First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T17:24:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

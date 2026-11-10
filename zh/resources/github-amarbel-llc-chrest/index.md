@@ -1,3 +1,11 @@
+---
+title: "Chrest · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amarbel-llc-chrest/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrest
 
 Chrest 结合浏览器扩展、REST 守护进程、CLI 和 MCP 服务器，以编程方式管理实时 Chrome 和 Firefox 标签页及其内容。

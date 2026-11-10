@@ -1,3 +1,11 @@
+---
+title: "Aegis-Agent (Privacy Firewall Browser… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lukan-lawslaf-aegis-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Aegis-Agent (Privacy Firewall Browser Agent)
 
 隐私优先的浏览器智能体框架，在将观测结果发送给云端 LLM 前，对截图中的人脸进行模糊处理并遮盖个人身份信息。

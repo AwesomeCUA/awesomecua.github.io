@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-R1 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-35b9879a351cc3b3d7d5/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # InfiGUI-R1 3B
 
 A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine interface grounding with planning and recovery reasoning.

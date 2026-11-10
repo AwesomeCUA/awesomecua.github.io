@@ -1,3 +1,11 @@
+---
+title: "Browsentic | AwesomeCUA"
+url: https://awesomecua.com/resources/github-imshaikot-browsentic/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Browsentic
 
 Agentic browser harness providing an AI side panel and interactive control orb inside Chrome, Edge, and Arc.

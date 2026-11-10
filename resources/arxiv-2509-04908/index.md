@@ -1,3 +1,11 @@
+---
+title: "SparkUI-Parser: Enhancing GUI Perception with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-04908/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing
 
 Introduces SparkUI-Parser, which adds continuous coordinate decoding and a rejection mechanism for nonexistent targets to a multimodal model. It also presents ScreenParse for evaluating structural interface perception.
@@ -26,6 +34,18 @@ Hongyi Jing, Jiafu Chen, Chen Rao, Ziqiang Dang, Jiajie Teng, Tianyi Chu, Junche
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-04908/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-04908/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_04908,
+  title = {{SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing}},
+  author = {{Hongyi Jing} and {Jiafu Chen} and {Chen Rao} and {Ziqiang Dang} and {Jiajie Teng} and {Tianyi Chu} and {Juncheng Mo} and {Shuo Fang} and {Huaizhong Lin} and {Rui Lv} and {Chenguang Ma} and {Lei Zhao}},
+  year = {2025},
+  eprint = {2509.04908v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.04908v1},
+  note = {First published: 2025-09-05; Recorded arXiv version: v1; Recorded version updated: 2025-09-05T08:24:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

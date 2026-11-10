@@ -1,3 +1,11 @@
+---
+title: "Camofox OpenCLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fectivnfy112357-camofox-opencli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Camofox OpenCLI
 
 Dockerized cloud browser runtime combining Camofox anti-detect Firefox with 163+ OpenCLI website adapters.

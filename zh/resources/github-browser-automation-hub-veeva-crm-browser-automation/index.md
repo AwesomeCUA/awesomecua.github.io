@@ -1,3 +1,11 @@
+---
+title: "Veeva CRM (Veeva Commercial Cloud)… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-veeva-crm-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Veeva CRM (Veeva Commercial Cloud) Browser Automation
 
 面向 Veeva CRM 的浏览器自动化脚手架，可通过 Puppeteer 或 Anchor Browser 处理拜访报告、样品库存、客户资料和区域数据。

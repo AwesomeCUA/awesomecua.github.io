@@ -1,3 +1,11 @@
+---
+title: "Code Sandbox MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-automata-labs-team-code-sandbox-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Code Sandbox MCP
 
 Code Sandbox MCP 是 Model Context Protocol 服务器，可为 AI 智能体创建隔离的 Docker 容器沙箱，以执行代码和 shell 命令。

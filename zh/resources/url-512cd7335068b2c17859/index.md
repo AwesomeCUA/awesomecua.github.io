@@ -1,3 +1,11 @@
+---
+title: "jiamingzz/lgwm · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-512cd7335068b2c17859/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # jiamingzz/lgwm
 
 一组图形界面世界模型权重，用于预测操作后的屏幕表征并核查实际界面变化，另附独立的危害评分头。

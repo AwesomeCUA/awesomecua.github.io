@@ -1,3 +1,11 @@
+---
+title: "GUI-Libra-81K-SFT · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Libra-81K-SFT
 
 GUI-Libra-81K 的 SFT 版本，以 JSON 标注文件提供网页和 Android 截图上的逐步推理轨迹及坐标定位操作，含完整、无推理和 1,000 样本版本。

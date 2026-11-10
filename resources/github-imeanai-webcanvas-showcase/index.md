@@ -1,3 +1,11 @@
+---
+title: "WebCanvas_showcase | AwesomeCUA"
+url: https://awesomecua.com/resources/github-imeanai-webcanvas-showcase/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # WebCanvas_showcase
 
 A showcase that connects web agent frameworks to WebCanvas online evaluation; its SEEACT folder runs SeeAct on live websites and scores the key nodes it hits on Mind2Web-Live tasks.

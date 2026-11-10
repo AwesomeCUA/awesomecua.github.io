@@ -1,3 +1,11 @@
+---
+title: "Hronaut (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hronaut-hronaut-vscode/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Hronaut
 
 A VS Code extension that connects editor agents to Hronaut's local browser MCP server, providing a separate visible browser workspace for each project.

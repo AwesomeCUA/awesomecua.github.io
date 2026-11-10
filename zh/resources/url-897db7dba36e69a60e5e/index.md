@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-897db7dba36e69a60e5e/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # WinDeskGround
 
 用于多窗口合成桌面 GUI 元素定位的基准数据：585 张图像上的 1356 个样本，包含受控的遮挡、语义干扰和杂乱设置，以及 L1 至 L5 难度等级。

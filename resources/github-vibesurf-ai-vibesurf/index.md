@@ -1,3 +1,11 @@
+---
+title: "VibeSurf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # VibeSurf
 
 Browser assistant with a Chrome-extension UI that runs parallel Browser Use agents across tabs and Langflow-based drag-and-drop browser workflows for logins, data collection and research, using local or hosted LLMs.

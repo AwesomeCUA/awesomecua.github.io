@@ -1,3 +1,11 @@
+---
+title: "lean-computer-use-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # lean-computer-use-mcp
 
 一个面向 Windows 电脑操作的 MCP 接口，可精简无障碍界面观察结果、检查状态是否过期，并记录桌面操作供以后重放。

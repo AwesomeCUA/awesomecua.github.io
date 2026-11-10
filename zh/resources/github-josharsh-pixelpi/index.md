@@ -1,3 +1,11 @@
+---
+title: "pixelpi · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-josharsh-pixelpi/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # pixelpi
 
 仅含 6 个工具的精简浏览器智能体测试框架，其完整工具定义只需 1,196 个 token，便于节省网页自动化的上下文空间。

@@ -1,3 +1,11 @@
+---
+title: "Scene-Designer: Learning Design Intelligence… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-23121/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation
 
 Bibliographic record for Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xuanyu Liu, Hongyan Feng, Miao Pan, Sunlai Chen, Lizhou Liang, Bing Sun, Wenqi Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-23121/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-23121/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23121,
+  title = {{Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation}},
+  author = {{Xuanyu Liu} and {Hongyan Feng} and {Miao Pan} and {Sunlai Chen} and {Lizhou Liang} and {Bing Sun} and {Wenqi Zhang} and {Xuhong Zhang}},
+  year = {2026},
+  eprint = {2610.23121v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23121v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T08:28:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

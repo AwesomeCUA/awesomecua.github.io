@@ -1,3 +1,11 @@
+---
+title: "browser-harness-bidi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # browser-harness-bidi
 
 WebDriver BiDi-first browser automation harness connecting LLMs directly to live browsers with minimal dependencies.

@@ -1,3 +1,11 @@
+---
+title: "GUI-ReWalk · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bytedance-gui-rewalk/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # GUI-ReWalk
 
 桌面轨迹生成框架，从随机 GUI 探索推断目标并分阶段完成任务，同时提供回顾性推理标注。

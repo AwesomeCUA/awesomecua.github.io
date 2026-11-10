@@ -1,3 +1,11 @@
+---
+title: "Pagecast MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcpware-pagecast/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Pagecast MCP
 
 Playwright and FFmpeg Model Context Protocol server that records browser agent interactions as GIFs or MP4 videos.

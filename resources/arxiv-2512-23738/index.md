@@ -1,3 +1,11 @@
+---
+title: "Enforcing Temporal Constraints for LLM Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-23738/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Enforcing Temporal Constraints for LLM Agents
 
 Bibliographic record for Enforcing Temporal Constraints for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Adharsh Kamath, Sishen Zhang, Calvin Xu, Shubham Ugare, Gagandeep Singh, Sasa Mi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-23738/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-23738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_23738,
+  title = {{Enforcing Temporal Constraints for LLM Agents}},
+  author = {{Adharsh Kamath} and {Sishen Zhang} and {Calvin Xu} and {Shubham Ugare} and {Gagandeep Singh} and {Sasa Misailovic}},
+  year = {2025},
+  eprint = {2512.23738v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.23738v1},
+  note = {First published: 2025-12-25; Recorded arXiv version: v1; Recorded version updated: 2025-12-25T06:12:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

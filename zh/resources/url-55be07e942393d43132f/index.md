@@ -1,3 +1,11 @@
+---
+title: "SpiritSight-Agent-26B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-55be07e942393d43132f/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # SpiritSight-Agent-26B
 
 用于跨平台界面导航的 26B 视觉模型，仓库提供模型权重及推理脚本，底座模型为 InternVL2。

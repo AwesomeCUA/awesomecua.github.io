@@ -1,3 +1,11 @@
+---
+title: "redroid · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-remote-android-redroid-doc/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # redroid
 
 redroid 在 Linux 主机上提供容器化 Android 实例，配有 ADB 连接和可配置显示设置，可用于移动端自动化环境。

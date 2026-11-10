@@ -1,3 +1,11 @@
+---
+title: "TestPilot · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-h0ngza1-testpilot/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # TestPilot
 
 智能体驱动的端到端网页测试平台，在实时浏览器中执行自然语言测试用例。

@@ -1,3 +1,11 @@
+---
+title: "TinyClick: Single-Turn Agent for Empowering… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-11871/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # TinyClick: Single-Turn Agent for Empowering GUI Automation
 
 Adapts a compact Florence-2 model to map user instructions to screen coordinates using multitask training and augmented data.
@@ -26,6 +34,18 @@ Pawel Pawlowski, Krystian Zawistowski, Wojciech Lapacz, Adam Wiacek, Marcin Skor
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-11871/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-11871/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_11871,
+  title = {{TinyClick: Single-Turn Agent for Empowering GUI Automation}},
+  author = {{Pawel Pawlowski} and {Krystian Zawistowski} and {Wojciech Lapacz} and {Adam Wiacek} and {Marcin Skorupa} and {Sebastien Postansque} and {Jakub Hoscilowicz}},
+  year = {2024},
+  eprint = {2410.11871v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.11871v3},
+  note = {First published: 2024-10-09; Recorded arXiv version: v3; Recorded version updated: 2025-05-21T06:52:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

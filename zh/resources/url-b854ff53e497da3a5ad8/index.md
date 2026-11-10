@@ -1,3 +1,11 @@
+---
+title: "DragOn · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b854ff53e497da3a5ad8/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # DragOn
 
 拖拽定位训练与评估数据，将每条截图指令与起点和终点框配对，涵盖文本高亮、电子表格单元格、幻灯片缩放和滑块。

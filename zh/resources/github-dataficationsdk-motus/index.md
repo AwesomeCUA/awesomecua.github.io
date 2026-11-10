@@ -1,3 +1,11 @@
+---
+title: "Motus · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dataficationsdk-motus/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Motus
 
 Motus 是可扩展的 .NET 浏览器自动化与智能体测试框架，通过 CDP 直接与 Chromium 通信。

@@ -1,3 +1,11 @@
+---
+title: "BrowserAgent: Building Web Agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-10666/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions
 
 BrowserAgent 经过训练，可在信息查找任务中基于 Playwright 直接滚动、点击网页并输入文字。训练结合监督微调与拒绝采样微调，并用显式记忆跨步骤保留结论。
@@ -27,6 +35,18 @@ Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxua
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-10666/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-10666/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_10666,
+  title = {{BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions}},
+  author = {{Tao Yu} and {Zhengbo Zhang} and {Zhiheng Lyu} and {Junhao Gong} and {Hongzhu Yi} and {Xinming Wang} and {Yuxuan Zhou} and {Jiabing Yang} and {Ping Nie} and {Yan Huang} and {Wenhu Chen}},
+  year = {2025},
+  eprint = {2510.10666v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.10666v2},
+  note = {First published: 2025-10-12; Recorded arXiv version: v2; Recorded version updated: 2025-10-14T08:54:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

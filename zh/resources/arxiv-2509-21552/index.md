@@ -1,3 +1,11 @@
+---
+title: "Learning GUI Grounding with Spatial… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-21552/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learning GUI Grounding with Spatial Reasoning from Visual Feedback
 
 GUI-Cursor 将 GUI 定位视为由可见反馈和移动历史引导的一系列光标移动；利用轨迹奖励进行在线强化学习，训练模型逐步修正目标位置。
@@ -27,6 +35,18 @@ Yu Zhao, Wei-Ning Chen, Huseyin Atahan Inan, Samuel Kessler, Lu Wang, Lukas Wuts
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-21552/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-21552/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21552,
+  title = {{Learning GUI Grounding with Spatial Reasoning from Visual Feedback}},
+  author = {{Yu Zhao} and {Wei-Ning Chen} and {Huseyin Atahan Inan} and {Samuel Kessler} and {Lu Wang} and {Lukas Wutschitz} and {Fangkai Yang} and {Chaoyun Zhang} and {Pasquale Minervini} and {Saravan Rajmohan} and {Robert Sim}},
+  year = {2025},
+  eprint = {2509.21552v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21552v2},
+  note = {First published: 2025-09-25; Recorded arXiv version: v2; Recorded version updated: 2026-05-25T20:58:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

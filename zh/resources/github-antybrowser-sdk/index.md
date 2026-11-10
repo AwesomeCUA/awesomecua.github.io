@@ -1,3 +1,11 @@
+---
+title: "AntyBrowser SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-antybrowser-sdk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AntyBrowser SDK
 
 用于操作 AntyBrowser 反检测浏览器配置的官方多语言 SDK（TypeScript、Python、C#、Go、PHP、Ruby）。

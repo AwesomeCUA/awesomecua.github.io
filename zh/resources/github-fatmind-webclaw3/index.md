@@ -1,3 +1,11 @@
+---
+title: "webclaw3 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fatmind-webclaw3/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # webclaw3
 
 一款浏览器智能体技能，使用本地 Chrome 会话探索任务，再生成可复用脚本，重复执行已成功的浏览器工作流程。

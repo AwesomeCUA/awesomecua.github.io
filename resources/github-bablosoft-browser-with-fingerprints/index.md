@@ -1,3 +1,11 @@
+---
+title: "browser-with-fingerprints | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bablosoft-browser-with-fingerprints/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # browser-with-fingerprints
 
 A Windows Node.js package that launches browsers with fingerprints fetched from the FingerprintSwitcher service and serves as the base for framework-specific plugins.

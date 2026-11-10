@@ -1,3 +1,11 @@
+---
+title: "CuaOS · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cuaos-cuaos/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # CuaOS
 
 CuaOS 在本地 Docker 沙箱中运行 Qwen3-VL 计算机使用智能体，自主控制 Ubuntu 虚拟桌面。

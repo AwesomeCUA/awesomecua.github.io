@@ -1,3 +1,11 @@
+---
+title: "webarena-docker · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mahirlabibdihan-webarena-docker/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # webarena-docker
 
 这套 WebArena 网站的 Docker 部署方案提供启动站点容器的脚本，并可在涉及浏览器任务的实验之间恢复站点状态。

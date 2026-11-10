@@ -1,3 +1,11 @@
+---
+title: "AutoWebNav | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mindattic-autowebnav/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # AutoWebNav
 
 AutoWebNav is a .NET library for WebView2 browser automation, combining page actions and element resolution with interaction recording and live observation.

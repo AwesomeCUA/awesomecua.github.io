@@ -1,3 +1,11 @@
+---
+title: "OpenComputer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-andykr1k-opencomputer/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OpenComputer
 
 OpenComputer is a local-first cross-platform computer-use agent for Linux, Windows, and macOS powered by local vision-language models.

@@ -1,3 +1,11 @@
+---
+title: "mcp-anything | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zaymadkid-mcp-anything/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mcp-anything
 
 Suite of 7 Model Context Protocol servers exposing 228 tools to bridge desktop applications and system services to AI agents.

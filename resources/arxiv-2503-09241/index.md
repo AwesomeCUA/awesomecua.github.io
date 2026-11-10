@@ -1,3 +1,11 @@
+---
+title: "In-Context Defense in Computer Agents: An… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-09241/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # In-Context Defense in Computer Agents: An Empirical Study
 
 Studies in-context defenses for computer agents exposed to misleading pop-ups and other environmental instructions. It examines defensive reasoning before action planning and how a small set of examples changes resistance to these attacks.
@@ -26,6 +34,18 @@ Pei Yang, Hai Ci, Mike Zheng Shou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-09241/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-09241/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_09241,
+  title = {{In-Context Defense in Computer Agents: An Empirical Study}},
+  author = {{Pei Yang} and {Hai Ci} and {Mike Zheng Shou}},
+  year = {2025},
+  eprint = {2503.09241v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.09241v1},
+  note = {First published: 2025-03-12; Recorded arXiv version: v1; Recorded version updated: 2025-03-12T10:38:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

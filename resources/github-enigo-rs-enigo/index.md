@@ -1,3 +1,11 @@
+---
+title: "enigo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-enigo-rs-enigo/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # enigo
 
 A Rust input simulation library for desktop automation that sends mouse actions and text on Windows, macOS, and Linux.

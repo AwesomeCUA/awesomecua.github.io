@@ -1,3 +1,11 @@
+---
+title: "OpenBUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alisharjeell-openbua/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # OpenBUA
 
 Chrome side-panel agent that works in the user's signed-in browser, reading DOM control inventories and tab screenshots, then clicking, typing and filling forms through injected synthetic events.

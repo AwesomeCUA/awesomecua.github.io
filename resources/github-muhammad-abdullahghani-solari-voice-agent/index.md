@@ -1,3 +1,11 @@
+---
+title: "Solari Voice Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-muhammad-abdullahghani-solari-voice-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Solari Voice Agent
 
 Voice-directed autonomous computer-use agent built on Solari Desktop and LangGraph.

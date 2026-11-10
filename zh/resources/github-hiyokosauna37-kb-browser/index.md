@@ -1,3 +1,11 @@
+---
+title: "kb-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hiyokosauna37-kb-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # kb-browser
 
 由 CLI 驱动、配备终端 DevTools 的 Playwright 和 Chromium 浏览器，供人和 AI 编码智能体使用。

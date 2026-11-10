@@ -1,3 +1,11 @@
+---
+title: "EMBL AI Librarian: Life-Sciences Knowledge… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28229/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents
 
 Status: excluded from the active CUA catalog after scope review.

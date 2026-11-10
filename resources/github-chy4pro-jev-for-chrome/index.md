@@ -1,3 +1,11 @@
+---
+title: "Jev for Chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Jev for Chrome
 
 Chrome extension agent that sends an indexed table of visible page controls to the TypeSafe Jev decision model, asks a small text model only for typed strings, and acts through Chrome's debugger input.

@@ -1,3 +1,11 @@
+---
+title: "Diagnosing Personalization Failures in… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-30573/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Diagnosing Personalization Failures in Mobile GUI Agents
 
 PrefDiag-Bench 通过分阶段探针和用户上下文，诊断偏好应何时、如何影响移动 GUI 智能体的连续操作。
@@ -27,6 +35,18 @@ Zhixin Lin, Dongliang Xu, Jungang Li, Shidong Pan, Jun Feng, Yanbin Sun, Jing Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-30573/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-30573/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_30573,
+  title = {{Diagnosing Personalization Failures in Mobile GUI Agents}},
+  author = {{Zhixin Lin} and {Dongliang Xu} and {Jungang Li} and {Shidong Pan} and {Jun Feng} and {Yanbin Sun} and {Jing Li} and {Liang Liu} and {Yue Yao}},
+  year = {2026},
+  eprint = {2610.30573v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.30573v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T01:04:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

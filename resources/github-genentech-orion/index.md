@@ -1,3 +1,11 @@
+---
+title: "Orion | AwesomeCUA"
+url: https://awesomecua.com/resources/github-genentech-orion/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Orion
 
 A biomedical analysis agent that operates scientific desktop applications, a browser, and terminal tools in an Ubuntu virtual machine. Its repository includes task configurations and launchers.

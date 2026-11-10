@@ -1,3 +1,11 @@
+---
+title: "EmeraldMind: A Knowledge Graph-Augmented… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-11506/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection
 
 Status: excluded from the active CUA catalog after scope review.

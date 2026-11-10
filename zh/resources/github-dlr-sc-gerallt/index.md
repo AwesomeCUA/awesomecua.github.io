@@ -1,3 +1,11 @@
+---
+title: "GERALLT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dlr-sc-gerallt/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # GERALLT
 
 通过图形界面测试 RCE 的 LLM 系统，分别使用模型执行操作、评估问题和描述图标。

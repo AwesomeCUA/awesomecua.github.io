@@ -1,3 +1,11 @@
+---
+title: "Narada Operator | AwesomeCUA"
+url: https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Narada Operator
 
 Narada Operator is an enterprise web agent that executes workflows across web interfaces and APIs using task planning and error recovery.

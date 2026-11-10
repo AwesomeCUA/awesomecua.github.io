@@ -1,3 +1,11 @@
+---
+title: "GUI-Drag | AwesomeCUA"
+url: https://awesomecua.com/resources/url-aa28e1329a52e341d285/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # GUI-Drag
 
 Data for learning text-dragging interactions in graphical interfaces.

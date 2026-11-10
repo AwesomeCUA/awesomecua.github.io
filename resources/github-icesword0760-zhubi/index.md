@@ -1,3 +1,11 @@
+---
+title: "Zhubi (朱笔) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-icesword0760-zhubi/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Zhubi (朱笔)
 
 Zhubi is a self-hosted bounding-box annotation and fine-tuning workbench for training Florence-2 and YOLO GUI detector models.

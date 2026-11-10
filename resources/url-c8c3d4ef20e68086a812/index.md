@@ -1,3 +1,11 @@
+---
+title: "OSWorkerBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # OSWorkerBench
 
 A desktop GUI-agent benchmark with 100 office tasks spanning 17 business tracks and 41 applications. It releases task and demonstration tables for evaluation with the UI-Mate harness.

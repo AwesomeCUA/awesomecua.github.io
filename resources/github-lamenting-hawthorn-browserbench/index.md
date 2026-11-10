@@ -1,3 +1,11 @@
+---
+title: "BrowserTransactionBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # BrowserTransactionBench
 
 BrowserTransactionBench evaluates transactional safety, idempotency, and double-spend prevention in autonomous browser agents.

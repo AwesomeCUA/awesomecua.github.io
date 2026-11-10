@@ -1,3 +1,11 @@
+---
+title: "Enhancing Visual Grounding for GUI Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12370/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning
 
 Proposes GUI grounding training that combines curated seed examples, continuous location-dependent policy feedback, and iterative refinement guided by attention maps. The study evaluates the resulting reinforcement-learning procedure on three grounding benchmarks, including ScreenSpot-Pro.
@@ -26,6 +34,18 @@ Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-12370/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-12370/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_12370,
+  title = {{Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning}},
+  author = {{Xinbin Yuan} and {Jian Zhang} and {Kaixin Li} and {Zhuoxuan Cai} and {Lujian Yao} and {Jie Chen} and {Enguang Wang} and {Qibin Hou} and {Jinwei Chen} and {Peng-Tao Jiang} and {Bo Li}},
+  year = {2025},
+  eprint = {2505.12370v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.12370v2},
+  note = {First published: 2025-05-18; Recorded arXiv version: v2; Recorded version updated: 2025-05-24T03:01:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

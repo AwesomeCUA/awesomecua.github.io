@@ -1,3 +1,11 @@
+---
+title: "Agentic RSR: Real-to-Sim-to-Real through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-10479/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies
 
 Bibliographic record for Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yihan Li, Yating Feng, Shengjiu Sun, Jianing Chen, Hao Ren, Bowen Yang, Weisheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-10479/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-10479/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_10479,
+  title = {{Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies}},
+  author = {{Yihan Li} and {Yating Feng} and {Shengjiu Sun} and {Jianing Chen} and {Hao Ren} and {Bowen Yang} and {Weisheng Xu} and {Qiwei Wu} and {Hui Cheng} and {Renjing Xu}},
+  year = {2026},
+  eprint = {2610.10479v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.10479v2},
+  note = {First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-11T15:02:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

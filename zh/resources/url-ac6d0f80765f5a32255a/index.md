@@ -1,3 +1,11 @@
+---
+title: "WebRewardBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ac6d0f80765f5a32255a/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # WebRewardBench
 
 用于网页过程奖励模型的离线偏好评估集，将页面和轨迹上下文与受偏好及被拒绝的候选决策配对。

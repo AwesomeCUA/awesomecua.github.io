@@ -1,3 +1,11 @@
+---
+title: "Beyond Pipelines: A Survey of the… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-16720/
+updated: 2026-11-06
+type: survey
+lang: zh-CN
+---
+
 # Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI
 
 综述模型内生的智能体方法及 RL 在学习型规划、工具使用和记忆中的作用，并将 GUI 智能体与深度研究智能体列为应用方向。
@@ -27,6 +35,18 @@ Jitao Sang, Jinlin Xiao, Jiarun Han, Jilin Chen, Xiaoyi Chen, Shuyu Wei, Yongjie
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-16720/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-16720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_16720,
+  title = {{Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI}},
+  author = {{Jitao Sang} and {Jinlin Xiao} and {Jiarun Han} and {Jilin Chen} and {Xiaoyi Chen} and {Shuyu Wei} and {Yongjie Sun} and {Yuhang Wang}},
+  year = {2025},
+  eprint = {2510.16720v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.16720v2},
+  note = {First published: 2025-10-19; Recorded arXiv version: v2; Recorded version updated: 2025-10-26T09:00:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

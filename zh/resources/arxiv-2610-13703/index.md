@@ -1,3 +1,11 @@
+---
+title: "A Baseline Assessment for the Agentic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-13703/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # A Baseline Assessment for the Agentic Web Technology Stack
 
 提出 MASTIF 框架，用于比较智能体模型、协议和实现框架的不同组合在网页任务上的表现，并以 300 个 Mind2Web 任务进行初步评估。
@@ -27,6 +35,18 @@ Vagner Figueredo de Santana, Diogo Cortiz
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-13703/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-13703/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13703,
+  title = {{A Baseline Assessment for the Agentic Web Technology Stack}},
+  author = {{Vagner Figueredo de Santana} and {Diogo Cortiz}},
+  year = {2026},
+  eprint = {2610.13703v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13703v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T14:59:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

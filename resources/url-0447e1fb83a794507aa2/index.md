@@ -1,3 +1,11 @@
+---
+title: "UI-TARS 72B DPO | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0447e1fb83a794507aa2/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # UI-TARS 72B DPO
 
 DPO-labelled 72B UI-TARS checkpoint that its card marks as recommended: a native GUI agent model in the Qwen2-VL architecture for screen perception, element grounding and multi-step actions on web, mobile and desktop.

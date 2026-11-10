@@ -1,3 +1,11 @@
+---
+title: "pi-control-chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lyd123qw2008-pi-control-chrome/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pi-control-chrome
 
 面向 Pi 编码智能体、与 Codex 适配的 Chrome 和 Edge 浏览器控制扩展及桥接程序。

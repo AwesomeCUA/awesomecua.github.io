@@ -1,3 +1,11 @@
+---
+title: "SentinelDesk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sentineldesk-desktop/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # SentinelDesk
 
 Collaborative Linux desktop streamed to the browser where humans and AI agents share a workspace.

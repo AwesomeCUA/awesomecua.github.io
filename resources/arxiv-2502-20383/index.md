@@ -1,3 +1,11 @@
+---
+title: "Why Are Web AI Agents More Vulnerable Than… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-20383/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis
 
 Analyzes web-agent vulnerabilities at the component level, examining goal placement in prompts, multistep action generation, and observations as sources of increased susceptibility.
@@ -26,6 +34,18 @@ Jeffrey Yang Fan Chiang, Seungjae Lee, Jia-Bin Huang, Furong Huang, Yizheng Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-20383/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-20383/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_20383,
+  title = {{Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis}},
+  author = {{Jeffrey Yang Fan Chiang} and {Seungjae Lee} and {Jia-Bin Huang} and {Furong Huang} and {Yizheng Chen}},
+  year = {2025},
+  eprint = {2502.20383v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.20383v3},
+  note = {First published: 2025-02-27; Recorded arXiv version: v3; Recorded version updated: 2025-09-21T22:29:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

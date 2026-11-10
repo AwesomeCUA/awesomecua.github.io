@@ -1,3 +1,11 @@
+---
+title: "Your Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rakeshnirzari1-your-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Your Browser Agent
 
 Connects Claude Code, Cursor, and MCP clients to the user's real logged-in Chrome browser.

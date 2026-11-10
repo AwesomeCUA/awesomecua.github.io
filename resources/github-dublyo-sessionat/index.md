@@ -1,3 +1,11 @@
+---
+title: "Sessionat | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dublyo-sessionat/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Sessionat
 
 Sessionat is an open-source Chromium-based macOS browser with persistent workspaces and native AI agent control hooks.

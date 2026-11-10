@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Agents Gain Little Benefit… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-04073/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials
 
 RAG-PolicyJudge 利用任务教程，从候选计算机使用动作中作出选择；研究比较有无世界模型预测时的决策。
@@ -27,6 +35,18 @@ Anh Nguyen, Tianyi Xu, Phat Tran, Harry Yu, Huazheng Wang, Stefan Lee
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-04073/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-04073/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_04073,
+  title = {{Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials}},
+  author = {{Anh Nguyen} and {Tianyi Xu} and {Phat Tran} and {Harry Yu} and {Huazheng Wang} and {Stefan Lee}},
+  year = {2026},
+  eprint = {2611.04073v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.04073v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T23:36:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

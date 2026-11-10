@@ -1,3 +1,11 @@
+---
+title: "Rico | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Rico
 
 Mobile app screenshots, view hierarchies, and interaction traces for UI research.

@@ -1,3 +1,11 @@
+---
+title: "GPTVoiceTasker: Advancing Multi-step… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2401-14268/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning
 
 提出移动助手 GPTVoiceTasker，可解读用户命令、执行设备交互，并从先前命令中学习以简化后续任务执行；研究还包括一项任务效率用户研究。
@@ -27,6 +35,18 @@ Minh Duc Vu, Han Wang, Zhuang Li, Jieshan Chen, Shengdong Zhao, Zhenchang Xing, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2401-14268/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2401-14268/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_14268,
+  title = {{GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning}},
+  author = {{Minh Duc Vu} and {Han Wang} and {Zhuang Li} and {Jieshan Chen} and {Shengdong Zhao} and {Zhenchang Xing} and {Chunyang Chen}},
+  year = {2024},
+  eprint = {2401.14268v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.14268v3},
+  note = {First published: 2024-01-25; Recorded arXiv version: v3; Recorded version updated: 2024-08-14T00:48:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

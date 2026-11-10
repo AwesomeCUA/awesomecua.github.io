@@ -1,3 +1,11 @@
+---
+title: "Lexi: Self-Supervised Learning of the UI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-10165/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Lexi: Self-Supervised Learning of the UI Language
 
 Introduces Lexi and UICaption to learn UI image-text representations from descriptions of interface functionality. Evaluation covers UI action entailment, instruction-based retrieval, referring-expression grounding, and UI entity recognition.
@@ -26,6 +34,18 @@ Pratyay Banerjee, Shweti Mahajan, Kushal Arora, Chitta Baral, Oriana Riva
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-10165/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-10165/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_10165,
+  title = {{Lexi: Self-Supervised Learning of the UI Language}},
+  author = {{Pratyay Banerjee} and {Shweti Mahajan} and {Kushal Arora} and {Chitta Baral} and {Oriana Riva}},
+  year = {2023},
+  eprint = {2301.10165v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.10165v1},
+  note = {First published: 2023-01-23; Recorded arXiv version: v1; Recorded version updated: 2023-01-23T09:05:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

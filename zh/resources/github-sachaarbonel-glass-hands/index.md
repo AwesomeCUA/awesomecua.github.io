@@ -1,3 +1,11 @@
+---
+title: "Glass Hands · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sachaarbonel-glass-hands/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Glass Hands
 
 Glass Hands 是 Rust 框架，通过 Chrome DevTools Protocol 将 OpenAI 计算机使用模型直接连接到 Chromium。

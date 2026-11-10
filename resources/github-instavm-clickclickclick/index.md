@@ -1,3 +1,11 @@
+---
+title: "ClickClickClick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-instavm-clickclickclick/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ClickClickClick
 
 ClickClickClick is a framework for autonomous Android and desktop computer use supporting local and cloud vision-language models.

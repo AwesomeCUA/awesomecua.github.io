@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI: Automating Online GUI Learning at… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-23762/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
 Combines generated tasks, estimated success rewards, and online reinforcement learning to automate GUI-agent interaction training.
@@ -26,6 +34,18 @@ Chenyu Yang, Shiqian Su, Shi Liu, Xuan Dong, Yue Yu, Weijie Su, Xuehui Wang, Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-23762/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-23762/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_23762,
+  title = {{ZeroGUI: Automating Online GUI Learning at Zero Human Cost}},
+  author = {{Chenyu Yang} and {Shiqian Su} and {Shi Liu} and {Xuan Dong} and {Yue Yu} and {Weijie Su} and {Xuehui Wang} and {Zhaoyang Liu} and {Jinguo Zhu} and {Hao Li} and {Wenhai Wang} and {Yu Qiao} and {Xizhou Zhu} and {Jifeng Dai}},
+  year = {2025},
+  eprint = {2505.23762v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.23762v1},
+  note = {First published: 2025-05-29; Recorded arXiv version: v1; Recorded version updated: 2025-05-29T17:59:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

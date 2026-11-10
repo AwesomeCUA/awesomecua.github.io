@@ -1,3 +1,11 @@
+---
+title: "GDPval: Evaluating AI Model Performance on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-04374/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks
 
 Bibliographic record for GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tejal Patwardhan, Rachel Dias, Elizabeth Proehl, Grace Kim, Michele Wang, Olivia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-04374/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-04374/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04374,
+  title = {{GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks}},
+  author = {{Tejal Patwardhan} and {Rachel Dias} and {Elizabeth Proehl} and {Grace Kim} and {Michele Wang} and {Olivia Watkins} and {Simón Posada Fishman} and {Marwan Aljubeh} and {Phoebe Thacker} and {Laurance Fauconnet} and {Natalie S. Kim} and {Patrick Chao} and {Samuel Miserendino} and {Gildas Chabot} and {David Li} and {Michael Sharman} and {Alexandra Barr} and {Amelia Glaese} and {Jerry Tworek}},
+  year = {2025},
+  eprint = {2510.04374v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04374v1},
+  note = {First published: 2025-10-05; Recorded arXiv version: v1; Recorded version updated: 2025-10-05T21:36:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

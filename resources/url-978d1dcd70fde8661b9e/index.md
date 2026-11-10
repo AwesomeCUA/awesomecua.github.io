@@ -1,3 +1,11 @@
+---
+title: "Browserbase Cloud | AwesomeCUA"
+url: https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/
+updated: 2026-10-18
+type: product
+lang: en
+---
+
 # Browserbase Cloud
 
 Managed browser infrastructure for agent applications.

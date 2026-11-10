@@ -1,3 +1,11 @@
+---
+title: "Octopus v2: On-device language model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-01744/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Octopus v2: On-device language model for super agent
 
 Bibliographic record for Octopus v2: On-device language model for super agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wei Chen, Zhiyuan Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-01744/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-01744/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_01744,
+  title = {{Octopus v2: On-device language model for super agent}},
+  author = {{Wei Chen} and {Zhiyuan Li}},
+  year = {2024},
+  eprint = {2404.01744v7},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.01744v7},
+  note = {First published: 2024-04-02; Recorded arXiv version: v7; Recorded version updated: 2026-09-11T20:45:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

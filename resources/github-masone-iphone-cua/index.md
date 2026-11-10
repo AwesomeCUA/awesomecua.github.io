@@ -1,3 +1,11 @@
+---
+title: "iPhone CUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-masone-iphone-cua/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # iPhone CUA
 
 iPhone CUA steers physical iPhones from macOS by pairing an iPhone screen/control bridge with OpenAI Computer-Using Agent models.

@@ -1,3 +1,11 @@
+---
+title: "Multi-objective application placement in fog… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14649/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-objective application placement in fog computing using graph neural network-based reinforcement learning
 
 Status: excluded from the active CUA catalog after scope review.

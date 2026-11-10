@@ -1,3 +1,11 @@
+---
+title: "ScreenHand · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-manushi4-screenhand/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ScreenHand
 
 开源桌面自动化 MCP 服务器，通过操作系统无障碍 API，以约 50ms 的速度操作 macOS 和 Windows 原生 UI 元素。

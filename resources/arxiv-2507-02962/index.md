@@ -1,3 +1,11 @@
+---
+title: "RAG-R1: Incentivizing the Search and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-02962/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RAG-R1: Incentivizing the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism
 
 Bibliographic record for RAG-R1: Incentivizing the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiwen Tan, Jiaming Huang, Qintong Wu, Hongxuan Zhang, Chenyi Zhuang, Jinjie Gu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-02962/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-02962/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_02962,
+  title = {{RAG-R1: Incentivizing the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism}},
+  author = {{Zhiwen Tan} and {Jiaming Huang} and {Qintong Wu} and {Hongxuan Zhang} and {Chenyi Zhuang} and {Jinjie Gu}},
+  year = {2025},
+  eprint = {2507.02962v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.02962v6},
+  note = {First published: 2025-06-30; Recorded arXiv version: v6; Recorded version updated: 2026-01-13T06:28:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

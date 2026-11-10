@@ -1,3 +1,11 @@
+---
+title: "GTA1: GUI Test-time Scaling Agent (agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yan98-gta1/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # GTA1: GUI Test-time Scaling Agent
 
 GTA1 is a GUI agent that samples action proposals, uses a judge to select one, and maps it to a visual target with a reinforcement-trained grounding model.

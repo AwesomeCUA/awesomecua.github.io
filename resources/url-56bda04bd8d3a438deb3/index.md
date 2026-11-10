@@ -1,3 +1,11 @@
+---
+title: "ScreenRef | AwesomeCUA"
+url: https://awesomecua.com/resources/url-56bda04bd8d3a438deb3/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # ScreenRef
 
 GUI screenshots paired with localization instructions and targets, including absent-target examples; image access is gated under publisher terms.

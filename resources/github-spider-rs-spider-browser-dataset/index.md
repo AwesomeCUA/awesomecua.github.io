@@ -1,3 +1,11 @@
+---
+title: "Spider Browser Dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Spider Browser Dataset
 
 Spider Browser Dataset benchmarks browser automation and anti-bot resilience across 999 URLs and 327 domains in 18 categories.

@@ -1,3 +1,11 @@
+---
+title: "Holo3 35B-A3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a349aace3cfde25628a8/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Holo3 35B-A3B
 
 基于 Qwen3.5 的稀疏 GUI 动作检查点，用于导航和计算机使用流程。

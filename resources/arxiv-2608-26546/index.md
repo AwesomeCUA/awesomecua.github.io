@@ -1,3 +1,11 @@
+---
+title: "DuMateBench: Evaluating Autonomous Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-26546/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows
 
 Bibliographic record for DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zechun Niu, Yukun Zhao, Jiaxin Zhang, Xu Shen, Jinhua Si, Han Tian, Can Xu, Yunf
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-26546/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-26546/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_26546,
+  title = {{DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows}},
+  author = {{Zechun Niu} and {Yukun Zhao} and {Jiaxin Zhang} and {Xu Shen} and {Jinhua Si} and {Han Tian} and {Can Xu} and {Yunfan Song} and {Jiaxin Mao} and {Yansong Gao} and {Yuchen Li} and {Jianmin Wu} and {Lingyong Yan} and {Shuaiqiang Wang} and {Dawei Yin}},
+  year = {2026},
+  eprint = {2608.26546v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.26546v1},
+  note = {First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T02:36:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Midscene Python | AwesomeCUA"
+url: https://awesomecua.com/resources/github-python51888-midscene-python/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Midscene Python
 
 Midscene Python is a framework for natural-language automation of websites and Android devices, with model-assisted actions, element location, extraction and assertions.

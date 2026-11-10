@@ -1,3 +1,11 @@
+---
+title: "Rally v2 for WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agent9ai-rally-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Rally v2 for WebMCP
 
 WebMCP 编排运行环境，由 ChatGPT 发起作业，专门的浏览器智能体执行并验证网页任务。

@@ -1,3 +1,11 @@
+---
+title: "Mechanize · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sparklemotion-mechanize/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Mechanize
 
 Mechanize 是一个 Ruby 库，可自动执行网站交互，包括页面导航、Cookie 处理和表单提交。

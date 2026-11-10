@@ -1,3 +1,11 @@
+---
+title: "WinDOM code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chenghengli-windom/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # WinDOM code
 
 使用 Windows 风格网页环境的 GUI 定位训练与评估代码，包含同系列模型蒸馏、GRPO 训练方案和框内点位评分。

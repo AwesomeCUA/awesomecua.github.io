@@ -1,3 +1,11 @@
+---
+title: "MKD2World: A Typed Spatial MarkDown World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-06544/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MKD2World: A Typed Spatial MarkDown World Model For Web Agents
 
 Introduces MKD2World, a desktop web world model that represents interface elements in Typed Spatial Markdown and predicts post-action states, supported by AtomBlock-WebUI annotations.
@@ -26,6 +34,18 @@ Zhihao Nan, Sifan Zhou, Yiming Cheng, Jinkai Zheng, Zheng Zhu, Si Shi, Ming Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-06544/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-06544/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_06544,
+  title = {{MKD2World: A Typed Spatial MarkDown World Model For Web Agents}},
+  author = {{Zhihao Nan} and {Sifan Zhou} and {Yiming Cheng} and {Jinkai Zheng} and {Zheng Zhu} and {Si Shi} and {Ming Li} and {Fei Yu}},
+  year = {2026},
+  eprint = {2611.06544v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.06544v1},
+  note = {First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T14:11:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Tensor Evolution: A Framework for Fast… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-03402/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Tensor Evolution: A Framework for Fast Evaluation of Tensor Computations using Recurrences
 
 Status: excluded from the active CUA catalog after scope review.

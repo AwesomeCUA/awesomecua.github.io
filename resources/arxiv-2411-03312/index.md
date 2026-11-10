@@ -1,3 +1,11 @@
+---
+title: "Inference Optimal VLMs Need Fewer Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-03312/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
 
 Status: excluded from the active CUA catalog after scope review.

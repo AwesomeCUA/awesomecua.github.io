@@ -1,3 +1,11 @@
+---
+title: "Groma: Localized Visual Tokenization for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-13013/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models
 
 Bibliographic record for Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chuofan Ma, Yi Jiang, Jiannan Wu, Zehuan Yuan, Xiaojuan Qi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-13013/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-13013/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_13013,
+  title = {{Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models}},
+  author = {{Chuofan Ma} and {Yi Jiang} and {Jiannan Wu} and {Zehuan Yuan} and {Xiaojuan Qi}},
+  year = {2024},
+  eprint = {2404.13013v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.13013v1},
+  note = {First published: 2024-04-19; Recorded arXiv version: v1; Recorded version updated: 2024-04-19T17:22:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

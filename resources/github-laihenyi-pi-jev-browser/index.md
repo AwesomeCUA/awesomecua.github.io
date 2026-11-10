@@ -1,3 +1,11 @@
+---
+title: "Pi Jev Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Pi Jev Browser
 
 Pi Jev Browser is a browser and macOS agent for the pi coding harness where Jev selects actions over structured page observations.

@@ -1,3 +1,11 @@
+---
+title: "action-choice-bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gbesse-action-choice-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # action-choice-bench
 
 action-choice-bench 在固定的界面状态下评测离散 UI 动作选择和经过校准的弃答能力。

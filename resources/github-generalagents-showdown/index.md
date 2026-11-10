@@ -1,3 +1,11 @@
+---
+title: "showdown | AwesomeCUA"
+url: https://awesomecua.com/resources/github-generalagents-showdown/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # showdown
 
 Evaluation code for the showdown-clicks benchmark: eval.py checks whether a model's predicted click on a macOS screenshot lands in the annotated bounding box, with integrations for Claude, Qwen, UI-TARS and others.

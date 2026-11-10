@@ -1,3 +1,11 @@
+---
+title: "Attention is All You Need to Defend Against… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-08417/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs
 
 Bibliographic record for Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yinan Zhong, Qianhao Miao, Yanjiao Chen, Jiangyi Deng, Yushi Cheng, Wenyuan Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-08417/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-08417/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_08417,
+  title = {{Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs}},
+  author = {{Yinan Zhong} and {Qianhao Miao} and {Yanjiao Chen} and {Jiangyi Deng} and {Yushi Cheng} and {Wenyuan Xu}},
+  year = {2025},
+  eprint = {2512.08417v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.08417v3},
+  note = {First published: 2025-12-09; Recorded arXiv version: v3; Recorded version updated: 2026-08-12T03:36:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

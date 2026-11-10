@@ -1,3 +1,11 @@
+---
+title: "Improved Iterative Refinement for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-14837/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Improved Iterative Refinement for Chart-to-Code Generation via Structured Instruction
 
 Bibliographic record for Improved Iterative Refinement for Chart-to-Code Generation via Structured Instruction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chengzhi Xu, Yuyang Wang, Lai Wei, Lichao Sun, Weiran Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-14837/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-14837/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_14837,
+  title = {{Improved Iterative Refinement for Chart-to-Code Generation via Structured Instruction}},
+  author = {{Chengzhi Xu} and {Yuyang Wang} and {Lai Wei} and {Lichao Sun} and {Weiran Huang}},
+  year = {2025},
+  eprint = {2506.14837v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.14837v2},
+  note = {First published: 2025-06-15; Recorded arXiv version: v2; Recorded version updated: 2026-03-17T07:18:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Lolaplex .agents/browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lolaplex-agents-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Lolaplex .agents/browser
 
 面向 AI 编码智能体的 Python Chrome DevTools Protocol 浏览器 MCP 服务器，无需 Node。

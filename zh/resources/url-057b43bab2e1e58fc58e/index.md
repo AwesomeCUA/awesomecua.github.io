@@ -1,3 +1,11 @@
+---
+title: "ELAM-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-057b43bab2e1e58fc58e/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ELAM-7B
 
 这是一个基于汽车图形界面截图微调的模型，可为测试指令返回点击坐标，并在相关界面元素处判断预期结果。

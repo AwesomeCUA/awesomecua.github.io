@@ -1,3 +1,11 @@
+---
+title: "InternVL3-14B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-adb613aec8c5ebdeab89/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3-14B
 
 InternVL3-14B 是一款多模态模型，训练数据包含图形界面操作示例；其模型卡还展示了图形界面定位评测。

@@ -1,3 +1,11 @@
+---
+title: "EvoWeb: A Benchmark for Coding Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-16402/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications
 
 Introduces EvoWeb, a benchmark for coding agents that extend web applications through dependent requests; a multimodal web agent checks each version in a live browser.
@@ -26,6 +34,18 @@ David Nukrai, Bar Alon, Nativ Levy, Ido Andrew Atad, Ido Cohen, Itamar Zimerman,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16402/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16402/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16402,
+  title = {{EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications}},
+  author = {{David Nukrai} and {Bar Alon} and {Nativ Levy} and {Ido Andrew Atad} and {Ido Cohen} and {Itamar Zimerman} and {Lior Wolf} and {Eli David} and {Ilan Naiman}},
+  year = {2026},
+  eprint = {2610.16402v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16402v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T08:42:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

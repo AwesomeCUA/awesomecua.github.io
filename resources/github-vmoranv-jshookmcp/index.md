@@ -1,3 +1,11 @@
+---
+title: "@jshookmcp/jshook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vmoranv-jshookmcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # @jshookmcp/jshook
 
 An MCP server for agent-assisted front-end analysis that combines browser automation, network inspection, and JavaScript and WASM analysis tools.

@@ -1,3 +1,11 @@
+---
+title: "BrowserBee · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-parsaghaffari-browserbee/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # BrowserBee
 
 一款 Chrome 扩展，可接收自然语言指令，结合大语言模型与 Playwright 观察和操作网站，并在本地保存任务记忆，对特定操作征求用户批准。

@@ -1,3 +1,11 @@
+---
+title: "Mobile Edge Intelligence for Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-18921/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Mobile Edge Intelligence for Large Language Models: A Contemporary Survey
 
 Bibliographic record for Mobile Edge Intelligence for Large Language Models: A Contemporary Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guanqiao Qu, Qiyuan Chen, Wei Wei, Zheng Lin, Xianhao Chen, Kaibin Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-18921/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-18921/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_18921,
+  title = {{Mobile Edge Intelligence for Large Language Models: A Contemporary Survey}},
+  author = {{Guanqiao Qu} and {Qiyuan Chen} and {Wei Wei} and {Zheng Lin} and {Xianhao Chen} and {Kaibin Huang}},
+  year = {2024},
+  eprint = {2407.18921v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.18921v2},
+  note = {First published: 2024-07-09; Recorded arXiv version: v2; Recorded version updated: 2025-03-20T05:23:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

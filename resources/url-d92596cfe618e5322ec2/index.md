@@ -1,3 +1,11 @@
+---
+title: "TinyFish (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d92596cfe618e5322ec2/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # TinyFish
 
 Browser-agent API for executing web tasks and extracting structured results.

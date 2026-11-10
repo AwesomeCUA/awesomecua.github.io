@@ -1,3 +1,11 @@
+---
+title: "activity-frames | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nossa-y-activity-frames/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # activity-frames
 
 Converts continuous local desktop activity into structured, queryable workflow frames served over MCP.

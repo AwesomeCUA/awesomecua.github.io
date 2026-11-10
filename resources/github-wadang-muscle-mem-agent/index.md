@@ -1,3 +1,11 @@
+---
+title: "HIPPO Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wadang-muscle-mem-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # HIPPO Agent
 
 A computer-use agent for multistep GUI tasks that stores task facts and progress in working memory and combines planning, grounding, and completion checks.

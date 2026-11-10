@@ -1,10 +1,17 @@
+---
+title: "Computer-use agent tools, page 8 | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/page/8/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools, page 8
 
 HTML page: https://awesomecua.com/categories/tool/page/8/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
-- [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)
 - [dsh-chrome](https://awesomecua.com/resources/github-stuarthu-dsh-chrome/)
 - [dsh-click](https://awesomecua.com/resources/github-perrylink-dsh-click/)
 - [dsh-cloak-browser](https://awesomecua.com/resources/github-maxiaovivi-dsh-cloak-browser/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [Hermes Browser Extension](https://awesomecua.com/resources/github-catcaptions-hermes-extension/)
 - [Hermes Connector](https://awesomecua.com/resources/github-corsenai-hermes-connector/)
 - [Hermes Desktop Control](https://awesomecua.com/resources/github-jiangxiao642-spec-hermes-desktop-control/)
+- [Hermes login-bridge Plugin](https://awesomecua.com/resources/github-kfastov-hermes-plugin-login-bridge/)

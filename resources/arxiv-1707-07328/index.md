@@ -1,3 +1,11 @@
+---
+title: "Adversarial Examples for Evaluating Reading… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1707-07328/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Adversarial Examples for Evaluating Reading Comprehension Systems
 
 Bibliographic record for Adversarial Examples for Evaluating Reading Comprehension Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Robin Jia, Percy Liang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1707-07328/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1707-07328/citation.csl.json
+
+```bibtex
+@misc{arxiv_1707_07328,
+  title = {{Adversarial Examples for Evaluating Reading Comprehension Systems}},
+  author = {{Robin Jia} and {Percy Liang}},
+  year = {2017},
+  eprint = {1707.07328v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1707.07328v1},
+  note = {First published: 2017-07-23; Recorded arXiv version: v1; Recorded version updated: 2017-07-23T18:26:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Holotron4 30B-A3B FP8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a72a105e755836154412/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # Holotron4 30B-A3B FP8
 
 FP8 release of Holotron4-30B-A3B, H Company's computer-use model built on Nemotron 3 Nano Omni; an external harness sends it screenshots and tool results and executes the clicks, typing, code and tool calls it requests.

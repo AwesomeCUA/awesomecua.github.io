@@ -1,3 +1,11 @@
+---
+title: "WebSailor-V2: Bridging the Chasm to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-13305/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning
 
 Bibliographic record for WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yida Zhao, Liwen Zhang, Litu Ou, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-13305/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-13305/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13305,
+  title = {{WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning}},
+  author = {{Kuan Li} and {Zhongwang Zhang} and {Huifeng Yin} and {Rui Ye} and {Yida Zhao} and {Liwen Zhang} and {Litu Ou} and {Dingchu Zhang} and {Xixi Wu} and {Jialong Wu} and {Xinyu Wang} and {Zile Qiao} and {Zhen Zhang} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2509.13305v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13305v1},
+  note = {First published: 2025-09-16; Recorded arXiv version: v1; Recorded version updated: 2025-09-16T17:57:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

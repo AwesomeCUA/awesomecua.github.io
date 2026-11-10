@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 17 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/17/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 17 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/17/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Control-Agent](https://awesomecua.com/zh/resources/github-gekaixing-control-agent/)
 - [cookie-use](https://awesomecua.com/zh/resources/github-leeguooooo-cookie-use/)
 - [Cordis Social](https://awesomecua.com/zh/resources/github-enginefuture-cordis-social/)
 - [CowAgent](https://awesomecua.com/zh/resources/github-zhayujie-cowagent/)
@@ -55,7 +62,6 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/17/
 - [DSH Qwen Web Bridge Plugin](https://awesomecua.com/zh/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/)
 - [dsh-antibrow](https://awesomecua.com/zh/resources/github-antibrow-dsh-antibrow/)
 - [dsh-browser-firefox](https://awesomecua.com/zh/resources/github-tuojc-dsh-browser-firefox/)
-- [dsh-browser-full-access](https://awesomecua.com/zh/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/zh/resources/github-lirui1024k-dsh-browser-ops/)
 - [dsh-browser-playwright](https://awesomecua.com/zh/resources/github-chenyuheee-dsh-browser-playwright/)
 - [dsh-browser-plus](https://awesomecua.com/zh/resources/github-particlelight-dsh-browser-plus/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/17/
 - [dsh-browseruse](https://awesomecua.com/zh/resources/github-yzd6552-commits-dsh-browseruse/)
 - [dsh-chrome](https://awesomecua.com/zh/resources/github-stuarthu-dsh-chrome/)
 - [dsh-cloak-browser](https://awesomecua.com/zh/resources/github-maxiaovivi-dsh-cloak-browser/)
+- [dsh-jiey-browser](https://awesomecua.com/zh/resources/github-jiewaigongxing-dsh-jiey-browser/)
+- [dsh-live-loop](https://awesomecua.com/zh/resources/github-powerrrrrrrr-dsh-live-loop/)

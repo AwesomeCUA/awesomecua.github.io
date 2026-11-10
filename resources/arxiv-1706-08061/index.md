@@ -1,3 +1,11 @@
+---
+title: "High-fidelity adiabatic quantum computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1706-08061/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # High-fidelity adiabatic quantum computation using the intrinsic Hamiltonian of a spin system: Application to the experimental factorization of 291311
 
 Status: excluded from the active CUA catalog after scope review.

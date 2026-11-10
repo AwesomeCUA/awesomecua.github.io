@@ -1,3 +1,11 @@
+---
+title: "Better AI Browser Utilities (BABU) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-itmediatech-better-ai-browser-utilities/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Better AI Browser Utilities (BABU)
 
 节省 token 的 Model Context Protocol 工具包，用于控制 AI 智能体的真实 Chrome 会话。

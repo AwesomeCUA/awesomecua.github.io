@@ -1,3 +1,11 @@
+---
+title: "Chromium Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dashi96-chromium-bridge/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Chromium Bridge
 
 由 Chrome 扩展和 stdio MCP 服务器组成，让 Claude Code 在任意 Chromium 浏览器中操作标签页、点击、输入、截图和读取可访问性树，另有浏览器内聊天面板和操作前确认模式。

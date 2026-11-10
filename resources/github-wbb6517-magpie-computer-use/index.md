@@ -1,3 +1,11 @@
+---
+title: "magpie Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wbb6517-magpie-computer-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # magpie Computer Use
 
 A Magpie plugin that supplies agents with MCP tools to inspect macOS app screens and perform clicks, typing, scrolling, and dragging.

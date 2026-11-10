@@ -1,3 +1,11 @@
+---
+title: "GA-Technical-Report · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jinyihan99-ga-technical-report/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # GA-Technical-Report
 
 GenericAgent 的评估材料涵盖网页浏览及其他智能体任务；各基准测试文件夹说明了任务设置、评估协议和复现方法。

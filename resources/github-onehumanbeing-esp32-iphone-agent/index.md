@@ -1,3 +1,11 @@
+---
+title: "ESP32 iPhone Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-onehumanbeing-esp32-iphone-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ESP32 iPhone Agent
 
 ESP32 iPhone Agent controls unmodified iPhones via Bluetooth HID mouse/keyboard emulation from an ESP32 paired with vision-language screen parsing.

@@ -1,3 +1,11 @@
+---
+title: "Proceedings 38th International Conference on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2208-02685/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Proceedings 38th International Conference on Logic Programming
 
 Status: excluded from the active CUA catalog after scope review.

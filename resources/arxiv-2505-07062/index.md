@@ -1,3 +1,11 @@
+---
+title: "Seed1.5-VL Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-07062/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Seed1.5-VL Technical Report
 
 Reports Seed1.5-VL, a general vision-language model evaluated on GUI control and gameplay alongside visual understanding and reasoning tasks.
@@ -26,6 +34,18 @@ Dong Guo, Faming Wu, Feida Zhu, Fuxing Leng, Guang Shi, Haobin Chen, Haoqi Fan, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-07062/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-07062/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_07062,
+  title = {{Seed1.5-VL Technical Report}},
+  author = {{Dong Guo} and {Faming Wu} and {Feida Zhu} and {Fuxing Leng} and {Guang Shi} and {Haobin Chen} and {Haoqi Fan} and {Jian Wang} and {Jianyu Jiang} and {Jiawei Wang} and {Jingji Chen} and {Jingjia Huang} and {Kang Lei} and {Liping Yuan} and {Lishu Luo} and {Pengfei Liu} and {Qinghao Ye} and {Rui Qian} and {Shen Yan} and {Shixiong Zhao} and {Shuai Peng} and {Shuangye Li} and {Sihang Yuan} and {Sijin Wu} and {Tianheng Cheng} and {Weiwei Liu} and {Wenqian Wang} and {Xianhan Zeng} and {Xiao Liu} and {Xiaobo Qin} and {Xiaohan Ding} and {Xiaojun Xiao} and {Xiaoying Zhang} and {Xuanwei Zhang} and {Xuehan Xiong} and {Yanghua Peng} and {Yangrui Chen} and {Yanwei Li} and {Yanxu Hu} and {Yi Lin} and {Yiyuan Hu} and {Yiyuan Zhang} and {Youbin Wu} and {Yu Li} and {Yudong Liu} and {Yue Ling} and {Yujia Qin} and {Zanbo Wang} and {Zhiwu He} and {Aoxue Zhang} and {Bairen Yi} and {Bencheng Liao} and {Can Huang} and {Can Zhang} and {Chaorui Deng} and {Chaoyi Deng} and {Cheng Lin} and {Cheng Yuan} and {Chenggang Li} and {Chenhui Gou} and {Chenwei Lou} and {Chengzhi Wei} and {Chundian Liu} and {Chunyuan Li} and {Deyao Zhu} and {Donghong Zhong} and {Feng Li} and {Feng Zhang} and {Gang Wu} and {Guodong Li} and {Guohong Xiao} and {Haibin Lin} and {Haihua Yang} and {Haoming Wang} and {Heng Ji} and {Hongxiang Hao} and {Hui Shen} and {Huixia Li} and {Jiahao Li} and {Jialong Wu} and {Jianhua Zhu} and {Jianpeng Jiao} and {Jiashi Feng} and {Jiaze Chen} and {Jianhui Duan} and {Jihao Liu} and {Jin Zeng} and {Jingqun Tang} and {Jingyu Sun} and {Joya Chen} and {Jun Long} and {Junda Feng} and {Junfeng Zhan} and {Junjie Fang} and {Junting Lu} and {Kai Hua} and {Kai Liu} and {Kai Shen} and {Kaiyuan Zhang} and {Ke Shen} and {Ke Wang} and {Keyu Pan} and {Kun Zhang} and {Kunchang Li} and {Lanxin Li} and {Lei Li} and {Lei Shi} and {Li Han} and {Liang Xiang} and {Liangqiang Chen} and {Lin Chen} and {Lin Li} and {Lin Yan} and {Liying Chi} and {Longxiang Liu} and {Mengfei Du} and {Mingxuan Wang} and {Ningxin Pan} and {Peibin Chen} and {Pengfei Chen} and {Pengfei Wu} and {Qingqing Yuan} and {Qingyao Shuai} and {Qiuyan Tao} and {Renjie Zheng} and {Renrui Zhang} and {Ru Zhang} and {Rui Wang} and {Rui Yang} and {Rui Zhao} and {Shaoqiang Xu} and {Shihao Liang} and {Shipeng Yan} and {Shu Zhong} and {Shuaishuai Cao} and {Shuangzhi Wu} and {Shufan Liu} and {Shuhan Chang} and {Songhua Cai} and {Tenglong Ao} and {Tianhao Yang} and {Tingting Zhang} and {Wanjun Zhong} and {Wei Jia} and {Wei Weng} and {Weihao Yu} and {Wenhao Huang} and {Wenjia Zhu} and {Wenli Yang} and {Wenzhi Wang} and {Xiang Long} and {XiangRui Yin} and {Xiao Li} and {Xiaolei Zhu} and {Xiaoying Jia} and {Xijin Zhang} and {Xin Liu} and {Xinchen Zhang} and {Xinyu Yang} and {Xiongcai Luo} and {Xiuli Chen} and {Xuantong Zhong} and {Xuefeng Xiao} and {Xujing Li} and {Yan Wu} and {Yawei Wen} and {Yifan Du} and {Yihao Zhang} and {Yining Ye} and {Yonghui Wu} and {Yu Liu} and {Yu Yue} and {Yufeng Zhou} and {Yufeng Yuan} and {Yuhang Xu} and {Yuhong Yang} and {Yun Zhang} and {Yunhao Fang} and {Yuntao Li} and {Yurui Ren} and {Yuwen Xiong} and {Zehua Hong} and {Zehua Wang} and {Zewei Sun} and {Zeyu Wang} and {Zhao Cai} and {Zhaoyue Zha} and {Zhecheng An} and {Zhehui Zhao} and {Zhengzhuo Xu} and {Zhipeng Chen} and {Zhiyong Wu} and {Zhuofan Zheng} and {Zihao Wang} and {Zilong Huang} and {Ziyu Zhu} and {Zuquan Song}},
+  year = {2025},
+  eprint = {2505.07062v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.07062v1},
+  note = {First published: 2025-05-11; Recorded arXiv version: v1; Recorded version updated: 2025-05-11T17:28:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

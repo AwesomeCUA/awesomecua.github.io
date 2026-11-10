@@ -1,3 +1,11 @@
+---
+title: "AntyBrowser SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-antybrowser-sdk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AntyBrowser SDK
 
 Official multi-language SDKs (TypeScript, Python, C#, Go, PHP, Ruby) for driving AntyBrowser anti-detect browser profiles.

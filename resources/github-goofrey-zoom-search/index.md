@@ -1,3 +1,11 @@
+---
+title: "Zoom Search | AwesomeCUA"
+url: https://awesomecua.com/resources/github-goofrey-zoom-search/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Zoom Search
 
 Zoom Search is a hierarchical web-search agent that previews lightweight page summaries before selectively fetching full webpage content.

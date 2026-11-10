@@ -1,3 +1,11 @@
+---
+title: "Building Trust in Black-box Optimization: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-14573/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Building Trust in Black-box Optimization: A Comprehensive Framework for Explainability
 
 Status: excluded from the active CUA catalog after scope review.

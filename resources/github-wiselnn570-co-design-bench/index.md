@@ -1,3 +1,11 @@
+---
+title: "Co-Design Bench (github.com/Wiselnn570/Co-Desi… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wiselnn570-co-design-bench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Co-Design Bench
 
 Co-Design Bench evaluates application revisions made by coding agents from multimodal requests, checking requirements against source code and browser evidence.

@@ -1,3 +1,11 @@
+---
+title: "Advancing Autonomous VLM Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-07949/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # Advancing Autonomous VLM Agents via Variational Subgoal-Conditioned Reinforcement Learning
 
 Uses variational subgoal-conditioned reinforcement learning to improve learning efficiency on sparse-reward mobile and web-control tasks.
@@ -26,6 +34,18 @@ Qingyuan Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-07949/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-07949/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_07949,
+  title = {{Advancing Autonomous VLM Agents via Variational Subgoal-Conditioned Reinforcement Learning}},
+  author = {{Qingyuan Wu} and {Jianheng Liu} and {Jianye Hao} and {Jun Wang} and {Kun Shao}},
+  year = {2025},
+  eprint = {2502.07949v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.07949v2},
+  note = {First published: 2025-02-11; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T19:54:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

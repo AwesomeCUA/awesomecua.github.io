@@ -1,3 +1,11 @@
+---
+title: "Qwen-UI-Agent Technical Report: Toward… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-28227/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents
 
 介绍一个结合 GUI 与命令行操作的基础 GUI 智能体，以及大规模交互基础设施和迭代式环境与任务生成方法。
@@ -27,6 +35,18 @@ Hanzhang Zhou, Panrong Tong, Xu Zhang, Quyu Kong, Chenglin Cai, Tianyu Xia, Gong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-28227/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-28227/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28227,
+  title = {{Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents}},
+  author = {{Hanzhang Zhou} and {Panrong Tong} and {Xu Zhang} and {Quyu Kong} and {Chenglin Cai} and {Tianyu Xia} and {Gongjie Zhang} and {Jianan Zhang} and {Long Li} and {Long Chen} and {Lei Wang} and {Gaole Dai} and {Pengxiang Li} and {Liangyu Chen} and {Yue Wang} and {Steven Hoi}},
+  year = {2026},
+  eprint = {2607.28227v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28227v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T13:58:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

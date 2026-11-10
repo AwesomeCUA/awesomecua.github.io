@@ -1,3 +1,11 @@
+---
+title: "Chrome Control MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome Control MCP
 
 Visible, secure Chrome control server for AI assistants using MCP, Native Messaging, and the Chrome DevTools Protocol.

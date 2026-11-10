@@ -1,3 +1,11 @@
+---
+title: "Augmenting Autotelic Agents with Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-12487/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Augmenting Autotelic Agents with Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

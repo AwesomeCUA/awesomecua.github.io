@@ -1,3 +1,11 @@
+---
+title: "GERALLT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dlr-sc-gerallt/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # GERALLT
 
 An LLM-driven system for testing RCE through its graphical interface, using separate models to control actions, assess problems, and describe icons.

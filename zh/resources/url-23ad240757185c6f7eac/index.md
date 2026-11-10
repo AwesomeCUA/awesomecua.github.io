@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen2.5-VL 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-23ad240757185c6f7eac/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Seg2Click Qwen2.5-VL 3B
 
 基于 Qwen2.5-VL-3B 的 Seg2Click 检查点，配有自定义操作掩码解码器。

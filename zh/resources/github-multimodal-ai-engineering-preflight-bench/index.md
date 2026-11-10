@@ -1,3 +1,11 @@
+---
+title: "Preflight-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-multimodal-ai-engineering-preflight-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Preflight-Bench
 
 Preflight-Bench 评测计算机使用智能体在异步 UI 更新情况下的点击前过时状态检查和页面加载同步能力。

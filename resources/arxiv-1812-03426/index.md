@@ -1,3 +1,11 @@
+---
+title: "Real-Time Referring Expression Comprehension… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1812-03426/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Real-Time Referring Expression Comprehension by Single-Stage Grounding Network
 
 Status: excluded from the active CUA catalog after scope review.

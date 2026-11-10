@@ -1,3 +1,11 @@
+---
+title: "Open ChatGPT Atlas | AwesomeCUA"
+url: https://awesomecua.com/resources/github-composio-community-open-chatgpt-atlas/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Open ChatGPT Atlas
 
 Chrome side-panel extension and Electron browser in which Gemini 2.5 Computer Use reads tab screenshots and returns clicks, typing, scrolling and navigation, with an optional Composio tool-router mode.

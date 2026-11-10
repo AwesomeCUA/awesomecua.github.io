@@ -1,3 +1,11 @@
+---
+title: "UI-Simulator_android_data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d32dfe60eff4b87c1d05/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # UI-Simulator_android_data
 
 Synthetic Android agent training data from UI-Simulator: prompts pairing a goal and a simulated UI element list with next-action responses, in RAG-free, RAG-based and two UI-Simulator-Grow splits.

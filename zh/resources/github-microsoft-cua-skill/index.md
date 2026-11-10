@@ -1,3 +1,11 @@
+---
+title: "CUA Skill · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-cua-skill/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # CUA Skill
 
 CUA Skill 通过检索并执行可复用的操作序列来完成 Windows 桌面任务。其智能体模式使用屏幕截图、无障碍树和视觉定位。

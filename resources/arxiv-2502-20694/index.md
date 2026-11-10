@@ -1,3 +1,11 @@
+---
+title: "WorldModelBench: Judging Video Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-20694/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # WorldModelBench: Judging Video Generation Models As World Models
 
 Status: excluded from the active CUA catalog after scope review.

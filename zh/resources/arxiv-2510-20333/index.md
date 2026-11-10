@@ -1,3 +1,11 @@
+---
+title: "GhostEI-Bench: Do Mobile Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-20333/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?
 
 GhostEI-Bench 在 Android 模拟器的应用流程中注入欺骗性界面事件，评估移动端智能体，并结合操作轨迹与截图分析失误。
@@ -27,6 +35,18 @@ Chiyu Chen, Xinhao Song, Yunkai Chai, Yang Yao, Haodong Zhao, Lijun Li, Jie Li, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-20333/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-20333/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_20333,
+  title = {{GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?}},
+  author = {{Chiyu Chen} and {Xinhao Song} and {Yunkai Chai} and {Yang Yao} and {Haodong Zhao} and {Lijun Li} and {Jie Li} and {Yan Teng} and {Gongshen Liu} and {Yingchun Wang}},
+  year = {2025},
+  eprint = {2510.20333v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.20333v3},
+  note = {First published: 2025-10-23; Recorded arXiv version: v3; Recorded version updated: 2026-03-05T06:51:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "UI-R1: Enhancing Efficient Action Prediction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-21620/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning
 
 Uses rule-based action rewards and policy optimization to train GUI action prediction from a compact set of mobile tasks.
@@ -26,6 +34,18 @@ Zhengxi Lu, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-21620/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-21620/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_21620,
+  title = {{UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning}},
+  author = {{Zhengxi Lu} and {Yuxiang Chai} and {Yaxuan Guo} and {Xi Yin} and {Liang Liu} and {Hao Wang} and {Han Xiao} and {Shuai Ren} and {Guanjing Xiong} and {Hongsheng Li}},
+  year = {2025},
+  eprint = {2503.21620v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.21620v5},
+  note = {First published: 2025-03-27; Recorded arXiv version: v5; Recorded version updated: 2025-05-24T08:46:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

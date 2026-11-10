@@ -1,3 +1,11 @@
+---
+title: "AgentSearchBench: A Benchmark for AI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-22436/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentSearchBench: A Benchmark for AI Agent Search in the Wild
 
 Status: excluded from the active CUA catalog after scope review.

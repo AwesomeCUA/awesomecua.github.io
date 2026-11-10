@@ -1,3 +1,11 @@
+---
+title: "When Do Program-of-Thoughts Work for Reasoning? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-15452/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # When Do Program-of-Thoughts Work for Reasoning?
 
 Bibliographic record for When Do Program-of-Thoughts Work for Reasoning?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-15452/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-15452/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_15452,
+  title = {{When Do Program-of-Thoughts Work for Reasoning?}},
+  author = {{Zhen Bi} and {Ningyu Zhang} and {Yinuo Jiang} and {Shumin Deng} and {Guozhou Zheng} and {Huajun Chen}},
+  year = {2023},
+  eprint = {2308.15452v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.15452v6},
+  note = {First published: 2023-08-29; Recorded arXiv version: v6; Recorded version updated: 2023-12-18T16:15:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

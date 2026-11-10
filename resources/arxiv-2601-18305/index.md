@@ -1,3 +1,11 @@
+---
+title: "SwipeGen: Bridging the Execution Gap in GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-18305/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis
 
 Introduces SwipeGen for synthesizing varied swipe trajectories and SwipeBench for assessing their execution quality. The study examines how richer control of trajectory, speed, and timing changes GUI agents’ interaction performance.
@@ -26,6 +34,18 @@ Xuan Wang, Siyuan Su, Quantong Fu, Yongxiang Hu, Yangfan Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-18305/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-18305/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_18305,
+  title = {{SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis}},
+  author = {{Xuan Wang} and {Siyuan Su} and {Quantong Fu} and {Yongxiang Hu} and {Yangfan Zhou}},
+  year = {2026},
+  eprint = {2601.18305v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.18305v2},
+  note = {First published: 2026-01-26; Recorded arXiv version: v2; Recorded version updated: 2026-08-20T07:50:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

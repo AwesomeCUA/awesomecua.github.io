@@ -1,3 +1,11 @@
+---
+title: "see_the_screen (DSH Windows Desktop Plugin) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jaychouu-see-the-screen/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # see_the_screen (DSH Windows Desktop Plugin)
 
 Windows desktop automation plugin for DeepSeek Harness agents providing screen observation and GUI control.

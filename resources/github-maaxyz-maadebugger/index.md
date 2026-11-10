@@ -1,3 +1,11 @@
+---
+title: "MaaDebugger | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maaxyz-maadebugger/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaDebugger
 
 A debugger for MaaFramework automation projects that runs as a local web interface on port 8011 by default, installed from PyPI with pip or uv; a Go and web rewrite is published on npm.

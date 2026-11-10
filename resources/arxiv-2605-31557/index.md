@@ -1,3 +1,11 @@
+---
+title: "EGOSTREAM: A Diagnostic Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-31557/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EGOSTREAM: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision
 
 Status: excluded from the active CUA catalog after scope review.

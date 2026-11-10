@@ -1,3 +1,11 @@
+---
+title: "A Trajectory-Based Safety Audit of Clawdbot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-14364/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)
 
 Audits Clawdbot safety through logged action and tool-call trajectories across local execution and web-mediated workflows, using automated and human review.
@@ -26,6 +34,18 @@ Tianyu Chen, Dongrui Liu, Xia Hu, Jingyi Yu, Wenjie Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-14364/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-14364/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_14364,
+  title = {{A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)}},
+  author = {{Tianyu Chen} and {Dongrui Liu} and {Xia Hu} and {Jingyi Yu} and {Wenjie Wang}},
+  year = {2026},
+  eprint = {2602.14364v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.14364v1},
+  note = {First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T00:33:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

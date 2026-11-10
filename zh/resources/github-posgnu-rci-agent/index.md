@@ -1,3 +1,11 @@
+---
+title: "RCI Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-posgnu-rci-agent/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # RCI Agent
 
 MiniWoB++ 智能体，使用显式和隐式的递归批评与改进提示来优化操作计划，并将操作定位到浏览器状态。

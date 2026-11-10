@@ -1,3 +1,11 @@
+---
+title: "Make LLM a Testing Expert: Bringing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-15780/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions
 
 Introduces GPTDroid for mobile GUI testing: it feeds app page information to an LLM, runs generated test scripts and uses feedback and memory to guide further exploration.
@@ -26,6 +34,18 @@ Zhe Liu, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Xing Che, Dandan Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-15780/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-15780/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_15780,
+  title = {{Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions}},
+  author = {{Zhe Liu} and {Chunyang Chen} and {Junjie Wang} and {Mengzhuo Chen} and {Boyu Wu} and {Xing Che} and {Dandan Wang} and {Qing Wang}},
+  year = {2023},
+  eprint = {2310.15780v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.15780v1},
+  note = {First published: 2023-10-24; Recorded arXiv version: v1; Recorded version updated: 2023-10-24T12:30:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

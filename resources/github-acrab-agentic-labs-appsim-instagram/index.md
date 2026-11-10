@@ -1,3 +1,11 @@
+---
+title: "MyInstagram | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-instagram/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # MyInstagram
 
 MyInstagram is an Android clone app with interactive social screens, mock data, and state fields for checking the outcomes of GUI agent tasks.

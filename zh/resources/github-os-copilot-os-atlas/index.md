@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-os-atlas/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Atlas
 
 OS-Atlas GUI 操作模型，包括基于 InternVL2-4B 和 Qwen2-VL-7B-Instruct 微调的定位基础模型，可接收任意尺寸图像并输出 0-1000 的相对坐标。

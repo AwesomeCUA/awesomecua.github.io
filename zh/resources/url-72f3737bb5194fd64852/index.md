@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-3B-UI-R1-E · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-72f3737bb5194fd64852/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL-3B-UI-R1-E
 
 Qwen2.5-VL-3B-UI-R1-E 发布 UI-R1-E-3B 模型，根据界面截图和指令预测点击坐标，并报告了移动端、桌面端和网页上的定位评测。

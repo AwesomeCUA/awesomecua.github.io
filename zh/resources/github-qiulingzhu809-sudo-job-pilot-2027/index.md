@@ -1,3 +1,11 @@
+---
+title: "Job Pilot 2027 (秋招雷达 2027) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qiulingzhu809-sudo-job-pilot-2027/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Job Pilot 2027 (秋招雷达 2027)
 
 本地浏览器辅助的校园招聘工作台，管理候选人资料并自动填写企业招聘门户。

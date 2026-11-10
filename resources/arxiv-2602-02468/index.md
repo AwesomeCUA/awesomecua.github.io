@@ -1,3 +1,11 @@
+---
+title: "Avenir-Web: Human-Experience-Imitating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-02468/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts
 
 Avenir-Web combines multiple grounding specialists with procedural experience, a task checklist and adaptive memory. It evaluates this planning and execution framework on live Online-Mind2Web tasks.
@@ -26,6 +34,18 @@ Aiden Yiliu Li, Xinyue Hao, Shilong Liu, Mengdi Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-02468/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-02468/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_02468,
+  title = {{Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts}},
+  author = {{Aiden Yiliu Li} and {Xinyue Hao} and {Shilong Liu} and {Mengdi Wang}},
+  year = {2026},
+  eprint = {2602.02468v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.02468v1},
+  note = {First published: 2026-02-02; Recorded arXiv version: v1; Recorded version updated: 2026-02-02T18:50:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

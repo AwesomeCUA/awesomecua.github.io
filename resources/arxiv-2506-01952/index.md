@@ -1,3 +1,11 @@
+---
+title: "WebChoreArena: Evaluating Web Browsing Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-01952/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks
 
 Introduces WebChoreArena, 532 web chores built on WebArena environments to evaluate agents’ retention of page information, calculation, and tracking across pages.
@@ -26,6 +34,18 @@ Atsuyuki Miyai, Zaiying Zhao, Kazuki Egashira, Atsuki Sato, Tatsumi Sunada, Shot
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-01952/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-01952/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_01952,
+  title = {{WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks}},
+  author = {{Atsuyuki Miyai} and {Zaiying Zhao} and {Kazuki Egashira} and {Atsuki Sato} and {Tatsumi Sunada} and {Shota Onohara} and {Hiromasa Yamanishi} and {Mashiro Toyooka} and {Kunato Nishina} and {Ryoma Maeda} and {Kiyoharu Aizawa} and {Toshihiko Yamasaki}},
+  year = {2025},
+  eprint = {2506.01952v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.01952v2},
+  note = {First published: 2025-06-02; Recorded arXiv version: v2; Recorded version updated: 2026-08-08T16:12:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

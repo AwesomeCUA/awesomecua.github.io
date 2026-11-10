@@ -1,3 +1,11 @@
+---
+title: "PTFakeTouch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ret70-ptfaketouch/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # PTFakeTouch
 
 一个 iOS 框架，可在应用内部注入模拟触摸事件，提供触摸开始、移动和结束阶段的调用，用于在指定位置点击和滑动。

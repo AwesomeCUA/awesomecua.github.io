@@ -1,3 +1,11 @@
+---
+title: "PhantomJS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ariya-phantomjs/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # PhantomJS
 
 PhantomJS 是可编写脚本的无头 WebKit 工具，用于自动操作网页、捕获页面内容、测试和监控网络活动。

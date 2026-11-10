@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体（第 4 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/agent/page/4/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体：第 4 页
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/page/4/ · [English](https://awesomecua.com/categories/agent/page/4/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
-- [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/)：Jev macOS Loop 结合 Apple Silicon 本地 Jev 决策模型、OmniParser 定位和原生 macOS Accessibility 操作。
 - [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)：Chrome 扩展，使用 TypeSafe Jev System-One 决策模型执行网页浏览、点击和输入。
 - [jev-windows-agent](https://awesomecua.com/zh/resources/github-vbs2004-jev-windows-agent/)：jev-windows-agent 将 Windows UI Automation 检查与快速 Jev System-One 决策循环结合，实现低延迟桌面控制。
 - [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)：AI 辅助的求职申请浏览器智能体，可匹配简历与职位、自动填写表单并记录提交轨迹。
@@ -35,7 +42,6 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/4/ · [English](ht
 - [Mantis](https://awesomecua.com/zh/resources/github-mercurialsolo-mantis/)：Mantis 是统一感知、推理与动作的计算机使用智能体，根据结构化计划操作浏览器和 Xvfb 桌面应用。
 - [Market Basket Agent](https://awesomecua.com/zh/resources/github-0xyene-market-basket-agent/)：自主网页购物智能体，可比较实时配送平台上的杂货购物篮价格。
 - [Marvi OS](https://awesomecua.com/zh/resources/github-xretr00-marvi-os/)：对话式桌面智能体外壳，可观察屏幕上下文并执行本地 OS 和 GUI 动作。
-- [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/)：具备环境感知智能的 macOS 计算机使用桌面客户端和个人 AI 操作环境。
 - [MealPilot](https://awesomecua.com/zh/resources/github-raunak-choudhary-hack-princeton-mealpilot/)：智能体式杂货购物平台，比较 Instacart 和零售商网页门户中的实时购物车价格。
 - [MediSetu Lens](https://awesomecua.com/zh/resources/github-furyydev-medisetu-lens/)：浏览器智能体，可在不提供 API 的药房门户之间搜索并比较仿制药的供应情况和价格。
 - [MERRICK](https://awesomecua.com/zh/resources/github-simoncheungai-merrick/)：面向规划、浏览器自动化和原生桌面任务执行的个人 macOS 助手智能体。
@@ -104,3 +110,5 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/4/ · [English](ht
 - [Pegoles Agent](https://awesomecua.com/zh/resources/github-zezortdx-pegoles-agent/)：Pegoles Agent 使用 macOS 计算机使用控制器操作隔离的 Linux 虚拟机，并在执行前进行确定性的策略检查。
 - [PhysiClaw](https://awesomecua.com/zh/resources/github-physiclaw-physiclaw/)：PhysiClaw 使用俯视摄像头和 3 轴电容式触控笔龙门架，对未经改装的智能手机进行实体点击和滑动。
 - [Pi Jev Browser](https://awesomecua.com/zh/resources/github-laihenyi-pi-jev-browser/)：Pi Jev Browser 是面向 pi 编码框架的浏览器及 macOS 智能体，由 Jev 根据结构化页面观测结果选择动作。
+- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/zh/resources/github-333-wg-pi-wm/)：基于 pi-agent 构建的桌面 AI 智能体工作空间，用于执行本地任务和浏览器自动化。
+- [Piskie](https://awesomecua.com/zh/resources/github-piskie-dev-piskie/)：面向真实网页的桌面 AI 智能体，内置具备反检测功能的指纹浏览器。

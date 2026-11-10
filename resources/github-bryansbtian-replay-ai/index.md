@@ -1,3 +1,11 @@
+---
+title: "Replay AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bryansbtian-replay-ai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Replay AI
 
 Discovers UI workflows once using a local LLM and compiles the successful trajectory into a deterministic replay script.

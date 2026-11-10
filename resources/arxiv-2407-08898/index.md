@@ -1,3 +1,11 @@
+---
+title: "IDAT: A Multi-Modal Dataset and Toolkit for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-08898/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # IDAT: A Multi-Modal Dataset and Toolkit for Building and Evaluating Interactive Task-Solving Agents
 
 Status: excluded from the active CUA catalog after scope review.

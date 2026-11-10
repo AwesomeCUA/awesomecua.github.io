@@ -1,3 +1,11 @@
+---
+title: "autourgos-cua-coordinate-tool · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-devxjitin-autourgos-cua-coordinate-tool/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # autourgos-cua-coordinate-tool
 
 面向 Autourgos 计算机使用智能体、基于视觉的 UI 坐标定位工具。

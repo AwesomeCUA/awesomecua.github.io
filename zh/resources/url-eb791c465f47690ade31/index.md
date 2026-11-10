@@ -1,3 +1,11 @@
+---
+title: "Task Automation Intelligent Agents: A… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-eb791c465f47690ade31/
+updated: 2026-11-09
+type: survey
+lang: zh-CN
+---
+
 # Task Automation Intelligent Agents: A Review
 
 一篇文献综述考察手机任务自动化智能体，包括示教式编程，以及面向重复性用户任务的可用性启发式规则。
@@ -27,6 +35,23 @@ Abdul Wali, Saipunidzam Mahamad, Suziah Sulaiman
 
 - BibTeX：https://awesomecua.com/resources/url-eb791c465f47690ade31/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-eb791c465f47690ade31/citation.csl.json
+
+```bibtex
+@article{cua_46390009d6407c6b4d4e9837,
+  title = {{Task Automation Intelligent Agents: A Review}},
+  author = {{Abdul Wali} and {Saipunidzam Mahamad} and {Suziah Sulaiman}},
+  year = {2023},
+  month = may,
+  journal = {Future Internet},
+  publisher = {MDPI AG},
+  volume = {15},
+  number = {6},
+  pages = {196},
+  doi = {10.3390/fi15060196},
+  url = {https://www.researchgate.net/publication/371143847\_Task\_Automation\_Intelligent\_Agents\_A\_Review},
+  note = {Publication date: 2023-05-29.}
+}
+```
 
 ## 发表记录
 

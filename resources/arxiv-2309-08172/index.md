@@ -1,3 +1,11 @@
+---
+title: "LASER: LLM Agent with State-Space Exploration… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-08172/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # LASER: LLM Agent with State-Space Exploration for Web Navigation
 
 LASER represents web navigation as exploration over a defined set of states, allowing an agent to revisit earlier states after mistakes. The study evaluates this backtracking approach on WebShop and Amazon tasks.
@@ -26,6 +34,18 @@ Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Wenhao Yu, Dong Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-08172/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-08172/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_08172,
+  title = {{LASER: LLM Agent with State-Space Exploration for Web Navigation}},
+  author = {{Kaixin Ma} and {Hongming Zhang} and {Hongwei Wang} and {Xiaoman Pan} and {Wenhao Yu} and {Dong Yu}},
+  year = {2023},
+  eprint = {2309.08172v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.08172v2},
+  note = {First published: 2023-09-15; Recorded arXiv version: v2; Recorded version updated: 2024-02-21T17:42:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

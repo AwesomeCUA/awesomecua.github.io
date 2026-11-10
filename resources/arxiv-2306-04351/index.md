@@ -1,3 +1,11 @@
+---
+title: "Error Mitigation of BQP Computations using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-04351/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Error Mitigation of BQP Computations using Measurement-Based Verification
 
 Status: excluded from the active CUA catalog after scope review.

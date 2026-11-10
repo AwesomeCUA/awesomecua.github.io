@@ -1,3 +1,11 @@
+---
+title: "WebLINX · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcgill-nlp-weblinx/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # WebLINX
 
 WebLINX 提供对话式网页导航的演示数据和评估。

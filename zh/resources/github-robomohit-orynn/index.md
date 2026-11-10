@@ -1,3 +1,11 @@
+---
+title: "Orynn · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-robomohit-orynn/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Orynn
 
 Orynn 是 Windows 桌面智能体，通过 UI Automation 控件名称控制原生应用，无需循环使用截图。

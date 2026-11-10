@@ -1,3 +1,11 @@
+---
+title: "NotebookLM MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pleaseprompto-notebooklm-mcp/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # NotebookLM MCP Server
 
 通过 Patchright 在真实 Chrome 中操作 Google NotebookLM 的 MCP 服务器，让编程智能体向笔记本提问、添加来源、生成音频概览并读取引用。

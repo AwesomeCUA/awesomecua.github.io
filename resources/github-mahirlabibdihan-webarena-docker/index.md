@@ -1,3 +1,11 @@
+---
+title: "webarena-docker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # webarena-docker
 
 A Docker setup for WebArena websites provides scripts to start site containers and restore their state between experiments involving browser tasks.

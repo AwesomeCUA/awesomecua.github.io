@@ -1,3 +1,11 @@
+---
+title: "RSIGame | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wenyiwu0111-rsigame/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # RSIGame
 
 An agentic game-development system that plays generated games, uses screenshots and run evidence to guide revisions, and replays builds to check the changes.

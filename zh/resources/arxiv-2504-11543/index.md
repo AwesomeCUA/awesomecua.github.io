@@ -1,3 +1,11 @@
+---
+title: "REAL: Benchmarking Autonomous Agents on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-11543/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites
 
 提出 REAL，以确定性网站副本构建基准，包含 112 项信息检索和更改网站状态的浏览器任务。
@@ -27,6 +35,18 @@ Divyansh Garg, Shaun VanWeelden, Diego Caples, Andis Draguns, Nikil Ravi, Pranav
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-11543/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-11543/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_11543,
+  title = {{REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites}},
+  author = {{Divyansh Garg} and {Shaun VanWeelden} and {Diego Caples} and {Andis Draguns} and {Nikil Ravi} and {Pranav Putta} and {Naman Garg} and {Tomas Abraham} and {Michael Lara} and {Federico Lopez} and {James Liu} and {Atharva Gundawar} and {Prannay Hebbar} and {Youngchul Joo} and {Jindong Gu} and {Charles London} and {Christian Schroeder de Witt} and {Sumeet Motwani}},
+  year = {2025},
+  eprint = {2504.11543v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.11543v2},
+  note = {First published: 2025-04-15; Recorded arXiv version: v2; Recorded version updated: 2025-04-17T16:28:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

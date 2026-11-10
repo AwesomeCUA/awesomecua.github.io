@@ -1,3 +1,11 @@
+---
+title: "ConCAD: Constraint-Aware Image-to-CAD… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-34494/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ConCAD: Constraint-Aware Image-to-CAD Generation with Dual-Granularity Rewards
 
 Bibliographic record for ConCAD: Constraint-Aware Image-to-CAD Generation with Dual-Granularity Rewards. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenxi Zhai, Xi Cheng, Hang Cheng, Zhicheng Guan, Mingyu Fan, Yanzhe Tang, Pingf
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-34494/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-34494/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34494,
+  title = {{ConCAD: Constraint-Aware Image-to-CAD Generation with Dual-Granularity Rewards}},
+  author = {{Chenxi Zhai} and {Xi Cheng} and {Hang Cheng} and {Zhicheng Guan} and {Mingyu Fan} and {Yanzhe Tang} and {Pingfa Feng} and {Long Zeng}},
+  year = {2026},
+  eprint = {2609.34494v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34494v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T07:44:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

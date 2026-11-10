@@ -1,3 +1,11 @@
+---
+title: "Muffin or Chihuahua? Challenging Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-15847/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Muffin or Chihuahua? Challenging Multimodal Large Language Models with Multipanel VQA
 
 Bibliographic record for Muffin or Chihuahua? Challenging Multimodal Large Language Models with Multipanel VQA. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Xinze Gua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-15847/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-15847/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_15847,
+  title = {{Muffin or Chihuahua? Challenging Multimodal Large Language Models with Multipanel VQA}},
+  author = {{Yue Fan} and {Jing Gu} and {Kaiwen Zhou} and {Qianqi Yan} and {Shan Jiang} and {Ching-Chen Kuo} and {Xinze Guan} and {Xin Eric Wang}},
+  year = {2024},
+  eprint = {2401.15847v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.15847v3},
+  note = {First published: 2024-01-29; Recorded arXiv version: v3; Recorded version updated: 2024-06-27T15:38:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

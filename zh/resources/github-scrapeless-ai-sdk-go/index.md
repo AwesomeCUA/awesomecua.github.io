@@ -1,3 +1,11 @@
+---
+title: "Scrapeless SDK Go · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-go/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # Scrapeless SDK Go
 
 一个 Scrapeless 平台的 Go 客户端，可创建带反检测选项的远程浏览器会话，管理配置文件和扩展，并调用爬取与抓取 API。

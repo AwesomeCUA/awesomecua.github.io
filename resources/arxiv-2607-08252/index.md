@@ -1,3 +1,11 @@
+---
+title: "A Multi-Timescale Recursive Self-Improvement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-08252/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Multi-Timescale Recursive Self-Improvement Engine for Open-Ended Persona Growth
 
 Status: excluded from the active CUA catalog after scope review.

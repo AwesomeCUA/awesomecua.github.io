@@ -1,3 +1,11 @@
+---
+title: "Genie: Generative Interactive Environments | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-15391/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Genie: Generative Interactive Environments
 
 Status: excluded from the active CUA catalog after scope review.

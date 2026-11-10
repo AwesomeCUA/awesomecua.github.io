@@ -1,3 +1,11 @@
+---
+title: "SWEeper-Bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9d35341e71dfd457fd79/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # SWEeper-Bench
 
 SWEeper-Bench 提供源自网页应用程序缺陷的任务，用于评估检查运行中应用并修复问题的智能体。每个任务包含提示、代码库版本和浏览器行为测试。

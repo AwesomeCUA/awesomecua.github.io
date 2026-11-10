@@ -1,3 +1,11 @@
+---
+title: "AgentDesk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentsea-agentdesk/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # AgentDesk
 
 Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.

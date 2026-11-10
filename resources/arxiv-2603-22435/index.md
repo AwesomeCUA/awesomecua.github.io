@@ -1,3 +1,11 @@
+---
+title: "CaP-X: A Framework for Benchmarking and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-22435/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 
 Bibliographic record for CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Letian Fu, Justin Yu, Karim El-Refai, Ethan Kou, Haoru Xue, Huang Huang, Wenli X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-22435/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-22435/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_22435,
+  title = {{CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation}},
+  author = {{Letian Fu} and {Justin Yu} and {Karim El-Refai} and {Ethan Kou} and {Haoru Xue} and {Huang Huang} and {Wenli Xiao} and {Guanzhi Wang} and {Dantong Niu} and {Fei-Fei Li} and {Guanya Shi} and {Jiajun Wu} and {Shankar Sastry} and {Yuke Zhu} and {Ken Goldberg} and {Linxi "Jim" Fan}},
+  year = {2026},
+  eprint = {2603.22435v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.22435v2},
+  note = {First published: 2026-03-23; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T17:36:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

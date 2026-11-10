@@ -1,3 +1,11 @@
+---
+title: "AskUI Vision Agent Python SDK · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-askui-python-sdk/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AskUI Vision Agent Python SDK
 
 AskUI Vision Agent Python SDK 为 AI 智能体提供跨平台视觉 UI 元素定位，以及桌面和移动端自动化 API。

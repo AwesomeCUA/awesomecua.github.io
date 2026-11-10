@@ -1,3 +1,11 @@
+---
+title: "x11-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ja-plus-x11-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # x11-computer-use
 
 x11-computer-use 是用于控制 Linux X11 桌面的 Agent Skills 包，使用 xdotool 注入输入、ImageMagick 获取截图，并读取 AT-SPI 树。

@@ -3,7 +3,7 @@
   <title>AwesomeCUA: newly reviewed resources</title>
   <subtitle>Computer-use agent papers, models, datasets, benchmarks and tools as they pass source review, newest review first. Metadata-only bibliography records and unreviewed candidates are not included.</subtitle>
   <id>https://awesomecua.com/feed.xml</id>
-  <updated>2026-11-10T06:29:47Z</updated>
+  <updated>2026-11-10T08:13:23Z</updated>
   <link href="https://awesomecua.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://awesomecua.com/" rel="alternate" type="text/html" />
   <link href="https://awesomecua.com/feed.json" rel="alternate" type="application/feed+json" />
@@ -12,6 +12,17 @@
     <uri>https://awesomecua.com/</uri>
   </author>
   <rights>Catalog annotations: MIT. Linked resources keep their own terms.</rights>
+  <entry>
+    <title>Strawberry</title>
+    <id>https://awesomecua.com/resources/url-1aa4168c796c15476b97/</id>
+    <link href="https://awesomecua.com/resources/url-1aa4168c796c15476b97/" rel="alternate" type="text/html" />
+    <link href="https://www.strawberrybrowser.com" rel="related" />
+    <link href="https://awesomecua.com/resources/url-1aa4168c796c15476b97/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-10T08:13:23Z</published>
+    <updated>2026-11-10T08:13:23Z</updated>
+    <category term="product" label="Products" />
+    <summary>Agentic desktop browser for macOS and Windows whose AI companions open sites, click through flows and work inside the user's signed-in accounts, asking for approval before sending, paying or deleting.</summary>
+  </entry>
   <entry>
     <title>Hermes Jev Skills</title>
     <id>https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/</id>
@@ -1100,16 +1111,5 @@
     <updated>2026-11-10T06:29:23Z</updated>
     <category term="tool" label="Tools" />
     <summary>A Python package with Selenium's webdriver API that drives an anti-detect Firefox without geckodriver, setting the browser fingerprint inside the engine and moving the mouse along humanized paths.</summary>
-  </entry>
-  <entry>
-    <title>JUMPDiscovery</title>
-    <id>https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/</id>
-    <link href="https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/orion-agent/JUMPDiscovery" rel="related" />
-    <link href="https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-10T05:17:39Z</published>
-    <updated>2026-11-10T06:29:24Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>Task data for the Orion computer-using agent's open discovery task: a problem statement, CellProfiler pipelines, gene sets and a script that downloads JUMP Cell Painting morphological profiles.</summary>
   </entry>
 </feed>

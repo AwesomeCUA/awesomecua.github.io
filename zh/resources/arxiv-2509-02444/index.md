@@ -1,3 +1,11 @@
+---
+title: "AppCopilot: Toward General, Accurate… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-02444/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent
 
 介绍一种移动智能体系统，结合基于区域的坐标校正、分层任务规划、多智能体投票以及成功交互轨迹的复用。
@@ -27,6 +35,18 @@ Jingru Fan, Yufan Dang, Jingyao Wu, Huatao Li, Runde Yang, Xiyuan Yang, Yuheng W
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-02444/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-02444/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_02444,
+  title = {{AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent}},
+  author = {{Jingru Fan} and {Yufan Dang} and {Jingyao Wu} and {Huatao Li} and {Runde Yang} and {Xiyuan Yang} and {Yuheng Wang} and {Chen Qian}},
+  year = {2025},
+  eprint = {2509.02444v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.02444v2},
+  note = {First published: 2025-09-02; Recorded arXiv version: v2; Recorded version updated: 2025-10-17T00:57:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

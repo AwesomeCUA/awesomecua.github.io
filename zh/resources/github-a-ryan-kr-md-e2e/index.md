@@ -1,3 +1,11 @@
+---
+title: "md-e2e · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-a-ryan-kr-md-e2e/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # md-e2e
 
 由 LLM 智能体驱动、无需编写粘合代码且原生使用 Markdown 的端到端浏览器测试自动化框架。

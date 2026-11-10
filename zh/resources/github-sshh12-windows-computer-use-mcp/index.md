@@ -1,3 +1,11 @@
+---
+title: "windows-computer-use-mcp (Scan-Code &… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sshh12-windows-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # windows-computer-use-mcp (Scan-Code & Multi-Monitor)
 
 Windows 计算机使用 MCP 服务器，支持多显示器屏幕捕获，以及面向桌面和 3D 应用的硬件扫描码键盘、鼠标输入注入。

@@ -1,3 +1,11 @@
+---
+title: "OpenAmer Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openamer-openamer/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OpenAmer Agent
 
 Self-hosted, self-improving AI desktop agent for Windows with native in-process system and UI tools.

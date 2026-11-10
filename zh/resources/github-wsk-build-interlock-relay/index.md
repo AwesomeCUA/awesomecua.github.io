@@ -1,3 +1,11 @@
+---
+title: "Interlock Relay · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wsk-build-interlock-relay/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Interlock Relay
 
 Interlock Relay 是一个 Android 库，通过审批门禁将沙箱中的智能体连接到宿主应用的设备能力。它提供执行后端、配额、产物和审计日志。

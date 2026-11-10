@@ -1,3 +1,11 @@
+---
+title: "STEP: Success-Rate-Aware… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-13091/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization
 
 STEP 根据任务成功率分配 RL 采样，并利用交互轨迹中的单步样本训练；评估使用 OSWorld 和 AndroidWorld。
@@ -27,6 +35,18 @@ Yuhan Chen, Yuxuan Liu, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-13091/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-13091/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_13091,
+  title = {{STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization}},
+  author = {{Yuhan Chen} and {Yuxuan Liu} and {Long Zhang} and {Pengzhi Gao} and {Jian Luan} and {Wei Liu}},
+  year = {2025},
+  eprint = {2511.13091v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.13091v1},
+  note = {First published: 2025-11-17; Recorded arXiv version: v1; Recorded version updated: 2025-11-17T07:43:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

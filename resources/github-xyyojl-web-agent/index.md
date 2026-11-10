@@ -1,3 +1,11 @@
+---
+title: "Seven-Layer Web Agent & Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xyyojl-web-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Seven-Layer Web Agent & Benchmark
 
 Seven-layer LLM browser agent architecture paired with a 45-task hierarchical benchmark and reproducible execution artifacts.

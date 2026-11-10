@@ -1,3 +1,11 @@
+---
+title: "Understanding the Weakness of Large… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-06596/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Understanding the Weakness of Large Language Model Agents within a Complex Android Environment
 
 提出 AndroidArena，分析智能体在跨应用任务、用户约束、探索和反思方面的局限。
@@ -27,6 +35,18 @@ Mingzhe Xing, Rongkai Zhang, Hui Xue, Qi Chen, Fan Yang, Zhen Xiao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-06596/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-06596/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_06596,
+  title = {{Understanding the Weakness of Large Language Model Agents within a Complex Android Environment}},
+  author = {{Mingzhe Xing} and {Rongkai Zhang} and {Hui Xue} and {Qi Chen} and {Fan Yang} and {Zhen Xiao}},
+  year = {2024},
+  eprint = {2402.06596v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.06596v1},
+  note = {First published: 2024-02-09; Recorded arXiv version: v1; Recorded version updated: 2024-02-09T18:19:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

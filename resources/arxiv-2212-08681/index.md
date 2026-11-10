@@ -1,3 +1,11 @@
+---
+title: "Plansformer: Generating Symbolic Plans using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-08681/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Plansformer: Generating Symbolic Plans using Transformers
 
 Status: excluded from the active CUA catalog after scope review.

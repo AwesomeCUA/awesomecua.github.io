@@ -1,3 +1,11 @@
+---
+title: "OmniParser v2 model bundle · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e21ca7c859544dbf5fb6/
+updated: 2026-10-20
+type: model
+lang: zh-CN
+---
+
 # OmniParser v2 model bundle
 
 屏幕解析模型权重包，包含图标区域检测器和图标描述模型，用于将截图转换为智能体可读取的界面元素。

@@ -1,3 +1,11 @@
+---
+title: "L3G-World: Real-Time Infinite World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-40614/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory
 
 Bibliographic record for L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim, Kaeun Han
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-40614/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-40614/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40614,
+  title = {{L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory}},
+  author = {{Jinhyeok Choi} and {JoungBin Lee} and {Jongmin Lee} and {Minkyeong Jeon} and {Jiyoung Kim} and {Kaeun Han} and {Yoonjin Yoon} and {Seungryong Kim}},
+  year = {2026},
+  eprint = {2610.40614v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40614v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T17:54:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

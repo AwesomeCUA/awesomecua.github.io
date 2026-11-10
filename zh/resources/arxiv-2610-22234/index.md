@@ -1,3 +1,11 @@
+---
+title: "OS-Helix: Unifying GUI Interaction and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-22234/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents
 
 利用混合示范和在线强化学习训练原生计算机使用模型，使其协调 GUI 操作与代码执行。
@@ -27,6 +35,18 @@ Bowen Yang, Kaiming Jin, Zichen Ding, Zhenyu Wu, Zehao Li, Zhoumianze Liu, Kanzh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-22234/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-22234/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22234,
+  title = {{OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents}},
+  author = {{Bowen Yang} and {Kaiming Jin} and {Zichen Ding} and {Zhenyu Wu} and {Zehao Li} and {Zhoumianze Liu} and {Kanzhi Cheng} and {Fangzhi Xu} and {Yanan Sun} and {Qiushi Sun} and {Yu Qiao}},
+  year = {2026},
+  eprint = {2610.22234v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22234v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:14:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Backdoor Attacks and Countermeasures in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-06055/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Backdoor Attacks and Countermeasures in Natural Language Processing Models: A Comprehensive Security Review
 
 Status: excluded from the active CUA catalog after scope review.

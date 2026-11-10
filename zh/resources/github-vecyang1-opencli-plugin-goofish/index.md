@@ -1,3 +1,11 @@
+---
+title: "opencli-plugin-goofish · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vecyang1-opencli-plugin-goofish/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # opencli-plugin-goofish
 
 一款面向闲鱼的 OpenCLI 适配器，通过已登录的 Chrome 会话支持以命令执行购物、账户、商品列表和私信操作。

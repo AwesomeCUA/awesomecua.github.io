@@ -1,3 +1,11 @@
+---
+title: "ST-WebAgentBench: A Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-06703/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents
 
 在明确的企业政策约束下评估网页任务完成情况，分别衡量符合政策的任务完成情况和安全违规情况。
@@ -27,6 +35,18 @@ Ido Levy, Ben Wiesel, Sami Marreed, Alon Oved, Avi Yaeli, Nir Mashkif, Segev Shl
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-06703/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-06703/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_06703,
+  title = {{ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents}},
+  author = {{Ido Levy} and {Ben Wiesel} and {Sami Marreed} and {Alon Oved} and {Avi Yaeli} and {Nir Mashkif} and {Segev Shlomov}},
+  year = {2024},
+  eprint = {2410.06703v7},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.06703v7},
+  note = {First published: 2024-10-09; Recorded arXiv version: v7; Recorded version updated: 2026-06-04T09:59:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

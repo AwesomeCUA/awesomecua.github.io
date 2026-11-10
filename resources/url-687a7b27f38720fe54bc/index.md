@@ -1,3 +1,11 @@
+---
+title: "WebsiteBench (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-687a7b27f38720fe54bc/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # WebsiteBench
 
 Hugging Face copy of the 70 WebsiteBench tasks in Harbor format, where agents explore a production-level reference website in a browser and rebuild a full-stack clone scored by hidden functional and visual tests.

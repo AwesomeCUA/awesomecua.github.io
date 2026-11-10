@@ -1,3 +1,11 @@
+---
+title: "Universal computation using localized… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-05558/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal computation using localized limit-cycle attractors in neural networks
 
 Status: excluded from the active CUA catalog after scope review.

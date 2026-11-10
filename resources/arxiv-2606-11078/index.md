@@ -1,3 +1,11 @@
+---
+title: "A History-Aware Visually Grounded Critic for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-11078/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # A History-Aware Visually Grounded Critic for Computer Use Agents
 
 HiViG combines a compact history of completed actions with a visually grounded critic that checks proposed coordinates before execution. Its evaluations separate history-related planning failures from errors caused by targeting the wrong screen element.
@@ -26,6 +34,18 @@ Jaewoo Lee, Zaid Khan, Archiki Prasad, Justin Chih-Yao Chen, Supriyo Chakraborty
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-11078/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-11078/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_11078,
+  title = {{A History-Aware Visually Grounded Critic for Computer Use Agents}},
+  author = {{Jaewoo Lee} and {Zaid Khan} and {Archiki Prasad} and {Justin Chih-Yao Chen} and {Supriyo Chakraborty} and {Kartik Balasubramaniam} and {Sambit Sahu} and {Elias Stengel-Eskin} and {Hyunji Lee} and {Mohit Bansal}},
+  year = {2026},
+  eprint = {2606.11078v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.11078v1},
+  note = {First published: 2026-06-09; Recorded arXiv version: v1; Recorded version updated: 2026-06-09T16:39:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

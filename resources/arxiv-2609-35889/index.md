@@ -1,3 +1,11 @@
+---
+title: "SINGED: Correct Outputs Do Not Certify Safe… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35889/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SINGED: Correct Outputs Do Not Certify Safe Execution in LLM Agents
 
 Bibliographic record for SINGED: Correct Outputs Do Not Certify Safe Execution in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaoyu Xu, Zi Liang, Minxin Du, Qipeng Xie, Qingqing Ye, Yuyuan Li, Haibo Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-35889/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-35889/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35889,
+  title = {{SINGED: Correct Outputs Do Not Certify Safe Execution in LLM Agents}},
+  author = {{Xiaoyu Xu} and {Zi Liang} and {Minxin Du} and {Qipeng Xie} and {Qingqing Ye} and {Yuyuan Li} and {Haibo Hu}},
+  year = {2026},
+  eprint = {2609.35889v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35889v1},
+  note = {First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T06:37:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Solving robust MDPs as a sequence of static… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-06212/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Solving robust MDPs as a sequence of static RL problems
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "PageLens | AwesomeCUA"
+url: https://awesomecua.com/resources/github-heinevwinston-bot-pagelens/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # PageLens
 
 Read-only Claude browser assistant that inspects live webpages and suggests UX and accessibility improvements.

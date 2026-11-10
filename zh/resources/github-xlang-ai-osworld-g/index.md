@@ -1,3 +1,11 @@
+---
+title: "OSWorld-G · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-osworld-g/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorld-G
 
 计算机使用定位基准，包含原始指令和改写指令；与 Jedi 合成数据流水线、含 4 百万个样例的 Jedi 数据集，以及 Jedi-3B 和 Jedi-7B 模型一同发布。

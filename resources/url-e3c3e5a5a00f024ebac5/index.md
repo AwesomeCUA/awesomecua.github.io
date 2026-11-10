@@ -1,3 +1,11 @@
+---
+title: "gameworld-qwen38-flash-next-trajectory | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e3c3e5a5a00f024ebac5/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # gameworld-qwen38-flash-next-trajectory
 
 A dataset of 1,020 GameWorld agent trajectories from general and computer-use interfaces, with step records, screenshots, outcomes, and metrics.

@@ -1,3 +1,11 @@
+---
+title: "GoSosmed Mobile Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dedy45-gososmed-mobile-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # GoSosmed Mobile Agent
 
 Android AccessibilityService automation engine and control dashboard for managing multi-device mobile workflows.

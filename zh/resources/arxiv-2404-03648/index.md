@@ -1,3 +1,11 @@
+---
+title: "AutoWebGLM: A Large Language Model-based… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-03648/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # AutoWebGLM: A Large Language Model-based Web Navigating Agent
 
 通过简化的 HTML 观察、人类与 AI 的浏览数据、课程式训练和强化学习优化构建网页智能体。
@@ -27,6 +35,18 @@ Hanyu Lai, Xiao Liu, Iat Long Iong, Shuntian Yao, Yuxuan Chen, Pengbo Shen, Hao 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-03648/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-03648/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_03648,
+  title = {{AutoWebGLM: A Large Language Model-based Web Navigating Agent}},
+  author = {{Hanyu Lai} and {Xiao Liu} and {Iat Long Iong} and {Shuntian Yao} and {Yuxuan Chen} and {Pengbo Shen} and {Hao Yu} and {Hanchen Zhang} and {Xiaohan Zhang} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2024},
+  eprint = {2404.03648v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.03648v2},
+  note = {First published: 2024-04-04; Recorded arXiv version: v2; Recorded version updated: 2024-10-12T05:05:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

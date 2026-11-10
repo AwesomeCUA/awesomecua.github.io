@@ -1,3 +1,11 @@
+---
+title: "Collab-Overcooked: Benchmarking and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-20073/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents
 
 Bibliographic record for Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haochen Sun, Shuwen Zhang, Lujie Niu, Lei Ren, Hao Xu, Hao Fu, Fangkun Zhao, Cai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-20073/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-20073/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_20073,
+  title = {{Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents}},
+  author = {{Haochen Sun} and {Shuwen Zhang} and {Lujie Niu} and {Lei Ren} and {Hao Xu} and {Hao Fu} and {Fangkun Zhao} and {Caixia Yuan} and {Xiaojie Wang}},
+  year = {2025},
+  eprint = {2502.20073v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.20073v3},
+  note = {First published: 2025-02-27; Recorded arXiv version: v3; Recorded version updated: 2025-09-25T06:15:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

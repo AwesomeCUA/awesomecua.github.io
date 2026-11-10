@@ -1,3 +1,11 @@
+---
+title: "espetro/htlm-lfm2.5-350m | AwesomeCUA"
+url: https://awesomecua.com/resources/url-df38112df002157ce4b0/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # espetro/htlm-lfm2.5-350m
 
 A fine-tuned LFM2.5-350M model that selects click, type, or select actions from an instruction and indexed web elements, with a GGUF file for browser inference.

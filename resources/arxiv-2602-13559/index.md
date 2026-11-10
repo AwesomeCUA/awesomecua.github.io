@@ -1,3 +1,11 @@
+---
+title: "OpAgent: Operator Agent for Web Navigation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-13559/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OpAgent: Operator Agent for Web Navigation
 
 OpAgent combines multi-task GUI fine-tuning with online web reinforcement learning using outcome judgments and rule-based progress rewards. A modular planner, grounder, reflector and summarizer support navigation and recovery, evaluated separately from the underlying trained policy.
@@ -26,6 +34,18 @@ Yuyu Guo, Wenjie Yang, Siyuan Yang, Ziyang Liu, Cheng Chen, Yuan Wei, Yun Hu, Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-13559/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-13559/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_13559,
+  title = {{OpAgent: Operator Agent for Web Navigation}},
+  author = {{Yuyu Guo} and {Wenjie Yang} and {Siyuan Yang} and {Ziyang Liu} and {Cheng Chen} and {Yuan Wei} and {Yun Hu} and {Yang Huang} and {Guoliang Hao} and {Dongsheng Yuan} and {Jianming Wang} and {Xin Chen} and {Hang Yu} and {Lei Lei} and {Peng Di}},
+  year = {2026},
+  eprint = {2602.13559v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.13559v2},
+  note = {First published: 2026-02-14; Recorded arXiv version: v2; Recorded version updated: 2026-04-30T02:05:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

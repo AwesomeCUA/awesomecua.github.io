@@ -1,3 +1,11 @@
+---
+title: "nocta-recorder · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nossa-y-nocta-recorder/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # nocta-recorder
 
 这款 macOS 录制工具将屏幕快照、无障碍元素、OCR、输入事件和音频存入本地 SQLite 数据库，并通过本地 API 提供采集的活动数据。

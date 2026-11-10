@@ -1,3 +1,11 @@
+---
+title: "Web Context Bench (Python) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # Web Context Bench (Python)
 
 Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.

@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # ScreenSpot Pro
 
 GUI grounding benchmark focused on professional high-resolution interfaces.

@@ -1,3 +1,11 @@
+---
+title: "Bottom-up computation using trees of sublists… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-18528/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Bottom-up computation using trees of sublists (Functional Pearl)
 
 Status: excluded from the active CUA catalog after scope review.

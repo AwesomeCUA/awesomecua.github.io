@@ -1,3 +1,11 @@
+---
+title: "SCOPE-SFT-9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-389202404e2653f59838/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # SCOPE-SFT-9B
 
 一个基于 Qwen3.5-9B 的计算机操作模型，使用桌面任务示范和安全应对轨迹训练，并报告了任务完成和攻击规避评估结果。

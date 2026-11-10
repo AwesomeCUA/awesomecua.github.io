@@ -1,3 +1,11 @@
+---
+title: "Desktop Computer Use (DCU) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dev-willbird1936-desktop-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Desktop Computer Use (DCU)
 
 Background Windows computer-use MCP server that dispatches input to target applications without interrupting foreground user work.

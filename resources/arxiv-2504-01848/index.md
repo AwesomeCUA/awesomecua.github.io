@@ -1,3 +1,11 @@
+---
+title: "PaperBench: Evaluating AI's Ability to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-01848/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PaperBench: Evaluating AI's Ability to Replicate AI Research
 
 Bibliographic record for PaperBench: Evaluating AI's Ability to Replicate AI Research. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Giulio Starace, Oliver Jaffe, Dane Sherburn, James Aung, Jun Shern Chan, Leon Ma
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-01848/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-01848/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_01848,
+  title = {{PaperBench: Evaluating AI's Ability to Replicate AI Research}},
+  author = {{Giulio Starace} and {Oliver Jaffe} and {Dane Sherburn} and {James Aung} and {Jun Shern Chan} and {Leon Maksin} and {Rachel Dias} and {Evan Mays} and {Benjamin Kinsella} and {Wyatt Thompson} and {Johannes Heidecke} and {Amelia Glaese} and {Tejal Patwardhan}},
+  year = {2025},
+  eprint = {2504.01848v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.01848v3},
+  note = {First published: 2025-04-02; Recorded arXiv version: v3; Recorded version updated: 2025-04-07T12:15:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

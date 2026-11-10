@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-241B-A28B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c8d93b1c274acd679694/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-241B-A28B
 
 这是已发布的 InternVL3.5 多模态模型权重；其系列说明涵盖图形界面交互、级联强化学习训练和自适应视觉分辨率。

@@ -1,3 +1,11 @@
+---
+title: "WebNav: An Intelligent Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-13843/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebNav: An Intelligent Agent for Voice-Controlled Web Navigation
 
 Introduces WebNav, a web navigation agent that turns natural-language commands into GUI actions using screenshot context, DOM labels, and separate LLMs for planning and action parameters.
@@ -26,6 +34,18 @@ Trisanth Srinivasan, Santosh Patapati
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-13843/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-13843/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_13843,
+  title = {{WebNav: An Intelligent Agent for Voice-Controlled Web Navigation}},
+  author = {{Trisanth Srinivasan} and {Santosh Patapati}},
+  year = {2025},
+  eprint = {2503.13843v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.13843v2},
+  note = {First published: 2025-03-18; Recorded arXiv version: v2; Recorded version updated: 2025-07-06T08:41:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

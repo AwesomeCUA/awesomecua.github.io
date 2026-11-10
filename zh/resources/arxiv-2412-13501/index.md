@@ -1,3 +1,11 @@
+---
+title: "GUI Agents: A Survey · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-13501/
+updated: 2026-10-18
+type: survey
+lang: zh-CN
+---
+
 # GUI Agents: A Survey
 
 梳理 GUI 智能体的基准、评估指标、架构和训练方法，并提出统一的感知、推理、规划与执行框架。
@@ -23,6 +31,18 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-13501/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-13501/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_13501,
+  title = {{GUI Agents: A Survey}},
+  author = {{Dang Nguyen} and {Jian Chen} and {Yu Wang} and {Gang Wu} and {Namyong Park} and {Zhengmian Hu} and {Hanjia Lyu} and {Junda Wu} and {Ryan Aponte} and {Yu Xia} and {Xintong Li} and {Jing Shi} and {Hongjie Chen} and {Viet Dac Lai} and {Zhouhang Xie} and {Sungchul Kim} and {Ruiyi Zhang} and {Tong Yu} and {Mehrab Tanjim} and {Nesreen K. Ahmed} and {Puneet Mathur} and {Seunghyun Yoon} and {Lina Yao} and {Branislav Kveton} and {Jihyung Kil} and {Thien Huu Nguyen} and {Trung Bui} and {Tianyi Zhou} and {Ryan A. Rossi} and {Franck Dernoncourt}},
+  year = {2024},
+  eprint = {2412.13501v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.13501v3},
+  note = {First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-09-26T21:01:59Z.}
+}
+```
 
 ## 发表记录
 

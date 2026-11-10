@@ -1,3 +1,11 @@
+---
+title: "强化学习：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/reinforcement-learning/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 强化学习
 
 Reviewed topic membership; resources can appear in multiple topics.

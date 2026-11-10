@@ -1,3 +1,11 @@
+---
+title: "GUIHalluBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ant-research-guihallubench/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # GUIHalluBench
 
 将模型列出的界面元素边界框和描述与人工标注比对，衡量其解析 1,000 张英文和 1,000 张中文截图时的幻觉。

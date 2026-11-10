@@ -1,3 +1,11 @@
+---
+title: "screen-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tongriyaotxt-screen-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # screen-use
 
 面向整个桌面的 Browser-Use 风格框架，为 AI 智能体提供屏幕视觉感知和鼠标键盘控制。

@@ -1,3 +1,11 @@
+---
+title: "EcoAgent: An Efficient Device-Cloud… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-05440/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation
 
 EcoAgent splits mobile automation between cloud planning and on-device observation and verification. Compact screen descriptions and feedback reduce communication costs, with evaluation on AndroidWorld.
@@ -26,6 +34,18 @@ Biao Yi, Xavier Hu, Yurun Chen, Shengyu Zhang, Hongxia Yang, Fan Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-05440/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-05440/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_05440,
+  title = {{EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation}},
+  author = {{Biao Yi} and {Xavier Hu} and {Yurun Chen} and {Shengyu Zhang} and {Hongxia Yang} and {Fan Wu}},
+  year = {2025},
+  eprint = {2505.05440v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.05440v3},
+  note = {First published: 2025-05-08; Recorded arXiv version: v3; Recorded version updated: 2025-11-17T09:12:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

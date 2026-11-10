@@ -1,3 +1,11 @@
+---
+title: "handraise | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sy-d-handraise/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # handraise
 
 Human escalation and live-session handoff layer for Solari browser agents when encountering CAPTCHAs, 2FA, or ambiguity.

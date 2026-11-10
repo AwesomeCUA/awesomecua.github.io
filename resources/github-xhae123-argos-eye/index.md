@@ -1,3 +1,11 @@
+---
+title: "argos-eye | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xhae123-argos-eye/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # argos-eye
 
 argos-eye is a visual grounding skill and tool for Claude Code that resolves natural-language UI targets to verified pixel coordinates.

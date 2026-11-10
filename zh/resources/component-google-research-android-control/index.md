@@ -1,3 +1,11 @@
+---
+title: "AndroidControl · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-google-research-android-control/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # AndroidControl
 
 Android 操作演示，包含高层目标、分步指令、截图和无障碍树。

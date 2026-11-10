@@ -1,3 +1,11 @@
+---
+title: "TPS++: Attention-Enhanced Thin-Plate Spline… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-05322/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition
 
 Bibliographic record for TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianlun Zheng, Zhineng Chen, Jinfeng Bai, Hongtao Xie, Yu-Gang Jiang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-05322/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-05322/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_05322,
+  title = {{TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition}},
+  author = {{Tianlun Zheng} and {Zhineng Chen} and {Jinfeng Bai} and {Hongtao Xie} and {Yu-Gang Jiang}},
+  year = {2023},
+  eprint = {2305.05322v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.05322v1},
+  note = {First published: 2023-05-09; Recorded arXiv version: v1; Recorded version updated: 2023-05-09T10:16:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

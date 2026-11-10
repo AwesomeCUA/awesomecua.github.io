@@ -1,3 +1,11 @@
+---
+title: "CoworkOS:Scaling Agent Coworkers for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-03178/
+updated: 2026-11-03
+type: paper
+lang: en
+---
+
 # CoworkOS:Scaling Agent Coworkers for Real-world Automation
 
 Bibliographic record for CoworkOS:Scaling Agent Coworkers for Real-world Automation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jiajie Jin, Guanting Dong, Chengjun Pan, Xin Deng, Zhuohui Sheng, Guoqiang Wang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-03178/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-03178/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_03178,
+  title = {{CoworkOS:Scaling Agent Coworkers for Real-world Automation}},
+  author = {{Jiajie Jin} and {Guanting Dong} and {Chengjun Pan} and {Xin Deng} and {Zhuohui Sheng} and {Guoqiang Wang} and {Tao Gui} and {Yutao Zhu} and {Yujia Chen} and {Shihong Yi} and {Binze Hu} and {Zhixiong Yang} and {Zhichao Sun} and {Rui Wang} and {Han Han} and {Mingyu Ma} and {Junhao Huang} and {Xiaotao Wang} and {Huicheng Jiang} and {Yuyang Hu} and {Xinyu Yang} and {Wanghan Xu} and {Yajie Yang} and {Zhecan Wang} and {Honglin Guo} and {Xiaoyu Xing} and {Xiaoqian Zhang} and {Yulun Zhu} and {Xiaoxi Li} and {Jiahang Lin} and {Shaofan Liu} and {Shihan Dou} and {Zhiheng Xi} and {Qi Zhang} and {Yu-Gang Jiang} and {See-Kiong Ng} and {Yang Zhang} and {Tat-Seng Chua} and {Ji-Rong Wen} and {Zhicheng Dou}},
+  year = {2026},
+  eprint = {2611.03178v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.03178v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T14:15:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

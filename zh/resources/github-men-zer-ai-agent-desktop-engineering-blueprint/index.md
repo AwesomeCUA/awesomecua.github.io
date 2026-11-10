@@ -1,3 +1,11 @@
+---
+title: "AI Agent Desktop Engineering Blueprint · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # AI Agent Desktop Engineering Blueprint
 
 用于构建桌面 AI 和计算机使用智能体应用的五章架构蓝图及比较性工程指南。

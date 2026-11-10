@@ -1,3 +1,11 @@
+---
+title: "agentic-browser-boundary-tests | AwesomeCUA"
+url: https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # agentic-browser-boundary-tests
 
 Local test suite of prompt-injection and instruction-authority boundary scenarios with canary checks for AI browsers and web agents.

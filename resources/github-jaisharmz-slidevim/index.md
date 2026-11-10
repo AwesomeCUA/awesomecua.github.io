@@ -1,3 +1,11 @@
+---
+title: "slidevim | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jaisharmz-slidevim/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # slidevim
 
 Vim-grammar command language and text protocol for driving Google Slides in the browser.

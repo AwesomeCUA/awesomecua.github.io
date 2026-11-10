@@ -1,3 +1,11 @@
+---
+title: "Feynman: Knowledge-Infused Diagramming Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-12597/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Feynman: Knowledge-Infused Diagramming Agent for Scalable Visual Designs
 
 Bibliographic record for Feynman: Knowledge-Infused Diagramming Agent for Scalable Visual Designs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zixin Wen, Yifu Cai, Kyle Lee, Sam Estep, Josh Sunshine, Aarti Singh, Yuejie Chi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-12597/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-12597/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_12597,
+  title = {{Feynman: Knowledge-Infused Diagramming Agent for Scalable Visual Designs}},
+  author = {{Zixin Wen} and {Yifu Cai} and {Kyle Lee} and {Sam Estep} and {Josh Sunshine} and {Aarti Singh} and {Yuejie Chi} and {Wode Ni}},
+  year = {2026},
+  eprint = {2603.12597v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.12597v1},
+  note = {First published: 2026-03-13; Recorded arXiv version: v1; Recorded version updated: 2026-03-13T03:02:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

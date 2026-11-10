@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-v3: Fundamental Agents for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-15144/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Mobile-Agent-v3: Fundamental Agents for GUI Automation
 
 提出 GUI-Owl 模型和 Mobile-Agent-v3 编排机制，利用环境生成的轨迹支持 GUI 能力。
@@ -27,6 +35,18 @@ Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-15144/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-15144/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_15144,
+  title = {{Mobile-Agent-v3: Fundamental Agents for GUI Automation}},
+  author = {{Jiabo Ye} and {Xi Zhang} and {Haiyang Xu} and {Haowei Liu} and {Junyang Wang} and {Zhaoqing Zhu} and {Ziwei Zheng} and {Feiyu Gao} and {Junjie Cao} and {Zhengxi Lu} and {Jitong Liao} and {Qi Zheng} and {Fei Huang} and {Jingren Zhou} and {Ming Yan}},
+  year = {2025},
+  eprint = {2508.15144v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.15144v2},
+  note = {First published: 2025-08-21; Recorded arXiv version: v2; Recorded version updated: 2025-09-01T05:38:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

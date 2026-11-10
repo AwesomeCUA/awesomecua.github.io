@@ -1,3 +1,11 @@
+---
+title: "自动化：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -750,8 +758,6 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A collection of JavaScript adapters that turn site searches, data retrieval and selected account actions into commands run through a logged-in browser.
 - [bdg - Browser Debugger CLI](https://awesomecua.com/zh/resources/github-szymdzum-browser-debugger-cli/) — Date not recorded
   A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.
-- [Bees Desktop](https://awesomecua.com/zh/resources/github-bees-bot-bees-desktop/) — Date not recorded
-  Thread-based multi-agent desktop runtime allowing a team of AI agents to collaborate over local files and browsers.
 - [BeijingWahw DSH Computer Use Plugin](https://awesomecua.com/zh/resources/github-beijingwahw-dsh-computer-use-plugin/) — Date not recorded
   Full-featured desktop computer-use plugin for DeepSeek Harness supporting multi-display capture, OCR, and GUI actions.
 - [Better Computer Use](https://awesomecua.com/zh/resources/github-suge8-better-computer-use/) — Date not recorded
@@ -1270,8 +1276,6 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Windows computer-use MCP server that drives desktop applications via semantic discover-then-act UI Automation targeting.
 - [DesktopAgent (.NET 9)](https://awesomecua.com/zh/resources/github-alessiobianchini-desktopagent/) — Date not recorded
   Safety-first local desktop automation agent built on .NET 9 with cross-platform OS adapters, policy checks, and an MCP server.
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/) — Date not recorded
-  DesktopAgent operates Windows desktop applications in the background using a local 0.33B System-One decision model (S1-Fast) and UI Automation.
 - [DesktopCtl](https://awesomecua.com/zh/resources/github-yaroshevych-desktopctl/) — Date not recorded
   GPU-accelerated local macOS CLI for AI agents to inspect screen text/controls and dispatch mouse and keyboard actions.
 - [DeskVNC](https://awesomecua.com/zh/resources/github-psmux-deskvnc/) — Date not recorded
@@ -1354,8 +1358,6 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   An Android operations kit for DeepSeek Harness with widgets, a Console app, and an Accessibility bridge that lets an AI read and control the phone screen.
 - [dsh-browser-firefox](https://awesomecua.com/zh/resources/github-tuojc-dsh-browser-firefox/) — Date not recorded
   Firefox browser-control plugin and extension for DeepSeek Harness enabling agents to read and drive live Firefox tabs.
-- [dsh-browser-full-access](https://awesomecua.com/zh/resources/github-lianping-cyber-dsh-browser-full-access/) — Date not recorded
-  Background-tab full-access fork of `dsh-browser` for DeepSeek Harness web automation.
 - [dsh-browser-ops](https://awesomecua.com/zh/resources/github-lirui1024k-dsh-browser-ops/) — Date not recorded
   DeepSeek Harness plugin combining agent-driven real-browser control with workflow recording.
 - [dsh-browseruse](https://awesomecua.com/zh/resources/github-yzd6552-commits-dsh-browseruse/) — Date not recorded
@@ -2020,8 +2022,6 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Autonomous web shopping agent that compares grocery basket prices across live delivery portals.
 - [Marvi OS](https://awesomecua.com/zh/resources/github-xretr00-marvi-os/) — Date not recorded
   Conversational desktop agent shell that observes screen context and executes local OS and GUI actions.
-- [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/) — Date not recorded
-  Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
 - [Master Internet Unit](https://awesomecua.com/zh/resources/github-0bifthenelse-master-internet-unit/) — Date not recorded
   High-performance Rust Model Context Protocol browser server for AI agents.
 - [MatthewAlexOng Agent Bridge](https://awesomecua.com/zh/resources/github-matthewalexong-agent-bridge/) — Date not recorded
@@ -2170,8 +2170,6 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   nanoMuse is an open-source personal agent that maintains persistent cross-device memory and executes browser, desktop, and mobile tasks.
 - [natbot](https://awesomecua.com/zh/resources/github-nat-natbot/) — Date not recorded
   Early Playwright-based browser agent prototype that drives web navigation by feeding simplified DOM link/input lists to an LLM.
-- [Native by K](https://awesomecua.com/zh/resources/github-karunya-muddana-native/) — Date not recorded
-  Local-first open-source AI agent harness for developers integrating terminal, filesystem, and browser control.
 - [native-devtools-mcp](https://awesomecua.com/zh/resources/github-vectora-foundry-native-devtools-mcp/) — Date not recorded
   Local Rust MCP server for operating macOS and Windows apps, Chrome or Electron pages over CDP, and Android devices over ADB, with screenshots, OCR, accessibility lookup, input and template matching.
 - [NaveedAshraf Browser Bridge](https://awesomecua.com/zh/resources/github-naveedashraf1-browser-automation-extension/) — Date not recorded
@@ -3254,8 +3252,6 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Official Model Context Protocol server connecting Claude and MCP agents to ZennoPoster 7 browser automation workflows.
 - [zetakai desktop-mcp](https://awesomecua.com/zh/resources/github-zetakai-desktop-mcp/) — Date not recorded
   Desktop vision and input control Model Context Protocol server for Linux X11 and Wayland sessions.
-- [ZetaTron](https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/) — Date not recorded
-  Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
 - [Zhaozuo (照做)](https://awesomecua.com/zh/resources/github-dongsheng123132-zhaozuo/) — Date not recorded
   Demonstration-driven Windows desktop automation framework compatible with the ActionParity protocol for third-party GUI software.
 - [Ziweixing (紫微星)](https://awesomecua.com/zh/resources/github-xiaozhe7772222-ziweixing/) — Date not recorded

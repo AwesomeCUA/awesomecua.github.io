@@ -1,3 +1,11 @@
+---
+title: "flowcast | AwesomeCUA"
+url: https://awesomecua.com/resources/github-supermarioyl-flowcast/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # flowcast
 
 Records browser walkthroughs once, stores structured locator cues, and replays parameterized web workflows with self-healing recovery.

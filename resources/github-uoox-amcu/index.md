@@ -1,3 +1,11 @@
+---
+title: "amcu (Another macOS Computer Use) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-uoox-amcu/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # amcu (Another macOS Computer Use)
 
 Single-binary, dependency-free macOS computer-use tool that reads and drives Mac apps without stealing cursor or window focus.

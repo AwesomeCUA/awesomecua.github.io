@@ -1,3 +1,11 @@
+---
+title: "OpenMemory (LongMemory) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-caviraoss-openmemory/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenMemory (LongMemory)
 
 OpenMemory provides local-first temporal graph memory, decay scoring, and MCP integration for long-horizon AI agents.

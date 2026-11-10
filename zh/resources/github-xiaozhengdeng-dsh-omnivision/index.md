@@ -1,3 +1,11 @@
+---
+title: "dsh_omnivision (OmniVision) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaozhengdeng-dsh-omnivision/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh_omnivision (OmniVision)
 
 由 OmniParser 驱动的 DeepSeek Harness GUI 智能体插件，提供屏幕元素检测和桌面鼠标、键盘自动化功能。

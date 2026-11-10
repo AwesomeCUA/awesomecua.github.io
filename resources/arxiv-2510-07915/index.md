@@ -1,3 +1,11 @@
+---
+title: "MARC: Memory-Augmented RL Token Compression… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-07915/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding
 
 Status: excluded from the active CUA catalog after scope review.

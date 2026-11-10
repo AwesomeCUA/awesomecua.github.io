@@ -1,3 +1,11 @@
+---
+title: "page-agent-sdk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-whyymj-page-agent-sdk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # page-agent-sdk
 
 In-page AI assistant SDK that mounts a chat widget and lets LLMs safely read and mutate webpage state via schema-validated tools.

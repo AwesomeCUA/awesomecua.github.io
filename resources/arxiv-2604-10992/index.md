@@ -1,3 +1,11 @@
+---
+title: "ArtiCAD: Articulated CAD Assembly Design via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-10992/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ArtiCAD: Articulated CAD Assembly Design via Multi-Agent Code Generation
 
 Bibliographic record for ArtiCAD: Articulated CAD Assembly Design via Multi-Agent Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuan Shui, Yandong Guan, Zhanwei Zhang, Juncheng Hu, Jing Zhang, Dong Xu, Qian Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-10992/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-10992/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_10992,
+  title = {{ArtiCAD: Articulated CAD Assembly Design via Multi-Agent Code Generation}},
+  author = {{Yuan Shui} and {Yandong Guan} and {Zhanwei Zhang} and {Juncheng Hu} and {Jing Zhang} and {Dong Xu} and {Qian Yu}},
+  year = {2026},
+  eprint = {2604.10992v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.10992v2},
+  note = {First published: 2026-04-13; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T12:18:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

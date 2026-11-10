@@ -1,3 +1,11 @@
+---
+title: "uitars-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sandraschi-uitars-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # uitars-mcp
 
 uitars-mcp is a Model Context Protocol server that connects vision-language GUI models (such as UI-TARS) to desktop and browser actuation.

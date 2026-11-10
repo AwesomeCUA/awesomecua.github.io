@@ -1,3 +1,11 @@
+---
+title: "Prism Browser Community | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dfarm6-prism-browser-community/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Prism Browser Community
 
 Local-first open-source multi-profile fingerprint browser built on Chromium and Electron for isolated web automation.

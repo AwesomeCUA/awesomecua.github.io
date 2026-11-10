@@ -1,3 +1,11 @@
+---
+title: "VideoGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-videogui/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # VideoGUI
 
 Benchmark for desktop GUI tasks derived from instructional videos.

@@ -1,3 +1,11 @@
+---
+title: "OvoBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OvoBrowser
 
 Source-level Chromium fingerprint browser engineered for anti-detect web automation.

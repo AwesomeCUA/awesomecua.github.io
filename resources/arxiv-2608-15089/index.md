@@ -1,3 +1,11 @@
+---
+title: "StateM: Reaching 95.3% Raw Accuracy, or a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-15089/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling
 
 Introduces StateM, a stateful runtime with checked transitions and reusable runbooks for long-horizon agents; its reported evaluations use terminal and business tasks.
@@ -26,6 +34,18 @@ Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang, Kai Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-15089/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-15089/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_15089,
+  title = {{StateM: Reaching 95.3\% Raw Accuracy, or a \textbackslash{}\$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling}},
+  author = {{Ziheng Qin} and {Yaxin Lu} and {Zhangyang Atlas Wang} and {Kai Wang}},
+  year = {2026},
+  eprint = {2608.15089v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.15089v1},
+  note = {First published: 2026-08-15; Recorded arXiv version: v1; Recorded version updated: 2026-08-15T07:16:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

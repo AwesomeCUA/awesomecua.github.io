@@ -1,3 +1,11 @@
+---
+title: "ARC CUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-itw-code-arc-cua/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # ARC CUA
 
 Browser harness that gives an agent a token-budgeted accessibility tree with indexed actions and checks each action for state change, plus a document-to-form pipeline and an MCP server.

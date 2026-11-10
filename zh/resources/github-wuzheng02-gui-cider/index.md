@@ -1,3 +1,11 @@
+---
+title: "GUI-CIDER research code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wuzheng02-gui-cider/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # GUI-CIDER research code
 
 发布数据合成和评估脚本，将规划与 GUI 因果知识提炼为文本，用于移动界面智能体的中期训练。

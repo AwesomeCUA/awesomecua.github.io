@@ -1,3 +1,11 @@
+---
+title: "Magma-Mind2Web-SoM | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e8256e338a9c379ca85b/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Magma-Mind2Web-SoM
 
 Magma-Mind2Web-SoM provides Mind2Web data for downstream fine-tuning of the Magma multimodal agent model.

@@ -1,3 +1,11 @@
+---
+title: "agent-qa · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f7e21b1a3ba5c58a73bc/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # agent-qa
 
 面向浏览器和移动应用的测试智能体，通过 Playwright 和 Appium 执行操作、核验步骤并记录运行过程。发布方称其完成了 AndroidWorld 全部任务。

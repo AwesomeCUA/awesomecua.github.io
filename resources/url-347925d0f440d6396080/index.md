@@ -1,3 +1,11 @@
+---
+title: "Ringer: Web Automation by Demonstration | AwesomeCUA"
+url: https://awesomecua.com/resources/url-347925d0f440d6396080/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Ringer: Web Automation by Demonstration
 
 Introduces Ringer, which converts demonstrated webpage interactions into scripts combining actions, target selectors, and waiting conditions. It evaluates replay robustness on tasks recorded from real websites.
@@ -26,6 +34,19 @@ Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 
 - BibTeX: https://awesomecua.com/resources/url-347925d0f440d6396080/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-347925d0f440d6396080/citation.csl.json
+
+```bibtex
+@inproceedings{cua_07942b5af1a8c0ffa9c7322a,
+  title = {{Ringer: Web Automation by Demonstration}},
+  author = {{Shaon Barman} and {Sarah Chasins} and {Ras Bodik} and {Sumit Gulwani}},
+  year = {2016},
+  month = nov,
+  booktitle = {OOPSLA 2016},
+  doi = {10.1145/2983990.2984020},
+  url = {https://doi.org/10.1145/2983990.2984020},
+  note = {Publication date: 2016-11.}
+}
+```
 
 ## Publication record
 

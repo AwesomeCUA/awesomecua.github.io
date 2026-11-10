@@ -1,3 +1,11 @@
+---
+title: "PlayJev | AwesomeCUA"
+url: https://awesomecua.com/resources/github-omnijev-playjev/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # PlayJev
 
 A browser-game agent that selects moves from rendered frames. Its repository provides game environments, a demo, and scripts for training and evaluation.

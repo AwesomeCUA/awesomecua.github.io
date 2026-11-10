@@ -1,3 +1,11 @@
+---
+title: "web-agent-eval (REAL Benchmark Runner) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saarthak-yadav-web-agent-eval/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # web-agent-eval (REAL Benchmark Runner)
 
 在明确的步骤、token 和预算约束下，使用 REAL 评测基准中的 102 个复刻网站评测网页智能体。

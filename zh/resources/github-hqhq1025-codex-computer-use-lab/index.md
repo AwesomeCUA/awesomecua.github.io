@@ -1,3 +1,11 @@
+---
+title: "Codex Computer Use Lab · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hqhq1025-codex-computer-use-lab/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex Computer Use Lab
 
 记录并复现 Codex 桌面应用中的 macOS Computer Use 架构、SkyLight 窗口捕获和 Accessibility 动作分发机制。

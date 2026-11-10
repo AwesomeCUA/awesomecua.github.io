@@ -1,3 +1,11 @@
+---
+title: "Self Operating Computer · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-othersideai-self-operating-computer/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Self Operating Computer
 
 2023 年 11 月发布的框架，由多模态模型观察屏幕并选择鼠标和键盘操作以完成目标，支持 GPT-4o、Claude 3、Gemini 和 LLaVA 等后端。

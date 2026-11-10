@@ -1,3 +1,11 @@
+---
+title: "Voqal · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-voqal-voqal/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Voqal
 
 Voqal 是面向 JetBrains IDE 的语音优先编码助手插件，可将口头命令转化为编辑器动作。

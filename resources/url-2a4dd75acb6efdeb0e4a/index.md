@@ -1,3 +1,11 @@
+---
+title: "RICO-ScreenAnnotation | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2a4dd75acb6efdeb0e4a/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # RICO-ScreenAnnotation
 
 A standardized Rico screen-annotation dataset pairing mobile screenshots with text about interface elements and their locations. It provides train, validation, and test splits.

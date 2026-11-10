@@ -1,3 +1,11 @@
+---
+title: "CGL: Advancing Continual GUI Learning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-02951/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning
 
 结合监督微调与强化微调进行持续 GUI 学习，利用策略熵调整两者比例，并通过梯度投影减少相互冲突的更新；AndroidControl-CL 将应用组织为顺序任务，以评估适应与保持能力。
@@ -27,6 +35,18 @@ Zhenquan Yao, Zitong Huang, Yihan Zeng, Jianhua Han, Hang Xu, Chun-Mei Feng, Jia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-02951/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-02951/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_02951,
+  title = {{CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning}},
+  author = {{Zhenquan Yao} and {Zitong Huang} and {Yihan Zeng} and {Jianhua Han} and {Hang Xu} and {Chun-Mei Feng} and {Jianwei Ma} and {Wangmeng Zuo}},
+  year = {2026},
+  eprint = {2603.02951v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.02951v2},
+  note = {First published: 2026-03-03; Recorded arXiv version: v2; Recorded version updated: 2026-03-07T10:11:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

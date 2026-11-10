@@ -1,3 +1,11 @@
+---
+title: "Uni-GUI-Desktop-1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Uni-GUI-Desktop-1
 
 Desktop trajectories from the UI-MOPD training data, collected in OSWorld environments: 2,685 tasks across 10 app categories with step screenshots, reasoning traces, normalized actions and pyautogui code.

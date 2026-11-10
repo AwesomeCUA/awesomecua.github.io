@@ -1,3 +1,11 @@
+---
+title: "OFA: Unifying Architectures, Tasks, and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2202-03052/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
 
 Bibliographic record for OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Peng Wang, An Yang, Rui Men, Junyang Lin, Shuai Bai, Zhikang Li, Jianxin Ma, Cha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2202-03052/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2202-03052/citation.csl.json
+
+```bibtex
+@misc{arxiv_2202_03052,
+  title = {{OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework}},
+  author = {{Peng Wang} and {An Yang} and {Rui Men} and {Junyang Lin} and {Shuai Bai} and {Zhikang Li} and {Jianxin Ma} and {Chang Zhou} and {Jingren Zhou} and {Hongxia Yang}},
+  year = {2022},
+  eprint = {2202.03052v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2202.03052v2},
+  note = {First published: 2022-02-07; Recorded arXiv version: v2; Recorded version updated: 2022-06-01T09:24:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

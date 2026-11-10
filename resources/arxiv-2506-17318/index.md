@@ -1,3 +1,11 @@
+---
+title: "Context manipulation attacks : Web agents are… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-17318/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Context manipulation attacks : Web agents are susceptible to corrupted memory
 
 Studies context manipulation in web agents by altering stored task representations. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
@@ -26,6 +34,18 @@ Atharv Singh Patlan, Ashwin Hebbar, Pramod Viswanath, Prateek Mittal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-17318/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-17318/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_17318,
+  title = {{Context manipulation attacks : Web agents are susceptible to corrupted memory}},
+  author = {{Atharv Singh Patlan} and {Ashwin Hebbar} and {Pramod Viswanath} and {Prateek Mittal}},
+  year = {2025},
+  eprint = {2506.17318v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.17318v1},
+  note = {First published: 2025-06-18; Recorded arXiv version: v1; Recorded version updated: 2025-06-18T14:29:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

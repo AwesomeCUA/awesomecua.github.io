@@ -1,3 +1,11 @@
+---
+title: "Simulating collider physics on quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2102-05044/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Simulating collider physics on quantum computers using effective field theories
 
 Status: excluded from the active CUA catalog after scope review.

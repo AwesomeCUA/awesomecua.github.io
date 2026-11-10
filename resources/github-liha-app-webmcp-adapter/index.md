@@ -1,3 +1,11 @@
+---
+title: "Liha WebMCP Adapter | AwesomeCUA"
+url: https://awesomecua.com/resources/github-liha-app-webmcp-adapter/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Liha WebMCP Adapter
 
 Retrofits existing websites with structured WebMCP tool definitions without requiring backend code changes.

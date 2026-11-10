@@ -1,3 +1,11 @@
+---
+title: "VeriWeb (formerly VeriGUI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-verigui-team-verigui/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # VeriWeb (formerly VeriGUI)
 
 Verifiable web information-seeking benchmark renamed from VeriGUI; desktop evaluation is described as future work.

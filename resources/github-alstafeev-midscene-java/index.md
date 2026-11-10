@@ -1,3 +1,11 @@
+---
+title: "Midscene Java (github.com/alstafeev/midscene-j… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alstafeev-midscene-java/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Midscene Java
 
 A Java SDK for agents that operate web pages through natural-language instructions. It combines screenshot and DOM grounding with browser actions and execution reports.

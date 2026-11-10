@@ -1,3 +1,11 @@
+---
+title: "UIED (UI Element Detection) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mulongxie-uied/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UIED (UI Element Detection)
 
 UIED detects graphical widgets and text blocks in UI screenshots by combining flood-fill/Canny component analysis with deep text recognition.

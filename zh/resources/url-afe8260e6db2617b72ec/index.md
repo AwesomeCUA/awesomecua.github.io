@@ -1,3 +1,11 @@
+---
+title: "GUIrilla-Task · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-afe8260e6db2617b72ec/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUIrilla-Task
 
 macOS 截图与生成的指令及标注元素上的正确点击或输入操作配对，由 GUIrilla 无障碍 API 抓取器采集，训练集与测试集中的应用互不重叠。

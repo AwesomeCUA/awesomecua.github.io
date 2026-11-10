@@ -1,3 +1,11 @@
+---
+title: "OSWorld Web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-task-web-osworld-web/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # OSWorld Web
 
 Docker Compose stack of self-hosted web applications, such as banking, email, CRM, calendar, Overleaf and an AWS console, served behind a Caddy reverse proxy as the websites for OSWorld-V2 tasks.

@@ -1,3 +1,11 @@
+---
+title: "AMBER: Training Long-Horizon Web Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-07118/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AMBER: Training Long-Horizon Web Agents through Append-Only Memory
 
 Introduces AMBER, an append-only memory framework in which a web agent learns to reason, act, and retain evidence using outcome-reward reinforcement learning. It studies whether preserving entries avoids the loss of facts and corrective feedback seen with rewritten memory.
@@ -26,6 +34,18 @@ Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07118/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07118/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07118,
+  title = {{AMBER: Training Long-Horizon Web Agents through Append-Only Memory}},
+  author = {{Chinmay Savadikar} and {Zhaoyu Zhang} and {Mingyu Zhao} and {Shuang Xie} and {Han Li} and {Tianfu Wu} and {Lingyun Wang}},
+  year = {2026},
+  eprint = {2610.07118v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07118v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:11:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

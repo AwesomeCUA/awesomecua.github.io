@@ -1,3 +1,11 @@
+---
+title: "bugcraft-dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2c85ae447a0eeed51393/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # bugcraft-dataset
 
 BugCraft-Bench data: 86 Minecraft crash bug reports from Mojira with issue metadata and attachments, used to evaluate agents that reproduce each crash by operating the game with vision-based LLM control.

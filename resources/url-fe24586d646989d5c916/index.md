@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-72B-Instruct-AWQ | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fe24586d646989d5c916/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL-72B-Instruct-AWQ
 
 This instruction-tuned Qwen2.5-VL checkpoint supports visual localization and tool-directed computer and phone use. The repository provides weights and inference examples.

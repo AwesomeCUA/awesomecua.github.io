@@ -1,3 +1,11 @@
+---
+title: "Cerebrum (AIOS SDK): A Platform for Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-11444/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Cerebrum (AIOS SDK): A Platform for Agent Development, Deployment, Distribution, and Discovery
 
 Bibliographic record for Cerebrum (AIOS SDK): A Platform for Agent Development, Deployment, Distribution, and Discovery. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Balaji Rama, Kai Mei, Yongfeng Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-11444/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-11444/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_11444,
+  title = {{Cerebrum (AIOS SDK): A Platform for Agent Development, Deployment, Distribution, and Discovery}},
+  author = {{Balaji Rama} and {Kai Mei} and {Yongfeng Zhang}},
+  year = {2025},
+  eprint = {2503.11444v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.11444v1},
+  note = {First published: 2025-03-14; Recorded arXiv version: v1; Recorded version updated: 2025-03-14T14:29:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

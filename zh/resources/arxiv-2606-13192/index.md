@@ -1,3 +1,11 @@
+---
+title: "Reasoning for Mobile User Experience… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-13192/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach
 
 提出 UXBench，用界面截图评估可用性问题诊断；另提出经强化学习训练的 UI-UX 模型，用于分析这些界面问题。
@@ -27,6 +35,18 @@ Ruichao Mao, Zhou Fang, Teng Guo, Hao Yang, Yaping Li, Shaohua Peng, Maji Huang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-13192/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-13192/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_13192,
+  title = {{Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach}},
+  author = {{Ruichao Mao} and {Zhou Fang} and {Teng Guo} and {Hao Yang} and {Yaping Li} and {Shaohua Peng} and {Maji Huang} and {Xiaoyu Lin} and {Shuoyang Liu} and {Xuepeng Li} and {Yuyu Zhang} and {Hai Rao}},
+  year = {2026},
+  eprint = {2606.13192v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.13192v1},
+  note = {First published: 2026-06-11; Recorded arXiv version: v1; Recorded version updated: 2026-06-11T11:00:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

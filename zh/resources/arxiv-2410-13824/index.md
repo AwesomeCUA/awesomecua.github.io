@@ -1,3 +1,11 @@
+---
+title: "Harnessing Webpage UIs for Text-Rich… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-13824/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Harnessing Webpage UIs for Text-Rich Visual Understanding
 
 通过网页无障碍树生成指令，并与截图配对，构建用于多模态训练的 MultiUI；评估网页界面理解能力，包括 VisualWebBench 和 Mind2Web，以及向其他富文本视觉任务的迁移。
@@ -27,6 +35,18 @@ Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Ch
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-13824/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-13824/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_13824,
+  title = {{Harnessing Webpage UIs for Text-Rich Visual Understanding}},
+  author = {{Junpeng Liu} and {Tianyue Ou} and {Yifan Song} and {Yuxiao Qu} and {Wai Lam} and {Chenyan Xiong} and {Wenhu Chen} and {Graham Neubig} and {Xiang Yue}},
+  year = {2024},
+  eprint = {2410.13824v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.13824v3},
+  note = {First published: 2024-10-17; Recorded arXiv version: v3; Recorded version updated: 2024-11-06T08:29:22Z.}
+}
+```
 
 ## 发表记录
 

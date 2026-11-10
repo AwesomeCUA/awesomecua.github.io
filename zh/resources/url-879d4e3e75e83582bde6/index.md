@@ -1,3 +1,11 @@
+---
+title: "Gemini Computer Use · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-879d4e3e75e83582bde6/
+updated: 2026-10-20
+type: model
+lang: zh-CN
+---
+
 # Gemini Computer Use
 
 Gemini Computer Use 是根据截图生成界面操作的 Gemini 能力。

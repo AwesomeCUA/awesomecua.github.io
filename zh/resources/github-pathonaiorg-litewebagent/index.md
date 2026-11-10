@@ -1,3 +1,11 @@
+---
+title: "LiteWebAgent (github.com/PathOnAIOrg/Lite… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # LiteWebAgent
 
 模块化网页智能体框架，包含浏览器控制、规划、工作流程记忆和树搜索组件，并提供网页与扩展界面。

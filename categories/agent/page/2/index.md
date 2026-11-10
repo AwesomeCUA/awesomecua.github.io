@@ -1,3 +1,11 @@
+---
+title: "Computer-use agents, page 2 | AwesomeCUA"
+url: https://awesomecua.com/categories/agent/page/2/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agents, page 2
 
 HTML page: https://awesomecua.com/categories/agent/page/2/

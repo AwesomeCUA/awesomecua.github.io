@@ -1,3 +1,11 @@
+---
+title: "TabCtrl | AwesomeCUA"
+url: https://awesomecua.com/resources/github-g1at-tabctrl/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # TabCtrl
 
 Bring-your-own-key multi-model browser agent for Chrome and Edge with per-task tab isolation.

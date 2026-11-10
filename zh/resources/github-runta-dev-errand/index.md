@@ -1,3 +1,11 @@
+---
+title: "Errand · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-runta-dev-errand/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Errand
 
 开源、持久运行的桌面 AI 协作智能体，具备定时任务、浏览器控制和工作区记忆功能。

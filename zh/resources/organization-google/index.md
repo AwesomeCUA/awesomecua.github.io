@@ -1,3 +1,11 @@
+---
+title: "Google · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-google/
+updated: 2026-11-09
+type: company
+lang: zh-CN
+---
+
 # Google
 
 与 Google 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

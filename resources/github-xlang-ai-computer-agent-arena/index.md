@@ -1,3 +1,11 @@
+---
+title: "Computer Agent Arena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # Computer Agent Arena
 
 Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions.

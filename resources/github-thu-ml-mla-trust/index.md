@@ -1,3 +1,11 @@
+---
+title: "MLA-Trust | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thu-ml-mla-trust/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # MLA-Trust
 
 Unified evaluation framework measuring truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.

@@ -1,3 +1,11 @@
+---
+title: "AgentSentinel: An End-to-End and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-07764/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents
 
 提出 AgentSentinel，拦截计算机操作智能体的敏感操作，并结合任务上下文和系统轨迹进行审计；BadComputerUse 在涉及工具和计算机控制的攻击场景中评估这一管控方法。
@@ -27,6 +35,18 @@ Haitao Hu, Peng Chen, Yanpeng Zhao, Yuqi Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-07764/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-07764/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_07764,
+  title = {{AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents}},
+  author = {{Haitao Hu} and {Peng Chen} and {Yanpeng Zhao} and {Yuqi Chen}},
+  year = {2025},
+  eprint = {2509.07764v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.07764v1},
+  note = {First published: 2025-09-09; Recorded arXiv version: v1; Recorded version updated: 2025-09-09T13:59:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

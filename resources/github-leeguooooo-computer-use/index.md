@@ -1,3 +1,11 @@
+---
+title: "computer-use (github.com/leeguooooo/computer-u… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leeguooooo-computer-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # computer-use
 
 An archived macOS broker that lets MCP clients delegate computer-use tasks to the official Codex runtime and receive the nested agent's final response.

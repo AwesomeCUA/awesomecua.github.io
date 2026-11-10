@@ -1,3 +1,11 @@
+---
+title: "VeriGUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8477ada5b7de1d399c9d/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # VeriGUI
 
 VeriWeb 数据集包含 302 项网页信息搜集任务，提供子任务标注、人工操作日志和执行视频，用于评估长链任务智能体。

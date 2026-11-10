@@ -1,3 +1,11 @@
+---
+title: "OmniParser MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cute-aaa-omniparser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OmniParser MCP Server
 
 OmniParser MCP Server wraps Microsoft OmniParser V2 into a Model Context Protocol server that converts screenshots into structured UI elements.

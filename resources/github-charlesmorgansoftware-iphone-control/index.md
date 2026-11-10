@@ -1,3 +1,11 @@
+---
+title: "iphone-control (iPhone Mirroring Skill) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-charlesmorgansoftware-iphone-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # iphone-control (iPhone Mirroring Skill)
 
 macOS skill and CoreGraphics controller for driving a paired iPhone through Apple's macOS iPhone Mirroring app.

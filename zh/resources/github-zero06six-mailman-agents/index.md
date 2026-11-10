@@ -1,3 +1,11 @@
+---
+title: "Mailman Agents · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zero06six-mailman-agents/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Mailman Agents
 
 浏览器扩展多智能体编排器，可跨标签页协调专门的网页智能体。

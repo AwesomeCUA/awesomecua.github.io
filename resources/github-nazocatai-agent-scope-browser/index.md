@@ -1,3 +1,11 @@
+---
+title: "AgentScope Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nazocatai-agent-scope-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AgentScope Browser MCP
 
 AI-agent-dedicated browser MCP server providing semantic page observations and stable `element_id` interactions.

@@ -1,3 +1,11 @@
+---
+title: "WebFovea | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jianganghan-webfovea/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # WebFovea
 
 WebFovea is a vision-based web agent that combines foveated visual crop refinement with live browser interaction.

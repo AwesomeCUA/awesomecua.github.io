@@ -1,3 +1,11 @@
+---
+title: "WebGen-Bench: Evaluating LLMs on Generating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-03733/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch
 
 Introduces WebGen-Bench for evaluating agents that generate multi-file websites, using a web-navigation agent to check whether the resulting pages pass interaction tests.
@@ -26,6 +34,18 @@ Zimu Lu, Yunqiao Yang, Houxing Ren, Haotian Hou, Han Xiao, Ke Wang, Weikang Shi,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-03733/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-03733/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_03733,
+  title = {{WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch}},
+  author = {{Zimu Lu} and {Yunqiao Yang} and {Houxing Ren} and {Haotian Hou} and {Han Xiao} and {Ke Wang} and {Weikang Shi} and {Aojun Zhou} and {Mingjie Zhan} and {Hongsheng Li}},
+  year = {2025},
+  eprint = {2505.03733v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.03733v2},
+  note = {First published: 2025-05-06; Recorded arXiv version: v2; Recorded version updated: 2025-08-11T07:13:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

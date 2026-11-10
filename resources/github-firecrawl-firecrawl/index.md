@@ -1,3 +1,11 @@
+---
+title: "Firecrawl (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-firecrawl-firecrawl/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # Firecrawl
 
 Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.

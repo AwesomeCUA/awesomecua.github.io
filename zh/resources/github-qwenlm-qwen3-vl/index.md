@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL / Qwen2.5-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qwenlm-qwen3-vl/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL / Qwen2.5-VL
 
 Qwen-VL 视觉语言模型系列的官方仓库，支持原生视觉 GUI 定位、计算机使用和移动端导航。

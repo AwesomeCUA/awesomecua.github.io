@@ -1,3 +1,11 @@
+---
+title: "METAL: A Multi-Agent Framework for Chart… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-17651/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling
 
 Bibliographic record for METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bingxuan Li, Yiwei Wang, Jiuxiang Gu, Kai-Wei Chang, Nanyun Peng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-17651/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-17651/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_17651,
+  title = {{METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling}},
+  author = {{Bingxuan Li} and {Yiwei Wang} and {Jiuxiang Gu} and {Kai-Wei Chang} and {Nanyun Peng}},
+  year = {2025},
+  eprint = {2502.17651v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.17651v4},
+  note = {First published: 2025-02-24; Recorded arXiv version: v4; Recorded version updated: 2025-09-17T21:47:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

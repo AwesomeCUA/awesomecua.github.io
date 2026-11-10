@@ -1,3 +1,11 @@
+---
+title: "BrowserRig · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-castor6-browserrig/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # BrowserRig
 
 开源本地驱动，使可信的 AI 智能体能够控制已登录的 Chromium 浏览器。

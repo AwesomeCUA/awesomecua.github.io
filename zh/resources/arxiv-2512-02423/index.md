@@ -1,3 +1,11 @@
+---
+title: "GUI Exploration Lab: Enhancing Screen… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-02423/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning
 
 GUI Exploration Lab 是用于组合屏幕、界面元素和导航图的模拟引擎。论文研究监督学习、单轮 RL 和多轮 RL 对 GUI 导航与探索的影响。
@@ -27,6 +35,18 @@ Haolong Yan, Yeqing Shen, Xin Huang, Jia Wang, Kaijun Tan, Zhixuan Liang, Hongxi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-02423/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-02423/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_02423,
+  title = {{GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning}},
+  author = {{Haolong Yan} and {Yeqing Shen} and {Xin Huang} and {Jia Wang} and {Kaijun Tan} and {Zhixuan Liang} and {Hongxin Li} and {Zheng Ge} and {Osamu Yoshie} and {Si Li} and {Xiangyu Zhang} and {Daxin Jiang}},
+  year = {2025},
+  eprint = {2512.02423v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.02423v1},
+  note = {First published: 2025-12-02; Recorded arXiv version: v1; Recorded version updated: 2025-12-02T05:11:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

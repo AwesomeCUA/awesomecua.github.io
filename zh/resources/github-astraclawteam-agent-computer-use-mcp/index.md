@@ -1,3 +1,11 @@
+---
+title: "AstraClaw Agent Computer Use MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-astraclawteam-agent-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AstraClaw Agent Computer Use MCP
 
 以证据为依据的 Windows Computer Use MCP 服务器，提供语义 UI 观测、安全截图和经过验证的动作。

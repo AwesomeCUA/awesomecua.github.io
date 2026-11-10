@@ -1,3 +1,11 @@
+---
+title: "Oh My DSH | AwesomeCUA"
+url: https://awesomecua.com/resources/github-secretxuan-oh-my-dsh/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Oh My DSH
 
 Oh My DSH coordinates multi-agent teams with a shared compare-and-set task graph and native-vision Windows computer-use for DeepSeek Harness.

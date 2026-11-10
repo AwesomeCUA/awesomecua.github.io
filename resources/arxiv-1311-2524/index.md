@@ -1,3 +1,11 @@
+---
+title: "Rich feature hierarchies for accurate object… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1311-2524/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Rich feature hierarchies for accurate object detection and semantic segmentation
 
 Bibliographic record for Rich feature hierarchies for accurate object detection and semantic segmentation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1311-2524/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1311-2524/citation.csl.json
+
+```bibtex
+@misc{arxiv_1311_2524,
+  title = {{Rich feature hierarchies for accurate object detection and semantic segmentation}},
+  author = {{Ross Girshick} and {Jeff Donahue} and {Trevor Darrell} and {Jitendra Malik}},
+  year = {2013},
+  eprint = {1311.2524v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1311.2524v5},
+  note = {First published: 2013-11-11; Recorded arXiv version: v5; Recorded version updated: 2014-10-22T17:23:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AI Web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dongxinsuperman-ai-web/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AI Web
 
 Natural-language Browser Agent execution platform supporting multi-browser scheduling, task queues, and traceable QA test reports.

@@ -1,3 +1,11 @@
+---
+title: "Wuying Cloud Phone | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9480f580f8bf9d3ba65d/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Wuying Cloud Phone
 
 Alibaba Cloud service of virtual Android phones run on ARM servers and streamed to users' devices, sold with a built-in Mobile Use Agent and an Agentic Mobile option that runs Qwen-driven agents in the phones.

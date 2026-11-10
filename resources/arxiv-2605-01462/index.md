@@ -1,3 +1,11 @@
+---
+title: "LocalAlign: Enabling Generalizable Prompt… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-01462/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LocalAlign: Enabling Generalizable Prompt Injection Defense via Generation of Near-Target Adversarial Examples for Alignment Training
 
 Status: excluded from the active CUA catalog after scope review.

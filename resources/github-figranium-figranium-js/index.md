@@ -1,3 +1,11 @@
+---
+title: "Figranium JS/TS SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-figranium-figranium-js/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Figranium JS/TS SDK
 
 Official JavaScript and TypeScript SDK for the Figranium browser automation and web extraction platform.

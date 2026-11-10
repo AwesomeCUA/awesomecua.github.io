@@ -1,3 +1,11 @@
+---
+title: "Constrained Reinforcement Learning with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-14508/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Constrained Reinforcement Learning with Smoothed Log Barrier Function
 
 Status: excluded from the active CUA catalog after scope review.

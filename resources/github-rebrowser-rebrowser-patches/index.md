@@ -1,3 +1,11 @@
+---
+title: "rebrowser-patches | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # rebrowser-patches
 
 rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.

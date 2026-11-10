@@ -1,3 +1,11 @@
+---
+title: "WebGraphEval: Multi-Turn Trajectory… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-19205/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation
 
 WebGraphEval 将多个智能体的轨迹合并为由规范化操作构成的加权图，通过结构分析研究重复行为、低效路径和关键决策点，评估不局限于最终成功率。
@@ -27,6 +35,18 @@ Yaoyao Qian, Yuanli Wang, Jinda Zhang, Yun Zong, Meixu Chen, Hanhan Zhou, Jindan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-19205/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-19205/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19205,
+  title = {{WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation}},
+  author = {{Yaoyao Qian} and {Yuanli Wang} and {Jinda Zhang} and {Yun Zong} and {Meixu Chen} and {Hanhan Zhou} and {Jindan Huang} and {Yifan Zeng} and {Xinyu Hu} and {Chan Hee Song} and {Danqing Zhang}},
+  year = {2025},
+  eprint = {2510.19205v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19205v1},
+  note = {First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T03:29:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "STaR-KV: Spatio-Temporal Adaptive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-01790/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # STaR-KV: Spatio-Temporal Adaptive Re-weighting for KV Cache Compression in GUI Vision-Language Models
 
 STaR-KV compresses GUI-agent KV caches by calibrating visual-token importance across attention subspaces and interaction time. Its training-free scoring combines spatial specialization, temporal redundancy and an adaptive temperature, evaluated at matched cache budgets.
@@ -26,6 +34,18 @@ Yuhang Han, Wenzheng Yang, Yujie Chen, Xiangqi Jin, Yaojie Zhang, Siteng Huang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-01790/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-01790/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_01790,
+  title = {{STaR-KV: Spatio-Temporal Adaptive Re-weighting for KV Cache Compression in GUI Vision-Language Models}},
+  author = {{Yuhang Han} and {Wenzheng Yang} and {Yujie Chen} and {Xiangqi Jin} and {Yaojie Zhang} and {Siteng Huang} and {Linfeng Zhang}},
+  year = {2026},
+  eprint = {2606.01790v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.01790v1},
+  note = {First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T07:10:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

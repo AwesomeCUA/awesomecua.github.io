@@ -1,3 +1,11 @@
+---
+title: "Memento: Fine-tuning LLM Agents without… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-16153/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
 
 Bibliographic record for Memento: Fine-tuning LLM Agents without Fine-tuning LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Huichi Zhou, Yihang Chen, Siyuan Guo, Xue Yan, Kin Hei Lee, Zihan Wang, Ka Yiu L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-16153/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-16153/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_16153,
+  title = {{Memento: Fine-tuning LLM Agents without Fine-tuning LLMs}},
+  author = {{Huichi Zhou} and {Yihang Chen} and {Siyuan Guo} and {Xue Yan} and {Kin Hei Lee} and {Zihan Wang} and {Ka Yiu Lee} and {Guchun Zhang} and {Kun Shao} and {Linyi Yang} and {Jun Wang}},
+  year = {2025},
+  eprint = {2508.16153v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.16153v2},
+  note = {First published: 2025-08-22; Recorded arXiv version: v2; Recorded version updated: 2025-08-25T13:32:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

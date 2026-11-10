@@ -1,3 +1,11 @@
+---
+title: "Aeyes (Voice Browser Assistant) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-evalutik-ai-partner-catalyst/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Aeyes (Voice Browser Assistant)
 
 Aeyes is a voice-controlled Chrome extension assistant designed to help blind and visually impaired users navigate websites.

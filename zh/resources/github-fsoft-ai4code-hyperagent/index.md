@@ -1,3 +1,11 @@
+---
+title: "FSoft HyperAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fsoft-ai4code-hyperagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # FSoft HyperAgent
 
 FSoft HyperAgent 协调 Planner、Navigator、Code Editor 和 Executor 智能体，完成代码仓库层面的软件工程任务。

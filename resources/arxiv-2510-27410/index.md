@@ -1,3 +1,11 @@
+---
+title: "Closing the Expression Gap in LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-27410/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Closing the Expression Gap in LLM Instructions via Socratic Questioning
 
 Status: excluded from the active CUA catalog after scope review.

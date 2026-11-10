@@ -1,3 +1,11 @@
+---
+title: "A Max-Min Task Offloading Algorithm for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2109-01239/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access
 
 Status: excluded from the active CUA catalog after scope review.

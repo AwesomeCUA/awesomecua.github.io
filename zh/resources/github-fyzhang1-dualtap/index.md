@@ -1,3 +1,11 @@
+---
+title: "DualTAP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fyzhang1-dualtap/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # DualTAP
 
 DualTAP 是面向移动端 MLLM GUI 智能体的双任务对抗防护框架，用于抵御环境和视觉提示攻击。

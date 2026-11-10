@@ -1,3 +1,11 @@
+---
+title: "MatCha: Enhancing Visual Language Pretraining… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-09662/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering
 
 Bibliographic record for MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2212-09662/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2212-09662/citation.csl.json
+
+```bibtex
+@misc{arxiv_2212_09662,
+  title = {{MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering}},
+  author = {{Fangyu Liu} and {Francesco Piccinno} and {Syrine Krichene} and {Chenxi Pang} and {Kenton Lee} and {Mandar Joshi} and {Yasemin Altun} and {Nigel Collier} and {Julian Martin Eisenschlos}},
+  year = {2022},
+  eprint = {2212.09662v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2212.09662v2},
+  note = {First published: 2022-12-19; Recorded arXiv version: v2; Recorded version updated: 2023-05-23T18:21:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

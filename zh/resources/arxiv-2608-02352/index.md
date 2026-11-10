@@ -1,3 +1,11 @@
+---
+title: "Qwen-CUA: Native Computer Use for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-02352/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Qwen-CUA: Native Computer Use for (almost) Everything
 
 Qwen-CUA 通过截图及键盘、鼠标事件操作，并将较早的视觉历史压缩为可复用的上下文块。报告结合可验证任务生成、基于轨迹的训练，以及分别针对浏览器和 Bash 辅助场景的研究。
@@ -27,6 +35,18 @@ Dunjie Lu, Shuai Bai, Tianyi Bai, Sicheng Fan, Chang Gao, Jian Guan, Feng Hu, Mi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-02352/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-02352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_02352,
+  title = {{Qwen-CUA: Native Computer Use for (almost) Everything}},
+  author = {{Dunjie Lu} and {Shuai Bai} and {Tianyi Bai} and {Sicheng Fan} and {Chang Gao} and {Jian Guan} and {Feng Hu} and {Mianqiu Huang} and {Xingyang Huang} and {Yizhen Jiang} and {Yuheng Jing} and {Dehui Kong} and {Ning Li} and {Dayiheng Liu} and {Shixuan Liu} and {Zheng Liu} and {Que Shen} and {Bowen Wang} and {Junli Wang} and {Chencan Wu} and {Rui Xie} and {Tianbao Xie} and {Zhihui Xie} and {Haiyang Xu} and {An Yang} and {Tao Yu} and {Wenzhen Yuan} and {Xi Zhang} and {Zhenru Zhang} and {Mingkang Zhu} and {Zhaoqing Zhu} and {Yizhong Cao} and {Kai Dang} and {Binyuan Hui} and {Kaixin Li} and {Junyang Lin} and {Haiquan Wang} and {Zekun Wang} and {Yiheng Xu} and {Fan Yan} and {Mengqi Yuan} and {Danyang Zhang} and {Jiajun Zhang} and {Zhipeng Zhang} and {Fan Zhou} and {Fan Zhou}},
+  year = {2026},
+  eprint = {2608.02352v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.02352v1},
+  note = {First published: 2026-08-03; Recorded arXiv version: v1; Recorded version updated: 2026-08-03T15:04:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "OpenJev-4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e592a1ff8bfcafcc7061/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpenJev-4B
 
 一个本地决策模型，可为浏览器智能体的操作和目标元素候选项评分。该版本提供模型权重，并报告了浏览器步骤评测结果。

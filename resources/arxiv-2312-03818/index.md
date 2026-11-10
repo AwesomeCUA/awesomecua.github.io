@@ -1,3 +1,11 @@
+---
+title: "Alpha-CLIP: A CLIP Model Focusing on Wherever… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-03818/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Alpha-CLIP: A CLIP Model Focusing on Wherever You Want
 
 Bibliographic record for Alpha-CLIP: A CLIP Model Focusing on Wherever You Want. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dah
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-03818/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-03818/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_03818,
+  title = {{Alpha-CLIP: A CLIP Model Focusing on Wherever You Want}},
+  author = {{Zeyi Sun} and {Ye Fang} and {Tong Wu} and {Pan Zhang} and {Yuhang Zang} and {Shu Kong} and {Yuanjun Xiong} and {Dahua Lin} and {Jiaqi Wang}},
+  year = {2023},
+  eprint = {2312.03818v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.03818v2},
+  note = {First published: 2023-12-06; Recorded arXiv version: v2; Recorded version updated: 2023-12-13T05:52:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

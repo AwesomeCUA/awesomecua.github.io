@@ -1,3 +1,11 @@
+---
+title: "KnowAct-GUIClaw: Know Deeply, Act Perfectly… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-12625/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill
 
 KnowAct-GUIClaw combines a host planner with pluggable GUI subagents, attributable experience memory and an evolving skill library. It uses user profiles and feedback for task decomposition and evaluates transfer across Android, iOS, HarmonyOS and Windows.
@@ -26,6 +34,18 @@ Yunxin Li, Jinchao Li, Shibo Su, Zhenran Xu, Chenrui Zhao, Tongshu Bian, Xiaoman
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-12625/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-12625/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_12625,
+  title = {{KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill}},
+  author = {{Yunxin Li} and {Jinchao Li} and {Shibo Su} and {Zhenran Xu} and {Chenrui Zhao} and {Tongshu Bian} and {Xiaoman Liang} and {Meishan Zhang} and {Baotian Hu} and {Min Zhang}},
+  year = {2026},
+  eprint = {2607.12625v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.12625v2},
+  note = {First published: 2026-07-14; Recorded arXiv version: v2; Recorded version updated: 2026-07-15T04:41:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

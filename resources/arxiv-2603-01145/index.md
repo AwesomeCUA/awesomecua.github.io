@@ -1,3 +1,11 @@
+---
+title: "AutoSkill: Experience-Driven Lifelong… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-01145/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
 
 Status: excluded from the active CUA catalog after scope review.

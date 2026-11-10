@@ -1,3 +1,11 @@
+---
+title: "Odysseys: Benchmarking Web Agents on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-24964/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks
 
 Odysseys 是从浏览会话中提取长程跨网站任务构建的真实网络基准，以分级任务评分细则和每步细则得分衡量部分进展与轨迹效率。
@@ -27,6 +35,18 @@ Lawrence Keunho Jang, Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-24964/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-24964/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_24964,
+  title = {{Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks}},
+  author = {{Lawrence Keunho Jang} and {Jing Yu Koh} and {Daniel Fried} and {Ruslan Salakhutdinov}},
+  year = {2026},
+  eprint = {2604.24964v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.24964v1},
+  note = {First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T20:05:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

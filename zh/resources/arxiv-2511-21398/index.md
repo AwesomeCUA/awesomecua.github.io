@@ -1,3 +1,11 @@
+---
+title: "Prune4Web: DOM Tree Pruning Programming… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-21398/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Prune4Web: DOM Tree Pruning Programming for Web Agent
 
 Prune4Web 在定位前用生成的评分程序，依据拆解后的子任务筛选 DOM 元素。标注流程和两轮训练过程协调规划器、程序化筛选器与定位模型。
@@ -27,6 +35,18 @@ Jiayuan Zhang, Kaiquan Chen, Zhihao Lu, Enshen Zhou, Qian Yu, Jing Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-21398/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-21398/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_21398,
+  title = {{Prune4Web: DOM Tree Pruning Programming for Web Agent}},
+  author = {{Jiayuan Zhang} and {Kaiquan Chen} and {Zhihao Lu} and {Enshen Zhou} and {Qian Yu} and {Jing Zhang}},
+  year = {2025},
+  eprint = {2511.21398v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.21398v1},
+  note = {First published: 2025-11-26; Recorded arXiv version: v1; Recorded version updated: 2025-11-26T13:49:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

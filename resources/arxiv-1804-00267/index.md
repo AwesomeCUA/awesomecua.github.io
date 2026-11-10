@@ -1,3 +1,11 @@
+---
+title: "Toward Fast Neural Computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1804-00267/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Toward Fast Neural Computing using All-Photonic Phase Change Spiking Neurons
 
 Status: excluded from the active CUA catalog after scope review.

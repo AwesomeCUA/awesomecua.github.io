@@ -1,3 +1,11 @@
+---
+title: "ADBKeyBoard · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-senzhk-adbkeyboard/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ADBKeyBoard
 
 一款 Android 虚拟键盘，通过 ADB 广播输入文本、Unicode 字符和按键事件，供设备自动化使用。

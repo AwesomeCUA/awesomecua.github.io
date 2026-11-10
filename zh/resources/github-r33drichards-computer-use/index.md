@@ -1,3 +1,11 @@
+---
+title: "Computer Use (gVisor Cloud REPL) · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-r33drichards-computer-use/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Computer Use (gVisor Cloud REPL)
 
 提供由 gVisor 隔离的 Linux 桌面和 Chromium 容器，具备持久化存储，可通过单个 JavaScript REPL MCP 工具驱动。

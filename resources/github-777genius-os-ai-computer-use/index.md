@@ -1,3 +1,11 @@
+---
+title: "OS AI Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-777genius-os-ai-computer-use/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # OS AI Computer Use
 
 Local desktop agent that sends plain screenshots to OpenAI's or Anthropic's computer-use tool and performs the returned clicks, drags, scrolls and keystrokes through PyAutoGUI-based drivers on macOS, Windows and Linux.

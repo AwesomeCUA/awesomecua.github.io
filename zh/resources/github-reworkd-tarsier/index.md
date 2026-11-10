@@ -1,3 +1,11 @@
+---
+title: "Tarsier · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reworkd-tarsier/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # Tarsier
 
 网页智能体感知工具，为可交互元素标注可供 LLM 操作的类型化 ID，并用 OCR 将网页截图转为保留空白布局的文本，供无视觉能力的模型使用。

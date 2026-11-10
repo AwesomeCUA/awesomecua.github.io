@@ -1,3 +1,11 @@
+---
+title: "pyagentbrowser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-peter-gy-pyagentbrowser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pyagentbrowser
 
 面向 Vercel agent-browser 引擎的类型化 Python SDK，支持捕获动作前后的证据。

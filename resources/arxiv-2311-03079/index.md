@@ -1,3 +1,11 @@
+---
+title: "CogVLM: Visual Expert for Pretrained Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-03079/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CogVLM: Visual Expert for Pretrained Language Models
 
 Status: excluded from the active CUA catalog after scope review.

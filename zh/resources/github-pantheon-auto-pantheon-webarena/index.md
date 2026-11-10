@@ -1,3 +1,11 @@
+---
+title: "pantheon-webarena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pantheon-auto-pantheon-webarena/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # pantheon-webarena
 
 pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行评测工具打包，供网页智能体使用。

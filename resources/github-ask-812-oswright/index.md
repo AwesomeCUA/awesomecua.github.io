@@ -1,3 +1,11 @@
+---
+title: "OSWright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ask-812-oswright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OSWright
 
 Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.

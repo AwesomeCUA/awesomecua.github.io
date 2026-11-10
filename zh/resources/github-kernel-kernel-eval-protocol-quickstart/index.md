@@ -1,3 +1,11 @@
+---
+title: "Kernel Eval Protocol · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kernel-kernel-eval-protocol-quickstart/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Kernel Eval Protocol
 
 使用 Eval Protocol、Kernel 云浏览器和可验证的任务评分器，评测并微调视觉语言浏览器智能体。

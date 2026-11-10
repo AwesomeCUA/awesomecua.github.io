@@ -1,3 +1,11 @@
+---
+title: "Sai OSWorld-V2 benchmark runs | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e0180b9651fec04d0308/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Sai OSWorld-V2 benchmark runs
 
 Simular's per-task evidence from two complete 108-task OSWorld-V2 runs of its Sai computer-use agent: scores, step trajectories, message traces, evaluator and API logs, and run manifests, without screenshots.

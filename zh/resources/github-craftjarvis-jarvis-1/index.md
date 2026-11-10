@@ -1,3 +1,11 @@
+---
+title: "JARVIS-1 · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-craftjarvis-jarvis-1/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # JARVIS-1
 
 JARVIS-1 是开放世界多模态 Minecraft 智能体，具备情节式多模态记忆和目标条件化的键盘、鼠标控制能力。

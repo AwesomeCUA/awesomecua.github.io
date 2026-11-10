@@ -1,3 +1,11 @@
+---
+title: "Mobile QA Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sumanmadipeddi-mobile-qa-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Mobile QA Agent
 
 Mobile QA Agent 是基于 Agent S3 构建的 Supervisor-Planner-Executor 多智能体系统，通过 ADB 自动测试 Android 应用。

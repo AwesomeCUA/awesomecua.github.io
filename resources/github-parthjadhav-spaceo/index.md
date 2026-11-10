@@ -1,3 +1,11 @@
+---
+title: "SpaceO | AwesomeCUA"
+url: https://awesomecua.com/resources/github-parthjadhav-spaceo/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # SpaceO
 
 Gives AI computer-use agents dedicated virtual macOS displays so they operate real apps without taking over the user's screen or cursor.

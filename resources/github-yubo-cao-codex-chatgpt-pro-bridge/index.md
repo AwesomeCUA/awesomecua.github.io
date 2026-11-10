@@ -1,3 +1,11 @@
+---
+title: "Codex ChatGPT Pro Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yubo-cao-codex-chatgpt-pro-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex ChatGPT Pro Bridge
 
 Locale-robust Codex skill for consulting a signed-in ChatGPT Pro web session in the browser.

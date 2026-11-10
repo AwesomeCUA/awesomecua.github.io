@@ -1,3 +1,11 @@
+---
+title: "CUA-SWE: When Computer-Use Agents Meet… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-32600/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering
 
 CUA-SWE 提供结合代码修改、图形界面交互和运行中软件视觉检查的基准及执行环境。任务专用测试核验修复与改动，其中所需信息可能只能通过应用界面获取。
@@ -27,6 +35,18 @@ Prince Zizhuang Wang, Chenhao Liang, Zelong Xu, Aojie Yuan, Xiaolin Zhou, Haiyue
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-32600/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-32600/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32600,
+  title = {{CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering}},
+  author = {{Prince Zizhuang Wang} and {Chenhao Liang} and {Zelong Xu} and {Aojie Yuan} and {Xiaolin Zhou} and {Haiyue Zhang} and {Yue Zhao} and {Xiyang Hu} and {Shuli Jiang}},
+  year = {2026},
+  eprint = {2609.32600v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32600v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T13:18:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

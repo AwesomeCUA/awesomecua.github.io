@@ -1,3 +1,11 @@
+---
+title: "MobileAgentBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # MobileAgentBench
 
 Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mobile Tools Android apps, installed as a Python library that detects task completion.

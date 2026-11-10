@@ -1,3 +1,11 @@
+---
+title: "When Web Agents Finish but Still Fail… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-20724/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # When Web Agents Finish but Still Fail: Reproducible Triggers and Trace Diagnostics for Parallel Web Exploration
 
 Introduces Parallel WebBench for parallel web exploration and uses verified URL trajectories to diagnose search loops, incomplete answers, and failures after evidence retrieval.
@@ -26,6 +34,18 @@ Aagam Sogani, Botao Rui, Swetha Vaidyanathan, Rishi Agarwal, Minghao Yan, Shivar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-20724/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-20724/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20724,
+  title = {{When Web Agents Finish but Still Fail: Reproducible Triggers and Trace Diagnostics for Parallel Web Exploration}},
+  author = {{Aagam Sogani} and {Botao Rui} and {Swetha Vaidyanathan} and {Rishi Agarwal} and {Minghao Yan} and {Shivaram Venkataraman}},
+  year = {2026},
+  eprint = {2606.20724v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20724v2},
+  note = {First published: 2026-06-16; Recorded arXiv version: v2; Recorded version updated: 2026-06-29T04:16:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

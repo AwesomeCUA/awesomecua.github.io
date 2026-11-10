@@ -1,3 +1,11 @@
+---
+title: "world_model_for_wa_desc_with_tao_dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-96bb23bd687d6c227a41/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # world_model_for_wa_desc_with_tao_dataset
 
 Training data for the world model of the WMA web agent: 14744 steps pairing an objective, previous actions, an observation and the current action with the next state and a description of what changed.

@@ -1,3 +1,11 @@
+---
+title: "macOS-MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cursortouch-macos-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macOS-MCP
 
 Lightweight Model Context Protocol server for macOS computer use providing Accessibility tree traversal, screenshots, and input simulation.

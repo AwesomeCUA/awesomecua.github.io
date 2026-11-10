@@ -1,3 +1,11 @@
+---
+title: "Holo4 Trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b5dab1881ac1069e44ce/
+updated: 2026-11-02
+type: dataset
+lang: zh-CN
+---
+
 # Holo4 Trajectories
 
 包含来自 Holo4 27B 和 Holo4 35B-A3B 的 7,366 条计算机使用智能体执行轨迹的数据集，记录步骤级推理、动作、工具结果和截图。

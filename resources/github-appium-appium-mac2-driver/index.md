@@ -1,3 +1,11 @@
+---
+title: "Appium Mac2 Driver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium-mac2-driver/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Appium Mac2 Driver
 
 Appium Mac2 Driver uses Apple's XCTest framework to automate macOS applications through Appium.

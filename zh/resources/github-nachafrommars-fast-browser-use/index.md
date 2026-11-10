@@ -1,3 +1,11 @@
+---
+title: "fast-browser-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nachafrommars-fast-browser-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # fast-browser-use
 
 基于 Rust 的浏览器自动化引擎，通过 CDP 驱动 Chrome，内置反机器人规避功能和低延迟 DOM 提取功能。

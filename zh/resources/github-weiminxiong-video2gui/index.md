@@ -1,3 +1,11 @@
+---
+title: "Video2GUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-weiminxiong-video2gui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Video2GUI
 
 Video2GUI 通过逆向动力学和 VLM 标注，从未标注的屏幕录制视频中合成大规模 GUI 交互轨迹。

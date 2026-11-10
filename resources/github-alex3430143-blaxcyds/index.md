@@ -1,3 +1,11 @@
+---
+title: "BLAXCY | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alex3430143-blaxcyds/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # BLAXCY
 
 BLAXCY is a policy-gated, self-verifying Linux desktop computer-use agent with action confirmation and state verification.

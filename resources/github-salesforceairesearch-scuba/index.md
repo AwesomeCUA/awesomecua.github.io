@@ -1,3 +1,11 @@
+---
+title: "SCUBA (Salesforce Computer Use Benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-salesforceairesearch-scuba/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # SCUBA (Salesforce Computer Use Benchmark)
 
 SCUBA benchmarks computer-use agents on enterprise Salesforce CRM workflows spanning admin configuration, sales operations, and service tasks.

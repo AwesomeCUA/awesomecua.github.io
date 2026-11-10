@@ -1,3 +1,11 @@
+---
+title: "GPTFUZZER: Red Teaming Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-10253/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts
 
 Status: excluded from the active CUA catalog after scope review.

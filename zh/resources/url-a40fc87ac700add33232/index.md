@@ -1,3 +1,11 @@
+---
+title: "Preflight Bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a40fc87ac700add33232/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Preflight Bench
 
 这是一个用于评估动态网页点击前检查的数据集，包含成对的截图、点击结果和检查器答案，并提供 Lance 数据表及开发集和测试集。

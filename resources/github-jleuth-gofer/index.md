@@ -1,3 +1,11 @@
+---
+title: "Gofer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jleuth-gofer/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Gofer
 
 Gofer is a persistent desktop agent that monitors screen changes, executes shell and GUI actions, and communicates via Telegram or a local REPL.

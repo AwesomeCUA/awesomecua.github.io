@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rxluz-browser-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Agent Bridge
 
 安全的本地 Model Context Protocol 桥接工具，用于操作现有的已认证 Chrome 会话。

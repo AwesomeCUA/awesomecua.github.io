@@ -1,3 +1,11 @@
+---
+title: "Caster User Directory · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amirf147-caster-user-directory-and-notes/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Caster User Directory
 
 Caster User Directory 将 Windows 语音自动化、窗口切换和基于无障碍接口的桌面焦点上下文跟踪结合在一起。

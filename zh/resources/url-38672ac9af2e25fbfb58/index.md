@@ -1,3 +1,11 @@
+---
+title: "ColorGUI-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-38672ac9af2e25fbfb58/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ColorGUI-32B
 
 ColorGUI-32B 是基于 Qwen3-VL-32B-Instruct 训练的移动界面动作模型，可根据屏幕截图和指令选择操作，供移动智能体运行环境使用。

@@ -1,3 +1,11 @@
+---
+title: "Recursive Game Creator: An Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-08621/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness
 
 Bibliographic record for Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiajun Chen, Haoyu Wu, Mingda Jia, Xihui Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-08621/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-08621/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08621,
+  title = {{Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness}},
+  author = {{Jiajun Chen} and {Haoyu Wu} and {Mingda Jia} and {Xihui Liu}},
+  year = {2026},
+  eprint = {2610.08621v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08621v2},
+  note = {First published: 2026-10-06; Recorded arXiv version: v2; Recorded version updated: 2026-10-16T07:23:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

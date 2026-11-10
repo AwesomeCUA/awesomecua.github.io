@@ -1,3 +1,11 @@
+---
+title: "OSWorld GPT-4o-mini Benchmark Evaluation · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorld GPT-4o-mini Benchmark Evaluation
 
 在 OSWorld 桌面自动化任务上评测 GPT-4o-mini，对比仅截图、辅助功能树和 Set-of-Mark 三种观察模式。

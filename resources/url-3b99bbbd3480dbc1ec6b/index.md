@@ -1,3 +1,11 @@
+---
+title: "FinalRun | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # FinalRun
 
 Android UI agent that prunes interface trees, waits for stable screens, feeds action failures back into its decisions, and takes fresh screenshots before grounding actions.

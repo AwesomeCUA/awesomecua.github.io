@@ -1,3 +1,11 @@
+---
+title: "Steel Node API Library | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steel-dev-steel-node/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # Steel Node API Library
 
 TypeScript and JavaScript client for the Steel cloud browser API, with typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files, profiles and credentials.

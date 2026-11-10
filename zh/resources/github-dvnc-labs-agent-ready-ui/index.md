@@ -1,3 +1,11 @@
+---
+title: "agent-ready-ui · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dvnc-labs-agent-ready-ui/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-ready-ui
 
 agent-ready-ui 为网页前端组件添加语义属性和动作接口，使浏览器智能体能可靠地操作这些组件。

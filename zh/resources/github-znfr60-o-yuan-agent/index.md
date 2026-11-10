@@ -1,3 +1,11 @@
+---
+title: "O-yuan (启原) v3.0 · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-znfr60-o-yuan-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # O-yuan (启原) v3.0
 
 跨平台通用智能体，配备 28+ 个内置工具、多模型协商、GUI 自动化和持久化 Shell。

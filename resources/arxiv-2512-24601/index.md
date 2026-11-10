@@ -1,3 +1,11 @@
+---
+title: "Recursive Language Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-24601/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Recursive Language Models
 
 Bibliographic record for Recursive Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Alex L. Zhang, Tim Kraska, Omar Khattab
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-24601/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-24601/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_24601,
+  title = {{Recursive Language Models}},
+  author = {{Alex L. Zhang} and {Tim Kraska} and {Omar Khattab}},
+  year = {2025},
+  eprint = {2512.24601v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.24601v3},
+  note = {First published: 2025-12-31; Recorded arXiv version: v3; Recorded version updated: 2026-05-11T15:26:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

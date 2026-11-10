@@ -1,3 +1,11 @@
+---
+title: "AgentBoard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hkust-nlp-agentboard/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # AgentBoard
 
 AgentBoard evaluates multiturn agents across several tasks, including web interactions, and provides progress metrics and visualizations for analyzing their runs.

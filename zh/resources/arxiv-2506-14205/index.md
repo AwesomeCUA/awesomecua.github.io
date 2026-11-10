@@ -1,3 +1,11 @@
+---
+title: "AgentSynth: Scalable Task Generation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-14205/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents
 
 AgentSynth 将易于生成的子任务组合成难度可调的较长计算机使用任务与轨迹，并以子任务数量考察任务复杂度增加时智能体成功率的变化。
@@ -27,6 +35,18 @@ Jingxu Xie, Dylan Xu, Xuandong Zhao, Dawn Song
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-14205/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-14205/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_14205,
+  title = {{AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents}},
+  author = {{Jingxu Xie} and {Dylan Xu} and {Xuandong Zhao} and {Dawn Song}},
+  year = {2025},
+  eprint = {2506.14205v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.14205v2},
+  note = {First published: 2025-06-17; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T00:51:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

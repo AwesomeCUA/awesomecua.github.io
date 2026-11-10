@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 27 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/27/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 27
 
 HTML page: https://awesomecua.com/topics/automation/page/27/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Win32 MCP Server](https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/)
-- [Win:Computer Use MCP](https://awesomecua.com/resources/github-jnx03-windowncomputeruse/)
-- [WinAgent-Lite](https://awesomecua.com/resources/github-zyydi1959-winagent-lite/)
-- [winctl-mcp](https://awesomecua.com/resources/github-shult-winctl-mcp/)
-- [Window Calls](https://awesomecua.com/resources/github-ickyicky-window-calls/)
 - [Windows Agent Browser (winbrowse)](https://awesomecua.com/resources/github-civitasmass-windows-agent-browser/)
 - [Windows Computer Use](https://awesomecua.com/resources/github-cgissing-windows-computer-use/)
 - [Windows Computer Use MCP (DXGI + UIA)](https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/)
@@ -62,5 +65,10 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [zendriver-docker](https://awesomecua.com/resources/github-cdpdriver-zendriver-docker/)
 - [ZennoPoster MCP](https://awesomecua.com/resources/github-zennolab-zennoposter-mcp/)
 - [zetakai desktop-mcp](https://awesomecua.com/resources/github-zetakai-desktop-mcp/)
-- [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/)
 - [Zhaozuo (照做)](https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/)
+- [Ziweixing (紫微星)](https://awesomecua.com/resources/github-xiaozhe7772222-ziweixing/)
+- [ZRui-C DSH Computer Use](https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/)
+- [zseven-w DSH Browser](https://awesomecua.com/resources/github-zseven-w-dsh-browser/)
+- [zseven-w DSH Computer](https://awesomecua.com/resources/github-zseven-w-dsh-computer/)
+- [zuhair-01 chrome-agent-bridge](https://awesomecua.com/resources/github-zuhair-01-chrome-agent-bridge/)
+- [AI Agents for Computer Use](https://awesomecua.com/resources/github-sagerpascal-agents-for-computer-use/)

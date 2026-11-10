@@ -1,10 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 8 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/8/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 8
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/8/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [Browser Workbench for Codex](https://awesomecua.com/resources/github-slemmis-browser-workbench-for-codex/)
 - [browser-account-guard & flaky-browser-ui](https://awesomecua.com/resources/github-praticoeq-sudo-browser-account-guard/)
 - [browser-agent-kit](https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/)
 - [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Chrome Control MCP](https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/)
 - [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/)
 - [Chrome DevTools MCP Persistent Bridge](https://awesomecua.com/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/)
+- [Chrome Extension Tester MCP](https://awesomecua.com/resources/github-bhuvan-rj-chrome-extension-testing-mcp/)

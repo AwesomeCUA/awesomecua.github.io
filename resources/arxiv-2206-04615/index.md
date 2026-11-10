@@ -1,3 +1,11 @@
+---
+title: "Beyond the Imitation Game: Quantifying and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-04615/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models
 
 Status: excluded from the active CUA catalog after scope review.

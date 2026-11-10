@@ -1,3 +1,11 @@
+---
+title: "Hoverclick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-neilyysun-ui-hoverclick/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Hoverclick
 
 Hoverclick introduces test-time cursor hover verification and visual attention guidance before committing GUI click actions.

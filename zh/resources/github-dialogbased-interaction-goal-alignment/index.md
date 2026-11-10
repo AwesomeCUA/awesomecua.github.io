@@ -1,3 +1,11 @@
+---
+title: "MemAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dialogbased-interaction-goal-alignment/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # MemAgent
 
 MemAgent 研究网页智能体如何借助任务信息和微调语言模型，通过对话与用户目标保持一致。其仓库提供数据、训练脚本和执行脚本。

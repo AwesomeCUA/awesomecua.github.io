@@ -1,3 +1,11 @@
+---
+title: "UFO | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-ufo/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # UFO
 
 Windows agent framework for application and desktop automation.

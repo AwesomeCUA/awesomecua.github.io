@@ -1,3 +1,11 @@
+---
+title: "FedGUI: Benchmarking Federated GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-14956/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems
 
 Introduces FedGUI, a federated GUI-learning benchmark built from six datasets spanning mobile, web and desktop interfaces. Its experiments separate platform, device, operating-system and data-source heterogeneity when evaluating collaborative training.
@@ -26,6 +34,18 @@ Wenhao Wang, Haoting Shi, Mengying Yuan, Yiquan Lin, Panrong Tong, Hanzhang Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-14956/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-14956/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_14956,
+  title = {{FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems}},
+  author = {{Wenhao Wang} and {Haoting Shi} and {Mengying Yuan} and {Yiquan Lin} and {Panrong Tong} and {Hanzhang Zhou} and {Guangyi Liu} and {Pengxiang Zhao} and {Yue Wang} and {Siheng Chen}},
+  year = {2026},
+  eprint = {2604.14956v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.14956v1},
+  note = {First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T12:53:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "gWorld-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-78802d1a2fce25f20f85/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # gWorld-8B
 
 gWorld-8B 是已发布的移动端图形界面世界模型，根据当前截图和操作生成可渲染的 HTML，以预测操作后的屏幕。

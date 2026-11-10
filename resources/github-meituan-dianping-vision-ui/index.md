@@ -1,3 +1,11 @@
+---
+title: "Vision UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-meituan-dianping-vision-ui/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Vision UI
 
 Vision UI is a visual analysis toolkit for detecting UI elements, matching semantic targets, recognizing text, and comparing interface images.

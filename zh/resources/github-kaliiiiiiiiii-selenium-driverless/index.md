@@ -1,3 +1,11 @@
+---
+title: "Selenium-Driverless · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-selenium-driverless/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Selenium-Driverless
 
 一个面向 Google Chrome 的 Python 浏览器自动化库，无需 chromedriver 即可运行，提供元素查找、指针点击、多标签页、隔离的无痕上下文和网络拦截。

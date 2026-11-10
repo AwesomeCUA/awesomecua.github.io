@@ -1,3 +1,11 @@
+---
+title: "Content Caching-Assisted Vehicular Edge… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-10071/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Content Caching-Assisted Vehicular Edge Computing Using Multi-Agent Graph Attention Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

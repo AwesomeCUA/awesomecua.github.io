@@ -1,3 +1,11 @@
+---
+title: "ThreeDWorld: A Platform for Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2007-04954/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation
 
 Bibliographic record for ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chuang Gan, Jeremy Schwartz, Seth Alter, Damian Mrowca, Martin Schrimpf, James T
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2007-04954/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2007-04954/citation.csl.json
+
+```bibtex
+@misc{arxiv_2007_04954,
+  title = {{ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation}},
+  author = {{Chuang Gan} and {Jeremy Schwartz} and {Seth Alter} and {Damian Mrowca} and {Martin Schrimpf} and {James Traer} and {Julian De Freitas} and {Jonas Kubilius} and {Abhishek Bhandwaldar} and {Nick Haber} and {Megumi Sano} and {Kuno Kim} and {Elias Wang} and {Michael Lingelbach} and {Aidan Curtis} and {Kevin Feigelis} and {Daniel M. Bear} and {Dan Gutfreund} and {David Cox} and {Antonio Torralba} and {James J. DiCarlo} and {Joshua B. Tenenbaum} and {Josh H. McDermott} and {Daniel L. K. Yamins}},
+  year = {2020},
+  eprint = {2007.04954v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2007.04954v2},
+  note = {First published: 2020-07-09; Recorded arXiv version: v2; Recorded version updated: 2021-12-28T17:03:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

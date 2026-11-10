@@ -1,3 +1,11 @@
+---
+title: "Chrome Extension Tester MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bhuvan-rj-chrome-extension-testing-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome Extension Tester MCP
 
 Playwright-based Model Context Protocol server that lets coding agents load, inspect, and autonomously test unpacked Chrome extensions.

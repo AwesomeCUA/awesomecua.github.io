@@ -1,3 +1,11 @@
+---
+title: "LangGraph · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-langchain-ai-langgraph/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LangGraph
 
 LangGraph 是有状态的图编排框架，用于构建长期运行、循环执行且有人参与的 LLM 和 CUA 智能体。

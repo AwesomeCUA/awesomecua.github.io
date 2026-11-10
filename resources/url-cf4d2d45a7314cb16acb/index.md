@@ -1,3 +1,11 @@
+---
+title: "AndroidCode | AwesomeCUA"
+url: https://awesomecua.com/resources/url-cf4d2d45a7314cb16acb/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # AndroidCode
 
 HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.

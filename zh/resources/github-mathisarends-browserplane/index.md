@@ -1,3 +1,11 @@
+---
+title: "Browserplane · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mathisarends-browserplane/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Browserplane
 
 用于扩展远程 Chromium 浏览器的参考控制平面，配有以 Postgres 为后端的会话代理和实时 WebSocket 标签页镜像。

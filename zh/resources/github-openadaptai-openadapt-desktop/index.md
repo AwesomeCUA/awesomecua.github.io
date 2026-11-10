@@ -1,3 +1,11 @@
+---
+title: "OpenAdapt Desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-desktop/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # OpenAdapt Desktop
 
 OpenAdapt Desktop 录制网页和桌面应用中的操作，将录制内容编译为本地程序，并通过屏幕检查和人工确认重复执行数据录入任务。

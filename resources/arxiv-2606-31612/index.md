@@ -1,3 +1,11 @@
+---
+title: "What Memory Do GUI Agents Really Need? From… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-31612/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States
 
 Proposes ATMem, an updated execution-state memory for long mobile GUI tasks, and STR-GRPO to train selective memory use; also introduces a mobile task benchmark.
@@ -26,6 +34,18 @@ Chen Liu, Ling Chen, Hanzhang Zhou, Xu Zhang, Quyu Kong, Panrong Tong, Wenhao Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-31612/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-31612/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_31612,
+  title = {{What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States}},
+  author = {{Chen Liu} and {Ling Chen} and {Hanzhang Zhou} and {Xu Zhang} and {Quyu Kong} and {Panrong Tong} and {Wenhao Wang} and {Xin Yu} and {Steven Hoi} and {Yue Wang}},
+  year = {2026},
+  eprint = {2606.31612v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.31612v2},
+  note = {First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T06:42:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

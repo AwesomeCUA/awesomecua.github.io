@@ -1,3 +1,11 @@
+---
+title: "AI Mime · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prakhar1114-ai-mime/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # AI Mime
 
 macOS 应用录制演示任务，由智能体将其编译为包含脚本、浏览器 CDP 步骤和计算机使用回退机制的可移植技能，并在重跑失败时修补该技能。

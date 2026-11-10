@@ -1,3 +1,11 @@
+---
+title: "Ace · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7a35f44787f99834f13e/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Ace
 
 General Agents 的桌面自动驾驶工具根据录制的专家行为训练，从截图预测点击、按键及其他动作；其 API 客户端附带执行动作的 macOS 控制器。

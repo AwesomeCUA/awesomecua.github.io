@@ -1,3 +1,11 @@
+---
+title: "ClawGUI-2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1a54e63277eaffdaef57/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # ClawGUI-2B
 
 ClawGUI-2B, a 2B mobile GUI agent model trained end to end with the ClawGUI-RL pipeline and GiGPO; the authors report a 17.1 MobileWorld success rate against an 11.1 baseline.

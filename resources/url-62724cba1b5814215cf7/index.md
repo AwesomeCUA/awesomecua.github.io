@@ -1,3 +1,11 @@
+---
+title: "WebVIA-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/url-62724cba1b5814215cf7/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # WebVIA-Agent
 
 GLM-4.1V-9B-based web exploration agent from WebVIA that reads a page screenshot and DOM tree and picks click, type or select actions to reach each interactive UI state for UI-to-code work.

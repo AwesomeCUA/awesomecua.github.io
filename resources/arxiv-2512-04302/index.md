@@ -1,3 +1,11 @@
+---
+title: "Towards better dense rewards in Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-04302/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards better dense rewards in Reinforcement Learning Applications
 
 Status: excluded from the active CUA catalog after scope review.

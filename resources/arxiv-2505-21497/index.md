@@ -1,3 +1,11 @@
+---
+title: "Paper2Poster: Towards Multimodal Poster… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-21497/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers
 
 Bibliographic record for Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wei Pang, Kevin Qinghong Lin, Xiangru Jian, Xi He, Philip Torr
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-21497/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-21497/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_21497,
+  title = {{Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers}},
+  author = {{Wei Pang} and {Kevin Qinghong Lin} and {Xiangru Jian} and {Xi He} and {Philip Torr}},
+  year = {2025},
+  eprint = {2505.21497v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.21497v2},
+  note = {First published: 2025-05-27; Recorded arXiv version: v2; Recorded version updated: 2025-10-30T10:49:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

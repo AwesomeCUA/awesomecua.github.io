@@ -1,3 +1,11 @@
+---
+title: "WebMCPcss · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cochinoraptor-webmcpcss/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WebMCPcss
 
 通过 CSS 规则直接声明可供智能体调用的网站动作和语义操作线索，扩展 WebMCP 标准。

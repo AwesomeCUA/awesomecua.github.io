@@ -1,3 +1,11 @@
+---
+title: "a11y-computer-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-perception-dynamics-inc-a11y-computer-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # a11y-computer-use
 
 以无障碍功能为先的计算机使用运行时，向 AI 智能体提供精简的无障碍树快照，使其能够点击具有语义信息的 UI 元素。

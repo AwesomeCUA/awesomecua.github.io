@@ -1,3 +1,11 @@
+---
+title: "Atomic-to-Compositional Generalization… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-08972/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System
 
 UI-NEXUS 评估本地工具应用及中英文在线服务应用中的组合式移动端任务；AGENT-NEXUS 将这些长任务拆成独立的原子子任务，以研究超出单个界面或短操作链的泛化能力。
@@ -27,6 +35,18 @@ Yuan Guo, Tingjia Miao, Zheng Wu, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-08972/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-08972/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_08972,
+  title = {{Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System}},
+  author = {{Yuan Guo} and {Tingjia Miao} and {Zheng Wu} and {Pengzhou Cheng} and {Ming Zhou} and {Zhuosheng Zhang}},
+  year = {2025},
+  eprint = {2506.08972v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.08972v1},
+  note = {First published: 2025-06-10; Recorded arXiv version: v1; Recorded version updated: 2025-06-10T16:45:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

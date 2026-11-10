@@ -1,3 +1,11 @@
+---
+title: "BetaWeb: Towards a Blockchain-enabled… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-13787/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # BetaWeb: Towards a Blockchain-enabled Trustworthy Agentic Web
 
 Bibliographic record for BetaWeb: Towards a Blockchain-enabled Trustworthy Agentic Web. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zihan Guo, Yuanjian Zhou, Chenyi Wang, Linlin You, Minjie Bian, Weinan Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-13787/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-13787/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_13787,
+  title = {{BetaWeb: Towards a Blockchain-enabled Trustworthy Agentic Web}},
+  author = {{Zihan Guo} and {Yuanjian Zhou} and {Chenyi Wang} and {Linlin You} and {Minjie Bian} and {Weinan Zhang}},
+  year = {2025},
+  eprint = {2508.13787v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.13787v1},
+  note = {First published: 2025-08-19; Recorded arXiv version: v1; Recorded version updated: 2025-08-19T12:43:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

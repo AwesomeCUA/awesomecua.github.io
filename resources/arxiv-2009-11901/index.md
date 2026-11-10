@@ -1,3 +1,11 @@
+---
+title: "An Incentive-Based Mechanism for Volunteer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2009-11901/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Incentive-Based Mechanism for Volunteer Computing using Blockchain
 
 Status: excluded from the active CUA catalog after scope review.

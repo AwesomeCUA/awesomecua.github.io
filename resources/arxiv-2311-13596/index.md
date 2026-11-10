@@ -1,3 +1,11 @@
+---
+title: "T-Rex: Counting by Visual Prompting | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-13596/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # T-Rex: Counting by Visual Prompting
 
 Bibliographic record for T-Rex: Counting by Visual Prompting. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qing Jiang, Feng Li, Tianhe Ren, Shilong Liu, Zhaoyang Zeng, Kent Yu, Lei Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-13596/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-13596/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_13596,
+  title = {{T-Rex: Counting by Visual Prompting}},
+  author = {{Qing Jiang} and {Feng Li} and {Tianhe Ren} and {Shilong Liu} and {Zhaoyang Zeng} and {Kent Yu} and {Lei Zhang}},
+  year = {2023},
+  eprint = {2311.13596v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.13596v1},
+  note = {First published: 2023-11-22; Recorded arXiv version: v1; Recorded version updated: 2023-11-22T18:57:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

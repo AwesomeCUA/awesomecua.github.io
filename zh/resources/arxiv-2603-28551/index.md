@@ -1,3 +1,11 @@
+---
+title: "\"What Did It Actually Do?\"… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-28551/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # "What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents
 
 通过访谈研究计算机使用智能体的风险认知，并提出 AgentTrace 原型界面，展示智能体动作、资源访问、权限历史和持续影响。
@@ -27,6 +35,18 @@ Zifan Peng, Mingchen Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-28551/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-28551/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_28551,
+  title = {{"What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents}},
+  author = {{Zifan Peng} and {Mingchen Li}},
+  year = {2026},
+  eprint = {2603.28551v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.28551v2},
+  note = {First published: 2026-03-30; Recorded arXiv version: v2; Recorded version updated: 2026-03-31T09:11:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

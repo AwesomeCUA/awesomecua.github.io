@@ -1,3 +1,11 @@
+---
+title: "GUIChat · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-edf38d43800be8c955ae/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUIChat
 
 包含文字丰富的图像和边界框的对话式 GUI 监督数据，按单轮问答和多轮对话组织。

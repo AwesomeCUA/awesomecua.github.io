@@ -1,3 +1,11 @@
+---
+title: "SoulSniper Browser SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-soulsniper-v2-browser-sdk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SoulSniper Browser SDK
 
 不依赖特定服务提供商的 TypeScript 浏览器自动化 SDK，支持会话自动故障切换和隐身配置文件。

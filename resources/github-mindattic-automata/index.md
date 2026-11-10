@@ -1,3 +1,11 @@
+---
+title: "Automata | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mindattic-automata/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Automata
 
 Record-once, replay-many browser automation runtime for Windows that records live user actions into deterministic workflows.

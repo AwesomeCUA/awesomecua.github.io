@@ -1,3 +1,11 @@
+---
+title: "AskUI (askui.com/blog-posts/askui-vision-… · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d071f3f5a01a5f9d6d78/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # AskUI
 
 AskUI 通过视觉识别和操作屏幕，在 Android 设备与模拟器上执行自然语言应用测试，并提供截图轨迹及持续集成接口。

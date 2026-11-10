@@ -1,3 +1,11 @@
+---
+title: "CDP Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-cdp-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # CDP Use
 
 A Python client generator for Chrome DevTools Protocol that supplies typed browser commands and event handlers for page navigation and inspection.

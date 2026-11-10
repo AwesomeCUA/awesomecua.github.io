@@ -1,3 +1,11 @@
+---
+title: "SuperSelector Studio · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pirate-cua-superselector/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SuperSelector Studio
 
 用于 Codex Computer Use 录制和重放的稳健、可缓存模糊 UI 元素标识符及配套工作室。

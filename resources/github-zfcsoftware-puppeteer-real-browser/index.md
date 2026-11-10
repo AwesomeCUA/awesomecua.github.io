@@ -1,3 +1,11 @@
+---
+title: "Puppeteer Real Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zfcsoftware-puppeteer-real-browser/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Puppeteer Real Browser
 
 Node.js package that launches Chrome and connects Puppeteer for browsing with fewer automation signals, with Turnstile clicking and cursor-driven clicks. Its maintainers have ended updates.

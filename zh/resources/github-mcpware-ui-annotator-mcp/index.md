@@ -1,3 +1,11 @@
+---
+title: "UI Annotator MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcpware-ui-annotator-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UI Annotator MCP
 
 Model Context Protocol 服务器，向实时网页注入交互式 Set-of-Mark 悬停标签，供视觉浏览器智能体使用。

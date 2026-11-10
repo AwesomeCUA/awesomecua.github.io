@@ -1,3 +1,11 @@
+---
+title: "OSWright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ask-812-oswright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OSWright
 
 Windows 桌面自动化 MCP 服务器，以增量 UI Automation 状态差异替代全屏视觉循环。

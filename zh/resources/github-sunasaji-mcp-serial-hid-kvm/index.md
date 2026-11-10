@@ -1,3 +1,11 @@
+---
+title: "mcp-serial-hid-kvm · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sunasaji-mcp-serial-hid-kvm/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # mcp-serial-hid-kvm
 
 这款 MCP 服务器通过独立的串行 HID KVM 服务，为智能体提供屏幕捕获、OCR、键盘和鼠标工具，以控制实体电脑。

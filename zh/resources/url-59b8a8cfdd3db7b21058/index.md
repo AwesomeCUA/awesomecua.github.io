@@ -1,3 +1,11 @@
+---
+title: "LocateAnything-3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-59b8a8cfdd3db7b21058/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # LocateAnything-3B
 
 LocateAnything-3B 是一个 3B 参数的视觉语言定位模型，以并行方式预测完整边界框，除目标检测、文档和 OCR 外还支持 GUI 元素定位。

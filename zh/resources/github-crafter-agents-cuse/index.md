@@ -1,3 +1,11 @@
+---
+title: "Crafter Agents cuse CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-crafter-agents-cuse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Crafter Agents cuse CLI
 
 跨平台计算机使用 CLI，将统一命令映射到操作系统原生的无障碍接口和输入原语。

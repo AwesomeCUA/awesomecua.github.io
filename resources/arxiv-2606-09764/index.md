@@ -1,3 +1,11 @@
+---
+title: "iOSWorld: A Benchmark for Personally… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-09764/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # iOSWorld: A Benchmark for Personally Intelligent Phone Agents
 
 Introduces a native iOS simulator benchmark with persistent user data, multi-app tasks, and personalization-dependent phone workflows.
@@ -26,6 +34,18 @@ Lawrence Keunho Jang, Mareks Woodside, Geronimo Carom, Andrew Keunwoo Jang, Jing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-09764/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-09764/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_09764,
+  title = {{iOSWorld: A Benchmark for Personally Intelligent Phone Agents}},
+  author = {{Lawrence Keunho Jang} and {Mareks Woodside} and {Geronimo Carom} and {Andrew Keunwoo Jang} and {Jing Yu Koh} and {Ruslan Salakhutdinov}},
+  year = {2026},
+  eprint = {2606.09764v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.09764v1},
+  note = {First published: 2026-06-08; Recorded arXiv version: v1; Recorded version updated: 2026-06-08T17:27:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

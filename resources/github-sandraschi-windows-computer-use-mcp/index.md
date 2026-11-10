@@ -1,3 +1,11 @@
+---
+title: "windows-computer-use-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # windows-computer-use-mcp
 
 windows-computer-use-mcp provides 22 MCP tools for Windows UI Automation, OCR, mouse/keyboard control, and UAC safety guardrails.

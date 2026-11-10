@@ -1,3 +1,11 @@
+---
+title: "SlowBA: An efficiency backdoor attack… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-08316/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SlowBA: An efficiency backdoor attack towards VLM-based GUI agents
 
 提出针对视觉语言 GUI 智能体的后门攻击 SlowBA，以弹窗作为触发条件，诱导更长的推理过程并增加响应延迟。
@@ -27,6 +35,18 @@ Junxian Li, Tu Lan, Haozhen Tan, Yan Meng, Haojin Zhu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-08316/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-08316/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_08316,
+  title = {{SlowBA: An efficiency backdoor attack towards VLM-based GUI agents}},
+  author = {{Junxian Li} and {Tu Lan} and {Haozhen Tan} and {Yan Meng} and {Haojin Zhu}},
+  year = {2026},
+  eprint = {2603.08316v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.08316v3},
+  note = {First published: 2026-03-09; Recorded arXiv version: v3; Recorded version updated: 2026-07-01T07:09:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

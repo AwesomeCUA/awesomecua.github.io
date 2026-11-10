@@ -1,3 +1,11 @@
+---
+title: "Steel MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steel-dev-steel-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Steel MCP Server
 
 Steel MCP Server gives MCP clients tools to read and operate cloud Chrome sessions through page elements, with session diagnostics and handoff for human input.

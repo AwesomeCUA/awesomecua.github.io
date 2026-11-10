@@ -1,3 +1,11 @@
+---
+title: "人机协作：Computer-Use 研究与资源（第 3 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/human-in-the-loop/page/3/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 人机协作：Computer-Use 研究与资源（第 3 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/3/

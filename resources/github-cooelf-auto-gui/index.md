@@ -1,3 +1,11 @@
+---
+title: "Auto-GUI / Auto-UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cooelf-auto-gui/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # Auto-GUI / Auto-UI
 
 Screenshot-based mobile agent implementation with training and inference code for chain-of-action prediction.

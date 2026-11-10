@@ -1,3 +1,11 @@
+---
+title: "Adversarial Web Agents · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chenwu98-agent-attack/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # Adversarial Web Agents
 
 用于评估针对多模态网页智能体的对抗攻击的资源。

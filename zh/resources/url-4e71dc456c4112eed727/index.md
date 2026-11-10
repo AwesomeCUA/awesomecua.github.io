@@ -1,3 +1,11 @@
+---
+title: "GroundGUI RL Dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4e71dc456c4112eed727/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # GroundGUI RL Dataset
 
 从 GroundCUA 选取的桌面定位提示，按基于点击的强化学习格式组织，并使用目标框奖励。

@@ -1,3 +1,11 @@
+---
+title: "科学工作流：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/science/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 科学工作流
 
 Reviewed topic membership; resources can appear in multiple topics.

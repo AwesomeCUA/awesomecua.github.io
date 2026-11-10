@@ -1,3 +1,11 @@
+---
+title: "OpenCUA-7B-exl2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-76f3981d219bb87b4eea/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpenCUA-7B-exl2
 
 OpenCUA-7B-exl2 is a 4.5bpw quantized OpenCUA-7B checkpoint for generating computer actions and locating GUI targets from screenshots.

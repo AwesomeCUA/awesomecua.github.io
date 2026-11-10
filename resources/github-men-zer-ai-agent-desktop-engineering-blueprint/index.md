@@ -1,3 +1,11 @@
+---
+title: "AI Agent Desktop Engineering Blueprint | AwesomeCUA"
+url: https://awesomecua.com/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/
+updated: 2026-11-04
+type: learning
+lang: en
+---
+
 # AI Agent Desktop Engineering Blueprint
 
 Five-chapter architectural blueprint and comparative engineering guide for building desktop AI and computer-use agent applications.

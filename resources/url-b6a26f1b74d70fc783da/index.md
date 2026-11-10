@@ -1,3 +1,11 @@
+---
+title: "PlayJev-0.8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b6a26f1b74d70fc783da/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # PlayJev-0.8B
 
 A 0.8B checkpoint fine-tuned from Qwen3.5-0.8B-Base that picks a move in ten browser games from one rendered frame and an option list, trained by behaviour cloning and three DAgger rounds.

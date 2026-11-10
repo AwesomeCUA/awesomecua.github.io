@@ -1,3 +1,11 @@
+---
+title: "chrome-aws-lambda · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alixaxel-chrome-aws-lambda/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # chrome-aws-lambda
 
 chrome-aws-lambda 打包了 Chromium，用于在 AWS Lambda 和 Google Cloud Functions 中运行 Puppeteer 或 Playwright，并提供启动参数以及用于点击、填写表单和等待的页面辅助方法。

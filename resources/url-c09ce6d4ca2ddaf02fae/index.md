@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-GPT-OSS-20B-A4B-Preview-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c09ce6d4ca2ddaf02fae/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # InternVL3_5-GPT-OSS-20B-A4B-Preview-HF
 
 HF-format InternVL3.5 preview checkpoint built on a GPT-OSS language model (21.2B total, A4B), a multimodal model whose card lists GUI interaction among its trained skills and reports GUI results.

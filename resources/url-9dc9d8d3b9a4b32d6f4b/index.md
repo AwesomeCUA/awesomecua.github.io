@@ -1,3 +1,11 @@
+---
+title: "GUI-G1 3B v1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9dc9d8d3b9a4b32d6f4b/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # GUI-G1 3B v1
 
 A Qwen2.5-VL-3B checkpoint released for R1-style visual grounding experiments, predicting interface target locations from screenshots and instructions.

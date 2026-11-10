@@ -1,3 +1,11 @@
+---
+title: "CloakBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cloakhq-cloakbrowser/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # CloakBrowser
 
 CloakBrowser provides a modified Chromium build with Playwright and Puppeteer compatible APIs for scripted browser interaction.

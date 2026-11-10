@@ -1,3 +1,11 @@
+---
+title: "InfraMind: A Novel Exploration-based GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-13704/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management
 
 InfraMind 利用虚拟机快照探索工业管理 GUI，并构建用于规划和分层状态识别的记忆；还在开源及商业数据中心管理平台上研究知识蒸馏和安全检查。
@@ -27,6 +35,18 @@ Liangtao Lin, Zhaomeng Zhu, Tianwei Zhang, Yonggang Wen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-13704/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-13704/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13704,
+  title = {{InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management}},
+  author = {{Liangtao Lin} and {Zhaomeng Zhu} and {Tianwei Zhang} and {Yonggang Wen}},
+  year = {2025},
+  eprint = {2509.13704v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13704v1},
+  note = {First published: 2025-09-17; Recorded arXiv version: v1; Recorded version updated: 2025-09-17T05:14:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

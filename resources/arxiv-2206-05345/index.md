@@ -1,3 +1,11 @@
+---
+title: "The Capacity of Low Earth Orbit Computed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-05345/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Capacity of Low Earth Orbit Computed using Source-sink Modeling
 
 Status: excluded from the active CUA catalog after scope review.

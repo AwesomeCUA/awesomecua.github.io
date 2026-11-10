@@ -1,3 +1,11 @@
+---
+title: "Robotgo Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vcaesar-robotgo-pro/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Robotgo Pro
 
 A licensed desktop automation package that reads screens and windows and controls mouse and keyboard input on Mac, Windows, and Linux.

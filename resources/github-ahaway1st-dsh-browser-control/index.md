@@ -1,3 +1,11 @@
+---
+title: "DSH Browser Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DSH Browser Control
 
 DeepSeek Harness plugin that lets agents directly control the user's real, logged-in web browser.

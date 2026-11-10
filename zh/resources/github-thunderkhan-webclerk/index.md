@@ -1,3 +1,11 @@
+---
+title: "WebClerk · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thunderkhan-webclerk/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # WebClerk
 
 由 WebMCP 驱动的表单填写助手，在人工审核下填写高风险网页表单中经过验证的字段。

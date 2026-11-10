@@ -1,3 +1,11 @@
+---
+title: "orion-vm-arm | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7e2e6225864f97b5238c/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # orion-vm-arm
 
 A VMware Fusion snapshot of the Orion agent's Ubuntu guest for arm64 Macs, with CellProfiler, QuPath and napari pre-installed, released as a single OS.zip archive.

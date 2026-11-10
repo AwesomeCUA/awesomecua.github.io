@@ -1,3 +1,11 @@
+---
+title: "agent-chrome-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-luorui-123-agent-chrome-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-chrome-mcp
 
 开源 Model Context Protocol 服务器，通过 CDP 将 Codex、Claude 和 Cursor 连接到用户已登录的 Chrome 浏览器。

@@ -1,3 +1,11 @@
+---
+title: "WebClerk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thunderkhan-webclerk/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # WebClerk
 
 WebMCP-powered form-filling assistant that populates verified fields on high-stakes web forms under human review.

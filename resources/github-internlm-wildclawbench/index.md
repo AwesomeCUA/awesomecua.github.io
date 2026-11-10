@@ -1,3 +1,11 @@
+---
+title: "WildClawBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-internlm-wildclawbench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WildClawBench
 
 WildClawBench evaluates agents on 60 tasks in a live tool environment that includes browser use, email, files and coding. It releases evaluation code and links to task data and trajectories.

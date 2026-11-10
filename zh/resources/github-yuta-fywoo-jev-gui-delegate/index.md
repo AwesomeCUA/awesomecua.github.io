@@ -1,3 +1,11 @@
+---
+title: "Jev GUI Delegate · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Jev GUI Delegate
 
 Jev GUI Delegate 是本地控制器，可执行委派的 Windows 和 Chrome 任务，在选择不确定时调用 Jev，并在操作后核对结果。

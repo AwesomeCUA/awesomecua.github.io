@@ -1,3 +1,11 @@
+---
+title: "philosophy79 web-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-philosophy79-web-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # philosophy79 web-agent
 
 Local-first web and desktop automation toolkit integrating browser control, screen capture, and LLM tool calling.

@@ -1,3 +1,11 @@
+---
+title: "Better AX for Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hqhq1025-better-ax-for-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Better AX for Computer Use
 
 Better AX for Computer Use 精简并格式化 macOS Accessibility 树，同时注入 Chromium/Electron AX 标志，以降低 GUI 定位的 token 消耗。

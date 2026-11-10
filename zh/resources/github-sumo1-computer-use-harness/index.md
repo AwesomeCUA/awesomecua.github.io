@@ -1,3 +1,11 @@
+---
+title: "sumo1 computer-use-harness · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sumo1-computer-use-harness/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # sumo1 computer-use-harness
 
 面向 macOS、以 CLI 为主的计算机使用测试框架，为 Claude Code、Codex 和 MCP 提供受策略约束的应用观察与操作能力。

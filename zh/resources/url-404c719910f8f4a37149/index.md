@@ -1,3 +1,11 @@
+---
+title: "OTA-v1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-404c719910f8f4a37149/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OTA-v1
 
 OTA-v1 是经过微调的浏览器智能体权重，旨在规划浏览器操作、使用工具，并在多步骤网页任务中保持上下文。

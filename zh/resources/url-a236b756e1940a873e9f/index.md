@@ -1,3 +1,11 @@
+---
+title: "OmniJev-SFT-0.8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a236b756e1940a873e9f/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # OmniJev-SFT-0.8B
 
 OmniJev 发布中的生成式 SFT 基线：基于 Qwen3.5-0.8B 的 LoRA 适配器，训练 12,500 步，以生成文本回答图像问题；模型卡报告了它在 AndroidControl、网页和手机任务族上的得分。

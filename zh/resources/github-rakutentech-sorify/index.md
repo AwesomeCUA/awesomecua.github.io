@@ -1,3 +1,11 @@
+---
+title: "Sorify · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rakutentech-sorify/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Sorify
 
 Rakuten 的 AI 优先浏览器测试和 Playwright 自动化平台，用于端到端智能体式 QA。

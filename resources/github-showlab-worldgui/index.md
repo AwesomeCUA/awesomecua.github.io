@@ -1,3 +1,11 @@
+---
+title: "WorldGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-worldgui/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # WorldGUI
 
 611 desktop GUI tasks that agents must complete from varied starting points, shipped with instructional videos and project files, plus the self-reflective WorldGUI-Agent baseline.

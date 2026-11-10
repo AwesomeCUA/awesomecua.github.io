@@ -1,3 +1,11 @@
+---
+title: "AGW-35B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-39e2a96f88ed3223ece9/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # AGW-35B
 
 一个基于截图的 GUI 动作模型，使用 79,266 条合成交互样本进行微调。它根据任务、当前屏幕和近期操作预测结构化的计算机操作调用。

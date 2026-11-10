@@ -1,3 +1,11 @@
+---
+title: "NotebookLM MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pleaseprompto-notebooklm-mcp/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # NotebookLM MCP Server
 
 MCP server that operates Google NotebookLM in a real Chrome through Patchright, letting coding agents ask notebook questions, add sources, generate audio overviews and read citations.

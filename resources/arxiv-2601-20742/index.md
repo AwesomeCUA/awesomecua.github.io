@@ -1,3 +1,11 @@
+---
+title: "Compression Tells Intelligence: Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-20742/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification
 
 Status: excluded from the active CUA catalog after scope review.

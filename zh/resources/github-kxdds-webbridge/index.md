@@ -1,3 +1,11 @@
+---
+title: "WebBridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kxdds-webbridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # WebBridge
 
 WebBridge 将 Chrome 扩展与本地守护进程配合使用，让编码智能体控制用户已登录的 Chrome 会话。

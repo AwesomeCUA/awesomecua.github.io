@@ -1,3 +1,11 @@
+---
+title: "Relevance Does Not Imply Applicability… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-33304/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents
 
 Introduces ExpActivator, which matches the current GUI state to relevant historical states before supplying past actions as guidance. A separate activation rule decides whether a recurring user intent is warranted by the current time and situation or should be withheld.
@@ -26,6 +34,18 @@ Fuyao Zhang, Xuan Wang, Zherui Li, Jiaming Zhang, Longtao Huang, Wei Yang Bryan 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-33304/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-33304/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_33304,
+  title = {{Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents}},
+  author = {{Fuyao Zhang} and {Xuan Wang} and {Zherui Li} and {Jiaming Zhang} and {Longtao Huang} and {Wei Yang Bryan Lim}},
+  year = {2026},
+  eprint = {2609.33304v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.33304v1},
+  note = {First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T07:15:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

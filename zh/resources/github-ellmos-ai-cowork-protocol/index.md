@@ -1,3 +1,11 @@
+---
+title: "Cowork Protocol · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ellmos-ai-cowork-protocol/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # Cowork Protocol
 
 一个面向人与网页智能体协作的 WebMCP 协议：智能体读取有界的字段焦点数据包，提出须经人工点击才会生效的可见修改，并且只在限定范围的租约内独立操作。

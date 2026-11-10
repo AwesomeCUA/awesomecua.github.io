@@ -1,3 +1,11 @@
+---
+title: "NavGPT: Explicit Reasoning in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-16986/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models
 
 Bibliographic record for NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Gengze Zhou, Yicong Hong, Qi Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-16986/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-16986/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_16986,
+  title = {{NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models}},
+  author = {{Gengze Zhou} and {Yicong Hong} and {Qi Wu}},
+  year = {2023},
+  eprint = {2305.16986v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.16986v3},
+  note = {First published: 2023-05-26; Recorded arXiv version: v3; Recorded version updated: 2023-10-19T17:59:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

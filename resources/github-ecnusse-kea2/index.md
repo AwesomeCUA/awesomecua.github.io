@@ -1,3 +1,11 @@
+---
+title: "Kea2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ecnusse-kea2/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Kea2
 
 A Python tool for fuzzing Android apps that joins Fastbot's automated UI exploration with human-written scripts and property-based assertions to find crashes and functional bugs.

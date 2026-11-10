@@ -1,3 +1,11 @@
+---
+title: "EgoMI: Learning Active Vision and Whole-Body… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-00153/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations
 
 Status: excluded from the active CUA catalog after scope review.

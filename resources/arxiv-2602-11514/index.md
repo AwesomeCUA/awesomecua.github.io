@@ -1,3 +1,11 @@
+---
+title: "How Smart Is Your GUI Agent? A Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-11514/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # How Smart Is Your GUI Agent? A Framework for the Future of Software Interaction
 
 Proposes GUI Agent Autonomy Levels (GAL), a six-level framework for describing autonomy and benchmarking GUI agents that navigate web, desktop, and mobile software.
@@ -26,6 +34,18 @@ Sidong Feng, Chunyang Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-11514/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-11514/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11514,
+  title = {{How Smart Is Your GUI Agent? A Framework for the Future of Software Interaction}},
+  author = {{Sidong Feng} and {Chunyang Chen}},
+  year = {2026},
+  eprint = {2602.11514v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11514v1},
+  note = {First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T03:14:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

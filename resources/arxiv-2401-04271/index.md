@@ -1,3 +1,11 @@
+---
+title: "Fault-tolerant quantum computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-04271/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fault-tolerant quantum computation using large spin cat-codes
 
 Status: excluded from the active CUA catalog after scope review.

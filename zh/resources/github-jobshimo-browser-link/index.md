@@ -1,3 +1,11 @@
+---
+title: "browser-link · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jobshimo-browser-link/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browser-link
 
 面向开发者的 MCP 桥接工具，将 Claude Code、OpenCode 和 GitHub Copilot CLI 连接到实时 Chrome 浏览器。

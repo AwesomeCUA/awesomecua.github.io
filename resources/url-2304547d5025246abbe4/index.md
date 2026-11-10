@@ -1,3 +1,11 @@
+---
+title: "CognitiveKernel-Pro-Query | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2304547d5025246abbe4/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # CognitiveKernel-Pro-Query
 
 CognitiveKernel-Pro-Query holds the training queries generated for Cognitive Kernel-Pro: multi-hop URLQA and hint-annotated AgentWebQA in JSONL, used to sample web agent trajectories.

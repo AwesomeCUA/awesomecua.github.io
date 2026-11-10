@@ -1,3 +1,11 @@
+---
+title: "hanzhangzzz dsh-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hanzhangzzz-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # hanzhangzzz dsh-computer-use
 
 Structure-first browser and desktop computer-use plugin for DeepSeek Harness.

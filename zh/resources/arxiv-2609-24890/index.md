@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Pro: Process-based Evaluation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-24890/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # OSWorld-Pro: Process-based Evaluation for Computer Use Agents
 
 为计算机使用任务加入标注的中间子目标，并通过面向过程的评估识别操作失败和进度停滞。
@@ -27,6 +35,18 @@ Zhilin Wang, Shaokun Zhang, Yifan Zhang, Hao Zhang, Jin Xu, Binfeng Xu, Jian Hu,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-24890/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-24890/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_24890,
+  title = {{OSWorld-Pro: Process-based Evaluation for Computer Use Agents}},
+  author = {{Zhilin Wang} and {Shaokun Zhang} and {Yifan Zhang} and {Hao Zhang} and {Jin Xu} and {Binfeng Xu} and {Jian Hu} and {Yunheng Zou} and {Karan Sapra} and {Andrew Tao} and {Jan Kautz} and {Yi Dong}},
+  year = {2026},
+  eprint = {2609.24890v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.24890v1},
+  note = {First published: 2026-09-21; Recorded arXiv version: v1; Recorded version updated: 2026-09-21T16:55:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

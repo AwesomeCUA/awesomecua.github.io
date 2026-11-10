@@ -1,3 +1,11 @@
+---
+title: "Intent Relay WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-midorikuramochi-intent-relay/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Intent Relay WebMCP
 
 Demonstration-driven intent translator that carries user workflow preferences across WebMCP-enabled websites.

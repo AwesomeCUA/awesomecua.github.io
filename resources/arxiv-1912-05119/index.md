@@ -1,3 +1,11 @@
+---
+title: "Reservoir computing using a spin-wave delay… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1912-05119/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reservoir computing using a spin-wave delay line active ring resonator
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "open-cowork · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-coasty-ai-open-cowork/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # open-cowork
 
 open-cowork 是开源的计算机使用协作智能体，可在人工参与审批的情况下操作本地桌面、云端虚拟机和浏览器。

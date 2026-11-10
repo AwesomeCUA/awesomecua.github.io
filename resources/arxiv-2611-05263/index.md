@@ -1,3 +1,11 @@
+---
+title: "JHiMA-WebRL: A Joint Hierarchical Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-05263/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks
 
 Introduces JHiMA-WebRL, which jointly trains a task decomposer and GUI actor with hierarchical RL for long-horizon web tasks in WebArena.
@@ -26,6 +34,18 @@ Shanka Subhra Mondal, Jiayun Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-05263/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-05263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_05263,
+  title = {{JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks}},
+  author = {{Shanka Subhra Mondal} and {Jiayun Wang}},
+  year = {2026},
+  eprint = {2611.05263v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.05263v1},
+  note = {First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T17:49:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Sidelook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ucsandman-sidelook/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Sidelook
 
 Windows desktop companion agent that observes active application context and executes user-approved UI actions.

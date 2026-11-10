@@ -1,3 +1,11 @@
+---
+title: "AgentNet · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-964d70c40bfc5ca8e1ee/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # AgentNet
 
 AgentNet 包含 Windows、macOS 和 Ubuntu 上的 22.6K 个人工标注桌面计算机使用任务，随 OpenCUA 发布，用于训练和评估视觉语言动作模型。

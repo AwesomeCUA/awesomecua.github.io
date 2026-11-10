@@ -1,3 +1,11 @@
+---
+title: "avids2 Jarvis | AwesomeCUA"
+url: https://awesomecua.com/resources/github-avids2-jarvis/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # avids2 Jarvis
 
 Real-time Chinese voice and desktop agent with persistent memory and Pi tool execution.

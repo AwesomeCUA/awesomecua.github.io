@@ -1,3 +1,11 @@
+---
+title: "FinancialAuditBench: Benchmark Construction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32835/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # FinancialAuditBench: Benchmark Construction under Differential Privacy Using Real-World Priors
 
 Bibliographic record for FinancialAuditBench: Benchmark Construction under Differential Privacy Using Real-World Priors. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jerry Huang, Sarvesh Babu, Matt Van Buren, Alexander Wang, Pranav Pillai, Arush 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32835/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32835/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32835,
+  title = {{FinancialAuditBench: Benchmark Construction under Differential Privacy Using Real-World Priors}},
+  author = {{Jerry Huang} and {Sarvesh Babu} and {Matt Van Buren} and {Alexander Wang} and {Pranav Pillai} and {Arush Jain} and {James P. Burton} and {Julia Hockenmaier}},
+  year = {2026},
+  eprint = {2609.32835v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32835v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T18:07:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

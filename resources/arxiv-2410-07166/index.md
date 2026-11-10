@@ -1,3 +1,11 @@
+---
+title: "Embodied Agent Interface: Benchmarking LLMs… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-07166/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making
 
 Status: excluded from the active CUA catalog after scope review.

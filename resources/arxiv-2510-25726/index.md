@@ -1,3 +1,11 @@
+---
+title: "The Tool Decathlon: Benchmarking Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-25726/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution
 
 Bibliographic record for The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, Rui G
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-25726/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-25726/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_25726,
+  title = {{The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution}},
+  author = {{Junlong Li} and {Wenshuo Zhao} and {Jian Zhao} and {Weihao Zeng} and {Haoze Wu} and {Xiaochen Wang} and {Rui Ge} and {Yuxuan Cao} and {Yuzhen Huang} and {Wei Liu} and {Junteng Liu} and {Zhaochen Su} and {Yiyang Guo} and {Fan Zhou} and {Lueyang Zhang} and {Juan Michelini} and {Xingyao Wang} and {Xiang Yue} and {Shuyan Zhou} and {Graham Neubig} and {Junxian He}},
+  year = {2025},
+  eprint = {2510.25726v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.25726v2},
+  note = {First published: 2025-10-29; Recorded arXiv version: v2; Recorded version updated: 2026-02-26T09:46:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

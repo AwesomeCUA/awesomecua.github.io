@@ -1,3 +1,11 @@
+---
+title: "shoal · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raynan00-shoal/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # shoal
 
 部署并发 AI 浏览器智能体群，对网站进行压力测试并可视化 UX 瓶颈。

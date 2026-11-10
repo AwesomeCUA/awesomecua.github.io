@@ -1,3 +1,11 @@
+---
+title: "Computer Use Data Collection · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bobcoi03-computeruse-data-collection/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Computer Use Data Collection
 
 Computer Use Data Collection 是桌面录制工具，可同步捕获截图、鼠标点击和按键操作，用于训练 CUA 模型。

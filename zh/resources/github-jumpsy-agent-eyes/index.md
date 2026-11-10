@@ -1,3 +1,11 @@
+---
+title: "Agent Eyes · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jumpsy-agent-eyes/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent Eyes
 
 面向 AI 智能体的视觉检查工具包，可捕获渲染后的截图，并从 DOM 提取实时 CSS 设计变量。

@@ -1,3 +1,11 @@
+---
+title: "WebGuard · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-df10c80a8da55773154d/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # WebGuard
 
 包含 5,999 条浏览器操作安全标注的数据集，将网站和操作信息与风险分类配对，供网页智能体研究使用。

@@ -1,3 +1,11 @@
+---
+title: "Cosmos-Reason1: From Physical Common Sense To… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-15558/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning
 
 Bibliographic record for Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ NVIDIA, :, Alisson Azzolini, Junjie Bai, Hannah Brandon, Jiaxin Cao, Prithvijit 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-15558/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-15558/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_15558,
+  title = {{Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning}},
+  author = {{NVIDIA} and {:} and {Alisson Azzolini} and {Junjie Bai} and {Hannah Brandon} and {Jiaxin Cao} and {Prithvijit Chattopadhyay} and {Huayu Chen} and {Jinju Chu} and {Yin Cui} and {Jenna Diamond} and {Yifan Ding} and {Liang Feng} and {Francesco Ferroni} and {Rama Govindaraju} and {Jinwei Gu} and {Siddharth Gururani} and {Imad El Hanafi} and {Zekun Hao} and {Jacob Huffman} and {Jingyi Jin} and {Brendan Johnson} and {Rizwan Khan} and {George Kurian} and {Elena Lantz} and {Nayeon Lee} and {Zhaoshuo Li} and {Xuan Li} and {Maosheng Liao} and {Tsung-Yi Lin} and {Yen-Chen Lin} and {Ming-Yu Liu} and {Xiangyu Lu} and {Alice Luo} and {Andrew Mathau} and {Yun Ni} and {Lindsey Pavao} and {Wei Ping} and {David W. Romero} and {Misha Smelyanskiy} and {Shuran Song} and {Lyne Tchapmi} and {Andrew Z. Wang} and {Boxin Wang} and {Haoxiang Wang} and {Fangyin Wei} and {Jiashu Xu} and {Yao Xu} and {Dinghao Yang} and {Xiaodong Yang} and {Zhuolin Yang} and {Jingxu Zhang} and {Xiaohui Zeng} and {Zhe Zhang}},
+  year = {2025},
+  eprint = {2503.15558v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.15558v3},
+  note = {First published: 2025-03-18; Recorded arXiv version: v3; Recorded version updated: 2025-05-19T17:59:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

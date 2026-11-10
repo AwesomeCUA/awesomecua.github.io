@@ -1,3 +1,11 @@
+---
+title: "browser-use-rs · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bb-fat-browser-use-rs/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # browser-use-rs
 
 browser-use-rs 是轻量级纯 Rust 库，可让 LLM 智能体通过 Chrome DevTools Protocol 操控 Chromium 浏览器。

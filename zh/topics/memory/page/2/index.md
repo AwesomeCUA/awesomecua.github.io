@@ -1,3 +1,11 @@
+---
+title: "记忆：Computer-Use 研究与资源（第 2 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/memory/page/2/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 记忆：Computer-Use 研究与资源（第 2 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/memory/page/2/

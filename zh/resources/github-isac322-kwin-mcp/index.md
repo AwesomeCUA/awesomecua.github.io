@@ -1,3 +1,11 @@
+---
+title: "kwin-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-isac322-kwin-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # kwin-mcp
 
 面向 Linux KDE Plasma 6 Wayland 桌面 GUI 自动化的 Model Context Protocol 服务器，提供 29 个工具，涵盖虚拟 KWin 会话、AT-SPI 和输入。

@@ -1,3 +1,11 @@
+---
+title: "SparseAuto: An Auto-Scheduler for Sparse… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-09549/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SparseAuto: An Auto-Scheduler for Sparse Tensor Computations Using Recursive Loop Nest Restructuring
 
 Status: excluded from the active CUA catalog after scope review.

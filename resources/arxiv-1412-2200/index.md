@@ -1,3 +1,11 @@
+---
+title: "Response to \"Comment on \"Ultra-low-energy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1412-2200/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Response to "Comment on "Ultra-low-energy non-volatile straintronic computing using single multiferroic composites"" [Appl. Phys. Lett. 103, 173110 (2013)]
 
 Status: excluded from the active CUA catalog after scope review.

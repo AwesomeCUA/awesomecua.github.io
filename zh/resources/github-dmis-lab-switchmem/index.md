@@ -1,3 +1,11 @@
+---
+title: "SwitchMem · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dmis-lab-switchmem/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # SwitchMem
 
 记忆路由实现，为参数冻结的 GUI 操作模型选择文本或图像示范，并提供离线评估和迁移至 Android 的实验。

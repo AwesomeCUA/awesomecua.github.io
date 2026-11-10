@@ -1,3 +1,11 @@
+---
+title: "Reflexion: Language Agents with Verbal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-11366/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reflexion: Language Agents with Verbal Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

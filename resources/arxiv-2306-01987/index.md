@@ -1,3 +1,11 @@
+---
+title: "Prompting Is All You Need: Automated Android… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-01987/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Prompting Is All You Need: Automated Android Bug Replay with Large Language Models
 
 Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.
@@ -26,6 +34,18 @@ Sidong Feng, Chunyang Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-01987/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-01987/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_01987,
+  title = {{Prompting Is All You Need: Automated Android Bug Replay with Large Language Models}},
+  author = {{Sidong Feng} and {Chunyang Chen}},
+  year = {2023},
+  eprint = {2306.01987v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.01987v3},
+  note = {First published: 2023-06-03; Recorded arXiv version: v3; Recorded version updated: 2024-05-08T07:36:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

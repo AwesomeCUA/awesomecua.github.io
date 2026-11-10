@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 23 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/23/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 23 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/23/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [Blender MCP](https://awesomecua.com/zh/resources/github-bpy-dev-blender-mcp/)
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/)
 - [Brotector](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-brotector/)
 - [Browser Use macOS Harness](https://awesomecua.com/zh/resources/github-browser-use-macos-harness/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/23/
 - [GoldenCut](https://awesomecua.com/zh/resources/github-silbercue-goldencut/)
 - [GPT-Control](https://awesomecua.com/zh/resources/github-wolfiesch-gpt-control/)
 - [grass-gui](https://awesomecua.com/zh/resources/github-shiinahiiragi-grass-gui/)
+- [grok-chrome-mcp](https://awesomecua.com/zh/resources/github-dietghardev-grok-chrome-mcp/)

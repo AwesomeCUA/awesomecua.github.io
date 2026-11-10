@@ -1,3 +1,11 @@
+---
+title: "westworld · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b43faa43e897c074b7c8/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # westworld
 
 Halluminate Westworld 网页智能体基准的任务数据集：包含 100 个验证任务，覆盖电商和出行网站，每个任务带有生成配置、领域、类别、难度和步数上限。

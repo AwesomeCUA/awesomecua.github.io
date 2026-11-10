@@ -1,3 +1,11 @@
+---
+title: "AstraClaw Agent Computer Use MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-astraclawteam-agent-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AstraClaw Agent Computer Use MCP
 
 Evidence-driven Windows Computer Use MCP server providing semantic UI observation, secure screenshots, and verified actions.

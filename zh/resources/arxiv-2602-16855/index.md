@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-v3.5: Multi-platform… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-16855/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
 
 介绍 GUI-Owl-1.5 的多个变体及混合数据流程，涵盖多模态 GUI 交互、工具使用、记忆和跨平台任务。
@@ -27,6 +35,18 @@ Haiyang Xu, Xi Zhang, Haowei Liu, Junyang Wang, Zhaozai Zhu, Shengjie Zhou, Xuha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-16855/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-16855/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_16855,
+  title = {{Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents}},
+  author = {{Haiyang Xu} and {Xi Zhang} and {Haowei Liu} and {Junyang Wang} and {Zhaozai Zhu} and {Shengjie Zhou} and {Xuhao Hu} and {Feiyu Gao} and {Junjie Cao} and {Zihua Wang} and {Zhiyuan Chen} and {Jitong Liao} and {Qi Zheng} and {Jiahui Zeng} and {Ze Xu} and {Shuai Bai} and {Junyang Lin} and {Jingren Zhou} and {Ming Yan}},
+  year = {2026},
+  eprint = {2602.16855v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.16855v1},
+  note = {First published: 2026-02-15; Recorded arXiv version: v1; Recorded version updated: 2026-02-15T01:52:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

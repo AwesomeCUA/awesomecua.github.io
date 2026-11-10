@@ -1,3 +1,11 @@
+---
+title: "Taskhomie | AwesomeCUA"
+url: https://awesomecua.com/resources/github-suitedaces-computer-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Taskhomie
 
 Taskhomie is a local computer-use agent that executes natural-language desktop tasks via screenshots, mouse/keyboard actions, and shell commands.

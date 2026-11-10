@@ -1,3 +1,11 @@
+---
+title: "Temporal UI State Inconsistency in Desktop… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18860/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents
 
 This study examines UI changes between a desktop agent’s screenshot observation and action dispatch. Its pre-execution state checks address overlay and focus manipulation, while the reported DOM-injection blind spot limits the defense’s coverage.
@@ -26,6 +34,18 @@ Wenpeng Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18860/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18860/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18860,
+  title = {{Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents}},
+  author = {{Wenpeng Xu}},
+  year = {2026},
+  eprint = {2604.18860v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18860v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T21:36:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "cua-ai/cua-s1-forms | AwesomeCUA"
+url: https://awesomecua.com/resources/url-62d912811f786f787ae4/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # cua-ai/cua-s1-forms
 
 Training and evaluation examples for selecting GUI form actions from document content, with synthetic train, validation, and test splits plus real browser form demos.

@@ -1,8 +1,16 @@
+---
+title: "Computer-use agent frameworks | AwesomeCUA"
+url: https://awesomecua.com/categories/framework/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent frameworks
 
 Frameworks are libraries and SDKs for building, running, evaluating or training computer-use agents, from browser-automation agent libraries to reinforcement-learning training stacks.
 
-> 675 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
+> 672 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -12,7 +20,7 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 | Framework | Platform | License | Linked records |
 | --- | --- | --- | --- |
-| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | Web | [MIT (code)](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 60 |
+| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | Web | [MIT (code)](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 59 |
 | [Cua](https://awesomecua.com/resources/github-trycua-cua/) | Desktop | [MIT (code)](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 46 |
 | [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) | Web | [MIT (code)](https://raw.githubusercontent.com/Browser-Automation-Hub/epic-ehr-browser-automation/HEAD/LICENSE) | 13 |
 | [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/) | Desktop · Mobile · Cross-platform | — | 13 |
@@ -27,15 +35,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these frameworks cover?
 
-Of 675 reviewed frameworks, 472 are tagged web, 312 desktop, 154 cross-platform and 105 mobile; 26 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 672 reviewed frameworks, 469 are tagged web, 309 desktop, 152 cross-platform and 105 mobile; 26 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which frameworks come with a research paper?
 
-141 of 675 link the arXiv paper that introduces or documents them, for example [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/), [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) and [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/).
+141 of 672 link the arXiv paper that introduces or documents them, for example [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/), [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) and [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/).
 
 ### Which licenses do frameworks declare?
 
-The most common declared licenses are MIT (309), Apache-2.0 (160) and GPL-3.0 (7). 182 of 675 have no declared license in their record.
+The most common declared licenses are MIT (309), Apache-2.0 (159) and GPL-3.0 (7). 180 of 672 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -7672,35 +7680,6 @@ BadAgents provides poisoned training datasets and evaluation scripts for query-,
 
 ---
 
-## Bees Desktop
-
-Thread-based multi-agent desktop runtime allowing a team of AI agents to collaborate over local files and browsers.
-
-- Catalog URL: https://awesomecua.com/resources/github-bees-bot-bees-desktop/
-- Original source: https://github.com/Bees-bot/bees-desktop
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, web
-- Topics: workflow, tool-integration, automation
-- Evidence checked: 2026-11-04T17:30:39Z
-- ID: github:bees-bot/bees-desktop
-
-- Record JSON: https://awesomecua.com/resources/github-bees-bot-bees-desktop/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Bees-bot/bees-desktop/main/README.md (retrieved 2026-11-04T17:30:39Z; SHA-256 fb25b09ac08e17da6a1f2371b6886a78ac3a5788d05fedad7212af41edef31c5)
-
----
-
 ## bg-driver-rs
 
 Rust background computer-use driver for macOS, Windows, and Linux.
@@ -14208,36 +14187,6 @@ Mobile-native agent SDK by Ant Group for building on-device AI agents with sandb
 
 - https://raw.githubusercontent.com/antgroup/Napaxi/HEAD/README.md (retrieved 2026-11-04T16:30:14Z; SHA-256 9355a9b74e93a453268c19c0f252971aacef9da88b0e57dd14477bcfd4b95eb1)
 - https://raw.githubusercontent.com/antgroup/Napaxi/HEAD/LICENSE (retrieved 2026-11-04T16:34:51Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
-
----
-
-## Native by K
-
-Local-first open-source AI agent harness for developers integrating terminal, filesystem, and browser control.
-
-- Catalog URL: https://awesomecua.com/resources/github-karunya-muddana-native/
-- Original source: https://github.com/Karunya-Muddana/Native
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, web
-- Topics: tool-integration, workflow, automation
-- Evidence checked: 2026-11-04T18:11:48Z
-- ID: github:karunya-muddana/native
-
-- Record JSON: https://awesomecua.com/resources/github-karunya-muddana-native/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/Karunya-Muddana/Native/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Karunya-Muddana/Native/main/README.md (retrieved 2026-11-04T18:11:48Z; SHA-256 9ca0e066c1b2b2aee6a54af3f2c3e317c3f3063bb8f486a1975bb63db59c2cd6)
-- https://raw.githubusercontent.com/Karunya-Muddana/Native/HEAD/LICENSE (retrieved 2026-11-04T18:16:23Z; SHA-256 c73175f8a9b6dc5789fb21524fde3295664013a062bf7eb1e25670ad309ba880)
 
 ---
 
@@ -20971,35 +20920,6 @@ Single-process tool-calling agent runtime operating across CLI, enterprise chat 
 
 - https://raw.githubusercontent.com/jiugao-yi/xihe-agent/main/README.md (retrieved 2026-11-04T17:55:02Z; SHA-256 335e54ec8da818bc7f46b479f415693a61be997dca5726bd6e03e171f8077e81)
 - https://raw.githubusercontent.com/jiugao-yi/xihe-agent/HEAD/LICENSE (retrieved 2026-11-04T18:00:14Z; SHA-256 fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85)
-
----
-
-## ZetaTron
-
-Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
-
-- Catalog URL: https://awesomecua.com/resources/github-itsmarcels-zetatron/
-- Original source: https://github.com/itsmarcelS/ZetaTron
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: desktop, windows, web
-- Topics: planning, memory, automation, tool-integration
-- Evidence checked: 2026-11-04T18:11:48Z
-- ID: github:itsmarcels/zetatron
-
-- Record JSON: https://awesomecua.com/resources/github-itsmarcels-zetatron/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/itsmarcelS/ZetaTron/main/README.md (retrieved 2026-11-04T18:11:48Z; SHA-256 13f206bc3a588c2453e828d23b0a889c9aab6e075675d47f1f0e7da4be3f2212)
 
 ---
 

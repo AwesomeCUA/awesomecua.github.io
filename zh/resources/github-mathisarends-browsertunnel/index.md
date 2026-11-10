@@ -1,3 +1,11 @@
+---
+title: "BrowserTunnel · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mathisarends-browsertunnel/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # BrowserTunnel
 
 通过单条 WebSocket 连接，将实时 Chromium 标签页传输并镜像到网页，供远程智能体观察和接管。

@@ -1,3 +1,11 @@
+---
+title: "DistRL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-distrl-lab-distrl-open/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # DistRL
 
 Distributed online reinforcement-learning framework for Android agents, with environment setup and trajectory collection tools.

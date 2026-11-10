@@ -1,10 +1,8 @@
 # Crawl policy for https://awesomecua.com/
 # Search engines, AI search, AI assistants and AI crawlers are all welcome.
-# Content Signals Policy: https://contentsignals.org/
 # Agent-readable index: https://awesomecua.com/llms.txt
 
 User-agent: *
-Content-Signal: search=yes, ai-input=yes
 Allow: /
 
 # A crawler that matches a named group ignores the * group (RFC 9309 2.2.1),
@@ -58,7 +56,6 @@ User-agent: meta-externalagent
 User-agent: Amazonbot
 User-agent: MistralAI-Training
 User-agent: KimiBot
-Content-Signal: search=yes, ai-input=yes
 Allow: /
 
 Sitemap: https://awesomecua.com/sitemap.xml

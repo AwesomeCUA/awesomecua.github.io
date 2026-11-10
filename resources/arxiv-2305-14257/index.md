@@ -1,3 +1,11 @@
+---
+title: "Hierarchical Prompting Assists Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-14257/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Hierarchical Prompting Assists Large Language Model on Web Navigation
 
 Separates web navigation prompting into a SUMMARIZER that extracts action-relevant observations and an ACTOR that chooses the next action from the condensed context.
@@ -26,6 +34,18 @@ Abishek Sridhar, Robert Lo, Frank F. Xu, Hao Zhu, Shuyan Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-14257/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-14257/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_14257,
+  title = {{Hierarchical Prompting Assists Large Language Model on Web Navigation}},
+  author = {{Abishek Sridhar} and {Robert Lo} and {Frank F. Xu} and {Hao Zhu} and {Shuyan Zhou}},
+  year = {2023},
+  eprint = {2305.14257v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.14257v3},
+  note = {First published: 2023-05-23; Recorded arXiv version: v3; Recorded version updated: 2023-10-30T00:55:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

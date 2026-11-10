@@ -1,3 +1,11 @@
+---
+title: "Open CaptchaWorld: A Comprehensive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-24878/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents
 
 Open CaptchaWorld 通过交互式浏览器 CAPTCHA 谜题评估多模态智能体；其基准区分任务是否成功与完成谜题所需的视觉推理和交互深度。
@@ -27,6 +35,18 @@ Yaxin Luo, Zhaoyi Li, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-24878/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-24878/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_24878,
+  title = {{Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents}},
+  author = {{Yaxin Luo} and {Zhaoyi Li} and {Jiacheng Liu} and {Jiacheng Cui} and {Xiaohan Zhao} and {Zhiqiang Shen}},
+  year = {2025},
+  eprint = {2505.24878v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.24878v1},
+  note = {First published: 2025-05-30; Recorded arXiv version: v1; Recorded version updated: 2025-05-30T17:59:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "AndroTMem inference and evaluation code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cvc2233-androtmem/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # AndroTMem inference and evaluation code
 
 A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.

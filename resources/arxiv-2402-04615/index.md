@@ -1,3 +1,11 @@
+---
+title: "ScreenAI: A Vision-Language Model for UI and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-04615/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # ScreenAI: A Vision-Language Model for UI and Infographics Understanding
 
 Introduces ScreenAI and screen-annotation training that supports UI question answering, navigation, and summarization data generation.
@@ -26,6 +34,18 @@ Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-04615/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-04615/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_04615,
+  title = {{ScreenAI: A Vision-Language Model for UI and Infographics Understanding}},
+  author = {{Gilles Baechler} and {Srinivas Sunkara} and {Maria Wang} and {Fedir Zubach} and {Hassan Mansoor} and {Vincent Etter} and {Victor Cărbune} and {Jason Lin} and {Jindong Chen} and {Abhanshu Sharma}},
+  year = {2024},
+  eprint = {2402.04615v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.04615v3},
+  note = {First published: 2024-02-07; Recorded arXiv version: v3; Recorded version updated: 2024-07-04T07:08:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

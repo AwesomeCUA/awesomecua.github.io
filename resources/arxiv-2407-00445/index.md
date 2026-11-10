@@ -1,3 +1,11 @@
+---
+title: "Quantum reservoir computing using the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-00445/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum reservoir computing using the stabilizer formalism for encoding classical data
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Holo1.5 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-98e5813bceb30104d6c4/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo1.5 7B
 
 H Company 基于 Qwen2.5-VL-7B 的 Holo1.5 检查点，用于跨网页、桌面和移动界面定位元素并回答屏幕问题，先经监督微调，再经 GRPO 训练。

@@ -1,3 +1,11 @@
+---
+title: "Lom Desktop (麓鸣) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rfdiosuao-lom-desktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Lom Desktop (麓鸣)
 
 Lom is an open-source multi-agent workspace coordinating desktop coding agents with cross-device Android phone execution.

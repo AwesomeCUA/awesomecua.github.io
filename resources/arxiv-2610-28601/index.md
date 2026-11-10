@@ -1,3 +1,11 @@
+---
+title: "Evolving Agent Interfaces | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-28601/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Evolving Agent Interfaces
 
 Agent S4 uses task trajectories to evolve interfaces and usage guidance for a computer-use agent, selecting changes through validation tasks.
@@ -26,6 +34,18 @@ Saaket Agashe, Yuzhe Yang, Gonzalo Gonzalez-Pumariega, Bhuvan Chandra Koduru, Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-28601/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-28601/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_28601,
+  title = {{Evolving Agent Interfaces}},
+  author = {{Saaket Agashe} and {Yuzhe Yang} and {Gonzalo Gonzalez-Pumariega} and {Bhuvan Chandra Koduru} and {Chih-Lun Li} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2610.28601v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.28601v1},
+  note = {First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T17:47:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

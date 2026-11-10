@@ -1,3 +1,11 @@
+---
+title: "AI Agents May Always Fall for Prompt Injections | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-17634/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AI Agents May Always Fall for Prompt Injections
 
 Status: excluded from the active CUA catalog after scope review.

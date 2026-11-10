@@ -1,3 +1,11 @@
+---
+title: "Automify | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aldovincenti-automify/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Automify
 
 Automify is a Node.js computer-use framework unifying browser, CLI, and native desktop workflow automation for AI agents.

@@ -1,3 +1,11 @@
+---
+title: "afa-cloud desktop-gui-automation-cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-afa-cloud-desktop-gui-automation-cua/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # afa-cloud desktop-gui-automation-cua
 
 macOS desktop GUI automation skill built on `cua-driver` combining Accessibility trees with pixel-level fallback.

@@ -1,3 +1,11 @@
+---
+title: "RefDrone: A Challenging Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-00392/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes
 
 Status: excluded from the active CUA catalog after scope review.

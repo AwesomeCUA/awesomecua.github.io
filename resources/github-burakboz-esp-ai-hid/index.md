@@ -1,3 +1,11 @@
+---
+title: "ESP-AI-HID Controller | AwesomeCUA"
+url: https://awesomecua.com/resources/github-burakboz-esp-ai-hid/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ESP-AI-HID Controller
 
 ESP32-S2 hardware USB HID keyboard and mouse emulator with bidirectional serial protocol for OS-independent AI computer control.

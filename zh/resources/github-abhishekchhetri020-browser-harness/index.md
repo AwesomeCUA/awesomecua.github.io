@@ -1,3 +1,11 @@
+---
+title: "CDP Browser Harness · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-abhishekchhetri020-browser-harness/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CDP Browser Harness
 
 轻量且可编辑的 Chrome DevTools Protocol 测试框架，将 LLM 智能体连接到用户真实且已登录的 Chrome 浏览器。

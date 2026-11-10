@@ -1,3 +1,11 @@
+---
+title: "WebMirage · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-moontea0416-webmirage/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WebMirage
 
 WebMirage 是一个对抗性红队测试框架，通过构造视觉扰动，在网页智能体从定位到浏览器执行的过程中劫持它们。

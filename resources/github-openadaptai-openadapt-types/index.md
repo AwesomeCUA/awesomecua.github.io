@@ -1,3 +1,11 @@
+---
+title: "openadapt-types | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-types/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # openadapt-types
 
 openadapt-types supplies validated Python models and JSON schemas for computer-use screens, actions, results, and interaction trajectories.

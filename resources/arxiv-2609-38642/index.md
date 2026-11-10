@@ -1,3 +1,11 @@
+---
+title: "ChartRevise: A Dataset and Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38642/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ChartRevise: A Dataset and Evaluation Protocol for Exact Chart Editing via Code
 
 Bibliographic record for ChartRevise: A Dataset and Evaluation Protocol for Exact Chart Editing via Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaxiang Tang, Yi Zhou, Chad DeLuca, Rogerio Feris, Ahmed Khalil Omran, Zhi-Li Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38642/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38642/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38642,
+  title = {{ChartRevise: A Dataset and Evaluation Protocol for Exact Chart Editing via Code}},
+  author = {{Jiaxiang Tang} and {Yi Zhou} and {Chad DeLuca} and {Rogerio Feris} and {Ahmed Khalil Omran} and {Zhi-Li Zhang} and {Pengyuan Li} and {Ali Anwar}},
+  year = {2026},
+  eprint = {2609.38642v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38642v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T23:00:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

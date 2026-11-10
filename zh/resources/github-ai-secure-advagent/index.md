@@ -1,3 +1,11 @@
+---
+title: "AdvAgent (formerly AdvWeb) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-secure-advagent/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # AdvAgent (formerly AdvWeb)
 
 用于构造和评估针对网页智能体的对抗输入的研究代码，包含使用 Mind2Web 数据和 SeeAct 的黑盒红队流程。

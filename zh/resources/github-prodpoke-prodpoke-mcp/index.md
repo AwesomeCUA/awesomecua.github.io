@@ -1,3 +1,11 @@
+---
+title: "ProdPoke MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prodpoke-prodpoke-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ProdPoke MCP Server
 
 AI QA 测试 MCP 服务器，可启动真实浏览器执行探索性用户操作流程并报告 UI 缺陷。

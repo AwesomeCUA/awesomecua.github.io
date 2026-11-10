@@ -1,3 +1,11 @@
+---
+title: "FoxBridge MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sinamohsenifar-foxbridge-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # FoxBridge MCP
 
 Model Context Protocol server and Firefox WebExtension allowing AI assistants to read and drive a user's logged-in Firefox browser.

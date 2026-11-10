@@ -1,3 +1,11 @@
+---
+title: "MemSlides: A Hierarchical Memory Driven Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-17162/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision
 
 Bibliographic record for MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ye Jin, Yangyang Xu, Jun Zhu, Yibo Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-17162/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-17162/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_17162,
+  title = {{MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision}},
+  author = {{Ye Jin} and {Yangyang Xu} and {Jun Zhu} and {Yibo Yang}},
+  year = {2026},
+  eprint = {2606.17162v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.17162v1},
+  note = {First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T18:02:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

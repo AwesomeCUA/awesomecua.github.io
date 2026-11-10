@@ -1,3 +1,11 @@
+---
+title: "ToolCUA: Towards Optimal GUI-Tool Path… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-12481/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents
 
 ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choose between graphical actions and higher-level tools. Staged supervised and reinforcement learning culminate in online hybrid-environment training with a reward for efficient execution paths.
@@ -26,6 +34,18 @@ Xuhao Hu, Xi Zhang, Haiyang Xu, Kyle Qiao, Jingyi Yang, Xuanjing Huang, Jing Sha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-12481/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-12481/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12481,
+  title = {{ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents}},
+  author = {{Xuhao Hu} and {Xi Zhang} and {Haiyang Xu} and {Kyle Qiao} and {Jingyi Yang} and {Xuanjing Huang} and {Jing Shao} and {Ming Yan} and {Jieping Ye}},
+  year = {2026},
+  eprint = {2605.12481v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12481v2},
+  note = {First published: 2026-05-12; Recorded arXiv version: v2; Recorded version updated: 2026-09-19T14:53:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

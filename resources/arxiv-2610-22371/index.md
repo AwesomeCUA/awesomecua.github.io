@@ -1,3 +1,11 @@
+---
+title: "Gen4P: Video Generators are 4D Perceivers | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22371/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Gen4P: Video Generators are 4D Perceivers
 
 Bibliographic record for Gen4P: Video Generators are 4D Perceivers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yitong Xia, Zeren Jiang, Chuanxia Zheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22371/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22371/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22371,
+  title = {{Gen4P: Video Generators are 4D Perceivers}},
+  author = {{Yitong Xia} and {Zeren Jiang} and {Chuanxia Zheng}},
+  year = {2026},
+  eprint = {2610.22371v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22371v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:59:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

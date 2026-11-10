@@ -1,3 +1,11 @@
+---
+title: "muse-gadget-actell-mods | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ja1chen-muse-gadget-actell-mods/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # muse-gadget-actell-mods
 
 Extensions for the Muse Gadget SDK on an ESP32-S3 AMOLED board that let the Muse assistant operate a phone through Actell, with screenshot capture, coordinate input tools and LAN pairing.

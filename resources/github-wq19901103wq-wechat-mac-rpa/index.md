@@ -1,3 +1,11 @@
+---
+title: "WeChat Mac RPA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # WeChat Mac RPA
 
 WeChat Mac RPA is a macOS agent that reads WeChat screenshots, reasons over conversations and uses system automation to send messages and switch chats.

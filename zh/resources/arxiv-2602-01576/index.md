@@ -1,3 +1,11 @@
+---
+title: "Generative Visual Code Mobile World Models · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-01576/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Generative Visual Code Mobile World Models
 
 gWorld 将未来移动 GUI 状态预测为可渲染的网页代码，并提供基于代码的训练数据自动生成流程；研究评估视觉状态预测，以及更强的世界模型对下游移动端策略的影响。
@@ -27,6 +35,18 @@ Woosung Koh, Sungjun Han, Segyu Lee, Se-Young Yun, Jamin Shin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-01576/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-01576/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_01576,
+  title = {{Generative Visual Code Mobile World Models}},
+  author = {{Woosung Koh} and {Sungjun Han} and {Segyu Lee} and {Se-Young Yun} and {Jamin Shin}},
+  year = {2026},
+  eprint = {2602.01576v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.01576v2},
+  note = {First published: 2026-02-02; Recorded arXiv version: v2; Recorded version updated: 2026-05-23T02:41:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

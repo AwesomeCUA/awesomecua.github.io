@@ -1,3 +1,11 @@
+---
+title: "ClosePaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-imoonkey-closepaw/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # ClosePaw
 
 本地运行的 Android 智能体应用读取无障碍树，可选用截图，通过无障碍节点操作或手势点击执行任务，也可在后台的 Shizuku 虚拟显示屏上运行。

@@ -1,3 +1,11 @@
+---
+title: "ToL Hierarchical GUI region detection · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-llv22-tol-gui-region-detection/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ToL Hierarchical GUI region detection
 
 提供基于 DINO 训练安卓界面层级区域检测器的代码与配置，并支持在 ScreenPR 基准上进行区域推断。

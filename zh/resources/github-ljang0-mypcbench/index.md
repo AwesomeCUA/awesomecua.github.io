@@ -1,3 +1,11 @@
+---
+title: "MyPCBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ljang0-mypcbench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # MyPCBench
 
 一个 Linux 桌面基准，包含跨预置网页应用和办公软件的 184 项任务，使用虚拟机运行器与评分细则进行评分。

@@ -1,3 +1,11 @@
+---
+title: "Casper: Accelerating Stencil Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-14216/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Casper: Accelerating Stencil Computation using Near-cache Processing
 
 Status: excluded from the active CUA catalog after scope review.

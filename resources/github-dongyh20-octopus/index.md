@@ -1,3 +1,11 @@
+---
+title: "Octopus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dongyh20-octopus/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Octopus
 
 Octopus is a vision-language programmer agent trained with environmental feedback to generate executable control code in GTA and Gibson worlds.

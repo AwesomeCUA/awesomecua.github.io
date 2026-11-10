@@ -1,3 +1,11 @@
+---
+title: "Nudge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaxxcode-nudge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Nudge
 
 Browser extension that automatically redacts sensitive PII on webpages before AI assistants inspect or summarize the page.

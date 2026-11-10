@@ -1,3 +1,11 @@
+---
+title: "Tree of Thoughts: Deliberate Problem Solving… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-10601/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Flash Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Flash Computer Use
 
 Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP server for low-latency desktop and web automation.

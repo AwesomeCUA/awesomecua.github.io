@@ -1,3 +1,11 @@
+---
+title: "screencast-desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jhamidun-screencast-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # screencast-desktop
 
 一款 Claude Code 插件，让智能体操作 Windows 桌面应用，并将会话录制为带解说的屏幕录像。

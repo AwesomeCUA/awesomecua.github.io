@@ -1,3 +1,11 @@
+---
+title: "Auto-UI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-952cb4c3f308418aa85b/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Auto-UI
 
 Auto-UI 训练好的模型检查点及经 BLIP 处理的 AITW 特征，用于一个链式动作智能体，它根据截图、历史动作和计划中的后续动作预测设备操作。

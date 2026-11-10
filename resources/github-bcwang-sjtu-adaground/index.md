@@ -1,3 +1,11 @@
+---
+title: "AdaGround | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bcwang-sjtu-adaground/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # AdaGround
 
 A training-free GUI grounding framework that adjusts screenshot zoom to target size and checks proposed clicks before accepting or revising them.

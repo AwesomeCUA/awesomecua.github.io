@@ -1,3 +1,11 @@
+---
+title: "browser-with-fingerprints · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bablosoft-browser-with-fingerprints/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # browser-with-fingerprints
 
 一个 Windows 平台的 Node.js 包，可启动应用了 FingerprintSwitcher 服务所取指纹的浏览器，是各框架专用插件的基础。

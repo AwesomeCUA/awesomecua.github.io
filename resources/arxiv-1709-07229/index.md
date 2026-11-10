@@ -1,3 +1,11 @@
+---
+title: "High-Performance Derivative Computations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1709-07229/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # High-Performance Derivative Computations using CoDiPack
 
 Status: excluded from the active CUA catalog after scope review.

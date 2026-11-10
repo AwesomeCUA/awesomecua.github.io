@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 29 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/29/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 29
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/29/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/)
-- [WebAggregator](https://awesomecua.com/resources/github-tencent-webaggregator/)
 - [webarena-docker](https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/)
 - [webarena-setup](https://awesomecua.com/resources/github-gasse-webarena-setup/)
 - [WebBrain](https://awesomecua.com/resources/github-webbrain-one-webbrain/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [Yad (يد)](https://awesomecua.com/resources/github-holistis-al-yad/)
 - [Your Browser Agent](https://awesomecua.com/resources/github-rakeshnirzari1-your-browser-agent/)
 - [Yurei](https://awesomecua.com/resources/github-memel06-yurei/)
+- [Yutori](https://awesomecua.com/resources/url-eff580f3185f2a36c265/)
+- [ZCode JetBrains Plugin](https://awesomecua.com/resources/github-csuftt-zcode-jetbrains-plugin/)

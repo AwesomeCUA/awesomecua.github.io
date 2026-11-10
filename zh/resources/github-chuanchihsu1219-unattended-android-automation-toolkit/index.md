@@ -1,3 +1,11 @@
+---
+title: "Unattended Android Automation Toolkit · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Unattended Android Automation Toolkit
 
 面向无人值守 Android 应用自动化、崩溃恢复和 UI 状态采集的可靠性优先构建组件。

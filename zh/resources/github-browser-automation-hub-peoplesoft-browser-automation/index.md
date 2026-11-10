@@ -1,3 +1,11 @@
+---
+title: "Oracle PeopleSoft Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-peoplesoft-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Oracle PeopleSoft Browser Automation
 
 面向 Oracle PeopleSoft 的浏览器自动化脚手架，可通过 Puppeteer 或 Anchor Browser 执行查询、休假申请、员工资料和薪资流程相关操作。

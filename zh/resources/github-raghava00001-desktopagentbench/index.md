@@ -1,3 +1,11 @@
+---
+title: "DesktopAgentBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-raghava00001-desktopagentbench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # DesktopAgentBench
 
 DesktopAgentBench 是与智能体无关的 Windows 评测基准，评测桌面智能体的任务可靠性、恢复能力和安全防护机制。

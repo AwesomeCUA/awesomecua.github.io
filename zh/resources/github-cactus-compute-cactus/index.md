@@ -1,3 +1,11 @@
+---
+title: "Cactus · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cactus-compute-cactus/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Cactus
 
 Cactus 是跨平台设备端 LLM 和 VLM 推理框架，面向移动端和边缘 AI 智能体。

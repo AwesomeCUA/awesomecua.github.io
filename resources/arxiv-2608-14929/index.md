@@ -1,3 +1,11 @@
+---
+title: "Training Leaves Traces: Centered Residual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-14929/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification
 
 Status: excluded from the active CUA catalog after scope review.

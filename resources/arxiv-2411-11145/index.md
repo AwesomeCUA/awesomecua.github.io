@@ -1,3 +1,11 @@
+---
+title: "From 2D Document Interactions into Immersive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-11145/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From 2D Document Interactions into Immersive Information Experience: An Example-Based Design by Augmenting Content, Spatializing Placement, Enriching Long-Term Interactions, and Simplifying Content Creations
 
 Status: excluded from the active CUA catalog after scope review.

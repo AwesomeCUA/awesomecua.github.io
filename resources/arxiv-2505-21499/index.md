@@ -1,3 +1,11 @@
+---
+title: "AdInject: Real-World Black-Box Attacks on Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-21499/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery
 
 Studies advertising delivery as an indirect-injection channel for web agents under a black-box threat model. AdInject evaluates how static ad content shaped by website context can redirect browser actions.
@@ -26,6 +34,18 @@ Haowei Wang, Junjie Wang, Xiaojun Jia, Rupeng Zhang, Mingyang Li, Zhe Liu, Yang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-21499/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-21499/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_21499,
+  title = {{AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery}},
+  author = {{Haowei Wang} and {Junjie Wang} and {Xiaojun Jia} and {Rupeng Zhang} and {Mingyang Li} and {Zhe Liu} and {Yang Liu} and {Qing Wang}},
+  year = {2025},
+  eprint = {2505.21499v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.21499v1},
+  note = {First published: 2025-05-27; Recorded arXiv version: v1; Recorded version updated: 2025-05-27T17:59:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

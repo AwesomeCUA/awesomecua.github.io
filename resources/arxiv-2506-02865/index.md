@@ -1,3 +1,11 @@
+---
+title: "Surfer-H Meets Holo1: Cost-Efficient Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-02865/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights
 
 Describes Surfer-H, a web agent paired with the Holo1 vision-language model family trained on web content, synthetic examples, and agent-generated data. The work introduces WebClick for web-interface localization and evaluates browser task execution on WebVoyager.
@@ -26,6 +34,18 @@ Mathieu Andreux, Breno Baldas Skuk, Hamza Benchekroun, Emilien Biré, Antoine Bo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-02865/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-02865/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_02865,
+  title = {{Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights}},
+  author = {{Mathieu Andreux} and {Breno Baldas Skuk} and {Hamza Benchekroun} and {Emilien Biré} and {Antoine Bonnet} and {Riaz Bordie} and {Nathan Bout} and {Matthias Brunel} and {Pierre-Louis Cedoz} and {Antoine Chassang} and {Mickaël Chen} and {Alexandra D. Constantinou} and {Antoine d'Andigné} and {Hubert de La Jonquière} and {Aurélien Delfosse} and {Ludovic Denoyer} and {Alexis Deprez} and {Augustin Derupti} and {Michael Eickenberg} and {Mathïs Federico} and {Charles Kantor} and {Xavier Koegler} and {Yann Labbé} and {Matthew C. H. Lee} and {Erwan Le Jumeau de Kergaradec} and {Amir Mahla} and {Avshalom Manevich} and {Adrien Maret} and {Charles Masson} and {Rafaël Maurin} and {Arturo Mena} and {Philippe Modard} and {Axel Moyal} and {Axel Nguyen Kerbel} and {Julien Revelle} and {Mats L. Richter} and {María Santos} and {Laurent Sifre} and {Maxime Theillard} and {Marc Thibault} and {Louis Thiry} and {Léo Tronchon} and {Nicolas Usunier} and {Tony Wu}},
+  year = {2025},
+  eprint = {2506.02865v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.02865v2},
+  note = {First published: 2025-06-03; Recorded arXiv version: v2; Recorded version updated: 2025-06-11T09:33:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

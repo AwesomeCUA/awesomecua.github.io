@@ -1,3 +1,11 @@
+---
+title: "Lost in Recovery: Demystifying Recovery… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-27954/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay
 
 ReTrace 通过注入错误、重放操作并比较后续结果，评估键盘鼠标操作型计算机智能体的恢复行为。
@@ -27,6 +35,18 @@ Byeonghun Bang, Sangwoo Park, Jinheon Baek, Kangsan Kim, Youngwan Lee, Sung Ju H
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-27954/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-27954/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_27954,
+  title = {{Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay}},
+  author = {{Byeonghun Bang} and {Sangwoo Park} and {Jinheon Baek} and {Kangsan Kim} and {Youngwan Lee} and {Sung Ju Hwang}},
+  year = {2026},
+  eprint = {2610.27954v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.27954v1},
+  note = {First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T09:59:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

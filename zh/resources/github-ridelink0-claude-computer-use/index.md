@@ -1,3 +1,11 @@
+---
+title: "Better Computer Use (Accessibility MCP) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ridelink0-claude-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Better Computer Use (Accessibility MCP)
 
 提供无障碍树 MCP 服务器，让 Claude Code 无需截图即可检查和操作 Windows 与 macOS 桌面应用。

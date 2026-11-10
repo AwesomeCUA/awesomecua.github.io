@@ -1,3 +1,11 @@
+---
+title: "AppAgent-Claw: CLI Is All You Need for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-05171/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AppAgent-Claw: CLI Is All You Need for GUI Automation
 
 提出 AppAgent-Claw，将演示过的 GUI 流程录制为可复用的 OpenClaw 技能，重放时定位视觉目标并检查预期的屏幕效果。
@@ -27,6 +35,18 @@ Zhixue Song, Zhiheng Zhang, Yi Song, Chi Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-05171/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-05171/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05171,
+  title = {{AppAgent-Claw: CLI Is All You Need for GUI Automation}},
+  author = {{Zhixue Song} and {Zhiheng Zhang} and {Yi Song} and {Chi Zhang}},
+  year = {2026},
+  eprint = {2606.05171v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05171v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T17:02:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "SWEeper-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zlab-princeton-sweeper-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # SWEeper-Bench
 
 SWEeper-Bench 评测交互式 GUI 和浏览器智能体能否自主发现并复现开源软件中的 200 个真实缺陷。

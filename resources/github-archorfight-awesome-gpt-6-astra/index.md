@@ -1,3 +1,11 @@
+---
+title: "Awesome GPT-6 Astra | AwesomeCUA"
+url: https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/
+updated: 2026-11-04
+type: learning
+lang: en
+---
+
 # Awesome GPT-6 Astra
 
 Evidence-linked catalog of computer-use demos, evaluations, and agent workflows with primary source receipts.

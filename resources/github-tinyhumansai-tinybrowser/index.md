@@ -1,3 +1,11 @@
+---
+title: "tinybrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinyhumansai-tinybrowser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # tinybrowser
 
 Rust-friendly agent browser API and TinyBus module for managing headless and headful web sessions.

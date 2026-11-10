@@ -1,3 +1,11 @@
+---
+title: "IntentWeave: A Progressive Entry Ladder… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-22917/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals
 
 提出 IntentWeave，以设计空间和浏览器扩展原型探索网页智能体在不同浏览器界面中的入口，并通过研究比较三种入口策略。
@@ -27,6 +35,18 @@ Wanying Mo, Jijia Lai, Xiaoming Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-22917/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-22917/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_22917,
+  title = {{IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals}},
+  author = {{Wanying Mo} and {Jijia Lai} and {Xiaoming Wang}},
+  year = {2026},
+  eprint = {2603.22917v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.22917v1},
+  note = {First published: 2026-03-24; Recorded arXiv version: v1; Recorded version updated: 2026-03-24T08:05:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

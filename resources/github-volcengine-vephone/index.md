@@ -1,3 +1,11 @@
+---
+title: "vePhone | AwesomeCUA"
+url: https://awesomecua.com/resources/github-volcengine-vephone/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # vePhone
 
 vePhone supplies remotely controlled cloud phones and example integrations for mobile and computer-use agents, including task execution and result retrieval.

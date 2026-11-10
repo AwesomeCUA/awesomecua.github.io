@@ -1,3 +1,11 @@
+---
+title: "UI Defect Mocker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # UI Defect Mocker
 
 Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.

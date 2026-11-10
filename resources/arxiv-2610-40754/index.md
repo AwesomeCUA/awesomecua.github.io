@@ -1,3 +1,11 @@
+---
+title: "DyCraft: An Agentic System for Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-40754/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DyCraft: An Agentic System for Long-Horizon 4D Scene Generation
 
 Status: excluded from the active CUA catalog after scope review.

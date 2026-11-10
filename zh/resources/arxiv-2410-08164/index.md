@@ -1,3 +1,11 @@
+---
+title: "Agent S: An Open Agentic Framework that… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-08164/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Agent S: An Open Agentic Framework that Uses Computers Like a Human
 
 结合分层规划、检索所得经验和计算机交互接口，执行多步骤 GUI 任务。
@@ -27,6 +35,18 @@ Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-08164/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-08164/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_08164,
+  title = {{Agent S: An Open Agentic Framework that Uses Computers Like a Human}},
+  author = {{Saaket Agashe} and {Jiuzhou Han} and {Shuyu Gan} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2024},
+  eprint = {2410.08164v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.08164v1},
+  note = {First published: 2024-10-10; Recorded arXiv version: v1; Recorded version updated: 2024-10-10T17:43:51Z.}
+}
+```
 
 ## 发表记录
 

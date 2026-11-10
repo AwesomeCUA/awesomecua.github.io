@@ -1,3 +1,11 @@
+---
+title: "Harborage · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vadym-iefremov-harborage/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Harborage
 
 按需会话池管理器，为并发运行的 AI 网页智能体提供隔离的无头浏览器会话。

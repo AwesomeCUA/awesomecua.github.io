@@ -1,3 +1,11 @@
+---
+title: "MobileExperts: A Dynamic Tool-Enabled… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2407-03913/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices
 
 MobileExperts 组建移动端智能体团队，让智能体探索并构建工具，通过两级规划协调协作；其基准按分层智能水平组织任务。
@@ -27,6 +35,18 @@ Jiayi Zhang, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2407-03913/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2407-03913/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_03913,
+  title = {{MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices}},
+  author = {{Jiayi Zhang} and {Chuang Zhao} and {Yihan Zhao} and {Zhaoyang Yu} and {Ming He} and {Jianping Fan}},
+  year = {2024},
+  eprint = {2407.03913v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.03913v1},
+  note = {First published: 2024-07-04; Recorded arXiv version: v1; Recorded version updated: 2024-07-04T13:12:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

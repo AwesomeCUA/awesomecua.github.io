@@ -1,3 +1,11 @@
+---
+title: "EE-MCP: Self-Evolving MCP-GUI Agents via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-09815/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning
 
 EE-MCP 利用生成的环境、轨迹收集和筛选后的训练，研究随应用而变化的 GUI 操作与 MCP 调用组合；经验库从轨迹对比中提取规则，供推理时改进，与模型蒸馏分开。
@@ -27,6 +35,18 @@ Tiantian He, Yihang Chen, Keyue Jiang, Ka Yiu Lee, Kaiwen Zhou, Kun Shao, Shuai 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-09815/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-09815/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_09815,
+  title = {{EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning}},
+  author = {{Tiantian He} and {Yihang Chen} and {Keyue Jiang} and {Ka Yiu Lee} and {Kaiwen Zhou} and {Kun Shao} and {Shuai Wang}},
+  year = {2026},
+  eprint = {2604.09815v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.09815v1},
+  note = {First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T18:46:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

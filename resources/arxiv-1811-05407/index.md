@@ -1,3 +1,11 @@
+---
+title: "Autonomic Intrusion Response in Distributed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1811-05407/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Autonomic Intrusion Response in Distributed Computing using Big Data
 
 Status: excluded from the active CUA catalog after scope review.

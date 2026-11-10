@@ -1,3 +1,11 @@
+---
+title: "agent-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-megaurav4-agent-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # agent-bench
 
 agent-bench evaluates browser-based AI agents across 50 web tasks spanning navigation, form filling, search, and e-commerce checkout.

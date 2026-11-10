@@ -1,3 +1,11 @@
+---
+title: "You Told Me to Do It: Measuring Instructional… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-11862/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents
 
 Introduces ReadSecBench, a README-based benchmark for measuring whether high-privilege agents follow injected instructions that leak private data; a computer-use agent is evaluated.
@@ -26,6 +34,18 @@ Ching-Yu Kao, Xinfeng Li, Shenyu Dai, Tianze Qiu, Pengcheng Zhou, Eric Hanchen J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-11862/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-11862/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_11862,
+  title = {{You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents}},
+  author = {{Ching-Yu Kao} and {Xinfeng Li} and {Shenyu Dai} and {Tianze Qiu} and {Pengcheng Zhou} and {Eric Hanchen Jiang} and {Philip Sperl}},
+  year = {2026},
+  eprint = {2603.11862v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.11862v1},
+  note = {First published: 2026-03-12; Recorded arXiv version: v1; Recorded version updated: 2026-03-12T12:35:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

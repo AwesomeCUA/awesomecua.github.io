@@ -1,3 +1,11 @@
+---
+title: "Kosmos-2: Grounding Multimodal Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-14824/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Kosmos-2: Grounding Multimodal Large Language Models to the World
 
 Status: excluded from the active CUA catalog after scope review.

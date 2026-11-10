@@ -1,3 +1,11 @@
+---
+title: "WebSuite: Systematically Evaluating Why… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-01623/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebSuite: Systematically Evaluating Why Web Agents Fail
 
 WebSuite 按动作分类组织浏览器操作，测试单项控件和完整工作流；其诊断任务将失败归因于具体动作，以比较文本和多模态网页智能体。
@@ -27,6 +35,18 @@ Eric Li, Jim Waldo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-01623/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-01623/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_01623,
+  title = {{WebSuite: Systematically Evaluating Why Web Agents Fail}},
+  author = {{Eric Li} and {Jim Waldo}},
+  year = {2024},
+  eprint = {2406.01623v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.01623v1},
+  note = {First published: 2024-06-01; Recorded arXiv version: v1; Recorded version updated: 2024-06-01T00:32:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Mobile QA Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sumanmadipeddi-mobile-qa-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Mobile QA Agent
 
 Mobile QA Agent is a Supervisor-Planner-Executor multi-agent system built on Agent S3 for automated Android app testing via ADB.

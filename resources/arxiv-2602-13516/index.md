@@ -1,3 +1,11 @@
+---
+title: "SPILLage: Agentic Oversharing on the Web | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-13516/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # SPILLage: Agentic Oversharing on the Web
 
 Formalizes and measures natural agentic oversharing when browser agents handle private user emails and calendars across live websites.
@@ -26,6 +34,18 @@ Jaechul Roh, Eugene Bagdasarian, Hamed Haddadi, Ali Shahin Shamsabadi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-13516/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-13516/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_13516,
+  title = {{SPILLage: Agentic Oversharing on the Web}},
+  author = {{Jaechul Roh} and {Eugene Bagdasarian} and {Hamed Haddadi} and {Ali Shahin Shamsabadi}},
+  year = {2026},
+  eprint = {2602.13516v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.13516v1},
+  note = {First published: 2026-02-13; Recorded arXiv version: v1; Recorded version updated: 2026-02-13T23:02:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

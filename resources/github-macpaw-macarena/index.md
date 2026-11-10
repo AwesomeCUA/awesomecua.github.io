@@ -1,3 +1,11 @@
+---
+title: "MacArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-macpaw-macarena/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # MacArena
 
 MacArena benchmarks computer-use agents in an online, reproducible macOS virtual-machine environment across multi-app desktop tasks.

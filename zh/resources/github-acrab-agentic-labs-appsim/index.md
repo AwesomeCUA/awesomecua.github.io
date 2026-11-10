@@ -1,3 +1,11 @@
+---
+title: "AppSim-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # AppSim-Bench
 
 提供模拟移动应用和评估工具，在受控应用状态下复现 GUI 智能体任务。

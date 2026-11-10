@@ -1,3 +1,11 @@
+---
+title: "LMMs-Eval | AwesomeCUA"
+url: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # LMMs-Eval
 
 LMMs-Eval is a standardized evaluation harness for large multimodal models covering GUI grounding, VQA, document, and video benchmarks.

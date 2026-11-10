@@ -1,3 +1,11 @@
+---
+title: "agent-eyes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mohanli-eng-agent-eyes/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-eyes
 
 MCP server and workflow skill giving Claude Code live visual and DOM inspection over the browser runtime.

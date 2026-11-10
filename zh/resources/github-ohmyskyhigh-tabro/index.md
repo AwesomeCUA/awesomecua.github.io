@@ -1,3 +1,11 @@
+---
+title: "Tabro · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ohmyskyhigh-tabro/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Tabro
 
 面向 AI 智能体的开源 Chromium 浏览器自动化运行时，支持共享已认证的配置文件和并行标签页控制。

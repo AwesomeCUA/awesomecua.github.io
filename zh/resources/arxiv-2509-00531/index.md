@@ -1,3 +1,11 @@
+---
+title: "MobiAgent: A Systematic Framework for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-00531/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobiAgent: A Systematic Framework for Customizable Mobile Agents
 
 提出 MobiAgent，整合 MobiMind 智能体模型、AgentRR 加速框架和 MobiFlow 评估，并引入用于移动 GUI 任务的 AI 辅助数据采集流程。
@@ -27,6 +35,18 @@ Cheng Zhang, Erhu Feng, Xi Zhao, Yisheng Zhao, Wangbo Gong, Jiahui Sun, Dong Du,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-00531/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-00531/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_00531,
+  title = {{MobiAgent: A Systematic Framework for Customizable Mobile Agents}},
+  author = {{Cheng Zhang} and {Erhu Feng} and {Xi Zhao} and {Yisheng Zhao} and {Wangbo Gong} and {Jiahui Sun} and {Dong Du} and {Zhichao Hua} and {Yubin Xia} and {Haibo Chen}},
+  year = {2025},
+  eprint = {2509.00531v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.00531v1},
+  note = {First published: 2025-08-30; Recorded arXiv version: v1; Recorded version updated: 2025-08-30T15:24:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "computer.md | AwesomeCUA"
+url: https://awesomecua.com/resources/github-carloslfu-computer-md/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # computer.md
 
 Defines an open `COMPUTER.md` machine specification and runtime for LLM agents to operate terminals, filesystems, and desktop GUIs.

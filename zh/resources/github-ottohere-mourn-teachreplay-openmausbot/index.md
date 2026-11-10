@@ -1,3 +1,11 @@
+---
+title: "TeachReplay — OpenMausBot Integration · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay-openmausbot/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # TeachReplay — OpenMausBot Integration
 
 这个 OpenMausBot 集成添加了一个面板，可录制计算机操作演示、编译可复用技能，并用新输入重放技能。

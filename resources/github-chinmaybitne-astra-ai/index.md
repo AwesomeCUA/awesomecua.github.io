@@ -1,3 +1,11 @@
+---
+title: "Astra AI (Windows Gemini Live Assistant) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chinmaybitne-astra-ai/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Astra AI (Windows Gemini Live Assistant)
 
 Voice-first Windows AI desktop assistant powered by Gemini Live with screen vision and system control.

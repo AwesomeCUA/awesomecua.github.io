@@ -1,3 +1,11 @@
+---
+title: "Gobii Platform · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gobii-ai-gobii-platform/
+updated: 2026-11-06
+type: infrastructure
+lang: zh-CN
+---
+
 # Gobii Platform
 
 基于 browser-use、可自行托管的常驻智能体平台，增加有界面浏览器、持久化配置文件、支持代理的路由、定时任务和事件触发器。

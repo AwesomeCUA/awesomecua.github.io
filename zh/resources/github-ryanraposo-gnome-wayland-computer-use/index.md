@@ -1,3 +1,11 @@
+---
+title: "gnome-wayland-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ryanraposo-gnome-wayland-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # gnome-wayland-computer-use
 
 用于驱动 Linux GNOME Wayland 桌面会话的计算机使用桥接工具。

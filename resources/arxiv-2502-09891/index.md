@@ -1,3 +1,11 @@
+---
+title: "ArchRAG: Attributed Community-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-09891/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation
 
 Bibliographic record for ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shu Wang, Yixiang Fang, Yingli Zhou, Xilin Liu, Yuchi Ma
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-09891/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-09891/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_09891,
+  title = {{ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation}},
+  author = {{Shu Wang} and {Yixiang Fang} and {Yingli Zhou} and {Xilin Liu} and {Yuchi Ma}},
+  year = {2025},
+  eprint = {2502.09891v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.09891v4},
+  note = {First published: 2025-02-14; Recorded arXiv version: v4; Recorded version updated: 2026-05-11T03:00:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

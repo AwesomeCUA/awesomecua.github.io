@@ -1,3 +1,11 @@
+---
+title: "Enhancing Trust in LLM-Based AI Automation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-05391/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges
 
 Bibliographic record for Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sivan Schwartz, Avi Yaeli, Segev Shlomov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-05391/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-05391/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_05391,
+  title = {{Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges}},
+  author = {{Sivan Schwartz} and {Avi Yaeli} and {Segev Shlomov}},
+  year = {2023},
+  eprint = {2308.05391v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.05391v1},
+  note = {First published: 2023-08-10; Recorded arXiv version: v1; Recorded version updated: 2023-08-10T07:12:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WebMCPcss | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cochinoraptor-webmcpcss/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WebMCPcss
 
 Extends the WebMCP standard by declaring agent-callable website actions and semantic affordances directly through CSS rules.

@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 11 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/11/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 11 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/11/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [OpenWebVoyager-opt-1](https://awesomecua.com/zh/resources/url-bd293c9a5f9bf16b8199/)
 - [OpenWebVoyager-opt-2](https://awesomecua.com/zh/resources/url-f4f6f5bfe051e6ba3d94/)
 - [OpenWebVoyager-opt-3](https://awesomecua.com/zh/resources/url-2cd89755e4e2511de633/)
 - [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/zh/resources/url-725f9a8225f0f9c40d93/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/11/
 - [agent-browser-plugin-proton-pass](https://awesomecua.com/zh/resources/github-evrenverse-agent-browser-plugin-proton-pass/)
 - [agent-chrome-mcp](https://awesomecua.com/zh/resources/github-luorui-123-agent-chrome-mcp/)
 - [agent-eyes](https://awesomecua.com/zh/resources/github-mohanli-eng-agent-eyes/)
+- [agent-gauntlet-example-agent](https://awesomecua.com/zh/resources/github-konuktor-agent-gauntlet-example-agent/)

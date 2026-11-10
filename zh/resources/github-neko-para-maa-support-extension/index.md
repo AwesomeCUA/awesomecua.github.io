@@ -1,3 +1,11 @@
+---
+title: "Maa Support Extension · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-neko-para-maa-support-extension/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Maa Support Extension
 
 一个面向 MaaFramework 项目的 VS Code 扩展，可查询、补全和校验 Pipeline 任务与图片路径，运行 interface.json 任务、截图，并在 MaaPipelineEditor 中打开 Pipeline。

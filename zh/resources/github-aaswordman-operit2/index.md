@@ -1,3 +1,11 @@
+---
+title: "Operit2 · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aaswordman-operit2/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # Operit2
 
 一个处于预览阶段的跨设备个人智能体，可在手机、桌面和云端节点之间延续对话与任务，并提供文件、终端和浏览器工具，能在网页上点击、输入和获取页面快照。

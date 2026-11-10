@@ -1,3 +1,11 @@
+---
+title: "Rethinking Scale: Deployment Trade-offs of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-19299/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms
 
 Bibliographic record for Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xinlin Wang, Mats Brorsson
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-19299/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-19299/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_19299,
+  title = {{Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms}},
+  author = {{Xinlin Wang} and {Mats Brorsson}},
+  year = {2026},
+  eprint = {2604.19299v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.19299v1},
+  note = {First published: 2026-04-21; Recorded arXiv version: v1; Recorded version updated: 2026-04-21T10:05:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

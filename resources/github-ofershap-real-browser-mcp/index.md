@@ -1,3 +1,11 @@
+---
+title: "real-browser-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ofershap-real-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # real-browser-mcp
 
 MCP server and Chrome extension giving coding agents control over an already-open Chrome browser with existing cookies and SSO sessions.

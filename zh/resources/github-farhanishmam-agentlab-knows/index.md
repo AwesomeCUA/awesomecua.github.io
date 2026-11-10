@@ -1,3 +1,11 @@
+---
+title: "AgentLab-Knows · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-farhanishmam-agentlab-knows/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # AgentLab-Knows
 
 AgentLab-Knows 扩展了 AgentLab，提供智能体配置，用于在 Knows 基准的 Google Workspace Docs、Sheets 和 Slides 任务上评估浏览器智能体。

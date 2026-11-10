@@ -1,3 +1,11 @@
+---
+title: "NaturalGAIA & LightManus · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-keles-coding-naturegaia/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # NaturalGAIA & LightManus
 
 NaturalGAIA 和 LightManus 提供分层多智能体框架，具备浏览器自动化、代码执行和情节记忆功能。

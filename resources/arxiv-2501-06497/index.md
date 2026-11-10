@@ -1,3 +1,11 @@
+---
+title: "PASS: Presentation Automation for Slide… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-06497/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PASS: Presentation Automation for Slide Generation and Speech
 
 Bibliographic record for PASS: Presentation Automation for Slide Generation and Speech. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tushar Aggarwal, Aarohi Bhand
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-06497/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-06497/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_06497,
+  title = {{PASS: Presentation Automation for Slide Generation and Speech}},
+  author = {{Tushar Aggarwal} and {Aarohi Bhand}},
+  year = {2025},
+  eprint = {2501.06497v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.06497v2},
+  note = {First published: 2025-01-11; Recorded arXiv version: v2; Recorded version updated: 2025-01-15T20:43:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

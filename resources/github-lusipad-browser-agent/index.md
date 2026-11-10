@@ -1,3 +1,11 @@
+---
+title: "Lusipad Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lusipad-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Lusipad Browser Agent
 
 Chrome sidebar autonomous AI browser agent featuring visual ROI perception, dual-process fast/slow cognition, and local LLM support.

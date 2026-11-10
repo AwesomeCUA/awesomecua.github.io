@@ -1,3 +1,11 @@
+---
+title: "PopupAttack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-salt-nlp-popupattack/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # PopupAttack
 
 Resources for evaluating GUI agents under malicious popup instructions.

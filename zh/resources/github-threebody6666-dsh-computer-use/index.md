@@ -1,3 +1,11 @@
+---
+title: "ThreeBody6666 DSH Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-threebody6666-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ThreeBody6666 DSH Computer Use
 
 DeepSeek Harness 的原生 Windows 计算机使用插件和可配置视觉插件。

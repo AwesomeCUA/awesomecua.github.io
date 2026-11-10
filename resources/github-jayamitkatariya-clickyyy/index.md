@@ -1,3 +1,11 @@
+---
+title: "Clickyy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jayamitkatariya-clickyyy/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Clickyy
 
 Clickyy is a macOS desktop automation CLI and MCP server combining native Accessibility element targeting with Quartz input simulation.

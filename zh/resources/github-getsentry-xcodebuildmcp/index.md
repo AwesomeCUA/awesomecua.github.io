@@ -1,3 +1,11 @@
+---
+title: "MobileBuildMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-getsentry-xcodebuildmcp/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MobileBuildMCP
 
 一个 MCP 服务器和命令行工具，让编程智能体构建、运行和调试 iOS 与 macOS 应用，并通过点击、滑动、输入、界面快照和截图操作 iOS 模拟器。

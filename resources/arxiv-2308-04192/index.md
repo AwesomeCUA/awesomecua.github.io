@@ -1,3 +1,11 @@
+---
+title: "High photon-loss threshold quantum computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-04192/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # High photon-loss threshold quantum computing using GHZ-state measurements
 
 Status: excluded from the active CUA catalog after scope review.

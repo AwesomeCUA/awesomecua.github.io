@@ -1,3 +1,11 @@
+---
+title: "droidbotApp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ylimit-droidbotapp/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # droidbotApp
 
 DroidBot 测试输入生成器的 Android 配套应用，注册一个输入法服务；DroidBot 通过 adb 发送广播意图传递文本，由该服务将文本输入到当前获得焦点的文本框。

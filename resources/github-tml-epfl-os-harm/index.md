@@ -1,3 +1,11 @@
+---
+title: "OS-Harm | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tml-epfl-os-harm/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # OS-Harm
 
 Benchmark for safety of computer-use agents across misuse, prompt injection, and unintended model behavior.

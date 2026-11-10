@@ -1,3 +1,11 @@
+---
+title: "Codex Bridge to ChatGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anightmonarch-codex-bridge-chatgpt/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex Bridge to ChatGPT
 
 Automates verified reasoning handoffs between local OpenAI Codex sessions and ChatGPT Web in the browser.

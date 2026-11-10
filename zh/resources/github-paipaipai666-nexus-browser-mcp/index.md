@@ -1,3 +1,11 @@
+---
+title: "nexus-browser-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-paipaipai666-nexus-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # nexus-browser-mcp
 
 浏览器自动化 MCP 服务器，提供事件驱动的确定性 Playwright 操作和无障碍树快照。

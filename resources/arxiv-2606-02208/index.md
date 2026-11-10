@@ -1,3 +1,11 @@
+---
+title: "Context-Aware Workflow Decomposition for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-02208/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models
 
 Studies staged prompting for automated mobile UI element annotation, comparing workflow depths and element groupings on expert-annotated MUIAnno screens.
@@ -26,6 +34,18 @@ Athar Parvez, Muhammad Jawad Mufti, Muqaddas Gull, Omar Hammad
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-02208/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-02208/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_02208,
+  title = {{Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models}},
+  author = {{Athar Parvez} and {Muhammad Jawad Mufti} and {Muqaddas Gull} and {Omar Hammad}},
+  year = {2026},
+  eprint = {2606.02208v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.02208v1},
+  note = {First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T13:08:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

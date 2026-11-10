@@ -1,3 +1,11 @@
+---
+title: "OCR-free Document Understanding Transformer | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2111-15664/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OCR-free Document Understanding Transformer
 
 Bibliographic record for OCR-free Document Understanding Transformer. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Geewook Kim, Teakgyu Hong, Moonbin Yim, Jeongyeon Nam, Jinyoung Park, Jinyeong Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2111-15664/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2111-15664/citation.csl.json
+
+```bibtex
+@misc{arxiv_2111_15664,
+  title = {{OCR-free Document Understanding Transformer}},
+  author = {{Geewook Kim} and {Teakgyu Hong} and {Moonbin Yim} and {Jeongyeon Nam} and {Jinyoung Park} and {Jinyeong Yim} and {Wonseok Hwang} and {Sangdoo Yun} and {Dongyoon Han} and {Seunghyun Park}},
+  year = {2021},
+  eprint = {2111.15664v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2111.15664v5},
+  note = {First published: 2021-11-30; Recorded arXiv version: v5; Recorded version updated: 2022-10-06T06:50:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

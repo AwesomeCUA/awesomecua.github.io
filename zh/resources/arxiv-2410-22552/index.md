@@ -1,3 +1,11 @@
+---
+title: "Auto-Intent: Automated Intent Discovery… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-22552/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents
 
 从演示中发现简洁的任务意图，并利用意图预测引导语言模型网页智能体的决策和探索。
@@ -27,6 +35,18 @@ Jaekyeom Kim, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-22552/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-22552/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_22552,
+  title = {{Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents}},
+  author = {{Jaekyeom Kim} and {Dong-Ki Kim} and {Lajanugen Logeswaran} and {Sungryull Sohn} and {Honglak Lee}},
+  year = {2024},
+  eprint = {2410.22552v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.22552v1},
+  note = {First published: 2024-10-29; Recorded arXiv version: v1; Recorded version updated: 2024-10-29T21:37:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

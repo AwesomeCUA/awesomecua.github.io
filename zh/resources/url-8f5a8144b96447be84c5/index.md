@@ -1,3 +1,11 @@
+---
+title: "OpenJev-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8f5a8144b96447be84c5/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpenJev-8B
 
 OpenJev-8B 是一款本地决策模型，可在一次前向计算中对浏览器智能体的操作和目标元素候选选项评分。

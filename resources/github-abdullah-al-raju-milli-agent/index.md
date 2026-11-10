@@ -1,3 +1,11 @@
+---
+title: "Milli-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-abdullah-al-raju-milli-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Milli-Agent
 
 Milli-Agent is a real-time computer-use agent architecture designed for high-frequency in-memory screen capture and low-latency actuation.

@@ -1,3 +1,11 @@
+---
+title: "CUBE Standard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-the-ai-alliance-cube-standard/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # CUBE Standard
 
 A Python protocol for wrapping agent benchmarks behind shared Tool, Task, Benchmark, Observation and Action types, with optional browser sessions, VM backends and browser and desktop computer tools.

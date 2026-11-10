@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-4B-Thinking · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b5690e43822ef84015c5/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-4B-Thinking
 
 一个视觉语言模型检查点，其模型卡描述了面向电脑和移动设备界面的视觉智能体操作，包括元素识别和工具调用。

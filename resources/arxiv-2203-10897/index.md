@@ -1,3 +1,11 @@
+---
+title: "Unified Multivariate Gaussian Mixture for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-10897/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression
 
 Status: excluded from the active CUA catalog after scope review.

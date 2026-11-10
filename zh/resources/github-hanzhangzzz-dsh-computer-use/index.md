@@ -1,3 +1,11 @@
+---
+title: "hanzhangzzz dsh-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hanzhangzzz-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # hanzhangzzz dsh-computer-use
 
 面向 DeepSeek Harness 的结构优先型浏览器与桌面计算机使用插件。

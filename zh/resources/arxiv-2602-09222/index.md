@@ -1,3 +1,11 @@
+---
+title: "MUZZLE: Adaptive Agentic Red-Teaming of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-09222/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks
 
 MUZZLE 从网页智能体的执行轨迹中寻找注入位置，并根据执行反馈调整恶意指令，评估间接提示注入风险。
@@ -27,6 +35,18 @@ Georgios Syros, Evan Rose, Brian Grinstead, Christoph Kerschbaumer, William Robe
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-09222/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-09222/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09222,
+  title = {{MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks}},
+  author = {{Georgios Syros} and {Evan Rose} and {Brian Grinstead} and {Christoph Kerschbaumer} and {William Robertson} and {Cristina Nita-Rotaru} and {Alina Oprea}},
+  year = {2026},
+  eprint = {2602.09222v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09222v2},
+  note = {First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-06-14T21:10:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

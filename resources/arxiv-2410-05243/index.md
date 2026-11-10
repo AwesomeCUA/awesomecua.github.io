@@ -1,3 +1,11 @@
+---
+title: "Navigating the Digital World as Humans Do… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-05243/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents
 
 Introduces UGround, a visual target-localization model trained with large-scale synthetic references to elements in GUI screenshots.
@@ -26,6 +34,18 @@ Boyu Gou, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Su
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-05243/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-05243/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_05243,
+  title = {{Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents}},
+  author = {{Boyu Gou} and {Ruohan Wang} and {Boyuan Zheng} and {Yanan Xie} and {Cheng Chang} and {Yiheng Shu} and {Huan Sun} and {Yu Su}},
+  year = {2024},
+  eprint = {2410.05243v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.05243v3},
+  note = {First published: 2024-10-07; Recorded arXiv version: v3; Recorded version updated: 2025-06-17T15:06:02Z.}
+}
+```
 
 ## Publication record
 

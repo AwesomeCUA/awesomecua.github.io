@@ -1,3 +1,11 @@
+---
+title: "Active Desktop Context Engine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Active Desktop Context Engine
 
 Zero-cloud Windows OS perception layer and Model Context Protocol server streaming real-time desktop UI context to AI agents.

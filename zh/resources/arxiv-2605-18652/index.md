@@ -1,3 +1,11 @@
+---
+title: "MementoGUI: Learning Agentic Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-18652/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents
 
 MementoGUI 在固定 GUI 智能体骨干模型的条件下，学习选择、压缩和检索文本及区域级视觉记忆的控制器；还将计算机使用轨迹转为控制器训练数据，在长程任务中评估语义操作、进展和记忆一致性。
@@ -27,6 +35,18 @@ Ziyun Zeng, Hang Hua, Bocheng Zou, Mu Cai, Rogerio Feris, Jiebo Luo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-18652/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-18652/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_18652,
+  title = {{MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents}},
+  author = {{Ziyun Zeng} and {Hang Hua} and {Bocheng Zou} and {Mu Cai} and {Rogerio Feris} and {Jiebo Luo}},
+  year = {2026},
+  eprint = {2605.18652v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.18652v1},
+  note = {First published: 2026-05-18; Recorded arXiv version: v1; Recorded version updated: 2026-05-18T16:57:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

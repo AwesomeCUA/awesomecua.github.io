@@ -1,3 +1,11 @@
+---
+title: "Autodesk Claude Browser Test Skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-autodesk-claude-browser-test-skills/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Autodesk Claude Browser Test Skills
 
 Autodesk's Claude Code plugin providing an end-to-end browser test authoring, refinement, compilation, and execution pipeline over Playwright MCP.

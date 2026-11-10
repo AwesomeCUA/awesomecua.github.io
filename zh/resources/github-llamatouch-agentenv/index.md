@@ -1,3 +1,11 @@
+---
+title: "AgentEnv · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-llamatouch-agentenv/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # AgentEnv
 
 AgentEnv 连接智能体模型与 Android 设备或模拟器，转换操作指令、返回截图及界面层级，并记录交互过程。

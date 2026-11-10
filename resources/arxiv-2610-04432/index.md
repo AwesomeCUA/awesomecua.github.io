@@ -1,3 +1,11 @@
+---
+title: "Video2World: Benchmarking Coding Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04432/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos
 
 Bibliographic record for Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jinzhou Tang, Zijun Zhang, Jing Yang, Yuchen Yan, Kun Zhou, Lingjun Mao, Ruobing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04432/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04432/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04432,
+  title = {{Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos}},
+  author = {{Jinzhou Tang} and {Zijun Zhang} and {Jing Yang} and {Yuchen Yan} and {Kun Zhou} and {Lingjun Mao} and {Ruobing Han} and {Jinglin Cao} and {Wenpeng Xu} and {Lukun He} and {Minghao Fu} and {Fan Feng} and {Biwei Huang}},
+  year = {2026},
+  eprint = {2610.04432v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04432v3},
+  note = {First published: 2026-10-03; Recorded arXiv version: v3; Recorded version updated: 2026-10-09T05:21:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

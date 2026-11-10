@@ -1,3 +1,11 @@
+---
+title: "An In-depth Survey of Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-14365/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # An In-depth Survey of Large Language Model-based Artificial Intelligence Agents
 
 Bibliographic record for An In-depth Survey of Large Language Model-based Artificial Intelligence Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Pengyu Zhao, Zijian Jin, Ning Cheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-14365/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-14365/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_14365,
+  title = {{An In-depth Survey of Large Language Model-based Artificial Intelligence Agents}},
+  author = {{Pengyu Zhao} and {Zijian Jin} and {Ning Cheng}},
+  year = {2023},
+  eprint = {2309.14365v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.14365v1},
+  note = {First published: 2023-09-23; Recorded arXiv version: v1; Recorded version updated: 2023-09-23T11:25:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

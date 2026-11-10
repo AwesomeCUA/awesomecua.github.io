@@ -1,10 +1,17 @@
+---
+title: "Automation — computer-use research, page 8 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/8/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 8
 
 HTML page: https://awesomecua.com/topics/automation/page/8/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [BrowserCode](https://awesomecua.com/resources/github-browser-use-browsercode/)
 - [browserctl](https://awesomecua.com/resources/github-nguyenvanhuy0612-browserctl/)
 - [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/)
 - [Browserjack](https://awesomecua.com/resources/github-stickerdaniel-browserjack/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Chrome Faithful](https://awesomecua.com/resources/github-bpc-oss-chrome-faithful/)
 - [Chrome for AI](https://awesomecua.com/resources/github-pelag-michael-chrome-for-ai/)
 - [Chrome Launcher](https://awesomecua.com/resources/github-googlechrome-chrome-launcher/)
+- [Chrome Live MCP](https://awesomecua.com/resources/github-wankaiyi-chrome-live-mcp/)

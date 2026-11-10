@@ -1,3 +1,11 @@
+---
+title: "Enhancing Trustworthy GUI Grounding via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-27266/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning
 
 HyperClick trains GUI grounders to produce a click and an accompanying confidence estimate using rewards for correctness and confidence alignment. Its evaluation examines localization, calibration, and abstention behavior.
@@ -26,6 +34,18 @@ Shaojie Zhang, Pei Fu, Ruoceng Zhang, Jiahui Yang, Anan Du, Xiuwen Xi, Shaokang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-27266/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-27266/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_27266,
+  title = {{Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning}},
+  author = {{Shaojie Zhang} and {Pei Fu} and {Ruoceng Zhang} and {Jiahui Yang} and {Anan Du} and {Xiuwen Xi} and {Shaokang Wang} and {Ying Huang} and {Bin Qin} and {Zhenbo Luo} and {Jian Luan}},
+  year = {2025},
+  eprint = {2510.27266v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.27266v2},
+  note = {First published: 2025-10-31; Recorded arXiv version: v2; Recorded version updated: 2026-05-27T02:32:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

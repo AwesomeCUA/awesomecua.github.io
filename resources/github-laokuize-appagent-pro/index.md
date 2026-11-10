@@ -1,3 +1,11 @@
+---
+title: "AppAgent Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-laokuize-appagent-pro/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # AppAgent Pro
 
 Proactive Android agent built on AppAgent that uses GPT-4o to decide whether YouTube or Amazon content would help, operates those apps over ADB, and merges what it finds into its answer.

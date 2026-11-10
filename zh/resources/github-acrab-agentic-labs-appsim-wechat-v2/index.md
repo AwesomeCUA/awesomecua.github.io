@@ -1,3 +1,11 @@
+---
+title: "AutoWechat · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-wechat-v2/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # AutoWechat
 
 AppSim-Bench 套件中的模拟微信安卓应用，包含聊天列表、群聊、通讯录和朋友圈，数据来自本地 JSON 文件，用于 AI 自动化测试。

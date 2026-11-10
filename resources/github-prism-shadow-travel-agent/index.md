@@ -1,3 +1,11 @@
+---
+title: "Prism-Shadow Travel Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prism-shadow-travel-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Prism-Shadow Travel Agent
 
 Open-source travel planning browser agent that searches and compares flights and hotels across live booking websites.

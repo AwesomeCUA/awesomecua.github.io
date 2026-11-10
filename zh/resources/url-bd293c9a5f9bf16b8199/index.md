@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager-opt-1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bd293c9a5f9bf16b8199/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # OpenWebVoyager-opt-1
 
 OpenWebVoyager 在第一轮探索-反馈-优化之后的检查点：在模仿学习得到的多模态网页智能体基础上，继续用经 GPT-4o 判定成功的真实网站轨迹训练。

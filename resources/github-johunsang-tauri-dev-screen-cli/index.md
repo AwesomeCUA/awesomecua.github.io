@@ -1,3 +1,11 @@
+---
+title: "Tauri Dev Screen CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-johunsang-tauri-dev-screen-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Tauri Dev Screen CLI
 
 Node.js CLI for AI agents to inspect, screenshot, and control live Tauri desktop application windows during development.

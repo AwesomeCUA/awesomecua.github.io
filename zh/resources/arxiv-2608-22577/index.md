@@ -1,3 +1,11 @@
+---
+title: "CausalCache: Conditional High-Fidelity… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-22577/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents
 
 提出 CausalCache，在固定视觉记忆预算内选择归档截图，与文本摘要一同恢复；由受历史信息门控的适配器处理恢复的图像，并分别评估标准步数限制、较长任务流程及移动端迁移场景。
@@ -27,6 +35,18 @@ Jiaxuan Luo, Zhanfeng Liao, Jiayao Teng, Yuan Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-22577/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-22577/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_22577,
+  title = {{CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents}},
+  author = {{Jiaxuan Luo} and {Zhanfeng Liao} and {Jiayao Teng} and {Yuan Wang}},
+  year = {2026},
+  eprint = {2608.22577v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.22577v2},
+  note = {First published: 2026-08-23; Recorded arXiv version: v2; Recorded version updated: 2026-08-25T04:24:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

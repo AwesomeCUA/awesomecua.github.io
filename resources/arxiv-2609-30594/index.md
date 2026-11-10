@@ -1,3 +1,11 @@
+---
+title: "HuGo: LLMs as Whole-Body Policy Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-30594/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation
 
 Bibliographic record for HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Seoyeon Choi, Shizhao Ye, Nicholas Bui, Aayushi Shrivastava, Kanghyun Ryu, Dhruv
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-30594/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-30594/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_30594,
+  title = {{HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation}},
+  author = {{Seoyeon Choi} and {Shizhao Ye} and {Nicholas Bui} and {Aayushi Shrivastava} and {Kanghyun Ryu} and {Dhruva Tirumala} and {Markus Wulfmeier} and {Negar Mehr}},
+  year = {2026},
+  eprint = {2609.30594v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.30594v2},
+  note = {First published: 2026-09-24; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T23:44:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

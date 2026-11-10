@@ -1,3 +1,11 @@
+---
+title: "Co-Design Bench (huggingface.co/datasets/Wisel… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Co-Design Bench
 
 Co-Design Bench evaluates application revisions from multimodal requests using 96 editing tasks with annotated screenshots and 521 criteria checked against source and browser evidence.

@@ -1,3 +1,11 @@
+---
+title: "bb-sites | AwesomeCUA"
+url: https://awesomecua.com/resources/github-epiral-bb-sites/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # bb-sites
 
 A collection of JavaScript adapters that turn site searches, data retrieval and selected account actions into commands run through a logged-in browser.

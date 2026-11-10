@@ -1,3 +1,11 @@
+---
+title: "PAE LLaVA 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5d61c1b5fc8dd650518d/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # PAE LLaVA 7B
 
 PAE 自主任务提议与策略学习系统发布的 LLaVA 检查点，用于视觉浏览器交互。

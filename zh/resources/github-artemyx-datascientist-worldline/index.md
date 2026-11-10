@@ -1,3 +1,11 @@
+---
+title: "Worldline · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-artemyx-datascientist-worldline/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Worldline
 
 模块化、由用户控制的 AI 浏览器内核，用于结构化网页解析、导航和工作流自动化。

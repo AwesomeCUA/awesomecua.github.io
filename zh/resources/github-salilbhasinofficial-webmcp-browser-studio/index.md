@@ -1,3 +1,11 @@
+---
+title: "Bridge Studio (WebMCP Browser Studio) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-salilbhasinofficial-webmcp-browser-studio/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Bridge Studio (WebMCP Browser Studio)
 
 可见、由人管理的浏览器工作区，将实时网页工作流转换为可复用的 WebMCP 工具。

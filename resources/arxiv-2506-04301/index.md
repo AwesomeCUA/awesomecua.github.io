@@ -1,3 +1,11 @@
+---
+title: "The Cost of Dynamic Reasoning: Demystifying… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-04301/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective
 
 Bibliographic record for The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jiin Kim, Byeongjun Shin, Jinha Chung, Minsoo Rhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-04301/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-04301/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_04301,
+  title = {{The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective}},
+  author = {{Jiin Kim} and {Byeongjun Shin} and {Jinha Chung} and {Minsoo Rhu}},
+  year = {2025},
+  eprint = {2506.04301v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.04301v2},
+  note = {First published: 2025-06-04; Recorded arXiv version: v2; Recorded version updated: 2026-01-07T00:48:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

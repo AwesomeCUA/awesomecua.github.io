@@ -1,3 +1,11 @@
+---
+title: "Chrome Live MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wankaiyi-chrome-live-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome Live MCP
 
 Connects local stdio Model Context Protocol agents directly to an existing Chrome 144+ browser session.

@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_ground_iterative-13B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # lumos_unified_ground_iterative-13B
 
 A released Lumos grounding-module checkpoint fine-tuned on web-agent tasks alongside question answering, multimodal and math tasks.

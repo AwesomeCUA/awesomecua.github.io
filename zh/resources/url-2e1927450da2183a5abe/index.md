@@ -1,3 +1,11 @@
+---
+title: "UI-Genie trajectory data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2e1927450da2183a5abe/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UI-Genie trajectory data
 
 随 UI-Genie 智能体训练流程发布的合成移动端 GUI 轨迹监督数据和截图。

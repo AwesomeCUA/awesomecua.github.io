@@ -1,3 +1,11 @@
+---
+title: "Chart the Invisible: Interactive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-35237/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Chart the Invisible: Interactive Perception for Hidden-Target Exploration in GUI Agents
 
 提出可滚动区域感知模型 Hagasu，帮助 GUI 智能体判断应在何处滑动以显露隐藏目标，尤其面向移动设备界面。
@@ -27,6 +35,18 @@ Yongxiang Hu, Ruiyang Liu, Qining He, Xuan Wang, Yangfan Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-35237/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-35237/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35237,
+  title = {{Chart the Invisible: Interactive Perception for Hidden-Target Exploration in GUI Agents}},
+  author = {{Yongxiang Hu} and {Ruiyang Liu} and {Qining He} and {Xuan Wang} and {Yangfan Zhou}},
+  year = {2026},
+  eprint = {2610.35237v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35237v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T11:22:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

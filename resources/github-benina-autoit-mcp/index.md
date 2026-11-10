@@ -1,3 +1,11 @@
+---
+title: "autoit-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-benina-autoit-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # autoit-mcp
 
 Portable Windows GUI-automation Model Context Protocol server for Claude Code built on AutoIt.

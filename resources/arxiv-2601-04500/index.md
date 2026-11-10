@@ -1,3 +1,11 @@
+---
+title: "GUITester: Enabling GUI Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-04500/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUITester: Enabling GUI Agents for Exploratory Defect Discovery
 
 Introduces GUITestBench for interactive defect discovery and GUITester, which separates task navigation from anomaly verification. Testing-oriented plans and history-based reflection help distinguish software defects from agent execution mistakes.
@@ -26,6 +34,18 @@ Yifei Gao, Jiang Wu, Xiaoyi Chen, Yifan Yang, Zhe Cui, Tianyi Ma, Jiaming Zhang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-04500/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-04500/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_04500,
+  title = {{GUITester: Enabling GUI Agents for Exploratory Defect Discovery}},
+  author = {{Yifei Gao} and {Jiang Wu} and {Xiaoyi Chen} and {Yifan Yang} and {Zhe Cui} and {Tianyi Ma} and {Jiaming Zhang} and {Jitao Sang}},
+  year = {2026},
+  eprint = {2601.04500v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.04500v1},
+  note = {First published: 2026-01-08; Recorded arXiv version: v1; Recorded version updated: 2026-01-08T02:07:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

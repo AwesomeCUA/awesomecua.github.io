@@ -1,3 +1,11 @@
+---
+title: "FlashAdventure · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahnjaewoo-flashadventure/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # FlashAdventure
 
 FlashAdventure 通过 34 款需要长期记忆的 Flash 点击式冒险游戏，评测 GUI 智能体完成完整故事情节的能力。

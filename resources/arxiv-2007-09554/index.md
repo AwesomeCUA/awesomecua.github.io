@@ -1,3 +1,11 @@
+---
+title: "Referring Expression Comprehension: A Survey… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2007-09554/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Referring Expression Comprehension: A Survey of Methods and Datasets
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Model Context Protocol (MCP): Landscape… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-23278/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
 
 Bibliographic record for Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinyi Hou, Yanjie Zhao, Shenao Wang, Haoyu Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-23278/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-23278/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_23278,
+  title = {{Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions}},
+  author = {{Xinyi Hou} and {Yanjie Zhao} and {Shenao Wang} and {Haoyu Wang}},
+  year = {2025},
+  eprint = {2503.23278v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.23278v3},
+  note = {First published: 2025-03-30; Recorded arXiv version: v3; Recorded version updated: 2025-10-07T07:13:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

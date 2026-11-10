@@ -1,3 +1,11 @@
+---
+title: "Halluminate Westworld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-halluminate-westworld/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Halluminate Westworld
 
 Halluminate Westworld 使用设于仿真网站的任务评估网页智能体，并提供任务加载、手动演示和评测接口。

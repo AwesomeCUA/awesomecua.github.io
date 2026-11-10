@@ -1,3 +1,11 @@
+---
+title: "Understudy · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-understudy-ai-understudy/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Understudy
 
 Understudy 观察人类在桌面和浏览器中的操作演示，并将其编译为可参数化、可重放的计算机使用技能。

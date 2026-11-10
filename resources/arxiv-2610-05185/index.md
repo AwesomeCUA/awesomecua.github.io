@@ -1,3 +1,11 @@
+---
+title: "Recurrent Latent Visual Search for GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-05185/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Recurrent Latent Visual Search for GUI Grounding
 
 Introduces ReLaViS, which performs recurrent visual search inside a grounding model by repeatedly querying screenshot tokens and feeding the resulting spatial evidence back into the model. Coarse-to-fine supervision is constructed from existing interface-element annotations.
@@ -26,6 +34,18 @@ Kaiyu Wu, Beichen Zheng, Weiyao Huang, Keze Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-05185/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-05185/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05185,
+  title = {{Recurrent Latent Visual Search for GUI Grounding}},
+  author = {{Kaiyu Wu} and {Beichen Zheng} and {Weiyao Huang} and {Keze Wang}},
+  year = {2026},
+  eprint = {2610.05185v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05185v1},
+  note = {First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T12:49:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

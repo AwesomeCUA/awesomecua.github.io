@@ -1,3 +1,11 @@
+---
+title: "glassbox · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yoyicue-glassbox/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # glassbox
 
 glassbox 是 iOS 和 iPadOS 计算机使用运行时，依据屏幕观察结果，通过硬件及桥接控制来操作实体 iPhone 和 iPad。

@@ -1,3 +1,11 @@
+---
+title: "RecreationBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d9d8e68f19ef0956d189/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # RecreationBench
 
 Tasks for recreating reference applications with hybrid computer interaction.

@@ -1,3 +1,11 @@
+---
+title: "AgentVigil: Generic Black-Box… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-05849/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents
 
 提出黑箱模糊测试框架 AgentVigil，用于发现针对 LLM 智能体的间接提示注入，包括诱导其跳转网页的攻击。
@@ -27,6 +35,18 @@ Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chengua
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-05849/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-05849/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_05849,
+  title = {{AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents}},
+  author = {{Zhun Wang} and {Vincent Siu} and {Zhe Ye} and {Tianneng Shi} and {Yuzhou Nie} and {Xuandong Zhao} and {Chenguang Wang} and {Wenbo Guo} and {Dawn Song}},
+  year = {2025},
+  eprint = {2505.05849v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.05849v4},
+  note = {First published: 2025-05-09; Recorded arXiv version: v4; Recorded version updated: 2025-06-14T01:50:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

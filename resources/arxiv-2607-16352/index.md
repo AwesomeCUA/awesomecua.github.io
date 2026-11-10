@@ -1,3 +1,11 @@
+---
+title: "Clarify Before Executing: A Self-Evolving… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-16352/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Clarify Before Executing: A Self-Evolving Agent for Resolving Intent Asymmetry in 3D Tool Orchestration
 
 Status: excluded from the active CUA catalog after scope review.

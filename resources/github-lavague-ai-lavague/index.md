@@ -1,3 +1,11 @@
+---
+title: "LaVague | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lavague-ai-lavague/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # LaVague
 
 Open-source web agent framework where a World Model turns an objective and the current page into instructions and an Action Engine compiles them into Selenium or Playwright code to run.

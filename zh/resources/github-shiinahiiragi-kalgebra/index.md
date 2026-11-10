@@ -1,3 +1,11 @@
+---
+title: "kalgebra-kai · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shiinahiiragi-kalgebra/
+updated: 2026-10-18
+type: infrastructure
+lang: zh-CN
+---
+
 # kalgebra-kai
 
 ScienceBoard 改造的 KAlgebra 版本，内置本地 HTTP 服务器，可报告变量与已绘制的 2D、3D 函数，也可切换标签页或添加计算和绘图，供基准检查数学任务。

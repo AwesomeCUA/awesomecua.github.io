@@ -1,3 +1,11 @@
+---
+title: "Nut.js · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nut-tree-nut-js/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # Nut.js
 
 用于键盘、鼠标和屏幕交互的桌面自动化库。

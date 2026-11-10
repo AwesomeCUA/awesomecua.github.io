@@ -1,3 +1,11 @@
+---
+title: "SMAN-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # SMAN-Bench
 
 Evaluation code for SMAN-Bench (Mobile-Bench-v2): AppAgent and Mobile-Agent-v2 runners replay recorded Android pages for single-path, multi-path, noisy and ambiguous tasks, scored by step and task success.

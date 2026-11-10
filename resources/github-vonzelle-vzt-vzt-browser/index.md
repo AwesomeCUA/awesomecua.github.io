@@ -1,3 +1,11 @@
+---
+title: "VZT-Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vonzelle-vzt-vzt-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # VZT-Browser
 
 Browser agent exposing MCP, CLI, and REPL interfaces over a real logged-in browser with macOS Keychain credential integration.

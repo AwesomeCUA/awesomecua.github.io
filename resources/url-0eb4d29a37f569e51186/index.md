@@ -1,3 +1,11 @@
+---
+title: "Towards LLMCI - Multimodal AI for LLM-Vision… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0eb4d29a37f569e51186/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Towards LLMCI - Multimodal AI for LLM-Vision UI Operation
 
 Bibliographic record for Towards LLMCI - Multimodal AI for LLM-Vision UI Operation. Title, authors and dates checked against retained publication sources; relevance and findings await editorial review.
@@ -26,6 +34,19 @@ Husam Barham, Mohammed Fasha
 
 - BibTeX: https://awesomecua.com/resources/url-0eb4d29a37f569e51186/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-0eb4d29a37f569e51186/citation.csl.json
+
+```bibtex
+@misc{cua_d196f528f656d445e753ab68,
+  title = {{Towards LLMCI - Multimodal AI for LLM-Vision UI Operation}},
+  author = {{Husam Barham} and {Mohammed Fasha}},
+  year = {2024},
+  month = jul,
+  publisher = {Springer Science and Business Media LLC},
+  doi = {10.21203/rs.3.rs-4653823/v1},
+  url = {https://www.researchsquare.com/article/rs-4653823/v1},
+  note = {Publication date: 2024-07-22.}
+}
+```
 
 ## Publication record
 

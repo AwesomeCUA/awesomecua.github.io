@@ -1,3 +1,11 @@
+---
+title: "ANCHOR: Automated Alignment Auditing for CLI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-10455/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm
 
 Bibliographic record for ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kefan Song, Yanjun Qi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-10455/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-10455/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_10455,
+  title = {{ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm}},
+  author = {{Kefan Song} and {Yanjun Qi}},
+  year = {2026},
+  eprint = {2607.10455v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.10455v1},
+  note = {First published: 2026-07-11; Recorded arXiv version: v1; Recorded version updated: 2026-07-11T19:39:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

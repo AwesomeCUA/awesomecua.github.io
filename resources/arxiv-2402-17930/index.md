@@ -1,3 +1,11 @@
+---
+title: "Pragmatic Instruction Following and Goal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-17930/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Pragmatic Instruction Following and Goal Assistance via Cooperative Language-Guided Inverse Planning
 
 Status: excluded from the active CUA catalog after scope review.

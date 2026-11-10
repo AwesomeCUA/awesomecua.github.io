@@ -1,3 +1,11 @@
+---
+title: "AsyncVoice Agent: Real-Time Explanation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-16156/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AsyncVoice Agent: Real-Time Explanation for LLM Planning and Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "duvo-eye-1-evals | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dfcb24f23a03e58316cf/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # duvo-eye-1-evals
 
 Dataset of per-sample GUI grounding predictions and reference points for public benchmarks, accompanied by a script for rescoring model outputs.

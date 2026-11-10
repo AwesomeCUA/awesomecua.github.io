@@ -1,3 +1,11 @@
+---
+title: "Aria-UI Context-aware Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-07b65dc937756ddff4a1/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # Aria-UI Context-aware Data
 
 随 Aria-UI 发布的按交互片段组织的移动端 GUI 定位数据，用于在目标定位中纳入交互历史。

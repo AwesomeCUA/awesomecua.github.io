@@ -1,3 +1,11 @@
+---
+title: "AFRAgent : An Adaptive Feature… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-00846/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent
 
 AFRAgent 通过自适应特征重归一化结合低分辨率视觉嵌入与高分辨率细节，并在 Meta-GUI 和 AITW 上评估其智能手机 GUI 自动化能力。
@@ -27,6 +35,18 @@ Neeraj Anand, Rishabh Jain, Sohan Patnaik, Balaji Krishnamurthy, Mausoom Sarkar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-00846/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-00846/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_00846,
+  title = {{AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent}},
+  author = {{Neeraj Anand} and {Rishabh Jain} and {Sohan Patnaik} and {Balaji Krishnamurthy} and {Mausoom Sarkar}},
+  year = {2025},
+  eprint = {2512.00846v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.00846v2},
+  note = {First published: 2025-11-30; Recorded arXiv version: v2; Recorded version updated: 2025-12-11T18:16:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

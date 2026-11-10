@@ -1,3 +1,11 @@
+---
+title: "Workday HCM Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-workday-hcm-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Workday HCM Browser Automation
 
 A browser automation scaffold for Workday HCM that uses Puppeteer or Anchor Browser to run HR and payroll workflows through the application interface.

@@ -1,3 +1,11 @@
+---
+title: "On the Multi-turn Instruction Following for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-15057/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # On the Multi-turn Instruction Following for Conversational Web Agents
 
 MT-Mind2Web evaluates web navigation through sequences of conversational user instructions. Self-MAP combines memory-augmented planning with reflection to preserve context and dependencies across those interaction turns.
@@ -26,6 +34,18 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-15057/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-15057/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_15057,
+  title = {{On the Multi-turn Instruction Following for Conversational Web Agents}},
+  author = {{Yang Deng} and {Xuan Zhang} and {Wenxuan Zhang} and {Yifei Yuan} and {See-Kiong Ng} and {Tat-Seng Chua}},
+  year = {2024},
+  eprint = {2402.15057v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.15057v1},
+  note = {First published: 2024-02-23; Recorded arXiv version: v1; Recorded version updated: 2024-02-23T02:18:12Z.}
+}
+```
 
 ## Publication record
 

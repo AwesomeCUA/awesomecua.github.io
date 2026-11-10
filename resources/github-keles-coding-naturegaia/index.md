@@ -1,3 +1,11 @@
+---
+title: "NaturalGAIA & LightManus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-keles-coding-naturegaia/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # NaturalGAIA & LightManus
 
 NaturalGAIA and LightManus provide a hierarchical multi-agent framework with browser automation, code execution, and episodic memory.

@@ -1,3 +1,11 @@
+---
+title: "Are GUI Agents Focused Enough? Automated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-07831/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection
 
 This study tests black-box GUI-grounding failures caused by strategically added, innocuous-looking UI elements. Its iterative overlay search is compared with random injection and repeated independent grounding trials to distinguish persistent misdirection from incidental clutter.
@@ -26,6 +34,18 @@ Wenkui Yang, Chao Jin, Haisu Zhu, Weilin Luo, Derek Yuen, Kun Shao, Junxian Duan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-07831/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-07831/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_07831,
+  title = {{Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection}},
+  author = {{Wenkui Yang} and {Chao Jin} and {Haisu Zhu} and {Weilin Luo} and {Derek Yuen} and {Kun Shao} and {Junxian Duan} and {Huaibo Huang} and {Jie Cao} and {Ran He}},
+  year = {2026},
+  eprint = {2604.07831v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.07831v2},
+  note = {First published: 2026-04-09; Recorded arXiv version: v2; Recorded version updated: 2026-07-08T02:39:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

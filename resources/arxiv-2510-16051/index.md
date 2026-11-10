@@ -1,3 +1,11 @@
+---
+title: "GUIrilla: A Scalable Framework for Automated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-16051/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUIrilla: A Scalable Framework for Automated Desktop UI Exploration
 
 GUIrilla systematically explores macOS interfaces to collect interaction traces and accessibility metadata for downstream GUI research. It organizes these observations into hierarchical MacApp Trees and describes an accessibility-driven collection library.
@@ -26,6 +34,18 @@ Sofiya Garkot, Maksym Shamrai, Ivan Synytsia, Mariya Hirna
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-16051/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-16051/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_16051,
+  title = {{GUIrilla: A Scalable Framework for Automated Desktop UI Exploration}},
+  author = {{Sofiya Garkot} and {Maksym Shamrai} and {Ivan Synytsia} and {Mariya Hirna}},
+  year = {2025},
+  eprint = {2510.16051v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.16051v2},
+  note = {First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-03-24T14:39:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

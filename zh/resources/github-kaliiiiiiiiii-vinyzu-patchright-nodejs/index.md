@@ -1,3 +1,11 @@
+---
+title: "Patchright NodeJS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Patchright NodeJS
 
 Patchright NodeJS 是 Patchright 的 Node.js 包：Patchright 是经过修补的 Playwright，通过标准 JavaScript API 驱动 Chromium，并去除了自动化特征泄露。

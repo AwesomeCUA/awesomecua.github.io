@@ -1,3 +1,11 @@
+---
+title: "Impatient Users Confuse AI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-04491/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Impatient Users Confuse AI Agents: High-fidelity Simulations of Human Traits for Testing Agents
 
 Bibliographic record for Impatient Users Confuse AI Agents: High-fidelity Simulations of Human Traits for Testing Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Muyu He, Anand Kumar, Tsach Mackey, Meghana Rajeev, James Zou, Nazneen Rajani
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-04491/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-04491/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04491,
+  title = {{Impatient Users Confuse AI Agents: High-fidelity Simulations of Human Traits for Testing Agents}},
+  author = {{Muyu He} and {Anand Kumar} and {Tsach Mackey} and {Meghana Rajeev} and {James Zou} and {Nazneen Rajani}},
+  year = {2025},
+  eprint = {2510.04491v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04491v3},
+  note = {First published: 2025-10-06; Recorded arXiv version: v3; Recorded version updated: 2026-06-08T20:35:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "PRBench: End-to-end Paper Reproduction in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-27646/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PRBench: End-to-end Paper Reproduction in Physics Research
 
 Status: excluded from the active CUA catalog after scope review.

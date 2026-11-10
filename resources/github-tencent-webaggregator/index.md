@@ -1,3 +1,11 @@
+---
+title: "WebAggregator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencent-webaggregator/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # WebAggregator
 
 WebAggregator is the code for Explore to Evolve: it builds verifiable web QA data by agent exploration of URLs, samples trajectories with a smolagents agent that clicks and types in a browser, and runs evaluation.

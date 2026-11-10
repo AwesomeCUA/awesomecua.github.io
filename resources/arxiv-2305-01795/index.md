@@ -1,3 +1,11 @@
+---
+title: "Multimodal Procedural Planning via Dual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-01795/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Multimodal Procedural Planning via Dual Text-Image Prompting
 
 Bibliographic record for Multimodal Procedural Planning via Dual Text-Image Prompting. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yujie Lu, Pan Lu, Zhiyu Chen, Wanrong Zhu, Xin Eric Wang, William Yang Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-01795/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-01795/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_01795,
+  title = {{Multimodal Procedural Planning via Dual Text-Image Prompting}},
+  author = {{Yujie Lu} and {Pan Lu} and {Zhiyu Chen} and {Wanrong Zhu} and {Xin Eric Wang} and {William Yang Wang}},
+  year = {2023},
+  eprint = {2305.01795v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.01795v1},
+  note = {First published: 2023-05-02; Recorded arXiv version: v1; Recorded version updated: 2023-05-02T21:46:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

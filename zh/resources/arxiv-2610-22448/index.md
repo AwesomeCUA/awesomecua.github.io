@@ -1,3 +1,11 @@
+---
+title: "Lean4AgenticRL: Advancing Agentic RL… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-22448/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards
 
 Lean4AgenticRL 将工作流阶段与过程奖励形式化，用于软件工程及终端操作任务的强化学习；这些任务与界面操作智能体相邻。
@@ -27,6 +35,18 @@ Ruida Wang, Gerald Friedland, Tong Zhang, Chris Kong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-22448/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-22448/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22448,
+  title = {{Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards}},
+  author = {{Ruida Wang} and {Gerald Friedland} and {Tong Zhang} and {Chris Kong}},
+  year = {2026},
+  eprint = {2610.22448v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22448v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T15:26:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

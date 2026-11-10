@@ -1,3 +1,11 @@
+---
+title: "BrowseSafe: Understanding and Preventing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-20597/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents
 
 BrowseSafe builds a benchmark of prompt injections in realistic HTML for browser agents and evaluates defenses against attacks that can affect agent actions.
@@ -26,6 +34,18 @@ Kaiyuan Zhang, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-20597/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-20597/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_20597,
+  title = {{BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents}},
+  author = {{Kaiyuan Zhang} and {Mark Tenenholtz} and {Kyle Polley} and {Jerry Ma} and {Denis Yarats} and {Ninghui Li}},
+  year = {2025},
+  eprint = {2511.20597v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.20597v2},
+  note = {First published: 2025-11-25; Recorded arXiv version: v2; Recorded version updated: 2026-08-12T00:08:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

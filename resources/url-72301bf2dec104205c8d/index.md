@@ -1,3 +1,11 @@
+---
+title: "pae-data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-72301bf2dec104205c8d/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # pae-data
 
 pae-data releases data associated with PAE research on internet agents, including task files for WebArena and WebVoyager and model checkpoint files.

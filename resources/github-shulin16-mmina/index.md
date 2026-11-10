@@ -1,3 +1,11 @@
+---
+title: "MMInA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shulin16-mmina/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # MMInA
 
 Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hops across sites such as a shopping store and Wikipedia, testing long-chain reasoning.

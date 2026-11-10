@@ -1,3 +1,11 @@
+---
+title: "Hybrid Computer Use: A Unified Programmatic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-41432/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents
 
 Introduces Hybrid Computer Use (HCU), a desktop agent interface combining code, accessibility data, and GUI actions, with AX diffs reporting action effects.
@@ -26,6 +34,18 @@ Haoqing Wang, Xiaoyi Zhang, Sicheng Fan, Zhexin Zhang, Xinjie Zhang, Jiahao Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-41432/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-41432/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_41432,
+  title = {{Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents}},
+  author = {{Haoqing Wang} and {Xiaoyi Zhang} and {Sicheng Fan} and {Zhexin Zhang} and {Xinjie Zhang} and {Jiahao Li} and {Bin Li} and {Yan Lu}},
+  year = {2026},
+  eprint = {2610.41432v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.41432v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T08:38:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

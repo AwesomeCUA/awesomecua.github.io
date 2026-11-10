@@ -1,3 +1,11 @@
+---
+title: "Collection of WebMCP tools · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-googlechromelabs-webmcp-tools/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Collection of WebMCP tools
 
 这是一组 WebMCP 工具和演示，用于向 AI 智能体开放网站操作、检查这些工具，并评测智能体的工具调用。

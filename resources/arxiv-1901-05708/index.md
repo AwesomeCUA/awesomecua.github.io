@@ -1,3 +1,11 @@
+---
+title: "Efficient Matrix Profile Computation Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1901-05708/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Matrix Profile Computation Using Different Distance Functions
 
 Status: excluded from the active CUA catalog after scope review.

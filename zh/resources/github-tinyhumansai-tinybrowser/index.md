@@ -1,3 +1,11 @@
+---
+title: "tinybrowser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinyhumansai-tinybrowser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # tinybrowser
 
 适用于 Rust 的智能体浏览器 API 和 TinyBus 模块，用于管理无头及有界面的网页会话。

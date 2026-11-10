@@ -1,3 +1,11 @@
+---
+title: "Meta-Llama-3.1-8B-Instruct-WM-webarena-16… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-58195ef097be91525554/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter
 
 WMA 网页智能体项目发布的 Llama 3.1 8B Instruct 世界模型 PEFT 适配器，训练其描述动作引起的状态变化，帮助智能体在 WebArena 上选择动作。

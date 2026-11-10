@@ -1,3 +1,11 @@
+---
+title: "UI-Venus-2 Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-00028/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # UI-Venus-2 Technical Report
 
 Describes a GUI foundation agent trained through expanded environments, function-grounded tasks, and trajectory verification with safety-aware execution mechanisms.
@@ -26,6 +34,18 @@ Venus Team, Zhuohan Cai, Haoxing Chen, Jiaxuan Chen, Weizhi Chen, Changlong Gao,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-00028/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-00028/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_00028,
+  title = {{UI-Venus-2 Technical Report}},
+  author = {{Venus Team} and {Zhuohan Cai} and {Haoxing Chen} and {Jiaxuan Chen} and {Weizhi Chen} and {Changlong Gao} and {Zhangxuan Gu} and {Yuan Guo} and {Yusong Hu} and {Jianrong Jiang} and {Jianguo Li} and {Runze Li} and {Jinzhen Lin} and {Zhenyu Ma} and {Changhua Meng} and {Han Peng} and {Xinyu Qiu} and {Shuheng Shen} and {Zhongyi Shui} and {Weiqiang Wang} and {Ming Wen} and {Zhuoer Xu} and {Hang Yan} and {Kaiwen Yang} and {Ruilin Yao} and {Nanjun Yu} and {Zhengwen Zeng} and {Lianrui Zhang} and {Yunzhu Zhang} and {Zhe Zhao} and {Beitong Zhou}},
+  year = {2026},
+  eprint = {2609.00028v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.00028v1},
+  note = {First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T17:15:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

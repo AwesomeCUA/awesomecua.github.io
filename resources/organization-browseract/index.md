@@ -1,3 +1,11 @@
+---
+title: "BrowserAct (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-browseract/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # BrowserAct
 
 Publisher or product brand associated with BrowserAct computer-use or browser automation offerings.

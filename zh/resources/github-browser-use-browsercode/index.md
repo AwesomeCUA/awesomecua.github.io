@@ -1,3 +1,11 @@
+---
+title: "BrowserCode · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-browsercode/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # BrowserCode
 
 BrowserCode 是一个通过编写 JavaScript、借助开发者工具协议控制 Chrome 的浏览器智能体。它可以使用本地标签页、独立浏览器配置文件或云端浏览器，并保存可复用的脚本。

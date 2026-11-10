@@ -1,3 +1,11 @@
+---
+title: "Automation MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ashwwwin-automation-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Automation MCP
 
 Automation MCP 是 macOS Model Context Protocol 服务器，为 AI 智能体提供鼠标、键盘、窗口和屏幕捕获工具。

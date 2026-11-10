@@ -1,3 +1,11 @@
+---
+title: "InSTA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-data-for-agents-insta/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # InSTA
 
 Code for a web-agent training pipeline that generates website tasks, collects browser trajectories and filters them by judged success. It also serves an agent in a virtual browser.

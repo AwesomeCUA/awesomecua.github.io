@@ -1,3 +1,11 @@
+---
+title: "ScreenRef Annotations | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c1db2ba79e6d6a3db2b9/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # ScreenRef Annotations
 
 Annotation files, task recipes, and image manifests for ScreenRef; screenshots reside in the separately gated image repository.

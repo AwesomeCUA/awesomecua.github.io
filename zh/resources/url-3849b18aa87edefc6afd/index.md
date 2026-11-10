@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3849b18aa87edefc6afd/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # OpenMobile-Data
 
 OpenMobile 合成的 Android 智能体数据，包括由 AndroidWorld 运行轨迹生成的四个 LLaMA-Factory SFT 划分文件，以及原始轨迹和截图归档。

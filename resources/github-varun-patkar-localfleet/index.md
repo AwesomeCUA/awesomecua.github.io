@@ -1,3 +1,11 @@
+---
+title: "LocalFleet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-varun-patkar-localfleet/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # LocalFleet
 
 Local-first team of AI desktop and browser bots coordinated through a unified chat interface with LM Studio/Ollama.

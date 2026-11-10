@@ -1,11 +1,17 @@
+---
+title: "计算机使用智能体框架（第 6 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/framework/page/6/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体框架：第 6 页
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English](https://awesomecua.com/categories/framework/page/6/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
-- [PageRunner](https://awesomecua.com/zh/resources/github-say-5-pagerunner/)：PageRunner 是浏览器智能体编排平台，提供有界执行循环、确定性重放和标准轨迹验证。
-- [Paragent](https://awesomecua.com/zh/resources/github-myselfsiddharth-paragent/)：有状态的浏览器执行层，只需记录一次智能体任务，即可在无需调用 LLM 的情况下重放，并在选择器变化时自行修复。
 - [PatchBridge Agent](https://awesomecua.com/zh/resources/github-hanhan666666-patchbridge-agent/)：轻量级浏览器内 AI 智能体框架，为旧版企业网页门户添加自然语言自动化能力。
 - [Peerframe OpenBot](https://awesomecua.com/zh/resources/github-peerframe-openbot/)：自托管的跨平台控制平台，用于管理具备浏览器和桌面能力的常驻数字员工。
 - [perceive](https://awesomecua.com/zh/resources/github-gauthierpiarrette-perceive/)：perceive 是面向浏览器智能体的感知层，通过可达性筛选剔除不可交互或被遮挡的 DOM 元素。
@@ -104,3 +110,5 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English
 - [TankWork](https://awesomecua.com/zh/resources/github-agenttankos-tankwork/)：TankWork 是结合 OmniParser 视觉定位、OCR 和 PyAutoGUI 动作执行的桌面智能体框架。
 - [taproot](https://awesomecua.com/zh/resources/github-shivampkumar-taproot/)：taproot 是开源移动端 GUI 智能体测试框架，在 AndroidWorld 上结合视觉语言模型与无障碍树定位。
 - [taskforge](https://awesomecua.com/zh/resources/github-huzjie-taskforge/)：taskforge 是长时程工作流编排引擎，结合多步骤规划、工具调用和 GUI 状态验证。
+- [TestDriver SDK](https://awesomecua.com/zh/resources/github-testdriverai-testdriverai/)：Vitest 插件，可创建临时设备，并使用基于视觉的 LLM 构建网页应用、桌面应用和浏览器扩展的端到端测试。
+- [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)：面向 Claude Code 的自托管浏览器使用引擎，通过操控真实浏览器操作缺少 API 的网页应用。

@@ -1,3 +1,11 @@
+---
+title: "ClawTouch MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ClawTouch MCP
 
 Model Context Protocol server that turns a Raspberry Pi Pico 2 into a hardware USB-HID keyboard and mouse for AI computer-use agents.

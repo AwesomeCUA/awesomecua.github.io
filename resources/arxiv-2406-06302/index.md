@@ -1,3 +1,11 @@
+---
+title: "Unveiling the Safety of GPT-4o: An Empirical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-06302/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks
 
 Bibliographic record for Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zonghao Ying, Aishan Liu, Xianglong Liu, Dacheng Tao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-06302/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-06302/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_06302,
+  title = {{Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks}},
+  author = {{Zonghao Ying} and {Aishan Liu} and {Xianglong Liu} and {Dacheng Tao}},
+  year = {2024},
+  eprint = {2406.06302v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.06302v2},
+  note = {First published: 2024-06-10; Recorded arXiv version: v2; Recorded version updated: 2024-07-03T00:51:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

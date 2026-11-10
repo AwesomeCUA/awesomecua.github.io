@@ -1,3 +1,11 @@
+---
+title: "Learning Simple Test-Time Environments… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-29305/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learning Simple Test-Time Environments for LLM Web Agents
 
 Test-Time Environment Decomposition 通过试探性交互将复杂网页观测拆分为较简单的模块；一种无需标签的适应方法从这些子环境学习，并研究所得收益能否组合用于完整网页任务。
@@ -27,6 +35,18 @@ Junxuan Li, Zijun Liu, Ziyi Huang, Peng Li, Yuzhou Liu, Ming Yan, Yang Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-29305/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-29305/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_29305,
+  title = {{Learning Simple Test-Time Environments for LLM Web Agents}},
+  author = {{Junxuan Li} and {Zijun Liu} and {Ziyi Huang} and {Peng Li} and {Yuzhou Liu} and {Ming Yan} and {Yang Liu}},
+  year = {2026},
+  eprint = {2608.29305v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.29305v1},
+  note = {First published: 2026-08-29; Recorded arXiv version: v1; Recorded version updated: 2026-08-29T14:45:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

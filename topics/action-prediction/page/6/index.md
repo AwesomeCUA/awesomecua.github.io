@@ -1,10 +1,17 @@
+---
+title: "Action prediction — computer-use…, page 6 | AwesomeCUA"
+url: https://awesomecua.com/topics/action-prediction/page/6/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Action prediction — computer-use research, page 6
 
 HTML page: https://awesomecua.com/topics/action-prediction/page/6/
 
 Full list: https://awesomecua.com/topics/action-prediction/index.md
 
-- [Smol2Operator](https://awesomecua.com/resources/github-huggingface-smol2operator/)
 - [System1-Agents](https://awesomecua.com/resources/github-thinkflowlab-system1-agents/)
 - [tinycomputer](https://awesomecua.com/resources/github-tinyhumansai-tinycomputer/)
 - [ToolGen](https://awesomecua.com/resources/github-reason-wang-toolgen/)

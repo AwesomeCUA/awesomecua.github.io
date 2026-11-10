@@ -1,3 +1,11 @@
+---
+title: "BrowserAct · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7ae2670859e3796e8607/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # BrowserAct
 
 BrowserAct 是托管式网页抓取平台，提供可复用的浏览器交互工作流程。

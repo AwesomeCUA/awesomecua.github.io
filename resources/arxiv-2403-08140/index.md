@@ -1,3 +1,11 @@
+---
+title: "BAGEL: Bootstrapping Agents by Guiding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-08140/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # BAGEL: Bootstrapping Agents by Guiding Exploration with Language
 
 Bibliographic record for BAGEL: Bootstrapping Agents by Guiding Exploration with Language. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shikhar Murty, Christopher Manning, Peter Shaw, Mandar Joshi, Kenton Lee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-08140/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-08140/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_08140,
+  title = {{BAGEL: Bootstrapping Agents by Guiding Exploration with Language}},
+  author = {{Shikhar Murty} and {Christopher Manning} and {Peter Shaw} and {Mandar Joshi} and {Kenton Lee}},
+  year = {2024},
+  eprint = {2403.08140v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.08140v2},
+  note = {First published: 2024-03-12; Recorded arXiv version: v2; Recorded version updated: 2024-06-09T01:12:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

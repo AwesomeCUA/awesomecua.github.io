@@ -1,3 +1,11 @@
+---
+title: "CaptchaArena-Trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-52067b3e48e9381e4c66/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # CaptchaArena-Trajectories
 
 在 20 类交互式验证码上的思维链计算机使用轨迹：共 46,000 条浏览器执行记录，含每步截图与点击、拖拽、长按或输入动作，仅保留通过页面验证器检查的轨迹。

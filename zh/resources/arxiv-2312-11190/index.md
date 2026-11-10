@@ -1,3 +1,11 @@
+---
+title: "VisionTasker: Mobile Task Automation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2312-11190/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning
 
 VisionTasker 将截图转为 UI 的文本解释，每次向 LLM 规划器呈现 1 个界面以选择动作；研究评估视觉表示以及在 Android 手机上执行 147 项任务的情况，其中包括与示教编程的结合。
@@ -27,6 +35,18 @@ Yunpeng Song, Yiheng Bian, Yongtao Tang, Guiyu Ma, Zhongmin Cai
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2312-11190/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2312-11190/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_11190,
+  title = {{VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning}},
+  author = {{Yunpeng Song} and {Yiheng Bian} and {Yongtao Tang} and {Guiyu Ma} and {Zhongmin Cai}},
+  year = {2023},
+  eprint = {2312.11190v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.11190v2},
+  note = {First published: 2023-12-18; Recorded arXiv version: v2; Recorded version updated: 2024-07-29T14:52:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

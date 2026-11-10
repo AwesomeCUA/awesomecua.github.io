@@ -1,3 +1,11 @@
+---
+title: "browse-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-that1drifter-browse-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browse-mcp
 
 面向 Claude、Codex、Gemini CLI 和 Cursor 的无头浏览器 Model Context Protocol 服务器。

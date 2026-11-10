@@ -1,3 +1,11 @@
+---
+title: "AIPex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aipexstudio-aipex/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AIPex
 
 AIPex is a privacy-first Chrome browser automation agent that operates tabs, DOM elements, and user sessions via CDP and MCP.

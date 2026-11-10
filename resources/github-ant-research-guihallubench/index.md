@@ -1,3 +1,11 @@
+---
+title: "GUIHalluBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ant-research-guihallubench/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # GUIHalluBench
 
 Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.

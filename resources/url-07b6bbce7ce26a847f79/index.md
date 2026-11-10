@@ -1,3 +1,11 @@
+---
+title: "Claude for Chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/url-07b6bbce7ce26a847f79/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Claude for Chrome
 
 Claude browser extension for interacting with websites.

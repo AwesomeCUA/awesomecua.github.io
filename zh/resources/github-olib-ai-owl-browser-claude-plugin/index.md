@@ -1,3 +1,11 @@
+---
+title: "Owl Browser Claude Code Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-olib-ai-owl-browser-claude-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Owl Browser Claude Code Plugin
 
 面向 Owl Browser 的 Claude Code 插件，提供按句柄索引的页面读取和适合智能体使用的浏览器自动化功能。

@@ -1,3 +1,11 @@
+---
+title: "Who's to say what's funny? A computer using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1705-10272/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Who's to say what's funny? A computer using Language Models and Deep Learning, That's Who!
 
 Status: excluded from the active CUA catalog after scope review.

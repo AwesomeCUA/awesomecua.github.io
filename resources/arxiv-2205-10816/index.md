@@ -1,3 +1,11 @@
+---
+title: "Chain of Thought Imitation with Procedure… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-10816/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Chain of Thought Imitation with Procedure Cloning
 
 Status: excluded from the active CUA catalog after scope review.

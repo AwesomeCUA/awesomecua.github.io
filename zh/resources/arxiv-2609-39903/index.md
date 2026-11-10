@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Science: A Benchmark of Computer… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-39903/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software
 
 OSWorld-Science 以科学软件工作流程为基准评估计算机操作智能体，并针对各任务检查应用状态和生成的研究产物。
@@ -27,6 +35,18 @@ Dingyuan Dai, Heli Qi, Lei Liu, Yinxi Li, Baiding Chen, Zijun Dou, Qingcheng Zen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-39903/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-39903/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39903,
+  title = {{OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software}},
+  author = {{Dingyuan Dai} and {Heli Qi} and {Lei Liu} and {Yinxi Li} and {Baiding Chen} and {Zijun Dou} and {Qingcheng Zeng} and {Qi Kang} and {Oliver Sun} and {Eric Wang} and {Bo Zhou} and {Haixin Wang} and {Yufan Du} and {Shi Bo} and {Ruihan Lin} and {Mengqi Yuan} and {Dunjie Lu} and {Steven Dillmann} and {Yiming Shi} and {Tina Su} and {Amy Xin} and {Minghao Liu} and {Xi Wang} and {Xu Huang} and {Ge Zhang} and {Pengyu Nie} and {Zhen Yang} and {Jie Tang} and {Juanzi Li} and {Weihao Xuan} and {Tianyu Liu}},
+  year = {2026},
+  eprint = {2609.39903v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39903v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T15:03:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

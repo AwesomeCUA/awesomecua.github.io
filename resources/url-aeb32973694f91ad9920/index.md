@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-aeb32973694f91ad9920/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # GUI-Owl 7B
 
 A Qwen2.5-VL-based GUI checkpoint released with Mobile-Agent-v3 for grounded actions and specialized roles in its agent framework.

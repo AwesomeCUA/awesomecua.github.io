@@ -1,3 +1,11 @@
+---
+title: "You Don't Know Until You Click:Automated GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-14104/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation
 
 RealDevWorld evaluates generated software repositories with 194 development tasks and AppEvalPilot, an agent judge that operates the resulting GUIs. The evaluation examines functional behavior, visual fidelity, and runtime responses to produce task-specific diagnostic feedback.
@@ -26,6 +34,18 @@ Yutong Bian, Xianhao Lin, Yupeng Xie, Tianyang Liu, Mingchen Zhuge, Siyuan Lu, H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-14104/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-14104/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_14104,
+  title = {{You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation}},
+  author = {{Yutong Bian} and {Xianhao Lin} and {Yupeng Xie} and {Tianyang Liu} and {Mingchen Zhuge} and {Siyuan Lu} and {Haoming Tang} and {Jinlin Wang} and {Jiayi Zhang} and {Jiaqi Chen} and {Xiangru Tang} and {Yongxin Ni} and {Sirui Hong} and {Chenglin Wu}},
+  year = {2025},
+  eprint = {2508.14104v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.14104v1},
+  note = {First published: 2025-08-17; Recorded arXiv version: v1; Recorded version updated: 2025-08-17T07:31:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

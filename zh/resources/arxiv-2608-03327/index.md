@@ -1,3 +1,11 @@
+---
+title: "Screenshots or Tools? Eliciting Tool Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-03327/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
 
 研究区分混合 GUI–MCP 智能体的工具采用行为与任务能力，测试工具使用激励和截图历史压缩，表明动作偏好发生变化时，留出任务的准确率仍可能保持不变。
@@ -27,6 +35,18 @@ Siqi Fan, Minghao Li, Xiaoqian Ma, Wenhui Tan, Xiusheng Huang, Juntong Wu, Liuji
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-03327/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-03327/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_03327,
+  title = {{Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents}},
+  author = {{Siqi Fan} and {Minghao Li} and {Xiaoqian Ma} and {Wenhui Tan} and {Xiusheng Huang} and {Juntong Wu} and {Liujie Zhang} and {Shuo Shang} and {Weihang Chen}},
+  year = {2026},
+  eprint = {2608.03327v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.03327v2},
+  note = {First published: 2026-08-04; Recorded arXiv version: v2; Recorded version updated: 2026-08-06T07:26:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

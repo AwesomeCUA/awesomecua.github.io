@@ -1,3 +1,11 @@
+---
+title: "Ailoy · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-brekkylab-ailoy/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ailoy
 
 Ailoy 是多语言 AI 智能体 SDK，可为计算机使用、CAD 和桌面自动化智能体创建隔离的微型虚拟机沙箱。

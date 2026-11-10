@@ -1,3 +1,11 @@
+---
+title: "V-Droid-8B-0323 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-82adab61eb515398da48/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # V-Droid-8B-0323
 
 这款用于 V-Droid Android 图形界面智能体的验证模型根据设备描述和任务为候选动作评分，帮助选择下一步手机操作。

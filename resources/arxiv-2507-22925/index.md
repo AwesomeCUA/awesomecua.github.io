@@ -1,3 +1,11 @@
+---
+title: "Hierarchical Memory for High-Efficiency… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-22925/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

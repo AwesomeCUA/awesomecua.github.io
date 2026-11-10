@@ -1,3 +1,11 @@
+---
+title: "GlassBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lzw12w-glass-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # GlassBrowser
 
 Auditable, low-cost, DOM-only browser agent designed for transparent step-by-step inspection and debugging.

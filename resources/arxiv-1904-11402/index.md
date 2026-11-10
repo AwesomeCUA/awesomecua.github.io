@@ -1,3 +1,11 @@
+---
+title: "Genet: A Quickly Scalable Fat-Tree Overlay… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1904-11402/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Genet: A Quickly Scalable Fat-Tree Overlay for Personal Volunteer Computing using WebRTC
 
 Status: excluded from the active CUA catalog after scope review.

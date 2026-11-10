@@ -1,3 +1,11 @@
+---
+title: "ScreenParse · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-98e8a413ddd670214755/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # ScreenParse
 
 密集标注渲染网页截图中的可见 UI 元素，提供边界框、55 种元素类别、文本、可交互性和阅读顺序，由自动抓取与过滤流程生成。

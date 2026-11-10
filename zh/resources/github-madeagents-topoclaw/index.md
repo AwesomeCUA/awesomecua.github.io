@@ -1,3 +1,11 @@
+---
+title: "TopoClaw · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-madeagents-topoclaw/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TopoClaw
 
 TopoClaw 是具备拓扑感知能力的多智能体数字助手，支持技能验证，并在桌面、网页和移动端执行沙箱化操作。

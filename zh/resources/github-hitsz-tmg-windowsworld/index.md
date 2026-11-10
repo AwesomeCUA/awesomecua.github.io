@@ -1,3 +1,11 @@
+---
+title: "WindowsWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hitsz-tmg-windowsworld/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # WindowsWorld
 
 WindowsWorld 是跨应用的 Windows 基准，支持对任务中间步骤进行评估。

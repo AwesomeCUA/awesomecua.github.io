@@ -1,3 +1,11 @@
+---
+title: "AgenticX-GUIAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-demondamon-agenticx-guiagent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AgenticX-GUIAgent
 
 AgenticX-GUIAgent 是多智能体 Android GUI 自动化系统，由管理者、执行者、反思者和记录者协同工作。

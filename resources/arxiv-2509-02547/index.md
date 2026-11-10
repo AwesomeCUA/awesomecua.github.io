@@ -1,3 +1,11 @@
+---
+title: "The Landscape of Agentic Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-02547/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # The Landscape of Agentic Reinforcement Learning for LLMs: A Survey
 
 Bibliographic record for The Landscape of Agentic Reinforcement Learning for LLMs: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Hen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-02547/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-02547/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_02547,
+  title = {{The Landscape of Agentic Reinforcement Learning for LLMs: A Survey}},
+  author = {{Guibin Zhang} and {Hejia Geng} and {Xiaohang Yu} and {Zhenfei Yin} and {Zaibin Zhang} and {Zelin Tan} and {Heng Zhou} and {Zhongzhi Li} and {Xiangyuan Xue} and {Yijiang Li} and {Yifan Zhou} and {Yang Chen} and {Chen Zhang} and {Yutao Fan} and {Zihu Wang} and {Songtao Huang} and {Francisco Piedrahita-Velez} and {Yue Liao} and {Hongru Wang} and {Mengyue Yang} and {Heng Ji} and {Jun Wang} and {Shuicheng Yan} and {Philip Torr} and {Lei Bai}},
+  year = {2025},
+  eprint = {2509.02547v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.02547v5},
+  note = {First published: 2025-09-02; Recorded arXiv version: v5; Recorded version updated: 2026-04-17T18:09:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

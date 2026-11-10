@@ -1,3 +1,11 @@
+---
+title: "DRACO: a Cross-Domain Benchmark for Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-11685/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity
 
 Bibliographic record for DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Joey Zhong, Hao Zhang, Clare Southern, Jeremy Yang, Thomas Wang, Kate Jung, Shu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-11685/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-11685/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11685,
+  title = {{DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity}},
+  author = {{Joey Zhong} and {Hao Zhang} and {Clare Southern} and {Jeremy Yang} and {Thomas Wang} and {Kate Jung} and {Shu Zhang} and {Denis Yarats} and {Johnny Ho} and {Jerry Ma}},
+  year = {2026},
+  eprint = {2602.11685v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11685v1},
+  note = {First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T08:07:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

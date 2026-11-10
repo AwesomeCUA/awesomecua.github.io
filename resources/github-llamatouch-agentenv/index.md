@@ -1,3 +1,11 @@
+---
+title: "AgentEnv | AwesomeCUA"
+url: https://awesomecua.com/resources/github-llamatouch-agentenv/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # AgentEnv
 
 AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.

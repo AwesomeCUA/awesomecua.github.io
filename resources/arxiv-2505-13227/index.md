@@ -1,3 +1,11 @@
+---
+title: "Scaling Computer-Use Grounding via User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-13227/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis
 
 Introduces OSWorld-G grounding evaluation and the Jedi synthesis pipeline for examples spanning layout reasoning and fine-grained interaction.
@@ -26,6 +34,18 @@ Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-13227/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-13227/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_13227,
+  title = {{Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis}},
+  author = {{Tianbao Xie} and {Jiaqi Deng} and {Xiaochuan Li} and {Junlin Yang} and {Haoyuan Wu} and {Jixuan Chen} and {Wenjing Hu} and {Xinyuan Wang} and {Yuhui Xu} and {Zekun Wang} and {Yiheng Xu} and {Junli Wang} and {Doyen Sahoo} and {Tao Yu} and {Caiming Xiong}},
+  year = {2025},
+  eprint = {2505.13227v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.13227v3},
+  note = {First published: 2025-05-19; Recorded arXiv version: v3; Recorded version updated: 2025-10-24T19:08:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

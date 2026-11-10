@@ -1,3 +1,11 @@
+---
+title: "FSB v0.9.92 · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9b0e2c60bd772de53558/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # FSB v0.9.92
 
 用于自然语言浏览器自动化的 Chrome 扩展，接收用户请求并代为浏览网页。

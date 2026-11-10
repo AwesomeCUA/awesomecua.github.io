@@ -1,3 +1,11 @@
+---
+title: "ESP (Echo-Skeleton Perception) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-badtheorylabs-esp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ESP (Echo-Skeleton Perception)
 
 有状态、事件驱动的屏幕感知运行时，将 UI 变化转换为简洁的文本事件，供纯文本计算机使用智能体使用。

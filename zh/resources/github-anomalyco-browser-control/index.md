@@ -1,3 +1,11 @@
+---
+title: "Browser Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anomalyco-browser-control/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Browser Control
 
 Browser Control 通过本地中继和扩展程序，让编程智能体在现有 Chromium 系浏览器中运行 Playwright 代码，并返回结果及变更摘要。

@@ -1,3 +1,11 @@
+---
+title: "BlenderLLM: Training Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-14203/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # BlenderLLM: Training Large Language Models for Computer-Aided Design with Self-improvement
 
 Bibliographic record for BlenderLLM: Training Large Language Models for Computer-Aided Design with Self-improvement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuhao Du, Shunian Chen, Wenbo Zan, Peizhao Li, Mingxuan Wang, Dingjie Song, Bo L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-14203/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-14203/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_14203,
+  title = {{BlenderLLM: Training Large Language Models for Computer-Aided Design with Self-improvement}},
+  author = {{Yuhao Du} and {Shunian Chen} and {Wenbo Zan} and {Peizhao Li} and {Mingxuan Wang} and {Dingjie Song} and {Bo Li} and {Yan Hu} and {Benyou Wang}},
+  year = {2024},
+  eprint = {2412.14203v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.14203v1},
+  note = {First published: 2024-12-16; Recorded arXiv version: v1; Recorded version updated: 2024-12-16T14:34:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

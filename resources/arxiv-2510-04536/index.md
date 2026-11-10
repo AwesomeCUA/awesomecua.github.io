@@ -1,3 +1,11 @@
+---
+title: "3Dify: a Framework for Procedural 3D-CG… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-04536/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # 3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG
 
 Introduces 3Dify, a natural-language 3D graphics framework that operates creation tools through MCP and uses a computer-using agent for GUI operations when MCP is unavailable.
@@ -26,6 +34,18 @@ Shun-ichiro Hayashi, Daichi Mukunoki, Tetsuya Hoshino, Satoshi Ohshima, Takahiro
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-04536/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-04536/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04536,
+  title = {{3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG}},
+  author = {{Shun-ichiro Hayashi} and {Daichi Mukunoki} and {Tetsuya Hoshino} and {Satoshi Ohshima} and {Takahiro Katagiri}},
+  year = {2025},
+  eprint = {2510.04536v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04536v1},
+  note = {First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T07:00:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

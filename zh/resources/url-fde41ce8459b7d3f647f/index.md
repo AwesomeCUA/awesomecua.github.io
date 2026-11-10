@@ -1,3 +1,11 @@
+---
+title: "LGWM data and RSWT-Bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fde41ce8459b7d3f647f/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # LGWM data and RSWT-Bench
 
 一个用于训练世界模型的图形界面屏幕状态转换数据集，并附有 RSWT-Bench，用于评估观察到的屏幕是否由预期操作产生。

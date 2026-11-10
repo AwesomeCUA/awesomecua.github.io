@@ -1,3 +1,11 @@
+---
+title: "azderus browser-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-azderus-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # azderus browser-agent
 
 Claude Code skill that drives a real Chrome window from the terminal and returns compact token-efficient page observations.

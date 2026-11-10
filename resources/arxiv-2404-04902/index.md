@@ -1,3 +1,11 @@
+---
+title: "AI2Apps: A Visual IDE for Building LLM-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-04902/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # AI2Apps: A Visual IDE for Building LLM-based AI Agent Applications
 
 Bibliographic record for AI2Apps: A Visual IDE for Building LLM-based AI Agent Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xin Pang, Zhucong Li, Jiaxiang Chen, Yuan Cheng, Yinghui Xu, Yuan Qi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-04902/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-04902/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_04902,
+  title = {{AI2Apps: A Visual IDE for Building LLM-based AI Agent Applications}},
+  author = {{Xin Pang} and {Zhucong Li} and {Jiaxiang Chen} and {Yuan Cheng} and {Yinghui Xu} and {Yuan Qi}},
+  year = {2024},
+  eprint = {2404.04902v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.04902v1},
+  note = {First published: 2024-04-07; Recorded arXiv version: v1; Recorded version updated: 2024-04-07T10:02:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "alohajet CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alohabrowser-alohajet-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # alohajet CLI
 
 Official Aloha Browser CLI and MCP server for driving a real browser with stable element refs.

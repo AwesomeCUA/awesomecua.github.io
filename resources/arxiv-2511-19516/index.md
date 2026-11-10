@@ -1,3 +1,11 @@
+---
+title: "Connecting the Dots: Training-Free Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-19516/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

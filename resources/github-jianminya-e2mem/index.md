@@ -1,3 +1,11 @@
+---
+title: "E2-Mem | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jianminya-e2mem/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # E2-Mem
 
 E2-Mem is an episodic-event hierarchical memory framework for long-horizon web agents evaluated on WebArena.

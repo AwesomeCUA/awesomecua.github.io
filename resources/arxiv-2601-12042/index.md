@@ -1,3 +1,11 @@
+---
+title: "Less Is More -- Until It Breaks: Security… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-12042/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

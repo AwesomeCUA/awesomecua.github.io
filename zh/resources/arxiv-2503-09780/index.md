@@ -1,3 +1,11 @@
+---
+title: "AgentDAM: Privacy Leakage Evaluation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-09780/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents
 
 评估自主网页智能体在执行会接触到非必要私人数据的任务时，是否尽量减少使用敏感个人信息。
@@ -27,6 +35,18 @@ Arman Zharmagambetov, Chuan Guo, Ivan Evtimov, Maya Pavlova, Ruslan Salakhutdino
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-09780/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-09780/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_09780,
+  title = {{AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents}},
+  author = {{Arman Zharmagambetov} and {Chuan Guo} and {Ivan Evtimov} and {Maya Pavlova} and {Ruslan Salakhutdinov} and {Kamalika Chaudhuri}},
+  year = {2025},
+  eprint = {2503.09780v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.09780v3},
+  note = {First published: 2025-03-12; Recorded arXiv version: v3; Recorded version updated: 2025-10-01T23:55:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

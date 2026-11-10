@@ -1,3 +1,11 @@
+---
+title: "CulebraTester2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dtmilano-culebratester2-public/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # CulebraTester2
 
 An Android on-device server with a REST API for UI test automation: screenshots, window hierarchy dumps and element actions, used as a backend by AndroidViewClient/culebra.

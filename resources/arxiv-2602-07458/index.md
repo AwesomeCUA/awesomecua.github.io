@@ -1,3 +1,11 @@
+---
+title: "SpatialReward: Bridging the Perception Gap in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-07458/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

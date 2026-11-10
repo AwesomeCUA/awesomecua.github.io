@@ -1,3 +1,11 @@
+---
+title: "Generalist Scanner Meets Specialist… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-24133/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Generalist Scanner Meets Specialist Locator: A Synergistic Coarse-to-Fine Framework for Robust GUI Grounding
 
 GMS 用通用视觉语言扫描器提出界面区域，再由专用定位器预测区域内坐标。两者通过分层的由粗到细搜索协作，在 ScreenSpot-Pro 上进行 GUI 定位。
@@ -27,6 +35,18 @@ Zhecheng Li, Guoxian Song, Yiwei Wang, Zhen Xiong, Junsong Yuan, Yujun Cai
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-24133/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-24133/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_24133,
+  title = {{Generalist Scanner Meets Specialist Locator: A Synergistic Coarse-to-Fine Framework for Robust GUI Grounding}},
+  author = {{Zhecheng Li} and {Guoxian Song} and {Yiwei Wang} and {Zhen Xiong} and {Junsong Yuan} and {Yujun Cai}},
+  year = {2025},
+  eprint = {2509.24133v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.24133v1},
+  note = {First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T00:06:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

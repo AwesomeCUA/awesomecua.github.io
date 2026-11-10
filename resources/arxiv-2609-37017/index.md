@@ -1,3 +1,11 @@
+---
+title: "LatCom: Cross-Agent Latent Compression for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-37017/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LatCom: Cross-Agent Latent Compression for Efficient Multi-Agent Collaboration
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Agent Infra Sandbox · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agent-infra-sandbox/
+updated: 2026-10-16
+type: infrastructure
+lang: zh-CN
+---
+
 # Agent Infra Sandbox
 
 支持计算机和浏览器交互的沙箱环境。

@@ -1,3 +1,11 @@
+---
+title: "ToolGen: Unified Tool Retrieval and Calling… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-03439/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ToolGen: Unified Tool Retrieval and Calling via Generation
 
 Bibliographic record for ToolGen: Unified Tool Retrieval and Calling via Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Renxi Wang, Xudong Han, Lei Ji, Shu Wang, Timothy Baldwin, Haonan Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-03439/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-03439/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_03439,
+  title = {{ToolGen: Unified Tool Retrieval and Calling via Generation}},
+  author = {{Renxi Wang} and {Xudong Han} and {Lei Ji} and {Shu Wang} and {Timothy Baldwin} and {Haonan Li}},
+  year = {2024},
+  eprint = {2410.03439v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.03439v3},
+  note = {First published: 2024-10-04; Recorded arXiv version: v3; Recorded version updated: 2025-03-29T13:27:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "MobileGUI-VBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d7a4f34a6a5202af5f64/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # MobileGUI-VBench
 
 Mobile-app task definitions covering everyday scenarios, with annotated preconditions and clarification requirements for evaluating agent behavior.

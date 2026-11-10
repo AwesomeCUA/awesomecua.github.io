@@ -1,3 +1,11 @@
+---
+title: "MMInA · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shulin16-mmina/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # MMInA
 
 基于 WebArena 环境的多模态网页任务，需在购物网站、Wikipedia 等站点间完成 1 至 10 跳的操作，用于测试长链推理。

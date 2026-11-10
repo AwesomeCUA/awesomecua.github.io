@@ -1,3 +1,11 @@
+---
+title: "Inferring Alt-text For UI Icons With… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-18060/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Inferring Alt-text For UI Icons With Large Language Models During App Development
 
 提出 IconDesc，利用元素标识符、边界、邻近文本和层级结构等部分 UI 上下文生成移动端图标的替代文本；通过模型评估和用户研究考察生成的无障碍描述。
@@ -27,6 +35,18 @@ Sabrina Haque, Christoph Csallner
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-18060/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-18060/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_18060,
+  title = {{Inferring Alt-text For UI Icons With Large Language Models During App Development}},
+  author = {{Sabrina Haque} and {Christoph Csallner}},
+  year = {2024},
+  eprint = {2409.18060v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.18060v2},
+  note = {First published: 2024-09-26; Recorded arXiv version: v2; Recorded version updated: 2024-10-07T19:04:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

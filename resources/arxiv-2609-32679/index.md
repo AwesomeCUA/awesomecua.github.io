@@ -1,3 +1,11 @@
+---
+title: "The GUI Is Not the State: Diagnosing State… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-32679/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models
 
 Introduces StateAliasBench to isolate GUI world-model ambiguities in which matching visible screens and actions can lead to different futures. It augments frozen world models with structured state recovered from interaction history and evaluates the effect on prediction and agent execution.
@@ -26,6 +34,18 @@ Dongsheng Liu, Chao Jin, Wenkui Yang, Hejin Wang, Junwei Yang, Zeren Zhang, Ziwe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-32679/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-32679/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32679,
+  title = {{The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models}},
+  author = {{Dongsheng Liu} and {Chao Jin} and {Wenkui Yang} and {Hejin Wang} and {Junwei Yang} and {Zeren Zhang} and {Ziwei Chen} and {Huaibo Huang} and {Jie Cao} and {Ran He}},
+  year = {2026},
+  eprint = {2609.32679v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32679v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T14:35:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

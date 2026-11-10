@@ -1,3 +1,11 @@
+---
+title: "Argent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-software-mansion-argent/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Argent
 
 Argent 是一个命令行工具包，让 AI 助手在 iOS 模拟器、Android 模拟器与真机、电视以及 Electron 应用中点击、滑动和输入，并可录制端到端测试路径、比对屏幕和分析应用性能。

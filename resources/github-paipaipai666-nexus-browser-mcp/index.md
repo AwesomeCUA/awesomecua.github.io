@@ -1,3 +1,11 @@
+---
+title: "nexus-browser-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # nexus-browser-mcp
 
 Browser automation MCP server with event-driven deterministic Playwright and accessibility-tree snapshots.

@@ -1,3 +1,11 @@
+---
+title: "All-photonic architectural roadmap for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2109-12280/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # All-photonic architectural roadmap for scalable quantum computing using Greenberger-Horne-Zeilinger states
 
 Status: excluded from the active CUA catalog after scope review.

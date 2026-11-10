@@ -1,3 +1,11 @@
+---
+title: "Memori: A Persistent Memory Layer for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-19935/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents
 
 Bibliographic record for Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Luiz C. Borro, Luiz A. B. Macarini, Gordon Tindall, Michael Montero, Adam B. Str
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-19935/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-19935/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_19935,
+  title = {{Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents}},
+  author = {{Luiz C. Borro} and {Luiz A. B. Macarini} and {Gordon Tindall} and {Michael Montero} and {Adam B. Struck}},
+  year = {2026},
+  eprint = {2603.19935v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.19935v1},
+  note = {First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T13:26:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

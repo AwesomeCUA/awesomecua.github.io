@@ -1,3 +1,11 @@
+---
+title: "Equinox Local · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sametbasbug-equinox-local/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Equinox Local
 
 本地优先的 AI 工作空间，通过 MCP 隧道连接 ChatGPT 与原生 macOS 和 Windows 桌面工具。

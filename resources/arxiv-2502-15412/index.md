@@ -1,3 +1,11 @@
+---
+title: "Textual-to-Visual Iterative Self-Verification… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-15412/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Textual-to-Visual Iterative Self-Verification for Slide Generation
 
 Bibliographic record for Textual-to-Visual Iterative Self-Verification for Slide Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunqing Xu, Xinbei Ma, Jiyang Qiu, Hai Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-15412/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-15412/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_15412,
+  title = {{Textual-to-Visual Iterative Self-Verification for Slide Generation}},
+  author = {{Yunqing Xu} and {Xinbei Ma} and {Jiyang Qiu} and {Hai Zhao}},
+  year = {2025},
+  eprint = {2502.15412v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.15412v1},
+  note = {First published: 2025-02-21; Recorded arXiv version: v1; Recorded version updated: 2025-02-21T12:21:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

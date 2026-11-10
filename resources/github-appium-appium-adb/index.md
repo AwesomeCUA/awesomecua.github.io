@@ -1,3 +1,11 @@
+---
+title: "appium-adb | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium-adb/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # appium-adb
 
 An Android Debug Bridge wrapper that exposes device operations for Appium. The repository points to the appium-android monorepo for continuing development.

@@ -1,3 +1,11 @@
+---
+title: "Workflows — computer-use research, page 4 | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/page/4/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows — computer-use research, page 4
 
 HTML page: https://awesomecua.com/topics/workflow/page/4/
@@ -62,5 +70,5 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [BabyAGI](https://awesomecua.com/resources/github-yoheinakajima-babyagi/)
 - [Banana Peel MCP](https://awesomecua.com/resources/github-ygdotcom-banana-peel-mcp/)
 - [Bardeen](https://awesomecua.com/resources/url-87bc346934a4117b554c/)
-- [Bees Desktop](https://awesomecua.com/resources/github-bees-bot-bees-desktop/)
 - [bgivenb Typed UI Capabilities](https://awesomecua.com/resources/github-bgivenb-computer-use-automation/)
+- [Blender AI Plugin](https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/)

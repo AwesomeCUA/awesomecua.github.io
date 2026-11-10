@@ -1,3 +1,11 @@
+---
+title: "OmniInfer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-omnimind-ai-omniinfer/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OmniInfer
 
 OmniInfer 是本地 LLM 和 VLM 推理引擎，为桌面和边缘端智能体提供兼容 OpenAI 的 API。

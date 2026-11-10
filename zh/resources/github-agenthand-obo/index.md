@@ -1,3 +1,11 @@
+---
+title: "Open Browser Operator (obo) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agenthand-obo/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Open Browser Operator (obo)
 
 用于从终端和编程智能体控制用户已登录 Chrome 浏览器的 CLI 与 Chrome 扩展。

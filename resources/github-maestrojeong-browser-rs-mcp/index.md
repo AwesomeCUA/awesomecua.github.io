@@ -1,3 +1,11 @@
+---
+title: "browser-rs-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maestrojeong-browser-rs-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browser-rs-mcp
 
 Lightweight ~5.5MB stealth-oriented Rust browser MCP server allowing multiple AI agents to share one Chrome instance.

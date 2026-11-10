@@ -1,3 +1,11 @@
+---
+title: "pyside6-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-com55-pyside6-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pyside6-mcp
 
 Playwright 风格的 Model Context Protocol 服务器，让 AI 智能体能够检查、控制和调试 Qt/PySide6 桌面 GUI 应用。

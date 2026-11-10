@@ -1,3 +1,11 @@
+---
+title: "Towards Sustainable Web Agents: A Plea… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-17903/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Towards Sustainable Web Agents: A Plea for Transparency and Dedicated Metrics for Energy Consumption
 
 考察网页智能体评估中能源消耗与碳排放核算的局限，并主张采用透明、专门的可持续性测量指标。
@@ -27,6 +35,18 @@ Lars Krupp, Daniel Geißler, Paul Lukowicz, Jakob Karolus
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-17903/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-17903/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_17903,
+  title = {{Towards Sustainable Web Agents: A Plea for Transparency and Dedicated Metrics for Energy Consumption}},
+  author = {{Lars Krupp} and {Daniel Geißler} and {Paul Lukowicz} and {Jakob Karolus}},
+  year = {2025},
+  eprint = {2502.17903v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.17903v1},
+  note = {First published: 2025-02-25; Recorded arXiv version: v1; Recorded version updated: 2025-02-25T06:58:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

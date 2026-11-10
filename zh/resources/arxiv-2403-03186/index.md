@@ -1,3 +1,11 @@
+---
+title: "Cradle: Empowering Foundation Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-03186/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Cradle: Empowering Foundation Agents Towards General Computer Control
 
 利用屏幕截图观察、规划模块及生成的底层键盘和鼠标控制，实现通用计算机交互。
@@ -27,6 +35,18 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-03186/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-03186/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_03186,
+  title = {{Cradle: Empowering Foundation Agents Towards General Computer Control}},
+  author = {{Weihao Tan} and {Wentao Zhang} and {Xinrun Xu} and {Haochong Xia} and {Ziluo Ding} and {Boyu Li} and {Bohan Zhou} and {Junpeng Yue} and {Jiechuan Jiang} and {Yewen Li} and {Ruyi An} and {Molei Qin} and {Chuqiao Zong} and {Longtao Zheng} and {Yujie Wu} and {Xiaoqiang Chai} and {Yifei Bi} and {Tianbao Xie} and {Pengjie Gu} and {Xiyun Li} and {Ceyao Zhang} and {Long Tian} and {Chaojie Wang} and {Xinrun Wang} and {Börje F. Karlsson} and {Bo An} and {Shuicheng Yan} and {Zongqing Lu}},
+  year = {2024},
+  eprint = {2403.03186v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.03186v3},
+  note = {First published: 2024-03-05; Recorded arXiv version: v3; Recorded version updated: 2024-07-02T17:23:13Z.}
+}
+```
 
 ## 发表记录
 

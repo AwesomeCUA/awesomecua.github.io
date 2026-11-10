@@ -1,3 +1,11 @@
+---
+title: "Mobile Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-looper42-mobile-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Mobile Agent
 
 Mobile Agent 是 Android 助手，可使用本地工具及可选的无障碍设备控制，并对敏感操作请求批准。

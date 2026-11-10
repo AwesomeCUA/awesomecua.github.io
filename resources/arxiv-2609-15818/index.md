@@ -1,3 +1,11 @@
+---
+title: "Atria Dawn: The Dawn of Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15818/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Atria Dawn: The Dawn of Agentic Superintelligence
 
 Bibliographic record for Atria Dawn: The Dawn of Agentic Superintelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Honglin Guo, Tao Gui, Kun Cai, Haodong Chen, Yicheng Chen, Guanting Dong, Qiming
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15818/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15818/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15818,
+  title = {{Atria Dawn: The Dawn of Agentic Superintelligence}},
+  author = {{Honglin Guo} and {Tao Gui} and {Kun Cai} and {Haodong Chen} and {Yicheng Chen} and {Guanting Dong} and {Qiming Ge} and {Yuyang Hu} and {Zixian Huang} and {Jiajie Jin} and {Alexander Lam} and {Yining Li} and {Jiahang Lin} and {Yanjiang Liu} and {Xinyu Lu} and {Haijun Lv} and {Zerun Ma} and {Junlin Shang} and {Qisheng Su} and {Guoqiang Wang} and {Rui Wang} and {Zhecan Wang} and {Hao Xiang} and {Xinchen Xie} and {Shuhao Xing} and {Xiaoyu Xing} and {Wanghan Xu} and {Xinyu Yang} and {Yajie Yang} and {Chengfeng Zhao} and {Haoran Zhao} and {Penghao Zhao} and {Ruojun Zhou} and {Yunhua Zhou} and {Dongsheng Zhu} and {Yicheng Zou} and {Qiye Cai} and {Xinmeng Che} and {Jiabei Chen} and {Jiahao Chen} and {Jiayi Chen} and {Yujia Chen} and {Lizhi Cui} and {Youheng Dai} and {Xin Deng} and {Yi Dong} and {Shihan Dou} and {Chenya Gu} and {Xu Guo} and {Ding Han} and {Feiyang Hao} and {Haotan He} and {Jie Hou} and {Binze Hu} and {Zijian Hu} and {Junhao Huang} and {Huicheng Jiang} and {Jiazhen Jiang} and {Shufan Jiang} and {Jiahao Kuang} and {Bowen Lai} and {Bo Li} and {Jiaqiang Li} and {Peng Li} and {Qilong Li} and {Zhuoqun Li} and {Jiaxiang Liu} and {Shuainan Liu} and {Tong Liu} and {Yi Liu} and {Zhonghang Lu} and {Jianwen Luo} and {Yanyi Luo} and {Huijie Lv} and {Ningsheng Ma} and {Houcheng Min} and {Chengjun Pan} and {Qiyuan Peng} and {Xiaoxuan Peng} and {Jianmin Qian} and {Jiantao Qiu} and {Wanying Ren} and {Huayu Sha} and {Jifei Shan} and {Zixin Shang} and {Bing Shao} and {Zhuohui Sheng} and {Jiayang Shi} and {Yang Shu} and {Aierpanjiang Simayi} and {Sirui Song} and {Yuxiao Song} and {Zhe Sun} and {Zhichao Sun} and {Wenzhe Tan} and {Wenhui Tian} and {Zhongbo Tian} and {Hanchen Wang} and {Pengbo Wang} and {Rui Wang} and {Yiding Wang} and {Yuhui Wang} and {Zhiheng Xi} and {Caijun Xu} and {Chao Xu} and {Yongfeng Xu} and {Xiaolei Yang} and {Zhixiong Yang} and {Qian Yao} and {Shihong Yi} and {Yuankai Ying} and {Jia Yu} and {Dingbo Yuan} and {Hao Yuan} and {Junjie Yuan} and {Bo Zhang} and {Caixian Zhang} and {Qiuyinzhe Zhang} and {Jiyuan Zhao} and {Ying Zhao} and {Pujun Zheng} and {Xiaoxue Zhong} and {Xiaohao Zhou} and {Xinyu Zhou} and {Guanru Zhu} and {Yulun Zhu} and {Yaojie Lu} and {Tao Ji} and {Hongyu Lin} and {Yutao Zhu} and {Pengfei Cao} and {Guoxiu He} and {Xianpei Han} and {Ben He} and {Zhicheng Dou} and {Kang Liu} and {Qi Zhang} and {Le Sun} and {Jun Zhao} and {Ji-Rong Wen} and {Xuanjing Huang} and {Yu-Gang Jiang} and {Bowen Zhou}},
+  year = {2026},
+  eprint = {2609.15818v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15818v2},
+  note = {First published: 2026-09-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T17:33:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

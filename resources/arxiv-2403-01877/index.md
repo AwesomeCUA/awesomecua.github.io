@@ -1,3 +1,11 @@
+---
+title: "Gesture recognition with Brownian reservoir… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-01877/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Gesture recognition with Brownian reservoir computing using geometrically confined skyrmion dynamics
 
 Status: excluded from the active CUA catalog after scope review.

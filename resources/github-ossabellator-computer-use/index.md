@@ -1,3 +1,11 @@
+---
+title: "Ossabellator Bounded Computer-Use Runtime | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ossabellator-computer-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ossabellator Bounded Computer-Use Runtime
 
 Bounded computer-use runtime and semantic browser engine with explicit capability and policy enforcement.

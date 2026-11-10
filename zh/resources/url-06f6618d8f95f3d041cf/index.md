@@ -1,3 +1,11 @@
+---
+title: "AGI-0 Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-06f6618d8f95f3d041cf/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AGI-0 Agent
 
 AGI-0 通过截图操作 Android 应用，规划子任务，并在每次操作后检查界面变化。发布方报告了其 AndroidWorld 测试结果。

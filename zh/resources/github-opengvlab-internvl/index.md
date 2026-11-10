@@ -1,3 +1,11 @@
+---
+title: "InternVL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-opengvlab-internvl/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # InternVL
 
 InternVL 开源多模态基础模型系列的官方仓库，支持高分辨率 GUI 定位和视觉推理。

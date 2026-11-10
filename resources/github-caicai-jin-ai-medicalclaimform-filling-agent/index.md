@@ -1,3 +1,11 @@
+---
+title: "AI Medical Claim Form-Filling Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AI Medical Claim Form-Filling Agent
 
 LLM-driven browser agent that extracts patient intake data and autonomously fills and submits web medical claim forms.

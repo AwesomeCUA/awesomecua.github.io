@@ -1,3 +1,11 @@
+---
+title: "CognitiveKernel-Pro-SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7c431ccb1d5dc1f035d8/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # CognitiveKernel-Pro-SFT
 
 CognitiveKernel-Pro-SFT contains rejection-sampled GPT-4.1 trajectories for fine-tuning Cognitive Kernel-Pro agents, from URLQA web queries, DocBench, TableBench and a WebWalkerQA subset.

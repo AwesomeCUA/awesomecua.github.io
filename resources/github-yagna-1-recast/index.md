@@ -1,3 +1,11 @@
+---
+title: "recast | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yagna-1-recast/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # recast
 
 Compiler that converts recorded AI browser-agent execution traces into deterministic, zero-token Playwright test scripts.

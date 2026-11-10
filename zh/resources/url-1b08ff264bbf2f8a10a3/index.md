@@ -1,3 +1,11 @@
+---
+title: "Mano-CUA-2.0-4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1b08ff264bbf2f8a10a3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Mano-CUA-2.0-4B
 
 一个已发布的图形界面操作模型，接收桌面截图和任务上下文，生成点击、输入、滚动及启动应用等结构化操作。

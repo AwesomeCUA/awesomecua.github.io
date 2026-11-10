@@ -1,3 +1,11 @@
+---
+title: "MealPilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raunak-choudhary-hack-princeton-mealpilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # MealPilot
 
 Agentic grocery shopping platform that compares real-time cart prices across Instacart and retail web portals.

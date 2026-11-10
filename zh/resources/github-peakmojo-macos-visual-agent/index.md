@@ -1,3 +1,11 @@
+---
+title: "macOS Visual Agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-peakmojo-macos-visual-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # macOS Visual Agent
 
 macOS Visual Agent 检查原生 Apple Accessibility 树、检测 UI 元素，并在 macOS 上执行坐标准确的点击。

@@ -1,3 +1,11 @@
+---
+title: "MaaTouch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maaassistantarknights-maatouch/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaTouch
 
 An Android-native implementation of the minitouch input protocol that accepts line commands for touch down, move and up, waits, key events and text entry to drive a device.

@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Science task data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-263e82b29d4fca964463/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # OSWorld-Science task data
 
 OSWorld-Science 在 Hub 上受访问控制的发布版，提供科学软件操作智能体所需的任务定义、预置输入、评分参考资料和预备好的 Ubuntu 虚拟机镜像。

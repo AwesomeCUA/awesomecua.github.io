@@ -1,3 +1,11 @@
+---
+title: "GLM-4.6V · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-17d4fdd26efe4e3b9e05/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GLM-4.6V
 
 GLM-4.6V 是视觉语言模型；其发布说明描述了基于截图的工具调用，以及根据界面图像重建和编辑网页界面的能力。

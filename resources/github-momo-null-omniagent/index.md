@@ -1,3 +1,11 @@
+---
+title: "OmniAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-momo-null-omniagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OmniAgent
 
 A resident assistant that can inspect screenshots and operate a local desktop through mouse and keyboard tools or an Android device through ADB, alongside chat and memory features.

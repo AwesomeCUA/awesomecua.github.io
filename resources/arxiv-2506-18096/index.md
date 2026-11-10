@@ -1,3 +1,11 @@
+---
+title: "Deep Research Agents: A Systematic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-18096/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Deep Research Agents: A Systematic Examination And Roadmap
 
 Bibliographic record for Deep Research Agents: A Systematic Examination And Roadmap. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuxuan Huang, Yihang Chen, Haozheng Zhang, Kang Li, Huichi Zhou, Meng Fang, Liny
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-18096/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-18096/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_18096,
+  title = {{Deep Research Agents: A Systematic Examination And Roadmap}},
+  author = {{Yuxuan Huang} and {Yihang Chen} and {Haozheng Zhang} and {Kang Li} and {Huichi Zhou} and {Meng Fang} and {Linyi Yang} and {Xiaoguang Li} and {Lifeng Shang} and {Songcen Xu} and {Jianye Hao} and {Kun Shao} and {Jun Wang}},
+  year = {2025},
+  eprint = {2506.18096v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.18096v2},
+  note = {First published: 2025-06-22; Recorded arXiv version: v2; Recorded version updated: 2025-09-03T15:32:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

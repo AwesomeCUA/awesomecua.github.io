@@ -1,3 +1,11 @@
+---
+title: "nanoMuse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nano-muse-nanomuse/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # nanoMuse
 
 nanoMuse is an open-source personal agent that maintains persistent cross-device memory and executes browser, desktop, and mobile tasks.

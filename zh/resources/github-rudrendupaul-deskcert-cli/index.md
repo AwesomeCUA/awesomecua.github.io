@@ -1,3 +1,11 @@
+---
+title: "DeskCert CLI · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rudrendupaul-deskcert-cli/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # DeskCert CLI
 
 安全认证 CLI，在生产部署前针对内部网页应用对 AI 浏览器和计算机使用智能体进行压力测试。

@@ -1,3 +1,11 @@
+---
+title: "webgames | AwesomeCUA"
+url: https://awesomecua.com/resources/url-654e0cbc1a22b59eca47/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # webgames
 
 Task list for WebGames, a set of client-side web challenges for browsing agents: one JSONL file giving each task's id, title, description, page path, success password and tags.

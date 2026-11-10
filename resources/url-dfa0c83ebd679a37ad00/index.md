@@ -1,3 +1,11 @@
+---
+title: "gui_and_terminal_operation_recording | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # gui_and_terminal_operation_recording
 
 A dataset of GUI and terminal operation recordings. GUI sessions include timestamped screenshots, mouse events and keyboard events; terminal sessions include input and output logs.

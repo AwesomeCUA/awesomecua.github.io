@@ -1,3 +1,11 @@
+---
+title: "Cowork Protocol | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ellmos-ai-cowork-protocol/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # Cowork Protocol
 
 A WebMCP collaboration protocol for people and web agents: agents read bounded field focus packets, propose visible changes that a human click applies, and act alone only inside scoped leases.

@@ -1,3 +1,11 @@
+---
+title: "Intention-in-Interaction (IN3) &… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openbmb-tell-me-more/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Intention-in-Interaction (IN3) & Mistral-Interact
 
 提供 Intention-in-Interaction (IN3) 评测基准和 Mistral-Interact 模型，用于在智能体任务中主动澄清用户意图。

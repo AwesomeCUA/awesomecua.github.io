@@ -1,3 +1,11 @@
+---
+title: "ISE: An Execution-Grounded Recipe for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-11520/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ISE: An Execution-Grounded Recipe for Multi-Turn OS-Agent Trajectories
 
 Bibliographic record for ISE: An Execution-Grounded Recipe for Multi-Turn OS-Agent Trajectories. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Siyuan Luo, Nairong Zheng, Lin Zhou, Tiankuo Yao, Shengyou Yuan, Haojia Yu, Cong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-11520/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-11520/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_11520,
+  title = {{ISE: An Execution-Grounded Recipe for Multi-Turn OS-Agent Trajectories}},
+  author = {{Siyuan Luo} and {Nairong Zheng} and {Lin Zhou} and {Tiankuo Yao} and {Shengyou Yuan} and {Haojia Yu} and {Cong Pang} and {Jiapeng Luo} and {Lewei Lu}},
+  year = {2026},
+  eprint = {2606.11520v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.11520v4},
+  note = {First published: 2026-06-09; Recorded arXiv version: v4; Recorded version updated: 2026-07-14T14:04:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

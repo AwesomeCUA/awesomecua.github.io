@@ -1,3 +1,11 @@
+---
+title: "GPA: Learning GUI Process Automation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-01676/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GPA: Learning GUI Process Automation from Demonstrations
 
 提出基于演示的 GUI 流程重放方法，结合序贯蒙特卡洛定位和就绪状态检查。GPA 在本地执行学到的工作流，也可作为使用 MCP 或 CLI 工具的智能体的 GUI 执行组件。
@@ -27,6 +35,18 @@ Zirui Zhao, Jun Hao Liew, Yan Yang, Wenzhuo Yang, Ziyang Luo, Doyen Sahoo, Silvi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-01676/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-01676/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_01676,
+  title = {{GPA: Learning GUI Process Automation from Demonstrations}},
+  author = {{Zirui Zhao} and {Jun Hao Liew} and {Yan Yang} and {Wenzhuo Yang} and {Ziyang Luo} and {Doyen Sahoo} and {Silvio Savarese} and {Junnan Li}},
+  year = {2026},
+  eprint = {2604.01676v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.01676v2},
+  note = {First published: 2026-04-02; Recorded arXiv version: v2; Recorded version updated: 2026-04-04T01:55:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

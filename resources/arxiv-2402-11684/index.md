@@ -1,3 +1,11 @@
+---
+title: "ALLaVA: Harnessing GPT4V-Synthesized Data for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-11684/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ALLaVA: Harnessing GPT4V-Synthesized Data for Lite Vision-Language Models
 
 Bibliographic record for ALLaVA: Harnessing GPT4V-Synthesized Data for Lite Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guiming Hardy Chen, Shunian Chen, Ruifei Zhang, Junying Chen, Xiangbo Wu, Zhiyi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-11684/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-11684/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_11684,
+  title = {{ALLaVA: Harnessing GPT4V-Synthesized Data for Lite Vision-Language Models}},
+  author = {{Guiming Hardy Chen} and {Shunian Chen} and {Ruifei Zhang} and {Junying Chen} and {Xiangbo Wu} and {Zhiyi Zhang} and {Zhihong Chen} and {Jianquan Li} and {Xiang Wan} and {Benyou Wang}},
+  year = {2024},
+  eprint = {2402.11684v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.11684v2},
+  note = {First published: 2024-02-18; Recorded arXiv version: v2; Recorded version updated: 2024-06-17T07:55:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

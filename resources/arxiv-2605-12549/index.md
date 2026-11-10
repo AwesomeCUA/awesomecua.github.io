@@ -1,3 +1,11 @@
+---
+title: "What Happens Before Decoding? Prefill… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-12549/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs
 
 Re-Prefill adds an attention-guided second prefill pass that revisits candidate screen regions before coordinate generation. The study evaluates this training-free intervention across GUI-grounding models and benchmarks.
@@ -26,6 +34,18 @@ Jiaping Lin, Fei Shen, Junzhe Li, Ping Nie, Fei Yu, Ming Li, Haizhou Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-12549/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-12549/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12549,
+  title = {{What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs}},
+  author = {{Jiaping Lin} and {Fei Shen} and {Junzhe Li} and {Ping Nie} and {Fei Yu} and {Ming Li} and {Haizhou Li}},
+  year = {2026},
+  eprint = {2605.12549v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12549v1},
+  note = {First published: 2026-05-10; Recorded arXiv version: v1; Recorded version updated: 2026-05-10T07:04:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

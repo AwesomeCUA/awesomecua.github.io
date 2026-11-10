@@ -1,3 +1,11 @@
+---
+title: "Data Agent: A Holistic Architecture for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-01599/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems
 
 Status: excluded from the active CUA catalog after scope review.

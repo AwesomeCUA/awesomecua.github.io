@@ -1,3 +1,11 @@
+---
+title: "philosophy79 web-agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-philosophy79-web-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # philosophy79 web-agent
 
 本地优先的网页和桌面自动化工具包，集成浏览器控制、屏幕捕获和 LLM 工具调用。

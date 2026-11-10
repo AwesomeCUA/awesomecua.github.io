@@ -1,3 +1,11 @@
+---
+title: "Adversarial Images Hijack Web Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-09240/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Adversarial Images Hijack Web Agents from Visual Grounding to Browser Execution
 
 提出 WebMirage，一种视觉红队测试框架，通过建模网页元素间的竞争和动作后处理，测试被操纵的定位决策是否会导致浏览器实际执行相应动作。
@@ -27,6 +35,18 @@ Wanjing Han, Levi Taiji Li, Mu Zhang, Yue Jiang, Guanhong Tao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-09240/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-09240/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09240,
+  title = {{Adversarial Images Hijack Web Agents from Visual Grounding to Browser Execution}},
+  author = {{Wanjing Han} and {Levi Taiji Li} and {Mu Zhang} and {Yue Jiang} and {Guanhong Tao}},
+  year = {2026},
+  eprint = {2610.09240v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09240v1},
+  note = {First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T00:05:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

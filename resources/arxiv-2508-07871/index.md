@@ -1,3 +1,11 @@
+---
+title: "CATP: Contextually Adaptive Token Pruning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-07871/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning
 
 Status: excluded from the active CUA catalog after scope review.

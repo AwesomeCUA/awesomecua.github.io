@@ -1,3 +1,11 @@
+---
+title: "WebThinker-R1-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-564c980a531e7204447c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # WebThinker-R1-7B
 
 A released 7B reasoning model for web research that searches and navigates pages through interactive elements while drafting reports.

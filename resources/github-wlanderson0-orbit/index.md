@@ -1,3 +1,11 @@
+---
+title: "ORBIT framework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wlanderson0-orbit/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # ORBIT framework
 
 Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.

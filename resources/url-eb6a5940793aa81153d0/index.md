@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_plan_iterative-13B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-eb6a5940793aa81153d0/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # lumos_unified_plan_iterative-13B
 
 A Lumos planning checkpoint fine-tuned on web-agent, question-answering, multimodal and math tasks within a modular agent system.

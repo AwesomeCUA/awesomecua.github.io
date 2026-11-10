@@ -1,3 +1,11 @@
+---
+title: "mobilevlm_test · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5182ab4e9bd7843f240b/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # mobilevlm_test
 
 MobileVLM 的 Mobile3M 基准测试数据，以两卷 7z 压缩包发布。Mobile3M 是一个中文移动端 UI 数据集，包含 300 万个由真实跳转动作连接的页面。

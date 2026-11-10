@@ -1,3 +1,11 @@
+---
+title: "MaaTouch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maaassistantarknights-maatouch/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaTouch
 
 minitouch 输入协议的 Android 原生实现，接收按行发送的指令来执行触点按下、移动与抬起、等待、按键事件和文本输入，从而操控设备。

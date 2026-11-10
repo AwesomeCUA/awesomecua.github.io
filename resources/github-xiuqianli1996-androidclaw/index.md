@@ -1,3 +1,11 @@
+---
+title: "AndroidClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiuqianli1996-androidclaw/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AndroidClaw
 
 Android-native LLM phone agent operating directly on-device via Android AccessibilityService and screen hierarchy parsing.

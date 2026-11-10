@@ -1,3 +1,11 @@
+---
+title: "A Self-Evolving Framework for Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-19572/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression
 
 Bibliographic record for A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jincheng Ren, Siwei Wu, Yizhi Li, Kang Zhu, Shu Xu, Boyu Feng, Ruibin Yuan, Wei 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-19572/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-19572/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_19572,
+  title = {{A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression}},
+  author = {{Jincheng Ren} and {Siwei Wu} and {Yizhi Li} and {Kang Zhu} and {Shu Xu} and {Boyu Feng} and {Ruibin Yuan} and {Wei Zhang} and {Riza Batista-Navarro} and {Jian Yang} and {Chenghua Lin}},
+  year = {2026},
+  eprint = {2604.19572v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.19572v3},
+  note = {First published: 2026-04-21; Recorded arXiv version: v3; Recorded version updated: 2026-05-15T13:11:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

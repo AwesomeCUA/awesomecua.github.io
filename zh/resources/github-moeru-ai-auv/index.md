@@ -1,3 +1,11 @@
+---
+title: "AUV · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-moeru-ai-auv/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # AUV
 
 用于在 macOS、Linux 和 Windows 上编写可复用 GUI 操作脚本的 Rust 工具包、CLI 和 MCP 服务器，提供原生输入驱动、无障碍树、OCR 及可追踪和验证的操作结果。

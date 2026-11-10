@@ -1,3 +1,11 @@
+---
+title: "StockBench: Can LLM Agents Trade Stocks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-02209/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?
 
 Bibliographic record for StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yanxu Chen, Zijun Yao, Yantao Liu, Amy Xin, Jin Ye, Jianing Yu, Lei Hou, Juanzi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-02209/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-02209/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_02209,
+  title = {{StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?}},
+  author = {{Yanxu Chen} and {Zijun Yao} and {Yantao Liu} and {Amy Xin} and {Jin Ye} and {Jianing Yu} and {Lei Hou} and {Juanzi Li}},
+  year = {2025},
+  eprint = {2510.02209v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.02209v2},
+  note = {First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T14:50:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

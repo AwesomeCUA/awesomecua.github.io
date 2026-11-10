@@ -1,3 +1,11 @@
+---
+title: "HARPA AI · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7c4d9a3bd10f7bab9268/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # HARPA AI
 
 Chrome 扩展在任意网页提供聊天模型摘要和写作功能；其自动化引擎让用户自建命令围绕 AI 步骤浏览、点击、粘贴、提取及监控页面。

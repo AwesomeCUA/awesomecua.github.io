@@ -1,3 +1,11 @@
+---
+title: "SimpleMem · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aiming-lab-simplemem/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SimpleMem
 
 SimpleMem 为长时程 LLM 智能体及桌面、CLI 智能体提供语义无损记忆压缩和多模态检索。

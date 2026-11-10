@@ -1,3 +1,11 @@
+---
+title: "A Zero-Shot Language Agent for Computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-08740/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # A Zero-Shot Language Agent for Computer Control with Structured Reflection
 
 Studies a zero-shot computer-control agent that plans executable actions and organizes its own reflections after mistakes. MiniWoB++ experiments examine learning to complete tasks without supplied expert trajectories.
@@ -26,6 +34,18 @@ Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-08740/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-08740/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_08740,
+  title = {{A Zero-Shot Language Agent for Computer Control with Structured Reflection}},
+  author = {{Tao Li} and {Gang Li} and {Zhiwei Deng} and {Bryan Wang} and {Yang Li}},
+  year = {2023},
+  eprint = {2310.08740v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.08740v3},
+  note = {First published: 2023-10-12; Recorded arXiv version: v3; Recorded version updated: 2023-10-23T17:39:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "microsoft/Phi-Ground-Any · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-21687e3bf1eb78f2bcda/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # microsoft/Phi-Ground-Any
 
 这款视觉模型经过微调，可根据图像和指令输出点击位置。模型卡说明了图像缩放和坐标换算方法。

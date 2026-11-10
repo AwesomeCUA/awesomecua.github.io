@@ -1,3 +1,11 @@
+---
+title: "HARMONY: Hierarchical Agentic Reasoning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-26793/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis
 
 Bibliographic record for HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shufan Sun, Chen Wang, Enxin Song, Jiatao Gu, Lingjie Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-26793/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-26793/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_26793,
+  title = {{HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis}},
+  author = {{Shufan Sun} and {Chen Wang} and {Enxin Song} and {Jiatao Gu} and {Lingjie Liu}},
+  year = {2026},
+  eprint = {2609.26793v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.26793v2},
+  note = {First published: 2026-09-22; Recorded arXiv version: v2; Recorded version updated: 2026-10-05T21:37:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

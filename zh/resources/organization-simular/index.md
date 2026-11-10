@@ -1,3 +1,11 @@
+---
+title: "Simular · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-simular/
+updated: 2026-10-18
+type: company
+lang: zh-CN
+---
+
 # Simular
 
 与 Simular 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

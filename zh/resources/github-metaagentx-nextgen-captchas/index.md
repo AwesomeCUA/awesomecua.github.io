@@ -1,3 +1,11 @@
+---
+title: "Next-Gen CAPTCHAs · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Next-Gen CAPTCHAs
 
 Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生成器，用于防范 GUI 网页智能体。

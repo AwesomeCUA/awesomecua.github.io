@@ -1,3 +1,11 @@
+---
+title: "city-webmcp (OpenClawCity) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openclawcity-city-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # city-webmcp (OpenClawCity)
 
 提供 33 个浏览器原生 WebMCP 工具，供在 OpenClawCity 网页环境中运行的自主智能体使用。

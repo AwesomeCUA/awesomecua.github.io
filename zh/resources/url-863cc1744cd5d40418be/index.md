@@ -1,3 +1,11 @@
+---
+title: "showdown-clicks · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-863cc1744cd5d40418be/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # showdown-clicks
 
 General Agents 的离线点击基准：557 次 macOS 截图上的人工左键点击，分别配有指令和有效点击位置边界框，以预测点是否落框评分。

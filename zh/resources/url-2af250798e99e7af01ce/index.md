@@ -1,3 +1,11 @@
+---
+title: "Towards Ethical and Personalized Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2af250798e99e7af01ce/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution
 
 网页导航框架以用户专属任务表示和交互式推理调整智能体工作流程，并用任务成功率与用户满意度评估其效果。
@@ -27,6 +35,21 @@ Preetam Prabhu Srikar Dammu
 
 - BibTeX：https://awesomecua.com/resources/url-2af250798e99e7af01ce/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-2af250798e99e7af01ce/citation.csl.json
+
+```bibtex
+@inproceedings{cua_aa967318a27e68c641342009,
+  title = {{Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution}},
+  author = {{Preetam Prabhu Srikar Dammu}},
+  year = {2025},
+  month = mar,
+  booktitle = {Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining},
+  publisher = {ACM},
+  pages = {1074-1076},
+  doi = {10.1145/3701551.3707420},
+  url = {https://dl.acm.org/doi/abs/10.1145/3701551.3707420},
+  note = {Publication date: 2025-03-10.}
+}
+```
 
 ## 发表记录
 

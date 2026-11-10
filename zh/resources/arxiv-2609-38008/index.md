@@ -1,3 +1,11 @@
+---
+title: "HybridCUA: Learning to Orchestrate GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-38008/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # HybridCUA: Learning to Orchestrate GUI and CLI for Computer-Use Agents
 
 HybridCUA 使用经过核验的 GUI、命令行及交替操作轨迹训练计算机操作智能体，使其学会何时以及如何组合不同交互方式。
@@ -27,6 +35,18 @@ Tongbo Chen, Junbo Niu, Zhengxi Lu, Niu Lian, Fei Tang, Yuchen Yan, Yike Hong, Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-38008/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-38008/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38008,
+  title = {{HybridCUA: Learning to Orchestrate GUI and CLI for Computer-Use Agents}},
+  author = {{Tongbo Chen} and {Junbo Niu} and {Zhengxi Lu} and {Niu Lian} and {Fei Tang} and {Yuchen Yan} and {Yike Hong} and {Yong Du} and {Yizhou Liu} and {Bofan Chen} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2609.38008v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38008v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T16:57:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

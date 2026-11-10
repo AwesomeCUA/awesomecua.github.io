@@ -1,3 +1,11 @@
+---
+title: "browse-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-that1drifter-browse-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browse-mcp
 
 Headless-browser Model Context Protocol server for Claude, Codex, Gemini CLI, and Cursor.

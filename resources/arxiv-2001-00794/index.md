@@ -1,3 +1,11 @@
+---
+title: "Simulation of Thermal Relaxation in Spin… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2001-00794/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Simulation of Thermal Relaxation in Spin Chemistry Systems on a Quantum Computer Using Inherent Qubit Decoherence
 
 Status: excluded from the active CUA catalog after scope review.

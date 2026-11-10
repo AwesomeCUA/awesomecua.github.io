@@ -1,3 +1,11 @@
+---
+title: "R2D2: Remembering, Replaying and Dynamic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-12485/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory
 
 R2D2 gives web agents a replay-buffer map of visited pages and a reflection step for analyzing errors and revising navigation strategies.
@@ -26,6 +34,18 @@ Tenghao Huang, Kinjal Basu, Ibrahim Abdelaziz, Pavan Kapanipathi, Jonathan May, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-12485/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-12485/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_12485,
+  title = {{R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory}},
+  author = {{Tenghao Huang} and {Kinjal Basu} and {Ibrahim Abdelaziz} and {Pavan Kapanipathi} and {Jonathan May} and {Muhao Chen}},
+  year = {2025},
+  eprint = {2501.12485v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.12485v3},
+  note = {First published: 2025-01-21; Recorded arXiv version: v3; Recorded version updated: 2025-07-22T04:14:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

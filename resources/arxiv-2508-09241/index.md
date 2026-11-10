@@ -1,3 +1,11 @@
+---
+title: "FineState-Bench: A Comprehensive Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-09241/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents
 
 FineState-Bench evaluates fine-grained GUI perception and control across desktop, web, and mobile interfaces. Its Visual Diagnostic Assistant separates perception and localization contributions in controlled interaction experiments.
@@ -26,6 +34,18 @@ Fengxian Ji, Jingpu Yang, Zirui Song, Yuanxi Wang, Zhexuan Cui, Yuke Li, Qian Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-09241/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-09241/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_09241,
+  title = {{FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents}},
+  author = {{Fengxian Ji} and {Jingpu Yang} and {Zirui Song} and {Yuanxi Wang} and {Zhexuan Cui} and {Yuke Li} and {Qian Jiang} and {Miao Fang} and {Xiuying Chen}},
+  year = {2025},
+  eprint = {2508.09241v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.09241v1},
+  note = {First published: 2025-08-12; Recorded arXiv version: v1; Recorded version updated: 2025-08-12T15:12:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

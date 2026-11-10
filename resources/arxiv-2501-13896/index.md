@@ -1,3 +1,11 @@
+---
+title: "GUI-Bee: Align GUI Action Grounding to Novel… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-13896/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration
 
 Collects environment-specific interaction data through autonomous exploration to adapt grounding models to previously unseen GUIs.
@@ -26,6 +34,18 @@ Yue Fan, Handong Zhao, Ruiyi Zhang, Yu Shen, Xin Eric Wang, Gang Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-13896/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-13896/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_13896,
+  title = {{GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration}},
+  author = {{Yue Fan} and {Handong Zhao} and {Ruiyi Zhang} and {Yu Shen} and {Xin Eric Wang} and {Gang Wu}},
+  year = {2025},
+  eprint = {2501.13896v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.13896v2},
+  note = {First published: 2025-01-23; Recorded arXiv version: v2; Recorded version updated: 2025-01-27T18:58:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

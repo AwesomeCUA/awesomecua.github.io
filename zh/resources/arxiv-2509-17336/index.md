@@ -1,3 +1,11 @@
+---
+title: "Mano Technical Report · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-17336/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Mano Technical Report
 
 提出 GUI 智能体 Mano，利用模拟数据、监督微调及离线和在线 RL 训练，并以验证模块处理错误恢复。
@@ -27,6 +35,18 @@ Tianyu Fu, Anyang Su, Chenxu Zhao, Hanning Wang, Minghui Wu, Zhe Yu, Fei Hu, Min
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-17336/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-17336/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_17336,
+  title = {{Mano Technical Report}},
+  author = {{Tianyu Fu} and {Anyang Su} and {Chenxu Zhao} and {Hanning Wang} and {Minghui Wu} and {Zhe Yu} and {Fei Hu} and {Mingjia Shi} and {Wei Dong} and {Jiayao Wang} and {Yuyang Chen} and {Ruiyang Yu} and {Siran Peng} and {Menglin Li} and {Nan Huang} and {Haitian Wei} and {Jiawei Yu} and {Yi Xin} and {Xilin Zhao} and {Kai Gu} and {Ping Jiang} and {Sifan Zhou} and {Shuo Wang}},
+  year = {2025},
+  eprint = {2509.17336v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.17336v3},
+  note = {First published: 2025-09-22; Recorded arXiv version: v3; Recorded version updated: 2025-10-31T09:42:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

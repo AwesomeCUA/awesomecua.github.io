@@ -1,3 +1,11 @@
+---
+title: "ST-WebAgentBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-segev-shlomov-st-webagentbench/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # ST-WebAgentBench
 
 基于 BrowserGym 的基准，从 6 个可信性风险维度评估企业网页智能体的安全性和政策合规性。

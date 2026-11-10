@@ -1,3 +1,11 @@
+---
+title: "WebAgents Protocol | AwesomeCUA"
+url: https://awesomecua.com/resources/github-betterwright-webagents/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WebAgents Protocol
 
 Open protocol specification and toolkit exposing batch-native website actions to browser agents.

@@ -1,3 +1,11 @@
+---
+title: "rote · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bhuvanb3110-rote/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # rote
 
 面向缺少 API 的旧式银行和后台网页应用的计算机使用自动化框架，支持录制一次、多次重放。

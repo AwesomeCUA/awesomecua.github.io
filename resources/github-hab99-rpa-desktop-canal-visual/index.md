@@ -1,3 +1,11 @@
+---
+title: "RPA Desktop Canal Visual | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hab99-rpa-desktop-canal-visual/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # RPA Desktop Canal Visual
 
 Closed-loop visual desktop RPA runtime that drives isolated terminal and GUI applications purely from screen captures.

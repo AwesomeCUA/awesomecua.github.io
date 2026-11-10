@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_Task_Suite_train · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f68939821685c9dcc78c/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # GUI_Reflection_Task_Suite_train
 
 GUI Reflection 任务套件的训练部分：包含动作验证、动作回退和基于错误重试的 JSONL 文件，构建于 AndroidControl、GUI Odyssey、AMEX、OS-Atlas 和 Wave UI 之上。

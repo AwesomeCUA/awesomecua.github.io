@@ -1,3 +1,11 @@
+---
+title: "Web-CogReasoner: Towards Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-01858/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Web-CogReasoner: Towards Multimodal Knowledge-Induced Cognitive Reasoning for Web Agents
 
 Web-CogReasoner separates factual and conceptual web knowledge from procedural reasoning, using a structured curriculum to train a multimodal agent. Web-CogDataset and Web-CogBench support study of these capabilities alongside web-navigation evaluation.
@@ -26,6 +34,18 @@ Yuhan Guo, Cong Guo, Aiwen Sun, Hongliang He, Xinyu Yang, Yue Lu, Yingji Zhang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-01858/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-01858/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_01858,
+  title = {{Web-CogReasoner: Towards Multimodal Knowledge-Induced Cognitive Reasoning for Web Agents}},
+  author = {{Yuhan Guo} and {Cong Guo} and {Aiwen Sun} and {Hongliang He} and {Xinyu Yang} and {Yue Lu} and {Yingji Zhang} and {Xuntao Guo} and {Dong Zhang} and {Jianzhuang Liu} and {Jiang Duan} and {Yijia Xiao} and {Liangjian Wen} and {Hai-Ming Xu} and {Yong Dai}},
+  year = {2025},
+  eprint = {2508.01858v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.01858v3},
+  note = {First published: 2025-08-03; Recorded arXiv version: v3; Recorded version updated: 2026-07-05T06:17:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Evidence Workspace · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anand-0038-evidence-workspace/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Evidence Workspace
 
 由人控制的 WebMCP 研究工作区，用于审查浏览器智能体收集的、有来源支持的论断。

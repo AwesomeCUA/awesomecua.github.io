@@ -1,3 +1,11 @@
+---
+title: "VisualWebBench: How Far Have Multimodal LLMs… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-05955/
+updated: 2026-11-02
+type: paper
+lang: en
+---
+
 # VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?
 
 Separately evaluates web-page reading, understanding, and element grounding across tasks drawn from real websites.
@@ -26,6 +34,18 @@ Junpeng Liu, Yifan Song, Bill Yuchen Lin, Wai Lam, Graham Neubig, Yuanzhi Li, Xi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-05955/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-05955/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_05955,
+  title = {{VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?}},
+  author = {{Junpeng Liu} and {Yifan Song} and {Bill Yuchen Lin} and {Wai Lam} and {Graham Neubig} and {Yuanzhi Li} and {Xiang Yue}},
+  year = {2024},
+  eprint = {2404.05955v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.05955v1},
+  note = {First published: 2024-04-09; Recorded arXiv version: v1; Recorded version updated: 2024-04-09T02:29:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

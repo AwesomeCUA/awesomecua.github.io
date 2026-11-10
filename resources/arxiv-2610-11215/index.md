@@ -1,3 +1,11 @@
+---
+title: "GATOR: Generative and Agentic 3D Object… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11215/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images
 
 Bibliographic record for GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qirui Wu, Stan Birchfield, Hesam Rabeti, Angel X. Chang, Bowen Wen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11215/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11215/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11215,
+  title = {{GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images}},
+  author = {{Qirui Wu} and {Stan Birchfield} and {Hesam Rabeti} and {Angel X. Chang} and {Bowen Wen}},
+  year = {2026},
+  eprint = {2610.11215v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11215v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T04:13:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

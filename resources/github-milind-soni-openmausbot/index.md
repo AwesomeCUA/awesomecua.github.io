@@ -1,3 +1,11 @@
+---
+title: "OpenMausBot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-milind-soni-openmausbot/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # OpenMausBot
 
 Desktop chat app whose bots run local Claude, Codex or Grok CLIs and each get a computer: a cloud Linux desktop, local VM, VPS or the host through Cua Driver, plus a built-in browser and approval cards.

@@ -1,3 +1,11 @@
+---
+title: "Towards Evaluation of Implicit Software World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-27406/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards Evaluation of Implicit Software World Models in Coding LLMs
 
 Status: excluded from the active CUA catalog after scope review.

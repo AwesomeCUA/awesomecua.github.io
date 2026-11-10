@@ -1,3 +1,11 @@
+---
+title: "AndroidControl-Curated · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dda8a0f1413a6bc7c26f/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # AndroidControl-Curated
 
 净化后的 AndroidControl 测试集，按目标元素边界框评估预测点击，并修复含糊或错误的任务标签；以步骤级 JSON 文件和截图归档发布。

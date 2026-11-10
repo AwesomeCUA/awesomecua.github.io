@@ -1,3 +1,11 @@
+---
+title: "MemoryArena: Benchmarking Agent Memory… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-16313/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks
 
 MemoryArena 将跨会话任务关联起来，要求智能体提炼早期交互经验并用于后续决策；评估涵盖网页导航、规划、搜索和形式推理，通过后续动作检验记忆。
@@ -27,6 +35,18 @@ Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Ton
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-16313/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-16313/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_16313,
+  title = {{MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks}},
+  author = {{Zexue He} and {Yu Wang} and {Churan Zhi} and {Yuanzhe Hu} and {Tzu-Ping Chen} and {Lang Yin} and {Ze Chen} and {Tong Arthur Wu} and {Siru Ouyang} and {Zihan Wang} and {Jiaxin Pei} and {Julian McAuley} and {Yejin Choi} and {Alex Pentland}},
+  year = {2026},
+  eprint = {2602.16313v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.16313v2},
+  note = {First published: 2026-02-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T22:55:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

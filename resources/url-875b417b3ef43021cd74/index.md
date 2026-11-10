@@ -1,3 +1,11 @@
+---
+title: "OpAgent-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-875b417b3ef43021cd74/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpAgent-32B
 
 A vision-language model fine-tuned for web navigation. It takes a task instruction and webpage screenshot and produces a browser action or final answer.

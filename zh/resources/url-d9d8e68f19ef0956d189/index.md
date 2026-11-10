@@ -1,3 +1,11 @@
+---
+title: "RecreationBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d9d8e68f19ef0956d189/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # RecreationBench
 
 通过混合式计算机交互复刻参考应用的任务。

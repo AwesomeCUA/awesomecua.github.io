@@ -1,3 +1,11 @@
+---
+title: "VEM GUI-Agent-RL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-gui-agent-rl/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # VEM GUI-Agent-RL
 
 训练代码从离线 Android 交互数据中学习价值环境模型，并用冻结的价值估计指导 GUI 策略优化。

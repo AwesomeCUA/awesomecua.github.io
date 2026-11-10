@@ -1,3 +1,11 @@
+---
+title: "PhysAg3D: Bridging 3D Generative and Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-39924/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PhysAg3D: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets
 
 Status: excluded from the active CUA catalog after scope review.

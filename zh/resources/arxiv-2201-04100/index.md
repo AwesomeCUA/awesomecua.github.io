@@ -1,3 +1,11 @@
+---
+title: "Learning to Denoise Raw Mobile UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2201-04100/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learning to Denoise Raw Mobile UI Layouts for Improving Datasets at Scale
 
 提出 CLAY 流程，通过删除没有有效视觉对应项的节点并指定元素语义类型，修复含噪声的移动 UI 布局；同时提供人工标注的布局用于评估。
@@ -27,6 +35,18 @@ Gang Li, Gilles Baechler, Manuel Tragut, Yang Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2201-04100/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2201-04100/citation.csl.json
+
+```bibtex
+@misc{arxiv_2201_04100,
+  title = {{Learning to Denoise Raw Mobile UI Layouts for Improving Datasets at Scale}},
+  author = {{Gang Li} and {Gilles Baechler} and {Manuel Tragut} and {Yang Li}},
+  year = {2022},
+  eprint = {2201.04100v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2201.04100v2},
+  note = {First published: 2022-01-11; Recorded arXiv version: v2; Recorded version updated: 2022-01-13T17:53:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

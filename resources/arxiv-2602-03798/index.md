@@ -1,3 +1,11 @@
+---
+title: "FullStack-Agent: Enhancing Agentic Full-Stack… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-03798/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
 
 Bibliographic record for FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Mingjie Zhan, Hongshe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-03798/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-03798/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_03798,
+  title = {{FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation}},
+  author = {{Zimu Lu} and {Houxing Ren} and {Yunqiao Yang} and {Ke Wang} and {Zhuofan Zong} and {Mingjie Zhan} and {Hongsheng Li}},
+  year = {2026},
+  eprint = {2602.03798v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.03798v1},
+  note = {First published: 2026-02-03; Recorded arXiv version: v1; Recorded version updated: 2026-02-03T18:01:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

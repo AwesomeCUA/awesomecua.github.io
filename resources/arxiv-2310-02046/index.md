@@ -1,3 +1,11 @@
+---
+title: "Improving web element localization by using a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-02046/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Improving web element localization by using a large language model
 
 Bibliographic record for Improving web element localization by using a large language model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Michel Nass, Emil Alegroth, Robert Feldt
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-02046/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-02046/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_02046,
+  title = {{Improving web element localization by using a large language model}},
+  author = {{Michel Nass} and {Emil Alegroth} and {Robert Feldt}},
+  year = {2023},
+  eprint = {2310.02046v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.02046v1},
+  note = {First published: 2023-10-03; Recorded arXiv version: v1; Recorded version updated: 2023-10-03T13:39:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Webcmd | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentrhq-webcmd/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Webcmd
 
 Webcmd captures and indexes website navigational context as agents browse, compiling site structure into reusable local memory skills.

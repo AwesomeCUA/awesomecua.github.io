@@ -1,3 +1,11 @@
+---
+title: "MP-GUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bigtaige-mp-gui/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # MP-GUI
 
 MP-GUI 提供多模态感知训练和评测代码，结合图形、文本和空间专家进行 GUI 理解。

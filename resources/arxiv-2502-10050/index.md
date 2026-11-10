@@ -1,3 +1,11 @@
+---
+title: "A Survey on LLM-powered Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-10050/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # A Survey on LLM-powered Agents for Recommender Systems
 
 Bibliographic record for A Survey on LLM-powered Agents for Recommender Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiyao Peng, Hongtao Liu, Hua Huang, Qing Yang, Minglai Shao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-10050/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-10050/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_10050,
+  title = {{A Survey on LLM-powered Agents for Recommender Systems}},
+  author = {{Qiyao Peng} and {Hongtao Liu} and {Hua Huang} and {Qing Yang} and {Minglai Shao}},
+  year = {2025},
+  eprint = {2502.10050v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.10050v1},
+  note = {First published: 2025-02-14; Recorded arXiv version: v1; Recorded version updated: 2025-02-14T09:57:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

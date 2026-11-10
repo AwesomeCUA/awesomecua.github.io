@@ -1,3 +1,11 @@
+---
+title: "A Scalable, Fast and Programmable Neural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-15767/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes
 
 Status: excluded from the active CUA catalog after scope review.

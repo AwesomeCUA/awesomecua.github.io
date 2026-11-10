@@ -1,3 +1,11 @@
+---
+title: "SeeAct Web Agent (Chrome Extension) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-seeactchromeextension/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # SeeAct Web Agent (Chrome Extension)
 
 一款在现有 Chrome 会话中运行 SeeAct 智能体的扩展，可浏览网站、收集信息并准备表单。

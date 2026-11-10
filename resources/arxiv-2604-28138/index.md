@@ -1,3 +1,11 @@
+---
+title: "Crab: A Semantics-Aware Checkpoint/Restore… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-28138/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes
 
 Bibliographic record for Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tianyuan Wu, Chaokun Chang, Lunxi Cao, Wei Gao, Wei Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-28138/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-28138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_28138,
+  title = {{Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes}},
+  author = {{Tianyuan Wu} and {Chaokun Chang} and {Lunxi Cao} and {Wei Gao} and {Wei Wang}},
+  year = {2026},
+  eprint = {2604.28138v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.28138v1},
+  note = {First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T17:20:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ScienceBoard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-os-copilot-scienceboard/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # ScienceBoard
 
 Scientific-workflow tasks for multimodal agents in desktop software such as ChimeraX, KAlgebra, Celestia, Grass GIS and Lean 4, with apps modified to expose state for evaluation.

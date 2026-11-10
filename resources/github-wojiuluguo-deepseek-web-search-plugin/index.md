@@ -1,3 +1,11 @@
+---
+title: "deepseek-web-search-plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wojiuluguo-deepseek-web-search-plugin/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # deepseek-web-search-plugin
 
 OpenClaw skill providing DeepSeek web search, cross-validation, and automated browser page archiving.

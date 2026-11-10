@@ -1,3 +1,11 @@
+---
+title: "KV-Ground | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vocaela-kv-ground/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # KV-Ground
 
 KV-Ground releases compact models for locating targets in high-resolution GUI images, alongside training and evaluation code.

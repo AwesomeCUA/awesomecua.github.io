@@ -1,3 +1,11 @@
+---
+title: "VISUALSKILL: Multimodal Skills for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-18448/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # VISUALSKILL: Multimodal Skills for Computer-Use Agents
 
 VISUALSKILL 将应用专属文本和图示组织为层级技能，并通过 MCP 工具按需检索。技能结合编写的文档与实时 UI 探索；配对的多模态与纯文本对比测试其在界面识别和工作流状态核验中的用途。
@@ -27,6 +35,18 @@ Ziyan Jiang, Li An, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-18448/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-18448/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_18448,
+  title = {{VISUALSKILL: Multimodal Skills for Computer-Use Agents}},
+  author = {{Ziyan Jiang} and {Li An} and {Yujian Liu} and {Jiabao Ji} and {Qiucheng Wu} and {Jacob Andreas} and {Yang Zhang} and {Shiyu Chang}},
+  year = {2026},
+  eprint = {2606.18448v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.18448v1},
+  note = {First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T19:57:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

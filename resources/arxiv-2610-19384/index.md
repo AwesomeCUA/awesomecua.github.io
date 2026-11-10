@@ -1,3 +1,11 @@
+---
+title: "MMA-SafetyBench: A Benchmark for Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-19384/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation
 
 Builds trajectory-guided visual-injection tests for web, desktop and mobile observations, separating target-matching action predictions from broader semantic compromise.
@@ -26,6 +34,18 @@ Yuke Wang, Benlei Cui, Shen Pang, Xuemei Dong, Longtao Huang, Hui Xue, Yuwen Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-19384/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-19384/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_19384,
+  title = {{MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation}},
+  author = {{Yuke Wang} and {Benlei Cui} and {Shen Pang} and {Xuemei Dong} and {Longtao Huang} and {Hui Xue} and {Yuwen Zhai} and {Junjie Li} and {Jingqun Tang} and {Haiwen Hong}},
+  year = {2026},
+  eprint = {2610.19384v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.19384v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T01:30:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

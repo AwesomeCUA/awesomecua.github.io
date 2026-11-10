@@ -1,3 +1,11 @@
+---
+title: "Anchor-Inference Daedalus · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anchor-inference-daedalus/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Anchor-Inference Daedalus
 
 具有独立桌面应用、持久记忆和计算机使用工具的自我发展型个人 AI 智能体。

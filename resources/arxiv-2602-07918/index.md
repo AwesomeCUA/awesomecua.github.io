@@ -1,3 +1,11 @@
+---
+title: "CausalArmor: Efficient Indirect Prompt… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-07918/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution
 
 Bibliographic record for CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Minbeom Kim, Mihir Parmar, Phillip Wallis, Lesly Miculicich, Kyomin Jung, Krishn
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-07918/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-07918/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_07918,
+  title = {{CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution}},
+  author = {{Minbeom Kim} and {Mihir Parmar} and {Phillip Wallis} and {Lesly Miculicich} and {Kyomin Jung} and {Krishnamurthy Dj Dvijotham} and {Long T. Le} and {Tomas Pfister}},
+  year = {2026},
+  eprint = {2602.07918v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.07918v1},
+  note = {First published: 2026-02-08; Recorded arXiv version: v1; Recorded version updated: 2026-02-08T11:34:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

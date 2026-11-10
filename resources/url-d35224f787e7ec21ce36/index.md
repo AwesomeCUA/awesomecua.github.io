@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d35224f787e7ec21ce36/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # OpenMobile-2 9B
 
 Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and app-native tool calls.

@@ -1,3 +1,11 @@
+---
+title: "WebMall · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wbsg-uni-mannheim-webmall/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # WebMall
 
 WebMall 是多商店电子商务网页智能体评测基准，评测跨网站比价、商品搜索和购物车结账。

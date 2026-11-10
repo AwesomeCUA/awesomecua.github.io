@@ -1,3 +1,11 @@
+---
+title: "openadapt-ml | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-ml/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # openadapt-ml
 
 A Python research package for GUI-action models, with trajectory schemas, model adapters, fine-tuning, grounding, and a policy interface for predicting the next action.

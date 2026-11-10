@@ -1,3 +1,11 @@
+---
+title: "EvoCUA-1.5: Online Reinforcement… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-09773/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents
 
 EvoCUA-1.5 在可执行沙箱中通过在线强化学习训练多轮桌面智能体，结合步骤级策略优化、任务筛选与校准、自适应课程，以及控制数据陈旧程度的异步执行轨迹处理。
@@ -27,6 +35,18 @@ Mianqiu Huang, Taofeng Xue, Chong Peng, Jinrui Ding, Jie Yang, Sicheng Fan, Jial
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-09773/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-09773/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_09773,
+  title = {{EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents}},
+  author = {{Mianqiu Huang} and {Taofeng Xue} and {Chong Peng} and {Jinrui Ding} and {Jie Yang} and {Sicheng Fan} and {Jiale Hong} and {Yufei Gao} and {Xiaocheng Zhang} and {Linsen Guo} and {Xin Yang} and {Dengchang Zhao} and {Yuchen Xie} and {Peng Pei} and {Xunliang Xie} and {Xipeng Qiu}},
+  year = {2026},
+  eprint = {2607.09773v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.09773v2},
+  note = {First published: 2026-07-07; Recorded arXiv version: v2; Recorded version updated: 2026-09-04T15:47:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

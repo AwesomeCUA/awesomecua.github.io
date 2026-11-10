@@ -1,3 +1,11 @@
+---
+title: "browserground-mlx · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ea8bb3d3d41be83852a0/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # browserground-mlx
 
 browserground-mlx 是面向 Apple Silicon 的浏览器界面定位模型的 4 位 MLX 转换版本。它接收屏幕截图和目标描述，用于定位界面元素。

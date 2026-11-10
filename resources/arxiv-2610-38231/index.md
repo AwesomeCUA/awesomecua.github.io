@@ -1,3 +1,11 @@
+---
+title: "3DCodeEdit: Benchmarking Instruction-Guided… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-38231/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # 3DCodeEdit: Benchmarking Instruction-Guided 3D Program Editing
 
 Bibliographic record for 3DCodeEdit: Benchmarking Instruction-Guided 3D Program Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Binjie Wang, Xinran Zhao, Shoubin Yu, Xiang Li, Silong Yong, Chenyang Yang, Tian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-38231/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-38231/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_38231,
+  title = {{3DCodeEdit: Benchmarking Instruction-Guided 3D Program Editing}},
+  author = {{Binjie Wang} and {Xinran Zhao} and {Shoubin Yu} and {Xiang Li} and {Silong Yong} and {Chenyang Yang} and {Tianyu Chen} and {Ruofei Du} and {He He} and {Chen Zhao} and {Tongshuang Wu}},
+  year = {2026},
+  eprint = {2610.38231v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.38231v1},
+  note = {First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T03:29:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

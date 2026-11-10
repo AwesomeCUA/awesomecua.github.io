@@ -1,3 +1,11 @@
+---
+title: "CRAFT-GUI: Curriculum-Reinforced Agent For… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-11360/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks
 
 CRAFT-GUI organizes GUI trajectories by difficulty for curriculum-based GRPO training. Its reward combines rule-based signals with model judgments, with evaluation on Android Control and an internal online benchmark.
@@ -26,6 +34,18 @@ Songqin Nong, Xiaoxuan Tang, Jingxuan Xu, Sheng Zhou, Jianfeng Chen, Tao Jiang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-11360/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-11360/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_11360,
+  title = {{CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks}},
+  author = {{Songqin Nong} and {Xiaoxuan Tang} and {Jingxuan Xu} and {Sheng Zhou} and {Jianfeng Chen} and {Tao Jiang} and {Wenhao Xu}},
+  year = {2025},
+  eprint = {2508.11360v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.11360v2},
+  note = {First published: 2025-08-15; Recorded arXiv version: v2; Recorded version updated: 2026-03-13T11:10:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

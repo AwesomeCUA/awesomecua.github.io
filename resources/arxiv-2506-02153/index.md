@@ -1,3 +1,11 @@
+---
+title: "Small Language Models are the Future of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-02153/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Small Language Models are the Future of Agentic AI
 
 Bibliographic record for Small Language Models are the Future of Agentic AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Peter Belcak, Greg Heinrich, Shizhe Diao, Yonggan Fu, Xin Dong, Saurav Muralidha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-02153/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-02153/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_02153,
+  title = {{Small Language Models are the Future of Agentic AI}},
+  author = {{Peter Belcak} and {Greg Heinrich} and {Shizhe Diao} and {Yonggan Fu} and {Xin Dong} and {Saurav Muralidharan} and {Yingyan Celine Lin} and {Pavlo Molchanov}},
+  year = {2025},
+  eprint = {2506.02153v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.02153v3},
+  note = {First published: 2025-06-02; Recorded arXiv version: v3; Recorded version updated: 2026-09-22T02:53:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

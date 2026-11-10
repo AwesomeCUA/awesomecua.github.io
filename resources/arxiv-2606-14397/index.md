@@ -1,3 +1,11 @@
+---
+title: "Running the Gauntlet: Hard Agentic Tasks | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-14397/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Running the Gauntlet: Hard Agentic Tasks
 
 Introduces GauntletBench, a web-based benchmark of vision-intensive tasks in five professional applications for assessing agent perception, 3D reasoning, and generalisation.
@@ -26,6 +34,18 @@ Mykola Vysotskyi, Runqi Lin, Grzegorz Biziel, Michal Zakrzewski, Sebastian Monta
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-14397/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-14397/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_14397,
+  title = {{Running the Gauntlet: Hard Agentic Tasks}},
+  author = {{Mykola Vysotskyi} and {Runqi Lin} and {Grzegorz Biziel} and {Michal Zakrzewski} and {Sebastian Montagna} and {Damian Rynczak} and {Shreyansh Padarha} and {Kumail Alhamoud} and {Zihao Fu} and {William Lugoloobi} and {Kai Rawal} and {Hanna Yershova} and {Taras Rumezhak} and {Guohao Li} and {Fazl Barez} and {Baoyuan Wu} and {Arkadiusz Drohomirecki} and {Chris Russell} and {Christopher Summerfield} and {Adam Mahdi} and {Volodymyr Karpiv} and {Philip Torr} and {Adel Bibi}},
+  year = {2026},
+  eprint = {2606.14397v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.14397v5},
+  note = {First published: 2026-06-12; Recorded arXiv version: v5; Recorded version updated: 2026-09-28T11:24:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

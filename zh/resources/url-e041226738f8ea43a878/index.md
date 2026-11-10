@@ -1,3 +1,11 @@
+---
+title: "Mobile-GUI-Worldmodel-SFT · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e041226738f8ea43a878/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Mobile-GUI-Worldmodel-SFT
 
 这是用于移动界面世界模型训练与评估的数据集。轨迹归档将截图与页面状态文本及动作格式的训练样例配对。

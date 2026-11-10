@@ -1,3 +1,11 @@
+---
+title: "Not All Experience Belongs in the Weights… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-01787/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents
 
 Studies how to route different parts of GUI experience into model weights or runtime context. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
@@ -26,6 +34,18 @@ Beining Wu, Zihao Ding, Jun Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-01787/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-01787/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_01787,
+  title = {{Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents}},
+  author = {{Beining Wu} and {Zihao Ding} and {Jun Huang}},
+  year = {2026},
+  eprint = {2610.01787v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.01787v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T14:34:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

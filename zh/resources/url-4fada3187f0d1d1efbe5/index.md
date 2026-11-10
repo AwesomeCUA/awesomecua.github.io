@@ -1,3 +1,11 @@
+---
+title: "UI-Ins-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4fada3187f0d1d1efbe5/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # UI-Ins-32B
 
 用于根据指令定位界面元素的 GUI 定位模型检查点；训练结合多样化指令表述和强化学习。

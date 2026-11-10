@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround_windows | AwesomeCUA"
+url: https://awesomecua.com/resources/url-79b8dfa115894a7f53aa/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # WinDeskGround_windows
 
 WinDeskGround_windows supplies Windows application screenshots with clickable targets, bounding boxes, and referring expressions for desktop GUI grounding tasks.

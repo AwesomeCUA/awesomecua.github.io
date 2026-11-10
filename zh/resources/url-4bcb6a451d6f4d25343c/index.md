@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM)… (4bcb6a451d6f4d25343c) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4bcb6a451d6f4d25343c/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard
 
 THUDM ScaleCUA 的 GLM-4.6V-Flash 计算机使用智能体检查点，从已发布的监督训练模型出发，经在线强化学习用于 ScienceBoard 科学软件任务。

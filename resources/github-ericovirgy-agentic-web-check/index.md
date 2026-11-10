@@ -1,3 +1,11 @@
+---
+title: "Agentic Web Check | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ericovirgy-agentic-web-check/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agentic Web Check
 
 Agentic Web Check is a Lighthouse-style auditor that scores websites across 43 checks for AI browser-agent accessibility and controllability.

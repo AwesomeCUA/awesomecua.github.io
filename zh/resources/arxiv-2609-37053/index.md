@@ -1,3 +1,11 @@
+---
+title: "MatToolBench: Benchmarking Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-37053/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows
 
 MatToolBench 是基于 Windows 的材料科学基准，结合 GUI 操作、科学软件脚本和数据库查询。专家制定的子项标准支持部分得分，评估还考察领域知识缺口和跨工具交接失败。
@@ -27,6 +35,18 @@ Mei Wu, Rui Xie, Runyu Zhang, Yuqiang Li, Tianfan Fu, Bo Chen, Kai Yu, Xin Chen,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-37053/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-37053/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_37053,
+  title = {{MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows}},
+  author = {{Mei Wu} and {Rui Xie} and {Runyu Zhang} and {Yuqiang Li} and {Tianfan Fu} and {Bo Chen} and {Kai Yu} and {Xin Chen} and {Lu Chen}},
+  year = {2026},
+  eprint = {2609.37053v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.37053v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T08:58:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

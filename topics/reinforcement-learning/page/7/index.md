@@ -1,3 +1,11 @@
+---
+title: "Reinforcement learning — computer-use…, page 7 | AwesomeCUA"
+url: https://awesomecua.com/topics/reinforcement-learning/page/7/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Reinforcement learning — computer-use research, page 7
 
 HTML page: https://awesomecua.com/topics/reinforcement-learning/page/7/

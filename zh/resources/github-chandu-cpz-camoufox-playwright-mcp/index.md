@@ -1,3 +1,11 @@
+---
+title: "Camoufox Playwright MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chandu-cpz-camoufox-playwright-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Camoufox Playwright MCP
 
 运行于 Camoufox 隐身 Firefox 引擎之上的即插即用型 Playwright Model Context Protocol 服务器。

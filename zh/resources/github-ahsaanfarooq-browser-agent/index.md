@@ -1,3 +1,11 @@
+---
+title: "ahsaanfarooq browser-agent MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahsaanfarooq-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ahsaanfarooq browser-agent MCP
 
 Model Context Protocol 服务器，为 Claude 提供持久化、支持多个配置文件且已登录的 Chrome 浏览器。

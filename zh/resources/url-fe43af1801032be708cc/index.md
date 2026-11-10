@@ -1,3 +1,11 @@
+---
+title: "ScreenDrag · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fe43af1801032be708cc/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # ScreenDrag
 
 包含屏幕观察、先前状态和连续指针操作的 GUI 拖动数据，以轨迹文件和 Parquet 格式提供。

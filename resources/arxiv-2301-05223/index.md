@@ -1,3 +1,11 @@
+---
+title: "NOPA: Neurally-guided Online Probabilistic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-05223/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # NOPA: Neurally-guided Online Probabilistic Assistance for Building Socially Intelligent Home Assistants
 
 Bibliographic record for NOPA: Neurally-guided Online Probabilistic Assistance for Building Socially Intelligent Home Assistants. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xavier Puig, Tianmin Shu, Joshua B. Tenenbaum, Antonio Torralba
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-05223/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-05223/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_05223,
+  title = {{NOPA: Neurally-guided Online Probabilistic Assistance for Building Socially Intelligent Home Assistants}},
+  author = {{Xavier Puig} and {Tianmin Shu} and {Joshua B. Tenenbaum} and {Antonio Torralba}},
+  year = {2023},
+  eprint = {2301.05223v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.05223v1},
+  note = {First published: 2023-01-12; Recorded arXiv version: v1; Recorded version updated: 2023-01-12T18:59:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

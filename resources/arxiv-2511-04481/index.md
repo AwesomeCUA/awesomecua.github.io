@@ -1,3 +1,11 @@
+---
+title: "Promoting Sustainable Web Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-04481/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Promoting Sustainable Web Agents: Benchmarking and Estimating Energy Consumption through Empirical and Theoretical Analysis
 
 Bibliographic record for Promoting Sustainable Web Agents: Benchmarking and Estimating Energy Consumption through Empirical and Theoretical Analysis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Lars Krupp, Daniel Geißler, Vishal Banwari, Paul Lukowicz, Jakob Karolus
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-04481/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-04481/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_04481,
+  title = {{Promoting Sustainable Web Agents: Benchmarking and Estimating Energy Consumption through Empirical and Theoretical Analysis}},
+  author = {{Lars Krupp} and {Daniel Geißler} and {Vishal Banwari} and {Paul Lukowicz} and {Jakob Karolus}},
+  year = {2025},
+  eprint = {2511.04481v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.04481v1},
+  note = {First published: 2025-11-06; Recorded arXiv version: v1; Recorded version updated: 2025-11-06T15:59:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

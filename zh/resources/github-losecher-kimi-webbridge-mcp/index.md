@@ -1,3 +1,11 @@
+---
+title: "kimi-webbridge-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-losecher-kimi-webbridge-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # kimi-webbridge-mcp
 
 通过标准输入输出运行的 Model Context Protocol 服务器，将本地 Kimi WebBridge 守护进程封装为浏览器控制工具。

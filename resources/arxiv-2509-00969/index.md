@@ -1,3 +1,11 @@
+---
+title: "Seeing More, Saying More: Lightweight… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-00969/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "MobileRAG · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-liuxiaojieoutofworld-mobilerag-arxiv/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MobileRAG
 
 MobileRAG 结合本地应用检索、历史轨迹记忆和外部网页搜索，通过 ADB 操作 Android 设备。

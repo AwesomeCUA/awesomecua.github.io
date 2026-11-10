@@ -1,3 +1,11 @@
+---
+title: "Aries AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zg0704666-aries-ai/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Aries AI
 
 Aries AI is an Android agent that uses a language model to interpret screens, plan natural-language tasks and operate apps through accessibility or virtual-display input.

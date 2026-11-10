@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-14B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-558abdb3eb20b922e01b/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-14B
 
 InternVL3.5 多模态模型权重，总参数量 15.1B，经过 CPT、SFT 和 Cascade RL 训练。论文报告了它在 ScreenSpot、OSWorld-G 和 WindowsAgentArena 上的 GUI 定位与智能体结果。

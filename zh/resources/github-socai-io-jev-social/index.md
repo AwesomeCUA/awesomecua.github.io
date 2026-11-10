@@ -1,3 +1,11 @@
+---
+title: "Jev Social · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-socai-io-jev-social/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Jev Social
 
 Jev Social 通过已登录的 Chrome 浏览器研究 Instagram、TikTok 和 LinkedIn，逐步选择操作，并根据采集的来源证据生成报告。

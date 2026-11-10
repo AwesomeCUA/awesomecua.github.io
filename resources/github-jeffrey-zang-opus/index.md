@@ -1,3 +1,11 @@
+---
+title: "Opus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeffrey-zang-opus/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Opus
 
 Electron app for macOS whose OpenAI Agents SDK loop operates apps through AppleScript, Accessibility-element clicks, key presses, shell commands and URIs, guided by element lists and screenshots.

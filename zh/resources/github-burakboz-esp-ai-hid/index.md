@@ -1,3 +1,11 @@
+---
+title: "ESP-AI-HID Controller · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-burakboz-esp-ai-hid/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ESP-AI-HID Controller
 
 ESP32-S2 硬件 USB HID 键盘和鼠标模拟器，带有双向串行协议，用于不依赖操作系统的 AI 计算机控制。

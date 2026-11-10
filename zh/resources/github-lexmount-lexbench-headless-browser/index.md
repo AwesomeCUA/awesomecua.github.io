@@ -1,3 +1,11 @@
+---
+title: "Lexbench-Headless-Browser · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lexmount-lexbench-headless-browser/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Lexbench-Headless-Browser
 
 Lexbench-Headless-Browser 在 1,928 项网页任务上评测 13 种无头浏览器自动化运行时。

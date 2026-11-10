@@ -1,3 +1,11 @@
+---
+title: "Agent Q · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sentient-engineering-agent-q/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agent Q
 
 Agent Q 结合蒙特卡洛树搜索、AI 自我评判和直接偏好优化，实现自主网页导航。

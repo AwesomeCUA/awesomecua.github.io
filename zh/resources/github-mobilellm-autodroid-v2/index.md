@@ -1,3 +1,11 @@
+---
+title: "AutoDroid V2 · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobilellm-autodroid-v2/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # AutoDroid V2
 
 Android 自动化实现，从探索轨迹生成应用文档，并在仿真器工作流程中评估语言模型生成的执行代码。

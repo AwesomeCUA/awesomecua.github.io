@@ -1,3 +1,11 @@
+---
+title: "Cognitive Kernel-Pro: A Framework for Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-00414/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training
 
 Bibliographic record for Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianqing Fang, Zhisong Zhang, Xiaoyang Wang, Rui Wang, Can Qin, Yuxuan Wan, Jun-
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-00414/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-00414/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_00414,
+  title = {{Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training}},
+  author = {{Tianqing Fang} and {Zhisong Zhang} and {Xiaoyang Wang} and {Rui Wang} and {Can Qin} and {Yuxuan Wan} and {Jun-Yu Ma} and {Ce Zhang} and {Jiaqi Chen} and {Xiyun Li} and {Yonglin Wang} and {Jingchen Ni} and {Tianshi Zheng} and {Chun Chen} and {Wenhao Yu} and {Zhenwen Liang} and {Hongming Zhang} and {Haitao Mi} and {Dong Yu}},
+  year = {2025},
+  eprint = {2508.00414v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.00414v3},
+  note = {First published: 2025-08-01; Recorded arXiv version: v3; Recorded version updated: 2026-04-22T08:14:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

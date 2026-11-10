@@ -1,3 +1,11 @@
+---
+title: "Pursuit Permit WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-moaqil-pursuit-permit-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Pursuit Permit WebMCP
 
 Revision-bound capacity permit protocol for WebMCP browser agents that invalidates stale approvals when page state changes.

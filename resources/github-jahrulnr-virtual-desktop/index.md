@@ -1,3 +1,11 @@
+---
+title: "Relay AI Virtual Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Relay AI Virtual Desktop
 
 Browser-streamed Docker Linux desktop shared between humans and AI agents with a Go MCP computer-use server.

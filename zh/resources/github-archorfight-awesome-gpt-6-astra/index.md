@@ -1,3 +1,11 @@
+---
+title: "Awesome GPT-6 Astra · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-archorfight-awesome-gpt-6-astra/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # Awesome GPT-6 Astra
 
 附有证据链接的计算机使用演示、评测和智能体工作流目录，并提供一手来源凭据。

@@ -1,3 +1,11 @@
+---
+title: "AgentiTest | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kweinmeister-agentitest/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AgentiTest
 
 AgentiTest is a natural-language browser test automation framework built on Python pytest, Allure reporting, and LLM web agents.

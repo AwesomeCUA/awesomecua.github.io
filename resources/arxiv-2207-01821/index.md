@@ -1,3 +1,11 @@
+---
+title: "Toward Explainable and Fine-Grained 3D… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2207-01821/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases
 
 Bibliographic record for Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhihao Yuan, Xu Yan, Zhuo Li, Xuhao Li, Yao Guo, Shuguang Cui, Zhen Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2207-01821/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2207-01821/citation.csl.json
+
+```bibtex
+@misc{arxiv_2207_01821,
+  title = {{Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases}},
+  author = {{Zhihao Yuan} and {Xu Yan} and {Zhuo Li} and {Xuhao Li} and {Yao Guo} and {Shuguang Cui} and {Zhen Li}},
+  year = {2022},
+  eprint = {2207.01821v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2207.01821v2},
+  note = {First published: 2022-07-05; Recorded arXiv version: v2; Recorded version updated: 2023-05-27T10:03:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "BIM-Edit: Benchmarking Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-20146/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling
 
 Bibliographic record for BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bharathi Kannan Nithyanantham, Clemens Kujat, Tobias Sesterhenn, Stefan Telgmann
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-20146/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-20146/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20146,
+  title = {{BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling}},
+  author = {{Bharathi Kannan Nithyanantham} and {Clemens Kujat} and {Tobias Sesterhenn} and {Stefan Telgmann} and {Ashwin Nedungadi} and {Jörn Plönnigs} and {Christian Bartelt} and {Stefan Lüdtke}},
+  year = {2026},
+  eprint = {2606.20146v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20146v3},
+  note = {First published: 2026-06-18; Recorded arXiv version: v3; Recorded version updated: 2026-06-23T06:59:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

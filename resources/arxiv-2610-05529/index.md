@@ -1,3 +1,11 @@
+---
+title: "DynaMesh: Dynamic 3D Texture Generation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-05529/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DynaMesh: Dynamic 3D Texture Generation
 
 Bibliographic record for DynaMesh: Dynamic 3D Texture Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Raj Hansini, Guan Chen, Rana Hanocka, Itai Lang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-05529/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-05529/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05529,
+  title = {{DynaMesh: Dynamic 3D Texture Generation}},
+  author = {{Raj Hansini} and {Guan Chen} and {Rana Hanocka} and {Itai Lang}},
+  year = {2026},
+  eprint = {2610.05529v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05529v1},
+  note = {First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T20:52:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

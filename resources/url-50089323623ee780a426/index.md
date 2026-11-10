@@ -1,3 +1,11 @@
+---
+title: "MiniMax M3 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-50089323623ee780a426/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # MiniMax M3
 
 MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.

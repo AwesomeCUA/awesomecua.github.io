@@ -1,3 +1,11 @@
+---
+title: "DeskMind Hands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deskmind-ai-hands/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # DeskMind Hands
 
 A desktop agent harness that runs planner decisions through macOS input and accessibility controls, with a mock desktop, task verification and oracle-labelled training workflows.

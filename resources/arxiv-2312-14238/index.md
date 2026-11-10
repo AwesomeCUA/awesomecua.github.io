@@ -1,3 +1,11 @@
+---
+title: "InternVL: Scaling up Vision Foundation Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-14238/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
 
 Bibliographic record for InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Q
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-14238/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-14238/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_14238,
+  title = {{InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks}},
+  author = {{Zhe Chen} and {Jiannan Wu} and {Wenhai Wang} and {Weijie Su} and {Guo Chen} and {Sen Xing} and {Muyan Zhong} and {Qinglong Zhang} and {Xizhou Zhu} and {Lewei Lu} and {Bin Li} and {Ping Luo} and {Tong Lu} and {Yu Qiao} and {Jifeng Dai}},
+  year = {2023},
+  eprint = {2312.14238v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.14238v3},
+  note = {First published: 2023-12-21; Recorded arXiv version: v3; Recorded version updated: 2024-01-15T15:23:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

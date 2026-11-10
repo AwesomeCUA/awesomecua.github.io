@@ -1,3 +1,11 @@
+---
+title: "Ace | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7a35f44787f99834f13e/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Ace
 
 General Agents' desktop autopilot, trained on recorded expert behavior, that predicts clicks, keystrokes and other actions from screenshots; its API client ships a macOS controller that executes them.

@@ -1,3 +1,11 @@
+---
+title: "Universal Computer Control MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-adkdev200-universal-computer-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Universal Computer Control MCP
 
 Model Context Protocol 服务器，为 AI 智能体提供跨平台截图及鼠标、键盘和窗口控制功能。

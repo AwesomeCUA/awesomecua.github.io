@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-66096ad4057a3d3726f5/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-Actor data
 
 A processed screenshot and bounding-box collection released for training GUI-Actor visual grounding models.

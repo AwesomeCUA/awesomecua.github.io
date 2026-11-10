@@ -1,3 +1,11 @@
+---
+title: "midscene-pc | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mofangbao-midscene-pc/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # midscene-pc
 
 midscene-pc extends Midscene.js to local and remote PC desktops, enabling natural-language GUI automation across Windows, Linux, and macOS.

@@ -1,3 +1,11 @@
+---
+title: "Auto_OS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jaswanth1902-auto-os/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Auto_OS
 
 通过直接遍历 Win32 UI Automation 树和原生输入注入实现的 Windows 桌面自动化基础组件，耗时低于 30 毫秒。

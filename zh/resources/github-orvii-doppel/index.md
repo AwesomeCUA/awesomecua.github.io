@@ -1,3 +1,11 @@
+---
+title: "Doppel · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-orvii-doppel/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Doppel
 
 Doppel 是计算机使用智能体，在 Windows 11 和 Linux 上配备独立光标的专用虚拟桌面中运行。

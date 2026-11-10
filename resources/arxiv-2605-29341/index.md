@@ -1,3 +1,11 @@
+---
+title: "WorldMemArena: Evaluating Multimodal Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29341/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction
 
 Bibliographic record for WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, Yichen Guo, Nuo 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-29341/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-29341/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29341,
+  title = {{WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction}},
+  author = {{Chengzhi Liu} and {Yuzhe Yang} and {Sophia Xiao Pu} and {Yepeng Liu} and {Lin Long} and {Yichen Guo} and {Nuo Chen} and {Zhaotian Weng} and {Elena Kochkina} and {Simerjot Kaur} and {Charese Smiley} and {Xiaomo Liu} and {James Zou} and {Sheng Liu} and {Yuheng Bu} and {Songyou Peng} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2605.29341v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29341v2},
+  note = {First published: 2026-05-28; Recorded arXiv version: v2; Recorded version updated: 2026-06-01T07:01:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

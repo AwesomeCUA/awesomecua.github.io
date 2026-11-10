@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 7B AW · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7afa17db925828d9a035/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 7B AW
 
 面向 AndroidWorld 的 Qwen2-VL 检查点，基于 OS-Genesis 逆向任务合成生成的移动端轨迹训练，从指令、历史和屏幕预测下一步思考与操作。

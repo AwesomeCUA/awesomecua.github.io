@@ -1,3 +1,11 @@
+---
+title: "fastbrowse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agent-labs-dev-fastbrowse/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # fastbrowse
 
 Browser agent in which TypeSafe's Jev picks each action from controls indexed on the page over CDP, an LLM plans and reads, and code gates inputs, secrets and irreversible steps; answers cite page quotes.

@@ -1,3 +1,11 @@
+---
+title: "SpecFLASH: A Latent-Guided… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12728/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SpecFLASH: A Latent-Guided Semi-autoregressive Speculative Decoding Framework for Efficient Multimodal Generation
 
 Status: excluded from the active CUA catalog after scope review.

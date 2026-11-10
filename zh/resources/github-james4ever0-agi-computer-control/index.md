@@ -1,3 +1,11 @@
+---
+title: "Cybergod · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-james4ever0-agi-computer-control/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # Cybergod
 
 计算机操作智能体实验性单体仓库，包含 tmux 终端环境、在 noVNC/ttyd Docker 工作进程中记录 GUI 和终端会话的网页记录器，以及随机输入数据收集。

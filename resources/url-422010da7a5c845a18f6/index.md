@@ -1,3 +1,11 @@
+---
+title: "GUIMid training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-422010da7a5c845a18f6/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # GUIMid training data
 
 A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.

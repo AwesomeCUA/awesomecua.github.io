@@ -1,10 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 9 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/9/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 9
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/9/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [Chrome Extension Tester MCP](https://awesomecua.com/resources/github-bhuvan-rj-chrome-extension-testing-mcp/)
 - [Chrome Faithful](https://awesomecua.com/resources/github-bpc-oss-chrome-faithful/)
 - [Chrome for AI](https://awesomecua.com/resources/github-pelag-michael-chrome-for-ai/)
 - [Chrome Live MCP](https://awesomecua.com/resources/github-wankaiyi-chrome-live-mcp/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Codex ChatGPT Web Delegator](https://awesomecua.com/resources/github-steeltimber-codex-chatgpt-web-delegator/)
 - [Codex ChatGPT Web Orchestrator](https://awesomecua.com/resources/github-chicogong-codex-chatgpt-web-orchestrator/)
 - [Codex Chrome Browser Control Skill](https://awesomecua.com/resources/github-qlk-x-codex-chrome-browser-control/)
+- [Codex Computer Use Lab](https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/)

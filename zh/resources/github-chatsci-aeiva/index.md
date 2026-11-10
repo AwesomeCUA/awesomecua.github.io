@@ -1,3 +1,11 @@
+---
+title: "Aeiva · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chatsci-aeiva/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Aeiva
 
 Aeiva 是模块化通用 AI 智能体框架，可适配桌面、网页和科学任务环境。

@@ -1,3 +1,11 @@
+---
+title: "pi-chatgpt-web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tzachbon-pi-chatgpt-web/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pi-chatgpt-web
 
 Uses an authenticated ChatGPT browser session as a model provider inside the Pi coding agent.

@@ -1,3 +1,11 @@
+---
+title: "Aligning Cyber Space with Physical World: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-06886/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Antigravity Chrome Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ph4ntom-rev-antigravity-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Antigravity Chrome Bridge
 
 Zero-dependency native C++17 Model Context Protocol server exposing 22 Chrome DevTools automation tools over stdio.

@@ -1,3 +1,11 @@
+---
+title: "Steel Atlas | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steel-dev-atlas/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Steel Atlas
 
 Steel Atlas is an open-web research and browser automation agent built on the Steel cloud browser runtime.

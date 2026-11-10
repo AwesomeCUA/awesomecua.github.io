@@ -1,3 +1,11 @@
+---
+title: "Odysseys · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ljang0-odysseys/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # Odysseys
 
 包含 200 项取自真实浏览会话的长流程网页任务，通过 OSWorld 运行器在 Chrome 中访问实时互联网，并由 LLM 评判器依据轨迹截图和操作按评分细则逐项评分。

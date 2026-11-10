@@ -1,3 +1,11 @@
+---
+title: "@sparticuz/chromium · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sparticuz-chromium/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # @sparticuz/chromium
 
 @sparticuz/chromium 提供无界面的 Linux Chromium 构建版本和启动设置，供 Puppeteer 或 Playwright 在无服务器环境中进行浏览器自动化。

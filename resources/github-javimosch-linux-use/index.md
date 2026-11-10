@@ -1,3 +1,11 @@
+---
+title: "linux-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-javimosch-linux-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # linux-use
 
 Agent-first, CLI-first GUI control toolkit for Linux desktops operating over the AT-SPI2 accessibility tree.

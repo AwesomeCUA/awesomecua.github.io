@@ -1,3 +1,11 @@
+---
+title: "MemR$^3$: Memory Retrieval via Reflective… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-20237/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

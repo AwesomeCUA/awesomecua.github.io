@@ -1,3 +1,11 @@
+---
+title: "CoMIC: Collaborative Memory and Insights… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-00756/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # CoMIC: Collaborative Memory and Insights Circulation for Long-Horizon LLM Agents in Web Cloud-Edge Systems
 
 Bibliographic record for CoMIC: Collaborative Memory and Insights Circulation for Long-Horizon LLM Agents in Web Cloud-Edge Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yannan Wang, Longli Yang, Zhen Liu, Abhishek Kumar, Carsten Maple
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-00756/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-00756/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_00756,
+  title = {{CoMIC: Collaborative Memory and Insights Circulation for Long-Horizon LLM Agents in Web Cloud-Edge Systems}},
+  author = {{Yannan Wang} and {Longli Yang} and {Zhen Liu} and {Abhishek Kumar} and {Carsten Maple}},
+  year = {2026},
+  eprint = {2606.00756v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.00756v2},
+  note = {First published: 2026-05-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-13T11:48:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

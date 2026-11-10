@@ -1,3 +1,11 @@
+---
+title: "WebRetriever (huggingface.co/datasets/Miningla… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e96228937fdb3bc51531/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WebRetriever
 
 A web-agent benchmark with navigation, documentation-guided navigation and end-to-end information-extraction protocols across 1,550 tasks.

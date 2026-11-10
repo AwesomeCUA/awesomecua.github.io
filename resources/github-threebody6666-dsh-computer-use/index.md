@@ -1,3 +1,11 @@
+---
+title: "ThreeBody6666 DSH Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-threebody6666-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ThreeBody6666 DSH Computer Use
 
 Native Windows computer-use and configurable vision plugin for DeepSeek Harness.

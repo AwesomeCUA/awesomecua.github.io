@@ -1,3 +1,11 @@
+---
+title: "Testing Language Model Agents Safely in the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-10538/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Testing Language Model Agents Safely in the Wild
 
 Bibliographic record for Testing Language Model Agents Safely in the Wild. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Silen Naihin, David Atkinson, Marc Green, Merwane Hamadi, Craig Swift, Douglas S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-10538/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-10538/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_10538,
+  title = {{Testing Language Model Agents Safely in the Wild}},
+  author = {{Silen Naihin} and {David Atkinson} and {Marc Green} and {Merwane Hamadi} and {Craig Swift} and {Douglas Schonholtz} and {Adam Tauman Kalai} and {David Bau}},
+  year = {2023},
+  eprint = {2311.10538v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.10538v3},
+  note = {First published: 2023-11-17; Recorded arXiv version: v3; Recorded version updated: 2023-12-03T13:18:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

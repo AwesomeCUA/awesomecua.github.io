@@ -1,3 +1,11 @@
+---
+title: "VEM: Environment-Free Exploration for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-18906/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model
 
 Trains GUI agents with a frozen value model learned from offline interactions, guiding action exploration without predicting complete next observations.
@@ -26,6 +34,18 @@ Jiani Zheng, Lu Wang, Fangkai Yang, Chaoyun Zhang, Lingrui Mei, Wenjie Yin, Qing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-18906/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-18906/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_18906,
+  title = {{VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model}},
+  author = {{Jiani Zheng} and {Lu Wang} and {Fangkai Yang} and {Chaoyun Zhang} and {Lingrui Mei} and {Wenjie Yin} and {Qingwei Lin} and {Dongmei Zhang} and {Saravan Rajmohan} and {Qi Zhang}},
+  year = {2025},
+  eprint = {2502.18906v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.18906v1},
+  note = {First published: 2025-02-26; Recorded arXiv version: v1; Recorded version updated: 2025-02-26T07:52:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

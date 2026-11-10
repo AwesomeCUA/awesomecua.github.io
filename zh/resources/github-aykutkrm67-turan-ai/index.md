@@ -1,3 +1,11 @@
+---
+title: "Turan AI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aykutkrm67-turan-ai/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Turan AI
 
 本地多核心 Windows AI 桌面智能体，具备可见的计算机控制和经过验证的动作执行。

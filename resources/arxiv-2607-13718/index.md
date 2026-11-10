@@ -1,3 +1,11 @@
+---
+title: "How Agents Ask for Permission: User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-13718/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement
 
 Bibliographic record for How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Alexandra E. Michael, Franziska Roesner
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-13718/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-13718/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_13718,
+  title = {{How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement}},
+  author = {{Alexandra E. Michael} and {Franziska Roesner}},
+  year = {2026},
+  eprint = {2607.13718v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.13718v3},
+  note = {First published: 2026-07-15; Recorded arXiv version: v3; Recorded version updated: 2026-10-15T22:49:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

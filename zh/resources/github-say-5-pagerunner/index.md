@@ -1,3 +1,11 @@
+---
+title: "PageRunner · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-say-5-pagerunner/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PageRunner
 
 PageRunner 是浏览器智能体编排平台，提供有界执行循环、确定性重放和标准轨迹验证。

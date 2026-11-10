@@ -1,3 +1,11 @@
+---
+title: "grokbot-cdp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-daizedong-grokbot-cdp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # grokbot-cdp
 
 Python 客户端，通过 Chrome DevTools Protocol 控制 xAI 的 Grok 计算机使用智能体背后的云浏览器和虚拟机。

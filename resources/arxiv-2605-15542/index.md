@@ -1,3 +1,11 @@
+---
+title: "DRS-GUI: Dynamic Region Search for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-15542/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding
 
 DRS-GUI searches screenshot regions through focus, shift and scatter operations selected by a tree-search planner. A region-quality reward guides this training-free perceptual search before final GUI grounding.
@@ -26,6 +34,18 @@ Yichao Liu, Huawen Shen, Liu Yu, Shiyu Liu, Zeyu Chen, Yu Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-15542/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-15542/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15542,
+  title = {{DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding}},
+  author = {{Yichao Liu} and {Huawen Shen} and {Liu Yu} and {Shiyu Liu} and {Zeyu Chen} and {Yu Zhou}},
+  year = {2026},
+  eprint = {2605.15542v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15542v1},
+  note = {First published: 2026-05-15; Recorded arXiv version: v1; Recorded version updated: 2026-05-15T02:27:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

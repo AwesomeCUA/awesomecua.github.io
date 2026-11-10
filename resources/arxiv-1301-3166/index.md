@@ -1,3 +1,11 @@
+---
+title: "Diagnostic tools of approximate Bayesian… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1301-3166/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Diagnostic tools of approximate Bayesian computation using the coverage property
 
 Status: excluded from the active CUA catalog after scope review.

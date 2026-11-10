@@ -1,3 +1,11 @@
+---
+title: "Master Internet Unit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-0bifthenelse-master-internet-unit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Master Internet Unit
 
 面向 AI 智能体的高性能 Rust Model Context Protocol 浏览器服务器。

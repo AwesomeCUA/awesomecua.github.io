@@ -1,3 +1,11 @@
+---
+title: "puppeteer-extra · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-berstend-puppeteer-extra/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # puppeteer-extra
 
 面向 Puppeteer 的模块化插件框架，以 monorepo 形式维护插件和相关软件包。

@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_Task_Suite_Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dea0e09f027df704ca00/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # GUI_Reflection_Task_Suite_Benchmark
 
 Evaluation split of the GUI Reflection Task Suite, with JSONL files for action verification, action reversal and mistake-informed reattempts on ScreenSpot and ScreenSpot v2.

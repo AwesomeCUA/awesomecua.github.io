@@ -1,3 +1,11 @@
+---
+title: "CogAgent: A Visual Language Model for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2312-08914/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # CogAgent: A Visual Language Model for GUI Agents
 
 提出采用低分辨率和高分辨率图像编码器的视觉语言模型，用于理解屏幕截图和 GUI 导航。
@@ -27,6 +35,17 @@ The annotation and scope were reviewed against the primary paper abstract.
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2312-08914/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2312-08914/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_08914,
+  title = {{CogAgent: A Visual Language Model for GUI Agents}},
+  year = {2023},
+  eprint = {2312.08914v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.08914v3},
+  note = {First published: 2023-12-14; Recorded arXiv version: v3; Recorded version updated: 2024-12-27T06:56:18Z; Authors: see the paper (https://arxiv.org/abs/2312.08914v3); this catalog does not list them.}
+}
+```
 
 ## 发表记录
 

@@ -1,3 +1,11 @@
+---
+title: "A Trembling House of Cards? Mapping… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-10196/
+updated: 2026-10-18
+type: survey
+lang: zh-CN
+---
+
 # A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents
 
 提出语言智能体的感知—推理—行动概念框架及 12 种潜在攻击场景，其中包括假设性的网页导航攻击。
@@ -27,6 +35,18 @@ Lingbo Mo, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-10196/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-10196/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_10196,
+  title = {{A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents}},
+  author = {{Lingbo Mo} and {Zeyi Liao} and {Boyuan Zheng} and {Yu Su} and {Chaowei Xiao} and {Huan Sun}},
+  year = {2024},
+  eprint = {2402.10196v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.10196v1},
+  note = {First published: 2024-02-15; Recorded arXiv version: v1; Recorded version updated: 2024-02-15T18:51:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

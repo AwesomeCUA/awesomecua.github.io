@@ -1,3 +1,11 @@
+---
+title: "WebMCP (github.com/webmachinelearning/web… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-webmachinelearning-webmcp/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # WebMCP
 
 一项客户端网页 API 提案，让页面向浏览器智能体提供结构化的 JavaScript 工具。智能体可调用页面功能，同时与用户共享可见界面和上下文。

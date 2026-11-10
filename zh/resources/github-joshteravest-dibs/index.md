@@ -1,3 +1,11 @@
+---
+title: "dibs · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-joshteravest-dibs/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # dibs
 
 本地协调中心和锁管理器，让多个 AI 智能体预留并使用计算机使用资源，避免冲突。

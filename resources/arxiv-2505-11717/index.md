@@ -1,3 +1,11 @@
+---
+title: "WebInject: Prompt Injection Attack to Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-11717/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebInject: Prompt Injection Attack to Web Agents
 
 Introduces WebInject, a prompt-injection attack that optimizes rendered webpage pixels to make screenshot-based web agents take attacker-chosen actions.
@@ -26,6 +34,18 @@ Xilong Wang, John Bloch, Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Zhenqiang Go
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-11717/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-11717/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_11717,
+  title = {{WebInject: Prompt Injection Attack to Web Agents}},
+  author = {{Xilong Wang} and {John Bloch} and {Zedian Shao} and {Yuepeng Hu} and {Shuyan Zhou} and {Neil Zhenqiang Gong}},
+  year = {2025},
+  eprint = {2505.11717v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.11717v4},
+  note = {First published: 2025-05-16; Recorded arXiv version: v4; Recorded version updated: 2025-10-17T01:52:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

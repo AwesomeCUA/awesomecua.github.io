@@ -1,3 +1,11 @@
+---
+title: "State Your Intention to Steer Your Attention… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-14513/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living
 
 Introduces an assistant that reads screenshots, application titles, and URLs to compare computer activity with a user's stated intention and send notifications when it diverges.
@@ -26,6 +34,18 @@ Juheon Choi, Juyong Lee, Jian Kim, Chanyoung Kim, Taywon Min, W. Bradley Knox, M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-14513/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-14513/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_14513,
+  title = {{State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living}},
+  author = {{Juheon Choi} and {Juyong Lee} and {Jian Kim} and {Chanyoung Kim} and {Taywon Min} and {W. Bradley Knox} and {Min Kyung Lee} and {Kimin Lee}},
+  year = {2025},
+  eprint = {2510.14513v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.14513v3},
+  note = {First published: 2025-10-16; Recorded arXiv version: v3; Recorded version updated: 2026-03-02T09:08:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

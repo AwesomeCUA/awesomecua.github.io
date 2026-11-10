@@ -1,3 +1,11 @@
+---
+title: "INREACT: An Inspire-Then-Reinforce Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent
 
 InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.
@@ -26,6 +34,20 @@ Yuanlei Wang, Liuzhou Zhang, Haohao Luo, Ying Shen
 
 - BibTeX: https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/citation.csl.json
+
+```bibtex
+@inproceedings{cua_36bd25d3b6b4637d5a0f9b3e,
+  title = {{INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent}},
+  author = {{Yuanlei Wang} and {Liuzhou Zhang} and {Haohao Luo} and {Ying Shen}},
+  year = {2025},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2025},
+  publisher = {Association for Computational Linguistics},
+  pages = {9148-9160},
+  doi = {10.18653/v1/2025.findings-emnlp.486},
+  url = {https://aclanthology.org/2025.findings-emnlp.486},
+  note = {Publication date: 2025.}
+}
+```
 
 ## Publication record
 

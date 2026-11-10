@@ -1,3 +1,11 @@
+---
+title: "WinWright · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alegauss-winwright/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WinWright
 
 受 Playwright 启发的 Windows 桌面自动化与测试框架，可操控原生应用并报告经过验证的 UI 状态。

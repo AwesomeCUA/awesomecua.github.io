@@ -1,3 +1,11 @@
+---
+title: "FocusLLaVA: A Coarse-to-Fine Approach for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-14228/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression
 
 Status: excluded from the active CUA catalog after scope review.

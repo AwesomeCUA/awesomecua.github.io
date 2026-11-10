@@ -1,3 +1,11 @@
+---
+title: "AppBuddy: Learning to Accomplish Tasks… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2106-00133/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning
 
 提出移动应用 RL 训练平台 AppBuddy 及任务集；智能体依据屏幕元素状态，通过点击和输入完成多步骤任务。
@@ -27,6 +35,18 @@ Maayan Shvo, Zhiming Hu, Rodrigo Toro Icarte, Iqbal Mohomed, Allan Jepson, Sheil
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2106-00133/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2106-00133/citation.csl.json
+
+```bibtex
+@misc{arxiv_2106_00133,
+  title = {{AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning}},
+  author = {{Maayan Shvo} and {Zhiming Hu} and {Rodrigo Toro Icarte} and {Iqbal Mohomed} and {Allan Jepson} and {Sheila A. McIlraith}},
+  year = {2021},
+  eprint = {2106.00133v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2106.00133v2},
+  note = {First published: 2021-05-31; Recorded arXiv version: v2; Recorded version updated: 2021-06-06T17:56:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

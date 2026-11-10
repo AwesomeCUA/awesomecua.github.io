@@ -1,3 +1,11 @@
+---
+title: "RSIGame: Autonomous Agentic Game Development… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-39045/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement
 
 Bibliographic record for RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenyi Wu, Minghao Fu, Jieyu You, Kun Zhou, Siqi Liu, Aayush Salvi, Yiheng Lin, C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39045/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39045/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39045,
+  title = {{RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement}},
+  author = {{Wenyi Wu} and {Minghao Fu} and {Jieyu You} and {Kun Zhou} and {Siqi Liu} and {Aayush Salvi} and {Yiheng Lin} and {Ce Zhang} and {Xiaohan Lan} and {Jiahui Zhu} and {Yujie Zhong} and {Qi She} and {Biwei Huang}},
+  year = {2026},
+  eprint = {2609.39045v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39045v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T05:54:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

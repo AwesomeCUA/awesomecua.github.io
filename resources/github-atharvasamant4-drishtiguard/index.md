@@ -1,3 +1,11 @@
+---
+title: "DrishtiGuard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # DrishtiGuard
 
 On-device visual privacy firewall that detects and masks sensitive screen regions before lightweight browser agents process frames.

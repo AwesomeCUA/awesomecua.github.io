@@ -1,3 +1,11 @@
+---
+title: "agent-view | AwesomeCUA"
+url: https://awesomecua.com/resources/github-petukhovart-agent-view/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # agent-view
 
 A CLI for agents to inspect and operate Electron, Windows Tauri, and Chromium apps through Chrome DevTools Protocol, with accessibility, screenshot, input, and diagnostic commands.

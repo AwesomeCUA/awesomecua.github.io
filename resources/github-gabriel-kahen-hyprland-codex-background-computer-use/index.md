@@ -1,3 +1,11 @@
+---
+title: "Hyprland Codex Background Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gabriel-kahen-hyprland-codex-background-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hyprland Codex Background Computer Use
 
 Enables background Codex computer control of Hyprland Wayland and XWayland applications without stealing focus.

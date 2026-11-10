@@ -1,3 +1,11 @@
+---
+title: "Work2Skill · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-china-qijizhifeng-work2skill/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # Work2Skill
 
 收集人类 GUI 操作示范，分析多模态证据，从中提炼可复用的智能体工作流技能。

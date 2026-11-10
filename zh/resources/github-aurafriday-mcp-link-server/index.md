@@ -1,3 +1,11 @@
+---
+title: "MCP Link Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aurafriday-mcp-link-server/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # MCP Link Server
 
 一款本地 MCP 服务器，让智能体调用获准的系统和浏览器工具，并通过已连接的浏览器扩展执行网页自动化。

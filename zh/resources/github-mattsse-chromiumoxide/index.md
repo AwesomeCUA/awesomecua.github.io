@@ -1,3 +1,11 @@
+---
+title: "chromiumoxide · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mattsse-chromiumoxide/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # chromiumoxide
 
 chromiumoxide 是一个异步 Rust 库，通过 DevTools Protocol 控制 Chrome 或 Chromium，提供浏览器页面和元素操作接口。

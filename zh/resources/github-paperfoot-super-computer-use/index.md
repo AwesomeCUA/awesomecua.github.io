@@ -1,3 +1,11 @@
+---
+title: "super-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-paperfoot-super-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # super-computer-use
 
 低延迟 macOS 计算机使用驱动程序（每个动作约 35ms），支持批量执行多步骤 UI 工作流。

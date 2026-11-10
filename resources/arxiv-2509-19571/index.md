@@ -1,3 +1,11 @@
+---
+title: "Agentic Scene Policies | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-19571/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic Scene Policies
 
 Bibliographic record for Agentic Scene Policies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sacha Morin, Kumaraditya Gupta, Mahtab Sandhu, Charlie Gauthier, Francesco Argen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-19571/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-19571/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_19571,
+  title = {{Agentic Scene Policies}},
+  author = {{Sacha Morin} and {Kumaraditya Gupta} and {Mahtab Sandhu} and {Charlie Gauthier} and {Francesco Argenziano} and {Kirsty Ellis} and {Liam Paull}},
+  year = {2025},
+  eprint = {2509.19571v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.19571v2},
+  note = {First published: 2025-09-23; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T01:53:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

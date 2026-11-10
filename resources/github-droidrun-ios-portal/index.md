@@ -1,3 +1,11 @@
+---
+title: "Droidrun iOS Portal | AwesomeCUA"
+url: https://awesomecua.com/resources/github-droidrun-ios-portal/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Droidrun iOS Portal
 
 An archived iOS automation portal that exposes screenshots, accessibility trees, app launch, gestures, and text input through an XCTest HTTP server.

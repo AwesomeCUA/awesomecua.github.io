@@ -1,3 +1,11 @@
+---
+title: "Docling Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-09869/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Docling Technical Report
 
 Bibliographic record for Docling Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Christoph Auer, Maksym Lysak, Ahmed Nassar, Michele Dolfi, Nikolaos Livathinos, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-09869/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-09869/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_09869,
+  title = {{Docling Technical Report}},
+  author = {{Christoph Auer} and {Maksym Lysak} and {Ahmed Nassar} and {Michele Dolfi} and {Nikolaos Livathinos} and {Panos Vagenas} and {Cesar Berrospi Ramis} and {Matteo Omenetti} and {Fabian Lindlbauer} and {Kasper Dinkla} and {Lokesh Mishra} and {Yusik Kim} and {Shubham Gupta} and {Rafael Teixeira de Lima} and {Valery Weber} and {Lucas Morin} and {Ingmar Meijer} and {Viktor Kuropiatnyk} and {Peter W. J. Staar}},
+  year = {2024},
+  eprint = {2408.09869v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.09869v5},
+  note = {First published: 2024-08-19; Recorded arXiv version: v5; Recorded version updated: 2024-12-09T09:20:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

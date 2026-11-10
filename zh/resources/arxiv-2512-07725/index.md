@@ -1,3 +1,11 @@
+---
+title: "Privacy Practices of Browser Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-07725/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Privacy Practices of Browser Agents
 
 论文提出浏览器智能体隐私评估框架，涵盖组件弱点、网站防护、跟踪、隐私相关提示和个人数据泄露，并将其用于评估已部署的浏览器智能体工具。
@@ -27,6 +35,18 @@ Alisha Ukani, Hamed Haddadi, Ali Shahin Shamsabadi, Peter Snyder
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-07725/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-07725/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_07725,
+  title = {{Privacy Practices of Browser Agents}},
+  author = {{Alisha Ukani} and {Hamed Haddadi} and {Ali Shahin Shamsabadi} and {Peter Snyder}},
+  year = {2025},
+  eprint = {2512.07725v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.07725v1},
+  note = {First published: 2025-12-08; Recorded arXiv version: v1; Recorded version updated: 2025-12-08T17:16:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

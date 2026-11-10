@@ -1,3 +1,11 @@
+---
+title: "Bops | AwesomeCUA"
+url: https://awesomecua.com/resources/github-orgoai-bops/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Bops
 
 Mac app for a team of business-ops bots that work on Orgo cloud Linux desktops through OpenAI's computer tool, run as xdotool actions, plus Playwright page scripts, app connectors, approval gates and live take-over.

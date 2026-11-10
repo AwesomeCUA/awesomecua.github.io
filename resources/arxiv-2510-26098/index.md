@@ -1,3 +1,11 @@
+---
+title: "GUI Knowledge Bench: Revealing the Knowledge… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-26098/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks
 
 GUI Knowledge Bench tests knowledge of widgets, interactions, and procedures across six named platforms and 292 applications to assess VLMs used for GUI tasks.
@@ -26,6 +34,18 @@ Chenrui Shi, Zedong Yu, Zhi Gao, Ruining Feng, Enqi Liu, Yuwei Wu, Yunde Jia, Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-26098/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-26098/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_26098,
+  title = {{GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks}},
+  author = {{Chenrui Shi} and {Zedong Yu} and {Zhi Gao} and {Ruining Feng} and {Enqi Liu} and {Yuwei Wu} and {Yunde Jia} and {Liuyu Xiang} and {Zhaofeng He} and {Qing Li}},
+  year = {2025},
+  eprint = {2510.26098v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.26098v2},
+  note = {First published: 2025-10-30; Recorded arXiv version: v2; Recorded version updated: 2026-02-09T07:49:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

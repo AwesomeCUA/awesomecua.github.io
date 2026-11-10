@@ -1,3 +1,11 @@
+---
+title: "Visual-RolePlay: Universal Jailbreak Attack… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-20773/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character
 
 Bibliographic record for Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-20773/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-20773/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_20773,
+  title = {{Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character}},
+  author = {{Siyuan Ma} and {Weidi Luo} and {Yu Wang} and {Xiaogeng Liu}},
+  year = {2024},
+  eprint = {2405.20773v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.20773v2},
+  note = {First published: 2024-05-25; Recorded arXiv version: v2; Recorded version updated: 2024-06-12T07:13:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

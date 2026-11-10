@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体评测基准（第 4 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/benchmark/page/4/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体评测基准：第 4 页
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/4/ · [English](https://awesomecua.com/categories/benchmark/page/4/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
 
-- [WebMCP Description Benchmarks](https://awesomecua.com/zh/resources/github-clouatre-labs-webmcp-description-benchmarks/)：WebMCP Description Benchmarks 评测浏览器内 WebMCP 工具的模式描述如何影响智能体选择工具和执行任务的准确率。
 - [WebsiteBench](https://awesomecua.com/zh/resources/github-tiger-ai-lab-websitebench/)：网站重建基准：智能体通过浏览器探索生产级网站，重建全栈版本，并在 70 项任务中通过隐藏的功能与视觉测试用例评分。
 - [WebTestBench](https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/)：端到端网页测试基准，智能体根据开发说明制定测试清单，与已部署的应用交互，并报告功能或约束方面的缺陷。
 - [WebWalker](https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/)：用于评测大型语言模型完成多步网页遍历和深度信息查找任务的评测基准与多智能体框架。

@@ -1,3 +1,11 @@
+---
+title: "Guardian: A Runtime Framework for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7424d66754ec26d68d83/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Guardian: A Runtime Framework for LLM-Based UI Exploration
 
 Guardian 通过缩小可用 UI 操作范围，并在操作失效后重新规划，支持大语言模型驱动的移动应用测试；评估涵盖 23 款应用的 58 项任务。
@@ -27,6 +35,21 @@ Dezhi Ran, Hao Wang, Zihe Song, Mengzhou Wu, Yuan Cao, Ying Zhang, Wei Yang, Tao
 
 - BibTeX：https://awesomecua.com/resources/url-7424d66754ec26d68d83/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-7424d66754ec26d68d83/citation.csl.json
+
+```bibtex
+@inproceedings{cua_eee2fc18197fcc17f44675db,
+  title = {{Guardian: A Runtime Framework for LLM-Based UI Exploration}},
+  author = {{Dezhi Ran} and {Hao Wang} and {Zihe Song} and {Mengzhou Wu} and {Yuan Cao} and {Ying Zhang} and {Wei Yang} and {Tao Xie}},
+  year = {2024},
+  month = sep,
+  booktitle = {Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+  publisher = {ACM},
+  pages = {958-970},
+  doi = {10.1145/3650212.3680334},
+  url = {https://dl.acm.org/doi/abs/10.1145/3650212.3680334},
+  note = {Publication date: 2024-09-11.}
+}
+```
 
 ## 发表记录
 

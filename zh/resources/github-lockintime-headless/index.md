@@ -1,3 +1,11 @@
+---
+title: "LockInTime headless · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lockintime-headless/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LockInTime headless
 
 面向 AI 智能体的持久化浏览器控制运行时，实施安全约束，并提供语义化 CLI。

@@ -1,3 +1,11 @@
+---
+title: "ELVES · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mvmcode-elves/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ELVES
 
 ELVES 是一个跨平台桌面应用，用于在隔离的 Git 工作树中协调多智能体编程团队，并集成 MCP。

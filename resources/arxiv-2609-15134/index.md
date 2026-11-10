@@ -1,3 +1,11 @@
+---
+title: "HazardAuditor: From Executable Threats to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15134/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # HazardAuditor: From Executable Threats to Safer Computer-Use Agents
 
 Bibliographic record for HazardAuditor: From Executable Threats to Safer Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yunhao Feng, Ruixiao Lin, Ming Wen, Yanming Guo, Xingjun Ma, Yutao Wu, Xinhao De
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15134/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15134/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15134,
+  title = {{HazardAuditor: From Executable Threats to Safer Computer-Use Agents}},
+  author = {{Yunhao Feng} and {Ruixiao Lin} and {Ming Wen} and {Yanming Guo} and {Xingjun Ma} and {Yutao Wu} and {Xinhao Deng} and {Shouling Ji}},
+  year = {2026},
+  eprint = {2609.15134v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15134v1},
+  note = {First published: 2026-09-14; Recorded arXiv version: v1; Recorded version updated: 2026-09-14T07:09:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

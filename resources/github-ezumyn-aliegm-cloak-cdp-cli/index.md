@@ -1,3 +1,11 @@
+---
+title: "cloak-cdp-cli | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ezumyn-aliegm-cloak-cdp-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cloak-cdp-cli
 
 Command-line interface for AI agents to drive CloakBrowser stealth Chromium instances over CDP.

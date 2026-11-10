@@ -1,3 +1,11 @@
+---
+title: "Open Challenges in Multi-Agent Security… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-02077/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents
 
 Bibliographic record for Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Christian Schroeder de Witt, Klaudia Krawiecka, Igor Krawczuk, Ben Hagag, Willia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-02077/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-02077/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_02077,
+  title = {{Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents}},
+  author = {{Christian Schroeder de Witt} and {Klaudia Krawiecka} and {Igor Krawczuk} and {Ben Hagag} and {William L. Anderson} and {Peter Belcak} and {Ben Bucknall} and {Xiaohong Cai} and {Ayush Chopra} and {Doron Cohen} and {Ron F. Del Rosario} and {Andis Draguns} and {Annie Gray} and {Keren Katz} and {Vasilios Mavroudis} and {Jaron Mink} and {Sumeet Ramesh Motwani} and {Jonathan Petit} and {Leif-Sebastian Rembeck} and {Chandler Smith} and {John Sotiropoulos} and {Steven Young} and {Sarah Scheffler} and {Mary Llewellyn}},
+  year = {2025},
+  eprint = {2505.02077v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.02077v2},
+  note = {First published: 2025-05-04; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T10:47:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

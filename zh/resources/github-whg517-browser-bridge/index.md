@@ -1,3 +1,11 @@
+---
+title: "browser-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-whg517-browser-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # browser-bridge
 
 一个 MCP 浏览器控制桥接工具，通过 Chrome 扩展和本地主机，让智能体检查并操作现有标签页及已登录的会话。

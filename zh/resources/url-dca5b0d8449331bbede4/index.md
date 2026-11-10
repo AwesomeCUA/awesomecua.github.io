@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_ground_iterative-13B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dca5b0d8449331bbede4/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_web_agent_ground_iterative-13B
 
 Lumos 发布的检查点用于在迭代式架构中定位网页智能体的操作，该架构将规划、定位与执行分开。

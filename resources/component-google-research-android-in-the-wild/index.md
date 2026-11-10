@@ -1,3 +1,11 @@
+---
+title: "Android in the Wild | AwesomeCUA"
+url: https://awesomecua.com/resources/component-google-research-android-in-the-wild/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Android in the Wild
 
 Human demonstrations of Android tasks with screenshots and touch actions.

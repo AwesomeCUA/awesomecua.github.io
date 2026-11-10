@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning Enhanced LLMs: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-10400/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reinforcement Learning Enhanced LLMs: A Survey
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Auto-scaling Continuous Memory for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-09038/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Auto-scaling Continuous Memory for GUI Agent
 
 将 GUI 轨迹编码为紧凑的连续嵌入，可直接检索并加入智能体输入。自动化环境发现和轨迹生成流程为长任务与陌生界面扩充这类记忆。
@@ -27,6 +35,18 @@ Wenyi Wu, Kun Zhou, Ruoxin Yuan, Vivian Yu, Stephen Wang, Zhiting Hu, Biwei Huan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-09038/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-09038/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_09038,
+  title = {{Auto-scaling Continuous Memory for GUI Agent}},
+  author = {{Wenyi Wu} and {Kun Zhou} and {Ruoxin Yuan} and {Vivian Yu} and {Stephen Wang} and {Zhiting Hu} and {Biwei Huang}},
+  year = {2025},
+  eprint = {2510.09038v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.09038v1},
+  note = {First published: 2025-10-10; Recorded arXiv version: v1; Recorded version updated: 2025-10-10T06:16:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

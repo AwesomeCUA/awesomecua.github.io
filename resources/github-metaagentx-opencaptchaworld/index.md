@@ -1,3 +1,11 @@
+---
+title: "Open CaptchaWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Open CaptchaWorld
 
 Open CaptchaWorld evaluates multimodal web agents on interactive CAPTCHA puzzles through a web interface, with puzzle data, answer checks and recorded results.

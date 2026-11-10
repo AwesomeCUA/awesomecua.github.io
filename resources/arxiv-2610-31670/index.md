@@ -1,3 +1,11 @@
+---
+title: "Sensorimotor Alignment: A Platonic Proxy for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31670/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success
 
 Bibliographic record for Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31670/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31670/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31670,
+  title = {{Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success}},
+  author = {{Yunfei Xie} and {Howard H. Qian} and {Shiyi Lan} and {Kaiyu Hang} and {Chen Wei}},
+  year = {2026},
+  eprint = {2610.31670v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31670v2},
+  note = {First published: 2026-10-22; Recorded arXiv version: v2; Recorded version updated: 2026-10-23T05:34:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WebAgent-R1 · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-weizhepei-webagent-r1/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # WebAgent-R1
 
 为与 WebArena 交互的浏览器智能体提供环境配置、多轮强化学习和评估工具。

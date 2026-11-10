@@ -1,3 +1,11 @@
+---
+title: "TimeWarp-GPT5-Traces · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fa8fd2873571ab1b3556/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # TimeWarp-GPT5-Traces
 
 TimeWarp 网页基准上的 GPT-5 教师轨迹，按 UI 版本分组，包含每一步的 SoM 标注截图和实验日志，用于通过 LlamaFactory 微调网页智能体。

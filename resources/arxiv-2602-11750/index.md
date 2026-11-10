@@ -1,3 +1,11 @@
+---
+title: "AmbiBench: Benchmarking Mobile GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-11750/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild
 
 AmbiBench evaluates mobile GUI agents under four levels of instruction clarity, including tasks requiring active clarification. Its MUSE evaluator separately audits outcomes, execution quality and interaction quality to study alignment with user intent.
@@ -26,6 +34,18 @@ Jiazheng Sun, Mingxuan Li, Yingying Zhang, Jiayang Niu, Yachen Wu, Ruihan Jin, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-11750/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-11750/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11750,
+  title = {{AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild}},
+  author = {{Jiazheng Sun} and {Mingxuan Li} and {Yingying Zhang} and {Jiayang Niu} and {Yachen Wu} and {Ruihan Jin} and {Shuyu Lei} and {Pengrongrui Tan} and {Zongyu Zhang} and {Ruoyi Wang} and {Jiachen Yang} and {Boyu Yang} and {Jiacheng Liu} and {Xin Peng}},
+  year = {2026},
+  eprint = {2602.11750v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11750v1},
+  note = {First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T09:25:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

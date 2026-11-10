@@ -1,3 +1,11 @@
+---
+title: "FronTalk · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shirley-wu-frontalk/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # FronTalk
 
 FronTalk 评测根据文本和视觉指令进行的多轮网站编码。它提供对话任务和测试用例，并使用网页智能体评估生成的网站。

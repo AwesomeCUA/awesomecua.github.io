@@ -1,3 +1,11 @@
+---
+title: "clawtouch-skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # clawtouch-skills
 
 A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.

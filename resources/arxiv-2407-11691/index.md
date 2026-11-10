@@ -1,3 +1,11 @@
+---
+title: "VLMEvalKit: An Open-Source Toolkit for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-11691/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models
 
 Bibliographic record for VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Haodong Duan, Xinyu Fang, Junming Yang, Xiangyu Zhao, Zerun Ma, Yuxuan Qiao, Mo 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-11691/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-11691/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_11691,
+  title = {{VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models}},
+  author = {{Haodong Duan} and {Xinyu Fang} and {Junming Yang} and {Xiangyu Zhao} and {Zerun Ma} and {Yuxuan Qiao} and {Mo Li} and {Tianhao Liang} and {Lin Zhu} and {Amit Agarwal} and {Xiaozhe Li} and {Shengyuan Ding} and {Jiazi Bu} and {Ziyu Liu} and {Zhangyang Qi} and {Yifei Li} and {Yuhang Zang} and {Zhe Chen} and {Lin Chen} and {Yuan Liu} and {Yubo Ma} and {Hailong Sun} and {Yifan Zhang} and {Shiyin Lu} and {Tack Hwa Wong} and {Weiyun Wang} and {Peiheng Zhou} and {Chaoyou Fu} and {Junbo Cui} and {Jixuan Chen} and {Enxin Song} and {Song Mao} and {Junming Lin} and {Xilin Wei} and {Jinsong Li} and {Zeyi Sun} and {Zhaowei Wang} and {Zicheng Zhang} and {Xiaoyi Dong} and {Junjun He} and {Pan Zhang} and {Jiaqi Wang} and {Dahua Lin} and {Kai Chen}},
+  year = {2024},
+  eprint = {2407.11691v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.11691v5},
+  note = {First published: 2024-07-16; Recorded arXiv version: v5; Recorded version updated: 2026-07-06T12:07:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "windows-mcp-server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deploymenttheory-windows-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # windows-mcp-server
 
 An MCP server lets agents inspect and control Windows desktops through accessibility data and input tools, with device policy checks and audit logging.

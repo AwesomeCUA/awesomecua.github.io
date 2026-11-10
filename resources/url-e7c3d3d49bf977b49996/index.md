@@ -1,3 +1,11 @@
+---
+title: "Two-Box Judge GUI Dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Two-Box Judge GUI Dataset
 
 Training data for BAMI's local correction model: pairs of cropped GUI screenshots that each highlight one candidate box, with a click command and an automatic label for the box that fits it.

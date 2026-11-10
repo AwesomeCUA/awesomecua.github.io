@@ -1,3 +1,11 @@
+---
+title: "A Practical Guide for Designing, Developing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-08769/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "GUI-360 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # GUI-360
 
 Desktop GUI trajectory data supporting multiple interface understanding tasks.

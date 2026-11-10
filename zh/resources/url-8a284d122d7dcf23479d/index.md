@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act Actor 70B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8a284d122d7dcf23479d/
+updated: 2026-11-02
+type: model
+lang: zh-CN
+---
+
 # Plan-and-Act Actor 70B
 
 来自 Plan-and-Act 网页智能体框架、基于 Llama-3.3-70B-Instruct 的执行器检查点，可将高层计划转化为浏览器动作。

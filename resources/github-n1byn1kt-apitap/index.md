@@ -1,3 +1,11 @@
+---
+title: "ApiTap | AwesomeCUA"
+url: https://awesomecua.com/resources/github-n1byn1kt-apitap/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ApiTap
 
 CLI, MCP server, and npm library that observes live browser traffic to turn websites into structured APIs for AI agents.

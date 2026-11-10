@@ -1,3 +1,11 @@
+---
+title: "OdysseyBench: Evaluating LLM Agents on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-09124/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows
 
 提出 OdysseyBench，评估跨办公应用的长流程任务；另以 HomerAgents 通过环境探索和对话合成生成任务。
@@ -27,6 +35,18 @@ Weixuan Wang, Dongge Han, Daniel Madrigal Diaz, Jin Xu, Victor Rühle, Saravan R
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-09124/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-09124/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_09124,
+  title = {{OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows}},
+  author = {{Weixuan Wang} and {Dongge Han} and {Daniel Madrigal Diaz} and {Jin Xu} and {Victor Rühle} and {Saravan Rajmohan}},
+  year = {2025},
+  eprint = {2508.09124v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.09124v1},
+  note = {First published: 2025-08-12; Recorded arXiv version: v1; Recorded version updated: 2025-08-12T17:53:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "ResearchEnvBench: Benchmarking Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-06739/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution
 
 Bibliographic record for ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yubang Wang, Chenxi Zhang, Bowen Chen, Zezheng Huai, Zihao Dai, Xinchi Chen, Yux
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-06739/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-06739/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_06739,
+  title = {{ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution}},
+  author = {{Yubang Wang} and {Chenxi Zhang} and {Bowen Chen} and {Zezheng Huai} and {Zihao Dai} and {Xinchi Chen} and {Yuxin Wang} and {Yining Zheng} and {Jingjing Gong} and {Xipeng Qiu}},
+  year = {2026},
+  eprint = {2603.06739v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.06739v2},
+  note = {First published: 2026-03-06; Recorded arXiv version: v2; Recorded version updated: 2026-03-11T07:59:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

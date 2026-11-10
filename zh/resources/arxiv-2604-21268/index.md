@@ -1,3 +1,11 @@
+---
+title: "Measure Twice, Click Once: Co-evolving… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-21268/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding
 
 联合训练 GUI 定位提议模型与视觉评估器，后者评估呈现在截图上的候选位置；自适应强化学习安排利用提议多样性和评估器反馈，平衡两者的训练进程。
@@ -27,6 +35,18 @@ Wenkai Wang, Xiyun Li, Hongcan Guo, Wenhao Yu, Tianqing Fang, Haitao Mi, Dong Yu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-21268/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-21268/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_21268,
+  title = {{Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding}},
+  author = {{Wenkai Wang} and {Xiyun Li} and {Hongcan Guo} and {Wenhao Yu} and {Tianqing Fang} and {Haitao Mi} and {Dong Yu} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2604.21268v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.21268v1},
+  note = {First published: 2026-04-23; Recorded arXiv version: v1; Recorded version updated: 2026-04-23T04:23:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

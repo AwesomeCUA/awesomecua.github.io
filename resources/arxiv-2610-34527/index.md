@@ -1,3 +1,11 @@
+---
+title: "LLM4Robot-Bench: How Far Can GPT-6 Astra Go… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34527/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark
 
 Bibliographic record for LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haibao Yu, Jiaqi Meng, Zijian Zhang, Bowen Jing, Lei Yang, Yue Hu, Chenchen Ge, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34527/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34527/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34527,
+  title = {{LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark}},
+  author = {{Haibao Yu} and {Jiaqi Meng} and {Zijian Zhang} and {Bowen Jing} and {Lei Yang} and {Yue Hu} and {Chenchen Ge} and {Yiming Hou} and {Chenbo Xin} and {Dawen Ye} and {Haifang Qin} and {Jin Li} and {Weitao Zhou} and {Jianing Qiu} and {Jiankai Sun} and {Dandan Zhang} and {Zaiqing Nie} and {Ping Luo} and {Ding Zhao}},
+  year = {2026},
+  eprint = {2610.34527v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34527v3},
+  note = {First published: 2026-10-25; Recorded arXiv version: v3; Recorded version updated: 2026-11-03T15:20:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

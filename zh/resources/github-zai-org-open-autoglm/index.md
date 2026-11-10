@@ -1,3 +1,11 @@
+---
+title: "Open-AutoGLM · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zai-org-open-autoglm/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Open-AutoGLM
 
 配备设备交互工具的手机智能体模型和框架。

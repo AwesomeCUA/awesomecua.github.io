@@ -1,10 +1,17 @@
+---
+title: "Workflows — computer-use research, page 5 | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/page/5/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows — computer-use research, page 5
 
 HTML page: https://awesomecua.com/topics/workflow/page/5/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
-- [Blender AI Plugin](https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/)
 - [bm (Conversational Grocery Browser Agent)](https://awesomecua.com/resources/github-gonzalo123-bm/)
 - [Bodhi](https://awesomecua.com/resources/github-bigduu-zenith/)
 - [Bops](https://awesomecua.com/resources/github-orgoai-bops/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [CrewAI](https://awesomecua.com/resources/github-joaomdmoura-crewai/)
 - [Cua](https://awesomecua.com/resources/github-trycua-cua/)
 - [CUA Skill](https://awesomecua.com/resources/github-microsoft-cua-skill/)
+- [cua-desktop-automation-skills](https://awesomecua.com/resources/github-chrislamdev-cua-desktop-automation-skills/)

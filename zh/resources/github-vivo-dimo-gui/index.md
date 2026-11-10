@@ -1,3 +1,11 @@
+---
+title: "DiMo-GUI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vivo-dimo-gui/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # DiMo-GUI
 
 利用模态感知的视觉推理和测试时计算扩展开展 GUI 定位研究。

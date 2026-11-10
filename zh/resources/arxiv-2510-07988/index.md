@@ -1,3 +1,11 @@
+---
+title: "ReInAgent: A Context-Aware GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-07988/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation
 
 ReInAgent 围绕共享记忆协调移动端任务中的信息管理、规划与反思。当指令含糊或在执行中变化时，它会主动向用户询问信息并检查一致性。
@@ -27,6 +35,18 @@ Haitao Jia, Ming He, Zimo Yin, Likang Wu, Jianping Fan, Jitao Sang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-07988/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-07988/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_07988,
+  title = {{ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation}},
+  author = {{Haitao Jia} and {Ming He} and {Zimo Yin} and {Likang Wu} and {Jianping Fan} and {Jitao Sang}},
+  year = {2025},
+  eprint = {2510.07988v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.07988v1},
+  note = {First published: 2025-10-09; Recorded arXiv version: v1; Recorded version updated: 2025-10-09T09:22:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "agentwatch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yubinkim444-agentwatch/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agentwatch
 
 Translucent in-tab DevTools HUD overlay for browser AI agents that displays live agent thoughts, targets, and actions.

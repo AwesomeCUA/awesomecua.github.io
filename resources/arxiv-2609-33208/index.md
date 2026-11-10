@@ -1,3 +1,11 @@
+---
+title: "WorldAgent: Verification-Guided Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-33208/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WorldAgent: Verification-Guided Agentic Physical World Construction
 
 Bibliographic record for WorldAgent: Verification-Guided Agentic Physical World Construction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Caoliwen Wang, Mengdi Wang, Yige Chen, Zejia Wu, Bowen Huang, Siyuan Chen, Guanx
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-33208/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-33208/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_33208,
+  title = {{WorldAgent: Verification-Guided Agentic Physical World Construction}},
+  author = {{Caoliwen Wang} and {Mengdi Wang} and {Yige Chen} and {Zejia Wu} and {Bowen Huang} and {Siyuan Chen} and {Guanxiong Chen} and {Lifu Wei} and {Heng Zhang} and {Qinghai Zhang} and {Yin Yang} and {Guandao Yang} and {Shiying Xiong} and {Peng Wang} and {Chenfanfu Jiang} and {Peter Yichen Chen}},
+  year = {2026},
+  eprint = {2609.33208v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.33208v1},
+  note = {First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T04:46:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

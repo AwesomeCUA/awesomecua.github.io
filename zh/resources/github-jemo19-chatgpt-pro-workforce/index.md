@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Pro Workforce for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jemo19-chatgpt-pro-workforce/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ChatGPT Pro Workforce for Codex
 
 一项 Codex 技能，将多个已登录的 ChatGPT Pro 浏览器聊天并行编排为可审查的研究团队。

@@ -1,3 +1,11 @@
+---
+title: "MemVenom: Triggered Poisoning of Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-10742/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MemVenom: Triggered Poisoning of Multimodal Memories in Web Agents
 
 Introduces MemVenom, a black-box attack that plants coordinated text and image content in web-agent memory to trigger retrieval and redirect later actions.
@@ -26,6 +34,18 @@ Yv Zhang, Hao Sun, Hao Fang, Kuofeng Gao, Fan Mo, Bin Chen, Shu-Tao Xia, Yaowei 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-10742/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-10742/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_10742,
+  title = {{MemVenom: Triggered Poisoning of Multimodal Memories in Web Agents}},
+  author = {{Yv Zhang} and {Hao Sun} and {Hao Fang} and {Kuofeng Gao} and {Fan Mo} and {Bin Chen} and {Shu-Tao Xia} and {Yaowei Wang}},
+  year = {2026},
+  eprint = {2606.10742v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.10742v1},
+  note = {First published: 2026-06-09; Recorded arXiv version: v1; Recorded version updated: 2026-06-09T11:53:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

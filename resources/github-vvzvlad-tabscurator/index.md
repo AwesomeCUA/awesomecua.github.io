@@ -1,3 +1,11 @@
+---
+title: "tabscurator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vvzvlad-tabscurator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # tabscurator
 
 Model Context Protocol server for curating, organizing, and driving multi-profile browser tabs and workspaces.

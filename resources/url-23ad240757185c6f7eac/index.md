@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen2.5-VL 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-23ad240757185c6f7eac/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Seg2Click Qwen2.5-VL 3B
 
 Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.

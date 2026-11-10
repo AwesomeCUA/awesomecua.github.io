@@ -1,3 +1,11 @@
+---
+title: "Code2World | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amap-ml-code2world/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Code2World
 
 Code2World provides code for predicting the next Android GUI screen from a screenshot and proposed action through renderable code, with an AndroidWorld agent integration.

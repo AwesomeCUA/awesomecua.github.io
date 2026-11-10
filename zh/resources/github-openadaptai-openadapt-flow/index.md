@@ -1,3 +1,11 @@
+---
+title: "openadapt-flow · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-flow/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # openadapt-flow
 
 openadapt-flow 将录制的网页或桌面任务编译为可复用程序，在本地重放并核验保存结果；其独立仓库已归档。

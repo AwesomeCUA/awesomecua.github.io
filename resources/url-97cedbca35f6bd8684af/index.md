@@ -1,3 +1,11 @@
+---
+title: "Fellou | AwesomeCUA"
+url: https://awesomecua.com/resources/url-97cedbca35f6bd8684af/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Fellou
 
 Fellou's agentic browser, which drafts a step-by-step plan for review and then browses, fills forms and runs scheduled or parallel tasks; a Computer Use mode extends it to local apps and files.

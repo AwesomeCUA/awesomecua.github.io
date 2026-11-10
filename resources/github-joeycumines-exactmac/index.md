@@ -1,3 +1,11 @@
+---
+title: "ExactMac | AwesomeCUA"
+url: https://awesomecua.com/resources/github-joeycumines-exactmac/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ExactMac
 
 ExactMac provides local, Accessibility-first macOS desktop automation over MCP using a Swift gRPC host and Go MCP server.

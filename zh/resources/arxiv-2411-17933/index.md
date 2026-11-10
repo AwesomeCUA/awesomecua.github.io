@@ -1,3 +1,11 @@
+---
+title: "Automated Test Transfer Across Android… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-17933/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Automated Test Transfer Across Android Apps Using Large Language Models
 
 LLMigrate 使用 LLM 在功能相近的移动应用间迁移基于实际使用流程的 UI 测试，减少逐个应用编写测试的工作。
@@ -27,6 +35,18 @@ Benyamin Beyzaei, Saghar Talebipour, Ghazal Rafiei, Nenad Medvidovic, Sam Malek
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-17933/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-17933/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_17933,
+  title = {{Automated Test Transfer Across Android Apps Using Large Language Models}},
+  author = {{Benyamin Beyzaei} and {Saghar Talebipour} and {Ghazal Rafiei} and {Nenad Medvidovic} and {Sam Malek}},
+  year = {2024},
+  eprint = {2411.17933v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.17933v2},
+  note = {First published: 2024-11-26; Recorded arXiv version: v2; Recorded version updated: 2025-04-20T09:29:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

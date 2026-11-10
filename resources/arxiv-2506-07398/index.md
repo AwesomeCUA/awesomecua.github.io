@@ -1,3 +1,11 @@
+---
+title: "G-Memory: Tracing Hierarchical Memory for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-07398/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

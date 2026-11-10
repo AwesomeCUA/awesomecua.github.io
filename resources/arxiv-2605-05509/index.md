@@ -1,3 +1,11 @@
+---
+title: "WAAA! Web Adversaries Against Agentic Browsers | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-05509/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # WAAA! Web Adversaries Against Agentic Browsers
 
 Evaluates agentic browsers against classical web attacks and visual social-engineering lures beyond indirect prompt injection.
@@ -26,6 +34,18 @@ Sohom Datta, Alex Nahapetyan, William Enck, Alexandros Kapravelos
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-05509/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-05509/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_05509,
+  title = {{WAAA! Web Adversaries Against Agentic Browsers}},
+  author = {{Sohom Datta} and {Alex Nahapetyan} and {William Enck} and {Alexandros Kapravelos}},
+  year = {2026},
+  eprint = {2605.05509v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.05509v1},
+  note = {First published: 2026-05-06; Recorded arXiv version: v1; Recorded version updated: 2026-05-06T23:19:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

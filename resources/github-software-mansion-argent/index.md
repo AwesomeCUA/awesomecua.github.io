@@ -1,3 +1,11 @@
+---
+title: "Argent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-software-mansion-argent/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Argent
 
 Argent is a CLI toolkit that lets an AI assistant tap, swipe and type in iOS simulators, Android emulators and devices, TVs and Electron apps, and also records end-to-end test paths, diffs screens and profiles apps.

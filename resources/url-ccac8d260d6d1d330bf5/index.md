@@ -1,3 +1,11 @@
+---
+title: "WebArena-Infinity browser agent trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WebArena-Infinity browser agent trajectories
 
 Passing runs of three browser agents on 13 WebArena-Infinity web apps generated from product documentation, with per-step reasoning, actions, screenshots and programmatic verifier results.

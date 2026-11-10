@@ -1,3 +1,11 @@
+---
+title: "gWorld (GuiWorld) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-trillion-labs-gworld/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # gWorld (GuiWorld)
 
 gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.

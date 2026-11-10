@@ -1,3 +1,11 @@
+---
+title: "Page Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alibaba-page-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Page Agent
 
 Page Agent is an in-page JavaScript GUI agent by Alibaba that controls web interfaces from natural language via DOM dehydration.

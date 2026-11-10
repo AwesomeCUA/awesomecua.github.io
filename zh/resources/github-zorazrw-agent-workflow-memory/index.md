@@ -1,3 +1,11 @@
+---
+title: "Agent Workflow Memory implementation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zorazrw-agent-workflow-memory/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Agent Workflow Memory implementation
 
 研究代码从演示或既往执行中提取可复用的浏览器任务流程，将其存为工作流记忆，供后续导航使用。

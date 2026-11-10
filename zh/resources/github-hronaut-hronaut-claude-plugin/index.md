@@ -1,3 +1,11 @@
+---
+title: "Hronaut for Claude Code · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hronaut-hronaut-claude-plugin/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Hronaut for Claude Code
 
 Hronaut for Claude Code 是一款插件，提供 MCP 服务器和技能，让编程智能体在独立的项目工作区中使用可视浏览器。

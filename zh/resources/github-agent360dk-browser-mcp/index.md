@@ -1,3 +1,11 @@
+---
+title: "Agent360 Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agent360dk-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent360 Browser MCP
 
 人在回路中的浏览器 MCP 服务器，遇到用户 2FA、CAPTCHA 或确认提示时暂停，随后继续执行智能体任务。

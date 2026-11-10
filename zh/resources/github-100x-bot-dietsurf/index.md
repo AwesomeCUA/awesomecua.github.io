@@ -1,3 +1,11 @@
+---
+title: "DietSurf · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-100x-bot-dietsurf/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DietSurf
 
 简约的 Chrome 侧边栏浏览器智能体，配有虚拟文件系统和类 shell 命令界面。

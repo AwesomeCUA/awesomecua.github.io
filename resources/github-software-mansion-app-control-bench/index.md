@@ -1,3 +1,11 @@
+---
+title: "AppControlBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-software-mansion-app-control-bench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # AppControlBench
 
 AppControlBench evaluates agents on iOS app tasks in a simulator, grading final screenshots and publishing task definitions and run records.

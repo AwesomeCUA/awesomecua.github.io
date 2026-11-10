@@ -1,3 +1,11 @@
+---
+title: "atlas-desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-abydin-atlas-desktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # atlas-desktop
 
 macOS desktop-control CLI that reads any application's UI hierarchy as structured JSON and dispatches native actions.

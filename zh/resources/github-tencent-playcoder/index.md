@@ -1,3 +1,11 @@
+---
+title: "PlayCoder · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-playcoder/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # PlayCoder
 
 PlayCoder 利用交互测试生成并修改 GUI 应用代码。其 PlayTester 观察应用截图、执行界面操作，并将结果用于修复。

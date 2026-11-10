@@ -1,3 +1,11 @@
+---
+title: "Oya Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-oyadotai-oya-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Oya Browser
 
 Oya Browser 是考虑治理要求的浏览器控制平台，支持人类与 AI 在本地和云端浏览器提供方之间协作。

@@ -1,3 +1,11 @@
+---
+title: "Open Computer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mintplex-labs-open-computer/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Open Computer
 
 Open Computer gives agents an isolated Debian desktop with a browser and native app controls. People can watch and assist through a live interface.

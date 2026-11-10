@@ -1,3 +1,11 @@
+---
+title: "UGround V1 Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c4898ad1bfc049926a63/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # UGround V1 Data
 
 UGround 的受限访问网页定位训练数据，分为 Web-Hybrid 和 Web-Direct 子集；边界框版本的坐标归一化至 0-999。

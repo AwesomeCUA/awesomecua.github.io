@@ -1,3 +1,11 @@
+---
+title: "A Survey on the Safety and Security… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-10924/
+updated: 2026-10-16
+type: survey
+lang: zh-CN
+---
+
 # A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?
 
 系统梳理计算机使用智能体面临的安全威胁，并对威胁和防御策略进行分类。
@@ -23,6 +31,18 @@ Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-10924/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-10924/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_10924,
+  title = {{A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?}},
+  author = {{Ada Chen} and {Yongjiang Wu} and {Junyuan Zhang} and {Jingyu Xiao} and {Shu Yang} and {Jen-tse Huang} and {Kun Wang} and {Wenxuan Wang} and {Shuai Wang}},
+  year = {2025},
+  eprint = {2505.10924v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.10924v4},
+  note = {First published: 2025-05-16; Recorded arXiv version: v4; Recorded version updated: 2026-04-29T05:56:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

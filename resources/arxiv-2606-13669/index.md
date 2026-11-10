@@ -1,3 +1,11 @@
+---
+title: "Agents-K1: Towards Agent-native Knowledge… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-13669/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agents-K1: Towards Agent-native Knowledge Orchestration
 
 Status: excluded from the active CUA catalog after scope review.

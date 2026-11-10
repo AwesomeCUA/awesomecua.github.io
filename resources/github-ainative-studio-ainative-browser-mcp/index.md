@@ -1,3 +1,11 @@
+---
+title: "AINative Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ainative-studio-ainative-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AINative Browser MCP
 
 Model Context Protocol server exposing 6 high-level tools for AI-powered web interaction and structured data extraction.

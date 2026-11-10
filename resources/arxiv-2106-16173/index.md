@@ -1,3 +1,11 @@
+---
+title: "String Comparison on a Quantum Computer Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2106-16173/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # String Comparison on a Quantum Computer Using Hamming Distance
 
 Status: excluded from the active CUA catalog after scope review.

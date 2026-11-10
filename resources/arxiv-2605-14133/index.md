@@ -1,3 +1,11 @@
+---
+title: "ClawForge: Generating Executable Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-14133/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents
 
 Bibliographic record for ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuxiang Lai, Peng Xia, Haonian Ji, Kaiwen Xiong, Kaide Zeng, Jiaqi Liu, Fang Wu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-14133/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-14133/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14133,
+  title = {{ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents}},
+  author = {{Yuxiang Lai} and {Peng Xia} and {Haonian Ji} and {Kaiwen Xiong} and {Kaide Zeng} and {Jiaqi Liu} and {Fang Wu} and {Jike Zhong} and {Zeyu Zheng} and {Cihang Xie} and {Huaxiu Yao}},
+  year = {2026},
+  eprint = {2605.14133v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14133v2},
+  note = {First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T05:36:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

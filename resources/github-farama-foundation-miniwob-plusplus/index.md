@@ -1,3 +1,11 @@
+---
+title: "MiniWoB++ | AwesomeCUA"
+url: https://awesomecua.com/resources/github-farama-foundation-miniwob-plusplus/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # MiniWoB++
 
 Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled from Python through a Gymnasium API that drives the browser with Selenium.

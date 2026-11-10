@@ -1,3 +1,11 @@
+---
+title: "lora_qformer_uitars_test_V1-400_merged · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b144605ae24674ffb917/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # lora_qformer_uitars_test_V1-400_merged
 
 合并了 CoMEM 连续记忆的 UI-TARS-V1.5-7B 检查点，通过 LoRA 微调的 Q-Former 将检索到的 GUI 轨迹压缩为定长嵌入，供网页智能体使用。

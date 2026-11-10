@@ -1,3 +1,11 @@
+---
+title: "PixelCheck · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xcodethink-pixelcheck/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # PixelCheck
 
 可直接接入的 MCP 服务器，提供 5 项可视化浏览器基础操作，供前端编程智能体检查、截图和验证实时网页 UI。

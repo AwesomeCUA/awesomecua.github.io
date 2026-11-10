@@ -1,3 +1,11 @@
+---
+title: "Learning User Simulators with Turing Rewards | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-19336/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning User Simulators with Turing Rewards
 
 Status: excluded from the active CUA catalog after scope review.

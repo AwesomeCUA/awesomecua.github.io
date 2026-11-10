@@ -1,3 +1,11 @@
+---
+title: "GTA1: GUI Test-time Scaling Agent (paper) | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-05791/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GTA1: GUI Test-time Scaling Agent
 
 GTA1 samples multiple action proposals at each GUI step and uses a judge to select among them. A separate grounding model is trained with reinforcement learning to map selected proposals to visual targets, linking planning-time search with click localization.
@@ -26,6 +34,18 @@ Yan Yang, Dongxu Li, Yutong Dai, Yuhao Yang, Ziyang Luo, Zirui Zhao, Zhiyuan Hu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-05791/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-05791/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_05791,
+  title = {{GTA1: GUI Test-time Scaling Agent}},
+  author = {{Yan Yang} and {Dongxu Li} and {Yutong Dai} and {Yuhao Yang} and {Ziyang Luo} and {Zirui Zhao} and {Zhiyuan Hu} and {Junzhe Huang} and {Amrita Saha} and {Zeyuan Chen} and {Ran Xu} and {Liyuan Pan} and {Silvio Savarese} and {Caiming Xiong} and {Junnan Li}},
+  year = {2025},
+  eprint = {2507.05791v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.05791v5},
+  note = {First published: 2025-07-08; Recorded arXiv version: v5; Recorded version updated: 2025-10-03T23:50:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

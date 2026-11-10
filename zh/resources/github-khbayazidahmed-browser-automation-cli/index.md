@@ -1,3 +1,11 @@
+---
+title: "Bflow (browser-automation-cli) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-khbayazidahmed-browser-automation-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Bflow (browser-automation-cli)
 
 零依赖的浏览器自动化 CLI 和可视化工作流录制工具。

@@ -1,3 +1,11 @@
+---
+title: "Edge Agent Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shanewas-edge-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Edge Agent Bridge
 
 Real-time AI agent bridge for Microsoft Edge operating over active authenticated browser sessions.

@@ -1,3 +1,11 @@
+---
+title: "Holo3 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a03c649e4b14e293e2dd/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Holo3
 
 Holo3 是面向计算机使用的模型系列，使用合成导航数据和企业工作流程训练。发布方报告了桌面基准测试结果，并提供推理服务和开放权重。

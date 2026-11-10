@@ -1,3 +1,11 @@
+---
+title: "Cryptanalysis of Multi-Server Authenticated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1401-4790/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Cryptanalysis of Multi-Server Authenticated Key Agreement Scheme Based on Trust Computing Using Smart Cards and Biometrics
 
 Status: excluded from the active CUA catalog after scope review.

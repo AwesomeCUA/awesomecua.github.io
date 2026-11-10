@@ -1,3 +1,11 @@
+---
+title: "clawtouch-hid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-hid/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # clawtouch-hid
 
 CircuitPython firmware and a Python wire protocol module that let host software send keyboard and mouse actions through a Raspberry Pi Pico 2 USB HID device.

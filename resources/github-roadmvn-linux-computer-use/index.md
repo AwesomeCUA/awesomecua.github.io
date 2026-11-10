@@ -1,3 +1,11 @@
+---
+title: "Roadmvn linux-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-roadmvn-linux-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Roadmvn linux-computer-use
 
 Linux computer-use Model Context Protocol server for Claude Code, OpenAI Codex, and MCP clients.

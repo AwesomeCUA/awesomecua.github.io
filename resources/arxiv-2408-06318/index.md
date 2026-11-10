@@ -1,3 +1,11 @@
+---
+title: "Can We Rely on LLM Agents to Draft… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-06318/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example
 
 Bibliographic record for Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yanan Chen, Ali Pesaranghader, Tanmana Sadhu, Dong Hoon Yi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-06318/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-06318/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_06318,
+  title = {{Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example}},
+  author = {{Yanan Chen} and {Ali Pesaranghader} and {Tanmana Sadhu} and {Dong Hoon Yi}},
+  year = {2024},
+  eprint = {2408.06318v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.06318v1},
+  note = {First published: 2024-08-12; Recorded arXiv version: v1; Recorded version updated: 2024-08-12T17:39:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

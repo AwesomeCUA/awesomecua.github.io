@@ -1,3 +1,11 @@
+---
+title: "Astra plays GTA Vice City · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-da03-astra-plays-gta/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Astra plays GTA Vice City
 
 一套 macOS 辅助工具和提示词让桌面智能体通过截图与短时输入步骤操控《GTA Vice City》，并在决定下一步操作时暂停游戏。

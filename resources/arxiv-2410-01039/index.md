@@ -1,3 +1,11 @@
+---
+title: "From Facts to Insights: A Study on the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-01039/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls
 
 Status: excluded from the active CUA catalog after scope review.

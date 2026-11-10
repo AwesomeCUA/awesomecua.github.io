@@ -1,3 +1,11 @@
+---
+title: "VisualAgentBench: Towards Large Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-06327/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents
 
 Benchmarks visual agents across GUI, embodied, and design tasks, with training trajectories collected through solvers, agents, and human demonstrations.
@@ -26,6 +34,18 @@ Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-06327/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-06327/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_06327,
+  title = {{VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents}},
+  author = {{Xiao Liu} and {Tianjie Zhang} and {Yu Gu} and {Iat Long Iong} and {Yifan Xu} and {Xixuan Song} and {Shudan Zhang} and {Hanyu Lai} and {Xinyi Liu} and {Hanlin Zhao} and {Jiadai Sun} and {Xinyue Yang} and {Yu Yang} and {Zehan Qi} and {Shuntian Yao} and {Xueqiao Sun} and {Siyi Cheng} and {Qinkai Zheng} and {Hao Yu} and {Hanchen Zhang} and {Wenyi Hong} and {Ming Ding} and {Lihang Pan} and {Xiaotao Gu} and {Aohan Zeng} and {Zhengxiao Du} and {Chan Hee Song} and {Yu Su} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2024},
+  eprint = {2408.06327v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.06327v1},
+  note = {First published: 2024-08-12; Recorded arXiv version: v1; Recorded version updated: 2024-08-12T17:44:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

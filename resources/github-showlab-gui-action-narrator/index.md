@@ -1,3 +1,11 @@
+---
+title: "GUI-Action Narrator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-gui-action-narrator/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # GUI-Action Narrator
 
 Action narration resources for GUI interaction trajectories.

@@ -1,3 +1,11 @@
+---
+title: "pixel-forge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sjxbbdb-pixel-forge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pixel-forge
 
 面向 AI 智能体的桌面自动化工具包，提供截图采集、OCR、像素差异变化检测以及鼠标和键盘动作。

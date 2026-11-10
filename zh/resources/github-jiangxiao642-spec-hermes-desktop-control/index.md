@@ -1,3 +1,11 @@
+---
+title: "Hermes Desktop Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jiangxiao642-spec-hermes-desktop-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hermes Desktop Control
 
 Hermes Desktop Control 是独立于运行时的 Windows GUI 自动化引擎，结合 UI Automation 树、Set-of-Mark 叠加层和输入分发。

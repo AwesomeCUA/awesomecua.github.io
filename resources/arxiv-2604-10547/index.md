@@ -1,3 +1,11 @@
+---
+title: "Agent^2 RL-Bench: Can LLM Agents Engineer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-10547/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?
 
 Status: excluded from the active CUA catalog after scope review.

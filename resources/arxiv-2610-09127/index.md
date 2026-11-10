@@ -1,3 +1,11 @@
+---
+title: "CADFather: Autonomous CAD Reconstruction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-09127/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "CADWorld: Computer-Use Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-16251/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design
 
 CADWorld 评估通过截图和 GUI 操作完成 FreeCAD 长流程任务的智能体，涵盖建模、装配、制造和仿真。可执行检查从几何形状、约束、构建结构和后续状态等方面检验保存的工程成果。
@@ -27,6 +35,18 @@ Zihan Dong, Yuanzhe Liu, Zhiyuan Ma, Qishi Zhan, Dehan Kong, Guohao Li, Kaixin L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-16251/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-16251/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_16251,
+  title = {{CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design}},
+  author = {{Zihan Dong} and {Yuanzhe Liu} and {Zhiyuan Ma} and {Qishi Zhan} and {Dehan Kong} and {Guohao Li} and {Kaixin Li}},
+  year = {2026},
+  eprint = {2609.16251v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.16251v2},
+  note = {First published: 2026-09-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-21T14:30:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

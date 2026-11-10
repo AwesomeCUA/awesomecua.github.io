@@ -1,3 +1,11 @@
+---
+title: "When Does Latent Prediction Error Support… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-01815/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?
 
 Bibliographic record for When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Anton Hristov, Aleksandar Slavov, Vasil Vasilev
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-01815/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-01815/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_01815,
+  title = {{When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?}},
+  author = {{Anton Hristov} and {Aleksandar Slavov} and {Vasil Vasilev}},
+  year = {2026},
+  eprint = {2611.01815v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.01815v1},
+  note = {First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T11:31:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

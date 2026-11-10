@@ -1,3 +1,11 @@
+---
+title: "OmniBrain-0: A Unified Agentic Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36013/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OmniBrain-0: A Unified Agentic Model for Embodied Intelligence
 
 Bibliographic record for OmniBrain-0: A Unified Agentic Model for Embodied Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaomi Embodied Intelligence Team, Yuechen Luo, Chong He, Fang Li, Shaoqing Xu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36013/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36013/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36013,
+  title = {{OmniBrain-0: A Unified Agentic Model for Embodied Intelligence}},
+  author = {{Xiaomi Embodied Intelligence Team} and {Yuechen Luo} and {Chong He} and {Fang Li} and {Shaoqing Xu} and {Jingkai Wang} and {Menglun Su} and {Jiaxin Liu} and {Shengyin Jiang} and {Zhiyi Lai} and {Long Chen} and {Longlong Wang} and {Liang Hu} and {Haochen Liu} and {Yuncheng Jiang} and {Hongwei Xie} and {Jieming Cui} and {Hanbing Li} and {Junjie Huang} and {Zhixiang Duan} and {Hexin Zhang} and {Weixiang Liang} and {Ying Gong} and {Yuhan Wang} and {Yong Pan} and {Pengna Li} and {Kangyi Wu} and {Ken Deng} and {Kun Ma} and {Fuxi Wen} and {Zhi-xin Yang} and {Hangjun Ye}},
+  year = {2026},
+  eprint = {2610.36013v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36013v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T17:15:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AXON OS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-frezzaroukos-axon-os/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AXON OS
 
 Local-first, policy-governed action layer for Linux desktop automation with preview, approval, and rollback receipts.

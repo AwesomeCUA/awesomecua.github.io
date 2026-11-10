@@ -1,3 +1,11 @@
+---
+title: "VG-GUI-TASKER | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # VG-GUI-TASKER
 
 VG-GUI-TASKER extracts informative keyframes from instructional demonstration videos to guide multimodal GUI agents.

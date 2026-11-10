@@ -1,3 +1,11 @@
+---
+title: "DSH Android | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zseven-w-dsh-android/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # DSH Android
 
 A DeepSeek Harness plugin streams an Android emulator or phone into an agent conversation and provides adb tools for screen capture, UI inspection and interaction.

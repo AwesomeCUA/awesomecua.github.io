@@ -1,3 +1,11 @@
+---
+title: "AssistantBench (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-447997967beea3b07f6f/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # AssistantBench
 
 AssistantBench tasks on Hugging Face: realistic, time-consuming open-web questions in dev and test JSONL files, with answers, gold URLs and explanations in the dev rows. The paper reports 214 tasks.

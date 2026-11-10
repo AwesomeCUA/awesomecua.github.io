@@ -1,3 +1,11 @@
+---
+title: "SCOPE-Gen · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-k4ngzy-scope-gen/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # SCOPE-Gen
 
 一个为 OSWorld 生成并验证桌面图形界面任务的框架；它还会在保留原始目标和完成度评估器的前提下，构造配对的安全任务。

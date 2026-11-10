@@ -1,3 +1,11 @@
+---
+title: "Nova Act SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aws-nova-act/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Nova Act SDK
 
 A Python SDK for defining and deploying browser agents that carry out UI workflows. Nova Act supports code-guided steps, human escalation and workflow monitoring.

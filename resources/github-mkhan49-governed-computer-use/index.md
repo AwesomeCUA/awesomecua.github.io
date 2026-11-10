@@ -1,3 +1,11 @@
+---
+title: "governed-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mkhan49-governed-computer-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # governed-computer-use
 
 Discovers legacy banking UI flows with an LLM once, compiles deterministic replay artifacts, and enforces human approval on exceptions.

@@ -1,3 +1,11 @@
+---
+title: "Automated Testing of the GUI of a… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-17839/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models
 
 GERALLT 利用大语言模型探索工程软件的 GUI，列出可能令人困惑或前后不一致的界面区域，供开发者检查。
@@ -27,6 +35,18 @@ Tim Rosenbach, David Heidrich, Alexander Weinert
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-17839/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-17839/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_17839,
+  title = {{Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models}},
+  author = {{Tim Rosenbach} and {David Heidrich} and {Alexander Weinert}},
+  year = {2025},
+  eprint = {2505.17839v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.17839v1},
+  note = {First published: 2025-05-23; Recorded arXiv version: v1; Recorded version updated: 2025-05-23T12:53:28Z.}
+}
+```
 
 ## 发表记录
 

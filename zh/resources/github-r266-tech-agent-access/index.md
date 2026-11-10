@@ -1,3 +1,11 @@
+---
+title: "Agent Access · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-r266-tech-agent-access/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agent Access
 
 通用访问层，将网站、应用和重复工作流接入适合智能体使用的 CLI，并以 CDP 和 GUI 作为备用方式。

@@ -1,3 +1,11 @@
+---
+title: "StateAct · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-nikolai-stateact/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # StateAct
 
 为语言智能体提供状态跟踪提示词和实验运行工具，除文本环境外还包含 WebShop 实现。

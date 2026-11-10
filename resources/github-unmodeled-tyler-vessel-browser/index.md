@@ -1,3 +1,11 @@
+---
+title: "Vessel Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-unmodeled-tyler-vessel-browser/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # Vessel Browser
 
 Electron/Chromium browser built as a visible runtime for agents: a local MCP server and a built-in assistant read pages as indexed elements and click, type and navigate, with scoped approvals, checkpoints and undo.

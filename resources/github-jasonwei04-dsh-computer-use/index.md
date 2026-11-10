@@ -1,3 +1,11 @@
+---
+title: "JasonWei04 dsh-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jasonwei04-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # JasonWei04 dsh-computer-use
 
 Equips text-only LLMs in DeepSeek Harness with desktop screen perception and mouse/keyboard control.

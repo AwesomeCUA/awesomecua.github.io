@@ -1,3 +1,11 @@
+---
+title: "Agentic Web Check · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ericovirgy-agentic-web-check/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agentic Web Check
 
 Agentic Web Check 是类似 Lighthouse 的审查工具，通过 43 项检查为网站对 AI 浏览器智能体的可访问性和可控性评分。

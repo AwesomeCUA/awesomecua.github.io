@@ -1,3 +1,11 @@
+---
+title: "DroidCall data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ae8f5208eea9e7f1f606/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # DroidCall data
 
 用于学习调用 Android 意图的指令到函数调用样例，包含面向移动任务执行的训练、测试和 API 标注文件。

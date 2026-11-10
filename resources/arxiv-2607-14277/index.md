@@ -1,3 +1,11 @@
+---
+title: "Multi-Head Latent Control: A Unified… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-14277/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making
 
 Introduces Multi-Head Latent Control, a layer that reads frozen LLM or VLM hidden-state trajectories to signal when an agent should defer, seek clarification, use tools, abstain, or answer.
@@ -26,6 +34,18 @@ Amirhosein Ghasemabadi, Ruichen Chen, Bahador Rashidi, Di Niu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-14277/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-14277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_14277,
+  title = {{Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making}},
+  author = {{Amirhosein Ghasemabadi} and {Ruichen Chen} and {Bahador Rashidi} and {Di Niu}},
+  year = {2026},
+  eprint = {2607.14277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.14277v1},
+  note = {First published: 2026-07-15; Recorded arXiv version: v1; Recorded version updated: 2026-07-15T18:36:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

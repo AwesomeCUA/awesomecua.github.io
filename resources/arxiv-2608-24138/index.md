@@ -1,3 +1,11 @@
+---
+title: "Rubrics as Visual-Repair Context for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24138/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation
 
 Bibliographic record for Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianyi Xiong, Zhengyuan Yang, Xiaofei Wang, Chung-Ching Lin, Ruichun Ma, Kevin L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24138/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24138,
+  title = {{Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation}},
+  author = {{Tianyi Xiong} and {Zhengyuan Yang} and {Xiaofei Wang} and {Chung-Ching Lin} and {Ruichun Ma} and {Kevin Lin} and {Zhendong Wang} and {Linjie Li} and {Chenxi Liu} and {Ruibo Chen} and {Ramani Duraiswami} and {Heng Huang} and {Lijuan Wang}},
+  year = {2026},
+  eprint = {2608.24138v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24138v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T07:03:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

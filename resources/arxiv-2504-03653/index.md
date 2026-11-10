@@ -1,3 +1,11 @@
+---
+title: "A Survey on Heterogeneous Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-03653/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey on Heterogeneous Computing Using SmartNICs and Emerging Data Processing Units
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "GUI-R1 data bundle | AwesomeCUA"
+url: https://awesomecua.com/resources/url-df680385f18b01a825be/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # GUI-R1 data bundle
 
 Training and evaluation Parquet bundles accompanying GUI-R1, including GUI grounding and mobile/web action-prediction data.

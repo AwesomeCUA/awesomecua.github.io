@@ -1,3 +1,11 @@
+---
+title: "Habitat-Matterport 3D Dataset (HM3D): 1000… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2109-08238/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI
 
 Bibliographic record for Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Santhosh K. Ramakrishnan, Aaron Gokaslan, Erik Wijmans, Oleksandr Maksymets, Ale
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2109-08238/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2109-08238/citation.csl.json
+
+```bibtex
+@misc{arxiv_2109_08238,
+  title = {{Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI}},
+  author = {{Santhosh K. Ramakrishnan} and {Aaron Gokaslan} and {Erik Wijmans} and {Oleksandr Maksymets} and {Alex Clegg} and {John Turner} and {Eric Undersander} and {Wojciech Galuba} and {Andrew Westbury} and {Angel X. Chang} and {Manolis Savva} and {Yili Zhao} and {Dhruv Batra}},
+  year = {2021},
+  eprint = {2109.08238v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2109.08238v1},
+  note = {First published: 2021-09-16; Recorded arXiv version: v1; Recorded version updated: 2021-09-16T22:01:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

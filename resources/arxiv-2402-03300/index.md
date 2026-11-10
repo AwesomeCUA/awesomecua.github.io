@@ -1,3 +1,11 @@
+---
+title: "DeepSeekMath: Pushing the Limits of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-03300/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 
 Status: excluded from the active CUA catalog after scope review.

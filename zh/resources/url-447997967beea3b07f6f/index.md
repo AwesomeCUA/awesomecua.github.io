@@ -1,3 +1,11 @@
+---
+title: "AssistantBench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-447997967beea3b07f6f/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # AssistantBench
 
 AssistantBench 的任务数据集，托管于 Hugging Face：需要在开放网络上耗时完成的真实问题，分为 dev 和 test 两个 JSONL 文件，dev 部分附答案、参考网址和解释。论文报告共 214 个任务。

@@ -1,3 +1,11 @@
+---
+title: "Mailman Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zero06six-mailman-agents/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Mailman Agents
 
 Browser extension multi-agent orchestrator that coordinates specialized web agents across tabs.

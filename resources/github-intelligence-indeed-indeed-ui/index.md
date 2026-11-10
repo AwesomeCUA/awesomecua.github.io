@@ -1,3 +1,11 @@
+---
+title: "Indeed-UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-intelligence-indeed-indeed-ui/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Indeed-UI
 
 A GUI grounding model described for desktop, mobile, and browser interfaces. Its repository provides ScreenSpot-Pro evaluation and zoom-in scripts.

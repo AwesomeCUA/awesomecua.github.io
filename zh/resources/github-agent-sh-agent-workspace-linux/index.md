@@ -1,3 +1,11 @@
+---
+title: "agent-workspace-linux · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agent-sh-agent-workspace-linux/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # agent-workspace-linux
 
 这款 Linux 工作空间通过 MCP 为智能体提供独立的桌面和浏览器。它支持截屏与输入操作，并提供用于观察和停止智能体的查看器。

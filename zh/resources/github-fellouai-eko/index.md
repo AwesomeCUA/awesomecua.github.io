@@ -1,3 +1,11 @@
+---
+title: "Eko · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fellouai-eko/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Eko
 
 Eko 是用于构建多步骤智能体的 JavaScript 框架，可在计算机和浏览器环境中运行，并提供工作流与工具控制功能。

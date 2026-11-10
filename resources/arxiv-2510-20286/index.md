@@ -1,3 +1,11 @@
+---
+title: "UI-Ins: Enhancing GUI Grounding with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-20286/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning
 
 Treats alternative instruction formulations as reasoning paths and trains GUI-grounding models to select and combine useful perspectives.
@@ -26,6 +34,18 @@ Liangyu Chen, Hanzhang Zhou, Chenglin Cai, Jianan Zhang, Panrong Tong, Quyu Kong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-20286/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-20286/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_20286,
+  title = {{UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning}},
+  author = {{Liangyu Chen} and {Hanzhang Zhou} and {Chenglin Cai} and {Jianan Zhang} and {Panrong Tong} and {Quyu Kong} and {Xu Zhang} and {Chen Liu} and {Yuqi Liu} and {Wenxuan Wang} and {Yue Wang} and {Qin Jin} and {Steven Hoi}},
+  year = {2025},
+  eprint = {2510.20286v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.20286v1},
+  note = {First published: 2025-10-23; Recorded arXiv version: v1; Recorded version updated: 2025-10-23T07:18:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

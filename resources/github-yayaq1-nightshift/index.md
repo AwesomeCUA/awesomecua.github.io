@@ -1,3 +1,11 @@
+---
+title: "Nightshift | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yayaq1-nightshift/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Nightshift
 
 Black-box computer-use QA harness on Solari that evaluates live user interfaces without access to application test hooks.

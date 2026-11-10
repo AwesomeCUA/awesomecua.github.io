@@ -1,3 +1,11 @@
+---
+title: "Performance Portable Gradient Computations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-13204/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Performance Portable Gradient Computations Using Source Transformation
 
 Status: excluded from the active CUA catalog after scope review.

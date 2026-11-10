@@ -1,3 +1,11 @@
+---
+title: "browser-link | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jobshimo-browser-link/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browser-link
 
 Developer-focused MCP bridge connecting Claude Code, OpenCode, and GitHub Copilot CLI to a live Chrome browser.

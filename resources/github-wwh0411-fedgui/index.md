@@ -1,3 +1,11 @@
+---
+title: "FedGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wwh0411-fedgui/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # FedGUI
 
 FedGUI benchmarks federated GUI agent training and evaluation across heterogeneous platforms, device types, data sources, and operating systems.

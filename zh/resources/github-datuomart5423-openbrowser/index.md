@@ -1,3 +1,11 @@
+---
+title: "Openbrowser (Semantic Headless Runtime) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-datuomart5423-openbrowser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Openbrowser (Semantic Headless Runtime)
 
 无头浏览器运行时，将网页转换为供 AI 智能体使用的紧凑结构化语义状态。

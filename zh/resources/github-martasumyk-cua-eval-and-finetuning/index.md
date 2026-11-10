@@ -1,3 +1,11 @@
+---
+title: "CUA Evaluation & RL with Autonomous… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-martasumyk-cua-eval-and-finetuning/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CUA Evaluation & RL with Autonomous Feedback
 
 实现利用自主评测器反馈的强化学习，用于计算机使用智能体的微调和基准评测。

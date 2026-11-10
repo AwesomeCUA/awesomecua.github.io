@@ -1,3 +1,11 @@
+---
+title: "Agent Phone Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lucioliu-agent-phone-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent Phone Use
 
 Enables AI agents on Windows to control Android phones over local Wi-Fi using official `scrcpy` streaming and ADB.

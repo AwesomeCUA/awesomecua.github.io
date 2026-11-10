@@ -1,3 +1,11 @@
+---
+title: "Learning to Adapt: Self-Improving Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-31365/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration
 
 提出 SCALE，借助不同探索角色和图规划训练网页智能体；同时构建 SCALE-20k，收录真实网站上的任务与示范。
@@ -27,6 +35,18 @@ Weile Chen, Bingchen Miao, Qifan Yu, Wendong Bu, Guoming Wang, Wenqiao Zhang, Sh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-31365/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-31365/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_31365,
+  title = {{Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration}},
+  author = {{Weile Chen} and {Bingchen Miao} and {Qifan Yu} and {Wendong Bu} and {Guoming Wang} and {Wenqiao Zhang} and {Shengyu Zhang} and {Juncheng Li} and {Siliang Tang}},
+  year = {2026},
+  eprint = {2605.31365v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.31365v1},
+  note = {First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T14:37:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "shadow-web · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ulinycoin-shadow-web/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # shadow-web
 
 面向网页智能体的本地优先 Python SDK，提供 Shadow DOM 扁平化、Action Maps、SchemaSnap 提取和表单填写功能。

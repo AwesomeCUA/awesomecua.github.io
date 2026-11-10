@@ -1,3 +1,11 @@
+---
+title: "Do BERTs Learn to Use Browser User Interface?… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-07828/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs
 
 Bibliographic record for Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Taichi Iki, Akiko Aizawa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2203-07828/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2203-07828/citation.csl.json
+
+```bibtex
+@misc{arxiv_2203_07828,
+  title = {{Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs}},
+  author = {{Taichi Iki} and {Akiko Aizawa}},
+  year = {2022},
+  eprint = {2203.07828v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2203.07828v1},
+  note = {First published: 2022-03-15; Recorded arXiv version: v1; Recorded version updated: 2022-03-15T12:32:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

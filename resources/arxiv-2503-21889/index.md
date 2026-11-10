@@ -1,3 +1,11 @@
+---
+title: "StarFlow: Generating Structured Workflow… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-21889/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # StarFlow: Generating Structured Workflow Outputs From Sketch Images
 
 Bibliographic record for StarFlow: Generating Structured Workflow Outputs From Sketch Images. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-21889/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-21889/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_21889,
+  title = {{StarFlow: Generating Structured Workflow Outputs From Sketch Images}},
+  author = {{Patrice Bechard} and {Chao Wang} and {Amirhossein Abaskohi} and {Juan Rodriguez} and {Christopher Pal} and {David Vazquez} and {Spandana Gella} and {Sai Rajeswar} and {Perouz Taslakian}},
+  year = {2025},
+  eprint = {2503.21889v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.21889v2},
+  note = {First published: 2025-03-27; Recorded arXiv version: v2; Recorded version updated: 2026-01-12T18:27:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

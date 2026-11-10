@@ -1,3 +1,11 @@
+---
+title: "OpenDesktop & OpenWorker · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chrisschouk-open-desktop/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenDesktop & OpenWorker
 
 云桌面基础设施和容器沙箱引擎，配有 OpenWorker 对话式桌面智能体。

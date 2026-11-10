@@ -1,3 +1,11 @@
+---
+title: "VideoGUI: A Benchmark for GUI Automation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-10227/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 从高层规划、动作叙述和基础动作执行三个层次，分别评估依据教学视频完成 GUI 自动化的能力。
@@ -27,6 +35,18 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Qinchen WU, Mingyi Yan, Zhengyuan Yang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-10227/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-10227/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_10227,
+  title = {{VideoGUI: A Benchmark for GUI Automation from Instructional Videos}},
+  author = {{Kevin Qinghong Lin} and {Linjie Li} and {Difei Gao} and {Qinchen WU} and {Mingyi Yan} and {Zhengyuan Yang} and {Lijuan Wang} and {Mike Zheng Shou}},
+  year = {2024},
+  eprint = {2406.10227v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.10227v1},
+  note = {First published: 2024-06-14; Recorded arXiv version: v1; Recorded version updated: 2024-06-14T17:59:08Z.}
+}
+```
 
 ## 发表记录
 

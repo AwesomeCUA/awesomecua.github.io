@@ -1,3 +1,11 @@
+---
+title: "AppClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appclawhq-appclaw/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AppClaw
 
 AppClaw is a mobile automation agent for Android and iOS that executes natural-language tasks by inspecting accessibility trees and tapping screens.

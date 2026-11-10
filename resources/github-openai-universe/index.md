@@ -1,3 +1,11 @@
+---
+title: "Universe legacy GUI interaction client | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openai-universe/
+updated: 2026-10-17
+type: infrastructure
+lang: en
+---
+
 # Universe legacy GUI interaction client
 
 An archived Gym-compatible client that exposes screen observations and keyboard/mouse actions over VNC for remote application and browser environments, including the historical World of Bits integration.

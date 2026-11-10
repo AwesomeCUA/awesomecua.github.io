@@ -1,3 +1,11 @@
+---
+title: "Hard Prompts Made Easy: Gradient-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-03668/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery
 
 Status: excluded from the active CUA catalog after scope review.

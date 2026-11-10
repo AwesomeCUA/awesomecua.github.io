@@ -1,3 +1,11 @@
+---
+title: "Browser Harness MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arneld18-browser-harness-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Harness MCP
 
 轻量级、自修复的 Model Context Protocol 服务器，用于原生 LLM 网页浏览器自动化。

@@ -1,3 +1,11 @@
+---
+title: "opencode-mobile-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-system1970-opencode-mobile-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # opencode-mobile-use
 
 用于控制 Android 设备的 OpenCode 插件，在 TUI 侧边栏显示实时手机屏幕，并提供稳定的 UI 层级转储。

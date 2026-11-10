@@ -1,3 +1,11 @@
+---
+title: "POINTS-GUI-G: GUI-Grounding Journey · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-06391/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # POINTS-GUI-G: GUI-Grounding Journey
 
 研究从定位能力较弱的基础模型出发，经数据准备、视觉训练和可验证奖励逐步提升 GUI 定位能力的过程。
@@ -27,6 +35,18 @@ Zhongyin Zhao, Yuan Liu, Yikun Liu, Haicheng Wang, Le Tian, Xiao Zhou, Yangxiu Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-06391/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-06391/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06391,
+  title = {{POINTS-GUI-G: GUI-Grounding Journey}},
+  author = {{Zhongyin Zhao} and {Yuan Liu} and {Yikun Liu} and {Haicheng Wang} and {Le Tian} and {Xiao Zhou} and {Yangxiu You} and {Zilin Yu} and {Yang Yu} and {Jie Zhou}},
+  year = {2026},
+  eprint = {2602.06391v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06391v1},
+  note = {First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T05:14:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

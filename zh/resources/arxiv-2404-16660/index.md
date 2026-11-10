@@ -1,3 +1,11 @@
+---
+title: "Benchmarking Mobile Device Control… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-16660/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Benchmarking Mobile Device Control Agents across Diverse Configurations
 
 提出交互式移动设备控制基准 B-MoCA，通过改变设备设置、界面布局和语言测试泛化能力。
@@ -27,6 +35,18 @@ Juyong Lee, Taywon Min, Minyong An, Dongyoon Hahm, Haeone Lee, Changyeon Kim, Ki
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-16660/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-16660/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_16660,
+  title = {{Benchmarking Mobile Device Control Agents across Diverse Configurations}},
+  author = {{Juyong Lee} and {Taywon Min} and {Minyong An} and {Dongyoon Hahm} and {Haeone Lee} and {Changyeon Kim} and {Kimin Lee}},
+  year = {2024},
+  eprint = {2404.16660v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.16660v3},
+  note = {First published: 2024-04-25; Recorded arXiv version: v3; Recorded version updated: 2025-07-21T02:55:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

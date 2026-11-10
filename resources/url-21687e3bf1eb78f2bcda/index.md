@@ -1,3 +1,11 @@
+---
+title: "microsoft/Phi-Ground-Any | AwesomeCUA"
+url: https://awesomecua.com/resources/url-21687e3bf1eb78f2bcda/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # microsoft/Phi-Ground-Any
 
 A fine-tuned vision model that takes an image and instruction and returns a click point. Its card specifies image resizing and coordinate conversion.

@@ -1,3 +1,11 @@
+---
+title: "planchette · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shahriarshm-planchette/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # planchette
 
 用户可以指向任意桌面应用窗口，授予编程智能体仅针对该窗口的截图、点击和键盘控制权限。

@@ -1,3 +1,11 @@
+---
+title: "On AI-Inspired UI-Design | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-13631/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # On AI-Inspired UI-Design
 
 Bibliographic record for On AI-Inspired UI-Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jialiang Wei, Anne-Lise Courbis, Thomas Lambolais, Gérard Dray, Walid Maalej
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-13631/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-13631/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_13631,
+  title = {{On AI-Inspired UI-Design}},
+  author = {{Jialiang Wei} and {Anne-Lise Courbis} and {Thomas Lambolais} and {Gérard Dray} and {Walid Maalej}},
+  year = {2024},
+  eprint = {2406.13631v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.13631v2},
+  note = {First published: 2024-06-19; Recorded arXiv version: v2; Recorded version updated: 2025-01-28T16:42:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

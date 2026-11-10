@@ -1,3 +1,11 @@
+---
+title: "PolyWorkBench: Benchmarking LLM Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-06008/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows
 
 Bibliographic record for PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hongliang Li, Yijin Liu, Zhiwei Zhang, Zihe Liu, Xinyue Lou, Jinan Xu, Fandong M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-06008/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-06008/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_06008,
+  title = {{PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows}},
+  author = {{Hongliang Li} and {Yijin Liu} and {Zhiwei Zhang} and {Zihe Liu} and {Xinyue Lou} and {Jinan Xu} and {Fandong Meng} and {Kaiyu Huang}},
+  year = {2026},
+  eprint = {2607.06008v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.06008v3},
+  note = {First published: 2026-07-07; Recorded arXiv version: v3; Recorded version updated: 2026-08-17T05:33:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

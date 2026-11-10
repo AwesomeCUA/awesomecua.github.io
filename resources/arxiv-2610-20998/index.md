@@ -1,3 +1,11 @@
+---
+title: "MoCaP: Mobile Code-as-Policies for Zero-Shot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-20998/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos
 
 Bibliographic record for MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yiyang Cai, Tatsuya Kamijo, Ninghao Lu, Zijin Hu, Sherry Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-20998/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-20998/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20998,
+  title = {{MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos}},
+  author = {{Yiyang Cai} and {Tatsuya Kamijo} and {Ninghao Lu} and {Zijin Hu} and {Sherry Yang}},
+  year = {2026},
+  eprint = {2610.20998v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20998v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T22:33:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

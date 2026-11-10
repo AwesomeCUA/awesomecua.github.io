@@ -1,3 +1,11 @@
+---
+title: "qz-browser-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alibaba-qz-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # qz-browser-agent
 
 Chrome 扩展智能体读取页面 DOM 和无障碍树，跨标签页操作带索引的元素或截图坐标，并通过内置 CLI 和 MCP 桥接接收委派任务。

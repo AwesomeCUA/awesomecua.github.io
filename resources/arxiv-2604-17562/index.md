@@ -1,3 +1,11 @@
+---
+title: "SafeAgent: A Runtime Protection Architecture… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-17562/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SafeAgent: A Runtime Protection Architecture for Agentic Systems
 
 Status: excluded from the active CUA catalog after scope review.

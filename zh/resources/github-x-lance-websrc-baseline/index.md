@@ -1,3 +1,11 @@
+---
+title: "WebSRC · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-x-lance-websrc-baseline/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # WebSRC
 
 WebSRC 为基于 HTML 和截图的 Web-Based Structural Reading Comprehension 数据集提供基线模型和处理流水线。

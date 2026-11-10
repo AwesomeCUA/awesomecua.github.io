@@ -1,3 +1,11 @@
+---
+title: "RoboAuto: Autonomous Robot Program Search… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36533/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RoboAuto: Autonomous Robot Program Search through Multi-Level Physical Understanding
 
 Bibliographic record for RoboAuto: Autonomous Robot Program Search through Multi-Level Physical Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Buzhao Liu, Jianing Ye, Xiu Yuan, Yangtong Feng, Chengsong Huang, Tyler Dinh, Ye
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36533/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36533,
+  title = {{RoboAuto: Autonomous Robot Program Search through Multi-Level Physical Understanding}},
+  author = {{Buzhao Liu} and {Jianing Ye} and {Xiu Yuan} and {Yangtong Feng} and {Chengsong Huang} and {Tyler Dinh} and {Yevgeniy Vorobeychik} and {Ning Zhang} and {Chongjie Zhang}},
+  year = {2026},
+  eprint = {2610.36533v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36533v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T02:41:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

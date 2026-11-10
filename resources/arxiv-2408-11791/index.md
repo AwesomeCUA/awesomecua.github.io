@@ -1,3 +1,11 @@
+---
+title: "Critique-out-Loud Reward Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-11791/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Critique-out-Loud Reward Models
 
 Status: excluded from the active CUA catalog after scope review.

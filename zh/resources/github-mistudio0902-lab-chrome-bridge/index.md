@@ -1,3 +1,11 @@
+---
+title: "mistudio0902-lab Chrome Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mistudio0902-lab-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mistudio0902-lab Chrome Bridge
 
 Model Context Protocol 桥接器，让 Claude Code 和 Codex 同时操作多个已登录的 Chrome 配置文件。

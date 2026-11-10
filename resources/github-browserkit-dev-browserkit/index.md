@@ -1,3 +1,11 @@
+---
+title: "browserkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browserkit-dev-browserkit/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # browserkit
 
 browserkit is a TypeScript framework for building site-specific MCP servers that operate over local, authenticated browser sessions.

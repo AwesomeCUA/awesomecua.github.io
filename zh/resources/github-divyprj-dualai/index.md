@@ -1,3 +1,11 @@
+---
+title: "Dual-AI Bridge (Gemini Antigravity x… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-divyprj-dualai/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Dual-AI Bridge (Gemini Antigravity x ChatGPT)
 
 双向本地开发桥接工具，用于编排 Gemini Antigravity 和 ChatGPT Web 会话。

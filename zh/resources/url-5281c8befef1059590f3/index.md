@@ -1,3 +1,11 @@
+---
+title: "aitw-webshop-digiq-agent · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5281c8befef1059590f3/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # aitw-webshop-digiq-agent
 
 Digi-Q 设备控制智能体权重，在 AitW Web Shopping 任务集上训练，基于 AutoUI 的执行器借助 VLM Q 值函数离线学习；仓库报告其测试集得分为 70.8。

@@ -1,3 +1,11 @@
+---
+title: "Pointer · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-98122987ca3e7c764d0e/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Pointer
 
 Pointer 介绍一款桌面计算机使用智能体：先检查任务可行性，再规划阶段目标，由执行器结合界面、代码与浏览器工具完成任务。

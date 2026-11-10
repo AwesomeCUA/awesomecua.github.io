@@ -1,3 +1,11 @@
+---
+title: "DevBench: A Realistic, Developer-Informed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-11895/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DevBench: A Realistic, Developer-Informed Benchmark for Code Generation Models
 
 Status: excluded from the active CUA catalog after scope review.

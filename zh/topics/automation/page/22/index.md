@@ -1,14 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 22 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/22/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 22 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/22/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [profile-use](https://awesomecua.com/zh/resources/github-leeguooooo-profile-use/)
-- [ProfileFleet](https://awesomecua.com/zh/resources/github-enginefuture-profilefleet/)
-- [Programming with Pixels (PwP)](https://awesomecua.com/zh/resources/github-programmingwithpixels-pwp/)
-- [Project Tendril](https://awesomecua.com/zh/resources/github-gadgethd-project-tendril/)
-- [Promptwright](https://awesomecua.com/zh/resources/github-sahajamit-promptwright/)
 - [Proxy Lite](https://awesomecua.com/zh/resources/github-convergence-ai-proxy-lite/)
 - [PTFakeTouch](https://awesomecua.com/zh/resources/github-ret70-ptfaketouch/)
 - [PUDA guidriver](https://awesomecua.com/zh/resources/github-pudap-guidriver/)
@@ -64,3 +67,8 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/22/
 - [RobotGo](https://awesomecua.com/zh/resources/github-go-vgo-robotgo/)
 - [Robotgo Pro](https://awesomecua.com/zh/resources/github-vcaesar-robotgo-pro/)
 - [RobotJS](https://awesomecua.com/zh/resources/github-octalmage-robotjs/)
+- [robotsix-browser](https://awesomecua.com/zh/resources/github-damien-robotsix-robotsix-browser/)
+- [Rocuronium](https://awesomecua.com/zh/resources/github-kageroumado-rocuronium/)
+- [Rod](https://awesomecua.com/zh/resources/github-go-rod-rod/)
+- [rotary (rx4)](https://awesomecua.com/zh/resources/github-tschk-rotary/)
+- [rote](https://awesomecua.com/zh/resources/github-bhuvanb3110-rote/)

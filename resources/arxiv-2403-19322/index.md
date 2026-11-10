@@ -1,3 +1,11 @@
+---
+title: "Plug-and-Play Grounding of Reasoning in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-19322/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models
 
 Bibliographic record for Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaxing Chen, Yuxuan Liu, Dehu Li, Xiang An, Weimo Deng, Ziyong Feng, Yongle Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-19322/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-19322/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_19322,
+  title = {{Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models}},
+  author = {{Jiaxing Chen} and {Yuxuan Liu} and {Dehu Li} and {Xiang An} and {Weimo Deng} and {Ziyong Feng} and {Yongle Zhao} and {Yin Xie}},
+  year = {2024},
+  eprint = {2403.19322v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.19322v2},
+  note = {First published: 2024-03-28; Recorded arXiv version: v2; Recorded version updated: 2024-06-18T05:57:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

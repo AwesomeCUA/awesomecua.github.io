@@ -1,3 +1,11 @@
+---
+title: "InjecGuard: Benchmarking and Mitigating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-22770/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models
 
 Status: excluded from the active CUA catalog after scope review.

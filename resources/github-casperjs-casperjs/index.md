@@ -1,3 +1,11 @@
+---
+title: "CasperJS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-casperjs-casperjs/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # CasperJS
 
 CasperJS is a browser navigation scripting and testing utility for PhantomJS and SlimerJS, with helpers for forms, links, screenshots and assertions.

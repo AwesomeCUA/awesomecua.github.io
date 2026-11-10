@@ -1,3 +1,11 @@
+---
+title: "UFO: A UI-Focused Agent for Windows OS… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-07939/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # UFO: A UI-Focused Agent for Windows OS Interaction
 
 UFO uses two agents to inspect Windows application interfaces and their control metadata, then grounds and executes user requests within and across applications. The study evaluates this UI-focused architecture on nine Windows applications.
@@ -26,6 +34,18 @@ Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Ka
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-07939/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-07939/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_07939,
+  title = {{UFO: A UI-Focused Agent for Windows OS Interaction}},
+  author = {{Chaoyun Zhang} and {Liqun Li} and {Shilin He} and {Xu Zhang} and {Bo Qiao} and {Si Qin} and {Minghua Ma} and {Yu Kang} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang} and {Qi Zhang}},
+  year = {2024},
+  eprint = {2402.07939v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.07939v5},
+  note = {First published: 2024-02-08; Recorded arXiv version: v5; Recorded version updated: 2024-05-23T05:18:58Z.}
+}
+```
 
 ## Publication record
 

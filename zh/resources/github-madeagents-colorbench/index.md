@@ -1,3 +1,11 @@
+---
+title: "ColorBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-madeagents-colorbench/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # ColorBench
 
 ColorBench 是基于图的移动 GUI 基准，通过截图状态及多种有效或错误的状态转移评估长任务，涵盖反思、重新规划和回退。

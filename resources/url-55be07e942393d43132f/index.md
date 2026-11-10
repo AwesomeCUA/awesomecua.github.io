@@ -1,3 +1,11 @@
+---
+title: "SpiritSight-Agent-26B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-55be07e942393d43132f/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # SpiritSight-Agent-26B
 
 A 26B vision-based checkpoint for GUI navigation across interface platforms. The release includes model weights and an inference script built around an InternVL2 base model.

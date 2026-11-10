@@ -1,3 +1,11 @@
+---
+title: "Appwalk · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kubstack-appwalk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Appwalk
 
 AI 驱动的 CLI，在浏览器中探索网页应用，并将运行过程编译为经过验证的 Playwright 测试套件。

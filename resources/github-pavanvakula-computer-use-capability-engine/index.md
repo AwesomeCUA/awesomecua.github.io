@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Capability Engine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Computer-Use Capability Engine
 
 Discovers legacy UI workflows with an LLM once and compiles them into typed, versioned, deterministically replayable capabilities.

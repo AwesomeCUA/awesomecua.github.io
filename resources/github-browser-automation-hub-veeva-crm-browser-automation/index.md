@@ -1,3 +1,11 @@
+---
+title: "Veeva CRM (Veeva Commercial Cloud) Browser… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-veeva-crm-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Veeva CRM (Veeva Commercial Cloud) Browser Automation
 
 A browser automation scaffold for Veeva CRM that defines actions for call reports, sample inventory, account records, and territory data through Puppeteer or Anchor Browser.

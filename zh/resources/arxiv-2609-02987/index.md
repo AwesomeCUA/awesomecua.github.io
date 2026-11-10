@@ -1,3 +1,11 @@
+---
+title: "Tail-Likelihood Reinforcement Learning · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-02987/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Tail-Likelihood Reinforcement Learning
 
 提出 Tail-Likelihood Reinforcement Learning（TailRL），一种偏向罕见高奖励轨迹的 RL 目标；GUI 元素定位是其多项评估任务之一。
@@ -27,6 +35,18 @@ Shrinivas Ramasubramanian, Daman Arora, Fahim Tajwar, Guanning Zeng, Qingyang Wu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-02987/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-02987/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02987,
+  title = {{Tail-Likelihood Reinforcement Learning}},
+  author = {{Shrinivas Ramasubramanian} and {Daman Arora} and {Fahim Tajwar} and {Guanning Zeng} and {Qingyang Wu} and {Zhongzhu Zhou} and {Chenfeng Xu} and {Haiwen Feng} and {Yuda Song} and {Aarti Singh} and {Ruslan Salakhutdinov} and {J. Andrew Bagnell} and {Jeff Schneider} and {Andrea Zanette}},
+  year = {2026},
+  eprint = {2609.02987v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02987v2},
+  note = {First published: 2026-09-02; Recorded arXiv version: v2; Recorded version updated: 2026-09-09T16:07:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

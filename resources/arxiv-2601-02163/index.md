@@ -1,3 +1,11 @@
+---
+title: "EverMemOS: A Self-Organizing Memory Operating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-02163/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning
 
 Status: excluded from the active CUA catalog after scope review.

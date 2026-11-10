@@ -1,3 +1,11 @@
+---
+title: "OpenAPA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-laiye-ai-open-apa/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # OpenAPA
 
 面向桌面图形界面任务的智能体，结合屏幕截图推理、视觉定位、任务规划和跨应用操作。

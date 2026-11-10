@@ -1,3 +1,11 @@
+---
+title: "cua-speedrun: Standardized Benchmarking of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-40284/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents
 
 Standardizes virtual machines, interaction pipelines, and agent interfaces to compare computer-use speed, cost, and task performance.
@@ -26,6 +34,18 @@ Pranjal Aggarwal, Lawrence Keunho Jang, Sean Welleck, Daniel Fried, Ruslan Salak
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-40284/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-40284/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_40284,
+  title = {{cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents}},
+  author = {{Pranjal Aggarwal} and {Lawrence Keunho Jang} and {Sean Welleck} and {Daniel Fried} and {Ruslan Salakhutdinov} and {Jing Yu Koh}},
+  year = {2026},
+  eprint = {2609.40284v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.40284v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T17:48:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

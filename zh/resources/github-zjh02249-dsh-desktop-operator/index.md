@@ -1,3 +1,11 @@
+---
+title: "DSH Desktop Operator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zjh02249-dsh-desktop-operator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DSH Desktop Operator
 
 适用于 DeepSeek Harness 的安全 Windows 计算机使用插件，提供限定于窗口的桌面自动化和验证。

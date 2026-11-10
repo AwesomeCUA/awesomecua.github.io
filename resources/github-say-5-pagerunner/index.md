@@ -1,3 +1,11 @@
+---
+title: "PageRunner | AwesomeCUA"
+url: https://awesomecua.com/resources/github-say-5-pagerunner/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PageRunner
 
 PageRunner is a browser-agent orchestration platform with bounded execution loops, deterministic replay, and golden-trace verification.

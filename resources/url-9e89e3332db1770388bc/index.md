@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-Data-Box | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9e89e3332db1770388bc/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # UGround-V1-Data-Box
 
 UGround-V1-Data-Box contains Web-Hybrid and Web-Direct GUI grounding data with images and conversations; its bounding-box version uses normalized coordinates.

@@ -1,3 +1,11 @@
+---
+title: "From Web Search towards Agentic Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-18959/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents
 
 Bibliographic record for From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Weizhi Zhang, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-18959/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-18959/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_18959,
+  title = {{From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents}},
+  author = {{Weizhi Zhang} and {Yangning Li} and {Yuanchen Bei} and {Junyu Luo} and {Guancheng Wan} and {Liangwei Yang} and {Chenxuan Xie} and {Yuyao Yang} and {Wei-Chieh Huang} and {Chunyu Miao} and {Henry Peng Zou} and {Xiao Luo} and {Yusheng Zhao} and {Yankai Chen} and {Chunkit Chan} and {Peilin Zhou} and {Xinyang Zhang} and {Chenwei Zhang} and {Jingbo Shang} and {Ming Zhang} and {Yangqiu Song} and {Irwin King} and {Philip S. Yu}},
+  year = {2025},
+  eprint = {2506.18959v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.18959v3},
+  note = {First published: 2025-06-23; Recorded arXiv version: v3; Recorded version updated: 2025-07-03T17:48:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

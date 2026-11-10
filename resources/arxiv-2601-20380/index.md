@@ -1,3 +1,11 @@
+---
+title: "OmegaUse: Building a General-Purpose GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-20380/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution
 
 OmegaUse combines exploratory and taxonomy-guided data synthesis with supervised fine-tuning followed by GRPO for GUI control. The report introduces OS-Nav for offline Android and Ubuntu evaluation alongside established grounding and action-prediction benchmarks.
@@ -26,6 +34,18 @@ Le Zhang, Yixiong Xiao, Xinjiang Lu, Jingjia Cao, Yusai Zhao, Jingbo Zhou, Lang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-20380/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-20380/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_20380,
+  title = {{OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution}},
+  author = {{Le Zhang} and {Yixiong Xiao} and {Xinjiang Lu} and {Jingjia Cao} and {Yusai Zhao} and {Jingbo Zhou} and {Lang An} and {Zikan Feng} and {Wanxiang Sha} and {Yu Shi} and {Congxi Xiao} and {Jian Xiong} and {Yankai Zhang} and {Hua Wu} and {Haifeng Wang}},
+  year = {2026},
+  eprint = {2601.20380v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.20380v1},
+  note = {First published: 2026-01-28; Recorded arXiv version: v1; Recorded version updated: 2026-01-28T08:45:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

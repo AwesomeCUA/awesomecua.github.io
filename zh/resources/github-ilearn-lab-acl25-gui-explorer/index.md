@@ -1,3 +1,11 @@
+---
+title: "GUI-explorer · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ilearn-lab-acl25-gui-explorer/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # GUI-explorer
 
 Android 智能体代码通过 ADB 探索应用，挖掘感知界面转换的知识并存入带检索服务的知识库，还提供调用这些知识的 OpenAI 智能体演示。

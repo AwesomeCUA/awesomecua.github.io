@@ -1,3 +1,11 @@
+---
+title: "Energy-Efficient Edge-Facilitated Wireless… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1903-02294/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Energy-Efficient Edge-Facilitated Wireless Collaborative Computing using Map-Reduce
 
 Status: excluded from the active CUA catalog after scope review.

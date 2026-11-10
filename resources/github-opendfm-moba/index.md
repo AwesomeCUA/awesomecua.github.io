@@ -1,3 +1,11 @@
+---
+title: "MobA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opendfm-moba/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # MobA
 
 An Android agent that combines global task planning and memory with a local action executor, using reflection to revise mobile interaction steps.

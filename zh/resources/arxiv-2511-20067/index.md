@@ -1,3 +1,11 @@
+---
+title: "\"Are We Done Yet?\": A Vision-Based Judge… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-20067/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # "Are We Done Yet?": A Vision-Based Judge for Autonomous Task Completion of Computer Use Agents
 
 研究用 42 个 macOS 内置应用的截图和指令测试视觉语言模型能否判断任务完成情况。研究在人工标注的任务上评估判断准确率，并单独分析评判反馈对智能体任务成功率的影响。
@@ -27,6 +35,18 @@ Marta Sumyk, Oleksandr Kosovan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-20067/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-20067/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_20067,
+  title = {{"Are We Done Yet?": A Vision-Based Judge for Autonomous Task Completion of Computer Use Agents}},
+  author = {{Marta Sumyk} and {Oleksandr Kosovan}},
+  year = {2025},
+  eprint = {2511.20067v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.20067v1},
+  note = {First published: 2025-11-25; Recorded arXiv version: v1; Recorded version updated: 2025-11-25T08:40:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

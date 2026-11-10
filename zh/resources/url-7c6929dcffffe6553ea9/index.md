@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-241B-A28B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7c6929dcffffe6553ea9/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-241B-A28B-HF
 
 InternVL3_5-241B-A28B-HF 发布了 InternVL3.5 系列的 Transformers 格式多模态模型权重；其模型卡描述了图形界面交互和高效视觉推理能力。

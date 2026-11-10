@@ -1,3 +1,11 @@
+---
+title: "navi-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5bbbc1012ab02e9df3bb/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # navi-bench
 
 Task data for Navi-Bench, everyday web tasks on live websites: a 200-row validation split over ten sites such as Apartments, Craigslist and Google Flights, each with a task-generation config, domain and categories.

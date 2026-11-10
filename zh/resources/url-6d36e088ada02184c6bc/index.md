@@ -1,3 +1,11 @@
+---
+title: "inclusionAI/UI-Venus-Navi-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6d36e088ada02184c6bc/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # inclusionAI/UI-Venus-Navi-7B
 
 基于 Qwen2.5-VL 发布的界面智能体模型，结合截图和先前操作，预测图形界面导航动作及目标元素位置。

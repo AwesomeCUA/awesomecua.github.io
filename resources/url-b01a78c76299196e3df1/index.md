@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 7B Desktop-RL | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b01a78c76299196e3df1/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Owl 7B Desktop-RL
 
 GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements, with production use outside its stated purpose.

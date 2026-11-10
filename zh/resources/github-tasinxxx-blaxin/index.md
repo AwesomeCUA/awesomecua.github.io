@@ -1,3 +1,11 @@
+---
+title: "BLAXIN · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tasinxxx-blaxin/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # BLAXIN
 
 面向 Linux 的开源 AI 桌面智能体，可规划、执行和验证 GUI 与 shell 工作流。

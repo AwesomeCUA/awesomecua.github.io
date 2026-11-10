@@ -1,3 +1,11 @@
+---
+title: "Deterministic Computer-Use Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-joncody-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Deterministic Computer-Use Automation
 
 Two-phase computer-use automation framework that compiles LLM-driven UI discovery into deterministic replay scripts.

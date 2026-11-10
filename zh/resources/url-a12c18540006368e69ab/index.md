@@ -1,3 +1,11 @@
+---
+title: "weboperator-experiments · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a12c18540006368e69ab/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # weboperator-experiments
 
 WebOperator 网页智能体使用 gpt-4o 在 812 个 WebArena 任务及 155 个任务的 WebArena-lite 消融实验上的运行日志，包含每个任务的轨迹、搜索树、截图和得分。

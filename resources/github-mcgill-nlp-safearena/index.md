@@ -1,3 +1,11 @@
+---
+title: "SafeArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcgill-nlp-safearena/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # SafeArena
 
 Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse risks.

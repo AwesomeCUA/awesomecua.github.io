@@ -1,3 +1,11 @@
+---
+title: "Appium XCUITest Driver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium-xcuitest-driver/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Appium XCUITest Driver
 
 Appium XCUITest Driver provides Appium control of native and hybrid apps across iOS and other Apple device platforms, with watchOS limited to simulators.

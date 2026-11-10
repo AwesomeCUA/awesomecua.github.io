@@ -1,3 +1,11 @@
+---
+title: "AgentTrek | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-agenttrek/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # AgentTrek
 
 Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.

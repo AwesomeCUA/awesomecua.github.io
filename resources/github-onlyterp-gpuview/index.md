@@ -1,3 +1,11 @@
+---
+title: "gpuview | AwesomeCUA"
+url: https://awesomecua.com/resources/github-onlyterp-gpuview/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gpuview
 
 GPU-native Windows screen perception tool capturing frames directly from the DXGI Desktop Duplication compositor handoff for AI agents.

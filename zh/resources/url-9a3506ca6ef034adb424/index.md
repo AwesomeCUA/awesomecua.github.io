@@ -1,3 +1,11 @@
+---
+title: "AutoDroid V2 training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9a3506ca6ef034adb424/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # AutoDroid V2 training data
 
 用于微调 AutoDroid V2 的对话格式监督数据；项目文档提供了 ShareGPT 风格的 JSON 配置。

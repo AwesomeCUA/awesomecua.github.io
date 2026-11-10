@@ -1,3 +1,11 @@
+---
+title: "Holo4 35B-A3B BF16 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-16083a0225a60882c704/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Holo4 35B-A3B BF16
 
 A Qwen3.6-based computer-use checkpoint designed to request GUI actions, code execution and tool calls through an external agent harness.

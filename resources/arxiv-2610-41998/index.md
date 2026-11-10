@@ -1,3 +1,11 @@
+---
+title: "SecPO: Principled Adversarial Training for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-41998/
+updated: 2026-11-03
+type: paper
+lang: en
+---
+
 # SecPO: Principled Adversarial Training for Prompt Injection Security
 
 Bibliographic record for SecPO: Principled Adversarial Training for Prompt Injection Security. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sizhe Chen, Yibo Peng, Jaewon Chang, Chawin Sitawarin, David Wagner
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-41998/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-41998/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_41998,
+  title = {{SecPO: Principled Adversarial Training for Prompt Injection Security}},
+  author = {{Sizhe Chen} and {Yibo Peng} and {Jaewon Chang} and {Chawin Sitawarin} and {David Wagner}},
+  year = {2026},
+  eprint = {2610.41998v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.41998v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T16:43:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

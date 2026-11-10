@@ -1,3 +1,11 @@
+---
+title: "chatgpt-desktop-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cantbeblank96-chatgpt-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # chatgpt-desktop-mcp
 
 Model Context Protocol 服务器，通过 6 个 AT-SPI2 无障碍工具开放官方 Ubuntu/Linux ChatGPT Desktop 应用。

@@ -1,3 +1,11 @@
+---
+title: "Right Click, Wrong Box: Grading GUI Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36831/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Right Click, Wrong Box: Grading GUI Grounding by What a Click Does
 
 Proposes grading GUI grounding clicks by their executed outcomes and audits box-based scores on live web applications and ScreenSpot-v2 screenshots.
@@ -26,6 +34,18 @@ Xiaokang Yuan, Binhui Yao, Luwei Yang, Ruimin Chen, Zeng Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36831/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36831/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36831,
+  title = {{Right Click, Wrong Box: Grading GUI Grounding by What a Click Does}},
+  author = {{Xiaokang Yuan} and {Binhui Yao} and {Luwei Yang} and {Ruimin Chen} and {Zeng Wang}},
+  year = {2026},
+  eprint = {2610.36831v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36831v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T08:30:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

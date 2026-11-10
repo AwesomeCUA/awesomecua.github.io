@@ -1,3 +1,11 @@
+---
+title: "Weasel: Out-of-Domain Generalization for Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-20291/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection
 
 Weasel selects web-agent training steps by balancing importance and diversity across states, sites and interaction patterns. It also prunes training accessibility trees around known action targets and regenerates rationales to match the model’s reasoning style.
@@ -26,6 +34,18 @@ Fatemeh Pesaran Zadeh, Seyeon Choi, Xing Han Lù, Siva Reddy, Gunhee Kim
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-20291/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-20291/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_20291,
+  title = {{Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection}},
+  author = {{Fatemeh Pesaran Zadeh} and {Seyeon Choi} and {Xing Han Lù} and {Siva Reddy} and {Gunhee Kim}},
+  year = {2026},
+  eprint = {2605.20291v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.20291v2},
+  note = {First published: 2026-05-19; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T02:53:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

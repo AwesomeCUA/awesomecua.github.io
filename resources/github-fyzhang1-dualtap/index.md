@@ -1,3 +1,11 @@
+---
+title: "DualTAP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fyzhang1-dualtap/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # DualTAP
 
 DualTAP is a dual-task adversarial protection framework for mobile MLLM GUI agents against environmental and visual prompt attacks.

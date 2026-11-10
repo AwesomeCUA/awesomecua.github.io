@@ -1,3 +1,11 @@
+---
+title: "UI-Voyager · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ui-voyager-ui-voyager/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # UI-Voyager
 
 UI-Voyager 是自我演进的移动端 GUI 智能体框架，通过组相对反思从失败的执行轨迹中学习。

@@ -1,3 +1,11 @@
+---
+title: "uictl-linux-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-byronscottjones-uictl-linux-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # uictl-linux-mcp
 
 uictl-linux-mcp 是开发中的 Linux/GNOME 命令行工具和 MCP 服务器，智能体可借助截图、无障碍数据及输入操作控制图形界面应用。

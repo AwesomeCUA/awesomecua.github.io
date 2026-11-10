@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-firefox · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tuojc-dsh-browser-firefox/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-browser-firefox
 
 面向 DeepSeek Harness 的 Firefox 浏览器控制插件和扩展，使智能体能够读取和操作实时 Firefox 标签页。

@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Base 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-82a30f45d9e855f423c7/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # OS-Atlas Base 7B
 
 OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standard Qwen2-VL architecture in Transformers with about 8.3B BF16 parameters.

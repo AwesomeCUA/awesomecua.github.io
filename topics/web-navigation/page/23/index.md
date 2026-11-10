@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 23 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/23/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 23
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/23/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Nell (Open Source Instinct)](https://awesomecua.com/resources/github-iabdulwasey-nell/)
-- [nemosr dsh-personal-plugins](https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/)
 - [neuron-inspector](https://awesomecua.com/resources/github-conquext-neuron-inspector/)
 - [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/)
 - [Nik-Browser MCP](https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [OpenMuse](https://awesomecua.com/resources/github-copilotkit-openmuse/)
 - [OpenQA](https://awesomecua.com/resources/github-openqa-labs-openqa/)
 - [OpenSider](https://awesomecua.com/resources/github-parksben-opensider/)
+- [OpenTeam](https://awesomecua.com/resources/github-raghavpillai-openteam/)
+- [OpenTiny NEXT-SDKs (WebMCP)](https://awesomecua.com/resources/github-opentiny-webmcp-sdk/)

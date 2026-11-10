@@ -1,3 +1,11 @@
+---
+title: "GUI-Net-1M · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Net-1M
 
 TongUI 从多模态网页教程收集的训练语料，以标注文件和分卷截图归档形式发布，用于 GUI 轨迹监督训练。

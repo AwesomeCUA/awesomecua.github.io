@@ -1,3 +1,11 @@
+---
+title: "MERRICK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-simoncheungai-merrick/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # MERRICK
 
 Personal macOS assistant agent for planning, browser automation, and native desktop task execution.

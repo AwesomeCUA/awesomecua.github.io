@@ -1,3 +1,11 @@
+---
+title: "NNetNav Live data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4f47abde8cd28a1ec1e1/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # NNetNav Live data
 
 Browser-interaction data released with NNetNav for its live-website setting, with separate training and test files.

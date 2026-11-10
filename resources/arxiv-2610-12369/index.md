@@ -1,3 +1,11 @@
+---
+title: "Embodied Turing Machines: Stateful Code for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-12369/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement
 
 Bibliographic record for Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kairui Hu, Siyuan Hu, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12369/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12369/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12369,
+  title = {{Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement}},
+  author = {{Kairui Hu} and {Siyuan Hu} and {Fangzhou Hong} and {Zhaoxi Chen} and {Ziwei Liu}},
+  year = {2026},
+  eprint = {2610.12369v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12369v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T17:29:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

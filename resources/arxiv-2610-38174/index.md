@@ -1,3 +1,11 @@
+---
+title: "Scaling Lean Theorem Proving for Real-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-38174/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scaling Lean Theorem Proving for Real-World Code Verification
 
 Status: excluded from the active CUA catalog after scope review.

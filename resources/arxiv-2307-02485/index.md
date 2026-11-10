@@ -1,3 +1,11 @@
+---
+title: "Building Cooperative Embodied Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-02485/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Building Cooperative Embodied Agents Modularly with Large Language Models
 
 Bibliographic record for Building Cooperative Embodied Agents Modularly with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenb
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-02485/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-02485/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_02485,
+  title = {{Building Cooperative Embodied Agents Modularly with Large Language Models}},
+  author = {{Hongxin Zhang} and {Weihua Du} and {Jiaming Shan} and {Qinhong Zhou} and {Yilun Du} and {Joshua B. Tenenbaum} and {Tianmin Shu} and {Chuang Gan}},
+  year = {2023},
+  eprint = {2307.02485v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.02485v2},
+  note = {First published: 2023-07-05; Recorded arXiv version: v2; Recorded version updated: 2024-02-17T05:27:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

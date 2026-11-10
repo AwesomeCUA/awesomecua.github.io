@@ -1,3 +1,11 @@
+---
+title: "WebMCP (github.com/webmachinelearning/webmcp) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-webmachinelearning-webmcp/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # WebMCP
 
 A client-side web API proposal that lets pages expose structured JavaScript tools to browser agents. Agents can invoke page functions while sharing the visible interface and context with users.

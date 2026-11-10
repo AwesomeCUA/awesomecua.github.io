@@ -1,3 +1,11 @@
+---
+title: "Notte CLI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nottelabs-notte-cli/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Notte CLI
 
 一个命令行工具，可控制远程浏览器会话、处理文件并执行可重复的网页自动化流程。

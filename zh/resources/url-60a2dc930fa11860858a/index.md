@@ -1,3 +1,11 @@
+---
+title: "Learning to Contextualize Web Pages for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-60a2dc930fa11860858a/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents
 
 训练独立语言模型，将冗长网页观察改写为供 LLM 网页智能体使用的聚焦描述，并保留能让多个 LLM 预测正确下一步动作的训练目标。
@@ -27,6 +35,20 @@ Dongjun Lee, Juyong Lee, Kyuyoung Kim, Jihoon Tack, Jinwoo Shin, Yee Whye Teh, K
 
 - BibTeX：https://awesomecua.com/resources/url-60a2dc930fa11860858a/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-60a2dc930fa11860858a/citation.csl.json
+
+```bibtex
+@inproceedings{cua_77f35bd12a0778d0787dcf74,
+  title = {{Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents}},
+  author = {{Dongjun Lee} and {Juyong Lee} and {Kyuyoung Kim} and {Jihoon Tack} and {Jinwoo Shin} and {Yee Whye Teh} and {Kimin Lee}},
+  year = {2025},
+  month = may,
+  booktitle = {International Conference on Learning Representations 2025 (ICLR 2025)},
+  volume = {2025},
+  pages = {81039-81072},
+  url = {https://openreview.net/forum?id=3Gzz7ZQLiz},
+  note = {Publication date: 2025-05-01.}
+}
+```
 
 ## 发表记录
 

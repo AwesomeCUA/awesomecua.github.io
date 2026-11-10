@@ -1,3 +1,11 @@
+---
+title: "ecobrowser (ai-browser) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-haidaresber-ai-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ecobrowser (ai-browser)
 
 AI-native browser framework with structured page perception, token-efficient state representation, and deterministic action tools.

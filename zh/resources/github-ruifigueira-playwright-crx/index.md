@@ -1,3 +1,11 @@
+---
+title: "Playwright CRX · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ruifigueira-playwright-crx/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Playwright CRX
 
 Playwright 的 Chrome 扩展版本，通过 chrome.debugger 驱动已打开的浏览器标签页，既可作为库使用，也可作为录制和回放脚本并支持追踪的扩展。

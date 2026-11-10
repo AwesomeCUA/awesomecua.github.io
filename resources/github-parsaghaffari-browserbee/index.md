@@ -1,3 +1,11 @@
+---
+title: "BrowserBee | AwesomeCUA"
+url: https://awesomecua.com/resources/github-parsaghaffari-browserbee/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # BrowserBee
 
 A Chrome extension that takes natural-language instructions and uses an LLM with Playwright to observe and operate websites, with locally stored task memories and user approval for selected actions.

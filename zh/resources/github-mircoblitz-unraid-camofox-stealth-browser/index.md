@@ -1,3 +1,11 @@
+---
+title: "Unraid Camofox Stealth Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mircoblitz-unraid-camofox-stealth-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Unraid Camofox Stealth Browser
 
 Unraid 容器模板和 Agent Skill，用于为 AI 智能体托管私有 Camofox 反检测浏览器节点。

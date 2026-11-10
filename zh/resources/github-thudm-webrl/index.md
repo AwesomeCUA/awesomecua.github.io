@@ -1,3 +1,11 @@
+---
+title: "WebRL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-webrl/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # WebRL
 
 从先前尝试中演化网页任务，并利用结果奖励模型改进浏览器操作策略的训练流程。

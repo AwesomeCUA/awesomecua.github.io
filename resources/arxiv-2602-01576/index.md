@@ -1,3 +1,11 @@
+---
+title: "Generative Visual Code Mobile World Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-01576/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Generative Visual Code Mobile World Models
 
 gWorld predicts future mobile GUI states as renderable web code and supplies an automated pipeline for code-based training data. The study evaluates visual state prediction and how stronger world models affect downstream mobile policies.
@@ -26,6 +34,18 @@ Woosung Koh, Sungjun Han, Segyu Lee, Se-Young Yun, Jamin Shin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-01576/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-01576/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_01576,
+  title = {{Generative Visual Code Mobile World Models}},
+  author = {{Woosung Koh} and {Sungjun Han} and {Segyu Lee} and {Se-Young Yun} and {Jamin Shin}},
+  year = {2026},
+  eprint = {2602.01576v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.01576v2},
+  note = {First published: 2026-02-02; Recorded arXiv version: v2; Recorded version updated: 2026-05-23T02:41:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

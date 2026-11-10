@@ -1,3 +1,11 @@
+---
+title: "AgentQL (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-396e9c77f2dc44adfe45/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # AgentQL
 
 Web automation tool with a query language and Playwright-based Python and JavaScript SDKs for finding page elements, interacting with sites, and extracting data.

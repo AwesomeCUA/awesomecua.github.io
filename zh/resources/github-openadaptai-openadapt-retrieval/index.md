@@ -1,3 +1,11 @@
+---
+title: "openadapt-retrieval · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-retrieval/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # openadapt-retrieval
 
 已归档的检索工具，按任务文字和截图建立图形界面操作示例索引，并通过 Python API 或命令行查找相似示例。

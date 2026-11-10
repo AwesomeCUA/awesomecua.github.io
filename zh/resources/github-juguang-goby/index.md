@@ -1,3 +1,11 @@
+---
+title: "Goby · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-juguang-goby/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Goby
 
 开源 Chrome 扩展，作为页面内网页智能体执行自然语言描述的浏览和表单填写任务。

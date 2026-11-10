@@ -1,11 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 13 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/13/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 13 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/13/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [Firecrawl](https://awesomecua.com/zh/resources/github-firecrawl-firecrawl/)
-- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/zh/resources/github-firecrawl-agent-browser-plugin-firecrawl/)
 - [Firecrawl MCP Server](https://awesomecua.com/zh/resources/github-firecrawl-firecrawl-mcp-server/)
 - [Firefox DevTools MCP](https://awesomecua.com/zh/resources/github-mozilla-firefox-devtools-mcp/)
 - [firefox-bidi-mcp](https://awesomecua.com/zh/resources/github-enne2-firefox-bidi-mcp/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/13/
 - [grokbot-cdp](https://awesomecua.com/zh/resources/github-daizedong-grokbot-cdp/)
 - [gui_agent (FastMCP Desktop Server)](https://awesomecua.com/zh/resources/github-leandre755-gui-agent/)
 - [Gumloop](https://awesomecua.com/zh/resources/url-6884b7a1aa1bf507dae7/)
+- [guo6x dsh-pilot](https://awesomecua.com/zh/resources/github-guo6x-dsh-pilot/)
+- [haden-browser](https://awesomecua.com/zh/resources/github-haden-min-haden-browser/)

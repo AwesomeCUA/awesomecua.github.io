@@ -1,3 +1,11 @@
+---
+title: "Claude KVM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aras-workspace-claude-kvm/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Claude KVM
 
 Claude KVM is a macOS MCP server and VNC client that enables AI agents to observe and control remote desktop environments over VNC.

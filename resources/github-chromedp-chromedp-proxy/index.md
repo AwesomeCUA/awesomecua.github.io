@@ -1,3 +1,11 @@
+---
+title: "chromedp-proxy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chromedp-chromedp-proxy/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # chromedp-proxy
 
 chromedp-proxy forwards Chrome DevTools Protocol traffic between a client and browser while logging session messages for debugging browser automation.

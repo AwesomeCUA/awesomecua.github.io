@@ -1,3 +1,11 @@
+---
+title: "RealChart2Code: Advancing Chart-to-Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-25804/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation
 
 Bibliographic record for RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiajun Zhang, Yuying Li, Zhixun Li, Xingyu Guo, Jingzhuo Wu, Leqi Zheng, Yiran Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-25804/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-25804/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_25804,
+  title = {{RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation}},
+  author = {{Jiajun Zhang} and {Yuying Li} and {Zhixun Li} and {Xingyu Guo} and {Jingzhuo Wu} and {Leqi Zheng} and {Yiran Yang} and {Jianke Zhang} and {Qingbin Li} and {Shannan Yan} and {Zhetong Li} and {Changguo Jia} and {Junfei Wu} and {Zilei Wang} and {Qiang Liu} and {Liang Wang}},
+  year = {2026},
+  eprint = {2603.25804v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.25804v1},
+  note = {First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T18:11:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

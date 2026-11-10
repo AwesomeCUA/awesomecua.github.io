@@ -1,3 +1,11 @@
+---
+title: "DeltaReplay: Task-Relative Memory Reuse for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11707/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DeltaReplay: Task-Relative Memory Reuse for Mobile GUI Agents
 
 Introduces DeltaReplay, which stores mobile GUI trajectories as transition graphs and decides at each step whether to reuse an action, substitute task-specific parameters, or defer to the base agent. This supports reuse of partially matching experiences without rewriting stored memory.
@@ -26,6 +34,18 @@ Yudong Bai, Yihong Chen, Quanming Yao, Yaqing Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11707/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11707/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11707,
+  title = {{DeltaReplay: Task-Relative Memory Reuse for Mobile GUI Agents}},
+  author = {{Yudong Bai} and {Yihong Chen} and {Quanming Yao} and {Yaqing Wang}},
+  year = {2026},
+  eprint = {2610.11707v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11707v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T11:12:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "The First to Know: How Token Distributions… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-09037/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?
 
 Bibliographic record for The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, Stephen Gould
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-09037/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-09037/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_09037,
+  title = {{The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?}},
+  author = {{Qinyu Zhao} and {Ming Xu} and {Kartik Gupta} and {Akshay Asthana} and {Liang Zheng} and {Stephen Gould}},
+  year = {2024},
+  eprint = {2403.09037v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.09037v2},
+  note = {First published: 2024-03-14; Recorded arXiv version: v2; Recorded version updated: 2024-07-17T05:54:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

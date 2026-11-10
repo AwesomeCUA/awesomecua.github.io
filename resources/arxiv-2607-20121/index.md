@@ -1,3 +1,11 @@
+---
+title: "OpenSkillRisk: Benchmarking Agent Safety When… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-20121/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills
 
 Bibliographic record for OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Qiyuan Liu, Tingfeng Hui, Kun Zhan, Kaike Zhang, Ning Miao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-20121/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-20121/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_20121,
+  title = {{OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills}},
+  author = {{Qiyuan Liu} and {Tingfeng Hui} and {Kun Zhan} and {Kaike Zhang} and {Ning Miao}},
+  year = {2026},
+  eprint = {2607.20121v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.20121v2},
+  note = {First published: 2026-07-22; Recorded arXiv version: v2; Recorded version updated: 2026-07-23T09:17:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

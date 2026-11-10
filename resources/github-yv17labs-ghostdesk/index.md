@@ -1,3 +1,11 @@
+---
+title: "GhostDesk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yv17labs-ghostdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # GhostDesk
 
 GhostDesk is an MCP server and sandboxed virtual desktop runtime that gives LLM agents screen vision, mouse/keyboard control, and shell access.

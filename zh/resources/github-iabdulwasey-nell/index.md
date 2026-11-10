@@ -1,3 +1,11 @@
+---
+title: "Nell (Open Source Instinct) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-iabdulwasey-nell/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Nell (Open Source Instinct)
 
 通过文本消息控制的个人计算机使用与浏览器智能体，用于执行本地桌面和网页工作流。

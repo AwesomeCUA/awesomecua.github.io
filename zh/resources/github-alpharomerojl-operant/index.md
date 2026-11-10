@@ -1,3 +1,11 @@
+---
+title: "Operant · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alpharomerojl-operant/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Operant
 
 本地优先的桌面智能体运行时，将探索性 AI 轨迹编译为由不变条件约束的确定性技能。

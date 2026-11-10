@@ -1,3 +1,11 @@
+---
+title: "AnyTool | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hkuds-anytool/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AnyTool
 
 AnyTool is a universal tool-use layer for AI agents supporting MCP, GUI, web, and shell tools with hierarchical retrieval and self-reflection.

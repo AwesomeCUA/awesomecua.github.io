@@ -1,3 +1,11 @@
+---
+title: "SpeakRL: Synergizing Reasoning, Speaking, and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-13159/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SpeakRL: Synergizing Reasoning, Speaking, and Acting in Language Models with Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

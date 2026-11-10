@@ -1,3 +1,11 @@
+---
+title: "Cambrian-1: A Fully Open, Vision-Centric… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-16860/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
 
 Bibliographic record for Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shengbang Tong, Ellis Brown, Penghao Wu, Sanghyun Woo, Manoj Middepogu, Sai Char
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-16860/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-16860/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_16860,
+  title = {{Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs}},
+  author = {{Shengbang Tong} and {Ellis Brown} and {Penghao Wu} and {Sanghyun Woo} and {Manoj Middepogu} and {Sai Charitha Akula} and {Jihan Yang} and {Shusheng Yang} and {Adithya Iyer} and {Xichen Pan} and {Ziteng Wang} and {Rob Fergus} and {Yann LeCun} and {Saining Xie}},
+  year = {2024},
+  eprint = {2406.16860v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.16860v2},
+  note = {First published: 2024-06-24; Recorded arXiv version: v2; Recorded version updated: 2024-12-04T17:57:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Scribe (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-63ef8c7e455951a20281/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Scribe
 
 Workflow recording and documentation product adjacent to agent data collection.

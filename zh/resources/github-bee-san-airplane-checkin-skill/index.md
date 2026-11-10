@@ -1,3 +1,11 @@
+---
+title: "Airplane Check-In Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bee-san-airplane-checkin-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Airplane Check-In Skill
 
 注重隐私的 Hermes 浏览器技能，用于定时、经验证的多航空公司网页值机。

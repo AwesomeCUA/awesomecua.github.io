@@ -1,3 +1,11 @@
+---
+title: "Does The Way You Plan Matter? An Empirical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29927/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Does The Way You Plan Matter? An Empirical Study of Planning Representations for LLM Web Agents
 
 Bibliographic record for Does The Way You Plan Matter? An Empirical Study of Planning Representations for LLM Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Alejandra Zambrano, Sara Vera Marjanovic, Imene Kerboua, Xing Han Lù, Leila Kos
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-29927/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-29927/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29927,
+  title = {{Does The Way You Plan Matter? An Empirical Study of Planning Representations for LLM Web Agents}},
+  author = {{Alejandra Zambrano} and {Sara Vera Marjanovic} and {Imene Kerboua} and {Xing Han Lù} and {Leila Kosseim}},
+  year = {2026},
+  eprint = {2605.29927v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29927v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T13:39:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

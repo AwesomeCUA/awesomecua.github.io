@@ -1,3 +1,11 @@
+---
+title: "Error suppression in Hamiltonian based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1407-1485/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Error suppression in Hamiltonian based quantum computation using energy penalties
 
 Status: excluded from the active CUA catalog after scope review.

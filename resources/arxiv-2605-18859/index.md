@@ -1,3 +1,11 @@
+---
+title: "TwinRouterBench: Fast Static and Live Dynamic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-18859/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing
 
 Bibliographic record for TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Pei Yang, Wanyi Chen, Tongyun Yang, Pengbin Feng, Jiarong Xing, Wentao Guo, Yuha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-18859/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-18859/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_18859,
+  title = {{TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing}},
+  author = {{Pei Yang} and {Wanyi Chen} and {Tongyun Yang} and {Pengbin Feng} and {Jiarong Xing} and {Wentao Guo} and {Yuhang Yao} and {Yuhang Han} and {Hanchen Li} and {Xu Wang} and {Yuan Gao} and {Zeyu Wang} and {Jie Xiao} and {Anjie Yang} and {Liang Tian} and {Lynn Ai} and {Eric Yang} and {Tianyu Shi}},
+  year = {2026},
+  eprint = {2605.18859v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.18859v5},
+  note = {First published: 2026-05-14; Recorded arXiv version: v5; Recorded version updated: 2026-10-24T09:04:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

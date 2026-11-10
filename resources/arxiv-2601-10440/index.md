@@ -1,3 +1,11 @@
+---
+title: "AgentGuardian: Learning Access Control… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-10440/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentGuardian: Learning Access Control Policies to Govern AI Agent Behavior
 
 Status: excluded from the active CUA catalog after scope review.

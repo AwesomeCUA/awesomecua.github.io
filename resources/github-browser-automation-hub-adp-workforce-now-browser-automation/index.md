@@ -1,3 +1,11 @@
+---
+title: "ADP Workforce Now Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ADP Workforce Now Browser Automation
 
 A browser automation scaffold for ADP Workforce Now. It provides actions for payroll reports, pay-stub exports, employee updates and tax-form downloads.

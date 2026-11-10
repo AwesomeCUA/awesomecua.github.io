@@ -1,3 +1,11 @@
+---
+title: "UiPath ScreenPlay | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b09d10b87e42b7e74de9/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # UiPath ScreenPlay
 
 UiPath Studio activity whose Screen Agent turns natural-language task descriptions into self-driving UI automations on Windows, Linux and macOS, using a planner, a pixel grounder, DOM extraction and selectable LLMs.

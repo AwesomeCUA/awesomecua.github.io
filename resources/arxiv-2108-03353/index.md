@@ -1,3 +1,11 @@
+---
+title: "Screen2Words: Automatic Mobile UI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2108-03353/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning
 
 Studies mobile-screen summarization using visual, textual, and structural UI information, with a dataset of human-written descriptions.
@@ -26,6 +34,18 @@ Bryan Wang, Gang Li, Xin Zhou, Zhourong Chen, Tovi Grossman, Yang Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2108-03353/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2108-03353/citation.csl.json
+
+```bibtex
+@misc{arxiv_2108_03353,
+  title = {{Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning}},
+  author = {{Bryan Wang} and {Gang Li} and {Xin Zhou} and {Zhourong Chen} and {Tovi Grossman} and {Yang Li}},
+  year = {2021},
+  eprint = {2108.03353v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2108.03353v1},
+  note = {First published: 2021-08-07; Recorded arXiv version: v1; Recorded version updated: 2021-08-07T03:01:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

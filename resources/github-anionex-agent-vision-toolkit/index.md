@@ -1,3 +1,11 @@
+---
+title: "agent-vision-toolkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anionex-agent-vision-toolkit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-vision-toolkit
 
 Vision toolkit and skill pack equipping text-only LLMs with multi-image reading, UI reconstruction, and GUI automation.

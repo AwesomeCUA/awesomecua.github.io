@@ -1,3 +1,11 @@
+---
+title: "FurlPay Bot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-furlpay-furlpay-bot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # FurlPay Bot
 
 Persistent AI teammate equipped with its own virtual computer, browser, long-term memory, and voice interface.

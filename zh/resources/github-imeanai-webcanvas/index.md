@@ -1,3 +1,11 @@
+---
+title: "WebCanvas · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-imeanai-webcanvas/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # WebCanvas
 
 WebCanvas 提供面向真实场景网页智能体的框架和评估资源。

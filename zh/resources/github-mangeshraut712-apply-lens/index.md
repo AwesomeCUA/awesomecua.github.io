@@ -1,3 +1,11 @@
+---
+title: "Apply Lens · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mangeshraut712-apply-lens/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Apply Lens
 
 Solari 浏览器智能体，将招聘信息与实时产品网站交叉核对，以验证工程岗位。

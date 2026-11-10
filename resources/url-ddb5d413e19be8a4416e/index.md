@@ -1,3 +1,11 @@
+---
+title: "Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16
 
 Nemotron 3 Nano Omni is a released multimodal model for image, video, audio and text understanding. Its card identifies GUI capability and automation for browser agents among its uses.

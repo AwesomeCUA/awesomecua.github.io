@@ -1,3 +1,11 @@
+---
+title: "ZonUI-3B checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c8c046847f829fea4821/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ZonUI-3B checkpoint
 
 基于 Qwen2.5-VL-3B 的 GUI 定位模型检查点，根据桌面端、移动端和网页截图及文本指令预测点击位置。

@@ -1,3 +1,11 @@
+---
+title: "chrome-remote-interface | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # chrome-remote-interface
 
 A JavaScript interface to the Chrome Debugging Protocol for controlling and inspecting browser sessions through commands and event notifications.

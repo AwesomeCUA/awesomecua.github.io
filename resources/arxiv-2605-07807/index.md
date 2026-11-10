@@ -1,3 +1,11 @@
+---
+title: "Text-to-CAD Evaluation with CADTests | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-07807/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Text-to-CAD Evaluation with CADTests
 
 Bibliographic record for Text-to-CAD Evaluation with CADTests. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dimitrios Mallis, Marco Wang, Ahmet Serdar Karadeniz, Elisa Ricci, Anis Kacem, D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-07807/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-07807/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_07807,
+  title = {{Text-to-CAD Evaluation with CADTests}},
+  author = {{Dimitrios Mallis} and {Marco Wang} and {Ahmet Serdar Karadeniz} and {Elisa Ricci} and {Anis Kacem} and {Djamila Aouada}},
+  year = {2026},
+  eprint = {2605.07807v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.07807v1},
+  note = {First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T14:41:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

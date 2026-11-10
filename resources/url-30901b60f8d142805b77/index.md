@@ -1,3 +1,11 @@
+---
+title: "The OS X Accessibility Model | AwesomeCUA"
+url: https://awesomecua.com/resources/url-30901b60f8d142805b77/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # The OS X Accessibility Model
 
 Apple's OS X guide explains how accessibility clients inspect an app's element hierarchy, read control properties, invoke actions and receive interface-change notifications.

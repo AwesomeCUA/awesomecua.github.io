@@ -1,3 +1,11 @@
+---
+title: "S1-Fast · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-51fd7f79dff766278d83/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # S1-Fast
 
 S1-Fast 根据 Windows UI Automation 快照和视觉词元，通过一次编码器运算预测桌面操作、目标元素和步骤状态。

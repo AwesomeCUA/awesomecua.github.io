@@ -1,3 +1,11 @@
+---
+title: "QWebBridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hu-qi-qwebbridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # QWebBridge
 
 浏览器桥接工具，让 AI 智能体通过无障碍树导航、点击、填写表单和读取 Chrome 页面。

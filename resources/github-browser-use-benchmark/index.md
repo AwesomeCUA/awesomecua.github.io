@@ -1,3 +1,11 @@
+---
+title: "Browser Use Benchmark (BU Bench) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Browser Use Benchmark (BU Bench)
 
 Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-world web navigation and interaction tasks.

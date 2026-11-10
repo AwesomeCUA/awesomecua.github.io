@@ -1,3 +1,11 @@
+---
+title: "OpenCUA-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2803eda78cff23fb63cc/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpenCUA-7B
 
 A Qwen2.5-VL-based computer-use checkpoint that produces desktop actions from screenshots and instructions, using recent screen history for context.

@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lgy0404-memgui-bench/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # MemGUI-Bench
 
 MemGUI-Bench 是涵盖 26 款应用、128 项任务的记忆能力 Android 基准，在 Docker 模拟器中通过类似 MobileWorld 的运行环境执行，由 MemGUI-Eval 这一 LLM 评估器报告 pass@k 和记忆指标。

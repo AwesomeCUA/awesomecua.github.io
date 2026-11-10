@@ -1,3 +1,11 @@
+---
+title: "CoVLA: Comprehensive Vision-Language-Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-10845/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving
 
 Bibliographic record for CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hidehisa Arai, Keita Miwa, Kento Sasaki, Yu Yamaguchi, Kohei Watanabe, Shunsuke 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-10845/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-10845/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_10845,
+  title = {{CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving}},
+  author = {{Hidehisa Arai} and {Keita Miwa} and {Kento Sasaki} and {Yu Yamaguchi} and {Kohei Watanabe} and {Shunsuke Aoki} and {Issei Yamamoto}},
+  year = {2024},
+  eprint = {2408.10845v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.10845v3},
+  note = {First published: 2024-08-19; Recorded arXiv version: v3; Recorded version updated: 2025-10-14T07:54:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

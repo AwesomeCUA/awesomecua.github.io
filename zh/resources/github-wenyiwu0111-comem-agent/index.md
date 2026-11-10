@@ -1,3 +1,11 @@
+---
+title: "CoMEM-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wenyiwu0111-comem-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # CoMEM-Agent
 
 网页 GUI 智能体实现，将以往交互轨迹编码为紧凑嵌入并检索作记忆；仓库提供推理与训练代码。

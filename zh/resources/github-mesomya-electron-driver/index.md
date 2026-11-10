@@ -1,3 +1,11 @@
+---
+title: "electron-driver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mesomya-electron-driver/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # electron-driver
 
 Model Context Protocol 服务器，让 AI 智能体检查、点击、输入、拖动 Electron 桌面应用并对其截图。

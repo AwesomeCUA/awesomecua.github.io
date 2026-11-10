@@ -1,3 +1,11 @@
+---
+title: "agent-ready-ui | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dvnc-labs-agent-ready-ui/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-ready-ui
 
 agent-ready-ui instruments web frontend components with semantic attributes and action hooks so browser agents can operate them reliably.

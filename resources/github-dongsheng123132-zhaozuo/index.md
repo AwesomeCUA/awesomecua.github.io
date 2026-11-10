@@ -1,3 +1,11 @@
+---
+title: "Zhaozuo (照做) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Zhaozuo (照做)
 
 Demonstration-driven Windows desktop automation framework compatible with the ActionParity protocol for third-party GUI software.

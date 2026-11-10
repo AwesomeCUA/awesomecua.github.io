@@ -1,3 +1,11 @@
+---
+title: "ODK Shell · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osmandkitay-odk-shell/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ODK Shell
 
 ODK Shell 是开源的自然语言计算机控制 shell，可将用户请求转换为操作系统和 GUI 命令。

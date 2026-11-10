@@ -1,3 +1,11 @@
+---
+title: "handraise-slack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sy-d-handraise-slack/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # handraise-slack
 
 Slack channel adapter for browser-agent handoffs that sends approval requests with page screenshots and returns a person's decision to handraise.

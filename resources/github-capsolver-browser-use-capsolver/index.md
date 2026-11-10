@@ -1,3 +1,11 @@
+---
+title: "browser-use-capsolver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-capsolver-browser-use-capsolver/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browser-use-capsolver
 
 Official CapSolver integration tools for Browser Use agents to detect and resolve CAPTCHA challenges during web workflows.

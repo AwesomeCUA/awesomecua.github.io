@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_plan_iterative-13B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-eb6a5940793aa81153d0/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_unified_plan_iterative-13B
 
 这是 Lumos 模块化智能体系统中的规划模型权重，经过网页智能体、问答、多模态和数学任务微调。

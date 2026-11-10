@@ -1,3 +1,11 @@
+---
+title: "Bodhi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bigduu-zenith/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Bodhi
 
 Bodhi is a desktop agent workbench built around a Rust runtime. Its optional Nova tools let the agent operate native applications and browsers.

@@ -1,3 +1,11 @@
+---
+title: "Continual Learning for Sequential… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-27634/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis
 
 Status: excluded from the active CUA catalog after scope review.

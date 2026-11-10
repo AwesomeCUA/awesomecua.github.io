@@ -1,3 +1,11 @@
+---
+title: "E2B (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-e2b/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # E2B
 
 Publisher or product brand associated with E2B computer-use or browser automation offerings.

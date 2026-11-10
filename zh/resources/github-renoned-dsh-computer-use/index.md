@@ -1,3 +1,11 @@
+---
+title: "Renoned dsh-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-renoned-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Renoned dsh-computer-use
 
 面向 DeepSeek Harness、感知能力可用性的 macOS 计算机使用插件，结合优先使用无障碍信息的查询方式和 Vision Router 备用方式。

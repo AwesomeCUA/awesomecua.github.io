@@ -1,3 +1,11 @@
+---
+title: "AutoResearch AI: Towards AI-Powered Research… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-23204/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery
 
 Status: excluded from the active CUA catalog after scope review.

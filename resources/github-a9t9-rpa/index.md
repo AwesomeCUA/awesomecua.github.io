@@ -1,3 +1,11 @@
+---
+title: "Ui.Vision RPA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-a9t9-rpa/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ui.Vision RPA
 
 Ui.Vision combines Selenium-compatible browser commands, visual desktop OCR/template automation, and an MCP server for AI agents.

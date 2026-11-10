@@ -1,3 +1,11 @@
+---
+title: "Optics Framework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mozarkai-optics-framework/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Optics Framework
 
 Optics Framework is a self-healing test automation engine for mobile, web, and TV interfaces with Vision/OCR fallback and an MCP server.

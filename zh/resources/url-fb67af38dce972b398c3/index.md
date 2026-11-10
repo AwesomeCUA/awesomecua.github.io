@@ -1,3 +1,11 @@
+---
+title: "ZHEN-04/CaptchaAgent · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fb67af38dce972b398c3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ZHEN-04/CaptchaAgent
 
 ZHEN-04/CaptchaAgent 是一款在交互式 CAPTCHA 轨迹上训练的 9B 计算机操作策略模型。它将截图映射为工具调用，并提供 SFT 和强化学习检查点。

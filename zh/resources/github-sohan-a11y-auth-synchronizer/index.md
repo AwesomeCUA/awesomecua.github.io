@@ -1,3 +1,11 @@
+---
+title: "Browser Auth-State Synchronizer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sohan-a11y-auth-synchronizer/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Auth-State Synchronizer
 
 在 Playwright 与智能体浏览器会话之间同步已通过身份验证的浏览器 Cookie 和存储状态。

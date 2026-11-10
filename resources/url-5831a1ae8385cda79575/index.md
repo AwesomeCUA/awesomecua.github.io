@@ -1,3 +1,11 @@
+---
+title: "Halluminate/WebBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5831a1ae8385cda79575/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Halluminate/WebBench
 
 Halluminate/WebBench releases task data for evaluating browser agents on read, create, update, delete, and file workflows across live websites.

@@ -1,10 +1,17 @@
+---
+title: "界面理解：Computer-Use 研究与资源（第 14 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/screen-understanding/page/14/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 界面理解：Computer-Use 研究与资源（第 14 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/14/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
-- [nanbbb dsh-computer-use-windows](https://awesomecua.com/zh/resources/github-nanbbb-dsh-computer-use-windows/)
 - [native-devtools-mcp](https://awesomecua.com/zh/resources/github-vectora-foundry-native-devtools-mcp/)
 - [Navisual](https://awesomecua.com/zh/resources/github-navisualguide-navisual/)
 - [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/zh/resources/github-vthanhhdev-qirabot-vision-runtime/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/14/
 - [pi-codex-computer-use](https://awesomecua.com/zh/resources/github-danecando-pi-codex-computer-use/)
 - [pi-computer-use](https://awesomecua.com/zh/resources/github-injaneity-pi-computer-use/)
 - [pi-iphone-mirroring](https://awesomecua.com/zh/resources/github-aniruddha-adhikary-pi-iphone-mirroring/)
+- [PICC](https://awesomecua.com/zh/resources/github-andelf-picc/)

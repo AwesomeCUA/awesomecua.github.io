@@ -1,3 +1,11 @@
+---
+title: "AgentCPM-GUI 8B checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8ef3985dce697e5feea9/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # AgentCPM-GUI 8B checkpoint
 
 An eight-billion-parameter MiniCPM-V-based model that consumes smartphone screenshots and predicts compact actions for Chinese and English Android app tasks.

@@ -1,3 +1,11 @@
+---
+title: "Pi Desktop for Windows · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ayouyi-pi-desktop-for-windows/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Pi Desktop for Windows
 
 面向 Pi 编码和计算机使用智能体的原生 Windows 桌面 GUI 客户端及工作空间。

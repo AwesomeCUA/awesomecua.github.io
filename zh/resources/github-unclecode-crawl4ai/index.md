@@ -1,3 +1,11 @@
+---
+title: "Crawl4AI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-unclecode-crawl4ai/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Crawl4AI
 
 Crawl4AI 是开源浏览器自动化和网页抓取工具包，可将动态网页转换为供智能体使用的结构化 Markdown 和 JSON。

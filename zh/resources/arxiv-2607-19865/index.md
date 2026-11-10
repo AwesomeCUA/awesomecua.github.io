@@ -1,3 +1,11 @@
+---
+title: "DocOps: A Verifiable Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-19865/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations
 
 提出数字文档复杂流程的可验证智能体基准 DocOps，并分析状态跟踪、语义检查和结构编辑。
@@ -27,6 +35,18 @@ Jiazhen Jiang, Boxi Cao, Lingyong Yan, Yaojie Lu, Hongyu Lin, Shuaiqiang Wang, D
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-19865/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-19865/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_19865,
+  title = {{DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations}},
+  author = {{Jiazhen Jiang} and {Boxi Cao} and {Lingyong Yan} and {Yaojie Lu} and {Hongyu Lin} and {Shuaiqiang Wang} and {Dawei Yin} and {Xianpei Han} and {Le Sun}},
+  year = {2026},
+  eprint = {2607.19865v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.19865v1},
+  note = {First published: 2026-07-22; Recorded arXiv version: v1; Recorded version updated: 2026-07-22T07:52:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

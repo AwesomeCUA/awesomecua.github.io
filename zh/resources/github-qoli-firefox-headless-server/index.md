@@ -1,3 +1,11 @@
+---
+title: "firefox-headless-server MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qoli-firefox-headless-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # firefox-headless-server MCP
 
 TypeScript Model Context Protocol 服务器，用于启动和控制无头 Firefox 浏览器会话、提取 DOM 和下载文件。

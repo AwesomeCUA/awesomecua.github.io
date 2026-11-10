@@ -1,3 +1,11 @@
+---
+title: "WebClick · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5e2bd1b3398974b79c9c/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # WebClick
 
 网页界面定位基准，包含截图指令和目标框，覆盖智能体浏览、人工浏览和日历场景。

@@ -1,3 +1,11 @@
+---
+title: "Alexa, play with robot: Introducing the First… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-05221/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI
 
 Bibliographic record for Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hangjie Shi, Leslie Ball, Govind Thattai, Desheng Zhang, Lucy Hu, Qiaozi Gao, Su
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-05221/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-05221/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_05221,
+  title = {{Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI}},
+  author = {{Hangjie Shi} and {Leslie Ball} and {Govind Thattai} and {Desheng Zhang} and {Lucy Hu} and {Qiaozi Gao} and {Suhaila Shakiah} and {Xiaofeng Gao} and {Aishwarya Padmakumar} and {Bofei Yang} and {Cadence Chung} and {Dinakar Guthy} and {Gaurav Sukhatme} and {Karthika Arumugam} and {Matthew Wen} and {Osman Ipek} and {Patrick Lange} and {Rohan Khanna} and {Shreyas Pansare} and {Vasu Sharma} and {Chao Zhang} and {Cris Flagg} and {Daniel Pressel} and {Lavina Vaz} and {Luke Dai} and {Prasoon Goyal} and {Sattvik Sahai} and {Shaohua Liu} and {Yao Lu} and {Anna Gottardi} and {Shui Hu} and {Yang Liu} and {Dilek Hakkani-Tur} and {Kate Bland} and {Heather Rocker} and {James Jeun} and {Yadunandana Rao} and {Michael Johnston} and {Akshaya Iyengar} and {Arindam Mandal} and {Prem Natarajan} and {Reza Ghanadan}},
+  year = {2023},
+  eprint = {2308.05221v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.05221v1},
+  note = {First published: 2023-08-09; Recorded arXiv version: v1; Recorded version updated: 2023-08-09T20:56:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "arc-cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shhivv-arc-cua/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # arc-cua
 
 arc-cua is a macOS computer-use package with an app-window driver and a decision-model loop for executing bounded desktop subtasks handed off by an agent.

@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ff7b1873a3eead89607a/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # ScaleCUA 7B
 
 A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent action modes across desktop, mobile and web interfaces.

@@ -1,3 +1,11 @@
+---
+title: "VisEditBench: Can Vision-Language Models Edit… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-10408/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?
 
 Bibliographic record for VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mizanur Rahman, Arshia Azimlu, Shadikur Rahman, Md Tahmid Rahman Laskar, Amran B
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-10408/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-10408/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_10408,
+  title = {{VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?}},
+  author = {{Mizanur Rahman} and {Arshia Azimlu} and {Shadikur Rahman} and {Md Tahmid Rahman Laskar} and {Amran Bhuiyan} and {Shafiq Joty} and {Enamul Hoque Prince}},
+  year = {2026},
+  eprint = {2608.10408v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.10408v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T02:52:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

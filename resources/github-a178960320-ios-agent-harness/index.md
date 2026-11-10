@@ -1,3 +1,11 @@
+---
+title: "iOS Agent Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-a178960320-ios-agent-harness/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # iOS Agent Harness
 
 iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to automate cross-app tasks from natural language.

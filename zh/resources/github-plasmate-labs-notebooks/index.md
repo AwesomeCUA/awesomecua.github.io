@@ -1,3 +1,11 @@
+---
+title: "Plasmate Notebooks · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-notebooks/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Plasmate Notebooks
 
 Plasmate Notebooks 通过 Jupyter 示例介绍面向智能体的浏览器引擎，涵盖页面结构、令牌量比较、批量提取和研究工作流。

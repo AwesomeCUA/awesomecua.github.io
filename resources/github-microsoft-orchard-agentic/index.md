@@ -1,3 +1,11 @@
+---
+title: "Orchard-Agentic | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-orchard-agentic/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # Orchard-Agentic
 
 Orchard-Agentic holds the Orchard environment service, an RL training stack and evaluation code, with recipes for software, browser-navigation and CLI agents and an index of follow-on projects.

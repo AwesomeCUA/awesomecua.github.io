@@ -1,3 +1,11 @@
+---
+title: "Charterion · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xalzeroph-charterion/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Charterion
 
 多智能体工程控制平台，通过浏览器自动化协调 ChatGPT Web 会话。

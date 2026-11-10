@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-8B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-15c5435c1cb4f9e6b737/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-8B-HF
 
 Hugging Face Transformers 格式的 InternVL3.5-8B 多模态模型；其技术报告在 GUI 定位以及 OSWorld、WindowsAgentArena 和 WebArena-Lite-v2 在线智能体任务上评测了该系列模型。

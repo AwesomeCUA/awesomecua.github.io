@@ -1,3 +1,11 @@
+---
+title: "Latere Sandbox Images | AwesomeCUA"
+url: https://awesomecua.com/resources/github-latere-ai-sandbox-images/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Latere Sandbox Images
 
 Container images for coding and computer-use desktop agents compatible with Docker, Podman, and Cella sandboxes.

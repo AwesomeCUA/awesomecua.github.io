@@ -1,3 +1,11 @@
+---
+title: "vision-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rusnetru-vision-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # vision-bridge
 
 Unified Windows vision and action MCP server for AI agents to inspect desktop windows and dispatch mouse/keyboard events.

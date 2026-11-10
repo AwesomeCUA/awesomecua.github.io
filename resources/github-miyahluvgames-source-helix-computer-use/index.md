@@ -1,3 +1,11 @@
+---
+title: "Helix Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-miyahluvgames-source-helix-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Helix Control
 
 Windows computer-use MCP stack combining browser control, native desktop UI Automation, and dynamic screen grounding.

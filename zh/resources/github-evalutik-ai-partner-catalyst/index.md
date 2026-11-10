@@ -1,3 +1,11 @@
+---
+title: "Aeyes (Voice Browser Assistant) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-evalutik-ai-partner-catalyst/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Aeyes (Voice Browser Assistant)
 
 Aeyes 是一款语音控制的 Chrome 扩展助手，旨在帮助盲人和视障用户浏览网站。

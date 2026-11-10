@@ -1,3 +1,11 @@
+---
+title: "A True Random Number Generator for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-08808/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A True Random Number Generator for Probabilistic Computing using Stochastic Magnetic Actuated Random Transducer Devices
 
 Status: excluded from the active CUA catalog after scope review.

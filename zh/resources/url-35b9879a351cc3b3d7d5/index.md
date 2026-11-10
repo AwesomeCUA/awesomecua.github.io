@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-R1 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-35b9879a351cc3b3d7d5/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # InfiGUI-R1 3B
 
 采用 Actor2Reasoner 流程训练的 Qwen2.5-VL 检查点，将界面定位与规划、恢复推理相结合。

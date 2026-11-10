@@ -1,3 +1,11 @@
+---
+title: "GenPark Browser Bot-Defense Detector Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpha-park-genpark-agentic-browser-bot-defense-detector-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GenPark Browser Bot-Defense Detector Skill
 
 Agent skill for detecting Cloudflare challenges, CAPTCHAs, and anti-bot walls during Playwright and Browser-Use runs.

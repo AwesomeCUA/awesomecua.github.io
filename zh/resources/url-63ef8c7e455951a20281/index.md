@@ -1,3 +1,11 @@
+---
+title: "Scribe · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-63ef8c7e455951a20281/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Scribe
 
 Scribe 是一款工作流程录制和文档产品，与智能体数据收集相关。

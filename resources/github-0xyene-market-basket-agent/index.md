@@ -1,3 +1,11 @@
+---
+title: "Market Basket Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-0xyene-market-basket-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Market Basket Agent
 
 Autonomous web shopping agent that compares grocery basket prices across live delivery portals.

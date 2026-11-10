@@ -1,3 +1,11 @@
+---
+title: "LockInTime headless | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lockintime-headless/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LockInTime headless
 
 Persistent, safety-enforced browser control runtime for AI agents with a semantic CLI.

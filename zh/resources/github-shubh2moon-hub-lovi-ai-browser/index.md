@@ -1,3 +1,11 @@
+---
+title: "LOVI AI Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shubh2moon-hub-lovi-ai-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # LOVI AI Browser
 
 由本地 Qwen 2.5 模型驱动、以隐私为先的自主 AI 伴侣浏览器。

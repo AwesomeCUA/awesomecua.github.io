@@ -1,3 +1,11 @@
+---
+title: "Codex for WeChat | AwesomeCUA"
+url: https://awesomecua.com/resources/github-weihaoyyy-codex-for-wechat/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex for WeChat
 
 Remote bridge allowing users to dispatch tasks to and review outputs from a local OpenAI Codex agent via WeChat.

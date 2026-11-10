@@ -1,3 +1,11 @@
+---
+title: "WebGen-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mnluzimu-webgen-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # WebGen-Agent
 
 WebGen-Agent 根据指令生成网站代码，再利用截图、视觉反馈和 GUI 智能体执行的测试进行改进。仓库提供推理和训练代码。

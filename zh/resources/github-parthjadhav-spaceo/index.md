@@ -1,3 +1,11 @@
+---
+title: "SpaceO · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-parthjadhav-spaceo/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # SpaceO
 
 为 AI 计算机使用智能体提供专用的虚拟 macOS 显示器，使其能操作真实应用，而无需接管用户的屏幕或光标。

@@ -1,3 +1,11 @@
+---
+title: "KWWKComputerUseCore | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eyhn-kwwk-computer-use-core/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # KWWKComputerUseCore
 
 A Swift computer-use runtime that captures macOS app state and screenshots and sends mouse and keyboard actions. It offers structured and agent-facing outputs.

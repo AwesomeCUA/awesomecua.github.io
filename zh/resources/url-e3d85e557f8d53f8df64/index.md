@@ -1,3 +1,11 @@
+---
+title: "ScreenVLM · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e3d85e557f8d53f8df64/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ScreenVLM
 
 该模型将网页截图转换为结构化标记，其中包含界面元素的位置、类别标签和可见文本。

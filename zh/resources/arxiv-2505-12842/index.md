@@ -1,3 +1,11 @@
+---
+title: "GEM: Gaussian Embedding Modeling for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-12842/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents
 
 GEM 通过高斯混合模型建模 GUI 智能体输入嵌入空间中的距离，识别超出其能力范围的指令。实验覆盖移动端、计算机和浏览器数据，并研究检测到陌生输入时选择性转交云端模型。
@@ -27,6 +35,18 @@ Zheng Wu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-12842/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-12842/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_12842,
+  title = {{GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents}},
+  author = {{Zheng Wu} and {Pengzhou Cheng} and {Zongru Wu} and {Lingzhong Dong} and {Zhuosheng Zhang}},
+  year = {2025},
+  eprint = {2505.12842v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.12842v4},
+  note = {First published: 2025-05-19; Recorded arXiv version: v4; Recorded version updated: 2025-11-22T15:07:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Prompt Injection Attacks on Agentic Coding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-17548/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems
 
 Bibliographic record for Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Narek Maloyan, Dmitry Namiot
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-17548/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-17548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_17548,
+  title = {{Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems}},
+  author = {{Narek Maloyan} and {Dmitry Namiot}},
+  year = {2026},
+  eprint = {2601.17548v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.17548v1},
+  note = {First published: 2026-01-24; Recorded arXiv version: v1; Recorded version updated: 2026-01-24T18:39:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

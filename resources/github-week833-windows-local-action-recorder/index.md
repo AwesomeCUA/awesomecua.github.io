@@ -1,3 +1,11 @@
+---
+title: "Windows Local Action Recorder | AwesomeCUA"
+url: https://awesomecua.com/resources/github-week833-windows-local-action-recorder/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Windows Local Action Recorder
 
 Windows desktop action recorder and controlled replay tool that packages human UI demonstrations for Codex agents.

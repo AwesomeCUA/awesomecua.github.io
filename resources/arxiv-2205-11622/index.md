@@ -1,3 +1,11 @@
+---
+title: "SparseLNR: Accelerating Sparse Tensor… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-11622/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring
 
 Status: excluded from the active CUA catalog after scope review.

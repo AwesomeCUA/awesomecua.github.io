@@ -1,3 +1,11 @@
+---
+title: "Harness Evolution Hits a Ceiling: When Weight… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11655/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Harness Evolution Hits a Ceiling: When Weight Training Should Begin
 
 Studies when to improve an LLM agent's runtime harness or train its weights by classifying failed trajectories; WebArena-Lite supplies a web-task transfer test.
@@ -26,6 +34,18 @@ Yuan Tian, Bing Hu, Hao Wang, Binghang Lu, Fang Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11655/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11655/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11655,
+  title = {{Harness Evolution Hits a Ceiling: When Weight Training Should Begin}},
+  author = {{Yuan Tian} and {Bing Hu} and {Hao Wang} and {Binghang Lu} and {Fang Wu}},
+  year = {2026},
+  eprint = {2610.11655v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11655v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T10:33:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

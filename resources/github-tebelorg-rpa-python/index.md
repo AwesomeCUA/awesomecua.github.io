@@ -1,3 +1,11 @@
+---
+title: "RPA for Python | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tebelorg-rpa-python/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # RPA for Python
 
 RPA for Python provides a Python API over TagUI for automating websites, desktop GUI applications via visual OCR, and command-line workflows.

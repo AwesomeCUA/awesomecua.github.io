@@ -1,3 +1,11 @@
+---
+title: "gohook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-robotn-gohook/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # gohook
 
 A Go library for listening to keyboard and mouse events, with callback registration and an event stream that can support capture of desktop interactions.

@@ -1,3 +1,11 @@
+---
+title: "VibeSurf · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vibesurf-ai-vibesurf/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # VibeSurf
 
 带 Chrome 扩展界面的浏览器助手，可跨标签页并行运行 Browser Use 智能体，通过 Langflow 拖放式浏览器工作流执行登录、数据收集和研究任务，使用本地或托管 LLM。

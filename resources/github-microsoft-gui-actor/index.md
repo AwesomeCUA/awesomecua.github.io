@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-gui-actor/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Actor
 
 GUI grounding model with attention-based action localization.

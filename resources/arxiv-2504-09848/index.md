@@ -1,3 +1,11 @@
+---
+title: "A Survey of Large Language Model-Powered… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-09848/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science
 
 Bibliographic record for A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jie Feng, Jinwei Zeng, Qingyue Long, Hongyi Chen, Jie Zhao, Yanxin Xi, Zhilun Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-09848/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-09848/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_09848,
+  title = {{A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science}},
+  author = {{Jie Feng} and {Jinwei Zeng} and {Qingyue Long} and {Hongyi Chen} and {Jie Zhao} and {Yanxin Xi} and {Zhilun Zhou} and {Yuan Yuan} and {Shengyuan Wang} and {Qingbin Zeng} and {Songwei Li} and {Yunke Zhang} and {Yuming Lin} and {Tong Li} and {Jingtao Ding} and {Chen Gao} and {Fengli Xu} and {Yong Li}},
+  year = {2025},
+  eprint = {2504.09848v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.09848v1},
+  note = {First published: 2025-04-14; Recorded arXiv version: v1; Recorded version updated: 2025-04-14T03:38:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

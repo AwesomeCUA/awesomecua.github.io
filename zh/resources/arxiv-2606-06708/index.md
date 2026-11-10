@@ -1,3 +1,11 @@
+---
+title: "Signal-Driven Observation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-06708/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Signal-Driven Observation for Long-Horizon Web Agents
 
 Signal-Driven Observation 先通过独立调用选取相关 DOM 元素和选择器，再由检测器仅在发生有意义的浏览器事件或失败后请求新观察。论文将观察时机与压缩视为长程网页智能体的架构研究问题。
@@ -27,6 +35,18 @@ Shubham Gaur, Ian Lane
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-06708/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-06708/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_06708,
+  title = {{Signal-Driven Observation for Long-Horizon Web Agents}},
+  author = {{Shubham Gaur} and {Ian Lane}},
+  year = {2026},
+  eprint = {2606.06708v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.06708v2},
+  note = {First published: 2026-06-04; Recorded arXiv version: v2; Recorded version updated: 2026-08-04T18:57:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

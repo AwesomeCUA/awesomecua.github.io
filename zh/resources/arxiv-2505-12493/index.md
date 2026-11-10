@@ -1,3 +1,11 @@
+---
+title: "GUI-Shift: Enhancing VLM-Based GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-12493/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning
 
 GUI-Shift 利用无自然语言指令的轨迹训练逆动力学任务，预测连接 2 个 GUI 状态的初始动作。它结合基于规则的强化学习与数据筛选，并评估向 Android 自动化和截图定位任务的迁移。
@@ -27,6 +35,18 @@ Longxi Gao, Li Zhang, Pengzhi Gao, Wei Liu, Jian Luan, Mengwei Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-12493/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-12493/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_12493,
+  title = {{GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning}},
+  author = {{Longxi Gao} and {Li Zhang} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Mengwei Xu}},
+  year = {2025},
+  eprint = {2505.12493v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.12493v3},
+  note = {First published: 2025-05-18; Recorded arXiv version: v3; Recorded version updated: 2025-10-10T09:28:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

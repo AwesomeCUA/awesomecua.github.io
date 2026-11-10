@@ -1,3 +1,11 @@
+---
+title: "T-MAN: Enabling End-to-End Low-Bit LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-11248/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # T-MAN: Enabling End-to-End Low-Bit LLM Inference on NPUs via Unified Table Lookup
 
 Status: excluded from the active CUA catalog after scope review.

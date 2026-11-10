@@ -1,3 +1,11 @@
+---
+title: "LOCR (Lightweight OCR) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dmzlingyin-locr/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # LOCR (Lightweight OCR)
 
 LOCR is a lightweight cross-platform clipboard and screen OCR utility based on RapidOCR.

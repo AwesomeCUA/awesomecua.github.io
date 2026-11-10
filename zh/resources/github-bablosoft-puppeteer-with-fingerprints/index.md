@@ -1,3 +1,11 @@
+---
+title: "puppeteer-with-fingerprints · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bablosoft-puppeteer-with-fingerprints/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # puppeteer-with-fingerprints
 
 puppeteer-with-fingerprints 是一个 Windows 插件，可用从 FingerprintSwitcher 服务获取的指纹启动 Puppeteer 浏览器。

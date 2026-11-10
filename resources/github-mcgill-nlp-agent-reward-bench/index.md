@@ -1,3 +1,11 @@
+---
+title: "AgentRewardBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcgill-nlp-agent-reward-bench/
+updated: 2026-11-02
+type: benchmark
+lang: en
+---
+
 # AgentRewardBench
 
 A benchmark and evaluation toolkit for comparing automatic web-agent judges against expert judgments of task success, side effects and repetition.

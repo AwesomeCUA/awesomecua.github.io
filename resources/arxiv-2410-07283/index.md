@@ -1,3 +1,11 @@
+---
+title: "Prompt Infection: LLM-to-LLM Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-07283/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

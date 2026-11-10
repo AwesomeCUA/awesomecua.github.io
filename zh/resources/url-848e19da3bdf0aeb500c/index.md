@@ -1,3 +1,11 @@
+---
+title: "Hronaut · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-848e19da3bdf0aeb500c/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Hronaut
 
 面向智能体的本地浏览器工作空间，通过 MCP 接入，支持隔离任务会话、可见的浏览器操作以及重新连接已有标签页。

@@ -1,3 +1,11 @@
+---
+title: "chrome-agent (github.com/sderosiaux/chrom… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sderosiaux-chrome-agent/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # chrome-agent
 
 chrome-agent 是一款供浏览器智能体检查页面、通过 Chrome 执行操作并核查结果状态的 Rust 命令行工具，还可记录和重放本地命令序列。

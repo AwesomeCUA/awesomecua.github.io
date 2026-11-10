@@ -1,3 +1,11 @@
+---
+title: "Falcon-UI: Understanding GUI Before… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-09362/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Falcon-UI: Understanding GUI Before Following User Instructions
 
 先通过无指令的网页交互预训练 GUI 上下文理解能力，再针对有指令的 GUI 任务微调 Falcon-UI。
@@ -27,6 +35,18 @@ Huawen Shen, Chang Liu, Gengluo Li, Xinlong Wang, Yu Zhou, Can Ma, Xiangyang Ji
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-09362/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-09362/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_09362,
+  title = {{Falcon-UI: Understanding GUI Before Following User Instructions}},
+  author = {{Huawen Shen} and {Chang Liu} and {Gengluo Li} and {Xinlong Wang} and {Yu Zhou} and {Can Ma} and {Xiangyang Ji}},
+  year = {2024},
+  eprint = {2412.09362v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.09362v1},
+  note = {First published: 2024-12-12; Recorded arXiv version: v1; Recorded version updated: 2024-12-12T15:29:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

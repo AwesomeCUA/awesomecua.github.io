@@ -1,3 +1,11 @@
+---
+title: "VisionDroid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-testtesta6-visiondroid/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # VisionDroid
 
 VisionDroid uses multimodal LLMs to explore Android app screens and detect non-crash functional GUI logic bugs across page transitions.

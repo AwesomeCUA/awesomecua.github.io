@@ -1,3 +1,11 @@
+---
+title: "Self-reflection — computer-use research, page 3 | AwesomeCUA"
+url: https://awesomecua.com/topics/self-reflection/page/3/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Self-reflection — computer-use research, page 3
 
 HTML page: https://awesomecua.com/topics/self-reflection/page/3/

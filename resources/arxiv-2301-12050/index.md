@@ -1,3 +1,11 @@
+---
+title: "Do Embodied Agents Dream of Pixelated Sheep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-12050/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling
 
 Bibliographic record for Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajis
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-12050/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-12050/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_12050,
+  title = {{Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling}},
+  author = {{Kolby Nottingham} and {Prithviraj Ammanabrolu} and {Alane Suhr} and {Yejin Choi} and {Hannaneh Hajishirzi} and {Sameer Singh} and {Roy Fox}},
+  year = {2023},
+  eprint = {2301.12050v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.12050v2},
+  note = {First published: 2023-01-28; Recorded arXiv version: v2; Recorded version updated: 2023-04-27T15:14:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

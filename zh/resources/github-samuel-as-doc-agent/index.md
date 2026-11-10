@@ -1,3 +1,11 @@
+---
+title: "doc-agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-samuel-as-doc-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # doc-agent
 
 一项 Claude Code 技能，通过在实时浏览器中执行网页流程，生成带标注截图的流程文档。

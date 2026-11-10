@@ -1,3 +1,11 @@
+---
+title: "Recipes for Safety in Open-domain Chatbots | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2010-07079/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Recipes for Safety in Open-domain Chatbots
 
 Bibliographic record for Recipes for Safety in Open-domain Chatbots. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jing Xu, Da Ju, Margaret Li, Y-Lan Boureau, Jason Weston, Emily Dinan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2010-07079/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2010-07079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2010_07079,
+  title = {{Recipes for Safety in Open-domain Chatbots}},
+  author = {{Jing Xu} and {Da Ju} and {Margaret Li} and {Y-Lan Boureau} and {Jason Weston} and {Emily Dinan}},
+  year = {2020},
+  eprint = {2010.07079v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2010.07079v3},
+  note = {First published: 2020-10-14; Recorded arXiv version: v3; Recorded version updated: 2021-08-04T21:33:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

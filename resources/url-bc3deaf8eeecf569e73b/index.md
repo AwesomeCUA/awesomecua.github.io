@@ -1,3 +1,11 @@
+---
+title: "Code2World-8B checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bc3deaf8eeecf569e73b/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Code2World-8B checkpoint
 
 Released GUI world-model checkpoint that turns a screenshot and proposed action into HTML for rendering a predicted next screen.

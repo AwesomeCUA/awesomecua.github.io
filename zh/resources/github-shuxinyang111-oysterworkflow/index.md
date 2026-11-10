@@ -1,3 +1,11 @@
+---
+title: "OysterWorkflow · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shuxinyang111-oysterworkflow/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OysterWorkflow
 
 OysterWorkflow 采集人类真实的计算机工作过程，并提取供 AI 智能体使用的结构化、可复用工作流图。

@@ -1,3 +1,11 @@
+---
+title: "Do GUI Grounders Truly Understand UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-16f4a8903de0f90d3638/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Do GUI Grounders Truly Understand UI Elements?
 
 桌面 GUI 定位基准检验模型面对同一元素的不同描述能否保持定位一致；诊断智能体利用模型反馈生成更难的指令。
@@ -27,6 +35,20 @@ Surgan Jandial, Yinheng Li, Justin Wagle, Kazuhito Koishida
 
 - BibTeX：https://awesomecua.com/resources/url-16f4a8903de0f90d3638/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-16f4a8903de0f90d3638/citation.csl.json
+
+```bibtex
+@inproceedings{cua_0377ea7a2ede1dcc089c3af2,
+  title = {{Do GUI Grounders Truly Understand UI Elements?}},
+  author = {{Surgan Jandial} and {Yinheng Li} and {Justin Wagle} and {Kazuhito Koishida}},
+  year = {2026},
+  booktitle = {Findings of the Association for Computational Linguistics: EACL 2026},
+  publisher = {Association for Computational Linguistics},
+  pages = {2772-2785},
+  doi = {10.18653/v1/2026.findings-eacl.144},
+  url = {https://aclanthology.org/2026.findings-eacl.144},
+  note = {Publication date: 2026.}
+}
+```
 
 ## 发表记录
 

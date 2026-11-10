@@ -1,3 +1,11 @@
+---
+title: "Memory in the Age of AI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-13564/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Memory in the Age of AI Agents
 
 Bibliographic record for Memory in the Age of AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuyang Hu, Shichun Liu, Yanwei Yue, Guibin Zhang, Boyang Liu, Fangyi Zhu, Jiahan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-13564/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-13564/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_13564,
+  title = {{Memory in the Age of AI Agents}},
+  author = {{Yuyang Hu} and {Shichun Liu} and {Yanwei Yue} and {Guibin Zhang} and {Boyang Liu} and {Fangyi Zhu} and {Jiahang Lin} and {Honglin Guo} and {Shihan Dou} and {Zhiheng Xi} and {Senjie Jin} and {Jiejun Tan} and {Yanbin Yin} and {Jiongnan Liu} and {Zeyu Zhang} and {Zhongxiang Sun} and {Yutao Zhu} and {Hao Sun} and {Boci Peng} and {Zhenrong Cheng} and {Xuanbo Fan} and {Jiaxin Guo} and {Xinlei Yu} and {Zhenhong Zhou} and {Zewen Hu} and {Jiahao Huo} and {Junhao Wang} and {Yuwei Niu} and {Yu Wang} and {Zhenfei Yin} and {Xiaobin Hu} and {Yue Liao} and {Qiankun Li} and {Kun Wang} and {Wangchunshu Zhou} and {Yixin Liu} and {Dawei Cheng} and {Qi Zhang} and {Tao Gui} and {Shirui Pan} and {Yan Zhang} and {Philip Torr} and {Zhicheng Dou} and {Ji-Rong Wen} and {Xuanjing Huang} and {Yu-Gang Jiang} and {Shuicheng Yan}},
+  year = {2025},
+  eprint = {2512.13564v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.13564v2},
+  note = {First published: 2025-12-15; Recorded arXiv version: v2; Recorded version updated: 2026-01-13T09:33:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

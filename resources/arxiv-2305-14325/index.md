@@ -1,3 +1,11 @@
+---
+title: "Improving Factuality and Reasoning in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-14325/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Improving Factuality and Reasoning in Language Models through Multiagent Debate
 
 Status: excluded from the active CUA catalog after scope review.

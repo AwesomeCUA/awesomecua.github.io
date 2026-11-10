@@ -1,3 +1,11 @@
+---
+title: "Claude Quickstarts (Computer Use Demo) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anthropics-claude-quickstarts/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Claude Quickstarts (Computer Use Demo)
 
 Anthropic 参考实现，包括使用 Xvfb、VNC 和 bash/浏览器工具的容器化 Claude Computer Use 桌面智能体演示。

@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager-opt-3 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2cd89755e4e2511de633/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # OpenWebVoyager-opt-3
 
 OpenWebVoyager 第三个优化阶段的检查点。OpenWebVoyager 是基于 Idefics2 的多模态网页智能体，先经模仿学习训练，再用 GPT-4o 判定成功的自主探索轨迹继续优化。

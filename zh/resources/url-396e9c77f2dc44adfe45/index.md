@@ -1,3 +1,11 @@
+---
+title: "AgentQL · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-396e9c77f2dc44adfe45/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # AgentQL
 
 网页自动化工具，提供查询语言和基于 Playwright 的 Python、JavaScript SDK，用于定位页面元素、操作网站和提取数据。

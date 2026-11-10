@@ -1,3 +1,11 @@
+---
+title: "WenyiWU0111/CoMEM-agent-memory-trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # WenyiWU0111/CoMEM-agent-memory-trajectories
 
 A dataset for GUI-agent memory research containing expanded web links, synthesized tasks, and executed trajectories with successful and failed outcomes.

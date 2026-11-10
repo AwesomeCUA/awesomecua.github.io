@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-30B-A3B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7fafb31cac59ad3a7e03/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-30B-A3B-Instruct
 
 一个 Qwen3-VL 视觉语言模型检查点，其模型卡描述了在电脑和移动设备图形界面中识别元素、使用工具并完成任务的能力。

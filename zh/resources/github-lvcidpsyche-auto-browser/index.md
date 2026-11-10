@@ -1,3 +1,11 @@
+---
+title: "Auto Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lvcidpsyche-auto-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Auto Browser
 
 开源、原生支持 MCP 的浏览器自动化服务器，支持人工接管和持久化会话配置。

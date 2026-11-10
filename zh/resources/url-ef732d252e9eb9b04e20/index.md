@@ -1,3 +1,11 @@
+---
+title: "Hcompany/Holo4-35B-A3B-NVFP4 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ef732d252e9eb9b04e20/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Hcompany/Holo4-35B-A3B-NVFP4
 
 Holo4-35B-A3B-NVFP4 是面向计算机使用的 NVFP4 视觉语言模型；它接收截图和工具结果，并通过智能体运行框架请求界面操作。

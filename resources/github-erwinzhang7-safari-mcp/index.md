@@ -1,3 +1,11 @@
+---
+title: "ErwinZhang Safari MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-erwinzhang7-safari-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ErwinZhang Safari MCP
 
 Native macOS Model Context Protocol server for driving Safari navigation, clicking, typing, JavaScript evaluation, and screenshots.

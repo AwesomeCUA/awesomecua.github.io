@@ -1,3 +1,11 @@
+---
+title: "Process Reinforcement through Implicit Rewards | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-01456/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Process Reinforcement through Implicit Rewards
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "MobileRAG | AwesomeCUA"
+url: https://awesomecua.com/resources/github-liuxiaojieoutofworld-mobilerag-arxiv/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MobileRAG
 
 MobileRAG operates Android devices via ADB by combining local app retrieval, historical trajectory memory, and external web search.

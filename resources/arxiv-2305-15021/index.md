@@ -1,3 +1,11 @@
+---
+title: "EmbodiedGPT: Vision-Language Pre-Training via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-15021/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought
 
 Bibliographic record for EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yao Mu, Qinglong Zhang, Mengkang Hu, Wenhai Wang, Mingyu Ding, Jun Jin, Bin Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-15021/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-15021/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_15021,
+  title = {{EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought}},
+  author = {{Yao Mu} and {Qinglong Zhang} and {Mengkang Hu} and {Wenhai Wang} and {Mingyu Ding} and {Jun Jin} and {Bin Wang} and {Jifeng Dai} and {Yu Qiao} and {Ping Luo}},
+  year = {2023},
+  eprint = {2305.15021v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.15021v2},
+  note = {First published: 2023-05-24; Recorded arXiv version: v2; Recorded version updated: 2023-09-13T23:46:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

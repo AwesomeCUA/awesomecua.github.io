@@ -1,3 +1,11 @@
+---
+title: "Global Compression Commander: Plug-and-Play… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-05179/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Global Compression Commander: Plug-and-Play Inference Acceleration for High-Resolution Large Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

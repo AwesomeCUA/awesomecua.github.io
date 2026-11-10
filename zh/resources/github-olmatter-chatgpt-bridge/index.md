@@ -1,3 +1,11 @@
+---
+title: "ChatGPT WebUI Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-olmatter-chatgpt-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ChatGPT WebUI Bridge
 
 这个本地 HTTP 桥接工具通过用户脚本，让智能体向已登录的 ChatGPT 浏览器标签页发送消息、读取回复和页面状态，并监控空闲标签页。

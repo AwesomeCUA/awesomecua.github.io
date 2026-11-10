@@ -1,3 +1,11 @@
+---
+title: "WinReach MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ghoui-winreach-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # WinReach MCP
 
 Model Context Protocol 服务器，让 AI 智能体通过 PowerShell、截图和 UI 输入远程控制专用 Windows 计算机。

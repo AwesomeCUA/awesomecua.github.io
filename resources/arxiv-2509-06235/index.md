@@ -1,3 +1,11 @@
+---
+title: "PillagerBench: Benchmarking LLM-Based Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-06235/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments
 
 Bibliographic record for PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Olivier Schipper, Yudi Zhang, Yali Du, Mykola Pechenizkiy, Meng Fang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-06235/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-06235/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_06235,
+  title = {{PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments}},
+  author = {{Olivier Schipper} and {Yudi Zhang} and {Yali Du} and {Mykola Pechenizkiy} and {Meng Fang}},
+  year = {2025},
+  eprint = {2509.06235v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.06235v1},
+  note = {First published: 2025-09-07; Recorded arXiv version: v1; Recorded version updated: 2025-09-07T22:51:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

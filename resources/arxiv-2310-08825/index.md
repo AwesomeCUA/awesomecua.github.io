@@ -1,3 +1,11 @@
+---
+title: "From CLIP to DINO: Visual Encoders Shout in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-08825/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models
 
 Bibliographic record for From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dongsheng Jiang, Yuchen Liu, Songlin Liu, Jin'e Zhao, Hao Zhang, Zhen Gao, Xiaop
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-08825/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-08825/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_08825,
+  title = {{From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models}},
+  author = {{Dongsheng Jiang} and {Yuchen Liu} and {Songlin Liu} and {Jin'e Zhao} and {Hao Zhang} and {Zhen Gao} and {Xiaopeng Zhang} and {Jin Li} and {Hongkai Xiong}},
+  year = {2023},
+  eprint = {2310.08825v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.08825v3},
+  note = {First published: 2023-10-13; Recorded arXiv version: v3; Recorded version updated: 2024-03-08T02:49:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

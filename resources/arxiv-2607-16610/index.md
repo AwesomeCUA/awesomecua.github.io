@@ -1,3 +1,11 @@
+---
+title: "Just A Rather Very Intelligent Spoken Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-16610/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Just A Rather Very Intelligent Spoken Agent
 
 Introduces JarvisBench, a benchmark for spoken mediation during long-horizon agent workflows, measuring task collaboration and how users follow ongoing execution.
@@ -26,6 +34,18 @@ Chen Chen, Zhehuai Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-16610/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-16610/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_16610,
+  title = {{Just A Rather Very Intelligent Spoken Agent}},
+  author = {{Chen Chen} and {Zhehuai Chen}},
+  year = {2026},
+  eprint = {2607.16610v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.16610v1},
+  note = {First published: 2026-07-18; Recorded arXiv version: v1; Recorded version updated: 2026-07-18T03:10:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

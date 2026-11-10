@@ -1,3 +1,11 @@
+---
+title: "Zhaozuo (照做) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dongsheng123132-zhaozuo/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Zhaozuo (照做)
 
 由演示驱动的 Windows 桌面自动化框架，兼容面向第三方 GUI 软件的 ActionParity 协议。

@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-1B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b75abe232c389788d2c4/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-1B
 
 InternVL3_5-1B 是 InternVL3.5 系列发布的多模态模型权重，该系列文档列出的能力包括图形界面交互。

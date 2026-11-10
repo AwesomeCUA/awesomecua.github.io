@@ -1,3 +1,11 @@
+---
+title: "Manipulating Web Agents (Toast Attack) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sej2020-manipulating-web-agents/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Manipulating Web Agents (Toast Attack)
 
 Implements DOM-injected pop-up and toast indirect prompt injection attacks against multimodal web agents in VisualWebArena and OSWorld.

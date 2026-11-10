@@ -1,3 +1,11 @@
+---
+title: "ProBrowser MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-momadhuynh04-probrowser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ProBrowser MCP Server
 
 面向 AI 智能体、具备反检测能力的真实浏览器自动化 Model Context Protocol 服务器。

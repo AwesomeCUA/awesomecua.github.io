@@ -1,3 +1,11 @@
+---
+title: "Agent Friday · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mahsaanullah-agent-friday/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Agent Friday
 
 由 LangGraph 驱动的自主操作系统级桌面助手，用于多步骤系统和 GUI 工作流。

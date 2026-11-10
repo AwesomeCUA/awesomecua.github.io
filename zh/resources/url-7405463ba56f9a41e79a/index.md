@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 0.8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7405463ba56f9a41e79a/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Seg2Click Qwen3.5 0.8B
 
 紧凑的 Seg2Click 检查点，包含合并后的 Qwen3.5 主干模型和动作掩码解码器。

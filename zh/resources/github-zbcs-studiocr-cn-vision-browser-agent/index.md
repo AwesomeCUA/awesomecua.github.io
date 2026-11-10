@@ -1,3 +1,11 @@
+---
+title: "Vision Browser Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zbcs-studiocr-cn-vision-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Vision Browser Agent
 
 纯视觉浏览器自动化框架，内置本地 Moondream3 推理，完全不依赖 DOM，并支持类人鼠标轨迹。

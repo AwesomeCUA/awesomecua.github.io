@@ -1,3 +1,11 @@
+---
+title: "Rocuronium · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kageroumado-rocuronium/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Rocuronium
 
 将 macOS 计算机使用智能体隔离在单独的登录会话中，同时在主机屏幕上显示实时可见的智能体叠加层。

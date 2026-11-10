@@ -1,3 +1,11 @@
+---
+title: "playwright-with-fingerprints | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bablosoft-playwright-with-fingerprints/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # playwright-with-fingerprints
 
 playwright-with-fingerprints is a Windows plugin that applies fetched browser fingerprints to Playwright sessions used for web automation.

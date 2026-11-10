@@ -1,3 +1,11 @@
+---
+title: "Avenir-Web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Avenir-Web
 
 Avenir-Web trains human-experience-imitating multimodal web agents with mixture-of-grounding experts and experience-tracking memory.

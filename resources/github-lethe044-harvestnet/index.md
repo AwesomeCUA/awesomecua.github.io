@@ -1,3 +1,11 @@
+---
+title: "HarvestNet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lethe044-harvestnet/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # HarvestNet
 
 Self-healing web extraction and browser automation framework for .NET.

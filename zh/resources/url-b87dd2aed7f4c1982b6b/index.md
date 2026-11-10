@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas-Pro-4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b87dd2aed7f4c1982b6b/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OS-Atlas-Pro-4B
 
 一个基于 OS-Atlas-Base-4B 微调的图形界面操作模型，利用任务指令、截图和操作定义生成推理内容及下一步操作。

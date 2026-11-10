@@ -1,3 +1,11 @@
+---
+title: "Browser Use macOS Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-macos-harness/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Browser Use macOS Harness
 
 Official Browser Use harness for provisioning and driving isolated macOS virtual machines and desktop sessions.

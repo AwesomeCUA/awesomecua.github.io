@@ -1,3 +1,11 @@
+---
+title: "Inducing Task Models from Computer-Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-20319/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Inducing Task Models from Computer-Use Traces
 
 Task Model Induction 从截图及鼠标、键盘记录中分离并发活动，再为各任务构建分层目标和过程控制流；评估检验对已观察执行过程的重建，以及派生技能在留出任务上的复用。
@@ -27,6 +35,18 @@ Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen, Diyi Yang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-20319/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-20319/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_20319,
+  title = {{Inducing Task Models from Computer-Use Traces}},
+  author = {{Yucheng Jiang} and {Zora Zhiruo Wang} and {Ruishi Chen} and {Diyi Yang}},
+  year = {2026},
+  eprint = {2608.20319v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.20319v1},
+  note = {First published: 2026-08-20; Recorded arXiv version: v1; Recorded version updated: 2026-08-20T17:57:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

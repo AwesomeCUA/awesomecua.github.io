@@ -1,3 +1,11 @@
+---
+title: "LongHorizonUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kane2kang-longhorizonui/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # LongHorizonUI
 
 Code for the LongHorizonUI Android agent: OCR plus OmniParser icon detection yields numbered element boxes for an LLM, and failed taps fall back from element index to relative and absolute points with rollback.

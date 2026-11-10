@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor 3B Qwen2.5-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0c400260635b7e4ab7c0/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Actor 3B Qwen2.5-VL
 
 GUI-Actor 元素定位检查点由 Qwen2.5-VL-3B-Instruct 微调而成，带注意力操作头，约有 3.8B 个 BF16 参数，配置指向 Qwen2.5-VL 类的指针变体，采用 MIT 许可。

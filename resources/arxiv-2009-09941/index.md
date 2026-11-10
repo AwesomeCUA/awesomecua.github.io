@@ -1,3 +1,11 @@
+---
+title: "PP-OCR: A Practical Ultra Lightweight OCR… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2009-09941/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PP-OCR: A Practical Ultra Lightweight OCR System
 
 Status: excluded from the active CUA catalog after scope review.

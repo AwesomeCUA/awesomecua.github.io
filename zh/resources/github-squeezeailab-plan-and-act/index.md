@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-squeezeailab-plan-and-act/
+updated: 2026-11-02
+type: framework
+lang: zh-CN
+---
+
 # Plan-and-Act
 
 将高层规划与动作执行分开的网页智能体框架，包含重新规划和合成规划器数据生成组件。

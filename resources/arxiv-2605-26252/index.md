@@ -1,3 +1,11 @@
+---
+title: "Is Agent Memory a Database? Rethinking Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-26252/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory
 
 Status: excluded from the active CUA catalog after scope review.

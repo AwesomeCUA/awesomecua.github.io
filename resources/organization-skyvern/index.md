@@ -1,3 +1,11 @@
+---
+title: "Skyvern (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-skyvern/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # Skyvern
 
 Publisher or product brand associated with Skyvern computer-use or browser automation offerings.

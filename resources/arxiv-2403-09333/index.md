@@ -1,3 +1,11 @@
+---
+title: "Griffon v2: Advancing Multimodal Perception… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-09333/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring
 
 Bibliographic record for Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yufei Zhan, Shurong Zheng, Yousong Zhu, Hongyin Zhao, Fan Yang, Ming Tang, Jinqi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-09333/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-09333/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_09333,
+  title = {{Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring}},
+  author = {{Yufei Zhan} and {Shurong Zheng} and {Yousong Zhu} and {Hongyin Zhao} and {Fan Yang} and {Ming Tang} and {Jinqiao Wang}},
+  year = {2024},
+  eprint = {2403.09333v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.09333v2},
+  note = {First published: 2024-03-14; Recorded arXiv version: v2; Recorded version updated: 2025-08-11T06:33:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

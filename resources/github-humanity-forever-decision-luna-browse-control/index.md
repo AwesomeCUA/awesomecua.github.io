@@ -1,3 +1,11 @@
+---
+title: "decision-luna-browse-control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # decision-luna-browse-control
 
 Evaluates typed System-One decision models (Luna Decisions and Jev) driving real Chromium browser workflows on synthetic web apps.

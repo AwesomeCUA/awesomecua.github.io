@@ -1,3 +1,11 @@
+---
+title: "FedMABench data partitions · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-86b3c2ee65911daf84a8/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # FedMABench data partitions
 
 FedMABench 联邦训练数据将 AndroidControl 与 AitW 移动端智能体任务记录按应用、类别及步骤或任务轮次差异划分为六组 JSONL 分区；截图须从原始数据重建。

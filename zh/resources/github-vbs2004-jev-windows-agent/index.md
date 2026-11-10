@@ -1,3 +1,11 @@
+---
+title: "jev-windows-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vbs2004-jev-windows-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # jev-windows-agent
 
 jev-windows-agent 将 Windows UI Automation 检查与快速 Jev System-One 决策循环结合，实现低延迟桌面控制。

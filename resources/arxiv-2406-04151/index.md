@@ -1,3 +1,11 @@
+---
+title: "AgentGym: Evolving Large Language Model-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-04151/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgentGym: Evolving Large Language Model-based Agents across Diverse Environments
 
 Bibliographic record for AgentGym: Evolving Large Language Model-based Agents across Diverse Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Di
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-04151/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-04151/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_04151,
+  title = {{AgentGym: Evolving Large Language Model-based Agents across Diverse Environments}},
+  author = {{Zhiheng Xi} and {Yiwen Ding} and {Wenxiang Chen} and {Boyang Hong} and {Honglin Guo} and {Junzhe Wang} and {Dingwen Yang} and {Chenyang Liao} and {Xin Guo} and {Wei He} and {Songyang Gao} and {Lu Chen} and {Rui Zheng} and {Yicheng Zou} and {Tao Gui} and {Qi Zhang} and {Xipeng Qiu} and {Xuanjing Huang} and {Zuxuan Wu} and {Yu-Gang Jiang}},
+  year = {2024},
+  eprint = {2406.04151v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.04151v1},
+  note = {First published: 2024-06-06; Recorded arXiv version: v1; Recorded version updated: 2024-06-06T15:15:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

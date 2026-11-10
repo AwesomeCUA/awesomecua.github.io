@@ -1,3 +1,11 @@
+---
+title: "mano-afk · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-afk/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # mano-afk
 
 一个应用构建智能体，可部署软件并通过浏览器图形界面操作进行测试，包含重试循环和图形界面自动化基准。

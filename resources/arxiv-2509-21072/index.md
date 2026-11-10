@@ -1,3 +1,11 @@
+---
+title: "Recon-Act: A Self-Evolving Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-21072/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution
 
 Introduces Recon-Act, a browser-use framework that compares failed and successful web trajectories to create reusable tools for planning and executing long-horizon website tasks.
@@ -26,6 +34,18 @@ Kaiwen He, Zhiwei Wang, Chenyi Zhuang, Jinjie Gu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-21072/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-21072/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21072,
+  title = {{Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution}},
+  author = {{Kaiwen He} and {Zhiwei Wang} and {Chenyi Zhuang} and {Jinjie Gu}},
+  year = {2025},
+  eprint = {2509.21072v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21072v1},
+  note = {First published: 2025-09-25; Recorded arXiv version: v1; Recorded version updated: 2025-09-25T12:23:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

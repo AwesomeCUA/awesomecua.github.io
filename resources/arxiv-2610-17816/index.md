@@ -1,3 +1,11 @@
+---
+title: "Empowering Edge Agents: A Systematic Analysis… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17816/
+updated: 2026-10-21
+type: paper
+lang: en
+---
+
 # Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution
 
 Bibliographic record for Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Pengcheng Huang, Zhenghao Liu, Shixin Ren, Shi Yu, Sijia Yao, Yukun Yan, Chaojun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17816/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17816/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17816,
+  title = {{Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution}},
+  author = {{Pengcheng Huang} and {Zhenghao Liu} and {Shixin Ren} and {Shi Yu} and {Sijia Yao} and {Yukun Yan} and {Chaojun Xiao} and {Maosong Sun}},
+  year = {2026},
+  eprint = {2610.17816v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17816v2},
+  note = {First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-18T09:06:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

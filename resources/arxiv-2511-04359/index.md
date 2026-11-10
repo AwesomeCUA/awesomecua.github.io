@@ -1,3 +1,11 @@
+---
+title: "Neutral-atom quantum computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-04359/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Neutral-atom quantum computation using multi-qubit geometric gates via adiabatic passage
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Locopilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pradhankukiran-locopilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Locopilot
 
 受监督的 Linux 桌面自动化助手，具备沙箱化执行、策略防护和回滚检查点。

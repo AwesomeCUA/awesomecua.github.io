@@ -1,3 +1,11 @@
+---
+title: "OysterWorkflow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OysterWorkflow
 
 OysterWorkflow captures real human computer work and extracts structured, reusable workflow graphs for AI agents.

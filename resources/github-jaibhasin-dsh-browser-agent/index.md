@@ -1,3 +1,11 @@
+---
+title: "jaibhasin dsh-browser-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jaibhasin-dsh-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # jaibhasin dsh-browser-agent
 
 Chrome side-panel autonomous browser agent powered by DeepSeek Harness.

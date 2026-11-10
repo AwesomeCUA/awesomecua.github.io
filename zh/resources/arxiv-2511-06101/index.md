@@ -1,3 +1,11 @@
+---
+title: "SynthAgent: Adapting Web Agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-06101/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SynthAgent: Adapting Web Agents with Synthetic Supervision
 
 SynthAgent 通过探索网站元素生成任务，并在观察结果出现冲突时修订任务。后续轨迹优化阶段剔除偏离目标的行为，再针对目标网站微调智能体。
@@ -27,6 +35,18 @@ Zhaoyang Wang, Yiming Liang, Xuchao Zhang, Qianhui Wu, Siwei Han, Anson Bastos, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-06101/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-06101/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_06101,
+  title = {{SynthAgent: Adapting Web Agents with Synthetic Supervision}},
+  author = {{Zhaoyang Wang} and {Yiming Liang} and {Xuchao Zhang} and {Qianhui Wu} and {Siwei Han} and {Anson Bastos} and {Rujia Wang} and {Chetan Bansal} and {Baolin Peng} and {Jianfeng Gao} and {Saravan Rajmohan} and {Huaxiu Yao}},
+  year = {2025},
+  eprint = {2511.06101v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.06101v3},
+  note = {First published: 2025-11-08; Recorded arXiv version: v3; Recorded version updated: 2026-04-13T06:03:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

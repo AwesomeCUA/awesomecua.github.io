@@ -1,3 +1,11 @@
+---
+title: "PANOPTES Screen MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yxpil-panoptes/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # PANOPTES Screen MCP Server
 
 Streamable HTTP Model Context Protocol server exposing 9 screen capture and mouse/keyboard control tools to AI agents.

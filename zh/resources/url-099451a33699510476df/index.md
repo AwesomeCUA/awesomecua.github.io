@@ -1,3 +1,11 @@
+---
+title: "CUA Speedrun results · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-099451a33699510476df/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # CUA Speedrun results
 
 收录 CUA Speedrun 在 OSWorld 子集、CUA-World 和 MyPCBench 上评估计算机使用模型的轨迹归档及逐任务结果，含验证器分数、实测任务耗时和记录或估算的成本。

@@ -1,3 +1,11 @@
+---
+title: "AXNav: Replaying Accessibility Tests… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2310-02424/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AXNav: Replaying Accessibility Tests from Natural Language
 
 提出结合 LLM 与基于像素的 UI 系统，执行自然语言无障碍测试，生成可导航视频并标记潜在界面问题。
@@ -27,6 +35,18 @@ Maryam Taeb, Amanda Swearngin, Eldon Schoop, Ruijia Cheng, Yue Jiang, Jeffrey Ni
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2310-02424/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2310-02424/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_02424,
+  title = {{AXNav: Replaying Accessibility Tests from Natural Language}},
+  author = {{Maryam Taeb} and {Amanda Swearngin} and {Eldon Schoop} and {Ruijia Cheng} and {Yue Jiang} and {Jeffrey Nichols}},
+  year = {2023},
+  eprint = {2310.02424v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.02424v3},
+  note = {First published: 2023-10-03; Recorded arXiv version: v3; Recorded version updated: 2024-03-05T01:28:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

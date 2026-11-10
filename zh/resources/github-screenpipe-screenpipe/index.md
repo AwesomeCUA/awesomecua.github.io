@@ -1,3 +1,11 @@
+---
+title: "Screenpipe · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-screenpipe-screenpipe/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Screenpipe
 
 Screenpipe 通过无障碍接口和 OCR 持续采集桌面屏幕文本及音频转录内容，存入供 AI 智能体使用的本地数据库。

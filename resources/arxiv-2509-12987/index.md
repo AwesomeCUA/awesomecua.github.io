@@ -1,3 +1,11 @@
+---
+title: "Toward PDDL Planning Copilot | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-12987/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Toward PDDL Planning Copilot
 
 Status: excluded from the active CUA catalog after scope review.

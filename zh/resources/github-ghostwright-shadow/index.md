@@ -1,3 +1,11 @@
+---
+title: "Shadow · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ghostwright-shadow/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # Shadow
 
 macOS 应用在设备端录制屏幕、音频、输入事件和无障碍树，构建可搜索的操作片段，并通过优先使用 AX 定位、回退到经 LoRA 微调的 ShowUI-2B 来重放学到的流程。

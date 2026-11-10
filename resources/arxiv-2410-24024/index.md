@@ -1,3 +1,11 @@
+---
+title: "AndroidLab: Training and Systematic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-24024/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents
 
 Provides a shared Android action environment, reproducible tasks, and instruction data for training and comparing language and multimodal agents.
@@ -26,6 +34,18 @@ Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Da
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-24024/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-24024/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_24024,
+  title = {{AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents}},
+  author = {{Yifan Xu} and {Xiao Liu} and {Xueqiao Sun} and {Siyi Cheng} and {Hao Yu} and {Hanyu Lai} and {Shudan Zhang} and {Dan Zhang} and {Jie Tang} and {Yuxiao Dong}},
+  year = {2024},
+  eprint = {2410.24024v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.24024v2},
+  note = {First published: 2024-10-31; Recorded arXiv version: v2; Recorded version updated: 2024-11-04T05:57:31Z.}
+}
+```
 
 ## Publication record
 

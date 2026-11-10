@@ -1,10 +1,17 @@
+---
+title: "效率：Computer-Use 研究与资源（第 10 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/efficiency/page/10/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 效率：Computer-Use 研究与资源（第 10 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
-- [VG-GUI-TASKER](https://awesomecua.com/zh/resources/github-vg-gui-tasker-vg-gui-tasker/)
 - [VisionAX](https://awesomecua.com/zh/resources/github-rao-studios-visionax/)
 - [Visual Context Router](https://awesomecua.com/zh/resources/github-fangsylar-pixel-visual-context-router/)
 - [VoltageInputMcp](https://awesomecua.com/zh/resources/github-casualkre-voltage-input-mcp/)

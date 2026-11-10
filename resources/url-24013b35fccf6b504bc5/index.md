@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-2B-Thinking | AwesomeCUA"
+url: https://awesomecua.com/resources/url-24013b35fccf6b504bc5/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-2B-Thinking
 
 Qwen3-VL-2B-Thinking, the 2B reasoning edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.

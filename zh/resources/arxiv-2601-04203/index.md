@@ -1,3 +1,11 @@
+---
+title: "FronTalk: Benchmarking Front-End… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-04203/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback
 
 FronTalk 评估利用文字与视觉反馈的多轮前端代码生成；网页智能体探索生成的网站，用于评估及 AceCoder 方法。
@@ -27,6 +35,18 @@ Xueqing Wu, Zihan Xue, Da Yin, Shuyan Zhou, Kai-Wei Chang, Nanyun Peng, Yeming W
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-04203/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-04203/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_04203,
+  title = {{FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback}},
+  author = {{Xueqing Wu} and {Zihan Xue} and {Da Yin} and {Shuyan Zhou} and {Kai-Wei Chang} and {Nanyun Peng} and {Yeming Wen}},
+  year = {2025},
+  eprint = {2601.04203v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.04203v3},
+  note = {First published: 2025-12-05; Recorded arXiv version: v3; Recorded version updated: 2026-08-09T08:10:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

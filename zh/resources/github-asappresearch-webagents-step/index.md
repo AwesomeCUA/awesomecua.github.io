@@ -1,3 +1,11 @@
+---
+title: "SteP (Stacked LLM Policies) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-asappresearch-webagents-step/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SteP (Stacked LLM Policies)
 
 SteP 实现动态组合的马尔可夫式 LLM 策略，用于在 WebArena 上执行多步网页导航和任务。

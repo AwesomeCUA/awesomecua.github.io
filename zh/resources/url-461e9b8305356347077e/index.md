@@ -1,3 +1,11 @@
+---
+title: "Regimes/androidcontrol-cl · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-461e9b8305356347077e/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Regimes/androidcontrol-cl
 
 AndroidControl-CL 提供 Android 图形界面的截图轨迹及结构化训练和评估数据，用于持续式界面学习。

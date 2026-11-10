@@ -1,3 +1,11 @@
+---
+title: "Efficient ANN-SNN Conversion with Error… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-01968/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient ANN-SNN Conversion with Error Compensation Learning
 
 Status: excluded from the active CUA catalog after scope review.

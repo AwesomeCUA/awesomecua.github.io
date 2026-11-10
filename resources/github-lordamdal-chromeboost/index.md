@@ -1,3 +1,11 @@
+---
+title: "ChromeBoost | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lordamdal-chromeboost/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ChromeBoost
 
 Chrome extension and MCP server giving Claude Code direct control over the user's logged-in Chrome browser.

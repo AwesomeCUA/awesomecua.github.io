@@ -1,3 +1,11 @@
+---
+title: "GUI-HARVEST: Self-Improving GUI Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-00948/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution
 
 GUI-HARVEST 分析操作效果和重复任务中的失败，改进 GUI 智能体的执行代码，并在模型权重冻结的条件下验证限定范围内的修改。
@@ -27,6 +35,18 @@ Geyi Yang, Zikun Qu, Xiang Li, Zhiyong Wang, Min Zhang, Shipei Zeng, Zhongxiang 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-00948/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-00948/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_00948,
+  title = {{GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution}},
+  author = {{Geyi Yang} and {Zikun Qu} and {Xiang Li} and {Zhiyong Wang} and {Min Zhang} and {Shipei Zeng} and {Zhongxiang Dai}},
+  year = {2026},
+  eprint = {2610.00948v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.00948v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T02:31:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

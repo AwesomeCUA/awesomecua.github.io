@@ -1,3 +1,11 @@
+---
+title: "GUIPivot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zrw00-guipivot/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # GUIPivot
 
 Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.

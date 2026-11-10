@@ -1,3 +1,11 @@
+---
+title: "cuforge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-huzjie-cuforge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # cuforge
 
 cuforge is an online reinforcement-learning and verifiable task-synthesis platform for training computer-use GUI agents.

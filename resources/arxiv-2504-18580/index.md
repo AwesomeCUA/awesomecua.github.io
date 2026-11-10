@@ -1,3 +1,11 @@
+---
+title: "Parameter-Efficient Checkpoint Merging via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-18580/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Parameter-Efficient Checkpoint Merging via Metrics-Weighted Averaging
 
 Status: excluded from the active CUA catalog after scope review.

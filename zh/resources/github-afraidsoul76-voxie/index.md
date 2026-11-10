@@ -1,3 +1,11 @@
+---
+title: "voxie · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-afraidsoul76-voxie/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # voxie
 
 发布于 PyPI 的语音驱动桌面助手和自动化智能体，可免手动控制计算机。

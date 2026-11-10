@@ -1,3 +1,11 @@
+---
+title: "SikuliX1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raiman-sikulix1/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SikuliX1
 
 An archived desktop automation codebase that locates on-screen elements through image recognition and controls them with simulated mouse and keyboard input.

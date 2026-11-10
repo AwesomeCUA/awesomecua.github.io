@@ -1,3 +1,11 @@
+---
+title: "AppSim-Eleme · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-eleme/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # AppSim-Eleme
 
 MyEle 是用于智能体交互测试的本地安卓外卖应用，提供购物流程、预设任务、操作日志和评估脚本。

@@ -1,3 +1,11 @@
+---
+title: "WebPRM Collection preference data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8dfc84eb4016204fe70a/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # WebPRM Collection preference data
 
 带检查清单标注的网页决策记录，包含页面观察、先前动作、一个优选的后续步骤及被拒绝的备选步骤，用于过程奖励学习。

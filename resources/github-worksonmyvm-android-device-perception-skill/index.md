@@ -1,3 +1,11 @@
+---
+title: "Android Device Perception Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-worksonmyvm-android-device-perception-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Android Device Perception Skill
 
 Portable, read-only Android state-snapshot skill via ADB for AI coding and mobile agents.

@@ -1,3 +1,11 @@
+---
+title: "Online Dense Reinforcement Learning with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-39264/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps
 
 Introduces online RL training for agents navigating live iOS apps, separating planning from UI grounding and using step-level and task-completion rewards.
@@ -26,6 +34,18 @@ Peitong Duan, Khashayar Gatmiry, Jeffrey Nichols, Samy Bengio, Emmanuel Abbe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-39264/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-39264/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_39264,
+  title = {{Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps}},
+  author = {{Peitong Duan} and {Khashayar Gatmiry} and {Jeffrey Nichols} and {Samy Bengio} and {Emmanuel Abbe}},
+  year = {2026},
+  eprint = {2610.39264v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.39264v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T03:17:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

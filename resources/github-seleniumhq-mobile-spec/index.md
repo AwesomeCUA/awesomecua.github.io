@@ -1,3 +1,11 @@
+---
+title: "Mobile JSON Wire Protocol Specification | AwesomeCUA"
+url: https://awesomecua.com/resources/github-seleniumhq-mobile-spec/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Mobile JSON Wire Protocol Specification
 
 A draft WebDriver extension for automating native and hybrid mobile apps, defining sessions, capabilities, locator strategies, touch gestures, orientation, rotation, network modes and webview contexts.

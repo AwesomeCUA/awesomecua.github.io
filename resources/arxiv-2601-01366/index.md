@@ -1,3 +1,11 @@
+---
+title: "KGCE: Knowledge-Augmented Dual-Graph… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-01366/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models
 
 Bibliographic record for KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zixian Liu, Sihao Liu, Yuqi Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-01366/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-01366/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_01366,
+  title = {{KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models}},
+  author = {{Zixian Liu} and {Sihao Liu} and {Yuqi Zhao}},
+  year = {2026},
+  eprint = {2601.01366v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.01366v1},
+  note = {First published: 2026-01-04; Recorded arXiv version: v1; Recorded version updated: 2026-01-04T04:39:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

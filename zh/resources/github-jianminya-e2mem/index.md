@@ -1,3 +1,11 @@
+---
+title: "E2-Mem · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jianminya-e2mem/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # E2-Mem
 
 E2-Mem 是面向长程网页智能体的情节事件分层记忆框架，在 WebArena 上进行评测。

@@ -1,3 +1,11 @@
+---
+title: "S1-Accurate-LoRA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # S1-Accurate-LoRA
 
 A LoRA adapter for a desktop agent's decision model uses window screenshots to select an operation and target element from candidate actions when a faster model is uncertain.

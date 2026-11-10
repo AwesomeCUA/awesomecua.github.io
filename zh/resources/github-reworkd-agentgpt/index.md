@@ -1,3 +1,11 @@
+---
+title: "AgentGPT · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reworkd-agentgpt/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AgentGPT
 
 AgentGPT 是基于浏览器的平台，用于配置和部署自主、目标驱动的 LLM 智能体；这些智能体可拆解任务并浏览网页。

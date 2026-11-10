@@ -1,3 +1,11 @@
+---
+title: "FineState-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fengxianji-finestate-bench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # FineState-Bench
 
 一个评估桌面、网页和移动界面精细状态操作的 GUI 基准，包含 2,257 项任务，并分别衡量元素定位与交互成功率。

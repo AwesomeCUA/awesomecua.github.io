@@ -1,3 +1,11 @@
+---
+title: "Scaling Verifiable Environments for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04906/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Scaling Verifiable Environments for Long-horizon Work Agents
 
 Bibliographic record for Scaling Verifiable Environments for Long-horizon Work Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jiazheng Zhang, Long Ma, Yunxian Yang, Zhiheng Xi, Zhikai Lei, Yajie Yang, Cheny
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04906/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04906/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04906,
+  title = {{Scaling Verifiable Environments for Long-horizon Work Agents}},
+  author = {{Jiazheng Zhang} and {Long Ma} and {Yunxian Yang} and {Zhiheng Xi} and {Zhikai Lei} and {Yajie Yang} and {Chenyang Liao} and {Enyu Zhou} and {Yang Nan} and {Yuchen Tian} and {Senjie Jin} and {Yibo Wang} and {Wei He} and {Boyang Liu} and {Jixuan Huang} and {Xin Guo} and {Shutong Jiang} and {Zhezheng Hao} and {Xinbing Liang} and {Zhihao Zhang} and {Changzhi Zhou} and {Wiggin Zhou} and {Tao Gui} and {Qi Zhang} and {Xuanjing Huang} and {Clarenceai} and {Aiden Adams}},
+  year = {2026},
+  eprint = {2610.04906v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04906v3},
+  note = {First published: 2026-10-04; Recorded arXiv version: v3; Recorded version updated: 2026-10-13T09:55:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

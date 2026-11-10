@@ -1,3 +1,11 @@
+---
+title: "browserground | AwesomeCUA"
+url: https://awesomecua.com/resources/github-renezander030-browserground/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # browserground
 
 browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.

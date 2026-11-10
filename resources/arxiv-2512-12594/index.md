@@ -1,3 +1,11 @@
+---
+title: "ceLLMate: Sandboxing Browser AI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-12594/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ceLLMate: Sandboxing Browser AI Agents
 
 ceLLMate constrains browser-agent authority through an extension that applies policies at the HTTP layer. It evaluates this sandbox against prompt-injection attacks in WASP, avoiding dependence on brittle low-level click and keystroke policies.
@@ -26,6 +34,18 @@ Luoxi Meng, Henry Feng, Ilia Shumailov, Earlence Fernandes
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-12594/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-12594/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_12594,
+  title = {{ceLLMate: Sandboxing Browser AI Agents}},
+  author = {{Luoxi Meng} and {Henry Feng} and {Ilia Shumailov} and {Earlence Fernandes}},
+  year = {2025},
+  eprint = {2512.12594v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.12594v2},
+  note = {First published: 2025-12-14; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T01:49:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

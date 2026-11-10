@@ -1,3 +1,11 @@
+---
+title: "Stochastic single flux quantum neuromorphic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1612-09292/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Stochastic single flux quantum neuromorphic computing using magnetically tunable Josephson junctions
 
 Status: excluded from the active CUA catalog after scope review.

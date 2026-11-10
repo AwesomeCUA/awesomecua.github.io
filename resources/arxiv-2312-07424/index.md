@@ -1,3 +1,11 @@
+---
+title: "How Well Does GPT-4V(ision) Adapt to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-07424/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation
 
 Status: excluded from the active CUA catalog after scope review.

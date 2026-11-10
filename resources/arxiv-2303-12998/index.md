@@ -1,3 +1,11 @@
+---
+title: "The Universal NFT Vector Database: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-12998/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # The Universal NFT Vector Database: A Scaleable Vector Database for NFT Similarity Matching
 
 Bibliographic record for The Universal NFT Vector Database: A Scaleable Vector Database for NFT Similarity Matching. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Samrat Sahoo, Nitin Paul, Agam Shah, Andrew Hornback, Sudheer Chava
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-12998/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-12998/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_12998,
+  title = {{The Universal NFT Vector Database: A Scaleable Vector Database for NFT Similarity Matching}},
+  author = {{Samrat Sahoo} and {Nitin Paul} and {Agam Shah} and {Andrew Hornback} and {Sudheer Chava}},
+  year = {2023},
+  eprint = {2303.12998v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.12998v1},
+  note = {First published: 2023-03-23; Recorded arXiv version: v1; Recorded version updated: 2023-03-23T02:38:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

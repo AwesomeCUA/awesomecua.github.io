@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 26 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/26/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 26 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/26/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [VideoCAD training and evaluation code](https://awesomecua.com/zh/resources/github-ghadinehme-videocad/)
 - [VillagerAgent & VillagerBench](https://awesomecua.com/zh/resources/github-cnsdqd-dyb-villageragent/)
 - [VisionDroid](https://awesomecua.com/zh/resources/github-testtesta6-visiondroid/)
 - [VISTA](https://awesomecua.com/zh/resources/github-joshhhhhan-vista/)

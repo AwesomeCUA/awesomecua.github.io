@@ -1,3 +1,11 @@
+---
+title: "FluidGPT (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0c69fd920263b8a72a72/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # FluidGPT
 
 Android agent product presented through recorded AndroidWorld runs. Fluiz reports completion of 116 tasks across 20 apps through screen interaction.

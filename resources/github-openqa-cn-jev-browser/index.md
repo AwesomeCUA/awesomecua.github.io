@@ -1,3 +1,11 @@
+---
+title: "CodexQA Jev Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openqa-cn-jev-browser/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # CodexQA Jev Browser
 
 CodexQA Jev Browser operates Playwright pages through indexed controls and model-selected actions, with case replay and reports based on visible page evidence.

@@ -1,3 +1,11 @@
+---
+title: "Interpretable Early Termination of Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-04142/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining
 
 Applies sequential pattern mining to MiniWoB++ web-agent traces, producing reviewable failure signatures and an early-termination policy to reduce token use.
@@ -26,6 +34,18 @@ Sergio Talavera, Magdalini Eirinaki
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-04142/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-04142/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_04142,
+  title = {{Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining}},
+  author = {{Sergio Talavera} and {Magdalini Eirinaki}},
+  year = {2026},
+  eprint = {2611.04142v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.04142v1},
+  note = {First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T01:35:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Guibot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-intra2net-guibot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Guibot
 
 Guibot is a Python GUI automation library unifying template matching, feature detection, cascade classifiers, OCR, and VNC/PyAutoGUI control.

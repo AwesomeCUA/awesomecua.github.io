@@ -1,3 +1,11 @@
+---
+title: "Cradle · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-baai-agents-cradle/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Cradle
 
 让基础模型仅凭截图通过键盘和鼠标控制游戏及软件的框架，已在 RDR2、Stardew Valley、Cities: Skylines 和 Dealer's Life 2 上展示。

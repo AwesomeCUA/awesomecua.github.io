@@ -1,3 +1,11 @@
+---
+title: "Prism Browser Community · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dfarm6-prism-browser-community/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Prism Browser Community
 
 基于 Chromium 和 Electron、优先在本地运行的开源多配置文件指纹浏览器，用于隔离的网页自动化。

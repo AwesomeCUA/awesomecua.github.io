@@ -1,3 +1,11 @@
+---
+title: "Ghosthand · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ameerhmz-ghosthand/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Ghosthand
 
 Ghosthand 是面向 Apple Silicon macOS 的低延迟本地语音和计算机使用智能体，基于 Laya 模型和原生 Accessibility API。

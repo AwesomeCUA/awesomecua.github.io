@@ -1,3 +1,11 @@
+---
+title: "Behavioral Cloning via Search in Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2212-13326/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Behavioral Cloning via Search in Video PreTraining Latent Space
 
 Status: excluded from the active CUA catalog after scope review.

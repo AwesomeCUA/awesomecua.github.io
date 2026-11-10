@@ -1,3 +1,11 @@
+---
+title: "Automated structural testing of LLM-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-18827/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Automated structural testing of LLM-based agents: methods, framework, and case studies
 
 Status: excluded from the active CUA catalog after scope review.

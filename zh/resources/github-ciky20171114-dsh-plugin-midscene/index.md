@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-midscene · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ciky20171114-dsh-plugin-midscene/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-plugin-midscene
 
 由 Midscene.js 驱动的 DeepSeek Harness 视觉 UI 自动化插件，同时支持 Android（`android_ui`）和 Web（`web_ui`）。

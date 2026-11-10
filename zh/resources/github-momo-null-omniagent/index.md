@@ -1,3 +1,11 @@
+---
+title: "OmniAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-momo-null-omniagent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # OmniAgent
 
 一款常驻智能体，可查看截图，并通过鼠标和键盘工具操作本地桌面，或通过 ADB 操作安卓设备，同时提供聊天和记忆功能。

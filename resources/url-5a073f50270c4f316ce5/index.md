@@ -1,3 +1,11 @@
+---
+title: "Computer Use Trajectories (markov-ai) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5a073f50270c4f316ce5/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Computer Use Trajectories (markov-ai)
 
 160 successful OSWorld trajectories (1,378 steps) by a Gemini 3 Flash Preview agent with accessibility-tree grounding, with per-step screenshots, accessibility trees, pyautogui actions, responses and run logs.

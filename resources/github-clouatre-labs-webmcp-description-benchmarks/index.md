@@ -1,3 +1,11 @@
+---
+title: "WebMCP Description Benchmarks | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # WebMCP Description Benchmarks
 
 WebMCP Description Benchmarks evaluates how in-browser WebMCP tool schema descriptions affect agent tool selection and execution accuracy.

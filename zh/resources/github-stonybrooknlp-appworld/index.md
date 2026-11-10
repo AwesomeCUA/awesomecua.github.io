@@ -1,3 +1,11 @@
+---
+title: "AppWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-stonybrooknlp-appworld/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # AppWorld
 
 提供模拟应用、用户数据和基于状态的任务检查，用于评估通过 API 和代码交互的智能体。

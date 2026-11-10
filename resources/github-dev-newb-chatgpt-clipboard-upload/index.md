@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Clipboard Upload | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dev-newb-chatgpt-clipboard-upload/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ChatGPT Clipboard Upload
 
 A Codex skill that automates file attachment in a ChatGPT browser conversation. It pastes files through the browser clipboard and maps generated attachment names to source files.

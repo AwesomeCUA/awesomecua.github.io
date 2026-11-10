@@ -1,3 +1,11 @@
+---
+title: "HTLM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-espetro-htlm/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # HTLM
 
 HTLM is a compact 350M browser-agent model fine-tuned on Mind2Web for fast on-device and in-browser DOM action prediction.

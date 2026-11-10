@@ -1,3 +1,11 @@
+---
+title: "Perplexity Toolkit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mfang0126-perplexity-toolkit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Perplexity Toolkit
 
 浏览器控制工具包和 CLI，用于自动执行 Perplexity AI 深度搜索及提取结构化引用信息。

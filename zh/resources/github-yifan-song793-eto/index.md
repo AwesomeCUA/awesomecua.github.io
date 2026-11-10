@@ -1,3 +1,11 @@
+---
+title: "ETO (Exploration-Based Trajectory… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yifan-song793-eto/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ETO (Exploration-Based Trajectory Optimization)
 
 ETO 通过对比失败的探索轨迹与专家演示，在 WebShop、ScienceWorld 和 ALFWorld 上训练 LLM 智能体。

@@ -1,3 +1,11 @@
+---
+title: "MM-Eureka | AwesomeCUA"
+url: https://awesomecua.com/resources/github-modalminds-mm-eureka/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # MM-Eureka
 
 MM-Eureka provides rule-based multimodal reinforcement learning code, models, and datasets based on OpenRLHF and InternVL.

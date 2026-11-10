@@ -1,3 +1,11 @@
+---
+title: "Can LLM Agents Be CFOs? Benchmarking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-23638/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Can LLM Agents Be CFOs? Benchmarking Long-Horizon Resource Allocation in an Uncertain Enterprise Environment
 
 Status: excluded from the active CUA catalog after scope review.

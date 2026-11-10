@@ -1,3 +1,11 @@
+---
+title: "browser-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-whg517-browser-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # browser-bridge
 
 An MCP browser-control bridge that uses a Chrome extension and native host to let agents inspect and act in existing tabs and signed-in sessions.

@@ -1,3 +1,11 @@
+---
+title: "Kryptic · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-adnqcr7-code-kryptic/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Kryptic
 
 本地优先的 AI 工程与浏览器控制智能体运行环境，具备受限执行、验证和自我修复功能。

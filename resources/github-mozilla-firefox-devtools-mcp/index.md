@@ -1,3 +1,11 @@
+---
+title: "Firefox DevTools MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Firefox DevTools MCP
 
 An MCP server that gives AI agents Firefox tools for navigating sites, filling forms, inspecting page snapshots, and examining developer-tool output.

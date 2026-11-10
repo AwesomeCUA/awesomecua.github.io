@@ -1,3 +1,11 @@
+---
+title: "ComputerRL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-computerrl/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # ComputerRL
 
 面向计算机使用智能体的强化学习基础设施。

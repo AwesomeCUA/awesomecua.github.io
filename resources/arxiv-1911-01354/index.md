@@ -1,3 +1,11 @@
+---
+title: "Robust universal Hamiltonian quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1911-01354/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Robust universal Hamiltonian quantum computing using two-body interactions
 
 Status: excluded from the active CUA catalog after scope review.

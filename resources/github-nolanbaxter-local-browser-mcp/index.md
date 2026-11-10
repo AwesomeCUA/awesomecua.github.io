@@ -1,3 +1,11 @@
+---
+title: "Local Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nolanbaxter-local-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Local Browser MCP
 
 Headless, agent-controllable browser MCP server designed for testing and inspecting local web development servers.

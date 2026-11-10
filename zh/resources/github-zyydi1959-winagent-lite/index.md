@@ -1,3 +1,11 @@
+---
+title: "WinAgent-Lite · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zyydi1959-winagent-lite/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # WinAgent-Lite
 
 WinAgent-Lite 是本地视觉驱动的 Windows GUI 智能体和 MCP 服务器，附带可复现的桌面评测套件。

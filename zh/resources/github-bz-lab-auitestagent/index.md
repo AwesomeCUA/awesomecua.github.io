@@ -1,3 +1,11 @@
+---
+title: "AUITestAgent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bz-lab-auitestagent/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # AUITestAgent
 
 根据自然语言测试需求生成移动端 GUI 操作，并检查应用行为是否符合需求。

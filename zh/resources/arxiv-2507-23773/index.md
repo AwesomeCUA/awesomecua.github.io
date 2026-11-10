@@ -1,3 +1,11 @@
+---
+title: "General Agentic Planning Through… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-23773/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # General Agentic Planning Through Simulative Reasoning with World Models
 
 SiRA 是一种智能体架构，使用基于语言的世界模型模拟动作结果，以规划网页浏览器中的任务。
@@ -27,6 +35,18 @@ Mingkai Deng, Jinyu Hou, Zhiting Hu, Eric Xing
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-23773/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-23773/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_23773,
+  title = {{General Agentic Planning Through Simulative Reasoning with World Models}},
+  author = {{Mingkai Deng} and {Jinyu Hou} and {Zhiting Hu} and {Eric Xing}},
+  year = {2025},
+  eprint = {2507.23773v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.23773v3},
+  note = {First published: 2025-07-31; Recorded arXiv version: v3; Recorded version updated: 2026-05-21T08:18:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

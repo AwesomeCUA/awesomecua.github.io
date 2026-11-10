@@ -1,3 +1,11 @@
+---
+title: "TeleGen · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-commoluo-telegen/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # TeleGen
 
 TeleGen 在经过插桩的网页应用中运行浏览器任务，汇总交互遥测数据，并将所得证据提供给代码修复智能体。

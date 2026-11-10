@@ -1,3 +1,11 @@
+---
+title: "WebDriverAgent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-webdriveragent/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # WebDriverAgent
 
 WebDriverAgent 是用于远程控制 iOS 应用的 WebDriver 服务器，支持启动应用、点击、滚动和检查视图；后续开发已转入 appium-ios。

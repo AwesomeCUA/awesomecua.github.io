@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-826f3753905c5c43bf46/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Seg2Click Qwen3.5 9B
 
 Seg2Click 检查点，将 9B Qwen3.5 主干模型与有效 GUI 点击区域解码器结合。

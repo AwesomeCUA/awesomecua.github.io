@@ -1,3 +1,11 @@
+---
+title: "DeepSeek Harness Desktop YukiRyou · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DeepSeek Harness Desktop YukiRyou
 
 DeepSeek Harness 的增强版桌面客户端发行版，预集成计算机使用和浏览器插件。

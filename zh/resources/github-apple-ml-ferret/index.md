@@ -1,3 +1,11 @@
+---
+title: "Ferret-UI · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-apple-ml-ferret/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # Ferret-UI
 
 Ferret 模型家族中的屏幕理解研究。

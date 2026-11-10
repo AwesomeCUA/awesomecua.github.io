@@ -1,3 +1,11 @@
+---
+title: "WebMall | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # WebMall
 
 WebMall is a multi-shop e-commerce web agent benchmark evaluating cross-site price comparison, product search, and cart checkout.

@@ -1,3 +1,11 @@
+---
+title: "LEASH: Uncertainty-Aware Weak-to-Strong… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22280/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents
 
 Uses weak-agent uncertainty to decide when to escalate to a stronger model and monitor its subsequent task execution.
@@ -26,6 +34,18 @@ Qingni Wang, Changdae Oh, Yuzhe Yang, Sharon Li, Jiachen Yang, Ang Li, Xin Eric 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22280/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22280/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22280,
+  title = {{LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents}},
+  author = {{Qingni Wang} and {Changdae Oh} and {Yuzhe Yang} and {Sharon Li} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2610.22280v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22280v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:40:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

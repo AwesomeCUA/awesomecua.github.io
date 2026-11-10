@@ -1,3 +1,11 @@
+---
+title: "Alexa Arena: A User-Centric Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-01586/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Alexa Arena: A User-Centric Interactive Platform for Embodied AI
 
 Bibliographic record for Alexa Arena: A User-Centric Interactive Platform for Embodied AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiaozi Gao, Govind Thattai, Suhaila Shakiah, Xiaofeng Gao, Shreyas Pansare, Vasu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-01586/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-01586/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_01586,
+  title = {{Alexa Arena: A User-Centric Interactive Platform for Embodied AI}},
+  author = {{Qiaozi Gao} and {Govind Thattai} and {Suhaila Shakiah} and {Xiaofeng Gao} and {Shreyas Pansare} and {Vasu Sharma} and {Gaurav Sukhatme} and {Hangjie Shi} and {Bofei Yang} and {Desheng Zheng} and {Lucy Hu} and {Karthika Arumugam} and {Shui Hu} and {Matthew Wen} and {Dinakar Guthy} and {Cadence Chung} and {Rohan Khanna} and {Osman Ipek} and {Leslie Ball} and {Kate Bland} and {Heather Rocker} and {Yadunandana Rao} and {Michael Johnston} and {Reza Ghanadan} and {Arindam Mandal} and {Dilek Hakkani Tur} and {Prem Natarajan}},
+  year = {2023},
+  eprint = {2303.01586v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.01586v2},
+  note = {First published: 2023-03-02; Recorded arXiv version: v2; Recorded version updated: 2023-06-07T08:54:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

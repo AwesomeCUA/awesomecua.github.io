@@ -1,3 +1,11 @@
+---
+title: "MCP for Blender · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahujasid-blender-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # MCP for Blender
 
 MCP for Blender 通过插件和 MCP 服务器将 AI 客户端连接到 Blender，支持编辑场景、执行 Python 命令，并利用视图和渲染结果进行视觉核验。

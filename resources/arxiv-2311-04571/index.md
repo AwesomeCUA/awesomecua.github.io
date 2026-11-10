@@ -1,3 +1,11 @@
+---
+title: "Restoring symmetries in quantum computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-04571/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Restoring symmetries in quantum computing using Classical Shadows
 
 Status: excluded from the active CUA catalog after scope review.

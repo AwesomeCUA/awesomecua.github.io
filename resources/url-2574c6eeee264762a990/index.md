@@ -1,3 +1,11 @@
+---
+title: "Robotic Process Automation: Contemporary… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2574c6eeee264762a990/
+updated: 2026-11-09
+type: survey
+lang: en
+---
+
 # Robotic Process Automation: Contemporary themes and challenges
 
 A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
@@ -26,6 +34,22 @@ Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans,
 
 - BibTeX: https://awesomecua.com/resources/url-2574c6eeee264762a990/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-2574c6eeee264762a990/citation.csl.json
+
+```bibtex
+@article{cua_d62129f0b2ced2720ee187d9,
+  title = {{Robotic Process Automation: Contemporary themes and challenges}},
+  author = {{Rehan Syed} and {Suriadi Suriadi} and {Michael Adams} and {Wasana Bandara} and {Sander J.J. Leemans} and {Chun Ouyang} and {Arthur H.M. ter Hofstede} and {Inge van de Weerd} and {Moe Thandar Wynn} and {Hajo A. Reijers}},
+  year = {2020},
+  month = feb,
+  journal = {Computers in Industry},
+  publisher = {Elsevier BV},
+  volume = {115},
+  pages = {103162},
+  doi = {10.1016/j.compind.2019.103162},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609},
+  note = {Publication date: 2020-02.}
+}
+```
 
 ## Publication record
 

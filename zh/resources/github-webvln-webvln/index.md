@@ -1,3 +1,11 @@
+---
+title: "WebVLN research implementation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-webvln-webvln/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # WebVLN research implementation
 
 面向问题引导的网站导航，提供结合视觉观察与网页专有 HTML 信息的训练和评估代码。

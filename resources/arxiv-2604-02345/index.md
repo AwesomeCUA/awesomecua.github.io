@@ -1,3 +1,11 @@
+---
+title: "UI-Oceanus: Scaling GUI Agents with Synthetic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-02345/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics
 
 UI-Oceanus converts autonomous GUI exploration and execution feedback into supervision for predicting future interface states. It compares forward and inverse objectives during continual pretraining and examines downstream offline and online navigation as synthetic data scales.
@@ -26,6 +34,18 @@ Mengzhou Wu, Yuzhe Guo, Yuan Cao, Haochuan Lu, Songhe Zhu, Pingzhe Qu, Xin Chen,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-02345/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-02345/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_02345,
+  title = {{UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics}},
+  author = {{Mengzhou Wu} and {Yuzhe Guo} and {Yuan Cao} and {Haochuan Lu} and {Songhe Zhu} and {Pingzhe Qu} and {Xin Chen} and {Kang Qin} and {Zhongpu Wang} and {Xiaode Zhang} and {Xinyi Wang} and {Wei Dai} and {Gang Cao} and {Yuetang Deng} and {Zhi Gong} and {Dezhi Ran} and {Linyi Li} and {Wei Yang} and {Tao Xie}},
+  year = {2026},
+  eprint = {2604.02345v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.02345v1},
+  note = {First published: 2026-02-11; Recorded arXiv version: v1; Recorded version updated: 2026-02-11T17:02:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

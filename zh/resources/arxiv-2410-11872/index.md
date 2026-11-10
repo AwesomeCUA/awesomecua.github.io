@@ -1,3 +1,11 @@
+---
+title: "ClickAgent: Enhancing UI Location… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-11872/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents
 
 将多模态推理和操作规划与专用 UI 定位模型分开，并在 Android 设备上评估。
@@ -27,6 +35,18 @@ Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur J
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-11872/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-11872/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_11872,
+  title = {{ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents}},
+  author = {{Jakub Hoscilowicz} and {Bartosz Maj} and {Bartosz Kozakiewicz} and {Oleksii Tymoshchuk} and {Artur Janicki}},
+  year = {2024},
+  eprint = {2410.11872v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.11872v2},
+  note = {First published: 2024-10-09; Recorded arXiv version: v2; Recorded version updated: 2024-10-17T07:12:31Z.}
+}
+```
 
 ## 发表记录
 

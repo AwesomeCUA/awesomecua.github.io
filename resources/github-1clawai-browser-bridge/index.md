@@ -1,3 +1,11 @@
+---
+title: "1Claw Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-1clawai-browser-bridge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # 1Claw Browser Bridge
 
 Governed credential-injection and browser-control bridge where AI agents operate authenticated sessions without seeing raw secrets.

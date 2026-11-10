@@ -1,3 +1,11 @@
+---
+title: "LexBench-Trajectory-Replay · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c049eba816b97d5076d0/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # LexBench-Trajectory-Replay
 
 LexBench-Trajectory-Replay 提供 30 个公开网站任务，包含固定的浏览器操作和断言，用于评估浏览器执行与信息获取。

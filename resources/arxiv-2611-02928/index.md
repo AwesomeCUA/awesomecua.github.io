@@ -1,3 +1,11 @@
+---
+title: "Lab2Sim: Turning Real-World Experiment Videos… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-02928/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments
 
 Bibliographic record for Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xusen Hei, Jiali Chen, Jinyu Yang, Yi Cai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-02928/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-02928/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_02928,
+  title = {{Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments}},
+  author = {{Xusen Hei} and {Jiali Chen} and {Jinyu Yang} and {Yi Cai}},
+  year = {2026},
+  eprint = {2611.02928v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.02928v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T10:56:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "fxBench: Evaluating and Understanding Formula… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-24729/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets
 
 Introduces fxBench, a benchmark of spreadsheet formula suggestions, and examines context selection, intent understanding and formula writing for editing assistance.
@@ -26,6 +34,18 @@ Sanket Mhatre, Sumit Gulwani, Vu Le, Yasharth Bajpai, Gust Verbruggen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-24729/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-24729/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_24729,
+  title = {{fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets}},
+  author = {{Sanket Mhatre} and {Sumit Gulwani} and {Vu Le} and {Yasharth Bajpai} and {Gust Verbruggen}},
+  year = {2026},
+  eprint = {2610.24729v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.24729v1},
+  note = {First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T14:49:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

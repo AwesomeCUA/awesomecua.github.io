@@ -1,3 +1,11 @@
+---
+title: "ChangeShield · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kxvya18-chnage-shield/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ChangeShield
 
 可自修复的浏览器自动化原型，能够检测并适应第三方 UI 选择器的变化。

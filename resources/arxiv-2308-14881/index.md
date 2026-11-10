@@ -1,3 +1,11 @@
+---
+title: "Universal quantum computation using atoms in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-14881/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal quantum computation using atoms in cross-cavity systems
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Aevora · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-atluri0001-aevora/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Aevora
 
 自主式网页智能体，将自然语言意图转化为多步骤浏览器动作。

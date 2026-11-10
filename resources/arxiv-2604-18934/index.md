@@ -1,3 +1,11 @@
+---
+title: "AutomationBench | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18934/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AutomationBench
 
 Introduces AutomationBench, a benchmark for agents coordinating business workflows across applications through REST APIs, including endpoint discovery and policy adherence.
@@ -26,6 +34,18 @@ Daniel Shepard, Robin Salimans
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18934/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18934/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18934,
+  title = {{AutomationBench}},
+  author = {{Daniel Shepard} and {Robin Salimans}},
+  year = {2026},
+  eprint = {2604.18934v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18934v1},
+  note = {First published: 2026-04-21; Recorded arXiv version: v1; Recorded version updated: 2026-04-21T00:14:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

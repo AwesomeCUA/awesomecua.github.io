@@ -1,3 +1,11 @@
+---
+title: "Snapsurf · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zumerlab-snapsurf/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Snapsurf
 
 面向 AI 智能体的网页导航和验证层，提供精简的语义页面摘要和带类型的动作后 DOM 差异。

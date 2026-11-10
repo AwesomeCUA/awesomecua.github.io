@@ -1,3 +1,11 @@
+---
+title: "Pactora | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mrnetwork0001-pactora/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Pactora
 
 WebMCP marketplace and verification harness featuring a closed-loop self-healing browser verifier.

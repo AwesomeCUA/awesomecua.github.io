@@ -1,3 +1,11 @@
+---
+title: "Proximal Policy Optimization Algorithms | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1707-06347/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Proximal Policy Optimization Algorithms
 
 Bibliographic record for Proximal Policy Optimization Algorithms. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1707-06347/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1707-06347/citation.csl.json
+
+```bibtex
+@misc{arxiv_1707_06347,
+  title = {{Proximal Policy Optimization Algorithms}},
+  author = {{John Schulman} and {Filip Wolski} and {Prafulla Dhariwal} and {Alec Radford} and {Oleg Klimov}},
+  year = {2017},
+  eprint = {1707.06347v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1707.06347v2},
+  note = {First published: 2017-07-20; Recorded arXiv version: v2; Recorded version updated: 2017-08-28T09:20:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "BrowseComp · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-openai-simple-evals-browsecomp/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # BrowseComp
 
 OpenAI 的 1,266 题浏览智能体基准，要求跨多个网站持续搜索和导航，给出简短且可核验的答案，并由模型裁判评分。

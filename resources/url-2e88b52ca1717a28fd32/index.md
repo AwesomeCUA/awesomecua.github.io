@@ -1,3 +1,11 @@
+---
+title: "VideoAgentTrek-IDM-s2-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2e88b52ca1717a28fd32/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # VideoAgentTrek-IDM-s2-7B
 
 Action identification model in the VideoAgentTrek Video2Action pipeline, which recovers GUI actions such as clicks and typed text from screen-recorded tutorial videos to build computer-use training trajectories.

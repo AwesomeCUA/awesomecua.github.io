@@ -1,3 +1,11 @@
+---
+title: "AgentCIBench (huggingface.co/datasets/U… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d7f35409d35584385097/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # AgentCIBench
 
 计算机使用智能体的上下文完整性基准：117 个合成多应用工作区场景，将信息不完整的请求与必须共享和禁止共享的信息清单配对，另含 50 个实时 UI 场景的子集。

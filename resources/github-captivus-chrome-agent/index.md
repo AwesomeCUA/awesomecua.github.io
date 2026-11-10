@@ -1,3 +1,11 @@
+---
+title: "chrome-agent (github.com/captivus/chrome-agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-captivus-chrome-agent/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # chrome-agent
 
 A CLI that exposes Chrome DevTools Protocol commands to agents for browser navigation, screenshots and event monitoring, with shared browser access.

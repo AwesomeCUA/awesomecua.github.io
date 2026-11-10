@@ -1,3 +1,11 @@
+---
+title: "RICO-ScreenQA-Short · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-060c9288c7197c5a188e/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # RICO-ScreenQA-Short
 
 基于 RICO 界面图像的屏幕问答数据集，将问题与机器生成的简短答案配对，提供训练、验证和测试划分。

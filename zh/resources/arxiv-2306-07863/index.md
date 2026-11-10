@@ -1,3 +1,11 @@
+---
+title: "Synapse: Trajectory-as-Exemplar… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2306-07863/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control
 
 Synapse 过滤与任务无关的页面状态，将完整的抽象状态—动作轨迹放入提示；基于嵌入的示例记忆为新任务检索相关演示，并在 MiniWoB++ 和 Mind2Web 上评估。
@@ -27,6 +35,18 @@ Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2306-07863/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2306-07863/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_07863,
+  title = {{Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control}},
+  author = {{Longtao Zheng} and {Rundong Wang} and {Xinrun Wang} and {Bo An}},
+  year = {2023},
+  eprint = {2306.07863v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.07863v3},
+  note = {First published: 2023-06-13; Recorded arXiv version: v3; Recorded version updated: 2024-01-19T06:59:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

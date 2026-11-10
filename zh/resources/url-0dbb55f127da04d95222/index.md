@@ -1,3 +1,11 @@
+---
+title: "Wave UI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0dbb55f127da04d95222/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Wave UI
 
 包含截图、指令、目标框和 UI 元数据的记录；元数据包括 OCR、来源、元素类型和平台。

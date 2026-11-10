@@ -1,3 +1,11 @@
+---
+title: "Explorer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-explorer/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Explorer
 
 Explorer 通过自主、由下至上的网页探索，合成大规模多模态网页轨迹，用于训练 GUI 网页智能体。

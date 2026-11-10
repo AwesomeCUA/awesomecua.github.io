@@ -1,3 +1,11 @@
+---
+title: "Selective Knowledge Control for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-06530/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Selective Knowledge Control for Continual GUI Agent Learning over Application Streams
 
 提出以激活状态为条件的梯度控制方法，供 GUI 智能体依次学习不同应用；该方法保护未激活的应用专属神经元、约束共享神经元的更新，并累积紧凑的历史状态，以兼顾适应与保留。
@@ -27,6 +35,18 @@ Zirui Shang, Xin Shu, Yang Liu, Zhi Gao, Xinxiao Wu, Lifeng Fan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-06530/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-06530/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_06530,
+  title = {{Selective Knowledge Control for Continual GUI Agent Learning over Application Streams}},
+  author = {{Zirui Shang} and {Xin Shu} and {Yang Liu} and {Zhi Gao} and {Xinxiao Wu} and {Lifeng Fan}},
+  year = {2026},
+  eprint = {2609.06530v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.06530v1},
+  note = {First published: 2026-09-06; Recorded arXiv version: v1; Recorded version updated: 2026-09-06T10:50:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

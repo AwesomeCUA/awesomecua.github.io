@@ -1,3 +1,11 @@
+---
+title: "chrome-aws-lambda | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alixaxel-chrome-aws-lambda/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # chrome-aws-lambda
 
 chrome-aws-lambda bundles Chromium for running Puppeteer or Playwright inside AWS Lambda and Google Cloud Functions, with launch flags and page helpers for clicking, form filling and waiting.

@@ -1,3 +1,11 @@
+---
+title: "Microsoft Paint MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-miguelcespedes-microsoft-paint-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Microsoft Paint MCP Server
 
 Semantic Model Context Protocol interface for Microsoft Paint allowing AI agents to draw geometry, diagrams, and canvas edits.

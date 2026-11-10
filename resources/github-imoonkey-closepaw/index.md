@@ -1,3 +1,11 @@
+---
+title: "ClosePaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-imoonkey-closepaw/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # ClosePaw
 
 On-device Android agent app that reads the accessibility tree, with optional screenshots, acts through accessibility node actions or gesture taps, and can run on a Shizuku virtual display in the background.

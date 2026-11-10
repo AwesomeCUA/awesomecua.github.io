@@ -1,3 +1,11 @@
+---
+title: "Survey on Large Language Model-Enhanced… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-00282/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods
 
 Status: excluded from the active CUA catalog after scope review.

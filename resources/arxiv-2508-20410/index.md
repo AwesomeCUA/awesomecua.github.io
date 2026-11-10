@@ -1,3 +1,11 @@
+---
+title: "UI-Bench: A Benchmark for Evaluating Design… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-20410/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UI-Bench: A Benchmark for Evaluating Design Capabilities of AI Text-to-App Tools
 
 Bibliographic record for UI-Bench: A Benchmark for Evaluating Design Capabilities of AI Text-to-App Tools. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sam Jung, Agustin Garcinuno, Spencer Mateega
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-20410/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-20410/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_20410,
+  title = {{UI-Bench: A Benchmark for Evaluating Design Capabilities of AI Text-to-App Tools}},
+  author = {{Sam Jung} and {Agustin Garcinuno} and {Spencer Mateega}},
+  year = {2025},
+  eprint = {2508.20410v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.20410v3},
+  note = {First published: 2025-08-28; Recorded arXiv version: v3; Recorded version updated: 2025-09-03T23:48:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

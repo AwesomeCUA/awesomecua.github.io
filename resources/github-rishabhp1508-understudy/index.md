@@ -1,3 +1,11 @@
+---
+title: "RishabhP1508 Understudy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rishabhp1508-understudy/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # RishabhP1508 Understudy
 
 Records a single LLM-driven exploration of a legacy UI into a typed capability artifact for deterministic zero-LLM replay.

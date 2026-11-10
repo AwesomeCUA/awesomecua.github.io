@@ -1,3 +1,11 @@
+---
+title: "PAM Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-push-in-pam-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # PAM Browser
 
 Typed Chrome DevTools Protocol client for PHP running on the PAM runtime.

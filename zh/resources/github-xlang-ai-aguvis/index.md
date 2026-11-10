@@ -1,3 +1,11 @@
+---
+title: "Aguvis · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-aguvis/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # Aguvis
 
 采用统一操作表示的视觉 GUI 智能体模型。

@@ -1,3 +1,11 @@
+---
+title: "Mind2Web-cleaned-lite-value-model-w-cot-test | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9e2c14b01faf8d48b4e9/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Mind2Web-cleaned-lite-value-model-w-cot-test
 
 A Mind2Web dataset of 6125 web-action records with element candidates, accessibility trees, prior actions, rationales, and value scores.

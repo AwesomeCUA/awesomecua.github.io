@@ -1,3 +1,11 @@
+---
+title: "pptxgym (CUA-Gym.pptx) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lyt060814-cua-gym-pptx/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # pptxgym (CUA-Gym.pptx)
 
 从真实 PowerPoint 演示文稿中合成可验证的计算机使用强化学习任务，并对其评分。

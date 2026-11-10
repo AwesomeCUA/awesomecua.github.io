@@ -1,3 +1,11 @@
+---
+title: "QAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rishabhcli-qagent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # QAgent
 
 QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI, MCP server, and isolated Git worktree execution.

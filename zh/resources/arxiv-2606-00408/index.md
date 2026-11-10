@@ -1,3 +1,11 @@
+---
+title: "Masking Stale Observations Helps Search… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-00408/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism
 
 研究长期搜索智能体何时能通过遮蔽较早检索到的网页来管理上下文，并利用离线及实时网页搜索基准和页面重访分析开展研究。
@@ -27,6 +35,18 @@ Haoxiang Zhang, Qixin Xu, Zhuofeng Li, Lei Zhang, Pengcheng Jiang, Yu Zhang, Jul
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-00408/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-00408/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_00408,
+  title = {{Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism}},
+  author = {{Haoxiang Zhang} and {Qixin Xu} and {Zhuofeng Li} and {Lei Zhang} and {Pengcheng Jiang} and {Yu Zhang} and {Julian McAuley}},
+  year = {2026},
+  eprint = {2606.00408v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.00408v1},
+  note = {First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T22:51:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

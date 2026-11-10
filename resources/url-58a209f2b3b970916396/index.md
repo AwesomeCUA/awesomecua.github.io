@@ -1,3 +1,11 @@
+---
+title: "AgentSynth tasks and trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-58a209f2b3b970916396/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # AgentSynth tasks and trajectories
 
 Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.

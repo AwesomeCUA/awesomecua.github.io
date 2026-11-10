@@ -1,3 +1,11 @@
+---
+title: "Self-RAG: Learning to Retrieve, Generate, and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-11511/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
 
 Bibliographic record for Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-11511/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-11511/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_11511,
+  title = {{Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection}},
+  author = {{Akari Asai} and {Zeqiu Wu} and {Yizhong Wang} and {Avirup Sil} and {Hannaneh Hajishirzi}},
+  year = {2023},
+  eprint = {2310.11511v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.11511v1},
+  note = {First published: 2023-10-17; Recorded arXiv version: v1; Recorded version updated: 2023-10-17T18:18:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

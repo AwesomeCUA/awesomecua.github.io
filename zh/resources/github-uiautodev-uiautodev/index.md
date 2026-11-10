@@ -1,3 +1,11 @@
+---
+title: "uiautodev · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-uiautodev-uiautodev/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # uiautodev
 
 一个面向 Android、iOS 和鸿蒙（HarmonyOS）的移动设备控制与 UI 自动化工具，提供桌面应用和服务端；本仓库包含下载并运行服务端二进制的 npm CLI。

@@ -1,3 +1,11 @@
+---
+title: "gui-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-waynchi-gui-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # gui-agent
 
 Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.

@@ -1,3 +1,11 @@
+---
+title: "Kyros Local Desktop Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rhymezip-kyros-local-desktop-assistant/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Kyros Local Desktop Assistant
 
 Private, voice-first local Linux desktop assistant for hands-free application and system control.

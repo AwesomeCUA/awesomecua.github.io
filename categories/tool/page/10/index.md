@@ -1,10 +1,17 @@
+---
+title: "Computer-use agent tools, page 10 | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/page/10/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools, page 10
 
 HTML page: https://awesomecua.com/categories/tool/page/10/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
-- [MobileMCP](https://awesomecua.com/resources/github-magi-labs-mobilemcp/)
 - [mobius-browser-guard](https://awesomecua.com/resources/github-mobius-style-mobius-browser-guard/)
 - [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/)
 - [native-devtools-mcp](https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [ReactSentinel](https://awesomecua.com/resources/github-edgarbnt-reactsentinel/)
 - [recast](https://awesomecua.com/resources/github-yagna-1-recast/)
 - [record-and-replay-skill](https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/)
+- [reflex-computer-use](https://awesomecua.com/resources/github-8itlab-reflex-cu/)

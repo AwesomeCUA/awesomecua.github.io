@@ -1,3 +1,11 @@
+---
+title: "Kimi-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-moonshotai-kimi-vl/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Kimi-VL
 
 Moonshot AI open-weight MoE vision-language model with 2.8B activated LLM parameters and a native-resolution encoder; its README reports OSWorld, ScreenSpot-Pro and OSWorld-G results for OS-agent use.

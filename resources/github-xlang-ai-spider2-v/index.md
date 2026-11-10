@@ -1,3 +1,11 @@
+---
+title: "Spider2-V | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-spider2-v/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # Spider2-V
 
 Visual agent evaluation on data-science and engineering workflows.

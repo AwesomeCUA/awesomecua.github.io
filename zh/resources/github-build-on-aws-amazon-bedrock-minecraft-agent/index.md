@@ -1,3 +1,11 @@
+---
+title: "Amazon Bedrock Minecraft Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Amazon Bedrock Minecraft Agent
 
 基于 Amazon Bedrock 和 Mineflayer 构建的 TypeScript 智能体，可将自然语言指令转化为 Minecraft 游戏内动作。

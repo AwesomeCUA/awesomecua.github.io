@@ -1,3 +1,11 @@
+---
+title: "ChilleD/WildAWM · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-eb8af3be965f5c0fde6a/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # ChilleD/WildAWM
 
 WildAWM 提供 341 项跨命令行、MCP 和网页界面的计算机使用任务，包含固定的任务环境以及供 Harbor 运行的训练集和测试集。

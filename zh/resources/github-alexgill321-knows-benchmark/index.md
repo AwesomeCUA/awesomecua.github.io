@@ -1,3 +1,11 @@
+---
+title: "KNOWS Benchmark · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alexgill321-knows-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # KNOWS Benchmark
 
 KNOWS 在涵盖 Google Docs、Sheets 和 Slides 的真实、开放式 Google Workspace 任务上评测网页智能体。

@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-4B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2c30792aed2821284db6/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-4B-Instruct
 
 Qwen3-VL-4B-Instruct is a vision-language checkpoint whose card describes recognizing interface elements and using tools to operate PC and mobile GUIs.

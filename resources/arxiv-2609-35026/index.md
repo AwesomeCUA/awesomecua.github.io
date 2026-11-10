@@ -1,3 +1,11 @@
+---
+title: "WebPageBench: Event-Level Verification and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35026/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WebPageBench: Event-Level Verification and Controlled UI-Variant Generation for Web Agents
 
 Verifies web tasks through typed interface events and generates controlled UI variations while preserving instructions and success conditions.
@@ -26,6 +34,18 @@ Anton Emelyanov, Maria Tikhonova, Zaven Martirosian, Sergei Averkiev, Alena Feno
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-35026/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-35026/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35026,
+  title = {{WebPageBench: Event-Level Verification and Controlled UI-Variant Generation for Web Agents}},
+  author = {{Anton Emelyanov} and {Maria Tikhonova} and {Zaven Martirosian} and {Sergei Averkiev} and {Alena Fenogenova}},
+  year = {2026},
+  eprint = {2609.35026v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35026v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T12:24:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

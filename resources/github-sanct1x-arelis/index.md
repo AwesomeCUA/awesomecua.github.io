@@ -1,3 +1,11 @@
+---
+title: "Arelis | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sanct1x-arelis/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Arelis
 
 Locally hosted Windows personal AI research and desktop assistant powered by Ollama with zero cloud dependencies.

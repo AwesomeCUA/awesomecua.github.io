@@ -1,3 +1,11 @@
+---
+title: "Flash-Searcher: Fast and Effective Web Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-25301/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution
 
 Introduces Flash-Searcher, a parallel agent framework that organizes dependent subtasks as a graph and runs independent paths concurrently; it is evaluated on deep-search benchmarks.
@@ -26,6 +34,18 @@ Tianrui Qin, Qianben Chen, Sinuo Wang, He Xing, King Zhu, He Zhu, Dingfeng Shi, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-25301/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-25301/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_25301,
+  title = {{Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution}},
+  author = {{Tianrui Qin} and {Qianben Chen} and {Sinuo Wang} and {He Xing} and {King Zhu} and {He Zhu} and {Dingfeng Shi} and {Xinxin Liu} and {Ge Zhang} and {Jiaheng Liu} and {Yuchen Eleanor Jiang} and {Xitong Gao} and {Wangchunshu Zhou}},
+  year = {2025},
+  eprint = {2509.25301v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.25301v1},
+  note = {First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T17:39:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

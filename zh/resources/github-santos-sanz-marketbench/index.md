@@ -1,3 +1,11 @@
+---
+title: "MarketBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-santos-sanz-marketbench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # MarketBench
 
 MarketBench 是可复现的 WebMCP 评测基准，用于评测浏览器智能体在模拟市场中跨数周的经济决策。

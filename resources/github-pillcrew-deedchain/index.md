@@ -1,3 +1,11 @@
+---
+title: "deedchain | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pillcrew-deedchain/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # deedchain
 
 deedchain benchmarks report fidelity and hallucination rates of browser agents against recorded ground-truth web execution traces.

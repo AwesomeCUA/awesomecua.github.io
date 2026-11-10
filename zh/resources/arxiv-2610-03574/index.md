@@ -1,3 +1,11 @@
+---
+title: "HyperBrowseComp: A Multilingual and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-03574/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents
 
 提出 HyperBrowseComp 多语言基准，要求浏览智能体串联开放网络中视频、扫描件、图像和地图等来源的证据。
@@ -27,6 +35,18 @@ Alham Fikri Aji, Faiz Rizki Ramadhan, Zayd M. K. Zuhri, Seung Hun Eddie Han, Rya
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-03574/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-03574/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03574,
+  title = {{HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents}},
+  author = {{Alham Fikri Aji} and {Faiz Rizki Ramadhan} and {Zayd M. K. Zuhri} and {Seung Hun Eddie Han} and {Ryandito Diandaru} and {Qinrong Cui} and {Jan Christian Blaise Cruz} and {Badrinath Chandana} and {Peerawat Chomphooyod} and {Ahmed Attia} and {Jonibek Mansurov} and {Emilio Villa-Cueva} and {Canh Duong Nguyen} and {Imran Turganov} and {Minghao Wu} and {Peerat Limkonchotiwat} and {Irina Nikishina}},
+  year = {2026},
+  eprint = {2610.03574v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03574v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T16:48:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

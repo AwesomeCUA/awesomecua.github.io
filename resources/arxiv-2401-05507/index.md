@@ -1,3 +1,11 @@
+---
+title: "InfiAgent-DABench: Evaluating Agents on Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-05507/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks
 
 Status: excluded from the active CUA catalog after scope review.

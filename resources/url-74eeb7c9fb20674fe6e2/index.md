@@ -1,3 +1,11 @@
+---
+title: "OpenAI CUA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # OpenAI CUA
 
 Computer-using model introduced with the Operator research preview.

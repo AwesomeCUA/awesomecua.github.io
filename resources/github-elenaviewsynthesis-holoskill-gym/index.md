@@ -1,3 +1,11 @@
+---
+title: "HoloSkill Gym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # HoloSkill Gym
 
 Gym environment and optimization framework for self-evolving CLI and computer-use agent skills.

@@ -1,3 +1,11 @@
+---
+title: "Browser Use Box (bux) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-bux/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Browser Use Box (bux)
 
 Browser Use Box (bux) 将自主运行的 Claude Code 和 Browser Use 网页智能体打包，可在自行托管的 Linux 服务器上全天候运行。

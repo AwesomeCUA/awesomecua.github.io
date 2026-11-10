@@ -1,3 +1,11 @@
+---
+title: "Cognitive Kernel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencent-cogkernel/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # Cognitive Kernel
 
 Cognitive Kernel is a dockerized agent system whose fine-tuned policy model drives a Playwright browser by clicking, typing and scrolling, alongside file handling and long-term memory.

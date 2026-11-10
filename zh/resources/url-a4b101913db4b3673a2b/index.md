@@ -1,3 +1,11 @@
+---
+title: "SeeClick-aitw · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a4b101913db4b3673a2b/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # SeeClick-aitw
 
 在 Android in the Wild（AITW）片段上微调的 SeeClick 视觉 GUI 智能体检查点，使用 SeeClick 智能体任务脚本以动作匹配方式在 AITW 测试集上评测。

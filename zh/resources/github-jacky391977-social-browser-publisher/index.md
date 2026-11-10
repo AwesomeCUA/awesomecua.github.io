@@ -1,3 +1,11 @@
+---
+title: "Social Browser Publisher for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jacky391977-social-browser-publisher/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Social Browser Publisher for Codex
 
 一项 Codex 技能，使用已登录的 Chrome 会话预览并发布 Instagram、Facebook 和 Threads 帖子。

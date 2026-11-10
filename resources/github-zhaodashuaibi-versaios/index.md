@@ -1,3 +1,11 @@
+---
+title: "VersaiOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhaodashuaibi-versaios/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # VersaiOS
 
 VersaiOS uses a vision-language model to locate targets on an iPhone screen and an ESP32 Bluetooth mouse to execute clicks from natural-language instructions.

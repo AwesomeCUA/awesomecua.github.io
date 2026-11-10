@@ -1,3 +1,11 @@
+---
+title: "hightemp MCP Browser Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hightemp-mcp-browser-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # hightemp MCP Browser Control
 
 本地 Go Model Context Protocol 服务器和 Manifest V3 扩展程序，用于控制已打开的 Chrome 或 Firefox 标签页。

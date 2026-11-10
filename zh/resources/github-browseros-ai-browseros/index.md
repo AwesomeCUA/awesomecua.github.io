@@ -1,3 +1,11 @@
+---
+title: "BrowserOS / BrowserOS neo · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browseros-ai-browseros/
+updated: 2026-10-17
+type: infrastructure
+lang: zh-CN
+---
+
 # BrowserOS / BrowserOS neo
 
 基于 Chromium 的浏览器实现，支持外部智能体控制和内置助手工作流，并提供会话查看与回放功能。

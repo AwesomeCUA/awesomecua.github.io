@@ -1,3 +1,11 @@
+---
+title: "c-vision (DSH Vision & Computer Use Plugin) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cczzyy-cn-c-vision/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # c-vision (DSH Vision & Computer Use Plugin)
 
 Autonomous vision and computer-use plugin for DeepSeek Harness providing screen capture, OCR, window listing, and GUI input.

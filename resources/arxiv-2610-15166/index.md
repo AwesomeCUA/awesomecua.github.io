@@ -1,3 +1,11 @@
+---
+title: "ExeWorldBench: Benchmarking Code-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-15166/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling
 
 Bibliographic record for ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinge Peng, Zhen Fang, Ruibing Wang, Yongxuan Lv, Haodong Li, Guohui Zhang, Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15166/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15166/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15166,
+  title = {{ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling}},
+  author = {{Xinge Peng} and {Zhen Fang} and {Ruibing Wang} and {Yongxuan Lv} and {Haodong Li} and {Guohui Zhang} and {Xiaoxiao Ma} and {Yiting Lu} and {Lin Chen} and {Zehui Chen} and {Jie Huang} and {Feng Zhao}},
+  year = {2026},
+  eprint = {2610.15166v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15166v2},
+  note = {First published: 2026-10-10; Recorded arXiv version: v2; Recorded version updated: 2026-10-31T15:24:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

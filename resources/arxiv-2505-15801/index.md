@@ -1,3 +1,11 @@
+---
+title: "VerifyBench: Benchmarking Reference-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-15801/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

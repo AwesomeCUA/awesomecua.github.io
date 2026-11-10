@@ -1,3 +1,11 @@
+---
+title: "Improved Computation-Communication Trade-Off… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-06118/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Improved Computation-Communication Trade-Off for Coded Distributed Computing using Linear Dependence of Intermediate Values
 
 Status: excluded from the active CUA catalog after scope review.

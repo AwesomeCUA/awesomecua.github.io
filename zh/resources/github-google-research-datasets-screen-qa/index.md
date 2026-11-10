@@ -1,3 +1,11 @@
+---
+title: "ScreenQA · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-datasets-screen-qa/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # ScreenQA
 
 基于 35,000 张 Rico 移动端截图的约 86,000 组人工编写问答对，另有 ScreenQA Short 和 ComplexQA 变体，用于评测屏幕内容理解。

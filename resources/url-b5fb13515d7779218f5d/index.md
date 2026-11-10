@@ -1,3 +1,11 @@
+---
+title: "microsoft/OmniParser | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b5fb13515d7779218f5d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # microsoft/OmniParser
 
 Released screen-parsing weights that detect actionable UI regions and caption icons in screenshots, supporting structured screen input for GUI agents.

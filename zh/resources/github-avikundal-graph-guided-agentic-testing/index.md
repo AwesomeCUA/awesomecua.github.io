@@ -1,3 +1,11 @@
+---
+title: "Graph-Guided Agentic Testing · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-avikundal-graph-guided-agentic-testing/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Graph-Guided Agentic Testing
 
 使用浏览器智能体探索网页结账流程，将其构建为 Neo4j 状态图，并生成由图引导的端到端测试。

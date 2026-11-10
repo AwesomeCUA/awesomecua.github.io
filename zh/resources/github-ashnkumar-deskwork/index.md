@@ -1,3 +1,11 @@
+---
+title: "deskwork · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ashnkumar-deskwork/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # deskwork
 
 deskwork 通过检索领域文档增强 Claude Computer Use，以执行基于合规要求的桌面和浏览器工作流。

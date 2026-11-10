@@ -1,3 +1,11 @@
+---
+title: "CogCoM: A Visual Language Model with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-04236/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning
 
 Bibliographic record for CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ji Qi, Ming Ding, Weihan Wang, Yushi Bai, Qingsong Lv, Wenyi Hong, Bin Xu, Lei H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-04236/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-04236/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_04236,
+  title = {{CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning}},
+  author = {{Ji Qi} and {Ming Ding} and {Weihan Wang} and {Yushi Bai} and {Qingsong Lv} and {Wenyi Hong} and {Bin Xu} and {Lei Hou} and {Juanzi Li} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2024},
+  eprint = {2402.04236v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.04236v3},
+  note = {First published: 2024-02-06; Recorded arXiv version: v3; Recorded version updated: 2025-03-02T09:39:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

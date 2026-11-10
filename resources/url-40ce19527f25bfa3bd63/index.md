@@ -1,3 +1,11 @@
+---
+title: "GUI-World data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-World data
 
 Hub release of GUI-World: GUI screen-recording videos from six scenarios (Android, iOS, website, software, multi-app and XR) with train and benchmark annotation JSONL for GUI-oriented video question answering.

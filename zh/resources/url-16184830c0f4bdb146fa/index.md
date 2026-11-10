@@ -1,3 +1,11 @@
+---
+title: "UI-S1 released training examples · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-16184830c0f4bdb146fa/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UI-S1 released training examples
 
 UI-S1 移动端训练数据中公开的示例子集，以 JSONL 标注和 Parquet 图像形式打包。

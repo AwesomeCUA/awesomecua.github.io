@@ -1,3 +1,11 @@
+---
+title: "appium-ios-device | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium-ios-device/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # appium-ios-device
 
 A deprecated Node.js device-control library that lets Appium communicate with iOS devices and access device services and XCTest.

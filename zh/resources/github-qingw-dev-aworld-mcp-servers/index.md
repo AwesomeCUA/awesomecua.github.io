@@ -1,3 +1,11 @@
+---
+title: "aworld-mcp-servers · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qingw-dev-aworld-mcp-servers/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # aworld-mcp-servers
 
 这是一组服务端点，其中的 Browser Use API 可执行自然语言描述的网页任务。其浏览器端点可以返回执行轨迹。

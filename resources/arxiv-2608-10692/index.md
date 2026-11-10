@@ -1,3 +1,11 @@
+---
+title: "SPIEval: Evaluating Large Language Models as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-10692/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information
 
 Bibliographic record for SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Junjie Ye, Zhuohui Sheng, Shaofan Liu, Yulun Zhu, Wenjie Fu, Dingwei Zhu, Ming Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-10692/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-10692/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_10692,
+  title = {{SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information}},
+  author = {{Junjie Ye} and {Zhuohui Sheng} and {Shaofan Liu} and {Yulun Zhu} and {Wenjie Fu} and {Dingwei Zhu} and {Ming Zhang} and {Yujiong Shen} and {Weichao Wang} and {Xin Zhao} and {Shihan Dou} and {Tao Gui} and {Qi Zhang} and {Xuanjing Huang} and {Pluto Zhou}},
+  year = {2026},
+  eprint = {2608.10692v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.10692v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T09:14:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

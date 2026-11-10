@@ -1,3 +1,11 @@
+---
+title: "WebEvolver code component | AwesomeCUA"
+url: https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # WebEvolver code component
 
 Component for web-agent trajectory collection, supervised-data preparation and world-model-based trajectory synthesis.

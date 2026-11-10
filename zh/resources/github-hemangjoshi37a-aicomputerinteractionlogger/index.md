@@ -1,3 +1,11 @@
+---
+title: "AI Computer Interaction Logger · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hemangjoshi37a-aicomputerinteractionlogger/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AI Computer Interaction Logger
 
 AI Computer Interaction Logger 同步记录屏幕视频、活动窗口元数据以及鼠标和键盘事件，用于 CUA 模仿学习。

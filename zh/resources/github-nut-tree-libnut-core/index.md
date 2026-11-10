@@ -1,3 +1,11 @@
+---
+title: "libnut-core · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nut-tree-libnut-core/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # libnut-core
 
 libnut-core 提供原生 C/C++ 跨平台鼠标、键盘和屏幕钩子，是 nut.js 桌面自动化框架的底层组件。

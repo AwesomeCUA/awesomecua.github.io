@@ -1,3 +1,11 @@
+---
+title: "OmegaUse-SOP: SOP Engineering for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-02149/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations
 
 OmegaUse-SOP converts expert GUI demonstrations into configurable procedures and refines them with domain rules and human input. It records, abstracts, grounds and verifies live execution, with a case study of photovoltaic simulation workflows in PVsyst 7.2.
@@ -26,6 +34,18 @@ Yixiong Xiao, Lang An, Hucheng Yang, Pinxue Ma, Yongquan Chen, Jingjia Cao, Yusa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-02149/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-02149/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02149,
+  title = {{OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations}},
+  author = {{Yixiong Xiao} and {Lang An} and {Hucheng Yang} and {Pinxue Ma} and {Yongquan Chen} and {Jingjia Cao} and {Yusai Zhao} and {Ting Wang} and {Ting Liu} and {Siqi Bao} and {Jingbo Zhou} and {Hua Wu}},
+  year = {2026},
+  eprint = {2609.02149v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02149v3},
+  note = {First published: 2026-09-02; Recorded arXiv version: v3; Recorded version updated: 2026-09-10T15:52:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

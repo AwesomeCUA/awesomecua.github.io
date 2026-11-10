@@ -1,3 +1,11 @@
+---
+title: "AndroidFlux: Evaluating and Reward Modeling… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34384/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AndroidFlux: Evaluating and Reward Modeling Failure Recovery Capabilities in Mobile Use Multimodal Agents
 
 Introduces AndroidFlux, a mobile-agent failure-recovery benchmark that restores trajectories to error checkpoints, plus a reward-modeling benchmark and offline RL dataset.
@@ -26,6 +34,18 @@ Gyubeum Lim, Yemo Koo, Ghunwoo Jang, Zsolt Kira
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34384/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34384/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34384,
+  title = {{AndroidFlux: Evaluating and Reward Modeling Failure Recovery Capabilities in Mobile Use Multimodal Agents}},
+  author = {{Gyubeum Lim} and {Yemo Koo} and {Ghunwoo Jang} and {Zsolt Kira}},
+  year = {2026},
+  eprint = {2610.34384v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34384v1},
+  note = {First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T15:39:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

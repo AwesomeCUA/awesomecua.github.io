@@ -1,3 +1,11 @@
+---
+title: "AutoDoubao | AwesomeCUA"
+url: https://awesomecua.com/resources/github-linxxcat000-autodoubao/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AutoDoubao
 
 Local Windows MCP bridge that automates logged-in Doubao web image generation and asset downloading for Codex and Hermes Agent.

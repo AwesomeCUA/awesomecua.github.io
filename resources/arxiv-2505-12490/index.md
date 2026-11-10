@@ -1,3 +1,11 @@
+---
+title: "Improving Google A2A Protocol: Protecting… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12490/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Improving Google A2A Protocol: Protecting Sensitive Data and Mitigating Unintended Harms in Multi-Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

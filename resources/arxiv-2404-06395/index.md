@@ -1,3 +1,11 @@
+---
+title: "MiniCPM: Unveiling the Potential of Small… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-06395/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies
 
 Status: excluded from the active CUA catalog after scope review.

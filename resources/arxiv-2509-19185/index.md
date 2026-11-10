@@ -1,3 +1,11 @@
+---
+title: "An Empirical Study of Testing Practices in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-19185/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications
 
 Status: excluded from the active CUA catalog after scope review.

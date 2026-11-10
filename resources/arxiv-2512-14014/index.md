@@ -1,3 +1,11 @@
+---
+title: "MobileWorldBench: Towards Semantic World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-14014/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
 
 Evaluates semantic world models for mobile interfaces and studies natural-language state transitions as a tool for agent planning.
@@ -26,6 +34,18 @@ Shufan Li, Konstantinos Kallidromitis, Akash Gokul, Yusuke Kato, Kazuki Kozuka, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-14014/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-14014/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_14014,
+  title = {{MobileWorldBench: Towards Semantic World Modeling For Mobile Agents}},
+  author = {{Shufan Li} and {Konstantinos Kallidromitis} and {Akash Gokul} and {Yusuke Kato} and {Kazuki Kozuka} and {Aditya Grover}},
+  year = {2025},
+  eprint = {2512.14014v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.14014v2},
+  note = {First published: 2025-12-16; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T23:06:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

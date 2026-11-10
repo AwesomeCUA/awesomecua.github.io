@@ -1,3 +1,11 @@
+---
+title: "LegacyBridge · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-peterhaupt-legacybridge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LegacyBridge
 
 基于本地开放权重 LLM 的智能体框架，用于在没有 API 的情况下自动操作旧版企业 ERP 和桌面业务软件。

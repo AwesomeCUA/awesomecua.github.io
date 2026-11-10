@@ -1,3 +1,11 @@
+---
+title: "Project Tendril · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gadgethd-project-tendril/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Project Tendril
 
 面向自主 AI 智能体的本地优先 Chromium 浏览器和网页研究运行环境。

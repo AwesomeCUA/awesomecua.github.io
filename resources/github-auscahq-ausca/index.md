@@ -1,3 +1,11 @@
+---
+title: "Ausca MCP Services | AwesomeCUA"
+url: https://awesomecua.com/resources/github-auscahq-ausca/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Ausca MCP Services
 
 Model Context Protocol services and APIs for AI agents covering document OCR and browser data extraction.

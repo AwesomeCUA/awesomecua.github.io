@@ -1,3 +1,11 @@
+---
+title: "VenusBench-Mobile: A Challenging and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-06182/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
 
 提出移动 GUI 智能体在线基准 VenusBench-Mobile，以用户意图设计任务，并用能力标注分析智能体行为与失败原因。
@@ -27,6 +35,18 @@ Yichen Gong, Zhuohan Cai, Sunhao Dai, Yuqi Zhou, Zhangxuan Gu, Changhua Meng, Sh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-06182/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-06182/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_06182,
+  title = {{VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics}},
+  author = {{Yichen Gong} and {Zhuohan Cai} and {Sunhao Dai} and {Yuqi Zhou} and {Zhangxuan Gu} and {Changhua Meng} and {Shuheng Shen}},
+  year = {2026},
+  eprint = {2604.06182v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.06182v1},
+  note = {First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T18:54:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

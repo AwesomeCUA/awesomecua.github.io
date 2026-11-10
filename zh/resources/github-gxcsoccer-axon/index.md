@@ -1,3 +1,11 @@
+---
+title: "Axon · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gxcsoccer-axon/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Axon
 
 macOS 计算机使用自动化服务器和 CLI，提供 Accessibility API 元素控制、AppleScript/JXA 执行和截图功能。

@@ -1,3 +1,11 @@
+---
+title: "Voice Mirror · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-contextmirror-voice-mirror/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Voice Mirror
 
 Voice Mirror 是 Tauri 桌面 IDE，供语音和多模态智能体检查、点击和实时编辑已渲染的网页应用。

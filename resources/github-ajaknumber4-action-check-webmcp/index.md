@@ -1,3 +1,11 @@
+---
+title: "Action Check WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Action Check WebMCP
 
 External state-verification benchmark testing whether WebMCP browser tools actually produced their claimed DOM and backend effects.

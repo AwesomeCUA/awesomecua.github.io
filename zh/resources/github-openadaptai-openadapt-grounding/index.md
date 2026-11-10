@@ -1,3 +1,11 @@
+---
+title: "openadapt-grounding · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-grounding/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # openadapt-grounding
 
 已归档的 GUI 元素定位工具，通过 OCR 文本锚定目标并跨帧稳定检测结果，也支持可选的模型定位后备方案。

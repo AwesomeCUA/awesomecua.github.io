@@ -1,3 +1,11 @@
+---
+title: "Pilos Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pilos-ai-agents/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Pilos Agents
 
 Pilos Agents is a desktop application for orchestrating multi-agent Claude Code teams, visual workflows, and MCP server integrations.

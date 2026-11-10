@@ -1,3 +1,11 @@
+---
+title: "Claude Computer Use Demo for macOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pallavag-claude-computer-use-macos/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Claude Computer Use Demo for macOS
 
 Runs Anthropic Claude Computer Use directly on macOS without Docker by translating tool calls into native macOS screen capture and input actions.

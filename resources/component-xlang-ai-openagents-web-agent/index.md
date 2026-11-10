@@ -1,3 +1,11 @@
+---
+title: "OpenAgents Web Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/
+updated: 2026-10-17
+type: agent
+lang: en
+---
+
 # OpenAgents Web Agent
 
 The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.

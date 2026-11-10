@@ -1,3 +1,11 @@
+---
+title: "AgentOS: From Application Silos to a Natural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-08938/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem
 
 Proposes Personal Agent Operating System (AgentOS), with a natural language or voice portal and an Agent Kernel that coordinates agents and tasks in place of a GUI desktop.
@@ -26,6 +34,18 @@ Rui Liu, Tao Zhe, Dongjie Wang, Zijun Yao, Kunpeng Liu, Yanjie Fu, Huan Liu, Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-08938/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-08938/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_08938,
+  title = {{AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem}},
+  author = {{Rui Liu} and {Tao Zhe} and {Dongjie Wang} and {Zijun Yao} and {Kunpeng Liu} and {Yanjie Fu} and {Huan Liu} and {Jian Pei}},
+  year = {2026},
+  eprint = {2603.08938v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.08938v2},
+  note = {First published: 2026-03-09; Recorded arXiv version: v2; Recorded version updated: 2026-03-11T20:38:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

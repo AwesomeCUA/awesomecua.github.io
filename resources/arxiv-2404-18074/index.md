@@ -1,3 +1,11 @@
+---
+title: "MMAC-Copilot: Multi-modal Agent Collaboration… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-18074/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MMAC-Copilot: Multi-modal Agent Collaboration Operating Copilot
 
 Introduces MMAC-Copilot, which coordinates agents with different expertise to operate PC applications. VIBench evaluates visual interaction with applications that lack usable APIs, spanning office, recreation and game tasks.
@@ -26,6 +34,18 @@ Zirui Song, Yaohang Li, Meng Fang, Yanda Li, Zhenhao Chen, Zecheng Shi, Yuan Hua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-18074/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-18074/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_18074,
+  title = {{MMAC-Copilot: Multi-modal Agent Collaboration Operating Copilot}},
+  author = {{Zirui Song} and {Yaohang Li} and {Meng Fang} and {Yanda Li} and {Zhenhao Chen} and {Zecheng Shi} and {Yuan Huang} and {Xiuying Chen} and {Ling Chen}},
+  year = {2024},
+  eprint = {2404.18074v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.18074v3},
+  note = {First published: 2024-04-28; Recorded arXiv version: v3; Recorded version updated: 2025-03-23T13:04:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Rex-Omni (huggingface.co/IDEA-Research/Rex-Omn… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-37880875f816f46f6dfe/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Rex-Omni
 
 The 3B-parameter Rex-Omni checkpoint, fine-tuned from Qwen2.5-VL-3B-Instruct, that casts detection, pointing, OCR, keypoints and GUI grounding as next-point prediction; it loads with transformers or vLLM.

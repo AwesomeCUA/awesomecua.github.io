@@ -1,3 +1,11 @@
+---
+title: "Object Detection for Graphical User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2008-05132/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?
 
 Compares seven traditional and learned GUI element detectors on more than 50,000 interface images. The analysis motivates a coarse-to-fine non-text detector combined with a learned text detector to address GUI-specific localization requirements.
@@ -26,6 +34,18 @@ Jieshan Chen, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, G
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2008-05132/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2008-05132/citation.csl.json
+
+```bibtex
+@misc{arxiv_2008_05132,
+  title = {{Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?}},
+  author = {{Jieshan Chen} and {Mulong Xie} and {Zhenchang Xing} and {Chunyang Chen} and {Xiwei Xu} and {Liming Zhu} and {Guoqiang Li}},
+  year = {2020},
+  eprint = {2008.05132v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2008.05132v2},
+  note = {First published: 2020-08-12; Recorded arXiv version: v2; Recorded version updated: 2020-09-07T12:57:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

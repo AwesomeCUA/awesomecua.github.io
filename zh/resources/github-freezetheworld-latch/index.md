@@ -1,3 +1,11 @@
+---
+title: "Latch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-freezetheworld-latch/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Latch
 
 将本地编程智能体直接接入用户已登录的真实 Chrome 浏览器。

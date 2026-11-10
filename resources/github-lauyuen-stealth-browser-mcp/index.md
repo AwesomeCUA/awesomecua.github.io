@@ -1,3 +1,11 @@
+---
+title: "lauyuen stealth-browser-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lauyuen-stealth-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # lauyuen stealth-browser-mcp
 
 Model Context Protocol server providing AI assistants with a stealth-configured Chrome browser.

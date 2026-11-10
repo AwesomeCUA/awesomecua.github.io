@@ -1,3 +1,11 @@
+---
+title: "FunUI-Benchmark · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-92241e51e909ea9ca564/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # FunUI-Benchmark
 
 FunUI 是一个中英双语基准，基于 2,150 张中文和 9,347 张英文 Android 屏幕，测试 UI 定位、UI 指代、屏幕问答和屏幕摘要。

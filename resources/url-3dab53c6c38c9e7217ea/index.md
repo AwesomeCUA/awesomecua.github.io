@@ -1,3 +1,11 @@
+---
+title: "ShowUI-π training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # ShowUI-π training data
 
 Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, presentation, handwriting and other interface tasks.

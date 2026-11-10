@@ -1,3 +1,11 @@
+---
+title: "ecobrowser (ai-browser) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-haidaresber-ai-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ecobrowser (ai-browser)
 
 面向 AI 的浏览器框架，具备结构化页面感知、节省 token 的状态表示和确定性动作工具。

@@ -1,3 +1,11 @@
+---
+title: "AutoCoA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-adam-bjtu-autocoa/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoCoA
 
 AutoCoA internalizes Chain-of-Action generation into reasoning models via step-level SFT, reinforcement learning, and simulated tool world models.

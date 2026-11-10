@@ -1,3 +1,11 @@
+---
+title: "GenPark SPA Settlement Waiter Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GenPark SPA Settlement Waiter Skill
 
 智能体技能，用于在执行动作前等待单页应用的网络空闲和 DOM 变更完成。

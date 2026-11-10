@@ -1,3 +1,11 @@
+---
+title: "openadapt-evals · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-evals/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # openadapt-evals
 
 openadapt-evals 使用可复现的评测器，在 Windows Agent Arena 等评测基准上为 GUI 智能体和编译后的工作流评分。

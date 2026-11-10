@@ -1,3 +1,11 @@
+---
+title: "Anthropic Computer Use for Mac | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deedy-mac-computer-use/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Anthropic Computer Use for Mac
 
 Adapts the Anthropic Claude Computer Use reference agent to control a native macOS desktop using PyAutoGUI and cliclick.

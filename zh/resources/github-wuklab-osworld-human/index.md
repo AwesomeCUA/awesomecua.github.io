@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Human · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wuklab-osworld-human/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorld-Human
 
 提供人类参考轨迹和评分代码，用于衡量计算机使用智能体完成 OSWorld 任务时的操作效率。

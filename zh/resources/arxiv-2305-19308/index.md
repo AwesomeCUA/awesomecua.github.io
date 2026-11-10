@@ -1,3 +1,11 @@
+---
+title: "SheetCopilot: Bringing Software… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2305-19308/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models
 
 提出 SheetCopilot 智能体，通过原子级虚拟 API 操作电子表格软件，并提供包含 221 项任务的电子表格操作基准。
@@ -27,6 +35,18 @@ Hongxin Li, Jingran Su, Yuntao Chen, Qing Li, Zhaoxiang Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2305-19308/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2305-19308/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_19308,
+  title = {{SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models}},
+  author = {{Hongxin Li} and {Jingran Su} and {Yuntao Chen} and {Qing Li} and {Zhaoxiang Zhang}},
+  year = {2023},
+  eprint = {2305.19308v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.19308v2},
+  note = {First published: 2023-05-30; Recorded arXiv version: v2; Recorded version updated: 2023-10-30T06:36:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

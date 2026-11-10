@@ -1,3 +1,11 @@
+---
+title: "MoECodec: Image Compression for joint human… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-21033/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MoECodec: Image Compression for joint human and machine perception via Mixture-of-Experts
 
 Status: excluded from the active CUA catalog after scope review.

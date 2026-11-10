@@ -1,3 +1,11 @@
+---
+title: "DeskForge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saidgurbuz-deskforge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # DeskForge
 
 DeskForge extracts dense step-level supervision signals from desktop execution environments to train and verify computer-use agents.

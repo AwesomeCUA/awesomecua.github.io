@@ -1,3 +1,11 @@
+---
+title: "Replay (Teach-by-Demonstration) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-misb74-replay/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Replay (Teach-by-Demonstration)
 
 将人类在真实桌面和网页工作中的屏幕演示转化为可验证、可重复的 AI 智能体工作流。

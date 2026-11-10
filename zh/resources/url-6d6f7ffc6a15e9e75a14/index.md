@@ -1,3 +1,11 @@
+---
+title: "SE-GUI-3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6d6f7ffc6a15e9e75a14/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # SE-GUI-3B
 
 基于 Qwen2.5-VL 3B 骨干的 GUI 定位模型，使用 3,018 条精选样本进行自进化强化微调训练；作者报告其在 ScreenSpot-Pro 上得分 35.9。

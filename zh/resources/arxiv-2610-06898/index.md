@@ -1,3 +1,11 @@
+---
+title: "DIBench: Benchmarking Decision Integrity… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-06898/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections
 
 通过成对的正常与注入内容的决策状态及决策完整性指标，评估欺骗性 UI 内容是否使移动端智能体偏离符合指令的选择。
@@ -27,6 +35,18 @@ Li Hu, Kanghua Mo, Yingbin Jin, Qingqing Ye, Haibo Hu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-06898/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-06898/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_06898,
+  title = {{DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections}},
+  author = {{Li Hu} and {Kanghua Mo} and {Yingbin Jin} and {Qingqing Ye} and {Haibo Hu}},
+  year = {2026},
+  eprint = {2610.06898v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06898v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T03:03:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

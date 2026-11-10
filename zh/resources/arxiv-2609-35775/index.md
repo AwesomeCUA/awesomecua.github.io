@@ -1,3 +1,11 @@
+---
+title: "SPECTRA: On-Device Cognitive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-35775/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous Edge-Cloud GUI Grounding
 
 提出 SPECTRA，通过视觉扰动和轨迹分析判断设备端 GUI 元素定位任务何时需要请求云端模型。
@@ -27,6 +35,18 @@ Zhan Qu, Hui Zang, Ran Chen, Tao Wang, Shengyu Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-35775/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-35775/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35775,
+  title = {{SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous Edge-Cloud GUI Grounding}},
+  author = {{Zhan Qu} and {Hui Zang} and {Ran Chen} and {Tao Wang} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2609.35775v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35775v1},
+  note = {First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T02:08:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

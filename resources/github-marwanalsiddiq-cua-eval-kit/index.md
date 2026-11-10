@@ -1,3 +1,11 @@
+---
+title: "CUA Eval Kit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # CUA Eval Kit
 
 Controlled browser fixture and 10-task computer-use evaluation suite for grading web agent accuracy and step efficiency.

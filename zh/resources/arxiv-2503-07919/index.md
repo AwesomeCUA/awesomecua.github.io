@@ -1,3 +1,11 @@
+---
+title: "BEARCUBS: A benchmark for computer-using… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-07919/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # BEARCUBS: A benchmark for computer-using web agents
 
 BEARCUBS 提供 111 道答案简短的实时网页信息检索题，以及经人工核验的浏览轨迹；任务涉及视频理解和交互式 3D 内容导航等多模态计算机操作。
@@ -27,6 +35,18 @@ Yixiao Song, Katherine Thai, Chau Minh Pham, Yapei Chang, Mazin Nadaf, Mohit Iyy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-07919/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-07919/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_07919,
+  title = {{BEARCUBS: A benchmark for computer-using web agents}},
+  author = {{Yixiao Song} and {Katherine Thai} and {Chau Minh Pham} and {Yapei Chang} and {Mazin Nadaf} and {Mohit Iyyer}},
+  year = {2025},
+  eprint = {2503.07919v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.07919v3},
+  note = {First published: 2025-03-10; Recorded arXiv version: v3; Recorded version updated: 2025-07-24T17:45:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Mobilewright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobile-next-mobilewright/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Mobilewright
 
 Mobilewright automates iOS and Android devices through semantic locators and actions. It exposes accessibility trees that agents can use to inspect and operate mobile apps.

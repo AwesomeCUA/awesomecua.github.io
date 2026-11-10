@@ -1,3 +1,11 @@
+---
+title: "InSTA 150k Tasks (v3) · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a80c7330dbfd4f897693/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # InSTA 150k Tasks (v3)
 
 InSTA 项目约 15 万项网页导航任务，每项提供网站域名、指令、建议步骤和成功标准，训练集与测试集取自不同网站。

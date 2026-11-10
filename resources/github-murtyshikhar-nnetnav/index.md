@@ -1,3 +1,11 @@
+---
+title: "NNetNav | AwesomeCUA"
+url: https://awesomecua.com/resources/github-murtyshikhar-nnetnav/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # NNetNav
 
 Collects and labels browser-exploration trajectories for agent training, with code for data processing, fine-tuning, and web evaluation.

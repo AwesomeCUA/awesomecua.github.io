@@ -1,3 +1,11 @@
+---
+title: "PixelPrune: Pixel-Level Adaptive Visual Token… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-00886/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding
 
 PixelPrune removes pixel-redundant patches before the vision encoder, reducing both encoding and downstream language-model work. The training-free method evaluates lossless and controlled-lossy compression on document and GUI tasks.
@@ -26,6 +34,18 @@ Nan Wang, Zhiwei Jin, Chen Chen, Haonan Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-00886/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-00886/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_00886,
+  title = {{PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding}},
+  author = {{Nan Wang} and {Zhiwei Jin} and {Chen Chen} and {Haonan Lu}},
+  year = {2026},
+  eprint = {2604.00886v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.00886v1},
+  note = {First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T13:33:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

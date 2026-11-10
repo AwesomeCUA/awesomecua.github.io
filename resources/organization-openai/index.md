@@ -1,3 +1,11 @@
+---
+title: "OpenAI | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-openai/
+updated: 2026-10-18
+type: company
+lang: en
+---
+
 # OpenAI
 
 Publisher or product brand associated with OpenAI computer-use or browser automation offerings.

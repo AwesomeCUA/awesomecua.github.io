@@ -1,3 +1,11 @@
+---
+title: "nanoAWM (Agent World Model Lab) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jlov7-nanoawm/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # nanoAWM (Agent World Model Lab)
 
 nanoAWM 是可检查的 Agent World Model 实验环境，用于模拟长程工具智能体和计算机使用智能体的动作后果。

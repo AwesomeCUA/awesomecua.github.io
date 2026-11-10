@@ -1,3 +1,11 @@
+---
+title: "MobileRL: Online Agentic Reinforcement… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-18119/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents
 
 MobileRL 通过按难度重放成功经验、筛选失败课程，将 GRPO 用于移动 GUI 训练；还用最短路径奖励调整处理任务长度，并在 AndroidWorld 和 AndroidLab 上评估。
@@ -27,6 +35,18 @@ Yifan Xu, Xiao Liu, Xinghan Liu, Jiaqi Fu, Hanchen Zhang, Bohao Jing, Shudan Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-18119/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-18119/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_18119,
+  title = {{MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents}},
+  author = {{Yifan Xu} and {Xiao Liu} and {Xinghan Liu} and {Jiaqi Fu} and {Hanchen Zhang} and {Bohao Jing} and {Shudan Zhang} and {Yuting Wang} and {Wenyi Zhao} and {Yuxiao Dong}},
+  year = {2025},
+  eprint = {2509.18119v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.18119v2},
+  note = {First published: 2025-09-10; Recorded arXiv version: v2; Recorded version updated: 2025-10-24T17:13:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

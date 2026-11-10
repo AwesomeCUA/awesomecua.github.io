@@ -1,3 +1,11 @@
+---
+title: "Agent-OS (J.A.R.V.I.S. macOS Harness) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-my-cmdhub-agent-os/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Agent-OS (J.A.R.V.I.S. macOS Harness)
 
 Voice-first macOS accessibility agent that reads screen state as structured text and verifies every GUI action.

@@ -1,3 +1,11 @@
+---
+title: "Large Language Model-Brained GUI Agents… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-18279/
+updated: 2026-10-16
+type: survey
+lang: zh-CN
+---
+
 # Large Language Model-Brained GUI Agents: A Survey
 
 综述按自然语言指令跨网页、移动端和桌面界面执行任务的 LLM 驱动 GUI 智能体，梳理学术研究和产业进展。
@@ -23,6 +31,18 @@ Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Mingh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-18279/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-18279/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_18279,
+  title = {{Large Language Model-Brained GUI Agents: A Survey}},
+  author = {{Chaoyun Zhang} and {Shilin He} and {Jiaxu Qian} and {Bowen Li} and {Liqun Li} and {Si Qin} and {Yu Kang} and {Minghua Ma} and {Guyue Liu} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang} and {Qi Zhang}},
+  year = {2024},
+  eprint = {2411.18279v12},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.18279v12},
+  note = {First published: 2024-11-27; Recorded arXiv version: v12; Recorded version updated: 2025-05-06T15:08:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

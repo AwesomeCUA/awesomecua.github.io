@@ -1,3 +1,11 @@
+---
+title: "DeepFM: A Factorization-Machine based Neural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1703-04247/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
 
 Bibliographic record for DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1703-04247/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1703-04247/citation.csl.json
+
+```bibtex
+@misc{arxiv_1703_04247,
+  title = {{DeepFM: A Factorization-Machine based Neural Network for CTR Prediction}},
+  author = {{Huifeng Guo} and {Ruiming Tang} and {Yunming Ye} and {Zhenguo Li} and {Xiuqiang He}},
+  year = {2017},
+  eprint = {1703.04247v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1703.04247v1},
+  note = {First published: 2017-03-13; Recorded arXiv version: v1; Recorded version updated: 2017-03-13T04:55:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

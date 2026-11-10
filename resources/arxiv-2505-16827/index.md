@@ -1,3 +1,11 @@
+---
+title: "GUI-explorer: Autonomous Exploration and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-16827/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent
 
 GUI-explorer generates exploration goals from screenshots and interface structure, then mines observation-action-outcome triples for app-specific transition knowledge. The resulting training-free agent uses this knowledge during mobile task execution, evaluated on SPA-Bench and AndroidWorld.
@@ -26,6 +34,18 @@ Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-16827/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-16827/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_16827,
+  title = {{GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent}},
+  author = {{Bin Xie} and {Rui Shao} and {Gongwei Chen} and {Kaiwen Zhou} and {Yinchuan Li} and {Jie Liu} and {Min Zhang} and {Liqiang Nie}},
+  year = {2025},
+  eprint = {2505.16827v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.16827v1},
+  note = {First published: 2025-05-22; Recorded arXiv version: v1; Recorded version updated: 2025-05-22T16:01:06Z.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent Web Client · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-niuzaisheng-screenagentwebclient/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ScreenAgent Web Client
 
 ScreenAgent Web Client 通过浏览器和 VNC 将语言模型接入远程桌面，并把鼠标、键盘操作表示为结构化调用。

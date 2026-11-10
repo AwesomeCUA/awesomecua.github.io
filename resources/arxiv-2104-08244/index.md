@@ -1,3 +1,11 @@
+---
+title: "Open data for Moroccan license plates for OCR… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2104-08244/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Open data for Moroccan license plates for OCR applications : data collection, labeling, and model construction
 
 Status: excluded from the active CUA catalog after scope review.

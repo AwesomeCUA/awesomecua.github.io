@@ -1,3 +1,11 @@
+---
+title: "AXorcist · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steipete-axorcist/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # AXorcist
 
 AXorcist 是 Swift 库和命令行工具，可查询 macOS 无障碍元素树、定位界面元素，并对应用执行操作。

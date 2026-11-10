@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 1.5 8B Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d01dfc6e5b5fcece7b41/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Owl 1.5 8B Instruct
 
 Instruct variant of the 8B GUI-Owl 1.5 native GUI agent model, built on Qwen3-VL and released with Mobile-Agent-v3.5 for desktop, mobile and browser control, with about 8.8B BF16 parameters under MIT.

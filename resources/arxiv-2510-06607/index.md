@@ -1,3 +1,11 @@
+---
+title: "Your Harness is Not Secure: Benchmarking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-06607/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent
 
 Introduces AdvCLI, a sandbox benchmark for evaluating whether command-line agents carry out security-relevant operating-system tasks across multiple hosts.
@@ -26,6 +34,18 @@ Weidi Luo, Qiming Zhang, Tianyu Lu, Xiaogeng Liu, Bin Hu, Hung-Chun Chiu, Siyuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-06607/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-06607/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_06607,
+  title = {{Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent}},
+  author = {{Weidi Luo} and {Qiming Zhang} and {Tianyu Lu} and {Xiaogeng Liu} and {Bin Hu} and {Hung-Chun Chiu} and {Siyuan Ma} and {Yizhe Zhang} and {Xusheng Xiao} and {Yinzhi Cao} and {Zhen Xiang} and {Chaowei Xiao}},
+  year = {2025},
+  eprint = {2510.06607v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.06607v3},
+  note = {First published: 2025-10-08; Recorded arXiv version: v3; Recorded version updated: 2026-08-21T05:20:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

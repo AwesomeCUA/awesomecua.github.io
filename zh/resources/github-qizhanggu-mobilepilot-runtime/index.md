@@ -1,3 +1,11 @@
+---
+title: "MobilePilot Runtime · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qizhanggu-mobilepilot-runtime/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MobilePilot Runtime
 
 MobilePilot 是可审计的 Android GUI 智能体运行时，具备结构化动作验证、按需获取 UI 树和有界错误恢复功能。

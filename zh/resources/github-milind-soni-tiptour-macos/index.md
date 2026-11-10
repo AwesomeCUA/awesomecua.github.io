@@ -1,3 +1,11 @@
+---
+title: "TipTour · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-milind-soni-tiptour-macos/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # TipTour
 
 macOS 菜单栏智能体结合本地 Core ML 控件检测器与辅助功能树定位点击，由 TypeSafe 的 JEV 文本循环或 Gemini 实时语音驱动，并提供供其他智能体使用的本地主机接口。

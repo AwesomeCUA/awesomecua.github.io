@@ -1,3 +1,11 @@
+---
+title: "Classical simulation of universal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-23734/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Classical simulation of universal measurement-based quantum computation using multipartite Bell scenarios
 
 Bibliographic record for Classical simulation of universal measurement-based quantum computation using multipartite Bell scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Cihan Okay, Atak Talay Yucel, Selman Ipek
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-23734/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-23734/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_23734,
+  title = {{Classical simulation of universal measurement-based quantum computation using multipartite Bell scenarios}},
+  author = {{Cihan Okay} and {Atak Talay Yucel} and {Selman Ipek}},
+  year = {2024},
+  eprint = {2410.23734v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.23734v1},
+  note = {First published: 2024-10-31; Recorded arXiv version: v1; Recorded version updated: 2024-10-31T08:40:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

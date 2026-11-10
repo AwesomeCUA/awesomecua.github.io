@@ -1,3 +1,11 @@
+---
+title: "macos-desktop-control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-d-wwei-macos-desktop-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # macos-desktop-control
 
 原生 macOS 桌面自动化 MCP 服务器，提供屏幕捕获、鼠标和键盘输入、窗口管理及 iOS Simulator 控制。

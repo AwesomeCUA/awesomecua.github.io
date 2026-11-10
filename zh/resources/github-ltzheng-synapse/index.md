@@ -1,3 +1,11 @@
+---
+title: "Synapse · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ltzheng-synapse/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Synapse
 
 Synapse 是计算机操作研究实现，从记忆中检索示例轨迹，抽象与任务相关的状态，并通过提示引导智能体完成浏览器任务。

@@ -1,3 +1,11 @@
+---
+title: "HumanAIE (Human AI Eyes) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-datboip-humanaie/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # HumanAIE (Human AI Eyes)
 
 HumanAIE 是人类与 AI 协作的共享浏览器工作区，用户可高亮视觉区域并共同引导网页智能体。

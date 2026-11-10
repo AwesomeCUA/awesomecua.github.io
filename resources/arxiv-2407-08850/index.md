@@ -1,3 +1,11 @@
+---
+title: "UICrit: Enhancing Automated Design Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-08850/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # UICrit: Enhancing Automated Design Evaluation with a UICritique Dataset
 
 Introduces designer-authored mobile UI critiques and quality ratings, studying how targeted examples improve automated design feedback.
@@ -26,6 +34,18 @@ Peitong Duan, Chin-yi Chen, Gang Li, Bjoern Hartmann, Yang Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-08850/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-08850/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_08850,
+  title = {{UICrit: Enhancing Automated Design Evaluation with a UICritique Dataset}},
+  author = {{Peitong Duan} and {Chin-yi Chen} and {Gang Li} and {Bjoern Hartmann} and {Yang Li}},
+  year = {2024},
+  eprint = {2407.08850v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.08850v3},
+  note = {First published: 2024-07-11; Recorded arXiv version: v3; Recorded version updated: 2024-08-13T23:41:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

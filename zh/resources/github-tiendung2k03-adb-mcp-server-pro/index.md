@@ -1,3 +1,11 @@
+---
+title: "ADB MCP Server Pro · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tiendung2k03-adb-mcp-server-pro/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ADB MCP Server Pro
 
 通过 ADB 控制 Android 设备的 Model Context Protocol 服务器，具备自学习 UI 元素映射功能。

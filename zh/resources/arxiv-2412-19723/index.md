@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis: Automating GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2412-19723/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis
 
 先探索环境，再回溯生成任务以构建 GUI 轨迹，并用奖励模型筛选生成的轨迹。
@@ -27,6 +35,18 @@ Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhe
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2412-19723/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2412-19723/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_19723,
+  title = {{OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis}},
+  author = {{Qiushi Sun} and {Kanzhi Cheng} and {Zichen Ding} and {Chuanyang Jin} and {Yian Wang} and {Fangzhi Xu} and {Zhenyu Wu} and {Chengyou Jia} and {Liheng Chen} and {Zhoumianze Liu} and {Ben Kao} and {Guohao Li} and {Junxian He} and {Yu Qiao} and {Zhiyong Wu}},
+  year = {2024},
+  eprint = {2412.19723v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.19723v3},
+  note = {First published: 2024-12-27; Recorded arXiv version: v3; Recorded version updated: 2025-06-27T08:25:48Z.}
+}
+```
 
 ## 发表记录
 

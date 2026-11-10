@@ -1,3 +1,11 @@
+---
+title: "UI-Mate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencent-ui-mate/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # UI-Mate
 
 UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.

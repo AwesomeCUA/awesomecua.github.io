@@ -1,3 +1,11 @@
+---
+title: "OpenQA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openqa-labs-openqa/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenQA
 
 OpenQA 是开源的智能体浏览器测试框架，通过动态解析选择器来执行自然语言测试断言。

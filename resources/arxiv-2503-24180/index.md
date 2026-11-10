@@ -1,3 +1,11 @@
+---
+title: "Navi-plus: Managing Ambiguous GUI Navigation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-24180/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions
 
 Navi-plus evaluates GUI agents that ask follow-up questions to complete ambiguous user instructions. It provides GUI clarification question-answer pairs and Dual-Stream Trajectory Evaluation for this interactive setting.
@@ -26,6 +34,18 @@ Ziming Cheng, Zhiyuan Huang, Junting Pan, Zhaohui Hou, Mingjie Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-24180/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-24180/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_24180,
+  title = {{Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions}},
+  author = {{Ziming Cheng} and {Zhiyuan Huang} and {Junting Pan} and {Zhaohui Hou} and {Mingjie Zhan}},
+  year = {2025},
+  eprint = {2503.24180v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.24180v2},
+  note = {First published: 2025-03-31; Recorded arXiv version: v2; Recorded version updated: 2025-08-24T08:39:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

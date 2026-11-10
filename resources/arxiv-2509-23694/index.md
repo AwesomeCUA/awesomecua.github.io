@@ -1,3 +1,11 @@
+---
+title: "SafeSearch: Automated Red-Teaming of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-23694/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # SafeSearch: Automated Red-Teaming of LLM-Based Search Agents
 
 Bibliographic record for SafeSearch: Automated Red-Teaming of LLM-Based Search Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-23694/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-23694/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_23694,
+  title = {{SafeSearch: Automated Red-Teaming of LLM-Based Search Agents}},
+  author = {{Jianshuo Dong} and {Sheng Guo} and {Hao Wang} and {Xun Chen} and {Zhuotao Liu} and {Tianwei Zhang} and {Ke Xu} and {Minlie Huang} and {Han Qiu}},
+  year = {2025},
+  eprint = {2509.23694v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.23694v6},
+  note = {First published: 2025-09-28; Recorded arXiv version: v6; Recorded version updated: 2026-06-03T04:13:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

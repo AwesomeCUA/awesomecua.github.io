@@ -1,3 +1,11 @@
+---
+title: "minitouch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-devicefarmer-minitouch/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # minitouch
 
 An Android binary that injects multitouch events and gestures sent as line-based text commands over a socket, stdin or a file, running without root through ADB on older SDK levels.

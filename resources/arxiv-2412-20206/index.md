@@ -1,3 +1,11 @@
+---
+title: "Toward Visual Grounding: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-20206/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Toward Visual Grounding: A Survey
 
 Bibliographic record for Toward Visual Grounding: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Linhui Xiao, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-20206/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-20206/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_20206,
+  title = {{Toward Visual Grounding: A Survey}},
+  author = {{Linhui Xiao} and {Xiaoshan Yang} and {Xiangyuan Lan} and {Yaowei Wang} and {Changsheng Xu}},
+  year = {2024},
+  eprint = {2412.20206v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.20206v4},
+  note = {First published: 2024-12-28; Recorded arXiv version: v4; Recorded version updated: 2026-08-04T09:37:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

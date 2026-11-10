@@ -1,3 +1,11 @@
+---
+title: "Inside the Agent (SAE Browser Harness) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kalyvask-inside-the-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Inside the Agent (SAE Browser Harness)
 
 可复现的测试框架，用于通过 Sparse Autoencoder（SAE）特征引导浏览器智能体，并实时监测其可解释性。

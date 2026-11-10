@@ -1,3 +1,11 @@
+---
+title: "TabWard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nepavel221-tabward/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # TabWard
 
 Gives local AI agents permission-gated access to authenticated Chrome tabs via a stdio MCP server and extension.

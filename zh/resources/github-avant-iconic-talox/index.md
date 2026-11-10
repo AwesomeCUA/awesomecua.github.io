@@ -1,3 +1,11 @@
+---
+title: "Talox · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-avant-iconic-talox/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Talox
 
 Talox 是面向 AI 智能体的有状态 Playwright 浏览器运行时，支持隐蔽交互、结构化页面状态和执行轨迹可观测性。

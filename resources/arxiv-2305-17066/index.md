@@ -1,3 +1,11 @@
+---
+title: "Mindstorms in Natural Language-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-17066/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Mindstorms in Natural Language-Based Societies of Mind
 
 Bibliographic record for Mindstorms in Natural Language-Based Societies of Mind. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mingchen Zhuge, Haozhe Liu, Francesco Faccio, Dylan R. Ashley, Róbert Csordás,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-17066/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-17066/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_17066,
+  title = {{Mindstorms in Natural Language-Based Societies of Mind}},
+  author = {{Mingchen Zhuge} and {Haozhe Liu} and {Francesco Faccio} and {Dylan R. Ashley} and {Róbert Csordás} and {Anand Gopalakrishnan} and {Abdullah Hamdi} and {Hasan Abed Al Kader Hammoud} and {Vincent Herrmann} and {Kazuki Irie} and {Louis Kirsch} and {Bing Li} and {Guohao Li} and {Shuming Liu} and {Jinjie Mai} and {Piotr Piękos} and {Aditya Ramesh} and {Imanol Schlag} and {Weimin Shi} and {Aleksandar Stanić} and {Wenyi Wang} and {Yuhui Wang} and {Mengmeng Xu} and {Deng-Ping Fan} and {Bernard Ghanem} and {Jürgen Schmidhuber}},
+  year = {2023},
+  eprint = {2305.17066v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.17066v2},
+  note = {First published: 2023-05-26; Recorded arXiv version: v2; Recorded version updated: 2026-03-11T13:43:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

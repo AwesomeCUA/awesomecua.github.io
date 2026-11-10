@@ -1,3 +1,11 @@
+---
+title: "UI-TARS 72B DPO · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0447e1fb83a794507aa2/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # UI-TARS 72B DPO
 
 模型卡标记为推荐的 72B DPO 版 UI-TARS 检查点，采用 Qwen2-VL 架构，是用于网页、移动端和桌面的原生 GUI 智能体模型，可感知屏幕、定位元素并执行多步操作。

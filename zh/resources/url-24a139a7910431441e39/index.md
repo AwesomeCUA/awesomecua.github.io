@@ -1,3 +1,11 @@
+---
+title: "30 Years of Automated GUI Testing: A… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-24a139a7910431441e39/
+updated: 2026-11-09
+type: survey
+lang: zh-CN
+---
+
 # 30 Years of Automated GUI Testing: A Bibliometric Analysis
 
 这项文献计量研究梳理 1990 至 2020 年的自动化 GUI 测试研究，分析发文增长、引文、合作关系及移动端测试趋势。
@@ -27,6 +35,20 @@ Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
 
 - BibTeX：https://awesomecua.com/resources/url-24a139a7910431441e39/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-24a139a7910431441e39/citation.csl.json
+
+```bibtex
+@inproceedings{cua_082ca5b86804a432572b32ad,
+  title = {{30 Years of Automated GUI Testing: A Bibliometric Analysis}},
+  author = {{Olivia Rodríguez-Valdés} and {Tanja E. J. Vos} and {Pekka Aho} and {Beatriz Marín}},
+  year = {2021},
+  booktitle = {Communications in Computer and Information Science},
+  publisher = {Springer International Publishing},
+  pages = {473-488},
+  doi = {10.1007/978-3-030-85347-1\_34},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-85347-1\_34},
+  note = {Publication date: 2021.}
+}
+```
 
 ## 发表记录
 

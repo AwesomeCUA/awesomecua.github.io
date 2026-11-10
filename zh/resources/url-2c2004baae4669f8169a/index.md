@@ -1,3 +1,11 @@
+---
+title: "UI-Vision · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2c2004baae4669f8169a/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UI-Vision
 
 用于界面理解和交互研究的桌面 GUI 数据。

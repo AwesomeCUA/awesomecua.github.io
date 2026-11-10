@@ -1,3 +1,11 @@
+---
+title: "Axon | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gxcsoccer-axon/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Axon
 
 macOS computer-use automation server and CLI exposing Accessibility API element control, AppleScript/JXA execution, and screenshots.

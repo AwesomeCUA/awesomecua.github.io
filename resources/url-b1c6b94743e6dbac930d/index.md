@@ -1,3 +1,11 @@
+---
+title: "android_icon_dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b1c6b94743e6dbac930d/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # android_icon_dataset
 
 A labeled Android icon dataset for studying visual interface elements. Its train split contains images and string class labels.

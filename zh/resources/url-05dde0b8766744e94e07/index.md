@@ -1,3 +1,11 @@
+---
+title: "Coasty · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-05dde0b8766744e94e07/
+updated: 2026-11-09
+type: company
+lang: zh-CN
+---
+
 # Coasty
 
 Coasty 开发用于智能体训练与评估的计算机使用环境，涉及电脑和手机界面，并提供交互轨迹及结果评估。

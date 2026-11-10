@@ -1,3 +1,11 @@
+---
+title: "PAE LLaVA 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5d61c1b5fc8dd650518d/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # PAE LLaVA 7B
 
 A released LLaVA checkpoint for visual browser interaction from the PAE autonomous task-proposal and policy-learning system.

@@ -1,3 +1,11 @@
+---
+title: "Living Dream DSH · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alllllllllli-living-dream-dsh/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Living Dream DSH
 
 DeepSeek Harness 桌面配置包，集成了 8 个以上用于浏览器、文件系统和桌面自动化的 MCP 服务器。

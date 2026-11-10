@@ -1,3 +1,11 @@
+---
+title: "cliclick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bluem-cliclick/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # cliclick
 
 A macOS command-line utility that performs mouse and keyboard actions. It accepts action commands as arguments or from a file for scripted desktop control.

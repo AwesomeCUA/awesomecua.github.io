@@ -1,3 +1,11 @@
+---
+title: "i3-cua-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-smirnov-labs-i3-computer-use-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # i3-cua-mcp
 
 An MCP server for i3 desktops on X11 that exposes window data, screenshots and input controls. It maps coordinates from captured frames to desktop positions and includes a Xephyr sandbox.

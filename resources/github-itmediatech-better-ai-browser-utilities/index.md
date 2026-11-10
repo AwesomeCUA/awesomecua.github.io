@@ -1,3 +1,11 @@
+---
+title: "Better AI Browser Utilities (BABU) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-itmediatech-better-ai-browser-utilities/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Better AI Browser Utilities (BABU)
 
 Token-efficient Model Context Protocol toolkit for controlling an AI agent's real Chrome session.

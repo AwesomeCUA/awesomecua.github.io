@@ -1,3 +1,11 @@
+---
+title: "An Efficient Training Pipeline for Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-08172/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # An Efficient Training Pipeline for Reasoning Graphical User Interface Agents
 
 A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.
@@ -26,6 +34,18 @@ Georgios Pantazopoulos, Eda B. Özyiğit
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-08172/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-08172/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_08172,
+  title = {{An Efficient Training Pipeline for Reasoning Graphical User Interface Agents}},
+  author = {{Georgios Pantazopoulos} and {Eda B. Özyiğit}},
+  year = {2025},
+  eprint = {2511.08172v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.08172v3},
+  note = {First published: 2025-11-11; Recorded arXiv version: v3; Recorded version updated: 2025-11-14T07:05:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

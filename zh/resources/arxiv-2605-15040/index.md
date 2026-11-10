@@ -1,3 +1,11 @@
+---
+title: "Orchard: An Open-Source Agentic Modeling… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-15040/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Orchard: An Open-Source Agentic Modeling Framework
 
 Orchard 提供跨智能体任务领域的环境服务和训练方案，其中 Orchard-GUI 是一个视觉语言计算机使用智能体。
@@ -27,6 +35,18 @@ Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Xiao Yu, Rui Yang, Tao Ge, Aless
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-15040/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-15040/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15040,
+  title = {{Orchard: An Open-Source Agentic Modeling Framework}},
+  author = {{Baolin Peng} and {Wenlin Yao} and {Qianhui Wu} and {Hao Cheng} and {Xiao Yu} and {Rui Yang} and {Tao Ge} and {Alessandro Sordoni} and {Xingdi Yuan} and {Yelong Shen} and {Pengcheng He} and {Tong Zhang} and {Zhou Yu} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2605.15040v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15040v3},
+  note = {First published: 2026-05-14; Recorded arXiv version: v3; Recorded version updated: 2026-07-30T16:17:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "fara-7b-agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cobusgreyling-fara-7b-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # fara-7b-agent
 
 用于在桌面和浏览器任务上运行 Microsoft 的 Fara-7B 计算机使用模型的精简、完全本地化智能体测试框架。

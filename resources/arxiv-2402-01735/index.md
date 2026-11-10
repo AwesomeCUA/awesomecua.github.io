@@ -1,3 +1,11 @@
+---
+title: "VIALM: A Survey and Benchmark of Visually… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-01735/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VIALM: A Survey and Benchmark of Visually Impaired Assistance with Large Models
 
 Status: excluded from the active CUA catalog after scope review.

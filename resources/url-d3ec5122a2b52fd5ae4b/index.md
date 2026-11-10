@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis mobile training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d3ec5122a2b52fd5ae4b/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # OS-Genesis mobile training data
 
 Reverse-task-synthesis mobile trajectories released in separate AndroidControl and AndroidWorld training annotation files.

@@ -1,3 +1,11 @@
+---
+title: "Collision Canary · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mystiquemide-collision-canary/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Collision Canary
 
 多执行者不变量验证测试框架，驱动两个并发浏览器智能体操作共享后端，以发现竞态错误。

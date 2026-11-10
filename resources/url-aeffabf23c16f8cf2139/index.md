@@ -1,3 +1,11 @@
+---
+title: "Holo-3.1-35B-A3B-NVFP4 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-aeffabf23c16f8cf2139/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Holo-3.1-35B-A3B-NVFP4
 
 Holo-3.1-35B-A3B-NVFP4 is a quantized computer-use vision-language checkpoint for web, desktop and mobile tasks, with function-calling support.

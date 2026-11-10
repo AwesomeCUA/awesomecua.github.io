@@ -1,3 +1,11 @@
+---
+title: "Holo2 8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-38942453b2b7018c0d01/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo2 8B
 
 Holo2 检查点基于 Qwen3-VL-8B-Thinking，经过监督训练和在线强化学习，用于在网页、桌面和移动界面中定位 UI 元素及执行多步导航。

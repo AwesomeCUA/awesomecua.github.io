@@ -1,3 +1,11 @@
+---
+title: "AIHawk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-aihawk/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AIHawk
 
 AIHawk searches and scores jobs against a resume, then uses Firefox to fill and submit applications selected by the user. It retains each page's response and a screenshot.

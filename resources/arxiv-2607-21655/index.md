@@ -1,3 +1,11 @@
+---
+title: "Progress Reward Modeling for Robotic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-21655/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Progress Reward Modeling for Robotic Learning: A Comprehensive Survey
 
 Status: excluded from the active CUA catalog after scope review.

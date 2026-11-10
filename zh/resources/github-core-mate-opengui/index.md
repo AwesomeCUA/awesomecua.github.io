@@ -1,3 +1,11 @@
+---
+title: "OpenGUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-core-mate-opengui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenGUI
 
 OpenGUI 是 Android GUI 智能体框架，结合屏幕感知、无障碍树和 ADB 操作，实现真机自动化。

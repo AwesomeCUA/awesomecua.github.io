@@ -1,3 +1,11 @@
+---
+title: "Anchor | AwesomeCUA"
+url: https://awesomecua.com/resources/url-74a98d385b656cf5e980/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Anchor
 
 Anchor provides cloud browser environments for AI agents to navigate authenticated websites and run browser workloads, with SDK and MCP integration.

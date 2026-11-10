@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 15 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/15/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 15
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/15/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [BrowserOS / BrowserOS neo](https://awesomecua.com/resources/github-browseros-ai-browseros/)
 - [BrowserPilot](https://awesomecua.com/resources/github-ai-naymul-browserpilot/)
 - [Browserplane](https://awesomecua.com/resources/github-mathisarends-browserplane/)
 - [BrowserRig](https://awesomecua.com/resources/github-castor6-browserrig/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [Chrome MCP Server (18 Tools)](https://awesomecua.com/resources/github-syedazharmbnr1-chrome-mcp-server/)
 - [Chrome Orchestrator](https://awesomecua.com/resources/github-sh7vansh-chrome-orchestrator/)
 - [chrome-agent](https://awesomecua.com/resources/github-captivus-chrome-agent/)
+- [chrome-agent](https://awesomecua.com/resources/github-sderosiaux-chrome-agent/)

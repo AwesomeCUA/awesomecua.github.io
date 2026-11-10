@@ -1,3 +1,11 @@
+---
+title: "Avenir-UX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-onflow-ai-avenir-ux/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Avenir-UX
 
 Avenir-UX runs web tasks and scores interface usability after agent actions. It combines step assessments with persona settings and produces session reports.

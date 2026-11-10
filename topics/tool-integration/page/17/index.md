@@ -1,19 +1,23 @@
+---
+title: "Tool integration — computer-use…, page 17 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/17/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 17
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/17/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/)
-- [muhtalhakhan OpenAgent](https://awesomecua.com/resources/github-muhtalhakhan-open-agent/)
-- [munim-computer-use](https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/)
 - [muse-gadget-actell-mods](https://awesomecua.com/resources/github-ja1chen-muse-gadget-actell-mods/)
 - [MuseLite](https://awesomecua.com/resources/github-yxq953-muselite/)
 - [Nakama](https://awesomecua.com/resources/github-ahmadrosid-nakama/)
 - [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/)
 - [Napaxi](https://awesomecua.com/resources/github-antgroup-napaxi/)
 - [Narada Operator](https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/)
-- [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/)
 - [native-devtools-mcp](https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/)
 - [NaturalGAIA & LightManus](https://awesomecua.com/resources/github-keles-coding-naturegaia/)
 - [NaveedAshraf Browser Bridge](https://awesomecua.com/resources/github-naveedashraf1-browser-automation-extension/)
@@ -64,3 +68,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Open Claude in Chrome](https://awesomecua.com/resources/github-noemica-io-open-claude-in-chrome/)
 - [Open Claudex Computer Use](https://awesomecua.com/resources/github-opencodexlabs-open-codex-computer-use/)
 - [Open Duet (open-dots)](https://awesomecua.com/resources/github-anil-matcha-open-dots/)
+- [Open Interpreter](https://awesomecua.com/resources/github-openinterpreter-open-interpreter/)
+- [Open ZCode Computer Use](https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/)
+- [open-codex-computer-use](https://awesomecua.com/resources/github-ifuryst-open-codex-computer-use/)
+- [open-compute](https://awesomecua.com/resources/github-ellmos-ai-open-compute/)

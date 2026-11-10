@@ -1,3 +1,11 @@
+---
+title: "Agent Hands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ashishkosana-agent-hands/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agent Hands
 
 Computer-use automation infrastructure for legacy financial software that compiles LLM-discovered UI flows into deterministic replays.

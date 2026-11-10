@@ -1,3 +1,11 @@
+---
+title: "MaaPipelineEditor · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kqcoxn-maapipelineeditor/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaPipelineEditor
 
 一个基于浏览器的 MaaFramework Pipeline JSON 可视化编辑器，以相连节点构建自动化流程，提供 OCR 与截图辅助工具、节点模板、流程调试以及可选的本地服务。

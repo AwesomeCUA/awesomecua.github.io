@@ -1,3 +1,11 @@
+---
+title: "Holo-3.1-35B-A3B-FP8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-566bd1469811983951f3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Holo-3.1-35B-A3B-FP8
 
 Holo3.1 视觉语言模型系列的 FP8 权重，用于计算机使用智能体。模型卡介绍网页、桌面和移动任务，并链接部署指南。

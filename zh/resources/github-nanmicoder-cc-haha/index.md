@@ -1,3 +1,11 @@
+---
+title: "cc-haha · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nanmicoder-cc-haha/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cc-haha
 
 cc-haha 是 Claude Code 智能体测试框架、记忆和工具运行时的独立实现，使用 TypeScript 编写，并提供可视化调试器。

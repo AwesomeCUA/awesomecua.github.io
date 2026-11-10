@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-2B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-db97f9727111dc76662c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2-VL-2B-Instruct
 
 An instruction-tuned vision-language model for image and video understanding. Its card describes potential mobile-device operation from visual input and text instructions.

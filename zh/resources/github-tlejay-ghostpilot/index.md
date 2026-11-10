@@ -1,3 +1,11 @@
+---
+title: "GhostPilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tlejay-ghostpilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # GhostPilot
 
 GhostPilot 是内置 Model Context Protocol 服务器的 macOS Chromium 浏览器，使 Claude 和编码智能体能够共同浏览实时标签页。

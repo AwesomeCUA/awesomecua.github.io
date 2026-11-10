@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_SFT_train · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-528f6fe128b77e9615aa/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # GUI_Reflection_SFT_train
 
 GUI Reflection 的离线监督微调数据，以 JSONL 文件发布；配套图像需从卡片列出的原始数据集获取。

@@ -1,3 +1,11 @@
+---
+title: "anpl1623 AgentOS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anpl1623-agentos/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # anpl1623 AgentOS
 
 Local-first open-source agent runtime for safely executing AI-driven tasks on a user's personal computer.

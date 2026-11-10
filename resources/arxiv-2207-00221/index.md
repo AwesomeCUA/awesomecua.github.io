@@ -1,3 +1,11 @@
+---
+title: "VL-CheckList: Evaluating Pre-trained… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2207-00221/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations
 
 Bibliographic record for VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tiancheng Zhao, Tianqi Zhang, Mingwei Zhu, Haozhan Shen, Kyusong Lee, Xiaopeng L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2207-00221/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2207-00221/citation.csl.json
+
+```bibtex
+@misc{arxiv_2207_00221,
+  title = {{VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations}},
+  author = {{Tiancheng Zhao} and {Tianqi Zhang} and {Mingwei Zhu} and {Haozhan Shen} and {Kyusong Lee} and {Xiaopeng Lu} and {Jianwei Yin}},
+  year = {2022},
+  eprint = {2207.00221v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2207.00221v2},
+  note = {First published: 2022-07-01; Recorded arXiv version: v2; Recorded version updated: 2023-06-22T16:55:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

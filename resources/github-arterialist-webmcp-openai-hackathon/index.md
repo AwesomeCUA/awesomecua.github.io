@@ -1,3 +1,11 @@
+---
+title: "Commonplace WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arterialist-webmcp-openai-hackathon/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Commonplace WebMCP
 
 WebMCP-enabled reading and publishing workspace designed for shared control between human users and browser agents.

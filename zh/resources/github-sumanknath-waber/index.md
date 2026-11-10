@@ -1,3 +1,11 @@
+---
+title: "WAREX Supplementary Code · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sumanknath-waber/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # WAREX Supplementary Code
 
 WAREX 补充代码通过 mitmproxy 插件在网页智能体测试中注入弹窗、服务器或网络错误，并记录令牌消耗与延迟。

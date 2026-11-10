@@ -1,3 +1,11 @@
+---
+title: "pi-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-injaneity-pi-computer-use/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # pi-computer-use
 
 Pi 扩展程序，为智能体提供查找应用窗口、观察和搜索可见控件，以及在桌面软件中点击、输入、滚动和等待 UI 变化的工具。

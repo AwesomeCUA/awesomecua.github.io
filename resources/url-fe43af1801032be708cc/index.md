@@ -1,3 +1,11 @@
+---
+title: "ScreenDrag | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fe43af1801032be708cc/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # ScreenDrag
 
 GUI dragging data with screen observations, prior state, and continuous pointer actions, provided as trajectory files and Parquet representations.

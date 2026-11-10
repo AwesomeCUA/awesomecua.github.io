@@ -1,3 +1,11 @@
+---
+title: "zetakai desktop-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zetakai-desktop-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # zetakai desktop-mcp
 
 用于 Linux X11 和 Wayland 会话的桌面视觉与输入控制 Model Context Protocol 服务器。

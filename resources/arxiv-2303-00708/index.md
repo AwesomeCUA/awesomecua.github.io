@@ -1,3 +1,11 @@
+---
+title: "Perspective on unconventional computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-00708/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Perspective on unconventional computing using magnetic skyrmions
 
 Status: excluded from the active CUA catalog after scope review.

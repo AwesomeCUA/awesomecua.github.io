@@ -1,3 +1,11 @@
+---
+title: "BrowserART · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scaleapi-browser-art/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # BrowserART
 
 Scale AI 的红队测试基准与测试套件，用于评估经过拒绝训练的语言模型在作为浏览器智能体部署时能否被越狱。

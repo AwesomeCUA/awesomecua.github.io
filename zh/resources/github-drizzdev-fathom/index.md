@@ -1,3 +1,11 @@
+---
+title: "Fathom · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-drizzdev-fathom/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Fathom
 
 Fathom 是面向移动端计算机使用智能体的执行框架，可将日常英语表述的目标转化为 iOS 和 Android 上经过定位的动作。

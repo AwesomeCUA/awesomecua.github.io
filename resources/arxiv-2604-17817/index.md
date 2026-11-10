@@ -1,3 +1,11 @@
+---
+title: "Do LLMs Need to See Everything? A Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-17817/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Do LLMs Need to See Everything? A Benchmark and Study of Failures in LLM-driven Smartphone Automation using Screentext vs. Screenshots
 
 DailyDroid compares text-only and text-plus-screenshot agents on everyday Android tasks across multiple apps and difficulty levels. Its failure analysis examines accessibility, observation modality and agent/application behavior.
@@ -26,6 +34,18 @@ Shiquan Zhang, Tianyi Zhang, Le Fang, Simon D'Alfonso, Hong Jia, Vassilis Kostak
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-17817/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-17817/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_17817,
+  title = {{Do LLMs Need to See Everything? A Benchmark and Study of Failures in LLM-driven Smartphone Automation using Screentext vs. Screenshots}},
+  author = {{Shiquan Zhang} and {Tianyi Zhang} and {Le Fang} and {Simon D'Alfonso} and {Hong Jia} and {Vassilis Kostakos}},
+  year = {2026},
+  eprint = {2604.17817v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.17817v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T05:15:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Maxim · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhangzhao4444-maxim/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Maxim
 
 一个适用于模拟器和真机的 Android Monkey 压力测试工具，通过无障碍服务解析屏幕控件，并以随机、深度优先或按优先级引导的策略遍历应用。

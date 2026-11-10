@@ -1,3 +1,11 @@
+---
+title: "Beyond Next-Screen Prediction: The Decision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-24372/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Beyond Next-Screen Prediction: The Decision Value of GUI World Models
 
 Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision.
@@ -26,6 +34,18 @@ Sizhe Tang, Hanhan Zhou, Jeffrey Svajlenko, Rashmi Gangadharaiah
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-24372/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-24372/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_24372,
+  title = {{Beyond Next-Screen Prediction: The Decision Value of GUI World Models}},
+  author = {{Sizhe Tang} and {Hanhan Zhou} and {Jeffrey Svajlenko} and {Rashmi Gangadharaiah}},
+  year = {2026},
+  eprint = {2610.24372v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.24372v1},
+  note = {First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T02:03:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Cognitive computation using neural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2003-11668/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Cognitive computation using neural representations of time and space in the Laplace domain
 
 Status: excluded from the active CUA catalog after scope review.

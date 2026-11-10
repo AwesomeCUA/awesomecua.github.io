@@ -1,3 +1,11 @@
+---
+title: "GUI-AIMA-3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-638d229f7a02760ae9dc/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # GUI-AIMA-3B
 
 GUI 定位模型，利用可学习的 ANCHOR 词元与视觉图块之间的注意力预测点击位置，并额外使用 25 万条 GroundCUA 数据训练；作者报告其在 ScreenSpot-Pro 上采用 2 步放大推理时达到 61.5%。

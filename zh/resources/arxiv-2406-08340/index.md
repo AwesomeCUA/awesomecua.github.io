@@ -1,3 +1,11 @@
+---
+title: "Practical, Automated Scenario-based… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-08340/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Practical, Automated Scenario-based Mobile App Testing
 
 ScenTest 从包含 GUI 和动作信息的众包测试报告中构建特定场景的事件知识图谱，并结合当前应用状态和测试上下文生成跨应用的场景测试。
@@ -27,6 +35,18 @@ Shengcheng Yu, Chunrong Fang, Mingzhe Du, Zimin Ding, Zhenyu Chen, Zhendong Su
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-08340/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-08340/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_08340,
+  title = {{Practical, Automated Scenario-based Mobile App Testing}},
+  author = {{Shengcheng Yu} and {Chunrong Fang} and {Mingzhe Du} and {Zimin Ding} and {Zhenyu Chen} and {Zhendong Su}},
+  year = {2024},
+  eprint = {2406.08340v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.08340v1},
+  note = {First published: 2024-06-12; Recorded arXiv version: v1; Recorded version updated: 2024-06-12T15:48:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

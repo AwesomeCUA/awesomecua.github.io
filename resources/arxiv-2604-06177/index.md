@@ -1,3 +1,11 @@
+---
+title: "WebExpert: domain-aware web agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-06177/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search
 
 Bibliographic record for WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuelin Hu, Zhengxue Cheng, Ronghua Wu, Qunshan Gu, Hongwei Hu, Wei Liu, Qiao Lia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-06177/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-06177/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_06177,
+  title = {{WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search}},
+  author = {{Yuelin Hu} and {Zhengxue Cheng} and {Ronghua Wu} and {Qunshan Gu} and {Hongwei Hu} and {Wei Liu} and {Qiao Liang} and {Li Song}},
+  year = {2026},
+  eprint = {2604.06177v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.06177v1},
+  note = {First published: 2026-02-03; Recorded arXiv version: v1; Recorded version updated: 2026-02-03T08:13:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

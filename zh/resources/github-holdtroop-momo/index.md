@@ -1,3 +1,11 @@
+---
+title: "Momo · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-holdtroop-momo/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Momo
 
 遵守策略的自主 AI 浏览器智能体，在本地环境中运行，提供透明的意图日志和人工监督。

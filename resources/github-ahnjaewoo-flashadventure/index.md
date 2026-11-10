@@ -1,3 +1,11 @@
+---
+title: "FlashAdventure | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # FlashAdventure
 
 FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Flash point-and-click adventure games requiring long-term memory.

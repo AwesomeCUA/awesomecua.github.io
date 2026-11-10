@@ -1,3 +1,11 @@
+---
+title: "世界模型：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/world-models/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 世界模型
 
 Reviewed topic membership; resources can appear in multiple topics.

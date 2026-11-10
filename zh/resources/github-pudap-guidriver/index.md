@@ -1,3 +1,11 @@
+---
+title: "PUDA guidriver · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pudap-guidriver/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PUDA guidriver
 
 以 Windows 为优先平台的边缘服务，用于录制、验证和确定性重放经审查的 GUI 工作流。

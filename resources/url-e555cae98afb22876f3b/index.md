@@ -1,3 +1,11 @@
+---
+title: "DeskForge-1M | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e555cae98afb22876f3b/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # DeskForge-1M
 
 A desktop GUI dataset with screenshots, element annotations, and action records, released with training, validation, and varied application, theme, and resolution test splits.

@@ -1,3 +1,11 @@
+---
+title: "Where Does Agent Reliability Come From? A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-17044/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Where Does Agent Reliability Come From? A Cross-Benchmark Decomposition of Verification Loops, Specialist Models, and Scaffolding in a Production Enterprise Agent
 
 Bibliographic record for Where Does Agent Reliability Come From? A Cross-Benchmark Decomposition of Verification Loops, Specialist Models, and Scaffolding in a Production Enterprise Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Arunabh Dastidar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-17044/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-17044/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_17044,
+  title = {{Where Does Agent Reliability Come From? A Cross-Benchmark Decomposition of Verification Loops, Specialist Models, and Scaffolding in a Production Enterprise Agent}},
+  author = {{Arunabh Dastidar}},
+  year = {2026},
+  eprint = {2607.17044v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.17044v1},
+  note = {First published: 2026-07-19; Recorded arXiv version: v1; Recorded version updated: 2026-07-19T03:20:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

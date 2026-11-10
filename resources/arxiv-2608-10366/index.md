@@ -1,3 +1,11 @@
+---
+title: "DSAgentBench: Can Agents Automate End-to-End… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-10366/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?
 
 DSAgentBench evaluates end-to-end data-science workflows spanning analysis, modeling and visualization inside a real desktop environment. Task evaluators check produced analytical and visual artifacts, while the released interface supports screenshot or accessibility observations and GUI actions.
@@ -26,6 +34,18 @@ Mizanur Rahman, Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-10366/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-10366/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_10366,
+  title = {{DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?}},
+  author = {{Mizanur Rahman} and {Mohammed Saidul Islam} and {Ridwan Mahbub} and {Md Tahmid Rahman Laskar} and {Shafiq Joty} and {Enamul Hoque Prince}},
+  year = {2026},
+  eprint = {2608.10366v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.10366v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T01:45:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

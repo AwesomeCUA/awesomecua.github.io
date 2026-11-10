@@ -1,3 +1,11 @@
+---
+title: "Agentic World Action Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-30136/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic World Action Models
 
 Bibliographic record for Agentic World Action Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao, Jing Wang, Ruijie Zheng, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-30136/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-30136/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_30136,
+  title = {{Agentic World Action Models}},
+  author = {{Zhuoyang Liu} and {Dantong Niu} and {Botong Zhang} and {Boning Shao} and {Jing Wang} and {Ruijie Zheng} and {Yuvan Sharma} and {Runyu Lu} and {Jiaming Liu} and {Renrui Zhang} and {Roei Herzig} and {Yutong Bai} and {Ken Goldberg} and {Danfei Xu} and {Yuke Zhu} and {Guanzhi Wang} and {Linxi "Jim" Fan} and {Trevor Darrell}},
+  year = {2026},
+  eprint = {2610.30136v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.30136v1},
+  note = {First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T17:59:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

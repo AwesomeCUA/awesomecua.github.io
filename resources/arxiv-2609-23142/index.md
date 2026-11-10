@@ -1,3 +1,11 @@
+---
+title: "CraftBench-UE: Deterministic Evaluation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-23142/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CraftBench-UE: Deterministic Evaluation for Coding Agents in Unreal Engine
 
 Bibliographic record for CraftBench-UE: Deterministic Evaluation for Coding Agents in Unreal Engine. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shutong Wu, Kevin Calderone, Andy Tsen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-23142/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-23142/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_23142,
+  title = {{CraftBench-UE: Deterministic Evaluation for Coding Agents in Unreal Engine}},
+  author = {{Shutong Wu} and {Kevin Calderone} and {Andy Tsen}},
+  year = {2026},
+  eprint = {2609.23142v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.23142v1},
+  note = {First published: 2026-09-19; Recorded arXiv version: v1; Recorded version updated: 2026-09-19T17:18:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

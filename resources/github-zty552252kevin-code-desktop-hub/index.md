@@ -1,3 +1,11 @@
+---
+title: "desktop-hub | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # desktop-hub
 
 Compact 10-tool (~2.3k token) facade MCP server for macOS desktop automation.

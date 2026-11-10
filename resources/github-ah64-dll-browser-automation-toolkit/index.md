@@ -1,3 +1,11 @@
+---
+title: "AH64-dll Browser Automation Toolkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AH64-dll Browser Automation Toolkit
 
 Suite of five Python CDP utilities including a page watcher, form filler, table scraper, DOM change differ, and health checker.

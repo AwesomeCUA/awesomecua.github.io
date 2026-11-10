@@ -1,3 +1,11 @@
+---
+title: "PTA-1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-303e1926b8ff4f60e006/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # PTA-1
 
 AskUI 基于 Florence-2-base 的定位模型，约有 2.7 亿参数，可根据元素描述返回其在截图中的边界框，面向低延迟的本地计算机和手机自动化。

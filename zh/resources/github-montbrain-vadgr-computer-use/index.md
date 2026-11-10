@@ -1,3 +1,11 @@
+---
+title: "vadgr-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-montbrain-vadgr-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # vadgr-computer-use
 
 三层计算机使用 MCP 服务器，结合系统 Shell 工具、OS 无障碍树（UIA/AT-SPI/AX）和视觉备用方案。

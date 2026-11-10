@@ -1,3 +1,11 @@
+---
+title: "Multi-agent Framework for Time-Sensitive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15684/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft
 
 Bibliographic record for Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Juheon Yi, Jinglu Wang, Xiaoyi Zhang, Yan Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-15684/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-15684/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15684,
+  title = {{Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft}},
+  author = {{Juheon Yi} and {Jinglu Wang} and {Xiaoyi Zhang} and {Yan Lu}},
+  year = {2026},
+  eprint = {2606.15684v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15684v1},
+  note = {First published: 2026-06-14; Recorded arXiv version: v1; Recorded version updated: 2026-06-14T09:02:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

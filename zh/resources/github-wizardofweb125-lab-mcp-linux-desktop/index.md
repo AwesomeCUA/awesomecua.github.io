@@ -1,3 +1,11 @@
+---
+title: "mcp-linux-desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wizardofweb125-lab-mcp-linux-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mcp-linux-desktop
 
 用于全面控制 Linux 桌面的 Model Context Protocol 服务器，涵盖窗口、鼠标、键盘、剪贴板、音频、OCR 和无障碍功能。

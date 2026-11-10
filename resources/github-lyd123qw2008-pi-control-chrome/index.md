@@ -1,3 +1,11 @@
+---
+title: "pi-control-chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lyd123qw2008-pi-control-chrome/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pi-control-chrome
 
 Codex-aligned Chrome and Edge browser control extension and bridge for the Pi coding agent.

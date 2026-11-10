@@ -1,3 +1,11 @@
+---
+title: "Agentic Reward Modeling (RewardAgent) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thu-keg-agentic-reward-modeling/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agentic Reward Modeling (RewardAgent)
 
 RewardAgent 结合人类偏好评分，以及可验证的事实准确性和指令遵循检查，评判智能体轨迹。

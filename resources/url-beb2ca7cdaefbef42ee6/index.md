@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint-GUI-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-beb2ca7cdaefbef42ee6/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # MolmoPoint-GUI-8B
 
 GUI grounding model that takes one screenshot and an instruction-like query, then returns a point for the referenced location using dedicated pointing tokens.

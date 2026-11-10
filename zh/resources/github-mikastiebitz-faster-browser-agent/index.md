@@ -1,3 +1,11 @@
+---
+title: "faster-browser-agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mikastiebitz-faster-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # faster-browser-agent
 
 面向 AI 智能体的快速 MCP 浏览器服务器，通过读取无障碍树和应用源代码来导航复杂网页应用。

@@ -1,3 +1,11 @@
+---
+title: "Glasswarp Python SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-glasswarp-python-sdk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Glasswarp Python SDK
 
 Python SDK for the Glasswarp platform enabling AI agents to observe and control remote or local Windows PCs.

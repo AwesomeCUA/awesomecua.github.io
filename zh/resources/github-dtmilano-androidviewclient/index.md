@@ -1,3 +1,11 @@
+---
+title: "AndroidViewClient · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dtmilano-androidviewclient/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # AndroidViewClient
 
 一个 Python 安卓界面自动化工具，可创建可复用的测试，并通过 MCP 服务器向 AI 助手提供基于视图的交互、手势和设备控制功能。

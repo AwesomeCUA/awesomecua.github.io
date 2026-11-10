@@ -1,3 +1,11 @@
+---
+title: "Spice · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shells-com-spice/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Spice
 
 这个 Go 语言 SPICE 客户端库接收远程桌面画面更新并发送鼠标和键盘事件，还提供连接、画面渲染和剪贴板处理接口。

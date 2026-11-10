@@ -1,3 +1,11 @@
+---
+title: "CoACT: Action-Preserving Observation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-02911/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CoACT: Action-Preserving Observation Compression for Coding Agents
 
 Status: excluded from the active CUA catalog after scope review.

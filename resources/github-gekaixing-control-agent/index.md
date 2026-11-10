@@ -1,3 +1,11 @@
+---
+title: "Control-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gekaixing-control-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Control-Agent
 
 Unified multimodal control framework combining pure-vision desktop operation, structured DOM browser control, and ADB mobile automation.

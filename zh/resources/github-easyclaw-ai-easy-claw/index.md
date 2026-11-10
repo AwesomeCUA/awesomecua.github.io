@@ -1,3 +1,11 @@
+---
+title: "Easy Claw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-easyclaw-ai-easy-claw/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Easy Claw
 
 开源 AI 浏览器自动化智能体，用于执行多步网页工作流和页面交互。

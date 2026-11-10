@@ -1,3 +1,11 @@
+---
+title: "browserground · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-renezander030-browserground/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # browserground
 
 browserground 是紧凑的 Qwen3-VL-2B LoRA 视觉 UI 定位模型，将截图和文本目标映射为边界框 JSON。

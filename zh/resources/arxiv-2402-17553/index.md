@@ -1,3 +1,11 @@
+---
+title: "OmniACT: A Dataset and Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-17553/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web
 
 提出数据集和基准，用于根据截图及经过视觉定位的桌面或网页操作指令生成可执行任务脚本。
@@ -27,6 +35,18 @@ Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Wase
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-17553/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-17553/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_17553,
+  title = {{OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web}},
+  author = {{Raghav Kapoor} and {Yash Parag Butala} and {Melisa Russak} and {Jing Yu Koh} and {Kiran Kamble} and {Waseem Alshikh} and {Ruslan Salakhutdinov}},
+  year = {2024},
+  eprint = {2402.17553v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.17553v3},
+  note = {First published: 2024-02-27; Recorded arXiv version: v3; Recorded version updated: 2024-07-21T23:16:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

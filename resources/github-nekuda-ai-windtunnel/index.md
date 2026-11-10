@@ -1,3 +1,11 @@
+---
+title: "WindTunnel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nekuda-ai-windtunnel/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WindTunnel
 
 WindTunnel compares browser-agent interfaces on shared website tasks, measuring task completion, execution time, token use and cost with application-state checks.

@@ -1,11 +1,17 @@
+---
+title: "工作流：Computer-Use 研究与资源（第 8 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/workflow/page/8/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工作流：Computer-Use 研究与资源（第 8 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/workflow/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
-- [Neurosim](https://awesomecua.com/zh/resources/github-anaishowland-neurosim/)
-- [Northstar (Legacy Portal CUA)](https://awesomecua.com/zh/resources/github-zoyaarief-legacy-credit-union-automation/)
 - [Notte CLI](https://awesomecua.com/zh/resources/github-nottelabs-notte-cli/)
 - [Nova Act Extension](https://awesomecua.com/zh/resources/github-aws-nova-act-extension/)
 - [Nova Act SDK](https://awesomecua.com/zh/resources/github-aws-nova-act/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/8/
 - [record-and-replay-skill](https://awesomecua.com/zh/resources/github-ugarchance-record-and-replay-skill/)
 - [RecordAgent (ButvanAgent)](https://awesomecua.com/zh/resources/github-kavanio-recordagent/)
 - [Recruit Auto-Reply](https://awesomecua.com/zh/resources/github-kxc7558-recruit-auto-reply/)
+- [Replay (Teach-by-Demonstration)](https://awesomecua.com/zh/resources/github-misb74-replay/)
+- [Replay AI](https://awesomecua.com/zh/resources/github-bryansbtian-replay-ai/)

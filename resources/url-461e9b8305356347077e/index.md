@@ -1,3 +1,11 @@
+---
+title: "Regimes/androidcontrol-cl | AwesomeCUA"
+url: https://awesomecua.com/resources/url-461e9b8305356347077e/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Regimes/androidcontrol-cl
 
 AndroidControl-CL provides Android GUI screenshot trajectories and structured training and evaluation data for continual GUI learning.

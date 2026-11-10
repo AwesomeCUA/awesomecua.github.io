@@ -1,3 +1,11 @@
+---
+title: "Electron Stagewright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-electron-stagewright-electron-stagewright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Electron Stagewright
 
 Model Context Protocol server and SDK for driving Electron desktop applications with Playwright-style locators and actions.

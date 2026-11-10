@@ -1,3 +1,11 @@
+---
+title: "Browser Takeover Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fangsylar-pixel-browser-takeover-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Takeover Bridge
 
 Local-first browser bridge for securely attaching AI agents to already-open authenticated Chrome and Edge sessions with human handoff.

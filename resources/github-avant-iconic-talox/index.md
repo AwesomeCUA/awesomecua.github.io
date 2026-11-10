@@ -1,3 +1,11 @@
+---
+title: "Talox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-avant-iconic-talox/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Talox
 
 Talox is a stateful Playwright browser runtime for AI agents with stealth interaction, structured page state, and trace observability.

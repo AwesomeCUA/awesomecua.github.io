@@ -1,3 +1,11 @@
+---
+title: "Daedalus for Chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anchor-inference-daedalus-chrome-extension/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Daedalus for Chrome
 
 一个通过 Chrome 调试器 API 和浏览器守护进程，将 Daedalus 智能体连接到浏览器标签页的 Chrome 扩展。

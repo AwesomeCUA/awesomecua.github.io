@@ -1,3 +1,11 @@
+---
+title: "Human-Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hterzia-human-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Human-Browser
 
 Vision-driven browser automation service where an external LLM sets high-level goals and a visual browser assistant executes them.

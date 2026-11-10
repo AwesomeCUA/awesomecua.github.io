@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor 2B Qwen2-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e42b286fd85b62bd7bb1/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Actor 2B Qwen2-VL
 
 GUI-Actor grounding checkpoint built on Qwen2-VL-2B-Instruct with an attention-based action head that proposes ranked click points for an instruction on a screenshot, without emitting coordinates as text.

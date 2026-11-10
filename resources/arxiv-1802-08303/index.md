@@ -1,3 +1,11 @@
+---
+title: "The Quantum Abacus: Analog Computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1802-08303/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Quantum Abacus: Analog Computing using Surface Rydberg States
 
 Status: excluded from the active CUA catalog after scope review.

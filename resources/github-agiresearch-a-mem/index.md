@@ -1,3 +1,11 @@
+---
+title: "A-MEM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agiresearch-a-mem/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # A-MEM
 
 A-MEM implements a Zettelkasten-inspired dynamic memory architecture that links and evolves structured episodic notes for LLM agents.

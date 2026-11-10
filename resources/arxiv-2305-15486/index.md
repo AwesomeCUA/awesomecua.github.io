@@ -1,3 +1,11 @@
+---
+title: "SPRING: Studying the Paper and Reasoning to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-15486/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SPRING: Studying the Paper and Reasoning to Play Games
 
 Status: excluded from the active CUA catalog after scope review.

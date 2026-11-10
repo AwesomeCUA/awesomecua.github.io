@@ -1,3 +1,11 @@
+---
+title: "Tag-system computation using only powers and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-10592/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Tag-system computation using only powers and principal logarithms
 
 Status: excluded from the active CUA catalog after scope review.

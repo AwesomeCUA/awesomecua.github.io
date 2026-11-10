@@ -1,3 +1,11 @@
+---
+title: "When to Compile a Computer-Use Agent?… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02932/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # When to Compile a Computer-Use Agent? Measuring Payback and Making Compilation Decisions for Token Efficiency
 
 Introduces PACE, a protocol and online decision rule for deciding when repeated GUI procedures are worth compiling into programs. It accounts for failed compilation attempts, measured per-use savings, uncertain reuse, and execution costs under an explicit cumulative budget.
@@ -26,6 +34,18 @@ Yulong Ming, Jie Xu, Zihan Wu, Xiaohua Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02932/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02932/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02932,
+  title = {{When to Compile a Computer-Use Agent? Measuring Payback and Making Compilation Decisions for Token Efficiency}},
+  author = {{Yulong Ming} and {Jie Xu} and {Zihan Wu} and {Xiaohua Jia}},
+  year = {2026},
+  eprint = {2610.02932v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02932v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T07:22:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

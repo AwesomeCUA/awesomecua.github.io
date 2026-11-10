@@ -1,3 +1,11 @@
+---
+title: "WebMCP Stack · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-souravinsights-webmcp-stack/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WebMCP Stack
 
 直接从现有 OpenAPI 和后端契约生成经过人工审核的类型化 WebMCP 浏览器工具。

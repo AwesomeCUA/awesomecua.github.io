@@ -1,3 +1,11 @@
+---
+title: "GUIDE: Graphical User Interface Data for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2404-16048/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # GUIDE: Graphical User Interface Data for Execution
 
 提出带标注的网站任务轨迹，包含截图、先前操作、推理过程和经过定位的下一步操作，用于流程自动化。
@@ -27,6 +35,18 @@ Rajat Chawla, Adarsh Jha, Muskaan Kumar, Mukunda NS, Ishaan Bhola
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2404-16048/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2404-16048/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_16048,
+  title = {{GUIDE: Graphical User Interface Data for Execution}},
+  author = {{Rajat Chawla} and {Adarsh Jha} and {Muskaan Kumar} and {Mukunda NS} and {Ishaan Bhola}},
+  year = {2024},
+  eprint = {2404.16048v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.16048v2},
+  note = {First published: 2024-04-09; Recorded arXiv version: v2; Recorded version updated: 2024-10-27T05:54:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

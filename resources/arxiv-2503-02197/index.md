@@ -1,3 +1,11 @@
+---
+title: "ATLaS: Agent Tuning via Learning Critical Steps | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-02197/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ATLaS: Agent Tuning via Learning Critical Steps
 
 Selects critical steps from expert interaction trajectories for targeted agent fine-tuning, studying efficiency and generalization across tasks.
@@ -26,6 +34,18 @@ Zhixun Chen, Ming Li, Yuxuan Huang, Yali Du, Meng Fang, Tianyi Zhou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-02197/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-02197/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_02197,
+  title = {{ATLaS: Agent Tuning via Learning Critical Steps}},
+  author = {{Zhixun Chen} and {Ming Li} and {Yuxuan Huang} and {Yali Du} and {Meng Fang} and {Tianyi Zhou}},
+  year = {2025},
+  eprint = {2503.02197v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.02197v2},
+  note = {First published: 2025-03-04; Recorded arXiv version: v2; Recorded version updated: 2025-06-05T01:42:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Human: Benchmarking the Efficiency of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-16042/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents
 
 OSWorld-Human adds human-determined trajectories to OSWorld to evaluate the efficiency of desktop computer-use agents. The study compares 16 agents and analyzes model-call latency, changes in step duration during task execution, and excess action steps.
@@ -26,6 +34,18 @@ Reyna Abhyankar, Qi Qi, Yiying Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-16042/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-16042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_16042,
+  title = {{OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents}},
+  author = {{Reyna Abhyankar} and {Qi Qi} and {Yiying Zhang}},
+  year = {2025},
+  eprint = {2506.16042v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.16042v2},
+  note = {First published: 2025-06-19; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T17:55:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

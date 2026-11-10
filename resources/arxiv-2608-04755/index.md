@@ -1,3 +1,11 @@
+---
+title: "\"Allow\" to Achieve, Over-Privileged… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-04755/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # "Allow" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents
 
 This permission-literacy study tests whether mobile GUI agents grant only task-necessary permissions. Controlled changes to task context and requester identity expose authorization biases and the trade-off between suppressing unnecessary and legitimate grants.
@@ -26,6 +34,18 @@ Dongsheng Chen, Yuxuan Li, Guanhua Chen, Jiaxin Zhang, Xiangyu Zhao, Lei Ma, Xin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-04755/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-04755/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_04755,
+  title = {{"Allow" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents}},
+  author = {{Dongsheng Chen} and {Yuxuan Li} and {Guanhua Chen} and {Jiaxin Zhang} and {Xiangyu Zhao} and {Lei Ma} and {Xin Yao} and {Xuetao Wei}},
+  year = {2026},
+  eprint = {2608.04755v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.04755v1},
+  note = {First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T12:23:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

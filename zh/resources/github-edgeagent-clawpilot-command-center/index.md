@@ -1,3 +1,11 @@
+---
+title: "ClawPilot Command Center · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-edgeagent-clawpilot-command-center/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ClawPilot Command Center
 
 面向 OpenClaw 智能体的 Chrome Manifest V3 控制中心，用于采集页面上下文、审查计划中的动作并监控运行过程。

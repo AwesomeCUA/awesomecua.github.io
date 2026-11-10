@@ -1,3 +1,11 @@
+---
+title: "Imitating Human Search Strategies for Assembly | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1809-04860/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Imitating Human Search Strategies for Assembly
 
 Status: excluded from the active CUA catalog after scope review.

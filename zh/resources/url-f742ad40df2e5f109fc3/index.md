@@ -1,3 +1,11 @@
+---
+title: "cua-s1-forms-coreml · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f742ad40df2e5f109fc3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # cua-s1-forms-coreml
 
 这款 CUA-S1-FORMS 的 Core ML 转换模型根据任务和界面元素文本，对表单的候选操作评分。它为 Apple 设备提供可移植和已编译的模型包。

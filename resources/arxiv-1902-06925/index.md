@@ -1,3 +1,11 @@
+---
+title: "Spin-wave mediated interactions for Majority… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1902-06925/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Spin-wave mediated interactions for Majority Computation using Skyrmions and Spin-torque Nano-oscillators
 
 Status: excluded from the active CUA catalog after scope review.

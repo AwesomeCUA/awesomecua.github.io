@@ -1,10 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 11 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/11/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 11
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/11/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [DeepSeek Harness Mac Control](https://awesomecua.com/resources/github-18126295767-cell-dsh-mac-control/)
 - [DeepSeek Harness Volcengine OS Agent Plugin](https://awesomecua.com/resources/github-chenjie1129-deepseek-harness-os-agent-plugin/)
 - [deepseek-web-search-plugin](https://awesomecua.com/resources/github-wojiuluguo-deepseek-web-search-plugin/)
 - [DEIMOS (Environment-Aware Computer Agent)](https://awesomecua.com/resources/github-sakshamjuneja007-freaky-monkey/)
@@ -51,7 +58,6 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [DSH × Termux — mobile operations kit](https://awesomecua.com/resources/github-maopk-dsh-termux-kit/)
 - [dsh-antibrow](https://awesomecua.com/resources/github-antibrow-dsh-antibrow/)
 - [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/)
-- [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/)
 - [dsh-browser-playwright](https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/)
 - [dsh-browser-plus](https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [dsh-computer-use](https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/)
 - [dsh-cua](https://awesomecua.com/resources/github-hutusion-dsh-cua/)
 - [dsh-desktop-automation](https://awesomecua.com/resources/github-junkrat9527-dsh-desktop-automation/)
+- [dsh-jiey-browser](https://awesomecua.com/resources/github-jiewaigongxing-dsh-jiey-browser/)
+- [dsh-live-loop](https://awesomecua.com/resources/github-powerrrrrrrr-dsh-live-loop/)

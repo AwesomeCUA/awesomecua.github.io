@@ -1,3 +1,11 @@
+---
+title: "RedTeamCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # RedTeamCUA
 
 A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.

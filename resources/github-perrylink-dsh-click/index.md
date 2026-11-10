@@ -1,3 +1,11 @@
+---
+title: "dsh-click | AwesomeCUA"
+url: https://awesomecua.com/resources/github-perrylink-dsh-click/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-click
 
 Cross-platform native desktop control plugin for DeepSeek Harness supporting screenshots, UI element search, and mouse/keyboard actions.

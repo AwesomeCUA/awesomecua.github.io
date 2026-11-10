@@ -1,3 +1,11 @@
+---
+title: "NaviFlow · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-marc-ing-navi-flow/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # NaviFlow
 
 面向 Chrome、受监督的开源 AI 浏览器智能体，可规划、导航、点击、输入并验证网页工作流。

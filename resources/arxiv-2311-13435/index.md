@@ -1,3 +1,11 @@
+---
+title: "PG-Video-LLaVA: Pixel Grounding Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-13435/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # PG-Video-LLaVA: Pixel Grounding Large Video-Language Models
 
 Bibliographic record for PG-Video-LLaVA: Pixel Grounding Large Video-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-13435/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-13435/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_13435,
+  title = {{PG-Video-LLaVA: Pixel Grounding Large Video-Language Models}},
+  author = {{Shehan Munasinghe} and {Rusiru Thushara} and {Muhammad Maaz} and {Hanoona Abdul Rasheed} and {Salman Khan} and {Mubarak Shah} and {Fahad Khan}},
+  year = {2023},
+  eprint = {2311.13435v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.13435v2},
+  note = {First published: 2023-11-22; Recorded arXiv version: v2; Recorded version updated: 2023-12-13T17:24:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

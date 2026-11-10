@@ -1,3 +1,11 @@
+---
+title: "Dataset: Copy-based Reuse in Open Source… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-09370/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Dataset: Copy-based Reuse in Open Source Software
 
 Status: excluded from the active CUA catalog after scope review.

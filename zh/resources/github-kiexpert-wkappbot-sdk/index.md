@@ -1,3 +1,11 @@
+---
+title: "WKAppBot SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kiexpert-wkappbot-sdk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WKAppBot SDK
 
 WKAppBot 是开源的 Windows Computer Use 和 AppBot SDK，为 AI 智能体提供结构化 UI 感知和动作执行能力。

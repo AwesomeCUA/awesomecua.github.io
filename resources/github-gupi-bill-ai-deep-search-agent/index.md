@@ -1,3 +1,11 @@
+---
+title: "AI Deep Search Agent (AI 深度搜索助手) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gupi-bill-ai-deep-search-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AI Deep Search Agent (AI 深度搜索助手)
 
 Visual browser agent that drives a real Microsoft Edge window from natural-language goals to conduct deep web research.

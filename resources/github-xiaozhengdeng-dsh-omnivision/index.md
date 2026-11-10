@@ -1,3 +1,11 @@
+---
+title: "dsh_omnivision (OmniVision) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaozhengdeng-dsh-omnivision/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh_omnivision (OmniVision)
 
 OmniParser-powered GUI agent plugin for DeepSeek Harness providing screen element detection and desktop mouse/keyboard automation.

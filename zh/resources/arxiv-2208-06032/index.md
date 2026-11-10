@@ -1,3 +1,11 @@
+---
+title: "CORNET: Learning Table Formatting Rules… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2208-06032/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # CORNET: Learning Table Formatting Rules By Example
 
 提出 CORNET，根据用户已设置格式的单元格学习电子表格条件格式规则，结合符号规则枚举与神经排序。
@@ -27,6 +35,18 @@ Mukul Singh, José Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, Mohammad R
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2208-06032/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2208-06032/citation.csl.json
+
+```bibtex
+@misc{arxiv_2208_06032,
+  title = {{CORNET: Learning Table Formatting Rules By Example}},
+  author = {{Mukul Singh} and {José Cambronero} and {Sumit Gulwani} and {Vu Le} and {Carina Negreanu} and {Mohammad Raza} and {Gust Verbruggen}},
+  year = {2022},
+  eprint = {2208.06032v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2208.06032v4},
+  note = {First published: 2022-08-11; Recorded arXiv version: v4; Recorded version updated: 2022-12-05T13:01:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

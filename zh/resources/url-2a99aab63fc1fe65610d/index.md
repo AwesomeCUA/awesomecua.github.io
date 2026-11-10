@@ -1,3 +1,11 @@
+---
+title: "GLM-4.6V-FP8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2a99aab63fc1fe65610d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GLM-4.6V-FP8
 
 这款 FP8 多模态模型检查点支持以屏幕截图作为输入调用工具，并能根据界面图像生成或修改前端代码。

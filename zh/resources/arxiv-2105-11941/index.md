@@ -1,3 +1,11 @@
+---
+title: "Understanding Mobile GUI: from… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2105-11941/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Understanding Mobile GUI: from Pixel-Words to Screen-Sentences
 
 将移动屏幕建模为基本文本和图形组件，由 Screen Transformer 学习组件间关系。提出 RICO-PW 标注，并在关系、可点击性、检索和应用分类任务上评估无需元数据的屏幕理解。
@@ -27,6 +35,18 @@ Jingwen Fu, Xiaoyi Zhang, Yuwang Wang, Wenjun Zeng, Sam Yang, Grayson Hilliard
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2105-11941/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2105-11941/citation.csl.json
+
+```bibtex
+@misc{arxiv_2105_11941,
+  title = {{Understanding Mobile GUI: from Pixel-Words to Screen-Sentences}},
+  author = {{Jingwen Fu} and {Xiaoyi Zhang} and {Yuwang Wang} and {Wenjun Zeng} and {Sam Yang} and {Grayson Hilliard}},
+  year = {2021},
+  eprint = {2105.11941v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2105.11941v2},
+  note = {First published: 2021-05-25; Recorded arXiv version: v2; Recorded version updated: 2022-04-14T11:00:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

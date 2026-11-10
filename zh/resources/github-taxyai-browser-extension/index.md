@@ -1,3 +1,11 @@
+---
+title: "Taxy AI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-taxyai-browser-extension/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Taxy AI
 
 Taxy AI 是一款 Chrome 扩展，可根据用户指令和简化后的页面 DOM 执行点击与文本输入，并在继续操作前查看更新后的页面。

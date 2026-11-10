@@ -1,3 +1,11 @@
+---
+title: "KnowU-Bench: Towards Interactive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-08455/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation
 
 提出基于 Android 模拟环境的移动智能体基准 KnowU-Bench，评估偏好探询、主动介入决策、征求同意与 GUI 任务执行。
@@ -27,6 +35,18 @@ Tongbo Chen, Zhengxi Lu, Zhan Xu, Guocheng Shao, Shaohan Zhao, Fei Tang, Yong Du
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-08455/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-08455/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_08455,
+  title = {{KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation}},
+  author = {{Tongbo Chen} and {Zhengxi Lu} and {Zhan Xu} and {Guocheng Shao} and {Shaohan Zhao} and {Fei Tang} and {Yong Du} and {Kaitao Song} and {Yizhou Liu} and {Yuchen Yan} and {Wenqi Zhang} and {Xu Tan} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2604.08455v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.08455v1},
+  note = {First published: 2026-04-09; Recorded arXiv version: v1; Recorded version updated: 2026-04-09T16:50:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

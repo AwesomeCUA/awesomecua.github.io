@@ -1,3 +1,11 @@
+---
+title: "InteractScience: Programmatic and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-09724/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation
 
 Bibliographic record for InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiaosheng Chen, Yang Liu, Lei Li, Kai Chen, Qipeng Guo, Gong Cheng, Fei Yuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-09724/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-09724/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_09724,
+  title = {{InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation}},
+  author = {{Qiaosheng Chen} and {Yang Liu} and {Lei Li} and {Kai Chen} and {Qipeng Guo} and {Gong Cheng} and {Fei Yuan}},
+  year = {2025},
+  eprint = {2510.09724v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.09724v2},
+  note = {First published: 2025-10-10; Recorded arXiv version: v2; Recorded version updated: 2026-05-20T11:39:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

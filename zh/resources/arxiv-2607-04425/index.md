@@ -1,3 +1,11 @@
+---
+title: "UI-MOPD: Multi-Platform On-Policy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-04425/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents
 
 研究提出桌面和移动端可执行轨迹集 Uni-GUI，以及利用各平台教师模型从自身执行轨迹训练共享策略的 UI-MOPD。蒸馏过程将每个到访状态交给相应教师，以保留不同平台的交互惯例。
@@ -27,6 +35,18 @@ Niu Lian, Tongbo Chen, Zhehao Yu, Chengzhen Duan, Fazhan Liu, Hui Liu, Pei Fu, J
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-04425/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-04425/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_04425,
+  title = {{UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents}},
+  author = {{Niu Lian} and {Tongbo Chen} and {Zhehao Yu} and {Chengzhen Duan} and {Fazhan Liu} and {Hui Liu} and {Pei Fu} and {Jian Luan} and {Heng Qu} and {Shu-Tao Xia} and {Jinpeng Wang}},
+  year = {2026},
+  eprint = {2607.04425v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.04425v2},
+  note = {First published: 2026-07-05; Recorded arXiv version: v2; Recorded version updated: 2026-08-10T13:11:37Z.}
+}
+```
 
 ## arXiv 版本记录
 

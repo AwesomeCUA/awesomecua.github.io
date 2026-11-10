@@ -1,3 +1,11 @@
+---
+title: "Video-Browser: Towards Open-web Agentic Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-23044/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Video-Browser: Towards Open-web Agentic Video Browsing
 
 Bibliographic record for Video-Browser: Towards Open-web Agentic Video Browsing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhengyang Liang, Yan Shu, Xiangrui Liu, Minghao Qin, Nicu Sebe, Jiaxin Mao, Zhen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-23044/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-23044/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_23044,
+  title = {{Video-Browser: Towards Open-web Agentic Video Browsing}},
+  author = {{Zhengyang Liang} and {Yan Shu} and {Xiangrui Liu} and {Minghao Qin} and {Nicu Sebe} and {Jiaxin Mao} and {Zheng Liu} and {Lizi Liao}},
+  year = {2025},
+  eprint = {2512.23044v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.23044v3},
+  note = {First published: 2025-12-28; Recorded arXiv version: v3; Recorded version updated: 2026-10-13T17:54:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

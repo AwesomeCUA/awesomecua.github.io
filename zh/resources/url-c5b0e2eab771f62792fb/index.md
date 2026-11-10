@@ -1,3 +1,11 @@
+---
+title: "laya-browser · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c5b0e2eab771f62792fb/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # laya-browser
 
 基于 322M 参数 laya 编码器微调的非生成式浏览器智能体策略；单次前向计算读取页面文本和可交互元素列表，选出下一步操作及目标元素。

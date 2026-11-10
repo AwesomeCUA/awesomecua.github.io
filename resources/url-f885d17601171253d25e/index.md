@@ -1,3 +1,11 @@
+---
+title: "ACT-1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f885d17601171253d25e/
+updated: 2026-10-20
+type: model
+lang: en
+---
+
 # ACT-1
 
 Adept's 2022 action transformer, previewed in demo videos of a Chrome extension that reads a custom rendering of the page and clicks, types and scrolls on its UI elements to carry out typed requests.

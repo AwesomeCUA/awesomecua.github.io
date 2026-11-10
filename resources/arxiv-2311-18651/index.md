@@ -1,3 +1,11 @@
+---
+title: "LL3DA: Visual Interactive Instruction Tuning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-18651/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning
 
 Bibliographic record for LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sijin Chen, Xin Chen, Chi Zhang, Mingsheng Li, Gang Yu, Hao Fei, Hongyuan Zhu, J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-18651/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-18651/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_18651,
+  title = {{LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning}},
+  author = {{Sijin Chen} and {Xin Chen} and {Chi Zhang} and {Mingsheng Li} and {Gang Yu} and {Hao Fei} and {Hongyuan Zhu} and {Jiayuan Fan} and {Tao Chen}},
+  year = {2023},
+  eprint = {2311.18651v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.18651v1},
+  note = {First published: 2023-11-30; Recorded arXiv version: v1; Recorded version updated: 2023-11-30T16:00:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Robust Communication and Computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-03548/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Robust Communication and Computation using Deep Learning via Joint Uncertainty Injection
 
 Status: excluded from the active CUA catalog after scope review.

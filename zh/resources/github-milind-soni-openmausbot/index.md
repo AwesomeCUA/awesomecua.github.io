@@ -1,3 +1,11 @@
+---
+title: "OpenMausBot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-milind-soni-openmausbot/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # OpenMausBot
 
 桌面聊天应用，其机器人可运行本地 Claude、Codex 或 Grok CLI，并各自通过 Cua Driver 使用云端 Linux 桌面、本地虚拟机、VPS 或宿主机，还内置浏览器和审批卡片。

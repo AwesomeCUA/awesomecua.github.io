@@ -1,3 +1,11 @@
+---
+title: "Analyzing Dynamic Adversarial Training Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2110-08514/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Analyzing Dynamic Adversarial Training Data in the Limit
 
 Bibliographic record for Analyzing Dynamic Adversarial Training Data in the Limit. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Eric Wallace, Adina Williams, Robin Jia, Douwe Kiela
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2110-08514/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2110-08514/citation.csl.json
+
+```bibtex
+@misc{arxiv_2110_08514,
+  title = {{Analyzing Dynamic Adversarial Training Data in the Limit}},
+  author = {{Eric Wallace} and {Adina Williams} and {Robin Jia} and {Douwe Kiela}},
+  year = {2021},
+  eprint = {2110.08514v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2110.08514v2},
+  note = {First published: 2021-10-16; Recorded arXiv version: v2; Recorded version updated: 2022-09-26T18:59:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

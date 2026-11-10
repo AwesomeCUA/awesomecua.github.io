@@ -1,3 +1,11 @@
+---
+title: "headless-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-flyingsquirrel0419-headless-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # headless-use
 
 Headless Linux browser runtime and CLI giving coding agents a real Chromium browser with persistent sessions.

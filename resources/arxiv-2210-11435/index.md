@@ -1,3 +1,11 @@
+---
+title: "Learning and Retrieval from Prior Data for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-11435/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning and Retrieval from Prior Data for Skill-based Imitation Learning
 
 Status: excluded from the active CUA catalog after scope review.

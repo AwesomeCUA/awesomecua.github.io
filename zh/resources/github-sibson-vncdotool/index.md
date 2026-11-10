@@ -1,3 +1,11 @@
+---
+title: "vncdotool · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sibson-vncdotool/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # vncdotool
 
 一个命令行 VNC 客户端，可向远程桌面会话发送输入并截取屏幕，也可用于虚拟机提供的会话。

@@ -1,3 +1,11 @@
+---
+title: "Large Language Model based Multi-Agents: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-01680/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large Language Model based Multi-Agents: A Survey of Progress and Challenges
 
 Status: excluded from the active CUA catalog after scope review.

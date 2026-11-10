@@ -1,3 +1,11 @@
+---
+title: "API Agents vs. GUI Agents: Divergence… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-11069/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # API Agents vs. GUI Agents: Divergence and Convergence
 
 从架构、开发和交互方面比较 API 驱动与 GUI 驱动的智能体，并讨论混合方式的适用情形。
@@ -27,6 +35,18 @@ Chaoyun Zhang, Shilin He, Liqun Li, Si Qin, Yu Kang, Qingwei Lin, Saravan Rajmoh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-11069/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-11069/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_11069,
+  title = {{API Agents vs. GUI Agents: Divergence and Convergence}},
+  author = {{Chaoyun Zhang} and {Shilin He} and {Liqun Li} and {Si Qin} and {Yu Kang} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang}},
+  year = {2025},
+  eprint = {2503.11069v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.11069v2},
+  note = {First published: 2025-03-14; Recorded arXiv version: v2; Recorded version updated: 2025-06-23T13:01:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "handraise-telegram · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sy-d-handraise-telegram/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # handraise-telegram
 
 一个面向浏览器智能体交接的 Telegram 适配器，会向聊天发送页面截图和批准按钮，再返回用户的决定。

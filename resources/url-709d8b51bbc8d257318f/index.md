@@ -1,3 +1,11 @@
+---
+title: "KV-Ground-4B-BaseGuiOwl1.5-0228 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-709d8b51bbc8d257318f/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # KV-Ground-4B-BaseGuiOwl1.5-0228
 
 A 4B vision-language checkpoint for locating GUI targets in high-resolution images. It is fine-tuned from GUI-Owl-1.5-4B-Instruct with supervised and reward-based post-training.

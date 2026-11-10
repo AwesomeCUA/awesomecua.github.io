@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-235B-A22B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8f5ec99c2aad6c73fed7/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-235B-A22B-Instruct
 
 A Qwen3-VL vision-language checkpoint whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.

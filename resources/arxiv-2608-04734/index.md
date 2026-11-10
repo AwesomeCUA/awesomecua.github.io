@@ -1,3 +1,11 @@
+---
+title: "A Systolic Array Architecture for Nonlinear… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-04734/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Systolic Array Architecture for Nonlinear Activation Functions and Softmax Computation using Chebyshev Polynomials
 
 Status: excluded from the active CUA catalog after scope review.

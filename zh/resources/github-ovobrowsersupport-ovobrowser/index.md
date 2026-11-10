@@ -1,3 +1,11 @@
+---
+title: "OvoBrowser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OvoBrowser
 
 从源码层面实现指纹机制的 Chromium 浏览器，专为反检测网页自动化设计。

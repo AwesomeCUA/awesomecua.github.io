@@ -1,3 +1,11 @@
+---
+title: "Nuphus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mrpulor-gh-nuphus/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Nuphus
 
 Local-first desktop AI agent platform with real desktop GUI execution and a companion mobile second-screen controller.

@@ -1,3 +1,11 @@
+---
+title: "OpenMuse · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-copilotkit-openmuse/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # OpenMuse
 
 OpenMuse 是一款个人智能体应用，可在持久化的 Chromium 中浏览公开网页，并让用户查看或接管会话。它还支持终端、文件和 PDF 操作。

@@ -1,3 +1,11 @@
+---
+title: "ReDel: A Toolkit for LLM-Powered Recursive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-02248/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Codex Dynamic Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guraqwq-codex-dynamic-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex Dynamic Bridge
 
 通过全局辅助进程和本地 CDP 连接 OpenAI Codex 与 Antigravity，以管理会话、模型和浏览器任务。

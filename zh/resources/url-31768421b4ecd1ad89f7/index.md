@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis web training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-31768421b4ecd1ad89f7/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # OS-Genesis web training data
 
 受访问控制的 OS-Genesis 网页数据版本，含一个反向任务合成训练轨迹 JSONL 文件和截图归档；项目 README 将其列为 WA 检查点的训练数据。

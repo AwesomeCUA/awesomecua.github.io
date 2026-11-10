@@ -1,3 +1,11 @@
+---
+title: "Aguvis stage 2 trajectory data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b5e2127e07f692d516b9/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Aguvis stage 2 trajectory data
 
 Aguvis 第二阶段的界面轨迹数据集，用于在定位预训练后学习操作序列、规划和推理。

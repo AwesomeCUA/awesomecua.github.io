@@ -1,3 +1,11 @@
+---
+title: "GUI-Based Software Testing: An Automated… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ffc05c4425f777924940/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver
 
 A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.
@@ -26,6 +34,21 @@ Daniel Zimmermann, Anne Koziolek
 
 - BibTeX: https://awesomecua.com/resources/url-ffc05c4425f777924940/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-ffc05c4425f777924940/citation.csl.json
+
+```bibtex
+@inproceedings{cua_b6997e497bb06e68e4d8421c,
+  title = {{GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver}},
+  author = {{Daniel Zimmermann} and {Anne Koziolek}},
+  year = {2023},
+  month = sep,
+  booktitle = {2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)},
+  publisher = {IEEE},
+  pages = {171-174},
+  doi = {10.1109/asew60602.2023.00028},
+  url = {https://ieeexplore.ieee.org/abstract/document/10298721},
+  note = {Publication date: 2023-09-11.}
+}
+```
 
 ## Publication record
 

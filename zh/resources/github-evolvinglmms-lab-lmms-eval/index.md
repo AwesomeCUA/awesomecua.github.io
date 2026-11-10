@@ -1,3 +1,11 @@
+---
+title: "LMMs-Eval · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-evolvinglmms-lab-lmms-eval/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # LMMs-Eval
 
 LMMs-Eval 是面向大型多模态模型的标准化评测测试框架，涵盖 GUI 定位、VQA、文档和视频评测基准。

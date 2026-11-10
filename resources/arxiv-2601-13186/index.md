@@ -1,3 +1,11 @@
+---
+title: "Prompt Injection Mitigation with Agentic AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-13186/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Prompt Injection Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching
 
 Status: excluded from the active CUA catalog after scope review.

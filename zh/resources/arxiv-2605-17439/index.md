@@ -1,3 +1,11 @@
+---
+title: "DiagEval: Trajectory-Conditioned… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-17439/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents
 
 DiagEval 复用 GUI 智能体评测交互式软件时失败的操作轨迹，选择针对性探查，以区分评测执行错误与软件缺陷。
@@ -27,6 +35,18 @@ Sirui Hong, Zhijie Liu, Tengfei Li, Wei Tao, Yifan Wu, Chenglin Wu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-17439/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-17439/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_17439,
+  title = {{DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents}},
+  author = {{Sirui Hong} and {Zhijie Liu} and {Tengfei Li} and {Wei Tao} and {Yifan Wu} and {Chenglin Wu}},
+  year = {2026},
+  eprint = {2605.17439v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.17439v2},
+  note = {First published: 2026-05-17; Recorded arXiv version: v2; Recorded version updated: 2026-05-19T07:14:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

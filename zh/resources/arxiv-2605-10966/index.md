@@ -1,3 +1,11 @@
+---
+title: "MMTB: Evaluating Terminal Agents on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-10966/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MMTB: Evaluating Terminal Agents on Multimedia-File Tasks
 
 MultiMedia-TerminalBench 评估使用终端工具处理音视频文件的智能体；Terminus-MM 测试框架加入多媒体感知，以研究可获取的证据如何改变可执行工作流和任务结果。
@@ -27,6 +35,18 @@ Chiyeong Heo, Jaechang Kim, Junhyuk Kwon, Hoyoung Kim, Dongmin Park, Jonghyun Le
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-10966/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-10966/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_10966,
+  title = {{MMTB: Evaluating Terminal Agents on Multimedia-File Tasks}},
+  author = {{Chiyeong Heo} and {Jaechang Kim} and {Junhyuk Kwon} and {Hoyoung Kim} and {Dongmin Park} and {Jonghyun Lee} and {Jungseul Ok}},
+  year = {2026},
+  eprint = {2605.10966v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.10966v1},
+  note = {First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T10:57:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

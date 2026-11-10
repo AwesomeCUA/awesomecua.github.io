@@ -1,3 +1,11 @@
+---
+title: "CS-PaperSum: A Large-Scale Dataset of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-20582/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CS-PaperSum: A Large-Scale Dataset of AI-Generated Summaries for Scientific Papers
 
 Status: excluded from the active CUA catalog after scope review.

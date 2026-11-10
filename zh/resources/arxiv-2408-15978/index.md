@@ -1,3 +1,11 @@
+---
+title: "WebPilot: A Versatile and Autonomous… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2408-15978/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration
 
 WebPilot 在网页任务执行中将全局子任务规划与局部蒙特卡洛树搜索分开，持续调整总体计划，并根据不确定的状态转移和不完整的观察调整局部搜索；在 WebArena 和 MiniWoB++ 上进行评估。
@@ -27,6 +35,18 @@ Yao Zhang, Zijian Ma, Yunpu Ma, Zhen Han, Yu Wu, Volker Tresp
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2408-15978/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2408-15978/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_15978,
+  title = {{WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration}},
+  author = {{Yao Zhang} and {Zijian Ma} and {Yunpu Ma} and {Zhen Han} and {Yu Wu} and {Volker Tresp}},
+  year = {2024},
+  eprint = {2408.15978v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.15978v1},
+  note = {First published: 2024-08-28; Recorded arXiv version: v1; Recorded version updated: 2024-08-28T17:49:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

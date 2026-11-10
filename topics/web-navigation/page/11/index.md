@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 11 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/11/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 11
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/11/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [OpenWebVoyager-opt-1](https://awesomecua.com/resources/url-bd293c9a5f9bf16b8199/)
 - [OpenWebVoyager-opt-2](https://awesomecua.com/resources/url-f4f6f5bfe051e6ba3d94/)
 - [OpenWebVoyager-opt-3](https://awesomecua.com/resources/url-2cd89755e4e2511de633/)
 - [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [agent-browser-plugin-proton-pass](https://awesomecua.com/resources/github-evrenverse-agent-browser-plugin-proton-pass/)
 - [agent-chrome-mcp](https://awesomecua.com/resources/github-luorui-123-agent-chrome-mcp/)
 - [agent-eyes](https://awesomecua.com/resources/github-mohanli-eng-agent-eyes/)
+- [agent-gauntlet-example-agent](https://awesomecua.com/resources/github-konuktor-agent-gauntlet-example-agent/)

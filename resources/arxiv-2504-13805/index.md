@@ -1,3 +1,11 @@
+---
+title: "LearnAct: Few-Shot Mobile GUI Agent with a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-13805/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark
 
 LearnAct parses human demonstrations into reusable knowledge, retrieves relevant examples, and uses them during mobile GUI task execution. The accompanying LearnGUI benchmark includes 2,252 offline tasks and 101 online tasks for studying adaptation from demonstrations.
@@ -26,6 +34,18 @@ Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-13805/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-13805/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_13805,
+  title = {{LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark}},
+  author = {{Guangyi Liu} and {Pengxiang Zhao} and {Liang Liu} and {Zhiming Chen} and {Yuxiang Chai} and {Shuai Ren} and {Hao Wang} and {Shibo He} and {Wenchao Meng}},
+  year = {2025},
+  eprint = {2504.13805v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.13805v1},
+  note = {First published: 2025-04-18; Recorded arXiv version: v1; Recorded version updated: 2025-04-18T17:13:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

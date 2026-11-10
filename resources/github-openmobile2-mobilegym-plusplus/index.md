@@ -1,3 +1,11 @@
+---
+title: "MobileGym++ / MobileGym++ Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openmobile2-mobilegym-plusplus/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # MobileGym++ / MobileGym++ Bench
 
 Browser-rendered mobile simulation with resettable app state and a shared task suite for GUI-only and GUI-plus-tool agents.

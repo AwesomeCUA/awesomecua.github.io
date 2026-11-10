@@ -1,3 +1,11 @@
+---
+title: "Latitude Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-djblack1209-coder-latitude-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Latitude Browser
 
 Desktop workspace for managing isolated browser profiles, proxy routing, and multi-session web automation.

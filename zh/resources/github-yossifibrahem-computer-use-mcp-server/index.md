@@ -1,3 +1,11 @@
+---
+title: "Claude Computer-Use Tools MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yossifibrahem-computer-use-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Claude Computer-Use Tools MCP Server
 
 Model Context Protocol 服务器，为任何 MCP 客户端复现 Anthropic Claude 内置的计算机使用工具（`view`、`click`、`type`、`key`）。

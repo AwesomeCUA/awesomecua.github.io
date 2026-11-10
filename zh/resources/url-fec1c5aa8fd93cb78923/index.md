@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fec1c5aa8fd93cb78923/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Seg2Click Qwen3.5 2B
 
 使用 2B Qwen3.5 骨干模型预测掩码并选择界面点击位置的 Seg2Click 检查点。

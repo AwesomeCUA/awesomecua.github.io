@@ -1,3 +1,11 @@
+---
+title: "MIMESIS: Learning User Simulators as Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-09484/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MIMESIS: Learning User Simulators as Training Environments for Interactive Agents
 
 Status: excluded from the active CUA catalog after scope review.

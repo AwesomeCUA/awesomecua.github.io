@@ -1,3 +1,11 @@
+---
+title: "Mano skill · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-skill/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Mano skill
 
 Mano skill 根据自然语言指令检查截图并执行鼠标和键盘操作，完成桌面任务。它提供云端和设备端两种模式。

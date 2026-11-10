@@ -1,3 +1,11 @@
+---
+title: "CAVEAT: Towards Robust Computer-Use Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-27273/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CAVEAT: Towards Robust Computer-Use Agents in Incentive-Misaligned Environments
 
 Introduces CAVEAT, a controlled marketplace benchmark for testing whether delegated agents preserve user objectives when interfaces favor other outcomes. It diagnoses decision failures and studies harness interventions and targeted training to improve resistance to marketplace steering.
@@ -26,6 +34,18 @@ Yuxuan Li, Will Epperson, Wesley Deng, Zezhou Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-27273/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-27273/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_27273,
+  title = {{CAVEAT: Towards Robust Computer-Use Agents in Incentive-Misaligned Environments}},
+  author = {{Yuxuan Li} and {Will Epperson} and {Wesley Deng} and {Zezhou Huang}},
+  year = {2026},
+  eprint = {2609.27273v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.27273v2},
+  note = {First published: 2026-09-23; Recorded arXiv version: v2; Recorded version updated: 2026-09-27T20:49:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

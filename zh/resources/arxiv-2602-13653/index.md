@@ -1,3 +1,11 @@
+---
+title: "Building Autonomous GUI Navigation via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-13653/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization
 
 该框架训练 agentic-Q 模型，估计单个动作对完成 GUI 任务的贡献；随后利用自身轨迹中的步骤级样本优化策略，使策略更新与环境交互解耦。
@@ -27,6 +35,18 @@ Yibo Wang, Guangda Huzhang, Yuwei Hu, Yu Xia, Shiyin Lu, Qing-Guo Chen, Zhao Xu,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-13653/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-13653/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_13653,
+  title = {{Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization}},
+  author = {{Yibo Wang} and {Guangda Huzhang} and {Yuwei Hu} and {Yu Xia} and {Shiyin Lu} and {Qing-Guo Chen} and {Zhao Xu} and {Weihua Luo} and {Kaifu Zhang} and {Lijun Zhang}},
+  year = {2026},
+  eprint = {2602.13653v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.13653v1},
+  note = {First published: 2026-02-14; Recorded arXiv version: v1; Recorded version updated: 2026-02-14T07:44:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

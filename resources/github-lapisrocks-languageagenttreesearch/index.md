@@ -1,3 +1,11 @@
+---
+title: "Language Agent Tree Search (LATS) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lapisrocks-languageagenttreesearch/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Language Agent Tree Search (LATS)
 
 Language Agent Tree Search (LATS) unifies LLM reasoning, acting, and Monte Carlo Tree Search with self-reflection on WebShop and programming tasks.

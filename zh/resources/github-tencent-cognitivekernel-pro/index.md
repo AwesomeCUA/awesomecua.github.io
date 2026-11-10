@@ -1,3 +1,11 @@
+---
+title: "Cognitive Kernel-Pro · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencent-cognitivekernel-pro/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Cognitive Kernel-Pro
 
 Cognitive Kernel-Pro 是一款深度研究智能体，包含由浏览器支持的网页组件，并可配置多模态模型。其仓库提供代码和运行研究任务的示例。

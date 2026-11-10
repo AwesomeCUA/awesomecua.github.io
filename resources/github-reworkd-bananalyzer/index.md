@@ -1,3 +1,11 @@
+---
+title: "Bananalyzer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-reworkd-bananalyzer/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Bananalyzer
 
 Bananalyzer is an evaluation framework and dataset suite for testing web agents on structured data extraction and navigation tasks.

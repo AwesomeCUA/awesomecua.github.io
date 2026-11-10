@@ -1,3 +1,11 @@
+---
+title: "Pointframe | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dimitar-radenkov-pointframe/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Pointframe
 
 MCP server and CLI that lets coding agents inspect, drive, and verify native Windows UI applications with signed screenshot evidence.

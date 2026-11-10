@@ -1,3 +1,11 @@
+---
+title: "dsh-llm-web-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huangyukaili1031-dsh-llm-web-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-llm-web-bridge
 
 面向 DeepSeek Harness 的桥接工具，用于自动化和编排 Chrome 中已登录的网页 LLM 聊天会话。

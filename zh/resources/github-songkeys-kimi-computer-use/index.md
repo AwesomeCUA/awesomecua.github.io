@@ -1,3 +1,11 @@
+---
+title: "Kimi Computer Use Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-songkeys-kimi-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Kimi Computer Use Bridge
 
 通过 OpenAI Computer Use MCP 服务器和 Apple Accessibility API，将 Kimi Code CLI 连接到本地 macOS 桌面应用。

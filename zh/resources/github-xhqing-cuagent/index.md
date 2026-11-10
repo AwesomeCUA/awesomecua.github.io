@@ -1,3 +1,11 @@
+---
+title: "cuAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xhqing-cuagent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # cuAgent
 
 cuAgent 是桌面计算机使用智能体，通过 open-computer-use Model Context Protocol 服务器操作 GUI 应用。

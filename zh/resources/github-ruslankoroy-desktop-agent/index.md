@@ -1,3 +1,11 @@
+---
+title: "Desktop Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ruslankoroy-desktop-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Desktop Agent
 
 Desktop Agent 通过截图网格叠加标注、OCR 文本检测、语音命令以及鼠标和键盘操作来控制本地计算机。

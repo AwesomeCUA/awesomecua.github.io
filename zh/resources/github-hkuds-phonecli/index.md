@@ -1,3 +1,11 @@
+---
+title: "PhoneCLI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hkuds-phonecli/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # PhoneCLI
 
 移动智能体框架将应用爬取为 YAML 屏幕地图，通过 iOS 上的 WebDriverAgent 或 Android 上的 ADB 重放编译后的导航命令，并在遇到未知屏幕时回退至 VLM。

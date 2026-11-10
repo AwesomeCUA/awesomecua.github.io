@@ -1,3 +1,11 @@
+---
+title: "Watch Out for Your Agents! Investigating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2402-11208/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents
 
 研究针对 LLM 智能体的后门攻击，包括用户请求或中间观察中的触发条件；网页购物是评估任务之一。
@@ -27,6 +35,18 @@ Wenkai Yang, Xiaohan Bi, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2402-11208/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2402-11208/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_11208,
+  title = {{Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents}},
+  author = {{Wenkai Yang} and {Xiaohan Bi} and {Yankai Lin} and {Sishuo Chen} and {Jie Zhou} and {Xu Sun}},
+  year = {2024},
+  eprint = {2402.11208v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.11208v2},
+  note = {First published: 2024-02-17; Recorded arXiv version: v2; Recorded version updated: 2024-10-29T15:32:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

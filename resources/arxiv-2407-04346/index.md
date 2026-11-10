@@ -1,3 +1,11 @@
+---
+title: "MobileFlow: A Multimodal LLM For Mobile GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-04346/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MobileFlow: A Multimodal LLM For Mobile GUI Agent
 
 Introduces a mobile GUI model using hybrid visual encoders, mixture-of-experts expansion, and alignment training for multilingual interfaces.
@@ -26,6 +34,18 @@ Songqin Nong, Jiali Zhu, Rui Wu, Jiongchao Jin, Shuo Shan, Xiutian Huang, Wenhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-04346/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-04346/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_04346,
+  title = {{MobileFlow: A Multimodal LLM For Mobile GUI Agent}},
+  author = {{Songqin Nong} and {Jiali Zhu} and {Rui Wu} and {Jiongchao Jin} and {Shuo Shan} and {Xiutian Huang} and {Wenhao Xu}},
+  year = {2024},
+  eprint = {2407.04346v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.04346v3},
+  note = {First published: 2024-07-05; Recorded arXiv version: v3; Recorded version updated: 2024-12-06T07:43:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

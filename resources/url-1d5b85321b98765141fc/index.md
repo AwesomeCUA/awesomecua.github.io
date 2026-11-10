@@ -1,3 +1,11 @@
+---
+title: "Mobile-Bench-v2 released data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1d5b85321b98765141fc/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # Mobile-Bench-v2 released data
 
 Offline mobile-agent task data spanning common tasks and released noisy, contaminated and ambiguous-instruction subsets.

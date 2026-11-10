@@ -1,3 +1,11 @@
+---
+title: "What It Is, Not What It Says: Securing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-22697/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics
 
 Intact 记录网页元素的来源和能力，按元素隔离规划，并通过浏览器执行框架约束操作、对第三方交互请求同意。
@@ -27,6 +35,18 @@ Umar Iqbal
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-22697/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-22697/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22697,
+  title = {{What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics}},
+  author = {{Umar Iqbal}},
+  year = {2026},
+  eprint = {2610.22697v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22697v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T22:02:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

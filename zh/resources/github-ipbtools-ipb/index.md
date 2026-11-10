@@ -1,3 +1,11 @@
+---
+title: "ipb · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ipbtools-ipb/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # ipb
 
 通过 CoreDevice HID 驱动 iOS 27 设备的命令行工具，支持点按、滑动、按键和实时屏幕流，可读取可访问性树并按元素点按，还把这些命令作为 MCP 工具提供。

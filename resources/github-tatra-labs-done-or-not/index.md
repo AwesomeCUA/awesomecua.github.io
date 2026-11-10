@@ -1,3 +1,11 @@
+---
+title: "done-or-not | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tatra-labs-done-or-not/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # done-or-not
 
 done-or-not is an offline benchmark of 910 computer-use trajectories across three simulated computers for grading completion verifiers.

@@ -1,3 +1,11 @@
+---
+title: "screen-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tongriyaotxt-screen-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # screen-use
 
 Browser-Use-style framework for the entire desktop that gives AI agents visual screen perception and mouse/keyboard control.

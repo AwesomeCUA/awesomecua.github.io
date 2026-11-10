@@ -1,3 +1,11 @@
+---
+title: "Mobile Agent Guardian | AwesomeCUA"
+url: https://awesomecua.com/resources/github-salus-ryan-mobile-agent-guardian/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Mobile Agent Guardian
 
 Five-level safety and action-verification layer for mobile GUI agents that classifies and gates risky phone operations.

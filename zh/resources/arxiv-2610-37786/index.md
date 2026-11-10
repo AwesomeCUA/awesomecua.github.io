@@ -1,3 +1,11 @@
+---
+title: "WebAnything: From the Wild Web to… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-37786/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WebAnything: From the Wild Web to Scalable Agent Environments
 
 提出 WebAnything，从真实网址重建可复用、可重置的网站环境，供网络智能体训练和评估。
@@ -27,6 +35,18 @@ Tianci Xie, Zikun Cai, Chaoyun Zhang, Pinxue Guo, Bingxuan Li, Rui Zheng, Hang Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-37786/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-37786/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37786,
+  title = {{WebAnything: From the Wild Web to Scalable Agent Environments}},
+  author = {{Tianci Xie} and {Zikun Cai} and {Chaoyun Zhang} and {Pinxue Guo} and {Bingxuan Li} and {Rui Zheng} and {Hang Yan}},
+  year = {2026},
+  eprint = {2610.37786v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37786v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T18:06:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

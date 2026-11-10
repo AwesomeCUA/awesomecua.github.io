@@ -1,3 +1,11 @@
+---
+title: "Secure Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pranavgawasproject-secure-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Secure Browser MCP
 
 Security-hardened browser-automation MCP server featuring persistent sessions, domain allowlists, and SSRF protection.

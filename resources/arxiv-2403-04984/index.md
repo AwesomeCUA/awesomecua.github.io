@@ -1,3 +1,11 @@
+---
+title: "UI Semantic Group Detection: Grouping UI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-04984/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface
 
 UISCGD detects semantic groups of adjacent text and non-text UI elements. It learns from Android and iOS screenshots to support interface retrieval, UI-to-code structure and screen-reader accessibility.
@@ -26,6 +34,18 @@ Shuhong Xiao, Yunnong Chen, Yaxuan Song, Liuqing Chen, Lingyun Sun, Yankun Zhen,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-04984/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-04984/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_04984,
+  title = {{UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface}},
+  author = {{Shuhong Xiao} and {Yunnong Chen} and {Yaxuan Song} and {Liuqing Chen} and {Lingyun Sun} and {Yankun Zhen} and {Yanfang Chang}},
+  year = {2024},
+  eprint = {2403.04984v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.04984v1},
+  note = {First published: 2024-03-08; Recorded arXiv version: v1; Recorded version updated: 2024-03-08T01:52:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

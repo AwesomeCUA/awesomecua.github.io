@@ -1,3 +1,11 @@
+---
+title: "SCX Router: Streaming Zero-Shot Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-02292/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SCX Router: Streaming Zero-Shot Model Selection with a Decoder-KV Classifier and a Real-World Task Ontology
 
 Status: excluded from the active CUA catalog after scope review.

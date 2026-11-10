@@ -1,3 +1,11 @@
+---
+title: "AgentBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-agentbench/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # AgentBench
 
 Agent evaluation suite with containerized tasks and a function-calling interface, including operating-system and shopping environments.

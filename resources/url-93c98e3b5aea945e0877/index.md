@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 7B WA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-93c98e3b5aea945e0877/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # OS-Genesis 7B WA
 
 The WebArena-oriented Qwen2-VL-7B checkpoint trained on web trajectories generated through OS-Genesis reverse task synthesis, predicting the next thought and action from an instruction, history and page.

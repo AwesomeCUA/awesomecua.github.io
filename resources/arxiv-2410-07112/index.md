@@ -1,3 +1,11 @@
+---
+title: "VHELM: A Holistic Evaluation of Vision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-07112/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VHELM: A Holistic Evaluation of Vision Language Models
 
 Bibliographic record for VHELM: A Holistic Evaluation of Vision Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tony Lee, Haoqin Tu, Chi Heem Wong, Wenhao Zheng, Yiyang Zhou, Yifan Mai, Jossel
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-07112/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-07112/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_07112,
+  title = {{VHELM: A Holistic Evaluation of Vision Language Models}},
+  author = {{Tony Lee} and {Haoqin Tu} and {Chi Heem Wong} and {Wenhao Zheng} and {Yiyang Zhou} and {Yifan Mai} and {Josselin Somerville Roberts} and {Michihiro Yasunaga} and {Huaxiu Yao} and {Cihang Xie} and {Percy Liang}},
+  year = {2024},
+  eprint = {2410.07112v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.07112v2},
+  note = {First published: 2024-10-09; Recorded arXiv version: v2; Recorded version updated: 2024-10-24T05:17:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

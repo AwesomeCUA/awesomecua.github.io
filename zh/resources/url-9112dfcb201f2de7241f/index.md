@@ -1,3 +1,11 @@
+---
+title: "OSWorld-V2 0624 Codex attempt… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9112dfcb201f2de7241f/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # OSWorld-V2 0624 Codex attempt trajectories
 
 自报的 OSWorld-V2 运行数据，涵盖 Codex 框架使用 gpt-5.6-sol 在全部 108 项任务上的逐步 CLI 和 GUI 操作、截图及评分，以及重试记录和指导操作的解题卡与恢复卡。

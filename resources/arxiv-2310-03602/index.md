@@ -1,3 +1,11 @@
+---
+title: "Ctrl-Room: Controllable Text-to-3D Room… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-03602/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints
 
 Bibliographic record for Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chuan Fang, Yuan Dong, Kunming Luo, Xiaotao Hu, Rakesh Shrestha, Ping Tan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-03602/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-03602/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_03602,
+  title = {{Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints}},
+  author = {{Chuan Fang} and {Yuan Dong} and {Kunming Luo} and {Xiaotao Hu} and {Rakesh Shrestha} and {Ping Tan}},
+  year = {2023},
+  eprint = {2310.03602v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.03602v5},
+  note = {First published: 2023-10-05; Recorded arXiv version: v5; Recorded version updated: 2025-09-24T03:53:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

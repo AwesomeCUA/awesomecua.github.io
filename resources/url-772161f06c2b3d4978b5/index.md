@@ -1,3 +1,11 @@
+---
+title: "WebJudge 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-772161f06c2b3d4978b5/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # WebJudge 7B
 
 A visual trajectory judge that retains selected intermediate screenshots to evaluate whether a web agent completed its task.

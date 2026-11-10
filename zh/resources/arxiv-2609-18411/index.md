@@ -1,3 +1,11 @@
+---
+title: "The Verifiable Action Card: Trustworthy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-18411/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents
 
 提出 Verifiable Action Card（VAC）：根据待执行的浏览器操作生成确认信息，并将用户批准绑定到实际执行的操作。
@@ -27,6 +35,18 @@ Hasnain Irshad, Anam Mughees, Neelam Mughees, Abdullah Mughees, Imtiaz Ali Soomr
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-18411/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-18411/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_18411,
+  title = {{The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents}},
+  author = {{Hasnain Irshad} and {Anam Mughees} and {Neelam Mughees} and {Abdullah Mughees} and {Imtiaz Ali Soomro}},
+  year = {2026},
+  eprint = {2609.18411v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.18411v2},
+  note = {First published: 2026-09-16; Recorded arXiv version: v2; Recorded version updated: 2026-09-30T14:38:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

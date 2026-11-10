@@ -1,3 +1,11 @@
+---
+title: "dsh Browser Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lum1104-dsh-browser/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # dsh Browser Control
 
 A browser extension and bridge plugin that let DeepSeek Harness read and operate existing Chrome or Firefox tabs through structured page controls.

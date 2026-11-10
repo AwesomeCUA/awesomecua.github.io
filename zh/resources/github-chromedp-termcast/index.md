@@ -1,3 +1,11 @@
+---
+title: "termcast · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chromedp-termcast/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # termcast
 
 一款 Go 工具，通过投屏帧在支持图形的终端显示 chromedp 浏览器页面，并可选择显示整个页面或单个元素。

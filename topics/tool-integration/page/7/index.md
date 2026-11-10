@@ -1,3 +1,11 @@
+---
+title: "Tool integration — computer-use…, page 7 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/7/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 7
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/7/
@@ -29,7 +37,6 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Banana Peel MCP](https://awesomecua.com/resources/github-ygdotcom-banana-peel-mcp/)
 - [bb-browser](https://awesomecua.com/resources/github-epiral-bb-browser/)
 - [bb-sites](https://awesomecua.com/resources/github-epiral-bb-sites/)
-- [Bees Desktop](https://awesomecua.com/resources/github-bees-bot-bees-desktop/)
 - [BeijingWahw DSH Computer Use Plugin](https://awesomecua.com/resources/github-beijingwahw-dsh-computer-use-plugin/)
 - [Better AI Browser Utilities (BABU)](https://awesomecua.com/resources/github-itmediatech-better-ai-browser-utilities/)
 - [Better AX for Computer Use](https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Browser Use Pi](https://awesomecua.com/resources/github-browser-use-browser-use-pi/)
 - [Browser Use SDKs](https://awesomecua.com/resources/github-browser-use-sdk/)
 - [Browser Use WebUI](https://awesomecua.com/resources/github-browser-use-web-ui/)
+- [Browser Workbench for Codex](https://awesomecua.com/resources/github-slemmis-browser-workbench-for-codex/)

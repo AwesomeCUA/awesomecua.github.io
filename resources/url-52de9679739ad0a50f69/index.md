@@ -1,3 +1,11 @@
+---
+title: "Northstar-CUA-Fast | AwesomeCUA"
+url: https://awesomecua.com/resources/url-52de9679739ad0a50f69/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Northstar-CUA-Fast
 
 A 4B-parameter computer-use model trained with GUI reinforcement learning that maps text and screenshots to actions such as clicks, typing, and scrolling.

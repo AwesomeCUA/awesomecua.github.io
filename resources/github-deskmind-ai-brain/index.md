@@ -1,3 +1,11 @@
+---
+title: "DeskMind Brain | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deskmind-ai-brain/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # DeskMind Brain
 
 DeskMind Brain provides local models that choose the next macOS desktop action and return probabilities for typed decisions about targets and task completion.

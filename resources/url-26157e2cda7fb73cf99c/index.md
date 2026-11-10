@@ -1,3 +1,11 @@
+---
+title: "Indeed-UI-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-26157e2cda7fb73cf99c/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Indeed-UI-8B
 
 GUI grounding model fine-tuned from GUI-Owl 1.5-8B with grounding data and high-resolution training; the card reports 73.4 on ScreenSpot-Pro, 94.4 on ScreenSpot-V2 and 68.3 on OSWorld-G.

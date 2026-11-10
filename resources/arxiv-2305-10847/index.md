@@ -1,3 +1,11 @@
+---
+title: "Large Language Models can be Guided to Evade… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-10847/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large Language Models can be Guided to Evade AI-Generated Text Detection
 
 Status: excluded from the active CUA catalog after scope review.

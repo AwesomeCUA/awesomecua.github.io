@@ -1,3 +1,11 @@
+---
+title: "LiveMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magi-labs-livemcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # LiveMCP
 
 Manifest V3 Chrome 扩展和 MCP 中枢，让 AI 智能体操作用户已登录的 Chrome 配置文件并检查网络调用。

@@ -1,3 +1,11 @@
+---
+title: "DSH Qwen Web Bridge Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DSH Qwen Web Bridge Plugin
 
 DeepSeek Harness plugin for driving an authenticated Qwen web session via local browser automation.

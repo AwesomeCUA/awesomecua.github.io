@@ -1,3 +1,11 @@
+---
+title: "AndroidGen-GLM-4-9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # AndroidGen-GLM-4-9B
 
 AndroidGen-GLM-4-9B is a released model for agents that carry out tasks across Android apps without manually labeled interaction data.

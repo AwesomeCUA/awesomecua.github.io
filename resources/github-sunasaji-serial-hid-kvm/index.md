@@ -1,3 +1,11 @@
+---
+title: "serial-hid-kvm | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sunasaji-serial-hid-kvm/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # serial-hid-kvm
 
 serial-hid-kvm drives a target PC’s keyboard and mouse through a CH9329 USB HID emulator and captures its screen over HDMI, with a preview window, web viewer and JSON Lines TCP API.

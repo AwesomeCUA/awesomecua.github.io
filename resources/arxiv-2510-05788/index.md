@@ -1,3 +1,11 @@
+---
+title: "Mellum: Production-Grade in-IDE Contextual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-05788/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mellum: Production-Grade in-IDE Contextual Code Completion with Multi-File Project Understanding
 
 Status: excluded from the active CUA catalog after scope review.

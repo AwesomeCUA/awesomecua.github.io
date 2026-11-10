@@ -1,3 +1,11 @@
+---
+title: "Spatio-Temporal Token Pruning for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-23235/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents
 
 GUIPruner 通过无需训练的缩放和保留布局结构的令牌剪枝，压缩 GUI 导航所需的高分辨率截图与交互历史。
@@ -27,6 +35,18 @@ Zhou Xu, Bowen Zhou, Qi Wang, Shuwen Feng, Jingyu Xiao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-23235/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-23235/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_23235,
+  title = {{Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents}},
+  author = {{Zhou Xu} and {Bowen Zhou} and {Qi Wang} and {Shuwen Feng} and {Jingyu Xiao}},
+  year = {2026},
+  eprint = {2602.23235v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.23235v1},
+  note = {First published: 2026-02-26; Recorded arXiv version: v1; Recorded version updated: 2026-02-26T17:12:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

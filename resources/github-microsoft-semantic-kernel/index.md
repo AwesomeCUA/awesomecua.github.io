@@ -1,3 +1,11 @@
+---
+title: "Semantic Kernel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-semantic-kernel/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Semantic Kernel
 
 Semantic Kernel is an enterprise SDK for orchestrating multi-agent workflows, plugins, and memory across Python, .NET, and Java.

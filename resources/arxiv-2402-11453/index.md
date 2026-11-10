@@ -1,3 +1,11 @@
+---
+title: "MatPlotAgent: Method and Evaluation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-11453/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization
 
 Bibliographic record for MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiyu Yang, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, Zhenghao Liu, Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-11453/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-11453/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_11453,
+  title = {{MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization}},
+  author = {{Zhiyu Yang} and {Zihan Zhou} and {Shuo Wang} and {Xin Cong} and {Xu Han} and {Yukun Yan} and {Zhenghao Liu} and {Zhixing Tan} and {Pengyuan Liu} and {Dong Yu} and {Zhiyuan Liu} and {Xiaodong Shi} and {Maosong Sun}},
+  year = {2024},
+  eprint = {2402.11453v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.11453v3},
+  note = {First published: 2024-02-18; Recorded arXiv version: v3; Recorded version updated: 2024-03-19T14:44:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

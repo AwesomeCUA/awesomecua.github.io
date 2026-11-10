@@ -1,3 +1,11 @@
+---
+title: "sudo rm -rf agentic_security · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-20279/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # sudo rm -rf agentic_security
 
 评估计算机使用智能体在对抗性请求和屏幕上下文操纵下的安全失效，并研究其执行桌面和网页任务时的拒绝行为。
@@ -27,6 +35,18 @@ Sejin Lee, Jian Kim, Haon Park, Ashkan Yousefpour, Sangyoon Yu, Min Song
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-20279/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-20279/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_20279,
+  title = {{sudo rm -rf agentic\_security}},
+  author = {{Sejin Lee} and {Jian Kim} and {Haon Park} and {Ashkan Yousefpour} and {Sangyoon Yu} and {Min Song}},
+  year = {2025},
+  eprint = {2503.20279v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.20279v3},
+  note = {First published: 2025-03-26; Recorded arXiv version: v3; Recorded version updated: 2025-06-08T05:39:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

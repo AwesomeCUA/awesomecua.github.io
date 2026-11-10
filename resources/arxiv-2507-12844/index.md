@@ -1,3 +1,11 @@
+---
+title: "Machine-Readable Ads: Accessibility and Trust… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-12844/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements
 
 Compares DOM-based and pixel-based web agents on a cloned news site containing advertisements, consent dialogs and paywalls. The study examines how interface presentation affects ad interaction and consequential subscription choices.
@@ -26,6 +34,18 @@ Joel Nitu, Heidrun Mühle, Andreas Stöckl
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-12844/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-12844/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_12844,
+  title = {{Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements}},
+  author = {{Joel Nitu} and {Heidrun Mühle} and {Andreas Stöckl}},
+  year = {2025},
+  eprint = {2507.12844v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.12844v2},
+  note = {First published: 2025-07-17; Recorded arXiv version: v2; Recorded version updated: 2025-11-12T13:34:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

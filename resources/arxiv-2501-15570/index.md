@@ -1,3 +1,11 @@
+---
+title: "ARWKV: Pretrain is not what we need, an… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-15570/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language Model Born from Transformer
 
 Status: excluded from the active CUA catalog after scope review.

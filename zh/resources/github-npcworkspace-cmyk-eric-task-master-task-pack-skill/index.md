@@ -1,3 +1,11 @@
+---
+title: "Eric Task Master Skills Pack · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-npcworkspace-cmyk-eric-task-master-task-pack-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Eric Task Master Skills Pack
 
 供 Eric Task Master Playwright 执行器使用的可复用浏览器自动化工作流技能。

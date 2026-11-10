@@ -1,3 +1,11 @@
+---
+title: "Quantum reservoir computing using arrays of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2111-10956/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum reservoir computing using arrays of Rydberg atoms
 
 Status: excluded from the active CUA catalog after scope review.

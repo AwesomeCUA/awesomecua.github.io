@@ -1,3 +1,11 @@
+---
+title: "uiautomation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yinkaisheng-python-uiautomation-for-windows/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # uiautomation
 
 Windows UI Automation 的 Python 封装，可遍历应用控件树，并通过控件属性与模式检查和操作界面。

@@ -1,3 +1,11 @@
+---
+title: "MobileSteward: Integrating Multiple… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-16796/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions
 
 Introduces MobileSteward, which coordinates app-specific phone agents, schedules cross-app tasks, and reuses successful experience; CAPBench evaluates cross-app instructions.
@@ -26,6 +34,18 @@ Yuxuan Liu, Hongda Sun, Wei Liu, Jian Luan, Bo Du, Rui Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-16796/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-16796/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_16796,
+  title = {{MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions}},
+  author = {{Yuxuan Liu} and {Hongda Sun} and {Wei Liu} and {Jian Luan} and {Bo Du} and {Rui Yan}},
+  year = {2025},
+  eprint = {2502.16796v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.16796v1},
+  note = {First published: 2025-02-24; Recorded arXiv version: v1; Recorded version updated: 2025-02-24T03:12:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

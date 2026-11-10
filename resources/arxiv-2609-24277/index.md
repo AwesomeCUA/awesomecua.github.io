@@ -1,3 +1,11 @@
+---
+title: "How Many Pixels Is a Digit Worth? Place-Aware… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-24277/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # How Many Pixels Is a Digit Worth? Place-Aware Coordinate Entropy for GUI Agent Confidence Estimation
 
 PACE weights coordinate-digit entropy by place value to estimate confidence in GUI clicks from one forward pass. It evaluates correctness ranking and selective accuracy against repeated-sampling alternatives on ScreenSpot-Pro and ScreenSpot-v2.
@@ -26,6 +34,18 @@ Yunxiang Li, Xixin Wu, Helen Meng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-24277/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-24277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_24277,
+  title = {{How Many Pixels Is a Digit Worth? Place-Aware Coordinate Entropy for GUI Agent Confidence Estimation}},
+  author = {{Yunxiang Li} and {Xixin Wu} and {Helen Meng}},
+  year = {2026},
+  eprint = {2609.24277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.24277v1},
+  note = {First published: 2026-09-21; Recorded arXiv version: v1; Recorded version updated: 2026-09-21T08:42:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

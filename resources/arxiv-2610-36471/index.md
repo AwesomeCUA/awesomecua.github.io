@@ -1,3 +1,11 @@
+---
+title: "When to Intervene? An Empirical Study of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36471/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents
 
 Introduces ReInBench, annotated computer-use and web-agent error traces, and ReCoF, a method for predicting whether an agent will recover without intervention.
@@ -26,6 +34,18 @@ Chiming Duan, Tong Jia, Yingxi Chen, Minghua He, Lingzhe Zhang, Ying Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36471/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36471/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36471,
+  title = {{When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents}},
+  author = {{Chiming Duan} and {Tong Jia} and {Yingxi Chen} and {Minghua He} and {Lingzhe Zhang} and {Ying Li}},
+  year = {2026},
+  eprint = {2610.36471v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36471v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T01:26:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

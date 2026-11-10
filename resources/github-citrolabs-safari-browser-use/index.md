@@ -1,3 +1,11 @@
+---
+title: "safari-browser-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-citrolabs-safari-browser-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # safari-browser-use
 
 Apple Events-powered Safari 26 browser automation skill for Codex, Claude Code, Copilot, and Cursor without browser extensions.

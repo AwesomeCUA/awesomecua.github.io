@@ -1,3 +1,11 @@
+---
+title: "Operator | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f0584842138a52158f51/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Operator
 
 Historical OpenAI browser-agent research preview.

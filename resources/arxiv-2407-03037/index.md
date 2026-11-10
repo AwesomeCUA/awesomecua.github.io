@@ -1,3 +1,11 @@
+---
+title: "Seeing is Believing: Vision-driven Non-crash… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-03037/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps
 
 Trident combines exploration, monitoring, and detection agents to identify functional bugs in a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
@@ -26,6 +34,18 @@ Zhe Liu, Cheng Li, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yawen Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-03037/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-03037/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_03037,
+  title = {{Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps}},
+  author = {{Zhe Liu} and {Cheng Li} and {Chunyang Chen} and {Junjie Wang} and {Mengzhuo Chen} and {Boyu Wu} and {Yawen Wang} and {Jun Hu} and {Qing Wang}},
+  year = {2024},
+  eprint = {2407.03037v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.03037v2},
+  note = {First published: 2024-07-03; Recorded arXiv version: v2; Recorded version updated: 2024-12-04T08:00:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

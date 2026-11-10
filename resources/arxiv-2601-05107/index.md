@@ -1,3 +1,11 @@
+---
+title: "Controllable Memory Usage: Balancing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-05107/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction
 
 Status: excluded from the active CUA catalog after scope review.

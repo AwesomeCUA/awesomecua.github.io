@@ -1,3 +1,11 @@
+---
+title: "SpiritSight-Agent-2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-37570eed422d326bfa5a/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # SpiritSight-Agent-2B
 
 这是用于跨平台界面导航的 2B 视觉 GUI 智能体检查点，附有推理脚本和基础模型信息。

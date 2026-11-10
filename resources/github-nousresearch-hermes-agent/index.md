@@ -1,3 +1,11 @@
+---
+title: "Hermes Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nousresearch-hermes-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Hermes Agent
 
 Hermes Agent is a self-improving autonomous agent by Nous Research with procedural skill synthesis, browser control, and multi-platform sandboxes.

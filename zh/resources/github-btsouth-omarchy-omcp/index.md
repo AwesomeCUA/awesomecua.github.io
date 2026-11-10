@@ -1,3 +1,11 @@
+---
+title: "Omarchy OMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-btsouth-omarchy-omcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Omarchy OMCP
 
 将 Omarchy Linux 桌面会话作为实时、可观察的 Model Context Protocol 服务器向 AI 智能体开放。

@@ -1,3 +1,11 @@
+---
+title: "MCP-Slicer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhaoyouj-mcp-slicer/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # MCP-Slicer
 
 MCP-Slicer gives model clients access to 3D Slicer through node inspection, Python execution, and screenshots, supporting visual feedback during medical-image and scene tasks.

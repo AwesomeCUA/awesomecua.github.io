@@ -1,3 +1,11 @@
+---
+title: "Analog Computing Using Graphene-based Metalines | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1509-01226/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Analog Computing Using Graphene-based Metalines
 
 Status: excluded from the active CUA catalog after scope review.

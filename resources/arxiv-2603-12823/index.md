@@ -1,3 +1,11 @@
+---
+title: "Adaptive Vision-Language Model Routing for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-12823/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Adaptive Vision-Language Model Routing for Computer Use Agents
 
 Adaptive VLM Routing estimates GUI-action difficulty and small-model confidence to select a model under a predicted reliability threshold. Grounding and agent-routing benchmarks assess the cost–accuracy trade-off, with prior interaction context used for warm agents.
@@ -26,6 +34,18 @@ Xunzhuo Liu, Bowei He, Xue Liu, Andy Luo, Haichen Zhang, Huamin Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-12823/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-12823/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_12823,
+  title = {{Adaptive Vision-Language Model Routing for Computer Use Agents}},
+  author = {{Xunzhuo Liu} and {Bowei He} and {Xue Liu} and {Andy Luo} and {Haichen Zhang} and {Huamin Chen}},
+  year = {2026},
+  eprint = {2603.12823v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.12823v1},
+  note = {First published: 2026-03-13; Recorded arXiv version: v1; Recorded version updated: 2026-03-13T09:21:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

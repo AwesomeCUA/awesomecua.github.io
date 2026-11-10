@@ -1,3 +1,11 @@
+---
+title: "Firefox DevTools MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mozilla-firefox-devtools-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Firefox DevTools MCP
 
 一个 MCP 服务器，为智能体提供 Firefox 工具，用于浏览网站、填写表单、查看页面快照，以及检查开发者工具的输出。

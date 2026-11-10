@@ -1,3 +1,11 @@
+---
+title: "Droidrun iOS Portal · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-droidrun-ios-portal/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Droidrun iOS Portal
 
 已归档的 iOS 自动化工具，通过 XCTest HTTP 服务器提供屏幕截图、无障碍树、应用启动、手势和文本输入接口。

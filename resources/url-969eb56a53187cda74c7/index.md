@@ -1,3 +1,11 @@
+---
+title: "KV-Ground-4B-BaseQw3vl | AwesomeCUA"
+url: https://awesomecua.com/resources/url-969eb56a53187cda74c7/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # KV-Ground-4B-BaseQw3vl
 
 A 4B GUI grounding model for high-resolution screenshots and text instructions, fine-tuned from Qwen3-VL-4B-Instruct with supervised and reward-based training.

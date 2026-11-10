@@ -1,3 +1,11 @@
+---
+title: "DeepDeck · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jo32-deepdeck/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DeepDeck
 
 macOS 桌面工作区，用于配合 DeepSeek Harness 编写、测试和复用 WebMCP 浏览器工具。

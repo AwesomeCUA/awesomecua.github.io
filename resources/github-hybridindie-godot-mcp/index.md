@@ -1,3 +1,11 @@
+---
+title: "Godot Editor MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hybridindie-godot-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Godot Editor MCP
 
 An MCP server and Godot addon that let agents inspect and edit a live game editor, control play sessions, simulate input, and capture screenshots.

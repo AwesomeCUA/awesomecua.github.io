@@ -1,3 +1,11 @@
+---
+title: "When to Compile a Computer-Use Agent?… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-02932/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # When to Compile a Computer-Use Agent? Measuring Payback and Making Compilation Decisions for Token Efficiency
 
 PACE 提出协议和在线决策规则，判断重复 GUI 流程何时值得编译为程序；在明确的累计预算下，计入编译失败、每次使用的实测节省、复用的不确定性及执行成本。
@@ -27,6 +35,18 @@ Yulong Ming, Jie Xu, Zihan Wu, Xiaohua Jia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-02932/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-02932/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02932,
+  title = {{When to Compile a Computer-Use Agent? Measuring Payback and Making Compilation Decisions for Token Efficiency}},
+  author = {{Yulong Ming} and {Jie Xu} and {Zihan Wu} and {Xiaohua Jia}},
+  year = {2026},
+  eprint = {2610.02932v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02932v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T07:22:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

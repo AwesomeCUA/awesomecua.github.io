@@ -1,3 +1,11 @@
+---
+title: "pixelpi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-josharsh-pixelpi/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # pixelpi
 
 Minimal 6-tool browser-agent harness whose entire tool definition fits in 1,196 tokens for context-efficient web automation.

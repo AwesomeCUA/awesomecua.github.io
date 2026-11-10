@@ -1,3 +1,11 @@
+---
+title: "MM-WebAgent: A Hierarchical Multimodal Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-15309/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
 
 Status: excluded from the active CUA catalog after scope review.

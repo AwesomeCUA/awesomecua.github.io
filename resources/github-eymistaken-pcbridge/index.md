@@ -1,3 +1,11 @@
+---
+title: "pcbridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eymistaken-pcbridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pcbridge
 
 Turns a Linux desktop into a Model Context Protocol server for shell execution, window management, and GUI automation.

@@ -1,3 +1,11 @@
+---
+title: "YORO -- Lightweight End to End Visual Grounding | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-07912/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # YORO -- Lightweight End to End Visual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

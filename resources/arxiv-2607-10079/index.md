@@ -1,3 +1,11 @@
+---
+title: "MAG: A Web-Agent Benchmark and Harness for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-10079/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation
 
 MAG jointly evaluates browser task actions and user-facing guides grounded in screenshots through element marks or pixel coordinates. Its harness covers annotation, live evaluation and joint metrics, with an expert-trajectory-augmented GRPO training study.
@@ -26,6 +34,18 @@ Chengguang Gan, Hanjun Wei, Yunhao Liang, Zhixi Cai, Qinghao Zhang, Shiwen Ni
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-10079/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-10079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_10079,
+  title = {{MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation}},
+  author = {{Chengguang Gan} and {Hanjun Wei} and {Yunhao Liang} and {Zhixi Cai} and {Qinghao Zhang} and {Shiwen Ni}},
+  year = {2026},
+  eprint = {2607.10079v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.10079v3},
+  note = {First published: 2026-07-11; Recorded arXiv version: v3; Recorded version updated: 2026-07-16T03:28:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

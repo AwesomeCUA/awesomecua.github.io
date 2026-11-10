@@ -1,3 +1,11 @@
+---
+title: "Claude Linux Desktop MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lukelamb-claude-linux-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Claude Linux Desktop MCP
 
 Model Context Protocol extension giving Claude full Linux X11 desktop control across screenshots, windows, clipboard, and input.

@@ -1,3 +1,11 @@
+---
+title: "PUDA guidriver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pudap-guidriver/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PUDA guidriver
 
 Windows-first edge service for recording, verifying, and deterministically replaying reviewed GUI workflows.

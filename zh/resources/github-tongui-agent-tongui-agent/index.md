@@ -1,3 +1,11 @@
+---
+title: "TongUI training and inference framework · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tongui-agent-tongui-agent/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # TongUI training and inference framework
 
 提供基于教程训练的 GUI 模型的训练配置、预处理和推理示例，包括 LLaMA-Factory 微调流程及截图定位接口。

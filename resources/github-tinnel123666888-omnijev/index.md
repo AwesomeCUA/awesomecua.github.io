@@ -1,3 +1,11 @@
+---
+title: "OmniJev (github.com/tinnel123666888/OmniJev) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinnel123666888-omnijev/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OmniJev
 
 OmniJev is a multimodal decision model that scores typed choices from screens and other visual input. Released weights and inference code cover web and phone tasks alongside other domains.

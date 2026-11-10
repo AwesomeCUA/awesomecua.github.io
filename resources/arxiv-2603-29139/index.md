@@ -1,3 +1,11 @@
+---
+title: "SciVisAgentBench: A Benchmark for Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-29139/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents
 
 Bibliographic record for SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kuangshi Ai, Haichao Miao, Kaiyuan Tang, Nathaniel Gorski, Jianxin Sun, Guoxi Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-29139/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-29139/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_29139,
+  title = {{SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents}},
+  author = {{Kuangshi Ai} and {Haichao Miao} and {Kaiyuan Tang} and {Nathaniel Gorski} and {Jianxin Sun} and {Guoxi Liu} and {Helgi I. Ingolfsson} and {David Lenz} and {Hanqi Guo} and {Hongfeng Yu} and {Teja Leburu} and {Michael Molash} and {Bei Wang} and {Tom Peterka} and {Chaoli Wang} and {Shusen Liu}},
+  year = {2026},
+  eprint = {2603.29139v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.29139v4},
+  note = {First published: 2026-03-31; Recorded arXiv version: v4; Recorded version updated: 2026-08-09T04:03:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

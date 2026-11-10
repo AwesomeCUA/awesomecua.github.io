@@ -1,3 +1,11 @@
+---
+title: "COCO4GUI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-dataset-creator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # COCO4GUI
 
 COCO4GUI 是交互式屏幕捕获和边界框标注工具，用于构建 COCO 格式的 GUI 定位数据集。

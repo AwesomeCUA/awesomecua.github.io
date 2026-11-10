@@ -1,3 +1,11 @@
+---
+title: "GUI grounding — computer-use research, page 14 | AwesomeCUA"
+url: https://awesomecua.com/topics/grounding/page/14/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # GUI grounding — computer-use research, page 14
 
 HTML page: https://awesomecua.com/topics/grounding/page/14/

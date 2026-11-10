@@ -1,3 +1,11 @@
+---
+title: "Test-Time Reinforcement Learning for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-05615/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Test-Time Reinforcement Learning for GUI Grounding via Region Consistency
 
 GUI-RC 将多个定位预测汇入空间投票网格，选出一致区域；GUI-RCPO 再将与该区域的一致程度转化为奖励，用于在无标签 GUI 截图上进行测试时策略更新。
@@ -27,6 +35,18 @@ Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, Chang Zong, Weiming Lu, Shengpei Jian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-05615/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-05615/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_05615,
+  title = {{Test-Time Reinforcement Learning for GUI Grounding via Region Consistency}},
+  author = {{Yong Du} and {Yuchen Yan} and {Fei Tang} and {Zhengxi Lu} and {Chang Zong} and {Weiming Lu} and {Shengpei Jiang} and {Yongliang Shen}},
+  year = {2025},
+  eprint = {2508.05615v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.05615v2},
+  note = {First published: 2025-08-07; Recorded arXiv version: v2; Recorded version updated: 2025-11-13T12:54:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

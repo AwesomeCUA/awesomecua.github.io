@@ -1,10 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 10 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/10/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 10 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/zh/resources/github-tmustier-codex-computer-use-mcp/)
 - [Codex File Bridge](https://awesomecua.com/zh/resources/github-dev-newb-codex-file-bridge/)
 - [Codex Idle Resume](https://awesomecua.com/zh/resources/github-yaro-elipox-codex-idle-resume/)
 - [Codex Managed Channel](https://awesomecua.com/zh/resources/github-fantasyce-codex-managed-channel/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/10/
 - [Cyberdesk](https://awesomecua.com/zh/resources/github-cyberdesk-hq-cyberdesk/)
 - [CyberRaccoon](https://awesomecua.com/zh/resources/github-chaoticpixelio-cyberraccoon/)
 - [Daedalus Browser Bridge](https://awesomecua.com/zh/resources/github-nitjsefnie-harness-commons-daedalus/)
+- [DarwinRelay](https://awesomecua.com/zh/resources/github-dcierra-darwinrelay/)

@@ -1,3 +1,11 @@
+---
+title: "Hoverclick · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-neilyysun-ui-hoverclick/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Hoverclick
 
 Hoverclick 在执行 GUI 点击动作前，引入测试时光标悬停验证和视觉注意力引导。

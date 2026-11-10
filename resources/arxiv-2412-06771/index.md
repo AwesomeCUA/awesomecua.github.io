@@ -1,3 +1,11 @@
+---
+title: "Proactive Agents for Multi-Turn Text-to-Image… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-06771/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty
 
 Status: excluded from the active CUA catalog after scope review.

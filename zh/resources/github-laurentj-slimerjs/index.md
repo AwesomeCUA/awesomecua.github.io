@@ -1,3 +1,11 @@
+---
+title: "SlimerJS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-laurentj-slimerjs/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SlimerJS
 
 SlimerJS 是基于 Firefox 的可脚本化浏览器，可用 JavaScript 控制网页，包括导航、点击、修改内容和截图。

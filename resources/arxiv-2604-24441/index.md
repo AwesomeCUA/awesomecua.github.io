@@ -1,3 +1,11 @@
+---
+title: "AutoGUI-v2: A Comprehensive Multi-Modal GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-24441/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark
 
 AutoGUI-v2 evaluates interface functionality, grounding and predicted interaction outcomes using hierarchical regions derived through VLM-human annotation. Its tasks span multiple operating systems and expose differences between functional localization, captioning and transition-logic understanding.
@@ -26,6 +34,18 @@ Hongxin Li, Xiping Wang, Jingran Su, Zheng Ju, Yuntao Chen, Qing Li, Zhaoxiang Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-24441/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-24441/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_24441,
+  title = {{AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark}},
+  author = {{Hongxin Li} and {Xiping Wang} and {Jingran Su} and {Zheng Ju} and {Yuntao Chen} and {Qing Li} and {Zhaoxiang Zhang}},
+  year = {2026},
+  eprint = {2604.24441v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.24441v1},
+  note = {First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T13:06:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

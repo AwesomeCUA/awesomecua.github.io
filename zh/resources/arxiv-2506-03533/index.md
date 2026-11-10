@@ -1,3 +1,11 @@
+---
+title: "Go-Browse: Training Web Agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-03533/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # Go-Browse: Training Web Agents with Structured Exploration
 
 Go-Browse 将网页环境探索建模为图搜索，使信息可在不同数据收集过程中复用；它在 WebArena 上收集 10,000 条成功轨迹和 40,000 个交互步骤，并用于微调网页智能体。
@@ -27,6 +35,18 @@ Apurva Gandhi, Graham Neubig
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-03533/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-03533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_03533,
+  title = {{Go-Browse: Training Web Agents with Structured Exploration}},
+  author = {{Apurva Gandhi} and {Graham Neubig}},
+  year = {2025},
+  eprint = {2506.03533v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.03533v2},
+  note = {First published: 2025-06-04; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T22:31:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

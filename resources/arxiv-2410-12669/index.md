@@ -1,3 +1,11 @@
+---
+title: "3DIS: Depth-Driven Decoupled Instance… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-12669/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # 3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation
 
 Status: excluded from the active CUA catalog after scope review.

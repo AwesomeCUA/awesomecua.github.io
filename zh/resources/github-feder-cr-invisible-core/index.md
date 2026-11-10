@@ -1,3 +1,11 @@
+---
+title: "invisible_core · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-invisible-core/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # invisible_core
 
 invisible_core 生成 Firefox 指纹配置和浏览器首选项，并提供由浏览器自动化封装程序和 MCP 服务器共用的引擎客户端。

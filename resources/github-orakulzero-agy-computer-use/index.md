@@ -1,3 +1,11 @@
+---
+title: "AGY Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-orakulzero-agy-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AGY Computer Use
 
 AGY Computer Use provides native Windows desktop automation combining UI Automation trees, Set-of-Marks grounding, and background PrintWindow capture.

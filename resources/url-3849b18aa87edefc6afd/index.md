@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3849b18aa87edefc6afd/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # OpenMobile-Data
 
 OpenMobile's synthesized Android agent data: four LLaMA-Factory SFT split files built from AndroidWorld rollouts plus an archive of the original rollout trajectories and screenshots.

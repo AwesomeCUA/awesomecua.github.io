@@ -1,3 +1,11 @@
+---
+title: "ScreenHaystack: Finding Blind Zones in… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-32036/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # ScreenHaystack: Finding Blind Zones in GUI Grounding
 
 在高分辨率界面上移动受控目标图标，以诊断定位模型的空间盲区，并研究针对性数据增强。
@@ -27,6 +35,18 @@ Chenyue Li, Xiaoxiao Sun, Yubo Deng, Qinlin Zhao, Serena Yeung-Levy, Yuhui Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-32036/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-32036/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32036,
+  title = {{ScreenHaystack: Finding Blind Zones in GUI Grounding}},
+  author = {{Chenyue Li} and {Xiaoxiao Sun} and {Yubo Deng} and {Qinlin Zhao} and {Serena Yeung-Levy} and {Yuhui Zhang}},
+  year = {2026},
+  eprint = {2609.32036v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32036v1},
+  note = {First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T22:07:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

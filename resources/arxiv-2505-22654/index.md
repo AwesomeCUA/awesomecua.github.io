@@ -1,3 +1,11 @@
+---
+title: "VScan: Rethinking Visual Token Reduction for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-22654/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models
 
 Bibliographic record for VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ce Zhang, Kaixin Ma, Tianqing Fang, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Ha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-22654/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-22654/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_22654,
+  title = {{VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models}},
+  author = {{Ce Zhang} and {Kaixin Ma} and {Tianqing Fang} and {Wenhao Yu} and {Hongming Zhang} and {Zhisong Zhang} and {Haitao Mi} and {Dong Yu}},
+  year = {2025},
+  eprint = {2505.22654v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.22654v3},
+  note = {First published: 2025-05-28; Recorded arXiv version: v3; Recorded version updated: 2026-01-30T04:03:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

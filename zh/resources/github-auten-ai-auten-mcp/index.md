@@ -1,3 +1,11 @@
+---
+title: "Auten MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-auten-ai-auten-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Auten MCP Server
 
 Auten MCP Server 让 MCP 客户端能够在 macOS、Windows 和 Linux 上进行原生屏幕捕获、UI 元素检查以及鼠标和键盘控制。

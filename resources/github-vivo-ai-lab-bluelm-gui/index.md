@@ -1,3 +1,11 @@
+---
+title: "BlueLM-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vivo-ai-lab-bluelm-gui/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # BlueLM-GUI
 
 Mobile GUI agent research release with technical report, benchmark data, and evaluation tooling from vivo AI Lab.

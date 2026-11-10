@@ -1,3 +1,11 @@
+---
+title: "Agent S · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-simular-ai-agent-s/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Agent S
 
 Simular 的开源计算机使用智能体框架，可在 macOS、Windows 和 Linux 的桌面及网页应用中点击、输入和滚动；第 3 代 Agent S3 报告在 OSWorld 上取得 72.6%。

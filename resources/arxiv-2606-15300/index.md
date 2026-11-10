@@ -1,3 +1,11 @@
+---
+title: "CODA-BENCH: Can Code Agents Handle… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15300/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CODA-BENCH: Can Code Agents Handle Data-Intensive Tasks?
 
 Bibliographic record for CODA-BENCH: Can Code Agents Handle Data-Intensive Tasks?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuxin Zhang, Ju Fan, Meihao Fan, Shaolei Zhang, Xiaoyong Du
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-15300/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-15300/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15300,
+  title = {{CODA-BENCH: Can Code Agents Handle Data-Intensive Tasks?}},
+  author = {{Yuxin Zhang} and {Ju Fan} and {Meihao Fan} and {Shaolei Zhang} and {Xiaoyong Du}},
+  year = {2026},
+  eprint = {2606.15300v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15300v1},
+  note = {First published: 2026-06-13; Recorded arXiv version: v1; Recorded version updated: 2026-06-13T13:46:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

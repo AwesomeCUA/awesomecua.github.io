@@ -1,3 +1,11 @@
+---
+title: "iOSWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ljang0-iosworld/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # iOSWorld
 
 Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.

@@ -1,3 +1,11 @@
+---
+title: "Hosp2MES-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ctrl-cv-master-hosp2mes-agent-public/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Hosp2MES-Agent
 
 Hosp2MES-Agent 是长时程浏览器 GUI 智能体，可通过状态验证执行跨多个页面的 Manufacturing Execution System（MES）工作流程。

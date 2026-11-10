@@ -1,3 +1,11 @@
+---
+title: "AgentCPM-GUI 8B checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8ef3985dce697e5feea9/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # AgentCPM-GUI 8B checkpoint
 
 基于 MiniCPM-V 的 8B 参数模型，读取智能手机截图，并为中文和英文 Android 应用任务预测精简动作。

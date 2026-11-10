@@ -1,3 +1,11 @@
+---
+title: "ROMA: LLM System for Real-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-06955/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception
 
 Bibliographic record for ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ruoxuan Feng, Yutong Chen, Ruihua Song, Huan Yang, Zhongyuan Wang, Guocai Yao, D
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-06955/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-06955/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_06955,
+  title = {{ROMA: LLM System for Real-World Object-Centric Multi-Sensory Active Perception}},
+  author = {{Ruoxuan Feng} and {Yutong Chen} and {Ruihua Song} and {Huan Yang} and {Zhongyuan Wang} and {Guocai Yao} and {Di Hu}},
+  year = {2026},
+  eprint = {2610.06955v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06955v2},
+  note = {First published: 2026-10-03; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T16:42:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Zoom Consistency Routing · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-omxyz-zoom-consistency-routing/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Zoom Consistency Routing
 
 该免训练路由方法根据预测点与放大裁剪中心的距离，在视觉定位模型之间做选择，并提供 ScreenSpot-Pro 评测脚本。

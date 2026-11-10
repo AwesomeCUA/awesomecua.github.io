@@ -1,3 +1,11 @@
+---
+title: "NekoPilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-skyaerope-nekopilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # NekoPilot
 
 NekoPilot is a Manifest V3 Chrome and Edge sidebar browser agent with Chrome DevTools Protocol control and multi-LLM support.

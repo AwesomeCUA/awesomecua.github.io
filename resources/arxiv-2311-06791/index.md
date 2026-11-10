@@ -1,3 +1,11 @@
+---
+title: "InfMLLM: A Unified Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-06791/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # InfMLLM: A Unified Framework for Visual-Language Tasks
 
 Bibliographic record for InfMLLM: A Unified Framework for Visual-Language Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qiang Zhou, Zhibin Wang, Wei Chu, Yinghui Xu, Hao Li, Yuan Qi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-06791/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-06791/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_06791,
+  title = {{InfMLLM: A Unified Framework for Visual-Language Tasks}},
+  author = {{Qiang Zhou} and {Zhibin Wang} and {Wei Chu} and {Yinghui Xu} and {Hao Li} and {Yuan Qi}},
+  year = {2023},
+  eprint = {2311.06791v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.06791v2},
+  note = {First published: 2023-11-12; Recorded arXiv version: v2; Recorded version updated: 2023-12-06T11:06:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GA-Technical-Report | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # GA-Technical-Report
 
 Evaluation materials for GenericAgent cover web browsing and other agent tasks, with benchmark folders documenting setup, protocols, and reproduction.

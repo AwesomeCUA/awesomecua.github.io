@@ -1,3 +1,11 @@
+---
+title: "OmniParser for Pure Vision Based GUI Agent · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2408-00203/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # OmniParser for Pure Vision Based GUI Agent
 
 将截图解析为可交互区域和元素语义描述，支持智能体根据视觉信息定位并执行操作。
@@ -27,6 +35,18 @@ Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2408-00203/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2408-00203/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_00203,
+  title = {{OmniParser for Pure Vision Based GUI Agent}},
+  author = {{Yadong Lu} and {Jianwei Yang} and {Yelong Shen} and {Ahmed Awadallah}},
+  year = {2024},
+  eprint = {2408.00203v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.00203v1},
+  note = {First published: 2024-08-01; Recorded arXiv version: v1; Recorded version updated: 2024-08-01T00:00:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "OpenPhone (Secondly) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-secondly-com-openphone/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # OpenPhone (Secondly)
 
 AI-native Android OS on LineageOS whose privileged assistant uses new framework services to read the screen and UI tree and tap, swipe and type across apps, with confirmations, watchers and an audit log.

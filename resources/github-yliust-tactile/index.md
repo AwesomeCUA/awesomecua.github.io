@@ -1,3 +1,11 @@
+---
+title: "Tactile | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yliust-tactile/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # Tactile
 
 Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.

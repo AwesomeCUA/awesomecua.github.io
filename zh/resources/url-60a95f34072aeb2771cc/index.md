@@ -1,3 +1,11 @@
+---
+title: "EvoCUA 32B 20260105 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-60a95f34072aeb2771cc/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # EvoCUA 32B 20260105
 
 较大的 EvoCUA 计算机使用智能体检查点，发布于 20260105，采用 Qwen3-VL 架构，约有 33B 个 BF16 参数，标注适用于 OSWorld 及英文和中文。

@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 13 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/13/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 13 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/13/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [ANZU Superassistant (Jarvis)](https://awesomecua.com/zh/resources/github-daan298261-jarvis/)
 - [API-Based-Agent](https://awesomecua.com/zh/resources/github-yueqis-api-based-agent/)
 - [ApiTap](https://awesomecua.com/zh/resources/github-n1byn1kt-apitap/)
 - [Apply Lens](https://awesomecua.com/zh/resources/github-mangeshraut712-apply-lens/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/13/
 - [browsegrab](https://awesomecua.com/zh/resources/github-arknill-browsegrab/)
 - [Browsentic](https://awesomecua.com/zh/resources/github-imshaikot-browsentic/)
 - [Browser Agent](https://awesomecua.com/zh/resources/github-rkvalandas-browser-agent/)
+- [Browser Agent](https://awesomecua.com/zh/resources/github-visnia-ai-browser-agent/)

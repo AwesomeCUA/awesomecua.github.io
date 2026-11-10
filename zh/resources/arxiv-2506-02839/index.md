@@ -1,3 +1,11 @@
+---
+title: "DeepShop: A Benchmark for Deep Research… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-02839/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # DeepShop: A Benchmark for Deep Research Shopping Agents
 
 DeepShop 评估购物智能体处理产品属性、筛选条件和排序偏好等复杂度不断变化的查询；评估同时检查各项要求及整体任务成功情况。
@@ -27,6 +35,18 @@ Yougang Lyu, Xiaoyu Zhang, Lingyong Yan, Maarten de Rijke, Zhaochun Ren, Xiuying
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-02839/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-02839/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_02839,
+  title = {{DeepShop: A Benchmark for Deep Research Shopping Agents}},
+  author = {{Yougang Lyu} and {Xiaoyu Zhang} and {Lingyong Yan} and {Maarten de Rijke} and {Zhaochun Ren} and {Xiuying Chen}},
+  year = {2025},
+  eprint = {2506.02839v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.02839v1},
+  note = {First published: 2025-06-03; Recorded arXiv version: v1; Recorded version updated: 2025-06-03T13:08:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

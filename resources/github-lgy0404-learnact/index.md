@@ -1,3 +1,11 @@
+---
+title: "LearnAct | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lgy0404-learnact/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # LearnAct
 
 Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.

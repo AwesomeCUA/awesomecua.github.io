@@ -1,3 +1,11 @@
+---
+title: "SVRepair: Structured Visual Reasoning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-06090/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # SVRepair: Structured Visual Reasoning for Automated Program Repair
 
 Bibliographic record for SVRepair: Structured Visual Reasoning for Automated Program Repair. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jincheng Wang, Liwei Luo, Xiaoxuan Tang, Jingxuan Xu, Sheng Zhou, Dajun Chen, We
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-06090/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-06090/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06090,
+  title = {{SVRepair: Structured Visual Reasoning for Automated Program Repair}},
+  author = {{Jincheng Wang} and {Liwei Luo} and {Xiaoxuan Tang} and {Jingxuan Xu} and {Sheng Zhou} and {Dajun Chen} and {Wei Jiang} and {Yong Li}},
+  year = {2026},
+  eprint = {2602.06090v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06090v2},
+  note = {First published: 2026-02-05; Recorded arXiv version: v2; Recorded version updated: 2026-08-03T12:05:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

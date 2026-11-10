@@ -1,3 +1,11 @@
+---
+title: "GUI-G2 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zju-real-gui-g2/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-G2
 
 GUI 定位模型，包含 3B 和 7B 两个版本；训练时使用高斯奖励衡量点击位置与元素中心的接近程度及区域覆盖情况，并按元素大小调整方差。

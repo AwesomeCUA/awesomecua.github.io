@@ -1,3 +1,11 @@
+---
+title: "SEAgent: Self-Evolving Computer Use Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-04700/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience
 
 SEAgent explores unfamiliar software using a world-state assessor and an automatically generated task curriculum. It learns from failed and successful interactions through adversarial imitation and GRPO, then combines specialist experience into a generalist agent evaluated on five OSWorld software environments.
@@ -26,6 +34,18 @@ Zeyi Sun, Ziyu Liu, Yuhang Zang, Yuhang Cao, Xiaoyi Dong, Tong Wu, Dahua Lin, Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-04700/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-04700/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04700,
+  title = {{SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience}},
+  author = {{Zeyi Sun} and {Ziyu Liu} and {Yuhang Zang} and {Yuhang Cao} and {Xiaoyi Dong} and {Tong Wu} and {Dahua Lin} and {Jiaqi Wang}},
+  year = {2025},
+  eprint = {2508.04700v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04700v2},
+  note = {First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2025-08-12T15:11:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GUI-JEPA: Candidate-Conditioned JEPA Latents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-36877/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents
 
 Introduces GUI-JEPA, a mobile GUI policy that scores candidate actions from screenshot latents in a batched pass without decoding action text.
@@ -26,6 +34,18 @@ Bingchao Wang, Yongcheng Jing, Shunyu Liu, Chengyu Wang, Jun Huang, Jie Yang, We
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-36877/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-36877/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_36877,
+  title = {{GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents}},
+  author = {{Bingchao Wang} and {Yongcheng Jing} and {Shunyu Liu} and {Chengyu Wang} and {Jun Huang} and {Jie Yang} and {Wei Liu} and {Dacheng Tao}},
+  year = {2026},
+  eprint = {2610.36877v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.36877v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T09:17:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

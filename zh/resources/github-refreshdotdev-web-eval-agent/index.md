@@ -1,3 +1,11 @@
+---
+title: "web-eval-agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-refreshdotdev-web-eval-agent/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # web-eval-agent
 
 MCP 服务器，启动 browser-use 智能体运行网页应用，捕获截图、控制台日志和网络日志，并向编程智能体返回 UX 报告。

@@ -1,3 +1,11 @@
+---
+title: "AI Web Tester | AwesomeCUA"
+url: https://awesomecua.com/resources/github-siamalsobari-ai-web-tester/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AI Web Tester
 
 Autonomous browser testing, QA matrix execution, and console/network telemetry toolkit for AI coding agents.

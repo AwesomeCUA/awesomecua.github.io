@@ -1,3 +1,11 @@
+---
+title: "Humanoid · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yzygitzh-humanoid/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Humanoid
 
 Android 应用探索组件，使用从人类使用轨迹中学习的模型，对 DroidBot 提出的输入事件排序。

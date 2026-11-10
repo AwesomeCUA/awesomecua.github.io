@@ -1,3 +1,11 @@
+---
+title: "Appium Mac2 Driver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium-mac2-driver/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Appium Mac2 Driver
 
 Appium Mac2 Driver 借助 Apple 的 XCTest 框架，通过 Appium 自动操作 macOS 应用程序。

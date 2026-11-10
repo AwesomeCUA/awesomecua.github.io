@@ -1,3 +1,11 @@
+---
+title: "Libretto | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cashew-labs-libretto/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # Libretto
 
 Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.

@@ -1,3 +1,11 @@
+---
+title: "noVNC | AwesomeCUA"
+url: https://awesomecua.com/resources/github-novnc-novnc/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # noVNC
 
 noVNC is a browser-based VNC client and JavaScript library for viewing and controlling remote desktops through mouse, keyboard, clipboard and touch input.

@@ -1,3 +1,11 @@
+---
+title: "openadapt-ml · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-ml/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # openadapt-ml
 
 用于图形界面动作模型研究的 Python 工具包，提供轨迹格式、模型适配、微调、界面定位和下一步动作预测接口。

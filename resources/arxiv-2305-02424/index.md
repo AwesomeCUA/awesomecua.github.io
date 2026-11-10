@@ -1,3 +1,11 @@
+---
+title: "Backdoor Learning on Sequence to Sequence… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-02424/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Backdoor Learning on Sequence to Sequence Models
 
 Status: excluded from the active CUA catalog after scope review.

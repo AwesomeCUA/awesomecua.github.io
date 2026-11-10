@@ -1,3 +1,11 @@
+---
+title: "Ruyi (如意) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-icesword0760-ruyi/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Ruyi (如意)
 
 Ruyi streams remote Chrome sessions to the user's browser for collaborative human-AI control and compiles actions into self-healing scripts.

@@ -1,3 +1,11 @@
+---
+title: "The Agent Clicks Approve: Injected Page… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-15138/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named
 
 研究浏览器智能体在提示注入下批准账户访问请求的问题，并提出服务端权限约束，在允许请求完成前核对授权请求是否符合用户任务。
@@ -27,6 +35,18 @@ Md Imran Hossen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-15138/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-15138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15138,
+  title = {{The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named}},
+  author = {{Md Imran Hossen}},
+  year = {2026},
+  eprint = {2610.15138v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15138v1},
+  note = {First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T19:30:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

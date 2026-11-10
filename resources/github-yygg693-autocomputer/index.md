@@ -1,3 +1,11 @@
+---
+title: "autocomputer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yygg693-autocomputer/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # autocomputer
 
 Desktop GUI automation platform combining a Rust execution core, Python SDK, MCP server, and HTML5 monitoring dashboard.

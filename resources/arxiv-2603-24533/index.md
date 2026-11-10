@@ -1,3 +1,11 @@
+---
+title: "UI-Voyager: A Self-Evolving GUI Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-24533/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience
 
 Introduces a two-stage mobile GUI learner that first co-evolves trajectories and policies through rejection fine-tuning. Group Relative Self-Distillation then uses successful rollout branches to provide step-level supervision for failed trajectories, evaluated on AndroidWorld.
@@ -26,6 +34,18 @@ Zichuan Lin, Feiyu Liu, Yijun Yang, Jiafei Lyu, Yiming Gao, Yicheng Liu, Zhicong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-24533/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-24533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_24533,
+  title = {{UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience}},
+  author = {{Zichuan Lin} and {Feiyu Liu} and {Yijun Yang} and {Jiafei Lyu} and {Yiming Gao} and {Yicheng Liu} and {Zhicong Lu} and {Yangbin Yu} and {Mingyu Yang} and {Junyou Li} and {Deheng Ye} and {Jie Jiang}},
+  year = {2026},
+  eprint = {2603.24533v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.24533v1},
+  note = {First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T17:10:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

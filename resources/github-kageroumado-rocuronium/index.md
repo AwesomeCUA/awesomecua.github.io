@@ -1,3 +1,11 @@
+---
+title: "Rocuronium | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kageroumado-rocuronium/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Rocuronium
 
 Isolates macOS computer-use agents inside a separate login session while rendering a live visible-agent overlay on the host screen.

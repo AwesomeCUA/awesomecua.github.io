@@ -1,3 +1,11 @@
+---
+title: "Recursive Code World Models: Building Complex… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-11499/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs
 
 Bibliographic record for Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiqi Li, Yuxuan Liao, Bo Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-11499/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-11499/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_11499,
+  title = {{Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs}},
+  author = {{Zhiqi Li} and {Yuxuan Liao} and {Bo Zhu}},
+  year = {2026},
+  eprint = {2609.11499v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.11499v2},
+  note = {First published: 2026-09-10; Recorded arXiv version: v2; Recorded version updated: 2026-09-13T02:25:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

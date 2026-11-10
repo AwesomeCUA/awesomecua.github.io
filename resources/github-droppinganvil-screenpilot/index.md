@@ -1,3 +1,11 @@
+---
+title: "ScreenPilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-droppinganvil-screenpilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ScreenPilot
 
 ScreenPilot is a local computer-use agent designed to run within 8GB of VRAM, combining screenshot planning with mouse and keyboard control.

@@ -1,3 +1,11 @@
+---
+title: "SUPRA-TEX: 3D Generation with Super-Aligned… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22352/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SUPRA-TEX: 3D Generation with Super-Aligned Texture
 
 Bibliographic record for SUPRA-TEX: 3D Generation with Super-Aligned Texture. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhik
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22352/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22352,
+  title = {{SUPRA-TEX: 3D Generation with Super-Aligned Texture}},
+  author = {{Chen Yang} and {Jiemin Fang} and {Fanpeng Meng} and {Zihao Huang} and {Jichen Pang} and {Guanjun Wu} and {Zhikuan Bao} and {Qi Tian}},
+  year = {2026},
+  eprint = {2610.22352v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22352v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:58:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "FocusAgent: Simple Yet Effective Ways of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-03204/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents
 
 Introduces FocusAgent, which uses a lightweight LLM to select task-relevant lines from web agents' accessibility-tree observations, reducing context size and exposure to prompt injection.
@@ -26,6 +34,18 @@ Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Léo Boisvert, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-03204/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-03204/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_03204,
+  title = {{FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents}},
+  author = {{Imene Kerboua} and {Sahar Omidi Shayegan} and {Megh Thakkar} and {Xing Han Lù} and {Léo Boisvert} and {Massimo Caccia} and {Jérémy Espinas} and {Alexandre Aussem} and {Véronique Eglin} and {Alexandre Lacoste}},
+  year = {2025},
+  eprint = {2510.03204v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.03204v2},
+  note = {First published: 2025-10-03; Recorded arXiv version: v2; Recorded version updated: 2026-08-29T16:53:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

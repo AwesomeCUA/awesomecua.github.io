@@ -1,3 +1,11 @@
+---
+title: "Aico Link Firmware | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Aico Link Firmware
 
 Aico Link firmware runs an agent that views a phone or computer through HDMI capture and sends input through USB HID. The repository includes hardware services, agent runtime, and update tooling.

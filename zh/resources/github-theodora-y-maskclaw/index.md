@@ -1,3 +1,11 @@
+---
+title: "MaskClaw · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-theodora-y-maskclaw/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MaskClaw
 
 MaskClaw 是设备端隐私防护机制，可拦截敏感 GUI 和工具动作，并执行自我演进的用户隐私规则。

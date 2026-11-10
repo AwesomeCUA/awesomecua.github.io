@@ -1,3 +1,11 @@
+---
+title: "ScienceBoard · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-scienceboard/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # ScienceBoard
 
 面向多模态智能体的科学工作流程任务，涉及 ChimeraX、KAlgebra、Celestia、Grass GIS 和 Lean 4 等桌面软件；应用经过修改，可暴露状态供评估使用。

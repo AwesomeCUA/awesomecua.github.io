@@ -1,3 +1,11 @@
+---
+title: "NormCap | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dynobo-normcap/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # NormCap
 
 NormCap is a cross-platform OCR screen-capture tool that extracts text directly from selected screen regions on Linux, macOS, and Windows.

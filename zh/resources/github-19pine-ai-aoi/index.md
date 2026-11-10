@@ -1,3 +1,11 @@
+---
+title: "AOI (Agent-Computer Observation… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-19pine-ai-aoi/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AOI (Agent-Computer Observation Interface) & DynaCU-Bench
 
 AOI 为计算机使用智能体提供自适应视频和音频感知层，并配有动态 GUI 评测基准 DynaCU-Bench。

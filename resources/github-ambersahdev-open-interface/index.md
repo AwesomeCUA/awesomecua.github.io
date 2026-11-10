@@ -1,3 +1,11 @@
+---
+title: "Open Interface | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ambersahdev-open-interface/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Open Interface
 
 Open Interface is a cross-platform desktop application that translates natural-language requests into GUI mouse and keyboard actions via LLMs.

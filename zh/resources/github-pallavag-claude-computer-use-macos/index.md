@@ -1,3 +1,11 @@
+---
+title: "Claude Computer Use Demo for macOS · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pallavag-claude-computer-use-macos/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Claude Computer Use Demo for macOS
 
 将工具调用转换为原生 macOS 屏幕捕获和输入动作，使 Anthropic Claude Computer Use 无需 Docker 即可直接在 macOS 上运行。

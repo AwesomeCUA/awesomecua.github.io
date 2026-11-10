@@ -1,3 +1,11 @@
+---
+title: "MCPSafari | AwesomeCUA"
+url: https://awesomecua.com/resources/github-epistates-mcpsafari/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCPSafari
 
 Native macOS Safari Model Context Protocol server allowing AI agents to inspect and control the user's logged-in Safari browser.

@@ -1,3 +1,11 @@
+---
+title: "ShowUI-π checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f70aa7c95824a8729516/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # ShowUI-π checkpoint
 
 A compact visual-action checkpoint that predicts continuous GUI drag trajectories from a screenshot and a natural-language instruction.

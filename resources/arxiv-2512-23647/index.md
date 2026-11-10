@@ -1,3 +1,11 @@
+---
+title: "Nested Browser-Use Learning for Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-23647/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Nested Browser-Use Learning for Agentic Information Seeking
 
 NestBrowse organizes browser actions in a nested framework that separates interaction control from page exploration. It evaluates this design for deep information seeking beyond snippet retrieval and direct URL fetching.
@@ -26,6 +34,18 @@ Baixuan Li, Jialong Wu, Wenbiao Yin, Kuan Li, Zhongwang Zhang, Huifeng Yin, Zhen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-23647/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-23647/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_23647,
+  title = {{Nested Browser-Use Learning for Agentic Information Seeking}},
+  author = {{Baixuan Li} and {Jialong Wu} and {Wenbiao Yin} and {Kuan Li} and {Zhongwang Zhang} and {Huifeng Yin} and {Zhengwei Tao} and {Liwen Zhang} and {Pengjun Xie} and {Jingren Zhou} and {Yong Jiang}},
+  year = {2025},
+  eprint = {2512.23647v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.23647v1},
+  note = {First published: 2025-12-29; Recorded arXiv version: v1; Recorded version updated: 2025-12-29T17:59:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

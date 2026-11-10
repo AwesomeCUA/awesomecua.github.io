@@ -1,3 +1,11 @@
+---
+title: "ASIL: Replacing Screenshot-and-Click with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-26991/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ASIL: Replacing Screenshot-and-Click with Structured State and Semantic Actions
 
 ASIL exposes application state as structured JSON and provides code-executable semantic actions. Its application benchmark compares this interface with screenshot control and application-native APIs, and studies supervised and reinforcement learning on the structured interface.
@@ -26,6 +34,18 @@ Rui Xie, Lu Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-26991/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-26991/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_26991,
+  title = {{ASIL: Replacing Screenshot-and-Click with Structured State and Semantic Actions}},
+  author = {{Rui Xie} and {Lu Chen}},
+  year = {2026},
+  eprint = {2608.26991v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.26991v1},
+  note = {First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T11:38:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

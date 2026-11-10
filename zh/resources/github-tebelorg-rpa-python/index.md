@@ -1,3 +1,11 @@
+---
+title: "RPA for Python · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tebelorg-rpa-python/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # RPA for Python
 
 RPA for Python 在 TagUI 之上提供 Python API，通过视觉 OCR 自动操作网站和桌面 GUI 应用，并自动执行命令行工作流。

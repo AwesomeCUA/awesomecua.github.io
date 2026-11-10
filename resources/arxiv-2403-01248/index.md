@@ -1,3 +1,11 @@
+---
+title: "SceneCraft: An LLM Agent for Synthesizing 3D… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-01248/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code
 
 Bibliographic record for SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ziniu Hu, Ahmet Iscen, Aashi Jain, Thomas Kipf, Yisong Yue, David A. Ross, Corde
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-01248/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-01248/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_01248,
+  title = {{SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code}},
+  author = {{Ziniu Hu} and {Ahmet Iscen} and {Aashi Jain} and {Thomas Kipf} and {Yisong Yue} and {David A. Ross} and {Cordelia Schmid} and {Alireza Fathi}},
+  year = {2024},
+  eprint = {2403.01248v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.01248v1},
+  note = {First published: 2024-03-02; Recorded arXiv version: v1; Recorded version updated: 2024-03-02T16:16:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

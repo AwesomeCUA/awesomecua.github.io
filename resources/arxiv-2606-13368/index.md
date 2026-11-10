@@ -1,3 +1,11 @@
+---
+title: "IterCAD: An Iterative Multimodal Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-13368/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing
 
 Status: excluded from the active CUA catalog after scope review.

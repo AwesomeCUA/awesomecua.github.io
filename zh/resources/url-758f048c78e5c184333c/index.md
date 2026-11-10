@@ -1,3 +1,11 @@
+---
+title: "Orienter · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-758f048c78e5c184333c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Orienter
 
 Orienter 结合应用背景与检测器，在扩展现实界面截图中定位可交互元素；发布内容包括代码和模型权重。

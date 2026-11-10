@@ -1,3 +1,11 @@
+---
+title: "macOS Control CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ferdinandl007-macos-control-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # macOS Control CLI
 
 macOS Control CLI combines local OmniParser v2 UI element detection with human-like mouse, keyboard, and scroll actuation on macOS.

@@ -1,3 +1,11 @@
+---
+title: "Molmo2: Open Weights and Data for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-10611/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding
 
 Status: excluded from the active CUA catalog after scope review.

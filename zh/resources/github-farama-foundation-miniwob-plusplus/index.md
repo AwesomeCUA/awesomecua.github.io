@@ -1,3 +1,11 @@
+---
+title: "MiniWoB++ · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-farama-foundation-miniwob-plusplus/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # MiniWoB++
 
 扩展自 OpenAI MiniWoB 的 100 多个网页交互环境，可通过 Python 中的 Gymnasium API 使用 Selenium 控制浏览器。

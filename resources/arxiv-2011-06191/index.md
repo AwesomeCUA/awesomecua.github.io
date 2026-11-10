@@ -1,3 +1,11 @@
+---
+title: "Revisiting Secure Computation Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2011-06191/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Revisiting Secure Computation Using Functional Encryption: Opportunities and Research Directions
 
 Status: excluded from the active CUA catalog after scope review.

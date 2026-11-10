@@ -1,3 +1,11 @@
+---
+title: "FlowBench: Revisiting and Benchmarking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-14884/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents
 
 Status: excluded from the active CUA catalog after scope review.

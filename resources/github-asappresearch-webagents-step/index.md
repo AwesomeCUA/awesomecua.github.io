@@ -1,3 +1,11 @@
+---
+title: "SteP (Stacked LLM Policies) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-asappresearch-webagents-step/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SteP (Stacked LLM Policies)
 
 SteP implements dynamically composed Markovian LLM policies for multi-step web navigation and task execution on WebArena.

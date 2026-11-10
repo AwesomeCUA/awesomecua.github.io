@@ -1,3 +1,11 @@
+---
+title: "CAAP Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-caap-agent-caap-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # CAAP Agent
 
 用于 MiniWoB++ 和 WebShop 的截图驱动智能体实现，通过视觉观察器和上下文感知提示发出鼠标与键盘操作。

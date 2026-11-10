@@ -1,3 +1,11 @@
+---
+title: "Hallucination-Free GUI Grounding via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-09654/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching
 
 This framework separates frozen-model instruction expansion from a trained layout-aware matcher that localizes GUI elements without coordinate regression. Binary text/icon supervision supports the matcher, with evaluations on GUI grounding and Mind2Web element-selection tasks.
@@ -26,6 +34,18 @@ Yuke Li, Xuehan Hou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-09654/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-09654/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_09654,
+  title = {{Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching}},
+  author = {{Yuke Li} and {Xuehan Hou}},
+  year = {2026},
+  eprint = {2608.09654v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.09654v1},
+  note = {First published: 2026-08-10; Recorded arXiv version: v1; Recorded version updated: 2026-08-10T14:29:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

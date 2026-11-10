@@ -1,3 +1,11 @@
+---
+title: "PersonaTrail: Benchmarking Personalized… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-20482/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails
 
 提出使用浏览历史评估个性化网页智能体的 PersonaTrail，以及以结构化记忆引导网页导航的 PACMem。
@@ -27,6 +35,18 @@ Seungbin Yang, Chaewoon Ki, Dohyun Lee, Jaegul Choo, ChaeHun Park
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-20482/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-20482/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_20482,
+  title = {{PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails}},
+  author = {{Seungbin Yang} and {Chaewoon Ki} and {Dohyun Lee} and {Jaegul Choo} and {ChaeHun Park}},
+  year = {2026},
+  eprint = {2607.20482v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.20482v2},
+  note = {First published: 2026-05-30; Recorded arXiv version: v2; Recorded version updated: 2026-08-04T07:30:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

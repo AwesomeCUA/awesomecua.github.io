@@ -1,3 +1,11 @@
+---
+title: "Attest | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cyrus580529-attest/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Attest
 
 Self-verifying web agent core where the model proposes candidate actions and the harness validates real DOM state transitions.

@@ -1,3 +1,11 @@
+---
+title: "Godot Editor MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hybridindie-godot-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Godot Editor MCP
 
 一套 MCP 服务器和 Godot 插件，让智能体检查和编辑实时运行的游戏编辑器、控制游戏会话、模拟输入并截取屏幕。

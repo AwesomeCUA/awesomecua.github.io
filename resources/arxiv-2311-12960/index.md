@@ -1,3 +1,11 @@
+---
+title: "Teaching Quantum Computing using Microsoft… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-12960/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Teaching Quantum Computing using Microsoft Quantum Development Kit and Azure Quantum
 
 Status: excluded from the active CUA catalog after scope review.

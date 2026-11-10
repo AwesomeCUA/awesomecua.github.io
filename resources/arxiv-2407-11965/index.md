@@ -1,3 +1,11 @@
+---
+title: "UrbanWorld: An Urban World Model for 3D City… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-11965/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # UrbanWorld: An Urban World Model for 3D City Generation
 
 Bibliographic record for UrbanWorld: An Urban World Model for 3D City Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yu Shang, Yuming Lin, Yu Zheng, Hangyu Fan, Jingtao Ding, Jie Feng, Jiansheng Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-11965/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-11965/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_11965,
+  title = {{UrbanWorld: An Urban World Model for 3D City Generation}},
+  author = {{Yu Shang} and {Yuming Lin} and {Yu Zheng} and {Hangyu Fan} and {Jingtao Ding} and {Jie Feng} and {Jiansheng Chen} and {Li Tian} and {Yong Li}},
+  year = {2024},
+  eprint = {2407.11965v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.11965v2},
+  note = {First published: 2024-07-16; Recorded arXiv version: v2; Recorded version updated: 2024-10-22T08:31:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

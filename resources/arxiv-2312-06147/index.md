@@ -1,3 +1,11 @@
+---
+title: "\"What's important here?\": Opportunities and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-06147/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # "What's important here?": Opportunities and Challenges of Using LLMs in Retrieving Information from Web Interfaces
 
 Bibliographic record for "What's important here?": Opportunities and Challenges of Using LLMs in Retrieving Information from Web Interfaces. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Faria Huq, Jeffrey P. Bigham, Nikolas Martelaro
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-06147/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-06147/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_06147,
+  title = {{"What's important here?": Opportunities and Challenges of Using LLMs in Retrieving Information from Web Interfaces}},
+  author = {{Faria Huq} and {Jeffrey P. Bigham} and {Nikolas Martelaro}},
+  year = {2023},
+  eprint = {2312.06147v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.06147v1},
+  note = {First published: 2023-12-11; Recorded arXiv version: v1; Recorded version updated: 2023-12-11T06:26:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

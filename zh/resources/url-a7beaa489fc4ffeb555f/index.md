@@ -1,3 +1,11 @@
+---
+title: "LearnGUI · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a7beaa489fc4ffeb555f/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # LearnGUI
 
 面向示范学习的移动端 GUI 基准，包含 2,252 项离线任务和 101 项在线任务及人工逐步轨迹，每项查询配有一至三条相似的辅助示范。

@@ -1,3 +1,11 @@
+---
+title: "agentic-cb (CLI Browser Control Plane) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-santusht06-agentic-cb/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agentic-cb (CLI Browser Control Plane)
 
 CLI 浏览器控制平台，统一消息和生产力网页应用中的网页会话自动化。

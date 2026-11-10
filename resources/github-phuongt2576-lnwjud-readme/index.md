@@ -1,3 +1,11 @@
+---
+title: "lnwjud (Windows MCP Access) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-phuongt2576-lnwjud-readme/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # lnwjud (Windows MCP Access)
 
 Provides AI agents with native Windows desktop access via MCP, secure tunnels, and live monitoring.

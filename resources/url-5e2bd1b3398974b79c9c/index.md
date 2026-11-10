@@ -1,3 +1,11 @@
+---
+title: "WebClick | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # WebClick
 
 A web-interface localization benchmark with screenshot instructions and target boxes, including agent browsing, human browsing and calendar cases.

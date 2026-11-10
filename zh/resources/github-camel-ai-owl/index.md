@@ -1,3 +1,11 @@
+---
+title: "OWL (Optimized Workforce Learning) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-camel-ai-owl/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OWL (Optimized Workforce Learning)
 
 OWL 是基于 CAMEL-AI 构建的多智能体自动化框架，用于浏览器交互、文档处理和现实任务执行。

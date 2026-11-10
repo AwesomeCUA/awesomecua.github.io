@@ -1,3 +1,11 @@
+---
+title: "Scaling GUI Agents with Visual State… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-24112/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Scaling GUI Agents with Visual State Transitions
 
 Introduces State Transition Pretraining, which jointly learns to infer actions from GUI changes and predict future states from current screens and actions. Subsequent instruction-trajectory fine-tuning tests whether these representations transfer to desktop and mobile agent tasks.
@@ -26,6 +34,18 @@ Xiangyan Liu, Kaixin Li, Haonan Wang, Biao Wu, Meng Fang, Longxu Dou, Chao Du, M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-24112/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-24112/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_24112,
+  title = {{Scaling GUI Agents with Visual State Transitions}},
+  author = {{Xiangyan Liu} and {Kaixin Li} and {Haonan Wang} and {Biao Wu} and {Meng Fang} and {Longxu Dou} and {Chao Du} and {Michael Qizhe Shieh} and {Tianyu Pang}},
+  year = {2026},
+  eprint = {2607.24112v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.24112v1},
+  note = {First published: 2026-07-27; Recorded arXiv version: v1; Recorded version updated: 2026-07-27T07:54:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

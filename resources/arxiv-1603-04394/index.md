@@ -1,3 +1,11 @@
+---
+title: "Internet Computing: Using Reputation to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1603-04394/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Internet Computing: Using Reputation to Select Workers from a Pool
 
 Status: excluded from the active CUA catalog after scope review.

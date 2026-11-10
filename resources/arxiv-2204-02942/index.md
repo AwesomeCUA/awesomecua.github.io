@@ -1,3 +1,11 @@
+---
+title: "A Design Methodology for Fault-Tolerant… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2204-02942/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Design Methodology for Fault-Tolerant Computing using Astrocyte Neural Networks
 
 Status: excluded from the active CUA catalog after scope review.

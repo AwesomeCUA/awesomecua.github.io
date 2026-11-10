@@ -1,3 +1,11 @@
+---
+title: "lora_qformer_test_V4-700_merged · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8a5201470d27334977fa/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # lora_qformer_test_V4-700_merged
 
 合并了 CoMEM 记忆模块的 Qwen2.5-VL-7B-Instruct 模型，该模块通过经 LoRA 调优的 Q-Former 将过往 GUI 轨迹压缩为 8 个连续嵌入，用于网页智能体任务。

@@ -1,3 +1,11 @@
+---
+title: "MAI-UI 2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4b6d61ff2c1d6c8e1a23/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # MAI-UI 2B
 
 A 2B MAI-UI checkpoint in the Qwen3-VL architecture, from a GUI agent family whose training data adds agent-user interaction and MCP tool calls to mobile navigation and grounding.

@@ -1,3 +1,11 @@
+---
+title: "GUI-World | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dongping-chen-gui-world/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-World
 
 GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.

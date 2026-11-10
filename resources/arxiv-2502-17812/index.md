@@ -1,3 +1,11 @@
+---
+title: "Can Multimodal LLMs Perform Time Series… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-17812/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Can Multimodal LLMs Perform Time Series Anomaly Detection?
 
 Bibliographic record for Can Multimodal LLMs Perform Time Series Anomaly Detection?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiongxiao Xu, Haoran Wang, Yueqing Liang, Philip S. Yu, Yue Zhao, Kai Shu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-17812/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-17812/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_17812,
+  title = {{Can Multimodal LLMs Perform Time Series Anomaly Detection?}},
+  author = {{Xiongxiao Xu} and {Haoran Wang} and {Yueqing Liang} and {Philip S. Yu} and {Yue Zhao} and {Kai Shu}},
+  year = {2025},
+  eprint = {2502.17812v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.17812v2},
+  note = {First published: 2025-02-25; Recorded arXiv version: v2; Recorded version updated: 2026-02-17T17:04:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

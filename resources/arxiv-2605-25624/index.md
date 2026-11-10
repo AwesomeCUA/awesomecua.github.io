@@ -1,3 +1,11 @@
+---
+title: "CUA-Gym: Scaling Verifiable Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-25624/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents
 
 Presents CUA-Gym, which co-generates instructions, initial and target states, and executable reward checks through generator-discriminator iterations. Mock web applications expand training environments, with learned agents evaluated on OSWorld-Verified and WebArena.
@@ -26,6 +34,18 @@ Bowen Wang, Dunjie Lu, Junli Wang, Tianyi Bai, Shixuan Liu, Zhipeng Zhang, Haiqu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-25624/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-25624/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_25624,
+  title = {{CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents}},
+  author = {{Bowen Wang} and {Dunjie Lu} and {Junli Wang} and {Tianyi Bai} and {Shixuan Liu} and {Zhipeng Zhang} and {Haiquan Wang} and {Hao Hu} and {Tianbao Xie} and {Shuai Bai} and {Dayiheng Liu} and {Que Shen} and {Junyang Lin} and {Tao Yu}},
+  year = {2026},
+  eprint = {2605.25624v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.25624v2},
+  note = {First published: 2026-05-25; Recorded arXiv version: v2; Recorded version updated: 2026-06-08T08:32:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

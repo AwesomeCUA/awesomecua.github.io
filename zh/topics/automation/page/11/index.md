@@ -1,10 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 11 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/11/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 11 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/11/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [DarwinRelay](https://awesomecua.com/zh/resources/github-dcierra-darwinrelay/)
 - [dassi](https://awesomecua.com/zh/resources/url-040e17448d9d190b3c14/)
 - [dcc-cua](https://awesomecua.com/zh/resources/github-dcc-mcp-dcc-cua/)
 - [dcc123456 Browser Copilot](https://awesomecua.com/zh/resources/github-dcc123456-browser-copilot/)
@@ -30,7 +37,6 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/11/
 - [desktop-hub](https://awesomecua.com/zh/resources/github-zty552252kevin-code-desktop-hub/)
 - [desktop-touch-mcp](https://awesomecua.com/zh/resources/github-harusame64-desktop-touch-mcp/)
 - [DesktopAgent (.NET 9)](https://awesomecua.com/zh/resources/github-alessiobianchini-desktopagent/)
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/)
 - [DesktopCtl](https://awesomecua.com/zh/resources/github-yaroshevych-desktopctl/)
 - [DeskVNC](https://awesomecua.com/zh/resources/github-psmux-deskvnc/)
 - [deskwork](https://awesomecua.com/zh/resources/github-ashnkumar-deskwork/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/11/
 - [DSH Browser Control](https://awesomecua.com/zh/resources/github-ahaway1st-dsh-browser-control/)
 - [dsh Browser Control](https://awesomecua.com/zh/resources/github-lum1104-dsh-browser/)
 - [DSH Desktop Operator](https://awesomecua.com/zh/resources/github-zjh02249-dsh-desktop-operator/)
+- [DSH Deskwork](https://awesomecua.com/zh/resources/github-guomonth-dsh-deskwork/)
+- [DSH iOS Simulator](https://awesomecua.com/zh/resources/github-zseven-w-dsh-ios/)

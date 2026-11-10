@@ -1,3 +1,11 @@
+---
+title: "Agentic Android | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xdope7137-agentic-android/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Agentic Android
 
 LLM-powered Android agent over ADB that reads the screen, executes tap/swipe/type actions, and verifies outcomes at each step.

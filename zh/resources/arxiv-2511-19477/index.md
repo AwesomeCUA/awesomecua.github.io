@@ -1,3 +1,11 @@
+---
+title: "Building Browser Agents: Architecture… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-19477/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Building Browser Agents: Architecture, Security, and Practical Solutions
 
 总结构建浏览器智能体时的架构与安全经验，包括混合使用无障碍树和视觉上下文、浏览器工具及程序化约束，并结合 WebGames 评估讨论运行稳定性和专门化。
@@ -27,6 +35,18 @@ Aram Vardanyan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-19477/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-19477/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_19477,
+  title = {{Building Browser Agents: Architecture, Security, and Practical Solutions}},
+  author = {{Aram Vardanyan}},
+  year = {2025},
+  eprint = {2511.19477v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.19477v1},
+  note = {First published: 2025-11-22; Recorded arXiv version: v1; Recorded version updated: 2025-11-22T12:18:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "TankWork · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agenttankos-tankwork/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # TankWork
 
 TankWork 是结合 OmniParser 视觉定位、OCR 和 PyAutoGUI 动作执行的桌面智能体框架。

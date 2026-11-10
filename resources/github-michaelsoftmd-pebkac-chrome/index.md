@@ -1,3 +1,11 @@
+---
+title: "pebkac | AwesomeCUA"
+url: https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # pebkac
 
 Self-hosted web co-browser in which a smolagents code agent on a local llama.cpp model writes Python that drives Chrome through Zendriver: navigation, CSS-selector clicks and typing, Trafilatura text extraction and tabs.

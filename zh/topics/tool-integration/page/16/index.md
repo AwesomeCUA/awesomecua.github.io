@@ -1,15 +1,20 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 16 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/16/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 16 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/16/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [Magpie Computer Use](https://awesomecua.com/zh/resources/github-sammysnake-d-magpie-computer-use-agent/)
-- [MAI-UI inference and evaluation code](https://awesomecua.com/zh/resources/github-tongyi-mai-mai-ui/)
 - [Mailman Agents](https://awesomecua.com/zh/resources/github-zero06six-mailman-agents/)
 - [mangouse](https://awesomecua.com/zh/resources/github-gianlucamazza-mangouse/)
 - [Marvi OS](https://awesomecua.com/zh/resources/github-xretr00-marvi-os/)
-- [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/)
 - [Master Internet Unit](https://awesomecua.com/zh/resources/github-0bifthenelse-master-internet-unit/)
 - [Mastra Code](https://awesomecua.com/zh/resources/github-mastra-ai-mastra-code-ui/)
 - [MatthewAlexOng Agent Bridge](https://awesomecua.com/zh/resources/github-matthewalexong-agent-bridge/)
@@ -64,3 +69,6 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/16/
 - [mobilerun-ios](https://awesomecua.com/zh/resources/github-droidrun-mobilerun-ios-releases/)
 - [modal-computer-use](https://awesomecua.com/zh/resources/github-ashtonchew-modal-computer-use/)
 - [ModCDP](https://awesomecua.com/zh/resources/github-browserbase-modcdp/)
+- [MT Code](https://awesomecua.com/zh/resources/github-munimtechnologies-mtcode/)
+- [muhtalhakhan OpenAgent](https://awesomecua.com/zh/resources/github-muhtalhakhan-open-agent/)
+- [munim-computer-use](https://awesomecua.com/zh/resources/github-munimtechnologies-munim-computer-use/)

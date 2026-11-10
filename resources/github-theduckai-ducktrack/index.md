@@ -1,3 +1,11 @@
+---
+title: "DuckTrack | AwesomeCUA"
+url: https://awesomecua.com/resources/github-theduckai-ducktrack/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DuckTrack
 
 DuckTrack records synchronized screen video and low-level mouse and keyboard events for building multimodal computer-interaction datasets.

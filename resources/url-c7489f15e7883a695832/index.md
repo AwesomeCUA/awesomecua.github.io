@@ -1,3 +1,11 @@
+---
+title: "MoCon | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c7489f15e7883a695832/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # MoCon
 
 Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.

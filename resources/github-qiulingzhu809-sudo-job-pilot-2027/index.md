@@ -1,3 +1,11 @@
+---
+title: "Job Pilot 2027 (秋招雷达 2027) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qiulingzhu809-sudo-job-pilot-2027/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Job Pilot 2027 (秋招雷达 2027)
 
 Local browser-assisted campus recruiting workbench that manages candidate profiles and autofills enterprise job portals.

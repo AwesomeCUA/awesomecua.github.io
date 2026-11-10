@@ -1,3 +1,11 @@
+---
+title: "computer-use (github.com/lindoelio/comput… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lindoelio-computer-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # computer-use
 
 computer-use 是供智能体使用的 Rust 命令行工具和库，可在 macOS、Linux 和 Windows 上捕获桌面状态并执行鼠标与键盘操作。

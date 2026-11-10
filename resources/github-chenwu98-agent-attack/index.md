@@ -1,3 +1,11 @@
+---
+title: "Adversarial Web Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chenwu98-agent-attack/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # Adversarial Web Agents
 
 Evaluation resources for adversarial attacks on multimodal web agents.

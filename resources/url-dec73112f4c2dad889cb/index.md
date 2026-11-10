@@ -1,3 +1,11 @@
+---
+title: "BrowserART (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dec73112f4c2dad889cb/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # BrowserART
 
 A browser-agent safety dataset of 100 harmful browser-related behaviors, designed for red-team evaluation across real and synthetic websites.

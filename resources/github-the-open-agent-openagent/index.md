@@ -1,3 +1,11 @@
+---
+title: "OpenAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-the-open-agent-openagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OpenAgent
 
 OpenAgent is a self-hostable assistant whose agent loop can operate a browser by navigating, clicking and filling forms. It also runs code and connects to external tools.

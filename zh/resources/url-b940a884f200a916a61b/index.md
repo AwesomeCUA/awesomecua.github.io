@@ -1,3 +1,11 @@
+---
+title: "Steel Cloud · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b940a884f200a916a61b/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # Steel Cloud
 
 与 Steel Browser 相关的托管浏览器基础设施。

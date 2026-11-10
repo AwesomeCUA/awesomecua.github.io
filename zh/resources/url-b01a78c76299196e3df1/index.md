@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 7B Desktop-RL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b01a78c76299196e3df1/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Owl 7B Desktop-RL
 
 Mobile-Agent-v3 的 GUI-Owl 7B 变体，针对 OSWorld 桌面使用进行强化学习调优，作为验证环境强化学习改进的研究检查点发布，生产用途不在其声明的用途范围内。

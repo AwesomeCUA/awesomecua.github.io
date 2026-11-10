@@ -1,3 +1,11 @@
+---
+title: "Mobile3M · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b80bfa0a4939a493a11f/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # Mobile3M
 
 小米 MobileVLM 的预训练语料，以各应用的图结构归档文件分发，涵盖百度地图、QQ 音乐、携程和唯品会等移动应用。

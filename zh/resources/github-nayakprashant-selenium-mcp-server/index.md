@@ -1,3 +1,11 @@
+---
+title: "Selenium MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nayakprashant-selenium-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Selenium MCP Server
 
 Python Model Context Protocol 服务器，提供 Selenium WebDriver 浏览器导航、元素交互和截图工具。

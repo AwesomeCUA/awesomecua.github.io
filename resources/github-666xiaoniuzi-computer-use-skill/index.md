@@ -1,3 +1,11 @@
+---
+title: "Computer Use Studio Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-666xiaoniuzi-computer-use-skill/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Computer Use Studio Pro
 
 Cross-agent skill for low-latency, verified desktop, browser, and window control.

@@ -1,3 +1,11 @@
+---
+title: "EvoCUA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-meituan-evocua/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # EvoCUA
 
 EvoCUA 项目提供计算机使用模型及训练资源。

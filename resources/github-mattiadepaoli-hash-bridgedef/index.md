@@ -1,3 +1,11 @@
+---
+title: "BridgeDEF | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mattiadepaoli-hash-bridgedef/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # BridgeDEF
 
 Durable local exchange transport bridging ChatGPT Desktop and Web sessions with local coding workspaces.

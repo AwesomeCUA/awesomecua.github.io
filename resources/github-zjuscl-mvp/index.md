@@ -1,3 +1,11 @@
+---
+title: "MVP (Multiple View Prediction) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zjuscl-mvp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MVP (Multiple View Prediction)
 
 MVP improves GUI visual grounding by aggregating multi-view coordinate predictions across aspect-ratio and resolution transformations.

@@ -1,3 +1,11 @@
+---
+title: "CLS-CAD: Synthesizing CAD Assemblies in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-18492/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CLS-CAD: Synthesizing CAD Assemblies in Fusion 360
 
 Bibliographic record for CLS-CAD: Synthesizing CAD Assemblies in Fusion 360. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Constantin Chaumet, Jakob Rehof
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-18492/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-18492/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_18492,
+  title = {{CLS-CAD: Synthesizing CAD Assemblies in Fusion 360}},
+  author = {{Constantin Chaumet} and {Jakob Rehof}},
+  year = {2023},
+  eprint = {2311.18492v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.18492v1},
+  note = {First published: 2023-11-30; Recorded arXiv version: v1; Recorded version updated: 2023-11-30T12:07:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

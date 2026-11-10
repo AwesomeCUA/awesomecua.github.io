@@ -1,3 +1,11 @@
+---
+title: "browser-use-capsolver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-capsolver-browser-use-capsolver/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browser-use-capsolver
 
 面向 Browser Use 智能体的官方 CapSolver 集成工具，用于在网页工作流程中检测和解决验证码挑战。

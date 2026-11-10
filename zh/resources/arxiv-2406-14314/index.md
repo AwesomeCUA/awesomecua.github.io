@@ -1,3 +1,11 @@
+---
+title: "Identifying User Goals from UI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-14314/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Identifying User Goals from UI Trajectories
 
 定义从观察到的 UI 轨迹识别用户目标的任务，以及在相同界面上下文中比较意图描述的评估方法；复用 Android 和网页自动化数据，比较人和模型对用户具体目标的推断。
@@ -27,6 +35,18 @@ Omri Berkovitch, Sapir Caduri, Noam Kahlon, Anatoly Efros, Avi Caciularu, Ido Da
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-14314/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-14314/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_14314,
+  title = {{Identifying User Goals from UI Trajectories}},
+  author = {{Omri Berkovitch} and {Sapir Caduri} and {Noam Kahlon} and {Anatoly Efros} and {Avi Caciularu} and {Ido Dagan}},
+  year = {2024},
+  eprint = {2406.14314v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.14314v3},
+  note = {First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2025-03-03T15:47:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "ClawGUI-Eval | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e8cea6261ab19611ad23/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # ClawGUI-Eval
 
 GUI grounding evaluation data for six benchmarks, with images, prompts, and prior outputs for an inference, judging, and metrics workflow.

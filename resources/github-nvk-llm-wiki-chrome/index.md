@@ -1,3 +1,11 @@
+---
+title: "LLM Wiki for Chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nvk-llm-wiki-chrome/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # LLM Wiki for Chrome
 
 Bounded Chrome collaboration extension and local connector for building LLM-maintained knowledge wikis from live browsing.

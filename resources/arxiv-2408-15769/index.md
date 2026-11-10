@@ -1,3 +1,11 @@
+---
+title: "A Survey on Evaluation of Multimodal Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-15769/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # A Survey on Evaluation of Multimodal Large Language Models
 
 Bibliographic record for A Survey on Evaluation of Multimodal Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jiaxing Huang, Jingyi Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-15769/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-15769/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_15769,
+  title = {{A Survey on Evaluation of Multimodal Large Language Models}},
+  author = {{Jiaxing Huang} and {Jingyi Zhang}},
+  year = {2024},
+  eprint = {2408.15769v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.15769v1},
+  note = {First published: 2024-08-28; Recorded arXiv version: v1; Recorded version updated: 2024-08-28T13:05:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

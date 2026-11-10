@@ -1,3 +1,11 @@
+---
+title: "Apache Maka · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-apache-maka/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Apache Maka
 
 Apache Maka 是面向 macOS 的智能体工作区，可记录浏览器、终端和 GUI 动作的可验证执行轨迹。

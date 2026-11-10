@@ -1,3 +1,11 @@
+---
+title: "CDP-Patches | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-cdp-patches/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # CDP-Patches
 
 Python package that sends clicks, mouse moves, scrolling and typing to a headful Chrome window as OS-level input events, avoiding the input-domain leaks of CDP-dispatched events.

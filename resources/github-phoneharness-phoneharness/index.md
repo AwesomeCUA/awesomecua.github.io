@@ -1,3 +1,11 @@
+---
+title: "PhoneHarness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-phoneharness-phoneharness/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # PhoneHarness
 
 PhoneHarness evaluates Android phone agents that combine GUI actions with device commands and host tools. It provides a runtime, a benchmark runner subset and trace-based checks of task outcomes.

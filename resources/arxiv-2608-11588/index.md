@@ -1,3 +1,11 @@
+---
+title: "CoAdapt-GUI: Joint Workflow Context and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-11588/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications
 
 Introduces CoAdapt-GUI, which adapts workflow context and policy from a mobile GUI agent's own rollouts and rewards when it encounters unseen applications.
@@ -26,6 +34,18 @@ Linqiang Guo, Li Gu, Zihuan Jiang, Zhixiang Chi, Siobhan Reid, Ziqiang Wang, Yua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-11588/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-11588/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_11588,
+  title = {{CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications}},
+  author = {{Linqiang Guo} and {Li Gu} and {Zihuan Jiang} and {Zhixiang Chi} and {Siobhan Reid} and {Ziqiang Wang} and {Yuanhao Yu} and {Wei Liu} and {Yang Wang} and {Tse-Hsun} and {Chen}},
+  year = {2026},
+  eprint = {2608.11588v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.11588v1},
+  note = {First published: 2026-08-12; Recorded arXiv version: v1; Recorded version updated: 2026-08-12T02:55:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

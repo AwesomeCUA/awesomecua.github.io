@@ -1,3 +1,11 @@
+---
+title: "Mechanize | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sparklemotion-mechanize/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Mechanize
 
 Mechanize is a Ruby library that automates website interactions, including navigation, cookie handling, and form submission.

@@ -1,3 +1,11 @@
+---
+title: "TERX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ixchio-terx/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # TERX
 
 Browser-agent procedural memory and MCP server that compiles repeated web workflows into deterministic zero-token replays.

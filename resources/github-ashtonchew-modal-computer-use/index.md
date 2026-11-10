@@ -1,3 +1,11 @@
+---
+title: "modal-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # modal-computer-use
 
 Provides daemon-first computer-use primitives for provisioning and controlling GUI desktops inside Modal cloud sandboxes.

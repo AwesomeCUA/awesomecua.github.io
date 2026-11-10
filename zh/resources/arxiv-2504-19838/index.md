@@ -1,3 +1,11 @@
+---
+title: "LLM-Powered GUI Agents in Phone… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-19838/
+updated: 2026-10-16
+type: survey
+lang: zh-CN
+---
+
 # LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects
 
 综述 LLM 驱动的手机 GUI 智能体，并按智能体框架、基于提示和训练的建模方法、数据集与基准进行分类。
@@ -23,6 +31,18 @@ Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Liang Liu, Yaxuan Guo, Han Xiao, Wei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-19838/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-19838/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_19838,
+  title = {{LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects}},
+  author = {{Guangyi Liu} and {Pengxiang Zhao} and {Yaozhen Liang} and {Liang Liu} and {Yaxuan Guo} and {Han Xiao} and {Weifeng Lin} and {Yuxiang Chai} and {Yue Han} and {Shuai Ren} and {Hao Wang} and {Xiaoyu Liang} and {WenHao Wang} and {Tianze Wu} and {Zhengxi Lu} and {Siheng Chen} and {LiLinghao} and {Hao Wang} and {Guanjing Xiong} and {Yong Liu} and {Hongsheng Li}},
+  year = {2025},
+  eprint = {2504.19838v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.19838v3},
+  note = {First published: 2025-04-28; Recorded arXiv version: v3; Recorded version updated: 2025-11-17T15:51:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

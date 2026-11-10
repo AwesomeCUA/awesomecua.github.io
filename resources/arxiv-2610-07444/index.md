@@ -1,3 +1,11 @@
+---
+title: "Decoupling What from Where: How Should a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-07444/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Decoupling What from Where: How Should a Small GUI Grounding Model Receive the Action Type?
 
 Compares ways to condition a small GUI grounding model on action type under matched training conditions on Android in the Wild. The study traces apparent gains to a coordinate-serialization choice and reports limited evidence that the gains persist with predicted action types.
@@ -26,6 +34,18 @@ Aadi Chauhan, Arthur Ilyasov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07444/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07444/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07444,
+  title = {{Decoupling What from Where: How Should a Small GUI Grounding Model Receive the Action Type?}},
+  author = {{Aadi Chauhan} and {Arthur Ilyasov}},
+  year = {2026},
+  eprint = {2610.07444v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07444v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T21:50:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

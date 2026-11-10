@@ -1,3 +1,11 @@
+---
+title: "pc-screen-control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-desteny-dev-pc-screen-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pc-screen-control
 
 Windows Model Context Protocol 服务器，将桌面无障碍树以结构化数据的形式提供，代替截图。

@@ -1,3 +1,11 @@
+---
+title: "界面理解：Computer-Use 研究与资源（第 13 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/screen-understanding/page/13/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 界面理解：Computer-Use 研究与资源（第 13 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/13/
@@ -41,7 +49,6 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/13/
 - [Marey](https://awesomecua.com/zh/resources/github-badalraj9-marey/)
 - [MarkForge](https://awesomecua.com/zh/resources/github-lannistersyh-markforge/)
 - [Marvi OS](https://awesomecua.com/zh/resources/github-xretr00-marvi-os/)
-- [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/)
 - [MAWR (Machine-Aware Web Runtime)](https://awesomecua.com/zh/resources/github-iasolutionorg-mawr/)
 - [MCP Virtual Cursor](https://awesomecua.com/zh/resources/github-sos2778-mcp-virtual-cursor/)
 - [mcp-linux-desktop](https://awesomecua.com/zh/resources/github-wizardofweb125-lab-mcp-linux-desktop/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/13/
 - [MultimodalWebSurfer](https://awesomecua.com/zh/resources/url-41556fece3bf8a2419ba/)
 - [MVP (Multiple View Prediction)](https://awesomecua.com/zh/resources/github-zjuscl-mvp/)
 - [my_tiny_agent](https://awesomecua.com/zh/resources/github-yanjin101-my-tiny-agent/)
+- [nanbbb dsh-computer-use-windows](https://awesomecua.com/zh/resources/github-nanbbb-dsh-computer-use-windows/)

@@ -1,3 +1,11 @@
+---
+title: "serial-hid-kvm · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sunasaji-serial-hid-kvm/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # serial-hid-kvm
 
 serial-hid-kvm 通过 CH9329 USB HID 模拟器控制目标电脑的键盘和鼠标，并经由 HDMI 采集其屏幕，提供预览窗口、网页查看器和 JSON Lines TCP 接口。

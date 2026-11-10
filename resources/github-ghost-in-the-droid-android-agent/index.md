@@ -1,3 +1,11 @@
+---
+title: "Ghost in the Droid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ghost-in-the-droid-android-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Ghost in the Droid
 
 Ghost in the Droid is an Android GUI agent that combines accessibility trees, screenshot perception, and ADB/on-device execution.

@@ -1,3 +1,11 @@
+---
+title: "Eagle · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nvlabs-eagle/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Eagle
 
 Eagle 是一个视觉语言模型家族，其中的 LocateAnything 定位组件可定位图形界面元素及其他视觉目标。

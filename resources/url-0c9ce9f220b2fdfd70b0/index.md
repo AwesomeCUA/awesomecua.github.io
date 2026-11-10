@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 35B-A3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0c9ce9f220b2fdfd70b0/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo3.1 35B-A3B
 
 35B-A3B checkpoint of H Company's Holo3.1 family, a sparse mixture-of-experts vision-language model for web, desktop and mobile computer use with native function calling.

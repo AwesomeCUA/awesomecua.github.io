@@ -1,3 +1,11 @@
+---
+title: "Browser Agent (uiuing) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-uiuing-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Browser Agent (uiuing)
 
 Chrome 侧边栏智能体的页面引擎读取整页语义 DOM 快照，通过元素指纹重新定位目标，派发 DOM 事件，并在报告成功前检查操作后的条件。

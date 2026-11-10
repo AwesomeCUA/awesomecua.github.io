@@ -1,3 +1,11 @@
+---
+title: "openadapt-flow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-flow/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # openadapt-flow
 
 openadapt-flow turns recorded web or desktop tasks into reusable programs, replays them locally, and verifies saved records. Its standalone repository is archived.

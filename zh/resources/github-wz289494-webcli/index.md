@@ -1,3 +1,11 @@
+---
+title: "webcli · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wz289494-webcli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # webcli
 
 Python CLI 与 Chrome 扩展桥接工具，让用户和 AI 智能体从终端控制正在运行的 Chrome 标签页。

@@ -1,3 +1,11 @@
+---
+title: "action-receipt · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeremiahm37-action-receipt/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # action-receipt
 
 为每个动作生成确定性的 DOM 和网络效果回执，用于审计浏览器智能体的执行过程。

@@ -1,3 +1,11 @@
+---
+title: "Fazm | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mediar-ai-fazm/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Fazm
 
 Fazm is a native macOS desktop and browser agent that observes screen state via Accessibility/OCR and automates cross-application workflows.

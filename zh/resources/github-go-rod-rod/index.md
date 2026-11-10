@@ -1,3 +1,11 @@
+---
+title: "Rod · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-go-rod-rod/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Rod
 
 这是基于 DevTools Protocol 的浏览器自动化驱动，提供元素等待、输入追踪和浏览器页面控制辅助功能。

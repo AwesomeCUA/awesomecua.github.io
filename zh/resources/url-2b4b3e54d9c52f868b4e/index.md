@@ -1,3 +1,11 @@
+---
+title: "AMEX-8K · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2b4b3e54d9c52f868b4e/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # AMEX-8K
 
 AMEX 的一个 8K 样本子集，收录不同应用、设备形态和屏幕密度的移动应用截图，用于 GUI 定位预训练。

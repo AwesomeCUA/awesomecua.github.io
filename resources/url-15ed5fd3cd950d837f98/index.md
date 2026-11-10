@@ -1,3 +1,11 @@
+---
+title: "Skyvern Cloud | AwesomeCUA"
+url: https://awesomecua.com/resources/url-15ed5fd3cd950d837f98/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Skyvern Cloud
 
 Hosted Skyvern service for AI browser workflows such as invoice downloads and form filling, with built-in CAPTCHA and 2FA handling, proxy geotargeting, run explanations and JSON or CSV output.

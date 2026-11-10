@@ -1,3 +1,11 @@
+---
+title: "Tsaagan | AwesomeCUA"
+url: https://awesomecua.com/resources/github-michaelolmos-tsaagan/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Tsaagan
 
 Tsaagan is a verify-first browser control framework for AI agents that proves every click and form action succeeded before advancing.

@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-72B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7ea46aa7d2d4470bb1f8/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # UGround-V1-72B
 
 UGround-V1-72B 基于 Qwen2-VL，用于定位 GUI 截图中的目标；项目发布了模型权重，并报告了移动端、桌面端和网页界面的评估结果。

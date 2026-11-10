@@ -1,3 +1,11 @@
+---
+title: "CHOP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuqi-zhou-chop/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # CHOP
 
 移动端自动化框架，利用可复用的基础子任务约束并改进从用户目标到可执行操作的规划。

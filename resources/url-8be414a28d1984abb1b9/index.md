@@ -1,3 +1,11 @@
+---
+title: "TimeWarp (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8be414a28d1984abb1b9/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # TimeWarp
 
 Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.

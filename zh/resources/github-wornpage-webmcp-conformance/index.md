@@ -1,3 +1,11 @@
+---
+title: "Wornpage WebMCP Conformance · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Wornpage WebMCP Conformance
 
 验证工具包，用于检查页面自有的 WebMCP 工具模式、授权边界和执行一致性。

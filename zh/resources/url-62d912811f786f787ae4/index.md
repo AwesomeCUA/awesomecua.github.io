@@ -1,3 +1,11 @@
+---
+title: "cua-ai/cua-s1-forms · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-62d912811f786f787ae4/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # cua-ai/cua-s1-forms
 
 用于根据文档内容选择图形界面表单操作的训练与评测数据，包含合成的训练、验证和测试集，以及真实浏览器表单演示。

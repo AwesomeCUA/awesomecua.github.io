@@ -1,3 +1,11 @@
+---
+title: "GenXR-Bench: Benchmarking Coding Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-29014/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development
 
 Bibliographic record for GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ William Huang, David Li, Xiang 'Anthony' Chen, Xun Qian, Nels Numan, Zhongyi Zho
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-29014/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-29014/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_29014,
+  title = {{GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development}},
+  author = {{William Huang} and {David Li} and {Xiang 'Anthony' Chen} and {Xun Qian} and {Nels Numan} and {Zhongyi Zhou} and {Hyunsung Cho} and {Salman Muin Kayser Chishti} and {Ding Xia} and {Xincheng Huang} and {Jiahao Ren} and {Faraz Faruqi} and {Tianyu Xu} and {Yang Zhang} and {David Kim} and {Ruofei Du}},
+  year = {2026},
+  eprint = {2610.29014v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.29014v2},
+  note = {First published: 2026-10-21; Recorded arXiv version: v2; Recorded version updated: 2026-10-22T18:09:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

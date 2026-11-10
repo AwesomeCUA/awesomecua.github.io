@@ -1,3 +1,11 @@
+---
+title: "Graphic-Design-Bench: A Comprehensive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-04192/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Graphic-Design-Bench: A Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks
 
 Bibliographic record for Graphic-Design-Bench: A Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Adrienne Deganutti, Elad Hirsch, Haonan Zhu, Jaejung Seol, Purvanshi Mehta
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-04192/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-04192/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_04192,
+  title = {{Graphic-Design-Bench: A Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks}},
+  author = {{Adrienne Deganutti} and {Elad Hirsch} and {Haonan Zhu} and {Jaejung Seol} and {Purvanshi Mehta}},
+  year = {2026},
+  eprint = {2604.04192v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.04192v2},
+  note = {First published: 2026-04-05; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T16:58:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

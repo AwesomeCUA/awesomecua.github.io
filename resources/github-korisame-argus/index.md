@@ -1,3 +1,11 @@
+---
+title: "Argus (macOS Vision-AX MCP Plugin) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-korisame-argus/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Argus (macOS Vision-AX MCP Plugin)
 
 Claude Code MCP plugin providing 40 macOS automation tools with a unified Accessibility, AppleScript, and Vision OCR resolver.

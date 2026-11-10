@@ -1,3 +1,11 @@
+---
+title: "ChromiumFish | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arman-bd-chromiumfish/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # ChromiumFish
 
 ChromiumFish packages a modified Chromium browser for Playwright and external agents. It also includes an agent that reads pages and performs clicks, typing, and navigation.

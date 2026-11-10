@@ -1,3 +1,11 @@
+---
+title: "MintAct: A Unified Visual Agent for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-22083/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MintAct: A Unified Visual Agent for Digital Environments
 
 MintAct 训练一组视觉智能体，处理移动端、桌面和网页环境中的定位、导航与工具使用。其共享基础设施支持轨迹收集和异步在线 RL，同时控制跨领域采样与离策略偏移。
@@ -27,6 +35,18 @@ Mingfei Gao, Rui Tian, Haiming Gang, Bohan Zhai, Le Zhang, Yuanzheng Gong, Di Fe
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-22083/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-22083/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_22083,
+  title = {{MintAct: A Unified Visual Agent for Digital Environments}},
+  author = {{Mingfei Gao} and {Rui Tian} and {Haiming Gang} and {Bohan Zhai} and {Le Zhang} and {Yuanzheng Gong} and {Di Feng} and {Ege Özsoy} and {Kaixin Ma} and {Vishwesh Kirthivasan} and {Oğuzhan Fatih Kar} and {Roman Bachmann} and {Anders Boesen Lindbo Larsen} and {Afshin Dehghan}},
+  year = {2026},
+  eprint = {2609.22083v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.22083v1},
+  note = {First published: 2026-09-18; Recorded arXiv version: v1; Recorded version updated: 2026-09-18T17:59:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

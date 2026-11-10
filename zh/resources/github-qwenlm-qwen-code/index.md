@@ -1,3 +1,11 @@
+---
+title: "Qwen Code · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qwenlm-qwen-code/
+updated: 2026-11-06
+type: agent
+lang: zh-CN
+---
+
 # Qwen Code
 
 Qwen Code 是开源编程智能体，除终端、编辑器、网页和聊天界面外，还支持通过计算机使用工具实现桌面自动化。

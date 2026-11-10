@@ -1,3 +1,11 @@
+---
+title: "webarena-world-model-cot | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3e0f07cb0ff3f32dfc0e/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # webarena-world-model-cot
 
 WebArena page-transition data for training language world models: chain-of-thought annotations paired with the accessibility-tree item changes that follow an action, used for SFT and RLVR in RLVR-World.

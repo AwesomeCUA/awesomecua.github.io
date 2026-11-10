@@ -1,3 +1,11 @@
+---
+title: "TheAgentCompany · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-theagentcompany-theagentcompany/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # TheAgentCompany
 
 自包含的职场环境，用于评估智能体处理涉及网站、文件、代码和模拟同事的专业任务。

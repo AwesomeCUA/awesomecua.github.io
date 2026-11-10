@@ -1,3 +1,11 @@
+---
+title: "Jevry · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-michaelswissa-jevry/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Jevry
 
 Jevry 是一款桌面浏览器智能体，将页面上观察到的控件转为候选操作，利用模型选择操作并规划任务，同时展示处理网站任务的过程。

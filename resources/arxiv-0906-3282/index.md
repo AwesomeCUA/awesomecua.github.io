@@ -1,3 +1,11 @@
+---
+title: "Maximum Error Modeling for Fault-Tolerant… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0906-3282/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Maximum Error Modeling for Fault-Tolerant Computation using Maximum a posteriori (MAP) Hypothesis
 
 Status: excluded from the active CUA catalog after scope review.

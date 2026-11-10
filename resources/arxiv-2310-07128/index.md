@@ -1,3 +1,11 @@
+---
+title: "CrashTranslator: Automatically Reproducing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-07128/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace
 
 Introduces CrashTranslator, which predicts GUI exploration steps from stack traces with an LLM and uses RL-guided search to reproduce crashes in Android apps.
@@ -26,6 +34,18 @@ Yuchao Huang, Junjie Wang, Zhe Liu, Yawen Wang, Song Wang, Chunyang Chen, Yuanzh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-07128/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-07128/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_07128,
+  title = {{CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace}},
+  author = {{Yuchao Huang} and {Junjie Wang} and {Zhe Liu} and {Yawen Wang} and {Song Wang} and {Chunyang Chen} and {Yuanzhe Hu} and {Qing Wang}},
+  year = {2023},
+  eprint = {2310.07128v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.07128v1},
+  note = {First published: 2023-10-11; Recorded arXiv version: v1; Recorded version updated: 2023-10-11T02:00:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

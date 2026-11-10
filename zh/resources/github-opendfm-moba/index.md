@@ -1,3 +1,11 @@
+---
+title: "MobA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-opendfm-moba/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # MobA
 
 Android 智能体，将全局任务规划和记忆与局部操作执行器结合，并通过反思修订移动端交互步骤。

@@ -1,3 +1,11 @@
+---
+title: "Aguvis stage 1 grounding data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-06dd5ac7917c45d48509/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Aguvis stage 1 grounding data
 
 The first-stage Aguvis training collection, packaging GUI element-grounding annotations and image archives from multiple interface-data sources.

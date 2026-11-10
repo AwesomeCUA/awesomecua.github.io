@@ -1,3 +1,11 @@
+---
+title: "cogagent-vqa-hf · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-64d0220e17b4e67485f3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # cogagent-vqa-hf
 
 这是面向单轮视觉对话的 CogAgent 检查点；模型卡还介绍了其 GUI 截图理解、坐标动作能力以及报告的 GUI 数据集结果。

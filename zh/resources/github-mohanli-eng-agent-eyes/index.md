@@ -1,3 +1,11 @@
+---
+title: "agent-eyes · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mohanli-eng-agent-eyes/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-eyes
 
 MCP 服务器和工作流 skill，让 Claude Code 实时查看浏览器运行环境的视觉内容和 DOM。

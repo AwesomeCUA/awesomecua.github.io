@@ -1,3 +1,11 @@
+---
+title: "GUI-World · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dongping-chen-gui-world/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-World
 
 覆盖 Android、iOS、网站和 XR 等 6 类场景的 GUI 视频基准及训练数据，包含面向图像和视频 LLM 的 8 类问题，以及 GUI-Vid 模型。

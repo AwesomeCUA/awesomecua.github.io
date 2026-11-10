@@ -1,3 +1,11 @@
+---
+title: "AI-Work | AwesomeCUA"
+url: https://awesomecua.com/resources/github-peiwenzhang-git-ai-work/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AI-Work
 
 Human-in-the-loop Windows desktop automation runtime with MCP support, bounded file access, and step approval.

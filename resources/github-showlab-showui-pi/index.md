@@ -1,3 +1,11 @@
+---
+title: "ShowUI-π | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-showui-pi/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # ShowUI-π
 
 Vision-language-action model and training code for GUI dragging, with links to checkpoints and continuous-action evaluation data.

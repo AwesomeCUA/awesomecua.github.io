@@ -1,3 +1,11 @@
+---
+title: "Phone Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-boboabw-phone-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Phone Agent
 
 一款 iPhone 智能体，通过 ESP32-S3 蓝牙鼠标和键盘配件观察共享屏幕并跨应用操作。发布内容包括应用程序和固件源码。

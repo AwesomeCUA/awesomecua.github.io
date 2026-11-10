@@ -1,3 +1,11 @@
+---
+title: "Qwen Studio Browser Gateway | AwesomeCUA"
+url: https://awesomecua.com/resources/github-satyasai-collab-qwen-studio-browser-gateway/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Qwen Studio Browser Gateway
 
 Localhost advisory gateway for Claude Code backed by a logged-in Qwen Studio browser session.

@@ -1,3 +1,11 @@
+---
+title: "OpAgent (github.com/codefuse-ai/OpAgent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-codefuse-ai-opagent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # OpAgent
 
 用于网页导航的智能体，提供单模型和模块化两种模式。模块化流程读取截图、规划操作、定位页面目标，并通过 Playwright 执行浏览器动作。

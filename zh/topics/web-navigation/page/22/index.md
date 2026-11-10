@@ -1,11 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 22 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/22/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 22 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/22/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Market Basket Agent](https://awesomecua.com/zh/resources/github-0xyene-market-basket-agent/)
-- [Master Internet Unit](https://awesomecua.com/zh/resources/github-0bifthenelse-master-internet-unit/)
 - [MatthewAlexOng Agent Bridge](https://awesomecua.com/zh/resources/github-matthewalexong-agent-bridge/)
 - [MAWR (Machine-Aware Web Runtime)](https://awesomecua.com/zh/resources/github-iasolutionorg-mawr/)
 - [MCP Browser (macOS WKWebView)](https://awesomecua.com/zh/resources/github-brainfuel-mcp-browser/)
@@ -64,3 +70,5 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/22/
 - [NaviFlow](https://awesomecua.com/zh/resources/github-marc-ing-navi-flow/)
 - [NekoPilot](https://awesomecua.com/zh/resources/github-skyaerope-nekopilot/)
 - [nekoro-browser](https://awesomecua.com/zh/resources/github-zeshuochen-nekoro-browser/)
+- [Nell (Open Source Instinct)](https://awesomecua.com/zh/resources/github-iabdulwasey-nell/)
+- [nemosr dsh-personal-plugins](https://awesomecua.com/zh/resources/github-nemosr-dsh-personal-plugins/)

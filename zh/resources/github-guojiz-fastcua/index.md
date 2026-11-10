@@ -1,3 +1,11 @@
+---
+title: "FastCUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guojiz-fastcua/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # FastCUA
 
 面向 AI 智能体的本地 Windows 控制层，以无障碍能力为先，提供结构化 UI 树和多动作执行能力。

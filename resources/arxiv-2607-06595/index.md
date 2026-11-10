@@ -1,3 +1,11 @@
+---
+title: "When Agents Remember Too Much: Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-06595/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents
 
 Bibliographic record for When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ George Torres, Sharad Shrestha, Satyajayant Misra
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-06595/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-06595/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_06595,
+  title = {{When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents}},
+  author = {{George Torres} and {Sharad Shrestha} and {Satyajayant Misra}},
+  year = {2026},
+  eprint = {2607.06595v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.06595v1},
+  note = {First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T19:30:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

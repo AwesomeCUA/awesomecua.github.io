@@ -1,3 +1,11 @@
+---
+title: "VideoCUA · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-78adf6919bdbce42bc24/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # VideoCUA
 
 CUA-Suite 的专家桌面操作演示：涵盖 87 款应用约 10,000 项任务，提供 30 fps 屏幕录像及精确到毫秒的鼠标和键盘操作日志。

@@ -1,3 +1,11 @@
+---
+title: "The Behavioral Fabric of LLM-Powered GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-16356/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes
 
 Introduces a controlled web-task testbed for studying how stated preferences and human values influence GUI-agent decisions. It analyzes how personas alter navigation and how prominent interface cues can override the intended preference guidance.
@@ -26,6 +34,18 @@ Simret Araya Gebreegziabher, Yukun Yang, Charles Chiang, Hojun Yoo, Chaoran Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-16356/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-16356/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_16356,
+  title = {{The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes}},
+  author = {{Simret Araya Gebreegziabher} and {Yukun Yang} and {Charles Chiang} and {Hojun Yoo} and {Chaoran Chen} and {Hyo Jin Do} and {Zahra Ashktorab} and {Werner Geyer} and {Diego Gómez-Zará} and {Toby Jia-Jun Li}},
+  year = {2026},
+  eprint = {2601.16356v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.16356v1},
+  note = {First published: 2026-01-22; Recorded arXiv version: v1; Recorded version updated: 2026-01-22T22:42:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

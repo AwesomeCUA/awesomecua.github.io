@@ -1,3 +1,11 @@
+---
+title: "Octo-planner: On-device Language Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-18082/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Octo-planner: On-device Language Model for Planner-Action Agents
 
 Status: excluded from the active CUA catalog after scope review.

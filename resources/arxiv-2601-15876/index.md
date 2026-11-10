@@ -1,3 +1,11 @@
+---
+title: "EvoCUA: Evolving Computer Use Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-15876/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience
 
 EvoCUA combines task synthesis with executable validators, asynchronous sandbox rollouts and iterative policy updates. It turns successful routines and analyzed failures into supervision and evaluates the evolving agent on OSWorld.
@@ -26,6 +34,17 @@ The annotation was reviewed against the complete retained official abstract.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-15876/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-15876/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_15876,
+  title = {{EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience}},
+  year = {2026},
+  eprint = {2601.15876v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.15876v2},
+  note = {First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-01-23T08:52:00Z; Authors: see the paper (https://arxiv.org/abs/2601.15876v2); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

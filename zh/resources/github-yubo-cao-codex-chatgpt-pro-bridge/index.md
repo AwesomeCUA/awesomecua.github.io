@@ -1,3 +1,11 @@
+---
+title: "Codex ChatGPT Pro Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yubo-cao-codex-chatgpt-pro-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex ChatGPT Pro Bridge
 
 适应不同区域设置的 Codex 技能，用于在浏览器中咨询已登录的 ChatGPT Pro 网页会话。

@@ -1,3 +1,11 @@
+---
+title: "LLMs as Scalable, General-Purpose… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-14969/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training
 
 提出 UI-Simulator，生成 UI 状态及状态转换以合成智能体训练轨迹；另提出 UI-Simulator-Grow，优先处理任务和轨迹变体。
@@ -27,6 +35,18 @@ Yiming Wang, Da Yin, Yuedong Cui, Ruichen Zheng, Zhiqian Li, Zongyu Lin, Di Wu, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-14969/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-14969/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_14969,
+  title = {{LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training}},
+  author = {{Yiming Wang} and {Da Yin} and {Yuedong Cui} and {Ruichen Zheng} and {Zhiqian Li} and {Zongyu Lin} and {Di Wu} and {Xueqing Wu} and {Chenchen Ye} and {Yu Zhou} and {Kai-Wei Chang}},
+  year = {2025},
+  eprint = {2510.14969v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.14969v1},
+  note = {First published: 2025-10-16; Recorded arXiv version: v1; Recorded version updated: 2025-10-16T17:59:38Z.}
+}
+```
 
 ## arXiv 版本记录
 

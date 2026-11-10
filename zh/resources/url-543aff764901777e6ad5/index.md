@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_plan_iterative · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-543aff764901777e6ad5/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # lumos_unified_plan_iterative
 
 lumos_unified_plan_iterative 是用于训练 Lumos 规划模块的 JSONL 数据集，汇集了网页智能体、数学和复杂问答任务的样本。

@@ -1,3 +1,11 @@
+---
+title: "WebGenAgent-LM-8B-SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b3dd615ebfe977392f90/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # WebGenAgent-LM-8B-SFT
 
 The 8B supervised fine-tuned checkpoint of WebGen-Agent, which writes website code from instructions and refines it with screenshot critiques and GUI-agent functional tests.

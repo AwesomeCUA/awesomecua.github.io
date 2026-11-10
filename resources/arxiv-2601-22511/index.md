@@ -1,3 +1,11 @@
+---
+title: "Mock Worlds, Real Skills: Building Small… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22511/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards
 
 Status: excluded from the active CUA catalog after scope review.

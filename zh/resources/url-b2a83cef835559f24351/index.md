@@ -1,3 +1,11 @@
+---
+title: "InternVL3-38B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b2a83cef835559f24351/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3-38B
 
 一个已发布的 InternVL3-38B 多模态检查点；其模型系列的说明文档记载了图形界面操作训练样本及图形界面定位评测。

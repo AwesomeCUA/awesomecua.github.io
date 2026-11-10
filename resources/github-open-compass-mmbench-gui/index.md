@@ -1,3 +1,11 @@
+---
+title: "MMBench-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-open-compass-mmbench-gui/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # MMBench-GUI
 
 Four-level GUI-agent benchmark across six platforms, from content understanding and element grounding to task automation and collaboration, scored with an efficiency-quality area metric.

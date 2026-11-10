@@ -1,3 +1,11 @@
+---
+title: "MANTIS: Interleaved Multi-Image Instruction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-01483/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MANTIS: Interleaved Multi-Image Instruction Tuning
 
 Bibliographic record for MANTIS: Interleaved Multi-Image Instruction Tuning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dongfu Jiang, Xuan He, Huaye Zeng, Cong Wei, Max Ku, Qian Liu, Wenhu Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-01483/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-01483/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_01483,
+  title = {{MANTIS: Interleaved Multi-Image Instruction Tuning}},
+  author = {{Dongfu Jiang} and {Xuan He} and {Huaye Zeng} and {Cong Wei} and {Max Ku} and {Qian Liu} and {Wenhu Chen}},
+  year = {2024},
+  eprint = {2405.01483v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.01483v3},
+  note = {First published: 2024-05-02; Recorded arXiv version: v3; Recorded version updated: 2024-11-15T06:31:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

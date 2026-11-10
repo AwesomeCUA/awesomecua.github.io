@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lgy0404-memgui-bench/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # MemGUI-Bench
 
 Memory-centric Android benchmark of 128 tasks across 26 apps, run in Dockerized emulators on a MobileWorld-style runtime and judged by MemGUI-Eval, an LLM evaluator reporting pass@k and memory metrics.

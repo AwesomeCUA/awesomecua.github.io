@@ -1,3 +1,11 @@
+---
+title: "Every Software as an Agent: Blueprint and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-04747/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Every Software as an Agent: Blueprint and Case Study
 
 Bibliographic record for Every Software as an Agent: Blueprint and Case Study. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mengwei Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-04747/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-04747/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_04747,
+  title = {{Every Software as an Agent: Blueprint and Case Study}},
+  author = {{Mengwei Xu}},
+  year = {2025},
+  eprint = {2502.04747v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.04747v1},
+  note = {First published: 2025-02-07; Recorded arXiv version: v1; Recorded version updated: 2025-02-07T08:29:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

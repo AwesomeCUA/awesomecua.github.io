@@ -1,3 +1,11 @@
+---
+title: "ClawBench (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # ClawBench
 
 A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.

@@ -1,3 +1,11 @@
+---
+title: "UnityMAS-O: A General RL Optimization… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-26646/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # UnityMAS-O: A General RL Optimization Framework for LLM-Based Multi-Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

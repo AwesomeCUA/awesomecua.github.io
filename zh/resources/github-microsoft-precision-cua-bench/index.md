@@ -1,3 +1,11 @@
+---
+title: "Precision CUA Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-precision-cua-bench/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # Precision CUA Bench
 
 用于评估代码编辑器中像素级精确光标定位的资源。

@@ -1,3 +1,11 @@
+---
+title: "OpenGCUA: Toward a Fully Open Stack for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-22200/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use
 
 提出开放的通用计算机使用技术栈，结合视觉交互与程序化交互，由模型决定观测方式和任务状态。
@@ -27,6 +35,18 @@ Hanzhang Zhou, Long Li, Quyu Kong, Lei Wang, Panrong Tong, Long Chen, Tianyu Xia
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-22200/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-22200/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22200,
+  title = {{OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use}},
+  author = {{Hanzhang Zhou} and {Long Li} and {Quyu Kong} and {Lei Wang} and {Panrong Tong} and {Long Chen} and {Tianyu Xia} and {Gongjie Zhang} and {Xu Zhang} and {Chen Liu} and {Jianan Zhang} and {Chenglin Cai} and {Zhengwen Zeng} and {Steven Hoi} and {Yue Wang}},
+  year = {2026},
+  eprint = {2610.22200v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22200v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T16:51:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

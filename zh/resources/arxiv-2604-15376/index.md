@@ -1,3 +1,11 @@
+---
+title: "Zoom Consistency: A Free Confidence… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-15376/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Zoom Consistency: A Free Confidence Signal in Multi-Step Visual Grounding Pipelines
 
 提出“缩放一致性”作为多步骤 GUI 定位的置信度信号，并据此在专用与通用视觉定位模型之间选择。
@@ -27,6 +35,18 @@ Keon Kim, Krish Chelikavada
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-15376/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-15376/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_15376,
+  title = {{Zoom Consistency: A Free Confidence Signal in Multi-Step Visual Grounding Pipelines}},
+  author = {{Keon Kim} and {Krish Chelikavada}},
+  year = {2026},
+  eprint = {2604.15376v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.15376v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T20:47:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

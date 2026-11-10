@@ -1,3 +1,11 @@
+---
+title: "HuggingGPT: Solving AI Tasks with ChatGPT and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-17580/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face
 
 Status: excluded from the active CUA catalog after scope review.

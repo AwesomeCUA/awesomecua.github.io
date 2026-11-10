@@ -1,3 +1,11 @@
+---
+title: "Label Controllers · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amywlp-label-controllers/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Label Controllers
 
 Label Controllers 是从截图识别控件的 API，结合 YOLO 控件检测、RapidOCR 以及 OpenAI/Anthropic 计算机使用工具模式。

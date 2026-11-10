@@ -1,3 +1,11 @@
+---
+title: "Universe legacy GUI interaction client · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openai-universe/
+updated: 2026-10-17
+type: infrastructure
+lang: zh-CN
+---
+
 # Universe legacy GUI interaction client
 
 已归档的 Gym 兼容客户端，通过 VNC 为远程应用和浏览器环境提供屏幕观察及键盘、鼠标操作，包括早期的 World of Bits 集成。

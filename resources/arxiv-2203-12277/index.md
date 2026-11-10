@@ -1,3 +1,11 @@
+---
+title: "Unified Structure Generation for Universal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-12277/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Unified Structure Generation for Universal Information Extraction
 
 Bibliographic record for Unified Structure Generation for Universal Information Extraction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun, Hua 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2203-12277/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2203-12277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2203_12277,
+  title = {{Unified Structure Generation for Universal Information Extraction}},
+  author = {{Yaojie Lu} and {Qing Liu} and {Dai Dai} and {Xinyan Xiao} and {Hongyu Lin} and {Xianpei Han} and {Le Sun} and {Hua Wu}},
+  year = {2022},
+  eprint = {2203.12277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2203.12277v1},
+  note = {First published: 2022-03-23; Recorded arXiv version: v1; Recorded version updated: 2022-03-23T08:49:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

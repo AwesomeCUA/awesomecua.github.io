@@ -1,3 +1,11 @@
+---
+title: "GROOT: Learning to Follow Instructions by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-08235/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GROOT: Learning to Follow Instructions by Watching Gameplay Videos
 
 Status: excluded from the active CUA catalog after scope review.

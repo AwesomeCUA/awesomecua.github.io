@@ -1,3 +1,11 @@
+---
+title: "Multi-Agent Computer Use · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-01533/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Multi-Agent Computer Use
 
 MACU 将计算机使用目标表示为依赖图，由管理者分派并行子智能体，并随新信息到来调整任务。桌面和网页实验考察协作、信息交接及任务完成时间。
@@ -27,6 +35,18 @@ Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-01533/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-01533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_01533,
+  title = {{Multi-Agent Computer Use}},
+  author = {{Jing Yu Koh} and {Ruslan Salakhutdinov} and {Daniel Fried}},
+  year = {2026},
+  eprint = {2606.01533v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.01533v1},
+  note = {First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T01:29:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "UI-Mate-democua-27B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4425e20ebe68c9eb805f/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # UI-Mate-democua-27B
 
 UI-Mate 桌面智能体的 27B 检查点，基于 Qwen3.6-27B 微调，读取屏幕截图，并可依据一段录制的演示，为新任务规划键盘和鼠标操作。

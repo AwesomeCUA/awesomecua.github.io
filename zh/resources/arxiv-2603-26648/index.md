@@ -1,3 +1,11 @@
+---
+title: "Vision2Web: A Hierarchical Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-26648/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
 
 提出 Vision2Web，以图像为起点评估网站开发任务，涵盖 UI 代码生成、多页面前端和全栈开发，并结合 GUI 智能体验证器与 VLM 评判器。
@@ -27,6 +35,18 @@ Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-26648/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-26648/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_26648,
+  title = {{Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification}},
+  author = {{Zehai He} and {Wenyi Hong} and {Zhen Yang} and {Ziyang Pan} and {Mingdao Liu} and {Xiaotao Gu} and {Jie Tang}},
+  year = {2026},
+  eprint = {2603.26648v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.26648v3},
+  note = {First published: 2026-03-27; Recorded arXiv version: v3; Recorded version updated: 2026-07-20T07:35:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

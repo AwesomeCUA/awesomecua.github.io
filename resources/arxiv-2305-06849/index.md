@@ -1,3 +1,11 @@
+---
+title: "WebCPM: Interactive Web Search for Chinese… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-06849/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # WebCPM: Interactive Web Search for Chinese Long-form Question Answering
 
 Bibliographic record for WebCPM: Interactive Web Search for Chinese Long-form Question Answering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yujia Qin, Zihan Cai, Dian Jin, Lan Yan, Shihao Liang, Kunlun Zhu, Yankai Lin, X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-06849/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-06849/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_06849,
+  title = {{WebCPM: Interactive Web Search for Chinese Long-form Question Answering}},
+  author = {{Yujia Qin} and {Zihan Cai} and {Dian Jin} and {Lan Yan} and {Shihao Liang} and {Kunlun Zhu} and {Yankai Lin} and {Xu Han} and {Ning Ding} and {Huadong Wang} and {Ruobing Xie} and {Fanchao Qi} and {Zhiyuan Liu} and {Maosong Sun} and {Jie Zhou}},
+  year = {2023},
+  eprint = {2305.06849v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.06849v2},
+  note = {First published: 2023-05-11; Recorded arXiv version: v2; Recorded version updated: 2023-05-23T13:15:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

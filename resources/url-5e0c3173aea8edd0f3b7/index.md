@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-3B-Qwen2.5-VL-LiteTrain | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5e0c3173aea8edd0f3b7/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GUI-Actor-3B-Qwen2.5-VL-LiteTrain
 
 A GUI-grounding checkpoint built on Qwen2.5-VL-3B with an attention-based action head. Given a screenshot and instruction, it predicts a click location.

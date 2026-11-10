@@ -1,3 +1,11 @@
+---
+title: "Scout Browser Binary · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-klarlabs-studio-scout/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Scout Browser Binary
 
 单文件 Go 浏览器自动化 CLI，内置 MCP 服务器，无需 Node.js 或 Python 依赖即可驱动 Chromium。

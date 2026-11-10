@@ -1,11 +1,17 @@
+---
+title: "计算机使用智能体框架（第 7 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/framework/page/7/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体框架：第 7 页
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/page/7/ · [English](https://awesomecua.com/categories/framework/page/7/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
-- [TestDriver SDK](https://awesomecua.com/zh/resources/github-testdriverai-testdriverai/)：Vitest 插件，可创建临时设备，并使用基于视觉的 LLM 构建网页应用、桌面应用和浏览器扩展的端到端测试。
-- [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)：面向 Claude Code 的自托管浏览器使用引擎，通过操控真实浏览器操作缺少 API 的网页应用。
 - [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)：THEIA（The Human Environment Intelligence Aperture）是面向 AI 智能体的视觉感知和 UI 计算机使用插件及框架。
 - [Threadline WebMCP](https://awesomecua.com/zh/resources/github-jameswirths-threadline/)：面向浏览器智能体的 WebMCP 参数调试器和研究工作区，具备人工把关的来源追踪功能。
 - [TideSurf](https://awesomecua.com/zh/resources/github-tidesurf-core/)：TideSurf 通过精简的结构化 DOM 压缩将 Chromium 连接到 LLM 智能体，每个网页只需 50 至 200 个 token。
@@ -76,6 +82,5 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/7/ · [English
 - [WorkForceAgent-R1](https://awesomecua.com/zh/resources/github-night-chen-workforceagent-r1/)：为面向推理的语言智能体提供网页任务奖励函数、WorkArena 数据处理流程和 GRPO 训练配置。
 - [Worldline](https://awesomecua.com/zh/resources/github-artemyx-datascientist-worldline/)：模块化、由用户控制的 AI 浏览器内核，用于结构化网页解析、导航和工作流自动化。
 - [Xihe Agent (羲和)](https://awesomecua.com/zh/resources/github-jiugao-yi-xihe-agent/)：单进程工具调用智能体运行时，可跨 CLI、企业聊天网关、桌面 GUI 和真实浏览器运行。
-- [ZetaTron](https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/)：面向 Windows 的自主运行、本地优先的自主智能体测试框架，具备桌面和浏览器操作能力。
 - [Zhaozuo (照做)](https://awesomecua.com/zh/resources/github-dongsheng123132-zhaozuo/)：由演示驱动的 Windows 桌面自动化框架，兼容面向第三方 GUI 软件的 ActionParity 协议。
 - [ZoomClick](https://awesomecua.com/zh/resources/github-princeton-ai2-lab-zoomclick/)：ZoomClick 实现迭代放大的 GUI 定位，并在高分辨率界面上进行基于行为的定位评测。

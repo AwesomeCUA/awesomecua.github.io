@@ -1,3 +1,11 @@
+---
+title: "AutomotiveUI-Bench-4K | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # AutomotiveUI-Bench-4K
 
 Offline test set of 998 photos and screenshots of in-vehicle infotainment screens from 15 brands, with 4,208 English annotations for locating UI elements and judging expected results as passed or failed.

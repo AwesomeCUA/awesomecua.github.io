@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7abb418096432f56c685/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # ScreenSpot
 
 ScreenSpot 是 GUI 定位测试集，包含来自 iOS、Android、macOS、Windows 和网页界面的 1,272 条截图指令，每条均标注目标元素的边界框。

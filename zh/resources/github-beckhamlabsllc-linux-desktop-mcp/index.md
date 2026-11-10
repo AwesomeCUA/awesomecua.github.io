@@ -1,3 +1,11 @@
+---
+title: "Linux Desktop MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-beckhamlabsllc-linux-desktop-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Linux Desktop MCP Server
 
 这是用于控制 Linux 桌面的 MCP 服务器，将辅助功能元素显示为可引用对象。智能体可以查找元素，并执行点击、文本输入和键盘操作。

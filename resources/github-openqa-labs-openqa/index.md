@@ -1,3 +1,11 @@
+---
+title: "OpenQA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openqa-labs-openqa/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenQA
 
 OpenQA is an open-source agentic browser testing harness that executes natural-language test assertions with dynamic selector resolution.

@@ -1,3 +1,11 @@
+---
+title: "GUI-HARVEST | AwesomeCUA"
+url: https://awesomecua.com/resources/github-garyyang12345-gui-harvest/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # GUI-HARVEST
 
 Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.

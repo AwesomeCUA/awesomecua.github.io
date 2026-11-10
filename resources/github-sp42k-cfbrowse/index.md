@@ -1,3 +1,11 @@
+---
+title: "cfbrowse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sp42k-cfbrowse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cfbrowse
 
 Go Chrome DevTools Protocol driver that resolves interactive anti-bot challenges headlessly for web agents.

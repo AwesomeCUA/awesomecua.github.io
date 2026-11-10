@@ -1,3 +1,11 @@
+---
+title: "GUI-R1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ritzz-ai-gui-r1/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # GUI-R1
 
 GUI action-model training and evaluation code with verifiable rewards, plus linked reinforcement-learning data and checkpoints.

@@ -1,3 +1,11 @@
+---
+title: "Training Needs Trustworthy Worlds… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-21898/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning
 
 构建导航、后端状态和任务可行性均经过核验的合成网站，为网页智能体训练提供可信的监督数据。
@@ -27,6 +35,18 @@ Chenghao Zhang, Yuxi Cheng, Saisai Hu, Canran Xiao, Yikai Mao, Dan Roth
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-21898/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-21898/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_21898,
+  title = {{Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning}},
+  author = {{Chenghao Zhang} and {Yuxi Cheng} and {Saisai Hu} and {Canran Xiao} and {Yikai Mao} and {Dan Roth}},
+  year = {2026},
+  eprint = {2608.21898v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.21898v2},
+  note = {First published: 2026-08-22; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T15:54:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

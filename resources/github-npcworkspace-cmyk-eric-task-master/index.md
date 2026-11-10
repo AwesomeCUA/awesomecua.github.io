@@ -1,3 +1,11 @@
+---
+title: "Eric Task Master | AwesomeCUA"
+url: https://awesomecua.com/resources/github-npcworkspace-cmyk-eric-task-master/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Eric Task Master
 
 Durable Playwright and Chrome task runner that keeps long-horizon browser jobs running after the initiating agent session exits.

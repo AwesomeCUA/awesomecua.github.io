@@ -1,3 +1,11 @@
+---
+title: "In-Context Teacher–Student Guidance for… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # In-Context Teacher–Student Guidance for Open-Weight Browser Agents
 
 Training-free protocol that turns a teacher model's offline reasoning traces into prompt guidance for open-weight browser agents; on MiniWoB++ it lifts solved student-task pairs from 208 to 271 across ten students.
@@ -26,6 +34,21 @@ Wéwerthon Silva Cardoso, Ricardo Marcacini
 
 - BibTeX: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/citation.csl.json
+
+```bibtex
+@inproceedings{cua_62f47d5ea778ef28287ea260,
+  title = {{In-Context Teacher–Student Guidance for Open-Weight Browser Agents}},
+  author = {{Wéwerthon Silva Cardoso} and {Ricardo Marcacini}},
+  year = {2026},
+  month = oct,
+  booktitle = {Anais do XIV Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2026)},
+  publisher = {Sociedade Brasileira de Computação - SBC},
+  pages = {121-128},
+  doi = {10.5753/kdmile.2026.32021},
+  url = {https://sol.sbc.org.br/index.php/kdmile/article/view/44978},
+  note = {Publication date: 2026-10-19.}
+}
+```
 
 ## Publication record
 

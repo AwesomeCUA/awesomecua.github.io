@@ -1,3 +1,11 @@
+---
+title: "Q1X Community Orchestrator · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-quoralinex-q1x-community-orchestrator/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Q1X Community Orchestrator
 
 与提供商和操作系统无关的编排运行时，用于长时程桌面和浏览器智能体工作流。

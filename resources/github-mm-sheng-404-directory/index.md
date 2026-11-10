@@ -1,3 +1,11 @@
+---
+title: "404.directory | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mm-sheng-404-directory/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # 404.directory
 
 Pre-execution risk preflight service and SDK that checks third-party tools and domains before AI agents invoke them.

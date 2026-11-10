@@ -1,3 +1,11 @@
+---
+title: "ResTest: Targeted Coverage of Residual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-00520/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing
 
 Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.
@@ -26,6 +34,18 @@ Chenxu Liu, Zhiyu Gu, Guoquan Wu, Ying Zhang, Wei Yang, Jun Wei, Tao Xie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-00520/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-00520/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_00520,
+  title = {{ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing}},
+  author = {{Chenxu Liu} and {Zhiyu Gu} and {Guoquan Wu} and {Ying Zhang} and {Wei Yang} and {Jun Wei} and {Tao Xie}},
+  year = {2025},
+  eprint = {2506.00520v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.00520v2},
+  note = {First published: 2025-05-31; Recorded arXiv version: v2; Recorded version updated: 2026-09-23T11:25:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

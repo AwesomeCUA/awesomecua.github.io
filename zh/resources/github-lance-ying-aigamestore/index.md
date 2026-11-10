@@ -1,3 +1,11 @@
+---
+title: "AI GameStore · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lance-ying-aigamestore/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # AI GameStore
 
 一个基准，收录 100 款由 App Store 和 Steam 榜单游戏改编的网页版游戏，并配有 Playwright 评测框架，将游戏截图发送给视觉语言模型并执行模型返回的按键。

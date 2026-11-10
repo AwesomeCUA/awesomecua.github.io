@@ -1,3 +1,11 @@
+---
+title: "TAG attention-driven GUI grounding · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-heimingx-tag/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # TAG attention-driven GUI grounding
 
 TAG 提供 GUI 定位与评估代码，聚合预训练视觉语言模型的注意力图，在不微调的情况下定位指定界面元素。

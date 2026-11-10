@@ -1,3 +1,11 @@
+---
+title: "done-or-not · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tatra-labs-done-or-not/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # done-or-not
 
 done-or-not 是离线评测基准，包含来自三台模拟计算机的 910 条计算机使用轨迹，用于评定任务完成情况验证器。

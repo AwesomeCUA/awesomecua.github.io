@@ -1,3 +1,11 @@
+---
+title: "SDXL: Improving Latent Diffusion Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-01952/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis
 
 Bibliographic record for SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-01952/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-01952/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_01952,
+  title = {{SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis}},
+  author = {{Dustin Podell} and {Zion English} and {Kyle Lacey} and {Andreas Blattmann} and {Tim Dockhorn} and {Jonas Müller} and {Joe Penna} and {Robin Rombach}},
+  year = {2023},
+  eprint = {2307.01952v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.01952v1},
+  note = {First published: 2023-07-04; Recorded arXiv version: v1; Recorded version updated: 2023-07-04T23:04:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

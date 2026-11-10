@@ -1,3 +1,11 @@
+---
+title: "browser-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sandraschi-browser-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # browser-mcp
 
 这款 MCP 服务器提供浏览器导航、点击、输入、截图和书签操作，支持 Chrome、Firefox、Edge 和 Brave，并附带网页仪表板。

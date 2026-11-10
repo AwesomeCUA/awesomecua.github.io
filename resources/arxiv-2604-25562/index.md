@@ -1,3 +1,11 @@
+---
+title: "SnapGuard: Lightweight Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-25562/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents
 
 SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings.
@@ -26,6 +34,18 @@ Mengyao Du, Han Fang, Haokai Ma, Jiahao Chen, Kai Xu, Quanjun Yin, Ee-Chien Chan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-25562/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-25562/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_25562,
+  title = {{SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents}},
+  author = {{Mengyao Du} and {Han Fang} and {Haokai Ma} and {Jiahao Chen} and {Kai Xu} and {Quanjun Yin} and {Ee-Chien Chang}},
+  year = {2026},
+  eprint = {2604.25562v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.25562v1},
+  note = {First published: 2026-04-28; Recorded arXiv version: v1; Recorded version updated: 2026-04-28T12:32:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

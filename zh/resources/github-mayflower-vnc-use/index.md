@@ -1,3 +1,11 @@
+---
+title: "vnc-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mayflower-vnc-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # vnc-use
 
 vnc-use 是基于 LangGraph 的计算机使用框架，通过 VNC 操作远程桌面环境，并配备多模型 LLM 规划器和 hitl 关卡。

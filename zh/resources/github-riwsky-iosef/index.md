@@ -1,3 +1,11 @@
+---
+title: "iosef · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-riwsky-iosef/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # iosef
 
 一个 Swift 命令行工具和 MCP 服务器，让智能体操作 iOS 模拟器：读取无障碍树，按选择器或坐标点击，滑动、捏合、输入并截图。

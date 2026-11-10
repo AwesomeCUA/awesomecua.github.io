@@ -1,3 +1,11 @@
+---
+title: "AndroidDaily | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8697c910c05d48152916/
+updated: 2026-11-02
+type: benchmark
+lang: en
+---
+
 # AndroidDaily
 
 Android GUI benchmark dataset from Step-GUI containing 3,146 static action evaluation items and 235 end-to-end daily mobile tasks.

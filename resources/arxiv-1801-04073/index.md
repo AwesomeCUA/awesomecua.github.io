@@ -1,3 +1,11 @@
+---
+title: "Quantum Many-Body Effects in X-Ray Spectra… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1801-04073/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum Many-Body Effects in X-Ray Spectra Efficiently Computed using a Basic Graph Algorithm
 
 Status: excluded from the active CUA catalog after scope review.

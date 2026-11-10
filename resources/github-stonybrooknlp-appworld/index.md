@@ -1,3 +1,11 @@
+---
+title: "AppWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-stonybrooknlp-appworld/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # AppWorld
 
 Simulated applications, user data, and state-based task checks for evaluating agents that interact through APIs and code.

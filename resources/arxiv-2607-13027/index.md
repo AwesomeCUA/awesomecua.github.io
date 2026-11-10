@@ -1,3 +1,11 @@
+---
+title: "PalmClaw: A Native On-Device Agent Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-13027/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PalmClaw: A Native On-Device Agent Framework for Mobile Phones
 
 Introduces PalmClaw, an on-device phone agent framework that manages sessions, memory, and tools, exposing mobile capabilities through structured device-tool calls.
@@ -26,6 +34,18 @@ Hongru Cai, Yongqi Li, Ran Wei, Wenjie Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-13027/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-13027/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_13027,
+  title = {{PalmClaw: A Native On-Device Agent Framework for Mobile Phones}},
+  author = {{Hongru Cai} and {Yongqi Li} and {Ran Wei} and {Wenjie Li}},
+  year = {2026},
+  eprint = {2607.13027v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.13027v2},
+  note = {First published: 2026-07-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-03T15:20:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

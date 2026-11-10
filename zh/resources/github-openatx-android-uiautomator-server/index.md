@@ -1,3 +1,11 @@
+---
+title: "android-uiautomator-server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openatx-android-uiautomator-server/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # android-uiautomator-server
 
 一个 Android 插桩应用，在设备上运行 UIAutomator 的 JSON-RPC 服务，使电脑端脚本可以编写 UI 测试；其 README 指向一个后继仓库。

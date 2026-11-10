@@ -1,3 +1,11 @@
+---
+title: "Chromanche | AwesomeCUA"
+url: https://awesomecua.com/resources/github-marcobazzani-chromanche/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chromanche
 
 Self-hosted Chrome Manifest V3 extension and local MCP server allowing AI agents to control live browser tabs.

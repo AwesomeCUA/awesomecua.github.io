@@ -1,3 +1,11 @@
+---
+title: "DRBench: A Realistic Benchmark for Enterprise… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-00172/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DRBench: A Realistic Benchmark for Enterprise Deep Research
 
 Bibliographic record for DRBench: A Realistic Benchmark for Enterprise Deep Research. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Va
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-00172/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-00172/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_00172,
+  title = {{DRBench: A Realistic Benchmark for Enterprise Deep Research}},
+  author = {{Amirhossein Abaskohi} and {Tianyi Chen} and {Miguel Muñoz-Mármol} and {Curtis Fox} and {Amrutha Varshini Ramesh} and {Étienne Marcotte} and {Xing Han Lù} and {Nicolas Chapados} and {Spandana Gella} and {Peter West} and {Giuseppe Carenini} and {Christopher Pal} and {Alexandre Drouin} and {Issam H. Laradji}},
+  year = {2025},
+  eprint = {2510.00172v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.00172v2},
+  note = {First published: 2025-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-03-10T00:07:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

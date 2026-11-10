@@ -1,3 +1,11 @@
+---
+title: "Fara 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a4da77ee63f879cc8e63/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Fara 7B
 
 Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model with about 8.3B BF16 parameters, English, MIT-licensed and linked to arXiv paper 2511.19663.

@@ -1,3 +1,11 @@
+---
+title: "lmgame-Bench: How Good are LLMs at Playing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-15146/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # lmgame-Bench: How Good are LLMs at Playing Games?
 
 Bibliographic record for lmgame-Bench: How Good are LLMs at Playing Games?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,17 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-15146/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-15146/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_15146,
+  title = {{lmgame-Bench: How Good are LLMs at Playing Games?}},
+  year = {2025},
+  eprint = {2505.15146v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.15146v2},
+  note = {First published: 2025-05-21; Recorded arXiv version: v2; Recorded version updated: 2025-06-03T09:53:37Z; Authors: see the paper (https://arxiv.org/abs/2505.15146v2); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

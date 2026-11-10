@@ -1,3 +1,11 @@
+---
+title: "AgentHop: A Diagnostic Benchmark for Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-34428/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "SciVisAgentSkills: Design and Evaluation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-05525/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SciVisAgentSkills: Design and Evaluation of Agent Skills for Scientific Data Analysis and Visualization
 
 Bibliographic record for SciVisAgentSkills: Design and Evaluation of Agent Skills for Scientific Data Analysis and Visualization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kuangshi Ai, Haichao Miao, Kaiyuan Tang, Shusen Liu, Chaoli Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-05525/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-05525/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05525,
+  title = {{SciVisAgentSkills: Design and Evaluation of Agent Skills for Scientific Data Analysis and Visualization}},
+  author = {{Kuangshi Ai} and {Haichao Miao} and {Kaiyuan Tang} and {Shusen Liu} and {Chaoli Wang}},
+  year = {2026},
+  eprint = {2606.05525v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05525v1},
+  note = {First published: 2026-06-04; Recorded arXiv version: v1; Recorded version updated: 2026-06-04T00:14:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

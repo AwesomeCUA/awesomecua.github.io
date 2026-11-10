@@ -1,3 +1,11 @@
+---
+title: "RLG-ALE · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0596dd7e97fd30abaadc/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # RLG-ALE
 
 RLG-ALE 用可检查的 Android 任务评估移动端图形界面智能体。页面展示了包含任务提示、截图、评估记录和可重置环境的示例过程。

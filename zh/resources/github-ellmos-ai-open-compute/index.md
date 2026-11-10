@@ -1,3 +1,11 @@
+---
+title: "open-compute · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # open-compute
 
 与模型无关的计算机使用核心，为 Claude、OpenAI CUA 和本地后端提供统一的智能体循环和 MCP 服务器。

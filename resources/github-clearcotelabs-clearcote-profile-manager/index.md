@@ -1,3 +1,11 @@
+---
+title: "Clearcote Profile Manager | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clearcotelabs-clearcote-profile-manager/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Clearcote Profile Manager
 
 A desktop and web app for managing persistent browser profiles. Its task feature learns a procedure in one profile and repeats it across others with approval before irreversible clicks.

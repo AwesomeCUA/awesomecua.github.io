@@ -1,3 +1,11 @@
+---
+title: "Synthesizing Number Generators for Stochastic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1902-05971/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Synthesizing Number Generators for Stochastic Computing using Mixed Integer Programming
 
 Status: excluded from the active CUA catalog after scope review.

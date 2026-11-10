@@ -1,3 +1,11 @@
+---
+title: "Ghost Browser by Gemma · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ddangkong-ghost-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Ghost Browser by Gemma
 
 Ghost Browser 是通过 Ollama 使用 Gemma 27B 的本地浏览器自动化智能体，并在 Stealth Bench 上进行评测。

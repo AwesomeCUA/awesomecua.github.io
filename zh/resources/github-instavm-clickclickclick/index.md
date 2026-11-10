@@ -1,3 +1,11 @@
+---
+title: "ClickClickClick · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-instavm-clickclickclick/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ClickClickClick
 
 ClickClickClick 是用于自主操作 Android 和桌面计算机的框架，支持本地和云端视觉语言模型。

@@ -1,3 +1,11 @@
+---
+title: "RICO-ScreenQA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bd15fb092ff80643ed97/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # RICO-ScreenQA
 
 RICO-ScreenQA provides questions and answers for app screenshots, with images, answer text, and UI-element bounds in train, validation, and test splits.

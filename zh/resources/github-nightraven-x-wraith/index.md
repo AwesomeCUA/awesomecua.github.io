@@ -1,3 +1,11 @@
+---
+title: "Wraith · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nightraven-x-wraith/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Wraith
 
 Windows 系统托盘工具，可阻止物理键盘和鼠标干扰，同时允许 AI 智能体的合成输入事件通过。

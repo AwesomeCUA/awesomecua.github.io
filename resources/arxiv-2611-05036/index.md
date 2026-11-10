@@ -1,3 +1,11 @@
+---
+title: "ToolSpace: Scaling Tool-Centric Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-05036/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents
 
 Status: excluded from the active CUA catalog after scope review.

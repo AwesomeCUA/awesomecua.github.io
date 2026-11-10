@@ -1,3 +1,11 @@
+---
+title: "Appium | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # Appium
 
 Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.

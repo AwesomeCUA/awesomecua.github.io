@@ -1,3 +1,11 @@
+---
+title: "Learning to Use Tools via Cooperative and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-03031/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Learning to Use Tools via Cooperative and Interactive Agents
 
 Bibliographic record for Learning to Use Tools via Cooperative and Interactive Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhengliang Shi, Shen Gao, Xiuyi Chen, Yue Feng, Lingyong Yan, Haibo Shi, Dawei Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-03031/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-03031/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_03031,
+  title = {{Learning to Use Tools via Cooperative and Interactive Agents}},
+  author = {{Zhengliang Shi} and {Shen Gao} and {Xiuyi Chen} and {Yue Feng} and {Lingyong Yan} and {Haibo Shi} and {Dawei Yin} and {Pengjie Ren} and {Suzan Verberne} and {Zhaochun Ren}},
+  year = {2024},
+  eprint = {2403.03031v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.03031v4},
+  note = {First published: 2024-03-05; Recorded arXiv version: v4; Recorded version updated: 2024-06-22T14:00:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

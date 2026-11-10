@@ -1,3 +1,11 @@
+---
+title: "moonshotai/Kimi-VL-A3B-Thinking | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c1851e7db3b0e53d2218/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # moonshotai/Kimi-VL-A3B-Thinking
 
 Kimi-VL-A3B-Thinking is a released reasoning-focused vision-language checkpoint. Its card also reports Kimi-VL family evaluations on desktop-agent tasks and screen grounding.

@@ -1,3 +1,11 @@
+---
+title: "Parallel computation using active self-assembly | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1405-0527/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Parallel computation using active self-assembly
 
 Status: excluded from the active CUA catalog after scope review.

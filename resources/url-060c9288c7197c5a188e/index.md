@@ -1,3 +1,11 @@
+---
+title: "RICO-ScreenQA-Short | AwesomeCUA"
+url: https://awesomecua.com/resources/url-060c9288c7197c5a188e/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # RICO-ScreenQA-Short
 
 A screen question-answering dataset based on RICO interface images, pairing questions with machine-generated short answers. It provides train, validation and test splits.

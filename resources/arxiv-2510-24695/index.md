@@ -1,3 +1,11 @@
+---
+title: "AgentFrontier: Expanding the Capability… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24695/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis
 
 Bibliographic record for AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xuanzhong Chen, Zile Qiao, Guoxin Chen, Liangcai Su, Zhen Zhang, Xinyu Wang, Pen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24695/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24695/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24695,
+  title = {{AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis}},
+  author = {{Xuanzhong Chen} and {Zile Qiao} and {Guoxin Chen} and {Liangcai Su} and {Zhen Zhang} and {Xinyu Wang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou} and {Yong Jiang}},
+  year = {2025},
+  eprint = {2510.24695v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24695v1},
+  note = {First published: 2025-10-28; Recorded arXiv version: v1; Recorded version updated: 2025-10-28T17:50:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

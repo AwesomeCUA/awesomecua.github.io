@@ -1,3 +1,11 @@
+---
+title: "Three-Dimensional Data-Driven Magnetostatic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2107-14604/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Three-Dimensional Data-Driven Magnetostatic Field Computation using Real-World Measurement Data
 
 Status: excluded from the active CUA catalog after scope review.

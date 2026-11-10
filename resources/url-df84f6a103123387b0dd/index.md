@@ -1,3 +1,11 @@
+---
+title: "Holo3.1 0.8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-df84f6a103123387b0dd/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # Holo3.1 0.8B
 
 Smallest checkpoint of H Company's Holo3.1 family of vision-language models for web, desktop and mobile computer-use agents, with native function calling for agent frameworks.

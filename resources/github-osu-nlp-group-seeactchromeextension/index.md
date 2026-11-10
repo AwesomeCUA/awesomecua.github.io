@@ -1,3 +1,11 @@
+---
+title: "SeeAct Web Agent (Chrome Extension) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # SeeAct Web Agent (Chrome Extension)
 
 A Chrome extension that runs a SeeAct-based agent in an existing browser session to navigate websites, gather information and prepare forms.

@@ -1,3 +1,11 @@
+---
+title: "pi-iphone-mirroring | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aniruddha-adhikary-pi-iphone-mirroring/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pi-iphone-mirroring
 
 Vision-first iPhone Mirroring control package for the Pi coding agent on macOS.

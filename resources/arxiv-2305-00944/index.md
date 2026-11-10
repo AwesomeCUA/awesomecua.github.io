@@ -1,3 +1,11 @@
+---
+title: "Poisoning Language Models During Instruction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-00944/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Poisoning Language Models During Instruction Tuning
 
 Status: excluded from the active CUA catalog after scope review.

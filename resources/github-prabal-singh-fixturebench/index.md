@@ -1,3 +1,11 @@
+---
+title: "FixtureBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prabal-singh-fixturebench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # FixtureBench
 
 FixtureBench evaluates procurement browser agents on deterministic Coupa-style buyer/supplier portals with pagination, MFA, and decoy POs.

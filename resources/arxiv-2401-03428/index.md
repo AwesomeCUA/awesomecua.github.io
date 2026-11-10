@@ -1,3 +1,11 @@
+---
+title: "Exploring Large Language Model based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-03428/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects
 
 Bibliographic record for Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-03428/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-03428/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_03428,
+  title = {{Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects}},
+  author = {{Yuheng Cheng} and {Ceyao Zhang} and {Zhengwen Zhang} and {Xiangrui Meng} and {Sirui Hong} and {Wenhao Li} and {Zihao Wang} and {Zekai Wang} and {Feng Yin} and {Junhua Zhao} and {Xiuqiang He}},
+  year = {2024},
+  eprint = {2401.03428v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.03428v1},
+  note = {First published: 2024-01-07; Recorded arXiv version: v1; Recorded version updated: 2024-01-07T09:08:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

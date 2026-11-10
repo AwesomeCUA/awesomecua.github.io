@@ -1,3 +1,11 @@
+---
+title: "SideButton | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sidebutton-sidebutton/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # SideButton
 
 SideButton combines a Chrome extension, MCP server, and YAML workflow engine to expose live browser actions to AI agents.

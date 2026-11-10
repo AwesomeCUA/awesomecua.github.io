@@ -1,3 +1,11 @@
+---
+title: "CUARewardBench: A Benchmark for Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-18596/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent
 
 Introduces CUARewardBench for evaluating outcome and process reward models on annotated computer-use trajectories, plus Unanimous Prompt Ensemble (UPE) for reward judgments.
@@ -26,6 +34,18 @@ Haojia Lin, Xiaoyu Tan, Yulei Qin, Zihan Xu, Yuchen Shi, Zongyi Li, Gang Li, Sha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-18596/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-18596/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_18596,
+  title = {{CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent}},
+  author = {{Haojia Lin} and {Xiaoyu Tan} and {Yulei Qin} and {Zihan Xu} and {Yuchen Shi} and {Zongyi Li} and {Gang Li} and {Shaofei Cai} and {Siqi Cai} and {Chaoyou Fu} and {Ke Li} and {Xing Sun}},
+  year = {2025},
+  eprint = {2510.18596v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.18596v1},
+  note = {First published: 2025-10-21; Recorded arXiv version: v1; Recorded version updated: 2025-10-21T12:53:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

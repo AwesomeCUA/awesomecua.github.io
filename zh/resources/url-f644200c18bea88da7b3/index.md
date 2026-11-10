@@ -1,3 +1,11 @@
+---
+title: "TianXi_Action_Grounding_7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f644200c18bea88da7b3/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # TianXi_Action_Grounding_7B
 
 来自 SEA 计算机使用智能体工作的 7B GUI 动作定位模型，以 Qwen2_5_VL 架构的 safetensors 权重发布；配套的 GitHub 仓库提供在 ScreenSpot-Pro 上按不同指令风格和语言运行该模型的评测脚本。

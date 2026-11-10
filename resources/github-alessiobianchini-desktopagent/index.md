@@ -1,3 +1,11 @@
+---
+title: "DesktopAgent (.NET 9) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alessiobianchini-desktopagent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DesktopAgent (.NET 9)
 
 Safety-first local desktop automation agent built on .NET 9 with cross-platform OS adapters, policy checks, and an MCP server.

@@ -1,3 +1,11 @@
+---
+title: "Geometry-aware Policy Imitation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-08787/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Geometry-aware Policy Imitation
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "CLASHarness: Benchmarking Multi-Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-19128/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline
 
 提出 CLASHarness，生成包含相互冲突的智能体报告、共享状态约束和协作要求的可验证计算机使用任务，用于评估冲突检测与解决能力。
@@ -27,6 +35,18 @@ Yuxiang Lai, Jike Zhong, Chengzhi Liu, Ming Li, Haonan Wang, Xiaofeng Yang, Lian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-19128/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-19128/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_19128,
+  title = {{CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline}},
+  author = {{Yuxiang Lai} and {Jike Zhong} and {Chengzhi Liu} and {Ming Li} and {Haonan Wang} and {Xiaofeng Yang} and {Liang Zhao} and {Youbao Tang} and {Ruixi Fan}},
+  year = {2026},
+  eprint = {2610.19128v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.19128v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T20:01:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

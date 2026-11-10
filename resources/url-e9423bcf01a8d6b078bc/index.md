@@ -1,3 +1,11 @@
+---
+title: "sharryXR/asil-training-data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e9423bcf01a8d6b078bc/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # sharryXR/asil-training-data
 
 Training data for ASIL agents includes replayed action traces, guided supervision, and an evaluator-backed reinforcement-learning curriculum in JSONL and Parquet splits.

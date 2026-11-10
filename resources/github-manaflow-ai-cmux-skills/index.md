@@ -1,3 +1,11 @@
+---
+title: "cmux-skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-manaflow-ai-cmux-skills/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # cmux-skills
 
 Agent Skills for the cmux macOS terminal that teach coding agents its CLI, workspaces and panes, and how to drive its embedded browser with snapshots, element refs, clicks, waits and screenshots.

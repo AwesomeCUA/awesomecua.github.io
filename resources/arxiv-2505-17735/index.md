@@ -1,3 +1,11 @@
+---
+title: "SafeAgent: Safeguarding LLM Agents via an… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-17735/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SafeAgent: Safeguarding LLM Agents via an Automated Risk Simulator
 
 Status: excluded from the active CUA catalog after scope review.

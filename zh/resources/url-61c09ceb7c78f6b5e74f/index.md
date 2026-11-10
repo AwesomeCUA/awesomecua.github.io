@@ -1,3 +1,11 @@
+---
+title: "Agent-Trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-61c09ceb7c78f6b5e74f/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Agent-Trajectories
 
 一个收录网页、Android 和 iOS 智能体评测轨迹的归档数据集，包括 iOS 模拟器运行轨迹和用于改进智能体的 WebArena 运行轨迹。

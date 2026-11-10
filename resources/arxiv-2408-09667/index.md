@@ -1,3 +1,11 @@
+---
+title: "BLADE: Benchmarking Language Model Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-09667/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BLADE: Benchmarking Language Model Agents for Data-Driven Science
 
 Bibliographic record for BLADE: Benchmarking Language Model Agents for Data-Driven Science. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ken Gu, Ruoxi Shang, Ruien Jiang, Keying Kuang, Richard-John Lin, Donghe Lyu, Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-09667/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-09667/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_09667,
+  title = {{BLADE: Benchmarking Language Model Agents for Data-Driven Science}},
+  author = {{Ken Gu} and {Ruoxi Shang} and {Ruien Jiang} and {Keying Kuang} and {Richard-John Lin} and {Donghe Lyu} and {Yue Mao} and {Youran Pan} and {Teng Wu} and {Jiaqian Yu} and {Yikun Zhang} and {Tianmai M. Zhang} and {Lanyi Zhu} and {Mike A. Merrill} and {Jeffrey Heer} and {Tim Althoff}},
+  year = {2024},
+  eprint = {2408.09667v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.09667v3},
+  note = {First published: 2024-08-19; Recorded arXiv version: v3; Recorded version updated: 2025-11-10T06:38:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

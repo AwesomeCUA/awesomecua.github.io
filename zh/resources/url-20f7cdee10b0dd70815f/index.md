@@ -1,3 +1,11 @@
+---
+title: "Uni-GUI-Desktop-1 · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-20f7cdee10b0dd70815f/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Uni-GUI-Desktop-1
 
 UI-MOPD 训练数据中的桌面轨迹，采集于 OSWorld 环境：涵盖 10 类应用的 2,685 项任务，含逐步截图、推理轨迹、归一化操作和 pyautogui 代码。

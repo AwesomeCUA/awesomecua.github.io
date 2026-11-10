@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e3c1a2a2d556e4728953/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # Dreamer-7B
 
 WebDreamer 模型检查点，根据截图和文字描述预测网页操作的后果。

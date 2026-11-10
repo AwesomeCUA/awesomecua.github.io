@@ -1,3 +1,11 @@
+---
+title: "macOS-Use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeomon-macos-use/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # macOS-Use
 
 macOS-Use 是 GUI 桌面智能体，可读取 macOS Accessibility 树并执行多步骤应用工作流。

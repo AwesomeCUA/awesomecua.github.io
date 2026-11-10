@@ -1,3 +1,11 @@
+---
+title: "azderus browser-agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-azderus-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # azderus browser-agent
 
 Claude Code 技能，可从终端操控真实的 Chrome 窗口，并返回简洁、节省 token 的页面观察结果。

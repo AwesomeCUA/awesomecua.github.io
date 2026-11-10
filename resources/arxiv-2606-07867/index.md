@@ -1,3 +1,11 @@
+---
+title: "The Cold-Start Safety Gap in LLM Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-07867/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Cold-Start Safety Gap in LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

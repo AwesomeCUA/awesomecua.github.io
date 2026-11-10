@@ -1,3 +1,11 @@
+---
+title: "Instructions as Backdoors: Backdoor… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-14710/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

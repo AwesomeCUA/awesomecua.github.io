@@ -1,3 +1,11 @@
+---
+title: "MindSearch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-internlm-mindsearch/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MindSearch
 
 MindSearch coordinates a multi-agent WebPlanner and parallel WebSearcher graph to execute multi-step web information seeking.

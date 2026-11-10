@@ -1,3 +1,11 @@
+---
+title: "Camel AI (Visual QA Agent) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dilawarshafiq-camel-ai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Camel AI (Visual QA Agent)
 
 基于屏幕的 QA 智能体，通过渲染后的 UI 测试网页和桌面应用，并将边缘情况交由人工处理。

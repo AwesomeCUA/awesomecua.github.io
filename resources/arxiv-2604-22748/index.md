@@ -1,3 +1,11 @@
+---
+title: "Agentic World Modeling: Foundations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-22748/
+updated: 2026-11-06
+type: survey
+lang: en
+---
+
 # Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
 
 Survey of agentic world models that classifies predictive capabilities and governing laws, including the digital setting of web and GUI agents.
@@ -26,6 +34,18 @@ Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin, Lingdong Kong, Jize Zhang, Teng 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-22748/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-22748/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_22748,
+  title = {{Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond}},
+  author = {{Meng Chu} and {Xuan Billy Zhang} and {Kevin Qinghong Lin} and {Lingdong Kong} and {Jize Zhang} and {Teng Tu} and {Weijian Ma} and {Ziqi Huang} and {Senqiao Yang} and {Wei Huang} and {Yeying Jin} and {Zhefan Rao} and {Jinhui Ye} and {Xinyu Lin} and {Xichen Zhang} and {Qisheng Hu} and {Shuai Yang} and {Leyang Shen} and {Wei Chow} and {Yifei Dong} and {Fengyi Wu} and {Quanyu Long} and {Bin Xia} and {Shaozuo Yu} and {Mingkang Zhu} and {Wenhu Zhang} and {Jiehui Huang} and {Haokun Gui} and {Runyi Li} and {Chenyu Tang} and {Dong Huang} and {Xuhang Chen} and {Rui Liu} and {Chengzu Li} and {Shiyi Du} and {Xu Huang} and {Haoxuan Che} and {Long Chen} and {Qifeng Chen} and {Wenya Wang} and {Wenxuan Zhang} and {Xiaojuan Qi} and {Yang Deng} and {Yanwei Li} and {Mike Zheng Shou} and {Zhi-Qi Cheng} and {See-Kiong Ng} and {Ziwei Liu} and {Philip Torr} and {Jiaya Jia}},
+  year = {2026},
+  eprint = {2604.22748v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.22748v3},
+  note = {First published: 2026-04-24; Recorded arXiv version: v3; Recorded version updated: 2026-06-16T15:11:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

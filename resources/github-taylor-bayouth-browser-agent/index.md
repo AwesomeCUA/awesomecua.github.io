@@ -1,3 +1,11 @@
+---
+title: "Taylor-Bayouth Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-taylor-bayouth-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Taylor-Bayouth Browser Agent
 
 Stealth browser agent that controls real Chrome via CDP and OS-level input without injecting page JavaScript.

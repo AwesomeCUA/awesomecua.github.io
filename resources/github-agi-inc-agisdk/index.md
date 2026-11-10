@@ -1,3 +1,11 @@
+---
+title: "AGI SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agi-inc-agisdk/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # AGI SDK
 
 AGI SDK provides a browser-agent API and evaluation harness for tasks on deterministic replicas of interactive websites, with support for custom agents.

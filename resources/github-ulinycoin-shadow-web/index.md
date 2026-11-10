@@ -1,3 +1,11 @@
+---
+title: "shadow-web | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ulinycoin-shadow-web/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # shadow-web
 
 Local-first Python SDK for web agents providing Shadow DOM flattening, Action Maps, SchemaSnap extraction, and form filling.

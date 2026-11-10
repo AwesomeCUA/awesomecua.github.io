@@ -1,3 +1,11 @@
+---
+title: "Plato's Cave: A Human-Centered Research… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-23526/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Plato's Cave: A Human-Centered Research Verification System
 
 Bibliographic record for Plato's Cave: A Human-Centered Research Verification System. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Matheus Kunzler Maldaner, Raul Valle, Junsung Kim, Tonuka Sultan, Pranav Bhargav
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-23526/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-23526/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_23526,
+  title = {{Plato's Cave: A Human-Centered Research Verification System}},
+  author = {{Matheus Kunzler Maldaner} and {Raul Valle} and {Junsung Kim} and {Tonuka Sultan} and {Pranav Bhargava} and {Matthew Maloni} and {John Courtney} and {Hoang Nguyen} and {Aamogh Sawant} and {Kristian O'Connor} and {Stephen Wormald} and {Damon L. Woodard}},
+  year = {2026},
+  eprint = {2603.23526v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.23526v1},
+  note = {First published: 2026-03-06; Recorded arXiv version: v1; Recorded version updated: 2026-03-06T22:15:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

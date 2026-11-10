@@ -1,3 +1,11 @@
+---
+title: "JARVIS-1: Open-World Multi-task Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-05997/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models
 
 Status: excluded from the active CUA catalog after scope review.

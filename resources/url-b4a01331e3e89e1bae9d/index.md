@@ -1,3 +1,11 @@
+---
+title: "blip-icon-captioning | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b4a01331e3e89e1bae9d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # blip-icon-captioning
 
 blip-icon-captioning is a BLIP checkpoint fine-tuned to turn macOS interface icons and elements into short natural-language descriptions for accessibility uses.

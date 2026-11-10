@@ -1,3 +1,11 @@
+---
+title: "Awesome AI Agent Platforms | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/
+updated: 2026-11-04
+type: learning
+lang: en
+---
+
 # Awesome AI Agent Platforms
 
 Curated directory of open-source AI agent platforms, digital coworkers, and browser/desktop execution harnesses.

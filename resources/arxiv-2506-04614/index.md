@@ -1,3 +1,11 @@
+---
+title: "Look Before You Leap: A GUI-Critic-R1 Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-04614/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation
 
 Uses a pre-execution critic and reinforcement training to evaluate proposed GUI actions and provide corrective suggestions before execution.
@@ -26,6 +34,18 @@ Yuyang Wanyan, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Jiabo Ye, Yutong 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-04614/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-04614/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_04614,
+  title = {{Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation}},
+  author = {{Yuyang Wanyan} and {Xi Zhang} and {Haiyang Xu} and {Haowei Liu} and {Junyang Wang} and {Jiabo Ye} and {Yutong Kou} and {Ming Yan} and {Fei Huang} and {Xiaoshan Yang} and {Weiming Dong} and {Changsheng Xu}},
+  year = {2025},
+  eprint = {2506.04614v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.04614v2},
+  note = {First published: 2025-06-05; Recorded arXiv version: v2; Recorded version updated: 2025-11-17T07:48:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

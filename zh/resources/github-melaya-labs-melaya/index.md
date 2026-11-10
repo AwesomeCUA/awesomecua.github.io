@@ -1,3 +1,11 @@
+---
+title: "Melaya · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-melaya-labs-melaya/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Melaya
 
 Melaya 提供智能体平台的 SDK 和文档；该平台可操作 Android 应用和浏览器标签页，并设有权限范围控制和人工审批。

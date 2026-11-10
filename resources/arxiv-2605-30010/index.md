@@ -1,3 +1,11 @@
+---
+title: "EarlyTom: Early Token Compression Completes… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-30010/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EarlyTom: Early Token Compression Completes Fast Video Understanding
 
 Status: excluded from the active CUA catalog after scope review.

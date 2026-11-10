@@ -1,3 +1,11 @@
+---
+title: "AutoData: A Multi-Agent System for Open… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-15859/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AutoData: A Multi-Agent System for Open Web Data Collection
 
 AutoData 根据自然语言需求由多个智能体协作收集网络数据；Instruct2DS 用于评测三个领域的实时网络数据收集。
@@ -27,6 +35,18 @@ Tianyi Ma, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifa
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-15859/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-15859/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_15859,
+  title = {{AutoData: A Multi-Agent System for Open Web Data Collection}},
+  author = {{Tianyi Ma} and {Yiyue Qian} and {Zheyuan Zhang} and {Zehong Wang} and {Xiaoye Qian} and {Feifan Bai} and {Yifan Ding} and {Xuwei Luo} and {Shinan Zhang} and {Keerthiram Murugesan} and {Chuxu Zhang} and {Yanfang Ye}},
+  year = {2025},
+  eprint = {2505.15859v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.15859v1},
+  note = {First published: 2025-05-21; Recorded arXiv version: v1; Recorded version updated: 2025-05-21T04:32:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Bardeen · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-87bc346934a4117b554c/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Bardeen
 
 面向市场拓展团队的 Chrome 扩展平台，AI 抓取器浏览网站、点击、填写表单并翻页收集潜在客户，另提供 AI 模板构建器和目标驱动的智能体模式。

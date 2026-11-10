@@ -1,3 +1,11 @@
+---
+title: "Pix to App · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-soumikmohianuta-pixtoapp/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Pix to App
 
 一个 Python 流程，可将移动应用截图转换为 Android 项目：用 Canny 边缘轮廓构建视图层级，用 Tesseract OCR 识别文本，并生成布局、样式、颜色和字符串 XML。

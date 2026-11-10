@@ -1,3 +1,11 @@
+---
+title: "AgentSynth task-generation pipeline · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sunblaze-ucb-agentsynth/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # AgentSynth task-generation pipeline
 
 在 OSWorld 桌面环境和 InSTA 浏览器环境中生成合成计算机使用任务并记录轨迹。

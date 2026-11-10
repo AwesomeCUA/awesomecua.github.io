@@ -1,3 +1,11 @@
+---
+title: "Routing Is Least Learnable Where It Is Most… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-06171/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents
 
 Measures the complementarity, cost and rerun variability of six browser observation modes on WebArena and VisualWebArena. Its routing experiments distinguish an oracle cost opportunity from policies that fail to robustly outperform a fixed observation mode.
@@ -26,6 +34,18 @@ Jiaming Wei, Zekun Wu, Adriano Koshiyama, Maria Perez-Ortiz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-06171/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-06171/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_06171,
+  title = {{Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents}},
+  author = {{Jiaming Wei} and {Zekun Wu} and {Adriano Koshiyama} and {Maria Perez-Ortiz}},
+  year = {2026},
+  eprint = {2608.06171v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.06171v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T15:37:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

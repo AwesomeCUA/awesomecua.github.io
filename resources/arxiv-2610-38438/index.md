@@ -1,3 +1,11 @@
+---
+title: "RoleFUZZER: User-Behaviour Fuzzing for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-38438/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # RoleFUZZER: User-Behaviour Fuzzing for Role-Specification Adherence in Large Language Models
 
 Bibliographic record for RoleFUZZER: User-Behaviour Fuzzing for Role-Specification Adherence in Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kshitish Ghate, Michael Saxon, Tadayoshi Kohno, Aylin Caliskan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-38438/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-38438/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_38438,
+  title = {{RoleFUZZER: User-Behaviour Fuzzing for Role-Specification Adherence in Large Language Models}},
+  author = {{Kshitish Ghate} and {Michael Saxon} and {Tadayoshi Kohno} and {Aylin Caliskan}},
+  year = {2026},
+  eprint = {2610.38438v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.38438v1},
+  note = {First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T08:19:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

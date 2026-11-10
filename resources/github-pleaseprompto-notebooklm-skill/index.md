@@ -1,3 +1,11 @@
+---
+title: "NotebookLM Claude Code Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pleaseprompto-notebooklm-skill/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # NotebookLM Claude Code Skill
 
 A Claude Code skill automates browser-based questions to NotebookLM and returns answers from uploaded documents. It includes scripts for authentication and notebook management.

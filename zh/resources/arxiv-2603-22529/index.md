@@ -1,3 +1,11 @@
+---
+title: "Ego2Web: A Web Agent Benchmark Grounded… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-22529/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos
 
 Ego2Web 将第一人称视频与在线任务配对，要求智能体将用户所处的物理情境与网页动作联系起来。它还对照人工判断评估自动任务裁判，并分析视频理解和网页执行中的失败。
@@ -27,6 +35,18 @@ Shoubin Yu, Lei Shu, Antoine Yang, Yao Fu, Srinivas Sunkara, Maria Wang, Jindong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-22529/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-22529/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_22529,
+  title = {{Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos}},
+  author = {{Shoubin Yu} and {Lei Shu} and {Antoine Yang} and {Yao Fu} and {Srinivas Sunkara} and {Maria Wang} and {Jindong Chen} and {Mohit Bansal} and {Boqing Gong}},
+  year = {2026},
+  eprint = {2603.22529v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.22529v1},
+  note = {First published: 2026-03-23; Recorded arXiv version: v1; Recorded version updated: 2026-03-23T19:47:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

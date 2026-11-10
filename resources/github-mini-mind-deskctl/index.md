@@ -1,3 +1,11 @@
+---
+title: "DeskCtl (Desktop Control Engine) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mini-mind-deskctl/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # DeskCtl (Desktop Control Engine)
 
 Desktop control engine for GUI agents using UIA and AT-SPI accessibility trees as the primary path with visual fallback.

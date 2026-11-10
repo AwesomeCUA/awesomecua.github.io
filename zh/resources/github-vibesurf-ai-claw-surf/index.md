@@ -1,3 +1,11 @@
+---
+title: "VibeSurf for OpenClaw · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vibesurf-ai-claw-surf/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # VibeSurf for OpenClaw
 
 一项 OpenClaw 技能，通过 VibeSurf 的 HTTP API 执行浏览器导航、页面提取、截图和工作流程。

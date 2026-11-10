@@ -1,3 +1,11 @@
+---
+title: "KWWKComputerUseCore · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eyhn-kwwk-computer-use-core/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # KWWKComputerUseCore
 
 这是一个 Swift 计算机操作运行时，可获取 macOS 应用状态和截图，并发送鼠标及键盘操作。它提供结构化输出和面向智能体的输出。

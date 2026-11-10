@@ -1,3 +1,11 @@
+---
+title: "Embodied Agent Interface (EAI) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-embodied-agent-eval-embodied-agent-eval/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Embodied Agent Interface (EAI)
 
 Embodied Agent Interface（EAI）从目标理解、子目标分解、动作排序和状态转换建模等方面评测 LLM。

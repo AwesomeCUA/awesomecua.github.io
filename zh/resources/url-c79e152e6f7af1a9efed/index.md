@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot-Pro data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c79e152e6f7af1a9efed/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # ScreenSpot-Pro data
 
 用于评估基于指令的 GUI 定位的高分辨率专业界面截图及目标标注。

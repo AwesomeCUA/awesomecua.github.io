@@ -1,3 +1,11 @@
+---
+title: "ClawMark: A Living-World Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-23781/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents
 
 Bibliographic record for ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Fanqing Meng, Lingxiao Du, Zijian Wu, Guanzheng Chen, Xiangyan Liu, Jiaqi Liao, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-23781/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-23781/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_23781,
+  title = {{ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents}},
+  author = {{Fanqing Meng} and {Lingxiao Du} and {Zijian Wu} and {Guanzheng Chen} and {Xiangyan Liu} and {Jiaqi Liao} and {Chonghe Jiang} and {Zhenglin Wan} and {Jiawei Gu} and {Pengfei Zhou} and {Rui Huang} and {Ziqi Zhao} and {Shengyuan Ding} and {Ailing Yu} and {Bo Peng} and {Bowei Xia} and {Hao Sun} and {Haotian Liang} and {Ji Xie} and {Jiajun Chen} and {Jiajun Song} and {Liu Yang} and {Ming Xu} and {Qionglin Qiu} and {Runhao Fu} and {Shengfang Zhai} and {Shijian Wang} and {Tengfei Ma} and {Tianyi Wu} and {Weiyang Jin} and {Yan Wang} and {Yang Dai} and {Yao Lai} and {Youwei Shu} and {Yue Liu} and {Yunzhuo Hao} and {Yuwei Niu} and {Jinkai Huang} and {Jiayuan Zhuo} and {Zhennan Shen} and {Linyu Wu} and {Hannah Yao} and {Charles Chen} and {Cihang Xie} and {Yuyin Zhou} and {Jiaheng Zhang} and {Zeyu Zheng} and {Mengkang Hu} and {Michael Qizhe Shieh}},
+  year = {2026},
+  eprint = {2604.23781v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.23781v2},
+  note = {First published: 2026-04-26; Recorded arXiv version: v2; Recorded version updated: 2026-05-05T15:32:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

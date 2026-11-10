@@ -1,3 +1,11 @@
+---
+title: "Latent World Action Model for GUI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14228/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Latent World Action Model for GUI Agents
 
 Replaces future-screenshot generation with a shared latent representation for GUI action selection and action-conditioned transition prediction. An action-aware contrastive objective encourages the transition representation to retain discriminative action-induced changes.
@@ -26,6 +34,18 @@ Seungjun Yu, Hojun Choi, Seojeong Park, Jaeyo Shin, Hyunjung Shim
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14228/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14228/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14228,
+  title = {{Latent World Action Model for GUI Agents}},
+  author = {{Seungjun Yu} and {Hojun Choi} and {Seojeong Park} and {Jaeyo Shin} and {Hyunjung Shim}},
+  year = {2026},
+  eprint = {2610.14228v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14228v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T18:45:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "mPLUG-DocOwl 1.5: Unified Structure Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-12895/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding
 
 Bibliographic record for mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-12895/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-12895/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_12895,
+  title = {{mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding}},
+  author = {{Anwen Hu} and {Haiyang Xu} and {Jiabo Ye} and {Ming Yan} and {Liang Zhang} and {Bo Zhang} and {Chen Li} and {Ji Zhang} and {Qin Jin} and {Fei Huang} and {Jingren Zhou}},
+  year = {2024},
+  eprint = {2403.12895v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.12895v1},
+  note = {First published: 2024-03-19; Recorded arXiv version: v1; Recorded version updated: 2024-03-19T16:48:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

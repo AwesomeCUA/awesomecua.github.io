@@ -1,3 +1,11 @@
+---
+title: "opencli-plugin-albato · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vecyang1-opencli-plugin-albato/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # opencli-plugin-albato
 
 一个 OpenCLI 适配器让智能体通过 Albato 网页控制台查看和更改自动化流程，再读取实时 DOM 以核实状态变化。

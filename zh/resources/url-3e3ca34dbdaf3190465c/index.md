@@ -1,3 +1,11 @@
+---
+title: "VG-GUI-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3e3ca34dbdaf3190465c/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # VG-GUI-Bench
 
 一个根据教程视频、先前动作和当前屏幕预测移动端界面动作的基准，发布了逐步标注、视频和参考帧。

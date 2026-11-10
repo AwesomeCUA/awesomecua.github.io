@@ -1,3 +1,11 @@
+---
+title: "Agent MechSuits: Mechanistic Subspace Safety… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-22673/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents
 
 Introduces Agent MechSuits, a framework that detects unsafe states and steers multi-turn CLI agents through hidden-representation interventions, alongside the MAS trajectory benchmark.
@@ -26,6 +34,18 @@ Weidi Luo, Qiming Zhang, Yihao Quan, Mingyu Jin, Jie Cai, Chaowei Xiao, Jingchen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-22673/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-22673/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_22673,
+  title = {{Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents}},
+  author = {{Weidi Luo} and {Qiming Zhang} and {Yihao Quan} and {Mingyu Jin} and {Jie Cai} and {Chaowei Xiao} and {Jingcheng Niu} and {Zhen Xiang}},
+  year = {2026},
+  eprint = {2606.22673v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.22673v2},
+  note = {First published: 2026-06-21; Recorded arXiv version: v2; Recorded version updated: 2026-10-05T17:21:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

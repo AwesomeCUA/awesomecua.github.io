@@ -1,3 +1,11 @@
+---
+title: "Moli | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lexmount-moli/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Moli
 
 A headless browser for AI agents that extracts web content and runs browser tasks through CLI, CDP, and WebDriver interfaces, with rendering performed on demand.

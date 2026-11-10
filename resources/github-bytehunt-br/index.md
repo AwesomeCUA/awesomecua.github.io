@@ -1,3 +1,11 @@
+---
+title: "bytehunt br (Agent Browser CLI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bytehunt-br/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # bytehunt br (Agent Browser CLI)
 
 Agent-oriented browser CLI powered by Bun WebView with terminal Kitty graphics rendering.

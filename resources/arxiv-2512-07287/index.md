@@ -1,3 +1,11 @@
+---
+title: "Experience-Evolving Multi-Turn Tool-Use Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-07287/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic-Procedural Memory
 
 Status: excluded from the active CUA catalog after scope review.

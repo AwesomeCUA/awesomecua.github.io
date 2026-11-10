@@ -1,3 +1,11 @@
+---
+title: "Okara: Detection and Attribution of TLS… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22770/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models
 
 Okara uses foundation-model-driven GUI agents to explore Android apps for TLS vulnerability detection, then applies instrumentation and classification to attribute vulnerable code.
@@ -26,6 +34,18 @@ Haoyun Yang, Ronghong Huang, Yong Fang, Beizeng Zhang, Junpu Guo, Zhanyu Wu, Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-22770/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-22770/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_22770,
+  title = {{Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models}},
+  author = {{Haoyun Yang} and {Ronghong Huang} and {Yong Fang} and {Beizeng Zhang} and {Junpu Guo} and {Zhanyu Wu} and {Xianghang Mi}},
+  year = {2026},
+  eprint = {2601.22770v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.22770v2},
+  note = {First published: 2026-01-30; Recorded arXiv version: v2; Recorded version updated: 2026-03-17T11:27:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

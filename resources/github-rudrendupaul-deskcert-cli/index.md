@@ -1,3 +1,11 @@
+---
+title: "DeskCert CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # DeskCert CLI
 
 Safety certification CLI that stress-tests AI browser and computer-use agents against internal web apps before production deployment.

@@ -1,3 +1,11 @@
+---
+title: "Graph-based Agent Memory: Taxonomy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-05665/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Graph-based Agent Memory: Taxonomy, Techniques, and Applications
 
 Status: excluded from the active CUA catalog after scope review.

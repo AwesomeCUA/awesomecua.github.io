@@ -1,3 +1,11 @@
+---
+title: "Mobilerun (formerly Droidrun) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-droidrun-mobilerun/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Mobilerun (formerly Droidrun)
 
 通过命令行和 Python 接口，将截图及无障碍状态与智能体工具结合，用于执行移动设备任务的框架。

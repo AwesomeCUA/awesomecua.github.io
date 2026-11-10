@@ -1,3 +1,11 @@
+---
+title: "OpenBerry | AwesomeCUA"
+url: https://awesomecua.com/resources/github-painbaba-openberry/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OpenBerry
 
 Local agentic web browser for Windows inspired by Strawberry Browser for autonomous goal-driven browsing.

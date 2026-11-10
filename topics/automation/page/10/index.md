@@ -1,10 +1,17 @@
+---
+title: "Automation — computer-use research, page 10 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/10/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 10
 
 HTML page: https://awesomecua.com/topics/automation/page/10/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/)
 - [Codex File Bridge](https://awesomecua.com/resources/github-dev-newb-codex-file-bridge/)
 - [Codex Idle Resume](https://awesomecua.com/resources/github-yaro-elipox-codex-idle-resume/)
 - [Codex Managed Channel](https://awesomecua.com/resources/github-fantasyce-codex-managed-channel/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Cyberdesk](https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/)
 - [CyberRaccoon](https://awesomecua.com/resources/github-chaoticpixelio-cyberraccoon/)
 - [Daedalus Browser Bridge](https://awesomecua.com/resources/github-nitjsefnie-harness-commons-daedalus/)
+- [DarwinRelay](https://awesomecua.com/resources/github-dcierra-darwinrelay/)

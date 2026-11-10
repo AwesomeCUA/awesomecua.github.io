@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 22 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/22/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 22 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/22/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [Magma-R1](https://awesomecua.com/zh/resources/url-e5e74846aeaa8398673e/)
 - [moonshotai/Kimi-VL-A3B-Thinking](https://awesomecua.com/zh/resources/url-c1851e7db3b0e53d2218/)
 - [Orienter](https://awesomecua.com/zh/resources/url-758f048c78e5c184333c/)
 - [Qwen-AgentWorld](https://awesomecua.com/zh/resources/github-qwenlm-qwen-agentworld/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/22/
 - [Autodesk Claude Browser Test Skills](https://awesomecua.com/zh/resources/github-autodesk-claude-browser-test-skills/)
 - [AutoWechat](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-wechat-v2/)
 - [Avenir-UX](https://awesomecua.com/zh/resources/github-onflow-ai-avenir-ux/)
+- [Blender MCP](https://awesomecua.com/zh/resources/github-bpy-dev-blender-mcp/)

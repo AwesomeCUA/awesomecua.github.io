@@ -1,3 +1,11 @@
+---
+title: "Cetus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-drewnekota-cetus/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Cetus
 
 macOS client for running and reviewing coding-agent runtimes; its built-in runtime bundles a computer-use helper that acts on the frontmost app's numbered Accessibility elements, plus Chrome control.

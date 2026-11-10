@@ -1,3 +1,11 @@
+---
+title: "Steel Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steel-dev-steel-browser/
+updated: 2026-10-16
+type: infrastructure
+lang: en
+---
+
 # Steel Browser
 
 Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.

@@ -1,3 +1,11 @@
+---
+title: "A Better Loss for Visual-Textual Grounding | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2108-05308/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Better Loss for Visual-Textual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

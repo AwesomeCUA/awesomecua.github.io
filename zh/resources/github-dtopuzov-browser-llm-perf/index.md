@@ -1,3 +1,11 @@
+---
+title: "Browser LLM Perf · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dtopuzov-browser-llm-perf/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Browser LLM Perf
 
 Browser LLM Perf 比较浏览器自动化 CLI（CraftDriver 与 Playwright CLI）的任务完成速度和 LLM token 成本。

@@ -1,3 +1,11 @@
+---
+title: "Universal quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2009-14126/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal quantum computing using electro-nuclear wavefunctions of rare-earth ions
 
 Status: excluded from the active CUA catalog after scope review.

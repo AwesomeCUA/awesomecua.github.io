@@ -1,3 +1,11 @@
+---
+title: "GUIPilot: A Consistency-based Mobile GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-07385/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs
 
 Introduces GUIPilot, which compares mobile design mock-ups with implemented screens through widget alignment and tests expected transitions by executing inferred UI actions. It evaluates both visual inconsistencies and workflow-specific bugs.
@@ -26,6 +34,18 @@ Ruofan Liu, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, Jin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-07385/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-07385/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_07385,
+  title = {{GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs}},
+  author = {{Ruofan Liu} and {Xiwen Teoh} and {Yun Lin} and {Guanjie Chen} and {Ruofei Ren} and {Denys Poshyvanyk} and {Jin Song Dong}},
+  year = {2025},
+  eprint = {2506.07385v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.07385v1},
+  note = {First published: 2025-06-09; Recorded arXiv version: v1; Recorded version updated: 2025-06-09T03:09:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "A robust framework for quantum computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-14133/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A robust framework for quantum computation using quasi-hidden molecular degrees of freedom
 
 Status: excluded from the active CUA catalog after scope review.

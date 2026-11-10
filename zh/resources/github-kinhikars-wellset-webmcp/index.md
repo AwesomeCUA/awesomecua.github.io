@@ -1,3 +1,11 @@
+---
+title: "WellSet WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kinhikars-wellset-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WellSet WebMCP
 
 基于 WebMCP 的共享 96 孔实验室实验画布，供科学家和浏览器智能体共同设计实验方案。

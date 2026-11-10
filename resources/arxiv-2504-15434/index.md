@@ -1,3 +1,11 @@
+---
+title: "AGI Is Coming... Right After AI Learns to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-15434/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AGI Is Coming... Right After AI Learns to Play Wordle
 
 Bibliographic record for AGI Is Coming... Right After AI Learns to Play Wordle. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sarath Shekkizhar, Romain Cosentino
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-15434/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-15434/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_15434,
+  title = {{AGI Is Coming... Right After AI Learns to Play Wordle}},
+  author = {{Sarath Shekkizhar} and {Romain Cosentino}},
+  year = {2025},
+  eprint = {2504.15434v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.15434v1},
+  note = {First published: 2025-04-21; Recorded arXiv version: v1; Recorded version updated: 2025-04-21T20:58:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

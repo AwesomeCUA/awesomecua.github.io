@@ -1,3 +1,11 @@
+---
+title: "Time series generation for option pricing on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-17148/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Time series generation for option pricing on quantum computers using tensor network
 
 Status: excluded from the active CUA catalog after scope review.

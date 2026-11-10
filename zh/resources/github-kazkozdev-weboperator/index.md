@@ -1,3 +1,11 @@
+---
+title: "WebOperator (github.com/KazKozDev/WebOpe… · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kazkozdev-weboperator/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # WebOperator
 
 WebOperator 是 AI 浏览器智能体和 MCP 服务器，通过 Chrome DevTools Protocol 自动操作用户现有的 Chrome 配置文件。

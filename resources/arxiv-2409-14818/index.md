@@ -1,3 +1,11 @@
+---
+title: "MobileVLM: A Vision-Language Model for Better… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-14818/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding
 
 MobileVLM adds two pretraining stages and four UI tasks to learn element detail and relationships between successive screens. Its Mobile3M dataset contains three million Chinese mobile UI pages connected by recorded transition actions.
@@ -26,6 +34,18 @@ Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-14818/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-14818/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_14818,
+  title = {{MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding}},
+  author = {{Qinzhuo Wu} and {Weikai Xu} and {Wei Liu} and {Tao Tan} and {Jianfeng Liu} and {Ang Li} and {Jian Luan} and {Bin Wang} and {Shuo Shang}},
+  year = {2024},
+  eprint = {2409.14818v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.14818v2},
+  note = {First published: 2024-09-23; Recorded arXiv version: v2; Recorded version updated: 2024-10-03T05:23:22Z.}
+}
+```
 
 ## Publication record
 

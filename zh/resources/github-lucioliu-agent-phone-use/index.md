@@ -1,3 +1,11 @@
+---
+title: "Agent Phone Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lucioliu-agent-phone-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent Phone Use
 
 让 Windows 上的 AI 智能体通过本地 Wi-Fi，使用官方 `scrcpy` 流传输和 ADB 控制 Android 手机。

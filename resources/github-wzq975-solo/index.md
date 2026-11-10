@@ -1,3 +1,11 @@
+---
+title: "SOLO | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wzq975-solo/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SOLO
 
 SOLO performs single-rollout test-time adaptation for GUI agents using online self-supervised feedback during deployment.

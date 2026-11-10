@@ -1,3 +1,11 @@
+---
+title: "OpenClaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openclaw-openclaw/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OpenClaw
 
 OpenClaw 是开源的个人计算机使用助手，可在本地设备上执行浏览器、桌面、终端和消息处理工作流。

@@ -1,3 +1,11 @@
+---
+title: "Fuyu-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c6e1ffa1f4c6561c3b22/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # Fuyu-8B
 
 Adept 的纯解码器多模态基础模型将图像块直接输入 Transformer，供数字智能体、UI 问答和屏幕定位研究使用。

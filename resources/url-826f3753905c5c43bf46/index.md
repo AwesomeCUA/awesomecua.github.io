@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-826f3753905c5c43bf46/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Seg2Click Qwen3.5 9B
 
 Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI click regions.

@@ -1,3 +1,11 @@
+---
+title: "ReactSentinel · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-edgarbnt-reactsentinel/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ReactSentinel
 
 Model Context Protocol 服务器，让 AI 智能体检查实时 React 组件状态、重放交互，并在浏览器中验证 UI 修复。

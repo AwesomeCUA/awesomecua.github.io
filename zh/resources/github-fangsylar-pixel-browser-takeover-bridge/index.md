@@ -1,3 +1,11 @@
+---
+title: "Browser Takeover Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fangsylar-pixel-browser-takeover-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Takeover Bridge
 
 本地优先的浏览器桥接工具，可安全地将 AI 智能体接入已打开且已登录的 Chrome 和 Edge 会话，并支持人工接管。

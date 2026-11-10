@@ -1,10 +1,17 @@
+---
+title: "工作流：Computer-Use 研究与资源（第 6 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/workflow/page/6/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工作流：Computer-Use 研究与资源（第 6 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/workflow/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
-- [cua-desktop-automation-skills](https://awesomecua.com/zh/resources/github-chrislamdev-cua-desktop-automation-skills/)
 - [Deck](https://awesomecua.com/zh/resources/github-cofy-x-deck/)
 - [DeepDeck](https://awesomecua.com/zh/resources/github-jo32-deepdeck/)
 - [DeepSeek Harness Desktop](https://awesomecua.com/zh/resources/github-tengqi159-deepseek-harness-desktop/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/6/
 - [iphone-use-flows](https://awesomecua.com/zh/resources/github-leeguooooo-iphone-use-flows/)
 - [ITR Wala AI Agent](https://awesomecua.com/zh/resources/github-aianytime-itr-wala-ai-agent/)
 - [Ivy Tendril](https://awesomecua.com/zh/resources/github-ivy-interactive-ivy-tendril/)
+- [Jev Social](https://awesomecua.com/zh/resources/github-socai-io-jev-social/)

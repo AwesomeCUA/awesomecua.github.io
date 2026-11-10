@@ -1,3 +1,11 @@
+---
+title: "Captr for macOS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anaishowland-captr-macos/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Captr for macOS
 
 Captr for macOS 为 CUA 数据集同步录制屏幕视频、键盘鼠标输入、DOM 快照和 macOS Accessibility 树。

@@ -1,3 +1,11 @@
+---
+title: "CAD-Assistant: Tool-Augmented VLLMs as… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-13810/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers
 
 CAD-Assistant plans CAD tasks and executes actions through FreeCAD's Python API, using the changing design state to guide later commands.
@@ -26,6 +34,18 @@ Dimitrios Mallis, Ahmet Serdar Karadeniz, Sebastian Cavada, Danila Rukhovich, Ni
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-13810/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-13810/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_13810,
+  title = {{CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers}},
+  author = {{Dimitrios Mallis} and {Ahmet Serdar Karadeniz} and {Sebastian Cavada} and {Danila Rukhovich} and {Niki Foteinopoulou} and {Kseniya Cherenkova} and {Anis Kacem} and {Djamila Aouada}},
+  year = {2024},
+  eprint = {2412.13810v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.13810v3},
+  note = {First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-08-26T14:18:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

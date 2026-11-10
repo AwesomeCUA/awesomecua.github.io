@@ -1,3 +1,11 @@
+---
+title: "Smart polymer solution and thermal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-13063/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Smart polymer solution and thermal conductivity: How important is an exact polymer conformation?
 
 Status: excluded from the active CUA catalog after scope review.

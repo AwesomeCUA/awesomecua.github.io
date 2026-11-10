@@ -1,3 +1,11 @@
+---
+title: "Efficient periodic band diagram computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1402-5007/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient periodic band diagram computation using a finite element method, Arnoldi eigensolver and sparse linear system solver
 
 Status: excluded from the active CUA catalog after scope review.

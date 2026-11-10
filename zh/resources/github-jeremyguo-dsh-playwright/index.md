@@ -1,3 +1,11 @@
+---
+title: "dsh-playwright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jeremyguo-dsh-playwright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-playwright
 
 面向 DeepSeek Harness 的共享 Playwright 浏览器插件，让人类用户和 AI 智能体共同操作同一个浏览器窗口。

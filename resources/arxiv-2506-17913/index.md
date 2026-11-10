@@ -1,3 +1,11 @@
+---
+title: "Learning, Reasoning, Refinement: A Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-17913/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents
 
 CogniGUI combines hierarchical visual parsing of interface elements with a GRPO-based grounding agent that compares alternative interaction paths. Its ScreenSeek benchmark evaluates navigation across applications, changing interface states, and consistency between interfaces.
@@ -26,6 +34,18 @@ Jinjie Wei, Jiyao Liu, Lihao Liu, Ming Hu, Junzhi Ning, Mingcheng Li, Weijie Yin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-17913/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-17913/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_17913,
+  title = {{Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents}},
+  author = {{Jinjie Wei} and {Jiyao Liu} and {Lihao Liu} and {Ming Hu} and {Junzhi Ning} and {Mingcheng Li} and {Weijie Yin} and {Junjun He} and {Xiao Liang} and {Chao Feng} and {Dingkang Yang}},
+  year = {2025},
+  eprint = {2506.17913v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.17913v2},
+  note = {First published: 2025-06-22; Recorded arXiv version: v2; Recorded version updated: 2026-07-21T05:30:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

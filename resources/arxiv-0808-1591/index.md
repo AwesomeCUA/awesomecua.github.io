@@ -1,3 +1,11 @@
+---
+title: "A scalable, high-speed measurement-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0808-1591/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A scalable, high-speed measurement-based quantum computer using trapped ions
 
 Status: excluded from the active CUA catalog after scope review.

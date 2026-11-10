@@ -1,3 +1,11 @@
+---
+title: "AgenticVBench: Can AI Agents Complete… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-27705/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 
 Bibliographic record for AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zongheng Cao, Yi Zheng, Rui Song, Xinyu Hu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-27705/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-27705/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_27705,
+  title = {{AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?}},
+  author = {{Zongheng Cao} and {Yi Zheng} and {Rui Song} and {Xinyu Hu}},
+  year = {2026},
+  eprint = {2605.27705v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.27705v1},
+  note = {First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T21:27:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

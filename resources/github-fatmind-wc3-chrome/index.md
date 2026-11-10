@@ -1,3 +1,11 @@
+---
+title: "wc3-chrome | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fatmind-wc3-chrome/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # wc3-chrome
 
 A Chrome MV3 extension that executes webclaw3 browser operations: it takes op commands from a local relay over WebSocket and drives real Chrome through chrome.* APIs, with aria-tree element references.

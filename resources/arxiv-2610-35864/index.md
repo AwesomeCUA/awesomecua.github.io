@@ -1,3 +1,11 @@
+---
+title: "VibeVideoBench: Evaluating Multimodal Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-35864/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation
 
 Bibliographic record for VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Muxi Diao, Wenbin Xu, Lele Yang, Xuyang Ma, Yuzhe Chen, Jiankang Chen, Kaiyu Jia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-35864/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-35864/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35864,
+  title = {{VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation}},
+  author = {{Muxi Diao} and {Wenbin Xu} and {Lele Yang} and {Xuyang Ma} and {Yuzhe Chen} and {Jiankang Chen} and {Kaiyu Jiang} and {Changyi Liu} and {Haoyu Zhang} and {Hongyi Fu} and {Jianxiong Wang} and {Tianke Zhang} and {Haonan Fan} and {Yingxin Li} and {Bingyi Li} and {Xu Wang} and {Xuanyu Zheng} and {Bin Wen} and {Tingting Gao} and {Han Li} and {Wentao Zhang} and {Weiran Xu} and {Kongming Liang} and {Zhanyu Ma}},
+  year = {2026},
+  eprint = {2610.35864v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35864v2},
+  note = {First published: 2026-10-26; Recorded arXiv version: v2; Recorded version updated: 2026-10-27T16:22:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

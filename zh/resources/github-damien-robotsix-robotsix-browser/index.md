@@ -1,3 +1,11 @@
+---
+title: "robotsix-browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-damien-robotsix-robotsix-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # robotsix-browser
 
 面向 AI 智能体的交互式 Playwright 无头浏览器及表单填写 HTTP 服务。

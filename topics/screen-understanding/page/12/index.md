@@ -1,3 +1,11 @@
+---
+title: "Screen understanding — computer-use…, page 12 | AwesomeCUA"
+url: https://awesomecua.com/topics/screen-understanding/page/12/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Screen understanding — computer-use research, page 12
 
 HTML page: https://awesomecua.com/topics/screen-understanding/page/12/

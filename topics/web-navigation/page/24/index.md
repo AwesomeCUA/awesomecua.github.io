@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 24 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/24/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 24
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/24/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [OpenTeam](https://awesomecua.com/resources/github-raghavpillai-openteam/)
-- [OpenTiny NEXT-SDKs (WebMCP)](https://awesomecua.com/resources/github-opentiny-webmcp-sdk/)
 - [OpenWebAgent](https://awesomecua.com/resources/github-thudm-openwebagent/)
 - [OpenWebVoyager](https://awesomecua.com/resources/github-minorjerry-openwebvoyager/)
 - [Opera Neon](https://awesomecua.com/resources/url-94d58f25e6fd4a2076ab/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [pixelpi](https://awesomecua.com/resources/github-josharsh-pixelpi/)
 - [Plan-and-Act](https://awesomecua.com/resources/github-squeezeailab-plan-and-act/)
 - [Plasmate](https://awesomecua.com/resources/github-plasmate-labs-plasmate/)
+- [Plasmate Skill for OpenClaw](https://awesomecua.com/resources/github-plasmate-labs-skill-openclaw/)
+- [plasmate-mcp](https://awesomecua.com/resources/github-plasmate-labs-plasmate-mcp/)

@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kwai-memgui-agent/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # MemGUI-Agent
 
 MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.

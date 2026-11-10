@@ -1,3 +1,11 @@
+---
+title: "Self-collaboration Code Generation via ChatGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-07590/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Self-collaboration Code Generation via ChatGPT
 
 Status: excluded from the active CUA catalog after scope review.

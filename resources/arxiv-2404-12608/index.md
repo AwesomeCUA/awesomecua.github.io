@@ -1,3 +1,11 @@
+---
+title: "Auto-Formula: Recommend Formulas in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-12608/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations
 
 Auto-Formula recommends formulas for target spreadsheet cells by adapting formulas from similar spreadsheets within an organization.
@@ -26,6 +34,18 @@ Sibei Chen, Yeye He, Weiwei Cui, Ju Fan, Song Ge, Haidong Zhang, Dongmei Zhang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-12608/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-12608/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_12608,
+  title = {{Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations}},
+  author = {{Sibei Chen} and {Yeye He} and {Weiwei Cui} and {Ju Fan} and {Song Ge} and {Haidong Zhang} and {Dongmei Zhang} and {Surajit Chaudhuri}},
+  year = {2024},
+  eprint = {2404.12608v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.12608v1},
+  note = {First published: 2024-04-19; Recorded arXiv version: v1; Recorded version updated: 2024-04-19T03:28:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

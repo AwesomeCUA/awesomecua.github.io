@@ -1,3 +1,11 @@
+---
+title: "chromedp examples · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chromedp-examples/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # chromedp examples
 
 收录 46 个 Go 示例，展示如何用 chromedp 控制 Chrome，包括页面交互、截图、标签页和协议操作。

@@ -1,3 +1,11 @@
+---
+title: "OpenMobile code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-njucckevin-openmobile-code/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # OpenMobile code
 
 OpenMobile pipeline for AndroidWorld: random-walk exploration, memory-based task-instruction synthesis, learner/expert policy-switching rollouts, conversion to LLaMA-Factory SFT data, and AndroidWorld evaluation.

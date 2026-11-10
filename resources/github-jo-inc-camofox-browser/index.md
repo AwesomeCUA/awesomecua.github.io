@@ -1,3 +1,11 @@
+---
+title: "camofox-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jo-inc-camofox-browser/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # camofox-browser
 
 A browser server for AI agents that exposes accessibility snapshots and referenced page actions through a REST API, with isolated sessions and authenticated browsing support.

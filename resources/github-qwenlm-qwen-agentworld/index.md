@@ -1,3 +1,11 @@
+---
+title: "Qwen-AgentWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qwenlm-qwen-agentworld/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Qwen-AgentWorld
 
 A language world model that predicts the next environment observation across seven domains, including Android screens, browser pages and desktop accessibility trees, released with AgentWorldBench evaluation code.

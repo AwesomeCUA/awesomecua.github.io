@@ -1,3 +1,11 @@
+---
+title: "pyagentbrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-peter-gy-pyagentbrowser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pyagentbrowser
 
 Typed Python SDK for Vercel's agent-browser engine with before-and-after action evidence capture.

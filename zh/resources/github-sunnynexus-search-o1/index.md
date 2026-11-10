@@ -1,3 +1,11 @@
+---
+title: "Search-o1 · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sunnynexus-search-o1/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Search-o1
 
 Search-o1 将智能体式网页搜索和推理过程中的文档细化整合进大型推理模型，用于多跳问答。

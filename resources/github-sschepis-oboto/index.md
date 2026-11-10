@@ -1,3 +1,11 @@
+---
+title: "Oboto | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sschepis-oboto/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Oboto
 
 Oboto is a desktop AI assistant with browser automation, workspace management, and extensible plugin/MCP tool execution.

@@ -1,3 +1,11 @@
+---
+title: "@mcp-b | AwesomeCUA"
+url: https://awesomecua.com/resources/github-webmcp-org-npm-packages/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # @mcp-b
 
 TypeScript packages that connect pages registering tools through the WebMCP document.modelContext API to MCP, so agents in an extension, the browser or desktop clients can call them.

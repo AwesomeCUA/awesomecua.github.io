@@ -1,3 +1,11 @@
+---
+title: "WebBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-halluminate-webbench/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # WebBench
 
 Live-web benchmark from Halluminate and Skyvern with read, create, update, delete and file-download tasks on 452 high-traffic websites, including logins and form entry, with released per-agent run results.

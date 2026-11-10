@@ -1,3 +1,11 @@
+---
+title: "WONDERBREAD: A Benchmark for Evaluating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-13264/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks
 
 提出 WONDERBREAD 基准，将人工 WebArena 工作流示范与屏幕录像、动作日志和书面流程配对；6 项评估任务涵盖端到端执行之外的文档编写、知识传递和流程改进。
@@ -27,6 +35,18 @@ Michael Wornow, Avanika Narayan, Ben Viggiano, Ishan S. Khare, Tathagat Verma, T
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-13264/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-13264/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_13264,
+  title = {{WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks}},
+  author = {{Michael Wornow} and {Avanika Narayan} and {Ben Viggiano} and {Ishan S. Khare} and {Tathagat Verma} and {Tibor Thompson} and {Miguel Angel Fuentes Hernandez} and {Sudharsan Sundar} and {Chloe Trujillo} and {Krrish Chawla} and {Rongfei Lu} and {Justin Shen} and {Divya Nagaraj} and {Joshua Martinez} and {Vardhan Agrawal} and {Althea Hudson} and {Nigam H. Shah} and {Christopher Re}},
+  year = {2024},
+  eprint = {2406.13264v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.13264v2},
+  note = {First published: 2024-06-19; Recorded arXiv version: v2; Recorded version updated: 2024-10-11T00:06:31Z.}
+}
+```
 
 ## arXiv 版本记录
 

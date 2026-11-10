@@ -1,3 +1,11 @@
+---
+title: "WebRider: Persona-Conditioned Intent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-06704/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance
 
 提出 WebRider，在实时网页任务中维护意图约定并执行受约束的浏览器操作；RiderBench 用于跨网站审查约定是否得到遵守。
@@ -27,6 +35,18 @@ Zhi Li, Tao Zhou, Yeqing Li, Eugene Ie, Demetri Terzopoulos
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-06704/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-06704/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_06704,
+  title = {{WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance}},
+  author = {{Zhi Li} and {Tao Zhou} and {Yeqing Li} and {Eugene Ie} and {Demetri Terzopoulos}},
+  year = {2026},
+  eprint = {2608.06704v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.06704v2},
+  note = {First published: 2026-08-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-06T00:15:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

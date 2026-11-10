@@ -1,3 +1,11 @@
+---
+title: "VeriWeb: Verifiable Long-Chain Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-04026/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking
 
 VeriWeb 是长链式网页信息查找基准，将任务拆成可核查的子任务，并为每项任务提供人工标注的完整轨迹。
@@ -27,6 +35,18 @@ Shunyu Liu, Minghao Liu, Huichi Zhou, Zhenyu Cui, Yang Zhou, Yuhao Zhou, Jialian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-04026/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-04026/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04026,
+  title = {{VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking}},
+  author = {{Shunyu Liu} and {Minghao Liu} and {Huichi Zhou} and {Zhenyu Cui} and {Yang Zhou} and {Yuhao Zhou} and {Jialiang Gao} and {Heng Zhou} and {Yunhao Yang} and {Wendong Fan} and {puzhen zhang} and {Ge Zhang} and {Jiajun Shi} and {Weihao Xuan} and {Jiaxing Huang} and {Shuang Luo} and {Fang Wu} and {Heli Qi} and {Qingcheng Zeng} and {Junjie Wang} and {Aosong Feng} and {Jindi Lv} and {Sicong Jiang} and {Ziqi Ren} and {Wangchunshu Zhou} and {Zhenfei Yin} and {Wenlong Zhang} and {Guohao Li} and {Wenhao Yu} and {Lei Ma} and {Lei Bai} and {Qunshu Lin} and {Mingli Song} and {Dacheng Tao}},
+  year = {2025},
+  eprint = {2508.04026v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04026v2},
+  note = {First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T14:53:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

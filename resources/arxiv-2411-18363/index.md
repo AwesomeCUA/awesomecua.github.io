@@ -1,3 +1,11 @@
+---
+title: "ChatRex: Taming Multimodal LLM for Joint… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-18363/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ChatRex: Taming Multimodal LLM for Joint Perception and Understanding
 
 Bibliographic record for ChatRex: Taming Multimodal LLM for Joint Perception and Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qing Jiang, Gen Luo, Yuqin Yang, Yuda Xiong, Yihao Chen, Zhaoyang Zeng, Tianhe R
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-18363/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-18363/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_18363,
+  title = {{ChatRex: Taming Multimodal LLM for Joint Perception and Understanding}},
+  author = {{Qing Jiang} and {Gen Luo} and {Yuqin Yang} and {Yuda Xiong} and {Yihao Chen} and {Zhaoyang Zeng} and {Tianhe Ren} and {Lei Zhang}},
+  year = {2024},
+  eprint = {2411.18363v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.18363v3},
+  note = {First published: 2024-11-27; Recorded arXiv version: v3; Recorded version updated: 2025-03-11T14:19:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

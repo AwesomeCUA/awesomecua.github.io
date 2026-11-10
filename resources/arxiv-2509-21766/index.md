@@ -1,3 +1,11 @@
+---
+title: "UltraHorizon: Benchmarking Agent Capabilities… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-21766/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios
 
 Status: excluded from the active CUA catalog after scope review.

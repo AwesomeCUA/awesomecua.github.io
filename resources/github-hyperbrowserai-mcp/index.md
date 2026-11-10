@@ -1,3 +1,11 @@
+---
+title: "Hyperbrowser MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hyperbrowserai-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Hyperbrowser MCP Server
 
 An MCP server that exposes Hyperbrowser web tools and browser-agent actions, including Browser Use and computer-use agents, through a single tool interface.

@@ -1,3 +1,11 @@
+---
+title: "Rendering-in-the-Loop: An Execution-Driven… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-02088/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Rendering-in-the-Loop: An Execution-Driven Agent for Interactive Web Development
 
 Bibliographic record for Rendering-in-the-Loop: An Execution-Driven Agent for Interactive Web Development. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yilong Guo, Hanqi Chen, Zixiao Ye, Guanzhong Wang, Chen Yu, Zeyu Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-02088/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-02088/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02088,
+  title = {{Rendering-in-the-Loop: An Execution-Driven Agent for Interactive Web Development}},
+  author = {{Yilong Guo} and {Hanqi Chen} and {Zixiao Ye} and {Guanzhong Wang} and {Chen Yu} and {Zeyu Chen}},
+  year = {2026},
+  eprint = {2609.02088v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02088v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T04:27:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

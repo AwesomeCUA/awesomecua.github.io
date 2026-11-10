@@ -1,3 +1,11 @@
+---
+title: "GVR-Coder: A Visual-Feedback Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28073/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios
 
 Bibliographic record for GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yiming Xu, Jihua Kang, Chunsai Du, Qifan Zhang, Wangqiu Zhou, Yiting Wu, Tianqi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28073/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28073/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28073,
+  title = {{GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios}},
+  author = {{Yiming Xu} and {Jihua Kang} and {Chunsai Du} and {Qifan Zhang} and {Wangqiu Zhou} and {Yiting Wu} and {Tianqi Li} and {Qi Song}},
+  year = {2026},
+  eprint = {2607.28073v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28073v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T11:47:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

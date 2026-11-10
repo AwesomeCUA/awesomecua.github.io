@@ -1,3 +1,11 @@
+---
+title: "ETC: Extreme Token Compression via Task-aware… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-00543/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ETC: Extreme Token Compression via Task-aware Visual Information Distillation in VLMs
 
 Status: excluded from the active CUA catalog after scope review.

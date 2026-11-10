@@ -1,3 +1,11 @@
+---
+title: "Right Screen, Wrong Transition: World… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-11942/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents
 
 提出 LGWM，一种无解码器的 GUI 世界模型，根据动作预测下一屏幕表征，并与观察到的状态比较以验证状态转移。其成对诊断区分通往同一凭据页面的正常转移与被劫持的转移。
@@ -27,6 +35,18 @@ Jiaming Zhang, Xuan Wang, Fuyao Zhang, Yang Cao, Lingjuan Lyu, Wei Yang Bryan Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-11942/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-11942/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11942,
+  title = {{Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents}},
+  author = {{Jiaming Zhang} and {Xuan Wang} and {Fuyao Zhang} and {Yang Cao} and {Lingjuan Lyu} and {Wei Yang Bryan Lim}},
+  year = {2026},
+  eprint = {2610.11942v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11942v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T13:33:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

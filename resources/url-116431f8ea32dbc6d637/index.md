@@ -1,3 +1,11 @@
+---
+title: "WebChain (original release) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-116431f8ea32dbc6d637/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WebChain (original release)
 
 Original WebChain release of human-annotated trajectories on live websites, with raw JSON records, viewport and partial full-page screenshots, and Parquet files for high-level planning and low-level grounding steps.

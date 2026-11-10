@@ -1,3 +1,11 @@
+---
+title: "Drover | AwesomeCUA"
+url: https://awesomecua.com/resources/github-om-khode-drover/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Drover
 
 Chrome extension and local CLI that lets AI agents drive the browser window the user already has open and signed into.

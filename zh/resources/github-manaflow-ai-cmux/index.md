@@ -1,3 +1,11 @@
+---
+title: "cmux · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-manaflow-ai-cmux/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # cmux
 
 这是一款 macOS 终端与工作区应用，内置可编程浏览器，使智能体能检查网页辅助功能数据、点击元素、填写表单并运行 JavaScript。

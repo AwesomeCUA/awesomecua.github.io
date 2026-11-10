@@ -1,3 +1,11 @@
+---
+title: "AutoMedBench: Towards Medical AutoResearch… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-01961/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoMedBench: Towards Medical AutoResearch with Agentic AI Models
 
 Status: excluded from the active CUA catalog after scope review.

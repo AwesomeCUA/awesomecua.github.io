@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-241B-A28B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c8d93b1c274acd679694/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3_5-241B-A28B
 
 A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.

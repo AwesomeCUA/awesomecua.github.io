@@ -1,3 +1,11 @@
+---
+title: "WebArena: A Realistic Web Environment… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2307-13854/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # WebArena: A Realistic Web Environment for Building Autonomous Agents
 
 提出可复现的网页环境，并通过任务完成情况检查来评估自主网页智能体。
@@ -27,6 +35,18 @@ Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xiany
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2307-13854/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2307-13854/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_13854,
+  title = {{WebArena: A Realistic Web Environment for Building Autonomous Agents}},
+  author = {{Shuyan Zhou} and {Frank F. Xu} and {Hao Zhu} and {Xuhui Zhou} and {Robert Lo} and {Abishek Sridhar} and {Xianyi Cheng} and {Tianyue Ou} and {Yonatan Bisk} and {Daniel Fried} and {Uri Alon} and {Graham Neubig}},
+  year = {2023},
+  eprint = {2307.13854v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.13854v4},
+  note = {First published: 2023-07-25; Recorded arXiv version: v4; Recorded version updated: 2024-04-16T15:13:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

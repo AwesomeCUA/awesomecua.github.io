@@ -1,3 +1,11 @@
+---
+title: "VeriGuard: Enhancing LLM Agent Safety via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-05156/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation
 
 Bibliographic record for VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Lesly Miculicich, Mihir Parmar, Hamid Palangi, Krishnamurthy Dj Dvijotham, Mirko
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-05156/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-05156/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_05156,
+  title = {{VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation}},
+  author = {{Lesly Miculicich} and {Mihir Parmar} and {Hamid Palangi} and {Krishnamurthy Dj Dvijotham} and {Mirko Montanari} and {Tomas Pfister} and {Long T. Le}},
+  year = {2025},
+  eprint = {2510.05156v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.05156v1},
+  note = {First published: 2025-10-03; Recorded arXiv version: v1; Recorded version updated: 2025-10-03T04:11:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

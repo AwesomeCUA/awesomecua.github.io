@@ -1,3 +1,11 @@
+---
+title: "Learning Sidewalk Autopilot from Multi-Scale… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-22527/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning Sidewalk Autopilot from Multi-Scale Imitation with Corrective Behavior Expansion
 
 Status: excluded from the active CUA catalog after scope review.

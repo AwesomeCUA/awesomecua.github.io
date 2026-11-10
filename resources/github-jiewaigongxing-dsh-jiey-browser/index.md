@@ -1,3 +1,11 @@
+---
+title: "dsh-jiey-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jiewaigongxing-dsh-jiey-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-jiey-browser
 
 DeepSeek Harness plugin exposing Jiey Browser automation tools over the Model Context Protocol.

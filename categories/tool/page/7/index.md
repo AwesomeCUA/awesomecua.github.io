@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent tools, page 7 | AwesomeCUA"
+url: https://awesomecua.com/categories/tool/page/7/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent tools, page 7
 
 HTML page: https://awesomecua.com/categories/tool/page/7/
@@ -99,8 +107,8 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [DSH Qwen Web Bridge Plugin](https://awesomecua.com/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/)
 - [dsh-antibrow](https://awesomecua.com/resources/github-antibrow-dsh-antibrow/)
 - [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/)
-- [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/)
 - [dsh-browser-plus](https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/)
 - [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)
 - [dsh-browser-vision](https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/)
+- [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)

@@ -1,3 +1,11 @@
+---
+title: "TongUI: Internet-Scale Trajectories from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-12679/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents
 
 TongUI converts multimodal online tutorials, including videos and articles, into GUI-agent trajectories. Its GUI-Net dataset contains 143,000 trajectories spanning five operating systems and more than 200 applications, and supports fine-tuning for grounding and navigation.
@@ -26,6 +34,18 @@ Bofei Zhang, Zirui Shang, Zhi Gao, Wang Zhang, Rui Xie, Xiaojian Ma, Tao Yuan, X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-12679/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-12679/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_12679,
+  title = {{TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents}},
+  author = {{Bofei Zhang} and {Zirui Shang} and {Zhi Gao} and {Wang Zhang} and {Rui Xie} and {Xiaojian Ma} and {Tao Yuan} and {Xinxiao Wu} and {Song-Chun Zhu} and {Qing Li}},
+  year = {2025},
+  eprint = {2504.12679v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.12679v4},
+  note = {First published: 2025-04-17; Recorded arXiv version: v4; Recorded version updated: 2025-12-04T15:01:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

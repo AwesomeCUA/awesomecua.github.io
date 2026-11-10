@@ -1,3 +1,11 @@
+---
+title: "Jedi-7B-1080p | AwesomeCUA"
+url: https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Jedi-7B-1080p
 
 A released model checkpoint for computer-use grounding research, based on Qwen2.5-VL-7B-Instruct. The repository includes weight shards and tokenizer files.

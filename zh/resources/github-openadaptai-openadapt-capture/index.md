@@ -1,3 +1,11 @@
+---
+title: "openadapt-capture · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-capture/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # openadapt-capture
 
 用于采集桌面 GUI 操作示范的录制工具，将鼠标和键盘操作与屏幕画面配对，并支持通过 Python 读取记录。

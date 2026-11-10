@@ -1,3 +1,11 @@
+---
+title: "VSC-RL code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-agents-2030-vsc-rl/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # VSC-RL code
 
 VSC-RL training code for Android in the Wild tasks: Gemini-generated subgoals condition an Auto-UI policy trained online in emulators with learned critics and a Gemini end-state evaluator, built on DigiRL.

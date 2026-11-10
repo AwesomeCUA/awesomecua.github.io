@@ -1,3 +1,11 @@
+---
+title: "AIOS · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agiresearch-aios/
+updated: 2026-11-06
+type: infrastructure
+lang: zh-CN
+---
+
 # AIOS
 
 AIOS 是一款智能体操作系统，其计算机使用架构提供虚拟机控制器和 MCP 服务器，供智能体与图形计算机环境交互。

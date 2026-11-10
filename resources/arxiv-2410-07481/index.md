@@ -1,3 +1,11 @@
+---
+title: "Effects of dissipation in reservoir computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-07481/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Effects of dissipation in reservoir computing using a spin qubit array
 
 Status: excluded from the active CUA catalog after scope review.

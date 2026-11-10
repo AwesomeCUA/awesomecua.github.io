@@ -1,3 +1,11 @@
+---
+title: "mobius-browser-guard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mobius-style-mobius-browser-guard/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mobius-browser-guard
 
 Auditable, content-blind permission gate for Claude in Chrome browser actions driven by an explicit action-risk ladder.

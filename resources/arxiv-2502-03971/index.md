@@ -1,3 +1,11 @@
+---
+title: "RWKV-UI: UI Understanding with Enhanced… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-03971/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # RWKV-UI: UI Understanding with Enhanced Perception and Reasoning
 
 RWKV-UI is a visual language model for high-resolution web interfaces that uses layout detection and reasoning-chain visual prompts to understand pages.
@@ -26,6 +34,18 @@ Jiaxi Yang, Haowen Hou
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-03971/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-03971/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_03971,
+  title = {{RWKV-UI: UI Understanding with Enhanced Perception and Reasoning}},
+  author = {{Jiaxi Yang} and {Haowen Hou}},
+  year = {2025},
+  eprint = {2502.03971v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.03971v1},
+  note = {First published: 2025-02-06; Recorded arXiv version: v1; Recorded version updated: 2025-02-06T11:02:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AI-Work · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-peiwenzhang-git-ai-work/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AI-Work
 
 支持人工参与的 Windows 桌面自动化运行时，具备 MCP 支持、受限文件访问和逐步审批功能。

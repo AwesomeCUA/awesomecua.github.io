@@ -1,3 +1,11 @@
+---
+title: "mcp-patchright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maestrojeong-mcp-patchright/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # mcp-patchright
 
 An MCP server built on Patchright that exposes 64 browser tools to agents, from accessibility snapshots with element refs to clicks, form filling, cookies and network control.

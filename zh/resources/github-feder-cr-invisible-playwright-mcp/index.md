@@ -1,3 +1,11 @@
+---
+title: "invisible_playwright_mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright-mcp/
+updated: 2026-10-18
+type: tool
+lang: zh-CN
+---
+
 # invisible_playwright_mcp
 
 MCP 服务器及本地网页界面，让 LLM 通过反检测 Firefox 版本操作浏览器，支持模拟鼠标移动与按键输入、预设浏览器身份、可选代理和持久化配置文件。

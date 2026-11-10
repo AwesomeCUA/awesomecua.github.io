@@ -1,3 +1,11 @@
+---
+title: "UI-R1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lll6gg-ui-r1/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # UI-R1
 
 UI-R1 使用基于规则的强化学习预测 GUI 操作，发布了基于 Qwen2.5-VL-3B 训练的 UI-R1-3B、侧重效率的 UI-R1-E-3B 及训练数据。

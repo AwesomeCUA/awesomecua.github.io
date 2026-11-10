@@ -1,3 +1,11 @@
+---
+title: "ComputerMate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-one710-computermate/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ComputerMate
 
 ComputerMate is a cross-platform Model Context Protocol server granting AI models screen capture, OCR, mouse/keyboard, and shell control.

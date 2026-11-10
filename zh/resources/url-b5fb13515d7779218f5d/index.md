@@ -1,3 +1,11 @@
+---
+title: "microsoft/OmniParser · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b5fb13515d7779218f5d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # microsoft/OmniParser
 
 已发布的屏幕解析模型权重，可在截图中检测可操作区域并描述图标，为图形界面智能体提供结构化屏幕信息。

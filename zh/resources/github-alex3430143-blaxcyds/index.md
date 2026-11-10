@@ -1,3 +1,11 @@
+---
+title: "BLAXCY · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alex3430143-blaxcyds/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # BLAXCY
 
 BLAXCY 是一款受策略约束、可自行验证的 Linux 桌面计算机使用智能体，具备动作确认和状态验证功能。

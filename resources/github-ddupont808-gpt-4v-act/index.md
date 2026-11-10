@@ -1,3 +1,11 @@
+---
+title: "GPT-4V-Act | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ddupont808-gpt-4v-act/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # GPT-4V-Act
 
 GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting to drive web browser interactions with multimodal LLMs.

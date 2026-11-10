@@ -1,3 +1,11 @@
+---
+title: "DINO-X: A Unified Vision Model for Open-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-14347/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding
 
 Bibliographic record for DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianhe Ren, Yihao Chen, Qing Jiang, Zhaoyang Zeng, Yuda Xiong, Wenlong Liu, Zhen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-14347/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-14347/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_14347,
+  title = {{DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding}},
+  author = {{Tianhe Ren} and {Yihao Chen} and {Qing Jiang} and {Zhaoyang Zeng} and {Yuda Xiong} and {Wenlong Liu} and {Zhengyu Ma} and {Junyi Shen} and {Yuan Gao} and {Xiaoke Jiang} and {Xingyu Chen} and {Zhuheng Song} and {Yuhong Zhang} and {Hongjie Huang} and {Han Gao} and {Shilong Liu} and {Hao Zhang} and {Feng Li} and {Kent Yu} and {Lei Zhang}},
+  year = {2024},
+  eprint = {2411.14347v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.14347v3},
+  note = {First published: 2024-11-21; Recorded arXiv version: v3; Recorded version updated: 2025-05-15T15:52:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

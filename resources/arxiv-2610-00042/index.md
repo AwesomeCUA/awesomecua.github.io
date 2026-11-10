@@ -1,3 +1,11 @@
+---
+title: "Zengram-Lite: An In-Browser Agentic-Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-00042/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Zengram-Lite: An In-Browser Agentic-Memory Framework - Semantic Knowledge, Session Tracking, and Token-Budgeted Context
 
 Bibliographic record for Zengram-Lite: An In-Browser Agentic-Memory Framework - Semantic Knowledge, Session Tracking, and Token-Budgeted Context. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Gene Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-00042/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-00042/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_00042,
+  title = {{Zengram-Lite: An In-Browser Agentic-Memory Framework - Semantic Knowledge, Session Tracking, and Token-Budgeted Context}},
+  author = {{Gene Zhang}},
+  year = {2026},
+  eprint = {2610.00042v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.00042v1},
+  note = {First published: 2026-09-03; Recorded arXiv version: v1; Recorded version updated: 2026-09-03T03:40:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

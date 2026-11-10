@@ -1,3 +1,11 @@
+---
+title: "outlive · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sy-d-outlive/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # outlive
 
 跨越 10 分钟容器超时，对长时间运行的 Solari 云浏览器会话进行检查点保存和恢复。

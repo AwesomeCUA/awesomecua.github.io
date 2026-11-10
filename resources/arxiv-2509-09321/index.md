@@ -1,3 +1,11 @@
+---
+title: "Towards Adaptive ML Benchmarks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-09321/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction, Domain Expansion, and Metric Optimization
 
 Bibliographic record for Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction, Domain Expansion, and Metric Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hangyi Jia, Yuxi Qian, Hanwen Tong, Xinhui Wu, Lin Chen, Feng Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-09321/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-09321/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_09321,
+  title = {{Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction, Domain Expansion, and Metric Optimization}},
+  author = {{Hangyi Jia} and {Yuxi Qian} and {Hanwen Tong} and {Xinhui Wu} and {Lin Chen} and {Feng Wei}},
+  year = {2025},
+  eprint = {2509.09321v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.09321v1},
+  note = {First published: 2025-09-11; Recorded arXiv version: v1; Recorded version updated: 2025-09-11T10:10:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

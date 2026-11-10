@@ -1,3 +1,11 @@
+---
+title: "DSH × Termux — mobile operations kit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maopk-dsh-termux-kit/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # DSH × Termux — mobile operations kit
 
 一套面向 DeepSeek Harness 的 Android 运维工具，提供桌面小组件、Console 应用和无障碍桥接服务，使智能体能够读取并操控手机屏幕。

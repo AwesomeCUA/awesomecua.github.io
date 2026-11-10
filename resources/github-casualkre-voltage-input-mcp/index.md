@@ -1,3 +1,11 @@
+---
+title: "VoltageInputMcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # VoltageInputMcp
 
 Two-layer local input engine for MCP where a frontier planning model dispatches high-rate action programs to a local executor.

@@ -1,3 +1,11 @@
+---
+title: "InfiniteWeb: Scalable Web Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-04126/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training
 
 InfiniteWeb generates functional, interconnected websites and task evaluators using shared specifications and task-driven development. It evaluates website construction and the transfer of GUI policies trained in these synthetic web environments to OSWorld and Online-Mind2Web.
@@ -26,6 +34,18 @@ Ziyun Zhang, Zezhou Wang, Xiaoyi Zhang, Zongyu Guo, Jiahao Li, Bin Li, Yan Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-04126/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-04126/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_04126,
+  title = {{InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training}},
+  author = {{Ziyun Zhang} and {Zezhou Wang} and {Xiaoyi Zhang} and {Zongyu Guo} and {Jiahao Li} and {Bin Li} and {Yan Lu}},
+  year = {2026},
+  eprint = {2601.04126v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.04126v3},
+  note = {First published: 2026-01-07; Recorded arXiv version: v3; Recorded version updated: 2026-06-30T13:54:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

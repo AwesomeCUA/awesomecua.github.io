@@ -1,3 +1,11 @@
+---
+title: "DeepAgent: A General Reasoning Agent with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-21618/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DeepAgent: A General Reasoning Agent with Scalable Toolsets
 
 Bibliographic record for DeepAgent: A General Reasoning Agent with Scalable Toolsets. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Guanting Dong, Jiajie Jin, Yinuo Wang, Hao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-21618/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-21618/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_21618,
+  title = {{DeepAgent: A General Reasoning Agent with Scalable Toolsets}},
+  author = {{Xiaoxi Li} and {Wenxiang Jiao} and {Jiarui Jin} and {Guanting Dong} and {Jiajie Jin} and {Yinuo Wang} and {Hao Wang} and {Yutao Zhu} and {Ji-Rong Wen} and {Yuan Lu} and {Zhicheng Dou}},
+  year = {2025},
+  eprint = {2510.21618v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.21618v3},
+  note = {First published: 2025-10-24; Recorded arXiv version: v3; Recorded version updated: 2026-02-05T14:08:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

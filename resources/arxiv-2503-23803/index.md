@@ -1,3 +1,11 @@
+---
+title: "Thinking Longer, Not Larger: Enhancing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-23803/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute
 
 Status: excluded from the active CUA catalog after scope review.

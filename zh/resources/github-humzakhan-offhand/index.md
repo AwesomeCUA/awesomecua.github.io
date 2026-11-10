@@ -1,3 +1,11 @@
+---
+title: "Offhand · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-humzakhan-offhand/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Offhand
 
 Offhand 是面向 macOS 和 Windows 的离线桌面智能体，以无障碍能力为先，由紧凑型本地视觉语言模型驱动。

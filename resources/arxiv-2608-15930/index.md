@@ -1,3 +1,11 @@
+---
+title: "UI-Mate: Advancing Open-Weight Foundation GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-15930/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations
 
 Combines environment-grounded training with demonstration-conditioned workflows, and introduces OSWorkerBench for extended office-task evaluation.
@@ -26,6 +34,18 @@ Zihan Ding, Longxu Dou, Qi Gao, Xiangwu Guo, Shengchao Hu, Zilong Huang, Zihang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-15930/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-15930/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_15930,
+  title = {{UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations}},
+  author = {{Zihan Ding} and {Longxu Dou} and {Qi Gao} and {Xiangwu Guo} and {Shengchao Hu} and {Zilong Huang} and {Zihang Jiang} and {Lei Ke} and {Mengcheng Lan} and {Weixian Lei} and {Hanxuan Li} and {Honglin Li} and {Xiyun Li} and {Zaitang Li} and {Leowei Liang} and {Xin Luo} and {Haozhe Ma} and {Jiayi Mao} and {Zhoujie Pan} and {Can Qin} and {Tianyuan Qu} and {Weiqi Wang} and {Wenkai Wang} and {Yonglin Wang} and {Yuxin Wang} and {Chenxu Wu} and {Yingchen Yu} and {Chenyu Zhang} and {Yuhao Zheng}},
+  year = {2026},
+  eprint = {2608.15930v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.15930v1},
+  note = {First published: 2026-08-16; Recorded arXiv version: v1; Recorded version updated: 2026-08-16T20:59:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

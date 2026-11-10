@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 22 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/22/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 22
 
 HTML page: https://awesomecua.com/topics/evaluation/page/22/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [Magma-R1](https://awesomecua.com/resources/url-e5e74846aeaa8398673e/)
 - [moonshotai/Kimi-VL-A3B-Thinking](https://awesomecua.com/resources/url-c1851e7db3b0e53d2218/)
 - [Orienter](https://awesomecua.com/resources/url-758f048c78e5c184333c/)
 - [Qwen-AgentWorld](https://awesomecua.com/resources/github-qwenlm-qwen-agentworld/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [Autodesk Claude Browser Test Skills](https://awesomecua.com/resources/github-autodesk-claude-browser-test-skills/)
 - [AutoWechat](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/)
 - [Avenir-UX](https://awesomecua.com/resources/github-onflow-ai-avenir-ux/)
+- [Blender MCP](https://awesomecua.com/resources/github-bpy-dev-blender-mcp/)

@@ -1,3 +1,11 @@
+---
+title: "UGround-single | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9bb57ce3dde2c8289ac1/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # UGround-single
 
 A GUI grounding dataset with 8.29 million training rows that pair image references and element requests with bounding-box coordinates and click actions.

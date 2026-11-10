@@ -1,3 +1,11 @@
+---
+title: "FIVE-UI-Evol | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-five-ui-evol/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # FIVE-UI-Evol
 
 Microsoft monorepo for InfiniteWeb website and task-evaluator synthesis, the UI-E2I-Synth grounding evaluation script and UI-I2E-Bench leaderboard, and UI-Evol trajectory-based knowledge refinement.

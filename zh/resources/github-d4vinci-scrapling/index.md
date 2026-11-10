@@ -1,3 +1,11 @@
+---
+title: "Scrapling · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-d4vinci-scrapling/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Scrapling
 
 一个 Python 网页抓取框架，提供 HTTP 与隐身浏览器抓取器和爬虫，并附带 MCP 服务器，其十七个工具可让 AI 智能体在浏览器会话中点击、填写表单、输入文本和截图。

@@ -1,3 +1,11 @@
+---
+title: "BlenderWorld (github.com/QwenLM/BlenderWorld) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qwenlm-blenderworld/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # BlenderWorld
 
 A benchmark for agents creating editable Blender projects from text and visual references. It supplies 223 tasks, submission packaging, and an evaluator for scene and visual criteria.

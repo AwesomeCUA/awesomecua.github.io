@@ -1,3 +1,11 @@
+---
+title: "ANZU Superassistant (Jarvis) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daan298261-jarvis/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # ANZU Superassistant (Jarvis)
 
 Local-first Windows desktop agent with HUD, Kokoro voice, browser automation, Office integration, and Android control.

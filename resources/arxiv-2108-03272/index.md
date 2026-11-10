@@ -1,3 +1,11 @@
+---
+title: "iGibson 2.0: Object-Centric Simulation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2108-03272/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks
 
 Bibliographic record for iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chengshu Li, Fei Xia, Roberto Martín-Martín, Michael Lingelbach, Sanjana Sriva
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2108-03272/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2108-03272/citation.csl.json
+
+```bibtex
+@misc{arxiv_2108_03272,
+  title = {{iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks}},
+  author = {{Chengshu Li} and {Fei Xia} and {Roberto Martín-Martín} and {Michael Lingelbach} and {Sanjana Srivastava} and {Bokui Shen} and {Kent Vainio} and {Cem Gokmen} and {Gokul Dharan} and {Tanish Jain} and {Andrey Kurenkov} and {C. Karen Liu} and {Hyowon Gweon} and {Jiajun Wu} and {Li Fei-Fei} and {Silvio Savarese}},
+  year = {2021},
+  eprint = {2108.03272v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2108.03272v4},
+  note = {First published: 2021-08-06; Recorded arXiv version: v4; Recorded version updated: 2021-11-03T18:51:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

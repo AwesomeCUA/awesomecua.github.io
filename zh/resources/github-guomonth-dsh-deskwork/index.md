@@ -1,3 +1,11 @@
+---
+title: "DSH Deskwork · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guomonth-dsh-deskwork/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DSH Deskwork
 
 由 DeepSeek Harness 驱动的 AI 桌面工作空间，用于自动化 ERP 和企业后台业务操作。

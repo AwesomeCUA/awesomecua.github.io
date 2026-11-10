@@ -1,3 +1,11 @@
+---
+title: "mano-afk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # mano-afk
 
 An app-building agent that deploys software and tests it through browser GUI actions, with retry loops and an included benchmark for GUI automation.

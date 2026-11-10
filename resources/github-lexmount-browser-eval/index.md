@@ -1,3 +1,11 @@
+---
+title: "browser-eval | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lexmount-browser-eval/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # browser-eval
 
 browser-eval is an evaluation harness for web fetching, deterministic browser trajectory replay, and autonomous web agent benchmarking.

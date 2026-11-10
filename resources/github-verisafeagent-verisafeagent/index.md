@@ -1,3 +1,11 @@
+---
+title: "VeriSafe Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-verisafeagent-verisafeagent/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # VeriSafe Agent
 
 Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.

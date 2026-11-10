@@ -1,3 +1,11 @@
+---
+title: "taskforge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-huzjie-taskforge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # taskforge
 
 taskforge is a long-horizon workflow orchestration engine combining multi-step planning, tool invocation, and GUI state verification.

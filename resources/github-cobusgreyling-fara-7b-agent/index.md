@@ -1,3 +1,11 @@
+---
+title: "fara-7b-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cobusgreyling-fara-7b-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # fara-7b-agent
 
 Minimal, fully local agent harness for running Microsoft's Fara-7B computer-use model on desktop and browser tasks.

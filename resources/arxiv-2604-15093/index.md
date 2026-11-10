@@ -1,3 +1,11 @@
+---
+title: "OpenMobile: Building Open Mobile Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-15093/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis
 
 Presents OpenMobile, which builds exploration-based environment memory to synthesize task instructions and switches between learner and expert policies during trajectory collection. The resulting data includes recovery behavior and is tested through mobile-agent training and benchmark-overlap analysis.
@@ -26,6 +34,18 @@ Kanzhi Cheng, Zehao Li, Zheng Ma, Nuo Chen, Jialin Cao, Qiushi Sun, Zichen Ding,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-15093/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-15093/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_15093,
+  title = {{OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis}},
+  author = {{Kanzhi Cheng} and {Zehao Li} and {Zheng Ma} and {Nuo Chen} and {Jialin Cao} and {Qiushi Sun} and {Zichen Ding} and {Fangzhi Xu} and {Hang Yan} and {Jiajun Chen} and {Anh Tuan Luu} and {Jianbing Zhang} and {Lewei Lu} and {Dahua Lin}},
+  year = {2026},
+  eprint = {2604.15093v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.15093v1},
+  note = {First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T14:53:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

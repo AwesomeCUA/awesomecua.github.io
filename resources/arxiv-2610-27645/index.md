@@ -1,3 +1,11 @@
+---
+title: "CUA-Recovery: Benchmarking Error Recovery in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-27645/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents
 
 CUA-Recovery benchmarks error detection and recovery across desktop applications, using agent failures to create test states and training trajectories.
@@ -26,6 +34,18 @@ Xu Hu, Haoming Li, Yuxiang Wang, Jinxin Yang, Kangshuo Li, Licheng Wang, Dingyi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-27645/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-27645/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_27645,
+  title = {{CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents}},
+  author = {{Xu Hu} and {Haoming Li} and {Yuxiang Wang} and {Jinxin Yang} and {Kangshuo Li} and {Licheng Wang} and {Dingyi Kang} and {Jiayu Song} and {Tianhao Wang} and {Zhanhua Hu} and {Xu Yang} and {Qiannan Li} and {Bingzhe Li} and {Feng Chen}},
+  year = {2026},
+  eprint = {2610.27645v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.27645v1},
+  note = {First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T05:06:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Widget Captioning: Generating Natural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2010-04295/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements
 
 Introduces crowdsourced descriptions of mobile UI elements and studies multimodal models that generate useful widget captions.
@@ -26,6 +34,18 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2010-04295/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2010-04295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2010_04295,
+  title = {{Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements}},
+  author = {{Yang Li} and {Gang Li} and {Luheng He} and {Jingjie Zheng} and {Hong Li} and {Zhiwei Guan}},
+  year = {2020},
+  eprint = {2010.04295v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2010.04295v1},
+  note = {First published: 2020-10-08; Recorded arXiv version: v1; Recorded version updated: 2020-10-08T22:56:03Z.}
+}
+```
 
 ## Publication record
 

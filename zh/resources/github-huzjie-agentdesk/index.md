@@ -1,3 +1,11 @@
+---
+title: "AgentDesk (Enterprise Digital Workforce… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huzjie-agentdesk/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AgentDesk (Enterprise Digital Workforce Platform)
 
 企业数字员工运营平台，结合计算机使用执行、可复用技能和治理功能。

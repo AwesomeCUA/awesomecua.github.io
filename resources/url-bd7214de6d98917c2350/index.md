@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot v2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bd7214de6d98917c2350/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # ScreenSpot v2
 
 Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.

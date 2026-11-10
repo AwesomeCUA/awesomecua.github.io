@@ -1,3 +1,11 @@
+---
+title: "Vision Primitives MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zouyuanqing-vision-primitives-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Vision Primitives MCP
 
 Vision Primitives MCP equips text-only LLMs with 30 visual MCP tools for screen description, coordinate localization, OCR, and crop-zoom.

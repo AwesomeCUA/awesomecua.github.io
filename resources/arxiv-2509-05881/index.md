@@ -1,3 +1,11 @@
+---
+title: "GeoAnalystBench: A GeoAI benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-05881/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation
 
 Bibliographic record for GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qianheng Zhang, Song Gao, Chen Wei, Yibo Zhao, Ying Nie, Ziru Chen, Shijie Chen,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-05881/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-05881/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_05881,
+  title = {{GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation}},
+  author = {{Qianheng Zhang} and {Song Gao} and {Chen Wei} and {Yibo Zhao} and {Ying Nie} and {Ziru Chen} and {Shijie Chen} and {Yu Su} and {Huan Sun}},
+  year = {2025},
+  eprint = {2509.05881v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.05881v1},
+  note = {First published: 2025-09-07; Recorded arXiv version: v1; Recorded version updated: 2025-09-07T00:51:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

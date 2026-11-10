@@ -1,3 +1,11 @@
+---
+title: "GUI-Shepherd: Reliable Process Reward and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-23738/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks
 
 Introduces GUI-Shepherd, a process reward model trained on annotated GUI interactions to give step-level feedback for agent training and verification on AndroidWorld and AndroidControl.
@@ -26,6 +34,18 @@ Cong Chen, Kaixiang Ji, Hao Zhong, Muzhi Zhu, Anzhou Li, Guo Gan, Ziyuan Huang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-23738/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-23738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_23738,
+  title = {{GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks}},
+  author = {{Cong Chen} and {Kaixiang Ji} and {Hao Zhong} and {Muzhi Zhu} and {Anzhou Li} and {Guo Gan} and {Ziyuan Huang} and {Cheng Zou} and {Jiajia Liu} and {Jingdong Chen} and {Hao Chen} and {Chunhua Shen}},
+  year = {2025},
+  eprint = {2509.23738v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.23738v1},
+  note = {First published: 2025-09-28; Recorded arXiv version: v1; Recorded version updated: 2025-09-28T08:35:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

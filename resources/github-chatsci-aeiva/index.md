@@ -1,3 +1,11 @@
+---
+title: "Aeiva | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chatsci-aeiva/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Aeiva
 
 Aeiva is a modular general-purpose AI agent framework adaptable across desktop, web, and scientific task environments.

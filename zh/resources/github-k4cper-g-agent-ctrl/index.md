@@ -1,3 +1,11 @@
+---
+title: "agent-ctrl · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-k4cper-g-agent-ctrl/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # agent-ctrl
 
 Rust CLI 和守护进程，让智能体将原生应用无障碍树快照为元素引用并据此操作，在 Windows 使用 UI Automation、macOS 使用 AX，Linux 提供只读 AT-SPI 接口。

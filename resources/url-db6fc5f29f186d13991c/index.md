@@ -1,3 +1,11 @@
+---
+title: "ARPO UI-TARS-1.5-7B checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-db6fc5f29f186d13991c/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # ARPO UI-TARS-1.5-7B checkpoint
 
 UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.

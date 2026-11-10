@@ -1,3 +1,11 @@
+---
+title: "PhoneHarness: Harnessing Phone-Use Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-14832/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions
 
 PhoneHarness routes phone workflows across GUI actions, device-side commands and host tools while retaining auditable execution traces. Its accompanying benchmark checks observable task side effects, separating mixed-action execution from plausible final-answer generation.
@@ -26,6 +34,18 @@ Chenxin Li, Zhengyao Fang, Zhengyang Tang, Pengyuan Lyu, Xingran Zhou, Xin Lai, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-14832/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-14832/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_14832,
+  title = {{PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions}},
+  author = {{Chenxin Li} and {Zhengyao Fang} and {Zhengyang Tang} and {Pengyuan Lyu} and {Xingran Zhou} and {Xin Lai} and {Fei Tang} and {Liang Wu} and {Yiduo Guo} and {Weinong Wang} and {Junyi Li} and {Yi Zhang} and {Yang Ding} and {Huawen Shen} and {Sunqi Fan} and {Shangpin Peng} and {Zheng Ruan} and {Anran Zhang} and {Benyou Wang} and {Chengquan Zhang} and {Han Hu}},
+  year = {2026},
+  eprint = {2606.14832v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.14832v1},
+  note = {First published: 2026-06-12; Recorded arXiv version: v1; Recorded version updated: 2026-06-12T15:01:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

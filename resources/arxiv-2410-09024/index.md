@@ -1,3 +1,11 @@
+---
+title: "AgentHarm: A Benchmark for Measuring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-09024/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

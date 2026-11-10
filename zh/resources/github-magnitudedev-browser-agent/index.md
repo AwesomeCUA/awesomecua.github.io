@@ -1,3 +1,11 @@
+---
+title: "Magnitude · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magnitudedev-browser-agent/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # Magnitude
 
 TypeScript 浏览器智能体框架，由视觉定位模型返回鼠标和键盘操作的像素坐标，并提供 act 与 extract 调用、视觉测试运行器和 MCP 服务器。

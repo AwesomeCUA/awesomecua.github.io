@@ -1,3 +1,11 @@
+---
+title: "DrawingBench: Evaluating Spatial… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-01174/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # DrawingBench: Evaluating Spatial Reasoning and UI Interaction Capabilities of Large Language Models through Mouse-Based Drawing Tasks
 
 DrawingBench 用 250 个绘图提示和基于规则的标准评估低层鼠标 GUI 操作序列。操作检查和多轮外部反馈支持分析空间推理、工具状态管理及修正能力。
@@ -27,6 +35,18 @@ Hyunjun Kim, Sooyoung Ryu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-01174/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-01174/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_01174,
+  title = {{DrawingBench: Evaluating Spatial Reasoning and UI Interaction Capabilities of Large Language Models through Mouse-Based Drawing Tasks}},
+  author = {{Hyunjun Kim} and {Sooyoung Ryu}},
+  year = {2025},
+  eprint = {2512.01174v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.01174v1},
+  note = {First published: 2025-12-01; Recorded arXiv version: v1; Recorded version updated: 2025-12-01T01:18:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

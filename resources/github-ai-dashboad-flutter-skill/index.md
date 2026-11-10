@@ -1,3 +1,11 @@
+---
+title: "flutter-skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # flutter-skill
 
 An MCP server and CLI that give AI agents screen inspection and interaction tools for running web, desktop and mobile apps. It supports navigation, taps, typing and test assertions.

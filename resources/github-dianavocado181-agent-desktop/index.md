@@ -1,3 +1,11 @@
+---
+title: "agent-desktop (macOS Multi-Account Sandbox) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dianavocado181-agent-desktop/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # agent-desktop (macOS Multi-Account Sandbox)
 
 Gives AI computer-use agents a dedicated macOS user account and isolated desktop session viewable live from the main screen.

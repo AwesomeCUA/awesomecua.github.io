@@ -1,3 +1,11 @@
+---
+title: "ReasoningBank: Scaling Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-25140/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory
 
 从智能体成功和失败的轨迹中提炼可泛化的推理策略，存入持久化记忆库，供测试时检索。
@@ -27,6 +35,18 @@ Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-25140/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-25140/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_25140,
+  title = {{ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory}},
+  author = {{Siru Ouyang} and {Jun Yan} and {I-Hung Hsu} and {Yanfei Chen} and {Ke Jiang} and {Zifeng Wang} and {Rujun Han} and {Long T. Le} and {Samira Daruki} and {Xiangru Tang} and {Vishy Tirumalashetty} and {George Lee} and {Mahsan Rofouei} and {Hangfei Lin} and {Jiawei Han} and {Chen-Yu Lee} and {Tomas Pfister}},
+  year = {2025},
+  eprint = {2509.25140v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.25140v2},
+  note = {First published: 2025-09-29; Recorded arXiv version: v2; Recorded version updated: 2026-03-16T20:49:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "OS-Copilot/OS-Shepherd-100K · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d716497286ae5cd5e762/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # OS-Copilot/OS-Shepherd-100K
 
 一个包含图形界面智能体轨迹和截图的数据集，用于训练判断任务是否完成的模型，并提供监督训练记录及强化学习数据划分。

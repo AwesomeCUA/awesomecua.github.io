@@ -1,3 +1,11 @@
+---
+title: "governed-computer-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mkhan49-governed-computer-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # governed-computer-use
 
 使用 LLM 一次性发现传统银行业务 UI 流程，编译确定性重放产物，并要求异常情况经过人工批准。

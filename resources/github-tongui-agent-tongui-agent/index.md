@@ -1,3 +1,11 @@
+---
+title: "TongUI training and inference framework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tongui-agent-tongui-agent/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # TongUI training and inference framework
 
 Training configurations, preprocessing and inference examples for tutorial-trained GUI models, with a LLaMA-Factory fine-tuning workflow and screenshot-grounding interfaces.

@@ -1,3 +1,11 @@
+---
+title: "Mobster engine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-radishsoftware-mobster/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Mobster engine
 
 iOS agent engine organized around an observe, decide, verify and act loop, using WebDriverAgent screen state and phone actions such as taps, typing, swipes and app switches.

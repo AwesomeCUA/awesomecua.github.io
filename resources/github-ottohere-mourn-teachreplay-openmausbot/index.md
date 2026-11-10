@@ -1,3 +1,11 @@
+---
+title: "TeachReplay — OpenMausBot Integration | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ottohere-mourn-teachreplay-openmausbot/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # TeachReplay — OpenMausBot Integration
 
 This OpenMausBot integration adds a panel for recording computer demonstrations, compiling reusable skills, and replaying them with new inputs.

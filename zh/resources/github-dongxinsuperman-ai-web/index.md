@@ -1,3 +1,11 @@
+---
+title: "AI Web · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dongxinsuperman-ai-web/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AI Web
 
 自然语言 Browser Agent 执行平台，支持多浏览器调度、任务队列和可追溯的 QA 测试报告。

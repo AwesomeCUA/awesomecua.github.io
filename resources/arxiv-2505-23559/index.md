@@ -1,3 +1,11 @@
+---
+title: "SafeScientist: Toward Risk-Aware Scientific… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-23559/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

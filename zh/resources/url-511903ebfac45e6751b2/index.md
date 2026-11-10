@@ -1,3 +1,11 @@
+---
+title: "GUIOdyssey — current data release · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-511903ebfac45e6751b2/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # GUIOdyssey — current data release
 
 跨应用 Android 交互操作片段，包含细粒度步骤指令、屏幕描述、操作上下文和目标框。

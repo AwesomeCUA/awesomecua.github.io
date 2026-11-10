@@ -1,3 +1,11 @@
+---
+title: "solveReCaptcha-Typescript · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-conghuy113-solverecaptcha-typescript/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # solveReCaptcha-Typescript
 
 用于在 Playwright 和 Puppeteer 流程中解决 reCAPTCHA 验证挑战的 TypeScript 库及浏览器自动化辅助工具。

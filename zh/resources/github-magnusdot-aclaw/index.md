@@ -1,3 +1,11 @@
+---
+title: "AClaw · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magnusdot-aclaw/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AClaw
 
 用于运行和监控个人 OpenClaw 计算机使用智能体的打包式本地控制中心。

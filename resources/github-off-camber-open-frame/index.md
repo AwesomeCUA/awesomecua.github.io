@@ -1,3 +1,11 @@
+---
+title: "Open Frame | AwesomeCUA"
+url: https://awesomecua.com/resources/github-off-camber-open-frame/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Open Frame
 
 Deterministic desktop automation engine for AI agents implementing a capture-recognize-act-verify loop.

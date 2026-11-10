@@ -1,3 +1,11 @@
+---
+title: "HealthEnv · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-possibleme2026-lang-healthenv/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # HealthEnv
 
 HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机使用评测环境。

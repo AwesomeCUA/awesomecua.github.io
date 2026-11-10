@@ -1,3 +1,11 @@
+---
+title: "Why Only Text: Empowering Vision-and-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-02208/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Why Only Text: Empowering Vision-and-Language Navigation with Multi-modal Prompts
 
 Bibliographic record for Why Only Text: Empowering Vision-and-Language Navigation with Multi-modal Prompts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haodong Hong, Sen Wang, Zi Huang, Qi Wu, Jiajun Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-02208/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-02208/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_02208,
+  title = {{Why Only Text: Empowering Vision-and-Language Navigation with Multi-modal Prompts}},
+  author = {{Haodong Hong} and {Sen Wang} and {Zi Huang} and {Qi Wu} and {Jiajun Liu}},
+  year = {2024},
+  eprint = {2406.02208v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.02208v1},
+  note = {First published: 2024-06-04; Recorded arXiv version: v1; Recorded version updated: 2024-06-04T11:06:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

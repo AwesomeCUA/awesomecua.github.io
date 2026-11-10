@@ -1,3 +1,11 @@
+---
+title: "From Pixels to UI Actions: Learning to Follow… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-00245/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
 
 Studies instruction-following agents that observe screenshots and act through a generic mouse-and-keyboard action space, evaluating pixel-based pretraining for GUI tasks on MiniWoB++.
@@ -26,6 +34,18 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-00245/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-00245/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_00245,
+  title = {{From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces}},
+  author = {{Peter Shaw} and {Mandar Joshi} and {James Cohan} and {Jonathan Berant} and {Panupong Pasupat} and {Hexiang Hu} and {Urvashi Khandelwal} and {Kenton Lee} and {Kristina Toutanova}},
+  year = {2023},
+  eprint = {2306.00245v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.00245v2},
+  note = {First published: 2023-05-31; Recorded arXiv version: v2; Recorded version updated: 2023-12-06T23:46:36Z.}
+}
+```
 
 ## Publication record
 

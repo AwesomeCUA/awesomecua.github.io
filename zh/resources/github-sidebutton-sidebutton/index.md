@@ -1,3 +1,11 @@
+---
+title: "SideButton · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sidebutton-sidebutton/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # SideButton
 
 SideButton 结合 Chrome 扩展、MCP 服务器和 YAML 工作流引擎，向 AI 智能体开放实时浏览器动作。

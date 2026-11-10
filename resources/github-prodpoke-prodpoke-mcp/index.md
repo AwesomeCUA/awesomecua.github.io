@@ -1,3 +1,11 @@
+---
+title: "ProdPoke MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-prodpoke-prodpoke-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ProdPoke MCP Server
 
 AI QA testing MCP server that launches real browsers to execute exploratory user journeys and report UI defects.

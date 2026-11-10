@@ -1,3 +1,11 @@
+---
+title: "Undetectable Browser MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-undetectable-io-undetectable-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Undetectable Browser MCP Server
 
 官方 TypeScript Model Context Protocol 服务器，封装 Undetectable Browser 本地 API，用于配置文件管理和网页自动化。

@@ -1,3 +1,11 @@
+---
+title: "Reflection with Action-Induced Visual… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-24015/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Reflection with Action-Induced Visual Differences for Desktop GUI Agents
 
 提出 Evidence-First Reflection，将提取动作引起的屏幕变化与判断操作是否达成目标分开；先从视觉差异中筛选相关证据，再由桌面智能体的反思模块决定如何继续执行。
@@ -27,6 +35,18 @@ Yijie Ma, Chaoyue Niu, Fan Wu, Guihai Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-24015/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-24015/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24015,
+  title = {{Reflection with Action-Induced Visual Differences for Desktop GUI Agents}},
+  author = {{Yijie Ma} and {Chaoyue Niu} and {Fan Wu} and {Guihai Chen}},
+  year = {2026},
+  eprint = {2608.24015v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24015v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T03:10:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

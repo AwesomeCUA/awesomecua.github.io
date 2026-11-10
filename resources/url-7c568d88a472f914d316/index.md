@@ -1,3 +1,11 @@
+---
+title: "UI-R1 3B training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7c568d88a472f914d316/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UI-R1 3B training data
 
 The released mobile training subset for the original UI-R1 3B model, with action annotations and individual screenshot files.

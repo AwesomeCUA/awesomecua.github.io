@@ -1,3 +1,11 @@
+---
+title: "windows-mcp-server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deploymenttheory-windows-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # windows-mcp-server
 
 一个 MCP 服务器让智能体通过无障碍数据和输入工具查看并操控 Windows 桌面，同时提供设备策略检查和审计日志。

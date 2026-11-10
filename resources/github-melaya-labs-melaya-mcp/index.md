@@ -1,3 +1,11 @@
+---
+title: "Melaya MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-melaya-labs-melaya-mcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Melaya MCP
 
 Agent orchestration and Model Context Protocol runtime connecting AI agents to 6,000+ browser, desktop, and API tools.

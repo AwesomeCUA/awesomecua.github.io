@@ -1,3 +1,11 @@
+---
+title: "dsh-design | AwesomeCUA"
+url: https://awesomecua.com/resources/github-viger1-dsh-design/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # dsh-design
 
 A browser-based design audit for agent-created pages that measures rendered contrast, typography, spacing, colors, and controls. It includes a design-system skill.

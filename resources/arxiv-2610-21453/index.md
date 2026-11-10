@@ -1,3 +1,11 @@
+---
+title: "CarryOn: A Dual-Loop Harness for Personalized… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-21453/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance
 
 Bibliographic record for CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zixuan Wang, Yuqi Liu, Yuxin Chen, Sengqiao Yang, Jinhui Ye, Pengguang Chen, Cha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-21453/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-21453/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_21453,
+  title = {{CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance}},
+  author = {{Zixuan Wang} and {Yuqi Liu} and {Yuxin Chen} and {Sengqiao Yang} and {Jinhui Ye} and {Pengguang Chen} and {Changsheng Lu} and {Shu Liu} and {Bei Yu} and {Jiaya Jia}},
+  year = {2026},
+  eprint = {2610.21453v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.21453v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T07:54:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

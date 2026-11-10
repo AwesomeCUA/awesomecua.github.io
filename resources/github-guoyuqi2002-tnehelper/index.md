@@ -1,3 +1,11 @@
+---
+title: "Workday Expense & Invoice Assistant (tnehelper) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-guoyuqi2002-tnehelper/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Workday Expense & Invoice Assistant (tnehelper)
 
 Desktop and browser automation agent that reconciles invoice documents against Workday travel-and-expense web portals.

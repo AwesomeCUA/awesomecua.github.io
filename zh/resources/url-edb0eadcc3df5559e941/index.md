@@ -1,3 +1,11 @@
+---
+title: "go-browse-wa-raw · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-edb0eadcc3df5559e941/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # go-browse-wa-raw
 
 go-browse-wa-raw 是浏览器智能体轨迹数据集，包含页面观察、操作、目标、奖励和图像。其训练集包含 196462 个样本。

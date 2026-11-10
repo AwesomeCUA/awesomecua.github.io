@@ -1,3 +1,11 @@
+---
+title: "Custom Chrome Dev MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-habaandrei-custom-chrome-dev-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Custom Chrome Dev MCP
 
 Local-only Model Context Protocol server that drives the user's already-open Chrome session over DevTools.

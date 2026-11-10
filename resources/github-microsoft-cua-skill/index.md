@@ -1,3 +1,11 @@
+---
+title: "CUA Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-cua-skill/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # CUA Skill
 
 CUA Skill runs Windows desktop tasks by retrieving and executing reusable action sequences. Its agent modes use screenshots, accessibility trees, and visual grounding.

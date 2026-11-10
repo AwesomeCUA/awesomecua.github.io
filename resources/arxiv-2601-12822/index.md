@@ -1,3 +1,11 @@
+---
+title: "MirrorGuard: Toward Secure Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-12822/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction
 
 MirrorGuard trains a reasoning-correction defense using GUI risk trajectories generated in a text-based neural-symbolic simulator. It evaluates whether corrections transfer to computer-use agents operating real interfaces, keeping simulated training separate from deployment tests.
@@ -26,6 +34,18 @@ Wenqi Zhang, Yulin Shen, Changyue Jiang, Jiarun Dai, Geng Hong, Xudong Pan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-12822/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-12822/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_12822,
+  title = {{MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction}},
+  author = {{Wenqi Zhang} and {Yulin Shen} and {Changyue Jiang} and {Jiarun Dai} and {Geng Hong} and {Xudong Pan}},
+  year = {2026},
+  eprint = {2601.12822v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.12822v1},
+  note = {First published: 2026-01-19; Recorded arXiv version: v1; Recorded version updated: 2026-01-19T08:32:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

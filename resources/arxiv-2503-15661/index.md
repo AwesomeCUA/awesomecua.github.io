@@ -1,3 +1,11 @@
+---
+title: "UI-Vision: A Desktop-centric GUI Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-15661/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction
 
 Provides annotated desktop demonstrations for evaluating element grounding, layout grounding, and action prediction.
@@ -26,6 +34,18 @@ Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Juan A. Rodriguez, Montek Kalsi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-15661/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-15661/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_15661,
+  title = {{UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction}},
+  author = {{Shravan Nayak} and {Xiangru Jian} and {Kevin Qinghong Lin} and {Juan A. Rodriguez} and {Montek Kalsi} and {Rabiul Awal} and {Nicolas Chapados} and {M. Tamer Özsu} and {Aishwarya Agrawal} and {David Vazquez} and {Christopher Pal} and {Perouz Taslakian} and {Spandana Gella} and {Sai Rajeswar}},
+  year = {2025},
+  eprint = {2503.15661v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.15661v2},
+  note = {First published: 2025-03-19; Recorded arXiv version: v2; Recorded version updated: 2025-05-06T17:43:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

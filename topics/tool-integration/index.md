@@ -1,3 +1,11 @@
+---
+title: "Tool integration — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -788,8 +796,6 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   A CLI and MCP tool that lets AI agents operate an existing Chrome session through page snapshots, element actions, screenshots, and website-specific adapters.
 - [bb-sites](https://awesomecua.com/resources/github-epiral-bb-sites/) — Date not recorded
   A collection of JavaScript adapters that turn site searches, data retrieval and selected account actions into commands run through a logged-in browser.
-- [Bees Desktop](https://awesomecua.com/resources/github-bees-bot-bees-desktop/) — Date not recorded
-  Thread-based multi-agent desktop runtime allowing a team of AI agents to collaborate over local files and browsers.
 - [BeijingWahw DSH Computer Use Plugin](https://awesomecua.com/resources/github-beijingwahw-dsh-computer-use-plugin/) — Date not recorded
   Full-featured desktop computer-use plugin for DeepSeek Harness supporting multi-display capture, OCR, and GUI actions.
 - [Better AI Browser Utilities (BABU)](https://awesomecua.com/resources/github-itmediatech-better-ai-browser-utilities/) — Date not recorded
@@ -1312,8 +1318,6 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   DeepSeek Harness plugin integrating the AntiBrow anti-detect browser for stealth web automation.
 - [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/) — Date not recorded
   Firefox browser-control plugin and extension for DeepSeek Harness enabling agents to read and drive live Firefox tabs.
-- [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/) — Date not recorded
-  Background-tab full-access fork of `dsh-browser` for DeepSeek Harness web automation.
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/) — Date not recorded
   DeepSeek Harness plugin combining agent-driven real-browser control with workflow recording.
 - [dsh-browser-playwright](https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/) — Date not recorded
@@ -1828,8 +1832,6 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Compositor-agnostic Linux Wayland virtual seat and input adapter for coding and computer-use agents.
 - [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/) — Date not recorded
   Conversational desktop agent shell that observes screen context and executes local OS and GUI actions.
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/) — Date not recorded
-  Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
 - [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/) — Date not recorded
   High-performance Rust Model Context Protocol browser server for AI agents.
 - [Mastra Code](https://awesomecua.com/resources/github-mastra-ai-mastra-code-ui/) — Date not recorded
@@ -1956,8 +1958,6 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Mobile-native agent SDK by Ant Group for building on-device AI agents with sandboxed skill execution.
 - [Narada Operator](https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/) — Date not recorded
   Narada Operator is an enterprise web agent that executes workflows across web interfaces and APIs using task planning and error recovery.
-- [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/) — Date not recorded
-  Local-first open-source AI agent harness for developers integrating terminal, filesystem, and browser control.
 - [native-devtools-mcp](https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/) — Date not recorded
   Local Rust MCP server for operating macOS and Windows apps, Chrome or Electron pages over CDP, and Android devices over ADB, with screenshots, OCR, accessibility lookup, input and template matching.
 - [NaturalGAIA & LightManus](https://awesomecua.com/resources/github-keles-coding-naturegaia/) — Date not recorded
@@ -2804,8 +2804,6 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Official Model Context Protocol server connecting Claude and MCP agents to ZennoPoster 7 browser automation workflows.
 - [zetakai desktop-mcp](https://awesomecua.com/resources/github-zetakai-desktop-mcp/) — Date not recorded
   Desktop vision and input control Model Context Protocol server for Linux X11 and Wayland sessions.
-- [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/) — Date not recorded
-  Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
 - [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/resources/github-shenkemin-sketch-zhuque-recruiting/) — Date not recorded
   Auditable Codex Computer Use skill for automating candidate sourcing and screening across web recruiting platforms.
 - [ZRui-C DSH Computer Use](https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/) — Date not recorded

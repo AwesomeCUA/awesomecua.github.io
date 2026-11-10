@@ -1,3 +1,11 @@
+---
+title: "VLM Agents Generate Their Own Memories… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2406-14596/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought
 
 ICAL 通过反思和人工反馈，将不完善的智能体轨迹整理为可复用的策略与动作标注；VisualWebArena 是其评估场景之一。
@@ -27,6 +35,18 @@ Gabriel Sarch, Lawrence Jang, Michael J. Tarr, William W. Cohen, Kenneth Marino,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2406-14596/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2406-14596/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_14596,
+  title = {{VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought}},
+  author = {{Gabriel Sarch} and {Lawrence Jang} and {Michael J. Tarr} and {William W. Cohen} and {Kenneth Marino} and {Katerina Fragkiadaki}},
+  year = {2024},
+  eprint = {2406.14596v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.14596v6},
+  note = {First published: 2024-06-20; Recorded arXiv version: v6; Recorded version updated: 2025-09-18T02:44:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

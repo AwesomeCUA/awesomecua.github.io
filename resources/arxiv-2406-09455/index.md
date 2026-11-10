@@ -1,3 +1,11 @@
+---
+title: "Pandora: Towards General World Model with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-09455/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Pandora: Towards General World Model with Natural Language Actions and Video States
 
 Status: excluded from the active CUA catalog after scope review.

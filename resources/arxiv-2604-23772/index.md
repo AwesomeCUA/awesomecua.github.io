@@ -1,3 +1,11 @@
+---
+title: "PageGuide: Browser extension to assist users… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-23772/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PageGuide: Browser extension to assist users in navigating a webpage and locating information
 
 PageGuide is a browser extension that highlights evidence for answers on a page and guides users through web pages with evidence captured at each step.
@@ -26,6 +34,18 @@ Tin Nguyen, Thang T. Truong, Runtao Zhou, Trung Bui, Chirag Agarwal, Anh Totti N
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-23772/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-23772/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_23772,
+  title = {{PageGuide: Browser extension to assist users in navigating a webpage and locating information}},
+  author = {{Tin Nguyen} and {Thang T. Truong} and {Runtao Zhou} and {Trung Bui} and {Chirag Agarwal} and {Anh Totti Nguyen}},
+  year = {2026},
+  eprint = {2604.23772v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.23772v5},
+  note = {First published: 2026-04-26; Recorded arXiv version: v5; Recorded version updated: 2026-09-12T18:39:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

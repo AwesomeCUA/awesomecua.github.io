@@ -1,3 +1,11 @@
+---
+title: "MobileGUI-VBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d7a4f34a6a5202af5f64/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # MobileGUI-VBench
 
 覆盖日常场景的移动应用任务定义，标注了前置条件和需要澄清的事项，用于评估智能体行为。

@@ -1,3 +1,11 @@
+---
+title: "PACE: A Proxy for Agentic Capability Evaluation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-02032/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PACE: A Proxy for Agentic Capability Evaluation
 
 Bibliographic record for PACE: A Proxy for Agentic Capability Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yueqi Song, Lintang Sutawika, Jiarui Liu, Lindia Tjuatja, Jiayi Geng, Yunze Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-02032/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-02032/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_02032,
+  title = {{PACE: A Proxy for Agentic Capability Evaluation}},
+  author = {{Yueqi Song} and {Lintang Sutawika} and {Jiarui Liu} and {Lindia Tjuatja} and {Jiayi Geng} and {Yunze Xiao} and {Daniel Lee} and {Aditya Bharat Soni} and {Vincent Lo} and {Xiang Yue} and {Graham Neubig}},
+  year = {2026},
+  eprint = {2607.02032v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.02032v2},
+  note = {First published: 2026-07-02; Recorded arXiv version: v2; Recorded version updated: 2026-07-06T17:18:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

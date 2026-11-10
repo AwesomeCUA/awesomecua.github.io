@@ -1,3 +1,11 @@
+---
+title: "Demystifying deep search: a holistic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-05137/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics
 
 提出 WebDetective：以可追踪操作的 Wikipedia 沙盒评估深度搜索；另提出 EvidenceLoop，通过证据跟踪支持网页智能体检索与信息整合。
@@ -27,6 +35,18 @@ Maojia Song, Renhang Liu, Xinyu Wang, Yong Jiang, Pengjun Xie, Fei Huang, Jingre
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-05137/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-05137/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_05137,
+  title = {{Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics}},
+  author = {{Maojia Song} and {Renhang Liu} and {Xinyu Wang} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou} and {Dorien Herremans} and {Soujanya Poria}},
+  year = {2025},
+  eprint = {2510.05137v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.05137v3},
+  note = {First published: 2025-10-01; Recorded arXiv version: v3; Recorded version updated: 2025-12-10T06:18:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

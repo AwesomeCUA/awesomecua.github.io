@@ -1,3 +1,11 @@
+---
+title: "WeaveBench (huggingface.co/datasets/wanlilll/W… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6a212bc12f82c824f6b9/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # WeaveBench
 
 Computer-use benchmark mixing graphical interaction and code execution.

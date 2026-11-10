@@ -1,3 +1,11 @@
+---
+title: "Will GPT-4 Run DOOM? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-05468/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Will GPT-4 Run DOOM?
 
 Bibliographic record for Will GPT-4 Run DOOM?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Adrian de Wynter
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-05468/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-05468/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_05468,
+  title = {{Will GPT-4 Run DOOM?}},
+  author = {{Adrian de Wynter}},
+  year = {2024},
+  eprint = {2403.05468v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.05468v1},
+  note = {First published: 2024-03-08; Recorded arXiv version: v1; Recorded version updated: 2024-03-08T17:30:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

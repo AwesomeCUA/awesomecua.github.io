@@ -1,3 +1,11 @@
+---
+title: "perceive · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gauthierpiarrette-perceive/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # perceive
 
 perceive 是面向浏览器智能体的感知层，通过可达性筛选剔除不可交互或被遮挡的 DOM 元素。

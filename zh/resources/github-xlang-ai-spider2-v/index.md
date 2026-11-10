@@ -1,3 +1,11 @@
+---
+title: "Spider2-V · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-spider2-v/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # Spider2-V
 
 在数据科学和工程工作流程中评估视觉智能体。

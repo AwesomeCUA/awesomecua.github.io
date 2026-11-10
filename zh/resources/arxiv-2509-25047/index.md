@@ -1,3 +1,11 @@
+---
+title: "Scaling Synthetic Task Generation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-25047/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Scaling Synthetic Task Generation for Agents via Exploration
 
 AutoPlay 探索应用状态和功能以生成任务，再用模型执行器和验证器构建示范。它为 UI 智能体的监督学习和强化学习生成覆盖 20 个 Android 应用的 20,000 项任务，以及覆盖 13 个 Ubuntu 应用的 10,000 项任务。
@@ -27,6 +35,18 @@ Ram Ramrakhya, Andrew Szot, Omar Attia, Yuhao Yang, Anh Nguyen, Bogdan Mazoure, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-25047/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-25047/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_25047,
+  title = {{Scaling Synthetic Task Generation for Agents via Exploration}},
+  author = {{Ram Ramrakhya} and {Andrew Szot} and {Omar Attia} and {Yuhao Yang} and {Anh Nguyen} and {Bogdan Mazoure} and {Zhe Gan} and {Harsh Agrawal} and {Alexander Toshev}},
+  year = {2025},
+  eprint = {2509.25047v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.25047v1},
+  note = {First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T17:00:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

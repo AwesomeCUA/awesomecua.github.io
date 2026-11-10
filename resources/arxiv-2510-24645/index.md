@@ -1,3 +1,11 @@
+---
+title: "FunReason-MT Technical Report: Advanced Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24645/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # FunReason-MT Technical Report: Advanced Data Synthesis Solution for Real-world Multi-Turn Tool-use
 
 Bibliographic record for FunReason-MT Technical Report: Advanced Data Synthesis Solution for Real-world Multi-Turn Tool-use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zengzhuang Xu, Bingguang Hao, Zechuan Wang, Yuntao Wen, Xinyi Xu, Yang Liu, Long
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24645/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24645/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24645,
+  title = {{FunReason-MT Technical Report: Advanced Data Synthesis Solution for Real-world Multi-Turn Tool-use}},
+  author = {{Zengzhuang Xu} and {Bingguang Hao} and {Zechuan Wang} and {Yuntao Wen} and {Xinyi Xu} and {Yang Liu} and {Long Chen} and {Dong Wang} and {Maolin Wang} and {Tong Zhao} and {Yicheng Chen} and {Cunyin Peng} and {Jinjie Gu} and {Leilei Gan} and {Xiangyu Zhao} and {Chenyi Zhuang} and {Shi Gu}},
+  year = {2025},
+  eprint = {2510.24645v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24645v2},
+  note = {First published: 2025-10-28; Recorded arXiv version: v2; Recorded version updated: 2025-11-16T17:39:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

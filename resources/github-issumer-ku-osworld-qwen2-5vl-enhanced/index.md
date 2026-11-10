@@ -1,3 +1,11 @@
+---
+title: "OSWorld Qwen2.5-VL Enhanced | AwesomeCUA"
+url: https://awesomecua.com/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OSWorld Qwen2.5-VL Enhanced
 
 Provides an OpenAI-compatible Qwen2.5-VL computer-use agent and multi-environment evaluation runner for OSWorld.

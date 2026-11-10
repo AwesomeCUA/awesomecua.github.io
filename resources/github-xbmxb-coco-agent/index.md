@@ -1,3 +1,11 @@
+---
+title: "CoCo-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xbmxb-coco-agent/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # CoCo-Agent
 
 Research implementation combining screen and layout perception with conditional action prediction for smartphone automation.

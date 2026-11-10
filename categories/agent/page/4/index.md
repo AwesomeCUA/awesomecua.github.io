@@ -1,10 +1,17 @@
+---
+title: "Computer-use agents, page 4 | AwesomeCUA"
+url: https://awesomecua.com/categories/agent/page/4/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agents, page 4
 
 HTML page: https://awesomecua.com/categories/agent/page/4/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
-- [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/)
 - [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/)
 - [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/)
 - [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)
@@ -35,7 +42,6 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/)
 - [Market Basket Agent](https://awesomecua.com/resources/github-0xyene-market-basket-agent/)
 - [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/)
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)
 - [MealPilot](https://awesomecua.com/resources/github-raunak-choudhary-hack-princeton-mealpilot/)
 - [MediSetu Lens](https://awesomecua.com/resources/github-furyydev-medisetu-lens/)
 - [MERRICK](https://awesomecua.com/resources/github-simoncheungai-merrick/)
@@ -104,3 +110,5 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Pegoles Agent](https://awesomecua.com/resources/github-zezortdx-pegoles-agent/)
 - [PhysiClaw](https://awesomecua.com/resources/github-physiclaw-physiclaw/)
 - [Pi Jev Browser](https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/)
+- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/resources/github-333-wg-pi-wm/)
+- [Piskie](https://awesomecua.com/resources/github-piskie-dev-piskie/)

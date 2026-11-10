@@ -1,3 +1,11 @@
+---
+title: "2T1R Regulated Memristor Conductance Control… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12830/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # 2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "TeleTune: Evolving Agent Skills From… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-05437/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # TeleTune: Evolving Agent Skills From Offline Telemetry
 
 提出 TeleTune，利用目标缺失或任务交错的软件操作离线日志，通过留出数据上的动作预测来编辑文本技能库。学得的工作流程还用于指导后续网页智能体执行时检索示范。
@@ -27,6 +35,18 @@ Justin Chih-Yao Chen, Elias Stengel-Eskin, Yan Chen, Pol Llado, Scott Counts, Mo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-05437/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-05437/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05437,
+  title = {{TeleTune: Evolving Agent Skills From Offline Telemetry}},
+  author = {{Justin Chih-Yao Chen} and {Elias Stengel-Eskin} and {Yan Chen} and {Pol Llado} and {Scott Counts} and {Mohit Bansal} and {Benjamin Van Durme} and {Harsh Jhamtani} and {Gaurav Verma}},
+  year = {2026},
+  eprint = {2610.05437v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05437v2},
+  note = {First published: 2026-10-04; Recorded arXiv version: v2; Recorded version updated: 2026-10-06T03:17:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

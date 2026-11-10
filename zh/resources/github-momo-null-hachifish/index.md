@@ -1,3 +1,11 @@
+---
+title: "Hachifish · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-momo-null-hachifish/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Hachifish
 
 Hachifish 是在设备端运行的 Android GUI 智能体，通过原生 AccessibilityService 执行自然语言任务，并在完成前进行检查。

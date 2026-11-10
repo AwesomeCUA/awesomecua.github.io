@@ -1,3 +1,11 @@
+---
+title: "Aria-UI/Aria-UI-base · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2866edbea80fa34aa684/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Aria-UI/Aria-UI-base
 
 Aria-UI/Aria-UI-base 是 GUI 定位模型权重，可根据指令和界面图像输出目标坐标；模型卡介绍了结合历史输入的方式及推理示例。

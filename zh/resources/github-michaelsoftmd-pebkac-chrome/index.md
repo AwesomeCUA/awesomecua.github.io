@@ -1,3 +1,11 @@
+---
+title: "pebkac · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-michaelsoftmd-pebkac-chrome/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # pebkac
 
 自托管网页协同浏览工具，由运行本地 llama.cpp 模型的 smolagents 代码智能体编写 Python，通过 Zendriver 驱动 Chrome 浏览、按 CSS 选择器点击和输入、用 Trafilatura 提取文本及管理标签页。

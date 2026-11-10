@@ -1,3 +1,11 @@
+---
+title: "REFRACT-PPTX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # REFRACT-PPTX
 
 Agent-guided generation and multi-dimensional visual evaluation benchmark for editable PowerPoint presentation decks.

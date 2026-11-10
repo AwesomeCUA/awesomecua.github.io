@@ -1,3 +1,11 @@
+---
+title: "When Bots Take the Bait: Exposing and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-07263/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent
 
 Studies deceptive social-engineering web patterns targeting browser automation agents and proposes defenses against bait-based manipulation.
@@ -26,6 +34,18 @@ Xinyi Wu, Geng Hong, Yueyue Chen, MingXuan Liu, Feier Jin, Xudong Pan, Jiarun Da
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-07263/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-07263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_07263,
+  title = {{When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent}},
+  author = {{Xinyi Wu} and {Geng Hong} and {Yueyue Chen} and {MingXuan Liu} and {Feier Jin} and {Xudong Pan} and {Jiarun Dai} and {Baojun Liu}},
+  year = {2026},
+  eprint = {2601.07263v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.07263v1},
+  note = {First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T07:10:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

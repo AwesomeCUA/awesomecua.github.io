@@ -1,3 +1,11 @@
+---
+title: "ScreenParse Webshot toolkit · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saidgurbuz-screenparse/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # ScreenParse Webshot toolkit
 
 ScreenParse 官方代码：Webshot 工具集使用 Playwright 渲染网站，将可见 DOM 元素记录为带边界框的嵌套标注，再用 Qwen3-VL 重新标注、导出 YOLO 数据并评估解析器。

@@ -1,3 +1,11 @@
+---
+title: "Minecraft-RL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-otsolappalainen-minecraft-rl/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Minecraft-RL
 
 Trains Proximal Policy Optimization (PPO) agents over visual frame buffers and action sockets in parallel Minecraft environments.

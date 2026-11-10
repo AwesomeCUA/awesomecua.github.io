@@ -1,3 +1,11 @@
+---
+title: "FraudSMSWalker: Benchmarking Agentic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-16659/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # FraudSMSWalker: Benchmarking Agentic Large Language Models for SMS-to-Webpage Fraud Detection
 
 FraudSMSWalker 在隐藏 URL 和信誉捷径的条件下，测试浏览器智能体对双语短信及其链接网页的欺诈判断。受控链条包含难以判别的正常登录和支付案例，并评估分类是否有可见短信与网页证据支持。
@@ -27,6 +35,18 @@ Y. H. Zhou, Z. M. Ma, Y. J. Zhou, Y. T. Li, H. X. Xiang, Y. M. Cheng, T. L. Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-16659/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-16659/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_16659,
+  title = {{FraudSMSWalker: Benchmarking Agentic Large Language Models for SMS-to-Webpage Fraud Detection}},
+  author = {{Y. H. Zhou} and {Z. M. Ma} and {Y. J. Zhou} and {Y. T. Li} and {H. X. Xiang} and {Y. M. Cheng} and {T. L. Chen} and {K. J. Zhang} and {Z. H. Nan} and {J. H. Ni} and {Z. Wu} and {Q. Y. Pan} and {S. Zhang} and {S. Cheng} and {M. Y. Luo}},
+  year = {2026},
+  eprint = {2606.16659v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.16659v1},
+  note = {First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T12:53:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

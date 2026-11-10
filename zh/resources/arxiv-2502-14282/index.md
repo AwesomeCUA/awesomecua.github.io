@@ -1,3 +1,11 @@
+---
+title: "PC-Agent: A Hierarchical Multi-Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-14282/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC
 
 在 PC 工作流程中，利用主动感知和分层智能体完成指令拆解、进度跟踪、操作选择与反思。
@@ -27,6 +35,18 @@ Haowei Liu, Xi Zhang, Haiyang Xu, Yuyang Wanyan, Junyang Wang, Ming Yan, Ji Zhan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-14282/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-14282/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_14282,
+  title = {{PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC}},
+  author = {{Haowei Liu} and {Xi Zhang} and {Haiyang Xu} and {Yuyang Wanyan} and {Junyang Wang} and {Ming Yan} and {Ji Zhang} and {Chunfeng Yuan} and {Changsheng Xu} and {Weiming Hu} and {Fei Huang}},
+  year = {2025},
+  eprint = {2502.14282v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.14282v2},
+  note = {First published: 2025-02-20; Recorded arXiv version: v2; Recorded version updated: 2025-02-21T02:54:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

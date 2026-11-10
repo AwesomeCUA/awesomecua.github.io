@@ -1,3 +1,11 @@
+---
+title: "Benchmarking the Benchmarks: A Validity Audit… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-02577/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Benchmarking the Benchmarks: A Validity Audit of Tool-Calling Evaluation
 
 Status: excluded from the active CUA catalog after scope review.

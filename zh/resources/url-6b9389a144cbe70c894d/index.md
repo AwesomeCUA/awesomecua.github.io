@@ -1,3 +1,11 @@
+---
+title: "ShowUI-Narrator · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6b9389a144cbe70c894d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ShowUI-Narrator
 
 一款已发布的 2B 模型，用于描述 GUI 截图和视频中的用户操作；其处理流程会检测光标并处理裁剪后的画面。

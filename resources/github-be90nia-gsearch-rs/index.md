@@ -1,3 +1,11 @@
+---
+title: "gsearch-rs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-be90nia-gsearch-rs/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gsearch-rs
 
 Single-binary zero-extension Rust CLI driving local Chrome for AI-first web search and page extraction.

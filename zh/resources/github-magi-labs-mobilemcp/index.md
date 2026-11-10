@@ -1,3 +1,11 @@
+---
+title: "MobileMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magi-labs-mobilemcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MobileMCP
 
 MobileMCP 通过设备端 AccessibilityService 应用，让 AI 智能体经由 WebSocket 控制实体 Android 手机，无需 ADB 或 root 权限。

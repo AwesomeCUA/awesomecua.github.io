@@ -1,3 +1,11 @@
+---
+title: "Optics Framework · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mozarkai-optics-framework/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Optics Framework
 
 Optics Framework 是面向移动端、网页和 TV 界面的自修复测试自动化引擎，提供 Vision/OCR 备用方案和 MCP 服务器。

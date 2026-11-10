@@ -1,3 +1,11 @@
+---
+title: "Learning to Adapt: Self-Improving Web Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-31365/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration
 
 Introduces SCALE, which uses exploration roles and graph planning to train web agents, and SCALE-20k, a dataset of tasks and demonstrations from real websites.
@@ -26,6 +34,18 @@ Weile Chen, Bingchen Miao, Qifan Yu, Wendong Bu, Guoming Wang, Wenqiao Zhang, Sh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-31365/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-31365/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_31365,
+  title = {{Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration}},
+  author = {{Weile Chen} and {Bingchen Miao} and {Qifan Yu} and {Wendong Bu} and {Guoming Wang} and {Wenqiao Zhang} and {Shengyu Zhang} and {Juncheng Li} and {Siliang Tang}},
+  year = {2026},
+  eprint = {2605.31365v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.31365v1},
+  note = {First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T14:37:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

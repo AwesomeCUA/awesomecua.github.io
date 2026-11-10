@@ -1,3 +1,11 @@
+---
+title: "jev-browser (github.com/doruktarhan/jev-browse… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-doruktarhan-jev-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # jev-browser
 
 jev-browser is a Claude Code skill and CLI (`jb`) that delegates multi-step web navigation to the Jev System-One action model.

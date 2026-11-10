@@ -1,3 +1,11 @@
+---
+title: "UI Image to Code Studio · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zwq-top-ui-image-to-code-studio/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UI Image to Code Studio
 
 Codex 技能，可将 UI 截图和运行中的网站转换为 React、Vue 或 HTML 代码，并通过浏览器进行视觉验证。

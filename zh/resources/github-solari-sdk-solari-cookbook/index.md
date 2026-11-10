@@ -1,3 +1,11 @@
+---
+title: "Solari Cookbook · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-solari-sdk-solari-cookbook/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Solari Cookbook
 
 Solari Cookbook 汇集云浏览器、沙箱和桌面的可运行示例，包括浏览器会话录制，以及在 Linux 图形界面上截图、点击和输入。

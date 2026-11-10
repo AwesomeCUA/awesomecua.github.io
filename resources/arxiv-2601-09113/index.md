@@ -1,3 +1,11 @@
+---
+title: "The AI Hippocampus: How Far are We From Human… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-09113/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The AI Hippocampus: How Far are We From Human Memory?
 
 Status: excluded from the active CUA catalog after scope review.

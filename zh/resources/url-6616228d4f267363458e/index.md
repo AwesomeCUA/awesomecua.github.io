@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6616228d4f267363458e/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # OpenMobile-8B
 
 采用 Qwen3-VL 架构的移动端智能体检查点，随 OpenMobile 发布并在其合成 Android 轨迹上微调；代码 README 使用 vLLM 提供 AndroidWorld 评估服务。

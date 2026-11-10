@@ -1,3 +1,11 @@
+---
+title: "ApexCommander-RS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-buckster123-apexcommander-rs/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ApexCommander-RS
 
 以 AT-SPI 为优先的 Linux 计算机使用 CLI 和 Model Context Protocol 服务器，使用 Rust 编写。

@@ -1,3 +1,11 @@
+---
+title: "DevOps-Gym: Benchmarking AI Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-20882/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle
 
 Bibliographic record for DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuheng Tang, Kaijie Zhu, Bonan Ruan, Chuqi Zhang, Michael Yang, Hongwei Li, Suyu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-20882/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-20882/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_20882,
+  title = {{DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle}},
+  author = {{Yuheng Tang} and {Kaijie Zhu} and {Bonan Ruan} and {Chuqi Zhang} and {Michael Yang} and {Hongwei Li} and {Suyue Guo} and {Tianneng Shi} and {Zekun Li} and {Christopher Kruegel} and {Giovanni Vigna} and {Dawn Song} and {William Yang Wang} and {Lun Wang} and {Yangruibo Ding} and {Zhenkai Liang} and {Wenbo Guo}},
+  year = {2026},
+  eprint = {2601.20882v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.20882v1},
+  note = {First published: 2026-01-27; Recorded arXiv version: v1; Recorded version updated: 2026-01-27T18:43:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

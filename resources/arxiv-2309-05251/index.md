@@ -1,3 +1,11 @@
+---
+title: "Multi3DRefer: Grounding Text Description to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-05251/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi3DRefer: Grounding Text Description to Multiple 3D Objects
 
 Status: excluded from the active CUA catalog after scope review.

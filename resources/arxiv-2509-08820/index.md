@@ -1,3 +1,11 @@
+---
+title: "RoboChemist: Long-Horizon and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-08820/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation
 
 Status: excluded from the active CUA catalog after scope review.

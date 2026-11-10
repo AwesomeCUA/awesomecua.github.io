@@ -1,3 +1,11 @@
+---
+title: "X Article Publisher Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wshuyi-x-article-publisher-skill/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # X Article Publisher Skill
 
 A Claude Code skill that converts a Markdown file to HTML and uses Playwright MCP to fill the X Articles editor, paste rich text, insert images by block index and save a draft.

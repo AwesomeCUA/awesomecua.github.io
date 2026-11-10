@@ -1,3 +1,11 @@
+---
+title: "ShowUI-web-8K | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2260aaa47fb9c63bb917/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # ShowUI-web-8K
 
 An 8K-sample subset of ShowUI-web with screenshots from varied websites for training GUI grounding models in web interfaces.

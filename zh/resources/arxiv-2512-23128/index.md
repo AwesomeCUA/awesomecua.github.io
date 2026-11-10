@@ -1,3 +1,11 @@
+---
+title: "It's a TRAP! Task-Redirecting Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-23128/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents
 
 TRAP 评估嵌入真实感网页界面的任务重定向攻击。可控的网站克隆和模块化注入框架支持比较不同智能体所受的说服手法及上下文变化的影响。
@@ -27,6 +35,18 @@ Karolina Korgul, Yushi Yang, Arkadiusz Drohomirecki, Piotr Błaszczyk, Will Howa
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-23128/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-23128/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_23128,
+  title = {{It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents}},
+  author = {{Karolina Korgul} and {Yushi Yang} and {Arkadiusz Drohomirecki} and {Piotr Błaszczyk} and {Will Howard} and {Lukas Aichberger} and {Chris Russell} and {Philip H. S. Torr} and {Adam Mahdi} and {Adel Bibi}},
+  year = {2025},
+  eprint = {2512.23128v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.23128v3},
+  note = {First published: 2025-12-29; Recorded arXiv version: v3; Recorded version updated: 2026-07-02T16:12:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

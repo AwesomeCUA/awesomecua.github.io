@@ -1,3 +1,11 @@
+---
+title: "WebRL Llama 3.1 8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a6ee20fea67438d91e06/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # WebRL Llama 3.1 8B
 
 WebRL 浏览器策略模型检查点，用于在 WebArena 的 5 个网站环境中执行操作。

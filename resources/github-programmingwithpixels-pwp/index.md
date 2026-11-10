@@ -1,3 +1,11 @@
+---
+title: "Programming with Pixels (PwP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-programmingwithpixels-pwp/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Programming with Pixels (PwP)
 
 Programming with Pixels provides a framework and benchmark for software-engineering agents that work in IDEs through screenshots, typing, and clicks.

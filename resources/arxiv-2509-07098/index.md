@@ -1,3 +1,11 @@
+---
+title: "Instruction Agent: Enhancing Agent with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-07098/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Instruction Agent: Enhancing Agent with Expert Demonstration
 
 Introduces Instruction Agent, a GUI agent that follows instructions extracted from one expert demonstration and uses verification and backtracking to handle interruptions.
@@ -26,6 +34,18 @@ Yinheng Li, Hailey Hultquist, Justin Wagle, Kazuhito Koishida
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-07098/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-07098/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_07098,
+  title = {{Instruction Agent: Enhancing Agent with Expert Demonstration}},
+  author = {{Yinheng Li} and {Hailey Hultquist} and {Justin Wagle} and {Kazuhito Koishida}},
+  year = {2025},
+  eprint = {2509.07098v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.07098v1},
+  note = {First published: 2025-09-08; Recorded arXiv version: v1; Recorded version updated: 2025-09-08T18:00:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

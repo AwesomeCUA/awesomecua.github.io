@@ -1,3 +1,11 @@
+---
+title: "KLong: Training LLM Agent for Extremely… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-17547/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # KLong: Training LLM Agent for Extremely Long-horizon Tasks
 
 Status: excluded from the active CUA catalog after scope review.

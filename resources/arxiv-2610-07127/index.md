@@ -1,3 +1,11 @@
+---
+title: "PlaySuite: A Large-Scale Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-07127/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence
 
 Introduces PlaySuite, a closed-loop video-game benchmark that evaluates interactive visual agents, including computer-use agents, over extended play.
@@ -26,6 +34,18 @@ Dheeraj Varghese, Anna Vettoruzzo, Walter Simoncini, Michelle Lorena Acevedo Cal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07127/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07127/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07127,
+  title = {{PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence}},
+  author = {{Dheeraj Varghese} and {Anna Vettoruzzo} and {Walter Simoncini} and {Michelle Lorena Acevedo Callejas} and {Mohammad Mahdi Derakhshani} and {Kristof Meding} and {Joaquin Vanschoren} and {Cees G. M. Snoek}},
+  year = {2026},
+  eprint = {2610.07127v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07127v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:52:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

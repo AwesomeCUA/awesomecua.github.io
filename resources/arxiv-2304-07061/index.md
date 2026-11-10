@@ -1,3 +1,11 @@
+---
+title: "DroidBot-GPT: GPT-powered UI Automation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-07061/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # DroidBot-GPT: GPT-powered UI Automation for Android
 
 Transforms Android UI states and available actions into language prompts for an LLM to choose and execute task steps.
@@ -26,6 +34,18 @@ Hao Wen, Hongming Wang, Jiaxuan Liu, Yuanchun Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-07061/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-07061/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_07061,
+  title = {{DroidBot-GPT: GPT-powered UI Automation for Android}},
+  author = {{Hao Wen} and {Hongming Wang} and {Jiaxuan Liu} and {Yuanchun Li}},
+  year = {2023},
+  eprint = {2304.07061v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.07061v5},
+  note = {First published: 2023-04-14; Recorded arXiv version: v5; Recorded version updated: 2024-01-07T08:23:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

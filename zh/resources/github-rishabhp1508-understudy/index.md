@@ -1,3 +1,11 @@
+---
+title: "RishabhP1508 Understudy · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rishabhp1508-understudy/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # RishabhP1508 Understudy
 
 将 LLM 驱动的单次传统 UI 探索记录为类型化能力产物，以便在不使用 LLM 的情况下确定性重放。

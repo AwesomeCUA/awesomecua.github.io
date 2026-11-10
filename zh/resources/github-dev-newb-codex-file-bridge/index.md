@@ -1,3 +1,11 @@
+---
+title: "Codex File Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dev-newb-codex-file-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex File Bridge
 
 Codex 技能，可根据文件名可靠地将本地文件上传到浏览器文件选择对话框。

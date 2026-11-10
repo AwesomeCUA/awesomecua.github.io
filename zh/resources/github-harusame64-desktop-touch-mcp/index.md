@@ -1,3 +1,11 @@
+---
+title: "desktop-touch-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-harusame64-desktop-touch-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # desktop-touch-mcp
 
 Windows 计算机使用 MCP 服务器，通过先发现后执行的语义 UI Automation 定位来操控桌面应用。

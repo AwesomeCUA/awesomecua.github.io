@@ -1,3 +1,11 @@
+---
+title: "widget-caption · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-datasets-widget-caption/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # widget-caption
 
 一个描述界面控件功能的说明文字数据集，用于训练和评估界面元素描述模型。它包含 61,286 个带说明文字的控件。

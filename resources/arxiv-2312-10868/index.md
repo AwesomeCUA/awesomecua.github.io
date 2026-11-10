@@ -1,3 +1,11 @@
+---
+title: "From Google Gemini to OpenAI Q* (Q-Star): A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-10868/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape
 
 Bibliographic record for From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Timothy R. McIntosh, Teo Susnjak, Tong Liu, Paul Watters, Malka N. Halgamuge
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-10868/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-10868/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_10868,
+  title = {{From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape}},
+  author = {{Timothy R. McIntosh} and {Teo Susnjak} and {Tong Liu} and {Paul Watters} and {Malka N. Halgamuge}},
+  year = {2023},
+  eprint = {2312.10868v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.10868v1},
+  note = {First published: 2023-12-18; Recorded arXiv version: v1; Recorded version updated: 2023-12-18T01:11:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

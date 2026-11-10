@@ -1,3 +1,11 @@
+---
+title: "When Web Agents Finish but Still Fail… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-20724/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # When Web Agents Finish but Still Fail: Reproducible Triggers and Trace Diagnostics for Parallel Web Exploration
 
 提出 Parallel WebBench 评估并行网页探索，并利用经核实的 URL 轨迹分析搜索循环、答案缺项及检索到证据后仍出错的情况。
@@ -27,6 +35,18 @@ Aagam Sogani, Botao Rui, Swetha Vaidyanathan, Rishi Agarwal, Minghao Yan, Shivar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-20724/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-20724/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_20724,
+  title = {{When Web Agents Finish but Still Fail: Reproducible Triggers and Trace Diagnostics for Parallel Web Exploration}},
+  author = {{Aagam Sogani} and {Botao Rui} and {Swetha Vaidyanathan} and {Rishi Agarwal} and {Minghao Yan} and {Shivaram Venkataraman}},
+  year = {2026},
+  eprint = {2606.20724v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.20724v2},
+  note = {First published: 2026-06-16; Recorded arXiv version: v2; Recorded version updated: 2026-06-29T04:16:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

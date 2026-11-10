@@ -1,3 +1,11 @@
+---
+title: "Qwen3-8B-FormFactory-SFT-LoRA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-994d4cf27b0931fb53e3/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-8B-FormFactory-SFT-LoRA
 
 一个 Qwen3-8B LoRA 适配器，使用 992 条示范数据针对 FormFactory 网页表单填写任务进行微调，并提供通过 PEFT 加载的说明。

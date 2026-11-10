@@ -1,3 +1,11 @@
+---
+title: "Minecraft-RL · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-otsolappalainen-minecraft-rl/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Minecraft-RL
 
 在并行 Minecraft 环境中，基于视觉帧缓冲区和动作套接字训练 Proximal Policy Optimization (PPO) 智能体。

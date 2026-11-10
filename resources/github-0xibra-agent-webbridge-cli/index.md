@@ -1,3 +1,11 @@
+---
+title: "Agent WebBridge CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-0xibra-agent-webbridge-cli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent WebBridge CLI
 
 Clean-room local CDP relay (MV3 Chrome extension + daemon + CLI) for driving a user's real Chrome browser.

@@ -1,3 +1,11 @@
+---
+title: "OS-Critic Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c73ba0618d1b3c505887/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # OS-Critic Bench
 
 跨平台 GUI 评判基准，包含移动端、桌面端和网页的 JSONL 数据划分及截图资源，并附公开的推理与准确率评分脚本。

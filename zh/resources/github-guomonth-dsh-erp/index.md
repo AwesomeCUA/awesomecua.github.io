@@ -1,3 +1,11 @@
+---
+title: "Adapt ERP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guomonth-dsh-erp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Adapt ERP
 
 Adapt ERP 是 DeepSeek Harness 插件，可探索已登录的 ERP 页面，在本地索引观察到的菜单和字段，并在写入前请求批准。

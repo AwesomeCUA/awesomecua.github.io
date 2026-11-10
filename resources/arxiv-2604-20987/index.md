@@ -1,3 +1,11 @@
+---
+title: "Co-Evolving LLM Decision and Skill Bank… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-20987/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
 
 Status: excluded from the active CUA catalog after scope review.

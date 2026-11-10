@@ -1,3 +1,11 @@
+---
+title: "Hikari (光) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-codewithevilxd-hikari/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Hikari (光)
 
 面向 Windows 的自主 AI 桌面智能体，能够控制 GUI、管理系统并执行多步骤任务。

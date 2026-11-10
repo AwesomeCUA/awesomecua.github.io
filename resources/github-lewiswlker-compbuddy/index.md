@@ -1,3 +1,11 @@
+---
+title: "CompBuddy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lewiswlker-compbuddy/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # CompBuddy
 
 CompBuddy is a background macOS computer-use agent that observes target windows and dispatches Accessibility and CGEvent actions without stealing focus.

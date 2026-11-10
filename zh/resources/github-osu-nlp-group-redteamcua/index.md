@@ -1,3 +1,11 @@
+---
+title: "RedTeamCUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-redteamcua/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # RedTeamCUA
 
 结合桌面虚拟机和复刻网站的受控测试框架，用于评估计算机使用智能体应对间接提示注入的表现。

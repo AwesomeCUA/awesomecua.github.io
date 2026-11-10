@@ -1,3 +1,11 @@
+---
+title: "MFAAvalonia · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sweetsmellfox-mfaavalonia/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MFAAvalonia
 
 基于 Avalonia 的 MaaFramework 资源项目跨平台桌面图形界面，读取 Project Interface V2 定义，让用户配置、定时并运行自动化任务。

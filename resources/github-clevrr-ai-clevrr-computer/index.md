@@ -1,3 +1,11 @@
+---
+title: "Clevrr Computer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-clevrr-ai-clevrr-computer/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Clevrr Computer
 
 Clevrr Computer is a PyAutoGUI-based desktop automation agent that captures screenshots and executes mouse and keyboard actions from LLM plans.

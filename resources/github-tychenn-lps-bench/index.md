@@ -1,3 +1,11 @@
+---
+title: "LPS-Bench (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tychenn-lps-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # LPS-Bench
 
 LPS-Bench benchmarks the safety awareness of computer-use agents during long-horizon planning across benign and adversarial execution scenarios.

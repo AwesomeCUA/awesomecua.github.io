@@ -1,3 +1,11 @@
+---
+title: "Can Graph Learning Improve Planning in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-19119/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Can Graph Learning Improve Planning in LLM-based Agents?
 
 Status: excluded from the active CUA catalog after scope review.

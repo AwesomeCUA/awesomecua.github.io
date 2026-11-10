@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Verified trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2c99f0de2840277abc72/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # OSWorld-Verified trajectories
 
 收录多种计算机使用智能体在 Ubuntu 上以不同步数预算运行 OSWorld-Verified 的评估轨迹；每个归档含截图、操作、模型推理和逐任务结果，供分析使用。

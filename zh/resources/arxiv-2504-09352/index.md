@@ -1,3 +1,11 @@
+---
+title: "Explorer: Robust Collection of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-09352/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Explorer: Robust Collection of Interactable GUI Elements
 
 Explorer 从运行中的目标应用收集可交互 GUI 元素，并记录用户会话，用于训练应用专用模型。它将重复出现的界面状态关联成导航图，支持路径规划和语音指令交互。
@@ -27,6 +35,18 @@ Iason Chaimalas, Arnas Vyšniauskas, Gabriel Brostow
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-09352/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-09352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_09352,
+  title = {{Explorer: Robust Collection of Interactable GUI Elements}},
+  author = {{Iason Chaimalas} and {Arnas Vyšniauskas} and {Gabriel Brostow}},
+  year = {2025},
+  eprint = {2504.09352v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.09352v1},
+  note = {First published: 2025-04-12; Recorded arXiv version: v1; Recorded version updated: 2025-04-12T22:02:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

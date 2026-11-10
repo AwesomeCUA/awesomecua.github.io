@@ -1,3 +1,11 @@
+---
+title: "WebUI: A Dataset for Enhancing Visual UI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-13280/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics
 
 Collects rendered webpages and structural metadata for visual UI modeling, studying how web semantics transfer to interface-understanding tasks.
@@ -26,6 +34,18 @@ Jason Wu, Siyan Wang, Siman Shen, Yi-Hao Peng, Jeffrey Nichols, Jeffrey P. Bigha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-13280/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-13280/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_13280,
+  title = {{WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics}},
+  author = {{Jason Wu} and {Siyan Wang} and {Siman Shen} and {Yi-Hao Peng} and {Jeffrey Nichols} and {Jeffrey P. Bigham}},
+  year = {2023},
+  eprint = {2301.13280v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.13280v1},
+  note = {First published: 2023-01-30; Recorded arXiv version: v1; Recorded version updated: 2023-01-30T20:47:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

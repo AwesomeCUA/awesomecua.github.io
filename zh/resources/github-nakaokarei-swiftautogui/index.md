@@ -1,3 +1,11 @@
+---
+title: "SwiftAutoGUI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nakaokarei-swiftautogui/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # SwiftAutoGUI
 
 SwiftAutoGUI 是一个用于 macOS GUI 自动化的原生 Swift 库，提供鼠标、键盘、截图、模板匹配和 AppleScript 控制功能。

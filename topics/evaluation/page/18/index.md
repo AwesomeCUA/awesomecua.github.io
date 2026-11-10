@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 18 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/18/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 18
 
 HTML page: https://awesomecua.com/topics/evaluation/page/18/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/)
 - [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/)
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/)
 - [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [taskproof](https://awesomecua.com/resources/github-taskproof-taskproof/)
 - [TestPilot](https://awesomecua.com/resources/github-h0ngza1-testpilot/)
 - [TheAgentCompany](https://awesomecua.com/resources/github-theagentcompany-theagentcompany/)
+- [TimeWarp](https://awesomecua.com/resources/github-sparklabutah-timewarp/)

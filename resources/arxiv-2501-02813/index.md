@@ -1,3 +1,11 @@
+---
+title: "Multi-time scale and high performance… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-02813/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir
 
 Status: excluded from the active CUA catalog after scope review.

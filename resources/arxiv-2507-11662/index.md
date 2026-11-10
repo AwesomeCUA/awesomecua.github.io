@@ -1,3 +1,11 @@
+---
+title: "Let's Think in Two Steps: Mitigating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-11662/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification
 
 Studies agreement bias in multimodal agent verifiers across web navigation and computer use, and introduces SGV to assess trajectories using self-generated priors.
@@ -26,6 +34,18 @@ Moises Andrade, Joonhyuk Cha, Brandon Ho, Vriksha Srihari, Karmesh Yadav, Zsolt 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-11662/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-11662/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_11662,
+  title = {{Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification}},
+  author = {{Moises Andrade} and {Joonhyuk Cha} and {Brandon Ho} and {Vriksha Srihari} and {Karmesh Yadav} and {Zsolt Kira}},
+  year = {2025},
+  eprint = {2507.11662v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.11662v3},
+  note = {First published: 2025-07-15; Recorded arXiv version: v3; Recorded version updated: 2026-03-08T00:45:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

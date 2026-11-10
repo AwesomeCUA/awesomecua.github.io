@@ -1,3 +1,11 @@
+---
+title: "opencli-plugin-x-article-publisher | AwesomeCUA"
+url: https://awesomecua.com/resources/github-genoooool-opencli-plugin-x-article-publisher/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # opencli-plugin-x-article-publisher
 
 An OpenCLI plugin that uses a signed-in Chrome session to prepare X Articles from Markdown and local images, with an explicit command for public publishing.

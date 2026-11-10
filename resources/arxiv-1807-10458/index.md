@@ -1,3 +1,11 @@
+---
+title: "AXNet: ApproXimate computing using an… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1807-10458/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AXNet: ApproXimate computing using an end-to-end trainable neural network
 
 Status: excluded from the active CUA catalog after scope review.

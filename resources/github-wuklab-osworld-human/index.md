@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Human | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wuklab-osworld-human/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # OSWorld-Human
 
 Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.

@@ -1,3 +1,11 @@
+---
+title: "An Algorithm for Persistent Homology… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-01923/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Algorithm for Persistent Homology Computation Using Homomorphic Encryption
 
 Status: excluded from the active CUA catalog after scope review.

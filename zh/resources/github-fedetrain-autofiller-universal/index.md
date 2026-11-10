@@ -1,3 +1,11 @@
+---
+title: "AutoFiller Universal · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fedetrain-autofiller-universal/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AutoFiller Universal
 
 批量网页表单自动化框架，具备可自我修复的选择器，运行时无需 LLM。

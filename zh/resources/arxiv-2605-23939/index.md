@@ -1,3 +1,11 @@
+---
+title: "DRIVE: Modeling Skills at the Reasoning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-23939/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning
 
 DRIVE 将网页智能体可复用的推理技能与页面专属的交互技能分开，并检索两类技能，用于规划任务与执行网站操作。
@@ -27,6 +35,18 @@ Xirui Liu, Sihang Zhou, Yanning Hou, Rong Zhou, Haoyuan Chen, Maolin He, Siwei W
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-23939/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-23939/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_23939,
+  title = {{DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning}},
+  author = {{Xirui Liu} and {Sihang Zhou} and {Yanning Hou} and {Rong Zhou} and {Haoyuan Chen} and {Maolin He} and {Siwei Wang} and {Hao Chen} and {Jian Huang}},
+  year = {2026},
+  eprint = {2605.23939v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.23939v1},
+  note = {First published: 2026-04-28; Recorded arXiv version: v1; Recorded version updated: 2026-04-28T11:39:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

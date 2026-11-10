@@ -1,3 +1,11 @@
+---
+title: "mcp-chrome-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wizardofweb125-lab-mcp-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mcp-chrome-bridge
 
 用于控制 Chrome 标签页、表单、控制台及网络日志、截图和 GIF 录制的 Model Context Protocol 服务器。

@@ -1,3 +1,11 @@
+---
+title: "TipTour | AwesomeCUA"
+url: https://awesomecua.com/resources/github-milind-soni-tiptour-macos/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # TipTour
 
 macOS menu-bar agent that grounds clicks with a local Core ML control detector and accessibility tree, driven by TypeSafe's JEV text loop or Gemini realtime voice, with a localhost harness for other agents.

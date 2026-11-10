@@ -1,3 +1,11 @@
+---
+title: "PeekabooX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nordbyte-peekaboox/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # PeekabooX
 
 PeekabooX is a Linux desktop automation toolkit with screen capture, semantic UI inspection, input actions, and workflows exposed through CLI, Python, and MCP interfaces.

@@ -1,3 +1,11 @@
+---
+title: "LLMC+: Benchmarking Vision-Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-09981/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit
 
 Status: excluded from the active CUA catalog after scope review.

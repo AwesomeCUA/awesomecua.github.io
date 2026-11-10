@@ -1,3 +1,11 @@
+---
+title: "local-windows-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuhuison-local-windows-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # local-windows-use
 
 MCP server and CLI that lets frontier LLMs delegate token-heavy Windows desktop and browser clicking loops to compact local models.

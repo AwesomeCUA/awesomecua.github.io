@@ -1,3 +1,11 @@
+---
+title: "GroundGUI-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-de31b07ff24ab15d9bdf/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # GroundGUI-8B
 
 根据截图进行定位的模型检查点，在归一化坐标空间中输出单次点击位置。

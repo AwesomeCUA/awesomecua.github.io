@@ -1,3 +1,11 @@
+---
+title: "WorldSketch: Sketching World Models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-00513/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation
 
 Bibliographic record for WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaming Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-00513/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-00513/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00513,
+  title = {{WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation}},
+  author = {{Jiaming Wang}},
+  year = {2026},
+  eprint = {2611.00513v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00513v1},
+  note = {First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T01:06:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

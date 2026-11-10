@@ -1,3 +1,11 @@
+---
+title: "Spooky Action | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jumpsy-spooky-action/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Spooky Action
 
 Focus-free macOS computer-use tool that presses native Accessibility buttons in the background without moving the user's cursor.

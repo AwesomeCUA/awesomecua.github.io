@@ -1,3 +1,11 @@
+---
+title: "Kimi-VL-A3B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a42c3bca105218f17645/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Kimi-VL-A3B-Instruct
 
 Kimi-VL-A3B-Instruct 是视觉语言模型检查点；其模型卡报告了它在桌面智能体交互、屏幕定位及通用多模态任务上的表现。

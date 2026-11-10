@@ -1,3 +1,11 @@
+---
+title: "LocalFleet · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-varun-patkar-localfleet/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # LocalFleet
 
 本地优先的 AI 桌面和浏览器机器人团队，通过集成 LM Studio/Ollama 的统一聊天界面协调。

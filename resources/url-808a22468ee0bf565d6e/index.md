@@ -1,3 +1,11 @@
+---
+title: "TurkingBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-808a22468ee0bf565d6e/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # TurkingBench
 
 A web-agent benchmark built from crowdsourcing HTML tasks, with 32.2K instances across 158 tasks and a framework that applies model responses to page controls.

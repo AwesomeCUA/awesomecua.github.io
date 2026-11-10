@@ -1,3 +1,11 @@
+---
+title: "Holo4 35B-A3B BF16 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-16083a0225a60882c704/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Holo4 35B-A3B BF16
 
 基于 Qwen3.6 的计算机使用模型检查点，设计用于通过外部智能体运行框架请求 GUI 操作、代码执行和工具调用。

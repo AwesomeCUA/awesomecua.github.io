@@ -1,3 +1,11 @@
+---
+title: "planchette | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shahriarshm-planchette/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # planchette
 
 Lets a user point at any desktop application window to grant a coding agent scoped screenshot, click, and keyboard control over it.

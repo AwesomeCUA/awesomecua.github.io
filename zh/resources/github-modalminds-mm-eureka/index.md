@@ -1,3 +1,11 @@
+---
+title: "MM-Eureka · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-modalminds-mm-eureka/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # MM-Eureka
 
 MM-Eureka 提供基于 OpenRLHF 和 InternVL 的规则驱动多模态强化学习代码、模型和数据集。

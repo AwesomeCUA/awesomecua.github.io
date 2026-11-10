@@ -1,3 +1,11 @@
+---
+title: "FingerTip-20K · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tsinghua-fib-lab-fingertip-20k/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # FingerTip-20K
 
 收录 500+ 个应用中超过 20,000 段人类 Android 操作过程，包含用户上下文和长期使用模式，并设有主动意图预测与个性化执行任务方向。

@@ -1,3 +1,11 @@
+---
+title: "Cuse (macOS AI Cursor Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-muneebkhan08-cuse/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Cuse (macOS AI Cursor Agent)
 
 Cuse is an open-source voice-and-text AI cursor agent for macOS that visually localizes UI controls and executes mouse and keyboard tasks.

@@ -1,3 +1,11 @@
+---
+title: "CUA-Suite: Massive Human-annotated Video… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-24440/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents
 
 CUA-Suite 结合 VideoCUA 中连续的专家桌面操作演示、UI-Vision 评估基准和 GroundCUA 定位数据。屏幕录制、光标轨迹和分层标注支持研究时间维度上的行为及专业软件工作流。
@@ -27,6 +35,18 @@ Xiangru Jian, Shravan Nayak, Kevin Qinghong Lin, Aarash Feizi, Kaixin Li, Patric
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-24440/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-24440/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_24440,
+  title = {{CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents}},
+  author = {{Xiangru Jian} and {Shravan Nayak} and {Kevin Qinghong Lin} and {Aarash Feizi} and {Kaixin Li} and {Patrice Bechard} and {Spandana Gella} and {Sai Rajeswar}},
+  year = {2026},
+  eprint = {2603.24440v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.24440v1},
+  note = {First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T15:52:56Z.}
+}
+```
 
 ## arXiv 版本记录
 

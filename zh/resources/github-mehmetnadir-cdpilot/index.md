@@ -1,3 +1,11 @@
+---
+title: "cdpilot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mehmetnadir-cdpilot/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cdpilot
 
 零依赖的浏览器自动化 CLI，直接基于原始 Chrome DevTools Protocol WebSocket 构建，不使用 Playwright 或 Puppeteer。

@@ -1,3 +1,11 @@
+---
+title: "idb · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-facebook-idb/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # idb
 
 idb 是用于自动化操作 iOS 模拟器和设备的命令行工具及 Python 客户端，提供远程伴随进程，以及应用和测试流程所需的命令。

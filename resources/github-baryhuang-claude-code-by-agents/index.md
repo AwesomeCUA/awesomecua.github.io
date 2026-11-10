@@ -1,3 +1,11 @@
+---
+title: "Agentrooms | AwesomeCUA"
+url: https://awesomecua.com/resources/github-baryhuang-claude-code-by-agents/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agentrooms
 
 Agentrooms is a native macOS and iOS application for coordinating multiple local and remote coding agents in shared multi-agent workspaces.

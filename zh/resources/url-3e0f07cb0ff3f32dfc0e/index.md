@@ -1,3 +1,11 @@
+---
+title: "webarena-world-model-cot · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3e0f07cb0ff3f32dfc0e/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # webarena-world-model-cot
 
 用于训练语言世界模型的 WebArena 网页状态转移数据：将思维链标注与动作执行后无障碍树中的条目变化配对，供 RLVR-World 中的监督微调与 RLVR 训练使用。

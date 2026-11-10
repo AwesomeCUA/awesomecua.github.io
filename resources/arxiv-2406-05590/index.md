@@ -1,3 +1,11 @@
+---
+title: "NYU CTF Bench: A Scalable Open-Source… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-05590/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security
 
 Bibliographic record for NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Minghao Shao, Sofija Jancheska, Meet Udeshi, Brendan Dolan-Gavitt, Haoran Xi, Ki
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-05590/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-05590/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_05590,
+  title = {{NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security}},
+  author = {{Minghao Shao} and {Sofija Jancheska} and {Meet Udeshi} and {Brendan Dolan-Gavitt} and {Haoran Xi} and {Kimberly Milner} and {Boyuan Chen} and {Max Yin} and {Siddharth Garg} and {Prashanth Krishnamurthy} and {Farshad Khorrami} and {Ramesh Karri} and {Muhammad Shafique}},
+  year = {2024},
+  eprint = {2406.05590v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.05590v3},
+  note = {First published: 2024-06-08; Recorded arXiv version: v3; Recorded version updated: 2025-02-18T12:26:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

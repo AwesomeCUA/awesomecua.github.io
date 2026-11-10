@@ -1,3 +1,11 @@
+---
+title: "Glyph: Scaling Context Windows via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-17800/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Glyph: Scaling Context Windows via Visual-Text Compression
 
 Status: excluded from the active CUA catalog after scope review.

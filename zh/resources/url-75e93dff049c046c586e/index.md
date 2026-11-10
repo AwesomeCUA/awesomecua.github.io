@@ -1,3 +1,11 @@
+---
+title: "AndroidGen-Llama-3-70B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-75e93dff049c046c586e/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # AndroidGen-Llama-3-70B
 
 AndroidGen-Llama-3-70B 是一款已发布的模型，供智能体在消息、邮件和设置等 Android 应用中执行任务，无需人工标注的交互数据。

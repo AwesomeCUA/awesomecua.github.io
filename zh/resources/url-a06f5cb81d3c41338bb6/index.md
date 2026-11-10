@@ -1,3 +1,11 @@
+---
+title: "Firecrawl · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a06f5cb81d3c41338bb6/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Firecrawl
 
 面向 AI 智能体的托管网页数据 API，可搜索并抓取页面为 Markdown 或 JSON；其 Interact 端点和浏览器沙盒支持通过提示或 Playwright 代码点击、输入和填写表单。

@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint: Better Pointing for VLMs with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-28069/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # MolmoPoint: Better Pointing for VLMs with Grounding Tokens
 
 MolmoPoint replaces textual coordinate generation with pointing tokens that select visual regions and refine them through subpatches. The general image/video method includes GUI-pointing evaluation on ScreenSpotPro alongside other visual grounding tasks.
@@ -26,6 +34,18 @@ Christopher Clark, Yue Yang, Jae Sung Park, Zixian Ma, Jieyu Zhang, Rohun Tripat
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-28069/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-28069/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_28069,
+  title = {{MolmoPoint: Better Pointing for VLMs with Grounding Tokens}},
+  author = {{Christopher Clark} and {Yue Yang} and {Jae Sung Park} and {Zixian Ma} and {Jieyu Zhang} and {Rohun Tripathi} and {Mohammadreza Salehi} and {Sangho Lee} and {Taira Anderson} and {Winson Han} and {Ranjay Krishna}},
+  year = {2026},
+  eprint = {2603.28069v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.28069v1},
+  note = {First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T06:15:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

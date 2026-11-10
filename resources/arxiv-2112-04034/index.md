@@ -1,3 +1,11 @@
+---
+title: "Feasibility study of quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-04034/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Feasibility study of quantum computing using trapped electrons
 
 Status: excluded from the active CUA catalog after scope review.

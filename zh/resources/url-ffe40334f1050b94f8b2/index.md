@@ -1,3 +1,11 @@
+---
+title: "Magma-AITW-SoM · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ffe40334f1050b94f8b2/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Magma-AITW-SoM
 
 Magma-AITW-SoM 提供用于 Magma 多模态智能体下游任务微调的 AITW 数据。

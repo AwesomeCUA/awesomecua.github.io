@@ -1,3 +1,11 @@
+---
+title: "GUI-Libra | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gui-libra-gui-libra/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # GUI-Libra
 
 GUI-Libra provides training and evaluation pipelines for native GUI agents using action-aware supervision and partially verifiable RL.

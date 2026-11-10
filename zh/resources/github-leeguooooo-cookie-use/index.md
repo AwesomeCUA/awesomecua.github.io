@@ -1,3 +1,11 @@
+---
+title: "cookie-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leeguooooo-cookie-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # cookie-use
 
 cookie-use 将网站会话存入加密保管库，让智能体选择账户并将其会话应用到浏览器环境。

@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_plan_iterative (model) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e35db30fee209ef9b57d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # lumos_web_agent_plan_iterative
 
 A fine-tuned Lumos planning-module checkpoint for web-agent tasks, released as model weights alongside a separately listed training dataset.

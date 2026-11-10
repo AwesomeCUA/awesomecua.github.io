@@ -1,3 +1,11 @@
+---
+title: "OS-Themis: A Scalable Critic Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-19191/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards
 
 Presents OS-Themis, a multi-agent critic that divides GUI trajectories into verifiable milestones and reviews their evidence before assigning an outcome. OGRBench evaluates GUI rewards across platforms, with AndroidWorld experiments examining training and trajectory filtering.
@@ -26,6 +34,18 @@ Zehao Li, Zhenyu Wu, Yibo Zhao, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-19191/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-19191/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_19191,
+  title = {{OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards}},
+  author = {{Zehao Li} and {Zhenyu Wu} and {Yibo Zhao} and {Bowen Yang} and {Jingjing Xie} and {Zhaoyang Liu} and {Zhoumianze Liu} and {Kaiming Jin} and {Jianze Liang} and {Zonglin Li} and {Feng Wu} and {Bowen Zhou} and {Zun Wang} and {Zichen Ding}},
+  year = {2026},
+  eprint = {2603.19191v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.19191v1},
+  note = {First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T17:47:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

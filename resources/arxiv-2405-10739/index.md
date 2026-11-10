@@ -1,3 +1,11 @@
+---
+title: "Efficient Multimodal Large Language Models: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-10739/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Multimodal Large Language Models: A Survey
 
 Status: excluded from the active CUA catalog after scope review.

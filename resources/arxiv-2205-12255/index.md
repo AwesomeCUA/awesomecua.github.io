@@ -1,3 +1,11 @@
+---
+title: "TALM: Tool Augmented Language Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-12255/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TALM: Tool Augmented Language Models
 
 Status: excluded from the active CUA catalog after scope review.

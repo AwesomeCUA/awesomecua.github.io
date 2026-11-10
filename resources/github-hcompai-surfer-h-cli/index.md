@@ -1,3 +1,11 @@
+---
+title: "Surfer-H-CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hcompai-surfer-h-cli/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Surfer-H-CLI
 
 Deprecated runner for H Company's Surfer-H web agent: a policy model reads recent Chrome screenshots, a Holo localizer returns click coordinates, Selenium acts, and an optional validator checks the answer.

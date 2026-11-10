@@ -1,3 +1,11 @@
+---
+title: "Adversarial NLI: A New Benchmark for Natural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1910-14599/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Adversarial NLI: A New Benchmark for Natural Language Understanding
 
 Bibliographic record for Adversarial NLI: A New Benchmark for Natural Language Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, Douwe Kiela
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1910-14599/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1910-14599/citation.csl.json
+
+```bibtex
+@misc{arxiv_1910_14599,
+  title = {{Adversarial NLI: A New Benchmark for Natural Language Understanding}},
+  author = {{Yixin Nie} and {Adina Williams} and {Emily Dinan} and {Mohit Bansal} and {Jason Weston} and {Douwe Kiela}},
+  year = {2019},
+  eprint = {1910.14599v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1910.14599v2},
+  note = {First published: 2019-10-31; Recorded arXiv version: v2; Recorded version updated: 2020-05-06T17:01:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

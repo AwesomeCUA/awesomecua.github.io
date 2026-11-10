@@ -1,3 +1,11 @@
+---
+title: "Deep Reservoir Computing Using Cellular… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1703-02806/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Deep Reservoir Computing Using Cellular Automata
 
 Status: excluded from the active CUA catalog after scope review.

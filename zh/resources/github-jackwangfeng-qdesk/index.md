@@ -1,3 +1,11 @@
+---
+title: "qdesk · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jackwangfeng-qdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # qdesk
 
 qdesk 是开源的 AI 智能体桌面沙箱，提供可通过 HTTP 控制的隔离 Linux 和 Chromium 环境。

@@ -1,3 +1,11 @@
+---
+title: "V2P-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a815c128627d11011e89/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # V2P-7B
 
 这是一款根据截图和指令定位交互坐标的界面定位模型。V2P 抑制对背景的注意力，并突出目标元素的中心。

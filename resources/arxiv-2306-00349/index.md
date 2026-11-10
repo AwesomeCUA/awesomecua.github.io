@@ -1,3 +1,11 @@
+---
+title: "CALICO: Self-Supervised Camera-LiDAR… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-00349/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception
 
 Status: excluded from the active CUA catalog after scope review.

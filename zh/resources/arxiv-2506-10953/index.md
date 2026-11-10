@@ -1,3 +1,11 @@
+---
+title: "Build the web for agents, not agents for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-10953/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Build the web for agents, not agents for the web
 
 提出 Agentic Web Interface (AWI)，即供智能体浏览网站的界面，并给出六项面向网页智能体的设计原则。
@@ -27,6 +35,18 @@ Xing Han Lù, Gaurav Kamath, Marius Mosbach, Siva Reddy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-10953/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-10953/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_10953,
+  title = {{Build the web for agents, not agents for the web}},
+  author = {{Xing Han Lù} and {Gaurav Kamath} and {Marius Mosbach} and {Siva Reddy}},
+  year = {2025},
+  eprint = {2506.10953v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.10953v1},
+  note = {First published: 2025-06-12; Recorded arXiv version: v1; Recorded version updated: 2025-06-12T17:53:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

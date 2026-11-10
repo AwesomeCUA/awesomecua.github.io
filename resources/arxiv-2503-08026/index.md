@@ -1,3 +1,11 @@
+---
+title: "In Prospect and Retrospect: Reflective Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-08026/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents
 
 Status: excluded from the active CUA catalog after scope review.

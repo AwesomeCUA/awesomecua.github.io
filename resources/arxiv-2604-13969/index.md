@@ -1,3 +1,11 @@
+---
+title: "GEM3D CIM General Purpose Matrix Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13969/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GEM3D CIM General Purpose Matrix Computation Using 3D Integrated SRAM eDRAM Hybrid Compute In Memory on Memory Architecture
 
 Status: excluded from the active CUA catalog after scope review.

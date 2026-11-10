@@ -1,3 +1,11 @@
+---
+title: "AgentSynth task-generation pipeline | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # AgentSynth task-generation pipeline
 
 Generates synthetic computer-use tasks and records trajectories in OSWorld desktop environments and InSTA browser environments.

@@ -1,3 +1,11 @@
+---
+title: "GeoGround: A Unified Large Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-11904/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

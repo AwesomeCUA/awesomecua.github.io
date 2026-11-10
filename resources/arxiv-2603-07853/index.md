@@ -1,3 +1,11 @@
+---
+title: "SynPlanResearch-R1: Encouraging Tool… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-07853/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans
 
 Bibliographic record for SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hansi Zeng, Zoey Li, Yifan Gao, Chenwei Zhang, Xiaoman Pan, Tao Yang, Fengran Mo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-07853/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-07853/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_07853,
+  title = {{SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans}},
+  author = {{Hansi Zeng} and {Zoey Li} and {Yifan Gao} and {Chenwei Zhang} and {Xiaoman Pan} and {Tao Yang} and {Fengran Mo} and {Jiacheng Lin} and {Xian Li} and {Jingbo Shang}},
+  year = {2026},
+  eprint = {2603.07853v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.07853v1},
+  note = {First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T00:05:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

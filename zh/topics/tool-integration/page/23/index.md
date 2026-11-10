@@ -1,13 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 23 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/23/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 23 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/23/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [wangye520 codex-computer-use (Cursor Port)](https://awesomecua.com/zh/resources/github-wangye520-codex-computer-use/)
-- [wangyong1972 dsh-computer-use-macos](https://awesomecua.com/zh/resources/github-wangyong1972-dsh-computer-use-macos/)
-- [Wanta](https://awesomecua.com/zh/resources/github-oomol-lab-wanta/)
-- [wavexis-mcp](https://awesomecua.com/zh/resources/github-mathiaspaulenko-wavexis-mcp/)
 - [wayhand-mcp](https://awesomecua.com/zh/resources/github-timlai666-wayhand-mcp/)
 - [Wayland MCP Server](https://awesomecua.com/zh/resources/github-kurojs-wayland-mcp/)
 - [wayland-computer-use](https://awesomecua.com/zh/resources/github-wh0ami3-wayland-computer-use/)
@@ -64,3 +68,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/23/
 - [Xiaozhuang DSH](https://awesomecua.com/zh/resources/github-niushuanan-xiaozhuang-dsh/)
 - [Xihe Agent (羲和)](https://awesomecua.com/zh/resources/github-jiugao-yi-xihe-agent/)
 - [Xiryn](https://awesomecua.com/zh/resources/github-souravberaakaspeed-xiryn/)
+- [xiyiyiru chrome-mcp (DrissionPage MCP)](https://awesomecua.com/zh/resources/github-xiyiyiru-chrome-mcp/)
+- [ydotool](https://awesomecua.com/zh/resources/github-reimunotmoe-ydotool/)
+- [Your Browser Agent](https://awesomecua.com/zh/resources/github-rakeshnirzari1-your-browser-agent/)
+- [yu-tao-li dsh-computer-use-win](https://awesomecua.com/zh/resources/github-yu-tao-li-dsh-computer-use-win/)

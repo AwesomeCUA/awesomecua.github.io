@@ -1,3 +1,11 @@
+---
+title: "Terminal Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vivekkartha-terminal-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Terminal Computer Use
 
 Terminal Computer Use 提供基于 shell 的桌面自动化技能，用于管理文件、窗口和剪贴板，无需循环截图。

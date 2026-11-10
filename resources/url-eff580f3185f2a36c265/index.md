@@ -1,3 +1,11 @@
+---
+title: "Yutori | AwesomeCUA"
+url: https://awesomecua.com/resources/url-eff580f3185f2a36c265/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Yutori
 
 Yutori's web-agent platform: the Navigator computer-use model API (n1.5 for browsers, n2 for full desktops), task APIs for browsing, research and Scout web monitoring, and the Delegate personal agent.

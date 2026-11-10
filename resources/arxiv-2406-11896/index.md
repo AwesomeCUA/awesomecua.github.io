@@ -1,3 +1,11 @@
+---
+title: "DigiRL: Training In-The-Wild Device-Control… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-11896/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning
 
 Combines offline initialization and online reinforcement learning in Android environments, with automated evaluation and curriculum-based sampling.
@@ -26,6 +34,18 @@ Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Ku
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-11896/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-11896/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_11896,
+  title = {{DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning}},
+  author = {{Hao Bai} and {Yifei Zhou} and {Mert Cemri} and {Jiayi Pan} and {Alane Suhr} and {Sergey Levine} and {Aviral Kumar}},
+  year = {2024},
+  eprint = {2406.11896v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.11896v1},
+  note = {First published: 2024-06-14; Recorded arXiv version: v1; Recorded version updated: 2024-06-14T17:49:55Z.}
+}
+```
 
 ## Publication record
 

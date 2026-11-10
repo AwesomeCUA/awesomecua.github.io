@@ -1,3 +1,11 @@
+---
+title: "Svate · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jieao-re-svate/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Svate
 
 Svate 是设备端 Android UI 自动化智能体，结合 Accessibility 树、截图、动作前安全检查和恢复功能。

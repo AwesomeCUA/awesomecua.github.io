@@ -1,3 +1,11 @@
+---
+title: "DSH iOS Simulator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zseven-w-dsh-ios/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # DSH iOS Simulator
 
 A DeepSeek Harness plugin that gives agents access to an iOS Simulator or USB-connected iPhone, with live video, UI inspection, and tap tools.

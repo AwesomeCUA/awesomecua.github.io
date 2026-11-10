@@ -1,3 +1,11 @@
+---
+title: "CodeceptJS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-codeceptjs-codeceptjs/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # CodeceptJS
 
 CodeceptJS 是端到端测试框架，通过 Playwright、WebDriver 和 Appium 等辅助组件，将浏览器和移动端交互表述为面向用户的步骤。

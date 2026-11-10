@@ -1,3 +1,11 @@
+---
+title: "Self-Refine: Iterative Refinement with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-17651/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Self-Refine: Iterative Refinement with Self-Feedback
 
 Status: excluded from the active CUA catalog after scope review.

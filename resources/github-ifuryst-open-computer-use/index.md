@@ -1,3 +1,11 @@
+---
+title: "open-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ifuryst-open-computer-use/
+updated: 2026-10-18
+type: tool
+lang: en
+---
+
 # open-computer-use
 
 Computer-use MCP server and CLI for macOS, Linux and Windows exposing nine shared tools, such as get_app_state, click and set_value, with macOS apps read through accessibility APIs.

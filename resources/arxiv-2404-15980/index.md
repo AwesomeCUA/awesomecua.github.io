@@ -1,3 +1,11 @@
+---
+title: "Minimizing the Number of Teleportations in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-15980/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Minimizing the Number of Teleportations in Distributed Quantum Computing Using Alloy
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Mitigating Object Hallucinations in Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-12718/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention
 
 Bibliographic record for Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenbin An, Feng Tian, Sicong Leng, Jiahao Nie, Haonan Lin, QianYing Wang, Ping C
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-12718/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-12718/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_12718,
+  title = {{Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention}},
+  author = {{Wenbin An} and {Feng Tian} and {Sicong Leng} and {Jiahao Nie} and {Haonan Lin} and {QianYing Wang} and {Ping Chen} and {Xiaoqin Zhang} and {Shijian Lu}},
+  year = {2024},
+  eprint = {2406.12718v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.12718v3},
+  note = {First published: 2024-06-18; Recorded arXiv version: v3; Recorded version updated: 2025-03-14T04:38:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

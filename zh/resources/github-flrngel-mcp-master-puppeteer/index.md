@@ -1,3 +1,11 @@
+---
+title: "MCP Master Puppeteer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-flrngel-mcp-master-puppeteer/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP Master Puppeteer
 
 MCP Master Puppeteer 是一款 Puppeteer Model Context Protocol 服务器，通过紧凑的 DOM 和无障碍信息提取来降低 token 消耗。

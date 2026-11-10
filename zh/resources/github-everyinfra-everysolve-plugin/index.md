@@ -1,3 +1,11 @@
+---
+title: "EverySolve Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-everyinfra-everysolve-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # EverySolve Plugin
 
 面向 OpenAI Codex 和 Claude Code 浏览器工作流的授权 CAPTCHA 挑战检测与解决技能。

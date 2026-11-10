@@ -1,3 +1,11 @@
+---
+title: "Determining eigenstates and thermal states on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1901-07653/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Determining eigenstates and thermal states on a quantum computer using quantum imaginary time evolution
 
 Status: excluded from the active CUA catalog after scope review.

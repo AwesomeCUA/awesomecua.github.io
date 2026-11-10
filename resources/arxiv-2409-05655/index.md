@@ -1,3 +1,11 @@
+---
+title: "Interactive incremental learning of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-05655/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Interactive incremental learning of generalizable skills with local trajectory modulation
 
 Status: excluded from the active CUA catalog after scope review.

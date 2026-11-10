@@ -1,3 +1,11 @@
+---
+title: "MWMBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a3ea3a844de7dd8a6792/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # MWMBench
 
 MWMBench 通过要求模型依据截图和坐标操作预测下一屏幕，评估移动端 GUI 世界模型。

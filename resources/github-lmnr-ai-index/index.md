@@ -1,3 +1,11 @@
+---
+title: "Index | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lmnr-ai-index/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Index
 
 Archived Laminar browser agent in Python that drives Playwright Chromium with vision-capable LLMs, returns Pydantic-structured results and offers an interactive CLI with optional Laminar tracing.

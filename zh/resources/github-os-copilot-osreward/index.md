@@ -1,3 +1,11 @@
+---
+title: "OSReward · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-osreward/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # OSReward
 
 OSReward 的评估器与采集代码，检验 VLM 评判器对人工标注的计算机使用轨迹所给 SUCCESS/FAIL 结论，并提供网页、Windows、Android 和 Ubuntu 轨迹采集流水线。

@@ -1,3 +1,11 @@
+---
+title: "RODS: Reward-Driven Online Data Synthesis for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-19047/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents
 
 Bibliographic record for RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ruishan Fang, Siyuan Lu, Chenyi Zhuang, Tao Lin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-19047/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-19047/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_19047,
+  title = {{RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents}},
+  author = {{Ruishan Fang} and {Siyuan Lu} and {Chenyi Zhuang} and {Tao Lin}},
+  year = {2026},
+  eprint = {2606.19047v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.19047v1},
+  note = {First published: 2026-06-17; Recorded arXiv version: v1; Recorded version updated: 2026-06-17T13:13:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

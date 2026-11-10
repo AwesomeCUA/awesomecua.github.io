@@ -1,3 +1,11 @@
+---
+title: "Peerframe OpenBot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-peerframe-openbot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Peerframe OpenBot
 
 Self-hosted cross-platform control plane for managing persistent digital employees with browser and desktop capabilities.

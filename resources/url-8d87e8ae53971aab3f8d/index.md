@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-8k | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8d87e8ae53971aab3f8d/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # UGround-V1-8k
 
 UGround-V1-8k supplies an 8K-sample subset of web interface screenshots for GUI grounding pretraining across varied resolutions and aspect ratios.

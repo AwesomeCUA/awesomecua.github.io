@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Bench agent trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2b7363c3a20d8022b319/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # MemGUI-Bench agent trajectories
 
 MemGUI-Bench 移动 GUI 智能体及模型的运行记录按智能体打包为 ZIP，包含逐步截图、操作日志和评估输出，并提供供排行榜查看器使用的压缩轨迹预览。

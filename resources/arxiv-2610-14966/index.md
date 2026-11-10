@@ -1,3 +1,11 @@
+---
+title: "SkillHorizon: Constructing Long-Horizon Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14966/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition
 
 Bibliographic record for SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuxuan Liu, Zhaochen Su, Hangyu Guo, Shijue Huang, Zhixiong Zhang, Kawai Chung, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14966/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14966/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14966,
+  title = {{SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition}},
+  author = {{Yuxuan Liu} and {Zhaochen Su} and {Hangyu Guo} and {Shijue Huang} and {Zhixiong Zhang} and {Kawai Chung} and {Zhongwei Xie} and {Tianshi Zheng} and {Wei Fan} and {Qing Zong} and {Haochen Shi} and {Baixuan Xu} and {Haoran Li} and {Yangqiu Song}},
+  year = {2026},
+  eprint = {2610.14966v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14966v1},
+  note = {First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T14:36:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

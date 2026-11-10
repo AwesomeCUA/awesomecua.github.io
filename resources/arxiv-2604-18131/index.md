@@ -1,3 +1,11 @@
+---
+title: "Training LLM Agents for Spontaneous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18131/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration
 
 Bibliographic record for Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qifan Zhang, Dongyang Ma, Tianqing Fang, Jia Li, Jing Tang, Nuo Chen, Haitao Mi,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18131/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18131/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18131,
+  title = {{Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration}},
+  author = {{Qifan Zhang} and {Dongyang Ma} and {Tianqing Fang} and {Jia Li} and {Jing Tang} and {Nuo Chen} and {Haitao Mi} and {Yan Wang}},
+  year = {2026},
+  eprint = {2604.18131v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18131v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T11:54:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

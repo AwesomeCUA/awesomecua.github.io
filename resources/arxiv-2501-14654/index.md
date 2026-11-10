@@ -1,3 +1,11 @@
+---
+title: "MedAgentBench: A Realistic Virtual EHR… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-14654/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents
 
 Bibliographic record for MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yixing Jiang, Kameron C. Black, Gloria Geng, Danny Park, James Zou, Andrew Y. Ng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-14654/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-14654/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_14654,
+  title = {{MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents}},
+  author = {{Yixing Jiang} and {Kameron C. Black} and {Gloria Geng} and {Danny Park} and {James Zou} and {Andrew Y. Ng} and {Jonathan H. Chen}},
+  year = {2025},
+  eprint = {2501.14654v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.14654v2},
+  note = {First published: 2025-01-24; Recorded arXiv version: v2; Recorded version updated: 2025-02-12T05:32:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

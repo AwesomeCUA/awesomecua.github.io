@@ -1,3 +1,11 @@
+---
+title: "Ivy Tendril · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ivy-interactive-ivy-tendril/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ivy Tendril
 
 Ivy Tendril 是一款桌面编排工具，可在隔离的 Git 工作树中并行运行编程智能体。

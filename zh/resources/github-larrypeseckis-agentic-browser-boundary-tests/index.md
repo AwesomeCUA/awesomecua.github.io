@@ -1,3 +1,11 @@
+---
+title: "agentic-browser-boundary-tests · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-larrypeseckis-agentic-browser-boundary-tests/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # agentic-browser-boundary-tests
 
 面向 AI 浏览器和网页智能体的本地测试套件，包含提示注入及指令权限边界场景，并配有金丝雀检查。

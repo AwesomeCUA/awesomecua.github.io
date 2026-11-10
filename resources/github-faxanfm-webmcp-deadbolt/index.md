@@ -1,3 +1,11 @@
+---
+title: "WebMCP Deadbolt | AwesomeCUA"
+url: https://awesomecua.com/resources/github-faxanfm-webmcp-deadbolt/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WebMCP Deadbolt
 
 Fail-closed capability gating, structured refusal, and adversarial defense middleware for WebMCP browser commerce agents.

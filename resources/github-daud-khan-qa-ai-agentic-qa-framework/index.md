@@ -1,3 +1,11 @@
+---
+title: "AI-Agentic QA Framework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daud-khan-qa-ai-agentic-qa-framework/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AI-Agentic QA Framework
 
 Zero-dependency CDP browser driver and hydration-reliability testing framework for agentic web QA.

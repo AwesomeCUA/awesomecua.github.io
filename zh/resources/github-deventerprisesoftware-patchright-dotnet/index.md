@@ -1,3 +1,11 @@
+---
+title: "Patchright .NET · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-deventerprisesoftware-patchright-dotnet/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Patchright .NET
 
 Patchright .NET 是 Patchright 的 .NET 包：Patchright 是经过修补的 Playwright，可替换 Microsoft.Playwright 包来驱动 Chromium，并去除了自动化特征泄露。

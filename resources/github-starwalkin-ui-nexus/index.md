@@ -1,3 +1,11 @@
+---
+title: "UI-NEXUS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-starwalkin-ui-nexus/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # UI-NEXUS
 
 Compositional mobile-agent benchmark: 100 task templates chaining actions across local utility apps on an AndroidWorld-based emulator and online Chinese and English service apps, with emulator state-setup tooling.

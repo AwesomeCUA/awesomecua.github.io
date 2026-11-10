@@ -1,3 +1,11 @@
+---
+title: "UserZero | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aafre-userzero/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # UserZero
 
 Synthetic first-user evaluation harness that verifies web applications by attempting onboarding and core flows with AI browser agents.

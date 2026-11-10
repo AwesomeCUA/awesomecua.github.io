@@ -1,3 +1,11 @@
+---
+title: "Tabro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ohmyskyhigh-tabro/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Tabro
 
 Open-source Chromium browser automation runtime for AI agents supporting shared authenticated profiles and parallel tab control.

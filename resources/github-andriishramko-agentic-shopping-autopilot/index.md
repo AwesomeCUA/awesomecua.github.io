@@ -1,3 +1,11 @@
+---
+title: "Agentic Shopping Autopilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-andriishramko-agentic-shopping-autopilot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agentic Shopping Autopilot
 
 Open-source e-commerce execution layer enabling Claude Code and Codex agents to search, checkout, and pay with user-bounded guardrails.

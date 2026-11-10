@@ -1,3 +1,11 @@
+---
+title: "Compress2Focus (CCPO) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hithink-research-ccpo/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Compress2Focus (CCPO)
 
 Compress2Focus (CCPO) implements coordinate compression for multi-turn policy optimization in vision-language GUI agents.

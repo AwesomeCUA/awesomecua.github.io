@@ -1,3 +1,11 @@
+---
+title: "BlenderGym: Benchmarking Foundational Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-01786/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing
 
 Bibliographic record for BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunqi Gu, Ian Huang, Jihyeon Je, Guandao Yang, Leonidas Guibas
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-01786/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-01786/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_01786,
+  title = {{BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing}},
+  author = {{Yunqi Gu} and {Ian Huang} and {Jihyeon Je} and {Guandao Yang} and {Leonidas Guibas}},
+  year = {2025},
+  eprint = {2504.01786v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.01786v1},
+  note = {First published: 2025-04-02; Recorded arXiv version: v1; Recorded version updated: 2025-04-02T14:51:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

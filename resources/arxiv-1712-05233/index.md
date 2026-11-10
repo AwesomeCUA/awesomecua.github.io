@@ -1,3 +1,11 @@
+---
+title: "Big Data Computing Using Cloud-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1712-05233/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Big Data Computing Using Cloud-Based Technologies, Challenges and Future Perspectives
 
 Status: excluded from the active CUA catalog after scope review.

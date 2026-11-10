@@ -1,3 +1,11 @@
+---
+title: "SecureVibe: Making Vibe Coding More Secure | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-38606/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SecureVibe: Making Vibe Coding More Secure
 
 Bibliographic record for SecureVibe: Making Vibe Coding More Secure. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Danqing Wang, Baolin Peng, Zhepei Wei, Isadora White, Wenlin Yao, Hao Cheng, Qia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38606/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38606/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38606,
+  title = {{SecureVibe: Making Vibe Coding More Secure}},
+  author = {{Danqing Wang} and {Baolin Peng} and {Zhepei Wei} and {Isadora White} and {Wenlin Yao} and {Hao Cheng} and {Qianhui Wu} and {Minseon Kim} and {Xingdi Yuan} and {Lei Li} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2609.38606v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38606v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T22:10:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

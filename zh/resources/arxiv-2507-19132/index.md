@@ -1,3 +1,11 @@
+---
+title: "OS-MAP: How Far Can Computer-Using… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-19132/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?
 
 OS-MAP 按 5 级自动化分类和用户需求层级，组织涵盖 15 个应用的 416 项计算机使用任务。该基准区分所需自主程度与泛化范围，以分析任务要求提高时智能体面临的困难。
@@ -27,6 +35,18 @@ Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhouji
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-19132/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-19132/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_19132,
+  title = {{OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?}},
+  author = {{Xuetian Chen} and {Yinghao Chen} and {Xinfeng Yuan} and {Zhuo Peng} and {Lu Chen} and {Yuekeng Li} and {Zhoujia Zhang} and {Yingqian Huang} and {Leyan Huang} and {Jiaqing Liang} and {Tianbao Xie} and {Zhiyong Wu} and {Qiushi Sun} and {Biqing Qi} and {Bowen Zhou}},
+  year = {2025},
+  eprint = {2507.19132v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.19132v1},
+  note = {First published: 2025-07-25; Recorded arXiv version: v1; Recorded version updated: 2025-07-25T10:14:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Skill-Guided Continuation Distillation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-18890/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Skill-Guided Continuation Distillation for GUI Agents
 
 Skill-Guided Continuation Distillation first lets a policy reach its own off-trajectory states, then uses skill guidance to collect successful continuations. Mixing those continuations with expert traces supplies supervision for recovery states absent from demonstrations.
@@ -26,6 +34,18 @@ Zhimin Fan, Hongwei Yu, Yeqing Shen, Haolong Yan, Guozhen Peng, Tianhao Peng, Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-18890/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-18890/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_18890,
+  title = {{Skill-Guided Continuation Distillation for GUI Agents}},
+  author = {{Zhimin Fan} and {Hongwei Yu} and {Yeqing Shen} and {Haolong Yan} and {Guozhen Peng} and {Tianhao Peng} and {Yudong Zhang} and {Xiaowen Zhang} and {Kaijun Tan} and {Zheng Ge} and {Xiangyu Zhang} and {Daxin Jiang}},
+  year = {2026},
+  eprint = {2606.18890v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.18890v1},
+  note = {First published: 2026-06-17; Recorded arXiv version: v1; Recorded version updated: 2026-06-17T10:07:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

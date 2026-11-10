@@ -1,13 +1,17 @@
+---
+title: "工具集成：Computer-Use 研究与资源（第 20 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/tool-integration/page/20/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工具集成：Computer-Use 研究与资源（第 20 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/20/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
-- [PyMCPAutoGUI](https://awesomecua.com/zh/resources/github-ahaufox-pymcpautogui/)
-- [pymobiledevice3](https://awesomecua.com/zh/resources/github-doronz88-pymobiledevice3/)
-- [pyside6-mcp](https://awesomecua.com/zh/resources/github-com55-pyside6-mcp/)
-- [Q1X Community Orchestrator](https://awesomecua.com/zh/resources/github-quoralinex-q1x-community-orchestrator/)
 - [Qoder Browser Connector Enabler](https://awesomecua.com/zh/resources/github-wqzhellohhwy-qoder-browser-connector-enabler/)
 - [qt-mcp](https://awesomecua.com/zh/resources/github-0xcarbon-qt-mcp/)
 - [Qubicl](https://awesomecua.com/zh/resources/github-eldanring-qubicl/)
@@ -64,3 +68,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/20/
 - [see_the_screen (DSH Windows Desktop Plugin)](https://awesomecua.com/zh/resources/github-jaychouu-see-the-screen/)
 - [Selenium MCP Server](https://awesomecua.com/zh/resources/github-nayakprashant-selenium-mcp-server/)
 - [Selenium Self-Healing MCP Server](https://awesomecua.com/zh/resources/github-aiqualitylab-selenium-selfhealing-mcp/)
+- [selenium-mcp](https://awesomecua.com/zh/resources/github-gaforov-selenium-mcp/)
+- [Self-Hosted Cloud Browser MCP](https://awesomecua.com/zh/resources/github-bk927-cloud-browser-mcp/)
+- [Semantic GUI Control Layer (SGCL)](https://awesomecua.com/zh/resources/github-frankbria-semantic-gui-control/)
+- [Semantic Kernel](https://awesomecua.com/zh/resources/github-microsoft-semantic-kernel/)

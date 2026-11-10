@@ -1,3 +1,11 @@
+---
+title: "Vision Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Vision Browser Agent
 
 Pure-vision browser automation framework with built-in local Moondream3 inference, zero DOM dependency, and human-like mouse trajectories.

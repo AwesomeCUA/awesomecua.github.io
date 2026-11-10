@@ -1,3 +1,11 @@
+---
+title: "WildGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-daf52475338f385b9310/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WildGUI
 
 WildGUI release from Video2GUI: per-task JSONL trajectories mined from Internet tutorial videos, with instructions, plans and grounded actions on web, desktop and mobile, plus screenshot shards for parts 1-15.

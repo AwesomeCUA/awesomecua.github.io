@@ -1,3 +1,11 @@
+---
+title: "Trajectory2Gym: Decision-Grounded… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-33568/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents
 
 Status: excluded from the active CUA catalog after scope review.

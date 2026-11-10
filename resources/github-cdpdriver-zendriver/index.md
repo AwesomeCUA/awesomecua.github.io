@@ -1,3 +1,11 @@
+---
+title: "Zendriver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cdpdriver-zendriver/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Zendriver
 
 A Python browser automation library built on Chrome DevTools Protocol, offering page navigation, element lookup, screenshots and browser profile management.

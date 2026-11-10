@@ -1,3 +1,11 @@
+---
+title: "aevra-desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-the-long-ride-aevra-desktop-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # aevra-desktop
 
 一个桌面控制 MCP 服务器，让智能体通过无障碍 API 查看和操作应用控件，并提供屏幕截图和应用许可名单。

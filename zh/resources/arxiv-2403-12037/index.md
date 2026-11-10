@@ -1,3 +1,11 @@
+---
+title: "MineDreamer: Learning to Follow… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-12037/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control
 
 提出 Minecraft 智能体 MineDreamer，将指令分解为想象中的阶段，并在模拟世界中生成键盘和鼠标操作。
@@ -27,6 +35,18 @@ Enshen Zhou, Yiran Qin, Zhenfei Yin, Yuzhou Huang, Ruimao Zhang, Lu Sheng, Yu Qi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-12037/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-12037/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_12037,
+  title = {{MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control}},
+  author = {{Enshen Zhou} and {Yiran Qin} and {Zhenfei Yin} and {Yuzhou Huang} and {Ruimao Zhang} and {Lu Sheng} and {Yu Qiao} and {Jing Shao}},
+  year = {2024},
+  eprint = {2403.12037v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.12037v2},
+  note = {First published: 2024-03-18; Recorded arXiv version: v2; Recorded version updated: 2024-03-19T14:52:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

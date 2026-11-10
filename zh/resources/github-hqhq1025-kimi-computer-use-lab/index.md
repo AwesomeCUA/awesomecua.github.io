@@ -1,3 +1,11 @@
+---
+title: "Kimi Computer Use Lab · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hqhq1025-kimi-computer-use-lab/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Kimi Computer Use Lab
 
 分析并复现 Kimi Desktop 的计算机使用架构，该架构结合 OpenClaw 浏览器与画布控制，以及 macOS 辅助程序。

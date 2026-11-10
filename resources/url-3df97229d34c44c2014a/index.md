@@ -1,3 +1,11 @@
+---
+title: "HiconAgent-AMEX | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3df97229d34c44c2014a/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # HiconAgent-AMEX
 
 Training and validation data for HiconAgent built from the AMEX Android dataset: each sample holds a goal, earlier screenshots and actions, and the next action as the answer, for history-aware RL of GUI agents.

@@ -1,3 +1,11 @@
+---
+title: "computer-use-linux | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agent-sh-computer-use-linux/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # computer-use-linux
 
 Native Linux desktop control server for AI agents over MCP, Pi tools, and CLI with semantic AT-SPI trees and screenshots.

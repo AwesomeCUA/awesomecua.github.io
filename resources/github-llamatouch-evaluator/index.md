@@ -1,3 +1,11 @@
+---
+title: "LlamaTouch Evaluator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-llamatouch-evaluator/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # LlamaTouch Evaluator
 
 LlamaTouch Evaluator checks mobile-agent execution traces against annotated interface states and provides exact-match and subsequence action baselines.

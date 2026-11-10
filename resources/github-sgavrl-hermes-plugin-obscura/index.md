@@ -1,3 +1,11 @@
+---
+title: "Obscura browser plugin for Hermes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sgavrl-hermes-plugin-obscura/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Obscura browser plugin for Hermes
 
 A Hermes browser-provider plugin that routes browser-agent tools through an Obscura CDP server. It can start a local server per session or connect to an existing one.

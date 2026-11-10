@@ -1,3 +1,11 @@
+---
+title: "mimiq · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gojiplus-mimiq/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # mimiq
 
 mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cypress、Playwright 和 Stagehand。

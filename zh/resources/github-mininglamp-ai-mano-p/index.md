@@ -1,3 +1,11 @@
+---
+title: "Mano-P · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-p/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # Mano-P
 
 Mano-P 是针对边缘设备优化的开源 GUI 视觉语言动作模型，已在 OSWorld 和 Mind2Web 上接受评测。

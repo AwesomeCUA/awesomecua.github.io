@@ -1,3 +1,11 @@
+---
+title: "HeySnap · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dhamani-aryan-heysnap/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # HeySnap
 
 面向 AI 的工作空间，可将文件、文档和实时浏览器上下文采集到结构化的智能体记忆中。

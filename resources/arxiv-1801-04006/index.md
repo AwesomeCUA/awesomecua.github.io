@@ -1,3 +1,11 @@
+---
+title: "Blind quantum computation using the central… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1801-04006/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Blind quantum computation using the central spin Hamiltonian
 
 Status: excluded from the active CUA catalog after scope review.

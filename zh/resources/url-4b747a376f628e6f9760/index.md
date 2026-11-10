@@ -1,3 +1,11 @@
+---
+title: "Screen Point-and-Read Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4b747a376f628e6f9760/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Screen Point-and-Read Data
 
 Screen Point-and-Read Data 收录桌面系统、网页及移动端截图，配有指定点、区域标注和修订后的描述，用于研究界面布局理解。

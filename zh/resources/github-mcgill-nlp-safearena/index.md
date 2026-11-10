@@ -1,3 +1,11 @@
+---
+title: "SafeArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcgill-nlp-safearena/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # SafeArena
 
 SafeArena 是将良性与有害任务配对、用于研究蓄意滥用风险的网页智能体基准。

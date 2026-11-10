@@ -1,3 +1,11 @@
+---
+title: "Efficiency — computer-use research, page 3 | AwesomeCUA"
+url: https://awesomecua.com/topics/efficiency/page/3/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Efficiency — computer-use research, page 3
 
 HTML page: https://awesomecua.com/topics/efficiency/page/3/

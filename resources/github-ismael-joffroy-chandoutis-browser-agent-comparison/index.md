@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Comparison (4 Approaches) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Browser Agent Comparison (4 Approaches)
 
 Compares four AI browser-control paradigms (Chrome extension, Playwright, Browser Use V3, and CLI) on task completion and cost.

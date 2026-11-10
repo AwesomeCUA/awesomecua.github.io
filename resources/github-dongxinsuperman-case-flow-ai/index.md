@@ -1,3 +1,11 @@
+---
+title: "Case Flow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Case Flow
 
 Case Flow is a visual test workbench that sends cases to phone and web executors, then gathers run status, reports, and evidence for review.

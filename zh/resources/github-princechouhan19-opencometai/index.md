@@ -1,3 +1,11 @@
+---
+title: "OpenComet · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-princechouhan19-opencometai/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # OpenComet
 
 Chrome 侧栏智能体为页面元素添加编号框，在模型查看截图和 DOM 文本前于设备端遮盖人脸、凭据字段及文本个人信息，再通过选择器或调试器点击执行操作。

@@ -1,3 +1,11 @@
+---
+title: "Large-scale quantum reservoir computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-13695/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large-scale quantum reservoir computing using a Gaussian Boson Sampler
 
 Status: excluded from the active CUA catalog after scope review.

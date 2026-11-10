@@ -1,3 +1,11 @@
+---
+title: "bevaya/RICO-ScreenQA-Complex · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b6114625f883ec0fda33/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # bevaya/RICO-ScreenQA-Complex
 
 这是面向 RICO 界面截图的复杂问答测试数据集，包含截图、问题和标准答案。数据卡列出 11,781 个样本。

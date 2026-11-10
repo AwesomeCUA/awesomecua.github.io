@@ -1,3 +1,11 @@
+---
+title: "dassi | AwesomeCUA"
+url: https://awesomecua.com/resources/url-040e17448d9d190b3c14/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # dassi
 
 Side-panel extension for Chrome, Edge and Brave whose agent reads pages, takes screenshots, clicks, types, fills forms and manages tabs in the user's signed-in browser, with saved skills, schedules and a choice of model.

@@ -1,3 +1,11 @@
+---
+title: "Qwen-AgentWorld · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qwenlm-qwen-agentworld/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Qwen-AgentWorld
 
 一个语言世界模型，可在七个领域中预测下一步的环境观测，包括安卓屏幕、浏览器页面和桌面无障碍树，并随附 AgentWorldBench 评测代码。

@@ -1,3 +1,11 @@
+---
+title: "ANGLER: Verifier-Grounded Benchmarking with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-41272/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents
 
 Introduces REEF, a website benchmark with state-based attack verification, and ANGLER, which adapts attack lures using outcomes from web-agent rollouts.
@@ -26,6 +34,18 @@ Yini Huang, Aiwen LU, Zhen Sun, Yi Han, Yuzhi Zhao, Jiaheng Wei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-41272/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-41272/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_41272,
+  title = {{ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents}},
+  author = {{Yini Huang} and {Aiwen LU} and {Zhen Sun} and {Yi Han} and {Yuzhi Zhao} and {Jiaheng Wei}},
+  year = {2026},
+  eprint = {2610.41272v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.41272v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T05:25:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

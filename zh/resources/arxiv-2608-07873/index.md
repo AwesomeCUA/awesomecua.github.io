@@ -1,3 +1,11 @@
+---
+title: "Back to the Future: A workbook time… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-07873/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Back to the Future: A workbook time machine for spread sheet creation benchmarks
 
 提出 workbook time machine，生成电子表格对象相关任务，并以 wtmbench 评测通过不同控制接口操作表格的智能体。
@@ -27,6 +35,18 @@ Mansi Uniyal, Agamdeep Singh, Ananya Singha, Priyanshu Gupta, Mukul Singh, Gust 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-07873/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-07873/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_07873,
+  title = {{Back to the Future: A workbook time machine for spread sheet creation benchmarks}},
+  author = {{Mansi Uniyal} and {Agamdeep Singh} and {Ananya Singha} and {Priyanshu Gupta} and {Mukul Singh} and {Gust Verbruggen} and {Vu Le} and {Sumit Gulwani}},
+  year = {2026},
+  eprint = {2608.07873v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.07873v1},
+  note = {First published: 2026-08-08; Recorded arXiv version: v1; Recorded version updated: 2026-08-08T02:57:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

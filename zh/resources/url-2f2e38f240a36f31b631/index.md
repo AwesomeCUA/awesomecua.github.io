@@ -1,3 +1,11 @@
+---
+title: "Jedi-3B-1080p · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2f2e38f240a36f31b631/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Jedi-3B-1080p
 
 基于 Qwen2.5-VL-3B 的计算机使用定位模型，提供从界面图像预测鼠标操作坐标的示例。

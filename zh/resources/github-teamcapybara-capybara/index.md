@@ -1,3 +1,11 @@
+---
+title: "Capybara · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-teamcapybara-capybara/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # Capybara
 
 Capybara 是网页应用验收测试框架，通过浏览器和无头驱动模拟用户交互。

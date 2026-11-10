@@ -1,3 +1,11 @@
+---
+title: "OpenJev · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alanhuangyoo-openjev/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OpenJev
 
 1.7B、4B 和 8B 决策模型可单次回答类型化问题并给出校准概率；使用浏览器智能体步骤和通用决策数据训练，用于选择网页智能体的下一步操作及元素。

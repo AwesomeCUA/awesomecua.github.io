@@ -1,3 +1,11 @@
+---
+title: "Time Division Multiplexing Ising Computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2202-10634/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Time Division Multiplexing Ising Computer Using Single Tunable True Random Number Generator Based on Spin Torque Nano-Oscillator
 
 Status: excluded from the active CUA catalog after scope review.

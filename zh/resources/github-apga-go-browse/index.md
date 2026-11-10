@@ -1,3 +1,11 @@
+---
+title: "Go-Browse · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-apga-go-browse/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # Go-Browse
 
 用于结构化探索网站和处理数据的代码，可重访已发现的页面、提出任务并收集网页智能体微调所需的轨迹。

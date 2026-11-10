@@ -1,3 +1,11 @@
+---
+title: "Prism AI Screen Reader | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Prism AI Screen Reader
 
 Prism is a macOS screen reader and activity analyzer that captures screenshots and summarizes user desktop workflows with vision-language models.

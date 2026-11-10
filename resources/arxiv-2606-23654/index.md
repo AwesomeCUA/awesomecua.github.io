@@ -1,3 +1,11 @@
+---
+title: "EnterpriseClawBench: Benchmarking Agents from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-23654/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions
 
 Bibliographic record for EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jincheng Zhong, Weizhi Wang, Che Jiang, Kai Tian, Zhenzhao Yuan, Junlin Yang, Di
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-23654/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-23654/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_23654,
+  title = {{EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions}},
+  author = {{Jincheng Zhong} and {Weizhi Wang} and {Che Jiang} and {Kai Tian} and {Zhenzhao Yuan} and {Junlin Yang} and {Dianqiao Lei} and {Kaiyan Zhang}},
+  year = {2026},
+  eprint = {2606.23654v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.23654v1},
+  note = {First published: 2026-06-22; Recorded arXiv version: v1; Recorded version updated: 2026-06-22T17:39:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

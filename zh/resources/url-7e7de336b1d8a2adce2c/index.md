@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_plan_iterative-13B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7e7de336b1d8a2adce2c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_web_agent_plan_iterative-13B
 
 Lumos 发布的检查点用于在迭代式架构中规划网页智能体任务，该架构将规划、定位与执行分开。

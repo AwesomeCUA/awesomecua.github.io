@@ -1,3 +1,11 @@
+---
+title: "LLM Scraper | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mishushakov-llm-scraper/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # LLM Scraper
 
 LLM Scraper is a TypeScript library that uses Playwright and schema-constrained LLMs to extract structured data from live webpages.

@@ -1,3 +1,11 @@
+---
+title: "Mano skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Mano skill
 
 Mano skill runs desktop tasks from natural-language instructions by inspecting screenshots and issuing mouse and keyboard actions. It offers cloud and on-device modes.

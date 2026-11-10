@@ -1,3 +1,11 @@
+---
+title: "UI-S1: Advancing GUI Automation via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-11543/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
 
 UI-S1 simulates multi-turn online learning over offline trajectories, using a patch module to recover divergences while retaining the model’s own outputs in context. It combines discounted future returns with step- and episode-level advantages and introduces a semi-online performance proxy.
@@ -26,6 +34,18 @@ Zhengxi Lu, Jiabo Ye, Fei Tang, Yongliang Shen, Haiyang Xu, Ziwei Zheng, Weiming
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-11543/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-11543/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_11543,
+  title = {{UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning}},
+  author = {{Zhengxi Lu} and {Jiabo Ye} and {Fei Tang} and {Yongliang Shen} and {Haiyang Xu} and {Ziwei Zheng} and {Weiming Lu} and {Ming Yan} and {Fei Huang} and {Jun Xiao} and {Yueting Zhuang}},
+  year = {2025},
+  eprint = {2509.11543v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.11543v2},
+  note = {First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2025-09-24T15:05:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

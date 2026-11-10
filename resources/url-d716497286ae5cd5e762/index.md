@@ -1,3 +1,11 @@
+---
+title: "OS-Copilot/OS-Shepherd-100K | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d716497286ae5cd5e762/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # OS-Copilot/OS-Shepherd-100K
 
 A dataset of GUI agent trajectories and screenshots for training models to judge task completion, with supervised records and reinforcement learning splits.

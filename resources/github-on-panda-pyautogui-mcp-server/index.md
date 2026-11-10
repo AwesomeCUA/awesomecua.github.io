@@ -1,3 +1,11 @@
+---
+title: "pyautogui_mcp_server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-on-panda-pyautogui-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pyautogui_mcp_server
 
 pyautogui_mcp_server is a Streamable HTTP Model Context Protocol server for executing PyAutoGUI desktop automation workflows.

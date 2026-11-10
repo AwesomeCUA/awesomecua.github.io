@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "e9b4bc8c8face665d02e0f9a3e465369cad0d6210e6b39bec76ae7f6df700d4c",
+  "catalog_sha256": "5871979f53c371d4cb3d69476451c0672a26d3918a0fbd7fd6aa99830c55c613",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "A resource can belong to several topics.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 5354,
-  "resources_with_topics": 5354,
+  "reviewed_resources": 5347,
+  "resources_with_topics": 5347,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -15,12 +15,12 @@
         "zh": "动作预测"
       },
       "counts": {
-        "total": 310,
+        "total": 309,
         "papers": 59,
         "benchmarks": 9,
         "datasets": 15,
         "models": 173,
-        "systems": 54,
+        "systems": 53,
         "learning": 0
       },
       "resource_ids": [
@@ -103,7 +103,6 @@
         "github:contrastive-lm/clm",
         "github:deskmind-ai/brain",
         "github:dongyh20/octopus",
-        "github:elidot007/desktop-agent",
         "github:embodied-agent-eval/embodied-agent-eval",
         "github:espetro/htlm",
         "github:fluidinference/fluiduse",
@@ -342,9 +341,9 @@
       "exports": [
         {
           "url": "/downloads/topics/action-prediction/records.jsonl",
-          "records": 310,
-          "bytes": 907055,
-          "sha256": "3d5115fc71c57745700b7b5f027ec1fa2cd920af84aea425fbc4a86bdaacc4ef"
+          "records": 309,
+          "bytes": 905442,
+          "sha256": "ed7892db020ed0858bed100ab04527ea99e056b85957dae889cd7027c5db1a2b"
         },
         {
           "url": "/downloads/topics/action-prediction/citations.bib",
@@ -367,12 +366,12 @@
         "zh": "自动化"
       },
       "counts": {
-        "total": 1642,
+        "total": 1636,
         "papers": 138,
         "benchmarks": 11,
         "datasets": 1,
         "models": 15,
-        "systems": 1460,
+        "systems": 1454,
         "learning": 17
       },
       "resource_ids": [
@@ -685,7 +684,6 @@
         "github:bb-fat/browser-use-rs",
         "github:beckhamlabsllc/linux-desktop-mcp",
         "github:bee-san/airplane-checkin-skill",
-        "github:bees-bot/bees-desktop",
         "github:beijingwahw/dsh-computer-use-plugin",
         "github:benina/autoit-mcp",
         "github:bennix/astraaibrowser",
@@ -936,7 +934,6 @@
         "github:ekingunoncu/izan.io",
         "github:eldanring/qubicl",
         "github:electron-stagewright/electron-stagewright",
-        "github:elidot007/desktop-agent",
         "github:elijahumana/one-for-all",
         "github:ellmos-ai/open-compute",
         "github:ellmos-ai/open-compute-mcp",
@@ -1113,7 +1110,6 @@
         "github:intra2net/guibot",
         "github:ipbtools/ipb",
         "github:isac322/kwin-mcp",
-        "github:itsmarcels/zetatron",
         "github:ivanposel/look-decide-act",
         "github:iyulab/momos",
         "github:ja-plus/x11-computer-use",
@@ -1185,7 +1181,6 @@
         "github:kaliiiiiiiiii-vinyzu/patchright-python",
         "github:kaliiiiiiiiii/selenium-driverless",
         "github:kamalesh404/agentos",
-        "github:karunya-muddana/native",
         "github:kaustubhlall/osrs-cv",
         "github:kazkozdev/weboperator",
         "github:kellyvv/phoneclaw",
@@ -1239,7 +1234,6 @@
         "github:lewiswlker/compbuddy",
         "github:lexmount/moli",
         "github:lhuanyu/midscene-ios",
-        "github:lianping-cyber/dsh-browser-full-access",
         "github:lightfeed/browser-agent",
         "github:lightpanda-io/agent-skill",
         "github:lightpanda-io/browser",
@@ -1560,7 +1554,6 @@
         "github:rakeshnirzari1/your-browser-agent",
         "github:rakutentech/sorify",
         "github:randynorthrup/win32-mcp-server",
-        "github:rao-studios/mary",
         "github:raunak-choudhary/hack_princeton_mealpilot",
         "github:ravizhan/mwu",
         "github:raystyle/browser-harness",
@@ -2026,9 +2019,9 @@
       "exports": [
         {
           "url": "/downloads/topics/automation/records.jsonl",
-          "records": 1642,
-          "bytes": 3008614,
-          "sha256": "61b5f9342309f1526052cca969d8d4e46fabec03b94a95a05aa38ae69604eae6"
+          "records": 1636,
+          "bytes": 2999479,
+          "sha256": "b921ebdba9be3e0d7f8a003b4103de98a47b6a668e6f4899c1c3b1c36977fb16"
         },
         {
           "url": "/downloads/topics/automation/citations.bib",
@@ -2876,12 +2869,12 @@
         "zh": "效率"
       },
       "counts": {
-        "total": 555,
+        "total": 554,
         "papers": 217,
         "benchmarks": 16,
         "datasets": 1,
         "models": 45,
-        "systems": 275,
+        "systems": 274,
         "learning": 1
       },
       "resource_ids": [
@@ -3181,7 +3174,6 @@
         "github:droppinganvil/screenpilot",
         "github:dtopuzov/browser-llm-perf",
         "github:dx-corp/browser-use-rs",
-        "github:elidot007/desktop-agent",
         "github:espetro/htlm",
         "github:etairl/parallel-browser-mcp",
         "github:ethanout/computer-use-plus",
@@ -3448,9 +3440,9 @@
       "exports": [
         {
           "url": "/downloads/topics/efficiency/records.jsonl",
-          "records": 555,
-          "bytes": 1268997,
-          "sha256": "a50c1ecdfe6642689b7398838922423edddded90214a490411b2d80cf42cce0a"
+          "records": 554,
+          "bytes": 1267384,
+          "sha256": "d5b0dee2f84c4094ad9fe71e99ee19bbd8c3edd92aee2b60629f3ad3c7c83aed"
         },
         {
           "url": "/downloads/topics/efficiency/citations.bib",
@@ -3473,9 +3465,9 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 1542,
+        "total": 1541,
         "papers": 835,
-        "benchmarks": 308,
+        "benchmarks": 307,
         "datasets": 101,
         "models": 29,
         "systems": 257,
@@ -4809,7 +4801,6 @@
         "github:yjyddq/riosworld",
         "github:yueqis/api-based-agent",
         "github:yunyuntsai/webuiproof-benchmark",
-        "github:yutori-ai/navi-bench",
         "github:yuxuan2003/awesome-gui-agent-security",
         "github:yxb-nku/se-gui",
         "github:yydongro/39-tools",
@@ -5032,9 +5023,9 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 1542,
-          "bytes": 4359988,
-          "sha256": "7b8b49c16fac8f16881fe0994d0a1dac41cd0151cf2f73cec035d1044e2deff4"
+          "records": 1541,
+          "bytes": 4358411,
+          "sha256": "fe82cc59ca25d02dce660ea811039e71bf5f5d7d489735c6c4721687b82e1d3e"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -6558,8 +6549,8 @@
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
           "records": 355,
-          "bytes": 856288,
-          "sha256": "84b51bbd6d9a1839f1a2736cc7d8032724612da9a85a6a9651e701172d187e87"
+          "bytes": 855730,
+          "sha256": "cf333e3b5b02cac793ee7684d44a8703cd9813bbc9f83a7c3f7cd3ae15944098"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
@@ -7389,12 +7380,12 @@
         "zh": "记忆"
       },
       "counts": {
-        "total": 358,
+        "total": 356,
         "papers": 213,
         "benchmarks": 4,
         "datasets": 4,
         "models": 6,
-        "systems": 129,
+        "systems": 127,
         "learning": 2
       },
       "resource_ids": [
@@ -7653,7 +7644,6 @@
         "github:ilearn-lab/acl26-personalalign",
         "github:imoonkey/closepaw",
         "github:intelligence-indeed/intelligence-indeed",
-        "github:itsmarcels/zetatron",
         "github:ixchio/terx",
         "github:jackygilbert498-debug/xiaoshe-agent",
         "github:jaimaann/langhire",
@@ -7703,7 +7693,6 @@
         "github:princeton-ai2-lab/avenir-web",
         "github:prisacariurobert/sidemates",
         "github:raghavpillai/openteam",
-        "github:rao-studios/mary",
         "github:realstreetsmartnyc/smart-pet-agent",
         "github:rohanarun/computer-use-cache",
         "github:rohitg00/agentmemory",
@@ -7764,9 +7753,9 @@
       "exports": [
         {
           "url": "/downloads/topics/memory/records.jsonl",
-          "records": 358,
-          "bytes": 996369,
-          "sha256": "e4136453592373983e2145d062b1d628f288978f75ffadc5e9614d00dce4dedb"
+          "records": 356,
+          "bytes": 993173,
+          "sha256": "1b21995ea5832e3fc2b3a20f840cf5223e4e458422ed5fdcd40db74bb9415518"
         },
         {
           "url": "/downloads/topics/memory/citations.bib",
@@ -8784,12 +8773,12 @@
         "zh": "规划"
       },
       "counts": {
-        "total": 565,
+        "total": 564,
         "papers": 305,
         "benchmarks": 11,
         "datasets": 12,
         "models": 60,
-        "systems": 173,
+        "systems": 172,
         "learning": 4
       },
       "resource_ids": [
@@ -9170,7 +9159,6 @@
         "github:inclusionai/ui-venus",
         "github:intelligence-indeed/intelligence-indeed",
         "github:internlm/mindsearch",
-        "github:itsmarcels/zetatron",
         "github:jasonzliang/caesar-agent",
         "github:jlov7/nanoawm",
         "github:jns-c/model-comparison-gomoku",
@@ -9366,9 +9354,9 @@
       "exports": [
         {
           "url": "/downloads/topics/planning/records.jsonl",
-          "records": 565,
-          "bytes": 1525477,
-          "sha256": "11cd85dc3b4c4a2680ba2da46f8e9b44855beeb8dd1870f9a544cae976486dd0"
+          "records": 564,
+          "bytes": 1524368,
+          "sha256": "8619f4baa1583eb425130d1338ab9e2c457a40709a51ca54238d8d4ecdcf053a"
         },
         {
           "url": "/downloads/topics/planning/citations.bib",
@@ -11773,12 +11761,12 @@
         "zh": "界面理解"
       },
       "counts": {
-        "total": 1019,
+        "total": 1018,
         "papers": 235,
         "benchmarks": 26,
         "datasets": 67,
         "models": 165,
-        "systems": 521,
+        "systems": 520,
         "learning": 5
       },
       "resource_ids": [
@@ -12401,7 +12389,6 @@
         "github:raidriar7170/browser-use-vision",
         "github:randynorthrup/win32-mcp-server",
         "github:rao-studios/frigate",
-        "github:rao-studios/mary",
         "github:rao-studios/visionax",
         "github:realstreetsmartnyc/smart-pet-agent",
         "github:reidbarber/webmarker",
@@ -12809,9 +12796,9 @@
       "exports": [
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
-          "records": 1019,
-          "bytes": 2328284,
-          "sha256": "dc1fd165ca41d0b7f0f8c4b540a90fd30f952d5ced45c2956751407621d045d8"
+          "records": 1018,
+          "bytes": 2326755,
+          "sha256": "e48e81948efb0928c420232d24159e6c15f6f1413dcbde3829dac8c09aa77d59"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
@@ -13329,12 +13316,12 @@
         "zh": "工具集成"
       },
       "counts": {
-        "total": 1407,
+        "total": 1402,
         "papers": 145,
         "benchmarks": 32,
         "datasets": 5,
         "models": 55,
-        "systems": 1162,
+        "systems": 1157,
         "learning": 8
       },
       "resource_ids": [
@@ -13632,7 +13619,6 @@
         "github:baryhuang/mcp-remote-macos-use",
         "github:beaufortfrancois/model-context-tool-inspector",
         "github:bee-san/airplane-checkin-skill",
-        "github:bees-bot/bees-desktop",
         "github:beijingwahw/dsh-computer-use-plugin",
         "github:benina/autoit-mcp",
         "github:berker-z/hyprhands",
@@ -13967,7 +13953,6 @@
         "github:isac322/kwin-mcp",
         "github:ismael-joffroy-chandoutis/browser-agent-comparison",
         "github:itmediatech/better-ai-browser-utilities",
-        "github:itsmarcels/zetatron",
         "github:itw-code/arc-cua",
         "github:ja-plus/x11-computer-use",
         "github:ja1chen/muse-gadget-actell-mods",
@@ -14023,7 +14008,6 @@
         "github:kalebteccom/browxai",
         "github:kanchengw/dsh-mindseye",
         "github:kareemheshaam/reqvexa",
-        "github:karunya-muddana/native",
         "github:kavanio/recordagent",
         "github:kazkozdev/weboperator",
         "github:keles-coding/naturegaia",
@@ -14062,7 +14046,6 @@
         "github:leeguooooo/iphone-use",
         "github:leluth/underpixel",
         "github:leozhengliu-pixel/agent-chrome",
-        "github:lianping-cyber/dsh-browser-full-access",
         "github:lightpanda-io/agent-skill",
         "github:liha-app/webmcp-adapter",
         "github:lindoelio/computer-use",
@@ -14332,7 +14315,6 @@
         "github:rakeshnirzari1/your-browser-agent",
         "github:randynorthrup/chrome-control-mcp",
         "github:randynorthrup/win32-mcp-server",
-        "github:rao-studios/mary",
         "github:raystyle/browser-harness",
         "github:reason-wang/toolgen",
         "github:redf0x1/camofox-mcp",
@@ -14753,9 +14735,9 @@
       "exports": [
         {
           "url": "/downloads/topics/tool-integration/records.jsonl",
-          "records": 1407,
-          "bytes": 2687276,
-          "sha256": "c44f9851653168a0c569dea5ce01ee486ed2b31cb780e5dbd8854a58f3e04c82"
+          "records": 1402,
+          "bytes": 2680312,
+          "sha256": "78071fd4c335a96d5d803f855488aca21ccf281382f82af4b3e021827b21343e"
         },
         {
           "url": "/downloads/topics/tool-integration/citations.bib",
@@ -15197,12 +15179,12 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 1769,
+        "total": 1767,
         "papers": 356,
-        "benchmarks": 128,
+        "benchmarks": 127,
         "datasets": 64,
         "models": 83,
-        "systems": 1119,
+        "systems": 1118,
         "learning": 19
       },
       "resource_ids": [
@@ -16132,7 +16114,6 @@
         "github:lexmount/lexbench-headless-browser",
         "github:lexmount/moli",
         "github:lgoyal6/pms-race",
-        "github:lianping-cyber/dsh-browser-full-access",
         "github:lightfeed/browser-agent",
         "github:lightfeed/resurf",
         "github:lightpanda-io/agent-skill",
@@ -16728,7 +16709,6 @@
         "github:yueqis/api-based-agent",
         "github:yunyuntsai/webuiproof-benchmark",
         "github:yurunchen/harmonyguard",
-        "github:yutori-ai/navi-bench",
         "github:yxq953/muselite",
         "github:yyhezkel/lean-chronoscope-mcp",
         "github:yzd6552-commits/dsh-browseruse",
@@ -16983,9 +16963,9 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 1769,
-          "bytes": 3866677,
-          "sha256": "7c455aa11d6464124bba4a2d6ee81288ff439af2d91df50b57ed8feed877e591"
+          "records": 1767,
+          "bytes": 3862916,
+          "sha256": "cee28334ce97beb3bb11ef71747c5950961416e3facf09567c3af498b5d1ab6b"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
@@ -17008,12 +16988,12 @@
         "zh": "工作流"
       },
       "counts": {
-        "total": 565,
+        "total": 563,
         "papers": 142,
         "benchmarks": 30,
         "datasets": 9,
         "models": 3,
-        "systems": 371,
+        "systems": 369,
         "learning": 10
       },
       "resource_ids": [
@@ -17207,7 +17187,6 @@
         "github:banye-technology/abaopal",
         "github:baryhuang/claude-code-by-agents",
         "github:bee-san/airplane-checkin-skill",
-        "github:bees-bot/bees-desktop",
         "github:beme08/agentb",
         "github:bgivenb/computer-use-automation",
         "github:bhuvanb3110/rote",
@@ -17329,7 +17308,6 @@
         "github:joaomdmoura/crewai",
         "github:joncody/computer-use-automation",
         "github:kamalesh404/agentos",
-        "github:karunya-muddana/native",
         "github:kavanio/recordagent",
         "github:khazixw2/everything-maa",
         "github:kiexpert/wkappbot-sdk",
@@ -17590,9 +17568,9 @@
       "exports": [
         {
           "url": "/downloads/topics/workflow/records.jsonl",
-          "records": 565,
-          "bytes": 1205830,
-          "sha256": "85ae81289f0ee9d1ec7710aef7a2f9f6836cb5f5898064753cbee51c7ef31bd5"
+          "records": 563,
+          "bytes": 1203130,
+          "sha256": "59c2403de31944682998476962f600a2dce1b8cc5dadb85517dda05c9c298881"
         },
         {
           "url": "/downloads/topics/workflow/citations.bib",

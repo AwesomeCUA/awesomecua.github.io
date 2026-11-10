@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM)… (7fbde54a49250739baee) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7fbde54a49250739baee/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard SFT
 
 THUDM ScaleCUA 的监督训练 GLM-4.6V-Flash 检查点，作为 ScienceBoard 计算机使用智能体在线强化学习的初始模型发布。

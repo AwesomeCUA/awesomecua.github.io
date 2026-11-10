@@ -1,3 +1,11 @@
+---
+title: "AgentCIBench (github.com/ukplab/arxiv2026-agen… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # AgentCIBench
 
 AgentCIBench evaluates whether computer-use agents expose information across personal apps. It includes scored scenarios, benchmark runners, and a web environment for visual runs.

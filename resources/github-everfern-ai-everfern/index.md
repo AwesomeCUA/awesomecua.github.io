@@ -1,3 +1,11 @@
+---
+title: "EverFern | AwesomeCUA"
+url: https://awesomecua.com/resources/github-everfern-ai-everfern/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # EverFern
 
 Electron desktop agent whose LangGraph orchestrator runs a screenshot-driven computer-use loop with robotjs mouse and keyboard input, a Navis browser agent and shell tools, with local or cloud models.

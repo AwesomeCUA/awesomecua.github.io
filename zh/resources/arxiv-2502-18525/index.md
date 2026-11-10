@@ -1,3 +1,11 @@
+---
+title: "Programming with Pixels: Can… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-18525/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Programming with Pixels: Can Computer-Use Agents do Software Engineering?
 
 提出面向软件工程任务的可视化 IDE 环境和基准，比较基于截图的控制方式与使用编辑工具和 Shell 工具的方式。
@@ -27,6 +35,18 @@ Pranjal Aggarwal, Sean Welleck
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-18525/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-18525/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_18525,
+  title = {{Programming with Pixels: Can Computer-Use Agents do Software Engineering?}},
+  author = {{Pranjal Aggarwal} and {Sean Welleck}},
+  year = {2025},
+  eprint = {2502.18525v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.18525v2},
+  note = {First published: 2025-02-24; Recorded arXiv version: v2; Recorded version updated: 2025-10-03T02:09:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

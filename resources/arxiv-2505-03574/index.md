@@ -1,3 +1,11 @@
+---
+title: "LlamaFirewall: An open source guardrail… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-03574/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LlamaFirewall: An open source guardrail system for building secure AI agents
 
 Bibliographic record for LlamaFirewall: An open source guardrail system for building secure AI agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sahana Chennabasappa, Cyrus Nikolaidis, Daniel Song, David Molnar, Stephanie Din
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-03574/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-03574/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_03574,
+  title = {{LlamaFirewall: An open source guardrail system for building secure AI agents}},
+  author = {{Sahana Chennabasappa} and {Cyrus Nikolaidis} and {Daniel Song} and {David Molnar} and {Stephanie Ding} and {Shengye Wan} and {Spencer Whitman} and {Lauren Deason} and {Nicholas Doucette} and {Abraham Montilla} and {Alekhya Gampa} and {Beto de Paola} and {Dominik Gabi} and {James Crnkovich} and {Jean-Christophe Testud} and {Kat He} and {Rashnil Chaturvedi} and {Wu Zhou} and {Joshua Saxe}},
+  year = {2025},
+  eprint = {2505.03574v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.03574v1},
+  note = {First published: 2025-05-06; Recorded arXiv version: v1; Recorded version updated: 2025-05-06T14:34:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

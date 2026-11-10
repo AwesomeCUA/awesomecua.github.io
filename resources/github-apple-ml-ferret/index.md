@@ -1,3 +1,11 @@
+---
+title: "Ferret-UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-apple-ml-ferret/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # Ferret-UI
 
 Screen understanding research within the Ferret model family.

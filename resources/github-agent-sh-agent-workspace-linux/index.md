@@ -1,3 +1,11 @@
+---
+title: "agent-workspace-linux | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agent-sh-agent-workspace-linux/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # agent-workspace-linux
 
 A Linux workspace gives an agent a private desktop and browser controlled through MCP. It supports screen capture and input actions, with a viewer for watching and stopping the agent.

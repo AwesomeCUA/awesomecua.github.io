@@ -1,3 +1,11 @@
+---
+title: "Gelato-UI-TARS-1.5-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7617bb21031bc5fb6574/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Gelato-UI-TARS-1.5-7B
 
 以 UI-TARS-1.5-7B 为起点、在 Click-100k 数据集上用强化学习训练 255 步得到的 Gelato 方案基线模型，用于 GUI 元素定位。作者报告其在 ScreenSpot-Pro 和 OS-World-G 上优于 GTA1-7B-2507。

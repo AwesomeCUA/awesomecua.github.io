@@ -1,3 +1,11 @@
+---
+title: "SeeClick checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-cfea8a0949472a637990/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # SeeClick checkpoint
 
 The released SeeClick visual grounding checkpoint for mapping an interface screenshot and referring instruction to a point or bounding box.

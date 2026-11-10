@@ -1,3 +1,11 @@
+---
+title: "Video2GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-weiminxiong-video2gui/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Video2GUI
 
 Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled screen-recording videos via inverse dynamics and VLM annotation.

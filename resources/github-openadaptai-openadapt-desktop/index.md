@@ -1,3 +1,11 @@
+---
+title: "OpenAdapt Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # OpenAdapt Desktop
 
 OpenAdapt Desktop records work in web and desktop apps, compiles recordings into local programs, and replays data-entry tasks with screen checks and human approval.

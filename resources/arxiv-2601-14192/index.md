@@ -1,3 +1,11 @@
+---
+title: "Toward Efficient Agents: Memory, Tool… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-14192/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Toward Efficient Agents: Memory, Tool learning, and Planning
 
 Bibliographic record for Toward Efficient Agents: Memory, Tool learning, and Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xiaofang Yang, Lijun Li, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan We
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-14192/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-14192/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_14192,
+  title = {{Toward Efficient Agents: Memory, Tool learning, and Planning}},
+  author = {{Xiaofang Yang} and {Lijun Li} and {Heng Zhou} and {Tong Zhu} and {Xiaoye Qu} and {Yuchen Fan} and {Qianshan Wei} and {Rui Ye} and {Li Kang} and {Yiran Qin} and {Daizong Liu} and {Qi Li} and {Ning Ding} and {Siheng Chen} and {Jing Shao}},
+  year = {2026},
+  eprint = {2601.14192v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.14192v2},
+  note = {First published: 2026-01-20; Recorded arXiv version: v2; Recorded version updated: 2026-07-03T11:26:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

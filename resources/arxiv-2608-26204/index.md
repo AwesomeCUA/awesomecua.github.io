@@ -1,3 +1,11 @@
+---
+title: "ADeptS-Bench: Measuring the Trustworthiness… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-26204/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ADeptS-Bench: Measuring the Trustworthiness of Computer Use Agents Across Devices
 
 Evaluates interface-embedded threats and whether computer-use agents seek clarification when mobile or desktop instructions are ambiguous.
@@ -26,6 +34,18 @@ Joy Chen, Alejandro Castillejo Munoz, Pierluca D'Oro, Yuxuan Sun, Chloe Evans, J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-26204/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-26204/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_26204,
+  title = {{ADeptS-Bench: Measuring the Trustworthiness of Computer Use Agents Across Devices}},
+  author = {{Joy Chen} and {Alejandro Castillejo Munoz} and {Pierluca D'Oro} and {Yuxuan Sun} and {Chloe Evans} and {Joseph Tighe}},
+  year = {2026},
+  eprint = {2608.26204v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.26204v2},
+  note = {First published: 2026-08-25; Recorded arXiv version: v2; Recorded version updated: 2026-09-15T04:43:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

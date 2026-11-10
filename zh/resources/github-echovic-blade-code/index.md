@@ -1,3 +1,11 @@
+---
+title: "Blade Code · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-echovic-blade-code/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Blade Code
 
 Blade Code 是一款编程智能体，在智能体工作流程中提供原生 Chromium 自动化、ARIA 页面快照和浏览器操作。

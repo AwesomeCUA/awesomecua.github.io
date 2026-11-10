@@ -1,3 +1,11 @@
+---
+title: "agent-seat-linux · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-muhibnayem-agent-seat-linux/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-seat-linux
 
 为 Linux 自动化智能体提供限定于应用的 Wayland 屏幕捕获和隔离的输入席位。

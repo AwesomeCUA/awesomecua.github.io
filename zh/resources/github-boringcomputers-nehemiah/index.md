@@ -1,3 +1,11 @@
+---
+title: "Nehemiah · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-boringcomputers-nehemiah/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Nehemiah
 
 Nehemiah 按需创建配备浏览器和桌面环境的 Linux Firecracker 微型虚拟机，供 AI 智能体使用。

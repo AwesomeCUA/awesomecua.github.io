@@ -1,3 +1,11 @@
+---
+title: "Nakama · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahmadrosid-nakama/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # Nakama
 
 Nakama 是面向团队的 AI 智能体平台，可通过托管云或单个 Docker 容器运行；其智能体可操控每位用户的 Kernel 云浏览器或服务器上的 Chrome，打开网页、点击并填写表单。

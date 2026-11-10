@@ -1,3 +1,11 @@
+---
+title: "BrowseComp: A Simple Yet Challenging… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-12516/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents
 
 Bibliographic record for BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jason Wei, Zhiqing Sun, Spencer Papay, Scott McKinney, Jeffrey Han, Isa Fulford,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-12516/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-12516/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_12516,
+  title = {{BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents}},
+  author = {{Jason Wei} and {Zhiqing Sun} and {Spencer Papay} and {Scott McKinney} and {Jeffrey Han} and {Isa Fulford} and {Hyung Won Chung} and {Alex Tachard Passos} and {William Fedus} and {Amelia Glaese}},
+  year = {2025},
+  eprint = {2504.12516v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.12516v1},
+  note = {First published: 2025-04-16; Recorded arXiv version: v1; Recorded version updated: 2025-04-16T22:27:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "ZennoBrowser MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zennolab-zennobrowser-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ZennoBrowser MCP Server
 
 用于控制 ZennoBrowser 反检测浏览器配置、代理、Cookie 和网页动作的官方 Model Context Protocol 服务器。

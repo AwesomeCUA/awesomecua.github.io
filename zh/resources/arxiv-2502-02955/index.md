@@ -1,3 +1,11 @@
+---
+title: "ReachAgent: Enhancing Mobile Agent via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-02955/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation
 
 将移动任务拆为到达所需页面和在该页面操作两个阶段，并使用子任务数据和偏好的 GUI 轨迹训练。
@@ -27,6 +35,18 @@ Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-02955/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-02955/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_02955,
+  title = {{ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation}},
+  author = {{Qinzhuo Wu} and {Wei Liu} and {Jian Luan} and {Bin Wang}},
+  year = {2025},
+  eprint = {2502.02955v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.02955v1},
+  note = {First published: 2025-02-05; Recorded arXiv version: v1; Recorded version updated: 2025-02-05T07:35:23Z.}
+}
+```
 
 ## 发表记录
 

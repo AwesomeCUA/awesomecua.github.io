@@ -1,3 +1,11 @@
+---
+title: "mac-agent-bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-prithviseran-mac-agent-bench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # mac-agent-bench
 
 mac-agent-bench 在已登录的 Mac 上运行电脑操作工具，以脚本检查任务结果，同时测量前台应用和光标的变化。

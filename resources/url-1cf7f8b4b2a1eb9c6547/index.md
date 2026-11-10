@@ -1,3 +1,11 @@
+---
+title: "Pix2Struct Screen2Words base | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1cf7f8b4b2a1eb9c6547/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Pix2Struct Screen2Words base
 
 Base-size Pix2Struct checkpoint fine-tuned on Screen2Words that writes a short functional summary of a mobile UI screenshot, converted to Transformers from Google's original release.

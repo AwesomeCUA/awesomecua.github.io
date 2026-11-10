@@ -1,3 +1,11 @@
+---
+title: "PERFOPT-Bench: Evaluating Coding Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-07744/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization
 
 Status: excluded from the active CUA catalog after scope review.

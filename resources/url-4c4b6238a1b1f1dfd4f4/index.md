@@ -1,3 +1,11 @@
+---
+title: "JUMPDiscovery_results | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4c4b6238a1b1f1dfd4f4/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # JUMPDiscovery_results
 
 Outputs of the Orion computer-using agent on the JUMP Cell Painting discovery task: one folder per attempt with hypotheses, figures, analysis scripts and reports, plus an example trajectory.

@@ -1,3 +1,11 @@
+---
+title: "mPLUG/ToolCUA-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-44b65e07d7a869d37dc6/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # mPLUG/ToolCUA-8B
 
 ToolCUA-8B 是已发布的计算机操作模型，经过训练可在执行任务时交替使用桌面 GUI 操作和结构化工具调用。

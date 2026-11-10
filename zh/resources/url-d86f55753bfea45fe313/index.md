@@ -1,3 +1,11 @@
+---
+title: "GroundUI-1K · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d86f55753bfea45fe313/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # GroundUI-1K
 
 AgentStudio 从 GroundUI-18K 抽取的 1,000 条 GUI 元素定位测试集，包含网页、桌面和移动端截图、经 GPT-4o 重写的指令及目标边界框。

@@ -1,3 +1,11 @@
+---
+title: "D-Artemis: A Deliberative Cognitive Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-21799/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents
 
 Introduces D-Artemis, a mobile GUI agent framework that retrieves app-specific tips, checks actions before execution, and reflects on their outcomes without trajectory training.
@@ -26,6 +34,18 @@ Hongze Mi, Yibo Feng, Wenjie Lu, Yuqi Wang, Jinyuan Li, Song Cao, He Cui, Tengfe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-21799/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-21799/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21799,
+  title = {{D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents}},
+  author = {{Hongze Mi} and {Yibo Feng} and {Wenjie Lu} and {Yuqi Wang} and {Jinyuan Li} and {Song Cao} and {He Cui} and {Tengfei Tian} and {Xuelin Zhang} and {Haotian Luo} and {Di Sun} and {Jun Fang} and {Hua Chai} and {Naiqiang Tan} and {Gang Pan}},
+  year = {2025},
+  eprint = {2509.21799v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21799v3},
+  note = {First published: 2025-09-26; Recorded arXiv version: v3; Recorded version updated: 2026-01-07T02:57:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

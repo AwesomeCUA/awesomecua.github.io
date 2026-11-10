@@ -1,3 +1,11 @@
+---
+title: "Plasmate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-plasmate/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Plasmate
 
 Plasmate is a Rust browser engine for AI agents that transforms HTML and DOM state into a compact, actionable Semantic Object Model.

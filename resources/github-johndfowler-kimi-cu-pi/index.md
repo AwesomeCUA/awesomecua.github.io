@@ -1,3 +1,11 @@
+---
+title: "kimi-cu-pi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-johndfowler-kimi-cu-pi/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # kimi-cu-pi
 
 Extension connecting Kimi Computer Use (KimiCU) visual grounding and action capabilities to the Pi coding agent.

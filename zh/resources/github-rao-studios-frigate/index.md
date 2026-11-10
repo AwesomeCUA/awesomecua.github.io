@@ -1,3 +1,11 @@
+---
+title: "Frigate · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rao-studios-frigate/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Frigate
 
 一个包含 macOS 屏幕感知模块的 Swift 机器学习软件包。它检测屏幕区域、识别文字、分类界面元素角色，并生成页面结构图。

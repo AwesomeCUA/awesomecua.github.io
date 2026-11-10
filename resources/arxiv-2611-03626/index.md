@@ -1,3 +1,11 @@
+---
+title: "Isekai3D SDG: A Platform for Diverse… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-03626/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data
 
 Bibliographic record for Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Rafal Karp, Gene Liu, Shih-Hsin Li, Eric Courtemanche, Shengze Wang, Josef Spjut
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-03626/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-03626/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_03626,
+  title = {{Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data}},
+  author = {{Rafal Karp} and {Gene Liu} and {Shih-Hsin Li} and {Eric Courtemanche} and {Shengze Wang} and {Josef Spjut} and {David Pankratz} and {Mischa Kolbe} and {Michael Stengel} and {Sven Elflein} and {Adam Grygielski} and {Liwen Wu} and {Anjul Patney}},
+  year = {2026},
+  eprint = {2611.03626v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.03626v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T18:53:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

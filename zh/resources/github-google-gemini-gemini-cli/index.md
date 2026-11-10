@@ -1,3 +1,11 @@
+---
+title: "Gemini CLI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-gemini-gemini-cli/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Gemini CLI
 
 Gemini CLI 是 Google 的开源终端智能体，提供 shell 执行、文件操作、网页搜索和 MCP 工具集成。

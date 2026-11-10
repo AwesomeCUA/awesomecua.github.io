@@ -1,3 +1,11 @@
+---
+title: "dsh-browseruse · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yzd6552-commits-dsh-browseruse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-browseruse
 
 面向 DeepSeek Harness 的 Browser-Use 风格插件，通过 Playwright 和 CDP 驱动专用 Chrome 配置文件。

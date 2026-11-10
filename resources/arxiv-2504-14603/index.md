@@ -1,3 +1,11 @@
+---
+title: "UFO2: The Desktop AgentOS | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-14603/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UFO2: The Desktop AgentOS
 
 Introduces UFO2, a Windows desktop agent architecture combining a coordinating HostAgent, application-specialized agents, and a shared GUI/API action layer. It integrates UI Automation, visual parsing, speculative planning, and an isolated picture-in-picture desktop.
@@ -26,6 +34,18 @@ Chaoyun Zhang, He Huang, Chiming Ni, Jian Mu, Si Qin, Shilin He, Lu Wang, Fangka
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-14603/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-14603/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_14603,
+  title = {{UFO2: The Desktop AgentOS}},
+  author = {{Chaoyun Zhang} and {He Huang} and {Chiming Ni} and {Jian Mu} and {Si Qin} and {Shilin He} and {Lu Wang} and {Fangkai Yang} and {Pu Zhao} and {Chao Du} and {Liqun Li} and {Yu Kang} and {Zhao Jiang} and {Suzhen Zheng} and {Rujia Wang} and {Jiaxu Qian} and {Minghua Ma} and {Jian-Guang Lou} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang}},
+  year = {2025},
+  eprint = {2504.14603v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.14603v2},
+  note = {First published: 2025-04-20; Recorded arXiv version: v2; Recorded version updated: 2025-04-25T05:14:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

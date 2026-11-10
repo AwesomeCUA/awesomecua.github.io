@@ -1,3 +1,11 @@
+---
+title: "clef-use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kotori0919-clef-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # clef-use
 
 clef-use 是本地计算机使用运行时，结合结构化无障碍信息、SigLIP2 视觉图块定位、OmniParser 和 MCP 工具。

@@ -1,3 +1,11 @@
+---
+title: "OpenBUA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alisharjeell-openbua/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # OpenBUA
 
 在用户已登录的浏览器中运行的 Chrome 侧边栏智能体，读取 DOM 控件清单和标签页截图，再通过注入的合成事件点击、输入和填写表单。

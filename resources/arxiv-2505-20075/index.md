@@ -1,3 +1,11 @@
+---
+title: "Curriculum-RLAIF: Curriculum Alignment with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-20075/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Curriculum-RLAIF: Curriculum Alignment with Reinforcement Learning from AI Feedback
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "A Multi-Modal Robotic Framework for Physical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-06939/
+updated: 2026-11-07
+type: paper
+lang: en
+---
+
 # A Multi-Modal Robotic Framework for Physical GUI Interaction Testing
 
 Bibliographic record for A Multi-Modal Robotic Framework for Physical GUI Interaction Testing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Davi Freitas
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-06939/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-06939/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_06939,
+  title = {{A Multi-Modal Robotic Framework for Physical GUI Interaction Testing}},
+  author = {{Davi Freitas}},
+  year = {2026},
+  eprint = {2611.06939v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.06939v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T23:09:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

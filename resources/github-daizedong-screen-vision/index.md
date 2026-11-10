@@ -1,3 +1,11 @@
+---
+title: "screen-vision | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daizedong-screen-vision/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # screen-vision
 
 Captures desktop windows and extracts UI elements and buttons with pixel coordinates combining accessibility trees and OCR.

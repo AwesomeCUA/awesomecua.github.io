@@ -1,3 +1,11 @@
+---
+title: "LongHorizon-Harness | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LongHorizon-Harness
 
 LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.

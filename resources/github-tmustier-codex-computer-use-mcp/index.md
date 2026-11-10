@@ -1,3 +1,11 @@
+---
+title: "Codex Computer Use MCP (Signed Broker Bridge) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex Computer Use MCP (Signed Broker Bridge)
 
 Background-safe MCP server that exposes OpenAI's signed macOS Codex Computer Use broker to Pi and MCP clients.

@@ -1,3 +1,11 @@
+---
+title: "Captr for Windows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anaishowland-captr-windows/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Captr for Windows
 
 Captr for Windows records synchronized screen video, mouse/keyboard events, DOM snapshots, and Windows accessibility trees for CUA datasets.

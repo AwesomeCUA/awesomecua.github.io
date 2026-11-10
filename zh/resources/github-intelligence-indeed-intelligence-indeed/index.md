@@ -1,3 +1,11 @@
+---
+title: "Intelligence Indeed · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-intelligence-indeed-intelligence-indeed/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Intelligence Indeed
 
 Intelligence Indeed 是桌面 GUI 智能体，可加载可复用的操作指南、探查当前环境，并在规划与执行阶段共享针对任务收集的信息。

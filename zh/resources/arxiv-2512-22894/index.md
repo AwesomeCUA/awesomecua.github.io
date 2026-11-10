@@ -1,3 +1,11 @@
+---
+title: "DECEPTICON: How Dark Patterns Manipulate… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-22894/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # DECEPTICON: How Dark Patterns Manipulate Web Agents
 
 DECEPTICON 包含 700 项网页导航任务，单独测试不同暗黑模式如何引导智能体操作。
@@ -27,6 +35,18 @@ Phil Cuvin, Hao Zhu, Diyi Yang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-22894/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-22894/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_22894,
+  title = {{DECEPTICON: How Dark Patterns Manipulate Web Agents}},
+  author = {{Phil Cuvin} and {Hao Zhu} and {Diyi Yang}},
+  year = {2025},
+  eprint = {2512.22894v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.22894v2},
+  note = {First published: 2025-12-28; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T11:44:30Z.}
+}
+```
 
 ## 发表记录
 

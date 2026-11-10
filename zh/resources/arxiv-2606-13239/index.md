@@ -1,3 +1,11 @@
+---
+title: "ComAct: Reframing Professional Software… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-13239/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ComAct: Reframing Professional Software Manipulation via COM-as-Action Paradigm
 
 ComAct 提出将 COM 程序合成作为操控专业软件的另一种接口，并发布包含 GUI 对比智能体的 ComCADBench。ComActor 采用分阶段训练与纠错方法，由 Windows 容器训练平台提供支持。
@@ -27,6 +35,18 @@ Jiaxin Ai, Tao Hu, Xuemeng Yang, Shu Zou, Hairong Zhang, Daocheng Fu, Yu Yang, H
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-13239/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-13239/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_13239,
+  title = {{ComAct: Reframing Professional Software Manipulation via COM-as-Action Paradigm}},
+  author = {{Jiaxin Ai} and {Tao Hu} and {Xuemeng Yang} and {Shu Zou} and {Hairong Zhang} and {Daocheng Fu} and {Yu Yang} and {Hongbin Zhou} and {Nianchen Deng} and {Pinlong Cai} and {Zhongyuan Wang} and {Botian Shi} and {Kaipeng Zhang} and {Licheng Wen}},
+  year = {2026},
+  eprint = {2606.13239v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.13239v2},
+  note = {First published: 2026-06-11; Recorded arXiv version: v2; Recorded version updated: 2026-06-30T03:31:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

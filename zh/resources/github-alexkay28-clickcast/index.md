@@ -1,3 +1,11 @@
+---
+title: "clickcast · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alexkay28-clickcast/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # clickcast
 
 面向 AI 智能体的 Playwright 浏览器自动化、截图及 GIF/MP4/WebP 会话录制工具包和 MCP 服务器。

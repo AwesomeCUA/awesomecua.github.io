@@ -1,3 +1,11 @@
+---
+title: "Agent libOS: A Runtime Substrate for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-03895/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agent libOS: A Runtime Substrate for Capability-Controlled Self-Evolving LLM Agents
 
 Bibliographic record for Agent libOS: A Runtime Substrate for Capability-Controlled Self-Evolving LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yingqi Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-03895/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-03895/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03895,
+  title = {{Agent libOS: A Runtime Substrate for Capability-Controlled Self-Evolving LLM Agents}},
+  author = {{Yingqi Zhang}},
+  year = {2026},
+  eprint = {2606.03895v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03895v3},
+  note = {First published: 2026-06-02; Recorded arXiv version: v3; Recorded version updated: 2026-08-18T06:50:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

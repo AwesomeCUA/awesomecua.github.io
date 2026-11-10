@@ -1,3 +1,11 @@
+---
+title: "Ghost in the Droid · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ghost-in-the-droid-android-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Ghost in the Droid
 
 Ghost in the Droid 是一款 Android GUI 智能体，结合无障碍树、截图感知以及 ADB 和设备端执行。

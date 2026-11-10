@@ -1,3 +1,11 @@
+---
+title: "AdInject · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nicerwang-adinject/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AdInject
 
 AdInject 实现通过 OSWorld 和 VisualWebArena 上的网页广告横幅传递的黑盒间接提示注入攻击。

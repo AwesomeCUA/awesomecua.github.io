@@ -1,3 +1,11 @@
+---
+title: "Nexus Computer Use Harness (NexusCUH) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-subasah-computer-use-harness/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Nexus Computer Use Harness (NexusCUH)
 
 NexusCUH 是计算机使用智能体测试框架，具备沙箱执行、MCP 集成、策略防护和轨迹可观测性。

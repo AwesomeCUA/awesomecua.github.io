@@ -1,3 +1,11 @@
+---
+title: "From Prompt Injections to SQL Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-01990/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application?
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Planning with Logical Graph-based Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-13782/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Planning with Logical Graph-based Language Model for Instruction Generation
 
 Bibliographic record for Planning with Logical Graph-based Language Model for Instruction Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fan Zhang, Kebing Jin, Hankz Hankui Zhuo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-13782/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-13782/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_13782,
+  title = {{Planning with Logical Graph-based Language Model for Instruction Generation}},
+  author = {{Fan Zhang} and {Kebing Jin} and {Hankz Hankui Zhuo}},
+  year = {2023},
+  eprint = {2308.13782v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.13782v2},
+  note = {First published: 2023-08-26; Recorded arXiv version: v2; Recorded version updated: 2024-07-05T15:24:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

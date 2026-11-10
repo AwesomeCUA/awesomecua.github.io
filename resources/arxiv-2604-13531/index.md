@@ -1,3 +1,11 @@
+---
+title: "RiskWebWorld: A Realistic Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13531/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management
 
 Introduces RiskWebWorld, an interactive benchmark of e-commerce risk-management tasks for GUI agents on websites, with Gymnasium infrastructure for evaluation and agentic RL.
@@ -26,6 +34,18 @@ Renqi Chen, Zeyin Tao, Jianming Guo, Jing Wang, Zezhou Xu, Jingzhe Zhu, Qingqing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-13531/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-13531/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_13531,
+  title = {{RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management}},
+  author = {{Renqi Chen} and {Zeyin Tao} and {Jianming Guo} and {Jing Wang} and {Zezhou Xu} and {Jingzhe Zhu} and {Qingqing Sun} and {Tianyi Zhang} and {Shuai Chen}},
+  year = {2026},
+  eprint = {2604.13531v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.13531v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T06:27:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

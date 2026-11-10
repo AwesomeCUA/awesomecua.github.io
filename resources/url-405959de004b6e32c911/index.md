@@ -1,3 +1,11 @@
+---
+title: "luzimu/WebGen-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-405959de004b6e32c911/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # luzimu/WebGen-Bench
 
 A dataset of website-generation instructions and UI test cases for evaluating interactive sites, with separate training and test splits.

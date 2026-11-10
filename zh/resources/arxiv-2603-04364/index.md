@@ -1,3 +1,11 @@
+---
+title: "Dual-Modality Multi-Stage Adversarial… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-04364/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks
 
 研究同时影响截图和无障碍树的网页注入攻击，再通过教师模仿、监督式对抗样本和对抗强化学习训练网页智能体；在 MiniWoB++ 和留出任务上评估防御效果。
@@ -27,6 +35,18 @@ Haoyu Liu, Dingcheng Li, Lukas Rutishauser, Zeyu Zheng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-04364/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-04364/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_04364,
+  title = {{Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks}},
+  author = {{Haoyu Liu} and {Dingcheng Li} and {Lukas Rutishauser} and {Zeyu Zheng}},
+  year = {2026},
+  eprint = {2603.04364v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.04364v2},
+  note = {First published: 2026-03-04; Recorded arXiv version: v2; Recorded version updated: 2026-10-05T23:01:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

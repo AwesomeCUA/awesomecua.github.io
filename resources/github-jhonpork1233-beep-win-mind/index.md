@@ -1,3 +1,11 @@
+---
+title: "WinMind | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jhonpork1233-beep-win-mind/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # WinMind
 
 WinMind is a Windows MCP server that lets AI agents inspect and drive desktop applications through the UI Automation accessibility tree.

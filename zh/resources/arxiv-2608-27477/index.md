@@ -1,3 +1,11 @@
+---
+title: "Benchmarking General Mobile Assistants… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-27477/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Benchmarking General Mobile Assistants in Challenging Real-World Scenarios
 
 提出 GMA 基准，包含七个应用中的 300 项移动端助手任务，并研究上下文保留和状态跟踪如何影响复杂工作流。
@@ -27,6 +35,18 @@ Yiqi Zhu, Feiyu Gao, Jiaxing Fan, Jiahui Zeng, Minggang Wu, Chenliang Li, Haiyan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-27477/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-27477/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27477,
+  title = {{Benchmarking General Mobile Assistants in Challenging Real-World Scenarios}},
+  author = {{Yiqi Zhu} and {Feiyu Gao} and {Jiaxing Fan} and {Jiahui Zeng} and {Minggang Wu} and {Chenliang Li} and {Haiyang Xu} and {Peng Li} and {Ming Yan} and {Yang Liu}},
+  year = {2026},
+  eprint = {2608.27477v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27477v1},
+  note = {First published: 2026-08-21; Recorded arXiv version: v1; Recorded version updated: 2026-08-21T12:17:14Z.}
+}
+```
 
 ## arXiv 版本记录
 

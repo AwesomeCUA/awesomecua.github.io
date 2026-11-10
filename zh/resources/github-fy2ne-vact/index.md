@@ -1,3 +1,11 @@
+---
+title: "VACT (Vector Agent Context Transport) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fy2ne-vact/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # VACT (Vector Agent Context Transport)
 
 面向桌面计算机使用智能体的高频 GPU 屏幕感知和低延迟输入传输协议。

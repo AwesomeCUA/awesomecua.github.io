@@ -1,3 +1,11 @@
+---
+title: "Piskie | AwesomeCUA"
+url: https://awesomecua.com/resources/github-piskie-dev-piskie/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Piskie
 
 Desktop AI agent for the real web equipped with a built-in anti-detect fingerprint browser.

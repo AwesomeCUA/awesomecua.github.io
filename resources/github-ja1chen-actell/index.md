@@ -1,3 +1,11 @@
+---
+title: "Actell | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ja1chen-actell/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Actell
 
 An iPhone agent prototype observes screenshots or accessibility content and issues taps and drags through CoreDevice, using a VPN loopback or optional hardware relay.

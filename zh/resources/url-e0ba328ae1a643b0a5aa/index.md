@@ -1,3 +1,11 @@
+---
+title: "WebSRC v1.0 · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e0ba328ae1a643b0a5aa/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WebSRC v1.0
 
 用于结构化阅读理解的网页片段、问题、答案、HTML、截图和布局元数据。

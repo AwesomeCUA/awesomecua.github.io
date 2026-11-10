@@ -1,3 +1,11 @@
+---
+title: "RewardHarness: Self-Evolving Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-08703/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RewardHarness: Self-Evolving Agentic Post-Training
 
 Status: excluded from the active CUA catalog after scope review.

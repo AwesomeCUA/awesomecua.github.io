@@ -1,3 +1,11 @@
+---
+title: "Does Chain-of-Thought Reasoning Help… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-16788/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study
 
 比较匹配的推理型与非推理型视觉语言模型在静态移动端 GUI 任务和交互式 AndroidWorld 导航中的表现，发现思维链的效果随任务和模型系列而变化。
@@ -27,6 +35,18 @@ Li Zhang, Longxi Gao, Mengwei Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-16788/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-16788/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_16788,
+  title = {{Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study}},
+  author = {{Li Zhang} and {Longxi Gao} and {Mengwei Xu}},
+  year = {2025},
+  eprint = {2503.16788v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.16788v1},
+  note = {First published: 2025-03-21; Recorded arXiv version: v1; Recorded version updated: 2025-03-21T01:52:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

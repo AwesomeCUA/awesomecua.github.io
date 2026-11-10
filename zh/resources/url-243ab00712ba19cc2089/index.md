@@ -1,3 +1,11 @@
+---
+title: "WorkDemo-350 · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-243ab00712ba19cc2089/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # WorkDemo-350
 
 桌面操作演示数据，包含任务描述、视频、输入日志，以及与操作关联的截图证据，用于研究可复用的智能体技能。

@@ -1,3 +1,11 @@
+---
+title: "Factifai · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-presidio-oss-factif-ai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Factifai
 
 Factifai 是 AI 驱动的浏览器和 UI 测试自动化框架，使用 Playwright 和视觉模型执行自然语言测试用例。

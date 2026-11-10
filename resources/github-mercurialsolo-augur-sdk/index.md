@@ -1,3 +1,11 @@
+---
+title: "augur-sdk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mercurialsolo-augur-sdk/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # augur-sdk
 
 augur-sdk instruments screenshot-grounded computer-use agents to record structured telemetry bundles, screenshots, and failure traces.

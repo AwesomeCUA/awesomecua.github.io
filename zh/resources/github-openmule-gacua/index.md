@@ -1,3 +1,11 @@
+---
+title: "GACUA · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openmule-gacua/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # GACUA
 
 GACUA 是基于 Gemini CLI 构建的开箱即用的计算机使用智能体，结合了桌面屏幕控制、浏览器自动化和 shell 工具。

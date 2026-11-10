@@ -1,3 +1,11 @@
+---
+title: "VoLo: A Physical Orchestrator for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-07723/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation
 
 Status: excluded from the active CUA catalog after scope review.

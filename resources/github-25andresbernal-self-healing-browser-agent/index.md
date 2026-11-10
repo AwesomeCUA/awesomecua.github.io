@@ -1,3 +1,11 @@
+---
+title: "Self-Healing Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Self-Healing Browser Agent
 
 Combines Claude planning with Playwright execution and ranked selector fallback to self-heal broken web automation steps.

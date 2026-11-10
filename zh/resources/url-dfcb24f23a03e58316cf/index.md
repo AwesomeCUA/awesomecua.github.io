@@ -1,3 +1,11 @@
+---
+title: "duvo-eye-1-evals · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dfcb24f23a03e58316cf/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # duvo-eye-1-evals
 
 收录多个公开基准逐样本的图形界面定位预测与参考坐标，并附有重新计算结果的脚本。

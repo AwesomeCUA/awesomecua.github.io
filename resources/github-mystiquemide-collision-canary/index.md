@@ -1,3 +1,11 @@
+---
+title: "Collision Canary | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mystiquemide-collision-canary/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Collision Canary
 
 Multi-actor invariant verification harness that drives two concurrent browser agents against a shared backend to uncover race bugs.

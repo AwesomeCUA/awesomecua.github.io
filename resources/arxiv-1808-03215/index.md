@@ -1,3 +1,11 @@
+---
+title: "Scalable Gaussian Process Computations Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1808-03215/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Scalable Gaussian Process Computations Using Hierarchical Matrices
 
 Status: excluded from the active CUA catalog after scope review.

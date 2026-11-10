@@ -1,3 +1,11 @@
+---
+title: "CORA: Conformal Risk-Controlled Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-09155/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation
 
 Introduces CORA, which calibrates a risk model to choose between executing and abstaining from mobile GUI actions, then diagnoses rejected actions to suggest interventions. Phone-Harm provides step-level safety labels for evaluating this safeguarding process.
@@ -26,6 +34,18 @@ Yushi Feng, Junye Du, Qifan Wang, Zizhan Ma, Qian Niu, Yutaka Matsuo, Long Feng,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-09155/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-09155/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_09155,
+  title = {{CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation}},
+  author = {{Yushi Feng} and {Junye Du} and {Qifan Wang} and {Zizhan Ma} and {Qian Niu} and {Yutaka Matsuo} and {Long Feng} and {Lequan Yu}},
+  year = {2026},
+  eprint = {2604.09155v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.09155v1},
+  note = {First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T09:41:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

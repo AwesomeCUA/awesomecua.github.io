@@ -1,3 +1,11 @@
+---
+title: "AutoKey | AwesomeCUA"
+url: https://awesomecua.com/resources/github-autokey-autokey/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AutoKey
 
 AutoKey is a Python-scriptable desktop automation and keyboard/mouse macro utility for Linux and X11 environments.

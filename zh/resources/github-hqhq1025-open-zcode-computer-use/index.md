@@ -1,3 +1,11 @@
+---
+title: "Open ZCode Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hqhq1025-open-zcode-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Open ZCode Computer Use
 
 Z.ai ZCode 双模式计算机使用 MCP 服务器的净室实现，结合像素坐标桌面控制和原生 macOS AX 工具。

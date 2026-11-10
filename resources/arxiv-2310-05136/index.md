@@ -1,3 +1,11 @@
+---
+title: "InstructDET: Diversifying Referring Object… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-05136/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # InstructDET: Diversifying Referring Object Detection with Generalized Instructions
 
 Bibliographic record for InstructDET: Diversifying Referring Object Detection with Generalized Instructions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ronghao Dang, Jiangyan Feng, Haodong Zhang, Chongjian Ge, Lin Song, Lijun Gong, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-05136/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-05136/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_05136,
+  title = {{InstructDET: Diversifying Referring Object Detection with Generalized Instructions}},
+  author = {{Ronghao Dang} and {Jiangyan Feng} and {Haodong Zhang} and {Chongjian Ge} and {Lin Song} and {Lijun Gong} and {Chengju Liu} and {Qijun Chen} and {Feng Zhu} and {Rui Zhao} and {Yibing Song}},
+  year = {2023},
+  eprint = {2310.05136v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.05136v5},
+  note = {First published: 2023-10-08; Recorded arXiv version: v5; Recorded version updated: 2024-03-11T07:32:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

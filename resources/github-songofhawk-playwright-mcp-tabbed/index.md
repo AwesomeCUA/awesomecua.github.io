@@ -1,3 +1,11 @@
+---
+title: "playwright-mcp-tabbed | AwesomeCUA"
+url: https://awesomecua.com/resources/github-songofhawk-playwright-mcp-tabbed/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # playwright-mcp-tabbed
 
 Tab-aware Playwright MCP server with per-tool `tab_index` isolation so parallel AI agents can operate independent tabs concurrently.

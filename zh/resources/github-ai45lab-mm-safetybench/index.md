@@ -1,3 +1,11 @@
+---
+title: "MM-SafetyBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai45lab-mm-safetybench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # MM-SafetyBench
 
 MM-SafetyBench 在 13 种场景中，使用与查询相关的对抗性图像和排版安全提示评测多模态大语言模型。

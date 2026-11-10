@@ -1,3 +1,11 @@
+---
+title: "taskproof · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-taskproof-taskproof/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # taskproof
 
 taskproof 是开源 CI 测试框架，用于测试真实的 AI 计算机使用智能体和浏览器智能体能否在实时网站上完成任务。

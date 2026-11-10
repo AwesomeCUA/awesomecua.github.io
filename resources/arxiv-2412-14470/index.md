@@ -1,3 +1,11 @@
+---
+title: "Agent-SafetyBench: Evaluating the Safety of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-14470/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Agent-SafetyBench: Evaluating the Safety of LLM Agents
 
 Bibliographic record for Agent-SafetyBench: Evaluating the Safety of LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhexin Zhang, Shiyao Cui, Yida Lu, Jingzhuo Zhou, Junxiao Yang, Hongning Wang, M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-14470/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-14470/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_14470,
+  title = {{Agent-SafetyBench: Evaluating the Safety of LLM Agents}},
+  author = {{Zhexin Zhang} and {Shiyao Cui} and {Yida Lu} and {Jingzhuo Zhou} and {Junxiao Yang} and {Hongning Wang} and {Minlie Huang}},
+  year = {2024},
+  eprint = {2412.14470v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.14470v2},
+  note = {First published: 2024-12-19; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T05:58:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

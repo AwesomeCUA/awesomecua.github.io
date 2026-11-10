@@ -1,3 +1,11 @@
+---
+title: "Integrated probabilistic computer using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-08017/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Integrated probabilistic computer using voltage-controlled magnetic tunnel junctions as its entropy source
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Eliciting Compatible Demonstrations for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-08073/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Eliciting Compatible Demonstrations for Multi-Human Imitation Learning
 
 Status: excluded from the active CUA catalog after scope review.

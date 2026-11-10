@@ -1,3 +1,11 @@
+---
+title: "Marvi OS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xretr00-marvi-os/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Marvi OS
 
 Conversational desktop agent shell that observes screen context and executes local OS and GUI actions.

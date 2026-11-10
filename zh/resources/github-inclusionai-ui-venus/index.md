@@ -1,3 +1,11 @@
+---
+title: "UI-Venus · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-inclusionai-ui-venus/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # UI-Venus
 
 UI-Venus 是 GUI 智能体模型系列；其中 9B 和 27B 规模的 UI-Venus-2 以单个端到端智能体操作移动端、网页和桌面端，并通过基于关键点的多评审任务验证进行训练。

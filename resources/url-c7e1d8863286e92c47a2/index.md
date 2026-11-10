@@ -1,3 +1,11 @@
+---
+title: "VideoAgentTrek-ScreenFilter | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c7e1d8863286e92c47a2/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # VideoAgentTrek-ScreenFilter
 
 Cursor-detection model in the VideoAgentTrek pipeline that filters screen-recorded tutorial videos by cursor presence before Video2Action extracts GUI action trajectories.

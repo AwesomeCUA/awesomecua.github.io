@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-Data-v2 · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # OpenMobile-Data-v2
 
 来自仿真器和模拟器轨迹的移动端智能体监督数据，另含用于强化学习、带有初始状态和成功判定条件的可执行任务。

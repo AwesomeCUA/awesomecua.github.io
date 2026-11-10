@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas Base 4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-30c831a1198b9bc2a0f5/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # OS-Atlas Base 4B
 
 OS-Atlas base checkpoint with about 4.1B parameters, fine-tuned from InternVL2-4B and loaded in Transformers through custom InternVL chat model code.

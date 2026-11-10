@@ -1,3 +1,11 @@
+---
+title: "Holo-3.1-35B-A3B-GGUF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ee3a18b51eb44d94a94b/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Holo-3.1-35B-A3B-GGUF
 
 A quantized Holo3.1 vision-language checkpoint for computer-use agents across web, desktop, and mobile interfaces, with UI grounding and function calling.

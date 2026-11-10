@@ -1,3 +1,11 @@
+---
+title: "Mobile Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-looper42-mobile-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Mobile Agent
 
 Mobile Agent is an Android assistant that can use local tools and optional accessibility-based device control, with approval for sensitive actions.

@@ -1,3 +1,11 @@
+---
+title: "solari-identity-guard · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nahuelsoria-solari-identity-guard/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # solari-identity-guard
 
 用于 Solari 浏览器智能体配置的默认拒绝式身份与会话验证中间件。

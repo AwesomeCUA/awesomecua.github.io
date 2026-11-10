@@ -1,3 +1,11 @@
+---
+title: "BIMgent: Towards Autonomous Building… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-07217/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # BIMgent: Towards Autonomous Building Modeling via Computer-use Agents
 
 BIMgent 规划针对特定软件的工作流程，并执行 GUI 操作以完成建筑信息建模；其评估涵盖专业建模软件中的多模态建筑设计与重建任务。
@@ -27,6 +35,18 @@ Zihan Deng, Changyu Du, Stavros Nousias, André Borrmann
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-07217/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-07217/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_07217,
+  title = {{BIMgent: Towards Autonomous Building Modeling via Computer-use Agents}},
+  author = {{Zihan Deng} and {Changyu Du} and {Stavros Nousias} and {André Borrmann}},
+  year = {2025},
+  eprint = {2506.07217v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.07217v2},
+  note = {First published: 2025-06-08; Recorded arXiv version: v2; Recorded version updated: 2025-06-30T08:31:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

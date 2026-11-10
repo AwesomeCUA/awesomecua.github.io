@@ -1,3 +1,11 @@
+---
+title: "MagenticLite / Magentic UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-magentic-ui/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # MagenticLite / Magentic UI
 
 Microsoft agent application combining orchestration with browser interaction; successor to Magentic UI.

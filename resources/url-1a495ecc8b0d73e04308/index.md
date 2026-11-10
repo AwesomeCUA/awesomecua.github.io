@@ -1,3 +1,11 @@
+---
+title: "GUI-SD-data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1a495ecc8b0d73e04308/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # GUI-SD-data
 
 Training data for GUI-SD, an on-policy self-distillation method for GUI grounding, with about 6.99k screenshots and a JSONL annotation file read by the GUI-SD training scripts.

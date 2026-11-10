@@ -1,3 +1,11 @@
+---
+title: "BrowserGym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-servicenow-browsergym/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # BrowserGym
 
 Unified interfaces for browser-agent tasks and benchmark environments.

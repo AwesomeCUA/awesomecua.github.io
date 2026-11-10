@@ -1,3 +1,11 @@
+---
+title: "drift-audit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # drift-audit
 
 Audits and classifies a browser-automation repository's selector maintenance history to quantify UI drift fragility.

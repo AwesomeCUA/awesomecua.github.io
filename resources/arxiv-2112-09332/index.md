@@ -1,3 +1,11 @@
+---
+title: "WebGPT: Browser-assisted question-answering… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2112-09332/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebGPT: Browser-assisted question-answering with human feedback
 
 Trains a question-answering model to search and navigate a text-based web browser, collect references and improve long-form answers using demonstrations and human feedback.
@@ -26,6 +34,18 @@ Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina K
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2112-09332/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2112-09332/citation.csl.json
+
+```bibtex
+@misc{arxiv_2112_09332,
+  title = {{WebGPT: Browser-assisted question-answering with human feedback}},
+  author = {{Reiichiro Nakano} and {Jacob Hilton} and {Suchir Balaji} and {Jeff Wu} and {Long Ouyang} and {Christina Kim} and {Christopher Hesse} and {Shantanu Jain} and {Vineet Kosaraju} and {William Saunders} and {Xu Jiang} and {Karl Cobbe} and {Tyna Eloundou} and {Gretchen Krueger} and {Kevin Button} and {Matthew Knight} and {Benjamin Chess} and {John Schulman}},
+  year = {2021},
+  eprint = {2112.09332v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2112.09332v3},
+  note = {First published: 2021-12-17; Recorded arXiv version: v3; Recorded version updated: 2022-06-01T19:08:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

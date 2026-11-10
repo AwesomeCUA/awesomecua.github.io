@@ -1,3 +1,11 @@
+---
+title: "ScreenVLM | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ScreenVLM
 
 A model that converts web page screenshots into structured markup containing UI element locations, class labels, and visible text.

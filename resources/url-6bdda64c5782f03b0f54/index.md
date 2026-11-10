@@ -1,3 +1,11 @@
+---
+title: "OmniJev (huggingface.co/tinnel123/OmniJev) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6bdda64c5782f03b0f54/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # OmniJev
 
 OmniJev v1.1 is a 4B LoRA adapter with decision heads for Qwen3.5-4B that answers typed questions about screens and other images with probabilities; its task families include androidcontrol and web.

@@ -1,3 +1,11 @@
+---
+title: "computer.md · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-carloslfu-computer-md/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # computer.md
 
 定义开放的 `COMPUTER.md` 机器规范和运行时，供 LLM 智能体操作终端、文件系统和桌面 GUI。

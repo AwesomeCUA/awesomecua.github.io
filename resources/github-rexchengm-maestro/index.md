@@ -1,3 +1,11 @@
+---
+title: "Maestro (AI-Drivable RPA) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rexchengm-maestro/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Maestro (AI-Drivable RPA)
 
 Records a desktop or browser task once and lets AI optimize, parameterize, and replay it as a deterministic RPA workflow.

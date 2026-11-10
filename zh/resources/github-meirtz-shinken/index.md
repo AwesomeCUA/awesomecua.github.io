@@ -1,3 +1,11 @@
+---
+title: "Shinken · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-meirtz-shinken/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Shinken
 
 Shinken 是高吞吐量运行环境，用于在并行的真实桌面上通过强化学习端到端训练计算机使用智能体。

@@ -1,3 +1,11 @@
+---
+title: "UI-Copilot: Advancing Long-Horizon GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-13822/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization
 
 UI-Copilot 将 GUI 执行与按需记忆检索、数值辅助分开；其训练将工具选择和多轮任务执行作为不同的优化目标，并把持久观察记录置于临时上下文之外。
@@ -27,6 +35,18 @@ Zhengxi Lu, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Wei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-13822/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-13822/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_13822,
+  title = {{UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization}},
+  author = {{Zhengxi Lu} and {Fei Tang} and {Guangyi Liu} and {Kaitao Song} and {Xu Tan} and {Jin Ma} and {Wenqi Zhang} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2604.13822v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.13822v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T12:55:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "dsh-llm-web-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-huangyukaili1031-dsh-llm-web-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-llm-web-bridge
 
 DeepSeek Harness bridge for automating and orchestrating logged-in web LLM chat sessions in Chrome.

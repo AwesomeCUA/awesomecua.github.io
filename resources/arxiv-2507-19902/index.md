@@ -1,3 +1,11 @@
+---
+title: "AgentMesh: A Cooperative Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-19902/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation
 
 Status: excluded from the active CUA catalog after scope review.

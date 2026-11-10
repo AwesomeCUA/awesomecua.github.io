@@ -1,3 +1,11 @@
+---
+title: "CloakBrowser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cloakhq-cloakbrowser/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # CloakBrowser
 
 CloakBrowser 提供经过修改的 Chromium 版本，以及兼容 Playwright 和 Puppeteer 的 API，用于脚本化浏览器交互。

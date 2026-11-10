@@ -1,3 +1,11 @@
+---
+title: "HTLM · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-espetro-htlm/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # HTLM
 
 HTLM 是在 Mind2Web 上微调的紧凑型 350M 浏览器智能体模型，用于在设备端和浏览器内快速预测 DOM 动作。

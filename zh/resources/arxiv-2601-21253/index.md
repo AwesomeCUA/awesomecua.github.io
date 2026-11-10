@@ -1,3 +1,11 @@
+---
+title: "CovAgent: Overcoming the 30% Curse of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-21253/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CovAgent: Overcoming the 30% Curse of Mobile Application Coverage with Agentic AI and Dynamic Instrumentation
 
 CovAgent 通过分析反编译的应用代码和组件跳转，找出尚未满足的激活条件，以增强 Android GUI 模糊测试器；另一个智能体生成插桩，使原本难以到达的活动页面可被触达，并按覆盖率评估。
@@ -27,6 +35,18 @@ Wei Minn, Biniam Fisseha Demissie, Yan Naing Tun, Jiakun Liu, Mariano Ceccato, L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-21253/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-21253/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_21253,
+  title = {{CovAgent: Overcoming the 30\% Curse of Mobile Application Coverage with Agentic AI and Dynamic Instrumentation}},
+  author = {{Wei Minn} and {Biniam Fisseha Demissie} and {Yan Naing Tun} and {Jiakun Liu} and {Mariano Ceccato} and {Lwin Khin Shar} and {David Lo}},
+  year = {2026},
+  eprint = {2601.21253v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.21253v1},
+  note = {First published: 2026-01-29; Recorded arXiv version: v1; Recorded version updated: 2026-01-29T04:21:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

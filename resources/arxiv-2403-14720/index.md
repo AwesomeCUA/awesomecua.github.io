@@ -1,3 +1,11 @@
+---
+title: "Defending Against Indirect Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-14720/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Defending Against Indirect Prompt Injection Attacks With Spotlighting
 
 Status: excluded from the active CUA catalog after scope review.

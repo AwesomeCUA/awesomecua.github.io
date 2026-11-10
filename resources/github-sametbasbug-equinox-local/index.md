@@ -1,3 +1,11 @@
+---
+title: "Equinox Local | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sametbasbug-equinox-local/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Equinox Local
 
 Local-first AI workspace bridging ChatGPT to native macOS and Windows desktop tools over an MCP tunnel.

@@ -1,3 +1,11 @@
+---
+title: "UI-R1 3B training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7c568d88a472f914d316/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UI-R1 3B training data
 
 为原版 UI-R1 3B 模型发布的移动端训练数据子集，包含动作标注和独立的截图文件。

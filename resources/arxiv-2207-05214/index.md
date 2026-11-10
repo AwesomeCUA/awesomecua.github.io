@@ -1,3 +1,11 @@
+---
+title: "Shapley Computations Using Surrogate… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2207-05214/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Shapley Computations Using Surrogate Model-Based Trees
 
 Status: excluded from the active CUA catalog after scope review.

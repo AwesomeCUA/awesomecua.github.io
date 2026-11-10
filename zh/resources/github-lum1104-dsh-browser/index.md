@@ -1,3 +1,11 @@
+---
+title: "dsh Browser Control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lum1104-dsh-browser/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # dsh Browser Control
 
 一个浏览器扩展和桥接插件，让 DeepSeek Harness 通过结构化的页面控件读取并操作现有的 Chrome 或 Firefox 标签页。

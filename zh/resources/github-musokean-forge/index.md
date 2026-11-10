@@ -1,3 +1,11 @@
+---
+title: "forge (Readable ReAct Agent) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-musokean-forge/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # forge (Readable ReAct Agent)
 
 模块化 Python ReAct 智能体框架，具有 235 行核心循环和 31 个可选的沙箱、浏览器及计算机使用模块。

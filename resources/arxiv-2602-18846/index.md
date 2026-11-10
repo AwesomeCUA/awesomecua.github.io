@@ -1,3 +1,11 @@
+---
+title: "DUET-VLM: Dual stage Unified Efficient Token… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-18846/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Aguvis-7B-720P · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ac62da857db91f68376b/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Aguvis-7B-720P
 
 Aguvis 发布的 Aguvis-7B-720P 检查点：仅依赖视觉的 GUI 智能体模型，先训练定位能力，再训练规划与推理，基于截图在网页、桌面和移动端执行操作。

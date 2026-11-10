@@ -1,3 +1,11 @@
+---
+title: "OpenPhone_model · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-836de49b2bbd47d3a6a5/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # OpenPhone_model
 
 OpenPhone-3B 模型权重，一个面向 Android GUI 任务的 3B 端侧模型，先在合成推理数据上进行监督微调，再进行 GRPO 式强化学习。

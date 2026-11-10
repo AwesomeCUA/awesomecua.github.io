@@ -1,3 +1,11 @@
+---
+title: "PrecogUI: Proactive GUI Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-36923/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval
 
 Presents PrecogUI, which retrieves prior anomaly and success patterns and predicts symbolic UI transitions before choosing actions. It also introduces InterfereBench, generated for evaluating long GUI workflows with disruptive events and recovery requirements.
@@ -26,6 +34,18 @@ Bin Kang, Jiarui Ouyang, Li Jiang, Bin Chen, Zhuotao Tian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-36923/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-36923/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36923,
+  title = {{PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval}},
+  author = {{Bin Kang} and {Jiarui Ouyang} and {Li Jiang} and {Bin Chen} and {Zhuotao Tian}},
+  year = {2026},
+  eprint = {2609.36923v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36923v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T07:41:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

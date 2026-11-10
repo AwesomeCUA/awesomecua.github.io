@@ -1,3 +1,11 @@
+---
+title: "CrashTranslator · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wuchiuwong-crashtranslator/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # CrashTranslator
 
 CrashTranslator 根据堆栈跟踪生成 Android 应用操作以复现崩溃；仓库提供代码、数据及模拟器运行说明。

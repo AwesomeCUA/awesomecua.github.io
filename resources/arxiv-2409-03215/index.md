@@ -1,3 +1,11 @@
+---
+title: "xLAM: A Family of Large Action Models to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-03215/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # xLAM: A Family of Large Action Models to Empower AI Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

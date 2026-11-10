@@ -1,3 +1,11 @@
+---
+title: "TUA-Bench: A Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-28480/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents
 
 TUA-Bench 评估终端操作智能体完成文档编辑、邮件、网页信息检索和专业软件工作流等通用数字任务的能力。任务在真实终端中运行，采用确定性初始化和基于执行的评分。
@@ -27,6 +35,18 @@ Shoufa Chen, Luyuan Wang, Xuan Yang, Zhiheng Liu, Yuren Cong, Yuanfeng Ji, Feiya
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-28480/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-28480/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_28480,
+  title = {{TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents}},
+  author = {{Shoufa Chen} and {Luyuan Wang} and {Xuan Yang} and {Zhiheng Liu} and {Yuren Cong} and {Yuanfeng Ji} and {Feiyan Zhou} and {Xiaohui Zhang} and {Fanny Yang} and {Belinda Zeng}},
+  year = {2026},
+  eprint = {2606.28480v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.28480v1},
+  note = {First published: 2026-06-26; Recorded arXiv version: v1; Recorded version updated: 2026-06-26T17:59:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

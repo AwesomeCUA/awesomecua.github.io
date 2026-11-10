@@ -1,3 +1,11 @@
+---
+title: "Open User | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tiacoo-open-user/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Open User
 
 Black-box UX audit harness that dispatches AI browser personas to test web products and record friction points.

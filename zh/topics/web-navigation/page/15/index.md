@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 15 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/15/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 15 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/15/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [BrowserOS / BrowserOS neo](https://awesomecua.com/zh/resources/github-browseros-ai-browseros/)
 - [BrowserPilot](https://awesomecua.com/zh/resources/github-ai-naymul-browserpilot/)
 - [Browserplane](https://awesomecua.com/zh/resources/github-mathisarends-browserplane/)
 - [BrowserRig](https://awesomecua.com/zh/resources/github-castor6-browserrig/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/15/
 - [Chrome MCP Server (18 Tools)](https://awesomecua.com/zh/resources/github-syedazharmbnr1-chrome-mcp-server/)
 - [Chrome Orchestrator](https://awesomecua.com/zh/resources/github-sh7vansh-chrome-orchestrator/)
 - [chrome-agent](https://awesomecua.com/zh/resources/github-captivus-chrome-agent/)
+- [chrome-agent](https://awesomecua.com/zh/resources/github-sderosiaux-chrome-agent/)

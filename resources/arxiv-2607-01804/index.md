@@ -1,3 +1,11 @@
+---
+title: "VLA-Corrector: Lightweight Detect-and-Correct… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-01804/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon
 
 Bibliographic record for VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yi Pan, Miao Pan, Qi Lu, Jiaming Huang, Man Zhang, Siteng Huang, Xin Li, Jie Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-01804/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-01804/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_01804,
+  title = {{VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon}},
+  author = {{Yi Pan} and {Miao Pan} and {Qi Lu} and {Jiaming Huang} and {Man Zhang} and {Siteng Huang} and {Xin Li} and {Jie Zhang} and {Yongliang Shen} and {Xuhong Zhang} and {Wenqi Zhang}},
+  year = {2026},
+  eprint = {2607.01804v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.01804v2},
+  note = {First published: 2026-07-02; Recorded arXiv version: v2; Recorded version updated: 2026-10-29T04:12:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

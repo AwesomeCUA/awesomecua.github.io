@@ -1,3 +1,11 @@
+---
+title: "KG-RAG: Enhancing GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-00366/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation
 
 KG-RAG 将 UI 状态转换图转为可搜索的向量库，通过意图引导的检索构建可执行的导航路径；还提出 KG-Android-Bench 和 KG-Harmony-Bench，评估从移动应用向网页和桌面任务的迁移。
@@ -27,6 +35,18 @@ Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Yuzhi Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-00366/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-00366/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_00366,
+  title = {{KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation}},
+  author = {{Ziyi Guan} and {Jason Chun Lok Li} and {Zhijian Hou} and {Pingping Zhang} and {Donglai Xu} and {Yuzhi Zhao} and {Mengyang Wu} and {Jinpeng Chen} and {Thanh-Toan Nguyen} and {Pengfei Xian} and {Wenao Ma} and {Shengchao Qin} and {Graziano Chesi} and {Ngai Wong}},
+  year = {2025},
+  eprint = {2509.00366v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.00366v1},
+  note = {First published: 2025-08-30; Recorded arXiv version: v1; Recorded version updated: 2025-08-30T05:32:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

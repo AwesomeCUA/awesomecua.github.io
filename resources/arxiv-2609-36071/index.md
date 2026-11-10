@@ -1,3 +1,11 @@
+---
+title: "LongCat-DeepResearch Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-36071/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LongCat-DeepResearch Technical Report
 
 Bibliographic record for LongCat-DeepResearch Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Meituan LongCat Team, He Zhu, Yue Xu, Wanli Wu, Haolin Ren, Yuxin Bian, Jiarui Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-36071/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-36071/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36071,
+  title = {{LongCat-DeepResearch Technical Report}},
+  author = {{Meituan LongCat Team} and {He Zhu} and {Yue Xu} and {Wanli Wu} and {Haolin Ren} and {Yuxin Bian} and {Jiarui Zhao} and {Rongzhi Zhang} and {Quanchi Weng} and {Jinghao Cui} and {Yu Fan} and {Yuhan Liu} and {Yunhu Ye} and {Jiyuan Ren} and {Fengcheng Yuan} and {Zhao Yang} and {Jiacheng Zhang} and {Yuchuan Dai} and {Ruixuan Xiao} and {Haozhe Sun} and {Xiangyuan Liu} and {Cheng Sun} and {Yao Du} and {Yiming Hao} and {Hongbo Guo} and {Shuo He} and {Lei Wang} and {Xunliang Cai} and {Yan Chen} and {Fan Yang} and {Lingchuan Liu}},
+  year = {2026},
+  eprint = {2609.36071v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36071v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T18:22:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

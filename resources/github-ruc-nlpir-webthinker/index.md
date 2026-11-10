@@ -1,3 +1,11 @@
+---
+title: "WebThinker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ruc-nlpir-webthinker/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WebThinker
 
 WebThinker empowers large reasoning models to autonomously search, browse webpages, and draft research reports during deep thinking.

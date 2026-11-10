@@ -1,3 +1,11 @@
+---
+title: "VeriOS-Bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-16a5ccde8bb16cda19ff/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # VeriOS-Bench
 
 一套用于训练和评估操作图形界面的操作系统智能体的数据集，重点考察自主操作不可靠时何时向人求助。

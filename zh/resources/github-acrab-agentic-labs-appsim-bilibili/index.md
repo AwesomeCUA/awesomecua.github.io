@@ -1,3 +1,11 @@
+---
+title: "AppSim-BiliBili · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-bilibili/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # AppSim-BiliBili
 
 用于测试 AI 操作的 Bilibili 安卓模拟应用，提供可导航的页面和预设静态内容，无须联网。

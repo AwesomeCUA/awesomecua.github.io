@@ -1,3 +1,11 @@
+---
+title: "Buddy · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ghorbelhamdi-buddy-android/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Buddy
 
 Android 应用通过无障碍服务提供本地 MCP 手机工具服务器，使设备端 proot Linux 中运行的 Claude Code、Codex 或 OpenCode 能读取屏幕、点击、输入和打开应用。

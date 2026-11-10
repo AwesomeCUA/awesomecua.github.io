@@ -1,3 +1,11 @@
+---
+title: "AgentReady · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-williehems-agentready/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # AgentReady
 
 云端浏览器评测测试框架，用于测试自主 AI 智能体能否完成网站的主要转化动作。

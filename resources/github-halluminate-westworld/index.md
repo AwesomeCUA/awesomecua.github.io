@@ -1,3 +1,11 @@
+---
+title: "Halluminate Westworld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-halluminate-westworld/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Halluminate Westworld
 
 Halluminate Westworld evaluates web agents on tasks set in realistic websites and provides task loading, a manual demo and evaluator interfaces.

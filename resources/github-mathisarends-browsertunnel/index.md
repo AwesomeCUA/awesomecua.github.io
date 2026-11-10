@@ -1,3 +1,11 @@
+---
+title: "BrowserTunnel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mathisarends-browsertunnel/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # BrowserTunnel
 
 Streams and mirrors a live Chromium tab into a web page over a single WebSocket for remote agent observation and takeover.

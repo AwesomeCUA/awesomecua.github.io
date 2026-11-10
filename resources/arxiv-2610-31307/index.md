@@ -1,3 +1,11 @@
+---
+title: "Subgoal-aware Memory Graph for GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31307/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Subgoal-aware Memory Graph for GUI Agent
 
 Proposes a subgoal-aware memory graph that turns past mobile GUI agent trajectories into reusable evidence for decisions across tasks.
@@ -26,6 +34,18 @@ Dezhao Luo, Daniel Beechey, Derek Yuen, Weilin Luo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31307/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31307,
+  title = {{Subgoal-aware Memory Graph for GUI Agent}},
+  author = {{Dezhao Luo} and {Daniel Beechey} and {Derek Yuen} and {Weilin Luo}},
+  year = {2026},
+  eprint = {2610.31307v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31307v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T14:06:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "robotsix-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # robotsix-browser
 
 Interactive Playwright headless-browser and form-filling HTTP service for AI agents.

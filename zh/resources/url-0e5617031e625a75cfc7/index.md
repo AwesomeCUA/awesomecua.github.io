@@ -1,3 +1,11 @@
+---
+title: "aitw-general-digiq-agent · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0e5617031e625a75cfc7/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # aitw-general-digiq-agent
 
 面向 AitW General 任务集的 Digi-Q 智能体检查点：一个 AutoUI 设备控制策略，借助学习得到的 VLM Q 值函数对候选动作重排序，以离线方式训练。

@@ -1,3 +1,11 @@
+---
+title: "ViMo code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-agents-2030-vimo/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # ViMo code
 
 ViMo GUI 世界模型的代码，包括基于 Gemini 的下一屏文本预测、AITW 和 AndroidControl 数据处理、InstructPix2Pix 风格的图像推断，以及调用该模型的 AndroidWorld 智能体。

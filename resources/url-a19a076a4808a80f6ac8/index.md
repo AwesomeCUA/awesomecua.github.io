@@ -1,3 +1,11 @@
+---
+title: "Sai on OSWorld v2.1 reference-VM runs | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Sai on OSWorld v2.1 reference-VM runs
 
 Simular's 134 clean runs of its Sai computer-use agent on the 108 OSWorld v2.1 tasks in a reference Ubuntu VM, with OSWorld trajectories, agent records, harness and grader logs, scorecards and screenshot and video tars.

@@ -1,3 +1,11 @@
+---
+title: "Can We Stop Malicious AI? KILLBENCH: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-13725/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility
 
 KillBench evaluates external prompt-style signals intended to halt maliciously operating web agents, across harmful scenarios and agent configurations.
@@ -26,6 +34,18 @@ Sechan Lee, Hyounghun Kim, Sangdon Park
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-13725/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-13725/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_13725,
+  title = {{Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility}},
+  author = {{Sechan Lee} and {Hyounghun Kim} and {Sangdon Park}},
+  year = {2025},
+  eprint = {2511.13725v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.13725v5},
+  note = {First published: 2025-09-26; Recorded arXiv version: v5; Recorded version updated: 2026-09-12T20:13:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

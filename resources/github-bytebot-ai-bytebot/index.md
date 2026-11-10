@@ -1,3 +1,11 @@
+---
+title: "Bytebot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bytebot-ai-bytebot/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Bytebot
 
 Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop, with a web task interface, REST APIs for tasks and direct control, a takeover mode and password-manager logins.

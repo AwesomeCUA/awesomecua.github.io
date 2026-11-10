@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d2d07c09a1c92e5f4a43/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard
 
 Qwen3.5-9B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for ScienceBoard scientific-software tasks after an SFT start point and served through an OpenAI-compatible endpoint.

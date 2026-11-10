@@ -1,3 +1,11 @@
+---
+title: "AssistantBench: Can Web Agents Solve… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-15711/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?
 
 Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limitations of browsing and retrieval in time-consuming assistant work.
@@ -26,6 +34,18 @@ Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-15711/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-15711/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_15711,
+  title = {{AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?}},
+  author = {{Ori Yoran} and {Samuel Joseph Amouyal} and {Chaitanya Malaviya} and {Ben Bogin} and {Ofir Press} and {Jonathan Berant}},
+  year = {2024},
+  eprint = {2407.15711v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.15711v2},
+  note = {First published: 2024-07-22; Recorded arXiv version: v2; Recorded version updated: 2024-10-21T15:45:31Z.}
+}
+```
 
 ## Publication record
 

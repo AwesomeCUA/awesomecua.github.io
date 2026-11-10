@@ -1,3 +1,11 @@
+---
+title: "AgentSWE: Can Coding Agents Build the Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13361/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentSWE: Can Coding Agents Build the Agent You Actually Want?
 
 Status: excluded from the active CUA catalog after scope review.

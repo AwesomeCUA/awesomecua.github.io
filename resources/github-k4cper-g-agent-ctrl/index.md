@@ -1,3 +1,11 @@
+---
+title: "agent-ctrl | AwesomeCUA"
+url: https://awesomecua.com/resources/github-k4cper-g-agent-ctrl/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # agent-ctrl
 
 Rust CLI and daemon that let agents snapshot native app accessibility trees as element refs and act on them, with UI Automation on Windows, AX on macOS and a read-only AT-SPI surface on Linux.

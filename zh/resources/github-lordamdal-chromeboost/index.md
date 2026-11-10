@@ -1,3 +1,11 @@
+---
+title: "ChromeBoost · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lordamdal-chromeboost/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ChromeBoost
 
 Chrome 扩展和 MCP 服务器，让 Claude Code 直接控制用户已登录的 Chrome 浏览器。

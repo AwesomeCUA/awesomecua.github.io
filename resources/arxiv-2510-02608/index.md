@@ -1,3 +1,11 @@
+---
+title: "Mitigating Modal Imbalance in Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-02608/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Mitigating Modal Imbalance in Multimodal Reasoning
 
 Bibliographic record for Mitigating Modal Imbalance in Multimodal Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Chen Henry Wu, Neil Kale, Aditi Raghunathan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-02608/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-02608/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_02608,
+  title = {{Mitigating Modal Imbalance in Multimodal Reasoning}},
+  author = {{Chen Henry Wu} and {Neil Kale} and {Aditi Raghunathan}},
+  year = {2025},
+  eprint = {2510.02608v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.02608v2},
+  note = {First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2025-10-06T02:10:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

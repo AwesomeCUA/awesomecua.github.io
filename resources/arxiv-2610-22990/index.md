@@ -1,3 +1,11 @@
+---
+title: "PersonaCUABench: Benchmarking Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22990/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas
 
 PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
@@ -26,6 +34,18 @@ Haoming Li, Defu Cao, Xu Hu, Yingtao Luo, Yiyang Wang, Xianghe Xu, Jiashu He, Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22990/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22990/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22990,
+  title = {{PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas}},
+  author = {{Haoming Li} and {Defu Cao} and {Xu Hu} and {Yingtao Luo} and {Yiyang Wang} and {Xianghe Xu} and {Jiashu He} and {Wanting Jiang} and {Yifan Zhang} and {Yunhan Zhao} and {Siyang Wu} and {Chen Yang} and {Haixin Wang} and {Zheyuan Deng} and {Taoran Li} and {Jingwen Zhang} and {Zhejian Peng} and {Shushu Liang} and {Yue Zhao} and {Bingzhe Li} and {Feng Chen} and {Yifan Wang} and {Jintao Huang} and {Yijun Wang} and {Yuexing Hao} and {Xiaomin Li}},
+  year = {2026},
+  eprint = {2610.22990v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22990v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T06:14:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

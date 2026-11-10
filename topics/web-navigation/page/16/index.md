@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 16 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/16/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 16
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/16/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [chrome-agent](https://awesomecua.com/resources/github-sderosiaux-chrome-agent/)
 - [chrome-agent-search](https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/)
 - [chrome-eye](https://awesomecua.com/resources/github-trvux-chrome-eye/)
 - [chrome-use](https://awesomecua.com/resources/github-leeguooooo-chrome-use/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [CoMEM-Agent](https://awesomecua.com/resources/github-wenyiwu0111-comem-agent/)
 - [Commonplace WebMCP](https://awesomecua.com/resources/github-arterialist-webmcp-openai-hackathon/)
 - [Computer Use Preview](https://awesomecua.com/resources/github-google-computer-use-preview/)
+- [Control-Agent](https://awesomecua.com/resources/github-gekaixing-control-agent/)

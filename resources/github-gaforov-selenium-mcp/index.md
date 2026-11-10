@@ -1,3 +1,11 @@
+---
+title: "selenium-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gaforov-selenium-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # selenium-mcp
 
 Selenium Model Context Protocol server exposing 41 browser automation tools including page snapshots, assertions, and selector generation.

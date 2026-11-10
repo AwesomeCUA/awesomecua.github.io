@@ -1,3 +1,11 @@
+---
+title: "Claude Code ChatGPT Web Rosetta Gateway | AwesomeCUA"
+url: https://awesomecua.com/resources/github-satyasai-collab-claude-code-openai-auth/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Claude Code ChatGPT Web Rosetta Gateway
 
 Localhost gateway that routes Claude Code requests through a manually authenticated ChatGPT Web browser session.

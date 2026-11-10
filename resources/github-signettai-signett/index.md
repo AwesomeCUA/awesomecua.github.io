@@ -1,3 +1,11 @@
+---
+title: "Signett | AwesomeCUA"
+url: https://awesomecua.com/resources/github-signettai-signett/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Signett
 
 Turns existing websites into discoverable, measurable WebMCP capability surfaces for browser agents.

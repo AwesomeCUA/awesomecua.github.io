@@ -1,3 +1,11 @@
+---
+title: "DSH Deskwork | AwesomeCUA"
+url: https://awesomecua.com/resources/github-guomonth-dsh-deskwork/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DSH Deskwork
 
 AI desktop workspace powered by DeepSeek Harness for automating ERP and enterprise back-office operations.

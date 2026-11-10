@@ -1,3 +1,11 @@
+---
+title: "Browser Perception | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rounakkm-browser-perception/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Browser Perception
 
 Privacy-preserving browser perception framework that redacts sensitive PII from DOM trees and screenshots before LLM ingestion.

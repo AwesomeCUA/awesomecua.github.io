@@ -1,3 +1,11 @@
+---
+title: "MobBench task definitions | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # MobBench task definitions
 
 A public set of real-device mobile task definitions used to evaluate MobA, with Chinese and English task material packaged in a versioned JSON release.

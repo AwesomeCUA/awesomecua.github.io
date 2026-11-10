@@ -1,3 +1,11 @@
+---
+title: "Robust frequency-dependent diffusion kurtosis… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-02319/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Robust frequency-dependent diffusion kurtosis computation using an efficient direction scheme, axisymmetric modelling, and spatial regularization
 
 Status: excluded from the active CUA catalog after scope review.

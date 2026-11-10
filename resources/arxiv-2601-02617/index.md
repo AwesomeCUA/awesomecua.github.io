@@ -1,3 +1,11 @@
+---
+title: "Implementation of Reservoir Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-02617/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Implementation of Reservoir Computing Using Coupled Microelectromechanical Drum Resonators via Sideband-Pumped Phonon-Cavity Dynamics
 
 Status: excluded from the active CUA catalog after scope review.

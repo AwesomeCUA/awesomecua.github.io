@@ -1,3 +1,11 @@
+---
+title: "Operit AI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aaswordman-operit/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Operit AI
 
 这是一个 Android 智能体平台，利用视觉屏幕理解、设备控制和浏览器操作来操控应用界面与网页。

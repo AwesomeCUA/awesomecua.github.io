@@ -1,3 +1,11 @@
+---
+title: "browser-agent-kit · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nicolascine-browser-agent-kit/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # browser-agent-kit
 
 browser-agent-kit 是一个用于构建页面内 AI 智能体的框架，这些智能体直接在实时浏览器 DOM 上下文中执行。

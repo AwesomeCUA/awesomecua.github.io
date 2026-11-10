@@ -1,3 +1,11 @@
+---
+title: "Complex Mathematical Expression Recognition… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-13731/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Complex Mathematical Expression Recognition: Benchmark, Large-Scale Dataset and Strong Baseline
 
 Bibliographic record for Complex Mathematical Expression Recognition: Benchmark, Large-Scale Dataset and Strong Baseline. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weikang Bai, Yongkun Du, Yuchen Su, Yazhen Xie, Zhineng Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-13731/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-13731/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_13731,
+  title = {{Complex Mathematical Expression Recognition: Benchmark, Large-Scale Dataset and Strong Baseline}},
+  author = {{Weikang Bai} and {Yongkun Du} and {Yuchen Su} and {Yazhen Xie} and {Zhineng Chen}},
+  year = {2025},
+  eprint = {2512.13731v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.13731v1},
+  note = {First published: 2025-12-14; Recorded arXiv version: v1; Recorded version updated: 2025-12-14T06:10:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

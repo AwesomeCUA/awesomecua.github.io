@@ -1,3 +1,11 @@
+---
+title: "Kushatish AI Browser Copilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kushatish-ai-browser-copilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Kushatish AI Browser Copilot
 
 Chrome 扩展，由 Groq LLMs 驱动，提供基于页面内容的问答和经用户批准的浏览器动作。

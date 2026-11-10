@@ -1,3 +1,11 @@
+---
+title: "Windows Computer-Use Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Windows Computer-Use Skill
 
 A Windows computer-use skill and MCP server that gives agents screenshot capture, desktop input, app launching, window lookup, and clipboard tools.

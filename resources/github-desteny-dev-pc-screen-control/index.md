@@ -1,3 +1,11 @@
+---
+title: "pc-screen-control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pc-screen-control
 
 Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.

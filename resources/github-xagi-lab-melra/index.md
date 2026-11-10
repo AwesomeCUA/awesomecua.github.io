@@ -1,3 +1,11 @@
+---
+title: "MELRA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xagi-lab-melra/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MELRA
 
 Modular Execution Layer for Reliable Autonomy (MELRA), a local MCP runtime that validates agent tool calls and gates risky actions.

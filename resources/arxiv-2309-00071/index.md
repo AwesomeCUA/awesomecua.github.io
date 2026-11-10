@@ -1,3 +1,11 @@
+---
+title: "YaRN: Efficient Context Window Extension of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-00071/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # YaRN: Efficient Context Window Extension of Large Language Models
 
 Bibliographic record for YaRN: Efficient Context Window Extension of Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-00071/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-00071/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_00071,
+  title = {{YaRN: Efficient Context Window Extension of Large Language Models}},
+  author = {{Bowen Peng} and {Jeffrey Quesnelle} and {Honglu Fan} and {Enrico Shippole}},
+  year = {2023},
+  eprint = {2309.00071v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.00071v3},
+  note = {First published: 2023-08-31; Recorded arXiv version: v3; Recorded version updated: 2026-02-06T19:40:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

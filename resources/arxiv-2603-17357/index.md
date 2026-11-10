@@ -1,3 +1,11 @@
+---
+title: "WebPII: Benchmarking Visual PII Detection for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-17357/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebPII: Benchmarking Visual PII Detection for Computer-Use Agents
 
 WebPII provides synthetic e-commerce screenshots with fine-grained annotations for sensitive information, including partially filled forms and transaction identifiers. It also trains WebRedact to detect visual PII as a privacy component for computer-use agents.
@@ -26,6 +34,18 @@ Nathan Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-17357/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-17357/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_17357,
+  title = {{WebPII: Benchmarking Visual PII Detection for Computer-Use Agents}},
+  author = {{Nathan Zhao}},
+  year = {2026},
+  eprint = {2603.17357v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.17357v1},
+  note = {First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T04:41:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

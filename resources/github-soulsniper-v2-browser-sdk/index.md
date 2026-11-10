@@ -1,3 +1,11 @@
+---
+title: "SoulSniper Browser SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-soulsniper-v2-browser-sdk/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SoulSniper Browser SDK
 
 Provider-neutral TypeScript browser automation SDK with automatic session failover and stealth profile support.

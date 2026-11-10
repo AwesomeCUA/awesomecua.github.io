@@ -1,3 +1,11 @@
+---
+title: "Nexus Computer Use Harness (NexusCUH) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-subasah-computer-use-harness/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Nexus Computer Use Harness (NexusCUH)
 
 NexusCUH is a computer-use agent harness with sandboxed execution, MCP integration, policy guardrails, and trace observability.

@@ -1,3 +1,11 @@
+---
+title: "MindSearch: Mimicking Human Minds… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2407-20183/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # MindSearch: Mimicking Human Minds Elicits Deep AI Searcher
 
 MindSearch 以规划和检索智能体拆解信息请求，生成子问题，再从多个网页收集答案。
@@ -27,6 +35,18 @@ Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Fen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2407-20183/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2407-20183/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_20183,
+  title = {{MindSearch: Mimicking Human Minds Elicits Deep AI Searcher}},
+  author = {{Zehui Chen} and {Kuikun Liu} and {Qiuchen Wang} and {Jiangning Liu} and {Wenwei Zhang} and {Kai Chen} and {Feng Zhao}},
+  year = {2024},
+  eprint = {2407.20183v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.20183v2},
+  note = {First published: 2024-07-29; Recorded arXiv version: v2; Recorded version updated: 2025-10-31T02:40:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

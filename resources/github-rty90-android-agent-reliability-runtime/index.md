@@ -1,3 +1,11 @@
+---
+title: "A2R2 (Android Agent Reliability Runtime) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # A2R2 (Android Agent Reliability Runtime)
 
 A2R2 is a black-box safety and reliability runtime for Android GUI agents that intercepts unsafe actions and detects execution loops.

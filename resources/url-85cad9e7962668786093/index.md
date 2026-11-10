@@ -1,3 +1,11 @@
+---
+title: "Focus Like a Human: Efficient GUI Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-85cad9e7962668786093/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification
 
 FastFocus grounds GUI targets by proposing regions from low-resolution views and checking candidates with parallel high-resolution zooms; it is evaluated on ScreenSpot-Pro.
@@ -26,6 +34,21 @@ Zhenhua Yang, Xiachong Feng, Weihong Zhong, Lunjun Liu, Xiaocheng Feng, Bing Qin
 
 - BibTeX: https://awesomecua.com/resources/url-85cad9e7962668786093/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-85cad9e7962668786093/citation.csl.json
+
+```bibtex
+@inproceedings{cua_f38ce3678fed9c33bd2a35ff,
+  title = {{Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification}},
+  author = {{Zhenhua Yang} and {Xiachong Feng} and {Weihong Zhong} and {Lunjun Liu} and {Xiaocheng Feng} and {Bing Qin}},
+  year = {2026},
+  month = sep,
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages = {428-436},
+  doi = {10.24963/ijcai.2026/49},
+  url = {https://doi.org/10.24963/ijcai.2026/49},
+  note = {Publication date: 2026-09.}
+}
+```
 
 ## Publication record
 

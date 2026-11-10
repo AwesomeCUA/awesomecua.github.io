@@ -1,3 +1,11 @@
+---
+title: "Memento No More: Coaching AI Agents to Master… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-01562/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Memento No More: Coaching AI Agents to Master Multiple Tasks via Hints Internalization
 
 Status: excluded from the active CUA catalog after scope review.

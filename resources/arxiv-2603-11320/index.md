@@ -1,3 +1,11 @@
+---
+title: "UniCompress: Token Compression for Unified… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-11320/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # UniCompress: Token Compression for Unified Vision-Language Understanding and Generation
 
 Status: excluded from the active CUA catalog after scope review.

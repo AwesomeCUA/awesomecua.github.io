@@ -1,3 +1,11 @@
+---
+title: "Gloria Headless | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sh7vansh-gloria-headless/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Gloria Headless
 
 Containerized headless Chromium environment with native Model Context Protocol integration for autonomous web agents.

@@ -1,3 +1,11 @@
+---
+title: "Mobile-Eval-E task definitions · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-342b081c3668a8bbe155/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # Mobile-Eval-E task definitions
 
 用于 Mobile-Agent-E 长时程、跨应用 Android 评估的任务定义，以含 25 条记录的测试集形式提供，并附有评分标准和人工参考操作字符串。

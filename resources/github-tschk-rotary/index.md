@@ -1,3 +1,11 @@
+---
+title: "rotary (rx4) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tschk-rotary/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # rotary (rx4)
 
 Rust agent harness engine providing tool loops, session persistence, permission gates, computer-use primitives, and MCP support.

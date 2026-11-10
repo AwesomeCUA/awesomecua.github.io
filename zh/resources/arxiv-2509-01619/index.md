@@ -1,3 +1,11 @@
+---
+title: "Throttling Web Agents Using Reasoning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-01619/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Throttling Web Agents Using Reasoning Gates
 
 提出推理门槛，要求智能体先解出生成且可验证的谜题，才能访问资源；该限流方法部署在定制网站和 MCP 服务器上，并用网页智能体评估。
@@ -27,6 +35,18 @@ Abhinav Kumar, Jaechul Roh, Ali Naseh, Amir Houmansadr, Eugene Bagdasarian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-01619/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-01619/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_01619,
+  title = {{Throttling Web Agents Using Reasoning Gates}},
+  author = {{Abhinav Kumar} and {Jaechul Roh} and {Ali Naseh} and {Amir Houmansadr} and {Eugene Bagdasarian}},
+  year = {2025},
+  eprint = {2509.01619v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.01619v1},
+  note = {First published: 2025-09-01; Recorded arXiv version: v1; Recorded version updated: 2025-09-01T16:56:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

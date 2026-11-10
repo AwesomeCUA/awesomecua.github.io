@@ -1,3 +1,11 @@
+---
+title: "UIX-Qwen2-Mind2Web · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-592e434848a1514efef0/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # UIX-Qwen2-Mind2Web
 
 UIX-Qwen2 在 Mind2Web 训练集上进一步微调；MultiUI 论文评估其根据截图、任务和先前操作预测下一步网页操作的能力。

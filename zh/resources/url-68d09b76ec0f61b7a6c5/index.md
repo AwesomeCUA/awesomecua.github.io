@@ -1,3 +1,11 @@
+---
+title: "Narada Operator · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-68d09b76ec0f61b7a6c5/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Narada Operator
 
 Narada Operator 是企业网页智能体，通过任务规划和错误恢复，在网页界面与 API 之间执行工作流程。

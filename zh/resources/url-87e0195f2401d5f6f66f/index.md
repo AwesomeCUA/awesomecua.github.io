@@ -1,3 +1,11 @@
+---
+title: "WenyiWU0111/CoMEM-agent-memory-trajector… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-87e0195f2401d5f6f66f/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # WenyiWU0111/CoMEM-agent-memory-trajectories
 
 用于图形界面智能体记忆研究的数据集，包含扩展的网页链接、合成任务，以及成功和失败的执行轨迹。

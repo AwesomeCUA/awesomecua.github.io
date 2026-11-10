@@ -1,3 +1,11 @@
+---
+title: "CoVisco: Codec-Native Vision Encoder with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-39924/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CoVisco: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding
 
 Status: excluded from the active CUA catalog after scope review.

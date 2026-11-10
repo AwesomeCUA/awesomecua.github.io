@@ -1,3 +1,11 @@
+---
+title: "Hyperbrowser MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hyperbrowserai-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Hyperbrowser MCP Server
 
 这是一个 MCP 服务器，将 Hyperbrowser 网页工具以及 Browser Use 和计算机使用智能体的浏览器操作接入统一工具接口。

@@ -1,3 +1,11 @@
+---
+title: "CowPilot: A Framework for Autonomous and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-16609/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation
 
 Introduces CowPilot, a web-navigation framework where agents suggest actions and users can pause, reject, override, or resume them. It evaluates autonomous and collaborative use through task success and human effort.
@@ -26,6 +34,18 @@ Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-16609/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-16609/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_16609,
+  title = {{CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation}},
+  author = {{Faria Huq} and {Zora Zhiruo Wang} and {Frank F. Xu} and {Tianyue Ou} and {Shuyan Zhou} and {Jeffrey P. Bigham} and {Graham Neubig}},
+  year = {2025},
+  eprint = {2501.16609v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.16609v4},
+  note = {First published: 2025-01-28; Recorded arXiv version: v4; Recorded version updated: 2026-02-27T05:35:06Z.}
+}
+```
 
 ## Publication record
 

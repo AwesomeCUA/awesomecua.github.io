@@ -1,3 +1,11 @@
+---
+title: "Edge Agent Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shanewas-edge-agent-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Edge Agent Bridge
 
 面向 Microsoft Edge 的实时 AI 智能体桥接工具，在已通过身份验证的活跃浏览器会话中运行。

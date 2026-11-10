@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI-OSWorld-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6ea345c7ba56049476e8/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ZeroGUI-OSWorld-7B
 
 ZeroGUI 的 GUI 智能体检查点；其训练使用生成的界面任务，并根据交互轨迹截图估计奖励。

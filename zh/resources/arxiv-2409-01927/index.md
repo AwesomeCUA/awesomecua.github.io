@@ -1,3 +1,11 @@
+---
+title: "From Grounding to Planning: Benchmarking… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-01927/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # From Grounding to Planning: Benchmarking Bottlenecks in Web Agents
 
 在 Mind2Web 上分别评估网页智能体的规划与定位能力，以分析哪些环节限制任务表现。
@@ -27,6 +35,18 @@ Segev Shlomov, Ben wiesel, Aviad Sela, Ido Levy, Liane Galanti, Roy Abitbol
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-01927/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-01927/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_01927,
+  title = {{From Grounding to Planning: Benchmarking Bottlenecks in Web Agents}},
+  author = {{Segev Shlomov} and {Ben wiesel} and {Aviad Sela} and {Ido Levy} and {Liane Galanti} and {Roy Abitbol}},
+  year = {2024},
+  eprint = {2409.01927v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.01927v1},
+  note = {First published: 2024-09-03; Recorded arXiv version: v1; Recorded version updated: 2024-09-03T14:17:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

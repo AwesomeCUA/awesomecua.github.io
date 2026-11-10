@@ -1,3 +1,11 @@
+---
+title: "AgentTuning: Enabling Generalized Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-12823/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # AgentTuning: Enabling Generalized Agent Abilities for LLMs
 
 Bibliographic record for AgentTuning: Enabling Generalized Agent Abilities for LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Aohan Zeng, Mingdao Liu, Rui Lu, Bowen Wang, Xiao Liu, Yuxiao Dong, Jie Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-12823/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-12823/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_12823,
+  title = {{AgentTuning: Enabling Generalized Agent Abilities for LLMs}},
+  author = {{Aohan Zeng} and {Mingdao Liu} and {Rui Lu} and {Bowen Wang} and {Xiao Liu} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2023},
+  eprint = {2310.12823v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.12823v2},
+  note = {First published: 2023-10-19; Recorded arXiv version: v2; Recorded version updated: 2023-10-22T16:19:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

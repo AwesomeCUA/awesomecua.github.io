@@ -1,3 +1,11 @@
+---
+title: "Workflow Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-workflow-use/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # Workflow Use
 
 Turns a recorded browser session or a Browser Use agent run into a parameterized workflow file that replays deterministically with Playwright, falling back to an LLM agent when a step fails.

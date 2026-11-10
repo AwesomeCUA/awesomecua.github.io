@@ -1,3 +1,11 @@
+---
+title: "Zoom to Essence: Trainless GUI Grounding by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-14448/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements
 
 Presents ZoomUI, a training-free grounding method that expresses instructions as visual element descriptions and uses model attention to zoom progressively into relevant interface regions. Evaluation examines instruction-to-element localization on GUI benchmarks.
@@ -26,6 +34,18 @@ Ziwei Liu, Tao Feng, Borui Kang, Yanbing Yang, Jun Luo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-14448/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-14448/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_14448,
+  title = {{Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements}},
+  author = {{Ziwei Liu} and {Tao Feng} and {Borui Kang} and {Yanbing Yang} and {Jun Luo}},
+  year = {2026},
+  eprint = {2603.14448v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.14448v1},
+  note = {First published: 2026-03-15; Recorded arXiv version: v1; Recorded version updated: 2026-03-15T15:47:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

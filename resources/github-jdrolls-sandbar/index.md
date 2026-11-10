@@ -1,3 +1,11 @@
+---
+title: "Sandbar (github.com/jdrolls/sandbar) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jdrolls-sandbar/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Sandbar
 
 A self-hosted Linux desktop container for computer-use agents, with a browser-streamed workspace, human takeover, and optional API and MCP control.

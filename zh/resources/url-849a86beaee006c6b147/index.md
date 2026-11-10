@@ -1,3 +1,11 @@
+---
+title: "OmniAct · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-849a86beaee006c6b147/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # OmniAct
 
 OmniAct 是用于生成计算机交互程序的数据集和基准。

@@ -1,3 +1,11 @@
+---
+title: "Holo4-35B-A3B-FP8 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f3a7296977a39c37f693/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Holo4-35B-A3B-FP8
 
 面向计算机使用的 FP8 视觉语言模型。配合智能体运行框架，它根据屏幕截图和工具结果发出点击、输入、代码及工具调用请求。

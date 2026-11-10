@@ -1,3 +1,11 @@
+---
+title: "STEVE Series: Step-by-Step Construction of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-11247/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft
 
 Bibliographic record for STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhonghan Zhao, Wenhao Chai, Xuan Wang, Ke Ma, Kewei Chen, Dongxu Guo, Tian Ye, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-11247/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-11247/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_11247,
+  title = {{STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft}},
+  author = {{Zhonghan Zhao} and {Wenhao Chai} and {Xuan Wang} and {Ke Ma} and {Kewei Chen} and {Dongxu Guo} and {Tian Ye} and {Yanting Zhang} and {Hongwei Wang} and {Gaoang Wang}},
+  year = {2024},
+  eprint = {2406.11247v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.11247v1},
+  note = {First published: 2024-06-17; Recorded arXiv version: v1; Recorded version updated: 2024-06-17T06:18:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

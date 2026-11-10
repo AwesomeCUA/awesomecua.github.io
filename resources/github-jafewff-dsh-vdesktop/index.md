@@ -1,3 +1,11 @@
+---
+title: "dsh-vdesktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jafewff-dsh-vdesktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-vdesktop
 
 dsh-vdesktop runs Windows GUI applications inside an invisible Win32 virtual desktop (`CreateDesktopW`) and exposes 12 `vdesk_*` agent control tools.

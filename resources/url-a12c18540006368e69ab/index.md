@@ -1,3 +1,11 @@
+---
+title: "weboperator-experiments | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a12c18540006368e69ab/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # weboperator-experiments
 
 Run logs of the WebOperator web agent with gpt-4o on 812 WebArena tasks and a 155-task WebArena-lite ablation, holding per-task trajectories, search trees, screenshots and scores.

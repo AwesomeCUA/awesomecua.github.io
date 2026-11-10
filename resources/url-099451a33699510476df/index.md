@@ -1,3 +1,11 @@
+---
+title: "CUA Speedrun results | AwesomeCUA"
+url: https://awesomecua.com/resources/url-099451a33699510476df/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # CUA Speedrun results
 
 Trajectory archives and per-task results from CUA Speedrun evaluations of computer-use models on OSWorld subsets, CUA-World and MyPCBench, with verifier scores, measured task times and recorded or estimated costs.

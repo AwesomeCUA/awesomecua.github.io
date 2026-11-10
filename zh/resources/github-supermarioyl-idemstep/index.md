@@ -1,3 +1,11 @@
+---
+title: "IdemStep · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-supermarioyl-idemstep/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # IdemStep
 
 使用带键的幂等性缓存和本地验证代理，对重复的智能体动作及 HTTP 重试进行去重。

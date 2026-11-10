@@ -1,3 +1,11 @@
+---
+title: "OpenBridge · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-afk-surf-openbridge/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # OpenBridge
 
 一款本地 macOS 智能体应用，可在获得批准后查看和操作桌面应用，并提供沙箱供用户审查拟议的文件更改。

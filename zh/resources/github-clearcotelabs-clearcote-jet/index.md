@@ -1,3 +1,11 @@
+---
+title: "Clearcote Jet · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clearcotelabs-clearcote-jet/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # Clearcote Jet
 
 一个浏览器智能体：读取页面，用决策模型选择下一步，并在 Clearcote 中以曲线鼠标轨迹和逐键输入执行操作；完成的任务会保存为技能，重放时无需调用模型。

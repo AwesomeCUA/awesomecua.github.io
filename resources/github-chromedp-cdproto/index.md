@@ -1,3 +1,11 @@
+---
+title: "cdproto | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chromedp-cdproto/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # cdproto
 
 cdproto is a Go package of generated Chrome DevTools Protocol commands, types, and events for controlling browser sessions.

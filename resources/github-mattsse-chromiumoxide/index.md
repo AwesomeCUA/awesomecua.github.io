@@ -1,3 +1,11 @@
+---
+title: "chromiumoxide | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mattsse-chromiumoxide/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # chromiumoxide
 
 chromiumoxide is an asynchronous Rust library for controlling Chrome or Chromium through the DevTools Protocol, with APIs for browser pages and element actions.

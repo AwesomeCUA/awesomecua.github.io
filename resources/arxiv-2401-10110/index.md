@@ -1,3 +1,11 @@
+---
+title: "SVIPTR: Fast and Efficient Scene Text… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-10110/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SVIPTR: Fast and Efficient Scene Text Recognition with Vision Permutable Extractor
 
 Bibliographic record for SVIPTR: Fast and Efficient Scene Text Recognition with Vision Permutable Extractor. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xianfu Cheng, Weixiao Zhou, Xiang Li, Jian Yang, Hang Zhang, Tao Sun, Wei Zhang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-10110/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-10110/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_10110,
+  title = {{SVIPTR: Fast and Efficient Scene Text Recognition with Vision Permutable Extractor}},
+  author = {{Xianfu Cheng} and {Weixiao Zhou} and {Xiang Li} and {Jian Yang} and {Hang Zhang} and {Tao Sun} and {Wei Zhang} and {Yuying Mai} and {Tongliang Li} and {Xiaoming Chen} and {Zhoujun Li}},
+  year = {2024},
+  eprint = {2401.10110v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.10110v5},
+  note = {First published: 2024-01-18; Recorded arXiv version: v5; Recorded version updated: 2024-08-20T02:34:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Deep Search in Real-World Web Environments | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-30181/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Deep Search in Real-World Web Environments
 
 OpenDS-World benchmarks multi-step research on the live open Web, requiring agents to search, interact with browsers and combine evidence across sources.
@@ -26,6 +34,18 @@ Xiaomin Yu, Hongliang Chen, Zhe Huang, Shilin Yan, Shao-Rong Su, Xuqiao Ma, Feiy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-30181/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-30181/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_30181,
+  title = {{Deep Search in Real-World Web Environments}},
+  author = {{Xiaomin Yu} and {Hongliang Chen} and {Zhe Huang} and {Shilin Yan} and {Shao-Rong Su} and {Xuqiao Ma} and {Feiyang Wang} and {Jiayu Chen} and {Jiwei Fang} and {Yu Yan} and {Yini Huang} and {Chen Chen} and {Ruoxi Cheng} and {Yuzhi He} and {Yuhui Zhang} and {Xiaoxing Hu} and {Chen Liu} and {Jianbo Lin} and {Yijiang Li} and {Xiaobin Hu} and {Menglong Li} and {Zhuoran Lu} and {Weishi Wang} and {Zhongqi Yue} and {Chengwei Qin}},
+  year = {2026},
+  eprint = {2610.30181v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.30181v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T18:59:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

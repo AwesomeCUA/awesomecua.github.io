@@ -1,3 +1,11 @@
+---
+title: "Uncertainty-Aware GUI Agent: Adaptive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-04025/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement
 
 RecAgent 将注意力集中于推荐的 UI 组件，并在任务意图或决策仍不明确时请求用户反馈；还提出 ComplexAction，用于评估复杂界面场景中指定的单步 GUI 操作。
@@ -27,6 +35,18 @@ Chao Hao, Shuai Wang, Kaiwen Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-04025/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-04025/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04025,
+  title = {{Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement}},
+  author = {{Chao Hao} and {Shuai Wang} and {Kaiwen Zhou}},
+  year = {2025},
+  eprint = {2508.04025v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04025v1},
+  note = {First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T02:38:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

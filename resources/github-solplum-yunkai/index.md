@@ -1,3 +1,11 @@
+---
+title: "Yunkai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-solplum-yunkai/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Yunkai
 
 Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.

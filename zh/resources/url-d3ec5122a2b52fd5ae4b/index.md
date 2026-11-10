@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis mobile training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d3ec5122a2b52fd5ae4b/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # OS-Genesis mobile training data
 
 通过逆向任务合成得到的移动端轨迹，分别以 AndroidControl 和 AndroidWorld 训练标注文件发布。

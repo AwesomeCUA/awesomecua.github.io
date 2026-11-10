@@ -1,3 +1,11 @@
+---
+title: "Hermes login-bridge Plugin | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kfastov-hermes-plugin-login-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hermes login-bridge Plugin
 
 Hermes Agent plugin that temporarily hands the agent's browser session to a human operator to complete a login.

@@ -1,3 +1,11 @@
+---
+title: "Nullu: Mitigating Object Hallucinations in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-13817/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection
 
 Bibliographic record for Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Le Yang, Ziwei Zheng, Boxu Chen, Zhengyu Zhao, Chenhao Lin, Chao Shen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-13817/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-13817/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_13817,
+  title = {{Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection}},
+  author = {{Le Yang} and {Ziwei Zheng} and {Boxu Chen} and {Zhengyu Zhao} and {Chenhao Lin} and {Chao Shen}},
+  year = {2024},
+  eprint = {2412.13817v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.13817v3},
+  note = {First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-03-17T16:05:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "SCAFFOLD: Self-Improving Web Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-05511/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction
 
 Introduces SCAFFOLD, which extracts executable skills from web trajectories, composes them into a hierarchy, and compresses redundant skills through behavioral checks. It periodically distills skill-guided trajectories into the policy and studies repeated improvement across web benchmarks.
@@ -26,6 +34,18 @@ Bowei He, Xiaokun Zhang, Meng Ding, Xue Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-05511/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-05511/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_05511,
+  title = {{SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction}},
+  author = {{Bowei He} and {Xiaokun Zhang} and {Meng Ding} and {Xue Liu}},
+  year = {2026},
+  eprint = {2609.05511v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.05511v1},
+  note = {First published: 2026-08-31; Recorded arXiv version: v1; Recorded version updated: 2026-08-31T08:16:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

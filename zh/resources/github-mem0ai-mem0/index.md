@@ -1,3 +1,11 @@
+---
+title: "Mem0 · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mem0ai-mem0/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Mem0
 
 Mem0 为 AI 智能体提供可扩展的长期记忆层，用于提取、整合和检索用户及会话事实。

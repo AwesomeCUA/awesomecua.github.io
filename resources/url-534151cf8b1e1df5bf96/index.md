@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_8b_pretrain | AwesomeCUA"
+url: https://awesomecua.com/resources/url-534151cf8b1e1df5bf96/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # GUI_Reflection_8b_pretrain
 
 GUI Reflection checkpoint from the GUI pre-training stage, trained on grounding, captioning, OCR and VQA data plus reflection-task data, before the offline SFT stage.

@@ -1,3 +1,11 @@
+---
+title: "WebSRC v1.0 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WebSRC v1.0
 
 Webpage segments, questions, answers, HTML, screenshots and layout metadata for structural reading comprehension.

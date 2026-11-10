@@ -1,3 +1,11 @@
+---
+title: "LongDS-Bench: On the Failure of Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-30434/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis
 
 Status: excluded from the active CUA catalog after scope review.

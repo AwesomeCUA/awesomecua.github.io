@@ -1,3 +1,11 @@
+---
+title: "WebSRC | AwesomeCUA"
+url: https://awesomecua.com/resources/github-x-lance-websrc-baseline/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # WebSRC
 
 WebSRC provides baseline models and processing pipelines for the Web-Based Structural Reading Comprehension dataset over HTML and screenshots.

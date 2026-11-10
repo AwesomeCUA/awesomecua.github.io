@@ -1,3 +1,11 @@
+---
+title: "Opera Neon · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-94d58f25e6fd4a2076ab/
+updated: 2026-10-18
+type: product
+lang: zh-CN
+---
+
 # Opera Neon
 
 Opera 的订阅制智能体浏览器；Neon Do 在用户已登录的会话中跨标签页打开、关闭并执行操作，提供任务工作区、提示卡片以及供外部智能体使用的 MCP 或 CLI 接口。

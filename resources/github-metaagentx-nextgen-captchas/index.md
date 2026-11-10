@@ -1,3 +1,11 @@
+---
+title: "Next-Gen CAPTCHAs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Next-Gen CAPTCHAs
 
 Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.

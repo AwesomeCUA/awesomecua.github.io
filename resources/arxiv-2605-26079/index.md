@@ -1,3 +1,11 @@
+---
+title: "Automated Benchmark Auditing for AI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-26079/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Automated Benchmark Auditing for AI Agents and Large Language Models
 
 Bibliographic record for Automated Benchmark Auditing for AI Agents and Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Junlin Wang, Federico Bianchi, Shang Zhu, Fan Nie, Yongchan Kwon, Bhuwan Dhingra
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-26079/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-26079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26079,
+  title = {{Automated Benchmark Auditing for AI Agents and Large Language Models}},
+  author = {{Junlin Wang} and {Federico Bianchi} and {Shang Zhu} and {Fan Nie} and {Yongchan Kwon} and {Bhuwan Dhingra} and {James Zou}},
+  year = {2026},
+  eprint = {2605.26079v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26079v2},
+  note = {First published: 2026-05-25; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T06:39:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

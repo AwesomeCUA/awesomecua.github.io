@@ -1,3 +1,11 @@
+---
+title: "desktop-hub · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zty552252kevin-code-desktop-hub/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # desktop-hub
 
 用于 macOS 桌面自动化的紧凑型 MCP 门面服务器，提供 10 个工具，约占 2.3k 词元。

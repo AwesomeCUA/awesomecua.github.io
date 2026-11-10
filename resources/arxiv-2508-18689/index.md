@@ -1,3 +1,11 @@
+---
+title: "AppAgent-Pro: A Proactive GUI Agent System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-18689/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance
 
 Proposes a proactive GUI assistant that gathers information across domains in response to user requests and anticipated information needs.
@@ -26,6 +34,18 @@ Yuyang Zhao, Wentao Shi, Fuli Feng, Xiangnan He
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-18689/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-18689/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_18689,
+  title = {{AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance}},
+  author = {{Yuyang Zhao} and {Wentao Shi} and {Fuli Feng} and {Xiangnan He}},
+  year = {2025},
+  eprint = {2508.18689v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.18689v2},
+  note = {First published: 2025-08-26; Recorded arXiv version: v2; Recorded version updated: 2025-08-27T04:25:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "cdp-toolkit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sblattj-cdp-toolkit/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cdp-toolkit
 
 chrome-devtools-mcp 的轻量级替代工具，让 AI 智能体通过 CDP 定位并操控指定名称的 Chrome 标签页。

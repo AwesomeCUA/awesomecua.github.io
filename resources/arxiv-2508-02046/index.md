@@ -1,3 +1,11 @@
+---
+title: "NaviMaster: Learning a Unified Policy for GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-02046/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks
 
 NaviMaster trains a shared policy for GUI and embodied navigation using a common visual-trajectory formulation. It combines trajectory collection, reinforcement learning and distance-aware rewards, with evaluation across both task families.
@@ -26,6 +34,18 @@ Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-02046/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-02046/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_02046,
+  title = {{NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks}},
+  author = {{Zhihao Luo} and {Wentao Yan} and {Jingyu Gong} and {Min Wang} and {Zhizhong Zhang} and {Xuhong Wang} and {Yuan Xie} and {Xin Tan}},
+  year = {2025},
+  eprint = {2508.02046v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.02046v4},
+  note = {First published: 2025-08-04; Recorded arXiv version: v4; Recorded version updated: 2026-05-02T12:32:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "DeskSwarm · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahmedvnabil-deskswarm/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # DeskSwarm
 
 自托管的集群管理器，可创建并行 XFCE Linux 桌面沙箱，并在其间调度自然语言任务。

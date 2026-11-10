@@ -1,3 +1,11 @@
+---
+title: "Agentic Critical Training | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-08706/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agentic Critical Training
 
 Introduces Agentic Critical Training (ACT), a reinforcement-learning warm-up that teaches general agents to choose expert actions over alternatives, with WebShop among its evaluations.
@@ -26,6 +34,18 @@ Weize Liu, Minghui Liu, Sy-Tuyen Ho, Yongkyun Lee, Andrew Adams Schoen, Souradip
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-08706/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-08706/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_08706,
+  title = {{Agentic Critical Training}},
+  author = {{Weize Liu} and {Minghui Liu} and {Sy-Tuyen Ho} and {Yongkyun Lee} and {Andrew Adams Schoen} and {Souradip Chakraborty} and {Xiyao Wang} and {Furong Huang}},
+  year = {2026},
+  eprint = {2603.08706v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.08706v2},
+  note = {First published: 2026-03-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T17:18:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

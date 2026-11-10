@@ -1,3 +1,11 @@
+---
+title: "Anchor-Inference Daedalus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anchor-inference-daedalus/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Anchor-Inference Daedalus
 
 Self-developing personal AI agent with its own desktop app, persistent memory, and computer-use tools.

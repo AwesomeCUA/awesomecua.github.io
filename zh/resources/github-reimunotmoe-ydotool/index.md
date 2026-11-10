@@ -1,3 +1,11 @@
+---
+title: "ydotool · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reimunotmoe-ydotool/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ydotool
 
 ydotool 是一款通过命令行发送鼠标和键盘输入的 Linux 工具，提供点击、移动指针、输入文本和按键命令。

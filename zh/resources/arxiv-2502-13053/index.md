@@ -1,3 +1,11 @@
+---
+title: "Evaluating the Robustness of Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-13053/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks
 
 研究针对移动智能体的主动环境注入攻击，测试对抗性界面内容是否会在任务执行期间改变其决策。
@@ -27,6 +35,18 @@ Yurun Chen, Xavier Hu, Keting Yin, Juncheng Li, Shengyu Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-13053/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-13053/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_13053,
+  title = {{Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks}},
+  author = {{Yurun Chen} and {Xavier Hu} and {Keting Yin} and {Juncheng Li} and {Shengyu Zhang}},
+  year = {2025},
+  eprint = {2502.13053v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.13053v3},
+  note = {First published: 2025-02-18; Recorded arXiv version: v3; Recorded version updated: 2025-08-06T07:04:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

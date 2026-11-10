@@ -1,3 +1,11 @@
+---
+title: "MM-Navigator · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zzxslp-mm-navigator/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # MM-Navigator
 
 GPT-4V 智能手机导航研究的示例代码：一个提示构建脚本，将原始截图、带数字标签的截图和历史操作发送给 GPT-4V 以预测下一步 Android 操作，以及一个操作匹配评测脚本。

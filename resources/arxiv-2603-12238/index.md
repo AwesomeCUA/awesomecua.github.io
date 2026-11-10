@@ -1,3 +1,11 @@
+---
+title: "SceneAssistant: A Visual Feedback Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-12238/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation
 
 Bibliographic record for SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jun Luo, Jiaxiang Tang, Ruijie Lu, Gang Zeng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-12238/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-12238/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_12238,
+  title = {{SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation}},
+  author = {{Jun Luo} and {Jiaxiang Tang} and {Ruijie Lu} and {Gang Zeng}},
+  year = {2026},
+  eprint = {2603.12238v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.12238v1},
+  note = {First published: 2026-03-12; Recorded arXiv version: v1; Recorded version updated: 2026-03-12T17:55:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

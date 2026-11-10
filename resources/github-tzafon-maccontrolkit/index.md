@@ -1,3 +1,11 @@
+---
+title: "MacControlKit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tzafon-maccontrolkit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MacControlKit
 
 MacControlKit is a Swift package by Tzafon for capturing macOS screens and dispatching native mouse and keyboard events.

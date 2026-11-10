@@ -1,3 +1,11 @@
+---
+title: "Agentalyze | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ilyat9-agentalyze/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Agentalyze
 
 Agentalyze is an evaluation harness for LLM browser agents with real Chromium tasks, DOM-based state verifiers, and step-level trace analysis.

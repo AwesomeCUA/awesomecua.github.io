@@ -1,3 +1,11 @@
+---
+title: "Anvil Engine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-awictor-anvil-engine/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Anvil Engine
 
 A self-hosted Chrome service that exposes browser sessions, page actions, screenshots and recordings through REST, CDP, a TypeScript SDK and an MCP server.

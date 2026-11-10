@@ -1,3 +1,11 @@
+---
+title: "settled-computer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-remote-skills-settled-computer/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # settled-computer
 
 settled-computer 是事件驱动的 MCP 服务器，可检测 UI 渲染何时趋于静止，使计算机使用智能体避免固定时长的等待和过时画面。

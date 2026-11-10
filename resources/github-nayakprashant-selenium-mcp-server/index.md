@@ -1,3 +1,11 @@
+---
+title: "Selenium MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nayakprashant-selenium-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Selenium MCP Server
 
 Python Model Context Protocol server exposing Selenium WebDriver browser navigation, element interaction, and screenshot tools.

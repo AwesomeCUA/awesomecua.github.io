@@ -1,3 +1,11 @@
+---
+title: "WebCraftBench: Evaluating Web Application… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15387/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebCraftBench: Evaluating Web Application Generation from a Software Testing Perspective
 
 Bibliographic record for WebCraftBench: Evaluating Web Application Generation from a Software Testing Perspective. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenxu Liu, Zilu Zou, Peizhong Gao, Jiawen Tao, Zhexin Zhang, Guang Chen, Haowei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15387/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15387/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15387,
+  title = {{WebCraftBench: Evaluating Web Application Generation from a Software Testing Perspective}},
+  author = {{Chenxu Liu} and {Zilu Zou} and {Peizhong Gao} and {Jiawen Tao} and {Zhexin Zhang} and {Guang Chen} and {Haowei Lin} and {Ying Zhou} and {Tianyi Bai} and {Dolly Deng} and {Suncong Zheng} and {Maxm Pan}},
+  year = {2026},
+  eprint = {2609.15387v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15387v3},
+  note = {First published: 2026-09-14; Recorded arXiv version: v3; Recorded version updated: 2026-09-20T07:31:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

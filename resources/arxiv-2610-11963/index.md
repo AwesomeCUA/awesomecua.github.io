@@ -1,3 +1,11 @@
+---
+title: "Can LLMs Fix It Without Code? Toward… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11963/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes
 
 Tests natural-language no-code fixes through GUI execution in Linux Brave. Scripted fixed/buggy-state gates and issue-specific checkers distinguish fix outcomes from the executor's completion claims.
@@ -26,6 +34,18 @@ Utku Boran Torun, Veli Karakaya, Eray Tüzün
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11963/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11963/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11963,
+  title = {{Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes}},
+  author = {{Utku Boran Torun} and {Veli Karakaya} and {Eray Tüzün}},
+  year = {2026},
+  eprint = {2610.11963v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11963v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T13:44:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

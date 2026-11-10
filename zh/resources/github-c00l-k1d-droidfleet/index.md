@@ -1,3 +1,11 @@
+---
+title: "DroidFleet · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-c00l-k1d-droidfleet/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # DroidFleet
 
 面向移动端自动化和测试的开源 Android 设备集群管理与编排平台。

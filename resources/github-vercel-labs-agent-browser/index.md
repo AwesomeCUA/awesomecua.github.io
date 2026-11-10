@@ -1,3 +1,11 @@
+---
+title: "agent-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vercel-labs-agent-browser/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # agent-browser
 
 A browser-automation command-line interface that exposes browser state and interaction commands for AI agents.

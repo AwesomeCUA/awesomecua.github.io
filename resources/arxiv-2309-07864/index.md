@@ -1,3 +1,11 @@
+---
+title: "The Rise and Potential of Large Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-07864/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # The Rise and Potential of Large Language Model Based Agents: A Survey
 
 Bibliographic record for The Rise and Potential of Large Language Model Based Agents: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming Zhang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-07864/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-07864/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_07864,
+  title = {{The Rise and Potential of Large Language Model Based Agents: A Survey}},
+  author = {{Zhiheng Xi} and {Wenxiang Chen} and {Xin Guo} and {Wei He} and {Yiwen Ding} and {Boyang Hong} and {Ming Zhang} and {Junzhe Wang} and {Senjie Jin} and {Enyu Zhou} and {Rui Zheng} and {Xiaoran Fan} and {Xiao Wang} and {Limao Xiong} and {Yuhao Zhou} and {Weiran Wang} and {Changhao Jiang} and {Yicheng Zou} and {Xiangyang Liu} and {Zhangyue Yin} and {Shihan Dou} and {Rongxiang Weng} and {Wensen Cheng} and {Qi Zhang} and {Wenjuan Qin} and {Yongyan Zheng} and {Xipeng Qiu} and {Xuanjing Huang} and {Tao Gui}},
+  year = {2023},
+  eprint = {2309.07864v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.07864v3},
+  note = {First published: 2023-09-14; Recorded arXiv version: v3; Recorded version updated: 2023-09-19T08:29:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

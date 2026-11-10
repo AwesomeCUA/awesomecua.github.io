@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-openbot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jimmyjdejesus-cmyk-dsh-plugin-openbot/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-plugin-openbot
 
 Native Cordis plugin for DeepSeek Harness integrating CopilotKit OpenBot container sandboxing and computer use.

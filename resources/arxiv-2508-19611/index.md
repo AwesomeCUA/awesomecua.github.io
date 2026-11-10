@@ -1,3 +1,11 @@
+---
+title: "Instructional Agents: Reducing Teaching… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-19611/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
 
 Status: excluded from the active CUA catalog after scope review.

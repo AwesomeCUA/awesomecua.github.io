@@ -1,3 +1,11 @@
+---
+title: "loki-auto | AwesomeCUA"
+url: https://awesomecua.com/resources/github-loki4agent-loki-auto/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # loki-auto
 
 Zero-dependency in-browser web automation runtime with an embedded sandbox and Model Context Protocol server for LLMs.

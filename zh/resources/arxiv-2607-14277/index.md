@@ -1,3 +1,11 @@
+---
+title: "Multi-Head Latent Control: A Unified… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-14277/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making
 
 提出 Multi-Head Latent Control，读取冻结的 LLM 或 VLM 的隐藏状态轨迹，为智能体的转交、澄清、工具使用、弃答和直接回答提供决策信号。
@@ -27,6 +35,18 @@ Amirhosein Ghasemabadi, Ruichen Chen, Bahador Rashidi, Di Niu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-14277/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-14277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_14277,
+  title = {{Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making}},
+  author = {{Amirhosein Ghasemabadi} and {Ruichen Chen} and {Bahador Rashidi} and {Di Niu}},
+  year = {2026},
+  eprint = {2607.14277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.14277v1},
+  note = {First published: 2026-07-15; Recorded arXiv version: v1; Recorded version updated: 2026-07-15T18:36:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

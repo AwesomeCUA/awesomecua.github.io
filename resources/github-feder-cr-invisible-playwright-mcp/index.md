@@ -1,3 +1,11 @@
+---
+title: "invisible_playwright_mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/
+updated: 2026-10-18
+type: tool
+lang: en
+---
+
 # invisible_playwright_mcp
 
 MCP server and local web UI that let an LLM drive an anti-detect Firefox build with moving-pointer and key-press input, seeded browser identities, optional proxies and persistent profiles.

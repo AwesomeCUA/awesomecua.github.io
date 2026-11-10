@@ -1,3 +1,11 @@
+---
+title: "Web Browser Automation with Agents… · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5857c840372512cfe3fc/
+updated: 2026-10-20
+type: learning
+lang: zh-CN
+---
+
 # Web Browser Automation with Agents (smolagents tutorial)
 
 带版本管理的教程，使用 Selenium/Helium 浏览器工具、截图回调和网页导航示例任务构建视觉引导的 CodeAgent。

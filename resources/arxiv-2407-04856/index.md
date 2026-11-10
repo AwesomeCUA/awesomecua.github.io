@@ -1,3 +1,11 @@
+---
+title: "Explorative Imitation Learning: A Path… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-04856/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Explorative Imitation Learning: A Path Signature Approach for Continuous Environments
 
 Status: excluded from the active CUA catalog after scope review.

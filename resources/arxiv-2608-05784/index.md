@@ -1,3 +1,11 @@
+---
+title: "Activity Frames: Deterministic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-05784/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay
 
 Introduces Activity Frames, a deterministic pipeline that turns captured screen activity into typed episodes for computer-use agent memory and routine replay.
@@ -26,6 +34,18 @@ Nossa Iyamu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-05784/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-05784/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05784,
+  title = {{Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay}},
+  author = {{Nossa Iyamu}},
+  year = {2026},
+  eprint = {2608.05784v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05784v1},
+  note = {First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T09:17:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

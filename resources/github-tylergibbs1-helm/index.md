@@ -1,3 +1,11 @@
+---
+title: "Helm | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tylergibbs1-helm/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Helm
 
 Semantic browser automation MCP server providing 27 tools with label-based element resolution and structured page state.

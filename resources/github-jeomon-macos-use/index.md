@@ -1,3 +1,11 @@
+---
+title: "macOS-Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeomon-macos-use/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # macOS-Use
 
 macOS-Use is a GUI desktop agent that reads the macOS Accessibility tree and executes multi-step application workflows.

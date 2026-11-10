@@ -1,3 +1,11 @@
+---
+title: "Local Grounding MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-archie-ib-dev-local-grounding-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Local Grounding MCP
 
 Local Grounding MCP 为 Apple Silicon 上的 MCP 浏览器智能体提供隐私优先的本地视觉定位回退方案，以及 DOM 与视觉混合路由。

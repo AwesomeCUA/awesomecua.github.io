@@ -1,3 +1,11 @@
+---
+title: "CityX: Controllable Procedural Content… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-17572/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CityX: Controllable Procedural Content Generation for Unbounded 3D Cities
 
 Bibliographic record for CityX: Controllable Procedural Content Generation for Unbounded 3D Cities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shougao Zhang, Mengqi Zhou, Yuxi Wang, Chuanchen Luo, Rongyu Wang, Yiwei Li, Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-17572/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-17572/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_17572,
+  title = {{CityX: Controllable Procedural Content Generation for Unbounded 3D Cities}},
+  author = {{Shougao Zhang} and {Mengqi Zhou} and {Yuxi Wang} and {Chuanchen Luo} and {Rongyu Wang} and {Yiwei Li} and {Zhaoxiang Zhang} and {Junran Peng}},
+  year = {2024},
+  eprint = {2407.17572v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.17572v4},
+  note = {First published: 2024-07-24; Recorded arXiv version: v4; Recorded version updated: 2024-12-09T09:30:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

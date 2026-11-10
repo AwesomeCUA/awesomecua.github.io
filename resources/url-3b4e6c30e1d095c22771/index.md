@@ -1,3 +1,11 @@
+---
+title: "OSWorld 2.0 trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # OSWorld 2.0 trajectories
 
 XLang's gated release of OSWorld 2.0 agent runs: 21 ZIP result archives named by model and run settings, plus per-task trajectory JSONL, step screenshots, results and logs for seven model runs.

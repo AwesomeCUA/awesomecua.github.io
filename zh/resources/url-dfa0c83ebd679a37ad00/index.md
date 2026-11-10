@@ -1,3 +1,11 @@
+---
+title: "gui_and_terminal_operation_recording · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dfa0c83ebd679a37ad00/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # gui_and_terminal_operation_recording
 
 一个收录图形界面和终端操作记录的数据集。图形界面会话包含带时间戳的截图、鼠标事件和键盘事件；终端会话包含输入与输出日志。

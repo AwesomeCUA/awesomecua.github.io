@@ -1,3 +1,11 @@
+---
+title: "Reward models — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/reward-models/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Reward models
 
 Reviewed topic membership; resources can appear in multiple topics.

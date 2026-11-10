@@ -1,3 +1,11 @@
+---
+title: "local-browser-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yourself-q-local-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # local-browser-agent
 
 Local-first browser agent that attaches to an existing Chrome instance via CDP and runs entirely on local Ollama LLMs.

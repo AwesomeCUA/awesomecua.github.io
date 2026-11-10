@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-plus · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-particlelight-dsh-browser-plus/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-browser-plus
 
 面向 DeepSeek Harness 的可视化、由智能体驱动的 Electron WebContents 浏览器插件。

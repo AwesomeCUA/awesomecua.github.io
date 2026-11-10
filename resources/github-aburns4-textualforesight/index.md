@@ -1,3 +1,11 @@
+---
+title: "Textual Foresight | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aburns4-textualforesight/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # Textual Foresight
 
 Textual Foresight pretrains UI representations by predicting textual descriptions of future screen states resulting from mobile UI actions.

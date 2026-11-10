@@ -1,3 +1,11 @@
+---
+title: "Deck | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cofy-x-deck/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Deck
 
 Deck is an open-source desktop cockpit for managing isolated local AI agent sandboxes, desktop sessions, and developer handoffs.

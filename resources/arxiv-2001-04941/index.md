@@ -1,3 +1,11 @@
+---
+title: "Computation of molecular excited states on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2001-04941/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Computation of molecular excited states on IBM quantum computers using a discriminative variational quantum eigensolver
 
 Status: excluded from the active CUA catalog after scope review.

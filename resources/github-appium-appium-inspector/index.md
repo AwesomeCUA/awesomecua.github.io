@@ -1,3 +1,11 @@
+---
+title: "Appium Inspector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium-inspector/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Appium Inspector
 
 An Appium inspection tool that displays app screenshots beside page source and lets users find and interact with elements. It is distributed as a desktop app and server plugin.

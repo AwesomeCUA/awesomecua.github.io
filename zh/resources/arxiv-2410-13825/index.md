@@ -1,3 +1,11 @@
+---
+title: "AgentOccam: A Simple Yet Strong Baseline… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-13825/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents
 
 研究简化网页智能体的观察与操作，并使其适配语言模型能力，会如何影响任务完成情况。
@@ -27,6 +35,18 @@ Ke Yang, Yao Liu, Sapana Chaudhary, Rasool Fakoor, Pratik Chaudhari, George Kary
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-13825/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-13825/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_13825,
+  title = {{AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents}},
+  author = {{Ke Yang} and {Yao Liu} and {Sapana Chaudhary} and {Rasool Fakoor} and {Pratik Chaudhari} and {George Karypis} and {Huzefa Rangwala}},
+  year = {2024},
+  eprint = {2410.13825v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.13825v2},
+  note = {First published: 2024-10-17; Recorded arXiv version: v2; Recorded version updated: 2025-05-24T03:55:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Morae: Proactively Pausing UI Agents for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-21456/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Morae: Proactively Pausing UI Agents for User Choices
 
 提出 UI 智能体 Morae，利用界面代码和截图识别决策点，并暂停操作以让用户选择。一项有盲人和低视力参与者参加的研究在真实网页任务上评估这种人机协作方式。
@@ -27,6 +35,18 @@ Yi-Hao Peng, Dingzeyu Li, Jeffrey P. Bigham, Amy Pavel
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-21456/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-21456/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_21456,
+  title = {{Morae: Proactively Pausing UI Agents for User Choices}},
+  author = {{Yi-Hao Peng} and {Dingzeyu Li} and {Jeffrey P. Bigham} and {Amy Pavel}},
+  year = {2025},
+  eprint = {2508.21456v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.21456v1},
+  note = {First published: 2025-08-29; Recorded arXiv version: v1; Recorded version updated: 2025-08-29T09:39:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

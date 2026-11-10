@@ -1,3 +1,11 @@
+---
+title: "The Potential of LLMs in Automating Software… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-00217/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # The Potential of LLMs in Automating Software Testing: From Generation to Reporting
 
 Bibliographic record for The Potential of LLMs in Automating Software Testing: From Generation to Reporting. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Betim Sherifi, Khaled Slhoub, Fitzroy Nembhard
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-00217/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-00217/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_00217,
+  title = {{The Potential of LLMs in Automating Software Testing: From Generation to Reporting}},
+  author = {{Betim Sherifi} and {Khaled Slhoub} and {Fitzroy Nembhard}},
+  year = {2024},
+  eprint = {2501.00217v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.00217v1},
+  note = {First published: 2024-12-31; Recorded arXiv version: v1; Recorded version updated: 2024-12-31T02:06:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

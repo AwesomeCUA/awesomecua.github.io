@@ -1,3 +1,11 @@
+---
+title: "autoit-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-benina-autoit-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # autoit-mcp
 
 基于 AutoIt 构建、面向 Claude Code 的便携式 Windows GUI 自动化 Model Context Protocol 服务器。

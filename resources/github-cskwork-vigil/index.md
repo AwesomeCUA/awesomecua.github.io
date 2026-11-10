@@ -1,3 +1,11 @@
+---
+title: "cskwork vigil | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cskwork-vigil/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # cskwork vigil
 
 Continuous browser QA harness that reproduces reported bugs and autonomously expands end-to-end test coverage on live web URLs.

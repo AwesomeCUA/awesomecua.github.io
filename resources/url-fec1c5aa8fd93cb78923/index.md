@@ -1,3 +1,11 @@
+---
+title: "Seg2Click Qwen3.5 2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fec1c5aa8fd93cb78923/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Seg2Click Qwen3.5 2B
 
 Seg2Click checkpoint using a 2B Qwen3.5 backbone to predict a mask and select an interface click.

@@ -1,3 +1,11 @@
+---
+title: "CLM-v0.1-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0b272935f82c063d9384/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # CLM-v0.1-8B
 
 Weights for CLM-8B, a contrastive model with state and action heads on a frozen Qwen3-8B encoder that ranks candidate actions; the authors report computer-use, gaming and tool-calling results.

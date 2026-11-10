@@ -1,3 +1,11 @@
+---
+title: "Agent-RewardBench: Towards a Unified… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-21252/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents
 
 Agent-RewardBench 评测多模态智能体的步骤级奖励模型在感知、规划和安全方面的表现；网页导航是其场景之一。
@@ -27,6 +35,18 @@ Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-21252/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-21252/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_21252,
+  title = {{Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents}},
+  author = {{Tianyi Men} and {Zhuoran Jin} and {Pengfei Cao} and {Yubo Chen} and {Kang Liu} and {Jun Zhao}},
+  year = {2025},
+  eprint = {2506.21252v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.21252v1},
+  note = {First published: 2025-06-26; Recorded arXiv version: v1; Recorded version updated: 2025-06-26T13:36:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "SAT: Dynamic Spatial Aptitude Training for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-07755/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models
 
 Bibliographic record for SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Arijit Ray, Jiafei Duan, Ellis Brown, Reuben Tan, Dina Bashkirova, Rose Hendrix,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-07755/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-07755/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_07755,
+  title = {{SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models}},
+  author = {{Arijit Ray} and {Jiafei Duan} and {Ellis Brown} and {Reuben Tan} and {Dina Bashkirova} and {Rose Hendrix} and {Kiana Ehsani} and {Aniruddha Kembhavi} and {Bryan A. Plummer} and {Ranjay Krishna} and {Kuo-Hao Zeng} and {Kate Saenko}},
+  year = {2024},
+  eprint = {2412.07755v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.07755v3},
+  note = {First published: 2024-12-10; Recorded arXiv version: v3; Recorded version updated: 2025-12-04T19:47:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

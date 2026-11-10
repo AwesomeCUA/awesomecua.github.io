@@ -1,3 +1,11 @@
+---
+title: "MIP against Agent: Malicious Image Patches… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-10809/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents
 
 Studies Malicious Image Patches (MIPs), altered screen regions that can steer screenshot-based OS agents into harmful mouse and keyboard actions.
@@ -26,6 +34,18 @@ Lukas Aichberger, Alasdair Paren, Guohao Li, Philip Torr, Yarin Gal, Adel Bibi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-10809/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-10809/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_10809,
+  title = {{MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents}},
+  author = {{Lukas Aichberger} and {Alasdair Paren} and {Guohao Li} and {Philip Torr} and {Yarin Gal} and {Adel Bibi}},
+  year = {2025},
+  eprint = {2503.10809v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.10809v3},
+  note = {First published: 2025-03-13; Recorded arXiv version: v3; Recorded version updated: 2026-01-27T18:10:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

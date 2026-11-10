@@ -1,3 +1,11 @@
+---
+title: "DocILE Benchmark for Document Information… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-05658/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DocILE Benchmark for Document Information Localization and Extraction
 
 Bibliographic record for DocILE Benchmark for Document Information Localization and Extraction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2302-05658/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2302-05658/citation.csl.json
+
+```bibtex
+@misc{arxiv_2302_05658,
+  title = {{DocILE Benchmark for Document Information Localization and Extraction}},
+  author = {{Štěpán Šimsa} and {Milan Šulc} and {Michal Uřičář} and {Yash Patel} and {Ahmed Hamdi} and {Matěj Kocián} and {Matyáš Skalický} and {Jiří Matas} and {Antoine Doucet} and {Mickaël Coustaty} and {Dimosthenis Karatzas}},
+  year = {2023},
+  eprint = {2302.05658v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2302.05658v2},
+  note = {First published: 2023-02-11; Recorded arXiv version: v2; Recorded version updated: 2023-05-03T16:24:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

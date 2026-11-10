@@ -1,3 +1,11 @@
+---
+title: "Succinct Blind Quantum Computation Using a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2004-12621/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Succinct Blind Quantum Computation Using a Random Oracle
 
 Status: excluded from the active CUA catalog after scope review.

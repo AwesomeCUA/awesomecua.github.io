@@ -1,3 +1,11 @@
+---
+title: "Just Do It!? Computer-Use Agents Exhibit… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-01670/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness
 
 BLIND-ACT 测试计算机使用智能体是否会在缺乏充分上下文推理时，仍坚持执行含糊、矛盾或不可行的目标。其基于 OSWorld 的任务和经评判的轨迹用于分析这些行为及缓解性提示的效果。
@@ -27,6 +35,18 @@ Erfan Shayegani, Keegan Hines, Yue Dong, Nael Abu-Ghazaleh, Roman Lutz, Spencer 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-01670/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-01670/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_01670,
+  title = {{Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness}},
+  author = {{Erfan Shayegani} and {Keegan Hines} and {Yue Dong} and {Nael Abu-Ghazaleh} and {Roman Lutz} and {Spencer Whitehead} and {Vidhisha Balachandran} and {Besmira Nushi} and {Vibhav Vineet}},
+  year = {2025},
+  eprint = {2510.01670v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.01670v1},
+  note = {First published: 2025-10-02; Recorded arXiv version: v1; Recorded version updated: 2025-10-02T04:52:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

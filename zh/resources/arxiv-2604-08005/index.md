@@ -1,3 +1,11 @@
+---
+title: "Preference Redirection via Attention… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-08005/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Preference Redirection via Attention Concentration: An Attack on Computer Use Agents
 
 提出对抗补丁攻击 PRAC，通过转移计算机使用智能体的视觉注意力，影响其在在线购物平台上的商品选择。
@@ -27,6 +35,18 @@ Dominik Seip, Matthias Hein
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-08005/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-08005/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_08005,
+  title = {{Preference Redirection via Attention Concentration: An Attack on Computer Use Agents}},
+  author = {{Dominik Seip} and {Matthias Hein}},
+  year = {2026},
+  eprint = {2604.08005v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.08005v2},
+  note = {First published: 2026-04-09; Recorded arXiv version: v2; Recorded version updated: 2026-08-10T12:07:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

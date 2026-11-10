@@ -1,3 +1,11 @@
+---
+title: "ScienceCUA: Resource-to-Skill… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-03238/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents
 
 提出 ScienceCUA，将科研软件文档转为可复用的智能体技能，并依据执行反馈修订；同时提供两种经审查的评测版本。
@@ -27,6 +35,18 @@ Daiqiang Li, Jingyi Peng, Rui Hu, Jia Li, Xuyang Liu, Guanren Qiao, Yujia Xiang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-03238/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-03238/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_03238,
+  title = {{ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents}},
+  author = {{Daiqiang Li} and {Jingyi Peng} and {Rui Hu} and {Jia Li} and {Xuyang Liu} and {Guanren Qiao} and {Yujia Xiang} and {Qiuzhuang Sun} and {Zhiping Xu} and {Mingrui Luo}},
+  year = {2026},
+  eprint = {2611.03238v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.03238v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T14:50:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

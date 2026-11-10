@@ -1,3 +1,11 @@
+---
+title: "dsh-vision-click | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zdd3143-dsh-vision-click/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-vision-click
 
 Windows computer-use plugin for DeepSeek Harness using offline `Windows.Media.Ocr` text localization and pre/post-click pixel verification.

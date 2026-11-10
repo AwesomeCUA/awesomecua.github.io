@@ -1,3 +1,11 @@
+---
+title: "Qwen-CUA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a886fea306211d527701/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen-CUA
 
 Qwen-CUA is a screenshot-based computer-use model that generates grounded keyboard and mouse actions. Its release includes weights and a browser reference runtime.

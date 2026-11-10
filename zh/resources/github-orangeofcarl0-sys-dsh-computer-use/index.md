@@ -1,3 +1,11 @@
+---
+title: "orangeofcarl0-sys dsh-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-orangeofcarl0-sys-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # orangeofcarl0-sys dsh-computer-use
 
 面向 DeepSeek Harness 的 Windows 桌面计算机使用插件，支持编号 UI 元素定位和优先在后台传递输入。

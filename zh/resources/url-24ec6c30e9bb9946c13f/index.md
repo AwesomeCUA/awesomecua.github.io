@@ -1,3 +1,11 @@
+---
+title: "OpenJev-1.7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-24ec6c30e9bb9946c13f/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpenJev-1.7B
 
 OpenJev-1.7B 是一款本地决策模型，可对浏览器智能体步骤中的候选选项评分，包括下一步操作和目标元素。

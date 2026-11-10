@@ -1,3 +1,11 @@
+---
+title: "PlotEdit: Natural Language-Driven Accessible… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-11233/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PlotEdit: Natural Language-Driven Accessible Chart Editing in PDFs via Multimodal LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

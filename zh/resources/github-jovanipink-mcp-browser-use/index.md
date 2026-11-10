@@ -1,3 +1,11 @@
+---
+title: "MCP Browser Use Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jovanipink-mcp-browser-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP Browser Use Server
 
 基于 FastAPI 的 Model Context Protocol 服务器，将 browser-use 的自主网页导航工作流提供为可调用的 MCP 工具。

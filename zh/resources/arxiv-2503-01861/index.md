@@ -1,3 +1,11 @@
+---
+title: "Towards Enterprise-Ready Computer Using… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-01861/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Towards Enterprise-Ready Computer Using Generalist Agent
 
 介绍 CUGA 企业智能体的开发过程，重点关注在软件任务基准上的迭代评估、失败分析和改进。
@@ -27,6 +35,18 @@ Sami Marreed, Alon Oved, Avi Yaeli, Segev Shlomov, Ido Levy, Offer Akrabi, Aviad
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-01861/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-01861/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_01861,
+  title = {{Towards Enterprise-Ready Computer Using Generalist Agent}},
+  author = {{Sami Marreed} and {Alon Oved} and {Avi Yaeli} and {Segev Shlomov} and {Ido Levy} and {Offer Akrabi} and {Aviad Sela} and {Asaf Adi} and {Nir Mashkif}},
+  year = {2025},
+  eprint = {2503.01861v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.01861v3},
+  note = {First published: 2025-02-24; Recorded arXiv version: v3; Recorded version updated: 2025-07-09T13:52:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

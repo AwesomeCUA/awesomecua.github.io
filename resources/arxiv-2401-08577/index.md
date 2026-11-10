@@ -1,3 +1,11 @@
+---
+title: "MultiPLY: A Multisensory Object-Centric… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-08577/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World
 
 Bibliographic record for MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yining Hong, Zishuo Zheng, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-08577/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-08577/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_08577,
+  title = {{MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World}},
+  author = {{Yining Hong} and {Zishuo Zheng} and {Peihao Chen} and {Yian Wang} and {Junyan Li} and {Chuang Gan}},
+  year = {2024},
+  eprint = {2401.08577v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.08577v1},
+  note = {First published: 2024-01-16; Recorded arXiv version: v1; Recorded version updated: 2024-01-16T18:59:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

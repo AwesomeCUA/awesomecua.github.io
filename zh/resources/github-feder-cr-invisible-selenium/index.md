@@ -1,3 +1,11 @@
+---
+title: "invisible_selenium · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-invisible-selenium/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # invisible_selenium
 
 一个提供 Selenium webdriver API 的 Python 包，无需 geckodriver 即可驱动反检测 Firefox，在引擎内部设置浏览器指纹，并让鼠标沿拟人化轨迹移动。

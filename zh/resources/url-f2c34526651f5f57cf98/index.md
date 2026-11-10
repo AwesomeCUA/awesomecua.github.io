@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 8B WA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f2c34526651f5f57cf98/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # OS-Genesis 8B WA
 
 面向 WebArena 的 InternVL2-8B 检查点，使用 OS-Genesis 逆向任务合成产生的网页轨迹训练；示例提示将截图、无障碍树与指令和动作历史配对。

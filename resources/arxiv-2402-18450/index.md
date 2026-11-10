@@ -1,3 +1,11 @@
+---
+title: "Copula Approximate Bayesian Computation Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-18450/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Copula Approximate Bayesian Computation Using Distribution Random Forests
 
 Status: excluded from the active CUA catalog after scope review.

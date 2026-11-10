@@ -1,3 +1,11 @@
+---
+title: "Numerical convergence of the Lyapunov… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1805-00824/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Numerical convergence of the Lyapunov spectrum computed using low Mach number solvers
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "dsh-nuphus-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mrpulor-gh-dsh-nuphus-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-nuphus-mcp
 
 DeepSeek Harness plugin that mounts `nuphus-mcp` desktop control tools natively inside DSH sessions.

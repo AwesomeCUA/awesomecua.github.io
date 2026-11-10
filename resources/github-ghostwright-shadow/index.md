@@ -1,3 +1,11 @@
+---
+title: "Shadow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ghostwright-shadow/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # Shadow
 
 macOS app that records screen, audio, input events and accessibility trees on-device, builds searchable episodes, and replays learned procedures through AX-first grounding with a LoRA-tuned ShowUI-2B fallback.

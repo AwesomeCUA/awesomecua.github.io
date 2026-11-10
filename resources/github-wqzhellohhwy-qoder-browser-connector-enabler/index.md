@@ -1,3 +1,11 @@
+---
+title: "Qoder Browser Connector Enabler | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wqzhellohhwy-qoder-browser-connector-enabler/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Qoder Browser Connector Enabler
 
 Enables Qoder's Browser-Use connector mode to attach to and control the user's real Chrome browser.

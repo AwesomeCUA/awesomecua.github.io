@@ -1,3 +1,11 @@
+---
+title: "CODA: Coordinating the Cerebrum and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-20096/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning
 
 CODA combines a generalist planner with a specialist GUI executor and trains application-specific planners through decoupled GRPO. Successful specialist trajectories then support supervised training of a consolidated planner, evaluated across four ScienceBoard applications.
@@ -26,6 +34,18 @@ Zeyi Sun, Yuhang Cao, Jianze Liang, Qiushi Sun, Ziyu Liu, Zhixiong Zhang, Yuhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-20096/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-20096/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_20096,
+  title = {{CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning}},
+  author = {{Zeyi Sun} and {Yuhang Cao} and {Jianze Liang} and {Qiushi Sun} and {Ziyu Liu} and {Zhixiong Zhang} and {Yuhang Zang} and {Xiaoyi Dong} and {Kai Chen} and {Dahua Lin} and {Jiaqi Wang}},
+  year = {2025},
+  eprint = {2508.20096v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.20096v1},
+  note = {First published: 2025-08-27; Recorded arXiv version: v1; Recorded version updated: 2025-08-27T17:59:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "NAIL-Group/ClawBenchV1Trace | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e7653b062bded670198a/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # NAIL-Group/ClawBenchV1Trace
 
 ClawBench V1 Traces releases browser-agent run records with screen video, actions, network traffic and agent messages for replay, debugging and regrading.

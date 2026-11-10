@@ -1,3 +1,11 @@
+---
+title: "fearch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-funkyfunc-fearch/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # fearch
 
 Model Context Protocol server providing transparent web search and clean page reading for AI agents.

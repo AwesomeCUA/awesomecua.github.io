@@ -1,3 +1,11 @@
+---
+title: "TeamCraft: A Benchmark for Multi-Modal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-05255/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft
 
 Bibliographic record for TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qian Long, Zhi Li, Ran Gong, Ying Nian Wu, Demetri Terzopoulos, Xiaofeng Gao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-05255/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-05255/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_05255,
+  title = {{TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft}},
+  author = {{Qian Long} and {Zhi Li} and {Ran Gong} and {Ying Nian Wu} and {Demetri Terzopoulos} and {Xiaofeng Gao}},
+  year = {2024},
+  eprint = {2412.05255v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.05255v1},
+  note = {First published: 2024-12-06; Recorded arXiv version: v1; Recorded version updated: 2024-12-06T18:41:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "vco (Visual Computer Operate) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lo2589-vco/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # vco (Visual Computer Operate)
 
 Shell-driven visual computer-use toolkit enabling LLMs to inspect and click web pages and desktop screens.

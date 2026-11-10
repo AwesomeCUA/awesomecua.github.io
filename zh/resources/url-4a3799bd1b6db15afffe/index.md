@@ -1,3 +1,11 @@
+---
+title: "Qwen3-8B-FormFactory-GRPO-LoRA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4a3799bd1b6db15afffe/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-8B-FormFactory-GRPO-LoRA
 
 Qwen3-8B-FormFactory-GRPO-LoRA 是用于 Qwen3-8B 的浏览器表单填写适配器，通过监督初始化和真实浏览器执行中的在线 GRPO 训练。

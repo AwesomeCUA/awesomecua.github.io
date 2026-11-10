@@ -1,3 +1,11 @@
+---
+title: "PlanViz: Evaluating Planning-Oriented Image… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-06663/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks
 
 Bibliographic record for PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junxian Li, Kai Liu, Leyang Chen, Weida Wang, Zhixin Wang, Jiaqi Xu, Fan Li, Ren
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-06663/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-06663/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06663,
+  title = {{PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks}},
+  author = {{Junxian Li} and {Kai Liu} and {Leyang Chen} and {Weida Wang} and {Zhixin Wang} and {Jiaqi Xu} and {Fan Li} and {Renjing Pei} and {Linghe Kong} and {Yulun Zhang}},
+  year = {2026},
+  eprint = {2602.06663v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06663v2},
+  note = {First published: 2026-02-06; Recorded arXiv version: v2; Recorded version updated: 2026-04-20T06:42:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

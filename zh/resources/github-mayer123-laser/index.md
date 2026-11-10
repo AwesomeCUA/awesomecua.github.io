@@ -1,3 +1,11 @@
+---
+title: "LASER · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mayer123-laser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # LASER
 
 LASER 将交互式网页导航建模为状态空间探索，在 WebShop 上使用明确的状态转换和回溯。

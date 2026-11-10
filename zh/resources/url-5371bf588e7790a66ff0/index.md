@@ -1,3 +1,11 @@
+---
+title: "webrl-llama-3.1-70b · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5371bf588e7790a66ff0/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # webrl-llama-3.1-70b
 
 基于 Llama-3.1-70B 发布的 WebRL 网页操作模型，面向五个 WebArena 网站。模型卡报告了 WebArena-Lite 结果，并指向推理要求。

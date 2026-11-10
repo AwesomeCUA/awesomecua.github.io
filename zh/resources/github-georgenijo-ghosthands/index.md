@@ -1,3 +1,11 @@
+---
+title: "GhostHands · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-georgenijo-ghosthands/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GhostHands
 
 本地 Apple Silicon MLX 计算机使用桥接工具，可通过 Accessibility API 驱动原生 macOS 应用，且不占用物理光标。

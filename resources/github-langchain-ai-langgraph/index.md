@@ -1,3 +1,11 @@
+---
+title: "LangGraph | AwesomeCUA"
+url: https://awesomecua.com/resources/github-langchain-ai-langgraph/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LangGraph
 
 LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.

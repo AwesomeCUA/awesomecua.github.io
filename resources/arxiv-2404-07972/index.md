@@ -1,3 +1,11 @@
+---
+title: "OSWorld: Benchmarking Multimodal Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-07972/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 
 Introduces a real-computer evaluation environment with execution-based checks for tasks spanning desktop applications and operating-system state.
@@ -26,6 +34,18 @@ Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-07972/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-07972/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_07972,
+  title = {{OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments}},
+  author = {{Tianbao Xie} and {Danyang Zhang} and {Jixuan Chen} and {Xiaochuan Li} and {Siheng Zhao} and {Ruisheng Cao} and {Toh Jing Hua} and {Zhoujun Cheng} and {Dongchan Shin} and {Fangyu Lei} and {Yitao Liu} and {Yiheng Xu} and {Shuyan Zhou} and {Silvio Savarese} and {Caiming Xiong} and {Victor Zhong} and {Tao Yu}},
+  year = {2024},
+  eprint = {2404.07972v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.07972v2},
+  note = {First published: 2024-04-11; Recorded arXiv version: v2; Recorded version updated: 2024-05-30T08:55:12Z.}
+}
+```
 
 ## Publication record
 

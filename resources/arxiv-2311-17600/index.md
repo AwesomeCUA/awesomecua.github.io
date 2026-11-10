@@ -1,3 +1,11 @@
+---
+title: "MM-SafetyBench: A Benchmark for Safety… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-17600/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

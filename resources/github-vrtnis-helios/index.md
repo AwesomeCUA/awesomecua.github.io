@@ -1,3 +1,11 @@
+---
+title: "Helios | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vrtnis-helios/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Helios
 
 Observability and evaluation harness that converts H computer-use agent sessions into reviewable traces and failure findings.

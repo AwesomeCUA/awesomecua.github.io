@@ -1,3 +1,11 @@
+---
+title: "CAP: A Scalable Benchmark for Evaluating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-08392/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception
 
 CAP 将网站拆解为操作和感知需求，再重新组合成跨网站浏览器任务；基于评审的评估诊断真实网站上的复杂交互及视觉感知失败。
@@ -27,6 +35,18 @@ Zejun Xu, Taiyi Chen, Jin Li, Yongtong Gu, Qi Cheng, Aixuan Lv, Shuai Zhu, Pengf
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-08392/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-08392/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_08392,
+  title = {{CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception}},
+  author = {{Zejun Xu} and {Taiyi Chen} and {Jin Li} and {Yongtong Gu} and {Qi Cheng} and {Aixuan Lv} and {Shuai Zhu} and {Pengfei Zhu} and {Kaichen Yang} and {Boyu Sun} and {Yixian Yang} and {Mulong Xie} and {Xin Liu} and {Dagang Li} and {Xiaoteng Ma} and {Hongru Wang}},
+  year = {2026},
+  eprint = {2608.08392v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.08392v1},
+  note = {First published: 2026-08-09; Recorded arXiv version: v1; Recorded version updated: 2026-08-09T01:08:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

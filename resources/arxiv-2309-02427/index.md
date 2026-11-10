@@ -1,3 +1,11 @@
+---
+title: "Cognitive Architectures for Language Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-02427/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Cognitive Architectures for Language Agents
 
 Bibliographic record for Cognitive Architectures for Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Theodore R. Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-02427/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-02427/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_02427,
+  title = {{Cognitive Architectures for Language Agents}},
+  author = {{Theodore R. Sumers} and {Shunyu Yao} and {Karthik Narasimhan} and {Thomas L. Griffiths}},
+  year = {2023},
+  eprint = {2309.02427v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.02427v3},
+  note = {First published: 2023-09-05; Recorded arXiv version: v3; Recorded version updated: 2024-03-15T15:44:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

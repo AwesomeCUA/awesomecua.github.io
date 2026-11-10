@@ -1,3 +1,11 @@
+---
+title: "Agent Browser Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shanewas-agent-browser-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Agent Browser Bridge
 
 浏览器控制桥接工具，让智能体通过 MCP、命令行或 Python 查看并操作正在使用的 Edge 会话。它还提供 Windows 桌面的截图与输入控制。

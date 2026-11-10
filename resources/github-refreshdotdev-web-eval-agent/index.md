@@ -1,3 +1,11 @@
+---
+title: "web-eval-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # web-eval-agent
 
 MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.

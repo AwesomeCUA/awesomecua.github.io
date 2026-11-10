@@ -1,3 +1,11 @@
+---
+title: "Data Formulator 2: Iterative Creation of Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-16119/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Data Formulator 2: Iterative Creation of Data Visualizations, with AI Transforming Data Along the Way
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Visually Grounded Self-Reflection for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-02490/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

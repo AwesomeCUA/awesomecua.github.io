@@ -1,3 +1,11 @@
+---
+title: "Project Greenhouse: Progress Toward Fully… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11922/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Project Greenhouse: Progress Toward Fully Open and Sovereign Agentic Search
 
 Status: excluded from the active CUA catalog after scope review.

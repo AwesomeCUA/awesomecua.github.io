@@ -1,3 +1,11 @@
+---
+title: "RecordAgent (ButvanAgent) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kavanio-recordagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # RecordAgent (ButvanAgent)
 
 本地优先的 Tauri 和 AgentScope 桌面智能体工作台，具备权限审批、工具编排和工作流录制功能。

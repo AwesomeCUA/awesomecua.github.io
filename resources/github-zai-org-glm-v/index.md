@@ -1,3 +1,11 @@
+---
+title: "GLM-V | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zai-org-glm-v/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GLM-V
 
 Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vision-language models, with GUI-agent prompt examples for mobile, PC and web plus a released VLM reward system.

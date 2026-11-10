@@ -1,3 +1,11 @@
+---
+title: "Private delegated computations using strong… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2205-03322/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Private delegated computations using strong isolation
 
 Status: excluded from the active CUA catalog after scope review.

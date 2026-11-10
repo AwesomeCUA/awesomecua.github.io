@@ -1,3 +1,11 @@
+---
+title: "Agentic Reward Modeling (RewardAgent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thu-keg-agentic-reward-modeling/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agentic Reward Modeling (RewardAgent)
 
 RewardAgent combines human-preference scores with verifiable factuality and instruction-following checks to judge agent trajectories.

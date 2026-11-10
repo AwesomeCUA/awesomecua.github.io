@@ -1,3 +1,11 @@
+---
+title: "linux-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tak-uukti-linux-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # linux-computer-use
 
 Linux/X11 计算机使用工具包及 MCP 服务器，结合 AT-SPI 语义树、截图和输入控制，供编码智能体使用。

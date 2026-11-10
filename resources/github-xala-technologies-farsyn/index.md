@@ -1,3 +1,11 @@
+---
+title: "Farsyn | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xala-technologies-farsyn/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Farsyn
 
 Geographic experience and web-evidence engine that drives real browsers across locales and records verifiable captures.

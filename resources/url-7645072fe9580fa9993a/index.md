@@ -1,3 +1,11 @@
+---
+title: "Muse-Glimmer-30B-GUI-Grounding-Fast | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7645072fe9580fa9993a/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Muse-Glimmer-30B-GUI-Grounding-Fast
 
 A LoRA adapter for Muse-Glimmer-30B that returns a UI element's bounding box from a screenshot and instruction, with examples spanning desktop, mobile, and web screens.

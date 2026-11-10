@@ -1,3 +1,11 @@
+---
+title: "Scout | AwesomeCUA"
+url: https://awesomecua.com/resources/github-outcrawlai-scout/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # Scout
 
 TypeScript browser agent that drives any Chromium over CDP in a look-act-check loop, with separate user-chosen hands, brain, eyes and extract models and optional JSON Schema answers.

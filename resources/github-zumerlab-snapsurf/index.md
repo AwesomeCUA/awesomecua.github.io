@@ -1,3 +1,11 @@
+---
+title: "Snapsurf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zumerlab-snapsurf/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Snapsurf
 
 Web navigation and verification layer for AI agents providing compact semantic page digests and typed post-action DOM diffs.

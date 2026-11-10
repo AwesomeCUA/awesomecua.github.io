@@ -1,3 +1,11 @@
+---
+title: "hai-agents (github.com/hcompai/hai-agents-pyth… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hcompai-hai-agents-python/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # hai-agents
 
 hai-agents is a Python SDK and CLI for launching browser and desktop agents through H Company's Agents API and monitoring their sessions.

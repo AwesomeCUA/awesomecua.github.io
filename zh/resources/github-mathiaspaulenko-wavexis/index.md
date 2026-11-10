@@ -1,3 +1,11 @@
+---
+title: "wavexis · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mathiaspaulenko-wavexis/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # wavexis
 
 wavexis 是浏览器自动化命令行工具，可通过 CDP 或 WebDriver BiDi 执行导航和页面操作，并提供交互模式与多操作模式。

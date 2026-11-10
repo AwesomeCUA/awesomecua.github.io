@@ -1,3 +1,11 @@
+---
+title: "Serpent.AI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-serpentai-serpentai/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Serpent.AI
 
 一个用于构建与原生视频游戏交互的智能体的 Python 框架，通过插件和辅助模块将游戏用作研究环境。

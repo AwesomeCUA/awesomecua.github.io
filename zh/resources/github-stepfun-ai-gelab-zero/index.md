@@ -1,3 +1,11 @@
+---
+title: "GELab Zero · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-stepfun-ai-gelab-zero/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # GELab Zero
 
 开放式移动 GUI 智能体技术栈，结合可在消费级硬件上运行的 4B 模型、本地多设备基础设施、MCP 服务器和 AndroidDaily 基准任务。

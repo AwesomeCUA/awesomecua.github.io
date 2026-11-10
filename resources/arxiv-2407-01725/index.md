@@ -1,3 +1,11 @@
+---
+title: "DiscoveryBench: Towards Data-Driven Discovery… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-01725/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DiscoveryBench: Towards Data-Driven Discovery with Large Language Models
 
 Bibliographic record for DiscoveryBench: Towards Data-Driven Discovery with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bodhisattwa Prasad Majumder, Harshit Surana, Dhruv Agarwal, Bhavana Dalvi Mishra
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-01725/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-01725/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_01725,
+  title = {{DiscoveryBench: Towards Data-Driven Discovery with Large Language Models}},
+  author = {{Bodhisattwa Prasad Majumder} and {Harshit Surana} and {Dhruv Agarwal} and {Bhavana Dalvi Mishra} and {Abhijeetsingh Meena} and {Aryan Prakhar} and {Tirth Vora} and {Tushar Khot} and {Ashish Sabharwal} and {Peter Clark}},
+  year = {2024},
+  eprint = {2407.01725v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.01725v1},
+  note = {First published: 2024-07-01; Recorded arXiv version: v1; Recorded version updated: 2024-07-01T18:58:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

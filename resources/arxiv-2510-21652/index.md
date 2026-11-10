@@ -1,3 +1,11 @@
+---
+title: "AstaBench: Rigorous Benchmarking of AI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-21652/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite
 
 Bibliographic record for AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jonathan Bragg, Mike D'Arcy, Nishant Balepur, Dan Bareket, Bhavana Dalvi, Sergey
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-21652/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-21652/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_21652,
+  title = {{AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite}},
+  author = {{Jonathan Bragg} and {Mike D'Arcy} and {Nishant Balepur} and {Dan Bareket} and {Bhavana Dalvi} and {Sergey Feldman} and {Dany Haddad} and {Jena D. Hwang} and {Peter Jansen} and {Varsha Kishore} and {Bodhisattwa Prasad Majumder} and {Aakanksha Naik} and {Sigal Rahamimov} and {Kyle Richardson} and {Amanpreet Singh} and {Harshit Surana} and {Aryeh Tiktinsky} and {Rosni Vasu} and {Guy Wiener} and {Chloe Anastasiades} and {Stefan Candra} and {Jason Dunkelberger} and {Dan Emery} and {Rob Evans} and {Malachi Hamada} and {Regan Huff} and {Rodney Kinney} and {Matt Latzke} and {Jaron Lochner} and {Ruben Lozano-Aguilera} and {Cecile Nguyen} and {Smita Rao} and {Amber Tanaka} and {Brooke Vlahos} and {Peter Clark} and {Doug Downey} and {Yoav Goldberg} and {Ashish Sabharwal} and {Daniel S. Weld}},
+  year = {2025},
+  eprint = {2510.21652v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.21652v2},
+  note = {First published: 2025-10-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-21T23:10:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

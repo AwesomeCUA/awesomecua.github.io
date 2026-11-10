@@ -1,3 +1,11 @@
+---
+title: "World Editing: Intervening on Executable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02331/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # World Editing: Intervening on Executable Worlds at Increasing Depth
 
 Bibliographic record for World Editing: Intervening on Executable Worlds at Increasing Depth. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Max Ku, Nok-Kan Law, Yu-Chien Tang, Shih-Ying Yeh, Ping Nie, Andy Zheng, Tat Hei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02331/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02331/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02331,
+  title = {{World Editing: Intervening on Executable Worlds at Increasing Depth}},
+  author = {{Max Ku} and {Nok-Kan Law} and {Yu-Chien Tang} and {Shih-Ying Yeh} and {Ping Nie} and {Andy Zheng} and {Tat Hei Lai} and {Fei-Yueh Chen} and {Nikko Yu} and {Wei-Chieh Sun} and {Suzy Huang} and {Chiao-Wei Hsu} and {Chih-Chuan Huang} and {Chak-Wing Mak} and {Ho Yin Sam Ng} and {Edisy Kin Wai Chan} and {Min-Hung Chen} and {Ho Kei Cheng}},
+  year = {2026},
+  eprint = {2610.02331v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02331v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T18:05:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

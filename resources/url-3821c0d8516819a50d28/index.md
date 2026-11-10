@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Tree | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3821c0d8516819a50d28/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Screen2AX-Tree
 
 A dataset of macOS application screenshots paired with serialized accessibility trees for training models to reconstruct UI hierarchies from visual input.

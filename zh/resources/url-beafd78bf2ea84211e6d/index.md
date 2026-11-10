@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-32B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-beafd78bf2ea84211e6d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL-32B-Instruct
 
 Qwen2.5-VL-32B-Instruct 是已发布的视觉语言模型权重。其模型卡介绍了视觉智能体的电脑和手机操作、视觉定位能力，以及界面基准测试结果。

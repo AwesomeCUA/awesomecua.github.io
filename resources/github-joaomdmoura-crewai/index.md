@@ -1,3 +1,11 @@
+---
+title: "CrewAI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-joaomdmoura-crewai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CrewAI
 
 CrewAI is a Python framework for orchestrating role-playing autonomous AI agent teams and event-driven multi-step workflows.

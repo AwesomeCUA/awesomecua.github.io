@@ -1,3 +1,11 @@
+---
+title: "ERPBench: Evaluating LLM Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-04667/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies
 
 Bibliographic record for ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinran Zhang, Pengrui Lu, Lyumanshan Ye, Pengfei Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-04667/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-04667/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_04667,
+  title = {{ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies}},
+  author = {{Xinran Zhang} and {Pengrui Lu} and {Lyumanshan Ye} and {Pengfei Liu}},
+  year = {2026},
+  eprint = {2609.04667v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.04667v1},
+  note = {First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T02:58:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

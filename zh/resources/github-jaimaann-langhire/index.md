@@ -1,3 +1,11 @@
+---
+title: "LangHire · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jaimaann-langhire/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # LangHire
 
 一款桌面应用，其浏览器智能体可搜索职位并完成在线申请，还会利用跨任务保存的求职系统知识。

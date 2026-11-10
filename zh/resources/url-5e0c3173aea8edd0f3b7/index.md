@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-3B-Qwen2.5-VL-LiteTrain · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5e0c3173aea8edd0f3b7/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GUI-Actor-3B-Qwen2.5-VL-LiteTrain
 
 这是一个基于 Qwen2.5-VL-3B、配有注意力动作头的图形界面定位模型。输入截图和指令后，它预测点击位置。

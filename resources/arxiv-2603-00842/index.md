@@ -1,3 +1,11 @@
+---
+title: "MedGPT-oss: Training a General-Purpose… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-00842/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MedGPT-oss: Training a General-Purpose Vision-Language Model for Biomedicine
 
 Status: excluded from the active CUA catalog after scope review.

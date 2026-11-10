@@ -1,3 +1,11 @@
+---
+title: "UI-Mate-9B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d9e6788adf3eb50a9b87/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # UI-Mate-9B
 
 A 9B GUI agent model from the UI-Mate release, trained from Qwen3.5-9B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.

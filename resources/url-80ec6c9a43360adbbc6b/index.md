@@ -1,3 +1,11 @@
+---
+title: "UI-Venus-Navi-72B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-80ec6c9a43360adbbc6b/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # UI-Venus-Navi-72B
 
 A Qwen2.5-VL-based UI checkpoint for predicting navigation actions and locating interface elements from screenshots, trained with reinforcement fine-tuning.

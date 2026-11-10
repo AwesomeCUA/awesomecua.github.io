@@ -1,3 +1,11 @@
+---
+title: "OfficeBench: Benchmarking Language… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2407-19056/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation
 
 评估语言智能体处理需要整合信息、长期规划和切换应用的办公工作流程的能力。
@@ -27,6 +35,18 @@ Zilong Wang, Yuedong Cui, Li Zhong, Zimin Zhang, Da Yin, Bill Yuchen Lin, Jingbo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2407-19056/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2407-19056/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_19056,
+  title = {{OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation}},
+  author = {{Zilong Wang} and {Yuedong Cui} and {Li Zhong} and {Zimin Zhang} and {Da Yin} and {Bill Yuchen Lin} and {Jingbo Shang}},
+  year = {2024},
+  eprint = {2407.19056v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.19056v1},
+  note = {First published: 2024-07-26; Recorded arXiv version: v1; Recorded version updated: 2024-07-26T19:27:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

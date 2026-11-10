@@ -1,3 +1,11 @@
+---
+title: "EIA · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-eia-against-webagent/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # EIA
 
 环境注入攻击评估套件，通过在正常网站中嵌入不可见的恶意 HTML 元素，测试通用网页智能体的隐私泄露情况。

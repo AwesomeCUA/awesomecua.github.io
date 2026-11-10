@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 12 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/12/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 12
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/12/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [agent-gauntlet-example-agent](https://awesomecua.com/resources/github-konuktor-agent-gauntlet-example-agent/)
 - [agent-qa](https://awesomecua.com/resources/url-f7e21b1a3ba5c58a73bc/)
 - [Agent-R](https://awesomecua.com/resources/github-bytedance-seed-agent-r/)
 - [agent-ready-ui](https://awesomecua.com/resources/github-dvnc-labs-agent-ready-ui/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [anybridge](https://awesomecua.com/resources/github-justvugg-anybridge/)
 - [AnyBrowser](https://awesomecua.com/resources/github-christopher-inegbedion-anybrowser/)
 - [AnythingLLM](https://awesomecua.com/resources/github-mintplex-labs-anything-llm/)
+- [ANZU Superassistant (Jarvis)](https://awesomecua.com/resources/github-daan298261-jarvis/)

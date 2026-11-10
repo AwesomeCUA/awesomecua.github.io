@@ -1,3 +1,11 @@
+---
+title: "Threadline WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jameswirths-threadline/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Threadline WebMCP
 
 面向浏览器智能体的 WebMCP 参数调试器和研究工作区，具备人工把关的来源追踪功能。

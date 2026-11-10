@@ -1,3 +1,11 @@
+---
+title: "AgentCurtain · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-felixlark-agent-curtain/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AgentCurtain
 
 AgentCurtain 是一款 macOS 菜单栏工具，可在保持无人值守的 GUI 智能体会话运行时调暗物理显示器并屏蔽物理输入。

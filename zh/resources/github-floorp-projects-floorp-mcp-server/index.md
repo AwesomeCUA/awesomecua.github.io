@@ -1,3 +1,11 @@
+---
+title: "Floorp MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-floorp-projects-floorp-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Floorp MCP Server
 
 一个 MCP 服务器，让 AI 助手通过标签页控制、导航、点击和填写表单来读取网页并操作 Floorp 浏览器。

@@ -1,3 +1,11 @@
+---
+title: "Airbrowser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ifokeev-airbrowser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Airbrowser MCP
 
 Airbrowser 将不可检测的 Chrome 浏览器、REST API、MCP 服务器和实时 VNC 视图封装在 Docker 容器中，供 AI 网页智能体使用。

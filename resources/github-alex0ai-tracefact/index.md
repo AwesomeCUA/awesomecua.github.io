@@ -1,3 +1,11 @@
+---
+title: "TraceFact | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alex0ai-tracefact/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TraceFact
 
 Evidence-first reliability reporting and deterministic replay framework for coding and browser agents.

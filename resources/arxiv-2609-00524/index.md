@@ -1,3 +1,11 @@
+---
+title: "Are We There Yet? Assessing Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-00524/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications
 
 A diary study deploys the screen-reader-accessible OLLA computer-use prototype with blind users across desktop applications. Recorded commands and interaction traces support model comparisons and analysis of grounding, planning, constraint tracking and termination failures.
@@ -26,6 +34,18 @@ Satwik Ram Kodandaram, Monalika Padma Reddy, Xiaojun Bi, Jiawei Zhou, I. V. Rama
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-00524/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-00524/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_00524,
+  title = {{Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications}},
+  author = {{Satwik Ram Kodandaram} and {Monalika Padma Reddy} and {Xiaojun Bi} and {Jiawei Zhou} and {I. V. Ramakrishnan} and {Vikas Ashok}},
+  year = {2026},
+  eprint = {2609.00524v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.00524v1},
+  note = {First published: 2026-09-01; Recorded arXiv version: v1; Recorded version updated: 2026-09-01T00:44:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

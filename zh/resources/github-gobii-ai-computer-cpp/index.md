@@ -1,3 +1,11 @@
+---
+title: "computer.cpp · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gobii-ai-computer-cpp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # computer.cpp
 
 computer.cpp 将原生桌面 GUI 应用转变为供 AI 智能体通过 API 调用的结构化界面。

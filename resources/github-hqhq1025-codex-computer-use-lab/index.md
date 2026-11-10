@@ -1,3 +1,11 @@
+---
+title: "Codex Computer Use Lab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex Computer Use Lab
 
 Documents and reproduces the macOS Computer Use architecture, SkyLight window capture, and Accessibility action dispatch in the Codex desktop app.

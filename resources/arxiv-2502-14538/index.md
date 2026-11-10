@@ -1,3 +1,11 @@
+---
+title: "LoRA-MGPO: Mitigating Double Descent in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-14538/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LoRA-MGPO: Mitigating Double Descent in Low-Rank Adaptation via Momentum-Guided Perturbation Optimization
 
 Status: excluded from the active CUA catalog after scope review.

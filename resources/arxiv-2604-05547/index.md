@@ -1,3 +1,11 @@
+---
+title: "COSMO-Agent: Tool-Augmented Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-05547/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # COSMO-Agent: Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration
 
 Bibliographic record for COSMO-Agent: Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Liyuan Deng, Shujian Deng, Yongkang Chen, Yongkang Dai, Zhihang Zhong, Linyang L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-05547/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-05547/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_05547,
+  title = {{COSMO-Agent: Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration}},
+  author = {{Liyuan Deng} and {Shujian Deng} and {Yongkang Chen} and {Yongkang Dai} and {Zhihang Zhong} and {Linyang Li} and {Xiao Sun} and {Yilei Shi} and {Huaxi Huang}},
+  year = {2026},
+  eprint = {2604.05547v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.05547v1},
+  note = {First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T07:45:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

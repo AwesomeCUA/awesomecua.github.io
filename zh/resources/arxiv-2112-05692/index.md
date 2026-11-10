@@ -1,3 +1,11 @@
+---
+title: "VUT: Versatile UI Transformer for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2112-05692/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling
 
 Versatile UI Transformer 联合建模界面截图、结构和语言，处理 5 项 UI 任务。其编码器可在缺少结构元数据时检测元素，自回归组件则处理 UI 问答和命令定位。
@@ -27,6 +35,18 @@ Yang Li, Gang Li, Xin Zhou, Mostafa Dehghani, Alexey Gritsenko
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2112-05692/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2112-05692/citation.csl.json
+
+```bibtex
+@misc{arxiv_2112_05692,
+  title = {{VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling}},
+  author = {{Yang Li} and {Gang Li} and {Xin Zhou} and {Mostafa Dehghani} and {Alexey Gritsenko}},
+  year = {2021},
+  eprint = {2112.05692v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2112.05692v1},
+  note = {First published: 2021-12-10; Recorded arXiv version: v1; Recorded version updated: 2021-12-10T17:37:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

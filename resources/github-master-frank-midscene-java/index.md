@@ -1,3 +1,11 @@
+---
+title: "Midscene Java (github.com/Master-Frank/midscen… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-master-frank-midscene-java/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Midscene Java
 
 Midscene Java is a framework for natural-language UI automation across web pages and Android apps, with modules for element location, actions, extraction and assertions.

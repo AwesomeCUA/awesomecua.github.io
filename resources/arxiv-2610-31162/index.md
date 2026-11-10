@@ -1,3 +1,11 @@
+---
+title: "HiSTEVE 1.0: Harnessing Human-Interface VLA… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31162/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games
 
 HiSTEVE uses a hierarchical planner and a vision-only keyboard-and-mouse controller for Minecraft tasks that include GUI and non-GUI interactions.
@@ -26,6 +34,18 @@ Zecong Tang, Zian Guan, Yuncheng Guo, Zhanqiu Zhang, Yiwen Guo, Bo Dai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31162/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31162/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31162,
+  title = {{HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games}},
+  author = {{Zecong Tang} and {Zian Guan} and {Yuncheng Guo} and {Zhanqiu Zhang} and {Yiwen Guo} and {Bo Dai}},
+  year = {2026},
+  eprint = {2610.31162v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31162v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T12:17:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

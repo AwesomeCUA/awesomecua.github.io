@@ -1,3 +1,11 @@
+---
+title: "Magma-AITW-SoM | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ffe40334f1050b94f8b2/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Magma-AITW-SoM
 
 Magma-AITW-SoM supplies AITW data used to fine-tune the Magma multimodal agent model for downstream tasks.

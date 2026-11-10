@@ -1,3 +1,11 @@
+---
+title: "ocaml-cdp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahrefs-ocaml-cdp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ocaml-cdp
 
 Typed OCaml client library for the Chrome DevTools Protocol with an asynchronous Lwt driver by Ahrefs.

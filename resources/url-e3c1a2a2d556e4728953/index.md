@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # Dreamer-7B
 
 WebDreamer model checkpoint that predicts the consequences of web actions from screenshots and textual descriptions.

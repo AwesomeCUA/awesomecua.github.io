@@ -1,3 +1,11 @@
+---
+title: "Aries AI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zg0704666-aries-ai/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Aries AI
 
 Aries AI 是一款 Android 智能体，使用语言模型理解屏幕、规划自然语言任务，并通过无障碍服务或虚拟屏输入操作应用。

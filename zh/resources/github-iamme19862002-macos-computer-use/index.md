@@ -1,3 +1,11 @@
+---
+title: "macos-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-iamme19862002-macos-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # macos-computer-use
 
 macos-computer-use 是原生 Swift CLI 工具包，提供 68+ 条命令，用于 macOS 窗口管理、UI 元素定位、OCR 和输入。

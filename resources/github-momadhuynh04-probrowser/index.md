@@ -1,3 +1,11 @@
+---
+title: "ProBrowser MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-momadhuynh04-probrowser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ProBrowser MCP Server
 
 Anti-detection real-browser automation Model Context Protocol server for AI agents.

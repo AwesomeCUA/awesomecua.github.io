@@ -1,3 +1,11 @@
+---
+title: "agent-desktop · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lahfir-agent-desktop/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-desktop
 
 agent-desktop 是 Rust CLI，将跨平台操作系统无障碍树和原生 UI 动作以简洁的 JSON 形式提供给 AI 智能体。

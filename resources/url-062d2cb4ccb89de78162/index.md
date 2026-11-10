@@ -1,3 +1,11 @@
+---
+title: "Meta-Llama-3.1-8B-Instruct-value-model-16k-qlo… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-062d2cb4ccb89de78162/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2
 
 QLoRA adapter for Llama-3.1-8B-Instruct that acts as the value model of the WMA web agent, rating world-model predictions of each candidate action's outcome so the agent can choose the top-scored one.

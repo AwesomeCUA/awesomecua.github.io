@@ -1,3 +1,11 @@
+---
+title: "Study And Implementation of Unitary Gates in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-17035/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Study And Implementation of Unitary Gates in Quantum Computation Using Schrodinger Dynamics
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "EnvOS: Auditing Computer-Use Agents When… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-40246/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation
 
 提出 EnvOS，用于构建和审计变化中的计算机使用环境，检查任务变更、任务可解性、评分和运行证据。
@@ -27,6 +35,18 @@ Ankush Kadu, Athira Gopal, Niharika Singh, Arpit Jain, Aswanth Krishnan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-40246/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-40246/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40246,
+  title = {{EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation}},
+  author = {{Ankush Kadu} and {Athira Gopal} and {Niharika Singh} and {Arpit Jain} and {Aswanth Krishnan}},
+  year = {2026},
+  eprint = {2610.40246v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40246v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T15:17:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

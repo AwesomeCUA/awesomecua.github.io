@@ -1,3 +1,11 @@
+---
+title: "Teach it to stop, not just to click · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-17136/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Teach it to stop, not just to click
 
 研究 35B 计算机使用智能体在五个环境中的验证器引导修复，分析不同运行和数据抽样下，完成检测、GUI 点击与字段输入的结果差异。
@@ -27,6 +35,18 @@ Barada Sahu, Shivesh Pandey
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-17136/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-17136/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_17136,
+  title = {{Teach it to stop, not just to click}},
+  author = {{Barada Sahu} and {Shivesh Pandey}},
+  year = {2026},
+  eprint = {2607.17136v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.17136v1},
+  note = {First published: 2026-07-19; Recorded arXiv version: v1; Recorded version updated: 2026-07-19T08:46:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

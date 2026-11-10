@@ -1,3 +1,11 @@
+---
+title: "WebRetriever (huggingface.co/datasets/M… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e96228937fdb3bc51531/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WebRetriever
 
 这是一个网页智能体基准，包含导航、文档引导导航和端到端信息提取三种评测协议，涵盖 1,550 项任务。

@@ -1,3 +1,11 @@
+---
+title: "Benchmarking and Improving GUI Agents in… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-25380/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Benchmarking and Improving GUI Agents in High-Dynamic Environments
 
 DynamicGUIBench 面向操作间界面会变化的应用；配套智能体 DynamicUI 处理录屏，挑选信息量大的帧、过滤不一致的操作推理，并通过轨迹反思指导后续决策。
@@ -27,6 +35,18 @@ Enqi Liu, Liyuan Pan, Zhi Gao, Yan Yang, Chenrui Shi, Yang Liu, Jingrong Wu, Qin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-25380/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-25380/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_25380,
+  title = {{Benchmarking and Improving GUI Agents in High-Dynamic Environments}},
+  author = {{Enqi Liu} and {Liyuan Pan} and {Zhi Gao} and {Yan Yang} and {Chenrui Shi} and {Yang Liu} and {Jingrong Wu} and {Qing Li}},
+  year = {2026},
+  eprint = {2604.25380v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.25380v2},
+  note = {First published: 2026-04-28; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T04:29:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "mimic (Kernel-Level uinput Driver) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-juicerq-mimic/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mimic (Kernel-Level uinput Driver)
 
 通过 Linux 内核级 `/dev/uinput` 和类人的输入轨迹，控制鼠标、键盘及屏幕。

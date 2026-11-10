@@ -1,3 +1,11 @@
+---
+title: "Quantum Reservoir Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-09577/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Quantum Reservoir Computing Using Bose-Einstein Condensate with Damping
 
 Status: excluded from the active CUA catalog after scope review.

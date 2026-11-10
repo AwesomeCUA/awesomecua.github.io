@@ -1,3 +1,11 @@
+---
+title: "GUIDE: Resolving Domain Bias in GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-26266/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation
 
 GUIDE retrieves relevant software tutorials through subtitle-based video search, then infers planning and grounding knowledge from consecutive annotated keyframes. It inserts that knowledge into existing GUI-agent modules without parameter updates and evaluates the plug-in on OSWorld.
@@ -26,6 +34,18 @@ Rui Xie, Zhi Gao, Chenrui Shi, Zirui Shang, Lu Chen, Qing Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-26266/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-26266/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_26266,
+  title = {{GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation}},
+  author = {{Rui Xie} and {Zhi Gao} and {Chenrui Shi} and {Zirui Shang} and {Lu Chen} and {Qing Li}},
+  year = {2026},
+  eprint = {2603.26266v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.26266v3},
+  note = {First published: 2026-03-27; Recorded arXiv version: v3; Recorded version updated: 2026-06-30T04:47:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "TriAxialKV: Toward Extreme Low-Precision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-17170/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks
 
 TriAxialKV assigns KV-cache precision by token recency, modality, and role for agentic inference, with a computer-use agent on OSWorld among its evaluations.
@@ -26,6 +34,18 @@ Hanzhang Shen, Haoran Wu, Yiren Zhao, Robert Mullins
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-17170/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-17170/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_17170,
+  title = {{TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks}},
+  author = {{Hanzhang Shen} and {Haoran Wu} and {Yiren Zhao} and {Robert Mullins}},
+  year = {2026},
+  eprint = {2605.17170v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.17170v1},
+  note = {First published: 2026-05-16; Recorded arXiv version: v1; Recorded version updated: 2026-05-16T21:58:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

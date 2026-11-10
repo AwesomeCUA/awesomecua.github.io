@@ -1,3 +1,11 @@
+---
+title: "Fuji-Web (github.com/normal-computing-oss/fuji… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Fuji-Web
 
 Chrome side-panel extension agent that completes a typed task on websites, choosing click, type, scroll and navigate actions from uid-annotated screenshots or a simplified DOM with OpenAI, Anthropic or Gemini models.

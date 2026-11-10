@@ -1,3 +1,11 @@
+---
+title: "GUI-360$^\\circ$: A Comprehensive Dataset… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-04307/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # GUI-360$^\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents
 
 收集带有截图和操作记录的 Windows 应用轨迹，用于定位、屏幕解析和操作预测。
@@ -27,6 +35,18 @@ Jian Mu, Chaoyun Zhang, Chiming Ni, Lu Wang, Bo Qiao, Kartik Mathur, Qianhui Wu,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-04307/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-04307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_04307,
+  title = {{GUI-360\$\textasciicircum{}\textbackslash{}circ\$: A Comprehensive Dataset and Benchmark for Computer-Using Agents}},
+  author = {{Jian Mu} and {Chaoyun Zhang} and {Chiming Ni} and {Lu Wang} and {Bo Qiao} and {Kartik Mathur} and {Qianhui Wu} and {Yuhang Xie} and {Xiaojun Ma} and {Mengyu Zhou} and {Si Qin} and {Liqun Li} and {Yu Kang} and {Minghua Ma} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang}},
+  year = {2025},
+  eprint = {2511.04307v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.04307v2},
+  note = {First published: 2025-11-06; Recorded arXiv version: v2; Recorded version updated: 2025-11-10T12:27:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

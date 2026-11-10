@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体模型（第 2 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/model/page/2/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体模型：第 2 页
 
 HTML 页面：https://awesomecua.com/zh/categories/model/page/2/ · [English](https://awesomecua.com/categories/model/page/2/index.md)

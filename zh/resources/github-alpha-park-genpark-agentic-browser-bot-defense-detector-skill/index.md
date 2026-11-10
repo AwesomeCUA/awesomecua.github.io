@@ -1,3 +1,11 @@
+---
+title: "GenPark Browser Bot-Defense Detector Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alpha-park-genpark-agentic-browser-bot-defense-detector-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GenPark Browser Bot-Defense Detector Skill
 
 智能体技能，用于在 Playwright 和 Browser-Use 运行期间检测 Cloudflare 验证、CAPTCHA 和反机器人访问限制。

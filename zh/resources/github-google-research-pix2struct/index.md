@@ -1,3 +1,11 @@
+---
+title: "Pix2Struct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-pix2struct/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # Pix2Struct
 
 Pix2Struct 提供官方训练和推理代码，用于跨网页和移动端 UI 任务的截图解析视觉语言预训练。

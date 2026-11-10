@@ -1,3 +1,11 @@
+---
+title: "Learning from Failure: Inference-Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-31270/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents
 
 Uses failed computer-use trajectories to diagnose failure modes and generate inference-time agent code patches, with light human verification. An OSWorld study evaluates this failure-driven improvement loop without additional model training.
@@ -26,6 +34,18 @@ Xueqiao Sun, Xiaohan Wang, Ludwig Schmidt, Serena Yeung-Levy, Yuhui Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-31270/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-31270/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_31270,
+  title = {{Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents}},
+  author = {{Xueqiao Sun} and {Xiaohan Wang} and {Ludwig Schmidt} and {Serena Yeung-Levy} and {Yuhui Zhang}},
+  year = {2026},
+  eprint = {2606.31270v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.31270v1},
+  note = {First published: 2026-06-30; Recorded arXiv version: v1; Recorded version updated: 2026-06-30T07:44:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

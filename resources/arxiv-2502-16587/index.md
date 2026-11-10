@@ -1,3 +1,11 @@
+---
+title: "Human2Robot: Learning Robot Actions from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-16587/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Human2Robot: Learning Robot Actions from Paired Human-Robot Videos
 
 Status: excluded from the active CUA catalog after scope review.

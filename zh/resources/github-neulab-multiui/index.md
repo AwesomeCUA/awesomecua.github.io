@@ -1,3 +1,11 @@
+---
+title: "MultiUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-neulab-multiui/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # MultiUI
 
 基于网页 UI 构建的 7.3 百万个训练样本，以增强的无障碍树组织，用于理解文本丰富的视觉内容；与 UIX-Qwen2 模型一同发布。

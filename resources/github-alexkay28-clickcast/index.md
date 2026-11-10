@@ -1,3 +1,11 @@
+---
+title: "clickcast | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alexkay28-clickcast/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # clickcast
 
 Playwright browser automation, screenshot, and GIF/MP4/WebP session-recording toolkit and MCP server for AI agents.

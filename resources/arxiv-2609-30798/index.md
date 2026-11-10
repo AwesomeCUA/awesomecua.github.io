@@ -1,3 +1,11 @@
+---
+title: "Evaluating Real-Time Voice Agents: From… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-30798/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Evaluating Real-Time Voice Agents: From Component Quality to Grounded Outcomes
 
 Status: excluded from the active CUA catalog after scope review.

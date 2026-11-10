@@ -1,3 +1,11 @@
+---
+title: "Open CaptchaWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-metaagentx-opencaptchaworld/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Open CaptchaWorld
 
 Open CaptchaWorld 通过网页界面中的交互式验证码谜题评估多模态网页智能体，提供谜题数据、答案检查和结果记录。

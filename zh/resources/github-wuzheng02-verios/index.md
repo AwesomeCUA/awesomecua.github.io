@@ -1,3 +1,11 @@
+---
+title: "VeriOS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wuzheng02-verios/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # VeriOS
 
 用于人与 GUI 智能体主动验证的研究代码，包括离线交互循环、双智能体评估脚本及 LLaMA-Factory 微调配置。

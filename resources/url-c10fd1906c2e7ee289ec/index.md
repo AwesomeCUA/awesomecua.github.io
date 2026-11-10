@@ -1,3 +1,11 @@
+---
+title: "FiftyOne GUI Grounding Training Set with… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # FiftyOne GUI Grounding Training Set with Synthetic Augmentation
 
 4,036 GUI screenshots, mostly macOS browser views, with interaction keypoints and task descriptions: 739 manually annotated originals plus 3,297 color-vision and reworded-task variants made with a FiftyOne plugin.

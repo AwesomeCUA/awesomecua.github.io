@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent research papers | AwesomeCUA"
+url: https://awesomecua.com/categories/paper/
+updated: 2026-11-09
+type: category
+lang: en
+---
+
 # Computer-use agent research papers
 
 > 1,681 reviewed papers and 37 surveys, listed newest publication first across the research-library pages below. Snapshot 2026-11-10T08:20:17Z.

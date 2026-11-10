@@ -1,3 +1,11 @@
+---
+title: "Reward Design with Language Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-00001/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reward Design with Language Models
 
 Status: excluded from the active CUA catalog after scope review.

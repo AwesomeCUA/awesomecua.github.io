@@ -1,10 +1,17 @@
+---
+title: "Automation — computer-use research, page 9 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/9/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 9
 
 HTML page: https://awesomecua.com/topics/automation/page/9/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Chrome Live MCP](https://awesomecua.com/resources/github-wankaiyi-chrome-live-mcp/)
 - [Chrome MCP Server](https://awesomecua.com/resources/github-hangwin-mcp-chrome/)
 - [Chrome MCP Server (18 Tools)](https://awesomecua.com/resources/github-syedazharmbnr1-chrome-mcp-server/)
 - [chrome-agent](https://awesomecua.com/resources/github-captivus-chrome-agent/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Coddy](https://awesomecua.com/resources/github-coddy-project-coddy-agent/)
 - [CodeceptJS](https://awesomecua.com/resources/github-codeceptjs-codeceptjs/)
 - [Codex Chrome Browser Control Skill](https://awesomecua.com/resources/github-qlk-x-codex-chrome-browser-control/)
+- [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/)

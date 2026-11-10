@@ -1,3 +1,11 @@
+---
+title: "SCUBA (Salesforce Computer Use… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-salesforceairesearch-scuba/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # SCUBA (Salesforce Computer Use Benchmark)
 
 SCUBA 在企业 Salesforce CRM 工作流上评测计算机使用智能体，涵盖管理员配置、销售运营和服务任务。

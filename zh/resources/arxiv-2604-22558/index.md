@@ -1,3 +1,11 @@
+---
+title: "SOLAR-RL: Semi-Online Long-horizon… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-22558/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning
 
 SOLAR-RL 从静态数据重建候选执行轨迹，并依据轨迹质量分配逐步奖励，用于训练 GUI 导航智能体。
@@ -27,6 +35,18 @@ Jichao Wang, Liuyang Bian, Yufeng Zhou, Han Xiao, Yue Pan, Guozhi Wang, Hao Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-22558/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-22558/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_22558,
+  title = {{SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning}},
+  author = {{Jichao Wang} and {Liuyang Bian} and {Yufeng Zhou} and {Han Xiao} and {Yue Pan} and {Guozhi Wang} and {Hao Wang} and {Zhaoxiong Wang} and {Yafei Wen} and {Xiaoxin Chen} and {Shuai Ren} and {Lingfang Zeng}},
+  year = {2026},
+  eprint = {2604.22558v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.22558v1},
+  note = {First published: 2026-04-24; Recorded arXiv version: v1; Recorded version updated: 2026-04-24T13:53:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

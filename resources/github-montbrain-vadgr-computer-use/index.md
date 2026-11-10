@@ -1,3 +1,11 @@
+---
+title: "vadgr-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # vadgr-computer-use
 
 Three-tier computer-use MCP server combining system shell tools, OS accessibility trees (UIA/AT-SPI/AX), and vision fallback.

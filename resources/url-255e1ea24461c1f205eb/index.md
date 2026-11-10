@@ -1,3 +1,11 @@
+---
+title: "Webfuse | AwesomeCUA"
+url: https://awesomecua.com/resources/url-255e1ea24461c1f205eb/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Webfuse
 
 Web augmentation proxy that serves a site inside the user's browser and lets AI agents read DOM, screenshot or accessibility-tree snapshots and click, type or scroll through an automation API and a session MCP server.

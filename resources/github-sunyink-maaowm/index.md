@@ -1,3 +1,11 @@
+---
+title: "MaaOWM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sunyink-maaowm/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaOWM
 
 A Python workspace manager for MaaFramework projects with several adaptation packs: mounting merges base and mod pipelines into an editable workspace, and unmounting diffs it back to a minimal mod.

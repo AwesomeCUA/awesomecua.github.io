@@ -1,3 +1,11 @@
+---
+title: "Large Language Models for Information… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-07107/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Large Language Models for Information Retrieval: A Survey
 
 Bibliographic record for Large Language Models for Information Retrieval: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yutao Zhu, Huaying Yuan, Shuting Wang, Jiongnan Liu, Wenhan Liu, Chenlong Deng, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-07107/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-07107/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_07107,
+  title = {{Large Language Models for Information Retrieval: A Survey}},
+  author = {{Yutao Zhu} and {Huaying Yuan} and {Shuting Wang} and {Jiongnan Liu} and {Wenhan Liu} and {Chenlong Deng} and {Haonan Chen} and {Zheng Liu} and {Zhicheng Dou} and {Ji-Rong Wen}},
+  year = {2023},
+  eprint = {2308.07107v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.07107v5},
+  note = {First published: 2023-08-14; Recorded arXiv version: v5; Recorded version updated: 2025-09-17T07:52:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

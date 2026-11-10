@@ -1,3 +1,11 @@
+---
+title: "HuGe: Scaling Humanoid Generalist… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34186/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience
 
 Bibliographic record for HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yang Liu, Jiacheng Liu, Hengtao Li, Yuheng Huang, Zijian Yang, Ji Dai, Maoxin Wa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34186/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34186/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34186,
+  title = {{HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience}},
+  author = {{Yang Liu} and {Jiacheng Liu} and {Hengtao Li} and {Yuheng Huang} and {Zijian Yang} and {Ji Dai} and {Maoxin Wang} and {Yi Gao} and {Qishen Wang} and {Baohua Yin} and {Peiyang Li} and {Shuanghao Bai} and {Mingyang Sun} and {Pengxiang Ding} and {Jianqin Yin} and {Lixin Yang} and {Donglin Wang}},
+  year = {2026},
+  eprint = {2610.34186v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34186v1},
+  note = {First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T09:46:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

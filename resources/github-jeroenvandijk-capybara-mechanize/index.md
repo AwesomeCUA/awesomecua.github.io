@@ -1,3 +1,11 @@
+---
+title: "Capybara-mechanize | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeroenvandijk-capybara-mechanize/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Capybara-mechanize
 
 A Capybara driver that uses Mechanize for remote web requests, enabling tests to visit and interact with external applications.

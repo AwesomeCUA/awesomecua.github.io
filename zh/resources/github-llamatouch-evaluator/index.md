@@ -1,3 +1,11 @@
+---
+title: "LlamaTouch Evaluator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-llamatouch-evaluator/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # LlamaTouch Evaluator
 
 LlamaTouch Evaluator 根据标注的界面状态检查移动端智能体执行轨迹，并提供动作序列完全匹配及子序列匹配基线。

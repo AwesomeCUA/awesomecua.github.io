@@ -1,3 +1,11 @@
+---
+title: "Surf New · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-steel-dev-surf-new/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Surf New
 
 Steel 提供的 Next.js 和 FastAPI 试验平台，用于在受控浏览器环境中试用网页智能体，可实时查看浏览器交互，并支持 Claude、GPT-4 等模型提供方。

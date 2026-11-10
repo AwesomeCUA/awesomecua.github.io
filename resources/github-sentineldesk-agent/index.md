@@ -1,3 +1,11 @@
+---
+title: "sentineldesk-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sentineldesk-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # sentineldesk-agent
 
 sentineldesk-agent operates a Linux desktop through MCP tools, offering terminal and browser chat interfaces while logging goals, actions and results.

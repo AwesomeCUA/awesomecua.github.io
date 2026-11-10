@@ -1,3 +1,11 @@
+---
+title: "OSWorld Qwen2.5-VL Enhanced · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OSWorld Qwen2.5-VL Enhanced
 
 为 OSWorld 提供兼容 OpenAI 的 Qwen2.5-VL 计算机使用智能体和多环境评测运行器。

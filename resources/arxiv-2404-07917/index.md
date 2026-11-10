@@ -1,3 +1,11 @@
+---
+title: "DesignQA: A Multimodal Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-07917/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation
 
 Bibliographic record for DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Anna C. Doris, Daniele Grandi, Ryan Tomich, Md Ferdous Alam, Mohammadmehdi Ataei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-07917/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-07917/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_07917,
+  title = {{DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation}},
+  author = {{Anna C. Doris} and {Daniele Grandi} and {Ryan Tomich} and {Md Ferdous Alam} and {Mohammadmehdi Ataei} and {Hyunmin Cheong} and {Faez Ahmed}},
+  year = {2024},
+  eprint = {2404.07917v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.07917v2},
+  note = {First published: 2024-04-11; Recorded arXiv version: v2; Recorded version updated: 2024-08-23T17:19:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "VRL-Bench: Benchmarking agents on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-12404/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets
 
 提出 VRL-Bench，比较计算机操作智能体在有限尝试次数下的试错学习；VEX² 用于安排探索与利用。
@@ -27,6 +35,18 @@ Yu Bai, Yukai Miao, Dawei Wang, Li Chen, Yanyu Ren, Yuqian Shi, Dan Li, Ying Xio
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-12404/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-12404/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_12404,
+  title = {{VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets}},
+  author = {{Yu Bai} and {Yukai Miao} and {Dawei Wang} and {Li Chen} and {Yanyu Ren} and {Yuqian Shi} and {Dan Li} and {Ying Xiong} and {Chengqiu Tan} and {Run Zhou} and {Li Li}},
+  year = {2026},
+  eprint = {2609.12404v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.12404v1},
+  note = {First published: 2026-09-11; Recorded arXiv version: v1; Recorded version updated: 2026-09-11T03:54:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

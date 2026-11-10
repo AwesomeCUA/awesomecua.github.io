@@ -1,3 +1,11 @@
+---
+title: "Game AI - Balatro · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-proj-airi-game-playing-ai-balatro/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Game AI - Balatro
 
 Game AI - Balatro 结合纸牌和界面控件检测模型，以及在 Balatro 桌面游戏中自动操作的代码。

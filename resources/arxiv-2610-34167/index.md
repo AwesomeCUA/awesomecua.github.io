@@ -1,3 +1,11 @@
+---
+title: "Task Success Is Not Enough: Side-effect-Aware… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34167/
+updated: 2026-10-27
+type: paper
+lang: en
+---
+
 # Task Success Is Not Enough: Side-effect-Aware Evaluation of Tool-Using Language Model Agents
 
 Bibliographic record for Task Success Is Not Enough: Side-effect-Aware Evaluation of Tool-Using Language Model Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jiaju Huang, Shaobin Chen, Xinglong Liang, Xinyu Ma, Hao Yang, Wei Ke, Tao Tan, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34167/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34167/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34167,
+  title = {{Task Success Is Not Enough: Side-effect-Aware Evaluation of Tool-Using Language Model Agents}},
+  author = {{Jiaju Huang} and {Shaobin Chen} and {Xinglong Liang} and {Xinyu Ma} and {Hao Yang} and {Wei Ke} and {Tao Tan} and {Yue Sun}},
+  year = {2026},
+  eprint = {2610.34167v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34167v1},
+  note = {First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T08:54:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

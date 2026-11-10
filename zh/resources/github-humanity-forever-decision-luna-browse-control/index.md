@@ -1,3 +1,11 @@
+---
+title: "decision-luna-browse-control · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-humanity-forever-decision-luna-browse-control/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # decision-luna-browse-control
 
 评测带类型的 System-One 决策模型（Luna Decisions 和 Jev）在合成网页应用中驱动真实 Chromium 浏览器工作流的表现。

@@ -1,3 +1,11 @@
+---
+title: "GUIGuard-Bench public-ladder release | AwesomeCUA"
+url: https://awesomecua.com/resources/url-61860953a680776ffe53/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # GUIGuard-Bench public-ladder release
 
 Public-ladder release of GUIGuard-Bench: 121 Android and Linux desktop agent trajectories whose 2,002 screenshots carry region-level privacy labels, for privacy recognition, protected-screen planning and click grounding.

@@ -1,3 +1,11 @@
+---
+title: "AI GameStore | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lance-ying-aigamestore/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # AI GameStore
 
 A benchmark of 100 games adapted from App Store and Steam charts into web-playable versions, with a Playwright harness that sends game screenshots to vision-language models and executes their key presses.

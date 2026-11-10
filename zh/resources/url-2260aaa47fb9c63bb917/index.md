@@ -1,3 +1,11 @@
+---
+title: "ShowUI-web-8K · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2260aaa47fb9c63bb917/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # ShowUI-web-8K
 
 ShowUI-web 的一个 8K 样本子集，包含来自不同网站的截图，用于训练网页界面的 GUI 定位模型。

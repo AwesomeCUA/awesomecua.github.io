@@ -1,3 +1,11 @@
+---
+title: "Solari Cookbook | AwesomeCUA"
+url: https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Solari Cookbook
 
 Solari Cookbook collects runnable examples for cloud browsers, sandboxes, and desktops, including browser session recording and screenshot, click, and typing operations on a Linux GUI.

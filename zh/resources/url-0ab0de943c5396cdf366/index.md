@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-3B-Instruct-AWQ · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0ab0de943c5396cdf366/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2.5-VL-3B-Instruct-AWQ
 
 Qwen2.5-VL-3B-Instruct-AWQ 是视觉语言模型的 AWQ 权重；其模型卡描述了借助工具操作电脑和手机以及视觉定位的能力。

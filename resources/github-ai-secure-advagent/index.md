@@ -1,3 +1,11 @@
+---
+title: "AdvAgent (formerly AdvWeb) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-secure-advagent/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # AdvAgent (formerly AdvWeb)
 
 Research code for constructing and evaluating adversarial inputs to web agents, with a black-box red-team pipeline using Mind2Web data and SeeAct.

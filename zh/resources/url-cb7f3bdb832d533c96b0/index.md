@@ -1,3 +1,11 @@
+---
+title: "SWE-bench Multimodal · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cb7f3bdb832d533c96b0/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # SWE-bench Multimodal
 
 针对视觉 JavaScript 和 TypeScript 软件的问题解决基准；每项任务的问题描述或补丁包含截图、设计稿或渲染图，并用仓库单元测试检查修复结果。

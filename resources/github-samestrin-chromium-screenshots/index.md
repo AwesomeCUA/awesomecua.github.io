@@ -1,3 +1,11 @@
+---
+title: "chromium-screenshots | AwesomeCUA"
+url: https://awesomecua.com/resources/github-samestrin-chromium-screenshots/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # chromium-screenshots
 
 Playwright-based MCP server and API that captures zero-drift Chromium screenshots paired with authenticated DOM state for vision agents.

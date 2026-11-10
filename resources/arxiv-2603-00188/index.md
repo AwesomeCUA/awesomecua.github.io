@@ -1,3 +1,11 @@
+---
+title: "ST-Lite: Training-Free KV Cache Compression… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-00188/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ST-Lite: Training-Free KV Cache Compression with Spatio-Trajectory Guidance for Long-Horizon GUI Agents
 
 Introduces ST-Lite, a training-free KV cache compression scheme for vision-language GUI agents that filters redundant frames and preserves small UI elements in interaction traces.
@@ -26,6 +34,18 @@ Bowen Zhou, Zhou Xu, Wanli Li, Jingyu Xiao, Pingan Gan, Haoqian Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-00188/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-00188/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_00188,
+  title = {{ST-Lite: Training-Free KV Cache Compression with Spatio-Trajectory Guidance for Long-Horizon GUI Agents}},
+  author = {{Bowen Zhou} and {Zhou Xu} and {Wanli Li} and {Jingyu Xiao} and {Pingan Gan} and {Haoqian Wang}},
+  year = {2026},
+  eprint = {2603.00188v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.00188v3},
+  note = {First published: 2026-02-27; Recorded arXiv version: v3; Recorded version updated: 2026-08-26T08:42:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "R-Judge: Benchmarking Safety Risk Awareness… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-10019/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # R-Judge: Benchmarking Safety Risk Awareness for LLM Agents
 
 Bibliographic record for R-Judge: Benchmarking Safety Risk Awareness for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tongxin Yuan, Zhiwei He, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Liz
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-10019/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-10019/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_10019,
+  title = {{R-Judge: Benchmarking Safety Risk Awareness for LLM Agents}},
+  author = {{Tongxin Yuan} and {Zhiwei He} and {Lingzhong Dong} and {Yiming Wang} and {Ruijie Zhao} and {Tian Xia} and {Lizhen Xu} and {Binglin Zhou} and {Fangqi Li} and {Zhuosheng Zhang} and {Rui Wang} and {Gongshen Liu}},
+  year = {2024},
+  eprint = {2401.10019v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.10019v3},
+  note = {First published: 2024-01-18; Recorded arXiv version: v3; Recorded version updated: 2024-10-05T06:50:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

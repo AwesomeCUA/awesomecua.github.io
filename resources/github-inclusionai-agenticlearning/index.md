@@ -1,3 +1,11 @@
+---
+title: "AWorld-RL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-inclusionai-agenticlearning/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # AWorld-RL
 
 AWorld-RL collects training projects for agents, including V2P for visual GUI grounding, with codebases, datasets, and checkpoints.

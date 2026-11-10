@@ -1,3 +1,11 @@
+---
+title: "Actell · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ja1chen-actell/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Actell
 
 这款 iPhone 智能体原型读取截图或无障碍内容，并通过 CoreDevice 发出点按和拖动操作，连接方式为 VPN 环回或可选的硬件中继。

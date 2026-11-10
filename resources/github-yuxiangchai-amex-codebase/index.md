@@ -1,3 +1,11 @@
+---
+title: "AMEX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # AMEX
 
 Code for AMEX Android GUI data that converts its three annotation levels into question-answer pairs and fine-tunes a LLaMA2-Accessory model, with a released checkpoint.

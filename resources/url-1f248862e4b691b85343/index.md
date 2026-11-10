@@ -1,3 +1,11 @@
+---
+title: "android_control_test | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1f248862e4b691b85343/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # android_control_test
 
 android_control_test packages a processed Android Control test set for evaluating the InfiGUI-R1 mobile GUI agent.

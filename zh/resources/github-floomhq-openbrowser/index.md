@@ -1,3 +1,11 @@
+---
+title: "Floom OpenBrowser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-floomhq-openbrowser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Floom OpenBrowser
 
 OpenBrowser 是开源浏览器自动化代理服务，为 AI 智能体管理持久化 Chrome 配置文件和支持代理的会话。

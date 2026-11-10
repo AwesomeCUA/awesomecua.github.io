@@ -1,3 +1,11 @@
+---
+title: "Back to Basics: A Skill-Centric Approach to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-35823/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Back to Basics: A Skill-Centric Approach to Generalist Web Agents
 
 Introduces MiniWeb for skill-labeled browser tasks, MiniWebGen for generating training trajectories, and MiniWebAgent for composing learned skills into web workflows.
@@ -26,6 +34,18 @@ Minh Pham-Dinh, Md Farhan Ishmam, Hernan Yupanqui, Reaz Hassan Joarder, Kenneth 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-35823/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-35823/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35823,
+  title = {{Back to Basics: A Skill-Centric Approach to Generalist Web Agents}},
+  author = {{Minh Pham-Dinh} and {Md Farhan Ishmam} and {Hernan Yupanqui} and {Reaz Hassan Joarder} and {Kenneth Marino}},
+  year = {2026},
+  eprint = {2610.35823v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35823v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T17:47:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "finalrun-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-final-run-finalrun-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # finalrun-agent
 
 用于测试 Android 和 iOS 应用的智能体命令行工具。它按 YAML 指令观察屏幕、执行触控与输入操作，并生成含视频和日志的结果报告。

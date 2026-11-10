@@ -1,3 +1,11 @@
+---
+title: "dsh-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaoheizi1212-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-computer-use
 
 面向 DeepSeek Harness、与模型无关的 Computer Use 插件，结合隔离浏览器、原生 Windows UI 辅助工具和动作观察。

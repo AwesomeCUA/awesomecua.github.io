@@ -1,3 +1,11 @@
+---
+title: "GuardAgent: Safeguard LLM Agents by a Guard… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-09187/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning
 
 Introduces GuardAgent, which translates safety requests into executable guardrail code using plans and retrieved demonstrations. Mind2Web-SC supplies a web-agent safety-policy evaluation alongside a separate healthcare access-control benchmark.
@@ -26,6 +34,18 @@ Zhen Xiang, Linzhi Zheng, Yanjie Li, Junyuan Hong, Qinbin Li, Han Xie, Jiawei Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-09187/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-09187/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_09187,
+  title = {{GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning}},
+  author = {{Zhen Xiang} and {Linzhi Zheng} and {Yanjie Li} and {Junyuan Hong} and {Qinbin Li} and {Han Xie} and {Jiawei Zhang} and {Zidi Xiong} and {Chulin Xie} and {Carl Yang} and {Dawn Song} and {Bo Li}},
+  year = {2024},
+  eprint = {2406.09187v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.09187v3},
+  note = {First published: 2024-06-13; Recorded arXiv version: v3; Recorded version updated: 2025-05-29T03:09:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

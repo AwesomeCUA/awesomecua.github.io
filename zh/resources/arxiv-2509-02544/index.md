@@ -1,3 +1,11 @@
+---
+title: "UI-TARS-2 Technical Report: Advancing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-02544/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning
 
 UI-TARS-2 结合可扩展的轨迹生成、稳定化的多轮强化学习，以及支持 GUI、文件系统和终端操作的沙箱；报告在网页、桌面、Android 和游戏任务上评估智能体，并分析训练稳定性。
@@ -27,6 +35,18 @@ Haoming Wang, Haoyang Zou, Huatong Song, Jiazhan Feng, Junjie Fang, Junting Lu, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-02544/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-02544/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_02544,
+  title = {{UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning}},
+  author = {{Haoming Wang} and {Haoyang Zou} and {Huatong Song} and {Jiazhan Feng} and {Junjie Fang} and {Junting Lu} and {Longxiang Liu} and {Qinyu Luo} and {Shihao Liang} and {Shijue Huang} and {Wanjun Zhong} and {Yining Ye} and {Yujia Qin} and {Yuwen Xiong} and {Yuxin Song} and {Zhiyong Wu} and {Aoyan Li} and {Bo Li} and {Chen Dun} and {Chong Liu} and {Daoguang Zan} and {Fuxing Leng} and {Hanbin Wang} and {Hao Yu} and {Haobin Chen} and {Hongyi Guo} and {Jing Su} and {Jingjia Huang} and {Kai Shen} and {Kaiyu Shi} and {Lin Yan} and {Peiyao Zhao} and {Pengfei Liu} and {Qinghao Ye} and {Renjie Zheng} and {Shulin Xin} and {Wayne Xin Zhao} and {Wen Heng} and {Wenhao Huang} and {Wenqian Wang} and {Xiaobo Qin} and {Yi Lin} and {Youbin Wu} and {Zehui Chen} and {Zihao Wang} and {Baoquan Zhong} and {Xinchun Zhang} and {Xujing Li} and {Yuanfan Li} and {Zhongkai Zhao} and {Chengquan Jiang} and {Faming Wu} and {Haotian Zhou} and {Jinlin Pang} and {Li Han} and {Qi Liu} and {Qianli Ma} and {Siyao Liu} and {Songhua Cai} and {Wenqi Fu} and {Xin Liu} and {Yaohui Wang} and {Zhi Zhang} and {Bo Zhou} and {Guoliang Li} and {Jiajun Shi} and {Jiale Yang} and {Jie Tang} and {Li Li} and {Qihua Han} and {Taoran Lu} and {Woyu Lin} and {Xiaokang Tong} and {Xinyao Li} and {Yichi Zhang} and {Yu Miao} and {Zhengxuan Jiang} and {Zili Li} and {Ziyuan Zhao} and {Chenxin Li} and {Dehua Ma} and {Feng Lin} and {Ge Zhang} and {Haihua Yang} and {Hangyu Guo} and {Hongda Zhu} and {Jiaheng Liu} and {Junda Du} and {Kai Cai} and {Kuanye Li} and {Lichen Yuan} and {Meilan Han} and {Minchao Wang} and {Shuyue Guo} and {Tianhao Cheng} and {Xiaobo Ma} and {Xiaojun Xiao} and {Xiaolong Huang} and {Xinjie Chen} and {Yidi Du} and {Yilin Chen} and {Yiwen Wang} and {Zhaojian Li} and {Zhenzhu Yang} and {Zhiyuan Zeng} and {Chaolin Jin} and {Chen Li} and {Hao Chen} and {Haoli Chen} and {Jian Chen} and {Qinghao Zhao} and {Guang Shi}},
+  year = {2025},
+  eprint = {2509.02544v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.02544v2},
+  note = {First published: 2025-09-02; Recorded arXiv version: v2; Recorded version updated: 2025-09-05T14:59:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

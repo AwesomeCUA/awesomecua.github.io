@@ -1,3 +1,11 @@
+---
+title: "Airbrowser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ifokeev-airbrowser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Airbrowser MCP
 
 Airbrowser packages an undetectable Chrome browser, REST API, MCP server, and live VNC view inside a Docker container for AI web agents.

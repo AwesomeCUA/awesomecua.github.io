@@ -1,3 +1,11 @@
+---
+title: "SnapDOM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zumerlab-snapdom/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SnapDOM
 
 SnapDOM captures rendered browser elements and exports images or structured page context. Its plugins can provide agents with text, JSON and images paired with element maps.

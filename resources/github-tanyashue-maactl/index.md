@@ -1,3 +1,11 @@
+---
+title: "MaaCtl | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tanyashue-maactl/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaCtl
 
 A command-line client for MaaFramework that loads ProjectInterface v2 projects, inspects their controllers, resources and tasks, and runs tasks or pipeline nodes on ADB devices or desktop windows.

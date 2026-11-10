@@ -1,3 +1,11 @@
+---
+title: "macMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-erwinzhang7-macmcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # macMCP
 
 macOS Model Context Protocol 服务器，支持按应用设置权限门控、检查 Accessibility 树、截图和控制 UI。

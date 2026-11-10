@@ -1,3 +1,11 @@
+---
+title: "Veeva Vault Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Veeva Vault Browser Automation
 
 A Veeva Vault browser automation scaffold with documented actions for uploading documents, routing reviews, approving records, and exporting audit trails.

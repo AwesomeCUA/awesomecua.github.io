@@ -1,3 +1,11 @@
+---
+title: "chrome-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leeguooooo-chrome-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # chrome-use
 
 chrome-use is a CLI and extension that let AI agents control tabs in an existing Chrome browser. It uses native messaging and gives separate tab groups to agent sessions.

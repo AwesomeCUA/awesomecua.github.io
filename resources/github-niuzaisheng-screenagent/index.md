@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent (agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-niuzaisheng-screenagent/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # ScreenAgent
 
 Environment and agent in which a vision-language model controls real desktops over VNC with mouse and keyboard in plan, act and reflect stages, plus a hand-annotated dataset of daily computer tasks.

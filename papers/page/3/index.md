@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent papers and surveys, page 3 | AwesomeCUA"
+url: https://awesomecua.com/papers/page/3/
+updated: 2026-11-09
+type: research-library
+lang: en
+---
+
 # Computer-use research library, page 3 of 29
 
 > Reviewed computer-use papers and surveys 121 to 180 of 1,718, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
@@ -36,6 +44,18 @@ Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17457/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17457/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17457,
+  title = {{BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views}},
+  author = {{Yuetian Chen} and {Kaiyuan Zhang} and {Yuntao Du} and {Thomas Li} and {Mark Tenenholtz} and {Kyle Polley} and {Jerry Ma} and {Denis Yarats} and {Ninghui Li}},
+  year = {2026},
+  eprint = {2610.17457v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17457v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T22:17:51Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -89,6 +109,18 @@ Cong Pang, Jiaqi Su, Chengrui Wu, Kuihao Yan, Tianrui Zhang, Zixuan Qiu, Chao Li
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16998/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16998/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_16998,
+  title = {{Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents}},
+  author = {{Cong Pang} and {Jiaqi Su} and {Chengrui Wu} and {Kuihao Yan} and {Tianrui Zhang} and {Zixuan Qiu} and {Chao Lin} and {Zixiu Lin} and {Zixuan Chen} and {Zelin Xiao} and {Tiankuo Yao} and {Jiawei Hong} and {Zixuan Chen} and {Dan Xu} and {Lewei Lu} and {Wenjie Wang} and {Xin Lou}},
+  year = {2026},
+  eprint = {2610.16998v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16998v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T15:48:45Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -140,6 +172,18 @@ Zian Yuan, Wei Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16778/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16778/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16778,
+  title = {{PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents}},
+  author = {{Zian Yuan} and {Wei Li}},
+  year = {2026},
+  eprint = {2610.16778v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16778v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T13:34:52Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -193,6 +237,18 @@ Jiahao Lu, Yize Shen, Chuanyuan Tan, Mianqiu Huang, Shicheng Fang, Xinchi Chen, 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16720/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16720/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_16720,
+  title = {{Learn from Move: the Next Step for GUI Agents}},
+  author = {{Jiahao Lu} and {Yize Shen} and {Chuanyuan Tan} and {Mianqiu Huang} and {Shicheng Fang} and {Xinchi Chen} and {Yining Zheng} and {Yuxin Wang} and {Xipeng Qiu}},
+  year = {2026},
+  eprint = {2610.16720v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16720v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T12:52:21Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -244,6 +300,18 @@ David Nukrai, Bar Alon, Nativ Levy, Ido Andrew Atad, Ido Cohen, Itamar Zimerman,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16402/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16402/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16402,
+  title = {{EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications}},
+  author = {{David Nukrai} and {Bar Alon} and {Nativ Levy} and {Ido Andrew Atad} and {Ido Cohen} and {Itamar Zimerman} and {Lior Wolf} and {Eli David} and {Ilan Naiman}},
+  year = {2026},
+  eprint = {2610.16402v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16402v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T08:42:42Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -297,6 +365,18 @@ Zijian Cai, Haowei Liu, Kailai Chen, Lin Peng, Cong Wan, Ziqi Zhang, Chunfeng Yu
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16319/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16319/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_16319,
+  title = {{HyWe: Unifying Search and Operation for Real-World Hybrid Web Tasks}},
+  author = {{Zijian Cai} and {Haowei Liu} and {Kailai Chen} and {Lin Peng} and {Cong Wan} and {Ziqi Zhang} and {Chunfeng Yuan} and {Bing Li} and {Weiming Hu} and {Haiyang Xu}},
+  year = {2026},
+  eprint = {2610.16319v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16319v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T07:42:11Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -348,6 +428,18 @@ Jingchao Wang, Dingjiang Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16234/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16234/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16234,
+  title = {{Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding}},
+  author = {{Jingchao Wang} and {Dingjiang Huang}},
+  year = {2026},
+  eprint = {2610.16234v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16234v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T06:09:02Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -401,6 +493,18 @@ Alan Wu, Wei Tao, Yiwen Guo
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15765/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15765/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_15765,
+  title = {{A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution}},
+  author = {{Alan Wu} and {Wei Tao} and {Yiwen Guo}},
+  year = {2026},
+  eprint = {2610.15765v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15765v1},
+  note = {First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T16:43:43Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -452,6 +556,18 @@ Jianlin Chen, Wenhui Chen, Chi Man Vong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15738/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15738,
+  title = {{Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops}},
+  author = {{Jianlin Chen} and {Wenhui Chen} and {Chi Man Vong}},
+  year = {2026},
+  eprint = {2610.15738v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15738v1},
+  note = {First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T16:18:11Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -508,6 +624,18 @@ Hyobin Ahn, Dongjae Lee
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15502/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15502/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_15502,
+  title = {{From Observations to Authorized Actions: Measuring Source Information in Android Agents}},
+  author = {{Hyobin Ahn} and {Dongjae Lee}},
+  year = {2026},
+  eprint = {2610.15502v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15502v1},
+  note = {First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T10:09:44Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -559,6 +687,18 @@ Md Imran Hossen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-15138/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-15138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_15138,
+  title = {{The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named}},
+  author = {{Md Imran Hossen}},
+  year = {2026},
+  eprint = {2610.15138v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.15138v1},
+  note = {First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T19:30:31Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -612,6 +752,18 @@ Seungjun Yu, Hojun Choi, Seojeong Park, Jaeyo Shin, Hyunjung Shim
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14228/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14228/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_14228,
+  title = {{Latent World Action Model for GUI Agents}},
+  author = {{Seungjun Yu} and {Hojun Choi} and {Seojeong Park} and {Jaeyo Shin} and {Hyunjung Shim}},
+  year = {2026},
+  eprint = {2610.14228v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14228v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T18:45:11Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -663,6 +815,18 @@ Chenyang Yan, Yingying Zhang, Kanzhi Cheng, Qiushi Sun, Zhengyuan Pan, Zheng Ma,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14157/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14157/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14157,
+  title = {{OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools}},
+  author = {{Chenyang Yan} and {Yingying Zhang} and {Kanzhi Cheng} and {Qiushi Sun} and {Zhengyuan Pan} and {Zheng Ma} and {Hang Yan} and {Yian Wang} and {Nuo Chen} and {Jialin Cao} and {Xingdong Gong} and {Wenpo Song} and {Han Chen} and {Zichen Ding} and {Fangzhi Xu} and {Shujian Huang} and {Xinyu Dai} and {Yichen Liu} and {Tiankuo Yao} and {Bo Wang} and {Ben Kao} and {Jianbing Zhang} and {Lewei Lu} and {Dahua Lin}},
+  year = {2026},
+  eprint = {2610.14157v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14157v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T17:26:38Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -717,6 +881,18 @@ Vagner Figueredo de Santana, Diogo Cortiz
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13703/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13703/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_13703,
+  title = {{A Baseline Assessment for the Agentic Web Technology Stack}},
+  author = {{Vagner Figueredo de Santana} and {Diogo Cortiz}},
+  year = {2026},
+  eprint = {2610.13703v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13703v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T14:59:24Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -768,6 +944,18 @@ Sunghwan Kim, Deogyong Kim, Sangam Lee, Donguk Kwon, Dongha Lee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13416/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13416/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13416,
+  title = {{Web\$hell: A Unified Interface for Agentic Web Access}},
+  author = {{Sunghwan Kim} and {Deogyong Kim} and {Sangam Lee} and {Donguk Kwon} and {Dongha Lee}},
+  year = {2026},
+  eprint = {2610.13416v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13416v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T11:23:40Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -821,6 +1009,18 @@ Ruotian Zhang, Yuhui Zhang, Junzhe Huang, Yu Xin, Hehe Fan, Xiaoxiao Sun
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13268/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13268/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_13268,
+  title = {{ConClick: Element-Wise Contrastive Learning Improves GUI Grounding}},
+  author = {{Ruotian Zhang} and {Yuhui Zhang} and {Junzhe Huang} and {Yu Xin} and {Hehe Fan} and {Xiaoxiao Sun}},
+  year = {2026},
+  eprint = {2610.13268v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13268v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T09:20:02Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -872,6 +1072,18 @@ Yuchen Ling, Shengcheng Yu, Zhenyu Chen, Chunrong Fang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13092/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13092/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13092,
+  title = {{When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows}},
+  author = {{Yuchen Ling} and {Shengcheng Yu} and {Zhenyu Chen} and {Chunrong Fang}},
+  year = {2026},
+  eprint = {2610.13092v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13092v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T06:45:23Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -925,6 +1137,18 @@ Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, C
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12984/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12984/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_12984,
+  title = {{Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction}},
+  author = {{Yuqi Huang} and {Hui Li} and {Yifei Cao} and {Zikun Cai} and {Tianci Xie} and {Yangfan Gao} and {Pinxue Guo} and {Chaoyun Zhang} and {Bingxuan Li} and {Rui Zheng} and {Hang Yan} and {Ning Liao}},
+  year = {2026},
+  eprint = {2610.12984v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12984v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T04:32:02Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -976,6 +1200,18 @@ Shangquan Sun, Ruoyu Chen, Zhirui Liu, Xiang Liu, Chenghao Qian, Wenqi Ren, Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12866/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12866/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12866,
+  title = {{CaptchaAgent: Verifiable Visual Reasoning for CAPTCHA Solving}},
+  author = {{Shangquan Sun} and {Ruoyu Chen} and {Zhirui Liu} and {Xiang Liu} and {Chenghao Qian} and {Wenqi Ren} and {Xiaochun Cao}},
+  year = {2026},
+  eprint = {2610.12866v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12866v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T01:50:26Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1029,6 +1265,18 @@ Yisheng Li, Dongming Han, Hongkun Pan, Bingcheng Mao, Zijian Wang, Yunlong Mao, 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12823/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12823/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_12823,
+  title = {{When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks}},
+  author = {{Yisheng Li} and {Dongming Han} and {Hongkun Pan} and {Bingcheng Mao} and {Zijian Wang} and {Yunlong Mao} and {Wei Tong} and {Sheng Zhong}},
+  year = {2026},
+  eprint = {2610.12823v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12823v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T00:03:13Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1080,6 +1328,18 @@ Tian Jin, Wenhao Wang, Jing Kang, Haoting Shi, Rui Ye, Yijun Lu, Siheng Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12611/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12611/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12611,
+  title = {{SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments}},
+  author = {{Tian Jin} and {Wenhao Wang} and {Jing Kang} and {Haoting Shi} and {Rui Ye} and {Yijun Lu} and {Siheng Chen}},
+  year = {2026},
+  eprint = {2610.12611v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12611v2},
+  note = {First published: 2026-10-08; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T08:40:10Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1133,6 +1393,18 @@ Utku Boran Torun, Veli Karakaya, Eray Tüzün
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11963/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11963/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_11963,
+  title = {{Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes}},
+  author = {{Utku Boran Torun} and {Veli Karakaya} and {Eray Tüzün}},
+  year = {2026},
+  eprint = {2610.11963v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11963v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T13:44:53Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1184,6 +1456,18 @@ Jiaming Zhang, Xuan Wang, Fuyao Zhang, Yang Cao, Lingjuan Lyu, Wei Yang Bryan Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11942/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11942/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11942,
+  title = {{Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents}},
+  author = {{Jiaming Zhang} and {Xuan Wang} and {Fuyao Zhang} and {Yang Cao} and {Lingjuan Lyu} and {Wei Yang Bryan Lim}},
+  year = {2026},
+  eprint = {2610.11942v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11942v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T13:33:23Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1237,6 +1521,18 @@ Yudong Bai, Yihong Chen, Quanming Yao, Yaqing Wang
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11707/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11707/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_11707,
+  title = {{DeltaReplay: Task-Relative Memory Reuse for Mobile GUI Agents}},
+  author = {{Yudong Bai} and {Yihong Chen} and {Quanming Yao} and {Yaqing Wang}},
+  year = {2026},
+  eprint = {2610.11707v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11707v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T11:12:57Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1288,6 +1584,18 @@ Yuan Tian, Bing Hu, Hao Wang, Binghang Lu, Fang Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11655/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11655/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11655,
+  title = {{Harness Evolution Hits a Ceiling: When Weight Training Should Begin}},
+  author = {{Yuan Tian} and {Bing Hu} and {Hao Wang} and {Binghang Lu} and {Fang Wu}},
+  year = {2026},
+  eprint = {2610.11655v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11655v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T10:33:29Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1341,6 +1649,18 @@ Xing Han Lù, Dheeraj Vattikonda, Sina Hajimiri, Fatemeh Pesaran Zadeh, Parishad
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11050/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11050/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_11050,
+  title = {{AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks}},
+  author = {{Xing Han Lù} and {Dheeraj Vattikonda} and {Sina Hajimiri} and {Fatemeh Pesaran Zadeh} and {Parishad BehnamGhader} and {Ghazwa Darwiche} and {Amirhossein Kazemnejad} and {Christopher Pal} and {Alexandre Drouin} and {Siva Reddy}},
+  year = {2026},
+  eprint = {2610.11050v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11050v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T01:03:48Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1392,6 +1712,18 @@ Michael Ofengenden, Maksym Andriushchenko
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-09944/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-09944/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09944,
+  title = {{AgentTime: Can Agents Estimate and Control Their Own Runtime?}},
+  author = {{Michael Ofengenden} and {Maksym Andriushchenko}},
+  year = {2026},
+  eprint = {2610.09944v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09944v2},
+  note = {First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T09:06:36Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1446,6 +1778,18 @@ Sarthak Choudhary, Mihai Christodorescu, Ashish Hooda, Somesh Jha, Tongxin Li, D
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-09469/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-09469/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_09469,
+  title = {{Secure-CUA: Controlling Untrusted Influence in Computer-Use Agents}},
+  author = {{Sarthak Choudhary} and {Mihai Christodorescu} and {Ashish Hooda} and {Somesh Jha} and {Tongxin Li} and {Damien Octeau}},
+  year = {2026},
+  eprint = {2610.09469v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09469v1},
+  note = {First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T05:24:40Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1497,6 +1841,18 @@ Wanjing Han, Levi Taiji Li, Mu Zhang, Yue Jiang, Guanhong Tao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-09240/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-09240/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09240,
+  title = {{Adversarial Images Hijack Web Agents from Visual Grounding to Browser Execution}},
+  author = {{Wanjing Han} and {Levi Taiji Li} and {Mu Zhang} and {Yue Jiang} and {Guanhong Tao}},
+  year = {2026},
+  eprint = {2610.09240v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09240v1},
+  note = {First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T00:05:53Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1550,6 +1906,18 @@ Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomm
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-08773/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-08773/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_08773,
+  title = {{AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model}},
+  author = {{Sarim Hashmi} and {Mukul Ranjan} and {Kshitij Mishra} and {Mikhail Kuznetsov} and {Praneeth Vepakomma} and {Nils Lukas}},
+  year = {2026},
+  eprint = {2610.08773v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08773v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:56:43Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1601,6 +1969,18 @@ Guangyi Liu, Yong Liu, Jiangning Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-08699/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-08699/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08699,
+  title = {{nanoMuse: An Open-Source Personal Agent for Every Device You Own}},
+  author = {{Guangyi Liu} and {Yong Liu} and {Jiangning Zhang}},
+  year = {2026},
+  eprint = {2610.08699v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08699v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:13:53Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1654,6 +2034,18 @@ Yeji Park, Jaeyun Shim, Taesik Gong
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07972/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07972/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_07972,
+  title = {{Can Agents Work for Everyone? Cross-User Reliability for Mobile GUI Agents in Personalized User Interfaces}},
+  author = {{Yeji Park} and {Jaeyun Shim} and {Taesik Gong}},
+  year = {2026},
+  eprint = {2610.07972v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07972v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T08:38:30Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1705,6 +2097,18 @@ Aadi Chauhan, Arthur Ilyasov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07444/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07444/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07444,
+  title = {{Decoupling What from Where: How Should a Small GUI Grounding Model Receive the Action Type?}},
+  author = {{Aadi Chauhan} and {Arthur Ilyasov}},
+  year = {2026},
+  eprint = {2610.07444v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07444v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T21:50:50Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1758,6 +2162,18 @@ Dheeraj Varghese, Anna Vettoruzzo, Walter Simoncini, Michelle Lorena Acevedo Cal
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07127/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07127/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_07127,
+  title = {{PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence}},
+  author = {{Dheeraj Varghese} and {Anna Vettoruzzo} and {Walter Simoncini} and {Michelle Lorena Acevedo Callejas} and {Mohammad Mahdi Derakhshani} and {Kristof Meding} and {Joaquin Vanschoren} and {Cees G. M. Snoek}},
+  year = {2026},
+  eprint = {2610.07127v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07127v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:52:40Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1809,6 +2225,18 @@ Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07118/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07118/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07118,
+  title = {{AMBER: Training Long-Horizon Web Agents through Append-Only Memory}},
+  author = {{Chinmay Savadikar} and {Zhaoyu Zhang} and {Mingyu Zhao} and {Shuang Xie} and {Han Li} and {Tianfu Wu} and {Lingyun Wang}},
+  year = {2026},
+  eprint = {2610.07118v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07118v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:11:07Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1862,6 +2290,18 @@ Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-06829/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-06829/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_06829,
+  title = {{CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling}},
+  author = {{Yifan Zhang} and {Yutong Dai} and {Viraj Prabhu} and {Zhiyuan Hu} and {Ran Xu} and {Zeyuan Chen}},
+  year = {2026},
+  eprint = {2610.06829v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06829v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:57:51Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1913,6 +2353,18 @@ Yongxin Ning, Runliang Niu, Qianli Xing, Zhiyi Duan, Qingzu He, Pan Wang, Qi Wan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-05861/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-05861/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05861,
+  title = {{Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training}},
+  author = {{Yongxin Ning} and {Runliang Niu} and {Qianli Xing} and {Zhiyi Duan} and {Qingzu He} and {Pan Wang} and {Qi Wang}},
+  year = {2026},
+  eprint = {2610.05861v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05861v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T06:28:58Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -1966,6 +2418,18 @@ Justin Chih-Yao Chen, Elias Stengel-Eskin, Yan Chen, Pol Llado, Scott Counts, Mo
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-05437/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-05437/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_05437,
+  title = {{TeleTune: Evolving Agent Skills From Offline Telemetry}},
+  author = {{Justin Chih-Yao Chen} and {Elias Stengel-Eskin} and {Yan Chen} and {Pol Llado} and {Scott Counts} and {Mohit Bansal} and {Benjamin Van Durme} and {Harsh Jhamtani} and {Gaurav Verma}},
+  year = {2026},
+  eprint = {2610.05437v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05437v2},
+  note = {First published: 2026-10-04; Recorded arXiv version: v2; Recorded version updated: 2026-10-06T03:17:00Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 2
@@ -2017,6 +2481,18 @@ Kaiyu Wu, Beichen Zheng, Weiyao Huang, Keze Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-05185/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-05185/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05185,
+  title = {{Recurrent Latent Visual Search for GUI Grounding}},
+  author = {{Kaiyu Wu} and {Beichen Zheng} and {Weiyao Huang} and {Keze Wang}},
+  year = {2026},
+  eprint = {2610.05185v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05185v1},
+  note = {First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T12:49:01Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -2070,6 +2546,18 @@ Ziyang Long, Xinqi Li, Lujing Xing, Hsin-Jung Yang
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04800/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04800/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_04800,
+  title = {{MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles}},
+  author = {{Ziyang Long} and {Xinqi Li} and {Lujing Xing} and {Hsin-Jung Yang}},
+  year = {2026},
+  eprint = {2610.04800v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04800v1},
+  note = {First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T22:56:09Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2121,6 +2609,18 @@ Yadong Lu, Theodore Lee, Yifei Li, Lawrence Keunho Jang, Tianci Xue, Yu Su, Huan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04116/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04116,
+  title = {{CUAWright: A Minimal Unified Interface for Digital Agents}},
+  author = {{Yadong Lu} and {Theodore Lee} and {Yifei Li} and {Lawrence Keunho Jang} and {Tianci Xue} and {Yu Su} and {Huan Sun} and {Ahmed Hassan Awadallah}},
+  year = {2026},
+  eprint = {2610.04116v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04116v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T22:43:06Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -2174,6 +2674,18 @@ Maria Sanchez del Rio, Mikhail Terekhov
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03818/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03818/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_03818,
+  title = {{Control OSWorld: An AI Control Environment for GUI Computer Use Agents}},
+  author = {{Maria Sanchez del Rio} and {Mikhail Terekhov}},
+  year = {2026},
+  eprint = {2610.03818v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03818v2},
+  note = {First published: 2026-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T23:17:28Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 2
@@ -2225,6 +2737,18 @@ Alham Fikri Aji, Faiz Rizki Ramadhan, Zayd M. K. Zuhri, Seung Hun Eddie Han, Rya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03574/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03574/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03574,
+  title = {{HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents}},
+  author = {{Alham Fikri Aji} and {Faiz Rizki Ramadhan} and {Zayd M. K. Zuhri} and {Seung Hun Eddie Han} and {Ryandito Diandaru} and {Qinrong Cui} and {Jan Christian Blaise Cruz} and {Badrinath Chandana} and {Peerawat Chomphooyod} and {Ahmed Attia} and {Jonibek Mansurov} and {Emilio Villa-Cueva} and {Canh Duong Nguyen} and {Imran Turganov} and {Minghao Wu} and {Peerat Limkonchotiwat} and {Irina Nikishina}},
+  year = {2026},
+  eprint = {2610.03574v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03574v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T16:48:49Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -2278,6 +2802,18 @@ Giulio Zingrillo, Hanna Foerster, Ilia Shumailov, Yiren Zhao, Robert Mullins
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03089/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03089/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_03089,
+  title = {{Securing Computer-Use Agents Against Branch Steering Attacks}},
+  author = {{Giulio Zingrillo} and {Hanna Foerster} and {Ilia Shumailov} and {Yiren Zhao} and {Robert Mullins}},
+  year = {2026},
+  eprint = {2610.03089v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03089v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T10:08:39Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2329,6 +2865,18 @@ Jiangang Han
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03036/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03036/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03036,
+  title = {{WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites}},
+  author = {{Jiangang Han}},
+  year = {2026},
+  eprint = {2610.03036v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03036v2},
+  note = {First published: 2026-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T13:46:51Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -2382,6 +2930,18 @@ Yulong Ming, Jie Xu, Zihan Wu, Xiaohua Jia
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02932/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02932/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_02932,
+  title = {{When to Compile a Computer-Use Agent? Measuring Payback and Making Compilation Decisions for Token Efficiency}},
+  author = {{Yulong Ming} and {Jie Xu} and {Zihan Wu} and {Xiaohua Jia}},
+  year = {2026},
+  eprint = {2610.02932v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02932v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T07:22:46Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2434,6 +2994,18 @@ Yun-Yun Tsai, Yuning Mao, Shiqi Wang, Junfeng Yang, Sinong Wang
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02617/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02617/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_02617,
+  title = {{WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness}},
+  author = {{Yun-Yun Tsai} and {Yuning Mao} and {Shiqi Wang} and {Junfeng Yang} and {Sinong Wang}},
+  year = {2026},
+  eprint = {2610.02617v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02617v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T00:17:11Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2485,6 +3057,23 @@ Yongbi Son, Changoo Lee, Dongwon Shin, Byoungyoung Lee, Sanghyun Hong, Sooel Son
 
 - BibTeX: https://awesomecua.com/resources/url-e86b3a1454b494224f07/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-e86b3a1454b494224f07/citation.csl.json
+
+```bibtex
+@article{cua_861d6dad3d57e1ef47ee74a3,
+  title = {{AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents}},
+  author = {{Yongbi Son} and {Changoo Lee} and {Dongwon Shin} and {Byoungyoung Lee} and {Sanghyun Hong} and {Sooel Son}},
+  year = {2026},
+  month = oct,
+  journal = {Proceedings of the ACM on Software Engineering},
+  publisher = {Association for Computing Machinery (ACM)},
+  volume = {3},
+  number = {ISSTA},
+  pages = {1696-1717},
+  doi = {10.1145/3832165},
+  url = {https://doi.org/10.1145/3832165},
+  note = {Publication date: 2026-10-01.}
+}
+```
 
 ### Publication record
 
@@ -2548,6 +3137,18 @@ Dhananjay Ashok, Shantanu Agarwal, Vivek Datla, Jonathan May, Alfy Samuel
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02542/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02542/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_02542,
+  title = {{How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling}},
+  author = {{Dhananjay Ashok} and {Shantanu Agarwal} and {Vivek Datla} and {Jonathan May} and {Alfy Samuel}},
+  year = {2026},
+  eprint = {2610.02542v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02542v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T22:30:08Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2603,6 +3204,18 @@ A. Said Gurbuz, Ahmed Nassar, Sunghwan Hong, Marc Pollefeys, Peter W. J. Staar
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02320/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02320/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_02320,
+  title = {{DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents}},
+  author = {{A. Said Gurbuz} and {Ahmed Nassar} and {Sunghwan Hong} and {Marc Pollefeys} and {Peter W. J. Staar}},
+  year = {2026},
+  eprint = {2610.02320v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02320v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T18:00:05Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2654,6 +3267,18 @@ Beining Wu, Zihao Ding, Jun Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-01787/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-01787/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_01787,
+  title = {{Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents}},
+  author = {{Beining Wu} and {Zihao Ding} and {Jun Huang}},
+  year = {2026},
+  eprint = {2610.01787v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.01787v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T14:34:32Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -2707,6 +3332,18 @@ Chengguang Gan, Zimeng He, Yoshihiro Tsujii, Ken-ichiro Kobayashi, Hiroki Itoh, 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-01491/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-01491/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_01491,
+  title = {{Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories}},
+  author = {{Chengguang Gan} and {Zimeng He} and {Yoshihiro Tsujii} and {Ken-ichiro Kobayashi} and {Hiroki Itoh} and {Kotaro Funakoshi}},
+  year = {2026},
+  eprint = {2610.01491v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.01491v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T11:31:37Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2758,6 +3395,18 @@ Cheng Yang, Yifan Wu, Yutao Huang, Zhaohua Zhang, Beiduo Chen, Muxi Chen, Chench
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-01215/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-01215/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_01215,
+  title = {{AutoGUIWorld: Image Generators as Visual World Models for GUI Agent}},
+  author = {{Cheng Yang} and {Yifan Wu} and {Yutao Huang} and {Zhaohua Zhang} and {Beiduo Chen} and {Muxi Chen} and {Chenchen Zhao} and {Hexuan Deng} and {Haolin Yang} and {Geyuan Zhu} and {Sa Zhu} and {Jianhuan Zhuo} and {Qiuyong Xiao} and {Jianhao Ruan} and {Yiran Peng} and {Jiayi Zhang} and {Tian Ye} and {Xinlei Yu} and {Tianwen Jiang} and {Jihong Zhang} and {Yuyu Luo}},
+  year = {2026},
+  eprint = {2610.01215v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.01215v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T07:22:53Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -2811,6 +3460,18 @@ Geyi Yang, Zikun Qu, Xiang Li, Zhiyong Wang, Min Zhang, Shipei Zeng, Zhongxiang 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-00948/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-00948/citation.csl.json
 
+```bibtex
+@misc{arxiv_2610_00948,
+  title = {{GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution}},
+  author = {{Geyi Yang} and {Zikun Qu} and {Xiang Li} and {Zhiyong Wang} and {Min Zhang} and {Shipei Zeng} and {Zhongxiang Dai}},
+  year = {2026},
+  eprint = {2610.00948v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.00948v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T02:31:20Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -2862,6 +3523,18 @@ Pranjal Aggarwal, Lawrence Keunho Jang, Sean Welleck, Daniel Fried, Ruslan Salak
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-40284/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-40284/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_40284,
+  title = {{cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents}},
+  author = {{Pranjal Aggarwal} and {Lawrence Keunho Jang} and {Sean Welleck} and {Daniel Fried} and {Ruslan Salakhutdinov} and {Jing Yu Koh}},
+  year = {2026},
+  eprint = {2609.40284v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.40284v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T17:48:06Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -2915,6 +3588,18 @@ Yong Du, Tongbo Chen, Zhengxi Lu, Yizhou Liu, Bofan Chen, Tao Jiang, Wenhao Xu, 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-40253/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-40253/citation.csl.json
 
+```bibtex
+@misc{arxiv_2609_40253,
+  title = {{ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents}},
+  author = {{Yong Du} and {Tongbo Chen} and {Zhengxi Lu} and {Yizhou Liu} and {Bofan Chen} and {Tao Jiang} and {Wenhao Xu} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2609.40253v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.40253v2},
+  note = {First published: 2026-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-01T17:50:14Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 2
@@ -2966,6 +3651,18 @@ Dingyuan Dai, Heli Qi, Lei Liu, Yinxi Li, Baiding Chen, Zijun Dou, Qingcheng Zen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39903/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39903/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39903,
+  title = {{OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software}},
+  author = {{Dingyuan Dai} and {Heli Qi} and {Lei Liu} and {Yinxi Li} and {Baiding Chen} and {Zijun Dou} and {Qingcheng Zeng} and {Qi Kang} and {Oliver Sun} and {Eric Wang} and {Bo Zhou} and {Haixin Wang} and {Yufan Du} and {Shi Bo} and {Ruihan Lin} and {Mengqi Yuan} and {Dunjie Lu} and {Steven Dillmann} and {Yiming Shi} and {Tina Su} and {Amy Xin} and {Minghao Liu} and {Xi Wang} and {Xu Huang} and {Ge Zhang} and {Pengyu Nie} and {Zhen Yang} and {Jie Tang} and {Juanzi Li} and {Weihao Xuan} and {Tianyu Liu}},
+  year = {2026},
+  eprint = {2609.39903v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39903v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T15:03:05Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 
@@ -3019,6 +3716,18 @@ Bo Han, Qianyi Wang, Shuai Liu, Xiong Zifan, Changqiao Wu, Yuanfa Li, Pengzhi Ga
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39547/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39547/citation.csl.json
 
+```bibtex
+@misc{arxiv_2609_39547,
+  title = {{Learning Reliable GUI Agents under Imperfect Priors}},
+  author = {{Bo Han} and {Qianyi Wang} and {Shuai Liu} and {Xiong Zifan} and {Changqiao Wu} and {Yuanfa Li} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Heng Qu} and {Yunpeng Song} and {Zhongmin Cai}},
+  year = {2026},
+  eprint = {2609.39547v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39547v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T11:45:51Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -3071,6 +3780,18 @@ Shengjie Jin, Hengbo Xu, Zelong Sun, YuJie Guo, Zhiwu Lu
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39306/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39306/citation.csl.json
 
+```bibtex
+@misc{arxiv_2609_39306,
+  title = {{ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation}},
+  author = {{Shengjie Jin} and {Hengbo Xu} and {Zelong Sun} and {YuJie Guo} and {Zhiwu Lu}},
+  year = {2026},
+  eprint = {2609.39306v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39306v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T08:49:03Z.}
+}
+```
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -3122,6 +3843,18 @@ Terumi Chiba, Guangzhi Sun, Zheqi Yuan, Chao Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-38867/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-38867/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_38867,
+  title = {{Talk2Agent: Benchmarking Voice Interfaces for Text Agents}},
+  author = {{Terumi Chiba} and {Guangzhi Sun} and {Zheqi Yuan} and {Chao Zhang}},
+  year = {2026},
+  eprint = {2609.38867v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.38867v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T03:19:25Z.}
+}
+```
 
 ### Recorded arXiv snapshot
 

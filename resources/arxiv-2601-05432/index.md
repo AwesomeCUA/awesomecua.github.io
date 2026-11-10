@@ -1,3 +1,11 @@
+---
+title: "Thinking with Map: Reinforced Parallel… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-05432/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization
 
 Status: excluded from the active CUA catalog after scope review.

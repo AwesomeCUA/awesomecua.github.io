@@ -1,3 +1,11 @@
+---
+title: "webgames · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-654e0cbc1a22b59eca47/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # webgames
 
 WebGames 的任务列表，这是一组供浏览智能体完成的客户端网页挑战：一个 JSONL 文件，记录每个任务的 ID、标题、描述、页面路径、完成后显示的密码和标签。

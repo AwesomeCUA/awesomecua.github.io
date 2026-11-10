@@ -1,3 +1,11 @@
+---
+title: "Coddy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-coddy-project-coddy-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Coddy
 
 Coddy is an agent harness with desktop, terminal, and editor interfaces. Its browser extension lets the agent inspect pages and act in shared tabs.

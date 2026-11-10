@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-E code component | AwesomeCUA"
+url: https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Mobile-Agent-E code component
 
 Android automation component with hierarchical planning, reflection and persistent tips/shortcuts learned across task sequences.

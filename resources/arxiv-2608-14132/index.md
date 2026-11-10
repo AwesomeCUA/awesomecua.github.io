@@ -1,3 +1,11 @@
+---
+title: "Act2Intention: A Benchmark For Developing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-14132/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions
 
 Introduces intention understanding, prediction, and confirmed execution tasks over mobile GUI trajectories, with a proactive agent combining personalized intention models and experience-guided actions.
@@ -26,6 +34,18 @@ Xiaokai Yan, Jingtao Ding, Yong Li, Zhiwen Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-14132/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-14132/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_14132,
+  title = {{Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions}},
+  author = {{Xiaokai Yan} and {Jingtao Ding} and {Yong Li} and {Zhiwen Yu}},
+  year = {2026},
+  eprint = {2608.14132v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.14132v1},
+  note = {First published: 2026-08-14; Recorded arXiv version: v1; Recorded version updated: 2026-08-14T09:36:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

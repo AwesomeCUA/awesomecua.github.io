@@ -1,3 +1,11 @@
+---
+title: "ACT-SOP · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ab4587d17c4f541bb94c/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # ACT-SOP
 
 MobileAgent 发布的 Llama-2-7b LoRA 适配器。MobileAgent 是一个移动设备控制智能体，引入标准作业程序（SOP）上下文，在 AitW 屏幕上预测动作。

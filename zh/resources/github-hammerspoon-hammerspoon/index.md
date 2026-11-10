@@ -1,3 +1,11 @@
+---
+title: "Hammerspoon · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hammerspoon-hammerspoon/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Hammerspoon
 
 这款 macOS 自动化工具通过扩展将操作系统功能接入 Lua 脚本，让用户编写程序控制桌面行为。

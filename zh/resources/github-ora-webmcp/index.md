@@ -1,3 +1,11 @@
+---
+title: "ora webmcp · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ora-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ora webmcp
 
 用于审查、实现和验证网站 WebMCP 支持的编程智能体插件及工具包。

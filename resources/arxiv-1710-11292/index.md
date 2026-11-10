@@ -1,3 +1,11 @@
+---
+title: "Correlation between Multivariate Datasets… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1710-11292/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Correlation between Multivariate Datasets, from Inter-Graph Distance computed using Graphical Models Learnt With Uncertainties
 
 Status: excluded from the active CUA catalog after scope review.

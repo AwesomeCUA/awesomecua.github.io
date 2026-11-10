@@ -1,3 +1,11 @@
+---
+title: "Describe, Explain, Plan and Select… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-01560/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
 
 Status: excluded from the active CUA catalog after scope review.

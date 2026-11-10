@@ -1,3 +1,11 @@
+---
+title: "MedVA: An End-to-End Neuro-Symbolic Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-14874/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MedVA: An End-to-End Neuro-Symbolic Agentic System for Medical Volume Visualization
 
 Bibliographic record for MedVA: An End-to-End Neuro-Symbolic Agentic System for Medical Volume Visualization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haill An, Suhyeon Kim, Minjun Kang, Eunwoo Lee, Bin Sheng, Lei Bi, Younhyun Jung
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-14874/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-14874/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_14874,
+  title = {{MedVA: An End-to-End Neuro-Symbolic Agentic System for Medical Volume Visualization}},
+  author = {{Haill An} and {Suhyeon Kim} and {Minjun Kang} and {Eunwoo Lee} and {Bin Sheng} and {Lei Bi} and {Younhyun Jung}},
+  year = {2026},
+  eprint = {2609.14874v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.14874v1},
+  note = {First published: 2026-09-14; Recorded arXiv version: v1; Recorded version updated: 2026-09-14T00:48:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

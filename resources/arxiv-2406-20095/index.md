@@ -1,3 +1,11 @@
+---
+title: "LLaRA: Supercharging Robot Learning Data for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-20095/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LLaRA: Supercharging Robot Learning Data for Vision-Language Policy
 
 Bibliographic record for LLaRA: Supercharging Robot Learning Data for Vision-Language Policy. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiang Li, Cristina Mata, Jongwoo Park, Kumara Kahatapitiya, Yoo Sung Jang, Jingh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-20095/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-20095/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_20095,
+  title = {{LLaRA: Supercharging Robot Learning Data for Vision-Language Policy}},
+  author = {{Xiang Li} and {Cristina Mata} and {Jongwoo Park} and {Kumara Kahatapitiya} and {Yoo Sung Jang} and {Jinghuan Shang} and {Kanchana Ranasinghe} and {Ryan Burgert} and {Mu Cai} and {Yong Jae Lee} and {Michael S. Ryoo}},
+  year = {2024},
+  eprint = {2406.20095v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.20095v3},
+  note = {First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2025-01-30T17:34:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "SeeAct · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-seeact/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # SeeAct
 
 面向 GPT-4V 等大型多模态模型的通用网页智能体框架，提供在在线网站运行智能体的 Playwright 工具、文本选项与标记集定位方法，以及爬虫模式。

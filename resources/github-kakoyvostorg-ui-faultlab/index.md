@@ -1,3 +1,11 @@
+---
+title: "UI-FaultLab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # UI-FaultLab
 
 UI-FaultLab benchmarks auditable agent-versus-application failure attribution in visual UI testing workflows.

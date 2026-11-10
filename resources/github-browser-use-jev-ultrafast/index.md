@@ -1,3 +1,11 @@
+---
+title: "Jev Ultrafast | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-jev-ultrafast/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Jev Ultrafast
 
 Jev Ultrafast operates a browser by selecting actions and targets from an indexed table of visible controls, with a separate model generating text when needed.

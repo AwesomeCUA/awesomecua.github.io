@@ -1,3 +1,11 @@
+---
+title: "desktop-touch-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harusame64-desktop-touch-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # desktop-touch-mcp
 
 Windows computer-use MCP server that drives desktop applications via semantic discover-then-act UI Automation targeting.

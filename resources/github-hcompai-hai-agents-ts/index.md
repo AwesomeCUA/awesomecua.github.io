@@ -1,3 +1,11 @@
+---
+title: "hai-agents (github.com/hcompai/hai-agents-ts) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hcompai-hai-agents-ts/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # hai-agents
 
 A TypeScript SDK for running browser agents through H Company's Agents API. It provides session controls, progress events and ways to steer an agent during a task.

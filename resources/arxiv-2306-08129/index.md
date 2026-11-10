@@ -1,3 +1,11 @@
+---
+title: "AVIS: Autonomous Visual Information Seeking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-08129/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AVIS: Autonomous Visual Information Seeking with Large Language Model Agent
 
 Status: excluded from the active CUA catalog after scope review.

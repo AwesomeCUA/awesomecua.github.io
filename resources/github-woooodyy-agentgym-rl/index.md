@@ -1,3 +1,11 @@
+---
+title: "AgentGym-RL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-woooodyy-agentgym-rl/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # AgentGym-RL
 
 A reinforcement-learning framework for multi-turn agents that includes WebArena navigation tasks and a method for increasing interaction length during training.

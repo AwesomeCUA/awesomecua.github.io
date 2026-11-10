@@ -1,3 +1,11 @@
+---
+title: "ScreenClaw (睇虾) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ginsing1226-screenclaw/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ScreenClaw (睇虾)
 
 Windows visual GUI automation companion combining percentage-coordinate grid overlays with non-blocking workflow recording and replay.

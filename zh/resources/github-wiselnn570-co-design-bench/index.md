@@ -1,3 +1,11 @@
+---
+title: "Co-Design Bench (github.com/Wiselnn570/… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wiselnn570-co-design-bench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Co-Design Bench
 
 Co-Design Bench 评估编码智能体依据多模态请求修改应用程序的结果，并结合源代码和浏览器证据检查需求是否满足。

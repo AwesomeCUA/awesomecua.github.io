@@ -1,3 +1,11 @@
+---
+title: "Portal Operator · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pwmcgovern-afk-portal-operator/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Portal Operator
 
 自主浏览器智能体，旨在真实浏览器中端到端操作传统保险公司网页门户。

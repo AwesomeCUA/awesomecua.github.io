@@ -1,3 +1,11 @@
+---
+title: "PSAI Computer Use Dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # PSAI Computer Use Dataset
 
 PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories with synchronized screen video, input events, and DOM/AX snapshots.

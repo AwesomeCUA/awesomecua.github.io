@@ -1,3 +1,11 @@
+---
+title: "WebMarker | AwesomeCUA"
+url: https://awesomecua.com/resources/github-reidbarber-webmarker/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # WebMarker
 
 A browser library that labels interactive elements and their boxes for visual prompting, preserving element mappings that automation code can use to execute selected actions.

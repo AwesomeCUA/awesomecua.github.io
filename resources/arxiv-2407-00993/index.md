@@ -1,3 +1,11 @@
+---
+title: "Mobile-Bench: An Evaluation Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-00993/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents
 
 Evaluates mobile agents using combined UI and API actions, tasks with varying app scope, and checkpoints for intermediate progress.
@@ -26,6 +34,18 @@ Shihan Deng, Weikai Xu, Hongda Sun, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-00993/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-00993/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_00993,
+  title = {{Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents}},
+  author = {{Shihan Deng} and {Weikai Xu} and {Hongda Sun} and {Wei Liu} and {Tao Tan} and {Jianfeng Liu} and {Ang Li} and {Jian Luan} and {Bin Wang} and {Rui Yan} and {Shuo Shang}},
+  year = {2024},
+  eprint = {2407.00993v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.00993v1},
+  note = {First published: 2024-07-01; Recorded arXiv version: v1; Recorded version updated: 2024-07-01T06:10:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

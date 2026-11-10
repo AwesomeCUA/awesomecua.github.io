@@ -1,3 +1,11 @@
+---
+title: "Cross-Interface Authorization for AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-41397/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Cross-Interface Authorization for AI Computer-Use Agents
 
 Presents a profile-bounded authorization protocol for computer-use agents working through GUIs, APIs, scripts, and other routes, with route-bound tickets and commit-time checks.
@@ -26,6 +34,18 @@ Genliang Zhu, Chu Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-41397/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-41397/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_41397,
+  title = {{Cross-Interface Authorization for AI Computer-Use Agents}},
+  author = {{Genliang Zhu} and {Chu Wang}},
+  year = {2026},
+  eprint = {2610.41397v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.41397v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T08:07:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

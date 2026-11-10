@@ -1,3 +1,11 @@
+---
+title: "TurkingBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-808a22468ee0bf565d6e/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # TurkingBench
 
 基于众包 HTML 任务的网页智能体基准，含 32.2K 个实例、158 项任务，并提供将模型回答映射为页面操作的评估框架。

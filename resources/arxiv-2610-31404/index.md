@@ -1,3 +1,11 @@
+---
+title: "AgentPhishing: A Benchmark of LLM Email… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31404/
+updated: 2026-10-23
+type: paper
+lang: en
+---
+
 # AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack
 
 Bibliographic record for AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Justin Tan, Miao Li, Ding Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31404/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31404/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31404,
+  title = {{AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack}},
+  author = {{Justin Tan} and {Miao Li} and {Ding Zhao}},
+  year = {2026},
+  eprint = {2610.31404v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31404v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T15:07:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

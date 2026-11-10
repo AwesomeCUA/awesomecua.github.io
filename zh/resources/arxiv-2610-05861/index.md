@@ -1,3 +1,11 @@
+---
+title: "Imagine to Act: High-Fidelity Data… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-05861/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training
 
 提出 Infinite-Dreamer，根据 GUI 变化的结构化描述学习以动作为条件编辑截图，并据此合成鲁棒性样例和多步轨迹。合成数据用于训练在 AndroidWorld、MobileWorld 和 AndroidControl-Curated 上评估的移动端 GUI 智能体。
@@ -27,6 +35,18 @@ Yongxin Ning, Runliang Niu, Qianli Xing, Zhiyi Duan, Qingzu He, Pan Wang, Qi Wan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-05861/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-05861/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05861,
+  title = {{Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training}},
+  author = {{Yongxin Ning} and {Runliang Niu} and {Qianli Xing} and {Zhiyi Duan} and {Qingzu He} and {Pan Wang} and {Qi Wang}},
+  year = {2026},
+  eprint = {2610.05861v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05861v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T06:28:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Vision-Braille: A Curriculum Learning Toolkit… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-06048/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Vision-Braille: A Curriculum Learning Toolkit and Braille-Chinese Corpus for Braille Translation
 
 Status: excluded from the active CUA catalog after scope review.

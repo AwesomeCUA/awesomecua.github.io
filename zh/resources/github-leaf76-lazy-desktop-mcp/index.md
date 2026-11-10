@@ -1,3 +1,11 @@
+---
+title: "lazy-desktop-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leaf76-lazy-desktop-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # lazy-desktop-mcp
 
 本地优先的桌面控制 MCP 服务器，将 Rust 原生宿主程序和 Node.js 启动器与受策略限制的计算机使用工具结合。

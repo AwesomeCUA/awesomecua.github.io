@@ -1,3 +1,11 @@
+---
+title: "BX Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-painbaba-bx-browser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # BX Browser
 
 DOM-first, vision-capable autonomous browser agent that plans and executes multi-step web tasks.

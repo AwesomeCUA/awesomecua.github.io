@@ -1,3 +1,11 @@
+---
+title: "see_the_screen (DSH Windows Desktop… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jaychouu-see-the-screen/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # see_the_screen (DSH Windows Desktop Plugin)
 
 面向 DeepSeek Harness 智能体的 Windows 桌面自动化插件，提供屏幕观察和 GUI 控制。

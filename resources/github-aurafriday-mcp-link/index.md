@@ -1,3 +1,11 @@
+---
+title: "MCP Link | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aurafriday-mcp-link/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MCP Link
 
 A browser extension that lets chat AIs such as ChatGPT and Claude call user-approved MCP tools; with the companion MCP Link Server it adds automated browsing and web interactions.

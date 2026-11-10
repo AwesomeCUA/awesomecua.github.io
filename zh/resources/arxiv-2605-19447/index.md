@@ -1,3 +1,11 @@
+---
+title: "What and When to Distill: Selective… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-19447/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents
 
 SERL 结合任务奖励与有选择的逐步反馈，调整多轮智能体的训练更新；WebShop 是其评测场景之一。
@@ -27,6 +35,18 @@ Xiaozhe Li, Tianyi Lyu, Yang Li, Yichuan Ma, Peiji Li, Linyang Li, Qipeng Guo, D
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-19447/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-19447/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_19447,
+  title = {{What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents}},
+  author = {{Xiaozhe Li} and {Tianyi Lyu} and {Yang Li} and {Yichuan Ma} and {Peiji Li} and {Linyang Li} and {Qipeng Guo} and {Dahua Lin} and {Kai Chen}},
+  year = {2026},
+  eprint = {2605.19447v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.19447v1},
+  note = {First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T07:00:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

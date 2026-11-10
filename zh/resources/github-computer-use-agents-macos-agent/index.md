@@ -1,3 +1,11 @@
+---
+title: "MacOS Agent (BIGAI) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-computer-use-agents-macos-agent/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # MacOS Agent (BIGAI)
 
 macOS 智能体使用 smolagents 代码智能体调度各应用子智能体；子智能体读取无障碍树和窗口截图，通过 pyautogui 鼠标与键盘输入执行操作。

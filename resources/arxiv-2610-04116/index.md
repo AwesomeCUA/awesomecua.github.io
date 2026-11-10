@@ -1,3 +1,11 @@
+---
+title: "CUAWright: A Minimal Unified Interface for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-04116/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # CUAWright: A Minimal Unified Interface for Digital Agents
 
 Studies a minimal terminal-based execution framework that lets digital agents construct tools and manage context across browser, desktop, and CAD tasks.
@@ -26,6 +34,18 @@ Yadong Lu, Theodore Lee, Yifei Li, Lawrence Keunho Jang, Tianci Xue, Yu Su, Huan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-04116/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-04116/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_04116,
+  title = {{CUAWright: A Minimal Unified Interface for Digital Agents}},
+  author = {{Yadong Lu} and {Theodore Lee} and {Yifei Li} and {Lawrence Keunho Jang} and {Tianci Xue} and {Yu Su} and {Huan Sun} and {Ahmed Hassan Awadallah}},
+  year = {2026},
+  eprint = {2610.04116v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.04116v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T22:43:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

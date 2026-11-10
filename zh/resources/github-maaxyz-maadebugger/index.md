@@ -1,3 +1,11 @@
+---
+title: "MaaDebugger · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maaxyz-maadebugger/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaDebugger
 
 一个用于 MaaFramework 自动化项目的调试器，以本地 Web 界面运行，默认端口为 8011，可通过 pip 或 uv 从 PyPI 安装；以 Go 和 Web 重写的版本发布在 npm 上。

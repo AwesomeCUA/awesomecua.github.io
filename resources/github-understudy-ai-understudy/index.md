@@ -1,3 +1,11 @@
+---
+title: "Understudy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-understudy-ai-understudy/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Understudy
 
 Understudy observes human desktop and browser demonstrations and compiles them into parameterized, replayable computer-use skills.

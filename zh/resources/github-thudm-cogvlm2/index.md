@@ -1,3 +1,11 @@
+---
+title: "CogVLM2 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-cogvlm2/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # CogVLM2
 
 CogVLM2 发布支持视觉定位、文档阅读和 GUI 理解的高分辨率图像及视频视觉语言模型。

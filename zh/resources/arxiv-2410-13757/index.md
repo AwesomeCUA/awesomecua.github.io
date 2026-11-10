@@ -1,3 +1,11 @@
+---
+title: "MobA: Multifaceted Memory-Enhanced… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-13757/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation
 
 结合自适应移动端任务规划、基于反思的恢复机制和多个记忆组件，并使用 MobBench 和 AndroidArena 进行评估。
@@ -27,6 +35,18 @@ Zichen Zhu, Hao Tang, Yansi Li, Dingye Liu, Hongshen Xu, Kunyao Lan, Danyang Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-13757/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-13757/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_13757,
+  title = {{MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation}},
+  author = {{Zichen Zhu} and {Hao Tang} and {Yansi Li} and {Dingye Liu} and {Hongshen Xu} and {Kunyao Lan} and {Danyang Zhang} and {Yixuan Jiang} and {Hao Zhou} and {Chenrun Wang} and {Situo Zhang} and {Liangtai Sun} and {Yixiao Wang} and {Yuheng Sun} and {Lu Chen} and {Kai Yu}},
+  year = {2024},
+  eprint = {2410.13757v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.13757v3},
+  note = {First published: 2024-10-17; Recorded arXiv version: v3; Recorded version updated: 2025-05-13T06:25:09Z.}
+}
+```
 
 ## 发表记录
 

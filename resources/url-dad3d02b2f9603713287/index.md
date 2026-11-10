@@ -1,3 +1,11 @@
+---
+title: "Holo2 235B-A22B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-dad3d02b2f9603713287/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo2 235B-A22B
 
 Research-preview Holo2 checkpoint, a 235B-total, 22B-active mixture-of-experts fine-tune of Qwen3-VL-235B-A22B-Thinking for UI localization and navigation on web, desktop and mobile screens.

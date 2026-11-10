@@ -1,3 +1,11 @@
+---
+title: "Pydoll | AwesomeCUA"
+url: https://awesomecua.com/resources/github-autoscrape-labs-pydoll/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Pydoll
 
 Pydoll is a Python browser automation library that controls Chrome or Edge through the DevTools Protocol and supports navigation, element interaction, and extraction.

@@ -1,3 +1,11 @@
+---
+title: "NeuroClaw Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-24696/
+updated: 2026-11-01
+type: paper
+lang: en
+---
+
 # NeuroClaw Technical Report
 
 Bibliographic record for NeuroClaw Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Cheng Wang, Zhibin He, Zhihao Peng, Shengyuan Liu, Yufan Hu, Carl Yang, Lifang H
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-24696/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-24696/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_24696,
+  title = {{NeuroClaw Technical Report}},
+  author = {{Cheng Wang} and {Zhibin He} and {Zhihao Peng} and {Shengyuan Liu} and {Yufan Hu} and {Carl Yang} and {Lifang He} and {Lichao Sun} and {Xiang Li} and {Yixuan Yuan}},
+  year = {2026},
+  eprint = {2604.24696v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.24696v3},
+  note = {First published: 2026-04-27; Recorded arXiv version: v3; Recorded version updated: 2026-06-16T05:47:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

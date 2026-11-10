@@ -1,3 +1,11 @@
+---
+title: "wayhand-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-timlai666-wayhand-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # wayhand-mcp
 
 Local Model Context Protocol server enabling Claude Code and Codex to observe and operate GNOME Wayland desktops.

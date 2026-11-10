@@ -1,3 +1,11 @@
+---
+title: "ok-script · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ok-oldking-ok-script/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # ok-script
 
 一个用于 Windows 应用、游戏和 Android 设备屏幕自动化的 Python 框架，提供模板匹配、OCR 和输入功能，并带有 MCP 服务，编程智能体可通过它截取目标画面、运行、重载和打包任务。

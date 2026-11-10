@@ -1,3 +1,11 @@
+---
+title: "Next Generation High Speed Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1107-4171/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Next Generation High Speed Computing Using Photonic Based Technolog
 
 Status: excluded from the active CUA catalog after scope review.

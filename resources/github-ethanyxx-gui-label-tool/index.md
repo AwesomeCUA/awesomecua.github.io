@@ -1,3 +1,11 @@
+---
+title: "GUI Label Tool | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # GUI Label Tool
 
 GUI Label Tool records and annotates human desktop trajectories inside a Dockerized QEMU virtual machine with paired input events and screenshots.

@@ -1,3 +1,11 @@
+---
+title: "PrivacyGuard: Source-Linked Sanitization… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-16778/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents
 
 提出 PrivacyGuard，对与来源关联的个人信息进行脱敏，并在移动端智能体的多轮操作中保留可在本地解析的引用，以减少向远程规划器暴露的信息。
@@ -27,6 +35,18 @@ Zian Yuan, Wei Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-16778/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-16778/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16778,
+  title = {{PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents}},
+  author = {{Zian Yuan} and {Wei Li}},
+  year = {2026},
+  eprint = {2610.16778v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16778v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T13:34:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "ChartAct: A Benchmark for Dynamic Chart… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-26994/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ChartAct: A Benchmark for Dynamic Chart Understanding
 
 ChartAct benchmarks multimodal models and GUI agents on interactive charts from websites, requiring actions such as hovering or zooming to answer questions.
@@ -26,6 +34,18 @@ Muye Huang, Lin Wu, Lingling Zhang, Hang Yan, Zhiyuan Wang, Yumeng Fu, Zesheng Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-26994/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-26994/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26994,
+  title = {{ChartAct: A Benchmark for Dynamic Chart Understanding}},
+  author = {{Muye Huang} and {Lin Wu} and {Lingling Zhang} and {Hang Yan} and {Zhiyuan Wang} and {Yumeng Fu} and {Zesheng Yang} and {Jun Liu}},
+  year = {2026},
+  eprint = {2605.26994v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26994v2},
+  note = {First published: 2026-05-26; Recorded arXiv version: v2; Recorded version updated: 2026-05-28T02:54:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

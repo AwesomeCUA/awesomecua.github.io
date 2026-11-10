@@ -1,3 +1,11 @@
+---
+title: "PixelWeb: The First Web GUI Dataset with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-16419/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels
 
 提出网页 GUI 数据集 PixelWeb，包含元素图像、轮廓和像素掩码。其标注流程结合位图通道信息与基于 DOM 的可见性和层叠分析，处理遮挡和元素重叠。
@@ -27,6 +35,18 @@ Qi Yang, Weichen Bi, Haiyang Shen, Yaoqi Guo, Yun Ma
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-16419/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-16419/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_16419,
+  title = {{PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels}},
+  author = {{Qi Yang} and {Weichen Bi} and {Haiyang Shen} and {Yaoqi Guo} and {Yun Ma}},
+  year = {2025},
+  eprint = {2504.16419v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.16419v2},
+  note = {First published: 2025-04-23; Recorded arXiv version: v2; Recorded version updated: 2025-04-27T06:52:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

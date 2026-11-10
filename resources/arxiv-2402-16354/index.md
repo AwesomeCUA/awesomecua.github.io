@@ -1,3 +1,11 @@
+---
+title: "Language-guided Skill Learning with Temporal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-16354/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Language-guided Skill Learning with Temporal Variational Inference
 
 Bibliographic record for Language-guided Skill Learning with Temporal Variational Inference. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haotian Fu, Pratyusha Sharma, Elias Stengel-Eskin, George Konidaris, Nicolas Le 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-16354/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-16354/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_16354,
+  title = {{Language-guided Skill Learning with Temporal Variational Inference}},
+  author = {{Haotian Fu} and {Pratyusha Sharma} and {Elias Stengel-Eskin} and {George Konidaris} and {Nicolas Le Roux} and {Marc-Alexandre Côté} and {Xingdi Yuan}},
+  year = {2024},
+  eprint = {2402.16354v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.16354v2},
+  note = {First published: 2024-02-26; Recorded arXiv version: v2; Recorded version updated: 2024-05-27T14:31:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

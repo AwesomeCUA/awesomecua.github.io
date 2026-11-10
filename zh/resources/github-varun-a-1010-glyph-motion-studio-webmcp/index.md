@@ -1,3 +1,11 @@
+---
+title: "Glyph Motion Studio for WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-varun-a-1010-glyph-motion-studio-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Glyph Motion Studio for WebMCP
 
 基于 WebMCP 的 GSAP 动画工作室，浏览器智能体可在其中安全地共同指导和验证网页动效时间线。

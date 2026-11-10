@@ -1,3 +1,11 @@
+---
+title: "OSWorld-MCP: Benchmarking MCP Tool Invocation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24563/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents
 
 OSWorld-MCP evaluates how agents choose between GUI operations and MCP tool calls in computer tasks. It combines generated and curated tools, with 158 manually validated tools across seven applications, to examine tool use alongside task completion.
@@ -26,6 +34,18 @@ Hongrui Jia, Jitong Liao, Xi Zhang, Haiyang Xu, Tianbao Xie, Chaoya Jiang, Ming 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24563/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24563/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24563,
+  title = {{OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents}},
+  author = {{Hongrui Jia} and {Jitong Liao} and {Xi Zhang} and {Haiyang Xu} and {Tianbao Xie} and {Chaoya Jiang} and {Ming Yan} and {Si Liu} and {Wei Ye} and {Fei Huang}},
+  year = {2025},
+  eprint = {2510.24563v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24563v2},
+  note = {First published: 2025-10-28; Recorded arXiv version: v2; Recorded version updated: 2025-11-11T04:10:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "SafeBench: A Safety Evaluation Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-18927/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

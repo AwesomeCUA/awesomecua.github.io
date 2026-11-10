@@ -1,3 +1,11 @@
+---
+title: "Cognitive Kernel-Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Cognitive Kernel-Pro
 
 Cognitive Kernel-Pro is a deep-research agent with a browser-backed web component and multimodal model configuration. Its repository includes code and examples for running research tasks.

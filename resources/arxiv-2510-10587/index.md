@@ -1,3 +1,11 @@
+---
+title: "A Simple and Better Baseline for Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-10587/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Simple and Better Baseline for Visual Grounding
 
 Status: excluded from the active CUA catalog after scope review.

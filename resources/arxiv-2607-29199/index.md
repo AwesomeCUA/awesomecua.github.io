@@ -1,3 +1,11 @@
+---
+title: "Alignment Is Local: A Paired Diagnostic for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-29199/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion
 
 Presents a paired diagnostic of prompt guardrails in GUI agents under screen-grounded user persuasion, comparing single-turn probes with four-turn escalation.
@@ -26,6 +34,18 @@ Haoxin An, Yunpeng Song, Zihao Bai, Zhongmin Cai, Guojun Xiong, Chenhao Lin, Wen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-29199/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-29199/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_29199,
+  title = {{Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion}},
+  author = {{Haoxin An} and {Yunpeng Song} and {Zihao Bai} and {Zhongmin Cai} and {Guojun Xiong} and {Chenhao Lin} and {Wentao Chen} and {Feng Wei} and {Chao Shen}},
+  year = {2026},
+  eprint = {2607.29199v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.29199v1},
+  note = {First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T09:18:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Screen understanding — computer-use…, page 13 | AwesomeCUA"
+url: https://awesomecua.com/topics/screen-understanding/page/13/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Screen understanding — computer-use research, page 13
 
 HTML page: https://awesomecua.com/topics/screen-understanding/page/13/
@@ -41,7 +49,6 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [Marey](https://awesomecua.com/resources/github-badalraj9-marey/)
 - [MarkForge](https://awesomecua.com/resources/github-lannistersyh-markforge/)
 - [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/)
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)
 - [MAWR (Machine-Aware Web Runtime)](https://awesomecua.com/resources/github-iasolutionorg-mawr/)
 - [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/)
 - [mcp-linux-desktop](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-linux-desktop/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [MultimodalWebSurfer](https://awesomecua.com/resources/url-41556fece3bf8a2419ba/)
 - [MVP (Multiple View Prediction)](https://awesomecua.com/resources/github-zjuscl-mvp/)
 - [my_tiny_agent](https://awesomecua.com/resources/github-yanjin101-my-tiny-agent/)
+- [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/)

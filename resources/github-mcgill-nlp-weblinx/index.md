@@ -1,3 +1,11 @@
+---
+title: "WebLINX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcgill-nlp-weblinx/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # WebLINX
 
 Demonstrations and evaluation for conversational web navigation.

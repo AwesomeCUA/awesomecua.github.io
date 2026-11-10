@@ -1,3 +1,11 @@
+---
+title: "RankGround: Efficient High-Resolution GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-18690/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection
 
 RankGround trains a lightweight reranker to select a promising screenshot crop before one VLM localization call. Ranking supervision uses containment and boundary-aware augmentation, with pointwise and listwise training stages.
@@ -26,6 +34,18 @@ Liyang Fan, Xinping Bi, Yitai Li, Shuaimin Li, Hui Li, Min Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-18690/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-18690/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_18690,
+  title = {{RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection}},
+  author = {{Liyang Fan} and {Xinping Bi} and {Yitai Li} and {Shuaimin Li} and {Hui Li} and {Min Yang}},
+  year = {2026},
+  eprint = {2609.18690v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.18690v1},
+  note = {First published: 2026-09-16; Recorded arXiv version: v1; Recorded version updated: 2026-09-16T14:06:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

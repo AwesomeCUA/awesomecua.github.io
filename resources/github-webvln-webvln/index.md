@@ -1,3 +1,11 @@
+---
+title: "WebVLN research implementation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-webvln-webvln/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # WebVLN research implementation
 
 Training and evaluation code for question-guided website navigation that combines visual observations with web-specific HTML information.

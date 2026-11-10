@@ -1,3 +1,11 @@
+---
+title: "BrowserTransactionBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lamenting-hawthorn-browserbench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # BrowserTransactionBench
 
 BrowserTransactionBench 评测自主浏览器智能体的事务安全性、幂等性和重复支出防范能力。

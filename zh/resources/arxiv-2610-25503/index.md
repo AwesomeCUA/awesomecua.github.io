@@ -1,3 +1,11 @@
+---
+title: "From Seeing to Reporting: A Theory of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-25503/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models
 
 FSR 建立视觉结果报告模型，并提出用于冻结视觉语言模型的推理时方法，涵盖屏幕解析与 GUI 目标选择。
@@ -27,6 +35,18 @@ Junzhe Shi, Yuan Gan, Shida Jiang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-25503/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-25503/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_25503,
+  title = {{From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models}},
+  author = {{Junzhe Shi} and {Yuan Gan} and {Shida Jiang}},
+  year = {2026},
+  eprint = {2610.25503v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.25503v1},
+  note = {First published: 2026-10-18; Recorded arXiv version: v1; Recorded version updated: 2026-10-18T19:43:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

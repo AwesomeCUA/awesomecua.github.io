@@ -1,3 +1,11 @@
+---
+title: "HANSEL: Extracting Breadcrumbs from Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-18671/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # HANSEL: Extracting Breadcrumbs from Web Agent Trajectories for Interactive Verification
 
 HANSEL 从浏览器智能体轨迹中提取证据网页和片段，并在交互式核验视图中保留相关网页状态。它标记无法追溯的答案，分别评估证据选择和人工核验所需工作量。
@@ -27,6 +35,18 @@ Yujin Zhang, Daye Nam
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-18671/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-18671/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_18671,
+  title = {{HANSEL: Extracting Breadcrumbs from Web Agent Trajectories for Interactive Verification}},
+  author = {{Yujin Zhang} and {Daye Nam}},
+  year = {2026},
+  eprint = {2606.18671v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.18671v1},
+  note = {First published: 2026-06-17; Recorded arXiv version: v1; Recorded version updated: 2026-06-17T04:13:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

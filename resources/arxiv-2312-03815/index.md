@@ -1,3 +1,11 @@
+---
+title: "LLM as OS, Agents as Apps: Envisioning AIOS… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-03815/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem
 
 Bibliographic record for LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yingqiang Ge, Yujie Ren, Wenyue Hua, Shuyuan Xu, Juntao Tan, Yongfeng Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-03815/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-03815/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_03815,
+  title = {{LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem}},
+  author = {{Yingqiang Ge} and {Yujie Ren} and {Wenyue Hua} and {Shuyuan Xu} and {Juntao Tan} and {Yongfeng Zhang}},
+  year = {2023},
+  eprint = {2312.03815v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.03815v2},
+  note = {First published: 2023-12-06; Recorded arXiv version: v2; Recorded version updated: 2023-12-09T18:10:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

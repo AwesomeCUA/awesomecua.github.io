@@ -1,3 +1,11 @@
+---
+title: "MWU | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ravizhan-mwu/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MWU
 
 A general browser-based interface for MaaFramework resource projects, built with Vue 3 and FastAPI, with two agent run modes, system notifications and automatic updates.

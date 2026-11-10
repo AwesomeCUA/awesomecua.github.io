@@ -1,3 +1,11 @@
+---
+title: "LaSM: Layer-wise Scaling Mechanism for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-10610/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents
 
 LaSM 是一种无需训练的防御方法，通过选择性缩放注意力和 MLP 组件，使模型更关注与任务相关的屏幕区域，并针对基于弹窗的 GUI 注入攻击进行评估。
@@ -27,6 +35,18 @@ Zihe Yan, Jiaping Gui, Zhuosheng Zhang, Gongshen Liu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-10610/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-10610/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_10610,
+  title = {{LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents}},
+  author = {{Zihe Yan} and {Jiaping Gui} and {Zhuosheng Zhang} and {Gongshen Liu}},
+  year = {2025},
+  eprint = {2507.10610v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.10610v3},
+  note = {First published: 2025-07-13; Recorded arXiv version: v3; Recorded version updated: 2026-04-07T11:46:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

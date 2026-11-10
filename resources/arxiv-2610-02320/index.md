@@ -1,3 +1,11 @@
+---
+title: "DeskForge: Dense Supervision from Desktop… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02320/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents
 
 Generates dense desktop supervision by varying real application scenes and combining screenshots, accessibility trees, and window geometry.
@@ -26,6 +34,18 @@ A. Said Gurbuz, Ahmed Nassar, Sunghwan Hong, Marc Pollefeys, Peter W. J. Staar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02320/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02320/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02320,
+  title = {{DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents}},
+  author = {{A. Said Gurbuz} and {Ahmed Nassar} and {Sunghwan Hong} and {Marc Pollefeys} and {Peter W. J. Staar}},
+  year = {2026},
+  eprint = {2610.02320v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02320v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T18:00:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

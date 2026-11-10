@@ -1,3 +1,11 @@
+---
+title: "Hammerspoon | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hammerspoon-hammerspoon/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Hammerspoon
 
 A macOS automation tool connects operating-system functions to Lua scripts, letting users program desktop behavior through extensions.

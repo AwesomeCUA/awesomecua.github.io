@@ -1,3 +1,11 @@
+---
+title: "Manipulating LLM Web Agents with Indirect… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-14799/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree
 
 Studies indirect prompt injection through HTML content consumed as accessibility trees. The evaluation tests how manipulated page observations redirect browser-agent actions on real websites.
@@ -26,6 +34,18 @@ Sam Johnson, Viet Pham, Thai Le
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-14799/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-14799/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_14799,
+  title = {{Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree}},
+  author = {{Sam Johnson} and {Viet Pham} and {Thai Le}},
+  year = {2025},
+  eprint = {2507.14799v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.14799v1},
+  note = {First published: 2025-07-20; Recorded arXiv version: v1; Recorded version updated: 2025-07-20T03:10:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

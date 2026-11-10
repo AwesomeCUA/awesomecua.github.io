@@ -1,3 +1,11 @@
+---
+title: "Threadline WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jameswirths-threadline/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Threadline WebMCP
 
 WebMCP argument debugger and research workspace with human-gated provenance tracking for browser agents.

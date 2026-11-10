@@ -1,3 +1,11 @@
+---
+title: "RewardDance: Reward Scaling in Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-08826/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RewardDance: Reward Scaling in Visual Generation
 
 Status: excluded from the active CUA catalog after scope review.

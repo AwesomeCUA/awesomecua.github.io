@@ -1,3 +1,11 @@
+---
+title: "BadAgents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lancopku-agent-backdoor-attacks/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # BadAgents
 
 BadAgents provides poisoned training datasets and evaluation scripts for query-, observation-, and thought-triggered backdoor attacks on agents.

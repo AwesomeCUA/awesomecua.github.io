@@ -1,3 +1,11 @@
+---
+title: "Model Context Protocol (MCP) at First Glance… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-13538/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers
 
 Status: excluded from the active CUA catalog after scope review.

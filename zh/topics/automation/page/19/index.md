@@ -1,14 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 19 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/19/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 19 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/19/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [NaviFlow](https://awesomecua.com/zh/resources/github-marc-ing-navi-flow/)
-- [Nehemiah](https://awesomecua.com/zh/resources/github-boringcomputers-nehemiah/)
-- [NekoPilot](https://awesomecua.com/zh/resources/github-skyaerope-nekopilot/)
-- [nekoro-browser](https://awesomecua.com/zh/resources/github-zeshuochen-nekoro-browser/)
-- [Nell (Open Source Instinct)](https://awesomecua.com/zh/resources/github-iabdulwasey-nell/)
 - [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/zh/resources/github-vthanhhdev-qirabot-vision-runtime/)
 - [NextGen macOS Computer-Use Agent](https://awesomecua.com/zh/resources/github-nextgen-agentics-computer-use-agent/)
 - [NirvanaX AutoAgent](https://awesomecua.com/zh/resources/github-sayantanthecmd-nirvanax-autoagent/)
@@ -64,3 +67,8 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/19/
 - [open-compute-mcp](https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute-mcp/)
 - [open-computer-use](https://awesomecua.com/zh/resources/github-ifuryst-open-computer-use/)
 - [open-cowork](https://awesomecua.com/zh/resources/github-coasty-ai-open-cowork/)
+- [OpenAdapt Agent](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-agent/)
+- [OpenAdapt Desktop](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-desktop/)
+- [openadapt-flow](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-flow/)
+- [OpenAgent](https://awesomecua.com/zh/resources/github-the-open-agent-openagent/)
+- [OpenAgentFleet](https://awesomecua.com/zh/resources/github-robbyczgw-cla-openagentfleet/)

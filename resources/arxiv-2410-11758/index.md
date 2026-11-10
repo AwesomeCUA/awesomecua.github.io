@@ -1,3 +1,11 @@
+---
+title: "Latent Action Pretraining from Videos | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-11758/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Latent Action Pretraining from Videos
 
 Bibliographic record for Latent Action Pretraining from Videos. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Seonghyeon Ye, Joel Jang, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-11758/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-11758/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_11758,
+  title = {{Latent Action Pretraining from Videos}},
+  author = {{Seonghyeon Ye} and {Joel Jang} and {Byeongguk Jeon} and {Sejune Joo} and {Jianwei Yang} and {Baolin Peng} and {Ajay Mandlekar} and {Reuben Tan} and {Yu-Wei Chao} and {Bill Yuchen Lin} and {Lars Liden} and {Kimin Lee} and {Jianfeng Gao} and {Luke Zettlemoyer} and {Dieter Fox} and {Minjoon Seo}},
+  year = {2024},
+  eprint = {2410.11758v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.11758v2},
+  note = {First published: 2024-10-15; Recorded arXiv version: v2; Recorded version updated: 2025-05-15T12:13:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

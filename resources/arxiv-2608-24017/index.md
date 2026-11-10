@@ -1,3 +1,11 @@
+---
+title: "WebMCP-Phalanx: Enforcing and Characterizing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-24017/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents
 
 Proposes WebMCP-Phalanx, a browser-integrated runtime that binds page-exposed tools to their registering principals and separates content inspection from privileged invocation. It studies lifecycle and prompt-injection attacks, including a timing bypass that motivates validating all visible metadata before tool use.
@@ -26,6 +34,18 @@ Lin-Fa Lee, YI-YU Chang, Kuo-Hui Yeh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-24017/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-24017/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24017,
+  title = {{WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents}},
+  author = {{Lin-Fa Lee} and {YI-YU Chang} and {Kuo-Hui Yeh}},
+  year = {2026},
+  eprint = {2608.24017v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24017v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T03:16:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

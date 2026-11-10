@@ -1,3 +1,11 @@
+---
+title: "lazy-mobile-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-leaf76-lazy-mobile-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # lazy-mobile-mcp
 
 Lazy-mobile-mcp 为 MCP 客户端提供查看和控制 Android 与 iOS 设备的工具，包括截图、触控操作、界面结构导出和性能采样。

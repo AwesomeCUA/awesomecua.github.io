@@ -1,3 +1,11 @@
+---
+title: "Mobile GUI Agent Privacy Personalization… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-11259/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization
 
 提出 Trajectory Induced Preference Optimization (TIPO)，针对结构不同的任务轨迹训练移动 GUI 智能体遵循不同的用户隐私偏好。
@@ -27,6 +35,18 @@ Zhixin Lin, Jungang Li, Dongliang Xu, Shidong Pan, Yibo Shi, Yuchi Liu, Yuecong 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-11259/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-11259/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_11259,
+  title = {{Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization}},
+  author = {{Zhixin Lin} and {Jungang Li} and {Dongliang Xu} and {Shidong Pan} and {Yibo Shi} and {Yuchi Liu} and {Yuecong Min} and {Yue Yao}},
+  year = {2026},
+  eprint = {2604.11259v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.11259v1},
+  note = {First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T10:12:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

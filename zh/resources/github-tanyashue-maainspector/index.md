@@ -1,3 +1,11 @@
+---
+title: "MaaInspector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tanyashue-maainspector/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaInspector
 
 一个基于 Tauri 的 MaaFramework 5 流水线桌面节点编辑器，通过拖拽构建工作流，并在运行和调试节点时显示其执行状态。

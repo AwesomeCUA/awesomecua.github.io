@@ -1,3 +1,11 @@
+---
+title: "AndroidMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qazmko72-android-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AndroidMCP
 
 原生运行于 Android 设备上的 Model Context Protocol 服务器，无需主机 PC 即可直接提供手机 UI 和系统能力。

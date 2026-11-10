@@ -1,3 +1,11 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 7 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/7/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 7 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/7/
@@ -10,7 +18,6 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/7/
 - [bb-browser](https://awesomecua.com/zh/resources/github-epiral-bb-browser/)
 - [bb-sites](https://awesomecua.com/zh/resources/github-epiral-bb-sites/)
 - [bdg - Browser Debugger CLI](https://awesomecua.com/zh/resources/github-szymdzum-browser-debugger-cli/)
-- [Bees Desktop](https://awesomecua.com/zh/resources/github-bees-bot-bees-desktop/)
 - [BeijingWahw DSH Computer Use Plugin](https://awesomecua.com/zh/resources/github-beijingwahw-dsh-computer-use-plugin/)
 - [Better Computer Use](https://awesomecua.com/zh/resources/github-suge8-better-computer-use/)
 - [Better Computer Use (Accessibility MCP)](https://awesomecua.com/zh/resources/github-ridelink0-claude-computer-use/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/7/
 - [Browser4](https://awesomecua.com/zh/resources/github-platonai-browser4/)
 - [Browserable](https://awesomecua.com/zh/resources/github-browserable-browserable/)
 - [BrowserAct Skills](https://awesomecua.com/zh/resources/github-browser-act-skills/)
+- [BrowserCode](https://awesomecua.com/zh/resources/github-browser-use-browsercode/)

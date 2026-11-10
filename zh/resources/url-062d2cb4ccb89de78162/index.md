@@ -1,3 +1,11 @@
+---
+title: "Meta-Llama-3.1-8B-Instruct-value-model-16… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-062d2cb4ccb89de78162/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2
 
 Llama-3.1-8B-Instruct 的 QLoRA 适配器，作为 WMA 网页智能体的价值模型，对世界模型预测的各候选动作结果打分，使智能体选择得分最高的动作。

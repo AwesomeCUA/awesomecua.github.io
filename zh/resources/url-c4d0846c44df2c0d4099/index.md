@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-2B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c4d0846c44df2c0d4099/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-2B-Instruct
 
 这是一个视觉语言模型；其模型卡描述了操作电脑和移动设备界面的视觉智能体能力，包括识别元素和使用工具。此仓库发布了模型权重。

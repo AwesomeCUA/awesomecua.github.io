@@ -1,3 +1,11 @@
+---
+title: "AndroidHowTo · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-debymf-generating-android-howto/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # AndroidHowTo
 
 AndroidHowTo 提供脚本和标注，用于构建将操作指南步骤与 Android 屏幕关联的移动端 UI 动作数据集。

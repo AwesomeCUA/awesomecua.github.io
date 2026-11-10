@@ -1,3 +1,11 @@
+---
+title: "Oculr MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-oculr-ai-oculr-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Oculr MCP
 
 Model Context Protocol 服务器，通过 MCP 和原始 CDP 操控隔离的防检测 Oculr Chromium 配置文件。

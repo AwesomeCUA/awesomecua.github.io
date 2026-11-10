@@ -1,3 +1,11 @@
+---
+title: "C-World: A Computer Use Agent Environment… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-06328/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # C-World: A Computer Use Agent Environment Creator
 
 Bibliographic record for C-World: A Computer Use Agent Environment Creator. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ziqiao Xi, Shuang Liang, Qi Liu, Jiaqing Zhang, Letian Peng, Fang Nan, Meshal Na
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-06328/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-06328/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_06328,
+  title = {{C-World: A Computer Use Agent Environment Creator}},
+  author = {{Ziqiao Xi} and {Shuang Liang} and {Qi Liu} and {Jiaqing Zhang} and {Letian Peng} and {Fang Nan} and {Meshal Nayim} and {Tianhui Zhang} and {Rishika Mundada} and {Lianhui Qin} and {Biwei Huang} and {Kun Zhou}},
+  year = {2026},
+  eprint = {2601.06328v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.06328v2},
+  note = {First published: 2026-01-09; Recorded arXiv version: v2; Recorded version updated: 2026-04-19T04:36:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

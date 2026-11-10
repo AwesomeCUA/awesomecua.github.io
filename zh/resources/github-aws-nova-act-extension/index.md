@@ -1,3 +1,11 @@
+---
+title: "Nova Act Extension · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aws-nova-act-extension/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Nova Act Extension
 
 一个适用于 VS Code、Kiro 和 Cursor 的扩展，用于编写 Nova Act 浏览器智能体脚本，提供对话生成脚本、7 个模板、实时调试、动作查看器和 AWS 部署功能。

@@ -1,3 +1,11 @@
+---
+title: "CODA-PLANNER-TARS-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cf16d0a4a05ea7270ffa/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # CODA-PLANNER-TARS-32B
 
 CODA-PLANNER-TARS-32B 是面向科学软件训练的图形界面智能体规划模型检查点，可在 ScienceBoard 中与专用执行模型配合使用。

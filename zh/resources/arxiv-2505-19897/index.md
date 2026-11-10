@@ -1,3 +1,11 @@
+---
+title: "ScienceBoard: Evaluating Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-19897/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows
 
 ScienceBoard 结合交互环境、专业科研软件及 169 项人工设计的任务，领域包括生物化学、天文学和地理信息学；它在视觉内容丰富的科研流程中评估计算机使用智能体，并分析其执行局限。
@@ -27,6 +35,18 @@ Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Hai
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-19897/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-19897/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_19897,
+  title = {{ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows}},
+  author = {{Qiushi Sun} and {Zhoumianze Liu} and {Chang Ma} and {Zichen Ding} and {Fangzhi Xu} and {Zhangyue Yin} and {Haiteng Zhao} and {Zhenyu Wu} and {Kanzhi Cheng} and {Zhaoyang Liu} and {Jianing Wang} and {Qintong Li} and {Xiangru Tang} and {Tianbao Xie} and {Xiachong Feng} and {Xiang Li} and {Ben Kao} and {Wenhai Wang} and {Biqing Qi} and {Lingpeng Kong} and {Zhiyong Wu}},
+  year = {2025},
+  eprint = {2505.19897v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.19897v3},
+  note = {First published: 2025-05-26; Recorded arXiv version: v3; Recorded version updated: 2026-04-20T16:29:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

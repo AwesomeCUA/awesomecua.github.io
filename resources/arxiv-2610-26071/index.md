@@ -1,3 +1,11 @@
+---
+title: "CUA-Lite: An Open Platform for Computer Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26071/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # CUA-Lite: An Open Platform for Computer Use Agents
 
 CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.
@@ -26,6 +34,18 @@ Zhanhui Zhou, Weichen Zhang, Haoran Liu, Lingjie Chen, Tianneng Shi, Kevin Lin, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26071/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26071/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26071,
+  title = {{CUA-Lite: An Open Platform for Computer Use Agents}},
+  author = {{Zhanhui Zhou} and {Weichen Zhang} and {Haoran Liu} and {Lingjie Chen} and {Tianneng Shi} and {Kevin Lin} and {Zhengyuan Yang} and {Lijuan Wang} and {Dawn Song}},
+  year = {2026},
+  eprint = {2610.26071v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26071v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T09:30:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

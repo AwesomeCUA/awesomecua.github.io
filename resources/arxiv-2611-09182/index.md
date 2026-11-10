@@ -1,3 +1,11 @@
+---
+title: "A Tutorial on Practical QKD Post-Processing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-09182/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # A Tutorial on Practical QKD Post-Processing Algorithms Using a GUI-Based Simulation Framework
 
 Bibliographic record for A Tutorial on Practical QKD Post-Processing Algorithms Using a GUI-Based Simulation Framework. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ushnik Nath, Neha Sharma, Ramniwas Meena, Neel Kanth Kundu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-09182/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-09182/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_09182,
+  title = {{A Tutorial on Practical QKD Post-Processing Algorithms Using a GUI-Based Simulation Framework}},
+  author = {{Ushnik Nath} and {Neha Sharma} and {Ramniwas Meena} and {Neel Kanth Kundu}},
+  year = {2026},
+  eprint = {2611.09182v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.09182v1},
+  note = {First published: 2026-11-06; Recorded arXiv version: v1; Recorded version updated: 2026-11-06T09:02:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

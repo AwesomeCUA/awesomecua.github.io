@@ -1,3 +1,11 @@
+---
+title: "LegacyBridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-peterhaupt-legacybridge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LegacyBridge
 
 Local open-weight LLM agent framework for automating legacy enterprise ERP and business desktop software without APIs.

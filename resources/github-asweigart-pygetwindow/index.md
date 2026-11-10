@@ -1,3 +1,11 @@
+---
+title: "PyGetWindow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-asweigart-pygetwindow/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # PyGetWindow
 
 PyGetWindow is a Python utility for finding and controlling desktop application windows. Its documented implementation supports Windows window titles, positions, sizes, and state changes.

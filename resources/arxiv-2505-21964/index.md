@@ -1,3 +1,11 @@
+---
+title: "UI-Evol: Automatic Knowledge Evolving for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-21964/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # UI-Evol: Automatic Knowledge Evolving for Computer Use Agents
 
 Introduces UI-Evol, which extracts action sequences from agent interactions and critiques external guidance against those traces. Evaluation on OSWorld examines how revised operational knowledge affects execution and behavioral consistency.
@@ -26,6 +34,18 @@ Ziyun Zhang, Xinyi Liu, Xiaoyi Zhang, Jun Wang, Gang Chen, Yan Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-21964/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-21964/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_21964,
+  title = {{UI-Evol: Automatic Knowledge Evolving for Computer Use Agents}},
+  author = {{Ziyun Zhang} and {Xinyi Liu} and {Xiaoyi Zhang} and {Jun Wang} and {Gang Chen} and {Yan Lu}},
+  year = {2025},
+  eprint = {2505.21964v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.21964v2},
+  note = {First published: 2025-05-28; Recorded arXiv version: v2; Recorded version updated: 2025-11-03T08:44:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

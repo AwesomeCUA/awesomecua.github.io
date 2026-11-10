@@ -1,3 +1,11 @@
+---
+title: "Learning to Look Beyond Screens… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-37093/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding
 
 提出 LBS，利用 GUI 定位轨迹和裁剪查看决策训练视觉语言模型，研究主动视觉观察能力的迁移。
@@ -27,6 +35,18 @@ Ruilin Yao, Xinyu Qiu, Tianyu Zou, Yi Rong, Shengwu Xiong, Shuheng Shen, Changhu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-37093/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-37093/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37093,
+  title = {{Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding}},
+  author = {{Ruilin Yao} and {Xinyu Qiu} and {Tianyu Zou} and {Yi Rong} and {Shengwu Xiong} and {Shuheng Shen} and {Changhua Meng}},
+  year = {2026},
+  eprint = {2610.37093v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37093v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T11:56:00Z.}
+}
+```
 
 ## arXiv 版本记录
 

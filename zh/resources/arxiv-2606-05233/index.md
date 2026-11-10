@@ -1,3 +1,11 @@
+---
+title: "Domain-Conditioned Safety in Frontier… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-05233/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming
 
 CUA-HandCrafted 是改变攻击模板、任务和系统提示词的浏览器智能体红队测试基准。其领域比较和可复现性审查提醒：浏览器界面的安全结论不宜直接用于编程智能体或未公开的优化注入。
@@ -27,6 +35,18 @@ Nicholas Saban
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-05233/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-05233/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_05233,
+  title = {{Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming}},
+  author = {{Nicholas Saban}},
+  year = {2026},
+  eprint = {2606.05233v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.05233v1},
+  note = {First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T01:21:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Holo4 27B BF16 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo4 27B BF16
 
 Dense 27B computer-use checkpoint from H Company built on Qwen3.8-27B; an external harness sends it screenshots and tool results and executes the clicks, typing, code and tool calls it requests.

@@ -1,3 +1,11 @@
+---
+title: "SecAgent: Efficient Mobile GUI Agent with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-08533/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SecAgent: Efficient Mobile GUI Agent with Semantic Context
 
 Presents a Chinese mobile GUI dataset and navigation benchmark together with SecAgent, which compresses previous screenshots and actions into semantic summaries. The agent is trained with supervised and reinforcement fine-tuning to use this compact interaction context.
@@ -26,6 +34,18 @@ Yiping Xie, Song Chen, Jingxuan Xing, Wei Jiang, Zekun Zhu, Yingyao Wang, Pi Bu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-08533/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-08533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_08533,
+  title = {{SecAgent: Efficient Mobile GUI Agent with Semantic Context}},
+  author = {{Yiping Xie} and {Song Chen} and {Jingxuan Xing} and {Wei Jiang} and {Zekun Zhu} and {Yingyao Wang} and {Pi Bu} and {Jun Song} and {Yuning Jiang} and {Bo Zheng}},
+  year = {2026},
+  eprint = {2603.08533v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.08533v2},
+  note = {First published: 2026-03-09; Recorded arXiv version: v2; Recorded version updated: 2026-03-31T03:08:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

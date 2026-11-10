@@ -1,3 +1,11 @@
+---
+title: "DjangoAILab DSH Plugins · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-djangoailab-dsh-plugins/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DjangoAILab DSH Plugins
 
 面向 DeepSeek Harness、设有约束机制的插件套件，涵盖浏览器自动化、桌面控制、子智能体和远程服务器。

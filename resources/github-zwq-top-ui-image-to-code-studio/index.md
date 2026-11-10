@@ -1,3 +1,11 @@
+---
+title: "UI Image to Code Studio | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UI Image to Code Studio
 
 Codex skill for converting UI screenshots and live websites into React, Vue, or HTML code with visual browser verification.

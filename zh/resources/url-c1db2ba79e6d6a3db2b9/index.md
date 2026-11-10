@@ -1,3 +1,11 @@
+---
+title: "ScreenRef Annotations · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c1db2ba79e6d6a3db2b9/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # ScreenRef Annotations
 
 ScreenRef 的标注文件、任务配置和图像清单；截图存放在单独的受限访问图像仓库中。

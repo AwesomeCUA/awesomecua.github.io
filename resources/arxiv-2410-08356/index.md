@@ -1,3 +1,11 @@
+---
+title: "SummAct: Uncovering User Intentions Through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-08356/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation
 
 Bibliographic record for SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guanhua Zhang, Mohamed Ahmed, Zhiming Hu, Andreas Bulling
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-08356/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-08356/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_08356,
+  title = {{SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation}},
+  author = {{Guanhua Zhang} and {Mohamed Ahmed} and {Zhiming Hu} and {Andreas Bulling}},
+  year = {2024},
+  eprint = {2410.08356v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.08356v1},
+  note = {First published: 2024-10-10; Recorded arXiv version: v1; Recorded version updated: 2024-10-10T20:23:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

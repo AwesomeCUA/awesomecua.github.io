@@ -1,3 +1,11 @@
+---
+title: "Safety & security — computer-use…, page 10 | AwesomeCUA"
+url: https://awesomecua.com/topics/safety-security/page/10/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Safety & security — computer-use research, page 10
 
 HTML page: https://awesomecua.com/topics/safety-security/page/10/

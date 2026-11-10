@@ -1,3 +1,11 @@
+---
+title: "GUICrafter: Weakly-Supervised GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-29705/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots
 
 GUICrafter 先从大量未标注截图和网页中学习定位，再用规模较小的高质量数据集进行强化学习校准。这一训练流程旨在减少对人工标注 GUI 训练数据的依赖。
@@ -27,6 +35,18 @@ Sunqi Fan, Lingshan Chen, Runqi Yin, Qingle Liu, Yongming Rao, Meng-Hao Guo, Shi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-29705/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-29705/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_29705,
+  title = {{GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots}},
+  author = {{Sunqi Fan} and {Lingshan Chen} and {Runqi Yin} and {Qingle Liu} and {Yongming Rao} and {Meng-Hao Guo} and {Shi-Min Hu}},
+  year = {2026},
+  eprint = {2606.29705v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.29705v1},
+  note = {First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T02:16:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

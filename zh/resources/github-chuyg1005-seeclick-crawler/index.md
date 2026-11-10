@@ -1,3 +1,11 @@
+---
+title: "GUI Grounding Pre-training Data for… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chuyg1005-seeclick-crawler/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # GUI Grounding Pre-training Data for SeeClick
 
 SeeClick 数据采集工具，使用 Common Crawl 网址和 Selenium 抓取网页，提取用于预训练的页面元素定位数据。

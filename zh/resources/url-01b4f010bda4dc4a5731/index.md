@@ -1,3 +1,11 @@
+---
+title: "MyPCBench VM images · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-01b4f010bda4dc4a5731/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # MyPCBench VM images
 
 MyPCBench VM images 提供虚拟机磁盘镜像，用于在预置网页应用中评测计算机操作智能体，并附有包含评分标准的任务集。

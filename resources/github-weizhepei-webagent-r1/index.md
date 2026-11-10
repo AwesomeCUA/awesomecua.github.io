@@ -1,3 +1,11 @@
+---
+title: "WebAgent-R1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-weizhepei-webagent-r1/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # WebAgent-R1
 
 Environment setup, multi-turn reinforcement-learning and evaluation tooling for browser agents interacting with WebArena.

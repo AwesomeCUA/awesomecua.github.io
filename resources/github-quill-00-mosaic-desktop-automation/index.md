@@ -1,3 +1,11 @@
+---
+title: "Mosaic Desktop Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-quill-00-mosaic-desktop-automation/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Mosaic Desktop Automation
 
 Local-first Windows dashboard for scheduling, watching, and auditing desktop automation agents.

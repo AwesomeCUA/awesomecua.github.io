@@ -1,3 +1,11 @@
+---
+title: "NL2Repo-Bench: Towards Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-12730/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents
 
 Status: excluded from the active CUA catalog after scope review.

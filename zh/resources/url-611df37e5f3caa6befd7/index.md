@@ -1,3 +1,11 @@
+---
+title: "UI-Venus 2 9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-611df37e5f3caa6befd7/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # UI-Venus 2 9B
 
 UI-Venus 2 是基于 Qwen3.5-9B 微调的 GUI 智能体检查点，采用 Qwen3.5 多模态架构，约有 9.4B 个 BF16 参数，可通过 Transformers 加载以执行图文到文本任务。

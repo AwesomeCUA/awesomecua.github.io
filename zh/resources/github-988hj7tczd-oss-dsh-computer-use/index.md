@@ -1,3 +1,11 @@
+---
+title: "988hj7tczd-oss dsh-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-988hj7tczd-oss-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # 988hj7tczd-oss dsh-computer-use
 
 跨平台 DeepSeek Harness 计算机使用插件，具备独立虚拟光标、UI 定位和桌面输入功能。

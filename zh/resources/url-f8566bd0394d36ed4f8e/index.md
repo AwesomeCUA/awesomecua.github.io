@@ -1,3 +1,11 @@
+---
+title: "Aria-UI Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f8566bd0394d36ed4f8e/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # Aria-UI Data
 
 涵盖网页、移动端和 Ubuntu 桌面界面的 GUI 元素描述与定位指令。

@@ -1,3 +1,11 @@
+---
+title: "Improving Language Understanding from… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-14073/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Improving Language Understanding from Screenshots
 
 Studies language understanding from text-rendered screenshots using joint image-patch and text prediction; a perception foundation relevant to screen-reading models.
@@ -26,6 +34,18 @@ Tianyu Gao, Zirui Wang, Adithya Bhaskar, Danqi Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-14073/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-14073/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_14073,
+  title = {{Improving Language Understanding from Screenshots}},
+  author = {{Tianyu Gao} and {Zirui Wang} and {Adithya Bhaskar} and {Danqi Chen}},
+  year = {2024},
+  eprint = {2402.14073v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.14073v1},
+  note = {First published: 2024-02-21; Recorded arXiv version: v1; Recorded version updated: 2024-02-21T19:01:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

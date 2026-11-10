@@ -1,3 +1,11 @@
+---
+title: "LibreAutomate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qgindi-libreautomate/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # LibreAutomate
 
 LibreAutomate is a C# script editor and Windows automation library supporting UI Automation, accessibility trees, image matching, and OCR.

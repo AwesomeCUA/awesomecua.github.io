@@ -1,3 +1,11 @@
+---
+title: "Camoufox Playwright MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chandu-cpz-camoufox-playwright-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Camoufox Playwright MCP
 
 Drop-in Playwright Model Context Protocol server running on the Camoufox stealth Firefox engine.

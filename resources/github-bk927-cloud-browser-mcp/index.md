@@ -1,3 +1,11 @@
+---
+title: "Self-Hosted Cloud Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bk927-cloud-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Self-Hosted Cloud Browser MCP
 
 Self-hosted Chromium MCP server with isolated browser profiles, OAuth authentication, and human takeover support.

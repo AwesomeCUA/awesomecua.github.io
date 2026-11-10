@@ -1,3 +1,11 @@
+---
+title: "CulebraTester2 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dtmilano-culebratester2-public/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # CulebraTester2
 
 一个运行在 Android 设备上的服务器，通过 REST API 支持 UI 测试自动化：截图、窗口层级导出和控件操作，并作为 AndroidViewClient/culebra 的后端。

@@ -1,3 +1,11 @@
+---
+title: "Playwright Flow Tester MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sadiuysal-playwright-flow-tester/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Playwright Flow Tester MCP
 
 可参数化的 UI/UX 流程测试套件，通过 Playwright 集成 Model Context Protocol 和结构化执行日志。

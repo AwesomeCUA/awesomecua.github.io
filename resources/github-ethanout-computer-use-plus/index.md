@@ -1,3 +1,11 @@
+---
+title: "computer-use-plus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ethanout-computer-use-plus/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # computer-use-plus
 
 Low-token, low-latency Windows computer-use MCP server with learned action shortcuts and hybrid UIA/CDP/OCR routing.

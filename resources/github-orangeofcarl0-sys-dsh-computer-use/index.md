@@ -1,3 +1,11 @@
+---
+title: "orangeofcarl0-sys dsh-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-orangeofcarl0-sys-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # orangeofcarl0-sys dsh-computer-use
 
 Windows desktop computer-use plugin for DeepSeek Harness featuring numbered UI element grounding and background-first input delivery.

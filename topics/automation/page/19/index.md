@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 19 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/19/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 19
 
 HTML page: https://awesomecua.com/topics/automation/page/19/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [NaviFlow](https://awesomecua.com/resources/github-marc-ing-navi-flow/)
-- [Nehemiah](https://awesomecua.com/resources/github-boringcomputers-nehemiah/)
-- [NekoPilot](https://awesomecua.com/resources/github-skyaerope-nekopilot/)
-- [nekoro-browser](https://awesomecua.com/resources/github-zeshuochen-nekoro-browser/)
-- [Nell (Open Source Instinct)](https://awesomecua.com/resources/github-iabdulwasey-nell/)
 - [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/)
 - [NextGen macOS Computer-Use Agent](https://awesomecua.com/resources/github-nextgen-agentics-computer-use-agent/)
 - [NirvanaX AutoAgent](https://awesomecua.com/resources/github-sayantanthecmd-nirvanax-autoagent/)
@@ -64,3 +67,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [open-compute-mcp](https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/)
 - [open-computer-use](https://awesomecua.com/resources/github-ifuryst-open-computer-use/)
 - [open-cowork](https://awesomecua.com/resources/github-coasty-ai-open-cowork/)
+- [OpenAdapt Agent](https://awesomecua.com/resources/github-openadaptai-openadapt-agent/)
+- [OpenAdapt Desktop](https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/)
+- [openadapt-flow](https://awesomecua.com/resources/github-openadaptai-openadapt-flow/)
+- [OpenAgent](https://awesomecua.com/resources/github-the-open-agent-openagent/)
+- [OpenAgentFleet](https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/)

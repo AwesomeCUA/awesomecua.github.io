@@ -1,3 +1,11 @@
+---
+title: "DroidLume Agent Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tageecc-droidlume-agent-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DroidLume Agent Control
 
 npm-distributed CLI, Model Context Protocol server, and standalone Android companion app for AI phone control.

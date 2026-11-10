@@ -1,3 +1,11 @@
+---
+title: "Encoding Integers and Rationals on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2208-07468/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Encoding Integers and Rationals on Neuromorphic Computers using Virtual Neuron
 
 Status: excluded from the active CUA catalog after scope review.

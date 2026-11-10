@@ -1,3 +1,11 @@
+---
+title: "Vadgr | AwesomeCUA"
+url: https://awesomecua.com/resources/github-montbrain-vadgr/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Vadgr
 
 Vadgr runs agent tasks on a desktop computer through a CLI or phone app, using screenshots and input controls for optional app automation.

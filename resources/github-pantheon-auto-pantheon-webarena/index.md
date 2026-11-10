@@ -1,3 +1,11 @@
+---
+title: "pantheon-webarena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # pantheon-webarena
 
 pantheon-webarena packages containerized WebArena environments with reset, health-check, and parallel evaluation utilities for web agents.

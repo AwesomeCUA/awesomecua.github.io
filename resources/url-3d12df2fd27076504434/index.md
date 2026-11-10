@@ -1,3 +1,11 @@
+---
+title: "jacklishufan/MobileWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3d12df2fd27076504434/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # jacklishufan/MobileWorld
 
 Annotation archive for the MobileWorldBench training data: one tar with parquet subsets built on AiTW and AndroidControl screens plus a cleaned QA split, for fine-tuning mobile semantic world models.

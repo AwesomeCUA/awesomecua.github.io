@@ -1,3 +1,11 @@
+---
+title: "Gelato-30B-A3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-46502d87b2c13515790a/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Gelato-30B-A3B
 
 Qwen3-VL-30B-A3B-Instruct 检查点在 Click-100k 上使用 GRPO 训练，根据截图和元素描述返回一个归一化到 0–1000 范围的(x,y)点击坐标。

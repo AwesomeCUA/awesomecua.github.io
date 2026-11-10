@@ -1,3 +1,11 @@
+---
+title: "Browser Use Cloud | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ef244017b1460269fc68/
+updated: 2026-10-18
+type: product
+lang: en
+---
+
 # Browser Use Cloud
 
 Hosted browser-agent platform from Browser Use.

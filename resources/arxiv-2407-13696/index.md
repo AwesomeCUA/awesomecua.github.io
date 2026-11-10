@@ -1,3 +1,11 @@
+---
+title: "Do These LLM Benchmarks Agree? Fixing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-13696/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Do These LLM Benchmarks Agree? Fixing Benchmark Evaluation with BenchBench
 
 Status: excluded from the active CUA catalog after scope review.

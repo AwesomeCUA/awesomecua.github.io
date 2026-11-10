@@ -1,3 +1,11 @@
+---
+title: "Model-3b-3ao | AwesomeCUA"
+url: https://awesomecua.com/resources/url-477342b0eb81469b35a0/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Model-3b-3ao
 
 A released GUI-agent checkpoint associated with CCPO, which uses coordinate-aware visual compression and distance-based training feedback for multi-turn interface tasks.

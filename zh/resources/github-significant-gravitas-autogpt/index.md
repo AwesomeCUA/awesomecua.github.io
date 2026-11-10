@@ -1,3 +1,11 @@
+---
+title: "AutoGPT · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-significant-gravitas-autogpt/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AutoGPT
 
 AutoGPT 是开源自主智能体平台，用于构建、编排和运行执行多步骤网页与工作区自动化的智能体。

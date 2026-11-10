@@ -1,3 +1,11 @@
+---
+title: "Set of Mark | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-som/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # Set of Mark
 
 Visual-prompting toolbox that labels image regions for multimodal reference and grounding, including GUI applications.

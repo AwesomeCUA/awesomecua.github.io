@@ -1,3 +1,11 @@
+---
+title: "DSH Vision Toolkit · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anionex-dsh-vision-toolkit/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # DSH Vision Toolkit
 
 DSH Vision Toolkit 为 DeepSeek Harness 智能体添加截图读取、视觉定位、界面重建和像素比对工具。

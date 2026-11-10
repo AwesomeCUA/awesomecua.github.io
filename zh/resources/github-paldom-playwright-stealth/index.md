@@ -1,3 +1,11 @@
+---
+title: "paldom playwright-stealth Skills · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-paldom-playwright-stealth/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # paldom playwright-stealth Skills
 
 使用 CloakBrowser 和 Playwright 实现隐蔽浏览器自动化的 Agent Skills 包。

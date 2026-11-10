@@ -1,3 +1,11 @@
+---
+title: "MDiff4STR: Mask Diffusion Model for Scene… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-01422/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MDiff4STR: Mask Diffusion Model for Scene Text Recognition
 
 Bibliographic record for MDiff4STR: Mask Diffusion Model for Scene Text Recognition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yongkun Du, Miaomiao Zhao, Songlin Fan, Zhineng Chen, Caiyan Jia, Yu-Gang Jiang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-01422/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-01422/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_01422,
+  title = {{MDiff4STR: Mask Diffusion Model for Scene Text Recognition}},
+  author = {{Yongkun Du} and {Miaomiao Zhao} and {Songlin Fan} and {Zhineng Chen} and {Caiyan Jia} and {Yu-Gang Jiang}},
+  year = {2025},
+  eprint = {2512.01422v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.01422v1},
+  note = {First published: 2025-12-01; Recorded arXiv version: v1; Recorded version updated: 2025-12-01T08:57:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

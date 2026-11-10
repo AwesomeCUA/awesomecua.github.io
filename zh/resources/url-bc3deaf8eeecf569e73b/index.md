@@ -1,3 +1,11 @@
+---
+title: "Code2World-8B checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bc3deaf8eeecf569e73b/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Code2World-8B checkpoint
 
 已发布的 GUI 世界模型检查点，将截图和拟执行的操作转换为 HTML，以渲染预测的下一屏幕。

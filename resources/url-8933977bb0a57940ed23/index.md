@@ -1,3 +1,11 @@
+---
+title: "ShowUI-web | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8933977bb0a57940ed23/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # ShowUI-web
 
 Web-interface grounding examples with instructions, element boxes and points, paired with a separately packaged screenshot archive.

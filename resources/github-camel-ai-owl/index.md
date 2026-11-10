@@ -1,3 +1,11 @@
+---
+title: "OWL (Optimized Workforce Learning) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-camel-ai-owl/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OWL (Optimized Workforce Learning)
 
 OWL is a multi-agent automation framework built on CAMEL-AI for browser interaction, document processing, and real-world task execution.

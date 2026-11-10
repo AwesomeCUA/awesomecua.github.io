@@ -1,3 +1,11 @@
+---
+title: "Improved Quantum Computation using Operator… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-01897/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Improved Quantum Computation using Operator Backpropagation
 
 Status: excluded from the active CUA catalog after scope review.

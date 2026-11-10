@@ -1,3 +1,11 @@
+---
+title: "CaptiOCR · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-carlosacchi-captiocr/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CaptiOCR
 
 CaptiOCR 是由 Tesseract 驱动的实时 Windows 屏幕区域 OCR 和文本提取工具，面向桌面工作流程。

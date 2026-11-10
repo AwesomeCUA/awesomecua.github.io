@@ -1,3 +1,11 @@
+---
+title: "GUI-Xplore · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f56dbd8bfac8b0545e07/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Xplore
 
 按 Android 应用整理的探索视频，含截图与操作序列、视图层级，以及应用概览、页面分析、操作回忆、序列验证等五类任务的问答对。

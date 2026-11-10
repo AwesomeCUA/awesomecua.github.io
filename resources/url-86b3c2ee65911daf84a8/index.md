@@ -1,3 +1,11 @@
+---
+title: "FedMABench data partitions | AwesomeCUA"
+url: https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # FedMABench data partitions
 
 Six families of JSONL partitions of AndroidControl and AitW mobile-agent episodes for FedMABench federated training under app, category and step/episode heterogeneity; screenshots must be rebuilt from the sources.

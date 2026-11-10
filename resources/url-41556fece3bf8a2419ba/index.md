@@ -1,3 +1,11 @@
+---
+title: "MultimodalWebSurfer | AwesomeCUA"
+url: https://awesomecua.com/resources/url-41556fece3bf8a2419ba/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # MultimodalWebSurfer
 
 MultimodalWebSurfer operates a Chromium browser through Playwright, using marked screenshots and a multimodal model to choose actions on web pages.

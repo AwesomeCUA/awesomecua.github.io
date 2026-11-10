@@ -1,3 +1,11 @@
+---
+title: "When Faster Decisions Do Not Make Better… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-13092/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows
 
 在 3 个 AndroidWorld 智能体和 2 个文本版 ALFWorld 智能体中评估作为有界动作选择器的 Jev，分别考察决策开销节省、任务成功率、恢复情况及每项交付结果的资源消耗。
@@ -27,6 +35,18 @@ Yuchen Ling, Shengcheng Yu, Zhenyu Chen, Chunrong Fang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-13092/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-13092/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13092,
+  title = {{When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows}},
+  author = {{Yuchen Ling} and {Shengcheng Yu} and {Zhenyu Chen} and {Chunrong Fang}},
+  year = {2026},
+  eprint = {2610.13092v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13092v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T06:45:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

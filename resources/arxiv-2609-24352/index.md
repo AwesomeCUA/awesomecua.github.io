@@ -1,3 +1,11 @@
+---
+title: "Few-Shot Demonstrations Elicit the Use of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-24352/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs
 
 Bibliographic record for Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kohsei Matsutani, Gouki Minegishi, Core Francisco Park, Takeshi Kojima, Yusuke I
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-24352/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-24352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_24352,
+  title = {{Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs}},
+  author = {{Kohsei Matsutani} and {Gouki Minegishi} and {Core Francisco Park} and {Takeshi Kojima} and {Yusuke Iwasawa} and {Yutaka Matsuo}},
+  year = {2026},
+  eprint = {2609.24352v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.24352v1},
+  note = {First published: 2026-09-21; Recorded arXiv version: v1; Recorded version updated: 2026-09-21T09:44:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

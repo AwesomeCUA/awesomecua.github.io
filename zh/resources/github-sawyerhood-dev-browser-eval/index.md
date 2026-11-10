@@ -1,3 +1,11 @@
+---
+title: "Dev Browser Eval · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sawyerhood-dev-browser-eval/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Dev Browser Eval
 
 Dev Browser Eval 在游戏追踪网页应用的任务中比较三种浏览器自动化方法，并根据重复运行的结果生成报告。

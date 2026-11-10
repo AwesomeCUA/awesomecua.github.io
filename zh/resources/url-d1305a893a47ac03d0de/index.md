@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-8B-Thinking · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d1305a893a47ac03d0de/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-8B-Thinking
 
 通用视觉语言模型权重；其视觉智能体能力包括识别电脑与移动端界面元素，并调用工具完成任务。

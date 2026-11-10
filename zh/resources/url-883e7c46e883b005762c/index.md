@@ -1,3 +1,11 @@
+---
+title: "BlenderWorld (huggingface.co/datasets/Q… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-883e7c46e883b005762c/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # BlenderWorld
 
 一项包含 223 个 Blender 创作任务的基准，输入涵盖文本、图像和视频。智能体提交可编辑项目，由评测程序渲染并依据评分细则评估。

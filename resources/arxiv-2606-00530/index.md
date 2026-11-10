@@ -1,3 +1,11 @@
+---
+title: "Sakura: An Approach for Generating Complex… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-00530/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Sakura: An Approach for Generating Complex Tests from Natural Language Test Descriptions
 
 Status: excluded from the active CUA catalog after scope review.

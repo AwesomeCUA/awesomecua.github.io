@@ -1,3 +1,11 @@
+---
+title: "RLVR-World: Training World Models with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-13934/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # RLVR-World: Training World Models with Reinforcement Learning
 
 Bibliographic record for RLVR-World: Training World Models with Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jialong Wu, Shaofeng Yin, Ningya Feng, Mingsheng Long
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-13934/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-13934/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_13934,
+  title = {{RLVR-World: Training World Models with Reinforcement Learning}},
+  author = {{Jialong Wu} and {Shaofeng Yin} and {Ningya Feng} and {Mingsheng Long}},
+  year = {2025},
+  eprint = {2505.13934v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.13934v2},
+  note = {First published: 2025-05-20; Recorded arXiv version: v2; Recorded version updated: 2025-10-25T02:00:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

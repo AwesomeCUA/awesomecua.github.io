@@ -1,3 +1,11 @@
+---
+title: "computer-use-mcp (github.com/minghinmatth… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-minghinmatthewlam-computer-use-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # computer-use-mcp
 
 这是让智能体检查和操作 macOS 应用的 Swift MCP 服务器。其共享引擎管理辅助功能、屏幕捕获和输入操作。

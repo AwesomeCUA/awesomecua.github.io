@@ -1,3 +1,11 @@
+---
+title: "Enhanced-Fidelity Ultrafast Geometric Quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-06831/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Enhanced-Fidelity Ultrafast Geometric Quantum Computation Using Strong Classical Drives
 
 Status: excluded from the active CUA catalog after scope review.

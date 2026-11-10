@@ -1,3 +1,11 @@
+---
+title: "Evil Geniuses: Delving into the Safety of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-11855/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Evil Geniuses: Delving into the Safety of LLM-based Agents
 
 Status: excluded from the active CUA catalog after scope review.

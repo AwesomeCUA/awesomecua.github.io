@@ -1,3 +1,11 @@
+---
+title: "DeskVNC · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-psmux-deskvnc/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DeskVNC
 
 纯 Rust 实现的 VNC、RDP 和 SSH 远程桌面客户端，配有用于管理智能体和远程机器的 Tauri UI。

@@ -1,3 +1,11 @@
+---
+title: "Verisim · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clay-good-verisim/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Verisim
 
 Verisim 是覆盖范围认证工具和对抗性评测套件，用于测试计算机使用智能体及工具智能体的执行前防护规则。

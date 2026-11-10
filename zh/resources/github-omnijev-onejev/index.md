@@ -1,3 +1,11 @@
+---
+title: "OneJev · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-omnijev-onejev/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # OneJev
 
 OneJev 是基于 Qwen 的多模态 System-One 决策模型，可返回不同类型动作选项的校准概率。

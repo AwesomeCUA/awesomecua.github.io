@@ -1,3 +1,11 @@
+---
+title: "Aggressive Quadrotor Flight through Narrow… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1612-00291/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Aggressive Quadrotor Flight through Narrow Gaps with Onboard Sensing and Computing using Active Vision
 
 Status: excluded from the active CUA catalog after scope review.

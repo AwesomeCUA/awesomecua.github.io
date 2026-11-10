@@ -1,3 +1,11 @@
+---
+title: "fingerprint-suite · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-apify-fingerprint-suite/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # fingerprint-suite
 
 Fingerprint Suite 生成浏览器指纹，并将其注入 Playwright 或 Puppeteer 浏览器会话。其软件包还可生成可配置的 HTTP 请求头。

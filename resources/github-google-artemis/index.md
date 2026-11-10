@@ -1,3 +1,11 @@
+---
+title: "ARTEMIS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-artemis/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # ARTEMIS
 
 ARTEMIS is an Android agent that carries out natural-language tasks across apps. It targets UI elements visually or by index and exposes device runs through an MCP server.

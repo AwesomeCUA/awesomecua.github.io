@@ -1,3 +1,11 @@
+---
+title: "See, Think, Act: Online Shopper Behavior… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-19245/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # See, Think, Act: Online Shopper Behavior Simulation with VLM Agents
 
 Studies online shopper action prediction with VLM agents using webpage screenshots, HTML, and action history from OPeRA, trained with SFT and hierarchical RL rewards.
@@ -26,6 +34,18 @@ Yimeng Zhang, Jiri Gesi, Ran Xue, Tian Wang, Ziyi Wang, Yuxuan Lu, Sinong Zhan, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-19245/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-19245/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19245,
+  title = {{See, Think, Act: Online Shopper Behavior Simulation with VLM Agents}},
+  author = {{Yimeng Zhang} and {Jiri Gesi} and {Ran Xue} and {Tian Wang} and {Ziyi Wang} and {Yuxuan Lu} and {Sinong Zhan} and {Huimin Zeng} and {Qingjun Cui} and {Yufan Guo} and {Jing Huang} and {Mubarak Shah} and {Dakuo Wang}},
+  year = {2025},
+  eprint = {2510.19245v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19245v1},
+  note = {First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T05:07:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

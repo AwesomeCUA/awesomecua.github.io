@@ -1,3 +1,11 @@
+---
+title: "WorldMirror: Agentic Real-to-Sim Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31834/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations
 
 Bibliographic record for WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianling Xu, Weijie Wan, Honghao Su, Kailun Su, Junyuan Tang, Huichi Zhou, Haozh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31834/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31834/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31834,
+  title = {{WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations}},
+  author = {{Tianling Xu} and {Weijie Wan} and {Honghao Su} and {Kailun Su} and {Junyuan Tang} and {Huichi Zhou} and {Haozheng Zhang} and {Qi Xiong} and {Ping Luo} and {Wenbo Ding} and {Tianxing Chen} and {Yue Chen}},
+  year = {2026},
+  eprint = {2610.31834v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31834v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T19:13:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WM-R1: Training GUI Agents to Reason and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-27508/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning
 
 利用学得的世界模型生成移动端智能体训练中的交互轨迹，并推理候选 GUI 操作的后果。
@@ -27,6 +35,18 @@ Yu Han, Tianwen Qian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-27508/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-27508/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_27508,
+  title = {{WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning}},
+  author = {{Yu Han} and {Tianwen Qian}},
+  year = {2026},
+  eprint = {2608.27508v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.27508v1},
+  note = {First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T07:09:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

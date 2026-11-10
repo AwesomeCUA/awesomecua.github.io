@@ -1,3 +1,11 @@
+---
+title: "CUA-Universe: A Scalable and Dynamic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-05374/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents
 
 将桌面应用转化为可复现的 GUI 与 CLI 混合环境，并生成经过验证的混合操作轨迹，用于智能体后训练。
@@ -27,6 +35,18 @@ Haoting Shi, Wenhao Wang, Weicheng Fang, Yaozhong Liang, Tian Jin, Pengxiang Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-05374/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-05374/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_05374,
+  title = {{CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents}},
+  author = {{Haoting Shi} and {Wenhao Wang} and {Weicheng Fang} and {Yaozhong Liang} and {Tian Jin} and {Pengxiang Zhao} and {Guangyi Liu} and {Siheng Chen} and {Yanfeng Wang}},
+  year = {2026},
+  eprint = {2609.05374v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.05374v1},
+  note = {First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T17:26:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

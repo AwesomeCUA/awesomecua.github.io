@@ -1,3 +1,11 @@
+---
+title: "invisible_playwright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # invisible_playwright
 
 invisible_playwright 提供可直接替换使用的 Python Playwright 客户端，以反检测 Firefox 构建版本为基础，实现隐蔽的浏览器智能体自动化。

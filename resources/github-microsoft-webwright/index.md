@@ -1,3 +1,11 @@
+---
+title: "CUAWright (formerly Webwright) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-webwright/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # CUAWright (formerly Webwright)
 
 Agent framework for browser and desktop tasks using automation code.

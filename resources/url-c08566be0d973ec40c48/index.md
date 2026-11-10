@@ -1,3 +1,11 @@
+---
+title: "UI-I2E-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c08566be0d973ec40c48/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # UI-I2E-Bench
 
 GUI grounding benchmark from UI-E2I-Synth: 1,477 explicit and implicit instructions on mobile, desktop and web screenshots, each paired with a target element's bounding box and element type.

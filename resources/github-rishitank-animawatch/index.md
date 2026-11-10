@@ -1,3 +1,11 @@
+---
+title: "AnimaWatch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rishitank-animawatch/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AnimaWatch
 
 FastMCP server that records webpage animations and uses vision models to detect frame drops, jank, and visual layout artifacts.

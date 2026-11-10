@@ -1,3 +1,11 @@
+---
+title: "ViCo: Visual-oriented Coding with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-16014/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ViCo: Visual-oriented Coding with Self-Reflection for Chart Replication
 
 Bibliographic record for ViCo: Visual-oriented Coding with Self-Reflection for Chart Replication. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaxin Duan, Dian Jiao Shuai Zhao, Jiabing Leng, Yiran Zhang, Feng Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-16014/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-16014/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_16014,
+  title = {{ViCo: Visual-oriented Coding with Self-Reflection for Chart Replication}},
+  author = {{Jiaxin Duan} and {Dian Jiao Shuai Zhao} and {Jiabing Leng} and {Yiran Zhang} and {Feng Huang}},
+  year = {2026},
+  eprint = {2609.16014v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.16014v1},
+  note = {First published: 2026-08-31; Recorded arXiv version: v1; Recorded version updated: 2026-08-31T05:54:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

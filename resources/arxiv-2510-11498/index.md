@@ -1,3 +1,11 @@
+---
+title: "ReLook: Vision-Grounded RL with a Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-11498/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding
 
 Bibliographic record for ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuhang Li, Chenchen Zhang, Ruilin Lv, Ao Liu, Ken Deng, Yuanxing Zhang, Jiaheng 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-11498/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-11498/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_11498,
+  title = {{ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding}},
+  author = {{Yuhang Li} and {Chenchen Zhang} and {Ruilin Lv} and {Ao Liu} and {Ken Deng} and {Yuanxing Zhang} and {Jiaheng Liu} and {Wiggin Zhou} and {Bo Zhou}},
+  year = {2025},
+  eprint = {2510.11498v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.11498v1},
+  note = {First published: 2025-10-13; Recorded arXiv version: v1; Recorded version updated: 2025-10-13T15:05:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

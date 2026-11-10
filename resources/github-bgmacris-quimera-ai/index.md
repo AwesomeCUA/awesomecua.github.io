@@ -1,3 +1,11 @@
+---
+title: "quimera-ai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bgmacris-quimera-ai/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # quimera-ai
 
 Real-time shared Chrome browser workspace between a human user and Claude Code over CDP and Playwright MCP.

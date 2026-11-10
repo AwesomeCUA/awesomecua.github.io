@@ -1,3 +1,11 @@
+---
+title: "MobileVLM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaomi-mobilevlm/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # MobileVLM
 
 MobileVLM is a vision-language model pre-trained on the Mobile3M UI transition graph for intra-screen and inter-screen mobile UI understanding.

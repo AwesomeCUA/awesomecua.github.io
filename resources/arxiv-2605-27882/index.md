@@ -1,3 +1,11 @@
+---
+title: "VibeSearchBench: Benchmarking Long-horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-27882/
+updated: 2026-11-01
+type: paper
+lang: en
+---
+
 # VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild
 
 Bibliographic record for VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xiaohongshu Inc
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-27882/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-27882/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_27882,
+  title = {{VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild}},
+  author = {{Xiaohongshu Inc}},
+  year = {2026},
+  eprint = {2605.27882v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.27882v2},
+  note = {First published: 2026-05-27; Recorded arXiv version: v2; Recorded version updated: 2026-08-05T16:49:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

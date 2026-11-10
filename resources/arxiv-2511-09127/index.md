@@ -1,3 +1,11 @@
+---
+title: "History-Aware Reasoning for GUI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-09127/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # History-Aware Reasoning for GUI Agents
 
 HAR-GUI combines episodic reasoning and short-term memory to use earlier interactions when selecting GUI actions. Its training constructs reflective scenarios and correction guidance and applies a hybrid reinforcement-learning reward to the 3B policy.
@@ -26,6 +34,18 @@ Ziwei Wang, Leyang Yang, Xiaoxuan Tang, Sheng Zhou, Dajun Chen, Wei Jiang, Yong 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-09127/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-09127/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_09127,
+  title = {{History-Aware Reasoning for GUI Agents}},
+  author = {{Ziwei Wang} and {Leyang Yang} and {Xiaoxuan Tang} and {Sheng Zhou} and {Dajun Chen} and {Wei Jiang} and {Yong Li}},
+  year = {2025},
+  eprint = {2511.09127v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.09127v1},
+  note = {First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T09:06:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

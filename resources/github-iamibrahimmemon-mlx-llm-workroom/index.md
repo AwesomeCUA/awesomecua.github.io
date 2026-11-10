@@ -1,3 +1,11 @@
+---
+title: "Workroom (MLX Computer-Use Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-iamibrahimmemon-mlx-llm-workroom/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Workroom (MLX Computer-Use Agent)
 
 Workroom is a fully local macOS computer-use agent running an Apple Silicon MLX vision-language model to read screens and execute commands.

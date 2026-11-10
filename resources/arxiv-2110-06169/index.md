@@ -1,3 +1,11 @@
+---
+title: "Offline Reinforcement Learning with Implicit… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2110-06169/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Offline Reinforcement Learning with Implicit Q-Learning
 
 Status: excluded from the active CUA catalog after scope review.

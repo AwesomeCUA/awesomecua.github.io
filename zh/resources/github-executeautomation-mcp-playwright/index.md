@@ -1,3 +1,11 @@
+---
+title: "Playwright MCP Server (ExecuteAutomation) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-executeautomation-mcp-playwright/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # Playwright MCP Server (ExecuteAutomation)
 
 社区开发的 MCP 服务器，为 LLM 提供 Playwright 浏览器自动化能力，用于与网页交互、截图、生成测试代码和运行 JavaScript。

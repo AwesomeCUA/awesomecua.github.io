@@ -1,3 +1,11 @@
+---
+title: "Sketch2Code: Evaluating Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-16232/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping
 
 Bibliographic record for Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ryan Li, Yanzhe Zhang, Diyi Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-16232/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-16232/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_16232,
+  title = {{Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping}},
+  author = {{Ryan Li} and {Yanzhe Zhang} and {Diyi Yang}},
+  year = {2024},
+  eprint = {2410.16232v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.16232v1},
+  note = {First published: 2024-10-21; Recorded arXiv version: v1; Recorded version updated: 2024-10-21T17:39:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

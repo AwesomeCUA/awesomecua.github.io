@@ -1,3 +1,11 @@
+---
+title: "Dual-AI Bridge (Gemini Antigravity x ChatGPT) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-divyprj-dualai/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Dual-AI Bridge (Gemini Antigravity x ChatGPT)
 
 Bi-directional local development bridge orchestrating Gemini Antigravity and ChatGPT Web sessions.

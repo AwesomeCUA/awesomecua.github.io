@@ -1,3 +1,11 @@
+---
+title: "UI-Hawk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-imnearth-uihawk/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # UI-Hawk
 
 UI-Hawk is a GUI agent designed to interpret sequences of screens during navigation. Its research release describes a history-aware visual encoder, screen tasks, and the FunUI benchmark.

@@ -1,3 +1,11 @@
+---
+title: "Think, Act, and Ask: Open-World Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-07968/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation
 
 Bibliographic record for Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yinpei Dai, Run Peng, Sikai Li, Joyce Chai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-07968/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-07968/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_07968,
+  title = {{Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation}},
+  author = {{Yinpei Dai} and {Run Peng} and {Sikai Li} and {Joyce Chai}},
+  year = {2023},
+  eprint = {2310.07968v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.07968v4},
+  note = {First published: 2023-10-12; Recorded arXiv version: v4; Recorded version updated: 2024-05-29T21:06:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

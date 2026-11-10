@@ -1,3 +1,11 @@
+---
+title: "CloakBrowserMCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sjf-ecnu-cloakbrowsermcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CloakBrowserMCP
 
 Python Model Context Protocol 服务器，用于在无头和 Xvfb 虚拟显示环境中控制 CloakBrowser 隐身 Chromium 浏览器。

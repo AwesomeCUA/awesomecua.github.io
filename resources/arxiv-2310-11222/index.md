@@ -1,3 +1,11 @@
+---
+title: "Fast Node Vector Distance Computations using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-11222/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fast Node Vector Distance Computations using Laplacian Solvers
 
 Status: excluded from the active CUA catalog after scope review.

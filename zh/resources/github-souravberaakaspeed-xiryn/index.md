@@ -1,3 +1,11 @@
+---
+title: "Xiryn · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-souravberaakaspeed-xiryn/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Xiryn
 
 可自行托管的个人智能体应用，为每个智能体提供独立的 Docker Linux 桌面和 Chromium，通过截图及 xdotool 点击和按键操作，并支持实时接管、记忆、保险库和 Telegram 控制。

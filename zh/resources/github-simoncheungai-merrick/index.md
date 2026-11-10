@@ -1,3 +1,11 @@
+---
+title: "MERRICK · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-simoncheungai-merrick/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # MERRICK
 
 面向规划、浏览器自动化和原生桌面任务执行的个人 macOS 助手智能体。

@@ -1,3 +1,11 @@
+---
+title: "dsh-browseruse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-browseruse
 
 Browser-Use-style plugin for DeepSeek Harness that drives a dedicated Chrome profile over Playwright and CDP.

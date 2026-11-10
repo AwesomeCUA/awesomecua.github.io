@@ -1,3 +1,11 @@
+---
+title: "InfoTok: Adaptive Discrete Video Tokenizer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-16975/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # InfoTok: Adaptive Discrete Video Tokenizer via Information-Theoretic Compression
 
 Status: excluded from the active CUA catalog after scope review.

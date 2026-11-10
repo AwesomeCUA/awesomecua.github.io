@@ -1,3 +1,11 @@
+---
+title: "Thinking in Space: How Multimodal Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-14171/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces
 
 Status: excluded from the active CUA catalog after scope review.

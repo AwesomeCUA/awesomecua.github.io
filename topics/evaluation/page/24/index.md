@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 24 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/24/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 24
 
 HTML page: https://awesomecua.com/topics/evaluation/page/24/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [grok-chrome-mcp](https://awesomecua.com/resources/github-dietghardev-grok-chrome-mcp/)
 - [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/)
 - [GUI Grounding Evaluation Harness](https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/)
 - [GUI Object Detection Benchmark & Models](https://awesomecua.com/resources/github-chenjshnn-object-detection-for-graphical-user-interface/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [Pactora](https://awesomecua.com/resources/github-mrnetwork0001-pactora/)
 - [periscope-mcp](https://awesomecua.com/resources/github-segentic-lab-periscope-mcp/)
 - [PhantomJS](https://awesomecua.com/resources/github-ariya-phantomjs/)
+- [PixelCheck](https://awesomecua.com/resources/github-xcodethink-pixelcheck/)

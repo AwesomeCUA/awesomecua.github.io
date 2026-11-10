@@ -1,3 +1,11 @@
+---
+title: "Motion Tracks: A Unified Representation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-06994/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning
 
 Status: excluded from the active CUA catalog after scope review.

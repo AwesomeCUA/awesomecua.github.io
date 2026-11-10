@@ -1,3 +1,11 @@
+---
+title: "Hyperbrowser (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-hyperbrowser/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # Hyperbrowser
 
 Publisher or product brand associated with Hyperbrowser computer-use or browser automation offerings.

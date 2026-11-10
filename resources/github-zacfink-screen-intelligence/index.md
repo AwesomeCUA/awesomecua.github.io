@@ -1,3 +1,11 @@
+---
+title: "Screen Intelligence | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zacfink-screen-intelligence/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Screen Intelligence
 
 Screen Intelligence is a macOS desktop agent that reads screens with multimodal LLMs and drives mouse and keyboard actions.

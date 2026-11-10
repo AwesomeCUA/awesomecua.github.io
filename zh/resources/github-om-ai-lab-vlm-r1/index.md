@@ -1,3 +1,11 @@
+---
+title: "VLM-R1 · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-om-ai-lab-vlm-r1/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # VLM-R1
 
 VLM-R1 提供视觉语言模型的强化学习训练代码，包含 GUI 训练示例，并报告了用于检测界面缺陷的模型。

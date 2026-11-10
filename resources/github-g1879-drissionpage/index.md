@@ -1,3 +1,11 @@
+---
+title: "DrissionPage | AwesomeCUA"
+url: https://awesomecua.com/resources/github-g1879-drissionpage/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # DrissionPage
 
 A Python web automation tool that combines browser control with network requests for scripted website interaction.

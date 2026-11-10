@@ -1,3 +1,11 @@
+---
+title: "WiP: Characterizing and Defending… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-02154/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # WiP: Characterizing and Defending Against Mobile-Agent-Driven MFA Automation
 
 研究移动端自动化如何在单一智能体环境中结合多个身份验证因素，并评估运动感测能否作为用户在场信号。
@@ -27,6 +35,18 @@ Yimeng Liu, Hua Huang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-02154/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-02154/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_02154,
+  title = {{WiP: Characterizing and Defending Against Mobile-Agent-Driven MFA Automation}},
+  author = {{Yimeng Liu} and {Hua Huang}},
+  year = {2026},
+  eprint = {2609.02154v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.02154v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T06:06:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

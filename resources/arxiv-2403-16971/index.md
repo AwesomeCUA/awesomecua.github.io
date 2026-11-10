@@ -1,3 +1,11 @@
+---
+title: "AIOS: LLM Agent Operating System | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-16971/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AIOS: LLM Agent Operating System
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "SilbercueSwift · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-silbercue-silbercueswift/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SilbercueSwift
 
 这是用于 iOS 开发的 MCP 服务器，为智能体提供模拟器截图、界面元素检查、导航操作和结构化测试结果。

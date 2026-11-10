@@ -1,3 +1,11 @@
+---
+title: "CarePilot: A Multi-Agent Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-24157/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare
 
 CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
@@ -26,6 +34,18 @@ Akash Ghosh, Tajamul Ashraf, Rishu Kumar Singh, Numan Saeed, Sriparna Saha, Xiuy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-24157/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-24157/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_24157,
+  title = {{CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare}},
+  author = {{Akash Ghosh} and {Tajamul Ashraf} and {Rishu Kumar Singh} and {Numan Saeed} and {Sriparna Saha} and {Xiuying Chen} and {Salman Khan}},
+  year = {2026},
+  eprint = {2603.24157v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.24157v1},
+  note = {First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T10:25:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

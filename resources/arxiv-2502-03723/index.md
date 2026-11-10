@@ -1,3 +1,11 @@
+---
+title: "Speaking the Language of Teamwork: LLM-Guided… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-03723/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Speaking the Language of Teamwork: LLM-Guided Credit Assignment in Multi-Agent Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

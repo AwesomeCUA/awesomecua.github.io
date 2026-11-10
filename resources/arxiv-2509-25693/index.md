@@ -1,3 +1,11 @@
+---
+title: "ScheduleMe: Multi-Agent Calendar Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-25693/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ScheduleMe: Multi-Agent Calendar Assistant
 
 Bibliographic record for ScheduleMe: Multi-Agent Calendar Assistant. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Oshadha Wijerathne, Amandi Nimasha, Dushan Fernando, Nisansa de Silva, Srinath P
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-25693/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-25693/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_25693,
+  title = {{ScheduleMe: Multi-Agent Calendar Assistant}},
+  author = {{Oshadha Wijerathne} and {Amandi Nimasha} and {Dushan Fernando} and {Nisansa de Silva} and {Srinath Perera}},
+  year = {2025},
+  eprint = {2509.25693v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.25693v3},
+  note = {First published: 2025-09-30; Recorded arXiv version: v3; Recorded version updated: 2026-03-18T06:21:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

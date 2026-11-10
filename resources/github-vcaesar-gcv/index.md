@@ -1,3 +1,11 @@
+---
+title: "gcv | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vcaesar-gcv/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # gcv
 
 A Go image-matching utility that locates a captured image or template within a desktop screenshot, with an example using RobotGo capture.

@@ -1,3 +1,11 @@
+---
+title: "uictl-win-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-byronjones-elsevier-uictl-win-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # uictl-win-mcp
 
 面向编码智能体的 Windows .NET/C# GUI 自动化 CLI 和 Model Context Protocol 服务器。

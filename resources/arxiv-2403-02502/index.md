@@ -1,3 +1,11 @@
+---
+title: "Trial and Error: Exploration-Based Trajectory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-02502/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

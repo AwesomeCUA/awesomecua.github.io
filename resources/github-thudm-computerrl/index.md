@@ -1,3 +1,11 @@
+---
+title: "ComputerRL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-computerrl/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # ComputerRL
 
 Reinforcement-learning infrastructure for computer-use agents.

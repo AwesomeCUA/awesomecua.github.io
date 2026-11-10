@@ -1,3 +1,11 @@
+---
+title: "VNC MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # VNC MCP Server
 
 VNC MCP Server exposes remote desktop screenshots, OCR text localization, and mouse/keyboard control over the RFB/VNC protocol to MCP agents.

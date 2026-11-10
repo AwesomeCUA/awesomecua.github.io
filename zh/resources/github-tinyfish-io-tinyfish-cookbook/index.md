@@ -1,3 +1,11 @@
+---
+title: "The TinyFish Cookbook · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinyfish-io-tinyfish-cookbook/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # The TinyFish Cookbook
 
 TinyFish 网络智能体的示例应用与教程合集，涵盖网页获取、结构化搜索和多步骤浏览器自动化。

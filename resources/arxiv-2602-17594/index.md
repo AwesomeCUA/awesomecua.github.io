@@ -1,3 +1,11 @@
+---
+title: "AI Gamestore: Scalable, Open-Ended Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-17594/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games
 
 Bibliographic record for AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Lance Ying, Ryan Truong, Prafull Sharma, Kaiya Ivy Zhao, Nathan Cloos, Kelsey R.
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-17594/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-17594/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_17594,
+  title = {{AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games}},
+  author = {{Lance Ying} and {Ryan Truong} and {Prafull Sharma} and {Kaiya Ivy Zhao} and {Nathan Cloos} and {Kelsey R. Allen} and {Thomas L. Griffiths} and {Katherine M. Collins} and {José Hernández-Orallo} and {Phillip Isola} and {Samuel J. Gershman} and {Joshua B. Tenenbaum}},
+  year = {2026},
+  eprint = {2602.17594v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.17594v1},
+  note = {First published: 2026-02-19; Recorded arXiv version: v1; Recorded version updated: 2026-02-19T18:17:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

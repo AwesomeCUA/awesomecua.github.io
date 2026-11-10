@@ -1,3 +1,11 @@
+---
+title: "Jailbreak Vision Language Models via Bi-Modal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-04031/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt
 
 Bibliographic record for Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zonghao Ying, Aishan Liu, Tianyuan Zhang, Zhengmin Yu, Siyuan Liang, Xianglong L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-04031/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-04031/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_04031,
+  title = {{Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt}},
+  author = {{Zonghao Ying} and {Aishan Liu} and {Tianyuan Zhang} and {Zhengmin Yu} and {Siyuan Liang} and {Xianglong Liu} and {Dacheng Tao}},
+  year = {2024},
+  eprint = {2406.04031v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.04031v2},
+  note = {First published: 2024-06-06; Recorded arXiv version: v2; Recorded version updated: 2024-07-01T14:25:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

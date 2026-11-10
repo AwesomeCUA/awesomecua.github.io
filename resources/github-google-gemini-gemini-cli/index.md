@@ -1,3 +1,11 @@
+---
+title: "Gemini CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-gemini-gemini-cli/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Gemini CLI
 
 Gemini CLI is Google's open-source terminal agent providing shell execution, file manipulation, web search, and MCP tool integration.

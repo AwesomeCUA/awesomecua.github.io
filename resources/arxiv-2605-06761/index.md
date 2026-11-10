@@ -1,3 +1,11 @@
+---
+title: "Weblica: Scalable and Reproducible Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-06761/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Weblica: Scalable and Reproducible Training Environments for Visual Web Agents
 
 Introduces Weblica, which combines HTTP-level capture and replay with website-grounded environment synthesis. The resulting interactive web environments support reinforcement learning and tests of navigation transfer and inference-time scaling.
@@ -26,6 +34,18 @@ Oğuzhan Fatih Kar, Roman Bachmann, Yuanzheng Gong, Anders Boesen Lindbo Larsen,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-06761/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-06761/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_06761,
+  title = {{Weblica: Scalable and Reproducible Training Environments for Visual Web Agents}},
+  author = {{Oğuzhan Fatih Kar} and {Roman Bachmann} and {Yuanzheng Gong} and {Anders Boesen Lindbo Larsen} and {Afshin Dehghan}},
+  year = {2026},
+  eprint = {2605.06761v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.06761v1},
+  note = {First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T17:17:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

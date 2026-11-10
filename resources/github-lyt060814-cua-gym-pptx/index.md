@@ -1,3 +1,11 @@
+---
+title: "pptxgym (CUA-Gym.pptx) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # pptxgym (CUA-Gym.pptx)
 
 Synthesizes and grades verifiable computer-use reinforcement-learning tasks from real PowerPoint presentation decks.

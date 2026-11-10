@@ -1,3 +1,11 @@
+---
+title: "Gemini Web MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-akashnaickar-gemini-web-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Gemini Web MCP
 
 Model Context Protocol 服务器和 CLI，将编程智能体连接到已认证的 Google Gemini 网页会话。

@@ -1,3 +1,11 @@
+---
+title: "FunReason: Enhancing Large Language Models'… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-20192/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement
 
 Bibliographic record for FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bingguang Hao, ZengZhuang Xu, Maolin Wang, Yuntao Wen, Yicheng Chen, Cunyin Peng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-20192/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-20192/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_20192,
+  title = {{FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement}},
+  author = {{Bingguang Hao} and {ZengZhuang Xu} and {Maolin Wang} and {Yuntao Wen} and {Yicheng Chen} and {Cunyin Peng} and {Long Chen} and {Dong Wang} and {Xiangyu Zhao} and {Jinjie Gu} and {Chenyi Zhuang} and {Ji Zhang}},
+  year = {2025},
+  eprint = {2505.20192v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.20192v3},
+  note = {First published: 2025-05-26; Recorded arXiv version: v3; Recorded version updated: 2025-11-25T07:50:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

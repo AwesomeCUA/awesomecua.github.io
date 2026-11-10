@@ -1,3 +1,11 @@
+---
+title: "Act-Observe-Rewrite: Multimodal Coding Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-04466/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation
 
 Bibliographic record for Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Vaishak Kumar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-04466/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-04466/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_04466,
+  title = {{Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation}},
+  author = {{Vaishak Kumar}},
+  year = {2026},
+  eprint = {2603.04466v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.04466v1},
+  note = {First published: 2026-03-03; Recorded arXiv version: v1; Recorded version updated: 2026-03-03T22:15:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

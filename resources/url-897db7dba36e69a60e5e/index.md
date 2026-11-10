@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-897db7dba36e69a60e5e/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # WinDeskGround
 
 Benchmark data for GUI grounding on synthesized multi-window desktops: 1356 samples over 585 images, with controlled occlusion, semantic distraction and clutter plus difficulty levels L1 to L5.

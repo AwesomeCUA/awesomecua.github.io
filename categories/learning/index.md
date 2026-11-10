@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent learning resources | AwesomeCUA"
+url: https://awesomecua.com/categories/learning/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent learning resources
 
 Learning resources are courses, cookbooks, tutorials, example collections and curated lists for building and studying computer-use agents.

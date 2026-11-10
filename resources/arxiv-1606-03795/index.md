@@ -1,3 +1,11 @@
+---
+title: "Error suppression for Hamiltonian-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1606-03795/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Error suppression for Hamiltonian-based quantum computation using subsystem codes
 
 Status: excluded from the active CUA catalog after scope review.

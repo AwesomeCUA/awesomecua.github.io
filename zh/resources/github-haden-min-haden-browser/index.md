@@ -1,3 +1,11 @@
+---
+title: "haden-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-haden-min-haden-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # haden-browser
 
 快速、面向 AI 的网页浏览器，以本地 Model Context Protocol 服务器的形式供 LLM 智能体使用。

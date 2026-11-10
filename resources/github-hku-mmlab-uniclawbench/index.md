@@ -1,3 +1,11 @@
+---
+title: "UniClawBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # UniClawBench
 
 UniClawBench evaluates agents on tool, browser, file, and desktop GUI workflows. Its bilingual release contains 400 tasks, Docker runtimes, and trace review tools.

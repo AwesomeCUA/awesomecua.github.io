@@ -1,3 +1,11 @@
+---
+title: "WebRollback: Enhancing Web Agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-11788/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebRollback: Enhancing Web Agents with Explicit Rollback Mechanisms
 
 WebRollback 为网页智能体提供显式操作，使其返回导航轨迹中的较早状态，并在零样本和微调设置下，通过 2 个实时网页导航基准研究这一恢复机制。
@@ -27,6 +35,18 @@ Zhisong Zhang, Tianqing Fang, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, D
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-11788/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-11788/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_11788,
+  title = {{WebRollback: Enhancing Web Agents with Explicit Rollback Mechanisms}},
+  author = {{Zhisong Zhang} and {Tianqing Fang} and {Kaixin Ma} and {Wenhao Yu} and {Hongming Zhang} and {Haitao Mi} and {Dong Yu}},
+  year = {2025},
+  eprint = {2504.11788v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.11788v3},
+  note = {First published: 2025-04-16; Recorded arXiv version: v3; Recorded version updated: 2026-01-15T02:00:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

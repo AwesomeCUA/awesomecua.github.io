@@ -1,3 +1,11 @@
+---
+title: "Clawd Cursor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amrdab-clawdcursor/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Clawd Cursor
 
 Local MCP server that compiles desktop screens into stable UI element maps with action verification and safety guardrails.

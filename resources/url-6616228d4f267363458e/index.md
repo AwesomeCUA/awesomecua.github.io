@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6616228d4f267363458e/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # OpenMobile-8B
 
 Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile and fine-tuned on its synthesized Android trajectories; the code README serves it with vLLM for AndroidWorld evaluation.

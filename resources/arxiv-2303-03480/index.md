@@ -1,3 +1,11 @@
+---
+title: "Can an Embodied Agent Find Your \"Cat-shaped… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-03480/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Guided Exploration for Zero-Shot Object Navigation
 
 Bibliographic record for Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Guided Exploration for Zero-Shot Object Navigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Vishnu Sashank Dorbala, James F. Mullen, Dinesh Manocha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2303-03480/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2303-03480/citation.csl.json
+
+```bibtex
+@misc{arxiv_2303_03480,
+  title = {{Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Guided Exploration for Zero-Shot Object Navigation}},
+  author = {{Vishnu Sashank Dorbala} and {James F. Mullen} and {Dinesh Manocha}},
+  year = {2023},
+  eprint = {2303.03480v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2303.03480v2},
+  note = {First published: 2023-03-06; Recorded arXiv version: v2; Recorded version updated: 2023-11-05T20:49:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

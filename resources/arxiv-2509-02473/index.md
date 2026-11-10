@@ -1,3 +1,11 @@
+---
+title: "FDABench: A Benchmark for Data Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-02473/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data
 
 Status: excluded from the active CUA catalog after scope review.

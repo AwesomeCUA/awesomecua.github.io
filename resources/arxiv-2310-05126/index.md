@@ -1,3 +1,11 @@
+---
+title: "UReader: Universal OCR-free Visually-situated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-05126/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model
 
 Introduces UReader, which combines unified instruction tuning, auxiliary text-reading tasks and shape-adaptive image crops for OCR-free visual language understanding. Its evaluation includes webpage screenshots alongside documents, tables, charts and natural images.
@@ -26,6 +34,18 @@ Jiabo Ye, Anwen Hu, Haiyang Xu, Qinghao Ye, Ming Yan, Guohai Xu, Chenliang Li, J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-05126/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-05126/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_05126,
+  title = {{UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model}},
+  author = {{Jiabo Ye} and {Anwen Hu} and {Haiyang Xu} and {Qinghao Ye} and {Ming Yan} and {Guohai Xu} and {Chenliang Li} and {Junfeng Tian} and {Qi Qian} and {Ji Zhang} and {Qin Jin} and {Liang He} and {Xin Alex Lin} and {Fei Huang}},
+  year = {2023},
+  eprint = {2310.05126v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.05126v1},
+  note = {First published: 2023-10-08; Recorded arXiv version: v1; Recorded version updated: 2023-10-08T11:33:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

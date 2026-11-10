@@ -1,3 +1,11 @@
+---
+title: "EverFern Navis Extension · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-everfern-ai-navis-extension/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # EverFern Navis Extension
 
 一款浏览器扩展，通过 EverFern Desktop 将 Navis 连接到用户的常用浏览器配置文件，并提供适用于 Chromium 系浏览器和 Firefox 的构建版本。

@@ -1,3 +1,11 @@
+---
+title: "UIX-Qwen2 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-54997a3c67e54abdf319/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # UIX-Qwen2
 
 A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.

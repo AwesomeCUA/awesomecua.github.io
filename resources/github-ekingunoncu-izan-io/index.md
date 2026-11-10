@@ -1,3 +1,11 @@
+---
+title: "izan.io | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ekingunoncu-izan-io/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # izan.io
 
 izan.io is a Chrome extension MCP server that exposes browser tab management, DOM inspection, clicking, typing, and screenshot tools to AI agents.

@@ -1,3 +1,11 @@
+---
+title: "Known By Their Actions: Fingerprinting… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-14786/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces
 
 这项研究表明，网站可利用被动记录的 UI 动作和时间轨迹，在多种网页任务中推断浏览器智能体所用模型。
@@ -27,6 +35,18 @@ William Lugoloobi, Samuelle Marro, Jabez Magomere, Joss Wright, Chris Russell
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-14786/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-14786/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14786,
+  title = {{Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces}},
+  author = {{William Lugoloobi} and {Samuelle Marro} and {Jabez Magomere} and {Joss Wright} and {Chris Russell}},
+  year = {2026},
+  eprint = {2605.14786v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14786v1},
+  note = {First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T12:55:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

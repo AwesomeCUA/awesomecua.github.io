@@ -1,3 +1,11 @@
+---
+title: "Predicate TypeScript SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-predicatesystems-sdk-typescript/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Predicate TypeScript SDK
 
 Predicate TypeScript SDK supplies browser-agent snapshots, element actions, assertions and traces for building runs that check UI outcomes.

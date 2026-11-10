@@ -1,3 +1,11 @@
+---
+title: "STP-GUI: Spatially-Aware Token Pruning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-20390/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents
 
 Introduces STP-GUI, which selects spatially coherent screenshot windows conditioned on the instruction to reduce visual tokens while retaining useful interface structure.
@@ -26,6 +34,18 @@ Shuo Wang, Sifan Zhou, Xiaobo Wang, Tianyu Fu, Chenxu Zhao, Anyang Su, Hanning W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-20390/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-20390/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20390,
+  title = {{STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents}},
+  author = {{Shuo Wang} and {Sifan Zhou} and {Xiaobo Wang} and {Tianyu Fu} and {Chenxu Zhao} and {Anyang Su} and {Hanning Wang} and {Ping Jiang} and {Minghui Wu}},
+  year = {2026},
+  eprint = {2610.20390v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20390v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T15:53:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

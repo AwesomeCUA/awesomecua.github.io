@@ -1,3 +1,11 @@
+---
+title: "The Meta-Agent Challenge: Are Current Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-04455/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?
 
 Status: excluded from the active CUA catalog after scope review.

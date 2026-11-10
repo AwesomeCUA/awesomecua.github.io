@@ -1,3 +1,11 @@
+---
+title: "NOVA Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-theodorebeaupre-prog-nova-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # NOVA Computer Use
 
 Native, local-first macOS Computer Use runtime for Codex on both Intel and Apple Silicon Macs.

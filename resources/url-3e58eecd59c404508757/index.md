@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-7B-Qwen2.5-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3e58eecd59c404508757/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GUI-Actor-7B-Qwen2.5-VL
 
 A Qwen2.5-VL-7B checkpoint for locating instructed GUI targets in screenshots. Its attention-based action head predicts click points, with inference code shown in the card.

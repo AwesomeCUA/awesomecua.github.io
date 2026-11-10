@@ -1,3 +1,11 @@
+---
+title: "LLMLingua-2: Data Distillation for Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-12968/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "dom-drift-bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-notel1gible-dom-drift-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # dom-drift-bench
 
 dom-drift-bench 在 10 类结构性 DOM 漂移中评测 4 种网页提取和定位策略。

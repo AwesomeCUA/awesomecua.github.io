@@ -1,3 +1,11 @@
+---
+title: "One Figure, Every Canvas: Editable Flowchart… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-06852/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline
 
 Bibliographic record for One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang, Hsi-An Chen, Chun-Wei Tuan Mu, Yu-L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-06852/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-06852/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_06852,
+  title = {{One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline}},
+  author = {{Shih-Chen Tseng} and {Chih-Hsuan Chen} and {Ryan Yang} and {Hsi-An Chen} and {Chun-Wei Tuan Mu} and {Yu-Lun Liu}},
+  year = {2026},
+  eprint = {2610.06852v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06852v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:59:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

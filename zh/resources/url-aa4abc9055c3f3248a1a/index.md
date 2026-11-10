@@ -1,3 +1,11 @@
+---
+title: "OmniJev-2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-aa4abc9055c3f3248a1a/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # OmniJev-2B
 
 面向 Qwen3.5-2B 的 OmniJev 决策适配器：LoRA 权重和预测头针对屏幕、视频和机器人场景的类型化问题返回概率，并在网页和手机任务族上评测。

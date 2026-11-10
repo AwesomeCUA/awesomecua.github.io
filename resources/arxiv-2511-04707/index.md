@@ -1,3 +1,11 @@
+---
+title: "Jailbreaking in the Haystack | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-04707/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Jailbreaking in the Haystack
 
 Bibliographic record for Jailbreaking in the Haystack. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Rishi Rajesh Shah, Chen Henry Wu, Shashwat Saxena, Ziqian Zhong, Alexander Robey
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-04707/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-04707/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_04707,
+  title = {{Jailbreaking in the Haystack}},
+  author = {{Rishi Rajesh Shah} and {Chen Henry Wu} and {Shashwat Saxena} and {Ziqian Zhong} and {Alexander Robey} and {Aditi Raghunathan}},
+  year = {2025},
+  eprint = {2511.04707v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.04707v2},
+  note = {First published: 2025-11-05; Recorded arXiv version: v2; Recorded version updated: 2026-08-19T05:55:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

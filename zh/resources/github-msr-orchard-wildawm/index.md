@@ -1,3 +1,11 @@
+---
+title: "WildAWM · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-msr-orchard-wildawm/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # WildAWM
 
 WildAWM 提供生成计算机环境和跨界面任务的流程，并配有执行检查及智能体评测工具。

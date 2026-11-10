@@ -1,3 +1,11 @@
+---
+title: "PrzedWysylka WebMCP Lab · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-greqone-przedwysylkawebmcplab/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PrzedWysylka WebMCP Lab
 
 浏览器本地 WebMCP 验证实验室，在人工批准前依据 JSON 模式验证智能体提议。

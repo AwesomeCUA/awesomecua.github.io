@@ -1,3 +1,11 @@
+---
+title: "BT-Agent: Deploying Onboard Robot Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13862/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation
 
 Bibliographic record for BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fabio Hübel, Adam Lilja, Yue Yin, Siming He, Claire Tomlin, Shankar Sastry, Jon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13862/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13862/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13862,
+  title = {{BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation}},
+  author = {{Fabio Hübel} and {Adam Lilja} and {Yue Yin} and {Siming He} and {Claire Tomlin} and {Shankar Sastry} and {Jonas Frey} and {Marco Pavone}},
+  year = {2026},
+  eprint = {2610.13862v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13862v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T17:08:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Has GPT-6-Astra Achieved Embodied Intelligence? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22471/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Has GPT-6-Astra Achieved Embodied Intelligence?
 
 Bibliographic record for Has GPT-6-Astra Achieved Embodied Intelligence?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ SenseNova, Joint Research Team, Zhongang Cai, Ziang Cao, Tailai Chen, Han Chong 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22471/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22471/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22471,
+  title = {{Has GPT-6-Astra Achieved Embodied Intelligence?}},
+  author = {{SenseNova} and {Joint Research Team} and {Zhongang Cai} and {Ziang Cao} and {Tailai Chen} and {Han Chong Chua} and {Linjun Dai} and {Hanming Deng} and {Hokin Deng} and {Haiwen Diao} and {Chenjing Ding} and {Weichen Fan} and {Xiao Fu} and {Zerui Gong} and {Chenyang Gu} and {Zexin He} and {Zhi Hou} and {Bo Li} and {Qinyue Li} and {Quanzhou Li} and {Xiaowan Li} and {Zhichao Liao} and {Dahua Lin} and {Zilong Lin} and {Bo Liu} and {Chunxiao Liu} and {Pengfei Liu} and {Tianqi Liu} and {Ziwei Liu} and {Chen Change Loy} and {Lewei Lu} and {Jiapeng Luo} and {Yuexiao Ma} and {Liang Pan} and {Xingang Pan} and {Oscar Qian} and {Ziyi Shang} and {Yuyao Shao} and {Dawei Su} and {Dacheng Tao} and {Qingyi Tao} and {Quan Wang} and {Ruisi Wang} and {Xiaogang Wang} and {Ziyi Wang} and {Beichen Wen} and {Donghao Wu} and {Jiaxu Wu} and {Silei Wu} and {Xiaoming Wu} and {Zhonghua Wu} and {Hongcan Xiao} and {Weiye Xu} and {Atsushi Yamashita} and {Lei Yang} and {Zhe Yang} and {Baiqiao Yin} and {Wanqi Yin} and {Hanfei Zhao} and {Tianbo Zhong} and {Long Zhuo} and {Jing Zuo}},
+  year = {2026},
+  eprint = {2610.22471v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22471v2},
+  note = {First published: 2026-10-15; Recorded arXiv version: v2; Recorded version updated: 2026-10-19T17:20:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

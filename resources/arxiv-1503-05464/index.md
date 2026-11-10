@@ -1,3 +1,11 @@
+---
+title: "A distributed-memory package for dense… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1503-05464/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A distributed-memory package for dense Hierarchically Semi-Separable matrix computations using randomization
 
 Status: excluded from the active CUA catalog after scope review.

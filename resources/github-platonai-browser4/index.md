@@ -1,3 +1,11 @@
+---
+title: "Browser4 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-platonai-browser4/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Browser4
 
 Browser4 is an AI-native browser engine and coroutines runtime for high-concurrency web agents, workflow automation, and page extraction.

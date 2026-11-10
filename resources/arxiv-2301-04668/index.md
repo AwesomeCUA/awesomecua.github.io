@@ -1,3 +1,11 @@
+---
+title: "Trapped Ion Quantum Computing using Optical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-04668/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Trapped Ion Quantum Computing using Optical Tweezers and the Magnus Effect
 
 Status: excluded from the active CUA catalog after scope review.

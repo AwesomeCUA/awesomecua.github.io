@@ -1,3 +1,11 @@
+---
+title: "SteP: Stacked LLM Policies for Web Actions · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2310-03720/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # SteP: Stacked LLM Policies for Web Actions
 
 SteP 通过记录当前策略调用链的栈，动态组合专门的网页操作策略，并在 WebArena、MiniWoB++ 和 CRM 工作流程中研究这一控制结构。
@@ -27,6 +35,18 @@ Paloma Sodhi, S. R. K. Branavan, Yoav Artzi, Ryan McDonald
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2310-03720/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2310-03720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_03720,
+  title = {{SteP: Stacked LLM Policies for Web Actions}},
+  author = {{Paloma Sodhi} and {S. R. K. Branavan} and {Yoav Artzi} and {Ryan McDonald}},
+  year = {2023},
+  eprint = {2310.03720v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.03720v4},
+  note = {First published: 2023-10-05; Recorded arXiv version: v4; Recorded version updated: 2024-08-08T18:00:48Z.}
+}
+```
 
 ## arXiv 版本记录
 

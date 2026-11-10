@@ -1,3 +1,11 @@
+---
+title: "lazy-mobile-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leaf76-lazy-mobile-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # lazy-mobile-mcp
 
 Lazy-mobile-mcp gives MCP clients tools to inspect and control Android and iOS devices, with screenshots, touch actions, UI dumps, and performance sampling.

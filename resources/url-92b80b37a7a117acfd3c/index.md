@@ -1,3 +1,11 @@
+---
+title: "PhoneHarness Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # PhoneHarness Bench
 
 Task definitions and verifier metadata for 124 mixed-action Android phone tasks and 30 safety tasks, where agents may act through app GUIs, device commands and MCP-style tools.

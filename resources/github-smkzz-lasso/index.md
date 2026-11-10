@@ -1,3 +1,11 @@
+---
+title: "LASSO WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-smkzz-lasso/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # LASSO WebMCP
 
 AI-assisted dispatch console that turns human visual lasso selections on a webpage into live typed WebMCP capabilities.

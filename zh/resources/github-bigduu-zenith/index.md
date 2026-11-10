@@ -1,3 +1,11 @@
+---
+title: "Bodhi · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bigduu-zenith/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Bodhi
 
 Bodhi 是围绕 Rust 运行时构建的桌面智能体工作台。其可选的 Nova 工具让智能体操作原生应用和浏览器。

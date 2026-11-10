@@ -1,3 +1,11 @@
+---
+title: "From Novice to Expert: LLM Agent Policy… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-03817/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning
 
 提出 StepAgent，比较智能体与专家的操作，为策略学习提供中间奖励，并设计隐式奖励和逆强化学习变体；评估涵盖 WebShop、Mind2Web 及非网页任务。
@@ -27,6 +35,18 @@ Zhirui Deng, Zhicheng Dou, Yutao Zhu, Ji-Rong Wen, Ruibin Xiong, Mang Wang, Weip
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-03817/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-03817/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_03817,
+  title = {{From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning}},
+  author = {{Zhirui Deng} and {Zhicheng Dou} and {Yutao Zhu} and {Ji-Rong Wen} and {Ruibin Xiong} and {Mang Wang} and {Weipeng Chen}},
+  year = {2024},
+  eprint = {2411.03817v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.03817v3},
+  note = {First published: 2024-11-06; Recorded arXiv version: v3; Recorded version updated: 2024-12-09T09:20:11Z.}
+}
+```
 
 ## arXiv 版本记录
 

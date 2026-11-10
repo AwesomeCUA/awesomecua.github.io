@@ -1,3 +1,11 @@
+---
+title: "WebSense MCP 2.0 · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-spliffspliff70-wq-websense-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # WebSense MCP 2.0
 
 非视觉浏览器自动化 Model Context Protocol 服务器，提供 7 个精简的 DOM 感知与动作工具。

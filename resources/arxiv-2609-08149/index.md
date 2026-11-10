@@ -1,3 +1,11 @@
+---
+title: "SWE-Bench Pro Verified: A Reliable Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-08149/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents
 
 Status: excluded from the active CUA catalog after scope review.

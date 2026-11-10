@@ -1,3 +1,11 @@
+---
+title: "Bops · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-orgoai-bops/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Bops
 
 面向业务运营机器人团队的 Mac 应用，在 Orgo 云端 Linux 桌面上通过 OpenAI 计算机工具工作，执行 xdotool 操作，并结合 Playwright 页面脚本、应用连接器、批准机制和实时接管。

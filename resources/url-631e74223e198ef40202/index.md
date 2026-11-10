@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-631e74223e198ef40202/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # ScaleCUA Data
 
 Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.

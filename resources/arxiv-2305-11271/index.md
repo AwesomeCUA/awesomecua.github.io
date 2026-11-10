@@ -1,3 +1,11 @@
+---
+title: "Towards Collaborative Plan Acquisition… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-11271/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards Collaborative Plan Acquisition through Theory of Mind Modeling in Situated Dialogue
 
 Status: excluded from the active CUA catalog after scope review.

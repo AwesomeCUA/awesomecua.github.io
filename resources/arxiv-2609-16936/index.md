@@ -1,3 +1,11 @@
+---
+title: "RepoAtlas: Guiding Coding Agents via Evolving… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-16936/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views
 
 Bibliographic record for RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunxiang Zhang, Haiquan Wang, JiaWei Guo, Hanyang Xia, Yan Chen, Tong Chen, Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-16936/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-16936/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_16936,
+  title = {{RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views}},
+  author = {{Yunxiang Zhang} and {Haiquan Wang} and {JiaWei Guo} and {Hanyang Xia} and {Yan Chen} and {Tong Chen} and {Zhang Zhiwei} and {Junchen Ye}},
+  year = {2026},
+  eprint = {2609.16936v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.16936v1},
+  note = {First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T10:11:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "MT Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-munimtechnologies-mtcode/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # MT Code
 
 MT Code is a desktop app that runs coding agents and gives them browser computer-use controls, a live computer view and access to reachable machines.

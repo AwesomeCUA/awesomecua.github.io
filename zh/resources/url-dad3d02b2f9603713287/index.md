@@ -1,3 +1,11 @@
+---
+title: "Holo2 235B-A22B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dad3d02b2f9603713287/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo2 235B-A22B
 
 Holo2 研究预览版检查点基于 Qwen3-VL-235B-A22B-Thinking 微调，是总参数 235B、激活参数 22B 的混合专家模型，用于网页、桌面和移动屏幕的 UI 定位与导航。

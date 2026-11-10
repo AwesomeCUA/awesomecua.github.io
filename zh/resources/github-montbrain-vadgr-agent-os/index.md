@@ -1,3 +1,11 @@
+---
+title: "vadgr-agent-os · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-montbrain-vadgr-agent-os/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # vadgr-agent-os
 
 一个早期的 Linux 容器运行环境，供计算机操作智能体使用，包含虚拟桌面、浏览器、开发工具，以及控制桌面的 MCP 接口。

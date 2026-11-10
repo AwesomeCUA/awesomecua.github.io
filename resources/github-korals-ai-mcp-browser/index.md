@@ -1,3 +1,11 @@
+---
+title: "korals-ai mcp-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-korals-ai-mcp-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # korals-ai mcp-browser
 
 Model Context Protocol server giving AI agents a real Chrome browser paired with a live human co-browsing view.

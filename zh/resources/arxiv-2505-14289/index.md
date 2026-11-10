@@ -1,3 +1,11 @@
+---
+title: "EVA: Evolving Semantic Adversaries for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-14289/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks
 
 提出红队测试框架 EVA，演化用于 GUI 环境注入测试的语义载荷，研究语义欺骗与视觉欺骗各自的作用，并将发现的模式提炼为可复用的评估规则。
@@ -27,6 +35,18 @@ Yijie Lu, Manman Zhao, Tianjie Ju, Zihe Yan, Xinbei Ma, Yuan Guo, Daizong Ding, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-14289/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-14289/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_14289,
+  title = {{EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks}},
+  author = {{Yijie Lu} and {Manman Zhao} and {Tianjie Ju} and {Zihe Yan} and {Xinbei Ma} and {Yuan Guo} and {Daizong Ding} and {Gongshen Liu} and {Zhuosheng Zhang}},
+  year = {2025},
+  eprint = {2505.14289v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.14289v2},
+  note = {First published: 2025-05-20; Recorded arXiv version: v2; Recorded version updated: 2026-06-05T10:24:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

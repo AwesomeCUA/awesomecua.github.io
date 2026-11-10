@@ -1,3 +1,11 @@
+---
+title: "Browserbase Cloud · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-978d1dcd70fde8661b9e/
+updated: 2026-10-18
+type: product
+lang: zh-CN
+---
+
 # Browserbase Cloud
 
 Browserbase Cloud 为智能体应用提供托管式浏览器基础设施。

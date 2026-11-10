@@ -1,3 +1,11 @@
+---
+title: "MoGUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-be89a250747f507a27ef/
+updated: 2026-10-19
+type: dataset
+lang: zh-CN
+---
+
 # MoGUI
 
 Android 应用 GUI 抓取数据包含逐应用导航图，以 UI 操作连接屏幕 ID，另有 200 个分片归档保存捕获的屏幕。

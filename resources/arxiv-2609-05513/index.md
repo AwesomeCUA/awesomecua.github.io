@@ -1,3 +1,11 @@
+---
+title: "When and What to Teach: Budget-Aware Online… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-05513/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # When and What to Teach: Budget-Aware Online Adaptation for Web Agents
 
 Proposes an online teaching framework that decides which web-agent episodes warrant a stronger teacher and which trajectory turns merit training. A solvability gate and score-guided trimming aim to preserve first-attempt performance while reducing teaching and training costs.
@@ -26,6 +34,18 @@ Jianwei Zhang, Sihan Cao, Pengcheng Zheng, Ya Wen, Pei Ke, Kuien Liu, Shen Gao, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-05513/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-05513/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_05513,
+  title = {{When and What to Teach: Budget-Aware Online Adaptation for Web Agents}},
+  author = {{Jianwei Zhang} and {Sihan Cao} and {Pengcheng Zheng} and {Ya Wen} and {Pei Ke} and {Kuien Liu} and {Shen Gao} and {Wei Dong} and {Yang Yang} and {Chaoning Zhang}},
+  year = {2026},
+  eprint = {2609.05513v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.05513v1},
+  note = {First published: 2026-08-31; Recorded arXiv version: v1; Recorded version updated: 2026-08-31T08:40:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

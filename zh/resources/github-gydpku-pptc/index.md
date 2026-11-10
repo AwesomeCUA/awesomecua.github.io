@@ -1,3 +1,11 @@
+---
+title: "PPTC · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gydpku-pptc/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # PPTC
 
 PPTC 是 PowerPoint 创建与编辑基准，通过 API 执行任务，并检查生成的演示文稿文件。

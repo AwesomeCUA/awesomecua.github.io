@@ -1,3 +1,11 @@
+---
+title: "Gomoku Computer-Use Model Comparison · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jns-c-model-comparison-gomoku/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Gomoku Computer-Use Model Comparison
 
 受控评测基准，用于比较前沿 Claude 模型在交互式棋盘游戏推理和 GUI 执行方面的表现。

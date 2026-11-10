@@ -1,3 +1,11 @@
+---
+title: "browser-handoff · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-synacktraa-browser-handoff/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browser-handoff
 
 面向浏览器使用智能体的人机协作交接工具，可暂停自动化操作以供用户手动介入，然后无缝恢复。

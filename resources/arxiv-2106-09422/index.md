@@ -1,3 +1,11 @@
+---
+title: "CRIL: Continual Robot Imitation Learning via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2106-09422/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CRIL: Continual Robot Imitation Learning via Generative and Prediction Model
 
 Status: excluded from the active CUA catalog after scope review.

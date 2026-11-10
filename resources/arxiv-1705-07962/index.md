@@ -1,3 +1,11 @@
+---
+title: "pix2code: Generating Code from a Graphical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1705-07962/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # pix2code: Generating Code from a Graphical User Interface Screenshot
 
 Bibliographic record for pix2code: Generating Code from a Graphical User Interface Screenshot. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tony Beltramelli
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1705-07962/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1705-07962/citation.csl.json
+
+```bibtex
+@misc{arxiv_1705_07962,
+  title = {{pix2code: Generating Code from a Graphical User Interface Screenshot}},
+  author = {{Tony Beltramelli}},
+  year = {2017},
+  eprint = {1705.07962v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1705.07962v2},
+  note = {First published: 2017-05-22; Recorded arXiv version: v2; Recorded version updated: 2017-09-19T11:27:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

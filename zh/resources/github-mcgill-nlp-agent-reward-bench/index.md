@@ -1,3 +1,11 @@
+---
+title: "AgentRewardBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mcgill-nlp-agent-reward-bench/
+updated: 2026-11-02
+type: benchmark
+lang: zh-CN
+---
+
 # AgentRewardBench
 
 AgentRewardBench 提供基准和评估工具，将自动网页智能体评判器对任务成功、附带影响和重复操作的判断与专家判断进行比较。

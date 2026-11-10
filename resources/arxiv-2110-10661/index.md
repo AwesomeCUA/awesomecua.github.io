@@ -1,3 +1,11 @@
+---
+title: "SILG: The Multi-environment Symbolic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2110-10661/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SILG: The Multi-environment Symbolic Interactive Language Grounding Benchmark
 
 Status: excluded from the active CUA catalog after scope review.

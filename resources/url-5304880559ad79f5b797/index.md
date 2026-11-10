@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-14B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5304880559ad79f5b797/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3_5-14B-HF
 
 A Hugging Face format checkpoint in the InternVL3.5 multimodal model family, whose card names GUI interaction among its capabilities and describes Cascade RL training.

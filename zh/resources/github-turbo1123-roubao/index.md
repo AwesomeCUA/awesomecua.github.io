@@ -1,3 +1,11 @@
+---
+title: "Roubao · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-turbo1123-roubao/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Roubao
 
 Kotlin 编写的设备端 Android 手机智能体，无需 PC 即可通过 Shizuku 截图、点击、滑动和输入，使用任意兼容 OpenAI 的 VLM、GUI-Owl 或 MAI-UI 运行规划、执行和反思循环。

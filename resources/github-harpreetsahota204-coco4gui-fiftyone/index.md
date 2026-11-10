@@ -1,3 +1,11 @@
+---
+title: "COCO4GUI Dataset Importer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harpreetsahota204-coco4gui-fiftyone/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # COCO4GUI Dataset Importer
 
 COCO4GUI Dataset Importer loads GUI interaction annotations into FiftyOne, preserving element regions, action points, workflow sequences, and application metadata.

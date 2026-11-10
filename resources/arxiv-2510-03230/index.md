@@ -1,3 +1,11 @@
+---
+title: "Improving GUI Grounding with Explicit… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-03230/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Improving GUI Grounding with Explicit Position-to-Coordinate Mapping
 
 This work addresses GUI localization errors caused by mismatches between visual patch positions and output pixel coordinates. RULER tokens provide explicit coordinate references, while Interleaved MRoPE balances width and height encoding; evaluation uses the ScreenSpot benchmark family.
@@ -26,6 +34,18 @@ Suyuchen Wang, Tianyu Zhang, Ahmed Masry, Christopher Pal, Spandana Gella, Bang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-03230/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-03230/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_03230,
+  title = {{Improving GUI Grounding with Explicit Position-to-Coordinate Mapping}},
+  author = {{Suyuchen Wang} and {Tianyu Zhang} and {Ahmed Masry} and {Christopher Pal} and {Spandana Gella} and {Bang Liu} and {Perouz Taslakian}},
+  year = {2025},
+  eprint = {2510.03230v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.03230v1},
+  note = {First published: 2025-10-03; Recorded arXiv version: v1; Recorded version updated: 2025-10-03T17:59:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "agent-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kortix-ai-agent-computer-use/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # agent-computer-use
 
 Rust CLI（agent-cu）将桌面应用无障碍树快照为元素引用或选择器，供智能体点击、输入、滚动或拖动，在 macOS 使用 AX、Windows 使用 UI Automation、Linux 使用 AT-SPI2。

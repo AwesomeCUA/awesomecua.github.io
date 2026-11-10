@@ -1,3 +1,11 @@
+---
+title: "globot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-globe-engineer-globot/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # globot
 
 一个 Python 浏览器智能体，通过 Playwright 驱动 Chromium，把 DOM 快照转换为带编号的可点击和可输入元素，再由 OpenAI 模型选择点击、输入、滚动或后退操作。

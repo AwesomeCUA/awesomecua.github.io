@@ -1,3 +1,11 @@
+---
+title: "Generative Camera Dolly: Extreme Monocular… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-14868/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis
 
 Bibliographic record for Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Basile Van Hoorick, Rundi Wu, Ege Ozguroglu, Kyle Sargent, Ruoshi Liu, Pavel Tok
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-14868/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-14868/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_14868,
+  title = {{Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis}},
+  author = {{Basile Van Hoorick} and {Rundi Wu} and {Ege Ozguroglu} and {Kyle Sargent} and {Ruoshi Liu} and {Pavel Tokmakov} and {Achal Dave} and {Changxi Zheng} and {Carl Vondrick}},
+  year = {2024},
+  eprint = {2405.14868v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.14868v2},
+  note = {First published: 2024-05-23; Recorded arXiv version: v2; Recorded version updated: 2024-07-05T17:59:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

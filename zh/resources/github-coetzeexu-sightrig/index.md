@@ -1,3 +1,11 @@
+---
+title: "SightRig · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-coetzeexu-sightrig/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # SightRig
 
 SightRig 是可追踪的运行时和可视化工作台，用于检查、约束和回放 GUI 智能体的感知与动作。

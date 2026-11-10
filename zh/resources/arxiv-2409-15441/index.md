@@ -1,3 +1,11 @@
+---
+title: "Steward: Natural Language Web Automation · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-15441/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Steward: Natural Language Web Automation
 
 提出自然语言浏览器自动化系统 Steward，反复规划并执行网站操作；研究真实网站任务中的完成状态检测、状态表示、响应速度和缓存。
@@ -27,6 +35,18 @@ Brian Tang, Kang G. Shin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-15441/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-15441/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_15441,
+  title = {{Steward: Natural Language Web Automation}},
+  author = {{Brian Tang} and {Kang G. Shin}},
+  year = {2024},
+  eprint = {2409.15441v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.15441v1},
+  note = {First published: 2024-09-23; Recorded arXiv version: v1; Recorded version updated: 2024-09-23T18:06:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

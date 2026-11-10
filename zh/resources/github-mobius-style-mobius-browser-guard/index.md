@@ -1,3 +1,11 @@
+---
+title: "mobius-browser-guard · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobius-style-mobius-browser-guard/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mobius-browser-guard
 
 面向 Claude in Chrome 浏览器动作、可审查且不查看内容的权限关卡，由明确的动作风险等级驱动。

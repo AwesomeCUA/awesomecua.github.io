@@ -1,3 +1,11 @@
+---
+title: "Focused Omni-Modal GUI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26203/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Focused Omni-Modal GUI Agents
 
 FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
@@ -26,6 +34,18 @@ Fuyao Zhang, Wenwen He, Jiaming Zhang, Yurong Hao, Xuan Wang, Guowei Guan, Che W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26203/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26203/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26203,
+  title = {{Focused Omni-Modal GUI Agents}},
+  author = {{Fuyao Zhang} and {Wenwen He} and {Jiaming Zhang} and {Yurong Hao} and {Xuan Wang} and {Guowei Guan} and {Che Wang} and {Longtao Huang} and {Wei Yang Bryan Lim}},
+  year = {2026},
+  eprint = {2610.26203v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26203v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T11:30:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

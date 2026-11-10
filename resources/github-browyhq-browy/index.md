@@ -1,3 +1,11 @@
+---
+title: "Browy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browyhq-browy/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Browy
 
 Browy is a browser automation agent that drives live Chrome tabs using existing AI coding CLI subscriptions.

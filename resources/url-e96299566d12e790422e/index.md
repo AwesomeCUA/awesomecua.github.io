@@ -1,3 +1,11 @@
+---
+title: "Screen2AX-Element | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e96299566d12e790422e/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Screen2AX-Element
 
 A dataset of macOS application screenshots with UI element boxes and category labels for training and evaluating interface element detectors.

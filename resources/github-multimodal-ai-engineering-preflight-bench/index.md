@@ -1,3 +1,11 @@
+---
+title: "Preflight-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Preflight-Bench
 
 Preflight-Bench evaluates pre-click staleness checks and page-load synchronization for computer-use agents operating under asynchronous UI updates.

@@ -1,3 +1,11 @@
+---
+title: "Dreamer-7B-Shopping | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3173abbb295c74d0e9ec/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Dreamer-7B-Shopping
 
 A shopping-domain Dreamer-7B checkpoint for WebDreamer, which uses screenshot-conditioned predictions of candidate web actions to support agent planning.

@@ -1,3 +1,11 @@
+---
+title: "kamalesh404 AgentOS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kamalesh404-agentos/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # kamalesh404 AgentOS
 
 自主 AI 智能体框架，用于编排网页浏览、编程和桌面任务。

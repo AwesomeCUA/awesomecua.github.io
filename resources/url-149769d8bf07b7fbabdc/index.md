@@ -1,3 +1,11 @@
+---
+title: "VisualWebBench dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/
+updated: 2026-11-02
+type: dataset
+lang: en
+---
+
 # VisualWebBench dataset
 
 Hugging Face dataset release for VisualWebBench spanning seven visual web understanding, OCR, element grounding, and action prediction tasks.

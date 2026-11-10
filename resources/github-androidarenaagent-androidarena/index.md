@@ -1,3 +1,11 @@
+---
+title: "AndroidArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-androidarenaagent-androidarena/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # AndroidArena
 
 Android environment for evaluating language-model-driven agents.

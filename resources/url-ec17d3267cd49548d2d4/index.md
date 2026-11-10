@@ -1,3 +1,11 @@
+---
+title: "BugCraft | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # BugCraft
 
 A vision-based agent that converts Minecraft crash reports into reproduction steps and executes them through a macro API. Its project page also describes BugCraft-Bench.

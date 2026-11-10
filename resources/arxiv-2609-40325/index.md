@@ -1,3 +1,11 @@
+---
+title: "WorldAuditBench: Interactive 3D World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-40325/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents
 
 Bibliographic record for WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ziyan Jiang, Jingbo Yang, Jiabao Ji, Yujian Liu, Qiucheng Wu, Tommi Jaakkola, Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-40325/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-40325/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_40325,
+  title = {{WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents}},
+  author = {{Ziyan Jiang} and {Jingbo Yang} and {Jiabao Ji} and {Yujian Liu} and {Qiucheng Wu} and {Tommi Jaakkola} and {Yang Zhang} and {Shiyu Chang}},
+  year = {2026},
+  eprint = {2609.40325v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.40325v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T17:55:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

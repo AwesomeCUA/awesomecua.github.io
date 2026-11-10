@@ -1,3 +1,11 @@
+---
+title: "neuron-inspector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-conquext-neuron-inspector/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # neuron-inspector
 
 Exposes 98 Chrome inspection, DOM debugging, network tracing, and interaction tools to AI agents over MCP.

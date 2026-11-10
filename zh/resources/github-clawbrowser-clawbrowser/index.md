@@ -1,3 +1,11 @@
+---
+title: "Clawbrowser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clawbrowser-clawbrowser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Clawbrowser
 
 Clawbrowser 是面向智能体的托管 Chromium 运行时，支持指纹轮换、代理路由和持久会话状态。

@@ -1,3 +1,11 @@
+---
+title: "wavexis | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mathiaspaulenko-wavexis/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # wavexis
 
 wavexis is a browser automation CLI that runs navigation and page actions through CDP or WebDriver BiDi, with interactive and multi-action modes.

@@ -1,3 +1,11 @@
+---
+title: "hyprhands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-berker-z-hyprhands/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # hyprhands
 
 Hyprland Wayland computer-use MCP server giving AI agents semantic and pixel-level desktop control.

@@ -1,3 +1,11 @@
+---
+title: "Chrome Extension Tester MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bhuvan-rj-chrome-extension-testing-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome Extension Tester MCP
 
 基于 Playwright 的 Model Context Protocol 服务器，让编码智能体能够加载、检查和自主测试未打包的 Chrome 扩展。

@@ -1,3 +1,11 @@
+---
+title: "A Dual-Process Perspective on Nudge… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-19843/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents
 
 研究不同推理配置下，自动设置的默认选项和引发反思的社会影响提示如何影响 GUI 智能体的购物决策。随机模拟购物实验发现，推理改变了受影响的方式。
@@ -27,6 +35,18 @@ Haya Halimeh, Sascha Kaltenpoth, Kevin Bösch, Oliver Müller
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-19843/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-19843/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_19843,
+  title = {{A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents}},
+  author = {{Haya Halimeh} and {Sascha Kaltenpoth} and {Kevin Bösch} and {Oliver Müller}},
+  year = {2026},
+  eprint = {2609.19843v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.19843v1},
+  note = {First published: 2026-09-17; Recorded arXiv version: v1; Recorded version updated: 2026-09-17T07:54:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

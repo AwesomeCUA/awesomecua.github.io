@@ -1,3 +1,11 @@
+---
+title: "Towards Physically Grounded Articulated 3D… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13947/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark
 
 Bibliographic record for Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xudong Cai, Ruijie Zhu, Haoliang Shang, Ruining Li, Marc Pollefeys, Shangzhe Wu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13947/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13947/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13947,
+  title = {{Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark}},
+  author = {{Xudong Cai} and {Ruijie Zhu} and {Haoliang Shang} and {Ruining Li} and {Marc Pollefeys} and {Shangzhe Wu} and {Andrea Vedaldi} and {Chuanxia Zheng}},
+  year = {2026},
+  eprint = {2610.13947v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13947v3},
+  note = {First published: 2026-10-09; Recorded arXiv version: v3; Recorded version updated: 2026-10-16T10:52:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

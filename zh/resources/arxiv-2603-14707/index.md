@@ -1,3 +1,11 @@
+---
+title: "Visual Confused Deputy: Exploiting and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-14707/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Visual Confused Deputy: Exploiting and Defending Perception Failures in Computer-Using Agents
 
 形式化描述一种视觉混淆代理失效：计算机操作智能体因误认 UI 对象而采取动作。独立的防护模块在允许执行前，依据特定部署环境的知识检查视觉目标和智能体的动作推理。
@@ -27,6 +35,18 @@ Xunzhuo Liu, Bowei He, Xue Liu, Andy Luo, Haichen Zhang, Huamin Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-14707/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-14707/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_14707,
+  title = {{Visual Confused Deputy: Exploiting and Defending Perception Failures in Computer-Using Agents}},
+  author = {{Xunzhuo Liu} and {Bowei He} and {Xue Liu} and {Andy Luo} and {Haichen Zhang} and {Huamin Chen}},
+  year = {2026},
+  eprint = {2603.14707v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.14707v1},
+  note = {First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T01:31:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

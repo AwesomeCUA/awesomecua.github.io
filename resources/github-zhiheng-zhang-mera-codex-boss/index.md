@@ -1,3 +1,11 @@
+---
+title: "Codex Boss Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhiheng-zhang-mera-codex-boss/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Codex Boss Desktop
 
 Local-first Electron controller for multi-model deliberation and evidence-preserving computer-use orchestration.

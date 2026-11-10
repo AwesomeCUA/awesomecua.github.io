@@ -1,3 +1,11 @@
+---
+title: "rote | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bhuvanb3110-rote/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # rote
 
 Record-once, replay-many computer-use automation framework for legacy banking and back-office web applications lacking APIs.

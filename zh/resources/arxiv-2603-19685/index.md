@@ -1,3 +1,11 @@
+---
+title: "A Subgoal-driven Framework for Improving… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-19685/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # A Subgoal-driven Framework for Improving Long-Horizon LLM Agents
 
 该框架将推理阶段的子目标规划与提供里程碑奖励的强化学习方法 MiRA 分开。WebArena-Lite 实验评估两者在长程网页导航中的作用。
@@ -27,6 +35,18 @@ Taiyi Wang, Sian Gooding, Florian Hartmann, Oriana Riva, Edward Grefenstette
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-19685/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-19685/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_19685,
+  title = {{A Subgoal-driven Framework for Improving Long-Horizon LLM Agents}},
+  author = {{Taiyi Wang} and {Sian Gooding} and {Florian Hartmann} and {Oriana Riva} and {Edward Grefenstette}},
+  year = {2026},
+  eprint = {2603.19685v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.19685v1},
+  note = {First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T06:32:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "bytehunt br (Agent Browser CLI) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bytehunt-br/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # bytehunt br (Agent Browser CLI)
 
 面向智能体的浏览器 CLI，由 Bun WebView 驱动，并通过终端 Kitty 图形协议渲染。

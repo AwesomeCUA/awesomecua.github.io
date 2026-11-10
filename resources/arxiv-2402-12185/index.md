@@ -1,3 +1,11 @@
+---
+title: "ChartX & ChartVLM: A Versatile Benchmark and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-12185/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning
 
 Bibliographic record for ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-12185/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-12185/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_12185,
+  title = {{ChartX \& ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning}},
+  author = {{Renqiu Xia} and {Bo Zhang} and {Hancheng Ye} and {Xiangchao Yan} and {Qi Liu} and {Hongbin Zhou} and {Zijun Chen} and {Peng Ye} and {Min Dou} and {Botian Shi} and {Junchi Yan} and {Yu Qiao}},
+  year = {2024},
+  eprint = {2402.12185v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.12185v6},
+  note = {First published: 2024-02-19; Recorded arXiv version: v6; Recorded version updated: 2025-04-27T11:31:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

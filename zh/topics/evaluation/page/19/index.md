@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 19 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/19/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 19 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [TimeWarp](https://awesomecua.com/zh/resources/github-sparklabutah-timewarp/)
 - [TurkingBench](https://awesomecua.com/zh/resources/url-808a22468ee0bf565d6e/)
 - [UI-FaultLab](https://awesomecua.com/zh/resources/github-kakoyvostorg-ui-faultlab/)
 - [UI-I2E-Bench](https://awesomecua.com/zh/resources/url-c08566be0d973ec40c48/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 - [WindTunnel](https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/)
 - [WONDERBREAD](https://awesomecua.com/zh/resources/github-hazyresearch-wonderbread/)
 - [WorkArena](https://awesomecua.com/zh/resources/github-servicenow-workarena/)
+- [WorkArena-Instances](https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/)

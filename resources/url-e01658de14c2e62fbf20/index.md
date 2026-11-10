@@ -1,3 +1,11 @@
+---
+title: "OS-Copilot/OSReward | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e01658de14c2e62fbf20/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # OS-Copilot/OSReward
 
 OSReward releases labeled computer-use trajectories with aligned screenshots in Full and Hard test sets for evaluating task-success judgments.

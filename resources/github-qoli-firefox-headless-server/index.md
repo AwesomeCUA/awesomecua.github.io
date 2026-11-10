@@ -1,3 +1,11 @@
+---
+title: "firefox-headless-server MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qoli-firefox-headless-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # firefox-headless-server MCP
 
 TypeScript Model Context Protocol server for launching and controlling headless Firefox browser sessions, DOM extraction, and downloads.

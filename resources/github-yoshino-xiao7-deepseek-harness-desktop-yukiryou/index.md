@@ -1,3 +1,11 @@
+---
+title: "DeepSeek Harness Desktop YukiRyou | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DeepSeek Harness Desktop YukiRyou
 
 Enhanced desktop client distribution for DeepSeek Harness with pre-integrated computer-use and browser plugins.

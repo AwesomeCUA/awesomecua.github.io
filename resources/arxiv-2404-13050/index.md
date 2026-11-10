@@ -1,3 +1,11 @@
+---
+title: "FlowMind: Automatic Workflow Generation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-13050/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # FlowMind: Automatic Workflow Generation with LLMs
 
 FlowMind generates API-based workflows from user requests for process automation and presents workflow descriptions that users can inspect and comment on.
@@ -26,6 +34,18 @@ Zhen Zeng, William Watson, Nicole Cho, Saba Rahimi, Shayleen Reynolds, Tucker Ba
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-13050/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-13050/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_13050,
+  title = {{FlowMind: Automatic Workflow Generation with LLMs}},
+  author = {{Zhen Zeng} and {William Watson} and {Nicole Cho} and {Saba Rahimi} and {Shayleen Reynolds} and {Tucker Balch} and {Manuela Veloso}},
+  year = {2024},
+  eprint = {2404.13050v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.13050v1},
+  note = {First published: 2024-03-17; Recorded arXiv version: v1; Recorded version updated: 2024-03-17T00:36:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

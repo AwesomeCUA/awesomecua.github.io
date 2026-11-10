@@ -1,3 +1,11 @@
+---
+title: "DeskMind | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deskmind-ai-deskmind/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DeskMind
 
 DeskMind is a local-first macOS computer-use agent that combines accessibility inspection, DeskMind Eyes grounding, and user clarification.

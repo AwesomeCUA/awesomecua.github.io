@@ -1,3 +1,11 @@
+---
+title: "minitouch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-devicefarmer-minitouch/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # minitouch
 
 一个 Android 二进制程序，通过 socket、标准输入或文件接收逐行文本命令，注入多点触控事件和手势；在较早的 SDK 版本上可经 ADB 免 root 运行。

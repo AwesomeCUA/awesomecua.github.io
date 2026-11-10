@@ -1,3 +1,11 @@
+---
+title: "Altairpaca DSH Computer Use for Windows · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-altairpaca-dsh-computer-use-windows/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Altairpaca DSH Computer Use for Windows
 
 适用于 DeepSeek Harness 的 Windows 计算机使用插件，提供限定于窗口的截图、OCR 定位和经过验证的点击。

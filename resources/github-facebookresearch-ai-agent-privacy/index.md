@@ -1,3 +1,11 @@
+---
+title: "AgentDAM | AwesomeCUA"
+url: https://awesomecua.com/resources/github-facebookresearch-ai-agent-privacy/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # AgentDAM
 
 Web-agent benchmark for measuring unnecessary use of sensitive personal information during end-to-end task execution.

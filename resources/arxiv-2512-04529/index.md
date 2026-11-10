@@ -1,3 +1,11 @@
+---
+title: "SlideGen: Collaborative Multimodal Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-04529/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation
 
 Bibliographic record for SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xin Liang, Zhilin Zhang, Xiang Zhang, Haoran Su, Yiwei Xu, Siqi Sun, Chenyu You
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-04529/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-04529/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_04529,
+  title = {{SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation}},
+  author = {{Xin Liang} and {Zhilin Zhang} and {Xiang Zhang} and {Haoran Su} and {Yiwei Xu} and {Siqi Sun} and {Chenyu You}},
+  year = {2025},
+  eprint = {2512.04529v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.04529v3},
+  note = {First published: 2025-12-04; Recorded arXiv version: v3; Recorded version updated: 2026-08-22T17:47:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

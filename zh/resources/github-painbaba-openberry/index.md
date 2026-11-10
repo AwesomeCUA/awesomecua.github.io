@@ -1,3 +1,11 @@
+---
+title: "OpenBerry · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-painbaba-openberry/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OpenBerry
 
 面向 Windows 的本地智能体网页浏览器，受 Strawberry Browser 启发，用于自主开展目标驱动的浏览。

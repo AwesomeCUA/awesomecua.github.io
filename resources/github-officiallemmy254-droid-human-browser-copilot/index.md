@@ -1,3 +1,11 @@
+---
+title: "Human Browser Copilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-officiallemmy254-droid-human-browser-copilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Human Browser Copilot
 
 Agentic Chrome copilot featuring organic mouse kinematics, visual perception, and natural-language web task execution.

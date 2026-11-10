@@ -1,3 +1,11 @@
+---
+title: "Dugle Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-duckmartians-dugle-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Dugle Browser
 
 Custom Chromium build with engine-level compiled device fingerprints for stealth browser automation.

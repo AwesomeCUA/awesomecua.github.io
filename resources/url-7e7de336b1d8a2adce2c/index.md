@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_plan_iterative-13B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # lumos_web_agent_plan_iterative-13B
 
 A released Lumos checkpoint for planning web-agent tasks within an iterative architecture that separates planning, grounding and execution.

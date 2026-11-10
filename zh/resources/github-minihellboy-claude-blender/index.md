@@ -1,3 +1,11 @@
+---
+title: "Claude Blender · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-minihellboy-claude-blender/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Claude Blender
 
 一个 MCP 服务器和 Blender 插件，让 AI 助手通过工具控制场景、查看截图与渲染结果，并根据视觉反馈修改作品。

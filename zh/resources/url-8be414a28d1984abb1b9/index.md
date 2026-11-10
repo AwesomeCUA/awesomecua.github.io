@@ -1,3 +1,11 @@
+---
+title: "TimeWarp · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8be414a28d1984abb1b9/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # TimeWarp
 
 包含 231 个网页智能体任务目标的数据集，覆盖六个界面时代的 Wiki、News 和 Shop 网站，并提供训练集、测试集及评估器规范。

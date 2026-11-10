@@ -1,3 +1,11 @@
+---
+title: "TinyFish (publisher) | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-tinyfish/
+updated: 2026-10-16
+type: company
+lang: en
+---
+
 # TinyFish
 
 Publisher or product brand associated with TinyFish computer-use or browser automation offerings.

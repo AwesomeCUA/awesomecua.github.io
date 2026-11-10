@@ -1,3 +1,11 @@
+---
+title: "WebSentinel detection demo · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wxl-lxw-websentinel/
+updated: 2026-10-18
+type: tool
+lang: zh-CN
+---
+
 # WebSentinel detection demo
 
 WebSentinel 上下文检查演示：GPT-4o 结合页面上下文判断 144 个已提取的注入网页样本中的弹窗、邮件和消息 HTML 片段，并报告漏检数量。

@@ -1,3 +1,11 @@
+---
+title: "Vulnerability Liquefaction Mapping in Padang… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-02210/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Vulnerability Liquefaction Mapping in Padang City Based on Cloud Computing Using Optical Satellite Imagery Data
 
 Status: excluded from the active CUA catalog after scope review.

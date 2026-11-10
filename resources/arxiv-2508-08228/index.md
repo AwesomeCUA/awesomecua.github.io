@@ -1,3 +1,11 @@
+---
+title: "LL3M: Large Language 3D Modelers | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-08228/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LL3M: Large Language 3D Modelers
 
 Bibliographic record for LL3M: Large Language 3D Modelers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sining Lu, Guan Chen, Nam Anh Dinh, Itai Lang, Ari Holtzman, Rana Hanocka
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-08228/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-08228/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_08228,
+  title = {{LL3M: Large Language 3D Modelers}},
+  author = {{Sining Lu} and {Guan Chen} and {Nam Anh Dinh} and {Itai Lang} and {Ari Holtzman} and {Rana Hanocka}},
+  year = {2025},
+  eprint = {2508.08228v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.08228v1},
+  note = {First published: 2025-08-11; Recorded arXiv version: v1; Recorded version updated: 2025-08-11T17:48:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

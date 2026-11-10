@@ -1,3 +1,11 @@
+---
+title: "OSWorld-Science | AwesomeCUA"
+url: https://awesomecua.com/resources/github-discoailab-osworld-science/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # OSWorld-Science
 
 Benchmark harness that runs computer-use agents on scientific-software tasks in per-domain VMs and scores the resulting application states and deliverables with task-specific executable evaluators.

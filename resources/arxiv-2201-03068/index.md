@@ -1,3 +1,11 @@
+---
+title: "Study of the effect of quantum noise on the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2201-03068/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Study of the effect of quantum noise on the accuracy of the Schrodinger equation simulation on a quantum computer using the Zalka-Wiesner method
 
 Status: excluded from the active CUA catalog after scope review.

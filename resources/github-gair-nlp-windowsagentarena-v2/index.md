@@ -1,3 +1,11 @@
+---
+title: "WindowsAgentArena-V2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # WindowsAgentArena-V2
 
 Windows benchmark revision with task/evaluator fixes and VM-initialization support, documented alongside PC-Agent-E.

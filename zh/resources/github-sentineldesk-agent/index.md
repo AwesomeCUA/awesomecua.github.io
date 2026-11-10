@@ -1,3 +1,11 @@
+---
+title: "sentineldesk-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sentineldesk-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # sentineldesk-agent
 
 sentineldesk-agent 通过 MCP 工具操作 Linux 桌面，提供终端和浏览器聊天界面，并记录目标、操作及结果。

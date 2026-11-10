@@ -1,3 +1,11 @@
+---
+title: "GUI-GENESIS: Automated Synthesis of Efficient… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-14093/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training
 
 GUI-GENESIS reconstructs applications as lightweight web environments with executable assertions for reward computation. It evaluates the cost of these training environments and transfer from synthetic interaction training to held-out real tasks.
@@ -26,6 +34,18 @@ Yuan Cao, Dezhi Ran, Mengzhou Wu, Yuzhe Guo, Xin Chen, Ang Li, Gang Cao, Gong Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-14093/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-14093/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_14093,
+  title = {{GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training}},
+  author = {{Yuan Cao} and {Dezhi Ran} and {Mengzhou Wu} and {Yuzhe Guo} and {Xin Chen} and {Ang Li} and {Gang Cao} and {Gong Zhi} and {Hao Yu} and {Linyi Li} and {Wei Yang} and {Tao Xie}},
+  year = {2026},
+  eprint = {2602.14093v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.14093v1},
+  note = {First published: 2026-02-15; Recorded arXiv version: v1; Recorded version updated: 2026-02-15T10:58:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

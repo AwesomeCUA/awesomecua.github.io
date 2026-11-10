@@ -1,3 +1,11 @@
+---
+title: "MemU-Bench: Benchmarking GUI Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-00191/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions
 
 Introduces MemU-Bench for mobile GUI tasks that depend on past user interactions, alongside AppMem, a training-free memory framework for retrieving app-specific context.
@@ -26,6 +34,18 @@ Yizhou Liu, Zhengxi Lu, Fei Tang, Yiwen Qiu, Yong Du, Tongbo Chen, Bofan Chen, T
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-00191/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-00191/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00191,
+  title = {{MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions}},
+  author = {{Yizhou Liu} and {Zhengxi Lu} and {Fei Tang} and {Yiwen Qiu} and {Yong Du} and {Tongbo Chen} and {Bofan Chen} and {Tao Jiang} and {Wenhao Xu} and {Yunfeng Shu} and {Wenqi Zhang} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2611.00191v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00191v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T17:41:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

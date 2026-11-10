@@ -1,3 +1,11 @@
+---
+title: "AutoBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/url-62df6dac6ade720ddd70/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # AutoBrowser
 
 Chrome side-panel extension that runs a browser-use-style web agent: it indexes a tab's interactive elements and has a user-configured OpenAI-compatible model open tabs, click, type and press keys.

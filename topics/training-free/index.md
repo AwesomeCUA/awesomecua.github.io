@@ -1,3 +1,11 @@
+---
+title: "Training-free methods — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/training-free/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Training-free methods
 
 Reviewed topic membership; resources can appear in multiple topics.

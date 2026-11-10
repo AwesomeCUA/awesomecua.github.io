@@ -1,3 +1,11 @@
+---
+title: "AlgoTune: Can Language Models Speed Up… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-15887/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?
 
 Bibliographic record for AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ori Press, Brandon Amos, Haoyu Zhao, Yikai Wu, Samuel K. Ainsworth, Dominik Krup
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-15887/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-15887/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_15887,
+  title = {{AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?}},
+  author = {{Ori Press} and {Brandon Amos} and {Haoyu Zhao} and {Yikai Wu} and {Samuel K. Ainsworth} and {Dominik Krupke} and {Patrick Kidger} and {Touqir Sajed} and {Bartolomeo Stellato} and {Jisun Park} and {Nathanael Bosch} and {Eli Meril} and {Albert Steppi} and {Arman Zharmagambetov} and {Fangzhao Zhang} and {David Perez-Pineiro} and {Alberto Mercurio} and {Ni Zhan} and {Talor Abramovich} and {Kilian Lieret} and {Hanlin Zhang} and {Shirley Huang} and {Matthias Bethge} and {Ofir Press}},
+  year = {2025},
+  eprint = {2507.15887v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.15887v4},
+  note = {First published: 2025-07-19; Recorded arXiv version: v4; Recorded version updated: 2025-10-24T12:16:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

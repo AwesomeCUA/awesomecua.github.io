@@ -1,3 +1,11 @@
+---
+title: "Code4Scene: Benchmarking Coding Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-36777/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Code4Scene: Benchmarking Coding Agents for Constructing and Editing 3D Scenes
 
 Bibliographic record for Code4Scene: Benchmarking Coding Agents for Constructing and Editing 3D Scenes. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xiaokang Ye, Siddhant Hitesh Mantri, Zimeng Chen, Edward Zhang, Zhaoxu Zheng, Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-36777/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-36777/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36777,
+  title = {{Code4Scene: Benchmarking Coding Agents for Constructing and Editing 3D Scenes}},
+  author = {{Xiaokang Ye} and {Siddhant Hitesh Mantri} and {Zimeng Chen} and {Edward Zhang} and {Zhaoxu Zheng} and {Yuanheng Li} and {Yizhao Chen} and {Tianyang Huang} and {Lianhui Qin}},
+  year = {2026},
+  eprint = {2609.36777v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36777v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T05:49:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

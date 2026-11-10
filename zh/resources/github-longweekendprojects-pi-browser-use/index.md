@@ -1,3 +1,11 @@
+---
+title: "pi-browser-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-longweekendprojects-pi-browser-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pi-browser-use
 
 原生 `pi` 编码智能体工具，通过 CDP 和可复用的网站操作单元驱动用户已登录的 Arc 或 Chrome 浏览器。

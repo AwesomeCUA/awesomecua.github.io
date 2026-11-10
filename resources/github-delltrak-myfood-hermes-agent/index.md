@@ -1,3 +1,11 @@
+---
+title: "MyFood Hermes Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-delltrak-myfood-hermes-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # MyFood Hermes Agent
 
 Safety-first Hermes browser agent for ordering food through a visible web browser with explicit checkout confirmation.

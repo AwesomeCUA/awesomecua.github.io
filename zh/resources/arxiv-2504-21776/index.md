@@ -1,3 +1,11 @@
+---
+title: "WebThinker: Empowering Large Reasoning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-21776/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # WebThinker: Empowering Large Reasoning Models with Deep Research Capability
 
 结合迭代式网页搜索、链接跟踪、交错推理与报告起草开展深度研究。其网页探索模块通过爬虫获取页面内容。
@@ -27,6 +35,18 @@ Xiaoxi Li, Jiajie Jin, Guanting Dong, Hongjin Qian, Yongkang Wu, Ji-Rong Wen, Yu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-21776/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-21776/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_21776,
+  title = {{WebThinker: Empowering Large Reasoning Models with Deep Research Capability}},
+  author = {{Xiaoxi Li} and {Jiajie Jin} and {Guanting Dong} and {Hongjin Qian} and {Yongkang Wu} and {Ji-Rong Wen} and {Yutao Zhu} and {Zhicheng Dou}},
+  year = {2025},
+  eprint = {2504.21776v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.21776v2},
+  note = {First published: 2025-04-30; Recorded arXiv version: v2; Recorded version updated: 2025-10-13T12:40:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

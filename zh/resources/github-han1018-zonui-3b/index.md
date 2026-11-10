@@ -1,3 +1,11 @@
+---
+title: "ZonUI-3B · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-han1018-zonui-3b/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ZonUI-3B
 
 ZonUI-3B 的训练与评测代码，用于在不同分辨率的移动端、桌面和网页截图中定位界面目标。

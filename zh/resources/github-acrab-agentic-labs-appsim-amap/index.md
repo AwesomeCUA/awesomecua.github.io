@@ -1,3 +1,11 @@
+---
+title: "Amap-Sim · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-amap/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Amap-Sim
 
 面向 AI 自动化测试的离线 Android 地图仿真应用，支持地图浏览、地点搜索、路线规划和导航，使用本地准备的数据。

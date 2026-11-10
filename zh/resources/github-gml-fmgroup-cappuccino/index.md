@@ -1,3 +1,11 @@
+---
+title: "Cappuccino · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gml-fmgroup-cappuccino/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Cappuccino
 
 Cappuccino 是纯视觉桌面 GUI 智能体，可根据自然语言指令规划并执行多步骤计算机任务。

@@ -1,3 +1,11 @@
+---
+title: "SpiritSight-Agent-2B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-37570eed422d326bfa5a/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # SpiritSight-Agent-2B
 
 A 2B vision-based GUI agent checkpoint for interface navigation across GUI platforms, released with an inference script and base-model information.

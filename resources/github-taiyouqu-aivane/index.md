@@ -1,3 +1,11 @@
+---
+title: "AIVANE | AwesomeCUA"
+url: https://awesomecua.com/resources/github-taiyouqu-aivane/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AIVANE
 
 AIVANE is a cross-platform GUI automation assistant that combines YOLO icon detection, OCR, and multimodal LLMs for desktop control.

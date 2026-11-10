@@ -1,3 +1,11 @@
+---
+title: "Desktop Commander MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wonderwhy-er-desktopcommandermcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Desktop Commander MCP
 
 Desktop Commander MCP is a Model Context Protocol server for terminal process control, interactive REPLs, and surgical file editing.

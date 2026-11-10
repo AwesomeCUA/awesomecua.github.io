@@ -1,3 +1,11 @@
+---
+title: "AgentEval · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-85b700fbb7f1c599b7c3/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # AgentEval
 
 AgentGym 框架的基准套件：包含 1,160 条测试样本，覆盖 14 个环境，其中有 WebShop 和 WebArena 网页任务，以及文本游戏、具身、工具使用和 SQL 任务。

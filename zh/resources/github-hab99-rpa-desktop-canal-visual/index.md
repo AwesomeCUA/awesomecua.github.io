@@ -1,3 +1,11 @@
+---
+title: "RPA Desktop Canal Visual · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hab99-rpa-desktop-canal-visual/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # RPA Desktop Canal Visual
 
 闭环视觉桌面 RPA 运行时，仅依据屏幕截图操控隔离的终端和 GUI 应用程序。

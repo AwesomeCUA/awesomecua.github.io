@@ -1,3 +1,11 @@
+---
+title: "SWEeper-Bench: Can Agents Discover Bugs in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14096/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?
 
 Bibliographic record for SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yang Yao, Haozhe Chen, Bingyi Kang, Karthik R Narasimhan, Zhuang Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14096/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14096/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14096,
+  title = {{SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?}},
+  author = {{Yang Yao} and {Haozhe Chen} and {Bingyi Kang} and {Karthik R Narasimhan} and {Zhuang Liu}},
+  year = {2026},
+  eprint = {2610.14096v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14096v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T19:05:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

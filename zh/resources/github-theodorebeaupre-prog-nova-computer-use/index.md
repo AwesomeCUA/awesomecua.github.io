@@ -1,3 +1,11 @@
+---
+title: "NOVA Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-theodorebeaupre-prog-nova-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # NOVA Computer Use
 
 面向 Intel 和 Apple Silicon Mac 上的 Codex 的原生、以本地为优先的 macOS 计算机使用运行环境。

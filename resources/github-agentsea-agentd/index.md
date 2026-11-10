@@ -1,3 +1,11 @@
+---
+title: "agentd | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentsea-agentd/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # agentd
 
 AgentD exposes a desktop session through an HTTP API for screenshots, mouse and keyboard actions, browser opening, and session recording.

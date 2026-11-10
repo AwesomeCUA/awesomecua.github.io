@@ -1,3 +1,11 @@
+---
+title: "Lusipad Browser Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lusipad-browser-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Lusipad Browser Agent
 
 在 Chrome 侧边栏运行的自主 AI 浏览器智能体，支持视觉 ROI 感知、快慢双过程认知和本地 LLM。

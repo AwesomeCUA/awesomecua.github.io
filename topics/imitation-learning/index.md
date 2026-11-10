@@ -1,3 +1,11 @@
+---
+title: "Imitation learning — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/imitation-learning/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Imitation learning
 
 Reviewed topic membership; resources can appear in multiple topics.

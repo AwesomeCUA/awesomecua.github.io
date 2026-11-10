@@ -1,3 +1,11 @@
+---
+title: "LongHorizon-Harness · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amap-ml-longhorizon-harness/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LongHorizon-Harness
 
 LongHorizon-Harness 将桌面和 CLI 智能体置于持续的规划、动作、验证、恢复循环中，以执行长达数小时的自主计算机使用工作流。

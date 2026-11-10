@@ -1,3 +1,11 @@
+---
+title: "WebRL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-webrl/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # WebRL
 
 Training pipeline that evolves web tasks from prior attempts and uses an outcome reward model to refine browser policies.

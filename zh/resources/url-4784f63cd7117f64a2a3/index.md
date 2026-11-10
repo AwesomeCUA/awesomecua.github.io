@@ -1,3 +1,11 @@
+---
+title: "ScienceBoard evaluation trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4784f63cd7117f64a2a3/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # ScienceBoard evaluation trajectories
 
 ScienceBoard 智能体评估运行记录的归档，按智能体配置及截图、无障碍树或标记集观察模式分别组织。

@@ -1,3 +1,11 @@
+---
+title: "Memory Intelligence Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-04503/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Memory Intelligence Agent
 
 Bibliographic record for Memory Intelligence Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jingyang Qiao, Weicheng Meng, Yu Cheng, Zhihang Lin, Zhizhong Zhang, Xin Tan, Ji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-04503/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-04503/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_04503,
+  title = {{Memory Intelligence Agent}},
+  author = {{Jingyang Qiao} and {Weicheng Meng} and {Yu Cheng} and {Zhihang Lin} and {Zhizhong Zhang} and {Xin Tan} and {Jingyu Gong} and {Kun Shao} and {Yuan Xie}},
+  year = {2026},
+  eprint = {2604.04503v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.04503v4},
+  note = {First published: 2026-04-06; Recorded arXiv version: v4; Recorded version updated: 2026-04-19T09:08:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

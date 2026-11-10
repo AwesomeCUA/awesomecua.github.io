@@ -1,3 +1,11 @@
+---
+title: "Tailorec Browser Orchestrator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Tailorec Browser Orchestrator
 
 Run-isolated browser orchestration service that converts webpages into semantic snapshots with stable element references.

@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning with Foundation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-02635/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own
 
 Bibliographic record for Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weirui Ye, Yunsheng Zhang, Haoyang Weng, Xianfan Gu, Shengjie Wang, Tong Zhang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-02635/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-02635/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_02635,
+  title = {{Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own}},
+  author = {{Weirui Ye} and {Yunsheng Zhang} and {Haoyang Weng} and {Xianfan Gu} and {Shengjie Wang} and {Tong Zhang} and {Mengchen Wang} and {Pieter Abbeel} and {Yang Gao}},
+  year = {2023},
+  eprint = {2310.02635v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.02635v5},
+  note = {First published: 2023-10-04; Recorded arXiv version: v5; Recorded version updated: 2026-04-23T15:06:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WebGuard (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-webguard/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # WebGuard
 
 Codebase, annotation toolkit, and action-level risk dataset for training and evaluating guardrail models that flag unsafe browser-agent actions before execution.

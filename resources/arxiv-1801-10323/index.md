@@ -1,3 +1,11 @@
+---
+title: "Privacy-Preserving Secret Shared Computations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1801-10323/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Privacy-Preserving Secret Shared Computations using MapReduce
 
 Status: excluded from the active CUA catalog after scope review.

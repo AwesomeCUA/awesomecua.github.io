@@ -1,3 +1,11 @@
+---
+title: "Computer Use AI SDK · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mediar-ai-mcp-server-client-computer-use-ai-sdk/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Computer Use AI SDK
 
 Computer Use AI SDK 提供 MCP 服务器和客户端，通过操作系统原生无障碍树操作桌面应用。

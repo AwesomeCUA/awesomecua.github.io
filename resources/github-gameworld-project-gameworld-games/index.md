@@ -1,3 +1,11 @@
+---
+title: "GameWorld Games | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gameworld-project-gameworld-games/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # GameWorld Games
 
 GameWorld Games supplies browser-game snapshots for agent evaluation, each with an API for initialization, reset and game-state inspection.

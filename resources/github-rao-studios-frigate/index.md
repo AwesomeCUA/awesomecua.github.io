@@ -1,3 +1,11 @@
+---
+title: "Frigate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rao-studios-frigate/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Frigate
 
 A Swift ML package that includes a macOS screen-perception module. It detects regions, recognizes text, classifies interface roles, and produces a page map.

@@ -1,3 +1,11 @@
+---
+title: "Homonym Population Protocols, or Providing a… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1412-2497/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Homonym Population Protocols, or Providing a Small Space of Computation Using a Few Identifiers
 
 Status: excluded from the active CUA catalog after scope review.

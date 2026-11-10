@@ -1,3 +1,11 @@
+---
+title: "SoftwareGym | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # SoftwareGym
 
 SoftwareGym synthesizes runnable GUI applications as environments for computer-use agents. It tests generated apps through screenshot-based actions in Ubuntu virtual machines and uses feedback to repair them.

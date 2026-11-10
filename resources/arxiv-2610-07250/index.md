@@ -1,3 +1,11 @@
+---
+title: "Internalizing Agent Experience into Diffusion… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-07250/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation
 
 Bibliographic record for Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenxuan Wang, Zekai Liu, Weinan Zhang, Yu Cheng, Yang Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07250/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07250/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07250,
+  title = {{Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation}},
+  author = {{Wenxuan Wang} and {Zekai Liu} and {Weinan Zhang} and {Yu Cheng} and {Yang Yang}},
+  year = {2026},
+  eprint = {2610.07250v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07250v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T18:50:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

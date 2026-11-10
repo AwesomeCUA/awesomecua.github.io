@@ -1,3 +1,11 @@
+---
+title: "eyehands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shameindemgg-eyehands/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # eyehands
 
 Local HTTP server for Windows that provides low-latency UI Automation inspection and input execution for computer-use agents.

@@ -1,3 +1,11 @@
+---
+title: "Epic EHR Browser Automation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-epic-ehr-browser-automation/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Epic EHR Browser Automation
 
 这套 Epic EHR 浏览器自动化脚手架覆盖预约、患者查询、病历记录和消息等流程，并提供身份验证、会话及操作示例的说明。

@@ -1,3 +1,11 @@
+---
+title: "op-browse-the-web-skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vb-tyagi-op-browse-the-web-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # op-browse-the-web-skill
 
 面向 Claude Code 的单文件零成本自主网页浏览技能。

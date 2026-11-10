@@ -1,3 +1,11 @@
+---
+title: "$τ$-bench: A Benchmark for Tool-Agent-User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-12045/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # $τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 
 Bibliographic record for $τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-12045/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-12045/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_12045,
+  title = {{\$τ\$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains}},
+  author = {{Shunyu Yao} and {Noah Shinn} and {Pedram Razavi} and {Karthik Narasimhan}},
+  year = {2024},
+  eprint = {2406.12045v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.12045v1},
+  note = {First published: 2024-06-17; Recorded arXiv version: v1; Recorded version updated: 2024-06-17T19:33:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

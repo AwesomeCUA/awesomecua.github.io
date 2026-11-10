@@ -1,3 +1,11 @@
+---
+title: "cuse · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cuse-dev-cuse/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # cuse
 
 cuse 是开源框架，用于构建通过显示、鼠标和键盘 API 控制虚拟化 Linux 桌面及浏览器的 AI 智能体。

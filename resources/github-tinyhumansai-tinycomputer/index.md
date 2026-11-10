@@ -1,3 +1,11 @@
+---
+title: "tinycomputer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tinyhumansai-tinycomputer/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # tinycomputer
 
 Jev decision-model harness for fast desktop and browser action execution.

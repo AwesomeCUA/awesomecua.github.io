@@ -1,3 +1,11 @@
+---
+title: "GBOX MCP + Claude Code · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-babelcloud-android-world-benchmark/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # GBOX MCP + Claude Code
 
 这是基于 AndroidWorld 的评测配置，通过 GBOX MCP 将 Claude 智能体连接到 Android 模拟器，并提供任务完成信号工具。

@@ -1,3 +1,11 @@
+---
+title: "Agent Cursor & GroundSight | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dwstar79-agent-cursor/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent Cursor & GroundSight
 
 Accuracy engine for computer-use agents pairing a machine-readable cursor overlay (Agent Cursor) with local visual verification (GroundSight).

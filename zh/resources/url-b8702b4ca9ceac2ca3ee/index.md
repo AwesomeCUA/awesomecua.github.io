@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-235B-A22B-Thinking · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b8702b4ca9ceac2ca3ee/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-235B-A22B-Thinking
 
 这是已发布的 Qwen3-VL 视觉语言模型权重；模型卡描述了其电脑和移动端图形界面交互能力，包括识别界面元素、调用工具和完成任务。

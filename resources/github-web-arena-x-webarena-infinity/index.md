@@ -1,3 +1,11 @@
+---
+title: "WebArena-Infinity | AwesomeCUA"
+url: https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # WebArena-Infinity
 
 Generated web apps modeled on GitLab, PayPal, Xero, Elation EHR and other products, each with resettable state and Python-verified tasks for browser agents, plus the coding-agent pipeline that builds them.

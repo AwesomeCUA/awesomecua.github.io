@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zzzhr-1-windeskground/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # WinDeskGround
 
 WinDeskGround 在具有受控遮挡、缩放和干扰等级的多窗口 Windows 环境中，评测桌面 GUI 定位。

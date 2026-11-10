@@ -1,3 +1,11 @@
+---
+title: "maponce | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shivampatel0714-maponce/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # maponce
 
 Uses an LLM to map or record browser automations once and replays them deterministically via Playwright without LLM calls.

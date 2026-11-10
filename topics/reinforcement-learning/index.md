@@ -1,3 +1,11 @@
+---
+title: "Reinforcement learning — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/reinforcement-learning/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Reinforcement learning
 
 Reviewed topic membership; resources can appear in multiple topics.

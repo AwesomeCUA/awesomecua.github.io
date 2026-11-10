@@ -1,3 +1,11 @@
+---
+title: "Nova Act SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aws-nova-act/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Nova Act SDK
 
 这是一款用于定义和部署浏览器智能体的 Python SDK，可执行界面工作流。Nova Act 支持代码引导的步骤、人工接管和工作流监控。

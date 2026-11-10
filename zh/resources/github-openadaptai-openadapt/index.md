@@ -1,3 +1,11 @@
+---
+title: "OpenAdapt · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # OpenAdapt
 
 从桌面操作演示中学习并自动化工作流程的工具。

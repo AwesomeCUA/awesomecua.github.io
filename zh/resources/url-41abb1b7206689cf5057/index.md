@@ -1,3 +1,11 @@
+---
+title: "UI-AGILE-Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-41abb1b7206689cf5057/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UI-AGILE-Data
 
 UI-AGILE 训练标注和截图，以及转换后的 GUI 定位和 AndroidControl 评估文件。

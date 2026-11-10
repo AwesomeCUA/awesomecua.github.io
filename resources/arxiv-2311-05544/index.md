@@ -1,3 +1,11 @@
+---
+title: "Towards adiabatic quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-05544/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Towards adiabatic quantum computing using compressed quantum circuits
 
 Status: excluded from the active CUA catalog after scope review.

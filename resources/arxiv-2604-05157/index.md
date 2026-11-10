@@ -1,3 +1,11 @@
+---
+title: "IntentScore: Intent-Conditioned Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-05157/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents
 
 Trains IntentScore on offline desktop GUI interactions to assess candidate actions using both their state relevance and planning intent. The reward model is evaluated as an action reranker for Agent S3 on OSWorld.
@@ -26,6 +34,18 @@ Rongqian Chen, Yu Li, Zeyu Fang, Sizhe Tang, Weidong Cao, Tian Lan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-05157/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-05157/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_05157,
+  title = {{IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents}},
+  author = {{Rongqian Chen} and {Yu Li} and {Zeyu Fang} and {Sizhe Tang} and {Weidong Cao} and {Tian Lan}},
+  year = {2026},
+  eprint = {2604.05157v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.05157v3},
+  note = {First published: 2026-04-06; Recorded arXiv version: v3; Recorded version updated: 2026-05-28T08:13:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Macuse MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-macuse-app-macuse-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Macuse MCP
 
 Macuse MCP 是原生 macOS Model Context Protocol 服务器，使 AI 智能体能够直接控制 Calendar、Mail、Notes、Messages 和 GUI 应用。

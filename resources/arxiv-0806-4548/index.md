@@ -1,3 +1,11 @@
+---
+title: "Efficient and robust adiabatic universal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0806-4548/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient and robust adiabatic universal quantum computation using STIRAP on a qubit chain
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "BlueFin: Benchmarking LLM Agents on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-30907/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # BlueFin: Benchmarking LLM Agents on Financial Spreadsheets
 
 提出 BlueFin，以专业财务电子表格工作簿中的内容生成、修改和理解任务评估智能体，并提供相应的评估框架。
@@ -27,6 +35,18 @@ Srivatsa Kundurthy, Clara Na, Colton Moraine, Anoushka Mohta, Case Winter, Georg
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-30907/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-30907/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_30907,
+  title = {{BlueFin: Benchmarking LLM Agents on Financial Spreadsheets}},
+  author = {{Srivatsa Kundurthy} and {Clara Na} and {Colton Moraine} and {Anoushka Mohta} and {Case Winter} and {George Fang} and {John Ling} and {Emma Strubell} and {Zach Kirshner}},
+  year = {2026},
+  eprint = {2605.30907v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.30907v1},
+  note = {First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T06:43:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

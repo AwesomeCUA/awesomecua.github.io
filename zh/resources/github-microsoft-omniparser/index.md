@@ -1,3 +1,11 @@
+---
+title: "OmniParser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-omniparser/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # OmniParser
 
 截图解析器，检测可交互区域并为图标生成描述，帮助视觉语言模型定位操作；提供 V1.5 和 V2 权重，以及用于操控 Windows 11 虚拟机的 OmniTool。

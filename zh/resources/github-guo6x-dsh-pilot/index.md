@@ -1,3 +1,11 @@
+---
+title: "guo6x dsh-pilot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guo6x-dsh-pilot/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # guo6x dsh-pilot
 
 DeepSeek Harness 插件，通过紧凑的元素引用和 CDP 操控真实的 Edge 或 Chrome 浏览器。

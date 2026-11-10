@@ -1,3 +1,11 @@
+---
+title: "GUIGuard-Bench evaluation code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # GUIGuard-Bench evaluation code
 
 Evaluation code for GUIGuard-Bench: privacy-region recognition scoring, LLM-judged planning consistency on masked screenshots and click grounding under protection, with a small Android and PC example subset.

@@ -1,3 +1,11 @@
+---
+title: "VisIT-Bench: A Benchmark for Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-06595/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "jev-browser (github.com/MahmoudAdelbghany… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # jev-browser
 
 jev-browser 是一个 MCP 服务器，让智能体通过 Jev 选择的操作浏览 Chromium 页面。它检查页面变化，并将不确定的步骤交回主智能体。

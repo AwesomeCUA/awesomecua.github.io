@@ -1,3 +1,11 @@
+---
+title: "An Embodied Generalist Agent in 3D World | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-12871/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # An Embodied Generalist Agent in 3D World
 
 Bibliographic record for An Embodied Generalist Agent in 3D World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-12871/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-12871/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_12871,
+  title = {{An Embodied Generalist Agent in 3D World}},
+  author = {{Jiangyong Huang} and {Silong Yong} and {Xiaojian Ma} and {Xiongkun Linghu} and {Puhao Li} and {Yan Wang} and {Qing Li} and {Song-Chun Zhu} and {Baoxiong Jia} and {Siyuan Huang}},
+  year = {2023},
+  eprint = {2311.12871v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.12871v3},
+  note = {First published: 2023-11-18; Recorded arXiv version: v3; Recorded version updated: 2024-05-09T17:35:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

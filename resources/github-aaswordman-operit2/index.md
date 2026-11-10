@@ -1,3 +1,11 @@
+---
+title: "Operit2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aaswordman-operit2/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # Operit2
 
 A cross-device personal agent in preview that continues conversations and tasks across phones, desktops and cloud nodes, with file, terminal and browser tools that click, type and snapshot web pages.

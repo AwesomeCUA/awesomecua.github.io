@@ -1,3 +1,11 @@
+---
+title: "HUD · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hud-evals-hud-python/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # HUD
 
 HUD 是面向编码、浏览器操作、计算机使用和机器人智能体的 RL 环境与评估 SDK；环境通过简洁的启动与评分协议提供 SSH、MCP、CDP 或 VNC 能力。

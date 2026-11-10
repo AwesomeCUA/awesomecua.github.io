@@ -1,3 +1,11 @@
+---
+title: "AgentDesktopLinux · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-edwaks-agentdesktoplinux/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AgentDesktopLinux
 
 面向 TaskCapitan 的 Linux 桌面和 VPS 计算机使用智能体，可操作 GUI 应用和浏览器。

@@ -1,3 +1,11 @@
+---
+title: "qt-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-0xcarbon-qt-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # qt-mcp
 
 qt-mcp exposes running PySide6 desktop apps to agents through an MCP server, with widget inspection, screenshots, and input actions.

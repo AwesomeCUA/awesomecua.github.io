@@ -1,3 +1,11 @@
+---
+title: "Interactive Speculative Planning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-00079/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface
 
 研究智能体与系统、界面的协同设计，纳入用户中断和中途反馈以缩短规划延迟。
@@ -27,6 +35,18 @@ Wenyue Hua, Mengting Wan, Shashank Vadrevu, Ryan Nadel, Yongfeng Zhang, Chi Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-00079/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-00079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_00079,
+  title = {{Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface}},
+  author = {{Wenyue Hua} and {Mengting Wan} and {Shashank Vadrevu} and {Ryan Nadel} and {Yongfeng Zhang} and {Chi Wang}},
+  year = {2024},
+  eprint = {2410.00079v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.00079v1},
+  note = {First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T16:52:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "CraftsMan3D: High-fidelity Mesh Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-14979/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CraftsMan3D: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner
 
 Status: excluded from the active CUA catalog after scope review.

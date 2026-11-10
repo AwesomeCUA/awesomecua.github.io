@@ -1,3 +1,11 @@
+---
+title: "robosuite: A Modular Simulation Framework and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2009-12293/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
 
 Bibliographic record for robosuite: A Modular Simulation Framework and Benchmark for Robot Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuke Zhu, Josiah Wong, Ajay Mandlekar, Roberto Martín-Martín, Abhishek Joshi, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2009-12293/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2009-12293/citation.csl.json
+
+```bibtex
+@misc{arxiv_2009_12293,
+  title = {{robosuite: A Modular Simulation Framework and Benchmark for Robot Learning}},
+  author = {{Yuke Zhu} and {Josiah Wong} and {Ajay Mandlekar} and {Roberto Martín-Martín} and {Abhishek Joshi} and {Kevin Lin} and {Abhiram Maddukuri} and {Soroush Nasiriany} and {Yifeng Zhu}},
+  year = {2020},
+  eprint = {2009.12293v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2009.12293v3},
+  note = {First published: 2020-09-25; Recorded arXiv version: v3; Recorded version updated: 2025-01-18T02:57:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

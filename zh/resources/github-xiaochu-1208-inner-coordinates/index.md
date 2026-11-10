@@ -1,3 +1,11 @@
+---
+title: "Inner Coordinates · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaochu-1208-inner-coordinates/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Inner Coordinates
 
 对 macOS 和 iPhone 应用进行一次逆向分析，生成可点击的坐标与状态映射，以便确定性地重放工作流。

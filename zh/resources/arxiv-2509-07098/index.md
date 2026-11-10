@@ -1,3 +1,11 @@
+---
+title: "Instruction Agent: Enhancing Agent with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-07098/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Instruction Agent: Enhancing Agent with Expert Demonstration
 
 提出 GUI 智能体 Instruction Agent，从一次专家演示提取步骤指令，并通过验证和回退处理执行中的意外中断。
@@ -27,6 +35,18 @@ Yinheng Li, Hailey Hultquist, Justin Wagle, Kazuhito Koishida
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-07098/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-07098/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_07098,
+  title = {{Instruction Agent: Enhancing Agent with Expert Demonstration}},
+  author = {{Yinheng Li} and {Hailey Hultquist} and {Justin Wagle} and {Kazuhito Koishida}},
+  year = {2025},
+  eprint = {2509.07098v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.07098v1},
+  note = {First published: 2025-09-08; Recorded arXiv version: v1; Recorded version updated: 2025-09-08T18:00:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

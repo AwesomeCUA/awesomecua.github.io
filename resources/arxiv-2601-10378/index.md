@@ -1,3 +1,11 @@
+---
+title: "Global Context Compression with Interleaved… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-10378/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Global Context Compression with Interleaved Vision-Text Transformation
 
 Status: excluded from the active CUA catalog after scope review.

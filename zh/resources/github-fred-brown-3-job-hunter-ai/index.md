@@ -1,3 +1,11 @@
+---
+title: "Job Hunter AI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Job Hunter AI
 
 智能体式 AI 求职助手，具备自动化候选人信息采集和经过核验的浏览器表单填写功能。

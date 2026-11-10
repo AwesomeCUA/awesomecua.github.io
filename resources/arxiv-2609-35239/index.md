@@ -1,3 +1,11 @@
+---
+title: "Computational Complexity of Clifford Template… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35239/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Computational Complexity of Clifford Template Compilation: Are Quantum Computers Useful for Compiling Quantum Circuits?
 
 Status: excluded from the active CUA catalog after scope review.

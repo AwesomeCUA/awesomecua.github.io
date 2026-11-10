@@ -1,3 +1,11 @@
+---
+title: "EvoWeb: A Benchmark for Coding Agents on… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-16402/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications
 
 提出 EvoWeb，评估编程智能体按关联需求逐步扩展网页应用；多模态网页智能体在真实浏览器中检查每个版本。
@@ -27,6 +35,18 @@ David Nukrai, Bar Alon, Nativ Levy, Ido Andrew Atad, Ido Cohen, Itamar Zimerman,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-16402/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-16402/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16402,
+  title = {{EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications}},
+  author = {{David Nukrai} and {Bar Alon} and {Nativ Levy} and {Ido Andrew Atad} and {Ido Cohen} and {Itamar Zimerman} and {Lior Wolf} and {Eli David} and {Ilan Naiman}},
+  year = {2026},
+  eprint = {2610.16402v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16402v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T08:42:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

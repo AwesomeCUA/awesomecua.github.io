@@ -1,10 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 9 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/9/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 9 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [Chrome Live MCP](https://awesomecua.com/zh/resources/github-wankaiyi-chrome-live-mcp/)
 - [Chrome MCP Server](https://awesomecua.com/zh/resources/github-hangwin-mcp-chrome/)
 - [Chrome MCP Server (18 Tools)](https://awesomecua.com/zh/resources/github-syedazharmbnr1-chrome-mcp-server/)
 - [chrome-agent](https://awesomecua.com/zh/resources/github-captivus-chrome-agent/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/9/
 - [Coddy](https://awesomecua.com/zh/resources/github-coddy-project-coddy-agent/)
 - [CodeceptJS](https://awesomecua.com/zh/resources/github-codeceptjs-codeceptjs/)
 - [Codex Chrome Browser Control Skill](https://awesomecua.com/zh/resources/github-qlk-x-codex-chrome-browser-control/)
+- [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/zh/resources/github-tmustier-codex-computer-use-mcp/)

@@ -1,3 +1,11 @@
+---
+title: "ChatShop: Interactive Information Seeking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-09911/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ChatShop: Interactive Information Seeking with Language Agents
 
 Bibliographic record for ChatShop: Interactive Information Seeking with Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sanxing Chen, Sam Wiseman, Bhuwan Dhingra
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-09911/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-09911/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_09911,
+  title = {{ChatShop: Interactive Information Seeking with Language Agents}},
+  author = {{Sanxing Chen} and {Sam Wiseman} and {Bhuwan Dhingra}},
+  year = {2024},
+  eprint = {2404.09911v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.09911v2},
+  note = {First published: 2024-04-15; Recorded arXiv version: v2; Recorded version updated: 2024-06-16T15:24:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

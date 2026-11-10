@@ -1,3 +1,11 @@
+---
+title: "GenericAgent: A Token-Efficient Self-Evolving… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-17091/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)
 
 Bibliographic record for GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0). Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, Zishang Jiang, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-17091/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-17091/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_17091,
+  title = {{GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)}},
+  author = {{Jiaqing Liang} and {Jinyi Han} and {Weijia Li} and {Xinyi Wang} and {Zhoujia Zhang} and {Zishang Jiang} and {Ying Liao} and {Tingyun Li} and {Ying Huang} and {Hao Shen} and {Hanyu Wu} and {Fang Guo} and {Keyi Wang} and {Zhonghua Hong} and {Zhiyu Lu} and {Lipeng Ma} and {Sihang Jiang} and {Yanghua Xiao}},
+  year = {2026},
+  eprint = {2604.17091v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.17091v1},
+  note = {First published: 2026-04-18; Recorded arXiv version: v1; Recorded version updated: 2026-04-18T17:59:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

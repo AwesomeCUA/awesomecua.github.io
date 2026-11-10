@@ -1,3 +1,11 @@
+---
+title: "invisible_puppeteer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-feder-cr-invisible-puppeteer/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # invisible_puppeteer
 
 一个提供 pyppeteer 式 Puppeteer API 的 Python 包，驱动反检测 Firefox，在引擎内部设置浏览器指纹，并让鼠标沿拟人化轨迹移动。

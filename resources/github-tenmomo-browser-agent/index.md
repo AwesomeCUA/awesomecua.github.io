@@ -1,3 +1,11 @@
+---
+title: "Tenmomo Browser Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tenmomo-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Tenmomo Browser Agent
 
 Loopback-only local MCP browser broker and tab-scoped Chrome extension for coding agents.

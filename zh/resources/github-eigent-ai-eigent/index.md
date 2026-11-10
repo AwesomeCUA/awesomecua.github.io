@@ -1,3 +1,11 @@
+---
+title: "Eigent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-eigent-ai-eigent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Eigent
 
 Eigent 是基于 CAMEL-AI 构建的开源多智能体桌面协作工具，可并行执行浏览器、终端、文档和 MCP 任务。

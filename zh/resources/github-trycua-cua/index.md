@@ -1,3 +1,11 @@
+---
+title: "Cua · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-trycua-cua/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # Cua
 
 Cua Spaces 背后的单体仓库，提供供智能体使用的完整 macOS 或 Linux 桌面，以及用于操作原生应用的 Cua Driver、用于 Apple Silicon 虚拟机的 Lume、Cua Bench 和 CUA-S1 决策模型。

@@ -1,3 +1,11 @@
+---
+title: "Ailoy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-brekkylab-ailoy/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ailoy
 
 Ailoy is a multi-language AI agent SDK that provisions isolated microVM sandboxes for computer-use, CAD, and desktop automation agents.

@@ -1,3 +1,11 @@
+---
+title: "Can LLMs Uncover Hidden Physical Laws through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37649/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Can LLMs Uncover Hidden Physical Laws through Free Exploration?
 
 Bibliographic record for Can LLMs Uncover Hidden Physical Laws through Free Exploration?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhen Yang, Wen Wang, Xander Xu, Ying-Cong Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37649/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37649/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37649,
+  title = {{Can LLMs Uncover Hidden Physical Laws through Free Exploration?}},
+  author = {{Zhen Yang} and {Wen Wang} and {Xander Xu} and {Ying-Cong Chen}},
+  year = {2026},
+  eprint = {2610.37649v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37649v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T17:57:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

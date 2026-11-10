@@ -1,3 +1,11 @@
+---
+title: "Blind Backdoors in Deep Learning Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-03823/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Blind Backdoors in Deep Learning Models
 
 Status: excluded from the active CUA catalog after scope review.

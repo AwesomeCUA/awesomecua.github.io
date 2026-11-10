@@ -1,3 +1,11 @@
+---
+title: "Self-evolving LLM agents with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-07367/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Self-evolving LLM agents with in-distribution Optimization
 
 提出 Q-Evolve，用分布内评估模型生成逐步奖励来训练 LLM 智能体；WebShop 是其交互任务评估场景之一。
@@ -27,6 +35,18 @@ Yudi Zhang, Meng Fang, Zhenfang Chen, Mykola Pechenizkiy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-07367/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-07367/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_07367,
+  title = {{Self-evolving LLM agents with in-distribution Optimization}},
+  author = {{Yudi Zhang} and {Meng Fang} and {Zhenfang Chen} and {Mykola Pechenizkiy}},
+  year = {2026},
+  eprint = {2606.07367v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.07367v1},
+  note = {First published: 2026-06-05; Recorded arXiv version: v1; Recorded version updated: 2026-06-05T15:09:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

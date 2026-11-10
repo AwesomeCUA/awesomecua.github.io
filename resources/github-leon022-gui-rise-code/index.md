@@ -1,3 +1,11 @@
+---
+title: "GUI-Rise | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leon022-gui-rise-code/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # GUI-Rise
 
 A GUI navigation agent that combines stepwise reasoning with history summarization; its repository provides supervised training, reinforcement learning, and evaluation instructions.

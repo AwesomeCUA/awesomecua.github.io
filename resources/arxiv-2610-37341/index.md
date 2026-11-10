@@ -1,3 +1,11 @@
+---
+title: "CodeCap-Bench: Can Code Serve as a Good Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37341/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CodeCap-Bench: Can Code Serve as a Good Video Caption?
 
 Bibliographic record for CodeCap-Bench: Can Code Serve as a Good Video Caption?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiafu Tang, Yifan Xu, Eric Tang, Junjie Zhao, Shipeng Luo, Te Sun, Haoxuan Hu, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37341/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37341/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37341,
+  title = {{CodeCap-Bench: Can Code Serve as a Good Video Caption?}},
+  author = {{Jiafu Tang} and {Yifan Xu} and {Eric Tang} and {Junjie Zhao} and {Shipeng Luo} and {Te Sun} and {Haoxuan Hu} and {Yiyan Ji} and {Xinlong Chen} and {Zihao Wang} and {Yang Shi} and {Yuanxing Zhang} and {Pengfei Wan} and {Jiaheng Liu}},
+  year = {2026},
+  eprint = {2610.37341v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37341v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T14:47:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

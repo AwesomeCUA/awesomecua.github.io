@@ -1,3 +1,11 @@
+---
+title: "LeWAM: Latent evolving World Action Model | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-27455/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LeWAM: Latent evolving World Action Model
 
 Status: excluded from the active CUA catalog after scope review.

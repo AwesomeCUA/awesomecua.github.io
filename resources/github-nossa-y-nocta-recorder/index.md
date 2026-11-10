@@ -1,3 +1,11 @@
+---
+title: "nocta-recorder | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nossa-y-nocta-recorder/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # nocta-recorder
 
 A macOS recorder that stores screen snapshots, accessibility elements, OCR, input events, and audio in a local SQLite database and serves the captured activity through a local API.

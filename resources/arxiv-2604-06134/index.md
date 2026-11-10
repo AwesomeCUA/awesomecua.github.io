@@ -1,3 +1,11 @@
+---
+title: "MAESTRO: Adapting GUIs and Guiding Navigation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-06134/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs
 
 Introduces MAESTRO, a conversational GUI system that remembers user preferences, adapts interface options, and guides backtracking in multistep booking decisions.
@@ -26,6 +34,18 @@ Sangwook Lee, Adnan Abbas, Sang Won Lee, Young-Ho Kim, Yan Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-06134/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-06134/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_06134,
+  title = {{MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs}},
+  author = {{Sangwook Lee} and {Adnan Abbas} and {Sang Won Lee} and {Young-Ho Kim} and {Yan Chen}},
+  year = {2026},
+  eprint = {2604.06134v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.06134v2},
+  note = {First published: 2026-04-07; Recorded arXiv version: v2; Recorded version updated: 2026-08-09T18:02:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

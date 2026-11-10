@@ -1,3 +1,11 @@
+---
+title: "GUI-G1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuqi-zhou-gui-g1/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # GUI-G1
 
 GUI-grounding training code that modifies reasoning templates, reward functions, and the GRPO objective, with a linked model release.

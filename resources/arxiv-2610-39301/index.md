@@ -1,3 +1,11 @@
+---
+title: "Youtu-Parsing-Omni: One Encoder, One Schema… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-39301/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities
 
 Bibliographic record for Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yunhang Shen, Zhangquan Chen, Xiaotian Li, Zhongpeng Cai, Qing Zhou, Zekai Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-39301/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-39301/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_39301,
+  title = {{Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities}},
+  author = {{Yunhang Shen} and {Zhangquan Chen} and {Xiaotian Li} and {Zhongpeng Cai} and {Qing Zhou} and {Zekai Zhang} and {Kun Zhang} and {Zezhong Wu} and {Jian Hu} and {Haihan Gao} and {Heting Gao} and {Xin Li} and {Yinsong Liu} and {Deqian Jiang} and {Di Yin} and {Haoyu Cao} and {Xing Sun} and {Bing Liu} and {Yanqiu Qu} and {Yunfei Wu} and {Kun Yin} and {Zhixiang Wei} and {Yongxiang Hua} and {Qianyu Li} and {Xiaoxing Hu} and {Peiyuan Zhang} and {Lijiang Li} and {Dong Xu} and {Zhenchuan Yang} and {Yiliang Jiang}},
+  year = {2026},
+  eprint = {2610.39301v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.39301v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T03:49:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

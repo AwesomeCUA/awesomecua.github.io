@@ -1,3 +1,11 @@
+---
+title: "WAREX Supplementary Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sumanknath-waber/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # WAREX Supplementary Code
 
 WAREX supplementary code uses mitmproxy add-ons to inject popups or server and network errors into web-agent tests and record token use and latency.

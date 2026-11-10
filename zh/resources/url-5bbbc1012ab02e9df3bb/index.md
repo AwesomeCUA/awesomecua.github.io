@@ -1,3 +1,11 @@
+---
+title: "navi-bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5bbbc1012ab02e9df3bb/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # navi-bench
 
 Navi-Bench 的任务数据，该基准包含在真实网站上执行的日常网页任务：验证集共 200 行，覆盖 Apartments、Craigslist、Google Flights 等十个网站，每行带有任务生成配置、领域和类别。

@@ -1,3 +1,11 @@
+---
+title: "Captioner | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4f98919eaf7a92e8faab/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Captioner
 
 Captioner is a dense captioning model for graphical interfaces, released with a checkpoint and links to an online demo and reference server code.

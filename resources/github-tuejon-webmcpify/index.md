@@ -1,3 +1,11 @@
+---
+title: "webmcpify | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tuejon-webmcpify/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # webmcpify
 
 An agent skill that adds WebMCP tools to existing web apps. It inventories app functions, asks for approval of a tool manifest and checks tool effects in Chrome.

@@ -1,3 +1,11 @@
+---
+title: "AI YOU Town: Make Friends and Money with Your… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-10539/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AI YOU Town: Make Friends and Money with Your Digital Twin
 
 Status: excluded from the active CUA catalog after scope review.

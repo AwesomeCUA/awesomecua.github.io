@@ -1,3 +1,11 @@
+---
+title: "UI-TARS 7B SFT · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-dbd880ec31b412487945/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # UI-TARS 7B SFT
 
 7B SFT 版 UI-TARS 检查点采用 Qwen2-VL 架构，以 FP32 存储，是用于网页、移动端和桌面的原生 GUI 智能体模型，可感知屏幕、定位元素并执行多步操作。

@@ -1,3 +1,11 @@
+---
+title: "Ocular · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guatxlabs-ocular/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ocular
 
 经过加固的网页捕获与恶意 HTML 分析引擎，为浏览器智能体提供反机器人侦察能力。

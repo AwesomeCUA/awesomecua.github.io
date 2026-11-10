@@ -1,3 +1,11 @@
+---
+title: "TideSurf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tidesurf-core/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TideSurf
 
 TideSurf connects Chromium to LLM agents via compact structured DOM compression requiring 50 to 200 tokens per webpage.

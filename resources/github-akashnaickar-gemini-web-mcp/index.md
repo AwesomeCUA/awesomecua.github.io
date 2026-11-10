@@ -1,3 +1,11 @@
+---
+title: "Gemini Web MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-akashnaickar-gemini-web-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Gemini Web MCP
 
 Model Context Protocol server and CLI bridging coding agents to an authenticated Google Gemini web session.

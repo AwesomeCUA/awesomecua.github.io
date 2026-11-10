@@ -1,3 +1,11 @@
+---
+title: "Qontinui Runner | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qontinui-qontinui-runner/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Qontinui Runner
 
 Qontinui Runner is a desktop application that executes configured GUI automation projects and monitors their progress. It supports mouse, keyboard, and screen actions.

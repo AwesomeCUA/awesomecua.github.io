@@ -1,3 +1,11 @@
+---
+title: "Chrome Faithful | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bpc-oss-chrome-faithful/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome Faithful
 
 MCP server and Manifest V3 extension for faithful control of a user's real, logged-in Chrome profiles.

@@ -1,3 +1,11 @@
+---
+title: "Physically Grounded Vision-Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-02561/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Physically Grounded Vision-Language Models for Robotic Manipulation
 
 Bibliographic record for Physically Grounded Vision-Language Models for Robotic Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jensen Gao, Bidipta Sarkar, Fei Xia, Ted Xiao, Jiajun Wu, Brian Ichter, Anirudha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2309-02561/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2309-02561/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_02561,
+  title = {{Physically Grounded Vision-Language Models for Robotic Manipulation}},
+  author = {{Jensen Gao} and {Bidipta Sarkar} and {Fei Xia} and {Ted Xiao} and {Jiajun Wu} and {Brian Ichter} and {Anirudha Majumdar} and {Dorsa Sadigh}},
+  year = {2023},
+  eprint = {2309.02561v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.02561v4},
+  note = {First published: 2023-09-05; Recorded arXiv version: v4; Recorded version updated: 2024-03-03T08:12:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

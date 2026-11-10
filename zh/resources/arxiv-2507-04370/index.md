@@ -1,3 +1,11 @@
+---
+title: "WebSynthesis: World-Model-Guided MCTS… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-04370/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis
 
 WebSynthesis 借助学习得到的网页世界模型和树式规划，合成交互轨迹以训练网页智能体。
@@ -27,6 +35,18 @@ Yifei Gao, Junhong Ye, Jiaqi Wang, Jitao Sang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-04370/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-04370/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_04370,
+  title = {{WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis}},
+  author = {{Yifei Gao} and {Junhong Ye} and {Jiaqi Wang} and {Jitao Sang}},
+  year = {2025},
+  eprint = {2507.04370v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.04370v1},
+  note = {First published: 2025-07-06; Recorded arXiv version: v1; Recorded version updated: 2025-07-06T12:31:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "APIGen-MT: Agentic Pipeline for Multi-Turn… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-03601/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay
 
 Status: excluded from the active CUA catalog after scope review.

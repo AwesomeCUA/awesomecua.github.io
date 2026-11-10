@@ -1,3 +1,11 @@
+---
+title: "LASER: LLM Agent with State-Space… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2309-08172/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # LASER: LLM Agent with State-Space Exploration for Web Navigation
 
 LASER 将网页导航表示为在一组预定义状态中的探索，使智能体出错后可以返回先前状态；研究在 WebShop 和 Amazon 任务上评估这一回退方法。
@@ -27,6 +35,18 @@ Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Wenhao Yu, Dong Yu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2309-08172/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2309-08172/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_08172,
+  title = {{LASER: LLM Agent with State-Space Exploration for Web Navigation}},
+  author = {{Kaixin Ma} and {Hongming Zhang} and {Hongwei Wang} and {Xiaoman Pan} and {Wenhao Yu} and {Dong Yu}},
+  year = {2023},
+  eprint = {2309.08172v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.08172v2},
+  note = {First published: 2023-09-15; Recorded arXiv version: v2; Recorded version updated: 2024-02-21T17:42:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

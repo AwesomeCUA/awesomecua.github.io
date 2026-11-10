@@ -1,3 +1,11 @@
+---
+title: "ZCode JetBrains Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-csuftt-zcode-jetbrains-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ZCode JetBrains Plugin
 
 面向 Z.ai/GLM 编程智能体的 JetBrains IDE 插件，内置对嵌入式 JCEF 浏览器的 Browser Use 控制功能。

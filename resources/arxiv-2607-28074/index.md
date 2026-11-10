@@ -1,3 +1,11 @@
+---
+title: "Echoverse: Deep, Evolving Environments for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28074/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale
 
 Introduces Echoverse, which compiles specifications into stateful applications with database-grounded graders and uses rollouts to improve both the environments and agent policies. It examines behavioral depth, targeted interface practice, and environment repair as sources of training value.
@@ -26,6 +34,18 @@ Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Huss
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28074/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28074/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28074,
+  title = {{Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale}},
+  author = {{Yash Pandya} and {Sahil Gupta} and {Sarthak Harne} and {Archana Yadav} and {Kavyansh Chourasia} and {Hussein Mozannar} and {Vibhav Vineet} and {Sara Abdali} and {Corby Rosset} and {Yash Lara} and {Ahmed Awadallah} and {Ece Kamar} and {Akshay Nambi}},
+  year = {2026},
+  eprint = {2607.28074v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28074v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T11:48:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

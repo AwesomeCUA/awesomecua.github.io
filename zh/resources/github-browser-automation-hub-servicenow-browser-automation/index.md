@@ -1,3 +1,11 @@
+---
+title: "ServiceNow Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-servicenow-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ServiceNow Browser Automation
 
 面向 ServiceNow 的浏览器自动化脚手架，提供事件、CMDB 记录、任务分配和报告导出等操作。

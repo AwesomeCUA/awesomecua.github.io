@@ -1,3 +1,11 @@
+---
+title: "Mobile-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaomi-mobilebench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Mobile-Bench
 
 Mobile-Bench 通过结合 UI 动作与 API 扩展、使用检查点指标的多步骤 Android 任务，评测基于 LLM 的移动端智能体。

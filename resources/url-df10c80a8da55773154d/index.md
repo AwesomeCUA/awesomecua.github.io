@@ -1,3 +1,11 @@
+---
+title: "WebGuard (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-df10c80a8da55773154d/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # WebGuard
 
 Dataset of 5,999 browser-action safety annotations, pairing website and action details with risk classifications for web-agent research.

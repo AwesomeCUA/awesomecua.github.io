@@ -1,3 +1,11 @@
+---
+title: "omniparser-finetuned | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e2b79e8d1c6a28c65bff/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # omniparser-finetuned
 
 omniparser-finetuned releases a Florence-2 icon captioning checkpoint for UI parsing, trained with icon labels and screenshot crops.

@@ -1,3 +1,11 @@
+---
+title: "Gym-Anything: Turn any Software into an Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-06126/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # Gym-Anything: Turn any Software into an Agent Environment
 
 Introduces Gym-Anything, where a setup agent configures software environments and an independent auditor checks the resulting evidence. CUA-World supplies long-horizon tasks across professional applications, with experiments on trajectory distillation and test-time auditing.
@@ -26,6 +34,18 @@ Pranjal Aggarwal, Graham Neubig, Sean Welleck
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-06126/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-06126/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_06126,
+  title = {{Gym-Anything: Turn any Software into an Agent Environment}},
+  author = {{Pranjal Aggarwal} and {Graham Neubig} and {Sean Welleck}},
+  year = {2026},
+  eprint = {2604.06126v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.06126v1},
+  note = {First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T17:38:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

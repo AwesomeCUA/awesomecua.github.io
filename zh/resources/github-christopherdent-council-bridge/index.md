@@ -1,3 +1,11 @@
+---
+title: "Council Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-christopherdent-council-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Council Bridge
 
 Council Bridge 是一款浏览器扩展，可在指定的 ChatGPT 和 Gemini 标签页之间转发用户消息，并在侧边栏收集回复。

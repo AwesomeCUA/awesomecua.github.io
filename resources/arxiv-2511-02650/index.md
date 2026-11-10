@@ -1,3 +1,11 @@
+---
+title: "Can Visual Input Be Compressed? A Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-02650/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models
 
 Status: excluded from the active CUA catalog after scope review.

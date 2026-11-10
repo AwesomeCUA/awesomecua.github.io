@@ -1,3 +1,11 @@
+---
+title: "Agent-friendly UI · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-aui/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # Agent-friendly UI
 
 一个评估与修订流程用计算机操作智能体测试生成的网站，依据规则检查任务完成情况，并汇总导航失败问题。

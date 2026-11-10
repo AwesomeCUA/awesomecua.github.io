@@ -1,3 +1,11 @@
+---
+title: "Faithful Mobile GUI Agents with Guided… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-01208/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Faithful Mobile GUI Agents with Guided Advantage Estimator
 
 Introduces Faithful-Agent, which first teaches abstention under perturbed evidence and then refines GUI policies with an anchor-based, variance-adaptive advantage estimator. A thought-action consistency reward encourages decisions grounded in displayed evidence and instructions.
@@ -26,6 +34,18 @@ Haowen Hu, Pengzhou Cheng, Zheng Wu, Lingzhong Dong, Gongshen Liu, Zhuosheng Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-01208/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-01208/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_01208,
+  title = {{Faithful Mobile GUI Agents with Guided Advantage Estimator}},
+  author = {{Haowen Hu} and {Pengzhou Cheng} and {Zheng Wu} and {Lingzhong Dong} and {Gongshen Liu} and {Zhuosheng Zhang}},
+  year = {2026},
+  eprint = {2605.01208v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.01208v1},
+  note = {First published: 2026-05-02; Recorded arXiv version: v1; Recorded version updated: 2026-05-02T02:54:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

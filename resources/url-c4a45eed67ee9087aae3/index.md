@@ -1,3 +1,11 @@
+---
+title: "Claude Sonnet 4.6 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c4a45eed67ee9087aae3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Claude Sonnet 4.6
 
 A general model whose release documents computer use through visual observation, mouse actions, and keyboard input, with OSWorld evaluation and prompt-injection testing.

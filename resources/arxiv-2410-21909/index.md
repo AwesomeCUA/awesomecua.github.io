@@ -1,3 +1,11 @@
+---
+title: "SceneGenAgent: Precise Industrial Scene… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-21909/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SceneGenAgent: Precise Industrial Scene Generation with Coding Agent
 
 Status: excluded from the active CUA catalog after scope review.

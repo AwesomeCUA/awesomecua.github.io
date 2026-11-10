@@ -1,3 +1,11 @@
+---
+title: "SketchDirector: Complex Scene Sketching via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-41260/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement
 
 Bibliographic record for SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yiqi Liang, Xiaodong Cun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-41260/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-41260/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_41260,
+  title = {{SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement}},
+  author = {{Yiqi Liang} and {Xiaodong Cun}},
+  year = {2026},
+  eprint = {2610.41260v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.41260v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T05:05:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

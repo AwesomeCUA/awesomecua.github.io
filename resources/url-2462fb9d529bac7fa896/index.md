@@ -1,3 +1,11 @@
+---
+title: "OpenCSG-Qwen2.5-7B-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2462fb9d529bac7fa896/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpenCSG-Qwen2.5-7B-GUI
 
 A browser automation model for the AutoHub plugin that accepts natural-language requests for web operations and information retrieval.

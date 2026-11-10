@@ -1,3 +1,11 @@
+---
+title: "solari-playtest | AwesomeCUA"
+url: https://awesomecua.com/resources/github-moazessam376-dev-solari-playtest/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # solari-playtest
 
 Autonomous playtesting agent and evaluation harness on Solari that builds web games from Git and tests gameplay in a real browser.

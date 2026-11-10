@@ -1,3 +1,11 @@
+---
+title: "Signpost WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zioladev-signpost/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Signpost WebMCP
 
 用于 WebMCP 的无状态能力解析器，使网站能够声明并路由可由智能体调用的动作。

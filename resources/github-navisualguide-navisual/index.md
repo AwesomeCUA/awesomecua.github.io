@@ -1,3 +1,11 @@
+---
+title: "Navisual | AwesomeCUA"
+url: https://awesomecua.com/resources/github-navisualguide-navisual/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Navisual
 
 Navisual is a non-intrusive visual desktop guide that observes the screen and highlights where the user should click next.

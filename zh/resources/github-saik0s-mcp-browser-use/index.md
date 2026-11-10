@@ -1,3 +1,11 @@
+---
+title: "mcp-server-browser-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-saik0s-mcp-browser-use/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # mcp-server-browser-use
 
 MCP 服务器，对 browser-use 进行封装，使 MCP 客户端能够自动操作真实浏览器，并提供 CLI、网页控制面板和深度研究模式。

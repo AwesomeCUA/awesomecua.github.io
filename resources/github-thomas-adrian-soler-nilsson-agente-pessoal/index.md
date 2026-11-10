@@ -1,3 +1,11 @@
+---
+title: "Agente Pessoal | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thomas-adrian-soler-nilsson-agente-pessoal/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Agente Pessoal
 
 Multimodal personal AI desktop assistant with voice interaction, persistent memory, and OS automation.

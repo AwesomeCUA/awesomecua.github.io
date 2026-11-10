@@ -1,3 +1,11 @@
+---
+title: "browser-copilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alexmercier25-browser-copilot/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browser-copilot
 
 Lets AI agents drive the user's actual macOS browser window and logged-in tabs with interactive confirmation.

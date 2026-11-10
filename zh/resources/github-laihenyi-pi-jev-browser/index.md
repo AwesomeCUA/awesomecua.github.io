@@ -1,3 +1,11 @@
+---
+title: "Pi Jev Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-laihenyi-pi-jev-browser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Pi Jev Browser
 
 Pi Jev Browser 是面向 pi 编码框架的浏览器及 macOS 智能体，由 Jev 根据结构化页面观测结果选择动作。

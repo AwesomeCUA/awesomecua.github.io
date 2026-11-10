@@ -1,3 +1,11 @@
+---
+title: "Octavius: Mitigating Task Interference in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-02684/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE
 
 Bibliographic record for Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zeren Chen, Ziqin Wang, Zhen Wang, Huayang Liu, Zhenfei Yin, Si Liu, Lu Sheng, W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-02684/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-02684/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_02684,
+  title = {{Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE}},
+  author = {{Zeren Chen} and {Ziqin Wang} and {Zhen Wang} and {Huayang Liu} and {Zhenfei Yin} and {Si Liu} and {Lu Sheng} and {Wanli Ouyang} and {Yu Qiao} and {Jing Shao}},
+  year = {2023},
+  eprint = {2311.02684v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.02684v3},
+  note = {First published: 2023-11-05; Recorded arXiv version: v3; Recorded version updated: 2024-11-25T07:07:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

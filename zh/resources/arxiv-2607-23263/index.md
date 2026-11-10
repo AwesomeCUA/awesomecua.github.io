@@ -1,3 +1,11 @@
+---
+title: "SeekJudge: A Practical Reward Framework… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-23263/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SeekJudge: A Practical Reward Framework for Reinforcement Learning in Computer-Use Agents
 
 SeekJudge 通过迭代检索和分析 GUI 轨迹，评估指令是否完成。研究结合密集判定数据合成、步骤标签基准和奖励服务器调度，探讨用于智能体训练的准确且实用的奖励反馈。
@@ -27,6 +35,18 @@ Yang Wan, Zhenhao Zhang, Jierui Wang, Xiangxin Zhou, Linchao Zhu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-23263/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-23263/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_23263,
+  title = {{SeekJudge: A Practical Reward Framework for Reinforcement Learning in Computer-Use Agents}},
+  author = {{Yang Wan} and {Zhenhao Zhang} and {Jierui Wang} and {Xiangxin Zhou} and {Linchao Zhu}},
+  year = {2026},
+  eprint = {2607.23263v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.23263v2},
+  note = {First published: 2026-07-25; Recorded arXiv version: v2; Recorded version updated: 2026-09-26T12:15:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

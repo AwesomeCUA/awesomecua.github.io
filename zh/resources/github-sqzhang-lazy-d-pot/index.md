@@ -1,3 +1,11 @@
+---
+title: "D-PoT evaluation code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sqzhang-lazy-d-pot/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # D-PoT evaluation code
 
 用于在 Android-in-the-Wild 上评估 Dynamic Planning of Thoughts 的离线提示与评估代码，包括动作提取及与参考动作的比较。

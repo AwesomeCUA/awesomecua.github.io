@@ -1,3 +1,11 @@
+---
+title: "Agentic Reinforcement Learning with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-03223/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agentic Reinforcement Learning with Self-Distilled Reward Shaping
 
 Bibliographic record for Agentic Reinforcement Learning with Self-Distilled Reward Shaping. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ranxu Zhang, Guinan Chen, Chenshaodong, Jinghao Lin, Xiaozhou Xu, Sunzhe, Yanyon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-03223/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-03223/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_03223,
+  title = {{Agentic Reinforcement Learning with Self-Distilled Reward Shaping}},
+  author = {{Ranxu Zhang} and {Guinan Chen} and {Chenshaodong} and {Jinghao Lin} and {Xiaozhou Xu} and {Sunzhe} and {Yanyong Zhang} and {Chao Wang}},
+  year = {2026},
+  eprint = {2608.03223v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.03223v1},
+  note = {First published: 2026-08-04; Recorded arXiv version: v1; Recorded version updated: 2026-08-04T06:56:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

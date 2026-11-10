@@ -1,3 +1,11 @@
+---
+title: "browser-account-guard & flaky-browser-ui | AwesomeCUA"
+url: https://awesomecua.com/resources/github-praticoeq-sudo-browser-account-guard/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # browser-account-guard & flaky-browser-ui
 
 Pair of Claude skills for protecting account credentials and stabilizing flaky UI interactions when agents drive web panels.

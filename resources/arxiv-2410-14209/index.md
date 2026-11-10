@@ -1,3 +1,11 @@
+---
+title: "Agents4PLC: Automating Closed-loop PLC Code… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-14209/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents
 
 Bibliographic record for Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Jingyi Wang, Qiang Liu, Peiy
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-14209/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-14209/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_14209,
+  title = {{Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents}},
+  author = {{Zihan Liu} and {Ruinan Zeng} and {Dongxia Wang} and {Gengyun Peng} and {Jingyi Wang} and {Qiang Liu} and {Peiyu Liu} and {Wenhai Wang}},
+  year = {2024},
+  eprint = {2410.14209v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.14209v2},
+  note = {First published: 2024-10-18; Recorded arXiv version: v2; Recorded version updated: 2024-12-25T02:54:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

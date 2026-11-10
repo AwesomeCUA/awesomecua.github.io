@@ -1,3 +1,11 @@
+---
+title: "Browy · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browyhq-browy/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Browy
 
 Browy 是浏览器自动化智能体，利用现有 AI 编码 CLI 订阅操控实时 Chrome 标签页。

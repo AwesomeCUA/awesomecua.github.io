@@ -1,3 +1,11 @@
+---
+title: "Intentproof | AwesomeCUA"
+url: https://awesomecua.com/resources/github-egagofur-intentproof/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Intentproof
 
 AI-driven end-to-end verification orchestrator and interactive browser testing harness.

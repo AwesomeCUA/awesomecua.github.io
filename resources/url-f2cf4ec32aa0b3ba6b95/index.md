@@ -1,3 +1,11 @@
+---
+title: "WaveUI-25k | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WaveUI-25k
 
 A 24,978-example subset of an ~80k UI element collection, pairing screenshots and instructions with target boxes and annotated element names, descriptions, types, OCR, purposes and click expectations.

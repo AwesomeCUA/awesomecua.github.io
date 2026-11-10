@@ -1,3 +1,11 @@
+---
+title: "Highly accurate and efficient self-force… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1006-3788/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Highly accurate and efficient self-force computations using time-domain methods: Error estimates, validation, and optimization
 
 Status: excluded from the active CUA catalog after scope review.

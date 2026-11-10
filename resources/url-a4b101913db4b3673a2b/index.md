@@ -1,3 +1,11 @@
+---
+title: "SeeClick-aitw | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a4b101913db4b3673a2b/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # SeeClick-aitw
 
 SeeClick visual GUI agent checkpoint fine-tuned on Android in the Wild (AITW) episodes and scored on the AITW test set by action matching with the SeeClick agent-task scripts.

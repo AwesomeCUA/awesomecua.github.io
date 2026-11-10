@@ -1,3 +1,11 @@
+---
+title: "HyMobileAgent: Data-Environment… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-14548/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents
 
 结合 GUI 感知数据、教学视频、真实和模拟设备，以及带反思的规划，开发移动端智能体。
@@ -27,6 +35,18 @@ Hy Vision Team, Huawen Shen, Zhengyang Tang, Shangpin Peng, Liang Wu, Anran Zhan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-14548/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-14548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_14548,
+  title = {{HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents}},
+  author = {{Hy Vision Team} and {Huawen Shen} and {Zhengyang Tang} and {Shangpin Peng} and {Liang Wu} and {Anran Zhang} and {Weinong Wang} and {Yiduo Guo} and {Chenxin Li} and {Zhengyao Fang} and {Yang Ding} and {Junyi Li} and {Fei Tang} and {Zheng Ruan} and {Yi Zhang} and {Xingran Zhou} and {Dingchen Yang} and {Sunqi Fan} and {Zhiyi Wan} and {Han Hu} and {Xin Lai} and {Pengyuan Lyu} and {Chengquan Zhang}},
+  year = {2026},
+  eprint = {2607.14548v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.14548v1},
+  note = {First published: 2026-07-16; Recorded arXiv version: v1; Recorded version updated: 2026-07-16T04:12:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

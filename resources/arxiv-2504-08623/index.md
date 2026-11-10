@@ -1,3 +1,11 @@
+---
+title: "Enterprise-Grade Security for the Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-08623/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies
 
 Bibliographic record for Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Vineeth Sai Narajala, Idan Habler
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-08623/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-08623/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_08623,
+  title = {{Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies}},
+  author = {{Vineeth Sai Narajala} and {Idan Habler}},
+  year = {2025},
+  eprint = {2504.08623v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.08623v2},
+  note = {First published: 2025-04-11; Recorded arXiv version: v2; Recorded version updated: 2025-05-02T18:26:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

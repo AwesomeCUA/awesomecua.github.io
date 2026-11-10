@@ -1,3 +1,11 @@
+---
+title: "Episodic Memory in Agentic Frameworks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-17775/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Episodic Memory in Agentic Frameworks: Suggesting Next Tasks
 
 Status: excluded from the active CUA catalog after scope review.

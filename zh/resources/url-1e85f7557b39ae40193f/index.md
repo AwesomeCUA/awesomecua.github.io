@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_ground_iterative · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1e85f7557b39ae40193f/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # lumos_web_agent_ground_iterative
 
 这是用于训练网页智能体定位模块的 Lumos-Iterative 数据集。数据卡列出 1009 条 Mind2Web 标注，并链接到使用该数据训练的模型。

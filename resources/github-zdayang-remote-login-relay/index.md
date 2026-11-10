@@ -1,3 +1,11 @@
+---
+title: "ToolArks Remote Login Relay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zdayang-remote-login-relay/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ToolArks Remote Login Relay
 
 Self-hosted one-tab mobile handoff relay that lets a human remotely solve login, 2FA, or CAPTCHA walls for an AI browser agent.

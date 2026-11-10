@@ -1,3 +1,11 @@
+---
+title: "Agent Lumos · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-allenai-lumos/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agent Lumos
 
 Agent Lumos 为开源语言智能体和网页智能体提供统一的训练数据，以及模块化的规划和定位架构。

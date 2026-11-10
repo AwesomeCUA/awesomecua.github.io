@@ -1,3 +1,11 @@
+---
+title: "zseven-w DSH Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zseven-w-dsh-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # zseven-w DSH Browser
 
 适用于 DeepSeek Harness 的无头优先浏览器自动化插件。

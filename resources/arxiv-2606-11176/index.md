@@ -1,3 +1,11 @@
+---
+title: "Data Journalist Agent: Transforming Data into… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-11176/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
 
 Bibliographic record for Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kevin Qinghong Lin, Batu EI, Yuhong Shi, Pan Lu, Juil Sock, Djordje Padejski, Ph
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-11176/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-11176/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_11176,
+  title = {{Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories}},
+  author = {{Kevin Qinghong Lin} and {Batu EI} and {Yuhong Shi} and {Pan Lu} and {Juil Sock} and {Djordje Padejski} and {Philip Torr} and {James Zou}},
+  year = {2026},
+  eprint = {2606.11176v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.11176v2},
+  note = {First published: 2026-06-09; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T17:30:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

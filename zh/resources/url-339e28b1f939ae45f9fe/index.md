@@ -1,3 +1,11 @@
+---
+title: "OpenGVLab/MMBench-GUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-339e28b1f939ae45f9fe/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # OpenGVLab/MMBench-GUI
 
 MMBench-GUI 提供标注数据和离线图像，用于评估横跨桌面、移动端及网页的 GUI 智能体对界面的理解与元素定位能力。

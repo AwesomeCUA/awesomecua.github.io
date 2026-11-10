@@ -1,3 +1,11 @@
+---
+title: "bb-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-epiral-bb-browser/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # bb-browser
 
 A CLI and MCP tool that lets AI agents operate an existing Chrome session through page snapshots, element actions, screenshots, and website-specific adapters.

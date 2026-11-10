@@ -1,3 +1,11 @@
+---
+title: "Implementing Jastrow--Gutzwiller operators on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-19014/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Implementing Jastrow--Gutzwiller operators on a quantum computer using the cascaded variational quantum eigensolver algorithm
 
 Status: excluded from the active CUA catalog after scope review.

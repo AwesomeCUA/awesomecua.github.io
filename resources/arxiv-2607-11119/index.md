@@ -1,3 +1,11 @@
+---
+title: "VIA: Visual Interface Agent for Robot Control | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-11119/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # VIA: Visual Interface Agent for Robot Control
 
 Bibliographic record for VIA: Visual Interface Agent for Robot Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hengyuan Hu, Jensen Gao, Priya Sundaresan, Satvik Sharma, Jeannette Bohg, Dorsa 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-11119/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-11119/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_11119,
+  title = {{VIA: Visual Interface Agent for Robot Control}},
+  author = {{Hengyuan Hu} and {Jensen Gao} and {Priya Sundaresan} and {Satvik Sharma} and {Jeannette Bohg} and {Dorsa Sadigh}},
+  year = {2026},
+  eprint = {2607.11119v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.11119v2},
+  note = {First published: 2026-07-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T03:29:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

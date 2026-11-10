@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-8B-Instruct-MobileWorld-SFT · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e58270c90ea4fa83cfb4/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-8B-Instruct-MobileWorld-SFT
 
 在 MobileWorld 数据集上微调的 Qwen3-VL-8B-Instruct 语义世界模型，用自然语言描述移动端 GUI 界面在执行动作后的变化，供移动智能体规划使用。

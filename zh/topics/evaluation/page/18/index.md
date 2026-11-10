@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 18 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/18/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 18 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/18/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [openadapt-evals](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-evals/)
 - [OpenAgentSafety](https://awesomecua.com/zh/resources/github-open-agent-safety-openagentsafety/)
 - [OpenApps](https://awesomecua.com/zh/resources/github-facebookresearch-openapps/)
 - [OS-Critic Bench](https://awesomecua.com/zh/resources/url-c73ba0618d1b3c505887/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/18/
 - [taskproof](https://awesomecua.com/zh/resources/github-taskproof-taskproof/)
 - [TestPilot](https://awesomecua.com/zh/resources/github-h0ngza1-testpilot/)
 - [TheAgentCompany](https://awesomecua.com/zh/resources/github-theagentcompany-theagentcompany/)
+- [TimeWarp](https://awesomecua.com/zh/resources/github-sparklabutah-timewarp/)

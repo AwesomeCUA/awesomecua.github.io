@@ -1,3 +1,11 @@
+---
+title: "Exploring and Benchmarking High Performance &… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1904-03343/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Exploring and Benchmarking High Performance & Scientific Computing using R R HPC Packages and Lower level compiled languages A Comparative Study
 
 Status: excluded from the active CUA catalog after scope review.

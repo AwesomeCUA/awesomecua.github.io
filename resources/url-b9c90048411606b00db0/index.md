@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-7B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b9c90048411606b00db0/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2-VL-7B-Instruct
 
 An instruction-tuned 7B multimodal model for image and video understanding; its card describes visually guided operation of mobile devices.

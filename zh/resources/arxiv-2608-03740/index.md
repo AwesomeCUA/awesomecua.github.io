@@ -1,3 +1,11 @@
+---
+title: "MissClick: Execution-Aware Adversarial… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-03740/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MissClick: Execution-Aware Adversarial Attacks on Coordinate Generation in GUI Grounding Models
 
 MissClick 针对坐标数字对可执行 GUI 点击的实际影响设计白盒攻击，并在桌面、网页和移动端定位场景中分别评估无目标偏移与有目标、按位置加权的攻击目标。
@@ -27,6 +35,18 @@ Yu Ran, Wentao Zhao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-03740/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-03740/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_03740,
+  title = {{MissClick: Execution-Aware Adversarial Attacks on Coordinate Generation in GUI Grounding Models}},
+  author = {{Yu Ran} and {Wentao Zhao}},
+  year = {2026},
+  eprint = {2608.03740v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.03740v2},
+  note = {First published: 2026-08-04; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T13:07:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

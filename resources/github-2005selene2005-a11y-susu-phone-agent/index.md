@@ -1,3 +1,11 @@
+---
+title: "Susu Phone Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-2005selene2005-a11y-susu-phone-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Susu Phone Agent
 
 Android device bridge for Claude Code over MCP and Shizuku enabling rootless phone UI automation.

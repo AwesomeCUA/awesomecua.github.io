@@ -1,12 +1,17 @@
+---
+title: "Automation — computer-use research, page 15 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/15/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 15
 
 HTML page: https://awesomecua.com/topics/automation/page/15/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [Human Browser Copilot](https://awesomecua.com/resources/github-officiallemmy254-droid-human-browser-copilot/)
-- [Human-Browser](https://awesomecua.com/resources/github-hterzia-human-browser/)
-- [HumanCursor](https://awesomecua.com/resources/github-riflosnake-humancursor/)
 - [HumanHands](https://awesomecua.com/resources/github-thispc-humanhands/)
 - [Hunch MCP](https://awesomecua.com/resources/github-prithviseran-hunch-mcp/)
 - [Hunter (Autonomous Job-Search Agent)](https://awesomecua.com/resources/github-lodelux-hunter-public/)
@@ -64,3 +69,6 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Kernel](https://awesomecua.com/resources/github-kernel-kernel-images/)
 - [Kernel Claude Computer Use Loop](https://awesomecua.com/resources/github-kernel-claude-cu-loop-sample/)
 - [Kernel CLI](https://awesomecua.com/resources/github-onkernel-cli/)
+- [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
+- [Kimi Computer Use Bridge](https://awesomecua.com/resources/github-songkeys-kimi-computer-use/)
+- [Kimi Computer Use Lab](https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/)

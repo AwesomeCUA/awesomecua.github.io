@@ -1,3 +1,11 @@
+---
+title: "Touchpoint · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-touchpoint-labs-touchpoint/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Touchpoint
 
 Touchpoint 是跨平台桌面无障碍 API 和 MCP 服务器，为 AI 智能体提供统一的 UI 检查与控制能力。

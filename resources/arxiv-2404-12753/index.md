@@ -1,3 +1,11 @@
+---
+title: "AutoScraper: A Progressive Understanding Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-12753/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation
 
 Introduces AutoScraper, a two-stage framework that uses HTML structure and similarities across pages to generate scrapers for data collection from websites.
@@ -26,6 +34,18 @@ Wenhao Huang, Zhouhong Gu, Chenghao Peng, Zhixu Li, Jiaqing Liang, Yanghua Xiao,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-12753/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-12753/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_12753,
+  title = {{AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation}},
+  author = {{Wenhao Huang} and {Zhouhong Gu} and {Chenghao Peng} and {Zhixu Li} and {Jiaqing Liang} and {Yanghua Xiao} and {Liqian Wen} and {Zulong Chen}},
+  year = {2024},
+  eprint = {2404.12753v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.12753v2},
+  note = {First published: 2024-04-19; Recorded arXiv version: v2; Recorded version updated: 2024-09-26T09:17:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Surfer 2: The Next Generation of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-19949/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Surfer 2: The Next Generation of Cross-Platform Computer Use Agents
 
 Surfer2 结合分层上下文管理、独立的规划与执行、自我核验及恢复机制，支持视觉驱动的计算机使用。框架在网页、桌面和 Android 任务上评估，无需针对任务微调。
@@ -27,6 +35,18 @@ Mathieu Andreux, Märt Bakler, Yanael Barbier, Hamza Benchekroun, Emilien Biré,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-19949/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-19949/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_19949,
+  title = {{Surfer 2: The Next Generation of Cross-Platform Computer Use Agents}},
+  author = {{Mathieu Andreux} and {Märt Bakler} and {Yanael Barbier} and {Hamza Benchekroun} and {Emilien Biré} and {Antoine Bonnet} and {Riaz Bordie} and {Nathan Bout} and {Matthias Brunel} and {Aleix Cambray} and {Pierre-Louis Cedoz} and {Antoine Chassang} and {Gautier Cloix} and {Ethan Connelly} and {Alexandra Constantinou} and {Ramzi De Coster} and {Hubert de la Jonquiere} and {Aurélien Delfosse} and {Maxime Delpit} and {Alexis Deprez} and {Augustin Derupti} and {Mathieu Diaz} and {Shannon D'Souza} and {Julie Dujardin} and {Abai Edmund} and {Michael Eickenberg} and {Armand Fatalot} and {Wissem Felissi} and {Isaac Herring} and {Xavier Koegler} and {Erwan Le Jumeau de Kergaradec} and {Aurélien Lac} and {Maxime Langevin} and {Corentin Lauverjat} and {Antonio Loison} and {Avshalom Manevich} and {Axel Moyal} and {Axel Nguyen Kerbel} and {Marinela Parovic} and {Julien Revelle} and {Guillaume Richard} and {Mats Richter} and {Ronan Riochet} and {María Santos} and {Romain Savidan} and {Laurent Sifre} and {Maxime Theillard} and {Marc Thibault} and {Ivan Valentini} and {Tony Wu} and {Laura Yie} and {Kai Yuan} and {Jevgenij Zubovskij}},
+  year = {2025},
+  eprint = {2510.19949v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.19949v2},
+  note = {First published: 2025-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-10-24T11:52:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

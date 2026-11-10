@@ -1,3 +1,11 @@
+---
+title: "OS AI Computer Use · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-777genius-os-ai-computer-use/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # OS AI Computer Use
 
 本地桌面智能体，将纯截图发送给 OpenAI 或 Anthropic 的计算机使用工具，并通过基于 PyAutoGUI 的驱动在 macOS、Windows 和 Linux 上执行返回的点击、拖拽、滚动和按键操作。

@@ -1,3 +1,11 @@
+---
+title: "Browser Agent (github.com/visnia-ai/brow… · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-visnia-ai-browser-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Browser Agent
 
 Browser Agent 通过 Chromium 执行自然语言网页任务，提供命令行工具以及可传送进度并返回任务结果的 TypeScript 和 Python SDK。

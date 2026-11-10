@@ -1,3 +1,11 @@
+---
+title: "navforge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-huzjie-navforge/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # navforge
 
 navforge is a self-hosted orchestration framework for coordinating multi-step computer-use and browser navigation agents.

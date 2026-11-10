@@ -1,3 +1,11 @@
+---
+title: "Tarsier | AwesomeCUA"
+url: https://awesomecua.com/resources/github-reworkd-tarsier/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # Tarsier
 
 Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.

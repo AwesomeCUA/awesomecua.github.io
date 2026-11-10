@@ -1,3 +1,11 @@
+---
+title: "Universal quantum computation using the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0910-1024/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal quantum computation using the discrete time quantum walk
 
 Status: excluded from the active CUA catalog after scope review.

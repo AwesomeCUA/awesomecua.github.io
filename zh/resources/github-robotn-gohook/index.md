@@ -1,3 +1,11 @@
+---
+title: "gohook · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-robotn-gohook/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # gohook
 
 一个用于监听键盘和鼠标事件的 Go 库，提供回调注册和事件流，可用于采集桌面交互。

@@ -1,3 +1,11 @@
+---
+title: "doc-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-samuel-as-doc-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # doc-agent
 
 Claude Code skill that documents a web procedure with annotated screenshots by performing it in a live browser.

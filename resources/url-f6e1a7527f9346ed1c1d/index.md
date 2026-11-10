@@ -1,3 +1,11 @@
+---
+title: "GUI-Libra-81K-SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GUI-Libra-81K-SFT
 
 SFT release of GUI-Libra-81K: per-step reasoning traces and coordinate-grounded actions over web and Android screenshots, in JSON annotation files with full, no-reasoning and 1,000-sample variants.

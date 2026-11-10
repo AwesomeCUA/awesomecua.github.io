@@ -1,3 +1,11 @@
+---
+title: "BrickWright: Agentic Creation of Physically… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31651/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # BrickWright: Agentic Creation of Physically Feasible Brick Builds
 
 Bibliographic record for BrickWright: Agentic Creation of Physically Feasible Brick Builds. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ava Pun, Kevin Dai, Sally Chen, Maxwell Jones, Ruixuan Liu, Kangle Deng, Changli
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31651/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31651/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31651,
+  title = {{BrickWright: Agentic Creation of Physically Feasible Brick Builds}},
+  author = {{Ava Pun} and {Kevin Dai} and {Sally Chen} and {Maxwell Jones} and {Ruixuan Liu} and {Kangle Deng} and {Changliu Liu} and {Maneesh Agrawala} and {Deva Ramanan} and {Jun-Yan Zhu}},
+  year = {2026},
+  eprint = {2610.31651v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31651v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T17:57:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

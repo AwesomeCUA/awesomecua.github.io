@@ -1,3 +1,11 @@
+---
+title: "FastHands | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tomaszteee-fasthands/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # FastHands
 
 Local-first cross-platform execution and web-research runtime for AI agents.

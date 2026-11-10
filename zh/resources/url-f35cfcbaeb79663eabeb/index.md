@@ -1,3 +1,11 @@
+---
+title: "Holo1 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f35cfcbaeb79663eabeb/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Holo1 7B
 
 为 Surfer-H 网页智能体系统发布的基于 Qwen2.5-VL 的动作模型，可承担策略、界面定位和验证任务。

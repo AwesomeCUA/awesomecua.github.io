@@ -1,3 +1,11 @@
+---
+title: "Explorer: Robust Collection of Interactable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-09352/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Explorer: Robust Collection of Interactable GUI Elements
 
 Explorer collects interactable GUI elements from a live target application and records user sessions for application-specific model training. It links repeated interface states into a navigation map that supports path planning and voice-directed interaction.
@@ -26,6 +34,18 @@ Iason Chaimalas, Arnas Vyšniauskas, Gabriel Brostow
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-09352/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-09352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_09352,
+  title = {{Explorer: Robust Collection of Interactable GUI Elements}},
+  author = {{Iason Chaimalas} and {Arnas Vyšniauskas} and {Gabriel Brostow}},
+  year = {2025},
+  eprint = {2504.09352v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.09352v1},
+  note = {First published: 2025-04-12; Recorded arXiv version: v1; Recorded version updated: 2025-04-12T22:02:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

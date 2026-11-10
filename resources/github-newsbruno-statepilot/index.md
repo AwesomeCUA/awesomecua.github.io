@@ -1,3 +1,11 @@
+---
+title: "StatePilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-newsbruno-statepilot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # StatePilot
 
 StatePilot is a predictable browser runtime for AI agents with state validation, episodic memory, error recovery, and MCP tools.

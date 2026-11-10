@@ -1,3 +1,11 @@
+---
+title: "Sufficient condition for universal quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-07820/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Sufficient condition for universal quantum computation using bosonic circuits
 
 Status: excluded from the active CUA catalog after scope review.

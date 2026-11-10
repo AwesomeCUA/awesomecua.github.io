@@ -1,3 +1,11 @@
+---
+title: "Resurf · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lightfeed-resurf/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Resurf
 
 Resurf 是确定性、可复现的测试环境，用于在真实的网页故障模式下评测 AI 浏览器智能体。

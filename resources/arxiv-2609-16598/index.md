@@ -1,3 +1,11 @@
+---
+title: "CATVis: A Collaborative Multi-Agent Workflow… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-16598/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CATVis: A Collaborative Multi-Agent Workflow for Turbomachinery Simulation Data Visualization
 
 Bibliographic record for CATVis: A Collaborative Multi-Agent Workflow for Turbomachinery Simulation Data Visualization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhe Wang, Zehao Lou, Guanghui Zhao, Yu Dong, Guan Li, Pengyi Xu, Gaorong Liang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-16598/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-16598/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_16598,
+  title = {{CATVis: A Collaborative Multi-Agent Workflow for Turbomachinery Simulation Data Visualization}},
+  author = {{Zhe Wang} and {Zehao Lou} and {Guanghui Zhao} and {Yu Dong} and {Guan Li} and {Pengyi Xu} and {Gaorong Liang} and {Jun Liu} and {Guihua Shan}},
+  year = {2026},
+  eprint = {2609.16598v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.16598v1},
+  note = {First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T03:46:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

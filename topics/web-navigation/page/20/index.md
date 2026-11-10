@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 20 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/20/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 20
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/20/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [hai-agents](https://awesomecua.com/resources/github-hcompai-hai-agents-ts/)
-- [handraise](https://awesomecua.com/resources/github-sy-d-handraise/)
 - [handraise-slack](https://awesomecua.com/resources/github-sy-d-handraise-slack/)
 - [hanzhangzzz dsh-computer-use](https://awesomecua.com/resources/github-hanzhangzzz-dsh-computer-use/)
 - [Hanzi Browse](https://awesomecua.com/resources/github-hanzili-hanzi-browse/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [jev-browser](https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/)
 - [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/)
 - [Jevry](https://awesomecua.com/resources/github-michaelswissa-jevry/)
+- [Jig WebMCP Workbench](https://awesomecua.com/resources/github-emadqureshikhi-jig/)
+- [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)

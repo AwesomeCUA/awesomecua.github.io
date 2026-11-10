@@ -1,3 +1,11 @@
+---
+title: "OmniVerifier-C1: Decomposed Graded Verifier… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22355/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling
 
 Bibliographic record for OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bowei Liu, Xinchen Zhang, Xuhuan Li, Tianlin Zhang, Kaian Jiang, Jingwei Liu, Co
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22355/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22355/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22355,
+  title = {{OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling}},
+  author = {{Bowei Liu} and {Xinchen Zhang} and {Xuhuan Li} and {Tianlin Zhang} and {Kaian Jiang} and {Jingwei Liu} and {Congyang Zhao} and {Yifei Qian} and {Junhong Liu} and {Zhiheng Li} and {Yujiu Yang} and {Yang Cai} and {Ling Yang}},
+  year = {2026},
+  eprint = {2610.22355v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22355v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:58:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "CUBE: A Standard for Unifying Agent Benchmarks | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-15798/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CUBE: A Standard for Unifying Agent Benchmarks
 
 Bibliographic record for CUBE: A Standard for Unifying Agent Benchmarks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Alexandre Lacoste, Nicolas Gontier, Oleh Shliazhko, Aman Jaiswal, Kusha Sareen, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-15798/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-15798/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_15798,
+  title = {{CUBE: A Standard for Unifying Agent Benchmarks}},
+  author = {{Alexandre Lacoste} and {Nicolas Gontier} and {Oleh Shliazhko} and {Aman Jaiswal} and {Kusha Sareen} and {Shailesh Nanisetty} and {Joan Cabezas} and {Manuel Del Verme} and {Omar G. Younis} and {Simone Baratta} and {Matteo Avalle} and {Imene Kerboua} and {Xing Han Lù} and {Elron Bandel} and {Michal Shmueli-Scheuer} and {Asaf Yehudai} and {Leshem Choshen} and {Jonathan Lebensold} and {Sean Hughes} and {Massimo Caccia} and {Alexandre Drouin} and {Siva Reddy} and {Tao Yu} and {Yu Su} and {Graham Neubig} and {Dawn Song}},
+  year = {2026},
+  eprint = {2603.15798v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.15798v1},
+  note = {First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T18:31:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

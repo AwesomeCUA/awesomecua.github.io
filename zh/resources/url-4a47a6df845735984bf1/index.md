@@ -1,3 +1,11 @@
+---
+title: "HoloTab · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4a47a6df845735984bf1/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # HoloTab
 
 H 浏览器扩展程序，用于通过网站界面执行任务。

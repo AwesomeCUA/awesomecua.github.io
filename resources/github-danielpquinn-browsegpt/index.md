@@ -1,3 +1,11 @@
+---
+title: "BrowseGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-danielpquinn-browsegpt/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # BrowseGPT
 
 Chrome extension with a local Node.js server that lists the visible page's links, buttons and inputs as a numbered outline and asks OpenAI gpt-3.5-turbo for the next CLICK, ENTER_TEXT or NAVIGATE step toward a goal.

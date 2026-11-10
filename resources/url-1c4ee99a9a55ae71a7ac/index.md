@@ -1,3 +1,11 @@
+---
+title: "UI-S1 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1c4ee99a9a55ae71a7ac/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # UI-S1 7B
 
 A mobile GUI checkpoint trained with semi-online reinforcement learning that uses offline trajectories to improve multi-turn action prediction.

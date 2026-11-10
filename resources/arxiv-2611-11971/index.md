@@ -1,3 +1,11 @@
+---
+title: "Harness Matters: Measuring and Dissecting… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-11971/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Harness Matters: Measuring and Dissecting Security Resilience in Web Agents
 
 Bibliographic record for Harness Matters: Measuring and Dissecting Security Resilience in Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xinyi Wu, Jiagui Chen, JiaYi Dong, Geng Hong, Xudong Pan, Jiarun Dai, Mingxuan L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-11971/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-11971/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_11971,
+  title = {{Harness Matters: Measuring and Dissecting Security Resilience in Web Agents}},
+  author = {{Xinyi Wu} and {Jiagui Chen} and {JiaYi Dong} and {Geng Hong} and {Xudong Pan} and {Jiarun Dai} and {Mingxuan Liu} and {Min Yang}},
+  year = {2026},
+  eprint = {2611.11971v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.11971v1},
+  note = {First published: 2026-11-09; Recorded arXiv version: v1; Recorded version updated: 2026-11-09T06:53:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

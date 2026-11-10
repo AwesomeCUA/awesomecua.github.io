@@ -1,3 +1,11 @@
+---
+title: "AgentTime: Can Agents Estimate and Control… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-09944/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # AgentTime: Can Agents Estimate and Control Their Own Runtime?
 
 Evaluates duration following, runtime forecasts and elapsed-time estimates in native agent harnesses, including OSWorld desktop tasks, with external timers, native graders and work-versus-wait analysis.
@@ -26,6 +34,18 @@ Michael Ofengenden, Maksym Andriushchenko
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-09944/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-09944/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_09944,
+  title = {{AgentTime: Can Agents Estimate and Control Their Own Runtime?}},
+  author = {{Michael Ofengenden} and {Maksym Andriushchenko}},
+  year = {2026},
+  eprint = {2610.09944v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.09944v2},
+  note = {First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T09:06:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

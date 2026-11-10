@@ -1,3 +1,11 @@
+---
+title: "VerificAgent: Domain-Specific Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-02539/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of Aligned Computer-Use Agents
 
 Introduces VerificAgent, which grows domain-specific memories from task trajectories and subjects them to human fact-checking before deployment. Its OSWorld evaluation treats persistent memory as an auditable constraint on later agent behavior.
@@ -26,6 +34,18 @@ Thong Q. Nguyen, Shubhang Desai, Raja Hasnain Anwar, Firoz Shaik, Vishwas Suryan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-02539/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-02539/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_02539,
+  title = {{VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of Aligned Computer-Use Agents}},
+  author = {{Thong Q. Nguyen} and {Shubhang Desai} and {Raja Hasnain Anwar} and {Firoz Shaik} and {Vishwas Suryanarayanan} and {Vishal Chowdhary}},
+  year = {2025},
+  eprint = {2506.02539v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.02539v3},
+  note = {First published: 2025-06-03; Recorded arXiv version: v3; Recorded version updated: 2025-08-07T21:48:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

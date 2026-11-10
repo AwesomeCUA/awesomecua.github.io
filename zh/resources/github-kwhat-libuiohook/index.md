@@ -1,3 +1,11 @@
+---
+title: "libuiohook · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kwhat-libuiohook/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # libuiohook
 
 一个 C 语言库，可在 Windows、macOS 和 Linux 的用户态安装全局键盘与鼠标钩子，并能发送合成输入事件，附带钩子和事件发送示例。

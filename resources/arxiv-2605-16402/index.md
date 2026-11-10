@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround: A Benchmark for Robust GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-16402/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # WinDeskGround: A Benchmark for Robust GUI Grounding in Complex Multi-Window Desktop Environments
 
 WinDeskGround synthesizes multi-window desktop layouts with controlled occlusion, density and semantic similarity to test GUI grounding robustness. Its instruction-target benchmark measures how localization changes when interfaces depart from simple single-layer scenes.
@@ -26,6 +34,18 @@ Haoren Zhao, Tianyi Chen, Zhen Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-16402/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-16402/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_16402,
+  title = {{WinDeskGround: A Benchmark for Robust GUI Grounding in Complex Multi-Window Desktop Environments}},
+  author = {{Haoren Zhao} and {Tianyi Chen} and {Zhen Wang}},
+  year = {2026},
+  eprint = {2605.16402v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.16402v1},
+  note = {First published: 2026-05-13; Recorded arXiv version: v1; Recorded version updated: 2026-05-13T02:48:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Large-scale Evaluation of Notebook… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-01377/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large-scale Evaluation of Notebook Checkpointing with AI Agents
 
 Status: excluded from the active CUA catalog after scope review.

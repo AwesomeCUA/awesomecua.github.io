@@ -1,3 +1,11 @@
+---
+title: "Image2Gcode: Image-to-G-code Generation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-20636/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model
 
 Status: excluded from the active CUA catalog after scope review.

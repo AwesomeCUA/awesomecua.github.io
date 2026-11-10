@@ -1,3 +1,11 @@
+---
+title: "Interaction-as-a-Judge · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-17895/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Interaction-as-a-Judge
 
 让计算机使用智能体与生成的应用交互，研究交互能否改进偏好评判、需求检查和用于应用生成的反馈。
@@ -27,6 +35,18 @@ Wayne Chi, I-Hung Hsu, Li Chen, Wei-Lin Chiang, Ion Stoica, Anastasios Nikolas A
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-17895/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-17895/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17895,
+  title = {{Interaction-as-a-Judge}},
+  author = {{Wayne Chi} and {I-Hung Hsu} and {Li Chen} and {Wei-Lin Chiang} and {Ion Stoica} and {Anastasios Nikolas Angelopoulos} and {Ameet Talwalkar} and {Chris Donahue} and {Cho-Jui Hsieh}},
+  year = {2026},
+  eprint = {2610.17895v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17895v2},
+  note = {First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T06:37:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "CAD Adjacency Computation Using Validated… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1704-06856/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CAD Adjacency Computation Using Validated Numerics
 
 Status: excluded from the active CUA catalog after scope review.

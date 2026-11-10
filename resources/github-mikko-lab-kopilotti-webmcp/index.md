@@ -1,3 +1,11 @@
+---
+title: "Kopilotti WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mikko-lab-kopilotti-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Kopilotti WebMCP
 
 WebMCP reference application where a browser agent prepares non-binding proposals that require explicit human approval.

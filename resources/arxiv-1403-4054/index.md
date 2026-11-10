@@ -1,3 +1,11 @@
+---
+title: "A general decision framework for structuring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1403-4054/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A general decision framework for structuring computation using Data Directional Scaling to process massive similarity matrices
 
 Status: excluded from the active CUA catalog after scope review.

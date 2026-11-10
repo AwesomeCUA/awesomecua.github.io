@@ -1,3 +1,11 @@
+---
+title: "CamoFox MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-redf0x1-camofox-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # CamoFox MCP
 
 Model Context Protocol server connecting Claude Desktop, Cursor, and OpenClaw to CamoFox anti-detection browser instances.

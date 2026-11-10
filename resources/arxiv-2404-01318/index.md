@@ -1,3 +1,11 @@
+---
+title: "JailbreakBench: An Open Robustness Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-01318/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

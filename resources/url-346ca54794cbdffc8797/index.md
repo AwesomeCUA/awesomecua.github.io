@@ -1,3 +1,11 @@
+---
+title: "OSWorld Ubuntu VM images | AwesomeCUA"
+url: https://awesomecua.com/resources/url-346ca54794cbdffc8797/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # OSWorld Ubuntu VM images
 
 Hub host of OSWorld's prebuilt Ubuntu virtual machines: VMware archives for x86 and arm64 and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run.

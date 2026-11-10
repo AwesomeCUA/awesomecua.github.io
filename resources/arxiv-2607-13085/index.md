@@ -1,3 +1,11 @@
+---
+title: "Baselines Before Architecture: Evaluating… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-13085/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Baselines Before Architecture: Evaluating Coding Agents for Autonomous Penetration Testing
 
 Bibliographic record for Baselines Before Architecture: Evaluating Coding Agents for Autonomous Penetration Testing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ananda Dhakal, Krish Neupane, Aarjan Chaudhary
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-13085/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-13085/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_13085,
+  title = {{Baselines Before Architecture: Evaluating Coding Agents for Autonomous Penetration Testing}},
+  author = {{Ananda Dhakal} and {Krish Neupane} and {Aarjan Chaudhary}},
+  year = {2026},
+  eprint = {2607.13085v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.13085v1},
+  note = {First published: 2026-07-13; Recorded arXiv version: v1; Recorded version updated: 2026-07-13T13:31:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

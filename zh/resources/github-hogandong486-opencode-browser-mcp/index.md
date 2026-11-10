@@ -1,3 +1,11 @@
+---
+title: "OpenCode Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hogandong486-opencode-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OpenCode Browser MCP
 
 面向 OpenCode 的浏览器 Model Context Protocol 服务器，支持 Chromium、Firefox 和 WebKit 自动化。

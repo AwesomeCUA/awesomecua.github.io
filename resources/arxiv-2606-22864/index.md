@@ -1,3 +1,11 @@
+---
+title: "When AUC 0.998 Is Not Enough: A Candidate… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-22864/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents
 
 Proposes diagnostic controls for hidden-state probes of indirect prompt injection in multimodal computer-use agents, using a teacher-forced Mind2Web case study.
@@ -26,6 +34,18 @@ Yanhang Li, Zhichao Fan, Zexin Zhuang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-22864/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-22864/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_22864,
+  title = {{When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents}},
+  author = {{Yanhang Li} and {Zhichao Fan} and {Zexin Zhuang}},
+  year = {2026},
+  eprint = {2606.22864v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.22864v1},
+  note = {First published: 2026-06-22; Recorded arXiv version: v1; Recorded version updated: 2026-06-22T05:13:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

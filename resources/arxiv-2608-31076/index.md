@@ -1,3 +1,11 @@
+---
+title: "Learning to Evaluate Before Improving… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-31076/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents
 
 Status: excluded from the active CUA catalog after scope review.

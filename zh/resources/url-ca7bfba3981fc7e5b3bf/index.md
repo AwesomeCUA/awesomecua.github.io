@@ -1,3 +1,11 @@
+---
+title: "MobileRisk · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ca7bfba3981fc7e5b3bf/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # MobileRisk
 
 带标注的 Android 智能体轨迹，分为安全与不安全两组，用于 OS-Sentinel 基准，衡量检测方法识别移动端 GUI 智能体不安全操作的能力。

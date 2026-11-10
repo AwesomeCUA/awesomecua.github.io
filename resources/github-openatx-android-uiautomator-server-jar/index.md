@@ -1,3 +1,11 @@
+---
+title: "android-uiautomator-server-jar | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openatx-android-uiautomator-server-jar/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # android-uiautomator-server-jar
 
 An on-device JSON-RPC server for Android UIAutomator, launched through app_process, that lets PC-side scripts click, dump the window hierarchy and type text through a bundled keyboard.

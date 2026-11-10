@@ -1,3 +1,11 @@
+---
+title: "FormGym: Doing Paperwork with Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-14079/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # FormGym: Doing Paperwork with Agents
 
 提出 FormGym 图像表单填写基准，以及帮助 LLM 确定文字填写位置的 FieldFinder 工具，面向智能体处理纯图像文书的任务。
@@ -27,6 +35,18 @@ Matthew Toles, Rattandeep Singh, Isaac Song, Zhou Yu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-14079/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-14079/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_14079,
+  title = {{FormGym: Doing Paperwork with Agents}},
+  author = {{Matthew Toles} and {Rattandeep Singh} and {Isaac Song} and {Zhou Yu}},
+  year = {2025},
+  eprint = {2506.14079v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.14079v4},
+  note = {First published: 2025-06-17; Recorded arXiv version: v4; Recorded version updated: 2026-07-21T01:09:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

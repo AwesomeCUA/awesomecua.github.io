@@ -1,3 +1,11 @@
+---
+title: "InternVL3-38B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b2a83cef835559f24351/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3-38B
 
 A released InternVL3-38B multimodal checkpoint from a model family whose card documents GUI-operation training samples and GUI-grounding evaluation.

@@ -1,3 +1,11 @@
+---
+title: "UI-CUBE: Enterprise-Grade Computer Use Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-17131/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # UI-CUBE: Enterprise-Grade Computer Use Agent Benchmarking Beyond Task Accuracy to Operational Reliability
 
 UI-CUBE evaluates 226 tasks ranging from individual controls to copy-paste and enterprise workflows. Interface variations, multiple resolutions, and application-state validation support diagnosis of operational reliability beyond task accuracy alone.
@@ -26,6 +34,18 @@ Horia Cristescu, Charles Park, Trong Canh Nguyen, Sergiu Talmacel, Alexandru-Gab
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-17131/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-17131/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_17131,
+  title = {{UI-CUBE: Enterprise-Grade Computer Use Agent Benchmarking Beyond Task Accuracy to Operational Reliability}},
+  author = {{Horia Cristescu} and {Charles Park} and {Trong Canh Nguyen} and {Sergiu Talmacel} and {Alexandru-Gabriel Ilie} and {Stefan Adam}},
+  year = {2025},
+  eprint = {2511.17131v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.17131v1},
+  note = {First published: 2025-11-21; Recorded arXiv version: v1; Recorded version updated: 2025-11-21T10:47:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AI Vision (Chrome Screenshot Assistant) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-stiwarilbj-ai-vision/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AI Vision (Chrome Screenshot Assistant)
 
 Chrome 扩展，截取选定网页区域，供 Gemini 进行视觉分析、OCR 提取和上下文问答。

@@ -1,3 +1,11 @@
+---
+title: "AndroidLab · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-android-lab/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # AndroidLab
 
 可复现的 Android 基准，在预设虚拟设备上的 9 个应用中包含 138 项任务，可在 Mac 上通过 AVD 或在 Linux 上通过 Docker 运行，并与 Android Instruct 训练集一同发布。

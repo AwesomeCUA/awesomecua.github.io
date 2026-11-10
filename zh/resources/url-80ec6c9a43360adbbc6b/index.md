@@ -1,3 +1,11 @@
+---
+title: "UI-Venus-Navi-72B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-80ec6c9a43360adbbc6b/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # UI-Venus-Navi-72B
 
 基于 Qwen2.5-VL 的界面模型检查点，通过截图定位界面元素并预测导航操作，采用强化微调训练。

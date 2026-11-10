@@ -1,3 +1,11 @@
+---
+title: "rebrowser-bot-detector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-bot-detector/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # rebrowser-bot-detector
 
 一个浏览器测试页面，检测 Puppeteer 和 Playwright 的自动化泄露信号，例如 Runtime.enable 调用、注入的源 URL、主环境执行和无头模式特征，并为每项给出修复建议。

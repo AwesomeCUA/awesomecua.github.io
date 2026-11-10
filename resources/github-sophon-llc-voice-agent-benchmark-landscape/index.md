@@ -1,3 +1,11 @@
+---
+title: "Voice & Computer-Use Benchmark Landscape | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sophon-llc-voice-agent-benchmark-landscape/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Voice & Computer-Use Benchmark Landscape
 
 Structured taxonomy and comparative map of public voice-agent, multimodal, and computer-use evaluation benchmarks.

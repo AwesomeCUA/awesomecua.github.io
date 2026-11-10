@@ -1,3 +1,11 @@
+---
+title: "评测：Computer-Use 研究与资源（第 16 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/16/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 16 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/16/

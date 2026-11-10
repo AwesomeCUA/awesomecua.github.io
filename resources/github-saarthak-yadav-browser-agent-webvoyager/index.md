@@ -1,3 +1,11 @@
+---
+title: "Browser AI Agent — live-web benchmark audit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saarthak-yadav-browser-agent-webvoyager/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Browser AI Agent — live-web benchmark audit
 
 An archived audit of live website tasks for web-agent evaluation, with task subsets and scripts that examine site decay, access barriers, and measurement errors.

@@ -1,3 +1,11 @@
+---
+title: "Google Developer Codelab: Automated UI… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent
 
 A hands-on codelab for creating browser-based UI tests with Antigravity CLI, BrowserMCP and a Playwright agent skill, using an included demo application.

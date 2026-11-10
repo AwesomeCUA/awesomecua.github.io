@@ -1,3 +1,11 @@
+---
+title: "Browser Use (framework) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-browser-use/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # Browser Use
 
 Open-source browser agent library that runs locally with any LLM against a local or cloud browser, and also serves as a CLI for coding agents and as a driver for Claude's browser toolset.

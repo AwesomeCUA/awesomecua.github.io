@@ -1,3 +1,11 @@
+---
+title: "Automated Red Teaming with GOAT: the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-01606/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Automated Red Teaming with GOAT: the Generative Offensive Agent Tester
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Seeing, Listening, Remembering, and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-09736/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory
 
 Status: excluded from the active CUA catalog after scope review.

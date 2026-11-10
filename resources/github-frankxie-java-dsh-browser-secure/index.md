@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-secure | AwesomeCUA"
+url: https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-browser-secure
 
 Security-hardened fork of `dsh-browser` for DeepSeek Harness adding audit logging and domain egress allowlists.

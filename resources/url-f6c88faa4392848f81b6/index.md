@@ -1,3 +1,11 @@
+---
+title: "GroundCUA dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f6c88faa4392848f81b6/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GroundCUA dataset
 
 Desktop GUI-grounding data from the GroundCUA project: PNG screenshots of 87 applications paired by hash with JSON lists of element boxes, visible text and optional coarse categories.

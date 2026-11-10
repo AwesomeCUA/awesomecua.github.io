@@ -1,3 +1,11 @@
+---
+title: "ReSAIL: Mitigating Collapse in Iterative… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-39306/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation
 
 Introduces ReSAIL, an augmentation for iterative agent self-distillation that selects informative interaction steps; it also tests GUI-agent action prediction.
@@ -26,6 +34,18 @@ Shengjie Jin, Hengbo Xu, Zelong Sun, YuJie Guo, Zhiwu Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39306/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39306/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39306,
+  title = {{ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation}},
+  author = {{Shengjie Jin} and {Hengbo Xu} and {Zelong Sun} and {YuJie Guo} and {Zhiwu Lu}},
+  year = {2026},
+  eprint = {2609.39306v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39306v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T08:49:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

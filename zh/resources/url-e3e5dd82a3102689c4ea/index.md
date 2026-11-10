@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor 7B Qwen2-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e3e5dd82a3102689c4ea/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # GUI-Actor 7B Qwen2-VL
 
 由 Qwen2-VL-7B-Instruct 微调的 GUI-Actor 检查点，约有 8.4B 个 BF16 参数；其配置指定了 Qwen2-VL 类的指针变体，采用 MIT 许可证。

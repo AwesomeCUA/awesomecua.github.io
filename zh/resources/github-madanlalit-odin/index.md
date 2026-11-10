@@ -1,3 +1,11 @@
+---
+title: "Odin · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-madanlalit-odin/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Odin
 
 Odin 是 macOS 计算机自动化智能体，结合视觉 LLM、Accessibility 上下文提取和原生输入控制。

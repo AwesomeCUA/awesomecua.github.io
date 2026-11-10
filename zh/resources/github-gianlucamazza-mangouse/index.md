@@ -1,3 +1,11 @@
+---
+title: "mangouse · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gianlucamazza-mangouse/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mangouse
 
 面向编程和计算机使用智能体、与合成器无关的 Linux Wayland 虚拟席位和输入适配器。

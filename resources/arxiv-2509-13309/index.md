@@ -1,3 +1,11 @@
+---
+title: "WebResearcher: Unleashing unbounded reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-13309/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents
 
 Bibliographic record for WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zile Qiao, Guoxin Chen, Xuanzhong Chen, Donglei Yu, Wenbiao Yin, Xinyu Wang, Zhe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-13309/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-13309/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13309,
+  title = {{WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents}},
+  author = {{Zile Qiao} and {Guoxin Chen} and {Xuanzhong Chen} and {Donglei Yu} and {Wenbiao Yin} and {Xinyu Wang} and {Zhen Zhang} and {Baixuan Li} and {Huifeng Yin} and {Kuan Li} and {Rui Min} and {Minpeng Liao} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2509.13309v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13309v2},
+  note = {First published: 2025-09-16; Recorded arXiv version: v2; Recorded version updated: 2025-09-20T14:27:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

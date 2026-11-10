@@ -1,3 +1,11 @@
+---
+title: "claude-minecraft-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-observedobserver-claude-minecraft-use/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # claude-minecraft-use
 
 Adapts Anthropic Claude Computer Use on macOS with continuous movement and camera controls to play Minecraft from screen observations.

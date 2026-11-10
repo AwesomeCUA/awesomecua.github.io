@@ -1,3 +1,11 @@
+---
+title: "Terminator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mediar-ai-terminator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Terminator
 
 Terminator 是以无障碍功能为基础的桌面自动化 SDK 和 MCP 服务器，用于控制 Windows、macOS 和 Linux GUI 应用。

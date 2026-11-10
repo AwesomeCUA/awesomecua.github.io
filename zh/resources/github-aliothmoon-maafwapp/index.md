@@ -1,3 +1,11 @@
+---
+title: "MaaFwApp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aliothmoon-maafwapp/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaFwApp
 
 一个 Android 应用，在手机本机运行以 Project Interface V2 描述的 MaaFramework 自动化项目，通过 Shizuku 或 root 进程截屏和点击，并可在虚拟屏上运行任务。

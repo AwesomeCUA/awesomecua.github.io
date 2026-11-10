@@ -1,3 +1,11 @@
+---
+title: "Clearcote Profile Manager · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clearcotelabs-clearcote-profile-manager/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Clearcote Profile Manager
 
 一款用于管理持久化浏览器配置文件的桌面及网页应用。其任务功能可在一个配置文件中学习操作流程，并在其他配置文件中重复执行，在不可撤销的点击前请求批准。

@@ -1,3 +1,11 @@
+---
+title: "OSWorkerBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c8c3d4ef20e68086a812/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorkerBench
 
 桌面图形界面智能体基准，包含横跨 17 个业务领域和 41 个应用的 100 项办公任务。它发布任务表和演示数据表，供 UI-Mate 评测框架使用。

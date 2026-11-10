@@ -1,3 +1,11 @@
+---
+title: "Browser Use · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-browser-use/
+updated: 2026-10-19
+type: company
+lang: zh-CN
+---
+
 # Browser Use
 
 与 Browser Use 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

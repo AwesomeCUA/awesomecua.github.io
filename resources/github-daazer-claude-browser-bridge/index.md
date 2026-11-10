@@ -1,3 +1,11 @@
+---
+title: "Claude Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daazer-claude-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Claude Browser Bridge
 
 Local bridge allowing coding agents to read and drive the user's everyday logged-in Chrome profile.

@@ -1,3 +1,11 @@
+---
+title: "AgentForge · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-moeenasim-agentforge-v5/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # AgentForge
 
 用于对计算机使用智能体进行压力测试的多智能体对抗评测与安全检查实验室。

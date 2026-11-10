@@ -1,3 +1,11 @@
+---
+title: "AutoWebNav · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mindattic-autowebnav/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # AutoWebNav
 
 AutoWebNav 是用于 WebView2 浏览器自动化的 .NET 库，将页面操作和元素定位与交互记录、实时观察结合起来。

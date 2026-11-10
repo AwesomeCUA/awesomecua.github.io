@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-af7a03e8199643c3508f/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard SFT
 
 THUDM ScaleCUA 的监督训练 Qwen3.5-9B 检查点，作为 ScienceBoard 计算机使用智能体在线强化学习的初始模型发布。

@@ -1,3 +1,11 @@
+---
+title: "tui-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-onesuper-tui-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # tui-use
 
 tui-use 是一个命令行工具，让智能体通过持久的 PTY 会话读取终端应用屏幕并发送按键。它生成文本快照，还能等待屏幕变化。

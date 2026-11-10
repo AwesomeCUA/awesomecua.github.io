@@ -1,3 +1,11 @@
+---
+title: "状态追踪：Computer-Use 研究与资源（第 2 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/state-tracking/page/2/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 状态追踪：Computer-Use 研究与资源（第 2 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/state-tracking/page/2/

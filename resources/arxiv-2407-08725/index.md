@@ -1,3 +1,11 @@
+---
+title: "MetaUrban: An Embodied AI Simulation Platform… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-08725/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility
 
 Bibliographic record for MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wayne Wu, Honglin He, Jack He, Yiran Wang, Chenda Duan, Zhizheng Liu, Quanyi Li,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-08725/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-08725/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_08725,
+  title = {{MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility}},
+  author = {{Wayne Wu} and {Honglin He} and {Jack He} and {Yiran Wang} and {Chenda Duan} and {Zhizheng Liu} and {Quanyi Li} and {Bolei Zhou}},
+  year = {2024},
+  eprint = {2407.08725v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.08725v2},
+  note = {First published: 2024-07-11; Recorded arXiv version: v2; Recorded version updated: 2024-10-11T09:41:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

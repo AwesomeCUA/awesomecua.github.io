@@ -1,3 +1,11 @@
+---
+title: "WinSpot: GUI Grounding Benchmark with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b5cab56e1a439ca8e524/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # WinSpot: GUI Grounding Benchmark with Multimodal Large Language Models
 
 提出 WinSpot Windows GUI 元素定位基准，包含 5,000 对人工验证的坐标与指令，由多模态 LLM 标注不含 HTML 或无障碍树的原始桌面截图构建。
@@ -27,6 +35,21 @@ Zheng Hui, Yinheng Li, Dan Zhao, Colby Banbury, Tianyi Chen, Kazuhito Koishida
 
 - BibTeX：https://awesomecua.com/resources/url-b5cab56e1a439ca8e524/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-b5cab56e1a439ca8e524/citation.csl.json
+
+```bibtex
+@inproceedings{cua_1d59d560652242a81ff35b81,
+  title = {{WinSpot: GUI Grounding Benchmark with Multimodal Large Language Models}},
+  author = {{Zheng Hui} and {Yinheng Li} and {Dan Zhao} and {Colby Banbury} and {Tianyi Chen} and {Kazuhito Koishida}},
+  year = {2025},
+  month = jul,
+  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
+  publisher = {Association for Computational Linguistics},
+  pages = {1086-1096},
+  doi = {10.18653/v1/2025.acl-short.85},
+  url = {https://aclanthology.org/2025.acl-short.85/},
+  note = {Publication date: 2025-07.}
+}
+```
 
 ## 发表记录
 

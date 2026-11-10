@@ -1,3 +1,11 @@
+---
+title: "A Survey on the Memory Mechanism of Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-13501/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey on the Memory Mechanism of Large Language Model based Agents
 
 Status: excluded from the active CUA catalog after scope review.

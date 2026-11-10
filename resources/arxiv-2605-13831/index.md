@@ -1,3 +1,11 @@
+---
+title: "Training Long-Context Vision-Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-13831/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Ui.Vision RPA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-a9t9-rpa/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ui.Vision RPA
 
 Ui.Vision 结合了兼容 Selenium 的浏览器命令、基于视觉的桌面 OCR 和模板自动化，以及面向 AI 智能体的 MCP 服务器。

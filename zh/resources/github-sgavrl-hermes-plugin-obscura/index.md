@@ -1,3 +1,11 @@
+---
+title: "Obscura browser plugin for Hermes · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sgavrl-hermes-plugin-obscura/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Obscura browser plugin for Hermes
 
 一款 Hermes 浏览器提供程序插件，通过 Obscura CDP 服务器转接浏览器智能体工具。它可为每个会话启动本地服务器，也可连接现有服务器。

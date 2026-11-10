@@ -1,3 +1,11 @@
+---
+title: "Computer Use Studio Pro · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-666xiaoniuzi-computer-use-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Computer Use Studio Pro
 
 用于低延迟、经验证的桌面、浏览器和窗口控制的跨智能体技能。

@@ -1,3 +1,11 @@
+---
+title: "gui-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-waynchi-gui-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # gui-agent
 
 用于界面智能体实验的研究代码，附有训练好的界面元素检测模型、实验配置和提示词。

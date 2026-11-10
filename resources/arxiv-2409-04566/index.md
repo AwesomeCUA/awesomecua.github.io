@@ -1,3 +1,11 @@
+---
+title: "Multipartite entanglement | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-04566/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multipartite entanglement
 
 Status: excluded from the active CUA catalog after scope review.

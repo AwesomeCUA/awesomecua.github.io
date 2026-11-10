@@ -1,3 +1,11 @@
+---
+title: "mobilecli · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobile-next-mobilecli/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # mobilecli
 
 mobilecli 是控制 iOS 和 Android 设备及模拟器的命令行工具，可截屏、读取界面树、发送输入并管理应用。

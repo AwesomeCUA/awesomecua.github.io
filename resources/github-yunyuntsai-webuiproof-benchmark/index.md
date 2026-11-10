@@ -1,3 +1,11 @@
+---
+title: "WebUIProof | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # WebUIProof
 
 A benchmark of 149 web UI generation tasks with structured test cases and a vision-language agent that tests generated interfaces in a browser.

@@ -1,3 +1,11 @@
+---
+title: "Robo2Process: Benchmarking and Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-13040/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Robo2Process: Benchmarking and Learning Process-Aware Understanding in Vision-Language Robotic Manipulation
 
 Status: excluded from the active CUA catalog after scope review.

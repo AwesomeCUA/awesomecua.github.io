@@ -1,3 +1,11 @@
+---
+title: "AUITestAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bz-lab-auitestagent/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # AUITestAgent
 
 Generates mobile GUI interactions from natural-language test requirements and checks application behavior against those requirements.

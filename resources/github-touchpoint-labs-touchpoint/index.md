@@ -1,3 +1,11 @@
+---
+title: "Touchpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Touchpoint
 
 Touchpoint is a cross-platform desktop accessibility API and MCP server giving AI agents unified UI inspection and control.

@@ -1,3 +1,11 @@
+---
+title: "ScreenParse: Moving Beyond Sparse… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-14276/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision
 
 ScreenParse 通过自动化渲染和过滤流程，为网页截图中的 UI 元素、类型和文本提供密集标注；ScreenVLM 学习输出结构化屏幕标记，研究评估密集解析及向 GUI 定位的迁移。
@@ -27,6 +35,18 @@ A. Said Gurbuz, Sunghwan Hong, Ahmed Nassar, Marc Pollefeys, Peter Staar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-14276/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-14276/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_14276,
+  title = {{ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision}},
+  author = {{A. Said Gurbuz} and {Sunghwan Hong} and {Ahmed Nassar} and {Marc Pollefeys} and {Peter Staar}},
+  year = {2026},
+  eprint = {2602.14276v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.14276v2},
+  note = {First published: 2026-02-15; Recorded arXiv version: v2; Recorded version updated: 2026-05-01T17:32:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Are LLM Agents the New RPA? A… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-04198/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows
 
 比较通过界面执行任务的智能体与 UiPath RPA 在企业数据录入、监控和文档提取中的速度、可靠性及开发工作量。
@@ -27,6 +35,18 @@ Petr Průcha, Michaela Matoušková, Jan Strnad
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-04198/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-04198/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_04198,
+  title = {{Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows}},
+  author = {{Petr Průcha} and {Michaela Matoušková} and {Jan Strnad}},
+  year = {2025},
+  eprint = {2509.04198v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.04198v1},
+  note = {First published: 2025-09-04; Recorded arXiv version: v1; Recorded version updated: 2025-09-04T13:22:44Z.}
+}
+```
 
 ## arXiv 版本记录
 

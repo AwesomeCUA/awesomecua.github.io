@@ -1,3 +1,11 @@
+---
+title: "FDC-Ground: Improving GRPO for GUI Grounding… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning
 
 FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.
@@ -26,6 +34,23 @@ Xiangjian Zeng, Wenjing Li, Qingqiang Wu, Liang Zhang
 
 - BibTeX: https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/citation.csl.json
+
+```bibtex
+@inproceedings{cua_655fa9037015b3130301ce81,
+  title = {{FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning}},
+  author = {{Xiangjian Zeng} and {Wenjing Li} and {Qingqiang Wu} and {Liang Zhang}},
+  year = {2026},
+  month = mar,
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  publisher = {Association for the Advancement of Artificial Intelligence (AAAI)},
+  volume = {40},
+  number = {33},
+  pages = {28122-28130},
+  doi = {10.1609/aaai.v40i33.40038},
+  url = {https://ojs.aaai.org/index.php/AAAI/article/view/40038},
+  note = {Publication date: 2026-03-14.}
+}
+```
 
 ## Publication record
 

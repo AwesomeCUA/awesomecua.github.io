@@ -1,3 +1,11 @@
+---
+title: "Robot Learning from Human Videos: A Survey | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-27621/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Robot Learning from Human Videos: A Survey
 
 Status: excluded from the active CUA catalog after scope review.

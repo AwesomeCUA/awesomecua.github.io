@@ -1,3 +1,11 @@
+---
+title: "ChartSync: A Benchmark for Visuo-Logical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-10301/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing
 
 Bibliographic record for ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jiakang Yu, Yixuan Chai, Tianci Wang, Rihui Jin, Guangkai Xu, Hongtao Deng, Xun 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-10301/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-10301/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_10301,
+  title = {{ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing}},
+  author = {{Jiakang Yu} and {Yixuan Chai} and {Tianci Wang} and {Rihui Jin} and {Guangkai Xu} and {Hongtao Deng} and {Xun Zhu} and {Wang Gao} and {Xinrun Guo} and {Haipang Wu}},
+  year = {2026},
+  eprint = {2607.10301v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.10301v1},
+  note = {First published: 2026-07-11; Recorded arXiv version: v1; Recorded version updated: 2026-07-11T13:10:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

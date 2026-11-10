@@ -1,3 +1,11 @@
+---
+title: "MAgent: A Many-Agent Reinforcement Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1712-00600/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence
 
 Bibliographic record for MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Lianmin Zheng, Jiacheng Yang, Han Cai, Weinan Zhang, Jun Wang, Yong Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1712-00600/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1712-00600/citation.csl.json
+
+```bibtex
+@misc{arxiv_1712_00600,
+  title = {{MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence}},
+  author = {{Lianmin Zheng} and {Jiacheng Yang} and {Han Cai} and {Weinan Zhang} and {Jun Wang} and {Yong Yu}},
+  year = {2017},
+  eprint = {1712.00600v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1712.00600v1},
+  note = {First published: 2017-12-02; Recorded arXiv version: v1; Recorded version updated: 2017-12-02T12:41:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "tine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-smythp-tine/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # tine
 
 Command-line interface for AI agents to inspect and drive Linux GNOME Wayland desktops without portal consent dialogs.

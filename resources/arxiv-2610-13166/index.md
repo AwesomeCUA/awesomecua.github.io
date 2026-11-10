@@ -1,3 +1,11 @@
+---
+title: "Scaling Agentic Data for Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13166/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Scaling Agentic Data for Long-Horizon Terminal Intelligence
 
 Bibliographic record for Scaling Agentic Data for Long-Horizon Terminal Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Shun Zou, Ziyu Ma, Yi Zou, Yong Wang, Lin Chen, Zehui Chen, Guanhua Chen, Xiangx
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13166/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13166/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13166,
+  title = {{Scaling Agentic Data for Long-Horizon Terminal Intelligence}},
+  author = {{Shun Zou} and {Ziyu Ma} and {Yi Zou} and {Yong Wang} and {Lin Chen} and {Zehui Chen} and {Guanhua Chen} and {Xiangxiang Chu} and {Feng Zhao}},
+  year = {2026},
+  eprint = {2610.13166v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13166v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T07:55:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

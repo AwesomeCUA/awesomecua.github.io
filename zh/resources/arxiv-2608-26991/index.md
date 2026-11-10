@@ -1,3 +1,11 @@
+---
+title: "ASIL: Replacing Screenshot-and-Click… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-26991/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # ASIL: Replacing Screenshot-and-Click with Structured State and Semantic Actions
 
 ASIL 以结构化 JSON 呈现应用状态，并提供可由代码执行的语义动作；其应用基准比较这一界面与截图控制、应用原生 API，并研究结构化界面上的监督学习和强化学习。
@@ -27,6 +35,18 @@ Rui Xie, Lu Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-26991/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-26991/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_26991,
+  title = {{ASIL: Replacing Screenshot-and-Click with Structured State and Semantic Actions}},
+  author = {{Rui Xie} and {Lu Chen}},
+  year = {2026},
+  eprint = {2608.26991v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.26991v1},
+  note = {First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T11:38:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

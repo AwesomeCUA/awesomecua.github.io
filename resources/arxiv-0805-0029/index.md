@@ -1,3 +1,11 @@
+---
+title: "How to simulate a quantum computer using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0805-0029/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # How to simulate a quantum computer using negative probabilities
 
 Status: excluded from the active CUA catalog after scope review.

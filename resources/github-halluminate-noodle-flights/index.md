@@ -1,3 +1,11 @@
+---
+title: "Noodle Flights | AwesomeCUA"
+url: https://awesomecua.com/resources/github-halluminate-noodle-flights/
+updated: 2026-11-10
+type: infrastructure
+lang: en
+---
+
 # Noodle Flights
 
 A Next.js flight-search simulator for evaluating web agents, with one-way, round-trip and multi-city flows, deterministic seeded results and an OpenEnv wrapper for the Hugging Face OpenEnv Hub.

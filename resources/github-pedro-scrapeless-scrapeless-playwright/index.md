@@ -1,3 +1,11 @@
+---
+title: "Scrapeless Playwright Cloud Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pedro-scrapeless-scrapeless-playwright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Scrapeless Playwright Cloud Browser
 
 Connects Playwright scripts and browser agents to the Scrapeless anti-detection cloud Chromium browser over CDP.

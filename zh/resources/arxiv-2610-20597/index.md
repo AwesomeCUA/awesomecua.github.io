@@ -1,3 +1,11 @@
+---
+title: "Co-Evolving Acting and Forecasting for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-20597/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Co-Evolving Acting and Forecasting for Language Agents
 
 提出 CoPE，在强化学习中让语言智能体依据先前交互预测后续动作；WebShop 是其五个评估基准之一。
@@ -27,6 +35,18 @@ Haofei Yu, Yixing Chen, Yining Zhao, Xuyan Ye, Yuxiang Liu, Zhigang Hua, Yan Xie
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-20597/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-20597/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20597,
+  title = {{Co-Evolving Acting and Forecasting for Language Agents}},
+  author = {{Haofei Yu} and {Yixing Chen} and {Yining Zhao} and {Xuyan Ye} and {Yuxiang Liu} and {Zhigang Hua} and {Yan Xie} and {Shuang Yang} and {Jiaxuan You}},
+  year = {2026},
+  eprint = {2610.20597v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20597v2},
+  note = {First published: 2026-10-14; Recorded arXiv version: v2; Recorded version updated: 2026-10-15T17:52:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

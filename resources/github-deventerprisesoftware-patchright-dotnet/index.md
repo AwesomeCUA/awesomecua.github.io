@@ -1,3 +1,11 @@
+---
+title: "Patchright .NET | AwesomeCUA"
+url: https://awesomecua.com/resources/github-deventerprisesoftware-patchright-dotnet/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Patchright .NET
 
 Patchright .NET is the .NET package of Patchright: a patched Playwright that replaces the Microsoft.Playwright package and drives Chromium with automation leaks removed.

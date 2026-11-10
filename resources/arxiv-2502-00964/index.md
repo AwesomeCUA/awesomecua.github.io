@@ -1,3 +1,11 @@
+---
+title: "ML-Dev-Bench: Comparative Analysis of AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-00964/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ML-Dev-Bench: Comparative Analysis of AI Agents on ML development workflows
 
 Status: excluded from the active CUA catalog after scope review.

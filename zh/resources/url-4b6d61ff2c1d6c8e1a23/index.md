@@ -1,3 +1,11 @@
+---
+title: "MAI-UI 2B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4b6d61ff2c1d6c8e1a23/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # MAI-UI 2B
 
 采用 Qwen3-VL 架构的 2B MAI-UI 检查点，所属 GUI 智能体系列的训练数据在移动端导航和定位之外，还包含智能体与用户交互及 MCP 工具调用。

@@ -1,3 +1,11 @@
+---
+title: "Claude 3.7 Sonnet · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-63264f7cd4510d96e486/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Claude 3.7 Sonnet
 
 Claude 3.7 Sonnet 提供可选的扩展思考模式；Anthropic 介绍了其鼠标和键盘操作能力，并报告了 OSWorld 评估结果。

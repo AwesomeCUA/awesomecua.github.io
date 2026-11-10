@@ -1,3 +1,11 @@
+---
+title: "SeerGuard: A Safety Framework for Mobile… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-15550/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction
 
 利用指令筛查和融入安全信息的世界模型，在执行前评估移动端 GUI 操作可能造成的后果。
@@ -27,6 +35,18 @@ Xue Yu, Bo Yuan, Kailin Zhao, Pengshuai Yang, Hong Hu, Junlan Feng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-15550/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-15550/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_15550,
+  title = {{SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction}},
+  author = {{Xue Yu} and {Bo Yuan} and {Kailin Zhao} and {Pengshuai Yang} and {Hong Hu} and {Junlan Feng}},
+  year = {2026},
+  eprint = {2607.15550v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.15550v3},
+  note = {First published: 2026-07-17; Recorded arXiv version: v3; Recorded version updated: 2026-09-02T01:49:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

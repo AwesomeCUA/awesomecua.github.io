@@ -1,3 +1,11 @@
+---
+title: "Ko-WideSearch: A Korean Breadth-Search… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-27595/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents
 
 Introduces Ko-WideSearch, a Korean web-agent benchmark that asks agents to find every member of a set and fill a table of attributes for each member.
@@ -26,6 +34,18 @@ Minbyul Jeong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-27595/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-27595/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_27595,
+  title = {{Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents}},
+  author = {{Minbyul Jeong}},
+  year = {2026},
+  eprint = {2606.27595v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.27595v1},
+  note = {First published: 2026-06-25; Recorded arXiv version: v1; Recorded version updated: 2026-06-25T22:51:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

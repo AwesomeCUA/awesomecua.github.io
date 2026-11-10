@@ -1,3 +1,11 @@
+---
+title: "See, Think, Act: Teaching Multimodal Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-13615/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles
 
 Introduces a benchmark for binary GUI-toggle instructions and State-aware Reasoning, which compares the observed control state with the requested state before choosing an action. It evaluates agents on toggle tasks and broader interactive benchmarks.
@@ -26,6 +34,18 @@ Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, Zheng Wu, Lingzhon
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-13615/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-13615/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13615,
+  title = {{See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles}},
+  author = {{Zongru Wu} and {Rui Mao} and {Zhiyuan Tian} and {Pengzhou Cheng} and {Tianjie Ju} and {Zheng Wu} and {Lingzhong Dong} and {Haiyue Sheng} and {Zhuosheng Zhang} and {Gongshen Liu}},
+  year = {2025},
+  eprint = {2509.13615v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13615v5},
+  note = {First published: 2025-09-17; Recorded arXiv version: v5; Recorded version updated: 2026-03-18T08:12:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

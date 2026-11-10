@@ -1,3 +1,11 @@
+---
+title: "Mind2Web 2 task data and judge scripts | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4f4c4f0bf0cec93c59d1/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Mind2Web 2 task data and judge scripts
 
 Auto-gated Hub release of Mind2Web 2: dev and test task CSVs for long-horizon agentic web search, plus 130 per-task Python evaluation scripts that act as its judge agents.

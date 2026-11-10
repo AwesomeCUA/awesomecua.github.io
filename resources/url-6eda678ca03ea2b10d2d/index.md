@@ -1,3 +1,11 @@
+---
+title: "Qwen3.5-4B-Browser-Agent-SFT-FP8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3.5-4B-Browser-Agent-SFT-FP8
 
 An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.

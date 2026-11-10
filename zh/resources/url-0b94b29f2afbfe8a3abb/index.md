@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 1.5 2B Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0b94b29f2afbfe8a3abb/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Owl 1.5 2B Instruct
 
 GUI-Owl 1.5 原生 GUI 智能体系列中最小的指令版检查点，基于 Qwen3-VL，出自 Mobile-Agent-v3.5，面向桌面、移动端和浏览器任务，可独立使用或担任框架中的一个角色。

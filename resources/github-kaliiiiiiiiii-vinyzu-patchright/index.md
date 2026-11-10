@@ -1,3 +1,11 @@
+---
+title: "Patchright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Patchright
 
 Patchright is a modified Playwright driver for Chromium automation, with browser interaction through Playwright-style APIs and separate client packages.

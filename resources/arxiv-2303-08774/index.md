@@ -1,3 +1,11 @@
+---
+title: "GPT-4 Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-08774/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GPT-4 Technical Report
 
 Status: excluded from the active CUA catalog after scope review.

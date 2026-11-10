@@ -1,3 +1,11 @@
+---
+title: "OmniGAIA: Towards Native Omni-Modal AI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-22897/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # OmniGAIA: Towards Native Omni-Modal AI Agents
 
 Bibliographic record for OmniGAIA: Towards Native Omni-Modal AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Haoxuan Li, Hao Wang, Shijian Wang, Guanti
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-22897/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-22897/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_22897,
+  title = {{OmniGAIA: Towards Native Omni-Modal AI Agents}},
+  author = {{Xiaoxi Li} and {Wenxiang Jiao} and {Jiarui Jin} and {Haoxuan Li} and {Hao Wang} and {Shijian Wang} and {Guanting Dong} and {Jiajie Jin} and {Yinuo Wang} and {Yuan Lu} and {Ji-Rong Wen} and {Zhicheng Dou} and {Zhouchen Lin}},
+  year = {2026},
+  eprint = {2602.22897v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.22897v3},
+  note = {First published: 2026-02-26; Recorded arXiv version: v3; Recorded version updated: 2026-07-02T15:39:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

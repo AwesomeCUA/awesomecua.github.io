@@ -1,3 +1,11 @@
+---
+title: "DeskForge: Dense Supervision from… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-02320/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents
 
 DeskForge 通过变换真实应用场景，并结合截图、无障碍树和窗口几何信息，生成密集的桌面操作监督数据。
@@ -27,6 +35,18 @@ A. Said Gurbuz, Ahmed Nassar, Sunghwan Hong, Marc Pollefeys, Peter W. J. Staar
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-02320/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-02320/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02320,
+  title = {{DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents}},
+  author = {{A. Said Gurbuz} and {Ahmed Nassar} and {Sunghwan Hong} and {Marc Pollefeys} and {Peter W. J. Staar}},
+  year = {2026},
+  eprint = {2610.02320v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02320v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T18:00:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

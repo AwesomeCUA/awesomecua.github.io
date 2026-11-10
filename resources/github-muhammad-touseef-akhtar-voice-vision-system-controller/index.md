@@ -1,3 +1,11 @@
+---
+title: "Voice and Vision System Controller | AwesomeCUA"
+url: https://awesomecua.com/resources/github-muhammad-touseef-akhtar-voice-vision-system-controller/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Voice and Vision System Controller
 
 Offline Python desktop automation system combining voice commands with computer-vision screen interaction.

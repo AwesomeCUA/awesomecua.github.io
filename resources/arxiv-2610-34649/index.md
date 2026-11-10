@@ -1,3 +1,11 @@
+---
+title: "RobotAgentBench: Towards Open-world Robot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34649/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RobotAgentBench: Towards Open-world Robot Autonomy
 
 Status: excluded from the active CUA catalog after scope review.

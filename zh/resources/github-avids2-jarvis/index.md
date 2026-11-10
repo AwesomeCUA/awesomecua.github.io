@@ -1,3 +1,11 @@
+---
+title: "avids2 Jarvis · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-avids2-jarvis/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # avids2 Jarvis
 
 实时中文语音和桌面智能体，具备持久记忆并可通过 Pi 执行工具。

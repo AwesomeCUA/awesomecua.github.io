@@ -1,3 +1,11 @@
+---
+title: "cursory-js · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jwriter20-cursory-js/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # cursory-js
 
 一个生成带时间信息的鼠标轨迹，并说明如何通过浏览器输入事件回放轨迹的 TypeScript 工具。

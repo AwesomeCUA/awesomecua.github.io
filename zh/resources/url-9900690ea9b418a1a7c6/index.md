@@ -1,3 +1,11 @@
+---
+title: "Playwright MCP (playwright.dev/docs/getti… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9900690ea9b418a1a7c6/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Playwright MCP
 
 为大语言模型客户端提供网页导航和交互工具的 MCP 服务器，利用结构化无障碍快照识别页面元素。

@@ -1,3 +1,11 @@
+---
+title: "claude-drives-gemini · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-magicyangg-claude-drives-gemini/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # claude-drives-gemini
 
 一项 Claude Code skill，可在 Chrome 中操作已登录的 Google Gemini 网页会话，用于跨模型咨询和研究。

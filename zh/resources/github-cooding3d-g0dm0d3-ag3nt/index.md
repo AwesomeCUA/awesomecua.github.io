@@ -1,3 +1,11 @@
+---
+title: "G0DM0D3 AG3NT · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cooding3d-g0dm0d3-ag3nt/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # G0DM0D3 AG3NT
 
 面向 Windows、以权限为先的本地 AI 控制中心，可编排本地模型、桌面动作和浏览器工具。

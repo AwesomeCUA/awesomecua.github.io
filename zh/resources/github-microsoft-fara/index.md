@@ -1,3 +1,11 @@
+---
+title: "Fara · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-fara/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # Fara
 
 Fara 是 Microsoft 的浏览器操作智能体模型，通过截图预测点击坐标执行操作，无需无障碍树；继 Fara-7B 之后，Fara1.5 提供 4B、9B 和 27B 版本。

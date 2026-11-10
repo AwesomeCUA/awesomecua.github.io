@@ -1,3 +1,11 @@
+---
+title: "Factifai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-presidio-oss-factif-ai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Factifai
 
 Factifai is an AI-driven browser and UI test automation framework that executes natural-language test cases with Playwright and vision models.

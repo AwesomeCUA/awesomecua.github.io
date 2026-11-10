@@ -1,3 +1,11 @@
+---
+title: "Perplexity Toolkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mfang0126-perplexity-toolkit/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Perplexity Toolkit
 
 Browser-control toolkit and CLI for automating Perplexity AI deep searches and structured citation extraction.

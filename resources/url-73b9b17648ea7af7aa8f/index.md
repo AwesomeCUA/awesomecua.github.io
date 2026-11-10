@@ -1,3 +1,11 @@
+---
+title: "SATraj-OS | AwesomeCUA"
+url: https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # SATraj-OS
 
 Desktop computer-use trajectories with per-step screenshots and success, safety and attack labels, split into capability runs, safe-completion and refusal runs, and a legacy RiOSWorld-derived safety archive.

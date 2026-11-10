@@ -1,3 +1,11 @@
+---
+title: "Q&A on Any Spreadsheet Requires Interpreting… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-20732/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure
 
 Status: excluded from the active CUA catalog after scope review.

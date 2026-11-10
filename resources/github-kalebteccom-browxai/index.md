@@ -1,3 +1,11 @@
+---
+title: "browxai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kalebteccom-browxai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # browxai
 
 browxai provides unified MCP-native control over Chromium, Firefox, and native desktop applications for AI agents.

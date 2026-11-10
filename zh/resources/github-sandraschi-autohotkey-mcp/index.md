@@ -1,3 +1,11 @@
+---
+title: "autohotkey-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sandraschi-autohotkey-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # autohotkey-mcp
 
 这款 MCP 服务器让智能体助手列出、运行、停止和编写用于 Windows 输入自动化的 AutoHotkey 脚本。

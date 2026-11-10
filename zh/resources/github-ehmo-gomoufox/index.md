@@ -1,3 +1,11 @@
+---
+title: "gomoufox · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ehmo-gomoufox/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # gomoufox
 
 用于操作 Camoufox 反检测 Firefox 浏览器的 Go 库、CLI 和 Model Context Protocol 服务器。

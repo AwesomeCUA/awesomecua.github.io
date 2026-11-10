@@ -1,3 +1,11 @@
+---
+title: "Voqal | AwesomeCUA"
+url: https://awesomecua.com/resources/github-voqal-voqal/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Voqal
 
 Voqal is a voice-first coding assistant plugin for JetBrains IDEs that translates spoken commands into editor actions.

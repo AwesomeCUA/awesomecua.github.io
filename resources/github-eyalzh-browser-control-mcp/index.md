@@ -1,3 +1,11 @@
+---
+title: "Browser Control MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # Browser Control MCP
 
 An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.

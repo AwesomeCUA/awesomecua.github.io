@@ -1,3 +1,11 @@
+---
+title: "AI Planning Framework for LLM-Based Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-12710/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AI Planning Framework for LLM-Based Web Agents
 
 提出用于网页智能体的规划分类与轨迹质量指标，以 794 条人工标注的 WebArena 轨迹为依据，比较两种规划方式。
@@ -27,6 +35,18 @@ Orit Shahnovsky, Rotem Dror
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-12710/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-12710/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_12710,
+  title = {{AI Planning Framework for LLM-Based Web Agents}},
+  author = {{Orit Shahnovsky} and {Rotem Dror}},
+  year = {2026},
+  eprint = {2603.12710v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.12710v1},
+  note = {First published: 2026-03-13; Recorded arXiv version: v1; Recorded version updated: 2026-03-13T06:46:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

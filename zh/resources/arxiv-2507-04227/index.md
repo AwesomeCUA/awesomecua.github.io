@@ -1,3 +1,11 @@
+---
+title: "Mobile GUI Agents under Real-world… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-04227/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Mobile GUI Agents under Real-world Threats: Are We There Yet?
 
 提出应用内容插桩框架，以及面向移动端 GUI 智能体的交互式与静态测试套件，研究不可信第三方内容如何改变任务执行和状态理解。
@@ -27,6 +35,18 @@ Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Lu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-04227/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-04227/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_04227,
+  title = {{Mobile GUI Agents under Real-world Threats: Are We There Yet?}},
+  author = {{Guohong Liu} and {Jialei Ye} and {Jiacheng Liu} and {Yuanchun Li} and {Wei Liu} and {Pengzhi Gao} and {Jian Luan} and {Yunxin Liu}},
+  year = {2025},
+  eprint = {2507.04227v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.04227v2},
+  note = {First published: 2025-07-06; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T14:47:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

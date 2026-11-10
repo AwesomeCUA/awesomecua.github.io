@@ -1,3 +1,11 @@
+---
+title: "Look Where You’re Told… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3a73f9fc424ca9fe170e/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding
 
 Attention Cycle-Consistency 通过语义与空间对齐约束训练 GUI 元素定位，并在推理时移除辅助组件。
@@ -27,6 +35,20 @@ Seonhoon Kim, Zhiyu Chen, Xin Li, Qun Liu
 
 - BibTeX：https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/citation.csl.json
+
+```bibtex
+@inproceedings{cua_fa016e6fe806f98f8b2df18e,
+  title = {{Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding}},
+  author = {{Seonhoon Kim} and {Zhiyu Chen} and {Xin Li} and {Qun Liu}},
+  year = {2026},
+  booktitle = {Proceedings of the 4th Workshop on Advances in Language and Vision Research (ALVR)},
+  publisher = {Association for Computational Linguistics},
+  pages = {155-163},
+  doi = {10.18653/v1/2026.alvr-main.12},
+  url = {https://aclanthology.org/2026.alvr-main.12},
+  note = {Publication date: 2026.}
+}
+```
 
 ## 发表记录
 

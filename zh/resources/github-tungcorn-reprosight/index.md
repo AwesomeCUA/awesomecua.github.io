@@ -1,3 +1,11 @@
+---
+title: "ReproSight · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tungcorn-reprosight/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ReproSight
 
 ReproSight 是一款命令行工具，让编程智能体在浏览器中复现界面视觉缺陷、收集证据、在独立工作树中修改代码，并运行回归检查。

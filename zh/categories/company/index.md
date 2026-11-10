@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/company/
+updated: 2026-11-09
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体发布方
 
 发布方是目录中各项资源背后的实验室和公司。每个发布方条目汇总了将其列为发布方的产品、模型、框架和工具。

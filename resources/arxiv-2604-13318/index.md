@@ -1,3 +1,11 @@
+---
+title: "WebXSkill: Skill Learning for Autonomous Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13318/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # WebXSkill: Skill Learning for Autonomous Web Agents
 
 WebXSkill pairs parameterized action programs with step-level language guidance, mining reusable skills from synthetic browser-agent traces. A URL-based graph supports retrieval, and deployment alternates between direct program execution and guided native planning.
@@ -26,6 +34,18 @@ Zhaoyang Wang, Qianhui Wu, Xuchao Zhang, Chaoyun Zhang, Wenlin Yao, Fazle Elahi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-13318/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-13318/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_13318,
+  title = {{WebXSkill: Skill Learning for Autonomous Web Agents}},
+  author = {{Zhaoyang Wang} and {Qianhui Wu} and {Xuchao Zhang} and {Chaoyun Zhang} and {Wenlin Yao} and {Fazle Elahi Faisal} and {Baolin Peng} and {Si Qin} and {Suman Nath} and {Qingwei Lin} and {Chetan Bansal} and {Dongmei Zhang} and {Saravan Rajmohan} and {Jianfeng Gao} and {Huaxiu Yao}},
+  year = {2026},
+  eprint = {2604.13318v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.13318v2},
+  note = {First published: 2026-04-14; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T07:02:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

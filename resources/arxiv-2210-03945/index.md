@@ -1,3 +1,11 @@
+---
+title: "Understanding HTML with Large Language Models | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2210-03945/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Understanding HTML with Large Language Models
 
 Studies language models for HTML element classification, page description and autonomous web navigation. Fine-tuned models are evaluated on MiniWoB, and a distilled, automatically labeled CommonCrawl HTML corpus supports the training approach.
@@ -26,6 +34,18 @@ Izzeddin Gur, Ofir Nachum, Yingjie Miao, Mustafa Safdari, Austin Huang, Aakanksh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2210-03945/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2210-03945/citation.csl.json
+
+```bibtex
+@misc{arxiv_2210_03945,
+  title = {{Understanding HTML with Large Language Models}},
+  author = {{Izzeddin Gur} and {Ofir Nachum} and {Yingjie Miao} and {Mustafa Safdari} and {Austin Huang} and {Aakanksha Chowdhery} and {Sharan Narang} and {Noah Fiedel} and {Aleksandra Faust}},
+  year = {2022},
+  eprint = {2210.03945v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2210.03945v2},
+  note = {First published: 2022-10-08; Recorded arXiv version: v2; Recorded version updated: 2023-05-19T17:42:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Playwright MCP (github.com/microsoft/playwrigh… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-playwright-mcp/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # Playwright MCP
 
 MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots, with opt-in vision, PDF and devtools capabilities.

@@ -1,3 +1,11 @@
+---
+title: "Agentic Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-applejuice093-agentic-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agentic Browser
 
 面向智能体的 Python 浏览器运行时，提供稳定的元素引用、精简的观测、结果验证和 MCP 服务器。

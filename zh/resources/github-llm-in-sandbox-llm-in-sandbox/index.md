@@ -1,3 +1,11 @@
+---
+title: "LLM-in-Sandbox · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-llm-in-sandbox-llm-in-sandbox/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LLM-in-Sandbox
 
 LLM-in-Sandbox 为语言模型配备虚拟化 Linux 计算机沙箱和 RL 训练流水线，用于执行多轮任务。

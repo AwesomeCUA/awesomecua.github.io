@@ -1,3 +1,11 @@
+---
+title: "maestro-oss · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-victorkaor-maestro-oss/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # maestro-oss
 
 开源多智能体空间编排画布，集成 CLI 智能体、浏览器自动化和桌面工具。

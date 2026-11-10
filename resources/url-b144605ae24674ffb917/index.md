@@ -1,3 +1,11 @@
+---
+title: "lora_qformer_uitars_test_V1-400_merged | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b144605ae24674ffb917/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # lora_qformer_uitars_test_V1-400_merged
 
 UI-TARS-V1.5-7B checkpoint with CoMEM continuous memory merged in, where a LoRA-tuned Q-Former compresses retrieved GUI trajectories into fixed-length embeddings for the web agent.

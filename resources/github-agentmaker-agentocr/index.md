@@ -1,3 +1,11 @@
+---
+title: "AgentOCR | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentmaker-agentocr/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AgentOCR
 
 AgentOCR provides compact visual-token and OCR screen compression for accelerating GUI and computer-use agents.

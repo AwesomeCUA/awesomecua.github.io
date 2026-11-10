@@ -1,3 +1,11 @@
+---
+title: "A Generalist Dynamics Model for Control | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-10912/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # A Generalist Dynamics Model for Control
 
 Bibliographic record for A Generalist Dynamics Model for Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ingmar Schubert, Jingwei Zhang, Jake Bruce, Sarah Bechtle, Emilio Parisotto, Mar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-10912/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-10912/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_10912,
+  title = {{A Generalist Dynamics Model for Control}},
+  author = {{Ingmar Schubert} and {Jingwei Zhang} and {Jake Bruce} and {Sarah Bechtle} and {Emilio Parisotto} and {Martin Riedmiller} and {Jost Tobias Springenberg} and {Arunkumar Byravan} and {Leonard Hasenclever} and {Nicolas Heess}},
+  year = {2023},
+  eprint = {2305.10912v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.10912v2},
+  note = {First published: 2023-05-18; Recorded arXiv version: v2; Recorded version updated: 2023-09-23T20:10:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

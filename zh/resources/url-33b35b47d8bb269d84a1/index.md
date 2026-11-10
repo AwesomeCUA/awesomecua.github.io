@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-38B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-33b35b47d8bb269d84a1/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-38B
 
 InternVL3.5 检查点，共 38.4B 参数，由 5.5B 视觉编码器与 32.8B 语言模型组成；其论文报告了该模型在 ScreenSpot、OSWorld-G 和 WindowsAgentArena 上的 GUI 定位与在线智能体结果。

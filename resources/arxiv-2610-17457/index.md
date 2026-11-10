@@ -1,3 +1,11 @@
+---
+title: "BrowseSafe++: Benchmarking Prompt Injection… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17457/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views
 
 Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.
@@ -26,6 +34,18 @@ Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17457/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17457/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17457,
+  title = {{BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views}},
+  author = {{Yuetian Chen} and {Kaiyuan Zhang} and {Yuntao Du} and {Thomas Li} and {Mark Tenenholtz} and {Kyle Polley} and {Jerry Ma} and {Denis Yarats} and {Ninghui Li}},
+  year = {2026},
+  eprint = {2610.17457v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17457v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T22:17:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "BrickBench: Evaluating Agentic Brick Design | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-12452/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # BrickBench: Evaluating Agentic Brick Design
 
 Bibliographic record for BrickBench: Evaluating Agentic Brick Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Peter Kulits, Yiqing Xu, R. Kenny Jones, Cordelia Schmid, Jiajun Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-12452/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-12452/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_12452,
+  title = {{BrickBench: Evaluating Agentic Brick Design}},
+  author = {{Peter Kulits} and {Yiqing Xu} and {R. Kenny Jones} and {Cordelia Schmid} and {Jiajun Wu}},
+  year = {2026},
+  eprint = {2610.12452v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.12452v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T17:58:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

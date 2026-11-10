@@ -1,3 +1,11 @@
+---
+title: "tinycomputer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tinyhumansai-tinycomputer/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # tinycomputer
 
 用于快速执行桌面和浏览器动作的 Jev 决策模型测试框架。

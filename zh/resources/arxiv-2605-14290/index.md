@@ -1,3 +1,11 @@
+---
+title: "Web Agents Should Adopt the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-14290/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Web Agents Should Adopt the Plan-Then-Execute Paradigm
 
 主张在智能体接触不可信的运行时内容前，将网页任务编译成预定义的执行图；基于 WebArena 的任务分析指出，具备类型定义且语义完整的网站工具是前提，并将这一接口方案与响应式逐次点击控制区分开来。
@@ -27,6 +35,18 @@ Julien Piet, Annabella Chow, Yiwei Hou, Muxi Lyu, Sylvie Venuto, Jinhao Zhu, Ral
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-14290/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-14290/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_14290,
+  title = {{Web Agents Should Adopt the Plan-Then-Execute Paradigm}},
+  author = {{Julien Piet} and {Annabella Chow} and {Yiwei Hou} and {Muxi Lyu} and {Sylvie Venuto} and {Jinhao Zhu} and {Raluca Ada Popa} and {David Wagner}},
+  year = {2026},
+  eprint = {2605.14290v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.14290v1},
+  note = {First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T02:48:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

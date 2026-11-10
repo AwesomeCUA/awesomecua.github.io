@@ -1,3 +1,11 @@
+---
+title: "AppAgent Pro · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-laokuize-appagent-pro/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # AppAgent Pro
 
 AppAgent Pro 是基于 AppAgent 的主动式 Android 智能体，使用 GPT-4o 判断 YouTube 或 Amazon 内容是否有帮助，通过 ADB 操作相应应用，并将查得的信息整合进回答。

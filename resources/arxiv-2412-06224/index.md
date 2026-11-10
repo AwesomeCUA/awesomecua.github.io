@@ -1,3 +1,11 @@
+---
+title: "Uni-NaVid: A Video-based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-06224/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks
 
 Status: excluded from the active CUA catalog after scope review.

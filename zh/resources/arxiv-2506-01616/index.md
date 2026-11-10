@@ -1,3 +1,11 @@
+---
+title: "MLA-Trust: Benchmarking Trustworthiness… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-01616/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments
 
 通过交互式网页和移动 GUI 任务，对多模态 LLM 智能体的真实性、可控性、安全性和隐私保护进行基准评估。
@@ -27,6 +35,18 @@ Xiao Yang, Jiawei Chen, Jun Luo, Zhengwei Fang, Yinpeng Dong, Hang Su, Jun Zhu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-01616/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-01616/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_01616,
+  title = {{MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments}},
+  author = {{Xiao Yang} and {Jiawei Chen} and {Jun Luo} and {Zhengwei Fang} and {Yinpeng Dong} and {Hang Su} and {Jun Zhu}},
+  year = {2025},
+  eprint = {2506.01616v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.01616v1},
+  note = {First published: 2025-06-02; Recorded arXiv version: v1; Recorded version updated: 2025-06-02T12:56:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

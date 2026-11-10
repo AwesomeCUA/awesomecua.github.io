@@ -1,3 +1,11 @@
+---
+title: "xdotool | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jordansissel-xdotool/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # xdotool
 
 xdotool is an X11 command line utility for simulating keyboard and mouse input and controlling windows. The repository also includes libxdo, a C library for the same operations.

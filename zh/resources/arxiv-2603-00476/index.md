@@ -1,3 +1,11 @@
+---
+title: "Atomicity for Agents: Exposing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-00476/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Atomicity for Agents: Exposing, Exploiting, and Mitigating TOCTOU Vulnerabilities in Browser-Use Agents
 
 指出网页在智能体规划与执行动作之间发生变化时，浏览器操作智能体面临的检查时与使用时不一致（TOCTOU）竞态漏洞。
@@ -27,6 +35,18 @@ Linxi Jiang, Zhijie Liu, Haotian Luo, Zhiqiang Lin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-00476/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-00476/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_00476,
+  title = {{Atomicity for Agents: Exposing, Exploiting, and Mitigating TOCTOU Vulnerabilities in Browser-Use Agents}},
+  author = {{Linxi Jiang} and {Zhijie Liu} and {Haotian Luo} and {Zhiqiang Lin}},
+  year = {2026},
+  eprint = {2603.00476v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.00476v1},
+  note = {First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T05:25:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

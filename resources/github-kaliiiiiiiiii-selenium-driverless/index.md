@@ -1,3 +1,11 @@
+---
+title: "Selenium-Driverless | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaliiiiiiiiii-selenium-driverless/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Selenium-Driverless
 
 A Python browser automation library for Google Chrome that runs without chromedriver, offering element lookup, pointer clicks, multiple tabs, isolated incognito contexts and network interception.

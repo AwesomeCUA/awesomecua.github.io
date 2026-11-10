@@ -1,3 +1,11 @@
+---
+title: "Win32 MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-randynorthrup-win32-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Win32 MCP Server
 
 Win32 MCP Server 通过 Model Context Protocol 为桌面智能体提供 53 个原生 Windows Win32 和 UI Automation 工具。

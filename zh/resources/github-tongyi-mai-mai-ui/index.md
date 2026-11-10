@@ -1,3 +1,11 @@
+---
+title: "MAI-UI inference and evaluation code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tongyi-mai-mai-ui/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # MAI-UI inference and evaluation code
 
 已发布的 MAI-UI 定位和导航智能体实现，附有推理演示与评估脚本。

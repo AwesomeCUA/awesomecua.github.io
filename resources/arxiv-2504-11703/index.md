@@ -1,3 +1,11 @@
+---
+title: "Progent: Securing AI Agents with Privilege… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-11703/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Progent: Securing AI Agents with Privilege Control
 
 Bibliographic record for Progent: Securing AI Agents with Privilege Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Tianneng Shi, Jingxuan He, Zhun Wang, Hongwei Li, Linyu Wu, Wenbo Guo, Dawn Song
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-11703/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-11703/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_11703,
+  title = {{Progent: Securing AI Agents with Privilege Control}},
+  author = {{Tianneng Shi} and {Jingxuan He} and {Zhun Wang} and {Hongwei Li} and {Linyu Wu} and {Wenbo Guo} and {Dawn Song}},
+  year = {2025},
+  eprint = {2504.11703v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.11703v3},
+  note = {First published: 2025-04-16; Recorded arXiv version: v3; Recorded version updated: 2026-05-14T02:36:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "WebRetriever (github.com/Mininglamp-AI/… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mininglamp-ai-webretriever/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WebRetriever
 
 WebRetriever 提供网页智能体评测运行器，并利用采集到的网络请求、操作和页面 URL 判断任务是否完成。

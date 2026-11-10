@@ -1,3 +1,11 @@
+---
+title: "hyprhands · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-berker-z-hyprhands/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # hyprhands
 
 面向 Hyprland Wayland 的计算机使用 MCP 服务器，让 AI 智能体能够以语义和像素级方式控制桌面。

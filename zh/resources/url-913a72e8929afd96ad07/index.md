@@ -1,3 +1,11 @@
+---
+title: "Huzzle Labs · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-913a72e8929afd96ad07/
+updated: 2026-11-09
+type: company
+lang: zh-CN
+---
+
 # Huzzle Labs
 
 开发计算机使用模型、强化学习环境和评测的公司，面向 AI 实验室与企业应用；其网站介绍了 Huzzle World 模型系列。

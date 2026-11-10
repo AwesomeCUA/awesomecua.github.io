@@ -1,3 +1,11 @@
+---
+title: "DynamicGUIBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-20fa95f00391bf965af2/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # DynamicGUIBench
 
 含 500 项 OSWorld 风格桌面任务的基准，界面会在观察间因脚本化弹窗、定时编辑和列表变化而改变；提供中英双语指令及最终状态评估器。

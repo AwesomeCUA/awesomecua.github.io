@@ -1,3 +1,11 @@
+---
+title: "computer-use-mcp (github.com/domdomegg/compute… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-domdomegg-computer-use-mcp/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # computer-use-mcp
 
 computer-use-mcp exposes local computer control to Claude through an MCP server, using nut.js to carry out actions on the desktop.

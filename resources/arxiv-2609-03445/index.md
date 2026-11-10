@@ -1,3 +1,11 @@
+---
+title: "OCR-EDR: Rendering-Aware Diagnosis and Repair… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-03445/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OCR-EDR: Rendering-Aware Diagnosis and Repair for Closed-Loop OCR Improvement
 
 Bibliographic record for OCR-EDR: Rendering-Aware Diagnosis and Repair for Closed-Loop OCR Improvement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Linnan Zhao, Kang Liu, Hao Yu, Jiabo Zhan, Chong Sun, Chen Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-03445/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-03445/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_03445,
+  title = {{OCR-EDR: Rendering-Aware Diagnosis and Repair for Closed-Loop OCR Improvement}},
+  author = {{Linnan Zhao} and {Kang Liu} and {Hao Yu} and {Jiabo Zhan} and {Chong Sun} and {Chen Li}},
+  year = {2026},
+  eprint = {2609.03445v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.03445v1},
+  note = {First published: 2026-09-03; Recorded arXiv version: v1; Recorded version updated: 2026-09-03T07:02:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

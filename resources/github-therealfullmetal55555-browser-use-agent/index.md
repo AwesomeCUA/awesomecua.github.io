@@ -1,3 +1,11 @@
+---
+title: "Autonomous Vision Browser-Use Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-therealfullmetal55555-browser-use-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Autonomous Vision Browser-Use Agent
 
 Playwright-based vision browser agent featuring loop detection, DOM-plus-screenshot grounding, and per-step token telemetry.

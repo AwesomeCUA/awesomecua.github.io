@@ -1,3 +1,11 @@
+---
+title: "Uni-GUI-OpenMobile · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-66a0adb854eff694965d/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # Uni-GUI-OpenMobile
 
 UI-MOPD 训练数据中通过 AndroidWorld 在 19 款开源应用上采集的 Android 轨迹：共 2,640 项任务，含逐步截图、推理轨迹和归一化的点击、滑动、输入及回答操作。

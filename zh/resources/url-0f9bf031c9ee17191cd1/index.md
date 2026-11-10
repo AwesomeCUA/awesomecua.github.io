@@ -1,3 +1,11 @@
+---
+title: "DeskMind Eyes 4B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0f9bf031c9ee17191cd1/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # DeskMind Eyes 4B
 
 DeskMind Eyes 4B 根据元素描述和屏幕截图，为 Mac 应用输出点击位置。该版本提供合并后的模型权重，并报告界面定位评测结果。

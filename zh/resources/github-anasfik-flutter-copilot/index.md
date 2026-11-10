@@ -1,3 +1,11 @@
+---
+title: "flutter_copilot · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anasfik-flutter-copilot/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # flutter_copilot
 
 应用内 SDK，将 Flutter 控件树和语义动作直接提供给 AI 智能体，无需截图或 OCR。

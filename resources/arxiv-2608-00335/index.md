@@ -1,3 +1,11 @@
+---
+title: "RMSWeb: Reflection, Failure-Mode Mining, and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-00335/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning
 
 Introduces RMSWeb, a training recipe for web agents that uses reflection retries, failure-mode mining, and Salvage-DS reward and sampling methods for web actions.
@@ -26,6 +34,18 @@ Chengbo Liu, Lifang Zhou, Ruijie Yan, Pei Tan, Ao Sun, Haojun Huang, Guichun Hua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-00335/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-00335/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_00335,
+  title = {{RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning}},
+  author = {{Chengbo Liu} and {Lifang Zhou} and {Ruijie Yan} and {Pei Tan} and {Ao Sun} and {Haojun Huang} and {Guichun Hua} and {Sining Wei} and {Yining Chen} and {Yingying He} and {Yutao Xie}},
+  year = {2026},
+  eprint = {2608.00335v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.00335v1},
+  note = {First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T22:57:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

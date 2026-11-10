@@ -1,3 +1,11 @@
+---
+title: "lvyuan1688 browser-use-rs · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lvyuan1688-browser-use-rs/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # lvyuan1688 browser-use-rs
 
 Browser Use 架构的 Rust 移植版本，使 LLM 能以原生速度控制网页浏览器。

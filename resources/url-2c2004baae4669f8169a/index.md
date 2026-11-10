@@ -1,3 +1,11 @@
+---
+title: "UI-Vision | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2c2004baae4669f8169a/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UI-Vision
 
 Desktop GUI data for interface understanding and interaction research.

@@ -1,3 +1,11 @@
+---
+title: "Challenges in Human-Agent Communication | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-10380/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Challenges in Human-Agent Communication
 
 Bibliographic record for Challenges in Human-Agent Communication. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Gagan Bansal, Jennifer Wortman Vaughan, Saleema Amershi, Eric Horvitz, Adam Four
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-10380/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-10380/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_10380,
+  title = {{Challenges in Human-Agent Communication}},
+  author = {{Gagan Bansal} and {Jennifer Wortman Vaughan} and {Saleema Amershi} and {Eric Horvitz} and {Adam Fourney} and {Hussein Mozannar} and {Victor Dibia} and {Daniel S. Weld}},
+  year = {2024},
+  eprint = {2412.10380v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.10380v1},
+  note = {First published: 2024-11-28; Recorded arXiv version: v1; Recorded version updated: 2024-11-28T01:21:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

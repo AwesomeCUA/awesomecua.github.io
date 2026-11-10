@@ -1,3 +1,11 @@
+---
+title: "PulsarRPA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-platonai-pulsarrpa/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PulsarRPA
 
 PulsarRPA is a browser RPA and web-agent framework combining natural-language commands, XPath/SQL page querying, and stealth browser control.

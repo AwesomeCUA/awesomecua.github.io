@@ -1,3 +1,11 @@
+---
+title: "UI-R1 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f13474d7aa734a30624d/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # UI-R1 3B
 
 A Qwen2.5-VL checkpoint trained with reinforcement learning for GUI action prediction and evaluated on mobile, desktop and web grounding tasks.

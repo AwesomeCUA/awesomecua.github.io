@@ -1,3 +1,11 @@
+---
+title: "Agent Q | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sentient-engineering-agent-q/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agent Q
 
 Agent Q combines Monte Carlo Tree Search, AI self-critique, and Direct Preference Optimization for autonomous web navigation.

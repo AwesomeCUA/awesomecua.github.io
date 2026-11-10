@@ -1,3 +1,11 @@
+---
+title: "Privacy Preserving Distance Computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1609-05178/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Privacy Preserving Distance Computation using Somewhat-trusted Third Parties
 
 Status: excluded from the active CUA catalog after scope review.

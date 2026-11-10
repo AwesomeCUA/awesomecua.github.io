@@ -1,3 +1,11 @@
+---
+title: "Detecting Pipeline Failures through… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-14382/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Detecting Pipeline Failures through Fine-Grained Analysis of Web Agents
 
 提出模块化框架，用于识别网页智能体流程中间阶段的错误；基于 SeeAct 和 Mind2Web 的案例研究分析最终任务成功率所掩盖的弱点。
@@ -27,6 +35,18 @@ Daniel Röder, Akhil Juneja, Roland Roller, Sven Schmeier
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-14382/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-14382/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_14382,
+  title = {{Detecting Pipeline Failures through Fine-Grained Analysis of Web Agents}},
+  author = {{Daniel Röder} and {Akhil Juneja} and {Roland Roller} and {Sven Schmeier}},
+  year = {2025},
+  eprint = {2509.14382v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.14382v1},
+  note = {First published: 2025-09-17; Recorded arXiv version: v1; Recorded version updated: 2025-09-17T19:34:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

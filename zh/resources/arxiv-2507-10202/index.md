@@ -1,3 +1,11 @@
+---
+title: "A Training-Free, Task-Agnostic Framework… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-10202/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images
 
 Extract Candidate then Predict (ECP) 是面向高分辨率图像的免训练两阶段方法，评测项目包括 4K GUI 元素定位。
@@ -27,6 +35,18 @@ Jaeseong Lee, Yeeun Choi, Heechan Choi, Hanjung Kim, Seonjoo Kim
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-10202/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-10202/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_10202,
+  title = {{A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images}},
+  author = {{Jaeseong Lee} and {Yeeun Choi} and {Heechan Choi} and {Hanjung Kim} and {Seonjoo Kim}},
+  year = {2025},
+  eprint = {2507.10202v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.10202v1},
+  note = {First published: 2025-07-14; Recorded arXiv version: v1; Recorded version updated: 2025-07-14T12:14:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

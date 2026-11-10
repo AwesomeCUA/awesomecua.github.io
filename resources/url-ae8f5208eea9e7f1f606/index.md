@@ -1,3 +1,11 @@
+---
+title: "DroidCall data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # DroidCall data
 
 Instruction-to-function-call examples for learning Android intent invocation, with training, testing and API-annotation files for mobile task execution.

@@ -1,3 +1,11 @@
+---
+title: "OpenApps | AwesomeCUA"
+url: https://awesomecua.com/resources/github-facebookresearch-openapps/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # OpenApps
 
 Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.

@@ -1,3 +1,11 @@
+---
+title: "SAP Fiori Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-sap-fiori-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SAP Fiori Browser Automation
 
 面向 SAP Fiori 的浏览器自动化脚手架，提供采购订单、审批、财务数据导出和发票处理等操作。

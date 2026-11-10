@@ -1,3 +1,11 @@
+---
+title: "FPC-VLA: A Vision-Language-Action Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-04018/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction
 
 Status: excluded from the active CUA catalog after scope review.

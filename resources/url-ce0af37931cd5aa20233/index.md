@@ -1,3 +1,11 @@
+---
+title: "Tongyi UI Agent API | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ce0af37931cd5aa20233/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # Tongyi UI Agent API
 
 Alibaba Cloud Model Studio API that returns the next GUI action with its reasoning for a screenshot and task, with a mobile pipeline and a PC pipeline using planner, worker, reflector and memory agents.

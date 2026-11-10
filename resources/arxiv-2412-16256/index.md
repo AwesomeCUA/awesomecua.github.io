@@ -1,3 +1,11 @@
+---
+title: "Aria-UI: Visual Grounding for GUI Instructions | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-16256/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Aria-UI: Visual Grounding for GUI Instructions
 
 Introduces a vision-based grounding model trained with diverse synthetic instructions and action histories for context-sensitive GUI targeting.
@@ -26,6 +34,18 @@ Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-16256/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-16256/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_16256,
+  title = {{Aria-UI: Visual Grounding for GUI Instructions}},
+  author = {{Yuhao Yang} and {Yue Wang} and {Dongxu Li} and {Ziyang Luo} and {Bei Chen} and {Chao Huang} and {Junnan Li}},
+  year = {2024},
+  eprint = {2412.16256v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.16256v2},
+  note = {First published: 2024-12-20; Recorded arXiv version: v2; Recorded version updated: 2025-07-08T08:49:17Z.}
+}
+```
 
 ## Publication record
 

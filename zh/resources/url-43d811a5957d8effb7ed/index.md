@@ -1,3 +1,11 @@
+---
+title: "UI-Genie Agent 3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-43d811a5957d8effb7ed/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # UI-Genie Agent 3B
 
 基于 Qwen2.5-VL-3B 的移动端 GUI 操作模型，使用 AndroidControl、AMEX、AndroidLab 和 UI-Genie 合成轨迹微调，预测应用启动、点击、滑动、输入和系统按键操作。

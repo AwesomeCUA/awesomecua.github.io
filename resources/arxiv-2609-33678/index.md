@@ -1,3 +1,11 @@
+---
+title: "SWE-Game: Can Coding Agents Build the Games… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-33678/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SWE-Game: Can Coding Agents Build the Games We Want?
 
 Bibliographic record for SWE-Game: Can Coding Agents Build the Games We Want?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaoyu Chen, Lai Wei, Jin Wang, Xiangyu Zou, Ruochen Fan, Enze Luo, Mingzhe Yao,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-33678/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-33678/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_33678,
+  title = {{SWE-Game: Can Coding Agents Build the Games We Want?}},
+  author = {{Xiaoyu Chen} and {Lai Wei} and {Jin Wang} and {Xiangyu Zou} and {Ruochen Fan} and {Enze Luo} and {Mingzhe Yao} and {Jiahui Zhu} and {Yuhua Wen} and {Linghe Kong} and {Weiran Huang}},
+  year = {2026},
+  eprint = {2609.33678v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.33678v3},
+  note = {First published: 2026-09-27; Recorded arXiv version: v3; Recorded version updated: 2026-10-07T14:37:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

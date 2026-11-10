@@ -1,3 +1,11 @@
+---
+title: "agent-gauntlet-example-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-konuktor-agent-gauntlet-example-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # agent-gauntlet-example-agent
 
 紧凑的单文件浏览器智能体参考实现，设计用于在 AgentGauntlet 评测期间于 Solari Sandbox 中运行。

@@ -1,3 +1,11 @@
+---
+title: "SusBench: An Online Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-11035/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents
 
 SusBench 是一个在线基准，在消费类网站中插入暗黑模式设计以评估智能体。人工研究检查干预的真实感，智能体实验则比较其对不同模式类型的易受影响程度。
@@ -27,6 +35,18 @@ Longjie Guo, Chenjie Yuan, Mingyuan Zhong, Robert Wolfe, Ruican Zhong, Yue Xu, B
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-11035/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-11035/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_11035,
+  title = {{SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents}},
+  author = {{Longjie Guo} and {Chenjie Yuan} and {Mingyuan Zhong} and {Robert Wolfe} and {Ruican Zhong} and {Yue Xu} and {Bingbing Wen} and {Hua Shen} and {Lucy Lu Wang} and {Alexis Hiniker}},
+  year = {2025},
+  eprint = {2510.11035v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.11035v2},
+  note = {First published: 2025-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-02-23T08:31:13Z.}
+}
+```
 
 ## arXiv 版本记录
 

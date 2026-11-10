@@ -1,3 +1,11 @@
+---
+title: "claude-firefox (Claude Code Browser Bridge) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-faran52-claude-code-browser-bridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # claude-firefox (Claude Code Browser Bridge)
 
 Firefox WebExtension, native-messaging host, and MCP server allowing Claude Code to read and drive Firefox tabs.

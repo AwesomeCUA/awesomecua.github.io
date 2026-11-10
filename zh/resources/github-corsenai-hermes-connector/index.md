@@ -1,3 +1,11 @@
+---
+title: "Hermes Connector · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-corsenai-hermes-connector/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Hermes Connector
 
 Hermes Connector 是 Chrome 扩展，将 Hermes Agent 与用户当前的浏览器标签页、DOM 上下文和已认证会话连接起来。

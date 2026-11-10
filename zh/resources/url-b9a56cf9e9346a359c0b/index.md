@@ -1,3 +1,11 @@
+---
+title: "Vision_GUI_Assistant · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b9a56cf9e9346a359c0b/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Vision_GUI_Assistant
 
 这个图形界面图像对话数据集提供指令和对话 JSON 文件，用于分阶段视觉微调；示例要求模型识别界面按钮。

@@ -1,3 +1,11 @@
+---
+title: "CRMArena: Understanding the Capacity of LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-02305/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments
 
 Bibliographic record for CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kung-Hsiang Huang, Akshara Prabhakar, Sidharth Dhawan, Yixin Mao, Huan Wang, Sil
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-02305/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-02305/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_02305,
+  title = {{CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments}},
+  author = {{Kung-Hsiang Huang} and {Akshara Prabhakar} and {Sidharth Dhawan} and {Yixin Mao} and {Huan Wang} and {Silvio Savarese} and {Caiming Xiong} and {Philippe Laban} and {Chien-Sheng Wu}},
+  year = {2024},
+  eprint = {2411.02305v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.02305v2},
+  note = {First published: 2024-11-04; Recorded arXiv version: v2; Recorded version updated: 2025-02-16T17:16:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

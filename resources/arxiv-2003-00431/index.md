@@ -1,3 +1,11 @@
+---
+title: "A Study on Multimodal and Interactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2003-00431/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Study on Multimodal and Interactive Explanations for Visual Question Answering
 
 Status: excluded from the active CUA catalog after scope review.

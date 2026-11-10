@@ -1,3 +1,11 @@
+---
+title: "Real-time decoder for a MegaQuOp quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-25027/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Real-time decoder for a MegaQuOp quantum computer using a single CPU
 
 Status: excluded from the active CUA catalog after scope review.

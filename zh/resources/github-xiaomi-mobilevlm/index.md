@@ -1,3 +1,11 @@
+---
+title: "MobileVLM · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiaomi-mobilevlm/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # MobileVLM
 
 MobileVLM 是在 Mobile3M UI 转换图上预训练的视觉语言模型，用于理解移动端 UI 的屏幕内及跨屏幕关系。

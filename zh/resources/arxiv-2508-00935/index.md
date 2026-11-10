@@ -1,3 +1,11 @@
+---
+title: "Measuring Harmfulness of Computer-Using… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-00935/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Measuring Harmfulness of Computer-Using Agents
 
 CUAHarm 在沙箱中设置 104 项计算机使用滥用任务，以可验证奖励评测执行情况，并研究语言模型能否监测不安全操作。
@@ -27,6 +35,18 @@ Aaron Xuxiang Tian, Ruofan Zhang, Janet Tang, Ji Wang, Tianyu Shi, Jiaxin Wen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-00935/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-00935/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_00935,
+  title = {{Measuring Harmfulness of Computer-Using Agents}},
+  author = {{Aaron Xuxiang Tian} and {Ruofan Zhang} and {Janet Tang} and {Ji Wang} and {Tianyu Shi} and {Jiaxin Wen}},
+  year = {2025},
+  eprint = {2508.00935v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.00935v3},
+  note = {First published: 2025-07-31; Recorded arXiv version: v3; Recorded version updated: 2026-09-03T03:59:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

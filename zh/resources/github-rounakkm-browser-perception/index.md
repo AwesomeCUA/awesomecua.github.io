@@ -1,3 +1,11 @@
+---
+title: "Browser Perception · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rounakkm-browser-perception/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Browser Perception
 
 保护隐私的浏览器感知框架，在 LLM 读取 DOM 树和截图之前遮盖其中的敏感个人身份信息。

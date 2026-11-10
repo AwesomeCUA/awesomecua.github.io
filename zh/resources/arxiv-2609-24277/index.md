@@ -1,3 +1,11 @@
+---
+title: "How Many Pixels Is a Digit Worth?… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-24277/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # How Many Pixels Is a Digit Worth? Place-Aware Coordinate Entropy for GUI Agent Confidence Estimation
 
 PACE 按数位权重加权坐标数字的熵，通过单次前向计算估计 GUI 点击的置信度。它在 ScreenSpot-Pro 和 ScreenSpot-v2 上，将正确性排序和选择性准确率与重复采样方法比较。
@@ -27,6 +35,18 @@ Yunxiang Li, Xixin Wu, Helen Meng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-24277/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-24277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_24277,
+  title = {{How Many Pixels Is a Digit Worth? Place-Aware Coordinate Entropy for GUI Agent Confidence Estimation}},
+  author = {{Yunxiang Li} and {Xixin Wu} and {Helen Meng}},
+  year = {2026},
+  eprint = {2609.24277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.24277v1},
+  note = {First published: 2026-09-21; Recorded arXiv version: v1; Recorded version updated: 2026-09-21T08:42:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

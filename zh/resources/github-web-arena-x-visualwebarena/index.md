@@ -1,3 +1,11 @@
+---
+title: "VisualWebArena · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-web-arena-x-visualwebarena/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # VisualWebArena
 
 在 WebArena 评估设置基础上扩展的视觉定位网页任务。

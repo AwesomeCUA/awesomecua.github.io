@@ -1,3 +1,11 @@
+---
+title: "Patchright Python · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Patchright Python
 
 Patchright Python 是 Patchright 的 Python 包：Patchright 是经过修补的 Playwright，通过常规的同步与异步 API 驱动 Chromium，并去除了自动化特征泄露。

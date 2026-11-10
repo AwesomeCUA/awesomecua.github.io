@@ -1,3 +1,11 @@
+---
+title: "Magma-Mind2Web-SoM · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e8256e338a9c379ca85b/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Magma-Mind2Web-SoM
 
 Magma-Mind2Web-SoM 提供用于 Magma 多模态智能体下游微调的 Mind2Web 数据。

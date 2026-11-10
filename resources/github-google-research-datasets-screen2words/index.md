@@ -1,3 +1,11 @@
+---
+title: "Screen2Words | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-datasets-screen2words/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Screen2Words
 
 Mobile screen descriptions for language-based screen understanding.

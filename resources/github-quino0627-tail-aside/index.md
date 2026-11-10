@@ -1,3 +1,11 @@
+---
+title: "tail-aside | AwesomeCUA"
+url: https://awesomecua.com/resources/github-quino0627-tail-aside/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # tail-aside
 
 Remote mobile controller for monitoring and steering the Aside browser agent over Tailscale.

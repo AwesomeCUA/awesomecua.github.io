@@ -1,3 +1,11 @@
+---
+title: "Nightshift · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yayaq1-nightshift/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Nightshift
 
 运行于 Solari 的黑盒计算机使用质量检查测试框架，无需访问应用测试钩子即可评测实时用户界面。

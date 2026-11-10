@@ -1,3 +1,11 @@
+---
+title: "Aguvis: Unified Pure Vision Agents for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-04454/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
 
 Uses screenshots, a unified action space, and staged grounding and reasoning training for cross-platform GUI interaction.
@@ -26,6 +34,18 @@ Yiheng Xu, Zekun Wang, Junli Wang, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-04454/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-04454/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_04454,
+  title = {{Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction}},
+  author = {{Yiheng Xu} and {Zekun Wang} and {Junli Wang} and {Dunjie Lu} and {Tianbao Xie} and {Amrita Saha} and {Doyen Sahoo} and {Tao Yu} and {Caiming Xiong}},
+  year = {2024},
+  eprint = {2412.04454v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.04454v2},
+  note = {First published: 2024-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-05-05T16:17:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

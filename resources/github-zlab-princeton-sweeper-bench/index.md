@@ -1,3 +1,11 @@
+---
+title: "SWEeper-Bench (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # SWEeper-Bench
 
 SWEeper-Bench evaluates whether interactive GUI and browser agents can autonomously discover and reproduce 200 real bugs in open-source software.

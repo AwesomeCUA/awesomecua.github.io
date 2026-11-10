@@ -1,3 +1,11 @@
+---
+title: "Amazon Nova Act Human Intervention Service | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-human-intervention/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Amazon Nova Act Human Intervention Service
 
 A reference AWS deployment that adds approval requests and live UI takeover to Nova Act browser workflows, with a Python client SDK and CDK stacks.

@@ -1,3 +1,11 @@
+---
+title: "Capybara | AwesomeCUA"
+url: https://awesomecua.com/resources/github-teamcapybara-capybara/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # Capybara
 
 Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.

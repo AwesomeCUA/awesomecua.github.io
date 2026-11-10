@@ -1,3 +1,11 @@
+---
+title: "WellSet WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kinhikars-wellset-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # WellSet WebMCP
 
 Shared 96-well laboratory experiment canvas built on WebMCP where scientists and browser agents co-design protocols.

@@ -1,3 +1,11 @@
+---
+title: "Secure Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pranavgawasproject-secure-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Secure Browser MCP
 
 经过安全强化的浏览器自动化 MCP 服务器，具备持久会话、域名允许列表和 SSRF 防护功能。

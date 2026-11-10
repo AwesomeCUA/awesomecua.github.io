@@ -1,3 +1,11 @@
+---
+title: "OmniWebBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # OmniWebBench
 
 OmniWebBench evaluates agentic browsers across end-to-end web navigation, action execution, failure recovery, and evidence verification.

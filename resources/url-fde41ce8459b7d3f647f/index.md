@@ -1,3 +1,11 @@
+---
+title: "LGWM data and RSWT-Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # LGWM data and RSWT-Bench
 
 A dataset of GUI screen transitions for training a world model, released with RSWT-Bench to evaluate whether observed screens follow the intended actions.

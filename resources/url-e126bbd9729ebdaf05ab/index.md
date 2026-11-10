@@ -1,3 +1,11 @@
+---
+title: "WebEvolver SFT data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # WebEvolver SFT data
 
 Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.

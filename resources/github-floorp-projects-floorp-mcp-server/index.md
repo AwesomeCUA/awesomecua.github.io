@@ -1,3 +1,11 @@
+---
+title: "Floorp MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Floorp MCP Server
 
 An MCP server that lets AI assistants read pages and operate the Floorp browser through tab controls, navigation, clicks, and form filling.

@@ -1,3 +1,11 @@
+---
+title: "ConClick: Element-Wise Contrastive Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-13268/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ConClick: Element-Wise Contrastive Learning Improves GUI Grounding
 
 Analyzes recurring distractor clicks in GUI grounding and introduces ConClick, a contrastive training method built from target–distractor pairs. Its ReClick inference procedure revisits candidate regions and compares competing predictions.
@@ -26,6 +34,18 @@ Ruotian Zhang, Yuhui Zhang, Junzhe Huang, Yu Xin, Hehe Fan, Xiaoxiao Sun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-13268/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-13268/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_13268,
+  title = {{ConClick: Element-Wise Contrastive Learning Improves GUI Grounding}},
+  author = {{Ruotian Zhang} and {Yuhui Zhang} and {Junzhe Huang} and {Yu Xin} and {Hehe Fan} and {Xiaoxiao Sun}},
+  year = {2026},
+  eprint = {2610.13268v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.13268v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T09:20:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

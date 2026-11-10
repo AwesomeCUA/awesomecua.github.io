@@ -1,3 +1,11 @@
+---
+title: "STAGE-Claw: Automated State-based Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-10394/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # STAGE-Claw: Automated State-based Agent Benchmarking for Realistic Scenarios
 
 Bibliographic record for STAGE-Claw: Automated State-based Agent Benchmarking for Realistic Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sirui Liang, Bohan Yu, Peiyu Wang, Shiguang Guo, Wenxing Hu, Pengfei Cao, Jian Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-10394/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-10394/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_10394,
+  title = {{STAGE-Claw: Automated State-based Agent Benchmarking for Realistic Scenarios}},
+  author = {{Sirui Liang} and {Bohan Yu} and {Peiyu Wang} and {Shiguang Guo} and {Wenxing Hu} and {Pengfei Cao} and {Jian Zhao} and {Cao Liu} and {Ke Zeng} and {Xunliang Cai} and {Kang Liu}},
+  year = {2026},
+  eprint = {2606.10394v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.10394v1},
+  note = {First published: 2026-06-09; Recorded arXiv version: v1; Recorded version updated: 2026-06-09T04:16:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

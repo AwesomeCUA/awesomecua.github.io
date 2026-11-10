@@ -1,3 +1,11 @@
+---
+title: "VisualPRM: An Effective Process Reward Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-10291/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VisualPRM: An Effective Process Reward Model for Multimodal Reasoning
 
 Bibliographic record for VisualPRM: An Effective Process Reward Model for Multimodal Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weiyun Wang, Zhangwei Gao, Lianjie Chen, Zhe Chen, Jinguo Zhu, Xiangyu Zhao, Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-10291/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-10291/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_10291,
+  title = {{VisualPRM: An Effective Process Reward Model for Multimodal Reasoning}},
+  author = {{Weiyun Wang} and {Zhangwei Gao} and {Lianjie Chen} and {Zhe Chen} and {Jinguo Zhu} and {Xiangyu Zhao} and {Yangzhou Liu} and {Yue Cao} and {Shenglong Ye} and {Xizhou Zhu} and {Lewei Lu} and {Haodong Duan} and {Yu Qiao} and {Jifeng Dai} and {Wenhai Wang}},
+  year = {2025},
+  eprint = {2503.10291v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.10291v1},
+  note = {First published: 2025-03-13; Recorded arXiv version: v1; Recorded version updated: 2025-03-13T12:03:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "UseAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-useagenthq-useagent/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # UseAgent
 
 Open-source cloud and local sandbox platform for running Claude Code, Codex, or OpenCode with a full desktop and browser.

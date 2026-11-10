@@ -1,3 +1,11 @@
+---
+title: "Camel AI (Visual QA Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dilawarshafiq-camel-ai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Camel AI (Visual QA Agent)
 
 Screen-driven QA agent that tests web and desktop applications through their rendered UI and hands off edge cases to humans.

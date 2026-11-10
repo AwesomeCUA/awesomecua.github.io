@@ -1,3 +1,11 @@
+---
+title: "AndroidClaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiuqianli1996-androidclaw/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AndroidClaw
 
 Android 原生 LLM 手机智能体，通过 Android AccessibilityService 和屏幕层级解析直接在设备上运行。

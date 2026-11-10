@@ -1,3 +1,11 @@
+---
+title: "OpenBitFun · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gcwing-openbitfun/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OpenBitFun
 
 OpenBitFun 是由 Rust 驱动的桌面智能体工作区，支持计算机使用、浏览器自动化和多模式智能体测试框架。

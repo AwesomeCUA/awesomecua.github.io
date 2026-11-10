@@ -1,3 +1,11 @@
+---
+title: "SkillOpt: Executive Strategy for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-23904/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SkillOpt: Executive Strategy for Self-Evolving Agent Skills
 
 Bibliographic record for SkillOpt: Executive Strategy for Self-Evolving Agent Skills. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yifan Yang, Ziyang Gong, Weiquan Huang, Qihao Yang, Ziwei Zhou, Zisu Huang, Yan 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-23904/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-23904/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_23904,
+  title = {{SkillOpt: Executive Strategy for Self-Evolving Agent Skills}},
+  author = {{Yifan Yang} and {Ziyang Gong} and {Weiquan Huang} and {Qihao Yang} and {Ziwei Zhou} and {Zisu Huang} and {Yan Li} and {Xuemei Gao} and {Qi Dai} and {Bei Liu} and {Kai Qiu} and {Yuqing Yang} and {Dongdong Chen} and {Xue Yang} and {Chong Luo}},
+  year = {2026},
+  eprint = {2605.23904v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.23904v2},
+  note = {First published: 2026-05-22; Recorded arXiv version: v2; Recorded version updated: 2026-05-25T17:58:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "crowd-test-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # crowd-test-mcp
 
 Model Context Protocol server that dispatches concurrent AI virtual-user personas in real browsers to test websites.

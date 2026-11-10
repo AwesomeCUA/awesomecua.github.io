@@ -1,3 +1,11 @@
+---
+title: "mllm · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ubiquitouslearning-mllm/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # mllm
 
 mllm 是 C++ 多模态 LLM 推理引擎，针对移动端 NPU/CPU 硬件上的设备端运行进行了优化。

@@ -1,3 +1,11 @@
+---
+title: "GroundingPI: A Grounding Foundation Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-39601/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives
 
 Bibliographic record for GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qize Yu, Lianrui Fan, Boyu Chen, Jiaqi Liang, Xini Ding, Yue Chen, Zetian Song, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-39601/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-39601/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_39601,
+  title = {{GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives}},
+  author = {{Qize Yu} and {Lianrui Fan} and {Boyu Chen} and {Jiaqi Liang} and {Xini Ding} and {Yue Chen} and {Zetian Song} and {Yuran Wang} and {Yi Zou} and {Kaixuan Wang} and {Tianxing Chen} and {Wenxuan Song} and {Bohan Zhou} and {Mingleyang Li} and {Siqiao Huang} and {Yuqi Ye} and {Caigao Jiang} and {Wei Wei} and {Ruihai Wu} and {Hang Zhang} and {Yixiao Ge} and {Shuchang Zhou} and {Shilong Liu} and {Xianming Liu} and {Ping Luo} and {Shiyu Huang}},
+  year = {2026},
+  eprint = {2609.39601v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.39601v2},
+  note = {First published: 2026-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-16T12:38:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

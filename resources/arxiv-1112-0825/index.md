@@ -1,3 +1,11 @@
+---
+title: "Near-deterministic quantum teleportation and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1112-0825/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Near-deterministic quantum teleportation and resource-efficient quantum computation using linear optics and hybrid qubits
 
 Status: excluded from the active CUA catalog after scope review.

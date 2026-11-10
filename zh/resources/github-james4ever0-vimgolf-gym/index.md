@@ -1,3 +1,11 @@
+---
+title: "vimgolf-gym · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-james4ever0-vimgolf-gym/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # vimgolf-gym
 
 这是一个面向 VimGolf 任务的类 Gym 基准，可让智能体向 Vim 发送按键、截取屏幕截图，并按正确性和按键次数评估解法。

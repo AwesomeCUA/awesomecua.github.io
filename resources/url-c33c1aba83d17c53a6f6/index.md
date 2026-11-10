@@ -1,3 +1,11 @@
+---
+title: "rabbit r1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c33c1aba83d17c53a6f6/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # rabbit r1
 
 Pocket voice-and-touch AI device that serves as a physical channel into rabbit OS3, whose DLAM capability can drive applications on a computer the user connects, with permission.

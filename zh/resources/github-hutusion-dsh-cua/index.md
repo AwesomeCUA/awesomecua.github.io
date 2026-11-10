@@ -1,3 +1,11 @@
+---
+title: "dsh-cua · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hutusion-dsh-cua/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-cua
 
 面向 DeepSeek Harness、与客户端无关的 Windows 计算机使用 MCP 服务器，提供 UI Automation、截图和桌面输入工具。

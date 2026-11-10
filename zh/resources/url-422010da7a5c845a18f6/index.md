@@ -1,3 +1,11 @@
+---
+title: "GUIMid training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-422010da7a5c845a18f6/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # GUIMid training data
 
 已发布的 GUI 智能体中期训练混合数据及配套领域数据集，另含后期训练轨迹文件和网页、移动端交互图像归档。

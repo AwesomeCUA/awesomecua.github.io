@@ -1,3 +1,11 @@
+---
+title: "PACE: Improving Prompt with Actor-Critic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-10088/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # PACE: Improving Prompt with Actor-Critic Editing for Large Language Model
 
 Bibliographic record for PACE: Improving Prompt with Actor-Critic Editing for Large Language Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yihong Dong, Kangcheng Luo, Xue Jiang, Zhi Jin, Ge Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-10088/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-10088/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_10088,
+  title = {{PACE: Improving Prompt with Actor-Critic Editing for Large Language Model}},
+  author = {{Yihong Dong} and {Kangcheng Luo} and {Xue Jiang} and {Zhi Jin} and {Ge Li}},
+  year = {2023},
+  eprint = {2308.10088v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.10088v2},
+  note = {First published: 2023-08-19; Recorded arXiv version: v2; Recorded version updated: 2024-05-16T13:02:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

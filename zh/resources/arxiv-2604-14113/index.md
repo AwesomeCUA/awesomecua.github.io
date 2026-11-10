@@ -1,3 +1,11 @@
+---
+title: "UI-Zoomer: Uncertainty-Driven Adaptive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-14113/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding
 
 UI-Zoomer 是一种无需训练的定位方法，利用候选结果的一致程度和 token 置信度决定何时裁剪图像并重试；预测差异为每个不确定的界面目标确定单独的裁剪半径。
@@ -27,6 +35,18 @@ Fei Tang, Bofan Chen, Zhengxi Lu, Tongbo Chen, Songqin Nong, Tao Jiang, Wenhao X
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-14113/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-14113/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_14113,
+  title = {{UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding}},
+  author = {{Fei Tang} and {Bofan Chen} and {Zhengxi Lu} and {Tongbo Chen} and {Songqin Nong} and {Tao Jiang} and {Wenhao Xu} and {Weiming Lu} and {Jun Xiao} and {Yueting Zhuang} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2604.14113v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.14113v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T17:32:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

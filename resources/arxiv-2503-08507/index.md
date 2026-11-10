@@ -1,3 +1,11 @@
+---
+title: "Referring to Any Person | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-08507/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Referring to Any Person
 
 Bibliographic record for Referring to Any Person. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Qing Jiang, Lin Wu, Zhaoyang Zeng, Tianhe Ren, Yuda Xiong, Yihao Chen, Qin Liu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-08507/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-08507/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_08507,
+  title = {{Referring to Any Person}},
+  author = {{Qing Jiang} and {Lin Wu} and {Zhaoyang Zeng} and {Tianhe Ren} and {Yuda Xiong} and {Yihao Chen} and {Qin Liu} and {Lei Zhang}},
+  year = {2025},
+  eprint = {2503.08507v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.08507v2},
+  note = {First published: 2025-03-11; Recorded arXiv version: v2; Recorded version updated: 2025-05-12T02:14:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

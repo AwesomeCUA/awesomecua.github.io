@@ -1,3 +1,11 @@
+---
+title: "ActionEngine: From Reactive to Programmatic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-20502/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory
 
 ActionEngine explores web applications to build an updateable state-machine memory of GUI states, operations and transitions. It generates complete task programs from that memory, using reactive repair to handle changed interfaces or missing knowledge.
@@ -26,6 +34,18 @@ Hongbin Zhong, Fazle Faisal, Luis França, Tanakorn Leesatapornwongsa, Adriana S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-20502/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-20502/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_20502,
+  title = {{ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory}},
+  author = {{Hongbin Zhong} and {Fazle Faisal} and {Luis França} and {Tanakorn Leesatapornwongsa} and {Adriana Szekeres} and {Kexin Rong} and {Suman Nath}},
+  year = {2026},
+  eprint = {2602.20502v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.20502v2},
+  note = {First published: 2026-02-24; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T17:40:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

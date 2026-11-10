@@ -1,3 +1,11 @@
+---
+title: "Safari iOS Web Inspector MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rodneyrdx-safari-ios-webinspector-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Safari iOS Web Inspector MCP
 
 TypeScript Model Context Protocol server for inspecting and debugging live iPhone Safari WebKit sessions from macOS.

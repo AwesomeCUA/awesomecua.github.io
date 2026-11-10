@@ -1,3 +1,11 @@
+---
+title: "Adaptive Memory Admission Control for LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-04549/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Adaptive Memory Admission Control for LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

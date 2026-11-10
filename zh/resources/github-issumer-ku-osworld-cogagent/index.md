@@ -1,3 +1,11 @@
+---
+title: "OSWorld-CogAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-issumer-ku-osworld-cogagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OSWorld-CogAgent
 
 为 OSWorld 提供与服务提供方无关的 CogAgent-9B 模型服务器、适配器和多环境评测运行器。

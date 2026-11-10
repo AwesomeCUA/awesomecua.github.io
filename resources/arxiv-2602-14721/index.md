@@ -1,3 +1,11 @@
+---
+title: "WebWorld: A Large-Scale World Model for Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-14721/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebWorld: A Large-Scale World Model for Web Agent Training
 
 Introduces WebWorld, an open-web simulator trained on interaction trajectories for generating agent training data and testing candidate actions. WebWorld-Bench evaluates simulated transitions, alongside downstream web-agent training experiments.
@@ -26,6 +34,18 @@ Zikai Xiao, Jianhong Tu, Chuhang Zou, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-14721/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-14721/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_14721,
+  title = {{WebWorld: A Large-Scale World Model for Web Agent Training}},
+  author = {{Zikai Xiao} and {Jianhong Tu} and {Chuhang Zou} and {Yuxin Zuo} and {Zhi Li} and {Peng Wang} and {Bowen Yu} and {Fei Huang} and {Junyang Lin} and {Zuozhu Liu}},
+  year = {2026},
+  eprint = {2602.14721v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.14721v1},
+  note = {First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T13:06:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "HobbyLM-1B Computer Use · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-12470a40c8f82ef0294a/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # HobbyLM-1B Computer Use
 
 一款设备端 LoRA 适配器，根据英文请求和 Mac 状态生成单步操作，由配套应用执行；仓库还提供训练代码和评测记录。

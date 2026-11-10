@@ -1,3 +1,11 @@
+---
+title: "Scaling Synthetic Task Generation for Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-25047/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Scaling Synthetic Task Generation for Agents via Exploration
 
 AutoPlay explores application states and functions to generate tasks, then uses a model executor and verifier to construct demonstrations. It produces 20,000 tasks across 20 Android apps and 10,000 tasks across 13 Ubuntu apps for supervised and reinforcement learning of UI agents.
@@ -26,6 +34,18 @@ Ram Ramrakhya, Andrew Szot, Omar Attia, Yuhao Yang, Anh Nguyen, Bogdan Mazoure, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-25047/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-25047/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_25047,
+  title = {{Scaling Synthetic Task Generation for Agents via Exploration}},
+  author = {{Ram Ramrakhya} and {Andrew Szot} and {Omar Attia} and {Yuhao Yang} and {Anh Nguyen} and {Bogdan Mazoure} and {Zhe Gan} and {Harsh Agrawal} and {Alexander Toshev}},
+  year = {2025},
+  eprint = {2509.25047v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.25047v1},
+  note = {First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T17:00:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

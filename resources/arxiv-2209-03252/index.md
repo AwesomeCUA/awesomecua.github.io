@@ -1,3 +1,11 @@
+---
+title: "Neuromorphic computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2209-03252/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Neuromorphic computing using wavelength-division multiplexing
 
 Status: excluded from the active CUA catalog after scope review.

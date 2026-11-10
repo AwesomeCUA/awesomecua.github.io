@@ -1,3 +1,11 @@
+---
+title: "Do GUI Agents Believe Their Eyes? Diagnosing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-04334/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure
 
 Defines visual state reliance and probes whether GUI agents resolve screenshot/structure conflicts using pixels, serialized interface structure or prior beliefs. Paired interventions and live multi-step tests connect misattributed state beliefs to failures and compare consistency-based mitigations.
@@ -26,6 +34,18 @@ Guijia Zhang, Yuxun Chen, Yuheng Qi, Harry Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-04334/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-04334/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_04334,
+  title = {{Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure}},
+  author = {{Guijia Zhang} and {Yuxun Chen} and {Yuheng Qi} and {Harry Yang}},
+  year = {2026},
+  eprint = {2607.04334v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.04334v2},
+  note = {First published: 2026-07-05; Recorded arXiv version: v2; Recorded version updated: 2026-07-18T16:56:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

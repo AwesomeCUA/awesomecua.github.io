@@ -1,3 +1,11 @@
+---
+title: "UIShift-7B-2K | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0dcc389cc2b1b15fb081/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # UIShift-7B-2K
 
 UIShift-7B, the initial GUI-Shift model: a Qwen2.5-VL model trained with GRPO on 2K AndroidControl samples to infer which action led from one screenshot to the next.

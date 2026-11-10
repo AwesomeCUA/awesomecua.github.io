@@ -1,3 +1,11 @@
+---
+title: "Fan | AwesomeCUA"
+url: https://awesomecua.com/resources/github-7757-fan-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Fan
 
 Electron desktop agent that operates an embedded, visible Chromium browser from numbered DOM and accessibility snapshots, runs bounded JavaScript browser transactions, and hands control back for logins and risky steps.

@@ -1,3 +1,11 @@
+---
+title: "VeriOS-Agent-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0b0a7a841d65715d60b1/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # VeriOS-Agent-7B
 
 A 7B OS agent model that carries out GUI actions under normal conditions and asks a person for input when it detects an untrustworthy scenario, trained in three stages with SFT and GRPO.

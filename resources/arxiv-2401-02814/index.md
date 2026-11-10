@@ -1,3 +1,11 @@
+---
+title: "Object-Centric Instruction Augmentation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-02814/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Object-Centric Instruction Augmentation for Robotic Manipulation
 
 Bibliographic record for Object-Centric Instruction Augmentation for Robotic Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junjie Wen, Yichen Zhu, Minjie Zhu, Jinming Li, Zhiyuan Xu, Zhengping Che, Chaom
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-02814/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-02814/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_02814,
+  title = {{Object-Centric Instruction Augmentation for Robotic Manipulation}},
+  author = {{Junjie Wen} and {Yichen Zhu} and {Minjie Zhu} and {Jinming Li} and {Zhiyuan Xu} and {Zhengping Che} and {Chaomin Shen} and {Yaxin Peng} and {Dong Liu} and {Feifei Feng} and {Jian Tang}},
+  year = {2024},
+  eprint = {2401.02814v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.02814v2},
+  note = {First published: 2024-01-05; Recorded arXiv version: v2; Recorded version updated: 2024-02-01T08:34:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

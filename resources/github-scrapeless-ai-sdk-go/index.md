@@ -1,3 +1,11 @@
+---
+title: "Scrapeless SDK Go | AwesomeCUA"
+url: https://awesomecua.com/resources/github-scrapeless-ai-sdk-go/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # Scrapeless SDK Go
 
 Go client for the Scrapeless platform that creates remote browser sessions with anti-detection options, manages profiles and extensions, and calls crawl and scraping APIs.

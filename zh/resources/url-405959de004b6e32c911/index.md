@@ -1,3 +1,11 @@
+---
+title: "luzimu/WebGen-Bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-405959de004b6e32c911/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # luzimu/WebGen-Bench
 
 该数据集收录网站生成指令和 UI 测试用例，用于评估交互式网站，并设有独立的训练集和测试集。

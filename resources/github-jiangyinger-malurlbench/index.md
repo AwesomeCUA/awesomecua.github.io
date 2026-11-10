@@ -1,3 +1,11 @@
+---
+title: "MalURLBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jiangyinger-malurlbench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # MalURLBench
 
 MalURLBench evaluates the vulnerability of LLM-based web agents to phishing and malicious URL attacks across ten real-world web scenarios.

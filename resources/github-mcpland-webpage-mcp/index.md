@@ -1,3 +1,11 @@
+---
+title: "Webpage MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mcpland-webpage-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Webpage MCP
 
 Turns any existing web application into an in-page Model Context Protocol server so AI agents can navigate and invoke DOM actions.

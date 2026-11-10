@@ -1,3 +1,11 @@
+---
+title: "BeijingWahw DSH Computer Use Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-beijingwahw-dsh-computer-use-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # BeijingWahw DSH Computer Use Plugin
 
 面向 DeepSeek Harness 的全功能桌面计算机使用插件，支持多显示器捕获、OCR 和 GUI 动作。

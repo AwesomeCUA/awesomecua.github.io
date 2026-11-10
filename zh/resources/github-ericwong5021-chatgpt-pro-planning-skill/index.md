@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Pro Planning Skill for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ericwong5021-chatgpt-pro-planning-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ChatGPT Pro Planning Skill for Codex
 
 将复杂架构规划委托给已登录的 ChatGPT Pro 网页会话的 Codex 技能。

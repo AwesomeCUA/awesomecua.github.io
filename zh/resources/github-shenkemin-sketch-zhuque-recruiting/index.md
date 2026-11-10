@@ -1,3 +1,11 @@
+---
+title: "Zhuque Recruiting (朱雀招聘) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shenkemin-sketch-zhuque-recruiting/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Zhuque Recruiting (朱雀招聘)
 
 可审计的 Codex Computer Use 技能，用于跨网页招聘平台自动寻找和筛选候选人。

@@ -1,3 +1,11 @@
+---
+title: "RLTHF: Targeted Human Feedback for LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-13417/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RLTHF: Targeted Human Feedback for LLM Alignment
 
 Status: excluded from the active CUA catalog after scope review.

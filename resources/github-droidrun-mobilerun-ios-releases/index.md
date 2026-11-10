@@ -1,3 +1,11 @@
+---
+title: "mobilerun-ios | AwesomeCUA"
+url: https://awesomecua.com/resources/github-droidrun-mobilerun-ios-releases/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # mobilerun-ios
 
 A CLI bridge connecting a local iPhone to Mobilerun for natural-language control of an iOS device, distributed as macOS and Linux binaries.

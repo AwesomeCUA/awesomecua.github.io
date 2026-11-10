@@ -1,3 +1,11 @@
+---
+title: "Generating Expressive and Customizable Evals… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-12483/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel
 
 Status: excluded from the active CUA catalog after scope review.

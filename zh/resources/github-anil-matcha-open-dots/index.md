@@ -1,3 +1,11 @@
+---
+title: "Open Duet (open-dots) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anil-matcha-open-dots/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Open Duet (open-dots)
 
 Open Duet 是自托管多智能体工作区，其中具名 AI 同事在隔离的沙箱、浏览器和终端中工作。

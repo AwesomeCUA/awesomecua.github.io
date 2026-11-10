@@ -1,3 +1,11 @@
+---
+title: "Agentic Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-applejuice093-agentic-browser/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agentic Browser
 
 Agent-first Python browser runtime providing stable element references, compact observations, outcome verification, and an MCP server.

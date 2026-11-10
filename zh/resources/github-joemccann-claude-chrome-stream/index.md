@@ -1,3 +1,11 @@
+---
+title: "Claude Chrome Stream · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-joemccann-claude-chrome-stream/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Claude Chrome Stream
 
 一款供电脑操作智能体使用的 Chrome 自动化插件，通过 CDP 传输浏览器画面，并将操作关联到画面 ID。它提供命令和 MCP 工具。

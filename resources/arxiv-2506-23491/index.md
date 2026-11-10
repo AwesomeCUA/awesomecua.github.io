@@ -1,3 +1,11 @@
+---
+title: "ZonUI-3B: A Lightweight Vision-Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-23491/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding
 
 ZonUI-3B trains GUI grounding with a curated 24,000-example collection of mobile, desktop, and web screenshots. Its two-stage procedure first learns across platforms and then specializes on high-resolution images, with ablations on data diversity and redundant examples.
@@ -26,6 +34,18 @@ ZongHan Hsieh, Tzer-Jen Wei, ShengJing Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-23491/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-23491/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_23491,
+  title = {{ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding}},
+  author = {{ZongHan Hsieh} and {Tzer-Jen Wei} and {ShengJing Yang}},
+  year = {2025},
+  eprint = {2506.23491v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.23491v3},
+  note = {First published: 2025-06-30; Recorded arXiv version: v3; Recorded version updated: 2025-07-18T06:03:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

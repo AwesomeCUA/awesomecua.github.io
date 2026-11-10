@@ -1,3 +1,11 @@
+---
+title: "voxie | AwesomeCUA"
+url: https://awesomecua.com/resources/github-afraidsoul76-voxie/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # voxie
 
 Voice-driven desktop assistant and automation agent packaged on PyPI for hands-free computer control.

@@ -1,10 +1,17 @@
+---
+title: "Screen understanding — computer-use…, page 17 | AwesomeCUA"
+url: https://awesomecua.com/topics/screen-understanding/page/17/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Screen understanding — computer-use research, page 17
 
 HTML page: https://awesomecua.com/topics/screen-understanding/page/17/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
-- [Vision UI](https://awesomecua.com/resources/github-meituan-dianping-vision-ui/)
 - [vision-bridge](https://awesomecua.com/resources/github-rusnetru-vision-bridge/)
 - [Vision-MCP](https://awesomecua.com/resources/github-haruhiyuki-vision-mcp/)
 - [VisionAX](https://awesomecua.com/resources/github-rao-studios-visionax/)

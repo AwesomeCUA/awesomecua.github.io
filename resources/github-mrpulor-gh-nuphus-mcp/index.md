@@ -1,3 +1,11 @@
+---
+title: "nuphus-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mrpulor-gh-nuphus-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # nuphus-mcp
 
 Cross-platform desktop automation MCP server for controlling screens, windows, mouse, and keyboard.

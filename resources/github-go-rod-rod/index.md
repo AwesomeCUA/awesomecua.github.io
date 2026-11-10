@@ -1,3 +1,11 @@
+---
+title: "Rod | AwesomeCUA"
+url: https://awesomecua.com/resources/github-go-rod-rod/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Rod
 
 A browser automation driver built on the DevTools Protocol. It provides element waiting, input tracing and helpers for controlling browser pages.

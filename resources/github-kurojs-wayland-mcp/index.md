@@ -1,3 +1,11 @@
+---
+title: "Wayland MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kurojs-wayland-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Wayland MCP Server
 
 Wayland MCP Server provides screenshot capture, VLM coordinate analysis, and virtual pointer/keyboard input for Linux Wayland desktops.

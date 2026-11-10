@@ -1,3 +1,11 @@
+---
+title: "Efficient Agent Training for Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-13909/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Efficient Agent Training for Computer Use
 
 PC Agent-E augments 312 human computer-use trajectories with alternative action decisions synthesized by Claude 3.7 Sonnet. It studies training with this combination and introduces WindowsAgentArena-V2 as an updated evaluation benchmark.
@@ -26,6 +34,18 @@ Yanheng He, Jiahe Jin, Pengfei Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-13909/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-13909/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_13909,
+  title = {{Efficient Agent Training for Computer Use}},
+  author = {{Yanheng He} and {Jiahe Jin} and {Pengfei Liu}},
+  year = {2025},
+  eprint = {2505.13909v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.13909v2},
+  note = {First published: 2025-05-20; Recorded arXiv version: v2; Recorded version updated: 2026-03-03T03:55:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

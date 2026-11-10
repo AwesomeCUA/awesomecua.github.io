@@ -1,3 +1,11 @@
+---
+title: "Understanding User Experiences of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-04452/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes
 
 梳理计算机使用智能体的用户体验设计要点，并提出 AgentUXlab，用于在浏览器中制作和评估网站上的智能体交互原型。
@@ -27,6 +35,18 @@ Jenny T. Liang, Titus Barik, Jeffrey Nichols, Eldon Schoop, Ruijia Cheng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-04452/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-04452/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04452,
+  title = {{Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes}},
+  author = {{Jenny T. Liang} and {Titus Barik} and {Jeffrey Nichols} and {Eldon Schoop} and {Ruijia Cheng}},
+  year = {2025},
+  eprint = {2510.04452v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04452v3},
+  note = {First published: 2025-10-06; Recorded arXiv version: v3; Recorded version updated: 2026-07-28T07:01:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

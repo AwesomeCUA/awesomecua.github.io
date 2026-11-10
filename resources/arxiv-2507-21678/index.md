@@ -1,3 +1,11 @@
+---
+title: "Predicting Abandonment of Open Source… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-21678/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Predicting Abandonment of Open Source Software Projects with An Integrated Feature Framework
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Shiny Fishstick | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hootsworth-shiny-fishstick/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Shiny Fishstick
 
 Semantic web compiler that crawls websites and compiles them into typed, reusable action and data interfaces for AI agents.

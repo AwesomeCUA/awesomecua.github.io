@@ -1,3 +1,11 @@
+---
+title: "Jev Ultrafast · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Jev Ultrafast
 
 Jev Ultrafast 从可见控件的索引表中选择操作和目标来操控浏览器，并在需要输入文字时由单独的模型生成文本。

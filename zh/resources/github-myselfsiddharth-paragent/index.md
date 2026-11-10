@@ -1,3 +1,11 @@
+---
+title: "Paragent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-myselfsiddharth-paragent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Paragent
 
 有状态的浏览器执行层，只需记录一次智能体任务，即可在无需调用 LLM 的情况下重放，并在选择器变化时自行修复。

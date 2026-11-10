@@ -1,3 +1,11 @@
+---
+title: "AndroidHowTo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-debymf-generating-android-howto/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # AndroidHowTo
 
 AndroidHowTo provides scripts and annotations for building instructional mobile UI action datasets linking how-to steps to Android screens.

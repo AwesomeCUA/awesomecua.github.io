@@ -1,3 +1,11 @@
+---
+title: "Roadmap to fault tolerant quantum computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-12252/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Roadmap to fault tolerant quantum computation using topological qubit arrays
 
 Status: excluded from the active CUA catalog after scope review.

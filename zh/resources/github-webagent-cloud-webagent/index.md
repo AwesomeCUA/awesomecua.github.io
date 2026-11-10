@@ -1,3 +1,11 @@
+---
+title: "Webagent (webagent.cloud) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-webagent-cloud-webagent/
+updated: 2026-10-20
+type: agent
+lang: zh-CN
+---
+
 # Webagent (webagent.cloud)
 
 可自行托管的浏览器智能体服务器，运行 Browser Use 或 Notte 智能体，将运行记录中的操作转为参数化工作流，再通过 Playwright 重放，步骤失败时交由智能体处理。

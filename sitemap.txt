@@ -2109,7 +2109,6 @@ https://awesomecua.com/resources/github-be90nia-gsearch-rs/
 https://awesomecua.com/resources/github-beaufortfrancois-model-context-tool-inspector/
 https://awesomecua.com/resources/github-beckhamlabsllc-linux-desktop-mcp/
 https://awesomecua.com/resources/github-bee-san-airplane-checkin-skill/
-https://awesomecua.com/resources/github-bees-bot-bees-desktop/
 https://awesomecua.com/resources/github-beijingwahw-dsh-computer-use-plugin/
 https://awesomecua.com/resources/github-belarusian-neo-lab/
 https://awesomecua.com/resources/github-beme08-agentb/
@@ -2518,7 +2517,6 @@ https://awesomecua.com/resources/github-elainemhr-annotate-mcp/
 https://awesomecua.com/resources/github-eldanring-qubicl/
 https://awesomecua.com/resources/github-electron-stagewright-electron-stagewright/
 https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/
-https://awesomecua.com/resources/github-elidot007-desktop-agent/
 https://awesomecua.com/resources/github-elijahumana-one-for-all/
 https://awesomecua.com/resources/github-ellmos-ai-clirec/
 https://awesomecua.com/resources/github-ellmos-ai-cowork-protocol/
@@ -2873,7 +2871,6 @@ https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-
 https://awesomecua.com/resources/github-issumer-ku-osworld-cogagent/
 https://awesomecua.com/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/
 https://awesomecua.com/resources/github-itmediatech-better-ai-browser-utilities/
-https://awesomecua.com/resources/github-itsmarcels-zetatron/
 https://awesomecua.com/resources/github-itw-code-arc-cua/
 https://awesomecua.com/resources/github-itw-code-solari-cookbook/
 https://awesomecua.com/resources/github-ivanposel-look-decide-act/
@@ -2996,7 +2993,6 @@ https://awesomecua.com/resources/github-kamalesh404-agentos/
 https://awesomecua.com/resources/github-kanchengw-dsh-mindseye/
 https://awesomecua.com/resources/github-kane2kang-longhorizonui/
 https://awesomecua.com/resources/github-kareemheshaam-reqvexa/
-https://awesomecua.com/resources/github-karunya-muddana-native/
 https://awesomecua.com/resources/github-kaustubhlall-osrs-cv/
 https://awesomecua.com/resources/github-kavanio-recordagent/
 https://awesomecua.com/resources/github-kaxxcode-nudge/
@@ -3095,7 +3091,6 @@ https://awesomecua.com/resources/github-lgoyal6-pms-race/
 https://awesomecua.com/resources/github-lgy0404-learnact/
 https://awesomecua.com/resources/github-lgy0404-memgui-bench/
 https://awesomecua.com/resources/github-lhuanyu-midscene-ios/
-https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/
 https://awesomecua.com/resources/github-lightfeed-browser-agent/
 https://awesomecua.com/resources/github-lightfeed-resurf/
 https://awesomecua.com/resources/github-lightpanda-io-agent-skill/
@@ -3756,7 +3751,6 @@ https://awesomecua.com/resources/github-rakutentech-sorify/
 https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/
 https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/
 https://awesomecua.com/resources/github-rao-studios-frigate/
-https://awesomecua.com/resources/github-rao-studios-mary/
 https://awesomecua.com/resources/github-rao-studios-visionax/
 https://awesomecua.com/resources/github-raunak-choudhary-hack-princeton-mealpilot/
 https://awesomecua.com/resources/github-ravizhan-mwu/
@@ -4493,7 +4487,6 @@ https://awesomecua.com/resources/github-yuqi-zhou-chop/
 https://awesomecua.com/resources/github-yuqi-zhou-gui-g1/
 https://awesomecua.com/resources/github-yurunchen-harmonyguard/
 https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/
-https://awesomecua.com/resources/github-yutori-ai-navi-bench/
 https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/
 https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/
 https://awesomecua.com/resources/github-yuyoungg-uiautomator2-webview/
@@ -7843,7 +7836,6 @@ https://awesomecua.com/zh/resources/github-be90nia-gsearch-rs/
 https://awesomecua.com/zh/resources/github-beaufortfrancois-model-context-tool-inspector/
 https://awesomecua.com/zh/resources/github-beckhamlabsllc-linux-desktop-mcp/
 https://awesomecua.com/zh/resources/github-bee-san-airplane-checkin-skill/
-https://awesomecua.com/zh/resources/github-bees-bot-bees-desktop/
 https://awesomecua.com/zh/resources/github-beijingwahw-dsh-computer-use-plugin/
 https://awesomecua.com/zh/resources/github-belarusian-neo-lab/
 https://awesomecua.com/zh/resources/github-beme08-agentb/
@@ -8252,7 +8244,6 @@ https://awesomecua.com/zh/resources/github-elainemhr-annotate-mcp/
 https://awesomecua.com/zh/resources/github-eldanring-qubicl/
 https://awesomecua.com/zh/resources/github-electron-stagewright-electron-stagewright/
 https://awesomecua.com/zh/resources/github-elenaviewsynthesis-holoskill-gym/
-https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/
 https://awesomecua.com/zh/resources/github-elijahumana-one-for-all/
 https://awesomecua.com/zh/resources/github-ellmos-ai-clirec/
 https://awesomecua.com/zh/resources/github-ellmos-ai-cowork-protocol/
@@ -8607,7 +8598,6 @@ https://awesomecua.com/zh/resources/github-ismael-joffroy-chandoutis-browser-age
 https://awesomecua.com/zh/resources/github-issumer-ku-osworld-cogagent/
 https://awesomecua.com/zh/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/
 https://awesomecua.com/zh/resources/github-itmediatech-better-ai-browser-utilities/
-https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/
 https://awesomecua.com/zh/resources/github-itw-code-arc-cua/
 https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/
 https://awesomecua.com/zh/resources/github-ivanposel-look-decide-act/
@@ -8730,7 +8720,6 @@ https://awesomecua.com/zh/resources/github-kamalesh404-agentos/
 https://awesomecua.com/zh/resources/github-kanchengw-dsh-mindseye/
 https://awesomecua.com/zh/resources/github-kane2kang-longhorizonui/
 https://awesomecua.com/zh/resources/github-kareemheshaam-reqvexa/
-https://awesomecua.com/zh/resources/github-karunya-muddana-native/
 https://awesomecua.com/zh/resources/github-kaustubhlall-osrs-cv/
 https://awesomecua.com/zh/resources/github-kavanio-recordagent/
 https://awesomecua.com/zh/resources/github-kaxxcode-nudge/
@@ -8829,7 +8818,6 @@ https://awesomecua.com/zh/resources/github-lgoyal6-pms-race/
 https://awesomecua.com/zh/resources/github-lgy0404-learnact/
 https://awesomecua.com/zh/resources/github-lgy0404-memgui-bench/
 https://awesomecua.com/zh/resources/github-lhuanyu-midscene-ios/
-https://awesomecua.com/zh/resources/github-lianping-cyber-dsh-browser-full-access/
 https://awesomecua.com/zh/resources/github-lightfeed-browser-agent/
 https://awesomecua.com/zh/resources/github-lightfeed-resurf/
 https://awesomecua.com/zh/resources/github-lightpanda-io-agent-skill/
@@ -9490,7 +9478,6 @@ https://awesomecua.com/zh/resources/github-rakutentech-sorify/
 https://awesomecua.com/zh/resources/github-randynorthrup-chrome-control-mcp/
 https://awesomecua.com/zh/resources/github-randynorthrup-win32-mcp-server/
 https://awesomecua.com/zh/resources/github-rao-studios-frigate/
-https://awesomecua.com/zh/resources/github-rao-studios-mary/
 https://awesomecua.com/zh/resources/github-rao-studios-visionax/
 https://awesomecua.com/zh/resources/github-raunak-choudhary-hack-princeton-mealpilot/
 https://awesomecua.com/zh/resources/github-ravizhan-mwu/
@@ -10227,7 +10214,6 @@ https://awesomecua.com/zh/resources/github-yuqi-zhou-chop/
 https://awesomecua.com/zh/resources/github-yuqi-zhou-gui-g1/
 https://awesomecua.com/zh/resources/github-yurunchen-harmonyguard/
 https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/
-https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/
 https://awesomecua.com/zh/resources/github-yuxiangchai-amex-codebase/
 https://awesomecua.com/zh/resources/github-yuxuan2003-awesome-gui-agent-security/
 https://awesomecua.com/zh/resources/github-yuyoungg-uiautomator2-webview/

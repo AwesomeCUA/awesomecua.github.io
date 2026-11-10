@@ -1,3 +1,11 @@
+---
+title: "The Next Challenge for Agentic Cybersecurity… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-11469/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark
 
 Bibliographic record for The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jeremy Spence, Nicholas Assaderaghi, Feng Xiao, Jinhao Zhu, Nikil Ravi, Xiangyu 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-11469/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-11469/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_11469,
+  title = {{The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark}},
+  author = {{Jeremy Spence} and {Nicholas Assaderaghi} and {Feng Xiao} and {Jinhao Zhu} and {Nikil Ravi} and {Xiangyu Qi} and {Matthew Jagielski} and {Raluca Ada Popa} and {Eric Wallace} and {Guannan Wei} and {Yangruibo Ding} and {Zhuo Zhang}},
+  year = {2026},
+  eprint = {2608.11469v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.11469v2},
+  note = {First published: 2026-08-11; Recorded arXiv version: v2; Recorded version updated: 2026-10-01T01:37:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

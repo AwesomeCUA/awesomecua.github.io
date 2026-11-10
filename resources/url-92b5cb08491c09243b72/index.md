@@ -1,3 +1,11 @@
+---
+title: "ScreenAgent (model) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-92b5cb08491c09243b72/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # ScreenAgent
 
 ScreenAgent-2312 weights in SAT format, a CogAgent-based vision-language model that drives the ScreenAgent environment, issuing mouse and keyboard actions over VNC in plan, act and reflect stages.

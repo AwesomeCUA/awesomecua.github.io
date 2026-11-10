@@ -1,3 +1,11 @@
+---
+title: "Agentic Artificial Intelligence (AI)… · 综述 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-12560/
+updated: 2026-11-06
+type: survey
+lang: zh-CN
+---
+
 # Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents
 
 综述 LLM 智能体的架构、运行环境与评估，涵盖网页导航和原生计算机使用，也涉及其他智能体领域。
@@ -27,6 +35,18 @@ Arunkumar V, Gangadharan G. R., Rajkumar Buyya
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-12560/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-12560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_12560,
+  title = {{Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents}},
+  author = {{Arunkumar V} and {Gangadharan G. R.} and {Rajkumar Buyya}},
+  year = {2026},
+  eprint = {2601.12560v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.12560v1},
+  note = {First published: 2026-01-18; Recorded arXiv version: v1; Recorded version updated: 2026-01-18T19:51:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

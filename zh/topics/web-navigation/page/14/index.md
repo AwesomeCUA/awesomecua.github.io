@@ -1,10 +1,17 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 14 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/14/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 14 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/14/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
-- [Browser Agent](https://awesomecua.com/zh/resources/github-visnia-ai-browser-agent/)
 - [Browser Agent (uiuing)](https://awesomecua.com/zh/resources/github-uiuing-browser-agent/)
 - [Browser Agent Bridge](https://awesomecua.com/zh/resources/github-rxluz-browser-agent-bridge/)
 - [Browser Agent Runtime Lite](https://awesomecua.com/zh/resources/github-coolwkx-browser-agent-runtime-lite/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/14/
 - [browserkit](https://awesomecua.com/zh/resources/github-browserkit-dev-browserkit/)
 - [BrowserMCP](https://awesomecua.com/zh/resources/github-smotree-browsermcp/)
 - [BrowserMesh](https://awesomecua.com/zh/resources/github-scrolldynasty-browsermesh/)
+- [BrowserOS / BrowserOS neo](https://awesomecua.com/zh/resources/github-browseros-ai-browseros/)

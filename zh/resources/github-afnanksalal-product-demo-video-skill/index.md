@@ -1,3 +1,11 @@
+---
+title: "Product Demo Video Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-afnanksalal-product-demo-video-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Product Demo Video Skill
 
 适用于 Codex 和 Claude 的 Agent Skill，通过在浏览器中操作实时网页产品，录制与真实操作关联的演示视频。

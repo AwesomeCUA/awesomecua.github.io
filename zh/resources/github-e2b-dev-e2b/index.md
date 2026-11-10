@@ -1,3 +1,11 @@
+---
+title: "E2B · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-e2b-dev-e2b/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # E2B
 
 面向智能体的云端沙箱基础设施；其桌面 SDK 提供截图、鼠标和键盘控制、应用启动及画面串流接口。

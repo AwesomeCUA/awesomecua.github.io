@@ -1,3 +1,11 @@
+---
+title: "TexGaussian: Generating High-quality PBR… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-19654/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting
 
 Bibliographic record for TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bojun Xiong, Jialun Liu, Jiakui Hu, Chenming Wu, Jinbo Wu, Xing Liu, Chen Zhao, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-19654/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-19654/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_19654,
+  title = {{TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting}},
+  author = {{Bojun Xiong} and {Jialun Liu} and {Jiakui Hu} and {Chenming Wu} and {Jinbo Wu} and {Xing Liu} and {Chen Zhao} and {Errui Ding} and {Zhouhui Lian}},
+  year = {2024},
+  eprint = {2411.19654v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.19654v2},
+  note = {First published: 2024-11-29; Recorded arXiv version: v2; Recorded version updated: 2025-03-23T17:27:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

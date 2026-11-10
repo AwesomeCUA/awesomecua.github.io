@@ -1,3 +1,11 @@
+---
+title: "Gloria | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sh7vansh-gloria/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Gloria
 
 Remote Chromium workstation for AI agents and human operators exposed over Model Context Protocol and noVNC.

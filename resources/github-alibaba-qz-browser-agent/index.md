@@ -1,3 +1,11 @@
+---
+title: "qz-browser-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alibaba-qz-browser-agent/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # qz-browser-agent
 
 Chrome extension agent that reads page DOM and accessibility trees, acts on indexed elements or screenshot coordinates across tabs, and accepts delegated tasks through a bundled CLI and MCP bridge.

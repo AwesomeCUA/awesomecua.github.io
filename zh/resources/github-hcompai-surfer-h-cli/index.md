@@ -1,3 +1,11 @@
+---
+title: "Surfer-H-CLI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hcompai-surfer-h-cli/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Surfer-H-CLI
 
 已弃用的 H Company Surfer-H 网页智能体运行器：策略模型读取近期 Chrome 截图，Holo 定位器给出点击坐标，Selenium 执行操作，可选验证器检查答案。

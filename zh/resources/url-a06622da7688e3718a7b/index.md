@@ -1,3 +1,11 @@
+---
+title: "CAGUI · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a06622da7688e3718a7b/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # CAGUI
 
 CAGUI 是随 AgentCPM-GUI 发布的中文 Android GUI 基准，包含面向控件和 OCR 文本的定位任务，以及面向中文应用多步任务的智能体任务。

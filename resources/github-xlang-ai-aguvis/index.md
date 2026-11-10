@@ -1,3 +1,11 @@
+---
+title: "Aguvis | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-aguvis/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # Aguvis
 
 Vision-based GUI agent models with unified action representations.

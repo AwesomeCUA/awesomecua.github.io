@@ -1,3 +1,11 @@
+---
+title: "AgentHijack: Benchmarking Computer Use Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-25707/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions
 
 Introduces AgentHijack, a benchmark for desktop computer-use agents facing pop-ups, resolution changes and other common corruptions, alongside an agent that checks its environment.
@@ -26,6 +34,18 @@ Jingwei Sun, Jianing Zhu, Yuanyi Li, Tongliang Liu, Xia HU, Bo Han
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-25707/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-25707/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_25707,
+  title = {{AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions}},
+  author = {{Jingwei Sun} and {Jianing Zhu} and {Yuanyi Li} and {Tongliang Liu} and {Xia HU} and {Bo Han}},
+  year = {2026},
+  eprint = {2605.25707v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.25707v1},
+  note = {First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T11:09:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

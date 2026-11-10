@@ -1,3 +1,11 @@
+---
+title: "dart-gui-7b · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-689fea75118e3113476b/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # dart-gui-7b
 
 随 DART 发布的 GUI 智能体权重。DART 是一个解耦的异步强化学习框架，将环境、rollout、数据管理与训练分离；论文报告其在 OSWorld 上的任务成功率为 42.13%。

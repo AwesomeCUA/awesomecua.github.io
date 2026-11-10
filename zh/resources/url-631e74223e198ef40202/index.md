@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-631e74223e198ef40202/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # ScaleCUA Data
 
 随 ScaleCUA 发布的跨平台训练数据，包含 Ubuntu、Windows、macOS、Android、iPhone 和网页截图的定位与导航标注。

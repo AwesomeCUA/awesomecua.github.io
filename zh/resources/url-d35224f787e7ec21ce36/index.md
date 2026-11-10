@@ -1,3 +1,11 @@
+---
+title: "OpenMobile-2 9B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d35224f787e7ec21ce36/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # OpenMobile-2 9B
 
 基于 OpenMobile-Data-v2 训练的移动智能体模型检查点，用于根据截图执行操作和调用应用原生工具。

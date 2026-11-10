@@ -1,3 +1,11 @@
+---
+title: "youtube_sim · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-youtube/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # youtube_sim
 
 youtube_sim 是仿 YouTube 的 Android 测试应用，提供本地媒体、交互日志和任务校验脚本，用于检查移动界面操作及其结果状态。

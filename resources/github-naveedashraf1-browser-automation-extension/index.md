@@ -1,3 +1,11 @@
+---
+title: "NaveedAshraf Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-naveedashraf1-browser-automation-extension/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # NaveedAshraf Browser Bridge
 
 Chrome extension, HTTP API, and MCP server exposing 185 commands and smart selectors for controlling a live Chrome browser.

@@ -1,3 +1,11 @@
+---
+title: "DISCOVERYWORLD: A Virtual Environment for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-06769/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents
 
 Bibliographic record for DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, Bhavana Dalvi Mi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-06769/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-06769/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_06769,
+  title = {{DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents}},
+  author = {{Peter Jansen} and {Marc-Alexandre Côté} and {Tushar Khot} and {Erin Bransom} and {Bhavana Dalvi Mishra} and {Bodhisattwa Prasad Majumder} and {Oyvind Tafjord} and {Peter Clark}},
+  year = {2024},
+  eprint = {2406.06769v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.06769v2},
+  note = {First published: 2024-06-10; Recorded arXiv version: v2; Recorded version updated: 2024-10-07T20:19:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "GUI-AIMA: Aligning Intrinsic Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-00810/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding
 
 Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
@@ -26,6 +34,18 @@ Shijie Zhou, Viet Dac Lai, Hao Tan, Jihyung Kil, Wanrong Zhu, Changyou Chen, Rui
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-00810/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-00810/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_00810,
+  title = {{GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding}},
+  author = {{Shijie Zhou} and {Viet Dac Lai} and {Hao Tan} and {Jihyung Kil} and {Wanrong Zhu} and {Changyou Chen} and {Ruiyi Zhang}},
+  year = {2025},
+  eprint = {2511.00810v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.00810v4},
+  note = {First published: 2025-11-02; Recorded arXiv version: v4; Recorded version updated: 2026-06-30T10:43:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

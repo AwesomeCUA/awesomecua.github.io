@@ -1,3 +1,11 @@
+---
+title: "UI-Genie reward data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-84e5aeeffaf561baa966/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UI-Genie reward data
 
 用于训练 UI-Genie 轨迹评估模型的移动端 GUI 奖励标注。

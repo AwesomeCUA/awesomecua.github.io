@@ -1,3 +1,11 @@
+---
+title: "Before Acting, Change the State: Prospective… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-34974/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Before Acting, Change the State: Prospective State Intervention for Web Agents under Deceptive Interfaces
 
 Introduces Veer, a runtime defense that changes task-relevant web state when an otherwise valid proposed action would produce an unauthorized consequence. It plans a prospective intervention and grounds and verifies its execution before the base agent continues.
@@ -26,6 +34,18 @@ Ruozhao Yang, Mingfei Cheng, Xiaofei Xie
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-34974/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-34974/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_34974,
+  title = {{Before Acting, Change the State: Prospective State Intervention for Web Agents under Deceptive Interfaces}},
+  author = {{Ruozhao Yang} and {Mingfei Cheng} and {Xiaofei Xie}},
+  year = {2026},
+  eprint = {2609.34974v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.34974v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T11:53:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

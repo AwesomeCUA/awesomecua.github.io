@@ -1,3 +1,11 @@
+---
+title: "Long-Horizon-Terminal-Bench: Testing the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-08964/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading
 
 Bibliographic record for Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zongxia Li, Zhongzhi Li, Yucheng Shi, Ruhan Wang, Junyao Yang, Zhichao Liu, Xiya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-08964/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-08964/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_08964,
+  title = {{Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading}},
+  author = {{Zongxia Li} and {Zhongzhi Li} and {Yucheng Shi} and {Ruhan Wang} and {Junyao Yang} and {Zhichao Liu} and {Xiyang Wu} and {Anhao Li} and {Chengsong Huang} and {Ergan Shang} and {Yue Yu} and {Ninghao Liu} and {Lichao Sun} and {Haotao Mi} and {Leowei Liang}},
+  year = {2026},
+  eprint = {2607.08964v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.08964v3},
+  note = {First published: 2026-07-09; Recorded arXiv version: v3; Recorded version updated: 2026-10-09T17:16:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

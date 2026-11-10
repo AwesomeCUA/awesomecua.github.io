@@ -1,3 +1,11 @@
+---
+title: "Deterministic optical quantum computer using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0805-3592/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Deterministic optical quantum computer using photonic modules
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "mcp-remote-macos-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # mcp-remote-macos-use
 
 MCP server that lets an LLM client such as Claude Desktop control a remote Mac through its built-in Screen Sharing, returning screenshots and sending scaled mouse, keyboard, scroll and drag actions over VNC.

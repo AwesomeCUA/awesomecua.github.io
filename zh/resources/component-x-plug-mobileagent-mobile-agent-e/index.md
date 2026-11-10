@@ -1,3 +1,11 @@
+---
+title: "Mobile-Agent-E code component · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-x-plug-mobileagent-mobile-agent-e/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Mobile-Agent-E code component
 
 Android 自动化组件，采用分层规划和反思，并保留从多个任务序列中学到的提示和快捷方法。

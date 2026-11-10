@@ -1,3 +1,11 @@
+---
+title: "Qwen-GUI checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-23bc63f93d3c31d74af3/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Qwen-GUI checkpoint
 
 随 GUICourse 发布、在 GUIAct 和 GUIChat 数据上调优的 Qwen-VL 检查点；数据卡演示将其在 0 至 1000 坐标网格上返回的边界框与点绘制到输入截图上。

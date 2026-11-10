@@ -1,3 +1,11 @@
+---
+title: "Darwinian Memory: A Training-Free… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-22528/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution
 
 Darwinian Memory splits GUI trajectories into reusable units and updates the memory by retaining useful paths and pruning poor ones. It evaluates this training-free memory mechanism on long multi-application tasks.
@@ -26,6 +34,18 @@ Hongze Mi, Yibo Feng, WenJie Lu, Song Cao, Jinyuan Li, Yanming Li, Xuelin Zhang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-22528/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-22528/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_22528,
+  title = {{Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution}},
+  author = {{Hongze Mi} and {Yibo Feng} and {WenJie Lu} and {Song Cao} and {Jinyuan Li} and {Yanming Li} and {Xuelin Zhang} and {Haotian Luo} and {Songyang Peng} and {He Cui} and {Tengfei Tian} and {Jun Fang} and {Hua Chai} and {Naiqiang Tan}},
+  year = {2026},
+  eprint = {2601.22528v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.22528v1},
+  note = {First published: 2026-01-30; Recorded arXiv version: v1; Recorded version updated: 2026-01-30T04:01:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

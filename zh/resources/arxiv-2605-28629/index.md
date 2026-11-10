@@ -1,3 +1,11 @@
+---
+title: "Mobile-Aptus: Confidence-Driven… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-28629/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents
 
 Mobile-Aptus 训练移动智能体同时输出操作和置信分数，再校正置信偏差，以决定何时请求人工协助。
@@ -27,6 +35,18 @@ Zheng Wu, Pengzhou Cheng, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-28629/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-28629/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_28629,
+  title = {{Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents}},
+  author = {{Zheng Wu} and {Pengzhou Cheng} and {Zongru Wu} and {Yuan Guo} and {Tianjie Ju} and {Aston Zhang} and {Gongshen Liu} and {Zhuosheng Zhang}},
+  year = {2026},
+  eprint = {2605.28629v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.28629v1},
+  note = {First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T15:37:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

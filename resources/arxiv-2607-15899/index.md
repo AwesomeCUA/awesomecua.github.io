@@ -1,3 +1,11 @@
+---
+title: "ContinuityBench: A Benchmark and Systems… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-15899/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ContinuityBench: A Benchmark and Systems Study of Stateful Failover in Multi-Provider LLM Routing
 
 Status: excluded from the active CUA catalog after scope review.

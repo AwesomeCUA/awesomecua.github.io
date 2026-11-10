@@ -1,3 +1,11 @@
+---
+title: "DXcam · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ra1nty-dxcam/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DXcam
 
 DXcam 是面向 Windows 的高频 Python 屏幕捕获库，使用 Desktop Duplication API，最高可达 240Hz，供 GUI 智能体使用。

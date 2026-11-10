@@ -1,3 +1,11 @@
+---
+title: "Ask-before-Plan | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magicgh-ask-before-plan/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ask-before-Plan
 
 Ask-before-Plan trains proactive language agents to clarify underspecified user instructions before executing multi-step tool plans.

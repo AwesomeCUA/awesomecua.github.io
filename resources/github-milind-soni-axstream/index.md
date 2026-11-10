@@ -1,3 +1,11 @@
+---
+title: "axstream | AwesomeCUA"
+url: https://awesomecua.com/resources/github-milind-soni-axstream/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # axstream
 
 Streaming JSON-lines action language and compiler for macOS computer-use agents.

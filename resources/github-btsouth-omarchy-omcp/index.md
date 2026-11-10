@@ -1,3 +1,11 @@
+---
+title: "Omarchy OMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-btsouth-omarchy-omcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Omarchy OMCP
 
 Exposes an Omarchy Linux desktop session as a live, watchable Model Context Protocol server for AI agents.

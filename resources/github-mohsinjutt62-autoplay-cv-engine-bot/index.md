@@ -1,3 +1,11 @@
+---
+title: "VisionGrid AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mohsinjutt62-autoplay-cv-engine-bot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # VisionGrid AI
 
 Computer-vision Android UI automation and heuristic gameplay engine built with OpenCV and ADB.

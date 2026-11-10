@@ -1,3 +1,11 @@
+---
+title: "Can Agents Work for Everyone? Cross-User… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-07972/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Can Agents Work for Everyone? Cross-User Reliability for Mobile GUI Agents in Personalized User Interfaces
 
 Introduces PAIR for controlled evaluation of mobile GUI agents across user-conditioned application states and RePAIR for training from cross-user subgoal outcomes. The study examines failures when personalized interfaces change which items an agent must identify.
@@ -26,6 +34,18 @@ Yeji Park, Jaeyun Shim, Taesik Gong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-07972/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-07972/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07972,
+  title = {{Can Agents Work for Everyone? Cross-User Reliability for Mobile GUI Agents in Personalized User Interfaces}},
+  author = {{Yeji Park} and {Jaeyun Shim} and {Taesik Gong}},
+  year = {2026},
+  eprint = {2610.07972v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07972v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T08:38:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

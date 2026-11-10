@@ -1,3 +1,11 @@
+---
+title: "Constructing Challenging Browser-Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-35814/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions
 
 BreakingWeb 将可解的浏览器任务与受控环境干预配对，保持目标、目标对象及后端成功判定标准不变。配对评估用于识别适应性不足导致的失败，包括未发生所需状态变化却宣告完成。
@@ -27,6 +35,18 @@ Xunjian Yin, Tianchen Guan, Jinao Wang, Weili Cao, Daisy Xinlei Lin, Royce Cheng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-35814/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-35814/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_35814,
+  title = {{Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions}},
+  author = {{Xunjian Yin} and {Tianchen Guan} and {Jinao Wang} and {Weili Cao} and {Daisy Xinlei Lin} and {Royce Cheng-Yue} and {Keagan Long} and {Kyle Wong} and {Bhuwan Dhingra} and {Xiangjun Wang} and {Shuyan Zhou}},
+  year = {2026},
+  eprint = {2609.35814v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.35814v1},
+  note = {First published: 2026-09-20; Recorded arXiv version: v1; Recorded version updated: 2026-09-20T16:16:23Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Semantic GUI Control Layer (SGCL) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-frankbria-semantic-gui-control/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Semantic GUI Control Layer (SGCL)
 
 SGCL 是跨平台、以文本为主的控制层，将图形用户界面作为结构化语义操作能力提供给智能体。

@@ -1,3 +1,11 @@
+---
+title: "PSAI computer-use dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # PSAI computer-use dataset
 
 Human computer-use recordings for 3,167 browser and desktop tasks, each with a screen video, input events and reasoning steps, plus screenshots or DOM snapshots for part of the tasks.

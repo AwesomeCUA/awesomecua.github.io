@@ -1,3 +1,11 @@
+---
+title: "GUI-ARP: Enhancing Grounding with Adaptive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-15532/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents
 
 GUI-ARP uses visual attention to crop relevant screenshot regions and decides whether a target needs single-stage or multi-stage analysis. Supervised fine-tuning followed by GRPO trains this adaptive procedure for high-resolution GUI grounding.
@@ -26,6 +34,18 @@ Xianhang Ye, Yiqing Li, Wei Dai, Miancan Liu, Ziyuan Chen, Zhangye Han, Hongbo M
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-15532/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-15532/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_15532,
+  title = {{GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents}},
+  author = {{Xianhang Ye} and {Yiqing Li} and {Wei Dai} and {Miancan Liu} and {Ziyuan Chen} and {Zhangye Han} and {Hongbo Min} and {Jinkui Ren} and {Xiantao Zhang} and {Wen Yang} and {Zhi Jin}},
+  year = {2025},
+  eprint = {2509.15532v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.15532v1},
+  note = {First published: 2025-09-19; Recorded arXiv version: v1; Recorded version updated: 2025-09-19T02:34:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

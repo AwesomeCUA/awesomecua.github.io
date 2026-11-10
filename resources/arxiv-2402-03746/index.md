@@ -1,3 +1,11 @@
+---
+title: "Tuning Large Multimodal Models for Videos… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-03746/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback
 
 Status: excluded from the active CUA catalog after scope review.

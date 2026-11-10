@@ -1,3 +1,11 @@
+---
+title: "jacklishufan/MobileWorld · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3d12df2fd27076504434/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # jacklishufan/MobileWorld
 
 MobileWorldBench 训练数据的标注归档：一个 tar 文件，内含基于 AiTW 与 AndroidControl 屏幕构建的 parquet 子集以及一个清洗后的问答划分，用于微调移动端语义世界模型。

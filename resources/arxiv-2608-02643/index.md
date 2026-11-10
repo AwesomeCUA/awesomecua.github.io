@@ -1,3 +1,11 @@
+---
+title: "CUADebug: Diagnosing and Repairing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-02643/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # CUADebug: Diagnosing and Repairing Computer-Use Agent Failures
 
 CUADebug combines a failure taxonomy and human-annotated OSWorld failure trajectories with an agent that locates causal steps and proposes corrections from screenshots and action traces. It evaluates root-cause diagnosis separately from controlled task re-execution and failure recovery.
@@ -26,6 +34,18 @@ Weijia Zhang, Kunlun Zhu, Zeyi Liu, Yinting Chen, Tianyi Ma, Jiateng Liu, Jiaxun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-02643/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-02643/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_02643,
+  title = {{CUADebug: Diagnosing and Repairing Computer-Use Agent Failures}},
+  author = {{Weijia Zhang} and {Kunlun Zhu} and {Zeyi Liu} and {Yinting Chen} and {Tianyi Ma} and {Jiateng Liu} and {Jiaxun Zhang} and {Bingxuan Li} and {Xiangru Tang} and {Heng Ji} and {Jiaxuan You}},
+  year = {2026},
+  eprint = {2608.02643v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.02643v2},
+  note = {First published: 2026-07-31; Recorded arXiv version: v2; Recorded version updated: 2026-09-06T04:43:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

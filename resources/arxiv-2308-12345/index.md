@@ -1,3 +1,11 @@
+---
+title: "Probing Early Modification of Gravity with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-12345/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Probing Early Modification of Gravity with Planck, ACT and SPT
 
 Bibliographic record for Probing Early Modification of Gravity with Planck, ACT and SPT. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guillermo Franco Abellán, Matteo Braglia, Mario Ballardini, Fabio Finelli, Vivi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-12345/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-12345/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_12345,
+  title = {{Probing Early Modification of Gravity with Planck, ACT and SPT}},
+  author = {{Guillermo Franco Abellán} and {Matteo Braglia} and {Mario Ballardini} and {Fabio Finelli} and {Vivian Poulin}},
+  year = {2023},
+  eprint = {2308.12345v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.12345v2},
+  note = {First published: 2023-08-23; Recorded arXiv version: v2; Recorded version updated: 2023-12-13T15:05:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

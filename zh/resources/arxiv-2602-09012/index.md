@@ -1,3 +1,11 @@
+---
+title: "Next-Gen CAPTCHAs: Leveraging the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-09012/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense
 
 Next-Gen CAPTCHAs 提出生成式交互挑战，旨在区分人类用户与 GUI 智能体；该基准考察感知、记忆、决策和动作，并设计了由后端支持、可批量生成实例的挑战类型。
@@ -27,6 +35,18 @@ Jiacheng Liu, Yaxin Luo, Jiacheng Cui, Xinyi Shang, Xiaohan Zhao, Zhiqiang Shen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-09012/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-09012/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09012,
+  title = {{Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense}},
+  author = {{Jiacheng Liu} and {Yaxin Luo} and {Jiacheng Cui} and {Xinyi Shang} and {Xiaohan Zhao} and {Zhiqiang Shen}},
+  year = {2026},
+  eprint = {2602.09012v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09012v2},
+  note = {First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-06-21T08:25:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

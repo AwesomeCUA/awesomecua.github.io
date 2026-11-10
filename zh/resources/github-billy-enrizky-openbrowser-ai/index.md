@@ -1,3 +1,11 @@
+---
+title: "OpenBrowser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-billy-enrizky-openbrowser-ai/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # OpenBrowser
 
 Python 浏览器自动化框架：CodeAgent 向模型展示带索引的 DOM 状态和可选截图，再在持久化命名空间中运行其编写的 Python 代码，通过 Chrome DevTools Protocol 辅助工具操作浏览器。

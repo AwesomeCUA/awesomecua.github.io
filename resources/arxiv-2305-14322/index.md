@@ -1,3 +1,11 @@
+---
+title: "RET-LLM: Towards a General Read-Write Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-14322/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # RET-LLM: Towards a General Read-Write Memory for Large Language Models
 
 Bibliographic record for RET-LLM: Towards a General Read-Write Memory for Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ali Modarressi, Ayyoob Imani, Mohsen Fayyaz, Hinrich Schütze
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-14322/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-14322/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_14322,
+  title = {{RET-LLM: Towards a General Read-Write Memory for Large Language Models}},
+  author = {{Ali Modarressi} and {Ayyoob Imani} and {Mohsen Fayyaz} and {Hinrich Schütze}},
+  year = {2023},
+  eprint = {2305.14322v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.14322v2},
+  note = {First published: 2023-05-23; Recorded arXiv version: v2; Recorded version updated: 2024-10-24T17:59:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

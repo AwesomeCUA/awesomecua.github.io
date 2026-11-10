@@ -1,3 +1,11 @@
+---
+title: "AutoCodeRover: Autonomous Program Improvement | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-05427/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoCodeRover: Autonomous Program Improvement
 
 Status: excluded from the active CUA catalog after scope review.

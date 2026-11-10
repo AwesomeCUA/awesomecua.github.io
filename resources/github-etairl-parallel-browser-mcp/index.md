@@ -1,3 +1,11 @@
+---
+title: "parallel-browser-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # parallel-browser-mcp
 
 Model Context Protocol server for parallel multi-session browser automation across local and cloud browser providers.

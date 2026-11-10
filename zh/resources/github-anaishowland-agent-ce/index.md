@@ -1,3 +1,11 @@
+---
+title: "Agent-CE · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anaishowland-agent-ce/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Agent-CE
 
 Agent-CE 是容器化的持续评测平台，用于通过可复现的任务套件评测网页浏览智能体。

@@ -1,3 +1,11 @@
+---
+title: "ai-browser-bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yosefhayim-ai-browser-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ai-browser-bridge
 
 A macOS terminal tool operates live AI chat websites through Chrome and exposes validated local repository actions to those chats through an MCP server.

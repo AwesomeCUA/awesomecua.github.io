@@ -1,3 +1,11 @@
+---
+title: "DOMShell | AwesomeCUA"
+url: https://awesomecua.com/resources/github-apireno-domshell/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DOMShell
 
 DOMShell exposes live Chrome browser DOM trees as a virtual Unix filesystem (`cd`, `ls`, `click`, `text`) for LLM agents via CDP and MCP.

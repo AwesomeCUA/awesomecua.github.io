@@ -1,3 +1,11 @@
+---
+title: "WildDoc: How Far Are We from Achieving… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-11015/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # WildDoc: How Far Are We from Achieving Comprehensive and Robust Document Understanding in the Wild?
 
 Bibliographic record for WildDoc: How Far Are We from Achieving Comprehensive and Robust Document Understanding in the Wild?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ An-Lan Wang, Jingqun Tang, Liao Lei, Hao Feng, Qi Liu, Xiang Fei, Jinghui Lu, Ha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-11015/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-11015/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_11015,
+  title = {{WildDoc: How Far Are We from Achieving Comprehensive and Robust Document Understanding in the Wild?}},
+  author = {{An-Lan Wang} and {Jingqun Tang} and {Liao Lei} and {Hao Feng} and {Qi Liu} and {Xiang Fei} and {Jinghui Lu} and {Han Wang} and {Weiwei Liu} and {Hao Liu} and {Yuliang Liu} and {Xiang Bai} and {Can Huang}},
+  year = {2025},
+  eprint = {2505.11015v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.11015v2},
+  note = {First published: 2025-05-16; Recorded arXiv version: v2; Recorded version updated: 2025-05-27T08:00:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

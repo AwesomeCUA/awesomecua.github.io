@@ -1,3 +1,11 @@
+---
+title: "Hermes Desktop Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jiangxiao642-spec-hermes-desktop-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hermes Desktop Control
 
 Hermes Desktop Control is a runtime-neutral Windows GUI automation engine combining UI Automation trees, Set-of-Mark overlays, and input dispatch.

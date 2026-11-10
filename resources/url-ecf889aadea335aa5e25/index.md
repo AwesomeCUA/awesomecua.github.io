@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-32B-Thinking | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ecf889aadea335aa5e25/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-32B-Thinking
 
 Qwen3-VL-32B-Thinking is a vision-language checkpoint whose card describes recognizing interface elements and using tools to complete PC and mobile GUI tasks.

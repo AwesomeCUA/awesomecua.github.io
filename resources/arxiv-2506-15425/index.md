@@ -1,3 +1,11 @@
+---
+title: "Understanding GUI Agent Localization Biases… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-15425/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Understanding GUI Agent Localization Biases through Logit Sharpness
 
 Introduces a finer-grained taxonomy of GUI localization errors and a logit-based Peak Sharpness Score for analyzing coordinate-prediction uncertainty. A context-aware cropping method refines the visual input without retraining the grounding model.
@@ -26,6 +34,18 @@ Xingjian Tao, Yiwei Wang, Yujun Cai, Zhicheng Yang, Jing Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-15425/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-15425/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_15425,
+  title = {{Understanding GUI Agent Localization Biases through Logit Sharpness}},
+  author = {{Xingjian Tao} and {Yiwei Wang} and {Yujun Cai} and {Zhicheng Yang} and {Jing Tang}},
+  year = {2025},
+  eprint = {2506.15425v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.15425v1},
+  note = {First published: 2025-06-18; Recorded arXiv version: v1; Recorded version updated: 2025-06-18T12:55:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

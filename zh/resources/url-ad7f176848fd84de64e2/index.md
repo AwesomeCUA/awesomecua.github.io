@@ -1,3 +1,11 @@
+---
+title: "OpenCUA 32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ad7f176848fd84de64e2/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # OpenCUA 32B
 
 基于 Qwen2.5-VL 的计算机使用模型检查点，结合截图历史、规划和经界面定位的可执行操作。

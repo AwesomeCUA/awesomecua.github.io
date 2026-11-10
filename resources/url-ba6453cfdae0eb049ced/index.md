@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Act training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # Plan-and-Act training data
 
 Planner and action-executor training examples for WebArena-Lite and WebVoyager, with model-specific processed files and raw trajectory annotations.

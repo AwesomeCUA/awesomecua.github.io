@@ -1,3 +1,11 @@
+---
+title: "pi-iphone-mirroring · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aniruddha-adhikary-pi-iphone-mirroring/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pi-iphone-mirroring
 
 面向 macOS 上 Pi 编码智能体、以视觉为主的 iPhone Mirroring 控制包。

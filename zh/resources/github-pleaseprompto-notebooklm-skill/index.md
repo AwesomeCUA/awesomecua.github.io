@@ -1,3 +1,11 @@
+---
+title: "NotebookLM Claude Code Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pleaseprompto-notebooklm-skill/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # NotebookLM Claude Code Skill
 
 一个 Claude Code 技能通过浏览器自动向 NotebookLM 提问，并返回基于上传文档的答案。它包含身份验证和笔记本管理脚本。

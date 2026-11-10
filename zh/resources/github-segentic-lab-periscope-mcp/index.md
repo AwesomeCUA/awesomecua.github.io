@@ -1,3 +1,11 @@
+---
+title: "periscope-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-segentic-lab-periscope-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # periscope-mcp
 
 网页应用 QA 与分析 MCP 服务器，提供 74 个 Playwright 工具，用于需身份验证的流程、视觉回归测试和无障碍审查。

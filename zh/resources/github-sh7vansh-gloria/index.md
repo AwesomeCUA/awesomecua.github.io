@@ -1,3 +1,11 @@
+---
+title: "Gloria · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sh7vansh-gloria/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Gloria
 
 通过 Model Context Protocol 和 noVNC 向 AI 智能体与人工操作员开放的远程 Chromium 工作站。

@@ -1,3 +1,11 @@
+---
+title: "Cuse (macOS AI Cursor Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-muneebkhan08-cuse/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Cuse (macOS AI Cursor Agent)
 
 Cuse 是面向 macOS 的开源语音与文本 AI 光标智能体，可通过视觉定位 UI 控件并执行鼠标和键盘任务。

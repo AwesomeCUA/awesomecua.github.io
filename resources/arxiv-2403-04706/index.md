@@ -1,3 +1,11 @@
+---
+title: "Common 7B Language Models Already Possess… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-04706/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Common 7B Language Models Already Possess Strong Math Capabilities
 
 Bibliographic record for Common 7B Language Models Already Possess Strong Math Capabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chen Li, Weiqi Wang, Jingcheng Hu, Yixuan Wei, Nanning Zheng, Han Hu, Zheng Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-04706/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-04706/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_04706,
+  title = {{Common 7B Language Models Already Possess Strong Math Capabilities}},
+  author = {{Chen Li} and {Weiqi Wang} and {Jingcheng Hu} and {Yixuan Wei} and {Nanning Zheng} and {Han Hu} and {Zheng Zhang} and {Houwen Peng}},
+  year = {2024},
+  eprint = {2403.04706v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.04706v1},
+  note = {First published: 2024-03-07; Recorded arXiv version: v1; Recorded version updated: 2024-03-07T18:00:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

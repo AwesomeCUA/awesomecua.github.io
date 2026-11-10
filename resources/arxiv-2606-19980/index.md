@@ -1,3 +1,11 @@
+---
+title: "ENPIRE: Agentic Robot Policy Self-Improvement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-19980/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ENPIRE: Agentic Robot Policy Self-Improvement in the Real World
 
 Bibliographic record for ENPIRE: Agentic Robot Policy Self-Improvement in the Real World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenli Xiao, Jia Xie, Tonghe Zhang, Haotian Lin, Letian "Max" Fu, Haoru Xue, Jale
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-19980/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-19980/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_19980,
+  title = {{ENPIRE: Agentic Robot Policy Self-Improvement in the Real World}},
+  author = {{Wenli Xiao} and {Jia Xie} and {Tonghe Zhang} and {Haotian Lin} and {Letian "Max" Fu} and {Haoru Xue} and {Jalen Lu} and {Yi Yang} and {Cunxi Dai} and {Zi Wang} and {Jimmy Wu} and {Guanzhi Wang} and {S. Shankar Sastry} and {Ken Goldberg} and {Linxi "Jim" Fan} and {Yuke Zhu} and {Guanya Shi}},
+  year = {2026},
+  eprint = {2606.19980v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.19980v2},
+  note = {First published: 2026-06-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-20T18:57:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

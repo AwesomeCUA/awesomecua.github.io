@@ -1,3 +1,11 @@
+---
+title: "Patchright · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Patchright
 
 Patchright 是用于 Chromium 自动化的修改版 Playwright 驱动，通过 Playwright 风格的 API 进行浏览器交互，并提供独立的客户端软件包。

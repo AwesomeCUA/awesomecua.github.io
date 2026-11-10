@@ -1,3 +1,11 @@
+---
+title: "Midscene Python · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-python51888-midscene-python/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # Midscene Python
 
 Midscene Python 是面向网页和 Android 设备的自然语言自动化框架，支持模型辅助操作、元素定位、信息提取和断言。

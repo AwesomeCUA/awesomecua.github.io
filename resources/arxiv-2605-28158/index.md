@@ -1,3 +1,11 @@
+---
+title: "OR-Space: A Full-Lifecycle Workspace… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-28158/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OR-Space: A Full-Lifecycle Workspace Benchmark for Industrial Optimization Agents
 
 Status: excluded from the active CUA catalog after scope review.

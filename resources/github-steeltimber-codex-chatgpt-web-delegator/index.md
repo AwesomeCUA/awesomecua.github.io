@@ -1,3 +1,11 @@
+---
+title: "Codex ChatGPT Web Delegator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steeltimber-codex-chatgpt-web-delegator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex ChatGPT Web Delegator
 
 Codex skill for verified task delegation to ChatGPT Web through OpenCLI browser automation.

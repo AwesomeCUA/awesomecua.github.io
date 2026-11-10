@@ -1,3 +1,11 @@
+---
+title: "Understanding the planning of LLM agents: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-02716/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Understanding the planning of LLM agents: A survey
 
 Bibliographic record for Understanding the planning of LLM agents: A survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xu Huang, Weiwen Liu, Xiaolong Chen, Xingmei Wang, Hao Wang, Defu Lian, Yasheng 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-02716/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-02716/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_02716,
+  title = {{Understanding the planning of LLM agents: A survey}},
+  author = {{Xu Huang} and {Weiwen Liu} and {Xiaolong Chen} and {Xingmei Wang} and {Hao Wang} and {Defu Lian} and {Yasheng Wang} and {Ruiming Tang} and {Enhong Chen}},
+  year = {2024},
+  eprint = {2402.02716v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.02716v1},
+  note = {First published: 2024-02-05; Recorded arXiv version: v1; Recorded version updated: 2024-02-05T04:25:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

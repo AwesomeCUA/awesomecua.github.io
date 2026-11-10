@@ -1,3 +1,11 @@
+---
+title: "NOVA-exe · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vincenzo-afk-nova-exe/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # NOVA-exe
 
 本地优先的桌面 AI 智能体平台，使用 TypeScript、Electron、React 和 SQLite 构建，用于受权限管理的计算机控制。

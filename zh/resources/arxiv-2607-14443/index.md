@@ -1,3 +1,11 @@
+---
+title: "Tactile: Giving Computer-Using Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-14443/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Tactile: Giving Computer-Using Agents Hands and Feet
 
 Tactile 将无障碍信息、OCR 和视觉证据转为带有可执行操作及核验线索的明确桌面目标。其执行循环在语义操作与坐标回退操作间选择，并保留来源信息以供重放和诊断。
@@ -27,6 +35,18 @@ Yong Liu, Zhenyi Zhong, Zhanpeng Shi
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-14443/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-14443/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_14443,
+  title = {{Tactile: Giving Computer-Using Agents Hands and Feet}},
+  author = {{Yong Liu} and {Zhenyi Zhong} and {Zhanpeng Shi}},
+  year = {2026},
+  eprint = {2607.14443v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.14443v1},
+  note = {First published: 2026-07-16; Recorded arXiv version: v1; Recorded version updated: 2026-07-16T00:35:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

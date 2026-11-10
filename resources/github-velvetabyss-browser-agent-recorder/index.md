@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Recorder | AwesomeCUA"
+url: https://awesomecua.com/resources/github-velvetabyss-browser-agent-recorder/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Agent Recorder
 
 Records human browser workflows and exports them as both human-readable SOP documents and machine-readable Agent Skill Packs.

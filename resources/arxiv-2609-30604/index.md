@@ -1,3 +1,11 @@
+---
+title: "The Hard Part Comes After Search… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-30604/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge
 
 KNOWS benchmarks browser workflows that retrieve and synthesize information into documents, presentations and spreadsheets. Task-specific evaluators combine deterministic checks with model judgments, distinguishing partial progress from usable end-to-end artifact completion.
@@ -26,6 +34,18 @@ Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-30604/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-30604/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_30604,
+  title = {{The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge}},
+  author = {{Alexander Gill} and {Md Farhan Ishmam} and {Xuyen Nguyen} and {Neha Bhat} and {Parker Henry DeYoung} and {Fateme Hashemi Chaleshtori} and {Nathan Stringham} and {Kenneth Marino} and {Ana Marasović}},
+  year = {2026},
+  eprint = {2609.30604v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.30604v1},
+  note = {First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T22:36:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

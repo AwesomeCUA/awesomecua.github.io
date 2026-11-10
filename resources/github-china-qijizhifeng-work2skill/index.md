@@ -1,3 +1,11 @@
+---
+title: "Work2Skill | AwesomeCUA"
+url: https://awesomecua.com/resources/github-china-qijizhifeng-work2skill/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # Work2Skill
 
 Collects human GUI demonstrations and inspects multimodal evidence to derive reusable agent workflow skills.

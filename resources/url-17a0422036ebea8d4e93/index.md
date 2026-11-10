@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 1.5 4B Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-17a0422036ebea8d4e93/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-Owl 1.5 4B Instruct
 
 4B instruct checkpoint of GUI-Owl 1.5, a Qwen3-VL-based native GUI agent family from Mobile-Agent-v3.5 for desktop, mobile and browser tasks, usable alone or as a role in that framework.

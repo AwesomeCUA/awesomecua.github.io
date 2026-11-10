@@ -1,3 +1,11 @@
+---
+title: "wc3-chrome · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fatmind-wc3-chrome/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # wc3-chrome
 
 一个 Chrome MV3 扩展，负责执行 webclaw3 的浏览器操作：通过 WebSocket 接收本地 relay 转发的 op 指令，借助 chrome.* API 操作真实的 Chrome，并提供基于 aria 树的元素引用。

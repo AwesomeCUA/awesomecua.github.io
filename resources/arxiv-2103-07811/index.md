@@ -1,3 +1,11 @@
+---
+title: "Delay-aware and Energy-Efficient Computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2103-07811/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Delay-aware and Energy-Efficient Computation Offloading in Mobile Edge Computing Using Deep Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

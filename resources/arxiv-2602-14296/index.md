@@ -1,3 +1,11 @@
+---
+title: "AutoWebWorld: Synthesizing Infinite… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-14296/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines
 
 AutoWebWorld turns finite-state task models into interactive websites whose actions and goal states can be checked programmatically. It generates verified trajectories for training and evaluates transfer to WebVoyager and Online-Mind2Web.
@@ -26,6 +34,18 @@ Yifan Wu, Yiran Peng, Yiyu Chen, Jianhao Ruan, Zijie Zhuang, Cheng Yang, Jiayi Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-14296/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-14296/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_14296,
+  title = {{AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines}},
+  author = {{Yifan Wu} and {Yiran Peng} and {Yiyu Chen} and {Jianhao Ruan} and {Zijie Zhuang} and {Cheng Yang} and {Jiayi Zhang} and {Man Chen} and {Yenchi Tseng} and {Zhaoyang Yu} and {Liang Chen} and {Yuyao Zhai} and {Bang Liu} and {Chenglin Wu} and {Yuyu Luo}},
+  year = {2026},
+  eprint = {2602.14296v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.14296v1},
+  note = {First published: 2026-02-15; Recorded arXiv version: v1; Recorded version updated: 2026-02-15T20:03:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

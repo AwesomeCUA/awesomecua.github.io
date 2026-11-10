@@ -1,3 +1,11 @@
+---
+title: "Agent Cursor & GroundSight · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dwstar79-agent-cursor/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Agent Cursor & GroundSight
 
 面向计算机使用智能体的精度引擎，将机器可读的光标叠加层（Agent Cursor）与本地视觉验证（GroundSight）结合。

@@ -1,3 +1,11 @@
+---
+title: "skillproof · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hccccc01333-skillproof/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # skillproof
 
 skillproof 录制一次人工浏览器演示，并将其编译为可重放的智能体技能，同时配备明确的完成验证器。

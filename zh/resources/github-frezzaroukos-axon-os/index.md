@@ -1,3 +1,11 @@
+---
+title: "AXON OS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-frezzaroukos-axon-os/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AXON OS
 
 面向 Linux 桌面自动化的本地优先、受策略约束的动作层，支持预览、审批和回滚凭据。

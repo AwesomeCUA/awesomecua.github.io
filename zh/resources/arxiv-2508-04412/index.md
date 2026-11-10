@@ -1,3 +1,11 @@
+---
+title: "Beyond Pixels: Exploring DOM… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-04412/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents
 
 D2Snap 精简序列化 DOM 观察，同时保留可操作元素及区分其用途的特征；研究在 Online-Mind2Web 抽样任务上比较网页智能体使用精简 DOM 和截图观察的表现。
@@ -27,6 +35,18 @@ Thassilo M. Schiepanski, Nicholas Piël
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-04412/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-04412/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_04412,
+  title = {{Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents}},
+  author = {{Thassilo M. Schiepanski} and {Nicholas Piël}},
+  year = {2025},
+  eprint = {2508.04412v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.04412v4},
+  note = {First published: 2025-08-06; Recorded arXiv version: v4; Recorded version updated: 2026-08-31T14:39:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

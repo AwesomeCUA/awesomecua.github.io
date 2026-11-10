@@ -1,3 +1,11 @@
+---
+title: "ChatDev: Communicative Agents for Software… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-07924/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ChatDev: Communicative Agents for Software Development
 
 Status: excluded from the active CUA catalog after scope review.

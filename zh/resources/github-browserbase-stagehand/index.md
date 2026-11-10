@@ -1,3 +1,11 @@
+---
+title: "Stagehand (github.com/browserbase/stageha… · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browserbase-stagehand/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # Stagehand
 
 结合代码和自然语言操作的浏览器自动化框架。

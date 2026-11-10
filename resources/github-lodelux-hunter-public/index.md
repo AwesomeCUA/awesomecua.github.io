@@ -1,3 +1,11 @@
+---
+title: "Hunter (Autonomous Job-Search Agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lodelux-hunter-public/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Hunter (Autonomous Job-Search Agent)
 
 Autonomous job-search and application browser agent with evidence-linked fit scoring and submission tracking.

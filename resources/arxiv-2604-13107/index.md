@@ -1,3 +1,11 @@
+---
+title: "Can Coding Agents Be General Agents? | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13107/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Can Coding Agents Be General Agents?
 
 Bibliographic record for Can Coding Agents Be General Agents?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Maksim Ivanov, Abhijay Rana, Gokul Prabhakaran
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-13107/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-13107/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_13107,
+  title = {{Can Coding Agents Be General Agents?}},
+  author = {{Maksim Ivanov} and {Abhijay Rana} and {Gokul Prabhakaran}},
+  year = {2026},
+  eprint = {2604.13107v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.13107v1},
+  note = {First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T22:39:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

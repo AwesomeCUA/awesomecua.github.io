@@ -1,3 +1,11 @@
+---
+title: "SCOUT: Synergizing Reasoning and Tool-Use for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-36201/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety
 
 Introduces SCOUT, a safety verifier that first derives task-specific completion and safety rubrics from a computer-use trajectory, then actively probes the resulting environment for evidence. It evaluates whether these two stages detect harmful consequences that screenshots alone can miss.
@@ -26,6 +34,18 @@ Jianxing Chen, Xiao Yu, Shipra Agrawal, Zhou Yu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-36201/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-36201/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36201,
+  title = {{SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety}},
+  author = {{Jianxing Chen} and {Xiao Yu} and {Shipra Agrawal} and {Zhou Yu}},
+  year = {2026},
+  eprint = {2609.36201v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36201v1},
+  note = {First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T20:01:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

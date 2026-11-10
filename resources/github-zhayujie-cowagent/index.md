@@ -1,3 +1,11 @@
+---
+title: "CowAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zhayujie-cowagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # CowAgent
 
 CowAgent is an open-source assistant that plans tasks and controls a computer, browser, and external services. It combines browser tools with memory, skills, and service integrations.

@@ -1,3 +1,11 @@
+---
+title: "World of Bits: An Open-Domain Platform… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-52a3261eb6a19b402e88/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # World of Bits: An Open-Domain Platform for Web-Based Agents
 
 提出 World of Bits 网页任务平台，结合人工演示、键盘和鼠标操作及缓存的 HTTP 流量构建可重复的任务环境，并评估通过行为克隆和强化学习训练的智能体。
@@ -27,6 +35,22 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 
 - BibTeX：https://awesomecua.com/resources/url-52a3261eb6a19b402e88/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-52a3261eb6a19b402e88/citation.csl.json
+
+```bibtex
+@inproceedings{cua_ba263493b78b0263c7933138,
+  title = {{World of Bits: An Open-Domain Platform for Web-Based Agents}},
+  author = {{Tianlin Shi} and {Andrej Karpathy} and {Linxi Fan} and {Jonathan Hernandez} and {Percy Liang}},
+  year = {2017},
+  month = jul,
+  booktitle = {Proceedings of the 34th International Conference on Machine Learning},
+  publisher = {PMLR},
+  series = {Proceedings of Machine Learning Research},
+  volume = {70},
+  pages = {3135-3144},
+  url = {https://proceedings.mlr.press/v70/shi17a.html},
+  note = {Publication date: 2017-07-17.}
+}
+```
 
 ## 发表记录
 

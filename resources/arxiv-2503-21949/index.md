@@ -1,3 +1,11 @@
+---
+title: "Reward Design for Reinforcement Learning Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-21949/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reward Design for Reinforcement Learning Agents
 
 Status: excluded from the active CUA catalog after scope review.

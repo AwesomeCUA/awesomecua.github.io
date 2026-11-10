@@ -1,3 +1,11 @@
+---
+title: "Pegoles Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zezortdx-pegoles-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Pegoles Agent
 
 Pegoles Agent runs a macOS computer-use controller against an isolated Linux virtual machine with deterministic pre-execution policy checks.

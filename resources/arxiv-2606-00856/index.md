@@ -1,3 +1,11 @@
+---
+title: "GCVE: A Decentralized Model for Vulnerability… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-00856/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GCVE: A Decentralized Model for Vulnerability Identification, Publication, and Operational Enrichment
 
 Status: excluded from the active CUA catalog after scope review.

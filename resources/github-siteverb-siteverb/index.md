@@ -1,3 +1,11 @@
+---
+title: "Siteverb | AwesomeCUA"
+url: https://awesomecua.com/resources/github-siteverb-siteverb/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Siteverb
 
 Toolkit for authoring, testing, and shipping verified WebMCP user journeys on web applications.

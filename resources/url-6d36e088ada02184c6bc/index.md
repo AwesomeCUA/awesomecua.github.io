@@ -1,3 +1,11 @@
+---
+title: "inclusionAI/UI-Venus-Navi-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6d36e088ada02184c6bc/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # inclusionAI/UI-Venus-Navi-7B
 
 A released UI agent checkpoint based on Qwen2.5-VL that takes screenshots and prior actions to predict GUI navigation actions and element locations.

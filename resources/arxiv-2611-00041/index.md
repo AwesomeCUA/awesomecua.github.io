@@ -1,3 +1,11 @@
+---
+title: "Think Before You Locate: Clinical… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-00041/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Think Before You Locate: Clinical Chain-of-Though Supervision for Sequential Medical Image Grounding
 
 Bibliographic record for Think Before You Locate: Clinical Chain-of-Though Supervision for Sequential Medical Image Grounding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Adinath Madhavrao Dukre, Govinda Kolli, Yifan Lu, Ziyun Zou, Azmine Toushik Wasi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-00041/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-00041/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00041,
+  title = {{Think Before You Locate: Clinical Chain-of-Though Supervision for Sequential Medical Image Grounding}},
+  author = {{Adinath Madhavrao Dukre} and {Govinda Kolli} and {Yifan Lu} and {Ziyun Zou} and {Azmine Toushik Wasi} and {Sara Atito} and {Behzad Bozorgtabar} and {Dwarikanath Mahapatra} and {Muhammad Awais} and {Imran Razzak}},
+  year = {2026},
+  eprint = {2611.00041v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00041v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T07:24:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "FSB v0.9.92 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-9b0e2c60bd772de53558/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # FSB v0.9.92
 
 Chrome extension for natural-language browser automation that accepts a user's request and browses on their behalf.

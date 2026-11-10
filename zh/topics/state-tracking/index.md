@@ -1,3 +1,11 @@
+---
+title: "状态追踪：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/state-tracking/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 状态追踪
 
 Reviewed topic membership; resources can appear in multiple topics.

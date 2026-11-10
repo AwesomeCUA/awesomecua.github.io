@@ -1,3 +1,11 @@
+---
+title: "Anchor · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-74a98d385b656cf5e980/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Anchor
 
 Anchor 为 AI 智能体提供云端浏览器环境，用于访问需登录的网站并执行浏览器任务，支持通过 SDK 和 MCP 集成。

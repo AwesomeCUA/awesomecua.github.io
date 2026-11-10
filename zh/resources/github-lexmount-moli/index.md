@@ -1,3 +1,11 @@
+---
+title: "Moli · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lexmount-moli/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Moli
 
 面向 AI 智能体的无界面浏览器，可提取网页内容并通过命令行、CDP 和 WebDriver 执行浏览器任务，按需进行渲染。

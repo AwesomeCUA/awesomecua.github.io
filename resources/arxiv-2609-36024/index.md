@@ -1,3 +1,11 @@
+---
+title: "CoDimRecon: Agentic Reconstruction of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-36024/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes
 
 Bibliographic record for CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Shuzhao Xie, Lelin Wang, Guying Lin, Zhi Wang, Minchen Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-36024/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-36024/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36024,
+  title = {{CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes}},
+  author = {{Shuzhao Xie} and {Lelin Wang} and {Guying Lin} and {Zhi Wang} and {Minchen Li}},
+  year = {2026},
+  eprint = {2609.36024v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36024v3},
+  note = {First published: 2026-09-28; Recorded arXiv version: v3; Recorded version updated: 2026-10-03T09:21:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

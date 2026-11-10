@@ -1,3 +1,11 @@
+---
+title: "Universal AI Studio (OmniAI Desktop) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osamalvzx-universal-ai-studio/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Universal AI Studio (OmniAI Desktop)
 
 一体化桌面 AI 工作室，集成多模型 LLM 聊天、计算机使用和浏览器自动化。

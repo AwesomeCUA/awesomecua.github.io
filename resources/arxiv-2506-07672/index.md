@@ -1,3 +1,11 @@
+---
+title: "MCPWorld: A Unified Benchmarking Testbed for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-07672/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents
 
 MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in applications whose source can be instrumented and extended with MCP support. It verifies completion from application behavior and packages the testbed in containers with GPU support.
@@ -26,6 +34,18 @@ Yunhe Yan, Shihe Wang, Jiajun Du, Yexuan Yang, Yuxuan Shan, Qichen Qiu, Xianqing
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-07672/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-07672/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_07672,
+  title = {{MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents}},
+  author = {{Yunhe Yan} and {Shihe Wang} and {Jiajun Du} and {Yexuan Yang} and {Yuxuan Shan} and {Qichen Qiu} and {Xianqing Jia} and {Xinge Wang} and {Xin Yuan} and {Xu Han} and {Mao Qin} and {Yinxiao Chen} and {Chen Peng} and {Shangguang Wang} and {Mengwei Xu}},
+  year = {2025},
+  eprint = {2506.07672v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.07672v1},
+  note = {First published: 2025-06-09; Recorded arXiv version: v1; Recorded version updated: 2025-06-09T11:50:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

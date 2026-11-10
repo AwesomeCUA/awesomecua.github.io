@@ -1,3 +1,11 @@
+---
+title: "WebMCP (github.com/jasonjmcghee/WebMCP) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jasonjmcghee-webmcp/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # WebMCP
 
 An early WebMCP proposal and code: a script widget on a website registers its tools, resources and prompts, which MCP clients reach through a token-secured localhost WebSocket server.

@@ -1,3 +1,11 @@
+---
+title: "Agentless · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openautocoder-agentless/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Agentless
 
 Agentless 通过定位、修复和补丁验证三个阶段的流程解决软件工程问题。

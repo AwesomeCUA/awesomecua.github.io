@@ -1,3 +1,11 @@
+---
+title: "vnc-remote-control · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bitranox-vnc-remote-control/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # vnc-remote-control
 
 感知布局的 VNC/RFB 远程控制 CLI，可对任意 VNC 服务器进行输入、点击、截图捕获和 OCR。

@@ -1,3 +1,11 @@
+---
+title: "FIVE-UI-Evol · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-five-ui-evol/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # FIVE-UI-Evol
 
 Microsoft 单体代码库，涵盖 InfiniteWeb 网站与任务评估器合成、UI-E2I-Synth 元素定位评估脚本、UI-I2E-Bench 排行榜及 UI-Evol 基于轨迹的知识改进。

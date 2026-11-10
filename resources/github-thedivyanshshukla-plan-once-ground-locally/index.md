@@ -1,3 +1,11 @@
+---
+title: "fast-automation (Plan-Once Ground-Locally) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # fast-automation (Plan-Once Ground-Locally)
 
 Compares plan-once local-grounding web agents against step-by-step ReAct loops across a 200-task benchmark and 2,800 recorded runs.

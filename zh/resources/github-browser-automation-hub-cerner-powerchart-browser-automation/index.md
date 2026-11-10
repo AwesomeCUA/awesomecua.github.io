@@ -1,3 +1,11 @@
+---
+title: "Cerner PowerChart Browser Automation · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-automation-hub-cerner-powerchart-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Cerner PowerChart Browser Automation
 
 面向 Cerner PowerChart 的浏览器自动化脚手架，提供登录、患者检索、结果、医嘱和文档导出等操作，并列出元素选择器参考信息。
