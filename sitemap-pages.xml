@@ -9,6 +9,9 @@
   </url>
   <url>
     <loc>https://awesomecua.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/about/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/about/" />
   </url>
   <url>
     <loc>https://awesomecua.com/agents/</loc>
@@ -19,25 +22,43 @@
   <url>
     <loc>https://awesomecua.com/api/</loc>
     <lastmod>2026-11-10T00:34:12Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/api/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/api/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/api/" />
   </url>
   <url>
     <loc>https://awesomecua.com/badges/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/badges/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/badges/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/badges/" />
   </url>
   <url>
     <loc>https://awesomecua.com/connections/</loc>
     <lastmod>2026-11-09T21:10:54Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/connections/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/connections/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/connections/" />
   </url>
   <url>
     <loc>https://awesomecua.com/connections/page/2/</loc>
     <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/connections/page/2/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/connections/page/2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/connections/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/connections/page/3/</loc>
     <lastmod>2026-11-09T21:11:49Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/connections/page/3/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/connections/page/3/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/connections/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/coverage/</loc>
     <lastmod>2026-11-10T00:34:12Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/coverage/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/coverage/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/coverage/" />
   </url>
   <url>
     <loc>https://awesomecua.com/data/</loc>
@@ -48,19 +69,34 @@
   </url>
   <url>
     <loc>https://awesomecua.com/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/" />
   </url>
   <url>
     <loc>https://awesomecua.com/guides/gui-agent-benchmarks/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/gui-agent-benchmarks/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/gui-agent-benchmarks/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/gui-agent-benchmarks/" />
   </url>
   <url>
     <loc>https://awesomecua.com/guides/gui-agent-training-data/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/gui-agent-training-data/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/gui-agent-training-data/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/gui-agent-training-data/" />
   </url>
   <url>
     <loc>https://awesomecua.com/guides/what-are-computer-use-agents/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/what-are-computer-use-agents/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/what-are-computer-use-agents/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/what-are-computer-use-agents/" />
   </url>
   <url>
     <loc>https://awesomecua.com/updates/</loc>
     <lastmod>2026-11-10T00:35:36Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/updates/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/updates/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/updates/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/</loc>
@@ -70,10 +106,71 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/" />
   </url>
   <url>
+    <loc>https://awesomecua.com/zh/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/about/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/about/" />
+  </url>
+  <url>
     <loc>https://awesomecua.com/zh/agents/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/agents/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/agents/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/agents/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/api/</loc>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/api/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/api/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/api/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/badges/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/badges/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/badges/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/badges/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/compare/benchmarks/</loc>
+    <lastmod>2026-11-09T21:12:08Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/compare/benchmarks/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/compare/benchmarks/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/compare/benchmarks/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/compare/datasets/</loc>
+    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/compare/datasets/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/compare/datasets/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/compare/datasets/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/connections/</loc>
+    <lastmod>2026-11-09T21:10:54Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/connections/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/connections/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/connections/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/connections/page/2/</loc>
+    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/connections/page/2/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/connections/page/2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/connections/page/2/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/connections/page/3/</loc>
+    <lastmod>2026-11-09T21:11:49Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/connections/page/3/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/connections/page/3/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/connections/page/3/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/coverage/</loc>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/coverage/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/coverage/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/coverage/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/data/</loc>
@@ -81,5 +178,43 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/data/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/data/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/data/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/guides/gui-agent-benchmarks/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/gui-agent-benchmarks/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/gui-agent-benchmarks/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/gui-agent-benchmarks/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/guides/gui-agent-training-data/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/gui-agent-training-data/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/gui-agent-training-data/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/gui-agent-training-data/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/guides/what-are-computer-use-agents/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/guides/what-are-computer-use-agents/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/guides/what-are-computer-use-agents/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/guides/what-are-computer-use-agents/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/survey/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/survey/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/survey/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/survey/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/updates/</loc>
+    <lastmod>2026-11-10T00:35:36Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/updates/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/updates/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/updates/" />
   </url>
 </urlset>

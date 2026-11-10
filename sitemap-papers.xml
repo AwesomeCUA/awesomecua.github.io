@@ -12232,6 +12232,9 @@
   <url>
     <loc>https://awesomecua.com/survey/</loc>
     <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/survey/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/survey/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/survey/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/papers/</loc>

@@ -5484,7 +5484,10 @@ https://awesomecua.com/topics/world-models/
 https://awesomecua.com/topics/world-models/page/2/
 https://awesomecua.com/updates/
 https://awesomecua.com/zh/
+https://awesomecua.com/zh/about/
 https://awesomecua.com/zh/agents/
+https://awesomecua.com/zh/api/
+https://awesomecua.com/zh/badges/
 https://awesomecua.com/zh/catalog/
 https://awesomecua.com/zh/categories/agent/
 https://awesomecua.com/zh/categories/agent/page/2/
@@ -5525,7 +5528,17 @@ https://awesomecua.com/zh/categories/tool/page/6/
 https://awesomecua.com/zh/categories/tool/page/7/
 https://awesomecua.com/zh/categories/tool/page/8/
 https://awesomecua.com/zh/categories/tool/page/9/
+https://awesomecua.com/zh/compare/benchmarks/
+https://awesomecua.com/zh/compare/datasets/
+https://awesomecua.com/zh/connections/
+https://awesomecua.com/zh/connections/page/2/
+https://awesomecua.com/zh/connections/page/3/
+https://awesomecua.com/zh/coverage/
 https://awesomecua.com/zh/data/
+https://awesomecua.com/zh/guides/
+https://awesomecua.com/zh/guides/gui-agent-benchmarks/
+https://awesomecua.com/zh/guides/gui-agent-training-data/
+https://awesomecua.com/zh/guides/what-are-computer-use-agents/
 https://awesomecua.com/zh/papers/
 https://awesomecua.com/zh/papers/page/10/
 https://awesomecua.com/zh/papers/page/11/
@@ -10670,6 +10683,7 @@ https://awesomecua.com/zh/resources/url-fec1c5aa8fd93cb78923/
 https://awesomecua.com/zh/resources/url-ff7b1873a3eead89607a/
 https://awesomecua.com/zh/resources/url-ffc05c4425f777924940/
 https://awesomecua.com/zh/resources/url-ffe40334f1050b94f8b2/
+https://awesomecua.com/zh/survey/
 https://awesomecua.com/zh/topics/
 https://awesomecua.com/zh/topics/action-prediction/
 https://awesomecua.com/zh/topics/action-prediction/page/2/
@@ -10952,3 +10966,4 @@ https://awesomecua.com/zh/topics/workflow/page/8/
 https://awesomecua.com/zh/topics/workflow/page/9/
 https://awesomecua.com/zh/topics/world-models/
 https://awesomecua.com/zh/topics/world-models/page/2/
+https://awesomecua.com/zh/updates/
