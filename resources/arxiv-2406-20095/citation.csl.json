@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2406.20095",
+  "citation-key": "arxiv_2406_20095",
+  "type": "article",
+  "title": "LLaRA: Supercharging Robot Learning Data for Vision-Language Policy",
+  "URL": "https://arxiv.org/abs/2406.20095v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.20095",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.20095",
+    "identifiers": {
+      "arxiv": "2406.20095"
+    },
+    "first_published_at": "2024-06-28",
+    "record_updated_at": "2025-01-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6449f19e7b20aa978552942e174a95bdd9eb1ddadea45c6e82c5f7fe17015c99",
+      "submitted_at": "2024-06-28T17:59:12Z",
+      "updated_at": "2025-01-30T17:34:37Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.20095v3"
+    }
+  },
+  "note": "First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2025-01-30T17:34:37Z.",
+  "author": [
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Cristina Mata"
+    },
+    {
+      "literal": "Jongwoo Park"
+    },
+    {
+      "literal": "Kumara Kahatapitiya"
+    },
+    {
+      "literal": "Yoo Sung Jang"
+    },
+    {
+      "literal": "Jinghuan Shang"
+    },
+    {
+      "literal": "Kanchana Ranasinghe"
+    },
+    {
+      "literal": "Ryan Burgert"
+    },
+    {
+      "literal": "Mu Cai"
+    },
+    {
+      "literal": "Yong Jae Lee"
+    },
+    {
+      "literal": "Michael S. Ryoo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.20095",
+  "genre": "preprint",
+  "version": "3"
+}

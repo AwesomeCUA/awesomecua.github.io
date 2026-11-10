@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.13381",
+  "citation-key": "arxiv_2406_13381",
+  "type": "article",
+  "title": "CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration",
+  "URL": "https://arxiv.org/abs/2406.13381v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.13381",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.13381",
+    "identifiers": {
+      "arxiv": "2406.13381"
+    },
+    "first_published_at": "2024-06-19",
+    "record_updated_at": "2024-06-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "49c1a98155953c7603c5516babd5c7ea89bf6b64dce8309f4693ffdef2a3c357",
+      "submitted_at": "2024-06-19T09:23:53Z",
+      "updated_at": "2024-06-19T09:23:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.13381v1"
+    }
+  },
+  "note": "First published: 2024-06-19; Recorded arXiv version: v1; Recorded version updated: 2024-06-19T09:23:53Z.",
+  "author": [
+    {
+      "literal": "Xinming Hou"
+    },
+    {
+      "literal": "Mingming Yang"
+    },
+    {
+      "literal": "Wenxiang Jiao"
+    },
+    {
+      "literal": "Xing Wang"
+    },
+    {
+      "literal": "Zhaopeng Tu"
+    },
+    {
+      "literal": "Wayne Xin Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.13381",
+  "genre": "preprint",
+  "version": "1"
+}

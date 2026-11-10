@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2502.13685",
+  "citation-key": "arxiv_2502_13685",
+  "type": "article",
+  "title": "MoM: Linear Sequence Modeling with Mixture-of-Memories",
+  "URL": "https://arxiv.org/abs/2502.13685v4",
+  "custom": {
+    "catalog_id": "arxiv:2502.13685",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.13685",
+    "identifiers": {
+      "arxiv": "2502.13685"
+    },
+    "first_published_at": "2025-02-19",
+    "record_updated_at": "2025-11-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8837d35b3783c16f66e3a07a3467ee42208448444e21c592620ba492e62c2ad1",
+      "submitted_at": "2025-02-19T12:53:55Z",
+      "updated_at": "2025-11-18T13:02:48Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2502.13685v4"
+    }
+  },
+  "note": "First published: 2025-02-19; Recorded arXiv version: v4; Recorded version updated: 2025-11-18T13:02:48Z.",
+  "author": [
+    {
+      "literal": "Jusen Du"
+    },
+    {
+      "literal": "Weigao Sun"
+    },
+    {
+      "literal": "Disen Lan"
+    },
+    {
+      "literal": "Jiaxi Hu"
+    },
+    {
+      "literal": "Yu Cheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.13685",
+  "genre": "preprint",
+  "version": "4"
+}

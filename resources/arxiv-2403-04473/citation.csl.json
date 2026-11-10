@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2403.04473",
+  "citation-key": "arxiv_2403_04473",
+  "type": "article",
+  "title": "TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document",
+  "URL": "https://arxiv.org/abs/2403.04473v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.04473",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.04473",
+    "identifiers": {
+      "arxiv": "2403.04473"
+    },
+    "first_published_at": "2024-03-07",
+    "record_updated_at": "2024-03-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "590e523760fbadb20b2fe40c17503629474a470a524491e638d391fbc5d10d2c",
+      "submitted_at": "2024-03-07T13:16:24Z",
+      "updated_at": "2024-03-15T06:51:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.04473v2"
+    }
+  },
+  "note": "First published: 2024-03-07; Recorded arXiv version: v2; Recorded version updated: 2024-03-15T06:51:30Z.",
+  "author": [
+    {
+      "literal": "Yuliang Liu"
+    },
+    {
+      "literal": "Biao Yang"
+    },
+    {
+      "literal": "Qiang Liu"
+    },
+    {
+      "literal": "Zhang Li"
+    },
+    {
+      "literal": "Zhiyin Ma"
+    },
+    {
+      "literal": "Shuo Zhang"
+    },
+    {
+      "literal": "Xiang Bai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.04473",
+  "genre": "preprint",
+  "version": "2"
+}

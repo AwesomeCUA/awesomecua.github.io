@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2203.07828",
+  "citation-key": "arxiv_2203_07828",
+  "type": "article",
+  "title": "Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs",
+  "URL": "https://arxiv.org/abs/2203.07828v1",
+  "custom": {
+    "catalog_id": "arxiv:2203.07828",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2203.07828",
+    "identifiers": {
+      "arxiv": "2203.07828"
+    },
+    "first_published_at": "2022-03-15",
+    "record_updated_at": "2022-03-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a310512be19258c9eb66745ab46d5d02e8bf194d5e80d3e6d04960894759fc43",
+      "submitted_at": "2022-03-15T12:32:28Z",
+      "updated_at": "2022-03-15T12:32:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2203.07828v1"
+    }
+  },
+  "note": "First published: 2022-03-15; Recorded arXiv version: v1; Recorded version updated: 2022-03-15T12:32:28Z.",
+  "author": [
+    {
+      "literal": "Taichi Iki"
+    },
+    {
+      "literal": "Akiko Aizawa"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2203.07828",
+  "genre": "preprint",
+  "version": "1"
+}

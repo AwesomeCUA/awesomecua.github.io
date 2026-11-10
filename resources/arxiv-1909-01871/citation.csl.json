@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1909.01871",
+  "citation-key": "arxiv_1909_01871",
+  "type": "article",
+  "title": "Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning",
+  "URL": "https://arxiv.org/abs/1909.01871v6",
+  "custom": {
+    "catalog_id": "arxiv:1909.01871",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1909.01871",
+    "identifiers": {
+      "arxiv": "1909.01871"
+    },
+    "first_published_at": "2019-09-04",
+    "record_updated_at": "2019-11-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "11d4682a40127177ea6b093aeaa7bf79ca2ec142b25f1a906ea6040da5d0c714",
+      "submitted_at": "2019-09-04T15:20:01Z",
+      "updated_at": "2019-11-22T16:11:17Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/1909.01871v6"
+    }
+  },
+  "note": "First published: 2019-09-04; Recorded arXiv version: v6; Recorded version updated: 2019-11-22T16:11:17Z.",
+  "author": [
+    {
+      "literal": "Khanh Nguyen"
+    },
+    {
+      "literal": "Hal Daumé"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        9,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1909.01871",
+  "genre": "preprint",
+  "version": "6"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2211.03267",
+  "citation-key": "arxiv_2211_03267",
+  "type": "article",
+  "title": "Prompter: Utilizing Large Language Model Prompting for a Data Efficient Embodied Instruction Following",
+  "URL": "https://arxiv.org/abs/2211.03267v2",
+  "custom": {
+    "catalog_id": "arxiv:2211.03267",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2211.03267",
+    "identifiers": {
+      "arxiv": "2211.03267"
+    },
+    "first_published_at": "2022-11-07",
+    "record_updated_at": "2024-03-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6eb57a8b9cf6e0c84a3f61a6dae694fd74a030c307304c6f629882a4509ffc4a",
+      "submitted_at": "2022-11-07T02:24:39Z",
+      "updated_at": "2024-03-12T09:01:54Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2211.03267v2"
+    }
+  },
+  "note": "First published: 2022-11-07; Recorded arXiv version: v2; Recorded version updated: 2024-03-12T09:01:54Z.",
+  "author": [
+    {
+      "literal": "Yuki Inoue"
+    },
+    {
+      "literal": "Hiroki Ohashi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2211.03267",
+  "genre": "preprint",
+  "version": "2"
+}

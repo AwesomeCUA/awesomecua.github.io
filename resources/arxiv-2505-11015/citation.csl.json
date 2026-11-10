@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2505.11015",
+  "citation-key": "arxiv_2505_11015",
+  "type": "article",
+  "title": "WildDoc: How Far Are We from Achieving Comprehensive and Robust Document Understanding in the Wild?",
+  "URL": "https://arxiv.org/abs/2505.11015v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.11015",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.11015",
+    "identifiers": {
+      "arxiv": "2505.11015"
+    },
+    "first_published_at": "2025-05-16",
+    "record_updated_at": "2025-05-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9cbb7b59144ccec62d0bd63904f0a7932236fe652b0a4f58e31c2b8dcc67b269",
+      "submitted_at": "2025-05-16T09:09:46Z",
+      "updated_at": "2025-05-27T08:00:24Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.11015v2"
+    }
+  },
+  "note": "First published: 2025-05-16; Recorded arXiv version: v2; Recorded version updated: 2025-05-27T08:00:24Z.",
+  "author": [
+    {
+      "literal": "An-Lan Wang"
+    },
+    {
+      "literal": "Jingqun Tang"
+    },
+    {
+      "literal": "Liao Lei"
+    },
+    {
+      "literal": "Hao Feng"
+    },
+    {
+      "literal": "Qi Liu"
+    },
+    {
+      "literal": "Xiang Fei"
+    },
+    {
+      "literal": "Jinghui Lu"
+    },
+    {
+      "literal": "Han Wang"
+    },
+    {
+      "literal": "Weiwei Liu"
+    },
+    {
+      "literal": "Hao Liu"
+    },
+    {
+      "literal": "Yuliang Liu"
+    },
+    {
+      "literal": "Xiang Bai"
+    },
+    {
+      "literal": "Can Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.11015",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2312.10763",
+  "citation-key": "arxiv_2312_10763",
+  "type": "article",
+  "title": "M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts",
+  "URL": "https://arxiv.org/abs/2312.10763v1",
+  "custom": {
+    "catalog_id": "arxiv:2312.10763",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.10763",
+    "identifiers": {
+      "arxiv": "2312.10763"
+    },
+    "first_published_at": "2023-12-17",
+    "record_updated_at": "2023-12-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59613d00f366386dc0569238991ba5dba35a95aa07061c1bb0ce0fc73d1cac50",
+      "submitted_at": "2023-12-17T16:53:30Z",
+      "updated_at": "2023-12-17T16:53:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2312.10763v1"
+    }
+  },
+  "note": "First published: 2023-12-17; Recorded arXiv version: v1; Recorded version updated: 2023-12-17T16:53:30Z.",
+  "author": [
+    {
+      "literal": "Mingsheng Li"
+    },
+    {
+      "literal": "Xin Chen"
+    },
+    {
+      "literal": "Chi Zhang"
+    },
+    {
+      "literal": "Sijin Chen"
+    },
+    {
+      "literal": "Hongyuan Zhu"
+    },
+    {
+      "literal": "Fukun Yin"
+    },
+    {
+      "literal": "Gang Yu"
+    },
+    {
+      "literal": "Tao Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.10763",
+  "genre": "preprint",
+  "version": "1"
+}

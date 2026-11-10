@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2501.00217",
+  "citation-key": "arxiv_2501_00217",
+  "type": "article",
+  "title": "The Potential of LLMs in Automating Software Testing: From Generation to Reporting",
+  "URL": "https://arxiv.org/abs/2501.00217v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.00217",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.00217",
+    "identifiers": {
+      "arxiv": "2501.00217"
+    },
+    "first_published_at": "2024-12-31",
+    "record_updated_at": "2024-12-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e07929495528b815487a27e8cd5a6555591917ddea4b15a5732d47a01b45bb6d",
+      "submitted_at": "2024-12-31T02:06:46Z",
+      "updated_at": "2024-12-31T02:06:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.00217v1"
+    }
+  },
+  "note": "First published: 2024-12-31; Recorded arXiv version: v1; Recorded version updated: 2024-12-31T02:06:46Z.",
+  "author": [
+    {
+      "literal": "Betim Sherifi"
+    },
+    {
+      "literal": "Khaled Slhoub"
+    },
+    {
+      "literal": "Fitzroy Nembhard"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.00217",
+  "genre": "preprint",
+  "version": "1"
+}

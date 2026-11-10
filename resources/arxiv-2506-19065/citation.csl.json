@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2506.19065",
+  "citation-key": "arxiv_2506_19065",
+  "type": "article",
+  "title": "LEGATO: Large-scale End-to-end Generalizable Approach to Typeset OMR",
+  "URL": "https://arxiv.org/abs/2506.19065v3",
+  "custom": {
+    "catalog_id": "arxiv:2506.19065",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.19065",
+    "identifiers": {
+      "arxiv": "2506.19065"
+    },
+    "first_published_at": "2025-06-23",
+    "record_updated_at": "2026-09-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e9f15c73595dfccc25819b45c9cbb0c1adb88b9c90f02d5b3a3c6340db50709b",
+      "submitted_at": "2025-06-23T19:35:59Z",
+      "updated_at": "2026-09-27T07:11:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2506.19065v3"
+    }
+  },
+  "note": "First published: 2025-06-23; Recorded arXiv version: v3; Recorded version updated: 2026-09-27T07:11:57Z.",
+  "author": [
+    {
+      "literal": "Guang Yang"
+    },
+    {
+      "literal": "Victoria Ebert"
+    },
+    {
+      "literal": "Nazif Can Tamer"
+    },
+    {
+      "literal": "Brian Siyuan Zheng"
+    },
+    {
+      "literal": "Luiza Amador Pozzobon"
+    },
+    {
+      "literal": "Noah A. Smith"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.19065",
+  "genre": "preprint",
+  "version": "3"
+}

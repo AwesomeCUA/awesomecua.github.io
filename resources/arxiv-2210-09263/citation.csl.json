@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2210.09263",
+  "citation-key": "arxiv_2210_09263",
+  "type": "article",
+  "title": "Vision-Language Pre-training: Basics, Recent Advances, and Future Trends",
+  "URL": "https://arxiv.org/abs/2210.09263v1",
+  "custom": {
+    "catalog_id": "arxiv:2210.09263",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2210.09263",
+    "identifiers": {
+      "arxiv": "2210.09263"
+    },
+    "first_published_at": "2022-10-17",
+    "record_updated_at": "2022-10-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "91ebb90d1a4d7adc48e04c986fa5f1652b4ac710264bd8159812533d34cfe834",
+      "submitted_at": "2022-10-17T17:11:36Z",
+      "updated_at": "2022-10-17T17:11:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2210.09263v1"
+    }
+  },
+  "note": "First published: 2022-10-17; Recorded arXiv version: v1; Recorded version updated: 2022-10-17T17:11:36Z.",
+  "author": [
+    {
+      "literal": "Zhe Gan"
+    },
+    {
+      "literal": "Linjie Li"
+    },
+    {
+      "literal": "Chunyuan Li"
+    },
+    {
+      "literal": "Lijuan Wang"
+    },
+    {
+      "literal": "Zicheng Liu"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2210.09263",
+  "genre": "preprint",
+  "version": "1"
+}

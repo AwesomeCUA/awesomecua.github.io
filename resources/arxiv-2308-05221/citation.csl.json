@@ -1,0 +1,169 @@
+{
+  "id": "arxiv:2308.05221",
+  "citation-key": "arxiv_2308_05221",
+  "type": "article",
+  "title": "Alexa, play with robot: Introducing the First Alexa Prize SimBot Challenge on Embodied AI",
+  "URL": "https://arxiv.org/abs/2308.05221v1",
+  "custom": {
+    "catalog_id": "arxiv:2308.05221",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.05221",
+    "identifiers": {
+      "arxiv": "2308.05221"
+    },
+    "first_published_at": "2023-08-09",
+    "record_updated_at": "2023-08-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15e691e5440ff9c3cadd6c431bbbc55f8a4e8c739af3577f1dd574d314bf62ed",
+      "submitted_at": "2023-08-09T20:56:56Z",
+      "updated_at": "2023-08-09T20:56:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2308.05221v1"
+    }
+  },
+  "note": "First published: 2023-08-09; Recorded arXiv version: v1; Recorded version updated: 2023-08-09T20:56:56Z.",
+  "author": [
+    {
+      "literal": "Hangjie Shi"
+    },
+    {
+      "literal": "Leslie Ball"
+    },
+    {
+      "literal": "Govind Thattai"
+    },
+    {
+      "literal": "Desheng Zhang"
+    },
+    {
+      "literal": "Lucy Hu"
+    },
+    {
+      "literal": "Qiaozi Gao"
+    },
+    {
+      "literal": "Suhaila Shakiah"
+    },
+    {
+      "literal": "Xiaofeng Gao"
+    },
+    {
+      "literal": "Aishwarya Padmakumar"
+    },
+    {
+      "literal": "Bofei Yang"
+    },
+    {
+      "literal": "Cadence Chung"
+    },
+    {
+      "literal": "Dinakar Guthy"
+    },
+    {
+      "literal": "Gaurav Sukhatme"
+    },
+    {
+      "literal": "Karthika Arumugam"
+    },
+    {
+      "literal": "Matthew Wen"
+    },
+    {
+      "literal": "Osman Ipek"
+    },
+    {
+      "literal": "Patrick Lange"
+    },
+    {
+      "literal": "Rohan Khanna"
+    },
+    {
+      "literal": "Shreyas Pansare"
+    },
+    {
+      "literal": "Vasu Sharma"
+    },
+    {
+      "literal": "Chao Zhang"
+    },
+    {
+      "literal": "Cris Flagg"
+    },
+    {
+      "literal": "Daniel Pressel"
+    },
+    {
+      "literal": "Lavina Vaz"
+    },
+    {
+      "literal": "Luke Dai"
+    },
+    {
+      "literal": "Prasoon Goyal"
+    },
+    {
+      "literal": "Sattvik Sahai"
+    },
+    {
+      "literal": "Shaohua Liu"
+    },
+    {
+      "literal": "Yao Lu"
+    },
+    {
+      "literal": "Anna Gottardi"
+    },
+    {
+      "literal": "Shui Hu"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Dilek Hakkani-Tur"
+    },
+    {
+      "literal": "Kate Bland"
+    },
+    {
+      "literal": "Heather Rocker"
+    },
+    {
+      "literal": "James Jeun"
+    },
+    {
+      "literal": "Yadunandana Rao"
+    },
+    {
+      "literal": "Michael Johnston"
+    },
+    {
+      "literal": "Akshaya Iyengar"
+    },
+    {
+      "literal": "Arindam Mandal"
+    },
+    {
+      "literal": "Prem Natarajan"
+    },
+    {
+      "literal": "Reza Ghanadan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.05221",
+  "genre": "preprint",
+  "version": "1"
+}

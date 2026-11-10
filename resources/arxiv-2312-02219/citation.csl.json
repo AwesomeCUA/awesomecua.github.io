@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2312.02219",
+  "citation-key": "arxiv_2312_02219",
+  "type": "article",
+  "title": "Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models",
+  "URL": "https://arxiv.org/abs/2312.02219v3",
+  "custom": {
+    "catalog_id": "arxiv:2312.02219",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.02219",
+    "identifiers": {
+      "arxiv": "2312.02219"
+    },
+    "first_published_at": "2023-12-03",
+    "record_updated_at": "2025-05-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6c989cb13acb236686a09361a0cdcd80535ccd4bf9d95c90e84fc4a11e55c47f",
+      "submitted_at": "2023-12-03T16:39:36Z",
+      "updated_at": "2025-05-30T11:40:41Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2312.02219v3"
+    }
+  },
+  "note": "First published: 2023-12-03; Recorded arXiv version: v3; Recorded version updated: 2025-05-30T11:40:41Z.",
+  "author": [
+    {
+      "literal": "Andrés Villa"
+    },
+    {
+      "literal": "Juan Carlos León Alcázar"
+    },
+    {
+      "literal": "Alvaro Soto"
+    },
+    {
+      "literal": "Bernard Ghanem"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.02219",
+  "genre": "preprint",
+  "version": "3"
+}

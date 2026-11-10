@@ -1,0 +1,160 @@
+{
+  "id": "arxiv:2210.06849",
+  "citation-key": "arxiv_2210_06849",
+  "type": "article",
+  "title": "Retrospectives on the Embodied AI Workshop",
+  "URL": "https://arxiv.org/abs/2210.06849v3",
+  "custom": {
+    "catalog_id": "arxiv:2210.06849",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2210.06849",
+    "identifiers": {
+      "arxiv": "2210.06849"
+    },
+    "first_published_at": "2022-10-13",
+    "record_updated_at": "2022-12-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "58224b898b180ca731190f32727a6981582f69e7d7d99f0033c290d3a6bdf262",
+      "submitted_at": "2022-10-13T09:00:52Z",
+      "updated_at": "2022-12-05T04:52:40Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2210.06849v3"
+    }
+  },
+  "note": "First published: 2022-10-13; Recorded arXiv version: v3; Recorded version updated: 2022-12-05T04:52:40Z.",
+  "author": [
+    {
+      "literal": "Matt Deitke"
+    },
+    {
+      "literal": "Dhruv Batra"
+    },
+    {
+      "literal": "Yonatan Bisk"
+    },
+    {
+      "literal": "Tommaso Campari"
+    },
+    {
+      "literal": "Angel X. Chang"
+    },
+    {
+      "literal": "Devendra Singh Chaplot"
+    },
+    {
+      "literal": "Changan Chen"
+    },
+    {
+      "literal": "Claudia Pérez D'Arpino"
+    },
+    {
+      "literal": "Kiana Ehsani"
+    },
+    {
+      "literal": "Ali Farhadi"
+    },
+    {
+      "literal": "Li Fei-Fei"
+    },
+    {
+      "literal": "Anthony Francis"
+    },
+    {
+      "literal": "Chuang Gan"
+    },
+    {
+      "literal": "Kristen Grauman"
+    },
+    {
+      "literal": "David Hall"
+    },
+    {
+      "literal": "Winson Han"
+    },
+    {
+      "literal": "Unnat Jain"
+    },
+    {
+      "literal": "Aniruddha Kembhavi"
+    },
+    {
+      "literal": "Jacob Krantz"
+    },
+    {
+      "literal": "Stefan Lee"
+    },
+    {
+      "literal": "Chengshu Li"
+    },
+    {
+      "literal": "Sagnik Majumder"
+    },
+    {
+      "literal": "Oleksandr Maksymets"
+    },
+    {
+      "literal": "Roberto Martín-Martín"
+    },
+    {
+      "literal": "Roozbeh Mottaghi"
+    },
+    {
+      "literal": "Sonia Raychaudhuri"
+    },
+    {
+      "literal": "Mike Roberts"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Manolis Savva"
+    },
+    {
+      "literal": "Mohit Shridhar"
+    },
+    {
+      "literal": "Niko Sünderhauf"
+    },
+    {
+      "literal": "Andrew Szot"
+    },
+    {
+      "literal": "Ben Talbot"
+    },
+    {
+      "literal": "Joshua B. Tenenbaum"
+    },
+    {
+      "literal": "Jesse Thomason"
+    },
+    {
+      "literal": "Alexander Toshev"
+    },
+    {
+      "literal": "Joanne Truong"
+    },
+    {
+      "literal": "Luca Weihs"
+    },
+    {
+      "literal": "Jiajun Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2210.06849",
+  "genre": "preprint",
+  "version": "3"
+}

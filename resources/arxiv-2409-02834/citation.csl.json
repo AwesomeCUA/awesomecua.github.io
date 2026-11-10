@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2409.02834",
+  "citation-key": "arxiv_2409_02834",
+  "type": "article",
+  "title": "CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models",
+  "URL": "https://arxiv.org/abs/2409.02834v3",
+  "custom": {
+    "catalog_id": "arxiv:2409.02834",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.02834",
+    "identifiers": {
+      "arxiv": "2409.02834"
+    },
+    "first_published_at": "2024-09-04",
+    "record_updated_at": "2024-11-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1348dc668ba7c0abdaac5a54aa0cdbb3f459f9e9efa39cfb683a223a5ce1ac8d",
+      "submitted_at": "2024-09-04T16:00:21Z",
+      "updated_at": "2024-11-01T02:21:13Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2409.02834v3"
+    }
+  },
+  "note": "First published: 2024-09-04; Recorded arXiv version: v3; Recorded version updated: 2024-11-01T02:21:13Z.",
+  "author": [
+    {
+      "literal": "Wentao Liu"
+    },
+    {
+      "literal": "Qianjun Pan"
+    },
+    {
+      "literal": "Yi Zhang"
+    },
+    {
+      "literal": "Zhuo Liu"
+    },
+    {
+      "literal": "Ji Wu"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Aimin Zhou"
+    },
+    {
+      "literal": "Qin Chen"
+    },
+    {
+      "literal": "Bo Jiang"
+    },
+    {
+      "literal": "Liang He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.02834",
+  "genre": "preprint",
+  "version": "3"
+}

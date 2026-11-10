@@ -2,7 +2,7 @@
 
 发布方是目录中各项资源背后的实验室和公司。每个发布方条目汇总了将其列为发布方的产品、模型、框架和工具。
 
-> AwesomeCUA 目录收录 19 条已审核发布方。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T06:29:47Z。
+> AwesomeCUA 目录收录 19 条已审核发布方。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/company/ · [English](https://awesomecua.com/categories/company/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2412.07755",
+  "citation-key": "arxiv_2412_07755",
+  "type": "article",
+  "title": "SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models",
+  "URL": "https://arxiv.org/abs/2412.07755v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.07755",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.07755",
+    "identifiers": {
+      "arxiv": "2412.07755"
+    },
+    "first_published_at": "2024-12-10",
+    "record_updated_at": "2025-12-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7cf56179bfe75719db67735f738cc67dc41feed58d364870d43f11737f8985de",
+      "submitted_at": "2024-12-10T18:52:45Z",
+      "updated_at": "2025-12-04T19:47:29Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.07755v3"
+    }
+  },
+  "note": "First published: 2024-12-10; Recorded arXiv version: v3; Recorded version updated: 2025-12-04T19:47:29Z.",
+  "author": [
+    {
+      "literal": "Arijit Ray"
+    },
+    {
+      "literal": "Jiafei Duan"
+    },
+    {
+      "literal": "Ellis Brown"
+    },
+    {
+      "literal": "Reuben Tan"
+    },
+    {
+      "literal": "Dina Bashkirova"
+    },
+    {
+      "literal": "Rose Hendrix"
+    },
+    {
+      "literal": "Kiana Ehsani"
+    },
+    {
+      "literal": "Aniruddha Kembhavi"
+    },
+    {
+      "literal": "Bryan A. Plummer"
+    },
+    {
+      "literal": "Ranjay Krishna"
+    },
+    {
+      "literal": "Kuo-Hao Zeng"
+    },
+    {
+      "literal": "Kate Saenko"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.07755",
+  "genre": "preprint",
+  "version": "3"
+}

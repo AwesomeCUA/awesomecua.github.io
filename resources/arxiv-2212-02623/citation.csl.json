@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2212.02623",
+  "citation-key": "arxiv_2212_02623",
+  "type": "article",
+  "title": "Unifying Vision, Text, and Layout for Universal Document Processing",
+  "URL": "https://arxiv.org/abs/2212.02623v3",
+  "custom": {
+    "catalog_id": "arxiv:2212.02623",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.02623",
+    "identifiers": {
+      "arxiv": "2212.02623"
+    },
+    "first_published_at": "2022-12-05",
+    "record_updated_at": "2023-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d27d678368b77e237dac3c80f10f05563847a582f93bb1b0d260a28262f50616",
+      "submitted_at": "2022-12-05T22:14:49Z",
+      "updated_at": "2023-03-13T17:42:44Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2212.02623v3"
+    }
+  },
+  "note": "First published: 2022-12-05; Recorded arXiv version: v3; Recorded version updated: 2023-03-13T17:42:44Z.",
+  "author": [
+    {
+      "literal": "Zineng Tang"
+    },
+    {
+      "literal": "Ziyi Yang"
+    },
+    {
+      "literal": "Guoxin Wang"
+    },
+    {
+      "literal": "Yuwei Fang"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Chenguang Zhu"
+    },
+    {
+      "literal": "Michael Zeng"
+    },
+    {
+      "literal": "Cha Zhang"
+    },
+    {
+      "literal": "Mohit Bansal"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.02623",
+  "genre": "preprint",
+  "version": "3"
+}

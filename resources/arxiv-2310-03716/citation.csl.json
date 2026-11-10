@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2310.03716",
+  "citation-key": "arxiv_2310_03716",
+  "type": "article",
+  "title": "A Long Way to Go: Investigating Length Correlations in RLHF",
+  "URL": "https://arxiv.org/abs/2310.03716v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.03716",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.03716",
+    "identifiers": {
+      "arxiv": "2310.03716"
+    },
+    "first_published_at": "2023-10-05",
+    "record_updated_at": "2024-07-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "44ab960814635d606b3e1e259bff544c66383a63c396f775afb0196b0b5df20c",
+      "submitted_at": "2023-10-05T17:38:28Z",
+      "updated_at": "2024-07-10T23:15:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.03716v2"
+    }
+  },
+  "note": "First published: 2023-10-05; Recorded arXiv version: v2; Recorded version updated: 2024-07-10T23:15:49Z.",
+  "author": [
+    {
+      "literal": "Prasann Singhal"
+    },
+    {
+      "literal": "Tanya Goyal"
+    },
+    {
+      "literal": "Jiacheng Xu"
+    },
+    {
+      "literal": "Greg Durrett"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.03716",
+  "genre": "preprint",
+  "version": "2"
+}

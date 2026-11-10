@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2302.04659",
+  "citation-key": "arxiv_2302_04659",
+  "type": "article",
+  "title": "ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills",
+  "URL": "https://arxiv.org/abs/2302.04659v1",
+  "custom": {
+    "catalog_id": "arxiv:2302.04659",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2302.04659",
+    "identifiers": {
+      "arxiv": "2302.04659"
+    },
+    "first_published_at": "2023-02-09",
+    "record_updated_at": "2023-02-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fcf2e08cc997e1c91ae91c0081a17085fa45e74860db0afac98186891dd9805b",
+      "submitted_at": "2023-02-09T14:24:01Z",
+      "updated_at": "2023-02-09T14:24:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2302.04659v1"
+    }
+  },
+  "note": "First published: 2023-02-09; Recorded arXiv version: v1; Recorded version updated: 2023-02-09T14:24:01Z.",
+  "author": [
+    {
+      "literal": "Jiayuan Gu"
+    },
+    {
+      "literal": "Fanbo Xiang"
+    },
+    {
+      "literal": "Xuanlin Li"
+    },
+    {
+      "literal": "Zhan Ling"
+    },
+    {
+      "literal": "Xiqiang Liu"
+    },
+    {
+      "literal": "Tongzhou Mu"
+    },
+    {
+      "literal": "Yihe Tang"
+    },
+    {
+      "literal": "Stone Tao"
+    },
+    {
+      "literal": "Xinyue Wei"
+    },
+    {
+      "literal": "Yunchao Yao"
+    },
+    {
+      "literal": "Xiaodi Yuan"
+    },
+    {
+      "literal": "Pengwei Xie"
+    },
+    {
+      "literal": "Zhiao Huang"
+    },
+    {
+      "literal": "Rui Chen"
+    },
+    {
+      "literal": "Hao Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2302.04659",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2403.08140",
+  "citation-key": "arxiv_2403_08140",
+  "type": "article",
+  "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+  "URL": "https://arxiv.org/abs/2403.08140v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.08140",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.08140",
+    "identifiers": {
+      "arxiv": "2403.08140"
+    },
+    "first_published_at": "2024-03-12",
+    "record_updated_at": "2024-06-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "72c1018a3029b1d2e441a60e15046052eed148c4833ca4ac5f49c5bea7d1c8c5",
+      "submitted_at": "2024-03-12T23:59:15Z",
+      "updated_at": "2024-06-09T01:12:26Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.08140v2"
+    }
+  },
+  "note": "First published: 2024-03-12; Recorded arXiv version: v2; Recorded version updated: 2024-06-09T01:12:26Z.",
+  "author": [
+    {
+      "literal": "Shikhar Murty"
+    },
+    {
+      "literal": "Christopher Manning"
+    },
+    {
+      "literal": "Peter Shaw"
+    },
+    {
+      "literal": "Mandar Joshi"
+    },
+    {
+      "literal": "Kenton Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.08140",
+  "genre": "preprint",
+  "version": "2"
+}

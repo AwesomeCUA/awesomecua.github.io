@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2409.13729",
+  "citation-key": "arxiv_2409_13729",
+  "type": "article",
+  "title": "MathGLM-Vision: Solving Mathematical Problems with Multi-Modal Large Language Model",
+  "URL": "https://arxiv.org/abs/2409.13729v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.13729",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.13729",
+    "identifiers": {
+      "arxiv": "2409.13729"
+    },
+    "first_published_at": "2024-09-10",
+    "record_updated_at": "2024-12-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7bb0e9f6b5648c75e6f2a2f3286ca4ffc9f47a8a13faa2833fd988f40003e52d",
+      "submitted_at": "2024-09-10T01:20:22Z",
+      "updated_at": "2024-12-02T14:59:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.13729v2"
+    }
+  },
+  "note": "First published: 2024-09-10; Recorded arXiv version: v2; Recorded version updated: 2024-12-02T14:59:08Z.",
+  "author": [
+    {
+      "literal": "Zhen Yang"
+    },
+    {
+      "literal": "Jinhao Chen"
+    },
+    {
+      "literal": "Zhengxiao Du"
+    },
+    {
+      "literal": "Wenmeng Yu"
+    },
+    {
+      "literal": "Weihan Wang"
+    },
+    {
+      "literal": "Wenyi Hong"
+    },
+    {
+      "literal": "Zhihuan Jiang"
+    },
+    {
+      "literal": "Bin Xu"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.13729",
+  "genre": "preprint",
+  "version": "2"
+}

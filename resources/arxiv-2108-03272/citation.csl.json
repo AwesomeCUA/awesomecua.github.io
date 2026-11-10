@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2108.03272",
+  "citation-key": "arxiv_2108_03272",
+  "type": "article",
+  "title": "iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks",
+  "URL": "https://arxiv.org/abs/2108.03272v4",
+  "custom": {
+    "catalog_id": "arxiv:2108.03272",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2108.03272",
+    "identifiers": {
+      "arxiv": "2108.03272"
+    },
+    "first_published_at": "2021-08-06",
+    "record_updated_at": "2021-11-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6200d5010c2d4f671a751cab7528519bafaefd0df65d0841b43aa6b4dba86258",
+      "submitted_at": "2021-08-06T18:41:39Z",
+      "updated_at": "2021-11-03T18:51:07Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2108.03272v4"
+    }
+  },
+  "note": "First published: 2021-08-06; Recorded arXiv version: v4; Recorded version updated: 2021-11-03T18:51:07Z.",
+  "author": [
+    {
+      "literal": "Chengshu Li"
+    },
+    {
+      "literal": "Fei Xia"
+    },
+    {
+      "literal": "Roberto Martín-Martín"
+    },
+    {
+      "literal": "Michael Lingelbach"
+    },
+    {
+      "literal": "Sanjana Srivastava"
+    },
+    {
+      "literal": "Bokui Shen"
+    },
+    {
+      "literal": "Kent Vainio"
+    },
+    {
+      "literal": "Cem Gokmen"
+    },
+    {
+      "literal": "Gokul Dharan"
+    },
+    {
+      "literal": "Tanish Jain"
+    },
+    {
+      "literal": "Andrey Kurenkov"
+    },
+    {
+      "literal": "C. Karen Liu"
+    },
+    {
+      "literal": "Hyowon Gweon"
+    },
+    {
+      "literal": "Jiajun Wu"
+    },
+    {
+      "literal": "Li Fei-Fei"
+    },
+    {
+      "literal": "Silvio Savarese"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2108.03272",
+  "genre": "preprint",
+  "version": "4"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2309.02561",
+  "citation-key": "arxiv_2309_02561",
+  "type": "article",
+  "title": "Physically Grounded Vision-Language Models for Robotic Manipulation",
+  "URL": "https://arxiv.org/abs/2309.02561v4",
+  "custom": {
+    "catalog_id": "arxiv:2309.02561",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.02561",
+    "identifiers": {
+      "arxiv": "2309.02561"
+    },
+    "first_published_at": "2023-09-05",
+    "record_updated_at": "2024-03-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6907fb74cba1fa587d4688947fad42d700d59455fa7bc0a95b07bdb08d84963d",
+      "submitted_at": "2023-09-05T20:21:03Z",
+      "updated_at": "2024-03-03T08:12:36Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2309.02561v4"
+    }
+  },
+  "note": "First published: 2023-09-05; Recorded arXiv version: v4; Recorded version updated: 2024-03-03T08:12:36Z.",
+  "author": [
+    {
+      "literal": "Jensen Gao"
+    },
+    {
+      "literal": "Bidipta Sarkar"
+    },
+    {
+      "literal": "Fei Xia"
+    },
+    {
+      "literal": "Ted Xiao"
+    },
+    {
+      "literal": "Jiajun Wu"
+    },
+    {
+      "literal": "Brian Ichter"
+    },
+    {
+      "literal": "Anirudha Majumdar"
+    },
+    {
+      "literal": "Dorsa Sadigh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.02561",
+  "genre": "preprint",
+  "version": "4"
+}

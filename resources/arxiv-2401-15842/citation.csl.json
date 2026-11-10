@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2401.15842",
+  "citation-key": "arxiv_2401_15842",
+  "type": "article",
+  "title": "LCV2: An Efficient Pretraining-Free Framework for Grounded Visual Question Answering",
+  "URL": "https://arxiv.org/abs/2401.15842v2",
+  "custom": {
+    "catalog_id": "arxiv:2401.15842",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.15842",
+    "identifiers": {
+      "arxiv": "2401.15842"
+    },
+    "first_published_at": "2024-01-29",
+    "record_updated_at": "2024-03-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bfeb76c05cb53a9078ab850df1dbe1f081b8106331952a4419918e06421a16b0",
+      "submitted_at": "2024-01-29T02:32:25Z",
+      "updated_at": "2024-03-23T02:46:54Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2401.15842v2"
+    }
+  },
+  "note": "First published: 2024-01-29; Recorded arXiv version: v2; Recorded version updated: 2024-03-23T02:46:54Z.",
+  "author": [
+    {
+      "literal": "Yuhan Chen"
+    },
+    {
+      "literal": "Lumei Su"
+    },
+    {
+      "literal": "Lihua Chen"
+    },
+    {
+      "literal": "Zhiwei Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.15842",
+  "genre": "preprint",
+  "version": "2"
+}

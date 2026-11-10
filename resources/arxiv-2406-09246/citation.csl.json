@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2406.09246",
+  "citation-key": "arxiv_2406_09246",
+  "type": "article",
+  "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+  "URL": "https://arxiv.org/abs/2406.09246v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.09246",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.09246",
+    "identifiers": {
+      "arxiv": "2406.09246"
+    },
+    "first_published_at": "2024-06-13",
+    "record_updated_at": "2024-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "af8a6ee7cd0dfd7faeebdfc896963bbe4fa9b2aa0c4c3de4f92fe2e756db5da3",
+      "submitted_at": "2024-06-13T15:46:55Z",
+      "updated_at": "2024-09-05T19:46:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.09246v3"
+    }
+  },
+  "note": "First published: 2024-06-13; Recorded arXiv version: v3; Recorded version updated: 2024-09-05T19:46:34Z.",
+  "author": [
+    {
+      "literal": "Moo Jin Kim"
+    },
+    {
+      "literal": "Karl Pertsch"
+    },
+    {
+      "literal": "Siddharth Karamcheti"
+    },
+    {
+      "literal": "Ted Xiao"
+    },
+    {
+      "literal": "Ashwin Balakrishna"
+    },
+    {
+      "literal": "Suraj Nair"
+    },
+    {
+      "literal": "Rafael Rafailov"
+    },
+    {
+      "literal": "Ethan Foster"
+    },
+    {
+      "literal": "Grace Lam"
+    },
+    {
+      "literal": "Pannag Sanketi"
+    },
+    {
+      "literal": "Quan Vuong"
+    },
+    {
+      "literal": "Thomas Kollar"
+    },
+    {
+      "literal": "Benjamin Burchfiel"
+    },
+    {
+      "literal": "Russ Tedrake"
+    },
+    {
+      "literal": "Dorsa Sadigh"
+    },
+    {
+      "literal": "Sergey Levine"
+    },
+    {
+      "literal": "Percy Liang"
+    },
+    {
+      "literal": "Chelsea Finn"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.09246",
+  "genre": "preprint",
+  "version": "3"
+}

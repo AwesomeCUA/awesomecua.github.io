@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2411.15100",
+  "citation-key": "arxiv_2411_15100",
+  "type": "article",
+  "title": "XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models",
+  "URL": "https://arxiv.org/abs/2411.15100v3",
+  "custom": {
+    "catalog_id": "arxiv:2411.15100",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.15100",
+    "identifiers": {
+      "arxiv": "2411.15100"
+    },
+    "first_published_at": "2024-11-22",
+    "record_updated_at": "2025-05-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "249824bd81b1c2a9b3dc7f95128ad92cf35d3547e189c5f2110e0864f747c2f3",
+      "submitted_at": "2024-11-22T18:01:37Z",
+      "updated_at": "2025-05-12T08:20:08Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2411.15100v3"
+    }
+  },
+  "note": "First published: 2024-11-22; Recorded arXiv version: v3; Recorded version updated: 2025-05-12T08:20:08Z.",
+  "author": [
+    {
+      "literal": "Yixin Dong"
+    },
+    {
+      "literal": "Charlie F. Ruan"
+    },
+    {
+      "literal": "Yaxing Cai"
+    },
+    {
+      "literal": "Ruihang Lai"
+    },
+    {
+      "literal": "Ziyi Xu"
+    },
+    {
+      "literal": "Yilong Zhao"
+    },
+    {
+      "literal": "Tianqi Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.15100",
+  "genre": "preprint",
+  "version": "3"
+}

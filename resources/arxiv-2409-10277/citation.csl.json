@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2409.10277",
+  "citation-key": "arxiv_2409_10277",
+  "type": "article",
+  "title": "Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots",
+  "URL": "https://arxiv.org/abs/2409.10277v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.10277",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.10277",
+    "identifiers": {
+      "arxiv": "2409.10277"
+    },
+    "first_published_at": "2024-09-16",
+    "record_updated_at": "2024-12-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "02aaebb9d2113c2b08cf68697faec92396272dfca62f9d39fb713da5b5ce86bb",
+      "submitted_at": "2024-09-16T13:39:05Z",
+      "updated_at": "2024-12-31T20:02:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.10277v2"
+    }
+  },
+  "note": "First published: 2024-09-16; Recorded arXiv version: v2; Recorded version updated: 2024-12-31T20:02:33Z.",
+  "author": [
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Xiaoman Pan"
+    },
+    {
+      "literal": "Hongwei Wang"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.10277",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2406.11247",
+  "citation-key": "arxiv_2406_11247",
+  "type": "article",
+  "title": "STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft",
+  "URL": "https://arxiv.org/abs/2406.11247v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.11247",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.11247",
+    "identifiers": {
+      "arxiv": "2406.11247"
+    },
+    "first_published_at": "2024-06-17",
+    "record_updated_at": "2024-06-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c4923478575f52be7132d0e8fc3428bb8388d0e8b04f3c9116f9d922032dbcc6",
+      "submitted_at": "2024-06-17T06:18:08Z",
+      "updated_at": "2024-06-17T06:18:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.11247v1"
+    }
+  },
+  "note": "First published: 2024-06-17; Recorded arXiv version: v1; Recorded version updated: 2024-06-17T06:18:08Z.",
+  "author": [
+    {
+      "literal": "Zhonghan Zhao"
+    },
+    {
+      "literal": "Wenhao Chai"
+    },
+    {
+      "literal": "Xuan Wang"
+    },
+    {
+      "literal": "Ke Ma"
+    },
+    {
+      "literal": "Kewei Chen"
+    },
+    {
+      "literal": "Dongxu Guo"
+    },
+    {
+      "literal": "Tian Ye"
+    },
+    {
+      "literal": "Yanting Zhang"
+    },
+    {
+      "literal": "Hongwei Wang"
+    },
+    {
+      "literal": "Gaoang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.11247",
+  "genre": "preprint",
+  "version": "1"
+}

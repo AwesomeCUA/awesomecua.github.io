@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2404.09204",
+  "citation-key": "arxiv_2404_09204",
+  "type": "article",
+  "title": "TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2404.09204v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.09204",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.09204",
+    "identifiers": {
+      "arxiv": "2404.09204"
+    },
+    "first_published_at": "2024-04-14",
+    "record_updated_at": "2024-04-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e335a53ae4d367c2781cbbd233f261106b20773dd374246c788addf9f195b99d",
+      "submitted_at": "2024-04-14T09:48:37Z",
+      "updated_at": "2024-04-14T09:48:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.09204v1"
+    }
+  },
+  "note": "First published: 2024-04-14; Recorded arXiv version: v1; Recorded version updated: 2024-04-14T09:48:37Z.",
+  "author": [
+    {
+      "literal": "Ya-Qi Yu"
+    },
+    {
+      "literal": "Minghui Liao"
+    },
+    {
+      "literal": "Jihao Wu"
+    },
+    {
+      "literal": "Yongxin Liao"
+    },
+    {
+      "literal": "Xiaoyu Zheng"
+    },
+    {
+      "literal": "Wei Zeng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.09204",
+  "genre": "preprint",
+  "version": "1"
+}

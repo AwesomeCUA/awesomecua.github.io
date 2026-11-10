@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2407.11965",
+  "citation-key": "arxiv_2407_11965",
+  "type": "article",
+  "title": "UrbanWorld: An Urban World Model for 3D City Generation",
+  "URL": "https://arxiv.org/abs/2407.11965v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.11965",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.11965",
+    "identifiers": {
+      "arxiv": "2407.11965"
+    },
+    "first_published_at": "2024-07-16",
+    "record_updated_at": "2024-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd3f51b477d87e3739fc93b31681a16c5336208cbd4b4cafb6a0dced030e5034",
+      "submitted_at": "2024-07-16T17:59:29Z",
+      "updated_at": "2024-10-22T08:31:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.11965v2"
+    }
+  },
+  "note": "First published: 2024-07-16; Recorded arXiv version: v2; Recorded version updated: 2024-10-22T08:31:44Z.",
+  "author": [
+    {
+      "literal": "Yu Shang"
+    },
+    {
+      "literal": "Yuming Lin"
+    },
+    {
+      "literal": "Yu Zheng"
+    },
+    {
+      "literal": "Hangyu Fan"
+    },
+    {
+      "literal": "Jingtao Ding"
+    },
+    {
+      "literal": "Jie Feng"
+    },
+    {
+      "literal": "Jiansheng Chen"
+    },
+    {
+      "literal": "Li Tian"
+    },
+    {
+      "literal": "Yong Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.11965",
+  "genre": "preprint",
+  "version": "2"
+}

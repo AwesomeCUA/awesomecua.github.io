@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2411.02704",
+  "citation-key": "arxiv_2411_02704",
+  "type": "article",
+  "title": "RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation",
+  "URL": "https://arxiv.org/abs/2411.02704v1",
+  "custom": {
+    "catalog_id": "arxiv:2411.02704",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.02704",
+    "identifiers": {
+      "arxiv": "2411.02704"
+    },
+    "first_published_at": "2024-11-05",
+    "record_updated_at": "2024-11-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f52eb7e19b8a3001ae2a62ad3d035ed0337430d9a988428bb0b40341c62d52dc",
+      "submitted_at": "2024-11-05T01:02:51Z",
+      "updated_at": "2024-11-05T01:02:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.02704v1"
+    }
+  },
+  "note": "First published: 2024-11-05; Recorded arXiv version: v1; Recorded version updated: 2024-11-05T01:02:51Z.",
+  "author": [
+    {
+      "literal": "Soroush Nasiriany"
+    },
+    {
+      "literal": "Sean Kirmani"
+    },
+    {
+      "literal": "Tianli Ding"
+    },
+    {
+      "literal": "Laura Smith"
+    },
+    {
+      "literal": "Yuke Zhu"
+    },
+    {
+      "literal": "Danny Driess"
+    },
+    {
+      "literal": "Dorsa Sadigh"
+    },
+    {
+      "literal": "Ted Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.02704",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2305.17066",
+  "citation-key": "arxiv_2305_17066",
+  "type": "article",
+  "title": "Mindstorms in Natural Language-Based Societies of Mind",
+  "URL": "https://arxiv.org/abs/2305.17066v2",
+  "custom": {
+    "catalog_id": "arxiv:2305.17066",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.17066",
+    "identifiers": {
+      "arxiv": "2305.17066"
+    },
+    "first_published_at": "2023-05-26",
+    "record_updated_at": "2026-03-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5c43e818598f485617764425f0eec0c2a1396969d523dd1fa5bb53662728b2a5",
+      "submitted_at": "2023-05-26T16:21:25Z",
+      "updated_at": "2026-03-11T13:43:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2305.17066v2"
+    }
+  },
+  "note": "First published: 2023-05-26; Recorded arXiv version: v2; Recorded version updated: 2026-03-11T13:43:31Z.",
+  "author": [
+    {
+      "literal": "Mingchen Zhuge"
+    },
+    {
+      "literal": "Haozhe Liu"
+    },
+    {
+      "literal": "Francesco Faccio"
+    },
+    {
+      "literal": "Dylan R. Ashley"
+    },
+    {
+      "literal": "Róbert Csordás"
+    },
+    {
+      "literal": "Anand Gopalakrishnan"
+    },
+    {
+      "literal": "Abdullah Hamdi"
+    },
+    {
+      "literal": "Hasan Abed Al Kader Hammoud"
+    },
+    {
+      "literal": "Vincent Herrmann"
+    },
+    {
+      "literal": "Kazuki Irie"
+    },
+    {
+      "literal": "Louis Kirsch"
+    },
+    {
+      "literal": "Bing Li"
+    },
+    {
+      "literal": "Guohao Li"
+    },
+    {
+      "literal": "Shuming Liu"
+    },
+    {
+      "literal": "Jinjie Mai"
+    },
+    {
+      "literal": "Piotr Piękos"
+    },
+    {
+      "literal": "Aditya Ramesh"
+    },
+    {
+      "literal": "Imanol Schlag"
+    },
+    {
+      "literal": "Weimin Shi"
+    },
+    {
+      "literal": "Aleksandar Stanić"
+    },
+    {
+      "literal": "Wenyi Wang"
+    },
+    {
+      "literal": "Yuhui Wang"
+    },
+    {
+      "literal": "Mengmeng Xu"
+    },
+    {
+      "literal": "Deng-Ping Fan"
+    },
+    {
+      "literal": "Bernard Ghanem"
+    },
+    {
+      "literal": "Jürgen Schmidhuber"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.17066",
+  "genre": "preprint",
+  "version": "2"
+}

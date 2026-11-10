@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2010.03768",
+  "citation-key": "arxiv_2010_03768",
+  "type": "article",
+  "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+  "URL": "https://arxiv.org/abs/2010.03768v2",
+  "custom": {
+    "catalog_id": "arxiv:2010.03768",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2010.03768",
+    "identifiers": {
+      "arxiv": "2010.03768"
+    },
+    "first_published_at": "2020-10-08",
+    "record_updated_at": "2021-03-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "97c72a1b9bd20a223ffca601444a9e0f077316f7966e1fd056634c90789f6443",
+      "submitted_at": "2020-10-08T05:13:36Z",
+      "updated_at": "2021-03-14T22:44:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2010.03768v2"
+    }
+  },
+  "note": "First published: 2020-10-08; Recorded arXiv version: v2; Recorded version updated: 2021-03-14T22:44:38Z.",
+  "author": [
+    {
+      "literal": "Mohit Shridhar"
+    },
+    {
+      "literal": "Xingdi Yuan"
+    },
+    {
+      "literal": "Marc-Alexandre Côté"
+    },
+    {
+      "literal": "Yonatan Bisk"
+    },
+    {
+      "literal": "Adam Trischler"
+    },
+    {
+      "literal": "Matthew Hausknecht"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2010.03768",
+  "genre": "preprint",
+  "version": "2"
+}

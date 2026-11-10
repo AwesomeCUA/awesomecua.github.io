@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2110.08653",
+  "citation-key": "arxiv_2110_08653",
+  "type": "article",
+  "title": "Learning UI Navigation through Demonstrations composed of Macro Actions",
+  "URL": "https://arxiv.org/abs/2110.08653v1",
+  "custom": {
+    "catalog_id": "arxiv:2110.08653",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2110.08653",
+    "identifiers": {
+      "arxiv": "2110.08653"
+    },
+    "first_published_at": "2021-10-16",
+    "record_updated_at": "2021-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "63e78a2289137ee0c7ea3eed055d3d35042da130ccd667c5ca47d76aa4d8a106",
+      "submitted_at": "2021-10-16T20:29:41Z",
+      "updated_at": "2021-10-16T20:29:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2110.08653v1"
+    }
+  },
+  "note": "First published: 2021-10-16; Recorded arXiv version: v1; Recorded version updated: 2021-10-16T20:29:41Z.",
+  "author": [
+    {
+      "literal": "Wei Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2110.08653",
+  "genre": "preprint",
+  "version": "1"
+}

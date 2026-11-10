@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2301.12050",
+  "citation-key": "arxiv_2301_12050",
+  "type": "article",
+  "title": "Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling",
+  "URL": "https://arxiv.org/abs/2301.12050v2",
+  "custom": {
+    "catalog_id": "arxiv:2301.12050",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2301.12050",
+    "identifiers": {
+      "arxiv": "2301.12050"
+    },
+    "first_published_at": "2023-01-28",
+    "record_updated_at": "2023-04-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e0bd5f9f246a7c03d653336904c0c495e6de184352cf2c904f43b22ecb6f4aae",
+      "submitted_at": "2023-01-28T02:04:07Z",
+      "updated_at": "2023-04-27T15:14:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2301.12050v2"
+    }
+  },
+  "note": "First published: 2023-01-28; Recorded arXiv version: v2; Recorded version updated: 2023-04-27T15:14:01Z.",
+  "author": [
+    {
+      "literal": "Kolby Nottingham"
+    },
+    {
+      "literal": "Prithviraj Ammanabrolu"
+    },
+    {
+      "literal": "Alane Suhr"
+    },
+    {
+      "literal": "Yejin Choi"
+    },
+    {
+      "literal": "Hannaneh Hajishirzi"
+    },
+    {
+      "literal": "Sameer Singh"
+    },
+    {
+      "literal": "Roy Fox"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2301.12050",
+  "genre": "preprint",
+  "version": "2"
+}

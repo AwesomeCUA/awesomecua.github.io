@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2304.13653",
+  "citation-key": "arxiv_2304_13653",
+  "type": "article",
+  "title": "Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2304.13653v2",
+  "custom": {
+    "catalog_id": "arxiv:2304.13653",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2304.13653",
+    "identifiers": {
+      "arxiv": "2304.13653"
+    },
+    "first_published_at": "2023-04-26",
+    "record_updated_at": "2024-04-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "081e7a6a7a37317f47b0dea76f1f798c49f8abdf6ab02f4b476df22ca84b1f13",
+      "submitted_at": "2023-04-26T16:25:54Z",
+      "updated_at": "2024-04-11T09:50:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2304.13653v2"
+    }
+  },
+  "note": "First published: 2023-04-26; Recorded arXiv version: v2; Recorded version updated: 2024-04-11T09:50:07Z.",
+  "author": [
+    {
+      "literal": "Tuomas Haarnoja"
+    },
+    {
+      "literal": "Ben Moran"
+    },
+    {
+      "literal": "Guy Lever"
+    },
+    {
+      "literal": "Sandy H. Huang"
+    },
+    {
+      "literal": "Dhruva Tirumala"
+    },
+    {
+      "literal": "Jan Humplik"
+    },
+    {
+      "literal": "Markus Wulfmeier"
+    },
+    {
+      "literal": "Saran Tunyasuvunakool"
+    },
+    {
+      "literal": "Noah Y. Siegel"
+    },
+    {
+      "literal": "Roland Hafner"
+    },
+    {
+      "literal": "Michael Bloesch"
+    },
+    {
+      "literal": "Kristian Hartikainen"
+    },
+    {
+      "literal": "Arunkumar Byravan"
+    },
+    {
+      "literal": "Leonard Hasenclever"
+    },
+    {
+      "literal": "Yuval Tassa"
+    },
+    {
+      "literal": "Fereshteh Sadeghi"
+    },
+    {
+      "literal": "Nathan Batchelor"
+    },
+    {
+      "literal": "Federico Casarini"
+    },
+    {
+      "literal": "Stefano Saliceti"
+    },
+    {
+      "literal": "Charles Game"
+    },
+    {
+      "literal": "Neil Sreendra"
+    },
+    {
+      "literal": "Kushal Patel"
+    },
+    {
+      "literal": "Marlon Gwira"
+    },
+    {
+      "literal": "Andrea Huber"
+    },
+    {
+      "literal": "Nicole Hurley"
+    },
+    {
+      "literal": "Francesco Nori"
+    },
+    {
+      "literal": "Raia Hadsell"
+    },
+    {
+      "literal": "Nicolas Heess"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2304.13653",
+  "genre": "preprint",
+  "version": "2"
+}

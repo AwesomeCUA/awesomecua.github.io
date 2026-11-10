@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2407.00263",
+  "citation-key": "arxiv_2407_00263",
+  "type": "article",
+  "title": "From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2407.00263v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.00263",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.00263",
+    "identifiers": {
+      "arxiv": "2407.00263"
+    },
+    "first_published_at": "2024-06-28",
+    "record_updated_at": "2024-06-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "eb5c40287a3f76d124c4e9ec76783c4aabcd522aced8bcfe542990efef1b3810",
+      "submitted_at": "2024-06-28T23:28:28Z",
+      "updated_at": "2024-06-28T23:28:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.00263v1"
+    }
+  },
+  "note": "First published: 2024-06-28; Recorded arXiv version: v1; Recorded version updated: 2024-06-28T23:28:28Z.",
+  "author": [
+    {
+      "literal": "Mehar Bhatia"
+    },
+    {
+      "literal": "Sahithya Ravi"
+    },
+    {
+      "literal": "Aditya Chinchure"
+    },
+    {
+      "literal": "Eunjeong Hwang"
+    },
+    {
+      "literal": "Vered Shwartz"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.00263",
+  "genre": "preprint",
+  "version": "1"
+}

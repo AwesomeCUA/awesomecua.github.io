@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2211.16649",
+  "citation-key": "arxiv_2211_16649",
+  "type": "article",
+  "title": "CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation",
+  "URL": "https://arxiv.org/abs/2211.16649v1",
+  "custom": {
+    "catalog_id": "arxiv:2211.16649",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2211.16649",
+    "identifiers": {
+      "arxiv": "2211.16649"
+    },
+    "first_published_at": "2022-11-30",
+    "record_updated_at": "2022-11-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff78d714620cc1dd713bc3d486524e33413b453509957ac6f8b9a011457fc804",
+      "submitted_at": "2022-11-30T00:38:54Z",
+      "updated_at": "2022-11-30T00:38:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2211.16649v1"
+    }
+  },
+  "note": "First published: 2022-11-30; Recorded arXiv version: v1; Recorded version updated: 2022-11-30T00:38:54Z.",
+  "author": [
+    {
+      "literal": "Vishnu Sashank Dorbala"
+    },
+    {
+      "literal": "Gunnar Sigurdsson"
+    },
+    {
+      "literal": "Robinson Piramuthu"
+    },
+    {
+      "literal": "Jesse Thomason"
+    },
+    {
+      "literal": "Gaurav S. Sukhatme"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2211.16649",
+  "genre": "preprint",
+  "version": "1"
+}

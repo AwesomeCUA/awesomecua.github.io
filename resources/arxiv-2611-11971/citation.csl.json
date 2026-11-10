@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2611.11971",
+  "citation-key": "arxiv_2611_11971",
+  "type": "article",
+  "title": "Harness Matters: Measuring and Dissecting Security Resilience in Web Agents",
+  "URL": "https://arxiv.org/abs/2611.11971v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.11971",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.11971",
+    "identifiers": {
+      "arxiv": "2611.11971"
+    },
+    "first_published_at": "2026-11-09",
+    "record_updated_at": "2026-11-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b96654354c7fe1bd62586506a478d40eedef404a4b0646af8731ffe541e89ac1",
+      "submitted_at": "2026-11-09T06:53:04Z",
+      "updated_at": "2026-11-09T06:53:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.11971v1"
+    }
+  },
+  "note": "First published: 2026-11-09; Recorded arXiv version: v1; Recorded version updated: 2026-11-09T06:53:04Z.",
+  "author": [
+    {
+      "literal": "Xinyi Wu"
+    },
+    {
+      "literal": "Jiagui Chen"
+    },
+    {
+      "literal": "JiaYi Dong"
+    },
+    {
+      "literal": "Geng Hong"
+    },
+    {
+      "literal": "Xudong Pan"
+    },
+    {
+      "literal": "Jiarun Dai"
+    },
+    {
+      "literal": "Mingxuan Liu"
+    },
+    {
+      "literal": "Min Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.11971",
+  "genre": "preprint",
+  "version": "1"
+}

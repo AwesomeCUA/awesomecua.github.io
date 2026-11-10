@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2608.11469",
+  "citation-key": "arxiv_2608_11469",
+  "type": "article",
+  "title": "The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark",
+  "URL": "https://arxiv.org/abs/2608.11469v2",
+  "custom": {
+    "catalog_id": "arxiv:2608.11469",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.11469",
+    "identifiers": {
+      "arxiv": "2608.11469"
+    },
+    "first_published_at": "2026-08-11",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "06d992f677050714745a616594af570be86838332cc13278489a69ed726a2ebd",
+      "submitted_at": "2026-08-11T22:14:57Z",
+      "updated_at": "2026-10-01T01:37:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2608.11469v2"
+    }
+  },
+  "note": "First published: 2026-08-11; Recorded arXiv version: v2; Recorded version updated: 2026-10-01T01:37:46Z.",
+  "author": [
+    {
+      "literal": "Jeremy Spence"
+    },
+    {
+      "literal": "Nicholas Assaderaghi"
+    },
+    {
+      "literal": "Feng Xiao"
+    },
+    {
+      "literal": "Jinhao Zhu"
+    },
+    {
+      "literal": "Nikil Ravi"
+    },
+    {
+      "literal": "Xiangyu Qi"
+    },
+    {
+      "literal": "Matthew Jagielski"
+    },
+    {
+      "literal": "Raluca Ada Popa"
+    },
+    {
+      "literal": "Eric Wallace"
+    },
+    {
+      "literal": "Guannan Wei"
+    },
+    {
+      "literal": "Yangruibo Ding"
+    },
+    {
+      "literal": "Zhuo Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.11469",
+  "genre": "preprint",
+  "version": "2"
+}

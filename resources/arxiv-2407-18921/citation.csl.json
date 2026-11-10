@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2407.18921",
+  "citation-key": "arxiv_2407_18921",
+  "type": "article",
+  "title": "Mobile Edge Intelligence for Large Language Models: A Contemporary Survey",
+  "URL": "https://arxiv.org/abs/2407.18921v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.18921",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.18921",
+    "identifiers": {
+      "arxiv": "2407.18921"
+    },
+    "first_published_at": "2024-07-09",
+    "record_updated_at": "2025-03-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "54fca17e5d22654584aa0daa9d21b7c27333e2b73a90088fc5a250d0051121b0",
+      "submitted_at": "2024-07-09T13:47:05Z",
+      "updated_at": "2025-03-20T05:23:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.18921v2"
+    }
+  },
+  "note": "First published: 2024-07-09; Recorded arXiv version: v2; Recorded version updated: 2025-03-20T05:23:42Z.",
+  "author": [
+    {
+      "literal": "Guanqiao Qu"
+    },
+    {
+      "literal": "Qiyuan Chen"
+    },
+    {
+      "literal": "Wei Wei"
+    },
+    {
+      "literal": "Zheng Lin"
+    },
+    {
+      "literal": "Xianhao Chen"
+    },
+    {
+      "literal": "Kaibin Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.18921",
+  "genre": "preprint",
+  "version": "2"
+}

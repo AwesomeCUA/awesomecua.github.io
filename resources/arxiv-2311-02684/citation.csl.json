@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2311.02684",
+  "citation-key": "arxiv_2311_02684",
+  "type": "article",
+  "title": "Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE",
+  "URL": "https://arxiv.org/abs/2311.02684v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.02684",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.02684",
+    "identifiers": {
+      "arxiv": "2311.02684"
+    },
+    "first_published_at": "2023-11-05",
+    "record_updated_at": "2024-11-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8758ace1685fd987272d704f0ca2611b608a410191156df42cbb18a0e27748d2",
+      "submitted_at": "2023-11-05T15:48:29Z",
+      "updated_at": "2024-11-25T07:07:45Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.02684v3"
+    }
+  },
+  "note": "First published: 2023-11-05; Recorded arXiv version: v3; Recorded version updated: 2024-11-25T07:07:45Z.",
+  "author": [
+    {
+      "literal": "Zeren Chen"
+    },
+    {
+      "literal": "Ziqin Wang"
+    },
+    {
+      "literal": "Zhen Wang"
+    },
+    {
+      "literal": "Huayang Liu"
+    },
+    {
+      "literal": "Zhenfei Yin"
+    },
+    {
+      "literal": "Si Liu"
+    },
+    {
+      "literal": "Lu Sheng"
+    },
+    {
+      "literal": "Wanli Ouyang"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jing Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.02684",
+  "genre": "preprint",
+  "version": "3"
+}

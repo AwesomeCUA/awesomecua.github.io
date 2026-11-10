@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2211.06552",
+  "citation-key": "arxiv_2211_06552",
+  "type": "article",
+  "title": "Collecting Interactive Multi-modal Datasets for Grounded Language Understanding",
+  "URL": "https://arxiv.org/abs/2211.06552v3",
+  "custom": {
+    "catalog_id": "arxiv:2211.06552",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2211.06552",
+    "identifiers": {
+      "arxiv": "2211.06552"
+    },
+    "first_published_at": "2022-11-12",
+    "record_updated_at": "2023-03-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "12e3868f305b9bc08cb48a8b706149d0be4b4a54c00d4753f4087953e58ec8a7",
+      "submitted_at": "2022-11-12T02:36:32Z",
+      "updated_at": "2023-03-21T06:38:48Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2211.06552v3"
+    }
+  },
+  "note": "First published: 2022-11-12; Recorded arXiv version: v3; Recorded version updated: 2023-03-21T06:38:48Z.",
+  "author": [
+    {
+      "literal": "Shrestha Mohanty"
+    },
+    {
+      "literal": "Negar Arabzadeh"
+    },
+    {
+      "literal": "Milagro Teruel"
+    },
+    {
+      "literal": "Yuxuan Sun"
+    },
+    {
+      "literal": "Artem Zholus"
+    },
+    {
+      "literal": "Alexey Skrynnik"
+    },
+    {
+      "literal": "Mikhail Burtsev"
+    },
+    {
+      "literal": "Kavya Srinet"
+    },
+    {
+      "literal": "Aleksandr Panov"
+    },
+    {
+      "literal": "Arthur Szlam"
+    },
+    {
+      "literal": "Marc-Alexandre Côté"
+    },
+    {
+      "literal": "Julia Kiseleva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2211.06552",
+  "genre": "preprint",
+  "version": "3"
+}

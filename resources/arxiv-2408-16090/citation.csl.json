@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2408.16090",
+  "citation-key": "arxiv_2408_16090",
+  "type": "article",
+  "title": "EPO: Hierarchical LLM Agents with Environment Preference Optimization",
+  "URL": "https://arxiv.org/abs/2408.16090v2",
+  "custom": {
+    "catalog_id": "arxiv:2408.16090",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.16090",
+    "identifiers": {
+      "arxiv": "2408.16090"
+    },
+    "first_published_at": "2024-08-28",
+    "record_updated_at": "2024-10-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "acfbef3eb2d63ffb88d42e9a10b902cfd1dd355708ccaed0765de41e1fc41b05",
+      "submitted_at": "2024-08-28T18:44:02Z",
+      "updated_at": "2024-10-03T20:35:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2408.16090v2"
+    }
+  },
+  "note": "First published: 2024-08-28; Recorded arXiv version: v2; Recorded version updated: 2024-10-03T20:35:09Z.",
+  "author": [
+    {
+      "literal": "Qi Zhao"
+    },
+    {
+      "literal": "Haotian Fu"
+    },
+    {
+      "literal": "Chen Sun"
+    },
+    {
+      "literal": "George Konidaris"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.16090",
+  "genre": "preprint",
+  "version": "2"
+}

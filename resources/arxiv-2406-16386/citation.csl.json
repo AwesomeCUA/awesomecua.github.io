@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2406.16386",
+  "citation-key": "arxiv_2406_16386",
+  "type": "article",
+  "title": "Automatically Generating UI Code from Screenshot: A Divide-and-Conquer-Based Approach",
+  "URL": "https://arxiv.org/abs/2406.16386v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.16386",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.16386",
+    "identifiers": {
+      "arxiv": "2406.16386"
+    },
+    "first_published_at": "2024-06-24",
+    "record_updated_at": "2025-04-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e6d24e1ef3de95f4b667527b20a3b9a809c55595d4674cb82372c165620b2aad",
+      "submitted_at": "2024-06-24T07:58:36Z",
+      "updated_at": "2025-04-25T15:12:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.16386v3"
+    }
+  },
+  "note": "First published: 2024-06-24; Recorded arXiv version: v3; Recorded version updated: 2025-04-25T15:12:34Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Wan"
+    },
+    {
+      "literal": "Chaozheng Wang"
+    },
+    {
+      "literal": "Yi Dong"
+    },
+    {
+      "literal": "Wenxuan Wang"
+    },
+    {
+      "literal": "Shuqing Li"
+    },
+    {
+      "literal": "Yintong Huo"
+    },
+    {
+      "literal": "Michael R. Lyu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.16386",
+  "genre": "preprint",
+  "version": "3"
+}

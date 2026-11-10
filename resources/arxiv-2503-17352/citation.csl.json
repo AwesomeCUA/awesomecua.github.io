@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2503.17352",
+  "citation-key": "arxiv_2503_17352",
+  "type": "article",
+  "title": "OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles",
+  "URL": "https://arxiv.org/abs/2503.17352v3",
+  "custom": {
+    "catalog_id": "arxiv:2503.17352",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.17352",
+    "identifiers": {
+      "arxiv": "2503.17352"
+    },
+    "first_published_at": "2025-03-21",
+    "record_updated_at": "2025-11-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2e930e2e37195a70be4406e3ea85f84902238ab93d523023cd0626e597cd553f",
+      "submitted_at": "2025-03-21T17:52:43Z",
+      "updated_at": "2025-11-11T08:13:33Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2503.17352v3"
+    }
+  },
+  "note": "First published: 2025-03-21; Recorded arXiv version: v3; Recorded version updated: 2025-11-11T08:13:33Z.",
+  "author": [
+    {
+      "literal": "Yihe Deng"
+    },
+    {
+      "literal": "Hritik Bansal"
+    },
+    {
+      "literal": "Fan Yin"
+    },
+    {
+      "literal": "Nanyun Peng"
+    },
+    {
+      "literal": "Wei Wang"
+    },
+    {
+      "literal": "Kai-Wei Chang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.17352",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2404.12358",
+  "citation-key": "arxiv_2404_12358",
+  "type": "article",
+  "title": "From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function",
+  "URL": "https://arxiv.org/abs/2404.12358v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.12358",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.12358",
+    "identifiers": {
+      "arxiv": "2404.12358"
+    },
+    "first_published_at": "2024-04-18",
+    "record_updated_at": "2024-08-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fc44b983dffbd8c04f36e8c77d81a022b803afd124e8dac390ff78744a8c2d33",
+      "submitted_at": "2024-04-18T17:37:02Z",
+      "updated_at": "2024-08-12T21:13:35Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.12358v2"
+    }
+  },
+  "note": "First published: 2024-04-18; Recorded arXiv version: v2; Recorded version updated: 2024-08-12T21:13:35Z.",
+  "author": [
+    {
+      "literal": "Rafael Rafailov"
+    },
+    {
+      "literal": "Joey Hejna"
+    },
+    {
+      "literal": "Ryan Park"
+    },
+    {
+      "literal": "Chelsea Finn"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.12358",
+  "genre": "preprint",
+  "version": "2"
+}

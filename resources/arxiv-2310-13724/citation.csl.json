@@ -1,0 +1,112 @@
+{
+  "id": "arxiv:2310.13724",
+  "citation-key": "arxiv_2310_13724",
+  "type": "article",
+  "title": "Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots",
+  "URL": "https://arxiv.org/abs/2310.13724v1",
+  "custom": {
+    "catalog_id": "arxiv:2310.13724",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.13724",
+    "identifiers": {
+      "arxiv": "2310.13724"
+    },
+    "first_published_at": "2023-10-19",
+    "record_updated_at": "2023-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6d2484d9c6b7eed0b4164f6eb2662061349b24b42bc66e4f7a0f537720323dc9",
+      "submitted_at": "2023-10-19T17:29:17Z",
+      "updated_at": "2023-10-19T17:29:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2310.13724v1"
+    }
+  },
+  "note": "First published: 2023-10-19; Recorded arXiv version: v1; Recorded version updated: 2023-10-19T17:29:17Z.",
+  "author": [
+    {
+      "literal": "Xavier Puig"
+    },
+    {
+      "literal": "Eric Undersander"
+    },
+    {
+      "literal": "Andrew Szot"
+    },
+    {
+      "literal": "Mikael Dallaire Cote"
+    },
+    {
+      "literal": "Tsung-Yen Yang"
+    },
+    {
+      "literal": "Ruslan Partsey"
+    },
+    {
+      "literal": "Ruta Desai"
+    },
+    {
+      "literal": "Alexander William Clegg"
+    },
+    {
+      "literal": "Michal Hlavac"
+    },
+    {
+      "literal": "So Yeon Min"
+    },
+    {
+      "literal": "Vladimír Vondruš"
+    },
+    {
+      "literal": "Theophile Gervet"
+    },
+    {
+      "literal": "Vincent-Pierre Berges"
+    },
+    {
+      "literal": "John M. Turner"
+    },
+    {
+      "literal": "Oleksandr Maksymets"
+    },
+    {
+      "literal": "Zsolt Kira"
+    },
+    {
+      "literal": "Mrinal Kalakrishnan"
+    },
+    {
+      "literal": "Jitendra Malik"
+    },
+    {
+      "literal": "Devendra Singh Chaplot"
+    },
+    {
+      "literal": "Unnat Jain"
+    },
+    {
+      "literal": "Dhruv Batra"
+    },
+    {
+      "literal": "Akshara Rai"
+    },
+    {
+      "literal": "Roozbeh Mottaghi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.13724",
+  "genre": "preprint",
+  "version": "1"
+}

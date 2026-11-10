@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:1705.07962",
+  "citation-key": "arxiv_1705_07962",
+  "type": "article",
+  "title": "pix2code: Generating Code from a Graphical User Interface Screenshot",
+  "URL": "https://arxiv.org/abs/1705.07962v2",
+  "custom": {
+    "catalog_id": "arxiv:1705.07962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1705.07962",
+    "identifiers": {
+      "arxiv": "1705.07962"
+    },
+    "first_published_at": "2017-05-22",
+    "record_updated_at": "2017-09-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ee1c8de18c1b4f56980725521d9355c6052e56805718ad0797d768df5decacb0",
+      "submitted_at": "2017-05-22T19:32:20Z",
+      "updated_at": "2017-09-19T11:27:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1705.07962v2"
+    }
+  },
+  "note": "First published: 2017-05-22; Recorded arXiv version: v2; Recorded version updated: 2017-09-19T11:27:47Z.",
+  "author": [
+    {
+      "literal": "Tony Beltramelli"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        5,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1705.07962",
+  "genre": "preprint",
+  "version": "2"
+}

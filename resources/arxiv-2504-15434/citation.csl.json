@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2504.15434",
+  "citation-key": "arxiv_2504_15434",
+  "type": "article",
+  "title": "AGI Is Coming... Right After AI Learns to Play Wordle",
+  "URL": "https://arxiv.org/abs/2504.15434v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.15434",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.15434",
+    "identifiers": {
+      "arxiv": "2504.15434"
+    },
+    "first_published_at": "2025-04-21",
+    "record_updated_at": "2025-04-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c151331999507943d484d284a0bbca6671c614e08106bb618026dc867ea0f660",
+      "submitted_at": "2025-04-21T20:58:58Z",
+      "updated_at": "2025-04-21T20:58:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.15434v1"
+    }
+  },
+  "note": "First published: 2025-04-21; Recorded arXiv version: v1; Recorded version updated: 2025-04-21T20:58:58Z.",
+  "author": [
+    {
+      "literal": "Sarath Shekkizhar"
+    },
+    {
+      "literal": "Romain Cosentino"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.15434",
+  "genre": "preprint",
+  "version": "1"
+}

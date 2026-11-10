@@ -1,0 +1,124 @@
+{
+  "id": "arxiv:2412.10302",
+  "citation-key": "arxiv_2412_10302",
+  "type": "article",
+  "title": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
+  "URL": "https://arxiv.org/abs/2412.10302v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.10302",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.10302",
+    "identifiers": {
+      "arxiv": "2412.10302"
+    },
+    "first_published_at": "2024-12-13",
+    "record_updated_at": "2024-12-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "999ec7878dd836ef4d100d28a5795e1083a02baf42b66ebb583f0f4346e88a06",
+      "submitted_at": "2024-12-13T17:37:48Z",
+      "updated_at": "2024-12-13T17:37:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.10302v1"
+    }
+  },
+  "note": "First published: 2024-12-13; Recorded arXiv version: v1; Recorded version updated: 2024-12-13T17:37:48Z.",
+  "author": [
+    {
+      "literal": "Zhiyu Wu"
+    },
+    {
+      "literal": "Xiaokang Chen"
+    },
+    {
+      "literal": "Zizheng Pan"
+    },
+    {
+      "literal": "Xingchao Liu"
+    },
+    {
+      "literal": "Wen Liu"
+    },
+    {
+      "literal": "Damai Dai"
+    },
+    {
+      "literal": "Huazuo Gao"
+    },
+    {
+      "literal": "Yiyang Ma"
+    },
+    {
+      "literal": "Chengyue Wu"
+    },
+    {
+      "literal": "Bingxuan Wang"
+    },
+    {
+      "literal": "Zhenda Xie"
+    },
+    {
+      "literal": "Yu Wu"
+    },
+    {
+      "literal": "Kai Hu"
+    },
+    {
+      "literal": "Jiawei Wang"
+    },
+    {
+      "literal": "Yaofeng Sun"
+    },
+    {
+      "literal": "Yukun Li"
+    },
+    {
+      "literal": "Yishi Piao"
+    },
+    {
+      "literal": "Kang Guan"
+    },
+    {
+      "literal": "Aixin Liu"
+    },
+    {
+      "literal": "Xin Xie"
+    },
+    {
+      "literal": "Yuxiang You"
+    },
+    {
+      "literal": "Kai Dong"
+    },
+    {
+      "literal": "Xingkai Yu"
+    },
+    {
+      "literal": "Haowei Zhang"
+    },
+    {
+      "literal": "Liang Zhao"
+    },
+    {
+      "literal": "Yisong Wang"
+    },
+    {
+      "literal": "Chong Ruan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.10302",
+  "genre": "preprint",
+  "version": "1"
+}

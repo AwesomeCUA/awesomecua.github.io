@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2408.08862",
+  "citation-key": "arxiv_2408_08862",
+  "type": "article",
+  "title": "Visual Agents as Fast and Slow Thinkers",
+  "URL": "https://arxiv.org/abs/2408.08862v4",
+  "custom": {
+    "catalog_id": "arxiv:2408.08862",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.08862",
+    "identifiers": {
+      "arxiv": "2408.08862"
+    },
+    "first_published_at": "2024-08-16",
+    "record_updated_at": "2025-02-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e86ba190cc0a90338ec77a67966d006a4716ec47041cc1fe0b3f8bfc5b7b00d4",
+      "submitted_at": "2024-08-16T17:44:02Z",
+      "updated_at": "2025-02-10T02:00:10Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2408.08862v4"
+    }
+  },
+  "note": "First published: 2024-08-16; Recorded arXiv version: v4; Recorded version updated: 2025-02-10T02:00:10Z.",
+  "author": [
+    {
+      "literal": "Guangyan Sun"
+    },
+    {
+      "literal": "Mingyu Jin"
+    },
+    {
+      "literal": "Zhenting Wang"
+    },
+    {
+      "literal": "Cheng-Long Wang"
+    },
+    {
+      "literal": "Siqi Ma"
+    },
+    {
+      "literal": "Qifan Wang"
+    },
+    {
+      "literal": "Tong Geng"
+    },
+    {
+      "literal": "Ying Nian Wu"
+    },
+    {
+      "literal": "Yongfeng Zhang"
+    },
+    {
+      "literal": "Dongfang Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.08862",
+  "genre": "preprint",
+  "version": "4"
+}

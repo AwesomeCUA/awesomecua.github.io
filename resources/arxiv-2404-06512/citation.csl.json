@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2404.06512",
+  "citation-key": "arxiv_2404_06512",
+  "type": "article",
+  "title": "InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD",
+  "URL": "https://arxiv.org/abs/2404.06512v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.06512",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.06512",
+    "identifiers": {
+      "arxiv": "2404.06512"
+    },
+    "first_published_at": "2024-04-09",
+    "record_updated_at": "2024-04-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f02548a6efa372bbcc26de04e4fe8b39ff0b36b1a86658027ed8c1045488249a",
+      "submitted_at": "2024-04-09T17:59:32Z",
+      "updated_at": "2024-04-09T17:59:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.06512v1"
+    }
+  },
+  "note": "First published: 2024-04-09; Recorded arXiv version: v1; Recorded version updated: 2024-04-09T17:59:32Z.",
+  "author": [
+    {
+      "literal": "Xiaoyi Dong"
+    },
+    {
+      "literal": "Pan Zhang"
+    },
+    {
+      "literal": "Yuhang Zang"
+    },
+    {
+      "literal": "Yuhang Cao"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Linke Ouyang"
+    },
+    {
+      "literal": "Songyang Zhang"
+    },
+    {
+      "literal": "Haodong Duan"
+    },
+    {
+      "literal": "Wenwei Zhang"
+    },
+    {
+      "literal": "Yining Li"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Yang Gao"
+    },
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Xinyue Zhang"
+    },
+    {
+      "literal": "Wei Li"
+    },
+    {
+      "literal": "Jingwen Li"
+    },
+    {
+      "literal": "Wenhai Wang"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Conghui He"
+    },
+    {
+      "literal": "Xingcheng Zhang"
+    },
+    {
+      "literal": "Jifeng Dai"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.06512",
+  "genre": "preprint",
+  "version": "1"
+}

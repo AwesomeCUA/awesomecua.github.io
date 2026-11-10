@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2403.11075",
+  "citation-key": "arxiv_2403_11075",
+  "type": "article",
+  "title": "GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment",
+  "URL": "https://arxiv.org/abs/2403.11075v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.11075",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.11075",
+    "identifiers": {
+      "arxiv": "2403.11075"
+    },
+    "first_published_at": "2024-03-17",
+    "record_updated_at": "2025-01-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "65acfadf50434afbbd6aeb35bcccd9f379b05b94b54eb1df4d135982a376dc7f",
+      "submitted_at": "2024-03-17T03:52:52Z",
+      "updated_at": "2025-01-14T06:02:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.11075v2"
+    }
+  },
+  "note": "First published: 2024-03-17; Recorded arXiv version: v2; Recorded version updated: 2025-01-14T06:02:50Z.",
+  "author": [
+    {
+      "literal": "Lance Ying"
+    },
+    {
+      "literal": "Kunal Jha"
+    },
+    {
+      "literal": "Shivam Aarya"
+    },
+    {
+      "literal": "Joshua B. Tenenbaum"
+    },
+    {
+      "literal": "Antonio Torralba"
+    },
+    {
+      "literal": "Tianmin Shu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.11075",
+  "genre": "preprint",
+  "version": "2"
+}

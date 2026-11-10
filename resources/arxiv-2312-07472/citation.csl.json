@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2312.07472",
+  "citation-key": "arxiv_2312_07472",
+  "type": "article",
+  "title": "MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception",
+  "URL": "https://arxiv.org/abs/2312.07472v4",
+  "custom": {
+    "catalog_id": "arxiv:2312.07472",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.07472",
+    "identifiers": {
+      "arxiv": "2312.07472"
+    },
+    "first_published_at": "2023-12-12",
+    "record_updated_at": "2024-03-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "29dfd2ed808b251ba70c7199e1cc15f67ba95d471f85637b0296d1b03c1e03ef",
+      "submitted_at": "2023-12-12T17:55:45Z",
+      "updated_at": "2024-03-26T18:08:05Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2312.07472v4"
+    }
+  },
+  "note": "First published: 2023-12-12; Recorded arXiv version: v4; Recorded version updated: 2024-03-26T18:08:05Z.",
+  "author": [
+    {
+      "literal": "Yiran Qin"
+    },
+    {
+      "literal": "Enshen Zhou"
+    },
+    {
+      "literal": "Qichang Liu"
+    },
+    {
+      "literal": "Zhenfei Yin"
+    },
+    {
+      "literal": "Lu Sheng"
+    },
+    {
+      "literal": "Ruimao Zhang"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jing Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.07472",
+  "genre": "preprint",
+  "version": "4"
+}

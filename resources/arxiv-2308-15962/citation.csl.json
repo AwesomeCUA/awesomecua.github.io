@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2308.15962",
+  "citation-key": "arxiv_2308_15962",
+  "type": "article",
+  "title": "WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model",
+  "URL": "https://arxiv.org/abs/2308.15962v2",
+  "custom": {
+    "catalog_id": "arxiv:2308.15962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.15962",
+    "identifiers": {
+      "arxiv": "2308.15962"
+    },
+    "first_published_at": "2023-08-30",
+    "record_updated_at": "2023-08-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4e74a28c1a7ba0eb2127a60f7bfba0560b99bbb8c5e582e36c32d47b558f1e61",
+      "submitted_at": "2023-08-30T11:35:21Z",
+      "updated_at": "2023-08-31T13:51:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2308.15962v2"
+    }
+  },
+  "note": "First published: 2023-08-30; Recorded arXiv version: v2; Recorded version updated: 2023-08-31T13:51:56Z.",
+  "author": [
+    {
+      "literal": "Tianyu Wang"
+    },
+    {
+      "literal": "Yifan Li"
+    },
+    {
+      "literal": "Haitao Lin"
+    },
+    {
+      "literal": "Xiangyang Xue"
+    },
+    {
+      "literal": "Yanwei Fu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.15962",
+  "genre": "preprint",
+  "version": "2"
+}

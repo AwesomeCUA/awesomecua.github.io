@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2305.14761",
+  "citation-key": "arxiv_2305_14761",
+  "type": "article",
+  "title": "UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning",
+  "URL": "https://arxiv.org/abs/2305.14761v3",
+  "custom": {
+    "catalog_id": "arxiv:2305.14761",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.14761",
+    "identifiers": {
+      "arxiv": "2305.14761"
+    },
+    "first_published_at": "2023-05-24",
+    "record_updated_at": "2023-10-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0632205a8aad6d5f48bf1a00d6bce14a5fc1958d0afdfd38cfd473a0b228f1b4",
+      "submitted_at": "2023-05-24T06:11:17Z",
+      "updated_at": "2023-10-10T23:39:25Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2305.14761v3"
+    }
+  },
+  "note": "First published: 2023-05-24; Recorded arXiv version: v3; Recorded version updated: 2023-10-10T23:39:25Z.",
+  "author": [
+    {
+      "literal": "Ahmed Masry"
+    },
+    {
+      "literal": "Parsa Kavehzadeh"
+    },
+    {
+      "literal": "Xuan Long Do"
+    },
+    {
+      "literal": "Enamul Hoque"
+    },
+    {
+      "literal": "Shafiq Joty"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.14761",
+  "genre": "preprint",
+  "version": "3"
+}

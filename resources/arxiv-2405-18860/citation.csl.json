@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2405.18860",
+  "citation-key": "arxiv_2405_18860",
+  "type": "article",
+  "title": "Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks",
+  "URL": "https://arxiv.org/abs/2405.18860v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.18860",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.18860",
+    "identifiers": {
+      "arxiv": "2405.18860"
+    },
+    "first_published_at": "2024-05-29",
+    "record_updated_at": "2024-06-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ccc3744142a54fd6c42389e83c9a4c79bbdb8536ea5c85cdd568d31787a513e6",
+      "submitted_at": "2024-05-29T08:15:56Z",
+      "updated_at": "2024-06-06T05:53:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.18860v2"
+    }
+  },
+  "note": "First published: 2024-05-29; Recorded arXiv version: v2; Recorded version updated: 2024-06-06T05:53:19Z.",
+  "author": [
+    {
+      "literal": "Tianle Zhang"
+    },
+    {
+      "literal": "Dongjiang Li"
+    },
+    {
+      "literal": "Yihang Li"
+    },
+    {
+      "literal": "Zecui Zeng"
+    },
+    {
+      "literal": "Lin Zhao"
+    },
+    {
+      "literal": "Lei Sun"
+    },
+    {
+      "literal": "Yue Chen"
+    },
+    {
+      "literal": "Xuelong Wei"
+    },
+    {
+      "literal": "Yibing Zhan"
+    },
+    {
+      "literal": "Lusong Li"
+    },
+    {
+      "literal": "Xiaodong He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.18860",
+  "genre": "preprint",
+  "version": "2"
+}

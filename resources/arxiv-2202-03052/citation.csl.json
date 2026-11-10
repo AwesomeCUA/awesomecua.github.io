@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2202.03052",
+  "citation-key": "arxiv_2202_03052",
+  "type": "article",
+  "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+  "URL": "https://arxiv.org/abs/2202.03052v2",
+  "custom": {
+    "catalog_id": "arxiv:2202.03052",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2202.03052",
+    "identifiers": {
+      "arxiv": "2202.03052"
+    },
+    "first_published_at": "2022-02-07",
+    "record_updated_at": "2022-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "06720d5368484f4175a815e53954cd5b30db6b0edc253a56018d90b86e2822ee",
+      "submitted_at": "2022-02-07T10:38:21Z",
+      "updated_at": "2022-06-01T09:24:35Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2202.03052v2"
+    }
+  },
+  "note": "First published: 2022-02-07; Recorded arXiv version: v2; Recorded version updated: 2022-06-01T09:24:35Z.",
+  "author": [
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "An Yang"
+    },
+    {
+      "literal": "Rui Men"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Shuai Bai"
+    },
+    {
+      "literal": "Zhikang Li"
+    },
+    {
+      "literal": "Jianxin Ma"
+    },
+    {
+      "literal": "Chang Zhou"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Hongxia Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2202.03052",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2412.10345",
+  "citation-key": "arxiv_2412_10345",
+  "type": "article",
+  "title": "TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies",
+  "URL": "https://arxiv.org/abs/2412.10345v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.10345",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.10345",
+    "identifiers": {
+      "arxiv": "2412.10345"
+    },
+    "first_published_at": "2024-12-13",
+    "record_updated_at": "2025-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e301bbcd9d6ab033ad5f181757352d768e3e19a32ee292e4f99b2541dc05652a",
+      "submitted_at": "2024-12-13T18:40:51Z",
+      "updated_at": "2025-06-05T21:26:08Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.10345v3"
+    }
+  },
+  "note": "First published: 2024-12-13; Recorded arXiv version: v3; Recorded version updated: 2025-06-05T21:26:08Z.",
+  "author": [
+    {
+      "literal": "Ruijie Zheng"
+    },
+    {
+      "literal": "Yongyuan Liang"
+    },
+    {
+      "literal": "Shuaiyi Huang"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    },
+    {
+      "literal": "Hal Daumé"
+    },
+    {
+      "literal": "Andrey Kolobov"
+    },
+    {
+      "literal": "Furong Huang"
+    },
+    {
+      "literal": "Jianwei Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.10345",
+  "genre": "preprint",
+  "version": "3"
+}

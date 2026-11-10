@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2210.08402",
+  "citation-key": "arxiv_2210_08402",
+  "type": "article",
+  "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+  "URL": "https://arxiv.org/abs/2210.08402v1",
+  "custom": {
+    "catalog_id": "arxiv:2210.08402",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2210.08402",
+    "identifiers": {
+      "arxiv": "2210.08402"
+    },
+    "first_published_at": "2022-10-16",
+    "record_updated_at": "2022-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e375bf206de1b4f8de62def8822ba9fe33c44d6cab389c15e45e08184fbab6eb",
+      "submitted_at": "2022-10-16T00:08:18Z",
+      "updated_at": "2022-10-16T00:08:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2210.08402v1"
+    }
+  },
+  "note": "First published: 2022-10-16; Recorded arXiv version: v1; Recorded version updated: 2022-10-16T00:08:18Z.",
+  "author": [
+    {
+      "literal": "Christoph Schuhmann"
+    },
+    {
+      "literal": "Romain Beaumont"
+    },
+    {
+      "literal": "Richard Vencu"
+    },
+    {
+      "literal": "Cade Gordon"
+    },
+    {
+      "literal": "Ross Wightman"
+    },
+    {
+      "literal": "Mehdi Cherti"
+    },
+    {
+      "literal": "Theo Coombes"
+    },
+    {
+      "literal": "Aarush Katta"
+    },
+    {
+      "literal": "Clayton Mullis"
+    },
+    {
+      "literal": "Mitchell Wortsman"
+    },
+    {
+      "literal": "Patrick Schramowski"
+    },
+    {
+      "literal": "Srivatsa Kundurthy"
+    },
+    {
+      "literal": "Katherine Crowson"
+    },
+    {
+      "literal": "Ludwig Schmidt"
+    },
+    {
+      "literal": "Robert Kaczmarczyk"
+    },
+    {
+      "literal": "Jenia Jitsev"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2210.08402",
+  "genre": "preprint",
+  "version": "1"
+}

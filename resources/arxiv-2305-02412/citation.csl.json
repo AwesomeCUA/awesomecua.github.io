@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2305.02412",
+  "citation-key": "arxiv_2305_02412",
+  "type": "article",
+  "title": "Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents",
+  "URL": "https://arxiv.org/abs/2305.02412v2",
+  "custom": {
+    "catalog_id": "arxiv:2305.02412",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.02412",
+    "identifiers": {
+      "arxiv": "2305.02412"
+    },
+    "first_published_at": "2023-05-03",
+    "record_updated_at": "2023-05-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9bc0174df3602e03515f8d61246e9327d8d69f6710a9ce559cc044b598411d89",
+      "submitted_at": "2023-05-03T20:11:22Z",
+      "updated_at": "2023-05-07T05:33:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2305.02412v2"
+    }
+  },
+  "note": "First published: 2023-05-03; Recorded arXiv version: v2; Recorded version updated: 2023-05-07T05:33:10Z.",
+  "author": [
+    {
+      "literal": "Yue Wu"
+    },
+    {
+      "literal": "So Yeon Min"
+    },
+    {
+      "literal": "Yonatan Bisk"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    },
+    {
+      "literal": "Amos Azaria"
+    },
+    {
+      "literal": "Yuanzhi Li"
+    },
+    {
+      "literal": "Tom Mitchell"
+    },
+    {
+      "literal": "Shrimai Prabhumoye"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.02412",
+  "genre": "preprint",
+  "version": "2"
+}

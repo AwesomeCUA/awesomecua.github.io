@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2212.09662",
+  "citation-key": "arxiv_2212_09662",
+  "type": "article",
+  "title": "MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering",
+  "URL": "https://arxiv.org/abs/2212.09662v2",
+  "custom": {
+    "catalog_id": "arxiv:2212.09662",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.09662",
+    "identifiers": {
+      "arxiv": "2212.09662"
+    },
+    "first_published_at": "2022-12-19",
+    "record_updated_at": "2023-05-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e430c951d67e0bc52064b38d46cf8a4267e3ff2780f0f2149eee67437060da47",
+      "submitted_at": "2022-12-19T17:44:54Z",
+      "updated_at": "2023-05-23T18:21:27Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2212.09662v2"
+    }
+  },
+  "note": "First published: 2022-12-19; Recorded arXiv version: v2; Recorded version updated: 2023-05-23T18:21:27Z.",
+  "author": [
+    {
+      "literal": "Fangyu Liu"
+    },
+    {
+      "literal": "Francesco Piccinno"
+    },
+    {
+      "literal": "Syrine Krichene"
+    },
+    {
+      "literal": "Chenxi Pang"
+    },
+    {
+      "literal": "Kenton Lee"
+    },
+    {
+      "literal": "Mandar Joshi"
+    },
+    {
+      "literal": "Yasemin Altun"
+    },
+    {
+      "literal": "Nigel Collier"
+    },
+    {
+      "literal": "Julian Martin Eisenschlos"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.09662",
+  "genre": "preprint",
+  "version": "2"
+}

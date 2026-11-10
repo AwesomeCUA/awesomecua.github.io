@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2401.06071",
+  "citation-key": "arxiv_2401_06071",
+  "type": "article",
+  "title": "GroundingGPT:Language Enhanced Multi-modal Grounding Model",
+  "URL": "https://arxiv.org/abs/2401.06071v5",
+  "custom": {
+    "catalog_id": "arxiv:2401.06071",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.06071",
+    "identifiers": {
+      "arxiv": "2401.06071"
+    },
+    "first_published_at": "2024-01-11",
+    "record_updated_at": "2024-03-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "545f6d01e621ee9854c3e74cb79b28e9c0070b164149eb0bcaad085c1577a31d",
+      "submitted_at": "2024-01-11T17:41:57Z",
+      "updated_at": "2024-03-05T14:36:12Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2401.06071v5"
+    }
+  },
+  "note": "First published: 2024-01-11; Recorded arXiv version: v5; Recorded version updated: 2024-03-05T14:36:12Z.",
+  "author": [
+    {
+      "literal": "Zhaowei Li"
+    },
+    {
+      "literal": "Qi Xu"
+    },
+    {
+      "literal": "Dong Zhang"
+    },
+    {
+      "literal": "Hang Song"
+    },
+    {
+      "literal": "Yiqing Cai"
+    },
+    {
+      "literal": "Qi Qi"
+    },
+    {
+      "literal": "Ran Zhou"
+    },
+    {
+      "literal": "Junting Pan"
+    },
+    {
+      "literal": "Zefeng Li"
+    },
+    {
+      "literal": "Van Tu Vu"
+    },
+    {
+      "literal": "Zhida Huang"
+    },
+    {
+      "literal": "Tao Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.06071",
+  "genre": "preprint",
+  "version": "5"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2410.24164",
+  "citation-key": "arxiv_2410_24164",
+  "type": "article",
+  "title": "$π_0$: A Vision-Language-Action Flow Model for General Robot Control",
+  "URL": "https://arxiv.org/abs/2410.24164v4",
+  "custom": {
+    "catalog_id": "arxiv:2410.24164",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.24164",
+    "identifiers": {
+      "arxiv": "2410.24164"
+    },
+    "first_published_at": "2024-10-31",
+    "record_updated_at": "2026-01-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b3f9cf40e28c2e75c15ac409d4f760bfcc00055e5e2bdc13980bb3c70f25c22a",
+      "submitted_at": "2024-10-31T17:22:30Z",
+      "updated_at": "2026-01-08T17:01:05Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2410.24164v4"
+    }
+  },
+  "note": "First published: 2024-10-31; Recorded arXiv version: v4; Recorded version updated: 2026-01-08T17:01:05Z.",
+  "author": [
+    {
+      "literal": "Kevin Black"
+    },
+    {
+      "literal": "Noah Brown"
+    },
+    {
+      "literal": "Danny Driess"
+    },
+    {
+      "literal": "Adnan Esmail"
+    },
+    {
+      "literal": "Michael Equi"
+    },
+    {
+      "literal": "Chelsea Finn"
+    },
+    {
+      "literal": "Niccolo Fusai"
+    },
+    {
+      "literal": "Lachy Groom"
+    },
+    {
+      "literal": "Karol Hausman"
+    },
+    {
+      "literal": "Brian Ichter"
+    },
+    {
+      "literal": "Szymon Jakubczak"
+    },
+    {
+      "literal": "Tim Jones"
+    },
+    {
+      "literal": "Liyiming Ke"
+    },
+    {
+      "literal": "Sergey Levine"
+    },
+    {
+      "literal": "Adrian Li-Bell"
+    },
+    {
+      "literal": "Mohith Mothukuri"
+    },
+    {
+      "literal": "Suraj Nair"
+    },
+    {
+      "literal": "Karl Pertsch"
+    },
+    {
+      "literal": "Lucy Xiaoyang Shi"
+    },
+    {
+      "literal": "James Tanner"
+    },
+    {
+      "literal": "Quan Vuong"
+    },
+    {
+      "literal": "Anna Walling"
+    },
+    {
+      "literal": "Haohuan Wang"
+    },
+    {
+      "literal": "Ury Zhilinsky"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.24164",
+  "genre": "preprint",
+  "version": "4"
+}

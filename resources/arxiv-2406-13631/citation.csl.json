@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2406.13631",
+  "citation-key": "arxiv_2406_13631",
+  "type": "article",
+  "title": "On AI-Inspired UI-Design",
+  "URL": "https://arxiv.org/abs/2406.13631v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.13631",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.13631",
+    "identifiers": {
+      "arxiv": "2406.13631"
+    },
+    "first_published_at": "2024-06-19",
+    "record_updated_at": "2025-01-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "43c7f6d88032c9e5ec795be858b57a13f546b0758fd480084e651f19484c65e7",
+      "submitted_at": "2024-06-19T15:28:21Z",
+      "updated_at": "2025-01-28T16:42:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.13631v2"
+    }
+  },
+  "note": "First published: 2024-06-19; Recorded arXiv version: v2; Recorded version updated: 2025-01-28T16:42:59Z.",
+  "author": [
+    {
+      "literal": "Jialiang Wei"
+    },
+    {
+      "literal": "Anne-Lise Courbis"
+    },
+    {
+      "literal": "Thomas Lambolais"
+    },
+    {
+      "literal": "Gérard Dray"
+    },
+    {
+      "literal": "Walid Maalej"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.13631",
+  "genre": "preprint",
+  "version": "2"
+}

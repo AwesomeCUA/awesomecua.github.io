@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2405.17418",
+  "citation-key": "arxiv_2405_17418",
+  "type": "article",
+  "title": "A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation",
+  "URL": "https://arxiv.org/abs/2405.17418v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.17418",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.17418",
+    "identifiers": {
+      "arxiv": "2405.17418"
+    },
+    "first_published_at": "2024-05-27",
+    "record_updated_at": "2025-03-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "959a26dc20336c7f39bb54ddb59bc68d3288cdb1783dd0f8d4f49ebbe7b32ec8",
+      "submitted_at": "2024-05-27T17:58:48Z",
+      "updated_at": "2025-03-19T03:55:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.17418v2"
+    }
+  },
+  "note": "First published: 2024-05-27; Recorded arXiv version: v2; Recorded version updated: 2025-03-19T03:55:48Z.",
+  "author": [
+    {
+      "literal": "Chenxuan Li"
+    },
+    {
+      "literal": "Jiaming Liu"
+    },
+    {
+      "literal": "Guanqun Wang"
+    },
+    {
+      "literal": "Xiaoqi Li"
+    },
+    {
+      "literal": "Sixiang Chen"
+    },
+    {
+      "literal": "Liang Heng"
+    },
+    {
+      "literal": "Chuyan Xiong"
+    },
+    {
+      "literal": "Jiaxin Ge"
+    },
+    {
+      "literal": "Renrui Zhang"
+    },
+    {
+      "literal": "Kaichen Zhou"
+    },
+    {
+      "literal": "Shanghang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.17418",
+  "genre": "preprint",
+  "version": "2"
+}

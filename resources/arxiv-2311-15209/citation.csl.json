@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2311.15209",
+  "citation-key": "arxiv_2311_15209",
+  "type": "article",
+  "title": "See and Think: Embodied Agent in Virtual Environment",
+  "URL": "https://arxiv.org/abs/2311.15209v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.15209",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.15209",
+    "identifiers": {
+      "arxiv": "2311.15209"
+    },
+    "first_published_at": "2023-11-26",
+    "record_updated_at": "2024-07-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0ee81775e9fb9ab792a29b02122618355c9105aaae9334296a8b2dd37e304b67",
+      "submitted_at": "2023-11-26T06:38:16Z",
+      "updated_at": "2024-07-09T05:01:06Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.15209v3"
+    }
+  },
+  "note": "First published: 2023-11-26; Recorded arXiv version: v3; Recorded version updated: 2024-07-09T05:01:06Z.",
+  "author": [
+    {
+      "literal": "Zhonghan Zhao"
+    },
+    {
+      "literal": "Wenhao Chai"
+    },
+    {
+      "literal": "Xuan Wang"
+    },
+    {
+      "literal": "Li Boyi"
+    },
+    {
+      "literal": "Shengyu Hao"
+    },
+    {
+      "literal": "Shidong Cao"
+    },
+    {
+      "literal": "Tian Ye"
+    },
+    {
+      "literal": "Gaoang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.15209",
+  "genre": "preprint",
+  "version": "3"
+}

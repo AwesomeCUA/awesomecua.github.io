@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2311.06791",
+  "citation-key": "arxiv_2311_06791",
+  "type": "article",
+  "title": "InfMLLM: A Unified Framework for Visual-Language Tasks",
+  "URL": "https://arxiv.org/abs/2311.06791v2",
+  "custom": {
+    "catalog_id": "arxiv:2311.06791",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.06791",
+    "identifiers": {
+      "arxiv": "2311.06791"
+    },
+    "first_published_at": "2023-11-12",
+    "record_updated_at": "2023-12-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0b24d8e484d983340f7e4f67a11b3e33e3dbd007d885c3984e5f654b1fd0e829",
+      "submitted_at": "2023-11-12T09:58:16Z",
+      "updated_at": "2023-12-06T11:06:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2311.06791v2"
+    }
+  },
+  "note": "First published: 2023-11-12; Recorded arXiv version: v2; Recorded version updated: 2023-12-06T11:06:06Z.",
+  "author": [
+    {
+      "literal": "Qiang Zhou"
+    },
+    {
+      "literal": "Zhibin Wang"
+    },
+    {
+      "literal": "Wei Chu"
+    },
+    {
+      "literal": "Yinghui Xu"
+    },
+    {
+      "literal": "Hao Li"
+    },
+    {
+      "literal": "Yuan Qi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.06791",
+  "genre": "preprint",
+  "version": "2"
+}

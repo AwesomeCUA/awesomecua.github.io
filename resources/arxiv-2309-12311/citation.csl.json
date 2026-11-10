@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2309.12311",
+  "citation-key": "arxiv_2309_12311",
+  "type": "article",
+  "title": "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent",
+  "URL": "https://arxiv.org/abs/2309.12311v1",
+  "custom": {
+    "catalog_id": "arxiv:2309.12311",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.12311",
+    "identifiers": {
+      "arxiv": "2309.12311"
+    },
+    "first_published_at": "2023-09-21",
+    "record_updated_at": "2023-09-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "92f69f39620430bade067aa99dd398f3c780b802073d7d393ca2a45a1e583134",
+      "submitted_at": "2023-09-21T17:59:45Z",
+      "updated_at": "2023-09-21T17:59:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2309.12311v1"
+    }
+  },
+  "note": "First published: 2023-09-21; Recorded arXiv version: v1; Recorded version updated: 2023-09-21T17:59:45Z.",
+  "author": [
+    {
+      "literal": "Jianing Yang"
+    },
+    {
+      "literal": "Xuweiyi Chen"
+    },
+    {
+      "literal": "Shengyi Qian"
+    },
+    {
+      "literal": "Nikhil Madaan"
+    },
+    {
+      "literal": "Madhavan Iyengar"
+    },
+    {
+      "literal": "David F. Fouhey"
+    },
+    {
+      "literal": "Joyce Chai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.12311",
+  "genre": "preprint",
+  "version": "1"
+}

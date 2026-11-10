@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2405.12107",
+  "citation-key": "arxiv_2405_12107",
+  "type": "article",
+  "title": "Imp: Highly Capable Large Multimodal Models for Mobile Devices",
+  "URL": "https://arxiv.org/abs/2405.12107v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.12107",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.12107",
+    "identifiers": {
+      "arxiv": "2405.12107"
+    },
+    "first_published_at": "2024-05-20",
+    "record_updated_at": "2024-05-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "89dba99c4631596c4b7b66cf30ce67ed1b6bb79c5673fd4c18d5254e9c76d269",
+      "submitted_at": "2024-05-20T15:23:19Z",
+      "updated_at": "2024-05-30T02:47:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.12107v2"
+    }
+  },
+  "note": "First published: 2024-05-20; Recorded arXiv version: v2; Recorded version updated: 2024-05-30T02:47:10Z.",
+  "author": [
+    {
+      "literal": "Zhenwei Shao"
+    },
+    {
+      "literal": "Zhou Yu"
+    },
+    {
+      "literal": "Jun Yu"
+    },
+    {
+      "literal": "Xuecheng Ouyang"
+    },
+    {
+      "literal": "Lihao Zheng"
+    },
+    {
+      "literal": "Zhenbiao Gai"
+    },
+    {
+      "literal": "Mingyang Wang"
+    },
+    {
+      "literal": "Jiajun Ding"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.12107",
+  "genre": "preprint",
+  "version": "2"
+}

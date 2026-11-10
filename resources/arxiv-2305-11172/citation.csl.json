@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2305.11172",
+  "citation-key": "arxiv_2305_11172",
+  "type": "article",
+  "title": "ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities",
+  "URL": "https://arxiv.org/abs/2305.11172v1",
+  "custom": {
+    "catalog_id": "arxiv:2305.11172",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.11172",
+    "identifiers": {
+      "arxiv": "2305.11172"
+    },
+    "first_published_at": "2023-05-18",
+    "record_updated_at": "2023-05-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2e125ece16c671dc9268af9537b9444b4b68a32df4e8668c514bf3f7ebc0b64f",
+      "submitted_at": "2023-05-18T17:59:06Z",
+      "updated_at": "2023-05-18T17:59:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2305.11172v1"
+    }
+  },
+  "note": "First published: 2023-05-18; Recorded arXiv version: v1; Recorded version updated: 2023-05-18T17:59:06Z.",
+  "author": [
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "Shijie Wang"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Shuai Bai"
+    },
+    {
+      "literal": "Xiaohuan Zhou"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Xinggang Wang"
+    },
+    {
+      "literal": "Chang Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.11172",
+  "genre": "preprint",
+  "version": "1"
+}

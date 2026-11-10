@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2310.08825",
+  "citation-key": "arxiv_2310_08825",
+  "type": "article",
+  "title": "From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models",
+  "URL": "https://arxiv.org/abs/2310.08825v3",
+  "custom": {
+    "catalog_id": "arxiv:2310.08825",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.08825",
+    "identifiers": {
+      "arxiv": "2310.08825"
+    },
+    "first_published_at": "2023-10-13",
+    "record_updated_at": "2024-03-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "93b36a96b6e40bb48cabe0ce089b6bfcf6e66e2da69a3fc5976631600fae6962",
+      "submitted_at": "2023-10-13T02:41:55Z",
+      "updated_at": "2024-03-08T02:49:12Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2310.08825v3"
+    }
+  },
+  "note": "First published: 2023-10-13; Recorded arXiv version: v3; Recorded version updated: 2024-03-08T02:49:12Z.",
+  "author": [
+    {
+      "literal": "Dongsheng Jiang"
+    },
+    {
+      "literal": "Yuchen Liu"
+    },
+    {
+      "literal": "Songlin Liu"
+    },
+    {
+      "literal": "Jin'e Zhao"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Zhen Gao"
+    },
+    {
+      "literal": "Xiaopeng Zhang"
+    },
+    {
+      "literal": "Jin Li"
+    },
+    {
+      "literal": "Hongkai Xiong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.08825",
+  "genre": "preprint",
+  "version": "3"
+}

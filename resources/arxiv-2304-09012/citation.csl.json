@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2304.09012",
+  "citation-key": "arxiv_2304_09012",
+  "type": "article",
+  "title": "GUILGET: GUI Layout GEneration with Transformer",
+  "URL": "https://arxiv.org/abs/2304.09012v1",
+  "custom": {
+    "catalog_id": "arxiv:2304.09012",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2304.09012",
+    "identifiers": {
+      "arxiv": "2304.09012"
+    },
+    "first_published_at": "2023-04-18",
+    "record_updated_at": "2023-04-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "294140a99a07a287165f27f5715ed9eb2ddf50959dad187dc7ea4b130ff50721",
+      "submitted_at": "2023-04-18T14:27:34Z",
+      "updated_at": "2023-04-18T14:27:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2304.09012v1"
+    }
+  },
+  "note": "First published: 2023-04-18; Recorded arXiv version: v1; Recorded version updated: 2023-04-18T14:27:34Z.",
+  "author": [
+    {
+      "literal": "Andrey Sobolevsky"
+    },
+    {
+      "literal": "Guillaume-Alexandre Bilodeau"
+    },
+    {
+      "literal": "Jinghui Cheng"
+    },
+    {
+      "literal": "Jin L. C. Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2304.09012",
+  "genre": "preprint",
+  "version": "1"
+}

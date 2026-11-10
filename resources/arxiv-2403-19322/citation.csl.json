@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2403.19322",
+  "citation-key": "arxiv_2403_19322",
+  "type": "article",
+  "title": "Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2403.19322v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.19322",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.19322",
+    "identifiers": {
+      "arxiv": "2403.19322"
+    },
+    "first_published_at": "2024-03-28",
+    "record_updated_at": "2024-06-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b50f78855a79f80973615dfe19d80e757cb6804523e7d15eaa9e2413ae3972d6",
+      "submitted_at": "2024-03-28T11:26:30Z",
+      "updated_at": "2024-06-18T05:57:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.19322v2"
+    }
+  },
+  "note": "First published: 2024-03-28; Recorded arXiv version: v2; Recorded version updated: 2024-06-18T05:57:14Z.",
+  "author": [
+    {
+      "literal": "Jiaxing Chen"
+    },
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Dehu Li"
+    },
+    {
+      "literal": "Xiang An"
+    },
+    {
+      "literal": "Weimo Deng"
+    },
+    {
+      "literal": "Ziyong Feng"
+    },
+    {
+      "literal": "Yongle Zhao"
+    },
+    {
+      "literal": "Yin Xie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.19322",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -2,7 +2,7 @@
 
 Computer-use benchmarks are task suites and environments that score agents operating web browsers, desktop applications or mobile devices. Each pairs a fixed set of tasks with an evaluator, such as execution-based state checks, answer matching or target localization.
 
-> 310 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T06:29:47Z.
+> 310 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T08:20:17Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

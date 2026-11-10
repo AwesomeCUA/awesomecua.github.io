@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2401.08392",
+  "citation-key": "arxiv_2401_08392",
+  "type": "article",
+  "title": "DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent)",
+  "URL": "https://arxiv.org/abs/2401.08392v4",
+  "custom": {
+    "catalog_id": "arxiv:2401.08392",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.08392",
+    "identifiers": {
+      "arxiv": "2401.08392"
+    },
+    "first_published_at": "2024-01-16",
+    "record_updated_at": "2025-03-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "12e9b170993a1a3424d9fb2d7d179ff95efa6f29506d6299ee14d8f819d5ccc8",
+      "submitted_at": "2024-01-16T14:33:09Z",
+      "updated_at": "2025-03-06T03:27:02Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2401.08392v4"
+    }
+  },
+  "note": "First published: 2024-01-16; Recorded arXiv version: v4; Recorded version updated: 2025-03-06T03:27:02Z.",
+  "author": [
+    {
+      "literal": "Zongxin Yang"
+    },
+    {
+      "literal": "Guikun Chen"
+    },
+    {
+      "literal": "Xiaodi Li"
+    },
+    {
+      "literal": "Wenguan Wang"
+    },
+    {
+      "literal": "Yi Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.08392",
+  "genre": "preprint",
+  "version": "4"
+}

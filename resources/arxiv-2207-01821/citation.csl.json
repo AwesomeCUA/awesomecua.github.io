@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2207.01821",
+  "citation-key": "arxiv_2207_01821",
+  "type": "article",
+  "title": "Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases",
+  "URL": "https://arxiv.org/abs/2207.01821v2",
+  "custom": {
+    "catalog_id": "arxiv:2207.01821",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2207.01821",
+    "identifiers": {
+      "arxiv": "2207.01821"
+    },
+    "first_published_at": "2022-07-05",
+    "record_updated_at": "2023-05-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b9e4a887e936a4e26357280853178daf8c96b415291be87a11df6a17f16d09cb",
+      "submitted_at": "2022-07-05T05:50:12Z",
+      "updated_at": "2023-05-27T10:03:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2207.01821v2"
+    }
+  },
+  "note": "First published: 2022-07-05; Recorded arXiv version: v2; Recorded version updated: 2023-05-27T10:03:34Z.",
+  "author": [
+    {
+      "literal": "Zhihao Yuan"
+    },
+    {
+      "literal": "Xu Yan"
+    },
+    {
+      "literal": "Zhuo Li"
+    },
+    {
+      "literal": "Xuhao Li"
+    },
+    {
+      "literal": "Yao Guo"
+    },
+    {
+      "literal": "Shuguang Cui"
+    },
+    {
+      "literal": "Zhen Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2207.01821",
+  "genre": "preprint",
+  "version": "2"
+}

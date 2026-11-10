@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2502.17812",
+  "citation-key": "arxiv_2502_17812",
+  "type": "article",
+  "title": "Can Multimodal LLMs Perform Time Series Anomaly Detection?",
+  "URL": "https://arxiv.org/abs/2502.17812v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.17812",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.17812",
+    "identifiers": {
+      "arxiv": "2502.17812"
+    },
+    "first_published_at": "2025-02-25",
+    "record_updated_at": "2026-02-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ca6f3e5353a2373e19def5de8c317c487b3d8c36d43b78b16ab7684bbf7bd4c2",
+      "submitted_at": "2025-02-25T03:37:43Z",
+      "updated_at": "2026-02-17T17:04:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.17812v2"
+    }
+  },
+  "note": "First published: 2025-02-25; Recorded arXiv version: v2; Recorded version updated: 2026-02-17T17:04:01Z.",
+  "author": [
+    {
+      "literal": "Xiongxiao Xu"
+    },
+    {
+      "literal": "Haoran Wang"
+    },
+    {
+      "literal": "Yueqing Liang"
+    },
+    {
+      "literal": "Philip S. Yu"
+    },
+    {
+      "literal": "Yue Zhao"
+    },
+    {
+      "literal": "Kai Shu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.17812",
+  "genre": "preprint",
+  "version": "2"
+}

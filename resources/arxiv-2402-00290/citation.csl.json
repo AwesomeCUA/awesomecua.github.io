@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2402.00290",
+  "citation-key": "arxiv_2402_00290",
+  "type": "article",
+  "title": "MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments",
+  "URL": "https://arxiv.org/abs/2402.00290v3",
+  "custom": {
+    "catalog_id": "arxiv:2402.00290",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.00290",
+    "identifiers": {
+      "arxiv": "2402.00290"
+    },
+    "first_published_at": "2024-02-01",
+    "record_updated_at": "2024-07-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f35f81a190ea18d859f6c657ea7cfeee0ecb71d9584efa77e0e5a9e6f1831140",
+      "submitted_at": "2024-02-01T02:43:20Z",
+      "updated_at": "2024-07-29T05:47:44Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2402.00290v3"
+    }
+  },
+  "note": "First published: 2024-02-01; Recorded arXiv version: v3; Recorded version updated: 2024-07-29T05:47:44Z.",
+  "author": [
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Xinshuai Song"
+    },
+    {
+      "literal": "Kaixuan Jiang"
+    },
+    {
+      "literal": "Weixing Chen"
+    },
+    {
+      "literal": "Jingzhou Luo"
+    },
+    {
+      "literal": "Guanbin Li"
+    },
+    {
+      "literal": "Liang Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.00290",
+  "genre": "preprint",
+  "version": "3"
+}

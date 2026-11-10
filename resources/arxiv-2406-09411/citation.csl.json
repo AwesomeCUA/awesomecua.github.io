@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2406.09411",
+  "citation-key": "arxiv_2406_09411",
+  "type": "article",
+  "title": "MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding",
+  "URL": "https://arxiv.org/abs/2406.09411v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.09411",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.09411",
+    "identifiers": {
+      "arxiv": "2406.09411"
+    },
+    "first_published_at": "2024-06-13",
+    "record_updated_at": "2024-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "329b3932e14d4c4f2ee80154b48625d3eb28f4bd5899d0b718f8079d1071f47e",
+      "submitted_at": "2024-06-13T17:59:52Z",
+      "updated_at": "2024-07-02T01:56:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.09411v2"
+    }
+  },
+  "note": "First published: 2024-06-13; Recorded arXiv version: v2; Recorded version updated: 2024-07-02T01:56:14Z.",
+  "author": [
+    {
+      "literal": "Fei Wang"
+    },
+    {
+      "literal": "Xingyu Fu"
+    },
+    {
+      "literal": "James Y. Huang"
+    },
+    {
+      "literal": "Zekun Li"
+    },
+    {
+      "literal": "Qin Liu"
+    },
+    {
+      "literal": "Xiaogeng Liu"
+    },
+    {
+      "literal": "Mingyu Derek Ma"
+    },
+    {
+      "literal": "Nan Xu"
+    },
+    {
+      "literal": "Wenxuan Zhou"
+    },
+    {
+      "literal": "Kai Zhang"
+    },
+    {
+      "literal": "Tianyi Lorena Yan"
+    },
+    {
+      "literal": "Wenjie Jacky Mo"
+    },
+    {
+      "literal": "Hsiang-Hui Liu"
+    },
+    {
+      "literal": "Pan Lu"
+    },
+    {
+      "literal": "Chunyuan Li"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    },
+    {
+      "literal": "Kai-Wei Chang"
+    },
+    {
+      "literal": "Dan Roth"
+    },
+    {
+      "literal": "Sheng Zhang"
+    },
+    {
+      "literal": "Hoifung Poon"
+    },
+    {
+      "literal": "Muhao Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.09411",
+  "genre": "preprint",
+  "version": "2"
+}

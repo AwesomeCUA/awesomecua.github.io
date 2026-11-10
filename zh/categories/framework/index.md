@@ -2,7 +2,7 @@
 
 框架是用于构建、运行、评估或训练计算机使用智能体的库和 SDK，从浏览器自动化智能体库到强化学习训练栈。
 
-> AwesomeCUA 目录收录 675 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T06:29:47Z。
+> AwesomeCUA 目录收录 675 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https://awesomecua.com/categories/framework/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

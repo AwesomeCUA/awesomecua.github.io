@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2408.12637",
+  "citation-key": "arxiv_2408_12637",
+  "type": "article",
+  "title": "Building and better understanding vision-language models: insights and future directions",
+  "URL": "https://arxiv.org/abs/2408.12637v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.12637",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.12637",
+    "identifiers": {
+      "arxiv": "2408.12637"
+    },
+    "first_published_at": "2024-08-22",
+    "record_updated_at": "2024-08-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fd6d1d528b728c581f13641d404cca1ebef280c282771e85dc3aabc45ffc3e69",
+      "submitted_at": "2024-08-22T17:47:24Z",
+      "updated_at": "2024-08-22T17:47:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.12637v1"
+    }
+  },
+  "note": "First published: 2024-08-22; Recorded arXiv version: v1; Recorded version updated: 2024-08-22T17:47:24Z.",
+  "author": [
+    {
+      "literal": "Hugo Laurençon"
+    },
+    {
+      "literal": "Andrés Marafioti"
+    },
+    {
+      "literal": "Victor Sanh"
+    },
+    {
+      "literal": "Léo Tronchon"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.12637",
+  "genre": "preprint",
+  "version": "1"
+}

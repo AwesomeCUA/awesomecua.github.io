@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2412.03572",
+  "citation-key": "arxiv_2412_03572",
+  "type": "article",
+  "title": "Navigation World Models",
+  "URL": "https://arxiv.org/abs/2412.03572v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.03572",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.03572",
+    "identifiers": {
+      "arxiv": "2412.03572"
+    },
+    "first_published_at": "2024-12-04",
+    "record_updated_at": "2025-04-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c8d409d18d95340568aaa25620fb130f276e8d8f2da04436b2cbb3d0d0f77d1",
+      "submitted_at": "2024-12-04T18:59:45Z",
+      "updated_at": "2025-04-11T19:20:22Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.03572v2"
+    }
+  },
+  "note": "First published: 2024-12-04; Recorded arXiv version: v2; Recorded version updated: 2025-04-11T19:20:22Z.",
+  "author": [
+    {
+      "literal": "Amir Bar"
+    },
+    {
+      "literal": "Gaoyue Zhou"
+    },
+    {
+      "literal": "Danny Tran"
+    },
+    {
+      "literal": "Trevor Darrell"
+    },
+    {
+      "literal": "Yann LeCun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.03572",
+  "genre": "preprint",
+  "version": "2"
+}

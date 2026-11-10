@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2407.10943",
+  "citation-key": "arxiv_2407_10943",
+  "type": "article",
+  "title": "GRUtopia: Dream General Robots in a City at Scale",
+  "URL": "https://arxiv.org/abs/2407.10943v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.10943",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.10943",
+    "identifiers": {
+      "arxiv": "2407.10943"
+    },
+    "first_published_at": "2024-07-15",
+    "record_updated_at": "2024-07-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3642cc789ce3e70178962bcef85d6fb66bedcbcec5c8d130af2dd4d9883af153",
+      "submitted_at": "2024-07-15T17:40:46Z",
+      "updated_at": "2024-07-15T17:40:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.10943v1"
+    }
+  },
+  "note": "First published: 2024-07-15; Recorded arXiv version: v1; Recorded version updated: 2024-07-15T17:40:46Z.",
+  "author": [
+    {
+      "literal": "Hanqing Wang"
+    },
+    {
+      "literal": "Jiahe Chen"
+    },
+    {
+      "literal": "Wensi Huang"
+    },
+    {
+      "literal": "Qingwei Ben"
+    },
+    {
+      "literal": "Tai Wang"
+    },
+    {
+      "literal": "Boyu Mi"
+    },
+    {
+      "literal": "Tao Huang"
+    },
+    {
+      "literal": "Siheng Zhao"
+    },
+    {
+      "literal": "Yilun Chen"
+    },
+    {
+      "literal": "Sizhe Yang"
+    },
+    {
+      "literal": "Peizhou Cao"
+    },
+    {
+      "literal": "Wenye Yu"
+    },
+    {
+      "literal": "Zichao Ye"
+    },
+    {
+      "literal": "Jialun Li"
+    },
+    {
+      "literal": "Junfeng Long"
+    },
+    {
+      "literal": "Zirui Wang"
+    },
+    {
+      "literal": "Huiling Wang"
+    },
+    {
+      "literal": "Ying Zhao"
+    },
+    {
+      "literal": "Zhongying Tu"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Jiangmiao Pang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.10943",
+  "genre": "preprint",
+  "version": "1"
+}

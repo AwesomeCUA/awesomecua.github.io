@@ -1,0 +1,124 @@
+{
+  "id": "arxiv:2303.01586",
+  "citation-key": "arxiv_2303_01586",
+  "type": "article",
+  "title": "Alexa Arena: A User-Centric Interactive Platform for Embodied AI",
+  "URL": "https://arxiv.org/abs/2303.01586v2",
+  "custom": {
+    "catalog_id": "arxiv:2303.01586",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.01586",
+    "identifiers": {
+      "arxiv": "2303.01586"
+    },
+    "first_published_at": "2023-03-02",
+    "record_updated_at": "2023-06-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5bad5acf444cd9a135fcb758318b028331e312fa5c2d091c2e857bdbbe3c65c",
+      "submitted_at": "2023-03-02T21:22:00Z",
+      "updated_at": "2023-06-07T08:54:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2303.01586v2"
+    }
+  },
+  "note": "First published: 2023-03-02; Recorded arXiv version: v2; Recorded version updated: 2023-06-07T08:54:46Z.",
+  "author": [
+    {
+      "literal": "Qiaozi Gao"
+    },
+    {
+      "literal": "Govind Thattai"
+    },
+    {
+      "literal": "Suhaila Shakiah"
+    },
+    {
+      "literal": "Xiaofeng Gao"
+    },
+    {
+      "literal": "Shreyas Pansare"
+    },
+    {
+      "literal": "Vasu Sharma"
+    },
+    {
+      "literal": "Gaurav Sukhatme"
+    },
+    {
+      "literal": "Hangjie Shi"
+    },
+    {
+      "literal": "Bofei Yang"
+    },
+    {
+      "literal": "Desheng Zheng"
+    },
+    {
+      "literal": "Lucy Hu"
+    },
+    {
+      "literal": "Karthika Arumugam"
+    },
+    {
+      "literal": "Shui Hu"
+    },
+    {
+      "literal": "Matthew Wen"
+    },
+    {
+      "literal": "Dinakar Guthy"
+    },
+    {
+      "literal": "Cadence Chung"
+    },
+    {
+      "literal": "Rohan Khanna"
+    },
+    {
+      "literal": "Osman Ipek"
+    },
+    {
+      "literal": "Leslie Ball"
+    },
+    {
+      "literal": "Kate Bland"
+    },
+    {
+      "literal": "Heather Rocker"
+    },
+    {
+      "literal": "Yadunandana Rao"
+    },
+    {
+      "literal": "Michael Johnston"
+    },
+    {
+      "literal": "Reza Ghanadan"
+    },
+    {
+      "literal": "Arindam Mandal"
+    },
+    {
+      "literal": "Dilek Hakkani Tur"
+    },
+    {
+      "literal": "Prem Natarajan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.01586",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2208.09116",
+  "citation-key": "arxiv_2208_09116",
+  "type": "article",
+  "title": "Effective, Platform-Independent GUI Testing via Image Embedding and Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2208.09116v2",
+  "custom": {
+    "catalog_id": "arxiv:2208.09116",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2208.09116",
+    "identifiers": {
+      "arxiv": "2208.09116"
+    },
+    "first_published_at": "2022-08-19",
+    "record_updated_at": "2024-06-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c75c7fe117ff1601cbd5573eec248c219c6d28fc0c139dcc35ac6404b4da6853",
+      "submitted_at": "2022-08-19T01:51:16Z",
+      "updated_at": "2024-06-12T15:56:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2208.09116v2"
+    }
+  },
+  "note": "First published: 2022-08-19; Recorded arXiv version: v2; Recorded version updated: 2024-06-12T15:56:52Z.",
+  "author": [
+    {
+      "literal": "Shengcheng Yu"
+    },
+    {
+      "literal": "Chunrong Fang"
+    },
+    {
+      "literal": "Xin Li"
+    },
+    {
+      "literal": "Yuchen Ling"
+    },
+    {
+      "literal": "Zhenyu Chen"
+    },
+    {
+      "literal": "Zhendong Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2208.09116",
+  "genre": "preprint",
+  "version": "2"
+}

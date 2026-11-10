@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2405.09981",
+  "citation-key": "arxiv_2405_09981",
+  "type": "article",
+  "title": "Adversarial Robustness for Visual Grounding of Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2405.09981v1",
+  "custom": {
+    "catalog_id": "arxiv:2405.09981",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.09981",
+    "identifiers": {
+      "arxiv": "2405.09981"
+    },
+    "first_published_at": "2024-05-16",
+    "record_updated_at": "2024-05-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f206eca01b81f0640d4b3b0f7b7b980fe60f50c7b9b4b06edce60805387923f2",
+      "submitted_at": "2024-05-16T10:54:26Z",
+      "updated_at": "2024-05-16T10:54:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2405.09981v1"
+    }
+  },
+  "note": "First published: 2024-05-16; Recorded arXiv version: v1; Recorded version updated: 2024-05-16T10:54:26Z.",
+  "author": [
+    {
+      "literal": "Kuofeng Gao"
+    },
+    {
+      "literal": "Yang Bai"
+    },
+    {
+      "literal": "Jiawang Bai"
+    },
+    {
+      "literal": "Yong Yang"
+    },
+    {
+      "literal": "Shu-Tao Xia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.09981",
+  "genre": "preprint",
+  "version": "1"
+}

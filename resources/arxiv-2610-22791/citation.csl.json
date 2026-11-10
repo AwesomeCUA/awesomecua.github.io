@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.22791",
+  "citation-key": "arxiv_2610_22791",
+  "type": "article",
+  "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+  "URL": "https://arxiv.org/abs/2610.22791v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22791",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22791",
+    "identifiers": {
+      "arxiv": "2610.22791"
+    },
+    "first_published_at": "2026-10-16",
+    "record_updated_at": "2026-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "de843b57c5320605cc195ad0c7a5b5c96692993d229ee27a227e486c7c9addba",
+      "submitted_at": "2026-10-16T01:07:52Z",
+      "updated_at": "2026-10-16T01:07:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22791v1"
+    }
+  },
+  "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T01:07:52Z.",
+  "author": [
+    {
+      "literal": "Zhepei Wei"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Baolin Peng"
+    },
+    {
+      "literal": "Danqing Wang"
+    },
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Hao Cheng"
+    },
+    {
+      "literal": "Yu Meng"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22791",
+  "genre": "preprint",
+  "version": "1"
+}

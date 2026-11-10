@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2404.04619",
+  "citation-key": "arxiv_2404_04619",
+  "type": "article",
+  "title": "Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model",
+  "URL": "https://arxiv.org/abs/2404.04619v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.04619",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.04619",
+    "identifiers": {
+      "arxiv": "2404.04619"
+    },
+    "first_published_at": "2024-04-06",
+    "record_updated_at": "2024-04-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a8f986399c7585ba1a57b001939774d14e90eddbd3a39e3112aeb58f7a14c97c",
+      "submitted_at": "2024-04-06T12:51:00Z",
+      "updated_at": "2024-04-06T12:51:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.04619v1"
+    }
+  },
+  "note": "First published: 2024-04-06; Recorded arXiv version: v1; Recorded version updated: 2024-04-06T12:51:00Z.",
+  "author": [
+    {
+      "literal": "Zhonghan Zhao"
+    },
+    {
+      "literal": "Ke Ma"
+    },
+    {
+      "literal": "Wenhao Chai"
+    },
+    {
+      "literal": "Xuan Wang"
+    },
+    {
+      "literal": "Kewei Chen"
+    },
+    {
+      "literal": "Dongxu Guo"
+    },
+    {
+      "literal": "Yanting Zhang"
+    },
+    {
+      "literal": "Hongwei Wang"
+    },
+    {
+      "literal": "Gaoang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.04619",
+  "genre": "preprint",
+  "version": "1"
+}

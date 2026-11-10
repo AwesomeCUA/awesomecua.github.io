@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2305.08455",
+  "citation-key": "arxiv_2305_08455",
+  "type": "article",
+  "title": "Document Understanding Dataset and Evaluation (DUDE)",
+  "URL": "https://arxiv.org/abs/2305.08455v3",
+  "custom": {
+    "catalog_id": "arxiv:2305.08455",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.08455",
+    "identifiers": {
+      "arxiv": "2305.08455"
+    },
+    "first_published_at": "2023-05-15",
+    "record_updated_at": "2023-09-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e8c7e1ab7b7abf82f24bf0c569895e1fef3996ee693161e81c3c6222493008f8",
+      "submitted_at": "2023-05-15T08:54:32Z",
+      "updated_at": "2023-09-11T10:36:41Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2305.08455v3"
+    }
+  },
+  "note": "First published: 2023-05-15; Recorded arXiv version: v3; Recorded version updated: 2023-09-11T10:36:41Z.",
+  "author": [
+    {
+      "literal": "Jordy Van Landeghem"
+    },
+    {
+      "literal": "Rubén Tito"
+    },
+    {
+      "literal": "Łukasz Borchmann"
+    },
+    {
+      "literal": "Michał Pietruszka"
+    },
+    {
+      "literal": "Paweł Józiak"
+    },
+    {
+      "literal": "Rafał Powalski"
+    },
+    {
+      "literal": "Dawid Jurkiewicz"
+    },
+    {
+      "literal": "Mickaël Coustaty"
+    },
+    {
+      "literal": "Bertrand Ackaert"
+    },
+    {
+      "literal": "Ernest Valveny"
+    },
+    {
+      "literal": "Matthew Blaschko"
+    },
+    {
+      "literal": "Sien Moens"
+    },
+    {
+      "literal": "Tomasz Stanisławek"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.08455",
+  "genre": "preprint",
+  "version": "3"
+}

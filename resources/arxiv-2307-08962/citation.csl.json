@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2307.08962",
+  "citation-key": "arxiv_2307_08962",
+  "type": "article",
+  "title": "REX: Rapid Exploration and eXploitation for AI Agents",
+  "URL": "https://arxiv.org/abs/2307.08962v2",
+  "custom": {
+    "catalog_id": "arxiv:2307.08962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2307.08962",
+    "identifiers": {
+      "arxiv": "2307.08962"
+    },
+    "first_published_at": "2023-07-18",
+    "record_updated_at": "2024-01-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2d5413b2a8e2b679cb0a38ed15f0ea7a9cea76a4c5c1a50ead9535bba749fe68",
+      "submitted_at": "2023-07-18T04:26:33Z",
+      "updated_at": "2024-01-26T20:47:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2307.08962v2"
+    }
+  },
+  "note": "First published: 2023-07-18; Recorded arXiv version: v2; Recorded version updated: 2024-01-26T20:47:11Z.",
+  "author": [
+    {
+      "literal": "Rithesh Murthy"
+    },
+    {
+      "literal": "Shelby Heinecke"
+    },
+    {
+      "literal": "Juan Carlos Niebles"
+    },
+    {
+      "literal": "Zhiwei Liu"
+    },
+    {
+      "literal": "Le Xue"
+    },
+    {
+      "literal": "Weiran Yao"
+    },
+    {
+      "literal": "Yihao Feng"
+    },
+    {
+      "literal": "Zeyuan Chen"
+    },
+    {
+      "literal": "Akash Gokul"
+    },
+    {
+      "literal": "Devansh Arpit"
+    },
+    {
+      "literal": "Ran Xu"
+    },
+    {
+      "literal": "Phil Mui"
+    },
+    {
+      "literal": "Huan Wang"
+    },
+    {
+      "literal": "Caiming Xiong"
+    },
+    {
+      "literal": "Silvio Savarese"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.08962",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2403.09029",
+  "citation-key": "arxiv_2403_09029",
+  "type": "article",
+  "title": "Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset",
+  "URL": "https://arxiv.org/abs/2403.09029v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.09029",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.09029",
+    "identifiers": {
+      "arxiv": "2403.09029"
+    },
+    "first_published_at": "2024-03-14",
+    "record_updated_at": "2024-03-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59ecc07f6c9b14d2eddae8af8e955ae4722089b7aff272f5f23c2bc28b69fb6e",
+      "submitted_at": "2024-03-14T01:40:40Z",
+      "updated_at": "2024-03-14T01:40:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.09029v1"
+    }
+  },
+  "note": "First published: 2024-03-14; Recorded arXiv version: v1; Recorded version updated: 2024-03-14T01:40:40Z.",
+  "author": [
+    {
+      "literal": "Hugo Laurençon"
+    },
+    {
+      "literal": "Léo Tronchon"
+    },
+    {
+      "literal": "Victor Sanh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.09029",
+  "genre": "preprint",
+  "version": "1"
+}

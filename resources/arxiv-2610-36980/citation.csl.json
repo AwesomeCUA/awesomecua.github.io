@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.36980",
+  "citation-key": "arxiv_2610_36980",
+  "type": "article",
+  "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+  "URL": "https://arxiv.org/abs/2610.36980v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.36980",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.36980",
+    "identifiers": {
+      "arxiv": "2610.36980"
+    },
+    "first_published_at": "2026-10-27",
+    "record_updated_at": "2026-11-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "793099c5b0bf475c4f25336d943612253a3053c316c1e54b8a03eb7458354940",
+      "submitted_at": "2026-10-27T10:33:06Z",
+      "updated_at": "2026-11-05T03:42:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.36980v2"
+    }
+  },
+  "note": "First published: 2026-10-27; Recorded arXiv version: v2; Recorded version updated: 2026-11-05T03:42:49Z.",
+  "author": [
+    {
+      "literal": "Qiming Shi"
+    },
+    {
+      "literal": "Yikun Li"
+    },
+    {
+      "literal": "Beidi Luan"
+    },
+    {
+      "literal": "Rui Sun"
+    },
+    {
+      "literal": "Sinuo Wang"
+    },
+    {
+      "literal": "Delin Wang"
+    },
+    {
+      "literal": "Yan Ma"
+    },
+    {
+      "literal": "Jing Li"
+    },
+    {
+      "literal": "Daxin Jiang"
+    },
+    {
+      "literal": "Zuo Bai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.36980",
+  "genre": "preprint",
+  "version": "2"
+}

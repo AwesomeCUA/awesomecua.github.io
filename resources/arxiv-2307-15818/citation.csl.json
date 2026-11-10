@@ -1,0 +1,205 @@
+{
+  "id": "arxiv:2307.15818",
+  "citation-key": "arxiv_2307_15818",
+  "type": "article",
+  "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+  "URL": "https://arxiv.org/abs/2307.15818v1",
+  "custom": {
+    "catalog_id": "arxiv:2307.15818",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2307.15818",
+    "identifiers": {
+      "arxiv": "2307.15818"
+    },
+    "first_published_at": "2023-07-28",
+    "record_updated_at": "2023-07-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3f251bcb180b7707d03ef5103c8613acc59679e78eeea609d2dac19bbf4b1d75",
+      "submitted_at": "2023-07-28T21:18:02Z",
+      "updated_at": "2023-07-28T21:18:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2307.15818v1"
+    }
+  },
+  "note": "First published: 2023-07-28; Recorded arXiv version: v1; Recorded version updated: 2023-07-28T21:18:02Z.",
+  "author": [
+    {
+      "literal": "Anthony Brohan"
+    },
+    {
+      "literal": "Noah Brown"
+    },
+    {
+      "literal": "Justice Carbajal"
+    },
+    {
+      "literal": "Yevgen Chebotar"
+    },
+    {
+      "literal": "Xi Chen"
+    },
+    {
+      "literal": "Krzysztof Choromanski"
+    },
+    {
+      "literal": "Tianli Ding"
+    },
+    {
+      "literal": "Danny Driess"
+    },
+    {
+      "literal": "Avinava Dubey"
+    },
+    {
+      "literal": "Chelsea Finn"
+    },
+    {
+      "literal": "Pete Florence"
+    },
+    {
+      "literal": "Chuyuan Fu"
+    },
+    {
+      "literal": "Montse Gonzalez Arenas"
+    },
+    {
+      "literal": "Keerthana Gopalakrishnan"
+    },
+    {
+      "literal": "Kehang Han"
+    },
+    {
+      "literal": "Karol Hausman"
+    },
+    {
+      "literal": "Alexander Herzog"
+    },
+    {
+      "literal": "Jasmine Hsu"
+    },
+    {
+      "literal": "Brian Ichter"
+    },
+    {
+      "literal": "Alex Irpan"
+    },
+    {
+      "literal": "Nikhil Joshi"
+    },
+    {
+      "literal": "Ryan Julian"
+    },
+    {
+      "literal": "Dmitry Kalashnikov"
+    },
+    {
+      "literal": "Yuheng Kuang"
+    },
+    {
+      "literal": "Isabel Leal"
+    },
+    {
+      "literal": "Lisa Lee"
+    },
+    {
+      "literal": "Tsang-Wei Edward Lee"
+    },
+    {
+      "literal": "Sergey Levine"
+    },
+    {
+      "literal": "Yao Lu"
+    },
+    {
+      "literal": "Henryk Michalewski"
+    },
+    {
+      "literal": "Igor Mordatch"
+    },
+    {
+      "literal": "Karl Pertsch"
+    },
+    {
+      "literal": "Kanishka Rao"
+    },
+    {
+      "literal": "Krista Reymann"
+    },
+    {
+      "literal": "Michael Ryoo"
+    },
+    {
+      "literal": "Grecia Salazar"
+    },
+    {
+      "literal": "Pannag Sanketi"
+    },
+    {
+      "literal": "Pierre Sermanet"
+    },
+    {
+      "literal": "Jaspiar Singh"
+    },
+    {
+      "literal": "Anikait Singh"
+    },
+    {
+      "literal": "Radu Soricut"
+    },
+    {
+      "literal": "Huong Tran"
+    },
+    {
+      "literal": "Vincent Vanhoucke"
+    },
+    {
+      "literal": "Quan Vuong"
+    },
+    {
+      "literal": "Ayzaan Wahid"
+    },
+    {
+      "literal": "Stefan Welker"
+    },
+    {
+      "literal": "Paul Wohlhart"
+    },
+    {
+      "literal": "Jialin Wu"
+    },
+    {
+      "literal": "Fei Xia"
+    },
+    {
+      "literal": "Ted Xiao"
+    },
+    {
+      "literal": "Peng Xu"
+    },
+    {
+      "literal": "Sichun Xu"
+    },
+    {
+      "literal": "Tianhe Yu"
+    },
+    {
+      "literal": "Brianna Zitkovich"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.15818",
+  "genre": "preprint",
+  "version": "1"
+}

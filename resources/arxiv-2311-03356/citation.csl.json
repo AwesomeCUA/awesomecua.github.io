@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2311.03356",
+  "citation-key": "arxiv_2311_03356",
+  "type": "article",
+  "title": "GLaMM: Pixel Grounding Large Multimodal Model",
+  "URL": "https://arxiv.org/abs/2311.03356v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.03356",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.03356",
+    "identifiers": {
+      "arxiv": "2311.03356"
+    },
+    "first_published_at": "2023-11-06",
+    "record_updated_at": "2024-06-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ab803339b3a2f390f031790b1e33806e9531322937be75f6b8c6499d205816fd",
+      "submitted_at": "2023-11-06T18:59:57Z",
+      "updated_at": "2024-06-02T00:33:53Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.03356v3"
+    }
+  },
+  "note": "First published: 2023-11-06; Recorded arXiv version: v3; Recorded version updated: 2024-06-02T00:33:53Z.",
+  "author": [
+    {
+      "literal": "Hanoona Rasheed"
+    },
+    {
+      "literal": "Muhammad Maaz"
+    },
+    {
+      "literal": "Sahal Shaji Mullappilly"
+    },
+    {
+      "literal": "Abdelrahman Shaker"
+    },
+    {
+      "literal": "Salman Khan"
+    },
+    {
+      "literal": "Hisham Cholakkal"
+    },
+    {
+      "literal": "Rao M. Anwer"
+    },
+    {
+      "literal": "Erix Xing"
+    },
+    {
+      "literal": "Ming-Hsuan Yang"
+    },
+    {
+      "literal": "Fahad S. Khan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.03356",
+  "genre": "preprint",
+  "version": "3"
+}

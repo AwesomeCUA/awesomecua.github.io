@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2305.04183",
+  "citation-key": "arxiv_2305_04183",
+  "type": "article",
+  "title": "OpenViVQA: Task, Dataset, and Multimodal Fusion Models for Visual Question Answering in Vietnamese",
+  "URL": "https://arxiv.org/abs/2305.04183v1",
+  "custom": {
+    "catalog_id": "arxiv:2305.04183",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.04183",
+    "identifiers": {
+      "arxiv": "2305.04183"
+    },
+    "first_published_at": "2023-05-07",
+    "record_updated_at": "2023-05-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7162e85e46abe271b4aeb82a189f503175817102a46786508a6fa58ccf2a76a4",
+      "submitted_at": "2023-05-07T03:59:31Z",
+      "updated_at": "2023-05-07T03:59:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2305.04183v1"
+    }
+  },
+  "note": "First published: 2023-05-07; Recorded arXiv version: v1; Recorded version updated: 2023-05-07T03:59:31Z.",
+  "author": [
+    {
+      "literal": "Nghia Hieu Nguyen"
+    },
+    {
+      "literal": "Duong T. D. Vo"
+    },
+    {
+      "literal": "Kiet Van Nguyen"
+    },
+    {
+      "literal": "Ngan Luu-Thuy Nguyen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.04183",
+  "genre": "preprint",
+  "version": "1"
+}

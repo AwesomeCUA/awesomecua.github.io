@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2402.17766",
+  "citation-key": "arxiv_2402_17766",
+  "type": "article",
+  "title": "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction",
+  "URL": "https://arxiv.org/abs/2402.17766v3",
+  "custom": {
+    "catalog_id": "arxiv:2402.17766",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.17766",
+    "identifiers": {
+      "arxiv": "2402.17766"
+    },
+    "first_published_at": "2024-02-27",
+    "record_updated_at": "2024-07-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "168bc5bc4f784eb19344253c88a32746c548fd8acabee5007299781cf77470a0",
+      "submitted_at": "2024-02-27T18:57:12Z",
+      "updated_at": "2024-07-12T15:36:15Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2402.17766v3"
+    }
+  },
+  "note": "First published: 2024-02-27; Recorded arXiv version: v3; Recorded version updated: 2024-07-12T15:36:15Z.",
+  "author": [
+    {
+      "literal": "Zekun Qi"
+    },
+    {
+      "literal": "Runpei Dong"
+    },
+    {
+      "literal": "Shaochen Zhang"
+    },
+    {
+      "literal": "Haoran Geng"
+    },
+    {
+      "literal": "Chunrui Han"
+    },
+    {
+      "literal": "Zheng Ge"
+    },
+    {
+      "literal": "Li Yi"
+    },
+    {
+      "literal": "Kaisheng Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.17766",
+  "genre": "preprint",
+  "version": "3"
+}

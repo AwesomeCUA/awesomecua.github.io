@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2305.16986",
+  "citation-key": "arxiv_2305_16986",
+  "type": "article",
+  "title": "NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models",
+  "URL": "https://arxiv.org/abs/2305.16986v3",
+  "custom": {
+    "catalog_id": "arxiv:2305.16986",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.16986",
+    "identifiers": {
+      "arxiv": "2305.16986"
+    },
+    "first_published_at": "2023-05-26",
+    "record_updated_at": "2023-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7dd6740e44fe16e4bbf07f7da813b3d18e65ba60b1fbb138302c47fdb1f4e7d2",
+      "submitted_at": "2023-05-26T14:41:06Z",
+      "updated_at": "2023-10-19T17:59:43Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2305.16986v3"
+    }
+  },
+  "note": "First published: 2023-05-26; Recorded arXiv version: v3; Recorded version updated: 2023-10-19T17:59:43Z.",
+  "author": [
+    {
+      "literal": "Gengze Zhou"
+    },
+    {
+      "literal": "Yicong Hong"
+    },
+    {
+      "literal": "Qi Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.16986",
+  "genre": "preprint",
+  "version": "3"
+}

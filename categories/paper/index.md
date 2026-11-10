@@ -1,6 +1,6 @@
 # Computer-use agent research papers
 
-> 1,681 reviewed papers and 37 surveys, listed newest publication first across the research-library pages below. Snapshot 2026-11-10T06:29:47Z.
+> 1,681 reviewed papers and 37 surveys, listed newest publication first across the research-library pages below. Snapshot 2026-11-10T08:20:17Z.
 
 HTML page: https://awesomecua.com/categories/paper/ · Library: https://awesomecua.com/papers/ · API: https://awesomecua.com/api/v1/papers.json
 

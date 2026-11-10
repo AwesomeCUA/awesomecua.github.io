@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2206.10352",
+  "citation-key": "arxiv_2206_10352",
+  "type": "article",
+  "title": "Psychologically-Inspired, Unsupervised Inference of Perceptual Groups of GUI Widgets from GUI Images",
+  "URL": "https://arxiv.org/abs/2206.10352v2",
+  "custom": {
+    "catalog_id": "arxiv:2206.10352",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2206.10352",
+    "identifiers": {
+      "arxiv": "2206.10352"
+    },
+    "first_published_at": "2022-06-15",
+    "record_updated_at": "2023-05-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "af51ace0e1a633cc61dda3f0dbf0cc9b31ed3e102d3ed2cadd9d0b95358e29bd",
+      "submitted_at": "2022-06-15T05:16:03Z",
+      "updated_at": "2023-05-24T01:18:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2206.10352v2"
+    }
+  },
+  "note": "First published: 2022-06-15; Recorded arXiv version: v2; Recorded version updated: 2023-05-24T01:18:23Z.",
+  "author": [
+    {
+      "literal": "Mulong Xie"
+    },
+    {
+      "literal": "Zhenchang Xing"
+    },
+    {
+      "literal": "Sidong Feng"
+    },
+    {
+      "literal": "Chunyang Chen"
+    },
+    {
+      "literal": "Liming Zhu"
+    },
+    {
+      "literal": "Xiwei Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2206.10352",
+  "genre": "preprint",
+  "version": "2"
+}

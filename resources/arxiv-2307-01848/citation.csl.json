@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2307.01848",
+  "citation-key": "arxiv_2307_01848",
+  "type": "article",
+  "title": "Embodied Task Planning with Large Language Models",
+  "URL": "https://arxiv.org/abs/2307.01848v1",
+  "custom": {
+    "catalog_id": "arxiv:2307.01848",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2307.01848",
+    "identifiers": {
+      "arxiv": "2307.01848"
+    },
+    "first_published_at": "2023-07-04",
+    "record_updated_at": "2023-07-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "594cf1f4c9ab43d48ee6844976a5c8bf602aa4eae919256804eb33144fbaee60",
+      "submitted_at": "2023-07-04T17:58:25Z",
+      "updated_at": "2023-07-04T17:58:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2307.01848v1"
+    }
+  },
+  "note": "First published: 2023-07-04; Recorded arXiv version: v1; Recorded version updated: 2023-07-04T17:58:25Z.",
+  "author": [
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "Ziwei Wang"
+    },
+    {
+      "literal": "Xiuwei Xu"
+    },
+    {
+      "literal": "Jiwen Lu"
+    },
+    {
+      "literal": "Haibin Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.01848",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2403.04706",
+  "citation-key": "arxiv_2403_04706",
+  "type": "article",
+  "title": "Common 7B Language Models Already Possess Strong Math Capabilities",
+  "URL": "https://arxiv.org/abs/2403.04706v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.04706",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.04706",
+    "identifiers": {
+      "arxiv": "2403.04706"
+    },
+    "first_published_at": "2024-03-07",
+    "record_updated_at": "2024-03-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8e6fb2fb7245af3f45cd6bc2cf2fa833b9c98678a60d9c0082ac7f7a8a51bf6f",
+      "submitted_at": "2024-03-07T18:00:40Z",
+      "updated_at": "2024-03-07T18:00:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.04706v1"
+    }
+  },
+  "note": "First published: 2024-03-07; Recorded arXiv version: v1; Recorded version updated: 2024-03-07T18:00:40Z.",
+  "author": [
+    {
+      "literal": "Chen Li"
+    },
+    {
+      "literal": "Weiqi Wang"
+    },
+    {
+      "literal": "Jingcheng Hu"
+    },
+    {
+      "literal": "Yixuan Wei"
+    },
+    {
+      "literal": "Nanning Zheng"
+    },
+    {
+      "literal": "Han Hu"
+    },
+    {
+      "literal": "Zheng Zhang"
+    },
+    {
+      "literal": "Houwen Peng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.04706",
+  "genre": "preprint",
+  "version": "1"
+}
