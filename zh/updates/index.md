@@ -27,54 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-10T08:18:56Z
-- **结束**: 2026-11-10T08:24:39Z
+- **开始**: 2026-11-10T16:15:42Z
+- **结束**: 2026-11-10T16:19:04Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 282
-- **新增候选标识**: 436
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 11
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/42781627678)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/42852680158)
 
 ### 记录的缺口
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [pix2code: Generating Code from a Graphical User Interface Screenshot](https://awesomecua.com/resources/arxiv-1705-07962/) · 元数据已核实
-- [Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning](https://awesomecua.com/resources/arxiv-1909-01871/) · 元数据已核实
-- [DocVQA: A Dataset for VQA on Document Images](https://awesomecua.com/resources/arxiv-2007-00398/) · 元数据已核实
-- [ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation](https://awesomecua.com/resources/arxiv-2007-04954/) · 元数据已核实
-- [Document Visual Question Answering Challenge 2020](https://awesomecua.com/resources/arxiv-2008-08899/) · 元数据已核实
-- [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://awesomecua.com/resources/arxiv-2009-12293/) · 元数据已核实
-- [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning](https://awesomecua.com/resources/arxiv-2010-03768/) · 元数据已核实
-- [Rearrangement: A Challenge for Embodied AI](https://awesomecua.com/resources/arxiv-2011-01975/) · 元数据已核实
-- [VisualMRC: Machine Reading Comprehension on Document Images](https://awesomecua.com/resources/arxiv-2101-11272/) · 元数据已核实
-- [The ThreeDWorld Transport Challenge: A Visually Guided Task-and-Motion Planning Benchmark for Physically Realistic Embodied AI](https://awesomecua.com/resources/arxiv-2103-14025/) · 元数据已核实
-- [iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks](https://awesomecua.com/resources/arxiv-2108-03272/) · 元数据已核实
-- [Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI](https://awesomecua.com/resources/arxiv-2109-08238/) · 元数据已核实
-- [MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding](https://awesomecua.com/resources/arxiv-2110-08518/) · 元数据已核实
-- [Learning UI Navigation through Demonstrations composed of Macro Actions](https://awesomecua.com/resources/arxiv-2110-08653/) · 元数据已核实
-- [OCR-free Document Understanding Transformer](https://awesomecua.com/resources/arxiv-2111-15664/) · 元数据已核实
-- [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](https://awesomecua.com/resources/arxiv-2201-07207/) · 元数据已核实
-- [OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://awesomecua.com/resources/arxiv-2202-03052/) · 元数据已核实
-- [Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs](https://awesomecua.com/resources/arxiv-2203-07828/) · 元数据已核实
-- [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://awesomecua.com/resources/arxiv-2204-08387/) · 元数据已核实
-- [mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections](https://awesomecua.com/resources/arxiv-2205-12005/) · 元数据已核实
-- [IGLU Gridworld: Simple and Fast Environment for Embodied Dialog Agents](https://awesomecua.com/resources/arxiv-2206-00142/) · 元数据已核实
-- [Psychologically-Inspired, Unsupervised Inference of Perceptual Groups of GUI Widgets from GUI Images](https://awesomecua.com/resources/arxiv-2206-10352/) · 元数据已核实
-- [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://awesomecua.com/resources/arxiv-2206-11795/) · 元数据已核实
-- [VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations](https://awesomecua.com/resources/arxiv-2207-00221/) · 元数据已核实
-- [Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases](https://awesomecua.com/resources/arxiv-2207-01821/) · 元数据已核实
-- [Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets](https://awesomecua.com/resources/arxiv-2208-00932/) · 元数据已核实
-- [Effective, Platform-Independent GUI Testing via Image Embedding and Reinforcement Learning](https://awesomecua.com/resources/arxiv-2208-09116/) · 元数据已核实
-- [AccoMontage2: A Complete Harmonization and Accompaniment Arrangement System](https://awesomecua.com/resources/arxiv-2209-00353/) · 元数据已核实
-- [Retrospectives on the Embodied AI Workshop](https://awesomecua.com/resources/arxiv-2210-06849/) · 元数据已核实
-- [SQA3D: Situated Question Answering in 3D Scenes](https://awesomecua.com/resources/arxiv-2210-07474/) · 元数据已核实
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -88,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-10T08:19:58Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
+2026-11-10T16:16:55Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 

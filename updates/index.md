@@ -27,54 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-10T08:18:56Z
-- **Finished**: 2026-11-10T08:24:39Z
+- **Started**: 2026-11-10T16:15:42Z
+- **Finished**: 2026-11-10T16:19:04Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 282
-- **New candidate identifiers**: 436
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 11
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/42781627678)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/42852680158)
 
 ### Recorded gaps
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [pix2code: Generating Code from a Graphical User Interface Screenshot](https://awesomecua.com/resources/arxiv-1705-07962/) · metadata verified
-- [Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning](https://awesomecua.com/resources/arxiv-1909-01871/) · metadata verified
-- [DocVQA: A Dataset for VQA on Document Images](https://awesomecua.com/resources/arxiv-2007-00398/) · metadata verified
-- [ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation](https://awesomecua.com/resources/arxiv-2007-04954/) · metadata verified
-- [Document Visual Question Answering Challenge 2020](https://awesomecua.com/resources/arxiv-2008-08899/) · metadata verified
-- [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://awesomecua.com/resources/arxiv-2009-12293/) · metadata verified
-- [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning](https://awesomecua.com/resources/arxiv-2010-03768/) · metadata verified
-- [Rearrangement: A Challenge for Embodied AI](https://awesomecua.com/resources/arxiv-2011-01975/) · metadata verified
-- [VisualMRC: Machine Reading Comprehension on Document Images](https://awesomecua.com/resources/arxiv-2101-11272/) · metadata verified
-- [The ThreeDWorld Transport Challenge: A Visually Guided Task-and-Motion Planning Benchmark for Physically Realistic Embodied AI](https://awesomecua.com/resources/arxiv-2103-14025/) · metadata verified
-- [iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks](https://awesomecua.com/resources/arxiv-2108-03272/) · metadata verified
-- [Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI](https://awesomecua.com/resources/arxiv-2109-08238/) · metadata verified
-- [MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding](https://awesomecua.com/resources/arxiv-2110-08518/) · metadata verified
-- [Learning UI Navigation through Demonstrations composed of Macro Actions](https://awesomecua.com/resources/arxiv-2110-08653/) · metadata verified
-- [OCR-free Document Understanding Transformer](https://awesomecua.com/resources/arxiv-2111-15664/) · metadata verified
-- [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](https://awesomecua.com/resources/arxiv-2201-07207/) · metadata verified
-- [OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://awesomecua.com/resources/arxiv-2202-03052/) · metadata verified
-- [Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs](https://awesomecua.com/resources/arxiv-2203-07828/) · metadata verified
-- [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://awesomecua.com/resources/arxiv-2204-08387/) · metadata verified
-- [mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections](https://awesomecua.com/resources/arxiv-2205-12005/) · metadata verified
-- [IGLU Gridworld: Simple and Fast Environment for Embodied Dialog Agents](https://awesomecua.com/resources/arxiv-2206-00142/) · metadata verified
-- [Psychologically-Inspired, Unsupervised Inference of Perceptual Groups of GUI Widgets from GUI Images](https://awesomecua.com/resources/arxiv-2206-10352/) · metadata verified
-- [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://awesomecua.com/resources/arxiv-2206-11795/) · metadata verified
-- [VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations](https://awesomecua.com/resources/arxiv-2207-00221/) · metadata verified
-- [Toward Explainable and Fine-Grained 3D Grounding through Referring Textual Phrases](https://awesomecua.com/resources/arxiv-2207-01821/) · metadata verified
-- [Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets](https://awesomecua.com/resources/arxiv-2208-00932/) · metadata verified
-- [Effective, Platform-Independent GUI Testing via Image Embedding and Reinforcement Learning](https://awesomecua.com/resources/arxiv-2208-09116/) · metadata verified
-- [AccoMontage2: A Complete Harmonization and Accompaniment Arrangement System](https://awesomecua.com/resources/arxiv-2209-00353/) · metadata verified
-- [Retrospectives on the Embodied AI Workshop](https://awesomecua.com/resources/arxiv-2210-06849/) · metadata verified
-- [SQA3D: Situated Question Answering in 3D Scenes](https://awesomecua.com/resources/arxiv-2210-07474/) · metadata verified
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -88,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-10T08:19:58Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
+2026-11-10T16:16:55Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
