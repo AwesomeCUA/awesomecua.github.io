@@ -177,23 +177,23 @@ Awesome CUA is a source-backed catalog of computer-use, GUI, browser and mobile 
 
 ### How is each record reviewed?
 
-A reviewer reads the primary source (paper, repository, model card or project page) and records the evidence, the review date, and code, data, weights and document licenses separately. Unknown facts stay empty. See the [editorial policy](https://awesomecua.com/about/).
+A reviewer reads the primary source (paper, repository, model card or project page) and records the evidence, the review date, and code, data, weights and document licenses separately. Unknown facts stay empty. See the editorial policy.
 
 ### How can I read the catalog from code?
 
-Clone the GitHub repository, download [catalog.jsonl](https://awesomecua.com/downloads/catalog.jsonl), or call the [JSON API under /api/v1/](https://awesomecua.com/api/). Every page has a Markdown version at index.md, and [llms.txt](https://awesomecua.com/llms.txt) lists them all.
+Clone the GitHub repository, download catalog.jsonl, or call the JSON API under /api/v1/. Every page has a Markdown version at index.md, and llms.txt lists them all.
 
 ### How often is it updated?
 
-Discovery scans run every 8 hours; the latest was 2026-11-10. See [catalog updates](https://awesomecua.com/updates/).
+Discovery scans run every 8 hours; the latest was 2026-11-10. See catalog updates.
 
 ### How do I cite Awesome CUA?
 
-Use CITATION.cff in the GitHub repository, or copy the BibTeX in [AGENTS.md](https://awesomecua.com/AGENTS.md).
+Use CITATION.cff in the GitHub repository, or copy the BibTeX in AGENTS.md.
 
 ### How do I suggest a resource or report a correction?
 
-Open a [GitHub issue form](https://github.com/reacher-z/Awesome-CUA/issues/new/choose). A reviewer reads the primary source first.
+Open a GitHub issue form. A reviewer reads the primary source first.
 
 ## Optional
 

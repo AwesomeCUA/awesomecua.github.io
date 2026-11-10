@@ -8,7 +8,7 @@ lang: en
 
 # About AwesomeCUA and its editorial policy
 
-AwesomeCUA is a source-backed catalog of resources for agents that operate computer interfaces. Its purpose is to make research and engineering assets easier to find, compare, and trace to their original publishers.
+AwesomeCUA is a source-backed catalog of 5,347 reviewed resources for agents that operate computer interfaces. Its purpose is to make research and engineering assets easier to find, compare, and trace to their original publishers.
 
 ## Who maintains the catalog?
 
