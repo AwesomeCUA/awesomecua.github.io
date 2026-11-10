@@ -153,21 +153,17 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 
 - [Data downloads](https://awesomecua.com/data/index.md)
 - [Agent instructions](https://awesomecua.com/AGENTS.md): read commands, API, search pattern, BibTeX; also at https://awesomecua.com/agents.md and https://awesomecua.com/agents.txt
-- [Human and agent guide](https://awesomecua.com/agents/)
-- [中文指南](https://awesomecua.com/zh/agents/)
-- [Reviewed retrieval documents](https://awesomecua.com/downloads/rag-documents.jsonl)
-- [All retrieval documents](https://awesomecua.com/downloads/rag-all-records.jsonl)
-- [Export manifest](https://awesomecua.com/downloads/rag-manifest.json)
-- [Full catalog JSONL](https://awesomecua.com/downloads/catalog.jsonl): every active record, including metadata-only ones
+- [Human and agent guide](https://awesomecua.com/agents/index.md)
+- [中文指南](https://awesomecua.com/zh/agents/index.md)
 
 ## Guides and policies
 
-- [What are computer-use agents?](https://awesomecua.com/guides/what-are-computer-use-agents/): Understand the observe–plan–act loop, how GUI agents differ from browser automation, and which research resources help you get started.
-- [How to choose a GUI-agent benchmark](https://awesomecua.com/guides/gui-agent-benchmarks/): Compare desktop task execution, browser workflows, mobile environments, and GUI grounding, and preserve the evaluation conditions needed for meaningful comparisons.
-- [Where to find training data for GUI agents](https://awesomecua.com/guides/gui-agent-training-data/): Distinguish grounding examples, interaction trajectories, screen understanding data, and benchmark tasks, with primary dataset sources and separate licensing checks.
-- [Editorial policy](https://awesomecua.com/about/): review states, inclusion boundary and corrections
-- [Coverage ledger](https://awesomecua.com/coverage/): source populations and known gaps
-- [Catalog updates](https://awesomecua.com/updates/): scan schedule and the latest completed scan
+- [What are computer-use agents?](https://awesomecua.com/guides/what-are-computer-use-agents/index.md): Understand the observe–plan–act loop, how GUI agents differ from browser automation, and which research resources help you get started.
+- [How to choose a GUI-agent benchmark](https://awesomecua.com/guides/gui-agent-benchmarks/index.md): Compare desktop task execution, browser workflows, mobile environments, and GUI grounding, and preserve the evaluation conditions needed for meaningful comparisons.
+- [Where to find training data for GUI agents](https://awesomecua.com/guides/gui-agent-training-data/index.md): Distinguish grounding examples, interaction trajectories, screen understanding data, and benchmark tasks, with primary dataset sources and separate licensing checks.
+- [Editorial policy](https://awesomecua.com/about/index.md): review states, inclusion boundary and corrections
+- [Coverage ledger](https://awesomecua.com/coverage/index.md): source populations and known gaps
+- [Catalog updates](https://awesomecua.com/updates/index.md): scan schedule and the latest completed scan
 
 ## Questions
 
@@ -201,6 +197,8 @@ Open a [GitHub issue form](https://github.com/reacher-z/Awesome-CUA/issues/new/c
 
 ## Optional
 
+- [Reviewed retrieval documents](https://awesomecua.com/downloads/rag-documents.jsonl), [all retrieval documents](https://awesomecua.com/downloads/rag-all-records.jsonl) and [export manifest](https://awesomecua.com/downloads/rag-manifest.json)
+- [Full catalog JSONL](https://awesomecua.com/downloads/catalog.jsonl): every active record, including metadata-only ones
 - [API index](https://awesomecua.com/api/v1/index.json): endpoint list with counts, byte sizes and SHA-256; [JSON Schema](https://awesomecua.com/api/v1/schema.json)
 - [resources.json](https://awesomecua.com/api/v1/resources.json) ([CSV](https://awesomecua.com/api/v1/resources.csv)): Curated resources other than papers: models, datasets, benchmarks, agents, frameworks, infrastructure, tools, products, publishers and learning resources.
 - [papers.json](https://awesomecua.com/api/v1/papers.json) ([CSV](https://awesomecua.com/api/v1/papers.csv)): Curated research papers and surveys, with authors, recorded publication dates, arXiv versions and citation files.
