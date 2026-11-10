@@ -66,7 +66,7 @@ Hugging Face mirror: `load_dataset("TIGER-Lab/AwesomeCUA", "resources")`.
 }
 ```
 
-## Questions
+## FAQ
 
 ### What is Awesome CUA?
 

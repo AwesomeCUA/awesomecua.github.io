@@ -8,7 +8,7 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 Related reading: [English research survey](https://awesomecua.com/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
-## Questions
+## FAQ
 
 ### What is Awesome CUA?
 

@@ -165,7 +165,7 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 - [Coverage ledger](https://awesomecua.com/coverage/index.md): source populations and known gaps
 - [Catalog updates](https://awesomecua.com/updates/index.md): scan schedule and the latest completed scan
 
-## Questions
+## FAQ
 
 ### What is Awesome CUA?
 

@@ -59,7 +59,7 @@ HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agen
 - [Atom feed](https://awesomecua.com/feed.xml) and [JSON Feed](https://awesomecua.com/feed.json) of newly reviewed resources
 - [Data downloads](https://awesomecua.com/data/): JSONL, SQLite, RAG documents and citations
 
-## Questions
+## FAQ
 
 ### What is Awesome CUA?
 
