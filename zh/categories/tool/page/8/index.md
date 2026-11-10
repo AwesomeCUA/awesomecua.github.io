@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/8/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [Grasp MCP](https://awesomecua.com/zh/resources/github-jamshed7470-grasp-mcp/)：Model Context Protocol 服务器，为 Claude 和 MCP 客户端提供完整的桌面屏幕视觉感知及鼠标、键盘控制。
+- [gridhand](https://awesomecua.com/zh/resources/github-zachrouan-gridhand/)：零依赖的 Rust CLI，用于跨平台 GUI 自动化，可在截图上叠加带标签的坐标网格，实现确定性点击。
+- [Grok Chrome Bridge](https://awesomecua.com/zh/resources/github-davidsolheim-grok-chrome-bridge/)：Chrome 桥接工具，让 Grok Build 在开发期间检查实时运行的本地 Web 应用并与之交互。
+- [grok-chrome-mcp](https://awesomecua.com/zh/resources/github-dietghardev-grok-chrome-mcp/)：Model Context Protocol 服务器，让 Grok Build 和编程智能体通过点击操作实时运行的 Chrome Web 应用并进行验证。
+- [grokbot-cdp](https://awesomecua.com/zh/resources/github-daizedong-grokbot-cdp/)：Python 客户端，通过 Chrome DevTools Protocol 控制 xAI 的 Grok 计算机使用智能体背后的云浏览器和虚拟机。
+- [gsearch-rs](https://awesomecua.com/zh/resources/github-be90nia-gsearch-rs/)：单二进制文件、无需扩展的 Rust CLI，可操控本地 Chrome，进行面向 AI 的网页搜索和页面提取。
+- [GUI Grounding Evaluation Harness](https://awesomecua.com/zh/resources/github-patrickstarl-gui-grounding-eval/)：ScreenSpot-Pro 评估工具，提供明确的坐标变换、提示词与基于裁剪的推理对比，以及逐样本的定位准确率和成本记录。
 - [GUI Label Tool](https://awesomecua.com/zh/resources/github-ethanyxx-gui-label-tool/)：GUI Label Tool 在 Docker 化的 QEMU 虚拟机中记录并标注人类桌面操作轨迹，将输入事件与截图配对。
 - [GUI Object Detection Benchmark & Models](https://awesomecua.com/zh/resources/github-chenjshnn-object-detection-for-graphical-user-interface/)：提供训练和评测代码，对比传统及深度学习 GUI 元素检测器，并涵盖混合模型 UIED。
 - [gui-report-automation](https://awesomecua.com/zh/resources/github-loncoeng-gui-report-automation/)：定时自动化工具，借用已登录的 Chrome 会话导出并验证企业 GUI 报表。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/8/ · [English](htt
 - [MCP Desktop Automation](https://awesomecua.com/zh/resources/github-tanob-mcp-desktop-automation/)：MCP Desktop Automation 是使用 RobotJS 的 Model Context Protocol 服务器，向 LLM 提供屏幕捕获、鼠标移动和键盘输入能力。
 - [MCP Master Puppeteer](https://awesomecua.com/zh/resources/github-flrngel-mcp-master-puppeteer/)：MCP Master Puppeteer 是一款 Puppeteer Model Context Protocol 服务器，通过紧凑的 DOM 和无障碍信息提取来降低 token 消耗。
 - [MCP Session Bridge](https://awesomecua.com/zh/resources/github-t3ratech-mcp-session-bridge/)：Model Context Protocol 服务器，可操作用户已经登录的浏览器会话。
-- [MCP Virtual Cursor](https://awesomecua.com/zh/resources/github-sos2778-mcp-virtual-cursor/)：macOS 计算机使用 MCP 服务器，通过辅助功能动作和虚拟光标操作应用，无需接管物理鼠标。
-- [MCP Windows Desktop Automation](https://awesomecua.com/zh/resources/github-mario-andreschak-mcp-windows-desktop-automation/)：MCP Windows Desktop Automation 是一个 TypeScript Model Context Protocol 服务器，提供 50 个 AutoIt 桌面控制、窗口和截图工具。
-- [mcp-anything](https://awesomecua.com/zh/resources/github-zaymadkid-mcp-anything/)：由 7 个 Model Context Protocol 服务器组成的套件，提供 228 项工具，将桌面应用和系统服务连接到 AI 智能体。
-- [mcp-camoufox](https://awesomecua.com/zh/resources/github-agelyhq-mcp-camoufox/)：基于具有反检测功能的 Camoufox Firefox 浏览器构建的浏览器自动化 MCP 服务器，用于智能体导航时绕过机器人拦截。
-- [mcp-chrome-bridge](https://awesomecua.com/zh/resources/github-wizardofweb125-lab-mcp-chrome-bridge/)：用于控制 Chrome 标签页、表单、控制台及网络日志、截图和 GIF 录制的 Model Context Protocol 服务器。
-- [MCP-CodexGPT](https://awesomecua.com/zh/resources/github-mosmotov-mcp-codexgpt/)：跨平台 Model Context Protocol 桥接工具，供 Codex 或 Claude Code 对 ChatGPT Web 的代码和计划进行确定性审查。
-- [mcp-dia](https://awesomecua.com/zh/resources/github-aissablk1-mcp-dia/)：Model Context Protocol 服务器，通过 Chrome DevTools Protocol 控制 Dia Browser 的标签页、页面和内置 AI 功能。

@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [AutoGen](https://awesomecua.com/zh/resources/github-microsoft-autogen/)
+- [AutoGPT](https://awesomecua.com/zh/resources/github-significant-gravitas-autogpt/)
+- [autohotkey-mcp](https://awesomecua.com/zh/resources/github-sandraschi-autohotkey-mcp/)
 - [autoit-mcp](https://awesomecua.com/zh/resources/github-benina-autoit-mcp/)
 - [Automation MCP](https://awesomecua.com/zh/resources/github-ashwwwin-automation-mcp/)
 - [Automify](https://awesomecua.com/zh/resources/github-aldovincenti-automify/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/7/
 - [browser-for-ai (bfa)](https://awesomecua.com/zh/resources/github-icueth-browser-for-ai/)
 - [browser-gateway](https://awesomecua.com/zh/resources/github-browser-gateway-browser-gateway/)
 - [browser-link](https://awesomecua.com/zh/resources/github-jobshimo-browser-link/)
-- [browser-mcp](https://awesomecua.com/zh/resources/github-sandraschi-browser-mcp/)
-- [browser-rs-mcp](https://awesomecua.com/zh/resources/github-maestrojeong-browser-rs-mcp/)
-- [browser-use-capsolver](https://awesomecua.com/zh/resources/github-capsolver-browser-use-capsolver/)

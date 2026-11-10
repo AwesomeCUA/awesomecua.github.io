@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/5/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [AINative Browser MCP](https://awesomecua.com/zh/resources/github-ainative-studio-ainative-browser-mcp/)：Model Context Protocol 服务器，提供 6 个高级工具，用于 AI 驱动的网页交互和结构化数据提取。
+- [Airbrowser MCP](https://awesomecua.com/zh/resources/github-ifokeev-airbrowser-mcp/)：Airbrowser 将不可检测的 Chrome 浏览器、REST API、MCP 服务器和实时 VNC 视图封装在 Docker 容器中，供 AI 网页智能体使用。
+- [Airplane Check-In Skill](https://awesomecua.com/zh/resources/github-bee-san-airplane-checkin-skill/)：注重隐私的 Hermes 浏览器技能，用于定时、经验证的多航空公司网页值机。
+- [alohajet CLI](https://awesomecua.com/zh/resources/github-alohabrowser-alohajet-cli/)：用于通过稳定元素引用操作真实浏览器的官方 Aloha Browser CLI 和 MCP 服务器。
+- [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/zh/resources/github-altairpaca-dsh-computer-use-windows/)：适用于 DeepSeek Harness 的 Windows 计算机使用插件，提供限定于窗口的截图、OCR 定位和经过验证的点击。
+- [amajorai Ghost Desktop MCP](https://awesomecua.com/zh/resources/github-amajorai-ghost/)：桌面自动化 Model Context Protocol 服务器，为 AI 智能体提供屏幕感知和鼠标键盘输入控制。
+- [Amazon Music MCP Server](https://awesomecua.com/zh/resources/github-shadowsdistant-amazon-music-mcp/)：Model Context Protocol 服务器，可从 Claude Desktop 搜索和控制 Amazon Music 播放。
 - [Amazon Return Skill](https://awesomecua.com/zh/resources/github-peterquads-amazon-return/)：Claude 浏览器技能，可在用户已登录的浏览器中完成端到端的 Amazon 退货流程。
 - [amcu (Another macOS Computer Use)](https://awesomecua.com/zh/resources/github-uoox-amcu/)：单一二进制文件、无需依赖的 macOS 计算机使用工具，可读取和操作 Mac 应用，而不抢占光标或窗口焦点。
 - [Android Device Perception Skill](https://awesomecua.com/zh/resources/github-worksonmyvm-android-device-perception-skill/)：通过 ADB 获取 Android 状态快照的可移植只读技能，面向 AI 编程和移动端智能体。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/5/ · [English](htt
 - [Cerner PowerChart Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-cerner-powerchart-browser-automation/)：面向 Cerner PowerChart 的浏览器自动化脚手架，提供登录、患者检索、结果、医嘱和文档导出等操作，并列出元素选择器参考信息。
 - [cfbrowse](https://awesomecua.com/zh/resources/github-sp42k-cfbrowse/)：Go Chrome DevTools Protocol 驱动，可在无头模式下为网页智能体应对交互式反机器人挑战。
 - [ChatGPT Pro Planning Skill for Codex](https://awesomecua.com/zh/resources/github-ericwong5021-chatgpt-pro-planning-skill/)：将复杂架构规划委托给已登录的 ChatGPT Pro 网页会话的 Codex 技能。
-- [ChatGPT Pro Workforce for Codex](https://awesomecua.com/zh/resources/github-jemo19-chatgpt-pro-workforce/)：一项 Codex 技能，将多个已登录的 ChatGPT Pro 浏览器聊天并行编排为可审查的研究团队。
-- [ChatGPT Web Bridge](https://awesomecua.com/zh/resources/github-qiuweiliu-chatgpt-web-bridge/)：仅附接现有会话的 Chrome DevTools Protocol 桥接工具，可将有明确范围的研究工作委托给已登录的 ChatGPT Web 标签页。
-- [ChatGPT Web for Codex](https://awesomecua.com/zh/resources/github-naakto14-codex-chatgpt-web-naakto-fork/)：浏览器桥接工具，将已登录的 ChatGPT Web 会话作为 OpenAI Codex 的原生模型和工具提供方。
-- [chatgpt-desktop-mcp](https://awesomecua.com/zh/resources/github-cantbeblank96-chatgpt-mcp/)：Model Context Protocol 服务器，通过 6 个 AT-SPI2 无障碍工具开放官方 Ubuntu/Linux ChatGPT Desktop 应用。
-- [Chrest](https://awesomecua.com/zh/resources/github-amarbel-llc-chrest/)：Chrest 结合浏览器扩展、REST 守护进程、CLI 和 MCP 服务器，以编程方式管理实时 Chrome 和 Firefox 标签页及其内容。
-- [Chromanche](https://awesomecua.com/zh/resources/github-marcobazzani-chromanche/)：自托管的 Chrome Manifest V3 扩展和本地 MCP 服务器，让 AI 智能体控制实时浏览器标签页。
-- [Chrome Actuator](https://awesomecua.com/zh/resources/github-xlreon-chrome-actuator/)：浏览器辅助工具，让 Grok 和其他 AI 智能体操控已打开的 Chrome 窗口。

@@ -25,13 +25,13 @@ These clients simulate named commercial applications. The code and simulator dat
 - 评测方式：Programmatic checkers inspect changes in application state; both modes share task definitions and initial states.
 - 侧重：task completion, cross-application workflows, GUI and app-native tool comparison
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 215 task definitions — official.json（计算得出；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json）
-- 63 simulated clients — complete simulator installation（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
-- 35 simulated clients — new clients in this release（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
+- 215 个任务定义 — official.json（计算得出）（来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json）
+- 63 个模拟客户端 — complete simulator installation（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
+- 35 个模拟客户端 — new clients in this release（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
 
 The task count was checked against unique task_id values in the published manifest. The 35 new clients are a subset of 63 total clients. This simulator runs in a browser; Android-emulator apps are a separate part of OpenMobile-2.
 

@@ -500,10 +500,16 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.
 - [FiftyOne GUI Grounding Training Set with Synthetic Augmentation](https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/) — Date not recorded
   4,036 GUI screenshots, mostly macOS browser views, with interaction keypoints and task descriptions: 739 manually annotated originals plus 3,297 color-vision and reworded-task variants made with a FiftyOne plugin.
+- [kuangtie/GUI-Robust](https://awesomecua.com/resources/url-369456114b26b0ff0a05/) — Date not recorded
+  Hub release of the GUI-Robust data: step screenshots with JSON annotations for GUI tasks that include seven types of real-world anomalies, scored by the GUI-Robust script for step grounding and full-task success.
 - [RoTS](https://awesomecua.com/resources/github-alibabaresearch-rots/) — Date not recorded
   Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
 - [TimeWarp](https://awesomecua.com/resources/url-8be414a28d1984abb1b9/) — Date not recorded
   Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.
+- [TimeWarp-GPT5-Traces](https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/) — Date not recorded
+  GPT-5 teacher trajectories on the TimeWarp web benchmark, grouped by UI version, with SoM-annotated screenshots for each step and experiment logs, used to fine-tune web agents with LlamaFactory.
+- [WinDeskGround](https://awesomecua.com/resources/url-897db7dba36e69a60e5e/) — Date not recorded
+  Benchmark data for GUI grounding on synthesized multi-window desktops: 1356 samples over 585 images, with controlled occlusion, semantic distraction and clutter plus difficulty levels L1 to L5.
 - [WorldGUI-Bench](https://awesomecua.com/resources/url-b540fe81c57cedb1f556/) — Date not recorded
   A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
 
@@ -549,6 +555,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Self-healing browser control framework for DeepSeek Harness featuring semantic page perception and automated fault recovery.
 - [DualTAP](https://awesomecua.com/resources/github-fyzhang1-dualtap/) — Date not recorded
   DualTAP is a dual-task adversarial protection framework for mobile MLLM GUI agents against environmental and visual prompt attacks.
+- [firefox_antidetect_patch](https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/) — Date not recorded
+  A Firefox patch series against a Mozilla release tag, one folder per feature, that adds engine-level fingerprint, network and Juggler automation patches and builds the anti-detect Firefox behind invisible_playwright.
 - [flowcast](https://awesomecua.com/resources/github-supermarioyl-flowcast/) — Date not recorded
   Records browser walkthroughs once, stores structured locator cues, and replays parameterized web workflows with self-healing recovery.
 - [GenPark Browser Bot-Defense Detector Skill](https://awesomecua.com/resources/github-alpha-park-genpark-agentic-browser-bot-defense-detector-skill/) — Date not recorded

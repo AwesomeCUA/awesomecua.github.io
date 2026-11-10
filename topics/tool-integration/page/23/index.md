@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/23/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/)
+- [WebSense MCP 2.0](https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/)
+- [WellSet WebMCP](https://awesomecua.com/resources/github-kinhikars-wellset-webmcp/)
+- [WieslawSoltes Linux Computer Use for Codex](https://awesomecua.com/resources/github-wieslawsoltes-linuxcomputeruse/)
+- [Win32 MCP Server](https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/)
 - [Win:Computer Use MCP](https://awesomecua.com/resources/github-jnx03-windowncomputeruse/)
 - [WinAgent-Lite](https://awesomecua.com/resources/github-zyydi1959-winagent-lite/)
 - [winctl-mcp](https://awesomecua.com/resources/github-shult-winctl-mcp/)

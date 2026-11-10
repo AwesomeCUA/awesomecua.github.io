@@ -28,14 +28,14 @@ The ungated Hub manifest contains train, test-task, test-website and test-subdom
 
 ### 数量记录
 
-- 600 conversations — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 34 conversations — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 42 conversations — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 44 conversations — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 2,896 dialogue turns — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 191 dialogue turns — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 218 dialogue turns — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 216 dialogue turns — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 600 段对话 — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 34 段对话 — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 42 段对话 — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 44 段对话 — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 2,896 轮对话 — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 191 轮对话 — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 218 轮对话 — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 216 轮对话 — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
 
 Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected.
 

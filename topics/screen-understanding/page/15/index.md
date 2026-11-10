@@ -4,6 +4,15 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/15/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/)
+- [PyGetWindow](https://awesomecua.com/resources/github-asweigart-pygetwindow/)
+- [pyside6-mcp](https://awesomecua.com/resources/github-com55-pyside6-mcp/)
+- [pywinauto](https://awesomecua.com/resources/github-pywinauto-pywinauto/)
+- [Qirabot](https://awesomecua.com/resources/github-qirabot-qirabot/)
+- [qt-mcp](https://awesomecua.com/resources/github-0xcarbon-qt-mcp/)
+- [QWebBridge](https://awesomecua.com/resources/github-hu-qi-qwebbridge/)
+- [rdc (Remote Desktop Control for AI Agents)](https://awesomecua.com/resources/github-bscott-rdc/)
+- [Reasonix Computer Use](https://awesomecua.com/resources/github-plocr-reasonix-computer-use/)
 - [reflex-computer-use](https://awesomecua.com/resources/github-8itlab-reflex-cu/)
 - [Renoned dsh-computer-use](https://awesomecua.com/resources/github-renoned-dsh-computer-use/)
 - [Roadmvn linux-computer-use](https://awesomecua.com/resources/github-roadmvn-linux-computer-use/)
@@ -55,12 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [TankWork](https://awesomecua.com/resources/github-agenttankos-tankwork/)
 - [Tarsier](https://awesomecua.com/resources/github-reworkd-tarsier/)
 - [Tarsier-AI](https://awesomecua.com/resources/github-siddzzzz-tarsier/)
-- [Tauri Dev Screen CLI](https://awesomecua.com/resources/github-johunsang-tauri-dev-screen-cli/)
-- [termcast](https://awesomecua.com/resources/github-chromedp-termcast/)
-- [terminal-use-mcp](https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/)
-- [THEIA Computer Use](https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/)
-- [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/)
-- [ThreeBody6666 DSH Computer Use](https://awesomecua.com/resources/github-threebody6666-dsh-computer-use/)
-- [TideSurf](https://awesomecua.com/resources/github-tidesurf-core/)
-- [tine](https://awesomecua.com/resources/github-smythp-tine/)
-- [TipTour](https://awesomecua.com/resources/github-milind-soni-tiptour-macos/)

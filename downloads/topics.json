@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "d0052f317c98bfb19f43cbc784b947db38d198d3caf72b0d7422eca73b5a91d7",
+  "catalog_sha256": "513997a3b7636455f62563f1c39803d7ab0297fb3126441f964487339f09e405",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "A resource can belong to several topics.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 5115,
-  "resources_with_topics": 5115,
+  "reviewed_resources": 5215,
+  "resources_with_topics": 5215,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -15,12 +15,12 @@
         "zh": "动作预测"
       },
       "counts": {
-        "total": 284,
+        "total": 299,
         "papers": 59,
-        "benchmarks": 8,
-        "datasets": 13,
-        "models": 153,
-        "systems": 51,
+        "benchmarks": 9,
+        "datasets": 15,
+        "models": 163,
+        "systems": 53,
         "learning": 0
       },
       "resource_ids": [
@@ -110,8 +110,10 @@
         "github:fy2ne/vact",
         "github:gameworld-project/gameworld",
         "github:gbesse/action-choice-bench",
+        "github:generalagents/showdown",
         "github:gih10012/astra-game-arena",
         "github:gimme1dollar/auto_ui",
+        "github:globe-engineer/globot",
         "github:groundingpi/groundingpi",
         "github:gui-libra/gui-libra",
         "github:guojiz/fastcua",
@@ -156,6 +158,7 @@
         "github:yzygitzh/humanoid",
         "github:zephinuecode/tooltok",
         "github:zhangruotian/conclick",
+        "github:zzxslp/mm-navigator",
         "url:0447e1fb83a794507aa2",
         "url:04aa7569d183379d615c",
         "url:058cb7a92cba506f9739",
@@ -164,6 +167,7 @@
         "url:0919e695670c5740a123",
         "url:0b94b29f2afbfe8a3abb",
         "url:0c9ce9f220b2fdfd70b0",
+        "url:0dcc389cc2b1b15fb081",
         "url:12470a40c8f82ef0294a",
         "url:1517e989c470563bd08d",
         "url:16083a0225a60882c704",
@@ -177,10 +181,12 @@
         "url:2803eda78cff23fb63cc",
         "url:295e0be27996e41738f8",
         "url:2be7f81cdca0eb8566c6",
+        "url:2e88b52ca1717a28fd32",
         "url:2eaf614de14193997f33",
         "url:2f2e38f240a36f31b631",
         "url:3359275b15ff3be825fc",
         "url:354c5b46fd423f9b1b85",
+        "url:369456114b26b0ff0a05",
         "url:374138c6e18c9f1dd44a",
         "url:37570eed422d326bfa5a",
         "url:380a6eedcb4de7778e88",
@@ -192,6 +198,7 @@
         "url:3dab53c6c38c9e7217ea",
         "url:3e3ca34dbdaf3190465c",
         "url:3e58eecd59c404508757",
+        "url:41b685bbd42fbd4732da",
         "url:430e47e1ca9f3b2a302f",
         "url:43d811a5957d8effb7ed",
         "url:44827a16f49e65ba8fb3",
@@ -249,7 +256,10 @@
         "url:8f5a8144b96447be84c5",
         "url:9082bb5effe5d1a1cada",
         "url:90b24afa7bb8b2181205",
+        "url:915e40f18b217ac63fc6",
+        "url:92b5cb08491c09243b72",
         "url:93c98e3b5aea945e0877",
+        "url:952cb4c3f308418aa85b",
         "url:9610ef3e1de63d7b647e",
         "url:97040677a731edfedc2d",
         "url:9960d240939244c3edaa",
@@ -258,11 +268,14 @@
         "url:a102be4d98ab5ce068d8",
         "url:a2362e23fdcbc73763e6",
         "url:a349aace3cfde25628a8",
+        "url:a4b101913db4b3673a2b",
         "url:a54a35c90681ced60cec",
         "url:a72a105e755836154412",
         "url:a886fea306211d527701",
         "url:a8b43a1f2bebd998f612",
         "url:a92e7dfcdfdcacb2e634",
+        "url:ab4587d17c4f541bb94c",
+        "url:ac62da857db91f68376b",
         "url:acd43f38167ba02e7ff8",
         "url:acfd6d395d67ce8011bb",
         "url:ae8e3fa5a67a608804f8",
@@ -274,11 +287,13 @@
         "url:b87dd2aed7f4c1982b6b",
         "url:bd9f8174e5503055c0bd",
         "url:c5b0e2eab771f62792fb",
+        "url:c5cedb2f95336a8e48aa",
         "url:c5eb975c0d66f8a2954f",
         "url:c9d2a9288a568db12bd1",
         "url:d01dfc6e5b5fcece7b41",
         "url:d2d07c09a1c92e5f4a43",
         "url:d3247ff0ff9a1f6bc247",
+        "url:d32dfe60eff4b87c1d05",
         "url:d34be9d27efef6c1b37a",
         "url:d59976834d3d0d3a1809",
         "url:d740ec821c7c466db2bf",
@@ -316,9 +331,9 @@
       "exports": [
         {
           "url": "/downloads/topics/action-prediction/records.jsonl",
-          "records": 284,
-          "bytes": 852412,
-          "sha256": "b2ff1543db933e85e46bd7fd0e6debed5be2c7eb63474dfa29b4176eb73d1af8"
+          "records": 299,
+          "bytes": 883499,
+          "sha256": "efb6dc45bad989ab414d042ed1337c5d5889ba7faf15bbf519943428c9ace996"
         },
         {
           "url": "/downloads/topics/action-prediction/citations.bib",
@@ -341,12 +356,12 @@
         "zh": "自动化"
       },
       "counts": {
-        "total": 1563,
+        "total": 1571,
         "papers": 138,
         "benchmarks": 11,
         "datasets": 1,
         "models": 15,
-        "systems": 1382,
+        "systems": 1390,
         "learning": 16
       },
       "resource_ids": [
@@ -927,6 +942,7 @@
         "github:fatmind/dsh-plugin-browser-use",
         "github:fatmind/webclaw3",
         "github:feder-cr/aihawk",
+        "github:feder-cr/firefox_antidetect_patch",
         "github:feder-cr/invisible_core",
         "github:feder-cr/invisible_dots",
         "github:feder-cr/invisible_playwright",
@@ -1349,6 +1365,7 @@
         "github:nut-tree/libnut-core",
         "github:nut-tree/nut.js",
         "github:obbbba/mcp-realbrowser",
+        "github:oblitum/interception",
         "github:observedobserver/claude-minecraft-use",
         "github:octalmage/robotjs",
         "github:oculix-org/oculix",
@@ -1543,6 +1560,7 @@
         "github:secretxuan/oh-my-dsh",
         "github:segentic-lab/glovebox-mcp",
         "github:seleniumbase/seleniumbase",
+        "github:seleniumhq/mobile-spec",
         "github:seleniumhq/selenium",
         "github:sentineldesk/agent",
         "github:sentineldesk/desktop",
@@ -1609,6 +1627,8 @@
         "github:steel-dev/atlas",
         "github:steel-dev/steel-cookbook",
         "github:steel-dev/steel-mcp-server",
+        "github:steel-dev/steel-node",
+        "github:steel-dev/steel-python",
         "github:steipete/axorcist",
         "github:stickerdaniel/browserjack",
         "github:storage1n1/local-computer-use-agent",
@@ -1733,9 +1753,11 @@
         "github:void032/android_mcp",
         "github:volkan-m/vnc-mcp-server",
         "github:vonzelle-vzt/vzt-browser",
+        "github:voqal/chrome-integration",
         "github:voqal/voqal",
         "github:vostride/agent-qa",
         "github:vthanhhdev/qirabot-vision-runtime",
+        "github:vuminhduc796/gptvoicetasker",
         "github:wangjc683/galley",
         "github:wangye520/codex-computer-use",
         "github:wangyong1972/dsh-computer-use-macos",
@@ -1795,6 +1817,7 @@
         "github:yeahhe365/webdroid-agent",
         "github:yeyvhaiou/crimson-heart",
         "github:yinkaisheng/python-uiautomation-for-windows",
+        "github:ylimit/droidbotapp",
         "github:yosefhayim/ai-browser-bridge",
         "github:yossifibrahem/computer-use-mcp-server",
         "github:yourself-q/local-browser-agent",
@@ -1921,9 +1944,9 @@
       "exports": [
         {
           "url": "/downloads/topics/automation/records.jsonl",
-          "records": 1563,
-          "bytes": 2864494,
-          "sha256": "51fc904346082938a1b6851b20915138c283202fc5ab224fd3b746ce393ef069"
+          "records": 1571,
+          "bytes": 2878484,
+          "sha256": "1eef648c6c7486f1fbc148ee5d454b92567a13a00f80334f616861be1120b951"
         },
         {
           "url": "/downloads/topics/automation/citations.bib",
@@ -1946,11 +1969,11 @@
         "zh": "跨应用"
       },
       "counts": {
-        "total": 97,
+        "total": 98,
         "papers": 48,
         "benchmarks": 21,
         "datasets": 4,
-        "models": 3,
+        "models": 4,
         "systems": 20,
         "learning": 1
       },
@@ -2051,6 +2074,7 @@
         "url:9b01ef4cc50d241ff34a",
         "url:d7a4f34a6a5202af5f64",
         "url:d7f35409d35584385097",
+        "url:f8a956094e526a92caf3",
         "url:fd28110220935a0fae26"
       ],
       "pages": {
@@ -2060,9 +2084,9 @@
       "exports": [
         {
           "url": "/downloads/topics/cross-app/records.jsonl",
-          "records": 97,
-          "bytes": 325531,
-          "sha256": "6a562d16fa01abe41777b7b75b3797b4b6c500075a1e448710ca9e90243d1e9b"
+          "records": 98,
+          "bytes": 327012,
+          "sha256": "287e751e8b89f24ceb0b188c815c64b8c06283424580d2f97675661c7a20b632"
         },
         {
           "url": "/downloads/topics/cross-app/citations.bib",
@@ -2085,12 +2109,12 @@
         "zh": "数据生成"
       },
       "counts": {
-        "total": 625,
+        "total": 635,
         "papers": 355,
         "benchmarks": 5,
-        "datasets": 147,
-        "models": 11,
-        "systems": 106,
+        "datasets": 151,
+        "models": 16,
+        "systems": 107,
         "learning": 1
       },
       "resource_ids": [
@@ -2566,6 +2590,7 @@
         "github:xlang-ai/agenttrek",
         "github:xlang-ai/cua-gym",
         "github:xlang-ai/opencua",
+        "github:xnancy/russ",
         "github:yiye3/guicourse",
         "github:yuanmingxue/dsh-search",
         "github:yuxiangchai/amex-codebase",
@@ -2597,10 +2622,12 @@
         "url:2260aaa47fb9c63bb917",
         "url:25a4d0ab29b60250863a",
         "url:25af759a783f1514fe58",
+        "url:280f2ab56bbc0b630d81",
         "url:2a4dd75acb6efdeb0e4a",
         "url:2b4b3e54d9c52f868b4e",
         "url:2bab4b78c81cde1d5ecb",
         "url:2e1927450da2183a5abe",
+        "url:2e88b52ca1717a28fd32",
         "url:2e8bba756c71f9fe3fbd",
         "url:31768421b4ecd1ad89f7",
         "url:348f31b5b339403ec26f",
@@ -2616,6 +2643,7 @@
         "url:4e71dc456c4112eed727",
         "url:4f47abde8cd28a1ec1e1",
         "url:511903ebfac45e6751b2",
+        "url:52067b3e48e9381e4c66",
         "url:528f6fe128b77e9615aa",
         "url:52a3261eb6a19b402e88",
         "url:543aff764901777e6ad5",
@@ -2652,6 +2680,7 @@
         "url:8d87e8ae53971aab3f8d",
         "url:93278fa5b9e6bd0cbcef",
         "url:964d70c40bfc5ca8e1ee",
+        "url:96bb23bd687d6c227a41",
         "url:98e8a413ddd670214755",
         "url:9a3506ca6ef034adb424",
         "url:9bb57ce3dde2c8289ac1",
@@ -2673,6 +2702,7 @@
         "url:b79ca6f7731ebf067709",
         "url:b9a56cf9e9346a359c0b",
         "url:ba6453cfdae0eb049ced",
+        "url:bd293c9a5f9bf16b8199",
         "url:be89a250747f507a27ef",
         "url:beb8f1fd6b945ffc9d93",
         "url:bf416a816f74718f94dd",
@@ -2683,12 +2713,14 @@
         "url:c47b5927fc41eb9a24d4",
         "url:c4898ad1bfc049926a63",
         "url:c7489f15e7883a695832",
+        "url:c7e1d8863286e92c47a2",
         "url:c8c3d4ef20e68086a812",
         "url:ccac8d260d6d1d330bf5",
         "url:cf4d2d45a7314cb16acb",
         "url:cf7c132c9a988d3a6ec4",
         "url:d0300db5ba754b1a64fa",
         "url:d1830de02226155ee16d",
+        "url:d32dfe60eff4b87c1d05",
         "url:d3ec5122a2b52fd5ae4b",
         "url:d46306ac1d0a0cce573a",
         "url:d716497286ae5cd5e762",
@@ -2701,6 +2733,7 @@
         "url:e3c3e5a5a00f024ebac5",
         "url:e555cae98afb22876f3b",
         "url:e7c3d3d49bf977b49996",
+        "url:e7ea65893ab264517d83",
         "url:e8256e338a9c379ca85b",
         "url:e9423bcf01a8d6b078bc",
         "url:eadc6cba9ea46c38dd1d",
@@ -2709,6 +2742,7 @@
         "url:edf38d43800be8c955ae",
         "url:f00b2ed65c517295a6cc",
         "url:f0eac3ad813245645492",
+        "url:f0ffbdc41c9dca4c585f",
         "url:f2e2030eaee4250d995d",
         "url:f56dbd8bfac8b0545e07",
         "url:f6c88faa4392848f81b6",
@@ -2727,9 +2761,9 @@
       "exports": [
         {
           "url": "/downloads/topics/data-generation/records.jsonl",
-          "records": 625,
-          "bytes": 1923920,
-          "sha256": "fedcbb16104a59d0ed651f27e88c4c9edf959c76be34e0dd98bdd01e2ab93a29"
+          "records": 635,
+          "bytes": 1946696,
+          "sha256": "75c4c360d1364950436323a36b1e4c980a32e2a056975226d5ac0e930540d91a"
         },
         {
           "url": "/downloads/topics/data-generation/citations.bib",
@@ -2752,11 +2786,11 @@
         "zh": "效率"
       },
       "counts": {
-        "total": 543,
+        "total": 548,
         "papers": 217,
         "benchmarks": 16,
         "datasets": 1,
-        "models": 38,
+        "models": 43,
         "systems": 270,
         "learning": 1
       },
@@ -3271,6 +3305,7 @@
         "github:zty552252kevin-code/desktop-hub",
         "github:zumerlab/snapsurf",
         "url:0210d8713fd41ca1448f",
+        "url:039a4975e102cb538c36",
         "url:099451a33699510476df",
         "url:2eaafb0b5ecde3babbf1",
         "url:303e1926b8ff4f60e006",
@@ -3284,6 +3319,7 @@
         "url:4ee15c39dc38f230ad58",
         "url:51fd7f79dff766278d83",
         "url:642671eabef44827b7de",
+        "url:689fea75118e3113476b",
         "url:6c16f91d8d79d7836283",
         "url:6eda678ca03ea2b10d2d",
         "url:72f3737bb5194fd64852",
@@ -3291,10 +3327,13 @@
         "url:7c6929dcffffe6553ea9",
         "url:7f7d17a0873e6ffda2b9",
         "url:82adab61eb515398da48",
+        "url:836de49b2bbd47d3a6a5",
         "url:85cad9e7962668786093",
+        "url:8a5201470d27334977fa",
         "url:a5dc446fab5e6bdce517",
         "url:a72a105e755836154412",
         "url:acfd6d395d67ce8011bb",
+        "url:b144605ae24674ffb917",
         "url:b94e285c3f757e2d0f3a",
         "url:c0f39f7cf2cd9c18e8bd",
         "url:c5b0e2eab771f62792fb",
@@ -3312,9 +3351,9 @@
       "exports": [
         {
           "url": "/downloads/topics/efficiency/records.jsonl",
-          "records": 543,
-          "bytes": 1245752,
-          "sha256": "c643332032ce7da381417b29528428eb8bce3fad35c88a6aad280dda508e012f"
+          "records": 548,
+          "bytes": 1255613,
+          "sha256": "9a7c9991478892ca1a13061a3d59fac646bd55ce80131382ad313e9e6500a05f"
         },
         {
           "url": "/downloads/topics/efficiency/citations.bib",
@@ -3337,12 +3376,12 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 1499,
+        "total": 1524,
         "papers": 835,
-        "benchmarks": 298,
-        "datasets": 83,
-        "models": 27,
-        "systems": 244,
+        "benchmarks": 303,
+        "datasets": 96,
+        "models": 29,
+        "systems": 249,
         "learning": 12
       },
       "resource_ids": [
@@ -4181,6 +4220,7 @@
         "github:acrab-agentic-labs/appsim-neteasecloudmusic",
         "github:acrab-agentic-labs/appsim-rednote",
         "github:acrab-agentic-labs/appsim-ubereats",
+        "github:acrab-agentic-labs/appsim-wechat-v2",
         "github:acrab-agentic-labs/appsim-youtube",
         "github:acrab-agentic-labs/appsim-zoom",
         "github:adam-bjtu/guitestbench",
@@ -4297,7 +4337,9 @@
         "github:gair-nlp/windowsagentarena-v2",
         "github:gameworld-project/gameworld",
         "github:gameworld-project/gameworld-games",
+        "github:gasse/webarena-setup",
         "github:gbesse/action-choice-bench",
+        "github:generalagents/showdown",
         "github:gezelligheid0314/sman-bench",
         "github:ghadinehme/videocad",
         "github:gih10012/astra-game-arena",
@@ -4332,6 +4374,7 @@
         "github:ilearn-lab/acl26-personalalign",
         "github:ilyat9/agentalyze",
         "github:imeanai/webcanvas",
+        "github:imeanai/webcanvas_showcase",
         "github:intelligence-indeed/indeed-ui",
         "github:internlm/wildclawbench",
         "github:ismael-joffroy-chandoutis/browser-agent-comparison",
@@ -4492,6 +4535,7 @@
         "github:pudap/guidriver",
         "github:purewhiter/mobilegym",
         "github:qwenlm/blenderworld",
+        "github:qwenlm/qwen-agentworld",
         "github:qwenlm/recreationworld",
         "github:radishsoftware/mobster",
         "github:raghava00001/desktopagentbench",
@@ -4562,6 +4606,7 @@
         "github:swe-agent/swe-agent",
         "github:tajamul21/medspot",
         "github:tashonbraganca/browser-automation-benchmark",
+        "github:task-web/osworld-web",
         "github:taskproof/taskproof",
         "github:tatra-labs/done-or-not",
         "github:teamcapybara/capybara",
@@ -4649,6 +4694,7 @@
         "github:xlang-ai/osworld-g",
         "github:xlang-ai/osworld-v2",
         "github:xlang-ai/spider2-v",
+        "github:xnancy/russ",
         "github:xuhuizhou/haicosystem",
         "github:xyyojl/web-agent",
         "github:yas1i/baseerat",
@@ -4667,6 +4713,7 @@
         "github:zlab-princeton/sweeper-bench",
         "github:zseven-w/dsh-qa",
         "github:ztr321/enterprise-web-workflow-agent",
+        "github:zzxslp/mm-navigator",
         "github:zzzhr-1/windeskground",
         "url:01b4f010bda4dc4a5731",
         "url:01b9e39cd2526d41c527",
@@ -4697,33 +4744,42 @@
         "url:263e82b29d4fca964463",
         "url:2b7363c3a20d8022b319",
         "url:2bab4b78c81cde1d5ecb",
+        "url:2c85ae447a0eeed51393",
         "url:2c99f0de2840277abc72",
         "url:2e8bba756c71f9fe3fbd",
         "url:339e28b1f939ae45f9fe",
         "url:342b081c3668a8bbe155",
+        "url:3452cef2f99d7de2935a",
         "url:346ca54794cbdffc8797",
+        "url:369456114b26b0ff0a05",
         "url:37b4f525e6d7a56a9967",
         "url:39f88102e1659647b1a0",
+        "url:3ab90a696d8578c944c8",
         "url:3ac3ccfb23fe13adf428",
         "url:3b4e6c30e1d095c22771",
         "url:3b6dfd52f98bfe76bc7f",
+        "url:3de50fa3eee0081d31ac",
         "url:3e1a864c46c8ed5735d4",
         "url:3e3ca34dbdaf3190465c",
         "url:405959de004b6e32c911",
         "url:40ce19527f25bfa3bd63",
         "url:41abb1b7206689cf5057",
         "url:4395ff8522cd77109b83",
+        "url:447997967beea3b07f6f",
         "url:4784f63cd7117f64a2a3",
         "url:4b747a376f628e6f9760",
         "url:4f4c4f0bf0cec93c59d1",
+        "url:5182ab4e9bd7843f240b",
         "url:5288515eb50aef1e84a2",
         "url:52a3261eb6a19b402e88",
         "url:52ec96785d9c0ae8e039",
         "url:5371bf588e7790a66ff0",
+        "url:54907fd6dc968eaced34",
         "url:557edb1d63e8fcfdee12",
         "url:56b5936190d20fa3d1c1",
         "url:573954fad8617c3d5e57",
         "url:5831a1ae8385cda79575",
+        "url:5bbbc1012ab02e9df3bb",
         "url:5cfd441becdfc6ea622b",
         "url:5e2bd1b3398974b79c9c",
         "url:5f211a7eba35415ea382",
@@ -4734,8 +4790,10 @@
         "url:62d912811f786f787ae4",
         "url:63264f7cd4510d96e486",
         "url:6545629632b5e3e3a3d6",
+        "url:654e0cbc1a22b59eca47",
         "url:6680e812b94c168e6bed",
         "url:66f780b493156dc7efe5",
+        "url:687a7b27f38720fe54bc",
         "url:691c52679bb1d3521db7",
         "url:6942e8211a0f59eb7878",
         "url:6a212bc12f82c824f6b9",
@@ -4757,22 +4815,26 @@
         "url:80c8abf734a29f7affc5",
         "url:8477ada5b7de1d399c9d",
         "url:849a86beaee006c6b147",
+        "url:85b700fbb7f1c599b7c3",
         "url:86229ebd22143128bcf7",
         "url:863cc1744cd5d40418be",
         "url:866251b68d6bba8b8ba6",
         "url:8697c910c05d48152916",
         "url:883e7c46e883b005762c",
+        "url:897db7dba36e69a60e5e",
         "url:8b87df7992bc7b4da1a5",
         "url:8be414a28d1984abb1b9",
         "url:8dfc84eb4016204fe70a",
         "url:8fd4e25ae5c0fe619969",
         "url:9112dfcb201f2de7241f",
         "url:9113270916a36b4b76f1",
+        "url:94adc54bf1cd168da768",
         "url:97d846b5b33235f566a1",
         "url:98122987ca3e7c764d0e",
         "url:9b01ef4cc50d241ff34a",
         "url:9c96a767b56ba0eb4494",
         "url:9d35341e71dfd457fd79",
+        "url:a12c18540006368e69ab",
         "url:a19a076a4808a80f6ac8",
         "url:a252b36bf1c440269a2e",
         "url:a3ea3a844de7dd8a6792",
@@ -4805,6 +4867,7 @@
         "url:c885712b9c69579ac591",
         "url:c8c3d4ef20e68086a812",
         "url:c9d2a9288a568db12bd1",
+        "url:ca7bfba3981fc7e5b3bf",
         "url:cb7f3bdb832d533c96b0",
         "url:ce775111626bae220596",
         "url:d071f3f5a01a5f9d6d78",
@@ -4837,6 +4900,7 @@
         "url:eb8af3be965f5c0fde6a",
         "url:ec17d3267cd49548d2d4",
         "url:edb0eadcc3df5559e941",
+        "url:f0ffbdc41c9dca4c585f",
         "url:f7e21b1a3ba5c58a73bc",
         "url:f8b67bde8c79e7934a2a",
         "url:f979ca583090405aadee",
@@ -4853,9 +4917,9 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 1499,
-          "bytes": 4272814,
-          "sha256": "74ccf87b838200a6c58ffa81f3d5222f190b541aad920405ad502d78967080ea"
+          "records": 1524,
+          "bytes": 4325142,
+          "sha256": "fcf8446430ed2e3e87e60e632b11843eb505e1ef9063b77c0ff82fddc7215d27"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -4878,12 +4942,12 @@
         "zh": "GUI 定位"
       },
       "counts": {
-        "total": 989,
+        "total": 1009,
         "papers": 302,
-        "benchmarks": 32,
-        "datasets": 77,
-        "models": 238,
-        "systems": 337,
+        "benchmarks": 33,
+        "datasets": 81,
+        "models": 252,
+        "systems": 338,
         "learning": 3
       },
       "resource_ids": [
@@ -5264,6 +5328,7 @@
         "github:fluxaster/mai",
         "github:fy2ne/vact",
         "github:gauthierpiarrette/perceive",
+        "github:generalagents/showdown",
         "github:ghadinehme/videocad",
         "github:ghost-in-the-droid/android-agent",
         "github:ghostwright/ghost-os",
@@ -5545,6 +5610,7 @@
         "github:xiaozhengdeng/dsh_omnivision",
         "github:xlang-ai/aguvis",
         "github:xlang-ai/osworld-g",
+        "github:xnancy/russ",
         "github:xuan32546/ios13-simulatetouch",
         "github:xuanyuanluoxue/computer-use-vision",
         "github:xuyw1997/agent-desktop-harness",
@@ -5579,6 +5645,7 @@
         "github:zyydi1959/winagent-lite",
         "github:zzzhr-1/windeskground",
         "url:00b1a3abf9bcb424b264",
+        "url:00f5bfd8c7991012a183",
         "url:013bb9256ca6ad5188be",
         "url:0447e1fb83a794507aa2",
         "url:0579bd92efb87b26cb15",
@@ -5603,12 +5670,14 @@
         "url:1001251b5a7729988118",
         "url:116431f8ea32dbc6d637",
         "url:149769d8bf07b7fbabdc",
+        "url:15c5435c1cb4f9e6b737",
         "url:16083a0225a60882c704",
         "url:16a51d9e725ad5a5c629",
         "url:16f4a8903de0f90d3638",
         "url:174e10a319d62c338879",
         "url:17729e1c532ba7043404",
         "url:17a0422036ebea8d4e93",
+        "url:1a495ecc8b0d73e04308",
         "url:1b08ff264bbf2f8a10a3",
         "url:1b2091d717c977d4f8b9",
         "url:1e3655e5a2b664102ac7",
@@ -5619,6 +5688,7 @@
         "url:23bc63f93d3c31d74af3",
         "url:246241a0b6219513cb7f",
         "url:24ec6c30e9bb9946c13f",
+        "url:26157e2cda7fb73cf99c",
         "url:2803eda78cff23fb63cc",
         "url:2866edbea80fa34aa684",
         "url:29588aa5651b5839c045",
@@ -5628,17 +5698,20 @@
         "url:2b5dead3172c0b70da7e",
         "url:2c2004baae4669f8169a",
         "url:2eaafb0b5ecde3babbf1",
+        "url:2ebcbc24ecbdc2db22fb",
         "url:2f2e38f240a36f31b631",
         "url:303e1926b8ff4f60e006",
         "url:30c831a1198b9bc2a0f5",
         "url:3359275b15ff3be825fc",
         "url:339e28b1f939ae45f9fe",
+        "url:33b35b47d8bb269d84a1",
         "url:34516ed7cef20f813d93",
         "url:354c5b46fd423f9b1b85",
         "url:35b9879a351cc3b3d7d5",
         "url:36a7cba41056d46cdcde",
         "url:374138c6e18c9f1dd44a",
         "url:37570eed422d326bfa5a",
+        "url:380318a8de65fe45956c",
         "url:38672ac9af2e25fbfb58",
         "url:3888a4042043fb547705",
         "url:38942453b2b7018c0d01",
@@ -5653,6 +5726,7 @@
         "url:41556fece3bf8a2419ba",
         "url:41abb1b7206689cf5057",
         "url:430e47e1ca9f3b2a302f",
+        "url:43f98379902167a5f9f3",
         "url:461125e2d6ac2f030f6b",
         "url:46502d87b2c13515790a",
         "url:477342b0eb81469b35a0",
@@ -5661,6 +5735,7 @@
         "url:4b6d61ff2c1d6c8e1a23",
         "url:4b747a376f628e6f9760",
         "url:4d32ad3682ae2d71c178",
+        "url:4d7042b462e937c33406",
         "url:4e71dc456c4112eed727",
         "url:4e9e46b2c7a0a21e130d",
         "url:4fada3187f0d1d1efbe5",
@@ -5671,6 +5746,7 @@
         "url:52ec96785d9c0ae8e039",
         "url:54997a3c67e54abdf319",
         "url:557edb1d63e8fcfdee12",
+        "url:558abdb3eb20b922e01b",
         "url:55be07e942393d43132f",
         "url:566bd1469811983951f3",
         "url:56bda04bd8d3a438deb3",
@@ -5688,6 +5764,7 @@
         "url:61a5321db10fc8a312b9",
         "url:6262c757080f8838e62c",
         "url:62cf0bee7a14cfbc84a0",
+        "url:638d229f7a02760ae9dc",
         "url:642671eabef44827b7de",
         "url:64d0220e17b4e67485f3",
         "url:66096ad4057a3d3726f5",
@@ -5700,6 +5777,7 @@
         "url:6cd150ec23361b4d2e84",
         "url:6d36e088ada02184c6bc",
         "url:6d5151d298f88e2602bb",
+        "url:6d6f7ffc6a15e9e75a14",
         "url:6fc89a4fd815cb273777",
         "url:709d8b51bbc8d257318f",
         "url:72f05843df9bd7ea35af",
@@ -5710,6 +5788,7 @@
         "url:758f048c78e5c184333c",
         "url:75cc3b45e7e44c422c4c",
         "url:75dee6afef81a56ba4b2",
+        "url:7617bb21031bc5fb6574",
         "url:7638e3f688374cea2217",
         "url:7645072fe9580fa9993a",
         "url:76f3981d219bb87b4eea",
@@ -5734,6 +5813,7 @@
         "url:87f28e117d95985d5177",
         "url:8896d44370711136fd54",
         "url:8933977bb0a57940ed23",
+        "url:897db7dba36e69a60e5e",
         "url:8b87df7992bc7b4da1a5",
         "url:8c9aaafb918aaf8b4e92",
         "url:8d87e8ae53971aab3f8d",
@@ -5746,6 +5826,8 @@
         "url:90eea6f6d099a3297850",
         "url:9113270916a36b4b76f1",
         "url:913a72e8929afd96ad07",
+        "url:915e40f18b217ac63fc6",
+        "url:94adc54bf1cd168da768",
         "url:9610ef3e1de63d7b647e",
         "url:969eb56a53187cda74c7",
         "url:97cfbcd45f879ff71499",
@@ -5771,6 +5853,7 @@
         "url:a8e086f155c278e45c55",
         "url:a92e7dfcdfdcacb2e634",
         "url:aa28e1329a52e341d285",
+        "url:ac62da857db91f68376b",
         "url:acd43f38167ba02e7ff8",
         "url:acfd6d395d67ce8011bb",
         "url:ad7f176848fd84de64e2",
@@ -5862,6 +5945,7 @@
         "url:f35cfcbaeb79663eabeb",
         "url:f39d67f7a4a6f869f39c",
         "url:f52794224f9541fd9eb3",
+        "url:f644200c18bea88da7b3",
         "url:f6c88faa4392848f81b6",
         "url:f6e1a7527f9346ed1c1d",
         "url:f70aa7c95824a8729516",
@@ -5884,9 +5968,9 @@
       "exports": [
         {
           "url": "/downloads/topics/grounding/records.jsonl",
-          "records": 989,
-          "bytes": 2543220,
-          "sha256": "4bf4fbdcf377e0dd1749ef54a6c35057e213f1d5ea10d7bd4ab04830ef541c74"
+          "records": 1009,
+          "bytes": 2584559,
+          "sha256": "939c6111624ad2aea5d36eb6bd7e32de39aa089b4cd01bf739800111bf80cb61"
         },
         {
           "url": "/downloads/topics/grounding/citations.bib",
@@ -5909,12 +5993,12 @@
         "zh": "历史"
       },
       "counts": {
-        "total": 23,
+        "total": 24,
         "papers": 0,
         "benchmarks": 1,
         "datasets": 0,
         "models": 0,
-        "systems": 22,
+        "systems": 23,
         "learning": 0
       },
       "resource_ids": [
@@ -5936,6 +6020,7 @@
         "github:pleaseprompto/notebooklm-skill",
         "github:raiman/sikulix1",
         "github:saarthak-yadav/browser-agent-webvoyager",
+        "github:seleniumhq/mobile-spec",
         "github:serpentai/serpentai",
         "github:sikuli/sikuli",
         "github:stanfordnlp/wge",
@@ -5949,9 +6034,9 @@
       "exports": [
         {
           "url": "/downloads/topics/history/records.jsonl",
-          "records": 23,
-          "bytes": 54042,
-          "sha256": "9a9465b4b6bf345853306bf0efcdf27035d65919700c47bfad9fb3d2653c0b01"
+          "records": 24,
+          "bytes": 55684,
+          "sha256": "881827913cfd5da5c70f700fbb66138a0b2ff04a945bc2bfc9fef998c5c0e8fe"
         },
         {
           "url": "/downloads/topics/history/citations.bib",
@@ -5974,11 +6059,11 @@
         "zh": "人机协作"
       },
       "counts": {
-        "total": 350,
+        "total": 351,
         "papers": 107,
         "benchmarks": 5,
         "datasets": 3,
-        "models": 1,
+        "models": 2,
         "systems": 233,
         "learning": 1
       },
@@ -6313,6 +6398,7 @@
         "url:040e17448d9d190b3c14",
         "url:05a9a7c592089d1ddd46",
         "url:07e274077af6ea9fd5f9",
+        "url:0b0a7a841d65715d60b1",
         "url:12d789d450207bd6d5da",
         "url:1517e989c470563bd08d",
         "url:16a5ccde8bb16cda19ff",
@@ -6341,9 +6427,9 @@
       "exports": [
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
-          "records": 350,
-          "bytes": 845834,
-          "sha256": "fbe4c6dc5aebb77d7c2bdb207d3f9dc218de78f8d4475e50510429d2e59fd95e"
+          "records": 351,
+          "bytes": 848025,
+          "sha256": "3d5513a85f44b42b8ac4c760bfaae7b248c7256978a353021cb770dde33cad27"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
@@ -6366,11 +6452,11 @@
         "zh": "模仿学习"
       },
       "counts": {
-        "total": 190,
+        "total": 198,
         "papers": 75,
         "benchmarks": 3,
-        "datasets": 31,
-        "models": 28,
+        "datasets": 33,
+        "models": 34,
         "systems": 53,
         "learning": 0
       },
@@ -6513,6 +6599,7 @@
         "url:20f7cdee10b0dd70815f",
         "url:2b5dead3172c0b70da7e",
         "url:2be7f81cdca0eb8566c6",
+        "url:2cd89755e4e2511de633",
         "url:2e1927450da2183a5abe",
         "url:2eaf614de14193997f33",
         "url:31768421b4ecd1ad89f7",
@@ -6522,10 +6609,13 @@
         "url:422010da7a5c845a18f6",
         "url:43d811a5957d8effb7ed",
         "url:461e9b8305356347077e",
+        "url:511ba336435d406f3761",
+        "url:52067b3e48e9381e4c66",
         "url:528f6fe128b77e9615aa",
         "url:56f08987cc19b82dc607",
         "url:570654ff67ecefa2b955",
         "url:58a209f2b3b970916396",
+        "url:62688de46b172fb0c746",
         "url:6616228d4f267363458e",
         "url:666844c28be1138b0e37",
         "url:66a0adb854eff694965d",
@@ -6548,9 +6638,11 @@
         "url:9960d240939244c3edaa",
         "url:9a3506ca6ef034adb424",
         "url:a13a187bc058fbb4f6af",
+        "url:a1621345ec327462b86e",
         "url:a2362e23fdcbc73763e6",
         "url:a7beaa489fc4ffeb555f",
         "url:b1837823421bd08cb826",
+        "url:bd293c9a5f9bf16b8199",
         "url:bdfb50330deb97893ce4",
         "url:c3ab0f006a880174e645",
         "url:c9d2a9288a568db12bd1",
@@ -6564,7 +6656,9 @@
         "url:e2ddf502803f46085aca",
         "url:e9423bcf01a8d6b078bc",
         "url:eb6a5940793aa81153d0",
-        "url:f2c34526651f5f57cf98"
+        "url:f2c34526651f5f57cf98",
+        "url:f4f6f5bfe051e6ba3d94",
+        "url:fa8fd2873571ab1b3556"
       ],
       "pages": {
         "en": "/topics/imitation-learning/",
@@ -6573,9 +6667,9 @@
       "exports": [
         {
           "url": "/downloads/topics/imitation-learning/records.jsonl",
-          "records": 190,
-          "bytes": 612951,
-          "sha256": "80d5887e0f6ca7ff1ac52b1b9a27d1b6c8332367dad3119780012511c3d52817"
+          "records": 198,
+          "bytes": 631184,
+          "sha256": "ee206a823eed7c451e782b1bc28f2ea5a20b8cb572bc7ebf105784e6126325aa"
         },
         {
           "url": "/downloads/topics/imitation-learning/citations.bib",
@@ -6707,11 +6801,11 @@
         "zh": "交互历史"
       },
       "counts": {
-        "total": 119,
+        "total": 121,
         "papers": 94,
         "benchmarks": 2,
-        "datasets": 6,
-        "models": 5,
+        "datasets": 7,
+        "models": 6,
         "systems": 12,
         "learning": 0
       },
@@ -6826,11 +6920,13 @@
         "url:2866edbea80fa34aa684",
         "url:2bab4b78c81cde1d5ecb",
         "url:39e2a96f88ed3223ece9",
+        "url:3df97229d34c44c2014a",
         "url:61c09ceb7c78f6b5e74f",
         "url:666844c28be1138b0e37",
         "url:87e0195f2401d5f6f66f",
         "url:8b87df7992bc7b4da1a5",
         "url:9113270916a36b4b76f1",
+        "url:952cb4c3f308418aa85b",
         "url:bf0c11018e49dff6aeec",
         "url:bf57897ba4d047112345",
         "url:e3c3e5a5a00f024ebac5",
@@ -6843,9 +6939,9 @@
       "exports": [
         {
           "url": "/downloads/topics/interaction-history/records.jsonl",
-          "records": 119,
-          "bytes": 347978,
-          "sha256": "b5c77a4911bb5164060e28d76e08ad670ed54139b3adac8ee1a8d394c2f2b274"
+          "records": 121,
+          "bytes": 352237,
+          "sha256": "f86198fcd98ade08acd0e48def10547ba6bd82c99f5289d7db4a1697b48674c2"
         },
         {
           "url": "/downloads/topics/interaction-history/citations.bib",
@@ -6868,10 +6964,10 @@
         "zh": "长任务"
       },
       "counts": {
-        "total": 240,
+        "total": 241,
         "papers": 164,
         "benchmarks": 26,
-        "datasets": 6,
+        "datasets": 7,
         "models": 3,
         "systems": 41,
         "learning": 0
@@ -7107,6 +7203,7 @@
         "url:342b081c3668a8bbe155",
         "url:3932d69c6b6f9b2a7ba8",
         "url:3b4e6c30e1d095c22771",
+        "url:3de50fa3eee0081d31ac",
         "url:40795d2c86388ae89f43",
         "url:430e47e1ca9f3b2a302f",
         "url:4395ff8522cd77109b83",
@@ -7125,9 +7222,9 @@
       "exports": [
         {
           "url": "/downloads/topics/long-horizon/records.jsonl",
-          "records": 240,
-          "bytes": 734700,
-          "sha256": "b333414e8aa438559b8e7c2296bec110d206b60ff5fec4d31f98722a1f80e18a"
+          "records": 241,
+          "bytes": 736961,
+          "sha256": "17c866a0158256253db9a51ce14a8962035b90a64a8fb432ef92dfb54b31a3b4"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.bib",
@@ -7150,11 +7247,11 @@
         "zh": "记忆"
       },
       "counts": {
-        "total": 354,
+        "total": 356,
         "papers": 213,
         "benchmarks": 4,
         "datasets": 4,
-        "models": 4,
+        "models": 6,
         "systems": 127,
         "learning": 2
       },
@@ -7509,7 +7606,9 @@
         "url:73e9e26d40de2a60ae05",
         "url:76f0ba33cddbb348ea01",
         "url:87e0195f2401d5f6f66f",
+        "url:8a5201470d27334977fa",
         "url:a2c0216a0d8875e86dee",
+        "url:b144605ae24674ffb917",
         "url:bdfb50330deb97893ce4",
         "url:d01dfc6e5b5fcece7b41",
         "url:e0e4712ee701f652bf31"
@@ -7521,9 +7620,9 @@
       "exports": [
         {
           "url": "/downloads/topics/memory/records.jsonl",
-          "records": 354,
-          "bytes": 988057,
-          "sha256": "9dcc15e43d42ea6408471335bb0ca47039d3cf71445370c738c7867d69a64a9b"
+          "records": 356,
+          "bytes": 992438,
+          "sha256": "51d805d36c6bad2b277927814c97c14743fac17f081114473ba13dd43fbb3546"
         },
         {
           "url": "/downloads/topics/memory/citations.bib",
@@ -7546,12 +7645,12 @@
         "zh": "手机操作"
       },
       "counts": {
-        "total": 621,
+        "total": 641,
         "papers": 264,
-        "benchmarks": 29,
-        "datasets": 33,
-        "models": 74,
-        "systems": 216,
+        "benchmarks": 30,
+        "datasets": 38,
+        "models": 83,
+        "systems": 221,
         "learning": 5
       },
       "resource_ids": [
@@ -7825,6 +7924,7 @@
         "github:acrab-agentic-labs/appsim-neteasecloudmusic",
         "github:acrab-agentic-labs/appsim-rednote",
         "github:acrab-agentic-labs/appsim-ubereats",
+        "github:acrab-agentic-labs/appsim-wechat-v2",
         "github:acrab-agentic-labs/appsim-youtube",
         "github:acrab-agentic-labs/appsim-zoom",
         "github:adam-bjtu/guitestbench",
@@ -7885,6 +7985,7 @@
         "github:dtmilano/androidviewclient",
         "github:eggbrid2/mobileclaw",
         "github:erickjtorres/app-use",
+        "github:evanbacon/serve-sim",
         "github:expo/expo-device-hub",
         "github:facebook/idb",
         "github:fclab-skku/mobilegpt",
@@ -7984,6 +8085,7 @@
         "github:salviz/termux-browser-pilot",
         "github:samsung/clickagent",
         "github:secondly-com/openphone",
+        "github:seleniumhq/mobile-spec",
         "github:senzhk/adbkeyboard",
         "github:shivampkumar/taproot",
         "github:sidhu-master/androidautoglm",
@@ -8021,6 +8123,7 @@
         "github:vkcom/devicehub",
         "github:void032/android_mcp",
         "github:volcengine/vephone",
+        "github:vuminhduc796/gptvoicetasker",
         "github:wangjiang314/lynx-agent",
         "github:web-infra-dev/midscene-example",
         "github:westlake-agi-lab/appagentx",
@@ -8051,6 +8154,7 @@
         "github:zhaodashuaibi/versaios",
         "github:zseven-w/dsh-android",
         "github:zseven-w/dsh-ios",
+        "github:zzxslp/mm-navigator",
         "url:00b1a3abf9bcb424b264",
         "url:013bb9256ca6ad5188be",
         "url:0596dd7e97fd30abaadc",
@@ -8060,10 +8164,13 @@
         "url:0ab0de943c5396cdf366",
         "url:0c69fd920263b8a72a72",
         "url:0c9ce9f220b2fdfd70b0",
+        "url:0dcc389cc2b1b15fb081",
+        "url:0e5617031e625a75cfc7",
         "url:114ced4a94d12f384d69",
         "url:1419f2835e78de2bc9a4",
         "url:1611de0e6d606165d12d",
         "url:16184830c0f4bdb146fa",
+        "url:1a54e63277eaffdaef57",
         "url:1b036956436123d87ff1",
         "url:1b2091d717c977d4f8b9",
         "url:1c0a2ce1faf3017fa0c5",
@@ -8082,6 +8189,8 @@
         "url:38672ac9af2e25fbfb58",
         "url:392a602c660ffa91be46",
         "url:3b99bbbd3480dbc1ec6b",
+        "url:3d12df2fd27076504434",
+        "url:3df97229d34c44c2014a",
         "url:3e1a864c46c8ed5735d4",
         "url:3e3ca34dbdaf3190465c",
         "url:43d811a5957d8effb7ed",
@@ -8090,6 +8199,8 @@
         "url:4bece2c969edcdfc2e8d",
         "url:4e9e46b2c7a0a21e130d",
         "url:511903ebfac45e6751b2",
+        "url:5182ab4e9bd7843f240b",
+        "url:5281c8befef1059590f3",
         "url:52ec96785d9c0ae8e039",
         "url:546e6c95825d1318c98d",
         "url:557edb1d63e8fcfdee12",
@@ -8116,6 +8227,7 @@
         "url:80ec6c9a43360adbbc6b",
         "url:82adab61eb515398da48",
         "url:83569d30f341f39f4a78",
+        "url:836de49b2bbd47d3a6a5",
         "url:84e5aeeffaf561baa966",
         "url:8697c910c05d48152916",
         "url:86b3c2ee65911daf84a8",
@@ -8128,10 +8240,13 @@
         "url:9113270916a36b4b76f1",
         "url:93278fa5b9e6bd0cbcef",
         "url:9480f580f8bf9d3ba65d",
+        "url:952cb4c3f308418aa85b",
         "url:9a3506ca6ef034adb424",
         "url:a2362e23fdcbc73763e6",
         "url:a3ea3a844de7dd8a6792",
+        "url:a4b101913db4b3673a2b",
         "url:a7beaa489fc4ffeb555f",
+        "url:ab4587d17c4f541bb94c",
         "url:ae8e3fa5a67a608804f8",
         "url:ae8f5208eea9e7f1f606",
         "url:aeffabf23c16f8cf2139",
@@ -8147,10 +8262,12 @@
         "url:c4d0846c44df2c0d4099",
         "url:c918d5c828a3c6cfbc5d",
         "url:ca76de56f3ddbd7c61b4",
+        "url:ca7bfba3981fc7e5b3bf",
         "url:ce0af37931cd5aa20233",
         "url:d071f3f5a01a5f9d6d78",
         "url:d1305a893a47ac03d0de",
         "url:d236e7ec7a2b0028950a",
+        "url:d32dfe60eff4b87c1d05",
         "url:d35224f787e7ec21ce36",
         "url:d3ec5122a2b52fd5ae4b",
         "url:d5667c854845c77b9f5b",
@@ -8163,6 +8280,8 @@
         "url:df84f6a103123387b0dd",
         "url:e2ddf502803f46085aca",
         "url:e44096836ef47bc66d9c",
+        "url:e58270c90ea4fa83cfb4",
+        "url:e7ea65893ab264517d83",
         "url:e876bff0950b82a0c9b7",
         "url:eb791c465f47690ade31",
         "url:ecf889aadea335aa5e25",
@@ -8184,9 +8303,9 @@
       "exports": [
         {
           "url": "/downloads/topics/mobile-navigation/records.jsonl",
-          "records": 621,
-          "bytes": 1760506,
-          "sha256": "1420fbb1e72f3d2ca2c005f83212c9fb0eb55e27bb7bcc5181ca22f8c0a2308b"
+          "records": 641,
+          "bytes": 1802183,
+          "sha256": "6605bc88bc3c48caaff381fbb7e9d29fc657bb52e2fa738289333ed6739bb1bf"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.bib",
@@ -8209,10 +8328,10 @@
         "zh": "可观测性"
       },
       "counts": {
-        "total": 241,
+        "total": 243,
         "papers": 73,
         "benchmarks": 14,
-        "datasets": 8,
+        "datasets": 10,
         "models": 0,
         "systems": 145,
         "learning": 1
@@ -8445,7 +8564,9 @@
         "github:zhiheng-zhang-mera/codex-boss",
         "github:zuub-don/domstamp",
         "url:099451a33699510476df",
+        "url:3452cef2f99d7de2935a",
         "url:4ee15c39dc38f230ad58",
+        "url:54907fd6dc968eaced34",
         "url:5cfd441becdfc6ea622b",
         "url:738bfdfe24671ad29a43",
         "url:9112dfcb201f2de7241f",
@@ -8467,9 +8588,9 @@
       "exports": [
         {
           "url": "/downloads/topics/observability/records.jsonl",
-          "records": 241,
-          "bytes": 539314,
-          "sha256": "df6d89a109e3a6863a976cefd2174629512a6809a6d321c1074d5baa01b8ff4f"
+          "records": 243,
+          "bytes": 544034,
+          "sha256": "36cc910500f1954b61664daf5dddb70614c5ea233038d87639aa0aede0b03c99"
         },
         {
           "url": "/downloads/topics/observability/citations.bib",
@@ -8492,11 +8613,11 @@
         "zh": "规划"
       },
       "counts": {
-        "total": 559,
+        "total": 564,
         "papers": 305,
         "benchmarks": 11,
-        "datasets": 10,
-        "models": 56,
+        "datasets": 11,
+        "models": 60,
         "systems": 173,
         "learning": 4
       },
@@ -9026,11 +9147,14 @@
         "url:8076f65dc82b4dcea18c",
         "url:879d4e3e75e83582bde6",
         "url:8a284d122d7dcf23479d",
+        "url:92b5cb08491c09243b72",
         "url:98122987ca3e7c764d0e",
+        "url:a12c18540006368e69ab",
         "url:a349aace3cfde25628a8",
         "url:a4da77ee63f879cc8e63",
         "url:a92e7dfcdfdcacb2e634",
         "url:aa693ca3e8948623f31e",
+        "url:ac62da857db91f68376b",
         "url:ad7f176848fd84de64e2",
         "url:aeb32973694f91ad9920",
         "url:b09d10b87e42b7e74de9",
@@ -9048,10 +9172,12 @@
         "url:d0300db5ba754b1a64fa",
         "url:dad3d02b2f9603713287",
         "url:dfa8047521d1f3b3aa54",
+        "url:e02a165e76cd7c43e2ca",
         "url:e058cc2487a805f976fd",
         "url:e0e4712ee701f652bf31",
         "url:e35db30fee209ef9b57d",
         "url:e3c1a2a2d556e4728953",
+        "url:e58270c90ea4fa83cfb4",
         "url:eb6a5940793aa81153d0",
         "url:ec17d3267cd49548d2d4",
         "url:ed8d5883c240b78e329f",
@@ -9068,9 +9194,9 @@
       "exports": [
         {
           "url": "/downloads/topics/planning/records.jsonl",
-          "records": 559,
-          "bytes": 1512652,
-          "sha256": "9a2fbd743dafff6a08c7c1b38976d4f8267c1ed87cc2cc3652d7f462a5918737"
+          "records": 564,
+          "bytes": 1523484,
+          "sha256": "8d7c420d28f08921e8f581ab59ce70186f9e201659c77440beb8dda4d84a9a51"
         },
         {
           "url": "/downloads/topics/planning/citations.bib",
@@ -9322,11 +9448,11 @@
         "zh": "强化学习"
       },
       "counts": {
-        "total": 443,
+        "total": 468,
         "papers": 266,
         "benchmarks": 8,
-        "datasets": 6,
-        "models": 83,
+        "datasets": 9,
+        "models": 105,
         "systems": 79,
         "learning": 1
       },
@@ -9646,6 +9772,7 @@
         "github:otsolappalainen/minecraft-rl",
         "github:prentisai/groundgui",
         "github:purewhiter/mobilegym",
+        "github:qwenlm/qwen-agentworld",
         "github:raidriar7170/voice2task-posttraining",
         "github:reallm-labs/infigui-r1",
         "github:ritzz-ai/gui-r1",
@@ -9689,52 +9816,71 @@
         "github:zhangyan-ucas/gui-sd-code",
         "github:zju-real/clawgui",
         "github:zju-real/gui-rcpo",
+        "url:00f5bfd8c7991012a183",
         "url:05dde0b8766744e94e07",
         "url:0919e695670c5740a123",
         "url:099960c12bbdd80f73cb",
+        "url:0b0a7a841d65715d60b1",
+        "url:0dcc389cc2b1b15fb081",
+        "url:0e5617031e625a75cfc7",
         "url:16184830c0f4bdb146fa",
         "url:174e10a319d62c338879",
         "url:1807bdb33fc352a97240",
+        "url:1a54e63277eaffdaef57",
+        "url:1a6fc60f2b931acbd057",
         "url:1c4ee99a9a55ae71a7ac",
         "url:24bc39ed487b311108ae",
         "url:2a2682f86dcb8ebc9a80",
         "url:2eaafb0b5ecde3babbf1",
+        "url:2ebcbc24ecbdc2db22fb",
+        "url:33b35b47d8bb269d84a1",
         "url:35b9879a351cc3b3d7d5",
+        "url:380318a8de65fe45956c",
         "url:38672ac9af2e25fbfb58",
         "url:3888a4042043fb547705",
         "url:38942453b2b7018c0d01",
+        "url:3df97229d34c44c2014a",
         "url:41abb1b7206689cf5057",
+        "url:41b685bbd42fbd4732da",
         "url:44b65e07d7a869d37dc6",
         "url:461125e2d6ac2f030f6b",
         "url:46502d87b2c13515790a",
         "url:477342b0eb81469b35a0",
         "url:4a3799bd1b6db15afffe",
         "url:4bcb6a451d6f4d25343c",
+        "url:4d7042b462e937c33406",
         "url:4e71dc456c4112eed727",
         "url:4fada3187f0d1d1efbe5",
+        "url:5281c8befef1059590f3",
         "url:5288515eb50aef1e84a2",
         "url:52a3261eb6a19b402e88",
         "url:52de9679739ad0a50f69",
         "url:5304880559ad79f5b797",
         "url:5371bf588e7790a66ff0",
         "url:546e6c95825d1318c98d",
+        "url:558abdb3eb20b922e01b",
         "url:564c980a531e7204447c",
         "url:5d61c1b5fc8dd650518d",
         "url:60a95f34072aeb2771cc",
         "url:61a5321db10fc8a312b9",
+        "url:62688de46b172fb0c746",
         "url:62cf0bee7a14cfbc84a0",
         "url:642671eabef44827b7de",
         "url:6694391b0cf50389d2e9",
+        "url:689fea75118e3113476b",
         "url:691c52679bb1d3521db7",
         "url:6d36e088ada02184c6bc",
+        "url:6d6f7ffc6a15e9e75a14",
         "url:6ea345c7ba56049476e8",
         "url:709d8b51bbc8d257318f",
         "url:73c169c32b5765688376",
+        "url:7617bb21031bc5fb6574",
         "url:77c708f5cff2d4c95e90",
         "url:7d198acee96b3ec197aa",
         "url:7f7d17a0873e6ffda2b9",
         "url:8076f65dc82b4dcea18c",
         "url:80ec6c9a43360adbbc6b",
+        "url:836de49b2bbd47d3a6a5",
         "url:875b417b3ef43021cd74",
         "url:8ef3985dce697e5feea9",
         "url:9082bb5effe5d1a1cada",
@@ -9745,14 +9891,17 @@
         "url:9dc9d8d3b9a4b32d6f4b",
         "url:a03c649e4b14e293e2dd",
         "url:a102be4d98ab5ce068d8",
+        "url:a1621345ec327462b86e",
         "url:a6ee20fea67438d91e06",
         "url:a8e086f155c278e45c55",
         "url:ae8e3fa5a67a608804f8",
         "url:b01a78c76299196e3df1",
         "url:b04608609a8c392d110b",
+        "url:b68b02b47c87f006533e",
         "url:b75abe232c389788d2c4",
         "url:b94e285c3f757e2d0f3a",
         "url:beb8f1fd6b945ffc9d93",
+        "url:c5cedb2f95336a8e48aa",
         "url:c8d93b1c274acd679694",
         "url:cf16d0a4a05ea7270ffa",
         "url:d1e85aeb6d96859c109d",
@@ -9764,8 +9913,10 @@
         "url:dad3d02b2f9603713287",
         "url:db6fc5f29f186d13991c",
         "url:df680385f18b01a825be",
+        "url:e02a165e76cd7c43e2ca",
         "url:e058cc2487a805f976fd",
         "url:e5e74846aeaa8398673e",
+        "url:e7ea65893ab264517d83",
         "url:e9423bcf01a8d6b078bc",
         "url:ed8d5883c240b78e329f",
         "url:f13474d7aa734a30624d",
@@ -9782,9 +9933,9 @@
       "exports": [
         {
           "url": "/downloads/topics/reinforcement-learning/records.jsonl",
-          "records": 443,
-          "bytes": 1262263,
-          "sha256": "b2cdbad7479f0c2877a67f2cc7fd0300a1a2fe31f00de4aa7d40a07df08d7b4e"
+          "records": 468,
+          "bytes": 1316989,
+          "sha256": "1add9748a3f0627d84fff7cefa109edf837d904fdb8f848b4e2bba167581a751"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.bib",
@@ -9807,11 +9958,11 @@
         "zh": "奖励模型"
       },
       "counts": {
-        "total": 107,
+        "total": 111,
         "papers": 71,
         "benchmarks": 7,
         "datasets": 7,
-        "models": 10,
+        "models": 14,
         "systems": 12,
         "learning": 0
       },
@@ -9903,7 +10054,10 @@
         "github:thunlp-mt/collabuiagents",
         "github:v-droid-agent/v-droid",
         "github:zai-org/glm-v",
+        "url:062d2cb4ccb89de78162",
+        "url:0e5617031e625a75cfc7",
         "url:2eaafb0b5ecde3babbf1",
+        "url:5281c8befef1059590f3",
         "url:6ea345c7ba56049476e8",
         "url:72f7fe0211c6551b945f",
         "url:772161f06c2b3d4978b5",
@@ -9921,6 +10075,7 @@
         "url:d716497286ae5cd5e762",
         "url:d80fa13b647c4020a755",
         "url:e01658de14c2e62fbf20",
+        "url:f0ffbdc41c9dca4c585f",
         "url:f75cab7180d8f5264606",
         "url:fcc98b149272bbf31b05"
       ],
@@ -9931,9 +10086,9 @@
       "exports": [
         {
           "url": "/downloads/topics/reward-models/records.jsonl",
-          "records": 107,
-          "bytes": 328181,
-          "sha256": "96e0f691cbeea88a12b1f1786b0f2485f726af9ad22b32296d6b4f1303e862e8"
+          "records": 111,
+          "bytes": 337196,
+          "sha256": "55602f85027bf7906221f4a55bc252d6874dba2bdba34d53347ac60e2c3ed3a8"
         },
         {
           "url": "/downloads/topics/reward-models/citations.bib",
@@ -9956,12 +10111,12 @@
         "zh": "鲁棒性"
       },
       "counts": {
-        "total": 302,
+        "total": 306,
         "papers": 202,
         "benchmarks": 39,
-        "datasets": 6,
+        "datasets": 9,
         "models": 0,
-        "systems": 55,
+        "systems": 56,
         "learning": 0
       },
       "resource_ids": [
@@ -10185,6 +10340,7 @@
         "github:daud-khan-qa/ai-agentic-qa-framework",
         "github:facebookresearch/openapps",
         "github:fanxutherealone/omniwebbench",
+        "github:feder-cr/firefox_antidetect_patch",
         "github:fedetrain/autofiller-universal",
         "github:fyzhang1/dualtap",
         "github:gair-nlp/windowsagentarena-v2",
@@ -10257,16 +10413,19 @@
         "url:1d5b85321b98765141fc",
         "url:20fa95f00391bf965af2",
         "url:347925d0f440d6396080",
+        "url:369456114b26b0ff0a05",
         "url:4395ff8522cd77109b83",
         "url:7ed70b39ac79f97f8a87",
         "url:85cad9e7962668786093",
+        "url:897db7dba36e69a60e5e",
         "url:8be414a28d1984abb1b9",
         "url:b09d10b87e42b7e74de9",
         "url:b540fe81c57cedb1f556",
         "url:beb8f1fd6b945ffc9d93",
         "url:c10fd1906c2e7ee289ec",
         "url:c6f3c36e4603808ae9a6",
-        "url:ca76de56f3ddbd7c61b4"
+        "url:ca76de56f3ddbd7c61b4",
+        "url:fa8fd2873571ab1b3556"
       ],
       "pages": {
         "en": "/topics/robustness/",
@@ -10275,9 +10434,9 @@
       "exports": [
         {
           "url": "/downloads/topics/robustness/records.jsonl",
-          "records": 302,
-          "bytes": 853757,
-          "sha256": "a6bd47d04e5a3ebf2566cca88e3b3b0c821e056e1bbdac60d072ab9f6f5d69d1"
+          "records": 306,
+          "bytes": 862231,
+          "sha256": "9ba8167e2b66a73d8d20bc701bafbc0424c50e2b090e2c1b18897cddc0589b09"
         },
         {
           "url": "/downloads/topics/robustness/citations.bib",
@@ -10300,11 +10459,11 @@
         "zh": "安全与防护"
       },
       "counts": {
-        "total": 547,
+        "total": 550,
         "papers": 276,
-        "benchmarks": 46,
+        "benchmarks": 47,
         "datasets": 13,
-        "models": 7,
+        "models": 9,
         "systems": 202,
         "learning": 3
       },
@@ -10825,7 +10984,9 @@
         "github:zezortdx/pegoles-agent",
         "github:zjh02249/dsh-desktop-operator",
         "github:ztr321/enterprise-web-workflow-agent",
+        "url:039a4975e102cb538c36",
         "url:07e274077af6ea9fd5f9",
+        "url:0b0a7a841d65715d60b1",
         "url:16a5ccde8bb16cda19ff",
         "url:24bc39ed487b311108ae",
         "url:2af250798e99e7af01ce",
@@ -10848,6 +11009,7 @@
         "url:b79ca6f7731ebf067709",
         "url:be4ca14d1724b0cf8314",
         "url:c4a45eed67ee9087aae3",
+        "url:ca7bfba3981fc7e5b3bf",
         "url:d7f35409d35584385097",
         "url:dec73112f4c2dad889cb",
         "url:df10c80a8da55773154d",
@@ -10864,9 +11026,9 @@
       "exports": [
         {
           "url": "/downloads/topics/safety-security/records.jsonl",
-          "records": 547,
-          "bytes": 1369287,
-          "sha256": "df92e6d75635e164a525b4b430ab2514fac97e1a4614a654ea031de9fa9dadc8"
+          "records": 550,
+          "bytes": 1374931,
+          "sha256": "4a1e649e257e19280dade86967d3b4c9e235dbb42aaa7ffeb8914fe55f1be064"
         },
         {
           "url": "/downloads/topics/safety-security/citations.bib",
@@ -10889,12 +11051,12 @@
         "zh": "沙箱"
       },
       "counts": {
-        "total": 368,
+        "total": 374,
         "papers": 69,
         "benchmarks": 31,
         "datasets": 1,
         "models": 0,
-        "systems": 264,
+        "systems": 270,
         "learning": 3
       },
       "resource_ids": [
@@ -10978,6 +11140,7 @@
         "github:acrab-agentic-labs/appsim-neteasecloudmusic",
         "github:acrab-agentic-labs/appsim-rednote",
         "github:acrab-agentic-labs/appsim-ubereats",
+        "github:acrab-agentic-labs/appsim-wechat-v2",
         "github:adongwanai/learn-workbuddy",
         "github:aetherai3/agent-browser",
         "github:afk-surf/openbridge",
@@ -11058,6 +11221,7 @@
         "github:ercbot/valk",
         "github:etairl/parallel-browser-mcp",
         "github:ethanyxx/gui-label-tool",
+        "github:evanbacon/serve-sim",
         "github:eyhn/vnc",
         "github:ezocomp118-source/twiko",
         "github:facebookresearch/openapps",
@@ -11071,6 +11235,7 @@
         "github:gabriel-kahen/hyprland-codex-background-computer-use",
         "github:galactic717/halo-bot",
         "github:gameworld-project/gameworld-games",
+        "github:gasse/webarena-setup",
         "github:ghoui/winreach-mcp",
         "github:git-ksk/computer-use-mcp-gateway",
         "github:gologinapp/gologin-mcp",
@@ -11196,12 +11361,15 @@
         "github:sparticuz/chromium",
         "github:status-labs/boxcar",
         "github:steel-dev/steel-browser",
+        "github:steel-dev/steel-node",
+        "github:steel-dev/steel-python",
         "github:subasah/computer-use-harness",
         "github:sultannaufal/puppeteer-mcp-server",
         "github:summoneryhl/gelab-engine",
         "github:sunnybharne/pi-playwright-browser",
         "github:swe-agent/swe-agent",
         "github:tailorec/tailorec-browser-orch",
+        "github:task-web/osworld-web",
         "github:testdriverai/testdriverai",
         "github:tianye1999/dsb",
         "github:tmustier/codex-computer-use-mcp",
@@ -11274,9 +11442,9 @@
       "exports": [
         {
           "url": "/downloads/topics/sandbox/records.jsonl",
-          "records": 368,
-          "bytes": 744528,
-          "sha256": "43dbb37ea7ee3c96531ca41f2b1fe8a47d515cf4fff66dca4fd5d808896c9d5a"
+          "records": 374,
+          "bytes": 755883,
+          "sha256": "32724bcd9023e0928888ddca193bdba3f98a4ea249c86e2e516bdd99956470d2"
         },
         {
           "url": "/downloads/topics/sandbox/citations.bib",
@@ -11396,12 +11564,12 @@
         "zh": "界面理解"
       },
       "counts": {
-        "total": 990,
+        "total": 999,
         "papers": 235,
         "benchmarks": 25,
-        "datasets": 66,
-        "models": 151,
-        "systems": 508,
+        "datasets": 67,
+        "models": 157,
+        "systems": 510,
         "learning": 5
       },
       "resource_ids": [
@@ -12065,6 +12233,7 @@
         "github:songkeys/claude-codex-computer-use",
         "github:sorry123luck/desk-canvas",
         "github:sos2778/mcp-virtual-cursor",
+        "github:soumikmohianuta/pixtoapp",
         "github:spliffspliff70-wq/websense-mcp",
         "github:steipete/axorcist",
         "github:stiwarilbj/ai_vision",
@@ -12122,6 +12291,7 @@
         "github:vitalops/opendesk",
         "github:vocaela/kv-ground",
         "github:vthanhhdev/qirabot-vision-runtime",
+        "github:vuminhduc796/gptvoicetasker",
         "github:wandb/openui",
         "github:wangye520/codex-computer-use",
         "github:wangyong1972/dsh-computer-use-macos",
@@ -12211,6 +12381,8 @@
         "url:149769d8bf07b7fbabdc",
         "url:17d4fdd26efe4e3b9e05",
         "url:18816edf464a073a0120",
+        "url:1a20a291c766bd4e6861",
+        "url:1a6fc60f2b931acbd057",
         "url:1b036956436123d87ff1",
         "url:1b08ff264bbf2f8a10a3",
         "url:1b2091d717c977d4f8b9",
@@ -12252,6 +12424,7 @@
         "url:4f98919eaf7a92e8faab",
         "url:4fada3187f0d1d1efbe5",
         "url:50089323623ee780a426",
+        "url:5182ab4e9bd7843f240b",
         "url:52b7de0e43b1afc9c226",
         "url:52ec96785d9c0ae8e039",
         "url:5304880559ad79f5b797",
@@ -12313,6 +12486,7 @@
         "url:97d846b5b33235f566a1",
         "url:98e5813bceb30104d6c4",
         "url:98e8a413ddd670214755",
+        "url:98f37e375e57e027af64",
         "url:9900690ea9b418a1a7c6",
         "url:9e89e3332db1770388bc",
         "url:a42c3bca105218f17645",
@@ -12347,6 +12521,7 @@
         "url:beafd78bf2ea84211e6d",
         "url:beb2ca7cdaefbef42ee6",
         "url:bf416a816f74718f94dd",
+        "url:c09ce6d4ca2ddaf02fae",
         "url:c1851e7db3b0e53d2218",
         "url:c4d0846c44df2c0d4099",
         "url:c5eb975c0d66f8a2954f",
@@ -12361,6 +12536,7 @@
         "url:cf4d2d45a7314cb16acb",
         "url:cf7c132c9a988d3a6ec4",
         "url:d1305a893a47ac03d0de",
+        "url:d1f0e13ad96c108ef09b",
         "url:d3247ff0ff9a1f6bc247",
         "url:d34be9d27efef6c1b37a",
         "url:d768dd5245832bc4b824",
@@ -12394,7 +12570,8 @@
         "url:fd24a394359c59b35c71",
         "url:fdb901523979ed1e831b",
         "url:fe24586d646989d5c916",
-        "url:fe85a6b4ffbdb303f382"
+        "url:fe85a6b4ffbdb303f382",
+        "url:feaad5e9f2497d1ed9ca"
       ],
       "pages": {
         "en": "/topics/screen-understanding/",
@@ -12403,9 +12580,9 @@
       "exports": [
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
-          "records": 990,
-          "bytes": 2270136,
-          "sha256": "85e9040b2622ef6e2953f881b8a9b8d62afeef7b1012ca8cda4f0b79dbbab4e0"
+          "records": 999,
+          "bytes": 2288395,
+          "sha256": "515226023fd07963cabc80125f70a374f75b3dc4338de842220cb568f7c46b04"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
@@ -12428,11 +12605,11 @@
         "zh": "自我反思"
       },
       "counts": {
-        "total": 151,
+        "total": 152,
         "papers": 55,
         "benchmarks": 6,
         "datasets": 1,
-        "models": 5,
+        "models": 6,
         "systems": 84,
         "learning": 0
       },
@@ -12584,6 +12761,7 @@
         "url:4a0b1692589594745a3c",
         "url:528f6fe128b77e9615aa",
         "url:52de9679739ad0a50f69",
+        "url:92b5cb08491c09243b72",
         "url:ad7f176848fd84de64e2",
         "url:ce0af37931cd5aa20233",
         "url:e2ddf502803f46085aca",
@@ -12596,9 +12774,9 @@
       "exports": [
         {
           "url": "/downloads/topics/self-reflection/records.jsonl",
-          "records": 151,
-          "bytes": 358300,
-          "sha256": "0476a658c38ce8828520d4509602ad10b2b7ea6c62f594750026d74b52c1fbb2"
+          "records": 152,
+          "bytes": 360376,
+          "sha256": "b7f0bbe66b5e96cc2fd6202808f6a812a822640ab8e15998a5e231591ab8cdb7"
         },
         {
           "url": "/downloads/topics/self-reflection/citations.bib",
@@ -12621,10 +12799,10 @@
         "zh": "状态追踪"
       },
       "counts": {
-        "total": 158,
+        "total": 159,
         "papers": 77,
         "benchmarks": 8,
-        "datasets": 1,
+        "datasets": 2,
         "models": 7,
         "systems": 62,
         "learning": 3
@@ -12784,6 +12962,7 @@
         "url:512cd7335068b2c17859",
         "url:51fd7f79dff766278d83",
         "url:7424d66754ec26d68d83",
+        "url:94adc54bf1cd168da768",
         "url:a40fc87ac700add33232",
         "url:d34be9d27efef6c1b37a",
         "url:e44096836ef47bc66d9c",
@@ -12796,9 +12975,9 @@
       "exports": [
         {
           "url": "/downloads/topics/state-tracking/records.jsonl",
-          "records": 158,
-          "bytes": 391463,
-          "sha256": "a6b4fdaa3b6c8d0849c257835aec05ab388c83d4491474d482a005e5c30b5b0f"
+          "records": 159,
+          "bytes": 393611,
+          "sha256": "352114bb9098ca28bf8e082bf21eb31d3d17d012b35fd1d93c8ea548648fa479"
         },
         {
           "url": "/downloads/topics/state-tracking/citations.bib",
@@ -12915,12 +13094,12 @@
         "zh": "工具集成"
       },
       "counts": {
-        "total": 1373,
+        "total": 1378,
         "papers": 145,
         "benchmarks": 31,
-        "datasets": 4,
-        "models": 50,
-        "systems": 1135,
+        "datasets": 5,
+        "models": 52,
+        "systems": 1137,
         "learning": 8
       },
       "resource_ids": [
@@ -13409,6 +13588,7 @@
         "github:etairl/parallel-browser-mcp",
         "github:ethanout/computer-use-plus",
         "github:ethz-spylab/agentdojo",
+        "github:evanbacon/serve-sim",
         "github:everfern-ai/everfern",
         "github:everfern-ai/navis-extension",
         "github:everyinfra/everysolve-plugin",
@@ -14124,6 +14304,7 @@
         "github:volcengine/vephone",
         "github:volkan-m/vnc-mcp-server",
         "github:vonzelle-vzt/vzt-browser",
+        "github:voqal/chrome-integration",
         "github:vvzvlad/tabscurator",
         "github:wangjc683/galley",
         "github:wangye520/codex-computer-use",
@@ -14244,6 +14425,7 @@
         "url:4e9e46b2c7a0a21e130d",
         "url:4f3ce151a13cba635e74",
         "url:546e6c95825d1318c98d",
+        "url:54907fd6dc968eaced34",
         "url:560a21b67220296ba009",
         "url:5a63318fd49cbcc84ad1",
         "url:5aa01cb259a5d9a07d6e",
@@ -14276,6 +14458,7 @@
         "url:beafd78bf2ea84211e6d",
         "url:c33c1aba83d17c53a6f6",
         "url:c4d0846c44df2c0d4099",
+        "url:c5cedb2f95336a8e48aa",
         "url:d01dfc6e5b5fcece7b41",
         "url:d1305a893a47ac03d0de",
         "url:d35224f787e7ec21ce36",
@@ -14296,6 +14479,7 @@
         "url:ef732d252e9eb9b04e20",
         "url:eff580f3185f2a36c265",
         "url:f3a7296977a39c37f693",
+        "url:f8a956094e526a92caf3",
         "url:ffc05c4425f777924940"
       ],
       "pages": {
@@ -14305,9 +14489,9 @@
       "exports": [
         {
           "url": "/downloads/topics/tool-integration/records.jsonl",
-          "records": 1373,
-          "bytes": 2620784,
-          "sha256": "c7574b85ff0ad062d4499ed1420ec6cc340c2bfa0a47bc14cdf686aa68186513"
+          "records": 1378,
+          "bytes": 2630697,
+          "sha256": "68aefa73814b281c3d9e797db9c56c05e52eff0ebde33d1361911966888ef1bf"
         },
         {
           "url": "/downloads/topics/tool-integration/citations.bib",
@@ -14330,12 +14514,12 @@
         "zh": "无需训练的方法"
       },
       "counts": {
-        "total": 65,
+        "total": 66,
         "papers": 51,
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 14,
+        "systems": 15,
         "learning": 0
       },
       "resource_ids": [
@@ -14401,6 +14585,7 @@
         "github:tiangeluo/regionfocus",
         "github:yan98/gta1",
         "github:yeqi99/canpgrid",
+        "github:zzxslp/mm-navigator",
         "url:4395ff8522cd77109b83",
         "url:6942e8211a0f59eb7878",
         "url:a5dc446fab5e6bdce517"
@@ -14412,9 +14597,9 @@
       "exports": [
         {
           "url": "/downloads/topics/training-free/records.jsonl",
-          "records": 65,
-          "bytes": 183791,
-          "sha256": "f59463e65830edf5f0fe0c59f94cc3072ce59ccc10aab5bcc132348378defae2"
+          "records": 66,
+          "bytes": 185541,
+          "sha256": "466f8a59b9055a7b3a913bbde707f0ffac9b3266c8f09e17cda006c0ea3c2b9e"
         },
         {
           "url": "/downloads/topics/training-free/citations.bib",
@@ -14437,12 +14622,12 @@
         "zh": "界面设计"
       },
       "counts": {
-        "total": 134,
+        "total": 136,
         "papers": 56,
         "benchmarks": 13,
         "datasets": 6,
         "models": 5,
-        "systems": 53,
+        "systems": 55,
         "learning": 1
       },
       "resource_ids": [
@@ -14544,6 +14729,7 @@
         "github:shirley-wu/frontalk",
         "github:showlab/aui",
         "github:silbercue/goldencut",
+        "github:soumikmohianuta/pixtoapp",
         "github:techgardencode/naive-user",
         "github:tengqi159/deepseek-harness-desktop",
         "github:tiacoo/open-user",
@@ -14571,6 +14757,7 @@
         "url:0c845d69c9498dd4e20c",
         "url:17d4fdd26efe4e3b9e05",
         "url:2a99aab63fc1fe65610d",
+        "url:2f73fe78c423e263d451",
         "url:405959de004b6e32c911",
         "url:62724cba1b5814215cf7",
         "url:7cfe1cd1a61d7ebfd083",
@@ -14588,9 +14775,9 @@
       "exports": [
         {
           "url": "/downloads/topics/ui-design/records.jsonl",
-          "records": 134,
-          "bytes": 316610,
-          "sha256": "afa65aeee1e0d7f4c178260efba8335b919d6913e3356a4d2f85607ee89a2aa6"
+          "records": 136,
+          "bytes": 319933,
+          "sha256": "8ae1817779f680a942ded9132bba4b8f680b2bf760d2ba8940fa5c4373927830"
         },
         {
           "url": "/downloads/topics/ui-design/citations.bib",
@@ -14613,11 +14800,11 @@
         "zh": "视频"
       },
       "counts": {
-        "total": 83,
+        "total": 86,
         "papers": 39,
         "benchmarks": 5,
         "datasets": 17,
-        "models": 7,
+        "models": 10,
         "systems": 14,
         "learning": 1
       },
@@ -14689,7 +14876,9 @@
         "url:0c69fd920263b8a72a72",
         "url:10a75e1b7b975b3617ae",
         "url:243ab00712ba19cc2089",
+        "url:280f2ab56bbc0b630d81",
         "url:2b5dead3172c0b70da7e",
+        "url:2e88b52ca1717a28fd32",
         "url:348f31b5b339403ec26f",
         "url:37b4f525e6d7a56a9967",
         "url:3e3ca34dbdaf3190465c",
@@ -14699,6 +14888,7 @@
         "url:6b9389a144cbe70c894d",
         "url:78adf6919bdbce42bc24",
         "url:b540fe81c57cedb1f556",
+        "url:c7e1d8863286e92c47a2",
         "url:d3247ff0ff9a1f6bc247",
         "url:daf52475338f385b9310",
         "url:ede673f7e6f369eae600",
@@ -14713,9 +14903,9 @@
       "exports": [
         {
           "url": "/downloads/topics/video/records.jsonl",
-          "records": 83,
-          "bytes": 256609,
-          "sha256": "54d13f699fb558e5335392d2011cad4e66709c1b72f73ca17c81355e126673fe"
+          "records": 86,
+          "bytes": 263511,
+          "sha256": "6f26945ece0220ad53be94dda41e2c71536360f922d2728ff1f6a2625787da25"
         },
         {
           "url": "/downloads/topics/video/citations.bib",
@@ -14738,12 +14928,12 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 1688,
+        "total": 1722,
         "papers": 356,
-        "benchmarks": 125,
-        "datasets": 47,
-        "models": 67,
-        "systems": 1074,
+        "benchmarks": 127,
+        "datasets": 58,
+        "models": 81,
+        "systems": 1081,
         "learning": 19
       },
       "resource_ids": [
@@ -15467,10 +15657,12 @@
         "github:g1at/tabctrl",
         "github:gadgethd/project-tendril",
         "github:gaforov/selenium-mcp",
+        "github:gasse/webarena-setup",
         "github:gauthierpiarrette/perceive",
         "github:gekaixing/control-agent",
         "github:genoooool/opencli-plugin-x-article-publisher",
         "github:george4data/cmux-skill",
+        "github:globe-engineer/globot",
         "github:go-rod/rod",
         "github:gobii-ai/gobii-platform",
         "github:godzilaa/browser-agent",
@@ -15540,6 +15732,7 @@
         "github:ifokeev/airbrowser-mcp",
         "github:ifuryst/open-browser-use",
         "github:ilyat9/agentalyze",
+        "github:imeanai/webcanvas_showcase",
         "github:immineal/cdp-drive",
         "github:imshaikot/browsentic",
         "github:internlm/mindsearch",
@@ -16070,6 +16263,8 @@
         "github:steel-dev/steel-browser",
         "github:steel-dev/steel-cookbook",
         "github:steel-dev/steel-mcp-server",
+        "github:steel-dev/steel-node",
+        "github:steel-dev/steel-python",
         "github:steel-dev/surf.new",
         "github:steeltimber/codex-chatgpt-web-delegator",
         "github:stickerdaniel/browserjack",
@@ -16093,6 +16288,7 @@
         "github:tabtii/browser-mcp",
         "github:tailorec/tailorec-browser-orch",
         "github:tashonbraganca/browser-automation-benchmark",
+        "github:task-web/osworld-web",
         "github:taskproof/taskproof",
         "github:taxyai/browser-extension",
         "github:taylor-bayouth/browser-agent",
@@ -16207,6 +16403,7 @@
         "github:xinqi5921/ai-browser-bridge",
         "github:xiyiyiru/chrome-mcp",
         "github:xlreon/chrome-actuator",
+        "github:xnancy/russ",
         "github:xu1132/dsh-plugin-browser",
         "github:xxjrq/easy-app-store",
         "github:xxjrq/easy-google-play",
@@ -16248,8 +16445,10 @@
         "github:zumerlab/snapsurf",
         "github:zuub-don/domstamp",
         "url:0210d8713fd41ca1448f",
+        "url:039a4975e102cb538c36",
         "url:03ffa3f28413bc2edb1b",
         "url:040e17448d9d190b3c14",
+        "url:062d2cb4ccb89de78162",
         "url:0772193ae2967c407d22",
         "url:07b6bbce7ce26a847f79",
         "url:07e274077af6ea9fd5f9",
@@ -16273,20 +16472,29 @@
         "url:295e0be27996e41738f8",
         "url:2af250798e99e7af01ce",
         "url:2c4b53bc04f33578e9b8",
+        "url:2cd89755e4e2511de633",
+        "url:2f73fe78c423e263d451",
         "url:307838fec5f74218b032",
         "url:3173abbb295c74d0e9ec",
         "url:31768421b4ecd1ad89f7",
         "url:3315b5f3f10e62504135",
+        "url:3452cef2f99d7de2935a",
         "url:347925d0f440d6396080",
         "url:380a6eedcb4de7778e88",
         "url:3932d69c6b6f9b2a7ba8",
         "url:396e9c77f2dc44adfe45",
+        "url:3ab90a696d8578c944c8",
         "url:3b6dfd52f98bfe76bc7f",
         "url:3c55f225a1f66a6261ac",
+        "url:3e0f07cb0ff3f32dfc0e",
+        "url:3ef18fbb67e0376561db",
         "url:3fdea133115518f9205a",
         "url:404c719910f8f4a37149",
         "url:40795d2c86388ae89f43",
         "url:41556fece3bf8a2419ba",
+        "url:42686ac00c4ae107f147",
+        "url:43f98379902167a5f9f3",
+        "url:447997967beea3b07f6f",
         "url:44827a16f49e65ba8fb3",
         "url:457c2111894524e9dfda",
         "url:45dabd68921824b298ca",
@@ -16297,6 +16505,7 @@
         "url:4f47abde8cd28a1ec1e1",
         "url:4f4c4f0bf0cec93c59d1",
         "url:4f4e7c972e678f1d8c48",
+        "url:511ba336435d406f3761",
         "url:52a3261eb6a19b402e88",
         "url:5371bf588e7790a66ff0",
         "url:543aff764901777e6ad5",
@@ -16305,20 +16514,24 @@
         "url:56b5936190d20fa3d1c1",
         "url:56f08987cc19b82dc607",
         "url:573954fad8617c3d5e57",
+        "url:58195ef097be91525554",
         "url:5831a1ae8385cda79575",
         "url:5857c840372512cfe3fc",
         "url:592e434848a1514efef0",
         "url:5a63318fd49cbcc84ad1",
         "url:5aa01cb259a5d9a07d6e",
+        "url:5bbbc1012ab02e9df3bb",
         "url:5d61c1b5fc8dd650518d",
         "url:5e2bd1b3398974b79c9c",
         "url:60a2dc930fa11860858a",
         "url:62724cba1b5814215cf7",
         "url:628b5251757bb3888e89",
         "url:62df6dac6ade720ddd70",
+        "url:654e0cbc1a22b59eca47",
         "url:65a9a9211f0dd2b7264a",
         "url:6694391b0cf50389d2e9",
         "url:66f780b493156dc7efe5",
+        "url:687a7b27f38720fe54bc",
         "url:6884b7a1aa1bf507dae7",
         "url:68d09b76ec0f61b7a6c5",
         "url:6917c59ee128421233b6",
@@ -16341,6 +16554,7 @@
         "url:808a22468ee0bf565d6e",
         "url:8477ada5b7de1d399c9d",
         "url:848e19da3bdf0aeb500c",
+        "url:85b700fbb7f1c599b7c3",
         "url:86229ebd22143128bcf7",
         "url:866251b68d6bba8b8ba6",
         "url:875b417b3ef43021cd74",
@@ -16348,6 +16562,7 @@
         "url:87bc346934a4117b554c",
         "url:8896d44370711136fd54",
         "url:8a284d122d7dcf23479d",
+        "url:8a5201470d27334977fa",
         "url:8be414a28d1984abb1b9",
         "url:8dfc84eb4016204fe70a",
         "url:8f5a8144b96447be84c5",
@@ -16355,6 +16570,7 @@
         "url:9082bb5effe5d1a1cada",
         "url:93c98e3b5aea945e0877",
         "url:94d58f25e6fd4a2076ab",
+        "url:96bb23bd687d6c227a41",
         "url:97c0b1896525632434e2",
         "url:97cedbca35f6bd8684af",
         "url:9900690ea9b418a1a7c6",
@@ -16366,7 +16582,9 @@
         "url:9f296457c8ca46446c1f",
         "url:a06f5cb81d3c41338bb6",
         "url:a0a0c389d4def8e2d13a",
+        "url:a12c18540006368e69ab",
         "url:a13a187bc058fbb4f6af",
+        "url:a1621345ec327462b86e",
         "url:a252b36bf1c440269a2e",
         "url:a2c0216a0d8875e86dee",
         "url:a4da77ee63f879cc8e63",
@@ -16384,10 +16602,13 @@
         "url:aeffabf23c16f8cf2139",
         "url:af446270bb6bfd20b77e",
         "url:b0b2cd616f8c30b4b09d",
+        "url:b144605ae24674ffb917",
         "url:b1457a20d437732b60f7",
         "url:b56578c7f9a211a792f2",
+        "url:b68b02b47c87f006533e",
         "url:b7ccf7acb2e9d8a11853",
         "url:ba6453cfdae0eb049ced",
+        "url:bd293c9a5f9bf16b8199",
         "url:bdfb50330deb97893ce4",
         "url:be4ca14d1724b0cf8314",
         "url:c049eba816b97d5076d0",
@@ -16409,6 +16630,7 @@
         "url:df10c80a8da55773154d",
         "url:df38112df002157ce4b0",
         "url:dfa8047521d1f3b3aa54",
+        "url:e02a165e76cd7c43e2ca",
         "url:e058cc2487a805f976fd",
         "url:e0f1ebb59adf2f6c500c",
         "url:e126bbd9729ebdaf05ab",
@@ -16427,11 +16649,13 @@
         "url:f0584842138a52158f51",
         "url:f2c34526651f5f57cf98",
         "url:f35cfcbaeb79663eabeb",
+        "url:f4f6f5bfe051e6ba3d94",
         "url:f52794224f9541fd9eb3",
         "url:f6e1a7527f9346ed1c1d",
         "url:f7e21b1a3ba5c58a73bc",
         "url:f885d17601171253d25e",
         "url:f979ca583090405aadee",
+        "url:fa8fd2873571ab1b3556",
         "url:fcc98b149272bbf31b05",
         "url:fd28110220935a0fae26",
         "url:ffc05c4425f777924940"
@@ -16443,9 +16667,9 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 1688,
-          "bytes": 3702057,
-          "sha256": "f33535faced34e3ac9820bfb2621ed3f2b2ee4dec229c2f9d0421151a8fbfb61"
+          "records": 1722,
+          "bytes": 3774161,
+          "sha256": "2ed82485b73c93e93b3daf9094aeba08be6c75640d54cb3fcdeb25adc0f68a61"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
@@ -16468,11 +16692,11 @@
         "zh": "工作流"
       },
       "counts": {
-        "total": 550,
+        "total": 551,
         "papers": 142,
         "benchmarks": 30,
         "datasets": 9,
-        "models": 1,
+        "models": 2,
         "systems": 359,
         "learning": 9
       },
@@ -17015,6 +17239,7 @@
         "url:9d35341e71dfd457fd79",
         "url:a03c649e4b14e293e2dd",
         "url:a0a0c389d4def8e2d13a",
+        "url:ab4587d17c4f541bb94c",
         "url:b074ccdb2d9ec0277b65",
         "url:b230a6700386b7e2744c",
         "url:c049eba816b97d5076d0",
@@ -17035,9 +17260,9 @@
       "exports": [
         {
           "url": "/downloads/topics/workflow/records.jsonl",
-          "records": 550,
-          "bytes": 1177214,
-          "sha256": "0c578a99b9c443cc0628836cb3f0077d53f2355986170d6a53ed73e99d2c077e"
+          "records": 551,
+          "bytes": 1179176,
+          "sha256": "7a428f044c9c7265949847a48843ddc57f5270e3208d105ea1068eb671009383"
         },
         {
           "url": "/downloads/topics/workflow/citations.bib",
@@ -17060,11 +17285,11 @@
         "zh": "世界模型"
       },
       "counts": {
-        "total": 81,
+        "total": 91,
         "papers": 52,
         "benchmarks": 1,
-        "datasets": 5,
-        "models": 10,
+        "datasets": 9,
+        "models": 16,
         "systems": 13,
         "learning": 0
       },
@@ -17132,22 +17357,32 @@
         "github:jlov7/nanoawm",
         "github:kyle8581/wma-agents",
         "github:osu-nlp-group/webdreamer",
+        "github:qwenlm/qwen-agentworld",
         "github:sunzey/seagent",
         "github:tencent/selfevolvingagent",
         "github:thuml/rlvr-world",
         "github:trillion-labs/gworld",
+        "url:062d2cb4ccb89de78162",
         "url:3173abbb295c74d0e9ec",
+        "url:3d12df2fd27076504434",
+        "url:3e0f07cb0ff3f32dfc0e",
+        "url:3ef18fbb67e0376561db",
+        "url:42686ac00c4ae107f147",
         "url:512cd7335068b2c17859",
+        "url:58195ef097be91525554",
         "url:78802d1a2fce25f20f85",
+        "url:96bb23bd687d6c227a41",
         "url:a3ea3a844de7dd8a6792",
         "url:b7ccf7acb2e9d8a11853",
         "url:bc3deaf8eeecf569e73b",
         "url:cf4d2d45a7314cb16acb",
         "url:dfa8047521d1f3b3aa54",
+        "url:e02a165e76cd7c43e2ca",
         "url:e041226738f8ea43a878",
         "url:e126bbd9729ebdaf05ab",
         "url:e3c1a2a2d556e4728953",
         "url:e44096836ef47bc66d9c",
+        "url:e58270c90ea4fa83cfb4",
         "url:eadc6cba9ea46c38dd1d",
         "url:fde41ce8459b7d3f647f"
       ],
@@ -17158,9 +17393,9 @@
       "exports": [
         {
           "url": "/downloads/topics/world-models/records.jsonl",
-          "records": 81,
-          "bytes": 223471,
-          "sha256": "28ecfbcbf5e2d419c6d91dba21b85b5da69fa63c4ea2c390e6766213b22e3eb0"
+          "records": 91,
+          "bytes": 246858,
+          "sha256": "0194997dbee00b759279a1ec2ceb6e2d474a4a1cf48dfe6f344eaabf38df9d48"
         },
         {
           "url": "/downloads/topics/world-models/citations.bib",

@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/automation/page/19/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [Open Duet (open-dots)](https://awesomecua.com/resources/github-anil-matcha-open-dots/)
+- [Open Frame](https://awesomecua.com/resources/github-off-camber-open-frame/)
+- [Open Grok Bot](https://awesomecua.com/resources/github-anil-matcha-open-grok-bot/)
+- [Open Interface](https://awesomecua.com/resources/github-ambersahdev-open-interface/)
+- [Open ZCode Computer Use](https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/)
 - [open-codex-computer-use](https://awesomecua.com/resources/github-ifuryst-open-codex-computer-use/)
 - [open-compute](https://awesomecua.com/resources/github-ellmos-ai-open-compute/)
 - [open-compute-mcp](https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Orbit UI](https://awesomecua.com/resources/github-aadya940-orbit-ui/)
 - [Orynn](https://awesomecua.com/resources/github-robomohit-orynn/)
 - [OS AI Computer Use](https://awesomecua.com/resources/github-777genius-os-ai-computer-use/)
-- [OSRS-CV](https://awesomecua.com/resources/github-kaustubhlall-osrs-cv/)
-- [Ossabellator Bounded Computer-Use Runtime](https://awesomecua.com/resources/github-ossabellator-computer-use/)
-- [OvoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/)
-- [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/)
-- [Page Agent](https://awesomecua.com/resources/github-alibaba-page-agent/)

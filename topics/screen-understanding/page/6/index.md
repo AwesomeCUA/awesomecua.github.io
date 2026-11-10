@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/6/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [Screen Point-and-Read Data](https://awesomecua.com/resources/url-4b747a376f628e6f9760/)
 - [Screen2AX-Element](https://awesomecua.com/resources/url-e96299566d12e790422e/)
 - [Screen2AX-Group](https://awesomecua.com/resources/url-6680e812b94c168e6bed/)
 - [Screen2AX-Task](https://awesomecua.com/resources/url-97d846b5b33235f566a1/)
@@ -30,6 +31,7 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [WebUI](https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/)
 - [widget-caption](https://awesomecua.com/resources/github-google-research-datasets-widget-caption/)
 - [WinDeskGround_windows](https://awesomecua.com/resources/url-79b8dfa115894a7f53aa/)
+- [Adept Fuyu-Heavy](https://awesomecua.com/resources/url-1a20a291c766bd4e6861/)
 - [Aria-UI/Aria-UI-base](https://awesomecua.com/resources/url-2866edbea80fa34aa684/)
 - [AutoGUI-Qwen-v0.1](https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/)
 - [blip-icon-captioning](https://awesomecua.com/resources/url-b4a01331e3e89e1bae9d/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [GLM-4.6V-FP8](https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/)
 - [GLM-V](https://awesomecua.com/resources/github-zai-org-glm-v/)
 - [GPA-GUI-Detector](https://awesomecua.com/resources/url-87f28e117d95985d5177/)
-- [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/)
-- [GroundAnything-VLM](https://awesomecua.com/resources/url-a80a37148148aad731a9/)

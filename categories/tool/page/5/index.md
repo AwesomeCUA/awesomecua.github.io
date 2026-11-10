@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/tool/page/5/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [AINative Browser MCP](https://awesomecua.com/resources/github-ainative-studio-ainative-browser-mcp/)
+- [Airbrowser MCP](https://awesomecua.com/resources/github-ifokeev-airbrowser-mcp/)
+- [Airplane Check-In Skill](https://awesomecua.com/resources/github-bee-san-airplane-checkin-skill/)
+- [alohajet CLI](https://awesomecua.com/resources/github-alohabrowser-alohajet-cli/)
+- [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/resources/github-altairpaca-dsh-computer-use-windows/)
+- [amajorai Ghost Desktop MCP](https://awesomecua.com/resources/github-amajorai-ghost/)
+- [Amazon Music MCP Server](https://awesomecua.com/resources/github-shadowsdistant-amazon-music-mcp/)
 - [Amazon Return Skill](https://awesomecua.com/resources/github-peterquads-amazon-return/)
 - [amcu (Another macOS Computer Use)](https://awesomecua.com/resources/github-uoox-amcu/)
 - [Android Device Perception Skill](https://awesomecua.com/resources/github-worksonmyvm-android-device-perception-skill/)
@@ -97,10 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [Cerner PowerChart Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-cerner-powerchart-browser-automation/)
 - [cfbrowse](https://awesomecua.com/resources/github-sp42k-cfbrowse/)
 - [ChatGPT Pro Planning Skill for Codex](https://awesomecua.com/resources/github-ericwong5021-chatgpt-pro-planning-skill/)
-- [ChatGPT Pro Workforce for Codex](https://awesomecua.com/resources/github-jemo19-chatgpt-pro-workforce/)
-- [ChatGPT Web Bridge](https://awesomecua.com/resources/github-qiuweiliu-chatgpt-web-bridge/)
-- [ChatGPT Web for Codex](https://awesomecua.com/resources/github-naakto14-codex-chatgpt-web-naakto-fork/)
-- [chatgpt-desktop-mcp](https://awesomecua.com/resources/github-cantbeblank96-chatgpt-mcp/)
-- [Chrest](https://awesomecua.com/resources/github-amarbel-llc-chrest/)
-- [Chromanche](https://awesomecua.com/resources/github-marcobazzani-chromanche/)
-- [Chrome Actuator](https://awesomecua.com/resources/github-xlreon-chrome-actuator/)

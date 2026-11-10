@@ -28,7 +28,7 @@ Public Parquet annotations, metadata JSON and images.tar.gz are present. The car
 
 ### 数量记录
 
-- 21,988 rows — train split（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-web/raw/main/README.md）
+- 21,988 行 — train split（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-web/raw/main/README.md）
 
 Row count is the card dataset_info value; one row may contain multiple instructions. The card summarizes screenshots as approximately 22K. No data license is declared.
 

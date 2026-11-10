@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/memory/page/6/
 
 Full list: https://awesomecua.com/topics/memory/index.md
 
+- [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/)
+- [LKO Mark 3.4](https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/)
 - [LLM Wiki for Chrome](https://awesomecua.com/resources/github-nvk-llm-wiki-chrome/)
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/)
 - [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)

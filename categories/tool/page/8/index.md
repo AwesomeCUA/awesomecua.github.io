@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/tool/page/8/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [Grasp MCP](https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/)
+- [gridhand](https://awesomecua.com/resources/github-zachrouan-gridhand/)
+- [Grok Chrome Bridge](https://awesomecua.com/resources/github-davidsolheim-grok-chrome-bridge/)
+- [grok-chrome-mcp](https://awesomecua.com/resources/github-dietghardev-grok-chrome-mcp/)
+- [grokbot-cdp](https://awesomecua.com/resources/github-daizedong-grokbot-cdp/)
+- [gsearch-rs](https://awesomecua.com/resources/github-be90nia-gsearch-rs/)
+- [GUI Grounding Evaluation Harness](https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/)
 - [GUI Label Tool](https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/)
 - [GUI Object Detection Benchmark & Models](https://awesomecua.com/resources/github-chenjshnn-object-detection-for-graphical-user-interface/)
 - [gui-report-automation](https://awesomecua.com/resources/github-loncoeng-gui-report-automation/)
@@ -97,10 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [MCP Desktop Automation](https://awesomecua.com/resources/github-tanob-mcp-desktop-automation/)
 - [MCP Master Puppeteer](https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/)
 - [MCP Session Bridge](https://awesomecua.com/resources/github-t3ratech-mcp-session-bridge/)
-- [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/)
-- [MCP Windows Desktop Automation](https://awesomecua.com/resources/github-mario-andreschak-mcp-windows-desktop-automation/)
-- [mcp-anything](https://awesomecua.com/resources/github-zaymadkid-mcp-anything/)
-- [mcp-camoufox](https://awesomecua.com/resources/github-agelyhq-mcp-camoufox/)
-- [mcp-chrome-bridge](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-chrome-bridge/)
-- [MCP-CodexGPT](https://awesomecua.com/resources/github-mosmotov-mcp-codexgpt/)
-- [mcp-dia](https://awesomecua.com/resources/github-aissablk1-mcp-dia/)

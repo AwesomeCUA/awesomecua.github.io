@@ -28,9 +28,9 @@ Each record holds the full screenshot, a cropped app-window image, the window's 
 
 ### 数量记录
 
-- 25,606 examples — train split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
-- 1,565 examples — test split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
-- 101 Parquet shards — data/ files at Hub revision ec4853a2 (96 train, 5 test)（计算得出；来源：https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297）
+- 25,606 个示例 — train split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
+- 1,565 个示例 — test split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
+- 101 个 Parquet 分片 — data/ files at Hub revision ec4853a2 (96 train, 5 test)（计算得出）（来源：https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297）
 
 The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple; multi-step trajectories use a different unit.
 

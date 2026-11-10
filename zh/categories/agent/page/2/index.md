@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [OS-Copilot](https://awesomecua.com/zh/resources/github-os-copilot-os-copilot/)：面向操作系统中的网页、终端、文件和第三方应用的通用智能体开源库，包含可接入自定义工具并自主学习 Excel 任务的 FRIDAY 助手。
+- [Page Agent](https://awesomecua.com/zh/resources/github-alibaba-page-agent/)：Page Agent 是 Alibaba 开发的页内 JavaScript GUI 智能体，通过 DOM 脱水处理，根据自然语言控制网页界面。
 - [Phone Agent](https://awesomecua.com/zh/resources/github-boboabw-phone-agent/)：一款 iPhone 智能体，通过 ESP32-S3 蓝牙鼠标和键盘配件观察共享屏幕并跨应用操作。发布内容包括应用程序和固件源码。
 - [PlayJev](https://awesomecua.com/zh/resources/github-omnijev-playjev/)：一个根据渲染画面选择操作的浏览器游戏智能体。其仓库提供游戏环境、演示，以及训练和评估脚本。
 - [POK-Agent](https://awesomecua.com/zh/resources/github-acekorneya-pok-agent/)：POK-Agent 是一款 Windows 计算机使用智能体，将云端规划器与快速本地执行器配合使用，并把重复的 UI 工作流缓存为技能。
@@ -102,5 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 - [Bytebot](https://awesomecua.com/zh/resources/github-bytebot-ai-bytebot/)：开源桌面智能体，在自有 Ubuntu Linux 虚拟桌面中工作，提供网页任务界面、任务及直接控制的 REST API、接管模式和密码管理器登录功能。
 - [CAAP Agent](https://awesomecua.com/zh/resources/github-caap-agent-caap-agent/)：用于 MiniWoB++ 和 WebShop 的截图驱动智能体实现，通过视觉观察器和上下文感知提示发出鼠标与键盘操作。
 - [Caesar Agent](https://awesomecua.com/zh/resources/github-jasonzliang-caesar-agent/)：Caesar 是开源的深度研究网页智能体，可规划多步骤查询、抓取网页并综合生成带引用的报告。
-- [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/zh/resources/github-calebnewtonusc-nova/)：自主式 macOS 桌面操作智能体，可检查屏幕状态并操控原生 Mac 应用。
-- [Cappuccino](https://awesomecua.com/zh/resources/github-gml-fmgroup-cappuccino/)：Cappuccino 是纯视觉桌面 GUI 智能体，可根据自然语言指令规划并执行多步骤计算机任务。

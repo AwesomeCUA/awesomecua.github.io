@@ -186,6 +186,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
 
 ## Datasets
 
+- [ClawBenchV2Trace](https://awesomecua.com/resources/url-3452cef2f99d7de2935a/) — Date not recorded
+  Raw execution traces of browser-agent runs on the 130-task ClawBench V2 set, each with a screen recording, network capture, browser action stream, agent reasoning, the intercepted final request and a judge verdict.
 - [CUA Speedrun results](https://awesomecua.com/resources/url-099451a33699510476df/) — Date not recorded
   Trajectory archives and per-task results from CUA Speedrun evaluations of computer-use models on OSWorld subsets, CUA-World and MyPCBench, with verifier scores, measured task times and recorded or estimated costs.
 - [Gelato OS-World agent trajectories](https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/) — Date not recorded
@@ -200,6 +202,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Simular's 134 clean runs of its Sai computer-use agent on the 108 OSWorld v2.1 tasks in a reference Ubuntu VM, with OSWorld trajectories, agent records, harness and grader logs, scorecards and screenshot and video tars.
 - [Sai OSWorld-V2 benchmark runs](https://awesomecua.com/resources/url-e0180b9651fec04d0308/) — Date not recorded
   Simular's per-task evidence from two complete 108-task OSWorld-V2 runs of its Sai computer-use agent: scores, step trajectories, message traces, evaluator and API logs, and run manifests, without screenshots.
+- [SWEeper-Bench-traces](https://awesomecua.com/resources/url-54907fd6dc968eaced34/) — Date not recorded
+  Recorded runs from the SWEeper-Bench paper, 5,200 in all across 42 agent configurations, each with the coding agent's trajectory, shell commands and patch plus the browser verifier's trajectories and verdicts.
 - [xunsss/osworld2-codex-gpt56sol-0624-attempt-preview](https://awesomecua.com/resources/url-bf57897ba4d047112345/) — Date not recorded
   This OSWorld-V2 dataset provides compact tables for browsing Codex task summaries, attempts, trajectory events, and executed GUI or CLI actions.
 

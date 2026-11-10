@@ -4,6 +4,14 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/13/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [LongHorizonUI](https://awesomecua.com/resources/github-kane2kang-longhorizonui/)
+- [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/)
+- [Lucy Screen Agent](https://awesomecua.com/resources/github-alzin-lucy-screen-agent/)
+- [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/)
+- [mac-use-mcp](https://awesomecua.com/resources/github-antbotlab-mac-use-mcp/)
+- [MacControlKit](https://awesomecua.com/resources/github-tzafon-maccontrolkit/)
+- [macMCP](https://awesomecua.com/resources/github-erwinzhang7-macmcp/)
+- [macOS Computer Use MCP Server (33 Tools)](https://awesomecua.com/resources/github-syedazharmbnr1-computer-use-mcp/)
 - [macOS Visual Agent](https://awesomecua.com/resources/github-peakmojo-macos-visual-agent/)
 - [macOS-MCP](https://awesomecua.com/resources/github-cursortouch-macos-mcp/)
 - [macOS-use](https://awesomecua.com/resources/github-browser-use-macos-use/)
@@ -56,11 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [Ocular](https://awesomecua.com/resources/github-guatxlabs-ocular/)
 - [Odin](https://awesomecua.com/resources/github-madanlalit-odin/)
 - [Offhand](https://awesomecua.com/resources/github-humzakhan-offhand/)
-- [Okno Windows Computer Use MCP](https://awesomecua.com/resources/github-vitalcc55-okno/)
-- [Omarchy OMCP](https://awesomecua.com/resources/github-btsouth-omarchy-omcp/)
-- [Ommatix](https://awesomecua.com/resources/github-yosoyepa-ommatix/)
-- [omni-computer-use](https://awesomecua.com/resources/github-jason26214-omni-computer-use/)
-- [OmniAgent](https://awesomecua.com/resources/github-momo-null-omniagent/)
-- [OmniInfer](https://awesomecua.com/resources/github-omnimind-ai-omniinfer/)
-- [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)
-- [OmniParser MCP Server](https://awesomecua.com/resources/github-cute-aaa-omniparser-mcp/)

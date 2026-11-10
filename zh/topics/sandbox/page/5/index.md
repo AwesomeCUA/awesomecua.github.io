@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [Hronaut](https://awesomecua.com/zh/resources/github-hronaut-hronaut/)
 - [Hronaut](https://awesomecua.com/zh/resources/github-hronaut-hronaut-vscode/)
 - [Hronaut](https://awesomecua.com/zh/resources/url-848e19da3bdf0aeb500c/)
 - [Hronaut for Claude Code](https://awesomecua.com/zh/resources/github-hronaut-hronaut-claude-plugin/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/5/
 - [Orbit UI](https://awesomecua.com/zh/resources/github-aadya940-orbit-ui/)
 - [OSWorld Ubuntu VM images](https://awesomecua.com/zh/resources/url-346ca54794cbdffc8797/)
 - [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/zh/resources/url-ce775111626bae220596/)
-- [OSWorld Windows VM images](https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/)

@@ -28,7 +28,7 @@ Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; access is open
 
 ### 数量记录
 
-- 70,688 examples — train split at Hub revision 0bf2eb71（来源报告；来源：https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md）
+- 70,688 个示例 — train split at Hub revision 0bf2eb71（来源报告；来源：https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md）
 
 The count is the card's dataset_info num_examples for the train split. An example is one screenshot-target pair with its instructions. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.
 

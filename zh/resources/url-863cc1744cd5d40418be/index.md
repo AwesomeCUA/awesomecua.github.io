@@ -25,12 +25,12 @@ The card describes showdown-clicks as part of General Agents' showdown suite and
 - 评测方式：A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.
 - 侧重：instruction-conditioned click grounding, low-level desktop control
 - 观测：macOS screenshots
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 557 annotated clicks — showdown-clicks-dev/data.csv (dev split)（计算得出；来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv）
-- 5,679 left clicks — full showdown-clicks collection described by the card; not released（来源报告；来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md）
+- 557 次已标注的点击 — showdown-clicks-dev/data.csv (dev split)（计算得出）（来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv）
+- 5,679 次左键点击 — full showdown-clicks collection described by the card; not released（来源报告；来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md）
 
 The released CSV has 557 rows with unique IDs and screenshots, and columns for instruction, bounding box and image size. Only the dev subset is public, so scores on the full collection cannot be reproduced from the release.
 

@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/planning/page/8/
 
 Full list: https://awesomecua.com/topics/planning/index.md
 
+- [BLAXIN](https://awesomecua.com/resources/github-tasinxxx-blaxin/)
+- [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/resources/github-momoyi0929-gui-agent/)
+- [Browser Operator](https://awesomecua.com/resources/github-browseroperator-browser-operator-core/)
+- [Browserable](https://awesomecua.com/resources/github-browserable-browserable/)
+- [BrowserBee](https://awesomecua.com/resources/github-parsaghaffari-browserbee/)
 - [BRYES (Brain-Eyes)](https://awesomecua.com/resources/github-alvseek-bryes/)
 - [BugCraft](https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/)
 - [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/planning/index.md
 - [LongHorizon-Harness](https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/)
 - [Lusipad Browser Agent](https://awesomecua.com/resources/github-lusipad-browser-agent/)
 - [MacOS Agent (BIGAI)](https://awesomecua.com/resources/github-computer-use-agents-macos-agent/)
-- [MAI](https://awesomecua.com/resources/github-fluxaster-mai/)
-- [Mano skill](https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/)
-- [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/)
-- [MERRICK](https://awesomecua.com/resources/github-simoncheungai-merrick/)
-- [Midscene Java](https://awesomecua.com/resources/github-alstafeev-midscene-java/)

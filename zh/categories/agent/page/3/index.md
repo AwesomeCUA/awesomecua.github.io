@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/zh/resources/github-calebnewtonusc-nova/)：自主式 macOS 桌面操作智能体，可检查屏幕状态并操控原生 Mac 应用。
+- [Cappuccino](https://awesomecua.com/zh/resources/github-gml-fmgroup-cappuccino/)：Cappuccino 是纯视觉桌面 GUI 智能体，可根据自然语言指令规划并执行多步骤计算机任务。
 - [Cetus](https://awesomecua.com/zh/resources/github-drewnekota-cetus/)：用于运行和审阅编码智能体运行环境的 macOS 客户端；内置运行环境含通过带编号的 Accessibility 元素操作前台应用的计算机使用辅助工具，并支持 Chrome 控制。
 - [ChromeClaw](https://awesomecua.com/zh/resources/github-algopian-chromeclaw/)：ChromeClaw 在 Chrome 扩展沙箱内运行自主浏览器和工作区智能体，配备支持多家提供商的 LLM 和标签页自动化工具。
 - [Claude Computer Use Demo for macOS](https://awesomecua.com/zh/resources/github-pallavag-claude-computer-use-macos/)：将工具调用转换为原生 macOS 屏幕捕获和输入动作，使 Anthropic Claude Computer Use 无需 Docker 即可直接在 macOS 上运行。
@@ -70,6 +72,7 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](ht
 - [GlassBrowser](https://awesomecua.com/zh/resources/github-lzw12w-glass-browser/)：可审计、低成本、仅使用 DOM 的浏览器智能体，设计用于透明的逐步检查和调试。
 - [Goby](https://awesomecua.com/zh/resources/github-juguang-goby/)：开源 Chrome 扩展，作为页面内网页智能体执行自然语言描述的浏览和表单填写任务。
 - [Gofer](https://awesomecua.com/zh/resources/github-jleuth-gofer/)：Gofer 是持续运行的桌面智能体，可监测屏幕变化、执行 shell 和 GUI 动作，并通过 Telegram 或本地 REPL 通信。
+- [GPTVoiceTasker](https://awesomecua.com/zh/resources/github-vuminhduc796-gptvoicetasker/)：GPTVoiceTasker 的 Android 应用：这一基于 GPT-4 的语音助手通过无障碍服务读取屏幕元素，将语音指令转换为点击、输入和滚动操作，并复用习得的应用页面转移关系。
 - [gui-agent](https://awesomecua.com/zh/resources/github-waynchi-gui-agent/)：用于界面智能体实验的研究代码，附有训练好的界面元素检测模型、实验配置和提示词。
 - [GUI-explorer](https://awesomecua.com/zh/resources/github-ilearn-lab-acl25-gui-explorer/)：Android 智能体代码通过 ADB 探索应用，挖掘感知界面转换的知识并存入带检索服务的知识库，还提供调用这些知识的 OpenAI 智能体演示。
 - [GUI-Rise](https://awesomecua.com/zh/resources/github-leon022-gui-rise-code/)：图形界面导航智能体，结合逐步推理与历史摘要；代码仓库提供监督训练、强化学习及评测说明。
@@ -101,6 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](ht
 - [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)：AI 辅助的求职申请浏览器智能体，可匹配简历与职位、自动填写表单并记录提交轨迹。
 - [Job Hunter AI](https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/)：智能体式 AI 求职助手，具备自动化候选人信息采集和经过核验的浏览器表单填写功能。
 - [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)：原生、100% 离线的 Windows 桌面语音和 GUI 自动化助手。
-- [Kirk Engine](https://awesomecua.com/zh/resources/url-80c8abf734a29f7affc5/)：Kirk Engine 是结合截图和无障碍树选择点击、输入及滑动操作的安卓智能体；页面报告 AndroidWorld 测试，并说明逐任务验证材料。
-- [Kota-Kawa Browser-Agent](https://awesomecua.com/zh/resources/github-kota-kawa-browser-agent/)：基于 FastAPI 和 browser-use 的网页智能体，支持实时 CDP 会话流、Server-Sent Events（SSE）进度日志和交互式 UI 控制。
-- [Kushatish AI Browser Copilot](https://awesomecua.com/zh/resources/github-kushatish-ai-browser-copilot/)：Chrome 扩展，由 Groq LLMs 驱动，提供基于页面内容的问答和经用户批准的浏览器动作。

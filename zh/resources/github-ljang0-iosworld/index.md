@@ -21,12 +21,12 @@ iOSWorld 是原生 iPhone 模拟器基准，包含共享用户数据、应用工
 - 评测方式：Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.
 - 侧重：personalized phone tasks, cross-app workflows
 - 观测：screenshots, accessibility XML (optional)
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 133 tasks — tasks.json benchmark（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
-- 26 applications — bundled SwiftUI apps（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
+- 133 个任务 — tasks.json benchmark（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
+- 26 个应用 — bundled SwiftUI apps（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
 
 Vision-only, vision-plus-XML, and MCP modes expose different information and tools. The documented default evaluator is model-based; compare the same mode and judge.
 

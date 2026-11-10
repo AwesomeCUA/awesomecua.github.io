@@ -4,6 +4,15 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/data-generation/index.md
 
+- [Browser4](https://awesomecua.com/zh/resources/github-platonai-browser4/)
+- [BrowserPilot](https://awesomecua.com/zh/resources/github-ai-naymul-browserpilot/)
+- [Captr for macOS](https://awesomecua.com/zh/resources/github-anaishowland-captr-macos/)
+- [Captr for Windows](https://awesomecua.com/zh/resources/github-anaishowland-captr-windows/)
+- [chrome-agent-search](https://awesomecua.com/zh/resources/github-ominiverdi-chrome-agent-search/)
+- [Coasty](https://awesomecua.com/zh/resources/url-05dde0b8766744e94e07/)
+- [COCO4GUI](https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-dataset-creator/)
+- [COCO4GUI Dataset Importer](https://awesomecua.com/zh/resources/github-harpreetsahota204-coco4gui-fiftyone/)
+- [CollabUIAgents](https://awesomecua.com/zh/resources/github-thunlp-mt-collabuiagents/)
 - [CoMEM-Agent](https://awesomecua.com/zh/resources/github-wenyiwu0111-comem-agent/)
 - [Computer Use Data Collection](https://awesomecua.com/zh/resources/github-bobcoi03-computeruse-data-collection/)
 - [Crawl4AI](https://awesomecua.com/zh/resources/github-unclecode-crawl4ai/)
@@ -55,12 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/10/
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/zh/resources/github-amazon-science-pae/)
 - [reverseloom](https://awesomecua.com/zh/resources/github-kuichi-x-reverseloom/)
 - [rtrvr CLI & SDK](https://awesomecua.com/zh/resources/github-rtrvr-ai-rtrvr-cli/)
-- [SCALE-CUA (THUDM)](https://awesomecua.com/zh/resources/github-thudm-scale-cua/)
-- [SCOPE-Gen](https://awesomecua.com/zh/resources/github-k4ngzy-scope-gen/)
-- [Scrapfly MCP Server](https://awesomecua.com/zh/resources/github-scrapfly-scrapfly-mcp/)
-- [Screen2AX](https://awesomecua.com/zh/resources/github-macpaw-screen2ax/)
-- [screen2gym](https://awesomecua.com/zh/resources/github-marc-saouda-screen2gym/)
-- [ScreenAgent Web Client](https://awesomecua.com/zh/resources/github-niuzaisheng-screenagentwebclient/)
-- [ScreenParse Webshot toolkit](https://awesomecua.com/zh/resources/github-saidgurbuz-screenparse/)
-- [SEAgent](https://awesomecua.com/zh/resources/github-sunzey-seagent/)
-- [Seq2act code (google-research)](https://awesomecua.com/zh/resources/component-google-research-seq2act/)

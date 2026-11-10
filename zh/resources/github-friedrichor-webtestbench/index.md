@@ -25,12 +25,12 @@ Public evaluation/deployment scripts accompany an ungated Hub release with JSON/
 - 评测方式：The supplied WebTester pipeline separates checklist generation from interactive defect detection and provides a scoring workflow.
 - 侧重：web functionality testing, latent permission and business constraints
 - 观测：web application interface, development instruction
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 7 application categories — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md）
-- 100 web-application archives — Hub file manifest（计算得出；来源：https://huggingface.co/api/datasets/friedrichor/WebTestBench）
+- 7 个应用类别 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md）
+- 100 个 Web 应用归档 — Hub file manifest（计算得出）（来源：https://huggingface.co/api/datasets/friedrichor/WebTestBench）
 
 The 100 archive files form an artifact inventory. Backend/tool versions and deployment settings affect reproducibility.
 

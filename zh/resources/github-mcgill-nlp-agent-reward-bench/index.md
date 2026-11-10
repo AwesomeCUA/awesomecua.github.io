@@ -25,11 +25,11 @@ The public repository contains judges, evaluation utilities and annotation files
 - 评测方式：Compare automatic judgments with expert answers on task success, side effects and repetitiveness.
 - 侧重：automatic evaluator agreement, task success, side effects, repetition
 - 观测：web trajectories, screenshots, actions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,302 trajectories — paper-reported expert-reviewed set（来源报告；来源：https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending）
+- 1,302 条轨迹 — paper-reported expert-reviewed set（来源报告；来源：https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending）
 
 Counts refer to the paper study.
 

@@ -2,7 +2,7 @@
 
 计算机使用智能体是完整的系统：观察屏幕或网页，制定计划，再通过点击、输入、浏览器命令或命令行工具完成用户任务。
 
-> AwesomeCUA 目录收录 471 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
+> AwesomeCUA 目录收录 475 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://awesomecua.com/categories/agent/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://a
 
 ### 这些智能体覆盖哪些平台？
 
-在 471 条已审核智能体中，网页 241 条、桌面 228 条、手机 90 条、跨平台 59 条；3 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 475 条已审核智能体中，网页 243 条、桌面 228 条、手机 92 条、跨平台 59 条；3 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些智能体有对应的论文？
 
-471 条中有 67 条链接到提出或说明它的 arXiv 论文，例如 [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)、[Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) 和 [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/)。
+475 条中有 70 条链接到提出或说明它的 arXiv 论文，例如 [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)、[Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) 和 [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/)。
 
 ### 智能体使用哪些许可证？
 
-最常见的声明许可证是 MIT（206 条）、Apache-2.0（89 条）和 AGPL-3.0（12 条）。471 条中有 142 条未记录声明的许可证。
+最常见的声明许可证是 MIT（207 条）、Apache-2.0（89 条）和 AGPL-3.0（12 条）。475 条中有 145 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -607,6 +607,36 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 ---
 
+## natbot
+
+早期基于 Playwright 的浏览器智能体原型，通过向 LLM 提供简化的 DOM 链接和输入框列表来执行网页导航。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-nat-natbot/
+- 原始来源：https://github.com/nat/natbot
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化
+- 证据核查日期：2026-11-04T13:12:27Z
+- ID：github:nat/natbot
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-nat-natbot/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/nat/natbot/HEAD/README.md（获取于 2026-11-04T13:12:27Z；SHA-256：524f0c736146c9ef391da6e135f8491ab9f5508bb362cdac060853c75f05ce38）
+- https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE（获取于 2026-11-04T13:42:19Z；SHA-256：c1bfa7b7b3d378aba35fdd8a2d1fb8cab3bf3bfcd5e3080e8a6e4cf004c47cfd）
+
+---
+
 ## OpenMausBot
 
 桌面聊天应用，其机器人可运行本地 Claude、Codex 或 Grok CLI，并各自通过 Cua Driver 使用云端 Linux 桌面、本地虚拟机、VPS 或宿主机，还内置浏览器和审批卡片。
@@ -890,36 +920,6 @@ GPT-4V-Act 结合 Chromium DOM 自动标注与 Set-of-Mark 视觉提示，使用
 ### 一手证据
 
 - https://raw.githubusercontent.com/ddupont808/GPT-4V-Act/HEAD/README.md（获取于 2026-11-04T13:12:12Z；SHA-256：49984f3497e260bddcda90949cb2cc50762f95c2409ac531be940414954cd370）
-
----
-
-## natbot
-
-早期基于 Playwright 的浏览器智能体原型，通过向 LLM 提供简化的 DOM 链接和输入框列表来执行网页导航。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-nat-natbot/
-- 原始来源：https://github.com/nat/natbot
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、自动化
-- 证据核查日期：2026-11-04T13:12:27Z
-- ID：github:nat/natbot
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-nat-natbot/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/nat/natbot/HEAD/README.md（获取于 2026-11-04T13:12:27Z；SHA-256：524f0c736146c9ef391da6e135f8491ab9f5508bb362cdac060853c75f05ce38）
-- https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE（获取于 2026-11-04T13:42:19Z；SHA-256：c1bfa7b7b3d378aba35fdd8a2d1fb8cab3bf3bfcd5e3080e8a6e4cf004c47cfd）
 
 ---
 
@@ -2451,6 +2451,40 @@ The source lists navigation, clicking, typing, scrolling and drag actions. Setup
 
 ---
 
+## globot
+
+一个 Python 浏览器智能体，通过 Playwright 驱动 Chromium，把 DOM 快照转换为带编号的可点击和可输入元素，再由 OpenAI 模型选择点击、输入、滚动或后退操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-globe-engineer-globot/
+- 原始来源：https://github.com/Globe-Engineer/globot
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、动作预测
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:globe-engineer/globot
+
+### 范围记录
+
+globot.py implements the Playwright browser wrapper and example.py the action loop with the OpenAI Python client; a USE_VISION flag adds a resized screenshot to the prompt. The README presents it as completing the vision of natbot with GPT-4V.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-globe-engineer-globot/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/Globe-Engineer/globot/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Globe-Engineer/globot/7d3a6eda712c6d2f861a3ff5b4652c5cf79efe96/README.md（获取于 2026-11-10T03:00:59Z；SHA-256：5e4a4707d9a453cff84e23c5c209ffa6d64643a3d9f5c2cce83b29605eeb5c37）
+- https://raw.githubusercontent.com/Globe-Engineer/globot/HEAD/LICENSE（获取于 2026-11-10T02:08:09Z；SHA-256：d4cf805072ea18d317a7fd001ec73fbfbc006135dc8fdcbabee9943d905a01d8）
+
+---
+
 ## GUI Reflection
 
 GUI Reflection 提供根据屏幕图像和任务目标预测 GUI 操作的智能体代码，以及评测和监督训练脚本。
@@ -2880,6 +2914,39 @@ Minitap mobile-use 是多智能体移动端自动化系统，可根据自然语�
 
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/README.md（获取于 2026-11-04T13:12:25Z；SHA-256：d9f1dc9560baec4746a58f3c0fa8b167a9fb365b7e2888698d0cb75f803c856c）
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/LICENSE（获取于 2026-11-04T13:23:24Z；SHA-256：83eacb160cdeea43e85545f6dbed7eb9588c56e604dae639063cd7846cfc67f3）
+
+---
+
+## MM-Navigator
+
+GPT-4V 智能手机导航研究的示例代码：一个提示构建脚本，将原始截图、带数字标签的截图和历史操作发送给 GPT-4V 以预测下一步 Android 操作，以及一个操作匹配评测脚本。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-zzxslp-mm-navigator/
+- 原始来源：https://github.com/zzxslp/MM-Navigator
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android、iOS
+- 主题：手机操作、动作预测、无需训练的方法、评测
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:zzxslp/mm-navigator
+
+### 范围记录
+
+The repository holds call_gpt4.py, eval.py and a demo GIF; the API URL and headers in call_gpt4.py are empty and must be set for an OpenAI vision endpoint, and eval.py imports an action_type module that is absent from the repository.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zzxslp-mm-navigator/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/zzxslp/MM-Navigator/e9c1781bbba455cdefa12952ceca2e66d8512e99/README.md（获取于 2026-11-10T03:01:00Z；SHA-256：55aa3a099647cb55835cc8125fd23a1ceeb8b2c03561763b7eb3c0caeb6c4a26）
 
 ---
 
@@ -8658,6 +8725,39 @@ Gofer 是持续运行的桌面智能体，可监测屏幕变化、执行 shell �
 
 ---
 
+## GPTVoiceTasker
+
+GPTVoiceTasker 的 Android 应用：这一基于 GPT-4 的语音助手通过无障碍服务读取屏幕元素，将语音指令转换为点击、输入和滚动操作，并复用习得的应用页面转移关系。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-vuminhduc796-gptvoicetasker/
+- 原始来源：https://github.com/vuminhduc796/GPTVoiceTasker
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、界面理解、自动化
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:vuminhduc796/gptvoicetasker
+
+### 范围记录
+
+The repository holds the Android Studio project (app/, Gradle files), prompts.txt with the prompt templates and Result.xlsx with evaluation results.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/vuminhduc796/GPTVoiceTasker/d28df69267c2d740a56fc492bee88dc237db5853/prompts.txt（获取于 2026-11-10T03:01:00Z；SHA-256：418d921a7e48a2cdea75c04a5dc6b38c99eb29d8c4c302fe3cc236f12538eb40）
+
+---
+
 ## gui-agent
 
 用于界面智能体实验的研究代码，附有训练好的界面元素检测模型、实验配置和提示词。
@@ -13178,6 +13278,39 @@ AI 浏览器智能体和 Chrome 扩展，可解析简历并自主填写复杂的
 
 - https://raw.githubusercontent.com/Somnora/agentic-webmcp/main/README.md（获取于 2026-11-04T17:30:44Z；SHA-256：139be17995d49162eaeeecffe60d191713360febe785eab5f854653cd36d5992）
 - https://raw.githubusercontent.com/Somnora/agentic-webmcp/HEAD/LICENSE（获取于 2026-11-04T17:40:20Z；SHA-256：60230209348f955d34789b783a35fb42ca10eaf6b6d041bec287b5ecbe646ebf）
+
+---
+
+## RUSS
+
+RUSS 的代码与数据：它将分步的网页帮助说明解析为 ThingTalk 语言，定位到页面元素，再执行点击、输入或向用户提问；附带一个包含 741 条说明的评测集。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-xnancy-russ/
+- 原始来源：https://github.com/xnancy/russ
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、GUI 定位、数据生成、评测
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:xnancy/russ
+
+### 范围记录
+
+The repository holds the ThingTalk synthesis and typecheck setup built on the genie and thingtalk toolkits, genienlp training commands, evaluation instruction files with webpage DOMs, a PhraseNode grounding baseline and a Puppeteer example.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-xnancy-russ/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/xnancy/russ/2bbae6fbdb38c7cab64113edce2eb61bf7e2e2f8/README.md（获取于 2026-11-10T03:01:00Z；SHA-256：688e5fd739469e442d1e9363411a3c8434809fc8facaf0f9f7cc0ab5f1b73c7a）
 
 ---
 

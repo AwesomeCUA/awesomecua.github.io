@@ -25,12 +25,12 @@ This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWo
 - 评测方式：The publisher documents text-answer matching, backend database verification, local-storage inspection and application callbacks.
 - 侧重：Android task completion, agent-user interaction, hybrid GUI and MCP use
 - 观测：Android application interface, user-agent interaction when enabled
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 201 tasks — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
-- 20 mobile applications — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
+- 201 个任务 — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
+- 20 个移动应用 — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
 
 Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurations have different dependencies and task eligibility; preserve enabled modes and step budget with results.
 

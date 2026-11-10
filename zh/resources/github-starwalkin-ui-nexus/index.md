@@ -25,14 +25,14 @@ Official repository of the paper "Atomic-to-Compositional Generalization for Mob
 - 评测方式：Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.
 - 侧重：compositional multi-app mobile tasks, generalization from atomic to compositional tasks
 - 观测：agent-defined observations of the Android emulator or device
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 100 task templates — all task files (50 + 25 + 25 rows)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
-- 50 task templates — UI-NEXUS-Anchor, English, local utility apps (data/offline_English.csv)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
-- 25 task templates — online service apps, Chinese (data/online_Chinese.csv)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv）
-- 25 task templates — online service apps, English (data/online_English.xlsx)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx）
+- 100 个任务模板 — all task files (50 + 25 + 25 rows)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
+- 50 个任务模板 — UI-NEXUS-Anchor, English, local utility apps (data/offline_English.csv)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
+- 25 个任务模板 — online service apps, Chinese (data/online_Chinese.csv)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv）
+- 25 个任务模板 — online service apps, English (data/online_English.xlsx)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx）
 
 Template counts are data rows with distinct task IDs, counted with Python's csv module and by parsing the XLSX sheet XML. Anchor categories: Simple Concatenation 20, Context Transition 20, Deep Dive 10; each online file: Simple Concatenation 7, Context Transition 11, Deep Dive 7. Each row carries one instantiation of its template.
 

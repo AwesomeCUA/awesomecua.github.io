@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/framework/page/6/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [Plip OSS](https://awesomecua.com/resources/github-hussainn7-plip-oss/)
+- [Polyform a11y-guide](https://awesomecua.com/resources/github-polyform-ai-a11y-guide/)
+- [Praefectus](https://awesomecua.com/resources/github-tschk-praefectus/)
 - [PRAXOVELA](https://awesomecua.com/resources/github-axisvela-praxovela-open/)
 - [PreAct](https://awesomecua.com/resources/github-19pine-ai-preact/)
 - [ProfileFleet](https://awesomecua.com/resources/github-enginefuture-profilefleet/)
@@ -34,7 +37,6 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [reverseloom](https://awesomecua.com/resources/github-kuichi-x-reverseloom/)
 - [Ringlight WebMCP](https://awesomecua.com/resources/github-doom2quake-ringlight/)
 - [RishabhP1508 Understudy](https://awesomecua.com/resources/github-rishabhp1508-understudy/)
-- [RLVR-World](https://awesomecua.com/resources/github-thuml-rlvr-world/)
 - [robotsix-browser](https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/)
 - [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/)
 - [rote](https://awesomecua.com/resources/github-bhuvanb3110-rote/)
@@ -102,5 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [TongUI training and inference framework](https://awesomecua.com/resources/github-tongui-agent-tongui-agent/)
 - [ToolGen](https://awesomecua.com/resources/github-reason-wang-toolgen/)
 - [ToolTok](https://awesomecua.com/resources/github-zephinuecode-tooltok/)
-- [TopoClaw](https://awesomecua.com/resources/github-madeagents-topoclaw/)
-- [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/)

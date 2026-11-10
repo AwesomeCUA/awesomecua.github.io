@@ -24,8 +24,8 @@ Android 操作演示，包含高层目标、分步指令、截图和无障碍树
 
 ### 数量记录
 
-- > 15,000 demonstrations — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
-- 833 applications — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
+- > 15,000 条演示 — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
+- 833 个应用 — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
 
 Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; step instructions can repeat across multiple actions.
 

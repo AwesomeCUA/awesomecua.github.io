@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/observability/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/observability/index.md
 
+- [MELRA](https://awesomecua.com/zh/resources/github-xagi-lab-melra/)
+- [Memori](https://awesomecua.com/zh/resources/github-memorilabs-memori/)
 - [Midscene Java](https://awesomecua.com/zh/resources/github-alstafeev-midscene-java/)
 - [MobilePilot Runtime](https://awesomecua.com/zh/resources/github-qizhanggu-mobilepilot-runtime/)
 - [ModCDP](https://awesomecua.com/zh/resources/github-browserbase-modcdp/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/observability/page/4/
 - [WebOperator Experiments](https://awesomecua.com/zh/resources/github-mahirlabibdihan-weboperator-experiments/)
 - [windows-mcp-server](https://awesomecua.com/zh/resources/github-deploymenttheory-windows-mcp-server/)
 - [WinWright](https://awesomecua.com/zh/resources/github-alegauss-winwright/)
-- [Witness](https://awesomecua.com/zh/resources/github-ericfinland-witness/)
-- [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/zh/resources/github-shenkemin-sketch-zhuque-recruiting/)

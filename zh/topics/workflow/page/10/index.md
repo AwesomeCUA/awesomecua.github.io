@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
+- [ZennoPoster MCP](https://awesomecua.com/zh/resources/github-zennolab-zennoposter-mcp/)
 - [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/zh/resources/github-shenkemin-sketch-zhuque-recruiting/)
 - [AI Agent Desktop Engineering Blueprint](https://awesomecua.com/zh/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/)
 - [Amazon Nova Act Samples](https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/)

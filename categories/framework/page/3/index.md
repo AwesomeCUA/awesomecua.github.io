@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/framework/page/3/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [anybridge](https://awesomecua.com/resources/github-justvugg-anybridge/)
+- [AnyBrowser](https://awesomecua.com/resources/github-christopher-inegbedion-anybrowser/)
+- [AnyTool](https://awesomecua.com/resources/github-hkuds-anytool/)
 - [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/resources/github-19pine-ai-aoi/)
 - [aos (Agent Operating System CLI)](https://awesomecua.com/resources/github-muthuishere-aos/)
 - [App Use](https://awesomecua.com/resources/github-erickjtorres-app-use/)
@@ -101,6 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [DeskCanvas](https://awesomecua.com/resources/github-sorry123luck-desk-canvas/)
 - [DeskCtl (Desktop Control Engine)](https://awesomecua.com/resources/github-mini-mind-deskctl/)
 - [DeskForge](https://awesomecua.com/resources/github-saidgurbuz-deskforge/)
-- [Desktop Action Agent](https://awesomecua.com/resources/github-dax0056-desktop-action-agent/)
-- [deskwork](https://awesomecua.com/resources/github-ashnkumar-deskwork/)
-- [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/)

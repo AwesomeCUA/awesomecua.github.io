@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/24/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [Terminator](https://awesomecua.com/zh/resources/github-mediar-ai-terminator/)
+- [TestDriver SDK](https://awesomecua.com/zh/resources/github-testdriverai-testdriverai/)
+- [TestZeus Hercules](https://awesomecua.com/zh/resources/github-test-zeus-ai-testzeus-hercules/)
+- [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)
+- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)
+- [Third Eye](https://awesomecua.com/zh/resources/github-slastrina-third-eye/)
+- [ThreeBody6666 DSH Computer Use](https://awesomecua.com/zh/resources/github-threebody6666-dsh-computer-use/)
 - [Thursday](https://awesomecua.com/zh/resources/github-cgoinglove-thursday/)
 - [tine](https://awesomecua.com/zh/resources/github-smythp-tine/)
 - [tinycomputer](https://awesomecua.com/zh/resources/github-tinyhumansai-tinycomputer/)
@@ -57,10 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/24/
 - [Veeva CRM (Veeva Commercial Cloud) Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-veeva-crm-browser-automation/)
 - [Veeva Vault Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-veeva-vault-browser-automation/)
 - [Venxuix Dccide](https://awesomecua.com/zh/resources/github-venxuix-dccide-venxuix/)
-- [Vera AI Assistant](https://awesomecua.com/zh/resources/github-alpert-code-veraai-assistant-1-1/)
-- [VersaiOS](https://awesomecua.com/zh/resources/github-zhaodashuaibi-versaios/)
-- [VibeSurf for OpenClaw](https://awesomecua.com/zh/resources/github-vibesurf-ai-claw-surf/)
-- [viger1 dsh-pilot](https://awesomecua.com/zh/resources/github-viger1-dsh-pilot/)
-- [Vigil](https://awesomecua.com/zh/resources/github-bofstudios-vigil/)
-- [Vision Browser Agent](https://awesomecua.com/zh/resources/github-zbcs-studiocr-cn-vision-browser-agent/)
-- [Vision UI](https://awesomecua.com/zh/resources/github-meituan-dianping-vision-ui/)

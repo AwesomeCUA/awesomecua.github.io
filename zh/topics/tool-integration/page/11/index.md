@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/11/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [desktop-cli](https://awesomecua.com/zh/resources/github-adamsautomations-desktop-cli/)
+- [desktop-hub](https://awesomecua.com/zh/resources/github-zty552252kevin-code-desktop-hub/)
+- [desktop-touch-mcp](https://awesomecua.com/zh/resources/github-harusame64-desktop-touch-mcp/)
 - [DesktopAgent (.NET 9)](https://awesomecua.com/zh/resources/github-alessiobianchini-desktopagent/)
 - [DeskVNC](https://awesomecua.com/zh/resources/github-psmux-deskvnc/)
 - [deskwork](https://awesomecua.com/zh/resources/github-ashnkumar-deskwork/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/11/
 - [dsh-plugin-browser-use](https://awesomecua.com/zh/resources/github-fatmind-dsh-plugin-browser-use/)
 - [dsh-plugin-midscene](https://awesomecua.com/zh/resources/github-ciky20171114-dsh-plugin-midscene/)
 - [dsh-plugin-openbot](https://awesomecua.com/zh/resources/github-jimmyjdejesus-cmyk-dsh-plugin-openbot/)
-- [dsh-plugin-ui-debug](https://awesomecua.com/zh/resources/github-featherhunter-dsh-plugin-ui-debug/)
-- [dsh-preview](https://awesomecua.com/zh/resources/github-viger1-dsh-preview/)
-- [dsh-reasoning-bridge](https://awesomecua.com/zh/resources/github-shangdi178-dsh-reasoning-bridge/)

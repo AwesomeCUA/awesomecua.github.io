@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/17/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/)
+- [Nik-Browser MCP](https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/)
+- [NirvanaX AutoAgent](https://awesomecua.com/resources/github-sayantanthecmd-nirvanax-autoagent/)
 - [Node AutoIt Koffi](https://awesomecua.com/resources/github-nullmastermind-node-autoit-koffi/)
 - [nodriver-mcp](https://awesomecua.com/resources/github-saber-cc-nodriver-mcp/)
 - [nodriver-mcp-server](https://awesomecua.com/resources/github-andresolbach-nodriver-mcp-server/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [OpenCode Browser MCP](https://awesomecua.com/resources/github-hogandong486-opencode-browser-mcp/)
 - [opencode-chrome](https://awesomecua.com/resources/github-g10hdz-opencode-chrome/)
 - [opencode-gui-bridge](https://awesomecua.com/resources/github-yueqi-wang-795-opencode-gui-bridge/)
-- [opencode-mobile-use](https://awesomecua.com/resources/github-system1970-opencode-mobile-use/)
-- [opencode-webmcp](https://awesomecua.com/resources/github-enihcam-opencode-webmcp/)
-- [OpenControl](https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/)

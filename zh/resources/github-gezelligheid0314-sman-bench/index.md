@@ -25,7 +25,7 @@ SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; t
 - 评测方式：Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.
 - 侧重：single-path step accuracy, multi-path task completion, robustness to pop-ups and ads, ambiguous instructions
 - 观测：recorded Android screenshots with element boxes drawn from the page XML, element centre coordinates (Mobile-Agent-v2 runner), task instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 

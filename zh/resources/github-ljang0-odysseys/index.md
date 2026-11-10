@@ -25,15 +25,15 @@ Each task has a SHA-1 ID, a prompt, a starting URL, a difficulty level, a refere
 - 评测方式：Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.
 - 侧重：long-horizon web tasks from real browsing sessions
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 200 tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 45 easy tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 46 medium tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 109 hard tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 1,225 rubric items — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 200 个任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 45 个简单任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 46 个中等难度任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 109 个困难任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 1,225 项评分细则 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
 
 Counts were computed from the pinned task file and match the README's 200 tasks split into 45 easy, 46 medium and 109 hard. Difficulty follows reference step count and domain spread. The observation and action spaces are those of the OSWorld agent used; the paper setup uses a 100-step budget.
 

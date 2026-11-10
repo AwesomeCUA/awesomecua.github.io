@@ -25,11 +25,11 @@ Two public Parquet shards are present. Card metadata reports 776 test rows, wher
 - 评测方式：Compare reward-model preferences with the provided chosen/rejected decision labels; no independent score was reproduced.
 - 侧重：web process-reward evaluation
 - 观测：page screenshots, text observations, action history, task checklists
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 776 rows — Hub test split（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/raw/main/README.md）
+- 776 行 — Hub test split（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/raw/main/README.md）
 
 The current Hub row count and project case-count claim use unresolved counting units. Candidate lists make rows a different unit from tasks or pairs.
 

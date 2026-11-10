@@ -28,12 +28,12 @@ Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6
 
 ### 数量记录
 
-- ≈ 36,000 screenshots — all three subsets as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 16,232 screenshot examples — desktop train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 256 screenshot examples — desktop validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 9,830 screenshot examples — web train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 256 screenshot examples — web validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- ≈ 10,500 screenshot examples — mobile subset as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- ≈ 36,000 张截图 — all three subsets as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 16,232 个截图示例 — desktop train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 256 个截图示例 — desktop validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 9,830 个截图示例 — web train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 256 个截图示例 — web validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- ≈ 10,500 个截图示例 — mobile subset as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
 
 The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated.
 

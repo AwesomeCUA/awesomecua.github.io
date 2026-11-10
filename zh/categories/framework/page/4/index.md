@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/4/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [Desktop Action Agent](https://awesomecua.com/zh/resources/github-dax0056-desktop-action-agent/)：在沙箱中运行的本地计算机自动化智能体参考架构，具备窗口检测和动作验证功能。
+- [deskwork](https://awesomecua.com/zh/resources/github-ashnkumar-deskwork/)：deskwork 通过检索领域文档增强 Claude Computer Use，以执行基于合规要求的桌面和浏览器工作流。
+- [Deterministic Computer-Use Automation](https://awesomecua.com/zh/resources/github-joncody-computer-use-automation/)：两阶段计算机使用自动化框架，将 LLM 驱动的 UI 探索编译为确定性的回放脚本。
 - [device-use](https://awesomecua.com/zh/resources/github-labclaw-device-use/)：device-use 让 AI 智能体通过科学实验室仪器原生的桌面 GUI 软件操作仪器，无需硬件 API。
 - [dibs](https://awesomecua.com/zh/resources/github-joshteravest-dibs/)：本地协调中心和锁管理器，让多个 AI 智能体预留并使用计算机使用资源，避免冲突。
 - [Digi-Q](https://awesomecua.com/zh/resources/github-digirl-agent-digiq/)：离线设备控制训练代码，学习操作价值并据此选择有潜力的操作，同时提供关联的轨迹和模型检查点。
@@ -101,6 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/4/ · [English
 - [Lightfeed Replayable Browser Agent](https://awesomecua.com/zh/resources/github-lightfeed-browser-agent/)：TypeScript 浏览器智能体库，使用 LLM 完成一次网页导航流程，之后以零 LLM token 重放缓存的选择器。
 - [Liha WebMCP Adapter](https://awesomecua.com/zh/resources/github-liha-app-webmcp-adapter/)：为现有网站加入结构化 WebMCP 工具定义，无需修改后端代码。
 - [Linux CUA (5omeotherguy)](https://awesomecua.com/zh/resources/github-5omeotherguy-linux-computer-use/)：面向计算机使用智能体的 Linux 桌面工具包，提供隔离的 X11 工作空间、窗口捕获和输入模拟。
-- [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)：模块化网页智能体框架，包含浏览器控制、规划、工作流程记忆和树搜索组件，并提供网页与扩展界面。
-- [llm-browser-agent](https://awesomecua.com/zh/resources/github-justifysiddh-llm-browser-agent/)：具备自我修复能力的浏览器自动化框架，使用 LLM 引导的语义元素解析替代脆弱的 CSS 选择器。
-- [LockInTime headless](https://awesomecua.com/zh/resources/github-lockintime-headless/)：面向 AI 智能体的持久化浏览器控制运行时，实施安全约束，并提供语义化 CLI。

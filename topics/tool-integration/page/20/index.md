@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/20/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [Relay AI Virtual Desktop](https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/)
+- [Renoned dsh-computer-use](https://awesomecua.com/resources/github-renoned-dsh-computer-use/)
+- [Reqvexa](https://awesomecua.com/resources/github-kareemheshaam-reqvexa/)
 - [Retriever AI (rtrvr.ai)](https://awesomecua.com/resources/url-4f3ce151a13cba635e74/)
 - [reverseloom](https://awesomecua.com/resources/github-kuichi-x-reverseloom/)
 - [Ribband (Agentic WebMCP)](https://awesomecua.com/resources/github-somnora-agentic-webmcp/)
@@ -40,6 +43,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Semantic Kernel](https://awesomecua.com/resources/github-microsoft-semantic-kernel/)
 - [Sensory-Grounding MCP](https://awesomecua.com/resources/github-luclinocruz-lucross-sensory-grounding-mcp/)
 - [sentineldesk-agent](https://awesomecua.com/resources/github-sentineldesk-agent/)
+- [serve-sim](https://awesomecua.com/resources/github-evanbacon-serve-sim/)
 - [Sessionat](https://awesomecua.com/resources/github-dublyo-sessionat/)
 - [settled-computer](https://awesomecua.com/resources/github-remote-skills-settled-computer/)
 - [sh7vansh Chrome Bridge](https://awesomecua.com/resources/github-sh7vansh-chrome-bridge/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Social Browser Publisher for Codex](https://awesomecua.com/resources/github-jacky391977-social-browser-publisher/)
 - [SoftAuto MCP](https://awesomecua.com/resources/github-guangfubill-crypto-softauto-mcp/)
 - [Spectra MCP](https://awesomecua.com/resources/github-astroqueststudio-spectra-mcp/)
-- [SpectraBrowser MCP](https://awesomecua.com/resources/github-virajverse-spectra-browser-mcp/)
-- [Spice](https://awesomecua.com/resources/github-shells-com-spice/)
-- [spider-browser](https://awesomecua.com/resources/github-spider-rs-spider-browser/)
-- [Spooky Action](https://awesomecua.com/resources/github-jumpsy-spooky-action/)

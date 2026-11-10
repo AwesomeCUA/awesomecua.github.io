@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [Appwalk](https://awesomecua.com/zh/resources/github-kubstack-appwalk/)
+- [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/)
+- [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/zh/resources/github-sharryxr-asil/)
+- [ask-web-ai](https://awesomecua.com/zh/resources/github-pgw10086-ask-web-ai/)
+- [Astra AI Browser](https://awesomecua.com/zh/resources/github-bennix-astraaibrowser/)
 - [atlas-desktop](https://awesomecua.com/zh/resources/github-abydin-atlas-desktop/)
 - [Auto_OS](https://awesomecua.com/zh/resources/github-jaswanth1902-auto-os/)
 - [AutoFiller Universal](https://awesomecua.com/zh/resources/github-fedetrain-autofiller-universal/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/6/
 - [Deterministic Computer-Use Automation](https://awesomecua.com/zh/resources/github-joncody-computer-use-automation/)
 - [DietSurf](https://awesomecua.com/zh/resources/github-100x-bot-dietsurf/)
 - [Digi-Q](https://awesomecua.com/zh/resources/github-digirl-agent-digiq/)
-- [DistRL](https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/)
-- [DOMShell](https://awesomecua.com/zh/resources/github-apireno-domshell/)
-- [DrishtiGuard](https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/)
-- [Drisp Browser MCP](https://awesomecua.com/zh/resources/github-drisplabs-browser-mcp/)
-- [dsh-vision-click](https://awesomecua.com/zh/resources/github-zdd3143-dsh-vision-click/)

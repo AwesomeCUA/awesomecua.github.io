@@ -21,6 +21,7 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [AppSim-UberEats](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ubereats/)
 - [AriaOS](https://awesomecua.com/resources/github-jeremie225ci-ariaos/)
 - [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/)
+- [AutoWechat](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/)
 - [background-computer-use](https://awesomecua.com/resources/github-panchangam18-background-computer-use/)
 - [Beam](https://awesomecua.com/resources/url-51289d2105ef35fd0265/)
 - [bg-driver-rs](https://awesomecua.com/resources/github-lvyuan1688-bg-driver-rs/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [Computer Agents](https://awesomecua.com/resources/url-e73eb2f901a50145c37e/)
 - [Computer Use (gVisor Cloud REPL)](https://awesomecua.com/resources/github-r33drichards-computer-use/)
 - [Computer Use VM](https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/)
-- [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/)

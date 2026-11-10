@@ -21,12 +21,12 @@
 - 评测方式：Task-specific execution-based evaluators inspect application or system state.
 - 侧重：task completion, cross-application workflows
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 369 task definitions — test_all.json（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json）
-- 361 task definitions — test_nogdrive.json（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json）
+- 369 个任务定义 — test_all.json（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json）
+- 361 个任务定义 — test_nogdrive.json（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json）
 
 Counts were computed from unique task identifiers in the two inspected manifests. The subsets differ; record the manifest, repository revision, agent interface, and step budget with a score.
 

@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/workflow/page/5/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
+- [Bodhi](https://awesomecua.com/resources/github-bigduu-zenith/)
 - [Bops](https://awesomecua.com/resources/github-orgoai-bops/)
 - [Boss Agent](https://awesomecua.com/resources/github-padolphylis-boss-agent/)
 - [BridgeDEF](https://awesomecua.com/resources/github-mattiadepaoli-hash-bridgedef/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [CUA Skill](https://awesomecua.com/resources/github-microsoft-cua-skill/)
 - [cua-desktop-automation-skills](https://awesomecua.com/resources/github-chrislamdev-cua-desktop-automation-skills/)
 - [Deck](https://awesomecua.com/resources/github-cofy-x-deck/)
-- [DeepDeck](https://awesomecua.com/resources/github-jo32-deepdeck/)

@@ -25,12 +25,12 @@ Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 task
 - 评测方式：Hidden test cases per task. A case passes when its functional checks pass and every visual checkpoint's flat-baseline-normalized RGB SSIM reaches 0.99. A task's reward is passed cases divided by cases, weighted equally.
 - 侧重：full-stack website reconstruction from browser exploration, without the source code, visual appearance and functional behavior of the rebuilt site
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 70 tasks — released tasks（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
-- 46,916 test cases — hidden test cases summed over the docs/tasks.md table（计算得出；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
+- 70 个任务 — released tasks（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
+- 46,916 个测试用例 — hidden test cases summed over the docs/tasks.md table（计算得出）（来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
 
 Agents run through selectable Harbor agents, so observations and actions depend on the agent. Each task requests 8 CPUs, 8 GiB of memory and 20 GiB of disk per environment, with up to 16 hours for the agent.
 

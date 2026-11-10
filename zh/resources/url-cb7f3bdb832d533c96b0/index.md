@@ -25,13 +25,13 @@ Adjacent scope: agents resolve issues by producing code patches, and every insta
 - 评测方式：Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.
 - 侧重：issue resolution in visual JavaScript/TypeScript software, interpreting screenshots and renderings in issue reports
 - 观测：repository checkout, issue text, issue and patch images
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 480 task instances — Hub test split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
-- 100 task instances — Hub dev split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
-- 612 issue-pull request pairs — dataset card prose (102 dev and 510 test from 17 repositories)（来源报告；来源：https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md）
+- 480 个任务实例 — Hub test split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
+- 100 个任务实例 — Hub dev split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
+- 612 组 issue–pull request 对 — dataset card prose (102 dev and 510 test from 17 repositories)（来源报告；来源：https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md）
 
 The released Parquet rows (100 dev, 480 test) differ from the card's prose totals (102 dev, 510 test); record the Hub revision and split with a score. The dev and test splits use disjoint repositories. Some carbon-design-system accessibility tests fetch a rule engine over the network at evaluation time, so their verdicts can vary between runs.
 

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [BLAXIN](https://awesomecua.com/zh/resources/github-tasinxxx-blaxin/)
+- [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/)
+- [Browser Operator](https://awesomecua.com/zh/resources/github-browseroperator-browser-operator-core/)
+- [Browserable](https://awesomecua.com/zh/resources/github-browserable-browserable/)
+- [BrowserBee](https://awesomecua.com/zh/resources/github-parsaghaffari-browserbee/)
 - [BRYES (Brain-Eyes)](https://awesomecua.com/zh/resources/github-alvseek-bryes/)
 - [BugCraft](https://awesomecua.com/zh/resources/url-ec17d3267cd49548d2d4/)
 - [CAAP Agent](https://awesomecua.com/zh/resources/github-caap-agent-caap-agent/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/8/
 - [LongHorizon-Harness](https://awesomecua.com/zh/resources/github-amap-ml-longhorizon-harness/)
 - [Lusipad Browser Agent](https://awesomecua.com/zh/resources/github-lusipad-browser-agent/)
 - [MacOS Agent (BIGAI)](https://awesomecua.com/zh/resources/github-computer-use-agents-macos-agent/)
-- [MAI](https://awesomecua.com/zh/resources/github-fluxaster-mai/)
-- [Mano skill](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-skill/)
-- [Mantis](https://awesomecua.com/zh/resources/github-mercurialsolo-mantis/)
-- [MERRICK](https://awesomecua.com/zh/resources/github-simoncheungai-merrick/)
-- [Midscene Java](https://awesomecua.com/zh/resources/github-alstafeev-midscene-java/)

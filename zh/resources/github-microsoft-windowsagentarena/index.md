@@ -21,11 +21,11 @@
 - 评测方式：Task configuration selects an evaluator and expected application or system outcome; evaluators return a reward for the resulting state.
 - 侧重：Windows task completion, desktop workflows
 - 观测：screenshots, accessibility information, screen-element detections
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 154 task definitions — evaluation_examples_windows/test_all.json（计算得出；来源：https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json）
+- 154 个任务定义 — evaluation_examples_windows/test_all.json（计算得出）（来源：https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json）
 
 Counted unique identifiers in the inspected manifest. Normal and hard modes differ in how much task setup the agent must perform. Record the difficulty and observation/backend configuration with each result; no VM was launched.
 

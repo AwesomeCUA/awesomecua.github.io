@@ -139,6 +139,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Embodied Agent Interface (EAI) benchmarks LLMs across goal interpretation, subgoal decomposition, action sequencing, and transition modeling.
 - [GameWorld](https://awesomecua.com/resources/github-gameworld-project-gameworld/) — Date not recorded
   GameWorld provides a standardized browser-based evaluation suite for multimodal game agents across 34 games and 170 verifiable tasks.
+- [showdown](https://awesomecua.com/resources/github-generalagents-showdown/) — Date not recorded
+  Evaluation code for the showdown-clicks benchmark: eval.py checks whether a model's predicted click on a macOS screenshot lands in the annotated bounding box, with integrations for Claude, Qwen, UI-TARS and others.
 - [VG-GUI-Bench](https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/) — Date not recorded
   A benchmark for predicting mobile GUI actions from tutorial videos, prior actions, and the current screen. It releases step annotations, videos, and reference frames.
 - [WebLINX 1.1 (WebLINX-BrowserGym)](https://awesomecua.com/resources/url-77afb3a9b045a157167c/) — Date not recorded
@@ -150,6 +152,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Training and evaluation examples for selecting GUI form actions from document content, with synthetic train, validation, and test splits plus real browser form demos.
 - [GUIrilla-Task](https://awesomecua.com/resources/url-afe8260e6db2617b72ec/) — Date not recorded
   macOS screenshots paired with generated instructions and a ground-truth click or type action on a labelled element, collected by the GUIrilla accessibility-API crawler in app-disjoint train and test splits.
+- [kuangtie/GUI-Robust](https://awesomecua.com/resources/url-369456114b26b0ff0a05/) — Date not recorded
+  Hub release of the GUI-Robust data: step screenshots with JSON annotations for GUI tasks that include seven types of real-world anomalies, scored by the GUI-Robust script for step grounding and full-task success.
 - [META-GUI dataset](https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/) — Date not recorded
   Hub release of META-GUI, task-oriented dialogues in which an agent operates mobile apps: each turn pairs the conversation with screenshots, view-hierarchy XML, recorded GUI actions and a reply.
 - [Mind2Web bbox eval (MultiUI)](https://awesomecua.com/resources/url-56b5936190d20fa3d1c1/) — Date not recorded
@@ -166,6 +170,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, presentation, handwriting and other interface tasks.
 - [UI-R1 3B training data](https://awesomecua.com/resources/url-7c568d88a472f914d316/) — Date not recorded
   The released mobile training subset for the original UI-R1 3B model, with action annotations and individual screenshot files.
+- [UI-Simulator_android_data](https://awesomecua.com/resources/url-d32dfe60eff4b87c1d05/) — Date not recorded
+  Synthetic Android agent training data from UI-Simulator: prompts pairing a goal and a simulated UI element list with next-action responses, in RAG-free, RAG-based and two UI-Simulator-Grow splits.
 - [VideoCUA](https://awesomecua.com/resources/url-78adf6919bdbce42bc24/) — Date not recorded
   Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordings with millisecond-timestamped mouse and keyboard action logs for about 10K tasks in 87 applications.
 - [WebLINX dataset](https://awesomecua.com/resources/url-1517e989c470563bd08d/) — Date not recorded
@@ -177,6 +183,10 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
 
 - [ACT-1](https://awesomecua.com/resources/url-f885d17601171253d25e/) — Date not recorded
   Adept's 2022 action transformer, previewed in demo videos of a Chrome extension that reads a custom rendering of the page and clicks, types and scrolls on its UI elements to carry out typed requests.
+- [ACT-SOP](https://awesomecua.com/resources/url-ab4587d17c4f541bb94c/) — Date not recorded
+  LoRA adapter for Llama-2-7b from MobileAgent, a mobile device control agent that adds Standard Operating Procedure (SOP) context and predicts actions on AitW screens.
+- [Aguvis-7B-720P](https://awesomecua.com/resources/url-ac62da857db91f68376b/) — Date not recorded
+  Aguvis-7B-720P, the released Aguvis checkpoint: a vision-only GUI agent model trained first for grounding and then for planning and reasoning, acting from screenshots on web, desktop and mobile.
 - [AGW-35B](https://awesomecua.com/resources/url-39e2a96f88ed3223ece9/) — Date not recorded
   A screenshot-based GUI action model fine-tuned on 79,266 synthetic interaction examples. It uses a task, current screen and recent actions to predict structured computer-use calls.
 - [AndroidGen-GLM-4-9B](https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/) — Date not recorded
@@ -187,8 +197,12 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.
 - [asil-qwen35-2b-rl](https://awesomecua.com/resources/url-d740ec821c7c466db2bf/) — Date not recorded
   An ASIL reinforcement-learning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+- [asil-qwen35-9b-rl](https://awesomecua.com/resources/url-c5cedb2f95336a8e48aa/) — Date not recorded
+  ASIL RL checkpoint of Qwen3.5-9B for operating desktop applications from JSON state observations with semantic actions written as code, trained on 320 task prompts after SFT.
 - [asil-qwen35-9b-sft](https://awesomecua.com/resources/url-9960d240939244c3edaa/) — Date not recorded
   An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+- [Auto-UI](https://awesomecua.com/resources/url-952cb4c3f308418aa85b/) — Date not recorded
+  Trained Auto-UI checkpoints and BLIP-processed AITW features for a chain-of-action agent that predicts device actions from screenshots, previous actions and planned future actions.
 - [CogAgent 9B 20241220](https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/) — Date not recorded
   A bilingual GLM-4V-based execution model that uses screenshots, task instructions and action history to predict GUI operations.
 - [cogagent-vqa-hf](https://awesomecua.com/resources/url-64d0220e17b4e67485f3/) — Date not recorded
@@ -215,6 +229,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   DeskMind Brain provides local models that choose the next macOS desktop action and return probabilities for typed decisions about targets and task completion.
 - [espetro/htlm-lfm2.5-350m](https://awesomecua.com/resources/url-df38112df002157ce4b0/) — Date not recorded
   A fine-tuned LFM2.5-350M model that selects click, type, or select actions from an instruction and indexed web elements, with a GGUF file for browser inference.
+- [GELab-Engine-7B](https://awesomecua.com/resources/url-41b685bbd42fbd4732da/) — Date not recorded
+  Qwen2.5-VL 7B checkpoint released with GUI Exploration Lab, a synthetic GUI environment of screens linked by a navigation graph, where agents learn screen navigation through SFT, single-turn RL and multi-turn RL.
 - [Gemini 2.5 Computer Use](https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/) — Date not recorded
   Preview Google DeepMind model built on Gemini 2.5 Pro and post-trained for UI control, returning browser and mobile actions from screenshots and recent action history through the Gemini API computer_use tool.
 - [GroundingPI](https://awesomecua.com/resources/github-groundingpi-groundingpi/) — Date not recorded
@@ -435,6 +451,10 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Supervised Qwen3.5-9B checkpoint from THUDM's ScaleCUA, released as the start point that online RL initializes from for its ScienceBoard computer-use agent.
 - [ScaleCUA 7B](https://awesomecua.com/resources/url-ff7b1873a3eead89607a/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent action modes across desktop, mobile and web interfaces.
+- [ScreenAgent](https://awesomecua.com/resources/url-92b5cb08491c09243b72/) — Date not recorded
+  ScreenAgent-2312 weights in SAT format, a CogAgent-based vision-language model that drives the ScreenAgent environment, issuing mouse and keyboard actions over VNC in plan, act and reflect stages.
+- [SeeClick-aitw](https://awesomecua.com/resources/url-a4b101913db4b3673a2b/) — Date not recorded
+  SeeClick visual GUI agent checkpoint fine-tuned on Android in the Wild (AITW) episodes and scored on the AITW test set by action matching with the SeeClick agent-task scripts.
 - [Seed1.5-VL](https://awesomecua.com/resources/github-bytedance-seed-seed1-5-vl/) — Date not recorded
   ByteDance Seed vision-language foundation model served by API, whose repository provides cookbooks including GUI-agent prompts for computer and mobile use with click, drag, hotkey, typing and scroll actions.
 - [sharryXR/asil-qwen35-2b-sft](https://awesomecua.com/resources/url-d59976834d3d0d3a1809/) — Date not recorded
@@ -443,6 +463,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.
 - [ShowUI-π checkpoint](https://awesomecua.com/resources/url-f70aa7c95824a8729516/) — Date not recorded
   A compact visual-action checkpoint that predicts continuous GUI drag trajectories from a screenshot and a natural-language instruction.
+- [SmolVLM2-2.2B-Instruct-Agentic-GUI](https://awesomecua.com/resources/url-915e40f18b217ac63fc6/) — Date not recorded
+  SmolVLM2-2.2B-Instruct fine-tuned in two phases on the aguvis-stage-1 and aguvis-stage-2 datasets to locate screen elements and emit GUI actions as function calls. The authors report 61% on ScreenSpot-v2.
 - [SpiritSight-Agent-2B](https://awesomecua.com/resources/url-37570eed422d326bfa5a/) — Date not recorded
   A 2B vision-based GUI agent checkpoint for interface navigation across GUI platforms, released with an inference script and base-model information.
 - [STEVE-R1-7B-SFT](https://awesomecua.com/resources/url-666844c28be1138b0e37/) — Date not recorded
@@ -473,12 +495,16 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   SFT-labelled 7B UI-TARS checkpoint: a native GUI agent model in the Qwen2-VL architecture, stored in FP32, for screen perception, element grounding and multi-step actions on web, mobile and desktop.
 - [UI-Venus-Navi-72B](https://awesomecua.com/resources/url-80ec6c9a43360adbbc6b/) — Date not recorded
   A Qwen2.5-VL-based UI checkpoint for predicting navigation actions and locating interface elements from screenshots, trained with reinforcement fine-tuning.
+- [UIShift-7B-2K](https://awesomecua.com/resources/url-0dcc389cc2b1b15fb081/) — Date not recorded
+  UIShift-7B, the initial GUI-Shift model: a Qwen2.5-VL model trained with GRPO on 2K AndroidControl samples to infer which action led from one screenshot to the next.
 - [UIX-Qwen2-Mind2Web](https://awesomecua.com/resources/url-592e434848a1514efef0/) — Date not recorded
   UIX-Qwen2 further fine-tuned on the Mind2Web training set; the MultiUI paper evaluates it on predicting the next web action from a screenshot, the task and previous actions.
 - [V-Droid-8B-0323](https://awesomecua.com/resources/url-82adab61eb515398da48/) — Date not recorded
   A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.
 - [VeriOS-Agent-32B](https://awesomecua.com/resources/url-97040677a731edfedc2d/) — Date not recorded
   VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-VL-32B. It is released with model weights for the interaction approach described in the VeriOS paper.
+- [VideoAgentTrek-IDM-s2-7B](https://awesomecua.com/resources/url-2e88b52ca1717a28fd32/) — Date not recorded
+  Action identification model in the VideoAgentTrek Video2Action pipeline, which recovers GUI actions such as clicks and typed text from screen-recorded tutorial videos to build computer-use training trajectories.
 - [ZHEN-04/CaptchaAgent](https://awesomecua.com/resources/url-fb67af38dce972b398c3/) — Date not recorded
   ZHEN-04/CaptchaAgent is a 9B computer-use policy trained on interactive CAPTCHA trajectories. It maps screenshots to tool calls and provides SFT and reinforcement-learning checkpoints.
 
@@ -516,6 +542,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Swift package for local computer use on Apple silicon that reads forms in running Mac apps or browsers through the Accessibility API and fills them with on-device Core ML decision models.
 - [Game AI - Dome Keeper](https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/) — Date not recorded
   A game-playing agent for Dome Keeper that combines computer vision and a language model. Its active mod is written in TypeScript and converted to GDScript.
+- [globot](https://awesomecua.com/resources/github-globe-engineer-globot/) — Date not recorded
+  A Python browser agent that drives Chromium through Playwright, turns the DOM snapshot into numbered clickable and input elements, and has an OpenAI model pick click, type, scroll or back actions.
 - [GUI Reflection](https://awesomecua.com/resources/github-penghao-wu-gui-reflection/) — Date not recorded
   GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
 - [GUI-Shift](https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/) — Date not recorded
@@ -542,6 +570,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   A SeeAct-V web agent implementation for Mind2Web-Live. It uses screen images to plan actions and a visual grounding model to locate targets for coordinate-based actions.
 - [Minecraft-RL](https://awesomecua.com/resources/github-otsolappalainen-minecraft-rl/) — Date not recorded
   Trains Proximal Policy Optimization (PPO) agents over visual frame buffers and action sockets in parallel Minecraft environments.
+- [MM-Navigator](https://awesomecua.com/resources/github-zzxslp-mm-navigator/) — Date not recorded
+  Example code for the GPT-4V smartphone navigation study: a prompt builder that sends raw and number-tagged screenshots plus action history to GPT-4V for the next Android action, and an action-matching evaluation script.
 - [Octopus](https://awesomecua.com/resources/github-dongyh20-octopus/) — Date not recorded
   Octopus is a vision-language programmer agent trained with environmental feedback to generate executable control code in GTA and Gibson worlds.
 - [Open Interface](https://awesomecua.com/resources/github-ambersahdev-open-interface/) — Date not recorded

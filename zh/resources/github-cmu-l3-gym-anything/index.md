@@ -25,14 +25,14 @@ Official code of the Gym-Anything paper. The README describes three parts that c
 - 评测方式：Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
 - 侧重：long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
 - 观测：screen frames, UI tree (some macOS environments)
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 200 software applications — applications processed into CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
-- > 10,000 long-horizon tasks — CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
-- 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
-- 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
+- 200 个软件应用 — applications processed into CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
+- > 10,000 个长程任务 — CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
+- 7,150 个任务 — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出）（来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
+- 191 个环境 — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出）（来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
 
 The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.
 

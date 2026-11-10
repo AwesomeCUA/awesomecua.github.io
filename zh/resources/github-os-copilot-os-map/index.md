@@ -25,11 +25,11 @@ Public task manifests, agent runner and evaluator code are present, and the link
 - 评测方式：Task configurations provide evaluators for application/system state, using an OSWorld-derived runtime.
 - 侧重：breadth of desktop task coverage, depth of desktop task execution
 - 观测：desktop observations from an Ubuntu virtual machine
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 416 category/task references — evaluation_examples/all.json（计算得出；来源：https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/evaluation_examples/all.json）
+- 416 个类别/任务引用 — evaluation_examples/all.json（计算得出）（来源：https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/evaluation_examples/all.json）
 
 416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.
 

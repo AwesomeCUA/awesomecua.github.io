@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [Plip OSS](https://awesomecua.com/zh/resources/github-hussainn7-plip-oss/)：开源 macOS 刘海区域助手和运行时，面向具备可验证动作预览、与模型无关的定位型计算机使用智能体。
+- [Polyform a11y-guide](https://awesomecua.com/zh/resources/github-polyform-ai-a11y-guide/)：同时面向辅助技术和 AI 浏览器智能体设计的语义无障碍页面引导层。
+- [Praefectus](https://awesomecua.com/zh/resources/github-tschk-praefectus/)：用于经主机授权的后台计算机使用执行的策略中立 Rust 库和 JSON CLI。
 - [PRAXOVELA](https://awesomecua.com/zh/resources/github-axisvela-praxovela-open/)：可治理、以本地优先的桌面智能体运行时，支持策略执行和可审计的执行轨迹。
 - [PreAct](https://awesomecua.com/zh/resources/github-19pine-ai-preact/)：PreAct 将重复的计算机使用智能体轨迹编译为缓存的动作图，并通过轻量级视觉验证加快执行。
 - [ProfileFleet](https://awesomecua.com/zh/resources/github-enginefuture-profilefleet/)：优先在本地运行的 TypeScript 编排平台，用于跨 AI 智能体管理持久化的指纹浏览器配置文件。
@@ -34,7 +37,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English
 - [reverseloom](https://awesomecua.com/zh/resources/github-kuichi-x-reverseloom/)：AI 浏览器智能体框架，检查实时网页流量，将网站协议逆向解析为无需浏览器的 Python 爬虫。
 - [Ringlight WebMCP](https://awesomecua.com/zh/resources/github-doom2quake-ringlight/)：WebMCP 调查控制台，浏览器智能体可在人工审查下，跨实时网页视图追踪实体图谱。
 - [RishabhP1508 Understudy](https://awesomecua.com/zh/resources/github-rishabhp1508-understudy/)：将 LLM 驱动的单次传统 UI 探索记录为类型化能力产物，以便在不使用 LLM 的情况下确定性重放。
-- [RLVR-World](https://awesomecua.com/zh/resources/github-thuml-rlvr-world/)：RLVR-World 使用可验证强化学习训练世界模型，预测网页和游戏智能体的状态转移。
 - [robotsix-browser](https://awesomecua.com/zh/resources/github-damien-robotsix-robotsix-browser/)：面向 AI 智能体的交互式 Playwright 无头浏览器及表单填写 HTTP 服务。
 - [rotary (rx4)](https://awesomecua.com/zh/resources/github-tschk-rotary/)：Rust 智能体框架引擎，提供工具循环、会话持久化、权限门控、计算机使用基础功能和 MCP 支持。
 - [rote](https://awesomecua.com/zh/resources/github-bhuvanb3110-rote/)：面向缺少 API 的旧式银行和后台网页应用的计算机使用自动化框架，支持录制一次、多次重放。
@@ -102,5 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English
 - [TongUI training and inference framework](https://awesomecua.com/zh/resources/github-tongui-agent-tongui-agent/)：提供基于教程训练的 GUI 模型的训练配置、预处理和推理示例，包括 LLaMA-Factory 微调流程及截图定位接口。
 - [ToolGen](https://awesomecua.com/zh/resources/github-reason-wang-toolgen/)：ToolGen 将外部工具表示为虚拟词表 token，通过自回归生成统一大规模工具检索与执行。
 - [ToolTok](https://awesomecua.com/zh/resources/github-zephinuecode-tooltok/)：ToolTok 引入原子化的方向性光标移动词元，用于在 ScreenSpot 和 ScreenSpot-Pro 上进行多步迭代式 GUI 视觉定位。
-- [TopoClaw](https://awesomecua.com/zh/resources/github-madeagents-topoclaw/)：TopoClaw 是具备拓扑感知能力的多智能体数字助手，支持技能验证，并在桌面、网页和移动端执行沙箱化操作。
-- [Touchline](https://awesomecua.com/zh/resources/github-edenbuilds-touchline/)：多智能体浏览器团队，基于证据检查网站并重建前端。

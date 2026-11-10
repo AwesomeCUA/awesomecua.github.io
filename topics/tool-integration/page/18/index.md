@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/18/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [opencode-mobile-use](https://awesomecua.com/resources/github-system1970-opencode-mobile-use/)
+- [opencode-webmcp](https://awesomecua.com/resources/github-enihcam-opencode-webmcp/)
+- [OpenControl](https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/)
 - [OpenDesk](https://awesomecua.com/resources/github-shopable-ai-opendesk/)
 - [OpenDesk](https://awesomecua.com/resources/github-vitalops-opendesk/)
 - [OpenHands](https://awesomecua.com/resources/github-openhands-openhands/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [pi-iphone-mirroring](https://awesomecua.com/resources/github-aniruddha-adhikary-pi-iphone-mirroring/)
 - [pi-playwright-browser](https://awesomecua.com/resources/github-sunnybharne-pi-playwright-browser/)
 - [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/resources/github-333-wg-pi-wm/)
-- [Pilos Agents](https://awesomecua.com/resources/github-pilos-ai-agents/)
-- [Pilot MCP Chrome Extension](https://awesomecua.com/resources/github-xiachaoxia-glitch-pilot-mcp-extension/)
-- [pinchtab-mcp](https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/)

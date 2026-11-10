@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/efficiency/page/8/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/)
+- [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
+- [Kitewright](https://awesomecua.com/resources/github-kitewright-kitewright/)
+- [lean-chronoscope-mcp](https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/)
+- [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/)
 - [Legacy UI Capability Engine](https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/)
 - [LegacyBridge](https://awesomecua.com/resources/github-peterhaupt-legacybridge/)
 - [Lightfeed Replayable Browser Agent](https://awesomecua.com/resources/github-lightfeed-browser-agent/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [PhoneCLI](https://awesomecua.com/resources/github-hkuds-phonecli/)
 - [Pi Jev Browser](https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/)
 - [pixelpi](https://awesomecua.com/resources/github-josharsh-pixelpi/)
-- [Plasmate](https://awesomecua.com/resources/github-plasmate-labs-plasmate/)
-- [Playwright CLI](https://awesomecua.com/resources/github-microsoft-playwright-cli/)
-- [POK-Agent](https://awesomecua.com/resources/github-acekorneya-pok-agent/)
-- [PreAct](https://awesomecua.com/resources/github-19pine-ai-preact/)
-- [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/)

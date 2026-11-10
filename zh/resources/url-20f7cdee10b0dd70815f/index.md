@@ -28,12 +28,12 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 
 ### 数量记录
 
-- 2,685 trajectories — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
-- ≈ 36,000 steps — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
-- 10 application categories — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
-- 2,685 task.json trajectory files — Hub manifest at revision 92ef5917（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
-- 38,283 PNG screenshot files — Hub manifest at revision 92ef5917（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
-- 245 distinct OSWorld task IDs in trajectory folder names — Hub manifest at revision 92ef5917, matched against OSWorld test_all.json（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
+- 2,685 条轨迹 — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
+- ≈ 36,000 步 — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
+- 10 个应用类别 — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
+- 2,685 个 task.json 轨迹文件 — Hub manifest at revision 92ef5917（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
+- 38,283 个 PNG 截图文件 — Hub manifest at revision 92ef5917（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
+- 245 个不重复的 OSWorld 任务 ID（取自轨迹文件夹名称） — Hub manifest at revision 92ef5917, matched against OSWorld test_all.json（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
 
 Trajectories, steps, application categories, files and task IDs are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1920x1080 screen. No train/test split is declared.
 

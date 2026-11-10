@@ -25,11 +25,11 @@ The maintainer README identifies MiniWoB++ as the extension introduced in the 20
 - 评测方式：未记录
 - 侧重：small web interaction tasks
 - 观测：task instructions, screenshots, visible DOM-element attributes
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- > 100 web environments — README collection size（来源报告；来源：https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md）
+- > 100 个 Web 环境 — README collection size（来源报告；来源：https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md）
 
 The README gives a lower bound for the active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. The repository is in maintenance mode.
 

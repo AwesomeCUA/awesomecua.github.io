@@ -21,7 +21,7 @@ ScreenSpot 定位测试集的第二版，由 OS-Copilot 发布，桌面、移动
 - 评测方式：The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.
 - 侧重：single-step GUI grounding on the ScreenSpot-v2 release
 - 观测：screenshot, instruction
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 

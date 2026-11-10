@@ -402,6 +402,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Gated Hub release of the OSWorld 2.0 benchmark's Python task classes, which hold task setup and evaluator logic kept out of the public code to limit leakage and are pinned per benchmark release.
 - [OSWorld 2.0 trajectories](https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/) — Date not recorded
   XLang's gated release of OSWorld 2.0 agent runs: 21 ZIP result archives named by model and run settings, plus per-task trajectory JSONL, step screenshots, results and logs for seven model runs.
+- [osworld_v2_assets_gated](https://awesomecua.com/resources/url-3de50fa3eee0081d31ac/) — Date not recorded
+  Gated Hub snapshot of the task assets for the OSWorld 2.0 computer-use benchmark, such as setup files and ground-truth files, downloaded locally and pinned per benchmark release before tasks run.
 - [VeriGUI](https://awesomecua.com/resources/url-8477ada5b7de1d399c9d/) — Date not recorded
   VeriWeb dataset of 302 web information-seeking tasks, with annotated subtasks, human action logs, and execution videos for evaluating long-chain agents.
 

@@ -19,6 +19,7 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [AutoDroid V2 training data](https://awesomecua.com/resources/url-9a3506ca6ef034adb424/)
 - [AutoGUI-v1-zip](https://awesomecua.com/resources/url-02370867dd4b96000a33/)
 - [CAGUI](https://awesomecua.com/resources/url-a06622da7688e3718a7b/)
+- [CaptchaArena-Trajectories](https://awesomecua.com/resources/url-52067b3e48e9381e4c66/)
 - [ChilleD/WildAWM](https://awesomecua.com/resources/url-eb8af3be965f5c0fde6a/)
 - [Click-100k](https://awesomecua.com/resources/url-bf847949766b2b257d1c/)
 - [CMGUI](https://awesomecua.com/resources/url-ab26f9ef56d651cee587/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/)
 - [InSTA 150k Tasks (v3)](https://awesomecua.com/resources/url-a80c7330dbfd4f897693/)
 - [James4Ever0/the_frozen_forest](https://awesomecua.com/resources/url-ede673f7e6f369eae600/)
-- [Jedi](https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/)

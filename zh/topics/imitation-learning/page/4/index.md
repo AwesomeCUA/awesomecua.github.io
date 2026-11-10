@@ -4,6 +4,14 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/imitation-learning/index.md
 
+- [Protean](https://awesomecua.com/zh/resources/github-aibrain-mnemis-protean/)
+- [record-and-replay-skill](https://awesomecua.com/zh/resources/github-ugarchance-record-and-replay-skill/)
+- [Replay (Teach-by-Demonstration)](https://awesomecua.com/zh/resources/github-misb74-replay/)
+- [RishabhP1508 Understudy](https://awesomecua.com/zh/resources/github-rishabhp1508-understudy/)
+- [ScribeAgent](https://awesomecua.com/zh/resources/github-colonylabs-scribeagent/)
+- [Smol2Operator](https://awesomecua.com/zh/resources/github-huggingface-smol2operator/)
+- [Synapse](https://awesomecua.com/zh/resources/github-ltzheng-synapse/)
+- [Taprun (tap)](https://awesomecua.com/zh/resources/github-leonting1010-tap/)
 - [TeachReplay](https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay/)
 - [TongUI training and inference framework](https://awesomecua.com/zh/resources/github-tongui-agent-tongui-agent/)
 - [UI-Genie](https://awesomecua.com/zh/resources/github-euphoria16-ui-genie/)

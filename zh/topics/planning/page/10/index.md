@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [ToolCUA](https://awesomecua.com/zh/resources/github-x-plug-toolcua/)
+- [Turan AI](https://awesomecua.com/zh/resources/github-aykutkrm67-turan-ai/)
+- [TuriX-CUA](https://awesomecua.com/zh/resources/github-turixai-turix-cua/)
+- [Two-Layer macOS GUI Agent](https://awesomecua.com/zh/resources/github-eauchs-gui-agent/)
+- [UFO](https://awesomecua.com/zh/resources/github-microsoft-ufo/)
 - [UiPath ScreenPlay](https://awesomecua.com/zh/resources/url-b09d10b87e42b7e74de9/)
 - [VillagerAgent & VillagerBench](https://awesomecua.com/zh/resources/github-cnsdqd-dyb-villageragent/)
 - [VisionTasker](https://awesomecua.com/zh/resources/github-akimotoayako-visiontasker/)

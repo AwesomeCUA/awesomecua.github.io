@@ -21,12 +21,12 @@
 - 评测方式：Execution-based completion checks for visually grounded web tasks.
 - 侧重：multimodal web task completion
 - 观测：screenshots with set-of-mark annotations, caption-augmented accessibility tree
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 910 tasks — full VWA suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
-- 233 human trajectories — one task from each template type（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
+- 910 个任务 — full VWA suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
+- 233 条人工轨迹 — one task from each template type（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
 
 The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
 

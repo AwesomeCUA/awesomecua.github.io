@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/11/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [computer-use-linux](https://awesomecua.com/resources/github-agent-sh-computer-use-linux/)
+- [computer-use-mcp](https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/)
+- [ComputerUse](https://awesomecua.com/resources/github-lakr233-computeruse/)
+- [Control-Agent](https://awesomecua.com/resources/github-gekaixing-control-agent/)
+- [CrossHands](https://awesomecua.com/resources/github-caelaxie-crosshands/)
+- [cu (Native GUI Automation CLI)](https://awesomecua.com/resources/github-killsng-cu/)
+- [cua-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/)
 - [Cursor Companion (MacScreenCompanion)](https://awesomecua.com/resources/github-pradyut-das-macscreencompanion/)
 - [CyberRaccoon](https://awesomecua.com/resources/github-chaoticpixelio-cyberraccoon/)
 - [dcc-cua](https://awesomecua.com/resources/github-dcc-mcp-dcc-cua/)
@@ -57,10 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [Frigate](https://awesomecua.com/resources/github-rao-studios-frigate/)
 - [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/)
 - [Fuji-Web](https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/)
-- [Game AI - Balatro](https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/)
-- [Game AI - Dome Keeper](https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/)
-- [GAZE](https://awesomecua.com/resources/github-kevintrinhdev-gaze/)
-- [gcv](https://awesomecua.com/resources/github-vcaesar-gcv/)
-- [GenPark DOM Accessibility Tree Pruner Skill](https://awesomecua.com/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/)
-- [Geohotstan DSH Codex Computer Use](https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/)
-- [GERALLT](https://awesomecua.com/resources/github-dlr-sc-gerallt/)

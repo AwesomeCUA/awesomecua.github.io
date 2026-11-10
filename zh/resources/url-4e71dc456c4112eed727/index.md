@@ -28,9 +28,9 @@ The card declares MIT and attributes the source examples to GroundCUA.
 
 ### 数量记录
 
-- 12,600 prompts — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
-- 11,205 screenshots — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
-- 87 desktop applications — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
+- 12,600 条提示词 — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
+- 11,205 张截图 — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
+- 87 个桌面应用 — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
 
 Publisher-reported counts cover a selection and reformatting of GroundCUA. No independent image-overlap audit was performed.
 

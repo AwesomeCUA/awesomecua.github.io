@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/7/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [TopoClaw](https://awesomecua.com/zh/resources/github-madeagents-topoclaw/)：TopoClaw 是具备拓扑感知能力的多智能体数字助手，支持技能验证，并在桌面、网页和移动端执行沙箱化操作。
+- [Touchline](https://awesomecua.com/zh/resources/github-edenbuilds-touchline/)：多智能体浏览器团队，基于证据检查网站并重建前端。
 - [Touchpoint](https://awesomecua.com/zh/resources/github-touchpoint-labs-touchpoint/)：Touchpoint 是跨平台桌面无障碍 API 和 MCP 服务器，为 AI 智能体提供统一的 UI 检查与控制能力。
 - [TraceFact](https://awesomecua.com/zh/resources/github-alex0ai-tracefact/)：面向编程和浏览器智能体、以证据为先的可靠性报告与确定性回放框架。
 - [TreeCUA](https://awesomecua.com/zh/resources/github-uitron-hub-treecua/)：通过树状探索和验证生成 GUI 操作轨迹的框架。
@@ -18,6 +20,7 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/7/ · [English
 - [Unattended Android Automation Toolkit](https://awesomecua.com/zh/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/)：面向无人值守 Android 应用自动化、崩溃恢复和 UI 状态采集的可靠性优先构建组件。
 - [Understudy](https://awesomecua.com/zh/resources/github-understudy-ai-understudy/)：Understudy 观察人类在桌面和浏览器中的操作演示，并将其编译为可参数化、可重放的计算机使用技能。
 - [Universal AI Studio (OmniAI Desktop)](https://awesomecua.com/zh/resources/github-osamalvzx-universal-ai-studio/)：一体化桌面 AI 工作室，集成多模型 LLM 聊天、计算机使用和浏览器自动化。
+- [UXAgent](https://awesomecua.com/zh/resources/url-2f73fe78c423e263d451/)：一套可用性测试系统：生成模拟用户画像，让大模型智能体通过浏览器连接器在目标网站上完成任务，并在结果查看界面中展示其问卷回答与操作日志。
 - [V-Droid](https://awesomecua.com/zh/resources/github-v-droid-agent-v-droid/)：V-Droid 将移动端 GUI 执行者与生成式验证器配对，在 Android 设备上执行候选动作前为其评分。
 - [VACT (Vector Agent Context Transport)](https://awesomecua.com/zh/resources/github-fy2ne-vact/)：面向桌面计算机使用智能体的高频 GPU 屏幕感知和低延迟输入传输协议。
 - [vco (Visual Computer Operate)](https://awesomecua.com/zh/resources/github-lo2589-vco/)：由 Shell 驱动的可视化计算机使用工具包，使 LLM 能够查看和点击网页及桌面屏幕。

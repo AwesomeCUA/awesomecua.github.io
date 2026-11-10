@@ -21,12 +21,12 @@
 - 评测方式：未记录
 - 侧重：instruction-conditioned product selection, web navigation
 - 观测：HTML pages, simplified text views
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 12,087 instructions — crowd-sourced instruction collection（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
-- ≈ 1,180,000 products — full product inventory（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
+- 12,087 条指令 — crowd-sourced instruction collection（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
+- ≈ 1,180,000 个产品 — full product inventory（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
 
 This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
 

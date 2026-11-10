@@ -28,7 +28,7 @@ The card describes this as a subset of a collection of about 80k preprocessed ex
 
 ### 数量记录
 
-- 24,978 rows — train split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md）
+- 24,978 行 — train split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md）
 
 The row count comes from the card's dataset_info metadata; rows count labeled element examples, a separate unit from unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.
 

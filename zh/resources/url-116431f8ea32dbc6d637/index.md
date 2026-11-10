@@ -28,10 +28,10 @@ The publisher's cleaned v2 release is a separate Hub repository (webagentlab/web
 
 ### 数量记录
 
-- 31,725 trajectories — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
-- 317,993 interaction steps — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
-- 428 web domains — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
-- 13 Parquet files — processed/high_parquet (2) and processed/low_parquet (11) at revision bd569907（计算得出；来源：https://huggingface.co/api/datasets/webagentlab/webchain-legacy）
+- 31,725 条轨迹 — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
+- 317,993 个交互步骤 — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
+- 428 个 Web 领域 — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
+- 13 个 Parquet 文件 — processed/high_parquet (2) and processed/low_parquet (11) at revision bd569907（计算得出）（来源：https://huggingface.co/api/datasets/webagentlab/webchain-legacy）
 
 Trajectories, steps, domains and files are different units and are counted separately. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest.
 

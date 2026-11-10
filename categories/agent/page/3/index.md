@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/categories/agent/page/3/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/resources/github-calebnewtonusc-nova/)
+- [Cappuccino](https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/)
 - [Cetus](https://awesomecua.com/resources/github-drewnekota-cetus/)
 - [ChromeClaw](https://awesomecua.com/resources/github-algopian-chromeclaw/)
 - [Claude Computer Use Demo for macOS](https://awesomecua.com/resources/github-pallavag-claude-computer-use-macos/)
@@ -70,6 +72,7 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [GlassBrowser](https://awesomecua.com/resources/github-lzw12w-glass-browser/)
 - [Goby](https://awesomecua.com/resources/github-juguang-goby/)
 - [Gofer](https://awesomecua.com/resources/github-jleuth-gofer/)
+- [GPTVoiceTasker](https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/)
 - [gui-agent](https://awesomecua.com/resources/github-waynchi-gui-agent/)
 - [GUI-explorer](https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/)
 - [GUI-Rise](https://awesomecua.com/resources/github-leon022-gui-rise-code/)
@@ -101,6 +104,3 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)
 - [Job Hunter AI](https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/)
 - [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
-- [Kirk Engine](https://awesomecua.com/resources/url-80c8abf734a29f7affc5/)
-- [Kota-Kawa Browser-Agent](https://awesomecua.com/resources/github-kota-kawa-browser-agent/)
-- [Kushatish AI Browser Copilot](https://awesomecua.com/resources/github-kushatish-ai-browser-copilot/)

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [DistRL](https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/)
+- [DOMShell](https://awesomecua.com/zh/resources/github-apireno-domshell/)
+- [DrishtiGuard](https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/)
+- [Drisp Browser MCP](https://awesomecua.com/zh/resources/github-drisplabs-browser-mcp/)
+- [dsh-vision-click](https://awesomecua.com/zh/resources/github-zdd3143-dsh-vision-click/)
 - [DXcam](https://awesomecua.com/zh/resources/github-ra1nty-dxcam/)
 - [ecobrowser (ai-browser)](https://awesomecua.com/zh/resources/github-haidaresber-ai-browser/)
 - [ESP (Echo-Skeleton Perception)](https://awesomecua.com/zh/resources/github-badtheorylabs-esp/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/7/
 - [jev-browser](https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/)
 - [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)
 - [jev-use](https://awesomecua.com/zh/resources/github-savka777-jev-use/)
-- [jev-windows-agent](https://awesomecua.com/zh/resources/github-vbs2004-jev-windows-agent/)
-- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
-- [Kitewright](https://awesomecua.com/zh/resources/github-kitewright-kitewright/)
-- [lean-chronoscope-mcp](https://awesomecua.com/zh/resources/github-yyhezkel-lean-chronoscope-mcp/)
-- [lean-computer-use-mcp](https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/)

@@ -25,12 +25,12 @@ Code for the OSReward paper; the trajectories themselves are released separately
 - 评测方式：Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.
 - 侧重：reliability of VLM judges and reward models on computer-use trajectories, binary success verdicts
 - 观测：task instruction, full thought and action history, last five screenshots with red action-point markers (default)
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,019 trajectories — OSReward Full split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
-- 284 trajectories — OSReward Hard split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
+- 1,019 条轨迹 — OSReward Full split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
+- 284 条轨迹 — OSReward Hard split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
 
 Counts are as the README reports them for the Hugging Face release. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.
 

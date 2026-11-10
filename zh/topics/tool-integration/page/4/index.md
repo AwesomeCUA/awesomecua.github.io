@@ -4,7 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [SWEeper-Bench-traces](https://awesomecua.com/zh/resources/url-54907fd6dc968eaced34/)
 - [asil-qwen35-2b-rl](https://awesomecua.com/zh/resources/url-d740ec821c7c466db2bf/)
+- [asil-qwen35-9b-rl](https://awesomecua.com/zh/resources/url-c5cedb2f95336a8e48aa/)
 - [asil-qwen35-9b-sft](https://awesomecua.com/zh/resources/url-9960d240939244c3edaa/)
 - [GLM-4.6V](https://awesomecua.com/zh/resources/url-17d4fdd26efe4e3b9e05/)
 - [GLM-4.6V-Flash](https://awesomecua.com/zh/resources/url-e01fe95f620b699bb00d/)
@@ -35,6 +37,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/4/
 - [MAI-UI 2B](https://awesomecua.com/zh/resources/url-4b6d61ff2c1d6c8e1a23/)
 - [MAI-UI 8B](https://awesomecua.com/zh/resources/url-00b1a3abf9bcb424b264/)
 - [mPLUG/ToolCUA-8B](https://awesomecua.com/zh/resources/url-44b65e07d7a869d37dc6/)
+- [Muse Spark 1.1](https://awesomecua.com/zh/resources/url-f8a956094e526a92caf3/)
 - [Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16](https://awesomecua.com/zh/resources/url-ddb5d413e19be8a4416e/)
 - [OpenMobile-2 27B](https://awesomecua.com/zh/resources/url-1611de0e6d606165d12d/)
 - [OpenMobile-2 9B](https://awesomecua.com/zh/resources/url-d35224f787e7ec21ce36/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/4/
 - [Accio Computer Use](https://awesomecua.com/zh/resources/github-accio-org-accio-cu/)
 - [Accio Work](https://awesomecua.com/zh/resources/url-07f92766e53439739eab/)
 - [AClaw](https://awesomecua.com/zh/resources/github-magnusdot-aclaw/)
-- [Active Desktop Context Engine](https://awesomecua.com/zh/resources/github-amirf147-active-desktop-context-engine/)
-- [activity-frames](https://awesomecua.com/zh/resources/github-nossa-y-activity-frames/)
-- [ACUTE-CODE](https://awesomecua.com/zh/resources/github-testplay-byte-acute-code/)

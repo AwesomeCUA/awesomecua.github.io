@@ -465,6 +465,10 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Instruct variant of the 8B GUI-Owl 1.5 native GUI agent model, built on Qwen3-VL and released with Mobile-Agent-v3.5 for desktop, mobile and browser control, with about 8.8B BF16 parameters under MIT.
 - [GUI-Owl 1.5 8B Think](https://awesomecua.com/resources/url-374138c6e18c9f1dd44a/) — Date not recorded
   Thinking variant of the 8B GUI-Owl 1.5 native GUI agent model, built on Qwen3-VL and released with Mobile-Agent-v3.5 for desktop, mobile and browser control, with about 8.8B BF16 parameters under MIT.
+- [lora_qformer_test_V4-700_merged](https://awesomecua.com/resources/url-8a5201470d27334977fa/) — Date not recorded
+  Qwen2.5-VL-7B-Instruct merged with the CoMEM memory module, which compresses past GUI trajectories into 8 continuous embeddings through a LoRA-tuned Q-Former, for web agent tasks.
+- [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/resources/url-b144605ae24674ffb917/) — Date not recorded
+  UI-TARS-V1.5-7B checkpoint with CoMEM continuous memory merged in, where a LoRA-tuned Q-Former compresses retrieved GUI trajectories into fixed-length embeddings for the web agent.
 
 ## Engineering & industry
 

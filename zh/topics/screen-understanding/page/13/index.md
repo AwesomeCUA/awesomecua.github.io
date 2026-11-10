@@ -4,6 +4,14 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/13/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
+- [LongHorizonUI](https://awesomecua.com/zh/resources/github-kane2kang-longhorizonui/)
+- [look-decide-act](https://awesomecua.com/zh/resources/github-ivanposel-look-decide-act/)
+- [Lucy Screen Agent](https://awesomecua.com/zh/resources/github-alzin-lucy-screen-agent/)
+- [MaaFramework](https://awesomecua.com/zh/resources/github-maaxyz-maaframework/)
+- [mac-use-mcp](https://awesomecua.com/zh/resources/github-antbotlab-mac-use-mcp/)
+- [MacControlKit](https://awesomecua.com/zh/resources/github-tzafon-maccontrolkit/)
+- [macMCP](https://awesomecua.com/zh/resources/github-erwinzhang7-macmcp/)
+- [macOS Computer Use MCP Server (33 Tools)](https://awesomecua.com/zh/resources/github-syedazharmbnr1-computer-use-mcp/)
 - [macOS Visual Agent](https://awesomecua.com/zh/resources/github-peakmojo-macos-visual-agent/)
 - [macOS-MCP](https://awesomecua.com/zh/resources/github-cursortouch-macos-mcp/)
 - [macOS-use](https://awesomecua.com/zh/resources/github-browser-use-macos-use/)
@@ -56,11 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/13/
 - [Ocular](https://awesomecua.com/zh/resources/github-guatxlabs-ocular/)
 - [Odin](https://awesomecua.com/zh/resources/github-madanlalit-odin/)
 - [Offhand](https://awesomecua.com/zh/resources/github-humzakhan-offhand/)
-- [Okno Windows Computer Use MCP](https://awesomecua.com/zh/resources/github-vitalcc55-okno/)
-- [Omarchy OMCP](https://awesomecua.com/zh/resources/github-btsouth-omarchy-omcp/)
-- [Ommatix](https://awesomecua.com/zh/resources/github-yosoyepa-ommatix/)
-- [omni-computer-use](https://awesomecua.com/zh/resources/github-jason26214-omni-computer-use/)
-- [OmniAgent](https://awesomecua.com/zh/resources/github-momo-null-omniagent/)
-- [OmniInfer](https://awesomecua.com/zh/resources/github-omnimind-ai-omniinfer/)
-- [OmniParser](https://awesomecua.com/zh/resources/github-microsoft-omniparser/)
-- [OmniParser MCP Server](https://awesomecua.com/zh/resources/github-cute-aaa-omniparser-mcp/)

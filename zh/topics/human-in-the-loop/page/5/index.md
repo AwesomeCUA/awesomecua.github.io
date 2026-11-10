@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/human-in-the-loop/index.md
 
+- [magpie Computer Use](https://awesomecua.com/zh/resources/github-wbb6517-magpie-computer-use/)
 - [Mano skill](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-skill/)
 - [MaskClaw](https://awesomecua.com/zh/resources/github-theodora-y-maskclaw/)
 - [Mastra Code](https://awesomecua.com/zh/resources/github-mastra-ai-mastra-code-ui/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/5/
 - [Ringlight WebMCP](https://awesomecua.com/zh/resources/github-doom2quake-ringlight/)
 - [Rove (Thread WebMCP Workspace)](https://awesomecua.com/zh/resources/github-chris-miracle-thread/)
 - [RPA-Everything](https://awesomecua.com/zh/resources/github-mingqian94-rpa-everything/)
-- [Ruyi (如意)](https://awesomecua.com/zh/resources/github-icesword0760-ruyi/)

@@ -2,7 +2,7 @@
 
 Frameworks are libraries and SDKs for building, running, evaluating or training computer-use agents, from browser-automation agent libraries to reinforcement-learning training stacks.
 
-> 662 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
+> 665 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,15 +27,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these frameworks cover?
 
-Of 662 reviewed frameworks, 460 are tagged web, 309 desktop, 154 cross-platform and 104 mobile; 26 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 665 reviewed frameworks, 463 are tagged web, 309 desktop, 154 cross-platform and 104 mobile; 26 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which frameworks come with a research paper?
 
-139 of 662 link the arXiv paper that introduces or documents them, for example [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/), [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) and [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/).
+139 of 665 link the arXiv paper that introduces or documents them, for example [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/), [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) and [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/).
 
 ### Which licenses do frameworks declare?
 
-The most common declared licenses are MIT (304), Apache-2.0 (157) and GPL-3.0 (7). 177 of 662 have no declared license in their record.
+The most common declared licenses are MIT (304), Apache-2.0 (159) and GPL-3.0 (7). 178 of 665 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -4283,6 +4283,36 @@ The README includes a store integration example and describes raw dispatch and d
 
 ---
 
+## RLVR-World
+
+RLVR-World trains world models with verifiable reinforcement learning to predict state transitions for web and game agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-thuml-rlvr-world/
+- Original source: https://github.com/thuml/RLVR-World
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: world-models, reinforcement-learning
+- Evidence checked: 2026-11-04T14:02:38Z
+- ID: github:thuml/rlvr-world
+
+- Record JSON: https://awesomecua.com/resources/github-thuml-rlvr-world/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/README.md (retrieved 2026-11-04T14:02:38Z; SHA-256 db83605195346ccd3b3cad1118f2398c86dc1e43a8303f7d5343777a17c1e34f)
+- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE (retrieved 2026-11-04T14:07:28Z; SHA-256 f963a3becf605b20bb9b2e54ee3ae705f8c58234530f1b8766c8e619abc41a1c)
+
+---
+
 ## RPA for Python
 
 RPA for Python provides a Python API over TagUI for automating websites, desktop GUI applications via visual OCR, and command-line workflows.
@@ -4537,6 +4567,74 @@ The README shows TypeScript, Python, Rust and Go clients, and says access requir
 
 - https://raw.githubusercontent.com/spider-rs/spider-browser/HEAD/README.md (retrieved 2026-11-09T19:56:36Z; SHA-256 f20b5fd47929dd4f53547df9e22f0759e2a76f12eb5ed92e1723532deab7a5b4)
 - https://raw.githubusercontent.com/spider-rs/spider-browser/HEAD/LICENSE (retrieved 2026-11-09T14:20:45Z; SHA-256 1a3b65ed8c3b242aa834ab38e9d5cf85169c88f49cbe83a64d1f2f59238dd820)
+
+---
+
+## Steel Node API Library
+
+TypeScript and JavaScript client for the Steel cloud browser API, with typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files, profiles and credentials.
+
+- Catalog URL: https://awesomecua.com/resources/github-steel-dev-steel-node/
+- Original source: https://github.com/steel-dev/steel-node
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: sandbox, automation, web-navigation
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:steel-dev/steel-node
+
+### Limitations
+
+Published on npm as steel-sdk and generated with Stainless; calls need a STEEL_API_KEY. The api.md reference lists sessions, captchas, files, credentials, extensions, profiles, computers and checkpoints endpoints.
+
+- Record JSON: https://awesomecua.com/resources/github-steel-dev-steel-node/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-node/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/steel-dev/steel-node/181486b55c11cb3d57261a91c159643047ebf94c/README.md (retrieved 2026-11-10T03:00:59Z; SHA-256 67bcf656ae4eb7faec3bbaf29eb9fbd037ce203d5661d6b4cbb42ecb7b073087)
+- https://raw.githubusercontent.com/steel-dev/steel-node/HEAD/LICENSE (retrieved 2026-11-10T02:08:10Z; SHA-256 9c157c3b920cdacbb9f90e4e1f57ed88c74b831d5dc5ed82cb32893566824b81)
+
+---
+
+## Steel Python API library
+
+Python client for the Steel cloud browser API, with synchronous and asynchronous clients and typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files and profiles.
+
+- Catalog URL: https://awesomecua.com/resources/github-steel-dev-steel-python/
+- Original source: https://github.com/steel-dev/steel-python
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: sandbox, automation, web-navigation
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:steel-dev/steel-python
+
+### Limitations
+
+Archived at version 0.19.0; the steel-sdk package on PyPI is now built from github.com/steel-dev/sdk (python/). Generated with Stainless on httpx; requires Python 3.9 or higher and a STEEL_API_KEY. The api.md reference lists sessions, captchas, files, credentials, extensions, profiles, computers and checkpoints endpoints.
+
+- Record JSON: https://awesomecua.com/resources/github-steel-dev-steel-python/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-python/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/steel-dev/steel-python/50592867e89c2b4815632d5b54f5c8266618ce61/README.md (retrieved 2026-11-10T03:00:59Z; SHA-256 6c7dd13c0c62bb10026610534167ef5ac2af7d3f6cf6ba243f647b3d2eb00b9c)
+- https://raw.githubusercontent.com/steel-dev/steel-python/HEAD/LICENSE (retrieved 2026-11-10T02:08:10Z; SHA-256 9c157c3b920cdacbb9f90e4e1f57ed88c74b831d5dc5ed82cb32893566824b81)
 
 ---
 
@@ -16499,36 +16597,6 @@ Records a single LLM-driven exploration of a legacy UI into a typed capability a
 
 ---
 
-## RLVR-World
-
-RLVR-World trains world models with verifiable reinforcement learning to predict state transitions for web and game agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-thuml-rlvr-world/
-- Original source: https://github.com/thuml/RLVR-World
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: web, desktop
-- Topics: world-models, reinforcement-learning
-- Evidence checked: 2026-11-04T14:02:38Z
-- ID: github:thuml/rlvr-world
-
-- Record JSON: https://awesomecua.com/resources/github-thuml-rlvr-world/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/README.md (retrieved 2026-11-04T14:02:38Z; SHA-256 db83605195346ccd3b3cad1118f2398c86dc1e43a8303f7d5343777a17c1e34f)
-- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE (retrieved 2026-11-04T14:07:28Z; SHA-256 f963a3becf605b20bb9b2e54ee3ae705f8c58234530f1b8766c8e619abc41a1c)
-
----
-
 ## robotsix-browser
 
 Interactive Playwright headless-browser and form-filling HTTP service for AI agents.
@@ -19082,6 +19150,39 @@ All-in-one desktop AI studio integrating multi-model LLM chat, computer use, and
 
 - https://raw.githubusercontent.com/osamalvzx/Universal-AI-Studio/main/README.md (retrieved 2026-11-04T17:30:42Z; SHA-256 b919573be9c6e8f30bb385e5c310d5735dbe9077424829f59108301f07a17c9b)
 - https://raw.githubusercontent.com/osamalvzx/Universal-AI-Studio/HEAD/LICENSE (retrieved 2026-11-04T17:39:58Z; SHA-256 a8ad43e97c4bda4788613037e42a8d921345203b9c9fbe72b0db7f491ff59bbc)
+
+---
+
+## UXAgent
+
+Usability-testing system that generates simulated user personas, has LLM agents work through a target website via a browser connector, and shows their survey answers and action logs in a result viewer.
+
+- Catalog URL: https://awesomecua.com/resources/url-2f73fe78c423e263d451/
+- Original source: https://uxagent.hailab.io
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: ui-design, web-navigation
+- Evidence checked: 2026-11-10T03:01:16Z
+- ID: url:2f73fe78c423e263d451
+
+### Limitations
+
+The linked repository neuhai/uxagent holds MIT-licensed Python code run with uv and Playwright Chromium and needs an LLM API key; it links a Hugging Face dataset. The paper is arXiv 2504.09407.
+
+- Record JSON: https://awesomecua.com/resources/url-2f73fe78c423e263d451/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://uxagent.hailab.io (retrieved 2026-11-10T03:01:16Z; SHA-256 2d09df84248a541db7f714478e96c2b612f5a35d157aac17baa9ee691e46a3a7)
 
 ---
 

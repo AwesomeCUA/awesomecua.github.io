@@ -4,6 +4,12 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/4/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [qt-mcp](https://awesomecua.com/zh/resources/github-0xcarbon-qt-mcp/)：qt-mcp 通过 MCP 服务器向智能体开放运行中的 PySide6 桌面应用，提供控件检查、截图和输入操作。
+- [ReproSight](https://awesomecua.com/zh/resources/github-tungcorn-reprosight/)：ReproSight 是一款命令行工具，让编程智能体在浏览器中复现界面视觉缺陷、收集证据、在独立工作树中修改代码，并运行回归检查。
+- [Robotgo Pro](https://awesomecua.com/zh/resources/github-vcaesar-robotgo-pro/)：一款需授权的桌面自动化软件包，可在 Mac、Windows 和 Linux 上读取屏幕与窗口，并控制鼠标和键盘输入。
+- [Rod](https://awesomecua.com/zh/resources/github-go-rod-rod/)：这是基于 DevTools Protocol 的浏览器自动化驱动，提供元素等待、输入追踪和浏览器页面控制辅助功能。
+- [rrweb](https://awesomecua.com/zh/resources/github-rrweb-io-rrweb/)：rrweb 捕获网页状态和用户交互，并通过录制、回放与播放器软件包重建会话以供回放。
+- [Scenario for Blender](https://awesomecua.com/zh/resources/github-scenario-labs-blender-plugin/)：一款用于生成媒体内容和场景素材的 Blender 扩展。其本地 MCP 服务器让智能体检查已打开的场景并请求生成任务。
 - [ScreenAgent Web Client](https://awesomecua.com/zh/resources/github-niuzaisheng-screenagentwebclient/)：ScreenAgent Web Client 通过浏览器和 VNC 将语言模型接入远程桌面，并把鼠标、键盘操作表示为结构化调用。
 - [Screenpipe](https://awesomecua.com/zh/resources/github-screenpipe-screenpipe/)：Screenpipe 通过无障碍接口和 OCR 持续采集桌面屏幕文本及音频转录内容，存入供 AI 智能体使用的本地数据库。
 - [selenium-stealth](https://awesomecua.com/zh/resources/github-diprajpatra-selenium-stealth/)：selenium-stealth 是一款 Python 工具，可配置由 Selenium 驱动的 Chrome 或 Chromium 会话，以降低浏览器自动化被检测到的概率。
@@ -24,6 +30,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/4/ · [English](htt
 - [TAG attention-driven GUI grounding](https://awesomecua.com/zh/resources/github-heimingx-tag/)：TAG 提供 GUI 定位与评估代码，聚合预训练视觉语言模型的注意力图，在不微调的情况下定位指定界面元素。
 - [TagUI](https://awesomecua.com/zh/resources/github-aisingapore-tagui/)：TagUI 使用网页元素、图像、文本或坐标作为目标，在网站和桌面应用中执行脚本流程。其 MCP 服务器允许 AI 客户端创建并运行流程。
 - [Tango](https://awesomecua.com/zh/resources/github-yume-chan-ya-webadb/)：一个 TypeScript 编写的 Android Debug Bridge 客户端，可在基于 Chromium 的浏览器、Node.js 和 Electron 中运行，用于访问 Android 设备。
+- [Tarsier](https://awesomecua.com/zh/resources/github-reworkd-tarsier/)：网页智能体感知工具，为可交互元素标注可供 LLM 操作的类型化 ID，并用 OCR 将网页截图转为保留空白布局的文本，供无视觉能力的模型使用。
 - [TeachReplay — OpenMausBot Integration](https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay-openmausbot/)：这个 OpenMausBot 集成添加了一个面板，可录制计算机操作演示、编译可复用技能，并用新输入重放技能。
 - [TeleGen](https://awesomecua.com/zh/resources/github-commoluo-telegen/)：TeleGen 在经过插桩的网页应用中运行浏览器任务，汇总交互遥测数据，并将所得证据提供给代码修复智能体。
 - [Tencent BrowserSkill](https://awesomecua.com/zh/resources/github-tencent-browserskill/)：Tencent 提供的 CLI 和浏览器扩展，使 AI 智能体能够在非侵入式工作区中操作用户已登录的浏览器。
@@ -31,13 +38,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/4/ · [English](htt
 - [ToL Hierarchical GUI region detection](https://awesomecua.com/zh/resources/github-llv22-tol-gui-region-detection/)：提供基于 DINO 训练安卓界面层级区域检测器的代码与配置，并支持在 ScreenPR 基准上进行区域推断。
 - [tui-use](https://awesomecua.com/zh/resources/github-onesuper-tui-use/)：tui-use 是一个命令行工具，让智能体通过持久的 PTY 会话读取终端应用屏幕并发送按键。它生成文本快照，还能等待屏幕变化。
 - [UI Annotator MCP](https://awesomecua.com/zh/resources/github-mcpware-ui-annotator-mcp/)：Model Context Protocol 服务器，向实时网页注入交互式 Set-of-Mark 悬停标签，供视觉浏览器智能体使用。
-- [UI Defect Mocker](https://awesomecua.com/zh/resources/github-zju-aces-ise-uidefectmocker/)：利用移动端截图和 Android 布局元数据合成视觉 UI 缺陷，支持 GUI 测试实验。
 - [uiautomator2](https://awesomecua.com/zh/resources/github-openatx-uiautomator2/)：uiautomator2 是一个 Python 库，通过设备端的 UiAutomator 服务控制 Android 设备，包括启动应用和操作界面元素。
 - [uictl-linux-mcp](https://awesomecua.com/zh/resources/github-byronscottjones-uictl-linux-mcp/)：uictl-linux-mcp 是开发中的 Linux/GNOME 命令行工具和 MCP 服务器，智能体可借助截图、无障碍数据及输入操作控制图形界面应用。
 - [uictl-win-mcp](https://awesomecua.com/zh/resources/github-byronjones-elsevier-uictl-win-mcp/)：面向编码智能体的 Windows .NET/C# GUI 自动化 CLI 和 Model Context Protocol 服务器。
 - [UIED (UI Element Detection)](https://awesomecua.com/zh/resources/github-mulongxie-uied/)：UIED 结合泛洪填充/Canny 组件分析与深度文本识别，检测 UI 截图中的图形控件和文本块。
 - [usecomputer](https://awesomecua.com/zh/resources/github-remorses-usecomputer/)：这是用于智能体工作流程的桌面自动化命令行工具和库。它可捕获屏幕截图、将图像坐标映射到屏幕位置，并发送鼠标和键盘操作。
 - [VibeSurf for OpenClaw](https://awesomecua.com/zh/resources/github-vibesurf-ai-claw-surf/)：一项 OpenClaw 技能，通过 VibeSurf 的 HTTP API 执行浏览器导航、页面提取、截图和工作流程。
+- [Voqal Chrome integration](https://awesomecua.com/zh/resources/github-voqal-chrome-integration/)：将 Voqal 语音智能体通过本地 WebSocket 连接到浏览器的 Chrome 扩展，上报已打开的标签页，并执行 Voqal 下发的命令：打开网址、新建或切换标签页，以及在当前页面中执行 JavaScript。
 - [wavexis](https://awesomecua.com/zh/resources/github-mathiaspaulenko-wavexis/)：wavexis 是浏览器自动化命令行工具，可通过 CDP 或 WebDriver BiDi 执行导航和页面操作，并提供交互模式与多操作模式。
 - [webclaw3](https://awesomecua.com/zh/resources/github-fatmind-webclaw3/)：一款浏览器智能体技能，使用本地 Chrome 会话探索任务，再生成可复用脚本，重复执行已成功的浏览器工作流程。
 - [webmcpify](https://awesomecua.com/zh/resources/github-tuejon-webmcpify/)：这是一个为现有网页应用添加 WebMCP 工具的智能体技能。它盘点应用功能，请用户批准工具清单，并在 Chrome 中检查工具执行效果。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/4/ · [English](htt
 - [AI Web Tester](https://awesomecua.com/zh/resources/github-siamalsobari-ai-web-tester/)：面向 AI 编程智能体的工具包，支持自主浏览器测试、QA 矩阵执行以及控制台和网络遥测。
 - [AI-XiaoDao Browser MCP Server](https://awesomecua.com/zh/resources/github-ai-xiaodao-ai-browser-mcp/)：基于嵌入式 CEF Chromium 引擎构建的 Windows 本地浏览器自动化 MCP 服务器，提供 334 个浏览器控制工具。
 - [AiBrowser for Android](https://awesomecua.com/zh/resources/github-doable-team-aibrowser-android/)：将一部闲置 Android 手机变成 AI 智能体可远程操作的有界面 Chromium 实例。
-- [AINative Browser MCP](https://awesomecua.com/zh/resources/github-ainative-studio-ainative-browser-mcp/)：Model Context Protocol 服务器，提供 6 个高级工具，用于 AI 驱动的网页交互和结构化数据提取。
-- [Airbrowser MCP](https://awesomecua.com/zh/resources/github-ifokeev-airbrowser-mcp/)：Airbrowser 将不可检测的 Chrome 浏览器、REST API、MCP 服务器和实时 VNC 视图封装在 Docker 容器中，供 AI 网页智能体使用。
-- [Airplane Check-In Skill](https://awesomecua.com/zh/resources/github-bee-san-airplane-checkin-skill/)：注重隐私的 Hermes 浏览器技能，用于定时、经验证的多航空公司网页值机。
-- [alohajet CLI](https://awesomecua.com/zh/resources/github-alohabrowser-alohajet-cli/)：用于通过稳定元素引用操作真实浏览器的官方 Aloha Browser CLI 和 MCP 服务器。
-- [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/zh/resources/github-altairpaca-dsh-computer-use-windows/)：适用于 DeepSeek Harness 的 Windows 计算机使用插件，提供限定于窗口的截图、OCR 定位和经过验证的点击。
-- [amajorai Ghost Desktop MCP](https://awesomecua.com/zh/resources/github-amajorai-ghost/)：桌面自动化 Model Context Protocol 服务器，为 AI 智能体提供屏幕感知和鼠标键盘输入控制。
-- [Amazon Music MCP Server](https://awesomecua.com/zh/resources/github-shadowsdistant-amazon-music-mcp/)：Model Context Protocol 服务器，可从 Claude Desktop 搜索和控制 Amazon Music 播放。

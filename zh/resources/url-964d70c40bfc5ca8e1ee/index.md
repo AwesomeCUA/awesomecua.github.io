@@ -24,7 +24,7 @@ AgentNet 包含 Windows、macOS 和 Ubuntu 上的 22.6K 个人工标注桌面计
 
 ### 数量记录
 
-- ≈ 22,600 tasks — AgentNet collection（来源报告；来源：https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md）
+- ≈ 22,600 个任务 — AgentNet collection（来源报告；来源：https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md）
 
 The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. The card distinguishes human task instructions from generated summaries, reasoning, reflections and quality fields; generated labels use a different acceptance process from independent human quality records.
 

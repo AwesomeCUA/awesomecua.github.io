@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/automation/page/22/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [RobotJS](https://awesomecua.com/resources/github-octalmage-robotjs/)
+- [robotsix-browser](https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/)
+- [Rocuronium](https://awesomecua.com/resources/github-kageroumado-rocuronium/)
+- [Rod](https://awesomecua.com/resources/github-go-rod-rod/)
+- [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/)
 - [rote](https://awesomecua.com/resources/github-bhuvanb3110-rote/)
 - [Roubao](https://awesomecua.com/resources/github-turbo1123-roubao/)
 - [RPA Desktop Canal Visual](https://awesomecua.com/resources/github-hab99-rpa-desktop-canal-visual/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Sidemates](https://awesomecua.com/resources/github-prisacariurobert-sidemates/)
 - [SIH26 Privacy-Preserving Browser Agent](https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/)
 - [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/)
-- [SikuliX1](https://awesomecua.com/resources/github-raiman-sikulix1/)
-- [SilbercueSwift](https://awesomecua.com/resources/github-silbercue-silbercueswift/)
-- [simpilot](https://awesomecua.com/resources/github-passerby2049-simpilot/)
-- [siropkin chrome-bridge](https://awesomecua.com/resources/github-siropkin-chrome-bridge/)
-- [slidevim](https://awesomecua.com/resources/github-jaisharmz-slidevim/)

@@ -28,10 +28,10 @@ This is the Hub data release; the repository record github:dongping-chen/gui-wor
 
 ### 数量记录
 
-- 12,379 video files — MP4 and MOV files in the Hub manifest at revision 7901fa3f（计算得出；来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
-- 12 annotation files — JSONL files under Annotation/benchmark and Annotation/train at revision 7901fa3f（计算得出；来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
-- 6 GUI scenario categories — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
-- 8 question types — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
+- 12,379 个视频文件 — MP4 and MOV files in the Hub manifest at revision 7901fa3f（计算得出）（来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
+- 12 个标注文件 — JSONL files under Annotation/benchmark and Annotation/train at revision 7901fa3f（计算得出）（来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
+- 6 个 GUI 场景类别 — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
+- 8 种问题类型 — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
 
 Video files were counted from the Hub file manifest; video, question and annotation counts use different units.
 

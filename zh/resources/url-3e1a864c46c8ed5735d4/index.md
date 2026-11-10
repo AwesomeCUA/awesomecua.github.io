@@ -28,16 +28,16 @@ The Hub repository has no dataset card or license file; the arXiv paper and its 
 
 ### 数量记录
 
-- 116 task descriptions — metadata/tasks.csv at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
-- 20 distinct app names — metadata/tasks.csv at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
-- 21 applications — dataset described in the paper, grouped into five clusters（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 72 gesture-recording log files — three agent folders under gesture_recordings/ at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
-- 7 gesture-recording ZIP archives — gesture_recordings/ at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
-- 8 sensor-recording ZIP archives — sensor_recordings/ at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
-- 37,768,698 motion and sensor events — four human sub-populations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 243,090,929 motion and sensor events — five raw agent configurations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 280,320,486 motion and sensor events — humanized agents without fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 154,704,094 motion and sensor events — humanized agents with fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 116 条任务描述 — metadata/tasks.csv at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
+- 20 个不重复的应用名称 — metadata/tasks.csv at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
+- 21 个应用 — dataset described in the paper, grouped into five clusters（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 72 个手势录制日志文件 — three agent folders under gesture_recordings/ at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
+- 7 个手势录制 ZIP 归档 — gesture_recordings/ at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
+- 8 个传感器录制 ZIP 归档 — sensor_recordings/ at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
+- 37,768,698 个运动与传感器事件 — four human sub-populations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 243,090,929 个运动与传感器事件 — five raw agent configurations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 280,320,486 个运动与传感器事件 — humanized agents without fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 154,704,094 个运动与传感器事件 — humanized agents with fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
 
 Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields. Event counts are per sensor or touch event, and the four totals are separate populations; these counts are reported separately.
 

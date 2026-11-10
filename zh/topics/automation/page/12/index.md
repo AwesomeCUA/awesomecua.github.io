@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/12/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [dsh-cua](https://awesomecua.com/zh/resources/github-hutusion-dsh-cua/)
 - [dsh-desktop-automation](https://awesomecua.com/zh/resources/github-junkrat9527-dsh-desktop-automation/)
 - [dsh-jiey-browser](https://awesomecua.com/zh/resources/github-jiewaigongxing-dsh-jiey-browser/)
 - [dsh-llm-web-bridge](https://awesomecua.com/zh/resources/github-huangyukaili1031-dsh-llm-web-bridge/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/12/
 - [fast-browser-use](https://awesomecua.com/zh/resources/github-nachafrommars-fast-browser-use/)
 - [FastCUA](https://awesomecua.com/zh/resources/github-guojiz-fastcua/)
 - [FastHands](https://awesomecua.com/zh/resources/github-tomaszteee-fasthands/)
-- [FastMCP Playwright Server](https://awesomecua.com/zh/resources/github-ma-pony-mcp-playwright/)

@@ -21,12 +21,12 @@
 - 评测方式：Task-specific evaluation functions are invoked after agent execution.
 - 侧重：data-science workflows, multi-application task completion
 - 观测：screenshots, accessibility trees, set-of-marks views
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 494 task definitions — evaluation_examples/test_all.json（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/evaluation_examples/test_all.json）
-- 20 applications — README task-suite coverage（来源报告；来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/README.md）
+- 494 个任务定义 — evaluation_examples/test_all.json（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/evaluation_examples/test_all.json）
+- 20 个应用 — README task-suite coverage（来源报告；来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/README.md）
 
 Counted unique task IDs in the full manifest. Verbose versus abstract instructions and account versus non-account tasks form different subsets. The Ubuntu VM and external-account requirements are part of the protocol; no accounts or environments were provisioned.
 

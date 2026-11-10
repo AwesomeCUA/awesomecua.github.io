@@ -2,7 +2,7 @@
 
 计算机使用数据集提供截图、指令、界面元素标注和动作轨迹，用于训练或评估 GUI 智能体。监督信号从单个元素的定位到完整的多步轨迹不等。
 
-> AwesomeCUA 目录收录 243 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
+> AwesomeCUA 目录收录 267 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https://awesomecua.com/categories/dataset/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -10,11 +10,11 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https:/
 
 | 数据集 | 平台 | 监督信号 | 规模 | 许可证 |
 | --- | --- | --- | --- | --- |
-| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | 桌面 | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [MIT（数据）](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
+| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | 桌面 | GUI grounding | [1,581 条目标标注](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [MIT（数据）](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
 | [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) | 跨平台 | reverse task synthesis, GUI action trajectories | — | — |
-| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | 手机 | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [CC-BY-4.0（数据）](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
-| [GUIAct](https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/) | 网页 · 手机 | single-step actions, multi-step navigation | [≈ 67,000 action instructions](https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md) | — |
-| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | 桌面 | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [MIT（数据）](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
+| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | 手机 | interactive-element grounding, screen and element functionality descriptions | [> 104,000 张截图](https://arxiv.org/abs/2407.17490v1) | [CC-BY-4.0（数据）](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
+| [GUIAct](https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/) | 网页 · 手机 | single-step actions, multi-step navigation | [≈ 67,000 条动作指令](https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md) | — |
+| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | 桌面 | UI element bounding boxes, element text or short descriptions | [51,175 组截图–标注文件对](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [MIT（数据）](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
 | [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) | — | GUI grounding with bounding-box supervision | — | — |
 
 ## 常见问题
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https:/
 
 ### 这些数据集覆盖哪些平台？
 
-在 243 条已审核数据集中，网页 102 条、桌面 71 条、手机 70 条、跨平台 33 条；31 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 267 条已审核数据集中，网页 116 条、桌面 74 条、手机 74 条、跨平台 34 条；35 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些数据集记录了监督信号和规模？
 
-243 条数据集中有 125 条附有数据集档案，记录监督信号、模态、格式、划分以及带单位的计数。最常见的监督信号是 element grounding（6 条）、agent-generated trajectories（5 条）和 interaction trajectories（4 条）。[数据集对比页](https://awesomecua.com/compare/datasets/)可逐项比较。
+267 条数据集中有 125 条附有数据集档案，记录监督信号、模态、格式、划分以及带单位的计数。最常见的监督信号是 element grounding（6 条）、agent-generated trajectories（5 条）和 interaction trajectories（4 条）。[数据集对比页](https://awesomecua.com/compare/datasets/)可逐项比较。
 
 ### 数据集使用哪些许可证？
 
-最常见的声明许可证是 Apache-2.0（64 条）、MIT（39 条）和 CC-BY-4.0（34 条）。243 条中有 75 条未记录声明的许可证。
+最常见的声明许可证是 Apache-2.0（71 条）、MIT（44 条）和 CC-BY-4.0（35 条）。267 条中有 85 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -70,7 +70,7 @@ This is the benchmark data asset, distinct from its evaluation-code repository. 
 
 #### 数量记录
 
-- 1,581 target annotations — sum of icon/text counts in the published card table（计算得出；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
+- 1,581 条目标标注 — sum of icon/text counts in the published card table（计算得出）（来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
 
 Counts describe target annotations; unique screenshots and expanded language/style variants use different units. The evaluation code can reuse a target across configurations.
 
@@ -164,9 +164,9 @@ The card calls this the official dataset repository of the AMEX paper. The full 
 
 #### 数量记录
 
-- > 104,000 screenshots — AMEX collection described in the arXiv v1 abstract（来源报告；来源：https://arxiv.org/abs/2407.17490v1）
-- 3,046 instruction episodes — AMEX/instruction_anno.zip at revision 17196b29 (one JSON file per episode, unique episode_id)（计算得出；来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
-- 38,709 action steps — steps lists of the 3,046 instruction episodes in AMEX/instruction_anno.zip at revision 17196b29（计算得出；来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
+- > 104,000 张截图 — AMEX collection described in the arXiv v1 abstract（来源报告；来源：https://arxiv.org/abs/2407.17490v1）
+- 3,046 个指令回合 — AMEX/instruction_anno.zip at revision 17196b29 (one JSON file per episode, unique episode_id)（计算得出）（来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
+- 38,709 个动作步骤 — steps lists of the 3,046 instruction episodes in AMEX/instruction_anno.zip at revision 17196b29（计算得出）（来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
 
 Episode and step counts were computed with a script from the instruction archive; the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.
 
@@ -247,10 +247,10 @@ At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshot
 
 #### 数量记录
 
-- 51,175 screenshot-annotation file pairs — Hub release at revision 5d6845b0 (images/*.png matched by hash to data/*.json)（计算得出；来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
-- 87 application folders — data/ at revision 5d6845b0（计算得出；来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
-- ≈ 56,000 screenshots — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
-- ≈ 3,560,000 element annotations — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
+- 51,175 组截图–标注文件对 — Hub release at revision 5d6845b0 (images/*.png matched by hash to data/*.json)（计算得出）（来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
+- 87 个应用文件夹 — data/ at revision 5d6845b0（计算得出）（来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
+- ≈ 56,000 张截图 — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
+- ≈ 3,560,000 条元素标注 — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
 
 Screenshots, file pairs, folders and element annotations are different units and are counted separately. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset. No train/test split is declared.
 
@@ -346,7 +346,7 @@ Public Hub revision 5a0b35fb includes six bbox JSON files and associated image a
 
 #### 数量记录
 
-- 8,334 episodes — recommended hflqf88888/GUIOdyssey release（来源报告；来源：https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md）
+- 8,334 个回合 — recommended hflqf88888/GUIOdyssey release（来源报告；来源：https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md）
 
 The repository gives conflicting episode totals (8,334 and 8,834). This profile uses 8,334 from the specifically recommended current dataset card. No independent archive recount was performed. Coordinates are normalized to 0–1000.
 
@@ -394,8 +394,8 @@ Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI
 
 #### 数量记录
 
-- 101,314 examples — train split (dataset_info in the card metadata)（来源报告；来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md）
-- 64 Parquet shards — data/ at Hub revision f728db8f（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7）
+- 101,314 个示例 — train split (dataset_info in the card metadata)（来源报告；来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md）
+- 64 个 Parquet 分片 — data/ at Hub revision f728db8f（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7）
 
 Each row holds an image path, the image, an EasyR1 prompt that embeds the element description, pixel and normalized boxes and the image size. Examples and shards are different units. Per-source counts are not given.
 
@@ -476,8 +476,8 @@ The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, wh
 
 #### 数量记录
 
-- 7,735 episodes — original OpenGVLab/GUI-Odyssey release（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md）
-- 7,735 annotation JSON files — annotations/ at revision 71e0e7e2（计算得出；来源：https://huggingface.co/api/datasets/OpenGVLab/GUI-Odyssey/revision/71e0e7e2d169c642e7a99c264d82ffecadf67889）
+- 7,735 个回合 — original OpenGVLab/GUI-Odyssey release（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md）
+- 7,735 个标注 JSON 文件 — annotations/ at revision 71e0e7e2（计算得出）（来源：https://huggingface.co/api/datasets/OpenGVLab/GUI-Odyssey/revision/71e0e7e2d169c642e7a99c264d82ffecadf67889）
 
 Each annotation file is one episode keyed by episode_id, with device, task (category, apps, meta-task, instruction) and per-step screenshot, action, info and ps fields; actions are CLICK, SCROLL, LONG_PRESS, TYPE, COMPLETE, IMPOSSIBLE, HOME and BACK, with coordinates normalized to 0-1000. Each split file lists train and test episode IDs.
 
@@ -525,8 +525,8 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 #### 数量记录
 
-- ≈ 67,000 action instructions — single-step portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
-- ≈ 15,000 action instructions — multi-step portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 67,000 条动作指令 — single-step portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 15,000 条动作指令 — multi-step portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
 
 Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
@@ -577,8 +577,8 @@ The Hub API at revision eacad896 reports gated 'auto' (access is approved automa
 
 #### 数量记录
 
-- 300 tasks — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-- 136 websites — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 300 个任务 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 136 个网站 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
 
 Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
 
@@ -622,9 +622,9 @@ OS-Atlas 的 GUI 定位预训练数据，覆盖桌面端（Linux、macOS、Windo
 
 #### 数量记录
 
-- > 270,000 screenshots — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
-- > 3,000,000 UI elements — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
-- ≥ 1,600,000 images — FineWeb-derived subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
+- > 270,000 张截图 — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
+- > 3,000,000 个 UI 元素 — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
+- ≥ 1,600,000 张图像 — FineWeb-derived subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
 
 These are subset-specific counts for OS-Atlas. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.
 
@@ -702,8 +702,8 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 #### 数量记录
 
-- ≈ 44,000 QA pairs — single-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
-- ≈ 6,000 dialogues — multi-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 44,000 组 QA 对 — single-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 6,000 段对话 — multi-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
 
 Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
@@ -754,7 +754,7 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 #### 数量记录
 
-- ≈ 700,000 region-text QA pairs — GUIEnv-local SFT data（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 700,000 组区域文本 QA 对 — GUIEnv-local SFT data（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
 
 Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
@@ -805,13 +805,13 @@ This is the Hub data release, distinct from the code and benchmark repository gi
 
 #### 数量记录
 
-- > 2,000 tasks — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 137 websites — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 31 domains — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 1,009 task instances — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 252 task instances — cross-task test split (test_task)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 177 task instances — cross-website test split (test_website)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 912 task instances — cross-domain test split (test_domain)（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- > 2,000 个任务 — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 137 个网站 — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 31 个领域 — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 1,009 个任务实例 — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 252 个任务实例 — cross-task test split (test_task)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 177 个任务实例 — cross-website test split (test_website)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 912 个任务实例 — cross-domain test split (test_domain)（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
 
 Each instance is one task with its multi-step action sequence; step counts use a different unit. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.
 
@@ -860,11 +860,11 @@ The files hold task instructions, reference task lengths and key-node evaluation
 
 #### 数量记录
 
-- 438 tasks — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
-- 1,995 key-node evaluation entries — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
-- 104 tasks — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
-- 443 key-node evaluation entries — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
-- 542 tasks — original Mind2Web-Live release as described in the WebCanvas README（来源报告；来源：https://raw.githubusercontent.com/iMeanAI/WebCanvas/b9f289128614cd99b97abd0bb9bfc3a45f0847e0/README.md）
+- 438 个任务 — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
+- 1,995 条关键节点评测条目 — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
+- 104 个任务 — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
+- 443 条关键节点评测条目 — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
+- 542 个任务 — original Mind2Web-Live release as described in the WebCanvas README（来源报告；来源：https://raw.githubusercontent.com/iMeanAI/WebCanvas/b9f289128614cd99b97abd0bb9bfc3a45f0847e0/README.md）
 
 Tasks and key-node evaluation entries are different units. The revised test file has one fewer key node than the original 2024-05-28 test file.
 
@@ -915,14 +915,14 @@ Each row is one action step with the page state before the action; tasks are dis
 
 #### 数量记录
 
-- 7,775 action steps — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 1,009 tasks — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 1,339 action steps — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 177 tasks — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 1,019 action steps — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 142 tasks — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 4,060 action steps — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 694 tasks — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 7,775 个动作步骤 — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 1,009 个任务 — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 1,339 个动作步骤 — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 177 个任务 — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 1,019 个动作步骤 — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 142 个任务 — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 4,060 个动作步骤 — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 694 个任务 — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
 
 Action steps and tasks are different units; the split sizes are the card's figures, and a column read of the Parquet files at this revision gave the same step and task counts.
 
@@ -967,7 +967,7 @@ Action steps and tasks are different units; the split sizes are the card's figur
 
 #### 数量记录
 
-- ≈ 7,300,000 samples — reported MultiUI training collection（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md）
+- ≈ 7,300,000 个样本 — reported MultiUI training collection（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md）
 
 The README provides a rounded sample count. Unique screenshots and normalized split sizes are unrecorded. Synthetic examples and publicly sourced web content have provenance and quality limits; data terms must be checked separately from repository code.
 
@@ -1014,9 +1014,9 @@ The reviewed card contains no explicit license declaration, so data-license stat
 
 #### 数量记录
 
-- 11,643 trajectories — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
-- 118,582 decision steps — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
-- 2,475 executable tasks — RL collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
+- 11,643 条轨迹 — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
+- 118,582 个决策步骤 — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
+- 2,475 个可执行任务 — RL collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
 
 These are publisher-reported totals at three distinct grains. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.
 
@@ -1061,9 +1061,9 @@ These are publisher-reported totals at three distinct grains. Earlier screenshot
 
 #### 数量记录
 
-- 68,951 question-answer pairs — original ScreenQA train split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
-- 8,614 question-answer pairs — original ScreenQA validation split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
-- 8,419 question-answer pairs — original ScreenQA test split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
+- 68,951 组问答对 — original ScreenQA train split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
+- 8,614 组问答对 — original ScreenQA validation split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
+- 8,419 组问答对 — original ScreenQA test split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
 
 All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. ScreenQA Short reuses the same questions and screens; ComplexQA is a separate extension.
 
@@ -1109,9 +1109,9 @@ The public Hub API reports gated=auto and a Restricted Research-Only declaration
 
 #### 数量记录
 
-- 585,981 distinct screenshots — ScreenRef image inventory（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
-- 633,369 annotation rows — full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
-- 22,475 annotation rows — refusal subset of full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 585,981 张不重复的截图 — ScreenRef image inventory（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 633,369 行标注数据 — full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 22,475 行标注数据 — refusal subset of full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
 
 The publisher reports these inventories in the companion annotation card. The refusal subset is included in the full recipe. Screenshot access is gated; no image download or independent corpus recount was performed.
 
@@ -1155,7 +1155,7 @@ The publisher reports these inventories in the companion annotation card. The re
 
 #### 数量记录
 
-- 83 software applications — paper-described benchmark coverage（来源报告；来源：https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md）
+- 83 个软件应用 — paper-described benchmark coverage（来源报告；来源：https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md）
 
 This is an offline evaluation dataset. Application coverage and sample counts are different units. The inspected file-layout documentation describes grounding annotations and images. A common split and complete action-trajectory inventory are unrecorded.
 
@@ -1303,7 +1303,7 @@ The row count and unique-screen count are different units. The data card documen
 
 #### 数量记录
 
-- 701,864 training rows — default/train in the dataset card metadata（来源报告；来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md）
+- 701,864 行训练数据 — default/train in the dataset card metadata（来源报告；来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md）
 
 Rows and unique screenshots are different units. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
 
@@ -1562,7 +1562,7 @@ The project recommends this release over its earlier OpenGVLab/GUI-Odyssey uploa
 
 #### 数量记录
 
-- 8,334 episodes — recommended hflqf88888/GUIOdyssey release（来源报告；来源：https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md）
+- 8,334 个回合 — recommended hflqf88888/GUIOdyssey release（来源报告；来源：https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md）
 
 The repository gives conflicting episode totals (8,334 and 8,834). This profile uses 8,334 from the specifically recommended current dataset card. No independent archive recount was performed. Coordinates are normalized to 0–1000.
 
@@ -1611,12 +1611,12 @@ The ungated Hub publishes four Parquet splits containing video identifiers and a
 
 #### 数量记录
 
-- 19,725 video annotation records — train split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- 495 video annotation records — validation split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- 100 video annotation records — test split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- 50 video annotation records — test_unseen_os split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- ≈ 333,000 detected scenes — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- ≈ 313,000 identified actions — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 19,725 条视频标注记录 — train split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 495 条视频标注记录 — validation split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 100 条视频标注记录 — test split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 50 条视频标注记录 — test_unseen_os split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- ≈ 333,000 个检测到的场景 — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- ≈ 313,000 个已识别的动作 — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
 
 Split counts are video-annotation rows; scene and action totals are rounded publisher reports. Source videos/images are not included in the Hub files.
 
@@ -1668,8 +1668,8 @@ The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json
 
 #### 数量记录
 
-- ≈ 7,300,000 samples — MultiUI training dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md）
-- 21 TAR archive parts — Hub file manifest at revision c17e5f29（计算得出；来源：https://huggingface.co/api/datasets/neulab/MultiUI/tree/c17e5f297392be76741dcc3599e8fedc4304b386）
+- ≈ 7,300,000 个样本 — MultiUI training dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md）
+- 21 个 TAR 归档分卷 — Hub file manifest at revision c17e5f29（计算得出）（来源：https://huggingface.co/api/datasets/neulab/MultiUI/tree/c17e5f297392be76741dcc3599e8fedc4304b386）
 
 The sample count is the README's rounded figure; the gated files remain uncounted. Archive parts are package files. The versioned archive names (v0.7 excluding v0.6, v0.8 excluding v0.7) suggest incremental releases, but the card that would explain them is gated.
 
@@ -1752,9 +1752,9 @@ The short card says the four JSON files are LLaMA-Factory training files and raw
 
 #### 数量记录
 
-- ≈ 2,800 synthesized instructions — OpenMobile dataset (project page)（来源报告；来源：https://njucckevin.github.io/openmobile/）
-- ≈ 34,000 action steps — OpenMobile dataset (project page)（来源报告；来源：https://njucckevin.github.io/openmobile/）
-- 20 Android apps — OpenMobile dataset (project page)（来源报告；来源：https://njucckevin.github.io/openmobile/）
+- ≈ 2,800 条合成指令 — OpenMobile dataset (project page)（来源报告；来源：https://njucckevin.github.io/openmobile/）
+- ≈ 34,000 个动作步骤 — OpenMobile dataset (project page)（来源报告；来源：https://njucckevin.github.io/openmobile/）
+- 20 个 Android 应用 — OpenMobile dataset (project page)（来源报告；来源：https://njucckevin.github.io/openmobile/）
 
 Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, leaving these computed counts outside count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files.
 
@@ -1806,8 +1806,8 @@ The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automa
 
 #### 数量记录
 
-- 108 task class files — task_*.py on the main branch at revision 0a1aadad（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
-- 34 implementation note files — implementation_notes/task_*.md on the main branch at revision 0a1aadad（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
+- 108 个任务类文件 — task_*.py on the main branch at revision 0a1aadad（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
+- 34 个实现说明文件 — implementation_notes/task_*.md on the main branch at revision 0a1aadad（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
 
 Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags; these are main-branch counts.
 
@@ -1823,6 +1823,40 @@ Counts are files in the public main-branch manifest. Benchmark releases are pinn
 - https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks（获取于 2026-10-18T11:47:41Z；SHA-256：b9ef429ad3f9ef51702093db5bc1cb4e53d6ed5624cd2003162c4fedb3855c87）
 - https://raw.githubusercontent.com/xlang-ai/OSWorld-V2/d9953673daf55381237e058fd9388cc2d74c5538/README.md（获取于 2026-10-18T11:47:41Z；SHA-256：0d1d3e91e8786720a167b8bc26a41bd27832eefae652ab1c166193073e99b2b4）
 - https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks（获取于 2026-10-18T11:47:41Z；SHA-256：b9ef429ad3f9ef51702093db5bc1cb4e53d6ed5624cd2003162c4fedb3855c87）
+
+---
+
+## osworld_v2_assets_gated
+
+OSWorld 2.0 计算机使用基准任务资源的受限访问 Hub 快照，包含任务初始化文件和标准答案文件等，需按基准版本固定后下载到本地再运行任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-3de50fa3eee0081d31ac/
+- 原始来源：https://huggingface.co/datasets/xlangai/osworld_v2_assets_gated
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：评测、长任务
+- 证据核查日期：2026-11-10T03:01:06Z
+- ID：url:3de50fa3eee0081d31ac
+
+### 范围记录
+
+Access requires accepting a gated request; the visible file list shows a shared/ folder with archives such as email_031.tar.gz and cached external images, about 4.92 GB in total. The OSWorld-V2 README fetches it with scripts/tools/download_osworld_v2_assets.py and points OSWORLD_FILE_BASE_URL at the local copy; xlangai/osworld_v2_assets holds only browser-facing files.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3de50fa3eee0081d31ac/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/xlangai/osworld_v2_assets_gated（获取于 2026-11-10T03:01:06Z；SHA-256：cf51915e2522cafe54a43e9bf969b425c73304f6745f2e55d9286c9c632ca646）
+- https://huggingface.co/api/datasets/xlangai/osworld_v2_assets_gated（获取于 2026-11-10T03:01:06Z；SHA-256：cf51915e2522cafe54a43e9bf969b425c73304f6745f2e55d9286c9c632ca646）
 
 ---
 
@@ -1851,7 +1885,7 @@ Counts are files in the public main-branch manifest. Benchmark releases are pinn
 
 #### 数量记录
 
-- 6 platform categories — Linux, macOS, Windows, Android, iOS, and Web（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md）
+- 6 个平台类别 — Linux, macOS, Windows, Android, iOS, and Web（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md）
 
 The six categories include Web. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.
 
@@ -1980,10 +2014,10 @@ The main branch holds the v2 release, which the card describes as using leaf-ele
 
 #### 数量记录
 
-- 1,447,100 screenshots — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
-- 25,575,213 UI element annotations — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
-- 55 UI element classes — ScreenParse v2 label set（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
-- 1,448 Parquet shards — Hub manifest at revision bc0113f9（计算得出；来源：https://huggingface.co/api/datasets/docling-project/screenparse）
+- 1,447,100 张截图 — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
+- 25,575,213 条 UI 元素标注 — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
+- 55 个 UI 元素类别 — ScreenParse v2 label set（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
+- 1,448 个 Parquet 分片 — Hub manifest at revision bc0113f9（计算得出）（来源：https://huggingface.co/api/datasets/docling-project/screenparse）
 
 Screenshots, element annotations, classes and shards are different units and are counted separately. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.
 
@@ -2027,7 +2061,7 @@ Screenshots, element annotations, classes and shards are different units and are
 
 #### 数量记录
 
-- 7,496 examples — train split declared in the dataset card（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md）
+- 7,496 个示例 — train split declared in the dataset card（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md）
 
 The card declares 7,496 examples for the 8K release. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.
 
@@ -2189,7 +2223,7 @@ The card describes this as a subset of a collection of about 80k preprocessed ex
 
 #### 数量记录
 
-- 24,978 rows — train split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md）
+- 24,978 行 — train split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md）
 
 The row count comes from the card's dataset_info metadata; rows count labeled element examples, a separate unit from unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.
 
@@ -2210,6 +2244,40 @@ The row count comes from the card's dataset_info metadata; rows count labeled el
 - https://datasets-server.huggingface.co/statistics?dataset=agentsea/wave-ui-25k&config=default&split=train（获取于 2026-10-18T16:19:34Z；SHA-256：7ad5c9887649c0eaaa4180816c5bd8381d5b7e394f665134cfcdc6c01ba61210）
 - https://huggingface.co/datasets/agentsea/wave-ui/raw/21dc5aa1b39c038aea30f4572d80edef592b7989/README.md（获取于 2026-10-18T16:19:34Z；SHA-256：27ec13aa77dc55113e4d1a19c2269070e2d69d2fe8df8e2313721a1e3fc66bd9）
 - https://huggingface.co/api/datasets/agentsea/wave-ui-25k（获取于 2026-10-18T16:19:30Z；SHA-256：b74327a4ecca6fd198ba54ff78b6820a65f6451a7e8af6bf7aaacdb51488b0ec）
+
+---
+
+## weboperator-experiments
+
+WebOperator 网页智能体使用 gpt-4o 在 812 个 WebArena 任务及 155 个任务的 WebArena-lite 消融实验上的运行日志，包含每个任务的轨迹、搜索树、截图和得分。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-a12c18540006368e69ab/
+- 原始来源：https://huggingface.co/datasets/mahirlabibdihan/weboperator-experiments
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、评测、规划
+- 证据核查日期：2026-11-10T03:01:12Z
+- ID：url:a12c18540006368e69ab
+
+### 范围记录
+
+Each run folder holds config.yml and summary.json, and each task folder holds trajectory.json, tree.json, evaluation.json, experiment.log, action-generator logs, a trajectory.html viewer and step screenshots. The card reports a 54.56% WebArena success rate and 60.00% on WebArena-lite for the full system.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a12c18540006368e69ab/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/mahirlabibdihan/weboperator-experiments（获取于 2026-11-10T03:01:12Z；SHA-256：6714d278f5dc08e3b882b5c5e47670057db8112e0359f28ed30dfbe01d57d93b）
+- https://huggingface.co/api/datasets/mahirlabibdihan/weboperator-experiments（获取于 2026-11-10T03:01:12Z；SHA-256：6714d278f5dc08e3b882b5c5e47670057db8112e0359f28ed30dfbe01d57d93b）
 
 ---
 
@@ -2242,9 +2310,9 @@ The card describes this as a personally reprocessed annotation release: records 
 
 #### 数量记录
 
-- 19 annotation JSONL shards — Hub repository at revision 75287698 (parts 1-19)（计算得出；来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
-- 4,137 screenshot tar shards — Hub repository at revision 75287698 (parts 1-15)（计算得出；来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
-- ≈ 12,000,000 interaction trajectories — WildGUI as described in the Video2GUI project README; not recounted in this Hub release（来源报告；来源：https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md）
+- 19 个标注 JSONL 分片 — Hub repository at revision 75287698 (parts 1-19)（计算得出）（来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
+- 4,137 个截图 tar 分片 — Hub repository at revision 75287698 (parts 1-15)（计算得出）（来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
+- ≈ 12,000,000 条交互轨迹 — WildGUI as described in the Video2GUI project README; not recounted in this Hub release（来源报告；来源：https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md）
 
 Shard counts were computed by script from the pinned Hub API file list; they count files. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.
 
@@ -2293,7 +2361,7 @@ The repository contains only JPEG frames packed in tar shards (671 for part16, 8
 
 #### 数量记录
 
-- 1,922 screenshot tar shards — Hub repository at revision 8d31cbd4 (parts 16-19)（计算得出；来源：https://huggingface.co/api/datasets/joker-112/WildGUI_Screenshots/revision/8d31cbd45c9cb82683bbd5dea767782bb604fbcd）
+- 1,922 个截图 tar 分片 — Hub repository at revision 8d31cbd4 (parts 16-19)（计算得出）（来源：https://huggingface.co/api/datasets/joker-112/WildGUI_Screenshots/revision/8d31cbd45c9cb82683bbd5dea767782bb604fbcd）
 
 Shard count computed by script from the pinned Hub API file list; it counts files. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.
 
@@ -2372,7 +2440,7 @@ AgentNet 包含 Windows、macOS 和 Ubuntu 上的 22.6K 个人工标注桌面计
 
 #### 数量记录
 
-- ≈ 22,600 tasks — AgentNet collection（来源报告；来源：https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md）
+- ≈ 22,600 个任务 — AgentNet collection（来源报告；来源：https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md）
 
 The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. The card distinguishes human task instructions from generated summaries, reasoning, reflections and quality fields; generated labels use a different acceptance process from independent human quality records.
 
@@ -2520,7 +2588,7 @@ The Hub card is license-only; semantic description and reported scale come from 
 
 #### 数量记录
 
-- > 80,000 screen–action pairs — AndroidCode corpus described by Code2World README; the released JSON-row count remains unverified.（来源报告；来源：https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md）
+- > 80,000 组界面–动作对 — AndroidCode corpus described by Code2World README; the released JSON-row count remains unverified.（来源报告；来源：https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md）
 
 The manifest lists 58,953 HTML files; the >80k reported pairs use a different unit. The reported >80k pairs and the HTML-file inventory have different units. The card supplies neither a sample schema nor a count; archive/image completeness and JSON contents remain unverified.
 
@@ -2571,7 +2639,7 @@ The publisher reports approximately 992K instruction-output pairs in its reposit
 
 #### 数量记录
 
-- ≈ 992,000 instruction-output pairs — context-aware episode training release（来源报告；来源：https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md）
+- ≈ 992,000 组指令–输出对 — context-aware episode training release（来源报告；来源：https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md）
 
 The Hub card contains only licensing metadata. The project README supports the episode-training description and rounded count; archive-level quality and exact row counts remain unverified.
 
@@ -2619,12 +2687,12 @@ The publisher flags original desktop files as deprecated because of screenshot-m
 
 #### 数量记录
 
-- ≈ 2,900,000 instructions — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 173,000 images — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 1,100,000 instructions — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 104,000 images — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 150,000 instructions — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 7,800 images — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 2,900,000 条指令 — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 173,000 张图像 — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 1,100,000 条指令 — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 104,000 张图像 — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 150,000 条指令 — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 7,800 张图像 — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
 
 The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are different units.
 
@@ -2639,6 +2707,40 @@ The card identifies deprecated desktop files with screenshot-mapping errors and 
 
 - https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md（获取于 2026-10-16T10:42:13Z；SHA-256：8713ca2a6b1962d5dce7da132e1135898d467053dc6b53b4463a0d43a6433bcb）
 - https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md（获取于 2026-10-16T10:42:13Z；SHA-256：8713ca2a6b1962d5dce7da132e1135898d467053dc6b53b4463a0d43a6433bcb）
+
+---
+
+## AssistantBench
+
+AssistantBench 的任务数据集，托管于 Hugging Face：需要在开放网络上耗时完成的真实问题，分为 dev 和 test 两个 JSONL 文件，dev 部分附答案、参考网址和解释。论文报告共 214 个任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-447997967beea3b07f6f/
+- 原始来源：https://huggingface.co/datasets/AssistantBench/AssistantBench
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T03:01:03Z
+- ID：url:447997967beea3b07f6f
+
+### 范围记录
+
+Two files, assistant_bench_v1.0_dev.jsonl and assistant_bench_v1.0_test.jsonl; dev rows carry task, answer, gold_url, explanation and difficulty fields. The card declares Apache-2.0, and the benchmark repository links a Hugging Face leaderboard for submissions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-447997967beea3b07f6f/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/AssistantBench/AssistantBench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/AssistantBench/AssistantBench（获取于 2026-11-10T03:01:03Z；SHA-256：c20c637d01ea35c22b59ea2ec06317fbebeb6b3b5793a999ce8053e8af9d1fb7）
+- https://huggingface.co/api/datasets/AssistantBench/AssistantBench（获取于 2026-11-10T03:01:03Z；SHA-256：c20c637d01ea35c22b59ea2ec06317fbebeb6b3b5793a999ce8053e8af9d1fb7）
 
 ---
 
@@ -2712,6 +2814,40 @@ The repository file list includes a behavior CSV. The card says the synthetic we
 
 ---
 
+## CaptchaArena-Trajectories
+
+在 20 类交互式验证码上的思维链计算机使用轨迹：共 46,000 条浏览器执行记录，含每步截图与点击、拖拽、长按或输入动作，仅保留通过页面验证器检查的轨迹。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-52067b3e48e9381e4c66/
+- 原始来源：https://huggingface.co/datasets/ZHEN-04/CaptchaArena-Trajectories
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：模仿学习、数据生成
+- 证据核查日期：2026-11-10T03:01:03Z
+- ID：url:52067b3e48e9381e4c66
+
+### 范围记录
+
+Train and val splits hold 42,000 and 4,000 trajectories, expanded into 144,618 per-turn SFT samples with 169,945 PNG screenshots (about 50.9 GB). Access is gated with manual approval under CC-BY-NC-4.0; the 4,000 test puzzles sit in the separate CaptchaArena puzzle dataset.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-52067b3e48e9381e4c66/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-nc-4.0 — https://huggingface.co/datasets/ZHEN-04/CaptchaArena-Trajectories
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/ZHEN-04/CaptchaArena-Trajectories?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags（获取于 2026-11-10T03:01:03Z；SHA-256：24c896e5df4852c97d768899db1c62734937394c8d6f3526321f4af181a05bc4）
+- https://huggingface.co/api/datasets/ZHEN-04/CaptchaArena-Trajectories?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags（获取于 2026-11-10T03:01:03Z；SHA-256：24c896e5df4852c97d768899db1c62734937394c8d6f3526321f4af181a05bc4）
+
+---
+
 ## Cie1/MMSearch-Plus
 
 一个包含 311 项图像任务的数据集，用于评估通过迭代检索图像和文本来回答问题的多模态网页浏览智能体。
@@ -2777,6 +2913,40 @@ The card documents Parquet test splits, supplementary JSON files, a leaderboard 
 
 - https://huggingface.co/api/datasets/TIGER-Lab/ClawBench（获取于 2026-11-09T05:05:16Z；SHA-256：9cddcd7abe86f5a70c1ebb61bd46521e5c67fa04e147fce9f1134f25f59de997）
 - https://huggingface.co/api/datasets/TIGER-Lab/ClawBench（获取于 2026-11-09T05:05:16Z；SHA-256：9cddcd7abe86f5a70c1ebb61bd46521e5c67fa04e147fce9f1134f25f59de997）
+
+---
+
+## ClawBenchV2Trace
+
+ClawBench V2 130 项任务集上浏览器智能体运行的原始执行轨迹，每次运行包含屏幕录像、网络抓包、浏览器动作流、智能体推理过程、被拦截的最终请求以及评审结论。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-3452cef2f99d7de2935a/
+- 原始来源：https://huggingface.co/datasets/TIGER-Lab/ClawBenchV2Trace
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、可观测性
+- 证据核查日期：2026-11-10T03:01:05Z
+- ID：url:3452cef2f99d7de2935a
+
+### 范围记录
+
+As of 2026-05-12 the card lists 806 V2 runs from six models under the hermes harness, each run directory self-contained at about 10 to 15 MB. Scoring combines a per-task interception schema with an LLM judge; the card declares Apache-2.0, and V1 traces sit in NAIL-Group/ClawBenchV1Trace.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3452cef2f99d7de2935a/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/TIGER-Lab/ClawBenchV2Trace
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/TIGER-Lab/ClawBenchV2Trace（获取于 2026-11-10T03:01:05Z；SHA-256：bea2ceb965a9a52fbc1df358a92e046afba55bb8b99295afa7cfbc87830e3c4f）
+- https://huggingface.co/api/datasets/TIGER-Lab/ClawBenchV2Trace（获取于 2026-11-10T03:01:05Z；SHA-256：bea2ceb965a9a52fbc1df358a92e046afba55bb8b99295afa7cfbc87830e3c4f）
 
 ---
 
@@ -3018,10 +3188,10 @@ The dataset card holds only license metadata; the description and scope come fro
 
 #### 数量记录
 
-- 2,166 task trajectory directories with traj.jsonl — six run directories at Hub revision b9495a8e（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
-- 6 run directories — gelato-30b/run_1-3 and gta1-32b_baseline/run_1-3 at Hub revision b9495a8e（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
-- 361 distinct OS-World tasks — each run directory at Hub revision b9495a8e (the same task set in all six)（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
-- 34,598 PNG screenshots — six run directories at Hub revision b9495a8e（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 2,166 个含 traj.jsonl 的任务轨迹目录 — six run directories at Hub revision b9495a8e（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 6 个运行目录 — gelato-30b/run_1-3 and gta1-32b_baseline/run_1-3 at Hub revision b9495a8e（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 361 个不重复的 OS-World 任务 — each run directory at Hub revision b9495a8e (the same task set in all six)（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 34,598 张 PNG 截图 — six run directories at Hub revision b9495a8e（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
 
 Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository. Directories, tasks and screenshots are different units and are counted separately.
 
@@ -3072,7 +3242,7 @@ The public release contains nine Parquet shards. The short card supplies schema 
 
 #### 数量记录
 
-- 164,533 step records — train split（来源报告；来源：https://huggingface.co/datasets/apurvaga/go-browse-wa/raw/main/README.md）
+- 164,533 条步骤记录 — train split（来源报告；来源：https://huggingface.co/datasets/apurvaga/go-browse-wa/raw/main/README.md）
 
 The card count is flattened step records. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.
 
@@ -3155,9 +3325,9 @@ The card declares MIT and attributes the source examples to GroundCUA.
 
 #### 数量记录
 
-- 12,600 prompts — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
-- 11,205 screenshots — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
-- 87 desktop applications — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
+- 12,600 条提示词 — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
+- 11,205 张截图 — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
+- 87 个桌面应用 — RL training corpus（来源报告；来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md）
 
 Publisher-reported counts cover a selection and reformatting of GroundCUA. No independent image-overlap audit was performed.
 
@@ -3281,6 +3451,40 @@ Public archive shards are present. The dataset card declares Apache-2.0; it does
 
 ---
 
+## GUI-SD-data
+
+GUI-SD 的训练数据，GUI-SD 是一种用于 GUI 定位的在线策略自蒸馏方法；数据包含约 6.99k 张截图和一个供 GUI-SD 训练脚本读取的 JSONL 标注文件。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-1a495ecc8b0d73e04308/
+- 原始来源：https://huggingface.co/datasets/yankie123/GUI-SD-data
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:1a495ecc8b0d73e04308
+
+### 范围记录
+
+The repository holds an images/ folder of PNG screenshots and anno.jsonl in a single train split, with no dataset card or license. The GUI-SD repository's ms-swift training script loads the data through its --dataset argument.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-1a495ecc8b0d73e04308/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/yankie123/GUI-SD-data（获取于 2026-11-10T03:01:01Z；SHA-256：07aeef4c2b766ef4e95ec3aa6439c7060aadd9d046936aa197216da59cf8d67a）
+- https://huggingface.co/api/datasets/yankie123/GUI-SD-data（获取于 2026-11-10T03:01:01Z；SHA-256：07aeef4c2b766ef4e95ec3aa6439c7060aadd9d046936aa197216da59cf8d67a）
+
+---
+
 ## GUI-World
 
 覆盖 Android、iOS、网站和 XR 等 6 类场景的 GUI 视频基准及训练数据，包含面向图像和视频 LLM 的 8 类问题，以及 GUI-Vid 模型。
@@ -3306,8 +3510,8 @@ Public archive shards are present. The dataset card declares Apache-2.0; it does
 
 #### 数量记录
 
-- 6 GUI scenario categories — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
-- 8 question types — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
+- 6 个 GUI 场景类别 — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
+- 8 种问题类型 — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
 
 Taxonomy counts describe coverage; video and question counts use different units. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation.
 
@@ -3356,10 +3560,10 @@ This is the Hub data release; the repository record github:dongping-chen/gui-wor
 
 #### 数量记录
 
-- 12,379 video files — MP4 and MOV files in the Hub manifest at revision 7901fa3f（计算得出；来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
-- 12 annotation files — JSONL files under Annotation/benchmark and Annotation/train at revision 7901fa3f（计算得出；来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
-- 6 GUI scenario categories — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
-- 8 question types — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
+- 12,379 个视频文件 — MP4 and MOV files in the Hub manifest at revision 7901fa3f（计算得出）（来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
+- 12 个标注文件 — JSONL files under Annotation/benchmark and Annotation/train at revision 7901fa3f（计算得出）（来源：https://huggingface.co/api/datasets/ONE-Lab/GUI-World）
+- 6 个 GUI 场景类别 — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
+- 8 种问题类型 — dataset taxonomy（来源报告；来源：https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md）
 
 Video files were counted from the Hub file manifest; video, question and annotation counts use different units.
 
@@ -3512,6 +3716,40 @@ The card reports 2,454 tasks across 452 websites and declares an MIT license. Th
 
 ---
 
+## HiconAgent-AMEX
+
+基于 AMEX 安卓数据集构建的 HiconAgent 训练与验证数据：每个样本包含任务目标、此前的截图与动作，并以下一步动作作为答案，用于 GUI 智能体的历史感知强化学习。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-3df97229d34c44c2014a/
+- 原始来源：https://huggingface.co/datasets/Minuskid/HiconAgent-AMEX
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、交互历史、强化学习
+- 证据核查日期：2026-11-10T03:01:06Z
+- ID：url:3df97229d34c44c2014a
+
+### 范围记录
+
+Two parquet files, train and validation, with id, images, problem, answer and image_size fields; the paper samples 3,000 AMEX steps without extra filtering. The card lists the task category as robotics and declares no license; the HiconAgent repository links this dataset as its data.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3df97229d34c44c2014a/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Minuskid/HiconAgent-AMEX（获取于 2026-11-10T03:01:06Z；SHA-256：139a63bf925823f929bfc1877e6e1659ceb33ee834051eac18348a16bd325e38）
+- https://huggingface.co/api/datasets/Minuskid/HiconAgent-AMEX（获取于 2026-11-10T03:01:06Z；SHA-256：139a63bf925823f929bfc1877e6e1659ceb33ee834051eac18348a16bd325e38）
+
+---
+
 ## InSTA 150k Tasks (v3)
 
 InSTA 项目约 15 万项网页导航任务，每项提供网站域名、指令、建议步骤和成功标准，训练集与测试集取自不同网站。
@@ -3541,10 +3779,10 @@ The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agen
 
 #### 数量记录
 
-- ≈ 150,000 tasks — complete v3 release（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 143,508 examples — train split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 2,933 examples — test split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 2,933 distinct website domains — test split（计算得出；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet）
+- ≈ 150,000 个任务 — complete v3 release（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 143,508 个示例 — train split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 2,933 个示例 — test split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 2,933 个不重复的网站域名 — test split（计算得出）（来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet）
 
 Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file.
 
@@ -3564,6 +3802,40 @@ Split sizes are the card's dataset_info num_examples. The distinct-domain count 
 - https://huggingface.co/api/datasets/data-for-agents/insta-150k-v3（获取于 2026-10-18T16:03:35Z；SHA-256：480f7e251f32652812aafd5ffcb638a14c9612cec73bbb33c245f9685a542808）
 - https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet（获取于 2026-10-18T16:04:11Z；SHA-256：3ae8bb40fd3da6991c15e5d34579b0a631f9ad520ad70a09358ef99770cb239d）
 - https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md（获取于 2026-10-18T16:03:36Z；SHA-256：0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23）
+
+---
+
+## jacklishufan/MobileWorld
+
+MobileWorldBench 训练数据的标注归档：一个 tar 文件，内含基于 AiTW 与 AndroidControl 屏幕构建的 parquet 子集以及一个清洗后的问答划分，用于微调移动端语义世界模型。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-3d12df2fd27076504434/
+- 原始来源：https://huggingface.co/datasets/jacklishufan/MobileWorld
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：世界模型、手机操作
+- 证据核查日期：2026-11-10T03:01:06Z
+- ID：url:3d12df2fd27076504434
+
+### 范围记录
+
+One mobileworld.tar of about 184 MB; the README asks users to download and untar it manually. Screenshots come from the separate jacklishufan/aitw and jacklishufan/android_control image datasets, and the README also links the Qwen3-VL-8B-Instruct-MobileWorld-SFT model. The repository has no card or license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3d12df2fd27076504434/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/jacklishufan/MobileWorld（获取于 2026-11-10T03:01:06Z；SHA-256：1f10d590e7459e736945793ddc41dd83112bcbb411dd62db596dad8396fb8786）
+- https://huggingface.co/api/datasets/jacklishufan/MobileWorld（获取于 2026-11-10T03:01:06Z；SHA-256：1f10d590e7459e736945793ddc41dd83112bcbb411dd62db596dad8396fb8786）
 
 ---
 
@@ -3680,6 +3952,40 @@ The test split is stored in data/test.jsonl. The card directs users to the separ
 
 - https://huggingface.co/api/datasets/utahnlp/knows-benchmark（获取于 2026-11-09T21:08:28Z；SHA-256：b0b80319026a6027e08ea9ea190d3fca2478deb707d62236a9ca27fa3742dea5）
 - https://huggingface.co/api/datasets/utahnlp/knows-benchmark（获取于 2026-11-09T21:08:28Z；SHA-256：b0b80319026a6027e08ea9ea190d3fca2478deb707d62236a9ca27fa3742dea5）
+
+---
+
+## kuangtie/GUI-Robust
+
+GUI-Robust 数据的 Hub 发布版本：包含 GUI 任务的逐步截图及 JSON 标注，任务涵盖七类真实场景异常，可用 GUI-Robust 评测脚本评估单步定位与完整任务成功率。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-369456114b26b0ff0a05/
+- 原始来源：https://huggingface.co/datasets/kuangtie/GUI-Robust
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：鲁棒性、评测、动作预测
+- 证据核查日期：2026-11-10T03:01:05Z
+- ID：url:369456114b26b0ff0a05
+
+### 范围记录
+
+The repository holds a 16.1 GB ui-agent-benchmark.rar archive and a folder of 65 task directories with per-step PNG screenshots and JSON annotations, step names in Chinese; the card declares Apache-2.0, English and Chinese, and 1K to 10K examples. The paper collects user action sequences with RPA tools and writes step and task descriptions with MLLMs.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-369456114b26b0ff0a05/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/kuangtie/GUI-Robust
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/kuangtie/GUI-Robust（获取于 2026-11-10T03:01:05Z；SHA-256：651ba105b1684b3f9ccc1fdfd127506a574e4d1b801a4cfeb962e3e69c1ea459）
+- https://huggingface.co/api/datasets/kuangtie/GUI-Robust（获取于 2026-11-10T03:01:05Z；SHA-256：651ba105b1684b3f9ccc1fdfd127506a574e4d1b801a4cfeb962e3e69c1ea459）
 
 ---
 
@@ -4154,8 +4460,8 @@ The card says each attempt holds step screenshots, a log.json action sequence, e
 
 #### 数量记录
 
-- 14 per-agent ZIP archives — Hub manifest at revision 4525fc5（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
-- 19 gzip JSON trajectory preview bundles — site/trajs/ in the Hub manifest at revision 4525fc5（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
+- 14 个按智能体划分的 ZIP 归档 — Hub manifest at revision 4525fc5（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
+- 19 个 gzip JSON 轨迹预览包 — site/trajs/ in the Hub manifest at revision 4525fc5（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
 
 Archives and preview bundles are different packagings and overlap in the agents they cover; neither is a trajectory or task count. site/trajs/index.json lists only 9 of the 19 preview bundles.
 
@@ -4254,7 +4560,7 @@ The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automa
 
 #### 数量记录
 
-- 130 per-task evaluation scripts — evaluation_scripts/2025_10_23 in osunlp/Mind2Web-2 at revision 54f5b25（计算得出；来源：https://huggingface.co/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23）
+- 130 个逐任务评测脚本 — evaluation_scripts/2025_10_23 in osunlp/Mind2Web-2 at revision 54f5b25（计算得出）（来源：https://huggingface.co/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23）
 
 The script count is the number of distinct .py files in the pinned tree listing. The automatic access gate leaves the dev and test task CSVs unopened and their per-split task counts unknown.
 
@@ -4432,8 +4738,8 @@ Official README calls this a partial training release and says app data will be 
 
 #### 数量记录
 
-- > 600,000 screenshot–view-hierarchy pairs — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
-- > 20,000 Android apps — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
+- > 600,000 组截图–视图层级对 — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
+- > 20,000 个 Android 应用 — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
 
 Counts describe the card’s first-release claim. The card distinguishes globally image-hash-deduplicated screenshot/VH pairs from November 2024 complete-app traces; trace states reuse the screen population. JPEG/JSON and Parquet are alternative representations. Listed filename ranges are examples; a complete corpus count requires a separate inventory. No train/validation/test split is documented. Hub revision c734715e is ungated; MIT is its data declaration, without resolving third-party app content rights.
 
@@ -4449,6 +4755,40 @@ Counts describe the card’s first-release claim. The card distinguishes globall
 - https://huggingface.co/api/datasets/mllmTeam/MobileViews（获取于 2026-10-16T06:38:26Z；SHA-256：d36d62283deecd3c5ccf1ac1af49aa7ba779a1d69cdcaea39a1bed37ff5d66b9）
 - https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md（获取于 2026-10-17T14:10:01Z；SHA-256：94a4f04e180dbd597c271b0d7470c907e6526b95a6420f01b3183feb1ee24d6e）
 - https://huggingface.co/api/datasets/mllmTeam/MobileViews（获取于 2026-10-16T06:38:26Z；SHA-256：d36d62283deecd3c5ccf1ac1af49aa7ba779a1d69cdcaea39a1bed37ff5d66b9）
+
+---
+
+## mobilevlm_test
+
+MobileVLM 的 Mobile3M 基准测试数据，以两卷 7z 压缩包发布。Mobile3M 是一个中文移动端 UI 数据集，包含 300 万个由真实跳转动作连接的页面。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-5182ab4e9bd7843f240b/
+- 原始来源：https://huggingface.co/datasets/xwk123/mobilevlm_test
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：界面理解、手机操作、评测
+- 证据核查日期：2026-11-10T03:01:03Z
+- ID：url:5182ab4e9bd7843f240b
+
+### 范围记录
+
+Files are test_data.7z.001 and test_data.7z.002. The card states CC BY-NC-SA 4.0 for the dataset and Apache 2.0 for code; the MobileVLM repository releases Mobile3M training data, training JSON files and the Appium collection script separately.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-5182ab4e9bd7843f240b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/xwk123/mobilevlm_test
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/xwk123/mobilevlm_test（获取于 2026-11-10T03:01:03Z；SHA-256：abee6057987d5794c4f18114c0918a85ec346a1d253e5610c2d691e4ee6f9d65）
+- https://huggingface.co/api/datasets/xwk123/mobilevlm_test（获取于 2026-11-10T03:01:03Z；SHA-256：abee6057987d5794c4f18114c0918a85ec346a1d253e5610c2d691e4ee6f9d65）
 
 ---
 
@@ -4481,10 +4821,10 @@ The card, shared with its sibling crawl release, carries only the license, links
 
 #### 数量记录
 
-- 6,972 annotated screenshots — MoCon train split（计算得出；来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv）
-- 1,143 annotated screenshots — MoCon val split（计算得出；来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv）
-- 2,249 annotated screenshots — MoCon test split（计算得出；来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv）
-- 154 icon classes — icon.csv class table (Chinese and English names)（计算得出；来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/icon.csv）
+- 6,972 张已标注的截图 — MoCon train split（计算得出）（来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv）
+- 1,143 张已标注的截图 — MoCon val split（计算得出）（来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv）
+- 2,249 张已标注的截图 — MoCon test split（计算得出）（来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv）
+- 154 个图标类别 — icon.csv class table (Chinese and English names)（计算得出）（来源：https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/icon.csv）
 
 split.csv assigns each of the 10,364 annotation IDs to exactly one split, and the IDs match the JSON file names in mocondata.zip one to one. Screenshot images are referenced by file name; pairing the annotations with pixels requires images from outside this repository. The publisher states no counts; all counts were computed from the released files.
 
@@ -4587,12 +4927,12 @@ Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6
 
 #### 数量记录
 
-- ≈ 36,000 screenshots — all three subsets as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 16,232 screenshot examples — desktop train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 256 screenshot examples — desktop validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 9,830 screenshot examples — web train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- 256 screenshot examples — web validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
-- ≈ 10,500 screenshot examples — mobile subset as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- ≈ 36,000 张截图 — all three subsets as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 16,232 个截图示例 — desktop train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 256 个截图示例 — desktop validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 9,830 个截图示例 — web train split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- 256 个截图示例 — web validation split in the card metadata（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
+- ≈ 10,500 个截图示例 — mobile subset as described in the card prose（来源报告；来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md）
 
 The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated.
 
@@ -4724,6 +5064,40 @@ Each run directory includes metadata, recording.mp4, actions.jsonl, requests.jso
 
 ---
 
+## navi-bench
+
+Navi-Bench 的任务数据，该基准包含在真实网站上执行的日常网页任务：验证集共 200 行，覆盖 Apartments、Craigslist、Google Flights 等十个网站，每行带有任务生成配置、领域和类别。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-5bbbc1012ab02e9df3bb/
+- 原始来源：https://huggingface.co/datasets/yutori-ai/navi-bench
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:5bbbc1012ab02e9df3bb
+
+### 范围记录
+
+One parquet file with fields such as task_id, task_generation_config_json, env, domain, l1_category, l2_category and suggested_difficulty; the card declares Apache-2.0. The domain column covers ten sites: Resy, Zillow, Allbirds, Craigslist, Google Flights, OpenTable, Gymshark, Apartments, Redfin and Trip, 20 rows each; 66 of the 200 rows carry a suggested difficulty.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-5bbbc1012ab02e9df3bb/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/yutori-ai/navi-bench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/yutori-ai/navi-bench（获取于 2026-11-10T03:01:04Z；SHA-256：8c41c65a4a1df2c3ba8602bace4dff99dc72529b18e72e15068346a332e95435）
+- https://huggingface.co/api/datasets/yutori-ai/navi-bench（获取于 2026-11-10T03:01:04Z；SHA-256：8c41c65a4a1df2c3ba8602bace4dff99dc72529b18e72e15068346a332e95435）
+
+---
+
 ## NNetNav Live data
 
 随 NNetNav 发布的实时网站场景浏览器交互数据，训练文件和测试文件分别提供。
@@ -4827,6 +5201,40 @@ The card lists Parquet configurations with training, validation, and test splits
 
 ---
 
+## OpenPhone_dataset
+
+OpenPhone 移动智能体的训练数据：包含 AndroidLab 训练数据压缩包，以及带有大模型生成的推理与反思链、按 GRPO 训练格式整理的 Hugging Face 视觉语言数据集。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-e7ea65893ab264517d83/
+- 原始来源：https://huggingface.co/datasets/hkuds/OpenPhone_dataset
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、数据生成、强化学习
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:e7ea65893ab264517d83
+
+### 范围记录
+
+Two zip archives: android-lab-train.zip, copied from the AndroidLab project, and android_lab_o1_visual_hf.zip, produced from it by the OpenPhone prepare_data scripts. The OpenPhone repository uses them for SFT with LLaMA-Factory and GRPO training of a Qwen2.5-VL-3B model. License: MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-e7ea65893ab264517d83/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/hkuds/OpenPhone_dataset
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/hkuds/OpenPhone_dataset（获取于 2026-11-10T03:01:14Z；SHA-256：c8025c985de2d2b28592be5da74b2047e41b081d908de1d07cdfc8cf7b63d211）
+- https://huggingface.co/api/datasets/hkuds/OpenPhone_dataset（获取于 2026-11-10T03:01:14Z；SHA-256：c8025c985de2d2b28592be5da74b2047e41b081d908de1d07cdfc8cf7b63d211）
+
+---
+
 ## OS-Copilot/OS-Shepherd-100K
 
 一个包含图形界面智能体轨迹和截图的数据集，用于训练判断任务是否完成的模型，并提供监督训练记录及强化学习数据划分。
@@ -4924,15 +5332,15 @@ The repository is gated with automatic approval; its card could not be read with
 
 #### 数量记录
 
-- 21 ZIP result archives — repository root at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0）
-- 7 model run folders — website_demo folder at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo）
-- 108 task folders — website_demo/MiniMax-M3/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/MiniMax-M3/tasks）
-- 108 task folders — website_demo/claude-opus-4-7/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-opus-4-7/tasks）
-- 108 task folders — website_demo/claude-sonnet-4-6-max/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-max/tasks）
-- 108 task folders — website_demo/claude-sonnet-4-6-medium/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-medium/tasks）
-- 108 task folders — website_demo/gpt-5.5/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.5/tasks）
-- 107 task folders — website_demo/gpt-5.6/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks）
-- 108 task folders — website_demo/qwen3.7/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks）
+- 21 个 ZIP 结果归档 — repository root at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0）
+- 7 个模型运行文件夹 — website_demo folder at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo）
+- 108 个任务文件夹 — website_demo/MiniMax-M3/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/MiniMax-M3/tasks）
+- 108 个任务文件夹 — website_demo/claude-opus-4-7/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-opus-4-7/tasks）
+- 108 个任务文件夹 — website_demo/claude-sonnet-4-6-max/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-max/tasks）
+- 108 个任务文件夹 — website_demo/claude-sonnet-4-6-medium/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-medium/tasks）
+- 108 个任务文件夹 — website_demo/gpt-5.5/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.5/tasks）
+- 107 个任务文件夹 — website_demo/gpt-5.6/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks）
+- 108 个任务文件夹 — website_demo/qwen3.7/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks）
 
 Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task; folders across models overlap by task, with 107 folders for gpt-5.6 and 108 for the others. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.
 
@@ -4993,10 +5401,10 @@ Access requires manual approval by the publisher; the record rests on the public
 
 #### 数量记录
 
-- 153 task-definition JSON files — <domain>/tasks/ at Hub revision 9b8de9ad (chem 44, biomed 34, physics 31, stat 20, eeg 10, econ 6, geoscience 6, linguistics 2)（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
-- 115 translated task files — ablation/ at Hub revision 9b8de9ad (23 each in es, fr, ja, th, zh)（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
-- 11 QCOW2 VM images — files at Hub revision 9b8de9ad（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
-- 2,759 files — Hub repository at revision 9b8de9ad（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 153 个任务定义 JSON 文件 — <domain>/tasks/ at Hub revision 9b8de9ad (chem 44, biomed 34, physics 31, stat 20, eeg 10, econ 6, geoscience 6, linguistics 2)（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 115 个已翻译的任务文件 — ablation/ at Hub revision 9b8de9ad (23 each in es, fr, ja, th, zh)（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 11 个 QCOW2 VM 镜像 — files at Hub revision 9b8de9ad（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 2,759 个文件 — Hub repository at revision 9b8de9ad（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
 
 All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, while an agent run is a different unit. Task files, translated variants, images and files are different units and are counted separately.
 
@@ -5045,13 +5453,13 @@ The card calls this a self-reported trajectory package; it links no paper or har
 
 #### 数量记录
 
-- 108 tasks — OSWorld-V2 v2026.06.24 tasks 001-108 in this run（来源报告；来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json）
-- 108 reported task folders with traj.jsonl — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 154 retained earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 132 solution cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 51 recovery cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 12,868 PNG screenshots in reported task folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 16,400 PNG screenshots in earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 108 个任务 — OSWorld-V2 v2026.06.24 tasks 001-108 in this run（来源报告；来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json）
+- 108 个含 traj.jsonl 的已报告任务文件夹 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 154 个保留的先前尝试文件夹 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 132 张解决方案卡片 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 51 张恢复卡片 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 12,868 张位于已报告任务文件夹中的 PNG 截图 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 16,400 张位于先前尝试文件夹中的 PNG 截图 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
 
 Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are counted separately. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.
 
@@ -5343,11 +5751,11 @@ Released by Paradigm Shift AI. The card reports 2,220 browser and 947 computer t
 
 #### 数量记录
 
-- 3,167 tasks — unique completed tasks in the train split（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
-- 3,267 rows — train split rows, including 100 duplicate rows（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
-- 14,740 screenshots — images embedded in the parquet files, covering 1,349 tasks（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
-- 3,167 video files — videos/*.mp4 at revision 0e1b7c63（计算得出；来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
-- 1,766 DOM snapshot archives — dom_snaps/*.zip at revision 0e1b7c63（计算得出；来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
+- 3,167 个任务 — unique completed tasks in the train split（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
+- 3,267 行 — train split rows, including 100 duplicate rows（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
+- 14,740 张截图 — images embedded in the parquet files, covering 1,349 tasks（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
+- 3,167 个视频文件 — videos/*.mp4 at revision 0e1b7c63（计算得出）（来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
+- 1,766 个 DOM 快照归档 — dom_snaps/*.zip at revision 0e1b7c63（计算得出）（来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
 
 Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id.
 
@@ -5429,11 +5837,11 @@ Each CSV row pairs a Rico screen ID with one text serialization of the screen's 
 
 #### 数量记录
 
-- 15,743 screenshots — train split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
-- 2,364 screenshots — validation split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
-- 4,310 screenshots — test split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
-- 2,311 annotated screens (CSV rows) — valid.csv at commit 053a4a1c（计算得出；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv）
-- 4,217 annotated screens (CSV rows) — test.csv at commit 053a4a1c（计算得出；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv）
+- 15,743 张截图 — train split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
+- 2,364 张截图 — validation split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
+- 4,310 张截图 — test split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
+- 2,311 个已标注界面（CSV 行） — valid.csv at commit 053a4a1c（计算得出）（来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv）
+- 4,217 个已标注界面（CSV 行） — test.csv at commit 053a4a1c（计算得出）（来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv）
 
 The README's split sizes count screenshots; the CSV row counts count annotated screens, one row per screen ID. train.csv holds 15,548 rows at the same commit. Labels were machine-generated and then verified and corrected by human raters, according to the README.
 
@@ -5626,8 +6034,8 @@ The card lists image and accessibility fields and a train split. It declares an 
 
 #### 数量记录
 
-- 112,085 summaries — screen2words release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
-- 22,417 screens — RICO screens referenced by screen2words（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
+- 112,085 条摘要 — screen2words release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
+- 22,417 个界面 — RICO screens referenced by screen2words（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
 
 Multiple summaries describe one screen. The repository provides annotations and split files; use the referenced RICO assets for screenshots.
 
@@ -5673,8 +6081,8 @@ The card declares restricted academic research use and no redistribution. Annota
 
 #### 数量记录
 
-- 633,369 annotation rows — full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
-- 610,894 annotation rows — point recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 633,369 行标注数据 — full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 610,894 行标注数据 — point recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
 
 The recipes reuse source images and represent related views of the same dataset. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples.
 
@@ -5689,6 +6097,40 @@ The recipes reuse source images and represent related views of the same dataset.
 
 - https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md（获取于 2026-10-17T01:48:10Z；SHA-256：96a87222645c3f823e6f67e50708792e2917ddeb8eea5aacdf2de8c5bbff165f）
 - https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md（获取于 2026-10-17T01:48:10Z；SHA-256：96a87222645c3f823e6f67e50708792e2917ddeb8eea5aacdf2de8c5bbff165f）
+
+---
+
+## SE-GUI-3k
+
+SE-GUI 的种子训练数据。SE-GUI 是通过自进化强化微调训练的 GUI 定位模型；每行数据将一段工具调用对话、一张截图与目标边界框配对。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-380318a8de65fe45956c/
+- 原始来源：https://huggingface.co/datasets/XinBB/SE-GUI-3k
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:05Z
+- ID：url:380318a8de65fe45956c
+
+### 范围记录
+
+One SE-GUI-3k.json file of about 1.38 GB; the Hub viewer shows a single train split of 772 rows with six-value bbox fields. The SE-GUI README describes a 3,018-sample curated seed set used to train 3B and 7B Qwen2.5-VL grounding models; the repository has no card or license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-380318a8de65fe45956c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/XinBB/SE-GUI-3k（获取于 2026-11-10T03:01:05Z；SHA-256：dba30cb278f98b0bddff5c49747894c90fc832cebd52f50e73ca2ed79b91bd4a）
+- https://huggingface.co/api/datasets/XinBB/SE-GUI-3k（获取于 2026-11-10T03:01:05Z；SHA-256：dba30cb278f98b0bddff5c49747894c90fc832cebd52f50e73ca2ed79b91bd4a）
 
 ---
 
@@ -5755,7 +6197,7 @@ Public Parquet annotations, metadata JSON and images.tar.gz are present. The car
 
 #### 数量记录
 
-- 21,988 rows — train split（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-web/raw/main/README.md）
+- 21,988 行 — train split（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-web/raw/main/README.md）
 
 Row count is the card dataset_info value; one row may contain multiple instructions. The card summarizes screenshots as approximately 22K. No data license is declared.
 
@@ -5854,6 +6296,40 @@ No sample or episode count is inferred from the size tag or package manifest. Ma
 
 ---
 
+## Static-FineBench
+
+FineState-Bench 的数据，该基准评测细粒度 GUI 状态控制：包含桌面、网页和移动端截图，以及 XML 与 JSON 标注，标注给出定位与交互指令，并分别提供定位框和交互框。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-94adc54bf1cd168da768/
+- 原始来源：https://huggingface.co/datasets/wumiaoshou/Static-FineBench
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、网页、跨平台
+- 主题：GUI 定位、评测、状态追踪
+- 证据核查日期：2026-11-10T03:00:58Z
+- ID：url:94adc54bf1cd168da768
+
+### 范围记录
+
+The repository holds desktop, web and mobile screenshots with Pascal VOC-style XML annotations and per-category JSON annotation folders, with Chinese copies, and has no dataset card. The FineState-Bench GitHub repository holds the desktop, web and mobile evaluation scripts with Loc SR, Int SR, SA-Locate SR and SA-Interact SR metrics and declares the MIT License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-94adc54bf1cd168da768/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/wumiaoshou/Static-FineBench（获取于 2026-11-10T03:00:58Z；SHA-256：b1d8c94f6f1618016211ae73cf5dcf2c177bf69e0d43d6090671721ad01b83dc）
+- https://huggingface.co/api/datasets/wumiaoshou/Static-FineBench（获取于 2026-11-10T03:00:58Z；SHA-256：b1d8c94f6f1618016211ae73cf5dcf2c177bf69e0d43d6090671721ad01b83dc）
+
+---
+
 ## SWEeper-Bench
 
 SWEeper-Bench 提供源自网页应用程序缺陷的任务，用于评估检查运行中应用并修复问题的智能体。每个任务包含提示、代码库版本和浏览器行为测试。
@@ -5888,6 +6364,40 @@ The repository lists test data in JSONL and Parquet formats. The card describes 
 
 ---
 
+## SWEeper-Bench-traces
+
+SWEeper-Bench 论文的全部运行记录，共 5,200 次运行、42 种智能体配置；每次运行含编码智能体的轨迹、shell 命令和补丁，以及浏览器验证器的轨迹与判定。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-54907fd6dc968eaced34/
+- 原始来源：https://huggingface.co/datasets/zlab-princeton/SWEeper-Bench-traces
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、可观测性、工具集成
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:54907fd6dc968eaced34
+
+### 范围记录
+
+runs.csv indexes every run by task, model, harness, prompt, template and verdict; the full set is about 5 GB in 65,000 files. Ablations cover bug-described prompts, a non-browser template, other harnesses and time budgets. Released under CC BY 4.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-54907fd6dc968eaced34/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/zlab-princeton/SWEeper-Bench-traces
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/zlab-princeton/SWEeper-Bench-traces（获取于 2026-11-10T03:01:04Z；SHA-256：26dfa3a4bf48206366e877224ee72f9bb8a1310186bbbdaf28748b8f52133c33）
+- https://huggingface.co/api/datasets/zlab-princeton/SWEeper-Bench-traces（获取于 2026-11-10T03:01:04Z；SHA-256：26dfa3a4bf48206366e877224ee72f9bb8a1310186bbbdaf28748b8f52133c33）
+
+---
+
 ## TimeWarp
 
 包含 231 个网页智能体任务目标的数据集，覆盖六个界面时代的 Wiki、News 和 Shop 网站，并提供训练集、测试集及评估器规范。
@@ -5919,6 +6429,40 @@ The release lists train.csv with 128 goals, test.csv with 103, and data.json wit
 
 - https://huggingface.co/api/datasets/sparklabutah/timewarp（获取于 2026-11-09T19:57:15Z；SHA-256：19932bff03ae237843b6e8e933eb940912c518c829ea180ae94e3c3e4628cd7d）
 - https://huggingface.co/api/datasets/sparklabutah/timewarp（获取于 2026-11-09T19:57:15Z；SHA-256：19932bff03ae237843b6e8e933eb940912c518c829ea180ae94e3c3e4628cd7d）
+
+---
+
+## TimeWarp-GPT5-Traces
+
+TimeWarp 网页基准上的 GPT-5 教师轨迹，按 UI 版本分组，包含每一步的 SoM 标注截图和实验日志，用于通过 LlamaFactory 微调网页智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-fa8fd2873571ab1b3556/
+- 原始来源：https://huggingface.co/datasets/sparklabutah/TimeWarp-GPT5-Traces
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、模仿学习、鲁棒性
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:fa8fd2873571ab1b3556
+
+### 范围记录
+
+Folders version_1 to version_6 hold GenericAgentWithTraining runs of gpt-5-2025-08-07 on timewarp tasks, each with SoM screenshots, pickled experiment arguments and goal objects, logs and package versions. The TimeWarp repository's convert2sgptArgs.py converts them to ShareGPT format. License: MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/sparklabutah/TimeWarp-GPT5-Traces
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/sparklabutah/TimeWarp-GPT5-Traces（获取于 2026-11-10T03:01:15Z；SHA-256：eae468a563d694f77c32bb9759c7b46184c450416451dc9db95ee9d60479d41a）
+- https://huggingface.co/api/datasets/sparklabutah/TimeWarp-GPT5-Traces（获取于 2026-11-10T03:01:15Z；SHA-256：eae468a563d694f77c32bb9759c7b46184c450416451dc9db95ee9d60479d41a）
 
 ---
 
@@ -6188,7 +6732,7 @@ The release contains train_1000.jsonl and images.parquet. The official README ex
 
 #### 数量记录
 
-- 1,000 training examples — public example subset（来源报告；来源：https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md）
+- 1,000 个训练示例 — public example subset（来源报告；来源：https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md）
 
 The count is explicitly reported by the publisher. Full training data remains outside this release.
 
@@ -6427,9 +6971,9 @@ Train, validation and test Parquet files are publicly listed. The compilation li
 
 #### 数量记录
 
-- 63,530 rows — train split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md）
-- 7,944 rows — validation split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md）
-- 7,938 rows — test split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md）
+- 63,530 行 — train split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md）
+- 7,944 行 — validation split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md）
+- 7,938 行 — test split（来源报告；来源：https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md）
 
 Card-reported row counts and unique-screen counts are different units. The source field is important for the per-image license terms; the compilation does not relicense original images.
 
@@ -6482,11 +7026,11 @@ Released by the web-arena-x organization. The card cites a project page (webaren
 
 #### 数量记录
 
-- 2,329 trajectories — manifest.json at revision 73cf7f57: Gemini 2.5 Flash 978, Kimi K2.5 643, Qwen 2.5 VL Plus 708（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 1,124 distinct tasks (environment and task_id pairs) — manifest.json at revision 73cf7f57（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 13 web-application environments — manifest.json at revision 73cf7f57（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 25,503 agent steps (sum of the manifest steps field) — manifest.json at revision 73cf7f57（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 2,195 trajectory folders with history.json — Hub file tree at revision 73cf7f57（计算得出；来源：https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe）
+- 2,329 条轨迹 — manifest.json at revision 73cf7f57: Gemini 2.5 Flash 978, Kimi K2.5 643, Qwen 2.5 VL Plus 708（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 1,124 个不重复的任务（环境与 task_id 组合） — manifest.json at revision 73cf7f57（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 13 个 Web 应用环境 — manifest.json at revision 73cf7f57（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 25,503 个智能体步骤（manifest 中 steps 字段之和） — manifest.json at revision 73cf7f57（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 2,195 个含 history.json 的轨迹文件夹 — Hub file tree at revision 73cf7f57（计算得出）（来源：https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe）
 
 Trajectories, tasks, environments, steps and folders are different units and are counted separately. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Two history files were sampled.
 
@@ -6505,6 +7049,40 @@ Trajectories, tasks, environments, steps and folders are different units and are
 - https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/gemini/paypal-my-wallet/task_e1/history.json（获取于 2026-10-18T12:33:30Z；SHA-256：3e990071c45afa463fe8372fd613ca78852fc42a35877373336d7a742fee256a）
 - https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/kimi/gmail/task_e10/history.json（获取于 2026-10-18T12:33:30Z；SHA-256：cfa5f0eda4c0817879c957c70aad7881013a5b4590e0270a4ae86b8e26a0e596）
 - https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/raw/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/README.md（获取于 2026-10-18T12:33:11Z；SHA-256：02e1fc0c65b0314dffb0c141d07048f11a29789938902d617408fc680b3b1031）
+
+---
+
+## webarena-world-model-cot
+
+用于训练语言世界模型的 WebArena 网页状态转移数据：将思维链标注与动作执行后无障碍树中的条目变化配对，供 RLVR-World 中的监督微调与 RLVR 训练使用。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-3e0f07cb0ff3f32dfc0e/
+- 原始来源：https://huggingface.co/datasets/thuml/webarena-world-model-cot
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：世界模型、网页导航
+- 证据核查日期：2026-11-10T03:01:06Z
+- ID：url:3e0f07cb0ff3f32dfc0e
+
+### 范围记录
+
+Train and test parquet files; the card declares MIT. The paper derives it from the WMA WebArena dataset, keeps about 7,000 of 14,000 trajectories under a 5,000-token limit, and splits them 99% for training and 1% for testing.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3e0f07cb0ff3f32dfc0e/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/thuml/webarena-world-model-cot
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/thuml/webarena-world-model-cot（获取于 2026-11-10T03:01:06Z；SHA-256：537384af9032d029a2079216fec61c1bd484778b2f02ac8b7d95a01537924244）
+- https://huggingface.co/api/datasets/thuml/webarena-world-model-cot（获取于 2026-11-10T03:01:06Z；SHA-256：537384af9032d029a2079216fec61c1bd484778b2f02ac8b7d95a01537924244）
 
 ---
 
@@ -6537,10 +7115,10 @@ The publisher's cleaned v2 release is a separate Hub repository (webagentlab/web
 
 #### 数量记录
 
-- 31,725 trajectories — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
-- 317,993 interaction steps — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
-- 428 web domains — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
-- 13 Parquet files — processed/high_parquet (2) and processed/low_parquet (11) at revision bd569907（计算得出；来源：https://huggingface.co/api/datasets/webagentlab/webchain-legacy）
+- 31,725 条轨迹 — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
+- 317,993 个交互步骤 — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
+- 428 个 Web 领域 — WebChain corpus as stated on the original-release card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md）
+- 13 个 Parquet 文件 — processed/high_parquet (2) and processed/low_parquet (11) at revision bd569907（计算得出）（来源：https://huggingface.co/api/datasets/webagentlab/webchain-legacy）
 
 Trajectories, steps, domains and files are different units and are counted separately. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest.
 
@@ -6589,13 +7167,13 @@ The card calls this the cleaned, training-ready release and points to the publis
 
 #### 数量记录
 
-- 31,675 cleaned trajectories — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 317,682 interaction steps — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 39,332 Seed/Demo sliding-window rows — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 263,995 SFT image/action turns — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 150 evaluation traces — test_suite_150 subset as stated on the card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 48 data parts per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出；来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
-- 71 SFT Parquet shards per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出；来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
+- 31,675 条清洗后的轨迹 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 317,682 个交互步骤 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 39,332 行 Seed/Demo 滑动窗口数据 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 263,995 轮 SFT 图像/动作交互 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 150 条评测追踪记录 — test_suite_150 subset as stated on the card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 48 个数据分卷（每种格式） — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出）（来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
+- 71 个 SFT Parquet 分片（每种格式） — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出）（来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
 
 Trajectories, steps, windows, turns, parts and shards are different units and are counted separately. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the formats overlap. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card.
 
@@ -6611,6 +7189,40 @@ Trajectories, steps, windows, turns, parts and shards are different units and ar
 - https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md（获取于 2026-10-18T15:33:42Z；SHA-256：ac41dbb10c924efbad8cc93340a34a73cb9218f1930ef6d8dced582050cbd68c）
 - https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce（获取于 2026-10-18T15:33:18Z；SHA-256：b2845f4365632a07cf5296879f18b516603a08a7b7700558db543962475a7bfa）
 - https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md（获取于 2026-10-18T15:33:42Z；SHA-256：ac41dbb10c924efbad8cc93340a34a73cb9218f1930ef6d8dced582050cbd68c）
+
+---
+
+## webgames
+
+WebGames 的任务列表，这是一组供浏览智能体完成的客户端网页挑战：一个 JSONL 文件，记录每个任务的 ID、标题、描述、页面路径、完成后显示的密码和标签。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-654e0cbc1a22b59eca47/
+- 原始来源：https://huggingface.co/datasets/convergence-ai/webgames
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:654e0cbc1a22b59eca47
+
+### 范围记录
+
+Agents are scored by checking that the task's password appears in their final message; the WebGames repository also includes an Inspect AI eval scaffold and a hosted version of the challenges. The card declares the MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-654e0cbc1a22b59eca47/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/convergence-ai/webgames
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/convergence-ai/webgames（获取于 2026-11-10T03:01:04Z；SHA-256：01956443717e1c85b8d643e5875e85719f6b9138b67185d03ce291df6ce33f54）
+- https://huggingface.co/api/datasets/convergence-ai/webgames（获取于 2026-11-10T03:01:04Z；SHA-256：01956443717e1c85b8d643e5875e85719f6b9138b67185d03ce291df6ce33f54）
 
 ---
 
@@ -6677,20 +7289,20 @@ The WebLINX repository README calls this the official dataset page and its libra
 
 #### 数量记录
 
-- 2,337 demonstrations — all splits in splits.json at revision a30ff2cb (train, valid and five test splits; disjoint)（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 969 demonstrations — train split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 100 demonstrations — valid split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 100 demonstrations — test_iid split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 290 demonstrations — test_geo split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 444 demonstrations — test_vis split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 223 demonstrations — test_cat split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 211 demonstrations — test_web split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 2,126 chat-config turn records — valid split, data/chat/valid.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/valid.json.gz）
-- 2,308 chat-config turn records — test_iid split, data/chat/test_iid.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_iid.json.gz）
-- 7,672 chat-config turn records — test_geo split, data/chat/test_geo.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_geo.json.gz）
-- 9,023 chat-config turn records — test_vis split, data/chat/test_vis.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_vis.json.gz）
-- 5,971 chat-config turn records — test_cat split, data/chat/test_cat.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_cat.json.gz）
-- 4,856 chat-config turn records — test_web split, data/chat/test_web.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_web.json.gz）
+- 2,337 条演示 — all splits in splits.json at revision a30ff2cb (train, valid and five test splits; disjoint)（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 969 条演示 — train split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 100 条演示 — valid split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 100 条演示 — test_iid split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 290 条演示 — test_geo split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 444 条演示 — test_vis split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 223 条演示 — test_cat split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 211 条演示 — test_web split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 2,126 条 chat-config 轮次记录 — valid split, data/chat/valid.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/valid.json.gz）
+- 2,308 条 chat-config 轮次记录 — test_iid split, data/chat/test_iid.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_iid.json.gz）
+- 7,672 条 chat-config 轮次记录 — test_geo split, data/chat/test_geo.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_geo.json.gz）
+- 9,023 条 chat-config 轮次记录 — test_vis split, data/chat/test_vis.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_vis.json.gz）
+- 5,971 条 chat-config 轮次记录 — test_cat split, data/chat/test_cat.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_cat.json.gz）
+- 4,856 条 chat-config 轮次记录 — test_web split, data/chat/test_web.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_web.json.gz）
 
 Counts were computed with a script. Demonstrations come from splits.json, whose seven splits are disjoint; its iid_all list is the union of valid and test_iid and overlaps those splits. Turn records are rows of the chat configuration, one per evaluated navigator turn, a different unit from demonstrations; the train file exceeds the catalog's 10 MB evidence budget, leaving its turn-record count unrecorded. The card's extra test split duplicates test_iid. The counts cover demonstrations and chat turn records; reranking files and CSVs fall outside those counts. Screenshots are not in this repository.
 
@@ -6746,7 +7358,7 @@ Ten public Parquet shards are present. The card names its split test and reports
 
 #### 数量记录
 
-- 9,460 rows — Hub split named test（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md）
+- 9,460 行 — Hub split named test（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md）
 
 Preserves the publisher’s split label despite the collection’s training purpose. Rows contain lists of rejected candidates. Data license is unknown.
 
@@ -6762,6 +7374,40 @@ Preserves the publisher’s split label despite the collection’s training purp
 - https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md（获取于 2026-10-17T02:44:50Z；SHA-256：9c091c5fc625ce53f53f8262f5cee8d08194e4fd1b8eeed543ff1c3723c823fd）
 - https://huggingface.co/api/datasets/LangAGI-Lab/WebPRMCollection_preference_pair（获取于 2026-10-17T02:44:50Z；SHA-256：28a1d5d12e84fc38515bd3c5031ae0cf315c5f8772b90d982d926b98f2857563）
 - https://raw.githubusercontent.com/kyle8581/Web-Shepherd/HEAD/README.md（获取于 2026-10-17T02:44:04Z；SHA-256：07431058d8b9a71b80e75b7a74a40a8346c1503eec240628459cc4d4e2f0802f）
+
+---
+
+## WebsiteBench
+
+WebsiteBench 70 个任务的 Hugging Face 版本，采用 Harbor 格式：智能体通过浏览器探索一个生产级网站，并重建其全栈副本，由隐藏的功能与视觉测试评分。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-687a7b27f38720fe54bc/
+- 原始来源：https://huggingface.co/datasets/TIGER-Lab/WebsiteBench
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:687a7b27f38720fe54bc
+
+### 范围记录
+
+Each task folder has instruction.md, task.toml, an agent environment with a browser gateway and reference website, an oracle solution and a hidden verifier; manifest.json records file hashes. The full set is 9.7 GB, each environment requests 8 CPUs, 8 GiB memory and 20 GiB disk, and code and task definitions are Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-687a7b27f38720fe54bc/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/TIGER-Lab/WebsiteBench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/TIGER-Lab/WebsiteBench?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags（获取于 2026-11-10T03:01:04Z；SHA-256：dd90c82730ed48470c35d0323b1a44344b50a4965dae6d42b6fb4ce3fbe46500）
+- https://huggingface.co/api/datasets/TIGER-Lab/WebsiteBench?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags（获取于 2026-11-10T03:01:04Z；SHA-256：dd90c82730ed48470c35d0323b1a44344b50a4965dae6d42b6fb4ce3fbe46500）
 
 ---
 
@@ -6794,12 +7440,12 @@ Public release includes train+dev and test ZIP packages plus a test-answer JSON 
 
 #### 数量记录
 
-- 307,315 question–answer examples — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 4,549 web pages — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 52,826 question–answer examples — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 913 web pages — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 40,357 question–answer examples — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 985 web pages — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 307,315 个问答示例 — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 4,549 个网页 — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 52,826 个问答示例 — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 913 个网页 — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 40,357 个问答示例 — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 985 个网页 — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
 
 Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table for this release. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made.
 
@@ -6924,6 +7570,40 @@ The source says the public WikiHow APK and cached website data were removed at W
 
 ---
 
+## WinDeskGround
+
+用于多窗口合成桌面 GUI 元素定位的基准数据：585 张图像上的 1356 个样本，包含受控的遮挡、语义干扰和杂乱设置，以及 L1 至 L5 难度等级。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-897db7dba36e69a60e5e/
+- 原始来源：https://huggingface.co/datasets/Zbao/WinDeskGround
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：GUI 定位、鲁棒性、评测
+- 证据核查日期：2026-11-10T03:01:09Z
+- ID：url:897db7dba36e69a60e5e
+
+### 范围记录
+
+The repository holds desktop screenshots with paired debug renderings under sensitivity/ folders and simulation/L1 to L5 folders and declares an Apache-2.0 license. The WinDeskGround GitHub repository holds the generation and evaluation scripts, and WinDeskGround_windows holds the source window images.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-897db7dba36e69a60e5e/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/Zbao/WinDeskGround
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Zbao/WinDeskGround（获取于 2026-11-10T03:01:09Z；SHA-256：51844b9973a85a45ae726c182beb722d8207a10bd261289d389dc2e9ac45c845）
+- https://huggingface.co/api/datasets/Zbao/WinDeskGround（获取于 2026-11-10T03:01:09Z；SHA-256：51844b9973a85a45ae726c182beb722d8207a10bd261289d389dc2e9ac45c845）
+
+---
+
 ## WinDeskGround_windows
 
 WinDeskGround_windows 提供 Windows 应用截图，并标注可点击目标、边界框和指代表达，用于桌面图形界面定位任务。
@@ -6987,9 +7667,9 @@ The card documents post hoc selection of the 286-task OSWorld subset based on mo
 
 #### 数量记录
 
-- 350 demonstrations — packaged tasks/videos（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
-- 8,388 evidence images — final packaged images（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
-- 11,951 action records — packaged action traces（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
+- 350 条演示 — packaged tasks/videos（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
+- 8,388 张证据图像 — final packaged images（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
+- 11,951 条动作记录 — packaged action traces（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
 
 The OSWorld subset was selected post hoc using model outcomes; no train/test split is supplied. Coordinate calibration, task success, and complete anonymization are not established by package-format checks.
 
@@ -7004,6 +7684,74 @@ The OSWorld subset was selected post hoc using model outcomes; no train/test spl
 
 - https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md（获取于 2026-10-16T10:47:49Z；SHA-256：ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0）
 - https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md（获取于 2026-10-16T10:47:49Z；SHA-256：ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0）
+
+---
+
+## world_model_for_wa_desc_with_tao_dataset
+
+WMA 网页智能体世界模型的训练数据：14744 个步骤，每步将任务目标、历史动作、观测和当前动作与下一状态及其变化描述配对。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-96bb23bd687d6c227a41/
+- 原始来源：https://huggingface.co/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：世界模型、网页导航、数据生成
+- 证据核查日期：2026-11-10T03:01:12Z
+- ID：url:96bb23bd687d6c227a41
+
+### 范围记录
+
+One Parquet split of 14,744 rows with url, task_id, step_idx, objective, previous_actions, observation, current_action, next_state_acctree, refined_tao, raw_prediction, rationale and next_state_description_with_tao fields. The WMA-Agents README lists it beside a formatted version and the Meta-Llama-3.1-8B-Instruct world model adapter.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-96bb23bd687d6c227a41/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset（获取于 2026-11-10T03:01:12Z；SHA-256：27e68537e1f7b62f35f47bc9322eea2a77d5af3ae616d10af702f4b65655f982）
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset（获取于 2026-11-10T03:01:12Z；SHA-256：27e68537e1f7b62f35f47bc9322eea2a77d5af3ae616d10af702f4b65655f982）
+
+---
+
+## world_model_for_wa_desc_with_tao_formatted_w_cot
+
+用于训练 WMA 世界模型的格式化指令、输入与输出样本；该模型描述动作执行后 WebArena 页面如何变化。数据含 11795 条训练样本和 2949 条验证样本。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-3ef18fbb67e0376561db/
+- 原始来源：https://huggingface.co/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：世界模型、网页导航
+- 证据核查日期：2026-11-10T03:01:06Z
+- ID：url:3ef18fbb67e0376561db
+
+### 范围记录
+
+Parquet train and validation splits with three string fields, about 163 MB; the card body is the default template and states no license. The WMA-Agents README pairs it with the raw world_model_for_wa_desc_with_tao_dataset and a Llama-3.1-8B world-model adapter.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3ef18fbb67e0376561db/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot（获取于 2026-11-10T03:01:06Z；SHA-256：64bb48706a581de66ec7a5ed86608fa3dc3d5e6478685b0b58e7c78d043d1957）
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot（获取于 2026-11-10T03:01:06Z；SHA-256：64bb48706a581de66ec7a5ed86608fa3dc3d5e6478685b0b58e7c78d043d1957）
 
 ---
 
@@ -7075,6 +7823,40 @@ The repository lists Parquet files for task summaries, attempts, events, and act
 
 ---
 
+## a3-qwen-3.5-9b-trajectories
+
+A3-Qwen3.5-9B 网页智能体在 BrowserGym 基准上的 AgentLab 运行日志，按任务以逐步 JSON 文件保存目标、页面 URL、DOM 与无障碍树观测以及动作；该地址指向其中的 WebArena 文件夹。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-3ab90a696d8578c944c8/
+- 原始来源：https://huggingface.co/datasets/xhluca/a3-qwen-3.5-9b-trajectories/tree/main/webarena
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、评测
+- 证据核查日期：2026-11-10T03:01:05Z
+- ID：url:3ab90a696d8578c944c8
+
+### 范围记录
+
+Top-level folders are miniwob, webarena, visualwebarena, workarena_l1 and workarena_l2; each task folder holds exp_args.json, step_N.json files and summary_info.json. The collection for arXiv 2604.07776 lists it beside the A3-Qwen3.5 models and the A3-Synth training data; the repository has no card or license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3ab90a696d8578c944c8/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/xhluca/a3-qwen-3.5-9b-trajectories（获取于 2026-11-10T03:01:05Z；SHA-256：e68f200e58322e3c039d734f57c8a81c0342ef89f93b5a202c7c5a7f0a4ed94c）
+- https://huggingface.co/api/datasets/xhluca/a3-qwen-3.5-9b-trajectories（获取于 2026-11-10T03:01:05Z；SHA-256：e68f200e58322e3c039d734f57c8a81c0342ef89f93b5a202c7c5a7f0a4ed94c）
+
+---
+
 ## Agent Humanization Benchmark (AHB) recordings
 
 记录人类与移动端 GUI 智能体完成相同中文 Android 应用任务时的触摸手势和运动传感器数据，附任务列表和元数据，用于训练区分智能体与人类的检测器。
@@ -7104,16 +7886,16 @@ The Hub repository has no dataset card or license file; the arXiv paper and its 
 
 #### 数量记录
 
-- 116 task descriptions — metadata/tasks.csv at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
-- 20 distinct app names — metadata/tasks.csv at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
-- 21 applications — dataset described in the paper, grouped into five clusters（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 72 gesture-recording log files — three agent folders under gesture_recordings/ at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
-- 7 gesture-recording ZIP archives — gesture_recordings/ at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
-- 8 sensor-recording ZIP archives — sensor_recordings/ at Hub revision 379fd3ef（计算得出；来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
-- 37,768,698 motion and sensor events — four human sub-populations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 243,090,929 motion and sensor events — five raw agent configurations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 280,320,486 motion and sensor events — humanized agents without fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
-- 154,704,094 motion and sensor events — humanized agents with fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 116 条任务描述 — metadata/tasks.csv at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
+- 20 个不重复的应用名称 — metadata/tasks.csv at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv）
+- 21 个应用 — dataset described in the paper, grouped into five clusters（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 72 个手势录制日志文件 — three agent folders under gesture_recordings/ at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
+- 7 个手势录制 ZIP 归档 — gesture_recordings/ at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
+- 8 个传感器录制 ZIP 归档 — sensor_recordings/ at Hub revision 379fd3ef（计算得出）（来源：https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe）
+- 37,768,698 个运动与传感器事件 — four human sub-populations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 243,090,929 个运动与传感器事件 — five raw agent configurations (paper Table 4)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 280,320,486 个运动与传感器事件 — humanized agents without fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
+- 154,704,094 个运动与传感器事件 — humanized agents with fake actions (paper Table 5)（来源报告；来源：https://arxiv.org/html/2604.09574v1）
 
 Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields. Event counts are per sensor or touch event, and the four totals are separate populations; these counts are reported separately.
 
@@ -7166,7 +7948,7 @@ Public Hub manifest contains JSONL task files and trajectory ZIP packages. Count
 
 #### 数量记录
 
-- > 6,000 tasks — The count is the collection total described by the dataset card; the released-row count remains unverified.（来源报告；来源：https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md）
+- > 6,000 个任务 — The count is the collection total described by the dataset card; the released-row count remains unverified.（来源报告；来源：https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md）
 
 Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels identify files; trajectory totals are unspecified, and configurations and composed-task levels may overlap.
 
@@ -7242,7 +8024,7 @@ AMEX Android GUI 数据处理代码，将 3 个标注层级转为问答对并微
 
 #### 数量记录
 
-- > 104,000 screenshots — AMEX collection described in the paper（来源报告；来源：https://arxiv.org/abs/2407.17490）
+- > 104,000 张截图 — AMEX collection described in the paper（来源报告；来源：https://arxiv.org/abs/2407.17490）
 
 The main repository contains companion training code. The scale and annotation levels here come from the paper.
 
@@ -7287,8 +8069,8 @@ Android 任务的人类操作演示，包含截图和触摸操作。
 
 #### 数量记录
 
-- 715,142 episodes — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
-- 5,689,993 action examples — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
+- 715,142 个回合 — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
+- 5,689,993 个动作示例 — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
 
 Episodes and action examples are different units. The collection combines multi-step subsets and hindsight-labeled single-step tasks; preserve subset and split choices.
 
@@ -7365,8 +8147,8 @@ Android 操作演示，包含高层目标、分步指令、截图和无障碍树
 
 #### 数量记录
 
-- > 15,000 demonstrations — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
-- 833 applications — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
+- > 15,000 条演示 — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
+- 833 个应用 — AndroidControl collection（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md）
 
 Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; step instructions can repeat across multiple actions.
 
@@ -7588,11 +8370,11 @@ The card says the videos were sourced from the internet, trimmed to screen-recor
 
 #### 数量记录
 
-- 48,478 videos — all six software categories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
-- ≈ 12,300 hours of video — all six software categories after trimming（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
-- 6 software categories — AutoCAD, Blender, Excel, Photoshop, Salesforce, VS Code（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
-- 48,477 MP4 files — data/ at Hub revision b50aecce（计算得出；来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
-- 48,473 per-video description JSON files — descriptions/ at Hub revision b50aecce（计算得出；来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
+- 48,478 段视频 — all six software categories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
+- ≈ 12,300 小时视频 — all six software categories after trimming（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
+- 6 个软件类别 — AutoCAD, Blender, Excel, Photoshop, Salesforce, VS Code（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
+- 48,477 个 MP4 文件 — data/ at Hub revision b50aecce（计算得出）（来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
+- 48,473 个逐视频描述 JSON 文件 — descriptions/ at Hub revision b50aecce（计算得出）（来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
 
 File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The card leaves the description files undocumented; their content was checked in one file only. Videos, hours, categories and files are different units; these counts are reported separately. Each category is one configuration with a single train split.
 
@@ -7644,10 +8426,10 @@ The Hub API at revision de58c88b reports an ungated repository with 16 Parquet s
 
 #### 数量记录
 
-- 160 trajectories — train split (one row per task trajectory)（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
-- 1,378 steps — all 160 trajectories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
-- 10 application domains — train split（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
-- 313 MP4 recording files — recordings/ at revision de58c88b（计算得出；来源：https://huggingface.co/api/datasets/markov-ai/computer-use）
+- 160 条轨迹 — train split (one row per task trajectory)（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
+- 1,378 步 — all 160 trajectories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
+- 10 个应用领域 — train split（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
+- 313 个 MP4 录制文件 — recordings/ at revision de58c88b（计算得出）（来源：https://huggingface.co/api/datasets/markov-ai/computer-use）
 
 Rows are agent runs filtered to score 1.0. Step and row counts are the card's figures. Recording files were counted from the Hub manifest; the recording-file and row counts differ.
 
@@ -7695,9 +8477,9 @@ The publishing account is anonymous (anonymousmypcbench). The card names the ben
 
 #### 数量记录
 
-- 97 ZIP run archives — repository root at Hub revision 447ff4cd（计算得出；来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
-- 14 per-evaluation cost evidence JSON files — COST-*.json files at Hub revision 447ff4cd（计算得出；来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
-- 295 OSWorld tasks — Unanimous-295 set, with per-task metrics for nine models in one JSON file（来源报告；来源：https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md）
+- 97 个 ZIP 运行归档 — repository root at Hub revision 447ff4cd（计算得出）（来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
+- 14 个逐次评测成本证据 JSON 文件 — COST-*.json files at Hub revision 447ff4cd（计算得出）（来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
+- 295 个 OSWorld 任务 — Unanimous-295 set, with per-task metrics for nine models in one JSON file（来源报告；来源：https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md）
 
 Archive and cost-file counts come from a script over the pinned Hub file list; the card's tables link 39 of the 97 archives, so one benchmark set uses a subset of the archives. The sets differ in size (295, 50, 52, 26 and 38 tasks) and some tables use different tracks and measurement contracts, which the card says limits comparison across them. Mean scores include verifier partial credit; strict passes use recorded verdicts.
 
@@ -7845,10 +8627,10 @@ The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six fold
 
 #### 数量记录
 
-- 6 dataset families — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
-- > 30 subsets — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
-- > 800 apps — apps across five categories（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
-- 41 JSONL partition files — Hub manifest at revision 4596a060（计算得出；来源：https://huggingface.co/api/datasets/wwh0411/FedMABench/revision/4596a0608a24dddc3f6ba96fb326e915d9632f0b）
+- 6 个数据集系列 — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
+- > 30 个子集 — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
+- > 800 个应用 — apps across five categories（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
+- 41 个 JSONL 分区文件 — Hub manifest at revision 4596a060（计算得出）（来源：https://huggingface.co/api/datasets/wwh0411/FedMABench/revision/4596a0608a24dddc3f6ba96fb326e915d9632f0b）
 
 A partition file, a task, an episode and a client count are different units. Screenshots are external dependencies that users rebuild from AndroidControl and AitW.
 
@@ -7896,7 +8678,7 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub no
 
 #### 数量记录
 
-- 739 annotated screenshots — training set described by the card at revision ec67c2bf（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md）
+- 739 张已标注的截图 — training set described by the card at revision ec67c2bf（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md）
 
 The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.
 
@@ -7950,10 +8732,10 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, w
 
 #### 数量记录
 
-- 4,036 samples — whole release（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md）
-- 739 original annotated screenshots — real samples in the release（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md）
-- 3,297 synthetic variant samples — augmented samples in the release（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md）
-- 4,036 PNG files — data/ at Hub revision 3deedc5d（计算得出；来源：https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/revision/3deedc5d3667696aff317e5e8a3b47d83b9fb48c）
+- 4,036 个样本 — whole release（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md）
+- 739 张原始已标注截图 — real samples in the release（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md）
+- 3,297 个合成变体样本 — augmented samples in the release（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md）
+- 4,036 个 PNG 文件 — data/ at Hub revision 3deedc5d（计算得出）（来源：https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/revision/3deedc5d3667696aff317e5e8a3b47d83b9fb48c）
 
 Computed from samples.json at this revision (15.7 MB, read once): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots; sample counts include those repeated annotations. Samples, files and keypoints are different units; these counts are reported separately.
 
@@ -8117,7 +8899,7 @@ Original repository URL redirects to showlab/GUI-Narrator.
 
 #### 数量记录
 
-- 4,189 video-captioning samples — Act2Cap benchmark described in the paper（来源报告；来源：https://arxiv.org/abs/2406.13719）
+- 4,189 个视频描述样本 — Act2Cap benchmark described in the paper（来源报告；来源：https://arxiv.org/abs/2406.13719）
 
 Captioning samples, unique videos and complete task trajectories are different units.
 
@@ -8247,9 +9029,9 @@ The thin card only describes the annotation files and split image archives; the 
 
 #### 数量记录
 
-- ≈ 81,000 reasoning steps — GUI-Libra-81K as described by the official repository README（来源报告；来源：https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/f3e9c78e5c6435d0fb39210191ce1ad284361120/README.md）
-- 32 JSON annotation files — data/annotations at revision 05bb2c5f: 8 source subsets, each with full, no-reasoning, 1,000-sample and 1,000-sample no-reasoning variants（计算得出；来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
-- 8 image archive groups — data/images at revision 05bb2c5f, stored as 9 split .tar.gz part files（计算得出；来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
+- ≈ 81,000 个推理步骤 — GUI-Libra-81K as described by the official repository README（来源报告；来源：https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/f3e9c78e5c6435d0fb39210191ce1ad284361120/README.md）
+- 32 个 JSON 标注文件 — data/annotations at revision 05bb2c5f: 8 source subsets, each with full, no-reasoning, 1,000-sample and 1,000-sample no-reasoning variants（计算得出）（来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
+- 8 组图像归档 — data/images at revision 05bb2c5f, stored as 9 split .tar.gz part files（计算得出）（来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
 
 Steps, files and archive groups are different units and are counted separately. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data and share examples.
 
@@ -8302,7 +9084,7 @@ The ungated manifest lists JSON annotations and multipart image archives. Traini
 
 #### 数量记录
 
-- ≈ 1,000,000 training trajectories — TongUI-collected GUI-Net-1M data, excluding added external mixtures（来源报告；来源：https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md）
+- ≈ 1,000,000 条训练轨迹 — TongUI-collected GUI-Net-1M data, excluding added external mixtures（来源报告；来源：https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md）
 
 The source reports an approximate trajectory total.
 
@@ -8354,10 +9136,10 @@ The card is titled TongUI-143K. The TongUI training docs list this repository be
 
 #### 数量记录
 
-- ≈ 143,000 training samples — TongUI-collected part, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
-- ≈ 237,000 training samples — data from other sources, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
-- 13 JSON annotation files — Hub manifest at revision 7c1ed0cd（计算得出；来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
-- 24 split ZIP image archive parts — Hub manifest at revision 7c1ed0cd（计算得出；来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
+- ≈ 143,000 个训练样本 — TongUI-collected part, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
+- ≈ 237,000 个训练样本 — data from other sources, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
+- 13 个 JSON 标注文件 — Hub manifest at revision 7c1ed0cd（计算得出）（来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
+- 24 个拆分 ZIP 图像归档分卷 — Hub manifest at revision 7c1ed0cd（计算得出）（来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
 
 The card states numbers without a unit; the training docs call them training data. Record counts computed by streaming the 13 annotation files are in the record notes; the card's two figures and the file counts are different populations and units and are counted separately. No validation or test split is published.
 
@@ -8407,14 +9189,14 @@ The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names
 
 #### 数量记录
 
-- 312 apps — all splits (207 auto, 85 manual_train, 20 manual_test)（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 34,367 screenshots — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 41,293 actions — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 15,934 question-answer samples — auto split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 16,744 question-answer samples — manual_train split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 2,638 question-answer samples — manual_test split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- > 115 hours of exploration video — all apps（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 312 MP4 exploration videos — files at Hub revision ebac33a0 (207 auto, 85 manual_train, 20 manual_test)（计算得出；来源：https://huggingface.co/api/datasets/9211sun/GUI-Xplore/revision/ebac33a0fb368e005af499b5594db4278f49d3da）
+- 312 个应用 — all splits (207 auto, 85 manual_train, 20 manual_test)（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 34,367 张截图 — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 41,293 个动作 — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 15,934 个问答样本 — auto split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 16,744 个问答样本 — manual_train split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 2,638 个问答样本 — manual_test split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- > 115 小时探索视频 — all apps（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 312 段 MP4 探索视频 — files at Hub revision ebac33a0 (207 auto, 85 manual_train, 20 manual_test)（计算得出）（来源：https://huggingface.co/api/datasets/9211sun/GUI-Xplore/revision/ebac33a0fb368e005af499b5594db4278f49d3da）
 
 Reported counts come from the card's split table. A script over the 15 QA JSON files at revision ebac33a0 counted 15,934 auto, 16,744 manual_train and 2,634 manual_test entries (35,312 in total), so the card's manual_test figure is four higher than the released files. Apps, screenshots, actions, QA samples and video hours are different units and are counted separately.
 
@@ -8517,9 +9299,9 @@ Each record holds the full screenshot, a cropped app-window image, the window's 
 
 #### 数量记录
 
-- 25,606 examples — train split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
-- 1,565 examples — test split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
-- 101 Parquet shards — data/ files at Hub revision ec4853a2 (96 train, 5 test)（计算得出；来源：https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297）
+- 25,606 个示例 — train split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
+- 1,565 个示例 — test split at Hub revision ec4853a2（来源报告；来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md）
+- 101 个 Parquet 分片 — data/ files at Hub revision ec4853a2 (96 train, 5 test)（计算得出）（来源：https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297）
 
 The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple; multi-step trajectories use a different unit.
 
@@ -8602,12 +9384,12 @@ The card describes this release as an open-sourced sample: the full Mobile-R1 da
 
 #### 数量记录
 
-- 1,007 trajectories — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
-- 28 applications — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
-- 3,924 samples (steps) — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
-- 1,007 data.jsonl rows — Mobile-R1 Hub release at revision c3904f0（计算得出；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
-- 3,899 trajectory step entries — Mobile-R1 Hub release at revision c3904f0（计算得出；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
-- 3,924 PNG files under images/ — Mobile-R1 Hub release at revision c3904f0（计算得出；来源：https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516）
+- 1,007 条轨迹 — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
+- 28 个应用 — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
+- 3,924 个样本（步骤） — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
+- 1,007 行 data.jsonl 数据 — Mobile-R1 Hub release at revision c3904f0（计算得出）（来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
+- 3,899 条轨迹步骤条目 — Mobile-R1 Hub release at revision c3904f0（计算得出）（来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
+- 3,924 个位于 images/ 下的 PNG 文件 — Mobile-R1 Hub release at revision c3904f0（计算得出）（来源：https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516）
 
 Counts use different units; these counts are reported separately. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name; the card reports 28 applications. No train/test split is declared.
 
@@ -8690,14 +9472,14 @@ The ungated Hub manifest contains train, test-task, test-website and test-subdom
 
 #### 数量记录
 
-- 600 conversations — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 34 conversations — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 42 conversations — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 44 conversations — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 2,896 dialogue turns — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 191 dialogue turns — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 218 dialogue turns — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
-- 216 dialogue turns — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 600 段对话 — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 34 段对话 — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 42 段对话 — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 44 段对话 — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 2,896 轮对话 — train（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 191 轮对话 — test-task（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 218 轮对话 — test-website（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
+- 216 轮对话 — test-subdomain（来源报告；来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md）
 
 Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected.
 
@@ -8880,8 +9662,8 @@ Adjacent: a file host that the curated OSWorld benchmark depends on; this asset 
 
 #### 数量记录
 
-- 720 files — Hub manifest at revision 1e112283（计算得出；来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
-- 262 application/task-ID folders — Hub manifest at revision 1e112283（计算得出；来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
+- 720 个文件 — Hub manifest at revision 1e112283（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
+- 262 个应用/任务 ID 文件夹 — Hub manifest at revision 1e112283（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
 
 Counts come from the Hub file manifest. Task folder and OSWorld task-definition counts use different units; OSWorld tasks have partial folder coverage here.
 
@@ -8930,7 +9712,7 @@ The OSWorld project page says all verified trajectories are published in this da
 
 #### 数量记录
 
-- 100 run archives — zip and tar.gz files at revision 5473c39e（计算得出；来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_verified_trajs/revision/5473c39e42a538a187a9b2c2b499db59d560fd8c）
+- 100 个运行归档 — zip and tar.gz files at revision 5473c39e（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_verified_trajs/revision/5473c39e42a538a187a9b2c2b499db59d560fd8c）
 
 A run archive is one agent configuration evaluated on OSWorld-Verified; task and episode counts use different units. Step budgets in archive names range over 15, 50, 100 and more steps, and several agents have one archive per budget.
 
@@ -9072,9 +9854,9 @@ The official project page cites the 2017 Rico paper. The project page reports mo
 
 #### 数量记录
 
-- > 66,000 unique UI screens — original Rico downloads described on the project page（来源报告；来源：https://www.interactionmining.org/archive/rico）
-- > 9,300 Android apps — original Rico collection described on the project page（来源报告；来源：https://www.interactionmining.org/archive/rico）
-- 10,811 human interaction traces — crowd-worker collection before automated exploration（来源报告；来源：https://www.interactionmining.org/archive/rico）
+- > 66,000 个不重复的 UI 界面 — original Rico downloads described on the project page（来源报告；来源：https://www.interactionmining.org/archive/rico）
+- > 9,300 个 Android 应用 — original Rico collection described on the project page（来源报告；来源：https://www.interactionmining.org/archive/rico）
+- 10,811 条人工交互追踪记录 — crowd-worker collection before automated exploration（来源报告；来源：https://www.interactionmining.org/archive/rico）
 
 Project-page scope: screenshots paired with augmented view hierarchies, gesture coordinates, layout vectors and metadata. These observations describe screens paired with metadata; action and task totals use different units. The later semantic-annotation download augments the same screen corpus. The retained original paper reports more than 72k screens from more than 9.7k apps while this project page says more than 66k screens and more than 9.3k apps; the difference is unresolved. Profile counts follow the project page; the paper reports a separate screen and app population. No train/validation/test partition or data license is established here; archives were not downloaded.
 
@@ -9390,7 +10172,7 @@ The 800k figure describes training samples in the study. The repository code-lic
 
 #### 数量记录
 
-- ≈ 800,000 training samples — paper-described synthesis output（来源报告；来源：https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md）
+- ≈ 800,000 个训练样本 — paper-described synthesis output（来源报告；来源：https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md）
 
 The inspected README marks the dataset and collection pipelines as in preparation. The inspected README marks the dataset and collection pipelines as in preparation; file formats, splits and release-specific data terms remain unknown.
 
@@ -9438,11 +10220,11 @@ The card reports agent model anthropic/claude-opus-5 at max thinking effort on a
 
 #### 数量记录
 
-- 134 clean task runs — osworld-v2.1 release as described by the card（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs/raw/abfb5852189f49e81255c38d98287df29ae53658/README.md）
-- 134 run/task directories with traj.jsonl — runs/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
-- 108 distinct OSWorld v2.1 tasks — runs/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
-- 18 batch directories — runs/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
-- 134 per-run media TAR archives — media/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 134 次无异常的任务运行 — osworld-v2.1 release as described by the card（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs/raw/abfb5852189f49e81255c38d98287df29ae53658/README.md）
+- 134 个含 traj.jsonl 的运行/任务目录 — runs/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 108 个不重复的 OSWorld v2.1 任务 — runs/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 18 个批次目录 — runs/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 134 个按运行划分的媒体 TAR 归档 — media/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
 
 Computed counts come from a script over the pinned Hub file list. A run is one task execution; some tasks ran more than once, so 134 run directories cover 108 tasks, grouped under 18 batch directories. Card headline: 0.7731 mean over tasks of each task's mean clean score (first clean run 0.7674, best 0.7938), from the benchmark grader. No task file or media archive was downloaded.
 
@@ -9492,11 +10274,11 @@ The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks 
 
 #### 数量记录
 
-- 2 complete 108-task benchmark runs — Hub revision fb621da2（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md）
-- 108 canonical task directories with traj.jsonl — run1/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
-- 108 canonical task directories with traj.jsonl — run2/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
-- 23 superseded attempt directories — run1/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
-- 4 superseded attempt directories — run2/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 2 次完整的基准测试运行（108 个任务） — Hub revision fb621da2（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md）
+- 108 个含 traj.jsonl 的规范任务目录 — run1/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 108 个含 traj.jsonl 的规范任务目录 — run2/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 23 个已被取代的尝试目录 — run1/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 4 个已被取代的尝试目录 — run2/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
 
 Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher. Scores come from an LLM evaluator; the run manifests and score tables were read, leaving task files outside this inspection.
 
@@ -9549,7 +10331,7 @@ Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; access is open
 
 #### 数量记录
 
-- 70,688 examples — train split at Hub revision 0bf2eb71（来源报告；来源：https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md）
+- 70,688 个示例 — train split at Hub revision 0bf2eb71（来源报告；来源：https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md）
 
 The count is the card's dataset_info num_examples for the train split. An example is one screenshot-target pair with its instructions. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.
 
@@ -9599,12 +10381,12 @@ The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl file
 
 #### 数量记录
 
-- 4,344 trajectories — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 68,140 interaction steps — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 541 trajectories — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 3,486 interaction steps — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 6,152 trajectories — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 88,496 interaction steps — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 4,344 条轨迹 — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 68,140 个交互步骤 — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 541 条轨迹 — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 3,486 个交互步骤 — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 6,152 条轨迹 — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 88,496 个交互步骤 — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
 
 Counts are publisher-reported on the card. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode; screenshot counts use a different unit.
 
@@ -9702,9 +10484,9 @@ In each sample, the first crop marks the grounding model's initial box and the s
 
 #### 数量记录
 
-- 115,638 two-box samples — train/metadata.parquet at revision a09c08da (106,350 labeled box 1, 9,288 labeled box 2)（计算得出；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/resolve/a09c08daed473ad1154414021a3d724d68deeb37/train/metadata.parquet）
-- 12,849 two-box samples — validation split as reported; no validation files at revision a09c08da（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
-- 128,487 two-box samples — train plus validation as reported by dataset_infos.json and the card（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
+- 115,638 个双框样本 — train/metadata.parquet at revision a09c08da (106,350 labeled box 1, 9,288 labeled box 2)（计算得出）（来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/resolve/a09c08daed473ad1154414021a3d724d68deeb37/train/metadata.parquet）
+- 12,849 个双框样本 — validation split as reported; no validation files at revision a09c08da（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
+- 128,487 个双框样本 — train plus validation as reported by dataset_infos.json and the card（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
 
 Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing; this release is the balanced set.
 
@@ -9784,6 +10566,40 @@ UEyes 是眼动追踪数据集，记录 62 名参与者观看 1,980 张 UI 截�
 
 ---
 
+## UI-Simulator_android_data
+
+来自 UI-Simulator 的合成 Android 智能体训练数据：每条提示把目标与模拟的 UI 元素列表配对，并给出下一步动作回复，分为无 RAG、基于 RAG 和两个 UI-Simulator-Grow 划分。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-d32dfe60eff4b87c1d05/
+- 原始来源：https://huggingface.co/datasets/UI-Simulator/UI-Simulator_android_data
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：数据生成、手机操作、动作预测
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:d32dfe60eff4b87c1d05
+
+### 范围记录
+
+Four CSV splits with Arrow copies; license MIT per the card. The RAG-free split has 6,658 rows per the Hub rows API, and the action space covers click, input_text, open_app, scroll, navigate_back and stop.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-d32dfe60eff4b87c1d05/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/UI-Simulator/UI-Simulator_android_data
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/UI-Simulator/UI-Simulator_android_data（获取于 2026-11-10T03:01:14Z；SHA-256：72dbd84ef07b8fcfa963f0e426a3bc0f222d8a185696ab18da5bbe0a84d8b80e）
+- https://huggingface.co/api/datasets/UI-Simulator/UI-Simulator_android_data（获取于 2026-11-10T03:01:14Z；SHA-256：72dbd84ef07b8fcfa963f0e426a3bc0f222d8a185696ab18da5bbe0a84d8b80e）
+
+---
+
 ## UICrit
 
 包含区域坐标和 RICO 屏幕引用的移动端界面评语及质量评分，并提供一个由 3 名标注者参与、规模大于原论文数据集的版本。
@@ -9813,8 +10629,8 @@ The published CSV contains critique text, normalized boxes, ratings and RICO IDs
 
 #### 数量记录
 
-- 1,000 mobile UI screens — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
-- 11,344 design critiques — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
+- 1,000 个移动端 UI 界面 — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
+- 11,344 条设计评论 — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
 
 Publisher-reported current release, separate from the smaller original-paper population. Screenshot pixels are obtained through referenced RICO IDs.
 
@@ -9898,12 +10714,12 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 
 #### 数量记录
 
-- 2,685 trajectories — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
-- ≈ 36,000 steps — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
-- 10 application categories — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
-- 2,685 task.json trajectory files — Hub manifest at revision 92ef5917（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
-- 38,283 PNG screenshot files — Hub manifest at revision 92ef5917（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
-- 245 distinct OSWorld task IDs in trajectory folder names — Hub manifest at revision 92ef5917, matched against OSWorld test_all.json（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
+- 2,685 条轨迹 — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
+- ≈ 36,000 步 — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
+- 10 个应用类别 — Uni-GUI-Desktop-1 card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md）
+- 2,685 个 task.json 轨迹文件 — Hub manifest at revision 92ef5917（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
+- 38,283 个 PNG 截图文件 — Hub manifest at revision 92ef5917（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
+- 245 个不重复的 OSWorld 任务 ID（取自轨迹文件夹名称） — Hub manifest at revision 92ef5917, matched against OSWorld test_all.json（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62）
 
 Trajectories, steps, application categories, files and task IDs are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1920x1080 screen. No train/test split is declared.
 
@@ -9955,11 +10771,11 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 
 #### 数量记录
 
-- 871 trajectories — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
-- ≈ 14,000 steps — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
-- 10 app categories — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
-- 871 task.json trajectory files — Hub manifest at revision 45244387（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
-- 14,275 PNG screenshot files — Hub manifest at revision 45244387（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
+- 871 条轨迹 — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
+- ≈ 14,000 步 — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
+- 10 个应用类别 — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
+- 871 个 task.json 轨迹文件 — Hub manifest at revision 45244387（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
+- 14,275 个 PNG 截图文件 — Hub manifest at revision 45244387（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
 
 Trajectories, steps, app categories and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.
 
@@ -10008,11 +10824,11 @@ The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned pu
 
 #### 数量记录
 
-- 2,640 trajectories — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
-- ≈ 25,900 steps — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
-- 19 open-source Android apps — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
-- 2,640 task.json trajectory files — Hub manifest at revision 774eb20f（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
-- 34,344 PNG screenshot files — Hub manifest at revision 774eb20f（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
+- 2,640 条轨迹 — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
+- ≈ 25,900 步 — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
+- 19 个开源 Android 应用 — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
+- 2,640 个 task.json 轨迹文件 — Hub manifest at revision 774eb20f（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
+- 34,344 个 PNG 截图文件 — Hub manifest at revision 774eb20f（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
 
 Trajectories, steps, apps and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.
 
@@ -10062,7 +10878,7 @@ Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1
 
 #### 数量记录
 
-- > 41,000 video recordings — VideoCAD published collection（来源报告；来源：https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK）
+- > 41,000 段视频录像 — VideoCAD published collection（来源报告；来源：https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK）
 
 The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape.
 
@@ -10111,10 +10927,10 @@ At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in tota
 
 #### 数量记录
 
-- ≈ 10,000 tasks — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
-- ≈ 55 hours of 30 fps screen recording — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
-- ≈ 6,000,000 video frames — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
-- 87 per-application ZIP archives — raw_data/ at revision 6ecc530d（计算得出；来源：https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data）
+- ≈ 10,000 个任务 — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
+- ≈ 55 小时屏幕录像（30 fps） — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
+- ≈ 6,000,000 帧视频画面 — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
+- 87 个按应用划分的 ZIP 归档 — raw_data/ at revision 6ecc530d（计算得出）（来源：https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data）
 
 Tasks, hours, frames and archives are different units and are counted separately. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.
 
@@ -10244,7 +11060,7 @@ Five public Parquet shards are present. This collection provides checklist-gener
 
 #### 数量记录
 
-- 3,630 rows — Hub split named test（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation/raw/main/README.md）
+- 3,630 行 — Hub split named test（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation/raw/main/README.md）
 
 This is the checklist-generation release. No unique-task count or data permission is inferred.
 

@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/16/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [MCP Master Puppeteer](https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/)
+- [MCP Session Bridge](https://awesomecua.com/resources/github-t3ratech-mcp-session-bridge/)
+- [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/)
 - [MCP Windows Desktop Automation](https://awesomecua.com/resources/github-mario-andreschak-mcp-windows-desktop-automation/)
 - [mcp-anything](https://awesomecua.com/resources/github-zaymadkid-mcp-anything/)
 - [mcp-camoufox](https://awesomecua.com/resources/github-agelyhq-mcp-camoufox/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [nemosr dsh-personal-plugins](https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/)
 - [neuron-inspector](https://awesomecua.com/resources/github-conquext-neuron-inspector/)
 - [Nexus Computer Use Harness (NexusCUH)](https://awesomecua.com/resources/github-subasah-computer-use-harness/)
-- [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/)
-- [Nik-Browser MCP](https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/)
-- [NirvanaX AutoAgent](https://awesomecua.com/resources/github-sayantanthecmd-nirvanax-autoagent/)

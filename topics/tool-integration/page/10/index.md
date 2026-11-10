@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/10/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [codex-cua](https://awesomecua.com/resources/github-manaflow-ai-codex-cua/)
+- [Cognitive Kernel-Pro](https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/)
+- [Collection of WebMCP tools](https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/)
 - [Commonplace WebMCP](https://awesomecua.com/resources/github-arterialist-webmcp-openai-hackathon/)
 - [Computer Control MCP](https://awesomecua.com/resources/github-ab498-computer-control-mcp/)
 - [Computer Use (gVisor Cloud REPL)](https://awesomecua.com/resources/github-r33drichards-computer-use/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Desktop Commander MCP](https://awesomecua.com/resources/github-wonderwhy-er-desktopcommandermcp/)
 - [Desktop Computer Use (DCU)](https://awesomecua.com/resources/github-dev-willbird1936-desktop-computer-use/)
 - [Desktop Pilot MCP](https://awesomecua.com/resources/github-versoxbt-desktop-pilot-mcp/)
-- [desktop-cli](https://awesomecua.com/resources/github-adamsautomations-desktop-cli/)
-- [desktop-hub](https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/)
-- [desktop-touch-mcp](https://awesomecua.com/resources/github-harusame64-desktop-touch-mcp/)

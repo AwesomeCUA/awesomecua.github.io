@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/topics/automation/page/25/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [Vera AI Assistant](https://awesomecua.com/resources/github-alpert-code-veraai-assistant-1-1/)
+- [VersaiOS](https://awesomecua.com/resources/github-zhaodashuaibi-versaios/)
+- [VibeSurf for OpenClaw](https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/)
+- [viger1 dsh-pilot](https://awesomecua.com/resources/github-viger1-dsh-pilot/)
+- [Vigil](https://awesomecua.com/resources/github-bofstudios-vigil/)
+- [Vision Browser Agent](https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/)
+- [Vision UI](https://awesomecua.com/resources/github-meituan-dianping-vision-ui/)
 - [vision-bridge](https://awesomecua.com/resources/github-rusnetru-vision-bridge/)
 - [Vision-MCP](https://awesomecua.com/resources/github-haruhiyuki-vision-mcp/)
 - [VisionGrid AI](https://awesomecua.com/resources/github-mohsinjutt62-autoplay-cv-engine-bot/)
@@ -18,6 +25,7 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Voice Mirror](https://awesomecua.com/resources/github-contextmirror-voice-mirror/)
 - [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/)
 - [Voqal](https://awesomecua.com/resources/github-voqal-voqal/)
+- [Voqal Chrome integration](https://awesomecua.com/resources/github-voqal-chrome-integration/)
 - [voxie](https://awesomecua.com/resources/github-afraidsoul76-voxie/)
 - [Vuser Protocol](https://awesomecua.com/resources/github-openvuser-vuser/)
 - [VZT-Browser](https://awesomecua.com/resources/github-vonzelle-vzt-vzt-browser/)
@@ -56,11 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Window Calls](https://awesomecua.com/resources/github-ickyicky-window-calls/)
 - [Windows Agent Browser (winbrowse)](https://awesomecua.com/resources/github-civitasmass-windows-agent-browser/)
 - [Windows Computer Use](https://awesomecua.com/resources/github-cgissing-windows-computer-use/)
-- [Windows Computer Use MCP (DXGI + UIA)](https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/)
-- [Windows Computer-Use Skill](https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/)
-- [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/)
-- [Windows MCP Server](https://awesomecua.com/resources/github-sbroenne-mcp-windows/)
-- [Windows Sandbox Computer Use Skill](https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/)
-- [windows-computer-use-mcp](https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/)
-- [windows-computer-use-mcp (Scan-Code & Multi-Monitor)](https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/)
-- [windows-gui-mcp](https://awesomecua.com/resources/github-dcl632-windows-gui-mcp/)

@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/planning/page/9/
 
 Full list: https://awesomecua.com/topics/planning/index.md
 
+- [MAI](https://awesomecua.com/resources/github-fluxaster-mai/)
+- [Mano skill](https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/)
+- [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/)
+- [MERRICK](https://awesomecua.com/resources/github-simoncheungai-merrick/)
+- [Midscene Java](https://awesomecua.com/resources/github-alstafeev-midscene-java/)
 - [Mind2Web-Live](https://awesomecua.com/resources/github-boyugou-mind2web-live-seeact-v/)
 - [MindSearch](https://awesomecua.com/resources/github-internlm-mindsearch/)
 - [Minitap mobile-use](https://awesomecua.com/resources/github-minitap-ai-mobile-use/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/planning/index.md
 - [taskforge](https://awesomecua.com/resources/github-huzjie-taskforge/)
 - [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/)
 - [Tongyi UI Agent API](https://awesomecua.com/resources/url-ce0af37931cd5aa20233/)
-- [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/)
-- [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/)
-- [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/)
-- [Two-Layer macOS GUI Agent](https://awesomecua.com/resources/github-eauchs-gui-agent/)
-- [UFO](https://awesomecua.com/resources/github-microsoft-ufo/)

@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/20/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [Relay AI Virtual Desktop](https://awesomecua.com/zh/resources/github-jahrulnr-virtual-desktop/)
+- [Renoned dsh-computer-use](https://awesomecua.com/zh/resources/github-renoned-dsh-computer-use/)
+- [Reqvexa](https://awesomecua.com/zh/resources/github-kareemheshaam-reqvexa/)
 - [Retriever AI (rtrvr.ai)](https://awesomecua.com/zh/resources/url-4f3ce151a13cba635e74/)
 - [reverseloom](https://awesomecua.com/zh/resources/github-kuichi-x-reverseloom/)
 - [Ribband (Agentic WebMCP)](https://awesomecua.com/zh/resources/github-somnora-agentic-webmcp/)
@@ -40,6 +43,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/20/
 - [Semantic Kernel](https://awesomecua.com/zh/resources/github-microsoft-semantic-kernel/)
 - [Sensory-Grounding MCP](https://awesomecua.com/zh/resources/github-luclinocruz-lucross-sensory-grounding-mcp/)
 - [sentineldesk-agent](https://awesomecua.com/zh/resources/github-sentineldesk-agent/)
+- [serve-sim](https://awesomecua.com/zh/resources/github-evanbacon-serve-sim/)
 - [Sessionat](https://awesomecua.com/zh/resources/github-dublyo-sessionat/)
 - [settled-computer](https://awesomecua.com/zh/resources/github-remote-skills-settled-computer/)
 - [sh7vansh Chrome Bridge](https://awesomecua.com/zh/resources/github-sh7vansh-chrome-bridge/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/20/
 - [Social Browser Publisher for Codex](https://awesomecua.com/zh/resources/github-jacky391977-social-browser-publisher/)
 - [SoftAuto MCP](https://awesomecua.com/zh/resources/github-guangfubill-crypto-softauto-mcp/)
 - [Spectra MCP](https://awesomecua.com/zh/resources/github-astroqueststudio-spectra-mcp/)
-- [SpectraBrowser MCP](https://awesomecua.com/zh/resources/github-virajverse-spectra-browser-mcp/)
-- [Spice](https://awesomecua.com/zh/resources/github-shells-com-spice/)
-- [spider-browser](https://awesomecua.com/zh/resources/github-spider-rs-spider-browser/)
-- [Spooky Action](https://awesomecua.com/zh/resources/github-jumpsy-spooky-action/)

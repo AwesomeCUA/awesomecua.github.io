@@ -28,7 +28,7 @@ The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automa
 
 ### 数量记录
 
-- 130 per-task evaluation scripts — evaluation_scripts/2025_10_23 in osunlp/Mind2Web-2 at revision 54f5b25（计算得出；来源：https://huggingface.co/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23）
+- 130 个逐任务评测脚本 — evaluation_scripts/2025_10_23 in osunlp/Mind2Web-2 at revision 54f5b25（计算得出）（来源：https://huggingface.co/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23）
 
 The script count is the number of distinct .py files in the pinned tree listing. The automatic access gate leaves the dev and test task CSVs unopened and their per-split task counts unknown.
 

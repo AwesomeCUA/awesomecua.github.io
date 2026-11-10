@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/efficiency/page/6/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [Appwalk](https://awesomecua.com/resources/github-kubstack-appwalk/)
+- [arc-cua](https://awesomecua.com/resources/github-shhivv-arc-cua/)
+- [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/resources/github-sharryxr-asil/)
+- [ask-web-ai](https://awesomecua.com/resources/github-pgw10086-ask-web-ai/)
+- [Astra AI Browser](https://awesomecua.com/resources/github-bennix-astraaibrowser/)
 - [atlas-desktop](https://awesomecua.com/resources/github-abydin-atlas-desktop/)
 - [Auto_OS](https://awesomecua.com/resources/github-jaswanth1902-auto-os/)
 - [AutoFiller Universal](https://awesomecua.com/resources/github-fedetrain-autofiller-universal/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/)
 - [DietSurf](https://awesomecua.com/resources/github-100x-bot-dietsurf/)
 - [Digi-Q](https://awesomecua.com/resources/github-digirl-agent-digiq/)
-- [DistRL](https://awesomecua.com/resources/github-distrl-lab-distrl-open/)
-- [DOMShell](https://awesomecua.com/resources/github-apireno-domshell/)
-- [DrishtiGuard](https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/)
-- [Drisp Browser MCP](https://awesomecua.com/resources/github-drisplabs-browser-mcp/)
-- [dsh-vision-click](https://awesomecua.com/resources/github-zdd3143-dsh-vision-click/)

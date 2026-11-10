@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/framework/page/5/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/)
+- [llm-browser-agent](https://awesomecua.com/resources/github-justifysiddh-llm-browser-agent/)
+- [LockInTime headless](https://awesomecua.com/resources/github-lockintime-headless/)
 - [Locus Platform](https://awesomecua.com/resources/github-nahid-sparktales-locus-platform/)
 - [loki-auto](https://awesomecua.com/resources/github-loki4agent-loki-auto/)
 - [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/)
@@ -101,6 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [PhoneCLI](https://awesomecua.com/resources/github-hkuds-phonecli/)
 - [Pix2Act](https://awesomecua.com/resources/github-google-deepmind-pix2act/)
 - [pixelpi](https://awesomecua.com/resources/github-josharsh-pixelpi/)
-- [Plip OSS](https://awesomecua.com/resources/github-hussainn7-plip-oss/)
-- [Polyform a11y-guide](https://awesomecua.com/resources/github-polyform-ai-a11y-guide/)
-- [Praefectus](https://awesomecua.com/resources/github-tschk-praefectus/)

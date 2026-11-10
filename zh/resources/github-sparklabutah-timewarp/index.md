@@ -25,17 +25,17 @@ Code for the TimeWarp paper, which the README's citation lists as to appear in t
 - 评测方式：Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.
 - 侧重：robustness of web agents to UI redesigns across eras, information seeking across Wiki, News and Shop sites
 - 观测：BrowserGym observations of the self-hosted sites, as selected by the agent
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 231 tasks — BrowserGym task file src/browsergym/timewarp/data/test.raw.json（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 70 tasks — Wiki-only tasks（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 64 tasks — Shop-only tasks（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 47 tasks — News-only tasks（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 50 tasks — tasks spanning two or three sites（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 2 tasks — tasks scored only by the LLM judge（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 6 UI versions per site — numbered themes for each of Wiki, News and Shop（来源报告；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md）
+- 231 个任务 — BrowserGym task file src/browsergym/timewarp/data/test.raw.json（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 70 个任务 — Wiki-only tasks（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 64 个任务 — Shop-only tasks（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 47 个任务 — News-only tasks（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 50 个任务 — tasks spanning two or three sites（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 2 个任务 — tasks scored only by the LLM judge（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 6 个 UI 版本（每个网站） — numbered themes for each of Wiki, News and Shop（来源报告；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md）
 
 Task counts were computed from the task file's sites and eval.eval_types fields at the reviewed commit; test.raw.v2.json is byte-identical, and test.raw.llm_judge.json is a variant that routes all 231 tasks to the LLM judge. Results depend on the UI version served, so a score should state the version.
 

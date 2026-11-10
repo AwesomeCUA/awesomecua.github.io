@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/state-tracking/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/state-tracking/index.md
 
+- [grass-gui](https://awesomecua.com/zh/resources/github-shiinahiiragi-grass-gui/)
 - [HIPPO Agent](https://awesomecua.com/zh/resources/github-wadang-muscle-mem-agent/)
 - [IdemStep](https://awesomecua.com/zh/resources/github-supermarioyl-idemstep/)
 - [Jev GUI Delegate](https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/)

@@ -21,13 +21,13 @@
 - 评测方式：Task-specific checks on ServiceNow workflows; levels and task configurations define different evaluations.
 - 侧重：enterprise web workflows, compositional tasks
 - 观测：multimodal browser observations
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 33 task definitions — WorkArena-L1 atomic tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
-- 19,912 task instances — WorkArena-L1 documented instances（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
-- 682 task definitions — WorkArena++ compositional tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
+- 33 个任务定义 — WorkArena-L1 atomic tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
+- 19,912 个任务实例 — WorkArena-L1 documented instances（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
+- 682 个任务定义 — WorkArena++ compositional tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
 
 Definitions and instantiated tasks are different units. ServiceNow instance access is gated. WorkArena-L1 and WorkArena++ should be reported separately.
 

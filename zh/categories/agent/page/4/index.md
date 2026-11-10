@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/4/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [Kirk Engine](https://awesomecua.com/zh/resources/url-80c8abf734a29f7affc5/)：Kirk Engine 是结合截图和无障碍树选择点击、输入及滑动操作的安卓智能体；页面报告 AndroidWorld 测试，并说明逐任务验证材料。
+- [Kota-Kawa Browser-Agent](https://awesomecua.com/zh/resources/github-kota-kawa-browser-agent/)：基于 FastAPI 和 browser-use 的网页智能体，支持实时 CDP 会话流、Server-Sent Events（SSE）进度日志和交互式 UI 控制。
+- [Kushatish AI Browser Copilot](https://awesomecua.com/zh/resources/github-kushatish-ai-browser-copilot/)：Chrome 扩展，由 Groq LLMs 驱动，提供基于页面内容的问答和经用户批准的浏览器动作。
 - [Kyros Local Desktop Assistant](https://awesomecua.com/zh/resources/github-rhymezip-kyros-local-desktop-assistant/)：私有、语音优先的本地 Linux 桌面助手，可免手动操作应用和系统。
 - [K²-Agent](https://awesomecua.com/zh/resources/github-k2-agent-k2-agent/)：分层移动设备操作智能体，将利用示范信息的规划器与学习得到的动作执行器结合；仓库提供 AndroidWorld 评测轨迹。
 - [Larker](https://awesomecua.com/zh/resources/github-qiadastrachen-bit-larker/)：Larker 是视觉驱动的 Windows 桌面智能体，通过 VLM 定位自动操作缺少 DOM 或无障碍 API 的 GUI 客户端。
@@ -101,6 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/4/ · [English](ht
 - [Pocketwatch](https://awesomecua.com/zh/resources/github-psamme-pocketwatch/)：面向 iPhone 实体设备应用的 AI 测试版测试智能体，通过 macOS iPhone Mirroring 执行用户操作流程。
 - [Pointer](https://awesomecua.com/zh/resources/url-98122987ca3e7c764d0e/)：Pointer 介绍一款桌面计算机使用智能体：先检查任务可行性，再规划阶段目标，由执行器结合界面、代码与浏览器工具完成任务。
 - [PokeClaw](https://awesomecua.com/zh/resources/github-agents-io-pokeclaw/)：Android 应用在设备端运行手机控制智能体，通过 Accessibility 服务读取 UI 树，并用设备端 Gemma 4 或可选云端模型执行点击、滑动和输入。
-- [Portal Operator](https://awesomecua.com/zh/resources/github-pwmcgovern-afk-portal-operator/)：自主浏览器智能体，旨在真实浏览器中端到端操作传统保险公司网页门户。
-- [Prism-Shadow Travel Agent](https://awesomecua.com/zh/resources/github-prism-shadow-travel-agent/)：开源旅行规划浏览器智能体，可在实时预订网站上搜索和比较航班与酒店。
-- [PrivateAI for Mac](https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/)：由 Ollama 驱动的原生 macOS 本地 AI 智能体，具备系统控制、文件工具和浏览器自动化功能。

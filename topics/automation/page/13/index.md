@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/automation/page/13/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [FastMCP Playwright Server](https://awesomecua.com/resources/github-ma-pony-mcp-playwright/)
 - [Fathom](https://awesomecua.com/resources/github-drizzdev-fathom/)
 - [Fazm](https://awesomecua.com/resources/github-mediar-ai-fazm/)
 - [Fellou](https://awesomecua.com/resources/url-97cedbca35f6bd8684af/)
@@ -17,6 +18,7 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Firecrawl MCP Server](https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/)
 - [Firefox DevTools MCP](https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/)
 - [firefox-bidi-mcp](https://awesomecua.com/resources/github-enne2-firefox-bidi-mcp/)
+- [firefox_antidetect_patch](https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/)
 - [Flash Computer Use](https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/)
 - [FlaUI](https://awesomecua.com/resources/github-flaui-flaui/)
 - [Floom OpenBrowser](https://awesomecua.com/resources/github-floomhq-openbrowser/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Glasswarp MCP Server](https://awesomecua.com/resources/github-glasswarp-mcp-server/)
 - [Glasswarp Python SDK](https://awesomecua.com/resources/github-glasswarp-python-sdk/)
 - [glovebox-mcp](https://awesomecua.com/resources/github-segentic-lab-glovebox-mcp/)
-- [gnome-wayland-computer-use](https://awesomecua.com/resources/github-ryanraposo-gnome-wayland-computer-use/)
-- [Gobii Platform](https://awesomecua.com/resources/github-gobii-ai-gobii-platform/)

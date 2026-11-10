@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/18/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [opencode-mobile-use](https://awesomecua.com/zh/resources/github-system1970-opencode-mobile-use/)
+- [opencode-webmcp](https://awesomecua.com/zh/resources/github-enihcam-opencode-webmcp/)
+- [OpenControl](https://awesomecua.com/zh/resources/github-joshuaalawrence-opencontrol/)
 - [OpenDesk](https://awesomecua.com/zh/resources/github-shopable-ai-opendesk/)
 - [OpenDesk](https://awesomecua.com/zh/resources/github-vitalops-opendesk/)
 - [OpenHands](https://awesomecua.com/zh/resources/github-openhands-openhands/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/18/
 - [pi-iphone-mirroring](https://awesomecua.com/zh/resources/github-aniruddha-adhikary-pi-iphone-mirroring/)
 - [pi-playwright-browser](https://awesomecua.com/zh/resources/github-sunnybharne-pi-playwright-browser/)
 - [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/zh/resources/github-333-wg-pi-wm/)
-- [Pilos Agents](https://awesomecua.com/zh/resources/github-pilos-ai-agents/)
-- [Pilot MCP Chrome Extension](https://awesomecua.com/zh/resources/github-xiachaoxia-glitch-pilot-mcp-extension/)
-- [pinchtab-mcp](https://awesomecua.com/zh/resources/github-maderwin-pinchtab-mcp/)

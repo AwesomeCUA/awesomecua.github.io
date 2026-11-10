@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/tool/page/9/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/)
+- [MCP Windows Desktop Automation](https://awesomecua.com/resources/github-mario-andreschak-mcp-windows-desktop-automation/)
+- [mcp-anything](https://awesomecua.com/resources/github-zaymadkid-mcp-anything/)
+- [mcp-camoufox](https://awesomecua.com/resources/github-agelyhq-mcp-camoufox/)
+- [mcp-chrome-bridge](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-chrome-bridge/)
+- [MCP-CodexGPT](https://awesomecua.com/resources/github-mosmotov-mcp-codexgpt/)
+- [mcp-dia](https://awesomecua.com/resources/github-aissablk1-mcp-dia/)
 - [mcp-linux-desktop](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-linux-desktop/)
 - [MCP-RealBrowser](https://awesomecua.com/resources/github-obbbba-mcp-realbrowser/)
 - [mcp-remote-macos-use](https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/)
@@ -97,10 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [PortaMCP](https://awesomecua.com/resources/github-tnlegend-portamcp/)
 - [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/)
 - [Prism Browser Community](https://awesomecua.com/resources/github-dfarm6-prism-browser-community/)
-- [ProBrowser MCP Server](https://awesomecua.com/resources/github-momadhuynh04-probrowser/)
-- [Procore Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/)
-- [Prodjest (DSH Browser Bridge)](https://awesomecua.com/resources/github-hedelka-prodjest/)
-- [ProdPoke MCP Server](https://awesomecua.com/resources/github-prodpoke-prodpoke-mcp/)
-- [Product Demo Video Skill](https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/)
-- [Puppeteer MCP Server](https://awesomecua.com/resources/github-sultannaufal-puppeteer-mcp-server/)
-- [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/)

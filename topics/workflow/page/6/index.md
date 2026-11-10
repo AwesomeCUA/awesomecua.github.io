@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/workflow/page/6/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
+- [DeepDeck](https://awesomecua.com/resources/github-jo32-deepdeck/)
 - [DeepSeek Harness Desktop](https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/)
 - [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/)
 - [Delphi IDE Remote MCP Server](https://awesomecua.com/resources/github-soporte-defontsoft-delphi-ide-remote-mcp/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [Jev Social](https://awesomecua.com/resources/github-socai-io-jev-social/)
 - [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)
 - [Job Hunter AI](https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/)
-- [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/resources/github-qiulingzhu809-sudo-job-pilot-2027/)

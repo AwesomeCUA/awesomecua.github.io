@@ -24,9 +24,9 @@ OS-Atlas 的 GUI 定位预训练数据，覆盖桌面端（Linux、macOS、Windo
 
 ### 数量记录
 
-- > 270,000 screenshots — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
-- > 3,000,000 UI elements — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
-- ≥ 1,600,000 images — FineWeb-derived subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
+- > 270,000 张截图 — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
+- > 3,000,000 个 UI 元素 — SeeClick-derived web subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
+- ≥ 1,600,000 张图像 — FineWeb-derived subset（来源报告；来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md）
 
 These are subset-specific counts for OS-Atlas. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.
 

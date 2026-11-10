@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/10/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [ProBrowser MCP Server](https://awesomecua.com/zh/resources/github-momadhuynh04-probrowser/)：面向 AI 智能体、具备反检测能力的真实浏览器自动化 Model Context Protocol 服务器。
+- [Procore Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-procore-browser-automation/)：面向 Procore 的浏览器自动化脚手架，提供施工信息请求、报审跟踪、每日日志和项目报告导出操作。
+- [Prodjest (DSH Browser Bridge)](https://awesomecua.com/zh/resources/github-hedelka-prodjest/)：面向 DeepSeek Harness 的视觉 Chrome 浏览器桥接工具，支持用户交互式监督。
+- [ProdPoke MCP Server](https://awesomecua.com/zh/resources/github-prodpoke-prodpoke-mcp/)：AI QA 测试 MCP 服务器，可启动真实浏览器执行探索性用户操作流程并报告 UI 缺陷。
+- [Product Demo Video Skill](https://awesomecua.com/zh/resources/github-afnanksalal-product-demo-video-skill/)：适用于 Codex 和 Claude 的 Agent Skill，通过在浏览器中操作实时网页产品，录制与真实操作关联的演示视频。
+- [Puppeteer MCP Server](https://awesomecua.com/zh/resources/github-sultannaufal-puppeteer-mcp-server/)：可自行托管的 Puppeteer MCP 服务器，支持远程 Server-Sent Events（SSE）传输、API 密钥认证和 Docker 部署。
+- [pursr](https://awesomecua.com/zh/resources/github-0xheycat-pursr/)：集视觉质量检查、无障碍审计、截图差异比较和 MCP 浏览器自动化于一体的工具包。
 - [pyagentbrowser](https://awesomecua.com/zh/resources/github-peter-gy-pyagentbrowser/)：面向 Vercel agent-browser 引擎的类型化 Python SDK，支持捕获动作前后的证据。
 - [pyautogui_mcp_server](https://awesomecua.com/zh/resources/github-on-panda-pyautogui-mcp-server/)：pyautogui_mcp_server 是一个支持 Streamable HTTP 的 Model Context Protocol 服务器，用于执行 PyAutoGUI 桌面自动化工作流。
 - [PyMCPAutoGUI](https://awesomecua.com/zh/resources/github-ahaufox-pymcpautogui/)：PyMCPAutoGUI 是跨平台 MCP 服务器，结合 PyAutoGUI 鼠标和键盘控制、窗口管理及 EasyOCR 屏幕文本定位。
@@ -84,7 +91,6 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/10/ · [English](ht
 - [TabWard](https://awesomecua.com/zh/resources/github-nepavel221-tabward/)：通过 stdio MCP 服务器和扩展，为本地 AI 智能体提供受权限控制的已认证 Chrome 标签页访问能力。
 - [tail-aside](https://awesomecua.com/zh/resources/github-quino0627-tail-aside/)：通过 Tailscale 监控和引导 Aside 浏览器智能体的远程移动端控制器。
 - [Taprun (tap)](https://awesomecua.com/zh/resources/github-leonting1010-tap/)：录制一次已登录浏览器中的任务演示，并将其编译为确定性的零 token 重放技能。
-- [Tarsier](https://awesomecua.com/zh/resources/github-reworkd-tarsier/)：网页智能体感知工具，为可交互元素标注可供 LLM 操作的类型化 ID，并用 OCR 将网页截图转为保留空白布局的文本，供无视觉能力的模型使用。
 - [Tarsier-AI](https://awesomecua.com/zh/resources/github-siddzzzz-tarsier/)：Tarsier-AI 将桌面和网页无障碍树转换为可移植的语义快照和行为确定的动作原语，供 LLM 智能体使用。
 - [Tauri Dev Screen CLI](https://awesomecua.com/zh/resources/github-johunsang-tauri-dev-screen-cli/)：面向 AI 智能体的 Node.js CLI，用于在开发期间检查、截图和控制实时 Tauri 桌面应用窗口。
 - [Tenmomo Browser Agent](https://awesomecua.com/zh/resources/github-tenmomo-browser-agent/)：仅限本机回环访问的 MCP 浏览器代理服务，以及作用于单个标签页的 Chrome 扩展，供编码智能体使用。
@@ -98,9 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/10/ · [English](ht
 - [TinyFish MCP Server](https://awesomecua.com/zh/resources/github-tinyfish-io-tinyfish-mcp-server/)：TinyFish 官方 Model Context Protocol 服务器，提供网页搜索、页面提取和云浏览器自动化能力。
 - [ToolArks Remote Login Relay](https://awesomecua.com/zh/resources/github-zdayang-remote-login-relay/)：自托管的单标签页移动端接管中继，让人远程解决 AI 浏览器智能体遇到的登录、2FA 或 CAPTCHA 障碍。
 - [UI Debugger MCP](https://awesomecua.com/zh/resources/github-developerz-ai-ui-debugger-mcp/)：自主 UI 调试 MCP 服务器，可操作浏览器和桌面应用以检测视觉及功能缺陷。
-- [UI Image to Code Studio](https://awesomecua.com/zh/resources/github-zwq-top-ui-image-to-code-studio/)：Codex 技能，可将 UI 截图和运行中的网站转换为 React、Vue 或 HTML 代码，并通过浏览器进行视觉验证。
-- [uiacli (Windows UI Automation CLI)](https://awesomecua.com/zh/resources/github-amitse-uiacli/)：通过结构化 UI Automation 树和 CLI 命令，让 AI 智能体能够操作 Windows 桌面应用。
-- [UIAutomationMcp](https://awesomecua.com/zh/resources/github-trsdn-mcp-server-uiautomation/)：Windows UI Automation 工具包，提供 CLI、MCP 服务器和 VS Code 扩展，用于检查和操作原生桌面控件。
-- [uitars-mcp](https://awesomecua.com/zh/resources/github-sandraschi-uitars-mcp/)：uitars-mcp 是一个 Model Context Protocol 服务器，将 UI-TARS 等视觉语言 GUI 模型连接到桌面和浏览器操作。
-- [Ultimate Playwright MCP](https://awesomecua.com/zh/resources/github-pm990320-ultimate-playwright-mcp/)：多智能体 Playwright MCP 服务器，通过 Chrome 标签页分组隔离，使并发 AI 智能体能够安全地共享同一浏览器。
-- [UltraTerm Computer Use](https://awesomecua.com/zh/resources/github-michael-berardi-ultraterm-computer-use/)：面向 macOS、Linux 和 Windows 上支持 MCP 的智能体的本地桌面自动化插件。

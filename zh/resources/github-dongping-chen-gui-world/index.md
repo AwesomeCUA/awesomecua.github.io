@@ -24,8 +24,8 @@
 
 ### 数量记录
 
-- 6 GUI scenario categories — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
-- 8 question types — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
+- 6 个 GUI 场景类别 — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
+- 8 种问题类型 — dataset taxonomy（来源报告；来源：https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md）
 
 Taxonomy counts describe coverage; video and question counts use different units. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation.
 

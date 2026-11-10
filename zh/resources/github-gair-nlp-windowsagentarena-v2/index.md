@@ -25,13 +25,13 @@ Repository contains executable evaluation code and task definitions. README link
 - 评测方式：Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
 - 侧重：Windows desktop task execution, revised task evaluators
 - 观测：screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 141 tasks — full WindowsAgentArena-V2 suite reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
-- 11 Windows applications — full suite coverage reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
-- 20 task IDs — shipped test_custom.json selection（计算得出；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_custom.json）
+- 141 个任务 — full WindowsAgentArena-V2 suite reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
+- 11 个 Windows 应用 — full suite coverage reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
+- 20 个任务 ID — shipped test_custom.json selection（计算得出）（来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_custom.json）
 
 README sample config uses max_steps=30. The shipped selected-task index has 20 IDs; the 141-task figure has a different scope. Preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.
 

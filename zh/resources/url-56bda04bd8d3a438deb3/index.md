@@ -28,9 +28,9 @@ The public Hub API reports gated=auto and a Restricted Research-Only declaration
 
 ### 数量记录
 
-- 585,981 distinct screenshots — ScreenRef image inventory（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
-- 633,369 annotation rows — full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
-- 22,475 annotation rows — refusal subset of full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 585,981 张不重复的截图 — ScreenRef image inventory（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 633,369 行标注数据 — full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
+- 22,475 行标注数据 — refusal subset of full recipe（来源报告；来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md）
 
 The publisher reports these inventories in the companion annotation card. The refusal subset is included in the full recipe. Screenshot access is gated; no image download or independent corpus recount was performed.
 

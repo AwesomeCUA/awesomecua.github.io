@@ -25,13 +25,13 @@ GitHub marks the repository archived. Notte Labs, the developer of one of the co
 - 评测方式：A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.
 - 侧重：live-website task completion, agent self-report calibration, run-to-run variance
 - 观测：agent-defined browser observations, final screenshots and response for the judge
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 30 tasks — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出；来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
-- 15 websites — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出；来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
-- 643 tasks — full WebVoyager task file in the repository (eval/data/webvoyager/webvoyager.jsonl)（计算得出；来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl）
+- 30 个任务 — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出）（来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
+- 15 个网站 — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出）（来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
+- 643 个任务 — full WebVoyager task file in the repository (eval/data/webvoyager/webvoyager.jsonl)（计算得出）（来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl）
 
 Counts are distinct task identifiers and website_name values in the inspected task files at the reviewed commit. The README calls WebVoyager about 600 tasks; the repository file holds 643 rows. Results depend on the agent version, model, step and time budget, IP location and run date.
 

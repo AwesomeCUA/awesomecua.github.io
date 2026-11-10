@@ -21,12 +21,12 @@
 - 评测方式：Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
 - 侧重：GUI page-element detection, element-description consistency
 - 观测：page screenshot
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,000 page-annotation entries — English annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
-- 1,000 page-annotation entries — Chinese annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
+- 1,000 条页面标注条目 — English annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
+- 1,000 条页面标注条目 — Chinese annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
 
 Each annotation entry represents a page. README illustrates num_samples=4796 as example output; the corpus count remains unspecified. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.
 

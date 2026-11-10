@@ -4,6 +4,16 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/11/
 
 完整列表：https://awesomecua.com/zh/topics/data-generation/index.md
 
+- [RUSS](https://awesomecua.com/zh/resources/github-xnancy-russ/)
+- [SCALE-CUA (THUDM)](https://awesomecua.com/zh/resources/github-thudm-scale-cua/)
+- [SCOPE-Gen](https://awesomecua.com/zh/resources/github-k4ngzy-scope-gen/)
+- [Scrapfly MCP Server](https://awesomecua.com/zh/resources/github-scrapfly-scrapfly-mcp/)
+- [Screen2AX](https://awesomecua.com/zh/resources/github-macpaw-screen2ax/)
+- [screen2gym](https://awesomecua.com/zh/resources/github-marc-saouda-screen2gym/)
+- [ScreenAgent Web Client](https://awesomecua.com/zh/resources/github-niuzaisheng-screenagentwebclient/)
+- [ScreenParse Webshot toolkit](https://awesomecua.com/zh/resources/github-saidgurbuz-screenparse/)
+- [SEAgent](https://awesomecua.com/zh/resources/github-sunzey-seagent/)
+- [Seq2act code (google-research)](https://awesomecua.com/zh/resources/component-google-research-seq2act/)
 - [Shadow](https://awesomecua.com/zh/resources/github-ghostwright-shadow/)
 - [Shinken](https://awesomecua.com/zh/resources/github-meirtz-shinken/)
 - [Shiny Fishstick](https://awesomecua.com/zh/resources/github-hootsworth-shiny-fishstick/)

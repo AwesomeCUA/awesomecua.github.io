@@ -33,6 +33,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/6/
 - [ScreenSpot Pro](https://awesomecua.com/zh/resources/github-likaixin2000-screenspot-pro-gui-grounding/)
 - [ScreenSpot v2](https://awesomecua.com/zh/resources/url-bd7214de6d98917c2350/)
 - [ScreenSpot-v2 instruction variants](https://awesomecua.com/zh/resources/url-17729e1c532ba7043404/)
+- [showdown](https://awesomecua.com/zh/resources/github-generalagents-showdown/)
 - [showdown-clicks](https://awesomecua.com/zh/resources/url-863cc1744cd5d40418be/)
 - [UI-I2E-Bench](https://awesomecua.com/zh/resources/url-c08566be0d973ec40c48/)
 - [Web Context Bench (Python)](https://awesomecua.com/zh/resources/github-charlypoly-web-context-bench-python/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/6/
 - [GUI-Lasagne L1](https://awesomecua.com/zh/resources/url-0c5659ca9e59d942aea3/)
 - [GUI-Libra-81K-SFT](https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/)
 - [GUI-Net-1M](https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/)
-- [GUI-Net-Mini](https://awesomecua.com/zh/resources/url-0627940da1b988739f75/)

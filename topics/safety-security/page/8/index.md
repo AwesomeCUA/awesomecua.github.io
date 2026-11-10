@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/safety-security/page/8/
 
 Full list: https://awesomecua.com/topics/safety-security/index.md
 
+- [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)
+- [DualKey](https://awesomecua.com/resources/github-wadekeith-dualkey-agent/)
+- [DualTAP](https://awesomecua.com/resources/github-fyzhang1-dualtap/)
 - [EdgeBox](https://awesomecua.com/resources/github-bigppwong-edgebox/)
 - [Enterprise Web Workflow Agent](https://awesomecua.com/resources/github-ztr321-enterprise-web-workflow-agent/)
 - [fastbrowse](https://awesomecua.com/resources/github-agent-labs-dev-fastbrowse/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/safety-security/index.md
 - [OpenDesk](https://awesomecua.com/resources/github-vitalops-opendesk/)
 - [OpenPhone (Secondly)](https://awesomecua.com/resources/github-secondly-com-openphone/)
 - [Operant](https://awesomecua.com/resources/github-alpharomerojl-operant/)
-- [ORBIT framework](https://awesomecua.com/resources/github-wlanderson0-orbit/)
-- [Orca](https://awesomecua.com/resources/github-echovic-orca-agent/)
-- [OS-Kairos](https://awesomecua.com/resources/github-wuzheng02-os-kairos/)

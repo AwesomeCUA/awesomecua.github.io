@@ -1,6 +1,6 @@
 # AwesomeCUA curated catalog
 
-> All 5,115 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-10T00:34:12Z. Metadata-only bibliography records and unreviewed candidates are excluded.
+> All 5,215 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-10T03:01:53Z. Metadata-only bibliography records and unreviewed candidates are excluded.
 
 Each entry links its catalog page. Append `index.md` to that URL for the full annotation with evidence fingerprints, or `record.json` for the complete record. Full annotations by kind: [Models and checkpoints](https://awesomecua.com/categories/model/index.md), [Datasets](https://awesomecua.com/categories/dataset/index.md), [Benchmarks](https://awesomecua.com/categories/benchmark/index.md), [Agents](https://awesomecua.com/categories/agent/index.md), [Frameworks](https://awesomecua.com/categories/framework/index.md), [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md), [Tools](https://awesomecua.com/categories/tool/index.md), [Products](https://awesomecua.com/categories/product/index.md), [Publishers](https://awesomecua.com/categories/company/index.md), [Learning resources](https://awesomecua.com/categories/learning/index.md), [Surveys](https://awesomecua.com/categories/survey/index.md), [Research library](https://awesomecua.com/papers/index.md).
 
@@ -8,13 +8,25 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 Related reading: [English research survey](https://awesomecua.com/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
-## Models and checkpoints (400)
+## Models and checkpoints (454)
 
 ### ACT-1
 
 Adept's 2022 action transformer, previewed in demo videos of a Chrome extension that reads a custom rendering of the page and clicks, types and scrolls on its UI elements to carry out typed requests.
 
 - https://awesomecua.com/resources/url-f885d17601171253d25e/ · source: https://www.adept.ai/blog/act-1
+
+### ACT-SOP
+
+LoRA adapter for Llama-2-7b from MobileAgent, a mobile device control agent that adds Standard Operating Procedure (SOP) context and predicts actions on AitW screens.
+
+- https://awesomecua.com/resources/url-ab4587d17c4f541bb94c/ · source: https://huggingface.co/tineding/ACT-SOP
+
+### Adept Fuyu-Heavy
+
+Adept multimodal model that scales up the Fuyu architecture for digital agents, aimed mainly at UI understanding; Adept reports MMMU, VQAv2, AI2D and ChartQA scores against Gemini models.
+
+- https://awesomecua.com/resources/url-1a20a291c766bd4e6861/ · source: https://www.adept.ai/blog/adept-fuyu-heavy
 
 ### AgentCPM-GUI
 
@@ -43,12 +55,30 @@ Vision-based GUI agent models with unified action representations.
 
 - https://awesomecua.com/resources/github-xlang-ai-aguvis/ · source: https://github.com/xlang-ai/aguvis
 
+### Aguvis-7B-720P
+
+Aguvis-7B-720P, the released Aguvis checkpoint: a vision-only GUI agent model trained first for grounding and then for planning and reasoning, acting from screenshots on web, desktop and mobile.
+
+- https://awesomecua.com/resources/url-ac62da857db91f68376b/ · source: https://huggingface.co/xlangai/Aguvis-7B-720P
+
 ### AGW-35B
 
 A screenshot-based GUI action model fine-tuned on 79,266 synthetic interaction examples. It uses a task, current screen and recent actions to predict structured computer-use calls.
 
 - https://awesomecua.com/resources/url-39e2a96f88ed3223ece9/ · source: https://huggingface.co/YangC777/AGW-35B
 - Licenses: weights apache-2.0
+
+### aitw-general-digiq-agent
+
+Digi-Q agent checkpoint for the AitW General task set: an AutoUI device-control policy trained offline with a learned VLM Q-value function that re-ranks proposed actions.
+
+- https://awesomecua.com/resources/url-0e5617031e625a75cfc7/ · source: https://huggingface.co/JackBAI/aitw-general-digiq-agent
+
+### aitw-webshop-digiq-agent
+
+Digi-Q device-control agent checkpoint trained on the AitW Web Shopping task set, an AutoUI-based actor learned offline with a VLM Q-value function; the repository reports a 70.8 test-set score.
+
+- https://awesomecua.com/resources/url-5281c8befef1059590f3/ · source: https://huggingface.co/JackBAI/aitw-webshop-digiq-agent
 
 ### AndroidGen-GLM-4-9B
 
@@ -96,11 +126,24 @@ An ASIL reinforcement-learning checkpoint for an application-control approach ba
 - https://awesomecua.com/resources/url-d740ec821c7c466db2bf/ · source: https://huggingface.co/sharryXR/asil-qwen35-2b-rl
 - Licenses: weights apache-2.0
 
+### asil-qwen35-9b-rl
+
+ASIL RL checkpoint of Qwen3.5-9B for operating desktop applications from JSON state observations with semantic actions written as code, trained on 320 task prompts after SFT.
+
+- https://awesomecua.com/resources/url-c5cedb2f95336a8e48aa/ · source: https://huggingface.co/sharryXR/asil-qwen35-9b-rl
+
 ### asil-qwen35-9b-sft
 
 An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
 
 - https://awesomecua.com/resources/url-9960d240939244c3edaa/ · source: https://huggingface.co/sharryXR/asil-qwen35-9b-sft
+- Licenses: weights apache-2.0
+
+### Auto-UI
+
+Trained Auto-UI checkpoints and BLIP-processed AITW features for a chain-of-action agent that predicts device actions from screenshots, previous actions and planned future actions.
+
+- https://awesomecua.com/resources/url-952cb4c3f308418aa85b/ · source: https://huggingface.co/cooelf/Auto-UI
 - Licenses: weights apache-2.0
 
 ### AutoGLM Phone 9B
@@ -192,6 +235,13 @@ Claude Sonnet 4.5 is a general model available through an API. Anthropic reports
 A general model whose release documents computer use through visual observation, mouse actions, and keyboard input, with OSWorld evaluation and prompt-injection testing.
 
 - https://awesomecua.com/resources/url-c4a45eed67ee9087aae3/ · source: https://www.anthropic.com/news/claude-sonnet-4-6
+
+### ClawGUI-2B
+
+ClawGUI-2B, a 2B mobile GUI agent model trained end to end with the ClawGUI-RL pipeline and GiGPO; the authors report a 17.1 MobileWorld success rate against an 11.1 baseline.
+
+- https://awesomecua.com/resources/url-1a54e63277eaffdaef57/ · source: https://huggingface.co/SugarVapeur/OpenGUI-2B
+- Licenses: weights apache-2.0
 
 ### CODA-PLANNER-TARS-32B
 
@@ -296,6 +346,19 @@ A small computer-use classifier that scores predefined GUI element-action option
 
 - https://awesomecua.com/resources/url-3cdd5263b3b46a5e2003/ · source: https://huggingface.co/cua-ai/cua-s1-nano-0.1
 - Licenses: weights apache-2.0
+
+### CUA_World_State_Model
+
+SEAgent's World State Model, a Qwen2.5-VL-7B-Instruct fine-tune that assesses computer-use trajectories step by step from screenshots, used to label successes and failures and to drive curriculum task generation.
+
+- https://awesomecua.com/resources/url-f0ffbdc41c9dca4c585f/ · source: https://huggingface.co/Zery/CUA_World_State_Model
+- Licenses: weights apache-2.0
+
+### dart-gui-7b
+
+GUI agent checkpoint released with DART, a decoupled asynchronous RL framework that separates environments, rollout, data management and training; the paper reports 42.13% task success on OSWorld.
+
+- https://awesomecua.com/resources/url-689fea75118e3113476b/ · source: https://huggingface.co/dart-gui/dart-gui-7b
 
 ### DeskForge-Gemma4-E4B
 
@@ -457,6 +520,13 @@ Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instru
 - https://awesomecua.com/resources/url-d7ad447ecd712c6d51b8/ · source: https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview
 - Licenses: weights apache-2.0
 
+### GELab-Engine-7B
+
+Qwen2.5-VL 7B checkpoint released with GUI Exploration Lab, a synthetic GUI environment of screens linked by a navigation graph, where agents learn screen navigation through SFT, single-turn RL and multi-turn RL.
+
+- https://awesomecua.com/resources/url-41b685bbd42fbd4732da/ · source: https://huggingface.co/Summoneryhl/GELab-Engine-7B
+- Licenses: weights apache-2.0
+
 ### Gelato
 
 Release code for Gelato-30B-A3B, a GUI click-grounding model trained with GRPO on Click-100k: EasyR1 configs, click rewards, grounding evaluation scripts and logs, and a GPT-5-planned OS-World agent harness.
@@ -469,6 +539,12 @@ Qwen3-VL-30B-A3B-Instruct checkpoint trained with GRPO on Click-100k that return
 
 - https://awesomecua.com/resources/url-46502d87b2c13515790a/ · source: https://huggingface.co/mlfoundations/Gelato-30B-A3B
 - Licenses: weights Apache-2.0
+
+### Gelato-UI-TARS-1.5-7B
+
+UI-TARS-1.5-7B trained with reinforcement learning on the Click-100k dataset for 255 steps as the Gelato recipe baseline for GUI grounding. The authors report gains over GTA1-7B-2507 on ScreenSpot-Pro and OS-World-G.
+
+- https://awesomecua.com/resources/url-7617bb21031bc5fb6574/ · source: https://huggingface.co/mlfoundations/Gelato-UI-TARS-1.5-7B
 
 ### Gemini 2.5 Computer Use
 
@@ -537,6 +613,12 @@ GPA-GUI-Detector is a YOLO model that locates interactive elements such as butto
 - https://awesomecua.com/resources/url-87f28e117d95985d5177/ · source: https://huggingface.co/Salesforce/GPA-GUI-Detector
 - Licenses: weights mit
 
+### GPT-6 Astra
+
+General OpenAI model whose launch post covers computer use and browsing; OpenAI reports 72.6% on OSWorld 2.0 at about 40 minutes per task, plus ScreenSpot-Pro and Mind2Web results.
+
+- https://awesomecua.com/resources/url-039a4975e102cb538c36/ · source: https://openai.com/index/gpt-6-astra
+
 ### GroundAnything
 
 GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.
@@ -570,6 +652,13 @@ GroundingPI is a 4B visual grounding foundation model that unifies bounding-box 
 GroundNext GUI-grounding checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct with SFT then RLOO on GroundCUA desktop data; it maps a screenshot and instruction to a computer_use click call.
 
 - https://awesomecua.com/resources/url-174e10a319d62c338879/ · source: https://huggingface.co/ServiceNow/GroundNext-7B-V0
+- Licenses: weights apache-2.0
+
+### GT-r1
+
+A GUI defect detection model trained with VLM-R1 reinforcement learning that inspects an app screenshot and labels it as a content display error, UI layout issue, missing UI element or no defect.
+
+- https://awesomecua.com/resources/url-1a6fc60f2b931acbd057/ · source: https://huggingface.co/konkazzz/GT-r1
 - Licenses: weights apache-2.0
 
 ### GTA1-7B
@@ -648,6 +737,12 @@ GUI-AIMA aligns intrinsic multimodal attention heads with context anchors for da
 
 - https://awesomecua.com/resources/github-sjz5202-gui-aima/ · source: https://github.com/sjz5202/GUI-AIMA
 - Licenses: code Apache-2.0
+
+### GUI-AIMA-3B
+
+GUI grounding model that predicts click locations from attention between a learnable ANCHOR token and visual patches, extra-trained on 250k GroundCUA samples; the authors report 61.5% on ScreenSpot-Pro with 2-step zoom.
+
+- https://awesomecua.com/resources/url-638d229f7a02760ae9dc/ · source: https://huggingface.co/smz8599/GUI-AIMA-3B
 
 ### GUI-G1
 
@@ -1070,6 +1165,12 @@ A GUI grounding model described for desktop, mobile, and browser interfaces. Its
 
 - https://awesomecua.com/resources/github-intelligence-indeed-indeed-ui/ · source: https://github.com/intelligence-indeed/Indeed-UI
 
+### Indeed-UI-8B
+
+GUI grounding model fine-tuned from GUI-Owl 1.5-8B with grounding data and high-resolution training; the card reports 73.4 on ScreenSpot-Pro, 94.4 on ScreenSpot-V2 and 68.3 on OSWorld-G.
+
+- https://awesomecua.com/resources/url-26157e2cda7fb73cf99c/ · source: https://www.modelscope.cn/models/IntellgenceIndeed/Indeed-UI-8B
+
 ### InfiGUI-G1
 
 InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy Optimization, which samples several candidate answers per pass under an adaptive exploration reward.
@@ -1161,6 +1262,13 @@ A released multimodal checkpoint whose training includes GUI operations and whos
 - https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/ · source: https://huggingface.co/OpenGVLab/InternVL3-9B
 - Licenses: weights mit
 
+### InternVL3_5-14B
+
+InternVL3.5 multimodal checkpoint with 15.1B total parameters, trained with CPT, SFT and Cascade RL. The paper reports its GUI grounding and agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.
+
+- https://awesomecua.com/resources/url-558abdb3eb20b922e01b/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-14B
+- Licenses: weights apache-2.0
+
 ### InternVL3_5-14B-HF
 
 A Hugging Face format checkpoint in the InternVL3.5 multimodal model family, whose card names GUI interaction among its capabilities and describes Cascade RL training.
@@ -1175,6 +1283,13 @@ InternVL3_5-1B is a released multimodal checkpoint from the InternVL3.5 family, 
 - https://awesomecua.com/resources/url-b75abe232c389788d2c4/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-1B
 - Licenses: weights apache-2.0
 
+### InternVL3_5-1B-HF
+
+HF-format InternVL3.5-1B checkpoint with a 0.3B vision encoder and 0.8B language model, from a multimodal family trained with Cascade RL that lists GUI interaction among its capabilities.
+
+- https://awesomecua.com/resources/url-98f37e375e57e027af64/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-1B-HF
+- Licenses: weights apache-2.0
+
 ### InternVL3_5-241B-A28B
 
 A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.
@@ -1187,6 +1302,41 @@ A released InternVL3.5 multimodal checkpoint from a family whose card describes 
 InternVL3_5-241B-A28B-HF releases a Transformers-format multimodal checkpoint from the InternVL3.5 family, whose card describes GUI interaction and efficient visual inference.
 
 - https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-HF
+- Licenses: weights apache-2.0
+
+### InternVL3_5-2B
+
+InternVL3.5-2B checkpoint with a 0.3B vision encoder and 2.0B language model, from a multimodal family trained with Cascade RL that lists GUI interaction among its capabilities.
+
+- https://awesomecua.com/resources/url-feaad5e9f2497d1ed9ca/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-2B
+- Licenses: weights apache-2.0
+
+### InternVL3_5-2B-HF
+
+HF-format 2.3B-parameter InternVL3.5 checkpoint, a multimodal model whose card lists GUI interaction among its trained skills and reports GUI task results for the family.
+
+- https://awesomecua.com/resources/url-d1f0e13ad96c108ef09b/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-2B-HF
+- Licenses: weights apache-2.0
+
+### InternVL3_5-30B-A3B
+
+InternVL3.5 multimodal checkpoint listed at 30.8B-A3B parameters, trained with CPT, SFT and Cascade RL. The paper reports its GUI grounding and agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.
+
+- https://awesomecua.com/resources/url-4d7042b462e937c33406/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B
+- Licenses: weights apache-2.0
+
+### InternVL3_5-30B-A3B-HF
+
+Transformers-format InternVL3.5 checkpoint with 30.8B total and 3B active parameters, whose paper reports GUI grounding and online agent results on ScreenSpot, OSWorld-G, WindowsAgentArena and WebArena-Lite-v2.
+
+- https://awesomecua.com/resources/url-2ebcbc24ecbdc2db22fb/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B-HF
+- Licenses: weights apache-2.0
+
+### InternVL3_5-38B
+
+InternVL3.5 checkpoint with 38.4B parameters, pairing a 5.5B vision encoder with a 32.8B language model, whose paper reports GUI grounding and online agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.
+
+- https://awesomecua.com/resources/url-33b35b47d8bb269d84a1/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-38B
 - Licenses: weights apache-2.0
 
 ### InternVL3_5-38B-HF
@@ -1208,6 +1358,20 @@ An HF-format checkpoint in the InternVL3.5 multimodal model family, whose card n
 An 8B multimodal checkpoint in the InternVL3.5 family, whose card describes GUI interaction alongside broader visual reasoning and inference efficiency work.
 
 - https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-8B
+- Licenses: weights apache-2.0
+
+### InternVL3_5-8B-HF
+
+InternVL3.5-8B multimodal model in Hugging Face Transformers format; its report evaluates the family on GUI grounding and on online agent tasks in OSWorld, WindowsAgentArena and WebArena-Lite-v2.
+
+- https://awesomecua.com/resources/url-15c5435c1cb4f9e6b737/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-8B-HF
+- Licenses: weights apache-2.0
+
+### InternVL3_5-GPT-OSS-20B-A4B-Preview-HF
+
+HF-format InternVL3.5 preview checkpoint built on a GPT-OSS language model (21.2B total, A4B), a multimodal model whose card lists GUI interaction among its trained skills and reports GUI results.
+
+- https://awesomecua.com/resources/url-c09ce6d4ca2ddaf02fae/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF
 - Licenses: weights apache-2.0
 
 ### jadechoghari/Ferret-UI-Llama8b
@@ -1328,6 +1492,12 @@ Non-generative browser-agent policy fine-tuned from the 322M laya encoder: one f
 - https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/ · source: https://huggingface.co/cklxx/laya-browser
 - Licenses: weights apache-2.0
 
+### LFM2-350M-ComputerUse
+
+LoRA adapter for LFM2-350M trained with GRPO to click a button on the MiniWoB click-test task, reading the page as a BrowserGym accessibility tree and acting in a sandboxed browser.
+
+- https://awesomecua.com/resources/url-b68b02b47c87f006533e/ · source: https://huggingface.co/DingoBeast/LFM2-350M-ComputerUse
+
 ### Llama-3-8B-Web
 
 A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.
@@ -1341,6 +1511,18 @@ A Llama checkpoint trained on demonstrations gathered through WebArena explorati
 
 - https://awesomecua.com/resources/url-c9d2a9288a568db12bd1/ · source: https://huggingface.co/stanfordnlp/llama8b-nnetnav-wa
 - Licenses: weights apache-2.0
+
+### lora_qformer_test_V4-700_merged
+
+Qwen2.5-VL-7B-Instruct merged with the CoMEM memory module, which compresses past GUI trajectories into 8 continuous embeddings through a LoRA-tuned Q-Former, for web agent tasks.
+
+- https://awesomecua.com/resources/url-8a5201470d27334977fa/ · source: https://huggingface.co/WenyiWU0111/lora_qformer_test_V4-700_merged
+
+### lora_qformer_uitars_test_V1-400_merged
+
+UI-TARS-V1.5-7B checkpoint with CoMEM continuous memory merged in, where a LoRA-tuned Q-Former compresses retrieved GUI trajectories into fixed-length embeddings for the web agent.
+
+- https://awesomecua.com/resources/url-b144605ae24674ffb917/ · source: https://huggingface.co/WenyiWU0111/lora_qformer_uitars_test_V1-400_merged
 
 ### lumos_unified_ground_iterative
 
@@ -1454,6 +1636,18 @@ Mano-P is an open-source GUI vision-language-action model optimized for edge dev
 - https://awesomecua.com/resources/github-mininglamp-ai-mano-p/ · source: https://github.com/Mininglamp-AI/Mano-P
 - Licenses: code Apache-2.0
 
+### Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2
+
+QLoRA adapter for Llama-3.1-8B-Instruct that acts as the value model of the WMA web agent, rating world-model predictions of each candidate action's outcome so the agent can choose the top-scored one.
+
+- https://awesomecua.com/resources/url-062d2cb4ccb89de78162/ · source: https://huggingface.co/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2
+
+### Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter
+
+PEFT world-model adapter for Llama 3.1 8B Instruct from the WMA web agent project, trained to describe the state changes an action causes so the agent can choose actions on WebArena.
+
+- https://awesomecua.com/resources/url-58195ef097be91525554/ · source: https://huggingface.co/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter
+
 ### microsoft/OmniParser
 
 Released screen-parsing weights that detect actionable UI regions and caption icons in screenshots, supporting structured screen input for GUI agents.
@@ -1474,6 +1668,12 @@ Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and 
 
 - https://awesomecua.com/resources/github-chayworks-milo-pointer/ · source: https://github.com/chayworks/milo-pointer
 - Licenses: code Apache-2.0
+
+### MindAct_CandidateGeneration_deberta-v3-base
+
+Encoder-only DeBERTa-v3-base model from MindAct that scores task query and page element pairs, so the top 50 candidates on a Mind2Web page go on to the action prediction model.
+
+- https://awesomecua.com/resources/url-43f98379902167a5f9f3/ · source: https://huggingface.co/osunlp/MindAct_CandidateGeneration_deberta-v3-base
 
 ### MiniCPM-GUIDance
 
@@ -1549,6 +1749,12 @@ ToolCUA-8B is a released computer-use model trained to alternate between desktop
 - https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/ · source: https://huggingface.co/mPLUG/ToolCUA-8B
 - Licenses: weights mit
 
+### Muse Spark 1.1
+
+Meta Superintelligence Labs multimodal reasoning model for agentic work, trained to choose between writing scripts and clicking in computer-use workflows that span several applications.
+
+- https://awesomecua.com/resources/url-f8a956094e526a92caf3/ · source: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api
+
 ### Muse-Glimmer-30B-GUI-Grounding-Fast
 
 A LoRA adapter for Muse-Glimmer-30B that returns a UI element's bounding box from a screenshot and instruction, with examples spanning desktop, mobile, and web screens.
@@ -1562,6 +1768,12 @@ Nemotron 3 Nano Omni is a released multimodal model for image, video, audio and 
 
 - https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/ · source: https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16
 - Licenses: weights other
+
+### nnetnav-wa-qwen-7B
+
+Qwen-2.5-7B-Instruct fine-tuned on the NNetNav-WA WebArena trajectories, released by the Go-Browse project as its NNetNav-7B comparison model for WebArena web navigation.
+
+- https://awesomecua.com/resources/url-511ba336435d406f3761/ · source: https://huggingface.co/apurvaga/nnetnav-wa-qwen-7B
 
 ### Northstar-CUA-Fast
 
@@ -1700,6 +1912,33 @@ Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and
 Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile and fine-tuned on its synthesized Android trajectories; the code README serves it with vLLM for AndroidWorld evaluation.
 
 - https://awesomecua.com/resources/url-6616228d4f267363458e/ · source: https://huggingface.co/cckevinn/OpenMobile-8B
+
+### OpenPhone_model
+
+OpenPhone-3B weights, a 3B on-device model for Android GUI tasks trained with supervised fine-tuning on synthetic reasoning data and then GRPO-style reinforcement learning.
+
+- https://awesomecua.com/resources/url-836de49b2bbd47d3a6a5/ · source: https://huggingface.co/hkuds/OpenPhone_model
+
+### OpenWebVoyager-opt-1
+
+OpenWebVoyager checkpoint after the first exploration-feedback-optimization round: the imitation-learned multimodal web agent further trained on successful real-website trajectories judged by GPT-4o.
+
+- https://awesomecua.com/resources/url-bd293c9a5f9bf16b8199/ · source: https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-1
+- Licenses: weights apache-2.0
+
+### OpenWebVoyager-opt-2
+
+The second optimization-iteration checkpoint of OpenWebVoyager, an idefics2-8b multimodal web agent trained by imitation learning and then refined on successful real-website trajectories kept by GPT-4o feedback.
+
+- https://awesomecua.com/resources/url-f4f6f5bfe051e6ba3d94/ · source: https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-2
+- Licenses: weights apache-2.0
+
+### OpenWebVoyager-opt-3
+
+Third optimization-stage checkpoint of OpenWebVoyager, an Idefics2-based multimodal web agent trained by imitation learning and then refined on successful self-explored trajectories judged by GPT-4o.
+
+- https://awesomecua.com/resources/url-2cd89755e4e2511de633/ · source: https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-3
+- Licenses: weights apache-2.0
 
 ### OpenWebVoyager/OpenWebVoyager-IL
 
@@ -1916,6 +2155,13 @@ A GUI-grounding checkpoint built on Qwen2.5-VL-7B-Instruct with an attention-bas
 - https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/ · source: https://huggingface.co/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
 - Licenses: weights mit
 
+### Qwen-AgentWorld
+
+A language world model that predicts the next environment observation across seven domains, including Android screens, browser pages and desktop accessibility trees, released with AgentWorldBench evaluation code.
+
+- https://awesomecua.com/resources/github-qwenlm-qwen-agentworld/ · source: https://github.com/QwenLM/Qwen-AgentWorld
+- Licenses: code Apache-2.0
+
 ### Qwen-CUA
 
 Qwen-CUA is a screenshot-based computer-use model that generates grounded keyboard and mouse actions. Its release includes weights and a browser reference runtime.
@@ -2123,6 +2369,12 @@ A vision-language checkpoint whose card describes visual-agent operation of PC a
 - https://awesomecua.com/resources/url-b5690e43822ef84015c5/ · source: https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking
 - Licenses: weights apache-2.0
 
+### Qwen3-VL-8B-Instruct-MobileWorld-SFT
+
+Qwen3-VL-8B-Instruct fine-tuned on the MobileWorld dataset as a semantic world model that describes in natural language how a mobile GUI screen changes after an action, for planning by mobile agents.
+
+- https://awesomecua.com/resources/url-e58270c90ea4fa83cfb4/ · source: https://huggingface.co/jacklishufan/Qwen3-VL-8B-Instruct-MobileWorld-SFT
+
 ### Qwen3-VL-8B-Thinking
 
 A general vision-language weight release whose documented visual-agent capability includes recognizing PC and mobile GUI elements and invoking tools to complete tasks.
@@ -2269,6 +2521,13 @@ A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and 
 - https://awesomecua.com/resources/url-389202404e2653f59838/ · source: https://huggingface.co/k4ng/SCOPE-SFT-9B
 - Licenses: weights apache-2.0
 
+### ScreenAgent
+
+ScreenAgent-2312 weights in SAT format, a CogAgent-based vision-language model that drives the ScreenAgent environment, issuing mouse and keyboard actions over VNC in plan, act and reflect stages.
+
+- https://awesomecua.com/resources/url-92b5cb08491c09243b72/ · source: https://huggingface.co/niurl/ScreenAgent
+- Licenses: weights mit
+
 ### ScreenParser
 
 YOLO11-L UI element detector from IBM Research and ETH Zurich that boxes and labels 55 element classes in web screenshots; the main checkpoint is trained on ScreenParse v2 and the v1 detector stays on a branch.
@@ -2283,6 +2542,27 @@ A model that converts web page screenshots into structured markup containing UI 
 - https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/ · source: https://huggingface.co/docling-project/ScreenVLM
 - Licenses: weights apache-2.0
 
+### SE-GUI-3B
+
+GUI grounding model on a Qwen2.5-VL 3B backbone trained with self-evolutionary reinforcement fine-tuning on 3,018 curated samples; the authors report 35.9 on ScreenSpot-Pro.
+
+- https://awesomecua.com/resources/url-6d6f7ffc6a15e9e75a14/ · source: https://huggingface.co/XinBB/SE-GUI-3B
+- Licenses: weights apache-2.0
+
+### SE-GUI-7B
+
+A 7B GUI grounding model built on Qwen2.5-VL and trained with GRPO, a dense point reward and attention-guided self-evolutionary fine-tuning on 3,018 curated seed samples.
+
+- https://awesomecua.com/resources/url-00f5bfd8c7991012a183/ · source: https://huggingface.co/XinBB/SE-GUI-7B
+- Licenses: weights apache-2.0
+
+### SEAgent-1.0-7B
+
+Computer-use agent checkpoint from SEAgent, built on UI-TARS-7B-DPO and trained by experiential learning on self-generated OSWorld software tasks; the paper reports 34.5% success on five novel applications.
+
+- https://awesomecua.com/resources/url-62688de46b172fb0c746/ · source: https://huggingface.co/Zery/SEAgent-1.0-7B
+- Licenses: weights apache-2.0
+
 ### SeeClick
 
 GUI grounding model trained to locate visual interface elements.
@@ -2295,6 +2575,12 @@ GUI grounding model trained to locate visual interface elements.
 The released SeeClick visual grounding checkpoint for mapping an interface screenshot and referring instruction to a point or bounding box.
 
 - https://awesomecua.com/resources/url-cfea8a0949472a637990/ · source: https://huggingface.co/cckevinn/SeeClick
+
+### SeeClick-aitw
+
+SeeClick visual GUI agent checkpoint fine-tuned on Android in the Wild (AITW) episodes and scored on the AITW test set by action matching with the SeeClick agent-task scripts.
+
+- https://awesomecua.com/resources/url-a4b101913db4b3673a2b/ · source: https://huggingface.co/cckevinn/SeeClick-aitw
 
 ### Seed1.5-VL
 
@@ -2378,6 +2664,12 @@ A compact visual-action checkpoint that predicts continuous GUI drag trajectorie
 
 - https://awesomecua.com/resources/url-f70aa7c95824a8729516/ · source: https://huggingface.co/showlab/ShowUI-pi
 
+### SmolVLM2-2.2B-Instruct-Agentic-GUI
+
+SmolVLM2-2.2B-Instruct fine-tuned in two phases on the aguvis-stage-1 and aguvis-stage-2 datasets to locate screen elements and emit GUI actions as function calls. The authors report 61% on ScreenSpot-v2.
+
+- https://awesomecua.com/resources/url-915e40f18b217ac63fc6/ · source: https://huggingface.co/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI
+
 ### SpiritSight-Agent 8B base
 
 An InternVL2-based visual GUI checkpoint distributed for grounding and interface navigation, with the publisher recommending task-specific fine-tuning of the base release.
@@ -2419,6 +2711,19 @@ A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans,
 
 - https://awesomecua.com/resources/url-5726382dc813f040f829/ · source: https://huggingface.co/THUDM/cogagent-chat-hf
 - Licenses: weights apache-2.0
+
+### TianXi_Action_Grounding_7B
+
+A 7B GUI action-grounding model from the SEA computer-use agent work, released as Qwen2_5_VL safetensors weights; its GitHub repository runs it on ScreenSpot-Pro across instruction styles and languages.
+
+- https://awesomecua.com/resources/url-f644200c18bea88da7b3/ · source: https://huggingface.co/tangliang/TianXi_Action_Grounding_7B
+
+### tti_webarena
+
+TTI-WebArena checkpoint from the Test-Time Interaction work, a multimodal web agent trained with online filtered behavior cloning on WebArena tasks and set in the TTI evaluation configs.
+
+- https://awesomecua.com/resources/url-a1621345ec327462b86e/ · source: https://huggingface.co/sjunhongs/tti_webarena/tree/main
+- Licenses: weights mit
 
 ### UGround
 
@@ -2598,6 +2903,12 @@ A visual language model that turns UI screenshots into code and supports iterati
 - https://awesomecua.com/resources/url-b04608609a8c392d110b/ · source: https://huggingface.co/zai-org/UI2Code_N
 - Licenses: weights mit
 
+### UIShift-7B-2K
+
+UIShift-7B, the initial GUI-Shift model: a Qwen2.5-VL model trained with GRPO on 2K AndroidControl samples to infer which action led from one screenshot to the next.
+
+- https://awesomecua.com/resources/url-0dcc389cc2b1b15fb081/ · source: https://huggingface.co/mllmTeam/UIShift-7B-2K
+
 ### UIX-Qwen2
 
 A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.
@@ -2632,6 +2943,12 @@ VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-
 
 - https://awesomecua.com/resources/url-97040677a731edfedc2d/ · source: https://huggingface.co/wuuuuuz/VeriOS-Agent-32B
 
+### VeriOS-Agent-7B
+
+A 7B OS agent model that carries out GUI actions under normal conditions and asks a person for input when it detects an untrustworthy scenario, trained in three stages with SFT and GRPO.
+
+- https://awesomecua.com/resources/url-0b0a7a841d65715d60b1/ · source: https://huggingface.co/wuuuuuz/VeriOS-Agent-7B
+
 ### VGA (Vision GUI Assistant)
 
 Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets to reduce hallucinations in vision-language GUI grounding.
@@ -2639,12 +2956,47 @@ Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets 
 - https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/ · source: https://github.com/Linziyang1999/Vision-GUI-assistant
 - Licenses: code Apache-2.0
 
+### VideoAgentTrek-IDM-s1-7B
+
+Keyframe detection model for the VideoAgentTrek Video2Action pipeline, the first inverse-dynamics stage that finds GUI interaction moments in screen-recorded tutorial videos before a second model labels the actions.
+
+- https://awesomecua.com/resources/url-280f2ab56bbc0b630d81/ · source: https://huggingface.co/xlangai/VideoAgentTrek-IDM-s1-7B
+- Licenses: weights apache-2.0
+
+### VideoAgentTrek-IDM-s2-7B
+
+Action identification model in the VideoAgentTrek Video2Action pipeline, which recovers GUI actions such as clicks and typed text from screen-recorded tutorial videos to build computer-use training trajectories.
+
+- https://awesomecua.com/resources/url-2e88b52ca1717a28fd32/ · source: https://huggingface.co/xlangai/VideoAgentTrek-IDM-s2-7B
+- Licenses: weights apache-2.0
+
+### VideoAgentTrek-ScreenFilter
+
+Cursor-detection model in the VideoAgentTrek pipeline that filters screen-recorded tutorial videos by cursor presence before Video2Action extracts GUI action trajectories.
+
+- https://awesomecua.com/resources/url-c7e1d8863286e92c47a2/ · source: https://huggingface.co/xlangai/VideoAgentTrek-ScreenFilter
+- Licenses: weights agpl-3.0
+
 ### Vision-ml
 
 Vision-ml locates the close control in a mobile-app popup screenshot and returns screen coordinates for automation; the repository includes prediction code and a pretrained model.
 
 - https://awesomecua.com/resources/github-meituan-dianping-vision/ · source: https://github.com/Meituan-Dianping/vision
 - Licenses: code MIT
+
+### webarena-world-model-rlvr
+
+A language world model for web page state prediction on WebArena, post-trained with RLVR from an SFT checkpoint and used for model predictive control of web agents.
+
+- https://awesomecua.com/resources/url-e02a165e76cd7c43e2ca/ · source: https://huggingface.co/thuml/webarena-world-model-rlvr
+- Licenses: weights mit
+
+### webarena-world-model-sft
+
+DeepSeek-R1-Distill-Qwen-1.5B fine-tuned as a language world model for WebArena: it predicts which accessibility-tree items change after a web action, trained by SFT on chain-of-thought data before the RLVR stage.
+
+- https://awesomecua.com/resources/url-42686ac00c4ae107f147/ · source: https://huggingface.co/thuml/webarena-world-model-sft
+- Licenses: weights mit
 
 ### WebJudge 7B
 
@@ -2763,7 +3115,13 @@ Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from 
 - https://awesomecua.com/resources/url-c8c046847f829fea4821/ · source: https://huggingface.co/zonghanHZH/ZonUI-3B
 - Licenses: weights Apache-2.0
 
-## Datasets (243)
+## Datasets (267)
+
+### a3-qwen-3.5-9b-trajectories
+
+AgentLab run logs of the A3-Qwen3.5-9B web agent on BrowserGym benchmarks, stored per task as step JSON files with goals, page URLs, DOM and accessibility observations and actions; this address opens the WebArena folder.
+
+- https://awesomecua.com/resources/url-3ab90a696d8578c944c8/ · source: https://huggingface.co/datasets/xhluca/a3-qwen-3.5-9b-trajectories/tree/main/webarena
 
 ### Agent Humanization Benchmark (AHB) recordings
 
@@ -2892,6 +3250,13 @@ GUI element descriptions and grounding instructions spanning web, mobile, and Ub
 - https://awesomecua.com/resources/url-f8566bd0394d36ed4f8e/ · source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data
 - Licenses: data apache-2.0
 
+### AssistantBench
+
+AssistantBench tasks on Hugging Face: realistic, time-consuming open-web questions in dev and test JSONL files, with answers, gold URLs and explanations in the dev rows. The paper reports 214 tasks.
+
+- https://awesomecua.com/resources/url-447997967beea3b07f6f/ · source: https://huggingface.co/datasets/AssistantBench/AssistantBench
+- Licenses: data apache-2.0
+
 ### AutoDroid V2 training data
 
 Conversation-formatted supervision released for fine-tuning AutoDroid V2, with the project documenting a ShareGPT-style JSON configuration.
@@ -2940,6 +3305,13 @@ Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track
 - https://awesomecua.com/resources/url-a06622da7688e3718a7b/ · source: https://huggingface.co/datasets/openbmb/CAGUI
 - Licenses: data cc-by-nc-4.0
 
+### CaptchaArena-Trajectories
+
+Chain-of-thought computer-use trajectories on 20 interactive CAPTCHA types: 46,000 browser rollouts with step screenshots and click, drag, hold or type actions, kept only when the page verifier accepts.
+
+- https://awesomecua.com/resources/url-52067b3e48e9381e4c66/ · source: https://huggingface.co/datasets/ZHEN-04/CaptchaArena-Trajectories
+- Licenses: data cc-by-nc-4.0
+
 ### ChilleD/WildAWM
 
 WildAWM provides 341 computer-use tasks across CLI, MCP, and web interfaces, with frozen task worlds and training and test splits for Harbor runs.
@@ -2958,6 +3330,13 @@ A dataset of 311 image-based tasks for evaluating multimodal browsing agents tha
 A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.
 
 - https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/ · source: https://huggingface.co/datasets/TIGER-Lab/ClawBench
+- Licenses: data apache-2.0
+
+### ClawBenchV2Trace
+
+Raw execution traces of browser-agent runs on the 130-task ClawBench V2 set, each with a screen recording, network capture, browser action stream, agent reasoning, the intercepted final request and a judge verdict.
+
+- https://awesomecua.com/resources/url-3452cef2f99d7de2935a/ · source: https://huggingface.co/datasets/TIGER-Lab/ClawBenchV2Trace
 - Licenses: data apache-2.0
 
 ### ClawGUI-Eval
@@ -3238,6 +3617,12 @@ Training and evaluation Parquet bundles accompanying GUI-R1, including GUI groun
 - https://awesomecua.com/resources/url-df680385f18b01a825be/ · source: https://huggingface.co/datasets/ritzzai/GUI-R1
 - Licenses: data mit
 
+### GUI-SD-data
+
+Training data for GUI-SD, an on-policy self-distillation method for GUI grounding, with about 6.99k screenshots and a JSONL annotation file read by the GUI-SD training scripts.
+
+- https://awesomecua.com/resources/url-1a495ecc8b0d73e04308/ · source: https://huggingface.co/datasets/yankie123/GUI-SD-data
+
 ### GUI-World
 
 GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
@@ -3324,6 +3709,12 @@ Halluminate/WebBench releases task data for evaluating browser agents on read, c
 - https://awesomecua.com/resources/url-5831a1ae8385cda79575/ · source: https://huggingface.co/datasets/Halluminate/WebBench
 - Licenses: data mit
 
+### HiconAgent-AMEX
+
+Training and validation data for HiconAgent built from the AMEX Android dataset: each sample holds a goal, earlier screenshots and actions, and the next action as the answer, for history-aware RL of GUI agents.
+
+- https://awesomecua.com/resources/url-3df97229d34c44c2014a/ · source: https://huggingface.co/datasets/Minuskid/HiconAgent-AMEX
+
 ### Holo4 Trajectories
 
 Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Holo4 35B-A3B, recording step-level reasoning, actions, tool results, and screenshots.
@@ -3337,6 +3728,12 @@ About 150k web navigation tasks from the InSTA project, each giving a website do
 
 - https://awesomecua.com/resources/url-a80c7330dbfd4f897693/ · source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3
 - Licenses: data MIT
+
+### jacklishufan/MobileWorld
+
+Annotation archive for the MobileWorldBench training data: one tar with parquet subsets built on AiTW and AndroidControl screens plus a cleaned QA split, for fine-tuning mobile semantic world models.
+
+- https://awesomecua.com/resources/url-3d12df2fd27076504434/ · source: https://huggingface.co/datasets/jacklishufan/MobileWorld
 
 ### James4Ever0/the_frozen_forest
 
@@ -3357,6 +3754,13 @@ Synthetic GUI grounding data associated with UI decomposition research and the O
 KNOWS provides 110 web-agent task prompts and grading rubrics for creating documents, spreadsheets, and slides in Google Workspace.
 
 - https://awesomecua.com/resources/url-573954fad8617c3d5e57/ · source: https://huggingface.co/datasets/utahnlp/knows-benchmark
+- Licenses: data apache-2.0
+
+### kuangtie/GUI-Robust
+
+Hub release of the GUI-Robust data: step screenshots with JSON annotations for GUI tasks that include seven types of real-world anomalies, scored by the GUI-Robust script for step grounding and full-task success.
+
+- https://awesomecua.com/resources/url-369456114b26b0ff0a05/ · source: https://huggingface.co/datasets/kuangtie/GUI-Robust
 - Licenses: data apache-2.0
 
 ### LexBench-Trajectory-Replay
@@ -3523,6 +3927,13 @@ Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 G
 - https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/ · source: https://huggingface.co/datasets/mllmTeam/MobileViews
 - Licenses: data mit
 
+### mobilevlm_test
+
+Test data for MobileVLM's Mobile3M benchmark, shared as a two-part 7z archive. Mobile3M is a Chinese mobile UI dataset of 3 million pages linked by real transition actions.
+
+- https://awesomecua.com/resources/url-5182ab4e9bd7843f240b/ · source: https://huggingface.co/datasets/xwk123/mobilevlm_test
+- Licenses: data apache-2.0
+
 ### MoCon
 
 Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.
@@ -3603,6 +4014,13 @@ ClawBench V1 Traces releases browser-agent run records with screen video, action
 - https://awesomecua.com/resources/url-e7653b062bded670198a/ · source: https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace
 - Licenses: data apache-2.0
 
+### navi-bench
+
+Task data for Navi-Bench, everyday web tasks on live websites: a 200-row validation split over ten sites such as Apartments, Craigslist and Google Flights, each with a task-generation config, domain and categories.
+
+- https://awesomecua.com/resources/url-5bbbc1012ab02e9df3bb/ · source: https://huggingface.co/datasets/yutori-ai/navi-bench
+- Licenses: data apache-2.0
+
 ### NNetNav Live data
 
 Browser-interaction data released with NNetNav for its live-website setting, with separate training and test files.
@@ -3656,6 +4074,13 @@ OpenMobile's synthesized Android agent data: four LLaMA-Factory SFT split files 
 Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.
 
 - https://awesomecua.com/resources/url-546e6c95825d1318c98d/ · source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2
+
+### OpenPhone_dataset
+
+Training data for the OpenPhone mobile agent: the AndroidLab training archive plus a Hugging Face vision-language set with LLM-generated reasoning and reflection chains, formatted for GRPO training.
+
+- https://awesomecua.com/resources/url-e7ea65893ab264517d83/ · source: https://huggingface.co/datasets/hkuds/OpenPhone_dataset
+- Licenses: data mit
 
 ### OS-Atlas Data
 
@@ -3735,6 +4160,12 @@ Archived OSWorld-Verified evaluation runs of many computer-use agents and step b
 
 - https://awesomecua.com/resources/url-2c99f0de2840277abc72/ · source: https://huggingface.co/datasets/xlangai/ubuntu_osworld_verified_trajs
 - Licenses: data mit
+
+### osworld_v2_assets_gated
+
+Gated Hub snapshot of the task assets for the OSWorld 2.0 computer-use benchmark, such as setup files and ground-truth files, downloaded locally and pinned per benchmark release before tasks run.
+
+- https://awesomecua.com/resources/url-3de50fa3eee0081d31ac/ · source: https://huggingface.co/datasets/xlangai/osworld_v2_assets_gated
 
 ### P-GUI-Evo
 
@@ -4002,6 +4433,12 @@ High-resolution professional interface screenshots and target annotations for ev
 - https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/ · source: https://huggingface.co/datasets/likaixin/ScreenSpot-Pro
 - Licenses: data mit
 
+### SE-GUI-3k
+
+Seed training data for SE-GUI, a GUI grounding model trained with self-evolutionary reinforcement fine-tuning; each row pairs a tool-calling conversation and a screenshot with a target bounding box.
+
+- https://awesomecua.com/resources/url-380318a8de65fe45956c/ · source: https://huggingface.co/datasets/XinBB/SE-GUI-3k
+
 ### sharryXR/asil-training-data
 
 Training data for ASIL agents includes replayed action traces, guided supervision, and an evaluator-backed reinforcement-learning curriculum in JSONL and Parquet splits.
@@ -4034,6 +4471,12 @@ Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, p
 
 - https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/ · source: https://huggingface.co/datasets/showlab/ShowUI-pi-data
 
+### Static-FineBench
+
+Data for FineState-Bench, a fine-grained GUI state-control benchmark: desktop, web and mobile screenshots with XML and JSON annotations of locate and interact instructions and separate localization and interaction boxes.
+
+- https://awesomecua.com/resources/url-94adc54bf1cd168da768/ · source: https://huggingface.co/datasets/wumiaoshou/Static-FineBench
+
 ### SWEeper-Bench
 
 SWEeper-Bench provides tasks drawn from web application bugs for evaluating agents that inspect running apps and repair them. Each task includes a prompt, repository revisions, and browser behavior tests.
@@ -4041,11 +4484,25 @@ SWEeper-Bench provides tasks drawn from web application bugs for evaluating agen
 - https://awesomecua.com/resources/url-9d35341e71dfd457fd79/ · source: https://huggingface.co/datasets/zlab-princeton/SWEeper-Bench
 - Licenses: data cc-by-4.0
 
+### SWEeper-Bench-traces
+
+Recorded runs from the SWEeper-Bench paper, 5,200 in all across 42 agent configurations, each with the coding agent's trajectory, shell commands and patch plus the browser verifier's trajectories and verdicts.
+
+- https://awesomecua.com/resources/url-54907fd6dc968eaced34/ · source: https://huggingface.co/datasets/zlab-princeton/SWEeper-Bench-traces
+- Licenses: data cc-by-4.0
+
 ### TimeWarp
 
 Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.
 
 - https://awesomecua.com/resources/url-8be414a28d1984abb1b9/ · source: https://huggingface.co/datasets/sparklabutah/timewarp
+- Licenses: data mit
+
+### TimeWarp-GPT5-Traces
+
+GPT-5 teacher trajectories on the TimeWarp web benchmark, grouped by UI version, with SoM-annotated screenshots for each step and experiment logs, used to fine-tune web agents with LlamaFactory.
+
+- https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/ · source: https://huggingface.co/datasets/sparklabutah/TimeWarp-GPT5-Traces
 - Licenses: data mit
 
 ### TreeCUA-Datasets
@@ -4133,6 +4590,13 @@ A public example subset of the UI-S1 mobile training data, packaged as JSONL ann
 
 - https://awesomecua.com/resources/url-16184830c0f4bdb146fa/ · source: https://huggingface.co/datasets/mPLUG/UI_S1_dataset
 - Licenses: data apache-2.0
+
+### UI-Simulator_android_data
+
+Synthetic Android agent training data from UI-Simulator: prompts pairing a goal and a simulated UI element list with next-action responses, in RAG-free, RAG-based and two UI-Simulator-Grow splits.
+
+- https://awesomecua.com/resources/url-d32dfe60eff4b87c1d05/ · source: https://huggingface.co/datasets/UI-Simulator/UI-Simulator_android_data
+- Licenses: data mit
 
 ### UI-Vision
 
@@ -4255,6 +4719,13 @@ Passing runs of three browser agents on 13 WebArena-Infinity web apps generated 
 - https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/ · source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories
 - Licenses: data mit
 
+### webarena-world-model-cot
+
+WebArena page-transition data for training language world models: chain-of-thought annotations paired with the accessibility-tree item changes that follow an action, used for SFT and RLVR in RLVR-World.
+
+- https://awesomecua.com/resources/url-3e0f07cb0ff3f32dfc0e/ · source: https://huggingface.co/datasets/thuml/webarena-world-model-cot
+- Licenses: data mit
+
 ### WebChain (original release)
 
 Original WebChain release of human-annotated trajectories on live websites, with raw JSON records, viewport and partial full-page screenshots, and Parquet files for high-level planning and low-level grounding steps.
@@ -4276,6 +4747,13 @@ Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and
 - https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/ · source: https://huggingface.co/datasets/CognitiveKernel/WebEvolver
 - Licenses: data MIT
 
+### webgames
+
+Task list for WebGames, a set of client-side web challenges for browsing agents: one JSONL file giving each task's id, title, description, page path, success password and tags.
+
+- https://awesomecua.com/resources/url-654e0cbc1a22b59eca47/ · source: https://huggingface.co/datasets/convergence-ai/webgames
+- Licenses: data mit
+
 ### WebGuard
 
 Dataset of 5,999 browser-action safety annotations, pairing website and action details with risk classifications for web-agent research.
@@ -4290,6 +4768,12 @@ Hub data of WebLINX 1.0: conversational web-navigation demonstrations preprocess
 - https://awesomecua.com/resources/url-1517e989c470563bd08d/ · source: https://huggingface.co/datasets/McGill-NLP/WebLINX
 - Licenses: data cc-by-nc-sa-4.0
 
+### weboperator-experiments
+
+Run logs of the WebOperator web agent with gpt-4o on 812 WebArena tasks and a 155-task WebArena-lite ablation, holding per-task trajectories, search trees, screenshots and scores.
+
+- https://awesomecua.com/resources/url-a12c18540006368e69ab/ · source: https://huggingface.co/datasets/mahirlabibdihan/weboperator-experiments
+
 ### WebPRM checklist-generation data
 
 Web-task context, starting observations and action history paired with structured checklists and subgoal analyses for checklist generation.
@@ -4301,6 +4785,13 @@ Web-task context, starting observations and action history paired with structure
 Checklist-annotated web decision records with page observations, prior actions, one preferred continuation and rejected alternatives for process-reward learning.
 
 - https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/ · source: https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair
+
+### WebsiteBench
+
+Hugging Face copy of the 70 WebsiteBench tasks in Harbor format, where agents explore a production-level reference website in a browser and rebuild a full-stack clone scored by hidden functional and visual tests.
+
+- https://awesomecua.com/resources/url-687a7b27f38720fe54bc/ · source: https://huggingface.co/datasets/TIGER-Lab/WebsiteBench
+- Licenses: data apache-2.0
 
 ### WebSRC
 
@@ -4364,6 +4855,13 @@ Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-
 - https://awesomecua.com/resources/url-348f31b5b339403ec26f/ · source: https://huggingface.co/datasets/joker-112/WildGUI_Screenshots
 - Licenses: data cc-by-nc-4.0
 
+### WinDeskGround
+
+Benchmark data for GUI grounding on synthesized multi-window desktops: 1356 samples over 585 images, with controlled occlusion, semantic distraction and clutter plus difficulty levels L1 to L5.
+
+- https://awesomecua.com/resources/url-897db7dba36e69a60e5e/ · source: https://huggingface.co/datasets/Zbao/WinDeskGround
+- Licenses: data apache-2.0
+
 ### WinDeskGround_windows
 
 WinDeskGround_windows supplies Windows application screenshots with clickable targets, bounding boxes, and referring expressions for desktop GUI grounding tasks.
@@ -4378,6 +4876,18 @@ Desktop demonstrations with task descriptions, videos, input logs, and action-li
 - https://awesomecua.com/resources/url-243ab00712ba19cc2089/ · source: https://huggingface.co/datasets/yuqi777/WorkDemo-350
 - Licenses: data cc-by-4.0
 
+### world_model_for_wa_desc_with_tao_dataset
+
+Training data for the world model of the WMA web agent: 14744 steps pairing an objective, previous actions, an observation and the current action with the next state and a description of what changed.
+
+- https://awesomecua.com/resources/url-96bb23bd687d6c227a41/ · source: https://huggingface.co/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset
+
+### world_model_for_wa_desc_with_tao_formatted_w_cot
+
+Formatted instruction, input and output examples for training the WMA world model, which describes how a WebArena page changes after an action, with 11795 training and 2949 validation rows.
+
+- https://awesomecua.com/resources/url-3ef18fbb67e0376561db/ · source: https://huggingface.co/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot
+
 ### WorldGUI-Bench
 
 A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
@@ -4391,7 +4901,7 @@ This OSWorld-V2 dataset provides compact tables for browsing Codex task summarie
 
 - https://awesomecua.com/resources/url-bf57897ba4d047112345/ · source: https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
 
-## Benchmarks (300)
+## Benchmarks (305)
 
 ### Action Check WebMCP
 
@@ -4493,6 +5003,12 @@ Python benchmark package for prompt-injection security of tool-calling agents, w
 
 - https://awesomecua.com/resources/github-ethz-spylab-agentdojo/ · source: https://github.com/ethz-spylab/agentdojo
 - Licenses: code MIT
+
+### AgentEval
+
+Benchmark suite of the AgentGym framework: a 1,160-item test split over 14 environments, with WebShop and WebArena web tasks next to text-game, embodied, tool-use and SQL tasks.
+
+- https://awesomecua.com/resources/url-85b700fbb7f1c599b7c3/ · source: https://huggingface.co/datasets/AgentGym/AgentEval
 
 ### AgentForge
 
@@ -4752,6 +5268,12 @@ BrowseWebApp Bench evaluates browser agents across 100 realistic web workflows s
 
 - https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/ · source: https://github.com/visnia-ai/browsewebapp-bench
 - Licenses: code MIT
+
+### bugcraft-dataset
+
+BugCraft-Bench data: 86 Minecraft crash bug reports from Mojira with issue metadata and attachments, used to evaluate agents that reproduce each crash by operating the game with vision-based LLM control.
+
+- https://awesomecua.com/resources/url-2c85ae447a0eeed51393/ · source: https://huggingface.co/erayyapagci/bugcraft-dataset
 
 ### CAPTCHA Gym
 
@@ -5487,6 +6009,12 @@ Browser-rendered mobile simulation with resettable app state and a shared task s
 - https://awesomecua.com/resources/github-openmobile2-mobilegym-plusplus/ · source: https://github.com/OpenMobile2/MobileGym-plusplus
 - Licenses: code Apache-2.0
 
+### MobileRisk
+
+Annotated Android agent trajectories, split into safe and unsafe sets, for the OS-Sentinel benchmark that measures how well detectors flag unsafe mobile GUI agent actions.
+
+- https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/ · source: https://huggingface.co/datasets/OS-Copilot/MobileRisk
+
 ### MobileSafetyBench
 
 Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
@@ -5903,6 +6431,12 @@ SCUBA benchmarks computer-use agents on enterprise Salesforce CRM workflows span
 - https://awesomecua.com/resources/github-salesforceairesearch-scuba/ · source: https://github.com/SalesforceAIResearch/SCUBA
 - Licenses: code Apache-2.0
 
+### showdown
+
+Evaluation code for the showdown-clicks benchmark: eval.py checks whether a model's predicted click on a macOS screenshot lands in the annotated bounding box, with integrations for Claude, Qwen, UI-TARS and others.
+
+- https://awesomecua.com/resources/github-generalagents-showdown/ · source: https://github.com/generalagents/showdown
+
 ### showdown-clicks
 
 Offline click benchmark from General Agents: 557 human left clicks on macOS screenshots, each with an instruction and the bounding box of valid click locations, scored by whether a predicted point lands inside.
@@ -6198,6 +6732,13 @@ Framework and evaluation resources for real-world web agents.
 - https://awesomecua.com/resources/github-imeanai-webcanvas/ · source: https://github.com/iMeanAI/WebCanvas
 - Licenses: code MIT
 
+### WebCanvas_showcase
+
+A showcase that connects web agent frameworks to WebCanvas online evaluation; its SEEACT folder runs SeeAct on live websites and scores the key nodes it hits on Mind2Web-Live tasks.
+
+- https://awesomecua.com/resources/github-imeanai-webcanvas-showcase/ · source: https://github.com/iMeanAI/WebCanvas_showcase
+- Licenses: code MIT
+
 ### WebClick
 
 A web-interface localization benchmark with screenshot instructions and target boxes, including agent browsing, human browsing and calendar cases.
@@ -6397,7 +6938,7 @@ Validation toolkit checking page-owned WebMCP tool schemas, authorization bounda
 - https://awesomecua.com/resources/github-wornpage-webmcp-conformance/ · source: https://github.com/wornpage/webmcp-conformance
 - Licenses: code MIT
 
-## Agents (471)
+## Agents (475)
 
 ### aashutoshkumarr JARVIS Desktop Assistant
 
@@ -7685,6 +8226,13 @@ Auditable, low-cost, DOM-only browser agent designed for transparent step-by-ste
 - https://awesomecua.com/resources/github-lzw12w-glass-browser/ · source: https://github.com/lzw12w/glass-browser
 - Licenses: code MIT
 
+### globot
+
+A Python browser agent that drives Chromium through Playwright, turns the DOM snapshot into numbered clickable and input elements, and has an OpenAI model pick click, type, scroll or back actions.
+
+- https://awesomecua.com/resources/github-globe-engineer-globot/ · source: https://github.com/Globe-Engineer/globot
+- Licenses: code MIT
+
 ### Goby
 
 Open-source Chrome extension in-page web agent that executes natural-language browsing and form-filling tasks.
@@ -7703,6 +8251,12 @@ Gofer is a persistent desktop agent that monitors screen changes, executes shell
 GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting to drive web browser interactions with multimodal LLMs.
 
 - https://awesomecua.com/resources/github-ddupont808-gpt-4v-act/ · source: https://github.com/ddupont808/GPT-4V-Act
+
+### GPTVoiceTasker
+
+Android app for GPTVoiceTasker, a GPT-4 voice assistant that reads screen elements through the Accessibility Service, turns spoken commands into press, enter and scroll actions, and reuses learned app transitions.
+
+- https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/ · source: https://github.com/vuminhduc796/GPTVoiceTasker
 
 ### GTA1: GUI Test-time Scaling Agent
 
@@ -8224,6 +8778,12 @@ Minitap mobile-use is a multi-agent mobile automation system that controls physi
 
 - https://awesomecua.com/resources/github-minitap-ai-mobile-use/ · source: https://github.com/minitap-ai/mobile-use
 - Licenses: code Apache-2.0
+
+### MM-Navigator
+
+Example code for the GPT-4V smartphone navigation study: a prompt builder that sends raw and number-tagged screenshots plus action history to GPT-4V for the next Android action, and an action-matching evaluation script.
+
+- https://awesomecua.com/resources/github-zzxslp-mm-navigator/ · source: https://github.com/zzxslp/MM-Navigator
 
 ### MobA
 
@@ -8966,6 +9526,12 @@ An agentic game-development system that plays generated games, uses screenshots 
 - https://awesomecua.com/resources/github-wenyiwu0111-rsigame/ · source: https://github.com/WenyiWU0111/RSIGame
 - Licenses: code Apache-2.0
 
+### RUSS
+
+Code and data for RUSS, which parses step-by-step web help instructions into the ThingTalk language, grounds them to page elements, and clicks, types or asks the user; ships a 741-instruction evaluation set.
+
+- https://awesomecua.com/resources/github-xnancy-russ/ · source: https://github.com/xnancy/russ
+
 ### Ruyi (如意)
 
 Ruyi streams remote Chrome sessions to the user's browser for collaborative human-AI control and compiles actions into self-healing scripts.
@@ -9554,7 +10120,7 @@ Zoom Search is a hierarchical web-search agent that previews lightweight page su
 - https://awesomecua.com/resources/github-goofrey-zoom-search/ · source: https://github.com/goofrey/zoom-search
 - Licenses: code MIT
 
-## Frameworks (662)
+## Frameworks (665)
 
 ### 19ska Computer-Use Automation
 
@@ -13313,6 +13879,20 @@ StatePilot is a predictable browser runtime for AI agents with state validation,
 - https://awesomecua.com/resources/github-newsbruno-statepilot/ · source: https://github.com/newsbruno/statepilot
 - Licenses: code MIT
 
+### Steel Node API Library
+
+TypeScript and JavaScript client for the Steel cloud browser API, with typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files, profiles and credentials.
+
+- https://awesomecua.com/resources/github-steel-dev-steel-node/ · source: https://github.com/steel-dev/steel-node
+- Licenses: code Apache-2.0
+
+### Steel Python API library
+
+Python client for the Steel cloud browser API, with synchronous and asynchronous clients and typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files and profiles.
+
+- https://awesomecua.com/resources/github-steel-dev-steel-python/ · source: https://github.com/steel-dev/steel-python
+- Licenses: code Apache-2.0
+
 ### SteP (Stacked LLM Policies)
 
 SteP implements dynamically composed Markovian LLM policies for multi-step web navigation and task execution on WebArena.
@@ -13629,6 +14209,12 @@ Upsonic (formerly GPT Computer Assistant) is a Python agent framework with MCP s
 
 - https://awesomecua.com/resources/github-onuratakan-gpt-computer-assistant/ · source: https://github.com/onuratakan/gpt-computer-assistant
 - Licenses: code MIT
+
+### UXAgent
+
+Usability-testing system that generates simulated user personas, has LLM agents work through a target website via a browser connector, and shows their survey answers and action logs in a result viewer.
+
+- https://awesomecua.com/resources/url-2f73fe78c423e263d451/ · source: https://uxagent.hailab.io
 
 ### V-Droid
 
@@ -14013,7 +14599,7 @@ ZoomClick implements iterative zoom-in GUI grounding and behavior-based groundin
 
 - https://awesomecua.com/resources/github-princeton-ai2-lab-zoomclick/ · source: https://github.com/Princeton-AI2-Lab/ZoomClick
 
-## Infrastructure (114)
+## Infrastructure (117)
 
 ### @sparticuz/chromium
 
@@ -14152,6 +14738,12 @@ Prebuilt Singularity/Apptainer runtime images for reproducing the ASIL agent ben
 
 - https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/ · source: https://huggingface.co/datasets/sharryXR/asil-benchmark-images
 - Licenses: data apache-2.0
+
+### AutoWechat
+
+A simulated WeChat Android app from the AppSim-Bench suite, with chat lists, group chats, contacts and Moments posts backed by local JSON data for AI automation tests.
+
+- https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/ · source: https://github.com/Acrab-Agentic-Labs/AppSim-Wechat-V2
 
 ### Boxcar
 
@@ -14554,6 +15146,12 @@ Hub host of the Ubuntu virtual machine archive that OSWorld's VirtualBox provide
 
 - https://awesomecua.com/resources/url-ce775111626bae220596/ · source: https://huggingface.co/datasets/xlangai/ubuntu_x86_virtualbox
 
+### OSWorld Web
+
+Docker Compose stack of self-hosted web applications, such as banking, email, CRM, calendar, Overleaf and an AWS console, served behind a Caddy reverse proxy as the websites for OSWorld-V2 tasks.
+
+- https://awesomecua.com/resources/github-task-web-osworld-web/ · source: https://github.com/Task-Web/OSWorld-web
+
 ### OSWorld Windows VM images
 
 Hub host of OSWorld's prebuilt Windows 10 virtual machines: a VMware archive and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run of a Windows task.
@@ -14757,6 +15355,13 @@ A Docker setup for WebArena websites provides scripts to start site containers a
 
 - https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/ · source: https://github.com/mahirlabibdihan/webarena-docker
 
+### webarena-setup
+
+Shell scripts that load the WebArena and VisualWebArena Docker images, create and patch the site containers, serve a homepage and run an optional reset server between agent evaluations.
+
+- https://awesomecua.com/resources/github-gasse-webarena-setup/ · source: https://github.com/gasse/webarena-setup
+- Licenses: code Apache-2.0
+
 ### WildAWM
 
 WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.
@@ -14775,7 +15380,7 @@ Zoom Android Template is a simulated meeting app for mobile interaction tests, w
 
 - https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/ · source: https://github.com/Acrab-Agentic-Labs/AppSim-Zoom
 
-## Tools (1,077)
+## Tools (1,084)
 
 ### 988hj7tczd-oss dsh-computer-use
 
@@ -17319,6 +17924,12 @@ DroidBot generates scripted or model-guided inputs for Android app testing and r
 
 - https://awesomecua.com/resources/github-honeynet-droidbot/ · source: https://github.com/honeynet/droidbot
 
+### droidbotApp
+
+Android companion app for the DroidBot test input generator that registers an input method service; DroidBot sends text by broadcast intent over adb and the service enters it into the focused text field.
+
+- https://awesomecua.com/resources/github-ylimit-droidbotapp/ · source: https://github.com/ylimit/droidbotApp
+
 ### DroidLume Agent Control
 
 npm-distributed CLI, Model Context Protocol server, and standalone Android companion app for AI phone control.
@@ -17950,6 +18561,12 @@ TypeScript Model Context Protocol server for launching and controlling headless 
 - https://awesomecua.com/resources/github-qoli-firefox-headless-server/ · source: https://github.com/qoli/firefox-headless-server
 - Licenses: code MIT
 
+### firefox_antidetect_patch
+
+A Firefox patch series against a Mozilla release tag, one folder per feature, that adds engine-level fingerprint, network and Juggler automation patches and builds the anti-detect Firefox behind invisible_playwright.
+
+- https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/ · source: https://github.com/feder-cr/firefox_antidetect_patch
+
 ### Flash Computer Use
 
 Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP server for low-latency desktop and web automation.
@@ -18515,6 +19132,12 @@ Reverse-engineers a clickable coordinate and state map of macOS and iPhone appli
 
 - https://awesomecua.com/resources/github-xiaochu-1208-inner-coordinates/ · source: https://github.com/XiaoChu-1208/inner-coordinates
 - Licenses: code MIT
+
+### Interception
+
+A Windows input driver and C library that captures, filters and injects keyboard and mouse strokes per device, shipped with sample programs and a command-line installer.
+
+- https://awesomecua.com/resources/github-oblitum-interception/ · source: https://github.com/oblitum/Interception
 
 ### Interceptor
 
@@ -19335,6 +19958,12 @@ Portable agent instructions and integration tooling for local or cloud phone con
 - https://awesomecua.com/resources/github-droidrun-mobile-harness/ · source: https://github.com/droidrun/mobile-harness
 - Licenses: code MIT
 
+### Mobile JSON Wire Protocol Specification
+
+A draft WebDriver extension for automating native and hybrid mobile apps, defining sessions, capabilities, locator strategies, touch gestures, orientation, rotation, network modes and webview contexts.
+
+- https://awesomecua.com/resources/github-seleniumhq-mobile-spec/ · source: https://github.com/SeleniumHQ/mobile-spec
+
 ### Mobile Next MCP
 
 An MCP server exposing mobile accessibility snapshots, screenshots and device interactions across real devices, simulators and emulators.
@@ -20144,6 +20773,13 @@ Model Context Protocol server for PinchTab enabling AI agents to control Chromiu
 - https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/ · source: https://github.com/maderwin/pinchtab-mcp
 - Licenses: code MIT
 
+### Pix to App
+
+A Python pipeline that turns a mobile app screenshot into an Android project, using Canny edge contours for the view hierarchy, Tesseract OCR for text and generated layout, style, color and string XML.
+
+- https://awesomecua.com/resources/github-soumikmohianuta-pixtoapp/ · source: https://github.com/soumikmohianuta/pixtoapp
+- Licenses: code BSD-3-Clause
+
 ### pixel-forge
 
 Desktop automation toolkit providing screenshot capture, OCR, pixel-diff change detection, and mouse/keyboard actions for AI agents.
@@ -20833,6 +21469,13 @@ Self-hosted Chromium MCP server with isolated browser profiles, OAuth authentica
 Closed-loop visual, audio, and video sensory grounding MCP server for verifying UI state in coding and computer-use agents.
 
 - https://awesomecua.com/resources/github-luclinocruz-lucross-sensory-grounding-mcp/ · source: https://github.com/luclinocruz/lucross-sensory-grounding-mcp
+- Licenses: code Apache-2.0
+
+### serve-sim
+
+A CLI that streams a booted iOS Simulator to a browser preview over MJPEG and WebSocket, with commands and an Agent Skill that let coding agents send taps, gestures, text and button presses.
+
+- https://awesomecua.com/resources/github-evanbacon-serve-sim/ · source: https://github.com/EvanBacon/serve-sim
 - Licenses: code Apache-2.0
 
 ### ServiceNow Browser Automation
@@ -21607,6 +22250,13 @@ Voice Mirror is a Tauri desktop IDE where voice and multimodal agents inspect, c
 Voqal is a voice-first coding assistant plugin for JetBrains IDEs that translates spoken commands into editor actions.
 
 - https://awesomecua.com/resources/github-voqal-voqal/ · source: https://github.com/voqal/voqal
+- Licenses: code Apache-2.0
+
+### Voqal Chrome integration
+
+Chrome extension that connects the Voqal voice agent to the browser over a local WebSocket, reporting open tabs and running Voqal commands to open URLs, create or switch tabs and evaluate JavaScript in the active page.
+
+- https://awesomecua.com/resources/github-voqal-chrome-integration/ · source: https://github.com/voqal/chrome-integration
 - Licenses: code Apache-2.0
 
 ### wangye520 codex-computer-use (Cursor Port)

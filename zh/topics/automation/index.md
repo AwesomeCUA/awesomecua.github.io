@@ -1290,6 +1290,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   DroidBot generates scripted or model-guided inputs for Android app testing and records UI transitions, view structures, and method traces.
 - [DroidBot-GPT](https://awesomecua.com/zh/resources/github-mobilellm-droidbot-gpt/) — Date not recorded
   DroidBot-GPT connects DroidBot UI state extraction with large language models to automate multi-step tasks across Android applications.
+- [droidbotApp](https://awesomecua.com/zh/resources/github-ylimit-droidbotapp/) — Date not recorded
+  Android companion app for the DroidBot test input generator that registers an input method service; DroidBot sends text by broadcast intent over adb and the service enters it into the focused text field.
 - [DroidFleet](https://awesomecua.com/zh/resources/github-c00l-k1d-droidfleet/) — Date not recorded
   Open-source Android device fleet management and orchestration platform for mobile automation and testing.
 - [DroidLume Agent Control](https://awesomecua.com/zh/resources/github-tageecc-droidlume-agent-control/) — Date not recorded
@@ -1484,6 +1486,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   An MCP server that gives AI agents Firefox tools for navigating sites, filling forms, inspecting page snapshots, and examining developer-tool output.
 - [firefox-bidi-mcp](https://awesomecua.com/zh/resources/github-enne2-firefox-bidi-mcp/) — Date not recorded
   Standalone Model Context Protocol server for controlling an already-open Firefox browser instance via the WebDriver BiDi protocol.
+- [firefox_antidetect_patch](https://awesomecua.com/zh/resources/github-feder-cr-firefox-antidetect-patch/) — Date not recorded
+  A Firefox patch series against a Mozilla release tag, one folder per feature, that adds engine-level fingerprint, network and Juggler automation patches and builds the anti-detect Firefox behind invisible_playwright.
 - [Flash Computer Use](https://awesomecua.com/zh/resources/github-shortsspectrumai-del-flash-computer-use/) — Date not recorded
   Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP server for low-latency desktop and web automation.
 - [FlaUI](https://awesomecua.com/zh/resources/github-flaui-flaui/) — Date not recorded
@@ -1594,6 +1598,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Android AccessibilityService automation engine and control dashboard for managing multi-device mobile workflows.
 - [governed-computer-use](https://awesomecua.com/zh/resources/github-mkhan49-governed-computer-use/) — Date not recorded
   Discovers legacy banking UI flows with an LLM once, compiles deterministic replay artifacts, and enforces human approval on exceptions.
+- [GPTVoiceTasker](https://awesomecua.com/zh/resources/github-vuminhduc796-gptvoicetasker/) — Date not recorded
+  Android app for GPTVoiceTasker, a GPT-4 voice assistant that reads screen elements through the Accessibility Service, turns spoken commands into press, enter and scroll actions, and reuses learned app transitions.
 - [Grasp MCP](https://awesomecua.com/zh/resources/github-jamshed7470-grasp-mcp/) — Date not recorded
   Model Context Protocol server giving Claude and MCP clients full desktop screen vision and mouse/keyboard control.
 - [gridhand](https://awesomecua.com/zh/resources/github-zachrouan-gridhand/) — Date not recorded
@@ -1690,6 +1696,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Intelligence Indeed is a desktop GUI agent that loads reusable guidance, probes the current environment and shares task-specific findings across planning and execution.
 - [Intent Browser Runtime (ibr)](https://awesomecua.com/zh/resources/github-hop-top-ibr/) — Date not recorded
   Intent Browser Runtime (ibr) translates natural-language instructions into resilient XPath/DOM actions using Playwright and Vercel AI SDK.
+- [Interception](https://awesomecua.com/zh/resources/github-oblitum-interception/) — Date not recorded
+  A Windows input driver and C library that captures, filters and injects keyboard and mouse strokes per device, shipped with sample programs and a command-line installer.
 - [Interpreter Workstation](https://awesomecua.com/zh/resources/github-openinterpreter-interpreter-workstation/) — Date not recorded
   Interpreter Workstation is a desktop agent workspace that connects to local or remote computers and combines an agent runtime with browser access and file and app controls.
 - [InTheRainOf Mobile Agent (随身Agent)](https://awesomecua.com/zh/resources/github-intherainof-mobile-agent/) — Date not recorded
@@ -2020,6 +2028,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Minitap mobile-use is a multi-agent mobile automation system that controls physical and emulated Android and iOS devices from natural language.
 - [Mobile Harness](https://awesomecua.com/zh/resources/github-droidrun-mobile-harness/) — Date not recorded
   Portable agent instructions and integration tooling for local or cloud phone control through mobilerun-core.
+- [Mobile JSON Wire Protocol Specification](https://awesomecua.com/zh/resources/github-seleniumhq-mobile-spec/) — Date not recorded
+  A draft WebDriver extension for automating native and hybrid mobile apps, defining sessions, capabilities, locator strategies, touch gestures, orientation, rotation, network modes and webview contexts.
 - [Mobile Next MCP](https://awesomecua.com/zh/resources/github-mobile-next-mobile-mcp/) — Date not recorded
   An MCP server exposing mobile accessibility snapshots, screenshots and device interactions across real devices, simulators and emulators.
 - [Mobile Use Agent (Cloud Phone Skill)](https://awesomecua.com/zh/resources/github-chenjie1129-mobile-use-agent/) — Date not recorded
@@ -2706,6 +2716,10 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Steel Atlas is an open-web research and browser automation agent built on the Steel cloud browser runtime.
 - [Steel MCP Server](https://awesomecua.com/zh/resources/github-steel-dev-steel-mcp-server/) — Date not recorded
   Steel MCP Server gives MCP clients tools to read and operate cloud Chrome sessions through page elements, with session diagnostics and handoff for human input.
+- [Steel Node API Library](https://awesomecua.com/zh/resources/github-steel-dev-steel-node/) — Date not recorded
+  TypeScript and JavaScript client for the Steel cloud browser API, with typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files, profiles and credentials.
+- [Steel Python API library](https://awesomecua.com/zh/resources/github-steel-dev-steel-python/) — Date not recorded
+  Python client for the Steel cloud browser API, with synchronous and asynchronous clients and typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files and profiles.
 - [STEVE / STEVE-R1 research code](https://awesomecua.com/zh/resources/github-fanbinlu-steve-r1/) — Date not recorded
   Research code and linked models for step-verified computer-use training; the current repository describes STEVE-R1 and its trajectory releases.
 - [Strawberry](https://awesomecua.com/zh/resources/url-1aa4168c796c15476b97/) — Date not recorded
@@ -2926,6 +2940,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Two-layer local input engine for MCP where a frontier planning model dispatches high-rate action programs to a local executor.
 - [Voqal](https://awesomecua.com/zh/resources/github-voqal-voqal/) — Date not recorded
   Voqal is a voice-first coding assistant plugin for JetBrains IDEs that translates spoken commands into editor actions.
+- [Voqal Chrome integration](https://awesomecua.com/zh/resources/github-voqal-chrome-integration/) — Date not recorded
+  Chrome extension that connects the Voqal voice agent to the browser over a local WebSocket, reporting open tabs and running Voqal commands to open URLs, create or switch tabs and evaluate JavaScript in the active page.
 - [voxie](https://awesomecua.com/zh/resources/github-afraidsoul76-voxie/) — Date not recorded
   Voice-driven desktop assistant and automation agent packaged on PyPI for hands-free computer control.
 - [Vuser Protocol](https://awesomecua.com/zh/resources/github-openvuser-vuser/) — Date not recorded

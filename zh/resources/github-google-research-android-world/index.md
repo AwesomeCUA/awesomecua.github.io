@@ -21,12 +21,12 @@ AndroidWorld 是面向移动智能体的 Android 环境，支持通过程序评�
 - 评测方式：Programmatic task-specific initialization, system-state success checks, and teardown.
 - 侧重：mobile task completion
 - 观测：screenshots, accessibility information
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 116 task definitions — parameterized AndroidWorld tasks（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
-- 20 applications — documented AndroidWorld app set（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
+- 116 个任务定义 — parameterized AndroidWorld tasks（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
+- 20 个应用 — documented AndroidWorld app set（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
 
 Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 counts task definitions, while random parameters produce many task instances.
 

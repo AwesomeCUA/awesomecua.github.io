@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/2/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
 
+- [Open CaptchaWorld](https://awesomecua.com/zh/resources/github-metaagentx-opencaptchaworld/)：Open CaptchaWorld 通过网页界面中的交互式验证码谜题评估多模态网页智能体，提供谜题数据、答案检查和结果记录。
+- [OpenAgentSafety](https://awesomecua.com/zh/resources/github-open-agent-safety-openagentsafety/)：这是一个智能体安全基准，采用涉及浏览器、文件系统、终端和消息工具的多步模拟任务，测试智能体如何应对含糊、冲突和对抗性指令。
+- [OS-Harm](https://awesomecua.com/zh/resources/github-tml-epfl-os-harm/)：评估计算机使用智能体在滥用、提示注入和模型意外行为方面安全性的基准。
+- [OSWorld 2.0](https://awesomecua.com/zh/resources/github-xlang-ai-osworld-v2/)：OSWorld 2.0 通过更新的任务集、轨迹查看器和容器沙箱，评测计算机使用智能体执行长流程桌面工作流的能力。
+- [PersonalAlign](https://awesomecua.com/zh/resources/github-ilearn-lab-acl26-personalalign/)：PersonalAlign 发布 AndroidIntent 评测，用于测试个性化移动界面智能体，并提供利用长期交互记录的 HIM-Agent 记忆方法。
 - [PhoneHarness](https://awesomecua.com/zh/resources/github-phoneharness-phoneharness/)：PhoneHarness 评估结合图形界面操作、设备命令和主机工具的 Android 手机智能体。它提供运行环境、部分基准测试运行程序，以及基于运行轨迹的任务结果检查。
 - [PopupAttack](https://awesomecua.com/zh/resources/github-salt-nlp-popupattack/)：用于评估 GUI 智能体在恶意弹窗指令下表现的资源。
 - [PPTC](https://awesomecua.com/zh/resources/github-gydpku-pptc/)：PPTC 是 PowerPoint 创建与编辑基准，通过 API 执行任务，并检查生成的演示文稿文件。
@@ -99,8 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/2/ · [English
 - [GuideBench](https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/)：GUIDE 基准发布的数据：来自 10 款应用的新手口述屏幕录像的标注片段，用于预测用户行为状态、短期意图，以及是否提供帮助和如何帮助。
 - [GUIGuard-Bench evaluation code](https://awesomecua.com/zh/resources/github-shaluoyan523-guiguard-bench/)：GUIGuard-Bench 评估代码涵盖隐私区域识别评分、基于 LLM 评判的遮挡截图规划一致性，以及受保护界面的点击定位，并附少量 Android 和 PC 示例。
 - [GUIHalluBench](https://awesomecua.com/zh/resources/github-ant-research-guihallubench/)：将模型列出的界面元素边界框和描述与人工标注比对，衡量其解析 1,000 张英文和 1,000 张中文截图时的幻觉。
-- [GUITestBench](https://awesomecua.com/zh/resources/github-adam-bjtu-guitestbench/)：GUITestBench 评测安卓智能体能否通过多步操作发现应用缺陷，并结合导航与触发条件检查及评判模型进行评估。
-- [HealthEnv](https://awesomecua.com/zh/resources/github-possibleme2026-lang-healthenv/)：HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机使用评测环境。
-- [HoloSkill Gym](https://awesomecua.com/zh/resources/github-elenaviewsynthesis-holoskill-gym/)：用于自我演进的 CLI 和计算机使用智能体技能的 Gym 环境与优化框架。
-- [HumanQA](https://awesomecua.com/zh/resources/github-hotragn-humanqa/)：以证据为先的产品质量与 UX 评测测试框架，用于通过浏览器智能体测试网页应用。
-- [hyprbench](https://awesomecua.com/zh/resources/github-crispwisp-hyprbench/)：hyprbench 是面向 Linux Hyprland Wayland 合成器、采用 OSWorld 风格的计算机使用评测基准，配有脚本化窗口管理验证器。

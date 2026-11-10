@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/tool/page/7/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [DH.Window.UITool](https://awesomecua.com/resources/github-cyberkdh-dh-window-uitool/)
+- [DispatchShield](https://awesomecua.com/resources/github-venusone-lee-dispatchshield/)
+- [DjangoAILab DSH Plugins](https://awesomecua.com/resources/github-djangoailab-dsh-plugins/)
+- [DJCLIPZ Agent Controller](https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/)
+- [doc-agent](https://awesomecua.com/resources/github-samuel-as-doc-agent/)
+- [DOMShell](https://awesomecua.com/resources/github-apireno-domshell/)
+- [Drisp Browser MCP](https://awesomecua.com/resources/github-drisplabs-browser-mcp/)
 - [DroidLume Agent Control](https://awesomecua.com/resources/github-tageecc-droidlume-agent-control/)
 - [Drover](https://awesomecua.com/resources/github-om-khode-drover/)
 - [DSH Browser Control](https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/)
@@ -97,10 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [gomoufox](https://awesomecua.com/resources/github-ehmo-gomoufox/)
 - [GPT-Control](https://awesomecua.com/resources/github-wolfiesch-gpt-control/)
 - [gpuview](https://awesomecua.com/resources/github-onlyterp-gpuview/)
-- [Grasp MCP](https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/)
-- [gridhand](https://awesomecua.com/resources/github-zachrouan-gridhand/)
-- [Grok Chrome Bridge](https://awesomecua.com/resources/github-davidsolheim-grok-chrome-bridge/)
-- [grok-chrome-mcp](https://awesomecua.com/resources/github-dietghardev-grok-chrome-mcp/)
-- [grokbot-cdp](https://awesomecua.com/resources/github-daizedong-grokbot-cdp/)
-- [gsearch-rs](https://awesomecua.com/resources/github-be90nia-gsearch-rs/)
-- [GUI Grounding Evaluation Harness](https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/)

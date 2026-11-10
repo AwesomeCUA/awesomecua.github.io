@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
+- [omniparser-finetuned](https://awesomecua.com/zh/resources/url-e2b79e8d1c6a28c65bff/)
+- [OpenCUA-7B-exl2](https://awesomecua.com/zh/resources/url-76f3981d219bb87b4eea/)
+- [Orienter](https://awesomecua.com/zh/resources/url-758f048c78e5c184333c/)
+- [Pix2Struct](https://awesomecua.com/zh/resources/github-google-research-pix2struct/)
+- [Pix2Struct base (pretrained)](https://awesomecua.com/zh/resources/url-bb1440d051c68455a72e/)
+- [Pix2Struct Screen2Words base](https://awesomecua.com/zh/resources/url-1cf7f8b4b2a1eb9c6547/)
+- [Pix2Struct Screen2Words large](https://awesomecua.com/zh/resources/url-6c3e04249787a3de7cbc/)
 - [POINTS-GUI-G 8B](https://awesomecua.com/zh/resources/url-cc931199bda2bdf1f5f7/)
 - [qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain](https://awesomecua.com/zh/resources/url-fe85a6b4ffbdb303f382/)
 - [Qwen-CUA](https://awesomecua.com/zh/resources/url-a886fea306211d527701/)
@@ -57,10 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/8/
 - [V2P-7B](https://awesomecua.com/zh/resources/url-a815c128627d11011e89/)
 - [VGA (Vision GUI Assistant)](https://awesomecua.com/zh/resources/github-linziyang1999-vision-gui-assistant/)
 - [Vision-ml](https://awesomecua.com/zh/resources/github-meituan-dianping-vision/)
-- [YOLOv11l — UI Groups Detection](https://awesomecua.com/zh/resources/url-6106415bee936ef638aa/)
-- [yolov11l-ui-elements-detection](https://awesomecua.com/zh/resources/url-5d824526d56f179d3d51/)
-- [ZHEN-04/CaptchaAgent](https://awesomecua.com/zh/resources/url-fb67af38dce972b398c3/)
-- [ZonUI-3B checkpoint](https://awesomecua.com/zh/resources/url-c8c046847f829fea4821/)
-- [988hj7tczd-oss dsh-computer-use](https://awesomecua.com/zh/resources/github-988hj7tczd-oss-dsh-computer-use/)
-- [a11y-computer-use](https://awesomecua.com/zh/resources/github-perception-dynamics-inc-a11y-computer-use/)
-- [Actell](https://awesomecua.com/zh/resources/github-ja1chen-actell/)

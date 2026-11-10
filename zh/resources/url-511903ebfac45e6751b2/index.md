@@ -28,7 +28,7 @@ The project recommends this release over its earlier OpenGVLab/GUI-Odyssey uploa
 
 ### 数量记录
 
-- 8,334 episodes — recommended hflqf88888/GUIOdyssey release（来源报告；来源：https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md）
+- 8,334 个回合 — recommended hflqf88888/GUIOdyssey release（来源报告；来源：https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md）
 
 The repository gives conflicting episode totals (8,334 and 8,834). This profile uses 8,334 from the specifically recommended current dataset card. No independent archive recount was performed. Coordinates are normalized to 0–1000.
 

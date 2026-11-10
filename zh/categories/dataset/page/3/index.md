@@ -4,6 +4,29 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/3/ · [English](
 
 完整类别注释：https://awesomecua.com/zh/categories/dataset/index.md
 
+- [Browser Agent Failure Corpus](https://awesomecua.com/zh/resources/github-mutantweb-browser-agent-failure-corpus/)：Browser Agent Failure Corpus 是一个带版本管理的数据集，收录浏览器智能体的动作失败、执行轨迹和防护机制反例。
+- [CMGUI](https://awesomecua.com/zh/resources/url-ab26f9ef56d651cee587/)：包含来自电商、社交媒体等领域 50 多个中文移动应用的 18k 条轨迹、共 98k 步，用于构建面向中文应用的 GUI 智能体。
+- [Computer Use Large (markov-ai)](https://awesomecua.com/zh/resources/url-f00b2ed65c517295a6cc/)：从互联网收集的 48,478 段经裁剪且无音频的屏幕录制视频，约 12,300 小时，展示 AutoCAD、Blender、Excel、Photoshop、Salesforce 和 VS Code 的使用；附时长元数据，无操作标签。
+- [Computer Use Trajectories (markov-ai)](https://awesomecua.com/zh/resources/url-5a073f50270c4f316ce5/)：由使用辅助功能树定位的 Gemini 3 Flash Preview 智能体生成的 160 条成功 OSWorld 轨迹，共 1,378 步，含逐步截图、辅助功能树、pyautogui 操作、响应及运行日志。
+- [CUA Speedrun results](https://awesomecua.com/zh/resources/url-099451a33699510476df/)：收录 CUA Speedrun 在 OSWorld 子集、CUA-World 和 MyPCBench 上评估计算机使用模型的轨迹归档及逐任务结果，含验证器分数、实测任务耗时和记录或估算的成本。
+- [DragOn](https://awesomecua.com/zh/resources/url-b854ff53e497da3a5ad8/)：拖拽定位训练与评估数据，将每条截图指令与起点和终点框配对，涵盖文本高亮、电子表格单元格、幻灯片缩放和滑块。
+- [duvo-eye-1-evals](https://awesomecua.com/zh/resources/url-dfcb24f23a03e58316cf/)：收录多个公开基准逐样本的图形界面定位预测与参考坐标，并附有重新计算结果的脚本。
+- [EnvDistraction](https://awesomecua.com/zh/resources/github-xbmxb-envdistraction/)：EnvDistraction 提供模拟 GUI 环境和评测脚本，用于衡量多模态智能体受环境干扰的程度。
+- [FedMABench data partitions](https://awesomecua.com/zh/resources/url-86b3c2ee65911daf84a8/)：FedMABench 联邦训练数据将 AndroidControl 与 AitW 移动端智能体任务记录按应用、类别及步骤或任务轮次差异划分为六组 JSONL 分区；截图须从原始数据重建。
+- [FiftyOne GUI Grounding Training Set](https://awesomecua.com/zh/resources/url-f0eac3ad813245645492/)：739 张 GUI 截图，多数为 macOS 浏览器画面；采用基于 COCO4GUI 的 FiftyOne 格式标注交互点、操作类型和逐操作任务描述，用于元素定位与点击预测。
+- [FiftyOne GUI Grounding Training Set with Synthetic Augmentation](https://awesomecua.com/zh/resources/url-c10fd1906c2e7ee289ec/)：4,036 张 GUI 截图，多为 macOS 浏览器页面，附交互关键点和任务描述；包含 739 张人工标注原图，以及通过 FiftyOne 插件制作的 3,297 张色觉与任务改写变体。
+- [FingerTip-20K](https://awesomecua.com/zh/resources/github-tsinghua-fib-lab-fingertip-20k/)：收录 500+ 个应用中超过 20,000 段人类 Android 操作过程，包含用户上下文和长期使用模式，并设有主动意图预测与个性化执行任务方向。
+- [GTA1 cleaned grounding dataset](https://awesomecua.com/zh/resources/url-d46306ac1d0a0cce573a/)：GTA1 仓库关联的清洗版 GUI 定位训练数据，主要来自 Aria-UI 和 OS-Atlas；目标框与 OmniParser 检测元素存在差异的样本已被剔除。
+- [GUI-360](https://awesomecua.com/zh/resources/url-0b590d03a3d5103a79e4/)：支持多种界面理解任务的桌面 GUI 轨迹数据。
+- [GUI-Action Narrator](https://awesomecua.com/zh/resources/github-showlab-gui-action-narrator/)：用于描述 GUI 交互轨迹中操作的资源。
+- [GUI-CIDER causal knowledge data](https://awesomecua.com/zh/resources/url-d0300db5ba754b1a64fa/)：已发布的 JSONL 语料，包含为 GUI 智能体中期训练合成的规划与因果知识，由 GUI-CIDER 官方项目直接提供链接。
+- [GUI-Drag](https://awesomecua.com/zh/resources/url-aa28e1329a52e341d285/)：用于学习图形界面中文本拖拽交互的数据。
+- [GUI-Libra-81K-SFT](https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/)：GUI-Libra-81K 的 SFT 版本，以 JSON 标注文件提供网页和 Android 截图上的逐步推理轨迹及坐标定位操作，含完整、无推理和 1,000 样本版本。
+- [GUI-Net-1M](https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/)：TongUI 从多模态网页教程收集的训练语料，以标注文件和分卷截图归档形式发布，用于 GUI 轨迹监督训练。
+- [GUI-Net-Mini](https://awesomecua.com/zh/resources/url-0627940da1b988739f75/)：TongUI 训练混合数据：约 143K 条来自 WikiHow、Baidu Experience 和 GUI 视频的样本，加上重新处理的 AITW、AMEX、GUIAct、Mind2Web、MiniWoB 和 ShowUI 数据，以带截图的定位和导航 JSON 提供。
+- [GUI-Xplore](https://awesomecua.com/zh/resources/url-f56dbd8bfac8b0545e07/)：按 Android 应用整理的探索视频，含截图与操作序列、视图层级，以及应用概览、页面分析、操作回忆、序列验证等五类任务的问答对。
+- [GUIMid training data](https://awesomecua.com/zh/resources/url-422010da7a5c845a18f6/)：已发布的 GUI 智能体中期训练混合数据及配套领域数据集，另含后期训练轨迹文件和网页、移动端交互图像归档。
+- [GUIrilla-Task](https://awesomecua.com/zh/resources/url-afe8260e6db2617b72ec/)：macOS 截图与生成的指令及标注元素上的正确点击或输入操作配对，由 GUIrilla 无障碍 API 抓取器采集，训练集与测试集中的应用互不重叠。
 - [Mobile-GUI-Worldmodel-SFT](https://awesomecua.com/zh/resources/url-e041226738f8ea43a878/)：这是用于移动界面世界模型训练与评估的数据集。轨迹归档将截图与页面状态文本及动作格式的训练样例配对。
 - [Mobile-R1 trajectory sample](https://awesomecua.com/zh/resources/url-114ced4a94d12f384d69/)：Mobile-R1 中文 Android 应用标注轨迹的开放样本：1,007 个任务的各步骤将截图与思路、子任务及点击、滑动、输入或打开等 mobile_use 动作配对。
 - [MONDAY](https://awesomecua.com/zh/resources/github-runamu-monday/)：从教学视频提取的跨平台移动 GUI 轨迹数据集，提供数据处理辅助工具和适用于 Android 及 iOS 数据的评估示例代码。
@@ -34,6 +57,7 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/3/ · [English](
 - [Two-Box Judge GUI Dataset](https://awesomecua.com/zh/resources/url-e7c3d3d49bf977b49996/)：BAMI 局部纠错模型的训练数据：成对裁剪的 GUI 截图各高亮一个候选框，配有点击指令及自动生成的标签，指出更符合指令的框。
 - [UEyes](https://awesomecua.com/zh/resources/github-yuejiang-nj-ueyes-chi2023/)：UEyes 是眼动追踪数据集，记录 62 名参与者观看 1,980 张 UI 截图的情况，截图涵盖网页、桌面界面、移动端应用和海报。
 - [UI-Ins](https://awesomecua.com/zh/resources/github-alibaba-ui-ins/)：将定位指令视为多个推理视角，发布数据流程、训练代码，以及先用合成指令进行 SFT、再经 RL 训练的 UI-Ins-7B 和 32B 模型。
+- [UI-Simulator_android_data](https://awesomecua.com/zh/resources/url-d32dfe60eff4b87c1d05/)：来自 UI-Simulator 的合成 Android 智能体训练数据：每条提示把目标与模拟的 UI 元素列表配对，并给出下一步动作回复，分为无 RAG、基于 RAG 和两个 UI-Simulator-Grow 划分。
 - [UICrit](https://awesomecua.com/zh/resources/github-google-research-datasets-uicrit/)：包含区域坐标和 RICO 屏幕引用的移动端界面评语及质量评分，并提供一个由 3 名标注者参与、规模大于原论文数据集的版本。
 - [UiPad](https://awesomecua.com/zh/resources/url-3ac3ccfb23fe13adf428/)：macOS 界面数据集，收录 63 款应用的 352 个屏幕，提供截图、可用的无障碍树，以及界面元素和点击位置相关问题。
 - [Uni-GUI-Desktop-1](https://awesomecua.com/zh/resources/url-20f7cdee10b0dd70815f/)：UI-MOPD 训练数据中的桌面轨迹，采集于 OSWorld 环境：涵盖 10 类应用的 2,685 项任务，含逐步截图、推理轨迹、归一化操作和 pyautogui 代码。

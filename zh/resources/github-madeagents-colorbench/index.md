@@ -25,14 +25,14 @@ The source tree contains graph and task JSON files plus construction/evaluation 
 - 评测方式：The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.
 - 侧重：long-horizon mobile task completion, multi-path graph interaction
 - 观测：mobile screenshots represented as graph states
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 175 tasks — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
-- 101 cross-app tasks — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
-- 74 single-app tasks — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
-- 21 mobile applications — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 175 个任务 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 101 个跨应用任务 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 74 个单应用任务 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 21 个移动应用 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
 
 The interaction environment replays graph states. The 101 and 74 subsets partition the reported 175 tasks.
 

@@ -60,7 +60,7 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/2/
 - [VeriOS-Bench](https://awesomecua.com/zh/resources/url-16a5ccde8bb16cda19ff/)
 - [WebLINX dataset](https://awesomecua.com/zh/resources/url-1517e989c470563bd08d/)
 - [VeriOS-Agent-32B](https://awesomecua.com/zh/resources/url-97040677a731edfedc2d/)
+- [VeriOS-Agent-7B](https://awesomecua.com/zh/resources/url-0b0a7a841d65715d60b1/)
 - [1Claw Browser Bridge](https://awesomecua.com/zh/resources/github-1clawai-browser-bridge/)
 - [ActionAnything](https://awesomecua.com/zh/resources/github-xxwtiancai-action-anything/)
 - [Adapt ERP](https://awesomecua.com/zh/resources/github-guomonth-dsh-erp/)
-- [Aether Agent Browser](https://awesomecua.com/zh/resources/github-aetherai3-agent-browser/)

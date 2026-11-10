@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
+- [Bodhi](https://awesomecua.com/zh/resources/github-bigduu-zenith/)
 - [Bops](https://awesomecua.com/zh/resources/github-orgoai-bops/)
 - [Boss Agent](https://awesomecua.com/zh/resources/github-padolphylis-boss-agent/)
 - [BridgeDEF](https://awesomecua.com/zh/resources/github-mattiadepaoli-hash-bridgedef/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/5/
 - [CUA Skill](https://awesomecua.com/zh/resources/github-microsoft-cua-skill/)
 - [cua-desktop-automation-skills](https://awesomecua.com/zh/resources/github-chrislamdev-cua-desktop-automation-skills/)
 - [Deck](https://awesomecua.com/zh/resources/github-cofy-x-deck/)
-- [DeepDeck](https://awesomecua.com/zh/resources/github-jo32-deepdeck/)

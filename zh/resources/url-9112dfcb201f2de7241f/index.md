@@ -28,13 +28,13 @@ The card calls this a self-reported trajectory package; it links no paper or har
 
 ### 数量记录
 
-- 108 tasks — OSWorld-V2 v2026.06.24 tasks 001-108 in this run（来源报告；来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json）
-- 108 reported task folders with traj.jsonl — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 154 retained earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 132 solution cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 51 recovery cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 12,868 PNG screenshots in reported task folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 16,400 PNG screenshots in earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 108 个任务 — OSWorld-V2 v2026.06.24 tasks 001-108 in this run（来源报告；来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json）
+- 108 个含 traj.jsonl 的已报告任务文件夹 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 154 个保留的先前尝试文件夹 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 132 张解决方案卡片 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 51 张恢复卡片 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 12,868 张位于已报告任务文件夹中的 PNG 截图 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 16,400 张位于先前尝试文件夹中的 PNG 截图 — Hub manifest at revision 523e49b9（计算得出）（来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
 
 Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are counted separately. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.
 

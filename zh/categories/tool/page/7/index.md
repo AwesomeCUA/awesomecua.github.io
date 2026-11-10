@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/7/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [DH.Window.UITool](https://awesomecua.com/zh/resources/github-cyberkdh-dh-window-uitool/)：Windows UI Automation 检查与脚本工具，用于分析 UI 元素树和构建可重复的桌面工作流程。
+- [DispatchShield](https://awesomecua.com/zh/resources/github-venusone-lee-dispatchshield/)：macOS 实用工具，使 Mac 在无人值守的计算机使用智能体运行期间保持唤醒，同时保护活动会话免受本地输入干扰。
+- [DjangoAILab DSH Plugins](https://awesomecua.com/zh/resources/github-djangoailab-dsh-plugins/)：面向 DeepSeek Harness、设有约束机制的插件套件，涵盖浏览器自动化、桌面控制、子智能体和远程服务器。
+- [DJCLIPZ Agent Controller](https://awesomecua.com/zh/resources/github-form-u-la-djclipz-agent-controller/)：入门套件和控制器，供 AI 智能体通过编程方式驱动 DJCLIPZ 浏览器媒体应用。
+- [doc-agent](https://awesomecua.com/zh/resources/github-samuel-as-doc-agent/)：一项 Claude Code 技能，通过在实时浏览器中执行网页流程，生成带标注截图的流程文档。
+- [DOMShell](https://awesomecua.com/zh/resources/github-apireno-domshell/)：DOMShell 通过 CDP 和 MCP，将实时 Chrome 浏览器 DOM 树作为虚拟 Unix 文件系统（`cd`、`ls`、`click`、`text`）提供给 LLM 智能体。
+- [Drisp Browser MCP](https://awesomecua.com/zh/resources/github-drisplabs-browser-mcp/)：Drisp Browser 是节省 token 的浏览器自动化 MCP 服务器，提供精简的语义页面快照和有状态动作。
 - [DroidLume Agent Control](https://awesomecua.com/zh/resources/github-tageecc-droidlume-agent-control/)：通过 npm 分发的 CLI、Model Context Protocol 服务器和独立 Android 配套应用，用于 AI 手机控制。
 - [Drover](https://awesomecua.com/zh/resources/github-om-khode-drover/)：Chrome 扩展和本地 CLI，使 AI 智能体能够操控用户已打开并已登录的浏览器窗口。
 - [DSH Browser Control](https://awesomecua.com/zh/resources/github-ahaway1st-dsh-browser-control/)：DeepSeek Harness 插件，让智能体直接控制用户真实且已登录的网页浏览器。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/7/ · [English](htt
 - [gomoufox](https://awesomecua.com/zh/resources/github-ehmo-gomoufox/)：用于操作 Camoufox 反检测 Firefox 浏览器的 Go 库、CLI 和 Model Context Protocol 服务器。
 - [GPT-Control](https://awesomecua.com/zh/resources/github-wolfiesch-gpt-control/)：跨模型审查中介，让 CLI 编程智能体驱动已登录的 ChatGPT 应用或网页会话进行结构化验证。
 - [gpuview](https://awesomecua.com/zh/resources/github-onlyterp-gpuview/)：面向 AI 智能体的 GPU 原生 Windows 屏幕感知工具，直接从 DXGI Desktop Duplication 合成器交接点捕获帧。
-- [Grasp MCP](https://awesomecua.com/zh/resources/github-jamshed7470-grasp-mcp/)：Model Context Protocol 服务器，为 Claude 和 MCP 客户端提供完整的桌面屏幕视觉感知及鼠标、键盘控制。
-- [gridhand](https://awesomecua.com/zh/resources/github-zachrouan-gridhand/)：零依赖的 Rust CLI，用于跨平台 GUI 自动化，可在截图上叠加带标签的坐标网格，实现确定性点击。
-- [Grok Chrome Bridge](https://awesomecua.com/zh/resources/github-davidsolheim-grok-chrome-bridge/)：Chrome 桥接工具，让 Grok Build 在开发期间检查实时运行的本地 Web 应用并与之交互。
-- [grok-chrome-mcp](https://awesomecua.com/zh/resources/github-dietghardev-grok-chrome-mcp/)：Model Context Protocol 服务器，让 Grok Build 和编程智能体通过点击操作实时运行的 Chrome Web 应用并进行验证。
-- [grokbot-cdp](https://awesomecua.com/zh/resources/github-daizedong-grokbot-cdp/)：Python 客户端，通过 Chrome DevTools Protocol 控制 xAI 的 Grok 计算机使用智能体背后的云浏览器和虚拟机。
-- [gsearch-rs](https://awesomecua.com/zh/resources/github-be90nia-gsearch-rs/)：单二进制文件、无需扩展的 Rust CLI，可操控本地 Chrome，进行面向 AI 的网页搜索和页面提取。
-- [GUI Grounding Evaluation Harness](https://awesomecua.com/zh/resources/github-patrickstarl-gui-grounding-eval/)：ScreenSpot-Pro 评估工具，提供明确的坐标变换、提示词与基于裁剪的推理对比，以及逐样本的定位准确率和成本记录。

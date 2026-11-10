@@ -28,10 +28,10 @@ At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in tota
 
 ### 数量记录
 
-- ≈ 10,000 tasks — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
-- ≈ 55 hours of 30 fps screen recording — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
-- ≈ 6,000,000 video frames — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
-- 87 per-application ZIP archives — raw_data/ at revision 6ecc530d（计算得出；来源：https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data）
+- ≈ 10,000 个任务 — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
+- ≈ 55 小时屏幕录像（30 fps） — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
+- ≈ 6,000,000 帧视频画面 — VideoCUA corpus as stated on the card（来源报告；来源：https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md）
+- 87 个按应用划分的 ZIP 归档 — raw_data/ at revision 6ecc530d（计算得出）（来源：https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data）
 
 Tasks, hours, frames and archives are different units and are counted separately. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.
 

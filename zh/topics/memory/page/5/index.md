@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/memory/index.md
 
+- [AI-Player](https://awesomecua.com/zh/resources/github-shasankp000-ai-player/)
+- [Aico Link Firmware](https://awesomecua.com/zh/resources/github-aidenai-io-aiden-firmware/)
 - [AILEEN Desktop](https://awesomecua.com/zh/resources/github-haixu8396-png-aileen-desktop/)
 - [AIOS](https://awesomecua.com/zh/resources/github-agiresearch-aios/)
 - [Anchor-Inference Daedalus](https://awesomecua.com/zh/resources/github-anchor-inference-daedalus/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/5/
 - [LASER](https://awesomecua.com/zh/resources/github-mayer123-laser/)
 - [lean-computer-use-mcp](https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/)
 - [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonai-litewebagent/)
-- [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)
-- [LKO Mark 3.4](https://awesomecua.com/zh/resources/github-shubhransh-gupta-lko-mark-3-4/)

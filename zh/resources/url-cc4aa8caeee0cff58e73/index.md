@@ -24,8 +24,8 @@
 
 ### 数量记录
 
-- > 600,000 screenshot–view-hierarchy pairs — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
-- > 20,000 Android apps — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
+- > 600,000 组截图–视图层级对 — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
+- > 20,000 个 Android 应用 — publisher-reported MobileViews-600K first release（来源报告；来源：https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md）
 
 Counts describe the card’s first-release claim. The card distinguishes globally image-hash-deduplicated screenshot/VH pairs from November 2024 complete-app traces; trace states reuse the screen population. JPEG/JSON and Parquet are alternative representations. Listed filename ranges are examples; a complete corpus count requires a separate inventory. No train/validation/test split is documented. Hub revision c734715e is ungated; MIT is its data declaration, without resolving third-party app content rights.
 

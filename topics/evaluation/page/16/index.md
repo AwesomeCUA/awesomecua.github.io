@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/evaluation/page/16/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
+- [cskwork vigil](https://awesomecua.com/resources/github-cskwork-vigil/)
+- [CUA Eval Kit](https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/)
 - [cua-bench (ERPNext)](https://awesomecua.com/resources/github-vaiyr-cua-bench/)
 - [CUA-Gym-Hub](https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/)
 - [cua_reliability (SA-OPSD)](https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/)
 - [jev-click-bench](https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/)
 - [Kane](https://awesomecua.com/resources/github-venkat5599-kane/)
-- [Kernel Eval Protocol](https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/)
-- [KNOWS Benchmark](https://awesomecua.com/resources/github-alexgill321-knows-benchmark/)

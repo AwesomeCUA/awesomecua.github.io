@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/automation/page/14/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [gnome-wayland-computer-use](https://awesomecua.com/resources/github-ryanraposo-gnome-wayland-computer-use/)
+- [Gobii Platform](https://awesomecua.com/resources/github-gobii-ai-gobii-platform/)
 - [Goby](https://awesomecua.com/resources/github-juguang-goby/)
 - [Godot Editor MCP](https://awesomecua.com/resources/github-hybridindie-godot-mcp/)
 - [godzilaa browser-agent Extension](https://awesomecua.com/resources/github-godzilaa-browser-agent/)
@@ -12,6 +14,7 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [gomoufox](https://awesomecua.com/resources/github-ehmo-gomoufox/)
 - [GoSosmed Mobile Agent](https://awesomecua.com/resources/github-dedy45-gososmed-mobile-agent/)
 - [governed-computer-use](https://awesomecua.com/resources/github-mkhan49-governed-computer-use/)
+- [GPTVoiceTasker](https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/)
 - [Grasp MCP](https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/)
 - [gridhand](https://awesomecua.com/resources/github-zachrouan-gridhand/)
 - [grokbot-cdp](https://awesomecua.com/resources/github-daizedong-grokbot-cdp/)
@@ -60,7 +63,4 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Inner Coordinates](https://awesomecua.com/resources/github-xiaochu-1208-inner-coordinates/)
 - [Intelligence Indeed](https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/)
 - [Intent Browser Runtime (ibr)](https://awesomecua.com/resources/github-hop-top-ibr/)
-- [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/)
-- [InTheRainOf Mobile Agent (随身Agent)](https://awesomecua.com/resources/github-intherainof-mobile-agent/)
-- [invisible_core](https://awesomecua.com/resources/github-feder-cr-invisible-core/)
-- [invisible_dots](https://awesomecua.com/resources/github-feder-cr-invisible-dots/)
+- [Interception](https://awesomecua.com/resources/github-oblitum-interception/)

@@ -25,12 +25,12 @@ The README describes this as the verified release of WebArena and keeps the orig
 - 评测方式：Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.
 - 侧重：web task completion, information retrieval from self-hosted websites
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 812 task definitions — assets/dataset/webarena-verified.json（计算得出；来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json）
-- 258 task IDs — WebArena-Verified Hard subset (assets/dataset/subsets/webarena-verified-hard.json)（计算得出；来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json）
+- 812 个任务定义 — assets/dataset/webarena-verified.json（计算得出）（来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json）
+- 258 个任务 ID — WebArena-Verified Hard subset (assets/dataset/subsets/webarena-verified-hard.json)（计算得出）（来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json）
 
 Counts are unique task_id values in the inspected manifests. Tasks span the shopping, shopping_admin, gitlab, reddit, map and wikipedia sites, including cross-site tasks; each task carries a revision number. The observation format and agent harness are not prescribed. Record the task-file revision, subset and environment images with a score.
 

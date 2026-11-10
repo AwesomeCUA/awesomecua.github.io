@@ -735,6 +735,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   agentB is a benchmark for evaluating open web agents on realistic knowledge-work and browser automation tasks.
 - [AgentBoard](https://awesomecua.com/resources/github-hkust-nlp-agentboard/) — Date not recorded
   AgentBoard evaluates multiturn agents across several tasks, including web interactions, and provides progress metrics and visualizations for analyzing their runs.
+- [AgentEval](https://awesomecua.com/resources/url-85b700fbb7f1c599b7c3/) — Date not recorded
+  Benchmark suite of the AgentGym framework: a 1,160-item test split over 14 environments, with WebShop and WebArena web tasks next to text-game, embodied, tool-use and SQL tasks.
 - [AgentGauntlet](https://awesomecua.com/resources/github-konuktor-agent-gauntlet/) — Date not recorded
   Reliability CI harness for browser agents that runs identical web tasks across mutating DOM conditions to measure resilience.
 - [agentic-browser-boundary-tests](https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/) — Date not recorded
@@ -931,6 +933,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   An audited re-release of WebArena's 812 web tasks with corrected reference answers and deterministic evaluators that score structured agent responses and captured network traces, plus a 258-task hard subset.
 - [WebBench](https://awesomecua.com/resources/github-halluminate-webbench/) — Date not recorded
   Live-web benchmark from Halluminate and Skyvern with read, create, update, delete and file-download tasks on 452 high-traffic websites, including logins and form entry, with released per-agent run results.
+- [WebCanvas_showcase](https://awesomecua.com/resources/github-imeanai-webcanvas-showcase/) — Date not recorded
+  A showcase that connects web agent frameworks to WebCanvas online evaluation; its SEEACT folder runs SeeAct on live websites and scores the key nodes it hits on Mind2Web-Live tasks.
 - [WebClick](https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/) — Date not recorded
   A web-interface localization benchmark with screenshot instructions and target boxes, including agent browsing, human browsing and calendar cases.
 - [WebGen-Bench](https://awesomecua.com/resources/github-mnluzimu-webgen-bench/) — Date not recorded
@@ -974,14 +978,20 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 
 ## Datasets
 
+- [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/resources/url-3ab90a696d8578c944c8/) — Date not recorded
+  AgentLab run logs of the A3-Qwen3.5-9B web agent on BrowserGym benchmarks, stored per task as step JSON files with goals, page URLs, DOM and accessibility observations and actions; this address opens the WebArena folder.
 - [AgentRewardBench dataset](https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/) — Date not recorded
   Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.
+- [AssistantBench](https://awesomecua.com/resources/url-447997967beea3b07f6f/) — Date not recorded
+  AssistantBench tasks on Hugging Face: realistic, time-consuming open-web questions in dev and test JSONL files, with answers, gold URLs and explanations in the dev rows. The paper reports 214 tasks.
 - [BrowserART](https://awesomecua.com/resources/url-dec73112f4c2dad889cb/) — Date not recorded
   A browser-agent safety dataset of 100 harmful browser-related behaviors, designed for red-team evaluation across real and synthetic websites.
 - [Cie1/MMSearch-Plus](https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/) — Date not recorded
   A dataset of 311 image-based tasks for evaluating multimodal browsing agents that use iterative image and text retrieval to answer questions.
 - [ClawBench](https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/) — Date not recorded
   A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.
+- [ClawBenchV2Trace](https://awesomecua.com/resources/url-3452cef2f99d7de2935a/) — Date not recorded
+  Raw execution traces of browser-agent runs on the 130-task ClawBench V2 set, each with a screen recording, network capture, browser action stream, agent reasoning, the intercepted final request and a judge verdict.
 - [Go-Browse-WA processed data](https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/) — Date not recorded
   Flattened web-interaction training records with accessibility-tree observations, assistant completions, trajectory rewards and step-link metadata.
 - [go-browse-wa-raw](https://awesomecua.com/resources/url-edb0eadcc3df5559e941/) — Date not recorded
@@ -1028,6 +1038,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   NAIL-Group/ClawBench releases task data for evaluating browser agents on live websites. Its card describes V1 and V2 corpora, task metadata, and loading through the datasets library.
 - [NAIL-Group/ClawBenchV1Trace](https://awesomecua.com/resources/url-e7653b062bded670198a/) — Date not recorded
   ClawBench V1 Traces releases browser-agent run records with screen video, actions, network traffic and agent messages for replay, debugging and regrading.
+- [navi-bench](https://awesomecua.com/resources/url-5bbbc1012ab02e9df3bb/) — Date not recorded
+  Task data for Navi-Bench, everyday web tasks on live websites: a 200-row validation split over ten sites such as Apartments, Craigslist and Google Flights, each with a task-generation config, domain and categories.
 - [NNetNav Live data](https://awesomecua.com/resources/url-4f47abde8cd28a1ec1e1/) — Date not recorded
   Browser-interaction data released with NNetNav for its live-website setting, with separate training and test files.
 - [NNetNav WebArena data](https://awesomecua.com/resources/url-25a4d0ab29b60250863a/) — Date not recorded
@@ -1046,28 +1058,42 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   SWEeper-Bench provides tasks drawn from web application bugs for evaluating agents that inspect running apps and repair them. Each task includes a prompt, repository revisions, and browser behavior tests.
 - [TimeWarp](https://awesomecua.com/resources/url-8be414a28d1984abb1b9/) — Date not recorded
   Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.
+- [TimeWarp-GPT5-Traces](https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/) — Date not recorded
+  GPT-5 teacher trajectories on the TimeWarp web benchmark, grouped by UI version, with SoM-annotated screenshots for each step and experiment logs, used to fine-tune web agents with LlamaFactory.
 - [VeriGUI](https://awesomecua.com/resources/url-8477ada5b7de1d399c9d/) — Date not recorded
   VeriWeb dataset of 302 web information-seeking tasks, with annotated subtasks, human action logs, and execution videos for evaluating long-chain agents.
 - [VisualWebBench dataset](https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/) — Date not recorded
   Hugging Face dataset release for VisualWebBench spanning seven visual web understanding, OCR, element grounding, and action prediction tasks.
 - [WebArena-Infinity browser agent trajectories](https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/) — Date not recorded
   Passing runs of three browser agents on 13 WebArena-Infinity web apps generated from product documentation, with per-step reasoning, actions, screenshots and programmatic verifier results.
+- [webarena-world-model-cot](https://awesomecua.com/resources/url-3e0f07cb0ff3f32dfc0e/) — Date not recorded
+  WebArena page-transition data for training language world models: chain-of-thought annotations paired with the accessibility-tree item changes that follow an action, used for SFT and RLVR in RLVR-World.
 - [WebChain (original release)](https://awesomecua.com/resources/url-116431f8ea32dbc6d637/) — Date not recorded
   Original WebChain release of human-annotated trajectories on live websites, with raw JSON records, viewport and partial full-page screenshots, and Parquet files for high-level planning and low-level grounding steps.
 - [WebChain v2](https://awesomecua.com/resources/url-56f08987cc19b82dc607/) — Date not recorded
   Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-level and Seed-style sliding-window SFT Parquet with aligned screenshots, plus action metadata and a 150-trace evaluation subset.
 - [WebEvolver SFT data](https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/) — Date not recorded
   Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.
+- [webgames](https://awesomecua.com/resources/url-654e0cbc1a22b59eca47/) — Date not recorded
+  Task list for WebGames, a set of client-side web challenges for browsing agents: one JSONL file giving each task's id, title, description, page path, success password and tags.
 - [WebGuard](https://awesomecua.com/resources/url-df10c80a8da55773154d/) — Date not recorded
   Dataset of 5,999 browser-action safety annotations, pairing website and action details with risk classifications for web-agent research.
 - [WebLINX dataset](https://awesomecua.com/resources/url-1517e989c470563bd08d/) — Date not recorded
   Hub data of WebLINX 1.0: conversational web-navigation demonstrations preprocessed into per-turn records with dialogue, cleaned HTML, candidate elements and action history, plus reranking data.
+- [weboperator-experiments](https://awesomecua.com/resources/url-a12c18540006368e69ab/) — Date not recorded
+  Run logs of the WebOperator web agent with gpt-4o on 812 WebArena tasks and a 155-task WebArena-lite ablation, holding per-task trajectories, search trees, screenshots and scores.
 - [WebPRM checklist-generation data](https://awesomecua.com/resources/url-fcc98b149272bbf31b05/) — Date not recorded
   Web-task context, starting observations and action history paired with structured checklists and subgoal analyses for checklist generation.
 - [WebPRM Collection preference data](https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/) — Date not recorded
   Checklist-annotated web decision records with page observations, prior actions, one preferred continuation and rejected alternatives for process-reward learning.
+- [WebsiteBench](https://awesomecua.com/resources/url-687a7b27f38720fe54bc/) — Date not recorded
+  Hugging Face copy of the 70 WebsiteBench tasks in Harbor format, where agents explore a production-level reference website in a browser and rebuild a full-stack clone scored by hidden functional and visual tests.
 - [WebSRC](https://awesomecua.com/resources/github-x-lance-websrc-baseline/) — Date not recorded
   WebSRC provides baseline models and processing pipelines for the Web-Based Structural Reading Comprehension dataset over HTML and screenshots.
+- [world_model_for_wa_desc_with_tao_dataset](https://awesomecua.com/resources/url-96bb23bd687d6c227a41/) — Date not recorded
+  Training data for the world model of the WMA web agent: 14744 steps pairing an objective, previous actions, an observation and the current action with the next state and a description of what changed.
+- [world_model_for_wa_desc_with_tao_formatted_w_cot](https://awesomecua.com/resources/url-3ef18fbb67e0376561db/) — Date not recorded
+  Formatted instruction, input and output examples for training the WMA world model, which describes how a WebArena page changes after an action, with 11795 training and 2949 validation rows.
 
 ## Models
 
@@ -1095,6 +1121,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Preview Google DeepMind model built on Gemini 2.5 Pro and post-trained for UI control, returning browser and mobile actions from screenshots and recent action history through the Gemini API computer_use tool.
 - [Go-Browse WebArena Qwen 7B](https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/) — Date not recorded
   A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.
+- [GPT-6 Astra](https://awesomecua.com/resources/url-039a4975e102cb538c36/) — Date not recorded
+  General OpenAI model whose launch post covers computer use and browsing; OpenAI reports 72.6% on OSWorld 2.0 at about 40 minutes per task, plus ScreenSpot-Pro and Mind2Web results.
 - [GUI-Libra 3B](https://awesomecua.com/resources/url-ae8e3fa5a67a608804f8/) — Date not recorded
   GUI-Libra checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct (about 4.07B BF16 parameters) that turns a screenshot, task and action history into a <think> reasoning block and a JSON action with point_2d coordinates.
 - [GUI-Libra 4B](https://awesomecua.com/resources/url-9082bb5effe5d1a1cada/) — Date not recorded
@@ -1125,10 +1153,16 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   kev-browser-use is a compact 0.6B System-One action model fine-tuned on Mind2Web for low-latency browser element selection.
 - [laya-browser](https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/) — Date not recorded
   Non-generative browser-agent policy fine-tuned from the 322M laya encoder: one forward pass over page text and the interactive-element list picks the next operation and its target element.
+- [LFM2-350M-ComputerUse](https://awesomecua.com/resources/url-b68b02b47c87f006533e/) — Date not recorded
+  LoRA adapter for LFM2-350M trained with GRPO to click a button on the MiniWoB click-test task, reading the page as a BrowserGym accessibility tree and acting in a sandboxed browser.
 - [Llama-3-8B-Web](https://awesomecua.com/resources/url-7c3e8c4ba52428584079/) — Date not recorded
   A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.
 - [Llama8b-NNetNav-WA](https://awesomecua.com/resources/url-c9d2a9288a568db12bd1/) — Date not recorded
   A Llama checkpoint trained on demonstrations gathered through WebArena exploration. It takes a task instruction and selects browser actions to navigate webpages.
+- [lora_qformer_test_V4-700_merged](https://awesomecua.com/resources/url-8a5201470d27334977fa/) — Date not recorded
+  Qwen2.5-VL-7B-Instruct merged with the CoMEM memory module, which compresses past GUI trajectories into 8 continuous embeddings through a LoRA-tuned Q-Former, for web agent tasks.
+- [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/resources/url-b144605ae24674ffb917/) — Date not recorded
+  UI-TARS-V1.5-7B checkpoint with CoMEM continuous memory merged in, where a LoRA-tuned Q-Former compresses retrieved GUI trajectories into fixed-length embeddings for the web agent.
 - [lumos_unified_ground_iterative](https://awesomecua.com/resources/url-af446270bb6bfd20b77e/) — Date not recorded
   A released Lumos grounding-module checkpoint fine-tuned on web-agent and other interactive tasks within its modular language-agent system.
 - [lumos_unified_ground_iterative-13B](https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/) — Date not recorded
@@ -1145,6 +1179,14 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A fine-tuned Lumos planning-module checkpoint for web-agent tasks, released as model weights alongside a separately listed training dataset.
 - [lumos_web_agent_plan_iterative-13B](https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/) — Date not recorded
   A released Lumos checkpoint for planning web-agent tasks within an iterative architecture that separates planning, grounding and execution.
+- [Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2](https://awesomecua.com/resources/url-062d2cb4ccb89de78162/) — Date not recorded
+  QLoRA adapter for Llama-3.1-8B-Instruct that acts as the value model of the WMA web agent, rating world-model predictions of each candidate action's outcome so the agent can choose the top-scored one.
+- [Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter](https://awesomecua.com/resources/url-58195ef097be91525554/) — Date not recorded
+  PEFT world-model adapter for Llama 3.1 8B Instruct from the WMA web agent project, trained to describe the state changes an action causes so the agent can choose actions on WebArena.
+- [MindAct_CandidateGeneration_deberta-v3-base](https://awesomecua.com/resources/url-43f98379902167a5f9f3/) — Date not recorded
+  Encoder-only DeBERTa-v3-base model from MindAct that scores task query and page element pairs, so the top 50 candidates on a Mind2Web page go on to the action prediction model.
+- [nnetnav-wa-qwen-7B](https://awesomecua.com/resources/url-511ba336435d406f3761/) — Date not recorded
+  Qwen-2.5-7B-Instruct fine-tuned on the NNetNav-WA WebArena trajectories, released by the Go-Browse project as its NNetNav-7B comparison model for WebArena web navigation.
 - [OpAgent-32B](https://awesomecua.com/resources/url-875b417b3ef43021cd74/) — Date not recorded
   A vision-language model fine-tuned for web navigation. It takes a task instruction and webpage screenshot and produces a browser action or final answer.
 - [OpenCSG-Qwen2.5-7B-GUI](https://awesomecua.com/resources/url-2462fb9d529bac7fa896/) — Date not recorded
@@ -1157,6 +1199,12 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A local decision model that scores typed options for browser-agent operations and target elements. The release includes weights and reports browser-step evaluations.
 - [OpenJev-8B](https://awesomecua.com/resources/url-8f5a8144b96447be84c5/) — Date not recorded
   OpenJev-8B is a local decision model that scores typed options for browser agent operations and target elements in a single forward pass.
+- [OpenWebVoyager-opt-1](https://awesomecua.com/resources/url-bd293c9a5f9bf16b8199/) — Date not recorded
+  OpenWebVoyager checkpoint after the first exploration-feedback-optimization round: the imitation-learned multimodal web agent further trained on successful real-website trajectories judged by GPT-4o.
+- [OpenWebVoyager-opt-2](https://awesomecua.com/resources/url-f4f6f5bfe051e6ba3d94/) — Date not recorded
+  The second optimization-iteration checkpoint of OpenWebVoyager, an idefics2-8b multimodal web agent trained by imitation learning and then refined on successful real-website trajectories kept by GPT-4o feedback.
+- [OpenWebVoyager-opt-3](https://awesomecua.com/resources/url-2cd89755e4e2511de633/) — Date not recorded
+  Third optimization-stage checkpoint of OpenWebVoyager, an Idefics2-based multimodal web agent trained by imitation learning and then refined on successful self-explored trajectories judged by GPT-4o.
 - [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/) — Date not recorded
   An Idefics2-based multimodal web-agent checkpoint trained by imitation learning on trajectories collected with a web-agent framework.
 - [OS-Genesis 4B WA](https://awesomecua.com/resources/url-807dadc7dc4ba995bbbe/) — Date not recorded
@@ -1181,8 +1229,14 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A Qwen3-8B LoRA adapter fine-tuned on 992 demonstrations for filling web forms in FormFactory, released with instructions for loading it through PEFT.
 - [Qwen3.5-4B-Browser-Agent-SFT-FP8](https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/) — Date not recorded
   An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.
+- [tti_webarena](https://awesomecua.com/resources/url-a1621345ec327462b86e/) — Date not recorded
+  TTI-WebArena checkpoint from the Test-Time Interaction work, a multimodal web agent trained with online filtered behavior cloning on WebArena tasks and set in the TTI evaluation configs.
 - [UIX-Qwen2-Mind2Web](https://awesomecua.com/resources/url-592e434848a1514efef0/) — Date not recorded
   UIX-Qwen2 further fine-tuned on the Mind2Web training set; the MultiUI paper evaluates it on predicting the next web action from a screenshot, the task and previous actions.
+- [webarena-world-model-rlvr](https://awesomecua.com/resources/url-e02a165e76cd7c43e2ca/) — Date not recorded
+  A language world model for web page state prediction on WebArena, post-trained with RLVR from an SFT checkpoint and used for model predictive control of web agents.
+- [webarena-world-model-sft](https://awesomecua.com/resources/url-42686ac00c4ae107f147/) — Date not recorded
+  DeepSeek-R1-Distill-Qwen-1.5B fine-tuned as a language world model for WebArena: it predicts which accessibility-tree items change after a web action, trained by SFT on chain-of-thought data before the RLVR stage.
 - [WebJudge 7B](https://awesomecua.com/resources/url-772161f06c2b3d4978b5/) — Date not recorded
   A visual trajectory judge that retains selected intermediate screenshots to evaluate whether a web agent completed its task.
 - [WebRL Llama 3.1 8B](https://awesomecua.com/resources/url-a6ee20fea67438d91e06/) — Date not recorded
@@ -2160,6 +2214,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Glass Hands is a Rust framework that connects OpenAI computer-use models directly to Chromium via the Chrome DevTools Protocol.
 - [GlassBrowser](https://awesomecua.com/resources/github-lzw12w-glass-browser/) — Date not recorded
   Auditable, low-cost, DOM-only browser agent designed for transparent step-by-step inspection and debugging.
+- [globot](https://awesomecua.com/resources/github-globe-engineer-globot/) — Date not recorded
+  A Python browser agent that drives Chromium through Playwright, turns the DOM snapshot into numbered clickable and input elements, and has an OpenAI model pick click, type, scroll or back actions.
 - [Gloria](https://awesomecua.com/resources/github-sh7vansh-gloria/) — Date not recorded
   Remote Chromium workstation for AI agents and human operators exposed over Model Context Protocol and noVNC.
 - [Gloria Headless](https://awesomecua.com/resources/github-sh7vansh-gloria-headless/) — Date not recorded
@@ -2686,6 +2742,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 - [Ossabellator Bounded Computer-Use Runtime](https://awesomecua.com/resources/github-ossabellator-computer-use/) — Date not recorded
   Bounded computer-use runtime and semantic browser engine with explicit capability and policy enforcement.
+- [OSWorld Web](https://awesomecua.com/resources/github-task-web-osworld-web/) — Date not recorded
+  Docker Compose stack of self-hosted web applications, such as banking, email, CRM, calendar, Overleaf and an AWS console, served behind a Caddy reverse proxy as the websites for OSWorld-V2 tasks.
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
   Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.
 - [OvoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/) — Date not recorded
@@ -2914,6 +2972,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Shared WebMCP research workspace where human users and browser agents co-curate and compare web items.
 - [rtrvr CLI & SDK](https://awesomecua.com/resources/github-rtrvr-ai-rtrvr-cli/) — Date not recorded
   CLI and SDK for automating web workflows, scraping pages, and driving cloud or local browsers for AI agents.
+- [RUSS](https://awesomecua.com/resources/github-xnancy-russ/) — Date not recorded
+  Code and data for RUSS, which parses step-by-step web help instructions into the ThingTalk language, grounds them to page elements, and clicks, types or asks the user; ships a 741-instruction evaluation set.
 - [Ruyi (如意)](https://awesomecua.com/resources/github-icesword0760-ruyi/) — Date not recorded
   Ruyi streams remote Chrome sessions to the user's browser for collaborative human-AI control and compiles actions into self-healing scripts.
 - [Safari iOS Web Inspector MCP](https://awesomecua.com/resources/github-rodneyrdx-safari-ios-webinspector-mcp/) — Date not recorded
@@ -3064,6 +3124,10 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
 - [Steel MCP Server](https://awesomecua.com/resources/github-steel-dev-steel-mcp-server/) — Date not recorded
   Steel MCP Server gives MCP clients tools to read and operate cloud Chrome sessions through page elements, with session diagnostics and handoff for human input.
+- [Steel Node API Library](https://awesomecua.com/resources/github-steel-dev-steel-node/) — Date not recorded
+  TypeScript and JavaScript client for the Steel cloud browser API, with typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files, profiles and credentials.
+- [Steel Python API library](https://awesomecua.com/resources/github-steel-dev-steel-python/) — Date not recorded
+  Python client for the Steel cloud browser API, with synchronous and asynchronous clients and typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files and profiles.
 - [SteP (Stacked LLM Policies)](https://awesomecua.com/resources/github-asappresearch-webagents-step/) — Date not recorded
   SteP implements dynamically composed Markovian LLM policies for multi-step web navigation and task execution on WebArena.
 - [Strawberry](https://awesomecua.com/resources/url-1aa4168c796c15476b97/) — Date not recorded
@@ -3174,6 +3238,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Attach-only Firefox MCP server over raw WebDriver BiDi with user confirmation gates.
 - [Unraid Camofox Stealth Browser](https://awesomecua.com/resources/github-mircoblitz-unraid-camofox-stealth-browser/) — Date not recorded
   Unraid container template and Agent Skill for hosting a private Camofox anti-detect browser node for AI agents.
+- [UXAgent](https://awesomecua.com/resources/url-2f73fe78c423e263d451/) — Date not recorded
+  Usability-testing system that generates simulated user personas, has LLM agents work through a target website via a browser connector, and shows their survey answers and action logs in a result viewer.
 - [Veeva CRM (Veeva Commercial Cloud) Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-crm-browser-automation/) — Date not recorded
   A browser automation scaffold for Veeva CRM that defines actions for call reports, sample inventory, account records, and territory data through Puppeteer or Anchor Browser.
 - [Veeva Vault Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/) — Date not recorded
@@ -3228,6 +3294,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Open protocol specification and toolkit exposing batch-native website actions to browser agents.
 - [webarena-docker](https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/) — Date not recorded
   A Docker setup for WebArena websites provides scripts to start site containers and restore their state between experiments involving browser tasks.
+- [webarena-setup](https://awesomecua.com/resources/github-gasse-webarena-setup/) — Date not recorded
+  Shell scripts that load the WebArena and VisualWebArena Docker images, create and patch the site containers, serve a homepage and run an optional reset server between agent evaluations.
 - [WebBrain](https://awesomecua.com/resources/github-webbrain-one-webbrain/) — Date not recorded
   WebBrain is an open-source AI browser agent extension for Chrome and Firefox that automates multi-step web workflows.
 - [WebBridge](https://awesomecua.com/resources/github-kxdds-webbridge/) — Date not recorded

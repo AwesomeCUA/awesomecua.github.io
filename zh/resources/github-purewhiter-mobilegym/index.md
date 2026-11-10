@@ -25,14 +25,14 @@ The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archi
 - 评测方式：Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.
 - 侧重：mobile GUI task completion in simulation, state verification and parallel training
 - 观测：simulated mobile screenshots, structured simulator state for judges
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 416 task templates — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
-- 28 simulated apps — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
-- 160 task identifiers — bench_env/splits/train.txt（计算得出；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt）
-- 256 task identifiers — bench_env/splits/test.txt（计算得出；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt）
+- 416 个任务模板 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
+- 28 个模拟应用 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
+- 160 个任务标识符 — bench_env/splits/train.txt（计算得出）（来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt）
+- 256 个任务标识符 — bench_env/splits/test.txt（计算得出）（来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt）
 
 The split-ID inventory counts task IDs. Extra runtime/data dependencies and third-party content terms remain distinct.
 

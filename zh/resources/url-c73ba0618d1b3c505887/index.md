@@ -25,11 +25,11 @@ The Hub card provides split/format/license metadata, while the official OS-Oracl
 - 评测方式：The official repository runs model inference and computes accuracy with cal_acc.py.
 - 侧重：GUI critic prediction
 - 观测：benchmark JSONL, UI screenshots
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 3 platform JSONL splits — mobile/desktop/web configurations in the Hub card（计算得出；来源：https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md）
+- 3 个平台 JSONL 划分 — mobile/desktop/web configurations in the Hub card（计算得出）（来源：https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md）
 
 No sample count is inferred from the n<1K Hub size band. OS-Oracle training data and weights remain pending; released evaluation code covers a separate component.
 

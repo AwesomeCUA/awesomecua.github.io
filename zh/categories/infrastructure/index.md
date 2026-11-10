@@ -2,7 +2,7 @@
 
 基础设施指计算机使用智能体在其中运行或借以操作的浏览器、沙箱、虚拟机、模拟器和输入自动化库。
 
-> AwesomeCUA 目录收录 114 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
+> AwesomeCUA 目录收录 117 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](https://awesomecua.com/categories/infrastructure/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](
 
 ### 这些基础设施覆盖哪些平台？
 
-在 114 条已审核基础设施中，桌面 76 条、网页 60 条、手机 20 条、跨平台 11 条；2 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 117 条已审核基础设施中，桌面 76 条、网页 62 条、手机 21 条、跨平台 11 条；2 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些基础设施有对应的论文？
 
-114 条中有 11 条链接到提出或说明它的 arXiv 论文，例如 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)、[ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) 和 [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/)。
+117 条中有 12 条链接到提出或说明它的 arXiv 论文，例如 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)、[ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) 和 [AutoWechat](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/)。
 
 ### 基础设施使用哪些许可证？
 
-最常见的声明许可证是 MIT（40 条）、Apache-2.0（30 条）和 AGPL-3.0（4 条）。114 条中有 38 条未记录声明的许可证。
+最常见的声明许可证是 MIT（40 条）、Apache-2.0（31 条）和 AGPL-3.0（4 条）。117 条中有 40 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -1063,6 +1063,39 @@ The release contains SIF images, two image manifests, and SHA256SUMS. The card d
 
 ---
 
+## AutoWechat
+
+AppSim-Bench 套件中的模拟微信安卓应用，包含聊天列表、群聊、通讯录和朋友圈，数据来自本地 JSON 文件，用于 AI 自动化测试。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-wechat-v2/
+- 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Wechat-V2
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：沙箱、评测、手机操作
+- 证据核查日期：2026-11-10T03:00:58Z
+- ID：github:acrab-agentic-labs/appsim-wechat-v2
+
+### 范围记录
+
+The repository holds a Kotlin and Jetpack Compose Android project with contact, chat and avatar assets under app/src/main/assets. The AppSim-Bench README lists it as the WeChat app among 17 APKs installed on a phone or emulator and evaluated with the WECHAT task. No license file is listed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-Wechat-V2/a5018e355d64843d8ae9fe78b4817091bd5d94bc/README.md（获取于 2026-11-10T03:00:58Z；SHA-256：83b56f3fa240799552ec59ef85847e43e02f80f5f32e3b09adf523600003d627）
+
+---
+
 ## Browser Use macOS Harness
 
 Browser Use 官方测试框架，用于创建和操控隔离的 macOS 虚拟机及桌面会话。
@@ -1809,6 +1842,39 @@ Adjacent: environment images that the curated OSWorld benchmark boots; this asse
 
 ---
 
+## OSWorld Web
+
+一套以 Docker Compose 编排的自托管 Web 应用，涵盖银行、邮件、CRM、日历、Overleaf 和 AWS 控制台等，经 Caddy 反向代理提供服务，作为 OSWorld-V2 任务所用的网站。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-task-web-osworld-web/
+- 原始来源：https://github.com/Task-Web/OSWorld-web
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、评测、网页导航
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:task-web/osworld-web
+
+### 范围记录
+
+Each app is a git submodule with its own web-compose.yml, cloned over SSH, and runs on port 3000 under a configurable HOST_SUFFIX domain. The OSWorld-V2 README pins tags of this repository, such as osworld-v2.1 and v2026.08.08, for its benchmark releases.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-task-web-osworld-web/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Task-Web/OSWorld-web/60c89fe6a8ed934668619d8d26132848239eb8ee/README.md（获取于 2026-11-10T03:00:59Z；SHA-256：9d5b4c9bd1c2b46dace3f7d9b666d8b906d8b19f5ac6d86ce1440570703e6642）
+
+---
+
 ## redroid
 
 redroid 在 Linux 主机上提供容器化 Android 实例，配有 ADB 连接和可配置显示设置，可用于移动端自动化环境。
@@ -2111,6 +2177,40 @@ The README includes image and data setup for GitLab, shopping sites, Reddit, Wik
 ### 一手证据
 
 - https://raw.githubusercontent.com/mahirlabibdihan/webarena-docker/HEAD/README.md（获取于 2026-11-09T19:56:59Z；SHA-256：0a2f11ae610d352b5064e85d4d55c90059066adf3edf7775eaf5c24ec7e14b35）
+
+---
+
+## webarena-setup
+
+一组 Shell 脚本，用于加载 WebArena 和 VisualWebArena 的 Docker 镜像，创建并修补站点容器，提供主页，并可在两次智能体评测之间运行重置服务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-gasse-webarena-setup/
+- 原始来源：https://github.com/gasse/webarena-setup
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、评测、网页导航
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:gasse/webarena-setup
+
+### 范围记录
+
+The webarena/ and visualwebarena/ folders each hold numbered scripts configured through 00_vars.sh. The Docker image archives come from the official WebArena and VisualWebArena repositories, and WebArena's OpenStreetMap files from Zenodo.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-gasse-webarena-setup/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/gasse/webarena-setup/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/gasse/webarena-setup/8d0e0a20d50e4a8c02d1520195182e19fc3c080f/README.md（获取于 2026-11-10T03:00:59Z；SHA-256：fc6e9cb1e2fd60c1b7b7de639b66790cb78d74c6766709225053ddbebba26e39）
+- https://raw.githubusercontent.com/gasse/webarena-setup/HEAD/LICENSE（获取于 2026-11-10T02:08:09Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 

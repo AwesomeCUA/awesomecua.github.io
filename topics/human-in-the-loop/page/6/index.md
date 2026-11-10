@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/human-in-the-loop/page/6/
 
 Full list: https://awesomecua.com/topics/human-in-the-loop/index.md
 
+- [Ruyi (如意)](https://awesomecua.com/resources/github-icesword0760-ruyi/)
 - [s1](https://awesomecua.com/resources/github-matthew-eucaristo-s1/)
 - [Sandbar](https://awesomecua.com/resources/github-jdrolls-sandbar/)
 - [ScreenBuddy](https://awesomecua.com/resources/github-nideesh1-screen-buddy/)

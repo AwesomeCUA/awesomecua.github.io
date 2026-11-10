@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/5/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [Portal Operator](https://awesomecua.com/zh/resources/github-pwmcgovern-afk-portal-operator/)：自主浏览器智能体，旨在真实浏览器中端到端操作传统保险公司网页门户。
+- [Prism-Shadow Travel Agent](https://awesomecua.com/zh/resources/github-prism-shadow-travel-agent/)：开源旅行规划浏览器智能体，可在实时预订网站上搜索和比较航班与酒店。
+- [PrivateAI for Mac](https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/)：由 Ollama 驱动的原生 macOS 本地 AI 智能体，具备系统控制、文件工具和浏览器自动化功能。
 - [QAgent](https://awesomecua.com/zh/resources/github-rishabhcli-qagent/)：QAgent 是本地优先的网页 QA 与修复智能体，具备 Electron 桌面 UI、CLI、MCP 服务器和隔离的 Git 工作树执行环境。
 - [qz-browser-agent](https://awesomecua.com/zh/resources/github-alibaba-qz-browser-agent/)：Chrome 扩展智能体读取页面 DOM 和无障碍树，跨标签页操作带索引的元素或截图坐标，并通过内置 CLI 和 MCP 桥接接收委派任务。
 - [RCI Agent](https://awesomecua.com/zh/resources/github-posgnu-rci-agent/)：MiniWoB++ 智能体，使用显式和隐式的递归批评与改进提示来优化操作计划，并将操作定位到浏览器状态。
@@ -12,6 +15,7 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/5/ · [English](ht
 - [RegionCUA](https://awesomecua.com/zh/resources/github-region-ai-region-cua/)：RegionCUA 是由本地 Ollama 驱动的桌面智能体，可探索 GUI 应用并生成带说明的截图、视频和重放脚本。
 - [Resume Autofill Agent](https://awesomecua.com/zh/resources/github-ccc-zach-resume-autofill-agent/)：AI 浏览器智能体和 Chrome 扩展，可解析简历并自主填写复杂的求职网页表单。
 - [Ribband (Agentic WebMCP)](https://awesomecua.com/zh/resources/github-somnora-agentic-webmcp/)：基于 WebMCP 协议、有来源依据的个人决策与购物浏览器智能体。
+- [RUSS](https://awesomecua.com/zh/resources/github-xnancy-russ/)：RUSS 的代码与数据：它将分步的网页帮助说明解析为 ThingTalk 语言，定位到页面元素，再执行点击、输入或向用户提问；附带一个包含 741 条说明的评测集。
 - [Ruyi (如意)](https://awesomecua.com/zh/resources/github-icesword0760-ruyi/)：Ruyi 将远程 Chrome 会话流式传输到用户浏览器，供人和 AI 协同控制，并将动作编译为自修复脚本。
 - [s1](https://awesomecua.com/zh/resources/github-matthew-eucaristo-s1/)：s1 是以语音为主要交互方式的 macOS 计算机使用智能体，可检查无障碍树、执行 UI 动作并显示可审查的步骤记录。
 - [Scout](https://awesomecua.com/zh/resources/github-outcrawlai-scout/)：TypeScript 浏览器智能体通过 CDP 操作任意 Chromium，按观察、行动、检查循环运行，可分别选择操作、推理、视觉和提取模型，并可输出符合 JSON Schema 的答案。

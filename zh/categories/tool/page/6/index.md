@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/6/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [ChatGPT Pro Workforce for Codex](https://awesomecua.com/zh/resources/github-jemo19-chatgpt-pro-workforce/)：一项 Codex 技能，将多个已登录的 ChatGPT Pro 浏览器聊天并行编排为可审查的研究团队。
+- [ChatGPT Web Bridge](https://awesomecua.com/zh/resources/github-qiuweiliu-chatgpt-web-bridge/)：仅附接现有会话的 Chrome DevTools Protocol 桥接工具，可将有明确范围的研究工作委托给已登录的 ChatGPT Web 标签页。
+- [ChatGPT Web for Codex](https://awesomecua.com/zh/resources/github-naakto14-codex-chatgpt-web-naakto-fork/)：浏览器桥接工具，将已登录的 ChatGPT Web 会话作为 OpenAI Codex 的原生模型和工具提供方。
+- [chatgpt-desktop-mcp](https://awesomecua.com/zh/resources/github-cantbeblank96-chatgpt-mcp/)：Model Context Protocol 服务器，通过 6 个 AT-SPI2 无障碍工具开放官方 Ubuntu/Linux ChatGPT Desktop 应用。
+- [Chrest](https://awesomecua.com/zh/resources/github-amarbel-llc-chrest/)：Chrest 结合浏览器扩展、REST 守护进程、CLI 和 MCP 服务器，以编程方式管理实时 Chrome 和 Firefox 标签页及其内容。
+- [Chromanche](https://awesomecua.com/zh/resources/github-marcobazzani-chromanche/)：自托管的 Chrome Manifest V3 扩展和本地 MCP 服务器，让 AI 智能体控制实时浏览器标签页。
+- [Chrome Actuator](https://awesomecua.com/zh/resources/github-xlreon-chrome-actuator/)：浏览器辅助工具，让 Grok 和其他 AI 智能体操控已打开的 Chrome 窗口。
 - [Chrome Control MCP](https://awesomecua.com/zh/resources/github-randynorthrup-chrome-control-mcp/)：供 AI 助手使用的可见、安全的 Chrome 控制服务器，采用 MCP、Native Messaging 和 Chrome DevTools Protocol。
 - [Chrome DevTools MCP Persistent Bridge](https://awesomecua.com/zh/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/)：面向 Windows 上 OpenAI Codex 的持久化 Chrome DevTools Model Context Protocol 桥接工具，故障时默认拒绝操作。
 - [Chrome Extension Tester MCP](https://awesomecua.com/zh/resources/github-bhuvan-rj-chrome-extension-testing-mcp/)：基于 Playwright 的 Model Context Protocol 服务器，让编码智能体能够加载、检查和自主测试未打包的 Chrome 扩展。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/6/ · [English](htt
 - [devloop](https://awesomecua.com/zh/resources/github-vincentvella-devloop/)：Model Context Protocol 服务器，在统一时间线上关联无头浏览器自动化动作和开发服务器日志。
 - [DevScope Bridge](https://awesomecua.com/zh/resources/github-15273-devscope-bridge/)：本地优先的 Chrome 侧边栏与桥接工具，将 Claude Code、Cursor 和 Codex 连接到实时浏览器 DOM 与控制台状态。
 - [DevTools Lens MCP](https://awesomecua.com/zh/resources/github-aakcay5656-devtools-lens-mcp/)：Chrome DevTools Model Context Protocol 服务器，向 AI 智能体开放控制台、网络、DOM 和性能检查功能。
-- [DH.Window.UITool](https://awesomecua.com/zh/resources/github-cyberkdh-dh-window-uitool/)：Windows UI Automation 检查与脚本工具，用于分析 UI 元素树和构建可重复的桌面工作流程。
-- [DispatchShield](https://awesomecua.com/zh/resources/github-venusone-lee-dispatchshield/)：macOS 实用工具，使 Mac 在无人值守的计算机使用智能体运行期间保持唤醒，同时保护活动会话免受本地输入干扰。
-- [DjangoAILab DSH Plugins](https://awesomecua.com/zh/resources/github-djangoailab-dsh-plugins/)：面向 DeepSeek Harness、设有约束机制的插件套件，涵盖浏览器自动化、桌面控制、子智能体和远程服务器。
-- [DJCLIPZ Agent Controller](https://awesomecua.com/zh/resources/github-form-u-la-djclipz-agent-controller/)：入门套件和控制器，供 AI 智能体通过编程方式驱动 DJCLIPZ 浏览器媒体应用。
-- [doc-agent](https://awesomecua.com/zh/resources/github-samuel-as-doc-agent/)：一项 Claude Code 技能，通过在实时浏览器中执行网页流程，生成带标注截图的流程文档。
-- [DOMShell](https://awesomecua.com/zh/resources/github-apireno-domshell/)：DOMShell 通过 CDP 和 MCP，将实时 Chrome 浏览器 DOM 树作为虚拟 Unix 文件系统（`cd`、`ls`、`click`、`text`）提供给 LLM 智能体。
-- [Drisp Browser MCP](https://awesomecua.com/zh/resources/github-drisplabs-browser-mcp/)：Drisp Browser 是节省 token 的浏览器自动化 MCP 服务器，提供精简的语义页面快照和有状态动作。

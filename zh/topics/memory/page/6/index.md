@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/memory/index.md
 
+- [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)
+- [LKO Mark 3.4](https://awesomecua.com/zh/resources/github-shubhransh-gupta-lko-mark-3-4/)
 - [LLM Wiki for Chrome](https://awesomecua.com/zh/resources/github-nvk-llm-wiki-chrome/)
 - [Lumen browser agent](https://awesomecua.com/zh/resources/github-omxyz-lumen/)
 - [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/)

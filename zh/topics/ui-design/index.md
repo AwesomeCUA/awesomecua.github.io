@@ -244,6 +244,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Web-application QA and analysis MCP server exposing 74 Playwright tools for authenticated flows, visual regression, and accessibility audits.
 - [Pi Desktop for Windows](https://awesomecua.com/zh/resources/github-ayouyi-pi-desktop-for-windows/) — Date not recorded
   Native Windows desktop GUI client and workspace for the Pi coding and computer-use agent.
+- [Pix to App](https://awesomecua.com/zh/resources/github-soumikmohianuta-pixtoapp/) — Date not recorded
+  A Python pipeline that turns a mobile app screenshot into an Android project, using Canny edge contours for the view hierarchy, Tesseract OCR for text and generated layout, style, color and string XML.
 - [PixelCheck](https://awesomecua.com/zh/resources/github-xcodethink-pixelcheck/) — Date not recorded
   Drop-in MCP server providing five visual browser primitives for frontend coding agents to inspect, screenshot, and verify live web UIs.
 - [Polyform a11y-guide](https://awesomecua.com/zh/resources/github-polyform-ai-a11y-guide/) — Date not recorded
@@ -270,6 +272,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Codex skill for converting UI screenshots and live websites into React, Vue, or HTML code with visual browser verification.
 - [UI2Code^N](https://awesomecua.com/zh/resources/github-zai-org-ui2code-n/) — Date not recorded
   A UI-to-code system that drafts interface code from screenshots and refines it through repeated rendering and visual feedback. The repository provides demos and evaluation scripts.
+- [UXAgent](https://awesomecua.com/zh/resources/url-2f73fe78c423e263d451/) — Date not recorded
+  Usability-testing system that generates simulated user personas, has LLM agents work through a target website via a browser connector, and shows their survey answers and action logs in a result viewer.
 - [Venxuix Dccide](https://awesomecua.com/zh/resources/github-venxuix-dccide-venxuix/) — Date not recorded
   2D/3D agentic operating environment layered above Windows where humans and AI agents co-orchestrate desktop tasks.
 - [Voice Mirror](https://awesomecua.com/zh/resources/github-contextmirror-voice-mirror/) — Date not recorded

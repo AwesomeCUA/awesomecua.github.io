@@ -25,7 +25,7 @@ The repository publishes per-application reference JSON files and score.py. It e
 - 评测方式：The scorer consumes OSWorld results and a specified maximum step budget; the README distinguishes single-action and grouped-action WES+ and WES-.
 - 侧重：action efficiency relative to humans
 - 观测：OSWorld result trajectories, human reference actions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 

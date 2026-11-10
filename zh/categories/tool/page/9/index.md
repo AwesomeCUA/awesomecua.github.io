@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/9/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [MCP Virtual Cursor](https://awesomecua.com/zh/resources/github-sos2778-mcp-virtual-cursor/)：macOS 计算机使用 MCP 服务器，通过辅助功能动作和虚拟光标操作应用，无需接管物理鼠标。
+- [MCP Windows Desktop Automation](https://awesomecua.com/zh/resources/github-mario-andreschak-mcp-windows-desktop-automation/)：MCP Windows Desktop Automation 是一个 TypeScript Model Context Protocol 服务器，提供 50 个 AutoIt 桌面控制、窗口和截图工具。
+- [mcp-anything](https://awesomecua.com/zh/resources/github-zaymadkid-mcp-anything/)：由 7 个 Model Context Protocol 服务器组成的套件，提供 228 项工具，将桌面应用和系统服务连接到 AI 智能体。
+- [mcp-camoufox](https://awesomecua.com/zh/resources/github-agelyhq-mcp-camoufox/)：基于具有反检测功能的 Camoufox Firefox 浏览器构建的浏览器自动化 MCP 服务器，用于智能体导航时绕过机器人拦截。
+- [mcp-chrome-bridge](https://awesomecua.com/zh/resources/github-wizardofweb125-lab-mcp-chrome-bridge/)：用于控制 Chrome 标签页、表单、控制台及网络日志、截图和 GIF 录制的 Model Context Protocol 服务器。
+- [MCP-CodexGPT](https://awesomecua.com/zh/resources/github-mosmotov-mcp-codexgpt/)：跨平台 Model Context Protocol 桥接工具，供 Codex 或 Claude Code 对 ChatGPT Web 的代码和计划进行确定性审查。
+- [mcp-dia](https://awesomecua.com/zh/resources/github-aissablk1-mcp-dia/)：Model Context Protocol 服务器，通过 Chrome DevTools Protocol 控制 Dia Browser 的标签页、页面和内置 AI 功能。
 - [mcp-linux-desktop](https://awesomecua.com/zh/resources/github-wizardofweb125-lab-mcp-linux-desktop/)：用于全面控制 Linux 桌面的 Model Context Protocol 服务器，涵盖窗口、鼠标、键盘、剪贴板、音频、OCR 和无障碍功能。
 - [MCP-RealBrowser](https://awesomecua.com/zh/resources/github-obbbba-mcp-realbrowser/)：Model Context Protocol 服务器，通过保持登录状态的持久化浏览器配置文件提供 20 个浏览器工具。
 - [mcp-remote-macos-use](https://awesomecua.com/zh/resources/github-baryhuang-mcp-remote-macos-use/)：MCP 服务器让 Claude Desktop 等 LLM 客户端经 Mac 内置 Screen Sharing 控制远程 Mac，通过 VNC 返回截图并发送按比例缩放的鼠标、键盘、滚动和拖动操作。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/9/ · [English](htt
 - [PortaMCP](https://awesomecua.com/zh/resources/github-tnlegend-portamcp/)：面向 Windows 自动化的客户端无关 Model Context Protocol 服务器和安全的桌面控制中心。
 - [Prism AI Screen Reader](https://awesomecua.com/zh/resources/github-chrismannina-prism-ai-screen-reader/)：Prism 是 macOS 屏幕阅读器和活动分析器，可捕获截图，并使用视觉语言模型总结用户的桌面工作流程。
 - [Prism Browser Community](https://awesomecua.com/zh/resources/github-dfarm6-prism-browser-community/)：基于 Chromium 和 Electron、优先在本地运行的开源多配置文件指纹浏览器，用于隔离的网页自动化。
-- [ProBrowser MCP Server](https://awesomecua.com/zh/resources/github-momadhuynh04-probrowser/)：面向 AI 智能体、具备反检测能力的真实浏览器自动化 Model Context Protocol 服务器。
-- [Procore Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-procore-browser-automation/)：面向 Procore 的浏览器自动化脚手架，提供施工信息请求、报审跟踪、每日日志和项目报告导出操作。
-- [Prodjest (DSH Browser Bridge)](https://awesomecua.com/zh/resources/github-hedelka-prodjest/)：面向 DeepSeek Harness 的视觉 Chrome 浏览器桥接工具，支持用户交互式监督。
-- [ProdPoke MCP Server](https://awesomecua.com/zh/resources/github-prodpoke-prodpoke-mcp/)：AI QA 测试 MCP 服务器，可启动真实浏览器执行探索性用户操作流程并报告 UI 缺陷。
-- [Product Demo Video Skill](https://awesomecua.com/zh/resources/github-afnanksalal-product-demo-video-skill/)：适用于 Codex 和 Claude 的 Agent Skill，通过在浏览器中操作实时网页产品，录制与真实操作关联的演示视频。
-- [Puppeteer MCP Server](https://awesomecua.com/zh/resources/github-sultannaufal-puppeteer-mcp-server/)：可自行托管的 Puppeteer MCP 服务器，支持远程 Server-Sent Events（SSE）传输、API 密钥认证和 Docker 部署。
-- [pursr](https://awesomecua.com/zh/resources/github-0xheycat-pursr/)：集视觉质量检查、无障碍审计、截图差异比较和 MCP 浏览器自动化于一体的工具包。

@@ -2,7 +2,7 @@
 
 Computer-use benchmarks are task suites and environments that score agents operating web browsers, desktop applications or mobile devices. Each pairs a fixed set of tasks with an evaluator, such as execution-based state checks, answer matching or target localization.
 
-> 300 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
+> 305 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -23,15 +23,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which benchmarks are mentioned most in the catalog?
 
-[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) (60 records), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) (30 records) and [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) (21 records) are mentioned in the reviewed sources of the most other catalog records.
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) (60 records), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) (31 records) and [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) (21 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these benchmarks cover?
 
-Of 300 reviewed benchmarks, 207 are tagged web, 94 desktop, 43 mobile and 28 cross-platform; 12 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 305 reviewed benchmarks, 209 are tagged web, 95 desktop, 44 mobile and 28 cross-platform; 13 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which benchmarks have an official leaderboard?
 
-25 of 300 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
+25 of 305 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
 
 ### How many benchmarks are interactive and how many offline?
 
@@ -39,7 +39,7 @@ Of 94 benchmarks with a recorded protocol, 56 are interactive, 34 are offline an
 
 ### Which licenses do benchmarks declare?
 
-The most common declared licenses are MIT (118), Apache-2.0 (70) and CC-BY-4.0 (7). 96 of 300 have no declared license in their record.
+The most common declared licenses are MIT (119), Apache-2.0 (70) and CC-BY-4.0 (7). 100 of 305 have no declared license in their record.
 
 ---
 
@@ -997,6 +997,39 @@ Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency 
 
 ---
 
+## showdown
+
+Evaluation code for the showdown-clicks benchmark: eval.py checks whether a model's predicted click on a macOS screenshot lands in the annotated bounding box, with integrations for Claude, Qwen, UI-TARS and others.
+
+- Catalog URL: https://awesomecua.com/resources/github-generalagents-showdown/
+- Original source: https://github.com/generalagents/showdown
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: grounding, evaluation, action-prediction
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:generalagents/showdown
+
+### Limitations
+
+The clicks/ directory holds eval.py, scripts and model integrations for Ace, Claude, Gemini, Molmo, OmniParser, OpenAI, OpenAI CUA, Qwen and UI-TARS; its .gitignore excludes data/*, and the README links the showdown-clicks-dev data on Hugging Face. The README reports accuracy with bootstrapped 95% intervals and latency per model on the 557-click dev subset of a 5,679-click collection.
+
+- Record JSON: https://awesomecua.com/resources/github-generalagents-showdown/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/generalagents/showdown/86cbd20d161eb3a3e49babe677a26dcec4beb91a/README.md (retrieved 2026-11-10T03:00:59Z; SHA-256 bce749a655255ac4100318b93fd8a40f381b90f093c38f7884edd1f8b3de593b)
+
+---
+
 ## MiniWoB++
 
 Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled from Python through a Gymnasium API that drives the browser with Selenium.
@@ -1934,6 +1967,40 @@ Framework and evaluation resources for real-world web agents.
 
 ---
 
+## WebCanvas_showcase
+
+A showcase that connects web agent frameworks to WebCanvas online evaluation; its SEEACT folder runs SeeAct on live websites and scores the key nodes it hits on Mind2Web-Live tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-imeanai-webcanvas-showcase/
+- Original source: https://github.com/iMeanAI/WebCanvas_showcase
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:imeanai/webcanvas_showcase
+
+### Limitations
+
+SEEACT holds the SeeAct codebase with an evaluate_with_webcanvas function and a script that aggregates key node scores and task completion rates. Tree Search for Language Model Agents and tarsier are listed as planned integrations. SeeAct runs on Playwright with OpenAI, Gemini or Ollama-served LLaVA models.
+
+- Record JSON: https://awesomecua.com/resources/github-imeanai-webcanvas-showcase/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/iMeanAI/WebCanvas_showcase/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/iMeanAI/WebCanvas_showcase/5ab2a8f222536c64c5621ca9155c49dafcc04fc7/README.md (retrieved 2026-11-10T03:00:59Z; SHA-256 7cfd6fb05fe495ebf52c943f8801dc54e274948d1020eb9388ed5107b4dcb71c)
+- https://raw.githubusercontent.com/iMeanAI/WebCanvas_showcase/HEAD/LICENSE (retrieved 2026-11-10T02:08:09Z; SHA-256 dd727fb2cfafa595dffb6f600a83563e510117d027b70e4cca8e37042c0f5e82)
+
+---
+
 ## WebLINX 1.1 (WebLINX-BrowserGym)
 
 WebLINX 1.1, a reprocessed release of WebLINX's conversational web-navigation demonstrations packaged as single-step BrowserGym tasks that score one predicted browser action against the recorded turn.
@@ -2313,6 +2380,40 @@ Setting is mixed: the reasoning track scores responses over decoded app states, 
 
 ---
 
+## AgentEval
+
+Benchmark suite of the AgentGym framework: a 1,160-item test split over 14 environments, with WebShop and WebArena web tasks next to text-game, embodied, tool-use and SQL tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-85b700fbb7f1c599b7c3/
+- Original source: https://huggingface.co/datasets/AgentGym/AgentEval
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:01:09Z
+- ID: url:85b700fbb7f1c599b7c3
+
+### Limitations
+
+The repository holds one JSON test file per environment, such as webshop_test.json, webarena_test.json and alfworld_test.json, and has no dataset card. The AgentGym README lists 200 WebShop and 20 WebArena evaluation items and runs tasks through its environment servers.
+
+- Record JSON: https://awesomecua.com/resources/url-85b700fbb7f1c599b7c3/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/AgentGym/AgentEval (retrieved 2026-11-10T03:01:09Z; SHA-256 bfe6149f400f46dc3f423a9397525c98e12374b55fff997d443796f14c1fccd2)
+- https://huggingface.co/api/datasets/AgentGym/AgentEval (retrieved 2026-11-10T03:01:09Z; SHA-256 bfe6149f400f46dc3f423a9397525c98e12374b55fff997d443796f14c1fccd2)
+
+---
+
 ## AgentGauntlet
 
 Reliability CI harness for browser agents that runs identical web tasks across mutating DOM conditions to measure resilience.
@@ -2677,6 +2778,40 @@ The setup uses companion repositories as submodules. It requires a Google accoun
 
 - https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 018c86069ef7a83a2a257b104c2b3918b030369d9d2329ac9d256c2c2b3f208f)
 - https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/LICENSE (retrieved 2026-11-09T21:11:59Z; SHA-256 b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b)
+
+---
+
+## bugcraft-dataset
+
+BugCraft-Bench data: 86 Minecraft crash bug reports from Mojira with issue metadata and attachments, used to evaluate agents that reproduce each crash by operating the game with vision-based LLM control.
+
+- Catalog URL: https://awesomecua.com/resources/url-2c85ae447a0eeed51393/
+- Original source: https://huggingface.co/erayyapagci/bugcraft-dataset
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation
+- Evidence checked: 2026-11-10T03:01:03Z
+- ID: url:2c85ae447a0eeed51393
+
+### Limitations
+
+Each bugcraft_bench/MC-<id> folder holds issue.json, websites.json and the report's attachments such as screenshots, crash logs, videos and zip files; no license is stated. The project page reports 34.9% end-to-end reproduction for BugCraft with GPT-4.1 and 25.5% for the OpenAI Computer Use Agent.
+
+- Record JSON: https://awesomecua.com/resources/url-2c85ae447a0eeed51393/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/models/erayyapagci/bugcraft-dataset (retrieved 2026-11-10T03:01:03Z; SHA-256 c127cfb95d664b75afa0ac6325fa261f6c1c6f21fa3b635ec55ad11704d300f0)
+- https://huggingface.co/api/models/erayyapagci/bugcraft-dataset (retrieved 2026-11-10T03:01:03Z; SHA-256 c127cfb95d664b75afa0ac6325fa261f6c1c6f21fa3b635ec55ad11704d300f0)
 
 ---
 
@@ -3806,6 +3941,40 @@ The task count was checked against unique task_id values in the published manife
 - https://os-copilot.github.io/OpenMobile2-Home/ (retrieved 2026-10-17T01:46:06Z; SHA-256 9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc)
 - https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json (retrieved 2026-10-17T01:50:11Z; SHA-256 35c1641b349201c68917fbe4c4036814487678e9588d9b1c903af26917800316)
 - https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/LICENSE (retrieved 2026-10-17T01:52:51Z; SHA-256 7618cd7de039c264759ca8ca0b9130c6de63a4536dcf436baedd4cfbf639073e)
+
+---
+
+## MobileRisk
+
+Annotated Android agent trajectories, split into safe and unsafe sets, for the OS-Sentinel benchmark that measures how well detectors flag unsafe mobile GUI agent actions.
+
+- Catalog URL: https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/
+- Original source: https://huggingface.co/datasets/OS-Copilot/MobileRisk
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: safety-security, evaluation, mobile-navigation
+- Evidence checked: 2026-11-10T03:01:14Z
+- ID: url:ca7bfba3981fc7e5b3bf
+
+### Limitations
+
+Files are zip archives such as safe_du.zip, safe_mi.zip and unsafe_mi.zip; the Hub preview shows 3,906 image rows. The OS-Sentinel README evaluates VLM and LLM detectors with pipeline/eval.py and related scripts, which need an API key.
+
+- Record JSON: https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/OS-Copilot/MobileRisk (retrieved 2026-11-10T03:01:14Z; SHA-256 71e79e2f4b105fc19ceb7f961373ce7d07c2748dd5977b42e7f0043bc7f2dc26)
+- https://huggingface.co/api/datasets/OS-Copilot/MobileRisk (retrieved 2026-11-10T03:01:14Z; SHA-256 71e79e2f4b105fc19ceb7f961373ce7d07c2748dd5977b42e7f0043bc7f2dc26)
 
 ---
 

@@ -28,10 +28,10 @@ The dataset card holds only license metadata; the description and scope come fro
 
 ### 数量记录
 
-- 2,166 task trajectory directories with traj.jsonl — six run directories at Hub revision b9495a8e（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
-- 6 run directories — gelato-30b/run_1-3 and gta1-32b_baseline/run_1-3 at Hub revision b9495a8e（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
-- 361 distinct OS-World tasks — each run directory at Hub revision b9495a8e (the same task set in all six)（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
-- 34,598 PNG screenshots — six run directories at Hub revision b9495a8e（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 2,166 个含 traj.jsonl 的任务轨迹目录 — six run directories at Hub revision b9495a8e（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 6 个运行目录 — gelato-30b/run_1-3 and gta1-32b_baseline/run_1-3 at Hub revision b9495a8e（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 361 个不重复的 OS-World 任务 — each run directory at Hub revision b9495a8e (the same task set in all six)（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
+- 34,598 张 PNG 截图 — six run directories at Hub revision b9495a8e（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618）
 
 Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository. Directories, tasks and screenshots are different units and are counted separately.
 

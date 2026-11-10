@@ -25,14 +25,14 @@ Public Parquet configs separate trajectories from per-reviewer annotations. The 
 - 评测方式：Agreement metrics including Cohen’s kappa, accuracy and F1 against human annotations; review stages must be kept distinct.
 - 侧重：verifier-human agreement, process quality
 - 观测：screenshots, action logs, final answers
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 106 trajectories — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
-- 154 trajectories — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
-- 215 annotation rows — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
-- 154 annotation rows — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 106 条轨迹 — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 154 条轨迹 — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 215 行标注数据 — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 154 行标注数据 — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
 
 Trajectory rows and reviewer rows have different grains. The released Parquet files are public despite internal task labels. No payload data was downloaded.
 

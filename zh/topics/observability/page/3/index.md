@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/observability/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/observability/index.md
 
+- [Autonomous Vision Browser-Use Agent](https://awesomecua.com/zh/resources/github-therealfullmetal55555-browser-use-agent/)
+- [AutoWebNav](https://awesomecua.com/zh/resources/github-mindattic-autowebnav/)
 - [AUV](https://awesomecua.com/zh/resources/github-moeru-ai-auv/)
 - [Avenir-UX](https://awesomecua.com/zh/resources/github-onflow-ai-avenir-ux/)
 - [aworld-mcp-servers](https://awesomecua.com/zh/resources/github-qingw-dev-aworld-mcp-servers/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/observability/page/3/
 - [lnwjud (Windows MCP Access)](https://awesomecua.com/zh/resources/github-phuongt2576-lnwjud-readme/)
 - [Lumen browser agent](https://awesomecua.com/zh/resources/github-omxyz-lumen/)
 - [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/zh/resources/github-mapleluvr-cu/)
-- [MELRA](https://awesomecua.com/zh/resources/github-xagi-lab-melra/)
-- [Memori](https://awesomecua.com/zh/resources/github-memorilabs-memori/)

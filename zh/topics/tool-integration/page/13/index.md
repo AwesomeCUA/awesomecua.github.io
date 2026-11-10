@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/13/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [Forms Responder Plugin](https://awesomecua.com/zh/resources/github-luneto10-forms-responder-plugin/)
+- [FoxBridge MCP](https://awesomecua.com/zh/resources/github-sinamohsenifar-foxbridge-mcp/)
+- [Front-End Operation Master (FEOM)](https://awesomecua.com/zh/resources/github-a92070888-dev-mcp-os-native-automation/)
 - [frontprompt](https://awesomecua.com/zh/resources/github-surrealmindai-frontprompt/)
 - [FSB (Full Self Browsing)](https://awesomecua.com/zh/resources/github-fullselfbrowsing-fsb/)
 - [FSoft HyperAgent](https://awesomecua.com/zh/resources/github-fsoft-ai4code-hyperagent/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/13/
 - [HelpRelay WebMCP](https://awesomecua.com/zh/resources/github-akigarage-helprelay-webmcp/)
 - [Hemi](https://awesomecua.com/zh/resources/github-piuqiupiaqia-hemi/)
 - [Hermes Agent](https://awesomecua.com/zh/resources/github-nousresearch-hermes-agent/)
-- [Hermes Bot Kit](https://awesomecua.com/zh/resources/github-thomasbek3-hermes-bot-kit/)
-- [Hermes Browser Extension](https://awesomecua.com/zh/resources/github-catcaptions-hermes-extension/)
-- [Hermes Connector](https://awesomecua.com/zh/resources/github-corsenai-hermes-connector/)

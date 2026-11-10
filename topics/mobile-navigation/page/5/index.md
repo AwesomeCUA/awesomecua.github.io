@@ -47,6 +47,7 @@ Full list: https://awesomecua.com/topics/mobile-navigation/index.md
 - [MobileGUI-VBench](https://awesomecua.com/resources/url-d7a4f34a6a5202af5f64/)
 - [MobileGym](https://awesomecua.com/resources/github-purewhiter-mobilegym/)
 - [MobileGym++ / MobileGym++ Bench](https://awesomecua.com/resources/github-openmobile2-mobilegym-plusplus/)
+- [MobileRisk](https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/)
 - [MobileWorld (Tongyi-MAI)](https://awesomecua.com/resources/github-tongyi-mai-mobileworld/)
 - [MobileWorldBench](https://awesomecua.com/resources/github-jacklishufan-mobileworld/)
 - [MWMBench](https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/mobile-navigation/index.md
 - [Android in the Wild](https://awesomecua.com/resources/component-google-research-android-in-the-wild/)
 - [android_control_test](https://awesomecua.com/resources/url-1f248862e4b691b85343/)
 - [AndroidControl](https://awesomecua.com/resources/component-google-research-android-control/)
-- [AndroidHowTo](https://awesomecua.com/resources/github-debymf-generating-android-howto/)

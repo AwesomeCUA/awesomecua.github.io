@@ -25,7 +25,7 @@ The card distinguishes complete common-simple/common-complex JSON files from sam
 - 评测方式：Paper defines multi-path and noise/ambiguity evaluations; the public card identifies which files are full common-task sets and which are samples.
 - 侧重：offline multi-path evaluation, noisy interfaces, ambiguous instructions
 - 观测：mobile screenshots, XML UI state, instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 

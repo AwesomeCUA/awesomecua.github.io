@@ -21,14 +21,14 @@
 - 评测方式：Offline candidate and action evaluation against recorded demonstrations; the repository distinguishes macro from micro averaging.
 - 侧重：web action prediction, generalization to unseen sites and domains
 - 观测：task instructions, HTML, recorded action history
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,009 task instances — train split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
-- 252 task instances — cross-task test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
-- 177 task instances — cross-website test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
-- 912 task instances — cross-domain test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 1,009 个任务实例 — train split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 252 个任务实例 — cross-task test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 177 个任务实例 — cross-website test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 912 个任务实例 — cross-domain test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
 
 These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.
 

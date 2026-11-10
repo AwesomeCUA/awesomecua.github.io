@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/categories/benchmark/page/3/
 
 Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 
+- [GUITestBench](https://awesomecua.com/resources/github-adam-bjtu-guitestbench/)
+- [HealthEnv](https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/)
+- [HoloSkill Gym](https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/)
+- [HumanQA](https://awesomecua.com/resources/github-hotragn-humanqa/)
+- [hyprbench](https://awesomecua.com/resources/github-crispwisp-hyprbench/)
 - [Inspect Evals](https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/)
 - [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/resources/github-openbmb-tell-me-more/)
 - [Intentproof](https://awesomecua.com/resources/github-egagofur-intentproof/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [WebTestBench](https://awesomecua.com/resources/github-friedrichor-webtestbench/)
 - [WebWalker](https://awesomecua.com/resources/github-alibaba-nlp-webwalker/)
 - [WinDeskGround](https://awesomecua.com/resources/github-zzzhr-1-windeskground/)
-- [WindowsAgentArena-V2](https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/)
-- [WindowsWorld](https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/)
-- [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/)
-- [WorldGUI](https://awesomecua.com/resources/github-showlab-worldgui/)
-- [Wornpage WebMCP Conformance](https://awesomecua.com/resources/github-wornpage-webmcp-conformance/)

@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/8/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [browser-mcp](https://awesomecua.com/resources/github-sandraschi-browser-mcp/)
+- [browser-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-browser-rs-mcp/)
+- [browser-use-capsolver](https://awesomecua.com/resources/github-capsolver-browser-use-capsolver/)
 - [BrowserAct Skills](https://awesomecua.com/resources/github-browser-act-skills/)
 - [BrowserCode](https://awesomecua.com/resources/github-browser-use-browsercode/)
 - [browserctl](https://awesomecua.com/resources/github-nguyenvanhuy0612-browserctl/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Chrome MCP Docker](https://awesomecua.com/resources/github-null-runner-chrome-mcp-docker/)
 - [Chrome MCP Server (18 Tools)](https://awesomecua.com/resources/github-syedazharmbnr1-chrome-mcp-server/)
 - [Chrome Orchestrator](https://awesomecua.com/resources/github-sh7vansh-chrome-orchestrator/)
-- [chrome-eye](https://awesomecua.com/resources/github-trvux-chrome-eye/)
-- [chrome-remote-interface](https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/)
-- [chrome-use](https://awesomecua.com/resources/github-leeguooooo-chrome-use/)

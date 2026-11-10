@@ -4,6 +4,14 @@ HTML page: https://awesomecua.com/topics/automation/page/26/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [Windows Computer Use MCP (DXGI + UIA)](https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/)
+- [Windows Computer-Use Skill](https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/)
+- [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/)
+- [Windows MCP Server](https://awesomecua.com/resources/github-sbroenne-mcp-windows/)
+- [Windows Sandbox Computer Use Skill](https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/)
+- [windows-computer-use-mcp](https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/)
+- [windows-computer-use-mcp (Scan-Code & Multi-Monitor)](https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/)
+- [windows-gui-mcp](https://awesomecua.com/resources/github-dcl632-windows-gui-mcp/)
 - [Windows-MCP](https://awesomecua.com/resources/github-cursortouch-windows-mcp/)
 - [windows-mcp-server](https://awesomecua.com/resources/github-deploymenttheory-windows-mcp-server/)
 - [Windows-Use](https://awesomecua.com/resources/github-jeomon-windows-use/)
@@ -56,11 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [awb-recipes](https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/)
 - [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/)
 - [Awesome Computer Use Ecosystem](https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/)
-- [Awesome GPT-6 Astra](https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/)
-- [chromedp examples](https://awesomecua.com/resources/github-chromedp-examples/)
-- [clawtouch-skills](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/)
-- [ComputerUse.Best Expert Skills](https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/)
-- [Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent](https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/)
-- [linux-use-recipes](https://awesomecua.com/resources/github-javimosch-linux-use-recipes/)
-- [Midscene Examples](https://awesomecua.com/resources/github-web-infra-dev-midscene-example/)
-- [Solari Cookbook](https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/)

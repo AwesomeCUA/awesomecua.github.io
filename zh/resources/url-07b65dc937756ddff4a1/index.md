@@ -28,7 +28,7 @@ The publisher reports approximately 992K instruction-output pairs in its reposit
 
 ### 数量记录
 
-- ≈ 992,000 instruction-output pairs — context-aware episode training release（来源报告；来源：https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md）
+- ≈ 992,000 组指令–输出对 — context-aware episode training release（来源报告；来源：https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md）
 
 The Hub card contains only licensing metadata. The project README supports the episode-training description and rounded count; archive-level quality and exact row counts remain unverified.
 

@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [OSWorld Web](https://awesomecua.com/zh/resources/github-task-web-osworld-web/)
+- [OSWorld Windows VM images](https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/)
 - [OvoBrowser](https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser/)
 - [ovoBrowser](https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser-manger/)
 - [Oya Browser](https://awesomecua.com/zh/resources/github-oyadotai-oya-browser/)
@@ -38,6 +40,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/6/
 - [Self-Hosted Cloud Browser MCP](https://awesomecua.com/zh/resources/github-bk927-cloud-browser-mcp/)
 - [SentinelDesk](https://awesomecua.com/zh/resources/github-sentineldesk-desktop/)
 - [Serpent.AI](https://awesomecua.com/zh/resources/github-serpentai-serpentai/)
+- [serve-sim](https://awesomecua.com/zh/resources/github-evanbacon-serve-sim/)
 - [Shinken](https://awesomecua.com/zh/resources/github-meirtz-shinken/)
 - [SlyBrowser](https://awesomecua.com/zh/resources/github-virtualfanc-slybrowser/)
 - [SoftwareGym](https://awesomecua.com/zh/resources/github-mrkiing-jin-softwaregym/)
@@ -45,6 +48,8 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/6/
 - [SparkBridge](https://awesomecua.com/zh/resources/github-musicjazz5-nvidia-dgx-spark/)
 - [Steel Browser](https://awesomecua.com/zh/resources/github-steel-dev-steel-browser/)
 - [Steel Cloud](https://awesomecua.com/zh/resources/url-b940a884f200a916a61b/)
+- [Steel Node API Library](https://awesomecua.com/zh/resources/github-steel-dev-steel-node/)
+- [Steel Python API library](https://awesomecua.com/zh/resources/github-steel-dev-steel-python/)
 - [SWE-agent](https://awesomecua.com/zh/resources/github-swe-agent-swe-agent/)
 - [TabCtrl](https://awesomecua.com/zh/resources/github-g1at-tabctrl/)
 - [Tailorec Browser Orchestrator](https://awesomecua.com/zh/resources/github-tailorec-tailorec-browser-orch/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/6/
 - [vePhone](https://awesomecua.com/zh/resources/github-volcengine-vephone/)
 - [VK DeviceHub](https://awesomecua.com/zh/resources/github-vkcom-devicehub/)
 - [VNC MCP Server](https://awesomecua.com/zh/resources/github-volkan-m-vnc-mcp-server/)
-- [vnc-computer-use CLI](https://awesomecua.com/zh/resources/github-eyhn-vnc/)
-- [vnc-remote-control](https://awesomecua.com/zh/resources/github-bitranox-vnc-remote-control/)
-- [vnc-use](https://awesomecua.com/zh/resources/github-mayflower-vnc-use/)
-- [webarena-docker](https://awesomecua.com/zh/resources/github-mahirlabibdihan-webarena-docker/)
-- [WildAWM](https://awesomecua.com/zh/resources/github-msr-orchard-wildawm/)

@@ -28,10 +28,10 @@ The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agen
 
 ### 数量记录
 
-- ≈ 150,000 tasks — complete v3 release（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 143,508 examples — train split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 2,933 examples — test split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 2,933 distinct website domains — test split（计算得出；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet）
+- ≈ 150,000 个任务 — complete v3 release（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 143,508 个示例 — train split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 2,933 个示例 — test split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 2,933 个不重复的网站域名 — test split（计算得出）（来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet）
 
 Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file.
 

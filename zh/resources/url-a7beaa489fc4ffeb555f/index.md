@@ -25,21 +25,21 @@ The Hub repository holds data only: multi-part offline screenshot archives, elem
 - 评测方式：The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.
 - 侧重：demonstration-conditioned mobile GUI task execution, k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores
 - 观测：step screenshots, high-level and low-level instructions, UI element annotations, support demonstrations
-- 任务设置：mixed
+- 任务设置：混合
 
 ### 数量记录
 
-- 2,353 tasks — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 2,252 tasks — LearnGUI-Offline（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 101 tasks — LearnGUI-Online（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 2,001 tasks — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 251 tasks — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 26,184 step actions — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 3,469 step actions — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 1,423 step actions — Online-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 73 applications — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 101 task instruction files — online/low_level_instructions at the inspected revision（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
-- 101 screen recordings — online/raw_data at the inspected revision（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
+- 2,353 个任务 — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 2,252 个任务 — LearnGUI-Offline（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 101 个任务 — LearnGUI-Online（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 2,001 个任务 — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 251 个任务 — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 26,184 个步骤动作 — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 3,469 个步骤动作 — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 1,423 个步骤动作 — Online-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 73 个应用 — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 101 个任务指令文件 — online/low_level_instructions at the inspected revision（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
+- 101 段屏幕录像 — online/raw_data at the inspected revision（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
 
 Task, step-action, application and file counts are different units; these counts are reported separately. Each k-shot table row reuses the same split tasks with a different number of support demonstrations; the 1-, 2- and 3-shot rows describe those same tasks.
 

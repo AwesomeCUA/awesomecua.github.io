@@ -25,14 +25,14 @@ The card calls this the full GroundUI-18K of AgentStudio and a test set reserved
 - 评测方式：The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - 侧重：instruction-conditioned GUI element grounding
 - 观测：screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 18,026 examples — Hub split at revision f061eba2 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md）
-- 11,593 examples — platform label web（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
-- 2,476 examples — platform label desktop（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
-- 3,957 examples — platform label mobile（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
+- 18,026 个示例 — Hub split at revision f061eba2 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md）
+- 11,593 个示例 — platform label web（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
+- 2,476 个示例 — platform label desktop（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
+- 3,957 个示例 — platform label mobile（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
 
 Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; this count covers the full set.
 

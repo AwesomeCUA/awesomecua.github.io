@@ -247,6 +247,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
 
 - [VeriOS-Agent-32B](https://awesomecua.com/zh/resources/url-97040677a731edfedc2d/) — Date not recorded
   VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-VL-32B. It is released with model weights for the interaction approach described in the VeriOS paper.
+- [VeriOS-Agent-7B](https://awesomecua.com/zh/resources/url-0b0a7a841d65715d60b1/) — Date not recorded
+  A 7B OS agent model that carries out GUI actions under normal conditions and asks a person for input when it detects an untrustworthy scenario, trained in three stages with SFT and GRPO.
 
 ## 工程与产业
 

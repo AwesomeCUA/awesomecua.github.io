@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [Active Desktop Context Engine](https://awesomecua.com/zh/resources/github-amirf147-active-desktop-context-engine/)
+- [activity-frames](https://awesomecua.com/zh/resources/github-nossa-y-activity-frames/)
+- [ACUTE-CODE](https://awesomecua.com/zh/resources/github-testplay-byte-acute-code/)
 - [ADB MCP Server Pro](https://awesomecua.com/zh/resources/github-tiendung2k03-adb-mcp-server-pro/)
 - [adb-automation-mcp](https://awesomecua.com/zh/resources/github-allaudin-adb-automation-mcp/)
 - [aegis-desktop](https://awesomecua.com/zh/resources/github-mihneateodorstoica-aegis-desktop/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/5/
 - [Airbrowser MCP](https://awesomecua.com/zh/resources/github-ifokeev-airbrowser-mcp/)
 - [Airi-PC Computer Mode Runtime](https://awesomecua.com/zh/resources/github-arancione3000-airi-pc-bootstrap/)
 - [Airplane Check-In Skill](https://awesomecua.com/zh/resources/github-bee-san-airplane-checkin-skill/)
-- [alohajet CLI](https://awesomecua.com/zh/resources/github-alohabrowser-alohajet-cli/)
-- [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/zh/resources/github-altairpaca-dsh-computer-use-windows/)
-- [Alumnium](https://awesomecua.com/zh/resources/github-alumnium-hq-alumnium/)

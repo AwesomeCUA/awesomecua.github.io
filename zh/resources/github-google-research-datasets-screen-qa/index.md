@@ -24,9 +24,9 @@
 
 ### 数量记录
 
-- 68,951 question-answer pairs — original ScreenQA train split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
-- 8,614 question-answer pairs — original ScreenQA validation split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
-- 8,419 question-answer pairs — original ScreenQA test split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
+- 68,951 组问答对 — original ScreenQA train split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
+- 8,614 组问答对 — original ScreenQA validation split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
+- 8,419 组问答对 — original ScreenQA test split（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md）
 
 All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. ScreenQA Short reuses the same questions and screens; ComplexQA is a separate extension.
 

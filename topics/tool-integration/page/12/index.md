@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/12/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [dsh-plugin-ui-debug](https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/)
+- [dsh-preview](https://awesomecua.com/resources/github-viger1-dsh-preview/)
+- [dsh-reasoning-bridge](https://awesomecua.com/resources/github-shangdi178-dsh-reasoning-bridge/)
 - [dsh-record-replay](https://awesomecua.com/resources/github-humblebanana-dsh-record-replay/)
 - [dsh-socai](https://awesomecua.com/resources/github-socai-io-dsh-socai/)
 - [dsh-tabbit](https://awesomecua.com/resources/github-tabbit-browser-dsh-tabbit/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [flutter-skill](https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/)
 - [flutter_copilot](https://awesomecua.com/resources/github-anasfik-flutter-copilot/)
 - [forge (Readable ReAct Agent)](https://awesomecua.com/resources/github-musokean-forge/)
-- [Forms Responder Plugin](https://awesomecua.com/resources/github-luneto10-forms-responder-plugin/)
-- [FoxBridge MCP](https://awesomecua.com/resources/github-sinamohsenifar-foxbridge-mcp/)
-- [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/)

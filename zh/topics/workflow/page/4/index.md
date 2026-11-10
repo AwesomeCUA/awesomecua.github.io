@@ -5,6 +5,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/4/
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
 - [WorkDemo-350](https://awesomecua.com/zh/resources/url-243ab00712ba19cc2089/)
+- [ACT-SOP](https://awesomecua.com/zh/resources/url-ab4587d17c4f541bb94c/)
 - [Holo3](https://awesomecua.com/zh/resources/url-a03c649e4b14e293e2dd/)
 - [19ska Computer-Use Automation](https://awesomecua.com/zh/resources/github-19ska-computer-use-automation/)
 - [AbaoPal (阿宝Pal)](https://awesomecua.com/zh/resources/github-banye-technology-abaopal/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/4/
 - [bgivenb Typed UI Capabilities](https://awesomecua.com/zh/resources/github-bgivenb-computer-use-automation/)
 - [Blender AI Plugin](https://awesomecua.com/zh/resources/github-proyecto26-blender-ai-plugin/)
 - [bm (Conversational Grocery Browser Agent)](https://awesomecua.com/zh/resources/github-gonzalo123-bm/)
-- [Bodhi](https://awesomecua.com/zh/resources/github-bigduu-zenith/)

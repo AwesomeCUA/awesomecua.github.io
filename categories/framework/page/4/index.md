@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/framework/page/4/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [Desktop Action Agent](https://awesomecua.com/resources/github-dax0056-desktop-action-agent/)
+- [deskwork](https://awesomecua.com/resources/github-ashnkumar-deskwork/)
+- [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/)
 - [device-use](https://awesomecua.com/resources/github-labclaw-device-use/)
 - [dibs](https://awesomecua.com/resources/github-joshteravest-dibs/)
 - [Digi-Q](https://awesomecua.com/resources/github-digirl-agent-digiq/)
@@ -101,6 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Lightfeed Replayable Browser Agent](https://awesomecua.com/resources/github-lightfeed-browser-agent/)
 - [Liha WebMCP Adapter](https://awesomecua.com/resources/github-liha-app-webmcp-adapter/)
 - [Linux CUA (5omeotherguy)](https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/)
-- [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/)
-- [llm-browser-agent](https://awesomecua.com/resources/github-justifysiddh-llm-browser-agent/)
-- [LockInTime headless](https://awesomecua.com/resources/github-lockintime-headless/)

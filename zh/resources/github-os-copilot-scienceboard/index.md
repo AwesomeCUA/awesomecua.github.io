@@ -21,12 +21,12 @@
 - 评测方式：Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.
 - 侧重：scientific-software desktop workflows, GUI and code-assisted scientific tasks
 - 观测：desktop screenshots, accessibility-tree observations, set-of-marks with accessibility tree
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 169 VM task definitions — tasks/VM/**/*.json at tree 21b5eb0f; excludes tasks/Raw and tasks/Dual（计算得出；来源：https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1）
-- 6 application families — VM suite: Celestia, ChimeraX, GrassGIS, KAlgebra, Lean, TeXstudio（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md）
+- 169 个 VM 任务定义 — tasks/VM/**/*.json at tree 21b5eb0f; excludes tasks/Raw and tasks/Dual（计算得出）（来源：https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1）
+- 6 个应用系列 — VM suite: Celestia, ChimeraX, GrassGIS, KAlgebra, Lean, TeXstudio（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md）
 
 Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems. Official Docker migration documents a 20-task acceptance subset; full-suite performance uses a different scope, and legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.
 

@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/tool/page/6/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [ChatGPT Pro Workforce for Codex](https://awesomecua.com/resources/github-jemo19-chatgpt-pro-workforce/)
+- [ChatGPT Web Bridge](https://awesomecua.com/resources/github-qiuweiliu-chatgpt-web-bridge/)
+- [ChatGPT Web for Codex](https://awesomecua.com/resources/github-naakto14-codex-chatgpt-web-naakto-fork/)
+- [chatgpt-desktop-mcp](https://awesomecua.com/resources/github-cantbeblank96-chatgpt-mcp/)
+- [Chrest](https://awesomecua.com/resources/github-amarbel-llc-chrest/)
+- [Chromanche](https://awesomecua.com/resources/github-marcobazzani-chromanche/)
+- [Chrome Actuator](https://awesomecua.com/resources/github-xlreon-chrome-actuator/)
 - [Chrome Control MCP](https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/)
 - [Chrome DevTools MCP Persistent Bridge](https://awesomecua.com/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/)
 - [Chrome Extension Tester MCP](https://awesomecua.com/resources/github-bhuvan-rj-chrome-extension-testing-mcp/)
@@ -97,10 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [devloop](https://awesomecua.com/resources/github-vincentvella-devloop/)
 - [DevScope Bridge](https://awesomecua.com/resources/github-15273-devscope-bridge/)
 - [DevTools Lens MCP](https://awesomecua.com/resources/github-aakcay5656-devtools-lens-mcp/)
-- [DH.Window.UITool](https://awesomecua.com/resources/github-cyberkdh-dh-window-uitool/)
-- [DispatchShield](https://awesomecua.com/resources/github-venusone-lee-dispatchshield/)
-- [DjangoAILab DSH Plugins](https://awesomecua.com/resources/github-djangoailab-dsh-plugins/)
-- [DJCLIPZ Agent Controller](https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/)
-- [doc-agent](https://awesomecua.com/resources/github-samuel-as-doc-agent/)
-- [DOMShell](https://awesomecua.com/resources/github-apireno-domshell/)
-- [Drisp Browser MCP](https://awesomecua.com/resources/github-drisplabs-browser-mcp/)

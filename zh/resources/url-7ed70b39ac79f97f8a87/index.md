@@ -25,12 +25,12 @@ The card YAML at revision 727c857b lists one eval split of 3,120 examples in fou
 - 评测方式：eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
 - 侧重：step-level web GUI element localization, robustness to visual and instruction perturbations
 - 观测：rendered web-page screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 3,120 examples — eval split at revision 727c857b（来源报告；来源：https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md）
-- 283 distinct Mind2Web task IDs — eval split（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval）
+- 3,120 个示例 — eval split at revision 727c857b（来源报告；来源：https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md）
+- 283 个不重复的 Mind2Web 任务 ID — eval split（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval）
 
 Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.
 

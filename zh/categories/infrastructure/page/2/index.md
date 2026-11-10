@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/categories/infrastructure/page/2/ · [En
 
 完整类别注释：https://awesomecua.com/zh/categories/infrastructure/index.md
 
+- [Neo Lab](https://awesomecua.com/zh/resources/github-belarusian-neo-lab/)：Neo Lab 是 macOS 计算机使用沙箱，可用于录制示范、重放技能和测试 GUI 自动化方案。
+- [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/zh/resources/url-ce775111626bae220596/)：托管 OSWorld 的 Ubuntu 虚拟机归档，供其 VirtualBox 提供程序在 x86 主机上下载并通过 VBoxManage 导入；仓库没有数据卡或许可声明。
+- [OSWorld Windows VM images](https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/)：托管 OSWorld 预构建的 Windows 10 虚拟机：含 VMware 和 QEMU qcow2 归档，供 OSWorld 的 VMware 和 Docker 提供程序首次运行 Windows 任务时下载。
 - [Phi Browser](https://awesomecua.com/zh/resources/github-phibrowser-phibrowser-mac/)：Chromium 浏览器的原生 macOS 客户端；其智能体 Spaces 允许内置助手或外部智能体在用户授权后通过 DevTools Protocol 套接字控制窗口，用户可观看并接管。
 - [qdesk](https://awesomecua.com/zh/resources/github-jackwangfeng-qdesk/)：qdesk 是开源的 AI 智能体桌面沙箱，提供可通过 HTTP 控制的隔离 Linux 和 Chromium 环境。
 - [Qubicl](https://awesomecua.com/zh/resources/github-eldanring-qubicl/)：创建隔离的本地虚拟计算机，让 AI 智能体操作私有桌面，而不触及主机会话。

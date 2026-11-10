@@ -28,11 +28,11 @@ The card reports agent model anthropic/claude-opus-5 at max thinking effort on a
 
 ### 数量记录
 
-- 134 clean task runs — osworld-v2.1 release as described by the card（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs/raw/abfb5852189f49e81255c38d98287df29ae53658/README.md）
-- 134 run/task directories with traj.jsonl — runs/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
-- 108 distinct OSWorld v2.1 tasks — runs/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
-- 18 batch directories — runs/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
-- 134 per-run media TAR archives — media/ at Hub revision abfb5852（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 134 次无异常的任务运行 — osworld-v2.1 release as described by the card（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs/raw/abfb5852189f49e81255c38d98287df29ae53658/README.md）
+- 134 个含 traj.jsonl 的运行/任务目录 — runs/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 108 个不重复的 OSWorld v2.1 任务 — runs/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 18 个批次目录 — runs/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
+- 134 个按运行划分的媒体 TAR 归档 — media/ at Hub revision abfb5852（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658）
 
 Computed counts come from a script over the pinned Hub file list. A run is one task execution; some tasks ran more than once, so 134 run directories cover 108 tasks, grouped under 18 batch directories. Card headline: 0.7731 mean over tasks of each task's mean clean score (first clean run 0.7674, best 0.7938), from the benchmark grader. No task file or media archive was downloaded.
 

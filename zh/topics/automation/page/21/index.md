@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/21/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [Prism Browser Community](https://awesomecua.com/zh/resources/github-dfarm6-prism-browser-community/)
+- [Prism-Shadow Travel Agent](https://awesomecua.com/zh/resources/github-prism-shadow-travel-agent/)
+- [PrivateAI for Mac](https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/)
+- [ProBrowser MCP Server](https://awesomecua.com/zh/resources/github-momadhuynh04-probrowser/)
+- [Procore Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-procore-browser-automation/)
 - [profile-use](https://awesomecua.com/zh/resources/github-leeguooooo-profile-use/)
 - [ProfileFleet](https://awesomecua.com/zh/resources/github-enginefuture-profilefleet/)
 - [Programming with Pixels (PwP)](https://awesomecua.com/zh/resources/github-programmingwithpixels-pwp/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/21/
 - [Roadmvn linux-computer-use](https://awesomecua.com/zh/resources/github-roadmvn-linux-computer-use/)
 - [RobotGo](https://awesomecua.com/zh/resources/github-go-vgo-robotgo/)
 - [Robotgo Pro](https://awesomecua.com/zh/resources/github-vcaesar-robotgo-pro/)
-- [RobotJS](https://awesomecua.com/zh/resources/github-octalmage-robotjs/)
-- [robotsix-browser](https://awesomecua.com/zh/resources/github-damien-robotsix-robotsix-browser/)
-- [Rocuronium](https://awesomecua.com/zh/resources/github-kageroumado-rocuronium/)
-- [Rod](https://awesomecua.com/zh/resources/github-go-rod-rod/)
-- [rotary (rx4)](https://awesomecua.com/zh/resources/github-tschk-rotary/)

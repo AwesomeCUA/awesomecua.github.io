@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [chrome-eye](https://awesomecua.com/zh/resources/github-trvux-chrome-eye/)
+- [chrome-remote-interface](https://awesomecua.com/zh/resources/github-cyrus-and-chrome-remote-interface/)
+- [chrome-use](https://awesomecua.com/zh/resources/github-leeguooooo-chrome-use/)
 - [ChromeBoost](https://awesomecua.com/zh/resources/github-lordamdal-chromeboost/)
 - [Chromeflow](https://awesomecua.com/zh/resources/github-neodrew-chromeflow/)
 - [ChromeMCP (WSL2-to-Windows Bridge)](https://awesomecua.com/zh/resources/github-rizonetech-chromemcp/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/9/
 - [Codex Managed Channel](https://awesomecua.com/zh/resources/github-fantasyce-codex-managed-channel/)
 - [Codex Minecraft Gameplay](https://awesomecua.com/zh/resources/github-wz1119-codex-minecraft-gameplay/)
 - [codex-computer-use-x11](https://awesomecua.com/zh/resources/github-alekseiseleznev-codex-computer-use-x11/)
-- [codex-cua](https://awesomecua.com/zh/resources/github-manaflow-ai-codex-cua/)
-- [Cognitive Kernel-Pro](https://awesomecua.com/zh/resources/github-tencent-cognitivekernel-pro/)
-- [Collection of WebMCP tools](https://awesomecua.com/zh/resources/github-googlechromelabs-webmcp-tools/)

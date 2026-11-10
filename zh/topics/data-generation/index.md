@@ -762,6 +762,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   A training data repository for AutoGUI containing an annotated GUI set and selected vision datasets, with instructions for merging their JSON files for fine-tuning.
 - [CAGUI](https://awesomecua.com/zh/resources/url-a06622da7688e3718a7b/) — Date not recorded
   Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track for widgets and OCR text and an agent track for multi-step tasks in Chinese apps.
+- [CaptchaArena-Trajectories](https://awesomecua.com/zh/resources/url-52067b3e48e9381e4c66/) — Date not recorded
+  Chain-of-thought computer-use trajectories on 20 interactive CAPTCHA types: 46,000 browser rollouts with step screenshots and click, drag, hold or type actions, kept only when the page verifier accepts.
 - [ChilleD/WildAWM](https://awesomecua.com/zh/resources/url-eb8af3be965f5c0fde6a/) — Date not recorded
   WildAWM provides 341 computer-use tasks across CLI, MCP, and web interfaces, with frozen task worlds and training and test splits for Harbor runs.
 - [Click-100k](https://awesomecua.com/zh/resources/url-bf847949766b2b257d1c/) — Date not recorded
@@ -900,6 +902,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   OpenMobile's synthesized Android agent data: four LLaMA-Factory SFT split files built from AndroidWorld rollouts plus an archive of the original rollout trajectories and screenshots.
 - [OpenMobile-Data-v2](https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/) — Date not recorded
   Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.
+- [OpenPhone_dataset](https://awesomecua.com/zh/resources/url-e7ea65893ab264517d83/) — Date not recorded
+  Training data for the OpenPhone mobile agent: the AndroidLab training archive plus a Hugging Face vision-language set with LLM-generated reasoning and reflection chains, formatted for GRPO training.
 - [OS-Atlas Data](https://awesomecua.com/zh/resources/url-0fdeb1cf5f49f84820e6/) — Date not recorded
   GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows), mobile and web domains, with element boxes stored as relative left, top, right and bottom ratios.
 - [OS-Copilot/OS-Shepherd-100K](https://awesomecua.com/zh/resources/url-d716497286ae5cd5e762/) — Date not recorded
@@ -994,6 +998,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   The released mobile training subset for the original UI-R1 3B model, with action annotations and individual screenshot files.
 - [UI-S1 released training examples](https://awesomecua.com/zh/resources/url-16184830c0f4bdb146fa/) — Date not recorded
   A public example subset of the UI-S1 mobile training data, packaged as JSONL annotations and Parquet images.
+- [UI-Simulator_android_data](https://awesomecua.com/zh/resources/url-d32dfe60eff4b87c1d05/) — Date not recorded
+  Synthetic Android agent training data from UI-Simulator: prompts pairing a goal and a simulated UI element list with next-action responses, in RAG-free, RAG-based and two UI-Simulator-Grow splits.
 - [Uni-GUI-Desktop-1](https://awesomecua.com/zh/resources/url-20f7cdee10b0dd70815f/) — Date not recorded
   Desktop trajectories from the UI-MOPD training data, collected in OSWorld environments: 2,685 tasks across 10 app categories with step screenshots, reasoning traces, normalized actions and pyautogui code.
 - [Uni-GUI-Mobile](https://awesomecua.com/zh/resources/url-93278fa5b9e6bd0cbcef/) — Date not recorded
@@ -1026,6 +1032,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-19; the matching trajectory annotations and the other parts' frames are in the main WildGUI repository.
 - [WinDeskGround_windows](https://awesomecua.com/zh/resources/url-79b8dfa115894a7f53aa/) — Date not recorded
   WinDeskGround_windows supplies Windows application screenshots with clickable targets, bounding boxes, and referring expressions for desktop GUI grounding tasks.
+- [world_model_for_wa_desc_with_tao_dataset](https://awesomecua.com/zh/resources/url-96bb23bd687d6c227a41/) — Date not recorded
+  Training data for the world model of the WMA web agent: 14744 steps pairing an objective, previous actions, an observation and the current action with the next state and a description of what changed.
 
 ## 模型
 
@@ -1035,6 +1043,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   A screenshot-based GUI action model fine-tuned on 79,266 synthetic interaction examples. It uses a task, current screen and recent actions to predict structured computer-use calls.
 - [cua-s1-forms](https://awesomecua.com/zh/resources/url-721c94bd6f2f3edc35ba/) — Date not recorded
   A 706,048-parameter checkpoint that scores candidate actions for GUI form fields in parallel. It is released as safetensors weights with a configuration file.
+- [CUA_World_State_Model](https://awesomecua.com/zh/resources/url-f0ffbdc41c9dca4c585f/) — Date not recorded
+  SEAgent's World State Model, a Qwen2.5-VL-7B-Instruct fine-tune that assesses computer-use trajectories step by step from screenshots, used to label successes and failures and to drive curriculum task generation.
 - [Gelato](https://awesomecua.com/zh/resources/github-mlfoundations-gelato/) — Date not recorded
   Release code for Gelato-30B-A3B, a GUI click-grounding model trained with GRPO on Click-100k: EasyR1 configs, click rewards, grounding evaluation scripts and logs, and a GPT-5-planned OS-World agent harness.
 - [KV-Ground](https://awesomecua.com/zh/resources/github-vocaela-kv-ground/) — Date not recorded
@@ -1043,8 +1053,16 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   GUI-grounding checkpoint post-trained from GUI-Owl-1.5-8B-Instruct with SFT and GRPO on cleaned and synthesized high-resolution data, aimed at locating elements in large screenshots.
 - [OpenCUA](https://awesomecua.com/zh/resources/github-xlang-ai-opencua/) — Date not recorded
   Open computer-use research stack including models and training resources.
+- [OpenWebVoyager-opt-1](https://awesomecua.com/zh/resources/url-bd293c9a5f9bf16b8199/) — Date not recorded
+  OpenWebVoyager checkpoint after the first exploration-feedback-optimization round: the imitation-learned multimodal web agent further trained on successful real-website trajectories judged by GPT-4o.
 - [ScaleCUA](https://awesomecua.com/zh/resources/github-opengvlab-scalecua/) — Date not recorded
   Computer-use model family trained with cross-platform interaction data.
+- [VideoAgentTrek-IDM-s1-7B](https://awesomecua.com/zh/resources/url-280f2ab56bbc0b630d81/) — Date not recorded
+  Keyframe detection model for the VideoAgentTrek Video2Action pipeline, the first inverse-dynamics stage that finds GUI interaction moments in screen-recorded tutorial videos before a second model labels the actions.
+- [VideoAgentTrek-IDM-s2-7B](https://awesomecua.com/zh/resources/url-2e88b52ca1717a28fd32/) — Date not recorded
+  Action identification model in the VideoAgentTrek Video2Action pipeline, which recovers GUI actions such as clicks and typed text from screen-recorded tutorial videos to build computer-use training trajectories.
+- [VideoAgentTrek-ScreenFilter](https://awesomecua.com/zh/resources/url-c7e1d8863286e92c47a2/) — Date not recorded
+  Cursor-detection model in the VideoAgentTrek pipeline that filters screen-recorded tutorial videos by cursor presence before Video2Action extracts GUI action trajectories.
 - [WebVIA-Agent](https://awesomecua.com/zh/resources/url-62724cba1b5814215cf7/) — Date not recorded
   GLM-4.1V-9B-based web exploration agent from WebVIA that reads a page screenshot and DOM tree and picks click, type or select actions to reach each interactive UI state for UI-to-code work.
 - [ZeroGUI-AndroidLab-7B](https://awesomecua.com/zh/resources/url-f75cab7180d8f5264606/) — Date not recorded
@@ -1200,6 +1218,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   AI browser agent framework that inspects live web traffic to reverse-engineer site protocols into browser-free Python crawlers.
 - [rtrvr CLI & SDK](https://awesomecua.com/zh/resources/github-rtrvr-ai-rtrvr-cli/) — Date not recorded
   CLI and SDK for automating web workflows, scraping pages, and driving cloud or local browsers for AI agents.
+- [RUSS](https://awesomecua.com/zh/resources/github-xnancy-russ/) — Date not recorded
+  Code and data for RUSS, which parses step-by-step web help instructions into the ThingTalk language, grounds them to page elements, and clicks, types or asks the user; ships a 741-instruction evaluation set.
 - [SCALE-CUA (THUDM)](https://awesomecua.com/zh/resources/github-thudm-scale-cua/) — Date not recorded
   Computer-use training framework with VeriGen task synthesis, adaptive rollout sampling, and visual-context segmentation.
 - [SCOPE-Gen](https://awesomecua.com/zh/resources/github-k4ngzy-scope-gen/) — Date not recorded

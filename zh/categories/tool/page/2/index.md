@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/2/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [Open Browser Use](https://awesomecua.com/zh/resources/github-ifuryst-open-browser-use/)：Open Browser Use 提供 CLI、守护进程和 Chrome 扩展程序，用于控制保留登录状态的用户实时浏览器会话。
 - [openadapt-grounding](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-grounding/)：已归档的 GUI 元素定位工具，通过 OCR 文本锚定目标并跨帧稳定检测结果，也支持可选的模型定位后备方案。
 - [openadapt-privacy](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-privacy/)：openadapt-privacy 可清除界面录制内容中的个人及健康信息，处理文本、事件数据、无障碍元素树和屏幕截图。该仓库已归档。
 - [pdlgen](https://awesomecua.com/zh/resources/github-chromedp-pdlgen/)：Go 代码生成工具，将 Chrome DevTools Protocol 定义转换为带类型的浏览器控制接口，供 chromedp 等 Go 程序使用。
@@ -12,6 +13,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/2/ · [English](htt
 - [real-browser-mcp](https://awesomecua.com/zh/resources/github-ofershap-real-browser-mcp/)：MCP 服务器和 Chrome 扩展，使编程智能体能够控制已打开、带有现有 Cookie 和 SSO 会话的 Chrome 浏览器。
 - [rebrowser-patches](https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-patches/)：rebrowser-patches 修改 Puppeteer 和 Playwright，以减少浏览器自动化特征，并为这两个库提供可直接替换的程序包。
 - [RobotGo](https://awesomecua.com/zh/resources/github-go-vgo-robotgo/)：RobotGo 是原生 Go 跨平台桌面自动化库，可控制鼠标、键盘，进行位图屏幕捕获，并操作窗口句柄。
+- [serve-sim](https://awesomecua.com/zh/resources/github-evanbacon-serve-sim/)：一个命令行工具，通过 MJPEG 和 WebSocket 将已启动的 iOS 模拟器串流到浏览器预览页，并提供命令和 Agent Skill，让编程智能体发送点击、手势、文本输入和按键操作。
 - [sh7vansh Chrome Bridge](https://awesomecua.com/zh/resources/github-sh7vansh-chrome-bridge/)：持久化 Python 运行时与 Chrome Native Messaging 桥接工具，供 AI 智能体操控实时浏览器标签页。
 - [Synthetic GUI Samples Plugin for FiftyOne](https://awesomecua.com/zh/resources/github-harpreetsahota204-synthetic-gui-samples-plugins/)：一个 FiftyOne 插件，可增强带标注的图形界面截图和任务描述，用于训练界面理解模型，同时保留标注和变换历史。
 - [termcast](https://awesomecua.com/zh/resources/github-chromedp-termcast/)：一款 Go 工具，通过投屏帧在支持图形的终端显示 chromedp 浏览器页面，并可选择显示整个页面或单个元素。
@@ -102,5 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/2/ · [English](htt
 - [CraftDriver](https://awesomecua.com/zh/resources/github-dtopuzov-craftdriver/)：CraftDriver 通过 WebDriver 和 BiDi 自动操作浏览器，提供定位器、操作、断言、运行轨迹，以及让编程智能体检查实时网页的命令行工具。
 - [crowd-test-mcp](https://awesomecua.com/zh/resources/github-anhhuyn411-alt-crowd-test-mcp/)：Model Context Protocol 服务器，在真实浏览器中并发调度 AI 虚拟用户角色，以测试网站。
 - [cursory-js](https://awesomecua.com/zh/resources/github-jwriter20-cursory-js/)：一个生成带时间信息的鼠标轨迹，并说明如何通过浏览器输入事件回放轨迹的 TypeScript 工具。
-- [Daedalus for Chrome](https://awesomecua.com/zh/resources/github-anchor-inference-daedalus-chrome-extension/)：一个通过 Chrome 调试器 API 和浏览器守护进程，将 Daedalus 智能体连接到浏览器标签页的 Chrome 扩展。
-- [DesignRepair](https://awesomecua.com/zh/resources/github-ugaiforge-designrepair/)：DesignRepair 分析前端代码和渲染后的页面，再结合 Material Design 指南与大语言模型识别并修复界面设计问题。

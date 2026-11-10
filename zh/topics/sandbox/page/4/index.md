@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/zh/resources/github-shayanamir0-computer-use-with-slm/)
 - [computer-use-mcp-gateway](https://awesomecua.com/zh/resources/github-git-ksk-computer-use-mcp-gateway/)
 - [CopilotKit OpenBot](https://awesomecua.com/zh/resources/github-copilotkit-openbot/)
 - [Ctrip Android App](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-ctrip/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/4/
 - [Harborage](https://awesomecua.com/zh/resources/github-vadym-iefremov-harborage/)
 - [headless-use](https://awesomecua.com/zh/resources/github-flyingsquirrel0419-headless-use/)
 - [HeroDesktop](https://awesomecua.com/zh/resources/github-deathlegionteamlk-herodesktop/)
-- [Hronaut](https://awesomecua.com/zh/resources/github-hronaut-hronaut/)

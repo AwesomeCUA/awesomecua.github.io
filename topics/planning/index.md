@@ -662,6 +662,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Original WebChain release of human-annotated trajectories on live websites, with raw JSON records, viewport and partial full-page screenshots, and Parquet files for high-level planning and low-level grounding steps.
 - [WebChain v2](https://awesomecua.com/resources/url-56f08987cc19b82dc607/) — Date not recorded
   Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-level and Seed-style sliding-window SFT Parquet with aligned screenshots, plus action metadata and a 150-trace evaluation subset.
+- [weboperator-experiments](https://awesomecua.com/resources/url-a12c18540006368e69ab/) — Date not recorded
+  Run logs of the WebOperator web agent with gpt-4o on 812 WebArena tasks and a 155-task WebArena-lite ablation, holding per-task trajectories, search trees, screenshots and scores.
 - [WorldGUI-Bench](https://awesomecua.com/resources/url-b540fe81c57cedb1f556/) — Date not recorded
   A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
 
@@ -669,6 +671,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 
 - [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) — Date not recorded
   Vision-based GUI agent models with unified action representations.
+- [Aguvis-7B-720P](https://awesomecua.com/resources/url-ac62da857db91f68376b/) — Date not recorded
+  Aguvis-7B-720P, the released Aguvis checkpoint: a vision-only GUI agent model trained first for grounding and then for planning and reasoning, acting from screenshots on web, desktop and mobile.
 - [Claude Computer Use](https://awesomecua.com/resources/url-57f17b7d0c18b2d7c8bf/) — Date not recorded
   Claude tool capability for screenshot-based computer interaction.
 - [CODA-PLANNER-TARS-32B](https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/) — Date not recorded
@@ -757,10 +761,14 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent framework that translates high-level plans into browser actions.
 - [Plan-and-Act Planner 70B](https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/) — Date not recorded
   The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
+- [Qwen3-VL-8B-Instruct-MobileWorld-SFT](https://awesomecua.com/resources/url-e58270c90ea4fa83cfb4/) — Date not recorded
+  Qwen3-VL-8B-Instruct fine-tuned on the MobileWorld dataset as a semantic world model that describes in natural language how a mobile GUI screen changes after an action, for planning by mobile agents.
 - [ScaleCUA](https://awesomecua.com/resources/github-opengvlab-scalecua/) — Date not recorded
   Computer-use model family trained with cross-platform interaction data.
 - [ScaleCUA 7B](https://awesomecua.com/resources/url-ff7b1873a3eead89607a/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent action modes across desktop, mobile and web interfaces.
+- [ScreenAgent](https://awesomecua.com/resources/url-92b5cb08491c09243b72/) — Date not recorded
+  ScreenAgent-2312 weights in SAT format, a CogAgent-based vision-language model that drives the ScreenAgent environment, issuing mouse and keyboard actions over VNC in plan, act and reflect stages.
 - [THUDM/cogagent-chat-hf](https://awesomecua.com/resources/url-5726382dc813f040f829/) — Date not recorded
   A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans, next actions, and coordinates. The card describes use with web, desktop, and mobile interfaces.
 - [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) — Date not recorded
@@ -771,6 +779,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and desktop in one end-to-end agent, trained with keypoint-based multi-judge task verification.
 - [UI-Venus 2 9B](https://awesomecua.com/resources/url-611df37e5f3caa6befd7/) — Date not recorded
   UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16 parameters in the Qwen3.5 multimodal architecture, loaded through Transformers for image-text-to-text.
+- [webarena-world-model-rlvr](https://awesomecua.com/resources/url-e02a165e76cd7c43e2ca/) — Date not recorded
+  A language world model for web page state prediction on WebArena, post-trained with RLVR from an SFT checkpoint and used for model predictive control of web agents.
 - [WebThinker-QwQ-32B](https://awesomecua.com/resources/url-e058cc2487a805f976fd/) — Date not recorded
   WebThinker-QwQ-32B is a released reasoning model for searching and navigating web pages while drafting research reports. Its card describes training on preferences derived from reasoning trajectories.
 - [WebThinker-R1-14B](https://awesomecua.com/resources/url-7d198acee96b3ec197aa/) — Date not recorded

@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/sandbox/page/5/
 
 Full list: https://awesomecua.com/topics/sandbox/index.md
 
+- [Hronaut](https://awesomecua.com/resources/github-hronaut-hronaut/)
 - [Hronaut](https://awesomecua.com/resources/github-hronaut-hronaut-vscode/)
 - [Hronaut](https://awesomecua.com/resources/url-848e19da3bdf0aeb500c/)
 - [Hronaut for Claude Code](https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [Orbit UI](https://awesomecua.com/resources/github-aadya940-orbit-ui/)
 - [OSWorld Ubuntu VM images](https://awesomecua.com/resources/url-346ca54794cbdffc8797/)
 - [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/resources/url-ce775111626bae220596/)
-- [OSWorld Windows VM images](https://awesomecua.com/resources/url-232a1698849e2fea425c/)

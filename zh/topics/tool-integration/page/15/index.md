@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/15/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [Kyros Local Desktop Assistant](https://awesomecua.com/zh/resources/github-rhymezip-kyros-local-desktop-assistant/)
+- [Label Controllers](https://awesomecua.com/zh/resources/github-amywlp-label-controllers/)
+- [LAI (Linux Native OS Agent)](https://awesomecua.com/zh/resources/github-cufelix-lai/)
 - [LASSO WebMCP](https://awesomecua.com/zh/resources/github-smkzz-lasso/)
 - [Latch](https://awesomecua.com/zh/resources/github-freezetheworld-latch/)
 - [lauyuen stealth-browser-mcp](https://awesomecua.com/zh/resources/github-lauyuen-stealth-browser-mcp/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/15/
 - [MCP Desktop Automation](https://awesomecua.com/zh/resources/github-tanob-mcp-desktop-automation/)
 - [MCP for Blender](https://awesomecua.com/zh/resources/github-ahujasid-blender-mcp/)
 - [MCP Link Server](https://awesomecua.com/zh/resources/github-aurafriday-mcp-link-server/)
-- [MCP Master Puppeteer](https://awesomecua.com/zh/resources/github-flrngel-mcp-master-puppeteer/)
-- [MCP Session Bridge](https://awesomecua.com/zh/resources/github-t3ratech-mcp-session-bridge/)
-- [MCP Virtual Cursor](https://awesomecua.com/zh/resources/github-sos2778-mcp-virtual-cursor/)

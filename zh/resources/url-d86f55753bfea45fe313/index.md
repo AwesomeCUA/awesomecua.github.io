@@ -25,14 +25,14 @@ The card calls this a test set and asks that it be reserved from training, altho
 - 评测方式：The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - 侧重：instruction-conditioned GUI element grounding
 - 观测：screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,000 examples — Hub split at revision 5d18efc3 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md）
-- 400 examples — platform label web（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
-- 300 examples — platform label desktop（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
-- 300 examples — platform label mobile（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
+- 1,000 个示例 — Hub split at revision 5d18efc3 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md）
+- 400 个示例 — platform label web（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
+- 300 个示例 — platform label desktop（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
+- 300 个示例 — platform label mobile（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
 
 Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the subset, while the larger set is a separate Hub repository. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.
 

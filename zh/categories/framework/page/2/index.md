@@ -35,6 +35,7 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [Qontinui](https://awesomecua.com/zh/resources/github-qontinui-qontinui/)：Qontinui 是基于模型的 GUI 自动化框架，以状态图表示应用屏幕，并使用视觉模板和 OCR 匹配。
 - [RecreationWorld](https://awesomecua.com/zh/resources/github-qwenlm-recreationworld/)：面向混合式计算机使用智能体的框架，让智能体探索运行中的参考应用、使用编程工具编写复刻版本，并在五类平台上验证行为。
 - [redux-webmcp](https://awesomecua.com/zh/resources/github-breeznik-redux-webmcp/)：这是面向 Redux Toolkit 应用的 WebMCP 桥接库，让浏览器智能体执行获准的操作并查看状态变化。开发者可要求特定操作先获得批准。
+- [RLVR-World](https://awesomecua.com/zh/resources/github-thuml-rlvr-world/)：RLVR-World 使用可验证强化学习训练世界模型，预测网页和游戏智能体的状态转移。
 - [RPA for Python](https://awesomecua.com/zh/resources/github-tebelorg-rpa-python/)：RPA for Python 在 TagUI 之上提供 Python API，通过视觉 OCR 自动操作网站和桌面 GUI 应用，并自动执行命令行工作流。
 - [SCOPE-Gen](https://awesomecua.com/zh/resources/github-k4ngzy-scope-gen/)：一个为 OSWorld 生成并验证桌面图形界面任务的框架；它还会在保留原始目标和完成度评估器的前提下，构造配对的安全任务。
 - [SE-GUI](https://awesomecua.com/zh/resources/github-yxb-nku-se-gui/)：SE-GUI 提供 GUI 元素定位模型的训练与评测代码，通过位置奖励和注意力反馈改进定位，并链接另行发布的权重与种子数据。
@@ -43,6 +44,8 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [Snapsurf](https://awesomecua.com/zh/resources/github-zumerlab-snapsurf/)：面向 AI 智能体的网页导航和验证层，提供精简的语义页面摘要和带类型的动作后 DOM 差异。
 - [Solari Research Suite: ARC & ColdStart](https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/)：这套研究工具结合了基于辅助功能信息的浏览器智能体运行框架，以及会改变网页任务应用并依据数据库状态验证操作结果的评测框架。
 - [spider-browser](https://awesomecua.com/zh/resources/github-spider-rs-spider-browser/)：这是一个云端浏览器 SDK，提供页面控制、自然语言操作、元素观察和自主智能体运行，并支持多种编程语言。
+- [Steel Node API Library](https://awesomecua.com/zh/resources/github-steel-dev-steel-node/)：Steel 云浏览器 API 的 TypeScript 与 JavaScript 客户端，提供类型化调用，用于创建浏览器会话、发送计算机操作、处理验证码，以及管理文件、配置文件和凭据。
+- [Steel Python API library](https://awesomecua.com/zh/resources/github-steel-dev-steel-python/)：Steel 云浏览器 API 的 Python 客户端，提供同步与异步客户端以及类型化调用，用于创建浏览器会话、发送计算机操作、解决验证码，以及管理文件和浏览器配置档案。
 - [SteP (Stacked LLM Policies)](https://awesomecua.com/zh/resources/github-asappresearch-webagents-step/)：SteP 实现动态组合的马尔可夫式 LLM 策略，用于在 WebArena 上执行多步网页导航和任务。
 - [Surfkit](https://awesomecua.com/zh/resources/github-agentsea-surfkit/)：用于构建、发布和运行多模态设备操作智能体的 Python 工具包与 CLI，支持在本地或 Kubernetes 上操作 Ubuntu 桌面等设备，并提供任务跟踪器和智能体中心。
 - [Synapse](https://awesomecua.com/zh/resources/github-ltzheng-synapse/)：Synapse 是计算机操作研究实现，从记忆中检索示例轨迹，抽象与任务相关的状态，并通过提示引导智能体完成浏览器任务。
@@ -101,6 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [AndroTMem inference and evaluation code](https://awesomecua.com/zh/resources/github-cvc2233-androtmem/)：公开的 Android GUI 评估框架，提供操作历史、摘要和锚定记忆提示模式，以及分步操作评分和考虑依赖关系的任务评分。
 - [anpl1623 AgentOS](https://awesomecua.com/zh/resources/github-anpl1623-agentos/)：本地优先的开源智能体运行时，用于在用户个人计算机上安全执行 AI 驱动的任务。
 - [AntyBrowser SDK](https://awesomecua.com/zh/resources/github-antybrowser-sdk/)：用于操作 AntyBrowser 反检测浏览器配置的官方多语言 SDK（TypeScript、Python、C#、Go、PHP、Ruby）。
-- [anybridge](https://awesomecua.com/zh/resources/github-justvugg-anybridge/)：从实时浏览器会话中捕获网站已认证的网络调用，并将其作为可供任何 AI 智能体调用的工具。
-- [AnyBrowser](https://awesomecua.com/zh/resources/github-christopher-inegbedion-anybrowser/)：可插拔的浏览器自动化与网页智能体运行时，支持替换 LLM 提供方和浏览器引擎。
-- [AnyTool](https://awesomecua.com/zh/resources/github-hkuds-anytool/)：AnyTool 是面向 AI 智能体的通用工具使用层，支持 MCP、GUI、网页和 shell 工具，并具备分层检索与自我反思能力。

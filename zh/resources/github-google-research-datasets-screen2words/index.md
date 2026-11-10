@@ -24,8 +24,8 @@
 
 ### 数量记录
 
-- 112,085 summaries — screen2words release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
-- 22,417 screens — RICO screens referenced by screen2words（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
+- 112,085 条摘要 — screen2words release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
+- 22,417 个界面 — RICO screens referenced by screen2words（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md）
 
 Multiple summaries describe one screen. The repository provides annotations and split files; use the referenced RICO assets for screenshots.
 

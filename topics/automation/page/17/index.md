@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/automation/page/17/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/)
+- [Market Basket Agent](https://awesomecua.com/resources/github-0xyene-market-basket-agent/)
+- [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/)
+- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)
 - [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/)
 - [MatthewAlexOng Agent Bridge](https://awesomecua.com/resources/github-matthewalexong-agent-bridge/)
 - [MCP Browser (macOS WKWebView)](https://awesomecua.com/resources/github-brainfuel-mcp-browser/)
@@ -45,6 +49,7 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [mimic (Kernel-Level uinput Driver)](https://awesomecua.com/resources/github-juicerq-mimic/)
 - [Minitap mobile-use](https://awesomecua.com/resources/github-minitap-ai-mobile-use/)
 - [Mobile Harness](https://awesomecua.com/resources/github-droidrun-mobile-harness/)
+- [Mobile JSON Wire Protocol Specification](https://awesomecua.com/resources/github-seleniumhq-mobile-spec/)
 - [Mobile Next MCP](https://awesomecua.com/resources/github-mobile-next-mobile-mcp/)
 - [Mobile Use Agent (Cloud Phone Skill)](https://awesomecua.com/resources/github-chenjie1129-mobile-use-agent/)
 - [MobileClaw](https://awesomecua.com/resources/github-eggbrid2-mobileclaw/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Mosaik](https://awesomecua.com/resources/github-luantak-mosaik/)
 - [Motus](https://awesomecua.com/resources/github-dataficationsdk-motus/)
 - [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/)
-- [muhtalhakhan OpenAgent](https://awesomecua.com/resources/github-muhtalhakhan-open-agent/)
-- [munim-computer-use](https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/)
-- [my_tiny_agent](https://awesomecua.com/resources/github-yanjin101-my-tiny-agent/)
-- [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/)
-- [Nanobrowser](https://awesomecua.com/resources/github-nanobrowser-nanobrowser/)

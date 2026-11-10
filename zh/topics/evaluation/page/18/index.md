@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/18/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
+- [OS-Critic Bench](https://awesomecua.com/zh/resources/url-c73ba0618d1b3c505887/)
+- [OS-Harm](https://awesomecua.com/zh/resources/github-tml-epfl-os-harm/)
+- [OS-Map](https://awesomecua.com/zh/resources/github-os-copilot-os-map/)
 - [OSReward](https://awesomecua.com/zh/resources/github-os-copilot-osreward/)
 - [OSUniverse](https://awesomecua.com/zh/resources/github-agentsea-osuniverse/)
 - [OSWorkerBench](https://awesomecua.com/zh/resources/url-c8c3d4ef20e68086a812/)
@@ -43,6 +46,7 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/18/
 - [ScreenSpot v2](https://awesomecua.com/zh/resources/url-bd7214de6d98917c2350/)
 - [ScreenSpot-v2 instruction variants](https://awesomecua.com/zh/resources/url-17729e1c532ba7043404/)
 - [SCUBA (Salesforce Computer Use Benchmark)](https://awesomecua.com/zh/resources/github-salesforceairesearch-scuba/)
+- [showdown](https://awesomecua.com/zh/resources/github-generalagents-showdown/)
 - [showdown-clicks](https://awesomecua.com/zh/resources/url-863cc1744cd5d40418be/)
 - [Simulation Labs](https://awesomecua.com/zh/resources/github-satyamdave-simulation-labs/)
 - [SMAN-Bench](https://awesomecua.com/zh/resources/github-gezelligheid0314-sman-bench/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/18/
 - [TurkingBench](https://awesomecua.com/zh/resources/url-808a22468ee0bf565d6e/)
 - [UI-FaultLab](https://awesomecua.com/zh/resources/github-kakoyvostorg-ui-faultlab/)
 - [UI-I2E-Bench](https://awesomecua.com/zh/resources/url-c08566be0d973ec40c48/)
-- [UI-NEXUS](https://awesomecua.com/zh/resources/github-starwalkin-ui-nexus/)
-- [UniClawBench](https://awesomecua.com/zh/resources/github-hku-mmlab-uniclawbench/)
-- [UserZero](https://awesomecua.com/zh/resources/github-aafre-userzero/)
-- [Verisim](https://awesomecua.com/zh/resources/github-clay-good-verisim/)

@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/21/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [SpectraBrowser MCP](https://awesomecua.com/resources/github-virajverse-spectra-browser-mcp/)
+- [Spice](https://awesomecua.com/resources/github-shells-com-spice/)
+- [spider-browser](https://awesomecua.com/resources/github-spider-rs-spider-browser/)
+- [Spooky Action](https://awesomecua.com/resources/github-jumpsy-spooky-action/)
 - [SREY Voice Assistant](https://awesomecua.com/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/)
 - [Starizon AI](https://awesomecua.com/resources/url-5aa01cb259a5d9a07d6e/)
 - [Stealth Browser MCP](https://awesomecua.com/resources/github-vibheksoni-stealth-browser-mcp/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [uictl-win-mcp](https://awesomecua.com/resources/github-byronjones-elsevier-uictl-win-mcp/)
 - [uitars-mcp](https://awesomecua.com/resources/github-sandraschi-uitars-mcp/)
 - [Ultimate Playwright MCP](https://awesomecua.com/resources/github-pm990320-ultimate-playwright-mcp/)
-- [UltraTerm Computer Use](https://awesomecua.com/resources/github-michael-berardi-ultraterm-computer-use/)
-- [UltraWin MCP](https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/)
-- [Unbrowse](https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/)
-- [UnderPixel](https://awesomecua.com/resources/github-leluth-underpixel/)

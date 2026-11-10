@@ -21,12 +21,12 @@
 - 评测方式：The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
 - 侧重：Android task completion, subgoal completion, operation efficiency
 - 观测：UI XML, set-of-marks views
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 138 tasks — benchmark task collection（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
-- 9 applications — benchmark application set（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
+- 138 个任务 — benchmark task collection（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
+- 9 个应用 — benchmark application set（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
 
 The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
 

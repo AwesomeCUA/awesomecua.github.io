@@ -122,12 +122,20 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.
 - [Dreamer V1 Data](https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/) — Date not recorded
   Web-world-model training data with prompts, images, action descriptions, and responses, released with the WebDreamer project.
+- [jacklishufan/MobileWorld](https://awesomecua.com/resources/url-3d12df2fd27076504434/) — Date not recorded
+  Annotation archive for the MobileWorldBench training data: one tar with parquet subsets built on AiTW and AndroidControl screens plus a cleaned QA split, for fine-tuning mobile semantic world models.
 - [LGWM data and RSWT-Bench](https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/) — Date not recorded
   A dataset of GUI screen transitions for training a world model, released with RSWT-Bench to evaluate whether observed screens follow the intended actions.
 - [Mobile-GUI-Worldmodel-SFT](https://awesomecua.com/resources/url-e041226738f8ea43a878/) — Date not recorded
   A mobile GUI dataset for world-model training and evaluation. Its trajectory archives pair screenshots with page-state text and action-formatted training examples.
+- [webarena-world-model-cot](https://awesomecua.com/resources/url-3e0f07cb0ff3f32dfc0e/) — Date not recorded
+  WebArena page-transition data for training language world models: chain-of-thought annotations paired with the accessibility-tree item changes that follow an action, used for SFT and RLVR in RLVR-World.
 - [WebEvolver SFT data](https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/) — Date not recorded
   Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.
+- [world_model_for_wa_desc_with_tao_dataset](https://awesomecua.com/resources/url-96bb23bd687d6c227a41/) — Date not recorded
+  Training data for the world model of the WMA web agent: 14744 steps pairing an objective, previous actions, an observation and the current action with the next state and a description of what changed.
+- [world_model_for_wa_desc_with_tao_formatted_w_cot](https://awesomecua.com/resources/url-3ef18fbb67e0376561db/) — Date not recorded
+  Formatted instruction, input and output examples for training the WMA world model, which describes how a WebArena page changes after an action, with 11795 training and 2949 validation rows.
 
 ## Models
 
@@ -149,8 +157,20 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   gWorld-8B is a released mobile GUI world model that predicts the screen after an action by generating renderable HTML from the current screenshot and action.
 - [jiamingzz/lgwm](https://awesomecua.com/resources/url-512cd7335068b2c17859/) — Date not recorded
   Released weights for a GUI world model that predicts a screen representation after an action and checks the observed transition, with a separate harm scoring head.
+- [Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2](https://awesomecua.com/resources/url-062d2cb4ccb89de78162/) — Date not recorded
+  QLoRA adapter for Llama-3.1-8B-Instruct that acts as the value model of the WMA web agent, rating world-model predictions of each candidate action's outcome so the agent can choose the top-scored one.
+- [Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter](https://awesomecua.com/resources/url-58195ef097be91525554/) — Date not recorded
+  PEFT world-model adapter for Llama 3.1 8B Instruct from the WMA web agent project, trained to describe the state changes an action causes so the agent can choose actions on WebArena.
+- [Qwen-AgentWorld](https://awesomecua.com/resources/github-qwenlm-qwen-agentworld/) — Date not recorded
+  A language world model that predicts the next environment observation across seven domains, including Android screens, browser pages and desktop accessibility trees, released with AgentWorldBench evaluation code.
+- [Qwen3-VL-8B-Instruct-MobileWorld-SFT](https://awesomecua.com/resources/url-e58270c90ea4fa83cfb4/) — Date not recorded
+  Qwen3-VL-8B-Instruct fine-tuned on the MobileWorld dataset as a semantic world model that describes in natural language how a mobile GUI screen changes after an action, for planning by mobile agents.
 - [Textual Foresight](https://awesomecua.com/resources/github-aburns4-textualforesight/) — Date not recorded
   Textual Foresight pretrains UI representations by predicting textual descriptions of future screen states resulting from mobile UI actions.
+- [webarena-world-model-rlvr](https://awesomecua.com/resources/url-e02a165e76cd7c43e2ca/) — Date not recorded
+  A language world model for web page state prediction on WebArena, post-trained with RLVR from an SFT checkpoint and used for model predictive control of web agents.
+- [webarena-world-model-sft](https://awesomecua.com/resources/url-42686ac00c4ae107f147/) — Date not recorded
+  DeepSeek-R1-Distill-Qwen-1.5B fine-tuned as a language world model for WebArena: it predicts which accessibility-tree items change after a web action, trained by SFT on chain-of-thought data before the RLVR stage.
 
 ## Engineering & industry
 

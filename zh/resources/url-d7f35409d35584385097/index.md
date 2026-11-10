@@ -25,16 +25,16 @@ Each scenario is a JSON snapshot of app states in the OpenApps workspace (messen
 - 评测方式：The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
 - 侧重：contextual-integrity compliance of computer-use agents, information disclosure across personal apps
 - 观测：decoded app states, rendered app UI (live-UI subset), natural-language task prompts
-- 任务设置：mixed
+- 任务设置：混合
 
 ### 数量记录
 
-- 117 scenarios — test split（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 50 scenarios — test_e2e split (subset of test used for live-UI evaluation)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 36 scenarios — seeds split (hand-written seed scenarios)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 75 scenarios — test split, failure mode task_ambiguity_overshare（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 24 scenarios — test split, failure mode recipient_misalignment（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 18 scenarios — test split, failure mode visual_co_location（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 117 个场景 — test split（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 50 个场景 — test_e2e split (subset of test used for live-UI evaluation)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 36 个场景 — seeds split (hand-written seed scenarios)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 75 个场景 — test split, failure mode task_ambiguity_overshare（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 24 个场景 — test split, failure mode recipient_misalignment（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 18 个场景 — test split, failure mode visual_co_location（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
 
 Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.
 

@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/19/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [Pilos Agents](https://awesomecua.com/zh/resources/github-pilos-ai-agents/)
+- [Pilot MCP Chrome Extension](https://awesomecua.com/zh/resources/github-xiachaoxia-glitch-pilot-mcp-extension/)
+- [pinchtab-mcp](https://awesomecua.com/zh/resources/github-maderwin-pinchtab-mcp/)
 - [PixelCheck](https://awesomecua.com/zh/resources/github-xcodethink-pixelcheck/)
 - [pixelpi](https://awesomecua.com/zh/resources/github-josharsh-pixelpi/)
 - [planchette](https://awesomecua.com/zh/resources/github-shahriarshm-planchette/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/19/
 - [REDLINE WebMCP](https://awesomecua.com/zh/resources/github-eloiramos-redline/)
 - [reflex-computer-use](https://awesomecua.com/zh/resources/github-8itlab-reflex-cu/)
 - [Reins](https://awesomecua.com/zh/resources/github-pegasi-ai-reins/)
-- [Relay AI Virtual Desktop](https://awesomecua.com/zh/resources/github-jahrulnr-virtual-desktop/)
-- [Renoned dsh-computer-use](https://awesomecua.com/zh/resources/github-renoned-dsh-computer-use/)
-- [Reqvexa](https://awesomecua.com/zh/resources/github-kareemheshaam-reqvexa/)

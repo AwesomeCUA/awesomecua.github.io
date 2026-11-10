@@ -21,13 +21,13 @@ B-MoCA 是涵盖不同界面配置的移动设备控制基准。
 - 评测方式：Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.
 - 侧重：Android control across visual/device variation, generalization across environment snapshots
 - 观测：screenshot pixels, XML view hierarchy, goal instruction
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 131 task-definition files — asset/tasks/**/*.textproto in retained release/ver.3 tree; source-file inventory distinct from the paper test-task total（计算得出；来源：https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1）
-- 35 environment configuration rows — environments_train.csv, retained release/ver.3 snapshot（计算得出；来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv）
-- 10 environment configuration rows — environments_test.csv, retained release/ver.3 snapshot（计算得出；来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv）
+- 131 个任务定义文件 — asset/tasks/**/*.textproto in retained release/ver.3 tree; source-file inventory distinct from the paper test-task total（计算得出）（来源：https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1）
+- 35 行环境配置数据 — environments_train.csv, retained release/ver.3 snapshot（计算得出）（来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv）
+- 10 行环境配置数据 — environments_test.csv, retained release/ver.3 snapshot（计算得出）（来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv）
 
 Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Apache-2.0 covers the code.
 

@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/safety-security/page/7/
 
 Full list: https://awesomecua.com/topics/safety-security/index.md
 
+- [Agent-OS (J.A.R.V.I.S. macOS Harness)](https://awesomecua.com/resources/github-my-cmdhub-agent-os/)
+- [AgentCurtain](https://awesomecua.com/resources/github-felixlark-agent-curtain/)
+- [Agentic Shopping Autopilot](https://awesomecua.com/resources/github-andriishramko-agentic-shopping-autopilot/)
 - [AgentPerms](https://awesomecua.com/resources/github-david-wu1119-agentperms/)
 - [AgentTab](https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/)
 - [AI-Work](https://awesomecua.com/resources/github-peiwenzhang-git-ai-work/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/safety-security/index.md
 - [DrishtiGuard](https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/)
 - [DSB (逗沙包)](https://awesomecua.com/resources/github-tianye1999-dsb/)
 - [DSH Desktop Operator](https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/)
-- [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)
-- [DualKey](https://awesomecua.com/resources/github-wadekeith-dualkey-agent/)
-- [DualTAP](https://awesomecua.com/resources/github-fyzhang1-dualtap/)

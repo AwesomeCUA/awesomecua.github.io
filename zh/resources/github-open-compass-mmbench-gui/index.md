@@ -21,11 +21,11 @@
 - 评测方式：Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.
 - 侧重：screen understanding, grounding, task automation, task collaboration
 - 观测：screenshots
-- 任务设置：mixed
+- 任务设置：混合
 
 ### 数量记录
 
-- > 8,000 tasks — reported multi-level benchmark（来源报告；来源：https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md）
+- > 8,000 个任务 — reported multi-level benchmark（来源报告；来源：https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md）
 
 The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. The README documents four levels; release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration.
 

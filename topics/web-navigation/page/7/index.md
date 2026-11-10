@@ -7,6 +7,7 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [Agentalyze](https://awesomecua.com/resources/github-ilyat9-agentalyze/)
 - [agentB](https://awesomecua.com/resources/github-beme08-agentb/)
 - [AgentBoard](https://awesomecua.com/resources/github-hkust-nlp-agentboard/)
+- [AgentEval](https://awesomecua.com/resources/url-85b700fbb7f1c599b7c3/)
 - [AgentGauntlet](https://awesomecua.com/resources/github-konuktor-agent-gauntlet/)
 - [agentic-browser-boundary-tests](https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/)
 - [AgentReady](https://awesomecua.com/resources/github-williehems-agentready/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [MalURLBench](https://awesomecua.com/resources/github-jiangyinger-malurlbench/)
 - [MarketBench](https://awesomecua.com/resources/github-santos-sanz-marketbench/)
 - [mimiq](https://awesomecua.com/resources/github-gojiplus-mimiq/)
-- [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/)

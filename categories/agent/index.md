@@ -2,7 +2,7 @@
 
 Computer-use agents are complete systems that observe a screen or web page, plan, and act through clicks, typing, browser commands or shell tools to finish a user task.
 
-> 471 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
+> 475 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,15 +27,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these agents cover?
 
-Of 471 reviewed agents, 241 are tagged web, 228 desktop, 90 mobile and 59 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 475 reviewed agents, 243 are tagged web, 228 desktop, 92 mobile and 59 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which agents come with a research paper?
 
-67 of 471 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
+70 of 475 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
 
 ### Which licenses do agents declare?
 
-The most common declared licenses are MIT (206), Apache-2.0 (89) and AGPL-3.0 (12). 142 of 471 have no declared license in their record.
+The most common declared licenses are MIT (207), Apache-2.0 (89) and AGPL-3.0 (12). 145 of 475 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -609,6 +609,36 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 ---
 
+## natbot
+
+Early Playwright-based browser agent prototype that drives web navigation by feeding simplified DOM link/input lists to an LLM.
+
+- Catalog URL: https://awesomecua.com/resources/github-nat-natbot/
+- Original source: https://github.com/nat/natbot
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation
+- Evidence checked: 2026-11-04T13:12:27Z
+- ID: github:nat/natbot
+
+- Record JSON: https://awesomecua.com/resources/github-nat-natbot/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/nat/natbot/HEAD/README.md (retrieved 2026-11-04T13:12:27Z; SHA-256 524f0c736146c9ef391da6e135f8491ab9f5508bb362cdac060853c75f05ce38)
+- https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE (retrieved 2026-11-04T13:42:19Z; SHA-256 c1bfa7b7b3d378aba35fdd8a2d1fb8cab3bf3bfcd5e3080e8a6e4cf004c47cfd)
+
+---
+
 ## OpenMausBot
 
 Desktop chat app whose bots run local Claude, Codex or Grok CLIs and each get a computer: a cloud Linux desktop, local VM, VPS or the host through Cua Driver, plus a built-in browser and approval cards.
@@ -892,36 +922,6 @@ GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting 
 ### Primary evidence
 
 - https://raw.githubusercontent.com/ddupont808/GPT-4V-Act/HEAD/README.md (retrieved 2026-11-04T13:12:12Z; SHA-256 49984f3497e260bddcda90949cb2cc50762f95c2409ac531be940414954cd370)
-
----
-
-## natbot
-
-Early Playwright-based browser agent prototype that drives web navigation by feeding simplified DOM link/input lists to an LLM.
-
-- Catalog URL: https://awesomecua.com/resources/github-nat-natbot/
-- Original source: https://github.com/nat/natbot
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, automation
-- Evidence checked: 2026-11-04T13:12:27Z
-- ID: github:nat/natbot
-
-- Record JSON: https://awesomecua.com/resources/github-nat-natbot/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/nat/natbot/HEAD/README.md (retrieved 2026-11-04T13:12:27Z; SHA-256 524f0c736146c9ef391da6e135f8491ab9f5508bb362cdac060853c75f05ce38)
-- https://raw.githubusercontent.com/nat/natbot/HEAD/LICENSE (retrieved 2026-11-04T13:42:19Z; SHA-256 c1bfa7b7b3d378aba35fdd8a2d1fb8cab3bf3bfcd5e3080e8a6e4cf004c47cfd)
 
 ---
 
@@ -2453,6 +2453,40 @@ The source lists navigation, clicking, typing, scrolling and drag actions. Setup
 
 ---
 
+## globot
+
+A Python browser agent that drives Chromium through Playwright, turns the DOM snapshot into numbered clickable and input elements, and has an OpenAI model pick click, type, scroll or back actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-globe-engineer-globot/
+- Original source: https://github.com/Globe-Engineer/globot
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, action-prediction
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:globe-engineer/globot
+
+### Limitations
+
+globot.py implements the Playwright browser wrapper and example.py the action loop with the OpenAI Python client; a USE_VISION flag adds a resized screenshot to the prompt. The README presents it as completing the vision of natbot with GPT-4V.
+
+- Record JSON: https://awesomecua.com/resources/github-globe-engineer-globot/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Globe-Engineer/globot/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Globe-Engineer/globot/7d3a6eda712c6d2f861a3ff5b4652c5cf79efe96/README.md (retrieved 2026-11-10T03:00:59Z; SHA-256 5e4a4707d9a453cff84e23c5c209ffa6d64643a3d9f5c2cce83b29605eeb5c37)
+- https://raw.githubusercontent.com/Globe-Engineer/globot/HEAD/LICENSE (retrieved 2026-11-10T02:08:09Z; SHA-256 d4cf805072ea18d317a7fd001ec73fbfbc006135dc8fdcbabee9943d905a01d8)
+
+---
+
 ## GUI Reflection
 
 GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
@@ -2882,6 +2916,39 @@ Minitap mobile-use is a multi-agent mobile automation system that controls physi
 
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/README.md (retrieved 2026-11-04T13:12:25Z; SHA-256 d9f1dc9560baec4746a58f3c0fa8b167a9fb365b7e2888698d0cb75f803c856c)
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/LICENSE (retrieved 2026-11-04T13:23:24Z; SHA-256 83eacb160cdeea43e85545f6dbed7eb9588c56e604dae639063cd7846cfc67f3)
+
+---
+
+## MM-Navigator
+
+Example code for the GPT-4V smartphone navigation study: a prompt builder that sends raw and number-tagged screenshots plus action history to GPT-4V for the next Android action, and an action-matching evaluation script.
+
+- Catalog URL: https://awesomecua.com/resources/github-zzxslp-mm-navigator/
+- Original source: https://github.com/zzxslp/MM-Navigator
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android, ios
+- Topics: mobile-navigation, action-prediction, training-free, evaluation
+- Evidence checked: 2026-11-10T03:01:00Z
+- ID: github:zzxslp/mm-navigator
+
+### Limitations
+
+The repository holds call_gpt4.py, eval.py and a demo GIF; the API URL and headers in call_gpt4.py are empty and must be set for an OpenAI vision endpoint, and eval.py imports an action_type module that is absent from the repository.
+
+- Record JSON: https://awesomecua.com/resources/github-zzxslp-mm-navigator/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/zzxslp/MM-Navigator/e9c1781bbba455cdefa12952ceca2e66d8512e99/README.md (retrieved 2026-11-10T03:01:00Z; SHA-256 55aa3a099647cb55835cc8125fd23a1ceeb8b2c03561763b7eb3c0caeb6c4a26)
 
 ---
 
@@ -8660,6 +8727,39 @@ Gofer is a persistent desktop agent that monitors screen changes, executes shell
 
 ---
 
+## GPTVoiceTasker
+
+Android app for GPTVoiceTasker, a GPT-4 voice assistant that reads screen elements through the Accessibility Service, turns spoken commands into press, enter and scroll actions, and reuses learned app transitions.
+
+- Catalog URL: https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/
+- Original source: https://github.com/vuminhduc796/GPTVoiceTasker
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, screen-understanding, automation
+- Evidence checked: 2026-11-10T03:01:00Z
+- ID: github:vuminhduc796/gptvoicetasker
+
+### Limitations
+
+The repository holds the Android Studio project (app/, Gradle files), prompts.txt with the prompt templates and Result.xlsx with evaluation results.
+
+- Record JSON: https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vuminhduc796/GPTVoiceTasker/d28df69267c2d740a56fc492bee88dc237db5853/prompts.txt (retrieved 2026-11-10T03:01:00Z; SHA-256 418d921a7e48a2cdea75c04a5dc6b38c99eb29d8c4c302fe3cc236f12538eb40)
+
+---
+
 ## gui-agent
 
 Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.
@@ -13180,6 +13280,39 @@ Source-backed personal decision and shopping browser agent built on the WebMCP p
 
 - https://raw.githubusercontent.com/Somnora/agentic-webmcp/main/README.md (retrieved 2026-11-04T17:30:44Z; SHA-256 139be17995d49162eaeeecffe60d191713360febe785eab5f854653cd36d5992)
 - https://raw.githubusercontent.com/Somnora/agentic-webmcp/HEAD/LICENSE (retrieved 2026-11-04T17:40:20Z; SHA-256 60230209348f955d34789b783a35fb42ca10eaf6b6d041bec287b5ecbe646ebf)
+
+---
+
+## RUSS
+
+Code and data for RUSS, which parses step-by-step web help instructions into the ThingTalk language, grounds them to page elements, and clicks, types or asks the user; ships a 741-instruction evaluation set.
+
+- Catalog URL: https://awesomecua.com/resources/github-xnancy-russ/
+- Original source: https://github.com/xnancy/russ
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, grounding, data-generation, evaluation
+- Evidence checked: 2026-11-10T03:01:00Z
+- ID: github:xnancy/russ
+
+### Limitations
+
+The repository holds the ThingTalk synthesis and typecheck setup built on the genie and thingtalk toolkits, genienlp training commands, evaluation instruction files with webpage DOMs, a PhraseNode grounding baseline and a Puppeteer example.
+
+- Record JSON: https://awesomecua.com/resources/github-xnancy-russ/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xnancy/russ/2bbae6fbdb38c7cab64113edce2eb61bf7e2e2f8/README.md (retrieved 2026-11-10T03:01:00Z; SHA-256 688e5fd739469e442d1e9363411a3c8434809fc8facaf0f9f7cc0ab5f1b73c7a)
 
 ---
 

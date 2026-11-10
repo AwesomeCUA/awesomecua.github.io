@@ -28,10 +28,10 @@ The Hub API at revision de58c88b reports an ungated repository with 16 Parquet s
 
 ### 数量记录
 
-- 160 trajectories — train split (one row per task trajectory)（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
-- 1,378 steps — all 160 trajectories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
-- 10 application domains — train split（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
-- 313 MP4 recording files — recordings/ at revision de58c88b（计算得出；来源：https://huggingface.co/api/datasets/markov-ai/computer-use）
+- 160 条轨迹 — train split (one row per task trajectory)（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
+- 1,378 步 — all 160 trajectories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
+- 10 个应用领域 — train split（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md）
+- 313 个 MP4 录制文件 — recordings/ at revision de58c88b（计算得出）（来源：https://huggingface.co/api/datasets/markov-ai/computer-use）
 
 Rows are agent runs filtered to score 1.0. Step and row counts are the card's figures. Recording files were counted from the Hub manifest; the recording-file and row counts differ.
 

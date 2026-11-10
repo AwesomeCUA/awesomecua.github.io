@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/data-generation/page/8/
 
 Full list: https://awesomecua.com/topics/data-generation/index.md
 
+- [Jedi](https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/)
 - [LGWM data and RSWT-Bench](https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/)
 - [lumos_unified_plan_iterative](https://awesomecua.com/resources/url-543aff764901777e6ad5/)
 - [lumos_web_agent_ground_iterative](https://awesomecua.com/resources/url-1e85f7557b39ae40193f/)
@@ -28,6 +29,7 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [OpenJev-Data](https://awesomecua.com/resources/url-a54a35c90681ced60cec/)
 - [OpenMobile-Data](https://awesomecua.com/resources/url-3849b18aa87edefc6afd/)
 - [OpenMobile-Data-v2](https://awesomecua.com/resources/url-546e6c95825d1318c98d/)
+- [OpenPhone_dataset](https://awesomecua.com/resources/url-e7ea65893ab264517d83/)
 - [OS-Atlas Data](https://awesomecua.com/resources/url-0fdeb1cf5f49f84820e6/)
 - [OS-Copilot/OS-Shepherd-100K](https://awesomecua.com/resources/url-d716497286ae5cd5e762/)
 - [OS-Copilot/OSReward](https://awesomecua.com/resources/url-e01658de14c2e62fbf20/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [ScreenRef Annotations](https://awesomecua.com/resources/url-c1db2ba79e6d6a3db2b9/)
 - [sharryXR/asil-training-data](https://awesomecua.com/resources/url-e9423bcf01a8d6b078bc/)
 - [ShowUI Desktop](https://awesomecua.com/resources/url-f976dec3d1c5e0bedbd7/)
-- [ShowUI-web](https://awesomecua.com/resources/url-8933977bb0a57940ed23/)
-- [ShowUI-web-8K](https://awesomecua.com/resources/url-2260aaa47fb9c63bb917/)

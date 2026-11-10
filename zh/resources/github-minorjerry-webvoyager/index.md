@@ -21,13 +21,13 @@
 - 评测方式：The repository supplies an automated multimodal-model evaluation protocol.
 - 侧重：live-web task completion
 - 观测：webpage screenshots, textual task instructions
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 643 task queries — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 15 websites — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 90 tasks — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 643 条任务查询 — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 15 个网站 — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 90 个任务 — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
 
 The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
 

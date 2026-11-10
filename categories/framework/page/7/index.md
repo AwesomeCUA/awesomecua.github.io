@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/categories/framework/page/7/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [TopoClaw](https://awesomecua.com/resources/github-madeagents-topoclaw/)
+- [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/)
 - [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/)
 - [TraceFact](https://awesomecua.com/resources/github-alex0ai-tracefact/)
 - [TreeCUA](https://awesomecua.com/resources/github-uitron-hub-treecua/)
@@ -18,6 +20,7 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Unattended Android Automation Toolkit](https://awesomecua.com/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/)
 - [Understudy](https://awesomecua.com/resources/github-understudy-ai-understudy/)
 - [Universal AI Studio (OmniAI Desktop)](https://awesomecua.com/resources/github-osamalvzx-universal-ai-studio/)
+- [UXAgent](https://awesomecua.com/resources/url-2f73fe78c423e263d451/)
 - [V-Droid](https://awesomecua.com/resources/github-v-droid-agent-v-droid/)
 - [VACT (Vector Agent Context Transport)](https://awesomecua.com/resources/github-fy2ne-vact/)
 - [vco (Visual Computer Operate)](https://awesomecua.com/resources/github-lo2589-vco/)

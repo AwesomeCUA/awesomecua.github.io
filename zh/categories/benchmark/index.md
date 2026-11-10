@@ -2,7 +2,7 @@
 
 计算机使用评测基准是一组任务与环境，用来给操作网页浏览器、桌面应用或移动设备的智能体打分。每个基准都把固定的任务集与评估器配在一起，评估方式包括基于执行的状态检查、答案匹配和目标定位。
 
-> AwesomeCUA 目录收录 300 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
+> AwesomeCUA 目录收录 305 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https://awesomecua.com/categories/benchmark/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -10,26 +10,26 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 | 评测基准 | 平台 | 设置 | 规模 | 排行榜 |
 | --- | --- | --- | --- | --- |
-| [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) | 桌面 | 交互式 | [369 task definitions](https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json) | [排行榜](https://os-world.github.io/) |
-| [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) | 网页 | 交互式 | [812 task examples](https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md) | [排行榜](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing) |
-| [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) | 手机 | 交互式 | [116 task definitions](https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md) | [排行榜](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0) |
+| [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) | 桌面 | 交互式 | [369 个任务定义](https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json) | [排行榜](https://os-world.github.io/) |
+| [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) | 网页 | 交互式 | [812 个任务示例](https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md) | [排行榜](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing) |
+| [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) | 手机 | 交互式 | [116 个任务定义](https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md) | [排行榜](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0) |
 | [BrowserGym](https://awesomecua.com/resources/github-servicenow-browsergym/) | 网页 | 混合 | — | — |
-| [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/) | 网页 | 离线 | [1,009 task instances](https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md) | — |
-| [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/) | 桌面 | 离线 | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [排行榜](https://gui-agent.github.io/grounding-leaderboard) |
+| [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/) | 网页 | 离线 | [1,009 个任务实例](https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md) | — |
+| [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/) | 桌面 | 离线 | [1,581 条目标标注](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [排行榜](https://gui-agent.github.io/grounding-leaderboard) |
 
 ## 常见问题
 
 ### 目录中被提及最多的评测基准有哪些？
 
-[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)（60 条记录）、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)（30 条记录）和 [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/)（21 条记录）在其他目录记录的已审核来源中被提及最多。
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)（60 条记录）、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)（31 条记录）和 [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/)（21 条记录）在其他目录记录的已审核来源中被提及最多。
 
 ### 这些评测基准覆盖哪些平台？
 
-在 300 条已审核评测基准中，网页 207 条、桌面 94 条、手机 43 条、跨平台 28 条；12 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 305 条已审核评测基准中，网页 209 条、桌面 95 条、手机 44 条、跨平台 28 条；13 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些评测基准有官方排行榜？
 
-300 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
+305 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
 
 ### 交互式评测和离线评测各有多少？
 
@@ -37,7 +37,7 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 ### 评测基准使用哪些许可证？
 
-最常见的声明许可证是 MIT（118 条）、Apache-2.0（70 条）和 CC-BY-4.0（7 条）。300 条中有 96 条未记录声明的许可证。
+最常见的声明许可证是 MIT（119 条）、Apache-2.0（70 条）和 CC-BY-4.0（7 条）。305 条中有 100 条未记录声明的许可证。
 
 ---
 
@@ -63,12 +63,12 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 - 评测方式：Task-specific execution-based evaluators inspect application or system state.
 - 侧重：task completion, cross-application workflows
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 369 task definitions — test_all.json（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json）
-- 361 task definitions — test_nogdrive.json（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json）
+- 369 个任务定义 — test_all.json（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json）
+- 361 个任务定义 — test_nogdrive.json（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json）
 
 Counts were computed from unique task identifiers in the two inspected manifests. The subsets differ; record the manifest, repository revision, agent interface, and step budget with a score.
 
@@ -111,11 +111,11 @@ Counts were computed from unique task identifiers in the two inspected manifests
 - 评测方式：Functional correctness of completed web tasks.
 - 侧重：web task completion
 - 观测：HTML or accessibility tree
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 812 task examples — canonical WebArena evaluation suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md）
+- 812 个任务示例 — canonical WebArena evaluation suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md）
 
 The canonical repository documents self-hosted websites and environment resets. Its README recommends BrowserGym/AgentLab for newer infrastructure; harness changes must be recorded.
 
@@ -156,12 +156,12 @@ AndroidWorld 是面向移动智能体的 Android 环境，支持通过程序评�
 - 评测方式：Programmatic task-specific initialization, system-state success checks, and teardown.
 - 侧重：mobile task completion
 - 观测：screenshots, accessibility information
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 116 task definitions — parameterized AndroidWorld tasks（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
-- 20 applications — documented AndroidWorld app set（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
+- 116 个任务定义 — parameterized AndroidWorld tasks（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
+- 20 个应用 — documented AndroidWorld app set（来源报告；来源：https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md）
 
 Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 counts task definitions, while random parameters produce many task instances.
 
@@ -202,7 +202,7 @@ Random parameters produce many instances from the same task definitions. Preserv
 - 评测方式：Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.
 - 侧重：shared browser-agent evaluation interface, benchmark adapters with separate task definitions
 - 观测：browser screenshot, DOM snapshot, accessibility tree, tab/URL state, previous action and its error, chat messages and task goal
-- 任务设置：mixed
+- 任务设置：混合
 
 #### 数量记录
 
@@ -249,11 +249,11 @@ ScreenSpot Pro 是侧重专业高分辨率界面的 GUI 定位基准。
 - 评测方式：For positive targets, the predicted point must fall inside the annotated bounding box.
 - 侧重：GUI grounding
 - 观测：high-resolution screenshots, target instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,581 target annotations — sum of icon/text counts in the published card table（计算得出；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
+- 1,581 条目标标注 — sum of icon/text counts in the published card table（计算得出）（来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
 
 Language, instruction style, and positive/negative target configuration are explicit evaluator options. This profile describes target localization. The target count uses card-table targets; expanded language/style evaluation instances use a different count.
 
@@ -295,12 +295,12 @@ Language, instruction style, and positive/negative target configuration are expl
 - 评测方式：Execution-based completion checks for visually grounded web tasks.
 - 侧重：multimodal web task completion
 - 观测：screenshots with set-of-mark annotations, caption-augmented accessibility tree
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 910 tasks — full VWA suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
-- 233 human trajectories — one task from each template type（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
+- 910 个任务 — full VWA suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
+- 233 条人工轨迹 — one task from each template type（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
 
 The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
 
@@ -339,14 +339,14 @@ The 233 demonstration trajectories and the full 910-task evaluation set are diff
 - 评测方式：Offline candidate and action evaluation against recorded demonstrations; the repository distinguishes macro from micro averaging.
 - 侧重：web action prediction, generalization to unseen sites and domains
 - 观测：task instructions, HTML, recorded action history
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,009 task instances — train split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
-- 252 task instances — cross-task test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
-- 177 task instances — cross-website test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
-- 912 task instances — cross-domain test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 1,009 个任务实例 — train split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 252 个任务实例 — cross-task test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 177 个任务实例 — cross-website test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- 912 个任务实例 — cross-domain test split（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
 
 These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.
 
@@ -387,12 +387,12 @@ These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, an
 - 评测方式：The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
 - 侧重：Android task completion, subgoal completion, operation efficiency
 - 观测：UI XML, set-of-marks views
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 138 tasks — benchmark task collection（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
-- 9 applications — benchmark application set（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
+- 138 个任务 — benchmark task collection（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
+- 9 个应用 — benchmark application set（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
 
 The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
 
@@ -433,13 +433,13 @@ The benchmark uses predefined virtual-device images and apps chosen to work with
 - 评测方式：The repository supplies an automated multimodal-model evaluation protocol.
 - 侧重：live-web task completion
 - 观测：webpage screenshots, textual task instructions
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 643 task queries — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 15 websites — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 90 tasks — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 643 条任务查询 — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 15 个网站 — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 90 个任务 — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
 
 The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
 
@@ -479,11 +479,11 @@ The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites 
 - 评测方式：Task configuration selects an evaluator and expected application or system outcome; evaluators return a reward for the resulting state.
 - 侧重：Windows task completion, desktop workflows
 - 观测：screenshots, accessibility information, screen-element detections
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 154 task definitions — evaluation_examples_windows/test_all.json（计算得出；来源：https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json）
+- 154 个任务定义 — evaluation_examples_windows/test_all.json（计算得出）（来源：https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json）
 
 Counted unique identifiers in the inspected manifest. Normal and hard modes differ in how much task setup the agent must perform. Record the difficulty and observation/backend configuration with each result; no VM was launched.
 
@@ -530,12 +530,12 @@ This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWo
 - 评测方式：The publisher documents text-answer matching, backend database verification, local-storage inspection and application callbacks.
 - 侧重：Android task completion, agent-user interaction, hybrid GUI and MCP use
 - 观测：Android application interface, user-agent interaction when enabled
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 201 tasks — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
-- 20 mobile applications — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
+- 201 个任务 — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
+- 20 个移动应用 — README benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md）
 
 Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurations have different dependencies and task eligibility; preserve enabled modes and step budget with results.
 
@@ -580,12 +580,12 @@ Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurati
 - 评测方式：未记录
 - 侧重：instruction-conditioned product selection, web navigation
 - 观测：HTML pages, simplified text views
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 12,087 instructions — crowd-sourced instruction collection（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
-- ≈ 1,180,000 products — full product inventory（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
+- 12,087 条指令 — crowd-sourced instruction collection（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
+- ≈ 1,180,000 个产品 — full product inventory（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
 
 This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
 
@@ -659,14 +659,14 @@ The card calls this a test set and asks that it be reserved from training, altho
 - 评测方式：The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - 侧重：instruction-conditioned GUI element grounding
 - 观测：screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,000 examples — Hub split at revision 5d18efc3 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md）
-- 400 examples — platform label web（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
-- 300 examples — platform label desktop（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
-- 300 examples — platform label mobile（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
+- 1,000 个示例 — Hub split at revision 5d18efc3 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md）
+- 400 个示例 — platform label web（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
+- 300 个示例 — platform label desktop（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
+- 300 个示例 — platform label mobile（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train）
 
 Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the subset, while the larger set is a separate Hub repository. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.
 
@@ -740,12 +740,12 @@ LMMs-Eval 是面向大型多模态模型的标准化评测测试框架，涵盖 
 - 评测方式：Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
 - 侧重：live-web task completion
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 300 tasks — documented Online-Mind2Web suite（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-- 136 websites — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 300 个任务 — documented Online-Mind2Web suite（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 136 个网站 — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
 
 Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.
 
@@ -785,7 +785,7 @@ Tasks are actively replaced when websites or requirements become invalid. Record
 - 评测方式：The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
 - 侧重：desktop GUI grounding, infeasible-target refusal
 - 观测：screenshot, instruction
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
@@ -832,7 +832,7 @@ ScreenSpot 定位测试集的第二版，由 OS-Copilot 发布，桌面、移动
 - 评测方式：The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.
 - 侧重：single-step GUI grounding on the ScreenSpot-v2 release
 - 观测：screenshot, instruction
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
@@ -883,11 +883,11 @@ Four public test Parquet shards are present. The dataset card declares Apache-2.
 - 评测方式：Assess localization against annotated targets; agentbrowse, humanbrowse and calendars are distinct source buckets.
 - 侧重：instruction-conditioned web localization
 - 观测：web screenshots, instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,639 examples — test split（来源报告；来源：https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md）
+- 1,639 个示例 — test split（来源报告；来源：https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md）
 
 The card reports more than 100 websites. Grounding accuracy and task completion are separate measures.
 
@@ -995,6 +995,39 @@ Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟�
 
 ---
 
+## showdown
+
+showdown-clicks 基准的评测代码：eval.py 判断模型在 macOS 截图上预测的点击是否落在标注的边界框内，并集成了 Claude、Qwen、UI-TARS 等模型。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-generalagents-showdown/
+- 原始来源：https://github.com/generalagents/showdown
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：GUI 定位、评测、动作预测
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:generalagents/showdown
+
+### 范围记录
+
+The clicks/ directory holds eval.py, scripts and model integrations for Ace, Claude, Gemini, Molmo, OmniParser, OpenAI, OpenAI CUA, Qwen and UI-TARS; its .gitignore excludes data/*, and the README links the showdown-clicks-dev data on Hugging Face. The README reports accuracy with bootstrapped 95% intervals and latency per model on the 557-click dev subset of a 5,679-click collection.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-generalagents-showdown/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/generalagents/showdown/86cbd20d161eb3a3e49babe677a26dcec4beb91a/README.md（获取于 2026-11-10T03:00:59Z；SHA-256：bce749a655255ac4100318b93fd8a40f381b90f093c38f7884edd1f8b3de593b）
+
+---
+
 ## MiniWoB++
 
 扩展自 OpenAI MiniWoB 的 100 多个网页交互环境，可通过 Python 中的 Gymnasium API 使用 Selenium 控制浏览器。
@@ -1021,11 +1054,11 @@ The maintainer README identifies MiniWoB++ as the extension introduced in the 20
 - 评测方式：未记录
 - 侧重：small web interaction tasks
 - 观测：task instructions, screenshots, visible DOM-element attributes
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- > 100 web environments — README collection size（来源报告；来源：https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md）
+- > 100 个 Web 环境 — README collection size（来源报告；来源：https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md）
 
 The README gives a lower bound for the active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. The repository is in maintenance mode.
 
@@ -1068,12 +1101,12 @@ The README gives a lower bound for the active-environment inventory. Action pres
 - 评测方式：Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.
 - 侧重：scientific-software desktop workflows, GUI and code-assisted scientific tasks
 - 观测：desktop screenshots, accessibility-tree observations, set-of-marks with accessibility tree
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 169 VM task definitions — tasks/VM/**/*.json at tree 21b5eb0f; excludes tasks/Raw and tasks/Dual（计算得出；来源：https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1）
-- 6 application families — VM suite: Celestia, ChimeraX, GrassGIS, KAlgebra, Lean, TeXstudio（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md）
+- 169 个 VM 任务定义 — tasks/VM/**/*.json at tree 21b5eb0f; excludes tasks/Raw and tasks/Dual（计算得出）（来源：https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1）
+- 6 个应用系列 — VM suite: Celestia, ChimeraX, GrassGIS, KAlgebra, Lean, TeXstudio（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md）
 
 Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems. Official Docker migration documents a 20-task acceptance subset; full-suite performance uses a different scope, and legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.
 
@@ -1117,11 +1150,11 @@ ScreenSpot 是 GUI 定位测试集，包含来自 iOS、Android、macOS、Window
 - 评测方式：The SeeClick evaluator scores whether the predicted point falls inside the target box, with platform and text/icon breakdowns. The Hub packaging uses xyxy boxes, whereas the original evaluator reads xywh and converts it; adapt the loader to the chosen release.
 - 侧重：single-step GUI element grounding
 - 观测：screenshot, English instruction
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,272 instruction–target examples — Hub test split at 0be08781; row count distinct from unique screenshots（来源报告；来源：https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md）
+- 1,272 个指令–目标示例 — Hub test split at 0be08781; row count distinct from unique screenshots（来源报告；来源：https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md）
 
 Offline, zero-shot evaluation across mobile, desktop, and web. The card explicitly excludes training use in its intended-use description. Public API reports ungated Parquet files and canonical Hub id bevaya/ScreenSpot; the catalog identity is preserved. Apache-2.0 is the Hub data declaration. No runtime or underlying screenshot rights audit was performed.
 
@@ -1165,11 +1198,11 @@ Offline, zero-shot evaluation across mobile, desktop, and web. The card explicit
 - 评测方式：Task-specific evaluator scripts run within the prepared workplace environment.
 - 侧重：professional workflows, multi-tool tasks
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 175 task images — workspace images documented by the README（来源报告；来源：https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md）
+- 175 张任务图像 — workspace images documented by the README（来源报告；来源：https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md）
 
 Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.
 
@@ -1243,12 +1276,12 @@ The README describes this as the verified release of WebArena and keeps the orig
 - 评测方式：Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.
 - 侧重：web task completion, information retrieval from self-hosted websites
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 812 task definitions — assets/dataset/webarena-verified.json（计算得出；来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json）
-- 258 task IDs — WebArena-Verified Hard subset (assets/dataset/subsets/webarena-verified-hard.json)（计算得出；来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json）
+- 812 个任务定义 — assets/dataset/webarena-verified.json（计算得出）（来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json）
+- 258 个任务 ID — WebArena-Verified Hard subset (assets/dataset/subsets/webarena-verified-hard.json)（计算得出）（来源：https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json）
 
 Counts are unique task_id values in the inspected manifests. Tasks span the shopping, shopping_admin, gitlab, reddit, map and wikipedia sites, including cross-site tasks; each task carries a revision number. The observation format and agent harness are not prescribed. Record the task-file revision, subset and environment images with a score.
 
@@ -1293,13 +1326,13 @@ WebLINX 提供对话式网页导航的演示数据和评估。
 - 评测方式：Offline evaluation compares action predictions against recorded human demonstrations.
 - 侧重：conversational web navigation, next-action prediction
 - 观测：dialogue history, HTML, screenshots, action history
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- ≈ 100,000 interactions — original paper benchmark（来源报告；来源：https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50）
-- ≈ 2,300 expert demonstrations — original paper benchmark（来源报告；来源：https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50）
-- > 150 websites — original paper benchmark（来源报告；来源：https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50）
+- ≈ 100,000 次交互 — original paper benchmark（来源报告；来源：https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50）
+- ≈ 2,300 条专家演示 — original paper benchmark（来源报告；来源：https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50）
+- > 150 个网站 — original paper benchmark（来源报告；来源：https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50）
 
 The figures are rounded descriptions from the original paper. WebLINX 1.1 / BrowserGym removes some demonstrations and changes evaluated steps, including tab actions; its results and counts have a different scope from the original release. This profile covers replayed demonstration steps; live task completion is a separate measure.
 
@@ -1342,13 +1375,13 @@ The figures are rounded descriptions from the original paper. WebLINX 1.1 / Brow
 - 评测方式：Task-specific checks on ServiceNow workflows; levels and task configurations define different evaluations.
 - 侧重：enterprise web workflows, compositional tasks
 - 观测：multimodal browser observations
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 33 task definitions — WorkArena-L1 atomic tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
-- 19,912 task instances — WorkArena-L1 documented instances（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
-- 682 task definitions — WorkArena++ compositional tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
+- 33 个任务定义 — WorkArena-L1 atomic tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
+- 19,912 个任务实例 — WorkArena-L1 documented instances（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
+- 682 个任务定义 — WorkArena++ compositional tasks（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md）
 
 Definitions and instantiated tasks are different units. ServiceNow instance access is gated. WorkArena-L1 and WorkArena++ should be reported separately.
 
@@ -1517,14 +1550,14 @@ Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README).
 - 评测方式：MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.
 - 侧重：memory-intensive mobile GUI tasks, cross-app long-horizon tasks
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 128 tasks — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
-- 40 tasks — data/memgui-tasks-40.csv at 3fb01b6 (quick-test subset)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv）
-- 26 applications — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
-- 115 tasks marked as requiring UI memory — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
+- 128 个任务 — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
+- 40 个任务 — data/memgui-tasks-40.csv at 3fb01b6 (quick-test subset)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv）
+- 26 个应用 — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
+- 115 个标记为需要 UI 记忆的任务 — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
 
 Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks. Leaderboard settings fix the judge models; debugging runs may use others.
 
@@ -1574,11 +1607,11 @@ Counts come from the pinned CSV files and match the README badges (128 tasks, 26
 - 评测方式：Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.
 - 侧重：screen understanding, grounding, task automation, task collaboration
 - 观测：screenshots
-- 任务设置：mixed
+- 任务设置：混合
 
 #### 数量记录
 
-- > 8,000 tasks — reported multi-level benchmark（来源报告；来源：https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md）
+- > 8,000 个任务 — reported multi-level benchmark（来源报告；来源：https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md）
 
 The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. The README documents four levels; release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration.
 
@@ -1621,14 +1654,14 @@ The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archi
 - 评测方式：Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.
 - 侧重：mobile GUI task completion in simulation, state verification and parallel training
 - 观测：simulated mobile screenshots, structured simulator state for judges
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 416 task templates — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
-- 28 simulated apps — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
-- 160 task identifiers — bench_env/splits/train.txt（计算得出；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt）
-- 256 task identifiers — bench_env/splits/test.txt（计算得出；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt）
+- 416 个任务模板 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
+- 28 个模拟应用 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md）
+- 160 个任务标识符 — bench_env/splits/train.txt（计算得出）（来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt）
+- 256 个任务标识符 — bench_env/splits/test.txt（计算得出）（来源：https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt）
 
 The split-ID inventory counts task IDs. Extra runtime/data dependencies and third-party content terms remain distinct.
 
@@ -1817,11 +1850,11 @@ Public image files and desktop/mobile/web annotation JSON files are listed. This
 - 评测方式：Publisher supplies original, action, description and negative instruction types; no common end-to-end success metric is asserted.
 - 侧重：instruction-form robustness, negative grounding requests
 - 观测：screenshots, instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 4 instruction types — instruction-variant design（来源报告；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md）
+- 4 种指令类型 — instruction-variant design（来源报告；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md）
 
 Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tasks are different units.
 
@@ -1865,17 +1898,17 @@ Code for the TimeWarp paper, which the README's citation lists as to appear in t
 - 评测方式：Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.
 - 侧重：robustness of web agents to UI redesigns across eras, information seeking across Wiki, News and Shop sites
 - 观测：BrowserGym observations of the self-hosted sites, as selected by the agent
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 231 tasks — BrowserGym task file src/browsergym/timewarp/data/test.raw.json（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 70 tasks — Wiki-only tasks（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 64 tasks — Shop-only tasks（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 47 tasks — News-only tasks（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 50 tasks — tasks spanning two or three sites（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 2 tasks — tasks scored only by the LLM judge（计算得出；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
-- 6 UI versions per site — numbered themes for each of Wiki, News and Shop（来源报告；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md）
+- 231 个任务 — BrowserGym task file src/browsergym/timewarp/data/test.raw.json（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 70 个任务 — Wiki-only tasks（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 64 个任务 — Shop-only tasks（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 47 个任务 — News-only tasks（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 50 个任务 — tasks spanning two or three sites（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 2 个任务 — tasks scored only by the LLM judge（计算得出）（来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json）
+- 6 个 UI 版本（每个网站） — numbered themes for each of Wiki, News and Shop（来源报告；来源：https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md）
 
 Task counts were computed from the task file's sites and eval.eval_types fields at the reviewed commit; test.raw.v2.json is byte-identical, and test.raw.llm_judge.json is a variant that routes all 231 tasks to the LLM judge. Results depend on the UI version served, so a score should state the version.
 
@@ -1932,6 +1965,40 @@ WebCanvas 提供面向真实场景网页智能体的框架和评估资源。
 
 ---
 
+## WebCanvas_showcase
+
+一个将网页智能体框架接入 WebCanvas 在线评测的示例仓库；其 SEEACT 目录在真实网站上运行 SeeAct，并对其在 Mind2Web-Live 任务中命中的关键节点计分。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-imeanai-webcanvas-showcase/
+- 原始来源：https://github.com/iMeanAI/WebCanvas_showcase
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:imeanai/webcanvas_showcase
+
+### 范围记录
+
+SEEACT holds the SeeAct codebase with an evaluate_with_webcanvas function and a script that aggregates key node scores and task completion rates. Tree Search for Language Model Agents and tarsier are listed as planned integrations. SeeAct runs on Playwright with OpenAI, Gemini or Ollama-served LLaVA models.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-imeanai-webcanvas-showcase/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/iMeanAI/WebCanvas_showcase/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/iMeanAI/WebCanvas_showcase/5ab2a8f222536c64c5621ca9155c49dafcc04fc7/README.md（获取于 2026-11-10T03:00:59Z；SHA-256：7cfd6fb05fe495ebf52c943f8801dc54e274948d1020eb9388ed5107b4dcb71c）
+- https://raw.githubusercontent.com/iMeanAI/WebCanvas_showcase/HEAD/LICENSE（获取于 2026-11-10T02:08:09Z；SHA-256：dd727fb2cfafa595dffb6f600a83563e510117d027b70e4cca8e37042c0f5e82）
+
+---
+
 ## WebLINX 1.1 (WebLINX-BrowserGym)
 
 WebLINX 1.1 是 WebLINX 对话式网页导航演示的重新处理版本，封装为单步 BrowserGym 任务，以预测的浏览器操作与记录中的对应步骤比对评分。
@@ -1958,19 +2025,19 @@ The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for
 - 评测方式：Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.
 - 侧重：conversational web navigation, next-action prediction from recorded demonstration states
 - 观测：screenshot, DOM snapshot, accessibility tree, extra element properties, open tab URLs and titles, chat history and goal
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 62,966 single-step tasks — all splits, task metadata at revision 9db39ad4（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 2,325 demonstrations — all splits, distinct demo_name values at revision 9db39ad4（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 26,410 single-step tasks — train split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 2,526 single-step tasks — valid split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 2,650 single-step tasks — test_iid split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 6,802 single-step tasks — test_cat split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 8,704 single-step tasks — test_geo split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 10,407 single-step tasks — test_vis split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 5,467 single-step tasks — test_web split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 62,966 个单步任务 — all splits, task metadata at revision 9db39ad4（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 2,325 条演示 — all splits, distinct demo_name values at revision 9db39ad4（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 26,410 个单步任务 — train split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 2,526 个单步任务 — valid split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 2,650 个单步任务 — test_iid split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 6,802 个单步任务 — test_cat split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 8,704 个单步任务 — test_geo split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 10,407 个单步任务 — test_vis split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 5,467 个单步任务 — test_web split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
 
 A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries. No agent was run.
 
@@ -2277,16 +2344,16 @@ Each scenario is a JSON snapshot of app states in the OpenApps workspace (messen
 - 评测方式：The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
 - 侧重：contextual-integrity compliance of computer-use agents, information disclosure across personal apps
 - 观测：decoded app states, rendered app UI (live-UI subset), natural-language task prompts
-- 任务设置：mixed
+- 任务设置：混合
 
 #### 数量记录
 
-- 117 scenarios — test split（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 50 scenarios — test_e2e split (subset of test used for live-UI evaluation)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 36 scenarios — seeds split (hand-written seed scenarios)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 75 scenarios — test split, failure mode task_ambiguity_overshare（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 24 scenarios — test split, failure mode recipient_misalignment（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 18 scenarios — test split, failure mode visual_co_location（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 117 个场景 — test split（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 50 个场景 — test_e2e split (subset of test used for live-UI evaluation)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 36 个场景 — seeds split (hand-written seed scenarios)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 75 个场景 — test split, failure mode task_ambiguity_overshare（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 24 个场景 — test split, failure mode recipient_misalignment（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 18 个场景 — test split, failure mode visual_co_location（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
 
 Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.
 
@@ -2308,6 +2375,40 @@ Setting is mixed: the reasoning track scores responses over decoded app states, 
 - https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py（获取于 2026-10-19T06:04:30Z；SHA-256：9527a682f91c5d7455853f392096ad47f117e35a14fda01b03969a4ef9c3bdc5）
 - https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py（获取于 2026-10-19T06:04:30Z；SHA-256：c51a95f1e0df49d627e986e6be845e3917260f4d1e82991bd88fecb6724dda24）
 - https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md（获取于 2026-10-19T06:04:29Z；SHA-256：3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde）
+
+---
+
+## AgentEval
+
+AgentGym 框架的基准套件：包含 1,160 条测试样本，覆盖 14 个环境，其中有 WebShop 和 WebArena 网页任务，以及文本游戏、具身、工具使用和 SQL 任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-85b700fbb7f1c599b7c3/
+- 原始来源：https://huggingface.co/datasets/AgentGym/AgentEval
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T03:01:09Z
+- ID：url:85b700fbb7f1c599b7c3
+
+### 范围记录
+
+The repository holds one JSON test file per environment, such as webshop_test.json, webarena_test.json and alfworld_test.json, and has no dataset card. The AgentGym README lists 200 WebShop and 20 WebArena evaluation items and runs tasks through its environment servers.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-85b700fbb7f1c599b7c3/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/AgentGym/AgentEval（获取于 2026-11-10T03:01:09Z；SHA-256：bfe6149f400f46dc3f423a9397525c98e12374b55fff997d443796f14c1fccd2）
+- https://huggingface.co/api/datasets/AgentGym/AgentEval（获取于 2026-11-10T03:01:09Z；SHA-256：bfe6149f400f46dc3f423a9397525c98e12374b55fff997d443796f14c1fccd2）
 
 ---
 
@@ -2367,11 +2468,11 @@ The public repository contains judges, evaluation utilities and annotation files
 - 评测方式：Compare automatic judgments with expert answers on task success, side effects and repetitiveness.
 - 侧重：automatic evaluator agreement, task success, side effects, repetition
 - 观测：web trajectories, screenshots, actions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,302 trajectories — paper-reported expert-reviewed set（来源报告；来源：https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending）
+- 1,302 条轨迹 — paper-reported expert-reviewed set（来源报告；来源：https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending）
 
 Counts refer to the paper study.
 
@@ -2485,12 +2586,12 @@ Primarily API and coding interaction; included as an adjacent comparison for GUI
 - 评测方式：State-based unit tests check task outcomes and unintended changes.
 - 侧重：interactive coding, cross-app tool use
 - 观测：API documentation, execution feedback
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 750 tasks — original AppWorld benchmark (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
-- 9 applications — original AppWorld environment (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
+- 750 个任务 — original AppWorld benchmark (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
+- 9 个应用 — original AppWorld environment (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
 
 This is an adjacent API/coding benchmark. Preserve the named release; task counts here refer to the original paper.
 
@@ -2678,6 +2779,40 @@ The setup uses companion repositories as submodules. It requires a Google accoun
 
 ---
 
+## bugcraft-dataset
+
+BugCraft-Bench 数据：来自 Mojira 的 86 份 Minecraft 崩溃缺陷报告，附带问题元数据和附件，用于评测借助视觉大模型操作游戏、复现崩溃的智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-2c85ae447a0eeed51393/
+- 原始来源：https://huggingface.co/erayyapagci/bugcraft-dataset
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：评测
+- 证据核查日期：2026-11-10T03:01:03Z
+- ID：url:2c85ae447a0eeed51393
+
+### 范围记录
+
+Each bugcraft_bench/MC-<id> folder holds issue.json, websites.json and the report's attachments such as screenshots, crash logs, videos and zip files; no license is stated. The project page reports 34.9% end-to-end reproduction for BugCraft with GPT-4.1 and 25.5% for the OpenAI Computer Use Agent.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2c85ae447a0eeed51393/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/erayyapagci/bugcraft-dataset（获取于 2026-11-10T03:01:03Z；SHA-256：c127cfb95d664b75afa0ac6325fa261f6c1c6f21fa3b635ec55ad11704d300f0）
+- https://huggingface.co/api/models/erayyapagci/bugcraft-dataset（获取于 2026-11-10T03:01:03Z；SHA-256：c127cfb95d664b75afa0ac6325fa261f6c1c6f21fa3b635ec55ad11704d300f0）
+
+---
+
 ## ClawBench
 
 真实网站上的日常任务基准，让浏览器智能体在容器化 Chromium 中运行，拦截每次最终提交请求并通过 URL 匹配和 LLM 裁判评分，同时记录 5 层运行证据。
@@ -2704,16 +2839,16 @@ Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (T
 - 评测方式：Two stages per task run: a request interceptor inside the container blocks the final HTTP request and marks the run intercepted when its URL regex and method match the task's eval_schema; an LLM judge (default deepseek-v4-pro at temperature 0) then checks the intercepted body against the instruction. A pass needs both. The original V1 paper rubric instead compares agent and human-reference trajectories.
 - 侧重：everyday online tasks on production websites, multi-step, write-heavy form workflows
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 152 tasks — V1 corpus shipped in test-cases/v1 (task.json files)（计算得出；来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
-- 129 tasks — V2 corpus shipped in test-cases/v2 (task.json files)（计算得出；来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
-- 153 tasks — V1 corpus as published in the paper and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
-- 130 tasks — V2 corpus as published and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
-- 143 live websites — shipped V1 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
-- 63 live websites — shipped V2 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
+- 152 个任务 — V1 corpus shipped in test-cases/v1 (task.json files)（计算得出）（来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
+- 129 个任务 — V2 corpus shipped in test-cases/v2 (task.json files)（计算得出）（来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
+- 153 个任务 — V1 corpus as published in the paper and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
+- 130 个任务 — V2 corpus as published and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
+- 143 个在线网站 — shipped V1 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
+- 63 个在线网站 — shipped V2 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
 
 The README says two ASPCA tasks were removed after publication, so the shipped corpora hold 152 and 129 tasks while scoring.md still divides by 153 and 130. Live sites change over time, and the README asks for comparisons under the same corpus revision, harness and rubric. Agents run through selectable harnesses (for example Hermes and OpenClaw), so observations and actions depend on the harness.
 
@@ -2858,14 +2993,14 @@ Public Parquet configs separate trajectories from per-reviewer annotations. The 
 - 评测方式：Agreement metrics including Cohen’s kappa, accuracy and F1 against human annotations; review stages must be kept distinct.
 - 侧重：verifier-human agreement, process quality
 - 观测：screenshots, action logs, final answers
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 106 trajectories — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
-- 154 trajectories — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
-- 215 annotation rows — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
-- 154 annotation rows — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 106 条轨迹 — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 154 条轨迹 — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 215 行标注数据 — fara7b_om2w_browserbase split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
+- 154 行标注数据 — internal split（来源报告；来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md）
 
 Trajectory rows and reviewer rows have different grains. The released Parquet files are public despite internal task labels. No payload data was downloaded.
 
@@ -2946,13 +3081,13 @@ The public Hub lists six dataset families of JSON/JSONL partition annotations. T
 - 评测方式：The provided evaluation workflow performs model inference over selected partitions and invokes test_swift_fed.py for accuracy scoring.
 - 侧重：mobile-agent federated training, data heterogeneity
 - 观测：mobile-agent examples with externally sourced screenshots
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 6 dataset families — released FedMABench partition families（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md）
-- 3 heterogeneity types — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
-- 8 federated learning algorithms — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
+- 6 个数据集系列 — released FedMABench partition families（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md）
+- 3 种异构类型 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
+- 8 种联邦学习算法 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
 
 The dataset-family count measures dataset families. Code and data licenses are unknown; external image sources are required.
 
@@ -3127,12 +3262,12 @@ The card YAML at revision 727c857b lists one eval split of 3,120 examples in fou
 - 评测方式：eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
 - 侧重：step-level web GUI element localization, robustness to visual and instruction perturbations
 - 观测：rendered web-page screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 3,120 examples — eval split at revision 727c857b（来源报告；来源：https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md）
-- 283 distinct Mind2Web task IDs — eval split（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval）
+- 3,120 个示例 — eval split at revision 727c857b（来源报告；来源：https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md）
+- 283 个不重复的 Mind2Web 任务 ID — eval split（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval）
 
 Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.
 
@@ -3179,15 +3314,15 @@ This Hub repository is the public-ladder subset: the paper and project page desc
 - 评测方式：Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.
 - 侧重：privacy-risk recognition in GUI agent screenshots, agent planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
 - 观测：recorded trajectory screenshots, task goals, plan and progress text
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 121 evaluation trajectories — public-ladder evaluation set (68 Android + 53 PC)（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
-- 2,002 screenshots (evaluation samples) — public-ladder evaluation set, data/eval.jsonl（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
-- 26,407 region-level privacy annotations — public-ladder evaluation set（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
-- 68 Android task directories — Android/ at revision c2b5ca41（计算得出；来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
-- 53 PC task directories — PC/ at revision c2b5ca41（计算得出；来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
+- 121 条评测轨迹 — public-ladder evaluation set (68 Android + 53 PC)（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
+- 2,002 张截图（评测样本） — public-ladder evaluation set, data/eval.jsonl（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
+- 26,407 条区域级隐私标注 — public-ladder evaluation set（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
+- 68 个 Android 任务目录 — Android/ at revision c2b5ca41（计算得出）（来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
+- 53 个 PC 任务目录 — PC/ at revision c2b5ca41（计算得出）（来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
 
 Trajectories, screenshots and annotations are different units and are counted separately. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.
 
@@ -3236,14 +3371,14 @@ Official code of the Gym-Anything paper. The README describes three parts that c
 - 评测方式：Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
 - 侧重：long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
 - 观测：screen frames, UI tree (some macOS environments)
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 200 software applications — applications processed into CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
-- > 10,000 long-horizon tasks — CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
-- 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
-- 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
+- 200 个软件应用 — applications processed into CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
+- > 10,000 个长程任务 — CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
+- 7,150 个任务 — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出）（来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
+- 191 个环境 — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出）（来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
 
 The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.
 
@@ -3367,12 +3502,12 @@ Sister project of ClawBench. The repository holds the harness-bench CLI (harness
 - 评测方式：Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.
 - 侧重：comparison of agent harnesses with the base model held fixed, everyday online tasks in a real browser
 - 观测：harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 153 tasks — ClawBench shared task pool, held in the separate ClawBench repository（来源报告；来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md）
-- 6 harness adapters — clawbench.harnesses entry points registered in pyproject.toml（计算得出；来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml）
+- 153 个任务 — ClawBench shared task pool, held in the separate ClawBench repository（来源报告；来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md）
+- 6 个评测框架适配器 — clawbench.harnesses entry points registered in pyproject.toml（计算得出）（来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml）
 
 Task definitions and judge prompts live in ClawBench. Cloud harnesses without credentials are reported as skipped, not scored as zero. No results were published at the inspected commit.
 
@@ -3422,21 +3557,21 @@ The Hub repository holds data only: multi-part offline screenshot archives, elem
 - 评测方式：The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.
 - 侧重：demonstration-conditioned mobile GUI task execution, k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores
 - 观测：step screenshots, high-level and low-level instructions, UI element annotations, support demonstrations
-- 任务设置：mixed
+- 任务设置：混合
 
 #### 数量记录
 
-- 2,353 tasks — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 2,252 tasks — LearnGUI-Offline（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 101 tasks — LearnGUI-Online（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 2,001 tasks — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 251 tasks — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 26,184 step actions — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 3,469 step actions — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 1,423 step actions — Online-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 73 applications — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
-- 101 task instruction files — online/low_level_instructions at the inspected revision（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
-- 101 screen recordings — online/raw_data at the inspected revision（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
+- 2,353 个任务 — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 2,252 个任务 — LearnGUI-Offline（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 101 个任务 — LearnGUI-Online（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 2,001 个任务 — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 251 个任务 — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 26,184 个步骤动作 — Offline-Train split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 3,469 个步骤动作 — Offline-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 1,423 个步骤动作 — Online-Test split（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 73 个应用 — LearnGUI offline and online tasks combined（来源报告；来源：https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md）
+- 101 个任务指令文件 — online/low_level_instructions at the inspected revision（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
+- 101 段屏幕录像 — online/raw_data at the inspected revision（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/LearnGUI）
 
 Task, step-action, application and file counts are different units; these counts are reported separately. Each k-shot table row reuses the same split tasks with a different number of support demonstrations; the 1-, 2- and 3-shot rows describe those same tasks.
 
@@ -3481,14 +3616,14 @@ LlamaTouch 利用应用状态信息评估移动端 UI 任务。
 - 评测方式：Checks whether the recorded execution visits all annotated essential states.
 - 侧重：mobile task completion, essential-state evaluation
 - 观测：screenshots, view hierarchies, Android activity names
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 495 tasks — complete task collection（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
-- 102 tasks — AITW-derived subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
-- 393 tasks — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
-- 46 Android applications — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 495 个任务 — complete task collection（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 102 个任务 — AITW-derived subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 393 个任务 — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 46 个 Android 应用 — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
 
 Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported.
 
@@ -3562,12 +3697,12 @@ MacAgentBench 包含覆盖 25 个应用的 676 项 macOS 任务；每项任务�
 - 评测方式：Deterministic rule-based evaluators with intermediate checkpoints.
 - 侧重：macOS task completion, cross-application workflows
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 676 tasks — documented MacAgentBench suite（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
-- 25 applications — documented application coverage（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
+- 676 个任务 — documented MacAgentBench suite（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
+- 25 个应用 — documented application coverage（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
 
 The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting, with observation representation varying by framework.
 
@@ -3679,7 +3814,7 @@ The card distinguishes complete common-simple/common-complex JSON files from sam
 - 评测方式：Paper defines multi-path and noise/ambiguity evaluations; the public card identifies which files are full common-task sets and which are samples.
 - 侧重：offline multi-path evaluation, noisy interfaces, ambiguous instructions
 - 观测：mobile screenshots, XML UI state, instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
@@ -3732,12 +3867,12 @@ Public task files are available as JSONL and XLSX with documentation. The card e
 - 评测方式：Published task definitions include preconditions and clarification requirements.
 - 侧重：mobile task completion, clarification behavior, cross-app tasks
 - 观测：mobile app interfaces
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 150 tasks — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
-- 40 mobile apps — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
+- 150 个任务 — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
+- 40 个移动应用 — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
 
 The card describes 140 single-app and 10 cross-app tasks. Task and app counts are different units.
 
@@ -3781,13 +3916,13 @@ These clients simulate named commercial applications. The code and simulator dat
 - 评测方式：Programmatic checkers inspect changes in application state; both modes share task definitions and initial states.
 - 侧重：task completion, cross-application workflows, GUI and app-native tool comparison
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 215 task definitions — official.json（计算得出；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json）
-- 63 simulated clients — complete simulator installation（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
-- 35 simulated clients — new clients in this release（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
+- 215 个任务定义 — official.json（计算得出）（来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json）
+- 63 个模拟客户端 — complete simulator installation（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
+- 35 个模拟客户端 — new clients in this release（来源报告；来源：https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md）
 
 The task count was checked against unique task_id values in the published manifest. The 35 new clients are a subset of 63 total clients. This simulator runs in a browser; Android-emulator apps are a separate part of OpenMobile-2.
 
@@ -3804,6 +3939,40 @@ The task count was checked against unique task_id values in the published manife
 - https://os-copilot.github.io/OpenMobile2-Home/（获取于 2026-10-17T01:46:06Z；SHA-256：9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc）
 - https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json（获取于 2026-10-17T01:50:11Z；SHA-256：35c1641b349201c68917fbe4c4036814487678e9588d9b1c903af26917800316）
 - https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/LICENSE（获取于 2026-10-17T01:52:51Z；SHA-256：7618cd7de039c264759ca8ca0b9130c6de63a4536dcf436baedd4cfbf639073e）
+
+---
+
+## MobileRisk
+
+带标注的 Android 智能体轨迹，分为安全与不安全两组，用于 OS-Sentinel 基准，衡量检测方法识别移动端 GUI 智能体不安全操作的能力。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-ca7bfba3981fc7e5b3bf/
+- 原始来源：https://huggingface.co/datasets/OS-Copilot/MobileRisk
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：安全与防护、评测、手机操作
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:ca7bfba3981fc7e5b3bf
+
+### 范围记录
+
+Files are zip archives such as safe_du.zip, safe_mi.zip and unsafe_mi.zip; the Hub preview shows 3,906 image rows. The OS-Sentinel README evaluates VLM and LLM detectors with pipeline/eval.py and related scripts, which need an API key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/OS-Copilot/MobileRisk（获取于 2026-11-10T03:01:14Z；SHA-256：71e79e2f4b105fc19ceb7f961373ce7d07c2748dd5977b42e7f0043bc7f2dc26）
+- https://huggingface.co/api/datasets/OS-Copilot/MobileRisk（获取于 2026-11-10T03:01:14Z；SHA-256：71e79e2f4b105fc19ceb7f961373ce7d07c2748dd5977b42e7f0043bc7f2dc26）
 
 ---
 
@@ -3897,15 +4066,15 @@ Each task has a SHA-1 ID, a prompt, a starting URL, a difficulty level, a refere
 - 评测方式：Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.
 - 侧重：long-horizon web tasks from real browsing sessions
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 200 tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 45 easy tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 46 medium tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 109 hard tasks — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
-- 1,225 rubric items — data/odysseys.json at 8378146（计算得出；来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 200 个任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 45 个简单任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 46 个中等难度任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 109 个困难任务 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
+- 1,225 项评分细则 — data/odysseys.json at 8378146（计算得出）（来源：https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json）
 
 Counts were computed from the pinned task file and match the README's 200 tasks split into 45 easy, 46 medium and 109 hard. Difficulty follows reference step count and domain spread. The observation and action spaces are those of the OSWorld agent used; the paper setup uses a 100-step budget.
 
@@ -3950,13 +4119,13 @@ OmniAct 是用于生成计算机交互程序的数据集和基准。
 - 评测方式：The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.
 - 侧重：offline desktop/web action-script generation
 - 观测：screenshot, natural-language task
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 6,788 task examples — train split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
-- 2,020 task examples — test split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
-- 991 task examples — val split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
+- 6,788 个任务示例 — train split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
+- 2,020 个任务示例 — test split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
+- 991 个任务示例 — val split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
 
 This released split table totals 9,799 examples; paper-level collection size is a separate population. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation uses offline script comparison. MIT is the Hub data declaration; original app/content rights are not resolved by it.
 
@@ -4102,14 +4271,14 @@ The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior I
 - 评测方式：Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
 - 侧重：deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
 - 观测：screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 150 tasks as reported by the paper/README — reported benchmark total; unique released task IDs use a separate count（来源报告；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md）
-- 50 task IDs — released misuse task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json）
-- 10 task IDs — released injection task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json）
-- 50 task IDs — released misbehavior task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json）
+- 150 个任务（据论文/README 报告） — reported benchmark total; unique released task IDs use a separate count（来源报告；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md）
+- 50 个任务 ID — released misuse task-ID list; before injection/goal expansion（计算得出）（来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json）
+- 10 个任务 ID — released injection task-ID list; before injection/goal expansion（计算得出）（来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json）
+- 50 个任务 ID — released misbehavior task-ID list; before injection/goal expansion（计算得出）（来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json）
 
 README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Apache-2.0 covers the code. Publisher asks that the benchmark not be used directly as agent training data.
 
@@ -4370,14 +4539,14 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 - 评测方式：A multimodal evaluator and annotated key-component matching assess completion; the framework also reports resource-use metrics.
 - 侧重：mobile task completion, resource use, cross-app workflows
 - 观测：screenshot trajectories
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 340 tasks — complete README task collection（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
-- 300 tasks — single-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
-- 40 tasks — cross-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
-- 66 applications — README total including third-party, Google, and system apps（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 340 个任务 — complete README task collection（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 300 个任务 — single-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 40 个任务 — cross-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 66 个应用 — README total including third-party, Google, and system apps（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
 
 The two task subsets partition the 340 tasks. The integrated agent and evaluator modes must accompany results. The preconfigured emulator snapshot is still marked coming soon in the inspected documentation.
 
@@ -4706,15 +4875,15 @@ Documented by a March 2026 blog post at webarena.dev; the README cites that post
 - 评测方式：Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.
 - 侧重：browser agents on generated replicas of real web applications, programmatic state verification of task outcomes
 - 观测：DOM-derived page state through browser-use (screenshots optional), screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 1,260 tasks — initial release, ten environments (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
-- 10 environments — initial release (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
-- 13 environment directories — apps/ at commit 1ca7781, excluding ablations, app-description and user-manuals（计算得出；来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
-- 1,620 real-task verifier scripts — apps/*/real-tasks/task_*.py at commit 1ca7781 (260 easy, 260 medium, 1,100 hard by file prefix)（计算得出；来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
-- 737 functional-test verifier scripts — apps/*/function-tasks/task_*.py at commit 1ca7781（计算得出；来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
+- 1,260 个任务 — initial release, ten environments (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
+- 10 个环境 — initial release (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
+- 13 个环境目录 — apps/ at commit 1ca7781, excluding ablations, app-description and user-manuals（计算得出）（来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
+- 1,620 个真实任务验证脚本 — apps/*/real-tasks/task_*.py at commit 1ca7781 (260 easy, 260 medium, 1,100 hard by file prefix)（计算得出）（来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
+- 737 个功能测试验证脚本 — apps/*/function-tasks/task_*.py at commit 1ca7781（计算得出）（来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
 
 The repository holds three more environment directories than the blog's release table, so state which environments and task suite (real-tasks or function-tasks) a score covers. Keep the agent harness, vision setting, step limit and task timeout with any score. No benchmark run was executed for this review.
 
@@ -4864,11 +5033,11 @@ Two public Parquet shards are present. Card metadata reports 776 test rows, wher
 - 评测方式：Compare reward-model preferences with the provided chosen/rejected decision labels; no independent score was reproduced.
 - 侧重：web process-reward evaluation
 - 观测：page screenshots, text observations, action history, task checklists
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 776 rows — Hub test split（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/raw/main/README.md）
+- 776 行 — Hub test split（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/raw/main/README.md）
 
 The current Hub row count and project case-count claim use unresolved counting units. Candidate lists make rows a different unit from tasks or pairs.
 
@@ -4913,12 +5082,12 @@ Public TSV files contain V1, V2 and refusal task definitions. The card declares 
 - 评测方式：Task-specific precomputed rubrics; refusal tasks are a separate evaluation population.
 - 侧重：live web task completion, unsafe-request refusal
 - 观测：web pages
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 609 task identities — main V1/V2 suite (shared identities)（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
-- 111 tasks — refusal suite（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
+- 609 个任务标识 — main V1/V2 suite (shared identities)（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
+- 111 个任务 — refusal suite（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
 
 V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions.
 
@@ -5274,13 +5443,13 @@ Agents interact with simulated applications through function calls; it is includ
 - 评测方式：Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.
 - 侧重：prompt-injection robustness, task utility under attack
 - 观测：tool-call results from simulated applications
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 97 user tasks — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
-- 629 security test cases — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
-- 4 task suites — src/agentdojo/default_suites/v1 directory listing（计算得出；来源：https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1）
+- 97 个用户任务 — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
+- 629 个安全测试用例 — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
+- 4 个任务套件 — src/agentdojo/default_suites/v1 directory listing（计算得出）（来源：https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1）
 
 Paper counts describe the reported benchmark; later suite versions in the repository may change tasks. Keep the suite version, attack, defense and model with a result.
 
@@ -5413,7 +5582,7 @@ Paper counts describe the reported benchmark; later suite versions in the reposi
 - 评测方式：The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
 - 侧重：multi-step Android tasks, cross-app workflows and instruction constraints
 - 观测：UI hierarchy text, screenshots, combined text/image observations
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
@@ -5465,15 +5634,15 @@ The Hub repository holds five benchmark JSON files, three screenshot tar.gz arch
 - 评测方式：Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.
 - 侧重：single-step Android GUI action prediction, element grounding against target boxes
 - 观测：screenshots, task goals, step instructions (low-level files), action history
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 8,377 step records — android_control_high_task-improved.json (high-level goals, revised labels)（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 1,540 episodes (distinct screenshot directories) — android_control_high_task-improved.json（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 527 step records with revised task text — android_control_high_task-improved.json（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 85 step records with corrected ground-truth actions — android_control_high_task-improved.json (gpt_corrected true)（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 8,377 step records — android_control_low_bbox.json (step instructions)（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json）
+- 8,377 条步骤记录 — android_control_high_task-improved.json (high-level goals, revised labels)（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 1,540 个回合（不重复的截图目录） — android_control_high_task-improved.json（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 527 条含修订任务文本的步骤记录 — android_control_high_task-improved.json（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 85 条含已更正真值动作的步骤记录 — android_control_high_task-improved.json (gpt_corrected true)（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 8,377 条步骤记录 — android_control_low_bbox.json (step instructions)（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json）
 
 Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals; these counts are reported separately.
 
@@ -5517,12 +5686,12 @@ Counts were computed from the pinned JSON files. The high-level bbox file before
 - 评测方式：Controlled backend data and outcome-based task verification.
 - 侧重：mobile task completion
 - 观测：mobile interfaces
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 557 tasks — AppSim-Bench paper-described release（来源报告；来源：https://arxiv.org/abs/2609.07712）
-- 17 applications — published simulated app set（来源报告；来源：https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md）
+- 557 个任务 — AppSim-Bench paper-described release（来源报告；来源：https://arxiv.org/abs/2609.07712）
+- 17 个应用 — published simulated app set（来源报告；来源：https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md）
 
 Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions describe setup; the evaluated platform is separate.
 
@@ -5596,14 +5765,14 @@ Sparks Solutions publishes one ungated test split of 22 Parquet shards at revisi
 - 评测方式：The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.
 - 侧重：grounding infotainment UI elements from test-action commands, judging expected-result statements as passed or failed
 - 观测：photographs and screenshots of in-vehicle infotainment displays, English test-action or expected-result text
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 4,208 annotations — test split, the only split, at revision d760810c（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
-- 998 images — images in the release（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
-- 2,269 annotations — Test Action rows in the test split, from the Hub dataset viewer's column statistics（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
-- 1,939 annotations — Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
+- 4,208 条标注 — test split, the only split, at revision d760810c（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
+- 998 张图像 — images in the release（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
+- 2,269 条标注 — Test Action rows in the test split, from the Hub dataset viewer's column statistics（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
+- 1,939 条标注 — Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
 
 Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows).
 
@@ -5645,13 +5814,13 @@ B-MoCA 是涵盖不同界面配置的移动设备控制基准。
 - 评测方式：Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.
 - 侧重：Android control across visual/device variation, generalization across environment snapshots
 - 观测：screenshot pixels, XML view hierarchy, goal instruction
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 131 task-definition files — asset/tasks/**/*.textproto in retained release/ver.3 tree; source-file inventory distinct from the paper test-task total（计算得出；来源：https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1）
-- 35 environment configuration rows — environments_train.csv, retained release/ver.3 snapshot（计算得出；来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv）
-- 10 environment configuration rows — environments_test.csv, retained release/ver.3 snapshot（计算得出；来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv）
+- 131 个任务定义文件 — asset/tasks/**/*.textproto in retained release/ver.3 tree; source-file inventory distinct from the paper test-task total（计算得出）（来源：https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1）
+- 35 行环境配置数据 — environments_train.csv, retained release/ver.3 snapshot（计算得出）（来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv）
+- 10 行环境配置数据 — environments_test.csv, retained release/ver.3 snapshot（计算得出）（来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv）
 
 Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Apache-2.0 covers the code.
 
@@ -5853,11 +6022,11 @@ This record covers the BrowseComp reference implementation and question set that
 - 评测方式：A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.
 - 侧重：open-web information seeking, persistent multi-site search
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 1,266 questions — browse_comp_test_set.csv（计算得出；来源：https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv）
+- 1,266 个问题 — browse_comp_test_set.csv（计算得出）（来源：https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv）
 
 The count is the number of data rows in the released CSV, whose problem and answer fields are XOR-encrypted with a per-row canary and carry a problem_topic label. Results depend on the agent's browsing tools, the grader model and the number of repeats; record these with a score.
 
@@ -6272,14 +6441,14 @@ The source tree contains graph and task JSON files plus construction/evaluation 
 - 评测方式：The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.
 - 侧重：long-horizon mobile task completion, multi-path graph interaction
 - 观测：mobile screenshots represented as graph states
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 175 tasks — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
-- 101 cross-app tasks — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
-- 74 single-app tasks — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
-- 21 mobile applications — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 175 个任务 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 101 个跨应用任务 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 74 个单应用任务 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
+- 21 个移动应用 — reported ColorBench benchmark（来源报告；来源：https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md）
 
 The interaction environment replays graph states. The 101 and 74 subsets partition the reported 175 tasks.
 
@@ -6333,14 +6502,14 @@ Platform code from the xlang-ai organization; the repository description and REA
 - 评测方式：After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.
 - 侧重：human pairwise preference between computer-use agents, open-ended user-written tasks
 - 观测：live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 2,010 verified two-agent battle sessions — backend/scripts/sessions_clean_filtered.csv (started 2025-02-13 to 2025-05-15)（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
-- 1,070 verified two-agent battle sessions — Windows sessions in the CSV（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
-- 940 verified two-agent battle sessions — Ubuntu sessions in the CSV（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
-- 615 verified two-agent battle sessions — sessions whose battle_result is tie（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 2,010 场已验证的双智能体对战 — backend/scripts/sessions_clean_filtered.csv (started 2025-02-13 to 2025-05-15)（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 1,070 场已验证的双智能体对战 — Windows sessions in the CSV（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 940 场已验证的双智能体对战 — Ubuntu sessions in the CSV（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 615 场已验证的双智能体对战 — sessions whose battle_result is tie（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
 
 Counts are rows of the released CSV, computed with Python's csv module; each row is one session with two agents and a distinct session ID. Agent observations and actions are defined by the agent implementations in the unreleased hub.
 
@@ -6388,11 +6557,11 @@ Counts are rows of the released CSV, computed with Python's csv module; each row
 - 评测方式：Graph-based evaluators measure progress through task requirements.
 - 侧重：cross-environment tasks
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 120 tasks — CRAB Benchmark-v0 (paper)（来源报告；来源：https://arxiv.org/abs/2407.01511）
+- 120 个任务 — CRAB Benchmark-v0 (paper)（来源报告；来源：https://arxiv.org/abs/2407.01511）
 
 CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0.
 
@@ -6793,12 +6962,12 @@ The Hub repository is named osworld_env; its card titles the release DynamicGUIB
 - 评测方式：Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.
 - 侧重：desktop task completion when interface state changes between observations
 - 观测：English and Chinese task instructions, live desktop application state
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 500 task JSON files — dynamic/ directory at Hub revision 44adf69d（计算得出；来源：https://huggingface.co/api/datasets/L1007555652/osworld_env）
-- 150 tasks — original verified release before the 20 August 2026 expansion（来源报告；来源：https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md）
+- 500 个任务 JSON 文件 — dynamic/ directory at Hub revision 44adf69d（计算得出）（来源：https://huggingface.co/api/datasets/L1007555652/osworld_env）
+- 150 个任务 — original verified release before the 20 August 2026 expansion（来源报告；来源：https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md）
 
 Computed per-folder task files: Chrome 75, GIMP 45, LibreOffice Calc 50, Impress 42, Writer 50, multi-app 66, OS 42, Thunderbird 44, VLC 38 and VS Code 48. The card groups tasks into interruptive UI states, ephemeral references, dynamic list selection and content-triggered interaction.
 
@@ -7300,14 +7469,14 @@ The card calls this the full GroundUI-18K of AgentStudio and a test set reserved
 - 评测方式：The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - 侧重：instruction-conditioned GUI element grounding
 - 观测：screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 18,026 examples — Hub split at revision f061eba2 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md）
-- 11,593 examples — platform label web（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
-- 2,476 examples — platform label desktop（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
-- 3,957 examples — platform label mobile（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
+- 18,026 个示例 — Hub split at revision f061eba2 (named train, described as a test set)（来源报告；来源：https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md）
+- 11,593 个示例 — platform label web（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
+- 2,476 个示例 — platform label desktop（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
+- 3,957 个示例 — platform label mobile（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train）
 
 Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; this count covers the full set.
 
@@ -7385,17 +7554,17 @@ Formerly published as saelyne/GuideBench; the Hub API redirects that name to thi
 - 评测方式：Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.
 - 侧重：user behavior state detection, short-term intent prediction, help need and help content prediction
 - 观测：screen-recording video segments
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 120 demonstrations — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
-- 67.5 hours of screen recordings — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
-- 54 novice users — GUIDE participants（来源报告；来源：https://guide-bench.github.io）
-- 10 applications — GUIDE software coverage（来源报告；来源：https://guide-bench.github.io）
-- 40 open-ended tasks — GUIDE task design（来源报告；来源：https://guide-bench.github.io）
-- 120 transcription files — Hub manifest at revision 783caa86 (transcriptions/)（计算得出；来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
-- 40 task-description files — Hub manifest at revision 783caa86 (tasks/)（计算得出；来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
+- 120 条演示 — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
+- 67.5 小时屏幕录像 — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
+- 54 名新手用户 — GUIDE participants（来源报告；来源：https://guide-bench.github.io）
+- 10 个应用 — GUIDE software coverage（来源报告；来源：https://guide-bench.github.io）
+- 40 个开放式任务 — GUIDE task design（来源报告；来源：https://guide-bench.github.io）
+- 120 个转录文件 — Hub manifest at revision 783caa86 (transcriptions/)（计算得出）（来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
+- 40 个任务描述文件 — Hub manifest at revision 783caa86 (tasks/)（计算得出）（来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
 
 Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. The access gate leaves segment counts per task uncomputed from the annotation files.
 
@@ -7442,13 +7611,13 @@ The README is an anonymous-review version without authors or a citation; the pap
 - 评测方式：privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.
 - 侧重：privacy-region recognition on GUI screenshots, planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
 - 观测：recorded trajectory screenshots, task instructions, next-action plans
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 34 Android task directories — dataset_example/Android at commit 542a902a, of which 33 are complete trajectories（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
-- 26 PC trajectories — dataset_example/PC at commit 542a902a（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
-- 290 next-action grounding samples — dataset_example/grounding_data/manifest.jsonl at commit 542a902a（计算得出；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl）
+- 34 个 Android 任务目录 — dataset_example/Android at commit 542a902a, of which 33 are complete trajectories（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
+- 26 条 PC 轨迹 — dataset_example/PC at commit 542a902a（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
+- 290 个下一步动作定位样本 — dataset_example/grounding_data/manifest.jsonl at commit 542a902a（计算得出）（来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl）
 
 Counts describe dataset_example/, the repository's review subset for smoke tests; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units; these counts are reported separately.
 
@@ -7496,12 +7665,12 @@ Counts describe dataset_example/, the repository's review subset for smoke tests
 - 评测方式：Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
 - 侧重：GUI page-element detection, element-description consistency
 - 观测：page screenshot
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,000 page-annotation entries — English annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
-- 1,000 page-annotation entries — Chinese annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
+- 1,000 条页面标注条目 — English annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
+- 1,000 条页面标注条目 — Chinese annotation subset reported by README（来源报告；来源：https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md）
 
 Each annotation entry represents a page. README illustrates num_samples=4796 as example output; the corpus count remains unspecified. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.
 
@@ -7786,12 +7955,12 @@ iOSWorld 是原生 iPhone 模拟器基准，包含共享用户数据、应用工
 - 评测方式：Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.
 - 侧重：personalized phone tasks, cross-app workflows
 - 观测：screenshots, accessibility XML (optional)
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 133 tasks — tasks.json benchmark（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
-- 26 applications — bundled SwiftUI apps（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
+- 133 个任务 — tasks.json benchmark（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
+- 26 个应用 — bundled SwiftUI apps（来源报告；来源：https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md）
 
 Vision-only, vision-plus-XML, and MCP modes expose different information and tools. The documented default evaluator is model-based; compare the same mode and judge.
 
@@ -8443,11 +8612,11 @@ The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards.
 - 评测方式：The publisher reports a fifty-task real-device evaluation.
 - 侧重：mobile task completion
 - 观测：Android device interface
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 50 tasks — MobBench tasks used in the paper（来源报告；来源：https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md）
+- 50 个任务 — MobBench tasks used in the paper（来源报告；来源：https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md）
 
 Task definitions are distinct from device images, agent execution and automated scoring.
 
@@ -8524,11 +8693,11 @@ The public Hub manifest contains one test Parquet file. This resource is the ben
 - 评测方式：The published task schema contains rubrics and human_reference_operations. No automated scoring protocol or single numeric agent metric is established by the inspected card; execution uses separately configured Android tooling.
 - 侧重：long-horizon multi-app Android task execution
 - 观测：task instructions, app/scenario metadata
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 25 task-definition records — Hub test split at revision b8eca829（来源报告；来源：https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md）
+- 25 条任务定义记录 — Hub test split at revision b8eca829（来源报告；来源：https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md）
 
 Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record contains task-definition fields and human-reference operation strings; the counted unit is tasks. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.
 
@@ -8632,7 +8801,7 @@ MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获�
 - 评测方式：Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
 - 侧重：mobile task helpfulness, harm prevention during Android interaction
 - 观测：screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
@@ -8803,13 +8972,13 @@ GitHub marks the repository archived. Notte Labs, the developer of one of the co
 - 评测方式：A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.
 - 侧重：live-website task completion, agent self-report calibration, run-to-run variance
 - 观测：agent-defined browser observations, final screenshots and response for the judge
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 30 tasks — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出；来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
-- 15 websites — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出；来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
-- 643 tasks — full WebVoyager task file in the repository (eval/data/webvoyager/webvoyager.jsonl)（计算得出；来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl）
+- 30 个任务 — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出）（来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
+- 15 个网站 — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)（计算得出）（来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl）
+- 643 个任务 — full WebVoyager task file in the repository (eval/data/webvoyager/webvoyager.jsonl)（计算得出）（来源：https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl）
 
 Counts are distinct task identifiers and website_name values in the inspected task files at the reviewed commit. The README calls WebVoyager about 600 tasks; the repository file holds 643 rows. Results depend on the agent version, model, step and time budget, IP location and run date.
 
@@ -8891,7 +9060,7 @@ Public code includes app/task/configuration and agent-launching implementations.
 - 评测方式：Tasks define check_if_task_is_complete(initial_state,current_state); app-specific reward logic evaluates underlying state, with custom checks for code-editor file contents. Observation/history flags are configurable. No universal single fixed task total or published-run reproduction is implied.
 - 侧重：UI-agent reliability under environment variation, state-based browser task evaluation
 - 观测：screenshots, accessibility trees, set-of-marks and coordinates (configurable)
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
@@ -8946,11 +9115,11 @@ The Hub card provides split/format/license metadata, while the official OS-Oracl
 - 评测方式：The official repository runs model inference and computes accuracy with cal_acc.py.
 - 侧重：GUI critic prediction
 - 观测：benchmark JSONL, UI screenshots
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 3 platform JSONL splits — mobile/desktop/web configurations in the Hub card（计算得出；来源：https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md）
+- 3 个平台 JSONL 划分 — mobile/desktop/web configurations in the Hub card（计算得出）（来源：https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md）
 
 No sample count is inferred from the n<1K Hub size band. OS-Oracle training data and weights remain pending; released evaluation code covers a separate component.
 
@@ -9000,11 +9169,11 @@ Public task manifests, agent runner and evaluator code are present, and the link
 - 评测方式：Task configurations provide evaluators for application/system state, using an OSWorld-derived runtime.
 - 侧重：breadth of desktop task coverage, depth of desktop task execution
 - 观测：desktop observations from an Ubuntu virtual machine
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 416 category/task references — evaluation_examples/all.json（计算得出；来源：https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/evaluation_examples/all.json）
+- 416 个类别/任务引用 — evaluation_examples/all.json（计算得出）（来源：https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/evaluation_examples/all.json）
 
 416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.
 
@@ -9056,12 +9225,12 @@ Code for the OSReward paper; the trajectories themselves are released separately
 - 评测方式：Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.
 - 侧重：reliability of VLM judges and reward models on computer-use trajectories, binary success verdicts
 - 观测：task instruction, full thought and action history, last five screenshots with red action-point markers (default)
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,019 trajectories — OSReward Full split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
-- 284 trajectories — OSReward Hard split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
+- 1,019 条轨迹 — OSReward Full split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
+- 284 条轨迹 — OSReward Hard split on Hugging Face（来源报告；来源：https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md）
 
 Counts are as the README reports them for the Hugging Face release. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.
 
@@ -9173,7 +9342,7 @@ The repository publishes per-application reference JSON files and score.py. It e
 - 评测方式：The scorer consumes OSWorld results and a specified maximum step budget; the README distinguishes single-action and grouped-action WES+ and WES-.
 - 侧重：action efficiency relative to humans
 - 观测：OSWorld result trajectories, human reference actions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
@@ -9222,11 +9391,11 @@ The repository holds the osworld_science package (CLI, VM control, agents, evalu
 - 评测方式：Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.
 - 侧重：scientific-software workflows, combined GUI and command-line interaction
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 146 tasks — full benchmark reported in the paper, seven scientific domains（来源报告；来源：https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md）
+- 146 个任务 — full benchmark reported in the paper, seven scientific domains（来源报告；来源：https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md）
 
 The README states that 83.6% of tasks also allow CLI access and 16.4% are GUI-only under the recorded configurations. The published dataset includes answer keys (the private/ folder is hidden from the solver, not access-controlled), so results from models that may have trained on it are not held-out measurements. Record the code revision, task data revision, VM image, model and agent when comparing scores.
 
@@ -9481,7 +9650,7 @@ The repository contains evaluation scripts and metadata; full evaluation require
 - 评测方式：The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.
 - 侧重：pixel-precise editor cursor placement, multi-turn visual self-correction
 - 观测：code-editor screenshot, cursor-location instruction, red-cross feedback marking previous incorrect prediction
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
@@ -9682,12 +9851,12 @@ SafeArena 是将良性与有害任务配对、用于研究蓄意滥用风险的�
 - 评测方式：Task outcomes and the Agent Risk Assessment categories evaluate agent behavior on benign and harmful requests.
 - 侧重：web-agent safety, task completion
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 250 tasks — safe split（来源报告；来源：https://arxiv.org/abs/2503.04957）
-- 250 tasks — harmful split（来源报告；来源：https://arxiv.org/abs/2503.04957）
+- 250 个任务 — safe split（来源报告；来源：https://arxiv.org/abs/2503.04957）
+- 250 个任务 — harmful split（来源报告；来源：https://arxiv.org/abs/2503.04957）
 
 Use SafeArena-specific containers. The documented task splits require access approval.
 
@@ -9827,12 +9996,12 @@ The card describes showdown-clicks as part of General Agents' showdown suite and
 - 评测方式：A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.
 - 侧重：instruction-conditioned click grounding, low-level desktop control
 - 观测：macOS screenshots
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 557 annotated clicks — showdown-clicks-dev/data.csv (dev split)（计算得出；来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv）
-- 5,679 left clicks — full showdown-clicks collection described by the card; not released（来源报告；来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md）
+- 557 次已标注的点击 — showdown-clicks-dev/data.csv (dev split)（计算得出）（来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv）
+- 5,679 次左键点击 — full showdown-clicks collection described by the card; not released（来源报告；来源：https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md）
 
 The released CSV has 557 rows with unique IDs and screenshots, and columns for instruction, bounding box and image size. Only the dev subset is public, so scores on the full collection cannot be reproduced from the release.
 
@@ -9908,7 +10077,7 @@ SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; t
 - 评测方式：Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.
 - 侧重：single-path step accuracy, multi-path task completion, robustness to pop-ups and ads, ambiguous instructions
 - 观测：recorded Android screenshots with element boxes drawn from the page XML, element centre coordinates (Mobile-Agent-v2 runner), task instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
@@ -9992,12 +10161,12 @@ Solari 上的自主游戏测试智能体和评测测试框架，从 Git 构建�
 - 评测方式：Task-specific evaluation functions are invoked after agent execution.
 - 侧重：data-science workflows, multi-application task completion
 - 观测：screenshots, accessibility trees, set-of-marks views
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 494 task definitions — evaluation_examples/test_all.json（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/evaluation_examples/test_all.json）
-- 20 applications — README task-suite coverage（来源报告；来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/README.md）
+- 494 个任务定义 — evaluation_examples/test_all.json（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/evaluation_examples/test_all.json）
+- 20 个应用 — README task-suite coverage（来源报告；来源：https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/README.md）
 
 Counted unique task IDs in the full manifest. Verbose versus abstract instructions and account versus non-account tasks form different subsets. The Ubuntu VM and external-account requirements are part of the protocol; no accounts or environments were provisioned.
 
@@ -10043,13 +10212,13 @@ Adjacent scope: agents resolve issues by producing code patches, and every insta
 - 评测方式：Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.
 - 侧重：issue resolution in visual JavaScript/TypeScript software, interpreting screenshots and renderings in issue reports
 - 观测：repository checkout, issue text, issue and patch images
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 480 task instances — Hub test split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
-- 100 task instances — Hub dev split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
-- 612 issue-pull request pairs — dataset card prose (102 dev and 510 test from 17 repositories)（来源报告；来源：https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md）
+- 480 个任务实例 — Hub test split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
+- 100 个任务实例 — Hub dev split as released (dataset_info and dataset viewer)（来源报告；来源：https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal）
+- 612 组 issue–pull request 对 — dataset card prose (102 dev and 510 test from 17 repositories)（来源报告；来源：https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md）
 
 The released Parquet rows (100 dev, 480 test) differ from the card's prose totals (102 dev, 510 test); record the Hub revision and split with a score. The dev and test splits use disjoint repositories. Some carbon-design-system accessibility tests fetch a rule engine over the network at evaluation time, so their verdicts can vary between runs.
 
@@ -10247,16 +10416,16 @@ The Hub card has only metadata (apache-2.0, English, 1K<n<10K). The UI-I2E-Bench
 - 评测方式：Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).
 - 侧重：GUI element grounding from explicit and implicit instructions
 - 观测：screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 1,477 annotated instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 1,161 distinct screenshots referenced — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 705 mobile instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 519 desktop instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 253 web instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 917 implicit instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 1,477 条已标注的指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 1,161 张被引用的不重复截图 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 705 条移动端指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 519 条桌面指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 253 条 Web 指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 917 条隐式指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
 
 Counts were computed from the pinned annotation file; source counts sum to the instruction total, and implicit plus 560 explicit instructions do too. The Hub manifest has 1,509 PNG files in five folders, more than the 1,161 screenshots the annotations reference. No split is declared.
 
@@ -10304,14 +10473,14 @@ Official repository of the paper "Atomic-to-Compositional Generalization for Mob
 - 评测方式：Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.
 - 侧重：compositional multi-app mobile tasks, generalization from atomic to compositional tasks
 - 观测：agent-defined observations of the Android emulator or device
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 100 task templates — all task files (50 + 25 + 25 rows)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
-- 50 task templates — UI-NEXUS-Anchor, English, local utility apps (data/offline_English.csv)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
-- 25 task templates — online service apps, Chinese (data/online_Chinese.csv)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv）
-- 25 task templates — online service apps, English (data/online_English.xlsx)（计算得出；来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx）
+- 100 个任务模板 — all task files (50 + 25 + 25 rows)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
+- 50 个任务模板 — UI-NEXUS-Anchor, English, local utility apps (data/offline_English.csv)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv）
+- 25 个任务模板 — online service apps, Chinese (data/online_Chinese.csv)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv）
+- 25 个任务模板 — online service apps, English (data/online_English.xlsx)（计算得出）（来源：https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx）
 
 Template counts are data rows with distinct task IDs, counted with Python's csv module and by parsing the XLSX sheet XML. Anchor categories: Simple Concatenation 20, Context Transition 20, Deep Dive 10; each online file: Simple Concatenation 7, Context Transition 11, Deep Dive 7. Each row carries one instantiation of its template.
 
@@ -10663,7 +10832,7 @@ This is a single-snapshot representation evaluation on local fixtures and captur
 - 评测方式：READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics.
 - 侧重：Browser-representation token use, Factual READ accuracy, ACT target-element selection
 - 观测：Top-document HTML, Markdown converted from HTML, Playwright accessibility snapshot, Browser Use indexed DOM, Stagehand hybrid snapshot, Viewport screenshot
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
@@ -10748,13 +10917,13 @@ The README and dataset card describe 2,454 tasks on 452 websites (category count
 - 评测方式：The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.
 - 侧重：live-web task completion, write operations such as account creation, updates and deletions, file downloads
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 2,454 tasks — documented WebBench task set（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
-- 452 websites — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
-- 2,647 task rows — webbenchfinal.csv as released（计算得出；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv）
+- 2,454 个任务 — documented WebBench task set（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
+- 452 个网站 — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
+- 2,647 行任务数据 — webbenchfinal.csv as released（计算得出）（来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv）
 
 The released CSV has columns ID, Starting URL, Category and Task, with 1,637 READ, 594 CREATE, 206 UPDATE, 166 DELETE and 44 FILE_MANIPULATION rows; the README's category table sums to 2,454. A separate webbench_hitl_final.csv covers human-in-the-loop runs. Record the task file revision with a score.
 
@@ -10924,12 +11093,12 @@ Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 task
 - 评测方式：Hidden test cases per task. A case passes when its functional checks pass and every visual checkpoint's flat-baseline-normalized RGB SSIM reaches 0.99. A task's reward is passed cases divided by cases, weighted equally.
 - 侧重：full-stack website reconstruction from browser exploration, without the source code, visual appearance and functional behavior of the rebuilt site
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 70 tasks — released tasks（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
-- 46,916 test cases — hidden test cases summed over the docs/tasks.md table（计算得出；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
+- 70 个任务 — released tasks（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
+- 46,916 个测试用例 — hidden test cases summed over the docs/tasks.md table（计算得出）（来源：https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/78f5558e8197bb91b3bab63428c12b92060ddc6f/docs/tasks.md）
 
 Agents run through selectable Harbor agents, so observations and actions depend on the agent. Each task requests 8 CPUs, 8 GiB of memory and 20 GiB of disk per environment, with up to 16 hours for the agent.
 
@@ -10974,12 +11143,12 @@ Public evaluation/deployment scripts accompany an ungated Hub release with JSON/
 - 评测方式：The supplied WebTester pipeline separates checklist generation from interactive defect detection and provides a scoring workflow.
 - 侧重：web functionality testing, latent permission and business constraints
 - 观测：web application interface, development instruction
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 7 application categories — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md）
-- 100 web-application archives — Hub file manifest（计算得出；来源：https://huggingface.co/api/datasets/friedrichor/WebTestBench）
+- 7 个应用类别 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md）
+- 100 个 Web 应用归档 — Hub file manifest（计算得出）（来源：https://huggingface.co/api/datasets/friedrichor/WebTestBench）
 
 The 100 archive files form an artifact inventory. Backend/tool versions and deployment settings affect reproducibility.
 
@@ -11092,13 +11261,13 @@ Repository contains executable evaluation code and task definitions. README link
 - 评测方式：Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
 - 侧重：Windows desktop task execution, revised task evaluators
 - 观测：screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 141 tasks — full WindowsAgentArena-V2 suite reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
-- 11 Windows applications — full suite coverage reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
-- 20 task IDs — shipped test_custom.json selection（计算得出；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_custom.json）
+- 141 个任务 — full WindowsAgentArena-V2 suite reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
+- 11 个 Windows 应用 — full suite coverage reported by README（来源报告；来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md）
+- 20 个任务 ID — shipped test_custom.json selection（计算得出）（来源：https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_custom.json）
 
 README sample config uses max_steps=30. The shipped selected-task index has 20 IDs; the 141-task figure has a different scope. Preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.
 
@@ -11146,12 +11315,12 @@ WindowsWorld 是跨应用的 Windows 基准，支持对任务中间步骤进行�
 - 评测方式：Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.
 - 侧重：multi-application Windows workflows, intermediate-state and final-goal completion
 - 观测：screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- 任务设置：interactive
+- 任务设置：交互式
 
 #### 数量记录
 
-- 181 tasks — WindowsWorld benchmark described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
-- 17 desktop applications — WindowsWorld coverage described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
+- 181 个任务 — WindowsWorld benchmark described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
+- 17 个桌面应用 — WindowsWorld coverage described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
 
 Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code.
 
@@ -11196,14 +11365,14 @@ The repository contains evaluation and collection code; the linked Zenodo releas
 - 评测方式：Task-specific scripts evaluate six workflow-understanding task types.
 - 侧重：workflow documentation, workflow quality assessment, workflow knowledge transfer
 - 观测：screen recordings, action traces, screenshots, written standard operating procedures
-- 任务设置：offline
+- 任务设置：离线
 
 #### 数量记录
 
-- 6 task types — WONDERBREAD BPM benchmark（来源报告；来源：https://raw.githubusercontent.com/HazyResearch/wonderbread/HEAD/README.md）
-- 2,928 human demonstrations — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
-- 598 web navigation workflows — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
-- 724 human demonstrations — gold subset used for the original paper evaluations（来源报告；来源：https://zenodo.org/api/records/14094162）
+- 6 种任务类型 — WONDERBREAD BPM benchmark（来源报告；来源：https://raw.githubusercontent.com/HazyResearch/wonderbread/HEAD/README.md）
+- 2,928 条人工演示 — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
+- 598 个网页导航工作流 — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
+- 724 条人工演示 — gold subset used for the original paper evaluations（来源报告；来源：https://zenodo.org/api/records/14094162）
 
 Counts are publisher-reported. The gold subset covers 162 workflows and differs from the full collection; scores require the exact task and subset.
 

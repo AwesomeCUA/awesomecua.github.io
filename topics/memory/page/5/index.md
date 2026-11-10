@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/memory/page/5/
 
 Full list: https://awesomecua.com/topics/memory/index.md
 
+- [AI-Player](https://awesomecua.com/resources/github-shasankp000-ai-player/)
+- [Aico Link Firmware](https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/)
 - [AILEEN Desktop](https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/)
 - [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/)
 - [Anchor-Inference Daedalus](https://awesomecua.com/resources/github-anchor-inference-daedalus/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/memory/index.md
 - [LASER](https://awesomecua.com/resources/github-mayer123-laser/)
 - [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/)
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonai-litewebagent/)
-- [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/)
-- [LKO Mark 3.4](https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/)

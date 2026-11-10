@@ -574,6 +574,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.
 - [MobileViews](https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/) — Date not recorded
   Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.
+- [mobilevlm_test](https://awesomecua.com/resources/url-5182ab4e9bd7843f240b/) — Date not recorded
+  Test data for MobileVLM's Mobile3M benchmark, shared as a two-part 7z archive. Mobile3M is a Chinese mobile UI dataset of 3 million pages linked by real transition actions.
 - [MoCon](https://awesomecua.com/resources/url-c7489f15e7883a695832/) — Date not recorded
   Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.
 - [MoGUI](https://awesomecua.com/resources/url-be89a250747f507a27ef/) — Date not recorded
@@ -667,6 +669,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 
 ## Models
 
+- [Adept Fuyu-Heavy](https://awesomecua.com/resources/url-1a20a291c766bd4e6861/) — Date not recorded
+  Adept multimodal model that scales up the Fuyu architecture for digital agents, aimed mainly at UI understanding; Adept reports MMMU, VQAv2, AI2D and ChartQA scores against Gemini models.
 - [Aria-UI/Aria-UI-base](https://awesomecua.com/resources/url-2866edbea80fa34aa684/) — Date not recorded
   Aria-UI/Aria-UI-base is a released GUI grounding checkpoint that maps an instruction and interface image to target coordinates. The card documents history-aware input and inference examples.
 - [AutoGUI-Qwen-v0.1](https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/) — Date not recorded
@@ -739,6 +743,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Screenshot grounding checkpoint that emits a single click in a normalized coordinate space.
 - [GroundingPI](https://awesomecua.com/resources/github-groundingpi-groundingpi/) — Date not recorded
   GroundingPI is a 4B visual grounding foundation model that unifies bounding-box detection, referring expressions, and point localization.
+- [GT-r1](https://awesomecua.com/resources/url-1a6fc60f2b931acbd057/) — Date not recorded
+  A GUI defect detection model trained with VLM-R1 reinforcement learning that inspects an app screenshot and labels it as a content display error, UI layout issue, missing UI element or no defect.
 - [GUI-Actor-7B-Qwen2.5-VL](https://awesomecua.com/resources/url-3e58eecd59c404508757/) — Date not recorded
   A Qwen2.5-VL-7B checkpoint for locating instructed GUI targets in screenshots. Its attention-based action head predicts click points, with inference code shown in the card.
 - [GUI-AIMA](https://awesomecua.com/resources/github-sjz5202-gui-aima/) — Date not recorded
@@ -785,16 +791,24 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   A Hugging Face format checkpoint in the InternVL3.5 multimodal model family, whose card names GUI interaction among its capabilities and describes Cascade RL training.
 - [InternVL3_5-1B](https://awesomecua.com/resources/url-b75abe232c389788d2c4/) — Date not recorded
   InternVL3_5-1B is a released multimodal checkpoint from the InternVL3.5 family, whose documented capabilities include GUI interaction.
+- [InternVL3_5-1B-HF](https://awesomecua.com/resources/url-98f37e375e57e027af64/) — Date not recorded
+  HF-format InternVL3.5-1B checkpoint with a 0.3B vision encoder and 0.8B language model, from a multimodal family trained with Cascade RL that lists GUI interaction among its capabilities.
 - [InternVL3_5-241B-A28B](https://awesomecua.com/resources/url-c8d93b1c274acd679694/) — Date not recorded
   A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.
 - [InternVL3_5-241B-A28B-HF](https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/) — Date not recorded
   InternVL3_5-241B-A28B-HF releases a Transformers-format multimodal checkpoint from the InternVL3.5 family, whose card describes GUI interaction and efficient visual inference.
+- [InternVL3_5-2B](https://awesomecua.com/resources/url-feaad5e9f2497d1ed9ca/) — Date not recorded
+  InternVL3.5-2B checkpoint with a 0.3B vision encoder and 2.0B language model, from a multimodal family trained with Cascade RL that lists GUI interaction among its capabilities.
+- [InternVL3_5-2B-HF](https://awesomecua.com/resources/url-d1f0e13ad96c108ef09b/) — Date not recorded
+  HF-format 2.3B-parameter InternVL3.5 checkpoint, a multimodal model whose card lists GUI interaction among its trained skills and reports GUI task results for the family.
 - [InternVL3_5-38B-HF](https://awesomecua.com/resources/url-099960c12bbdd80f73cb/) — Date not recorded
   An HF-format 38B checkpoint in the InternVL3.5 multimodal model family, whose card lists GUI interaction among its capabilities and describes staged training and inference.
 - [InternVL3_5-4B-HF](https://awesomecua.com/resources/url-0585c680192ac22d2735/) — Date not recorded
   An HF-format checkpoint in the InternVL3.5 multimodal model family, whose card names GUI interaction among its capabilities. The release includes model weights.
 - [InternVL3_5-8B](https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/) — Date not recorded
   An 8B multimodal checkpoint in the InternVL3.5 family, whose card describes GUI interaction alongside broader visual reasoning and inference efficiency work.
+- [InternVL3_5-GPT-OSS-20B-A4B-Preview-HF](https://awesomecua.com/resources/url-c09ce6d4ca2ddaf02fae/) — Date not recorded
+  HF-format InternVL3.5 preview checkpoint built on a GPT-OSS language model (21.2B total, A4B), a multimodal model whose card lists GUI interaction among its trained skills and reports GUI results.
 - [jadechoghari/Ferret-UI-Llama8b](https://awesomecua.com/resources/url-4b66957b9799a9e3decc/) — Date not recorded
   Llama-3-8B variant of Ferret-UI for understanding interface screenshots, answering questions about selected regions and locating elements with bounding boxes.
 - [Jedi-7B-1080p](https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/) — Date not recorded
@@ -1360,6 +1374,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Claude Code skill that measures live browser UI layouts and returns concrete golden-ratio spacing and typography fixes.
 - [GPT-4V-Act](https://awesomecua.com/resources/github-ddupont808-gpt-4v-act/) — Date not recorded
   GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting to drive web browser interactions with multimodal LLMs.
+- [GPTVoiceTasker](https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/) — Date not recorded
+  Android app for GPTVoiceTasker, a GPT-4 voice assistant that reads screen elements through the Accessibility Service, turns spoken commands into press, enter and scroll actions, and reuses learned app transitions.
 - [gpuview](https://awesomecua.com/resources/github-onlyterp-gpuview/) — Date not recorded
   GPU-native Windows screen perception tool capturing frames directly from the DXGI Desktop Duplication compositor handoff for AI agents.
 - [Grasp MCP](https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/) — Date not recorded
@@ -1652,6 +1668,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   PICC is a macOS utility collection with an accessibility-based app automation CLI and tree viewers for inspecting and interacting with interface elements.
 - [pinchtab-mcp](https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/) — Date not recorded
   Model Context Protocol server for PinchTab enabling AI agents to control Chromium browsers via accessibility trees and CDP.
+- [Pix to App](https://awesomecua.com/resources/github-soumikmohianuta-pixtoapp/) — Date not recorded
+  A Python pipeline that turns a mobile app screenshot into an Android project, using Canny edge contours for the view hierarchy, Tesseract OCR for text and generated layout, style, color and string XML.
 - [pixel-forge](https://awesomecua.com/resources/github-sjxbbdb-pixel-forge/) — Date not recorded
   Desktop automation toolkit providing screenshot capture, OCR, pixel-diff change detection, and mouse/keyboard actions for AI agents.
 - [PixelCheck](https://awesomecua.com/resources/github-xcodethink-pixelcheck/) — Date not recorded

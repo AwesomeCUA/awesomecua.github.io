@@ -21,11 +21,11 @@ ScreenSpot Pro 是侧重专业高分辨率界面的 GUI 定位基准。
 - 评测方式：For positive targets, the predicted point must fall inside the annotated bounding box.
 - 侧重：GUI grounding
 - 观测：high-resolution screenshots, target instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,581 target annotations — sum of icon/text counts in the published card table（计算得出；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
+- 1,581 条目标标注 — sum of icon/text counts in the published card table（计算得出）（来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
 
 Language, instruction style, and positive/negative target configuration are explicit evaluator options. This profile describes target localization. The target count uses card-table targets; expanded language/style evaluation instances use a different count.
 

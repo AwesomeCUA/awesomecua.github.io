@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/self-reflection/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/self-reflection/index.md
 
+- [NORTHTEK Ghost](https://awesomecua.com/zh/resources/github-northtekdevs-ghost/)
 - [Open Frame](https://awesomecua.com/zh/resources/github-off-camber-open-frame/)
 - [OpenAmer Agent](https://awesomecua.com/zh/resources/github-openamer-openamer/)
 - [OpenVINO Autonomous GUI Agent](https://awesomecua.com/zh/resources/github-shehrozkashif-openvino-autonomous-gui-agent/)

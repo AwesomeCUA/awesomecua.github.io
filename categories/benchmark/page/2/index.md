@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/categories/benchmark/page/2/
 
 Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 
+- [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/)
+- [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/)
+- [OS-Harm](https://awesomecua.com/resources/github-tml-epfl-os-harm/)
+- [OSWorld 2.0](https://awesomecua.com/resources/github-xlang-ai-osworld-v2/)
+- [PersonalAlign](https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/)
 - [PhoneHarness](https://awesomecua.com/resources/github-phoneharness-phoneharness/)
 - [PopupAttack](https://awesomecua.com/resources/github-salt-nlp-popupattack/)
 - [PPTC](https://awesomecua.com/resources/github-gydpku-pptc/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/)
 - [GUIGuard-Bench evaluation code](https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/)
 - [GUIHalluBench](https://awesomecua.com/resources/github-ant-research-guihallubench/)
-- [GUITestBench](https://awesomecua.com/resources/github-adam-bjtu-guitestbench/)
-- [HealthEnv](https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/)
-- [HoloSkill Gym](https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/)
-- [HumanQA](https://awesomecua.com/resources/github-hotragn-humanqa/)
-- [hyprbench](https://awesomecua.com/resources/github-crispwisp-hyprbench/)

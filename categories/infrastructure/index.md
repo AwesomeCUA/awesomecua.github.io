@@ -2,7 +2,7 @@
 
 Infrastructure covers the browsers, sandboxes, virtual machines, emulators and input-automation libraries that computer-use agents run inside or act through.
 
-> 114 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
+> 117 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,15 +27,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these infrastructure resources cover?
 
-Of 114 reviewed infrastructure resources, 76 are tagged desktop, 60 web, 20 mobile and 11 cross-platform; 2 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 117 reviewed infrastructure resources, 76 are tagged desktop, 62 web, 21 mobile and 11 cross-platform; 2 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which infrastructure resources come with a research paper?
 
-11 of 114 link the arXiv paper that introduces or documents them, for example [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/), [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) and [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/).
+12 of 117 link the arXiv paper that introduces or documents them, for example [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/), [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) and [AutoWechat](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/).
 
 ### Which licenses do infrastructure resources declare?
 
-The most common declared licenses are MIT (40), Apache-2.0 (30) and AGPL-3.0 (4). 38 of 114 have no declared license in their record.
+The most common declared licenses are MIT (40), Apache-2.0 (31) and AGPL-3.0 (4). 40 of 117 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -1065,6 +1065,39 @@ The release contains SIF images, two image manifests, and SHA256SUMS. The card d
 
 ---
 
+## AutoWechat
+
+A simulated WeChat Android app from the AppSim-Bench suite, with chat lists, group chats, contacts and Moments posts backed by local JSON data for AI automation tests.
+
+- Catalog URL: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/
+- Original source: https://github.com/Acrab-Agentic-Labs/AppSim-Wechat-V2
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: sandbox, evaluation, mobile-navigation
+- Evidence checked: 2026-11-10T03:00:58Z
+- ID: github:acrab-agentic-labs/appsim-wechat-v2
+
+### Limitations
+
+The repository holds a Kotlin and Jetpack Compose Android project with contact, chat and avatar assets under app/src/main/assets. The AppSim-Bench README lists it as the WeChat app among 17 APKs installed on a phone or emulator and evaluated with the WECHAT task. No license file is listed.
+
+- Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-Wechat-V2/a5018e355d64843d8ae9fe78b4817091bd5d94bc/README.md (retrieved 2026-11-10T03:00:58Z; SHA-256 83b56f3fa240799552ec59ef85847e43e02f80f5f32e3b09adf523600003d627)
+
+---
+
 ## Browser Use macOS Harness
 
 Official Browser Use harness for provisioning and driving isolated macOS virtual machines and desktop sessions.
@@ -1811,6 +1844,39 @@ Adjacent: environment images that the curated OSWorld benchmark boots; this asse
 
 ---
 
+## OSWorld Web
+
+Docker Compose stack of self-hosted web applications, such as banking, email, CRM, calendar, Overleaf and an AWS console, served behind a Caddy reverse proxy as the websites for OSWorld-V2 tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-task-web-osworld-web/
+- Original source: https://github.com/Task-Web/OSWorld-web
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: sandbox, evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:task-web/osworld-web
+
+### Limitations
+
+Each app is a git submodule with its own web-compose.yml, cloned over SSH, and runs on port 3000 under a configurable HOST_SUFFIX domain. The OSWorld-V2 README pins tags of this repository, such as osworld-v2.1 and v2026.08.08, for its benchmark releases.
+
+- Record JSON: https://awesomecua.com/resources/github-task-web-osworld-web/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Task-Web/OSWorld-web/60c89fe6a8ed934668619d8d26132848239eb8ee/README.md (retrieved 2026-11-10T03:00:59Z; SHA-256 9d5b4c9bd1c2b46dace3f7d9b666d8b906d8b19f5ac6d86ce1440570703e6642)
+
+---
+
 ## redroid
 
 redroid provides containerized Android instances on Linux hosts, with ADB connectivity and configurable displays for mobile automation environments.
@@ -2113,6 +2179,40 @@ The README includes image and data setup for GitLab, shopping sites, Reddit, Wik
 ### Primary evidence
 
 - https://raw.githubusercontent.com/mahirlabibdihan/webarena-docker/HEAD/README.md (retrieved 2026-11-09T19:56:59Z; SHA-256 0a2f11ae610d352b5064e85d4d55c90059066adf3edf7775eaf5c24ec7e14b35)
+
+---
+
+## webarena-setup
+
+Shell scripts that load the WebArena and VisualWebArena Docker images, create and patch the site containers, serve a homepage and run an optional reset server between agent evaluations.
+
+- Catalog URL: https://awesomecua.com/resources/github-gasse-webarena-setup/
+- Original source: https://github.com/gasse/webarena-setup
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: sandbox, evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:gasse/webarena-setup
+
+### Limitations
+
+The webarena/ and visualwebarena/ folders each hold numbered scripts configured through 00_vars.sh. The Docker image archives come from the official WebArena and VisualWebArena repositories, and WebArena's OpenStreetMap files from Zenodo.
+
+- Record JSON: https://awesomecua.com/resources/github-gasse-webarena-setup/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/gasse/webarena-setup/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gasse/webarena-setup/8d0e0a20d50e4a8c02d1520195182e19fc3c080f/README.md (retrieved 2026-11-10T03:00:59Z; SHA-256 fc6e9cb1e2fd60c1b7b7de639b66790cb78d74c6766709225053ddbebba26e39)
+- https://raw.githubusercontent.com/gasse/webarena-setup/HEAD/LICENSE (retrieved 2026-11-10T02:08:09Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 

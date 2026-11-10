@@ -28,10 +28,10 @@ The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six fold
 
 ### 数量记录
 
-- 6 dataset families — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
-- > 30 subsets — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
-- > 800 apps — apps across five categories（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
-- 41 JSONL partition files — Hub manifest at revision 4596a060（计算得出；来源：https://huggingface.co/api/datasets/wwh0411/FedMABench/revision/4596a0608a24dddc3f6ba96fb326e915d9632f0b）
+- 6 个数据集系列 — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
+- > 30 个子集 — FedMABench data release（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
+- > 800 个应用 — apps across five categories（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md）
+- 41 个 JSONL 分区文件 — Hub manifest at revision 4596a060（计算得出）（来源：https://huggingface.co/api/datasets/wwh0411/FedMABench/revision/4596a0608a24dddc3f6ba96fb326e915d9632f0b）
 
 A partition file, a task, an episode and a client count are different units. Screenshots are external dependencies that users rebuild from AndroidControl and AitW.
 

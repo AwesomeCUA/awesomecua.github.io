@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/safety-security/index.md
 
+- [WebMirage](https://awesomecua.com/zh/resources/github-moontea0416-webmirage/)
+- [WebSentinel detection demo](https://awesomecua.com/zh/resources/github-wxl-lxw-websentinel/)
+- [windows-computer-use-mcp](https://awesomecua.com/zh/resources/github-sandraschi-windows-computer-use-mcp/)
 - [windows-mcp-server](https://awesomecua.com/zh/resources/github-deploymenttheory-windows-mcp-server/)
 - [Wraith](https://awesomecua.com/zh/resources/github-nightraven-x-wraith/)
 - [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/zh/resources/github-jackygilbert498-debug-xiaoshe-agent/)

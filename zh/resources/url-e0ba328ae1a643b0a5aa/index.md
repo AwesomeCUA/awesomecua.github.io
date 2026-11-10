@@ -28,12 +28,12 @@ Public release includes train+dev and test ZIP packages plus a test-answer JSON 
 
 ### 数量记录
 
-- 307,315 question–answer examples — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 4,549 web pages — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 52,826 question–answer examples — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 913 web pages — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 40,357 question–answer examples — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
-- 985 web pages — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 307,315 个问答示例 — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 4,549 个网页 — WebSRC v1.0 train（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 52,826 个问答示例 — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 913 个网页 — WebSRC v1.0 dev（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 40,357 个问答示例 — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
+- 985 个网页 — WebSRC v1.0 test（来源报告；来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md）
 
 Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table for this release. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made.
 

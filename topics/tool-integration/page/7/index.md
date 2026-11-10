@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/7/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [AutoGen](https://awesomecua.com/resources/github-microsoft-autogen/)
+- [AutoGPT](https://awesomecua.com/resources/github-significant-gravitas-autogpt/)
+- [autohotkey-mcp](https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/)
 - [autoit-mcp](https://awesomecua.com/resources/github-benina-autoit-mcp/)
 - [Automation MCP](https://awesomecua.com/resources/github-ashwwwin-automation-mcp/)
 - [Automify](https://awesomecua.com/resources/github-aldovincenti-automify/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/)
 - [browser-gateway](https://awesomecua.com/resources/github-browser-gateway-browser-gateway/)
 - [browser-link](https://awesomecua.com/resources/github-jobshimo-browser-link/)
-- [browser-mcp](https://awesomecua.com/resources/github-sandraschi-browser-mcp/)
-- [browser-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-browser-rs-mcp/)
-- [browser-use-capsolver](https://awesomecua.com/resources/github-capsolver-browser-use-capsolver/)

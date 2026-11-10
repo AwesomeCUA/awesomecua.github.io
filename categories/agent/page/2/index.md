@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/categories/agent/page/2/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [OS-Copilot](https://awesomecua.com/resources/github-os-copilot-os-copilot/)
+- [Page Agent](https://awesomecua.com/resources/github-alibaba-page-agent/)
 - [Phone Agent](https://awesomecua.com/resources/github-boboabw-phone-agent/)
 - [PlayJev](https://awesomecua.com/resources/github-omnijev-playjev/)
 - [POK-Agent](https://awesomecua.com/resources/github-acekorneya-pok-agent/)
@@ -102,5 +104,3 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Bytebot](https://awesomecua.com/resources/github-bytebot-ai-bytebot/)
 - [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/)
 - [Caesar Agent](https://awesomecua.com/resources/github-jasonzliang-caesar-agent/)
-- [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/resources/github-calebnewtonusc-nova/)
-- [Cappuccino](https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/)

@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
+- [UI-NEXUS](https://awesomecua.com/zh/resources/github-starwalkin-ui-nexus/)
+- [UniClawBench](https://awesomecua.com/zh/resources/github-hku-mmlab-uniclawbench/)
+- [UserZero](https://awesomecua.com/zh/resources/github-aafre-userzero/)
+- [Verisim](https://awesomecua.com/zh/resources/github-clay-good-verisim/)
 - [VeriWeb (formerly VeriGUI)](https://awesomecua.com/zh/resources/github-verigui-team-verigui/)
 - [VG-GUI-Bench](https://awesomecua.com/zh/resources/url-3e3ca34dbdaf3190465c/)
 - [VideoGUI](https://awesomecua.com/zh/resources/github-showlab-videogui/)
@@ -27,6 +31,7 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 - [WebArena-Verified](https://awesomecua.com/zh/resources/github-servicenow-webarena-verified/)
 - [WebBench](https://awesomecua.com/zh/resources/github-halluminate-webbench/)
 - [WebCanvas](https://awesomecua.com/zh/resources/github-imeanai-webcanvas/)
+- [WebCanvas_showcase](https://awesomecua.com/zh/resources/github-imeanai-webcanvas-showcase/)
 - [WebClick](https://awesomecua.com/zh/resources/url-5e2bd1b3398974b79c9c/)
 - [WebGames](https://awesomecua.com/zh/resources/github-convergence-ai-webgames/)
 - [WebGen-Bench](https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/)
@@ -57,10 +62,5 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 - [WorkArena-Instances](https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/)
 - [WorldGUI](https://awesomecua.com/zh/resources/github-showlab-worldgui/)
 - [Wornpage WebMCP Conformance](https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/)
+- [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/zh/resources/url-3ab90a696d8578c944c8/)
 - [Agent Humanization Benchmark (AHB) recordings](https://awesomecua.com/zh/resources/url-3e1a864c46c8ed5735d4/)
-- [Agent-Trajectories](https://awesomecua.com/zh/resources/url-61c09ceb7c78f6b5e74f/)
-- [AgentRewardBench dataset](https://awesomecua.com/zh/resources/url-866251b68d6bba8b8ba6/)
-- [android_control_test](https://awesomecua.com/zh/resources/url-1f248862e4b691b85343/)
-- [bevaya/RICO-ScreenQA-Complex](https://awesomecua.com/zh/resources/url-b6114625f883ec0fda33/)
-- [Browser Agent Failure Corpus](https://awesomecua.com/zh/resources/github-mutantweb-browser-agent-failure-corpus/)
-- [BrowserART](https://awesomecua.com/zh/resources/url-dec73112f4c2dad889cb/)

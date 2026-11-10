@@ -1,5 +1,5 @@
 {
-  "relation_count": 1069,
+  "relation_count": 1134,
   "semantics": "Reviewed semantic links.",
   "relations": [
     {
@@ -119,6 +119,14 @@
       "source_name": "AppSim-Bench",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md",
+      "target_id": "arxiv:2609.07712",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:acrab-agentic-labs/appsim-wechat-v2",
+      "source_name": "AutoWechat",
+      "source_kind": "infrastructure",
+      "evidence_url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-Wechat-V2/a5018e355d64843d8ae9fe78b4817091bd5d94bc/README.md",
       "target_id": "arxiv:2609.07712",
       "type": "documented_by"
     },
@@ -2475,6 +2483,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:qwenlm/qwen-agentworld",
+      "source_name": "Qwen-AgentWorld",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/QwenLM/Qwen-AgentWorld/cd0aa83dc7a9c733695eb9c4652e0a68b6e6ecde/README.md",
+      "target_id": "arxiv:2606.24597",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:qwenlm/qwen3-vl",
       "source_name": "Qwen3-VL / Qwen2.5-VL",
       "source_kind": "model",
@@ -3339,6 +3355,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:vuminhduc796/gptvoicetasker",
+      "source_name": "GPTVoiceTasker",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/vuminhduc796/GPTVoiceTasker/d28df69267c2d740a56fc492bee88dc237db5853/prompts.txt",
+      "target_id": "arxiv:2401.14268",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:wbsg-uni-mannheim/webmall",
       "source_name": "WebMall",
       "source_kind": "benchmark",
@@ -3723,6 +3747,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:xnancy/russ",
+      "source_name": "RUSS",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/xnancy/russ/2bbae6fbdb38c7cab64113edce2eb61bf7e2e2f8/README.md",
+      "target_id": "arxiv:2103.16057",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:yan98/gta1",
       "source_name": "GTA1: GUI Test-time Scaling Agent",
       "source_kind": "agent",
@@ -3923,6 +3955,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:zzxslp/mm-navigator",
+      "source_name": "MM-Navigator",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/zzxslp/MM-Navigator/e9c1781bbba455cdefa12952ceca2e66d8512e99/README.md",
+      "target_id": "arxiv:2311.07562",
+      "type": "documented_by"
+    },
+    {
       "source_id": "organization:askui",
       "source_name": "AskUI",
       "source_kind": "company",
@@ -4008,6 +4048,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B/raw/main/README.md",
       "target_id": "arxiv:2512.22047",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:00f5bfd8c7991012a183",
+      "source_name": "SE-GUI-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/XinBB/SE-GUI-7B",
+      "target_id": "arxiv:2505.12370",
       "type": "documented_by"
     },
     {
@@ -4123,6 +4171,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:062d2cb4ccb89de78162",
+      "source_name": "Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2",
+      "target_id": "arxiv:2410.13232",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:06dd5ac7917c45d48509",
       "source_name": "Aguvis stage 1 grounding data",
       "source_kind": "dataset",
@@ -4184,6 +4240,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
       "target_id": "arxiv:2406.11317",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:0b0a7a841d65715d60b1",
+      "source_name": "VeriOS-Agent-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/wuuuuuz/VeriOS-Agent-7B",
+      "target_id": "arxiv:2509.07553",
       "type": "documented_by"
     },
     {
@@ -4257,6 +4321,22 @@
       "evidence_url": "https://huggingface.co/Hcompany/Holo-3.1-35B-A3B/raw/2bdb92851a8cd9d72cdd891fdf38cfcc7fefae2c/README.md",
       "target_id": "organization:h",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:0dcc389cc2b1b15fb081",
+      "source_name": "UIShift-7B-2K",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/mllmTeam/UIShift-7B-2K",
+      "target_id": "arxiv:2505.12493",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:0e5617031e625a75cfc7",
+      "source_name": "aitw-general-digiq-agent",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/JackBAI/aitw-general-digiq-agent",
+      "target_id": "arxiv:2502.15760",
+      "type": "documented_by"
     },
     {
       "source_id": "url:0fdeb1cf5f49f84820e6",
@@ -4347,6 +4427,14 @@
       "type": "component_of"
     },
     {
+      "source_id": "url:15c5435c1cb4f9e6b737",
+      "source_name": "InternVL3_5-8B-HF",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-8B-HF",
+      "target_id": "arxiv:2508.18265",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:15ed5fd3cd950d837f98",
       "source_name": "Skyvern Cloud",
       "source_kind": "product",
@@ -4433,6 +4521,22 @@
       "evidence_url": "https://huggingface.co/extreme1228/ScaleCUA-qwen3-vl-osworld/raw/d27cdab2d500f323af27c0c9fdcf123f40c83d42/README.md",
       "target_id": "github:thudm/scale-cua",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:1a495ecc8b0d73e04308",
+      "source_name": "GUI-SD-data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/yankie123/GUI-SD-data",
+      "target_id": "arxiv:2605.00642",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:1a54e63277eaffdaef57",
+      "source_name": "ClawGUI-2B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/SugarVapeur/OpenGUI-2B",
+      "target_id": "arxiv:2604.11784",
+      "type": "documented_by"
     },
     {
       "source_id": "url:1b08ff264bbf2f8a10a3",
@@ -4699,6 +4803,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:280f2ab56bbc0b630d81",
+      "source_name": "VideoAgentTrek-IDM-s1-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/xlangai/VideoAgentTrek-IDM-s1-7B",
+      "target_id": "arxiv:2510.19488",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:2866edbea80fa34aa684",
       "source_name": "Aria-UI/Aria-UI-base",
       "source_kind": "model",
@@ -4811,6 +4923,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:2c85ae447a0eeed51393",
+      "source_name": "bugcraft-dataset",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/api/models/erayyapagci/bugcraft-dataset",
+      "target_id": "arxiv:2503.20036",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:2c99f0de2840277abc72",
       "source_name": "OSWorld-Verified trajectories",
       "source_kind": "dataset",
@@ -4819,11 +4939,27 @@
       "type": "component_of"
     },
     {
+      "source_id": "url:2cd89755e4e2511de633",
+      "source_name": "OpenWebVoyager-opt-3",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-3",
+      "target_id": "arxiv:2410.19609",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:2e1927450da2183a5abe",
       "source_name": "UI-Genie trajectory data",
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md",
       "target_id": "arxiv:2505.21496",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:2e88b52ca1717a28fd32",
+      "source_name": "VideoAgentTrek-IDM-s2-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/xlangai/VideoAgentTrek-IDM-s2-7B",
+      "target_id": "arxiv:2510.19488",
       "type": "documented_by"
     },
     {
@@ -4848,6 +4984,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/OS-Copilot/OS-Genesis-8B-AW/raw/d0cd248ad68531db06ab178fc28e8aff1fbfc4fc/README.md",
       "target_id": "arxiv:2412.19723",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:2ebcbc24ecbdc2db22fb",
+      "source_name": "InternVL3_5-30B-A3B-HF",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-30B-A3B-HF",
+      "target_id": "arxiv:2508.18265",
       "type": "documented_by"
     },
     {
@@ -4907,6 +5051,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:33b35b47d8bb269d84a1",
+      "source_name": "InternVL3_5-38B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-38B",
+      "target_id": "arxiv:2508.18265",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:342b081c3668a8bbe155",
       "source_name": "Mobile-Eval-E task definitions",
       "source_kind": "benchmark",
@@ -4920,6 +5072,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3-2B",
       "target_id": "arxiv:2504.10479",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:3452cef2f99d7de2935a",
+      "source_name": "ClawBenchV2Trace",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/TIGER-Lab/ClawBenchV2Trace",
+      "target_id": "arxiv:2604.08523",
       "type": "documented_by"
     },
     {
@@ -4979,6 +5139,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:369456114b26b0ff0a05",
+      "source_name": "kuangtie/GUI-Robust",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/kuangtie/GUI-Robust",
+      "target_id": "arxiv:2506.14477",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:374138c6e18c9f1dd44a",
       "source_name": "GUI-Owl 1.5 8B Think",
       "source_kind": "model",
@@ -5000,6 +5168,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1",
       "target_id": "arxiv:2603.25864",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:380318a8de65fe45956c",
+      "source_name": "SE-GUI-3k",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/XinBB/SE-GUI-3k",
+      "target_id": "arxiv:2505.12370",
       "type": "documented_by"
     },
     {
@@ -5083,6 +5259,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:3ab90a696d8578c944c8",
+      "source_name": "a3-qwen-3.5-9b-trajectories",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/xhluca/a3-qwen-3.5-9b-trajectories",
+      "target_id": "arxiv:2604.07776",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:3b4e6c30e1d095c22771",
       "source_name": "OSWorld 2.0 trajectories",
       "source_kind": "dataset",
@@ -5099,11 +5283,43 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:3d12df2fd27076504434",
+      "source_name": "jacklishufan/MobileWorld",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/jacklishufan/MobileWorld",
+      "target_id": "arxiv:2512.14014",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:3dab53c6c38c9e7217ea",
       "source_name": "ShowUI-π training data",
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/showlab/ShowUI-pi-data/raw/main/README.md",
       "target_id": "arxiv:2512.24965",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:3de50fa3eee0081d31ac",
+      "source_name": "osworld_v2_assets_gated",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/xlangai/osworld_v2_assets_gated",
+      "target_id": "arxiv:2606.29537",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:3df97229d34c44c2014a",
+      "source_name": "HiconAgent-AMEX",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/Minuskid/HiconAgent-AMEX",
+      "target_id": "arxiv:2512.01763",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:3e0f07cb0ff3f32dfc0e",
+      "source_name": "webarena-world-model-cot",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/thuml/webarena-world-model-cot",
+      "target_id": "arxiv:2505.13934",
       "type": "documented_by"
     },
     {
@@ -5128,6 +5344,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/microsoft/GUI-Actor-7B-Qwen2.5-VL",
       "target_id": "arxiv:2506.03143",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:3ef18fbb67e0376561db",
+      "source_name": "world_model_for_wa_desc_with_tao_formatted_w_cot",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot",
+      "target_id": "arxiv:2410.13232",
       "type": "documented_by"
     },
     {
@@ -5163,11 +5387,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:41b685bbd42fbd4732da",
+      "source_name": "GELab-Engine-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/Summoneryhl/GELab-Engine-7B",
+      "target_id": "arxiv:2512.02423",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:422010da7a5c845a18f6",
       "source_name": "GUIMid training data",
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md",
       "target_id": "arxiv:2504.10127",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:42686ac00c4ae107f147",
+      "source_name": "webarena-world-model-sft",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/thuml/webarena-world-model-sft",
+      "target_id": "arxiv:2505.13934",
       "type": "documented_by"
     },
     {
@@ -5184,6 +5424,22 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-3B/raw/c309a7e87d3f10b2a21e6510eb5d5995e9bda168/README.md",
       "target_id": "arxiv:2505.21496",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:43f98379902167a5f9f3",
+      "source_name": "MindAct_CandidateGeneration_deberta-v3-base",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/osunlp/MindAct_CandidateGeneration_deberta-v3-base",
+      "target_id": "arxiv:2306.06070",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:447997967beea3b07f6f",
+      "source_name": "AssistantBench",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/AssistantBench/AssistantBench",
+      "target_id": "arxiv:2407.15711",
       "type": "documented_by"
     },
     {
@@ -5315,6 +5571,14 @@
       "type": "variant_of"
     },
     {
+      "source_id": "url:4d7042b462e937c33406",
+      "source_name": "InternVL3_5-30B-A3B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-30B-A3B",
+      "target_id": "arxiv:2508.18265",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:4e71dc456c4112eed727",
       "source_name": "GroundGUI RL Dataset",
       "source_kind": "dataset",
@@ -5387,11 +5651,43 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:511ba336435d406f3761",
+      "source_name": "nnetnav-wa-qwen-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/apurvaga/nnetnav-wa-qwen-7B",
+      "target_id": "arxiv:2506.03533",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:512cd7335068b2c17859",
       "source_name": "jiamingzz/lgwm",
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/jiamingzz/lgwm",
       "target_id": "arxiv:2610.11942",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:5182ab4e9bd7843f240b",
+      "source_name": "mobilevlm_test",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/xwk123/mobilevlm_test",
+      "target_id": "arxiv:2409.14818",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:52067b3e48e9381e4c66",
+      "source_name": "CaptchaArena-Trajectories",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/ZHEN-04/CaptchaArena-Trajectories?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags",
+      "target_id": "arxiv:2609.31957",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:5281c8befef1059590f3",
+      "source_name": "aitw-webshop-digiq-agent",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/JackBAI/aitw-webshop-digiq-agent",
+      "target_id": "arxiv:2502.15760",
       "type": "documented_by"
     },
     {
@@ -5443,11 +5739,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:54907fd6dc968eaced34",
+      "source_name": "SWEeper-Bench-traces",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/zlab-princeton/SWEeper-Bench-traces",
+      "target_id": "arxiv:2610.14096",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:54997a3c67e54abdf319",
       "source_name": "UIX-Qwen2",
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/neulab/UIX-Qwen2/raw/main/README.md",
       "target_id": "arxiv:2410.13824",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:558abdb3eb20b922e01b",
+      "source_name": "InternVL3_5-14B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-14B",
+      "target_id": "arxiv:2508.18265",
       "type": "documented_by"
     },
     {
@@ -5545,6 +5857,14 @@
       "evidence_url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool",
       "target_id": "organization:anthropic",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:58195ef097be91525554",
+      "source_name": "Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter",
+      "target_id": "arxiv:2410.13232",
+      "type": "documented_by"
     },
     {
       "source_id": "url:58a209f2b3b970916396",
@@ -5699,6 +6019,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:62688de46b172fb0c746",
+      "source_name": "SEAgent-1.0-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/Zery/SEAgent-1.0-7B",
+      "target_id": "arxiv:2508.04700",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:62724cba1b5814215cf7",
       "source_name": "WebVIA-Agent",
       "source_kind": "model",
@@ -5720,6 +6048,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md",
       "target_id": "arxiv:2509.15221",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:638d229f7a02760ae9dc",
+      "source_name": "GUI-AIMA-3B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/smz8599/GUI-AIMA-3B",
+      "target_id": "arxiv:2511.00810",
       "type": "documented_by"
     },
     {
@@ -5859,6 +6195,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:689fea75118e3113476b",
+      "source_name": "dart-gui-7b",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/dart-gui/dart-gui-7b",
+      "target_id": "arxiv:2509.23866",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:691c52679bb1d3521db7",
       "source_name": "GTA1-7B-2507",
       "source_kind": "model",
@@ -5936,6 +6280,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3-1B",
       "target_id": "arxiv:2504.10479",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:6d6f7ffc6a15e9e75a14",
+      "source_name": "SE-GUI-3B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/XinBB/SE-GUI-3B",
+      "target_id": "arxiv:2505.12370",
       "type": "documented_by"
     },
     {
@@ -6419,6 +6771,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:836de49b2bbd47d3a6a5",
+      "source_name": "OpenPhone_model",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/hkuds/OpenPhone_model",
+      "target_id": "arxiv:2510.22009",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:8477ada5b7de1d399c9d",
       "source_name": "VeriGUI",
       "source_kind": "dataset",
@@ -6555,6 +6915,14 @@
       "type": "variant_of"
     },
     {
+      "source_id": "url:8a5201470d27334977fa",
+      "source_name": "lora_qformer_test_V4-700_merged",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/WenyiWU0111/lora_qformer_test_V4-700_merged",
+      "target_id": "arxiv:2510.09038",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:8c0b15d51eb7b4156608",
       "source_name": "ScreenParser",
       "source_kind": "model",
@@ -6675,6 +7043,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:952cb4c3f308418aa85b",
+      "source_name": "Auto-UI",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/cooelf/Auto-UI",
+      "target_id": "arxiv:2309.11436",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:9610ef3e1de63d7b647e",
       "source_name": "DeskForge-Qwen3.5-4B",
       "source_kind": "model",
@@ -6688,6 +7064,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/api/datasets/xlangai/AgentNet",
       "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:96bb23bd687d6c227a41",
+      "source_name": "world_model_for_wa_desc_with_tao_dataset",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset",
+      "target_id": "arxiv:2410.13232",
       "type": "documented_by"
     },
     {
@@ -6736,6 +7120,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md",
       "target_id": "arxiv:2602.14276",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:98f37e375e57e027af64",
+      "source_name": "InternVL3_5-1B-HF",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-1B-HF",
+      "target_id": "arxiv:2508.18265",
       "type": "documented_by"
     },
     {
@@ -6923,6 +7315,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:a4b101913db4b3673a2b",
+      "source_name": "SeeClick-aitw",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/cckevinn/SeeClick-aitw",
+      "target_id": "arxiv:2401.10935",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:a4da77ee63f879cc8e63",
       "source_name": "Fara 7B",
       "source_kind": "model",
@@ -7040,6 +7440,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/alibabagroup/CMGUI/raw/main/README.md",
       "target_id": "arxiv:2603.08533",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:ab4587d17c4f541bb94c",
+      "source_name": "ACT-SOP",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/tineding/ACT-SOP",
+      "target_id": "arxiv:2401.04124",
       "type": "documented_by"
     },
     {
@@ -7192,6 +7600,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/ai2lumos/lumos_unified_ground_iterative-13B",
       "target_id": "arxiv:2311.05657",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:b144605ae24674ffb917",
+      "source_name": "lora_qformer_uitars_test_V1-400_merged",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/WenyiWU0111/lora_qformer_uitars_test_V1-400_merged",
+      "target_id": "arxiv:2510.09038",
       "type": "documented_by"
     },
     {
@@ -7387,6 +7803,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:c09ce6d4ca2ddaf02fae",
+      "source_name": "InternVL3_5-GPT-OSS-20B-A4B-Preview-HF",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF",
+      "target_id": "arxiv:2508.18265",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:c0bd07d82ce25ad1d99d",
       "source_name": "Holo Model Family",
       "source_kind": "model",
@@ -7475,6 +7899,14 @@
       "type": "trained_on"
     },
     {
+      "source_id": "url:c5cedb2f95336a8e48aa",
+      "source_name": "asil-qwen35-9b-rl",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/sharryXR/asil-qwen35-9b-rl",
+      "target_id": "arxiv:2608.26991",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:c5eb975c0d66f8a2954f",
       "source_name": "CogAgent 9B 20241220",
       "source_kind": "model",
@@ -7560,6 +7992,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/stanfordnlp/llama8b-nnetnav-wa",
       "target_id": "arxiv:2410.02907",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:ca7bfba3981fc7e5b3bf",
+      "source_name": "MobileRisk",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/api/datasets/OS-Copilot/MobileRisk",
+      "target_id": "arxiv:2510.24411",
       "type": "documented_by"
     },
     {
@@ -7675,6 +8115,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:d1f0e13ad96c108ef09b",
+      "source_name": "InternVL3_5-2B-HF",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-2B-HF",
+      "target_id": "arxiv:2508.18265",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:d206aacf01e1b7dc786d",
       "source_name": "GroundUI-18K",
       "source_kind": "benchmark",
@@ -7712,6 +8160,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/microsoft/Magma-8B",
       "target_id": "arxiv:2502.13130",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:d32dfe60eff4b87c1d05",
+      "source_name": "UI-Simulator_android_data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/UI-Simulator/UI-Simulator_android_data",
+      "target_id": "arxiv:2510.14969",
       "type": "documented_by"
     },
     {
@@ -8051,6 +8507,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:e02a165e76cd7c43e2ca",
+      "source_name": "webarena-world-model-rlvr",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/thuml/webarena-world-model-rlvr",
+      "target_id": "arxiv:2505.13934",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:e058cc2487a805f976fd",
       "source_name": "WebThinker-QwQ-32B",
       "source_kind": "model",
@@ -8179,6 +8643,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:e58270c90ea4fa83cfb4",
+      "source_name": "Qwen3-VL-8B-Instruct-MobileWorld-SFT",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/jacklishufan/Qwen3-VL-8B-Instruct-MobileWorld-SFT",
+      "target_id": "arxiv:2512.14014",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:e5e74846aeaa8398673e",
       "source_name": "Magma-R1",
       "source_kind": "model",
@@ -8200,6 +8672,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/README.md",
       "target_id": "arxiv:2605.06664",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:e7ea65893ab264517d83",
+      "source_name": "OpenPhone_dataset",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/hkuds/OpenPhone_dataset",
+      "target_id": "arxiv:2510.22009",
       "type": "documented_by"
     },
     {
@@ -8307,6 +8787,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:f0ffbdc41c9dca4c585f",
+      "source_name": "CUA_World_State_Model",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/Zery/CUA_World_State_Model",
+      "target_id": "arxiv:2508.04700",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:f13474d7aa734a30624d",
       "source_name": "UI-R1 3B",
       "source_kind": "model",
@@ -8347,6 +8835,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:f4f6f5bfe051e6ba3d94",
+      "source_name": "OpenWebVoyager-opt-2",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-2",
+      "target_id": "arxiv:2410.19609",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:f52794224f9541fd9eb3",
       "source_name": "GUI-Libra 7B",
       "source_kind": "model",
@@ -8385,6 +8881,14 @@
       "evidence_url": "https://huggingface.co/extreme1228/ScaleCUA-glm4.6v-osworld-sft/raw/b13810f35275021d1d70082b4d1071e941a2a857/README.md",
       "target_id": "github:thudm/scale-cua",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:f644200c18bea88da7b3",
+      "source_name": "TianXi_Action_Grounding_7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/tangliang/TianXi_Action_Grounding_7B",
+      "target_id": "arxiv:2508.04037",
+      "type": "documented_by"
     },
     {
       "source_id": "url:f6c88faa4392848f81b6",
@@ -8440,6 +8944,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/THUDM/webrl-glm-4-9b",
       "target_id": "arxiv:2411.02337",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:fa8fd2873571ab1b3556",
+      "source_name": "TimeWarp-GPT5-Traces",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/sparklabutah/TimeWarp-GPT5-Traces",
+      "target_id": "arxiv:2603.04949",
       "type": "documented_by"
     },
     {
@@ -8520,6 +9032,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain",
       "target_id": "arxiv:2506.03143",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:feaad5e9f2497d1ed9ca",
+      "source_name": "InternVL3_5-2B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3_5-2B",
+      "target_id": "arxiv:2508.18265",
       "type": "documented_by"
     },
     {

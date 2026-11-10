@@ -7,6 +7,7 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/7/
 - [Agentalyze](https://awesomecua.com/zh/resources/github-ilyat9-agentalyze/)
 - [agentB](https://awesomecua.com/zh/resources/github-beme08-agentb/)
 - [AgentBoard](https://awesomecua.com/zh/resources/github-hkust-nlp-agentboard/)
+- [AgentEval](https://awesomecua.com/zh/resources/url-85b700fbb7f1c599b7c3/)
 - [AgentGauntlet](https://awesomecua.com/zh/resources/github-konuktor-agent-gauntlet/)
 - [agentic-browser-boundary-tests](https://awesomecua.com/zh/resources/github-larrypeseckis-agentic-browser-boundary-tests/)
 - [AgentReady](https://awesomecua.com/zh/resources/github-williehems-agentready/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/7/
 - [MalURLBench](https://awesomecua.com/zh/resources/github-jiangyinger-malurlbench/)
 - [MarketBench](https://awesomecua.com/zh/resources/github-santos-sanz-marketbench/)
 - [mimiq](https://awesomecua.com/zh/resources/github-gojiplus-mimiq/)
-- [Mind2Web](https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web/)

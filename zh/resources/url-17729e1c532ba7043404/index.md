@@ -25,11 +25,11 @@ Public image files and desktop/mobile/web annotation JSON files are listed. This
 - 评测方式：Publisher supplies original, action, description and negative instruction types; no common end-to-end success metric is asserted.
 - 侧重：instruction-form robustness, negative grounding requests
 - 观测：screenshots, instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 4 instruction types — instruction-variant design（来源报告；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md）
+- 4 种指令类型 — instruction-variant design（来源报告；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md）
 
 Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tasks are different units.
 

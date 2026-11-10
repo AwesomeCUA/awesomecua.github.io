@@ -21,12 +21,12 @@
 - 评测方式：Controlled backend data and outcome-based task verification.
 - 侧重：mobile task completion
 - 观测：mobile interfaces
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 557 tasks — AppSim-Bench paper-described release（来源报告；来源：https://arxiv.org/abs/2609.07712）
-- 17 applications — published simulated app set（来源报告；来源：https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md）
+- 557 个任务 — AppSim-Bench paper-described release（来源报告；来源：https://arxiv.org/abs/2609.07712）
+- 17 个应用 — published simulated app set（来源报告；来源：https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md）
 
 Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions describe setup; the evaluated platform is separate.
 

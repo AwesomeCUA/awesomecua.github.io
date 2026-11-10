@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/agent/page/5/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [Portal Operator](https://awesomecua.com/resources/github-pwmcgovern-afk-portal-operator/)
+- [Prism-Shadow Travel Agent](https://awesomecua.com/resources/github-prism-shadow-travel-agent/)
+- [PrivateAI for Mac](https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/)
 - [QAgent](https://awesomecua.com/resources/github-rishabhcli-qagent/)
 - [qz-browser-agent](https://awesomecua.com/resources/github-alibaba-qz-browser-agent/)
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/)
@@ -12,6 +15,7 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [RegionCUA](https://awesomecua.com/resources/github-region-ai-region-cua/)
 - [Resume Autofill Agent](https://awesomecua.com/resources/github-ccc-zach-resume-autofill-agent/)
 - [Ribband (Agentic WebMCP)](https://awesomecua.com/resources/github-somnora-agentic-webmcp/)
+- [RUSS](https://awesomecua.com/resources/github-xnancy-russ/)
 - [Ruyi (如意)](https://awesomecua.com/resources/github-icesword0760-ruyi/)
 - [s1](https://awesomecua.com/resources/github-matthew-eucaristo-s1/)
 - [Scout](https://awesomecua.com/resources/github-outcrawlai-scout/)

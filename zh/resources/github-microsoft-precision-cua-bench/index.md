@@ -21,7 +21,7 @@
 - 评测方式：The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.
 - 侧重：pixel-precise editor cursor placement, multi-turn visual self-correction
 - 观测：code-editor screenshot, cursor-location instruction, red-cross feedback marking previous incorrect prediction
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 

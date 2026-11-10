@@ -2,7 +2,7 @@
 
 框架是用于构建、运行、评估或训练计算机使用智能体的库和 SDK，从浏览器自动化智能体库到强化学习训练栈。
 
-> AwesomeCUA 目录收录 662 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
+> AwesomeCUA 目录收录 665 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https://awesomecua.com/categories/framework/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https
 
 ### 这些框架覆盖哪些平台？
 
-在 662 条已审核框架中，网页 460 条、桌面 309 条、跨平台 154 条、手机 104 条；26 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 665 条已审核框架中，网页 463 条、桌面 309 条、跨平台 154 条、手机 104 条；26 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些框架有对应的论文？
 
-662 条中有 139 条链接到提出或说明它的 arXiv 论文，例如 [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)、[AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) 和 [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)。
+665 条中有 139 条链接到提出或说明它的 arXiv 论文，例如 [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)、[AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) 和 [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)。
 
 ### 框架使用哪些许可证？
 
-最常见的声明许可证是 MIT（304 条）、Apache-2.0（157 条）和 GPL-3.0（7 条）。662 条中有 177 条未记录声明的许可证。
+最常见的声明许可证是 MIT（304 条）、Apache-2.0（159 条）和 GPL-3.0（7 条）。665 条中有 178 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -4281,6 +4281,36 @@ The README includes a store integration example and describes raw dispatch and d
 
 ---
 
+## RLVR-World
+
+RLVR-World 使用可验证强化学习训练世界模型，预测网页和游戏智能体的状态转移。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-thuml-rlvr-world/
+- 原始来源：https://github.com/thuml/RLVR-World
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面
+- 主题：世界模型、强化学习
+- 证据核查日期：2026-11-04T14:02:38Z
+- ID：github:thuml/rlvr-world
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-thuml-rlvr-world/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/README.md（获取于 2026-11-04T14:02:38Z；SHA-256：db83605195346ccd3b3cad1118f2398c86dc1e43a8303f7d5343777a17c1e34f）
+- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE（获取于 2026-11-04T14:07:28Z；SHA-256：f963a3becf605b20bb9b2e54ee3ae705f8c58234530f1b8766c8e619abc41a1c）
+
+---
+
 ## RPA for Python
 
 RPA for Python 在 TagUI 之上提供 Python API，通过视觉 OCR 自动操作网站和桌面 GUI 应用，并自动执行命令行工作流。
@@ -4535,6 +4565,74 @@ The README shows TypeScript, Python, Rust and Go clients, and says access requir
 
 - https://raw.githubusercontent.com/spider-rs/spider-browser/HEAD/README.md（获取于 2026-11-09T19:56:36Z；SHA-256：f20b5fd47929dd4f53547df9e22f0759e2a76f12eb5ed92e1723532deab7a5b4）
 - https://raw.githubusercontent.com/spider-rs/spider-browser/HEAD/LICENSE（获取于 2026-11-09T14:20:45Z；SHA-256：1a3b65ed8c3b242aa834ab38e9d5cf85169c88f49cbe83a64d1f2f59238dd820）
+
+---
+
+## Steel Node API Library
+
+Steel 云浏览器 API 的 TypeScript 与 JavaScript 客户端，提供类型化调用，用于创建浏览器会话、发送计算机操作、处理验证码，以及管理文件、配置文件和凭据。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-steel-dev-steel-node/
+- 原始来源：https://github.com/steel-dev/steel-node
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、自动化、网页导航
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:steel-dev/steel-node
+
+### 范围记录
+
+Published on npm as steel-sdk and generated with Stainless; calls need a STEEL_API_KEY. The api.md reference lists sessions, captchas, files, credentials, extensions, profiles, computers and checkpoints endpoints.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-steel-dev-steel-node/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-node/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/steel-dev/steel-node/181486b55c11cb3d57261a91c159643047ebf94c/README.md（获取于 2026-11-10T03:00:59Z；SHA-256：67bcf656ae4eb7faec3bbaf29eb9fbd037ce203d5661d6b4cbb42ecb7b073087）
+- https://raw.githubusercontent.com/steel-dev/steel-node/HEAD/LICENSE（获取于 2026-11-10T02:08:10Z；SHA-256：9c157c3b920cdacbb9f90e4e1f57ed88c74b831d5dc5ed82cb32893566824b81）
+
+---
+
+## Steel Python API library
+
+Steel 云浏览器 API 的 Python 客户端，提供同步与异步客户端以及类型化调用，用于创建浏览器会话、发送计算机操作、解决验证码，以及管理文件和浏览器配置档案。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-steel-dev-steel-python/
+- 原始来源：https://github.com/steel-dev/steel-python
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、自动化、网页导航
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:steel-dev/steel-python
+
+### 范围记录
+
+Archived at version 0.19.0; the steel-sdk package on PyPI is now built from github.com/steel-dev/sdk (python/). Generated with Stainless on httpx; requires Python 3.9 or higher and a STEEL_API_KEY. The api.md reference lists sessions, captchas, files, credentials, extensions, profiles, computers and checkpoints endpoints.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-steel-dev-steel-python/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-python/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/steel-dev/steel-python/50592867e89c2b4815632d5b54f5c8266618ce61/README.md（获取于 2026-11-10T03:00:59Z；SHA-256：6c7dd13c0c62bb10026610534167ef5ac2af7d3f6cf6ba243f647b3d2eb00b9c）
+- https://raw.githubusercontent.com/steel-dev/steel-python/HEAD/LICENSE（获取于 2026-11-10T02:08:10Z；SHA-256：9c157c3b920cdacbb9f90e4e1f57ed88c74b831d5dc5ed82cb32893566824b81）
 
 ---
 
@@ -16497,36 +16595,6 @@ WebMCP 调查控制台，浏览器智能体可在人工审查下，跨实时网�
 
 ---
 
-## RLVR-World
-
-RLVR-World 使用可验证强化学习训练世界模型，预测网页和游戏智能体的状态转移。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-thuml-rlvr-world/
-- 原始来源：https://github.com/thuml/RLVR-World
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页、桌面
-- 主题：世界模型、强化学习
-- 证据核查日期：2026-11-04T14:02:38Z
-- ID：github:thuml/rlvr-world
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-thuml-rlvr-world/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/README.md（获取于 2026-11-04T14:02:38Z；SHA-256：db83605195346ccd3b3cad1118f2398c86dc1e43a8303f7d5343777a17c1e34f）
-- https://raw.githubusercontent.com/thuml/RLVR-World/HEAD/LICENSE（获取于 2026-11-04T14:07:28Z；SHA-256：f963a3becf605b20bb9b2e54ee3ae705f8c58234530f1b8766c8e619abc41a1c）
-
----
-
 ## robotsix-browser
 
 面向 AI 智能体的交互式 Playwright 无头浏览器及表单填写 HTTP 服务。
@@ -19080,6 +19148,39 @@ Understudy 观察人类在桌面和浏览器中的操作演示，并将其编译
 
 - https://raw.githubusercontent.com/osamalvzx/Universal-AI-Studio/main/README.md（获取于 2026-11-04T17:30:42Z；SHA-256：b919573be9c6e8f30bb385e5c310d5735dbe9077424829f59108301f07a17c9b）
 - https://raw.githubusercontent.com/osamalvzx/Universal-AI-Studio/HEAD/LICENSE（获取于 2026-11-04T17:39:58Z；SHA-256：a8ad43e97c4bda4788613037e42a8d921345203b9c9fbe72b0db7f491ff59bbc）
+
+---
+
+## UXAgent
+
+一套可用性测试系统：生成模拟用户画像，让大模型智能体通过浏览器连接器在目标网站上完成任务，并在结果查看界面中展示其问卷回答与操作日志。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-2f73fe78c423e263d451/
+- 原始来源：https://uxagent.hailab.io
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：界面设计、网页导航
+- 证据核查日期：2026-11-10T03:01:16Z
+- ID：url:2f73fe78c423e263d451
+
+### 范围记录
+
+The linked repository neuhai/uxagent holds MIT-licensed Python code run with uv and Playwright Chromium and needs an LLM API key; it links a Hugging Face dataset. The paper is arXiv 2504.09407.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2f73fe78c423e263d451/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://uxagent.hailab.io（获取于 2026-11-10T03:01:16Z；SHA-256：2d09df84248a541db7f714478e96c2b612f5a35d157aac17baa9ee691e46a3a7）
 
 ---
 

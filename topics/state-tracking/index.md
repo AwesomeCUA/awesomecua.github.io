@@ -184,6 +184,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 
 - [Preflight Bench](https://awesomecua.com/resources/url-a40fc87ac700add33232/) — Date not recorded
   A dataset of paired screenshots, click outcomes and checker answers for evaluating pre-click checks on changing web pages. It includes Lance tables and development and test splits.
+- [Static-FineBench](https://awesomecua.com/resources/url-94adc54bf1cd168da768/) — Date not recorded
+  Data for FineState-Bench, a fine-grained GUI state-control benchmark: desktop, web and mobile screenshots with XML and JSON annotations of locate and interact instructions and separate localization and interaction boxes.
 
 ## Models
 

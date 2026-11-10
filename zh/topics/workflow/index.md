@@ -377,6 +377,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 
 ## 模型
 
+- [ACT-SOP](https://awesomecua.com/zh/resources/url-ab4587d17c4f541bb94c/) — Date not recorded
+  LoRA adapter for Llama-2-7b from MobileAgent, a mobile device control agent that adds Standard Operating Procedure (SOP) context and predicts actions on AitW screens.
 - [Holo3](https://awesomecua.com/zh/resources/url-a03c649e4b14e293e2dd/) — Date not recorded
   Holo3 is a computer-use model family trained on synthetic navigation and enterprise workflows. Its publisher reports desktop benchmark results and offers inference access and an open checkpoint.
 

@@ -25,15 +25,15 @@ This Hub repository is the public-ladder subset: the paper and project page desc
 - 评测方式：Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.
 - 侧重：privacy-risk recognition in GUI agent screenshots, agent planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
 - 观测：recorded trajectory screenshots, task goals, plan and progress text
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 121 evaluation trajectories — public-ladder evaluation set (68 Android + 53 PC)（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
-- 2,002 screenshots (evaluation samples) — public-ladder evaluation set, data/eval.jsonl（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
-- 26,407 region-level privacy annotations — public-ladder evaluation set（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
-- 68 Android task directories — Android/ at revision c2b5ca41（计算得出；来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
-- 53 PC task directories — PC/ at revision c2b5ca41（计算得出；来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
+- 121 条评测轨迹 — public-ladder evaluation set (68 Android + 53 PC)（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
+- 2,002 张截图（评测样本） — public-ladder evaluation set, data/eval.jsonl（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
+- 26,407 条区域级隐私标注 — public-ladder evaluation set（来源报告；来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md）
+- 68 个 Android 任务目录 — Android/ at revision c2b5ca41（计算得出）（来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
+- 53 个 PC 任务目录 — PC/ at revision c2b5ca41（计算得出）（来源：https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920）
 
 Trajectories, screenshots and annotations are different units and are counted separately. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.
 

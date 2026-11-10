@@ -28,9 +28,9 @@ The card calls this the official dataset repository of the AMEX paper. The full 
 
 ### 数量记录
 
-- > 104,000 screenshots — AMEX collection described in the arXiv v1 abstract（来源报告；来源：https://arxiv.org/abs/2407.17490v1）
-- 3,046 instruction episodes — AMEX/instruction_anno.zip at revision 17196b29 (one JSON file per episode, unique episode_id)（计算得出；来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
-- 38,709 action steps — steps lists of the 3,046 instruction episodes in AMEX/instruction_anno.zip at revision 17196b29（计算得出；来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
+- > 104,000 张截图 — AMEX collection described in the arXiv v1 abstract（来源报告；来源：https://arxiv.org/abs/2407.17490v1）
+- 3,046 个指令回合 — AMEX/instruction_anno.zip at revision 17196b29 (one JSON file per episode, unique episode_id)（计算得出）（来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
+- 38,709 个动作步骤 — steps lists of the 3,046 instruction episodes in AMEX/instruction_anno.zip at revision 17196b29（计算得出）（来源：https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip）
 
 Episode and step counts were computed with a script from the instruction archive; the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.
 

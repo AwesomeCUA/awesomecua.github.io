@@ -21,14 +21,14 @@ LlamaTouch 利用应用状态信息评估移动端 UI 任务。
 - 评测方式：Checks whether the recorded execution visits all annotated essential states.
 - 侧重：mobile task completion, essential-state evaluation
 - 观测：screenshots, view hierarchies, Android activity names
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 495 tasks — complete task collection（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
-- 102 tasks — AITW-derived subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
-- 393 tasks — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
-- 46 Android applications — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 495 个任务 — complete task collection（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 102 个任务 — AITW-derived subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 393 个任务 — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
+- 46 个 Android 应用 — self-constructed subset（来源报告；来源：https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md）
 
 Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported.
 

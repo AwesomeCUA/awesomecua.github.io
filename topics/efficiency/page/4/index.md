@@ -63,4 +63,4 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Contrastive Language Models](https://awesomecua.com/resources/github-contrastive-lm-clm/)
 - [cua-s1-forms-coreml](https://awesomecua.com/resources/url-f742ad40df2e5f109fc3/)
 - [cua-s1-nano-0.1](https://awesomecua.com/resources/url-3cdd5263b3b46a5e2003/)
-- [DeskMind Eyes](https://awesomecua.com/resources/github-deskmind-ai-eyes/)
+- [dart-gui-7b](https://awesomecua.com/resources/url-689fea75118e3113476b/)

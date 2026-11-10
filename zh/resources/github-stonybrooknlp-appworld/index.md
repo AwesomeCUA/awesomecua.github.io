@@ -25,12 +25,12 @@ Primarily API and coding interaction; included as an adjacent comparison for GUI
 - 评测方式：State-based unit tests check task outcomes and unintended changes.
 - 侧重：interactive coding, cross-app tool use
 - 观测：API documentation, execution feedback
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 750 tasks — original AppWorld benchmark (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
-- 9 applications — original AppWorld environment (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
+- 750 个任务 — original AppWorld benchmark (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
+- 9 个应用 — original AppWorld environment (2024 paper)（来源报告；来源：https://arxiv.org/abs/2407.18901）
 
 This is an adjacent API/coding benchmark. Preserve the named release; task counts here refer to the original paper.
 

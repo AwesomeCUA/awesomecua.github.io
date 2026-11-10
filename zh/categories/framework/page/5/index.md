@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)：模块化网页智能体框架，包含浏览器控制、规划、工作流程记忆和树搜索组件，并提供网页与扩展界面。
+- [llm-browser-agent](https://awesomecua.com/zh/resources/github-justifysiddh-llm-browser-agent/)：具备自我修复能力的浏览器自动化框架，使用 LLM 引导的语义元素解析替代脆弱的 CSS 选择器。
+- [LockInTime headless](https://awesomecua.com/zh/resources/github-lockintime-headless/)：面向 AI 智能体的持久化浏览器控制运行时，实施安全约束，并提供语义化 CLI。
 - [Locus Platform](https://awesomecua.com/zh/resources/github-nahid-sparktales-locus-platform/)：为 Locus 自动化生态系统提供共享智能体运行时、协议契约和浏览器桥接工具。
 - [loki-auto](https://awesomecua.com/zh/resources/github-loki4agent-loki-auto/)：零依赖的浏览器内网页自动化运行时，内置面向 LLM 的沙箱和 Model Context Protocol 服务器。
 - [look-decide-act](https://awesomecua.com/zh/resources/github-ivanposel-look-decide-act/)：通过 CDP，以闭环的视觉观察、决策、动作循环操作实时网页应用，代替脚本回放。
@@ -101,6 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 - [PhoneCLI](https://awesomecua.com/zh/resources/github-hkuds-phonecli/)：移动智能体框架将应用爬取为 YAML 屏幕地图，通过 iOS 上的 WebDriverAgent 或 Android 上的 ADB 重放编译后的导航命令，并在遇到未知屏幕时回退至 VLM。
 - [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/)：Pix2Act 提供用于 MiniWoB++ 纯像素 GUI 智能体的 JAX/T5X 训练与评测代码，采用行为克隆和树搜索。
 - [pixelpi](https://awesomecua.com/zh/resources/github-josharsh-pixelpi/)：仅含 6 个工具的精简浏览器智能体测试框架，其完整工具定义只需 1,196 个 token，便于节省网页自动化的上下文空间。
-- [Plip OSS](https://awesomecua.com/zh/resources/github-hussainn7-plip-oss/)：开源 macOS 刘海区域助手和运行时，面向具备可验证动作预览、与模型无关的定位型计算机使用智能体。
-- [Polyform a11y-guide](https://awesomecua.com/zh/resources/github-polyform-ai-a11y-guide/)：同时面向辅助技术和 AI 浏览器智能体设计的语义无障碍页面引导层。
-- [Praefectus](https://awesomecua.com/zh/resources/github-tschk-praefectus/)：用于经主机授权的后台计算机使用执行的策略中立 Rust 库和 JSON CLI。

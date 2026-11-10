@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/web-navigation/page/8/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
+- [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/)
 - [Mind2Web 2](https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/)
 - [Mirage (Adversarial Web Benchmark)](https://awesomecua.com/resources/github-shushant17711-mirage/)
 - [MMSearch-Plus](https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/)
@@ -45,6 +46,7 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [WebArena-Infinity](https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/)
 - [WebArena-Verified](https://awesomecua.com/resources/github-servicenow-webarena-verified/)
 - [WebBench](https://awesomecua.com/resources/github-halluminate-webbench/)
+- [WebCanvas_showcase](https://awesomecua.com/resources/github-imeanai-webcanvas-showcase/)
 - [WebClick](https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/)
 - [WebGen-Bench](https://awesomecua.com/resources/github-mnluzimu-webgen-bench/)
 - [WebGuard](https://awesomecua.com/resources/github-osu-nlp-group-webguard/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [WebTestBench](https://awesomecua.com/resources/github-friedrichor-webtestbench/)
 - [WebUIProof](https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/)
 - [WebVoyager](https://awesomecua.com/resources/github-minorjerry-webvoyager/)
-- [WebWalker](https://awesomecua.com/resources/github-alibaba-nlp-webwalker/)
-- [WindTunnel](https://awesomecua.com/resources/github-nekuda-ai-windtunnel/)

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
 
+- [GUITestBench](https://awesomecua.com/zh/resources/github-adam-bjtu-guitestbench/)：GUITestBench 评测安卓智能体能否通过多步操作发现应用缺陷，并结合导航与触发条件检查及评判模型进行评估。
+- [HealthEnv](https://awesomecua.com/zh/resources/github-possibleme2026-lang-healthenv/)：HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机使用评测环境。
+- [HoloSkill Gym](https://awesomecua.com/zh/resources/github-elenaviewsynthesis-holoskill-gym/)：用于自我演进的 CLI 和计算机使用智能体技能的 Gym 环境与优化框架。
+- [HumanQA](https://awesomecua.com/zh/resources/github-hotragn-humanqa/)：以证据为先的产品质量与 UX 评测测试框架，用于通过浏览器智能体测试网页应用。
+- [hyprbench](https://awesomecua.com/zh/resources/github-crispwisp-hyprbench/)：hyprbench 是面向 Linux Hyprland Wayland 合成器、采用 OSWorld 风格的计算机使用评测基准，配有脚本化窗口管理验证器。
 - [Inspect Evals](https://awesomecua.com/zh/resources/github-ukgovernmentbeis-inspect-evals/)：Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包含 OSWorld、GAIA、SWE-bench 以及网络安全和智能体评测。
 - [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/zh/resources/github-openbmb-tell-me-more/)：提供 Intention-in-Interaction (IN3) 评测基准和 Mistral-Interact 模型，用于在智能体任务中主动澄清用户意图。
 - [Intentproof](https://awesomecua.com/zh/resources/github-egagofur-intentproof/)：由 AI 驱动的端到端验证编排工具和交互式浏览器测试框架。
@@ -99,8 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [WebTestBench](https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/)：端到端网页测试基准，智能体根据开发说明制定测试清单，与已部署的应用交互，并报告功能或约束方面的缺陷。
 - [WebWalker](https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/)：用于评测大型语言模型完成多步网页遍历和深度信息查找任务的评测基准与多智能体框架。
 - [WinDeskGround](https://awesomecua.com/zh/resources/github-zzzhr-1-windeskground/)：WinDeskGround 在具有受控遮挡、缩放和干扰等级的多窗口 Windows 环境中，评测桌面 GUI 定位。
-- [WindowsAgentArena-V2](https://awesomecua.com/zh/resources/github-gair-nlp-windowsagentarena-v2/)：Windows 基准的修订版本，修复任务和评估器问题并支持虚拟机初始化，相关说明与 PC-Agent-E 一同提供。
-- [WindowsWorld](https://awesomecua.com/zh/resources/github-hitsz-tmg-windowsworld/)：WindowsWorld 是跨应用的 Windows 基准，支持对任务中间步骤进行评估。
-- [WONDERBREAD](https://awesomecua.com/zh/resources/github-hazyresearch-wonderbread/)：WONDERBREAD 是用于评估工作流程文档编写、质量评估和知识迁移的离线基准，使用人类网页导航演示、操作轨迹和书面流程。
-- [WorldGUI](https://awesomecua.com/zh/resources/github-showlab-worldgui/)：包含 611 项要求智能体从不同起点完成的桌面 GUI 任务，附有教学视频、项目文件和具备自我反思能力的 WorldGUI-Agent 基线。
-- [Wornpage WebMCP Conformance](https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/)：验证工具包，用于检查页面自有的 WebMCP 工具模式、授权边界和执行一致性。

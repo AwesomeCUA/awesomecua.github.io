@@ -24,8 +24,8 @@ Android 任务的人类操作演示，包含截图和触摸操作。
 
 ### 数量记录
 
-- 715,142 episodes — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
-- 5,689,993 action examples — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
+- 715,142 个回合 — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
+- 5,689,993 个动作示例 — sum of the five published AitW subsets（来源报告；来源：https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md）
 
 Episodes and action examples are different units. The collection combines multi-step subsets and hindsight-labeled single-step tasks; preserve subset and split choices.
 

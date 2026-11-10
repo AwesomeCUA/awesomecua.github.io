@@ -28,12 +28,12 @@ The ungated Hub publishes four Parquet splits containing video identifiers and a
 
 ### 数量记录
 
-- 19,725 video annotation records — train split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- 495 video annotation records — validation split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- 100 video annotation records — test split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- 50 video annotation records — test_unseen_os split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- ≈ 333,000 detected scenes — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
-- ≈ 313,000 identified actions — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 19,725 条视频标注记录 — train split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 495 条视频标注记录 — validation split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 100 条视频标注记录 — test split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- 50 条视频标注记录 — test_unseen_os split（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- ≈ 333,000 个检测到的场景 — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
+- ≈ 313,000 个已识别的动作 — publisher overview of MONDAY（来源报告；来源：https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md）
 
 Split counts are video-annotation rows; scene and action totals are rounded publisher reports. Source videos/images are not included in the Hub files.
 

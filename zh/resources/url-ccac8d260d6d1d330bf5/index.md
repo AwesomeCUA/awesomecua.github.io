@@ -28,11 +28,11 @@ Released by the web-arena-x organization. The card cites a project page (webaren
 
 ### 数量记录
 
-- 2,329 trajectories — manifest.json at revision 73cf7f57: Gemini 2.5 Flash 978, Kimi K2.5 643, Qwen 2.5 VL Plus 708（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 1,124 distinct tasks (environment and task_id pairs) — manifest.json at revision 73cf7f57（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 13 web-application environments — manifest.json at revision 73cf7f57（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 25,503 agent steps (sum of the manifest steps field) — manifest.json at revision 73cf7f57（计算得出；来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
-- 2,195 trajectory folders with history.json — Hub file tree at revision 73cf7f57（计算得出；来源：https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe）
+- 2,329 条轨迹 — manifest.json at revision 73cf7f57: Gemini 2.5 Flash 978, Kimi K2.5 643, Qwen 2.5 VL Plus 708（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 1,124 个不重复的任务（环境与 task_id 组合） — manifest.json at revision 73cf7f57（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 13 个 Web 应用环境 — manifest.json at revision 73cf7f57（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 25,503 个智能体步骤（manifest 中 steps 字段之和） — manifest.json at revision 73cf7f57（计算得出）（来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json）
+- 2,195 个含 history.json 的轨迹文件夹 — Hub file tree at revision 73cf7f57（计算得出）（来源：https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe）
 
 Trajectories, tasks, environments, steps and folders are different units and are counted separately. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Two history files were sampled.
 

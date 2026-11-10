@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/agent/page/4/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [Kirk Engine](https://awesomecua.com/resources/url-80c8abf734a29f7affc5/)
+- [Kota-Kawa Browser-Agent](https://awesomecua.com/resources/github-kota-kawa-browser-agent/)
+- [Kushatish AI Browser Copilot](https://awesomecua.com/resources/github-kushatish-ai-browser-copilot/)
 - [Kyros Local Desktop Assistant](https://awesomecua.com/resources/github-rhymezip-kyros-local-desktop-assistant/)
 - [K²-Agent](https://awesomecua.com/resources/github-k2-agent-k2-agent/)
 - [Larker](https://awesomecua.com/resources/github-qiadastrachen-bit-larker/)
@@ -101,6 +104,3 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Pocketwatch](https://awesomecua.com/resources/github-psamme-pocketwatch/)
 - [Pointer](https://awesomecua.com/resources/url-98122987ca3e7c764d0e/)
 - [PokeClaw](https://awesomecua.com/resources/github-agents-io-pokeclaw/)
-- [Portal Operator](https://awesomecua.com/resources/github-pwmcgovern-afk-portal-operator/)
-- [Prism-Shadow Travel Agent](https://awesomecua.com/resources/github-prism-shadow-travel-agent/)
-- [PrivateAI for Mac](https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/)

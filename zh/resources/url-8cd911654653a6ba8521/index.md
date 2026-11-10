@@ -28,8 +28,8 @@ The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json
 
 ### 数量记录
 
-- ≈ 7,300,000 samples — MultiUI training dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md）
-- 21 TAR archive parts — Hub file manifest at revision c17e5f29（计算得出；来源：https://huggingface.co/api/datasets/neulab/MultiUI/tree/c17e5f297392be76741dcc3599e8fedc4304b386）
+- ≈ 7,300,000 个样本 — MultiUI training dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md）
+- 21 个 TAR 归档分卷 — Hub file manifest at revision c17e5f29（计算得出）（来源：https://huggingface.co/api/datasets/neulab/MultiUI/tree/c17e5f297392be76741dcc3599e8fedc4304b386）
 
 The sample count is the README's rounded figure; the gated files remain uncounted. Archive parts are package files. The versioned archive names (v0.7 excluding v0.6, v0.8 excluding v0.7) suggest incremental releases, but the card that would explain them is gated.
 

@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/topics/automation/page/24/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [Terminator](https://awesomecua.com/resources/github-mediar-ai-terminator/)
+- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/)
+- [TestZeus Hercules](https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/)
+- [TEX (tex-browse-use)](https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/)
+- [THEIA Computer Use](https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/)
+- [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/)
+- [ThreeBody6666 DSH Computer Use](https://awesomecua.com/resources/github-threebody6666-dsh-computer-use/)
 - [Thursday](https://awesomecua.com/resources/github-cgoinglove-thursday/)
 - [tine](https://awesomecua.com/resources/github-smythp-tine/)
 - [tinycomputer](https://awesomecua.com/resources/github-tinyhumansai-tinycomputer/)
@@ -57,10 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Veeva CRM (Veeva Commercial Cloud) Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-crm-browser-automation/)
 - [Veeva Vault Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/)
 - [Venxuix Dccide](https://awesomecua.com/resources/github-venxuix-dccide-venxuix/)
-- [Vera AI Assistant](https://awesomecua.com/resources/github-alpert-code-veraai-assistant-1-1/)
-- [VersaiOS](https://awesomecua.com/resources/github-zhaodashuaibi-versaios/)
-- [VibeSurf for OpenClaw](https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/)
-- [viger1 dsh-pilot](https://awesomecua.com/resources/github-viger1-dsh-pilot/)
-- [Vigil](https://awesomecua.com/resources/github-bofstudios-vigil/)
-- [Vision Browser Agent](https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/)
-- [Vision UI](https://awesomecua.com/resources/github-meituan-dianping-vision-ui/)

@@ -21,11 +21,11 @@
 - 评测方式：Task-specific evaluator scripts run within the prepared workplace environment.
 - 侧重：professional workflows, multi-tool tasks
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 175 task images — workspace images documented by the README（来源报告；来源：https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md）
+- 175 张任务图像 — workspace images documented by the README（来源报告；来源：https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md）
 
 Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.
 

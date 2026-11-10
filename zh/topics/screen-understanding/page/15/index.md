@@ -4,6 +4,15 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/15/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
+- [pursr](https://awesomecua.com/zh/resources/github-0xheycat-pursr/)
+- [PyGetWindow](https://awesomecua.com/zh/resources/github-asweigart-pygetwindow/)
+- [pyside6-mcp](https://awesomecua.com/zh/resources/github-com55-pyside6-mcp/)
+- [pywinauto](https://awesomecua.com/zh/resources/github-pywinauto-pywinauto/)
+- [Qirabot](https://awesomecua.com/zh/resources/github-qirabot-qirabot/)
+- [qt-mcp](https://awesomecua.com/zh/resources/github-0xcarbon-qt-mcp/)
+- [QWebBridge](https://awesomecua.com/zh/resources/github-hu-qi-qwebbridge/)
+- [rdc (Remote Desktop Control for AI Agents)](https://awesomecua.com/zh/resources/github-bscott-rdc/)
+- [Reasonix Computer Use](https://awesomecua.com/zh/resources/github-plocr-reasonix-computer-use/)
 - [reflex-computer-use](https://awesomecua.com/zh/resources/github-8itlab-reflex-cu/)
 - [Renoned dsh-computer-use](https://awesomecua.com/zh/resources/github-renoned-dsh-computer-use/)
 - [Roadmvn linux-computer-use](https://awesomecua.com/zh/resources/github-roadmvn-linux-computer-use/)
@@ -55,12 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/15/
 - [TankWork](https://awesomecua.com/zh/resources/github-agenttankos-tankwork/)
 - [Tarsier](https://awesomecua.com/zh/resources/github-reworkd-tarsier/)
 - [Tarsier-AI](https://awesomecua.com/zh/resources/github-siddzzzz-tarsier/)
-- [Tauri Dev Screen CLI](https://awesomecua.com/zh/resources/github-johunsang-tauri-dev-screen-cli/)
-- [termcast](https://awesomecua.com/zh/resources/github-chromedp-termcast/)
-- [terminal-use-mcp](https://awesomecua.com/zh/resources/github-hlh2023-terminal-use-mcp/)
-- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)
-- [Third Eye](https://awesomecua.com/zh/resources/github-slastrina-third-eye/)
-- [ThreeBody6666 DSH Computer Use](https://awesomecua.com/zh/resources/github-threebody6666-dsh-computer-use/)
-- [TideSurf](https://awesomecua.com/zh/resources/github-tidesurf-core/)
-- [tine](https://awesomecua.com/zh/resources/github-smythp-tine/)
-- [TipTour](https://awesomecua.com/zh/resources/github-milind-soni-tiptour-macos/)

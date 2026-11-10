@@ -28,8 +28,8 @@ The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, wh
 
 ### 数量记录
 
-- 7,735 episodes — original OpenGVLab/GUI-Odyssey release（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md）
-- 7,735 annotation JSON files — annotations/ at revision 71e0e7e2（计算得出；来源：https://huggingface.co/api/datasets/OpenGVLab/GUI-Odyssey/revision/71e0e7e2d169c642e7a99c264d82ffecadf67889）
+- 7,735 个回合 — original OpenGVLab/GUI-Odyssey release（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md）
+- 7,735 个标注 JSON 文件 — annotations/ at revision 71e0e7e2（计算得出）（来源：https://huggingface.co/api/datasets/OpenGVLab/GUI-Odyssey/revision/71e0e7e2d169c642e7a99c264d82ffecadf67889）
 
 Each annotation file is one episode keyed by episode_id, with device, task (category, apps, meta-task, instruction) and per-step screenshot, action, info and ps fields; actions are CLICK, SCROLL, LONG_PRESS, TYPE, COMPLETE, IMPOSSIBLE, HOME and BACK, with coordinates normalized to 0-1000. Each split file lists train and test episode IDs.
 

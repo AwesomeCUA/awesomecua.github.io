@@ -21,7 +21,7 @@ MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获�
 - 评测方式：Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
 - 侧重：mobile task helpfulness, harm prevention during Android interaction
 - 观测：screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 

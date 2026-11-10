@@ -28,7 +28,7 @@ This is the benchmark data asset, distinct from its evaluation-code repository. 
 
 ### 数量记录
 
-- 1,581 target annotations — sum of icon/text counts in the published card table（计算得出；来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
+- 1,581 条目标标注 — sum of icon/text counts in the published card table（计算得出）（来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md）
 
 Counts describe target annotations; unique screenshots and expanded language/style variants use different units. The evaluation code can reuse a target across configurations.
 

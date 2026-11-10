@@ -28,10 +28,10 @@ The card is titled TongUI-143K. The TongUI training docs list this repository be
 
 ### 数量记录
 
-- ≈ 143,000 training samples — TongUI-collected part, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
-- ≈ 237,000 training samples — data from other sources, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
-- 13 JSON annotation files — Hub manifest at revision 7c1ed0cd（计算得出；来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
-- 24 split ZIP image archive parts — Hub manifest at revision 7c1ed0cd（计算得出；来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
+- ≈ 143,000 个训练样本 — TongUI-collected part, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
+- ≈ 237,000 个训练样本 — data from other sources, card table（来源报告；来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md）
+- 13 个 JSON 标注文件 — Hub manifest at revision 7c1ed0cd（计算得出）（来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
+- 24 个拆分 ZIP 图像归档分卷 — Hub manifest at revision 7c1ed0cd（计算得出）（来源：https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12）
 
 The card states numbers without a unit; the training docs call them training data. Record counts computed by streaming the 13 annotation files are in the record notes; the card's two figures and the file counts are different populations and units and are counted separately. No validation or test split is published.
 

@@ -28,7 +28,7 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub no
 
 ### 数量记录
 
-- 739 annotated screenshots — training set described by the card at revision ec67c2bf（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md）
+- 739 张已标注的截图 — training set described by the card at revision ec67c2bf（来源报告；来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md）
 
 The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.
 

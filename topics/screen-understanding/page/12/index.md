@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/12/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [Game AI - Balatro](https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/)
+- [Game AI - Dome Keeper](https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/)
+- [GAZE](https://awesomecua.com/resources/github-kevintrinhdev-gaze/)
+- [gcv](https://awesomecua.com/resources/github-vcaesar-gcv/)
+- [GenPark DOM Accessibility Tree Pruner Skill](https://awesomecua.com/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/)
+- [Geohotstan DSH Codex Computer Use](https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/)
+- [GERALLT](https://awesomecua.com/resources/github-dlr-sc-gerallt/)
 - [Ghost (macOS Accessibility CLI)](https://awesomecua.com/resources/github-tylergibbs1-ghost/)
 - [Ghost (Non-Interfering macOS CUA)](https://awesomecua.com/resources/github-fletcherholt-ghost/)
 - [Ghost Semantic OS](https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/)
@@ -15,6 +22,7 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [godzilaa browser-agent Extension](https://awesomecua.com/resources/github-godzilaa-browser-agent/)
 - [GoldenCut](https://awesomecua.com/resources/github-silbercue-goldencut/)
 - [GPT-4V-Act](https://awesomecua.com/resources/github-ddupont808-gpt-4v-act/)
+- [GPTVoiceTasker](https://awesomecua.com/resources/github-vuminhduc796-gptvoicetasker/)
 - [gpuview](https://awesomecua.com/resources/github-onlyterp-gpuview/)
 - [Grasp MCP](https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/)
 - [GUI Object Detection Benchmark & Models](https://awesomecua.com/resources/github-chenjshnn-object-detection-for-graphical-user-interface/)
@@ -56,11 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [linux-use](https://awesomecua.com/resources/github-javimosch-linux-use/)
 - [LKO Mark 3.4](https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/)
 - [LOCR (Lightweight OCR)](https://awesomecua.com/resources/github-dmzlingyin-locr/)
-- [LongHorizonUI](https://awesomecua.com/resources/github-kane2kang-longhorizonui/)
-- [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/)
-- [Lucy Screen Agent](https://awesomecua.com/resources/github-alzin-lucy-screen-agent/)
-- [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/)
-- [mac-use-mcp](https://awesomecua.com/resources/github-antbotlab-mac-use-mcp/)
-- [MacControlKit](https://awesomecua.com/resources/github-tzafon-maccontrolkit/)
-- [macMCP](https://awesomecua.com/resources/github-erwinzhang7-macmcp/)
-- [macOS Computer Use MCP Server (33 Tools)](https://awesomecua.com/resources/github-syedazharmbnr1-computer-use-mcp/)

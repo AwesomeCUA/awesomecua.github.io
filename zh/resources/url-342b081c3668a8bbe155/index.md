@@ -25,11 +25,11 @@ The public Hub manifest contains one test Parquet file. This resource is the ben
 - 评测方式：The published task schema contains rubrics and human_reference_operations. No automated scoring protocol or single numeric agent metric is established by the inspected card; execution uses separately configured Android tooling.
 - 侧重：long-horizon multi-app Android task execution
 - 观测：task instructions, app/scenario metadata
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 25 task-definition records — Hub test split at revision b8eca829（来源报告；来源：https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md）
+- 25 条任务定义记录 — Hub test split at revision b8eca829（来源报告；来源：https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md）
 
 Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record contains task-definition fields and human-reference operation strings; the counted unit is tasks. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.
 

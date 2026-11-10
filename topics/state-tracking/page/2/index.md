@@ -30,6 +30,7 @@ Full list: https://awesomecua.com/topics/state-tracking/index.md
 - [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/)
 - [WebReplayBench](https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/)
 - [Preflight Bench](https://awesomecua.com/resources/url-a40fc87ac700add33232/)
+- [Static-FineBench](https://awesomecua.com/resources/url-94adc54bf1cd168da768/)
 - [DeskMind Brain](https://awesomecua.com/resources/github-deskmind-ai-brain/)
 - [gWorld-32B](https://awesomecua.com/resources/url-e44096836ef47bc66d9c/)
 - [HobbyLM-1B Computer Use](https://awesomecua.com/resources/url-12470a40c8f82ef0294a/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/state-tracking/index.md
 - [FinalRun](https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/)
 - [GenPark SPA Settlement Waiter Skill](https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/)
 - [Godot Editor MCP](https://awesomecua.com/resources/github-hybridindie-godot-mcp/)
-- [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/)

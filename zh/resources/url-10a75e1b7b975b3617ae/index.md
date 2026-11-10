@@ -28,11 +28,11 @@ Released by Paradigm Shift AI. The card reports 2,220 browser and 947 computer t
 
 ### 数量记录
 
-- 3,167 tasks — unique completed tasks in the train split（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
-- 3,267 rows — train split rows, including 100 duplicate rows（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
-- 14,740 screenshots — images embedded in the parquet files, covering 1,349 tasks（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
-- 3,167 video files — videos/*.mp4 at revision 0e1b7c63（计算得出；来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
-- 1,766 DOM snapshot archives — dom_snaps/*.zip at revision 0e1b7c63（计算得出；来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
+- 3,167 个任务 — unique completed tasks in the train split（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
+- 3,267 行 — train split rows, including 100 duplicate rows（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
+- 14,740 张截图 — images embedded in the parquet files, covering 1,349 tasks（来源报告；来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md）
+- 3,167 个视频文件 — videos/*.mp4 at revision 0e1b7c63（计算得出）（来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
+- 1,766 个 DOM 快照归档 — dom_snaps/*.zip at revision 0e1b7c63（计算得出）（来源：https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4）
 
 Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id.
 

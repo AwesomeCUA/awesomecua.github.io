@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/evaluation/page/17/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
+- [Kernel Eval Protocol](https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/)
+- [KNOWS Benchmark](https://awesomecua.com/resources/github-alexgill321-knows-benchmark/)
 - [LAST DOOR](https://awesomecua.com/resources/github-agentsimdev-last-door/)
 - [LearnGUI](https://awesomecua.com/resources/url-a7beaa489fc4ffeb555f/)
 - [Lexbench-Headless-Browser](https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/)
@@ -42,6 +44,7 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [MobileGUI-VBench](https://awesomecua.com/resources/url-d7a4f34a6a5202af5f64/)
 - [MobileGym](https://awesomecua.com/resources/github-purewhiter-mobilegym/)
 - [MobileGym++ / MobileGym++ Bench](https://awesomecua.com/resources/github-openmobile2-mobilegym-plusplus/)
+- [MobileRisk](https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/)
 - [MobileSafetyBench](https://awesomecua.com/resources/github-jylee425-mobilesafetybench/)
 - [MobileWorld (Tongyi-MAI)](https://awesomecua.com/resources/github-tongyi-mai-mobileworld/)
 - [MobileWorldBench](https://awesomecua.com/resources/github-jacklishufan-mobileworld/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/)
 - [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/)
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/)
-- [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/)
-- [OS-Harm](https://awesomecua.com/resources/github-tml-epfl-os-harm/)
-- [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/)

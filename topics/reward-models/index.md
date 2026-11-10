@@ -185,6 +185,12 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
 
 ## Models
 
+- [aitw-general-digiq-agent](https://awesomecua.com/resources/url-0e5617031e625a75cfc7/) — Date not recorded
+  Digi-Q agent checkpoint for the AitW General task set: an AutoUI device-control policy trained offline with a learned VLM Q-value function that re-ranks proposed actions.
+- [aitw-webshop-digiq-agent](https://awesomecua.com/resources/url-5281c8befef1059590f3/) — Date not recorded
+  Digi-Q device-control agent checkpoint trained on the AitW Web Shopping task set, an AutoUI-based actor learned offline with a VLM Q-value function; the repository reports a 70.8 test-set score.
+- [CUA_World_State_Model](https://awesomecua.com/resources/url-f0ffbdc41c9dca4c585f/) — Date not recorded
+  SEAgent's World State Model, a Qwen2.5-VL-7B-Instruct fine-tune that assesses computer-use trajectories step by step from screenshots, used to label successes and failures and to drive curriculum task generation.
 - [GLM-V](https://awesomecua.com/resources/github-zai-org-glm-v/) — Date not recorded
   Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vision-language models, with GUI-agent prompt examples for mobile, PC and web plus a released VLM reward system.
 - [GUI-Actor-Verifier-2B](https://awesomecua.com/resources/url-9b653775f6b9270304d3/) — Date not recorded
@@ -193,6 +199,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   The 3B GUI-G2 grounding checkpoint: Qwen2.5-VL-3B-Instruct fine-tuned with Gaussian point and coverage rewards to locate interface elements in screenshots from text instructions.
 - [GUI-G2 7B](https://awesomecua.com/resources/url-90eea6f6d099a3297850/) — Date not recorded
   A Qwen2.5-VL grounding checkpoint trained with Gaussian point and coverage rewards whose granularity adapts to interface-element scale.
+- [Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2](https://awesomecua.com/resources/url-062d2cb4ccb89de78162/) — Date not recorded
+  QLoRA adapter for Llama-3.1-8B-Instruct that acts as the value model of the WMA web agent, rating world-model predictions of each candidate action's outcome so the agent can choose the top-scored one.
 - [V-Droid-8B-0323](https://awesomecua.com/resources/url-82adab61eb515398da48/) — Date not recorded
   A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.
 - [WebJudge 7B](https://awesomecua.com/resources/url-772161f06c2b3d4978b5/) — Date not recorded

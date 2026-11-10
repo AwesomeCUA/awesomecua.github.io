@@ -28,9 +28,9 @@ The publishing account is anonymous (anonymousmypcbench). The card names the ben
 
 ### 数量记录
 
-- 97 ZIP run archives — repository root at Hub revision 447ff4cd（计算得出；来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
-- 14 per-evaluation cost evidence JSON files — COST-*.json files at Hub revision 447ff4cd（计算得出；来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
-- 295 OSWorld tasks — Unanimous-295 set, with per-task metrics for nine models in one JSON file（来源报告；来源：https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md）
+- 97 个 ZIP 运行归档 — repository root at Hub revision 447ff4cd（计算得出）（来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
+- 14 个逐次评测成本证据 JSON 文件 — COST-*.json files at Hub revision 447ff4cd（计算得出）（来源：https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c）
+- 295 个 OSWorld 任务 — Unanimous-295 set, with per-task metrics for nine models in one JSON file（来源报告；来源：https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md）
 
 Archive and cost-file counts come from a script over the pinned Hub file list; the card's tables link 39 of the 97 archives, so one benchmark set uses a subset of the archives. The sets differ in size (295, 50, 52, 26 and 38 tasks) and some tables use different tracks and measurement contracts, which the card says limits comparison across them. Mean scores include verifier partial credit; strict passes use recorded verdicts.
 

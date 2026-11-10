@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/observability/page/4/
 
 Full list: https://awesomecua.com/topics/observability/index.md
 
+- [MELRA](https://awesomecua.com/resources/github-xagi-lab-melra/)
+- [Memori](https://awesomecua.com/resources/github-memorilabs-memori/)
 - [Midscene Java](https://awesomecua.com/resources/github-alstafeev-midscene-java/)
 - [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/)
 - [ModCDP](https://awesomecua.com/resources/github-browserbase-modcdp/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/observability/index.md
 - [WebOperator Experiments](https://awesomecua.com/resources/github-mahirlabibdihan-weboperator-experiments/)
 - [windows-mcp-server](https://awesomecua.com/resources/github-deploymenttheory-windows-mcp-server/)
 - [WinWright](https://awesomecua.com/resources/github-alegauss-winwright/)
-- [Witness](https://awesomecua.com/resources/github-ericfinland-witness/)
-- [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/resources/github-shenkemin-sketch-zhuque-recruiting/)

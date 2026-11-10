@@ -28,7 +28,7 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 ### 数量记录
 
-- ≈ 700,000 region-text QA pairs — GUIEnv-local SFT data（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 700,000 组区域文本 QA 对 — GUIEnv-local SFT data（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
 
 Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 

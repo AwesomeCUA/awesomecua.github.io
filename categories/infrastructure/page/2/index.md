@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/infrastructure/page/2/
 
 Full category annotations: https://awesomecua.com/categories/infrastructure/index.md
 
+- [Neo Lab](https://awesomecua.com/resources/github-belarusian-neo-lab/)
+- [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/resources/url-ce775111626bae220596/)
+- [OSWorld Windows VM images](https://awesomecua.com/resources/url-232a1698849e2fea425c/)
 - [Phi Browser](https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/)
 - [qdesk](https://awesomecua.com/resources/github-jackwangfeng-qdesk/)
 - [Qubicl](https://awesomecua.com/resources/github-eldanring-qubicl/)

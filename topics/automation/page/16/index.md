@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/automation/page/16/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [LegacyBridge](https://awesomecua.com/resources/github-peterhaupt-legacybridge/)
+- [libnut-core](https://awesomecua.com/resources/github-nut-tree-libnut-core/)
+- [LibreAutomate](https://awesomecua.com/resources/github-qgindi-libreautomate/)
+- [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/)
 - [Lightcone SDK](https://awesomecua.com/resources/github-tzafon-lightcone/)
 - [Lightfeed Replayable Browser Agent](https://awesomecua.com/resources/github-lightfeed-browser-agent/)
 - [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Mano skill](https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/)
 - [mano-afk](https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/)
 - [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/)
-- [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/)
-- [Market Basket Agent](https://awesomecua.com/resources/github-0xyene-market-basket-agent/)
-- [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/)
-- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/)

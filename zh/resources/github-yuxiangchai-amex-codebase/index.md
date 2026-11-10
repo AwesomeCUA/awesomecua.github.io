@@ -24,7 +24,7 @@ AMEX Android GUI 数据处理代码，将 3 个标注层级转为问答对并微
 
 ### 数量记录
 
-- > 104,000 screenshots — AMEX collection described in the paper（来源报告；来源：https://arxiv.org/abs/2407.17490）
+- > 104,000 张截图 — AMEX collection described in the paper（来源报告；来源：https://arxiv.org/abs/2407.17490）
 
 The main repository contains companion training code. The scale and annotation levels here come from the paper.
 

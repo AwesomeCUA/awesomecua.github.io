@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/9/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [YOLOv11l — UI Groups Detection](https://awesomecua.com/resources/url-6106415bee936ef638aa/)
+- [yolov11l-ui-elements-detection](https://awesomecua.com/resources/url-5d824526d56f179d3d51/)
+- [ZHEN-04/CaptchaAgent](https://awesomecua.com/resources/url-fb67af38dce972b398c3/)
+- [ZonUI-3B checkpoint](https://awesomecua.com/resources/url-c8c046847f829fea4821/)
+- [988hj7tczd-oss dsh-computer-use](https://awesomecua.com/resources/github-988hj7tczd-oss-dsh-computer-use/)
+- [a11y-computer-use](https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/)
+- [Actell](https://awesomecua.com/resources/github-ja1chen-actell/)
 - [Active Desktop Context Engine](https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/)
 - [Aegis-Agent (Privacy Firewall Browser Agent)](https://awesomecua.com/resources/github-lukan-lawslaf-aegis-agent/)
 - [Aeyes (Voice Browser Assistant)](https://awesomecua.com/resources/github-evalutik-ai-partner-catalyst/)
@@ -57,10 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [Auto_OS](https://awesomecua.com/resources/github-jaswanth1902-auto-os/)
 - [AutoDesign](https://awesomecua.com/resources/github-yaxin9luo-autodesign/)
 - [AutoGLM Android 助手](https://awesomecua.com/resources/github-sidhu-master-androidautoglm/)
-- [AutoGUI code](https://awesomecua.com/resources/github-zjulihongxin-autogui/)
-- [AutoPy](https://awesomecua.com/resources/github-autopilot-rs-autopy/)
-- [autourgos-cua-coordinate-tool](https://awesomecua.com/resources/github-devxjitin-autourgos-cua-coordinate-tool/)
-- [AUV](https://awesomecua.com/resources/github-moeru-ai-auv/)
-- [axcli](https://awesomecua.com/resources/github-andelf-axcli/)
-- [Axon](https://awesomecua.com/resources/github-gxcsoccer-axon/)
-- [AXorcist](https://awesomecua.com/resources/github-steipete-axorcist/)

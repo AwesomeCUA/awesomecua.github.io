@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [Plasmate](https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate/)
+- [Playwright CLI](https://awesomecua.com/zh/resources/github-microsoft-playwright-cli/)
+- [POK-Agent](https://awesomecua.com/zh/resources/github-acekorneya-pok-agent/)
+- [PreAct](https://awesomecua.com/zh/resources/github-19pine-ai-preact/)
+- [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/zh/resources/url-4ee15c39dc38f230ad58/)
 - [Project Interface (Legacy Web UI Compiler)](https://awesomecua.com/zh/resources/github-shahadeven-project-interface/)
 - [Public Browser](https://awesomecua.com/zh/resources/github-silbercue-public-browser/)
 - [PuterVision Behavior-MCP](https://awesomecua.com/zh/resources/github-putervision-behavior-mcp/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/9/
 - [WAREX Supplementary Code](https://awesomecua.com/zh/resources/github-sumanknath-waber/)
 - [WebAgents Protocol](https://awesomecua.com/zh/resources/github-betterwright-webagents/)
 - [webclaw3](https://awesomecua.com/zh/resources/github-fatmind-webclaw3/)
-- [Webcmd](https://awesomecua.com/zh/resources/github-agentrhq-webcmd/)
-- [WebRain](https://awesomecua.com/zh/resources/github-prokopis3-webrain/)
-- [WebSense MCP 2.0](https://awesomecua.com/zh/resources/github-spliffspliff70-wq-websense-mcp/)
-- [Workroom (MLX Computer-Use Agent)](https://awesomecua.com/zh/resources/github-iamibrahimmemon-mlx-llm-workroom/)
-- [Zoom Search](https://awesomecua.com/zh/resources/github-goofrey-zoom-search/)

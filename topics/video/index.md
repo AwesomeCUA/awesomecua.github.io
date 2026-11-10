@@ -151,6 +151,12 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
 - [ShowUI-Narrator](https://awesomecua.com/resources/url-6b9389a144cbe70c894d/) — Date not recorded
   A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.
+- [VideoAgentTrek-IDM-s1-7B](https://awesomecua.com/resources/url-280f2ab56bbc0b630d81/) — Date not recorded
+  Keyframe detection model for the VideoAgentTrek Video2Action pipeline, the first inverse-dynamics stage that finds GUI interaction moments in screen-recorded tutorial videos before a second model labels the actions.
+- [VideoAgentTrek-IDM-s2-7B](https://awesomecua.com/resources/url-2e88b52ca1717a28fd32/) — Date not recorded
+  Action identification model in the VideoAgentTrek Video2Action pipeline, which recovers GUI actions such as clicks and typed text from screen-recorded tutorial videos to build computer-use training trajectories.
+- [VideoAgentTrek-ScreenFilter](https://awesomecua.com/resources/url-c7e1d8863286e92c47a2/) — Date not recorded
+  Cursor-detection model in the VideoAgentTrek pipeline that filters screen-recorded tutorial videos by cursor presence before Video2Action extracts GUI action trajectories.
 
 ## Engineering & industry
 

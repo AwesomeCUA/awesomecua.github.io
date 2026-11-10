@@ -25,11 +25,11 @@ Four public test Parquet shards are present. The dataset card declares Apache-2.
 - 评测方式：Assess localization against annotated targets; agentbrowse, humanbrowse and calendars are distinct source buckets.
 - 侧重：instruction-conditioned web localization
 - 观测：web screenshots, instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,639 examples — test split（来源报告；来源：https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md）
+- 1,639 个示例 — test split（来源报告；来源：https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md）
 
 The card reports more than 100 websites. Grounding accuracy and task completion are separate measures.
 

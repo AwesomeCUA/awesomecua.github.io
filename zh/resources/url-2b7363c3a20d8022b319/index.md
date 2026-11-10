@@ -28,8 +28,8 @@ The card says each attempt holds step screenshots, a log.json action sequence, e
 
 ### 数量记录
 
-- 14 per-agent ZIP archives — Hub manifest at revision 4525fc5（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
-- 19 gzip JSON trajectory preview bundles — site/trajs/ in the Hub manifest at revision 4525fc5（计算得出；来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
+- 14 个按智能体划分的 ZIP 归档 — Hub manifest at revision 4525fc5（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
+- 19 个 gzip JSON 轨迹预览包 — site/trajs/ in the Hub manifest at revision 4525fc5（计算得出）（来源：https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a）
 
 Archives and preview bundles are different packagings and overlap in the agents they cover; neither is a trajectory or task count. site/trajs/index.json lists only 9 of the 19 preview bundles.
 

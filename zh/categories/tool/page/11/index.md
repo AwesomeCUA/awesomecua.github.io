@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/11/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [UI Defect Mocker](https://awesomecua.com/zh/resources/github-zju-aces-ise-uidefectmocker/)：利用移动端截图和 Android 布局元数据合成视觉 UI 缺陷，支持 GUI 测试实验。
+- [UI Image to Code Studio](https://awesomecua.com/zh/resources/github-zwq-top-ui-image-to-code-studio/)：Codex 技能，可将 UI 截图和运行中的网站转换为 React、Vue 或 HTML 代码，并通过浏览器进行视觉验证。
+- [uiacli (Windows UI Automation CLI)](https://awesomecua.com/zh/resources/github-amitse-uiacli/)：通过结构化 UI Automation 树和 CLI 命令，让 AI 智能体能够操作 Windows 桌面应用。
+- [UIAutomationMcp](https://awesomecua.com/zh/resources/github-trsdn-mcp-server-uiautomation/)：Windows UI Automation 工具包，提供 CLI、MCP 服务器和 VS Code 扩展，用于检查和操作原生桌面控件。
+- [uitars-mcp](https://awesomecua.com/zh/resources/github-sandraschi-uitars-mcp/)：uitars-mcp 是一个 Model Context Protocol 服务器，将 UI-TARS 等视觉语言 GUI 模型连接到桌面和浏览器操作。
+- [Ultimate Playwright MCP](https://awesomecua.com/zh/resources/github-pm990320-ultimate-playwright-mcp/)：多智能体 Playwright MCP 服务器，通过 Chrome 标签页分组隔离，使并发 AI 智能体能够安全地共享同一浏览器。
+- [UltraTerm Computer Use](https://awesomecua.com/zh/resources/github-michael-berardi-ultraterm-computer-use/)：面向 macOS、Linux 和 Windows 上支持 MCP 的智能体的本地桌面自动化插件。
 - [UltraWin MCP](https://awesomecua.com/zh/resources/github-jxoesneon-ultrawin-mcp/)：用于 Windows 桌面自动化的 Rust Model Context Protocol 服务器，提供原生 UI Automation 树检查和输入控制。
 - [Unbrowse](https://awesomecua.com/zh/resources/github-unbrowse-ai-unbrowse/)：Unbrowse 捕获浏览器网络流量，逆向分析网站内部 API，并将其转化为供 AI 智能体直接调用的工具。
 - [UnderPixel](https://awesomecua.com/zh/resources/github-leluth-underpixel/)：Chrome 扩展和 MCP 服务器，将带时间戳的屏幕视觉交互与底层网络 API 调用关联起来。

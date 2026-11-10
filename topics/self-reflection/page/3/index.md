@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/self-reflection/page/3/
 
 Full list: https://awesomecua.com/topics/self-reflection/index.md
 
+- [NORTHTEK Ghost](https://awesomecua.com/resources/github-northtekdevs-ghost/)
 - [Open Frame](https://awesomecua.com/resources/github-off-camber-open-frame/)
 - [OpenAmer Agent](https://awesomecua.com/resources/github-openamer-openamer/)
 - [OpenVINO Autonomous GUI Agent](https://awesomecua.com/resources/github-shehrozkashif-openvino-autonomous-gui-agent/)

@@ -129,6 +129,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   Hoverclick introduces test-time cursor hover verification and visual attention guidance before committing GUI click actions.
 - [MarkForge](https://awesomecua.com/zh/resources/github-lannistersyh-markforge/) — Date not recorded
   MarkForge provides deterministic, auditable Set-of-Mark badge rendering and coordinate resolution for multimodal GUI agents.
+- [MM-Navigator](https://awesomecua.com/zh/resources/github-zzxslp-mm-navigator/) — Date not recorded
+  Example code for the GPT-4V smartphone navigation study: a prompt builder that sends raw and number-tagged screenshots plus action history to GPT-4V for the next Android action, and an action-matching evaluation script.
 - [RCI Agent](https://awesomecua.com/zh/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
 - [Re-Prefill](https://awesomecua.com/zh/resources/github-linjiaping1-re-prefill/) — Date not recorded

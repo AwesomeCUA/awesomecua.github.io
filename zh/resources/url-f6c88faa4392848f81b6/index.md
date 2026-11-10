@@ -28,10 +28,10 @@ At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshot
 
 ### 数量记录
 
-- 51,175 screenshot-annotation file pairs — Hub release at revision 5d6845b0 (images/*.png matched by hash to data/*.json)（计算得出；来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
-- 87 application folders — data/ at revision 5d6845b0（计算得出；来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
-- ≈ 56,000 screenshots — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
-- ≈ 3,560,000 element annotations — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
+- 51,175 组截图–标注文件对 — Hub release at revision 5d6845b0 (images/*.png matched by hash to data/*.json)（计算得出）（来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
+- 87 个应用文件夹 — data/ at revision 5d6845b0（计算得出）（来源：https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data）
+- ≈ 56,000 张截图 — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
+- ≈ 3,560,000 条元素标注 — GroundCUA dataset as described in the project README（来源报告；来源：https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md）
 
 Screenshots, file pairs, folders and element annotations are different units and are counted separately. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset. No train/test split is declared.
 

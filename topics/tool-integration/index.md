@@ -372,11 +372,15 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   A dataset of GUI and terminal operation recordings. GUI sessions include timestamped screenshots, mouse events and keyboard events; terminal sessions include input and output logs.
 - [OpenMobile-Data-v2](https://awesomecua.com/resources/url-546e6c95825d1318c98d/) — Date not recorded
   Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.
+- [SWEeper-Bench-traces](https://awesomecua.com/resources/url-54907fd6dc968eaced34/) — Date not recorded
+  Recorded runs from the SWEeper-Bench paper, 5,200 in all across 42 agent configurations, each with the coding agent's trajectory, shell commands and patch plus the browser verifier's trajectories and verdicts.
 
 ## Models
 
 - [asil-qwen35-2b-rl](https://awesomecua.com/resources/url-d740ec821c7c466db2bf/) — Date not recorded
   An ASIL reinforcement-learning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+- [asil-qwen35-9b-rl](https://awesomecua.com/resources/url-c5cedb2f95336a8e48aa/) — Date not recorded
+  ASIL RL checkpoint of Qwen3.5-9B for operating desktop applications from JSON state observations with semantic actions written as code, trained on 320 task prompts after SFT.
 - [asil-qwen35-9b-sft](https://awesomecua.com/resources/url-9960d240939244c3edaa/) — Date not recorded
   An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
 - [GLM-4.6V](https://awesomecua.com/resources/url-17d4fdd26efe4e3b9e05/) — Date not recorded
@@ -437,6 +441,8 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   A released MAI-UI checkpoint combining mobile GUI actions, agent-user interaction and tool-use-oriented navigation.
 - [mPLUG/ToolCUA-8B](https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/) — Date not recorded
   ToolCUA-8B is a released computer-use model trained to alternate between desktop GUI actions and structured tool calls during task execution.
+- [Muse Spark 1.1](https://awesomecua.com/resources/url-f8a956094e526a92caf3/) — Date not recorded
+  Meta Superintelligence Labs multimodal reasoning model for agentic work, trained to choose between writing scripts and clicking in computer-use workflows that span several applications.
 - [Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16](https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/) — Date not recorded
   Nemotron 3 Nano Omni is a released multimodal model for image, video, audio and text understanding. Its card identifies GUI capability and automation for browser agents among its uses.
 - [OpenMobile-2 27B](https://awesomecua.com/resources/url-1611de0e6d606165d12d/) — Date not recorded
@@ -2370,6 +2376,8 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Closed-loop visual, audio, and video sensory grounding MCP server for verifying UI state in coding and computer-use agents.
 - [sentineldesk-agent](https://awesomecua.com/resources/github-sentineldesk-agent/) — Date not recorded
   sentineldesk-agent operates a Linux desktop through MCP tools, offering terminal and browser chat interfaces while logging goals, actions and results.
+- [serve-sim](https://awesomecua.com/resources/github-evanbacon-serve-sim/) — Date not recorded
+  A CLI that streams a booted iOS Simulator to a browser preview over MJPEG and WebSocket, with commands and an Agent Skill that let coding agents send taps, gestures, text and button presses.
 - [Sessionat](https://awesomecua.com/resources/github-dublyo-sessionat/) — Date not recorded
   Sessionat is an open-source Chromium-based macOS browser with persistent workspaces and native AI agent control hooks.
 - [settled-computer](https://awesomecua.com/resources/github-remote-skills-settled-computer/) — Date not recorded
@@ -2586,6 +2594,8 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Command-line interface for computer-use agents to capture screenshots and dispatch mouse and keyboard actions over VNC.
 - [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/) — Date not recorded
   Two-layer local input engine for MCP where a frontier planning model dispatches high-rate action programs to a local executor.
+- [Voqal Chrome integration](https://awesomecua.com/resources/github-voqal-chrome-integration/) — Date not recorded
+  Chrome extension that connects the Voqal voice agent to the browser over a local WebSocket, reporting open tabs and running Voqal commands to open URLs, create or switch tabs and evaluate JavaScript in the active page.
 - [voxie](https://awesomecua.com/resources/github-afraidsoul76-voxie/) — Date not recorded
   Voice-driven desktop assistant and automation agent packaged on PyPI for hands-free computer control.
 - [Vuser Protocol](https://awesomecua.com/resources/github-openvuser-vuser/) — Date not recorded

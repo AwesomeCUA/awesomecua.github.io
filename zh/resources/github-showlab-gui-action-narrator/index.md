@@ -28,7 +28,7 @@ Original repository URL redirects to showlab/GUI-Narrator.
 
 ### 数量记录
 
-- 4,189 video-captioning samples — Act2Cap benchmark described in the paper（来源报告；来源：https://arxiv.org/abs/2406.13719）
+- 4,189 个视频描述样本 — Act2Cap benchmark described in the paper（来源报告；来源：https://arxiv.org/abs/2406.13719）
 
 Captioning samples, unique videos and complete task trajectories are different units.
 

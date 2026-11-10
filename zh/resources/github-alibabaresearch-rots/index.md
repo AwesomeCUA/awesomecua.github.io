@@ -28,7 +28,7 @@ The 800k figure describes training samples in the study. The repository code-lic
 
 ### 数量记录
 
-- ≈ 800,000 training samples — paper-described synthesis output（来源报告；来源：https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md）
+- ≈ 800,000 个训练样本 — paper-described synthesis output（来源报告；来源：https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md）
 
 The inspected README marks the dataset and collection pipelines as in preparation. The inspected README marks the dataset and collection pipelines as in preparation; file formats, splits and release-specific data terms remain unknown.
 

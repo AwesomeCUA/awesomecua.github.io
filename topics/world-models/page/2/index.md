@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/world-models/page/2/
 
 Full list: https://awesomecua.com/topics/world-models/index.md
 
+- [world_model_for_wa_desc_with_tao_dataset](https://awesomecua.com/resources/url-96bb23bd687d6c227a41/)
+- [world_model_for_wa_desc_with_tao_formatted_w_cot](https://awesomecua.com/resources/url-3ef18fbb67e0376561db/)
+- [Code2World-8B checkpoint](https://awesomecua.com/resources/url-bc3deaf8eeecf569e73b/)
+- [Dreamer-7B](https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/)
 - [Dreamer-7B-Classifieds](https://awesomecua.com/resources/url-b7ccf7acb2e9d8a11853/)
 - [Dreamer-7B-Reddit](https://awesomecua.com/resources/url-dfa8047521d1f3b3aa54/)
 - [Dreamer-7B-Shopping](https://awesomecua.com/resources/url-3173abbb295c74d0e9ec/)
@@ -11,7 +15,13 @@ Full list: https://awesomecua.com/topics/world-models/index.md
 - [gWorld-32B](https://awesomecua.com/resources/url-e44096836ef47bc66d9c/)
 - [gWorld-8B](https://awesomecua.com/resources/url-78802d1a2fce25f20f85/)
 - [jiamingzz/lgwm](https://awesomecua.com/resources/url-512cd7335068b2c17859/)
+- [Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2](https://awesomecua.com/resources/url-062d2cb4ccb89de78162/)
+- [Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter](https://awesomecua.com/resources/url-58195ef097be91525554/)
+- [Qwen-AgentWorld](https://awesomecua.com/resources/github-qwenlm-qwen-agentworld/)
+- [Qwen3-VL-8B-Instruct-MobileWorld-SFT](https://awesomecua.com/resources/url-e58270c90ea4fa83cfb4/)
 - [Textual Foresight](https://awesomecua.com/resources/github-aburns4-textualforesight/)
+- [webarena-world-model-rlvr](https://awesomecua.com/resources/url-e02a165e76cd7c43e2ca/)
+- [webarena-world-model-sft](https://awesomecua.com/resources/url-42686ac00c4ae107f147/)
 - [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/)
 - [Code2World](https://awesomecua.com/resources/github-amap-ml-code2world/)
 - [GUI-Trajectory-Virtual](https://awesomecua.com/resources/github-futuresis-gui-trajectory-virtual/)

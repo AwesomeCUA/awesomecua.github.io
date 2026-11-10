@@ -4,6 +4,15 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/16/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
+- [Tauri Dev Screen CLI](https://awesomecua.com/zh/resources/github-johunsang-tauri-dev-screen-cli/)
+- [termcast](https://awesomecua.com/zh/resources/github-chromedp-termcast/)
+- [terminal-use-mcp](https://awesomecua.com/zh/resources/github-hlh2023-terminal-use-mcp/)
+- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)
+- [Third Eye](https://awesomecua.com/zh/resources/github-slastrina-third-eye/)
+- [ThreeBody6666 DSH Computer Use](https://awesomecua.com/zh/resources/github-threebody6666-dsh-computer-use/)
+- [TideSurf](https://awesomecua.com/zh/resources/github-tidesurf-core/)
+- [tine](https://awesomecua.com/zh/resources/github-smythp-tine/)
+- [TipTour](https://awesomecua.com/zh/resources/github-milind-soni-tiptour-macos/)
 - [ToL Hierarchical GUI region detection](https://awesomecua.com/zh/resources/github-llv22-tol-gui-region-detection/)
 - [Touchline](https://awesomecua.com/zh/resources/github-edenbuilds-touchline/)
 - [Touchpoint](https://awesomecua.com/zh/resources/github-touchpoint-labs-touchpoint/)
@@ -55,12 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/16/
 - [wayhand-mcp](https://awesomecua.com/zh/resources/github-timlai666-wayhand-mcp/)
 - [wayland-computer-use](https://awesomecua.com/zh/resources/github-wh0ami3-wayland-computer-use/)
 - [Web Context Interface (WCI)](https://awesomecua.com/zh/resources/github-amirrezaalasti-webcontextinterface/)
-- [WebFovea](https://awesomecua.com/zh/resources/github-jianganghan-webfovea/)
-- [WebMarker](https://awesomecua.com/zh/resources/github-reidbarber-webmarker/)
-- [WebQA Agent](https://awesomecua.com/zh/resources/github-migoxlab-webqa-agent/)
-- [WebSense MCP 2.0](https://awesomecua.com/zh/resources/github-spliffspliff70-wq-websense-mcp/)
-- [WeChat Mac RPA](https://awesomecua.com/zh/resources/github-wq19901103wq-wechat-mac-rpa/)
-- [WieslawSoltes Linux Computer Use for Codex](https://awesomecua.com/zh/resources/github-wieslawsoltes-linuxcomputeruse/)
-- [Win32 MCP Server](https://awesomecua.com/zh/resources/github-randynorthrup-win32-mcp-server/)
-- [winctl-mcp](https://awesomecua.com/zh/resources/github-shult-winctl-mcp/)
-- [Windows Computer Use](https://awesomecua.com/zh/resources/github-cgissing-windows-computer-use/)

@@ -28,11 +28,11 @@ Each CSV row pairs a Rico screen ID with one text serialization of the screen's 
 
 ### 数量记录
 
-- 15,743 screenshots — train split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
-- 2,364 screenshots — validation split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
-- 4,310 screenshots — test split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
-- 2,311 annotated screens (CSV rows) — valid.csv at commit 053a4a1c（计算得出；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv）
-- 4,217 annotated screens (CSV rows) — test.csv at commit 053a4a1c（计算得出；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv）
+- 15,743 张截图 — train split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
+- 2,364 张截图 — validation split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
+- 4,310 张截图 — test split as stated in the README (Screen2Words split)（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md）
+- 2,311 个已标注界面（CSV 行） — valid.csv at commit 053a4a1c（计算得出）（来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv）
+- 4,217 个已标注界面（CSV 行） — test.csv at commit 053a4a1c（计算得出）（来源：https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv）
 
 The README's split sizes count screenshots; the CSV row counts count annotated screens, one row per screen ID. train.csv holds 15,548 rows at the same commit. Labels were machine-generated and then verified and corrected by human raters, according to the README.
 

@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/automation/page/23/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [SikuliX1](https://awesomecua.com/resources/github-raiman-sikulix1/)
+- [SilbercueSwift](https://awesomecua.com/resources/github-silbercue-silbercueswift/)
+- [simpilot](https://awesomecua.com/resources/github-passerby2049-simpilot/)
+- [siropkin chrome-bridge](https://awesomecua.com/resources/github-siropkin-chrome-bridge/)
+- [slidevim](https://awesomecua.com/resources/github-jaisharmz-slidevim/)
 - [SlimerJS](https://awesomecua.com/resources/github-laurentj-slimerjs/)
 - [SlyBrowser](https://awesomecua.com/resources/github-virtualfanc-slybrowser/)
 - [Smart Pet Agent](https://awesomecua.com/resources/github-realstreetsmartnyc-smart-pet-agent/)
@@ -28,6 +33,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Stealth Browser MCP](https://awesomecua.com/resources/github-vibheksoni-stealth-browser-mcp/)
 - [Steel Atlas](https://awesomecua.com/resources/github-steel-dev-atlas/)
 - [Steel MCP Server](https://awesomecua.com/resources/github-steel-dev-steel-mcp-server/)
+- [Steel Node API Library](https://awesomecua.com/resources/github-steel-dev-steel-node/)
+- [Steel Python API library](https://awesomecua.com/resources/github-steel-dev-steel-python/)
 - [STEVE / STEVE-R1 research code](https://awesomecua.com/resources/github-fanbinlu-steve-r1/)
 - [Strawberry](https://awesomecua.com/resources/url-1aa4168c796c15476b97/)
 - [StrawManus](https://awesomecua.com/resources/github-painbaba-strawmanus/)
@@ -57,10 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/)
 - [Terminal Computer Use](https://awesomecua.com/resources/github-vivekkartha-terminal-computer-use/)
 - [terminal-use-mcp](https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/)
-- [Terminator](https://awesomecua.com/resources/github-mediar-ai-terminator/)
-- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/)
-- [TestZeus Hercules](https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/)
-- [TEX (tex-browse-use)](https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/)
-- [THEIA Computer Use](https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/)
-- [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/)
-- [ThreeBody6666 DSH Computer Use](https://awesomecua.com/resources/github-threebody6666-dsh-computer-use/)

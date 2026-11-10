@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/human-in-the-loop/index.md
 
+- [Aether Agent Browser](https://awesomecua.com/zh/resources/github-aetherai3-agent-browser/)
 - [Aeyes (Voice Browser Assistant)](https://awesomecua.com/zh/resources/github-evalutik-ai-partner-catalyst/)
 - [Agent Zero](https://awesomecua.com/zh/resources/github-agent0ai-agent-zero/)
 - [agent-desktop (macOS Multi-Account Sandbox)](https://awesomecua.com/zh/resources/github-dianavocado181-agent-desktop/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/3/
 - [Crimson-Heart](https://awesomecua.com/zh/resources/github-yeyvhaiou-crimson-heart/)
 - [Cursor Companion (MacScreenCompanion)](https://awesomecua.com/zh/resources/github-pradyut-das-macscreencompanion/)
 - [Cuse (macOS AI Cursor Agent)](https://awesomecua.com/zh/resources/github-muneebkhan08-cuse/)
-- [Cyber Seeds WebMCP](https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)

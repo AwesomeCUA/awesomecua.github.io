@@ -25,16 +25,16 @@ The Hub card has only metadata (apache-2.0, English, 1K<n<10K). The UI-I2E-Bench
 - 评测方式：Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).
 - 侧重：GUI element grounding from explicit and implicit instructions
 - 观测：screenshots, natural-language instructions
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,477 annotated instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 1,161 distinct screenshots referenced — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 705 mobile instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 519 desktop instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 253 web instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
-- 917 implicit instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出；来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 1,477 条已标注的指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 1,161 张被引用的不重复截图 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 705 条移动端指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 519 条桌面指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 253 条 Web 指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
+- 917 条隐式指令 — I2E-bench-annotation.jsonl at Hub revision ecfcc01（计算得出）（来源：https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl）
 
 Counts were computed from the pinned annotation file; source counts sum to the instruction total, and implicit plus 560 explicit instructions do too. The Hub manifest has 1,509 PNG files in five folders, more than the 1,161 screenshots the annotations reference. No split is declared.
 

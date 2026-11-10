@@ -45,6 +45,7 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [Mobile-GUI-Worldmodel-SFT](https://awesomecua.com/resources/url-e041226738f8ea43a878/)
 - [Mobile3M](https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/)
 - [MobileViews](https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/)
+- [mobilevlm_test](https://awesomecua.com/resources/url-5182ab4e9bd7843f240b/)
 - [MoCon](https://awesomecua.com/resources/url-c7489f15e7883a695832/)
 - [MoGUI](https://awesomecua.com/resources/url-be89a250747f507a27ef/)
 - [MultiUI](https://awesomecua.com/resources/github-neulab-multiui/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [RICO-ScreenQA-Short](https://awesomecua.com/resources/url-060c9288c7197c5a188e/)
 - [RICO-WidgetCaptioning](https://awesomecua.com/resources/url-013bb9256ca6ad5188be/)
 - [Screen Annotation](https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/)
-- [Screen Point-and-Read Data](https://awesomecua.com/resources/url-4b747a376f628e6f9760/)

@@ -25,11 +25,11 @@ The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards.
 - 评测方式：The publisher reports a fifty-task real-device evaluation.
 - 侧重：mobile task completion
 - 观测：Android device interface
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 50 tasks — MobBench tasks used in the paper（来源报告；来源：https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md）
+- 50 个任务 — MobBench tasks used in the paper（来源报告；来源：https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md）
 
 Task definitions are distinct from device images, agent execution and automated scoring.
 

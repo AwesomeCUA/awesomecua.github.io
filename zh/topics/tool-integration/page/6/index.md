@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [alohajet CLI](https://awesomecua.com/zh/resources/github-alohabrowser-alohajet-cli/)
+- [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/zh/resources/github-altairpaca-dsh-computer-use-windows/)
+- [Alumnium](https://awesomecua.com/zh/resources/github-alumnium-hq-alumnium/)
 - [amajorai Ghost Desktop MCP](https://awesomecua.com/zh/resources/github-amajorai-ghost/)
 - [Amazon Bedrock Minecraft Agent](https://awesomecua.com/zh/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/)
 - [Amazon Music MCP Server](https://awesomecua.com/zh/resources/github-shadowsdistant-amazon-music-mcp/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/6/
 - [Autodesk Claude Browser Test Skills](https://awesomecua.com/zh/resources/github-autodesk-claude-browser-test-skills/)
 - [AutoDoubao](https://awesomecua.com/zh/resources/github-linxxcat000-autodoubao/)
 - [AutoDroid V2](https://awesomecua.com/zh/resources/github-mobilellm-autodroid-v2/)
-- [AutoGen](https://awesomecua.com/zh/resources/github-microsoft-autogen/)
-- [AutoGPT](https://awesomecua.com/zh/resources/github-significant-gravitas-autogpt/)
-- [autohotkey-mcp](https://awesomecua.com/zh/resources/github-sandraschi-autohotkey-mcp/)

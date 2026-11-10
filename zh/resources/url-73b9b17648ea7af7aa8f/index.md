@@ -28,12 +28,12 @@ The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl file
 
 ### 数量记录
 
-- 4,344 trajectories — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 68,140 interaction steps — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 541 trajectories — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 3,486 interaction steps — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 6,152 trajectories — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
-- 88,496 interaction steps — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 4,344 条轨迹 — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 68,140 个交互步骤 — Capability set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 541 条轨迹 — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 3,486 个交互步骤 — Safety-v2 set（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 6,152 条轨迹 — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
+- 88,496 个交互步骤 — legacy Safety archive（来源报告；来源：https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md）
 
 Counts are publisher-reported on the card. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode; screenshot counts use a different unit.
 

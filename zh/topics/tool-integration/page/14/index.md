@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/14/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [Hermes Bot Kit](https://awesomecua.com/zh/resources/github-thomasbek3-hermes-bot-kit/)
+- [Hermes Browser Extension](https://awesomecua.com/zh/resources/github-catcaptions-hermes-extension/)
+- [Hermes Connector](https://awesomecua.com/zh/resources/github-corsenai-hermes-connector/)
 - [Hermes Desktop Control](https://awesomecua.com/zh/resources/github-jiangxiao642-spec-hermes-desktop-control/)
 - [Hermes login-bridge Plugin](https://awesomecua.com/zh/resources/github-kfastov-hermes-plugin-login-bridge/)
 - [hermes-hyprland-plugin](https://awesomecua.com/zh/resources/github-xcaptain09-hermes-hyprland-plugin/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/14/
 - [Korgo Bot](https://awesomecua.com/zh/resources/github-nickvasilescu-korgo-bot/)
 - [kwin-mcp](https://awesomecua.com/zh/resources/github-isac322-kwin-mcp/)
 - [KWWKComputerUseCore](https://awesomecua.com/zh/resources/github-eyhn-kwwk-computer-use-core/)
-- [Kyros Local Desktop Assistant](https://awesomecua.com/zh/resources/github-rhymezip-kyros-local-desktop-assistant/)
-- [Label Controllers](https://awesomecua.com/zh/resources/github-amywlp-label-controllers/)
-- [LAI (Linux Native OS Agent)](https://awesomecua.com/zh/resources/github-cufelix-lai/)

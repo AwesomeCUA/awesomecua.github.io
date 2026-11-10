@@ -28,8 +28,8 @@ Adjacent: a file host that the curated OSWorld benchmark depends on; this asset 
 
 ### 数量记录
 
-- 720 files — Hub manifest at revision 1e112283（计算得出；来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
-- 262 application/task-ID folders — Hub manifest at revision 1e112283（计算得出；来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
+- 720 个文件 — Hub manifest at revision 1e112283（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
+- 262 个应用/任务 ID 文件夹 — Hub manifest at revision 1e112283（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache）
 
 Counts come from the Hub file manifest. Task folder and OSWorld task-definition counts use different units; OSWorld tasks have partial folder coverage here.
 

@@ -25,13 +25,13 @@ Agents interact with simulated applications through function calls; it is includ
 - 评测方式：Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.
 - 侧重：prompt-injection robustness, task utility under attack
 - 观测：tool-call results from simulated applications
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 97 user tasks — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
-- 629 security test cases — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
-- 4 task suites — src/agentdojo/default_suites/v1 directory listing（计算得出；来源：https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1）
+- 97 个用户任务 — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
+- 629 个安全测试用例 — suites reported in the paper (version 3 abstract)（来源报告；来源：https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1）
+- 4 个任务套件 — src/agentdojo/default_suites/v1 directory listing（计算得出）（来源：https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1）
 
 Paper counts describe the reported benchmark; later suite versions in the repository may change tasks. Keep the suite version, attack, defense and model with a result.
 

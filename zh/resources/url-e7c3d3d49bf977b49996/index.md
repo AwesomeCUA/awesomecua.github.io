@@ -28,9 +28,9 @@ In each sample, the first crop marks the grounding model's initial box and the s
 
 ### 数量记录
 
-- 115,638 two-box samples — train/metadata.parquet at revision a09c08da (106,350 labeled box 1, 9,288 labeled box 2)（计算得出；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/resolve/a09c08daed473ad1154414021a3d724d68deeb37/train/metadata.parquet）
-- 12,849 two-box samples — validation split as reported; no validation files at revision a09c08da（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
-- 128,487 two-box samples — train plus validation as reported by dataset_infos.json and the card（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
+- 115,638 个双框样本 — train/metadata.parquet at revision a09c08da (106,350 labeled box 1, 9,288 labeled box 2)（计算得出）（来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/resolve/a09c08daed473ad1154414021a3d724d68deeb37/train/metadata.parquet）
+- 12,849 个双框样本 — validation split as reported; no validation files at revision a09c08da（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
+- 128,487 个双框样本 — train plus validation as reported by dataset_infos.json and the card（来源报告；来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json）
 
 Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing; this release is the balanced set.
 

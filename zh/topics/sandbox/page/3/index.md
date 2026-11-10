@@ -21,6 +21,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/3/
 - [AppSim-UberEats](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-ubereats/)
 - [AriaOS](https://awesomecua.com/zh/resources/github-jeremie225ci-ariaos/)
 - [ASIL Benchmark Images](https://awesomecua.com/zh/resources/url-6545629632b5e3e3a3d6/)
+- [AutoWechat](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-wechat-v2/)
 - [background-computer-use](https://awesomecua.com/zh/resources/github-panchangam18-background-computer-use/)
 - [Beam](https://awesomecua.com/zh/resources/url-51289d2105ef35fd0265/)
 - [bg-driver-rs](https://awesomecua.com/zh/resources/github-lvyuan1688-bg-driver-rs/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/3/
 - [Computer Agents](https://awesomecua.com/zh/resources/url-e73eb2f901a50145c37e/)
 - [Computer Use (gVisor Cloud REPL)](https://awesomecua.com/zh/resources/github-r33drichards-computer-use/)
 - [Computer Use VM](https://awesomecua.com/zh/resources/github-zimengxiong-computer-use-vm/)
-- [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/zh/resources/github-shayanamir0-computer-use-with-slm/)

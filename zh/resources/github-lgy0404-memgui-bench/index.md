@@ -25,14 +25,14 @@ Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README).
 - 评测方式：MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.
 - 侧重：memory-intensive mobile GUI tasks, cross-app long-horizon tasks
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 128 tasks — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
-- 40 tasks — data/memgui-tasks-40.csv at 3fb01b6 (quick-test subset)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv）
-- 26 applications — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
-- 115 tasks marked as requiring UI memory — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出；来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
+- 128 个任务 — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
+- 40 个任务 — data/memgui-tasks-40.csv at 3fb01b6 (quick-test subset)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv）
+- 26 个应用 — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
+- 115 个标记为需要 UI 记忆的任务 — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)（计算得出）（来源：https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv）
 
 Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks. Leaderboard settings fix the judge models; debugging runs may use others.
 

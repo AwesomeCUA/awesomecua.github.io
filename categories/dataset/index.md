@@ -2,7 +2,7 @@
 
 Computer-use datasets supply screenshots, instructions, element annotations and action trajectories for training or evaluating GUI agents. Supervision ranges from single-element grounding to complete multi-step trajectories.
 
-> 243 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
+> 267 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,15 +27,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these datasets cover?
 
-Of 243 reviewed datasets, 102 are tagged web, 71 desktop, 70 mobile and 33 cross-platform; 31 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 267 reviewed datasets, 116 are tagged web, 74 desktop, 74 mobile and 34 cross-platform; 35 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which datasets record their supervision and scale?
 
-125 of 243 datasets have a profile with supervision, modalities, formats, splits and counts with units. The most common supervision types are element grounding (6), agent-generated trajectories (5) and interaction trajectories (4). The [dataset comparison page](https://awesomecua.com/compare/datasets/) sets them side by side.
+125 of 267 datasets have a profile with supervision, modalities, formats, splits and counts with units. The most common supervision types are element grounding (6), agent-generated trajectories (5) and interaction trajectories (4). The [dataset comparison page](https://awesomecua.com/compare/datasets/) sets them side by side.
 
 ### Which licenses do datasets declare?
 
-The most common declared licenses are Apache-2.0 (64), MIT (39) and CC-BY-4.0 (34). 75 of 243 have no declared license in their record.
+The most common declared licenses are Apache-2.0 (71), MIT (44) and CC-BY-4.0 (35). 85 of 267 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -1828,6 +1828,40 @@ Counts are files in the public main-branch manifest. Benchmark releases are pinn
 
 ---
 
+## osworld_v2_assets_gated
+
+Gated Hub snapshot of the task assets for the OSWorld 2.0 computer-use benchmark, such as setup files and ground-truth files, downloaded locally and pinned per benchmark release before tasks run.
+
+- Catalog URL: https://awesomecua.com/resources/url-3de50fa3eee0081d31ac/
+- Original source: https://huggingface.co/datasets/xlangai/osworld_v2_assets_gated
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, long-horizon
+- Evidence checked: 2026-11-10T03:01:06Z
+- ID: url:3de50fa3eee0081d31ac
+
+### Limitations
+
+Access requires accepting a gated request; the visible file list shows a shared/ folder with archives such as email_031.tar.gz and cached external images, about 4.92 GB in total. The OSWorld-V2 README fetches it with scripts/tools/download_osworld_v2_assets.py and points OSWORLD_FILE_BASE_URL at the local copy; xlangai/osworld_v2_assets holds only browser-facing files.
+
+- Record JSON: https://awesomecua.com/resources/url-3de50fa3eee0081d31ac/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/xlangai/osworld_v2_assets_gated (retrieved 2026-11-10T03:01:06Z; SHA-256 cf51915e2522cafe54a43e9bf969b425c73304f6745f2e55d9286c9c632ca646)
+- https://huggingface.co/api/datasets/xlangai/osworld_v2_assets_gated (retrieved 2026-11-10T03:01:06Z; SHA-256 cf51915e2522cafe54a43e9bf969b425c73304f6745f2e55d9286c9c632ca646)
+
+---
+
 ## ScaleCUA Data
 
 Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.
@@ -2212,6 +2246,40 @@ The row count comes from the card's dataset_info metadata; rows count labeled el
 - https://datasets-server.huggingface.co/statistics?dataset=agentsea/wave-ui-25k&config=default&split=train (retrieved 2026-10-18T16:19:34Z; SHA-256 7ad5c9887649c0eaaa4180816c5bd8381d5b7e394f665134cfcdc6c01ba61210)
 - https://huggingface.co/datasets/agentsea/wave-ui/raw/21dc5aa1b39c038aea30f4572d80edef592b7989/README.md (retrieved 2026-10-18T16:19:34Z; SHA-256 27ec13aa77dc55113e4d1a19c2269070e2d69d2fe8df8e2313721a1e3fc66bd9)
 - https://huggingface.co/api/datasets/agentsea/wave-ui-25k (retrieved 2026-10-18T16:19:30Z; SHA-256 b74327a4ecca6fd198ba54ff78b6820a65f6451a7e8af6bf7aaacdb51488b0ec)
+
+---
+
+## weboperator-experiments
+
+Run logs of the WebOperator web agent with gpt-4o on 812 WebArena tasks and a 155-task WebArena-lite ablation, holding per-task trajectories, search trees, screenshots and scores.
+
+- Catalog URL: https://awesomecua.com/resources/url-a12c18540006368e69ab/
+- Original source: https://huggingface.co/datasets/mahirlabibdihan/weboperator-experiments
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation, planning
+- Evidence checked: 2026-11-10T03:01:12Z
+- ID: url:a12c18540006368e69ab
+
+### Limitations
+
+Each run folder holds config.yml and summary.json, and each task folder holds trajectory.json, tree.json, evaluation.json, experiment.log, action-generator logs, a trajectory.html viewer and step screenshots. The card reports a 54.56% WebArena success rate and 60.00% on WebArena-lite for the full system.
+
+- Record JSON: https://awesomecua.com/resources/url-a12c18540006368e69ab/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/mahirlabibdihan/weboperator-experiments (retrieved 2026-11-10T03:01:12Z; SHA-256 6714d278f5dc08e3b882b5c5e47670057db8112e0359f28ed30dfbe01d57d93b)
+- https://huggingface.co/api/datasets/mahirlabibdihan/weboperator-experiments (retrieved 2026-11-10T03:01:12Z; SHA-256 6714d278f5dc08e3b882b5c5e47670057db8112e0359f28ed30dfbe01d57d93b)
 
 ---
 
@@ -2644,6 +2712,40 @@ The card identifies deprecated desktop files with screenshot-mapping errors and 
 
 ---
 
+## AssistantBench
+
+AssistantBench tasks on Hugging Face: realistic, time-consuming open-web questions in dev and test JSONL files, with answers, gold URLs and explanations in the dev rows. The paper reports 214 tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-447997967beea3b07f6f/
+- Original source: https://huggingface.co/datasets/AssistantBench/AssistantBench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:01:03Z
+- ID: url:447997967beea3b07f6f
+
+### Limitations
+
+Two files, assistant_bench_v1.0_dev.jsonl and assistant_bench_v1.0_test.jsonl; dev rows carry task, answer, gold_url, explanation and difficulty fields. The card declares Apache-2.0, and the benchmark repository links a Hugging Face leaderboard for submissions.
+
+- Record JSON: https://awesomecua.com/resources/url-447997967beea3b07f6f/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/AssistantBench/AssistantBench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/AssistantBench/AssistantBench (retrieved 2026-11-10T03:01:03Z; SHA-256 c20c637d01ea35c22b59ea2ec06317fbebeb6b3b5793a999ce8053e8af9d1fb7)
+- https://huggingface.co/api/datasets/AssistantBench/AssistantBench (retrieved 2026-11-10T03:01:03Z; SHA-256 c20c637d01ea35c22b59ea2ec06317fbebeb6b3b5793a999ce8053e8af9d1fb7)
+
+---
+
 ## AutoGUI-v1-zip
 
 A training data repository for AutoGUI containing an annotated GUI set and selected vision datasets, with instructions for merging their JSON files for fine-tuning.
@@ -2714,6 +2816,40 @@ The repository file list includes a behavior CSV. The card says the synthetic we
 
 ---
 
+## CaptchaArena-Trajectories
+
+Chain-of-thought computer-use trajectories on 20 interactive CAPTCHA types: 46,000 browser rollouts with step screenshots and click, drag, hold or type actions, kept only when the page verifier accepts.
+
+- Catalog URL: https://awesomecua.com/resources/url-52067b3e48e9381e4c66/
+- Original source: https://huggingface.co/datasets/ZHEN-04/CaptchaArena-Trajectories
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: imitation-learning, data-generation
+- Evidence checked: 2026-11-10T03:01:03Z
+- ID: url:52067b3e48e9381e4c66
+
+### Limitations
+
+Train and val splits hold 42,000 and 4,000 trajectories, expanded into 144,618 per-turn SFT samples with 169,945 PNG screenshots (about 50.9 GB). Access is gated with manual approval under CC-BY-NC-4.0; the 4,000 test puzzles sit in the separate CaptchaArena puzzle dataset.
+
+- Record JSON: https://awesomecua.com/resources/url-52067b3e48e9381e4c66/record.json
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-4.0 — https://huggingface.co/datasets/ZHEN-04/CaptchaArena-Trajectories
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/ZHEN-04/CaptchaArena-Trajectories?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags (retrieved 2026-11-10T03:01:03Z; SHA-256 24c896e5df4852c97d768899db1c62734937394c8d6f3526321f4af181a05bc4)
+- https://huggingface.co/api/datasets/ZHEN-04/CaptchaArena-Trajectories?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags (retrieved 2026-11-10T03:01:03Z; SHA-256 24c896e5df4852c97d768899db1c62734937394c8d6f3526321f4af181a05bc4)
+
+---
+
 ## Cie1/MMSearch-Plus
 
 A dataset of 311 image-based tasks for evaluating multimodal browsing agents that use iterative image and text retrieval to answer questions.
@@ -2779,6 +2915,40 @@ The card documents Parquet test splits, supplementary JSON files, a leaderboard 
 
 - https://huggingface.co/api/datasets/TIGER-Lab/ClawBench (retrieved 2026-11-09T05:05:16Z; SHA-256 9cddcd7abe86f5a70c1ebb61bd46521e5c67fa04e147fce9f1134f25f59de997)
 - https://huggingface.co/api/datasets/TIGER-Lab/ClawBench (retrieved 2026-11-09T05:05:16Z; SHA-256 9cddcd7abe86f5a70c1ebb61bd46521e5c67fa04e147fce9f1134f25f59de997)
+
+---
+
+## ClawBenchV2Trace
+
+Raw execution traces of browser-agent runs on the 130-task ClawBench V2 set, each with a screen recording, network capture, browser action stream, agent reasoning, the intercepted final request and a judge verdict.
+
+- Catalog URL: https://awesomecua.com/resources/url-3452cef2f99d7de2935a/
+- Original source: https://huggingface.co/datasets/TIGER-Lab/ClawBenchV2Trace
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-10T03:01:05Z
+- ID: url:3452cef2f99d7de2935a
+
+### Limitations
+
+As of 2026-05-12 the card lists 806 V2 runs from six models under the hermes harness, each run directory self-contained at about 10 to 15 MB. Scoring combines a per-task interception schema with an LLM judge; the card declares Apache-2.0, and V1 traces sit in NAIL-Group/ClawBenchV1Trace.
+
+- Record JSON: https://awesomecua.com/resources/url-3452cef2f99d7de2935a/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/TIGER-Lab/ClawBenchV2Trace
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/TIGER-Lab/ClawBenchV2Trace (retrieved 2026-11-10T03:01:05Z; SHA-256 bea2ceb965a9a52fbc1df358a92e046afba55bb8b99295afa7cfbc87830e3c4f)
+- https://huggingface.co/api/datasets/TIGER-Lab/ClawBenchV2Trace (retrieved 2026-11-10T03:01:05Z; SHA-256 bea2ceb965a9a52fbc1df358a92e046afba55bb8b99295afa7cfbc87830e3c4f)
 
 ---
 
@@ -3283,6 +3453,40 @@ Public archive shards are present. The dataset card declares Apache-2.0; it does
 
 ---
 
+## GUI-SD-data
+
+Training data for GUI-SD, an on-policy self-distillation method for GUI grounding, with about 6.99k screenshots and a JSONL annotation file read by the GUI-SD training scripts.
+
+- Catalog URL: https://awesomecua.com/resources/url-1a495ecc8b0d73e04308/
+- Original source: https://huggingface.co/datasets/yankie123/GUI-SD-data
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding
+- Evidence checked: 2026-11-10T03:01:01Z
+- ID: url:1a495ecc8b0d73e04308
+
+### Limitations
+
+The repository holds an images/ folder of PNG screenshots and anno.jsonl in a single train split, with no dataset card or license. The GUI-SD repository's ms-swift training script loads the data through its --dataset argument.
+
+- Record JSON: https://awesomecua.com/resources/url-1a495ecc8b0d73e04308/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/yankie123/GUI-SD-data (retrieved 2026-11-10T03:01:01Z; SHA-256 07aeef4c2b766ef4e95ec3aa6439c7060aadd9d046936aa197216da59cf8d67a)
+- https://huggingface.co/api/datasets/yankie123/GUI-SD-data (retrieved 2026-11-10T03:01:01Z; SHA-256 07aeef4c2b766ef4e95ec3aa6439c7060aadd9d046936aa197216da59cf8d67a)
+
+---
+
 ## GUI-World
 
 GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
@@ -3514,6 +3718,40 @@ The card reports 2,454 tasks across 452 websites and declares an MIT license. Th
 
 ---
 
+## HiconAgent-AMEX
+
+Training and validation data for HiconAgent built from the AMEX Android dataset: each sample holds a goal, earlier screenshots and actions, and the next action as the answer, for history-aware RL of GUI agents.
+
+- Catalog URL: https://awesomecua.com/resources/url-3df97229d34c44c2014a/
+- Original source: https://huggingface.co/datasets/Minuskid/HiconAgent-AMEX
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, interaction-history, reinforcement-learning
+- Evidence checked: 2026-11-10T03:01:06Z
+- ID: url:3df97229d34c44c2014a
+
+### Limitations
+
+Two parquet files, train and validation, with id, images, problem, answer and image_size fields; the paper samples 3,000 AMEX steps without extra filtering. The card lists the task category as robotics and declares no license; the HiconAgent repository links this dataset as its data.
+
+- Record JSON: https://awesomecua.com/resources/url-3df97229d34c44c2014a/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Minuskid/HiconAgent-AMEX (retrieved 2026-11-10T03:01:06Z; SHA-256 139a63bf925823f929bfc1877e6e1659ceb33ee834051eac18348a16bd325e38)
+- https://huggingface.co/api/datasets/Minuskid/HiconAgent-AMEX (retrieved 2026-11-10T03:01:06Z; SHA-256 139a63bf925823f929bfc1877e6e1659ceb33ee834051eac18348a16bd325e38)
+
+---
+
 ## InSTA 150k Tasks (v3)
 
 About 150k web navigation tasks from the InSTA project, each giving a website domain, an instruction, suggested steps and success criteria, with train and test splits drawn from different websites.
@@ -3566,6 +3804,40 @@ Split sizes are the card's dataset_info num_examples. The distinct-domain count 
 - https://huggingface.co/api/datasets/data-for-agents/insta-150k-v3 (retrieved 2026-10-18T16:03:35Z; SHA-256 480f7e251f32652812aafd5ffcb638a14c9612cec73bbb33c245f9685a542808)
 - https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet (retrieved 2026-10-18T16:04:11Z; SHA-256 3ae8bb40fd3da6991c15e5d34579b0a631f9ad520ad70a09358ef99770cb239d)
 - https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md (retrieved 2026-10-18T16:03:36Z; SHA-256 0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23)
+
+---
+
+## jacklishufan/MobileWorld
+
+Annotation archive for the MobileWorldBench training data: one tar with parquet subsets built on AiTW and AndroidControl screens plus a cleaned QA split, for fine-tuning mobile semantic world models.
+
+- Catalog URL: https://awesomecua.com/resources/url-3d12df2fd27076504434/
+- Original source: https://huggingface.co/datasets/jacklishufan/MobileWorld
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: world-models, mobile-navigation
+- Evidence checked: 2026-11-10T03:01:06Z
+- ID: url:3d12df2fd27076504434
+
+### Limitations
+
+One mobileworld.tar of about 184 MB; the README asks users to download and untar it manually. Screenshots come from the separate jacklishufan/aitw and jacklishufan/android_control image datasets, and the README also links the Qwen3-VL-8B-Instruct-MobileWorld-SFT model. The repository has no card or license.
+
+- Record JSON: https://awesomecua.com/resources/url-3d12df2fd27076504434/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/jacklishufan/MobileWorld (retrieved 2026-11-10T03:01:06Z; SHA-256 1f10d590e7459e736945793ddc41dd83112bcbb411dd62db596dad8396fb8786)
+- https://huggingface.co/api/datasets/jacklishufan/MobileWorld (retrieved 2026-11-10T03:01:06Z; SHA-256 1f10d590e7459e736945793ddc41dd83112bcbb411dd62db596dad8396fb8786)
 
 ---
 
@@ -3682,6 +3954,40 @@ The test split is stored in data/test.jsonl. The card directs users to the separ
 
 - https://huggingface.co/api/datasets/utahnlp/knows-benchmark (retrieved 2026-11-09T21:08:28Z; SHA-256 b0b80319026a6027e08ea9ea190d3fca2478deb707d62236a9ca27fa3742dea5)
 - https://huggingface.co/api/datasets/utahnlp/knows-benchmark (retrieved 2026-11-09T21:08:28Z; SHA-256 b0b80319026a6027e08ea9ea190d3fca2478deb707d62236a9ca27fa3742dea5)
+
+---
+
+## kuangtie/GUI-Robust
+
+Hub release of the GUI-Robust data: step screenshots with JSON annotations for GUI tasks that include seven types of real-world anomalies, scored by the GUI-Robust script for step grounding and full-task success.
+
+- Catalog URL: https://awesomecua.com/resources/url-369456114b26b0ff0a05/
+- Original source: https://huggingface.co/datasets/kuangtie/GUI-Robust
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: robustness, evaluation, action-prediction
+- Evidence checked: 2026-11-10T03:01:05Z
+- ID: url:369456114b26b0ff0a05
+
+### Limitations
+
+The repository holds a 16.1 GB ui-agent-benchmark.rar archive and a folder of 65 task directories with per-step PNG screenshots and JSON annotations, step names in Chinese; the card declares Apache-2.0, English and Chinese, and 1K to 10K examples. The paper collects user action sequences with RPA tools and writes step and task descriptions with MLLMs.
+
+- Record JSON: https://awesomecua.com/resources/url-369456114b26b0ff0a05/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/kuangtie/GUI-Robust
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/kuangtie/GUI-Robust (retrieved 2026-11-10T03:01:05Z; SHA-256 651ba105b1684b3f9ccc1fdfd127506a574e4d1b801a4cfeb962e3e69c1ea459)
+- https://huggingface.co/api/datasets/kuangtie/GUI-Robust (retrieved 2026-11-10T03:01:05Z; SHA-256 651ba105b1684b3f9ccc1fdfd127506a574e4d1b801a4cfeb962e3e69c1ea459)
 
 ---
 
@@ -4454,6 +4760,40 @@ Counts describe the card’s first-release claim. The card distinguishes globall
 
 ---
 
+## mobilevlm_test
+
+Test data for MobileVLM's Mobile3M benchmark, shared as a two-part 7z archive. Mobile3M is a Chinese mobile UI dataset of 3 million pages linked by real transition actions.
+
+- Catalog URL: https://awesomecua.com/resources/url-5182ab4e9bd7843f240b/
+- Original source: https://huggingface.co/datasets/xwk123/mobilevlm_test
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: screen-understanding, mobile-navigation, evaluation
+- Evidence checked: 2026-11-10T03:01:03Z
+- ID: url:5182ab4e9bd7843f240b
+
+### Limitations
+
+Files are test_data.7z.001 and test_data.7z.002. The card states CC BY-NC-SA 4.0 for the dataset and Apache 2.0 for code; the MobileVLM repository releases Mobile3M training data, training JSON files and the Appium collection script separately.
+
+- Record JSON: https://awesomecua.com/resources/url-5182ab4e9bd7843f240b/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/xwk123/mobilevlm_test
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/xwk123/mobilevlm_test (retrieved 2026-11-10T03:01:03Z; SHA-256 abee6057987d5794c4f18114c0918a85ec346a1d253e5610c2d691e4ee6f9d65)
+- https://huggingface.co/api/datasets/xwk123/mobilevlm_test (retrieved 2026-11-10T03:01:03Z; SHA-256 abee6057987d5794c4f18114c0918a85ec346a1d253e5610c2d691e4ee6f9d65)
+
+---
+
 ## MoCon
 
 Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.
@@ -4726,6 +5066,40 @@ Each run directory includes metadata, recording.mp4, actions.jsonl, requests.jso
 
 ---
 
+## navi-bench
+
+Task data for Navi-Bench, everyday web tasks on live websites: a 200-row validation split over ten sites such as Apartments, Craigslist and Google Flights, each with a task-generation config, domain and categories.
+
+- Catalog URL: https://awesomecua.com/resources/url-5bbbc1012ab02e9df3bb/
+- Original source: https://huggingface.co/datasets/yutori-ai/navi-bench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:01:04Z
+- ID: url:5bbbc1012ab02e9df3bb
+
+### Limitations
+
+One parquet file with fields such as task_id, task_generation_config_json, env, domain, l1_category, l2_category and suggested_difficulty; the card declares Apache-2.0. The domain column covers ten sites: Resy, Zillow, Allbirds, Craigslist, Google Flights, OpenTable, Gymshark, Apartments, Redfin and Trip, 20 rows each; 66 of the 200 rows carry a suggested difficulty.
+
+- Record JSON: https://awesomecua.com/resources/url-5bbbc1012ab02e9df3bb/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/yutori-ai/navi-bench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/yutori-ai/navi-bench (retrieved 2026-11-10T03:01:04Z; SHA-256 8c41c65a4a1df2c3ba8602bace4dff99dc72529b18e72e15068346a332e95435)
+- https://huggingface.co/api/datasets/yutori-ai/navi-bench (retrieved 2026-11-10T03:01:04Z; SHA-256 8c41c65a4a1df2c3ba8602bace4dff99dc72529b18e72e15068346a332e95435)
+
+---
+
 ## NNetNav Live data
 
 Browser-interaction data released with NNetNav for its live-website setting, with separate training and test files.
@@ -4826,6 +5200,40 @@ The card lists Parquet configurations with training, validation, and test splits
 
 - https://huggingface.co/api/datasets/alanhuangya/OpenJev-Data (retrieved 2026-11-09T19:57:36Z; SHA-256 7459e00d6843a6a8bfb39a17642ecf161efb97f351ccfecbdfedb13c2f95090d)
 - https://huggingface.co/api/datasets/alanhuangya/OpenJev-Data (retrieved 2026-11-09T19:57:36Z; SHA-256 7459e00d6843a6a8bfb39a17642ecf161efb97f351ccfecbdfedb13c2f95090d)
+
+---
+
+## OpenPhone_dataset
+
+Training data for the OpenPhone mobile agent: the AndroidLab training archive plus a Hugging Face vision-language set with LLM-generated reasoning and reflection chains, formatted for GRPO training.
+
+- Catalog URL: https://awesomecua.com/resources/url-e7ea65893ab264517d83/
+- Original source: https://huggingface.co/datasets/hkuds/OpenPhone_dataset
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, data-generation, reinforcement-learning
+- Evidence checked: 2026-11-10T03:01:14Z
+- ID: url:e7ea65893ab264517d83
+
+### Limitations
+
+Two zip archives: android-lab-train.zip, copied from the AndroidLab project, and android_lab_o1_visual_hf.zip, produced from it by the OpenPhone prepare_data scripts. The OpenPhone repository uses them for SFT with LLaMA-Factory and GRPO training of a Qwen2.5-VL-3B model. License: MIT.
+
+- Record JSON: https://awesomecua.com/resources/url-e7ea65893ab264517d83/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/hkuds/OpenPhone_dataset
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/hkuds/OpenPhone_dataset (retrieved 2026-11-10T03:01:14Z; SHA-256 c8025c985de2d2b28592be5da74b2047e41b081d908de1d07cdfc8cf7b63d211)
+- https://huggingface.co/api/datasets/hkuds/OpenPhone_dataset (retrieved 2026-11-10T03:01:14Z; SHA-256 c8025c985de2d2b28592be5da74b2047e41b081d908de1d07cdfc8cf7b63d211)
 
 ---
 
@@ -5694,6 +6102,40 @@ The recipes reuse source images and represent related views of the same dataset.
 
 ---
 
+## SE-GUI-3k
+
+Seed training data for SE-GUI, a GUI grounding model trained with self-evolutionary reinforcement fine-tuning; each row pairs a tool-calling conversation and a screenshot with a target bounding box.
+
+- Catalog URL: https://awesomecua.com/resources/url-380318a8de65fe45956c/
+- Original source: https://huggingface.co/datasets/XinBB/SE-GUI-3k
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, reinforcement-learning
+- Evidence checked: 2026-11-10T03:01:05Z
+- ID: url:380318a8de65fe45956c
+
+### Limitations
+
+One SE-GUI-3k.json file of about 1.38 GB; the Hub viewer shows a single train split of 772 rows with six-value bbox fields. The SE-GUI README describes a 3,018-sample curated seed set used to train 3B and 7B Qwen2.5-VL grounding models; the repository has no card or license.
+
+- Record JSON: https://awesomecua.com/resources/url-380318a8de65fe45956c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/XinBB/SE-GUI-3k (retrieved 2026-11-10T03:01:05Z; SHA-256 dba30cb278f98b0bddff5c49747894c90fc832cebd52f50e73ca2ed79b91bd4a)
+- https://huggingface.co/api/datasets/XinBB/SE-GUI-3k (retrieved 2026-11-10T03:01:05Z; SHA-256 dba30cb278f98b0bddff5c49747894c90fc832cebd52f50e73ca2ed79b91bd4a)
+
+---
+
 ## sharryXR/asil-training-data
 
 Training data for ASIL agents includes replayed action traces, guided supervision, and an evaluator-backed reinforcement-learning curriculum in JSONL and Parquet splits.
@@ -5856,6 +6298,40 @@ No sample or episode count is inferred from the size tag or package manifest. Ma
 
 ---
 
+## Static-FineBench
+
+Data for FineState-Bench, a fine-grained GUI state-control benchmark: desktop, web and mobile screenshots with XML and JSON annotations of locate and interact instructions and separate localization and interaction boxes.
+
+- Catalog URL: https://awesomecua.com/resources/url-94adc54bf1cd168da768/
+- Original source: https://huggingface.co/datasets/wumiaoshou/Static-FineBench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, web, cross-platform
+- Topics: grounding, evaluation, state-tracking
+- Evidence checked: 2026-11-10T03:00:58Z
+- ID: url:94adc54bf1cd168da768
+
+### Limitations
+
+The repository holds desktop, web and mobile screenshots with Pascal VOC-style XML annotations and per-category JSON annotation folders, with Chinese copies, and has no dataset card. The FineState-Bench GitHub repository holds the desktop, web and mobile evaluation scripts with Loc SR, Int SR, SA-Locate SR and SA-Interact SR metrics and declares the MIT License.
+
+- Record JSON: https://awesomecua.com/resources/url-94adc54bf1cd168da768/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/wumiaoshou/Static-FineBench (retrieved 2026-11-10T03:00:58Z; SHA-256 b1d8c94f6f1618016211ae73cf5dcf2c177bf69e0d43d6090671721ad01b83dc)
+- https://huggingface.co/api/datasets/wumiaoshou/Static-FineBench (retrieved 2026-11-10T03:00:58Z; SHA-256 b1d8c94f6f1618016211ae73cf5dcf2c177bf69e0d43d6090671721ad01b83dc)
+
+---
+
 ## SWEeper-Bench
 
 SWEeper-Bench provides tasks drawn from web application bugs for evaluating agents that inspect running apps and repair them. Each task includes a prompt, repository revisions, and browser behavior tests.
@@ -5890,6 +6366,40 @@ The repository lists test data in JSONL and Parquet formats. The card describes 
 
 ---
 
+## SWEeper-Bench-traces
+
+Recorded runs from the SWEeper-Bench paper, 5,200 in all across 42 agent configurations, each with the coding agent's trajectory, shell commands and patch plus the browser verifier's trajectories and verdicts.
+
+- Catalog URL: https://awesomecua.com/resources/url-54907fd6dc968eaced34/
+- Original source: https://huggingface.co/datasets/zlab-princeton/SWEeper-Bench-traces
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, observability, tool-integration
+- Evidence checked: 2026-11-10T03:01:04Z
+- ID: url:54907fd6dc968eaced34
+
+### Limitations
+
+runs.csv indexes every run by task, model, harness, prompt, template and verdict; the full set is about 5 GB in 65,000 files. Ablations cover bug-described prompts, a non-browser template, other harnesses and time budgets. Released under CC BY 4.0.
+
+- Record JSON: https://awesomecua.com/resources/url-54907fd6dc968eaced34/record.json
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/zlab-princeton/SWEeper-Bench-traces
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/zlab-princeton/SWEeper-Bench-traces (retrieved 2026-11-10T03:01:04Z; SHA-256 26dfa3a4bf48206366e877224ee72f9bb8a1310186bbbdaf28748b8f52133c33)
+- https://huggingface.co/api/datasets/zlab-princeton/SWEeper-Bench-traces (retrieved 2026-11-10T03:01:04Z; SHA-256 26dfa3a4bf48206366e877224ee72f9bb8a1310186bbbdaf28748b8f52133c33)
+
+---
+
 ## TimeWarp
 
 Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.
@@ -5921,6 +6431,40 @@ The release lists train.csv with 128 goals, test.csv with 103, and data.json wit
 
 - https://huggingface.co/api/datasets/sparklabutah/timewarp (retrieved 2026-11-09T19:57:15Z; SHA-256 19932bff03ae237843b6e8e933eb940912c518c829ea180ae94e3c3e4628cd7d)
 - https://huggingface.co/api/datasets/sparklabutah/timewarp (retrieved 2026-11-09T19:57:15Z; SHA-256 19932bff03ae237843b6e8e933eb940912c518c829ea180ae94e3c3e4628cd7d)
+
+---
+
+## TimeWarp-GPT5-Traces
+
+GPT-5 teacher trajectories on the TimeWarp web benchmark, grouped by UI version, with SoM-annotated screenshots for each step and experiment logs, used to fine-tune web agents with LlamaFactory.
+
+- Catalog URL: https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/
+- Original source: https://huggingface.co/datasets/sparklabutah/TimeWarp-GPT5-Traces
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning, robustness
+- Evidence checked: 2026-11-10T03:01:15Z
+- ID: url:fa8fd2873571ab1b3556
+
+### Limitations
+
+Folders version_1 to version_6 hold GenericAgentWithTraining runs of gpt-5-2025-08-07 on timewarp tasks, each with SoM screenshots, pickled experiment arguments and goal objects, logs and package versions. The TimeWarp repository's convert2sgptArgs.py converts them to ShareGPT format. License: MIT.
+
+- Record JSON: https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/sparklabutah/TimeWarp-GPT5-Traces
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/sparklabutah/TimeWarp-GPT5-Traces (retrieved 2026-11-10T03:01:15Z; SHA-256 eae468a563d694f77c32bb9759c7b46184c450416451dc9db95ee9d60479d41a)
+- https://huggingface.co/api/datasets/sparklabutah/TimeWarp-GPT5-Traces (retrieved 2026-11-10T03:01:15Z; SHA-256 eae468a563d694f77c32bb9759c7b46184c450416451dc9db95ee9d60479d41a)
 
 ---
 
@@ -6510,6 +7054,40 @@ Trajectories, tasks, environments, steps and folders are different units and are
 
 ---
 
+## webarena-world-model-cot
+
+WebArena page-transition data for training language world models: chain-of-thought annotations paired with the accessibility-tree item changes that follow an action, used for SFT and RLVR in RLVR-World.
+
+- Catalog URL: https://awesomecua.com/resources/url-3e0f07cb0ff3f32dfc0e/
+- Original source: https://huggingface.co/datasets/thuml/webarena-world-model-cot
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: world-models, web-navigation
+- Evidence checked: 2026-11-10T03:01:06Z
+- ID: url:3e0f07cb0ff3f32dfc0e
+
+### Limitations
+
+Train and test parquet files; the card declares MIT. The paper derives it from the WMA WebArena dataset, keeps about 7,000 of 14,000 trajectories under a 5,000-token limit, and splits them 99% for training and 1% for testing.
+
+- Record JSON: https://awesomecua.com/resources/url-3e0f07cb0ff3f32dfc0e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/thuml/webarena-world-model-cot
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/thuml/webarena-world-model-cot (retrieved 2026-11-10T03:01:06Z; SHA-256 537384af9032d029a2079216fec61c1bd484778b2f02ac8b7d95a01537924244)
+- https://huggingface.co/api/datasets/thuml/webarena-world-model-cot (retrieved 2026-11-10T03:01:06Z; SHA-256 537384af9032d029a2079216fec61c1bd484778b2f02ac8b7d95a01537924244)
+
+---
+
 ## WebChain (original release)
 
 Original WebChain release of human-annotated trajectories on live websites, with raw JSON records, viewport and partial full-page screenshots, and Parquet files for high-level planning and low-level grounding steps.
@@ -6613,6 +7191,40 @@ Trajectories, steps, windows, turns, parts and shards are different units and ar
 - https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md (retrieved 2026-10-18T15:33:42Z; SHA-256 ac41dbb10c924efbad8cc93340a34a73cb9218f1930ef6d8dced582050cbd68c)
 - https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce (retrieved 2026-10-18T15:33:18Z; SHA-256 b2845f4365632a07cf5296879f18b516603a08a7b7700558db543962475a7bfa)
 - https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md (retrieved 2026-10-18T15:33:42Z; SHA-256 ac41dbb10c924efbad8cc93340a34a73cb9218f1930ef6d8dced582050cbd68c)
+
+---
+
+## webgames
+
+Task list for WebGames, a set of client-side web challenges for browsing agents: one JSONL file giving each task's id, title, description, page path, success password and tags.
+
+- Catalog URL: https://awesomecua.com/resources/url-654e0cbc1a22b59eca47/
+- Original source: https://huggingface.co/datasets/convergence-ai/webgames
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:01:04Z
+- ID: url:654e0cbc1a22b59eca47
+
+### Limitations
+
+Agents are scored by checking that the task's password appears in their final message; the WebGames repository also includes an Inspect AI eval scaffold and a hosted version of the challenges. The card declares the MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-654e0cbc1a22b59eca47/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/convergence-ai/webgames
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/convergence-ai/webgames (retrieved 2026-11-10T03:01:04Z; SHA-256 01956443717e1c85b8d643e5875e85719f6b9138b67185d03ce291df6ce33f54)
+- https://huggingface.co/api/datasets/convergence-ai/webgames (retrieved 2026-11-10T03:01:04Z; SHA-256 01956443717e1c85b8d643e5875e85719f6b9138b67185d03ce291df6ce33f54)
 
 ---
 
@@ -6764,6 +7376,40 @@ Preserves the publisher’s split label despite the collection’s training purp
 - https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md (retrieved 2026-10-17T02:44:50Z; SHA-256 9c091c5fc625ce53f53f8262f5cee8d08194e4fd1b8eeed543ff1c3723c823fd)
 - https://huggingface.co/api/datasets/LangAGI-Lab/WebPRMCollection_preference_pair (retrieved 2026-10-17T02:44:50Z; SHA-256 28a1d5d12e84fc38515bd3c5031ae0cf315c5f8772b90d982d926b98f2857563)
 - https://raw.githubusercontent.com/kyle8581/Web-Shepherd/HEAD/README.md (retrieved 2026-10-17T02:44:04Z; SHA-256 07431058d8b9a71b80e75b7a74a40a8346c1503eec240628459cc4d4e2f0802f)
+
+---
+
+## WebsiteBench
+
+Hugging Face copy of the 70 WebsiteBench tasks in Harbor format, where agents explore a production-level reference website in a browser and rebuild a full-stack clone scored by hidden functional and visual tests.
+
+- Catalog URL: https://awesomecua.com/resources/url-687a7b27f38720fe54bc/
+- Original source: https://huggingface.co/datasets/TIGER-Lab/WebsiteBench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T03:01:04Z
+- ID: url:687a7b27f38720fe54bc
+
+### Limitations
+
+Each task folder has instruction.md, task.toml, an agent environment with a browser gateway and reference website, an oracle solution and a hidden verifier; manifest.json records file hashes. The full set is 9.7 GB, each environment requests 8 CPUs, 8 GiB memory and 20 GiB disk, and code and task definitions are Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-687a7b27f38720fe54bc/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/TIGER-Lab/WebsiteBench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/TIGER-Lab/WebsiteBench?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags (retrieved 2026-11-10T03:01:04Z; SHA-256 dd90c82730ed48470c35d0323b1a44344b50a4965dae6d42b6fb4ce3fbe46500)
+- https://huggingface.co/api/datasets/TIGER-Lab/WebsiteBench?expand%5B%5D=cardData&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=tags (retrieved 2026-11-10T03:01:04Z; SHA-256 dd90c82730ed48470c35d0323b1a44344b50a4965dae6d42b6fb4ce3fbe46500)
 
 ---
 
@@ -6926,6 +7572,40 @@ The source says the public WikiHow APK and cached website data were removed at W
 
 ---
 
+## WinDeskGround
+
+Benchmark data for GUI grounding on synthesized multi-window desktops: 1356 samples over 585 images, with controlled occlusion, semantic distraction and clutter plus difficulty levels L1 to L5.
+
+- Catalog URL: https://awesomecua.com/resources/url-897db7dba36e69a60e5e/
+- Original source: https://huggingface.co/datasets/Zbao/WinDeskGround
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: grounding, robustness, evaluation
+- Evidence checked: 2026-11-10T03:01:09Z
+- ID: url:897db7dba36e69a60e5e
+
+### Limitations
+
+The repository holds desktop screenshots with paired debug renderings under sensitivity/ folders and simulation/L1 to L5 folders and declares an Apache-2.0 license. The WinDeskGround GitHub repository holds the generation and evaluation scripts, and WinDeskGround_windows holds the source window images.
+
+- Record JSON: https://awesomecua.com/resources/url-897db7dba36e69a60e5e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/Zbao/WinDeskGround
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Zbao/WinDeskGround (retrieved 2026-11-10T03:01:09Z; SHA-256 51844b9973a85a45ae726c182beb722d8207a10bd261289d389dc2e9ac45c845)
+- https://huggingface.co/api/datasets/Zbao/WinDeskGround (retrieved 2026-11-10T03:01:09Z; SHA-256 51844b9973a85a45ae726c182beb722d8207a10bd261289d389dc2e9ac45c845)
+
+---
+
 ## WinDeskGround_windows
 
 WinDeskGround_windows supplies Windows application screenshots with clickable targets, bounding boxes, and referring expressions for desktop GUI grounding tasks.
@@ -7009,6 +7689,74 @@ The OSWorld subset was selected post hoc using model outcomes; no train/test spl
 
 ---
 
+## world_model_for_wa_desc_with_tao_dataset
+
+Training data for the world model of the WMA web agent: 14744 steps pairing an objective, previous actions, an observation and the current action with the next state and a description of what changed.
+
+- Catalog URL: https://awesomecua.com/resources/url-96bb23bd687d6c227a41/
+- Original source: https://huggingface.co/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: world-models, web-navigation, data-generation
+- Evidence checked: 2026-11-10T03:01:12Z
+- ID: url:96bb23bd687d6c227a41
+
+### Limitations
+
+One Parquet split of 14,744 rows with url, task_id, step_idx, objective, previous_actions, observation, current_action, next_state_acctree, refined_tao, raw_prediction, rationale and next_state_description_with_tao fields. The WMA-Agents README lists it beside a formatted version and the Meta-Llama-3.1-8B-Instruct world model adapter.
+
+- Record JSON: https://awesomecua.com/resources/url-96bb23bd687d6c227a41/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset (retrieved 2026-11-10T03:01:12Z; SHA-256 27e68537e1f7b62f35f47bc9322eea2a77d5af3ae616d10af702f4b65655f982)
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_dataset (retrieved 2026-11-10T03:01:12Z; SHA-256 27e68537e1f7b62f35f47bc9322eea2a77d5af3ae616d10af702f4b65655f982)
+
+---
+
+## world_model_for_wa_desc_with_tao_formatted_w_cot
+
+Formatted instruction, input and output examples for training the WMA world model, which describes how a WebArena page changes after an action, with 11795 training and 2949 validation rows.
+
+- Catalog URL: https://awesomecua.com/resources/url-3ef18fbb67e0376561db/
+- Original source: https://huggingface.co/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: world-models, web-navigation
+- Evidence checked: 2026-11-10T03:01:06Z
+- ID: url:3ef18fbb67e0376561db
+
+### Limitations
+
+Parquet train and validation splits with three string fields, about 163 MB; the card body is the default template and states no license. The WMA-Agents README pairs it with the raw world_model_for_wa_desc_with_tao_dataset and a Llama-3.1-8B world-model adapter.
+
+- Record JSON: https://awesomecua.com/resources/url-3ef18fbb67e0376561db/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot (retrieved 2026-11-10T03:01:06Z; SHA-256 64bb48706a581de66ec7a5ed86608fa3dc3d5e6478685b0b58e7c78d043d1957)
+- https://huggingface.co/api/datasets/LangAGI-Lab/world_model_for_wa_desc_with_tao_formatted_w_cot (retrieved 2026-11-10T03:01:06Z; SHA-256 64bb48706a581de66ec7a5ed86608fa3dc3d5e6478685b0b58e7c78d043d1957)
+
+---
+
 ## WorldGUI-Bench
 
 A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
@@ -7074,6 +7822,40 @@ The repository lists Parquet files for task summaries, attempts, events, and act
 
 - https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview (retrieved 2026-11-09T19:55:52Z; SHA-256 512942c4f0a6a59a6417e8ff9c60f8193dbd8e906bd3a3cc5d4695bbe62f1ea3)
 - https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview (retrieved 2026-11-09T19:55:52Z; SHA-256 512942c4f0a6a59a6417e8ff9c60f8193dbd8e906bd3a3cc5d4695bbe62f1ea3)
+
+---
+
+## a3-qwen-3.5-9b-trajectories
+
+AgentLab run logs of the A3-Qwen3.5-9B web agent on BrowserGym benchmarks, stored per task as step JSON files with goals, page URLs, DOM and accessibility observations and actions; this address opens the WebArena folder.
+
+- Catalog URL: https://awesomecua.com/resources/url-3ab90a696d8578c944c8/
+- Original source: https://huggingface.co/datasets/xhluca/a3-qwen-3.5-9b-trajectories/tree/main/webarena
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation
+- Evidence checked: 2026-11-10T03:01:05Z
+- ID: url:3ab90a696d8578c944c8
+
+### Limitations
+
+Top-level folders are miniwob, webarena, visualwebarena, workarena_l1 and workarena_l2; each task folder holds exp_args.json, step_N.json files and summary_info.json. The collection for arXiv 2604.07776 lists it beside the A3-Qwen3.5 models and the A3-Synth training data; the repository has no card or license.
+
+- Record JSON: https://awesomecua.com/resources/url-3ab90a696d8578c944c8/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/xhluca/a3-qwen-3.5-9b-trajectories (retrieved 2026-11-10T03:01:05Z; SHA-256 e68f200e58322e3c039d734f57c8a81c0342ef89f93b5a202c7c5a7f0a4ed94c)
+- https://huggingface.co/api/datasets/xhluca/a3-qwen-3.5-9b-trajectories (retrieved 2026-11-10T03:01:05Z; SHA-256 e68f200e58322e3c039d734f57c8a81c0342ef89f93b5a202c7c5a7f0a4ed94c)
 
 ---
 
@@ -9783,6 +10565,40 @@ Treats grounding instructions as multiple reasoning perspectives, releasing a da
 ### Primary evidence
 
 - https://raw.githubusercontent.com/alibaba/UI-Ins/HEAD/README.md (retrieved 2026-10-16T06:36:02Z; SHA-256 e06aedcb1760867470afeb27d4eb4cdde9a3b76b9d55af183047df3c0ae2b71c)
+
+---
+
+## UI-Simulator_android_data
+
+Synthetic Android agent training data from UI-Simulator: prompts pairing a goal and a simulated UI element list with next-action responses, in RAG-free, RAG-based and two UI-Simulator-Grow splits.
+
+- Catalog URL: https://awesomecua.com/resources/url-d32dfe60eff4b87c1d05/
+- Original source: https://huggingface.co/datasets/UI-Simulator/UI-Simulator_android_data
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, mobile-navigation, action-prediction
+- Evidence checked: 2026-11-10T03:01:14Z
+- ID: url:d32dfe60eff4b87c1d05
+
+### Limitations
+
+Four CSV splits with Arrow copies; license MIT per the card. The RAG-free split has 6,658 rows per the Hub rows API, and the action space covers click, input_text, open_app, scroll, navigate_back and stop.
+
+- Record JSON: https://awesomecua.com/resources/url-d32dfe60eff4b87c1d05/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/UI-Simulator/UI-Simulator_android_data
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/UI-Simulator/UI-Simulator_android_data (retrieved 2026-11-10T03:01:14Z; SHA-256 72dbd84ef07b8fcfa963f0e426a3bc0f222d8a185696ab18da5bbe0a84d8b80e)
+- https://huggingface.co/api/datasets/UI-Simulator/UI-Simulator_android_data (retrieved 2026-11-10T03:01:14Z; SHA-256 72dbd84ef07b8fcfa963f0e426a3bc0f222d8a185696ab18da5bbe0a84d8b80e)
 
 ---
 

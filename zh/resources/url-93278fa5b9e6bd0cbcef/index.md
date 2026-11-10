@@ -28,11 +28,11 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 
 ### 数量记录
 
-- 871 trajectories — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
-- ≈ 14,000 steps — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
-- 10 app categories — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
-- 871 task.json trajectory files — Hub manifest at revision 45244387（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
-- 14,275 PNG screenshot files — Hub manifest at revision 45244387（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
+- 871 条轨迹 — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
+- ≈ 14,000 步 — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
+- 10 个应用类别 — Uni-GUI-Mobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md）
+- 871 个 task.json 轨迹文件 — Hub manifest at revision 45244387（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
+- 14,275 个 PNG 截图文件 — Hub manifest at revision 45244387（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838）
 
 Trajectories, steps, app categories and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.
 

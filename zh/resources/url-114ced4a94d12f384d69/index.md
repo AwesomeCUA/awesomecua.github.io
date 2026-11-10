@@ -28,12 +28,12 @@ The card describes this release as an open-sourced sample: the full Mobile-R1 da
 
 ### 数量记录
 
-- 1,007 trajectories — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
-- 28 applications — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
-- 3,924 samples (steps) — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
-- 1,007 data.jsonl rows — Mobile-R1 Hub release at revision c3904f0（计算得出；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
-- 3,899 trajectory step entries — Mobile-R1 Hub release at revision c3904f0（计算得出；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
-- 3,924 PNG files under images/ — Mobile-R1 Hub release at revision c3904f0（计算得出；来源：https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516）
+- 1,007 条轨迹 — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
+- 28 个应用 — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
+- 3,924 个样本（步骤） — Mobile-R1 Hub release (card statistics)（来源报告；来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md）
+- 1,007 行 data.jsonl 数据 — Mobile-R1 Hub release at revision c3904f0（计算得出）（来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
+- 3,899 条轨迹步骤条目 — Mobile-R1 Hub release at revision c3904f0（计算得出）（来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl）
+- 3,924 个位于 images/ 下的 PNG 文件 — Mobile-R1 Hub release at revision c3904f0（计算得出）（来源：https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516）
 
 Counts use different units; these counts are reported separately. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name; the card reports 28 applications. No train/test split is declared.
 

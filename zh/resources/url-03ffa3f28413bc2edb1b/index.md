@@ -28,11 +28,11 @@ The files hold task instructions, reference task lengths and key-node evaluation
 
 ### 数量记录
 
-- 438 tasks — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
-- 1,995 key-node evaluation entries — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
-- 104 tasks — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
-- 443 key-node evaluation entries — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出；来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
-- 542 tasks — original Mind2Web-Live release as described in the WebCanvas README（来源报告；来源：https://raw.githubusercontent.com/iMeanAI/WebCanvas/b9f289128614cd99b97abd0bb9bfc3a45f0847e0/README.md）
+- 438 个任务 — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
+- 1,995 条关键节点评测条目 — train file mind2web-live_train_20240528.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json）
+- 104 个任务 — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
+- 443 条关键节点评测条目 — test file mind2web-live_test_20241024.json at Hub revision 160677b5（计算得出）（来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json）
+- 542 个任务 — original Mind2Web-Live release as described in the WebCanvas README（来源报告；来源：https://raw.githubusercontent.com/iMeanAI/WebCanvas/b9f289128614cd99b97abd0bb9bfc3a45f0847e0/README.md）
 
 Tasks and key-node evaluation entries are different units. The revised test file has one fewer key node than the original 2024-05-28 test file.
 

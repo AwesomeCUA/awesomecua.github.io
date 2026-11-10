@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/efficiency/page/9/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [Plasmate](https://awesomecua.com/resources/github-plasmate-labs-plasmate/)
+- [Playwright CLI](https://awesomecua.com/resources/github-microsoft-playwright-cli/)
+- [POK-Agent](https://awesomecua.com/resources/github-acekorneya-pok-agent/)
+- [PreAct](https://awesomecua.com/resources/github-19pine-ai-preact/)
+- [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/)
 - [Project Interface (Legacy Web UI Compiler)](https://awesomecua.com/resources/github-shahadeven-project-interface/)
 - [Public Browser](https://awesomecua.com/resources/github-silbercue-public-browser/)
 - [PuterVision Behavior-MCP](https://awesomecua.com/resources/github-putervision-behavior-mcp/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [WAREX Supplementary Code](https://awesomecua.com/resources/github-sumanknath-waber/)
 - [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/)
 - [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/)
-- [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/)
-- [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/)
-- [WebSense MCP 2.0](https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/)
-- [Workroom (MLX Computer-Use Agent)](https://awesomecua.com/resources/github-iamibrahimmemon-mlx-llm-workroom/)
-- [Zoom Search](https://awesomecua.com/resources/github-goofrey-zoom-search/)

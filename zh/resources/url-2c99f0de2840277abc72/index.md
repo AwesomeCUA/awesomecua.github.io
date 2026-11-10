@@ -28,7 +28,7 @@ The OSWorld project page says all verified trajectories are published in this da
 
 ### 数量记录
 
-- 100 run archives — zip and tar.gz files at revision 5473c39e（计算得出；来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_verified_trajs/revision/5473c39e42a538a187a9b2c2b499db59d560fd8c）
+- 100 个运行归档 — zip and tar.gz files at revision 5473c39e（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_verified_trajs/revision/5473c39e42a538a187a9b2c2b499db59d560fd8c）
 
 A run archive is one agent configuration evaluated on OSWorld-Verified; task and episode counts use different units. Step budgets in archive names range over 15, 50, 100 and more steps, and several agents have one archive per budget.
 

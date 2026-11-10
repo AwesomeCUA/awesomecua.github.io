@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/21/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [SpectraBrowser MCP](https://awesomecua.com/zh/resources/github-virajverse-spectra-browser-mcp/)
+- [Spice](https://awesomecua.com/zh/resources/github-shells-com-spice/)
+- [spider-browser](https://awesomecua.com/zh/resources/github-spider-rs-spider-browser/)
+- [Spooky Action](https://awesomecua.com/zh/resources/github-jumpsy-spooky-action/)
 - [SREY Voice Assistant](https://awesomecua.com/zh/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/)
 - [Starizon AI](https://awesomecua.com/zh/resources/url-5aa01cb259a5d9a07d6e/)
 - [Stealth Browser MCP](https://awesomecua.com/zh/resources/github-vibheksoni-stealth-browser-mcp/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/21/
 - [uictl-win-mcp](https://awesomecua.com/zh/resources/github-byronjones-elsevier-uictl-win-mcp/)
 - [uitars-mcp](https://awesomecua.com/zh/resources/github-sandraschi-uitars-mcp/)
 - [Ultimate Playwright MCP](https://awesomecua.com/zh/resources/github-pm990320-ultimate-playwright-mcp/)
-- [UltraTerm Computer Use](https://awesomecua.com/zh/resources/github-michael-berardi-ultraterm-computer-use/)
-- [UltraWin MCP](https://awesomecua.com/zh/resources/github-jxoesneon-ultrawin-mcp/)
-- [Unbrowse](https://awesomecua.com/zh/resources/github-unbrowse-ai-unbrowse/)
-- [UnderPixel](https://awesomecua.com/zh/resources/github-leluth-underpixel/)

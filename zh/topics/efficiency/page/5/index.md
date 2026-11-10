@@ -4,7 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [DeskMind Eyes](https://awesomecua.com/zh/resources/github-deskmind-ai-eyes/)
 - [DiMo-GUI](https://awesomecua.com/zh/resources/github-vivo-dimo-gui/)
+- [GPT-6 Astra](https://awesomecua.com/zh/resources/url-039a4975e102cb538c36/)
 - [GroundAnything](https://awesomecua.com/zh/resources/github-groundingpi-groundanything/)
 - [Holo4 27B FP8](https://awesomecua.com/zh/resources/url-354c5b46fd423f9b1b85/)
 - [Holo4 27B GGUF](https://awesomecua.com/zh/resources/url-acfd6d395d67ce8011bb/)
@@ -19,6 +21,8 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/5/
 - [kev-browser-use](https://awesomecua.com/zh/resources/github-arbazsiddiqui-kev-browser-use/)
 - [Laya-Android](https://awesomecua.com/zh/resources/github-byun11-laya-android/)
 - [laya-browser](https://awesomecua.com/zh/resources/url-c5b0e2eab771f62792fb/)
+- [lora_qformer_test_V4-700_merged](https://awesomecua.com/zh/resources/url-8a5201470d27334977fa/)
+- [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/zh/resources/url-b144605ae24674ffb917/)
 - [Mano-P](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-p/)
 - [Milo-Pointer](https://awesomecua.com/zh/resources/github-chayworks-milo-pointer/)
 - [Model-3b-3ao](https://awesomecua.com/zh/resources/url-477342b0eb81469b35a0/)
@@ -27,6 +31,7 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/5/
 - [OneJev](https://awesomecua.com/zh/resources/github-omnijev-onejev/)
 - [OpenJev](https://awesomecua.com/zh/resources/github-alanhuangyoo-openjev/)
 - [OpenJev-4B](https://awesomecua.com/zh/resources/url-e592a1ff8bfcafcc7061/)
+- [OpenPhone_model](https://awesomecua.com/zh/resources/url-836de49b2bbd47d3a6a5/)
 - [PTA-1](https://awesomecua.com/zh/resources/url-303e1926b8ff4f60e006/)
 - [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/zh/resources/url-72f3737bb5194fd64852/)
 - [Qwen3.5-4B-Browser-Agent-SFT-FP8](https://awesomecua.com/zh/resources/url-6eda678ca03ea2b10d2d/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/5/
 - [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/zh/resources/github-19pine-ai-aoi/)
 - [ApexCommander-RS](https://awesomecua.com/zh/resources/github-buckster123-apexcommander-rs/)
 - [ApiTap](https://awesomecua.com/zh/resources/github-n1byn1kt-apitap/)
-- [Appwalk](https://awesomecua.com/zh/resources/github-kubstack-appwalk/)
-- [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/)
-- [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/zh/resources/github-sharryxr-asil/)
-- [ask-web-ai](https://awesomecua.com/zh/resources/github-pgw10086-ask-web-ai/)
-- [Astra AI Browser](https://awesomecua.com/zh/resources/github-bennix-astraaibrowser/)

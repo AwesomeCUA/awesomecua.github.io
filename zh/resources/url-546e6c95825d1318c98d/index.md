@@ -28,9 +28,9 @@ The reviewed card contains no explicit license declaration, so data-license stat
 
 ### 数量记录
 
-- 11,643 trajectories — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
-- 118,582 decision steps — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
-- 2,475 executable tasks — RL collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
+- 11,643 条轨迹 — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
+- 118,582 个决策步骤 — SFT collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
+- 2,475 个可执行任务 — RL collection（来源报告；来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md）
 
 These are publisher-reported totals at three distinct grains. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.
 

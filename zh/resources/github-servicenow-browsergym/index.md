@@ -21,7 +21,7 @@
 - 评测方式：Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.
 - 侧重：shared browser-agent evaluation interface, benchmark adapters with separate task definitions
 - 观测：browser screenshot, DOM snapshot, accessibility tree, tab/URL state, previous action and its error, chat messages and task goal
-- 任务设置：mixed
+- 任务设置：混合
 
 ### 数量记录
 

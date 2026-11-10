@@ -147,6 +147,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history with planning and grounded executable actions.
 - [OpenCUA 72B](https://awesomecua.com/resources/url-4a0b1692589594745a3c/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.
+- [ScreenAgent](https://awesomecua.com/resources/url-92b5cb08491c09243b72/) — Date not recorded
+  ScreenAgent-2312 weights in SAT format, a CogAgent-based vision-language model that drives the ScreenAgent environment, issuing mouse and keyboard actions over VNC in plan, act and reflect stages.
 - [UI-Voyager](https://awesomecua.com/resources/url-e2ddf502803f46085aca/) — Date not recorded
   A released mobile GUI agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct to operate device interfaces, with AndroidWorld evaluation instructions.
 

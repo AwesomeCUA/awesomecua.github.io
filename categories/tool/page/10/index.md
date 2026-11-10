@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/tool/page/10/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [ProBrowser MCP Server](https://awesomecua.com/resources/github-momadhuynh04-probrowser/)
+- [Procore Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/)
+- [Prodjest (DSH Browser Bridge)](https://awesomecua.com/resources/github-hedelka-prodjest/)
+- [ProdPoke MCP Server](https://awesomecua.com/resources/github-prodpoke-prodpoke-mcp/)
+- [Product Demo Video Skill](https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/)
+- [Puppeteer MCP Server](https://awesomecua.com/resources/github-sultannaufal-puppeteer-mcp-server/)
+- [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/)
 - [pyagentbrowser](https://awesomecua.com/resources/github-peter-gy-pyagentbrowser/)
 - [pyautogui_mcp_server](https://awesomecua.com/resources/github-on-panda-pyautogui-mcp-server/)
 - [PyMCPAutoGUI](https://awesomecua.com/resources/github-ahaufox-pymcpautogui/)
@@ -84,7 +91,6 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [TabWard](https://awesomecua.com/resources/github-nepavel221-tabward/)
 - [tail-aside](https://awesomecua.com/resources/github-quino0627-tail-aside/)
 - [Taprun (tap)](https://awesomecua.com/resources/github-leonting1010-tap/)
-- [Tarsier](https://awesomecua.com/resources/github-reworkd-tarsier/)
 - [Tarsier-AI](https://awesomecua.com/resources/github-siddzzzz-tarsier/)
 - [Tauri Dev Screen CLI](https://awesomecua.com/resources/github-johunsang-tauri-dev-screen-cli/)
 - [Tenmomo Browser Agent](https://awesomecua.com/resources/github-tenmomo-browser-agent/)
@@ -98,9 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [TinyFish MCP Server](https://awesomecua.com/resources/github-tinyfish-io-tinyfish-mcp-server/)
 - [ToolArks Remote Login Relay](https://awesomecua.com/resources/github-zdayang-remote-login-relay/)
 - [UI Debugger MCP](https://awesomecua.com/resources/github-developerz-ai-ui-debugger-mcp/)
-- [UI Image to Code Studio](https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/)
-- [uiacli (Windows UI Automation CLI)](https://awesomecua.com/resources/github-amitse-uiacli/)
-- [UIAutomationMcp](https://awesomecua.com/resources/github-trsdn-mcp-server-uiautomation/)
-- [uitars-mcp](https://awesomecua.com/resources/github-sandraschi-uitars-mcp/)
-- [Ultimate Playwright MCP](https://awesomecua.com/resources/github-pm990320-ultimate-playwright-mcp/)
-- [UltraTerm Computer Use](https://awesomecua.com/resources/github-michael-berardi-ultraterm-computer-use/)

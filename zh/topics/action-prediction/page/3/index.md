@@ -4,6 +4,14 @@ HTML 页面：https://awesomecua.com/zh/topics/action-prediction/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/action-prediction/index.md
 
+- [GUI-Owl 1.5 32B Think](https://awesomecua.com/zh/resources/url-e0e4712ee701f652bf31/)
+- [GUI-Owl 1.5 4B Instruct](https://awesomecua.com/zh/resources/url-17a0422036ebea8d4e93/)
+- [GUI-Owl 1.5 8B Instruct](https://awesomecua.com/zh/resources/url-d01dfc6e5b5fcece7b41/)
+- [GUI-Owl 1.5 8B Think](https://awesomecua.com/zh/resources/url-374138c6e18c9f1dd44a/)
+- [GUI-Owl 32B](https://awesomecua.com/zh/resources/url-a92e7dfcdfdcacb2e634/)
+- [GUI-Owl 7B](https://awesomecua.com/zh/resources/url-aeb32973694f91ad9920/)
+- [GUI-Owl 7B Desktop-RL](https://awesomecua.com/zh/resources/url-b01a78c76299196e3df1/)
+- [GUI-R1 checkpoint bundle](https://awesomecua.com/zh/resources/url-61a5321db10fc8a312b9/)
 - [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/)
 - [Hcompany/Holo4-35B-A3B-GGUF](https://awesomecua.com/zh/resources/url-d96a6dcdd2aa622c523b/)
 - [Hcompany/Holo4-35B-A3B-NVFP4](https://awesomecua.com/zh/resources/url-ef732d252e9eb9b04e20/)
@@ -56,11 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/action-prediction/page/3/
 - [OpenJev](https://awesomecua.com/zh/resources/github-alanhuangyoo-openjev/)
 - [OpenJev-1.7B](https://awesomecua.com/zh/resources/url-24ec6c30e9bb9946c13f/)
 - [OpenJev-4B](https://awesomecua.com/zh/resources/url-e592a1ff8bfcafcc7061/)
-- [OpenJev-8B](https://awesomecua.com/zh/resources/url-8f5a8144b96447be84c5/)
-- [OpenMobile-8B](https://awesomecua.com/zh/resources/url-6616228d4f267363458e/)
-- [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/zh/resources/url-725f9a8225f0f9c40d93/)
-- [OS-Atlas Pro 7B](https://awesomecua.com/zh/resources/url-9c5e0c8f6784bedeb153/)
-- [OS-Atlas-Pro-4B](https://awesomecua.com/zh/resources/url-b87dd2aed7f4c1982b6b/)
-- [OS-Genesis 4B AC](https://awesomecua.com/zh/resources/url-b1837823421bd08cb826/)
-- [OS-Genesis 4B AW](https://awesomecua.com/zh/resources/url-a2362e23fdcbc73763e6/)
-- [OS-Genesis 4B WA](https://awesomecua.com/zh/resources/url-807dadc7dc4ba995bbbe/)

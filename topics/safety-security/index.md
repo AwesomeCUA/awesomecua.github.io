@@ -615,6 +615,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Unified evaluation framework measuring truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.
 - [MM-SafetyBench](https://awesomecua.com/resources/github-ai45lab-mm-safetybench/) — Date not recorded
   MM-SafetyBench evaluates multimodal large language models against query-relevant adversarial image and typography safety prompts across 13 scenarios.
+- [MobileRisk](https://awesomecua.com/resources/url-ca7bfba3981fc7e5b3bf/) — Date not recorded
+  Annotated Android agent trajectories, split into safe and unsafe sets, for the OS-Sentinel benchmark that measures how well detectors flag unsafe mobile GUI agent actions.
 - [MobileSafetyBench](https://awesomecua.com/resources/github-jylee425-mobilesafetybench/) — Date not recorded
   Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
 - [Next-Gen CAPTCHAs](https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/) — Date not recorded
@@ -689,6 +691,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   A general model whose release documents computer use through visual observation, mouse actions, and keyboard input, with OSWorld evaluation and prompt-injection testing.
 - [Gemini 2.5 Computer Use](https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/) — Date not recorded
   Preview Google DeepMind model built on Gemini 2.5 Pro and post-trained for UI control, returning browser and mobile actions from screenshots and recent action history through the Gemini API computer_use tool.
+- [GPT-6 Astra](https://awesomecua.com/resources/url-039a4975e102cb538c36/) — Date not recorded
+  General OpenAI model whose launch post covers computer use and browsing; OpenAI reports 72.6% on OSWorld 2.0 at about 40 minutes per task, plus ScreenSpot-Pro and Mind2Web results.
 - [jiamingzz/lgwm](https://awesomecua.com/resources/url-512cd7335068b2c17859/) — Date not recorded
   Released weights for a GUI world model that predicts a screen representation after an action and checks the observed transition, with a separate harm scoring head.
 - [MirrorGuard checkpoint](https://awesomecua.com/resources/url-5f4264af210fb2686870/) — Date not recorded
@@ -697,6 +701,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.
 - [VeriOS-Agent-32B](https://awesomecua.com/resources/url-97040677a731edfedc2d/) — Date not recorded
   VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-VL-32B. It is released with model weights for the interaction approach described in the VeriOS paper.
+- [VeriOS-Agent-7B](https://awesomecua.com/resources/url-0b0a7a841d65715d60b1/) — Date not recorded
+  A 7B OS agent model that carries out GUI actions under normal conditions and asks a person for input when it detects an untrustworthy scenario, trained in three stages with SFT and GRPO.
 - [ZHEN-04/CaptchaAgent](https://awesomecua.com/resources/url-fb67af38dce972b398c3/) — Date not recorded
   ZHEN-04/CaptchaAgent is a 9B computer-use policy trained on interactive CAPTCHA trajectories. It maps screenshots to tool calls and provides SFT and reinforcement-learning checkpoints.
 

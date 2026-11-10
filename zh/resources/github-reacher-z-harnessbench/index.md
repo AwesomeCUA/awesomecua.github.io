@@ -25,12 +25,12 @@ Sister project of ClawBench. The repository holds the harness-bench CLI (harness
 - 评测方式：Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.
 - 侧重：comparison of agent harnesses with the base model held fixed, everyday online tasks in a real browser
 - 观测：harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 153 tasks — ClawBench shared task pool, held in the separate ClawBench repository（来源报告；来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md）
-- 6 harness adapters — clawbench.harnesses entry points registered in pyproject.toml（计算得出；来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml）
+- 153 个任务 — ClawBench shared task pool, held in the separate ClawBench repository（来源报告；来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md）
+- 6 个评测框架适配器 — clawbench.harnesses entry points registered in pyproject.toml（计算得出）（来源：https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml）
 
 Task definitions and judge prompts live in ClawBench. Cloud harnesses without credentials are reported as skipped, not scored as zero. No results were published at the inspected commit.
 

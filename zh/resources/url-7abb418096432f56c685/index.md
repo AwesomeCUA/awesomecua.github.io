@@ -21,11 +21,11 @@ ScreenSpot 是 GUI 定位测试集，包含来自 iOS、Android、macOS、Window
 - 评测方式：The SeeClick evaluator scores whether the predicted point falls inside the target box, with platform and text/icon breakdowns. The Hub packaging uses xyxy boxes, whereas the original evaluator reads xywh and converts it; adapt the loader to the chosen release.
 - 侧重：single-step GUI element grounding
 - 观测：screenshot, English instruction
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 1,272 instruction–target examples — Hub test split at 0be08781; row count distinct from unique screenshots（来源报告；来源：https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md）
+- 1,272 个指令–目标示例 — Hub test split at 0be08781; row count distinct from unique screenshots（来源报告；来源：https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md）
 
 Offline, zero-shot evaluation across mobile, desktop, and web. The card explicitly excludes training use in its intended-use description. Public API reports ungated Parquet files and canonical Hub id bevaya/ScreenSpot; the catalog identity is preserved. Apache-2.0 is the Hub data declaration. No runtime or underlying screenshot rights audit was performed.
 

@@ -25,12 +25,12 @@ Public task files are available as JSONL and XLSX with documentation. The card e
 - 评测方式：Published task definitions include preconditions and clarification requirements.
 - 侧重：mobile task completion, clarification behavior, cross-app tasks
 - 观测：mobile app interfaces
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 150 tasks — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
-- 40 mobile apps — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
+- 150 个任务 — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
+- 40 个移动应用 — MobileGUI-VBench release（来源报告；来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md）
 
 The card describes 140 single-app and 10 cross-app tasks. Task and app counts are different units.
 

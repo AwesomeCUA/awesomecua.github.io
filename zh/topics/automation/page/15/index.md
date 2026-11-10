@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/15/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [Interpreter Workstation](https://awesomecua.com/zh/resources/github-openinterpreter-interpreter-workstation/)
+- [InTheRainOf Mobile Agent (随身Agent)](https://awesomecua.com/zh/resources/github-intherainof-mobile-agent/)
+- [invisible_core](https://awesomecua.com/zh/resources/github-feder-cr-invisible-core/)
+- [invisible_dots](https://awesomecua.com/zh/resources/github-feder-cr-invisible-dots/)
 - [invisible_playwright](https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright/)
 - [invisible_playwright_mcp](https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright-mcp/)
 - [iOS Agent Harness](https://awesomecua.com/zh/resources/github-a178960320-ios-agent-harness/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/15/
 - [lazy-mobile-mcp](https://awesomecua.com/zh/resources/github-leaf76-lazy-mobile-mcp/)
 - [LCU](https://awesomecua.com/zh/resources/github-amontlabs-lcu/)
 - [lean-computer-use-mcp](https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/)
-- [LegacyBridge](https://awesomecua.com/zh/resources/github-peterhaupt-legacybridge/)
-- [libnut-core](https://awesomecua.com/zh/resources/github-nut-tree-libnut-core/)
-- [LibreAutomate](https://awesomecua.com/zh/resources/github-qgindi-libreautomate/)
-- [Libretto](https://awesomecua.com/zh/resources/github-cashew-labs-libretto/)

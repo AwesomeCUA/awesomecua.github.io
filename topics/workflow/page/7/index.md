@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/workflow/page/7/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
+- [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/resources/github-qiulingzhu809-sudo-job-pilot-2027/)
 - [kamalesh404 AgentOS](https://awesomecua.com/resources/github-kamalesh404-agentos/)
 - [Knot Agent](https://awesomecua.com/resources/github-liz-public-knot-agent/)
 - [Komos](https://awesomecua.com/resources/url-65a9a9211f0dd2b7264a/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [one-for-all](https://awesomecua.com/resources/github-elijahumana-one-for-all/)
 - [Open Codex Record & Replay](https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/)
 - [Open Duet (open-dots)](https://awesomecua.com/resources/github-anil-matcha-open-dots/)
-- [Open Grok Bot](https://awesomecua.com/resources/github-anil-matcha-open-grok-bot/)

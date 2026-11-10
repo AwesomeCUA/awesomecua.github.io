@@ -2,7 +2,7 @@
 
 Surveys are review articles that map computer-use and GUI-agent research: its methods, benchmarks, datasets, safety questions and open problems.
 
-> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
+> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 

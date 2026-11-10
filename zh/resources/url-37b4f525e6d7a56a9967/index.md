@@ -25,17 +25,17 @@ Formerly published as saelyne/GuideBench; the Hub API redirects that name to thi
 - 评测方式：Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.
 - 侧重：user behavior state detection, short-term intent prediction, help need and help content prediction
 - 观测：screen-recording video segments
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 120 demonstrations — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
-- 67.5 hours of screen recordings — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
-- 54 novice users — GUIDE participants（来源报告；来源：https://guide-bench.github.io）
-- 10 applications — GUIDE software coverage（来源报告；来源：https://guide-bench.github.io）
-- 40 open-ended tasks — GUIDE task design（来源报告；来源：https://guide-bench.github.io）
-- 120 transcription files — Hub manifest at revision 783caa86 (transcriptions/)（计算得出；来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
-- 40 task-description files — Hub manifest at revision 783caa86 (tasks/)（计算得出；来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
+- 120 条演示 — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
+- 67.5 小时屏幕录像 — GUIDE screen recordings（来源报告；来源：https://guide-bench.github.io）
+- 54 名新手用户 — GUIDE participants（来源报告；来源：https://guide-bench.github.io）
+- 10 个应用 — GUIDE software coverage（来源报告；来源：https://guide-bench.github.io）
+- 40 个开放式任务 — GUIDE task design（来源报告；来源：https://guide-bench.github.io）
+- 120 个转录文件 — Hub manifest at revision 783caa86 (transcriptions/)（计算得出）（来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
+- 40 个任务描述文件 — Hub manifest at revision 783caa86 (tasks/)（计算得出）（来源：https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1）
 
 Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. The access gate leaves segment counts per task uncomputed from the annotation files.
 

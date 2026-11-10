@@ -63,4 +63,4 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/4/
 - [Contrastive Language Models](https://awesomecua.com/zh/resources/github-contrastive-lm-clm/)
 - [cua-s1-forms-coreml](https://awesomecua.com/zh/resources/url-f742ad40df2e5f109fc3/)
 - [cua-s1-nano-0.1](https://awesomecua.com/zh/resources/url-3cdd5263b3b46a5e2003/)
-- [DeskMind Eyes](https://awesomecua.com/zh/resources/github-deskmind-ai-eyes/)
+- [dart-gui-7b](https://awesomecua.com/zh/resources/url-689fea75118e3113476b/)

@@ -167,6 +167,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   An MLX-quantized Mano-CUA model for Apple Silicon that reads screenshots and task instructions to produce structured GUI actions.
 - [MiniMax M3](https://awesomecua.com/resources/url-50089323623ee780a426/) — Date not recorded
   MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.
+- [Muse Spark 1.1](https://awesomecua.com/resources/url-f8a956094e526a92caf3/) — Date not recorded
+  Meta Superintelligence Labs multimodal reasoning model for agentic work, trained to choose between writing scripts and clicking in computer-use workflows that span several applications.
 
 ## Engineering & industry
 

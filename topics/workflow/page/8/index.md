@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/workflow/page/8/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
+- [Open Grok Bot](https://awesomecua.com/resources/github-anil-matcha-open-grok-bot/)
 - [Open Record/Replay](https://awesomecua.com/resources/github-humblebanana-open-record-replay/)
 - [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/)
 - [OpenAdapt Agent](https://awesomecua.com/resources/github-openadaptai-openadapt-agent/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [Salesforce Classic Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-salesforce-classic-browser-automation/)
 - [SAP Concur Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-concur-browser-automation/)
 - [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/)
-- [SAP SuccessFactors Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/)

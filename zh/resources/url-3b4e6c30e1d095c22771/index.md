@@ -28,15 +28,15 @@ The repository is gated with automatic approval; its card could not be read with
 
 ### 数量记录
 
-- 21 ZIP result archives — repository root at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0）
-- 7 model run folders — website_demo folder at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo）
-- 108 task folders — website_demo/MiniMax-M3/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/MiniMax-M3/tasks）
-- 108 task folders — website_demo/claude-opus-4-7/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-opus-4-7/tasks）
-- 108 task folders — website_demo/claude-sonnet-4-6-max/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-max/tasks）
-- 108 task folders — website_demo/claude-sonnet-4-6-medium/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-medium/tasks）
-- 108 task folders — website_demo/gpt-5.5/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.5/tasks）
-- 107 task folders — website_demo/gpt-5.6/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks）
-- 108 task folders — website_demo/qwen3.7/tasks at Hub revision a9cd5b05（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks）
+- 21 个 ZIP 结果归档 — repository root at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0）
+- 7 个模型运行文件夹 — website_demo folder at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo）
+- 108 个任务文件夹 — website_demo/MiniMax-M3/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/MiniMax-M3/tasks）
+- 108 个任务文件夹 — website_demo/claude-opus-4-7/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-opus-4-7/tasks）
+- 108 个任务文件夹 — website_demo/claude-sonnet-4-6-max/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-max/tasks）
+- 108 个任务文件夹 — website_demo/claude-sonnet-4-6-medium/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-medium/tasks）
+- 108 个任务文件夹 — website_demo/gpt-5.5/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.5/tasks）
+- 107 个任务文件夹 — website_demo/gpt-5.6/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks）
+- 108 个任务文件夹 — website_demo/qwen3.7/tasks at Hub revision a9cd5b05（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks）
 
 Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task; folders across models overlap by task, with 107 folders for gpt-5.6 and 108 for the others. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.
 

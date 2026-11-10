@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/safety-security/page/9/
 
 Full list: https://awesomecua.com/topics/safety-security/index.md
 
+- [ORBIT framework](https://awesomecua.com/resources/github-wlanderson0-orbit/)
+- [Orca](https://awesomecua.com/resources/github-echovic-orca-agent/)
+- [OS-Kairos](https://awesomecua.com/resources/github-wuzheng02-os-kairos/)
 - [OS-Sentinel](https://awesomecua.com/resources/github-os-copilot-os-sentinel/)
 - [Ossabellator Bounded Computer-Use Runtime](https://awesomecua.com/resources/github-ossabellator-computer-use/)
 - [Oya Browser](https://awesomecua.com/resources/github-oyadotai-oya-browser/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/safety-security/index.md
 - [WebClerk](https://awesomecua.com/resources/github-thunderkhan-webclerk/)
 - [WebMCP Deadbolt](https://awesomecua.com/resources/github-faxanfm-webmcp-deadbolt/)
 - [WebMCP Stack](https://awesomecua.com/resources/github-souravinsights-webmcp-stack/)
-- [WebMirage](https://awesomecua.com/resources/github-moontea0416-webmirage/)
-- [WebSentinel detection demo](https://awesomecua.com/resources/github-wxl-lxw-websentinel/)
-- [windows-computer-use-mcp](https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/)

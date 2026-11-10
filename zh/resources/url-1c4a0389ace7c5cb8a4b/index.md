@@ -28,8 +28,8 @@ The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automa
 
 ### 数量记录
 
-- 108 task class files — task_*.py on the main branch at revision 0a1aadad（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
-- 34 implementation note files — implementation_notes/task_*.md on the main branch at revision 0a1aadad（计算得出；来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
+- 108 个任务类文件 — task_*.py on the main branch at revision 0a1aadad（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
+- 34 个实现说明文件 — implementation_notes/task_*.md on the main branch at revision 0a1aadad（计算得出）（来源：https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks）
 
 Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags; these are main-branch counts.
 

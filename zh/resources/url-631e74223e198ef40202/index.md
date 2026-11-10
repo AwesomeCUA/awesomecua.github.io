@@ -24,7 +24,7 @@
 
 ### 数量记录
 
-- 6 platform categories — Linux, macOS, Windows, Android, iOS, and Web（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md）
+- 6 个平台类别 — Linux, macOS, Windows, Android, iOS, and Web（来源报告；来源：https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md）
 
 The six categories include Web. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.
 

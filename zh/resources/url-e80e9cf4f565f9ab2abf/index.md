@@ -25,14 +25,14 @@ Sparks Solutions publishes one ungated test split of 22 Parquet shards at revisi
 - 评测方式：The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.
 - 侧重：grounding infotainment UI elements from test-action commands, judging expected-result statements as passed or failed
 - 观测：photographs and screenshots of in-vehicle infotainment displays, English test-action or expected-result text
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 4,208 annotations — test split, the only split, at revision d760810c（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
-- 998 images — images in the release（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
-- 2,269 annotations — Test Action rows in the test split, from the Hub dataset viewer's column statistics（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
-- 1,939 annotations — Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
+- 4,208 条标注 — test split, the only split, at revision d760810c（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
+- 998 张图像 — images in the release（来源报告；来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md）
+- 2,269 条标注 — Test Action rows in the test split, from the Hub dataset viewer's column statistics（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
+- 1,939 条标注 — Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics（计算得出）（来源：https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test）
 
 Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows).
 

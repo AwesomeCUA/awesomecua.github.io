@@ -564,8 +564,14 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.
 - [GUI-R1 data bundle](https://awesomecua.com/zh/resources/url-df680385f18b01a825be/) — Date not recorded
   Training and evaluation Parquet bundles accompanying GUI-R1, including GUI grounding and mobile/web action-prediction data.
+- [HiconAgent-AMEX](https://awesomecua.com/zh/resources/url-3df97229d34c44c2014a/) — Date not recorded
+  Training and validation data for HiconAgent built from the AMEX Android dataset: each sample holds a goal, earlier screenshots and actions, and the next action as the answer, for history-aware RL of GUI agents.
 - [OpenMobile-Data-v2](https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/) — Date not recorded
   Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.
+- [OpenPhone_dataset](https://awesomecua.com/zh/resources/url-e7ea65893ab264517d83/) — Date not recorded
+  Training data for the OpenPhone mobile agent: the AndroidLab training archive plus a Hugging Face vision-language set with LLM-generated reasoning and reflection chains, formatted for GRPO training.
+- [SE-GUI-3k](https://awesomecua.com/zh/resources/url-380318a8de65fe45956c/) — Date not recorded
+  Seed training data for SE-GUI, a GUI grounding model trained with self-evolutionary reinforcement fine-tuning; each row pairs a tool-calling conversation and a screenshot with a target bounding box.
 - [sharryXR/asil-training-data](https://awesomecua.com/zh/resources/url-e9423bcf01a8d6b078bc/) — Date not recorded
   Training data for ASIL agents includes replayed action traces, guided supervision, and an evaluator-backed reinforcement-learning curriculum in JSONL and Parquet splits.
 - [UI-AGILE-Data](https://awesomecua.com/zh/resources/url-41abb1b7206689cf5057/) — Date not recorded
@@ -577,28 +583,44 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
 
 - [AgentCPM-GUI 8B checkpoint](https://awesomecua.com/zh/resources/url-8ef3985dce697e5feea9/) — Date not recorded
   An eight-billion-parameter MiniCPM-V-based model that consumes smartphone screenshots and predicts compact actions for Chinese and English Android app tasks.
+- [aitw-general-digiq-agent](https://awesomecua.com/zh/resources/url-0e5617031e625a75cfc7/) — Date not recorded
+  Digi-Q agent checkpoint for the AitW General task set: an AutoUI device-control policy trained offline with a learned VLM Q-value function that re-ranks proposed actions.
+- [aitw-webshop-digiq-agent](https://awesomecua.com/zh/resources/url-5281c8befef1059590f3/) — Date not recorded
+  Digi-Q device-control agent checkpoint trained on the AitW Web Shopping task set, an AutoUI-based actor learned offline with a VLM Q-value function; the repository reports a 70.8 test-set score.
 - [ARPO UI-TARS-1.5-7B checkpoint](https://awesomecua.com/zh/resources/url-db6fc5f29f186d13991c/) — Date not recorded
   UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.
 - [asil-qwen35-2b-rl](https://awesomecua.com/zh/resources/url-d740ec821c7c466db2bf/) — Date not recorded
   An ASIL reinforcement-learning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+- [asil-qwen35-9b-rl](https://awesomecua.com/zh/resources/url-c5cedb2f95336a8e48aa/) — Date not recorded
+  ASIL RL checkpoint of Qwen3.5-9B for operating desktop applications from JSON state observations with semantic actions written as code, trained on 320 task prompts after SFT.
 - [BlueLM-GUI](https://awesomecua.com/zh/resources/github-vivo-ai-lab-bluelm-gui/) — Date not recorded
   Mobile GUI agent research release with technical report, benchmark data, and evaluation tooling from vivo AI Lab.
+- [ClawGUI-2B](https://awesomecua.com/zh/resources/url-1a54e63277eaffdaef57/) — Date not recorded
+  ClawGUI-2B, a 2B mobile GUI agent model trained end to end with the ClawGUI-RL pipeline and GiGPO; the authors report a 17.1 MobileWorld success rate against an 11.1 baseline.
 - [CODA-PLANNER-TARS-32B](https://awesomecua.com/zh/resources/url-cf16d0a4a05ea7270ffa/) — Date not recorded
   CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
 - [ColorGUI-32B](https://awesomecua.com/zh/resources/url-38672ac9af2e25fbfb58/) — Date not recorded
   ColorGUI-32B is a mobile GUI action model adapted from Qwen3-VL-32B-Instruct. It reads screenshots and instructions to select actions for a mobile agent runtime.
+- [dart-gui-7b](https://awesomecua.com/zh/resources/url-689fea75118e3113476b/) — Date not recorded
+  GUI agent checkpoint released with DART, a decoupled asynchronous RL framework that separates environments, rollout, data management and training; the paper reports 42.13% task success on OSWorld.
 - [EvoCUA](https://awesomecua.com/zh/resources/github-meituan-evocua/) — Date not recorded
   Computer-use model and training resources from the EvoCUA project.
 - [EvoCUA 32B 20260105](https://awesomecua.com/zh/resources/url-60a95f34072aeb2771cc/) — Date not recorded
   Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 - [EvoCUA 8B 20260105](https://awesomecua.com/zh/resources/url-2a2682f86dcb8ebc9a80/) — Date not recorded
   EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
+- [GELab-Engine-7B](https://awesomecua.com/zh/resources/url-41b685bbd42fbd4732da/) — Date not recorded
+  Qwen2.5-VL 7B checkpoint released with GUI Exploration Lab, a synthetic GUI environment of screens linked by a navigation graph, where agents learn screen navigation through SFT, single-turn RL and multi-turn RL.
 - [Gelato](https://awesomecua.com/zh/resources/github-mlfoundations-gelato/) — Date not recorded
   Release code for Gelato-30B-A3B, a GUI click-grounding model trained with GRPO on Click-100k: EasyR1 configs, click rewards, grounding evaluation scripts and logs, and a GPT-5-planned OS-World agent harness.
 - [Gelato-30B-A3B](https://awesomecua.com/zh/resources/url-46502d87b2c13515790a/) — Date not recorded
   Qwen3-VL-30B-A3B-Instruct checkpoint trained with GRPO on Click-100k that returns one (x,y) click point, normalized to 0–1000, for a screenshot and an element description.
+- [Gelato-UI-TARS-1.5-7B](https://awesomecua.com/zh/resources/url-7617bb21031bc5fb6574/) — Date not recorded
+  UI-TARS-1.5-7B trained with reinforcement learning on the Click-100k dataset for 255 steps as the Gelato recipe baseline for GUI grounding. The authors report gains over GTA1-7B-2507 on ScreenSpot-Pro and OS-World-G.
 - [GroundNext-7B-V0](https://awesomecua.com/zh/resources/url-174e10a319d62c338879/) — Date not recorded
   GroundNext GUI-grounding checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct with SFT then RLOO on GroundCUA desktop data; it maps a screenshot and instruction to a computer_use click call.
+- [GT-r1](https://awesomecua.com/zh/resources/url-1a6fc60f2b931acbd057/) — Date not recorded
+  A GUI defect detection model trained with VLM-R1 reinforcement learning that inspects an app screenshot and labels it as a content display error, UI layout issue, missing UI element or no defect.
 - [GTA1-7B](https://awesomecua.com/zh/resources/url-9ca4709eb2e41c0fced6/) — Date not recorded
   A released GUI grounding checkpoint trained with GRPO to predict an element's coordinates from a screenshot and description, with inference code and reported evaluations.
 - [GTA1-7B](https://awesomecua.com/zh/resources/url-fa6761a4612fab664a7c/) — Date not recorded
@@ -649,12 +671,20 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
 - [InfiGUI-R1 3B](https://awesomecua.com/zh/resources/url-35b9879a351cc3b3d7d5/) — Date not recorded
   A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine interface grounding with planning and recovery reasoning.
+- [InternVL3_5-14B](https://awesomecua.com/zh/resources/url-558abdb3eb20b922e01b/) — Date not recorded
+  InternVL3.5 multimodal checkpoint with 15.1B total parameters, trained with CPT, SFT and Cascade RL. The paper reports its GUI grounding and agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.
 - [InternVL3_5-14B-HF](https://awesomecua.com/zh/resources/url-5304880559ad79f5b797/) — Date not recorded
   A Hugging Face format checkpoint in the InternVL3.5 multimodal model family, whose card names GUI interaction among its capabilities and describes Cascade RL training.
 - [InternVL3_5-1B](https://awesomecua.com/zh/resources/url-b75abe232c389788d2c4/) — Date not recorded
   InternVL3_5-1B is a released multimodal checkpoint from the InternVL3.5 family, whose documented capabilities include GUI interaction.
 - [InternVL3_5-241B-A28B](https://awesomecua.com/zh/resources/url-c8d93b1c274acd679694/) — Date not recorded
   A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.
+- [InternVL3_5-30B-A3B](https://awesomecua.com/zh/resources/url-4d7042b462e937c33406/) — Date not recorded
+  InternVL3.5 multimodal checkpoint listed at 30.8B-A3B parameters, trained with CPT, SFT and Cascade RL. The paper reports its GUI grounding and agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.
+- [InternVL3_5-30B-A3B-HF](https://awesomecua.com/zh/resources/url-2ebcbc24ecbdc2db22fb/) — Date not recorded
+  Transformers-format InternVL3.5 checkpoint with 30.8B total and 3B active parameters, whose paper reports GUI grounding and online agent results on ScreenSpot, OSWorld-G, WindowsAgentArena and WebArena-Lite-v2.
+- [InternVL3_5-38B](https://awesomecua.com/zh/resources/url-33b35b47d8bb269d84a1/) — Date not recorded
+  InternVL3.5 checkpoint with 38.4B parameters, pairing a 5.5B vision encoder with a 32.8B language model, whose paper reports GUI grounding and online agent results on ScreenSpot, OSWorld-G and WindowsAgentArena.
 - [InternVL3_5-38B-HF](https://awesomecua.com/zh/resources/url-099960c12bbdd80f73cb/) — Date not recorded
   An HF-format 38B checkpoint in the InternVL3.5 multimodal model family, whose card lists GUI interaction among its capabilities and describes staged training and inference.
 - [InternVL3_5-8B](https://awesomecua.com/zh/resources/url-7f7d17a0873e6ffda2b9/) — Date not recorded
@@ -669,6 +699,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A 4B vision-language checkpoint for locating GUI targets in high-resolution images. It is fine-tuned from GUI-Owl-1.5-4B-Instruct with supervised and reward-based post-training.
 - [KV-Ground-4B-BaseQw3vl](https://awesomecua.com/zh/resources/url-969eb56a53187cda74c7/) — Date not recorded
   A 4B GUI grounding model for high-resolution screenshots and text instructions, fine-tuned from Qwen3-VL-4B-Instruct with supervised and reward-based training.
+- [LFM2-350M-ComputerUse](https://awesomecua.com/zh/resources/url-b68b02b47c87f006533e/) — Date not recorded
+  LoRA adapter for LFM2-350M trained with GRPO to click a button on the MiniWoB click-test task, reading the page as a BrowserGym accessibility tree and acting in a sandboxed browser.
 - [Magma-R1](https://awesomecua.com/zh/resources/url-e5e74846aeaa8398673e/) — Date not recorded
   Magma-R1 is a released GUI-agent model trained on curated AndroidControl samples. Its accompanying documentation describes action and grounding evaluation and reward-based training.
 - [MM-Eureka](https://awesomecua.com/zh/resources/github-modalminds-mm-eureka/) — Date not recorded
@@ -683,8 +715,12 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A 4B-parameter computer-use model trained with GUI reinforcement learning that maps text and screenshots to actions such as clicks, typing, and scrolling.
 - [OpAgent-32B](https://awesomecua.com/zh/resources/url-875b417b3ef43021cd74/) — Date not recorded
   A vision-language model fine-tuned for web navigation. It takes a task instruction and webpage screenshot and produces a browser action or final answer.
+- [OpenPhone_model](https://awesomecua.com/zh/resources/url-836de49b2bbd47d3a6a5/) — Date not recorded
+  OpenPhone-3B weights, a 3B on-device model for Android GUI tasks trained with supervised fine-tuning on synthetic reasoning data and then GRPO-style reinforcement learning.
 - [PAE LLaVA 7B](https://awesomecua.com/zh/resources/url-5d61c1b5fc8dd650518d/) — Date not recorded
   A released LLaVA checkpoint for visual browser interaction from the PAE autonomous task-proposal and policy-learning system.
+- [Qwen-AgentWorld](https://awesomecua.com/zh/resources/github-qwenlm-qwen-agentworld/) — Date not recorded
+  A language world model that predicts the next environment observation across seven domains, including Android screens, browser pages and desktop accessibility trees, released with AgentWorldBench evaluation code.
 - [Qwen3-8B-FormFactory-GRPO-LoRA](https://awesomecua.com/zh/resources/url-4a3799bd1b6db15afffe/) — Date not recorded
   Qwen3-8B-FormFactory-GRPO-LoRA is a browser form-filling adapter for Qwen3-8B, trained with supervised initialization and online GRPO using real browser execution.
 - [Salesforce/GTA1-32B](https://awesomecua.com/zh/resources/url-5288515eb50aef1e84a2/) — Date not recorded
@@ -701,6 +737,14 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Qwen3.5-9B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for OSWorld desktop tasks after an SFT start point and served through an OpenAI-compatible endpoint.
 - [ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard](https://awesomecua.com/zh/resources/url-d2d07c09a1c92e5f4a43/) — Date not recorded
   Qwen3.5-9B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for ScienceBoard scientific-software tasks after an SFT start point and served through an OpenAI-compatible endpoint.
+- [SE-GUI-3B](https://awesomecua.com/zh/resources/url-6d6f7ffc6a15e9e75a14/) — Date not recorded
+  GUI grounding model on a Qwen2.5-VL 3B backbone trained with self-evolutionary reinforcement fine-tuning on 3,018 curated samples; the authors report 35.9 on ScreenSpot-Pro.
+- [SE-GUI-7B](https://awesomecua.com/zh/resources/url-00f5bfd8c7991012a183/) — Date not recorded
+  A 7B GUI grounding model built on Qwen2.5-VL and trained with GRPO, a dense point reward and attention-guided self-evolutionary fine-tuning on 3,018 curated seed samples.
+- [SEAgent-1.0-7B](https://awesomecua.com/zh/resources/url-62688de46b172fb0c746/) — Date not recorded
+  Computer-use agent checkpoint from SEAgent, built on UI-TARS-7B-DPO and trained by experiential learning on self-generated OSWorld software tasks; the paper reports 34.5% success on five novel applications.
+- [tti_webarena](https://awesomecua.com/zh/resources/url-a1621345ec327462b86e/) — Date not recorded
+  TTI-WebArena checkpoint from the Test-Time Interaction work, a multimodal web agent trained with online filtered behavior cloning on WebArena tasks and set in the TTI evaluation configs.
 - [UI-AGILE](https://awesomecua.com/zh/resources/github-kdegroup-ui-agile/) — Date not recorded
   GUI agent trained by RL with a continuous reward, a simple-thinking reward and cropping-based resampling on about 9k samples, plus a plug-in decomposed grounding-and-selection inference method.
 - [UI-AGILE checkpoint](https://awesomecua.com/zh/resources/url-b94e285c3f757e2d0f3a/) — Date not recorded
@@ -719,6 +763,12 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A Qwen2.5-VL-based UI checkpoint for predicting navigation actions and locating interface elements from screenshots, trained with reinforcement fine-tuning.
 - [UI2Code_N](https://awesomecua.com/zh/resources/url-b04608609a8c392d110b/) — Date not recorded
   A visual language model that turns UI screenshots into code and supports iterative interface editing and polishing. Its card includes a screenshot-to-HTML inference example.
+- [UIShift-7B-2K](https://awesomecua.com/zh/resources/url-0dcc389cc2b1b15fb081/) — Date not recorded
+  UIShift-7B, the initial GUI-Shift model: a Qwen2.5-VL model trained with GRPO on 2K AndroidControl samples to infer which action led from one screenshot to the next.
+- [VeriOS-Agent-7B](https://awesomecua.com/zh/resources/url-0b0a7a841d65715d60b1/) — Date not recorded
+  A 7B OS agent model that carries out GUI actions under normal conditions and asks a person for input when it detects an untrustworthy scenario, trained in three stages with SFT and GRPO.
+- [webarena-world-model-rlvr](https://awesomecua.com/zh/resources/url-e02a165e76cd7c43e2ca/) — Date not recorded
+  A language world model for web page state prediction on WebArena, post-trained with RLVR from an SFT checkpoint and used for model predictive control of web agents.
 - [WebRL Llama 3.1 8B](https://awesomecua.com/zh/resources/url-a6ee20fea67438d91e06/) — Date not recorded
   A WebRL browser-policy checkpoint for performing actions in the five website environments of WebArena.
 - [WebRL outcome reward model 8B](https://awesomecua.com/zh/resources/url-d1e85aeb6d96859c109d/) — Date not recorded

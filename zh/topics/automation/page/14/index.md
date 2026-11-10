@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/14/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [gnome-wayland-computer-use](https://awesomecua.com/zh/resources/github-ryanraposo-gnome-wayland-computer-use/)
+- [Gobii Platform](https://awesomecua.com/zh/resources/github-gobii-ai-gobii-platform/)
 - [Goby](https://awesomecua.com/zh/resources/github-juguang-goby/)
 - [Godot Editor MCP](https://awesomecua.com/zh/resources/github-hybridindie-godot-mcp/)
 - [godzilaa browser-agent Extension](https://awesomecua.com/zh/resources/github-godzilaa-browser-agent/)
@@ -12,6 +14,7 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/14/
 - [gomoufox](https://awesomecua.com/zh/resources/github-ehmo-gomoufox/)
 - [GoSosmed Mobile Agent](https://awesomecua.com/zh/resources/github-dedy45-gososmed-mobile-agent/)
 - [governed-computer-use](https://awesomecua.com/zh/resources/github-mkhan49-governed-computer-use/)
+- [GPTVoiceTasker](https://awesomecua.com/zh/resources/github-vuminhduc796-gptvoicetasker/)
 - [Grasp MCP](https://awesomecua.com/zh/resources/github-jamshed7470-grasp-mcp/)
 - [gridhand](https://awesomecua.com/zh/resources/github-zachrouan-gridhand/)
 - [grokbot-cdp](https://awesomecua.com/zh/resources/github-daizedong-grokbot-cdp/)
@@ -60,7 +63,4 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/14/
 - [Inner Coordinates](https://awesomecua.com/zh/resources/github-xiaochu-1208-inner-coordinates/)
 - [Intelligence Indeed](https://awesomecua.com/zh/resources/github-intelligence-indeed-intelligence-indeed/)
 - [Intent Browser Runtime (ibr)](https://awesomecua.com/zh/resources/github-hop-top-ibr/)
-- [Interpreter Workstation](https://awesomecua.com/zh/resources/github-openinterpreter-interpreter-workstation/)
-- [InTheRainOf Mobile Agent (随身Agent)](https://awesomecua.com/zh/resources/github-intherainof-mobile-agent/)
-- [invisible_core](https://awesomecua.com/zh/resources/github-feder-cr-invisible-core/)
-- [invisible_dots](https://awesomecua.com/zh/resources/github-feder-cr-invisible-dots/)
+- [Interception](https://awesomecua.com/zh/resources/github-oblitum-interception/)

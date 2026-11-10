@@ -493,10 +493,14 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   A Core ML conversion of CUA-S1-FORMS scores candidate actions for forms from task and element text. It provides portable and compiled packages for Apple devices.
 - [cua-s1-nano-0.1](https://awesomecua.com/resources/url-3cdd5263b3b46a5e2003/) — Date not recorded
   A small computer-use classifier that scores predefined GUI element-action options from accessibility text or screenshot crops in one parallel pass.
+- [dart-gui-7b](https://awesomecua.com/resources/url-689fea75118e3113476b/) — Date not recorded
+  GUI agent checkpoint released with DART, a decoupled asynchronous RL framework that separates environments, rollout, data management and training; the paper reports 42.13% task success on OSWorld.
 - [DeskMind Eyes](https://awesomecua.com/resources/github-deskmind-ai-eyes/) — Date not recorded
   DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
 - [DiMo-GUI](https://awesomecua.com/resources/github-vivo-dimo-gui/) — Date not recorded
   GUI grounding research using modality-aware visual reasoning and test-time scaling.
+- [GPT-6 Astra](https://awesomecua.com/resources/url-039a4975e102cb538c36/) — Date not recorded
+  General OpenAI model whose launch post covers computer use and browsing; OpenAI reports 72.6% on OSWorld 2.0 at about 40 minutes per task, plus ScreenSpot-Pro and Mind2Web results.
 - [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/) — Date not recorded
   GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.
 - [Holo4 27B FP8](https://awesomecua.com/resources/url-354c5b46fd423f9b1b85/) — Date not recorded
@@ -525,6 +529,10 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Laya-Android is a compact 322M on-device decision model for Android GUI action selection.
 - [laya-browser](https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/) — Date not recorded
   Non-generative browser-agent policy fine-tuned from the 322M laya encoder: one forward pass over page text and the interactive-element list picks the next operation and its target element.
+- [lora_qformer_test_V4-700_merged](https://awesomecua.com/resources/url-8a5201470d27334977fa/) — Date not recorded
+  Qwen2.5-VL-7B-Instruct merged with the CoMEM memory module, which compresses past GUI trajectories into 8 continuous embeddings through a LoRA-tuned Q-Former, for web agent tasks.
+- [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/resources/url-b144605ae24674ffb917/) — Date not recorded
+  UI-TARS-V1.5-7B checkpoint with CoMEM continuous memory merged in, where a LoRA-tuned Q-Former compresses retrieved GUI trajectories into fixed-length embeddings for the web agent.
 - [Mano-P](https://awesomecua.com/resources/github-mininglamp-ai-mano-p/) — Date not recorded
   Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.
 - [Milo-Pointer](https://awesomecua.com/resources/github-chayworks-milo-pointer/) — Date not recorded
@@ -541,6 +549,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Decision models at 1.7B, 4B and 8B that answer typed questions with calibrated probabilities in one pass; trained on browser-agent steps and general decision data, they pick a web agent's next operation and element.
 - [OpenJev-4B](https://awesomecua.com/resources/url-e592a1ff8bfcafcc7061/) — Date not recorded
   A local decision model that scores typed options for browser-agent operations and target elements. The release includes weights and reports browser-step evaluations.
+- [OpenPhone_model](https://awesomecua.com/resources/url-836de49b2bbd47d3a6a5/) — Date not recorded
+  OpenPhone-3B weights, a 3B on-device model for Android GUI tasks trained with supervised fine-tuning on synthetic reasoning data and then GRPO-style reinforcement learning.
 - [PTA-1](https://awesomecua.com/resources/url-303e1926b8ff4f60e006/) — Date not recorded
   AskUI's Florence-2-base grounding model of about 270M parameters that returns a bounding box for a described element in a screenshot, intended for low-latency local computer and phone automation.
 - [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/resources/url-72f3737bb5194fd64852/) — Date not recorded

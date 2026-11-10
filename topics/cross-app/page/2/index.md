@@ -20,6 +20,7 @@ Full list: https://awesomecua.com/topics/cross-app/index.md
 - [AndroidGen-Llama-3-70B](https://awesomecua.com/resources/url-75e93dff049c046c586e/)
 - [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/resources/url-430e47e1ca9f3b2a302f/)
 - [MiniMax M3](https://awesomecua.com/resources/url-50089323623ee780a426/)
+- [Muse Spark 1.1](https://awesomecua.com/resources/url-f8a956094e526a92caf3/)
 - [AppCopilot](https://awesomecua.com/resources/github-openbmb-appcopilot/)
 - [Aries AI](https://awesomecua.com/resources/github-zg0704666-aries-ai/)
 - [ARTEMIS](https://awesomecua.com/resources/github-google-artemis/)

@@ -21,7 +21,7 @@
 - 评测方式：The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
 - 侧重：multi-step Android tasks, cross-app workflows and instruction constraints
 - 观测：UI hierarchy text, screenshots, combined text/image observations
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 

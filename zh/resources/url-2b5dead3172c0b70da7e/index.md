@@ -28,7 +28,7 @@ Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1
 
 ### 数量记录
 
-- > 41,000 video recordings — VideoCAD published collection（来源报告；来源：https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK）
+- > 41,000 段视频录像 — VideoCAD published collection（来源报告；来源：https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK）
 
 The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape.
 

@@ -2,7 +2,7 @@
 
 工具是智能体或开发者调用的实用程序，用来控制、观察或检查界面，包括 MCP 服务器、浏览器与设备控制器、屏幕解析器和录制工具。
 
-> AwesomeCUA 目录收录 1,077 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
+> AwesomeCUA 目录收录 1,084 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://awesomecua.com/categories/tool/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://aw
 
 ### 这些工具覆盖哪些平台？
 
-在 1,077 条已审核工具中，网页 645 条、桌面 556 条、跨平台 175 条、手机 78 条；13 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 1,084 条已审核工具中，网页 647 条、桌面 557 条、跨平台 175 条、手机 82 条；13 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些工具有对应的论文？
 
-1,077 条中有 18 条链接到提出或说明它的 arXiv 论文，例如 [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)、[activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) 和 [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/)。
+1,084 条中有 18 条链接到提出或说明它的 arXiv 论文，例如 [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)、[activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) 和 [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/)。
 
 ### 工具使用哪些许可证？
 
-最常见的声明许可证是 MIT（737 条）、Apache-2.0（120 条）和 AGPL-3.0（22 条）。1,077 条中有 168 条未记录声明的许可证。
+最常见的声明许可证是 MIT（737 条）、Apache-2.0（122 条）和 AGPL-3.0（22 条）。1,084 条中有 172 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -2747,6 +2747,39 @@ The README documents hosted and self-hosted connections. Most tools require a Fi
 
 ---
 
+## firefox_antidetect_patch
+
+基于 Mozilla 发布标签的 Firefox 补丁系列，每项功能一个文件夹，在引擎层加入指纹、网络与 Juggler 自动化补丁，用于构建 invisible_playwright 所用的反检测 Firefox。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-firefox-antidetect-patch/
+- 原始来源：https://github.com/feder-cr/firefox_antidetect_patch
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、鲁棒性
+- 证据核查日期：2026-11-10T03:00:58Z
+- ID：github:feder-cr/firefox_antidetect_patch
+
+### 范围记录
+
+The repository holds the patch folders (automation, fingerprint, network, platform), a SERIES file giving their order, UPSTREAM.json with the Mozilla tag and build tooling under tools/. Its maintainer guide, AGENTS.md, is in Italian.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/feder-cr/firefox_antidetect_patch/10f5fd8cf1aa0eacf2ca438416d77d5f1b0af563/AGENTS.md（获取于 2026-11-10T03:00:58Z；SHA-256：10140edddc4040efb09c2b20b580f42188a2621e97dc8b3597cfad141dd51ccc）
+
+---
+
 ## Ghost OS
 
 Ghost OS 是原生 macOS MCP 服务器，结合基于无障碍树的动作执行、Vision OCR 回退机制和可复用的工作流配方。
@@ -3565,6 +3598,40 @@ RobotGo 是原生 Go 跨平台桌面自动化库，可控制鼠标、键盘，�
 
 - https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/README.md（获取于 2026-11-04T14:02:37Z；SHA-256：9cf3d8cac0c4d059a9f1d4a8fa4890efb00523da90ecba9b9f80e679079db291）
 - https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/LICENSE（获取于 2026-11-04T14:07:47Z；SHA-256：b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1）
+
+---
+
+## serve-sim
+
+一个命令行工具，通过 MJPEG 和 WebSocket 将已启动的 iOS 模拟器串流到浏览器预览页，并提供命令和 Agent Skill，让编程智能体发送点击、手势、文本输入和按键操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-evanbacon-serve-sim/
+- 原始来源：https://github.com/EvanBacon/serve-sim
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS
+- 主题：手机操作、沙箱、工具集成
+- 证据核查日期：2026-11-10T03:00:58Z
+- ID：github:evanbacon/serve-sim
+
+### 范围记录
+
+A Swift helper captures the simulator framebuffer via simctl io; the CLI also rotates the device, records MP4 video, injects camera feeds and forwards simulator logs. It requires macOS with Xcode command line tools, Node.js 20 or newer and Apple Silicon. Declared license: Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-evanbacon-serve-sim/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/EvanBacon/serve-sim/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/EvanBacon/serve-sim/04903042c8fdb5c54e5eacb07781f307d748e166/README.md（获取于 2026-11-10T03:00:58Z；SHA-256：efcfc6b89e09c3e10d32053a8d99eff5e727c0426aa9289b8adda3677eff5721）
+- https://raw.githubusercontent.com/EvanBacon/serve-sim/HEAD/LICENSE（获取于 2026-11-10T02:08:09Z；SHA-256：9024cdf56dfe7e66523698a9f63d3a0061eb15f43bd5ea8e3833a56017ae37fd）
 
 ---
 
@@ -6654,6 +6721,39 @@ The README documents Playwright and headless Chromium on Linux, JSON action scen
 
 ---
 
+## droidbotApp
+
+DroidBot 测试输入生成器的 Android 配套应用，注册一个输入法服务；DroidBot 通过 adb 发送广播意图传递文本，由该服务将文本输入到当前获得焦点的文本框。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ylimit-droidbotapp/
+- 原始来源：https://github.com/ylimit/droidbotApp
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:ylimit/droidbotapp
+
+### 范围记录
+
+The app contains DroidBotIME, a settings activity and a commented-out patch for the PrivacyStreams accessibility service; building it requires importing the PrivacyStreams Android SDK. DroidBot's droidbot_ime.py adapter enables the service with adb ime commands.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ylimit-droidbotapp/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/yuanchun-li/droidbotApp/3ddafe86be3dfb31085c070b5e3b0e8dc197ba78/README.md（获取于 2026-11-10T03:01:00Z；SHA-256：a4d4d32c3d59a534fadc1d5a849dede17777f5efe5221559166afab90257f2f2）
+
+---
+
 ## Droidrun iOS Portal
 
 已归档的 iOS 自动化工具，通过 XCTest HTTP 服务器提供屏幕截图、无障碍树、应用启动、手势和文本输入接口。
@@ -7707,6 +7807,39 @@ The source says the companion runs on macOS and the client can run elsewhere. It
 
 ---
 
+## Interception
+
+一个 Windows 输入驱动及 C 库，可按设备捕获、过滤并注入键盘和鼠标输入，附带示例程序和命令行安装程序。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-oblitum-interception/
+- 原始来源：https://github.com/oblitum/Interception
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows
+- 主题：自动化
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:oblitum/interception
+
+### 范围记录
+
+The library API in interception.h provides contexts, per-device filters and precedence, wait, receive and send of strokes, and hardware ID queries. Building uses the Windows Driver Kit 7.1.0 and installing the driver needs administrator rights. The library is LGPL for non-commercial use, with separate commercial licenses.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-oblitum-interception/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/oblitum/Interception/39eecbbc46a52e0402f783b872ef62b0254a896a/README.md（获取于 2026-11-10T03:01:00Z；SHA-256：783d15134d825ecde67a3cc36bede9a95efbc601c2ec91c49968004e771f4869）
+
+---
+
 ## invisible_playwright_mcp
 
 MCP 服务器及本地网页界面，让 LLM 通过反检测 Firefox 版本操作浏览器，支持模拟鼠标移动与按键输入、预设浏览器身份、可选代理和持久化配置文件。
@@ -8430,6 +8563,39 @@ The publisher describes this as a Markdown harness.
 
 - https://raw.githubusercontent.com/droidrun/mobile-harness/HEAD/README.md（获取于 2026-10-16T10:42:12Z；SHA-256：0d05433c730e74f13be753fa6156737f797a69d61d8793e47f5a56b3a63ee790）
 - https://raw.githubusercontent.com/droidrun/mobile-harness/HEAD/LICENSE（获取于 2026-10-16T10:48:41Z；SHA-256：de215a2914d50cb87fcab9e19efc856b9e600a68eefec5c63e284dae34977133）
+
+---
+
+## Mobile JSON Wire Protocol Specification
+
+一份用于自动化原生与混合移动应用的 WebDriver 扩展草案，定义了会话、能力参数、定位策略、触摸手势、屏幕方向、旋转、网络模式和 WebView 上下文。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-seleniumhq-mobile-spec/
+- 原始来源：https://github.com/SeleniumHQ/mobile-spec
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android、iOS
+- 主题：自动化、手机操作、历史
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:seleniumhq/mobile-spec
+
+### 范围记录
+
+The repository holds spec-draft.md, Python WebDriver tests for finding elements in webviews, and the ApiDemos sample app. The draft extends the Selenium JSON Wire Protocol, names appium, ios-driver and selendroid as automation tools, and records that its details were worked out at meetings in August 2013.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-seleniumhq-mobile-spec/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/SeleniumHQ/mobile-spec/81201df03cb76464afe8df17c4c203093793ea6e/spec-draft.md（获取于 2026-11-10T03:01:00Z；SHA-256：965dd271247fb5fad917c29cef9e08e345776ad9e0a2eb9a30f215459cea534e）
 
 ---
 
@@ -9450,6 +9616,40 @@ The source also describes screenshot OCR, dictation, and other productivity util
 ### 一手证据
 
 - https://raw.githubusercontent.com/andelf/picc/HEAD/README.md（获取于 2026-11-09T21:09:38Z；SHA-256：abeddb321abd03f701e06d3f89f22aaa89e55d9359989907365253be863baea4）
+
+---
+
+## Pix to App
+
+一个 Python 流程，可将移动应用截图转换为 Android 项目：用 Canny 边缘轮廓构建视图层级，用 Tesseract OCR 识别文本，并生成布局、样式、颜色和字符串 XML。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-soumikmohianuta-pixtoapp/
+- 原始来源：https://github.com/soumikmohianuta/pixtoapp
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：界面理解、界面设计
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:soumikmohianuta/pixtoapp
+
+### 范围记录
+
+Dependencies are Tesseract OCR, OpenCV, stringtemplate3 and ANTLR, plus a JDK and the Android SDK for the template project; the setup instructions target Windows. The input image path is set in screenshotProcessor.py, which writes activity_main.xml and resource files into the generated project.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-soumikmohianuta-pixtoapp/record.json
+
+### 许可证信息
+
+- 代码：BSD-3-Clause — https://raw.githubusercontent.com/soumikmohianuta/pixtoapp/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/soumikmohianuta/pixtoapp/f103a580e015ef7779998f14c9533a238a4bf1d1/README.md（获取于 2026-11-10T03:01:00Z；SHA-256：41f05c7fb074c4c6f0a1782bdcc82b1517992457cbc326a7476bae8cfde20253）
+- https://raw.githubusercontent.com/soumikmohianuta/pixtoapp/HEAD/LICENSE（获取于 2026-11-10T02:08:20Z；SHA-256：5151d031acfca7100a2cd4108525507093c15c0d52a542e03dd2783ab06d533a）
 
 ---
 
@@ -10553,6 +10753,36 @@ The README links to an online demo and documentation and shows an MIT license ba
 
 ---
 
+## Tarsier
+
+网页智能体感知工具，为可交互元素标注可供 LLM 操作的类型化 ID，并用 OCR 将网页截图转为保留空白布局的文本，供无视觉能力的模型使用。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-reworkd-tarsier/
+- 原始来源：https://github.com/reworkd/tarsier
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：界面理解
+- 证据核查日期：2026-10-16T06:36:04Z
+- ID：github:reworkd/tarsier
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-reworkd-tarsier/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：2a313a5a1c433c0609067c6d875d5ff69493e8792d2173e458eb5db8bf232977）
+- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE（获取于 2026-10-16T06:42:06Z；SHA-256：f4ff2ba0f16e8abb7087071651c217ced6421e224313755c5d88433e324f19a1）
+
+---
+
 ## TeachReplay — OpenMausBot Integration
 
 这个 OpenMausBot 集成添加了一个面板，可录制计算机操作演示、编译可复用技能，并用新输入重放技能。
@@ -10777,40 +11007,6 @@ Model Context Protocol 服务器，向实时网页注入交互式 Set-of-Mark �
 
 ---
 
-## UI Defect Mocker
-
-利用移动端截图和 Android 布局元数据合成视觉 UI 缺陷，支持 GUI 测试实验。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-zju-aces-ise-uidefectmocker/
-- 原始来源：https://github.com/ZJU-ACES-ISE/UIDefectMocker
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：Android
-- 主题：数据生成、评测、界面理解
-- 证据核查日期：2026-10-16T13:17:23Z
-- ID：github:zju-aces-ise/uidefectmocker
-
-### 范围记录
-
-This entry describes the released screenshot-defect tool, separately from the under-construction ChatUITest project hub.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/README.md（获取于 2026-10-16T13:17:23Z；SHA-256：fc3009b355e46549c5128c933bb333aa37b1db5ac8ea8f2d0f300848d8a62200）
-- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE（获取于 2026-10-16T13:29:25Z；SHA-256：2b75b184f28b204d8e2c7b45a341e4583202cf4c9da8964f108770929d1193ba）
-
----
-
 ## uiautomator2
 
 uiautomator2 是一个 Python 库，通过设备端的 UiAutomator 服务控制 Android 设备，包括启动应用和操作界面元素。
@@ -11001,6 +11197,40 @@ The release includes SKILL.md and task reference files. It requires a running Vi
 ### 一手证据
 
 - https://raw.githubusercontent.com/vibesurf-ai/claw-surf/HEAD/README.md（获取于 2026-11-09T19:57:08Z；SHA-256：e07737cb20b74707903cb83edab8577c92093ad9fe37de5f3ebd5413ae098467）
+
+---
+
+## Voqal Chrome integration
+
+将 Voqal 语音智能体通过本地 WebSocket 连接到浏览器的 Chrome 扩展，上报已打开的标签页，并执行 Voqal 下发的命令：打开网址、新建或切换标签页，以及在当前页面中执行 JavaScript。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-voqal-chrome-integration/
+- 原始来源：https://github.com/voqal/chrome-integration
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、工具集成
+- 证据核查日期：2026-11-10T03:00:59Z
+- ID：github:voqal/chrome-integration
+
+### 范围记录
+
+The repository holds a Manifest V3 extension (manifest.json, service-worker.js, scripts and a sandbox page) and a LICENSE file. It talks to a locally running Voqal agent on port 22171.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-voqal-chrome-integration/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/voqal/chrome-integration/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/voqal/chrome-integration/7b306c597670cb823bc4ac346790cf76c4917e35/manifest.json（获取于 2026-11-10T03:00:59Z；SHA-256：cc468fc230b1aa760eb051eca383b9b7899cfa925135f7644e4384e4f041838e）
+- https://raw.githubusercontent.com/voqal/chrome-integration/HEAD/LICENSE（获取于 2026-11-10T02:08:10Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 
@@ -30528,36 +30758,6 @@ Model Context Protocol 服务器，用于整理、组织和操作多个配置文
 
 ---
 
-## Tarsier
-
-网页智能体感知工具，为可交互元素标注可供 LLM 操作的类型化 ID，并用 OCR 将网页截图转为保留空白布局的文本，供无视觉能力的模型使用。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-reworkd-tarsier/
-- 原始来源：https://github.com/reworkd/tarsier
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：界面理解
-- 证据核查日期：2026-10-16T06:36:04Z
-- ID：github:reworkd/tarsier
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-reworkd-tarsier/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：2a313a5a1c433c0609067c6d875d5ff69493e8792d2173e458eb5db8bf232977）
-- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE（获取于 2026-10-16T06:42:06Z；SHA-256：f4ff2ba0f16e8abb7087071651c217ced6421e224313755c5d88433e324f19a1）
-
----
-
 ## Tarsier-AI
 
 Tarsier-AI 将桌面和网页无障碍树转换为可移植的语义快照和行为确定的动作原语，供 LLM 智能体使用。
@@ -30944,6 +31144,40 @@ TinyFish 官方 Model Context Protocol 服务器，提供网页搜索、页面�
 
 - https://raw.githubusercontent.com/developerz-ai/ui-debugger-mcp/HEAD/README.md（获取于 2026-11-04T16:30:14Z；SHA-256：5f4c0afccb34ec41abefc7105330d9882737a09aab0b56690bbf6cf813b35794）
 - https://raw.githubusercontent.com/developerz-ai/ui-debugger-mcp/HEAD/LICENSE（获取于 2026-11-04T16:35:32Z；SHA-256：ff4c42b5672010597a69cb265bf319bd95d75538dfc52eeba13f8ebd8c9f7ed7）
+
+---
+
+## UI Defect Mocker
+
+利用移动端截图和 Android 布局元数据合成视觉 UI 缺陷，支持 GUI 测试实验。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-zju-aces-ise-uidefectmocker/
+- 原始来源：https://github.com/ZJU-ACES-ISE/UIDefectMocker
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：数据生成、评测、界面理解
+- 证据核查日期：2026-10-16T13:17:23Z
+- ID：github:zju-aces-ise/uidefectmocker
+
+### 范围记录
+
+This entry describes the released screenshot-defect tool, separately from the under-construction ChatUITest project hub.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/README.md（获取于 2026-10-16T13:17:23Z；SHA-256：fc3009b355e46549c5128c933bb333aa37b1db5ac8ea8f2d0f300848d8a62200）
+- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE（获取于 2026-10-16T13:29:25Z；SHA-256：2b75b184f28b204d8e2c7b45a341e4583202cf4c9da8964f108770929d1193ba）
 
 ---
 

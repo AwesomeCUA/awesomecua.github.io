@@ -21,7 +21,7 @@
 - 评测方式：The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
 - 侧重：desktop GUI grounding, infeasible-target refusal
 - 观测：screenshot, instruction
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 

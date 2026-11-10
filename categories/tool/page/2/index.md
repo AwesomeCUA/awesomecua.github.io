@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/categories/tool/page/2/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [Open Browser Use](https://awesomecua.com/resources/github-ifuryst-open-browser-use/)
 - [openadapt-grounding](https://awesomecua.com/resources/github-openadaptai-openadapt-grounding/)
 - [openadapt-privacy](https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/)
 - [pdlgen](https://awesomecua.com/resources/github-chromedp-pdlgen/)
@@ -12,6 +13,7 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [real-browser-mcp](https://awesomecua.com/resources/github-ofershap-real-browser-mcp/)
 - [rebrowser-patches](https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/)
 - [RobotGo](https://awesomecua.com/resources/github-go-vgo-robotgo/)
+- [serve-sim](https://awesomecua.com/resources/github-evanbacon-serve-sim/)
 - [sh7vansh Chrome Bridge](https://awesomecua.com/resources/github-sh7vansh-chrome-bridge/)
 - [Synthetic GUI Samples Plugin for FiftyOne](https://awesomecua.com/resources/github-harpreetsahota204-synthetic-gui-samples-plugins/)
 - [termcast](https://awesomecua.com/resources/github-chromedp-termcast/)
@@ -102,5 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [CraftDriver](https://awesomecua.com/resources/github-dtopuzov-craftdriver/)
 - [crowd-test-mcp](https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/)
 - [cursory-js](https://awesomecua.com/resources/github-jwriter20-cursory-js/)
-- [Daedalus for Chrome](https://awesomecua.com/resources/github-anchor-inference-daedalus-chrome-extension/)
-- [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/)

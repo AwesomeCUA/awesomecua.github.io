@@ -28,10 +28,10 @@ The main branch holds the v2 release, which the card describes as using leaf-ele
 
 ### 数量记录
 
-- 1,447,100 screenshots — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
-- 25,575,213 UI element annotations — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
-- 55 UI element classes — ScreenParse v2 label set（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
-- 1,448 Parquet shards — Hub manifest at revision bc0113f9（计算得出；来源：https://huggingface.co/api/datasets/docling-project/screenparse）
+- 1,447,100 张截图 — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
+- 25,575,213 条 UI 元素标注 — ScreenParse v2 train split (main branch)（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
+- 55 个 UI 元素类别 — ScreenParse v2 label set（来源报告；来源：https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md）
+- 1,448 个 Parquet 分片 — Hub manifest at revision bc0113f9（计算得出）（来源：https://huggingface.co/api/datasets/docling-project/screenparse）
 
 Screenshots, element annotations, classes and shards are different units and are counted separately. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.
 

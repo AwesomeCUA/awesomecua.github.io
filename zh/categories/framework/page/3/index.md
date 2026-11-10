@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [anybridge](https://awesomecua.com/zh/resources/github-justvugg-anybridge/)：从实时浏览器会话中捕获网站已认证的网络调用，并将其作为可供任何 AI 智能体调用的工具。
+- [AnyBrowser](https://awesomecua.com/zh/resources/github-christopher-inegbedion-anybrowser/)：可插拔的浏览器自动化与网页智能体运行时，支持替换 LLM 提供方和浏览器引擎。
+- [AnyTool](https://awesomecua.com/zh/resources/github-hkuds-anytool/)：AnyTool 是面向 AI 智能体的通用工具使用层，支持 MCP、GUI、网页和 shell 工具，并具备分层检索与自我反思能力。
 - [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/zh/resources/github-19pine-ai-aoi/)：AOI 为计算机使用智能体提供自适应视频和音频感知层，并配有动态 GUI 评测基准 DynaCU-Bench。
 - [aos (Agent Operating System CLI)](https://awesomecua.com/zh/resources/github-muthuishere-aos/)：面向主机的统一 CLI 层，使 AI 智能体能够操控桌面应用和终端，而不抢占用户焦点。
 - [App Use](https://awesomecua.com/zh/resources/github-erickjtorres-app-use/)：App Use 是 Python 框架，通过 Appium 和无障碍树检查，将 LLM 智能体连接到 Android 和 iOS 移动端应用。
@@ -101,6 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 - [DeskCanvas](https://awesomecua.com/zh/resources/github-sorry123luck-desk-canvas/)：DeskCanvas 将实时 Windows 应用窗口转换为结构化语义状态，并为 AI 智能体提供受保护的动作执行能力。
 - [DeskCtl (Desktop Control Engine)](https://awesomecua.com/zh/resources/github-mini-mind-deskctl/)：面向 GUI 智能体的桌面控制引擎，主要使用 UIA 和 AT-SPI 无障碍树，并在必要时回退到视觉方式。
 - [DeskForge](https://awesomecua.com/zh/resources/github-saidgurbuz-deskforge/)：DeskForge 从桌面执行环境提取密集的步骤级监督信号，用于训练和验证计算机使用智能体。
-- [Desktop Action Agent](https://awesomecua.com/zh/resources/github-dax0056-desktop-action-agent/)：在沙箱中运行的本地计算机自动化智能体参考架构，具备窗口检测和动作验证功能。
-- [deskwork](https://awesomecua.com/zh/resources/github-ashnkumar-deskwork/)：deskwork 通过检索领域文档增强 Claude Computer Use，以执行基于合规要求的桌面和浏览器工作流。
-- [Deterministic Computer-Use Automation](https://awesomecua.com/zh/resources/github-joncody-computer-use-automation/)：两阶段计算机使用自动化框架，将 LLM 驱动的 UI 探索编译为确定性的回放脚本。

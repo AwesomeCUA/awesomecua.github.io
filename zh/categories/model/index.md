@@ -2,7 +2,7 @@
 
 计算机使用模型是读取屏幕、输出目标坐标或动作的视觉语言模型和 GUI 专用检查点。条目包括模型系列和已发布的检查点，其中许多托管在 Hugging Face。
 
-> AwesomeCUA 目录收录 400 条已审核模型。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
+> AwesomeCUA 目录收录 454 条已审核模型。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/model/ · [English](https://awesomecua.com/categories/model/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/model/ · [English](https://a
 
 ### 这些模型覆盖哪些平台？
 
-在 400 条已审核模型中，桌面 158 条、网页 155 条、跨平台 138 条、手机 86 条；71 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 454 条已审核模型中，网页 177 条、桌面 174 条、跨平台 143 条、手机 97 条；86 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 有多少模型托管在 Hugging Face？
 
-400 条模型中有 307 条链接到 Hugging Face 模型仓库，例如 [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/)、[Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) 和 [Holo4 35B-A3B BF16](https://awesomecua.com/resources/url-16083a0225a60882c704/)。
+454 条模型中有 356 条链接到 Hugging Face 模型仓库，例如 [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/)、[Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) 和 [Holo4 35B-A3B BF16](https://awesomecua.com/resources/url-16083a0225a60882c704/)。
 
 ### 模型使用哪些许可证？
 
-最常见的声明许可证是 Apache-2.0（218 条）、MIT（76 条）和标为 other 的许可证（31 条）。400 条中有 47 条未记录声明的许可证。
+最常见的声明许可证是 Apache-2.0（241 条）、MIT（80 条）和标为 other 的许可证（31 条）。454 条中有 73 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -2140,6 +2140,40 @@ Fara 是 Microsoft 的浏览器操作智能体模型，通过截图预测点击�
 
 ---
 
+## Gelato-UI-TARS-1.5-7B
+
+以 UI-TARS-1.5-7B 为起点、在 Click-100k 数据集上用强化学习训练 255 步得到的 Gelato 方案基线模型，用于 GUI 元素定位。作者报告其在 ScreenSpot-Pro 和 OS-World-G 上优于 GTA1-7B-2507。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-7617bb21031bc5fb6574/
+- 原始来源：https://huggingface.co/mlfoundations/Gelato-UI-TARS-1.5-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:08Z
+- ID：url:7617bb21031bc5fb6574
+
+### 范围记录
+
+The repository holds BF16 safetensors weights in four shards (8B parameters per the Hub page) with a Qwen2.5-VL configuration, tokenizer and chat template, and has no model card. The Gelato GitHub repository documents the model and holds the training configurations and evaluation code.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-7617bb21031bc5fb6574/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/mlfoundations/Gelato-UI-TARS-1.5-7B（获取于 2026-11-10T03:01:08Z；SHA-256：a592b2687f872d401ac2aba5c93afbd743d4af814f783253db0c0881f21ad194）
+- https://huggingface.co/api/models/mlfoundations/Gelato-UI-TARS-1.5-7B（获取于 2026-11-10T03:01:08Z；SHA-256：a592b2687f872d401ac2aba5c93afbd743d4af814f783253db0c0881f21ad194）
+
+---
+
 ## GroundNext-7B-V0
 
 基于 Qwen2.5-VL-7B-Instruct 微调的 GroundNext GUI 定位检查点，先在 GroundCUA 桌面数据上进行 SFT，再进行 RLOO 训练；将截图和指令映射为 computer_use 点击调用。
@@ -3552,6 +3586,40 @@ The card identifies GLM-4.1V-9B-Base as the backbone and gives a Transformers in
 
 ---
 
+## ACT-SOP
+
+MobileAgent 发布的 Llama-2-7b LoRA 适配器。MobileAgent 是一个移动设备控制智能体，引入标准作业程序（SOP）上下文，在 AitW 屏幕上预测动作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-ab4587d17c4f541bb94c/
+- 原始来源：https://huggingface.co/tineding/ACT-SOP
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、动作预测、工作流
+- 证据核查日期：2026-11-10T03:01:13Z
+- ID：url:ab4587d17c4f541bb94c
+
+### 范围记录
+
+The repository holds adapter_model.bin and adapter_config.json plus optimizer and RNG state files. The README fine-tunes with llama-recipes using --peft_method lora and evaluates with code/infer_vllm.py, which reports a task complete score.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-ab4587d17c4f541bb94c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/tineding/ACT-SOP（获取于 2026-11-10T03:01:13Z；SHA-256：c491fa3f152648fc21b5db1f1062bbda4d47591f337a6ee33878f916cc08472a）
+- https://huggingface.co/api/models/tineding/ACT-SOP（获取于 2026-11-10T03:01:13Z；SHA-256：c491fa3f152648fc21b5db1f1062bbda4d47591f337a6ee33878f916cc08472a）
+
+---
+
 ## AgentCPM-GUI
 
 基于 MiniCPM-V 的 8B 端侧智能手机智能体，根据截图操作中文和英文应用，采用强化微调和紧凑的 JSON 操作空间训练。
@@ -3651,6 +3719,40 @@ The repository contains sharded safetensors weights and tokenizer files. The car
 
 ---
 
+## Aguvis-7B-720P
+
+Aguvis 发布的 Aguvis-7B-720P 检查点：仅依赖视觉的 GUI 智能体模型，先训练定位能力，再训练规划与推理，基于截图在网页、桌面和移动端执行操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-ac62da857db91f68376b/
+- 原始来源：https://huggingface.co/xlangai/Aguvis-7B-720P
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、Android、跨平台
+- 主题：GUI 定位、规划、动作预测
+- 证据核查日期：2026-11-10T03:01:13Z
+- ID：url:ac62da857db91f68376b
+
+### 范围记录
+
+The repository holds four safetensors shards in Qwen2-VL format with a chat template and has no model card. The README runs it through scripts/inference.sh with an image, instruction and optional previous actions; the Hub page reports a 22.9 overall ScreenSpot-Pro score.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-ac62da857db91f68376b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/xlangai/Aguvis-7B-720P（获取于 2026-11-10T03:01:13Z；SHA-256：80333126ccdbbe8d3d773d8b00c1d477b25c568ee91ecf61ae362d2ef43edfad）
+- https://huggingface.co/api/models/xlangai/Aguvis-7B-720P（获取于 2026-11-10T03:01:13Z；SHA-256：80333126ccdbbe8d3d773d8b00c1d477b25c568ee91ecf61ae362d2ef43edfad）
+
+---
+
 ## AGW-35B
 
 一个基于截图的 GUI 动作模型，使用 79,266 条合成交互样本进行微调。它根据任务、当前屏幕和近期操作预测结构化的计算机操作调用。
@@ -3682,6 +3784,74 @@ The repository lists BF16 safetensors weight shards and a chat template. The car
 
 - https://huggingface.co/api/models/YangC777/AGW-35B（获取于 2026-11-09T21:08:59Z；SHA-256：7f10fe3f7b50d83cf556574869f21b52dc4ed68f11c229c07cb8900ec6384c0e）
 - https://huggingface.co/api/models/YangC777/AGW-35B（获取于 2026-11-09T21:08:59Z；SHA-256：7f10fe3f7b50d83cf556574869f21b52dc4ed68f11c229c07cb8900ec6384c0e）
+
+---
+
+## aitw-general-digiq-agent
+
+面向 AitW General 任务集的 Digi-Q 智能体检查点：一个 AutoUI 设备控制策略，借助学习得到的 VLM Q 值函数对候选动作重排序，以离线方式训练。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-0e5617031e625a75cfc7/
+- 原始来源：https://huggingface.co/JackBAI/aitw-general-digiq-agent
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：强化学习、手机操作、奖励模型
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:0e5617031e625a75cfc7
+
+### 范围记录
+
+Three PyTorch weight files and random-state files, about 8G in total, released for evaluation without optimizer states. The README reports a test-set score of 59.4; evaluation needs the Android emulator setup from the DigiRL repository.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-0e5617031e625a75cfc7/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/JackBAI/aitw-general-digiq-agent（获取于 2026-11-10T03:01:01Z；SHA-256：a2160b0ebc29a109bca46d62586814fc6bfb98eb6ae292fe42c11dd203ee40a6）
+- https://huggingface.co/api/models/JackBAI/aitw-general-digiq-agent（获取于 2026-11-10T03:01:01Z；SHA-256：a2160b0ebc29a109bca46d62586814fc6bfb98eb6ae292fe42c11dd203ee40a6）
+
+---
+
+## aitw-webshop-digiq-agent
+
+Digi-Q 设备控制智能体权重，在 AitW Web Shopping 任务集上训练，基于 AutoUI 的执行器借助 VLM Q 值函数离线学习；仓库报告其测试集得分为 70.8。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-5281c8befef1059590f3/
+- 原始来源：https://huggingface.co/JackBAI/aitw-webshop-digiq-agent
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：强化学习、手机操作、奖励模型
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:5281c8befef1059590f3
+
+### 范围记录
+
+PyTorch .bin weights and random-state files, about 8G. The release holds the AutoUI checkpoint without optimizer states, for evaluation; running it needs the Digi-Q code and an Android emulator set up through the DigiRL environment guide.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-5281c8befef1059590f3/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/JackBAI/aitw-webshop-digiq-agent（获取于 2026-11-10T03:01:04Z；SHA-256：6151425b7a5af145ec07e38fbf157ae58de69a9d3644ebefb9cf7632fc561172）
+- https://huggingface.co/api/models/JackBAI/aitw-webshop-digiq-agent（获取于 2026-11-10T03:01:04Z；SHA-256：6151425b7a5af145ec07e38fbf157ae58de69a9d3644ebefb9cf7632fc561172）
 
 ---
 
@@ -3826,6 +3996,40 @@ The card names Qwen/Qwen3.5-2B as the base model and 320 training and 80 validat
 
 ---
 
+## asil-qwen35-9b-rl
+
+ASIL 的 Qwen3.5-9B 强化学习检查点，基于 JSON 状态观测、以代码形式的语义动作操作桌面应用，在 SFT 之后使用 320 个任务提示训练。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-c5cedb2f95336a8e48aa/
+- 原始来源：https://huggingface.co/sharryXR/asil-qwen35-9b-rl
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：强化学习、工具集成、动作预测
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:c5cedb2f95336a8e48aa
+
+### 范围记录
+
+Selected checkpoint global_step_140_actor_hf, resumed from the 9B SFT checkpoint; the repository holds safetensors weights, checkpoint_metadata.json and SHA256SUMS. The ASIL README reports 82.2 for Qwen3.5-9B after RL against 80.4 after SFT on its benchmark.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-c5cedb2f95336a8e48aa/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-9b-rl（获取于 2026-11-10T03:01:14Z；SHA-256：ead3b707bb50caa79112778c69ebfb6b43d935e58c4ecaaa248131ac97accc3a）
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-9b-rl（获取于 2026-11-10T03:01:14Z；SHA-256：ead3b707bb50caa79112778c69ebfb6b43d935e58c4ecaaa248131ac97accc3a）
+
+---
+
 ## asil-qwen35-9b-sft
 
 这是用于基于结构化状态和语义动作的应用控制方法的 ASIL 监督微调检查点，随附可加载的模型权重。
@@ -3857,6 +4061,40 @@ The card names Qwen/Qwen3.5-9B as the base model and reports 2,886 training and 
 
 - https://huggingface.co/api/models/sharryXR/asil-qwen35-9b-sft（获取于 2026-11-09T19:57:49Z；SHA-256：fa17d9565392839288c1873e367addaff803a4b6c711df9c8083f83c46ba6d02）
 - https://huggingface.co/api/models/sharryXR/asil-qwen35-9b-sft（获取于 2026-11-09T19:57:49Z；SHA-256：fa17d9565392839288c1873e367addaff803a4b6c711df9c8083f83c46ba6d02）
+
+---
+
+## Auto-UI
+
+Auto-UI 训练好的模型检查点及经 BLIP 处理的 AITW 特征，用于一个链式动作智能体，它根据截图、历史动作和计划中的后续动作预测设备操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-952cb4c3f308418aa85b/
+- 原始来源：https://huggingface.co/cooelf/Auto-UI
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：动作预测、交互历史、手机操作
+- 证据核查日期：2026-11-10T03:01:12Z
+- ID：url:952cb4c3f308418aa85b
+
+### 范围记录
+
+The repository holds three archives: Auto-UI-Base.zip, Auto-UI-Large.zip and blip.zip. Inference runs through main.py in the cooelf/Auto-UI GitHub code, whose README declares the Apache-2.0 License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-952cb4c3f308418aa85b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/cooelf/Auto-UI
+
+### 一手证据
+
+- https://huggingface.co/api/models/cooelf/Auto-UI（获取于 2026-11-10T03:01:12Z；SHA-256：0477a5d7c64bacb0d27caed20a12367ff37a367c3ca0fe4980638a5170091b12）
+- https://huggingface.co/api/models/cooelf/Auto-UI（获取于 2026-11-10T03:01:12Z；SHA-256：0477a5d7c64bacb0d27caed20a12367ff37a367c3ca0fe4980638a5170091b12）
 
 ---
 
@@ -4059,6 +4297,42 @@ The repository file list includes a PyTorch model file. The card provides no arc
 
 - https://huggingface.co/api/models/Agent-Eval-Refine/Captioner（获取于 2026-11-09T19:57:13Z；SHA-256：abaae5206fe3a9725c8c35d130bc5230b0ab89682d0f0a870922beddb4363a65）
 - https://huggingface.co/api/models/Agent-Eval-Refine/Captioner（获取于 2026-11-09T19:57:13Z；SHA-256：abaae5206fe3a9725c8c35d130bc5230b0ab89682d0f0a870922beddb4363a65）
+
+---
+
+## ClawGUI-2B
+
+ClawGUI-2B 是一个 2B 移动端 GUI 智能体模型，使用 ClawGUI-RL 流水线和 GiGPO 端到端训练；作者报告其 MobileWorld 成功率为 17.1，基线为 11.1。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-1a54e63277eaffdaef57/
+- 原始来源：https://huggingface.co/SugarVapeur/OpenGUI-2B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：强化学习、手机操作
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:1a54e63277eaffdaef57
+
+### 范围记录
+
+A single model.safetensors file with tokenizer, processor and chat-template configs; the card declares Apache-2.0. The ClawGUI README also links a ModelScope copy, and the ClawGUI repository holds the RL training, evaluation and deployment code.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-1a54e63277eaffdaef57/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/SugarVapeur/OpenGUI-2B
+
+### 一手证据
+
+- https://huggingface.co/api/models/SugarVapeur/OpenGUI-2B（获取于 2026-11-10T03:01:01Z；SHA-256：448868dd028c422209955b031a070562cce041f66740eda893ec03f88d3b2271）
+- https://huggingface.co/api/models/SugarVapeur/OpenGUI-2B（获取于 2026-11-10T03:01:01Z；SHA-256：448868dd028c422209955b031a070562cce041f66740eda893ec03f88d3b2271）
+- https://huggingface.co/api/models/SugarVapeur/OpenGUI-2B（获取于 2026-11-10T03:01:52Z；SHA-256：448868dd028c422209955b031a070562cce041f66740eda893ec03f88d3b2271）
+- https://huggingface.co/api/models/SugarVapeur/ClawGUI-2B（获取于 2026-11-10T03:01:53Z；SHA-256：448868dd028c422209955b031a070562cce041f66740eda893ec03f88d3b2271）
 
 ---
 
@@ -4376,6 +4650,74 @@ The repository contains text and multimodal safetensors checkpoints with configu
 
 - https://huggingface.co/api/models/cua-ai/cua-s1-nano-0.1（获取于 2026-11-09T21:09:02Z；SHA-256：eae5c1db3eb080dfef7f726eb059280804af449414b3d1883ce04cf5457ba022）
 - https://huggingface.co/api/models/cua-ai/cua-s1-nano-0.1（获取于 2026-11-09T21:09:02Z；SHA-256：eae5c1db3eb080dfef7f726eb059280804af449414b3d1883ce04cf5457ba022）
+
+---
+
+## CUA_World_State_Model
+
+SEAgent 的世界状态模型（World State Model），基于 Qwen2.5-VL-7B-Instruct 微调，依据截图逐步评估计算机使用智能体的轨迹，用于标注成功与失败并驱动课程式任务生成。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-f0ffbdc41c9dca4c585f/
+- 原始来源：https://huggingface.co/Zery/CUA_World_State_Model
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：奖励模型、评测、数据生成
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:f0ffbdc41c9dca4c585f
+
+### 范围记录
+
+Released as four PyTorch .bin shards with a Qwen2.5-VL processor config. The SEAgent repository serves it through vLLM as gui_judge for task generation and for judging trajectories to build pseudo-labeled SFT and RL data, with evaluation code for AgentRewardBench and OSWorld. License: Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-f0ffbdc41c9dca4c585f/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/Zery/CUA_World_State_Model
+
+### 一手证据
+
+- https://huggingface.co/api/models/Zery/CUA_World_State_Model（获取于 2026-11-10T03:01:15Z；SHA-256：2f3ab36ed8bc1de673d9232e0b005f868578ae9b494dd89bcbad009b2dd1810e）
+- https://huggingface.co/api/models/Zery/CUA_World_State_Model（获取于 2026-11-10T03:01:15Z；SHA-256：2f3ab36ed8bc1de673d9232e0b005f868578ae9b494dd89bcbad009b2dd1810e）
+
+---
+
+## dart-gui-7b
+
+随 DART 发布的 GUI 智能体权重。DART 是一个解耦的异步强化学习框架，将环境、rollout、数据管理与训练分离；论文报告其在 OSWorld 上的任务成功率为 42.13%。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-689fea75118e3113476b/
+- 原始来源：https://huggingface.co/dart-gui/dart-gui-7b
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：强化学习、效率
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:689fea75118e3113476b
+
+### 范围记录
+
+Seven safetensors shards with tokenizer and chat template files. The DART-GUI repository provides inference, environment, sampling and training code with Docker setups, and its training setup downloads UI-TARS-1.5-7B as the starting checkpoint.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-689fea75118e3113476b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/dart-gui/dart-gui-7b（获取于 2026-11-10T03:01:04Z；SHA-256：261bbeadefe33a634aef7cc3e7991be0244366896ea35bc8c5afb4f8bbb1960a）
+- https://huggingface.co/api/models/dart-gui/dart-gui-7b（获取于 2026-11-10T03:01:04Z；SHA-256：261bbeadefe33a634aef7cc3e7991be0244366896ea35bc8c5afb4f8bbb1960a）
 
 ---
 
@@ -4705,6 +5047,40 @@ GELab-Zero 手机操作智能体的预览版检查点，由 Qwen3-VL-4B-Instruct
 
 ---
 
+## GELab-Engine-7B
+
+随 GUI Exploration Lab 发布的 Qwen2.5-VL 7B 检查点。GUI Exploration Lab 是由导航图连接各屏幕的合成 GUI 环境，智能体在其中通过监督微调、单轮强化学习和多轮强化学习学习屏幕导航。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-41b685bbd42fbd4732da/
+- 原始来源：https://huggingface.co/Summoneryhl/GELab-Engine-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：强化学习、动作预测
+- 证据核查日期：2026-11-10T03:01:08Z
+- ID：url:41b685bbd42fbd4732da
+
+### 范围记录
+
+Four sharded safetensors files with a Qwen2_5_VLForConditionalGeneration config; the card declares Apache-2.0 and has no other text, and the README link names no training stage. The GE-Lab README evaluates checkpoints with eval/inference_qwen2p5_mixed_vllm.py on its test data.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-41b685bbd42fbd4732da/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/Summoneryhl/GELab-Engine-7B
+
+### 一手证据
+
+- https://huggingface.co/api/models/Summoneryhl/GELab-Engine-7B（获取于 2026-11-10T03:01:08Z；SHA-256：380b9f778978d2acbe31f6933445aaf1d079cdb26cf29065a7e9e52bdbd4b503）
+- https://huggingface.co/api/models/Summoneryhl/GELab-Engine-7B（获取于 2026-11-10T03:01:08Z；SHA-256：380b9f778978d2acbe31f6933445aaf1d079cdb26cf29065a7e9e52bdbd4b503）
+
+---
+
 ## GLM-4.5V
 
 这是一个已发布的视觉语言模型，文档将屏幕读取、图标识别、视觉元素定位和桌面操作辅助列为其支持的任务。
@@ -5018,6 +5394,40 @@ License declarations apply to this checkpoint separately from code and training 
 
 ---
 
+## GT-r1
+
+一个用 VLM-R1 强化学习训练的 GUI 缺陷检测模型，分析一张应用截图，判定其存在内容显示错误、界面布局问题、界面元素缺失，或无缺陷。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-1a6fc60f2b931acbd057/
+- 原始来源：https://huggingface.co/konkazzz/GT-r1
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：界面理解、强化学习
+- 证据核查日期：2026-11-10T03:01:02Z
+- ID：url:1a6fc60f2b931acbd057
+
+### 范围记录
+
+Four safetensors shards plus a data&evaluate folder with data_train.json (1,593 items), data_test.json (177 items), a Defective_Open_Source archive and model_evaluate.py; the card declares Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-1a6fc60f2b931acbd057/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/konkazzz/GT-r1
+
+### 一手证据
+
+- https://huggingface.co/api/models/konkazzz/GT-r1（获取于 2026-11-10T03:01:02Z；SHA-256：dff9f194dcc3e2910bd93bb664e9023d85069e9fb72bf94dbc1053275e7e6a27）
+- https://huggingface.co/api/models/konkazzz/GT-r1（获取于 2026-11-10T03:01:02Z；SHA-256：dff9f194dcc3e2910bd93bb664e9023d85069e9fb72bf94dbc1053275e7e6a27）
+
+---
+
 ## GTA1-7B
 
 一个通过 GRPO 训练并发布的图形界面定位模型，根据截图和元素描述预测坐标，附有推理代码和报告的评测结果。
@@ -5190,6 +5600,40 @@ The card's heading says GUI-Actor-7B with a Qwen2.5-VL-7B backbone, but its meta
 - https://huggingface.co/microsoft/GUI-Actor-3B-Qwen2.5-VL/raw/5fb97348752cb3d50be9709f47d9ae6c99725949/README.md（获取于 2026-10-18T12:01:43Z；SHA-256：44bd4da4738b849135cd0ec03f8c6ffe6d1bac113b649178b9cbcb3ba295f7c4）
 - https://huggingface.co/api/models/microsoft/GUI-Actor-3B-Qwen2.5-VL（获取于 2026-10-18T12:01:43Z；SHA-256：f2a9b098a0b5f104c1692949849ee4f92f333b74c3cd51c51ed03847386f3464）
 - https://huggingface.co/microsoft/GUI-Actor-3B-Qwen2.5-VL/raw/5fb97348752cb3d50be9709f47d9ae6c99725949/README.md（获取于 2026-10-18T12:01:43Z；SHA-256：44bd4da4738b849135cd0ec03f8c6ffe6d1bac113b649178b9cbcb3ba295f7c4）
+
+---
+
+## GUI-AIMA-3B
+
+GUI 定位模型，利用可学习的 ANCHOR 词元与视觉图块之间的注意力预测点击位置，并额外使用 25 万条 GroundCUA 数据训练；作者报告其在 ScreenSpot-Pro 上采用 2 步放大推理时达到 61.5%。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-638d229f7a02760ae9dc/
+- 原始来源：https://huggingface.co/smz8599/GUI-AIMA-3B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：GUI 定位
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:638d229f7a02760ae9dc
+
+### 范围记录
+
+Two safetensors shards with tokenizer, chat template and args.json; the card lists Qwen/Qwen2.5-3B-Instruct as base model. The GUI-AIMA repository holds training, data preparation and grounding-benchmark evaluation code and a lighter GUI-AIMA-lite-3B variant.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-638d229f7a02760ae9dc/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/smz8599/GUI-AIMA-3B（获取于 2026-11-10T03:01:04Z；SHA-256：5338cbdde8731dbe7995ad199cea259b9157522aec1b9f0bf007d14616224a5a）
+- https://huggingface.co/api/models/smz8599/GUI-AIMA-3B（获取于 2026-11-10T03:01:04Z；SHA-256：5338cbdde8731dbe7995ad199cea259b9157522aec1b9f0bf007d14616224a5a）
 
 ---
 
@@ -5932,6 +6376,40 @@ The repository lists model weight shards, configuration, tokenizer and modeling 
 
 ---
 
+## InternVL3_5-14B
+
+InternVL3.5 多模态模型权重，总参数量 15.1B，经过 CPT、SFT 和 Cascade RL 训练。论文报告了它在 ScreenSpot、OSWorld-G 和 WindowsAgentArena 上的 GUI 定位与智能体结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-558abdb3eb20b922e01b/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-14B
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Linux、Windows、网页
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:558abdb3eb20b922e01b
+
+### 范围记录
+
+Weights ship as 7 safetensors shards with custom InternVL code files, and the card declares Apache-2.0 and links an HF-format variant. Table 10 of the paper reports ScreenSpot 87.5, ScreenSpot-v2 88.6, OSWorld-G 44.7, WindowsAgentArena 12.5 and WebArena-Lite-v2 12.3 for this checkpoint.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-558abdb3eb20b922e01b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-14B
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-14B（获取于 2026-11-10T03:01:04Z；SHA-256：bb28dc5de062a318855f476375e6b6791b64d70cb3ac5df1cbca19ab02bcd83f）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-14B（获取于 2026-11-10T03:01:04Z；SHA-256：bb28dc5de062a318855f476375e6b6791b64d70cb3ac5df1cbca19ab02bcd83f）
+
+---
+
 ## InternVL3_5-14B-HF
 
 InternVL3.5 多模态模型系列的 Hugging Face 格式检查点；模型卡将图形界面交互列为其能力之一，并介绍了 Cascade RL 训练方法。
@@ -6000,6 +6478,40 @@ The model repository lists a safetensors checkpoint and model, tokenizer and pro
 
 ---
 
+## InternVL3_5-1B-HF
+
+HF 格式的 InternVL3.5-1B 检查点，包含 0.3B 视觉编码器和 0.8B 语言模型，所属多模态模型系列采用 Cascade RL 训练，其能力列表包括 GUI 交互。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-98f37e375e57e027af64/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-1B-HF
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：界面理解
+- 证据核查日期：2026-11-10T03:01:12Z
+- ID：url:98f37e375e57e027af64
+
+### 范围记录
+
+The card lists OpenGVLab/InternVL3_5-1B-MPO as the base model and MMPR-v1.2 and MMPR-Tiny as datasets, and declares an Apache-2.0 license. The InternVL3.5 paper reports GUI grounding and online agent results for the 4B and larger family members.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-98f37e375e57e027af64/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-1B-HF
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-1B-HF（获取于 2026-11-10T03:01:12Z；SHA-256：e283a4f504c409e9dfbc4e581d0c69dd4f7be197c4a936033d6ef00107e6cbf4）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-1B-HF（获取于 2026-11-10T03:01:12Z；SHA-256：e283a4f504c409e9dfbc4e581d0c69dd4f7be197c4a936033d6ef00107e6cbf4）
+
+---
+
 ## InternVL3_5-241B-A28B
 
 这是已发布的 InternVL3.5 多模态模型权重；其系列说明涵盖图形界面交互、级联强化学习训练和自适应视觉分辨率。
@@ -6065,6 +6577,176 @@ The repository lists sharded safetensors weights and tokenizer files. The card d
 
 - https://huggingface.co/api/models/OpenGVLab/InternVL3_5-241B-A28B-HF（获取于 2026-11-09T19:56:21Z；SHA-256：bc42847be9fcf10bb509fa66fc2a598fe7ab7e396836c9a10425d3e376dca117）
 - https://huggingface.co/api/models/OpenGVLab/InternVL3_5-241B-A28B-HF（获取于 2026-11-09T19:56:21Z；SHA-256：bc42847be9fcf10bb509fa66fc2a598fe7ab7e396836c9a10425d3e376dca117）
+
+---
+
+## InternVL3_5-2B
+
+InternVL3.5-2B 检查点，包含 0.3B 视觉编码器和 2.0B 语言模型，所属多模态模型系列采用 Cascade RL 训练，其能力列表包括 GUI 交互。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-feaad5e9f2497d1ed9ca/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-2B
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：界面理解
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:feaad5e9f2497d1ed9ca
+
+### 范围记录
+
+The card lists OpenGVLab/InternVL3_5-2B-MPO as the base model and declares an Apache-2.0 license; the weights are a single model.safetensors file with custom modeling code. The InternVL3.5 paper reports GUI grounding and online agent results for the 4B and larger family members.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-feaad5e9f2497d1ed9ca/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-2B
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-2B（获取于 2026-11-10T03:01:15Z；SHA-256：2f5f6d452e393632c53f9902b76655fdbc95a289f23e58cc13d5c14fad1fbc80）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-2B（获取于 2026-11-10T03:01:15Z；SHA-256：2f5f6d452e393632c53f9902b76655fdbc95a289f23e58cc13d5c14fad1fbc80）
+
+---
+
+## InternVL3_5-2B-HF
+
+HF 格式、2.3B 参数的 InternVL3.5 检查点，该多模态模型的说明卡将 GUI 交互列为训练所得能力之一，并报告了该系列的 GUI 任务结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-d1f0e13ad96c108ef09b/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-2B-HF
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：界面理解
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:d1f0e13ad96c108ef09b
+
+### 范围记录
+
+The card's heading reads InternVL3_5-4B and its base_model field names InternVL3_5-4B-MPO, while its family table lists this repository as InternVL3.5-2B-HF. License apache-2.0; weights are in transformers HF format.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-d1f0e13ad96c108ef09b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-2B-HF
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-2B-HF（获取于 2026-11-10T03:01:14Z；SHA-256：33f64420a4d18568888bd937bb8bb427622d2cca0f4be4bc0f5c95b04df3429a）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-2B-HF（获取于 2026-11-10T03:01:14Z；SHA-256：33f64420a4d18568888bd937bb8bb427622d2cca0f4be4bc0f5c95b04df3429a）
+
+---
+
+## InternVL3_5-30B-A3B
+
+InternVL3.5 多模态模型权重，参数规模标为 30.8B-A3B，经过 CPT、SFT 和 Cascade RL 训练。论文报告了它在 ScreenSpot、OSWorld-G 和 WindowsAgentArena 上的 GUI 定位与智能体结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-4d7042b462e937c33406/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Linux、Windows、网页
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:03Z
+- ID：url:4d7042b462e937c33406
+
+### 范围记录
+
+Weights ship as 13 safetensors shards with custom InternVL code files, and the card declares Apache-2.0 and links an HF-format variant. Table 10 of the paper reports ScreenSpot 86.6, ScreenSpot-v2 87.3, OSWorld-G 42.4, WindowsAgentArena 11.0 and WebArena-Lite-v2 10.4 for this checkpoint.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-4d7042b462e937c33406/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-30B-A3B（获取于 2026-11-10T03:01:03Z；SHA-256：5b48a44921c4805801a8921a8f9c8d2f6c04da7889bc801ca740a77ce09ead76）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-30B-A3B（获取于 2026-11-10T03:01:03Z；SHA-256：5b48a44921c4805801a8921a8f9c8d2f6c04da7889bc801ca740a77ce09ead76）
+
+---
+
+## InternVL3_5-30B-A3B-HF
+
+InternVL3.5 的 Transformers 格式检查点，总参数 30.8B、激活参数 3B；其论文报告了该模型在 ScreenSpot、OSWorld-G、WindowsAgentArena 和 WebArena-Lite-v2 上的 GUI 定位与在线智能体结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-2ebcbc24ecbdc2db22fb/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B-HF
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:2ebcbc24ecbdc2db22fb
+
+### 范围记录
+
+The card declares Apache-2.0, needs transformers>=4.52.1 and says models up to 30B fit on one A100 GPU. In the paper's Table 10 the authors report 86.6 on ScreenSpot, 42.4 on OSWorld-G and 11.0 on WindowsAgentArena for InternVL3.5-30B-A3B.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2ebcbc24ecbdc2db22fb/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B-HF
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-30B-A3B-HF（获取于 2026-11-10T03:01:04Z；SHA-256：a7d0d03340a89eaa0d7a333fd9cdaf1b92a82d040f1924e0ea784d94a539dd51）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-30B-A3B-HF（获取于 2026-11-10T03:01:04Z；SHA-256：a7d0d03340a89eaa0d7a333fd9cdaf1b92a82d040f1924e0ea784d94a539dd51）
+
+---
+
+## InternVL3_5-38B
+
+InternVL3.5 检查点，共 38.4B 参数，由 5.5B 视觉编码器与 32.8B 语言模型组成；其论文报告了该模型在 ScreenSpot、OSWorld-G 和 WindowsAgentArena 上的 GUI 定位与在线智能体结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-33b35b47d8bb269d84a1/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-38B
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:05Z
+- ID：url:33b35b47d8bb269d84a1
+
+### 范围记录
+
+The card declares Apache-2.0 and says the 38B model needs two A100 GPUs. In the paper's Table 10 the authors report 81.0 on ScreenSpot, 42.9 on OSWorld-G and 14.5 on WindowsAgentArena for InternVL3.5-38B.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-33b35b47d8bb269d84a1/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-38B
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-38B（获取于 2026-11-10T03:01:05Z；SHA-256：e24b868c1916b74a88401963a66c6d9287f8d4db2234509abd4e28622c294cf5）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-38B（获取于 2026-11-10T03:01:05Z；SHA-256：e24b868c1916b74a88401963a66c6d9287f8d4db2234509abd4e28622c294cf5）
 
 ---
 
@@ -6167,6 +6849,74 @@ The card identifies the checkpoint as a fine-tune of OpenGVLab/InternVL3_5-8B-MP
 
 - https://huggingface.co/api/models/OpenGVLab/InternVL3_5-8B（获取于 2026-11-09T19:56:36Z；SHA-256：d4d7fdbe1e2cd25bb90fe8cddcad4e8e4ded944c1f614eac01ea28c9c2d55d32）
 - https://huggingface.co/api/models/OpenGVLab/InternVL3_5-8B（获取于 2026-11-09T19:56:36Z；SHA-256：d4d7fdbe1e2cd25bb90fe8cddcad4e8e4ded944c1f614eac01ea28c9c2d55d32）
+
+---
+
+## InternVL3_5-8B-HF
+
+Hugging Face Transformers 格式的 InternVL3.5-8B 多模态模型；其技术报告在 GUI 定位以及 OSWorld、WindowsAgentArena 和 WebArena-Lite-v2 在线智能体任务上评测了该系列模型。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-15c5435c1cb4f9e6b737/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-8B-HF
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Linux、Windows、网页
+- 主题：GUI 定位
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:15c5435c1cb4f9e6b737
+
+### 范围记录
+
+Four safetensors shards with processor, video-processor and chat-template files for Transformers, fine-tuned from InternVL3_5-8B-MPO; a separate repository holds the GitHub-format checkpoint and the card links conversion scripts. The card declares Apache-2.0 and lists Qwen3 as a component.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-15c5435c1cb4f9e6b737/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-8B-HF
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-8B-HF（获取于 2026-11-10T03:01:01Z；SHA-256：e6135acc4a78e7014a1086ddc0ccbed56945a3fc8b91278b64d462ee095563a4）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-8B-HF（获取于 2026-11-10T03:01:01Z；SHA-256：e6135acc4a78e7014a1086ddc0ccbed56945a3fc8b91278b64d462ee095563a4）
+
+---
+
+## InternVL3_5-GPT-OSS-20B-A4B-Preview-HF
+
+基于 GPT-OSS 语言模型的 HF 格式 InternVL3.5 预览检查点（总计 21.2B，A4B），该多模态模型的说明卡将 GUI 交互列为训练所得能力之一，并报告了 GUI 结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-c09ce6d4ca2ddaf02fae/
+- 原始来源：https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：界面理解
+- 证据核查日期：2026-11-10T03:01:13Z
+- ID：url:c09ce6d4ca2ddaf02fae
+
+### 范围记录
+
+The release holds transformers-format weights with a chat template; license apache-2.0. The card recommends vLLM for deploying InternVL3.5-20B-A4B because of its GPT-OSS language model.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-c09ce6d4ca2ddaf02fae/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF（获取于 2026-11-10T03:01:13Z；SHA-256：1a17fad5846dd541f4235a57f89891206bfcc5818932364e755d9486a460b74f）
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF（获取于 2026-11-10T03:01:13Z；SHA-256：1a17fad5846dd541f4235a57f89891206bfcc5818932364e755d9486a460b74f）
 
 ---
 
@@ -6576,6 +7326,108 @@ The card declares a CC BY-NC-SA 4.0 license and points to evaluation code in the
 
 - https://huggingface.co/api/models/vocaela/KV-Ground-4B-BaseQw3vl（获取于 2026-11-09T05:05:00Z；SHA-256：b41afdcedc410f0c62bb513ab5f3536a5f8ca02dad49bbe327ad917a177bd35d）
 - https://huggingface.co/api/models/vocaela/KV-Ground-4B-BaseQw3vl（获取于 2026-11-09T05:05:00Z；SHA-256：b41afdcedc410f0c62bb513ab5f3536a5f8ca02dad49bbe327ad917a177bd35d）
+
+---
+
+## LFM2-350M-ComputerUse
+
+基于 LFM2-350M 的 LoRA 适配器，使用 GRPO 训练，在 MiniWoB click-test 任务中点击按钮；它以 BrowserGym 无障碍树读取页面，并在沙箱浏览器中执行操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-b68b02b47c87f006533e/
+- 原始来源：https://huggingface.co/DingoBeast/LFM2-350M-ComputerUse
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：强化学习、网页导航
+- 证据核查日期：2026-11-10T03:01:13Z
+- ID：url:b68b02b47c87f006533e
+
+### 范围记录
+
+The repository holds adapter_model.safetensors and a checkpoint-100 folder with optimizer and scheduler state. Per the README, training used LoRA rank 8 and alpha 16 for 100 iterations with up to 10 browser actions per episode on Modal GPUs; the card's quick-start example is generic text generation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-b68b02b47c87f006533e/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/DingoBeast/LFM2-350M-ComputerUse（获取于 2026-11-10T03:01:13Z；SHA-256：d0cb149920714b972e2b5405d2bea012ba5ecbbc9c2645aa8e57c8ed3138dd6f）
+- https://huggingface.co/api/models/DingoBeast/LFM2-350M-ComputerUse（获取于 2026-11-10T03:01:13Z；SHA-256：d0cb149920714b972e2b5405d2bea012ba5ecbbc9c2645aa8e57c8ed3138dd6f）
+
+---
+
+## lora_qformer_test_V4-700_merged
+
+合并了 CoMEM 记忆模块的 Qwen2.5-VL-7B-Instruct 模型，该模块通过经 LoRA 调优的 Q-Former 将过往 GUI 轨迹压缩为 8 个连续嵌入，用于网页智能体任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-8a5201470d27334977fa/
+- 原始来源：https://huggingface.co/WenyiWU0111/lora_qformer_test_V4-700_merged
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：记忆、网页导航、效率
+- 证据核查日期：2026-11-10T03:01:09Z
+- ID：url:8a5201470d27334977fa
+
+### 范围记录
+
+The repository holds merged safetensors weights in seven shards (17B parameters per the Hub page) and has no model card. The CoMEM-Agent README documents it, provides evaluation scripts for MMInA, Mind2Web and WebVoyager, and declares the MIT License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-8a5201470d27334977fa/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/WenyiWU0111/lora_qformer_test_V4-700_merged（获取于 2026-11-10T03:01:09Z；SHA-256：6e8766a10c7e7e98d54ce69dc360c9cba911ca55ccaf1546ff0b48a45e56744a）
+- https://huggingface.co/api/models/WenyiWU0111/lora_qformer_test_V4-700_merged（获取于 2026-11-10T03:01:09Z；SHA-256：6e8766a10c7e7e98d54ce69dc360c9cba911ca55ccaf1546ff0b48a45e56744a）
+
+---
+
+## lora_qformer_uitars_test_V1-400_merged
+
+合并了 CoMEM 连续记忆的 UI-TARS-V1.5-7B 检查点，通过 LoRA 微调的 Q-Former 将检索到的 GUI 轨迹压缩为定长嵌入，供网页智能体使用。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-b144605ae24674ffb917/
+- 原始来源：https://huggingface.co/WenyiWU0111/lora_qformer_uitars_test_V1-400_merged
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：记忆、网页导航、效率
+- 证据核查日期：2026-11-10T03:01:13Z
+- ID：url:b144605ae24674ffb917
+
+### 范围记录
+
+The repository holds seven safetensors shards in Qwen2.5-VL format and has no model card. The CoMEM-Agent code evaluates it on MMInA, Mind2Web and WebVoyager with --use_continuous_memory and --checkpoint_path.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-b144605ae24674ffb917/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/WenyiWU0111/lora_qformer_uitars_test_V1-400_merged（获取于 2026-11-10T03:01:13Z；SHA-256：dfc6e593c709797ce9742899972f451e372b507de02e8aba73e2a01fe21a30ee）
+- https://huggingface.co/api/models/WenyiWU0111/lora_qformer_uitars_test_V1-400_merged（获取于 2026-11-10T03:01:13Z；SHA-256：dfc6e593c709797ce9742899972f451e372b507de02e8aba73e2a01fe21a30ee）
 
 ---
 
@@ -7094,6 +7946,74 @@ Mano-P 是针对边缘设备优化的开源 GUI 视觉语言动作模型，已�
 
 ---
 
+## Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2
+
+Llama-3.1-8B-Instruct 的 QLoRA 适配器，作为 WMA 网页智能体的价值模型，对世界模型预测的各候选动作结果打分，使智能体选择得分最高的动作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-062d2cb4ccb89de78162/
+- 原始来源：https://huggingface.co/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：奖励模型、网页导航、世界模型
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:062d2cb4ccb89de78162
+
+### 范围记录
+
+PEFT 0.12.0 adapter weights (adapter_model.safetensors) with optimizer, scheduler and trainer-state files for the base model meta-llama/Meta-Llama-3.1-8B-Instruct. The WMA paper trains the value function on Mind2Web with rewards set by progress toward the goal; the card states no license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-062d2cb4ccb89de78162/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2（获取于 2026-11-10T03:01:01Z；SHA-256：0d619b9ca316aed1291df800d6c438a217b720197ae4ff759a040a148d03dd63）
+- https://huggingface.co/api/models/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-value-model-16k-qlora-adapter-v2（获取于 2026-11-10T03:01:01Z；SHA-256：0d619b9ca316aed1291df800d6c438a217b720197ae4ff759a040a148d03dd63）
+
+---
+
+## Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter
+
+WMA 网页智能体项目发布的 Llama 3.1 8B Instruct 世界模型 PEFT 适配器，训练其描述动作引起的状态变化，帮助智能体在 WebArena 上选择动作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-58195ef097be91525554/
+- 原始来源：https://huggingface.co/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：世界模型、网页导航
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:58195ef097be91525554
+
+### 范围记录
+
+The repository holds adapter_config.json and adapter_model.safetensors plus optimizer, scheduler and RNG states from training. The WMA-Agents README lists it beside a value-model adapter and world-model training datasets and states an MIT code license and CC BY-NC 4.0 data license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-58195ef097be91525554/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter（获取于 2026-11-10T03:01:04Z；SHA-256：d13b686f37e921acd4763849e9d06b24fef7e90954480da07d768c7373a4caad）
+- https://huggingface.co/api/models/LangAGI-Lab/Meta-Llama-3.1-8B-Instruct-WM-webarena-16k-adapter（获取于 2026-11-10T03:01:04Z；SHA-256：d13b686f37e921acd4763849e9d06b24fef7e90954480da07d768c7373a4caad）
+
+---
+
 ## microsoft/Phi-Ground-Any
 
 这款视觉模型经过微调，可根据图像和指令输出点击位置。模型卡说明了图像缩放和坐标换算方法。
@@ -7125,6 +8045,40 @@ The card names Phi-3.5-vision-instruct as the base model and declares an MIT lic
 
 - https://huggingface.co/api/models/microsoft/Phi-Ground-Any（获取于 2026-11-09T05:05:14Z；SHA-256：5653ffbdfbb6489f77ec9fe090cda813366c6262179fa11e9491f9379a9de834）
 - https://huggingface.co/api/models/microsoft/Phi-Ground-Any（获取于 2026-11-09T05:05:14Z；SHA-256：5653ffbdfbb6489f77ec9fe090cda813366c6262179fa11e9491f9379a9de834）
+
+---
+
+## MindAct_CandidateGeneration_deberta-v3-base
+
+MindAct 中仅含编码器的 DeBERTa-v3-base 模型，为任务查询与页面元素对打分，使 Mind2Web 页面上排名前 50 的候选元素进入动作预测模型。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-43f98379902167a5f9f3/
+- 原始来源：https://huggingface.co/osunlp/MindAct_CandidateGeneration_deberta-v3-base
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、GUI 定位
+- 证据核查日期：2026-11-10T03:01:08Z
+- ID：url:43f98379902167a5f9f3
+
+### 范围记录
+
+PyTorch weights with a DeBERTa-v2 config and SentencePiece tokenizer; the page has no model card or license field. The Mind2Web README gives candidate_generation/evaluate.py and train.py and publishes the model's scores for the dataset; Mind2Web code is MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-43f98379902167a5f9f3/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/osunlp/MindAct_CandidateGeneration_deberta-v3-base（获取于 2026-11-10T03:01:08Z；SHA-256：65841f4dbb0c07d3d0fddbaad512bb917b0c998b3b647fb1ddac93f9767eaaa1）
+- https://huggingface.co/api/models/osunlp/MindAct_CandidateGeneration_deberta-v3-base（获取于 2026-11-10T03:01:08Z；SHA-256：65841f4dbb0c07d3d0fddbaad512bb917b0c998b3b647fb1ddac93f9767eaaa1）
 
 ---
 
@@ -7303,6 +8257,40 @@ The card names Qwen/Qwen3-VL-8B-Instruct as the base model and provides vLLM ser
 
 - https://huggingface.co/api/models/mPLUG/ToolCUA-8B（获取于 2026-11-09T19:57:06Z；SHA-256：7c297c5277fc01db2f396c027a6cf6597715c7247dcdf022794f97d023e6cf48）
 - https://huggingface.co/api/models/mPLUG/ToolCUA-8B（获取于 2026-11-09T19:57:06Z；SHA-256：7c297c5277fc01db2f396c027a6cf6597715c7247dcdf022794f97d023e6cf48）
+
+---
+
+## nnetnav-wa-qwen-7B
+
+在 NNetNav-WA 的 WebArena 轨迹上微调的 Qwen-2.5-7B-Instruct 模型，由 Go-Browse 项目发布，作为其 WebArena 网页导航对比实验中的 NNetNav-7B 模型。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-511ba336435d406f3761/
+- 原始来源：https://huggingface.co/apurvaga/nnetnav-wa-qwen-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、模仿学习
+- 证据核查日期：2026-11-10T03:01:03Z
+- ID：url:511ba336435d406f3761
+
+### 范围记录
+
+Seven safetensors shards in Transformers format. The paper trains it by supervised finetuning on NNetNav-WA, 45K interaction steps across the 5 WebArena domains; the Go-Browse README serves finetuned models with vLLM or SGLang for WebArena runs.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-511ba336435d406f3761/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/apurvaga/nnetnav-wa-qwen-7B（获取于 2026-11-10T03:01:03Z；SHA-256：0889f2279f45985155d38347ec309ed87f8b9b44519e1874a3e8f03581ac6cfd）
+- https://huggingface.co/api/models/apurvaga/nnetnav-wa-qwen-7B（获取于 2026-11-10T03:01:03Z；SHA-256：0889f2279f45985155d38347ec309ed87f8b9b44519e1874a3e8f03581ac6cfd）
 
 ---
 
@@ -7584,6 +8572,142 @@ The Hub model card (README.md) is empty, so identity and purpose come from the O
 - https://huggingface.co/api/models/cckevinn/OpenMobile-8B/revision/0cd9fc56c7f359ebe62ae273b731f3213fd62b40（获取于 2026-10-19T06:53:37Z；SHA-256：07751fda41e98eccbb1e9d439b4fcc93a15580948fa81afa18b439d9143859c0）
 - https://huggingface.co/cckevinn/OpenMobile-8B/raw/0cd9fc56c7f359ebe62ae273b731f3213fd62b40/config.json（获取于 2026-10-19T06:53:38Z；SHA-256：50902136bf6856d8935a6fd84aa9bdb4eedf6ef260d9143421943f5800001fd0）
 - https://njucckevin.github.io/openmobile/（获取于 2026-10-19T06:53:36Z；SHA-256：b37f01ef9fcffa0eef1f6c5c317a333e6f14210dfda54843fdaba2f88331b864）
+
+---
+
+## OpenPhone_model
+
+OpenPhone-3B 模型权重，一个面向 Android GUI 任务的 3B 端侧模型，先在合成推理数据上进行监督微调，再进行 GRPO 式强化学习。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-836de49b2bbd47d3a6a5/
+- 原始来源：https://huggingface.co/hkuds/OpenPhone_model
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、强化学习、效率
+- 证据核查日期：2026-11-10T03:01:09Z
+- ID：url:836de49b2bbd47d3a6a5
+
+### 范围记录
+
+The repository holds one checkpoint split into checkpoint-2025_09_03.zip.partaa and .partab and has no model card. The HKUDS/OpenPhone README documents it, provides vLLM serving scripts and the training recipe, evaluates on AndroidLab (9 apps, 138 tasks) and declares the MIT License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-836de49b2bbd47d3a6a5/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/hkuds/OpenPhone_model（获取于 2026-11-10T03:01:09Z；SHA-256：54b516f6cabb5492c8ee36a26353bcba10c96c5933a90dc4dd5893e5199d9826）
+- https://huggingface.co/api/models/hkuds/OpenPhone_model（获取于 2026-11-10T03:01:09Z；SHA-256：54b516f6cabb5492c8ee36a26353bcba10c96c5933a90dc4dd5893e5199d9826）
+
+---
+
+## OpenWebVoyager-opt-1
+
+OpenWebVoyager 在第一轮探索-反馈-优化之后的检查点：在模仿学习得到的多模态网页智能体基础上，继续用经 GPT-4o 判定成功的真实网站轨迹训练。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-bd293c9a5f9bf16b8199/
+- 原始来源：https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-1
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、模仿学习、数据生成
+- 证据核查日期：2026-11-10T03:01:13Z
+- ID：url:bd293c9a5f9bf16b8199
+
+### 范围记录
+
+The repository holds seven safetensors shards; the card declares license apache-2.0. The README hosts a checkpoint with server/hf_online_server.py and runs tasks through WebVoyager, and each optimization iteration uses 480 task queries.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-bd293c9a5f9bf16b8199/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-1
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-1（获取于 2026-11-10T03:01:13Z；SHA-256：2061b137a20eb3a4c16660ba0e788742e0dd5c24b57606f60e7eb289d6af5b48）
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-1（获取于 2026-11-10T03:01:13Z；SHA-256：2061b137a20eb3a4c16660ba0e788742e0dd5c24b57606f60e7eb289d6af5b48）
+
+---
+
+## OpenWebVoyager-opt-2
+
+OpenWebVoyager 第二轮优化迭代的检查点：基于 idefics2-8b 的多模态网页智能体，先经模仿学习训练，再利用 GPT-4o 反馈筛选出的真实网站成功轨迹进行优化。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-f4f6f5bfe051e6ba3d94/
+- 原始来源：https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-2
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、模仿学习
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:f4f6f5bfe051e6ba3d94
+
+### 范围记录
+
+The repository holds seven safetensors shards with processor and tokenizer files; the card carries an Apache-2.0 license. The OpenWebVoyager README lists it as the Optim-2 checkpoint beside the IL, opt-1 and opt-3 releases and runs it with the WebVoyager framework, hosting the agent on an A100 GPU.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-f4f6f5bfe051e6ba3d94/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-2
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-2（获取于 2026-11-10T03:01:15Z；SHA-256：d52c4979916bfafc0f47102df11a97cff507116fafa61e59f54dcfeca42fa131）
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-2（获取于 2026-11-10T03:01:15Z；SHA-256：d52c4979916bfafc0f47102df11a97cff507116fafa61e59f54dcfeca42fa131）
+
+---
+
+## OpenWebVoyager-opt-3
+
+OpenWebVoyager 第三个优化阶段的检查点。OpenWebVoyager 是基于 Idefics2 的多模态网页智能体，先经模仿学习训练，再用 GPT-4o 判定成功的自主探索轨迹继续优化。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-2cd89755e4e2511de633/
+- 原始来源：https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-3
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、模仿学习
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:2cd89755e4e2511de633
+
+### 范围记录
+
+Seven sharded safetensors files with processor and tokenizer configs; the card declares Apache-2.0 and has no other text. The OpenWebVoyager README trains with an Idefics2 Megatron script and serves a downloaded checkpoint on an A100 GPU for WebVoyager-style web navigation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2cd89755e4e2511de633/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/OpenWebVoyager/OpenWebVoyager-opt-3
+
+### 一手证据
+
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-3（获取于 2026-11-10T03:01:04Z；SHA-256：b5dbba4176511daab0906b6a98f165430fec6e4ae9c8b53bab49f1dae0564681）
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-opt-3（获取于 2026-11-10T03:01:04Z；SHA-256：b5dbba4176511daab0906b6a98f165430fec6e4ae9c8b53bab49f1dae0564681）
 
 ---
 
@@ -8602,6 +9726,40 @@ The repository lists model weight shards, tokenizer and preprocessing files. The
 
 ---
 
+## Qwen3-VL-8B-Instruct-MobileWorld-SFT
+
+在 MobileWorld 数据集上微调的 Qwen3-VL-8B-Instruct 语义世界模型，用自然语言描述移动端 GUI 界面在执行动作后的变化，供移动智能体规划使用。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-e58270c90ea4fa83cfb4/
+- 原始来源：https://huggingface.co/jacklishufan/Qwen3-VL-8B-Instruct-MobileWorld-SFT
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：世界模型、手机操作、规划
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:e58270c90ea4fa83cfb4
+
+### 范围记录
+
+The repository holds four safetensors shards with Qwen3-VL configuration files and no model card. The paper reports fine-tuning for 2 epochs on 8 A6000 GPUs and using the model as the world model of an M3A-based agent on AndroidWorld. The MobileWorldBench repository provides QA and generation evaluation scripts.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-e58270c90ea4fa83cfb4/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/jacklishufan/Qwen3-VL-8B-Instruct-MobileWorld-SFT（获取于 2026-11-10T03:01:14Z；SHA-256：769d2da136a6762c04edc17f83e242e7a30c49c5466b2e0f578f3f685341cf0e）
+- https://huggingface.co/api/models/jacklishufan/Qwen3-VL-8B-Instruct-MobileWorld-SFT（获取于 2026-11-10T03:01:14Z；SHA-256：769d2da136a6762c04edc17f83e242e7a30c49c5466b2e0f578f3f685341cf0e）
+
+---
+
 ## Qwen3-VL-8B-Thinking
 
 通用视觉语言模型权重；其视觉智能体能力包括识别电脑与移动端界面元素，并调用工具完成任务。
@@ -9023,6 +10181,142 @@ The release contains model weights and gives a vLLM serving command. The card id
 
 ---
 
+## ScreenAgent
+
+SAT 格式的 ScreenAgent-2312 权重，一个基于 CogAgent 的视觉语言模型，用于驱动 ScreenAgent 环境，在规划、执行和反思阶段通过 VNC 发出鼠标和键盘操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-92b5cb08491c09243b72/
+- 原始来源：https://huggingface.co/niurl/ScreenAgent
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows、Linux
+- 主题：动作预测、规划、自我反思
+- 证据核查日期：2026-11-10T03:01:12Z
+- ID：url:92b5cb08491c09243b72
+
+### 范围记录
+
+The repository holds one archive, ScreenAgent-2312.zip, which is unzipped into train/saved_models and served with cogagent_model_worker.py from the ScreenAgent GitHub repository. The card declares MIT; the ScreenAgent README states that model weights follow the CogVLM License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-92b5cb08491c09243b72/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：mit — https://huggingface.co/niurl/ScreenAgent
+
+### 一手证据
+
+- https://huggingface.co/api/models/niurl/ScreenAgent（获取于 2026-11-10T03:01:12Z；SHA-256：98809e2dc72a02d035bfce8dd3a60e3fb223cfc15880e3afb155a14c79886b48）
+- https://huggingface.co/api/models/niurl/ScreenAgent（获取于 2026-11-10T03:01:12Z；SHA-256：98809e2dc72a02d035bfce8dd3a60e3fb223cfc15880e3afb155a14c79886b48）
+
+---
+
+## SE-GUI-7B
+
+基于 Qwen2.5-VL 的 7B GUI 定位模型，在 3,018 条精选种子样本上使用 GRPO、稠密点奖励和注意力引导的自进化微调进行训练。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-00f5bfd8c7991012a183/
+- 原始来源：https://huggingface.co/XinBB/SE-GUI-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:00f5bfd8c7991012a183
+
+### 范围记录
+
+The repository holds four safetensors shards of a Qwen2.5-VL checkpoint with tokenizer and processor configs; the card declares Apache-2.0. Training, attention-generation and ScreenSpot evaluation code live in the SE-GUI GitHub repository, which also links the SE-GUI-3k seed data.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-00f5bfd8c7991012a183/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/XinBB/SE-GUI-7B
+
+### 一手证据
+
+- https://huggingface.co/api/models/XinBB/SE-GUI-7B（获取于 2026-11-10T03:01:01Z；SHA-256：aa8470f7692524a98de9aef2334d67ced0f79e23385ad47a0ab7a7eeb6adc097）
+- https://huggingface.co/api/models/XinBB/SE-GUI-7B（获取于 2026-11-10T03:01:01Z；SHA-256：aa8470f7692524a98de9aef2334d67ced0f79e23385ad47a0ab7a7eeb6adc097）
+
+---
+
+## SEAgent-1.0-7B
+
+SEAgent 的计算机使用智能体权重，基于 UI-TARS-7B-DPO，通过在自动生成的 OSWorld 软件任务上进行经验学习训练；论文报告其在五款新软件上的成功率为 34.5%。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-62688de46b172fb0c746/
+- 原始来源：https://huggingface.co/Zery/SEAgent-1.0-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：强化学习、模仿学习
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:62688de46b172fb0c746
+
+### 范围记录
+
+Four safetensors shards; the card declares Apache-2.0. The SEAgent repository serves it with vLLM under the ui-tars-1.0-7b name for OSWorld runs, and also releases a World State Model checkpoint and RL and SFT training scripts.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-62688de46b172fb0c746/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/Zery/SEAgent-1.0-7B
+
+### 一手证据
+
+- https://huggingface.co/api/models/Zery/SEAgent-1.0-7B（获取于 2026-11-10T03:01:04Z；SHA-256：59c225dab7c743a7b4ecf8f2c3201b3fd82bcc693139673fee4cc5772963dd50）
+- https://huggingface.co/api/models/Zery/SEAgent-1.0-7B（获取于 2026-11-10T03:01:04Z；SHA-256：59c225dab7c743a7b4ecf8f2c3201b3fd82bcc693139673fee4cc5772963dd50）
+
+---
+
+## SeeClick-aitw
+
+在 Android in the Wild（AITW）片段上微调的 SeeClick 视觉 GUI 智能体检查点，使用 SeeClick 智能体任务脚本以动作匹配方式在 AITW 测试集上评测。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-a4b101913db4b3673a2b/
+- 原始来源：https://huggingface.co/cckevinn/SeeClick-aitw
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、动作预测
+- 证据核查日期：2026-11-10T03:01:13Z
+- ID：url:a4b101913db4b3673a2b
+
+### 范围记录
+
+The repository holds ten safetensors shards with Qwen-VL custom code files and has no model card. The SeeClick guide fine-tunes SeeClick-pretrain with LoRA on AITW sft data; evaluation loads Qwen-VL-Chat for the tokenizer and config.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a4b101913db4b3673a2b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/cckevinn/SeeClick-aitw（获取于 2026-11-10T03:01:13Z；SHA-256：91cf5b8fae8ad8d83cb55abfb75c819631d8d95aad5b1a87f12bd51991233a26）
+- https://huggingface.co/api/models/cckevinn/SeeClick-aitw（获取于 2026-11-10T03:01:13Z；SHA-256：91cf5b8fae8ad8d83cb55abfb75c819631d8d95aad5b1a87f12bd51991233a26）
+
+---
+
 ## Seg2Click Qwen2.5-VL 3B
 
 基于 Qwen2.5-VL-3B 的 Seg2Click 检查点，配有自定义操作掩码解码器。
@@ -9266,6 +10560,40 @@ The card provides model and processor loading examples, screenshot and video pro
 
 ---
 
+## SmolVLM2-2.2B-Instruct-Agentic-GUI
+
+在 aguvis-stage-1 和 aguvis-stage-2 数据集上分两阶段微调的 SmolVLM2-2.2B-Instruct，用于定位屏幕元素并以函数调用形式输出 GUI 动作。作者报告其在 ScreenSpot-v2 上达到 61%。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-915e40f18b217ac63fc6/
+- 原始来源：https://huggingface.co/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、跨平台
+- 主题：GUI 定位、动作预测
+- 证据核查日期：2026-11-10T03:01:12Z
+- ID：url:915e40f18b217ac63fc6
+
+### 范围记录
+
+The repository holds a single safetensors checkpoint trained with SFT using TRL 0.18.0 and Transformers 4.54.1. The Smol2Operator README documents the unified action space, data processing tools and training phases; the card's quick-start example is a text-only pipeline.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-915e40f18b217ac63fc6/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI（获取于 2026-11-10T03:01:12Z；SHA-256：c10e75da9fc1026e620be1eb6bffcdf8c8eb6f310e75d9c76c62cbfb7e95e490）
+- https://huggingface.co/api/models/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI（获取于 2026-11-10T03:01:12Z；SHA-256：c10e75da9fc1026e620be1eb6bffcdf8c8eb6f310e75d9c76c62cbfb7e95e490）
+
+---
+
 ## SpiritSight-Agent-26B
 
 用于跨平台界面导航的 26B 视觉模型，仓库提供模型权重及推理脚本，底座模型为 InternVL2。
@@ -9401,6 +10729,40 @@ The repository contains safetensors weight shards and model code. The card says 
 - https://huggingface.co/api/models/THUDM/cogagent-chat-hf（获取于 2026-11-09T19:58:09Z；SHA-256：cc325baca7fac28f5cbbb1233eeec9329dc529a880aca6c1ed7ee367a563149b）
 - https://huggingface.co/api/models/THUDM/cogagent-chat-hf（获取于 2026-11-09T20:03:14Z；SHA-256：cc325baca7fac28f5cbbb1233eeec9329dc529a880aca6c1ed7ee367a563149b）
 - https://huggingface.co/api/models/zai-org/cogagent-chat-hf（获取于 2026-11-09T20:03:14Z；SHA-256：cc325baca7fac28f5cbbb1233eeec9329dc529a880aca6c1ed7ee367a563149b）
+
+---
+
+## TianXi_Action_Grounding_7B
+
+来自 SEA 计算机使用智能体工作的 7B GUI 动作定位模型，以 Qwen2_5_VL 架构的 safetensors 权重发布；配套的 GitHub 仓库提供在 ScreenSpot-Pro 上按不同指令风格和语言运行该模型的评测脚本。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-f644200c18bea88da7b3/
+- 原始来源：https://huggingface.co/tangliang/TianXi_Action_Grounding_7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：GUI 定位
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:f644200c18bea88da7b3
+
+### 范围记录
+
+The Hugging Face repository holds four safetensors shards with a Qwen2_5_VLForConditionalGeneration config and no model card. The GitHub repository provides run_inference.py, adapted from ScreenSpot-Pro-GUI-Grounding, which logs results to JSON, under a GPL license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-f644200c18bea88da7b3/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/tangliang/TianXi_Action_Grounding_7B（获取于 2026-11-10T03:01:15Z；SHA-256：80e5b2de84cca20ba222eef0bb60afb5c3274c3dafb4a049201f5f2d531b99b5）
+- https://huggingface.co/api/models/tangliang/TianXi_Action_Grounding_7B（获取于 2026-11-10T03:01:15Z；SHA-256：80e5b2de84cca20ba222eef0bb60afb5c3274c3dafb4a049201f5f2d531b99b5）
 
 ---
 
@@ -9852,6 +11214,40 @@ The repository includes safetensors weight shards. The card declares an MIT lice
 
 ---
 
+## UIShift-7B-2K
+
+UIShift-7B 是 GUI-Shift 的初版模型：基于 Qwen2.5-VL，使用 GRPO 在 2K 条 AndroidControl 样本上训练，推断从一张截图转到下一张截图的动作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-0dcc389cc2b1b15fb081/
+- 原始来源：https://huggingface.co/mllmTeam/UIShift-7B-2K
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：动作预测、强化学习、手机操作
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:0dcc389cc2b1b15fb081
+
+### 范围记录
+
+Four safetensors shards with tokenizer and processor configs. The GUI-Shift repository's legacy README documents AndroidControl data preparation, the VLM-R1-based GRPO training scripts and the AndroidControl test set used for this version.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-0dcc389cc2b1b15fb081/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/mllmTeam/UIShift-7B-2K（获取于 2026-11-10T03:01:01Z；SHA-256：d12df9a74982afb2e32f4ba9d735cd29425b167c2d4d5ebeffd22621fd956bac）
+- https://huggingface.co/api/models/mllmTeam/UIShift-7B-2K（获取于 2026-11-10T03:01:01Z；SHA-256：d12df9a74982afb2e32f4ba9d735cd29425b167c2d4d5ebeffd22621fd956bac）
+
+---
+
 ## UIX-Qwen2
 
 使用 MultiUI 训练的视觉语言检查点，用于理解文本密集的网页及执行界面任务。
@@ -10028,6 +11424,40 @@ The repository contains sharded safetensors weights, a model index and tokenizer
 
 ---
 
+## VeriOS-Agent-7B
+
+一个 7B 操作系统智能体模型，在正常情况下执行 GUI 操作，识别到不可信场景时向人询问，采用 SFT 与 GRPO 分三阶段训练。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-0b0a7a841d65715d60b1/
+- 原始来源：https://huggingface.co/wuuuuuz/VeriOS-Agent-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、网页
+- 主题：人机协作、安全与防护、强化学习
+- 证据核查日期：2026-11-10T03:01:01Z
+- ID：url:0b0a7a841d65715d60b1
+
+### 范围记录
+
+Four safetensors shards with tokenizer, processor and training-log files. The VeriOS GitHub repository holds interaction-loop evaluation scripts and LLaMA-Factory training configs and links the VeriOS-Bench dataset (mobile, desktop, web and tablet screens) and a 32B variant on Hugging Face; the paper reports a 19.72% average step-wise success-rate gain.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-0b0a7a841d65715d60b1/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/models/wuuuuuz/VeriOS-Agent-7B（获取于 2026-11-10T03:01:01Z；SHA-256：abc8ae08f571cea42cc8710437036a06bd4ea1c6e7163ef2a71eeb60806a6740）
+- https://huggingface.co/api/models/wuuuuuz/VeriOS-Agent-7B（获取于 2026-11-10T03:01:01Z；SHA-256：abc8ae08f571cea42cc8710437036a06bd4ea1c6e7163ef2a71eeb60806a6740）
+
+---
+
 ## Vision-ml
 
 Vision-ml 在移动应用弹窗截图中定位关闭控件，并返回用于自动化操作的屏幕坐标；仓库包含预测代码和预训练模型。
@@ -10059,6 +11489,74 @@ The README describes Python-script and web-server prediction paths, training ima
 
 - https://raw.githubusercontent.com/Meituan-Dianping/vision/HEAD/README.md（获取于 2026-11-09T19:56:59Z；SHA-256：77ad6833898d2a344431067fe8f69d3b4b8855aea0deccb6737fff240b7d15a1）
 - https://raw.githubusercontent.com/Meituan-Dianping/vision/HEAD/LICENSE（获取于 2026-11-09T14:20:49Z；SHA-256：344f21123f798b47f16cb7b67c7d4bdb06d920f21d78bc2a2e729eaf4c65cb30）
+
+---
+
+## webarena-world-model-rlvr
+
+面向 WebArena 网页状态预测的语言世界模型，在 SFT 检查点基础上用 RLVR 进行后训练，用于网页智能体的模型预测控制。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-e02a165e76cd7c43e2ca/
+- 原始来源：https://huggingface.co/thuml/webarena-world-model-rlvr
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：世界模型、网页导航、强化学习、规划
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:e02a165e76cd7c43e2ca
+
+### 范围记录
+
+The repository holds one safetensors checkpoint whose Qwen2 config names DeepSeek-R1-Distill-Qwen-1.5B as its base path; the card lists thuml/webarena-world-model-sft as base model and thuml/webarena-world-model-cot as dataset. The RLVR-World code base provides GRPO training scripts and a WebArena evaluation that needs self-hosted WebArena sites. License: MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-e02a165e76cd7c43e2ca/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：mit — https://huggingface.co/thuml/webarena-world-model-rlvr
+
+### 一手证据
+
+- https://huggingface.co/api/models/thuml/webarena-world-model-rlvr（获取于 2026-11-10T03:01:14Z；SHA-256：b59a134f67a9f5497901b42e738137b1e08d4767843f836628ffd1a00418d9c4）
+- https://huggingface.co/api/models/thuml/webarena-world-model-rlvr（获取于 2026-11-10T03:01:14Z；SHA-256：b59a134f67a9f5497901b42e738137b1e08d4767843f836628ffd1a00418d9c4）
+
+---
+
+## webarena-world-model-sft
+
+以 DeepSeek-R1-Distill-Qwen-1.5B 为基座微调的 WebArena 语言世界模型：预测网页动作执行后无障碍树中哪些条目发生变化，在 RLVR 阶段之前先用思维链数据进行监督微调。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-42686ac00c4ae107f147/
+- 原始来源：https://huggingface.co/thuml/webarena-world-model-sft
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：世界模型、网页导航
+- 证据核查日期：2026-11-10T03:01:08Z
+- ID：url:42686ac00c4ae107f147
+
+### 范围记录
+
+Two sharded safetensors files and a LICENSE file; the card declares MIT. The RLVR-World lang_wm README merges LoRA weights after SFT, the RLVR-trained counterpart is thuml/webarena-world-model-rlvr, and the paper uses the world model for model predictive control of WebArena agents.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-42686ac00c4ae107f147/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：mit — https://huggingface.co/thuml/webarena-world-model-sft
+
+### 一手证据
+
+- https://huggingface.co/api/models/thuml/webarena-world-model-sft（获取于 2026-11-10T03:01:08Z；SHA-256：d731ff5bf196fc58890afd6cac45013aca4705a370d88a1ad6aa402e4c31f3ae）
+- https://huggingface.co/api/models/thuml/webarena-world-model-sft（获取于 2026-11-10T03:01:08Z；SHA-256：d731ff5bf196fc58890afd6cac45013aca4705a370d88a1ad6aa402e4c31f3ae）
 
 ---
 
@@ -10585,6 +12083,39 @@ Announced by the Adept Team on 14 September 2022. The post shows sped-up demo vi
 ### 一手证据
 
 - https://web.archive.org/web/20250814162158id_/https://www.adept.ai/blog/act-1（获取于 2026-10-20T04:02:47Z；SHA-256：2ae4f05ccf826141f5c315c977ebf6a058737f0760f55eb5f0125894d0b27fa0）
+
+---
+
+## Adept Fuyu-Heavy
+
+Adept 面向数字智能体、将 Fuyu 架构放大后的多模态模型，主要针对界面理解；Adept 报告了它在 MMMU、VQAv2、AI2D 和 ChartQA 上与 Gemini 模型的对比得分。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-1a20a291c766bd4e6861/
+- 原始来源：https://www.adept.ai/blog/adept-fuyu-heavy
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：界面理解
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:1a20a291c766bd4e6861
+
+### 范围记录
+
+Announced on January 24, 2024 as the model for Adept's enterprise product. The post includes text, chat and multimodal benchmark tables and a UI-understanding demo video.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-1a20a291c766bd4e6861/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://web.archive.org/web/2026/https://www.adept.ai/blog/adept-fuyu-heavy（获取于 2026-11-10T03:01:15Z；SHA-256：459e710e483cb39df69f015dbd5572e171acfc64b8d20ea44d94409716f285f1）
 
 ---
 
@@ -11141,6 +12672,39 @@ The release provides model.pt and examples using Ultralytics and OmniParser. The
 
 - https://huggingface.co/api/models/Salesforce/GPA-GUI-Detector（获取于 2026-11-09T05:05:18Z；SHA-256：a21e0ffb0cfc81e8b286ddec02d510261a16fc33eea73dd50aa881dd39e33f65）
 - https://huggingface.co/api/models/Salesforce/GPA-GUI-Detector（获取于 2026-11-09T05:05:18Z；SHA-256：a21e0ffb0cfc81e8b286ddec02d510261a16fc33eea73dd50aa881dd39e33f65）
+
+---
+
+## GPT-6 Astra
+
+OpenAI 的通用模型，其发布文章涵盖计算机操作与网页浏览；OpenAI 报告其在 OSWorld 2.0 上以每个任务约 40 分钟取得 72.6%，并给出 ScreenSpot-Pro 与 Mind2Web 结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-039a4975e102cb538c36/
+- 原始来源：https://openai.com/index/gpt-6-astra
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、网页
+- 主题：效率、安全与防护、网页导航
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:039a4975e102cb538c36
+
+### 范围记录
+
+Access is through ChatGPT plans, the OpenAI API, Microsoft Azure and AWS Bedrock. The post also reports an internal computer-use safety benchmark run in a generic computer-using-agent harness and a Codex harness update for faster computer use.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-039a4975e102cb538c36/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://web.archive.org/web/2026/https://openai.com/index/gpt-6-astra/（获取于 2026-11-10T03:01:15Z；SHA-256：d46d07bf2656b2be97a83c844d72ca0d456552ccda48a8b378f23e601dadd079）
 
 ---
 
@@ -12145,6 +13709,39 @@ The README links to an Indeed-UI-32B checkpoint on ModelScope. Evaluation requir
 
 ---
 
+## Indeed-UI-8B
+
+在 GUI-Owl 1.5-8B 基础上用界面定位数据和高分辨率训练微调的 GUI 定位模型；模型卡报告其在 ScreenSpot-Pro 上得分 73.4、ScreenSpot-V2 上 94.4、OSWorld-G 上 68.3。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-26157e2cda7fb73cf99c/
+- 原始来源：https://www.modelscope.cn/models/IntellgenceIndeed/Indeed-UI-8B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位
+- 证据核查日期：2026-11-10T03:01:15Z
+- ID：url:26157e2cda7fb73cf99c
+
+### 范围记录
+
+The ModelScope repository holds four safetensors shards in the Qwen3VLForConditionalGeneration architecture with tokenizer, chat-template and processor configs. The card names no license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-26157e2cda7fb73cf99c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://www.modelscope.cn/models/IntellgenceIndeed/Indeed-UI-8B（获取于 2026-11-10T03:01:15Z；SHA-256：91fbb536bf6488cf4a4b8aafb3470d0a4d7af9b94858d842c31ae238ba72adb4）
+
+---
+
 ## InfiGUI-R1 3B
 
 采用 Actor2Reasoner 流程训练的 Qwen2.5-VL 检查点，将界面定位与规划、恢复推理相结合。
@@ -12604,6 +14201,39 @@ MP-GUI 提供多模态感知训练和评测代码，结合图形、文本和空�
 
 - https://raw.githubusercontent.com/BigTaige/MP-GUI/HEAD/README.md（获取于 2026-11-04T13:12:08Z；SHA-256：d6253125be06f3ab7f0fe96ca9dfc94559be5f7fab722b8e9e75e9cdfa2a102f）
 - https://raw.githubusercontent.com/BigTaige/MP-GUI/HEAD/LICENSE（获取于 2026-11-04T13:22:42Z；SHA-256：5b1b6bd7af109e87cdde9905738be3747cad8a199609ac3ce7889aab59bd7f8f）
+
+---
+
+## Muse Spark 1.1
+
+Meta 超级智能实验室推出的多模态推理模型，面向智能体任务，经训练可在跨多个应用的计算机操作流程中选择编写脚本或直接点击界面。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-f8a956094e526a92caf3/
+- 原始来源：https://ai.meta.com/blog/introducing-muse-spark-meta-model-api
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、网页
+- 主题：跨应用、工具集成
+- 证据核查日期：2026-11-10T03:01:17Z
+- ID：url:f8a956094e526a92caf3
+
+### 范围记录
+
+Available through the Meta Model API public preview and in the Meta AI app; the post reports a 1 million token context window and refers to a separate evaluation report. Demos include operating a user's browser to create a Facebook Marketplace listing.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-f8a956094e526a92caf3/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://web.archive.org/web/2026/https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/（获取于 2026-11-10T03:01:17Z；SHA-256：b82fb9764c312977fa63d5f3257653fd866a1e14874ad852f4e87ec5c53dc6d6）
 
 ---
 
@@ -13200,6 +14830,40 @@ Inference uses Florence-2's <OPEN_VOCABULARY_DETECTION> task prompt with the ele
 
 ---
 
+## Qwen-AgentWorld
+
+一个语言世界模型，可在七个领域中预测下一步的环境观测，包括安卓屏幕、浏览器页面和桌面无障碍树，并随附 AgentWorldBench 评测代码。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-qwenlm-qwen-agentworld/
+- 原始来源：https://github.com/QwenLM/Qwen-AgentWorld
+- 类型：模型
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android、网页、桌面、跨平台
+- 主题：世界模型、评测、强化学习
+- 证据核查日期：2026-11-10T03:01:00Z
+- ID：github:qwenlm/qwen-agentworld
+
+### 范围记录
+
+The repository holds the AgentWorldBench evaluation script (eval/eval.py) and per-domain world-model and judge system prompts; the Qwen-AgentWorld-35B-A3B weights (MoE, 35B total, 3B active, 256K context) and the AgentWorldBench dataset are hosted on Hugging Face. The README reports training on more than 10M interaction trajectories and gives SGLang, vLLM and Transformers usage.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-qwenlm-qwen-agentworld/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/QwenLM/Qwen-AgentWorld/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/QwenLM/Qwen-AgentWorld/cd0aa83dc7a9c733695eb9c4652e0a68b6e6ecde/README.md（获取于 2026-11-10T03:01:00Z；SHA-256：9d1998bc98242b63ab640e6905e13672b72dfae3ff7063a85580a23f04dbeeee）
+- https://raw.githubusercontent.com/QwenLM/Qwen-AgentWorld/HEAD/LICENSE（获取于 2026-11-10T02:08:18Z；SHA-256：3e047f3880a1d65c98cd5ee9cf07f433aa3a4a9b9fc9547cf200f6b1a8586d4a）
+
+---
+
 ## Qwen-CUA
 
 Qwen-CUA 是基于截图生成经界面定位的键盘和鼠标操作的计算机使用模型，发布内容包括模型权重和浏览器参考运行环境。
@@ -13300,6 +14964,40 @@ Four public safetensors shards and model/tokenizer configuration are present. Th
 - https://huggingface.co/api/models/OpenGVLab/ScaleCUA-7B（获取于 2026-10-17T02:45:19Z；SHA-256：bad2617fd64633212a30b78d99fb053a662378ab50b42722a04af4104ac2248f）
 - https://raw.githubusercontent.com/OpenGVLab/ScaleCUA/HEAD/README.md（获取于 2026-10-17T01:54:55Z；SHA-256：0538701c860afedd5d63c3839039699d8e5a14977d5c339b187ed13ad666c8fa）
 - https://huggingface.co/OpenGVLab/ScaleCUA-7B/raw/main/README.md（获取于 2026-10-17T02:45:20Z；SHA-256：e45116466b8b9ef3e93992a1efca8fa5b921a8b041297933210c9f552767ffb8）
+
+---
+
+## SE-GUI-3B
+
+基于 Qwen2.5-VL 3B 骨干的 GUI 定位模型，使用 3,018 条精选样本进行自进化强化微调训练；作者报告其在 ScreenSpot-Pro 上得分 35.9。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-6d6f7ffc6a15e9e75a14/
+- 原始来源：https://huggingface.co/XinBB/SE-GUI-3B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:6d6f7ffc6a15e9e75a14
+
+### 范围记录
+
+Two safetensors shards in Qwen2_5_VL format; the card declares Apache-2.0. The SE-GUI repository holds training and evaluation code, links the SE-GUI-3k seed data on Hugging Face, and its README reports SE-GUI-3B results beside the SE-GUI-7B checkpoint from the same account.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-6d6f7ffc6a15e9e75a14/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/XinBB/SE-GUI-3B
+
+### 一手证据
+
+- https://huggingface.co/api/models/XinBB/SE-GUI-3B（获取于 2026-11-10T03:01:04Z；SHA-256：da85f2e6dfda750a7ab6348f78c24fa0d6a39796bc88c8caa42d0b1f8cfcc132）
+- https://huggingface.co/api/models/XinBB/SE-GUI-3B（获取于 2026-11-10T03:01:04Z；SHA-256：da85f2e6dfda750a7ab6348f78c24fa0d6a39796bc88c8caa42d0b1f8cfcc132）
 
 ---
 
@@ -13438,6 +15136,40 @@ Textual Foresight 通过预测移动端 UI 动作所产生的未来屏幕状态�
 
 - https://raw.githubusercontent.com/aburns4/textualforesight/HEAD/README.md（获取于 2026-11-04T13:12:04Z；SHA-256：1ce27542d1e6e9c883279b659758bdf534a446b97e2207bdea069a09999606a3）
 - https://raw.githubusercontent.com/aburns4/textualforesight/HEAD/LICENSE.txt（获取于 2026-11-04T13:22:45Z；SHA-256：5aca00bff81e12a65992c7f2ecfece6ba7a923193c7a1d33a1b60f657e8cf11a）
+
+---
+
+## tti_webarena
+
+来自 Test-Time Interaction（TTI）工作的 TTI-WebArena 检查点，是在 WebArena 任务上通过在线过滤行为克隆训练的多模态网页智能体，可在 TTI 评测配置中直接指定。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-a1621345ec327462b86e/
+- 原始来源：https://huggingface.co/sjunhongs/tti_webarena/tree/main
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、强化学习、模仿学习
+- 证据核查日期：2026-11-10T03:01:12Z
+- ID：url:a1621345ec327462b86e
+
+### 范围记录
+
+The repository holds pytorch_model.bin with processor, tokenizer and chat-template files; the card declares an MIT license. The TTI README runs WebArena evaluation through scripts/webarena_eval.sh against WebArena containers and uses at least 4 H100 GPUs for training and evaluation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a1621345ec327462b86e/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：mit — https://huggingface.co/sjunhongs/tti_webarena/tree/main
+
+### 一手证据
+
+- https://huggingface.co/api/models/sjunhongs/tti_webarena（获取于 2026-11-10T03:01:12Z；SHA-256：6cdf9cd9ff5bea3cd22f0ec788619662421d0289f86cc3992c79701e0bf53ba3）
+- https://huggingface.co/api/models/sjunhongs/tti_webarena（获取于 2026-11-10T03:01:12Z；SHA-256：6cdf9cd9ff5bea3cd22f0ec788619662421d0289f86cc3992c79701e0bf53ba3）
 
 ---
 
@@ -13642,6 +15374,108 @@ Vision GUI Assistant（VGA）提供以图像为中心的微调代码和数据集
 
 - https://raw.githubusercontent.com/Linziyang1999/Vision-GUI-assistant/HEAD/README.md（获取于 2026-11-04T13:12:21Z；SHA-256：90f65410bf548ea8f1798b6c9ff662c5e6f73ac8442e457d9b91f49d57fd954b）
 - https://raw.githubusercontent.com/Linziyang1999/Vision-GUI-assistant/HEAD/LICENSE（获取于 2026-11-04T13:22:42Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## VideoAgentTrek-IDM-s1-7B
+
+VideoAgentTrek Video2Action 流水线中的关键帧检测模型，作为逆动力学的第一阶段，在录屏教程视频中找出 GUI 交互时刻，再由第二个模型标注具体动作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-280f2ab56bbc0b630d81/
+- 原始来源：https://huggingface.co/xlangai/VideoAgentTrek-IDM-s1-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：视频、数据生成
+- 证据核查日期：2026-11-10T03:01:02Z
+- ID：url:280f2ab56bbc0b630d81
+
+### 范围记录
+
+Five safetensors shards of a Qwen2.5-VL checkpoint with tokenizer, processor and chat-template configs; the card declares Apache-2.0. The VideoAgentTrek video2action.py loads it through KEYFRAME_MODEL_PATH for stage 2 keyframe detection, with the IDM-s2 action identifier and an OpenAI-compatible API for validation and inner-monologue stages; a YOLO cursor detector filters videos beforehand.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-280f2ab56bbc0b630d81/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/xlangai/VideoAgentTrek-IDM-s1-7B
+
+### 一手证据
+
+- https://huggingface.co/api/models/xlangai/VideoAgentTrek-IDM-s1-7B（获取于 2026-11-10T03:01:02Z；SHA-256：f1759369f0ad84a0d467489b442128ca169fd8339d4634f37c3d1c0612a6c671）
+- https://huggingface.co/api/models/xlangai/VideoAgentTrek-IDM-s1-7B（获取于 2026-11-10T03:01:02Z；SHA-256：f1759369f0ad84a0d467489b442128ca169fd8339d4634f37c3d1c0612a6c671）
+
+---
+
+## VideoAgentTrek-IDM-s2-7B
+
+VideoAgentTrek 的 Video2Action 流程中的动作识别模型。该流程从屏幕录制的教程视频中还原点击、文本输入等 GUI 操作，用于构建计算机使用训练轨迹。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-2e88b52ca1717a28fd32/
+- 原始来源：https://huggingface.co/xlangai/VideoAgentTrek-IDM-s2-7B
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台
+- 主题：视频、数据生成、动作预测
+- 证据核查日期：2026-11-10T03:01:04Z
+- ID：url:2e88b52ca1717a28fd32
+
+### 范围记录
+
+Five sharded safetensors files with processor and tokenizer configs; the card declares Apache-2.0. The README runs it after the VideoAgentTrek-ScreenFilter cursor detector and the VideoAgentTrek-IDM-s1-7B keyframe detector, and the pipeline also needs an OpenAI or DashScope API key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2e88b52ca1717a28fd32/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：apache-2.0 — https://huggingface.co/xlangai/VideoAgentTrek-IDM-s2-7B
+
+### 一手证据
+
+- https://huggingface.co/api/models/xlangai/VideoAgentTrek-IDM-s2-7B（获取于 2026-11-10T03:01:04Z；SHA-256：fe8dcedcdd247cef5364d9400131125ca342f297b8044ea2f3671899754330d8）
+- https://huggingface.co/api/models/xlangai/VideoAgentTrek-IDM-s2-7B（获取于 2026-11-10T03:01:04Z；SHA-256：fe8dcedcdd247cef5364d9400131125ca342f297b8044ea2f3671899754330d8）
+
+---
+
+## VideoAgentTrek-ScreenFilter
+
+VideoAgentTrek 流水线中的光标检测模型，在 Video2Action 提取 GUI 动作轨迹之前，按是否出现光标筛选屏幕录制的教程视频。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-c7e1d8863286e92c47a2/
+- 原始来源：https://huggingface.co/xlangai/VideoAgentTrek-ScreenFilter
+- 类型：模型
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：视频、数据生成
+- 证据核查日期：2026-11-10T03:01:14Z
+- ID：url:c7e1d8863286e92c47a2
+
+### 范围记录
+
+The repository holds one PyTorch checkpoint file, which video_preprocess.py loads as a YOLO model through YOLO_MODEL_PATH; license agpl-3.0 per the card. The README reports mining 39k YouTube tutorials into 1.52M interaction steps.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-c7e1d8863286e92c47a2/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：agpl-3.0 — https://huggingface.co/xlangai/VideoAgentTrek-ScreenFilter
+
+### 一手证据
+
+- https://huggingface.co/api/models/xlangai/VideoAgentTrek-ScreenFilter（获取于 2026-11-10T03:01:14Z；SHA-256：5a8f3711171dbd61ce37b19495b8a75e3725a615744098e9e708152c59211497）
+- https://huggingface.co/api/models/xlangai/VideoAgentTrek-ScreenFilter（获取于 2026-11-10T03:01:14Z；SHA-256：5a8f3711171dbd61ce37b19495b8a75e3725a615744098e9e708152c59211497）
 
 ---
 

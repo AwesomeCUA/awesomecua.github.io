@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
+- [Open Grok Bot](https://awesomecua.com/zh/resources/github-anil-matcha-open-grok-bot/)
 - [Open Record/Replay](https://awesomecua.com/zh/resources/github-humblebanana-open-record-replay/)
 - [OpenAdapt](https://awesomecua.com/zh/resources/github-openadaptai-openadapt/)
 - [OpenAdapt Agent](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-agent/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/8/
 - [Salesforce Classic Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-salesforce-classic-browser-automation/)
 - [SAP Concur Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-sap-concur-browser-automation/)
 - [SAP Fiori Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-sap-fiori-browser-automation/)
-- [SAP SuccessFactors Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-successfactors-browser-automation/)

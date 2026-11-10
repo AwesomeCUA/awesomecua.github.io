@@ -25,13 +25,13 @@ The public Hub lists six dataset families of JSON/JSONL partition annotations. T
 - 评测方式：The provided evaluation workflow performs model inference over selected partitions and invokes test_swift_fed.py for accuracy scoring.
 - 侧重：mobile-agent federated training, data heterogeneity
 - 观测：mobile-agent examples with externally sourced screenshots
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 6 dataset families — released FedMABench partition families（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md）
-- 3 heterogeneity types — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
-- 8 federated learning algorithms — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
+- 6 个数据集系列 — released FedMABench partition families（来源报告；来源：https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md）
+- 3 种异构类型 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
+- 8 种联邦学习算法 — publisher benchmark overview（来源报告；来源：https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md）
 
 The dataset-family count measures dataset families. Code and data licenses are unknown; external image sources are required.
 

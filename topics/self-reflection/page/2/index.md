@@ -10,6 +10,7 @@ Full list: https://awesomecua.com/topics/self-reflection/index.md
 - [Northstar-CUA-Fast](https://awesomecua.com/resources/url-52de9679739ad0a50f69/)
 - [OpenCUA 32B](https://awesomecua.com/resources/url-ad7f176848fd84de64e2/)
 - [OpenCUA 72B](https://awesomecua.com/resources/url-4a0b1692589594745a3c/)
+- [ScreenAgent](https://awesomecua.com/resources/url-92b5cb08491c09243b72/)
 - [UI-Voyager](https://awesomecua.com/resources/url-e2ddf502803f46085aca/)
 - [AdaGround](https://awesomecua.com/resources/github-bcwang-sjtu-adaground/)
 - [Agent Q](https://awesomecua.com/resources/github-sentient-engineering-agent-q/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/self-reflection/index.md
 - [Mobile-Agent-E code component](https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/)
 - [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/)
 - [Narada Code and OperatorMini](https://awesomecua.com/resources/url-fd28110220935a0fae26/)
-- [NORTHTEK Ghost](https://awesomecua.com/resources/github-northtekdevs-ghost/)

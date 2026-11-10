@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/sandbox/page/4/
 
 Full list: https://awesomecua.com/topics/sandbox/index.md
 
+- [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/)
 - [computer-use-mcp-gateway](https://awesomecua.com/resources/github-git-ksk-computer-use-mcp-gateway/)
 - [CopilotKit OpenBot](https://awesomecua.com/resources/github-copilotkit-openbot/)
 - [Ctrip Android App](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ctrip/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [Harborage](https://awesomecua.com/resources/github-vadym-iefremov-harborage/)
 - [headless-use](https://awesomecua.com/resources/github-flyingsquirrel0419-headless-use/)
 - [HeroDesktop](https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/)
-- [Hronaut](https://awesomecua.com/resources/github-hronaut-hronaut/)

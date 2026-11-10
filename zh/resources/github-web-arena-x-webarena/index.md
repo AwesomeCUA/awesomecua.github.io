@@ -21,11 +21,11 @@
 - 评测方式：Functional correctness of completed web tasks.
 - 侧重：web task completion
 - 观测：HTML or accessibility tree
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 812 task examples — canonical WebArena evaluation suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md）
+- 812 个任务示例 — canonical WebArena evaluation suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md）
 
 The canonical repository documents self-hosted websites and environment resets. Its README recommends BrowserGym/AgentLab for newer infrastructure; harness changes must be recorded.
 

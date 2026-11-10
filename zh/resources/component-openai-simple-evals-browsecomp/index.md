@@ -25,11 +25,11 @@ This record covers the BrowseComp reference implementation and question set that
 - 评测方式：A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.
 - 侧重：open-web information seeking, persistent multi-site search
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 1,266 questions — browse_comp_test_set.csv（计算得出；来源：https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv）
+- 1,266 个问题 — browse_comp_test_set.csv（计算得出）（来源：https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv）
 
 The count is the number of data rows in the released CSV, whose problem and answer fields are XOR-encrypted with a per-row canary and carry a problem_topic label. Results depend on the agent's browsing tools, the grader model and the number of repeats; record these with a score.
 

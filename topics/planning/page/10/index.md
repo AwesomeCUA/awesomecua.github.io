@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/planning/page/10/
 
 Full list: https://awesomecua.com/topics/planning/index.md
 
+- [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/)
+- [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/)
+- [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/)
+- [Two-Layer macOS GUI Agent](https://awesomecua.com/resources/github-eauchs-gui-agent/)
+- [UFO](https://awesomecua.com/resources/github-microsoft-ufo/)
 - [UiPath ScreenPlay](https://awesomecua.com/resources/url-b09d10b87e42b7e74de9/)
 - [VillagerAgent & VillagerBench](https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/)
 - [VisionTasker](https://awesomecua.com/resources/github-akimotoayako-visiontasker/)

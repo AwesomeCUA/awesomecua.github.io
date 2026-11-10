@@ -28,12 +28,12 @@ The publisher flags original desktop files as deprecated because of screenshot-m
 
 ### 数量记录
 
-- ≈ 2,900,000 instructions — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 173,000 images — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 1,100,000 instructions — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 104,000 images — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 150,000 instructions — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
-- ≈ 7,800 images — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 2,900,000 条指令 — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 173,000 张图像 — web subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 1,100,000 条指令 — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 104,000 张图像 — mobile subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 150,000 条指令 — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
+- ≈ 7,800 张图像 — desktop subset（来源报告；来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md）
 
 The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are different units.
 

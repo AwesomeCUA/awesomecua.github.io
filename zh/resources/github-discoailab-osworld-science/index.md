@@ -25,11 +25,11 @@ The repository holds the osworld_science package (CLI, VM control, agents, evalu
 - 评测方式：Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.
 - 侧重：scientific-software workflows, combined GUI and command-line interaction
 - 观测：screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 146 tasks — full benchmark reported in the paper, seven scientific domains（来源报告；来源：https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md）
+- 146 个任务 — full benchmark reported in the paper, seven scientific domains（来源报告；来源：https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md）
 
 The README states that 83.6% of tasks also allow CLI access and 16.4% are GUI-only under the recorded configurations. The published dataset includes answer keys (the private/ folder is hidden from the solver, not access-controlled), so results from models that may have trained on it are not held-out measurements. Record the code revision, task data revision, VM image, model and agent when comparing scores.
 

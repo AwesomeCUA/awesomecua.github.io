@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
+- [DeepDeck](https://awesomecua.com/zh/resources/github-jo32-deepdeck/)
 - [DeepSeek Harness Desktop](https://awesomecua.com/zh/resources/github-tengqi159-deepseek-harness-desktop/)
 - [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/zh/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/)
 - [Delphi IDE Remote MCP Server](https://awesomecua.com/zh/resources/github-soporte-defontsoft-delphi-ide-remote-mcp/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/6/
 - [Jev Social](https://awesomecua.com/zh/resources/github-socai-io-jev-social/)
 - [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)
 - [Job Hunter AI](https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/)
-- [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/zh/resources/github-qiulingzhu809-sudo-job-pilot-2027/)

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/20/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [OSRS-CV](https://awesomecua.com/zh/resources/github-kaustubhlall-osrs-cv/)
+- [Ossabellator Bounded Computer-Use Runtime](https://awesomecua.com/zh/resources/github-ossabellator-computer-use/)
+- [OvoBrowser](https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser/)
+- [ovoBrowser](https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser-manger/)
+- [Page Agent](https://awesomecua.com/zh/resources/github-alibaba-page-agent/)
 - [paldom playwright-stealth Skills](https://awesomecua.com/zh/resources/github-paldom-playwright-stealth/)
 - [PAM Browser](https://awesomecua.com/zh/resources/github-push-in-pam-browser/)
 - [Panerelay](https://awesomecua.com/zh/resources/github-f-loat-panerelay/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/20/
 - [PortaMCP](https://awesomecua.com/zh/resources/github-tnlegend-portamcp/)
 - [Praefectus](https://awesomecua.com/zh/resources/github-tschk-praefectus/)
 - [PRAXOVELA](https://awesomecua.com/zh/resources/github-axisvela-praxovela-open/)
-- [Prism Browser Community](https://awesomecua.com/zh/resources/github-dfarm6-prism-browser-community/)
-- [Prism-Shadow Travel Agent](https://awesomecua.com/zh/resources/github-prism-shadow-travel-agent/)
-- [PrivateAI for Mac](https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/)
-- [ProBrowser MCP Server](https://awesomecua.com/zh/resources/github-momadhuynh04-probrowser/)
-- [Procore Browser Automation](https://awesomecua.com/zh/resources/github-browser-automation-hub-procore-browser-automation/)

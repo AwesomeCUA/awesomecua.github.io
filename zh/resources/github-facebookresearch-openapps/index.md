@@ -25,7 +25,7 @@ Public code includes app/task/configuration and agent-launching implementations.
 - 评测方式：Tasks define check_if_task_is_complete(initial_state,current_state); app-specific reward logic evaluates underlying state, with custom checks for code-editor file contents. Observation/history flags are configurable. No universal single fixed task total or published-run reproduction is implied.
 - 侧重：UI-agent reliability under environment variation, state-based browser task evaluation
 - 观测：screenshots, accessibility trees, set-of-marks and coordinates (configurable)
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 

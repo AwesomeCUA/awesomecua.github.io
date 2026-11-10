@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/automation/page/21/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [Prism Browser Community](https://awesomecua.com/resources/github-dfarm6-prism-browser-community/)
+- [Prism-Shadow Travel Agent](https://awesomecua.com/resources/github-prism-shadow-travel-agent/)
+- [PrivateAI for Mac](https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/)
+- [ProBrowser MCP Server](https://awesomecua.com/resources/github-momadhuynh04-probrowser/)
+- [Procore Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/)
 - [profile-use](https://awesomecua.com/resources/github-leeguooooo-profile-use/)
 - [ProfileFleet](https://awesomecua.com/resources/github-enginefuture-profilefleet/)
 - [Programming with Pixels (PwP)](https://awesomecua.com/resources/github-programmingwithpixels-pwp/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Roadmvn linux-computer-use](https://awesomecua.com/resources/github-roadmvn-linux-computer-use/)
 - [RobotGo](https://awesomecua.com/resources/github-go-vgo-robotgo/)
 - [Robotgo Pro](https://awesomecua.com/resources/github-vcaesar-robotgo-pro/)
-- [RobotJS](https://awesomecua.com/resources/github-octalmage-robotjs/)
-- [robotsix-browser](https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/)
-- [Rocuronium](https://awesomecua.com/resources/github-kageroumado-rocuronium/)
-- [Rod](https://awesomecua.com/resources/github-go-rod-rod/)
-- [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/)

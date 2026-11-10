@@ -21,11 +21,11 @@
 - 评测方式：Graph-based evaluators measure progress through task requirements.
 - 侧重：cross-environment tasks
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 120 tasks — CRAB Benchmark-v0 (paper)（来源报告；来源：https://arxiv.org/abs/2407.01511）
+- 120 个任务 — CRAB Benchmark-v0 (paper)（来源报告；来源：https://arxiv.org/abs/2407.01511）
 
 CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0.
 

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/18/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [muhtalhakhan OpenAgent](https://awesomecua.com/zh/resources/github-muhtalhakhan-open-agent/)
+- [munim-computer-use](https://awesomecua.com/zh/resources/github-munimtechnologies-munim-computer-use/)
+- [my_tiny_agent](https://awesomecua.com/zh/resources/github-yanjin101-my-tiny-agent/)
+- [nanbbb dsh-computer-use-windows](https://awesomecua.com/zh/resources/github-nanbbb-dsh-computer-use-windows/)
+- [Nanobrowser](https://awesomecua.com/zh/resources/github-nanobrowser-nanobrowser/)
 - [Nanobrowser Free AI](https://awesomecua.com/zh/resources/github-aminemabrouk17-nanobrowser-free-ai/)
 - [nanoMuse](https://awesomecua.com/zh/resources/github-nano-muse-nanomuse/)
 - [natbot](https://awesomecua.com/zh/resources/github-nat-natbot/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/18/
 - [Open Claudex Computer Use](https://awesomecua.com/zh/resources/github-opencodexlabs-open-codex-computer-use/)
 - [Open Codex Record & Replay](https://awesomecua.com/zh/resources/github-hqhq1025-open-codex-record-and-replay/)
 - [Open Computer Use](https://awesomecua.com/zh/resources/github-e2b-dev-open-computer-use/)
-- [Open Duet (open-dots)](https://awesomecua.com/zh/resources/github-anil-matcha-open-dots/)
-- [Open Frame](https://awesomecua.com/zh/resources/github-off-camber-open-frame/)
-- [Open Grok Bot](https://awesomecua.com/zh/resources/github-anil-matcha-open-grok-bot/)
-- [Open Interface](https://awesomecua.com/zh/resources/github-ambersahdev-open-interface/)
-- [Open ZCode Computer Use](https://awesomecua.com/zh/resources/github-hqhq1025-open-zcode-computer-use/)

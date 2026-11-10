@@ -24,7 +24,7 @@
 
 ### 数量记录
 
-- 83 software applications — paper-described benchmark coverage（来源报告；来源：https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md）
+- 83 个软件应用 — paper-described benchmark coverage（来源报告；来源：https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md）
 
 This is an offline evaluation dataset. Application coverage and sample counts are different units. The inspected file-layout documentation describes grounding annotations and images. A common split and complete action-trajectory inventory are unrecorded.
 

@@ -25,14 +25,14 @@ The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior I
 - 评测方式：Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
 - 侧重：deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
 - 观测：screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 150 tasks as reported by the paper/README — reported benchmark total; unique released task IDs use a separate count（来源报告；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md）
-- 50 task IDs — released misuse task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json）
-- 10 task IDs — released injection task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json）
-- 50 task IDs — released misbehavior task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json）
+- 150 个任务（据论文/README 报告） — reported benchmark total; unique released task IDs use a separate count（来源报告；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md）
+- 50 个任务 ID — released misuse task-ID list; before injection/goal expansion（计算得出）（来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json）
+- 10 个任务 ID — released injection task-ID list; before injection/goal expansion（计算得出）（来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json）
+- 50 个任务 ID — released misbehavior task-ID list; before injection/goal expansion（计算得出）（来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json）
 
 README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Apache-2.0 covers the code. Publisher asks that the benchmark not be used directly as agent training data.
 

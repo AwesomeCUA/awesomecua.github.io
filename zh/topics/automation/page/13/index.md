@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/13/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [FastMCP Playwright Server](https://awesomecua.com/zh/resources/github-ma-pony-mcp-playwright/)
 - [Fathom](https://awesomecua.com/zh/resources/github-drizzdev-fathom/)
 - [Fazm](https://awesomecua.com/zh/resources/github-mediar-ai-fazm/)
 - [Fellou](https://awesomecua.com/zh/resources/url-97cedbca35f6bd8684af/)
@@ -17,6 +18,7 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/13/
 - [Firecrawl MCP Server](https://awesomecua.com/zh/resources/github-firecrawl-firecrawl-mcp-server/)
 - [Firefox DevTools MCP](https://awesomecua.com/zh/resources/github-mozilla-firefox-devtools-mcp/)
 - [firefox-bidi-mcp](https://awesomecua.com/zh/resources/github-enne2-firefox-bidi-mcp/)
+- [firefox_antidetect_patch](https://awesomecua.com/zh/resources/github-feder-cr-firefox-antidetect-patch/)
 - [Flash Computer Use](https://awesomecua.com/zh/resources/github-shortsspectrumai-del-flash-computer-use/)
 - [FlaUI](https://awesomecua.com/zh/resources/github-flaui-flaui/)
 - [Floom OpenBrowser](https://awesomecua.com/zh/resources/github-floomhq-openbrowser/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/13/
 - [Glasswarp MCP Server](https://awesomecua.com/zh/resources/github-glasswarp-mcp-server/)
 - [Glasswarp Python SDK](https://awesomecua.com/zh/resources/github-glasswarp-python-sdk/)
 - [glovebox-mcp](https://awesomecua.com/zh/resources/github-segentic-lab-glovebox-mcp/)
-- [gnome-wayland-computer-use](https://awesomecua.com/zh/resources/github-ryanraposo-gnome-wayland-computer-use/)
-- [Gobii Platform](https://awesomecua.com/zh/resources/github-gobii-ai-gobii-platform/)

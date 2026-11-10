@@ -212,6 +212,8 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   A dataset of 1,020 GameWorld agent trajectories from general and computer-use interfaces, with step records, screenshots, outcomes, and metrics.
 - [go-browse-wa-raw](https://awesomecua.com/resources/url-edb0eadcc3df5559e941/) — Date not recorded
   go-browse-wa-raw is a browser-agent trajectory dataset with page observations, actions, goals, rewards, and images. Its train split contains 196462 examples.
+- [HiconAgent-AMEX](https://awesomecua.com/resources/url-3df97229d34c44c2014a/) — Date not recorded
+  Training and validation data for HiconAgent built from the AMEX Android dataset: each sample holds a goal, earlier screenshots and actions, and the next action as the answer, for history-aware RL of GUI agents.
 - [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/) — Date not recorded
   A dataset for GUI-agent memory research containing expanded web links, synthesized tasks, and executed trajectories with successful and failed outcomes.
 - [xunsss/osworld2-codex-gpt56sol-0624-attempt-preview](https://awesomecua.com/resources/url-bf57897ba4d047112345/) — Date not recorded
@@ -225,6 +227,8 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   The context-aware Aria-UI release that uses interaction context to support grounding in dynamic Android and desktop agent tasks.
 - [Aria-UI/Aria-UI-base](https://awesomecua.com/resources/url-2866edbea80fa34aa684/) — Date not recorded
   Aria-UI/Aria-UI-base is a released GUI grounding checkpoint that maps an instruction and interface image to target coordinates. The card documents history-aware input and inference examples.
+- [Auto-UI](https://awesomecua.com/resources/url-952cb4c3f308418aa85b/) — Date not recorded
+  Trained Auto-UI checkpoints and BLIP-processed AITW features for a chain-of-action agent that predicts device actions from screenshots, previous actions and planned future actions.
 - [OpenCUA-7B](https://awesomecua.com/resources/url-2803eda78cff23fb63cc/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint that produces desktop actions from screenshots and instructions, using recent screen history for context.
 - [STEVE-R1-7B-SFT](https://awesomecua.com/resources/url-666844c28be1138b0e37/) — Date not recorded

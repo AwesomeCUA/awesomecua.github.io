@@ -24,7 +24,7 @@
 
 ### 数量记录
 
-- ≈ 7,300,000 samples — reported MultiUI training collection（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md）
+- ≈ 7,300,000 个样本 — reported MultiUI training collection（来源报告；来源：https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md）
 
 The README provides a rounded sample count. Unique screenshots and normalized split sizes are unrecorded. Synthetic examples and publicly sourced web content have provenance and quality limits; data terms must be checked separately from repository code.
 

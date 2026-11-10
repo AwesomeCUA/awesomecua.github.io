@@ -28,13 +28,13 @@ The card calls this the cleaned, training-ready release and points to the publis
 
 ### 数量记录
 
-- 31,675 cleaned trajectories — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 317,682 interaction steps — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 39,332 Seed/Demo sliding-window rows — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 263,995 SFT image/action turns — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 150 evaluation traces — test_suite_150 subset as stated on the card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
-- 48 data parts per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出；来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
-- 71 SFT Parquet shards per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出；来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
+- 31,675 条清洗后的轨迹 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 317,682 个交互步骤 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 39,332 行 Seed/Demo 滑动窗口数据 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 263,995 轮 SFT 图像/动作交互 — WebChain v2 release as stated on its card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 150 条评测追踪记录 — test_suite_150 subset as stated on the card（来源报告；来源：https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md）
+- 48 个数据分卷（每种格式） — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出）（来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
+- 71 个 SFT Parquet 分片（每种格式） — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft（计算得出）（来源：https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce）
 
 Trajectories, steps, windows, turns, parts and shards are different units and are counted separately. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the formats overlap. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card.
 

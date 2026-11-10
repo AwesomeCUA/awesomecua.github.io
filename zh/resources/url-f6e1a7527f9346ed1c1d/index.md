@@ -28,9 +28,9 @@ The thin card only describes the annotation files and split image archives; the 
 
 ### 数量记录
 
-- ≈ 81,000 reasoning steps — GUI-Libra-81K as described by the official repository README（来源报告；来源：https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/f3e9c78e5c6435d0fb39210191ce1ad284361120/README.md）
-- 32 JSON annotation files — data/annotations at revision 05bb2c5f: 8 source subsets, each with full, no-reasoning, 1,000-sample and 1,000-sample no-reasoning variants（计算得出；来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
-- 8 image archive groups — data/images at revision 05bb2c5f, stored as 9 split .tar.gz part files（计算得出；来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
+- ≈ 81,000 个推理步骤 — GUI-Libra-81K as described by the official repository README（来源报告；来源：https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/f3e9c78e5c6435d0fb39210191ce1ad284361120/README.md）
+- 32 个 JSON 标注文件 — data/annotations at revision 05bb2c5f: 8 source subsets, each with full, no-reasoning, 1,000-sample and 1,000-sample no-reasoning variants（计算得出）（来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
+- 8 组图像归档 — data/images at revision 05bb2c5f, stored as 9 split .tar.gz part files（计算得出）（来源：https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23）
 
 Steps, files and archive groups are different units and are counted separately. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data and share examples.
 

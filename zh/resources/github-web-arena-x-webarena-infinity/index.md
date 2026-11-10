@@ -25,15 +25,15 @@ Documented by a March 2026 blog post at webarena.dev; the README cites that post
 - 评测方式：Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.
 - 侧重：browser agents on generated replicas of real web applications, programmatic state verification of task outcomes
 - 观测：DOM-derived page state through browser-use (screenshots optional), screenshots
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 1,260 tasks — initial release, ten environments (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
-- 10 environments — initial release (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
-- 13 environment directories — apps/ at commit 1ca7781, excluding ablations, app-description and user-manuals（计算得出；来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
-- 1,620 real-task verifier scripts — apps/*/real-tasks/task_*.py at commit 1ca7781 (260 easy, 260 medium, 1,100 hard by file prefix)（计算得出；来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
-- 737 functional-test verifier scripts — apps/*/function-tasks/task_*.py at commit 1ca7781（计算得出；来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
+- 1,260 个任务 — initial release, ten environments (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
+- 10 个环境 — initial release (blog statistics table)（来源报告；来源：https://webarena.dev/webarena-infinity/content.md）
+- 13 个环境目录 — apps/ at commit 1ca7781, excluding ablations, app-description and user-manuals（计算得出）（来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
+- 1,620 个真实任务验证脚本 — apps/*/real-tasks/task_*.py at commit 1ca7781 (260 easy, 260 medium, 1,100 hard by file prefix)（计算得出）（来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
+- 737 个功能测试验证脚本 — apps/*/function-tasks/task_*.py at commit 1ca7781（计算得出）（来源：https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1）
 
 The repository holds three more environment directories than the blog's release table, so state which environments and task suite (real-tasks or function-tasks) a score covers. Keep the agent harness, vision setting, step limit and task timeout with any score. No benchmark run was executed for this review.
 

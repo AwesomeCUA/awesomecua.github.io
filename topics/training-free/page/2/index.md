@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/training-free/page/2/
 
 Full list: https://awesomecua.com/topics/training-free/index.md
 
+- [MM-Navigator](https://awesomecua.com/resources/github-zzxslp-mm-navigator/)
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/)
 - [Re-Prefill](https://awesomecua.com/resources/github-linjiaping1-re-prefill/)
 - [RegionFocus](https://awesomecua.com/resources/github-tiangeluo-regionfocus/)

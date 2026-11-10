@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
+- [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/zh/resources/github-qiulingzhu809-sudo-job-pilot-2027/)
 - [kamalesh404 AgentOS](https://awesomecua.com/zh/resources/github-kamalesh404-agentos/)
 - [Knot Agent](https://awesomecua.com/zh/resources/github-liz-public-knot-agent/)
 - [Komos](https://awesomecua.com/zh/resources/url-65a9a9211f0dd2b7264a/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/7/
 - [one-for-all](https://awesomecua.com/zh/resources/github-elijahumana-one-for-all/)
 - [Open Codex Record & Replay](https://awesomecua.com/zh/resources/github-hqhq1025-open-codex-record-and-replay/)
 - [Open Duet (open-dots)](https://awesomecua.com/zh/resources/github-anil-matcha-open-dots/)
-- [Open Grok Bot](https://awesomecua.com/zh/resources/github-anil-matcha-open-grok-bot/)

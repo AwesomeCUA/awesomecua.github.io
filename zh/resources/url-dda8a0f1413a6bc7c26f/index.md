@@ -25,15 +25,15 @@ The Hub repository holds five benchmark JSON files, three screenshot tar.gz arch
 - 评测方式：Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.
 - 侧重：single-step Android GUI action prediction, element grounding against target boxes
 - 观测：screenshots, task goals, step instructions (low-level files), action history
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 8,377 step records — android_control_high_task-improved.json (high-level goals, revised labels)（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 1,540 episodes (distinct screenshot directories) — android_control_high_task-improved.json（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 527 step records with revised task text — android_control_high_task-improved.json（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 85 step records with corrected ground-truth actions — android_control_high_task-improved.json (gpt_corrected true)（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
-- 8,377 step records — android_control_low_bbox.json (step instructions)（计算得出；来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json）
+- 8,377 条步骤记录 — android_control_high_task-improved.json (high-level goals, revised labels)（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 1,540 个回合（不重复的截图目录） — android_control_high_task-improved.json（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 527 条含修订任务文本的步骤记录 — android_control_high_task-improved.json（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 85 条含已更正真值动作的步骤记录 — android_control_high_task-improved.json (gpt_corrected true)（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json）
+- 8,377 条步骤记录 — android_control_low_bbox.json (step instructions)（计算得出）（来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json）
 
 Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals; these counts are reported separately.
 

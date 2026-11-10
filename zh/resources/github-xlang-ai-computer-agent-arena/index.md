@@ -25,14 +25,14 @@ Platform code from the xlang-ai organization; the repository description and REA
 - 评测方式：After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.
 - 侧重：human pairwise preference between computer-use agents, open-ended user-written tasks
 - 观测：live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 2,010 verified two-agent battle sessions — backend/scripts/sessions_clean_filtered.csv (started 2025-02-13 to 2025-05-15)（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
-- 1,070 verified two-agent battle sessions — Windows sessions in the CSV（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
-- 940 verified two-agent battle sessions — Ubuntu sessions in the CSV（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
-- 615 verified two-agent battle sessions — sessions whose battle_result is tie（计算得出；来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 2,010 场已验证的双智能体对战 — backend/scripts/sessions_clean_filtered.csv (started 2025-02-13 to 2025-05-15)（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 1,070 场已验证的双智能体对战 — Windows sessions in the CSV（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 940 场已验证的双智能体对战 — Ubuntu sessions in the CSV（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
+- 615 场已验证的双智能体对战 — sessions whose battle_result is tie（计算得出）（来源：https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv）
 
 Counts are rows of the released CSV, computed with Python's csv module; each row is one session with two agents and a distinct session ID. Agent observations and actions are defined by the agent implementations in the unreleased hub.
 

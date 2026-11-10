@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/15/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [Kyros Local Desktop Assistant](https://awesomecua.com/resources/github-rhymezip-kyros-local-desktop-assistant/)
+- [Label Controllers](https://awesomecua.com/resources/github-amywlp-label-controllers/)
+- [LAI (Linux Native OS Agent)](https://awesomecua.com/resources/github-cufelix-lai/)
 - [LASSO WebMCP](https://awesomecua.com/resources/github-smkzz-lasso/)
 - [Latch](https://awesomecua.com/resources/github-freezetheworld-latch/)
 - [lauyuen stealth-browser-mcp](https://awesomecua.com/resources/github-lauyuen-stealth-browser-mcp/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [MCP Desktop Automation](https://awesomecua.com/resources/github-tanob-mcp-desktop-automation/)
 - [MCP for Blender](https://awesomecua.com/resources/github-ahujasid-blender-mcp/)
 - [MCP Link Server](https://awesomecua.com/resources/github-aurafriday-mcp-link-server/)
-- [MCP Master Puppeteer](https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/)
-- [MCP Session Bridge](https://awesomecua.com/resources/github-t3ratech-mcp-session-bridge/)
-- [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/)

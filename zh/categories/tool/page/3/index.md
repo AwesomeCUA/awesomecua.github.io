@@ -4,8 +4,11 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/3/ · [English](htt
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
+- [Daedalus for Chrome](https://awesomecua.com/zh/resources/github-anchor-inference-daedalus-chrome-extension/)：一个通过 Chrome 调试器 API 和浏览器守护进程，将 Daedalus 智能体连接到浏览器标签页的 Chrome 扩展。
+- [DesignRepair](https://awesomecua.com/zh/resources/github-ugaiforge-designrepair/)：DesignRepair 分析前端代码和渲染后的页面，再结合 Material Design 指南与大语言模型识别并修复界面设计问题。
 - [Deskwright](https://awesomecua.com/zh/resources/github-tristanmuzzu-deskwright/)：Deskwright 是面向 AI 智能体的跨平台桌面自动化工具包，结合操作系统无障碍树、OCR 回退机制和输入控制。
 - [Diwall](https://awesomecua.com/zh/resources/github-ronandavalan-diwall/)：Diwall 向语言模型提供截图、编号的网页元素和无障碍数据以执行浏览器操作，并保留截图供人查看。
+- [droidbotApp](https://awesomecua.com/zh/resources/github-ylimit-droidbotapp/)：DroidBot 测试输入生成器的 Android 配套应用，注册一个输入法服务；DroidBot 通过 adb 发送广播意图传递文本，由该服务将文本输入到当前获得焦点的文本框。
 - [Droidrun iOS Portal](https://awesomecua.com/zh/resources/github-droidrun-ios-portal/)：已归档的 iOS 自动化工具，通过 XCTest HTTP 服务器提供屏幕截图、无障碍树、应用启动、手势和文本输入接口。
 - [DSH × Termux — mobile operations kit](https://awesomecua.com/zh/resources/github-maopk-dsh-termux-kit/)：一套面向 DeepSeek Harness 的 Android 运维工具，提供桌面小组件、Console 应用和无障碍桥接服务，使智能体能够读取并操控手机屏幕。
 - [dsh-browser-playwright](https://awesomecua.com/zh/resources/github-chenyuheee-dsh-browser-playwright/)：面向 DeepSeek Harness 的 Playwright 浏览器自动化插件，以快照为先，使用无障碍树进行交互。
@@ -38,6 +41,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/3/ · [English](htt
 - [hypr-computer-use-mcp](https://awesomecua.com/zh/resources/github-smirnov-labs-hypr-computer-use-mcp/)：面向 Hyprland/Wayland 的计算机使用 MCP 服务器，结合截图、点击和输入工具与 tmux、CDP 集成。
 - [i3-cua-mcp](https://awesomecua.com/zh/resources/github-smirnov-labs-i3-computer-use-mcp/)：一款面向 X11 上 i3 桌面的 MCP 服务器，提供窗口数据、屏幕截图和输入控制。它将截图中的坐标映射到桌面位置，并附带 Xephyr 沙箱。
 - [idb](https://awesomecua.com/zh/resources/github-facebook-idb/)：idb 是用于自动化操作 iOS 模拟器和设备的命令行工具及 Python 客户端，提供远程伴随进程，以及应用和测试流程所需的命令。
+- [Interception](https://awesomecua.com/zh/resources/github-oblitum-interception/)：一个 Windows 输入驱动及 C 库，可按设备捕获、过滤并注入键盘和鼠标输入，附带示例程序和命令行安装程序。
 - [invisible_playwright_mcp](https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright-mcp/)：MCP 服务器及本地网页界面，让 LLM 通过反检测 Firefox 版本操作浏览器，支持模拟鼠标移动与按键输入、预设浏览器身份、可选代理和持久化配置文件。
 - [IOS13-SimulateTouch](https://awesomecua.com/zh/resources/github-xuan32546-ios13-simulatetouch/)：这个 iOS 触控库可在越狱设备上执行脚本或远程触控，录制触控事件供回放，并提供图像匹配和 OCR 功能。
 - [iphone-use-flows](https://awesomecua.com/zh/resources/github-leeguooooo-iphone-use-flows/)：这是供 iphone-use 使用的可复用 iPhone 应用工作流仓库。其 JSON 流程定义手机操作、输入项和检查步骤，以完成重复任务。
@@ -60,6 +64,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/3/ · [English](htt
 - [MCP-Slicer](https://awesomecua.com/zh/resources/github-zhaoyouj-mcp-slicer/)：MCP-Slicer 让模型客户端通过节点检查、Python 执行和截图使用 3D Slicer，在医学影像与场景任务中获得视觉反馈。
 - [Mechanize](https://awesomecua.com/zh/resources/github-sparklemotion-mechanize/)：Mechanize 是一个 Ruby 库，可自动执行网站交互，包括页面导航、Cookie 处理和表单提交。
 - [Mobile Harness](https://awesomecua.com/zh/resources/github-droidrun-mobile-harness/)：提供可移植的智能体指令和集成工具，通过 mobilerun-core 控制本地或云端手机。
+- [Mobile JSON Wire Protocol Specification](https://awesomecua.com/zh/resources/github-seleniumhq-mobile-spec/)：一份用于自动化原生与混合移动应用的 WebDriver 扩展草案，定义了会话、能力参数、定位策略、触摸手势、屏幕方向、旋转、网络模式和 WebView 上下文。
 - [Mobilerun Portal (formerly Droidrun Portal)](https://awesomecua.com/zh/resources/github-droidrun-mobilerun-portal/)：Android 无障碍服务，为移动端自动化智能体提供 UI 元素检查、设备控制接口和屏幕反馈。
 - [mobilerun-ios](https://awesomecua.com/zh/resources/github-droidrun-mobilerun-ios-releases/)：一个命令行桥接工具，将本地 iPhone 连接到 Mobilerun，以自然语言控制 iOS 设备，并以 macOS 和 Linux 二进制文件发布。
 - [MolmoPoint-GUISyn](https://awesomecua.com/zh/resources/github-allenai-molmopoint-guisyn/)：这是一条生成合成图形界面定位数据的流水线。它将生成的 HTML 渲染为截图，提取可见元素的边界框，并添加语义名称和交互意图。
@@ -91,6 +96,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/3/ · [English](htt
 - [PeekabooX](https://awesomecua.com/zh/resources/github-nordbyte-peekaboox/)：PeekabooX 是一套 Linux 桌面自动化工具，提供屏幕捕获、语义界面检查、输入操作和工作流，并通过命令行、Python 和 MCP 接口提供这些能力。
 - [pi-codex-computer-use](https://awesomecua.com/zh/resources/github-danecando-pi-codex-computer-use/)：pi-codex-computer-use 通过 Codex Computer Use 为 Pi 智能体提供 macOS 应用的查看与操作能力，将截图、无障碍树和输入操作作为工具开放。
 - [PICC](https://awesomecua.com/zh/resources/github-andelf-picc/)：PICC 是 macOS 工具集合，包含基于辅助功能接口的应用自动化命令行工具和界面树查看器，可检查并操作界面元素。
+- [Pix to App](https://awesomecua.com/zh/resources/github-soumikmohianuta-pixtoapp/)：一个 Python 流程，可将移动应用截图转换为 Android 项目：用 Canny 边缘轮廓构建视图层级，用 Tesseract OCR 识别文本，并生成布局、样式、颜色和字符串 XML。
 - [Playwright Test for VS Code](https://awesomecua.com/zh/resources/github-microsoft-playwright-vscode/)：面向 Playwright 浏览器测试的 VS Code 扩展，可将页面操作录制为测试，并支持运行测试、检查定位器、调试和查看执行轨迹。
 - [playwright-with-fingerprints](https://awesomecua.com/zh/resources/github-bablosoft-playwright-with-fingerprints/)：playwright-with-fingerprints 是 Windows 插件，可将获取的浏览器指纹应用于使用 Playwright 的网页自动化会话。
 - [playwright_stealth](https://awesomecua.com/zh/resources/github-mattwmaster58-playwright-stealth/)：Playwright_stealth 是一个 Python 辅助工具，可对 Playwright 页面和浏览器上下文应用浏览器指纹规避措施。它提供异步使用及配置示例。
@@ -98,9 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/3/ · [English](htt
 - [PyGetWindow](https://awesomecua.com/zh/resources/github-asweigart-pygetwindow/)：PyGetWindow 是用于查找和控制桌面应用窗口的 Python 工具。其文档所述的 Windows 实现支持读取窗口标题、位置和大小，以及改变窗口状态。
 - [Q-Verifier / Q-Reflector](https://awesomecua.com/zh/resources/github-pockyitachi-q-verifier/)：Q-Reflector 结合操作前后截图和任务上下文检查 GUI 智能体的操作，并提供训练及在线评测代码。
 - [Qontinui Runner](https://awesomecua.com/zh/resources/github-qontinui-qontinui-runner/)：Qontinui Runner 是一款桌面应用，可执行按配置定义的图形界面自动化项目并监控其进度。它支持鼠标、键盘和屏幕操作。
-- [qt-mcp](https://awesomecua.com/zh/resources/github-0xcarbon-qt-mcp/)：qt-mcp 通过 MCP 服务器向智能体开放运行中的 PySide6 桌面应用，提供控件检查、截图和输入操作。
-- [ReproSight](https://awesomecua.com/zh/resources/github-tungcorn-reprosight/)：ReproSight 是一款命令行工具，让编程智能体在浏览器中复现界面视觉缺陷、收集证据、在独立工作树中修改代码，并运行回归检查。
-- [Robotgo Pro](https://awesomecua.com/zh/resources/github-vcaesar-robotgo-pro/)：一款需授权的桌面自动化软件包，可在 Mac、Windows 和 Linux 上读取屏幕与窗口，并控制鼠标和键盘输入。
-- [Rod](https://awesomecua.com/zh/resources/github-go-rod-rod/)：这是基于 DevTools Protocol 的浏览器自动化驱动，提供元素等待、输入追踪和浏览器页面控制辅助功能。
-- [rrweb](https://awesomecua.com/zh/resources/github-rrweb-io-rrweb/)：rrweb 捕获网页状态和用户交互，并通过录制、回放与播放器软件包重建会话以供回放。
-- [Scenario for Blender](https://awesomecua.com/zh/resources/github-scenario-labs-blender-plugin/)：一款用于生成媒体内容和场景素材的 Blender 扩展。其本地 MCP 服务器让智能体检查已打开的场景并请求生成任务。

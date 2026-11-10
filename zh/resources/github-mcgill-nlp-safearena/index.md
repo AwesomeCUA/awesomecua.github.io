@@ -21,12 +21,12 @@ SafeArena 是将良性与有害任务配对、用于研究蓄意滥用风险的�
 - 评测方式：Task outcomes and the Agent Risk Assessment categories evaluate agent behavior on benign and harmful requests.
 - 侧重：web-agent safety, task completion
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 250 tasks — safe split（来源报告；来源：https://arxiv.org/abs/2503.04957）
-- 250 tasks — harmful split（来源报告；来源：https://arxiv.org/abs/2503.04957）
+- 250 个任务 — safe split（来源报告；来源：https://arxiv.org/abs/2503.04957）
+- 250 个任务 — harmful split（来源报告；来源：https://arxiv.org/abs/2503.04957）
 
 Use SafeArena-specific containers. The documented task splits require access approval.
 

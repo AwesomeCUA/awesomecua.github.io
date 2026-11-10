@@ -21,12 +21,12 @@
 - 评测方式：Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
 - 侧重：live-web task completion
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 300 tasks — documented Online-Mind2Web suite（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-- 136 websites — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 300 个任务 — documented Online-Mind2Web suite（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 136 个网站 — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
 
 Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.
 

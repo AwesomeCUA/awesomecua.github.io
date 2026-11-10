@@ -28,8 +28,8 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 ### 数量记录
 
-- ≈ 44,000 QA pairs — single-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
-- ≈ 6,000 dialogues — multi-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 44,000 组 QA 对 — single-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
+- ≈ 6,000 段对话 — multi-turn portion（来源报告；来源：https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md）
 
 Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 

@@ -28,11 +28,11 @@ The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks 
 
 ### 数量记录
 
-- 2 complete 108-task benchmark runs — Hub revision fb621da2（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md）
-- 108 canonical task directories with traj.jsonl — run1/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
-- 108 canonical task directories with traj.jsonl — run2/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
-- 23 superseded attempt directories — run1/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
-- 4 superseded attempt directories — run2/ at Hub revision fb621da2（计算得出；来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 2 次完整的基准测试运行（108 个任务） — Hub revision fb621da2（来源报告；来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md）
+- 108 个含 traj.jsonl 的规范任务目录 — run1/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 108 个含 traj.jsonl 的规范任务目录 — run2/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 23 个已被取代的尝试目录 — run1/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
+- 4 个已被取代的尝试目录 — run2/ at Hub revision fb621da2（计算得出）（来源：https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a）
 
 Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher. Scores come from an LLM evaluator; the run manifests and score tables were read, leaving task files outside this inspection.
 

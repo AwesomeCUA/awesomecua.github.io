@@ -28,7 +28,7 @@ The row count and unique-screen count are different units. The data card documen
 
 ### 数量记录
 
-- 701,864 training rows — default/train in the dataset card metadata（来源报告；来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md）
+- 701,864 行训练数据 — default/train in the dataset card metadata（来源报告；来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md）
 
 Rows and unique screenshots are different units. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
 

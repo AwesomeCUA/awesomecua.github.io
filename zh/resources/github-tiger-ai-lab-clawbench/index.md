@@ -25,16 +25,16 @@ Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (T
 - 评测方式：Two stages per task run: a request interceptor inside the container blocks the final HTTP request and marks the run intercepted when its URL regex and method match the task's eval_schema; an LLM judge (default deepseek-v4-pro at temperature 0) then checks the intercepted body against the instruction. A pass needs both. The original V1 paper rubric instead compares agent and human-reference trajectories.
 - 侧重：everyday online tasks on production websites, multi-step, write-heavy form workflows
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 152 tasks — V1 corpus shipped in test-cases/v1 (task.json files)（计算得出；来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
-- 129 tasks — V2 corpus shipped in test-cases/v2 (task.json files)（计算得出；来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
-- 153 tasks — V1 corpus as published in the paper and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
-- 130 tasks — V2 corpus as published and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
-- 143 live websites — shipped V1 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
-- 63 live websites — shipped V2 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
+- 152 个任务 — V1 corpus shipped in test-cases/v1 (task.json files)（计算得出）（来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
+- 129 个任务 — V2 corpus shipped in test-cases/v2 (task.json files)（计算得出）（来源：https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1）
+- 153 个任务 — V1 corpus as published in the paper and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
+- 130 个任务 — V2 corpus as published and used as the scoring denominator（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md）
+- 143 个在线网站 — shipped V1 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
+- 63 个在线网站 — shipped V2 corpus（来源报告；来源：https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md）
 
 The README says two ASPCA tasks were removed after publication, so the shipped corpora hold 152 and 129 tasks while scoring.md still divides by 153 and 130. Live sites change over time, and the README asks for comparisons under the same corpus revision, harness and rubric. Agents run through selectable harnesses (for example Hermes and OpenClaw), so observations and actions depend on the harness.
 

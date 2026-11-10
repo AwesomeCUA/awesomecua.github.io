@@ -25,13 +25,13 @@ The README is an anonymous-review version without authors or a citation; the pap
 - 评测方式：privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.
 - 侧重：privacy-region recognition on GUI screenshots, planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
 - 观测：recorded trajectory screenshots, task instructions, next-action plans
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 34 Android task directories — dataset_example/Android at commit 542a902a, of which 33 are complete trajectories（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
-- 26 PC trajectories — dataset_example/PC at commit 542a902a（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
-- 290 next-action grounding samples — dataset_example/grounding_data/manifest.jsonl at commit 542a902a（计算得出；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl）
+- 34 个 Android 任务目录 — dataset_example/Android at commit 542a902a, of which 33 are complete trajectories（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
+- 26 条 PC 轨迹 — dataset_example/PC at commit 542a902a（来源报告；来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md）
+- 290 个下一步动作定位样本 — dataset_example/grounding_data/manifest.jsonl at commit 542a902a（计算得出）（来源：https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl）
 
 Counts describe dataset_example/, the repository's review subset for smoke tests; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units; these counts are reported separately.
 

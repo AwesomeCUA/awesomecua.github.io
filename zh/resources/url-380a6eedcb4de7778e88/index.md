@@ -28,13 +28,13 @@ This is the Hub data release, distinct from the code and benchmark repository gi
 
 ### 数量记录
 
-- > 2,000 tasks — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 137 websites — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 31 domains — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 1,009 task instances — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 252 task instances — cross-task test split (test_task)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 177 task instances — cross-website test split (test_website)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
-- 912 task instances — cross-domain test split (test_domain)（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
+- > 2,000 个任务 — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 137 个网站 — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 31 个领域 — full Mind2Web collection（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 1,009 个任务实例 — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 252 个任务实例 — cross-task test split (test_task)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 177 个任务实例 — cross-website test split (test_website)（来源报告；来源：https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md）
+- 912 个任务实例 — cross-domain test split (test_domain)（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md）
 
 Each instance is one task with its multi-step action sequence; step counts use a different unit. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.
 

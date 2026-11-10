@@ -28,7 +28,7 @@ The Hub card is license-only; semantic description and reported scale come from 
 
 ### 数量记录
 
-- > 80,000 screen–action pairs — AndroidCode corpus described by Code2World README; the released JSON-row count remains unverified.（来源报告；来源：https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md）
+- > 80,000 组界面–动作对 — AndroidCode corpus described by Code2World README; the released JSON-row count remains unverified.（来源报告；来源：https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md）
 
 The manifest lists 58,953 HTML files; the >80k reported pairs use a different unit. The reported >80k pairs and the HTML-file inventory have different units. The card supplies neither a sample schema nor a count; archive/image completeness and JSON contents remain unverified.
 

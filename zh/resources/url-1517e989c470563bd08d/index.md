@@ -28,20 +28,20 @@ The WebLINX repository README calls this the official dataset page and its libra
 
 ### 数量记录
 
-- 2,337 demonstrations — all splits in splits.json at revision a30ff2cb (train, valid and five test splits; disjoint)（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 969 demonstrations — train split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 100 demonstrations — valid split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 100 demonstrations — test_iid split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 290 demonstrations — test_geo split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 444 demonstrations — test_vis split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 223 demonstrations — test_cat split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 211 demonstrations — test_web split in splits.json at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
-- 2,126 chat-config turn records — valid split, data/chat/valid.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/valid.json.gz）
-- 2,308 chat-config turn records — test_iid split, data/chat/test_iid.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_iid.json.gz）
-- 7,672 chat-config turn records — test_geo split, data/chat/test_geo.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_geo.json.gz）
-- 9,023 chat-config turn records — test_vis split, data/chat/test_vis.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_vis.json.gz）
-- 5,971 chat-config turn records — test_cat split, data/chat/test_cat.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_cat.json.gz）
-- 4,856 chat-config turn records — test_web split, data/chat/test_web.json.gz at revision a30ff2cb（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_web.json.gz）
+- 2,337 条演示 — all splits in splits.json at revision a30ff2cb (train, valid and five test splits; disjoint)（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 969 条演示 — train split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 100 条演示 — valid split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 100 条演示 — test_iid split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 290 条演示 — test_geo split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 444 条演示 — test_vis split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 223 条演示 — test_cat split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 211 条演示 — test_web split in splits.json at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json）
+- 2,126 条 chat-config 轮次记录 — valid split, data/chat/valid.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/valid.json.gz）
+- 2,308 条 chat-config 轮次记录 — test_iid split, data/chat/test_iid.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_iid.json.gz）
+- 7,672 条 chat-config 轮次记录 — test_geo split, data/chat/test_geo.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_geo.json.gz）
+- 9,023 条 chat-config 轮次记录 — test_vis split, data/chat/test_vis.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_vis.json.gz）
+- 5,971 条 chat-config 轮次记录 — test_cat split, data/chat/test_cat.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_cat.json.gz）
+- 4,856 条 chat-config 轮次记录 — test_web split, data/chat/test_web.json.gz at revision a30ff2cb（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_web.json.gz）
 
 Counts were computed with a script. Demonstrations come from splits.json, whose seven splits are disjoint; its iid_all list is the union of valid and test_iid and overlaps those splits. Turn records are rows of the chat configuration, one per evaluated navigator turn, a different unit from demonstrations; the train file exceeds the catalog's 10 MB evidence budget, leaving its turn-record count unrecorded. The card's extra test split duplicates test_iid. The counts cover demonstrations and chat turn records; reranking files and CSVs fall outside those counts. Screenshots are not in this repository.
 

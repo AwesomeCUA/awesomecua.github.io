@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/tool/page/11/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [UI Defect Mocker](https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/)
+- [UI Image to Code Studio](https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/)
+- [uiacli (Windows UI Automation CLI)](https://awesomecua.com/resources/github-amitse-uiacli/)
+- [UIAutomationMcp](https://awesomecua.com/resources/github-trsdn-mcp-server-uiautomation/)
+- [uitars-mcp](https://awesomecua.com/resources/github-sandraschi-uitars-mcp/)
+- [Ultimate Playwright MCP](https://awesomecua.com/resources/github-pm990320-ultimate-playwright-mcp/)
+- [UltraTerm Computer Use](https://awesomecua.com/resources/github-michael-berardi-ultraterm-computer-use/)
 - [UltraWin MCP](https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/)
 - [Unbrowse](https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/)
 - [UnderPixel](https://awesomecua.com/resources/github-leluth-underpixel/)

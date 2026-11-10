@@ -21,14 +21,14 @@
 - 评测方式：A multimodal evaluator and annotated key-component matching assess completion; the framework also reports resource-use metrics.
 - 侧重：mobile task completion, resource use, cross-app workflows
 - 观测：screenshot trajectories
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 340 tasks — complete README task collection（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
-- 300 tasks — single-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
-- 40 tasks — cross-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
-- 66 applications — README total including third-party, Google, and system apps（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 340 个任务 — complete README task collection（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 300 个任务 — single-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 40 个任务 — cross-app subset（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
+- 66 个应用 — README total including third-party, Google, and system apps（来源报告；来源：https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md）
 
 The two task subsets partition the 340 tasks. The integrated agent and evaluator modes must accompany results. The preconfigured emulator snapshot is still marked coming soon in the inspected documentation.
 

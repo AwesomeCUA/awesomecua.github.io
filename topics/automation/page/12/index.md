@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/automation/page/12/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [dsh-cua](https://awesomecua.com/resources/github-hutusion-dsh-cua/)
 - [dsh-desktop-automation](https://awesomecua.com/resources/github-junkrat9527-dsh-desktop-automation/)
 - [dsh-jiey-browser](https://awesomecua.com/resources/github-jiewaigongxing-dsh-jiey-browser/)
 - [dsh-llm-web-bridge](https://awesomecua.com/resources/github-huangyukaili1031-dsh-llm-web-bridge/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [fast-browser-use](https://awesomecua.com/resources/github-nachafrommars-fast-browser-use/)
 - [FastCUA](https://awesomecua.com/resources/github-guojiz-fastcua/)
 - [FastHands](https://awesomecua.com/resources/github-tomaszteee-fasthands/)
-- [FastMCP Playwright Server](https://awesomecua.com/resources/github-ma-pony-mcp-playwright/)

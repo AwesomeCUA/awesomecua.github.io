@@ -4,6 +4,16 @@ HTML page: https://awesomecua.com/topics/data-generation/page/11/
 
 Full list: https://awesomecua.com/topics/data-generation/index.md
 
+- [RUSS](https://awesomecua.com/resources/github-xnancy-russ/)
+- [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)
+- [SCOPE-Gen](https://awesomecua.com/resources/github-k4ngzy-scope-gen/)
+- [Scrapfly MCP Server](https://awesomecua.com/resources/github-scrapfly-scrapfly-mcp/)
+- [Screen2AX](https://awesomecua.com/resources/github-macpaw-screen2ax/)
+- [screen2gym](https://awesomecua.com/resources/github-marc-saouda-screen2gym/)
+- [ScreenAgent Web Client](https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/)
+- [ScreenParse Webshot toolkit](https://awesomecua.com/resources/github-saidgurbuz-screenparse/)
+- [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/)
+- [Seq2act code (google-research)](https://awesomecua.com/resources/component-google-research-seq2act/)
 - [Shadow](https://awesomecua.com/resources/github-ghostwright-shadow/)
 - [Shinken](https://awesomecua.com/resources/github-meirtz-shinken/)
 - [Shiny Fishstick](https://awesomecua.com/resources/github-hootsworth-shiny-fishstick/)

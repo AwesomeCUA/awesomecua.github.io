@@ -4,7 +4,9 @@ HTML page: https://awesomecua.com/topics/efficiency/page/5/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [DeskMind Eyes](https://awesomecua.com/resources/github-deskmind-ai-eyes/)
 - [DiMo-GUI](https://awesomecua.com/resources/github-vivo-dimo-gui/)
+- [GPT-6 Astra](https://awesomecua.com/resources/url-039a4975e102cb538c36/)
 - [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/)
 - [Holo4 27B FP8](https://awesomecua.com/resources/url-354c5b46fd423f9b1b85/)
 - [Holo4 27B GGUF](https://awesomecua.com/resources/url-acfd6d395d67ce8011bb/)
@@ -19,6 +21,8 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [kev-browser-use](https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/)
 - [Laya-Android](https://awesomecua.com/resources/github-byun11-laya-android/)
 - [laya-browser](https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/)
+- [lora_qformer_test_V4-700_merged](https://awesomecua.com/resources/url-8a5201470d27334977fa/)
+- [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/resources/url-b144605ae24674ffb917/)
 - [Mano-P](https://awesomecua.com/resources/github-mininglamp-ai-mano-p/)
 - [Milo-Pointer](https://awesomecua.com/resources/github-chayworks-milo-pointer/)
 - [Model-3b-3ao](https://awesomecua.com/resources/url-477342b0eb81469b35a0/)
@@ -27,6 +31,7 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [OneJev](https://awesomecua.com/resources/github-omnijev-onejev/)
 - [OpenJev](https://awesomecua.com/resources/github-alanhuangyoo-openjev/)
 - [OpenJev-4B](https://awesomecua.com/resources/url-e592a1ff8bfcafcc7061/)
+- [OpenPhone_model](https://awesomecua.com/resources/url-836de49b2bbd47d3a6a5/)
 - [PTA-1](https://awesomecua.com/resources/url-303e1926b8ff4f60e006/)
 - [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/resources/url-72f3737bb5194fd64852/)
 - [Qwen3.5-4B-Browser-Agent-SFT-FP8](https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/resources/github-19pine-ai-aoi/)
 - [ApexCommander-RS](https://awesomecua.com/resources/github-buckster123-apexcommander-rs/)
 - [ApiTap](https://awesomecua.com/resources/github-n1byn1kt-apitap/)
-- [Appwalk](https://awesomecua.com/resources/github-kubstack-appwalk/)
-- [arc-cua](https://awesomecua.com/resources/github-shhivv-arc-cua/)
-- [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/resources/github-sharryxr-asil/)
-- [ask-web-ai](https://awesomecua.com/resources/github-pgw10086-ask-web-ai/)
-- [Astra AI Browser](https://awesomecua.com/resources/github-bennix-astraaibrowser/)

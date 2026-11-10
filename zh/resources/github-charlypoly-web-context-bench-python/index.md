@@ -25,7 +25,7 @@ This is a single-snapshot representation evaluation on local fixtures and captur
 - 评测方式：READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics.
 - 侧重：Browser-representation token use, Factual READ accuracy, ACT target-element selection
 - 观测：Top-document HTML, Markdown converted from HTML, Playwright accessibility snapshot, Browser Use indexed DOM, Stagehand hybrid snapshot, Viewport screenshot
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 

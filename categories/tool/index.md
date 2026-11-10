@@ -2,7 +2,7 @@
 
 Tools are utilities that an agent or developer calls to control, observe or inspect an interface: MCP servers, browser and device controllers, screen parsers and recorders.
 
-> 1,077 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
+> 1,084 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,15 +27,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these tools cover?
 
-Of 1,077 reviewed tools, 645 are tagged web, 556 desktop, 175 cross-platform and 78 mobile; 13 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 1,084 reviewed tools, 647 are tagged web, 557 desktop, 175 cross-platform and 82 mobile; 13 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which tools come with a research paper?
 
-18 of 1,077 link the arXiv paper that introduces or documents them, for example [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/), [activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) and [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/).
+18 of 1,084 link the arXiv paper that introduces or documents them, for example [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/), [activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) and [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/).
 
 ### Which licenses do tools declare?
 
-The most common declared licenses are MIT (737), Apache-2.0 (120) and AGPL-3.0 (22). 168 of 1,077 have no declared license in their record.
+The most common declared licenses are MIT (737), Apache-2.0 (122) and AGPL-3.0 (22). 172 of 1,084 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -2749,6 +2749,39 @@ The README documents hosted and self-hosted connections. Most tools require a Fi
 
 ---
 
+## firefox_antidetect_patch
+
+A Firefox patch series against a Mozilla release tag, one folder per feature, that adds engine-level fingerprint, network and Juggler automation patches and builds the anti-detect Firefox behind invisible_playwright.
+
+- Catalog URL: https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/
+- Original source: https://github.com/feder-cr/firefox_antidetect_patch
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, robustness
+- Evidence checked: 2026-11-10T03:00:58Z
+- ID: github:feder-cr/firefox_antidetect_patch
+
+### Limitations
+
+The repository holds the patch folders (automation, fingerprint, network, platform), a SERIES file giving their order, UPSTREAM.json with the Mozilla tag and build tooling under tools/. Its maintainer guide, AGENTS.md, is in Italian.
+
+- Record JSON: https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/feder-cr/firefox_antidetect_patch/10f5fd8cf1aa0eacf2ca438416d77d5f1b0af563/AGENTS.md (retrieved 2026-11-10T03:00:58Z; SHA-256 10140edddc4040efb09c2b20b580f42188a2621e97dc8b3597cfad141dd51ccc)
+
+---
+
 ## Ghost OS
 
 Ghost OS is a native macOS MCP server combining accessibility-tree action execution, Vision OCR fallback, and reusable workflow recipes.
@@ -3567,6 +3600,40 @@ RobotGo is a native Go cross-platform desktop automation library for controlling
 
 - https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/README.md (retrieved 2026-11-04T14:02:37Z; SHA-256 9cf3d8cac0c4d059a9f1d4a8fa4890efb00523da90ecba9b9f80e679079db291)
 - https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/LICENSE (retrieved 2026-11-04T14:07:47Z; SHA-256 b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1)
+
+---
+
+## serve-sim
+
+A CLI that streams a booted iOS Simulator to a browser preview over MJPEG and WebSocket, with commands and an Agent Skill that let coding agents send taps, gestures, text and button presses.
+
+- Catalog URL: https://awesomecua.com/resources/github-evanbacon-serve-sim/
+- Original source: https://github.com/EvanBacon/serve-sim
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: ios
+- Topics: mobile-navigation, sandbox, tool-integration
+- Evidence checked: 2026-11-10T03:00:58Z
+- ID: github:evanbacon/serve-sim
+
+### Limitations
+
+A Swift helper captures the simulator framebuffer via simctl io; the CLI also rotates the device, records MP4 video, injects camera feeds and forwards simulator logs. It requires macOS with Xcode command line tools, Node.js 20 or newer and Apple Silicon. Declared license: Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/github-evanbacon-serve-sim/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/EvanBacon/serve-sim/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/EvanBacon/serve-sim/04903042c8fdb5c54e5eacb07781f307d748e166/README.md (retrieved 2026-11-10T03:00:58Z; SHA-256 efcfc6b89e09c3e10d32053a8d99eff5e727c0426aa9289b8adda3677eff5721)
+- https://raw.githubusercontent.com/EvanBacon/serve-sim/HEAD/LICENSE (retrieved 2026-11-10T02:08:09Z; SHA-256 9024cdf56dfe7e66523698a9f63d3a0061eb15f43bd5ea8e3833a56017ae37fd)
 
 ---
 
@@ -6656,6 +6723,39 @@ The README documents Playwright and headless Chromium on Linux, JSON action scen
 
 ---
 
+## droidbotApp
+
+Android companion app for the DroidBot test input generator that registers an input method service; DroidBot sends text by broadcast intent over adb and the service enters it into the focused text field.
+
+- Catalog URL: https://awesomecua.com/resources/github-ylimit-droidbotapp/
+- Original source: https://github.com/ylimit/droidbotApp
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation
+- Evidence checked: 2026-11-10T03:01:00Z
+- ID: github:ylimit/droidbotapp
+
+### Limitations
+
+The app contains DroidBotIME, a settings activity and a commented-out patch for the PrivacyStreams accessibility service; building it requires importing the PrivacyStreams Android SDK. DroidBot's droidbot_ime.py adapter enables the service with adb ime commands.
+
+- Record JSON: https://awesomecua.com/resources/github-ylimit-droidbotapp/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yuanchun-li/droidbotApp/3ddafe86be3dfb31085c070b5e3b0e8dc197ba78/README.md (retrieved 2026-11-10T03:01:00Z; SHA-256 a4d4d32c3d59a534fadc1d5a849dede17777f5efe5221559166afab90257f2f2)
+
+---
+
 ## Droidrun iOS Portal
 
 An archived iOS automation portal that exposes screenshots, accessibility trees, app launch, gestures, and text input through an XCTest HTTP server.
@@ -7709,6 +7809,39 @@ The source says the companion runs on macOS and the client can run elsewhere. It
 
 ---
 
+## Interception
+
+A Windows input driver and C library that captures, filters and injects keyboard and mouse strokes per device, shipped with sample programs and a command-line installer.
+
+- Catalog URL: https://awesomecua.com/resources/github-oblitum-interception/
+- Original source: https://github.com/oblitum/Interception
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows
+- Topics: automation
+- Evidence checked: 2026-11-10T03:01:00Z
+- ID: github:oblitum/interception
+
+### Limitations
+
+The library API in interception.h provides contexts, per-device filters and precedence, wait, receive and send of strokes, and hardware ID queries. Building uses the Windows Driver Kit 7.1.0 and installing the driver needs administrator rights. The library is LGPL for non-commercial use, with separate commercial licenses.
+
+- Record JSON: https://awesomecua.com/resources/github-oblitum-interception/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/oblitum/Interception/39eecbbc46a52e0402f783b872ef62b0254a896a/README.md (retrieved 2026-11-10T03:01:00Z; SHA-256 783d15134d825ecde67a3cc36bede9a95efbc601c2ec91c49968004e771f4869)
+
+---
+
 ## invisible_playwright_mcp
 
 MCP server and local web UI that let an LLM drive an anti-detect Firefox build with moving-pointer and key-press input, seeded browser identities, optional proxies and persistent profiles.
@@ -8432,6 +8565,39 @@ The publisher describes this as a Markdown harness.
 
 - https://raw.githubusercontent.com/droidrun/mobile-harness/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 0d05433c730e74f13be753fa6156737f797a69d61d8793e47f5a56b3a63ee790)
 - https://raw.githubusercontent.com/droidrun/mobile-harness/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 de215a2914d50cb87fcab9e19efc856b9e600a68eefec5c63e284dae34977133)
+
+---
+
+## Mobile JSON Wire Protocol Specification
+
+A draft WebDriver extension for automating native and hybrid mobile apps, defining sessions, capabilities, locator strategies, touch gestures, orientation, rotation, network modes and webview contexts.
+
+- Catalog URL: https://awesomecua.com/resources/github-seleniumhq-mobile-spec/
+- Original source: https://github.com/SeleniumHQ/mobile-spec
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android, ios
+- Topics: automation, mobile-navigation, history
+- Evidence checked: 2026-11-10T03:01:00Z
+- ID: github:seleniumhq/mobile-spec
+
+### Limitations
+
+The repository holds spec-draft.md, Python WebDriver tests for finding elements in webviews, and the ApiDemos sample app. The draft extends the Selenium JSON Wire Protocol, names appium, ios-driver and selendroid as automation tools, and records that its details were worked out at meetings in August 2013.
+
+- Record JSON: https://awesomecua.com/resources/github-seleniumhq-mobile-spec/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SeleniumHQ/mobile-spec/81201df03cb76464afe8df17c4c203093793ea6e/spec-draft.md (retrieved 2026-11-10T03:01:00Z; SHA-256 965dd271247fb5fad917c29cef9e08e345776ad9e0a2eb9a30f215459cea534e)
 
 ---
 
@@ -9452,6 +9618,40 @@ The source also describes screenshot OCR, dictation, and other productivity util
 ### Primary evidence
 
 - https://raw.githubusercontent.com/andelf/picc/HEAD/README.md (retrieved 2026-11-09T21:09:38Z; SHA-256 abeddb321abd03f701e06d3f89f22aaa89e55d9359989907365253be863baea4)
+
+---
+
+## Pix to App
+
+A Python pipeline that turns a mobile app screenshot into an Android project, using Canny edge contours for the view hierarchy, Tesseract OCR for text and generated layout, style, color and string XML.
+
+- Catalog URL: https://awesomecua.com/resources/github-soumikmohianuta-pixtoapp/
+- Original source: https://github.com/soumikmohianuta/pixtoapp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, ui-design
+- Evidence checked: 2026-11-10T03:01:00Z
+- ID: github:soumikmohianuta/pixtoapp
+
+### Limitations
+
+Dependencies are Tesseract OCR, OpenCV, stringtemplate3 and ANTLR, plus a JDK and the Android SDK for the template project; the setup instructions target Windows. The input image path is set in screenshotProcessor.py, which writes activity_main.xml and resource files into the generated project.
+
+- Record JSON: https://awesomecua.com/resources/github-soumikmohianuta-pixtoapp/record.json
+
+### License declarations
+
+- code: BSD-3-Clause — https://raw.githubusercontent.com/soumikmohianuta/pixtoapp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/soumikmohianuta/pixtoapp/f103a580e015ef7779998f14c9533a238a4bf1d1/README.md (retrieved 2026-11-10T03:01:00Z; SHA-256 41f05c7fb074c4c6f0a1782bdcc82b1517992457cbc326a7476bae8cfde20253)
+- https://raw.githubusercontent.com/soumikmohianuta/pixtoapp/HEAD/LICENSE (retrieved 2026-11-10T02:08:20Z; SHA-256 5151d031acfca7100a2cd4108525507093c15c0d52a542e03dd2783ab06d533a)
 
 ---
 
@@ -10555,6 +10755,36 @@ The README links to an online demo and documentation and shows an MIT license ba
 
 ---
 
+## Tarsier
+
+Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
+
+- Catalog URL: https://awesomecua.com/resources/github-reworkd-tarsier/
+- Original source: https://github.com/reworkd/tarsier
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: screen-understanding
+- Evidence checked: 2026-10-16T06:36:04Z
+- ID: github:reworkd/tarsier
+
+- Record JSON: https://awesomecua.com/resources/github-reworkd-tarsier/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 2a313a5a1c433c0609067c6d875d5ff69493e8792d2173e458eb5db8bf232977)
+- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 f4ff2ba0f16e8abb7087071651c217ced6421e224313755c5d88433e324f19a1)
+
+---
+
 ## TeachReplay — OpenMausBot Integration
 
 This OpenMausBot integration adds a panel for recording computer demonstrations, compiling reusable skills, and replaying them with new inputs.
@@ -10779,40 +11009,6 @@ Model Context Protocol server that injects interactive Set-of-Mark hover labels 
 
 ---
 
-## UI Defect Mocker
-
-Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.
-
-- Catalog URL: https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/
-- Original source: https://github.com/ZJU-ACES-ISE/UIDefectMocker
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: android
-- Topics: data-generation, evaluation, screen-understanding
-- Evidence checked: 2026-10-16T13:17:23Z
-- ID: github:zju-aces-ise/uidefectmocker
-
-### Limitations
-
-This entry describes the released screenshot-defect tool, separately from the under-construction ChatUITest project hub.
-
-- Record JSON: https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/README.md (retrieved 2026-10-16T13:17:23Z; SHA-256 fc3009b355e46549c5128c933bb333aa37b1db5ac8ea8f2d0f300848d8a62200)
-- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE (retrieved 2026-10-16T13:29:25Z; SHA-256 2b75b184f28b204d8e2c7b45a341e4583202cf4c9da8964f108770929d1193ba)
-
----
-
 ## uiautomator2
 
 uiautomator2 is a Python library for controlling Android devices through a device-side UiAutomator service, including app launch and UI element actions.
@@ -11003,6 +11199,40 @@ The release includes SKILL.md and task reference files. It requires a running Vi
 ### Primary evidence
 
 - https://raw.githubusercontent.com/vibesurf-ai/claw-surf/HEAD/README.md (retrieved 2026-11-09T19:57:08Z; SHA-256 e07737cb20b74707903cb83edab8577c92093ad9fe37de5f3ebd5413ae098467)
+
+---
+
+## Voqal Chrome integration
+
+Chrome extension that connects the Voqal voice agent to the browser over a local WebSocket, reporting open tabs and running Voqal commands to open URLs, create or switch tabs and evaluate JavaScript in the active page.
+
+- Catalog URL: https://awesomecua.com/resources/github-voqal-chrome-integration/
+- Original source: https://github.com/voqal/chrome-integration
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-10T03:00:59Z
+- ID: github:voqal/chrome-integration
+
+### Limitations
+
+The repository holds a Manifest V3 extension (manifest.json, service-worker.js, scripts and a sandbox page) and a LICENSE file. It talks to a locally running Voqal agent on port 22171.
+
+- Record JSON: https://awesomecua.com/resources/github-voqal-chrome-integration/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/voqal/chrome-integration/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/voqal/chrome-integration/7b306c597670cb823bc4ac346790cf76c4917e35/manifest.json (retrieved 2026-11-10T03:00:59Z; SHA-256 cc468fc230b1aa760eb051eca383b9b7899cfa925135f7644e4384e4f041838e)
+- https://raw.githubusercontent.com/voqal/chrome-integration/HEAD/LICENSE (retrieved 2026-11-10T02:08:10Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -30530,36 +30760,6 @@ Captures a logged-in browser task demonstration once and compiles it into a dete
 
 ---
 
-## Tarsier
-
-Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
-
-- Catalog URL: https://awesomecua.com/resources/github-reworkd-tarsier/
-- Original source: https://github.com/reworkd/tarsier
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: screen-understanding
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: github:reworkd/tarsier
-
-- Record JSON: https://awesomecua.com/resources/github-reworkd-tarsier/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 2a313a5a1c433c0609067c6d875d5ff69493e8792d2173e458eb5db8bf232977)
-- https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 f4ff2ba0f16e8abb7087071651c217ced6421e224313755c5d88433e324f19a1)
-
----
-
 ## Tarsier-AI
 
 Tarsier-AI transforms desktop and web accessibility trees into portable semantic snapshots and deterministic action primitives for LLM agents.
@@ -30946,6 +31146,40 @@ Autonomous UI debugging MCP server that drives browsers and desktop apps to dete
 
 - https://raw.githubusercontent.com/developerz-ai/ui-debugger-mcp/HEAD/README.md (retrieved 2026-11-04T16:30:14Z; SHA-256 5f4c0afccb34ec41abefc7105330d9882737a09aab0b56690bbf6cf813b35794)
 - https://raw.githubusercontent.com/developerz-ai/ui-debugger-mcp/HEAD/LICENSE (retrieved 2026-11-04T16:35:32Z; SHA-256 ff4c42b5672010597a69cb265bf319bd95d75538dfc52eeba13f8ebd8c9f7ed7)
+
+---
+
+## UI Defect Mocker
+
+Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.
+
+- Catalog URL: https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/
+- Original source: https://github.com/ZJU-ACES-ISE/UIDefectMocker
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, evaluation, screen-understanding
+- Evidence checked: 2026-10-16T13:17:23Z
+- ID: github:zju-aces-ise/uidefectmocker
+
+### Limitations
+
+This entry describes the released screenshot-defect tool, separately from the under-construction ChatUITest project hub.
+
+- Record JSON: https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/README.md (retrieved 2026-10-16T13:17:23Z; SHA-256 fc3009b355e46549c5128c933bb333aa37b1db5ac8ea8f2d0f300848d8a62200)
+- https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE (retrieved 2026-10-16T13:29:25Z; SHA-256 2b75b184f28b204d8e2c7b45a341e4583202cf4c9da8964f108770929d1193ba)
 
 ---
 

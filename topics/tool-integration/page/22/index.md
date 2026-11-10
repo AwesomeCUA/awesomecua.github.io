@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/22/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [UltraTerm Computer Use](https://awesomecua.com/resources/github-michael-berardi-ultraterm-computer-use/)
+- [UltraWin MCP](https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/)
+- [Unbrowse](https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/)
+- [UnderPixel](https://awesomecua.com/resources/github-leluth-underpixel/)
 - [Undetectable Browser MCP Server](https://awesomecua.com/resources/github-undetectable-io-undetectable-browser-mcp/)
 - [Undetectable Chromium CDP MCP](https://awesomecua.com/resources/github-undetectable-io-chromium-cdp-mcp/)
 - [Universal AI Studio (OmniAI Desktop)](https://awesomecua.com/resources/github-osamalvzx-universal-ai-studio/)
@@ -28,6 +32,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [VNC MCP Server](https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/)
 - [vnc-computer-use CLI](https://awesomecua.com/resources/github-eyhn-vnc/)
 - [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/)
+- [Voqal Chrome integration](https://awesomecua.com/resources/github-voqal-chrome-integration/)
 - [voxie](https://awesomecua.com/resources/github-afraidsoul76-voxie/)
 - [Vuser Protocol](https://awesomecua.com/resources/github-openvuser-vuser/)
 - [VZT-Browser](https://awesomecua.com/resources/github-vonzelle-vzt-vzt-browser/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [webmcpify](https://awesomecua.com/resources/github-tuejon-webmcpify/)
 - [WebOperator](https://awesomecua.com/resources/github-kazkozdev-weboperator/)
 - [Webpage MCP](https://awesomecua.com/resources/github-mcpland-webpage-mcp/)
-- [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/)
-- [WebSense MCP 2.0](https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/)
-- [WellSet WebMCP](https://awesomecua.com/resources/github-kinhikars-wellset-webmcp/)
-- [WieslawSoltes Linux Computer Use for Codex](https://awesomecua.com/resources/github-wieslawsoltes-linuxcomputeruse/)
-- [Win32 MCP Server](https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/)

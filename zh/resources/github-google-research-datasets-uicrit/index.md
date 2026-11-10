@@ -28,8 +28,8 @@ The published CSV contains critique text, normalized boxes, ratings and RICO IDs
 
 ### 数量记录
 
-- 1,000 mobile UI screens — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
-- 11,344 design critiques — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
+- 1,000 个移动端 UI 界面 — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
+- 11,344 条设计评论 — current three-annotator release（来源报告；来源：https://raw.githubusercontent.com/google-research-datasets/uicrit/HEAD/README.md）
 
 Publisher-reported current release, separate from the smaller original-paper population. Screenshot pixels are obtained through referenced RICO IDs.
 

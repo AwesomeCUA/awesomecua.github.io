@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [jev-windows-agent](https://awesomecua.com/zh/resources/github-vbs2004-jev-windows-agent/)
+- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
+- [Kitewright](https://awesomecua.com/zh/resources/github-kitewright-kitewright/)
+- [lean-chronoscope-mcp](https://awesomecua.com/zh/resources/github-yyhezkel-lean-chronoscope-mcp/)
+- [lean-computer-use-mcp](https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/)
 - [Legacy UI Capability Engine](https://awesomecua.com/zh/resources/github-saitejareddi3636-legacy-ui-capability-engine/)
 - [LegacyBridge](https://awesomecua.com/zh/resources/github-peterhaupt-legacybridge/)
 - [Lightfeed Replayable Browser Agent](https://awesomecua.com/zh/resources/github-lightfeed-browser-agent/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/8/
 - [PhoneCLI](https://awesomecua.com/zh/resources/github-hkuds-phonecli/)
 - [Pi Jev Browser](https://awesomecua.com/zh/resources/github-laihenyi-pi-jev-browser/)
 - [pixelpi](https://awesomecua.com/zh/resources/github-josharsh-pixelpi/)
-- [Plasmate](https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate/)
-- [Playwright CLI](https://awesomecua.com/zh/resources/github-microsoft-playwright-cli/)
-- [POK-Agent](https://awesomecua.com/zh/resources/github-acekorneya-pok-agent/)
-- [PreAct](https://awesomecua.com/zh/resources/github-19pine-ai-preact/)
-- [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/zh/resources/url-4ee15c39dc38f230ad58/)

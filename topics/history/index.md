@@ -27,6 +27,8 @@ Full source records: https://awesomecua.com/downloads/topics/history/records.jso
   Archived Laminar browser agent in Python that drives Playwright Chromium with vision-capable LLMs, returns Pydantic-structured results and offers an interactive CLI with optional Laminar tracing.
 - [macOS-use](https://awesomecua.com/resources/github-browser-use-macos-use/) — Date not recorded
   An archived Browser Use project that lets an LLM operate macOS apps by reading their accessibility trees and pressing, typing into and opening elements through the macOS Accessibility API.
+- [Mobile JSON Wire Protocol Specification](https://awesomecua.com/resources/github-seleniumhq-mobile-spec/) — Date not recorded
+  A draft WebDriver extension for automating native and hybrid mobile apps, defining sessions, capabilities, locator strategies, touch gestures, orientation, rotation, network modes and webview contexts.
 - [NotebookLM Claude Code Skill](https://awesomecua.com/resources/github-pleaseprompto-notebooklm-skill/) — Date not recorded
   A Claude Code skill automates browser-based questions to NotebookLM and returns answers from uploaded documents. It includes scripts for authentication and notebook management.
 - [openadapt-flow](https://awesomecua.com/resources/github-openadaptai-openadapt-flow/) — Date not recorded

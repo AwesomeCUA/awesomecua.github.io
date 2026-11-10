@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/10/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [AutoGUI code](https://awesomecua.com/resources/github-zjulihongxin-autogui/)
+- [AutoPy](https://awesomecua.com/resources/github-autopilot-rs-autopy/)
+- [autourgos-cua-coordinate-tool](https://awesomecua.com/resources/github-devxjitin-autourgos-cua-coordinate-tool/)
+- [AUV](https://awesomecua.com/resources/github-moeru-ai-auv/)
+- [axcli](https://awesomecua.com/resources/github-andelf-axcli/)
+- [Axon](https://awesomecua.com/resources/github-gxcsoccer-axon/)
+- [AXorcist](https://awesomecua.com/resources/github-steipete-axorcist/)
 - [AXTree API](https://awesomecua.com/resources/github-amaar-mc-axtree-api/)
 - [AzaiSakura dsh-computer-use (macOS)](https://awesomecua.com/resources/github-azaisakura-dsh-computer-use/)
 - [bb-browser](https://awesomecua.com/resources/github-epiral-bb-browser/)
@@ -57,10 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [computer-use](https://awesomecua.com/resources/github-lindoelio-computer-use/)
 - [computer-use-fallback-mac](https://awesomecua.com/resources/github-zss03040464-computer-use-fallback-mac/)
 - [computer-use-grid](https://awesomecua.com/resources/github-yxdgyxlf-computer-use-grid/)
-- [computer-use-linux](https://awesomecua.com/resources/github-agent-sh-computer-use-linux/)
-- [computer-use-mcp](https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/)
-- [ComputerUse](https://awesomecua.com/resources/github-lakr233-computeruse/)
-- [Control-Agent](https://awesomecua.com/resources/github-gekaixing-control-agent/)
-- [CrossHands](https://awesomecua.com/resources/github-caelaxie-crosshands/)
-- [cu (Native GUI Automation CLI)](https://awesomecua.com/resources/github-killsng-cu/)
-- [cua-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/)

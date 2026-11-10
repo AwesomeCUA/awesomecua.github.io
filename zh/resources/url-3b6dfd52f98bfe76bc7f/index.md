@@ -25,12 +25,12 @@ Public TSV files contain V1, V2 and refusal task definitions. The card declares 
 - 评测方式：Task-specific precomputed rubrics; refusal tasks are a separate evaluation population.
 - 侧重：live web task completion, unsafe-request refusal
 - 观测：web pages
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 609 task identities — main V1/V2 suite (shared identities)（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
-- 111 tasks — refusal suite（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
+- 609 个任务标识 — main V1/V2 suite (shared identities)（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
+- 111 个任务 — refusal suite（来源报告；来源：https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md）
 
 V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions.
 

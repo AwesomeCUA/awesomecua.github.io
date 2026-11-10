@@ -28,7 +28,7 @@ Ten public Parquet shards are present. The card names its split test and reports
 
 ### 数量记录
 
-- 9,460 rows — Hub split named test（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md）
+- 9,460 行 — Hub split named test（来源报告；来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md）
 
 Preserves the publisher’s split label despite the collection’s training purpose. Rows contain lists of rejected candidates. Data license is unknown.
 

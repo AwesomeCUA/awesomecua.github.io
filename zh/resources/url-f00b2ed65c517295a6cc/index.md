@@ -28,11 +28,11 @@ The card says the videos were sourced from the internet, trimmed to screen-recor
 
 ### 数量记录
 
-- 48,478 videos — all six software categories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
-- ≈ 12,300 hours of video — all six software categories after trimming（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
-- 6 software categories — AutoCAD, Blender, Excel, Photoshop, Salesforce, VS Code（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
-- 48,477 MP4 files — data/ at Hub revision b50aecce（计算得出；来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
-- 48,473 per-video description JSON files — descriptions/ at Hub revision b50aecce（计算得出；来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
+- 48,478 段视频 — all six software categories（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
+- ≈ 12,300 小时视频 — all six software categories after trimming（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
+- 6 个软件类别 — AutoCAD, Blender, Excel, Photoshop, Salesforce, VS Code（来源报告；来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md）
+- 48,477 个 MP4 文件 — data/ at Hub revision b50aecce（计算得出）（来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
+- 48,473 个逐视频描述 JSON 文件 — descriptions/ at Hub revision b50aecce（计算得出）（来源：https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9）
 
 File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The card leaves the description files undocumented; their content was checked in one file only. Videos, hours, categories and files are different units; these counts are reported separately. Each category is one configuration with a single train split.
 

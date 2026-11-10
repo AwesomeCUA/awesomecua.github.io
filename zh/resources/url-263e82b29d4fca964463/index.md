@@ -28,10 +28,10 @@ Access requires manual approval by the publisher; the record rests on the public
 
 ### 数量记录
 
-- 153 task-definition JSON files — <domain>/tasks/ at Hub revision 9b8de9ad (chem 44, biomed 34, physics 31, stat 20, eeg 10, econ 6, geoscience 6, linguistics 2)（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
-- 115 translated task files — ablation/ at Hub revision 9b8de9ad (23 each in es, fr, ja, th, zh)（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
-- 11 QCOW2 VM images — files at Hub revision 9b8de9ad（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
-- 2,759 files — Hub repository at revision 9b8de9ad（计算得出；来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 153 个任务定义 JSON 文件 — <domain>/tasks/ at Hub revision 9b8de9ad (chem 44, biomed 34, physics 31, stat 20, eeg 10, econ 6, geoscience 6, linguistics 2)（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 115 个已翻译的任务文件 — ablation/ at Hub revision 9b8de9ad (23 each in es, fr, ja, th, zh)（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 11 个 QCOW2 VM 镜像 — files at Hub revision 9b8de9ad（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
+- 2,759 个文件 — Hub repository at revision 9b8de9ad（计算得出）（来源：https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681）
 
 All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, while an agent run is a different unit. Task files, translated variants, images and files are different units and are counted separately.
 

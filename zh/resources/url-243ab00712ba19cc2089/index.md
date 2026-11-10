@@ -28,9 +28,9 @@ The card documents post hoc selection of the 286-task OSWorld subset based on mo
 
 ### 数量记录
 
-- 350 demonstrations — packaged tasks/videos（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
-- 8,388 evidence images — final packaged images（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
-- 11,951 action records — packaged action traces（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
+- 350 条演示 — packaged tasks/videos（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
+- 8,388 张证据图像 — final packaged images（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
+- 11,951 条动作记录 — packaged action traces（来源报告；来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md）
 
 The OSWorld subset was selected post hoc using model outcomes; no train/test split is supplied. Coordinate calibration, task success, and complete anonymization are not established by package-format checks.
 

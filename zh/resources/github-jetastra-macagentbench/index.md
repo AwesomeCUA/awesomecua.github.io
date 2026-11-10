@@ -21,12 +21,12 @@ MacAgentBench 包含覆盖 25 个应用的 676 项 macOS 任务；每项任务�
 - 评测方式：Deterministic rule-based evaluators with intermediate checkpoints.
 - 侧重：macOS task completion, cross-application workflows
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 676 tasks — documented MacAgentBench suite（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
-- 25 applications — documented application coverage（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
+- 676 个任务 — documented MacAgentBench suite（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
+- 25 个应用 — documented application coverage（来源报告；来源：https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md）
 
 The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting, with observation representation varying by framework.
 

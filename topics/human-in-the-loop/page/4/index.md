@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/human-in-the-loop/page/4/
 
 Full list: https://awesomecua.com/topics/human-in-the-loop/index.md
 
+- [Cyber Seeds WebMCP](https://awesomecua.com/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)
 - [dassi](https://awesomecua.com/resources/url-040e17448d9d190b3c14/)
 - [dcc123456 Browser Copilot](https://awesomecua.com/resources/github-dcc123456-browser-copilot/)
 - [Deskfish](https://awesomecua.com/resources/github-0x11c11e-deskfish/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/human-in-the-loop/index.md
 - [Mac MCP (Menu Bar & Local Server)](https://awesomecua.com/resources/github-bulutarkan-mac-mcp/)
 - [MagenticLite / Magentic UI](https://awesomecua.com/resources/github-microsoft-magentic-ui/)
 - [Magpie Computer Use](https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/)
-- [magpie Computer Use](https://awesomecua.com/resources/github-wbb6517-magpie-computer-use/)

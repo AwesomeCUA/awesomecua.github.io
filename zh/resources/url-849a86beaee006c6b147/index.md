@@ -21,13 +21,13 @@ OmniAct 是用于生成计算机交互程序的数据集和基准。
 - 评测方式：The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.
 - 侧重：offline desktop/web action-script generation
 - 观测：screenshot, natural-language task
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 6,788 task examples — train split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
-- 2,020 task examples — test split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
-- 991 task examples — val split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
+- 6,788 个任务示例 — train split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
+- 2,020 个任务示例 — test split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
+- 991 个任务示例 — val split, HF revision 5e4bcb26（来源报告；来源：https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md）
 
 This released split table totals 9,799 examples; paper-level collection size is a separate population. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation uses offline script comparison. MIT is the Hub data declaration; original app/content rights are not resolved by it.
 

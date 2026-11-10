@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/17/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [nexus-browser-mcp](https://awesomecua.com/zh/resources/github-paipaipai666-nexus-browser-mcp/)
+- [Nik-Browser MCP](https://awesomecua.com/zh/resources/github-nikolay-3d-nik-browser-mcp/)
+- [NirvanaX AutoAgent](https://awesomecua.com/zh/resources/github-sayantanthecmd-nirvanax-autoagent/)
 - [Node AutoIt Koffi](https://awesomecua.com/zh/resources/github-nullmastermind-node-autoit-koffi/)
 - [nodriver-mcp](https://awesomecua.com/zh/resources/github-saber-cc-nodriver-mcp/)
 - [nodriver-mcp-server](https://awesomecua.com/zh/resources/github-andresolbach-nodriver-mcp-server/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/17/
 - [OpenCode Browser MCP](https://awesomecua.com/zh/resources/github-hogandong486-opencode-browser-mcp/)
 - [opencode-chrome](https://awesomecua.com/zh/resources/github-g10hdz-opencode-chrome/)
 - [opencode-gui-bridge](https://awesomecua.com/zh/resources/github-yueqi-wang-795-opencode-gui-bridge/)
-- [opencode-mobile-use](https://awesomecua.com/zh/resources/github-system1970-opencode-mobile-use/)
-- [opencode-webmcp](https://awesomecua.com/zh/resources/github-enihcam-opencode-webmcp/)
-- [OpenControl](https://awesomecua.com/zh/resources/github-joshuaalawrence-opencontrol/)

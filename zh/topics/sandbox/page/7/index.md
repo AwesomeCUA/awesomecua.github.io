@@ -4,6 +4,12 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [vnc-computer-use CLI](https://awesomecua.com/zh/resources/github-eyhn-vnc/)
+- [vnc-remote-control](https://awesomecua.com/zh/resources/github-bitranox-vnc-remote-control/)
+- [vnc-use](https://awesomecua.com/zh/resources/github-mayflower-vnc-use/)
+- [webarena-docker](https://awesomecua.com/zh/resources/github-mahirlabibdihan-webarena-docker/)
+- [webarena-setup](https://awesomecua.com/zh/resources/github-gasse-webarena-setup/)
+- [WildAWM](https://awesomecua.com/zh/resources/github-msr-orchard-wildawm/)
 - [Windows Sandbox Computer Use Skill](https://awesomecua.com/zh/resources/github-2018wzh-windows-sandbox-computer-use/)
 - [WinReach MCP](https://awesomecua.com/zh/resources/github-ghoui-winreach-mcp/)
 - [Wuying Agentic Mobile](https://awesomecua.com/zh/resources/url-df3102617f3a66c44fc9/)

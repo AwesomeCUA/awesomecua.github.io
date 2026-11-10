@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/workflow/page/9/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
+- [SAP SuccessFactors Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/)
 - [Scrapeless Python SDK](https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/)
 - [Scribe](https://awesomecua.com/resources/url-63ef8c7e455951a20281/)
 - [ScribeAgent](https://awesomecua.com/resources/github-colonylabs-scribeagent/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [Workflow-Guided Exploration research code](https://awesomecua.com/resources/github-stanfordnlp-wge/)
 - [Xihe Agent (羲和)](https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/)
 - [ZCode JetBrains Plugin](https://awesomecua.com/resources/github-csuftt-zcode-jetbrains-plugin/)
-- [ZennoPoster MCP](https://awesomecua.com/resources/github-zennolab-zennoposter-mcp/)

@@ -25,14 +25,14 @@ The repository contains evaluation and collection code; the linked Zenodo releas
 - 评测方式：Task-specific scripts evaluate six workflow-understanding task types.
 - 侧重：workflow documentation, workflow quality assessment, workflow knowledge transfer
 - 观测：screen recordings, action traces, screenshots, written standard operating procedures
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 6 task types — WONDERBREAD BPM benchmark（来源报告；来源：https://raw.githubusercontent.com/HazyResearch/wonderbread/HEAD/README.md）
-- 2,928 human demonstrations — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
-- 598 web navigation workflows — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
-- 724 human demonstrations — gold subset used for the original paper evaluations（来源报告；来源：https://zenodo.org/api/records/14094162）
+- 6 种任务类型 — WONDERBREAD BPM benchmark（来源报告；来源：https://raw.githubusercontent.com/HazyResearch/wonderbread/HEAD/README.md）
+- 2,928 条人工演示 — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
+- 598 个网页导航工作流 — full dataset release 14094162（来源报告；来源：https://zenodo.org/api/records/14094162）
+- 724 条人工演示 — gold subset used for the original paper evaluations（来源报告；来源：https://zenodo.org/api/records/14094162）
 
 Counts are publisher-reported. The gold subset covers 162 workflows and differs from the full collection; scores require the exact task and subset.
 

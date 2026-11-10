@@ -24,7 +24,7 @@
 
 ### 数量记录
 
-- 7,496 examples — train split declared in the dataset card（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md）
+- 7,496 个示例 — train split declared in the dataset card（来源报告；来源：https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md）
 
 The card declares 7,496 examples for the 8K release. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.
 

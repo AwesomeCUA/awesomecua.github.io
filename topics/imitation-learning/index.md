@@ -172,6 +172,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.
 - [AutoDroid V2 training data](https://awesomecua.com/resources/url-9a3506ca6ef034adb424/) — Date not recorded
   Conversation-formatted supervision released for fine-tuning AutoDroid V2, with the project documenting a ShareGPT-style JSON configuration.
+- [CaptchaArena-Trajectories](https://awesomecua.com/resources/url-52067b3e48e9381e4c66/) — Date not recorded
+  Chain-of-thought computer-use trajectories on 20 interactive CAPTCHA types: 46,000 browser rollouts with step screenshots and click, drag, hold or type actions, kept only when the page verifier accepts.
 - [FedMABench data partitions](https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/) — Date not recorded
   Six families of JSONL partitions of AndroidControl and AitW mobile-agent episodes for FedMABench federated training under app, category and step/episode heterogeneity; screenshots must be rebuilt from the sources.
 - [Go-Browse-WA processed data](https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/) — Date not recorded
@@ -212,6 +214,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Training data for ASIL agents includes replayed action traces, guided supervision, and an evaluator-backed reinforcement-learning curriculum in JSONL and Parquet splits.
 - [ShowUI-π training data](https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/) — Date not recorded
   Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, presentation, handwriting and other interface tasks.
+- [TimeWarp-GPT5-Traces](https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/) — Date not recorded
+  GPT-5 teacher trajectories on the TimeWarp web benchmark, grouped by UI version, with SoM-annotated screenshots for each step and experiment logs, used to fine-tune web agents with LlamaFactory.
 - [UI-Genie trajectory data](https://awesomecua.com/resources/url-2e1927450da2183a5abe/) — Date not recorded
   Synthetic mobile GUI trajectory supervision and screenshots released with the UI-Genie agent-training pipeline.
 - [Uni-GUI-Desktop-1](https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/) — Date not recorded
@@ -249,8 +253,16 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   A Llama checkpoint trained on demonstrations gathered through WebArena exploration. It takes a task instruction and selects browser actions to navigate webpages.
 - [lumos_unified_plan_iterative-13B](https://awesomecua.com/resources/url-eb6a5940793aa81153d0/) — Date not recorded
   A Lumos planning checkpoint fine-tuned on web-agent, question-answering, multimodal and math tasks within a modular agent system.
+- [nnetnav-wa-qwen-7B](https://awesomecua.com/resources/url-511ba336435d406f3761/) — Date not recorded
+  Qwen-2.5-7B-Instruct fine-tuned on the NNetNav-WA WebArena trajectories, released by the Go-Browse project as its NNetNav-7B comparison model for WebArena web navigation.
 - [OpenMobile-8B](https://awesomecua.com/resources/url-6616228d4f267363458e/) — Date not recorded
   Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile and fine-tuned on its synthesized Android trajectories; the code README serves it with vLLM for AndroidWorld evaluation.
+- [OpenWebVoyager-opt-1](https://awesomecua.com/resources/url-bd293c9a5f9bf16b8199/) — Date not recorded
+  OpenWebVoyager checkpoint after the first exploration-feedback-optimization round: the imitation-learned multimodal web agent further trained on successful real-website trajectories judged by GPT-4o.
+- [OpenWebVoyager-opt-2](https://awesomecua.com/resources/url-f4f6f5bfe051e6ba3d94/) — Date not recorded
+  The second optimization-iteration checkpoint of OpenWebVoyager, an idefics2-8b multimodal web agent trained by imitation learning and then refined on successful real-website trajectories kept by GPT-4o feedback.
+- [OpenWebVoyager-opt-3](https://awesomecua.com/resources/url-2cd89755e4e2511de633/) — Date not recorded
+  Third optimization-stage checkpoint of OpenWebVoyager, an Idefics2-based multimodal web agent trained by imitation learning and then refined on successful self-explored trajectories judged by GPT-4o.
 - [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/) — Date not recorded
   An Idefics2-based multimodal web-agent checkpoint trained by imitation learning on trajectories collected with a web-agent framework.
 - [OS-Genesis 4B AC](https://awesomecua.com/resources/url-b1837823421bd08cb826/) — Date not recorded
@@ -279,8 +291,12 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.
 - [SCOPE-SFT-9B](https://awesomecua.com/resources/url-389202404e2653f59838/) — Date not recorded
   A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.
+- [SEAgent-1.0-7B](https://awesomecua.com/resources/url-62688de46b172fb0c746/) — Date not recorded
+  Computer-use agent checkpoint from SEAgent, built on UI-TARS-7B-DPO and trained by experiential learning on self-generated OSWorld software tasks; the paper reports 34.5% success on five novel applications.
 - [STEVE-R1-7B-SFT](https://awesomecua.com/resources/url-666844c28be1138b0e37/) — Date not recorded
   STEVE-R1-7B-SFT is a released computer-use checkpoint trained with step-verified data for desktop agent tasks and evaluated on Windows and Ubuntu environments.
+- [tti_webarena](https://awesomecua.com/resources/url-a1621345ec327462b86e/) — Date not recorded
+  TTI-WebArena checkpoint from the Test-Time Interaction work, a multimodal web agent trained with online filtered behavior cloning on WebArena tasks and set in the TTI evaluation configs.
 - [UI-Act model](https://awesomecua.com/resources/github-tobiasnorlund-ui-act-model/) — Date not recorded
   2023 GUI agent model: a text-conditioned encoder-decoder Transformer that reads full-screen captures through a convolutional encoder and predicts left clicks on a 4-pixel grid, demonstrated on GNOME Calculator.
 - [UI-Genie Agent 3B](https://awesomecua.com/resources/url-43d811a5957d8effb7ed/) — Date not recorded

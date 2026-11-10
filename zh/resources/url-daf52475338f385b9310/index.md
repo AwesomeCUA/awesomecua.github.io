@@ -28,9 +28,9 @@ The card describes this as a personally reprocessed annotation release: records 
 
 ### 数量记录
 
-- 19 annotation JSONL shards — Hub repository at revision 75287698 (parts 1-19)（计算得出；来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
-- 4,137 screenshot tar shards — Hub repository at revision 75287698 (parts 1-15)（计算得出；来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
-- ≈ 12,000,000 interaction trajectories — WildGUI as described in the Video2GUI project README; not recounted in this Hub release（来源报告；来源：https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md）
+- 19 个标注 JSONL 分片 — Hub repository at revision 75287698 (parts 1-19)（计算得出）（来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
+- 4,137 个截图 tar 分片 — Hub repository at revision 75287698 (parts 1-15)（计算得出）（来源：https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769）
+- ≈ 12,000,000 条交互轨迹 — WildGUI as described in the Video2GUI project README; not recounted in this Hub release（来源报告；来源：https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md）
 
 Shard counts were computed by script from the pinned Hub API file list; they count files. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.
 

@@ -28,8 +28,8 @@ Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI
 
 ### 数量记录
 
-- 101,314 examples — train split (dataset_info in the card metadata)（来源报告；来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md）
-- 64 Parquet shards — data/ at Hub revision f728db8f（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7）
+- 101,314 个示例 — train split (dataset_info in the card metadata)（来源报告；来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md）
+- 64 个 Parquet 分片 — data/ at Hub revision f728db8f（计算得出）（来源：https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7）
 
 Each row holds an image path, the image, an EasyR1 prompt that embeds the element description, pixel and normalized boxes and the image size. Examples and shards are different units. Per-source counts are not given.
 

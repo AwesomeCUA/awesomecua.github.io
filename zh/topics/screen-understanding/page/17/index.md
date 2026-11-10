@@ -4,6 +4,15 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/17/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
+- [WebFovea](https://awesomecua.com/zh/resources/github-jianganghan-webfovea/)
+- [WebMarker](https://awesomecua.com/zh/resources/github-reidbarber-webmarker/)
+- [WebQA Agent](https://awesomecua.com/zh/resources/github-migoxlab-webqa-agent/)
+- [WebSense MCP 2.0](https://awesomecua.com/zh/resources/github-spliffspliff70-wq-websense-mcp/)
+- [WeChat Mac RPA](https://awesomecua.com/zh/resources/github-wq19901103wq-wechat-mac-rpa/)
+- [WieslawSoltes Linux Computer Use for Codex](https://awesomecua.com/zh/resources/github-wieslawsoltes-linuxcomputeruse/)
+- [Win32 MCP Server](https://awesomecua.com/zh/resources/github-randynorthrup-win32-mcp-server/)
+- [winctl-mcp](https://awesomecua.com/zh/resources/github-shult-winctl-mcp/)
+- [Windows Computer Use](https://awesomecua.com/zh/resources/github-cgissing-windows-computer-use/)
 - [Windows Computer Use MCP (DXGI + UIA)](https://awesomecua.com/zh/resources/github-betrayzl-windows-computer-use-mcp/)
 - [Windows Computer-Use Skill](https://awesomecua.com/zh/resources/github-wimi321-windows-computer-use-skill/)
 - [Windows MCP Server](https://awesomecua.com/zh/resources/github-sbroenne-mcp-windows/)

@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
 
+- [Mind2Web](https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web/)
 - [Mind2Web 2](https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web-2/)
 - [Mirage (Adversarial Web Benchmark)](https://awesomecua.com/zh/resources/github-shushant17711-mirage/)
 - [MMSearch-Plus](https://awesomecua.com/zh/resources/github-mmsearch-plus-mmsearch-plus/)
@@ -45,6 +46,7 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
 - [WebArena-Infinity](https://awesomecua.com/zh/resources/github-web-arena-x-webarena-infinity/)
 - [WebArena-Verified](https://awesomecua.com/zh/resources/github-servicenow-webarena-verified/)
 - [WebBench](https://awesomecua.com/zh/resources/github-halluminate-webbench/)
+- [WebCanvas_showcase](https://awesomecua.com/zh/resources/github-imeanai-webcanvas-showcase/)
 - [WebClick](https://awesomecua.com/zh/resources/url-5e2bd1b3398974b79c9c/)
 - [WebGen-Bench](https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/)
 - [WebGuard](https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
 - [WebTestBench](https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/)
 - [WebUIProof](https://awesomecua.com/zh/resources/github-yunyuntsai-webuiproof-benchmark/)
 - [WebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/)
-- [WebWalker](https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/)
-- [WindTunnel](https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/)

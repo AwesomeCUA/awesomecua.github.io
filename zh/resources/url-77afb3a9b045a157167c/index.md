@@ -25,19 +25,19 @@ The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for
 - 评测方式：Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.
 - 侧重：conversational web navigation, next-action prediction from recorded demonstration states
 - 观测：screenshot, DOM snapshot, accessibility tree, extra element properties, open tab URLs and titles, chat history and goal
-- 任务设置：offline
+- 任务设置：离线
 
 ### 数量记录
 
-- 62,966 single-step tasks — all splits, task metadata at revision 9db39ad4（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 2,325 demonstrations — all splits, distinct demo_name values at revision 9db39ad4（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 26,410 single-step tasks — train split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 2,526 single-step tasks — valid split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 2,650 single-step tasks — test_iid split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 6,802 single-step tasks — test_cat split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 8,704 single-step tasks — test_geo split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 10,407 single-step tasks — test_vis split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
-- 5,467 single-step tasks — test_web split（计算得出；来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 62,966 个单步任务 — all splits, task metadata at revision 9db39ad4（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 2,325 条演示 — all splits, distinct demo_name values at revision 9db39ad4（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 26,410 个单步任务 — train split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 2,526 个单步任务 — valid split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 2,650 个单步任务 — test_iid split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 6,802 个单步任务 — test_cat split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 8,704 个单步任务 — test_geo split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 10,407 个单步任务 — test_vis split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
+- 5,467 个单步任务 — test_web split（计算得出）（来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv）
 
 A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries. No agent was run.
 

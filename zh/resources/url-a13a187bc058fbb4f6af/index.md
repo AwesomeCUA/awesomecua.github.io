@@ -28,7 +28,7 @@ The public release contains nine Parquet shards. The short card supplies schema 
 
 ### 数量记录
 
-- 164,533 step records — train split（来源报告；来源：https://huggingface.co/datasets/apurvaga/go-browse-wa/raw/main/README.md）
+- 164,533 条步骤记录 — train split（来源报告；来源：https://huggingface.co/datasets/apurvaga/go-browse-wa/raw/main/README.md）
 
 The card count is flattened step records. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.
 

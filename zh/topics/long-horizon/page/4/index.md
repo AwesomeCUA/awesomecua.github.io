@@ -19,6 +19,7 @@ HTML 页面：https://awesomecua.com/zh/topics/long-horizon/page/4/
 - [Mind2Web 2 task data and judge scripts](https://awesomecua.com/zh/resources/url-4f4c4f0bf0cec93c59d1/)
 - [OSWorld 2.0 task classes](https://awesomecua.com/zh/resources/url-1c4a0389ace7c5cb8a4b/)
 - [OSWorld 2.0 trajectories](https://awesomecua.com/zh/resources/url-3b4e6c30e1d095c22771/)
+- [osworld_v2_assets_gated](https://awesomecua.com/zh/resources/url-3de50fa3eee0081d31ac/)
 - [VeriGUI](https://awesomecua.com/zh/resources/url-8477ada5b7de1d399c9d/)
 - [CODA-PLANNER-TARS-32B](https://awesomecua.com/zh/resources/url-cf16d0a4a05ea7270ffa/)
 - [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/long-horizon/page/4/
 - [VISTA](https://awesomecua.com/zh/resources/github-joshhhhhan-vista/)
 - [WebTactix](https://awesomecua.com/zh/resources/url-40795d2c86388ae89f43/)
 - [WebThinker](https://awesomecua.com/zh/resources/github-ruc-nlpir-webthinker/)
-- [WMA Web Agent](https://awesomecua.com/zh/resources/github-kyle8581-wma-agents/)

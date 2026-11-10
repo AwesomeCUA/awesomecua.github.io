@@ -25,12 +25,12 @@ The Hub repository is named osworld_env; its card titles the release DynamicGUIB
 - 评测方式：Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.
 - 侧重：desktop task completion when interface state changes between observations
 - 观测：English and Chinese task instructions, live desktop application state
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 500 task JSON files — dynamic/ directory at Hub revision 44adf69d（计算得出；来源：https://huggingface.co/api/datasets/L1007555652/osworld_env）
-- 150 tasks — original verified release before the 20 August 2026 expansion（来源报告；来源：https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md）
+- 500 个任务 JSON 文件 — dynamic/ directory at Hub revision 44adf69d（计算得出）（来源：https://huggingface.co/api/datasets/L1007555652/osworld_env）
+- 150 个任务 — original verified release before the 20 August 2026 expansion（来源报告；来源：https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md）
 
 Computed per-folder task files: Chrome 75, GIMP 45, LibreOffice Calc 50, Impress 42, Writer 50, multi-app 66, OS 42, Thunderbird 44, VLC 38 and VS Code 48. The card groups tasks into interruptive UI states, ephemeral references, dynamic list selection and content-triggered interaction.
 

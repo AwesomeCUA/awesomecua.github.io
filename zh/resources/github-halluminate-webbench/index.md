@@ -25,13 +25,13 @@ The README and dataset card describe 2,454 tasks on 452 websites (category count
 - 评测方式：The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.
 - 侧重：live-web task completion, write operations such as account creation, updates and deletions, file downloads
 - 观测：未记录
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 2,454 tasks — documented WebBench task set（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
-- 452 websites — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
-- 2,647 task rows — webbenchfinal.csv as released（计算得出；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv）
+- 2,454 个任务 — documented WebBench task set（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
+- 452 个网站 — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md）
+- 2,647 行任务数据 — webbenchfinal.csv as released（计算得出）（来源：https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv）
 
 The released CSV has columns ID, Starting URL, Category and Task, with 1,637 READ, 594 CREATE, 206 UPDATE, 166 DELETE and 44 FILE_MANIPULATION rows; the README's category table sums to 2,454. A separate webbench_hitl_final.csv covers human-in-the-loop runs. Record the task file revision with a score.
 

@@ -21,12 +21,12 @@ WindowsWorld 是跨应用的 Windows 基准，支持对任务中间步骤进行�
 - 评测方式：Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.
 - 侧重：multi-application Windows workflows, intermediate-state and final-goal completion
 - 观测：screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- 任务设置：interactive
+- 任务设置：交互式
 
 ### 数量记录
 
-- 181 tasks — WindowsWorld benchmark described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
-- 17 desktop applications — WindowsWorld coverage described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
+- 181 个任务 — WindowsWorld benchmark described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
+- 17 个桌面应用 — WindowsWorld coverage described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
 
 Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code.
 

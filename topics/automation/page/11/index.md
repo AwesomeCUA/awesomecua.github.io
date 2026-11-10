@@ -40,6 +40,7 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [DroidAgent](https://awesomecua.com/resources/github-coinse-droidagent/)
 - [DroidBot](https://awesomecua.com/resources/github-honeynet-droidbot/)
 - [DroidBot-GPT](https://awesomecua.com/resources/github-mobilellm-droidbot-gpt/)
+- [droidbotApp](https://awesomecua.com/resources/github-ylimit-droidbotapp/)
 - [DroidFleet](https://awesomecua.com/resources/github-c00l-k1d-droidfleet/)
 - [DroidLume Agent Control](https://awesomecua.com/resources/github-tageecc-droidlume-agent-control/)
 - [Droidrun iOS Portal](https://awesomecua.com/resources/github-droidrun-ios-portal/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [dsh-click](https://awesomecua.com/resources/github-perrylink-dsh-click/)
 - [dsh-computer-use](https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/)
 - [dsh-computer-use-windows](https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/)
-- [dsh-cua](https://awesomecua.com/resources/github-hutusion-dsh-cua/)

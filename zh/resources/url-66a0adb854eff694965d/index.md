@@ -28,11 +28,11 @@ The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned pu
 
 ### 数量记录
 
-- 2,640 trajectories — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
-- ≈ 25,900 steps — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
-- 19 open-source Android apps — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
-- 2,640 task.json trajectory files — Hub manifest at revision 774eb20f（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
-- 34,344 PNG screenshot files — Hub manifest at revision 774eb20f（计算得出；来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
+- 2,640 条轨迹 — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
+- ≈ 25,900 步 — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
+- 19 个开源 Android 应用 — Uni-GUI-OpenMobile card statistics（来源报告；来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md）
+- 2,640 个 task.json 轨迹文件 — Hub manifest at revision 774eb20f（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
+- 34,344 个 PNG 截图文件 — Hub manifest at revision 774eb20f（计算得出）（来源：https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38）
 
 Trajectories, steps, apps and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.
 

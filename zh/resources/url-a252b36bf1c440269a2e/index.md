@@ -28,8 +28,8 @@ The Hub API at revision eacad896 reports gated 'auto' (access is approved automa
 
 ### 数量记录
 
-- 300 tasks — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-- 136 websites — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 300 个任务 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 136 个网站 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
 
 Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
 

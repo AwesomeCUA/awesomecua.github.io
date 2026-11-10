@@ -289,6 +289,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   AriaOS provisions a dedicated virtual machine desktop where computer-use agents operate GUI apps, terminals, and voice interactions.
 - [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) — Date not recorded
   Prebuilt Singularity/Apptainer runtime images for reproducing the ASIL agent benchmark, supplied with versioned manifests and checksums.
+- [AutoWechat](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/) — Date not recorded
+  A simulated WeChat Android app from the AppSim-Bench suite, with chat lists, group chats, contacts and Moments posts backed by local JSON data for AI automation tests.
 - [background-computer-use](https://awesomecua.com/resources/github-panchangam18-background-computer-use/) — Date not recorded
   MCP server and skill library for driving macOS applications in the background without stealing window focus or cursor control.
 - [Beam](https://awesomecua.com/resources/url-51289d2105ef35fd0265/) — Date not recorded
@@ -613,6 +615,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Hub host of OSWorld's prebuilt Ubuntu virtual machines: VMware archives for x86 and arm64 and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run.
 - [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/resources/url-ce775111626bae220596/) — Date not recorded
   Hub host of the Ubuntu virtual machine archive that OSWorld's VirtualBox provider downloads on x86 hosts and imports with VBoxManage; the repository has no card or license declaration.
+- [OSWorld Web](https://awesomecua.com/resources/github-task-web-osworld-web/) — Date not recorded
+  Docker Compose stack of self-hosted web applications, such as banking, email, CRM, calendar, Overleaf and an AWS console, served behind a Caddy reverse proxy as the websites for OSWorld-V2 tasks.
 - [OSWorld Windows VM images](https://awesomecua.com/resources/url-232a1698849e2fea425c/) — Date not recorded
   Hub host of OSWorld's prebuilt Windows 10 virtual machines: a VMware archive and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run of a Windows task.
 - [OvoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/) — Date not recorded
@@ -683,6 +687,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Collaborative Linux desktop streamed to the browser where humans and AI agents share a workspace.
 - [Serpent.AI](https://awesomecua.com/resources/github-serpentai-serpentai/) — Date not recorded
   A Python framework for building agents that interact with native video games, using plugins and support modules to turn games into research environments.
+- [serve-sim](https://awesomecua.com/resources/github-evanbacon-serve-sim/) — Date not recorded
+  A CLI that streams a booted iOS Simulator to a browser preview over MJPEG and WebSocket, with commands and an Agent Skill that let coding agents send taps, gestures, text and button presses.
 - [Shinken](https://awesomecua.com/resources/github-meirtz-shinken/) — Date not recorded
   Shinken is a high-throughput runtime for training computer-use agents end-to-end with reinforcement learning across parallel real desktops.
 - [SlyBrowser](https://awesomecua.com/resources/github-virtualfanc-slybrowser/) — Date not recorded
@@ -697,6 +703,10 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
 - [Steel Cloud](https://awesomecua.com/resources/url-b940a884f200a916a61b/) — Date not recorded
   Managed browser infrastructure associated with Steel Browser.
+- [Steel Node API Library](https://awesomecua.com/resources/github-steel-dev-steel-node/) — Date not recorded
+  TypeScript and JavaScript client for the Steel cloud browser API, with typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files, profiles and credentials.
+- [Steel Python API library](https://awesomecua.com/resources/github-steel-dev-steel-python/) — Date not recorded
+  Python client for the Steel cloud browser API, with synchronous and asynchronous clients and typed calls to create browser sessions, send computer actions, solve CAPTCHAs and manage files and profiles.
 - [SWE-agent](https://awesomecua.com/resources/github-swe-agent-swe-agent/) — Date not recorded
   SWE-agent introduces Agent-Computer Interfaces (ACI) enabling language models to autonomously navigate repositories, edit code, and run tests.
 - [TabCtrl](https://awesomecua.com/resources/github-g1at-tabctrl/) — Date not recorded
@@ -733,6 +743,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   vnc-use is a LangGraph-based computer-use framework that drives remote desktop environments over VNC with multi-model LLM planners and hitl gates.
 - [webarena-docker](https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/) — Date not recorded
   A Docker setup for WebArena websites provides scripts to start site containers and restore their state between experiments involving browser tasks.
+- [webarena-setup](https://awesomecua.com/resources/github-gasse-webarena-setup/) — Date not recorded
+  Shell scripts that load the WebArena and VisualWebArena Docker images, create and patch the site containers, serve a homepage and run an optional reset server between agent evaluations.
 - [WildAWM](https://awesomecua.com/resources/github-msr-orchard-wildawm/) — Date not recorded
   WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.
 - [Windows Sandbox Computer Use Skill](https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/) — Date not recorded

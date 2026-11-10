@@ -28,14 +28,14 @@ The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names
 
 ### 数量记录
 
-- 312 apps — all splits (207 auto, 85 manual_train, 20 manual_test)（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 34,367 screenshots — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 41,293 actions — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 15,934 question-answer samples — auto split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 16,744 question-answer samples — manual_train split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 2,638 question-answer samples — manual_test split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- > 115 hours of exploration video — all apps（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
-- 312 MP4 exploration videos — files at Hub revision ebac33a0 (207 auto, 85 manual_train, 20 manual_test)（计算得出；来源：https://huggingface.co/api/datasets/9211sun/GUI-Xplore/revision/ebac33a0fb368e005af499b5594db4278f49d3da）
+- 312 个应用 — all splits (207 auto, 85 manual_train, 20 manual_test)（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 34,367 张截图 — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 41,293 个动作 — all splits（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 15,934 个问答样本 — auto split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 16,744 个问答样本 — manual_train split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 2,638 个问答样本 — manual_test split（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- > 115 小时探索视频 — all apps（来源报告；来源：https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md）
+- 312 段 MP4 探索视频 — files at Hub revision ebac33a0 (207 auto, 85 manual_train, 20 manual_test)（计算得出）（来源：https://huggingface.co/api/datasets/9211sun/GUI-Xplore/revision/ebac33a0fb368e005af499b5594db4278f49d3da）
 
 Reported counts come from the card's split table. A script over the 15 QA JSON files at revision ebac33a0 counted 15,934 auto, 16,744 manual_train and 2,634 manual_test entries (35,312 in total), so the card's manual_test figure is four higher than the released files. Apps, screenshots, actions, QA samples and video hours are different units and are counted separately.
 
